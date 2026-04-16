@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gemeentenkaart</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    html, body, #map { height: 100%; margin: 0; }
+    .info-box {
+      background: white;
+      padding: 10px 12px;
+      font: 14px/16px Arial, sans-serif;
+      box-shadow: 0 0 12px rgba(0,0,0,0.2);
+      border-radius: 6px;
+    }
+    .legend i {
+      width: 18px;
+      height: 18px;
+      float: left;
+      margin-right: 8px;
+      opacity: 0.9;
+    }
+    .leaflet-control select {
+      width: 270px;
+      padding: 4px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/topojson-client@3"></script>
+
+  <script>
+    const map = L.map('map').setView([52.2, 5.3], 8);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap-bijdragers'
+    }).addTo(map);
+
+    let geojsonLayer;
+    let currentVariable = "installaties_per_woning";
+
+    const configs = {
+      installaties_per_woning: {
+        label: "Installaties per woning",
+        digits: 3,
+        breaks: [0.15, 0.25, 0.32, 0.38, 0.45],
+        stats: { min: 0.06376, q1: 0.26762, median: 0.32384, mean: 0.31669, q3: 0.37764, max: 0.51349 }
+      },
+      vermogen_per_woning: {
+        label: "Vermogen per woning",
+        digits: 3,
+        breaks: [0.60, 0.95, 1.28, 1.50, 1.80],
+        stats: { min: 0.1848, q1: 0.9662, median: 1.2772, mean: 1.2309, q3: 1.5051, max: 2.1326 }
+      },
+      AantalInstallatiesBijWoningen_5: {
+        label: "Aantal installaties",
+        digits: 0,
+        breaks: [1500, 3000, 5000, 8000, 15000],
+        stats: { min: 190, q1: 3085, median: 4876, mean: 6311, q3: 7623, max: 33926 }
+      },
+      OpgesteldVermogenVanZonnepanelen_6: {
+        label: "Opgesteld vermogen",
+        digits: 0,
+        breaks: [6000, 12000, 19000, 30000, 50000],
+        stats: { min: 659, q1: 12938, median: 18572, mean: 23460, q3: 28969, max: 106648 }
+      },
+      WoningenMetZonnestroom_59: {
+        label: "Woningen met zonnestroom (%)",
+        digits: 1,
+        breaks: [20, 38, 45, 51, 58],
+        stats: { min: 9, q1: 38, median: 45, mean: 43.32, q3: 51, max: 65 }
+      },
+      GemiddeldeElektriciteitsteruglevering_54: {
+        label: "Elektriciteitsteruglevering",
+        digits: 0,
+        breaks: [500, 770, 1050, 1260, 1500],
+        stats: { min: 110, q1: 770, median: 1050, mean: 1014, q3: 1260, max: 1850 }
+      },
+      lichte_batterij_kansscore: {
+        label: "Lichte batterij kansscore",
+        digits: 3,
+        breaks: [0.25, 0.42, 0.53, 0.60, 0.67],
+        stats: { min: 0.1283, q1: 0.4232, median: 0.5269, mean: 0.5041, q3: 0.5966, max: 0.7306 }
+      }
+    };
+
+    const beeColors = ['#fff7bc', '#fee391', '#fec44f', '#fe9929', '#d95f0e', '#8c2d04'];
+
+    function isMissing(v) {
+      return v === null || v === undefined || Number.isNaN(v);
+    }
+
+    function formatValue(value, variable) {
+      if (isMissing(value)) return "Geen data";
+      return Number(value).toFixed(configs[variable].digits);
+    }
+
+    function getColor(value) {
+      if (isMissing(value)) return "#d9d9d9";
+      const b = configs[currentVariable].breaks;
+      return value <= b[0] ? beeColors[0] :
+             value <= b[1] ? beeColors[1] :
+             value <= b[2] ? beeColors[2] :
+             value <= b[3] ? beeColors[3] :
+             value <= b[4] ? beeColors[4] :
+                             beeColors[5];
+    }
+
+    function style(feature) {
+      return {
+        fillColor: getColor(feature.properties[currentVariable]),
+        weight: 1,
+        opacity: 1,
+        color: "white",
+        fillOpacity: 0.8
+      };
+    }
+
+    function popupHtml(p) {
+      return `
+        <div style="font-size:14px; line-height:1.4;">
+          <strong>${p.gemeentenaam ?? "Onbekend"}</strong><br>
+          Gemeentecode: ${p.gemeentecode ?? "Geen data"}<br><hr>
+          Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
+          Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
+          Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
+          Opgesteld vermogen: ${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}<br>
+          Woningen met zonnestroom (%): ${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}<br>
+          Elektriciteitsteruglevering: ${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}<br>
+          Lichte batterij kansscore: ${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}
+        </div>
+      `;
+    }
+
+    function onEachFeature(feature, layer) {
+      layer.bindPopup(popupHtml(feature.properties));
+      layer.on({
+        mouseover: function(e) {
+          const l = e.target;
+          l.setStyle({ weight: 2, color: "#333", fillOpacity: 0.95 });
+          l.bringToFront();
+        },
+        mouseout: function(e) {
+          geojsonLayer.resetStyle(e.target);
+        }
+      });
+    }
+
+    const selector = L.control({ position: "topright" });
+    selector.onAdd = function() {
+      const div = L.DomUtil.create("div", "info-box");
+      div.innerHTML = `
+        <label for="varSelect"><strong>Kleur op basis van:</strong></label><br>
+        <select id="varSelect">
+          <option value="installaties_per_woning">Installaties per woning</option>
+          <option value="vermogen_per_woning">Vermogen per woning</option>
+          <option value="AantalInstallatiesBijWoningen_5">Aantal installaties</option>
+          <option value="OpgesteldVermogenVanZonnepanelen_6">Opgesteld vermogen</option>
+          <option value="WoningenMetZonnestroom_59">Woningen met zonnestroom (%)</option>
+          <option value="GemiddeldeElektriciteitsteruglevering_54">Elektriciteitsteruglevering</option>
+          <option value="lichte_batterij_kansscore">Lichte batterij kansscore</option>
+        </select>
+      `;
+      return div;
+    };
+    selector.addTo(map);
+
+    const legend = L.control({ position: "bottomright" });
+    legend.onAdd = function() {
+      this._div = L.DomUtil.create("div", "info-box legend");
+      this.update();
+      return this._div;
+    };
+    legend.update = function() {
+      const cfg = configs[currentVariable];
+      const b = cfg.breaks;
+      const d = cfg.digits;
+      this._div.innerHTML = `
+        <strong>${cfg.label}</strong><br>
+        <i style="background:${beeColors[0]}"></i> ≤ ${b[0].toFixed(d)}<br>
+        <i style="background:${beeColors[1]}"></i> ${b[0].toFixed(d)} – ${b[1].toFixed(d)}<br>
+        <i style="background:${beeColors[2]}"></i> ${b[1].toFixed(d)} – ${b[2].toFixed(d)}<br>
+        <i style="background:${beeColors[3]}"></i> ${b[2].toFixed(d)} – ${b[3].toFixed(d)}<br>
+        <i style="background:${beeColors[4]}"></i> ${b[3].toFixed(d)} – ${b[4].toFixed(d)}<br>
+        <i style="background:${beeColors[5]}"></i> > ${b[4].toFixed(d)}<br>
+        <i style="background:#d9d9d9"></i> Geen data
+      `;
+    };
+    legend.addTo(map);
+
+    const statsBox = L.control({ position: "bottomleft" });
+    statsBox.onAdd = function() {
+      this._div = L.DomUtil.create("div", "info-box");
+      this.update();
+      return this._div;
+    };
+    statsBox.update = function() {
+      const s = configs[currentVariable].stats;
+      const d = configs[currentVariable].digits;
+      this._div.innerHTML = `
+        <strong>${configs[currentVariable].label}</strong><br>
+        Min: ${s.min.toFixed(d)}<br>
+        Q1: ${s.q1.toFixed(d)}<br>
+        Median: ${s.median.toFixed(d)}<br>
+        Mean: ${s.mean.toFixed(d)}<br>
+        Q3: ${s.q3.toFixed(d)}<br>
+        Max: ${s.max.toFixed(d)}
+      `;
+    };
+    statsBox.addTo(map);
+
+    function redrawLayer() {
+      geojsonLayer.eachLayer(function(layer) {
+        layer.setStyle(style(layer.feature));
+        layer.setPopupContent(popupHtml(layer.feature.properties));
+      });
+      legend.update();
+      statsBox.update();
+    }
+
+    fetch("gemeenten_map.topojson")
+      .then(response => {
+        if (!response.ok) throw new Error("TopoJSON niet gevonden");
+        return response.json();
+      })
+      .then(topoData => {
+        const objectName = Object.keys(topoData.objects)[0];
+        const geoData = topojson.feature(topoData, topoData.objects[objectName]);
+
+        geojsonLayer = L.geoJSON(geoData, {
+          style: style,
+          onEachFeature: onEachFeature
+        }).addTo(map);
+
+        map.fitBounds(geojsonLayer.getBounds());
+
+        document.getElementById("varSelect").addEventListener("change", function() {
+          currentVariable = this.value;
+          redrawLayer();
+        });
+      })
+      .catch(error => {
+        console.error(error);
+        alert("Kon gemeenten_map.topojson niet laden.");
+      });
+  </script>
+</body>
+</html>
