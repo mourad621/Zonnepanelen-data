@@ -6,8 +6,110 @@
   <title>Gemeentenkaart</title>
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
   <style>
-    html, body, #map { height: 100%; margin: 0; }
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    #app {
+      display: flex;
+      height: 100vh;
+      width: 100vw;
+      overflow: hidden;
+    }
+
+    #map-wrap {
+      width: 70%;
+      height: 100%;
+      position: relative;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    #sidepanel {
+      width: 30%;
+      height: 100%;
+      border-left: 1px solid #ddd;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #controls {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+      background: #fafafa;
+    }
+
+    #controls label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+
+    #controls select,
+    #controls input {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+      font-size: 14px;
+    }
+
+    #stats {
+      font-size: 13px;
+      line-height: 1.5;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 10px;
+    }
+
+    #table-wrap {
+      flex: 1;
+      overflow: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    thead {
+      position: sticky;
+      top: 0;
+      background: #f4f4f4;
+      z-index: 2;
+    }
+
+    th, td {
+      padding: 8px;
+      border-bottom: 1px solid #e5e5e5;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      cursor: pointer;
+      user-select: none;
+    }
+
+    tr:hover {
+      background: #fff8e8;
+    }
+
+    .selected-row {
+      background: #ffe7b3 !important;
+    }
+
     .info-box {
       background: white;
       padding: 10px 12px;
@@ -15,6 +117,7 @@
       box-shadow: 0 0 12px rgba(0,0,0,0.2);
       border-radius: 6px;
     }
+
     .legend i {
       width: 18px;
       height: 18px;
@@ -22,6 +125,7 @@
       margin-right: 8px;
       opacity: 0.9;
     }
+
     .leaflet-control select {
       width: 270px;
       padding: 4px;
@@ -30,7 +134,49 @@
   </style>
 </head>
 <body>
-  <div id="map"></div>
+  <div id="app">
+    <div id="map-wrap">
+      <div id="map"></div>
+    </div>
+
+    <div id="sidepanel">
+      <div id="controls">
+        <label for="varSelectSide">Kleur op basis van:</label>
+        <select id="varSelectSide">
+          <option value="installaties_per_woning">Installaties per woning</option>
+          <option value="vermogen_per_woning">Vermogen per woning</option>
+          <option value="AantalInstallatiesBijWoningen_5">Aantal installaties</option>
+          <option value="OpgesteldVermogenVanZonnepanelen_6">Opgesteld vermogen</option>
+          <option value="WoningenMetZonnestroom_59">Woningen met zonnestroom (%)</option>
+          <option value="GemiddeldeElektriciteitsteruglevering_54">Elektriciteitsteruglevering</option>
+          <option value="lichte_batterij_kansscore">Lichte batterij kansscore</option>
+        </select>
+
+        <label for="searchBox">Zoeken op gemeente:</label>
+        <input type="text" id="searchBox" placeholder="Typ gemeentenaam..." />
+
+        <div id="stats"></div>
+      </div>
+
+      <div id="table-wrap">
+        <table id="dataTable">
+          <thead>
+            <tr>
+              <th data-col="gemeentenaam">Gemeente</th>
+              <th data-col="installaties_per_woning">Installaties/woning</th>
+              <th data-col="vermogen_per_woning">Vermogen/woning</th>
+              <th data-col="AantalInstallatiesBijWoningen_5">Aantal installaties</th>
+              <th data-col="OpgesteldVermogenVanZonnepanelen_6">Opgesteld vermogen</th>
+              <th data-col="WoningenMetZonnestroom_59">Zonnestroom %</th>
+              <th data-col="GemiddeldeElektriciteitsteruglevering_54">Teruglevering</th>
+              <th data-col="lichte_batterij_kansscore">Kansscore</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/topojson-client@3"></script>
@@ -43,7 +189,11 @@
     }).addTo(map);
 
     let geojsonLayer;
+    let geoDataGlobal;
     let currentVariable = "installaties_per_woning";
+    let currentSortCol = "installaties_per_woning";
+    let currentSortDir = "desc";
+    let selectedLayer = null;
 
     const configs = {
       installaties_per_woning: {
@@ -140,6 +290,7 @@
 
     function onEachFeature(feature, layer) {
       layer.bindPopup(popupHtml(feature.properties));
+
       layer.on({
         mouseover: function(e) {
           const l = e.target;
@@ -147,17 +298,40 @@
           l.bringToFront();
         },
         mouseout: function(e) {
-          geojsonLayer.resetStyle(e.target);
+          if (selectedLayer !== e.target) {
+            geojsonLayer.resetStyle(e.target);
+          }
+        },
+        click: function(e) {
+          selectLayer(e.target, feature.properties.gemeentecode);
         }
       });
     }
 
-    const selector = L.control({ position: "topright" });
-    selector.onAdd = function() {
+    function selectLayer(layer, gemeentecode) {
+      if (selectedLayer) {
+        geojsonLayer.resetStyle(selectedLayer);
+      }
+
+      selectedLayer = layer;
+      selectedLayer.setStyle({
+        weight: 3,
+        color: "#111",
+        fillOpacity: 0.95
+      });
+
+      map.fitBounds(layer.getBounds());
+      layer.openPopup();
+
+      highlightTableRow(gemeentecode);
+    }
+
+    const mapSelector = L.control({ position: "topright" });
+    mapSelector.onAdd = function() {
       const div = L.DomUtil.create("div", "info-box");
       div.innerHTML = `
-        <label for="varSelect"><strong>Kleur op basis van:</strong></label><br>
-        <select id="varSelect">
+        <label for="varSelectMap"><strong>Kleur op basis van:</strong></label><br>
+        <select id="varSelectMap">
           <option value="installaties_per_woning">Installaties per woning</option>
           <option value="vermogen_per_woning">Vermogen per woning</option>
           <option value="AantalInstallatiesBijWoningen_5">Aantal installaties</option>
@@ -169,7 +343,7 @@
       `;
       return div;
     };
-    selector.addTo(map);
+    mapSelector.addTo(map);
 
     const legend = L.control({ position: "bottomright" });
     legend.onAdd = function() {
@@ -194,16 +368,10 @@
     };
     legend.addTo(map);
 
-    const statsBox = L.control({ position: "bottomleft" });
-    statsBox.onAdd = function() {
-      this._div = L.DomUtil.create("div", "info-box");
-      this.update();
-      return this._div;
-    };
-    statsBox.update = function() {
+    function updateStatsPanel() {
       const s = configs[currentVariable].stats;
       const d = configs[currentVariable].digits;
-      this._div.innerHTML = `
+      document.getElementById("stats").innerHTML = `
         <strong>${configs[currentVariable].label}</strong><br>
         Min: ${s.min.toFixed(d)}<br>
         Q1: ${s.q1.toFixed(d)}<br>
@@ -212,17 +380,111 @@
         Q3: ${s.q3.toFixed(d)}<br>
         Max: ${s.max.toFixed(d)}
       `;
-    };
-    statsBox.addTo(map);
+    }
 
     function redrawLayer() {
       geojsonLayer.eachLayer(function(layer) {
         layer.setStyle(style(layer.feature));
         layer.setPopupContent(popupHtml(layer.feature.properties));
       });
+      if (selectedLayer) {
+        selectedLayer.setStyle({
+          weight: 3,
+          color: "#111",
+          fillOpacity: 0.95
+        });
+      }
       legend.update();
-      statsBox.update();
+      updateStatsPanel();
+      renderTable();
     }
+
+    function sortData(features) {
+      return [...features].sort((a, b) => {
+        const av = a.properties[currentSortCol];
+        const bv = b.properties[currentSortCol];
+
+        if (currentSortCol === "gemeentenaam") {
+          const aText = (av ?? "").toString().toLowerCase();
+          const bText = (bv ?? "").toString().toLowerCase();
+          return currentSortDir === "asc"
+            ? aText.localeCompare(bText)
+            : bText.localeCompare(aText);
+        }
+
+        const aNum = isMissing(av) ? -Infinity : Number(av);
+        const bNum = isMissing(bv) ? -Infinity : Number(bv);
+
+        return currentSortDir === "asc" ? aNum - bNum : bNum - aNum;
+      });
+    }
+
+    function highlightTableRow(gemeentecode) {
+      document.querySelectorAll("#dataTable tbody tr").forEach(tr => {
+        tr.classList.toggle("selected-row", tr.dataset.code === gemeentecode);
+      });
+    }
+
+    function renderTable() {
+      const tbody = document.querySelector("#dataTable tbody");
+      const search = document.getElementById("searchBox").value.toLowerCase();
+
+      tbody.innerHTML = "";
+
+      let rows = sortData(geoDataGlobal.features);
+
+      rows = rows.filter(f =>
+        (f.properties.gemeentenaam ?? "").toLowerCase().includes(search)
+      );
+
+      rows.forEach(feature => {
+        const p = feature.properties;
+        const tr = document.createElement("tr");
+        tr.dataset.code = p.gemeentecode;
+
+        tr.innerHTML = `
+          <td>${p.gemeentenaam ?? ""}</td>
+          <td>${formatValue(p.installaties_per_woning, "installaties_per_woning")}</td>
+          <td>${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}</td>
+          <td>${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}</td>
+          <td>${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}</td>
+          <td>${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}</td>
+          <td>${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}</td>
+          <td>${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}</td>
+        `;
+
+        tr.addEventListener("click", function() {
+          geojsonLayer.eachLayer(function(layer) {
+            if (layer.feature.properties.gemeentecode === p.gemeentecode) {
+              selectLayer(layer, p.gemeentecode);
+            }
+          });
+        });
+
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.querySelectorAll("#dataTable thead th").forEach(th => {
+      th.addEventListener("click", function() {
+        const col = this.dataset.col;
+        if (currentSortCol === col) {
+          currentSortDir = currentSortDir === "asc" ? "desc" : "asc";
+        } else {
+          currentSortCol = col;
+          currentSortDir = col === "gemeentenaam" ? "asc" : "desc";
+        }
+        renderTable();
+      });
+    });
+
+    document.getElementById("searchBox").addEventListener("input", renderTable);
+
+    document.getElementById("varSelectSide").addEventListener("change", function() {
+      currentVariable = this.value;
+      document.getElementById("varSelectMap").value = this.value;
+      redrawLayer();
+    });
 
     fetch("gemeenten_map.topojson")
       .then(response => {
@@ -231,17 +493,20 @@
       })
       .then(topoData => {
         const objectName = Object.keys(topoData.objects)[0];
-        const geoData = topojson.feature(topoData, topoData.objects[objectName]);
+        geoDataGlobal = topojson.feature(topoData, topoData.objects[objectName]);
 
-        geojsonLayer = L.geoJSON(geoData, {
+        geojsonLayer = L.geoJSON(geoDataGlobal, {
           style: style,
           onEachFeature: onEachFeature
         }).addTo(map);
 
         map.fitBounds(geojsonLayer.getBounds());
+        updateStatsPanel();
+        renderTable();
 
-        document.getElementById("varSelect").addEventListener("change", function() {
+        document.getElementById("varSelectMap").addEventListener("change", function() {
           currentVariable = this.value;
+          document.getElementById("varSelectSide").value = this.value;
           redrawLayer();
         });
       })
