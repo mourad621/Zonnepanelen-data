@@ -376,19 +376,31 @@
     }
 
     function selectLayer(layer, code) {
-      if (selectedLayer) {
-        geojsonLayer.resetStyle(selectedLayer);
-      }
-      selectedLayer = layer;
-      selectedLayer.setStyle({
-        weight: 3,
-        color: "#111",
-        fillOpacity: 0.95
-      });
-      map.fitBounds(layer.getBounds());
-      layer.openPopup();
-      highlightTableRow(code);
-    }
+  if (selectedLayer) {
+    geojsonLayer.resetStyle(selectedLayer);
+  }
+
+  selectedLayer = layer;
+  selectedLayer.setStyle({
+    weight: 3,
+    color: "#111",
+    fillOpacity: 0.95
+  });
+
+  if (currentDataset === "buurten") {
+    map.fitBounds(layer.getBounds(), {
+      maxZoom: 14,
+      padding: [20, 20]
+    });
+  } else {
+    map.fitBounds(layer.getBounds(), {
+      padding: [20, 20]
+    });
+  }
+
+  layer.openPopup();
+  highlightTableRow(code);
+}
 
     const legend = L.control({ position: "bottomright" });
     legend.onAdd = function() {
