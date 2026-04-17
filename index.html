@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="nl">
-<!DOCTYPE html>
-<html lang="nl">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -27,6 +25,7 @@
       width: 70%;
       height: 100%;
       position: relative;
+      background: #f3f3f3;
     }
 
     #map {
@@ -135,12 +134,36 @@
       color: #666;
       font-size: 12px;
     }
+
+    #mapMessage {
+      position: absolute;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 30px;
+      background: #f7f7f7;
+      color: #444;
+      font-size: 18px;
+      z-index: 500;
+    }
+
+    #backToGemeentenBtn {
+      width: 100%;
+      padding: 8px;
+      font-size: 14px;
+      margin-top: 6px;
+      cursor: pointer;
+      display: none;
+    }
   </style>
 </head>
 <body>
   <div id="app">
     <div id="map-wrap">
       <div id="map"></div>
+      <div id="mapMessage">Klik op een buurt in de tabel om de kaart van die gemeente te laden.</div>
     </div>
 
     <div id="sidepanel">
@@ -153,6 +176,8 @@
 
         <label for="varSelect">Kleur op basis van:</label>
         <select id="varSelect"></select>
+
+        <button id="backToGemeentenBtn">Terug naar gemeentenkaart</button>
 
         <label for="searchBox">Zoeken:</label>
         <input type="text" id="searchBox" placeholder="Typ naam of code..." />
@@ -184,9 +209,9 @@
     const datasets = {
       gemeenten: {
         file: "gemeenten_map.topojson",
+        type: "topojson",
         nameField: "gemeentenaam",
         codeField: "gemeentecode",
-        extraPopupTop: [],
         tableColumns: [
           { key: "gemeentenaam", label: "Gemeente", type: "text" },
           { key: "gemeentecode", label: "Code", type: "text" },
@@ -201,13 +226,9 @@
       },
       buurten: {
         file: "buurten_map.topojson",
+        type: "topojson",
         nameField: "buurtnaam",
         codeField: "buurtcode",
-        extraPopupTop: [
-          { key: "wijkcode", label: "Wijkcode", digits: 0, type: "text" },
-          { key: "gemeentenaam", label: "Gemeente", digits: 0, type: "text" },
-          { key: "pc6_codes", label: "PC6-codes", digits: 0, type: "text" }
-        ],
         tableColumns: [
           { key: "buurtnaam", label: "Buurt", type: "text" },
           { key: "buurtcode", label: "Code", type: "text" },
@@ -242,11 +263,10 @@
     let selectedLayer = null;
     let currentBreaks = [0, 0, 0, 0, 0];
     let currentStats = null;
-    const dataCache = {};
+    let currentLoadedGemeenteGeojson = null;
+    let currentLoadedGemeenteName = null;
 
-    function isMissing(v) {
-      return v === null || v === undefined || v === "" || Number.isNaN(Number(v));
-    }
+    const dataCache = {};
 
     function isReallyMissing(v) {
       return v === null || v === undefined || v === "";
@@ -258,6 +278,13 @@
       if (typeof value === "string" && isNaN(Number(value))) return value;
       const digits = variableCatalog[key]?.digits ?? 0;
       return Number(value).toFixed(digits);
+    }
+
+    function slugifyGemeenteName(name) {
+      return String(name ?? "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^A-Za-z0-9_-]/g, "_");
     }
 
     function getValidValues(features, key) {
@@ -329,34 +356,43 @@
       };
     }
 
-    function popupHtml(p) {
-      const cfg = datasets[currentDataset];
-      let html = `
+    function popupHtml(p, datasetType = currentDataset) {
+      if (datasetType === "gemeenten") {
+        return `
+          <div style="font-size:14px; line-height:1.45;">
+            <strong>${p.gemeentenaam ?? "Onbekend"}</strong><br>
+            Code: ${p.gemeentecode ?? "Geen data"}<br><hr>
+            Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
+            Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
+            Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
+            Opgesteld vermogen: ${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}<br>
+            Woningen met zonnestroom (%): ${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}<br>
+            Elektriciteitsteruglevering: ${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}<br>
+            Lichte batterij kansscore: ${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}
+          </div>
+        `;
+      }
+
+      return `
         <div style="font-size:14px; line-height:1.45;">
-          <strong>${p[cfg.nameField] ?? "Onbekend"}</strong><br>
-          Code: ${p[cfg.codeField] ?? "Geen data"}<br>
-      `;
-
-      cfg.extraPopupTop.forEach(item => {
-        html += `${item.label}: ${formatValue(p[item.key], item.key)}<br>`;
-      });
-
-      html += `<hr>
-        Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
-        Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
-        Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
-        Opgesteld vermogen: ${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}<br>
-        Woningen met zonnestroom (%): ${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}<br>
-        Elektriciteitsteruglevering: ${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}<br>
-        Lichte batterij kansscore: ${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}
+          <strong>${p.buurtnaam ?? "Onbekend"}</strong><br>
+          Code: ${p.buurtcode ?? "Geen data"}<br>
+          Wijkcode: ${p.wijkcode ?? "Geen data"}<br>
+          Gemeente: ${p.gemeentenaam ?? "Geen data"}<br>
+          PC6-codes: ${p.pc6_codes ?? "Geen data"}<br><hr>
+          Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
+          Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
+          Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
+          Opgesteld vermogen: ${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}<br>
+          Woningen met zonnestroom (%): ${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}<br>
+          Elektriciteitsteruglevering: ${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}<br>
+          Lichte batterij kansscore: ${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}
         </div>
       `;
-
-      return html;
     }
 
     function onEachFeature(feature, layer) {
-      layer.bindPopup(popupHtml(feature.properties));
+      layer.bindPopup(popupHtml(feature.properties, currentDataset));
 
       layer.on({
         mouseover: function(e) {
@@ -376,31 +412,25 @@
     }
 
     function selectLayer(layer, code) {
-  if (selectedLayer) {
-    geojsonLayer.resetStyle(selectedLayer);
-  }
+      if (selectedLayer && geojsonLayer) {
+        geojsonLayer.resetStyle(selectedLayer);
+      }
 
-  selectedLayer = layer;
-  selectedLayer.setStyle({
-    weight: 3,
-    color: "#111",
-    fillOpacity: 0.95
-  });
+      selectedLayer = layer;
+      selectedLayer.setStyle({
+        weight: 3,
+        color: "#111",
+        fillOpacity: 0.95
+      });
 
-  if (currentDataset === "buurten") {
-    map.fitBounds(layer.getBounds(), {
-      maxZoom: 14,
-      padding: [20, 20]
-    });
-  } else {
-    map.fitBounds(layer.getBounds(), {
-      padding: [20, 20]
-    });
-  }
+      map.fitBounds(layer.getBounds(), {
+        maxZoom: 14,
+        padding: [20, 20]
+      });
 
-  layer.openPopup();
-  highlightTableRow(code);
-}
+      layer.openPopup();
+      highlightTableRow(code);
+    }
 
     const legend = L.control({ position: "bottomright" });
     legend.onAdd = function() {
@@ -428,6 +458,11 @@
 
     function updateStatsPanel() {
       const d = variableCatalog[currentVariable].digits;
+      let laagTekst = currentDataset;
+      if (currentDataset === "buurten" && currentLoadedGemeenteName) {
+        laagTekst = `buurten (${currentLoadedGemeenteName})`;
+      }
+
       document.getElementById("stats").innerHTML = `
         <strong>${variableCatalog[currentVariable].label}</strong><br>
         Min: ${currentStats.min.toFixed(d)}<br>
@@ -436,7 +471,7 @@
         Mean: ${currentStats.mean.toFixed(d)}<br>
         Q3: ${currentStats.q3.toFixed(d)}<br>
         Max: ${currentStats.max.toFixed(d)}<br>
-        <div class="muted" style="margin-top:8px;">Laag: ${currentDataset}</div>
+        <div class="muted" style="margin-top:8px;">Laag: ${laagTekst}</div>
       `;
     }
 
@@ -468,7 +503,7 @@
             currentSortDir = currentSortDir === "asc" ? "desc" : "asc";
           } else {
             currentSortCol = col;
-            currentSortDir = "desc";
+            currentSortDir = datasets[currentDataset].tableColumns.find(c => c.key === col)?.type === "text" ? "asc" : "desc";
           }
           renderTable();
         });
@@ -505,6 +540,63 @@
       });
     }
 
+    async function openBuurtGemeenteMap(feature) {
+      const p = feature.properties;
+      const gemeenteName = p.gemeentenaam;
+      const buurtCode = p.buurtcode;
+      const bestand = `buurten_per_gemeente/${slugifyGemeenteName(gemeenteName)}.geojson`;
+
+      if (!dataCache[bestand]) {
+        const response = await fetch(bestand);
+        if (!response.ok) throw new Error(`Kon ${bestand} niet laden`);
+        dataCache[bestand] = await response.json();
+      }
+
+      currentLoadedGemeenteGeojson = dataCache[bestand];
+      currentLoadedGemeenteName = gemeenteName;
+
+      if (geojsonLayer) {
+        map.removeLayer(geojsonLayer);
+      }
+
+      geojsonLayer = L.geoJSON(currentLoadedGemeenteGeojson, {
+        style: style,
+        onEachFeature: function(feat, layer) {
+          layer.bindPopup(popupHtml(feat.properties, "buurten"));
+          layer.on({
+            mouseover: function(e) {
+              const l = e.target;
+              l.setStyle({ weight: 2, color: "#333", fillOpacity: 0.95 });
+              l.bringToFront();
+            },
+            mouseout: function(e) {
+              if (selectedLayer !== e.target) {
+                geojsonLayer.resetStyle(e.target);
+              }
+            },
+            click: function(e) {
+              selectLayer(e.target, feat.properties.buurtcode);
+            }
+          });
+        }
+      }).addTo(map);
+
+      map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20], maxZoom: 12 });
+
+      computeStatsAndBreaks();
+      legend.update();
+      updateStatsPanel();
+
+      document.getElementById("mapMessage").style.display = "none";
+      document.getElementById("backToGemeentenBtn").style.display = "block";
+
+      geojsonLayer.eachLayer(function(layer) {
+        if (layer.feature.properties.buurtcode === buurtCode) {
+          selectLayer(layer, buurtCode);
+        }
+      });
+    }
+
     function renderTable() {
       const tbody = document.querySelector("#dataTable tbody");
       const cols = datasets[currentDataset].tableColumns;
@@ -519,7 +611,8 @@
         const p = f.properties;
         const name = (p[cfg.nameField] ?? "").toString().toLowerCase();
         const code = (p[cfg.codeField] ?? "").toString().toLowerCase();
-        return name.includes(search) || code.includes(search);
+        const gemeente = (p.gemeentenaam ?? "").toString().toLowerCase();
+        return name.includes(search) || code.includes(search) || gemeente.includes(search);
       });
 
       rows.forEach(feature => {
@@ -527,16 +620,24 @@
         const tr = document.createElement("tr");
         tr.dataset.code = p[cfg.codeField];
 
-        tr.innerHTML = cols.map(col => `
-          <td>${formatValue(p[col.key], col.key)}</td>
-        `).join("");
+        tr.innerHTML = cols.map(col => `<td>${formatValue(p[col.key], col.key)}</td>`).join("");
 
-        tr.addEventListener("click", function() {
-          geojsonLayer.eachLayer(function(layer) {
-            if (layer.feature.properties[cfg.codeField] === p[cfg.codeField]) {
-              selectLayer(layer, p[cfg.codeField]);
+        tr.addEventListener("click", async function() {
+          try {
+            if (currentDataset === "gemeenten") {
+              geojsonLayer.eachLayer(function(layer) {
+                if (layer.feature.properties.gemeentecode === p.gemeentecode) {
+                  selectLayer(layer, p.gemeentecode);
+                }
+              });
+            } else {
+              await openBuurtGemeenteMap(feature);
+              highlightTableRow(p.buurtcode);
             }
-          });
+          } catch (err) {
+            console.error(err);
+            alert(err.message);
+          }
         });
 
         tbody.appendChild(tr);
@@ -546,51 +647,73 @@
     function redrawLayer() {
       computeStatsAndBreaks();
 
-      geojsonLayer.eachLayer(function(layer) {
-        layer.setStyle(style(layer.feature));
-        layer.setPopupContent(popupHtml(layer.feature.properties));
-      });
-
-      if (selectedLayer) {
-        selectedLayer.setStyle({
-          weight: 3,
-          color: "#111",
-          fillOpacity: 0.95
+      if (geojsonLayer) {
+        geojsonLayer.eachLayer(function(layer) {
+          layer.setStyle(style(layer.feature));
         });
       }
 
       legend.update();
       updateStatsPanel();
-      renderTable();
+
+      if (currentDataset === "gemeenten") {
+        renderTable();
+      } else {
+        if (currentLoadedGemeenteGeojson && geojsonLayer) {
+          geojsonLayer.eachLayer(function(layer) {
+            layer.setPopupContent(popupHtml(layer.feature.properties, "buurten"));
+          });
+        }
+        renderTable();
+      }
+    }
+
+    async function loadTopoAsGeoJSON(file) {
+      const response = await fetch(file);
+      if (!response.ok) throw new Error(`Kon ${file} niet laden`);
+      const topoData = await response.json();
+      const objectName = Object.keys(topoData.objects)[0];
+      return topojson.feature(topoData, topoData.objects[objectName]);
     }
 
     async function loadDataset(datasetKey) {
       currentDataset = datasetKey;
       selectedLayer = null;
+      currentLoadedGemeenteGeojson = null;
+      currentLoadedGemeenteName = null;
 
-      if (!dataCache[datasetKey]) {
-        const response = await fetch(datasets[datasetKey].file);
-        if (!response.ok) throw new Error(`Kon ${datasets[datasetKey].file} niet laden`);
-        const topoData = await response.json();
-        const objectName = Object.keys(topoData.objects)[0];
-        dataCache[datasetKey] = topojson.feature(topoData, topoData.objects[objectName]);
+      document.getElementById("backToGemeentenBtn").style.display = "none";
+
+      if (!dataCache[datasets[datasetKey].file]) {
+        dataCache[datasets[datasetKey].file] = await loadTopoAsGeoJSON(datasets[datasetKey].file);
       }
 
-      geoDataGlobal = dataCache[datasetKey];
+      geoDataGlobal = dataCache[datasets[datasetKey].file];
 
       if (geojsonLayer) {
         map.removeLayer(geojsonLayer);
+        geojsonLayer = null;
       }
 
-      geojsonLayer = L.geoJSON(geoDataGlobal, {
-        style: style,
-        onEachFeature: onEachFeature
-      }).addTo(map);
-
-      map.fitBounds(geojsonLayer.getBounds());
-
       buildTableHeader();
-      redrawLayer();
+      computeStatsAndBreaks();
+      legend.update();
+      updateStatsPanel();
+      renderTable();
+
+      if (datasetKey === "gemeenten") {
+        document.getElementById("mapMessage").style.display = "none";
+
+        geojsonLayer = L.geoJSON(geoDataGlobal, {
+          style: style,
+          onEachFeature: onEachFeature
+        }).addTo(map);
+
+        map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20] });
+      } else {
+        document.getElementById("mapMessage").style.display = "flex";
+        map.setView([52.2, 5.3], 8);
+      }
     }
 
     document.getElementById("datasetSelect").addEventListener("change", function() {
@@ -606,6 +729,14 @@
     });
 
     document.getElementById("searchBox").addEventListener("input", renderTable);
+
+    document.getElementById("backToGemeentenBtn").addEventListener("click", function() {
+      document.getElementById("datasetSelect").value = "gemeenten";
+      loadDataset("gemeenten").catch(err => {
+        console.error(err);
+        alert(err.message);
+      });
+    });
 
     buildVariableSelect();
 
