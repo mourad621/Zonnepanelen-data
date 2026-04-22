@@ -310,6 +310,38 @@
         .replace(/[^A-Za-z0-9_-]/g, "_");
     }
 
+    function getGemeenteGeojsonCandidates(gemeenteName) {
+      const original = String(gemeenteName ?? "").trim();
+      const normalized = original
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+      const slug = slugifyGemeenteName(original);
+      const variants = new Set();
+
+      function addCandidate(baseName) {
+        if (!baseName) return;
+        variants.add(`buurten_per_gemeente/${baseName}.geojson`);
+      }
+
+      addCandidate(slug);
+
+      if (slug.startsWith("_")) {
+        addCandidate(slug.replace(/^_+/, ""));
+      } else {
+        addCandidate(`_${slug}`);
+      }
+
+      const apostropheRemoved = normalized
+        .replace(/'/g, "")
+        .replace(/[^A-Za-z0-9_-]/g, "_");
+      addCandidate(apostropheRemoved);
+
+      const apostropheAsUnderscore = normalized.replace(/[^A-Za-z0-9_-]/g, "_");
+      addCandidate(apostropheAsUnderscore);
+
+      return [...variants];
+    }
+
     function getValidValues(features, key) {
       return features
         .map(f => f.properties[key])
@@ -582,15 +614,28 @@
     }
 
     async function openBuurtGemeenteMapByName(gemeenteName, buurtCode = null) {
-      const bestand = `buurten_per_gemeente/${slugifyGemeenteName(gemeenteName)}.geojson`;
+      const bestanden = getGemeenteGeojsonCandidates(gemeenteName);
+      let gevondenBestand = null;
 
-      if (!dataCache[bestand]) {
+      for (const bestand of bestanden) {
+        if (dataCache[bestand]) {
+          gevondenBestand = bestand;
+          break;
+        }
+
         const response = await fetch(bestand);
-        if (!response.ok) throw new Error(`Kon ${bestand} niet laden`);
+        if (!response.ok) continue;
+
         dataCache[bestand] = await response.json();
+        gevondenBestand = bestand;
+        break;
       }
 
-      currentLoadedGemeenteGeojson = dataCache[bestand];
+      if (!gevondenBestand) {
+        throw new Error(`Kon geen buurtkaart laden voor ${gemeenteName}. Geprobeerd: ${bestanden.join(", ")}`);
+      }
+
+      currentLoadedGemeenteGeojson = dataCache[gevondenBestand];
       currentLoadedGemeenteName = gemeenteName;
       currentDataset = "buurten";
       geoDataGlobal = currentLoadedGemeenteGeojson;
