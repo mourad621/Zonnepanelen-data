@@ -339,7 +339,6 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/topojson-client@3"></script>
-  <script src="https://unpkg.com/pako@2.1.0/dist/pako.min.js"></script>
 
   <script>
     const map = L.map("map").setView([52.2, 5.3], 8);
@@ -425,8 +424,7 @@
     let currentLoadedGemeenteName = null;
 
     const dataCache = {};
-    const addressDataFile = "bag_postcodes_huisnummers.csv.gz";
-    let addressCsvTextPromise = null;
+    const addressFolder = "adressen_per_buurt";
     const startupParams = new URLSearchParams(window.location.search);
     const startupSelection = {
       gemeente: startupParams.get("gemeente") || startupParams.get("gemeentenaam"),
@@ -489,101 +487,29 @@
       `;
     }
 
-    function parseCsvLine(line) {
-      const values = [];
-      let current = "";
-      let inQuotes = false;
+    async function downloadAddressFileForFeature(feature) {
+      const buurtcode = feature.properties.buurtcode;
+      const response = await fetch(`${addressFolder}/${encodeURIComponent(buurtcode)}.csv`);
 
-      for (let i = 0; i < line.length; i++) {
-        const char = line[i];
-        const next = line[i + 1];
-
-        if (char === '"' && inQuotes && next === '"') {
-          current += '"';
-          i++;
-        } else if (char === '"') {
-          inQuotes = !inQuotes;
-        } else if (char === "," && !inQuotes) {
-          values.push(current);
-          current = "";
-        } else {
-          current += char;
-        }
+      if (!response.ok) {
+        throw new Error(`Geen adresbestand gevonden voor ${buurtcode}`);
       }
 
-      values.push(current);
-      return values;
-    }
-
-    function csvCell(value) {
-      const text = String(value ?? "");
-      if (/[",\r\n]/.test(text)) {
-        return `"${text.replace(/"/g, '""')}"`;
+      const csv = await response.text();
+      if (!csv.trim()) {
+        throw new Error(`Adresbestand voor ${buurtcode} is leeg`);
       }
-      return text;
-    }
 
-    async function getAddressCsvText() {
-      if (addressCsvTextPromise) return addressCsvTextPromise;
-
-      addressCsvTextPromise = (async function() {
-        if (!window.pako) {
-          throw new Error("CSV-gzip parser kon niet laden. Controleer je internetverbinding.");
-        }
-
-        const response = await fetch(addressDataFile);
-        if (!response.ok) {
-          throw new Error(`Kon ${addressDataFile} niet laden`);
-        }
-
-        const compressed = new Uint8Array(await response.arrayBuffer());
-        return pako.ungzip(compressed, { to: "string" });
-      })();
-
-      return addressCsvTextPromise;
-    }
-
-    async function getAddressesForFeature(feature) {
-      const pc6Codes = new Set(getPc6Codes(feature.properties.pc6_codes));
-      const csvText = await getAddressCsvText();
-      const lines = csvText.split(/\r?\n/);
-      const headers = parseCsvLine(lines.shift() || "").map(h => h.trim());
-      const rows = [];
-
-      lines.forEach(line => {
-        if (!line) return;
-
-        const values = parseCsvLine(line);
-        const row = {};
-        headers.forEach((header, idx) => {
-          row[header] = values[idx] ?? "";
-        });
-
-        const postcode = String(row.postcode ?? "").trim().toUpperCase();
-        if (pc6Codes.has(postcode)) rows.push(row);
-      });
-
-      rows.sort((a, b) => {
-        const postcodeCompare = String(a.postcode).localeCompare(String(b.postcode));
-        if (postcodeCompare !== 0) return postcodeCompare;
-        return Number(a.huisnummer || 0) - Number(b.huisnummer || 0);
-      });
-
-      return rows;
-    }
-
-    function downloadRowsAsCsv(rows, filename) {
-      const headers = ["postcode", "huisnummer", "huisletter", "toevoeging"];
-      const csv = [
-        headers.join(","),
-        ...rows.map(row => headers.map(header => csvCell(row[header])).join(","))
-      ].join("\r\n");
+      const safeName = String(feature.properties.buurtnaam || buurtcode)
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^A-Za-z0-9_-]/g, "_");
 
       const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
       const url = URL.createObjectURL(blob);
       const link = document.createElement("a");
       link.href = url;
-      link.download = filename;
+      link.download = `${buurtcode}_${safeName}_adressen.csv`;
       document.body.appendChild(link);
       link.click();
       link.remove();
@@ -838,21 +764,10 @@
 
         try {
           this.disabled = true;
-          if (status) status.textContent = "Adressen laden...";
+          if (status) status.textContent = "Adresbestand laden...";
 
-          const rows = await getAddressesForFeature(feature);
-          if (!rows.length) {
-            if (status) status.textContent = "Geen adressen gevonden voor deze postcodes.";
-            return;
-          }
-
-          const safeName = String(feature.properties.buurtnaam || buurtcode)
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f]/g, "")
-            .replace(/[^A-Za-z0-9_-]/g, "_");
-
-          downloadRowsAsCsv(rows, `${buurtcode}_${safeName}_adressen.csv`);
-          if (status) status.textContent = `${rows.length} adressen gedownload.`;
+          await downloadAddressFileForFeature(feature);
+          if (status) status.textContent = "Download gestart.";
         } catch (err) {
           console.error(err);
           if (status) status.textContent = err.message;
