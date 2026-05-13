@@ -22,7 +22,7 @@
     }
 
     #map-wrap {
-      width: 50%;
+      width: 70%;
       height: 100%;
       position: relative;
       background: #f3f3f3;
@@ -34,7 +34,7 @@
     }
 
     #sidepanel {
-      width: 50%;
+      width: 30%;
       height: 100%;
       border-left: 1px solid #ddd;
       background: #fff;
@@ -44,7 +44,7 @@
     }
 
     #controls {
-      padding: 12px;
+      padding: 10px;
       border-bottom: 1px solid #ddd;
       background: #fafafa;
     }
@@ -59,14 +59,14 @@
     #controls select,
     #controls input {
       width: 100%;
-      padding: 8px;
+      padding: 7px;
       box-sizing: border-box;
       font-size: 14px;
       margin-bottom: 8px;
     }
 
     #stats {
-      font-size: 13px;
+      font-size: 12px;
       line-height: 1.45;
       background: #fff;
       border: 1px solid #ddd;
@@ -83,7 +83,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 13px;
+      font-size: 12px;
     }
 
     thead {
@@ -94,7 +94,7 @@
     }
 
     th, td {
-      padding: 8px;
+      padding: 7px;
       border-bottom: 1px solid #e5e5e5;
       text-align: left;
       vertical-align: top;
@@ -158,6 +158,18 @@
       display: none;
     }
 
+    #mobilePanelToggle {
+      display: none;
+      width: 100%;
+      padding: 10px;
+      font-size: 14px;
+      font-weight: bold;
+      cursor: pointer;
+      background: #fff;
+      border: 1px solid #bbb;
+      border-radius: 6px;
+    }
+
     .popup-link {
       display: inline-block;
       margin-top: 8px;
@@ -168,6 +180,77 @@
 
     .popup-link:hover {
       text-decoration: underline;
+    }
+
+    @media (max-width: 760px) {
+      #app {
+        display: block;
+      }
+
+      #map-wrap {
+        width: 100%;
+        height: 100vh;
+      }
+
+      #sidepanel {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 58vh;
+        border-left: 0;
+        border-top: 1px solid #ccc;
+        box-shadow: 0 -8px 24px rgba(0,0,0,0.22);
+        z-index: 900;
+        transform: translateY(calc(100% - 52px));
+        transition: transform 180ms ease;
+      }
+
+      #sidepanel.panel-open {
+        transform: translateY(0);
+      }
+
+      #controls {
+        padding: 6px 10px 8px;
+      }
+
+      #controls label,
+      #controls select,
+      #controls input,
+      #stats,
+      #backToGemeentenBtn {
+        display: none;
+      }
+
+      #sidepanel.panel-open #controls label,
+      #sidepanel.panel-open #controls select,
+      #sidepanel.panel-open #controls input,
+      #sidepanel.panel-open #stats,
+      #sidepanel.panel-open #backToGemeentenBtn {
+        display: block;
+      }
+
+      #mobilePanelToggle {
+        display: block;
+      }
+
+      #table-wrap {
+        display: none;
+      }
+
+      #sidepanel.panel-open #table-wrap {
+        display: block;
+      }
+
+      table {
+        min-width: 980px;
+      }
+
+      .info-box {
+        font-size: 12px;
+        max-width: 170px;
+      }
     }
   </style>
 </head>
@@ -180,6 +263,8 @@
 
     <div id="sidepanel">
       <div id="controls">
+        <button id="mobilePanelToggle" type="button">Tabel tonen</button>
+
         <label for="datasetSelect">Kaartlaag:</label>
         <select id="datasetSelect">
           <option value="gemeenten">Gemeenten</option>
@@ -214,7 +299,7 @@
 
     const osmLayer = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "&copy; OpenStreetMap-bijdragers"
-    });
+    }).addTo(map);
 
     const pdokLuchtfotoLayer = L.tileLayer.wms("https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0", {
       layers: "Actueel_orthoHR",
@@ -223,11 +308,11 @@
       transparent: false,
       version: "1.3.0",
       attribution: "Luchtfoto: PDOK"
-    }).addTo(map);
+    });
 
     L.control.layers({
-      "PDOK luchtfoto": pdokLuchtfotoLayer,
-      "OpenStreetMap": osmLayer
+      "OpenStreetMap": osmLayer,
+      "PDOK luchtfoto": pdokLuchtfotoLayer
     }).addTo(map);
 
     const beeColors = ["#fff7bc", "#fee391", "#fec44f", "#fe9929", "#d95f0e", "#8c2d04"];
@@ -447,7 +532,24 @@
         weight: 1,
         opacity: 1,
         color: "white",
-        fillOpacity: currentDataset === "buurten" ? 0.28 : 0.42
+        fillOpacity: currentDataset === "buurten" ? 0.36 : 0.48
+      };
+    }
+
+    function hoverStyle() {
+      return {
+        weight: 3,
+        color: "#111",
+        opacity: 1
+      };
+    }
+
+    function selectedStyle() {
+      return {
+        weight: 4,
+        color: "#007a9f",
+        fillColor: "#20b6d2",
+        fillOpacity: 0.18
       };
     }
 
@@ -500,12 +602,14 @@
       layer.on({
         mouseover: function(e) {
           const l = e.target;
-          l.setStyle({ weight: 2, color: "#333", fillOpacity: 0.95 });
+          l.setStyle(hoverStyle());
           l.bringToFront();
         },
         mouseout: function(e) {
           if (selectedLayer !== e.target) {
             geojsonLayer.resetStyle(e.target);
+          } else {
+            e.target.setStyle(selectedStyle());
           }
         },
         click: async function(e) {
@@ -524,25 +628,27 @@
       });
     }
 
-    function selectLayer(layer, code) {
+    function selectLayer(layer, code, options = {}) {
+      const shouldFit = options.fit !== false;
+      const shouldOpenPopup = options.openPopup !== false;
+
       if (selectedLayer && geojsonLayer) {
         geojsonLayer.resetStyle(selectedLayer);
       }
 
       selectedLayer = layer;
-      selectedLayer.setStyle({
-        weight: 4,
-        color: "#007a9f",
-        fillColor: "#20b6d2",
-        fillOpacity: 0.45
-      });
+      selectedLayer.setStyle(selectedStyle());
 
-      map.fitBounds(layer.getBounds(), {
-        maxZoom: 14,
-        padding: [20, 20]
-      });
+      if (shouldFit) {
+        map.fitBounds(layer.getBounds(), {
+          maxZoom: 14,
+          padding: [20, 20]
+        });
+      }
 
-      layer.openPopup();
+      if (shouldOpenPopup) {
+        layer.openPopup();
+      }
       highlightTableRow(code);
     }
 
@@ -686,6 +792,8 @@
         map.removeLayer(geojsonLayer);
       }
 
+      computeStatsAndBreaks();
+
       geojsonLayer = L.geoJSON(currentLoadedGemeenteGeojson, {
         style: style,
         onEachFeature: function(feat, layer) {
@@ -693,12 +801,14 @@
           layer.on({
             mouseover: function(e) {
               const l = e.target;
-              l.setStyle({ weight: 2, color: "#333", fillOpacity: 0.95 });
+              l.setStyle(hoverStyle());
               l.bringToFront();
             },
             mouseout: function(e) {
               if (selectedLayer !== e.target) {
                 geojsonLayer.resetStyle(e.target);
+              } else {
+                e.target.setStyle(selectedStyle());
               }
             },
             click: function(e) {
@@ -711,7 +821,6 @@
       buildTableHeader();
       map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20], maxZoom: 12 });
 
-      computeStatsAndBreaks();
       legend.update();
       updateStatsPanel();
       renderTable();
@@ -730,7 +839,10 @@
         });
 
         if (startupLayer) {
-          selectLayer(startupLayer, startupLayer.feature.properties.buurtcode);
+          selectLayer(startupLayer, startupLayer.feature.properties.buurtcode, {
+            fit: false,
+            openPopup: false
+          });
           return;
         }
       }
@@ -884,6 +996,13 @@
         console.error(err);
         alert(err.message);
       });
+    });
+
+    document.getElementById("mobilePanelToggle").addEventListener("click", function() {
+      const panel = document.getElementById("sidepanel");
+      const isOpen = panel.classList.toggle("panel-open");
+      this.textContent = isOpen ? "Tabel verbergen" : "Tabel tonen";
+      setTimeout(() => map.invalidateSize(), 200);
     });
 
     buildVariableSelect();
