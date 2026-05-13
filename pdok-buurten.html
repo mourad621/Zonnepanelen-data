@@ -182,6 +182,52 @@
       text-decoration: underline;
     }
 
+    .popup-postcodes {
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+
+    .popup-postcodes summary {
+      cursor: pointer;
+      color: #0b57d0;
+      font-weight: bold;
+    }
+
+    .popup-postcode-list {
+      max-height: 120px;
+      overflow: auto;
+      margin-top: 6px;
+      padding: 6px;
+      background: #f7f7f7;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .popup-download-btn {
+      display: inline-block;
+      margin-top: 6px;
+      padding: 7px 10px;
+      border: 1px solid #0b6b88;
+      border-radius: 4px;
+      background: #0b7fa3;
+      color: #fff;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .popup-download-btn:disabled {
+      cursor: wait;
+      opacity: 0.65;
+    }
+
+    .popup-status {
+      margin-top: 6px;
+      color: #555;
+      font-size: 12px;
+    }
+
     @media (max-width: 760px) {
       #app {
         display: block;
@@ -293,6 +339,7 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/topojson-client@3"></script>
+  <script src="https://unpkg.com/pako@2.1.0/dist/pako.min.js"></script>
 
   <script>
     const map = L.map("map").setView([52.2, 5.3], 8);
@@ -378,6 +425,8 @@
     let currentLoadedGemeenteName = null;
 
     const dataCache = {};
+    const addressDataFile = "bag_postcodes_huisnummers.csv.gz";
+    let addressCsvTextPromise = null;
     const startupParams = new URLSearchParams(window.location.search);
     const startupSelection = {
       gemeente: startupParams.get("gemeente") || startupParams.get("gemeentenaam"),
@@ -409,6 +458,143 @@
 
       if (codes.length <= 5) return codes.join(", ");
       return `${codes.slice(0, 5).join(", ")} ... (+${codes.length - 5} meer)`;
+    }
+
+    function getPc6Codes(value) {
+      if (isReallyMissing(value)) return [];
+      return String(value)
+        .split(",")
+        .map(code => code.trim().toUpperCase())
+        .filter(Boolean);
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
+    function postcodesDetailsHtml(pc6Value) {
+      const codes = getPc6Codes(pc6Value);
+      if (!codes.length) return "PC6-codes: Geen data<br>";
+
+      return `
+        <details class="popup-postcodes">
+          <summary>Alle postcodes (${codes.length})</summary>
+          <div class="popup-postcode-list">${codes.map(escapeHtml).join(", ")}</div>
+        </details>
+      `;
+    }
+
+    function parseCsvLine(line) {
+      const values = [];
+      let current = "";
+      let inQuotes = false;
+
+      for (let i = 0; i < line.length; i++) {
+        const char = line[i];
+        const next = line[i + 1];
+
+        if (char === '"' && inQuotes && next === '"') {
+          current += '"';
+          i++;
+        } else if (char === '"') {
+          inQuotes = !inQuotes;
+        } else if (char === "," && !inQuotes) {
+          values.push(current);
+          current = "";
+        } else {
+          current += char;
+        }
+      }
+
+      values.push(current);
+      return values;
+    }
+
+    function csvCell(value) {
+      const text = String(value ?? "");
+      if (/[",\r\n]/.test(text)) {
+        return `"${text.replace(/"/g, '""')}"`;
+      }
+      return text;
+    }
+
+    async function getAddressCsvText() {
+      if (addressCsvTextPromise) return addressCsvTextPromise;
+
+      addressCsvTextPromise = (async function() {
+        if (!window.pako) {
+          throw new Error("CSV-gzip parser kon niet laden. Controleer je internetverbinding.");
+        }
+
+        const response = await fetch(addressDataFile);
+        if (!response.ok) {
+          throw new Error(`Kon ${addressDataFile} niet laden`);
+        }
+
+        const compressed = new Uint8Array(await response.arrayBuffer());
+        return pako.ungzip(compressed, { to: "string" });
+      })();
+
+      return addressCsvTextPromise;
+    }
+
+    async function getAddressesForFeature(feature) {
+      const pc6Codes = new Set(getPc6Codes(feature.properties.pc6_codes));
+      const csvText = await getAddressCsvText();
+      const lines = csvText.split(/\r?\n/);
+      const headers = parseCsvLine(lines.shift() || "").map(h => h.trim());
+      const rows = [];
+
+      lines.forEach(line => {
+        if (!line) return;
+
+        const values = parseCsvLine(line);
+        const row = {};
+        headers.forEach((header, idx) => {
+          row[header] = values[idx] ?? "";
+        });
+
+        const postcode = String(row.postcode ?? "").trim().toUpperCase();
+        if (pc6Codes.has(postcode)) rows.push(row);
+      });
+
+      rows.sort((a, b) => {
+        const postcodeCompare = String(a.postcode).localeCompare(String(b.postcode));
+        if (postcodeCompare !== 0) return postcodeCompare;
+        return Number(a.huisnummer || 0) - Number(b.huisnummer || 0);
+      });
+
+      return rows;
+    }
+
+    function downloadRowsAsCsv(rows, filename) {
+      const headers = ["postcode", "huisnummer", "huisletter", "toevoeging"];
+      const csv = [
+        headers.join(","),
+        ...rows.map(row => headers.map(header => csvCell(row[header])).join(","))
+      ].join("\r\n");
+
+      const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    function findFeatureByCode(code) {
+      if (!geoDataGlobal || !code) return null;
+      return geoDataGlobal.features.find(feature =>
+        String(feature.properties.buurtcode) === String(code)
+      );
     }
 
     function normalizeSearchText(value) {
@@ -583,7 +769,10 @@
           Code: ${p.buurtcode ?? "Geen data"}<br>
           Wijkcode: ${p.wijkcode ?? "Geen data"}<br>
           Gemeente: ${p.gemeentenaam ?? "Geen data"}<br>
-          PC6-codes: ${formatPc6Codes(p.pc6_codes)}<br><hr>
+          ${postcodesDetailsHtml(p.pc6_codes)}
+          <button class="popup-download-btn" type="button" data-buurtcode="${escapeHtml(p.buurtcode ?? "")}">Download adressen CSV</button>
+          <div class="popup-status" data-status-for="${escapeHtml(p.buurtcode ?? "")}"></div>
+          <hr>
           Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
           Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
           Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
@@ -627,6 +816,51 @@
         }
       });
     }
+
+    map.on("popupopen", function(e) {
+      const popupElement = e.popup.getElement();
+      if (!popupElement) return;
+
+      const button = popupElement.querySelector(".popup-download-btn");
+      if (!button) return;
+      if (button.dataset.bound === "true") return;
+      button.dataset.bound = "true";
+
+      button.addEventListener("click", async function() {
+        const buurtcode = this.dataset.buurtcode;
+        const status = popupElement.querySelector(".popup-status");
+        const feature = findFeatureByCode(buurtcode);
+
+        if (!feature) {
+          if (status) status.textContent = "Buurt niet gevonden.";
+          return;
+        }
+
+        try {
+          this.disabled = true;
+          if (status) status.textContent = "Adressen laden...";
+
+          const rows = await getAddressesForFeature(feature);
+          if (!rows.length) {
+            if (status) status.textContent = "Geen adressen gevonden voor deze postcodes.";
+            return;
+          }
+
+          const safeName = String(feature.properties.buurtnaam || buurtcode)
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^A-Za-z0-9_-]/g, "_");
+
+          downloadRowsAsCsv(rows, `${buurtcode}_${safeName}_adressen.csv`);
+          if (status) status.textContent = `${rows.length} adressen gedownload.`;
+        } catch (err) {
+          console.error(err);
+          if (status) status.textContent = err.message;
+        } finally {
+          this.disabled = false;
+        }
+      });
+    });
 
     function selectLayer(layer, code, options = {}) {
       const shouldFit = options.fit !== false;
