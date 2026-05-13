@@ -752,7 +752,11 @@
       if (button.dataset.bound === "true") return;
       button.dataset.bound = "true";
 
-      button.addEventListener("click", async function() {
+      L.DomEvent.disableClickPropagation(button);
+      L.DomEvent.disableScrollPropagation(button);
+
+      L.DomEvent.on(button, "click", async function(event) {
+        L.DomEvent.stop(event);
         const buurtcode = this.dataset.buurtcode;
         const status = popupElement.querySelector(".popup-status");
         const feature = findFeatureByCode(buurtcode);
