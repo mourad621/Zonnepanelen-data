@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zonnepanelenkaart - PDOK luchtfoto</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    #app {
+      display: flex;
+      height: 100vh;
+      width: 100vw;
+      overflow: hidden;
+    }
+
+    #map-wrap {
+      width: 70%;
+      height: 100%;
+      position: relative;
+      background: #f3f3f3;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    #sidepanel {
+      width: 30%;
+      height: 100%;
+      border-left: 1px solid #ddd;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #controls {
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+      background: #fafafa;
+    }
+
+    #controls label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 6px;
+      margin-top: 8px;
+    }
+
+    #controls select,
+    #controls input {
+      width: 100%;
+      padding: 7px;
+      box-sizing: border-box;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+
+    #stats {
+      font-size: 12px;
+      line-height: 1.45;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 10px;
+      margin-top: 8px;
+    }
+
+    #table-wrap {
+      flex: 1;
+      overflow: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+
+    thead {
+      position: sticky;
+      top: 0;
+      background: #f4f4f4;
+      z-index: 2;
+    }
+
+    th, td {
+      padding: 7px;
+      border-bottom: 1px solid #e5e5e5;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+    }
+
+    tr:hover {
+      background: #fff8e8;
+    }
+
+    .selected-row {
+      background: #ffe7b3 !important;
+    }
+
+    .info-box {
+      background: white;
+      padding: 10px 12px;
+      font: 14px/16px Arial, sans-serif;
+      box-shadow: 0 0 12px rgba(0,0,0,0.2);
+      border-radius: 6px;
+    }
+
+    .legend i {
+      width: 18px;
+      height: 18px;
+      float: left;
+      margin-right: 8px;
+      opacity: 0.9;
+    }
+
+    .muted {
+      color: #666;
+      font-size: 12px;
+    }
+
+    #mapMessage {
+      position: absolute;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 30px;
+      background: #f7f7f7;
+      color: #444;
+      font-size: 18px;
+      z-index: 500;
+    }
+
+    #backToGemeentenBtn {
+      width: 100%;
+      padding: 8px;
+      font-size: 14px;
+      margin-top: 6px;
+      cursor: pointer;
+      display: none;
+    }
+
+    #mobilePanelToggle {
+      display: none;
+      width: 100%;
+      padding: 10px;
+      font-size: 14px;
+      font-weight: bold;
+      cursor: pointer;
+      background: #fff;
+      border: 1px solid #bbb;
+      border-radius: 6px;
+    }
+
+    .popup-link {
+      display: inline-block;
+      margin-top: 8px;
+      color: #0b57d0;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .popup-link:hover {
+      text-decoration: underline;
+    }
+
+    .popup-postcodes {
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+
+    .popup-postcodes summary {
+      cursor: pointer;
+      color: #0b57d0;
+      font-weight: bold;
+    }
+
+    .popup-postcode-list {
+      max-height: 120px;
+      overflow: auto;
+      margin-top: 6px;
+      padding: 6px;
+      background: #f7f7f7;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .popup-download-btn {
+      display: inline-block;
+      margin-top: 6px;
+      padding: 7px 10px;
+      border: 1px solid #0b6b88;
+      border-radius: 4px;
+      background: #0b7fa3;
+      color: #fff;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .popup-download-btn:disabled {
+      cursor: wait;
+      opacity: 0.65;
+    }
+
+    .popup-status {
+      margin-top: 6px;
+      color: #555;
+      font-size: 12px;
+    }
+
+    @media (max-width: 760px) {
+      #app {
+        display: block;
+      }
+
+      #map-wrap {
+        width: 100%;
+        height: 100vh;
+      }
+
+      #sidepanel {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 58vh;
+        border-left: 0;
+        border-top: 1px solid #ccc;
+        box-shadow: 0 -8px 24px rgba(0,0,0,0.22);
+        z-index: 900;
+        transform: translateY(calc(100% - 52px));
+        transition: transform 180ms ease;
+      }
+
+      #sidepanel.panel-open {
+        transform: translateY(0);
+      }
+
+      #controls {
+        padding: 6px 10px 8px;
+      }
+
+      #controls label,
+      #controls select,
+      #controls input,
+      #stats,
+      #backToGemeentenBtn {
+        display: none;
+      }
+
+      #sidepanel.panel-open #controls label,
+      #sidepanel.panel-open #controls select,
+      #sidepanel.panel-open #controls input,
+      #sidepanel.panel-open #stats,
+      #sidepanel.panel-open #backToGemeentenBtn {
+        display: block;
+      }
+
+      #mobilePanelToggle {
+        display: block;
+      }
+
+      #table-wrap {
+        display: none;
+      }
+
+      #sidepanel.panel-open #table-wrap {
+        display: block;
+      }
+
+      table {
+        min-width: 980px;
+      }
+
+      .info-box {
+        font-size: 12px;
+        max-width: 170px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="map-wrap">
+      <div id="map"></div>
+      <div id="mapMessage">Klik op een buurt in de tabel om de kaart van die gemeente te laden, of klik vanuit de gemeentekaart direct op een gemeente.</div>
+    </div>
+
+    <div id="sidepanel">
+      <div id="controls">
+        <button id="mobilePanelToggle" type="button">Tabel tonen</button>
+
+        <label for="datasetSelect">Kaartlaag:</label>
+        <select id="datasetSelect">
+          <option value="gemeenten">Gemeenten</option>
+          <option value="buurten">Buurten</option>
+        </select>
+
+        <label for="varSelect">Kleur op basis van:</label>
+        <select id="varSelect"></select>
+
+        <button id="backToGemeentenBtn">Terug naar gemeentenkaart</button>
+
+        <label for="searchBox">Zoeken:</label>
+        <input type="text" id="searchBox" placeholder="Typ naam of code..." />
+
+        <div id="stats"></div>
+      </div>
+
+      <div id="table-wrap">
+        <table id="dataTable">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/topojson-client@3"></script>
+
+  <script>
+    const map = L.map("map").setView([52.2, 5.3], 8);
+
+    const osmLayer = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "&copy; OpenStreetMap-bijdragers"
+    }).addTo(map);
+
+    const pdokLuchtfotoLayer = L.tileLayer.wms("https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0", {
+      layers: "Actueel_orthoHR",
+      styles: "",
+      format: "image/jpeg",
+      transparent: false,
+      version: "1.3.0",
+      attribution: "Luchtfoto: PDOK"
+    });
+
+    L.control.layers({
+      "OpenStreetMap": osmLayer,
+      "PDOK luchtfoto": pdokLuchtfotoLayer
+    }).addTo(map);
+
+    const beeColors = ["#fff7bc", "#fee391", "#fec44f", "#fe9929", "#d95f0e", "#8c2d04"];
+
+    const datasets = {
+      gemeenten: {
+        file: "gemeenten_map.topojson",
+        type: "topojson",
+        nameField: "gemeentenaam",
+        codeField: "gemeentecode",
+        tableColumns: [
+          { key: "gemeentenaam", label: "Gemeente", type: "text" },
+          { key: "gemeentecode", label: "Code", type: "text" },
+          { key: "installaties_per_woning", label: "Install./woning", type: "number", digits: 3 },
+          { key: "vermogen_per_woning", label: "Vermogen/woning", type: "number", digits: 3 },
+          { key: "AantalInstallatiesBijWoningen_5", label: "Installaties", type: "number", digits: 0 },
+          { key: "OpgesteldVermogenVanZonnepanelen_6", label: "Vermogen", type: "number", digits: 0 },
+          { key: "WoningenMetZonnestroom_59", label: "Zonnestroom %", type: "number", digits: 1 },
+          { key: "GemiddeldeElektriciteitsteruglevering_54", label: "Teruglevering", type: "number", digits: 0 },
+          { key: "lichte_batterij_kansscore", label: "Kansscore", type: "number", digits: 3 }
+        ]
+      },
+      buurten: {
+        file: "buurten_map.topojson",
+        type: "topojson",
+        nameField: "buurtnaam",
+        codeField: "buurtcode",
+        tableColumns: [
+          { key: "buurtnaam", label: "Buurt", type: "text" },
+          { key: "buurtcode", label: "Code", type: "text" },
+          { key: "gemeentenaam", label: "Gemeente", type: "text" },
+          { key: "installaties_per_woning", label: "Install./woning", type: "number", digits: 3 },
+          { key: "vermogen_per_woning", label: "Vermogen/woning", type: "number", digits: 3 },
+          { key: "AantalInstallatiesBijWoningen_5", label: "Installaties", type: "number", digits: 0 },
+          { key: "OpgesteldVermogenVanZonnepanelen_6", label: "Vermogen", type: "number", digits: 0 },
+          { key: "WoningenMetZonnestroom_59", label: "Zonnestroom %", type: "number", digits: 1 },
+          { key: "GemiddeldeElektriciteitsteruglevering_54", label: "Teruglevering", type: "number", digits: 0 },
+          { key: "lichte_batterij_kansscore", label: "Kansscore", type: "number", digits: 3 }
+        ]
+      }
+    };
+
+    const variableCatalog = {
+      installaties_per_woning: { label: "Installaties per woning", digits: 3 },
+      vermogen_per_woning: { label: "Vermogen per woning", digits: 3 },
+      AantalInstallatiesBijWoningen_5: { label: "Aantal installaties", digits: 0 },
+      OpgesteldVermogenVanZonnepanelen_6: { label: "Opgesteld vermogen", digits: 0 },
+      WoningenMetZonnestroom_59: { label: "Woningen met zonnestroom (%)", digits: 1 },
+      GemiddeldeElektriciteitsteruglevering_54: { label: "Elektriciteitsteruglevering", digits: 0 },
+      lichte_batterij_kansscore: { label: "Lichte batterij kansscore", digits: 3 }
+    };
+
+    let currentDataset = "gemeenten";
+    let currentVariable = "installaties_per_woning";
+    let currentSortCol = "installaties_per_woning";
+    let currentSortDir = "desc";
+    let geojsonLayer = null;
+    let geoDataGlobal = null;
+    let selectedLayer = null;
+    let currentBreaks = [0, 0, 0, 0, 0];
+    let currentStats = null;
+    let currentLoadedGemeenteGeojson = null;
+    let currentLoadedGemeenteName = null;
+
+    const dataCache = {};
+    const addressFolder = "adressen_per_buurt";
+    const startupParams = new URLSearchParams(window.location.search);
+    const startupSelection = {
+      gemeente: startupParams.get("gemeente") || startupParams.get("gemeentenaam"),
+      buurt: startupParams.get("buurt") || startupParams.get("buurtcode"),
+      buurtnaam: startupParams.get("buurtnaam") || startupParams.get("naam")
+    };
+    let pendingStartupSelection = Boolean(
+      startupSelection.gemeente && (startupSelection.buurt || startupSelection.buurtnaam)
+    );
+
+    function isReallyMissing(v) {
+      return v === null || v === undefined || v === "";
+    }
+
+    function formatValue(value, key) {
+      if (isReallyMissing(value) || (typeof value === "number" && Number.isNaN(value))) return "Geen data";
+      if (typeof value === "string" && key === "pc6_codes") return formatPc6Codes(value);
+      if (typeof value === "string" && isNaN(Number(value))) return value;
+      const digits = variableCatalog[key]?.digits ?? 0;
+      return Number(value).toFixed(digits);
+    }
+
+    function formatPc6Codes(value) {
+      if (isReallyMissing(value)) return "Geen data";
+      const codes = String(value)
+        .split(",")
+        .map(code => code.trim())
+        .filter(Boolean);
+
+      if (codes.length <= 5) return codes.join(", ");
+      return `${codes.slice(0, 5).join(", ")} ... (+${codes.length - 5} meer)`;
+    }
+
+    function getPc6Codes(value) {
+      if (isReallyMissing(value)) return [];
+      return String(value)
+        .split(",")
+        .map(code => code.trim().toUpperCase())
+        .filter(Boolean);
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
+    function postcodesDetailsHtml(pc6Value) {
+      const codes = getPc6Codes(pc6Value);
+      if (!codes.length) return "PC6-codes: Geen data<br>";
+
+      return `
+        <details class="popup-postcodes">
+          <summary>Alle postcodes (${codes.length})</summary>
+          <div class="popup-postcode-list">${codes.map(escapeHtml).join(", ")}</div>
+        </details>
+      `;
+    }
+
+    function getAddressDownloadInfo(feature) {
+      const buurtcode = feature.properties.buurtcode;
+      const safeName = String(feature.properties.buurtnaam || buurtcode)
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^A-Za-z0-9_-]/g, "_");
+
+      return {
+        href: `${addressFolder}/${encodeURIComponent(buurtcode)}.csv`,
+        filename: `${buurtcode}_${safeName}_adressen.csv`
+      };
+    }
+
+    function findFeatureByCode(code) {
+      if (!geoDataGlobal || !code) return null;
+      return geoDataGlobal.features.find(feature =>
+        String(feature.properties.buurtcode) === String(code)
+      );
+    }
+
+    function normalizeSearchText(value) {
+      return String(value ?? "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .trim()
+        .toLowerCase();
+    }
+
+    function featureMatchesStartupSelection(feature) {
+      const p = feature.properties;
+      const wantedCode = normalizeSearchText(startupSelection.buurt);
+      const wantedName = normalizeSearchText(startupSelection.buurtnaam);
+
+      return (wantedCode && normalizeSearchText(p.buurtcode) === wantedCode) ||
+             (wantedName && normalizeSearchText(p.buurtnaam) === wantedName);
+    }
+
+    function slugifyGemeenteName(name) {
+      return String(name ?? "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^A-Za-z0-9_-]/g, "_");
+    }
+
+    function getGemeenteGeojsonCandidates(gemeenteName) {
+      const original = String(gemeenteName ?? "").trim();
+      const normalized = original
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+      const slug = slugifyGemeenteName(original);
+      const variants = new Set();
+
+      function addCandidate(baseName) {
+        if (!baseName) return;
+        variants.add(`buurten_per_gemeente/${baseName}.geojson`);
+      }
+
+      addCandidate(slug);
+
+      if (slug.startsWith("_")) {
+        addCandidate(slug.replace(/^_+/, ""));
+      } else {
+        addCandidate(`_${slug}`);
+      }
+
+      const apostropheRemoved = normalized
+        .replace(/'/g, "")
+        .replace(/[^A-Za-z0-9_-]/g, "_");
+      addCandidate(apostropheRemoved);
+
+      const apostropheAsUnderscore = normalized.replace(/[^A-Za-z0-9_-]/g, "_");
+      addCandidate(apostropheAsUnderscore);
+
+      return [...variants];
+    }
+
+    function getValidValues(features, key) {
+      return features
+        .map(f => f.properties[key])
+        .filter(v => !isReallyMissing(v) && !Number.isNaN(Number(v)))
+        .map(v => Number(v))
+        .sort((a, b) => a - b);
+    }
+
+    function quantile(sorted, q) {
+      if (!sorted.length) return 0;
+      const pos = (sorted.length - 1) * q;
+      const base = Math.floor(pos);
+      const rest = pos - base;
+      if (sorted[base + 1] !== undefined) {
+        return sorted[base] + rest * (sorted[base + 1] - sorted[base]);
+      }
+      return sorted[base];
+    }
+
+    function computeStatsAndBreaks() {
+      const values = getValidValues(geoDataGlobal.features, currentVariable);
+
+      if (!values.length) {
+        currentStats = { min: 0, q1: 0, median: 0, mean: 0, q3: 0, max: 0 };
+        currentBreaks = [0, 0, 0, 0, 0];
+        return;
+      }
+
+      const sum = values.reduce((a, b) => a + b, 0);
+      currentStats = {
+        min: values[0],
+        q1: quantile(values, 0.25),
+        median: quantile(values, 0.50),
+        mean: sum / values.length,
+        q3: quantile(values, 0.75),
+        max: values[values.length - 1]
+      };
+
+      currentBreaks = [
+        quantile(values, 1 / 6),
+        quantile(values, 2 / 6),
+        quantile(values, 3 / 6),
+        quantile(values, 4 / 6),
+        quantile(values, 5 / 6)
+      ];
+    }
+
+    function getColor(value) {
+      if (isReallyMissing(value) || Number.isNaN(Number(value))) return "#d9d9d9";
+      const v = Number(value);
+      const b = currentBreaks;
+      return v <= b[0] ? beeColors[0] :
+             v <= b[1] ? beeColors[1] :
+             v <= b[2] ? beeColors[2] :
+             v <= b[3] ? beeColors[3] :
+             v <= b[4] ? beeColors[4] :
+                          beeColors[5];
+    }
+
+    function style(feature) {
+      return {
+        fillColor: getColor(feature.properties[currentVariable]),
+        weight: 1,
+        opacity: 1,
+        color: "white",
+        fillOpacity: currentDataset === "buurten" ? 0.36 : 0.48
+      };
+    }
+
+    function hoverStyle() {
+      return {
+        weight: 3,
+        color: "#111",
+        opacity: 1
+      };
+    }
+
+    function selectedStyle() {
+      return {
+        weight: 4,
+        color: "#007a9f",
+        fillColor: "#20b6d2",
+        fillOpacity: 0.18
+      };
+    }
+
+    function getGoogleMapsSatelliteUrl(feature) {
+      const center = L.geoJSON(feature).getBounds().getCenter();
+      return `https://www.google.com/maps?q=${center.lat},${center.lng}&t=k&z=18`;
+    }
+
+    function popupHtml(feature, datasetType = currentDataset) {
+      const p = feature.properties;
+
+      if (datasetType === "gemeenten") {
+        return `
+          <div style="font-size:14px; line-height:1.45;">
+            <strong>${p.gemeentenaam ?? "Onbekend"}</strong><br>
+            Code: ${p.gemeentecode ?? "Geen data"}<br><hr>
+            Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
+            Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
+            Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
+            Opgesteld vermogen: ${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}<br>
+            Woningen met zonnestroom (%): ${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}<br>
+            Elektriciteitsteruglevering: ${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}<br>
+            Lichte batterij kansscore: ${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}
+          </div>
+        `;
+      }
+
+      const addressDownload = getAddressDownloadInfo(feature);
+
+      return `
+        <div style="font-size:14px; line-height:1.45;">
+          <strong>${p.buurtnaam ?? "Onbekend"}</strong><br>
+          Code: ${p.buurtcode ?? "Geen data"}<br>
+          Wijkcode: ${p.wijkcode ?? "Geen data"}<br>
+          Gemeente: ${p.gemeentenaam ?? "Geen data"}<br>
+          ${postcodesDetailsHtml(p.pc6_codes)}
+          <a class="popup-download-btn" href="${escapeHtml(addressDownload.href)}" download="${escapeHtml(addressDownload.filename)}">Download adressen CSV</a>
+          <div class="popup-status">Als er geen download start, open dan deze link in een nieuw tabblad.</div>
+          <hr>
+          Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
+          Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
+          Aantal installaties: ${formatValue(p.AantalInstallatiesBijWoningen_5, "AantalInstallatiesBijWoningen_5")}<br>
+          Opgesteld vermogen: ${formatValue(p.OpgesteldVermogenVanZonnepanelen_6, "OpgesteldVermogenVanZonnepanelen_6")}<br>
+          Woningen met zonnestroom (%): ${formatValue(p.WoningenMetZonnestroom_59, "WoningenMetZonnestroom_59")}<br>
+          Elektriciteitsteruglevering: ${formatValue(p.GemiddeldeElektriciteitsteruglevering_54, "GemiddeldeElektriciteitsteruglevering_54")}<br>
+          Lichte batterij kansscore: ${formatValue(p.lichte_batterij_kansscore, "lichte_batterij_kansscore")}<br>
+          <a class="popup-link" href="${getGoogleMapsSatelliteUrl(feature)}" target="_blank" rel="noopener noreferrer">Open in Google Maps satelliet</a>
+        </div>
+      `;
+    }
+
+    function onEachFeature(feature, layer) {
+      layer.bindPopup(popupHtml(feature, currentDataset));
+
+      layer.on({
+        mouseover: function(e) {
+          const l = e.target;
+          l.setStyle(hoverStyle());
+          l.bringToFront();
+        },
+        mouseout: function(e) {
+          if (selectedLayer !== e.target) {
+            geojsonLayer.resetStyle(e.target);
+          } else {
+            e.target.setStyle(selectedStyle());
+          }
+        },
+        click: async function(e) {
+          if (currentDataset === "gemeenten") {
+            try {
+              await openBuurtGemeenteMapByName(feature.properties.gemeentenaam);
+            } catch (err) {
+              console.error(err);
+              alert(err.message);
+            }
+            return;
+          }
+
+          selectLayer(e.target, feature.properties[datasets[currentDataset].codeField]);
+        }
+      });
+    }
+
+    document.addEventListener("click", function(event) {
+      const downloadLink = event.target.closest(".popup-download-btn");
+      if (!downloadLink) return;
+      event.stopPropagation();
+    }, true);
+
+    function selectLayer(layer, code, options = {}) {
+      const shouldFit = options.fit !== false;
+      const shouldOpenPopup = options.openPopup !== false;
+
+      if (selectedLayer && geojsonLayer) {
+        geojsonLayer.resetStyle(selectedLayer);
+      }
+
+      selectedLayer = layer;
+      selectedLayer.setStyle(selectedStyle());
+
+      if (shouldFit) {
+        map.fitBounds(layer.getBounds(), {
+          maxZoom: 14,
+          padding: [20, 20]
+        });
+      }
+
+      if (shouldOpenPopup) {
+        layer.openPopup();
+      }
+      highlightTableRow(code);
+    }
+
+    const legend = L.control({ position: "bottomright" });
+    legend.onAdd = function() {
+      this._div = L.DomUtil.create("div", "info-box legend");
+      this.update();
+      return this._div;
+    };
+    legend.update = function() {
+      const d = variableCatalog[currentVariable].digits;
+      const label = variableCatalog[currentVariable].label;
+      const b = currentBreaks;
+
+      this._div.innerHTML = `
+        <strong>${label}</strong><br>
+        <i style="background:${beeColors[0]}"></i> ≤ ${b[0].toFixed(d)}<br>
+        <i style="background:${beeColors[1]}"></i> ${b[0].toFixed(d)} – ${b[1].toFixed(d)}<br>
+        <i style="background:${beeColors[2]}"></i> ${b[1].toFixed(d)} – ${b[2].toFixed(d)}<br>
+        <i style="background:${beeColors[3]}"></i> ${b[2].toFixed(d)} – ${b[3].toFixed(d)}<br>
+        <i style="background:${beeColors[4]}"></i> ${b[3].toFixed(d)} – ${b[4].toFixed(d)}<br>
+        <i style="background:${beeColors[5]}"></i> > ${b[4].toFixed(d)}<br>
+        <i style="background:#d9d9d9"></i> Geen data
+      `;
+    };
+    legend.addTo(map);
+
+    function updateStatsPanel() {
+      const d = variableCatalog[currentVariable].digits;
+      let laagTekst = currentDataset;
+      if (currentDataset === "buurten" && currentLoadedGemeenteName) {
+        laagTekst = `buurten (${currentLoadedGemeenteName})`;
+      }
+
+      document.getElementById("stats").innerHTML = `
+        <strong>${variableCatalog[currentVariable].label}</strong><br>
+        Min: ${currentStats.min.toFixed(d)}<br>
+        Q1: ${currentStats.q1.toFixed(d)}<br>
+        Median: ${currentStats.median.toFixed(d)}<br>
+        Mean: ${currentStats.mean.toFixed(d)}<br>
+        Q3: ${currentStats.q3.toFixed(d)}<br>
+        Max: ${currentStats.max.toFixed(d)}<br>
+        <div class="muted" style="margin-top:8px;">Laag: ${laagTekst}</div>
+      `;
+    }
+
+    function buildVariableSelect() {
+      const select = document.getElementById("varSelect");
+      select.innerHTML = "";
+      Object.entries(variableCatalog).forEach(([key, val]) => {
+        const option = document.createElement("option");
+        option.value = key;
+        option.textContent = val.label;
+        if (key === currentVariable) option.selected = true;
+        select.appendChild(option);
+      });
+    }
+
+    function buildTableHeader() {
+      const thead = document.querySelector("#dataTable thead");
+      const cols = datasets[currentDataset].tableColumns;
+      thead.innerHTML = `
+        <tr>
+          ${cols.map(col => `<th data-col="${col.key}">${col.label}</th>`).join("")}
+        </tr>
+      `;
+
+      thead.querySelectorAll("th").forEach(th => {
+        th.addEventListener("click", function() {
+          const col = this.dataset.col;
+          if (currentSortCol === col) {
+            currentSortDir = currentSortDir === "asc" ? "desc" : "asc";
+          } else {
+            currentSortCol = col;
+            currentSortDir = datasets[currentDataset].tableColumns.find(c => c.key === col)?.type === "text" ? "asc" : "desc";
+          }
+          renderTable();
+        });
+      });
+    }
+
+    function sortFeatures(features) {
+      const cols = datasets[currentDataset].tableColumns;
+      const sortColDef = cols.find(c => c.key === currentSortCol);
+      const isText = !sortColDef || sortColDef.type === "text";
+
+      return [...features].sort((a, b) => {
+        const av = a.properties[currentSortCol];
+        const bv = b.properties[currentSortCol];
+
+        if (isText) {
+          const aText = (av ?? "").toString().toLowerCase();
+          const bText = (bv ?? "").toString().toLowerCase();
+          return currentSortDir === "asc"
+            ? aText.localeCompare(bText)
+            : bText.localeCompare(aText);
+        }
+
+        const aNum = isReallyMissing(av) || Number.isNaN(Number(av)) ? -Infinity : Number(av);
+        const bNum = isReallyMissing(bv) || Number.isNaN(Number(bv)) ? -Infinity : Number(bv);
+
+        return currentSortDir === "asc" ? aNum - bNum : bNum - aNum;
+      });
+    }
+
+    function highlightTableRow(code) {
+      document.querySelectorAll("#dataTable tbody tr").forEach(tr => {
+        tr.classList.toggle("selected-row", tr.dataset.code === String(code));
+      });
+    }
+
+    async function openBuurtGemeenteMapByName(gemeenteName, buurtCode = null) {
+      const bestanden = getGemeenteGeojsonCandidates(gemeenteName);
+      let gevondenBestand = null;
+
+      for (const bestand of bestanden) {
+        if (dataCache[bestand]) {
+          gevondenBestand = bestand;
+          break;
+        }
+
+        const response = await fetch(bestand);
+        if (!response.ok) continue;
+
+        dataCache[bestand] = await response.json();
+        gevondenBestand = bestand;
+        break;
+      }
+
+      if (!gevondenBestand) {
+        throw new Error(`Kon geen buurtkaart laden voor ${gemeenteName}. Geprobeerd: ${bestanden.join(", ")}`);
+      }
+
+      currentLoadedGemeenteGeojson = dataCache[gevondenBestand];
+      currentLoadedGemeenteName = gemeenteName;
+      currentDataset = "buurten";
+      geoDataGlobal = currentLoadedGemeenteGeojson;
+      selectedLayer = null;
+
+      if (geojsonLayer) {
+        map.removeLayer(geojsonLayer);
+      }
+
+      computeStatsAndBreaks();
+
+      geojsonLayer = L.geoJSON(currentLoadedGemeenteGeojson, {
+        style: style,
+        onEachFeature: function(feat, layer) {
+          layer.bindPopup(popupHtml(feat, "buurten"));
+          layer.on({
+            mouseover: function(e) {
+              const l = e.target;
+              l.setStyle(hoverStyle());
+              l.bringToFront();
+            },
+            mouseout: function(e) {
+              if (selectedLayer !== e.target) {
+                geojsonLayer.resetStyle(e.target);
+              } else {
+                e.target.setStyle(selectedStyle());
+              }
+            },
+            click: function(e) {
+              selectLayer(e.target, feat.properties.buurtcode);
+            }
+          });
+        }
+      }).addTo(map);
+
+      buildTableHeader();
+      map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20], maxZoom: 12 });
+
+      legend.update();
+      updateStatsPanel();
+      renderTable();
+
+      document.getElementById("mapMessage").style.display = "none";
+      document.getElementById("backToGemeentenBtn").style.display = "block";
+      document.getElementById("datasetSelect").value = "buurten";
+
+      if (pendingStartupSelection) {
+        pendingStartupSelection = false;
+        let startupLayer = null;
+        geojsonLayer.eachLayer(function(layer) {
+          if (!startupLayer && featureMatchesStartupSelection(layer.feature)) {
+            startupLayer = layer;
+          }
+        });
+
+        if (startupLayer) {
+          selectLayer(startupLayer, startupLayer.feature.properties.buurtcode, {
+            fit: false,
+            openPopup: false
+          });
+          return;
+        }
+      }
+
+      if (buurtCode) {
+        geojsonLayer.eachLayer(function(layer) {
+          if (layer.feature.properties.buurtcode === buurtCode) {
+            selectLayer(layer, buurtCode);
+          }
+        });
+      }
+    }
+
+    async function openBuurtGemeenteMap(feature) {
+      const p = feature.properties;
+      await openBuurtGemeenteMapByName(p.gemeentenaam, p.buurtcode);
+    }
+
+    function renderTable() {
+      const tbody = document.querySelector("#dataTable tbody");
+      const cols = datasets[currentDataset].tableColumns;
+      const cfg = datasets[currentDataset];
+      const search = document.getElementById("searchBox").value.toLowerCase();
+
+      tbody.innerHTML = "";
+
+      let rows = sortFeatures(geoDataGlobal.features);
+
+      rows = rows.filter(f => {
+        const p = f.properties;
+        const name = (p[cfg.nameField] ?? "").toString().toLowerCase();
+        const code = (p[cfg.codeField] ?? "").toString().toLowerCase();
+        const gemeente = (p.gemeentenaam ?? "").toString().toLowerCase();
+        return name.includes(search) || code.includes(search) || gemeente.includes(search);
+      });
+
+      rows.forEach(feature => {
+        const p = feature.properties;
+        const tr = document.createElement("tr");
+        tr.dataset.code = p[cfg.codeField];
+
+        tr.innerHTML = cols.map(col => `<td>${formatValue(p[col.key], col.key)}</td>`).join("");
+
+        tr.addEventListener("click", async function() {
+          try {
+            if (currentDataset === "gemeenten") {
+              await openBuurtGemeenteMapByName(p.gemeentenaam);
+            } else {
+              await openBuurtGemeenteMap(feature);
+              highlightTableRow(p.buurtcode);
+            }
+          } catch (err) {
+            console.error(err);
+            alert(err.message);
+          }
+        });
+
+        tbody.appendChild(tr);
+      });
+    }
+
+    function redrawLayer() {
+      computeStatsAndBreaks();
+
+      if (geojsonLayer) {
+        geojsonLayer.eachLayer(function(layer) {
+          layer.setStyle(style(layer.feature));
+        });
+      }
+
+      legend.update();
+      updateStatsPanel();
+
+      if (currentDataset === "gemeenten") {
+        renderTable();
+      } else {
+        if (currentLoadedGemeenteGeojson && geojsonLayer) {
+          geojsonLayer.eachLayer(function(layer) {
+            layer.setPopupContent(popupHtml(layer.feature, "buurten"));
+          });
+        }
+        renderTable();
+      }
+    }
+
+    async function loadTopoAsGeoJSON(file) {
+      const response = await fetch(file);
+      if (!response.ok) throw new Error(`Kon ${file} niet laden`);
+      const topoData = await response.json();
+      const objectName = Object.keys(topoData.objects)[0];
+      return topojson.feature(topoData, topoData.objects[objectName]);
+    }
+
+    async function loadDataset(datasetKey) {
+      currentDataset = datasetKey;
+      selectedLayer = null;
+      currentLoadedGemeenteGeojson = null;
+      currentLoadedGemeenteName = null;
+
+      document.getElementById("backToGemeentenBtn").style.display = "none";
+
+      if (!dataCache[datasets[datasetKey].file]) {
+        dataCache[datasets[datasetKey].file] = await loadTopoAsGeoJSON(datasets[datasetKey].file);
+      }
+
+      geoDataGlobal = dataCache[datasets[datasetKey].file];
+
+      if (geojsonLayer) {
+        map.removeLayer(geojsonLayer);
+        geojsonLayer = null;
+      }
+
+      buildTableHeader();
+      computeStatsAndBreaks();
+      legend.update();
+      updateStatsPanel();
+      renderTable();
+
+      if (datasetKey === "gemeenten") {
+        document.getElementById("mapMessage").style.display = "none";
+
+        geojsonLayer = L.geoJSON(geoDataGlobal, {
+          style: style,
+          onEachFeature: onEachFeature
+        }).addTo(map);
+
+        map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20] });
+      } else {
+        document.getElementById("mapMessage").style.display = "flex";
+        map.setView([52.2, 5.3], 8);
+      }
+    }
+
+    document.getElementById("datasetSelect").addEventListener("change", function() {
+      loadDataset(this.value).catch(err => {
+        console.error(err);
+        alert(err.message);
+      });
+    });
+
+    document.getElementById("varSelect").addEventListener("change", function() {
+      currentVariable = this.value;
+      redrawLayer();
+    });
+
+    document.getElementById("searchBox").addEventListener("input", renderTable);
+
+    document.getElementById("backToGemeentenBtn").addEventListener("click", function() {
+      document.getElementById("datasetSelect").value = "gemeenten";
+      loadDataset("gemeenten").catch(err => {
+        console.error(err);
+        alert(err.message);
+      });
+    });
+
+    document.getElementById("mobilePanelToggle").addEventListener("click", function() {
+      const panel = document.getElementById("sidepanel");
+      const isOpen = panel.classList.toggle("panel-open");
+      this.textContent = isOpen ? "Tabel verbergen" : "Tabel tonen";
+      setTimeout(() => map.invalidateSize(), 200);
+    });
+
+    buildVariableSelect();
+
+    loadDataset("gemeenten")
+      .then(() => {
+        if (pendingStartupSelection) {
+          return openBuurtGemeenteMapByName(startupSelection.gemeente);
+        }
+      })
+      .catch(err => {
+        console.error(err);
+        alert(err.message);
+      });
+  </script>
+</body>
+</html>
