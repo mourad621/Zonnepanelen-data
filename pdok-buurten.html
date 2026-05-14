@@ -215,11 +215,18 @@
       color: #fff;
       font-weight: bold;
       cursor: pointer;
+      text-decoration: none;
+      pointer-events: auto;
     }
 
-    .popup-download-btn:disabled {
-      cursor: wait;
-      opacity: 0.65;
+    .popup-open-csv-link {
+      display: inline-block;
+      margin-top: 6px;
+      margin-left: 8px;
+      color: #0b57d0;
+      font-weight: bold;
+      text-decoration: none;
+      pointer-events: auto;
     }
 
     .popup-status {
@@ -341,10 +348,15 @@
   <script src="https://unpkg.com/topojson-client@3"></script>
 
   <script>
-    const map = L.map("map").setView([52.2, 5.3], 8);
+    const map = L.map("map", {
+      maxZoom: 22,
+      zoomSnap: 0.25
+    }).setView([52.2, 5.3], 8);
 
     const osmLayer = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: "&copy; OpenStreetMap-bijdragers"
+      attribution: "&copy; OpenStreetMap-bijdragers",
+      maxZoom: 22,
+      maxNativeZoom: 19
     }).addTo(map);
 
     const pdokLuchtfotoLayer = L.tileLayer.wms("https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0", {
@@ -353,7 +365,8 @@
       format: "image/jpeg",
       transparent: false,
       version: "1.3.0",
-      attribution: "Luchtfoto: PDOK"
+      attribution: "Luchtfoto: PDOK",
+      maxZoom: 22
     });
 
     L.control.layers({
@@ -487,33 +500,17 @@
       `;
     }
 
-    async function downloadAddressFileForFeature(feature) {
+    function getAddressDownloadInfo(feature) {
       const buurtcode = feature.properties.buurtcode;
-      const response = await fetch(`${addressFolder}/${encodeURIComponent(buurtcode)}.csv`);
-
-      if (!response.ok) {
-        throw new Error(`Geen adresbestand gevonden voor ${buurtcode}`);
-      }
-
-      const csv = await response.text();
-      if (!csv.trim()) {
-        throw new Error(`Adresbestand voor ${buurtcode} is leeg`);
-      }
-
       const safeName = String(feature.properties.buurtnaam || buurtcode)
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
         .replace(/[^A-Za-z0-9_-]/g, "_");
 
-      const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement("a");
-      link.href = url;
-      link.download = `${buurtcode}_${safeName}_adressen.csv`;
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-      URL.revokeObjectURL(url);
+      return {
+        href: `${addressFolder}/${encodeURIComponent(buurtcode)}.csv`,
+        filename: `${buurtcode}_${safeName}_adressen.csv`
+      };
     }
 
     function findFeatureByCode(code) {
@@ -689,6 +686,8 @@
         `;
       }
 
+      const addressDownload = getAddressDownloadInfo(feature);
+
       return `
         <div style="font-size:14px; line-height:1.45;">
           <strong>${p.buurtnaam ?? "Onbekend"}</strong><br>
@@ -696,8 +695,9 @@
           Wijkcode: ${p.wijkcode ?? "Geen data"}<br>
           Gemeente: ${p.gemeentenaam ?? "Geen data"}<br>
           ${postcodesDetailsHtml(p.pc6_codes)}
-          <button class="popup-download-btn" type="button" data-buurtcode="${escapeHtml(p.buurtcode ?? "")}">Download adressen CSV</button>
-          <div class="popup-status" data-status-for="${escapeHtml(p.buurtcode ?? "")}"></div>
+          <a class="popup-download-btn" href="${escapeHtml(addressDownload.href)}" download="${escapeHtml(addressDownload.filename)}" target="_blank" rel="noopener noreferrer">Download adressen CSV</a>
+          <a class="popup-open-csv-link" href="${escapeHtml(addressDownload.href)}" target="_blank" rel="noopener noreferrer">Open CSV</a>
+          <div class="popup-status">Werkt download niet direct, gebruik Open CSV.</div>
           <hr>
           Installaties per woning: ${formatValue(p.installaties_per_woning, "installaties_per_woning")}<br>
           Vermogen per woning: ${formatValue(p.vermogen_per_woning, "vermogen_per_woning")}<br>
@@ -743,41 +743,12 @@
       });
     }
 
-    map.on("popupopen", function(e) {
-      const popupElement = e.popup.getElement();
+    map.on("popupopen", function(event) {
+      const popupElement = event.popup.getElement();
       if (!popupElement) return;
-
-      const button = popupElement.querySelector(".popup-download-btn");
-      if (!button) return;
-      if (button.dataset.bound === "true") return;
-      button.dataset.bound = "true";
-
-      L.DomEvent.disableClickPropagation(button);
-      L.DomEvent.disableScrollPropagation(button);
-
-      L.DomEvent.on(button, "click", async function(event) {
-        L.DomEvent.stop(event);
-        const buurtcode = this.dataset.buurtcode;
-        const status = popupElement.querySelector(".popup-status");
-        const feature = findFeatureByCode(buurtcode);
-
-        if (!feature) {
-          if (status) status.textContent = "Buurt niet gevonden.";
-          return;
-        }
-
-        try {
-          this.disabled = true;
-          if (status) status.textContent = "Adresbestand laden...";
-
-          await downloadAddressFileForFeature(feature);
-          if (status) status.textContent = "Download gestart.";
-        } catch (err) {
-          console.error(err);
-          if (status) status.textContent = err.message;
-        } finally {
-          this.disabled = false;
-        }
+      popupElement.querySelectorAll(".popup-download-btn, .popup-open-csv-link").forEach(function(link) {
+        L.DomEvent.disableClickPropagation(link);
+        L.DomEvent.disableScrollPropagation(link);
       });
     });
 
@@ -794,7 +765,7 @@
 
       if (shouldFit) {
         map.fitBounds(layer.getBounds(), {
-          maxZoom: 14,
+          maxZoom: 18,
           padding: [20, 20]
         });
       }
@@ -972,7 +943,7 @@
       }).addTo(map);
 
       buildTableHeader();
-      map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20], maxZoom: 12 });
+      map.fitBounds(geojsonLayer.getBounds(), { padding: [20, 20], maxZoom: 14 });
 
       legend.update();
       updateStatsPanel();
