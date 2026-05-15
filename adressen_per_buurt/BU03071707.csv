@@ -1,88 +1,88 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3818GV,Stichtse Rotonde,1,C,
-3818GV,Stichtse Rotonde,5,A,
-3818GT,Dr. J.P. Heijelaan,9,,
-3818GW,De Genestetlaan,22,B,
-3818ES,Utrechtseweg,198,,
-3818GV,Stichtse Rotonde,5,B,
-3818GV,Stichtse Rotonde,1,D,
-3818GV,Stichtse Rotonde,5,C,
-3818GT,Dr. J.P. Heijelaan,23,,
-3818GT,Dr. J.P. Heijelaan,1,,
-3818GW,De Genestetlaan,22,C,
-3818GW,De Genestetlaan,30,,
-3818ES,Utrechtseweg,174,,
-3818ES,Utrechtseweg,154,,
-3818GV,Stichtse Rotonde,1,E,
-3818GV,Stichtse Rotonde,1,F,
-3818GW,De Genestetlaan,32,,
-3818ES,Utrechtseweg,202,,
-3818GV,Stichtse Rotonde,5,D,
-3818GV,Stichtse Rotonde,3,A,
-3818GV,Stichtse Rotonde,9,,
-3818GT,Dr. J.P. Heijelaan,2,,
-3818GT,Dr. J.P. Heijelaan,3,,
-3818GW,De Genestetlaan,24,B,
-3818GW,De Genestetlaan,24,C,
-3818GW,De Genestetlaan,7,,
-3818ES,Utrechtseweg,176,,
-3818GV,Stichtse Rotonde,3,B,
-3818GW,De Genestetlaan,7,A,
-3818GW,De Genestetlaan,20,A,
-3818ES,Utrechtseweg,180,,
-3818ES,Utrechtseweg,160,A,
-3818GV,Stichtse Rotonde,11,,
-3818GV,Stichtse Rotonde,25,,
-3818GV,Stichtse Rotonde,3,C,
-3818GW,De Genestetlaan,34,,
-3818GW,De Genestetlaan,9,,
-3818GW,De Genestetlaan,20,B,
-3818GW,De Genestetlaan,9,A,
-3818GW,De Genestetlaan,26,B,
-3818GV,Stichtse Rotonde,3,D,
-3818GV,Stichtse Rotonde,27,,
-3818GV,Stichtse Rotonde,9,,1
-3818GV,Stichtse Rotonde,9,,1
-3818GV,Stichtse Rotonde,3,E,
-3818GS,Potgieterlaan,2,,
-3818GT,Dr. J.P. Heijelaan,5,,
-3818GT,Dr. J.P. Heijelaan,4,A,
-3818GW,De Genestetlaan,20,C,
-3818GW,De Genestetlaan,26,C,
-3818GV,Stichtse Rotonde,29,,
-3818GV,Stichtse Rotonde,1,A,
-3818GV,Stichtse Rotonde,3,F,
-3818GV,Stichtse Rotonde,1,B,
-3818GV,Stichtse Rotonde,31,,
-3818GS,Potgieterlaan,4,,
-3818GS,Potgieterlaan,5,,
-3818GT,Dr. J.P. Heijelaan,6,,
-3818GT,Dr. J.P. Heijelaan,4,,
-3818GT,Dr. J.P. Heijelaan,7,,
-3818GW,De Genestetlaan,22,A,
-3818GW,De Genestetlaan,28,,
-3818GW,De Genestetlaan,39,,
-3818GW,De Genestetlaan,37,,
-3818GW,De Genestetlaan,35,,
-3818GW,De Genestetlaan,33,,
-3818GW,De Genestetlaan,31,,
-3818GW,De Genestetlaan,27,,
-3818GW,De Genestetlaan,29,,
-3818GW,De Genestetlaan,25,,
-3818GW,De Genestetlaan,21,,
-3818GW,De Genestetlaan,23,,
-3818GW,De Genestetlaan,19,,
-3818GW,De Genestetlaan,17,,
-3818GW,De Genestetlaan,15,,
-3818GW,De Genestetlaan,13,,
-3818GW,De Genestetlaan,11,,
-3818ES,Utrechtseweg,172,,
-3818ES,Utrechtseweg,160,,
-3818ES,Utrechtseweg,202,A,
-3818ES,Utrechtseweg,202,B,
-3818ES,Utrechtseweg,178,,
-3818ES,Utrechtseweg,152,,
-3818ES,Utrechtseweg,150,B,
-3818ES,Utrechtseweg,150,C,
-3818ES,Utrechtseweg,150,A,
-3818ES,Utrechtseweg,202,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Utrechtseweg,150,A,"",3818ES,Amersfoort
+Utrechtseweg,150,B,"",3818ES,Amersfoort
+Utrechtseweg,150,C,"",3818ES,Amersfoort
+Utrechtseweg,152,"","",3818ES,Amersfoort
+Utrechtseweg,154,"","",3818ES,Amersfoort
+Utrechtseweg,160,"","",3818ES,Amersfoort
+Utrechtseweg,160,A,"",3818ES,Amersfoort
+Utrechtseweg,172,"","",3818ES,Amersfoort
+Utrechtseweg,174,"","",3818ES,Amersfoort
+Utrechtseweg,176,"","",3818ES,Amersfoort
+Utrechtseweg,178,"","",3818ES,Amersfoort
+Utrechtseweg,180,"","",3818ES,Amersfoort
+Utrechtseweg,198,"","",3818ES,Amersfoort
+Utrechtseweg,202,"","",3818ES,Amersfoort
+Utrechtseweg,202,"","",3818ES,Amersfoort
+Utrechtseweg,202,A,"",3818ES,Amersfoort
+Utrechtseweg,202,B,"",3818ES,Amersfoort
+Potgieterlaan,2,"","",3818GS,Amersfoort
+Potgieterlaan,4,"","",3818GS,Amersfoort
+Potgieterlaan,5,"","",3818GS,Amersfoort
+Dr. J.P. Heijelaan,1,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,2,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,23,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,3,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,4,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,4,A,"",3818GT,Amersfoort
+Dr. J.P. Heijelaan,5,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,6,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,7,"","",3818GT,Amersfoort
+Dr. J.P. Heijelaan,9,"","",3818GT,Amersfoort
+Stichtse Rotonde,1,A,"",3818GV,Amersfoort
+Stichtse Rotonde,1,B,"",3818GV,Amersfoort
+Stichtse Rotonde,1,C,"",3818GV,Amersfoort
+Stichtse Rotonde,1,D,"",3818GV,Amersfoort
+Stichtse Rotonde,1,E,"",3818GV,Amersfoort
+Stichtse Rotonde,1,F,"",3818GV,Amersfoort
+Stichtse Rotonde,11,"","",3818GV,Amersfoort
+Stichtse Rotonde,25,"","",3818GV,Amersfoort
+Stichtse Rotonde,27,"","",3818GV,Amersfoort
+Stichtse Rotonde,29,"","",3818GV,Amersfoort
+Stichtse Rotonde,3,A,"",3818GV,Amersfoort
+Stichtse Rotonde,3,B,"",3818GV,Amersfoort
+Stichtse Rotonde,3,C,"",3818GV,Amersfoort
+Stichtse Rotonde,3,D,"",3818GV,Amersfoort
+Stichtse Rotonde,3,E,"",3818GV,Amersfoort
+Stichtse Rotonde,3,F,"",3818GV,Amersfoort
+Stichtse Rotonde,31,"","",3818GV,Amersfoort
+Stichtse Rotonde,5,A,"",3818GV,Amersfoort
+Stichtse Rotonde,5,B,"",3818GV,Amersfoort
+Stichtse Rotonde,5,C,"",3818GV,Amersfoort
+Stichtse Rotonde,5,D,"",3818GV,Amersfoort
+Stichtse Rotonde,9,"","",3818GV,Amersfoort
+Stichtse Rotonde,9,"",1,3818GV,Amersfoort
+Stichtse Rotonde,9,"",1,3818GV,Amersfoort
+De Genestetlaan,11,"","",3818GW,Amersfoort
+De Genestetlaan,13,"","",3818GW,Amersfoort
+De Genestetlaan,15,"","",3818GW,Amersfoort
+De Genestetlaan,17,"","",3818GW,Amersfoort
+De Genestetlaan,19,"","",3818GW,Amersfoort
+De Genestetlaan,20,A,"",3818GW,Amersfoort
+De Genestetlaan,20,B,"",3818GW,Amersfoort
+De Genestetlaan,20,C,"",3818GW,Amersfoort
+De Genestetlaan,21,"","",3818GW,Amersfoort
+De Genestetlaan,22,A,"",3818GW,Amersfoort
+De Genestetlaan,22,B,"",3818GW,Amersfoort
+De Genestetlaan,22,C,"",3818GW,Amersfoort
+De Genestetlaan,23,"","",3818GW,Amersfoort
+De Genestetlaan,24,B,"",3818GW,Amersfoort
+De Genestetlaan,24,C,"",3818GW,Amersfoort
+De Genestetlaan,25,"","",3818GW,Amersfoort
+De Genestetlaan,26,B,"",3818GW,Amersfoort
+De Genestetlaan,26,C,"",3818GW,Amersfoort
+De Genestetlaan,27,"","",3818GW,Amersfoort
+De Genestetlaan,28,"","",3818GW,Amersfoort
+De Genestetlaan,29,"","",3818GW,Amersfoort
+De Genestetlaan,30,"","",3818GW,Amersfoort
+De Genestetlaan,31,"","",3818GW,Amersfoort
+De Genestetlaan,32,"","",3818GW,Amersfoort
+De Genestetlaan,33,"","",3818GW,Amersfoort
+De Genestetlaan,34,"","",3818GW,Amersfoort
+De Genestetlaan,35,"","",3818GW,Amersfoort
+De Genestetlaan,37,"","",3818GW,Amersfoort
+De Genestetlaan,39,"","",3818GW,Amersfoort
+De Genestetlaan,7,"","",3818GW,Amersfoort
+De Genestetlaan,7,A,"",3818GW,Amersfoort
+De Genestetlaan,9,"","",3818GW,Amersfoort
+De Genestetlaan,9,A,"",3818GW,Amersfoort

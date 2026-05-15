@@ -1,78 +1,79 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7741NN",27,"",""
-"7741NN",7,"A",""
-"7741NN",9,"",""
-"7741NN",25,"",""
-"7741NN",23,"",""
-"7741NN",31,"",""
-"7741NN",39,"",""
-"7741NN",13,"",""
-"7741NN",11,"",""
-"7741NN",33,"",""
-"7741NN",15,"",""
-"7741NN",15,"A",""
-"7741NN",31,"",""
-"7741NN",31,"",""
-"7741NN",23,"A",""
-"7741NN",17,"",""
-"7741NN",3,"",""
-"7741NN",5,"",""
-"7741NN",21,"",""
-"7741NN",7,"",""
-"7741NN",29,"",""
-"7741NN",43,"",""
-"7741NN",3,"A",""
-"7741NN",37,"",""
-"7741NN",35,"",""
-"7741NN",41,"",""
-"7741NP",2,"A",""
-"7741NP",26,"",""
-"7741NP",10,"",""
-"7741NP",6,"",""
-"7741NP",16,"",""
-"7741NP",22,"",""
-"7741NP",20,"",""
-"7741NP",28,"",""
-"7741NP",18,"",""
-"7741NP",2,"",""
-"7741NP",12,"",""
-"7741NP",24,"",""
-"7741NP",10,"",""
-7741NN,Nieuwe Dijk,3,,
-7741NN,Nieuwe Dijk,5,,
-7741NN,Nieuwe Dijk,7,A,
-7741NN,Nieuwe Dijk,7,,
-7741NN,Nieuwe Dijk,9,,
-7741NN,Nieuwe Dijk,11,,
-7741NN,Nieuwe Dijk,13,,
-7741NN,Nieuwe Dijk,15,A,
-7741NN,Nieuwe Dijk,15,,
-7741NN,Nieuwe Dijk,17,,
-7741NN,Nieuwe Dijk,21,,
-7741NN,Nieuwe Dijk,23,,
-7741NN,Nieuwe Dijk,27,,
-7741NN,Nieuwe Dijk,29,,
-7741NN,Nieuwe Dijk,31,,
-7741NN,Nieuwe Dijk,33,,
-7741NN,Nieuwe Dijk,35,,
-7741NN,Nieuwe Dijk,37,,
-7741NN,Nieuwe Dijk,39,,
-7741NN,Nieuwe Dijk,41,,
-7741NN,Nieuwe Dijk,43,,
-7741NP,Nieuwe Dijk,2,A,
-7741NP,Nieuwe Dijk,2,,
-7741NP,Nieuwe Dijk,6,,
-7741NP,Nieuwe Dijk,10,,
-7741NP,Nieuwe Dijk,12,,
-7741NP,Nieuwe Dijk,16,,
-7741NP,Nieuwe Dijk,18,,
-7741NP,Nieuwe Dijk,20,,
-7741NP,Nieuwe Dijk,22,,
-7741NP,Nieuwe Dijk,24,,
-7741NP,Nieuwe Dijk,26,,
-7741NP,Nieuwe Dijk,28,,
-7741NN,Nieuwe Dijk,31,,
-7741NN,Nieuwe Dijk,23,A,
-7741NN,Nieuwe Dijk,25,,
-7741NN,Nieuwe Dijk,3,A,
-7741NP,Nieuwe Dijk,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+27,"","","",7741NN,
+9,"","","",7741NN,
+25,"","","",7741NN,
+23,"","","",7741NN,
+31,"","","",7741NN,
+39,"","","",7741NN,
+13,"","","",7741NN,
+11,"","","",7741NN,
+33,"","","",7741NN,
+15,"","","",7741NN,
+31,"","","",7741NN,
+31,"","","",7741NN,
+17,"","","",7741NN,
+3,"","","",7741NN,
+5,"","","",7741NN,
+21,"","","",7741NN,
+7,"","","",7741NN,
+29,"","","",7741NN,
+43,"","","",7741NN,
+37,"","","",7741NN,
+35,"","","",7741NN,
+41,"","","",7741NN,
+Nieuwe Dijk,11,"","",7741NN,Coevorden
+Nieuwe Dijk,13,"","",7741NN,Coevorden
+Nieuwe Dijk,15,"","",7741NN,Coevorden
+Nieuwe Dijk,15,A,"",7741NN,Coevorden
+Nieuwe Dijk,17,"","",7741NN,Coevorden
+Nieuwe Dijk,21,"","",7741NN,Coevorden
+Nieuwe Dijk,23,"","",7741NN,Coevorden
+Nieuwe Dijk,23,A,"",7741NN,Coevorden
+Nieuwe Dijk,25,"","",7741NN,Coevorden
+Nieuwe Dijk,27,"","",7741NN,Coevorden
+Nieuwe Dijk,29,"","",7741NN,Coevorden
+Nieuwe Dijk,3,"","",7741NN,Coevorden
+Nieuwe Dijk,3,A,"",7741NN,Coevorden
+Nieuwe Dijk,31,"","",7741NN,Coevorden
+Nieuwe Dijk,31,"","",7741NN,Coevorden
+Nieuwe Dijk,33,"","",7741NN,Coevorden
+Nieuwe Dijk,35,"","",7741NN,Coevorden
+Nieuwe Dijk,37,"","",7741NN,Coevorden
+Nieuwe Dijk,39,"","",7741NN,Coevorden
+Nieuwe Dijk,41,"","",7741NN,Coevorden
+Nieuwe Dijk,43,"","",7741NN,Coevorden
+Nieuwe Dijk,5,"","",7741NN,Coevorden
+Nieuwe Dijk,7,"","",7741NN,Coevorden
+Nieuwe Dijk,7,A,"",7741NN,Coevorden
+Nieuwe Dijk,9,"","",7741NN,Coevorden
+7,A,"","",7741NN,
+15,A,"","",7741NN,
+23,A,"","",7741NN,
+3,A,"","",7741NN,
+26,"","","",7741NP,
+10,"","","",7741NP,
+6,"","","",7741NP,
+16,"","","",7741NP,
+22,"","","",7741NP,
+20,"","","",7741NP,
+28,"","","",7741NP,
+18,"","","",7741NP,
+2,"","","",7741NP,
+12,"","","",7741NP,
+24,"","","",7741NP,
+10,"","","",7741NP,
+Nieuwe Dijk,10,"","",7741NP,Coevorden
+Nieuwe Dijk,10,"","",7741NP,Coevorden
+Nieuwe Dijk,12,"","",7741NP,Coevorden
+Nieuwe Dijk,16,"","",7741NP,Coevorden
+Nieuwe Dijk,18,"","",7741NP,Coevorden
+Nieuwe Dijk,2,"","",7741NP,Coevorden
+Nieuwe Dijk,2,A,"",7741NP,Coevorden
+Nieuwe Dijk,20,"","",7741NP,Coevorden
+Nieuwe Dijk,22,"","",7741NP,Coevorden
+Nieuwe Dijk,24,"","",7741NP,Coevorden
+Nieuwe Dijk,26,"","",7741NP,Coevorden
+Nieuwe Dijk,28,"","",7741NP,Coevorden
+Nieuwe Dijk,6,"","",7741NP,Coevorden
+2,A,"","",7741NP,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

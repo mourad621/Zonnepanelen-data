@@ -1,79 +1,79 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3233KH,Berkenrijsweg,3,,
-3233KH,Berkenrijsweg,5,,
-3233KH,Berkenrijsweg,7,,
-3233KH,Berkenrijsweg,9,,
-3233KH,Berkenrijsweg,10,,
-3233KH,Berkenrijsweg,11,,
-3233KH,Berkenrijsweg,12,,
-3233KH,Berkenrijsweg,13,a,
-3233KH,Berkenrijsweg,13,,
-3233KH,Berkenrijsweg,15,,
-3233KH,Berkenrijsweg,16,a,
-3233KH,Berkenrijsweg,16,,
-3233KH,Berkenrijsweg,18,,
-3233EA,Duinen,1,,
-3233EA,Duinen,2,,
-3233EA,Duinen,3,,
-3233EA,Duinen,4,,
-3233EA,Duinen,5,,
-3233EA,Duinen,6,,
-3233EA,Duinen,8,,
-3233EA,Duinen,9,,
-3235NK,Duinstraat,1,,
-3235NK,Duinstraat,3,,
-3235NK,Duinstraat,5,,
-3235NK,Duinstraat,12,a,
-3235NK,Duinstraat,14,,
-3235NK,Duinstraat,16,a,
-3235NK,Duinstraat,16,,
-3235NK,Duinstraat,18,,
-3235NK,Duinstraat,20,,
-3235NK,Duinstraat,22,,
-3233EG,Duinzoom,2,,
-3233EG,Duinzoom,5,,
-3233EG,Duinzoom,7,,
-3233EG,Duinzoom,11,,
-3233EG,Duinzoom,12,,
-3233EG,Duinzoom,14,,
-3233EG,Duinzoom,15,,
-3233EG,Duinzoom,16,,
-3233EG,Duinzoom,18,,
-3233EG,Duinzoom,20,a,
-3233EG,Duinzoom,20,,
-3233EG,Duinzoom,22,,
-3233EG,Duinzoom,24,,
-3233EG,Duinzoom,9999,,T01
-3233KJ,Grenspad,1,,
-3233KJ,Grenspad,3,,
-3235MA,Grenspad,5,,
-3235MA,Grenspad,7,,
-3235MA,Grenspad,9,,
-3233XG,Koepelweg,1,,
-3233NC,Noordoever Oostv Meer,1,,
-3233NC,Noordoever Oostv Meer,3,,
-3233NC,Noordoever Oostv Meer,9999,,D01
-3233NC,Noordoever Oostv Meer,9999,,S01
-3233NC,Noordoever Oostv Meer,9999,,S01
-3233CW,Strandweg,4,,
-3233CW,Strandweg,9999,,S01
-3233CW,Strandweg,9999,,T01
-3233KH,Berkenrijsweg,1,,
-3233KH,Berkenrijsweg,1,,
-3233KH,Berkenrijsweg,9,,
-3233KH,Berkenrijsweg,15,,
-3233EA,Duinen,6,a,
-3233EA,Duinen,7,,
-3233EA,Duinen,5,a,
-3235NK,Duinstraat,3,,
-3235NK,Duinstraat,7,,
-3235MA,Grenspad,2,,
-3235MA,Grenspad,4,,
-3235MA,Grenspad,4,,
-3233NC,Noordoever Oostv Meer,4,,
-3233NC,Noordoever Oostv Meer,2,,
-3233NC,Noordoever Oostv Meer,20,,
-3233NC,Noordoever Oostv Meer,19,,
-3233CW,Strandweg,5,,
-3233CW,Strandweg,1,,
-3235NK,Duinstraat,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Strandweg,1,"","",3233CW,Oostvoorne
+Strandweg,4,"","",3233CW,Oostvoorne
+Strandweg,5,"","",3233CW,Oostvoorne
+Strandweg,9999,"",S01,3233CW,Oostvoorne
+Strandweg,9999,"",T01,3233CW,Oostvoorne
+Duinen,1,"","",3233EA,Oostvoorne
+Duinen,2,"","",3233EA,Oostvoorne
+Duinen,3,"","",3233EA,Oostvoorne
+Duinen,4,"","",3233EA,Oostvoorne
+Duinen,5,"","",3233EA,Oostvoorne
+Duinen,5,A,"",3233EA,Oostvoorne
+Duinen,6,"","",3233EA,Oostvoorne
+Duinen,6,A,"",3233EA,Oostvoorne
+Duinen,7,"","",3233EA,Oostvoorne
+Duinen,8,"","",3233EA,Oostvoorne
+Duinen,9,"","",3233EA,Oostvoorne
+Duinzoom,11,"","",3233EG,Oostvoorne
+Duinzoom,12,"","",3233EG,Oostvoorne
+Duinzoom,14,"","",3233EG,Oostvoorne
+Duinzoom,15,"","",3233EG,Oostvoorne
+Duinzoom,16,"","",3233EG,Oostvoorne
+Duinzoom,18,"","",3233EG,Oostvoorne
+Duinzoom,2,"","",3233EG,Oostvoorne
+Duinzoom,20,"","",3233EG,Oostvoorne
+Duinzoom,20,A,"",3233EG,Oostvoorne
+Duinzoom,22,"","",3233EG,Oostvoorne
+Duinzoom,24,"","",3233EG,Oostvoorne
+Duinzoom,5,"","",3233EG,Oostvoorne
+Duinzoom,7,"","",3233EG,Oostvoorne
+Duinzoom,9999,"",T01,3233EG,Oostvoorne
+Berkenrijsweg,1,"","",3233KH,Oostvoorne
+Berkenrijsweg,1,"","",3233KH,Oostvoorne
+Berkenrijsweg,10,"","",3233KH,Oostvoorne
+Berkenrijsweg,11,"","",3233KH,Oostvoorne
+Berkenrijsweg,12,"","",3233KH,Oostvoorne
+Berkenrijsweg,13,"","",3233KH,Oostvoorne
+Berkenrijsweg,13,A,"",3233KH,Oostvoorne
+Berkenrijsweg,15,"","",3233KH,Oostvoorne
+Berkenrijsweg,15,"","",3233KH,Oostvoorne
+Berkenrijsweg,16,"","",3233KH,Oostvoorne
+Berkenrijsweg,16,A,"",3233KH,Oostvoorne
+Berkenrijsweg,18,"","",3233KH,Oostvoorne
+Berkenrijsweg,3,"","",3233KH,Oostvoorne
+Berkenrijsweg,5,"","",3233KH,Oostvoorne
+Berkenrijsweg,7,"","",3233KH,Oostvoorne
+Berkenrijsweg,9,"","",3233KH,Oostvoorne
+Berkenrijsweg,9,"","",3233KH,Oostvoorne
+Grenspad,1,"","",3233KJ,Oostvoorne
+Grenspad,3,"","",3233KJ,Oostvoorne
+Noordoever Oostv Meer,1,"","",3233NC,Oostvoorne
+Noordoever Oostv Meer,19,"","",3233NC,Oostvoorne
+Noordoever Oostv Meer,2,"","",3233NC,Oostvoorne
+Noordoever Oostv Meer,20,"","",3233NC,Oostvoorne
+Noordoever Oostv Meer,3,"","",3233NC,Oostvoorne
+Noordoever Oostv Meer,4,"","",3233NC,Oostvoorne
+Noordoever Oostv Meer,9999,"",D01,3233NC,Oostvoorne
+Noordoever Oostv Meer,9999,"",S01,3233NC,Oostvoorne
+Noordoever Oostv Meer,9999,"",S01,3233NC,Oostvoorne
+Koepelweg,1,"","",3233XG,Oostvoorne
+Grenspad,2,"","",3235MA,Rockanje
+Grenspad,4,"","",3235MA,Rockanje
+Grenspad,4,"","",3235MA,Rockanje
+Grenspad,5,"","",3235MA,Rockanje
+Grenspad,7,"","",3235MA,Rockanje
+Grenspad,9,"","",3235MA,Rockanje
+Duinstraat,1,"","",3235NK,Rockanje
+Duinstraat,12,A,"",3235NK,Rockanje
+Duinstraat,14,"","",3235NK,Rockanje
+Duinstraat,16,"","",3235NK,Rockanje
+Duinstraat,16,A,"",3235NK,Rockanje
+Duinstraat,18,"","",3235NK,Rockanje
+Duinstraat,20,"","",3235NK,Rockanje
+Duinstraat,22,"","",3235NK,Rockanje
+Duinstraat,3,"","",3235NK,Rockanje
+Duinstraat,3,"","",3235NK,Rockanje
+Duinstraat,5,"","",3235NK,Rockanje
+Duinstraat,7,"","",3235NK,Rockanje
+Duinstraat,7,"","",3235NK,Rockanje

@@ -1,43 +1,43 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1108AA,Provincialeweg,1,,
-1108AA,Provincialeweg,2,,
-1108AA,Provincialeweg,3,,
-1108AA,Provincialeweg,4,,
-1108AA,Provincialeweg,5,,
-1108AA,Provincialeweg,6,,
-1108AA,Provincialeweg,8,,
-1108AA,Provincialeweg,9,,
-1108AA,Provincialeweg,10,,
-1108AA,Provincialeweg,11,,
-1108AA,Provincialeweg,11,A,
-1108AA,Provincialeweg,12,,
-1108AA,Provincialeweg,13,,
-1108AA,Provincialeweg,15,,
-1108AA,Provincialeweg,16,,
-1108AA,Provincialeweg,17,,
-1108AA,Provincialeweg,18,,
-1108AA,Provincialeweg,19,,
-1108AA,Provincialeweg,20,,
-1108AA,Provincialeweg,21,,
-1108AB,Provincialeweg,22,,
-1108AB,Provincialeweg,23,,
-1108AB,Provincialeweg,24,,
-1108AB,Provincialeweg,30,,
-1108AB,Provincialeweg,31,,
-1108AB,Provincialeweg,33,,
-1108AB,Provincialeweg,35,,
-1108AB,Provincialeweg,36,,
-1108AJ,Driemondweg,21,,
-1108AJ,Driemondweg,25,,
-1108AA,Provincialeweg,14,,
-1108AB,Provincialeweg,38,,
-1108AA,Provincialeweg,7,,
-1108AA,Provincialeweg,7,,
-1108AB,Provincialeweg,36,A,
-1108AB,Provincialeweg,36,A,
-1108AB,Provincialeweg,36,A,
-1108AB,Provincialeweg,36,A,
-1108AB,Provincialeweg,36,A,
-1108AW,Valburgdreef,1001,,
-1108AW,Valburgdreef,1003,,
-1108AA,Provincialeweg,11,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Provincialeweg,1,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,10,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,11,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,11,A,"",1108AA,Amsterdam Zuidoost
+Provincialeweg,11,B,"",1108AA,Amsterdam Zuidoost
+Provincialeweg,12,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,13,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,14,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,15,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,16,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,17,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,18,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,19,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,2,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,20,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,21,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,3,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,4,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,5,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,6,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,7,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,7,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,8,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,9,"","",1108AA,Amsterdam Zuidoost
+Provincialeweg,22,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,23,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,24,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,30,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,31,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,33,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,35,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,36,"","",1108AB,Amsterdam Zuidoost
+Provincialeweg,36,A,"",1108AB,Amsterdam Zuidoost
+Provincialeweg,36,A,"",1108AB,Amsterdam Zuidoost
+Provincialeweg,36,A,"",1108AB,Amsterdam Zuidoost
+Provincialeweg,36,A,"",1108AB,Amsterdam Zuidoost
+Provincialeweg,36,A,"",1108AB,Amsterdam Zuidoost
+Provincialeweg,38,"","",1108AB,Amsterdam Zuidoost
+Driemondweg,21,"","",1108AJ,Amsterdam Zuidoost
+Driemondweg,25,"","",1108AJ,Amsterdam Zuidoost
+Valburgdreef,1001,"","",1108AW,Amsterdam Zuidoost
+Valburgdreef,1003,"","",1108AW,Amsterdam Zuidoost

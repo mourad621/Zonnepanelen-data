@@ -1,791 +1,411 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9408AA",3,"",""
-"9408AA",17,"",""
-"9408AA",1,"",""
-"9408AA",69,"",""
-"9408AA",55,"",""
-"9408AA",51,"",""
-"9408AA",71,"",""
-"9408AA",15,"",""
-"9408AA",75,"",""
-"9408AA",43,"",""
-"9408AA",13,"",""
-"9408AA",73,"",""
-"9408AA",53,"",""
-"9408AA",31,"",""
-"9408AA",9,"",""
-"9408AA",11,"",""
-"9408AA",5,"",""
-"9408AA",47,"",""
-"9408AA",41,"",""
-"9408AA",29,"",""
-"9408AA",39,"",""
-"9408AA",77,"",""
-"9408AA",33,"",""
-"9408AA",61,"",""
-"9408AA",27,"",""
-"9408AA",7,"",""
-"9408AA",45,"",""
-"9408AA",37,"",""
-"9408AA",63,"",""
-"9408AA",25,"",""
-"9408AA",35,"",""
-"9408AA",57,"",""
-"9408AA",67,"",""
-"9408AA",23,"",""
-"9408AA",49,"",""
-"9408AA",21,"",""
-"9408AA",19,"",""
-"9408AA",65,"",""
-"9408AA",59,"",""
-"9408AB",12,"",""
-"9408AB",2,"",""
-"9408AB",14,"",""
-"9408AB",10,"",""
-"9408AB",20,"",""
-"9408AB",24,"",""
-"9408AB",4,"",""
-"9408AB",6,"",""
-"9408AB",8,"",""
-"9408AB",16,"",""
-"9408AB",18,"",""
-"9408AB",22,"",""
-"9408AC",1,"",""
-"9408AC",15,"",""
-"9408AC",5,"",""
-"9408AC",21,"",""
-"9408AC",17,"",""
-"9408AC",13,"",""
-"9408AC",23,"",""
-"9408AC",3,"",""
-"9408AC",7,"",""
-"9408AC",11,"",""
-"9408AC",9,"",""
-"9408AC",25,"",""
-"9408AC",19,"",""
-"9408AD",24,"",""
-"9408AD",8,"",""
-"9408AD",10,"",""
-"9408AD",4,"",""
-"9408AD",22,"",""
-"9408AD",14,"",""
-"9408AD",6,"",""
-"9408AD",12,"",""
-"9408AD",2,"",""
-"9408AD",16,"",""
-"9408AD",18,"",""
-"9408AD",20,"",""
-"9408AE",9,"",""
-"9408AE",3,"",""
-"9408AE",7,"",""
-"9408AE",11,"",""
-"9408AE",19,"",""
-"9408AE",25,"",""
-"9408AE",1,"",""
-"9408AE",5,"",""
-"9408AE",23,"",""
-"9408AE",13,"",""
-"9408AE",15,"",""
-"9408AE",17,"",""
-"9408AE",27,"",""
-"9408AE",21,"",""
-"9408AG",16,"",""
-"9408AG",20,"",""
-"9408AG",18,"",""
-"9408AG",6,"",""
-"9408AG",12,"",""
-"9408AG",24,"",""
-"9408AG",26,"",""
-"9408AG",14,"",""
-"9408AG",22,"",""
-"9408AG",10,"",""
-"9408AG",4,"",""
-"9408AG",8,"",""
-"9408AG",2,"",""
-"9408AH",11,"",""
-"9408AH",69,"",""
-"9408AH",71,"",""
-"9408AH",9,"",""
-"9408AH",27,"",""
-"9408AH",73,"",""
-"9408AH",61,"",""
-"9408AH",19,"",""
-"9408AH",55,"",""
-"9408AH",35,"",""
-"9408AH",91,"",""
-"9408AH",65,"",""
-"9408AH",13,"",""
-"9408AH",33,"",""
-"9408AH",67,"",""
-"9408AH",79,"",""
-"9408AH",23,"",""
-"9408AH",3,"",""
-"9408AH",93,"",""
-"9408AH",5,"",""
-"9408AH",85,"",""
-"9408AH",17,"",""
-"9408AH",83,"",""
-"9408AH",97,"",""
-"9408AH",47,"",""
-"9408AH",43,"",""
-"9408AH",89,"",""
-"9408AH",31,"",""
-"9408AH",21,"",""
-"9408AH",7,"",""
-"9408AH",29,"",""
-"9408AH",45,"",""
-"9408AH",87,"",""
-"9408AH",25,"",""
-"9408AH",59,"",""
-"9408AH",1,"",""
-"9408AH",41,"",""
-"9408AH",95,"",""
-"9408AH",51,"",""
-"9408AH",37,"",""
-"9408AH",57,"",""
-"9408AH",63,"",""
-"9408AH",49,"",""
-"9408AH",53,"",""
-"9408AH",39,"",""
-"9408AH",75,"",""
-"9408AH",81,"",""
-"9408AH",77,"",""
-"9408AH",15,"",""
-"9408AJ",21,"",""
-"9408AJ",9,"",""
-"9408AJ",1,"",""
-"9408AJ",13,"",""
-"9408AJ",19,"",""
-"9408AJ",7,"",""
-"9408AJ",15,"",""
-"9408AJ",5,"",""
-"9408AJ",11,"",""
-"9408AJ",23,"",""
-"9408AJ",17,"",""
-"9408AJ",3,"",""
-"9408AJ",25,"",""
-"9408AK",32,"",""
-"9408AK",30,"",""
-"9408AK",70,"",""
-"9408AK",40,"",""
-"9408AK",64,"",""
-"9408AK",14,"",""
-"9408AK",34,"",""
-"9408AK",68,"",""
-"9408AK",12,"",""
-"9408AK",48,"",""
-"9408AK",38,"",""
-"9408AK",10,"",""
-"9408AK",6,"",""
-"9408AK",16,"",""
-"9408AK",54,"",""
-"9408AK",2,"",""
-"9408AK",36,"",""
-"9408AK",52,"",""
-"9408AK",8,"",""
-"9408AK",4,"",""
-"9408AK",60,"",""
-"9408AK",42,"",""
-"9408AK",58,"",""
-"9408AK",56,"",""
-"9408AK",50,"",""
-"9408AK",62,"",""
-"9408AK",18,"",""
-"9408AK",22,"",""
-"9408AK",66,"",""
-"9408AK",24,"",""
-"9408AK",72,"",""
-"9408AK",44,"",""
-"9408AK",26,"",""
-"9408AK",46,"",""
-"9408AK",20,"",""
-"9408AK",28,"",""
-"9408AL",17,"",""
-"9408AL",33,"",""
-"9408AL",15,"",""
-"9408AL",19,"",""
-"9408AL",39,"",""
-"9408AL",1,"",""
-"9408AL",21,"",""
-"9408AL",41,"",""
-"9408AL",9,"",""
-"9408AL",29,"",""
-"9408AL",35,"",""
-"9408AL",13,"",""
-"9408AL",45,"",""
-"9408AL",7,"",""
-"9408AL",43,"",""
-"9408AL",23,"",""
-"9408AL",5,"",""
-"9408AL",27,"",""
-"9408AL",31,"",""
-"9408AL",37,"",""
-"9408AL",11,"",""
-"9408AL",3,"",""
-"9408AL",25,"",""
-"9408AL",47,"",""
-"9408AM",4,"C",""
-"9408AM",4,"B",""
-"9408AM",4,"A",""
-"9408AM",44,"",""
-"9408AM",80,"",""
-"9408AM",4,"A",""
-"9408AM",2,"A",""
-"9408AM",26,"",""
-"9408AM",80,"",""
-"9408AM",2,"F",""
-"9408AM",4,"E",""
-"9408AM",4,"G",""
-"9408AM",80,"",""
-"9408AM",4,"B",""
-"9408AM",4,"B",""
-"9408AM",2,"E",""
-"9408AM",84,"",""
-"9408AM",80,"",""
-"9408AM",28,"",""
-"9408AM",82,"",""
-"9408AM",2,"D",""
-"9408AM",48,"",""
-"9408AM",4,"G",""
-"9408AM",4,"E",""
-"9408AM",84,"",""
-"9408AM",56,"",""
-"9408AM",2,"A",""
-"9408AM",4,"F",""
-"9408AM",4,"I",""
-"9408AM",4,"B",""
-"9408AM",2,"B",""
-"9408AM",4,"F",""
-"9408AM",2,"E",""
-"9408AM",4,"H",""
-"9408AM",2,"E",""
-"9408AM",38,"",""
-"9408AM",36,"",""
-"9408AM",14,"",""
-"9408AM",76,"",""
-"9408AM",4,"H",""
-"9408AM",4,"C",""
-"9408AM",8,"",""
-"9408AM",2,"B",""
-"9408AM",74,"",""
-"9408AM",2,"A",""
-"9408AM",46,"",""
-"9408AM",24,"",""
-"9408AM",78,"",""
-"9408AM",16,"",""
-"9408AM",10,"",""
-"9408AM",32,"",""
-"9408AM",82,"",""
-"9408AM",4,"A",""
-"9408AM",4,"G",""
-"9408AM",6,"",""
-"9408AM",70,"",""
-"9408AM",2,"B",""
-"9408AM",2,"C",""
-"9408AM",4,"",""
-"9408AM",80,"",""
-"9408AM",42,"",""
-"9408AM",40,"",""
-"9408AM",4,"A",""
-"9408AM",18,"",""
-"9408AM",12,"",""
-"9408AM",4,"H",""
-"9408AM",84,"",""
-"9408AM",2,"D",""
-"9408AM",4,"C",""
-"9408AM",72,"",""
-"9408AM",4,"D",""
-"9408AM",4,"F",""
-"9408AM",4,"C",""
-"9408AM",50,"",""
-"9408AM",22,"",""
-"9408AM",20,"",""
-"9408AM",2,"",""
-"9408AM",30,"",""
-"9408AM",84,"",""
-"9408AM",2,"D",""
-"9408AM",2,"C",""
-"9408AM",58,"",""
-"9408AM",66,"",""
-"9408AM",4,"E",""
-"9408AM",34,"",""
-"9408AM",4,"",""
-"9408AM",62,"",""
-"9408AM",52,"",""
-"9408AM",4,"A",""
-"9408AM",2,"C",""
-"9408AM",4,"I",""
-"9408AM",2,"",""
-"9408AM",4,"E",""
-"9408AM",54,"",""
-"9408AM",4,"E",""
-"9408AM",2,"",""
-"9408AM",4,"C",""
-"9408AM",2,"G",""
-"9408AM",60,"",""
-"9408AM",4,"D",""
-"9408AM",64,"",""
-"9408AM",4,"D",""
-"9408AM",4,"B",""
-"9408AM",82,"",""
-"9408AM",4,"D",""
-"9408AM",4,"D",""
-"9408AM",68,"",""
-"9408AN",76,"",""
-"9408AN",78,"",""
-"9408AN",88,"",""
-"9408AN",86,"",""
-"9408AN",80,"",""
-"9408AN",102,"",""
-"9408AN",126,"",""
-"9408AN",98,"",""
-"9408AN",82,"",""
-"9408AN",96,"",""
-"9408AN",106,"",""
-"9408AN",138,"",""
-"9408AN",124,"",""
-"9408AN",122,"",""
-"9408AN",116,"",""
-"9408AN",108,"",""
-"9408AN",142,"",""
-"9408AN",144,"",""
-"9408AN",136,"",""
-"9408AN",132,"",""
-"9408AN",134,"",""
-"9408AN",74,"",""
-"9408AN",120,"",""
-"9408AN",118,"",""
-"9408AN",84,"",""
-"9408AN",112,"",""
-"9408AN",140,"",""
-"9408AN",90,"",""
-"9408AN",114,"",""
-"9408AN",92,"",""
-"9408AN",130,"",""
-"9408AN",94,"",""
-"9408AN",128,"",""
-"9408AN",100,"",""
-"9408AN",104,"",""
-"9408AN",110,"",""
-"9408AP",6,"",""
-"9408AP",22,"",""
-"9408AP",24,"",""
-"9408AP",20,"",""
-"9408AP",12,"",""
-"9408AP",2,"",""
-"9408AP",4,"",""
-"9408AP",14,"",""
-"9408AP",8,"",""
-"9408AP",16,"",""
-"9408AP",18,"",""
-"9408AP",10,"",""
-"9408AX",50,"",""
-"9408AX",42,"H",""
-"9408AX",56,"",""
-"9408AX",36,"",""
-"9408AX",38,"",""
-"9408AX",46,"",""
-"9408AX",48,"",""
-"9408AX",42,"D",""
-"9408AX",54,"",""
-"9408AX",34,"",""
-"9408AX",52,"",""
-"9408AX",42,"B",""
-"9408AX",48,"",""
-"9408AX",42,"E",""
-"9408AX",42,"C",""
-"9408AX",42,"J",""
-"9408AX",42,"G",""
-"9408AX",42,"",""
-"9408AX",44,"",""
-"9408AX",46,"",""
-"9408AX",42,"I",""
-"9408AX",28,"",""
-"9408AX",42,"F",""
-"9408AX",42,"A",""
-"9408AX",26,"",""
-"9408AX",44,"",""
-"9408AX",42,"",""
-"9408AX",32,"",""
-"9408AX",40,"",""
-"9408AX",30,"",""
-9408AM,Aletta Jacobsweg,2,,
-9408AM,Aletta Jacobsweg,6,,
-9408AM,Aletta Jacobsweg,8,,
-9408AM,Aletta Jacobsweg,10,,
-9408AM,Aletta Jacobsweg,12,,
-9408AM,Aletta Jacobsweg,14,,
-9408AM,Aletta Jacobsweg,16,,
-9408AM,Aletta Jacobsweg,18,,
-9408AM,Aletta Jacobsweg,20,,
-9408AM,Aletta Jacobsweg,22,,
-9408AM,Aletta Jacobsweg,24,,
-9408AM,Aletta Jacobsweg,26,,
-9408AM,Aletta Jacobsweg,28,,
-9408AM,Aletta Jacobsweg,30,,
-9408AM,Aletta Jacobsweg,32,,
-9408AM,Aletta Jacobsweg,34,,
-9408AM,Aletta Jacobsweg,36,,
-9408AM,Aletta Jacobsweg,38,,
-9408AM,Aletta Jacobsweg,40,,
-9408AM,Aletta Jacobsweg,42,,
-9408AM,Aletta Jacobsweg,44,,
-9408AM,Aletta Jacobsweg,46,,
-9408AM,Aletta Jacobsweg,48,,
-9408AM,Aletta Jacobsweg,50,,
-9408AM,Aletta Jacobsweg,52,,
-9408AM,Aletta Jacobsweg,54,,
-9408AM,Aletta Jacobsweg,56,,
-9408AM,Aletta Jacobsweg,58,,
-9408AM,Aletta Jacobsweg,60,,
-9408AM,Aletta Jacobsweg,62,,
-9408AM,Aletta Jacobsweg,64,,
-9408AM,Aletta Jacobsweg,66,,
-9408AM,Aletta Jacobsweg,68,,
-9408AM,Aletta Jacobsweg,70,,
-9408AM,Aletta Jacobsweg,72,,
-9408AM,Aletta Jacobsweg,74,,
-9408AM,Aletta Jacobsweg,76,,
-9408AM,Aletta Jacobsweg,78,,
-9408AA,Dilletuin,1,,
-9408AA,Dilletuin,3,,
-9408AA,Dilletuin,5,,
-9408AA,Dilletuin,7,,
-9408AA,Dilletuin,9,,
-9408AA,Dilletuin,11,,
-9408AA,Dilletuin,13,,
-9408AA,Dilletuin,15,,
-9408AA,Dilletuin,17,,
-9408AA,Dilletuin,19,,
-9408AA,Dilletuin,21,,
-9408AA,Dilletuin,23,,
-9408AA,Dilletuin,25,,
-9408AA,Dilletuin,27,,
-9408AA,Dilletuin,29,,
-9408AA,Dilletuin,31,,
-9408AA,Dilletuin,33,,
-9408AA,Dilletuin,35,,
-9408AA,Dilletuin,37,,
-9408AA,Dilletuin,39,,
-9408AA,Dilletuin,41,,
-9408AA,Dilletuin,43,,
-9408AA,Dilletuin,45,,
-9408AA,Dilletuin,47,,
-9408AA,Dilletuin,49,,
-9408AA,Dilletuin,51,,
-9408AA,Dilletuin,53,,
-9408AA,Dilletuin,55,,
-9408AA,Dilletuin,57,,
-9408AA,Dilletuin,59,,
-9408AA,Dilletuin,61,,
-9408AA,Dilletuin,63,,
-9408AA,Dilletuin,65,,
-9408AA,Dilletuin,67,,
-9408AA,Dilletuin,69,,
-9408AA,Dilletuin,71,,
-9408AA,Dilletuin,73,,
-9408AA,Dilletuin,75,,
-9408AA,Dilletuin,77,,
-9408AB,Dilletuin,2,,
-9408AB,Dilletuin,4,,
-9408AB,Dilletuin,6,,
-9408AB,Dilletuin,8,,
-9408AB,Dilletuin,10,,
-9408AB,Dilletuin,12,,
-9408AB,Dilletuin,14,,
-9408AB,Dilletuin,16,,
-9408AB,Dilletuin,18,,
-9408AB,Dilletuin,20,,
-9408AB,Dilletuin,22,,
-9408AB,Dilletuin,24,,
-9408AC,Kamilletuin,1,,
-9408AC,Kamilletuin,3,,
-9408AC,Kamilletuin,5,,
-9408AC,Kamilletuin,7,,
-9408AC,Kamilletuin,9,,
-9408AC,Kamilletuin,11,,
-9408AC,Kamilletuin,13,,
-9408AC,Kamilletuin,15,,
-9408AC,Kamilletuin,17,,
-9408AC,Kamilletuin,19,,
-9408AC,Kamilletuin,21,,
-9408AC,Kamilletuin,23,,
-9408AC,Kamilletuin,25,,
-9408AD,Kamilletuin,2,,
-9408AD,Kamilletuin,4,,
-9408AD,Kamilletuin,6,,
-9408AD,Kamilletuin,8,,
-9408AD,Kamilletuin,10,,
-9408AD,Kamilletuin,12,,
-9408AD,Kamilletuin,14,,
-9408AD,Kamilletuin,16,,
-9408AD,Kamilletuin,18,,
-9408AD,Kamilletuin,20,,
-9408AD,Kamilletuin,22,,
-9408AD,Kamilletuin,24,,
-9408AL,Kloostersingel,1,,
-9408AL,Kloostersingel,3,,
-9408AL,Kloostersingel,5,,
-9408AL,Kloostersingel,7,,
-9408AL,Kloostersingel,9,,
-9408AL,Kloostersingel,11,,
-9408AL,Kloostersingel,13,,
-9408AL,Kloostersingel,15,,
-9408AL,Kloostersingel,17,,
-9408AL,Kloostersingel,19,,
-9408AL,Kloostersingel,21,,
-9408AL,Kloostersingel,23,,
-9408AL,Kloostersingel,25,,
-9408AL,Kloostersingel,27,,
-9408AL,Kloostersingel,29,,
-9408AL,Kloostersingel,31,,
-9408AL,Kloostersingel,33,,
-9408AL,Kloostersingel,35,,
-9408AL,Kloostersingel,37,,
-9408AL,Kloostersingel,39,,
-9408AL,Kloostersingel,41,,
-9408AL,Kloostersingel,43,,
-9408AL,Kloostersingel,45,,
-9408AL,Kloostersingel,47,,
-9408AN,Laurierpark,74,,
-9408AN,Laurierpark,76,,
-9408AN,Laurierpark,78,,
-9408AN,Laurierpark,80,,
-9408AN,Laurierpark,82,,
-9408AN,Laurierpark,84,,
-9408AN,Laurierpark,86,,
-9408AN,Laurierpark,88,,
-9408AN,Laurierpark,90,,
-9408AN,Laurierpark,92,,
-9408AN,Laurierpark,94,,
-9408AN,Laurierpark,96,,
-9408AN,Laurierpark,98,,
-9408AN,Laurierpark,100,,
-9408AN,Laurierpark,102,,
-9408AN,Laurierpark,104,,
-9408AN,Laurierpark,106,,
-9408AN,Laurierpark,108,,
-9408AN,Laurierpark,110,,
-9408AN,Laurierpark,112,,
-9408AN,Laurierpark,114,,
-9408AN,Laurierpark,116,,
-9408AN,Laurierpark,118,,
-9408AN,Laurierpark,120,,
-9408AN,Laurierpark,122,,
-9408AN,Laurierpark,124,,
-9408AN,Laurierpark,126,,
-9408AN,Laurierpark,128,,
-9408AN,Laurierpark,130,,
-9408AN,Laurierpark,132,,
-9408AN,Laurierpark,134,,
-9408AN,Laurierpark,136,,
-9408AN,Laurierpark,138,,
-9408AN,Laurierpark,140,,
-9408AN,Laurierpark,142,,
-9408AN,Laurierpark,144,,
-9408AJ,Laurierstraat,1,,
-9408AJ,Laurierstraat,3,,
-9408AJ,Laurierstraat,5,,
-9408AJ,Laurierstraat,7,,
-9408AJ,Laurierstraat,9,,
-9408AJ,Laurierstraat,11,,
-9408AJ,Laurierstraat,13,,
-9408AJ,Laurierstraat,15,,
-9408AJ,Laurierstraat,17,,
-9408AJ,Laurierstraat,19,,
-9408AJ,Laurierstraat,21,,
-9408AJ,Laurierstraat,23,,
-9408AJ,Laurierstraat,25,,
-9408AK,Laurierstraat,2,,
-9408AK,Laurierstraat,4,,
-9408AK,Laurierstraat,6,,
-9408AK,Laurierstraat,8,,
-9408AK,Laurierstraat,10,,
-9408AK,Laurierstraat,12,,
-9408AK,Laurierstraat,14,,
-9408AK,Laurierstraat,16,,
-9408AK,Laurierstraat,18,,
-9408AK,Laurierstraat,20,,
-9408AK,Laurierstraat,22,,
-9408AK,Laurierstraat,24,,
-9408AK,Laurierstraat,26,,
-9408AK,Laurierstraat,28,,
-9408AK,Laurierstraat,30,,
-9408AK,Laurierstraat,32,,
-9408AK,Laurierstraat,34,,
-9408AK,Laurierstraat,36,,
-9408AK,Laurierstraat,38,,
-9408AK,Laurierstraat,40,,
-9408AK,Laurierstraat,42,,
-9408AK,Laurierstraat,44,,
-9408AK,Laurierstraat,46,,
-9408AK,Laurierstraat,48,,
-9408AK,Laurierstraat,50,,
-9408AK,Laurierstraat,52,,
-9408AK,Laurierstraat,54,,
-9408AK,Laurierstraat,56,,
-9408AK,Laurierstraat,58,,
-9408AK,Laurierstraat,60,,
-9408AK,Laurierstraat,62,,
-9408AK,Laurierstraat,64,,
-9408AK,Laurierstraat,66,,
-9408AK,Laurierstraat,68,,
-9408AK,Laurierstraat,70,,
-9408AK,Laurierstraat,72,,
-9408AM,Aletta Jacobsweg,4,,
-9408AM,Aletta Jacobsweg,4,E,
-9408AM,Aletta Jacobsweg,4,D,
-9408AM,Aletta Jacobsweg,4,C,
-9408AM,Aletta Jacobsweg,4,B,
-9408AM,Aletta Jacobsweg,4,A,
-9408AM,Aletta Jacobsweg,2,E,
-9408AM,Aletta Jacobsweg,2,D,
-9408AM,Aletta Jacobsweg,2,C,
-9408AM,Aletta Jacobsweg,2,B,
-9408AM,Aletta Jacobsweg,2,A,
-9408AM,Aletta Jacobsweg,84,,
-9408AM,Aletta Jacobsweg,82,,
-9408AM,Aletta Jacobsweg,80,,
-9408AE,Rozemarijntuin,1,,
-9408AE,Rozemarijntuin,3,,
-9408AE,Rozemarijntuin,5,,
-9408AE,Rozemarijntuin,7,,
-9408AE,Rozemarijntuin,9,,
-9408AE,Rozemarijntuin,11,,
-9408AE,Rozemarijntuin,13,,
-9408AE,Rozemarijntuin,15,,
-9408AE,Rozemarijntuin,17,,
-9408AE,Rozemarijntuin,19,,
-9408AE,Rozemarijntuin,21,,
-9408AE,Rozemarijntuin,23,,
-9408AE,Rozemarijntuin,25,,
-9408AE,Rozemarijntuin,27,,
-9408AG,Rozemarijntuin,2,,
-9408AG,Rozemarijntuin,4,,
-9408AG,Rozemarijntuin,6,,
-9408AG,Rozemarijntuin,8,,
-9408AG,Rozemarijntuin,10,,
-9408AG,Rozemarijntuin,12,,
-9408AG,Rozemarijntuin,14,,
-9408AG,Rozemarijntuin,16,,
-9408AG,Rozemarijntuin,18,,
-9408AG,Rozemarijntuin,20,,
-9408AG,Rozemarijntuin,22,,
-9408AG,Rozemarijntuin,24,,
-9408AG,Rozemarijntuin,26,,
-9408AP,Tijmpark,2,,
-9408AP,Tijmpark,4,,
-9408AP,Tijmpark,6,,
-9408AP,Tijmpark,8,,
-9408AP,Tijmpark,10,,
-9408AP,Tijmpark,12,,
-9408AP,Tijmpark,14,,
-9408AP,Tijmpark,16,,
-9408AP,Tijmpark,18,,
-9408AP,Tijmpark,20,,
-9408AP,Tijmpark,22,,
-9408AP,Tijmpark,24,,
-9408AH,Tijmstraat,1,,
-9408AH,Tijmstraat,3,,
-9408AH,Tijmstraat,5,,
-9408AH,Tijmstraat,7,,
-9408AH,Tijmstraat,9,,
-9408AH,Tijmstraat,11,,
-9408AH,Tijmstraat,13,,
-9408AH,Tijmstraat,15,,
-9408AH,Tijmstraat,17,,
-9408AH,Tijmstraat,19,,
-9408AH,Tijmstraat,21,,
-9408AH,Tijmstraat,23,,
-9408AH,Tijmstraat,25,,
-9408AH,Tijmstraat,27,,
-9408AH,Tijmstraat,29,,
-9408AH,Tijmstraat,31,,
-9408AH,Tijmstraat,33,,
-9408AH,Tijmstraat,35,,
-9408AH,Tijmstraat,37,,
-9408AH,Tijmstraat,39,,
-9408AH,Tijmstraat,41,,
-9408AH,Tijmstraat,43,,
-9408AH,Tijmstraat,45,,
-9408AH,Tijmstraat,47,,
-9408AH,Tijmstraat,49,,
-9408AH,Tijmstraat,51,,
-9408AH,Tijmstraat,53,,
-9408AH,Tijmstraat,55,,
-9408AH,Tijmstraat,57,,
-9408AH,Tijmstraat,59,,
-9408AH,Tijmstraat,61,,
-9408AH,Tijmstraat,63,,
-9408AH,Tijmstraat,65,,
-9408AH,Tijmstraat,67,,
-9408AH,Tijmstraat,69,,
-9408AH,Tijmstraat,71,,
-9408AH,Tijmstraat,73,,
-9408AH,Tijmstraat,75,,
-9408AH,Tijmstraat,77,,
-9408AH,Tijmstraat,79,,
-9408AH,Tijmstraat,81,,
-9408AH,Tijmstraat,83,,
-9408AH,Tijmstraat,85,,
-9408AH,Tijmstraat,87,,
-9408AH,Tijmstraat,89,,
-9408AH,Tijmstraat,91,,
-9408AH,Tijmstraat,93,,
-9408AH,Tijmstraat,95,,
-9408AH,Tijmstraat,97,,
-9408AX,Tijmstraat,26,,
-9408AX,Tijmstraat,28,,
-9408AX,Tijmstraat,30,,
-9408AX,Tijmstraat,32,,
-9408AX,Tijmstraat,34,,
-9408AX,Tijmstraat,36,,
-9408AX,Tijmstraat,38,,
-9408AX,Tijmstraat,40,,
-9408AX,Tijmstraat,42,,
-9408AX,Tijmstraat,50,,
-9408AX,Tijmstraat,52,,
-9408AX,Tijmstraat,54,,
-9408AX,Tijmstraat,56,,
-9408AM,Aletta Jacobsweg,2,,
-9408AM,Aletta Jacobsweg,2,A,
-9408AM,Aletta Jacobsweg,2,B,
-9408AM,Aletta Jacobsweg,2,C,
-9408AM,Aletta Jacobsweg,2,D,
-9408AM,Aletta Jacobsweg,2,E,
-9408AM,Aletta Jacobsweg,2,F,
-9408AM,Aletta Jacobsweg,2,G,
-9408AM,Aletta Jacobsweg,4,A,
-9408AM,Aletta Jacobsweg,4,B,
-9408AM,Aletta Jacobsweg,4,C,
-9408AM,Aletta Jacobsweg,4,D,
-9408AM,Aletta Jacobsweg,4,E,
-9408AM,Aletta Jacobsweg,4,F,
-9408AM,Aletta Jacobsweg,4,G,
-9408AM,Aletta Jacobsweg,4,H,
-9408AM,Aletta Jacobsweg,4,I,
-9408AM,Aletta Jacobsweg,80,,
-9408AM,Aletta Jacobsweg,82,,
-9408AM,Aletta Jacobsweg,84,,
-9408AM,Aletta Jacobsweg,80,,
-9408AM,Aletta Jacobsweg,4,A,
-9408AM,Aletta Jacobsweg,4,B,
-9408AM,Aletta Jacobsweg,4,C,
-9408AM,Aletta Jacobsweg,4,D,
-9408AM,Aletta Jacobsweg,4,E,
-9408AM,Aletta Jacobsweg,4,F,
-9408AM,Aletta Jacobsweg,4,G,
-9408AM,Aletta Jacobsweg,4,H,
-9408AX,Tijmstraat,48,,
-9408AX,Tijmstraat,46,,
-9408AX,Tijmstraat,44,,
-9408AX,Tijmstraat,42,A,
-9408AX,Tijmstraat,42,B,
-9408AX,Tijmstraat,42,C,
-9408AX,Tijmstraat,42,D,
-9408AX,Tijmstraat,42,E,
-9408AX,Tijmstraat,42,F,
-9408AX,Tijmstraat,42,G,
-9408AX,Tijmstraat,42,H,
-9408AX,Tijmstraat,42,I,
-9408AX,Tijmstraat,42,J,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Dilletuin,1,"","",9408AA,Assen
+Dilletuin,11,"","",9408AA,Assen
+Dilletuin,13,"","",9408AA,Assen
+Dilletuin,15,"","",9408AA,Assen
+Dilletuin,17,"","",9408AA,Assen
+Dilletuin,19,"","",9408AA,Assen
+Dilletuin,21,"","",9408AA,Assen
+Dilletuin,23,"","",9408AA,Assen
+Dilletuin,25,"","",9408AA,Assen
+Dilletuin,27,"","",9408AA,Assen
+Dilletuin,29,"","",9408AA,Assen
+Dilletuin,3,"","",9408AA,Assen
+Dilletuin,31,"","",9408AA,Assen
+Dilletuin,33,"","",9408AA,Assen
+Dilletuin,35,"","",9408AA,Assen
+Dilletuin,37,"","",9408AA,Assen
+Dilletuin,39,"","",9408AA,Assen
+Dilletuin,41,"","",9408AA,Assen
+Dilletuin,43,"","",9408AA,Assen
+Dilletuin,45,"","",9408AA,Assen
+Dilletuin,47,"","",9408AA,Assen
+Dilletuin,49,"","",9408AA,Assen
+Dilletuin,5,"","",9408AA,Assen
+Dilletuin,51,"","",9408AA,Assen
+Dilletuin,53,"","",9408AA,Assen
+Dilletuin,55,"","",9408AA,Assen
+Dilletuin,57,"","",9408AA,Assen
+Dilletuin,59,"","",9408AA,Assen
+Dilletuin,61,"","",9408AA,Assen
+Dilletuin,63,"","",9408AA,Assen
+Dilletuin,65,"","",9408AA,Assen
+Dilletuin,67,"","",9408AA,Assen
+Dilletuin,69,"","",9408AA,Assen
+Dilletuin,7,"","",9408AA,Assen
+Dilletuin,71,"","",9408AA,Assen
+Dilletuin,73,"","",9408AA,Assen
+Dilletuin,75,"","",9408AA,Assen
+Dilletuin,77,"","",9408AA,Assen
+Dilletuin,9,"","",9408AA,Assen
+Dilletuin,10,"","",9408AB,Assen
+Dilletuin,12,"","",9408AB,Assen
+Dilletuin,14,"","",9408AB,Assen
+Dilletuin,16,"","",9408AB,Assen
+Dilletuin,18,"","",9408AB,Assen
+Dilletuin,2,"","",9408AB,Assen
+Dilletuin,20,"","",9408AB,Assen
+Dilletuin,22,"","",9408AB,Assen
+Dilletuin,24,"","",9408AB,Assen
+Dilletuin,4,"","",9408AB,Assen
+Dilletuin,6,"","",9408AB,Assen
+Dilletuin,8,"","",9408AB,Assen
+Kamilletuin,1,"","",9408AC,Assen
+Kamilletuin,11,"","",9408AC,Assen
+Kamilletuin,13,"","",9408AC,Assen
+Kamilletuin,15,"","",9408AC,Assen
+Kamilletuin,17,"","",9408AC,Assen
+Kamilletuin,19,"","",9408AC,Assen
+Kamilletuin,21,"","",9408AC,Assen
+Kamilletuin,23,"","",9408AC,Assen
+Kamilletuin,25,"","",9408AC,Assen
+Kamilletuin,3,"","",9408AC,Assen
+Kamilletuin,5,"","",9408AC,Assen
+Kamilletuin,7,"","",9408AC,Assen
+Kamilletuin,9,"","",9408AC,Assen
+Kamilletuin,10,"","",9408AD,Assen
+Kamilletuin,12,"","",9408AD,Assen
+Kamilletuin,14,"","",9408AD,Assen
+Kamilletuin,16,"","",9408AD,Assen
+Kamilletuin,18,"","",9408AD,Assen
+Kamilletuin,2,"","",9408AD,Assen
+Kamilletuin,20,"","",9408AD,Assen
+Kamilletuin,22,"","",9408AD,Assen
+Kamilletuin,24,"","",9408AD,Assen
+Kamilletuin,4,"","",9408AD,Assen
+Kamilletuin,6,"","",9408AD,Assen
+Kamilletuin,8,"","",9408AD,Assen
+Rozemarijntuin,1,"","",9408AE,Assen
+Rozemarijntuin,11,"","",9408AE,Assen
+Rozemarijntuin,13,"","",9408AE,Assen
+Rozemarijntuin,15,"","",9408AE,Assen
+Rozemarijntuin,17,"","",9408AE,Assen
+Rozemarijntuin,19,"","",9408AE,Assen
+Rozemarijntuin,21,"","",9408AE,Assen
+Rozemarijntuin,23,"","",9408AE,Assen
+Rozemarijntuin,25,"","",9408AE,Assen
+Rozemarijntuin,27,"","",9408AE,Assen
+Rozemarijntuin,3,"","",9408AE,Assen
+Rozemarijntuin,5,"","",9408AE,Assen
+Rozemarijntuin,7,"","",9408AE,Assen
+Rozemarijntuin,9,"","",9408AE,Assen
+Rozemarijntuin,10,"","",9408AG,Assen
+Rozemarijntuin,12,"","",9408AG,Assen
+Rozemarijntuin,14,"","",9408AG,Assen
+Rozemarijntuin,16,"","",9408AG,Assen
+Rozemarijntuin,18,"","",9408AG,Assen
+Rozemarijntuin,2,"","",9408AG,Assen
+Rozemarijntuin,20,"","",9408AG,Assen
+Rozemarijntuin,22,"","",9408AG,Assen
+Rozemarijntuin,24,"","",9408AG,Assen
+Rozemarijntuin,26,"","",9408AG,Assen
+Rozemarijntuin,4,"","",9408AG,Assen
+Rozemarijntuin,6,"","",9408AG,Assen
+Rozemarijntuin,8,"","",9408AG,Assen
+Tijmstraat,1,"","",9408AH,Assen
+Tijmstraat,11,"","",9408AH,Assen
+Tijmstraat,13,"","",9408AH,Assen
+Tijmstraat,15,"","",9408AH,Assen
+Tijmstraat,17,"","",9408AH,Assen
+Tijmstraat,19,"","",9408AH,Assen
+Tijmstraat,21,"","",9408AH,Assen
+Tijmstraat,23,"","",9408AH,Assen
+Tijmstraat,25,"","",9408AH,Assen
+Tijmstraat,27,"","",9408AH,Assen
+Tijmstraat,29,"","",9408AH,Assen
+Tijmstraat,3,"","",9408AH,Assen
+Tijmstraat,31,"","",9408AH,Assen
+Tijmstraat,33,"","",9408AH,Assen
+Tijmstraat,35,"","",9408AH,Assen
+Tijmstraat,37,"","",9408AH,Assen
+Tijmstraat,39,"","",9408AH,Assen
+Tijmstraat,41,"","",9408AH,Assen
+Tijmstraat,43,"","",9408AH,Assen
+Tijmstraat,45,"","",9408AH,Assen
+Tijmstraat,47,"","",9408AH,Assen
+Tijmstraat,49,"","",9408AH,Assen
+Tijmstraat,5,"","",9408AH,Assen
+Tijmstraat,51,"","",9408AH,Assen
+Tijmstraat,53,"","",9408AH,Assen
+Tijmstraat,55,"","",9408AH,Assen
+Tijmstraat,57,"","",9408AH,Assen
+Tijmstraat,59,"","",9408AH,Assen
+Tijmstraat,61,"","",9408AH,Assen
+Tijmstraat,63,"","",9408AH,Assen
+Tijmstraat,65,"","",9408AH,Assen
+Tijmstraat,67,"","",9408AH,Assen
+Tijmstraat,69,"","",9408AH,Assen
+Tijmstraat,7,"","",9408AH,Assen
+Tijmstraat,71,"","",9408AH,Assen
+Tijmstraat,73,"","",9408AH,Assen
+Tijmstraat,75,"","",9408AH,Assen
+Tijmstraat,77,"","",9408AH,Assen
+Tijmstraat,79,"","",9408AH,Assen
+Tijmstraat,81,"","",9408AH,Assen
+Tijmstraat,83,"","",9408AH,Assen
+Tijmstraat,85,"","",9408AH,Assen
+Tijmstraat,87,"","",9408AH,Assen
+Tijmstraat,89,"","",9408AH,Assen
+Tijmstraat,9,"","",9408AH,Assen
+Tijmstraat,91,"","",9408AH,Assen
+Tijmstraat,93,"","",9408AH,Assen
+Tijmstraat,95,"","",9408AH,Assen
+Tijmstraat,97,"","",9408AH,Assen
+Laurierstraat,1,"","",9408AJ,Assen
+Laurierstraat,11,"","",9408AJ,Assen
+Laurierstraat,13,"","",9408AJ,Assen
+Laurierstraat,15,"","",9408AJ,Assen
+Laurierstraat,17,"","",9408AJ,Assen
+Laurierstraat,19,"","",9408AJ,Assen
+Laurierstraat,21,"","",9408AJ,Assen
+Laurierstraat,23,"","",9408AJ,Assen
+Laurierstraat,25,"","",9408AJ,Assen
+Laurierstraat,3,"","",9408AJ,Assen
+Laurierstraat,5,"","",9408AJ,Assen
+Laurierstraat,7,"","",9408AJ,Assen
+Laurierstraat,9,"","",9408AJ,Assen
+Laurierstraat,10,"","",9408AK,Assen
+Laurierstraat,12,"","",9408AK,Assen
+Laurierstraat,14,"","",9408AK,Assen
+Laurierstraat,16,"","",9408AK,Assen
+Laurierstraat,18,"","",9408AK,Assen
+Laurierstraat,2,"","",9408AK,Assen
+Laurierstraat,20,"","",9408AK,Assen
+Laurierstraat,22,"","",9408AK,Assen
+Laurierstraat,24,"","",9408AK,Assen
+Laurierstraat,26,"","",9408AK,Assen
+Laurierstraat,28,"","",9408AK,Assen
+Laurierstraat,30,"","",9408AK,Assen
+Laurierstraat,32,"","",9408AK,Assen
+Laurierstraat,34,"","",9408AK,Assen
+Laurierstraat,36,"","",9408AK,Assen
+Laurierstraat,38,"","",9408AK,Assen
+Laurierstraat,4,"","",9408AK,Assen
+Laurierstraat,40,"","",9408AK,Assen
+Laurierstraat,42,"","",9408AK,Assen
+Laurierstraat,44,"","",9408AK,Assen
+Laurierstraat,46,"","",9408AK,Assen
+Laurierstraat,48,"","",9408AK,Assen
+Laurierstraat,50,"","",9408AK,Assen
+Laurierstraat,52,"","",9408AK,Assen
+Laurierstraat,54,"","",9408AK,Assen
+Laurierstraat,56,"","",9408AK,Assen
+Laurierstraat,58,"","",9408AK,Assen
+Laurierstraat,6,"","",9408AK,Assen
+Laurierstraat,60,"","",9408AK,Assen
+Laurierstraat,62,"","",9408AK,Assen
+Laurierstraat,64,"","",9408AK,Assen
+Laurierstraat,66,"","",9408AK,Assen
+Laurierstraat,68,"","",9408AK,Assen
+Laurierstraat,70,"","",9408AK,Assen
+Laurierstraat,72,"","",9408AK,Assen
+Laurierstraat,8,"","",9408AK,Assen
+Kloostersingel,1,"","",9408AL,Assen
+Kloostersingel,11,"","",9408AL,Assen
+Kloostersingel,13,"","",9408AL,Assen
+Kloostersingel,15,"","",9408AL,Assen
+Kloostersingel,17,"","",9408AL,Assen
+Kloostersingel,19,"","",9408AL,Assen
+Kloostersingel,21,"","",9408AL,Assen
+Kloostersingel,23,"","",9408AL,Assen
+Kloostersingel,25,"","",9408AL,Assen
+Kloostersingel,27,"","",9408AL,Assen
+Kloostersingel,29,"","",9408AL,Assen
+Kloostersingel,3,"","",9408AL,Assen
+Kloostersingel,31,"","",9408AL,Assen
+Kloostersingel,33,"","",9408AL,Assen
+Kloostersingel,35,"","",9408AL,Assen
+Kloostersingel,37,"","",9408AL,Assen
+Kloostersingel,39,"","",9408AL,Assen
+Kloostersingel,41,"","",9408AL,Assen
+Kloostersingel,43,"","",9408AL,Assen
+Kloostersingel,45,"","",9408AL,Assen
+Kloostersingel,47,"","",9408AL,Assen
+Kloostersingel,5,"","",9408AL,Assen
+Kloostersingel,7,"","",9408AL,Assen
+Kloostersingel,9,"","",9408AL,Assen
+Aletta Jacobsweg,10,"","",9408AM,Assen
+Aletta Jacobsweg,12,"","",9408AM,Assen
+Aletta Jacobsweg,14,"","",9408AM,Assen
+Aletta Jacobsweg,16,"","",9408AM,Assen
+Aletta Jacobsweg,18,"","",9408AM,Assen
+Aletta Jacobsweg,2,"","",9408AM,Assen
+Aletta Jacobsweg,2,"","",9408AM,Assen
+Aletta Jacobsweg,2,"","",9408AM,Assen
+Aletta Jacobsweg,2,A,"",9408AM,Assen
+Aletta Jacobsweg,2,A,"",9408AM,Assen
+Aletta Jacobsweg,2,A,"",9408AM,Assen
+Aletta Jacobsweg,2,B,"",9408AM,Assen
+Aletta Jacobsweg,2,B,"",9408AM,Assen
+Aletta Jacobsweg,2,B,"",9408AM,Assen
+Aletta Jacobsweg,2,C,"",9408AM,Assen
+Aletta Jacobsweg,2,C,"",9408AM,Assen
+Aletta Jacobsweg,2,C,"",9408AM,Assen
+Aletta Jacobsweg,2,D,"",9408AM,Assen
+Aletta Jacobsweg,2,D,"",9408AM,Assen
+Aletta Jacobsweg,2,D,"",9408AM,Assen
+Aletta Jacobsweg,2,E,"",9408AM,Assen
+Aletta Jacobsweg,2,E,"",9408AM,Assen
+Aletta Jacobsweg,2,E,"",9408AM,Assen
+Aletta Jacobsweg,2,F,"",9408AM,Assen
+Aletta Jacobsweg,2,G,"",9408AM,Assen
+Aletta Jacobsweg,20,"","",9408AM,Assen
+Aletta Jacobsweg,22,"","",9408AM,Assen
+Aletta Jacobsweg,24,"","",9408AM,Assen
+Aletta Jacobsweg,26,"","",9408AM,Assen
+Aletta Jacobsweg,28,"","",9408AM,Assen
+Aletta Jacobsweg,30,"","",9408AM,Assen
+Aletta Jacobsweg,32,"","",9408AM,Assen
+Aletta Jacobsweg,34,"","",9408AM,Assen
+Aletta Jacobsweg,36,"","",9408AM,Assen
+Aletta Jacobsweg,38,"","",9408AM,Assen
+Aletta Jacobsweg,4,"","",9408AM,Assen
+Aletta Jacobsweg,4,"","",9408AM,Assen
+Aletta Jacobsweg,4,A,"",9408AM,Assen
+Aletta Jacobsweg,4,A,"",9408AM,Assen
+Aletta Jacobsweg,4,A,"",9408AM,Assen
+Aletta Jacobsweg,4,A,"",9408AM,Assen
+Aletta Jacobsweg,4,A,"",9408AM,Assen
+Aletta Jacobsweg,4,B,"",9408AM,Assen
+Aletta Jacobsweg,4,B,"",9408AM,Assen
+Aletta Jacobsweg,4,B,"",9408AM,Assen
+Aletta Jacobsweg,4,B,"",9408AM,Assen
+Aletta Jacobsweg,4,B,"",9408AM,Assen
+Aletta Jacobsweg,4,C,"",9408AM,Assen
+Aletta Jacobsweg,4,C,"",9408AM,Assen
+Aletta Jacobsweg,4,C,"",9408AM,Assen
+Aletta Jacobsweg,4,C,"",9408AM,Assen
+Aletta Jacobsweg,4,C,"",9408AM,Assen
+Aletta Jacobsweg,4,D,"",9408AM,Assen
+Aletta Jacobsweg,4,D,"",9408AM,Assen
+Aletta Jacobsweg,4,D,"",9408AM,Assen
+Aletta Jacobsweg,4,D,"",9408AM,Assen
+Aletta Jacobsweg,4,D,"",9408AM,Assen
+Aletta Jacobsweg,4,E,"",9408AM,Assen
+Aletta Jacobsweg,4,E,"",9408AM,Assen
+Aletta Jacobsweg,4,E,"",9408AM,Assen
+Aletta Jacobsweg,4,E,"",9408AM,Assen
+Aletta Jacobsweg,4,E,"",9408AM,Assen
+Aletta Jacobsweg,4,F,"",9408AM,Assen
+Aletta Jacobsweg,4,F,"",9408AM,Assen
+Aletta Jacobsweg,4,F,"",9408AM,Assen
+Aletta Jacobsweg,4,G,"",9408AM,Assen
+Aletta Jacobsweg,4,G,"",9408AM,Assen
+Aletta Jacobsweg,4,G,"",9408AM,Assen
+Aletta Jacobsweg,4,H,"",9408AM,Assen
+Aletta Jacobsweg,4,H,"",9408AM,Assen
+Aletta Jacobsweg,4,H,"",9408AM,Assen
+Aletta Jacobsweg,4,I,"",9408AM,Assen
+Aletta Jacobsweg,4,I,"",9408AM,Assen
+Aletta Jacobsweg,40,"","",9408AM,Assen
+Aletta Jacobsweg,42,"","",9408AM,Assen
+Aletta Jacobsweg,44,"","",9408AM,Assen
+Aletta Jacobsweg,46,"","",9408AM,Assen
+Aletta Jacobsweg,48,"","",9408AM,Assen
+Aletta Jacobsweg,50,"","",9408AM,Assen
+Aletta Jacobsweg,52,"","",9408AM,Assen
+Aletta Jacobsweg,54,"","",9408AM,Assen
+Aletta Jacobsweg,56,"","",9408AM,Assen
+Aletta Jacobsweg,58,"","",9408AM,Assen
+Aletta Jacobsweg,6,"","",9408AM,Assen
+Aletta Jacobsweg,60,"","",9408AM,Assen
+Aletta Jacobsweg,62,"","",9408AM,Assen
+Aletta Jacobsweg,64,"","",9408AM,Assen
+Aletta Jacobsweg,66,"","",9408AM,Assen
+Aletta Jacobsweg,68,"","",9408AM,Assen
+Aletta Jacobsweg,70,"","",9408AM,Assen
+Aletta Jacobsweg,72,"","",9408AM,Assen
+Aletta Jacobsweg,74,"","",9408AM,Assen
+Aletta Jacobsweg,76,"","",9408AM,Assen
+Aletta Jacobsweg,78,"","",9408AM,Assen
+Aletta Jacobsweg,8,"","",9408AM,Assen
+Aletta Jacobsweg,80,"","",9408AM,Assen
+Aletta Jacobsweg,80,"","",9408AM,Assen
+Aletta Jacobsweg,80,"","",9408AM,Assen
+Aletta Jacobsweg,80,"","",9408AM,Assen
+Aletta Jacobsweg,80,"","",9408AM,Assen
+Aletta Jacobsweg,82,"","",9408AM,Assen
+Aletta Jacobsweg,82,"","",9408AM,Assen
+Aletta Jacobsweg,82,"","",9408AM,Assen
+Aletta Jacobsweg,84,"","",9408AM,Assen
+Aletta Jacobsweg,84,"","",9408AM,Assen
+Aletta Jacobsweg,84,"","",9408AM,Assen
+Aletta Jacobsweg,84,"","",9408AM,Assen
+Laurierpark,100,"","",9408AN,Assen
+Laurierpark,102,"","",9408AN,Assen
+Laurierpark,104,"","",9408AN,Assen
+Laurierpark,106,"","",9408AN,Assen
+Laurierpark,108,"","",9408AN,Assen
+Laurierpark,110,"","",9408AN,Assen
+Laurierpark,112,"","",9408AN,Assen
+Laurierpark,114,"","",9408AN,Assen
+Laurierpark,116,"","",9408AN,Assen
+Laurierpark,118,"","",9408AN,Assen
+Laurierpark,120,"","",9408AN,Assen
+Laurierpark,122,"","",9408AN,Assen
+Laurierpark,124,"","",9408AN,Assen
+Laurierpark,126,"","",9408AN,Assen
+Laurierpark,128,"","",9408AN,Assen
+Laurierpark,130,"","",9408AN,Assen
+Laurierpark,132,"","",9408AN,Assen
+Laurierpark,134,"","",9408AN,Assen
+Laurierpark,136,"","",9408AN,Assen
+Laurierpark,138,"","",9408AN,Assen
+Laurierpark,140,"","",9408AN,Assen
+Laurierpark,142,"","",9408AN,Assen
+Laurierpark,144,"","",9408AN,Assen
+Laurierpark,74,"","",9408AN,Assen
+Laurierpark,76,"","",9408AN,Assen
+Laurierpark,78,"","",9408AN,Assen
+Laurierpark,80,"","",9408AN,Assen
+Laurierpark,82,"","",9408AN,Assen
+Laurierpark,84,"","",9408AN,Assen
+Laurierpark,86,"","",9408AN,Assen
+Laurierpark,88,"","",9408AN,Assen
+Laurierpark,90,"","",9408AN,Assen
+Laurierpark,92,"","",9408AN,Assen
+Laurierpark,94,"","",9408AN,Assen
+Laurierpark,96,"","",9408AN,Assen
+Laurierpark,98,"","",9408AN,Assen
+Tijmpark,10,"","",9408AP,Assen
+Tijmpark,12,"","",9408AP,Assen
+Tijmpark,14,"","",9408AP,Assen
+Tijmpark,16,"","",9408AP,Assen
+Tijmpark,18,"","",9408AP,Assen
+Tijmpark,2,"","",9408AP,Assen
+Tijmpark,20,"","",9408AP,Assen
+Tijmpark,22,"","",9408AP,Assen
+Tijmpark,24,"","",9408AP,Assen
+Tijmpark,4,"","",9408AP,Assen
+Tijmpark,6,"","",9408AP,Assen
+Tijmpark,8,"","",9408AP,Assen
+Tijmstraat,26,"","",9408AX,Assen
+Tijmstraat,28,"","",9408AX,Assen
+Tijmstraat,30,"","",9408AX,Assen
+Tijmstraat,32,"","",9408AX,Assen
+Tijmstraat,34,"","",9408AX,Assen
+Tijmstraat,36,"","",9408AX,Assen
+Tijmstraat,38,"","",9408AX,Assen
+Tijmstraat,40,"","",9408AX,Assen
+Tijmstraat,42,"","",9408AX,Assen
+Tijmstraat,42,"","",9408AX,Assen
+Tijmstraat,42,A,"",9408AX,Assen
+Tijmstraat,42,B,"",9408AX,Assen
+Tijmstraat,42,C,"",9408AX,Assen
+Tijmstraat,42,D,"",9408AX,Assen
+Tijmstraat,42,E,"",9408AX,Assen
+Tijmstraat,42,F,"",9408AX,Assen
+Tijmstraat,42,G,"",9408AX,Assen
+Tijmstraat,42,H,"",9408AX,Assen
+Tijmstraat,42,I,"",9408AX,Assen
+Tijmstraat,42,J,"",9408AX,Assen
+Tijmstraat,44,"","",9408AX,Assen
+Tijmstraat,44,"","",9408AX,Assen
+Tijmstraat,46,"","",9408AX,Assen
+Tijmstraat,46,"","",9408AX,Assen
+Tijmstraat,48,"","",9408AX,Assen
+Tijmstraat,48,"","",9408AX,Assen
+Tijmstraat,50,"","",9408AX,Assen
+Tijmstraat,52,"","",9408AX,Assen
+Tijmstraat,54,"","",9408AX,Assen
+Tijmstraat,56,"","",9408AX,Assen

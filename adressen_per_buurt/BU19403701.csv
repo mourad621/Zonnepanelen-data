@@ -1,542 +1,267 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8463ND",12,"",""
-"8463ND",5,"",""
-"8463ND",11,"",""
-"8463ND",2,"",""
-"8463ND",7,"",""
-"8463ND",10,"",""
-"8463ND",3,"",""
-"8463ND",8,"",""
-"8463ND",16,"",""
-"8463ND",20,"",""
-"8463ND",6,"",""
-"8463ND",2,"a",""
-"8463ND",1,"",""
-"8463ND",18,"",""
-"8463ND",15,"",""
-"8463ND",4,"",""
-"8463ND",19,"",""
-"8463ND",21,"",""
-"8463ND",9,"",""
-"8463ND",22,"",""
-"8463ND",13,"",""
-"8463ND",14,"",""
-"8463ND",17,"",""
-"8463NE",130,"",""
-"8463NE",134,"a",""
-"8463NE",136,"",""
-"8463NE",140,"a",""
-"8463NE",134,"",""
-"8463NE",127,"",""
-"8463NE",128,"",""
-"8463NE",138,"",""
-"8463NE",132,"",""
-"8463NE",134,"a",""
-"8463NE",117,"a",""
-"8463NE",13,"",""
-"8463NE",140,"",""
-"8463NE",138,"a",""
-"8463NE",129,"",""
-"8463NE",142,"",""
-"8463NE",146,"",""
-"8463NE",119,"",""
-"8463NE",115,"",""
-"8463NE",126,"",""
-"8463NE",125,"",""
-"8463NE",123,"",""
-"8463NE",13,"",""
-"8463NE",117,"",""
-"8463NE",121,"",""
-"8463NG",162,"",""
-"8463NG",141,"",""
-"8463NG",131,"",""
-"8463NG",152,"",""
-"8463NG",133,"",""
-"8463NG",139,"a",""
-"8463NG",164,"",""
-"8463NG",154,"",""
-"8463NG",135,"",""
-"8463NG",139,"",""
-"8463NG",137,"",""
-"8463NG",160,"",""
-"8463NG",143,"",""
-"8463NG",158,"",""
-"8463NG",168,"",""
-"8463NG",156,"",""
-"8463NG",148,"",""
-"8463NH",190,"",""
-"8463NH",151,"",""
-"8463NH",184,"",""
-"8463NH",178,"a",""
-"8463NH",182,"",""
-"8463NH",172,"",""
-"8463NH",180,"",""
-"8463NH",147,"",""
-"8463NH",176,"",""
-"8463NH",186,"",""
-"8463NH",188,"",""
-"8463NH",178,"",""
-"8463NH",170,"",""
-"8463NH",149,"",""
-"8463NH",174,"",""
-"8463NJ",153,"",""
-"8463NJ",198,"",""
-"8463NJ",159,"",""
-"8463NJ",155,"",""
-"8463NJ",157,"",""
-"8463NJ",200,"",""
-"8463NJ",192,"",""
-"8463NJ",194,"",""
-"8463NJ",161,"",""
-"8463NJ",157,"",""
-"8463NJ",206,"",""
-"8463NJ",196,"",""
-"8463NJ",15,"",""
-"8463NJ",204,"",""
-"8463NJ",202,"",""
-"8463NJ",208,"",""
-"8463NJ",200,"a",""
-"8463NK",11,"",""
-"8463NK",15,"",""
-"8463NK",9,"",""
-"8463NL",17,"",""
-"8463NM",154,"",""
-"8463NM",162,"",""
-"8463NM",134,"",""
-"8463NM",160,"",""
-"8463NM",146,"",""
-"8463NM",156,"",""
-"8463NM",140,"",""
-"8463NM",142,"",""
-"8463NM",158,"",""
-"8463NM",144,"",""
-"8463NM",152,"",""
-"8463NM",150,"",""
-"8463NM",136,"",""
-"8463NM",164,"",""
-"8463NM",148,"",""
-"8463NN",190,"",""
-"8463NN",180,"",""
-"8463NN",172,"",""
-"8463NN",184,"",""
-"8463NN",188,"",""
-"8463NN",178,"",""
-"8463NN",180,"a",""
-"8463NN",170,"",""
-"8463NN",186,"",""
-"8463NN",166,"a",""
-"8463NN",176,"",""
-"8463NN",168,"",""
-"8463NN",166,"",""
-"8463NN",174,"",""
-"8463NN",176,"a",""
-"8463NP",1,"",""
-"8463TG",4,"",""
-"8463TG",6,"",""
-"8463TG",3,"",""
-"8463TG",5,"",""
-"8463TG",1,"",""
-"8463TG",2,"",""
-"8463TH",4,"",""
-"8463TH",3,"",""
-"8463TH",2,"",""
-"8463TH",6,"",""
-"8463TH",5,"",""
-"8463TH",1,"",""
-"8463TH",7,"",""
-"8463TJ",6,"",""
-"8463TJ",7,"a",""
-"8463TJ",5,"",""
-"8463TJ",2,"",""
-"8463TJ",9,"",""
-"8463TJ",11,"",""
-"8463TJ",13,"",""
-"8463TJ",10,"",""
-"8463TJ",1,"",""
-"8463TJ",7,"",""
-"8463TJ",12,"",""
-"8463TJ",8,"",""
-"8463TJ",3,"",""
-"8463TJ",12,"",""
-"8463TK",4,"",""
-"8463TK",1,"",""
-"8463TK",5,"",""
-"8463TL",2,"",""
-"8463TL",3,"",""
-"8463TL",1,"a",""
-"8463TL",1,"",""
-"8463TM",2,"",""
-"8463TM",3,"",""
-"8463TM",1,"",""
-"8463TN",1,"a",""
-"8463TN",1,"",""
-"8463TN",3,"",""
-"8463TN",1,"a",""
-"8463VA",5,"",""
-"8463VA",3,"",""
-"8463VA",4,"",""
-"8463VA",1,"",""
-"8463VA",8,"",""
-"8463VA",6,"",""
-"8463VA",9,"",""
-"8463VA",7,"",""
-"8463VB",2,"",""
-"8463VB",5,"",""
-"8463VB",4,"",""
-"8463VB",4,"",""
-"8463VB",1,"",""
-"8463VB",3,"",""
-"8463VC",5,"",""
-"8463VC",3,"",""
-"8463VC",15,"",""
-"8463VC",2,"",""
-"8463VC",11,"",""
-"8463VC",8,"",""
-"8463VC",10,"",""
-"8463VC",17,"",""
-"8463VC",12,"",""
-"8463VC",6,"",""
-"8463VC",1,"",""
-"8463VC",9,"a",""
-"8463VC",13,"",""
-"8463VC",7,"",""
-"8463VC",4,"",""
-"8463VC",19,"",""
-"8463VC",9,"",""
-"8463VD",1,"",""
-"8463VD",13,"",""
-"8463VD",2,"a",""
-"8463VD",2,"a",""
-"8463VD",12,"",""
-"8463VD",9,"a",""
-"8463VD",8,"",""
-"8463VD",4,"",""
-"8463VD",5,"",""
-"8463VD",9,"",""
-"8463VD",2,"a",""
-"8463VD",2,"b",""
-"8463VD",3,"",""
-"8463VD",7,"",""
-"8463VD",2,"",""
-"8463VD",11,"",""
-"8463VE",3,"",""
-"8463VE",13,"",""
-"8463VE",9,"",""
-"8463VE",7,"",""
-"8463VE",11,"",""
-"8463VE",1,"",""
-"8463VE",5,"",""
-"8463VG",24,"",""
-"8463VG",22,"",""
-"8463VG",12,"",""
-"8463VG",18,"",""
-"8463VG",10,"",""
-"8463VG",46,"",""
-"8463VG",20,"",""
-"8463VG",48,"",""
-"8463VG",8,"",""
-"8463VG",47,"",""
-"8463VG",4,"",""
-"8463VG",6,"",""
-"8463VG",2,"",""
-"8463VH",49,"",""
-"8463VH",54,"",""
-"8463VH",52,"",""
-"8463VH",57,"",""
-"8463VH",58,"",""
-"8463VH",50,"",""
-"8463VH",61,"",""
-"8463VH",56,"",""
-"8463VH",59,"",""
-"8463VH",51,"",""
-"8463VH",55,"",""
-"8463VH",53,"",""
-"8463VJ",11,"",""
-"8463VJ",15,"",""
-"8463VJ",12,"",""
-"8463VJ",1,"",""
-"8463VJ",13,"",""
-"8463VJ",6,"a",""
-"8463VJ",8,"",""
-"8463VJ",7,"",""
-"8463VJ",10,"",""
-"8463VJ",9,"",""
-"8463VJ",5,"",""
-"8463VJ",3,"",""
-"8463VJ",7,"a",""
-"8463VJ",6,"",""
-8463VB,Bospad,3,,
-8463VB,Bospad,4,,
-8463VB,Bospad,4,,
-8463VB,Bospad,5,,
-8463VB,Bospad,2,,
-8463TK,Gaasterweg,4,,
-8463TK,Gaasterweg,5,,
-8463TM,Hijlke Bangmaweg,1,,
-8463TM,Hijlke Bangmaweg,2,,
-8463TM,Hijlke Bangmaweg,3,,
-8463VC,Kadijk,3,,
-8463VC,Kadijk,8,,
-8463VC,Kadijk,12,,
-8463VC,Kadijk,1,,
-8463VC,Kadijk,2,,
-8463VC,Kadijk,4,,
-8463VC,Kadijk,5,,
-8463VC,Kadijk,6,,
-8463VC,Kadijk,7,,
-8463VC,Kadijk,9,,
-8463VC,Kadijk,9,a,
-8463VC,Kadijk,10,,
-8463VC,Kadijk,11,,
-8463VC,Kadijk,13,,
-8463VC,Kadijk,15,,
-8463VC,Kadijk,17,,
-8463VC,Kadijk,19,,
-8463VD,Kampweg,2,,
-8463VD,Kampweg,5,,
-8463VD,Kampweg,12,,
-8463VD,Kampweg,1,,
-8463VD,Kampweg,2,a,
-8463VD,Kampweg,2,b,
-8463VD,Kampweg,2,a,
-8463VD,Kampweg,3,,
-8463VD,Kampweg,4,,
-8463VD,Kampweg,8,,
-8463VD,Kampweg,9,,
-8463VD,Kampweg,9,a,
-8463VD,Kampweg,13,,
-8463TN,Liemdyk,1,,
-8463TN,Liemdyk,1,a,
-8463TN,Liemdyk,3,,
-8463VE,Nieuwe Weg,7,,
-8463VE,Nieuwe Weg,11,,
-8463VG,Nieuwe Weg,8,,
-8463VG,Nieuwe Weg,10,,
-8463VG,Nieuwe Weg,12,,
-8463VG,Nieuwe Weg,18,,
-8463VG,Nieuwe Weg,20,,
-8463VG,Nieuwe Weg,22,,
-8463VG,Nieuwe Weg,24,,
-8463VG,Nieuwe Weg,46,,
-8463VG,Nieuwe Weg,47,,
-8463VG,Nieuwe Weg,48,,
-8463VH,Nieuwe Weg,49,,
-8463VH,Nieuwe Weg,54,,
-8463VH,Nieuwe Weg,50,,
-8463VH,Nieuwe Weg,51,,
-8463VH,Nieuwe Weg,52,,
-8463VH,Nieuwe Weg,53,,
-8463VH,Nieuwe Weg,55,,
-8463VH,Nieuwe Weg,56,,
-8463VH,Nieuwe Weg,57,,
-8463VH,Nieuwe Weg,58,,
-8463VH,Nieuwe Weg,59,,
-8463TJ,Pôlle,1,,
-8463TJ,Pôlle,7,,
-8463TJ,Pôlle,11,,
-8463TJ,Pôlle,2,,
-8463TJ,Pôlle,3,,
-8463TJ,Pôlle,5,,
-8463TJ,Pôlle,6,,
-8463TJ,Pôlle,7,a,
-8463TJ,Pôlle,8,,
-8463TJ,Pôlle,9,,
-8463TJ,Pôlle,10,,
-8463TJ,Pôlle,12,,
-8463TJ,Pôlle,12,,
-8463TJ,Pôlle,13,,
-8463TL,Richard Jungweg,1,,
-8463TL,Richard Jungweg,1,a,
-8463TL,Richard Jungweg,2,,
-8463NE,Streek,140,a,
-8463NE,Streek,142,,
-8463NE,Streek,146,,
-8463NG,Streek,158,,
-8463NG,Streek,160,,
-8463NG,Streek,162,,
-8463NG,Streek,168,,
-8463NG,Streek,141,,
-8463NG,Streek,148,,
-8463NG,Streek,152,,
-8463NG,Streek,154,,
-8463NG,Streek,156,,
-8463NH,Streek,170,,
-8463NH,Streek,172,,
-8463NH,Streek,174,,
-8463NH,Streek,176,,
-8463NH,Streek,178,,
-8463NH,Streek,180,,
-8463NH,Streek,182,,
-8463NH,Streek,184,,
-8463NH,Streek,186,,
-8463NH,Streek,190,,
-8463NH,Streek,188,,
-8463NH,Streek,147,,
-8463NH,Streek,151,,
-8463NJ,Streek,157,,
-8463NJ,Streek,159,,
-8463NJ,Streek,161,,
-8463NJ,Streek,192,,
-8463NJ,Streek,194,,
-8463NJ,Streek,196,,
-8463NJ,Streek,198,,
-8463NJ,Streek,200,a,
-8463NJ,Streek,202,,
-8463NJ,Streek,206,,
-8463NJ,Streek,200,,
-8463NJ,Streek,208,,
-8463VA,Wolvedyk,1,,
-8463VA,Wolvedyk,3,,
-8463VA,Wolvedyk,5,,
-8463VA,Wolvedyk,6,,
-8463VA,Wolvedyk,7,,
-8463VA,Wolvedyk,9,,
-8463VJ,Prinses Marijkeweg,11,,
-8463VJ,Prinses Marijkeweg,12,,
-8463VJ,Prinses Marijkeweg,13,,
-8463VJ,Prinses Marijkeweg,9,,
-8463VJ,Prinses Marijkeweg,1,,
-8463VJ,Prinses Marijkeweg,3,,
-8463VJ,Prinses Marijkeweg,5,,
-8463VJ,Prinses Marijkeweg,6,a,
-8463VJ,Prinses Marijkeweg,7,,
-8463VJ,Prinses Marijkeweg,7,a,
-8463VJ,Prinses Marijkeweg,8,,
-8463VJ,Prinses Marijkeweg,10,,
-8463ND,Yn 'e Doarpsfinne,1,,
-8463ND,Yn 'e Doarpsfinne,2,,
-8463ND,Yn 'e Doarpsfinne,5,,
-8463ND,Yn 'e Doarpsfinne,6,,
-8463ND,Yn 'e Doarpsfinne,8,,
-8463ND,Yn 'e Doarpsfinne,9,,
-8463ND,Yn 'e Doarpsfinne,10,,
-8463ND,Yn 'e Doarpsfinne,12,,
-8463ND,Yn 'e Doarpsfinne,13,,
-8463ND,Yn 'e Doarpsfinne,14,,
-8463ND,Yn 'e Doarpsfinne,16,,
-8463ND,Yn 'e Doarpsfinne,17,,
-8463ND,Yn 'e Doarpsfinne,18,,
-8463ND,Yn 'e Doarpsfinne,20,,
-8463ND,Yn 'e Doarpsfinne,21,,
-8463ND,Yn 'e Doarpsfinne,22,,
-8463ND,Yn 'e Doarpsfinne,2,a,
-8463NN,Hoge Dijk,184,,
-8463NN,Hoge Dijk,186,,
-8463NN,Hoge Dijk,188,,
-8463NN,Hoge Dijk,190,,
-8463TH,Boerestreek,1,,
-8463TH,Boerestreek,5,,
-8463TH,Boerestreek,6,,
-8463TH,Boerestreek,7,,
-8463TH,Boerestreek,4,,
-8463TG,Kerkweg,1,,
-8463TG,Kerkweg,3,,
-8463TG,Kerkweg,4,,
-8463TG,Kerkweg,5,,
-8463VB,Bospad,1,,
-8463TK,Gaasterweg,1,,
-8463VD,Kampweg,7,,
-8463VD,Kampweg,11,,
-8463NP,Lange Dijk,1,,
-8463VE,Nieuwe Weg,1,,
-8463VE,Nieuwe Weg,3,,
-8463VE,Nieuwe Weg,5,,
-8463VE,Nieuwe Weg,9,,
-8463VE,Nieuwe Weg,13,,
-8463VG,Nieuwe Weg,2,,
-8463VG,Nieuwe Weg,4,,
-8463VG,Nieuwe Weg,6,,
-8463VH,Nieuwe Weg,61,,
-8463TL,Richard Jungweg,3,,
-8463NE,Streek,13,,
-8463NE,Streek,115,,
-8463NE,Streek,117,,
-8463NE,Streek,119,,
-8463NE,Streek,121,,
-8463NE,Streek,123,,
-8463NE,Streek,126,,
-8463NE,Streek,127,,
-8463NE,Streek,128,,
-8463NE,Streek,130,,
-8463NE,Streek,132,,
-8463NE,Streek,134,,
-8463NE,Streek,136,,
-8463NE,Streek,138,a,
-8463NE,Streek,117,a,
-8463NE,Streek,125,,
-8463NE,Streek,129,,
-8463NE,Streek,138,,
-8463NE,Streek,140,,
-8463NE,Streek,134,a,
-8463NG,Streek,131,,
-8463NG,Streek,135,,
-8463NG,Streek,137,,
-8463NG,Streek,139,,
-8463NG,Streek,139,a,
-8463NG,Streek,143,,
-8463NG,Streek,133,,
-8463NG,Streek,164,,
-8463NH,Streek,178,a,
-8463NH,Streek,149,,
-8463NJ,Streek,15,,
-8463NJ,Streek,153,,
-8463NJ,Streek,204,,
-8463NJ,Streek,155,,
-8463VA,Wolvedyk,4,,
-8463VA,Wolvedyk,8,,
-8463VJ,Prinses Marijkeweg,15,,
-8463VJ,Prinses Marijkeweg,6,,
-8463ND,Yn 'e Doarpsfinne,4,,
-8463ND,Yn 'e Doarpsfinne,3,,
-8463ND,Yn 'e Doarpsfinne,7,,
-8463ND,Yn 'e Doarpsfinne,11,,
-8463ND,Yn 'e Doarpsfinne,15,,
-8463ND,Yn 'e Doarpsfinne,19,,
-8463NK,Hoge Dijk,9,,
-8463NK,Hoge Dijk,11,,
-8463NK,Hoge Dijk,15,,
-8463NL,Hoge Dijk,17,,
-8463NM,Hoge Dijk,134,,
-8463NM,Hoge Dijk,136,,
-8463NM,Hoge Dijk,140,,
-8463NM,Hoge Dijk,142,,
-8463NM,Hoge Dijk,144,,
-8463NM,Hoge Dijk,146,,
-8463NM,Hoge Dijk,148,,
-8463NM,Hoge Dijk,150,,
-8463NM,Hoge Dijk,152,,
-8463NM,Hoge Dijk,154,,
-8463NM,Hoge Dijk,156,,
-8463NM,Hoge Dijk,158,,
-8463NM,Hoge Dijk,160,,
-8463NM,Hoge Dijk,162,,
-8463NM,Hoge Dijk,164,,
-8463NN,Hoge Dijk,166,,
-8463NN,Hoge Dijk,166,a,
-8463NN,Hoge Dijk,168,,
-8463NN,Hoge Dijk,170,,
-8463NN,Hoge Dijk,172,,
-8463NN,Hoge Dijk,174,,
-8463NN,Hoge Dijk,176,,
-8463NN,Hoge Dijk,176,a,
-8463NN,Hoge Dijk,178,,
-8463NN,Hoge Dijk,180,,
-8463NN,Hoge Dijk,180,a,
-8463TH,Boerestreek,2,,
-8463TH,Boerestreek,3,,
-8463TG,Kerkweg,2,,
-8463TG,Kerkweg,6,,
-8463VD,Kampweg,2,b,
-8463VE,Nieuwe Weg,1,a,
-8463TK,Gaasterweg,5,M,
-8463VC,Kadijk,6,,
-8463VC,Kadijk,9,B,
-8463VD,Kampweg,3,A,
-8463TJ,Pôlle,12,,BY
-8463TL,Richard Jungweg,1,B,
-8463NJ,Streek,157,,
-8463NJ,Streek,155,,
-8463NK,Hoge Dijk,9,A,
-8463NK,Hoge Dijk,9,A,BY
-8463NK,Hoge Dijk,9,A,
-8463NM,Hoge Dijk,142,M,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Yn 'e Doarpsfinne,1,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,10,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,11,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,12,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,13,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,14,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,15,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,16,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,17,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,18,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,19,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,2,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,2,A,"",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,20,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,21,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,22,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,3,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,4,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,5,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,6,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,7,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,8,"","",8463ND,Rotsterhaule
+Yn 'e Doarpsfinne,9,"","",8463ND,Rotsterhaule
+Streek,115,"","",8463NE,Rotsterhaule
+Streek,117,"","",8463NE,Rotsterhaule
+Streek,117,A,"",8463NE,Rotsterhaule
+Streek,119,"","",8463NE,Rotsterhaule
+Streek,121,"","",8463NE,Rotsterhaule
+Streek,123,"","",8463NE,Rotsterhaule
+Streek,125,"","",8463NE,Rotsterhaule
+Streek,126,"","",8463NE,Rotsterhaule
+Streek,127,"","",8463NE,Rotsterhaule
+Streek,128,"","",8463NE,Rotsterhaule
+Streek,129,"","",8463NE,Rotsterhaule
+Streek,13,"","",8463NE,Rotsterhaule
+Streek,13,"","",8463NE,Rotsterhaule
+Streek,130,"","",8463NE,Rotsterhaule
+Streek,132,"","",8463NE,Rotsterhaule
+Streek,134,"","",8463NE,Rotsterhaule
+Streek,134,A,"",8463NE,Rotsterhaule
+Streek,134,A,"",8463NE,Rotsterhaule
+Streek,136,"","",8463NE,Rotsterhaule
+Streek,138,"","",8463NE,Rotsterhaule
+Streek,138,A,"",8463NE,Rotsterhaule
+Streek,140,"","",8463NE,Rotsterhaule
+Streek,140,A,"",8463NE,Rotsterhaule
+Streek,142,"","",8463NE,Rotsterhaule
+Streek,146,"","",8463NE,Rotsterhaule
+Streek,131,"","",8463NG,Rotsterhaule
+Streek,133,"","",8463NG,Rotsterhaule
+Streek,135,"","",8463NG,Rotsterhaule
+Streek,137,"","",8463NG,Rotsterhaule
+Streek,139,"","",8463NG,Rotsterhaule
+Streek,139,A,"",8463NG,Rotsterhaule
+Streek,141,"","",8463NG,Rotsterhaule
+Streek,143,"","",8463NG,Rotsterhaule
+Streek,148,"","",8463NG,Rotsterhaule
+Streek,152,"","",8463NG,Rotsterhaule
+Streek,154,"","",8463NG,Rotsterhaule
+Streek,156,"","",8463NG,Rotsterhaule
+Streek,158,"","",8463NG,Rotsterhaule
+Streek,160,"","",8463NG,Rotsterhaule
+Streek,162,"","",8463NG,Rotsterhaule
+Streek,164,"","",8463NG,Rotsterhaule
+Streek,168,"","",8463NG,Rotsterhaule
+Streek,147,"","",8463NH,Rotsterhaule
+Streek,149,"","",8463NH,Rotsterhaule
+Streek,151,"","",8463NH,Rotsterhaule
+Streek,170,"","",8463NH,Rotsterhaule
+Streek,172,"","",8463NH,Rotsterhaule
+Streek,174,"","",8463NH,Rotsterhaule
+Streek,176,"","",8463NH,Rotsterhaule
+Streek,178,"","",8463NH,Rotsterhaule
+Streek,178,A,"",8463NH,Rotsterhaule
+Streek,180,"","",8463NH,Rotsterhaule
+Streek,182,"","",8463NH,Rotsterhaule
+Streek,184,"","",8463NH,Rotsterhaule
+Streek,186,"","",8463NH,Rotsterhaule
+Streek,188,"","",8463NH,Rotsterhaule
+Streek,190,"","",8463NH,Rotsterhaule
+Streek,15,"","",8463NJ,Rotsterhaule
+Streek,153,"","",8463NJ,Rotsterhaule
+Streek,155,"","",8463NJ,Rotsterhaule
+Streek,157,"","",8463NJ,Rotsterhaule
+Streek,157,"","",8463NJ,Rotsterhaule
+Streek,159,"","",8463NJ,Rotsterhaule
+Streek,161,"","",8463NJ,Rotsterhaule
+Streek,192,"","",8463NJ,Rotsterhaule
+Streek,194,"","",8463NJ,Rotsterhaule
+Streek,196,"","",8463NJ,Rotsterhaule
+Streek,198,"","",8463NJ,Rotsterhaule
+Streek,200,"","",8463NJ,Rotsterhaule
+Streek,200,A,"",8463NJ,Rotsterhaule
+Streek,202,"","",8463NJ,Rotsterhaule
+Streek,204,"","",8463NJ,Rotsterhaule
+Streek,206,"","",8463NJ,Rotsterhaule
+Streek,208,"","",8463NJ,Rotsterhaule
+Hoge Dijk,11,"","",8463NK,Rotsterhaule
+Hoge Dijk,15,"","",8463NK,Rotsterhaule
+Hoge Dijk,9,"","",8463NK,Rotsterhaule
+Hoge Dijk,17,"","",8463NL,Rotsterhaule
+Hoge Dijk,134,"","",8463NM,Rotsterhaule
+Hoge Dijk,136,"","",8463NM,Rotsterhaule
+Hoge Dijk,140,"","",8463NM,Rotsterhaule
+Hoge Dijk,142,"","",8463NM,Rotsterhaule
+Hoge Dijk,144,"","",8463NM,Rotsterhaule
+Hoge Dijk,146,"","",8463NM,Rotsterhaule
+Hoge Dijk,148,"","",8463NM,Rotsterhaule
+Hoge Dijk,150,"","",8463NM,Rotsterhaule
+Hoge Dijk,152,"","",8463NM,Rotsterhaule
+Hoge Dijk,154,"","",8463NM,Rotsterhaule
+Hoge Dijk,156,"","",8463NM,Rotsterhaule
+Hoge Dijk,158,"","",8463NM,Rotsterhaule
+Hoge Dijk,160,"","",8463NM,Rotsterhaule
+Hoge Dijk,162,"","",8463NM,Rotsterhaule
+Hoge Dijk,164,"","",8463NM,Rotsterhaule
+Hoge Dijk,166,"","",8463NN,Rotsterhaule
+Hoge Dijk,166,A,"",8463NN,Rotsterhaule
+Hoge Dijk,168,"","",8463NN,Rotsterhaule
+Hoge Dijk,170,"","",8463NN,Rotsterhaule
+Hoge Dijk,172,"","",8463NN,Rotsterhaule
+Hoge Dijk,174,"","",8463NN,Rotsterhaule
+Hoge Dijk,176,"","",8463NN,Rotsterhaule
+Hoge Dijk,176,A,"",8463NN,Rotsterhaule
+Hoge Dijk,178,"","",8463NN,Rotsterhaule
+Hoge Dijk,180,"","",8463NN,Rotsterhaule
+Hoge Dijk,180,A,"",8463NN,Rotsterhaule
+Hoge Dijk,184,"","",8463NN,Rotsterhaule
+Hoge Dijk,186,"","",8463NN,Rotsterhaule
+Hoge Dijk,188,"","",8463NN,Rotsterhaule
+Hoge Dijk,190,"","",8463NN,Rotsterhaule
+Lange Dijk,1,"","",8463NP,Rotsterhaule
+Kerkweg,1,"","",8463TG,Rotsterhaule
+Kerkweg,2,"","",8463TG,Rotsterhaule
+Kerkweg,3,"","",8463TG,Rotsterhaule
+Kerkweg,4,"","",8463TG,Rotsterhaule
+Kerkweg,5,"","",8463TG,Rotsterhaule
+Kerkweg,6,"","",8463TG,Rotsterhaule
+Boerestreek,1,"","",8463TH,Rotsterhaule
+Boerestreek,2,"","",8463TH,Rotsterhaule
+Boerestreek,3,"","",8463TH,Rotsterhaule
+Boerestreek,4,"","",8463TH,Rotsterhaule
+Boerestreek,5,"","",8463TH,Rotsterhaule
+Boerestreek,6,"","",8463TH,Rotsterhaule
+Boerestreek,7,"","",8463TH,Rotsterhaule
+Pôlle,1,"","",8463TJ,Rotsterhaule
+Pôlle,10,"","",8463TJ,Rotsterhaule
+Pôlle,11,"","",8463TJ,Rotsterhaule
+Pôlle,12,"","",8463TJ,Rotsterhaule
+Pôlle,12,"","",8463TJ,Rotsterhaule
+Pôlle,13,"","",8463TJ,Rotsterhaule
+Pôlle,2,"","",8463TJ,Rotsterhaule
+Pôlle,3,"","",8463TJ,Rotsterhaule
+Pôlle,5,"","",8463TJ,Rotsterhaule
+Pôlle,6,"","",8463TJ,Rotsterhaule
+Pôlle,7,"","",8463TJ,Rotsterhaule
+Pôlle,7,A,"",8463TJ,Rotsterhaule
+Pôlle,8,"","",8463TJ,Rotsterhaule
+Pôlle,9,"","",8463TJ,Rotsterhaule
+Gaasterweg,1,"","",8463TK,Rotsterhaule
+Gaasterweg,4,"","",8463TK,Rotsterhaule
+Gaasterweg,5,"","",8463TK,Rotsterhaule
+Richard Jungweg,1,"","",8463TL,Rotsterhaule
+Richard Jungweg,1,A,"",8463TL,Rotsterhaule
+Richard Jungweg,2,"","",8463TL,Rotsterhaule
+Richard Jungweg,3,"","",8463TL,Rotsterhaule
+Hijlke Bangmaweg,1,"","",8463TM,Rotsterhaule
+Hijlke Bangmaweg,2,"","",8463TM,Rotsterhaule
+Hijlke Bangmaweg,3,"","",8463TM,Rotsterhaule
+Liemdyk,1,"","",8463TN,Rotsterhaule
+Liemdyk,1,A,"",8463TN,Rotsterhaule
+Liemdyk,1,A,"",8463TN,Rotsterhaule
+Liemdyk,3,"","",8463TN,Rotsterhaule
+Wolvedyk,1,"","",8463VA,Rotsterhaule
+Wolvedyk,3,"","",8463VA,Rotsterhaule
+Wolvedyk,4,"","",8463VA,Rotsterhaule
+Wolvedyk,5,"","",8463VA,Rotsterhaule
+Wolvedyk,6,"","",8463VA,Rotsterhaule
+Wolvedyk,7,"","",8463VA,Rotsterhaule
+Wolvedyk,8,"","",8463VA,Rotsterhaule
+Wolvedyk,9,"","",8463VA,Rotsterhaule
+Bospad,1,"","",8463VB,Rotsterhaule
+Bospad,2,"","",8463VB,Rotsterhaule
+Bospad,3,"","",8463VB,Rotsterhaule
+Bospad,4,"","",8463VB,Rotsterhaule
+Bospad,4,"","",8463VB,Rotsterhaule
+Bospad,5,"","",8463VB,Rotsterhaule
+Kadijk,1,"","",8463VC,Rotsterhaule
+Kadijk,10,"","",8463VC,Rotsterhaule
+Kadijk,11,"","",8463VC,Rotsterhaule
+Kadijk,12,"","",8463VC,Rotsterhaule
+Kadijk,13,"","",8463VC,Rotsterhaule
+Kadijk,15,"","",8463VC,Rotsterhaule
+Kadijk,17,"","",8463VC,Rotsterhaule
+Kadijk,19,"","",8463VC,Rotsterhaule
+Kadijk,2,"","",8463VC,Rotsterhaule
+Kadijk,3,"","",8463VC,Rotsterhaule
+Kadijk,4,"","",8463VC,Rotsterhaule
+Kadijk,5,"","",8463VC,Rotsterhaule
+Kadijk,6,"","",8463VC,Rotsterhaule
+Kadijk,7,"","",8463VC,Rotsterhaule
+Kadijk,8,"","",8463VC,Rotsterhaule
+Kadijk,9,"","",8463VC,Rotsterhaule
+Kadijk,9,A,"",8463VC,Rotsterhaule
+Kampweg,1,"","",8463VD,Rotsterhaule
+Kampweg,11,"","",8463VD,Rotsterhaule
+Kampweg,12,"","",8463VD,Rotsterhaule
+Kampweg,13,"","",8463VD,Rotsterhaule
+Kampweg,2,"","",8463VD,Rotsterhaule
+Kampweg,2,A,"",8463VD,Rotsterhaule
+Kampweg,2,A,"",8463VD,Rotsterhaule
+Kampweg,2,A,"",8463VD,Rotsterhaule
+Kampweg,2,B,"",8463VD,Rotsterhaule
+Kampweg,3,"","",8463VD,Rotsterhaule
+Kampweg,4,"","",8463VD,Rotsterhaule
+Kampweg,5,"","",8463VD,Rotsterhaule
+Kampweg,7,"","",8463VD,Rotsterhaule
+Kampweg,8,"","",8463VD,Rotsterhaule
+Kampweg,9,"","",8463VD,Rotsterhaule
+Kampweg,9,A,"",8463VD,Rotsterhaule
+Nieuwe Weg,1,"","",8463VE,Rotsterhaule
+Nieuwe Weg,11,"","",8463VE,Rotsterhaule
+Nieuwe Weg,13,"","",8463VE,Rotsterhaule
+Nieuwe Weg,3,"","",8463VE,Rotsterhaule
+Nieuwe Weg,5,"","",8463VE,Rotsterhaule
+Nieuwe Weg,7,"","",8463VE,Rotsterhaule
+Nieuwe Weg,9,"","",8463VE,Rotsterhaule
+Nieuwe Weg,10,"","",8463VG,Rotsterhaule
+Nieuwe Weg,12,"","",8463VG,Rotsterhaule
+Nieuwe Weg,18,"","",8463VG,Rotsterhaule
+Nieuwe Weg,2,"","",8463VG,Rotsterhaule
+Nieuwe Weg,20,"","",8463VG,Rotsterhaule
+Nieuwe Weg,22,"","",8463VG,Rotsterhaule
+Nieuwe Weg,24,"","",8463VG,Rotsterhaule
+Nieuwe Weg,4,"","",8463VG,Rotsterhaule
+Nieuwe Weg,46,"","",8463VG,Rotsterhaule
+Nieuwe Weg,47,"","",8463VG,Rotsterhaule
+Nieuwe Weg,48,"","",8463VG,Rotsterhaule
+Nieuwe Weg,6,"","",8463VG,Rotsterhaule
+Nieuwe Weg,8,"","",8463VG,Rotsterhaule
+Nieuwe Weg,49,"","",8463VH,Rotsterhaule
+Nieuwe Weg,50,"","",8463VH,Rotsterhaule
+Nieuwe Weg,51,"","",8463VH,Rotsterhaule
+Nieuwe Weg,52,"","",8463VH,Rotsterhaule
+Nieuwe Weg,53,"","",8463VH,Rotsterhaule
+Nieuwe Weg,54,"","",8463VH,Rotsterhaule
+Nieuwe Weg,55,"","",8463VH,Rotsterhaule
+Nieuwe Weg,56,"","",8463VH,Rotsterhaule
+Nieuwe Weg,57,"","",8463VH,Rotsterhaule
+Nieuwe Weg,58,"","",8463VH,Rotsterhaule
+Nieuwe Weg,59,"","",8463VH,Rotsterhaule
+Nieuwe Weg,61,"","",8463VH,Rotsterhaule
+Prinses Marijkeweg,1,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,10,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,11,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,12,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,13,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,15,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,3,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,5,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,6,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,6,A,"",8463VJ,Rotsterhaule
+Prinses Marijkeweg,7,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,7,A,"",8463VJ,Rotsterhaule
+Prinses Marijkeweg,8,"","",8463VJ,Rotsterhaule
+Prinses Marijkeweg,9,"","",8463VJ,Rotsterhaule

@@ -1,2546 +1,1172 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8701BB",3,"",""
-"8701BB",5,"",""
-"8701BB",1,"",""
-"8701BB",8,"",""
-"8701BB",6,"",""
-"8701BB",4,"",""
-"8701BB",7,"",""
-"8701CM",62,"",""
-"8701CM",14,"",""
-"8701CM",56,"",""
-"8701CM",12,"",""
-"8701CM",5,"A",""
-"8701CM",16,"",""
-"8701CM",25,"",""
-"8701CM",10,"",""
-"8701CM",66,"",""
-"8701CM",64,"",""
-"8701CM",9,"",""
-"8701CM",29,"",""
-"8701CM",5,"F",""
-"8701CM",13,"",""
-"8701CM",60,"",""
-"8701CM",52,"",""
-"8701CM",5,"B",""
-"8701CM",58,"",""
-"8701CM",5,"C",""
-"8701CM",5,"E",""
-"8701CM",7,"",""
-"8701CM",19,"",""
-"8701CM",5,"",""
-"8701CM",6,"",""
-"8701CM",24,"",""
-"8701CM",50,"",""
-"8701CM",11,"",""
-"8701CM",26,"",""
-"8701CM",4,"",""
-"8701CM",8,"",""
-"8701CM",23,"",""
-"8701CM",46,"",""
-"8701CM",30,"",""
-"8701CM",48,"",""
-"8701CM",42,"",""
-"8701CM",31,"",""
-"8701CM",54,"",""
-"8701CM",2,"",""
-"8701CM",5,"D",""
-"8701CM",44,"",""
-"8701CM",21,"",""
-"8701CM",20,"",""
-"8701CM",1,"",""
-"8701CM",15,"",""
-"8701CM",2,"A",""
-"8701CM",36,"",""
-"8701CM",32,"",""
-"8701CM",40,"",""
-"8701CM",38,"",""
-"8701CM",22,"",""
-"8701CM",18,"",""
-"8701CM",27,"",""
-"8701CM",34,"",""
-"8701CM",17,"",""
-"8701CM",28,"",""
-"8701HB",5,"",""
-"8701HB",8,"",""
-"8701HB",6,"",""
-"8701HB",7,"",""
-"8701HC",17,"",""
-"8701HC",14,"",""
-"8701HC",16,"",""
-"8701HC",12,"",""
-"8701HC",13,"",""
-"8701HC",9,"",""
-"8701HC",11,"",""
-"8701HC",3,"",""
-"8701HC",15,"",""
-"8701HC",2,"",""
-"8701HC",8,"",""
-"8701HC",5,"",""
-"8701HC",4,"",""
-"8701HD",7,"D",""
-"8701HD",7,"G",""
-"8701HD",7,"A",""
-"8701HD",27,"",""
-"8701HD",9,"",""
-"8701HD",19,"",""
-"8701HD",7,"H",""
-"8701HD",7,"",""
-"8701HD",7,"F",""
-"8701HD",7,"B",""
-"8701HD",23,"",""
-"8701HD",39,"",""
-"8701HD",53,"",""
-"8701HD",7,"C",""
-"8701HD",7,"E",""
-"8701HD",43,"",""
-"8701HD",1,"",""
-"8701HD",5,"",""
-"8701HD",3,"",""
-"8701HD",11,"",""
-"8701HD",29,"",""
-"8701HD",17,"",""
-"8701HD",13,"",""
-"8701HD",15,"",""
-"8701HD",7,"I",""
-"8701HD",33,"",""
-"8701HD",31,"",""
-"8701HD",37,"",""
-"8701HD",21,"",""
-"8701HD",41,"",""
-"8701HD",25,"",""
-"8701HD",53,"",""
-"8701HD",35,"",""
-"8701HE",18,"",""
-"8701HE",24,"",""
-"8701HE",26,"",""
-"8701HE",1,"",""
-"8701HE",42,"",""
-"8701HE",22,"",""
-"8701HE",20,"",""
-"8701HE",46,"",""
-"8701HE",30,"",""
-"8701HE",36,"",""
-"8701HE",48,"",""
-"8701HE",38,"",""
-"8701HE",40,"",""
-"8701HE",28,"",""
-"8701HE",1,"",""
-"8701HE",34,"",""
-"8701HE",4,"",""
-"8701HE",32,"",""
-"8701HE",16,"",""
-"8701HE",50,"",""
-"8701HE",2,"",""
-"8701HE",10,"",""
-"8701HE",44,"",""
-"8701HE",7,"",""
-"8701HE",12,"",""
-"8701HE",8,"",""
-"8701HE",5,"",""
-"8701HE",6,"",""
-"8701HE",3,"",""
-"8701HE",14,"",""
-"8701HG",16,"",""
-"8701HG",18,"",""
-"8701HG",13,"",""
-"8701HG",10,"",""
-"8701HG",11,"",""
-"8701HG",1,"",""
-"8701HG",15,"",""
-"8701HG",2,"",""
-"8701HG",1,"A",""
-"8701HG",3,"",""
-"8701HG",20,"",""
-"8701HG",5,"",""
-"8701HG",4,"",""
-"8701HG",9,"",""
-"8701HG",22,"",""
-"8701HG",26,"",""
-"8701HG",23,"",""
-"8701HG",19,"",""
-"8701HG",12,"",""
-"8701HG",17,"",""
-"8701HG",14,"",""
-"8701HG",21,"",""
-"8701HG",25,"",""
-"8701HG",24,"",""
-"8701HH",17,"",""
-"8701HH",11,"",""
-"8701HH",12,"",""
-"8701HH",13,"",""
-"8701HH",15,"",""
-"8701HH",10,"",""
-"8701HH",14,"",""
-"8701HH",8,"",""
-"8701HH",9,"",""
-"8701HH",5,"",""
-"8701HH",18,"",""
-"8701HH",3,"",""
-"8701HH",4,"",""
-"8701HH",6,"",""
-"8701HH",16,"",""
-"8701HH",7,"",""
-"8701HJ",3,"",""
-"8701HJ",10,"",""
-"8701HJ",5,"",""
-"8701HJ",4,"",""
-"8701HJ",9,"",""
-"8701HJ",1,"",""
-"8701HJ",13,"",""
-"8701HJ",6,"",""
-"8701HJ",23,"",""
-"8701HJ",11,"",""
-"8701HJ",7,"",""
-"8701HJ",24,"",""
-"8701HJ",12,"",""
-"8701HJ",21,"",""
-"8701HJ",16,"",""
-"8701HJ",14,"",""
-"8701HJ",22,"",""
-"8701HJ",15,"",""
-"8701HJ",18,"",""
-"8701HJ",8,"",""
-"8701HJ",2,"",""
-"8701HJ",25,"",""
-"8701HJ",17,"",""
-"8701HJ",19,"",""
-"8701HJ",20,"",""
-"8701HK",5,"",""
-"8701HK",8,"",""
-"8701HK",21,"",""
-"8701HK",9,"",""
-"8701HK",3,"",""
-"8701HK",4,"",""
-"8701HK",2,"",""
-"8701HK",19,"",""
-"8701HK",25,"",""
-"8701HK",11,"",""
-"8701HK",6,"",""
-"8701HK",7,"",""
-"8701HK",1,"",""
-"8701HK",23,"",""
-"8701HL",6,"",""
-"8701HL",14,"",""
-"8701HL",18,"",""
-"8701HL",10,"",""
-"8701HL",20,"",""
-"8701HL",10,"A",""
-"8701HL",16,"",""
-"8701HL",8,"A",""
-"8701HL",4,"",""
-"8701HL",14,"",""
-"8701HL",8,"",""
-"8701HL",24,"",""
-"8701HL",22,"",""
-"8701HM",7,"",""
-"8701HM",10,"",""
-"8701HM",11,"",""
-"8701HM",9,"",""
-"8701HM",4,"",""
-"8701HM",12,"",""
-"8701HM",2,"",""
-"8701HM",5,"",""
-"8701HM",3,"",""
-"8701HM",16,"",""
-"8701HM",1,"",""
-"8701HM",15,"",""
-"8701HM",14,"",""
-"8701HM",6,"",""
-"8701HM",14,"",""
-"8701HM",13,"",""
-"8701HN",2,"",""
-"8701HN",3,"",""
-"8701HN",4,"",""
-"8701HN",5,"",""
-"8701HP",6,"",""
-"8701HP",5,"",""
-"8701HP",7,"",""
-"8701HP",21,"",""
-"8701HP",3,"",""
-"8701HP",4,"",""
-"8701HP",15,"",""
-"8701HP",8,"",""
-"8701HP",13,"",""
-"8701HP",23,"",""
-"8701HP",25,"",""
-"8701HP",11,"",""
-"8701HP",9,"",""
-"8701HP",27,"",""
-"8701HP",17,"",""
-"8701HP",19,"",""
-"8701HP",1,"",""
-"8701HP",29,"",""
-"8701HR",53,"",""
-"8701HR",3,"",""
-"8701HR",55,"",""
-"8701HR",41,"",""
-"8701HR",4,"",""
-"8701HR",2,"",""
-"8701HR",43,"",""
-"8701HR",47,"",""
-"8701HR",1,"B",""
-"8701HR",1,"",""
-"8701HR",1,"A",""
-"8701HR",49,"",""
-"8701HR",57,"",""
-"8701HR",51,"",""
-"8701HR",59,"",""
-"8701HR",61,"A",""
-"8701HR",61,"",""
-"8701HS",3,"",""
-"8701HS",30,"",""
-"8701HS",9,"",""
-"8701HS",24,"",""
-"8701HS",5,"",""
-"8701HS",38,"",""
-"8701HS",20,"",""
-"8701HS",26,"",""
-"8701HS",34,"",""
-"8701HS",36,"",""
-"8701HS",28,"",""
-"8701HS",7,"",""
-"8701HS",1,"",""
-"8701HS",22,"",""
-"8701HS",32,"",""
-"8701HS",30,"",""
-"8701HT",54,"",""
-"8701HT",60,"",""
-"8701HT",2,"",""
-"8701HT",72,"",""
-"8701HT",62,"",""
-"8701HT",42,"",""
-"8701HT",78,"",""
-"8701HT",3,"",""
-"8701HT",58,"",""
-"8701HT",56,"",""
-"8701HT",76,"",""
-"8701HT",50,"",""
-"8701HT",48,"",""
-"8701HT",82,"",""
-"8701HT",80,"",""
-"8701HT",46,"",""
-"8701HT",1,"",""
-"8701HT",64,"",""
-"8701HT",66,"",""
-"8701HT",72,"A",""
-"8701HV",2,"",""
-"8701HV",12,"",""
-"8701HV",13,"",""
-"8701HV",4,"",""
-"8701HV",10,"",""
-"8701HV",7,"",""
-"8701HV",9,"",""
-"8701HV",5,"",""
-"8701HV",8,"",""
-"8701HV",1,"A",""
-"8701HV",11,"",""
-"8701HV",1,"",""
-"8701HV",3,"",""
-"8701HW",27,"",""
-"8701HW",17,"",""
-"8701HW",7,"",""
-"8701HW",21,"",""
-"8701HW",30,"",""
-"8701HW",29,"",""
-"8701HW",6,"",""
-"8701HW",25,"",""
-"8701HW",14,"",""
-"8701HW",15,"",""
-"8701HW",7,"",""
-"8701HW",20,"",""
-"8701HW",28,"",""
-"8701HW",23,"",""
-"8701HW",18,"",""
-"8701HW",16,"",""
-"8701HW",6,"",""
-"8701HW",19,"",""
-"8701HW",24,"",""
-"8701HW",26,"",""
-"8701HX",32,"",""
-"8701HX",42,"A",""
-"8701HX",38,"",""
-"8701HX",14,"",""
-"8701HX",15,"",""
-"8701HX",39,"",""
-"8701HX",43,"",""
-"8701HX",33,"",""
-"8701HX",7,"",""
-"8701HX",11,"",""
-"8701HX",10,"",""
-"8701HX",45,"",""
-"8701HX",40,"",""
-"8701HX",44,"",""
-"8701HX",43,"",""
-"8701HX",18,"",""
-"8701HX",37,"",""
-"8701HX",8,"",""
-"8701HX",3,"",""
-"8701HX",6,"",""
-"8701HX",17,"",""
-"8701HX",35,"",""
-"8701HX",16,"",""
-"8701HX",5,"",""
-"8701HX",4,"",""
-"8701HX",13,"",""
-"8701HX",12,"",""
-"8701HX",44,"",""
-"8701HX",9,"",""
-"8701HZ",8,"",""
-"8701HZ",5,"",""
-"8701HZ",10,"",""
-"8701HZ",7,"",""
-"8701HZ",6,"",""
-"8701JA",9,"",""
-"8701JA",5,"",""
-"8701JA",6,"",""
-"8701JA",15,"",""
-"8701JA",4,"",""
-"8701JA",19,"",""
-"8701JA",11,"",""
-"8701JA",7,"",""
-"8701JA",2,"",""
-"8701JA",13,"",""
-"8701JA",19,"A",""
-"8701JA",1,"",""
-"8701JB",41,"",""
-"8701JB",41,"",""
-"8701JB",31,"",""
-"8701JB",31,"",""
-"8701JB",21,"",""
-"8701JB",3,"",""
-"8701JB",37,"",""
-"8701JB",41,"",""
-"8701JB",39,"",""
-"8701JB",25,"",""
-"8701JB",21,"A",""
-"8701JB",27,"",""
-"8701JB",35,"",""
-"8701JB",29,"",""
-"8701JC",5,"",""
-"8701JC",45,"",""
-"8701JC",47,"",""
-"8701JC",2,"",""
-"8701JC",1,"",""
-"8701JC",49,"",""
-"8701JC",11,"",""
-"8701JC",9,"",""
-"8701JC",6,"",""
-"8701JC",51,"",""
-"8701JC",53,"",""
-"8701JC",3,"",""
-"8701JC",10,"",""
-"8701JC",7,"",""
-"8701JC",11,"",""
-"8701JD",16,"A",""
-"8701JD",7,"",""
-"8701JD",16,"",""
-"8701JD",18,"",""
-"8701JD",20,"B",""
-"8701JD",16,"",""
-"8701JD",10,"",""
-"8701JD",5,"",""
-"8701JD",3,"",""
-"8701JD",12,"A",""
-"8701JD",2,"",""
-"8701JD",1,"",""
-"8701JD",8,"",""
-"8701JD",12,"",""
-"8701JD",2,"",""
-"8701JD",16,"B",""
-"8701JD",14,"A",""
-"8701JD",28,"",""
-"8701JD",22,"",""
-"8701JD",20,"",""
-"8701JD",12,"",""
-"8701JD",14,"",""
-"8701JD",14,"",""
-"8701JD",30,"",""
-"8701JD",20,"A",""
-"8701JE",3,"",""
-"8701JE",10,"",""
-"8701JE",4,"",""
-"8701JE",6,"",""
-"8701JE",7,"",""
-"8701JE",5,"",""
-"8701JE",2,"",""
-"8701JE",12,"",""
-"8701JE",1,"",""
-"8701JE",9,"",""
-"8701JE",8,"",""
-"8701JG",4,"",""
-"8701JG",10,"",""
-"8701JG",8,"",""
-"8701JG",7,"",""
-"8701JG",3,"",""
-"8701JG",4,"",""
-"8701JG",2,"",""
-"8701JG",5,"",""
-"8701JH",7,"",""
-"8701JH",8,"",""
-"8701JH",9,"",""
-"8701JH",1,"",""
-"8701JH",3,"",""
-"8701JH",6,"",""
-"8701JH",11,"",""
-"8701JH",10,"",""
-"8701JJ",14,"",""
-"8701JJ",29,"",""
-"8701JJ",26,"",""
-"8701JJ",31,"",""
-"8701JJ",24,"",""
-"8701JJ",17,"",""
-"8701JJ",27,"",""
-"8701JJ",21,"",""
-"8701JJ",5,"",""
-"8701JJ",25,"",""
-"8701JJ",23,"",""
-"8701JJ",15,"",""
-"8701JJ",13,"",""
-"8701JJ",11,"",""
-"8701JJ",16,"",""
-"8701JJ",20,"",""
-"8701JJ",18,"",""
-"8701JJ",9,"",""
-"8701JJ",20,"A",""
-"8701JJ",7,"",""
-"8701JJ",3,"",""
-"8701JJ",8,"",""
-"8701JJ",20,"",""
-"8701JJ",20,"A",""
-"8701JJ",19,"",""
-"8701JJ",1,"A",""
-"8701JJ",2,"",""
-"8701JJ",1,"C",""
-"8701JK",5,"",""
-"8701JK",7,"",""
-"8701JK",8,"",""
-"8701JK",4,"",""
-"8701JK",11,"",""
-"8701JK",13,"",""
-"8701JK",1,"",""
-"8701JK",3,"",""
-"8701JK",10,"",""
-"8701JK",6,"",""
-"8701JK",2,"",""
-"8701JK",12,"",""
-"8701JK",14,"",""
-"8701JK",9,"",""
-"8701JL",16,"",""
-"8701JL",17,"",""
-"8701JL",26,"",""
-"8701JL",21,"",""
-"8701JL",29,"",""
-"8701JL",28,"",""
-"8701JL",30,"",""
-"8701JL",22,"",""
-"8701JL",15,"",""
-"8701JL",25,"",""
-"8701JL",32,"",""
-"8701JL",31,"",""
-"8701JL",23,"",""
-"8701JL",20,"",""
-"8701JL",34,"",""
-"8701JL",33,"",""
-"8701JL",18,"",""
-"8701JL",27,"",""
-"8701JL",24,"",""
-"8701JL",19,"",""
-"8701JM",10,"",""
-"8701JM",2,"",""
-"8701JM",8,"",""
-"8701JM",39,"",""
-"8701JM",35,"",""
-"8701JM",38,"",""
-"8701JM",45,"",""
-"8701JM",43,"",""
-"8701JM",50,"",""
-"8701JM",4,"",""
-"8701JM",6,"",""
-"8701JM",37,"",""
-"8701JM",12,"",""
-"8701JM",46,"",""
-"8701JM",40,"",""
-"8701JM",44,"",""
-"8701JM",42,"",""
-"8701JM",48,"",""
-"8701JM",53,"",""
-"8701JM",36,"",""
-"8701JM",47,"",""
-"8701JM",51,"",""
-"8701JN",1,"G",""
-"8701JN",8,"",""
-"8701JN",1,"H",""
-"8701JN",6,"",""
-"8701JN",13,"",""
-"8701JN",4,"",""
-"8701JN",10,"",""
-"8701JN",14,"",""
-"8701JN",3,"",""
-"8701JN",1,"F",""
-"8701JN",1,"B",""
-"8701JN",11,"",""
-"8701JN",1,"C",""
-"8701JN",1,"E",""
-"8701JN",2,"",""
-"8701JN",1,"D",""
-"8701JN",9,"",""
-"8701JN",1,"A",""
-"8701JP",33,"",""
-"8701JP",37,"",""
-"8701JP",25,"",""
-"8701JP",34,"",""
-"8701JP",42,"",""
-"8701JP",27,"",""
-"8701JP",6,"",""
-"8701JP",18,"",""
-"8701JP",24,"",""
-"8701JP",38,"",""
-"8701JP",14,"",""
-"8701JP",23,"",""
-"8701JP",1,"",""
-"8701JP",10,"",""
-"8701JP",46,"",""
-"8701JP",29,"",""
-"8701JP",48,"",""
-"8701JP",5,"",""
-"8701JP",3,"",""
-"8701JP",21,"",""
-"8701JP",7,"",""
-"8701JR",27,"",""
-"8701JR",29,"",""
-"8701JR",3,"",""
-"8701JR",35,"",""
-"8701JR",31,"",""
-"8701JR",33,"",""
-"8701JR",1,"",""
-"8701JR",49,"",""
-"8701JR",14,"",""
-"8701JR",7,"",""
-"8701JR",2,"",""
-"8701JR",43,"",""
-"8701JR",21,"",""
-"8701JR",15,"",""
-"8701JR",13,"",""
-"8701JR",12,"",""
-"8701JR",6,"",""
-"8701JR",20,"",""
-"8701JR",23,"",""
-"8701JR",25,"",""
-"8701JR",13,"",""
-"8701JR",39,"",""
-"8701JR",11,"",""
-"8701JR",9,"",""
-"8701JR",37,"",""
-"8701JR",10,"",""
-"8701JR",16,"",""
-"8701JR",18,"",""
-"8701JR",19,"",""
-"8701JR",41,"",""
-"8701JR",17,"",""
-"8701JR",5,"",""
-"8701JS",16,"",""
-"8701JS",8,"",""
-"8701JS",32,"",""
-"8701JS",9,"",""
-"8701JS",2,"",""
-"8701JS",18,"",""
-"8701JS",3,"",""
-"8701JS",20,"",""
-"8701JS",46,"",""
-"8701JS",50,"",""
-"8701JS",5,"",""
-"8701JS",11,"",""
-"8701JS",1,"",""
-"8701JS",54,"",""
-"8701JS",28,"",""
-"8701JS",24,"",""
-"8701JS",22,"",""
-"8701JS",15,"",""
-"8701JS",36,"",""
-"8701JS",26,"",""
-"8701JS",42,"",""
-"8701JT",1,"",""
-"8701JT",2,"A",""
-"8701JT",1,"",""
-"8701JT",3,"",""
-"8701JT",8,"",""
-"8701JT",2,"",""
-"8701JT",5,"",""
-"8701JT",6,"",""
-"8701JT",9,"",""
-"8701JT",4,"",""
-"8701JT",9,"A",""
-"8701JT",9,"A",""
-"8701JT",10,"",""
-"8701JV",18,"A",""
-"8701JV",14,"",""
-"8701JV",15,"A",""
-"8701JV",12,"",""
-"8701JV",15,"",""
-"8701JV",16,"",""
-"8701JV",17,"",""
-"8701JV",18,"",""
-"8701JV",16,"",""
-"8701JV",11,"",""
-"8701JV",13,"",""
-"8701JW",8,"",""
-"8701JW",4,"",""
-"8701JW",2,"",""
-"8701JW",7,"",""
-"8701JW",3,"",""
-"8701JW",10,"",""
-"8701JW",20,"",""
-"8701JW",5,"",""
-"8701JW",21,"",""
-"8701JW",19,"",""
-"8701JW",6,"",""
-"8701JW",17,"",""
-"8701JX",21,"",""
-"8701JX",8,"",""
-"8701JX",25,"",""
-"8701JX",5,"",""
-"8701JX",28,"",""
-"8701JX",30,"",""
-"8701JX",17,"",""
-"8701JX",24,"",""
-"8701JX",15,"",""
-"8701JX",22,"",""
-"8701JX",29,"",""
-"8701JX",23,"",""
-"8701JX",4,"",""
-"8701JX",10,"",""
-"8701JX",31,"",""
-"8701JX",14,"",""
-"8701JX",7,"",""
-"8701JX",9,"",""
-"8701JX",13,"",""
-"8701JX",27,"",""
-"8701JX",20,"",""
-"8701JX",26,"",""
-"8701JX",6,"",""
-"8701JX",11,"",""
-"8701JX",19,"",""
-"8701JZ",19,"",""
-"8701JZ",23,"",""
-"8701JZ",13,"",""
-"8701JZ",14,"",""
-"8701JZ",24,"",""
-"8701JZ",2,"",""
-"8701JZ",4,"",""
-"8701JZ",3,"",""
-"8701JZ",5,"",""
-"8701KA",31,"",""
-"8701KA",29,"",""
-"8701KA",7,"",""
-"8701KA",27,"",""
-"8701KA",21,"",""
-"8701KA",34,"",""
-"8701KA",10,"",""
-"8701KA",30,"A",""
-"8701KA",32,"",""
-"8701KA",8,"",""
-"8701KA",8,"A",""
-"8701KA",12,"",""
-"8701KA",32,"",""
-"8701KA",9,"",""
-"8701KA",32,"",""
-"8701KA",11,"",""
-"8701KA",24,"",""
-"8701KA",25,"",""
-"8701KA",31,"",""
-"8701KA",23,"",""
-"8701KA",22,"",""
-"8701KA",31,"",""
-"8701KA",26,"",""
-"8701KA",30,"",""
-"8701KB",10,"C",""
-"8701KB",6,"",""
-"8701KB",3,"",""
-"8701KB",12,"",""
-"8701KB",8,"",""
-"8701KB",13,"",""
-"8701KB",9,"",""
-"8701KB",10,"A",""
-"8701KB",15,"",""
-"8701KB",17,"",""
-"8701KB",7,"",""
-"8701KB",5,"",""
-"8701KB",19,"",""
-"8701KB",10,"D",""
-"8701KB",10,"B",""
-"8701KB",21,"",""
-"8701KB",21,"A",""
-"8701KC",39,"",""
-"8701KC",33,"",""
-"8701KC",29,"A",""
-"8701KC",6,"",""
-"8701KC",45,"",""
-"8701KC",2,"",""
-"8701KC",27,"",""
-"8701KC",43,"",""
-"8701KC",29,"",""
-"8701KC",47,"",""
-"8701KC",27,"B",""
-"8701KC",41,"",""
-"8701KC",39,"A",""
-"8701KC",23,"",""
-"8701KC",29,"A",""
-"8701KC",25,"",""
-"8701KC",45,"",""
-"8701KC",41,"",""
-"8701KC",27,"A",""
-"8701KC",31,"",""
-"8701KC",43,"",""
-"8701KC",8,"",""
-"8701KC",4,"",""
-"8701KD",14,"A",""
-"8701KD",11,"",""
-"8701KD",7,"A",""
-"8701KD",10,"",""
-"8701KD",14,"",""
-"8701KD",3,"",""
-"8701KD",2,"",""
-"8701KD",11,"",""
-"8701KD",7,"",""
-"8701KD",6,"A",""
-"8701KD",15,"",""
-"8701KD",13,"",""
-"8701KD",4,"",""
-"8701KD",13,"",""
-"8701KD",5,"",""
-"8701KD",17,"",""
-"8701KD",12,"",""
-"8701KE",6,"A",""
-"8701KE",14,"",""
-"8701KE",12,"",""
-"8701KE",9,"",""
-"8701KE",2,"A",""
-"8701KE",4,"",""
-"8701KE",7,"",""
-"8701KE",10,"",""
-"8701KE",5,"",""
-"8701KE",8,"",""
-"8701KE",3,"",""
-"8701KE",2,"",""
-"8701KE",6,"",""
-"8701KE",1,"",""
-"8701KG",1,"C",""
-"8701KG",3,"",""
-"8701KG",5,"",""
-"8701KG",1,"A",""
-"8701KG",2,"",""
-"8701KG",9,"",""
-"8701KG",1,"D",""
-"8701KG",1,"B",""
-"8701KG",1,"C",""
-"8701KG",1,"D",""
-"8701KG",1,"",""
-"8701KG",4,"",""
-"8701KG",10,"",""
-"8701KG",9,"A",""
-"8701KG",8,"",""
-"8701KG",1,"B",""
-"8701KG",7,"",""
-"8701KG",6,"",""
-"8701KG",7,"",""
-"8701KG",8,"",""
-"8701KH",5,"",""
-"8701KH",10,"",""
-"8701KH",6,"",""
-"8701KH",12,"",""
-"8701KH",4,"",""
-"8701KH",16,"",""
-"8701KH",10,"",""
-"8701KH",3,"",""
-"8701KH",11,"",""
-"8701KH",13,"",""
-"8701KH",5,"A",""
-"8701KH",15,"",""
-"8701KH",16,"A",""
-"8701KH",14,"",""
-"8701KH",14,"A",""
-"8701KH",7,"",""
-"8701KH",15,"A",""
-"8701KH",9,"",""
-"8701KH",8,"",""
-"8701KH",8,"",""
-"8701KH",13,"",""
-"8701KH",2,"",""
-"8701KH",4,"A",""
-"8701KH",1,"",""
-"8701KJ",7,"",""
-"8701KJ",4,"A",""
-"8701KJ",6,"A",""
-"8701KJ",3,"",""
-"8701KJ",2,"",""
-"8701KJ",6,"",""
-"8701KJ",4,"",""
-"8701KK",1,"",""
-"8701KK",1,"B",""
-"8701KK",1,"A",""
-"8701KK",1,"A",""
-"8701KK",2,"A",""
-"8701KK",9,"",""
-"8701KK",11,"",""
-"8701KK",1,"A",""
-"8701KK",3,"A",""
-"8701KK",1,"B",""
-"8701KK",49,"",""
-"8701KK",39,"",""
-"8701KK",1,"A",""
-"8701KK",1,"",""
-"8701KK",21,"",""
-"8701KK",45,"",""
-"8701KK",17,"",""
-"8701KK",35,"",""
-"8701KK",19,"",""
-"8701KK",41,"",""
-"8701KK",7,"B",""
-"8701KK",31,"",""
-"8701KK",3,"B",""
-"8701KK",33,"",""
-"8701KK",1,"A",""
-"8701KK",1,"",""
-"8701KK",29,"",""
-"8701KK",7,"",""
-"8701KK",37,"",""
-"8701KK",7,"A",""
-"8701KK",43,"",""
-"8701KK",47,"",""
-"8701KL",6,"E",""
-"8701KL",2,"",""
-"8701KL",38,"A",""
-"8701KL",8,"B",""
-"8701KL",14,"",""
-"8701KL",38,"H",""
-"8701KL",38,"G",""
-"8701KL",38,"D",""
-"8701KL",8,"E",""
-"8701KL",16,"",""
-"8701KL",6,"F",""
-"8701KL",6,"A",""
-"8701KL",8,"C",""
-"8701KL",8,"A",""
-"8701KL",3,"",""
-"8701KL",24,"",""
-"8701KL",38,"E",""
-"8701KL",12,"A",""
-"8701KL",26,"",""
-"8701KL",38,"F",""
-"8701KL",38,"C",""
-"8701KL",38,"B",""
-"8701KL",10,"",""
-"8701KL",20,"A",""
-"8701KL",4,"E",""
-"8701KL",8,"D",""
-"8701KL",4,"C",""
-"8701KL",4,"B",""
-"8701KL",4,"A",""
-"8701KL",4,"D",""
-"8701KL",4,"F",""
-"8701KL",6,"B",""
-"8701KL",6,"D",""
-"8701KL",32,"",""
-"8701KL",36,"",""
-"8701KL",20,"",""
-"8701KL",28,"",""
-"8701KL",6,"C",""
-"8701KL",34,"",""
-"8701KL",24,"",""
-"8701KL",18,"",""
-"8701KL",30,"",""
-"8701KL",6,"G",""
-"8701KL",24,"",""
-"8701KL",12,"",""
-"8701KL",22,"",""
-"8701KM",15,"",""
-"8701KM",4,"",""
-"8701KM",10,"",""
-"8701KM",25,"",""
-"8701KM",8,"",""
-"8701KM",29,"",""
-"8701KM",27,"",""
-"8701KM",7,"",""
-"8701KM",11,"",""
-"8701KM",6,"",""
-"8701KM",13,"",""
-"8701KM",33,"",""
-"8701KM",2,"",""
-"8701KN",6,"",""
-"8701KN",5,"",""
-"8701KN",3,"",""
-"8701KN",1,"",""
-"8701KN",4,"",""
-"8701KN",12,"",""
-"8701KN",7,"",""
-"8701KN",8,"",""
-"8701KN",2,"",""
-"8701KN",9,"",""
-"8701KN",8,"",""
-"8701KN",2,"A",""
-"8701KN",10,"",""
-"8701KP",18,"",""
-"8701KP",20,"",""
-"8701KP",35,"",""
-"8701KP",5,"",""
-"8701KP",23,"",""
-"8701KP",19,"",""
-"8701KP",27,"",""
-"8701KP",36,"",""
-"8701KP",12,"",""
-"8701KP",6,"",""
-"8701KP",29,"",""
-"8701KP",28,"",""
-"8701KP",24,"",""
-"8701KP",14,"",""
-"8701KP",13,"",""
-"8701KP",21,"",""
-"8701KP",8,"",""
-"8701KP",8,"",""
-"8701KP",26,"",""
-"8701KP",7,"",""
-"8701KP",36,"",""
-"8701KP",32,"",""
-"8701KP",1,"",""
-"8701KP",31,"",""
-"8701KP",33,"",""
-"8701KP",9,"",""
-"8701KP",34,"",""
-"8701KP",25,"",""
-"8701KP",4,"",""
-"8701KP",9,"",""
-"8701KP",3,"",""
-"8701KP",22,"",""
-"8701KP",10,"",""
-"8701KP",12,"",""
-"8701KR",10,"",""
-"8701KR",9,"",""
-"8701KR",1,"",""
-"8701KR",4,"",""
-"8701KR",5,"",""
-"8701KR",8,"",""
-"8701KR",6,"",""
-"8701KR",7,"A",""
-"8701KR",7,"",""
-"8701KR",11,"",""
-"8701KR",3,"",""
-"8701KR",13,"",""
-"8701KR",12,"",""
-"8701KR",2,"",""
-"8701KR",14,"",""
-"8701KS",16,"",""
-"8701KS",18,"",""
-"8701KS",20,"",""
-"8701KS",23,"",""
-"8701KS",21,"",""
-"8701KS",19,"",""
-"8701KS",22,"",""
-"8701KS",15,"",""
-"8701KS",17,"",""
-"8701KT",41,"",""
-"8701KT",74,"",""
-"8701KT",45,"A",""
-"8701KT",75,"",""
-"8701KT",45,"I",""
-"8701KT",5,"",""
-"8701KT",45,"L",""
-"8701KT",45,"O",""
-"8701KT",65,"",""
-"8701KT",45,"B",""
-"8701KT",45,"D",""
-"8701KT",45,"R",""
-"8701KT",73,"",""
-"8701KT",72,"",""
-"8701KT",3,"",""
-"8701KT",71,"",""
-"8701KT",1,"",""
-"8701KT",45,"S",""
-"8701KT",75,"A",""
-"8701KT",64,"",""
-"8701KT",45,"U",""
-"8701KT",45,"F",""
-"8701KT",45,"C",""
-"8701KT",5,"",""
-"8701KT",45,"M",""
-"8701KT",45,"W",""
-"8701KT",45,"P",""
-"8701KT",68,"",""
-"8701KT",45,"T",""
-"8701KT",38,"",""
-"8701KT",45,"X",""
-"8701KT",45,"V",""
-"8701KT",40,"",""
-"8701KT",75,"B",""
-"8701KT",45,"E",""
-"8701KT",10,"",""
-"8701KT",68,"A",""
-"8701KT",67,"",""
-"8701KT",45,"Q",""
-"8701KT",4,"",""
-"8701KT",45,"J",""
-"8701KT",39,"",""
-"8701KT",66,"",""
-"8701KT",45,"N",""
-"8701KT",45,"G",""
-"8701KT",4,"",""
-"8701KT",45,"H",""
-"8701KT",3,"",""
-"8701KT",75,"B",""
-"8701KT",45,"K",""
-"8701KV",17,"",""
-"8701KV",22,"",""
-"8701KV",22,"A",""
-"8701KV",3,"F",""
-"8701KV",11,"",""
-"8701KV",2,"F",""
-"8701KV",21,"A",""
-"8701KV",2,"C",""
-"8701KV",1,"A",""
-"8701KV",22,"A",""
-"8701KV",3,"E",""
-"8701KV",3,"B",""
-"8701KV",1,"B",""
-"8701KV",12,"",""
-"8701KV",3,"C",""
-"8701KV",7,"",""
-"8701KV",2,"E",""
-"8701KV",3,"D",""
-"8701KV",11,"",""
-"8701KV",15,"",""
-"8701KV",16,"",""
-"8701KV",18,"",""
-"8701KV",2,"A",""
-"8701KV",8,"",""
-"8701KV",14,"",""
-"8701KV",2,"D",""
-"8701KV",22,"",""
-"8701KV",1,"E",""
-"8701KV",13,"",""
-"8701KV",1,"C",""
-"8701KV",2,"B",""
-"8701KV",1,"F",""
-"8701KV",21,"",""
-"8701KV",19,"",""
-"8701KV",20,"",""
-"8701KV",1,"D",""
-"8701KV",3,"A",""
-"8701KW",24,"",""
-"8701KW",28,"",""
-"8701KW",23,"",""
-"8701KW",29,"",""
-"8701KW",26,"",""
-"8701KW",27,"",""
-"8701KW",25,"",""
-"8701KW",34,"",""
-"8701KW",31,"",""
-"8701KW",30,"",""
-"8701KW",36,"",""
-"8701KW",35,"",""
-"8701KW",33,"",""
-"8701KW",32,"",""
-"8701KX",41,"",""
-"8701KX",58,"",""
-"8701KX",44,"",""
-"8701KX",48,"",""
-"8701KX",47,"",""
-"8701KX",38,"",""
-"8701KX",44,"A",""
-"8701KX",42,"",""
-"8701KX",52,"",""
-"8701KX",40,"",""
-"8701KX",55,"",""
-"8701KX",45,"",""
-"8701KX",54,"",""
-"8701KX",41,"",""
-"8701KX",50,"",""
-"8701KX",46,"",""
-"8701KX",57,"",""
-"8701KX",37,"",""
-"8701KX",51,"",""
-"8701KX",53,"",""
-"8701KZ",2,"",""
-"8701KZ",10,"",""
-"8701KZ",10,"A",""
-"8701KZ",9,"",""
-"8701KZ",7,"",""
-"8701KZ",4,"",""
-"8701KZ",5,"",""
-"8701KZ",8,"A",""
-"8701KZ",1,"",""
-"8701KZ",8,"",""
-"8701KZ",6,"",""
-8701JE,'t Hof,1,,
-8701JE,'t Hof,10,,
-8701JE,'t Hof,4,,
-8701JE,'t Hof,5,,
-8701JE,'t Hof,7,,
-8701JE,'t Hof,12,,
-8701JP,'t Laag,14,,
-8701JP,'t Laag,18,,
-8701JP,'t Laag,21,,
-8701JP,'t Laag,23,,
-8701JP,'t Laag,25,,
-8701JP,'t Laag,34,,
-8701JP,'t Laag,37,,
-8701JP,'t Laag,38,,
-8701JP,'t Laag,42,,
-8701JP,'t Laag,6,,
-8701JP,'t Laag,7,,
-8701JP,'t Laag,27,,
-8701KE,Achter de Smeden,4,,
-8701KH,Appelmarkt,14,A,
-8701KH,Appelmarkt,5,,
-8701KH,Appelmarkt,6,,
-8701KH,Appelmarkt,10,,
-8701KH,Appelmarkt,11,,
-8701KH,Appelmarkt,13,,
-8701KH,Appelmarkt,15,,
-8701HC,Bagijnestraat,11,,
-8701HC,Bagijnestraat,13,,
-8701HC,Bagijnestraat,14,,
-8701HC,Bagijnestraat,17,,
-8701HC,Bagijnestraat,2,,
-8701HC,Bagijnestraat,5,,
-8701HC,Bagijnestraat,8,,
-8701KD,Bargefenne,4,,
-8701KD,Bargefenne,6,A,
-8701KD,Bargefenne,11,,
-8701KD,Bargefenne,14,,
-8701KD,Bargefenne,17,,
-8701HM,Broerestraat,13,,
-8701HM,Broerestraat,16,,
-8701HM,Broerestraat,4,,
-8701HM,Broerestraat,9,,
-8701HM,Broerestraat,5,,
-8701KT,Brouwerssteeg,3,,
-8701KT,Brouwerssteeg,1,,
-8701KB,Dijkstraat,10,B,
-8701KB,Dijkstraat,10,C,
-8701KB,Dijkstraat,7,,
-8701KB,Dijkstraat,8,,
-8701KB,Dijkstraat,3,,
-8701KB,Dijkstraat,6,,
-8701KB,Dijkstraat,9,,
-8701KB,Dijkstraat,17,,
-8701KC,Dijkstraat,39,A,
-8701KC,Dijkstraat,29,,
-8701KC,Dijkstraat,39,,
-8701JR,Elandslaagte,14,,
-8701JR,Elandslaagte,18,,
-8701JS,Elandslaagte,15,,
-8701JS,Elandslaagte,1,,
-8701JS,Elandslaagte,3,,
-8701HG,Groot Kerkhof,11,,
-8701HG,Groot Kerkhof,13,,
-8701HG,Groot Kerkhof,16,,
-8701HG,Groot Kerkhof,17,,
-8701HG,Groot Kerkhof,18,,
-8701HG,Groot Kerkhof,19,,
-8701HG,Groot Kerkhof,20,,
-8701HG,Groot Kerkhof,25,,
-8701HG,Groot Kerkhof,3,,
-8701HG,Groot Kerkhof,5,,
-8701JX,Grootzand,10,,
-8701JX,Grootzand,11,,
-8701JX,Grootzand,14,,
-8701JX,Grootzand,22,,
-8701JX,Grootzand,25,,
-8701JX,Grootzand,28,,
-8701JX,Grootzand,29,,
-8701JX,Grootzand,31,,
-8701JX,Grootzand,8,,
-8701KV,Grote Dijlakker,14,,
-8701KV,Grote Dijlakker,1,C,
-8701KV,Grote Dijlakker,1,D,
-8701KV,Grote Dijlakker,1,E,
-8701KV,Grote Dijlakker,21,A,
-8701KV,Grote Dijlakker,22,A,
-8701KV,Grote Dijlakker,2,B,
-8701KV,Grote Dijlakker,3,A,
-8701KV,Grote Dijlakker,3,C,
-8701KV,Grote Dijlakker,3,E,
-8701KV,Grote Dijlakker,22,,
-8701KW,Grote Dijlakker,29,,
-8701KW,Grote Dijlakker,30,,
-8701KW,Grote Dijlakker,31,,
-8701KW,Grote Dijlakker,33,,
-8701KW,Grote Dijlakker,35,,
-8701KX,Grote Dijlakker,37,,
-8701KX,Grote Dijlakker,42,,
-8701KX,Grote Dijlakker,46,,
-8701KX,Grote Dijlakker,53,,
-8701KX,Grote Dijlakker,54,,
-8701KX,Grote Dijlakker,40,,
-8701KX,Grote Dijlakker,44,,
-8701KX,Grote Dijlakker,58,,
-8701HH,Grote Kampen,10,,
-8701HH,Grote Kampen,11,,
-8701HH,Grote Kampen,13,,
-8701HH,Grote Kampen,18,,
-8701HH,Grote Kampen,6,,
-8701HR,Grote Kampen,4,,
-8701HW,Hanekopersteeg,6,,
-8701HW,Hanekoopersteeg,6,,
-8701HW,Hanekopersteeg,6,,
-8701HW,Hanekoopersteeg,6,,
-8701JM,Heeremahof,10,,
-8701JM,Heeremahof,2,,
-8701JM,Heeremahof,8,,
-8701JG,Heeremastraat,5,,
-8701JG,Heeremastraat,7,,
-8701JG,Heeremastraat,10,,
-8701HJ,Hendrik Nanneshof,11,,
-8701HJ,Hendrik Nanneshof,12,,
-8701HJ,Hendrik Nanneshof,13,,
-8701HJ,Hendrik Nanneshof,14,,
-8701HJ,Hendrik Nanneshof,15,,
-8701HJ,Hendrik Nanneshof,16,,
-8701HJ,Hendrik Nanneshof,17,,
-8701HJ,Hendrik Nanneshof,21,,
-8701HJ,Hendrik Nanneshof,22,,
-8701HJ,Hendrik Nanneshof,23,,
-8701HJ,Hendrik Nanneshof,4,,
-8701HJ,Hendrik Nanneshof,6,,
-8701HJ,Hendrik Nanneshof,7,,
-8701HX,Hoog Bolwerk,14,,
-8701HX,Hoog Bolwerk,17,,
-8701HX,Hoog Bolwerk,8,,
-8701HX,Hoog Bolwerk,18,,
-8701JR,Hoogstraat,19,,
-8701JR,Hoogstraat,1,,
-8701JR,Hoogstraat,25,,
-8701JR,Hoogstraat,27,,
-8701JR,Hoogstraat,3,,
-8701JR,Hoogstraat,43,,
-8701JR,Hoogstraat,7,,
-8701JR,Hoogstraat,41,,
-8701JR,Hoogstraat,31,,
-8701JR,Hoogstraat,33,,
-8701JS,Hoogstraat,32,,
-8701JS,Hoogstraat,54,,
-8701JS,Hoogstraat,8,,
-8701JS,Hoogstraat,26,,
-8701JS,Hoogstraat,46,,
-8701JA,Jongemastraat,13,,
-8701JA,Jongemastraat,19,,
-8701JB,Jongemastraat,21,A,
-8701JB,Jongemastraat,37,,
-8701JB,Jongemastraat,31,,
-8701JB,Jongemastraat,35,,
-8701JC,Jongemastraat,49,,
-8701JC,Jongemastraat,53,,
-8701JC,Jongemastraat,47,,
-8701JD,Jongemastraat,12,,
-8701JD,Jongemastraat,12,A,
-8701JD,Jongemastraat,30,,
-8701JD,Jongemastraat,20,B,
-8701JD,Jongemastraat,14,,
-8701JD,Jongemastraat,28,,
-8701HN,Kapelstraat,4,,
-8701HP,Kerkstraat,11,,
-8701HP,Kerkstraat,27,,
-8701HP,Kerkstraat,5,,
-8701HP,Kerkstraat,9,,
-8701HR,Kerkstraat,41,,
-8701HR,Kerkstraat,47,,
-8701HR,Kerkstraat,55,,
-8701HR,Kerkstraat,57,,
-8701HR,Kerkstraat,61,,
-8701HR,Kerkstraat,61,A,
-8701HS,Kerkstraat,26,,
-8701HS,Kerkstraat,28,,
-8701HS,Kerkstraat,32,,
-8701HS,Kerkstraat,36,,
-8701HS,Kerkstraat,30,,
-8701HT,Kerkstraat,48,,
-8701HT,Kerkstraat,82,,
-8701HT,Kerkstraat,60,,
-8701HT,Kerkstraat,72,A,
-8701KR,Klein Gasthuis,14,,
-8701KR,Klein Gasthuis,1,,
-8701KR,Klein Gasthuis,6,,
-8701KR,Klein Gasthuis,9,,
-8701BB,Klein Hengstepad,1,,
-8701BB,Klein Hengstepad,8,,
-8701HP,Klein Hengstepad,8,,
-8701HS,Klein Hengstepad,1,,
-8701HV,Kleine Dijlakker,12,,
-8701HV,Kleine Dijlakker,13,,
-8701HV,Kleine Dijlakker,1,A,
-8701HV,Kleine Dijlakker,2,,
-8701HV,Kleine Dijlakker,3,,
-8701HV,Kleine Dijlakker,5,,
-8701HV,Kleine Dijlakker,8,,
-8701HW,Kleine Dijlakker,17,,
-8701HW,Kleine Dijlakker,21,,
-8701HW,Kleine Dijlakker,24,,
-8701HW,Kleine Dijlakker,25,,
-8701HW,Kleine Dijlakker,28,,
-8701HW,Kleine Dijlakker,29,,
-8701HW,Kleine Dijlakker,14,,
-8701HX,Kleine Dijlakker,32,,
-8701HX,Kleine Dijlakker,35,,
-8701HX,Kleine Dijlakker,38,,
-8701HX,Kleine Dijlakker,45,,
-8701JW,Kleinzand,17,,
-8701JW,Kleinzand,2,,
-8701JZ,Klippen,23,,
-8701KP,Laag Bolwerk,10,,
-8701KP,Laag Bolwerk,19,,
-8701KP,Laag Bolwerk,20,,
-8701KP,Laag Bolwerk,21,,
-8701KP,Laag Bolwerk,24,,
-8701KP,Laag Bolwerk,36,,
-8701KP,Laag Bolwerk,3,,
-8701KP,Laag Bolwerk,4,,
-8701KP,Laag Bolwerk,6,,
-8701KP,Laag Bolwerk,8,,
-8701KP,Laag Bolwerk,9,,
-8701KP,Laag Bolwerk,12,,
-8701KT,Laag Bolwerk,39,,
-8701KT,Laag Bolwerk,40,,
-8701KT,Laag Bolwerk,45,W,
-8701KT,Laag Bolwerk,45,X,
-8701KT,Laag Bolwerk,72,,
-8701KT,Laag Bolwerk,73,,
-8701KK,Lommerdsteeg,2,A,
-8701HD,Looiersbuurt,11,,
-8701HD,Looiersbuurt,13,,
-8701HD,Looiersbuurt,21,,
-8701HD,Looiersbuurt,25,,
-8701HD,Looiersbuurt,27,,
-8701HD,Looiersbuurt,31,,
-8701HD,Looiersbuurt,39,,
-8701HD,Looiersbuurt,41,,
-8701HD,Looiersbuurt,5,,
-8701HD,Looiersbuurt,7,F,
-8701HD,Looiersbuurt,7,H,
-8701HD,Looiersbuurt,9,,
-8701HE,Looiersbuurt,28,,
-8701HE,Looiersbuurt,2,,
-8701HE,Looiersbuurt,32,,
-8701HE,Looiersbuurt,36,,
-8701HE,Looiersbuurt,38,,
-8701HE,Looiersbuurt,50,,
-8701HE,Looiersbuurt,6,,
-8701HE,Looiersbuurt,8,,
-8701HT,Looiersgracht,2,,
-8701HT,Looiersgracht,3,,
-8701KM,Mariahof,4,,
-8701KN,Mariahof,1,,
-8701KN,Mariahof,3,,
-8701KN,Mariahof,9,,
-8701KG,Marktplein,1,B,
-8701KG,Marktplein,1,A,
-8701KG,Marktplein,3,,
-8701KG,Marktplein,5,,
-8701KG,Marktplein,8,,
-8701KG,Marktplein,10,,
-8701JT,Marktstraat,10,,
-8701JT,Marktstraat,8,,
-8701JT,Marktstraat,9,,
-8701JV,Marktstraat,11,,
-8701JV,Marktstraat,12,,
-8701JV,Marktstraat,15,,
-8701JV,Marktstraat,16,,
-8701KC,Martinushof,4,,
-8701KC,Martinushof,6,,
-8701KC,Martinushof,8,,
-8701KC,Martinushof,2,,
-8701KE,Martinushof,7,,
-8701KE,Martinushof,9,,
-8701KE,Martinushof,5,,
-8701JN,Nannenhof,10,,
-8701JN,Nannenhof,14,,
-8701JN,Nannenhof,1,E,
-8701JN,Nannenhof,1,F,
-8701JN,Nannenhof,3,,
-8701JN,Nannenhof,6,,
-8701JN,Nannenhof,8,,
-8701JN,Nannenhof,9,,
-8701JN,Nannenhof,11,,
-8701KK,Nieuwmarkt,19,,
-8701KK,Nieuwmarkt,1,B,
-8701KK,Nieuwmarkt,37,,
-8701KK,Nieuwmarkt,41,,
-8701KL,Nieuwmarkt,12,A,
-8701KL,Nieuwmarkt,26,,
-8701KL,Nieuwmarkt,32,,
-8701KL,Nieuwmarkt,34,,
-8701KL,Nieuwmarkt,38,B,
-8701KL,Nieuwmarkt,38,C,
-8701KL,Nieuwmarkt,38,E,
-8701KL,Nieuwmarkt,38,F,
-8701KL,Nieuwmarkt,4,A,
-8701KL,Nieuwmarkt,4,B,
-8701KL,Nieuwmarkt,4,C,
-8701KL,Nieuwmarkt,4,E,
-8701KL,Nieuwmarkt,6,A,
-8701KL,Nieuwmarkt,6,C,
-8701KL,Nieuwmarkt,6,D,
-8701KL,Nieuwmarkt,8,C,
-8701KL,Nieuwmarkt,8,E,
-8701KL,Nieuwmarkt,24,,
-8701KL,Nieuwmarkt,24,,
-8701HB,Plantsoen,7,,
-8701KJ,Rijkstraat,3,,
-8701KJ,Rijkstraat,4,A,
-8701JD,Schuttershof,3,,
-8701JD,Schuttershof,5,,
-8701KZ,Sint Jansstraat,7,,
-8701KZ,Sint Jansstraat,8,,
-8701CM,Sint Jozefstraat,11,,
-8701CM,Sint Jozefstraat,13,,
-8701CM,Sint Jozefstraat,14,,
-8701CM,Sint Jozefstraat,20,,
-8701CM,Sint Jozefstraat,21,,
-8701CM,Sint Jozefstraat,22,,
-8701CM,Sint Jozefstraat,27,,
-8701CM,Sint Jozefstraat,2,,
-8701CM,Sint Jozefstraat,30,,
-8701CM,Sint Jozefstraat,31,,
-8701CM,Sint Jozefstraat,32,,
-8701CM,Sint Jozefstraat,34,,
-8701CM,Sint Jozefstraat,4,,
-8701CM,Sint Jozefstraat,46,,
-8701CM,Sint Jozefstraat,48,,
-8701CM,Sint Jozefstraat,50,,
-8701CM,Sint Jozefstraat,52,,
-8701CM,Sint Jozefstraat,54,,
-8701CM,Sint Jozefstraat,56,,
-8701CM,Sint Jozefstraat,58,,
-8701CM,Sint Jozefstraat,5,,
-8701CM,Sint Jozefstraat,62,,
-8701KM,Skilwyk,27,,
-8701KN,Skilwyk,2,A,
-8701HK,Snekerpoort,23,,
-8701HL,Snekerpoort,10,A,
-8701HL,Snekerpoort,18,,
-8701HL,Snekerpoort,24,,
-8701HL,Snekerpoort,6,,
-8701JZ,Stoombootkade,2,,
-8701JZ,Stoombootkade,5,,
-8701KA,Stoombootkade,31,,
-8701KA,Stoombootkade,31,,
-8701KA,Stoombootkade,31,,
-8701KA,Stoombootkade,10,,
-8701KA,Stoombootkade,11,,
-8701KA,Stoombootkade,22,,
-8701KA,Stoombootkade,25,,
-8701KA,Stoombootkade,26,,
-8701KA,Stoombootkade,32,,
-8701KA,Stoombootkade,32,,
-8701KA,Stoombootkade,7,,
-8701KA,Stoombootkade,9,,
-8701JK,Turfkade,10,,
-8701JK,Turfkade,5,,
-8701JK,Turfkade,7,,
-8701JK,Turfkade,9,,
-8701JL,Turfkade,17,,
-8701JL,Turfkade,27,,
-8701JL,Turfkade,29,,
-8701JL,Turfkade,33,,
-8701JM,Turfkade,35,,
-8701JM,Turfkade,39,,
-8701JM,Turfkade,43,,
-8701JM,Turfkade,44,,
-8701HE,Vossepôle,5,,
-8701HE,Vossepôle,7,,
-8701HK,Vossepôle,6,,
-8701HZ,Wipstraat,5,,
-8701JJ,Witherenstraat,13,,
-8701JJ,Witherenstraat,15,,
-8701JJ,Witherenstraat,16,,
-8701JJ,Witherenstraat,19,,
-8701JJ,Witherenstraat,1,C,
-8701JJ,Witherenstraat,20,A,
-8701JJ,Witherenstraat,25,,
-8701JJ,Witherenstraat,27,,
-8701JJ,Witherenstraat,5,,
-8701JJ,Witherenstraat,9,,
-8701JE,'t Hof,9,,
-8701JE,'t Hof,6,,
-8701JE,'t Hof,2,,
-8701JE,'t Hof,3,,
-8701JE,'t Hof,8,,
-8701JP,'t Laag,46,,
-8701JP,'t Laag,3,,
-8701JP,'t Laag,33,,
-8701JP,'t Laag,48,,
-8701JP,'t Laag,5,,
-8701JP,'t Laag,10,,
-8701JP,'t Laag,24,,
-8701JP,'t Laag,29,,
-8701KE,Achter de Smeden,6,,
-8701KE,Achter de Smeden,12,,
-8701KE,Achter de Smeden,8,,
-8701KE,Achter de Smeden,2,,
-8701KE,Achter de Smeden,14,,
-8701KE,Achter de Smeden,10,,
-8701KE,Achter de Smeden,2,A,
-8701KE,Achter de Smeden,6,A,
-8701KL,Achter de Smeden,3,,
-8701KH,Appelmarkt,16,A,
-8701KH,Appelmarkt,9,,
-8701KH,Appelmarkt,1,,
-8701KH,Appelmarkt,2,,
-8701KH,Appelmarkt,8,,
-8701KH,Appelmarkt,5,A,
-8701KH,Appelmarkt,3,,
-8701KH,Appelmarkt,4,,
-8701KH,Appelmarkt,15,A,
-8701KH,Appelmarkt,7,,
-8701KH,Appelmarkt,16,,
-8701KH,Appelmarkt,4,A,
-8701KH,Appelmarkt,12,,
-8701KH,Appelmarkt,14,,
-8701HC,Bagijnestraat,3,,
-8701HC,Bagijnestraat,9,,
-8701HC,Bagijnestraat,16,,
-8701HC,Bagijnestraat,12,,
-8701HC,Bagijnestraat,15,,
-8701HC,Bagijnestraat,4,,
-8701KD,Bargefenne,5,,
-8701KD,Bargefenne,14,A,
-8701KD,Bargefenne,2,,
-8701KD,Bargefenne,3,,
-8701KD,Bargefenne,15,,
-8701KD,Bargefenne,13,,
-8701KD,Bargefenne,7,A,
-8701KD,Bargefenne,10,,
-8701KD,Bargefenne,12,,
-8701KD,Bargefenne,7,,
-8701JC,Broereplein,6,,
-8701JC,Broereplein,3,,
-8701JC,Broereplein,5,,
-8701JC,Broereplein,2,,
-8701JC,Broereplein,10,,
-8701JC,Broereplein,11,,
-8701JC,Broereplein,7,,
-8701JC,Broereplein,9,,
-8701JC,Broereplein,1,,
-8701HM,Broerestraat,10,,
-8701HM,Broerestraat,11,,
-8701HM,Broerestraat,6,,
-8701HM,Broerestraat,14,,
-8701HM,Broerestraat,7,,
-8701HM,Broerestraat,12,,
-8701HM,Broerestraat,15,,
-8701HM,Broerestraat,2,,
-8701HM,Broerestraat,3,,
-8701HM,Broerestraat,1,,
-8701KT,Brouwerssteeg,5,,
-8701KT,Brouwerssteeg,4,,
-8701KT,Brouwerssteeg,10,,
-8701KB,Dijkstraat,10,A,
-8701KB,Dijkstraat,10,D,
-8701KB,Dijkstraat,13,,
-8701KB,Dijkstraat,19,,
-8701KB,Dijkstraat,12,,
-8701KB,Dijkstraat,15,,
-8701KB,Dijkstraat,21,,
-8701KB,Dijkstraat,21,A,
-8701KB,Dijkstraat,5,,
-8701KC,Dijkstraat,27,B,
-8701KC,Dijkstraat,33,,
-8701KC,Dijkstraat,23,,
-8701KC,Dijkstraat,25,,
-8701KC,Dijkstraat,31,,
-8701KC,Dijkstraat,41,,
-8701KC,Dijkstraat,27,A,
-8701KC,Dijkstraat,29,A,
-8701KC,Dijkstraat,43,,
-8701KC,Dijkstraat,27,,
-8701KC,Dijkstraat,47,,
-8701KC,Dijkstraat,45,,
-8701JR,Elandslaagte,12,,
-8701JR,Elandslaagte,10,,
-8701JR,Elandslaagte,16,,
-8701JR,Elandslaagte,2,,
-8701JR,Elandslaagte,6,,
-8701JR,Elandslaagte,20,,
-8701JS,Elandslaagte,5,,
-8701JS,Elandslaagte,2,,
-8701JS,Elandslaagte,9,,
-8701JS,Elandslaagte,11,,
-8701HG,Groot Kerkhof,22,,
-8701HG,Groot Kerkhof,1,,
-8701HG,Groot Kerkhof,23,,
-8701HG,Groot Kerkhof,9,,
-8701HG,Groot Kerkhof,1,A,
-8701HG,Groot Kerkhof,24,,
-8701HG,Groot Kerkhof,2,,
-8701HG,Groot Kerkhof,15,,
-8701HG,Groot Kerkhof,26,,
-8701HG,Groot Kerkhof,10,,
-8701HG,Groot Kerkhof,4,,
-8701HG,Groot Kerkhof,12,,
-8701HG,Groot Kerkhof,14,,
-8701HG,Groot Kerkhof,21,,
-8701JX,Grootzand,23,,
-8701JX,Grootzand,15,,
-8701JX,Grootzand,20,,
-8701JX,Grootzand,26,,
-8701JX,Grootzand,17,,
-8701JX,Grootzand,4,,
-8701JX,Grootzand,5,,
-8701JX,Grootzand,6,,
-8701JX,Grootzand,7,,
-8701JX,Grootzand,9,,
-8701JX,Grootzand,13,,
-8701JX,Grootzand,24,,
-8701JX,Grootzand,27,,
-8701JX,Grootzand,19,,
-8701JX,Grootzand,21,,
-8701JX,Grootzand,30,,
-8701KV,Grote Dijlakker,2,F,
-8701KV,Grote Dijlakker,1,B,
-8701KV,Grote Dijlakker,1,F,
-8701KV,Grote Dijlakker,20,,
-8701KV,Grote Dijlakker,2,C,
-8701KV,Grote Dijlakker,8,,
-8701KV,Grote Dijlakker,11,,
-8701KV,Grote Dijlakker,12,,
-8701KV,Grote Dijlakker,13,,
-8701KV,Grote Dijlakker,15,,
-8701KV,Grote Dijlakker,2,D,
-8701KV,Grote Dijlakker,17,,
-8701KV,Grote Dijlakker,18,,
-8701KV,Grote Dijlakker,19,,
-8701KV,Grote Dijlakker,1,A,
-8701KV,Grote Dijlakker,2,A,
-8701KV,Grote Dijlakker,3,D,
-8701KV,Grote Dijlakker,3,F,
-8701KV,Grote Dijlakker,7,,
-8701KV,Grote Dijlakker,16,,
-8701KV,Grote Dijlakker,2,E,
-8701KV,Grote Dijlakker,3,B,
-8701KV,Grote Dijlakker,21,,
-8701KW,Grote Dijlakker,24,,
-8701KW,Grote Dijlakker,26,,
-8701KW,Grote Dijlakker,27,,
-8701KW,Grote Dijlakker,34,,
-8701KW,Grote Dijlakker,23,,
-8701KW,Grote Dijlakker,25,,
-8701KW,Grote Dijlakker,28,,
-8701KW,Grote Dijlakker,36,,
-8701KW,Grote Dijlakker,32,,
-8701KX,Grote Dijlakker,38,,
-8701KX,Grote Dijlakker,45,,
-8701KX,Grote Dijlakker,50,,
-8701KX,Grote Dijlakker,51,,
-8701KX,Grote Dijlakker,47,,
-8701KX,Grote Dijlakker,55,,
-8701KX,Grote Dijlakker,57,,
-8701KX,Grote Dijlakker,48,,
-8701KX,Grote Dijlakker,52,,
-8701KX,Grote Dijlakker,44,A,
-8701KX,Grote Dijlakker,41,,
-8701HH,Grote Kampen,12,,
-8701HH,Grote Kampen,8,,
-8701HH,Grote Kampen,17,,
-8701HH,Grote Kampen,9,,
-8701HH,Grote Kampen,15,,
-8701HH,Grote Kampen,16,,
-8701HH,Grote Kampen,5,,
-8701HH,Grote Kampen,7,,
-8701HH,Grote Kampen,14,,
-8701HR,Grote Kampen,1,,
-8701HR,Grote Kampen,1,A,
-8701HR,Grote Kampen,2,,
-8701HR,Grote Kampen,3,,
-8701HR,Grote Kampen,1,B,
-8701HW,Hanekopersteeg,7,,
-8701HW,Hanekoopersteeg,7,,
-8701HW,Hanekopersteeg,7,,
-8701HW,Hanekoopersteeg,7,,
-8701JM,Heeremahof,12,,
-8701JM,Heeremahof,4,,
-8701JM,Heeremahof,6,,
-8701JG,Heeremastraat,3,,
-8701JG,Heeremastraat,4,,
-8701JG,Heeremastraat,8,,
-8701JG,Heeremastraat,2,,
-8701HJ,Hendrik Nanneshof,1,,
-8701HJ,Hendrik Nanneshof,8,,
-8701HJ,Hendrik Nanneshof,18,,
-8701HJ,Hendrik Nanneshof,24,,
-8701HJ,Hendrik Nanneshof,9,,
-8701HJ,Hendrik Nanneshof,10,,
-8701HJ,Hendrik Nanneshof,19,,
-8701HJ,Hendrik Nanneshof,25,,
-8701HJ,Hendrik Nanneshof,3,,
-8701HJ,Hendrik Nanneshof,20,,
-8701HJ,Hendrik Nanneshof,2,,
-8701HJ,Hendrik Nanneshof,5,,
-8701JB,Hengstepad,3,,
-8701HX,Hoog Bolwerk,10,,
-8701HX,Hoog Bolwerk,15,,
-8701HX,Hoog Bolwerk,6,,
-8701HX,Hoog Bolwerk,7,,
-8701HX,Hoog Bolwerk,11,,
-8701HX,Hoog Bolwerk,9,,
-8701HX,Hoog Bolwerk,3,,
-8701HX,Hoog Bolwerk,12,,
-8701HX,Hoog Bolwerk,13,,
-8701HX,Hoog Bolwerk,16,,
-8701HX,Hoog Bolwerk,4,,
-8701HX,Hoog Bolwerk,5,,
-8701JR,Hoogstraat,35,,
-8701JR,Hoogstraat,5,,
-8701JR,Hoogstraat,23,,
-8701JR,Hoogstraat,29,,
-8701JR,Hoogstraat,9,,
-8701JR,Hoogstraat,15,,
-8701JR,Hoogstraat,39,,
-8701JR,Hoogstraat,17,,
-8701JR,Hoogstraat,11,,
-8701JR,Hoogstraat,13,,
-8701JR,Hoogstraat,13,,
-8701JR,Hoogstraat,21,,
-8701JR,Hoogstraat,37,,
-8701JR,Hoogstraat,49,,
-8701JS,Hoogstraat,18,,
-8701JS,Hoogstraat,50,,
-8701JS,Hoogstraat,16,,
-8701JS,Hoogstraat,20,,
-8701JS,Hoogstraat,22,,
-8701JS,Hoogstraat,28,,
-8701JS,Hoogstraat,42,,
-8701JS,Hoogstraat,24,,
-8701JS,Hoogstraat,36,,
-8701JA,Jongemastraat,11,,
-8701JA,Jongemastraat,15,,
-8701JA,Jongemastraat,9,,
-8701JA,Jongemastraat,19,A,
-8701JA,Jongemastraat,5,,
-8701JA,Jongemastraat,7,,
-8701JA,Jongemastraat,1,,
-8701JB,Jongemastraat,21,,
-8701JB,Jongemastraat,41,,
-8701JB,Jongemastraat,41,,
-8701JB,Jongemastraat,25,,
-8701JB,Jongemastraat,29,,
-8701JB,Jongemastraat,27,,
-8701JB,Jongemastraat,39,,
-8701JC,Jongemastraat,45,,
-8701JC,Jongemastraat,51,,
-8701JD,Jongemastraat,20,A,
-8701JD,Jongemastraat,12,,
-8701JD,Jongemastraat,20,,
-8701JD,Jongemastraat,16,,
-8701JD,Jongemastraat,2,,
-8701JD,Jongemastraat,10,,
-8701JD,Jongemastraat,14,,
-8701JD,Jongemastraat,14,A,
-8701JD,Jongemastraat,22,,
-8701JD,Jongemastraat,16,,
-8701JD,Jongemastraat,16,A,
-8701JD,Jongemastraat,18,,
-8701JD,Jongemastraat,16,B,
-8701JD,Jongemastraat,8,,
-8701HN,Kapelstraat,2,,
-8701HN,Kapelstraat,5,,
-8701HN,Kapelstraat,3,,
-8701HP,Kerkstraat,19,,
-8701HP,Kerkstraat,1,,
-8701HP,Kerkstraat,3,,
-8701HP,Kerkstraat,23,,
-8701HP,Kerkstraat,25,,
-8701HP,Kerkstraat,7,,
-8701HP,Kerkstraat,15,,
-8701HP,Kerkstraat,17,,
-8701HP,Kerkstraat,13,,
-8701HP,Kerkstraat,21,,
-8701HP,Kerkstraat,29,,
-8701HR,Kerkstraat,59,,
-8701HR,Kerkstraat,53,,
-8701HR,Kerkstraat,43,,
-8701HR,Kerkstraat,49,,
-8701HR,Kerkstraat,51,,
-8701HS,Kerkstraat,20,,
-8701HS,Kerkstraat,24,,
-8701HS,Kerkstraat,34,,
-8701HS,Kerkstraat,38,,
-8701HS,Kerkstraat,22,,
-8701HT,Kerkstraat,46,,
-8701HT,Kerkstraat,76,,
-8701HT,Kerkstraat,78,,
-8701HT,Kerkstraat,56,,
-8701HT,Kerkstraat,42,,
-8701HT,Kerkstraat,62,,
-8701HT,Kerkstraat,64,,
-8701HT,Kerkstraat,58,,
-8701HT,Kerkstraat,66,,
-8701HT,Kerkstraat,50,,
-8701HT,Kerkstraat,54,,
-8701HT,Kerkstraat,72,,
-8701HT,Kerkstraat,80,,
-8701KR,Klein Gasthuis,11,,
-8701KR,Klein Gasthuis,2,,
-8701KR,Klein Gasthuis,8,,
-8701KR,Klein Gasthuis,10,,
-8701KR,Klein Gasthuis,13,,
-8701KR,Klein Gasthuis,4,,
-8701KR,Klein Gasthuis,7,A,
-8701KR,Klein Gasthuis,12,,
-8701KR,Klein Gasthuis,3,,
-8701KR,Klein Gasthuis,5,,
-8701KR,Klein Gasthuis,7,,
-8701KS,Klein Gasthuis,23,,
-8701KS,Klein Gasthuis,16,,
-8701KS,Klein Gasthuis,17,,
-8701KS,Klein Gasthuis,15,,
-8701KS,Klein Gasthuis,18,,
-8701KS,Klein Gasthuis,19,,
-8701KS,Klein Gasthuis,20,,
-8701KS,Klein Gasthuis,21,,
-8701KS,Klein Gasthuis,22,,
-8701BB,Klein Hengstepad,3,,
-8701BB,Klein Hengstepad,5,,
-8701BB,Klein Hengstepad,4,,
-8701BB,Klein Hengstepad,6,,
-8701BB,Klein Hengstepad,7,,
-8701HP,Klein Hengstepad,4,,
-8701HP,Klein Hengstepad,6,,
-8701HS,Klein Hengstepad,9,,
-8701HS,Klein Hengstepad,3,,
-8701HS,Klein Hengstepad,5,,
-8701HS,Klein Hengstepad,7,,
-8701HV,Kleine Dijlakker,10,,
-8701HV,Kleine Dijlakker,9,,
-8701HV,Kleine Dijlakker,11,,
-8701HV,Kleine Dijlakker,1,,
-8701HV,Kleine Dijlakker,4,,
-8701HV,Kleine Dijlakker,7,,
-8701HW,Kleine Dijlakker,20,,
-8701HW,Kleine Dijlakker,23,,
-8701HW,Kleine Dijlakker,18,,
-8701HW,Kleine Dijlakker,26,,
-8701HW,Kleine Dijlakker,16,,
-8701HW,Kleine Dijlakker,19,,
-8701HW,Kleine Dijlakker,15,,
-8701HW,Kleine Dijlakker,27,,
-8701HW,Kleine Dijlakker,30,,
-8701HX,Kleine Dijlakker,37,,
-8701HX,Kleine Dijlakker,40,,
-8701HX,Kleine Dijlakker,42,A,
-8701HX,Kleine Dijlakker,43,,
-8701HX,Kleine Dijlakker,44,,
-8701HX,Kleine Dijlakker,33,,
-8701HX,Kleine Dijlakker,39,,
-8701JH,Kleine Hoogstraat,3,,
-8701JH,Kleine Hoogstraat,10,,
-8701JH,Kleine Hoogstraat,11,,
-8701JH,Kleine Hoogstraat,1,,
-8701JH,Kleine Hoogstraat,6,,
-8701JH,Kleine Hoogstraat,7,,
-8701JH,Kleine Hoogstraat,8,,
-8701JH,Kleine Hoogstraat,9,,
-8701HH,Kleine Kampen,4,,
-8701HH,Kleine Kampen,3,,
-8701JW,Kleinzand,10,,
-8701JW,Kleinzand,19,,
-8701JW,Kleinzand,6,,
-8701JW,Kleinzand,3,,
-8701JW,Kleinzand,21,,
-8701JW,Kleinzand,4,,
-8701JW,Kleinzand,5,,
-8701JW,Kleinzand,7,,
-8701JW,Kleinzand,8,,
-8701JW,Kleinzand,20,,
-8701JZ,Klippen,19,,
-8701JZ,Klippen,24,,
-8701JZ,Klippen,13,,
-8701JZ,Klippen,14,,
-8701KP,Laag Bolwerk,14,,
-8701KP,Laag Bolwerk,18,,
-8701KP,Laag Bolwerk,28,,
-8701KP,Laag Bolwerk,32,,
-8701KP,Laag Bolwerk,27,,
-8701KP,Laag Bolwerk,5,,
-8701KP,Laag Bolwerk,31,,
-8701KP,Laag Bolwerk,7,,
-8701KP,Laag Bolwerk,22,,
-8701KP,Laag Bolwerk,23,,
-8701KP,Laag Bolwerk,26,,
-8701KP,Laag Bolwerk,35,,
-8701KP,Laag Bolwerk,13,,
-8701KP,Laag Bolwerk,33,,
-8701KP,Laag Bolwerk,29,,
-8701KP,Laag Bolwerk,25,,
-8701KP,Laag Bolwerk,34,,
-8701KP,Laag Bolwerk,1,,
-8701KT,Laag Bolwerk,45,I,
-8701KT,Laag Bolwerk,45,L,
-8701KT,Laag Bolwerk,45,N,
-8701KT,Laag Bolwerk,75,A,
-8701KT,Laag Bolwerk,67,,
-8701KT,Laag Bolwerk,68,A,
-8701KT,Laag Bolwerk,45,V,
-8701KT,Laag Bolwerk,45,C,
-8701KT,Laag Bolwerk,45,E,
-8701KT,Laag Bolwerk,45,H,
-8701KT,Laag Bolwerk,65,,
-8701KT,Laag Bolwerk,66,,
-8701KT,Laag Bolwerk,71,,
-8701KT,Laag Bolwerk,38,,
-8701KT,Laag Bolwerk,45,Q,
-8701KT,Laag Bolwerk,45,S,
-8701KT,Laag Bolwerk,45,T,
-8701KT,Laag Bolwerk,75,,
-8701KT,Laag Bolwerk,45,J,
-8701KT,Laag Bolwerk,45,P,
-8701KT,Laag Bolwerk,45,R,
-8701KT,Laag Bolwerk,45,B,
-8701KT,Laag Bolwerk,45,D,
-8701KT,Laag Bolwerk,45,F,
-8701KT,Laag Bolwerk,45,G,
-8701KT,Laag Bolwerk,45,K,
-8701KT,Laag Bolwerk,68,,
-8701KT,Laag Bolwerk,75,B,
-8701KT,Laag Bolwerk,64,,
-8701KT,Laag Bolwerk,41,,
-8701KT,Laag Bolwerk,45,O,
-8701KT,Laag Bolwerk,45,U,
-8701KT,Laag Bolwerk,74,,
-8701KT,Laag Bolwerk,45,A,
-8701KT,Laag Bolwerk,45,M,
-8701HD,Looiersbuurt,37,,
-8701HD,Looiersbuurt,7,G,
-8701HD,Looiersbuurt,29,,
-8701HD,Looiersbuurt,53,,
-8701HD,Looiersbuurt,43,,
-8701HD,Looiersbuurt,7,E,
-8701HD,Looiersbuurt,7,I,
-8701HD,Looiersbuurt,7,A,
-8701HD,Looiersbuurt,33,,
-8701HD,Looiersbuurt,7,C,
-8701HD,Looiersbuurt,23,,
-8701HD,Looiersbuurt,35,,
-8701HD,Looiersbuurt,15,,
-8701HD,Looiersbuurt,1,,
-8701HD,Looiersbuurt,3,,
-8701HD,Looiersbuurt,7,D,
-8701HD,Looiersbuurt,7,,
-8701HD,Looiersbuurt,17,,
-8701HD,Looiersbuurt,19,,
-8701HD,Looiersbuurt,7,B,
-8701HE,Looiersbuurt,16,,
-8701HE,Looiersbuurt,22,,
-8701HE,Looiersbuurt,40,,
-8701HE,Looiersbuurt,14,,
-8701HE,Looiersbuurt,46,,
-8701HE,Looiersbuurt,12,,
-8701HE,Looiersbuurt,18,,
-8701HE,Looiersbuurt,20,,
-8701HE,Looiersbuurt,24,,
-8701HE,Looiersbuurt,34,,
-8701HE,Looiersbuurt,44,,
-8701HE,Looiersbuurt,4,,
-8701HE,Looiersbuurt,26,,
-8701HE,Looiersbuurt,30,,
-8701HE,Looiersbuurt,10,,
-8701HE,Looiersbuurt,42,,
-8701HE,Looiersbuurt,48,,
-8701HT,Looiersgracht,1,,
-8701KM,Mariahof,2,,
-8701KM,Mariahof,10,,
-8701KM,Mariahof,8,,
-8701KM,Mariahof,6,,
-8701KN,Mariahof,5,,
-8701KN,Mariahof,7,,
-8701KG,Marktplein,7,,
-8701KG,Marktplein,1,D,
-8701KG,Marktplein,1,C,
-8701KG,Marktplein,2,,
-8701KG,Marktplein,6,,
-8701KG,Marktplein,9,A,
-8701KG,Marktplein,1,,
-8701KG,Marktplein,9,,
-8701KG,Marktplein,4,,
-8701JT,Marktstraat,3,,
-8701JT,Marktstraat,9,A,
-8701JT,Marktstraat,4,,
-8701JT,Marktstraat,2,A,
-8701JT,Marktstraat,5,,
-8701JT,Marktstraat,1,,
-8701JT,Marktstraat,2,,
-8701JT,Marktstraat,6,,
-8701JV,Marktstraat,18,A,
-8701JV,Marktstraat,14,,
-8701JV,Marktstraat,13,,
-8701JV,Marktstraat,17,,
-8701JV,Marktstraat,15,A,
-8701JV,Marktstraat,18,,
-8701KE,Martinushof,1,,
-8701KE,Martinushof,3,,
-8701JN,Nannenhof,2,,
-8701JN,Nannenhof,1,H,
-8701JN,Nannenhof,1,B,
-8701JN,Nannenhof,1,A,
-8701JN,Nannenhof,1,C,
-8701JN,Nannenhof,1,G,
-8701JN,Nannenhof,1,D,
-8701JN,Nannenhof,4,,
-8701JN,Nannenhof,13,,
-8701KK,Nieuwmarkt,33,,
-8701KK,Nieuwmarkt,39,,
-8701KK,Nieuwmarkt,7,A,
-8701KK,Nieuwmarkt,21,,
-8701KK,Nieuwmarkt,31,,
-8701KK,Nieuwmarkt,35,,
-8701KK,Nieuwmarkt,3,A,
-8701KK,Nieuwmarkt,7,B,
-8701KK,Nieuwmarkt,1,A,
-8701KK,Nieuwmarkt,1,A,
-8701KK,Nieuwmarkt,1,A,
-8701KK,Nieuwmarkt,17,,
-8701KK,Nieuwmarkt,29,,
-8701KK,Nieuwmarkt,3,B,
-8701KK,Nieuwmarkt,45,,
-8701KK,Nieuwmarkt,47,,
-8701KK,Nieuwmarkt,1,,
-8701KK,Nieuwmarkt,1,,
-8701KK,Nieuwmarkt,7,,
-8701KK,Nieuwmarkt,9,,
-8701KK,Nieuwmarkt,11,,
-8701KK,Nieuwmarkt,43,,
-8701KK,Nieuwmarkt,49,,
-8701KL,Nieuwmarkt,30,,
-8701KL,Nieuwmarkt,38,D,
-8701KL,Nieuwmarkt,10,,
-8701KL,Nieuwmarkt,14,,
-8701KL,Nieuwmarkt,16,,
-8701KL,Nieuwmarkt,18,,
-8701KL,Nieuwmarkt,2,,
-8701KL,Nieuwmarkt,36,,
-8701KL,Nieuwmarkt,4,D,
-8701KL,Nieuwmarkt,6,F,
-8701KL,Nieuwmarkt,12,,
-8701KL,Nieuwmarkt,28,,
-8701KL,Nieuwmarkt,38,G,
-8701KL,Nieuwmarkt,4,F,
-8701KL,Nieuwmarkt,6,B,
-8701KL,Nieuwmarkt,8,A,
-8701KL,Nieuwmarkt,8,B,
-8701KL,Nieuwmarkt,20,A,
-8701KL,Nieuwmarkt,8,D,
-8701KL,Nieuwmarkt,20,,
-8701KL,Nieuwmarkt,38,A,
-8701KL,Nieuwmarkt,38,H,
-8701KL,Nieuwmarkt,6,E,
-8701KL,Nieuwmarkt,6,G,
-8701KL,Nieuwmarkt,22,,
-8701HB,Plantsoen,5,,
-8701HB,Plantsoen,6,,
-8701HB,Plantsoen,8,,
-8701KJ,Rijkstraat,6,,
-8701KJ,Rijkstraat,2,,
-8701KJ,Rijkstraat,6,A,
-8701KJ,Rijkstraat,4,,
-8701KJ,Rijkstraat,7,,
-8701JA,Schuttershof,4,,
-8701JA,Schuttershof,6,,
-8701JA,Schuttershof,2,,
-8701JD,Schuttershof,7,,
-8701JD,Schuttershof,1,,
-8701KZ,Sint Jansstraat,2,,
-8701KZ,Sint Jansstraat,10,A,
-8701KZ,Sint Jansstraat,10,,
-8701KZ,Sint Jansstraat,1,,
-8701KZ,Sint Jansstraat,6,,
-8701KZ,Sint Jansstraat,8,A,
-8701KZ,Sint Jansstraat,9,,
-8701KZ,Sint Jansstraat,4,,
-8701KZ,Sint Jansstraat,5,,
-8701CM,Sint Jozefstraat,38,,
-8701CM,Sint Jozefstraat,66,,
-8701CM,Sint Jozefstraat,17,,
-8701CM,Sint Jozefstraat,19,,
-8701CM,Sint Jozefstraat,25,,
-8701CM,Sint Jozefstraat,9,,
-8701CM,Sint Jozefstraat,64,,
-8701CM,Sint Jozefstraat,15,,
-8701CM,Sint Jozefstraat,36,,
-8701CM,Sint Jozefstraat,7,,
-8701CM,Sint Jozefstraat,2,A,
-8701CM,Sint Jozefstraat,5,F,
-8701CM,Sint Jozefstraat,26,,
-8701CM,Sint Jozefstraat,29,,
-8701CM,Sint Jozefstraat,6,,
-8701CM,Sint Jozefstraat,5,B,
-8701CM,Sint Jozefstraat,5,C,
-8701CM,Sint Jozefstraat,5,D,
-8701CM,Sint Jozefstraat,42,,
-8701CM,Sint Jozefstraat,44,,
-8701CM,Sint Jozefstraat,60,,
-8701CM,Sint Jozefstraat,16,,
-8701CM,Sint Jozefstraat,24,,
-8701CM,Sint Jozefstraat,28,,
-8701CM,Sint Jozefstraat,8,,
-8701CM,Sint Jozefstraat,5,A,
-8701CM,Sint Jozefstraat,1,,
-8701CM,Sint Jozefstraat,40,,
-8701CM,Sint Jozefstraat,10,,
-8701CM,Sint Jozefstraat,12,,
-8701CM,Sint Jozefstraat,18,,
-8701CM,Sint Jozefstraat,23,,
-8701CM,Sint Jozefstraat,5,E,
-8701KM,Skilwyk,29,,
-8701KM,Skilwyk,7,,
-8701KM,Skilwyk,13,,
-8701KM,Skilwyk,11,,
-8701KM,Skilwyk,25,,
-8701KM,Skilwyk,33,,
-8701KM,Skilwyk,15,,
-8701KN,Skilwyk,2,,
-8701KN,Skilwyk,8,,
-8701KN,Skilwyk,10,,
-8701KN,Skilwyk,6,,
-8701KN,Skilwyk,4,,
-8701KN,Skilwyk,12,,
-8701HK,Snekerpoort,5,,
-8701HK,Snekerpoort,9,,
-8701HK,Snekerpoort,3,,
-8701HK,Snekerpoort,25,,
-8701HK,Snekerpoort,7,,
-8701HK,Snekerpoort,1,,
-8701HK,Snekerpoort,11,,
-8701HK,Snekerpoort,19,,
-8701HK,Snekerpoort,21,,
-8701HL,Snekerpoort,10,,
-8701HL,Snekerpoort,8,A,
-8701HL,Snekerpoort,22,,
-8701HL,Snekerpoort,4,,
-8701HL,Snekerpoort,14,,
-8701HL,Snekerpoort,20,,
-8701HL,Snekerpoort,16,,
-8701HL,Snekerpoort,8,,
-8701JZ,Stoombootkade,3,,
-8701JZ,Stoombootkade,4,,
-8701KA,Stoombootkade,21,,
-8701KA,Stoombootkade,27,,
-8701KA,Stoombootkade,30,,
-8701KA,Stoombootkade,12,,
-8701KA,Stoombootkade,29,,
-8701KA,Stoombootkade,24,,
-8701KA,Stoombootkade,8,A,
-8701KA,Stoombootkade,30,A,
-8701KA,Stoombootkade,34,,
-8701KA,Stoombootkade,8,,
-8701KA,Stoombootkade,23,,
-8701JK,Turfkade,14,,
-8701JK,Turfkade,11,,
-8701JK,Turfkade,4,,
-8701JK,Turfkade,12,,
-8701JK,Turfkade,1,,
-8701JK,Turfkade,2,,
-8701JK,Turfkade,6,,
-8701JK,Turfkade,8,,
-8701JK,Turfkade,13,,
-8701JK,Turfkade,3,,
-8701JL,Turfkade,15,,
-8701JL,Turfkade,21,,
-8701JL,Turfkade,28,,
-8701JL,Turfkade,34,,
-8701JL,Turfkade,16,,
-8701JL,Turfkade,30,,
-8701JL,Turfkade,23,,
-8701JL,Turfkade,31,,
-8701JL,Turfkade,18,,
-8701JL,Turfkade,19,,
-8701JL,Turfkade,20,,
-8701JL,Turfkade,22,,
-8701JL,Turfkade,25,,
-8701JL,Turfkade,26,,
-8701JL,Turfkade,24,,
-8701JL,Turfkade,32,,
-8701JM,Turfkade,36,,
-8701JM,Turfkade,38,,
-8701JM,Turfkade,46,,
-8701JM,Turfkade,48,,
-8701JM,Turfkade,50,,
-8701JM,Turfkade,47,,
-8701JM,Turfkade,53,,
-8701JM,Turfkade,45,,
-8701JM,Turfkade,51,,
-8701JM,Turfkade,40,,
-8701JM,Turfkade,42,,
-8701JM,Turfkade,37,,
-8701HE,Vossepôle,1,,
-8701HE,Vossepôle,1,,
-8701HE,Vossepôle,3,,
-8701HK,Vossepôle,2,,
-8701HK,Vossepôle,4,,
-8701HK,Vossepôle,8,,
-8701HZ,Wipstraat,8,,
-8701HZ,Wipstraat,7,,
-8701HZ,Wipstraat,10,,
-8701HZ,Wipstraat,6,,
-8701JJ,Witherenstraat,1,A,
-8701JJ,Witherenstraat,2,,
-8701JJ,Witherenstraat,31,,
-8701JJ,Witherenstraat,17,,
-8701JJ,Witherenstraat,14,,
-8701JJ,Witherenstraat,18,,
-8701JJ,Witherenstraat,26,,
-8701JJ,Witherenstraat,21,,
-8701JJ,Witherenstraat,23,,
-8701JJ,Witherenstraat,29,,
-8701JJ,Witherenstraat,11,,
-8701JJ,Witherenstraat,3,,
-8701JJ,Witherenstraat,7,,
-8701JJ,Witherenstraat,20,,
-8701JJ,Witherenstraat,24,,
-8701JJ,Witherenstraat,8,,
-8701JP,Gortsteeg,1,,
-8701JP,'t Laag,15,,
-8701JP,'t Laag,15,,
-8701JP,'t Laag,17,,
-8701JP,'t Laag,17,,
-8701JP,'t Laag,20,,
-8701KL,Achter de Smeden,5,,
-8701KH,Appelmarkt,8,A,
-8701KH,Appelmarkt,8,,
-8701KH,Appelmarkt,10,,
-8701KH,Appelmarkt,10,A,
-8701KD,Bargefenne,1,,
-8701KD,Bargefenne,6,,
-8701JC,Broereplein,11,,
-8701JC,Broereplein,11,A,
-8701KT,Brouwerssteeg,3,,
-8701KC,Dijkstraat,29,A,
-8701KC,Dijkstraat,29,B,
-8701KC,Dijkstraat,29,C,
-8701KC,Dijkstraat,41,,
-8701KC,Dijkstraat,41,,
-8701KV,Grote Dijlakker,22,,
-8701KX,Grote Dijlakker,56,,
-8701KX,Grote Dijlakker,41,,
-8701KX,Grote Dijlakker,41,A,
-8701KX,Grote Dijlakker,41,B,
-8701JG,Heeremastraat,11,,
-8701JS,Hoogstraat,12,,
-8701JS,Hoogstraat,50,A,
-8701JA,Jongemastraat,13,A,
-8701JB,Jongemastraat,31,,
-8701JB,Jongemastraat,33,,
-8701JD,Jongemastraat,2,,
-8701JD,Jongemastraat,28,A,
-8701JD,Jongemastraat,26,A,
-8701JD,Jongemastraat,28,B,
-8701JD,Jongemastraat,26,B,
-8701HS,Kerkstraat,2,,
-8701HX,Kleine Dijlakker,44,,
-8701JH,Kleine Hoogstraat,2,,
-8701JH,Kleine Hoogstraat,4,,
-8701JH,Kleine Hoogstraat,2,,
-8701KP,Laag Bolwerk,12,,001
-8701KP,Laag Bolwerk,12,,001
-8701KP,Laag Bolwerk,12,,002
-8701KP,Laag Bolwerk,12,,002
-8701KP,Laag Bolwerk,12,,003
-8701KP,Laag Bolwerk,12,,003
-8701KP,Laag Bolwerk,12,,004
-8701KP,Laag Bolwerk,12,,004
-8701KP,Laag Bolwerk,12,,005
-8701KP,Laag Bolwerk,12,,005
-8701KP,Laag Bolwerk,12,,006
-8701KP,Laag Bolwerk,12,,006
-8701KP,Laag Bolwerk,12,,007
-8701KP,Laag Bolwerk,12,,007
-8701KP,Laag Bolwerk,12,,008
-8701KP,Laag Bolwerk,12,,008
-8701KP,Laag Bolwerk,12,,009
-8701KP,Laag Bolwerk,12,,009
-8701KP,Laag Bolwerk,12,,010
-8701KP,Laag Bolwerk,12,,010
-8701KP,Laag Bolwerk,12,,011
-8701KP,Laag Bolwerk,12,,011
-8701KP,Laag Bolwerk,12,,012a
-8701KP,Laag Bolwerk,12,,012a
-8701KP,Laag Bolwerk,12,,012
-8701KP,Laag Bolwerk,12,,012
-8701KP,Laag Bolwerk,12,,013
-8701KP,Laag Bolwerk,12,,013
-8701KP,Laag Bolwerk,12,,014
-8701KP,Laag Bolwerk,12,,014
-8701KP,Laag Bolwerk,12,,015
-8701KP,Laag Bolwerk,12,,015
-8701KP,Laag Bolwerk,12,,016
-8701KP,Laag Bolwerk,12,,016
-8701KP,Laag Bolwerk,12,,017
-8701KP,Laag Bolwerk,12,,017
-8701KP,Laag Bolwerk,12,,018
-8701KP,Laag Bolwerk,12,,018
-8701KP,Laag Bolwerk,12,,019
-8701KP,Laag Bolwerk,12,,019
-8701KP,Laag Bolwerk,12,,020
-8701KP,Laag Bolwerk,12,,020
-8701KP,Laag Bolwerk,12,,021
-8701KP,Laag Bolwerk,12,,021
-8701KP,Laag Bolwerk,12,,022
-8701KP,Laag Bolwerk,12,,022
-8701KP,Laag Bolwerk,12,,023
-8701KP,Laag Bolwerk,12,,023
-8701KP,Laag Bolwerk,12,,024
-8701KP,Laag Bolwerk,12,,024
-8701KP,Laag Bolwerk,12,,025
-8701KP,Laag Bolwerk,12,,025
-8701KP,Laag Bolwerk,12,,026
-8701KP,Laag Bolwerk,12,,026
-8701KP,Laag Bolwerk,12,,
-8701KP,Laag Bolwerk,12,,
-8701KP,Laag Bolwerk,9,,
-8701KP,Laag Bolwerk,9,,
-8701NA,Lommerdsteeg,1,A,
-8701NA,Lommerdsteeg,1,B,
-8701NA,Lommerdsteeg,1,D,
-8701NA,Lommerdsteeg,1,C,
-8701NA,Lommerdsteeg,1,B,
-8701HD,Looiersbuurt,97,,
-8701HD,Looiersbuurt,99,,
-8701HD,Looiersbuurt,57,,
-8701HD,Looiersbuurt,89,,
-8701HD,Looiersbuurt,107,,
-8701HD,Looiersbuurt,103,,
-8701HD,Looiersbuurt,123,,
-8701HD,Looiersbuurt,105,,
-8701HD,Looiersbuurt,129,,
-8701HD,Looiersbuurt,69,,
-8701HD,Looiersbuurt,63,,
-8701HD,Looiersbuurt,73,,
-8701HD,Looiersbuurt,67,,
-8701HD,Looiersbuurt,115,,
-8701HD,Looiersbuurt,91,,
-8701HD,Looiersbuurt,109,,
-8701HD,Looiersbuurt,71,,
-8701HD,Looiersbuurt,119,,
-8701HD,Looiersbuurt,75,,
-8701HD,Looiersbuurt,81,,
-8701HD,Looiersbuurt,121,,
-8701HD,Looiersbuurt,125,,
-8701HD,Looiersbuurt,93,,
-8701HD,Looiersbuurt,61,,
-8701HD,Looiersbuurt,79,,
-8701HD,Looiersbuurt,117,,
-8701HD,Looiersbuurt,65,,
-8701HD,Looiersbuurt,77,,
-8701HD,Looiersbuurt,101,,
-8701HD,Looiersbuurt,87,,
-8701HD,Looiersbuurt,131,,
-8701HD,Looiersbuurt,85,,
-8701HD,Looiersbuurt,83,,
-8701HD,Looiersbuurt,95,,
-8701HD,Looiersbuurt,127,,
-8701HD,Looiersbuurt,111,,
-8701HD,Looiersbuurt,55,,
-8701HD,Looiersbuurt,59,,
-8701HD,Looiersbuurt,113,,
-8701HD,Looiersbuurt,53,,
-8701HD,Looiersbuurt,53,,
-8701HD,Looiersbuurt,133,,
-8701HD,Looiersbuurt,133,,
-8701KM,Mariahof,12,,
-8701KM,Mariahof,14,,
-8701KN,Mariahof,11,,
-8701KN,Mariahof,12,,
-8701KN,Mariahof,13,,
-8701KN,Mariahof,14,,
-8701KN,Mariahof,15,,
-8701JT,Marktstraat,1,,
-8701JV,Marktstraat,16,,
-8701KK,Nieuwmarkt,5,,
-8701KK,Nieuwmarkt,13,,
-8701KK,Nieuwmarkt,15,,
-8701KK,Nieuwmarkt,15,A,
-8701KK,Nieuwmarkt,15,,
-8701KK,Nieuwmarkt,1,,
-8701KL,Nieuwmarkt,24,,
-8701KL,Nieuwmarkt,24,A,
-8701KL,Nieuwmarkt,24,B,
-8701KL,Nieuwmarkt,24,C,
-8701KM,Skilwyk,37,,
-8701KN,Skilwyk,8,,
-8701KN,Skilwyk,8,A,
-8701HK,Snekerpoort,19,A,
-8701HK,Snekerpoort,13,,
-8701HL,Snekerpoort,14,,
-8701KA,Stoombootkade,31,A,
-8701KA,Stoombootkade,31,A,
-8701JM,Turfkade,41,,
-8701HZ,Wipstraat,1,,
-8701HZ,Wipstraat,1,,
-8701JJ,Witherenstraat,1,,
-8701JJ,Witherenstraat,34,,
-8701JJ,Witherenstraat,20,,
-8701JJ,Witherenstraat,30,,
-8701JJ,Witherenstraat,4,,
-8701JJ,Witherenstraat,2,A,
-8701HL,Kemperhaven,1,,
-8701KC,Bargefenne,6,B,
-8701KD,Bargefenne,11,,
-8701KD,Bargefenne,11,A,
-8701KD,Bargefenne,6,B,
-8701KD,Bargefenne,4,B,
-8701KD,Bargefenne,4,B,
-8701KD,Bargefenne,5,A,
-8701KD,Bargefenne,4,A,
-8701HM,Broerestraat,14,,
-8701KC,Dijkstraat,43,,
-8701JX,Grootzand,2,,101
-8701JX,Grootzand,2,,102
-8701JX,Grootzand,2,,103
-8701JX,Grootzand,2,,104
-8701JX,Grootzand,2,,105
-8701JX,Grootzand,2,,106
-8701JX,Grootzand,2,,201
-8701JX,Grootzand,2,,202
-8701JX,Grootzand,2,,203
-8701JX,Grootzand,2,,204
-8701JX,Grootzand,2,,205
-8701JX,Grootzand,2,,206
-8701JX,Grootzand,2,,207
-8701JX,Grootzand,2,,301
-8701KV,Grote Dijlakker,11,,
-8701KV,Grote Dijlakker,11,A,
-8701KX,Grote Dijlakker,52,,
-8701KX,Grote Dijlakker,52,A,
-8701KX,Grote Dijlakker,52,B,
-8701JM,Heeremahof,2,A,
-8701JG,Heeremastraat,4,,
-8701JS,Hoogstraat,52,,
-8701JS,Hoogstraat,34,,
-8701JC,Jongemastraat,45,A,
-8701JC,Jongemastraat,45,B,
-8701HS,Kerkstraat,30,A,
-8701HS,Kerkstraat,30,B,
-8701HS,Kerkstraat,30,C,
-8701HS,Kerkstraat,30,D,
-8701HS,Kerkstraat,30,E,
-8701KP,Laag Bolwerk,12,,012
-8701KP,Laag Bolwerk,12,,013
-8701KP,Laag Bolwerk,12,,014
-8701KP,Laag Bolwerk,12,,015
-8701HD,Looiersbuurt,63,,
-8701HD,Looiersbuurt,95,,
-8701HD,Looiersbuurt,119,,
-8701KG,Marktplein,7,,
-8701KG,Marktplein,8,,
-8701JT,Marktstraat,9,A,
-8701JT,Marktstraat,9,B,
-8701JT,Marktstraat,9,C,
-8701JT,Marktstraat,9,D,
-8701JV,Marktstraat,17,A,
-8701KK,Nieuwmarkt,1,B,
-8701KK,Nieuwmarkt,51,,
-8701NB,Schuttershof,20,,
-8701NB,Schuttershof,21,,
-8701KM,Skilwyk,23,,
-8701HK,Snekerpoort,15,,
-8701HL,Snekerpoort,14,,
-8701JJ,Witherenstraat,20,,
-8701JJ,Witherenstraat,22,,
-8701MZ,Kemperhaven,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Klein Hengstepad,1,"","",8701BB,Bolsward
+Klein Hengstepad,3,"","",8701BB,Bolsward
+Klein Hengstepad,4,"","",8701BB,Bolsward
+Klein Hengstepad,5,"","",8701BB,Bolsward
+Klein Hengstepad,6,"","",8701BB,Bolsward
+Klein Hengstepad,7,"","",8701BB,Bolsward
+Klein Hengstepad,8,"","",8701BB,Bolsward
+Sint Jozefstraat,1,"","",8701CM,Bolsward
+Sint Jozefstraat,10,"","",8701CM,Bolsward
+Sint Jozefstraat,11,"","",8701CM,Bolsward
+Sint Jozefstraat,12,"","",8701CM,Bolsward
+Sint Jozefstraat,13,"","",8701CM,Bolsward
+Sint Jozefstraat,14,"","",8701CM,Bolsward
+Sint Jozefstraat,15,"","",8701CM,Bolsward
+Sint Jozefstraat,16,"","",8701CM,Bolsward
+Sint Jozefstraat,17,"","",8701CM,Bolsward
+Sint Jozefstraat,18,"","",8701CM,Bolsward
+Sint Jozefstraat,19,"","",8701CM,Bolsward
+Sint Jozefstraat,2,"","",8701CM,Bolsward
+Sint Jozefstraat,2,A,"",8701CM,Bolsward
+Sint Jozefstraat,20,"","",8701CM,Bolsward
+Sint Jozefstraat,21,"","",8701CM,Bolsward
+Sint Jozefstraat,22,"","",8701CM,Bolsward
+Sint Jozefstraat,23,"","",8701CM,Bolsward
+Sint Jozefstraat,24,"","",8701CM,Bolsward
+Sint Jozefstraat,25,"","",8701CM,Bolsward
+Sint Jozefstraat,26,"","",8701CM,Bolsward
+Sint Jozefstraat,27,"","",8701CM,Bolsward
+Sint Jozefstraat,28,"","",8701CM,Bolsward
+Sint Jozefstraat,29,"","",8701CM,Bolsward
+Sint Jozefstraat,30,"","",8701CM,Bolsward
+Sint Jozefstraat,31,"","",8701CM,Bolsward
+Sint Jozefstraat,32,"","",8701CM,Bolsward
+Sint Jozefstraat,34,"","",8701CM,Bolsward
+Sint Jozefstraat,36,"","",8701CM,Bolsward
+Sint Jozefstraat,38,"","",8701CM,Bolsward
+Sint Jozefstraat,4,"","",8701CM,Bolsward
+Sint Jozefstraat,40,"","",8701CM,Bolsward
+Sint Jozefstraat,42,"","",8701CM,Bolsward
+Sint Jozefstraat,44,"","",8701CM,Bolsward
+Sint Jozefstraat,46,"","",8701CM,Bolsward
+Sint Jozefstraat,48,"","",8701CM,Bolsward
+Sint Jozefstraat,5,"","",8701CM,Bolsward
+Sint Jozefstraat,5,A,"",8701CM,Bolsward
+Sint Jozefstraat,5,B,"",8701CM,Bolsward
+Sint Jozefstraat,5,C,"",8701CM,Bolsward
+Sint Jozefstraat,5,D,"",8701CM,Bolsward
+Sint Jozefstraat,5,E,"",8701CM,Bolsward
+Sint Jozefstraat,5,F,"",8701CM,Bolsward
+Sint Jozefstraat,50,"","",8701CM,Bolsward
+Sint Jozefstraat,52,"","",8701CM,Bolsward
+Sint Jozefstraat,54,"","",8701CM,Bolsward
+Sint Jozefstraat,56,"","",8701CM,Bolsward
+Sint Jozefstraat,58,"","",8701CM,Bolsward
+Sint Jozefstraat,6,"","",8701CM,Bolsward
+Sint Jozefstraat,60,"","",8701CM,Bolsward
+Sint Jozefstraat,62,"","",8701CM,Bolsward
+Sint Jozefstraat,64,"","",8701CM,Bolsward
+Sint Jozefstraat,66,"","",8701CM,Bolsward
+Sint Jozefstraat,7,"","",8701CM,Bolsward
+Sint Jozefstraat,8,"","",8701CM,Bolsward
+Sint Jozefstraat,9,"","",8701CM,Bolsward
+Plantsoen,5,"","",8701HB,Bolsward
+Plantsoen,6,"","",8701HB,Bolsward
+Plantsoen,7,"","",8701HB,Bolsward
+Plantsoen,8,"","",8701HB,Bolsward
+Bagijnestraat,11,"","",8701HC,Bolsward
+Bagijnestraat,12,"","",8701HC,Bolsward
+Bagijnestraat,13,"","",8701HC,Bolsward
+Bagijnestraat,14,"","",8701HC,Bolsward
+Bagijnestraat,15,"","",8701HC,Bolsward
+Bagijnestraat,16,"","",8701HC,Bolsward
+Bagijnestraat,17,"","",8701HC,Bolsward
+Bagijnestraat,2,"","",8701HC,Bolsward
+Bagijnestraat,3,"","",8701HC,Bolsward
+Bagijnestraat,4,"","",8701HC,Bolsward
+Bagijnestraat,5,"","",8701HC,Bolsward
+Bagijnestraat,8,"","",8701HC,Bolsward
+Bagijnestraat,9,"","",8701HC,Bolsward
+Looiersbuurt,1,"","",8701HD,Bolsward
+Looiersbuurt,11,"","",8701HD,Bolsward
+Looiersbuurt,13,"","",8701HD,Bolsward
+Looiersbuurt,15,"","",8701HD,Bolsward
+Looiersbuurt,17,"","",8701HD,Bolsward
+Looiersbuurt,19,"","",8701HD,Bolsward
+Looiersbuurt,21,"","",8701HD,Bolsward
+Looiersbuurt,23,"","",8701HD,Bolsward
+Looiersbuurt,25,"","",8701HD,Bolsward
+Looiersbuurt,27,"","",8701HD,Bolsward
+Looiersbuurt,29,"","",8701HD,Bolsward
+Looiersbuurt,3,"","",8701HD,Bolsward
+Looiersbuurt,31,"","",8701HD,Bolsward
+Looiersbuurt,33,"","",8701HD,Bolsward
+Looiersbuurt,35,"","",8701HD,Bolsward
+Looiersbuurt,37,"","",8701HD,Bolsward
+Looiersbuurt,39,"","",8701HD,Bolsward
+Looiersbuurt,41,"","",8701HD,Bolsward
+Looiersbuurt,43,"","",8701HD,Bolsward
+Looiersbuurt,5,"","",8701HD,Bolsward
+Looiersbuurt,53,"","",8701HD,Bolsward
+Looiersbuurt,53,"","",8701HD,Bolsward
+Looiersbuurt,7,"","",8701HD,Bolsward
+Looiersbuurt,7,A,"",8701HD,Bolsward
+Looiersbuurt,7,B,"",8701HD,Bolsward
+Looiersbuurt,7,C,"",8701HD,Bolsward
+Looiersbuurt,7,D,"",8701HD,Bolsward
+Looiersbuurt,7,E,"",8701HD,Bolsward
+Looiersbuurt,7,F,"",8701HD,Bolsward
+Looiersbuurt,7,G,"",8701HD,Bolsward
+Looiersbuurt,7,H,"",8701HD,Bolsward
+Looiersbuurt,7,I,"",8701HD,Bolsward
+Looiersbuurt,9,"","",8701HD,Bolsward
+Vossepôle,1,"","",8701HE,Bolsward
+Vossepôle,1,"","",8701HE,Bolsward
+Looiersbuurt,10,"","",8701HE,Bolsward
+Looiersbuurt,12,"","",8701HE,Bolsward
+Looiersbuurt,14,"","",8701HE,Bolsward
+Looiersbuurt,16,"","",8701HE,Bolsward
+Looiersbuurt,18,"","",8701HE,Bolsward
+Looiersbuurt,2,"","",8701HE,Bolsward
+Looiersbuurt,20,"","",8701HE,Bolsward
+Looiersbuurt,22,"","",8701HE,Bolsward
+Looiersbuurt,24,"","",8701HE,Bolsward
+Looiersbuurt,26,"","",8701HE,Bolsward
+Looiersbuurt,28,"","",8701HE,Bolsward
+Vossepôle,3,"","",8701HE,Bolsward
+Looiersbuurt,30,"","",8701HE,Bolsward
+Looiersbuurt,32,"","",8701HE,Bolsward
+Looiersbuurt,34,"","",8701HE,Bolsward
+Looiersbuurt,36,"","",8701HE,Bolsward
+Looiersbuurt,38,"","",8701HE,Bolsward
+Looiersbuurt,4,"","",8701HE,Bolsward
+Looiersbuurt,40,"","",8701HE,Bolsward
+Looiersbuurt,42,"","",8701HE,Bolsward
+Looiersbuurt,44,"","",8701HE,Bolsward
+Looiersbuurt,46,"","",8701HE,Bolsward
+Looiersbuurt,48,"","",8701HE,Bolsward
+Vossepôle,5,"","",8701HE,Bolsward
+Looiersbuurt,50,"","",8701HE,Bolsward
+Looiersbuurt,6,"","",8701HE,Bolsward
+Vossepôle,7,"","",8701HE,Bolsward
+Looiersbuurt,8,"","",8701HE,Bolsward
+Groot Kerkhof,1,"","",8701HG,Bolsward
+Groot Kerkhof,1,A,"",8701HG,Bolsward
+Groot Kerkhof,10,"","",8701HG,Bolsward
+Groot Kerkhof,11,"","",8701HG,Bolsward
+Groot Kerkhof,12,"","",8701HG,Bolsward
+Groot Kerkhof,13,"","",8701HG,Bolsward
+Groot Kerkhof,14,"","",8701HG,Bolsward
+Groot Kerkhof,15,"","",8701HG,Bolsward
+Groot Kerkhof,16,"","",8701HG,Bolsward
+Groot Kerkhof,17,"","",8701HG,Bolsward
+Groot Kerkhof,18,"","",8701HG,Bolsward
+Groot Kerkhof,19,"","",8701HG,Bolsward
+Groot Kerkhof,2,"","",8701HG,Bolsward
+Groot Kerkhof,20,"","",8701HG,Bolsward
+Groot Kerkhof,21,"","",8701HG,Bolsward
+Groot Kerkhof,22,"","",8701HG,Bolsward
+Groot Kerkhof,23,"","",8701HG,Bolsward
+Groot Kerkhof,24,"","",8701HG,Bolsward
+Groot Kerkhof,25,"","",8701HG,Bolsward
+Groot Kerkhof,26,"","",8701HG,Bolsward
+Groot Kerkhof,3,"","",8701HG,Bolsward
+Groot Kerkhof,4,"","",8701HG,Bolsward
+Groot Kerkhof,5,"","",8701HG,Bolsward
+Groot Kerkhof,9,"","",8701HG,Bolsward
+Grote Kampen,10,"","",8701HH,Bolsward
+Grote Kampen,11,"","",8701HH,Bolsward
+Grote Kampen,12,"","",8701HH,Bolsward
+Grote Kampen,13,"","",8701HH,Bolsward
+Grote Kampen,14,"","",8701HH,Bolsward
+Grote Kampen,15,"","",8701HH,Bolsward
+Grote Kampen,16,"","",8701HH,Bolsward
+Grote Kampen,17,"","",8701HH,Bolsward
+Grote Kampen,18,"","",8701HH,Bolsward
+Kleine Kampen,3,"","",8701HH,Bolsward
+Kleine Kampen,4,"","",8701HH,Bolsward
+Grote Kampen,5,"","",8701HH,Bolsward
+Grote Kampen,6,"","",8701HH,Bolsward
+Grote Kampen,7,"","",8701HH,Bolsward
+Grote Kampen,8,"","",8701HH,Bolsward
+Grote Kampen,9,"","",8701HH,Bolsward
+Hendrik Nanneshof,1,"","",8701HJ,Bolsward
+Hendrik Nanneshof,10,"","",8701HJ,Bolsward
+Hendrik Nanneshof,11,"","",8701HJ,Bolsward
+Hendrik Nanneshof,12,"","",8701HJ,Bolsward
+Hendrik Nanneshof,13,"","",8701HJ,Bolsward
+Hendrik Nanneshof,14,"","",8701HJ,Bolsward
+Hendrik Nanneshof,15,"","",8701HJ,Bolsward
+Hendrik Nanneshof,16,"","",8701HJ,Bolsward
+Hendrik Nanneshof,17,"","",8701HJ,Bolsward
+Hendrik Nanneshof,18,"","",8701HJ,Bolsward
+Hendrik Nanneshof,19,"","",8701HJ,Bolsward
+Hendrik Nanneshof,2,"","",8701HJ,Bolsward
+Hendrik Nanneshof,20,"","",8701HJ,Bolsward
+Hendrik Nanneshof,21,"","",8701HJ,Bolsward
+Hendrik Nanneshof,22,"","",8701HJ,Bolsward
+Hendrik Nanneshof,23,"","",8701HJ,Bolsward
+Hendrik Nanneshof,24,"","",8701HJ,Bolsward
+Hendrik Nanneshof,25,"","",8701HJ,Bolsward
+Hendrik Nanneshof,3,"","",8701HJ,Bolsward
+Hendrik Nanneshof,4,"","",8701HJ,Bolsward
+Hendrik Nanneshof,5,"","",8701HJ,Bolsward
+Hendrik Nanneshof,6,"","",8701HJ,Bolsward
+Hendrik Nanneshof,7,"","",8701HJ,Bolsward
+Hendrik Nanneshof,8,"","",8701HJ,Bolsward
+Hendrik Nanneshof,9,"","",8701HJ,Bolsward
+Snekerpoort,1,"","",8701HK,Bolsward
+Snekerpoort,11,"","",8701HK,Bolsward
+Snekerpoort,19,"","",8701HK,Bolsward
+Vossepôle,2,"","",8701HK,Bolsward
+Snekerpoort,21,"","",8701HK,Bolsward
+Snekerpoort,23,"","",8701HK,Bolsward
+Snekerpoort,25,"","",8701HK,Bolsward
+Snekerpoort,3,"","",8701HK,Bolsward
+Vossepôle,4,"","",8701HK,Bolsward
+Snekerpoort,5,"","",8701HK,Bolsward
+Vossepôle,6,"","",8701HK,Bolsward
+Snekerpoort,7,"","",8701HK,Bolsward
+Vossepôle,8,"","",8701HK,Bolsward
+Snekerpoort,9,"","",8701HK,Bolsward
+Snekerpoort,10,"","",8701HL,Bolsward
+Snekerpoort,10,A,"",8701HL,Bolsward
+Snekerpoort,14,"","",8701HL,Bolsward
+Snekerpoort,14,"","",8701HL,Bolsward
+Snekerpoort,16,"","",8701HL,Bolsward
+Snekerpoort,18,"","",8701HL,Bolsward
+Snekerpoort,20,"","",8701HL,Bolsward
+Snekerpoort,22,"","",8701HL,Bolsward
+Snekerpoort,24,"","",8701HL,Bolsward
+Snekerpoort,4,"","",8701HL,Bolsward
+Snekerpoort,6,"","",8701HL,Bolsward
+Snekerpoort,8,"","",8701HL,Bolsward
+Snekerpoort,8,A,"",8701HL,Bolsward
+Broerestraat,1,"","",8701HM,Bolsward
+Broerestraat,10,"","",8701HM,Bolsward
+Broerestraat,11,"","",8701HM,Bolsward
+Broerestraat,12,"","",8701HM,Bolsward
+Broerestraat,13,"","",8701HM,Bolsward
+Broerestraat,14,"","",8701HM,Bolsward
+Broerestraat,14,"","",8701HM,Bolsward
+Broerestraat,15,"","",8701HM,Bolsward
+Broerestraat,16,"","",8701HM,Bolsward
+Broerestraat,2,"","",8701HM,Bolsward
+Broerestraat,3,"","",8701HM,Bolsward
+Broerestraat,4,"","",8701HM,Bolsward
+Broerestraat,5,"","",8701HM,Bolsward
+Broerestraat,6,"","",8701HM,Bolsward
+Broerestraat,7,"","",8701HM,Bolsward
+Broerestraat,9,"","",8701HM,Bolsward
+Kapelstraat,2,"","",8701HN,Bolsward
+Kapelstraat,3,"","",8701HN,Bolsward
+Kapelstraat,4,"","",8701HN,Bolsward
+Kapelstraat,5,"","",8701HN,Bolsward
+Kerkstraat,1,"","",8701HP,Bolsward
+Kerkstraat,11,"","",8701HP,Bolsward
+Kerkstraat,13,"","",8701HP,Bolsward
+Kerkstraat,15,"","",8701HP,Bolsward
+Kerkstraat,17,"","",8701HP,Bolsward
+Kerkstraat,19,"","",8701HP,Bolsward
+Kerkstraat,21,"","",8701HP,Bolsward
+Kerkstraat,23,"","",8701HP,Bolsward
+Kerkstraat,25,"","",8701HP,Bolsward
+Kerkstraat,27,"","",8701HP,Bolsward
+Kerkstraat,29,"","",8701HP,Bolsward
+Kerkstraat,3,"","",8701HP,Bolsward
+Klein Hengstepad,4,"","",8701HP,Bolsward
+Kerkstraat,5,"","",8701HP,Bolsward
+Klein Hengstepad,6,"","",8701HP,Bolsward
+Kerkstraat,7,"","",8701HP,Bolsward
+Klein Hengstepad,8,"","",8701HP,Bolsward
+Kerkstraat,9,"","",8701HP,Bolsward
+Grote Kampen,1,"","",8701HR,Bolsward
+Grote Kampen,1,A,"",8701HR,Bolsward
+Grote Kampen,1,B,"",8701HR,Bolsward
+Grote Kampen,2,"","",8701HR,Bolsward
+Grote Kampen,3,"","",8701HR,Bolsward
+Grote Kampen,4,"","",8701HR,Bolsward
+Kerkstraat,41,"","",8701HR,Bolsward
+Kerkstraat,43,"","",8701HR,Bolsward
+Kerkstraat,47,"","",8701HR,Bolsward
+Kerkstraat,49,"","",8701HR,Bolsward
+Kerkstraat,51,"","",8701HR,Bolsward
+Kerkstraat,53,"","",8701HR,Bolsward
+Kerkstraat,55,"","",8701HR,Bolsward
+Kerkstraat,57,"","",8701HR,Bolsward
+Kerkstraat,59,"","",8701HR,Bolsward
+Kerkstraat,61,"","",8701HR,Bolsward
+Kerkstraat,61,A,"",8701HR,Bolsward
+Klein Hengstepad,1,"","",8701HS,Bolsward
+Kerkstraat,20,"","",8701HS,Bolsward
+Kerkstraat,22,"","",8701HS,Bolsward
+Kerkstraat,24,"","",8701HS,Bolsward
+Kerkstraat,26,"","",8701HS,Bolsward
+Kerkstraat,28,"","",8701HS,Bolsward
+Klein Hengstepad,3,"","",8701HS,Bolsward
+Kerkstraat,30,"","",8701HS,Bolsward
+Kerkstraat,30,"","",8701HS,Bolsward
+Kerkstraat,32,"","",8701HS,Bolsward
+Kerkstraat,34,"","",8701HS,Bolsward
+Kerkstraat,36,"","",8701HS,Bolsward
+Kerkstraat,38,"","",8701HS,Bolsward
+Klein Hengstepad,5,"","",8701HS,Bolsward
+Klein Hengstepad,7,"","",8701HS,Bolsward
+Klein Hengstepad,9,"","",8701HS,Bolsward
+Looiersgracht,1,"","",8701HT,Bolsward
+Looiersgracht,2,"","",8701HT,Bolsward
+Looiersgracht,3,"","",8701HT,Bolsward
+Kerkstraat,42,"","",8701HT,Bolsward
+Kerkstraat,46,"","",8701HT,Bolsward
+Kerkstraat,48,"","",8701HT,Bolsward
+Kerkstraat,50,"","",8701HT,Bolsward
+Kerkstraat,54,"","",8701HT,Bolsward
+Kerkstraat,56,"","",8701HT,Bolsward
+Kerkstraat,58,"","",8701HT,Bolsward
+Kerkstraat,60,"","",8701HT,Bolsward
+Kerkstraat,62,"","",8701HT,Bolsward
+Kerkstraat,64,"","",8701HT,Bolsward
+Kerkstraat,66,"","",8701HT,Bolsward
+Kerkstraat,72,"","",8701HT,Bolsward
+Kerkstraat,72,A,"",8701HT,Bolsward
+Kerkstraat,76,"","",8701HT,Bolsward
+Kerkstraat,78,"","",8701HT,Bolsward
+Kerkstraat,80,"","",8701HT,Bolsward
+Kerkstraat,82,"","",8701HT,Bolsward
+Kleine Dijlakker,1,"","",8701HV,Bolsward
+Kleine Dijlakker,1,A,"",8701HV,Bolsward
+Kleine Dijlakker,10,"","",8701HV,Bolsward
+Kleine Dijlakker,11,"","",8701HV,Bolsward
+Kleine Dijlakker,12,"","",8701HV,Bolsward
+Kleine Dijlakker,13,"","",8701HV,Bolsward
+Kleine Dijlakker,2,"","",8701HV,Bolsward
+Kleine Dijlakker,3,"","",8701HV,Bolsward
+Kleine Dijlakker,4,"","",8701HV,Bolsward
+Kleine Dijlakker,5,"","",8701HV,Bolsward
+Kleine Dijlakker,7,"","",8701HV,Bolsward
+Kleine Dijlakker,8,"","",8701HV,Bolsward
+Kleine Dijlakker,9,"","",8701HV,Bolsward
+Kleine Dijlakker,14,"","",8701HW,Bolsward
+Kleine Dijlakker,15,"","",8701HW,Bolsward
+Kleine Dijlakker,16,"","",8701HW,Bolsward
+Kleine Dijlakker,17,"","",8701HW,Bolsward
+Kleine Dijlakker,18,"","",8701HW,Bolsward
+Kleine Dijlakker,19,"","",8701HW,Bolsward
+Kleine Dijlakker,20,"","",8701HW,Bolsward
+Kleine Dijlakker,21,"","",8701HW,Bolsward
+Kleine Dijlakker,23,"","",8701HW,Bolsward
+Kleine Dijlakker,24,"","",8701HW,Bolsward
+Kleine Dijlakker,25,"","",8701HW,Bolsward
+Kleine Dijlakker,26,"","",8701HW,Bolsward
+Kleine Dijlakker,27,"","",8701HW,Bolsward
+Kleine Dijlakker,28,"","",8701HW,Bolsward
+Kleine Dijlakker,29,"","",8701HW,Bolsward
+Kleine Dijlakker,30,"","",8701HW,Bolsward
+Hanekopersteeg,6,"","",8701HW,Bolsward
+Hanekopersteeg,6,"","",8701HW,Bolsward
+Hanekopersteeg,7,"","",8701HW,Bolsward
+Hanekopersteeg,7,"","",8701HW,Bolsward
+Hoog Bolwerk,10,"","",8701HX,Bolsward
+Hoog Bolwerk,11,"","",8701HX,Bolsward
+Hoog Bolwerk,12,"","",8701HX,Bolsward
+Hoog Bolwerk,13,"","",8701HX,Bolsward
+Hoog Bolwerk,14,"","",8701HX,Bolsward
+Hoog Bolwerk,15,"","",8701HX,Bolsward
+Hoog Bolwerk,16,"","",8701HX,Bolsward
+Hoog Bolwerk,17,"","",8701HX,Bolsward
+Hoog Bolwerk,18,"","",8701HX,Bolsward
+Hoog Bolwerk,3,"","",8701HX,Bolsward
+Kleine Dijlakker,32,"","",8701HX,Bolsward
+Kleine Dijlakker,33,"","",8701HX,Bolsward
+Kleine Dijlakker,35,"","",8701HX,Bolsward
+Kleine Dijlakker,37,"","",8701HX,Bolsward
+Kleine Dijlakker,38,"","",8701HX,Bolsward
+Kleine Dijlakker,39,"","",8701HX,Bolsward
+Hoog Bolwerk,4,"","",8701HX,Bolsward
+Kleine Dijlakker,40,"","",8701HX,Bolsward
+Kleine Dijlakker,42,A,"",8701HX,Bolsward
+Kleine Dijlakker,43,"","",8701HX,Bolsward
+Kleine Dijlakker,43,"","",8701HX,Bolsward
+Kleine Dijlakker,44,"","",8701HX,Bolsward
+Kleine Dijlakker,44,"","",8701HX,Bolsward
+Kleine Dijlakker,45,"","",8701HX,Bolsward
+Hoog Bolwerk,5,"","",8701HX,Bolsward
+Hoog Bolwerk,6,"","",8701HX,Bolsward
+Hoog Bolwerk,7,"","",8701HX,Bolsward
+Hoog Bolwerk,8,"","",8701HX,Bolsward
+Hoog Bolwerk,9,"","",8701HX,Bolsward
+Wipstraat,10,"","",8701HZ,Bolsward
+Wipstraat,5,"","",8701HZ,Bolsward
+Wipstraat,6,"","",8701HZ,Bolsward
+Wipstraat,7,"","",8701HZ,Bolsward
+Wipstraat,8,"","",8701HZ,Bolsward
+Jongemastraat,1,"","",8701JA,Bolsward
+Jongemastraat,11,"","",8701JA,Bolsward
+Jongemastraat,13,"","",8701JA,Bolsward
+Jongemastraat,15,"","",8701JA,Bolsward
+Jongemastraat,19,"","",8701JA,Bolsward
+Jongemastraat,19,A,"",8701JA,Bolsward
+Schuttershof,2,"","",8701JA,Bolsward
+Schuttershof,4,"","",8701JA,Bolsward
+Jongemastraat,5,"","",8701JA,Bolsward
+Schuttershof,6,"","",8701JA,Bolsward
+Jongemastraat,7,"","",8701JA,Bolsward
+Jongemastraat,9,"","",8701JA,Bolsward
+Jongemastraat,21,"","",8701JB,Bolsward
+Jongemastraat,21,A,"",8701JB,Bolsward
+Jongemastraat,25,"","",8701JB,Bolsward
+Jongemastraat,27,"","",8701JB,Bolsward
+Jongemastraat,29,"","",8701JB,Bolsward
+Hengstepad,3,"","",8701JB,Bolsward
+Jongemastraat,31,"","",8701JB,Bolsward
+Jongemastraat,31,"","",8701JB,Bolsward
+Jongemastraat,35,"","",8701JB,Bolsward
+Jongemastraat,37,"","",8701JB,Bolsward
+Jongemastraat,39,"","",8701JB,Bolsward
+Jongemastraat,41,"","",8701JB,Bolsward
+Jongemastraat,41,"","",8701JB,Bolsward
+Jongemastraat,41,"","",8701JB,Bolsward
+Broereplein,1,"","",8701JC,Bolsward
+Broereplein,10,"","",8701JC,Bolsward
+Broereplein,11,"","",8701JC,Bolsward
+Broereplein,11,"","",8701JC,Bolsward
+Broereplein,2,"","",8701JC,Bolsward
+Broereplein,3,"","",8701JC,Bolsward
+Jongemastraat,45,"","",8701JC,Bolsward
+Jongemastraat,47,"","",8701JC,Bolsward
+Jongemastraat,49,"","",8701JC,Bolsward
+Broereplein,5,"","",8701JC,Bolsward
+Jongemastraat,51,"","",8701JC,Bolsward
+Jongemastraat,53,"","",8701JC,Bolsward
+Broereplein,6,"","",8701JC,Bolsward
+Broereplein,7,"","",8701JC,Bolsward
+Broereplein,9,"","",8701JC,Bolsward
+Schuttershof,1,"","",8701JD,Bolsward
+Jongemastraat,10,"","",8701JD,Bolsward
+Jongemastraat,12,"","",8701JD,Bolsward
+Jongemastraat,12,"","",8701JD,Bolsward
+Jongemastraat,12,A,"",8701JD,Bolsward
+Jongemastraat,14,"","",8701JD,Bolsward
+Jongemastraat,14,"","",8701JD,Bolsward
+Jongemastraat,14,A,"",8701JD,Bolsward
+Jongemastraat,16,"","",8701JD,Bolsward
+Jongemastraat,16,"","",8701JD,Bolsward
+Jongemastraat,16,A,"",8701JD,Bolsward
+Jongemastraat,16,B,"",8701JD,Bolsward
+Jongemastraat,18,"","",8701JD,Bolsward
+Jongemastraat,2,"","",8701JD,Bolsward
+Jongemastraat,2,"","",8701JD,Bolsward
+Jongemastraat,20,"","",8701JD,Bolsward
+Jongemastraat,20,A,"",8701JD,Bolsward
+Jongemastraat,20,B,"",8701JD,Bolsward
+Jongemastraat,22,"","",8701JD,Bolsward
+Jongemastraat,28,"","",8701JD,Bolsward
+Schuttershof,3,"","",8701JD,Bolsward
+Jongemastraat,30,"","",8701JD,Bolsward
+Schuttershof,5,"","",8701JD,Bolsward
+Schuttershof,7,"","",8701JD,Bolsward
+Jongemastraat,8,"","",8701JD,Bolsward
+'t Hof,1,"","",8701JE,Bolsward
+'t Hof,10,"","",8701JE,Bolsward
+'t Hof,12,"","",8701JE,Bolsward
+'t Hof,2,"","",8701JE,Bolsward
+'t Hof,3,"","",8701JE,Bolsward
+'t Hof,4,"","",8701JE,Bolsward
+'t Hof,5,"","",8701JE,Bolsward
+'t Hof,6,"","",8701JE,Bolsward
+'t Hof,7,"","",8701JE,Bolsward
+'t Hof,8,"","",8701JE,Bolsward
+'t Hof,9,"","",8701JE,Bolsward
+Heeremastraat,10,"","",8701JG,Bolsward
+Heeremastraat,2,"","",8701JG,Bolsward
+Heeremastraat,3,"","",8701JG,Bolsward
+Heeremastraat,4,"","",8701JG,Bolsward
+Heeremastraat,4,"","",8701JG,Bolsward
+Heeremastraat,5,"","",8701JG,Bolsward
+Heeremastraat,7,"","",8701JG,Bolsward
+Heeremastraat,8,"","",8701JG,Bolsward
+Kleine Hoogstraat,1,"","",8701JH,Bolsward
+Kleine Hoogstraat,10,"","",8701JH,Bolsward
+Kleine Hoogstraat,11,"","",8701JH,Bolsward
+Kleine Hoogstraat,3,"","",8701JH,Bolsward
+Kleine Hoogstraat,6,"","",8701JH,Bolsward
+Kleine Hoogstraat,7,"","",8701JH,Bolsward
+Kleine Hoogstraat,8,"","",8701JH,Bolsward
+Kleine Hoogstraat,9,"","",8701JH,Bolsward
+Witherenstraat,1,A,"",8701JJ,Bolsward
+Witherenstraat,1,C,"",8701JJ,Bolsward
+Witherenstraat,11,"","",8701JJ,Bolsward
+Witherenstraat,13,"","",8701JJ,Bolsward
+Witherenstraat,14,"","",8701JJ,Bolsward
+Witherenstraat,15,"","",8701JJ,Bolsward
+Witherenstraat,16,"","",8701JJ,Bolsward
+Witherenstraat,17,"","",8701JJ,Bolsward
+Witherenstraat,18,"","",8701JJ,Bolsward
+Witherenstraat,19,"","",8701JJ,Bolsward
+Witherenstraat,2,"","",8701JJ,Bolsward
+Witherenstraat,20,"","",8701JJ,Bolsward
+Witherenstraat,20,"","",8701JJ,Bolsward
+Witherenstraat,20,A,"",8701JJ,Bolsward
+Witherenstraat,20,A,"",8701JJ,Bolsward
+Witherenstraat,21,"","",8701JJ,Bolsward
+Witherenstraat,23,"","",8701JJ,Bolsward
+Witherenstraat,24,"","",8701JJ,Bolsward
+Witherenstraat,25,"","",8701JJ,Bolsward
+Witherenstraat,26,"","",8701JJ,Bolsward
+Witherenstraat,27,"","",8701JJ,Bolsward
+Witherenstraat,29,"","",8701JJ,Bolsward
+Witherenstraat,3,"","",8701JJ,Bolsward
+Witherenstraat,31,"","",8701JJ,Bolsward
+Witherenstraat,5,"","",8701JJ,Bolsward
+Witherenstraat,7,"","",8701JJ,Bolsward
+Witherenstraat,8,"","",8701JJ,Bolsward
+Witherenstraat,9,"","",8701JJ,Bolsward
+Turfkade,1,"","",8701JK,Bolsward
+Turfkade,10,"","",8701JK,Bolsward
+Turfkade,11,"","",8701JK,Bolsward
+Turfkade,12,"","",8701JK,Bolsward
+Turfkade,13,"","",8701JK,Bolsward
+Turfkade,14,"","",8701JK,Bolsward
+Turfkade,2,"","",8701JK,Bolsward
+Turfkade,3,"","",8701JK,Bolsward
+Turfkade,4,"","",8701JK,Bolsward
+Turfkade,5,"","",8701JK,Bolsward
+Turfkade,6,"","",8701JK,Bolsward
+Turfkade,7,"","",8701JK,Bolsward
+Turfkade,8,"","",8701JK,Bolsward
+Turfkade,9,"","",8701JK,Bolsward
+Turfkade,15,"","",8701JL,Bolsward
+Turfkade,16,"","",8701JL,Bolsward
+Turfkade,17,"","",8701JL,Bolsward
+Turfkade,18,"","",8701JL,Bolsward
+Turfkade,19,"","",8701JL,Bolsward
+Turfkade,20,"","",8701JL,Bolsward
+Turfkade,21,"","",8701JL,Bolsward
+Turfkade,22,"","",8701JL,Bolsward
+Turfkade,23,"","",8701JL,Bolsward
+Turfkade,24,"","",8701JL,Bolsward
+Turfkade,25,"","",8701JL,Bolsward
+Turfkade,26,"","",8701JL,Bolsward
+Turfkade,27,"","",8701JL,Bolsward
+Turfkade,28,"","",8701JL,Bolsward
+Turfkade,29,"","",8701JL,Bolsward
+Turfkade,30,"","",8701JL,Bolsward
+Turfkade,31,"","",8701JL,Bolsward
+Turfkade,32,"","",8701JL,Bolsward
+Turfkade,33,"","",8701JL,Bolsward
+Turfkade,34,"","",8701JL,Bolsward
+Heeremahof,10,"","",8701JM,Bolsward
+Heeremahof,12,"","",8701JM,Bolsward
+Heeremahof,2,"","",8701JM,Bolsward
+Turfkade,35,"","",8701JM,Bolsward
+Turfkade,36,"","",8701JM,Bolsward
+Turfkade,37,"","",8701JM,Bolsward
+Turfkade,38,"","",8701JM,Bolsward
+Turfkade,39,"","",8701JM,Bolsward
+Heeremahof,4,"","",8701JM,Bolsward
+Turfkade,40,"","",8701JM,Bolsward
+Turfkade,42,"","",8701JM,Bolsward
+Turfkade,43,"","",8701JM,Bolsward
+Turfkade,44,"","",8701JM,Bolsward
+Turfkade,45,"","",8701JM,Bolsward
+Turfkade,46,"","",8701JM,Bolsward
+Turfkade,47,"","",8701JM,Bolsward
+Turfkade,48,"","",8701JM,Bolsward
+Turfkade,50,"","",8701JM,Bolsward
+Turfkade,51,"","",8701JM,Bolsward
+Turfkade,53,"","",8701JM,Bolsward
+Heeremahof,6,"","",8701JM,Bolsward
+Heeremahof,8,"","",8701JM,Bolsward
+Nannenhof,1,A,"",8701JN,Bolsward
+Nannenhof,1,B,"",8701JN,Bolsward
+Nannenhof,1,C,"",8701JN,Bolsward
+Nannenhof,1,D,"",8701JN,Bolsward
+Nannenhof,1,E,"",8701JN,Bolsward
+Nannenhof,1,F,"",8701JN,Bolsward
+Nannenhof,1,G,"",8701JN,Bolsward
+Nannenhof,1,H,"",8701JN,Bolsward
+Nannenhof,10,"","",8701JN,Bolsward
+Nannenhof,11,"","",8701JN,Bolsward
+Nannenhof,13,"","",8701JN,Bolsward
+Nannenhof,14,"","",8701JN,Bolsward
+Nannenhof,2,"","",8701JN,Bolsward
+Nannenhof,3,"","",8701JN,Bolsward
+Nannenhof,4,"","",8701JN,Bolsward
+Nannenhof,6,"","",8701JN,Bolsward
+Nannenhof,8,"","",8701JN,Bolsward
+Nannenhof,9,"","",8701JN,Bolsward
+Gortsteeg,1,"","",8701JP,Bolsward
+'t Laag,10,"","",8701JP,Bolsward
+'t Laag,14,"","",8701JP,Bolsward
+'t Laag,18,"","",8701JP,Bolsward
+'t Laag,21,"","",8701JP,Bolsward
+'t Laag,23,"","",8701JP,Bolsward
+'t Laag,24,"","",8701JP,Bolsward
+'t Laag,25,"","",8701JP,Bolsward
+'t Laag,27,"","",8701JP,Bolsward
+'t Laag,29,"","",8701JP,Bolsward
+'t Laag,3,"","",8701JP,Bolsward
+'t Laag,33,"","",8701JP,Bolsward
+'t Laag,34,"","",8701JP,Bolsward
+'t Laag,37,"","",8701JP,Bolsward
+'t Laag,38,"","",8701JP,Bolsward
+'t Laag,42,"","",8701JP,Bolsward
+'t Laag,46,"","",8701JP,Bolsward
+'t Laag,48,"","",8701JP,Bolsward
+'t Laag,5,"","",8701JP,Bolsward
+'t Laag,6,"","",8701JP,Bolsward
+'t Laag,7,"","",8701JP,Bolsward
+Hoogstraat,1,"","",8701JR,Bolsward
+Elandslaagte,10,"","",8701JR,Bolsward
+Hoogstraat,11,"","",8701JR,Bolsward
+Elandslaagte,12,"","",8701JR,Bolsward
+Hoogstraat,13,"","",8701JR,Bolsward
+Hoogstraat,13,"","",8701JR,Bolsward
+Elandslaagte,14,"","",8701JR,Bolsward
+Hoogstraat,15,"","",8701JR,Bolsward
+Elandslaagte,16,"","",8701JR,Bolsward
+Hoogstraat,17,"","",8701JR,Bolsward
+Elandslaagte,18,"","",8701JR,Bolsward
+Hoogstraat,19,"","",8701JR,Bolsward
+Elandslaagte,2,"","",8701JR,Bolsward
+Elandslaagte,20,"","",8701JR,Bolsward
+Hoogstraat,21,"","",8701JR,Bolsward
+Hoogstraat,23,"","",8701JR,Bolsward
+Hoogstraat,25,"","",8701JR,Bolsward
+Hoogstraat,27,"","",8701JR,Bolsward
+Hoogstraat,29,"","",8701JR,Bolsward
+Hoogstraat,3,"","",8701JR,Bolsward
+Hoogstraat,31,"","",8701JR,Bolsward
+Hoogstraat,33,"","",8701JR,Bolsward
+Hoogstraat,35,"","",8701JR,Bolsward
+Hoogstraat,37,"","",8701JR,Bolsward
+Hoogstraat,39,"","",8701JR,Bolsward
+Hoogstraat,41,"","",8701JR,Bolsward
+Hoogstraat,43,"","",8701JR,Bolsward
+Hoogstraat,49,"","",8701JR,Bolsward
+Hoogstraat,5,"","",8701JR,Bolsward
+Elandslaagte,6,"","",8701JR,Bolsward
+Hoogstraat,7,"","",8701JR,Bolsward
+Hoogstraat,9,"","",8701JR,Bolsward
+Elandslaagte,1,"","",8701JS,Bolsward
+Elandslaagte,11,"","",8701JS,Bolsward
+Elandslaagte,15,"","",8701JS,Bolsward
+Hoogstraat,16,"","",8701JS,Bolsward
+Hoogstraat,18,"","",8701JS,Bolsward
+Elandslaagte,2,"","",8701JS,Bolsward
+Hoogstraat,20,"","",8701JS,Bolsward
+Hoogstraat,22,"","",8701JS,Bolsward
+Hoogstraat,24,"","",8701JS,Bolsward
+Hoogstraat,26,"","",8701JS,Bolsward
+Hoogstraat,28,"","",8701JS,Bolsward
+Elandslaagte,3,"","",8701JS,Bolsward
+Hoogstraat,32,"","",8701JS,Bolsward
+Hoogstraat,36,"","",8701JS,Bolsward
+Hoogstraat,42,"","",8701JS,Bolsward
+Hoogstraat,46,"","",8701JS,Bolsward
+Elandslaagte,5,"","",8701JS,Bolsward
+Hoogstraat,50,"","",8701JS,Bolsward
+Hoogstraat,54,"","",8701JS,Bolsward
+Hoogstraat,8,"","",8701JS,Bolsward
+Elandslaagte,9,"","",8701JS,Bolsward
+Marktstraat,1,"","",8701JT,Bolsward
+Marktstraat,1,"","",8701JT,Bolsward
+Marktstraat,10,"","",8701JT,Bolsward
+Marktstraat,2,"","",8701JT,Bolsward
+Marktstraat,2,A,"",8701JT,Bolsward
+Marktstraat,3,"","",8701JT,Bolsward
+Marktstraat,4,"","",8701JT,Bolsward
+Marktstraat,5,"","",8701JT,Bolsward
+Marktstraat,6,"","",8701JT,Bolsward
+Marktstraat,8,"","",8701JT,Bolsward
+Marktstraat,9,"","",8701JT,Bolsward
+Marktstraat,9,A,"",8701JT,Bolsward
+Marktstraat,9,A,"",8701JT,Bolsward
+Marktstraat,11,"","",8701JV,Bolsward
+Marktstraat,12,"","",8701JV,Bolsward
+Marktstraat,13,"","",8701JV,Bolsward
+Marktstraat,14,"","",8701JV,Bolsward
+Marktstraat,15,"","",8701JV,Bolsward
+Marktstraat,15,A,"",8701JV,Bolsward
+Marktstraat,16,"","",8701JV,Bolsward
+Marktstraat,16,"","",8701JV,Bolsward
+Marktstraat,17,"","",8701JV,Bolsward
+Marktstraat,18,"","",8701JV,Bolsward
+Marktstraat,18,A,"",8701JV,Bolsward
+Kleinzand,10,"","",8701JW,Bolsward
+Kleinzand,17,"","",8701JW,Bolsward
+Kleinzand,19,"","",8701JW,Bolsward
+Kleinzand,2,"","",8701JW,Bolsward
+Kleinzand,20,"","",8701JW,Bolsward
+Kleinzand,21,"","",8701JW,Bolsward
+Kleinzand,3,"","",8701JW,Bolsward
+Kleinzand,4,"","",8701JW,Bolsward
+Kleinzand,5,"","",8701JW,Bolsward
+Kleinzand,6,"","",8701JW,Bolsward
+Kleinzand,7,"","",8701JW,Bolsward
+Kleinzand,8,"","",8701JW,Bolsward
+Grootzand,10,"","",8701JX,Bolsward
+Grootzand,11,"","",8701JX,Bolsward
+Grootzand,13,"","",8701JX,Bolsward
+Grootzand,14,"","",8701JX,Bolsward
+Grootzand,15,"","",8701JX,Bolsward
+Grootzand,17,"","",8701JX,Bolsward
+Grootzand,19,"","",8701JX,Bolsward
+Grootzand,20,"","",8701JX,Bolsward
+Grootzand,21,"","",8701JX,Bolsward
+Grootzand,22,"","",8701JX,Bolsward
+Grootzand,23,"","",8701JX,Bolsward
+Grootzand,24,"","",8701JX,Bolsward
+Grootzand,25,"","",8701JX,Bolsward
+Grootzand,26,"","",8701JX,Bolsward
+Grootzand,27,"","",8701JX,Bolsward
+Grootzand,28,"","",8701JX,Bolsward
+Grootzand,29,"","",8701JX,Bolsward
+Grootzand,30,"","",8701JX,Bolsward
+Grootzand,31,"","",8701JX,Bolsward
+Grootzand,4,"","",8701JX,Bolsward
+Grootzand,5,"","",8701JX,Bolsward
+Grootzand,6,"","",8701JX,Bolsward
+Grootzand,7,"","",8701JX,Bolsward
+Grootzand,8,"","",8701JX,Bolsward
+Grootzand,9,"","",8701JX,Bolsward
+Klippen,13,"","",8701JZ,Bolsward
+Klippen,14,"","",8701JZ,Bolsward
+Klippen,19,"","",8701JZ,Bolsward
+Stoombootkade,2,"","",8701JZ,Bolsward
+Klippen,23,"","",8701JZ,Bolsward
+Klippen,24,"","",8701JZ,Bolsward
+Stoombootkade,3,"","",8701JZ,Bolsward
+Stoombootkade,4,"","",8701JZ,Bolsward
+Stoombootkade,5,"","",8701JZ,Bolsward
+Stoombootkade,10,"","",8701KA,Bolsward
+Stoombootkade,11,"","",8701KA,Bolsward
+Stoombootkade,12,"","",8701KA,Bolsward
+Stoombootkade,21,"","",8701KA,Bolsward
+Stoombootkade,22,"","",8701KA,Bolsward
+Stoombootkade,23,"","",8701KA,Bolsward
+Stoombootkade,24,"","",8701KA,Bolsward
+Stoombootkade,25,"","",8701KA,Bolsward
+Stoombootkade,26,"","",8701KA,Bolsward
+Stoombootkade,27,"","",8701KA,Bolsward
+Stoombootkade,29,"","",8701KA,Bolsward
+Stoombootkade,30,"","",8701KA,Bolsward
+Stoombootkade,30,A,"",8701KA,Bolsward
+Stoombootkade,31,"","",8701KA,Bolsward
+Stoombootkade,31,"","",8701KA,Bolsward
+Stoombootkade,31,"","",8701KA,Bolsward
+Stoombootkade,32,"","",8701KA,Bolsward
+Stoombootkade,32,"","",8701KA,Bolsward
+Stoombootkade,32,"","",8701KA,Bolsward
+Stoombootkade,34,"","",8701KA,Bolsward
+Stoombootkade,7,"","",8701KA,Bolsward
+Stoombootkade,8,"","",8701KA,Bolsward
+Stoombootkade,8,A,"",8701KA,Bolsward
+Stoombootkade,9,"","",8701KA,Bolsward
+Dijkstraat,10,A,"",8701KB,Bolsward
+Dijkstraat,10,B,"",8701KB,Bolsward
+Dijkstraat,10,C,"",8701KB,Bolsward
+Dijkstraat,10,D,"",8701KB,Bolsward
+Dijkstraat,12,"","",8701KB,Bolsward
+Dijkstraat,13,"","",8701KB,Bolsward
+Dijkstraat,15,"","",8701KB,Bolsward
+Dijkstraat,17,"","",8701KB,Bolsward
+Dijkstraat,19,"","",8701KB,Bolsward
+Dijkstraat,21,"","",8701KB,Bolsward
+Dijkstraat,21,A,"",8701KB,Bolsward
+Dijkstraat,3,"","",8701KB,Bolsward
+Dijkstraat,5,"","",8701KB,Bolsward
+Dijkstraat,6,"","",8701KB,Bolsward
+Dijkstraat,7,"","",8701KB,Bolsward
+Dijkstraat,8,"","",8701KB,Bolsward
+Dijkstraat,9,"","",8701KB,Bolsward
+Martinushof,2,"","",8701KC,Bolsward
+Dijkstraat,23,"","",8701KC,Bolsward
+Dijkstraat,25,"","",8701KC,Bolsward
+Dijkstraat,27,"","",8701KC,Bolsward
+Dijkstraat,27,A,"",8701KC,Bolsward
+Dijkstraat,27,B,"",8701KC,Bolsward
+Dijkstraat,29,"","",8701KC,Bolsward
+Dijkstraat,29,A,"",8701KC,Bolsward
+Dijkstraat,29,A,"",8701KC,Bolsward
+Dijkstraat,31,"","",8701KC,Bolsward
+Dijkstraat,33,"","",8701KC,Bolsward
+Dijkstraat,39,"","",8701KC,Bolsward
+Dijkstraat,39,A,"",8701KC,Bolsward
+Martinushof,4,"","",8701KC,Bolsward
+Dijkstraat,41,"","",8701KC,Bolsward
+Dijkstraat,41,"","",8701KC,Bolsward
+Dijkstraat,43,"","",8701KC,Bolsward
+Dijkstraat,43,"","",8701KC,Bolsward
+Dijkstraat,45,"","",8701KC,Bolsward
+Dijkstraat,45,"","",8701KC,Bolsward
+Dijkstraat,47,"","",8701KC,Bolsward
+Martinushof,6,"","",8701KC,Bolsward
+Martinushof,8,"","",8701KC,Bolsward
+Bargefenne,10,"","",8701KD,Bolsward
+Bargefenne,11,"","",8701KD,Bolsward
+Bargefenne,11,"","",8701KD,Bolsward
+Bargefenne,12,"","",8701KD,Bolsward
+Bargefenne,13,"","",8701KD,Bolsward
+Bargefenne,13,"","",8701KD,Bolsward
+Bargefenne,14,"","",8701KD,Bolsward
+Bargefenne,14,A,"",8701KD,Bolsward
+Bargefenne,15,"","",8701KD,Bolsward
+Bargefenne,17,"","",8701KD,Bolsward
+Bargefenne,2,"","",8701KD,Bolsward
+Bargefenne,3,"","",8701KD,Bolsward
+Bargefenne,4,"","",8701KD,Bolsward
+Bargefenne,5,"","",8701KD,Bolsward
+Bargefenne,6,A,"",8701KD,Bolsward
+Bargefenne,7,"","",8701KD,Bolsward
+Bargefenne,7,A,"",8701KD,Bolsward
+Martinushof,1,"","",8701KE,Bolsward
+Achter de Smeden,10,"","",8701KE,Bolsward
+Achter de Smeden,12,"","",8701KE,Bolsward
+Achter de Smeden,14,"","",8701KE,Bolsward
+Achter de Smeden,2,"","",8701KE,Bolsward
+Achter de Smeden,2,A,"",8701KE,Bolsward
+Martinushof,3,"","",8701KE,Bolsward
+Achter de Smeden,4,"","",8701KE,Bolsward
+Martinushof,5,"","",8701KE,Bolsward
+Achter de Smeden,6,"","",8701KE,Bolsward
+Achter de Smeden,6,A,"",8701KE,Bolsward
+Martinushof,7,"","",8701KE,Bolsward
+Achter de Smeden,8,"","",8701KE,Bolsward
+Martinushof,9,"","",8701KE,Bolsward
+Marktplein,1,"","",8701KG,Bolsward
+Marktplein,1,A,"",8701KG,Bolsward
+Marktplein,1,B,"",8701KG,Bolsward
+Marktplein,1,B,"",8701KG,Bolsward
+Marktplein,1,C,"",8701KG,Bolsward
+Marktplein,1,C,"",8701KG,Bolsward
+Marktplein,1,D,"",8701KG,Bolsward
+Marktplein,1,D,"",8701KG,Bolsward
+Marktplein,10,"","",8701KG,Bolsward
+Marktplein,2,"","",8701KG,Bolsward
+Marktplein,3,"","",8701KG,Bolsward
+Marktplein,4,"","",8701KG,Bolsward
+Marktplein,5,"","",8701KG,Bolsward
+Marktplein,6,"","",8701KG,Bolsward
+Marktplein,7,"","",8701KG,Bolsward
+Marktplein,7,"","",8701KG,Bolsward
+Marktplein,8,"","",8701KG,Bolsward
+Marktplein,8,"","",8701KG,Bolsward
+Marktplein,9,"","",8701KG,Bolsward
+Marktplein,9,A,"",8701KG,Bolsward
+Appelmarkt,1,"","",8701KH,Bolsward
+Appelmarkt,10,"","",8701KH,Bolsward
+Appelmarkt,10,"","",8701KH,Bolsward
+Appelmarkt,11,"","",8701KH,Bolsward
+Appelmarkt,12,"","",8701KH,Bolsward
+Appelmarkt,13,"","",8701KH,Bolsward
+Appelmarkt,13,"","",8701KH,Bolsward
+Appelmarkt,14,"","",8701KH,Bolsward
+Appelmarkt,14,A,"",8701KH,Bolsward
+Appelmarkt,15,"","",8701KH,Bolsward
+Appelmarkt,15,A,"",8701KH,Bolsward
+Appelmarkt,16,"","",8701KH,Bolsward
+Appelmarkt,16,A,"",8701KH,Bolsward
+Appelmarkt,2,"","",8701KH,Bolsward
+Appelmarkt,3,"","",8701KH,Bolsward
+Appelmarkt,4,"","",8701KH,Bolsward
+Appelmarkt,4,A,"",8701KH,Bolsward
+Appelmarkt,5,"","",8701KH,Bolsward
+Appelmarkt,5,A,"",8701KH,Bolsward
+Appelmarkt,6,"","",8701KH,Bolsward
+Appelmarkt,7,"","",8701KH,Bolsward
+Appelmarkt,8,"","",8701KH,Bolsward
+Appelmarkt,8,"","",8701KH,Bolsward
+Appelmarkt,9,"","",8701KH,Bolsward
+Rijkstraat,2,"","",8701KJ,Bolsward
+Rijkstraat,3,"","",8701KJ,Bolsward
+Rijkstraat,4,"","",8701KJ,Bolsward
+Rijkstraat,4,A,"",8701KJ,Bolsward
+Rijkstraat,6,"","",8701KJ,Bolsward
+Rijkstraat,6,A,"",8701KJ,Bolsward
+Rijkstraat,7,"","",8701KJ,Bolsward
+Nieuwmarkt,1,"","",8701KK,Bolsward
+Nieuwmarkt,1,"","",8701KK,Bolsward
+Nieuwmarkt,1,"","",8701KK,Bolsward
+Nieuwmarkt,1,A,"",8701KK,Bolsward
+Nieuwmarkt,1,A,"",8701KK,Bolsward
+Nieuwmarkt,1,A,"",8701KK,Bolsward
+Nieuwmarkt,1,A,"",8701KK,Bolsward
+Nieuwmarkt,1,A,"",8701KK,Bolsward
+Nieuwmarkt,1,B,"",8701KK,Bolsward
+Nieuwmarkt,1,B,"",8701KK,Bolsward
+Nieuwmarkt,11,"","",8701KK,Bolsward
+Nieuwmarkt,17,"","",8701KK,Bolsward
+Nieuwmarkt,19,"","",8701KK,Bolsward
+Lommerdsteeg,2,A,"",8701KK,Bolsward
+Nieuwmarkt,21,"","",8701KK,Bolsward
+Nieuwmarkt,29,"","",8701KK,Bolsward
+Nieuwmarkt,3,A,"",8701KK,Bolsward
+Nieuwmarkt,3,B,"",8701KK,Bolsward
+Nieuwmarkt,31,"","",8701KK,Bolsward
+Nieuwmarkt,33,"","",8701KK,Bolsward
+Nieuwmarkt,35,"","",8701KK,Bolsward
+Nieuwmarkt,37,"","",8701KK,Bolsward
+Nieuwmarkt,39,"","",8701KK,Bolsward
+Nieuwmarkt,41,"","",8701KK,Bolsward
+Nieuwmarkt,43,"","",8701KK,Bolsward
+Nieuwmarkt,45,"","",8701KK,Bolsward
+Nieuwmarkt,47,"","",8701KK,Bolsward
+Nieuwmarkt,49,"","",8701KK,Bolsward
+Nieuwmarkt,7,"","",8701KK,Bolsward
+Nieuwmarkt,7,A,"",8701KK,Bolsward
+Nieuwmarkt,7,B,"",8701KK,Bolsward
+Nieuwmarkt,9,"","",8701KK,Bolsward
+Nieuwmarkt,10,"","",8701KL,Bolsward
+Nieuwmarkt,12,"","",8701KL,Bolsward
+Nieuwmarkt,12,A,"",8701KL,Bolsward
+Nieuwmarkt,14,"","",8701KL,Bolsward
+Nieuwmarkt,16,"","",8701KL,Bolsward
+Nieuwmarkt,18,"","",8701KL,Bolsward
+Nieuwmarkt,2,"","",8701KL,Bolsward
+Nieuwmarkt,20,"","",8701KL,Bolsward
+Nieuwmarkt,20,A,"",8701KL,Bolsward
+Nieuwmarkt,22,"","",8701KL,Bolsward
+Nieuwmarkt,24,"","",8701KL,Bolsward
+Nieuwmarkt,24,"","",8701KL,Bolsward
+Nieuwmarkt,24,"","",8701KL,Bolsward
+Nieuwmarkt,26,"","",8701KL,Bolsward
+Nieuwmarkt,28,"","",8701KL,Bolsward
+Achter de Smeden,3,"","",8701KL,Bolsward
+Nieuwmarkt,30,"","",8701KL,Bolsward
+Nieuwmarkt,32,"","",8701KL,Bolsward
+Nieuwmarkt,34,"","",8701KL,Bolsward
+Nieuwmarkt,36,"","",8701KL,Bolsward
+Nieuwmarkt,38,A,"",8701KL,Bolsward
+Nieuwmarkt,38,B,"",8701KL,Bolsward
+Nieuwmarkt,38,C,"",8701KL,Bolsward
+Nieuwmarkt,38,D,"",8701KL,Bolsward
+Nieuwmarkt,38,E,"",8701KL,Bolsward
+Nieuwmarkt,38,F,"",8701KL,Bolsward
+Nieuwmarkt,38,G,"",8701KL,Bolsward
+Nieuwmarkt,38,H,"",8701KL,Bolsward
+Nieuwmarkt,4,A,"",8701KL,Bolsward
+Nieuwmarkt,4,B,"",8701KL,Bolsward
+Nieuwmarkt,4,C,"",8701KL,Bolsward
+Nieuwmarkt,4,D,"",8701KL,Bolsward
+Nieuwmarkt,4,E,"",8701KL,Bolsward
+Nieuwmarkt,4,F,"",8701KL,Bolsward
+Nieuwmarkt,6,A,"",8701KL,Bolsward
+Nieuwmarkt,6,B,"",8701KL,Bolsward
+Nieuwmarkt,6,C,"",8701KL,Bolsward
+Nieuwmarkt,6,D,"",8701KL,Bolsward
+Nieuwmarkt,6,E,"",8701KL,Bolsward
+Nieuwmarkt,6,F,"",8701KL,Bolsward
+Nieuwmarkt,6,G,"",8701KL,Bolsward
+Nieuwmarkt,8,A,"",8701KL,Bolsward
+Nieuwmarkt,8,B,"",8701KL,Bolsward
+Nieuwmarkt,8,C,"",8701KL,Bolsward
+Nieuwmarkt,8,D,"",8701KL,Bolsward
+Nieuwmarkt,8,E,"",8701KL,Bolsward
+Mariahof,10,"","",8701KM,Bolsward
+Skilwyk,11,"","",8701KM,Bolsward
+Skilwyk,13,"","",8701KM,Bolsward
+Skilwyk,15,"","",8701KM,Bolsward
+Mariahof,2,"","",8701KM,Bolsward
+Skilwyk,25,"","",8701KM,Bolsward
+Skilwyk,27,"","",8701KM,Bolsward
+Skilwyk,29,"","",8701KM,Bolsward
+Skilwyk,33,"","",8701KM,Bolsward
+Mariahof,4,"","",8701KM,Bolsward
+Mariahof,6,"","",8701KM,Bolsward
+Skilwyk,7,"","",8701KM,Bolsward
+Mariahof,8,"","",8701KM,Bolsward
+Mariahof,1,"","",8701KN,Bolsward
+Skilwyk,10,"","",8701KN,Bolsward
+Skilwyk,12,"","",8701KN,Bolsward
+Skilwyk,2,"","",8701KN,Bolsward
+Skilwyk,2,A,"",8701KN,Bolsward
+Mariahof,3,"","",8701KN,Bolsward
+Skilwyk,4,"","",8701KN,Bolsward
+Mariahof,5,"","",8701KN,Bolsward
+Skilwyk,6,"","",8701KN,Bolsward
+Mariahof,7,"","",8701KN,Bolsward
+Skilwyk,8,"","",8701KN,Bolsward
+Skilwyk,8,"","",8701KN,Bolsward
+Mariahof,9,"","",8701KN,Bolsward
+Laag Bolwerk,1,"","",8701KP,Bolsward
+Laag Bolwerk,10,"","",8701KP,Bolsward
+Laag Bolwerk,12,"","",8701KP,Bolsward
+Laag Bolwerk,12,"","",8701KP,Bolsward
+Laag Bolwerk,13,"","",8701KP,Bolsward
+Laag Bolwerk,14,"","",8701KP,Bolsward
+Laag Bolwerk,18,"","",8701KP,Bolsward
+Laag Bolwerk,19,"","",8701KP,Bolsward
+Laag Bolwerk,20,"","",8701KP,Bolsward
+Laag Bolwerk,21,"","",8701KP,Bolsward
+Laag Bolwerk,22,"","",8701KP,Bolsward
+Laag Bolwerk,23,"","",8701KP,Bolsward
+Laag Bolwerk,24,"","",8701KP,Bolsward
+Laag Bolwerk,25,"","",8701KP,Bolsward
+Laag Bolwerk,26,"","",8701KP,Bolsward
+Laag Bolwerk,27,"","",8701KP,Bolsward
+Laag Bolwerk,28,"","",8701KP,Bolsward
+Laag Bolwerk,29,"","",8701KP,Bolsward
+Laag Bolwerk,3,"","",8701KP,Bolsward
+Laag Bolwerk,31,"","",8701KP,Bolsward
+Laag Bolwerk,32,"","",8701KP,Bolsward
+Laag Bolwerk,33,"","",8701KP,Bolsward
+Laag Bolwerk,34,"","",8701KP,Bolsward
+Laag Bolwerk,35,"","",8701KP,Bolsward
+Laag Bolwerk,36,"","",8701KP,Bolsward
+Laag Bolwerk,36,"","",8701KP,Bolsward
+Laag Bolwerk,4,"","",8701KP,Bolsward
+Laag Bolwerk,5,"","",8701KP,Bolsward
+Laag Bolwerk,6,"","",8701KP,Bolsward
+Laag Bolwerk,7,"","",8701KP,Bolsward
+Laag Bolwerk,8,"","",8701KP,Bolsward
+Laag Bolwerk,8,"","",8701KP,Bolsward
+Laag Bolwerk,9,"","",8701KP,Bolsward
+Laag Bolwerk,9,"","",8701KP,Bolsward
+Klein Gasthuis,1,"","",8701KR,Bolsward
+Klein Gasthuis,10,"","",8701KR,Bolsward
+Klein Gasthuis,11,"","",8701KR,Bolsward
+Klein Gasthuis,12,"","",8701KR,Bolsward
+Klein Gasthuis,13,"","",8701KR,Bolsward
+Klein Gasthuis,14,"","",8701KR,Bolsward
+Klein Gasthuis,2,"","",8701KR,Bolsward
+Klein Gasthuis,3,"","",8701KR,Bolsward
+Klein Gasthuis,4,"","",8701KR,Bolsward
+Klein Gasthuis,5,"","",8701KR,Bolsward
+Klein Gasthuis,6,"","",8701KR,Bolsward
+Klein Gasthuis,7,"","",8701KR,Bolsward
+Klein Gasthuis,7,A,"",8701KR,Bolsward
+Klein Gasthuis,8,"","",8701KR,Bolsward
+Klein Gasthuis,9,"","",8701KR,Bolsward
+Klein Gasthuis,15,"","",8701KS,Bolsward
+Klein Gasthuis,16,"","",8701KS,Bolsward
+Klein Gasthuis,17,"","",8701KS,Bolsward
+Klein Gasthuis,18,"","",8701KS,Bolsward
+Klein Gasthuis,19,"","",8701KS,Bolsward
+Klein Gasthuis,20,"","",8701KS,Bolsward
+Klein Gasthuis,21,"","",8701KS,Bolsward
+Klein Gasthuis,22,"","",8701KS,Bolsward
+Klein Gasthuis,23,"","",8701KS,Bolsward
+Brouwerssteeg,1,"","",8701KT,Bolsward
+Brouwerssteeg,10,"","",8701KT,Bolsward
+Brouwerssteeg,3,"","",8701KT,Bolsward
+Brouwerssteeg,3,"","",8701KT,Bolsward
+Laag Bolwerk,38,"","",8701KT,Bolsward
+Laag Bolwerk,39,"","",8701KT,Bolsward
+Brouwerssteeg,4,"","",8701KT,Bolsward
+Brouwerssteeg,4,"","",8701KT,Bolsward
+Laag Bolwerk,40,"","",8701KT,Bolsward
+Laag Bolwerk,41,"","",8701KT,Bolsward
+Laag Bolwerk,45,A,"",8701KT,Bolsward
+Laag Bolwerk,45,B,"",8701KT,Bolsward
+Laag Bolwerk,45,C,"",8701KT,Bolsward
+Laag Bolwerk,45,D,"",8701KT,Bolsward
+Laag Bolwerk,45,E,"",8701KT,Bolsward
+Laag Bolwerk,45,F,"",8701KT,Bolsward
+Laag Bolwerk,45,G,"",8701KT,Bolsward
+Laag Bolwerk,45,H,"",8701KT,Bolsward
+Laag Bolwerk,45,I,"",8701KT,Bolsward
+Laag Bolwerk,45,J,"",8701KT,Bolsward
+Laag Bolwerk,45,K,"",8701KT,Bolsward
+Laag Bolwerk,45,L,"",8701KT,Bolsward
+Laag Bolwerk,45,M,"",8701KT,Bolsward
+Laag Bolwerk,45,N,"",8701KT,Bolsward
+Laag Bolwerk,45,O,"",8701KT,Bolsward
+Laag Bolwerk,45,P,"",8701KT,Bolsward
+Laag Bolwerk,45,Q,"",8701KT,Bolsward
+Laag Bolwerk,45,R,"",8701KT,Bolsward
+Laag Bolwerk,45,S,"",8701KT,Bolsward
+Laag Bolwerk,45,T,"",8701KT,Bolsward
+Laag Bolwerk,45,U,"",8701KT,Bolsward
+Laag Bolwerk,45,V,"",8701KT,Bolsward
+Laag Bolwerk,45,W,"",8701KT,Bolsward
+Laag Bolwerk,45,X,"",8701KT,Bolsward
+Brouwerssteeg,5,"","",8701KT,Bolsward
+Brouwerssteeg,5,"","",8701KT,Bolsward
+Laag Bolwerk,64,"","",8701KT,Bolsward
+Laag Bolwerk,65,"","",8701KT,Bolsward
+Laag Bolwerk,66,"","",8701KT,Bolsward
+Laag Bolwerk,67,"","",8701KT,Bolsward
+Laag Bolwerk,68,"","",8701KT,Bolsward
+Laag Bolwerk,68,A,"",8701KT,Bolsward
+Laag Bolwerk,71,"","",8701KT,Bolsward
+Laag Bolwerk,72,"","",8701KT,Bolsward
+Laag Bolwerk,73,"","",8701KT,Bolsward
+Laag Bolwerk,74,"","",8701KT,Bolsward
+Laag Bolwerk,75,"","",8701KT,Bolsward
+Laag Bolwerk,75,A,"",8701KT,Bolsward
+Laag Bolwerk,75,B,"",8701KT,Bolsward
+Laag Bolwerk,75,B,"",8701KT,Bolsward
+Grote Dijlakker,1,A,"",8701KV,Bolsward
+Grote Dijlakker,1,B,"",8701KV,Bolsward
+Grote Dijlakker,1,C,"",8701KV,Bolsward
+Grote Dijlakker,1,D,"",8701KV,Bolsward
+Grote Dijlakker,1,E,"",8701KV,Bolsward
+Grote Dijlakker,1,F,"",8701KV,Bolsward
+Grote Dijlakker,11,"","",8701KV,Bolsward
+Grote Dijlakker,11,"","",8701KV,Bolsward
+Grote Dijlakker,12,"","",8701KV,Bolsward
+Grote Dijlakker,13,"","",8701KV,Bolsward
+Grote Dijlakker,14,"","",8701KV,Bolsward
+Grote Dijlakker,15,"","",8701KV,Bolsward
+Grote Dijlakker,16,"","",8701KV,Bolsward
+Grote Dijlakker,17,"","",8701KV,Bolsward
+Grote Dijlakker,18,"","",8701KV,Bolsward
+Grote Dijlakker,19,"","",8701KV,Bolsward
+Grote Dijlakker,2,A,"",8701KV,Bolsward
+Grote Dijlakker,2,B,"",8701KV,Bolsward
+Grote Dijlakker,2,C,"",8701KV,Bolsward
+Grote Dijlakker,2,D,"",8701KV,Bolsward
+Grote Dijlakker,2,E,"",8701KV,Bolsward
+Grote Dijlakker,2,F,"",8701KV,Bolsward
+Grote Dijlakker,20,"","",8701KV,Bolsward
+Grote Dijlakker,21,"","",8701KV,Bolsward
+Grote Dijlakker,21,A,"",8701KV,Bolsward
+Grote Dijlakker,22,"","",8701KV,Bolsward
+Grote Dijlakker,22,"","",8701KV,Bolsward
+Grote Dijlakker,22,A,"",8701KV,Bolsward
+Grote Dijlakker,22,A,"",8701KV,Bolsward
+Grote Dijlakker,3,A,"",8701KV,Bolsward
+Grote Dijlakker,3,B,"",8701KV,Bolsward
+Grote Dijlakker,3,C,"",8701KV,Bolsward
+Grote Dijlakker,3,D,"",8701KV,Bolsward
+Grote Dijlakker,3,E,"",8701KV,Bolsward
+Grote Dijlakker,3,F,"",8701KV,Bolsward
+Grote Dijlakker,7,"","",8701KV,Bolsward
+Grote Dijlakker,8,"","",8701KV,Bolsward
+Grote Dijlakker,23,"","",8701KW,Bolsward
+Grote Dijlakker,24,"","",8701KW,Bolsward
+Grote Dijlakker,25,"","",8701KW,Bolsward
+Grote Dijlakker,26,"","",8701KW,Bolsward
+Grote Dijlakker,27,"","",8701KW,Bolsward
+Grote Dijlakker,28,"","",8701KW,Bolsward
+Grote Dijlakker,29,"","",8701KW,Bolsward
+Grote Dijlakker,30,"","",8701KW,Bolsward
+Grote Dijlakker,31,"","",8701KW,Bolsward
+Grote Dijlakker,32,"","",8701KW,Bolsward
+Grote Dijlakker,33,"","",8701KW,Bolsward
+Grote Dijlakker,34,"","",8701KW,Bolsward
+Grote Dijlakker,35,"","",8701KW,Bolsward
+Grote Dijlakker,36,"","",8701KW,Bolsward
+Grote Dijlakker,37,"","",8701KX,Bolsward
+Grote Dijlakker,38,"","",8701KX,Bolsward
+Grote Dijlakker,40,"","",8701KX,Bolsward
+Grote Dijlakker,41,"","",8701KX,Bolsward
+Grote Dijlakker,41,"","",8701KX,Bolsward
+Grote Dijlakker,42,"","",8701KX,Bolsward
+Grote Dijlakker,44,"","",8701KX,Bolsward
+Grote Dijlakker,44,A,"",8701KX,Bolsward
+Grote Dijlakker,45,"","",8701KX,Bolsward
+Grote Dijlakker,46,"","",8701KX,Bolsward
+Grote Dijlakker,47,"","",8701KX,Bolsward
+Grote Dijlakker,48,"","",8701KX,Bolsward
+Grote Dijlakker,50,"","",8701KX,Bolsward
+Grote Dijlakker,51,"","",8701KX,Bolsward
+Grote Dijlakker,52,"","",8701KX,Bolsward
+Grote Dijlakker,53,"","",8701KX,Bolsward
+Grote Dijlakker,54,"","",8701KX,Bolsward
+Grote Dijlakker,55,"","",8701KX,Bolsward
+Grote Dijlakker,57,"","",8701KX,Bolsward
+Grote Dijlakker,58,"","",8701KX,Bolsward
+Sint Jansstraat,1,"","",8701KZ,Bolsward
+Sint Jansstraat,10,"","",8701KZ,Bolsward
+Sint Jansstraat,10,A,"",8701KZ,Bolsward
+Sint Jansstraat,2,"","",8701KZ,Bolsward
+Sint Jansstraat,4,"","",8701KZ,Bolsward
+Sint Jansstraat,5,"","",8701KZ,Bolsward
+Sint Jansstraat,6,"","",8701KZ,Bolsward
+Sint Jansstraat,7,"","",8701KZ,Bolsward
+Sint Jansstraat,8,"","",8701KZ,Bolsward
+Sint Jansstraat,8,A,"",8701KZ,Bolsward
+Sint Jansstraat,9,"","",8701KZ,Bolsward

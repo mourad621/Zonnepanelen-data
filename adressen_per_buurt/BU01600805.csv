@@ -1,69 +1,70 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7782SB",1,"",""
-"7782SB",7,"",""
-"7782SB",9,"",""
-"7782SB",1,"t",""
-"7782SB",5,"",""
-"7782SB",5,"",""
-"7782SB",1,"a",""
-"7782SC",8,"",""
-"7782SC",11,"",""
-"7782SC",10,"",""
-"7782SC",13,"",""
-"7782SC",12,"",""
-"7782SC",9,"",""
-"7782SC",1,"",""
-"7782SC",3,"",""
-"7782SC",7,"",""
-"7782SC",5,"",""
-"7782SC",9,"a",""
-"7782SC",6,"",""
-"7782SC",14,"",""
-"7782SC",2,"",""
-"7782SC",4,"",""
-"7782SK",3,"",""
-"7782SK",2,"",""
-"7782SK",3,"",""
-"7782SM",1,"",""
-"7782SP",162,"",""
-"7782SP",166,"A",""
-"7782SP",166,"",""
-"7782SP",164,"",""
-"7782SR",2,"",""
-"7782SR",2,"a",""
-"7782SR",1,"",""
-"7782SV",1,"",""
-7782SC,Burgemeester de Goedestraat,1,,
-7782SC,Burgemeester de Goedestraat,2,,
-7782SC,Burgemeester de Goedestraat,3,,
-7782SC,Burgemeester de Goedestraat,4,,
-7782SC,Burgemeester de Goedestraat,5,,
-7782SC,Burgemeester de Goedestraat,6,,
-7782SC,Burgemeester de Goedestraat,7,,
-7782SC,Burgemeester de Goedestraat,8,,
-7782SC,Burgemeester de Goedestraat,9,,
-7782SC,Burgemeester de Goedestraat,9,a,
-7782SC,Burgemeester de Goedestraat,10,,
-7782SC,Burgemeester de Goedestraat,11,,
-7782SC,Burgemeester de Goedestraat,12,,
-7782SC,Burgemeester de Goedestraat,13,,
-7782SC,Burgemeester de Goedestraat,14,,
-7782SM,Drentseweg,1,,
-7782SR,Jeulenwijk,1,,
-7782SR,Jeulenwijk,2,,
-7782SR,Jeulenwijk,2,a,
-7782SV,Kikkertsveldweg,1,,
-7782SB,Nieuwlandseweg,1,,
-7782SB,Nieuwlandseweg,1,a,
-7782SB,Nieuwlandseweg,5,,
-7782SB,Nieuwlandseweg,7,,
-7782SB,Nieuwlandseweg,9,,
-7782SP,Schuineslootweg,162,,
-7782SP,Schuineslootweg,164,,
-7782SP,Schuineslootweg,166,,
-7782SP,Schuineslootweg,166,A,
-7782SK,Tweede Blokweg,2,,
-7782SK,Tweede Blokweg,3,,
-7782SC,Burgemeester de Goedestraat,9,,
-7782SC,Burgemeester de Goedestraat,9,b,
-7782SB,Nieuwlandseweg,1,t,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+1,"","","",7782SB,
+7,"","","",7782SB,
+9,"","","",7782SB,
+5,"","","",7782SB,
+5,"","","",7782SB,
+Nieuwlandseweg,1,"","",7782SB,De Krim
+Nieuwlandseweg,1,A,"",7782SB,De Krim
+Nieuwlandseweg,1,T,"",7782SB,De Krim
+Nieuwlandseweg,5,"","",7782SB,De Krim
+Nieuwlandseweg,7,"","",7782SB,De Krim
+Nieuwlandseweg,9,"","",7782SB,De Krim
+1,A,"","",7782SB,
+1,T,"","",7782SB,
+8,"","","",7782SC,
+11,"","","",7782SC,
+10,"","","",7782SC,
+13,"","","",7782SC,
+12,"","","",7782SC,
+9,"","","",7782SC,
+1,"","","",7782SC,
+3,"","","",7782SC,
+7,"","","",7782SC,
+5,"","","",7782SC,
+6,"","","",7782SC,
+14,"","","",7782SC,
+2,"","","",7782SC,
+4,"","","",7782SC,
+Burgemeester de Goedestraat,1,"","",7782SC,De Krim
+Burgemeester de Goedestraat,10,"","",7782SC,De Krim
+Burgemeester de Goedestraat,11,"","",7782SC,De Krim
+Burgemeester de Goedestraat,12,"","",7782SC,De Krim
+Burgemeester de Goedestraat,13,"","",7782SC,De Krim
+Burgemeester de Goedestraat,14,"","",7782SC,De Krim
+Burgemeester de Goedestraat,2,"","",7782SC,De Krim
+Burgemeester de Goedestraat,3,"","",7782SC,De Krim
+Burgemeester de Goedestraat,4,"","",7782SC,De Krim
+Burgemeester de Goedestraat,5,"","",7782SC,De Krim
+Burgemeester de Goedestraat,6,"","",7782SC,De Krim
+Burgemeester de Goedestraat,7,"","",7782SC,De Krim
+Burgemeester de Goedestraat,8,"","",7782SC,De Krim
+Burgemeester de Goedestraat,9,"","",7782SC,De Krim
+Burgemeester de Goedestraat,9,"","",7782SC,De Krim
+Burgemeester de Goedestraat,9,A,"",7782SC,De Krim
+Burgemeester de Goedestraat,9,B,"",7782SC,De Krim
+9,A,"","",7782SC,
+3,"","","",7782SK,
+2,"","","",7782SK,
+3,"","","",7782SK,
+Tweede Blokweg,2,"","",7782SK,De Krim
+Tweede Blokweg,3,"","",7782SK,De Krim
+1,"","","",7782SM,
+Drentseweg,1,"","",7782SM,De Krim
+162,"","","",7782SP,
+166,"","","",7782SP,
+164,"","","",7782SP,
+Schuineslootweg,162,"","",7782SP,De Krim
+Schuineslootweg,164,"","",7782SP,De Krim
+Schuineslootweg,166,"","",7782SP,De Krim
+Schuineslootweg,166,A,"",7782SP,De Krim
+166,A,"","",7782SP,
+2,"","","",7782SR,
+1,"","","",7782SR,
+Jeulenwijk,1,"","",7782SR,De Krim
+Jeulenwijk,2,"","",7782SR,De Krim
+Jeulenwijk,2,A,"",7782SR,De Krim
+2,A,"","",7782SR,
+1,"","","",7782SV,
+Kikkertsveldweg,1,"","",7782SV,De Krim
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

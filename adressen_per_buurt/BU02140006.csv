@@ -1,93 +1,93 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4116RK,Hennisdijk,11,,
-4116RK,Hennisdijk,4,,
-4116RK,Hennisdijk,5,,
-4116RK,Hennisdijk,6,,
-4116RK,Hennisdijk,9,,
-4116RK,Hennisdijk,9,A,
-4197RN,Kornedijk,4,,
-4197RN,Kornedijk,6,,
-4197RN,Kornedijk,12,,
-4197RN,Kornedijk,11,,
-4197RN,Kornedijk,14,,
-4197RN,Kornedijk,15,,
-4197RN,Kornedijk,16,,
-4197RN,Kornedijk,17,,
-4197RN,Kornedijk,18,,
-4197RN,Kornedijk,20,,
-4197RN,Kornedijk,21,,
-4197RN,Kornedijk,23,,
-4197RD,Nieuwe Steeg,2,,
-4197RD,Nieuwe Steeg,3,,
-4197RD,Nieuwe Steeg,3,A,
-4116RK,Hennisdijk,2,,
-4197RN,Kornedijk,8,B,
-4197RN,Kornedijk,1,,
-4197RN,Kornedijk,1,A,
-4197RN,Kornedijk,19,,
-4197RN,Kornedijk,22,,
-4197RD,Nieuwe Steeg,1,,
-4197RD,Nieuwe Steeg,1,A,
-4197RM,Rijksstraatweg,76,,
-4116RK,Hennisdijk,8,A,
-4116RK,Hennisdijk,7,,
-4116RK,Hennisdijk,8,,
-4116RK,Hennisdijk,2,a,
-4116RK,Hennisdijk,3,,
-4116RK,Hennisdijk,3,,
-4197RN,Kornedijk,1,B,
-4197RN,Kornedijk,2,,
-4197RN,Kornedijk,2,a,
-4197RN,Kornedijk,2,a,
-4197RN,Kornedijk,7,,
-4197RN,Kornedijk,8,,
-4197RN,Kornedijk,8,A,
-4197RN,Kornedijk,9,,
-4197RN,Kornedijk,10,,
-4197RN,Kornedijk,7,A,
-4197RN,Kornedijk,3,,
-4197RN,Kornedijk,3,,
-4197RK,Bulksteeg,4,,
-4197RK,Bulksteeg,2,,
-4197RN,Kornedijk,13,,
-4197RN,Kornedijk,12,,
-4197RN,Kornedijk,13,a,
-4197RA,Kruisweg,2,,
-4197RD,Nieuwe Steeg,11,,
-4197RD,Nieuwe Steeg,5,,
-4197RD,Nieuwe Steeg,21,,
-4197RD,Nieuwe Steeg,104,,
-4197RD,Nieuwe Steeg,104,,
-4197RD,Nieuwe Steeg,106,,
-4197RD,Nieuwe Steeg,106,,
-4197RD,Nieuwe Steeg,108,,
-4197RD,Nieuwe Steeg,108,,
-4197RD,Nieuwe Steeg,110,,
-4197RD,Nieuwe Steeg,110,,
-4197RD,Nieuwe Steeg,112,,
-4197RD,Nieuwe Steeg,112,,
-4197RD,Nieuwe Steeg,114,,
-4197RD,Nieuwe Steeg,114,,
-4197RD,Nieuwe Steeg,102,,
-4197RD,Nieuwe Steeg,102,,
-4197RD,Nieuwe Steeg,100,,
-4197RD,Nieuwe Steeg,11,,
-4197RD,Nieuwe Steeg,13,,
-4197RD,Nieuwe Steeg,9,,
-4197RD,Nieuwe Steeg,7,,
-4197RD,Nieuwe Steeg,4,,
-4197RM,Rijksstraatweg,74,,
-4197RM,Rijksstraatweg,76,c,
-4197RM,Rijksstraatweg,76,d,
-4116RK,Hennisdijk,9,b,
-4197RM,Rijksstraatweg,70,a,
-4197RM,Rijksstraatweg,72,,
-4197RM,Rijksstraatweg,78,,
-4197RM,Rijksstraatweg,80,,
-4197RM,Rijksstraatweg,64,,
-4197RM,Rijksstraatweg,66,,
-4197RM,Rijksstraatweg,68,,
-4197RM,Rijksstraatweg,70,,
-4197RA,Kruisweg,1,,
-4197RA,Kruisweg,3,,
-4197RM,Rijksstraatweg,70,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hennisdijk,11,"","",4116RK,Buren
+Hennisdijk,2,"","",4116RK,Buren
+Hennisdijk,2,A,"",4116RK,Buren
+Hennisdijk,3,"","",4116RK,Buren
+Hennisdijk,3,"","",4116RK,Buren
+Hennisdijk,4,"","",4116RK,Buren
+Hennisdijk,5,"","",4116RK,Buren
+Hennisdijk,6,"","",4116RK,Buren
+Hennisdijk,7,"","",4116RK,Buren
+Hennisdijk,8,"","",4116RK,Buren
+Hennisdijk,8,A,"",4116RK,Buren
+Hennisdijk,9,"","",4116RK,Buren
+Hennisdijk,9,A,"",4116RK,Buren
+Hennisdijk,9,B,"",4116RK,Buren
+Kruisweg,1,"","",4197RA,Buurmalsen
+Kruisweg,2,"","",4197RA,Buurmalsen
+Kruisweg,3,"","",4197RA,Buurmalsen
+Nieuwe Steeg,1,"","",4197RD,Buurmalsen
+Nieuwe Steeg,1,A,"",4197RD,Buurmalsen
+Nieuwe Steeg,100,"","",4197RD,Buurmalsen
+Nieuwe Steeg,102,"","",4197RD,Buurmalsen
+Nieuwe Steeg,102,"","",4197RD,Buurmalsen
+Nieuwe Steeg,104,"","",4197RD,Buurmalsen
+Nieuwe Steeg,104,"","",4197RD,Buurmalsen
+Nieuwe Steeg,106,"","",4197RD,Buurmalsen
+Nieuwe Steeg,106,"","",4197RD,Buurmalsen
+Nieuwe Steeg,108,"","",4197RD,Buurmalsen
+Nieuwe Steeg,108,"","",4197RD,Buurmalsen
+Nieuwe Steeg,11,"","",4197RD,Buurmalsen
+Nieuwe Steeg,11,"","",4197RD,Buurmalsen
+Nieuwe Steeg,110,"","",4197RD,Buurmalsen
+Nieuwe Steeg,110,"","",4197RD,Buurmalsen
+Nieuwe Steeg,112,"","",4197RD,Buurmalsen
+Nieuwe Steeg,112,"","",4197RD,Buurmalsen
+Nieuwe Steeg,114,"","",4197RD,Buurmalsen
+Nieuwe Steeg,114,"","",4197RD,Buurmalsen
+Nieuwe Steeg,13,"","",4197RD,Buurmalsen
+Nieuwe Steeg,2,"","",4197RD,Buurmalsen
+Nieuwe Steeg,21,"","",4197RD,Buurmalsen
+Nieuwe Steeg,3,"","",4197RD,Buurmalsen
+Nieuwe Steeg,3,A,"",4197RD,Buurmalsen
+Nieuwe Steeg,4,"","",4197RD,Buurmalsen
+Nieuwe Steeg,5,"","",4197RD,Buurmalsen
+Nieuwe Steeg,7,"","",4197RD,Buurmalsen
+Nieuwe Steeg,9,"","",4197RD,Buurmalsen
+Bulksteeg,2,"","",4197RK,Buurmalsen
+Bulksteeg,4,"","",4197RK,Buurmalsen
+Rijksstraatweg,64,"","",4197RM,Buurmalsen
+Rijksstraatweg,66,"","",4197RM,Buurmalsen
+Rijksstraatweg,68,"","",4197RM,Buurmalsen
+Rijksstraatweg,70,"","",4197RM,Buurmalsen
+Rijksstraatweg,70,A,"",4197RM,Buurmalsen
+Rijksstraatweg,70,A,"",4197RM,Buurmalsen
+Rijksstraatweg,72,"","",4197RM,Buurmalsen
+Rijksstraatweg,74,"","",4197RM,Buurmalsen
+Rijksstraatweg,76,"","",4197RM,Buurmalsen
+Rijksstraatweg,76,C,"",4197RM,Buurmalsen
+Rijksstraatweg,76,D,"",4197RM,Buurmalsen
+Rijksstraatweg,78,"","",4197RM,Buurmalsen
+Rijksstraatweg,80,"","",4197RM,Buurmalsen
+Kornedijk,1,"","",4197RN,Buren
+Kornedijk,1,A,"",4197RN,Buren
+Kornedijk,1,B,"",4197RN,Buren
+Kornedijk,10,"","",4197RN,Buren
+Kornedijk,11,"","",4197RN,Buurmalsen
+Kornedijk,12,"","",4197RN,Buurmalsen
+Kornedijk,12,"","",4197RN,Buurmalsen
+Kornedijk,13,"","",4197RN,Buurmalsen
+Kornedijk,13,A,"",4197RN,Buurmalsen
+Kornedijk,14,"","",4197RN,Buurmalsen
+Kornedijk,15,"","",4197RN,Buurmalsen
+Kornedijk,16,"","",4197RN,Buurmalsen
+Kornedijk,17,"","",4197RN,Buurmalsen
+Kornedijk,18,"","",4197RN,Buurmalsen
+Kornedijk,19,"","",4197RN,Buurmalsen
+Kornedijk,2,"","",4197RN,Buren
+Kornedijk,2,A,"",4197RN,Buren
+Kornedijk,2,A,"",4197RN,Buren
+Kornedijk,20,"","",4197RN,Buurmalsen
+Kornedijk,21,"","",4197RN,Buurmalsen
+Kornedijk,22,"","",4197RN,Buurmalsen
+Kornedijk,23,"","",4197RN,Buurmalsen
+Kornedijk,3,"","",4197RN,Buren
+Kornedijk,3,"","",4197RN,Buren
+Kornedijk,4,"","",4197RN,Buren
+Kornedijk,6,"","",4197RN,Buren
+Kornedijk,7,"","",4197RN,Buren
+Kornedijk,7,A,"",4197RN,Buren
+Kornedijk,8,"","",4197RN,Buren
+Kornedijk,8,A,"",4197RN,Buren
+Kornedijk,8,B,"",4197RN,Buren
+Kornedijk,9,"","",4197RN,Buren

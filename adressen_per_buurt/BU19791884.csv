@@ -1,74 +1,75 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9994PA",2,"",""
-"9994PA",3,"",""
-"9994PA",5,"",""
-"9994PA",1,"",""
-"9994PA",9,"",""
-"9994PA",11,"",""
-"9994PA",13,"",""
-"9994PA",7,"",""
-"9994PA",15,"",""
-"9994PB",1,"",""
-"9994PB",2,"",""
-"9994PB",2,"a",""
-"9994PB",18,"",""
-"9994PB",3,"A",""
-"9994PB",4,"",""
-"9994PB",5,"",""
-"9994PB",3,"",""
-"9994PB",7,"",""
-"9994PB",7,"",""
-"9994PB",8,"",""
-"9994PB",6,"",""
-"9994PB",1,"",""
-"9994PB",16,"",""
-"9994PB",9,"",""
-"9994PB",10,"",""
-"9994PC",2,"",""
-"9994PC",3,"",""
-"9994PC",4,"",""
-"9994PC",4,"",""
-"9994PC",3,"T",""
-"9994PC",4,"",""
-"9994PC",9,"",""
-"9994PC",11,"",""
-"9994PC",5,"",""
-"9994PC",7,"",""
-"9994PC",1,"",""
-9994PC,W.J. Dethmersweg,1,,
-9994PC,W.J. Dethmersweg,3,,
-9994PC,W.J. Dethmersweg,5,,
-9994PC,W.J. Dethmersweg,7,,
-9994PC,W.J. Dethmersweg,11,,
-9994PC,W.J. Dethmersweg,2,,
-9994PC,W.J. Dethmersweg,4,,
-9994PC,W.J. Dethmersweg,9,,
-9994PC,W.J. Dethmersweg,3,T,
-9994PC,W.J. Dethmersweg,4,,
-9994PB,Toornwerderweg,2,a,
-9994PB,Toornwerderweg,1,,
-9994PB,Toornwerderweg,3,,
-9994PB,Toornwerderweg,5,,
-9994PB,Toornwerderweg,7,,
-9994PB,Toornwerderweg,9,,
-9994PB,Toornwerderweg,2,,
-9994PB,Toornwerderweg,4,,
-9994PB,Toornwerderweg,6,,
-9994PB,Toornwerderweg,8,,
-9994PB,Toornwerderweg,10,,
-9994PB,Toornwerderweg,18,,
-9994PB,Toornwerderweg,16,,
-9994PB,Toornwerderweg,3,A,
-9994PA,Ossengang,1,,
-9994PA,Ossengang,3,,
-9994PA,Ossengang,5,,
-9994PA,Ossengang,7,,
-9994PA,Ossengang,9,,
-9994PA,Ossengang,11,,
-9994PA,Ossengang,13,,
-9994PA,Ossengang,15,,
-9994PA,Ossengang,2,,
-9994PB,Toornwerderweg,7,,
-9994PB,Toornwerderweg,7,a,
-9994PB,Toornwerderweg,1,,
-9994PB,Toornwerderweg,11,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+2,"","","",9994PA,
+3,"","","",9994PA,
+5,"","","",9994PA,
+1,"","","",9994PA,
+9,"","","",9994PA,
+11,"","","",9994PA,
+13,"","","",9994PA,
+7,"","","",9994PA,
+15,"","","",9994PA,
+Ossengang,1,"","",9994PA,Toornwerd
+Ossengang,11,"","",9994PA,Toornwerd
+Ossengang,13,"","",9994PA,Toornwerd
+Ossengang,15,"","",9994PA,Toornwerd
+Ossengang,2,"","",9994PA,Toornwerd
+Ossengang,3,"","",9994PA,Toornwerd
+Ossengang,5,"","",9994PA,Toornwerd
+Ossengang,7,"","",9994PA,Toornwerd
+Ossengang,9,"","",9994PA,Toornwerd
+1,"","","",9994PB,
+2,"","","",9994PB,
+18,"","","",9994PB,
+4,"","","",9994PB,
+5,"","","",9994PB,
+3,"","","",9994PB,
+7,"","","",9994PB,
+7,"","","",9994PB,
+8,"","","",9994PB,
+6,"","","",9994PB,
+1,"","","",9994PB,
+16,"","","",9994PB,
+9,"","","",9994PB,
+10,"","","",9994PB,
+Toornwerderweg,1,"","",9994PB,Toornwerd
+Toornwerderweg,1,"","",9994PB,Toornwerd
+Toornwerderweg,10,"","",9994PB,Toornwerd
+Toornwerderweg,11,"","",9994PB,Toornwerd
+Toornwerderweg,16,"","",9994PB,Toornwerd
+Toornwerderweg,18,"","",9994PB,Toornwerd
+Toornwerderweg,2,"","",9994PB,Toornwerd
+Toornwerderweg,2,A,"",9994PB,Toornwerd
+Toornwerderweg,3,"","",9994PB,Toornwerd
+Toornwerderweg,3,A,"",9994PB,Toornwerd
+Toornwerderweg,4,"","",9994PB,Toornwerd
+Toornwerderweg,5,"","",9994PB,Toornwerd
+Toornwerderweg,6,"","",9994PB,Toornwerd
+Toornwerderweg,7,"","",9994PB,Toornwerd
+Toornwerderweg,7,"","",9994PB,Toornwerd
+Toornwerderweg,7,A,"",9994PB,Toornwerd
+Toornwerderweg,8,"","",9994PB,Toornwerd
+Toornwerderweg,9,"","",9994PB,Toornwerd
+2,A,"","",9994PB,
+3,A,"","",9994PB,
+2,"","","",9994PC,
+3,"","","",9994PC,
+4,"","","",9994PC,
+4,"","","",9994PC,
+4,"","","",9994PC,
+9,"","","",9994PC,
+11,"","","",9994PC,
+5,"","","",9994PC,
+7,"","","",9994PC,
+1,"","","",9994PC,
+W.J. Dethmersweg,1,"","",9994PC,Toornwerd
+W.J. Dethmersweg,11,"","",9994PC,Toornwerd
+W.J. Dethmersweg,2,"","",9994PC,Toornwerd
+W.J. Dethmersweg,3,"","",9994PC,Toornwerd
+W.J. Dethmersweg,3,T,"",9994PC,Toornwerd
+W.J. Dethmersweg,4,"","",9994PC,Toornwerd
+W.J. Dethmersweg,4,"","",9994PC,Toornwerd
+W.J. Dethmersweg,5,"","",9994PC,Toornwerd
+W.J. Dethmersweg,7,"","",9994PC,Toornwerd
+W.J. Dethmersweg,9,"","",9994PC,Toornwerd
+3,T,"","",9994PC,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

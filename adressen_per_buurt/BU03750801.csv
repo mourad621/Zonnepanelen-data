@@ -1,11 +1,11 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1949AG,Zeestraat,250,,
-1949AG,Zeestraat,250,,1
-1949AG,Zeestraat,250,,2
-1949AG,Zeestraat,260,A,
-1949AG,Zeestraat,298,,
-1949AG,Zeestraat,300,,
-1949AG,Zeestraat,341,,
-1949AG,Zeestraat,355,B,
-1949AG,Zeestraat,355,,
-1949AL,Tussenwijkweg,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zeestraat,250,"","",1949AG,Wijk aan Zee
+Zeestraat,250,"",1,1949AG,Wijk aan Zee
+Zeestraat,250,"",2,1949AG,Wijk aan Zee
+Zeestraat,260,A,"",1949AG,Wijk aan Zee
+Zeestraat,298,"","",1949AG,Wijk aan Zee
+Zeestraat,300,"","",1949AG,Wijk aan Zee
+Zeestraat,341,"","",1949AG,Wijk aan Zee
+Zeestraat,355,"","",1949AG,Wijk aan Zee
+Zeestraat,355,B,"",1949AG,Wijk aan Zee
+Tussenwijkweg,2,"","",1949AL,Wijk aan Zee

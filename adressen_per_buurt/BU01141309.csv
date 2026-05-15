@@ -1,130 +1,131 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7844NG",6,"",""
-"7844NG",16,"",""
-"7844NG",54,"","TR"
-"7844NG",54,"","TR"
-"7844NG",16,"",""
-"7844NG",10,"",""
-"7844NG",54,"",""
-"7844NG",54,"B",""
-"7844NG",30,"",""
-"7844NG",76,"",""
-"7844NG",32,"",""
-"7844NG",54,"","TR"
-"7844NG",12,"",""
-"7844NG",54,"",""
-"7844NG",14,"",""
-"7844NG",58,"","A"
-"7844NG",82,"",""
-"7844NG",56,"",""
-"7844NG",32,"",""
-"7844NG",26,"",""
-"7844NG",30,"",""
-"7844NG",58,"",""
-"7844NG",72,"",""
-"7844NG",26,"",""
-"7844NG",8,"",""
-"7844NG",58,"A",""
-"7844NG",80,"",""
-"7844NG",28,"",""
-"7844NG",26,"",""
-"7844NG",16,"","BY"
-"7844NG",1,"A",""
-"7844NG",58,"B",""
-"7844NG",4,"",""
-"7844NG",60,"D",""
-"7844NG",66,"",""
-"7844NG",60,"",""
-"7844NG",68,"",""
-"7844NG",60,"C",""
-"7844NG",44,"",""
-"7844NG",54,"",""
-"7844NG",1,"A",""
-"7844NG",70,"",""
-"7844NG",62,"A",""
-"7844NG",60,"A",""
-"7844NG",28,"",""
-"7844NG",1,"A",""
-"7844NG",1,"",""
-"7844NG",64,"",""
-"7844NG",2,"",""
-"7844NG",74,"",""
-"7844NG",60,"B",""
-"7844NS",40,"",""
-"7844NS",39,"",""
-"7844NS",40,"","TR"
-"7844NS",40,"",""
-"7844NS",40,"","TR"
-"7844TL",1,"A",""
-"7844TL",1,"A","TR"
-"7844TL",1,"A",""
-"7844TL",1,"A","TRAF"
-"7844TL",1,"A","TR"
-"7844TL",7,"",""
-"7844TL",1,"A",""
-"7844TL",7,"",""
-"7844TL",1,"A",""
-"7844TL",3,"",""
-"7844TL",1,"A","TR"
-7844NG,Nieuwe weg,70,,
-7844NG,Nieuwe weg,72,,
-7844NG,Nieuwe weg,58,,
-7844NG,Nieuwe weg,4,,
-7844TL,Verlengde Landschapsweg,1,A,
-7844TL,Verlengde Landschapsweg,3,,
-7844NG,Nieuwe weg,14,,
-7844NG,Nieuwe weg,62,A,
-7844NG,Nieuwe weg,76,,
-7844NG,Nieuwe weg,10,,
-7844NG,Nieuwe weg,44,,
-7844NG,Nieuwe weg,56,,
-7844NG,Nieuwe weg,60,,
-7844NG,Nieuwe weg,66,,
-7844NG,Nieuwe weg,60,A,
-7844NG,Nieuwe weg,12,,
-7844NG,Nieuwe weg,16,,BY
-7844NG,Nieuwe weg,30,,
-7844NG,Nieuwe weg,30,,
-7844NG,Nieuwe weg,16,,
-7844NG,Nieuwe weg,16,,
-7844NG,Nieuwe weg,28,,
-7844NG,Nieuwe weg,28,,
-7844NS,Van Goghstraat,39,,
-7844NS,Van Goghstraat,40,,
-7844NS,Van Goghstraat,40,,
-7844TL,Verlengde Landschapsweg,1,A,TRAF
-7844TL,Verlengde Landschapsweg,1,A,TR
-7844TL,Verlengde Landschapsweg,1,A,TR
-7844TL,Verlengde Landschapsweg,7,,
-7844TL,Verlengde Landschapsweg,7,,
-7844NG,Nieuwe weg,64,,
-7844NG,Nieuwe weg,32,,
-7844NG,Nieuwe weg,68,,
-7844NG,Nieuwe weg,58,,A
-7844NG,Nieuwe weg,58,A,
-7844NG,Nieuwe weg,80,,
-7844NG,Nieuwe weg,60,B,
-7844NG,Nieuwe weg,60,C,
-7844NG,Nieuwe weg,60,D,
-7844NG,Nieuwe weg,54,,
-7844NG,Nieuwe weg,74,,
-7844NG,Nieuwe weg,2,,
-7844NG,Nieuwe weg,82,,
-7844NG,Nieuwe weg,6,,
-7844NG,Nieuwe weg,8,,
-7844NG,Spoorbaan,1,,
-7844NG,Nieuwe weg,58,B,
-7844TL,Verlengde Landschapsweg,1,A,
-7844TL,Verlengde Landschapsweg,1,A,
-7844NG,Nieuwe weg,26,,
-7844NG,Nieuwe weg,26,,
-7844NG,Nieuwe weg,54,,TR
-7844NG,Nieuwe weg,54,,TR
-7844NG,Nieuwe weg,54,,TR
-7844NG,Nieuwe weg,54,,
-7844NG,Nieuwe weg,54,B,
-7844NG,Spoorbaan,1,A,
-7844NG,Spoorbaan,1,A,
-7844NG,Spoorbaan,1,A,
-7844NS,Van Goghstraat,40,,TR
-7844NS,Van Goghstraat,40,,TR
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+6,"","","",7844NG,
+16,"","","",7844NG,
+16,"","","",7844NG,
+10,"","","",7844NG,
+54,"","","",7844NG,
+30,"","","",7844NG,
+76,"","","",7844NG,
+32,"","","",7844NG,
+12,"","","",7844NG,
+54,"","","",7844NG,
+14,"","","",7844NG,
+82,"","","",7844NG,
+56,"","","",7844NG,
+32,"","","",7844NG,
+26,"","","",7844NG,
+30,"","","",7844NG,
+58,"","","",7844NG,
+72,"","","",7844NG,
+26,"","","",7844NG,
+8,"","","",7844NG,
+80,"","","",7844NG,
+28,"","","",7844NG,
+26,"","","",7844NG,
+4,"","","",7844NG,
+66,"","","",7844NG,
+60,"","","",7844NG,
+68,"","","",7844NG,
+44,"","","",7844NG,
+54,"","","",7844NG,
+70,"","","",7844NG,
+28,"","","",7844NG,
+1,"","","",7844NG,
+64,"","","",7844NG,
+2,"","","",7844NG,
+74,"","","",7844NG,
+58,"",A,"",7844NG,
+16,"",BY,"",7844NG,
+54,"",TR,"",7844NG,
+54,"",TR,"",7844NG,
+54,"",TR,"",7844NG,
+Spoorbaan,1,"","",7844NG,Veenoord
+Spoorbaan,1,A,"",7844NG,Veenoord
+Spoorbaan,1,A,"",7844NG,Veenoord
+Spoorbaan,1,A,"",7844NG,Veenoord
+Nieuwe weg,10,"","",7844NG,Veenoord
+Nieuwe weg,12,"","",7844NG,Veenoord
+Nieuwe weg,14,"","",7844NG,Veenoord
+Nieuwe weg,16,"","",7844NG,Veenoord
+Nieuwe weg,16,"","",7844NG,Veenoord
+Nieuwe weg,16,"",BY,7844NG,Veenoord
+Nieuwe weg,2,"","",7844NG,Veenoord
+Nieuwe weg,26,"","",7844NG,Veenoord
+Nieuwe weg,26,"","",7844NG,Veenoord
+Nieuwe weg,28,"","",7844NG,Veenoord
+Nieuwe weg,28,"","",7844NG,Veenoord
+Nieuwe weg,30,"","",7844NG,Veenoord
+Nieuwe weg,30,"","",7844NG,Veenoord
+Nieuwe weg,32,"","",7844NG,Veenoord
+Nieuwe weg,4,"","",7844NG,Veenoord
+Nieuwe weg,44,"","",7844NG,Veenoord
+Nieuwe weg,54,"","",7844NG,Veenoord
+Nieuwe weg,54,"","",7844NG,Veenoord
+Nieuwe weg,54,"",TR,7844NG,Veenoord
+Nieuwe weg,54,"",TR,7844NG,Veenoord
+Nieuwe weg,54,"",TR,7844NG,Veenoord
+Nieuwe weg,54,B,"",7844NG,Veenoord
+Nieuwe weg,56,"","",7844NG,Veenoord
+Nieuwe weg,58,"","",7844NG,Veenoord
+Nieuwe weg,58,"",A,7844NG,Veenoord
+Nieuwe weg,58,A,"",7844NG,Veenoord
+Nieuwe weg,58,B,"",7844NG,Veenoord
+Nieuwe weg,6,"","",7844NG,Veenoord
+Nieuwe weg,60,"","",7844NG,Veenoord
+Nieuwe weg,60,A,"",7844NG,Veenoord
+Nieuwe weg,60,B,"",7844NG,Veenoord
+Nieuwe weg,60,C,"",7844NG,Veenoord
+Nieuwe weg,60,D,"",7844NG,Veenoord
+Nieuwe weg,62,A,"",7844NG,Veenoord
+Nieuwe weg,64,"","",7844NG,Veenoord
+Nieuwe weg,66,"","",7844NG,Veenoord
+Nieuwe weg,68,"","",7844NG,Veenoord
+Nieuwe weg,70,"","",7844NG,Veenoord
+Nieuwe weg,72,"","",7844NG,Veenoord
+Nieuwe weg,74,"","",7844NG,Veenoord
+Nieuwe weg,76,"","",7844NG,Veenoord
+Nieuwe weg,8,"","",7844NG,Veenoord
+Nieuwe weg,80,"","",7844NG,Veenoord
+Nieuwe weg,82,"","",7844NG,Veenoord
+58,A,"","",7844NG,
+1,A,"","",7844NG,
+1,A,"","",7844NG,
+62,A,"","",7844NG,
+60,A,"","",7844NG,
+1,A,"","",7844NG,
+54,B,"","",7844NG,
+58,B,"","",7844NG,
+60,B,"","",7844NG,
+60,C,"","",7844NG,
+60,D,"","",7844NG,
+40,"","","",7844NS,
+39,"","","",7844NS,
+40,"","","",7844NS,
+40,"",TR,"",7844NS,
+40,"",TR,"",7844NS,
+Van Goghstraat,39,"","",7844NS,Veenoord
+Van Goghstraat,40,"","",7844NS,Veenoord
+Van Goghstraat,40,"","",7844NS,Veenoord
+Van Goghstraat,40,"",TR,7844NS,Veenoord
+Van Goghstraat,40,"",TR,7844NS,Veenoord
+7,"","","",7844TL,
+7,"","","",7844TL,
+3,"","","",7844TL,
+Verlengde Landschapsweg,1,A,"",7844TL,Veenoord
+Verlengde Landschapsweg,1,A,"",7844TL,Veenoord
+Verlengde Landschapsweg,1,A,"",7844TL,Veenoord
+Verlengde Landschapsweg,1,A,TR,7844TL,Veenoord
+Verlengde Landschapsweg,1,A,TR,7844TL,Veenoord
+Verlengde Landschapsweg,1,A,TRAF,7844TL,Veenoord
+Verlengde Landschapsweg,3,"","",7844TL,Veenoord
+Verlengde Landschapsweg,7,"","",7844TL,Veenoord
+Verlengde Landschapsweg,7,"","",7844TL,Veenoord
+1,A,"","",7844TL,
+1,A,"","",7844TL,
+1,A,"","",7844TL,
+1,A,"","",7844TL,
+1,A,TR,"",7844TL,
+1,A,TR,"",7844TL,
+1,A,TR,"",7844TL,
+1,A,TRAF,"",7844TL,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

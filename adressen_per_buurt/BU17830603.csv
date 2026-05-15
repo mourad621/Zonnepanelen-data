@@ -1,81 +1,81 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2291GE,Korte Noordweg,6,,
-2291GE,Korte Noordweg,14,,
-2291GE,Korte Noordweg,16,,
-2291GE,Korte Noordweg,12,,
-2291GE,Korte Noordweg,10,,
-2291GE,Korte Noordweg,8,,
-2291GE,Korte Noordweg,18,,
-2291GE,Korte Noordweg,20,,
-2291GE,Korte Noordweg,22,A,
-2291GE,Korte Noordweg,26,,
-2291GE,Korte Noordweg,28,,
-2291GE,Korte Noordweg,30,,
-2291GE,Korte Noordweg,32,,
-2291GE,Korte Noordweg,34,,
-2291GE,Korte Noordweg,4,A,
-2291GG,Markuslaan,4,,
-2291GG,Markuslaan,6,,
-2291GG,Markuslaan,10,,
-2291GG,Markuslaan,14,,
-2291GG,Markuslaan,17,,
-2291GG,Markuslaan,19,,
-2291GG,Markuslaan,18,,
-2291GG,Markuslaan,16,,
-2291GG,Markuslaan,13,,
-2291GG,Markuslaan,7,,
-2291GG,Markuslaan,5,,
-2291GG,Markuslaan,3,,
-2291GA,Poeldijkseweg,23,A,
-2291GA,Poeldijkseweg,23,,
-2291GA,Poeldijkseweg,21,,
-2291GA,Poeldijkseweg,19,,
-2291GA,Poeldijkseweg,17,A,
-2291GA,Poeldijkseweg,17,,
-2291GA,Poeldijkseweg,15,,
-2291GA,Poeldijkseweg,13,,
-2291GA,Poeldijkseweg,9,,
-2291GA,Poeldijkseweg,7,,
-2291GA,Poeldijkseweg,5,B,
-2291GA,Poeldijkseweg,5,A,
-2291GA,Poeldijkseweg,5,,
-2291GA,Poeldijkseweg,3,A,
-2291GA,Poeldijkseweg,3,,
-2291GA,Poeldijkseweg,1,,
-2291GB,Poeldijkseweg,35,,
-2291GB,Poeldijkseweg,31,,
-2291GB,Poeldijkseweg,29,B,
-2291GB,Poeldijkseweg,29,A,
-2291GB,Poeldijkseweg,29,,
-2291GB,Poeldijkseweg,41,,
-2291GB,Poeldijkseweg,27,,
-2291GB,Poeldijkseweg,25,A,
-2291GB,Poeldijkseweg,25,,
-2291EK,Erasmusweg,2020,,
-2291EK,Erasmusweg,2014,,
-2291EK,Erasmusweg,2012,,
-2291EK,Erasmusweg,1800,,
-2291GG,Markuslaan,8,,
-2291GE,Korte Noordweg,34,A,
-2291GA,Poeldijkseweg,1,A,
-2291GA,Poeldijkseweg,1,D,
-2291GA,Poeldijkseweg,21,A,
-2291GA,Poeldijkseweg,1,C,
-2291GB,Poeldijkseweg,33,,
-2291GB,Poeldijkseweg,37,,
-2291GB,Poeldijkseweg,43,,
-2291GB,Poeldijkseweg,39,,
-2291GA,Poeldijkseweg,3,,
-2291EK,Erasmusweg,1200,,
-2291EK,Erasmusweg,2010,,
-2291EK,Erasmusweg,2016,,
-2291EK,Erasmusweg,2016,,
-2291EK,Erasmusweg,2016,,
-2291EK,Erasmusweg,2016,,
-2291GA,Poeldijkseweg,1,A,
-2291GA,Poeldijkseweg,1,B,
-2291GA,Poeldijkseweg,1,A,
-2291GE,Korte Noordweg,34,,
-2291GA,Poeldijkseweg,3,,
-2291GB,Poeldijkseweg,31,A,
-2291GB,Poeldijkseweg,25,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Erasmusweg,1200,"","",2291EK,Wateringen
+Erasmusweg,1800,"","",2291EK,Wateringen
+Erasmusweg,2010,"","",2291EK,Wateringen
+Erasmusweg,2012,"","",2291EK,Wateringen
+Erasmusweg,2014,"","",2291EK,Wateringen
+Erasmusweg,2016,"","",2291EK,Wateringen
+Erasmusweg,2016,"","",2291EK,Wateringen
+Erasmusweg,2016,"","",2291EK,Wateringen
+Erasmusweg,2016,"","",2291EK,Wateringen
+Erasmusweg,2020,"","",2291EK,Wateringen
+Poeldijkseweg,1,"","",2291GA,Wateringen
+Poeldijkseweg,1,A,"",2291GA,Wateringen
+Poeldijkseweg,1,A,"",2291GA,Wateringen
+Poeldijkseweg,1,A,"",2291GA,Wateringen
+Poeldijkseweg,1,B,"",2291GA,Wateringen
+Poeldijkseweg,1,C,"",2291GA,Wateringen
+Poeldijkseweg,1,D,"",2291GA,Wateringen
+Poeldijkseweg,13,"","",2291GA,Wateringen
+Poeldijkseweg,15,"","",2291GA,Wateringen
+Poeldijkseweg,17,"","",2291GA,Wateringen
+Poeldijkseweg,17,A,"",2291GA,Wateringen
+Poeldijkseweg,19,"","",2291GA,Wateringen
+Poeldijkseweg,21,"","",2291GA,Wateringen
+Poeldijkseweg,21,A,"",2291GA,Wateringen
+Poeldijkseweg,23,"","",2291GA,Wateringen
+Poeldijkseweg,23,A,"",2291GA,Wateringen
+Poeldijkseweg,3,"","",2291GA,Wateringen
+Poeldijkseweg,3,"","",2291GA,Wateringen
+Poeldijkseweg,3,"","",2291GA,Wateringen
+Poeldijkseweg,3,A,"",2291GA,Wateringen
+Poeldijkseweg,5,"","",2291GA,Wateringen
+Poeldijkseweg,5,A,"",2291GA,Wateringen
+Poeldijkseweg,5,B,"",2291GA,Wateringen
+Poeldijkseweg,7,"","",2291GA,Wateringen
+Poeldijkseweg,9,"","",2291GA,Wateringen
+Poeldijkseweg,25,"","",2291GB,Wateringen
+Poeldijkseweg,25,A,"",2291GB,Wateringen
+Poeldijkseweg,25,A,"",2291GB,Wateringen
+Poeldijkseweg,27,"","",2291GB,Wateringen
+Poeldijkseweg,29,"","",2291GB,Wateringen
+Poeldijkseweg,29,A,"",2291GB,Wateringen
+Poeldijkseweg,29,B,"",2291GB,Wateringen
+Poeldijkseweg,31,"","",2291GB,Wateringen
+Poeldijkseweg,31,A,"",2291GB,Wateringen
+Poeldijkseweg,33,"","",2291GB,Wateringen
+Poeldijkseweg,35,"","",2291GB,Wateringen
+Poeldijkseweg,37,"","",2291GB,Wateringen
+Poeldijkseweg,39,"","",2291GB,Wateringen
+Poeldijkseweg,41,"","",2291GB,Wateringen
+Poeldijkseweg,43,"","",2291GB,Wateringen
+Korte Noordweg,10,"","",2291GE,Wateringen
+Korte Noordweg,12,"","",2291GE,Wateringen
+Korte Noordweg,14,"","",2291GE,Wateringen
+Korte Noordweg,16,"","",2291GE,Wateringen
+Korte Noordweg,18,"","",2291GE,Wateringen
+Korte Noordweg,20,"","",2291GE,Wateringen
+Korte Noordweg,22,A,"",2291GE,Wateringen
+Korte Noordweg,26,"","",2291GE,Wateringen
+Korte Noordweg,28,"","",2291GE,Wateringen
+Korte Noordweg,30,"","",2291GE,Wateringen
+Korte Noordweg,32,"","",2291GE,Wateringen
+Korte Noordweg,34,"","",2291GE,Wateringen
+Korte Noordweg,34,"","",2291GE,Wateringen
+Korte Noordweg,34,A,"",2291GE,Wateringen
+Korte Noordweg,4,A,"",2291GE,Wateringen
+Korte Noordweg,6,"","",2291GE,Wateringen
+Korte Noordweg,8,"","",2291GE,Wateringen
+Markuslaan,10,"","",2291GG,Wateringen
+Markuslaan,13,"","",2291GG,Wateringen
+Markuslaan,14,"","",2291GG,Wateringen
+Markuslaan,16,"","",2291GG,Wateringen
+Markuslaan,17,"","",2291GG,Wateringen
+Markuslaan,18,"","",2291GG,Wateringen
+Markuslaan,19,"","",2291GG,Wateringen
+Markuslaan,3,"","",2291GG,Wateringen
+Markuslaan,4,"","",2291GG,Wateringen
+Markuslaan,5,"","",2291GG,Wateringen
+Markuslaan,6,"","",2291GG,Wateringen
+Markuslaan,7,"","",2291GG,Wateringen
+Markuslaan,8,"","",2291GG,Wateringen

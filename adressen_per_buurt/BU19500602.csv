@@ -1,427 +1,126 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9551TN",67,"",""
-"9551TN",35,"a",""
-"9551TN",81,"",""
-"9551TN",85,"",""
-"9551TN",93,"",""
-"9551TN",99,"",""
-"9551TN",75,"",""
-"9551TN",83,"",""
-"9551TN",77,"",""
-"9551TN",101,"",""
-"9551TN",89,"",""
-"9551TN",87,"",""
-"9551TN",95,"",""
-"9551TN",37,"",""
-"9551TN",79,"",""
-"9551TN",73,"",""
-"9551TN",93,"b",""
-"9551TN",103,"",""
-"9551TN",93,"a",""
-"9551TN",91,"",""
-"9551TN",107,"",""
-"9551TN",39,"",""
-"9551TN",71,"",""
-"9551TN",97,"",""
-"9551TN",35,"b",""
-"9551TN",69,"",""
-"9551TN",35,"",""
-"9551TP",143,"",""
-"9551TP",137,"",""
-"9551TP",141,"",""
-"9551TP",149,"b",""
-"9551TP",157,"",""
-"9551TP",151,"",""
-"9551TP",139,"",""
-"9551TP",137,"",""
-"9551TP",161,"",""
-"9551TP",143,"","TRAF"
-"9551TP",155,"",""
-"9551TP",159,"",""
-"9551TP",149,"",""
-"9551TP",147,"",""
-"9551TP",113,"",""
-"9551TP",149,"B",""
-"9551TP",115,"",""
-"9551TP",109,"",""
-"9551TP",111,"",""
-"9551TS",36,"",""
-"9551TS",104,"",""
-"9551TS",38,"",""
-"9551TT",154,"",""
-"9551TT",162,"",""
-"9551TT",138,"",""
-"9551TT",164,"",""
-"9551TT",140,"",""
-"9551TT",140,"",""
-"9551TT",140,"a",""
-"9551TT",152,"",""
-"9551TT",128,"",""
-"9551TT",140,"",""
-"9551TT",146,"",""
-"9551TT",148,"",""
-"9551TT",126,"",""
-"9551TT",160,"",""
-"9551TT",152,"",""
-"9551TT",144,"",""
-"9551TT",132,"",""
-"9551TT",134,"",""
-"9551TT",150,"a",""
-"9551TT",134,"a",""
-"9551TT",136,"",""
-"9551TT",148,"a",""
-"9551TT",130,"",""
-"9551TT",142,"",""
-"9551TT",150,"",""
-"9551VP",6,"g",""
-"9551VP",16,"",""
-"9551VP",6,"t",""
-"9551VP",6,"f",""
-"9551VP",6,"s",""
-"9551VP",3,"",""
-"9551VP",6,"c",""
-"9551VP",6,"u",""
-"9551VP",14,"",""
-"9551VP",6,"n",""
-"9551VP",6,"a",""
-"9551VP",2,"",""
-"9551VP",6,"b",""
-"9551VP",4,"",""
-"9551VP",6,"m",""
-"9551VP",6,"l",""
-"9551VP",1,"",""
-"9551VP",6,"k",""
-"9551VP",6,"d",""
-"9551VP",6,"e",""
-"9551VR",11,"b",""
-"9551VR",7,"",""
-"9551VR",13,"",""
-"9551VR",3,"",""
-"9551VR",31,"",""
-"9551VR",11,"c",""
-"9551VR",11,"d",""
-"9551VR",25,"",""
-"9551VR",13,"","TRAF"
-"9551VR",5,"",""
-"9551VR",35,"",""
-"9551VR",9,"",""
-"9551VR",21,"",""
-"9551VR",17,"",""
-"9551VR",11,"a",""
-"9551VR",11,"",""
-"9551VR",29,"",""
-"9551VR",15,"",""
-"9551VR",19,"",""
-"9551VR",27,"",""
-"9551VR",23,"",""
-"9551VR",37,"","KGEB"
-"9551VS",32,"",""
-"9551VS",26,"",""
-"9551VS",30,"",""
-"9551VS",14,"",""
-"9551VS",34,"",""
-"9551VS",16,"",""
-"9551VS",12,"",""
-"9551VS",28,"",""
-"9551VS",24,"",""
-9551VP,Bosweg,1,,
-9551VP,Bosweg,2,,
-9551VP,Bosweg,3,,
-9551VP,Bosweg,4,,
-9551VP,Bosweg,6,a,
-9551VP,Bosweg,6,b,
-9551VP,Bosweg,6,c,
-9551VP,Bosweg,6,d,
-9551VP,Bosweg,6,e,
-9551VP,Bosweg,6,f,
-9551VP,Bosweg,6,g,
-9551VP,Bosweg,6,k,
-9551VP,Bosweg,6,l,
-9551VP,Bosweg,6,m,
-9551VP,Bosweg,6,n,
-9551VP,Bosweg,6,s,
-9551VP,Bosweg,6,t,
-9551VP,Bosweg,6,u,
-9551VP,Bosweg,14,,
-9551VP,Bosweg,16,,
-9551VR,G. Buwaldaweg,3,,
-9551VR,G. Buwaldaweg,5,,
-9551VR,G. Buwaldaweg,7,,
-9551VR,G. Buwaldaweg,9,,
-9551VR,G. Buwaldaweg,11,a,
-9551VR,G. Buwaldaweg,11,b,
-9551VR,G. Buwaldaweg,11,c,
-9551VR,G. Buwaldaweg,11,d,
-9551VR,G. Buwaldaweg,11,,
-9551VR,G. Buwaldaweg,13,,TRAF
-9551VR,G. Buwaldaweg,13,,
-9551VR,G. Buwaldaweg,15,,
-9551VR,G. Buwaldaweg,17,,
-9551VR,G. Buwaldaweg,19,,
-9551VR,G. Buwaldaweg,21,,
-9551VR,G. Buwaldaweg,23,,
-9551VR,G. Buwaldaweg,25,,
-9551VR,G. Buwaldaweg,27,,
-9551VR,G. Buwaldaweg,29,,
-9551VR,G. Buwaldaweg,31,,
-9551VR,G. Buwaldaweg,35,,
-9551VR,G. Buwaldaweg,37,,KGEB
-9551VS,G. Buwaldaweg,12,,
-9551VS,G. Buwaldaweg,14,,
-9551VS,G. Buwaldaweg,16,,
-9551VS,G. Buwaldaweg,24,,
-9551VS,G. Buwaldaweg,26,,
-9551VS,G. Buwaldaweg,28,,
-9551VS,G. Buwaldaweg,30,,
-9551VS,G. Buwaldaweg,32,,
-9551VS,G. Buwaldaweg,34,,
-9551TN,Jipsingboertangerweg,35,a,
-9551TN,Jipsingboertangerweg,35,b,
-9551TN,Jipsingboertangerweg,35,,
-9551TN,Jipsingboertangerweg,37,,
-9551TN,Jipsingboertangerweg,39,,
-9551TN,Jipsingboertangerweg,67,,
-9551TN,Jipsingboertangerweg,69,,
-9551TN,Jipsingboertangerweg,71,,
-9551TN,Jipsingboertangerweg,73,,
-9551TN,Jipsingboertangerweg,75,,
-9551TN,Jipsingboertangerweg,77,,
-9551TN,Jipsingboertangerweg,79,,
-9551TN,Jipsingboertangerweg,81,,
-9551TN,Jipsingboertangerweg,83,,
-9551TN,Jipsingboertangerweg,85,,
-9551TN,Jipsingboertangerweg,87,,
-9551TN,Jipsingboertangerweg,89,,
-9551TN,Jipsingboertangerweg,91,,
-9551TN,Jipsingboertangerweg,93,a,
-9551TN,Jipsingboertangerweg,93,b,
-9551TN,Jipsingboertangerweg,93,,
-9551TN,Jipsingboertangerweg,95,,
-9551TN,Jipsingboertangerweg,97,,
-9551TN,Jipsingboertangerweg,99,,
-9551TN,Jipsingboertangerweg,101,,
-9551TN,Jipsingboertangerweg,103,,
-9551TN,Jipsingboertangerweg,107,,
-9551TP,Jipsingboertangerweg,109,,
-9551TP,Jipsingboertangerweg,111,,
-9551TP,Jipsingboertangerweg,115,,
-9551TP,Jipsingboertangerweg,137,,
-9551TP,Jipsingboertangerweg,139,,
-9551TP,Jipsingboertangerweg,141,,
-9551TP,Jipsingboertangerweg,143,,
-9551TP,Jipsingboertangerweg,143,,TRAF
-9551TP,Jipsingboertangerweg,147,,
-9551TP,Jipsingboertangerweg,149,,
-9551TP,Jipsingboertangerweg,151,,
-9551TP,Jipsingboertangerweg,155,,
-9551TP,Jipsingboertangerweg,157,,
-9551TP,Jipsingboertangerweg,159,,
-9551TP,Jipsingboertangerweg,161,,
-9551TP,Jipsingboertangerweg,113,,
-9551TP,Jipsingboertangerweg,149,B,
-9551TP,Jipsingboertangerweg,149,b,
-9551TS,Jipsingboertangerweg,36,,
-9551TS,Jipsingboertangerweg,38,,
-9551TS,Jipsingboertangerweg,104,,
-9551TT,Jipsingboertangerweg,126,,
-9551TT,Jipsingboertangerweg,128,,
-9551TT,Jipsingboertangerweg,130,,
-9551TT,Jipsingboertangerweg,132,,
-9551TT,Jipsingboertangerweg,134,a,
-9551TT,Jipsingboertangerweg,134,,
-9551TT,Jipsingboertangerweg,136,,
-9551TT,Jipsingboertangerweg,138,,
-9551TT,Jipsingboertangerweg,140,a,
-9551TT,Jipsingboertangerweg,140,,
-9551TT,Jipsingboertangerweg,140,,
-9551TT,Jipsingboertangerweg,142,,
-9551TT,Jipsingboertangerweg,144,,
-9551TT,Jipsingboertangerweg,146,,
-9551TT,Jipsingboertangerweg,148,a,
-9551TT,Jipsingboertangerweg,148,,
-9551TT,Jipsingboertangerweg,150,a,
-9551TT,Jipsingboertangerweg,150,,
-9551TT,Jipsingboertangerweg,152,,
-9551TT,Jipsingboertangerweg,154,,
-9551TT,Jipsingboertangerweg,160,,
-9551TT,Jipsingboertangerweg,162,,
-9551TT,Jipsingboertangerweg,164,,
-9551VP,Bosweg,6,o,
-9551TN,Jipsingboertangerweg,35,a,1
-9551TN,Jipsingboertangerweg,35,b,1
-9551TN,Jipsingboertangerweg,35,a,2
-9551TN,Jipsingboertangerweg,35,b,2
-9551TN,Jipsingboertangerweg,35,a,3
-9551TN,Jipsingboertangerweg,35,b,3
-9551TN,Jipsingboertangerweg,35,a,4
-9551TN,Jipsingboertangerweg,35,b,4
-9551TN,Jipsingboertangerweg,35,a,5
-9551TN,Jipsingboertangerweg,35,b,5
-9551TN,Jipsingboertangerweg,35,a,6
-9551TN,Jipsingboertangerweg,35,b,6
-9551TN,Jipsingboertangerweg,35,a,7
-9551TN,Jipsingboertangerweg,35,b,7
-9551TN,Jipsingboertangerweg,35,a,8
-9551TN,Jipsingboertangerweg,35,,8
-9551TN,Jipsingboertangerweg,35,b,8
-9551TN,Jipsingboertangerweg,35,a,9
-9551TN,Jipsingboertangerweg,35,b,9
-9551TN,Jipsingboertangerweg,35,a,10
-9551TN,Jipsingboertangerweg,35,b,10
-9551TN,Jipsingboertangerweg,35,a,11
-9551TN,Jipsingboertangerweg,35,b,11
-9551TN,Jipsingboertangerweg,35,a,12
-9551TN,Jipsingboertangerweg,35,b,12
-9551TN,Jipsingboertangerweg,35,a,13
-9551TN,Jipsingboertangerweg,35,b,13
-9551TN,Jipsingboertangerweg,35,a,14
-9551TN,Jipsingboertangerweg,35,b,14
-9551TN,Jipsingboertangerweg,35,a,15
-9551TN,Jipsingboertangerweg,35,b,15
-9551TN,Jipsingboertangerweg,35,a,16
-9551TN,Jipsingboertangerweg,35,b,16
-9551TN,Jipsingboertangerweg,35,a,17
-9551TN,Jipsingboertangerweg,35,b,17
-9551TN,Jipsingboertangerweg,35,a,18
-9551TN,Jipsingboertangerweg,35,b,18
-9551TN,Jipsingboertangerweg,35,a,19
-9551TN,Jipsingboertangerweg,35,b,19
-9551TN,Jipsingboertangerweg,35,a,20
-9551TN,Jipsingboertangerweg,35,b,20
-9551TN,Jipsingboertangerweg,35,a,21
-9551TN,Jipsingboertangerweg,35,b,21
-9551TN,Jipsingboertangerweg,35,a,22
-9551TN,Jipsingboertangerweg,35,a,22
-9551TN,Jipsingboertangerweg,35,b,22
-9551TN,Jipsingboertangerweg,35,a,23
-9551TN,Jipsingboertangerweg,35,b,23
-9551TN,Jipsingboertangerweg,35,a,24
-9551TN,Jipsingboertangerweg,35,b,24
-9551TN,Jipsingboertangerweg,35,a,25
-9551TN,Jipsingboertangerweg,35,b,25
-9551TN,Jipsingboertangerweg,35,a,26
-9551TN,Jipsingboertangerweg,35,b,26
-9551TN,Jipsingboertangerweg,35,a,27
-9551TN,Jipsingboertangerweg,35,b,27
-9551TN,Jipsingboertangerweg,35,a,28
-9551TN,Jipsingboertangerweg,35,b,28
-9551TN,Jipsingboertangerweg,35,a,29
-9551TN,Jipsingboertangerweg,35,b,29
-9551TN,Jipsingboertangerweg,35,a,30
-9551TN,Jipsingboertangerweg,35,b,30
-9551TN,Jipsingboertangerweg,35,a,31
-9551TN,Jipsingboertangerweg,35,b,31
-9551TN,Jipsingboertangerweg,35,a,32
-9551TN,Jipsingboertangerweg,35,b,32
-9551TN,Jipsingboertangerweg,35,a,33
-9551TN,Jipsingboertangerweg,35,b,33
-9551TN,Jipsingboertangerweg,35,a,34
-9551TN,Jipsingboertangerweg,35,b,34
-9551TN,Jipsingboertangerweg,35,a,35
-9551TN,Jipsingboertangerweg,35,b,35
-9551TN,Jipsingboertangerweg,35,a,36
-9551TN,Jipsingboertangerweg,35,b,36
-9551TN,Jipsingboertangerweg,35,a,37
-9551TN,Jipsingboertangerweg,35,b,37
-9551TN,Jipsingboertangerweg,35,a,38
-9551TN,Jipsingboertangerweg,35,b,38
-9551TN,Jipsingboertangerweg,35,a,39
-9551TN,Jipsingboertangerweg,35,b,39
-9551TN,Jipsingboertangerweg,35,a,40
-9551TN,Jipsingboertangerweg,35,b,40
-9551TN,Jipsingboertangerweg,35,a,41
-9551TN,Jipsingboertangerweg,35,b,41
-9551TN,Jipsingboertangerweg,35,a,42
-9551TN,Jipsingboertangerweg,35,b,42
-9551TN,Jipsingboertangerweg,35,a,43
-9551TN,Jipsingboertangerweg,35,b,43
-9551TN,Jipsingboertangerweg,35,a,44
-9551TN,Jipsingboertangerweg,35,b,44
-9551TN,Jipsingboertangerweg,35,a,45
-9551TN,Jipsingboertangerweg,35,b,45
-9551TN,Jipsingboertangerweg,35,a,46
-9551TN,Jipsingboertangerweg,35,b,46
-9551TN,Jipsingboertangerweg,35,a,47
-9551TN,Jipsingboertangerweg,35,a,47
-9551TN,Jipsingboertangerweg,35,b,47
-9551TN,Jipsingboertangerweg,35,a,48
-9551TN,Jipsingboertangerweg,35,b,48
-9551TN,Jipsingboertangerweg,35,a,49
-9551TN,Jipsingboertangerweg,35,b,49
-9551TN,Jipsingboertangerweg,35,a,50
-9551TN,Jipsingboertangerweg,35,b,50
-9551TN,Jipsingboertangerweg,35,a,51
-9551TN,Jipsingboertangerweg,35,b,51
-9551TN,Jipsingboertangerweg,35,a,52
-9551TN,Jipsingboertangerweg,35,b,52
-9551TN,Jipsingboertangerweg,35,a,53
-9551TN,Jipsingboertangerweg,35,b,53
-9551TN,Jipsingboertangerweg,35,a,54
-9551TN,Jipsingboertangerweg,35,b,54
-9551TN,Jipsingboertangerweg,35,a,55
-9551TN,Jipsingboertangerweg,35,b,55
-9551TN,Jipsingboertangerweg,35,a,56
-9551TN,Jipsingboertangerweg,35,b,56
-9551TN,Jipsingboertangerweg,35,a,57
-9551TN,Jipsingboertangerweg,35,b,57
-9551TN,Jipsingboertangerweg,35,a,58
-9551TN,Jipsingboertangerweg,35,b,58
-9551TN,Jipsingboertangerweg,35,a,59
-9551TN,Jipsingboertangerweg,35,b,59
-9551TN,Jipsingboertangerweg,35,a,60
-9551TN,Jipsingboertangerweg,35,b,60
-9551TN,Jipsingboertangerweg,35,a,61
-9551TN,Jipsingboertangerweg,35,b,61
-9551TN,Jipsingboertangerweg,35,a,62
-9551TN,Jipsingboertangerweg,35,b,62
-9551TN,Jipsingboertangerweg,35,a,63
-9551TN,Jipsingboertangerweg,35,b,63
-9551TN,Jipsingboertangerweg,35,a,64
-9551TN,Jipsingboertangerweg,35,b,64
-9551TN,Jipsingboertangerweg,35,a,65
-9551TN,Jipsingboertangerweg,35,b,65
-9551TN,Jipsingboertangerweg,35,a,66
-9551TN,Jipsingboertangerweg,35,b,66
-9551TN,Jipsingboertangerweg,35,a,67
-9551TN,Jipsingboertangerweg,35,b,67
-9551TN,Jipsingboertangerweg,35,a,68
-9551TN,Jipsingboertangerweg,35,b,68
-9551TN,Jipsingboertangerweg,35,a,69
-9551TN,Jipsingboertangerweg,35,b,69
-9551TN,Jipsingboertangerweg,35,a,70
-9551TN,Jipsingboertangerweg,35,b,70
-9551TN,Jipsingboertangerweg,35,a,71
-9551TN,Jipsingboertangerweg,35,b,71
-9551TN,Jipsingboertangerweg,35,a,72
-9551TN,Jipsingboertangerweg,35,b,72
-9551TP,Jipsingboertangerweg,137,,
-9551TP,Jipsingboertangerweg,137,,
-9551TN,Jipsingboertangerweg,35,a,73
-9551TN,Jipsingboertangerweg,35,b,73
-9551TN,Jipsingboertangerweg,35,a,74
-9551TN,Jipsingboertangerweg,35,b,74
-9551TN,Jipsingboertangerweg,35,a,75
-9551TN,Jipsingboertangerweg,35,b,75
-9551TN,Jipsingboertangerweg,35,a,76
-9551TN,Jipsingboertangerweg,35,b,76
-9551TN,Jipsingboertangerweg,35,a,77
-9551TN,Jipsingboertangerweg,35,b,77
-9551TN,Jipsingboertangerweg,35,a,78
-9551TN,Jipsingboertangerweg,35,b,78
-9551TN,Jipsingboertangerweg,35,a,79
-9551TN,Jipsingboertangerweg,35,b,79
-9551TN,Jipsingboertangerweg,35,a,80
-9551TN,Jipsingboertangerweg,35,b,80
-9551TN,Jipsingboertangerweg,35,a,81
-9551TN,Jipsingboertangerweg,35,b,81
-9551TN,Jipsingboertangerweg,35,a,82
-9551TN,Jipsingboertangerweg,35,b,82
-9551TN,Jipsingboertangerweg,35,a,83
-9551TN,Jipsingboertangerweg,35,b,83
-9551TN,Jipsingboertangerweg,35,a,84
-9551TN,Jipsingboertangerweg,35,b,84
-9551TN,Jipsingboertangerweg,35,a,85
-9551TN,Jipsingboertangerweg,35,b,85
-9551TN,Jipsingboertangerweg,35,a,86
-9551TN,Jipsingboertangerweg,35,b,86
-9551TS,Jipsingboertangerweg,104,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Jipsingboertangerweg,101,"","",9551TN,Sellingen
+Jipsingboertangerweg,103,"","",9551TN,Sellingen
+Jipsingboertangerweg,107,"","",9551TN,Sellingen
+Jipsingboertangerweg,35,"","",9551TN,Sellingen
+Jipsingboertangerweg,35,A,"",9551TN,Sellingen
+Jipsingboertangerweg,35,B,"",9551TN,Sellingen
+Jipsingboertangerweg,37,"","",9551TN,Sellingen
+Jipsingboertangerweg,39,"","",9551TN,Sellingen
+Jipsingboertangerweg,67,"","",9551TN,Sellingen
+Jipsingboertangerweg,69,"","",9551TN,Sellingen
+Jipsingboertangerweg,71,"","",9551TN,Sellingen
+Jipsingboertangerweg,73,"","",9551TN,Sellingen
+Jipsingboertangerweg,75,"","",9551TN,Sellingen
+Jipsingboertangerweg,77,"","",9551TN,Sellingen
+Jipsingboertangerweg,79,"","",9551TN,Sellingen
+Jipsingboertangerweg,81,"","",9551TN,Sellingen
+Jipsingboertangerweg,83,"","",9551TN,Sellingen
+Jipsingboertangerweg,85,"","",9551TN,Sellingen
+Jipsingboertangerweg,87,"","",9551TN,Sellingen
+Jipsingboertangerweg,89,"","",9551TN,Sellingen
+Jipsingboertangerweg,91,"","",9551TN,Sellingen
+Jipsingboertangerweg,93,"","",9551TN,Sellingen
+Jipsingboertangerweg,93,A,"",9551TN,Sellingen
+Jipsingboertangerweg,93,B,"",9551TN,Sellingen
+Jipsingboertangerweg,95,"","",9551TN,Sellingen
+Jipsingboertangerweg,97,"","",9551TN,Sellingen
+Jipsingboertangerweg,99,"","",9551TN,Sellingen
+Jipsingboertangerweg,109,"","",9551TP,Sellingen
+Jipsingboertangerweg,111,"","",9551TP,Sellingen
+Jipsingboertangerweg,113,"","",9551TP,Sellingen
+Jipsingboertangerweg,115,"","",9551TP,Sellingen
+Jipsingboertangerweg,137,"","",9551TP,Sellingen
+Jipsingboertangerweg,137,"","",9551TP,Sellingen
+Jipsingboertangerweg,139,"","",9551TP,Sellingen
+Jipsingboertangerweg,141,"","",9551TP,Sellingen
+Jipsingboertangerweg,143,"","",9551TP,Sellingen
+Jipsingboertangerweg,143,"",TRAF,9551TP,Sellingen
+Jipsingboertangerweg,147,"","",9551TP,Sellingen
+Jipsingboertangerweg,149,"","",9551TP,Sellingen
+Jipsingboertangerweg,149,B,"",9551TP,Sellingen
+Jipsingboertangerweg,149,B,"",9551TP,Sellingen
+Jipsingboertangerweg,151,"","",9551TP,Sellingen
+Jipsingboertangerweg,155,"","",9551TP,Sellingen
+Jipsingboertangerweg,157,"","",9551TP,Sellingen
+Jipsingboertangerweg,159,"","",9551TP,Sellingen
+Jipsingboertangerweg,161,"","",9551TP,Sellingen
+Jipsingboertangerweg,104,"","",9551TS,Sellingen
+Jipsingboertangerweg,36,"","",9551TS,Sellingen
+Jipsingboertangerweg,38,"","",9551TS,Sellingen
+Jipsingboertangerweg,126,"","",9551TT,Sellingen
+Jipsingboertangerweg,128,"","",9551TT,Sellingen
+Jipsingboertangerweg,130,"","",9551TT,Sellingen
+Jipsingboertangerweg,132,"","",9551TT,Sellingen
+Jipsingboertangerweg,134,"","",9551TT,Sellingen
+Jipsingboertangerweg,134,A,"",9551TT,Sellingen
+Jipsingboertangerweg,136,"","",9551TT,Sellingen
+Jipsingboertangerweg,138,"","",9551TT,Sellingen
+Jipsingboertangerweg,140,"","",9551TT,Sellingen
+Jipsingboertangerweg,140,"","",9551TT,Sellingen
+Jipsingboertangerweg,140,"","",9551TT,Sellingen
+Jipsingboertangerweg,140,A,"",9551TT,Sellingen
+Jipsingboertangerweg,142,"","",9551TT,Sellingen
+Jipsingboertangerweg,144,"","",9551TT,Sellingen
+Jipsingboertangerweg,146,"","",9551TT,Sellingen
+Jipsingboertangerweg,148,"","",9551TT,Sellingen
+Jipsingboertangerweg,148,A,"",9551TT,Sellingen
+Jipsingboertangerweg,150,"","",9551TT,Sellingen
+Jipsingboertangerweg,150,A,"",9551TT,Sellingen
+Jipsingboertangerweg,152,"","",9551TT,Sellingen
+Jipsingboertangerweg,152,"","",9551TT,Sellingen
+Jipsingboertangerweg,154,"","",9551TT,Sellingen
+Jipsingboertangerweg,160,"","",9551TT,Sellingen
+Jipsingboertangerweg,162,"","",9551TT,Sellingen
+Jipsingboertangerweg,164,"","",9551TT,Sellingen
+Bosweg,1,"","",9551VP,Sellingen
+Bosweg,14,"","",9551VP,Sellingen
+Bosweg,16,"","",9551VP,Sellingen
+Bosweg,2,"","",9551VP,Sellingen
+Bosweg,3,"","",9551VP,Sellingen
+Bosweg,4,"","",9551VP,Sellingen
+Bosweg,6,A,"",9551VP,Sellingen
+Bosweg,6,B,"",9551VP,Sellingen
+Bosweg,6,C,"",9551VP,Sellingen
+Bosweg,6,D,"",9551VP,Sellingen
+Bosweg,6,E,"",9551VP,Sellingen
+Bosweg,6,F,"",9551VP,Sellingen
+Bosweg,6,G,"",9551VP,Sellingen
+Bosweg,6,K,"",9551VP,Sellingen
+Bosweg,6,L,"",9551VP,Sellingen
+Bosweg,6,M,"",9551VP,Sellingen
+Bosweg,6,N,"",9551VP,Sellingen
+Bosweg,6,S,"",9551VP,Sellingen
+Bosweg,6,T,"",9551VP,Sellingen
+Bosweg,6,U,"",9551VP,Sellingen
+G. Buwaldaweg,11,"","",9551VR,Sellingen
+G. Buwaldaweg,11,A,"",9551VR,Sellingen
+G. Buwaldaweg,11,B,"",9551VR,Sellingen
+G. Buwaldaweg,11,C,"",9551VR,Sellingen
+G. Buwaldaweg,11,D,"",9551VR,Sellingen
+G. Buwaldaweg,13,"","",9551VR,Sellingen
+G. Buwaldaweg,13,"",TRAF,9551VR,Sellingen
+G. Buwaldaweg,15,"","",9551VR,Sellingen
+G. Buwaldaweg,17,"","",9551VR,Sellingen
+G. Buwaldaweg,19,"","",9551VR,Sellingen
+G. Buwaldaweg,21,"","",9551VR,Sellingen
+G. Buwaldaweg,23,"","",9551VR,Sellingen
+G. Buwaldaweg,25,"","",9551VR,Sellingen
+G. Buwaldaweg,27,"","",9551VR,Sellingen
+G. Buwaldaweg,29,"","",9551VR,Sellingen
+G. Buwaldaweg,3,"","",9551VR,Sellingen
+G. Buwaldaweg,31,"","",9551VR,Sellingen
+G. Buwaldaweg,35,"","",9551VR,Sellingen
+G. Buwaldaweg,37,"",KGEB,9551VR,Sellingen
+G. Buwaldaweg,5,"","",9551VR,Sellingen
+G. Buwaldaweg,7,"","",9551VR,Sellingen
+G. Buwaldaweg,9,"","",9551VR,Sellingen
+G. Buwaldaweg,12,"","",9551VS,Sellingen
+G. Buwaldaweg,14,"","",9551VS,Sellingen
+G. Buwaldaweg,16,"","",9551VS,Sellingen
+G. Buwaldaweg,24,"","",9551VS,Sellingen
+G. Buwaldaweg,26,"","",9551VS,Sellingen
+G. Buwaldaweg,28,"","",9551VS,Sellingen
+G. Buwaldaweg,30,"","",9551VS,Sellingen
+G. Buwaldaweg,32,"","",9551VS,Sellingen
+G. Buwaldaweg,34,"","",9551VS,Sellingen

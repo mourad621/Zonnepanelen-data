@@ -1,401 +1,210 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8808HA",5,"",""
-"8808HA",1,"",""
-"8808HA",6,"",""
-"8808HA",2,"",""
-"8808HA",3,"",""
-"8808HA",4,"",""
-"8808HC",19,"",""
-"8808HC",11,"",""
-"8808HC",13,"",""
-"8808HC",17,"",""
-"8808HC",23,"",""
-"8808HC",9,"",""
-"8808HC",9,"A",""
-"8808HC",15,"",""
-"8808HD",28,"",""
-"8808HD",8,"",""
-"8808HD",20,"",""
-"8808HD",26,"",""
-"8808HD",30,"",""
-"8808HD",24,"",""
-"8808HD",8,"",""
-"8808HD",14,"",""
-"8808HD",2,"",""
-"8808HD",16,"",""
-"8808HD",4,"",""
-"8808HD",6,"",""
-"8808HD",18,"",""
-"8808HE",15,"",""
-"8808HE",1,"",""
-"8808HE",3,"",""
-"8808HE",7,"",""
-"8808HE",9,"",""
-"8808HE",11,"",""
-"8808HE",5,"",""
-"8808HE",13,"",""
-"8808HG",43,"",""
-"8808HG",41,"",""
-"8808HG",39,"",""
-"8808HG",37,"",""
-"8808HG",41,"",""
-"8808HG",39,"",""
-"8808HG",25,"",""
-"8808HG",45,"",""
-"8808HG",35,"",""
-"8808HG",41,"",""
-"8808HG",45,"",""
-"8808HG",35,"",""
-"8808HG",35,"",""
-"8808HG",33,"",""
-"8808HG",39,"",""
-"8808HG",43,"",""
-"8808HG",31,"",""
-"8808HG",23,"",""
-"8808HG",35,"",""
-"8808HG",37,"",""
-"8808HG",37,"",""
-"8808HG",27,"",""
-"8808HH",8,"",""
-"8808HH",6,"",""
-"8808HH",4,"",""
-"8808HH",2,"A",""
-"8808HH",26,"",""
-"8808HH",2,"",""
-"8808HH",24,"",""
-"8808HH",14,"",""
-"8808HH",24,"",""
-"8808HH",18,"",""
-"8808HH",22,"",""
-"8808HH",22,"",""
-"8808HH",12,"",""
-"8808HH",26,"",""
-"8808HH",28,"",""
-"8808HH",20,"",""
-"8808HH",28,"",""
-"8808HJ",12,"",""
-"8808HJ",10,"",""
-"8808HJ",10,"",""
-"8808HJ",1,"",""
-"8808HJ",14,"",""
-"8808HJ",10,"",""
-"8808HJ",12,"",""
-"8808HJ",9,"",""
-"8808HJ",2,"",""
-"8808HJ",8,"",""
-"8808HJ",12,"",""
-"8808HJ",6,"",""
-"8808HJ",5,"",""
-"8808HJ",2,"",""
-"8808HJ",1,"A",""
-"8808HJ",8,"",""
-"8808HJ",8,"",""
-"8808HJ",6,"",""
-"8808HJ",14,"",""
-"8808HJ",2,"",""
-"8808HJ",12,"",""
-"8808HJ",4,"",""
-"8808HJ",4,"",""
-"8808HJ",7,"",""
-"8808HJ",16,"",""
-"8808HJ",6,"",""
-"8808HJ",16,"",""
-"8808HJ",3,"",""
-"8808HJ",4,"",""
-"8808HK",13,"",""
-"8808HK",15,"",""
-"8808HK",12,"",""
-"8808HK",2,"",""
-"8808HK",9,"",""
-"8808HK",1,"",""
-"8808HK",6,"",""
-"8808HK",23,"",""
-"8808HK",4,"",""
-"8808HK",10,"",""
-"8808HK",2,"",""
-"8808HK",17,"",""
-"8808HK",19,"",""
-"8808HK",8,"",""
-"8808HK",27,"",""
-"8808HK",25,"",""
-"8808HK",3,"",""
-"8808HK",5,"",""
-"8808HK",7,"",""
-"8808HK",11,"",""
-"8808HK",21,"",""
-"8808HL",27,"",""
-"8808HL",11,"",""
-"8808HL",29,"",""
-"8808HL",25,"",""
-"8808HL",25,"",""
-"8808HL",27,"",""
-"8808HL",13,"",""
-"8808HL",20,"",""
-"8808HL",23,"",""
-"8808HL",27,"",""
-"8808HL",21,"",""
-"8808HL",25,"",""
-"8808HL",31,"",""
-"8808HL",19,"",""
-"8808HL",23,"",""
-"8808HL",17,"",""
-"8808HL",33,"",""
-"8808HL",16,"",""
-"8808HL",1,"",""
-"8808HL",31,"",""
-"8808HL",7,"",""
-"8808HL",2,"",""
-"8808HL",14,"",""
-"8808HL",29,"",""
-"8808HL",23,"",""
-"8808HL",12,"",""
-"8808HL",10,"",""
-"8808HL",3,"",""
-"8808HL",18,"",""
-"8808HL",29,"",""
-"8808HL",9,"",""
-"8808HL",5,"",""
-"8808HL",8,"",""
-"8808HL",6,"",""
-"8808HP",31,"",""
-"8808HP",21,"",""
-"8808HP",33,"",""
-"8808HP",15,"",""
-"8808HP",13,"",""
-"8808HP",11,"",""
-"8808HP",5,"",""
-"8808HP",1,"",""
-"8808HP",29,"",""
-"8808HP",25,"",""
-"8808HP",7,"",""
-"8808HP",27,"",""
-"8808HP",9,"",""
-"8808HR",6,"",""
-"8808HR",32,"",""
-"8808HR",30,"",""
-"8808HR",8,"",""
-"8808HR",10,"",""
-"8808HR",12,"",""
-"8808HR",20,"",""
-"8808HR",14,"",""
-"8808HR",4,"",""
-"8808HR",28,"",""
-"8808HR",26,"",""
-"8808HR",2,"",""
-"8808HS",7,"",""
-"8808HS",2,"",""
-"8808HS",3,"",""
-"8808HS",4,"",""
-"8808HS",6,"",""
-"8808HS",10,"",""
-"8808HS",5,"",""
-"8808HS",1,"",""
-"8808HS",8,"",""
-"8808HT",1,"",""
-"8808HT",2,"",""
-"8808HT",14,"",""
-"8808HT",2,"",""
-"8808HT",3,"",""
-"8808HT",14,"",""
-"8808HT",8,"",""
-"8808HT",12,"",""
-"8808HT",12,"",""
-"8808HT",10,"",""
-"8808HT",10,"",""
-"8808HT",8,"",""
-"8808HT",6,"",""
-"8808HT",3,"",""
-"8808HT",4,"",""
-"8808HT",5,"",""
-"8808HT",5,"",""
-8808HK,Marten Anemastraat,2,,
-8808HK,Marten Anemastraat,4,,
-8808HK,Marten Anemastraat,6,,
-8808HK,Marten Anemastraat,8,,
-8808HK,Marten Anemastraat,10,,
-8808HK,Marten Anemastraat,12,,
-8808HK,Marten Anemastraat,1,,
-8808HK,Marten Anemastraat,3,,
-8808HK,Marten Anemastraat,5,,
-8808HK,Marten Anemastraat,7,,
-8808HK,Marten Anemastraat,9,,
-8808HK,Marten Anemastraat,11,,
-8808HK,Marten Anemastraat,13,,
-8808HK,Marten Anemastraat,15,,
-8808HK,Marten Anemastraat,17,,
-8808HK,Marten Anemastraat,19,,
-8808HK,Marten Anemastraat,21,,
-8808HK,Marten Anemastraat,23,,
-8808HK,Marten Anemastraat,25,,
-8808HL,Dorpsstraat,10,,
-8808HL,Dorpsstraat,8,,
-8808HL,Dorpsstraat,12,,
-8808HL,Dorpsstraat,1,,
-8808HL,Dorpsstraat,3,,
-8808HL,Dorpsstraat,5,,
-8808HL,Dorpsstraat,9,,
-8808HL,Dorpsstraat,11,,
-8808HL,Dorpsstraat,13,,
-8808HL,Dorpsstraat,19,,
-8808HL,Dorpsstraat,21,,
-8808HL,Dorpsstraat,23,,
-8808HL,Dorpsstraat,27,,
-8808HL,Dorpsstraat,31,,
-8808HL,Dorpsstraat,2,,
-8808HL,Dorpsstraat,6,,
-8808HP,Wytse Foppesstrjitte,33,,
-8808HP,Wytse Foppesstrjitte,31,,
-8808HP,Wytse Foppesstrjitte,5,,
-8808HP,Wytse Foppesstrjitte,9,,
-8808HP,Wytse Foppesstrjitte,11,,
-8808HP,Wytse Foppesstrjitte,13,,
-8808HP,Wytse Foppesstrjitte,15,,
-8808HP,Wytse Foppesstrjitte,21,,
-8808HP,Wytse Foppesstrjitte,25,,
-8808HP,Wytse Foppesstrjitte,29,,
-8808HP,Wytse Foppesstrjitte,1,,
-8808HP,Wytse Foppesstrjitte,27,,
-8808HR,Wytse Foppesstrjitte,32,,
-8808HR,Wytse Foppesstrjitte,4,,
-8808HR,Wytse Foppesstrjitte,6,,
-8808HR,Wytse Foppesstrjitte,8,,
-8808HR,Wytse Foppesstrjitte,10,,
-8808HR,Wytse Foppesstrjitte,12,,
-8808HR,Wytse Foppesstrjitte,26,,
-8808HR,Wytse Foppesstrjitte,28,,
-8808HR,Wytse Foppesstrjitte,30,,
-8808HA,Franekerweg,4,,
-8808HA,Franekerweg,3,,
-8808HA,Franekerweg,5,,
-8808HA,Franekerweg,2,,
-8808HJ,Van Goslingastraat,1,A,
-8808HJ,Van Goslingastraat,2,,
-8808HJ,Van Goslingastraat,6,,
-8808HJ,Van Goslingastraat,8,,
-8808HJ,Van Goslingastraat,10,,
-8808HJ,Van Goslingastraat,12,,
-8808HJ,Van Goslingastraat,14,,
-8808HJ,Van Goslingastraat,16,,
-8808HJ,Van Goslingastraat,1,,
-8808HJ,Van Goslingastraat,3,,
-8808HJ,Van Goslingastraat,5,,
-8808HJ,Van Goslingastraat,7,,
-8808HJ,Van Goslingastraat,9,,
-8808HE,Noorderstraat,13,,
-8808HE,Noorderstraat,15,,
-8808HE,Noorderstraat,3,,
-8808HE,Noorderstraat,5,,
-8808HE,Noorderstraat,7,,
-8808HE,Noorderstraat,9,,
-8808HE,Noorderstraat,11,,
-8808HG,Noorderstraat,41,,
-8808HG,Noorderstraat,43,,
-8808HG,Noorderstraat,45,,
-8808HG,Noorderstraat,37,,
-8808HG,Noorderstraat,39,,
-8808HG,Noorderstraat,23,,
-8808HG,Noorderstraat,25,,
-8808HG,Noorderstraat,27,,
-8808HG,Noorderstraat,35,,
-8808HH,Noorderstraat,2,,
-8808HH,Noorderstraat,2,A,
-8808HH,Noorderstraat,4,,
-8808HH,Noorderstraat,6,,
-8808HH,Noorderstraat,8,,
-8808HH,Noorderstraat,12,,
-8808HH,Noorderstraat,14,,
-8808HH,Noorderstraat,18,,
-8808HH,Noorderstraat,20,,
-8808HH,Noorderstraat,22,,
-8808HH,Noorderstraat,24,,
-8808HH,Noorderstraat,28,,
-8808HC,Tzummarumerweg,9,,
-8808HC,Tzummarumerweg,9,A,
-8808HC,Tzummarumerweg,11,,
-8808HC,Tzummarumerweg,13,,
-8808HC,Tzummarumerweg,15,,
-8808HD,Tzummarumerweg,4,,
-8808HD,Tzummarumerweg,6,,
-8808HD,Tzummarumerweg,8,,
-8808HD,Tzummarumerweg,14,,
-8808HD,Tzummarumerweg,16,,
-8808HD,Tzummarumerweg,18,,
-8808HD,Tzummarumerweg,20,,
-8808HD,Tzummarumerweg,24,,
-8808HD,Tzummarumerweg,26,,
-8808HT,Jorrit Biermastrjitte,5,,
-8808HT,Jorrit Biermastrjitte,5,,
-8808HT,Jorrit Biermastrjitte,3,,
-8808HT,Jorrit Biermastrjitte,3,,
-8808HT,Jorrit Biermastrjitte,2,,
-8808HT,Jorrit Biermastrjitte,2,,
-8808HK,Marten Anemastraat,27,,
-8808HL,Dorpsstraat,14,,
-8808HL,Dorpsstraat,20,,
-8808HL,Dorpsstraat,7,,
-8808HL,Dorpsstraat,16,,
-8808HL,Dorpsstraat,18,,
-8808HL,Dorpsstraat,25,,
-8808HL,Dorpsstraat,33,,
-8808HL,Dorpsstraat,17,,
-8808HL,Dorpsstraat,29,,
-8808HL,Dorpsstraat,23,,
-8808HL,Dorpsstraat,25,,
-8808HL,Dorpsstraat,27,,
-8808HL,Dorpsstraat,29,,
-8808HP,Wytse Foppesstrjitte,7,,
-8808HR,Wytse Foppesstrjitte,20,,
-8808HR,Wytse Foppesstrjitte,14,,
-8808HR,Wytse Foppesstrjitte,2,,
-8808HA,Franekerweg,6,,
-8808HA,Franekerweg,1,,
-8808HJ,Van Goslingastraat,4,,
-8808HJ,Van Goslingastraat,2,,
-8808HJ,Van Goslingastraat,4,,
-8808HJ,Van Goslingastraat,6,,
-8808HJ,Van Goslingastraat,8,,
-8808HJ,Van Goslingastraat,12,,
-8808HJ,Van Goslingastraat,12,,
-8808HJ,Van Goslingastraat,10,,
-8808HE,Noorderstraat,1,,
-8808HG,Noorderstraat,31,,
-8808HG,Noorderstraat,33,,
-8808HG,Noorderstraat,35,,
-8808HG,Noorderstraat,35,,
-8808HG,Noorderstraat,37,,
-8808HG,Noorderstraat,39,,
-8808HG,Noorderstraat,41,,
-8808HH,Noorderstraat,26,,
-8808HC,Tzummarumerweg,23,,
-8808HC,Tzummarumerweg,17,,
-8808HC,Tzummarumerweg,19,,
-8808HD,Tzummarumerweg,2,,
-8808HD,Tzummarumerweg,30,,
-8808HD,Tzummarumerweg,28,,
-8808HT,Jorrit Biermastrjitte,8,,
-8808HT,Jorrit Biermastrjitte,8,,
-8808HT,Jorrit Biermastrjitte,10,,
-8808HT,Jorrit Biermastrjitte,10,,
-8808HT,Jorrit Biermastrjitte,12,,
-8808HT,Jorrit Biermastrjitte,12,,
-8808HT,Jorrit Biermastrjitte,4,,
-8808HT,Jorrit Biermastrjitte,14,,
-8808HT,Jorrit Biermastrjitte,14,,
-8808HT,Jorrit Biermastrjitte,6,,
-8808HT,Jorrit Biermastrjitte,1,,
-8808HS,M C Willemsstraat,2,,
-8808HS,M C Willemsstraat,7,,
-8808HS,M C Willemsstraat,5,,
-8808HS,M C Willemsstraat,3,,
-8808HS,M C Willemsstraat,8,,
-8808HS,M C Willemsstraat,10,,
-8808HS,M C Willemsstraat,4,,
-8808HS,M C Willemsstraat,1,,
-8808HS,M C Willemsstraat,6,,
-8808HD,Tzummarumerweg,8,,
-8808HD,Tzummarumerweg,10,,
-8808HT,Jorrit Biermastrjitte,14,,
-8808HT,Jorrit Biermastrjitte,12,,
-8808HT,Jorrit Biermastrjitte,16,,
-8808HT,Jorrit Biermastrjitte,20,,
-8808HT,Jorrit Biermastrjitte,18,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Franekerweg,1,"","",8808HA,Dongjum
+Franekerweg,2,"","",8808HA,Dongjum
+Franekerweg,3,"","",8808HA,Dongjum
+Franekerweg,4,"","",8808HA,Dongjum
+Franekerweg,5,"","",8808HA,Dongjum
+Franekerweg,6,"","",8808HA,Dongjum
+Tzummarumerweg,11,"","",8808HC,Dongjum
+Tzummarumerweg,13,"","",8808HC,Dongjum
+Tzummarumerweg,15,"","",8808HC,Dongjum
+Tzummarumerweg,17,"","",8808HC,Dongjum
+Tzummarumerweg,19,"","",8808HC,Dongjum
+Tzummarumerweg,23,"","",8808HC,Dongjum
+Tzummarumerweg,9,"","",8808HC,Dongjum
+Tzummarumerweg,9,A,"",8808HC,Dongjum
+Tzummarumerweg,14,"","",8808HD,Dongjum
+Tzummarumerweg,16,"","",8808HD,Dongjum
+Tzummarumerweg,18,"","",8808HD,Dongjum
+Tzummarumerweg,2,"","",8808HD,Dongjum
+Tzummarumerweg,20,"","",8808HD,Dongjum
+Tzummarumerweg,24,"","",8808HD,Dongjum
+Tzummarumerweg,26,"","",8808HD,Dongjum
+Tzummarumerweg,28,"","",8808HD,Dongjum
+Tzummarumerweg,30,"","",8808HD,Dongjum
+Tzummarumerweg,4,"","",8808HD,Dongjum
+Tzummarumerweg,6,"","",8808HD,Dongjum
+Tzummarumerweg,8,"","",8808HD,Dongjum
+Tzummarumerweg,8,"","",8808HD,Dongjum
+Noorderstraat,1,"","",8808HE,Dongjum
+Noorderstraat,11,"","",8808HE,Dongjum
+Noorderstraat,13,"","",8808HE,Dongjum
+Noorderstraat,15,"","",8808HE,Dongjum
+Noorderstraat,3,"","",8808HE,Dongjum
+Noorderstraat,5,"","",8808HE,Dongjum
+Noorderstraat,7,"","",8808HE,Dongjum
+Noorderstraat,9,"","",8808HE,Dongjum
+Noorderstraat,23,"","",8808HG,Dongjum
+Noorderstraat,25,"","",8808HG,Dongjum
+Noorderstraat,27,"","",8808HG,Dongjum
+Noorderstraat,31,"","",8808HG,Dongjum
+Noorderstraat,33,"","",8808HG,Dongjum
+Noorderstraat,35,"","",8808HG,Dongjum
+Noorderstraat,35,"","",8808HG,Dongjum
+Noorderstraat,35,"","",8808HG,Dongjum
+Noorderstraat,35,"","",8808HG,Dongjum
+Noorderstraat,37,"","",8808HG,Dongjum
+Noorderstraat,37,"","",8808HG,Dongjum
+Noorderstraat,37,"","",8808HG,Dongjum
+Noorderstraat,39,"","",8808HG,Dongjum
+Noorderstraat,39,"","",8808HG,Dongjum
+Noorderstraat,39,"","",8808HG,Dongjum
+Noorderstraat,41,"","",8808HG,Dongjum
+Noorderstraat,41,"","",8808HG,Dongjum
+Noorderstraat,41,"","",8808HG,Dongjum
+Noorderstraat,43,"","",8808HG,Dongjum
+Noorderstraat,43,"","",8808HG,Dongjum
+Noorderstraat,45,"","",8808HG,Dongjum
+Noorderstraat,45,"","",8808HG,Dongjum
+Noorderstraat,12,"","",8808HH,Dongjum
+Noorderstraat,14,"","",8808HH,Dongjum
+Noorderstraat,18,"","",8808HH,Dongjum
+Noorderstraat,2,"","",8808HH,Dongjum
+Noorderstraat,2,A,"",8808HH,Dongjum
+Noorderstraat,20,"","",8808HH,Dongjum
+Noorderstraat,22,"","",8808HH,Dongjum
+Noorderstraat,22,"","",8808HH,Dongjum
+Noorderstraat,24,"","",8808HH,Dongjum
+Noorderstraat,24,"","",8808HH,Dongjum
+Noorderstraat,26,"","",8808HH,Dongjum
+Noorderstraat,26,"","",8808HH,Dongjum
+Noorderstraat,28,"","",8808HH,Dongjum
+Noorderstraat,28,"","",8808HH,Dongjum
+Noorderstraat,4,"","",8808HH,Dongjum
+Noorderstraat,6,"","",8808HH,Dongjum
+Noorderstraat,8,"","",8808HH,Dongjum
+Van Goslingastraat,1,"","",8808HJ,Dongjum
+Van Goslingastraat,1,A,"",8808HJ,Dongjum
+Van Goslingastraat,10,"","",8808HJ,Dongjum
+Van Goslingastraat,10,"","",8808HJ,Dongjum
+Van Goslingastraat,10,"","",8808HJ,Dongjum
+Van Goslingastraat,12,"","",8808HJ,Dongjum
+Van Goslingastraat,12,"","",8808HJ,Dongjum
+Van Goslingastraat,12,"","",8808HJ,Dongjum
+Van Goslingastraat,12,"","",8808HJ,Dongjum
+Van Goslingastraat,14,"","",8808HJ,Dongjum
+Van Goslingastraat,14,"","",8808HJ,Dongjum
+Van Goslingastraat,16,"","",8808HJ,Dongjum
+Van Goslingastraat,16,"","",8808HJ,Dongjum
+Van Goslingastraat,2,"","",8808HJ,Dongjum
+Van Goslingastraat,2,"","",8808HJ,Dongjum
+Van Goslingastraat,2,"","",8808HJ,Dongjum
+Van Goslingastraat,3,"","",8808HJ,Dongjum
+Van Goslingastraat,4,"","",8808HJ,Dongjum
+Van Goslingastraat,4,"","",8808HJ,Dongjum
+Van Goslingastraat,4,"","",8808HJ,Dongjum
+Van Goslingastraat,5,"","",8808HJ,Dongjum
+Van Goslingastraat,6,"","",8808HJ,Dongjum
+Van Goslingastraat,6,"","",8808HJ,Dongjum
+Van Goslingastraat,6,"","",8808HJ,Dongjum
+Van Goslingastraat,7,"","",8808HJ,Dongjum
+Van Goslingastraat,8,"","",8808HJ,Dongjum
+Van Goslingastraat,8,"","",8808HJ,Dongjum
+Van Goslingastraat,8,"","",8808HJ,Dongjum
+Van Goslingastraat,9,"","",8808HJ,Dongjum
+Marten Anemastraat,1,"","",8808HK,Dongjum
+Marten Anemastraat,10,"","",8808HK,Dongjum
+Marten Anemastraat,11,"","",8808HK,Dongjum
+Marten Anemastraat,12,"","",8808HK,Dongjum
+Marten Anemastraat,13,"","",8808HK,Dongjum
+Marten Anemastraat,15,"","",8808HK,Dongjum
+Marten Anemastraat,17,"","",8808HK,Dongjum
+Marten Anemastraat,19,"","",8808HK,Dongjum
+Marten Anemastraat,2,"","",8808HK,Dongjum
+Marten Anemastraat,2,"","",8808HK,Dongjum
+Marten Anemastraat,21,"","",8808HK,Dongjum
+Marten Anemastraat,23,"","",8808HK,Dongjum
+Marten Anemastraat,25,"","",8808HK,Dongjum
+Marten Anemastraat,27,"","",8808HK,Dongjum
+Marten Anemastraat,3,"","",8808HK,Dongjum
+Marten Anemastraat,4,"","",8808HK,Dongjum
+Marten Anemastraat,5,"","",8808HK,Dongjum
+Marten Anemastraat,6,"","",8808HK,Dongjum
+Marten Anemastraat,7,"","",8808HK,Dongjum
+Marten Anemastraat,8,"","",8808HK,Dongjum
+Marten Anemastraat,9,"","",8808HK,Dongjum
+Dorpsstraat,1,"","",8808HL,Dongjum
+Dorpsstraat,10,"","",8808HL,Dongjum
+Dorpsstraat,11,"","",8808HL,Dongjum
+Dorpsstraat,12,"","",8808HL,Dongjum
+Dorpsstraat,13,"","",8808HL,Dongjum
+Dorpsstraat,14,"","",8808HL,Dongjum
+Dorpsstraat,16,"","",8808HL,Dongjum
+Dorpsstraat,17,"","",8808HL,Dongjum
+Dorpsstraat,18,"","",8808HL,Dongjum
+Dorpsstraat,19,"","",8808HL,Dongjum
+Dorpsstraat,2,"","",8808HL,Dongjum
+Dorpsstraat,20,"","",8808HL,Dongjum
+Dorpsstraat,21,"","",8808HL,Dongjum
+Dorpsstraat,23,"","",8808HL,Dongjum
+Dorpsstraat,23,"","",8808HL,Dongjum
+Dorpsstraat,23,"","",8808HL,Dongjum
+Dorpsstraat,25,"","",8808HL,Dongjum
+Dorpsstraat,25,"","",8808HL,Dongjum
+Dorpsstraat,25,"","",8808HL,Dongjum
+Dorpsstraat,27,"","",8808HL,Dongjum
+Dorpsstraat,27,"","",8808HL,Dongjum
+Dorpsstraat,27,"","",8808HL,Dongjum
+Dorpsstraat,29,"","",8808HL,Dongjum
+Dorpsstraat,29,"","",8808HL,Dongjum
+Dorpsstraat,29,"","",8808HL,Dongjum
+Dorpsstraat,3,"","",8808HL,Dongjum
+Dorpsstraat,31,"","",8808HL,Dongjum
+Dorpsstraat,31,"","",8808HL,Dongjum
+Dorpsstraat,33,"","",8808HL,Dongjum
+Dorpsstraat,5,"","",8808HL,Dongjum
+Dorpsstraat,6,"","",8808HL,Dongjum
+Dorpsstraat,7,"","",8808HL,Dongjum
+Dorpsstraat,8,"","",8808HL,Dongjum
+Dorpsstraat,9,"","",8808HL,Dongjum
+Wytse Foppesstrjitte,1,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,11,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,13,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,15,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,21,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,25,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,27,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,29,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,31,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,33,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,5,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,7,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,9,"","",8808HP,Dongjum
+Wytse Foppesstrjitte,10,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,12,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,14,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,2,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,20,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,26,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,28,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,30,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,32,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,4,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,6,"","",8808HR,Dongjum
+Wytse Foppesstrjitte,8,"","",8808HR,Dongjum
+M C Willemsstraat,1,"","",8808HS,Dongjum
+M C Willemsstraat,10,"","",8808HS,Dongjum
+M C Willemsstraat,2,"","",8808HS,Dongjum
+M C Willemsstraat,3,"","",8808HS,Dongjum
+M C Willemsstraat,4,"","",8808HS,Dongjum
+M C Willemsstraat,5,"","",8808HS,Dongjum
+M C Willemsstraat,6,"","",8808HS,Dongjum
+M C Willemsstraat,7,"","",8808HS,Dongjum
+M C Willemsstraat,8,"","",8808HS,Dongjum
+Jorrit Biermastrjitte,1,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,10,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,10,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,12,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,12,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,14,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,14,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,2,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,2,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,3,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,3,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,4,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,5,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,5,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,6,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,8,"","",8808HT,Dongjum
+Jorrit Biermastrjitte,8,"","",8808HT,Dongjum

@@ -1,47 +1,47 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9484TC,Linthorst Homanweg,6,,
-9484TC,Linthorst Homanweg,2,,
-9484TC,Linthorst Homanweg,8,,
-9484TC,Linthorst Homanweg,4,,
-9484TD,Meester Croneweg,3,,
-9484TA,Hoofdweg,111,,
-9484TA,Hoofdweg,101,,
-9484TA,Hoofdweg,109,,
-9484TA,Hoofdweg,107,,
-9484TA,Hoofdweg,103,,
-9484TB,Hoofdweg,118,,
-9484TB,Hoofdweg,102,,
-9484TB,Hoofdweg,120,,
-9484TB,Hoofdweg,114,,
-9484TB,Hoofdweg,116,,
-9484TB,Hoofdweg,112,,
-9484TB,Hoofdweg,122,,
-9484TB,Hoofdweg,104,,
-9484TB,Hoofdweg,114,a,
-9484TB,Hoofdweg,112,a,
-9484TB,Hoofdweg,100,,
-9484TE,Molensteeg,6,,
-9484TE,Molensteeg,1,,
-9484TE,Molensteeg,6,a,
-9484TE,Molensteeg,4,,
-9484TC,Linthorst Homanweg,1,,
-9484TD,Meester Croneweg,5,,
-9484TD,Meester Croneweg,9,,
-9484TD,Meester Croneweg,7,,
-9484TA,Hoofdweg,105,,
-9484TA,Hoofdweg,105,a,
-9484TA,Hoofdweg,105,a,
-9484TA,Hoofdweg,105,b,
-9484TA,Hoofdweg,105,c,
-9484TA,Hoofdweg,109,,
-9484TB,Hoofdweg,106,,
-9484TB,Hoofdweg,106,d,1
-9484TB,Hoofdweg,118,a,
-9484TE,Molensteeg,8,,
-9484TE,Molensteeg,10,,
-9484TE,Molensteeg,2,,
-9484TE,Molensteeg,4,,
-9484TD,Meester Croneweg,3,,
-9484TD,Meester Croneweg,3,a,
-9484TD,Meester Croneweg,3,a,
-9484TD,Meester Croneweg,3,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hoofdweg,101,"","",9484TA,Oudemolen
+Hoofdweg,103,"","",9484TA,Oudemolen
+Hoofdweg,105,"","",9484TA,Oudemolen
+Hoofdweg,105,A,"",9484TA,Oudemolen
+Hoofdweg,105,A,"",9484TA,Oudemolen
+Hoofdweg,105,B,"",9484TA,Oudemolen
+Hoofdweg,105,C,"",9484TA,Oudemolen
+Hoofdweg,107,"","",9484TA,Oudemolen
+Hoofdweg,109,"","",9484TA,Oudemolen
+Hoofdweg,109,"","",9484TA,Oudemolen
+Hoofdweg,111,"","",9484TA,Oudemolen
+Hoofdweg,100,"","",9484TB,Oudemolen
+Hoofdweg,102,"","",9484TB,Oudemolen
+Hoofdweg,104,"","",9484TB,Oudemolen
+Hoofdweg,106,"","",9484TB,Oudemolen
+Hoofdweg,106,D,1,9484TB,Oudemolen
+Hoofdweg,112,"","",9484TB,Oudemolen
+Hoofdweg,112,A,"",9484TB,Oudemolen
+Hoofdweg,114,"","",9484TB,Oudemolen
+Hoofdweg,114,A,"",9484TB,Oudemolen
+Hoofdweg,116,"","",9484TB,Oudemolen
+Hoofdweg,118,"","",9484TB,Oudemolen
+Hoofdweg,118,A,"",9484TB,Oudemolen
+Hoofdweg,120,"","",9484TB,Oudemolen
+Hoofdweg,122,"","",9484TB,Oudemolen
+Linthorst Homanweg,1,"","",9484TC,Oudemolen
+Linthorst Homanweg,2,"","",9484TC,Oudemolen
+Linthorst Homanweg,4,"","",9484TC,Oudemolen
+Linthorst Homanweg,6,"","",9484TC,Oudemolen
+Linthorst Homanweg,8,"","",9484TC,Oudemolen
+Meester Croneweg,3,"","",9484TD,Oudemolen
+Meester Croneweg,3,"","",9484TD,Oudemolen
+Meester Croneweg,3,A,"",9484TD,Oudemolen
+Meester Croneweg,3,A,"",9484TD,Oudemolen
+Meester Croneweg,3,B,"",9484TD,Oudemolen
+Meester Croneweg,5,"","",9484TD,Oudemolen
+Meester Croneweg,7,"","",9484TD,Oudemolen
+Meester Croneweg,9,"","",9484TD,Oudemolen
+Molensteeg,1,"","",9484TE,Oudemolen
+Molensteeg,10,"","",9484TE,Oudemolen
+Molensteeg,2,"","",9484TE,Oudemolen
+Molensteeg,4,"","",9484TE,Oudemolen
+Molensteeg,4,"","",9484TE,Oudemolen
+Molensteeg,6,"","",9484TE,Oudemolen
+Molensteeg,6,A,"",9484TE,Oudemolen
+Molensteeg,8,"","",9484TE,Oudemolen

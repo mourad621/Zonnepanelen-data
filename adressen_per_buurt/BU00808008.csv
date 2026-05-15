@@ -1,567 +1,287 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9003LB",7,"b",""
-"9003LB",1000,"",""
-"9003LB",42,"",""
-"9003LB",1000,"",""
-"9003LB",38,"",""
-"9003LB",34,"",""
-"9003LB",1002,"",""
-"9003LB",40,"",""
-"9003LB",36,"",""
-"9003LB",22,"",""
-"9003LB",30,"",""
-"9003LB",28,"",""
-"9003LB",7,"B",""
-"9003LB",32,"",""
-"9003LB",1002,"",""
-"9003LB",24,"",""
-"9003LB",26,"",""
-"9003LB",7,"b",""
-"9003LB",7,"",""
-"9003LB",5,"",""
-"9003LB",22,"",""
-"9003LB",34,"",""
-"9003LB",34,"",""
-"9003MC",3,"",""
-"9003MC",3,"",""
-"9003MC",1017,"",""
-"9003MC",1013,"",""
-"9003MC",1015,"",""
-"9003MC",3,"A",""
-"9003MC",1018,"",""
-"9003MC",3,"B",""
-"9003MC",3,"a",""
-"9003MC",1014,"",""
-"9003MC",1016,"",""
-"9003MC",1,"B",""
-"9003MC",24,"",""
-"9003MC",1008,"",""
-"9003MC",26,"",""
-"9003MC",23,"",""
-"9003MC",1014,"",""
-"9003MC",1003,"",""
-"9003MC",1012,"",""
-"9003MC",3,"",""
-"9003MC",1010,"",""
-"9003MC",1,"C",""
-"9003MC",1017,"",""
-"9003MC",1015,"",""
-"9003MC",1008,"",""
-"9003MC",1000,"",""
-"9003MC",1004,"",""
-"9003MC",1003,"",""
-"9003MC",23,"",""
-"9003MC",3,"b",""
-"9003MC",1,"b",""
-"9003MC",3,"",""
-"9003MC",1010,"",""
-"9003MC",1013,"",""
-"9003MC",3,"",""
-"9003MC",1018,"",""
-"9003MC",1016,"",""
-"9003MC",8,"",""
-"9003MC",1005,"",""
-"9003MC",1,"",""
-"9003MC",1001,"",""
-"9003MC",1012,"",""
-"9003MC",1002,"",""
-"9003MC",1009,"",""
-"9003MC",23,"",""
-"9003MC",1007,"",""
-"9003MC",1009,"",""
-"9003MC",1011,"",""
-"9003MC",3,"",""
-"9003MC",1004,"",""
-"9003MC",1006,"",""
-"9003MC",1007,"",""
-"9003MC",1,"A",""
-"9003MC",1000,"",""
-"9003MC",1,"c",""
-"9003MC",21,"",""
-"9003MC",5,"",""
-"9003MC",1011,"",""
-"9003MC",2,"",""
-"9003MC",21,"",""
-"9003MC",3,"",""
-"9003MC",1005,"",""
-"9003MC",1001,"",""
-"9003MC",1006,"",""
-"9003MC",1,"A",""
-"9003MC",25,"",""
-"9003MC",22,"",""
-"9003MC",1,"a",""
-"9003MC",20,"",""
-"9003MC",1002,"",""
-"9003ML",7,"",""
-"9003ML",9,"a",""
-"9003ML",5,"",""
-"9003ML",5,"a",""
-"9003ML",11,"",""
-"9003ML",9,"A",""
-"9003ML",5,"c",""
-"9003ML",5,"d",""
-"9003ML",9,"",""
-"9003ML",5,"d",""
-"9003ML",5,"",""
-"9003ML",5,"",""
-"9003ML",5,"",""
-"9003ML",5,"b",""
-"9003MM",9,"",""
-"9003XA",3,"",""
-"9003XB",8017,"",""
-"9003XB",39,"",""
-"9003XB",37,"",""
-"9003XB",8016,"",""
-"9003XB",4,"",""
-"9003XB",8014,"",""
-"9003XB",40,"",""
-"9003XB",8015,"",""
-"9003XB",8017,"",""
-"9003XB",12,"",""
-"9003XB",38,"",""
-"9003XB",10,"",""
-"9003XB",19,"",""
-"9003XB",20,"",""
-"9003XB",34,"",""
-"9003XB",8015,"",""
-"9003XB",8016,"",""
-"9003XB",8014,"",""
-"9003XB",16,"",""
-"9003XB",8018,"",""
-"9003XB",21,"A",""
-"9003XB",35,"",""
-"9003XB",11,"",""
-"9003XB",8018,"",""
-"9003XB",8,"",""
-"9003XB",6,"",""
-"9003XB",5,"",""
-"9003XB",8013,"",""
-"9003XB",12,"",""
-"9003XB",8019,"",""
-"9003XB",8003,"",""
-"9003XB",18,"",""
-"9003XB",7,"",""
-"9003XB",8019,"",""
-"9003XB",8009,"",""
-"9003XB",8020,"",""
-"9003XB",8005,"",""
-"9003XB",8013,"",""
-"9003XB",8013,"",""
-"9003XB",8007,"",""
-"9003XB",8008,"",""
-"9003XB",14,"",""
-"9003XB",8002,"",""
-"9003XB",8001,"",""
-"9003XB",21,"a",""
-"9003XB",9,"",""
-"9003XB",8012,"",""
-"9003XB",22,"",""
-"9003XB",36,"",""
-"9003XB",8003,"",""
-"9003XB",8021,"",""
-"9003XB",8007,"",""
-"9003XB",8001,"",""
-"9003XB",8002,"",""
-"9003XB",17,"",""
-"9003XB",12,"",""
-"9003XB",8008,"",""
-"9003XB",8023,"",""
-"9003XB",21,"",""
-"9003XB",8012,"",""
-"9003XB",15,"",""
-"9003XB",26,"",""
-"9003XB",42,"",""
-"9003XB",28,"",""
-"9003XB",8021,"",""
-"9003XB",8004,"",""
-"9003XB",8004,"",""
-"9003XB",41,"",""
-"9003XB",8006,"",""
-"9003XB",27,"",""
-"9003XB",8009,"",""
-"9003XB",13,"",""
-"9003XB",33,"",""
-"9003XB",8010,"",""
-"9003XB",8010,"",""
-"9003XB",8023,"",""
-"9003XB",8010,"",""
-"9003XB",8010,"",""
-"9003XB",30,"",""
-"9003XB",25,"",""
-"9003XB",8022,"",""
-"9003XB",8012,"",""
-"9003XB",8011,"",""
-"9003XB",32,"",""
-"9003XB",8022,"",""
-"9003XB",8020,"",""
-"9003XB",8006,"",""
-"9003XB",23,"",""
-"9003XB",24,"",""
-"9003XB",31,"",""
-"9003XB",8005,"",""
-"9003XB",8011,"",""
-"9003XB",29,"",""
-"9003XP",1,"",""
-"9003XR",8,"",""
-"9003XR",3,"",""
-"9003XR",4,"a",""
-"9003XR",6,"",""
-"9003XR",7,"",""
-"9003XR",4,"",""
-"9003XR",4,"",""
-"9003XR",5,"",""
-"9003XR",4,"",""
-"9003XS",9,"a",""
-"9003XS",5,"B",""
-"9003XS",9,"",""
-"9003XS",5,"b",""
-"9003XS",2,"",""
-"9003XS",9,"A",""
-"9003XS",5,"a",""
-"9003XS",5,"",""
-"9003XS",5,"C",""
-"9003XS",7,"",""
-"9003XS",5,"b",""
-"9003XS",5,"A",""
-"9003XS",5,"a",""
-"9003XS",2,"a",""
-"9003XS",2,"A",""
-"9003XS",5,"C",""
-"9003XT",3,"",""
-"9003XT",1,"",""
-"9003XV",27,"",""
-"9003XV",29,"",""
-"9003XV",16,"",""
-"9003XV",29,"",""
-"9003XW",2,"",""
-"9003XW",6,"",""
-"9003XW",1,"",""
-"9003XW",5,"",""
-"9003XW",1,"",""
-"9003XW",1,"",""
-"9003XW",4,"",""
-"9003XW",2,"",""
-"9003XW",3,"",""
-"9003XW",3,"",""
-"9003XW",3,"",""
-"9003XX",40,"",""
-"9003XX",44,"",""
-"9003XX",34,"",""
-"9003XX",8001,"",""
-"9003XX",42,"",""
-"9003XX",34,"c",""
-"9003XX",36,"",""
-"9003XX",7,"",""
-"9003XX",32,"",""
-"9003XX",7,"",""
-"9003XX",34,"b",""
-"9003XX",38,"",""
-"9003XX",4,"",""
-"9003XX",1,"",""
-"9003XX",2,"",""
-"9003XX",28,"",""
-"9003XX",3,"",""
-"9003XX",8001,"",""
-"9003XX",5,"",""
-"9003XX",34,"a",""
-"9003XX",34,"d",""
-"9003XX",34,"",""
-"9003XX",6,"",""
-"9003XX",3,"",""
-"9003XX",9,"",""
-"9003XX",34,"",""
-"9003XZ",6,"",""
-"9003XZ",3,"",""
-"9003XZ",10,"",""
-"9003XZ",4,"",""
-"9003XZ",4,"a",""
-"9003XZ",4,"",""
-"9003XZ",8,"",""
-"9003XZ",2,"A",""
-"9003XZ",4,"",""
-"9003XZ",2,"",""
-"9003XZ",4,"A",""
-"9003XZ",1,"",""
-"9003XZ",8,"A",""
-"9003XZ",8,"a",""
-"9003XZ",2,"a",""
-9003XW,Ald Djip,2,,
-9003XW,Ald Djip,3,,
-9003XW,Ald Djip,3,,
-9003XW,Ald Fean,1,,
-9003XW,Ald Fean,6,,
-9003XW,Ald Fean,2,,
-9003XW,Ald Fean,4,,
-9003XW,Ald Fean,3,,
-9003XX,Ald Fean,6,,
-9003XX,Ald Fean,2,,
-9003XX,Ald Fean,4,,
-9003XX,Ald Fean,3,,
-9003XX,Ald Fean,3,,
-9003MC,Bûtenstreek,8,,
-9003MC,Bûtenstreek,21,,
-9003MC,Bûtenstreek,21,,
-9003MC,Bûtenstreek,2,,
-9003MC,Bûtenstreek,3,B,
-9003MC,Bûtenstreek,3,b,
-9003MC,Bûtenstreek,20,,
-9003MC,Bûtenstreek,5,,
-9003MC,Bûtenstreek,1,A,
-9003MC,Bûtenstreek,1,A,
-9003MC,Bûtenstreek,1,a,
-9003MC,Bûtenstreek,1,,
-9003MC,Bûtenstreek,3,,
-9003XT,De Sayter,1,,
-9003XZ,Greft,3,,
-9003XZ,Greft,2,,
-9003XZ,Greft,4,,
-9003XZ,Greft,6,,
-9003XZ,Greft,10,,
-9003XX,Leechlân,38,,
-9003XX,Leechlân,36,,
-9003XX,Leechlân,40,,
-9003XX,Leechlân,28,,
-9003XX,Leechlân,42,,
-9003XX,Leechlân,44,,
-9003XX,Leechlân,34,,
-9003XX,Leechlân,9,,
-9003XX,Leechlân,32,,
-9003XV,Meagere Weide,16,,
-9003XV,Meagere Weide,29,,
-9003XV,Meagere Weide,29,,
-9003LB,Midsbuorren,28,,
-9003LB,Midsbuorren,24,,
-9003LB,Midsbuorren,30,,
-9003LB,Midsbuorren,7,,
-9003LB,Midsbuorren,22,,
-9003LB,Midsbuorren,22,,
-9003LB,Midsbuorren,38,,
-9003LB,Midsbuorren,32,,
-9003LB,Midsbuorren,40,,
-9003LB,Midsbuorren,36,,
-9003LB,Midsbuorren,34,,
-9003LB,Midsbuorren,26,,
-9003ML,Oeble-om-wei,5,,
-9003ML,Oeble-om-wei,5,,
-9003ML,Oeble-om-wei,11,,
-9003ML,Oeble-om-wei,9,,
-9003XB,Oude Venen,35,,
-9003XB,Oude Venen,41,,
-9003XB,Oude Venen,24,,
-9003XB,Oude Venen,31,,
-9003XB,Oude Venen,7,,
-9003XB,Oude Venen,23,,
-9003XB,Oude Venen,39,,
-9003XB,Oude Venen,18,,
-9003XB,Oude Venen,15,,
-9003XB,Oude Venen,17,,
-9003XB,Oude Venen,20,,
-9003XB,Oude Venen,10,,
-9003XA,Princehof,3,,
-9003XP,Stoatersreed,1,,
-9003XS,Stûkenwei,9,,
-9003XS,Stûkenwei,7,,
-9003XS,Stûkenwei,2,,
-9003XS,Stûkenwei,5,A,
-9003XS,Stûkenwei,5,a,
-9003XS,Stûkenwei,5,a,
-9003XS,Stûkenwei,5,,
-9003XS,Stûkenwei,9,A,
-9003XS,Stûkenwei,9,a,
-9003XR,Stûkloane,7,,
-9003XR,Stûkloane,8,,
-9003XR,Stûkloane,3,,
-9003XR,Stûkloane,5,,
-9003XW,Ald Djip,1,,
-9003XW,Ald Fean,5,,
-9003XW,Ald Fean,1,,
-9003XX,Ald Fean,5,,
-9003XX,Ald Fean,1,,
-9003XX,Ald Fean,7,,
-9003MC,Bûtenstreek,23,,
-9003MC,Bûtenstreek,24,,
-9003MC,Bûtenstreek,3,A,
-9003MC,Bûtenstreek,3,a,
-9003MC,Bûtenstreek,25,,
-9003MC,Bûtenstreek,26,,
-9003MC,Bûtenstreek,22,,
-9003MC,Bûtenstreek,1,B,
-9003MC,Bûtenstreek,1,b,
-9003MC,Bûtenstreek,1000,,
-9003MC,Bûtenstreek,1000,,
-9003MC,Bûtenstreek,1001,,
-9003MC,Bûtenstreek,1001,,
-9003MC,Bûtenstreek,1002,,
-9003MC,Bûtenstreek,1002,,
-9003MC,Bûtenstreek,1003,,
-9003MC,Bûtenstreek,1003,,
-9003MC,Bûtenstreek,1004,,
-9003MC,Bûtenstreek,1004,,
-9003MC,Bûtenstreek,1005,,
-9003MC,Bûtenstreek,1005,,
-9003MC,Bûtenstreek,1006,,
-9003MC,Bûtenstreek,1006,,
-9003MC,Bûtenstreek,1007,,
-9003MC,Bûtenstreek,1007,,
-9003MC,Bûtenstreek,1008,,
-9003MC,Bûtenstreek,1008,,
-9003MC,Bûtenstreek,1009,,
-9003MC,Bûtenstreek,1009,,
-9003MC,Bûtenstreek,1010,,
-9003MC,Bûtenstreek,1010,,
-9003MC,Bûtenstreek,1011,,
-9003MC,Bûtenstreek,1011,,
-9003MC,Bûtenstreek,1012,,
-9003MC,Bûtenstreek,1012,,
-9003MC,Bûtenstreek,1013,,
-9003MC,Bûtenstreek,1013,,
-9003MC,Bûtenstreek,1015,,
-9003MC,Bûtenstreek,1015,,
-9003MC,Bûtenstreek,1016,,
-9003MC,Bûtenstreek,1016,,
-9003MC,Bûtenstreek,1017,,
-9003MC,Bûtenstreek,1017,,
-9003MC,Bûtenstreek,1018,,
-9003MC,Bûtenstreek,1018,,
-9003MC,Bûtenstreek,1014,,
-9003MC,Bûtenstreek,1014,,
-9003XZ,Greft,4,A,
-9003XZ,Greft,4,a,
-9003XZ,Greft,8,A,
-9003XZ,Greft,8,a,
-9003XZ,Greft,2,A,
-9003XZ,Greft,2,a,
-9003XZ,Greft,8,,
-9003XZ,Greft,1,,
-9003XX,Leechlân,8001,,
-9003XX,Leechlân,8001,,
-9003XV,Meagere Weide,27,,
-9003LB,Midsbuorren,42,,
-9003LB,Midsbuorren,7,B,
-9003LB,Midsbuorren,7,b,
-9003LB,Midsbuorren,1000,,
-9003LB,Midsbuorren,1000,,
-9003LB,Midsbuorren,1002,,
-9003LB,Midsbuorren,1002,,
-9003LB,Midsbuorren,5,,
-9003ML,Oeble-om-wei,9,A,
-9003ML,Oeble-om-wei,9,a,
-9003ML,Oeble-om-wei,7,,
-9003XB,Oude Venen,14,,
-9003XB,Oude Venen,11,,
-9003XB,Oude Venen,29,,
-9003XB,Oude Venen,36,,
-9003XB,Oude Venen,6,,
-9003XB,Oude Venen,4,,
-9003XB,Oude Venen,38,,
-9003XB,Oude Venen,33,,
-9003XB,Oude Venen,27,,
-9003XB,Oude Venen,19,,
-9003XB,Oude Venen,16,,
-9003XB,Oude Venen,28,,
-9003XB,Oude Venen,37,,
-9003XB,Oude Venen,42,,
-9003XB,Oude Venen,12,,
-9003XB,Oude Venen,21,,
-9003XB,Oude Venen,22,,
-9003XB,Oude Venen,9,,
-9003XB,Oude Venen,26,,
-9003XB,Oude Venen,5,,
-9003XB,Oude Venen,32,,
-9003XB,Oude Venen,8,,
-9003XB,Oude Venen,25,,
-9003XB,Oude Venen,40,,
-9003XB,Oude Venen,34,,
-9003XB,Oude Venen,13,,
-9003XB,Oude Venen,30,,
-9003XB,Oude Venen,8016,,
-9003XB,Oude Venen,8016,,
-9003XB,Oude Venen,8017,,
-9003XB,Oude Venen,8017,,
-9003XB,Oude Venen,8018,,
-9003XB,Oude Venen,8018,,
-9003XB,Oude Venen,8019,,
-9003XB,Oude Venen,8019,,
-9003XB,Oude Venen,8020,,
-9003XB,Oude Venen,8020,,
-9003XB,Oude Venen,8021,,
-9003XB,Oude Venen,8021,,
-9003XB,Oude Venen,8022,,
-9003XB,Oude Venen,8022,,
-9003XB,Oude Venen,8023,,
-9003XB,Oude Venen,8023,,
-9003XB,Oude Venen,8001,,
-9003XB,Oude Venen,8001,,
-9003XB,Oude Venen,8002,,
-9003XB,Oude Venen,8002,,
-9003XB,Oude Venen,8003,,
-9003XB,Oude Venen,8003,,
-9003XB,Oude Venen,8004,,
-9003XB,Oude Venen,8004,,
-9003XB,Oude Venen,8005,,
-9003XB,Oude Venen,8005,,
-9003XB,Oude Venen,8006,,
-9003XB,Oude Venen,8006,,
-9003XB,Oude Venen,8007,,
-9003XB,Oude Venen,8007,,
-9003XB,Oude Venen,8008,,
-9003XB,Oude Venen,8008,,
-9003XB,Oude Venen,8009,,
-9003XB,Oude Venen,8009,,
-9003XB,Oude Venen,8010,,
-9003XB,Oude Venen,8010,,
-9003XB,Oude Venen,8011,,
-9003XB,Oude Venen,8011,,
-9003XB,Oude Venen,8012,,
-9003XB,Oude Venen,8012,,
-9003XB,Oude Venen,8013,,
-9003XB,Oude Venen,8013,,
-9003XB,Oude Venen,8013,,
-9003XB,Oude Venen,8012,,
-9003XB,Oude Venen,8014,,
-9003XB,Oude Venen,8014,,
-9003XB,Oude Venen,8015,,
-9003XB,Oude Venen,8015,,
-9003XS,Stûkenwei,2,A,
-9003XS,Stûkenwei,2,a,
-9003XS,Stûkenwei,5,C,
-9003XS,Stûkenwei,5,B,
-9003XS,Stûkenwei,5,b,
-9003XS,Stûkenwei,5,b,
-9003XR,Stûkloane,4,,
-9003XR,Stûkloane,6,,
-9003MC,Bûtenstreek,1,C,
-9003MC,Bûtenstreek,1,c,
-9003XT,De Sayter,3,,
-9003XB,Oude Venen,21,A,
-9003XB,Oude Venen,21,a,
-9003MC,Bûtenstreek,3,,
-9003MC,Bûtenstreek,3,,
-9003MC,Bûtenstreek,3,,
-9003XX,Leechlân,34,,
-9003XX,Leechlân,34,a,
-9003XX,Leechlân,34,b,
-9003XX,Leechlân,34,c,
-9003XX,Leechlân,34,d,
-9003LB,Midsbuorren,34,,
-9003ML,Oeble-om-wei,5,,
-9003MM,Wartensterdyk,9,,
-9003MC,Bûtenstreek,23,,
-9003XZ,Greft,4,,
-9003LB,Midsbuorren,7,a,
-9003LB,Midsbuorren,7,b,
-9003LB,Midsbuorren,7,c,
-9003LB,Midsbuorren,7,d,
-9003LB,Midsbuorren,7,e,
-9003LB,Midsbuorren,7,f,
-9003LB,Midsbuorren,7,g,
-9003LB,Midsbuorren,7,h,
-9003ML,Oebele-om-sleat,5,d,
-9003ML,Oeble-om-wei,5,a,
-9003ML,Oeble-om-wei,5,b,
-9003ML,Oeble-om-wei,5,c,
-9003ML,Oeble-om-wei,5,d,
-9003XB,Oude Venen,12,,
-9003XB,Oude Venen,8010,,
-9003XR,Stûkloane,4,,
-9003XR,Stûkloane,4,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Midsbuorren,1000,"","",9003LB,Warten
+Midsbuorren,1000,"","",9003LB,Warten
+Midsbuorren,1002,"","",9003LB,Warten
+Midsbuorren,1002,"","",9003LB,Warten
+Midsbuorren,22,"","",9003LB,Warten
+Midsbuorren,22,"","",9003LB,Warten
+Midsbuorren,24,"","",9003LB,Warten
+Midsbuorren,26,"","",9003LB,Warten
+Midsbuorren,28,"","",9003LB,Warten
+Midsbuorren,30,"","",9003LB,Warten
+Midsbuorren,32,"","",9003LB,Warten
+Midsbuorren,34,"","",9003LB,Warten
+Midsbuorren,34,"","",9003LB,Warten
+Midsbuorren,34,"","",9003LB,Warten
+Midsbuorren,36,"","",9003LB,Warten
+Midsbuorren,38,"","",9003LB,Warten
+Midsbuorren,40,"","",9003LB,Warten
+Midsbuorren,42,"","",9003LB,Warten
+Midsbuorren,5,"","",9003LB,Warten
+Midsbuorren,7,"","",9003LB,Warten
+Midsbuorren,7,B,"",9003LB,Warten
+Midsbuorren,7,B,"",9003LB,Warten
+Midsbuorren,7,B,"",9003LB,Warten
+Bûtenstreek,1,"","",9003MC,Warten
+Bûtenstreek,1,A,"",9003MC,Warten
+Bûtenstreek,1,A,"",9003MC,Warten
+Bûtenstreek,1,A,"",9003MC,Warten
+Bûtenstreek,1,B,"",9003MC,Warten
+Bûtenstreek,1,B,"",9003MC,Warten
+Bûtenstreek,1,C,"",9003MC,Warten
+Bûtenstreek,1,C,"",9003MC,Warten
+Bûtenstreek,1000,"","",9003MC,Warten
+Bûtenstreek,1000,"","",9003MC,Warten
+Bûtenstreek,1001,"","",9003MC,Warten
+Bûtenstreek,1001,"","",9003MC,Warten
+Bûtenstreek,1002,"","",9003MC,Warten
+Bûtenstreek,1002,"","",9003MC,Warten
+Bûtenstreek,1003,"","",9003MC,Warten
+Bûtenstreek,1003,"","",9003MC,Warten
+Bûtenstreek,1004,"","",9003MC,Warten
+Bûtenstreek,1004,"","",9003MC,Warten
+Bûtenstreek,1005,"","",9003MC,Warten
+Bûtenstreek,1005,"","",9003MC,Warten
+Bûtenstreek,1006,"","",9003MC,Warten
+Bûtenstreek,1006,"","",9003MC,Warten
+Bûtenstreek,1007,"","",9003MC,Warten
+Bûtenstreek,1007,"","",9003MC,Warten
+Bûtenstreek,1008,"","",9003MC,Warten
+Bûtenstreek,1008,"","",9003MC,Warten
+Bûtenstreek,1009,"","",9003MC,Warten
+Bûtenstreek,1009,"","",9003MC,Warten
+Bûtenstreek,1010,"","",9003MC,Warten
+Bûtenstreek,1010,"","",9003MC,Warten
+Bûtenstreek,1011,"","",9003MC,Warten
+Bûtenstreek,1011,"","",9003MC,Warten
+Bûtenstreek,1012,"","",9003MC,Warten
+Bûtenstreek,1012,"","",9003MC,Warten
+Bûtenstreek,1013,"","",9003MC,Warten
+Bûtenstreek,1013,"","",9003MC,Warten
+Bûtenstreek,1014,"","",9003MC,Warten
+Bûtenstreek,1014,"","",9003MC,Warten
+Bûtenstreek,1015,"","",9003MC,Warten
+Bûtenstreek,1015,"","",9003MC,Warten
+Bûtenstreek,1016,"","",9003MC,Warten
+Bûtenstreek,1016,"","",9003MC,Warten
+Bûtenstreek,1017,"","",9003MC,Warten
+Bûtenstreek,1017,"","",9003MC,Warten
+Bûtenstreek,1018,"","",9003MC,Warten
+Bûtenstreek,1018,"","",9003MC,Warten
+Bûtenstreek,2,"","",9003MC,Warten
+Bûtenstreek,20,"","",9003MC,Warten
+Bûtenstreek,21,"","",9003MC,Warten
+Bûtenstreek,21,"","",9003MC,Warten
+Bûtenstreek,22,"","",9003MC,Warten
+Bûtenstreek,23,"","",9003MC,Warten
+Bûtenstreek,23,"","",9003MC,Warten
+Bûtenstreek,23,"","",9003MC,Warten
+Bûtenstreek,24,"","",9003MC,Warten
+Bûtenstreek,25,"","",9003MC,Warten
+Bûtenstreek,26,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,"","",9003MC,Warten
+Bûtenstreek,3,A,"",9003MC,Warten
+Bûtenstreek,3,A,"",9003MC,Warten
+Bûtenstreek,3,B,"",9003MC,Warten
+Bûtenstreek,3,B,"",9003MC,Warten
+Bûtenstreek,5,"","",9003MC,Warten
+Bûtenstreek,8,"","",9003MC,Warten
+Oeble-om-wei,11,"","",9003ML,Warten
+Oeble-om-wei,5,"","",9003ML,Warten
+Oeble-om-wei,5,"","",9003ML,Warten
+Oeble-om-wei,5,"","",9003ML,Warten
+Oeble-om-wei,5,"","",9003ML,Warten
+Oeble-om-wei,5,A,"",9003ML,Warten
+Oeble-om-wei,5,B,"",9003ML,Warten
+Oeble-om-wei,5,C,"",9003ML,Warten
+Oebele-om-sleat,5,D,"",9003ML,Warten
+Oebele-om-sleat,5,D,"",9003ML,Warten
+Oeble-om-wei,7,"","",9003ML,Warten
+Oeble-om-wei,9,"","",9003ML,Warten
+Oeble-om-wei,9,A,"",9003ML,Warten
+Oeble-om-wei,9,A,"",9003ML,Warten
+Wartensterdyk,9,"","",9003MM,Wergea
+Princehof,3,"","",9003XA,Warten
+Oude Venen,10,"","",9003XB,Warten
+Oude Venen,11,"","",9003XB,Warten
+Oude Venen,12,"","",9003XB,Warten
+Oude Venen,12,"","",9003XB,Warten
+Oude Venen,12,"","",9003XB,Warten
+Oude Venen,13,"","",9003XB,Warten
+Oude Venen,14,"","",9003XB,Warten
+Oude Venen,15,"","",9003XB,Warten
+Oude Venen,16,"","",9003XB,Warten
+Oude Venen,17,"","",9003XB,Warten
+Oude Venen,18,"","",9003XB,Warten
+Oude Venen,19,"","",9003XB,Warten
+Oude Venen,20,"","",9003XB,Warten
+Oude Venen,21,"","",9003XB,Warten
+Oude Venen,21,A,"",9003XB,Warten
+Oude Venen,21,A,"",9003XB,Warten
+Oude Venen,22,"","",9003XB,Warten
+Oude Venen,23,"","",9003XB,Warten
+Oude Venen,24,"","",9003XB,Warten
+Oude Venen,25,"","",9003XB,Warten
+Oude Venen,26,"","",9003XB,Warten
+Oude Venen,27,"","",9003XB,Warten
+Oude Venen,28,"","",9003XB,Warten
+Oude Venen,29,"","",9003XB,Warten
+Oude Venen,30,"","",9003XB,Warten
+Oude Venen,31,"","",9003XB,Warten
+Oude Venen,32,"","",9003XB,Warten
+Oude Venen,33,"","",9003XB,Warten
+Oude Venen,34,"","",9003XB,Warten
+Oude Venen,35,"","",9003XB,Warten
+Oude Venen,36,"","",9003XB,Warten
+Oude Venen,37,"","",9003XB,Warten
+Oude Venen,38,"","",9003XB,Warten
+Oude Venen,39,"","",9003XB,Warten
+Oude Venen,4,"","",9003XB,Warten
+Oude Venen,40,"","",9003XB,Warten
+Oude Venen,41,"","",9003XB,Warten
+Oude Venen,42,"","",9003XB,Warten
+Oude Venen,5,"","",9003XB,Warten
+Oude Venen,6,"","",9003XB,Warten
+Oude Venen,7,"","",9003XB,Warten
+Oude Venen,8,"","",9003XB,Warten
+Oude Venen,8001,"","",9003XB,Warten
+Oude Venen,8001,"","",9003XB,Warten
+Oude Venen,8002,"","",9003XB,Warten
+Oude Venen,8002,"","",9003XB,Warten
+Oude Venen,8003,"","",9003XB,Warten
+Oude Venen,8003,"","",9003XB,Warten
+Oude Venen,8004,"","",9003XB,Warten
+Oude Venen,8004,"","",9003XB,Warten
+Oude Venen,8005,"","",9003XB,Warten
+Oude Venen,8005,"","",9003XB,Warten
+Oude Venen,8006,"","",9003XB,Warten
+Oude Venen,8006,"","",9003XB,Warten
+Oude Venen,8007,"","",9003XB,Warten
+Oude Venen,8007,"","",9003XB,Warten
+Oude Venen,8008,"","",9003XB,Warten
+Oude Venen,8008,"","",9003XB,Warten
+Oude Venen,8009,"","",9003XB,Warten
+Oude Venen,8009,"","",9003XB,Warten
+Oude Venen,8010,"","",9003XB,Warten
+Oude Venen,8010,"","",9003XB,Warten
+Oude Venen,8010,"","",9003XB,Warten
+Oude Venen,8010,"","",9003XB,Warten
+Oude Venen,8011,"","",9003XB,Warten
+Oude Venen,8011,"","",9003XB,Warten
+Oude Venen,8012,"","",9003XB,Warten
+Oude Venen,8012,"","",9003XB,Warten
+Oude Venen,8012,"","",9003XB,Warten
+Oude Venen,8013,"","",9003XB,Warten
+Oude Venen,8013,"","",9003XB,Warten
+Oude Venen,8013,"","",9003XB,Warten
+Oude Venen,8014,"","",9003XB,Warten
+Oude Venen,8014,"","",9003XB,Warten
+Oude Venen,8015,"","",9003XB,Warten
+Oude Venen,8015,"","",9003XB,Warten
+Oude Venen,8016,"","",9003XB,Warten
+Oude Venen,8016,"","",9003XB,Warten
+Oude Venen,8017,"","",9003XB,Warten
+Oude Venen,8017,"","",9003XB,Warten
+Oude Venen,8018,"","",9003XB,Warten
+Oude Venen,8018,"","",9003XB,Warten
+Oude Venen,8019,"","",9003XB,Warten
+Oude Venen,8019,"","",9003XB,Warten
+Oude Venen,8020,"","",9003XB,Warten
+Oude Venen,8020,"","",9003XB,Warten
+Oude Venen,8021,"","",9003XB,Warten
+Oude Venen,8021,"","",9003XB,Warten
+Oude Venen,8022,"","",9003XB,Warten
+Oude Venen,8022,"","",9003XB,Warten
+Oude Venen,8023,"","",9003XB,Warten
+Oude Venen,8023,"","",9003XB,Warten
+Oude Venen,9,"","",9003XB,Warten
+Stoatersreed,1,"","",9003XP,Warten
+Stûkloane,3,"","",9003XR,Warten
+Stûkloane,4,"","",9003XR,Warten
+Stûkloane,4,"","",9003XR,Warten
+Stûkloane,4,"","",9003XR,Warten
+Stûkloane,4,A,"",9003XR,Warten
+Stûkloane,5,"","",9003XR,Warten
+Stûkloane,6,"","",9003XR,Warten
+Stûkloane,7,"","",9003XR,Warten
+Stûkloane,8,"","",9003XR,Warten
+Stûkenwei,2,"","",9003XS,Warten
+Stûkenwei,2,A,"",9003XS,Warten
+Stûkenwei,2,A,"",9003XS,Warten
+Stûkenwei,5,"","",9003XS,Warten
+Stûkenwei,5,A,"",9003XS,Warten
+Stûkenwei,5,A,"",9003XS,Warten
+Stûkenwei,5,A,"",9003XS,Warten
+Stûkenwei,5,B,"",9003XS,Warten
+Stûkenwei,5,B,"",9003XS,Warten
+Stûkenwei,5,B,"",9003XS,Warten
+Stûkenwei,5,C,"",9003XS,Warten
+Stûkenwei,5,C,"",9003XS,Warten
+Stûkenwei,7,"","",9003XS,Warten
+Stûkenwei,9,"","",9003XS,Warten
+Stûkenwei,9,A,"",9003XS,Warten
+Stûkenwei,9,A,"",9003XS,Warten
+De Sayter,1,"","",9003XT,Warten
+De Sayter,3,"","",9003XT,Warten
+Meagere Weide,16,"","",9003XV,Warten
+Meagere Weide,27,"","",9003XV,Warten
+Meagere Weide,29,"","",9003XV,Warten
+Meagere Weide,29,"","",9003XV,Warten
+Ald Fean,1,"","",9003XW,Warten
+Ald Fean,1,"","",9003XW,Warten
+Ald Fean,1,"","",9003XW,Warten
+Ald Djip,2,"","",9003XW,Warten
+Ald Djip,2,"","",9003XW,Warten
+Ald Fean,3,"","",9003XW,Warten
+Ald Fean,3,"","",9003XW,Warten
+Ald Fean,3,"","",9003XW,Warten
+Ald Fean,4,"","",9003XW,Warten
+Ald Fean,5,"","",9003XW,Warten
+Ald Fean,6,"","",9003XW,Warten
+Ald Fean,1,"","",9003XX,Warten
+Ald Fean,2,"","",9003XX,Warten
+Leechlân,28,"","",9003XX,Warten
+Ald Fean,3,"","",9003XX,Warten
+Ald Fean,3,"","",9003XX,Warten
+Leechlân,32,"","",9003XX,Warten
+Leechlân,34,"","",9003XX,Warten
+Leechlân,34,"","",9003XX,Warten
+Leechlân,34,"","",9003XX,Warten
+Leechlân,34,A,"",9003XX,Warten
+Leechlân,34,B,"",9003XX,Warten
+Leechlân,34,C,"",9003XX,Warten
+Leechlân,34,D,"",9003XX,Warten
+Leechlân,36,"","",9003XX,Warten
+Leechlân,38,"","",9003XX,Warten
+Ald Fean,4,"","",9003XX,Warten
+Leechlân,40,"","",9003XX,Warten
+Leechlân,42,"","",9003XX,Warten
+Leechlân,44,"","",9003XX,Warten
+Ald Fean,5,"","",9003XX,Warten
+Ald Fean,6,"","",9003XX,Warten
+Ald Fean,7,"","",9003XX,Warten
+Ald Fean,7,"","",9003XX,Warten
+Leechlân,8001,"","",9003XX,Warten
+Leechlân,8001,"","",9003XX,Warten
+Leechlân,9,"","",9003XX,Warten
+Greft,1,"","",9003XZ,Warten
+Greft,10,"","",9003XZ,Warten
+Greft,2,"","",9003XZ,Warten
+Greft,2,A,"",9003XZ,Warten
+Greft,2,A,"",9003XZ,Warten
+Greft,3,"","",9003XZ,Warten
+Greft,4,"","",9003XZ,Warten
+Greft,4,"","",9003XZ,Warten
+Greft,4,"","",9003XZ,Warten
+Greft,4,A,"",9003XZ,Warten
+Greft,4,A,"",9003XZ,Warten
+Greft,6,"","",9003XZ,Warten
+Greft,8,"","",9003XZ,Warten
+Greft,8,A,"",9003XZ,Warten
+Greft,8,A,"",9003XZ,Warten

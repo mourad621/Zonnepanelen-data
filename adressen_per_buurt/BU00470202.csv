@@ -1,488 +1,273 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9648GM",3,"",""
-"9648GM",2,"",""
-"9648GM",4,"",""
-"9648GM",1,"",""
-"9648GN",1,"",""
-"9648GN",5,"",""
-"9648GN",3,"",""
-"9648GN",43,"",""
-"9648GN",33,"",""
-"9648GN",25,"",""
-"9648GN",27,"",""
-"9648GN",6,"",""
-"9648GN",17,"",""
-"9648GN",19,"",""
-"9648GN",9,"",""
-"9648GN",14,"",""
-"9648GN",28,"",""
-"9648GN",11,"",""
-"9648GN",35,"",""
-"9648GN",34,"",""
-"9648GN",21,"",""
-"9648GN",23,"",""
-"9648GN",7,"",""
-"9648GN",15,"",""
-"9648GN",13,"",""
-"9648GN",43,"",""
-"9648GN",41,"",""
-"9648GN",10,"",""
-"9648GN",39,"",""
-"9648GN",37,"",""
-"9648GN",16,"",""
-"9648GN",32,"",""
-"9648GN",30,"",""
-"9648GN",26,"",""
-"9648GN",41,"",""
-"9648GN",9,"",""
-"9648GN",39,"",""
-"9648GN",11,"",""
-"9648GN",8,"",""
-"9648GN",12,"",""
-"9648GN",37,"",""
-"9648GN",36,"",""
-"9648GP",1,"",""
-"9648GP",21,"",""
-"9648GP",27,"",""
-"9648GP",11,"",""
-"9648GP",23,"",""
-"9648GP",21,"",""
-"9648GP",1,"",""
-"9648GP",27,"",""
-"9648GP",11,"",""
-"9648GP",43,"",""
-"9648GP",37,"",""
-"9648GP",9,"",""
-"9648GP",11,"",""
-"9648GP",41,"",""
-"9648GP",39,"",""
-"9648GP",5,"",""
-"9648GP",9,"",""
-"9648GP",15,"",""
-"9648GP",5,"",""
-"9648GP",25,"",""
-"9648GP",13,"",""
-"9648GP",31,"",""
-"9648GP",9,"",""
-"9648GP",21,"",""
-"9648GP",25,"",""
-"9648GP",37,"",""
-"9648GP",29,"",""
-"9648GP",41,"",""
-"9648GP",39,"",""
-"9648GP",27,"",""
-"9648GP",29,"",""
-"9648GP",43,"",""
-"9648GP",13,"",""
-"9648GP",19,"",""
-"9648GP",29,"",""
-"9648GP",17,"",""
-"9648GP",3,"",""
-"9648GP",3,"",""
-"9648GP",35,"",""
-"9648GP",31,"",""
-"9648GP",35,"",""
-"9648GP",1,"",""
-"9648GP",3,"",""
-"9648GP",1,"",""
-"9648GP",23,"",""
-"9648GP",7,"",""
-"9648GP",3,"",""
-"9648GP",25,"",""
-"9648GP",31,"",""
-"9648GP",15,"",""
-"9648GP",17,"",""
-"9648GP",5,"",""
-"9648GP",19,"",""
-"9648GP",7,"",""
-"9648GP",23,"",""
-"9648GP",33,"",""
-"9648GP",7,"",""
-"9648GP",33,"",""
-"9648GR",42,"",""
-"9648GR",6,"",""
-"9648GR",44,"",""
-"9648GR",8,"",""
-"9648GR",6,"",""
-"9648GR",44,"",""
-"9648GR",24,"",""
-"9648GR",44,"",""
-"9648GR",6,"",""
-"9648GR",18,"",""
-"9648GR",8,"",""
-"9648GR",16,"",""
-"9648GR",34,"",""
-"9648GR",42,"",""
-"9648GR",22,"",""
-"9648GR",42,"",""
-"9648GR",34,"",""
-"9648GR",18,"",""
-"9648GR",20,"",""
-"9648GR",36,"",""
-"9648GR",40,"",""
-"9648GR",10,"",""
-"9648GR",30,"",""
-"9648GR",2,"",""
-"9648GR",22,"",""
-"9648GR",40,"",""
-"9648GR",4,"",""
-"9648GR",28,"",""
-"9648GR",4,"",""
-"9648GR",38,"",""
-"9648GR",36,"",""
-"9648GR",34,"",""
-"9648GR",10,"",""
-"9648GR",38,"",""
-"9648GR",30,"",""
-"9648GR",36,"",""
-"9648GR",14,"",""
-"9648GR",10,"",""
-"9648GR",16,"",""
-"9648GR",12,"",""
-"9648GR",32,"",""
-"9648GR",46,"",""
-"9648GR",4,"",""
-"9648GR",20,"",""
-"9648GR",26,"",""
-"9648GR",48,"",""
-"9648GR",40,"",""
-"9648GR",26,"",""
-"9648GR",8,"",""
-"9648GR",28,"",""
-"9648GR",12,"",""
-"9648GR",38,"",""
-"9648GR",28,"",""
-"9648GR",32,"",""
-"9648GR",2,"",""
-"9648GR",48,"",""
-"9648GR",46,"",""
-"9648GR",32,"",""
-"9648GR",26,"",""
-"9648GR",24,"",""
-"9648GR",14,"",""
-"9648GR",12,"",""
-"9648GR",30,"",""
-"9648GR",2,"",""
-"9648GS",1,"",""
-"9648GS",2,"",""
-"9648GS",3,"",""
-"9648GV",28,"",""
-"9648GV",38,"",""
-"9648GV",41,"",""
-"9648GV",33,"",""
-"9648GV",33,"",""
-"9648GV",33,"A",""
-"9648GV",36,"C",""
-"9648GV",33,"A",""
-"9648GV",39,"",""
-"9648GV",36,"B",""
-"9648GV",36,"D",""
-"9648GV",33,"",""
-"9648GV",27,"",""
-"9648GV",36,"E",""
-"9648GV",34,"",""
-"9648GV",33,"",""
-"9648GV",29,"",""
-"9648GV",40,"",""
-"9648GV",37,"",""
-"9648GV",31,"",""
-"9648GV",32,"",""
-"9648GV",26,"",""
-"9648GV",33,"A",""
-"9648GV",33,"B",""
-"9648GV",30,"",""
-"9648GV",35,"",""
-"9648GV",36,"",""
-"9648GV",36,"A",""
-"9648GV",33,"A",""
-"9648GX",24,"",""
-"9648GX",23,"B",""
-"9648GX",24,"A",""
-"9648GX",16,"",""
-"9648GX",23,"",""
-"9648GX",25,"",""
-"9648HA",1,"T",""
-"9648HA",6,"",""
-"9648HA",22,"",""
-"9648HA",1,"B",""
-"9648HA",11,"",""
-"9648HA",11,"",""
-"9648HA",20,"",""
-"9648HA",10,"",""
-"9648HA",20,"",""
-"9648HA",5,"",""
-"9648HA",1,"",""
-"9648HA",4,"A",""
-"9648HA",21,"",""
-"9648HA",11,"",""
-"9648HA",8,"",""
-"9648HA",22,"",""
-"9648HA",21,"",""
-"9648HA",3,"",""
-"9648HA",4,"",""
-"9648HB",35,"",""
-"9648HB",27,"",""
-"9648HB",47,"B",""
-"9648HB",28,"",""
-"9648HB",46,"",""
-"9648HB",37,"",""
-"9648HB",40,"",""
-"9648HB",41,"",""
-"9648HB",36,"",""
-"9648HB",39,"",""
-"9648HB",29,"",""
-"9648HB",33,"",""
-"9648HB",49,"",""
-"9648HB",26,"",""
-"9648HB",38,"",""
-"9648HB",48,"",""
-"9648HB",30,"",""
-"9648HB",45,"",""
-"9648HB",47,"",""
-"9648HB",42,"",""
-"9648HB",43,"",""
-"9648HB",47,"A",""
-"9648HB",34,"",""
-"9648HB",44,"",""
-"9648HC",62,"A",""
-"9648HC",65,"",""
-"9648HC",60,"",""
-"9648HC",50,"",""
-"9648HC",61,"",""
-"9648HC",64,"",""
-"9648HC",62,"",""
-"9648HC",63,"",""
-"9648HC",63,"B",""
-"9648HC",58,"",""
-"9648HC",66,"",""
-"9648HC",54,"",""
-"9648HC",71,"",""
-"9648HC",53,"",""
-"9648HC",68,"",""
-"9648HC",55,"",""
-"9648HC",69,"",""
-"9648HC",59,"",""
-"9648HC",52,"",""
-"9648HC",72,"",""
-"9648HC",56,"",""
-"9648HC",82,"",""
-"9648HC",70,"",""
-"9648HC",51,"",""
-"9648HC",50,"A",""
-"9648HC",67,"",""
-"9648HC",57,"",""
-9648GM,Veldbiesstraat,4,,
-9648GM,Veldbiesstraat,2,,
-9648GM,Veldbiesstraat,3,,
-9648GM,Veldbiesstraat,1,,
-9648GX,Bareveldkade,24,A,
-9648GX,Bareveldkade,23,,
-9648GX,Bareveldkade,23,B,
-9648GV,Bareveldstraat,31,,
-9648GV,Bareveldstraat,36,,
-9648GV,Bareveldstraat,36,D,
-9648GV,Bareveldstraat,29,,
-9648GV,Bareveldstraat,26,,
-9648GV,Bareveldstraat,36,E,
-9648GV,Bareveldstraat,34,,
-9648GV,Bareveldstraat,36,A,
-9648GV,Bareveldstraat,32,,
-9648GV,Bareveldstraat,28,,
-9648GV,Bareveldstraat,39,,
-9648GV,Bareveldstraat,30,,
-9648GV,Bareveldstraat,27,,
-9648HA,K.J. de Vriezestraat,21,,
-9648HA,K.J. de Vriezestraat,11,,
-9648HA,K.J. de Vriezestraat,4,A,
-9648HA,K.J. de Vriezestraat,10,,
-9648HA,K.J. de Vriezestraat,5,,
-9648HA,K.J. de Vriezestraat,3,,
-9648HB,K.J. de Vriezestraat,35,,
-9648HB,K.J. de Vriezestraat,42,,
-9648HB,K.J. de Vriezestraat,27,,
-9648HB,K.J. de Vriezestraat,43,,
-9648HB,K.J. de Vriezestraat,48,,
-9648HB,K.J. de Vriezestraat,47,,
-9648HB,K.J. de Vriezestraat,30,,
-9648HB,K.J. de Vriezestraat,26,,
-9648HB,K.J. de Vriezestraat,49,,
-9648HB,K.J. de Vriezestraat,29,,
-9648HB,K.J. de Vriezestraat,38,,
-9648HB,K.J. de Vriezestraat,34,,
-9648HB,K.J. de Vriezestraat,47,B,
-9648HB,K.J. de Vriezestraat,44,,
-9648HB,K.J. de Vriezestraat,41,,
-9648HB,K.J. de Vriezestraat,36,,
-9648HB,K.J. de Vriezestraat,40,,
-9648HB,K.J. de Vriezestraat,39,,
-9648HB,K.J. de Vriezestraat,37,,
-9648HC,K.J. de Vriezestraat,65,,
-9648HC,K.J. de Vriezestraat,70,,
-9648HC,K.J. de Vriezestraat,52,,
-9648HC,K.J. de Vriezestraat,60,,
-9648HC,K.J. de Vriezestraat,59,,
-9648HC,K.J. de Vriezestraat,64,,
-9648HC,K.J. de Vriezestraat,63,B,
-9648HC,K.J. de Vriezestraat,61,,
-9648HC,K.J. de Vriezestraat,53,,
-9648HC,K.J. de Vriezestraat,51,,
-9648HC,K.J. de Vriezestraat,67,,
-9648HC,K.J. de Vriezestraat,62,,
-9648HC,K.J. de Vriezestraat,63,,
-9648HC,K.J. de Vriezestraat,58,,
-9648HC,K.J. de Vriezestraat,55,,
-9648HC,K.J. de Vriezestraat,56,,
-9648HC,K.J. de Vriezestraat,62,A,
-9648HC,K.J. de Vriezestraat,54,,
-9648GP,Ericastraat,17,,
-9648GP,Ericastraat,13,,
-9648GP,Ericastraat,27,,
-9648GP,Ericastraat,31,,
-9648GP,Ericastraat,41,,
-9648GP,Ericastraat,39,,
-9648GP,Ericastraat,23,,
-9648GP,Ericastraat,5,,
-9648GP,Ericastraat,19,,
-9648GP,Ericastraat,21,,
-9648GP,Ericastraat,3,,
-9648GP,Ericastraat,3,,
-9648GP,Ericastraat,1,,
-9648GP,Ericastraat,1,,
-9648GP,Ericastraat,35,,
-9648GP,Ericastraat,11,,
-9648GP,Ericastraat,29,,
-9648GP,Ericastraat,33,,
-9648GP,Ericastraat,37,,
-9648GP,Ericastraat,7,,
-9648GP,Ericastraat,25,,
-9648GP,Ericastraat,9,,
-9648GP,Ericastraat,43,,
-9648GR,Ericastraat,28,,
-9648GR,Ericastraat,12,,
-9648GR,Ericastraat,8,,
-9648GR,Ericastraat,6,,
-9648GR,Ericastraat,10,,
-9648GR,Ericastraat,30,,
-9648GR,Ericastraat,42,,
-9648GR,Ericastraat,26,,
-9648GR,Ericastraat,20,,
-9648GR,Ericastraat,18,,
-9648GR,Ericastraat,22,,
-9648GR,Ericastraat,14,,
-9648GR,Ericastraat,48,,
-9648GR,Ericastraat,2,,
-9648GR,Ericastraat,32,,
-9648GR,Ericastraat,46,,
-9648GR,Ericastraat,4,,
-9648GR,Ericastraat,16,,
-9648GR,Ericastraat,44,,
-9648GR,Ericastraat,40,,
-9648GR,Ericastraat,38,,
-9648GS,Maagdepalmstraat,3,,
-9648GS,Maagdepalmstraat,1,,
-9648GN,Pijlkruidstraat,1,,
-9648GN,Pijlkruidstraat,17,,
-9648GN,Pijlkruidstraat,41,,
-9648GN,Pijlkruidstraat,39,,
-9648GN,Pijlkruidstraat,13,,
-9648GN,Pijlkruidstraat,5,,
-9648GN,Pijlkruidstraat,21,,
-9648GN,Pijlkruidstraat,19,,
-9648GN,Pijlkruidstraat,23,,
-9648GN,Pijlkruidstraat,35,,
-9648GN,Pijlkruidstraat,33,,
-9648GN,Pijlkruidstraat,3,,
-9648GN,Pijlkruidstraat,27,,
-9648GN,Pijlkruidstraat,43,,
-9648GN,Pijlkruidstraat,7,,
-9648GN,Pijlkruidstraat,9,,
-9648GX,Bareveldkade,24,,
-9648GX,Bareveldkade,25,,
-9648GX,Bareveldkade,16,,
-9648GV,Bareveldstraat,35,,
-9648GV,Bareveldstraat,36,C,
-9648GV,Bareveldstraat,37,,
-9648GV,Bareveldstraat,40,,
-9648GV,Bareveldstraat,33,,
-9648GV,Bareveldstraat,41,,
-9648GV,Bareveldstraat,38,,
-9648GV,Bareveldstraat,36,B,
-9648GV,Bareveldstraat,33,,
-9648GV,Bareveldstraat,33,A,
-9648GV,Bareveldstraat,33,A,
-9648GV,Bareveldstraat,33,,
-9648GV,Bareveldstraat,33,A,
-9648GV,Bareveldstraat,33,B,
-9648HA,K.J. de Vriezestraat,8,,
-9648HA,K.J. de Vriezestraat,22,,
-9648HA,K.J. de Vriezestraat,4,,
-9648HA,K.J. de Vriezestraat,20,,
-9648HA,K.J. de Vriezestraat,1,,
-9648HA,K.J. de Vriezestraat,6,,
-9648HA,K.J. de Vriezestraat,1,B,
-9648HA,K.J. de Vriezestraat,1,T,
-9648HA,K.J. de Vriezestraat,11,,
-9648HB,K.J. de Vriezestraat,33,,
-9648HB,K.J. de Vriezestraat,46,,
-9648HB,K.J. de Vriezestraat,45,,
-9648HB,K.J. de Vriezestraat,28,,
-9648HB,K.J. de Vriezestraat,47,A,
-9648HC,K.J. de Vriezestraat,57,,
-9648HC,K.J. de Vriezestraat,69,,
-9648HC,K.J. de Vriezestraat,50,,
-9648HC,K.J. de Vriezestraat,66,,
-9648HC,K.J. de Vriezestraat,71,,
-9648HC,K.J. de Vriezestraat,50,A,
-9648HC,K.J. de Vriezestraat,82,,
-9648HC,K.J. de Vriezestraat,82,,
-9648HC,K.J. de Vriezestraat,68,,
-9648HC,K.J. de Vriezestraat,72,,
-9648GP,Ericastraat,15,,
-9648GP,Ericastraat,1,,
-9648GP,Ericastraat,3,,
-9648GP,Ericastraat,5,,
-9648GP,Ericastraat,7,,
-9648GP,Ericastraat,9,,
-9648GP,Ericastraat,11,,
-9648GP,Ericastraat,21,,
-9648GP,Ericastraat,23,,
-9648GP,Ericastraat,25,,
-9648GP,Ericastraat,27,,
-9648GP,Ericastraat,29,,
-9648GP,Ericastraat,31,,
-9648GR,Ericastraat,34,,
-9648GR,Ericastraat,24,,
-9648GR,Ericastraat,36,,
-9648GR,Ericastraat,2,,
-9648GR,Ericastraat,4,,
-9648GR,Ericastraat,6,,
-9648GR,Ericastraat,8,,
-9648GR,Ericastraat,10,,
-9648GR,Ericastraat,12,,
-9648GR,Ericastraat,34,,
-9648GR,Ericastraat,36,,
-9648GR,Ericastraat,38,,
-9648GR,Ericastraat,40,,
-9648GR,Ericastraat,42,,
-9648GR,Ericastraat,44,,
-9648GR,Ericastraat,26,,
-9648GR,Ericastraat,28,,
-9648GR,Ericastraat,30,,
-9648GR,Ericastraat,32,,
-9648GS,Maagdepalmstraat,2,,
-9648GN,Pijlkruidstraat,25,,
-9648GN,Pijlkruidstraat,37,,
-9648GN,Pijlkruidstraat,11,,
-9648GN,Pijlkruidstraat,15,,
-9648GN,Pijlkruidstraat,6,,
-9648GN,Pijlkruidstraat,8,,
-9648GN,Pijlkruidstraat,10,,
-9648GN,Pijlkruidstraat,12,,
-9648GN,Pijlkruidstraat,14,,
-9648GN,Pijlkruidstraat,16,,
-9648GN,Pijlkruidstraat,26,,
-9648GN,Pijlkruidstraat,28,,
-9648GN,Pijlkruidstraat,30,,
-9648GN,Pijlkruidstraat,32,,
-9648GN,Pijlkruidstraat,34,,
-9648GN,Pijlkruidstraat,36,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Veldbiesstraat,1,"","",9648GM,Wildervank
+Veldbiesstraat,2,"","",9648GM,Wildervank
+Veldbiesstraat,3,"","",9648GM,Wildervank
+Veldbiesstraat,4,"","",9648GM,Wildervank
+Pijlkruidstraat,1,"","",9648GN,Wildervank
+Pijlkruidstraat,10,"","",9648GN,Wildervank
+Pijlkruidstraat,11,"","",9648GN,Wildervank
+Pijlkruidstraat,11,"","",9648GN,Wildervank
+Pijlkruidstraat,12,"","",9648GN,Wildervank
+Pijlkruidstraat,13,"","",9648GN,Wildervank
+Pijlkruidstraat,14,"","",9648GN,Wildervank
+Pijlkruidstraat,15,"","",9648GN,Wildervank
+Pijlkruidstraat,16,"","",9648GN,Wildervank
+Pijlkruidstraat,17,"","",9648GN,Wildervank
+Pijlkruidstraat,19,"","",9648GN,Wildervank
+Pijlkruidstraat,21,"","",9648GN,Wildervank
+Pijlkruidstraat,23,"","",9648GN,Wildervank
+Pijlkruidstraat,25,"","",9648GN,Wildervank
+Pijlkruidstraat,26,"","",9648GN,Wildervank
+Pijlkruidstraat,27,"","",9648GN,Wildervank
+Pijlkruidstraat,28,"","",9648GN,Wildervank
+Pijlkruidstraat,3,"","",9648GN,Wildervank
+Pijlkruidstraat,30,"","",9648GN,Wildervank
+Pijlkruidstraat,32,"","",9648GN,Wildervank
+Pijlkruidstraat,33,"","",9648GN,Wildervank
+Pijlkruidstraat,34,"","",9648GN,Wildervank
+Pijlkruidstraat,35,"","",9648GN,Wildervank
+Pijlkruidstraat,36,"","",9648GN,Wildervank
+Pijlkruidstraat,37,"","",9648GN,Wildervank
+Pijlkruidstraat,37,"","",9648GN,Wildervank
+Pijlkruidstraat,39,"","",9648GN,Wildervank
+Pijlkruidstraat,39,"","",9648GN,Wildervank
+Pijlkruidstraat,41,"","",9648GN,Wildervank
+Pijlkruidstraat,41,"","",9648GN,Wildervank
+Pijlkruidstraat,43,"","",9648GN,Wildervank
+Pijlkruidstraat,43,"","",9648GN,Wildervank
+Pijlkruidstraat,5,"","",9648GN,Wildervank
+Pijlkruidstraat,6,"","",9648GN,Wildervank
+Pijlkruidstraat,7,"","",9648GN,Wildervank
+Pijlkruidstraat,8,"","",9648GN,Wildervank
+Pijlkruidstraat,9,"","",9648GN,Wildervank
+Pijlkruidstraat,9,"","",9648GN,Wildervank
+Ericastraat,1,"","",9648GP,Wildervank
+Ericastraat,1,"","",9648GP,Wildervank
+Ericastraat,1,"","",9648GP,Wildervank
+Ericastraat,1,"","",9648GP,Wildervank
+Ericastraat,11,"","",9648GP,Wildervank
+Ericastraat,11,"","",9648GP,Wildervank
+Ericastraat,11,"","",9648GP,Wildervank
+Ericastraat,13,"","",9648GP,Wildervank
+Ericastraat,13,"","",9648GP,Wildervank
+Ericastraat,15,"","",9648GP,Wildervank
+Ericastraat,15,"","",9648GP,Wildervank
+Ericastraat,17,"","",9648GP,Wildervank
+Ericastraat,17,"","",9648GP,Wildervank
+Ericastraat,19,"","",9648GP,Wildervank
+Ericastraat,19,"","",9648GP,Wildervank
+Ericastraat,21,"","",9648GP,Wildervank
+Ericastraat,21,"","",9648GP,Wildervank
+Ericastraat,21,"","",9648GP,Wildervank
+Ericastraat,23,"","",9648GP,Wildervank
+Ericastraat,23,"","",9648GP,Wildervank
+Ericastraat,23,"","",9648GP,Wildervank
+Ericastraat,25,"","",9648GP,Wildervank
+Ericastraat,25,"","",9648GP,Wildervank
+Ericastraat,25,"","",9648GP,Wildervank
+Ericastraat,27,"","",9648GP,Wildervank
+Ericastraat,27,"","",9648GP,Wildervank
+Ericastraat,27,"","",9648GP,Wildervank
+Ericastraat,29,"","",9648GP,Wildervank
+Ericastraat,29,"","",9648GP,Wildervank
+Ericastraat,29,"","",9648GP,Wildervank
+Ericastraat,3,"","",9648GP,Wildervank
+Ericastraat,3,"","",9648GP,Wildervank
+Ericastraat,3,"","",9648GP,Wildervank
+Ericastraat,3,"","",9648GP,Wildervank
+Ericastraat,31,"","",9648GP,Wildervank
+Ericastraat,31,"","",9648GP,Wildervank
+Ericastraat,31,"","",9648GP,Wildervank
+Ericastraat,33,"","",9648GP,Wildervank
+Ericastraat,33,"","",9648GP,Wildervank
+Ericastraat,35,"","",9648GP,Wildervank
+Ericastraat,35,"","",9648GP,Wildervank
+Ericastraat,37,"","",9648GP,Wildervank
+Ericastraat,37,"","",9648GP,Wildervank
+Ericastraat,39,"","",9648GP,Wildervank
+Ericastraat,39,"","",9648GP,Wildervank
+Ericastraat,41,"","",9648GP,Wildervank
+Ericastraat,41,"","",9648GP,Wildervank
+Ericastraat,43,"","",9648GP,Wildervank
+Ericastraat,43,"","",9648GP,Wildervank
+Ericastraat,5,"","",9648GP,Wildervank
+Ericastraat,5,"","",9648GP,Wildervank
+Ericastraat,5,"","",9648GP,Wildervank
+Ericastraat,7,"","",9648GP,Wildervank
+Ericastraat,7,"","",9648GP,Wildervank
+Ericastraat,7,"","",9648GP,Wildervank
+Ericastraat,9,"","",9648GP,Wildervank
+Ericastraat,9,"","",9648GP,Wildervank
+Ericastraat,9,"","",9648GP,Wildervank
+Ericastraat,10,"","",9648GR,Wildervank
+Ericastraat,10,"","",9648GR,Wildervank
+Ericastraat,10,"","",9648GR,Wildervank
+Ericastraat,12,"","",9648GR,Wildervank
+Ericastraat,12,"","",9648GR,Wildervank
+Ericastraat,12,"","",9648GR,Wildervank
+Ericastraat,14,"","",9648GR,Wildervank
+Ericastraat,14,"","",9648GR,Wildervank
+Ericastraat,16,"","",9648GR,Wildervank
+Ericastraat,16,"","",9648GR,Wildervank
+Ericastraat,18,"","",9648GR,Wildervank
+Ericastraat,18,"","",9648GR,Wildervank
+Ericastraat,2,"","",9648GR,Wildervank
+Ericastraat,2,"","",9648GR,Wildervank
+Ericastraat,2,"","",9648GR,Wildervank
+Ericastraat,20,"","",9648GR,Wildervank
+Ericastraat,20,"","",9648GR,Wildervank
+Ericastraat,22,"","",9648GR,Wildervank
+Ericastraat,22,"","",9648GR,Wildervank
+Ericastraat,24,"","",9648GR,Wildervank
+Ericastraat,24,"","",9648GR,Wildervank
+Ericastraat,26,"","",9648GR,Wildervank
+Ericastraat,26,"","",9648GR,Wildervank
+Ericastraat,26,"","",9648GR,Wildervank
+Ericastraat,28,"","",9648GR,Wildervank
+Ericastraat,28,"","",9648GR,Wildervank
+Ericastraat,28,"","",9648GR,Wildervank
+Ericastraat,30,"","",9648GR,Wildervank
+Ericastraat,30,"","",9648GR,Wildervank
+Ericastraat,30,"","",9648GR,Wildervank
+Ericastraat,32,"","",9648GR,Wildervank
+Ericastraat,32,"","",9648GR,Wildervank
+Ericastraat,32,"","",9648GR,Wildervank
+Ericastraat,34,"","",9648GR,Wildervank
+Ericastraat,34,"","",9648GR,Wildervank
+Ericastraat,34,"","",9648GR,Wildervank
+Ericastraat,36,"","",9648GR,Wildervank
+Ericastraat,36,"","",9648GR,Wildervank
+Ericastraat,36,"","",9648GR,Wildervank
+Ericastraat,38,"","",9648GR,Wildervank
+Ericastraat,38,"","",9648GR,Wildervank
+Ericastraat,38,"","",9648GR,Wildervank
+Ericastraat,4,"","",9648GR,Wildervank
+Ericastraat,4,"","",9648GR,Wildervank
+Ericastraat,4,"","",9648GR,Wildervank
+Ericastraat,40,"","",9648GR,Wildervank
+Ericastraat,40,"","",9648GR,Wildervank
+Ericastraat,40,"","",9648GR,Wildervank
+Ericastraat,42,"","",9648GR,Wildervank
+Ericastraat,42,"","",9648GR,Wildervank
+Ericastraat,42,"","",9648GR,Wildervank
+Ericastraat,44,"","",9648GR,Wildervank
+Ericastraat,44,"","",9648GR,Wildervank
+Ericastraat,44,"","",9648GR,Wildervank
+Ericastraat,46,"","",9648GR,Wildervank
+Ericastraat,46,"","",9648GR,Wildervank
+Ericastraat,48,"","",9648GR,Wildervank
+Ericastraat,48,"","",9648GR,Wildervank
+Ericastraat,6,"","",9648GR,Wildervank
+Ericastraat,6,"","",9648GR,Wildervank
+Ericastraat,6,"","",9648GR,Wildervank
+Ericastraat,8,"","",9648GR,Wildervank
+Ericastraat,8,"","",9648GR,Wildervank
+Ericastraat,8,"","",9648GR,Wildervank
+Maagdepalmstraat,1,"","",9648GS,Wildervank
+Maagdepalmstraat,2,"","",9648GS,Wildervank
+Maagdepalmstraat,3,"","",9648GS,Wildervank
+Bareveldstraat,26,"","",9648GV,Wildervank
+Bareveldstraat,27,"","",9648GV,Wildervank
+Bareveldstraat,28,"","",9648GV,Wildervank
+Bareveldstraat,29,"","",9648GV,Wildervank
+Bareveldstraat,30,"","",9648GV,Wildervank
+Bareveldstraat,31,"","",9648GV,Wildervank
+Bareveldstraat,32,"","",9648GV,Wildervank
+Bareveldstraat,33,"","",9648GV,Wildervank
+Bareveldstraat,33,"","",9648GV,Wildervank
+Bareveldstraat,33,"","",9648GV,Wildervank
+Bareveldstraat,33,"","",9648GV,Wildervank
+Bareveldstraat,33,A,"",9648GV,Wildervank
+Bareveldstraat,33,A,"",9648GV,Wildervank
+Bareveldstraat,33,A,"",9648GV,Wildervank
+Bareveldstraat,33,A,"",9648GV,Wildervank
+Bareveldstraat,33,B,"",9648GV,Wildervank
+Bareveldstraat,34,"","",9648GV,Wildervank
+Bareveldstraat,35,"","",9648GV,Wildervank
+Bareveldstraat,36,"","",9648GV,Wildervank
+Bareveldstraat,36,A,"",9648GV,Wildervank
+Bareveldstraat,36,B,"",9648GV,Wildervank
+Bareveldstraat,36,C,"",9648GV,Wildervank
+Bareveldstraat,36,D,"",9648GV,Wildervank
+Bareveldstraat,36,E,"",9648GV,Wildervank
+Bareveldstraat,37,"","",9648GV,Wildervank
+Bareveldstraat,38,"","",9648GV,Wildervank
+Bareveldstraat,39,"","",9648GV,Wildervank
+Bareveldstraat,40,"","",9648GV,Wildervank
+Bareveldstraat,41,"","",9648GV,Wildervank
+Bareveldkade,16,"","",9648GX,Wildervank
+Bareveldkade,23,"","",9648GX,Wildervank
+Bareveldkade,23,B,"",9648GX,Wildervank
+Bareveldkade,24,"","",9648GX,Wildervank
+Bareveldkade,24,A,"",9648GX,Wildervank
+Bareveldkade,25,"","",9648GX,Wildervank
+K.J. de Vriezestraat,1,"","",9648HA,Wildervank
+K.J. de Vriezestraat,1,B,"",9648HA,Wildervank
+K.J. de Vriezestraat,1,T,"",9648HA,Wildervank
+K.J. de Vriezestraat,10,"","",9648HA,Wildervank
+K.J. de Vriezestraat,11,"","",9648HA,Wildervank
+K.J. de Vriezestraat,11,"","",9648HA,Wildervank
+K.J. de Vriezestraat,11,"","",9648HA,Wildervank
+K.J. de Vriezestraat,20,"","",9648HA,Wildervank
+K.J. de Vriezestraat,20,"","",9648HA,Wildervank
+K.J. de Vriezestraat,21,"","",9648HA,Wildervank
+K.J. de Vriezestraat,21,"","",9648HA,Wildervank
+K.J. de Vriezestraat,22,"","",9648HA,Wildervank
+K.J. de Vriezestraat,22,"","",9648HA,Wildervank
+K.J. de Vriezestraat,3,"","",9648HA,Wildervank
+K.J. de Vriezestraat,4,"","",9648HA,Wildervank
+K.J. de Vriezestraat,4,A,"",9648HA,Wildervank
+K.J. de Vriezestraat,5,"","",9648HA,Wildervank
+K.J. de Vriezestraat,6,"","",9648HA,Wildervank
+K.J. de Vriezestraat,8,"","",9648HA,Wildervank
+K.J. de Vriezestraat,26,"","",9648HB,Wildervank
+K.J. de Vriezestraat,27,"","",9648HB,Wildervank
+K.J. de Vriezestraat,28,"","",9648HB,Wildervank
+K.J. de Vriezestraat,29,"","",9648HB,Wildervank
+K.J. de Vriezestraat,30,"","",9648HB,Wildervank
+K.J. de Vriezestraat,33,"","",9648HB,Wildervank
+K.J. de Vriezestraat,34,"","",9648HB,Wildervank
+K.J. de Vriezestraat,35,"","",9648HB,Wildervank
+K.J. de Vriezestraat,36,"","",9648HB,Wildervank
+K.J. de Vriezestraat,37,"","",9648HB,Wildervank
+K.J. de Vriezestraat,38,"","",9648HB,Wildervank
+K.J. de Vriezestraat,39,"","",9648HB,Wildervank
+K.J. de Vriezestraat,40,"","",9648HB,Wildervank
+K.J. de Vriezestraat,41,"","",9648HB,Wildervank
+K.J. de Vriezestraat,42,"","",9648HB,Wildervank
+K.J. de Vriezestraat,43,"","",9648HB,Wildervank
+K.J. de Vriezestraat,44,"","",9648HB,Wildervank
+K.J. de Vriezestraat,45,"","",9648HB,Wildervank
+K.J. de Vriezestraat,46,"","",9648HB,Wildervank
+K.J. de Vriezestraat,47,"","",9648HB,Wildervank
+K.J. de Vriezestraat,47,A,"",9648HB,Wildervank
+K.J. de Vriezestraat,47,B,"",9648HB,Wildervank
+K.J. de Vriezestraat,48,"","",9648HB,Wildervank
+K.J. de Vriezestraat,49,"","",9648HB,Wildervank
+K.J. de Vriezestraat,50,"","",9648HC,Wildervank
+K.J. de Vriezestraat,50,A,"",9648HC,Wildervank
+K.J. de Vriezestraat,51,"","",9648HC,Wildervank
+K.J. de Vriezestraat,52,"","",9648HC,Wildervank
+K.J. de Vriezestraat,53,"","",9648HC,Wildervank
+K.J. de Vriezestraat,54,"","",9648HC,Wildervank
+K.J. de Vriezestraat,55,"","",9648HC,Wildervank
+K.J. de Vriezestraat,56,"","",9648HC,Wildervank
+K.J. de Vriezestraat,57,"","",9648HC,Wildervank
+K.J. de Vriezestraat,58,"","",9648HC,Wildervank
+K.J. de Vriezestraat,59,"","",9648HC,Wildervank
+K.J. de Vriezestraat,60,"","",9648HC,Wildervank
+K.J. de Vriezestraat,61,"","",9648HC,Wildervank
+K.J. de Vriezestraat,62,"","",9648HC,Wildervank
+K.J. de Vriezestraat,62,A,"",9648HC,Wildervank
+K.J. de Vriezestraat,63,"","",9648HC,Wildervank
+K.J. de Vriezestraat,63,B,"",9648HC,Wildervank
+K.J. de Vriezestraat,64,"","",9648HC,Wildervank
+K.J. de Vriezestraat,65,"","",9648HC,Wildervank
+K.J. de Vriezestraat,66,"","",9648HC,Wildervank
+K.J. de Vriezestraat,67,"","",9648HC,Wildervank
+K.J. de Vriezestraat,68,"","",9648HC,Wildervank
+K.J. de Vriezestraat,69,"","",9648HC,Wildervank
+K.J. de Vriezestraat,70,"","",9648HC,Wildervank
+K.J. de Vriezestraat,71,"","",9648HC,Wildervank
+K.J. de Vriezestraat,72,"","",9648HC,Wildervank
+K.J. de Vriezestraat,82,"","",9648HC,Wildervank

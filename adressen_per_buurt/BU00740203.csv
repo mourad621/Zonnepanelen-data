@@ -1,804 +1,409 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8458BE",253,"",""
-"8458BE",251,"A",""
-"8458BE",283,"",""
-"8458BE",263,"",""
-"8458BE",281,"",""
-"8458BE",277,"",""
-"8458BE",267,"",""
-"8458BE",269,"B",""
-"8458BE",255,"",""
-"8458BE",261,"",""
-"8458BE",279,"",""
-"8458BE",269,"",""
-"8458BE",265,"",""
-"8458BE",259,"",""
-"8458BE",273,"",""
-"8458BE",257,"",""
-"8458BE",271,"",""
-"8458BE",275,"",""
-"8458BE",269,"A",""
-"8458BG",285,"",""
-"8458BG",293,"",""
-"8458BG",285,"A",""
-"8458BG",291,"",""
-"8458BG",297,"",""
-"8458BG",301,"",""
-"8458BG",285,"A",""
-"8458BG",289,"",""
-"8458BG",287,"",""
-"8458BG",307,"",""
-"8458BG",305,"",""
-"8458BG",285,"A",""
-"8458BG",303,"",""
-"8458BG",309,"",""
-"8458BG",311,"",""
-"8458BH",226,"",""
-"8458BH",222,"",""
-"8458BH",224,"",""
-"8458BH",240,"",""
-"8458BH",240,"B",""
-"8458BH",240,"",""
-"8458BH",238,"A",""
-"8458BH",240,"",""
-"8458BH",206,"",""
-"8458BH",228,"",""
-"8458BH",232,"A",""
-"8458BH",208,"",""
-"8458BH",244,"",""
-"8458BH",210,"A",""
-"8458BH",220,"",""
-"8458BH",232,"",""
-"8458BH",204,"A",""
-"8458BH",230,"",""
-"8458BH",240,"A",""
-"8458BH",240,"A",""
-"8458BH",242,"",""
-"8458BH",212,"",""
-"8458BH",214,"",""
-"8458BH",210,"",""
-"8458BH",218,"A",""
-"8458BH",218,"A",""
-"8458BH",216,"",""
-"8458BH",234,"",""
-"8458BH",238,"",""
-"8458BH",236,"",""
-"8458BH",236,"A",""
-"8458BH",218,"",""
-"8458BJ",280,"",""
-"8458BJ",278,"",""
-"8458BJ",248,"A",""
-"8458BJ",246,"",""
-"8458BJ",284,"",""
-"8458BJ",282,"",""
-"8458BJ",276,"",""
-"8458BJ",270,"",""
-"8458BJ",266,"",""
-"8458BJ",274,"",""
-"8458BJ",252,"",""
-"8458BJ",260,"",""
-"8458BJ",248,"",""
-"8458BJ",264,"",""
-"8458BJ",268,"",""
-"8458BJ",272,"",""
-"8458BJ",262,"",""
-"8458BJ",250,"",""
-"8458BJ",256,"",""
-"8458BJ",258,"",""
-"8458BJ",254,"",""
-"8458CA",3,"",""
-"8458CA",1,"",""
-"8458CA",5,"",""
-"8458CB",7,"",""
-"8458CB",23,"",""
-"8458CB",15,"",""
-"8458CB",4,"",""
-"8458CB",25,"",""
-"8458CB",5,"",""
-"8458CB",1,"",""
-"8458CB",3,"",""
-"8458CB",2,"",""
-"8458CB",17,"",""
-"8458CB",13,"",""
-"8458CB",11,"",""
-"8458CB",19,"",""
-"8458CB",6,"",""
-"8458CB",21,"",""
-"8458CB",9,"",""
-"8458CC",7,"",""
-"8458CC",19,"",""
-"8458CC",13,"",""
-"8458CC",4,"",""
-"8458CC",2,"",""
-"8458CC",14,"",""
-"8458CC",15,"",""
-"8458CC",1,"",""
-"8458CC",6,"",""
-"8458CC",23,"",""
-"8458CC",11,"",""
-"8458CC",20,"",""
-"8458CC",29,"",""
-"8458CC",2,"A",""
-"8458CC",8,"",""
-"8458CC",9,"",""
-"8458CC",5,"",""
-"8458CC",3,"",""
-"8458CC",25,"",""
-"8458CC",10,"",""
-"8458CC",21,"",""
-"8458CC",16,"",""
-"8458CC",12,"",""
-"8458CC",27,"",""
-"8458CC",17,"",""
-"8458CC",18,"",""
-"8458CD",8,"",""
-"8458CD",11,"",""
-"8458CD",15,"",""
-"8458CD",12,"",""
-"8458CD",9,"",""
-"8458CD",17,"",""
-"8458CD",16,"",""
-"8458CD",13,"",""
-"8458CD",27,"",""
-"8458CD",19,"",""
-"8458CD",10,"",""
-"8458CD",14,"",""
-"8458CD",21,"",""
-"8458CD",7,"",""
-"8458CD",4,"",""
-"8458CD",2,"",""
-"8458CD",25,"",""
-"8458CD",5,"",""
-"8458CD",6,"",""
-"8458CD",3,"",""
-"8458CD",1,"",""
-"8458CE",43,"",""
-"8458CE",31,"",""
-"8458CE",41,"",""
-"8458CE",39,"",""
-"8458CE",33,"",""
-"8458CE",35,"",""
-"8458CE",29,"",""
-"8458CE",37,"",""
-"8458CG",343,"",""
-"8458CG",337,"",""
-"8458CG",343,"",""
-"8458CG",335,"A",""
-"8458CG",347,"",""
-"8458CG",349,"",""
-"8458CG",335,"B",""
-"8458CG",319,"",""
-"8458CG",335,"",""
-"8458CG",331,"",""
-"8458CG",333,"",""
-"8458CG",353,"",""
-"8458CG",321,"",""
-"8458CG",335,"A",""
-"8458CG",323,"",""
-"8458CG",335,"A",""
-"8458CG",335,"",""
-"8458CG",327,"",""
-"8458CG",337,"",""
-"8458CG",337,"",""
-"8458CG",335,"",""
-"8458CG",343,"",""
-"8458CG",355,"",""
-"8458CG",347,"A",""
-"8458CG",335,"",""
-"8458CG",357,"",""
-"8458CG",325,"",""
-"8458CG",317,"",""
-"8458CG",335,"",""
-"8458CG",335,"",""
-"8458CG",329,"",""
-"8458CH",375,"",""
-"8458CH",361,"",""
-"8458CH",361,"A",""
-"8458CH",361,"",""
-"8458CH",379,"",""
-"8458CH",377,"",""
-"8458CH",359,"",""
-"8458CH",361,"",""
-"8458CH",371,"",""
-"8458CH",359,"B",""
-"8458CH",381,"",""
-"8458CH",363,"",""
-"8458CH",359,"A",""
-"8458CH",367,"",""
-"8458CH",365,"",""
-"8458CH",359,"B",""
-"8458CH",379,"A",""
-"8458CH",377,"A",""
-"8458CJ",405,"",""
-"8458CJ",391,"",""
-"8458CJ",385,"",""
-"8458CJ",407,"",""
-"8458CJ",401,"",""
-"8458CJ",409,"",""
-"8458CJ",387,"",""
-"8458CJ",389,"",""
-"8458CJ",389,"A",""
-"8458CJ",411,"",""
-"8458CJ",403,"",""
-"8458CJ",383,"",""
-"8458CK",302,"",""
-"8458CK",312,"",""
-"8458CK",294,"",""
-"8458CK",298,"",""
-"8458CK",292,"",""
-"8458CK",306,"",""
-"8458CK",290,"",""
-"8458CK",288,"",""
-"8458CK",304,"",""
-"8458CK",310,"",""
-"8458CK",308,"",""
-"8458CK",316,"",""
-"8458CK",300,"",""
-"8458CK",296,"",""
-"8458CK",314,"",""
-"8458CL",326,"",""
-"8458CL",324,"",""
-"8458CL",330,"",""
-"8458CL",332,"",""
-"8458CL",330,"",""
-"8458CL",330,"",""
-"8458CL",340,"",""
-"8458CL",344,"",""
-"8458CL",334,"",""
-"8458CL",346,"",""
-"8458CL",348,"",""
-"8458CL",322,"",""
-"8458CL",338,"",""
-"8458CL",320,"",""
-"8458CL",342,"",""
-"8458CL",336,"",""
-"8458CL",330,"A",""
-"8458CL",318,"",""
-"8458CL",328,"",""
-"8458CM",362,"",""
-"8458CM",356,"",""
-"8458CM",368,"",""
-"8458CM",360,"",""
-"8458CM",352,"",""
-"8458CM",374,"",""
-"8458CM",370,"",""
-"8458CM",378,"",""
-"8458CM",358,"",""
-"8458CM",364,"",""
-"8458CM",366,"",""
-"8458CM",350,"",""
-"8458CM",376,"",""
-"8458CM",372,"",""
-"8458CM",354,"",""
-"8458CN",5,"",""
-"8458CN",5,"",""
-"8458CN",3,"",""
-"8458CN",7,"",""
-"8458CN",1,"",""
-"8458CN",5,"",""
-"8458CP",17,"",""
-"8458CP",14,"",""
-"8458CP",26,"",""
-"8458CP",12,"",""
-"8458CP",28,"",""
-"8458CP",11,"",""
-"8458CP",6,"",""
-"8458CP",16,"",""
-"8458CP",15,"",""
-"8458CP",32,"",""
-"8458CP",38,"",""
-"8458CP",9,"",""
-"8458CP",8,"",""
-"8458CP",30,"",""
-"8458CP",23,"",""
-"8458CP",2,"",""
-"8458CP",10,"",""
-"8458CP",34,"",""
-"8458CP",9,"A",""
-"8458CP",19,"",""
-"8458CP",42,"A",""
-"8458CP",40,"",""
-"8458CP",42,"",""
-"8458CP",25,"",""
-"8458CP",4,"",""
-"8458CP",22,"",""
-"8458CP",24,"",""
-"8458CP",1,"",""
-"8458CP",20,"",""
-"8458CP",36,"",""
-"8458CP",21,"",""
-"8458CR",2,"A",""
-"8458CR",1,"A",""
-"8458CR",1,"B",""
-"8458CR",4,"A",""
-"8458CR",4,"",""
-"8458CR",2,"",""
-"8458CR",1,"",""
-"8458CR",1,"B",""
-"8458CS",4,"",""
-"8458CS",2,"",""
-"8458CS",16,"",""
-"8458CS",30,"",""
-"8458CS",6,"",""
-"8458CS",36,"",""
-"8458CS",8,"",""
-"8458CS",22,"",""
-"8458CS",28,"",""
-"8458CS",26,"",""
-"8458CS",32,"",""
-"8458CS",34,"",""
-"8458CS",14,"",""
-"8458CS",12,"",""
-"8458CS",20,"",""
-"8458CS",18,"",""
-"8458CS",24,"",""
-"8458CT",35,"",""
-"8458CT",3,"",""
-"8458CT",9,"",""
-"8458CT",19,"",""
-"8458CT",13,"",""
-"8458CT",23,"",""
-"8458CT",33,"",""
-"8458CT",21,"",""
-"8458CT",15,"",""
-"8458CT",5,"",""
-"8458CT",31,"",""
-"8458CT",27,"",""
-"8458CT",25,"",""
-"8458CT",17,"",""
-"8458CT",7,"",""
-"8458CV",1,"",""
-"8458CW",2,"",""
-"8458CW",4,"",""
-"8458CW",10,"",""
-"8458CW",8,"",""
-"8458CW",5,"",""
-"8458CW",4,"",""
-"8458CW",5,"",""
-"8458CW",10,"",""
-"8458CW",9,"",""
-"8458CW",32,"",""
-"8458CW",5,"",""
-"8458CW",7,"",""
-"8458CW",3,"",""
-"8458CW",1,"",""
-"8458CW",9,"",""
-"8458CW",9,"",""
-"8458CW",4,"",""
-"8458CW",42,"",""
-"8458CW",41,"",""
-"8458CW",12,"",""
-"8458CW",10,"",""
-"8458CW",32,"",""
-"8458CW",33,"",""
-"8458CW",19,"",""
-"8458CW",6,"",""
-"8458CW",11,"",""
-"8458CW",30,"",""
-"8458CW",17,"",""
-"8458CW",31,"",""
-"8458CW",1,"",""
-"8458CW",35,"",""
-"8458CW",40,"",""
-"8458CW",18,"",""
-"8458CW",37,"",""
-"8458CW",13,"",""
-"8458CW",16,"",""
-"8458CW",39,"",""
-"8458CW",38,"",""
-"8458CW",26,"",""
-"8458CW",29,"",""
-"8458CW",27,"",""
-"8458CW",36,"",""
-"8458CW",34,"",""
-"8458CW",28,"",""
-"8458CW",1,"",""
-"8458ER",7,"",""
-"8458ER",5,"",""
-"8458ER",7,"A",""
-"8458ER",9,"",""
-"8458ER",9,"",""
-"8458ES",8,"",""
-"8458ES",15,"",""
-"8458ES",19,"",""
-"8458ES",8,"B",""
-"8458ES",8,"B",""
-"8458ES",8,"A",""
-"8458ES",17,"",""
-"8458ES",8,"A",""
-"8458ES",6,"",""
-8458CR,Alde Leane,1,A,
-8458ER,Hooivaartsweg,7,,
-8458ES,P G Otterweg,17,,
-8458ES,P G Otterweg,19,,
-8458ES,P G Otterweg,6,,
-8458ES,P G Otterweg,8,,
-8458ES,P G Otterweg,15,,
-8458CS,de Finne,2,,
-8458CS,de Finne,4,,
-8458CS,de Finne,6,,
-8458CS,de Finne,12,,
-8458CS,de Finne,14,,
-8458CS,de Finne,16,,
-8458CS,de Finne,20,,
-8458CS,de Finne,24,,
-8458CS,de Finne,26,,
-8458CS,de Finne,30,,
-8458CS,de Finne,32,,
-8458CS,de Finne,34,,
-8458CS,de Finne,36,,
-8458CT,de Finne,5,,
-8458CT,de Finne,7,,
-8458CT,de Finne,9,,
-8458CT,de Finne,15,,
-8458CT,de Finne,17,,
-8458CT,de Finne,19,,
-8458CT,de Finne,25,,
-8458CT,de Finne,27,,
-8458CT,de Finne,31,,
-8458CP,Pastoriesingel,1,,
-8458CP,Pastoriesingel,2,,
-8458CP,Pastoriesingel,6,,
-8458CP,Pastoriesingel,8,,
-8458CP,Pastoriesingel,9,A,
-8458CP,Pastoriesingel,10,,
-8458CP,Pastoriesingel,12,,
-8458CP,Pastoriesingel,14,,
-8458CP,Pastoriesingel,15,,
-8458CP,Pastoriesingel,19,,
-8458CP,Pastoriesingel,20,,
-8458CP,Pastoriesingel,21,,
-8458CP,Pastoriesingel,23,,
-8458CP,Pastoriesingel,24,,
-8458CP,Pastoriesingel,25,,
-8458CP,Pastoriesingel,26,,
-8458CP,Pastoriesingel,32,,
-8458CP,Pastoriesingel,34,,
-8458CP,Pastoriesingel,36,,
-8458CP,Pastoriesingel,40,,
-8458CP,Pastoriesingel,42,,
-8458CP,Pastoriesingel,42,A,
-8458CR,Haudmare,2,,
-8458CR,Haudmare,2,A,
-8458CR,Haudmare,4,,
-8458CW,de Kluft,1,,
-8458CW,de Kluft,4,,
-8458CW,de Kluft,5,,
-8458CW,de Kluft,9,,
-8458CW,de Kluft,10,,
-8458CW,de Kluft,28,,
-8458CW,de Kluft,29,,
-8458CW,de Kluft,30,,
-8458CW,de Kluft,31,,
-8458CW,de Kluft,33,,
-8458CW,de Kluft,34,,
-8458CW,de Kluft,35,,
-8458CW,de Kluft,36,,
-8458CW,de Kluft,37,,
-8458CW,de Kluft,38,,
-8458CW,de Kluft,39,,
-8458CW,de Kluft,40,,
-8458CW,de Kluft,41,,
-8458CW,de Kluft,27,,
-8458CW,de Kluft,32,,
-8458CW,de Kluft,32,,
-8458CW,de Kluft,1,,
-8458CR,Alde Leane,1,,
-8458CR,Alde Leane,1,B,
-8458CR,Alde Leane,1,B,
-8458ER,Hooivaartsweg,9,,
-8458ER,Hooivaartsweg,9,,
-8458ER,Hooivaartsweg,7,A,
-8458ES,P G Otterweg,8,A,
-8458ES,P G Otterweg,8,B,
-8458ES,P G Otterweg,8,A,
-8458ES,P G Otterweg,8,B,
-8458BG,Aengwirderweg,285,A,
-8458BH,Aengwirderweg,218,A,
-8458CG,Aengwirderweg,335,A,
-8458CN,Albert Mol's Menninge,1,,
-8458CN,Albert Mol's Menninge,3,,
-8458CN,Albert Mol's Menninge,5,,
-8458CN,Albert Mol's Menninge,7,,
-8458CS,de Finne,22,,
-8458CS,de Finne,8,,
-8458CS,de Finne,18,,
-8458CS,de Finne,28,,
-8458CT,de Finne,33,,
-8458CT,de Finne,21,,
-8458CT,de Finne,35,,
-8458CT,de Finne,3,,
-8458CT,de Finne,13,,
-8458CT,de Finne,23,,
-8458CD,de Mieden,2,,
-8458CD,de Mieden,3,,
-8458CD,de Mieden,4,,
-8458CD,de Mieden,6,,
-8458CD,de Mieden,7,,
-8458CD,de Mieden,8,,
-8458CD,de Mieden,10,,
-8458CD,de Mieden,11,,
-8458CD,de Mieden,12,,
-8458CD,de Mieden,13,,
-8458CD,de Mieden,15,,
-8458CD,de Mieden,16,,
-8458CD,de Mieden,17,,
-8458CD,de Mieden,21,,
-8458CD,de Mieden,25,,
-8458CD,de Mieden,27,,
-8458CD,de Mieden,1,,
-8458CD,de Mieden,5,,
-8458CD,de Mieden,9,,
-8458CD,de Mieden,14,,
-8458CD,de Mieden,19,,
-8458CE,de Mieden,31,,
-8458CE,de Mieden,33,,
-8458CE,de Mieden,35,,
-8458CE,de Mieden,39,,
-8458CE,de Mieden,43,,
-8458CE,de Mieden,41,,
-8458CE,de Mieden,29,,
-8458CE,de Mieden,37,,
-8458CC,de Kampen,2,,
-8458CC,de Kampen,2,A,
-8458CC,de Kampen,3,,
-8458CC,de Kampen,4,,
-8458CC,de Kampen,5,,
-8458CC,de Kampen,8,,
-8458CC,de Kampen,10,,
-8458CC,de Kampen,12,,
-8458CC,de Kampen,13,,
-8458CC,de Kampen,14,,
-8458CC,de Kampen,16,,
-8458CC,de Kampen,18,,
-8458CC,de Kampen,19,,
-8458CC,de Kampen,21,,
-8458CC,de Kampen,23,,
-8458CC,de Kampen,25,,
-8458CC,de Kampen,29,,
-8458CC,de Kampen,9,,
-8458CC,de Kampen,17,,
-8458CC,de Kampen,27,,
-8458CC,de Kampen,1,,
-8458CC,de Kampen,6,,
-8458CC,de Kampen,11,,
-8458CC,de Kampen,15,,
-8458CC,de Kampen,20,,
-8458CC,de Kampen,7,,
-8458CB,de Pôle,3,,
-8458CB,de Pôle,4,,
-8458CB,de Pôle,5,,
-8458CB,de Pôle,7,,
-8458CB,de Pôle,9,,
-8458CB,de Pôle,11,,
-8458CB,de Pôle,15,,
-8458CB,de Pôle,17,,
-8458CB,de Pôle,19,,
-8458CB,de Pôle,21,,
-8458CB,de Pôle,23,,
-8458CB,de Pôle,25,,
-8458CB,de Pôle,2,,
-8458CB,de Pôle,1,,
-8458CB,de Pôle,6,,
-8458CB,de Pôle,13,,
-8458BE,Aengwirderweg,251,A,
-8458BE,Aengwirderweg,253,,
-8458BE,Aengwirderweg,257,,
-8458BE,Aengwirderweg,259,,
-8458BE,Aengwirderweg,261,,
-8458BE,Aengwirderweg,265,,
-8458BE,Aengwirderweg,267,,
-8458BE,Aengwirderweg,269,,
-8458BE,Aengwirderweg,269,B,
-8458BE,Aengwirderweg,271,,
-8458BE,Aengwirderweg,273,,
-8458BE,Aengwirderweg,275,,
-8458BE,Aengwirderweg,279,,
-8458BE,Aengwirderweg,281,,
-8458BE,Aengwirderweg,283,,
-8458BE,Aengwirderweg,255,,
-8458BE,Aengwirderweg,263,,
-8458BE,Aengwirderweg,269,A,
-8458BE,Aengwirderweg,277,,
-8458BG,Aengwirderweg,287,,
-8458BG,Aengwirderweg,289,,
-8458BG,Aengwirderweg,291,,
-8458BG,Aengwirderweg,297,,
-8458BG,Aengwirderweg,301,,
-8458BG,Aengwirderweg,303,,
-8458BG,Aengwirderweg,307,,
-8458BG,Aengwirderweg,311,,
-8458BG,Aengwirderweg,285,,
-8458BG,Aengwirderweg,293,,
-8458BG,Aengwirderweg,305,,
-8458BG,Aengwirderweg,309,,
-8458BG,Aengwirderweg,285,A,
-8458BG,Aengwirderweg,285,A,
-8458BH,Aengwirderweg,204,A,
-8458BH,Aengwirderweg,206,,
-8458BH,Aengwirderweg,210,,
-8458BH,Aengwirderweg,210,A,
-8458BH,Aengwirderweg,212,,
-8458BH,Aengwirderweg,216,,
-8458BH,Aengwirderweg,218,,
-8458BH,Aengwirderweg,220,,
-8458BH,Aengwirderweg,224,,
-8458BH,Aengwirderweg,226,,
-8458BH,Aengwirderweg,228,,
-8458BH,Aengwirderweg,230,,
-8458BH,Aengwirderweg,232,A,
-8458BH,Aengwirderweg,234,,
-8458BH,Aengwirderweg,236,,
-8458BH,Aengwirderweg,238,,
-8458BH,Aengwirderweg,238,A,
-8458BH,Aengwirderweg,240,A,
-8458BH,Aengwirderweg,240,,
-8458BH,Aengwirderweg,208,,
-8458BH,Aengwirderweg,214,,
-8458BH,Aengwirderweg,222,,
-8458BH,Aengwirderweg,232,,
-8458BH,Aengwirderweg,236,A,
-8458BH,Aengwirderweg,242,,
-8458BH,Aengwirderweg,244,,
-8458BH,Aengwirderweg,218,A,
-8458BJ,Aengwirderweg,246,,
-8458BJ,Aengwirderweg,248,,
-8458BJ,Aengwirderweg,248,A,
-8458BJ,Aengwirderweg,252,,
-8458BJ,Aengwirderweg,254,,
-8458BJ,Aengwirderweg,258,,
-8458BJ,Aengwirderweg,260,,
-8458BJ,Aengwirderweg,264,,
-8458BJ,Aengwirderweg,266,,
-8458BJ,Aengwirderweg,268,,
-8458BJ,Aengwirderweg,272,,
-8458BJ,Aengwirderweg,274,,
-8458BJ,Aengwirderweg,276,,
-8458BJ,Aengwirderweg,280,,
-8458BJ,Aengwirderweg,282,,
-8458BJ,Aengwirderweg,284,,
-8458BJ,Aengwirderweg,256,,
-8458BJ,Aengwirderweg,250,,
-8458BJ,Aengwirderweg,262,,
-8458BJ,Aengwirderweg,270,,
-8458BJ,Aengwirderweg,278,,
-8458CG,Aengwirderweg,317,,
-8458CG,Aengwirderweg,319,,
-8458CG,Aengwirderweg,325,,
-8458CG,Aengwirderweg,329,,
-8458CG,Aengwirderweg,333,,
-8458CG,Aengwirderweg,335,,
-8458CG,Aengwirderweg,335,,
-8458CG,Aengwirderweg,343,,
-8458CG,Aengwirderweg,347,A,
-8458CG,Aengwirderweg,349,,
-8458CG,Aengwirderweg,353,,
-8458CG,Aengwirderweg,355,,
-8458CG,Aengwirderweg,357,,
-8458CG,Aengwirderweg,321,,
-8458CG,Aengwirderweg,323,,
-8458CG,Aengwirderweg,331,,
-8458CG,Aengwirderweg,347,,
-8458CG,Aengwirderweg,327,,
-8458CG,Aengwirderweg,335,A,
-8458CG,Aengwirderweg,335,B,
-8458CH,Aengwirderweg,359,A,
-8458CH,Aengwirderweg,361,,
-8458CH,Aengwirderweg,363,,
-8458CH,Aengwirderweg,371,,
-8458CH,Aengwirderweg,375,,
-8458CH,Aengwirderweg,377,,
-8458CH,Aengwirderweg,379,,
-8458CH,Aengwirderweg,381,,
-8458CH,Aengwirderweg,359,,
-8458CH,Aengwirderweg,367,,
-8458CH,Aengwirderweg,377,A,
-8458CH,Aengwirderweg,365,,
-8458CH,Aengwirderweg,359,B,
-8458CH,Aengwirderweg,359,B,
-8458CH,Aengwirderweg,379,A,
-8458CJ,Aengwirderweg,383,,
-8458CJ,Aengwirderweg,387,,
-8458CJ,Aengwirderweg,389,,
-8458CJ,Aengwirderweg,389,A,
-8458CJ,Aengwirderweg,391,,
-8458CJ,Aengwirderweg,403,,
-8458CJ,Aengwirderweg,405,,
-8458CJ,Aengwirderweg,407,,
-8458CJ,Aengwirderweg,385,,
-8458CJ,Aengwirderweg,401,,
-8458CJ,Aengwirderweg,409,,
-8458CJ,Aengwirderweg,411,,
-8458CK,Aengwirderweg,288,,
-8458CK,Aengwirderweg,290,,
-8458CK,Aengwirderweg,294,,
-8458CK,Aengwirderweg,298,,
-8458CK,Aengwirderweg,300,,
-8458CK,Aengwirderweg,302,,
-8458CK,Aengwirderweg,304,,
-8458CK,Aengwirderweg,308,,
-8458CK,Aengwirderweg,310,,
-8458CK,Aengwirderweg,312,,
-8458CK,Aengwirderweg,316,,
-8458CK,Aengwirderweg,292,,
-8458CK,Aengwirderweg,296,,
-8458CK,Aengwirderweg,306,,
-8458CK,Aengwirderweg,314,,
-8458CL,Aengwirderweg,320,,
-8458CL,Aengwirderweg,322,,
-8458CL,Aengwirderweg,326,,
-8458CL,Aengwirderweg,328,,
-8458CL,Aengwirderweg,330,,
-8458CL,Aengwirderweg,332,,
-8458CL,Aengwirderweg,336,,
-8458CL,Aengwirderweg,338,,
-8458CL,Aengwirderweg,340,,
-8458CL,Aengwirderweg,318,,
-8458CL,Aengwirderweg,344,,
-8458CL,Aengwirderweg,346,,
-8458CL,Aengwirderweg,348,,
-8458CL,Aengwirderweg,324,,
-8458CL,Aengwirderweg,334,,
-8458CL,Aengwirderweg,342,,
-8458CM,Aengwirderweg,352,,
-8458CM,Aengwirderweg,356,,
-8458CM,Aengwirderweg,360,,
-8458CM,Aengwirderweg,362,,
-8458CM,Aengwirderweg,364,,
-8458CM,Aengwirderweg,366,,
-8458CM,Aengwirderweg,370,,
-8458CM,Aengwirderweg,374,,
-8458CM,Aengwirderweg,378,,
-8458CM,Aengwirderweg,354,,
-8458CM,Aengwirderweg,372,,
-8458CM,Aengwirderweg,350,,
-8458CM,Aengwirderweg,358,,
-8458CM,Aengwirderweg,368,,
-8458CM,Aengwirderweg,376,,
-8458CP,Pastoriesingel,30,,
-8458CP,Pastoriesingel,4,,
-8458CP,Pastoriesingel,11,,
-8458CP,Pastoriesingel,17,,
-8458CP,Pastoriesingel,22,,
-8458CP,Pastoriesingel,28,,
-8458CP,Pastoriesingel,38,,
-8458CP,Pastoriesingel,9,,
-8458CP,Pastoriesingel,16,,
-8458CR,Haudmare,4,A,
-8458CV,Haudmare,1,,
-8458CW,de Kluft,5,,
-8458CW,de Kluft,4,,
-8458CW,de Kluft,9,,
-8458CW,de Kluft,10,,
-8458CW,de Kluft,3,,
-8458CW,de Kluft,11,,
-8458CW,de Kluft,42,,
-8458CW,de Kluft,6,,
-8458CW,de Kluft,7,,
-8458CW,de Kluft,2,,
-8458CW,de Kluft,8,,
-8458CW,de Kluft,12,,
-8458CW,de Kluft,26,,
-8458CW,de Kluft,17,,
-8458CW,de Kluft,18,,
-8458CW,de Kluft,16,,
-8458CW,de Kluft,19,,
-8458CW,de Kluft,13,,
-8458CW,de Kluft,21,,
-8458ER,Hooivaartsweg,5,,
-8458CN,Albert Mol's Menninge,5,,
-8458BH,Aengwirderweg,240,,
-8458BH,Aengwirderweg,240,A,
-8458BH,Aengwirderweg,240,B,
-8458CG,Aengwirderweg,337,,
-8458CG,Aengwirderweg,335,,
-8458CG,Aengwirderweg,337,,
-8458CG,Aengwirderweg,335,,
-8458CG,Aengwirderweg,343,,
-8458CH,Aengwirderweg,361,,
-8458CH,Aengwirderweg,361,A,
-8458CL,Aengwirderweg,330,A,
-8458CL,Aengwirderweg,330,,
-8458CA,it Hiem,3,,
-8458CA,it Hiem,1,,
-8458CA,it Hiem,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Aengwirderweg,251,A,"",8458BE,Tjalleberd
+Aengwirderweg,253,"","",8458BE,Tjalleberd
+Aengwirderweg,255,"","",8458BE,Tjalleberd
+Aengwirderweg,257,"","",8458BE,Tjalleberd
+Aengwirderweg,259,"","",8458BE,Tjalleberd
+Aengwirderweg,261,"","",8458BE,Tjalleberd
+Aengwirderweg,263,"","",8458BE,Tjalleberd
+Aengwirderweg,265,"","",8458BE,Tjalleberd
+Aengwirderweg,267,"","",8458BE,Tjalleberd
+Aengwirderweg,269,"","",8458BE,Tjalleberd
+Aengwirderweg,269,A,"",8458BE,Tjalleberd
+Aengwirderweg,269,B,"",8458BE,Tjalleberd
+Aengwirderweg,271,"","",8458BE,Tjalleberd
+Aengwirderweg,273,"","",8458BE,Tjalleberd
+Aengwirderweg,275,"","",8458BE,Tjalleberd
+Aengwirderweg,277,"","",8458BE,Tjalleberd
+Aengwirderweg,279,"","",8458BE,Tjalleberd
+Aengwirderweg,281,"","",8458BE,Tjalleberd
+Aengwirderweg,283,"","",8458BE,Tjalleberd
+Aengwirderweg,285,"","",8458BG,Tjalleberd
+Aengwirderweg,285,A,"",8458BG,Luinjeberd
+Aengwirderweg,285,A,"",8458BG,Luinjeberd
+Aengwirderweg,285,A,"",8458BG,Luinjeberd
+Aengwirderweg,287,"","",8458BG,Tjalleberd
+Aengwirderweg,289,"","",8458BG,Tjalleberd
+Aengwirderweg,291,"","",8458BG,Tjalleberd
+Aengwirderweg,293,"","",8458BG,Tjalleberd
+Aengwirderweg,297,"","",8458BG,Tjalleberd
+Aengwirderweg,301,"","",8458BG,Tjalleberd
+Aengwirderweg,303,"","",8458BG,Tjalleberd
+Aengwirderweg,305,"","",8458BG,Tjalleberd
+Aengwirderweg,307,"","",8458BG,Tjalleberd
+Aengwirderweg,309,"","",8458BG,Tjalleberd
+Aengwirderweg,311,"","",8458BG,Tjalleberd
+Aengwirderweg,204,A,"",8458BH,Tjalleberd
+Aengwirderweg,206,"","",8458BH,Tjalleberd
+Aengwirderweg,208,"","",8458BH,Tjalleberd
+Aengwirderweg,210,"","",8458BH,Tjalleberd
+Aengwirderweg,210,A,"",8458BH,Tjalleberd
+Aengwirderweg,212,"","",8458BH,Tjalleberd
+Aengwirderweg,214,"","",8458BH,Tjalleberd
+Aengwirderweg,216,"","",8458BH,Tjalleberd
+Aengwirderweg,218,"","",8458BH,Tjalleberd
+Aengwirderweg,218,A,"",8458BH,Luinjeberd
+Aengwirderweg,218,A,"",8458BH,Luinjeberd
+Aengwirderweg,220,"","",8458BH,Tjalleberd
+Aengwirderweg,222,"","",8458BH,Tjalleberd
+Aengwirderweg,224,"","",8458BH,Tjalleberd
+Aengwirderweg,226,"","",8458BH,Tjalleberd
+Aengwirderweg,228,"","",8458BH,Tjalleberd
+Aengwirderweg,230,"","",8458BH,Tjalleberd
+Aengwirderweg,232,"","",8458BH,Tjalleberd
+Aengwirderweg,232,A,"",8458BH,Tjalleberd
+Aengwirderweg,234,"","",8458BH,Tjalleberd
+Aengwirderweg,236,"","",8458BH,Tjalleberd
+Aengwirderweg,236,A,"",8458BH,Tjalleberd
+Aengwirderweg,238,"","",8458BH,Tjalleberd
+Aengwirderweg,238,A,"",8458BH,Tjalleberd
+Aengwirderweg,240,"","",8458BH,Tjalleberd
+Aengwirderweg,240,"","",8458BH,Tjalleberd
+Aengwirderweg,240,"","",8458BH,Tjalleberd
+Aengwirderweg,240,A,"",8458BH,Tjalleberd
+Aengwirderweg,240,A,"",8458BH,Tjalleberd
+Aengwirderweg,240,B,"",8458BH,Tjalleberd
+Aengwirderweg,242,"","",8458BH,Tjalleberd
+Aengwirderweg,244,"","",8458BH,Tjalleberd
+Aengwirderweg,246,"","",8458BJ,Tjalleberd
+Aengwirderweg,248,"","",8458BJ,Tjalleberd
+Aengwirderweg,248,A,"",8458BJ,Tjalleberd
+Aengwirderweg,250,"","",8458BJ,Tjalleberd
+Aengwirderweg,252,"","",8458BJ,Tjalleberd
+Aengwirderweg,254,"","",8458BJ,Tjalleberd
+Aengwirderweg,256,"","",8458BJ,Tjalleberd
+Aengwirderweg,258,"","",8458BJ,Tjalleberd
+Aengwirderweg,260,"","",8458BJ,Tjalleberd
+Aengwirderweg,262,"","",8458BJ,Tjalleberd
+Aengwirderweg,264,"","",8458BJ,Tjalleberd
+Aengwirderweg,266,"","",8458BJ,Tjalleberd
+Aengwirderweg,268,"","",8458BJ,Tjalleberd
+Aengwirderweg,270,"","",8458BJ,Tjalleberd
+Aengwirderweg,272,"","",8458BJ,Tjalleberd
+Aengwirderweg,274,"","",8458BJ,Tjalleberd
+Aengwirderweg,276,"","",8458BJ,Tjalleberd
+Aengwirderweg,278,"","",8458BJ,Tjalleberd
+Aengwirderweg,280,"","",8458BJ,Tjalleberd
+Aengwirderweg,282,"","",8458BJ,Tjalleberd
+Aengwirderweg,284,"","",8458BJ,Tjalleberd
+it Hiem,1,"","",8458CA,Tjalleberd
+it Hiem,3,"","",8458CA,Tjalleberd
+it Hiem,5,"","",8458CA,Tjalleberd
+de Pôle,1,"","",8458CB,Tjalleberd
+de Pôle,11,"","",8458CB,Tjalleberd
+de Pôle,13,"","",8458CB,Tjalleberd
+de Pôle,15,"","",8458CB,Tjalleberd
+de Pôle,17,"","",8458CB,Tjalleberd
+de Pôle,19,"","",8458CB,Tjalleberd
+de Pôle,2,"","",8458CB,Tjalleberd
+de Pôle,21,"","",8458CB,Tjalleberd
+de Pôle,23,"","",8458CB,Tjalleberd
+de Pôle,25,"","",8458CB,Tjalleberd
+de Pôle,3,"","",8458CB,Tjalleberd
+de Pôle,4,"","",8458CB,Tjalleberd
+de Pôle,5,"","",8458CB,Tjalleberd
+de Pôle,6,"","",8458CB,Tjalleberd
+de Pôle,7,"","",8458CB,Tjalleberd
+de Pôle,9,"","",8458CB,Tjalleberd
+de Kampen,1,"","",8458CC,Tjalleberd
+de Kampen,10,"","",8458CC,Tjalleberd
+de Kampen,11,"","",8458CC,Tjalleberd
+de Kampen,12,"","",8458CC,Tjalleberd
+de Kampen,13,"","",8458CC,Tjalleberd
+de Kampen,14,"","",8458CC,Tjalleberd
+de Kampen,15,"","",8458CC,Tjalleberd
+de Kampen,16,"","",8458CC,Tjalleberd
+de Kampen,17,"","",8458CC,Tjalleberd
+de Kampen,18,"","",8458CC,Tjalleberd
+de Kampen,19,"","",8458CC,Tjalleberd
+de Kampen,2,"","",8458CC,Tjalleberd
+de Kampen,2,A,"",8458CC,Tjalleberd
+de Kampen,20,"","",8458CC,Tjalleberd
+de Kampen,21,"","",8458CC,Tjalleberd
+de Kampen,23,"","",8458CC,Tjalleberd
+de Kampen,25,"","",8458CC,Tjalleberd
+de Kampen,27,"","",8458CC,Tjalleberd
+de Kampen,29,"","",8458CC,Tjalleberd
+de Kampen,3,"","",8458CC,Tjalleberd
+de Kampen,4,"","",8458CC,Tjalleberd
+de Kampen,5,"","",8458CC,Tjalleberd
+de Kampen,6,"","",8458CC,Tjalleberd
+de Kampen,7,"","",8458CC,Tjalleberd
+de Kampen,8,"","",8458CC,Tjalleberd
+de Kampen,9,"","",8458CC,Tjalleberd
+de Mieden,1,"","",8458CD,Tjalleberd
+de Mieden,10,"","",8458CD,Tjalleberd
+de Mieden,11,"","",8458CD,Tjalleberd
+de Mieden,12,"","",8458CD,Tjalleberd
+de Mieden,13,"","",8458CD,Tjalleberd
+de Mieden,14,"","",8458CD,Tjalleberd
+de Mieden,15,"","",8458CD,Tjalleberd
+de Mieden,16,"","",8458CD,Tjalleberd
+de Mieden,17,"","",8458CD,Tjalleberd
+de Mieden,19,"","",8458CD,Tjalleberd
+de Mieden,2,"","",8458CD,Tjalleberd
+de Mieden,21,"","",8458CD,Tjalleberd
+de Mieden,25,"","",8458CD,Tjalleberd
+de Mieden,27,"","",8458CD,Tjalleberd
+de Mieden,3,"","",8458CD,Tjalleberd
+de Mieden,4,"","",8458CD,Tjalleberd
+de Mieden,5,"","",8458CD,Tjalleberd
+de Mieden,6,"","",8458CD,Tjalleberd
+de Mieden,7,"","",8458CD,Tjalleberd
+de Mieden,8,"","",8458CD,Tjalleberd
+de Mieden,9,"","",8458CD,Tjalleberd
+de Mieden,29,"","",8458CE,Tjalleberd
+de Mieden,31,"","",8458CE,Tjalleberd
+de Mieden,33,"","",8458CE,Tjalleberd
+de Mieden,35,"","",8458CE,Tjalleberd
+de Mieden,37,"","",8458CE,Tjalleberd
+de Mieden,39,"","",8458CE,Tjalleberd
+de Mieden,41,"","",8458CE,Tjalleberd
+de Mieden,43,"","",8458CE,Tjalleberd
+Aengwirderweg,317,"","",8458CG,Tjalleberd
+Aengwirderweg,319,"","",8458CG,Tjalleberd
+Aengwirderweg,321,"","",8458CG,Tjalleberd
+Aengwirderweg,323,"","",8458CG,Tjalleberd
+Aengwirderweg,325,"","",8458CG,Tjalleberd
+Aengwirderweg,327,"","",8458CG,Tjalleberd
+Aengwirderweg,329,"","",8458CG,Tjalleberd
+Aengwirderweg,331,"","",8458CG,Tjalleberd
+Aengwirderweg,333,"","",8458CG,Tjalleberd
+Aengwirderweg,335,"","",8458CG,Tjalleberd
+Aengwirderweg,335,"","",8458CG,Tjalleberd
+Aengwirderweg,335,"","",8458CG,Tjalleberd
+Aengwirderweg,335,"","",8458CG,Tjalleberd
+Aengwirderweg,335,"","",8458CG,Tjalleberd
+Aengwirderweg,335,"","",8458CG,Tjalleberd
+Aengwirderweg,335,A,"",8458CG,Luinjeberd
+Aengwirderweg,335,A,"",8458CG,Luinjeberd
+Aengwirderweg,335,A,"",8458CG,Luinjeberd
+Aengwirderweg,335,B,"",8458CG,Tjalleberd
+Aengwirderweg,337,"","",8458CG,Tjalleberd
+Aengwirderweg,337,"","",8458CG,Tjalleberd
+Aengwirderweg,337,"","",8458CG,Tjalleberd
+Aengwirderweg,343,"","",8458CG,Tjalleberd
+Aengwirderweg,343,"","",8458CG,Tjalleberd
+Aengwirderweg,343,"","",8458CG,Tjalleberd
+Aengwirderweg,347,"","",8458CG,Tjalleberd
+Aengwirderweg,347,A,"",8458CG,Tjalleberd
+Aengwirderweg,349,"","",8458CG,Tjalleberd
+Aengwirderweg,353,"","",8458CG,Tjalleberd
+Aengwirderweg,355,"","",8458CG,Tjalleberd
+Aengwirderweg,357,"","",8458CG,Tjalleberd
+Aengwirderweg,359,"","",8458CH,Tjalleberd
+Aengwirderweg,359,A,"",8458CH,Tjalleberd
+Aengwirderweg,359,B,"",8458CH,Tjalleberd
+Aengwirderweg,359,B,"",8458CH,Tjalleberd
+Aengwirderweg,361,"","",8458CH,Tjalleberd
+Aengwirderweg,361,"","",8458CH,Tjalleberd
+Aengwirderweg,361,"","",8458CH,Tjalleberd
+Aengwirderweg,361,A,"",8458CH,Tjalleberd
+Aengwirderweg,363,"","",8458CH,Tjalleberd
+Aengwirderweg,365,"","",8458CH,Tjalleberd
+Aengwirderweg,367,"","",8458CH,Tjalleberd
+Aengwirderweg,371,"","",8458CH,Tjalleberd
+Aengwirderweg,375,"","",8458CH,Tjalleberd
+Aengwirderweg,377,"","",8458CH,Tjalleberd
+Aengwirderweg,377,A,"",8458CH,Tjalleberd
+Aengwirderweg,379,"","",8458CH,Tjalleberd
+Aengwirderweg,379,A,"",8458CH,Tjalleberd
+Aengwirderweg,381,"","",8458CH,Tjalleberd
+Aengwirderweg,383,"","",8458CJ,Tjalleberd
+Aengwirderweg,385,"","",8458CJ,Tjalleberd
+Aengwirderweg,387,"","",8458CJ,Tjalleberd
+Aengwirderweg,389,"","",8458CJ,Tjalleberd
+Aengwirderweg,389,A,"",8458CJ,Tjalleberd
+Aengwirderweg,391,"","",8458CJ,Tjalleberd
+Aengwirderweg,401,"","",8458CJ,Tjalleberd
+Aengwirderweg,403,"","",8458CJ,Tjalleberd
+Aengwirderweg,405,"","",8458CJ,Tjalleberd
+Aengwirderweg,407,"","",8458CJ,Tjalleberd
+Aengwirderweg,409,"","",8458CJ,Tjalleberd
+Aengwirderweg,411,"","",8458CJ,Tjalleberd
+Aengwirderweg,288,"","",8458CK,Tjalleberd
+Aengwirderweg,290,"","",8458CK,Tjalleberd
+Aengwirderweg,292,"","",8458CK,Tjalleberd
+Aengwirderweg,294,"","",8458CK,Tjalleberd
+Aengwirderweg,296,"","",8458CK,Tjalleberd
+Aengwirderweg,298,"","",8458CK,Tjalleberd
+Aengwirderweg,300,"","",8458CK,Tjalleberd
+Aengwirderweg,302,"","",8458CK,Tjalleberd
+Aengwirderweg,304,"","",8458CK,Tjalleberd
+Aengwirderweg,306,"","",8458CK,Tjalleberd
+Aengwirderweg,308,"","",8458CK,Tjalleberd
+Aengwirderweg,310,"","",8458CK,Tjalleberd
+Aengwirderweg,312,"","",8458CK,Tjalleberd
+Aengwirderweg,314,"","",8458CK,Tjalleberd
+Aengwirderweg,316,"","",8458CK,Tjalleberd
+Aengwirderweg,318,"","",8458CL,Tjalleberd
+Aengwirderweg,320,"","",8458CL,Tjalleberd
+Aengwirderweg,322,"","",8458CL,Tjalleberd
+Aengwirderweg,324,"","",8458CL,Tjalleberd
+Aengwirderweg,326,"","",8458CL,Tjalleberd
+Aengwirderweg,328,"","",8458CL,Tjalleberd
+Aengwirderweg,330,"","",8458CL,Tjalleberd
+Aengwirderweg,330,"","",8458CL,Tjalleberd
+Aengwirderweg,330,"","",8458CL,Tjalleberd
+Aengwirderweg,330,A,"",8458CL,Tjalleberd
+Aengwirderweg,332,"","",8458CL,Tjalleberd
+Aengwirderweg,334,"","",8458CL,Tjalleberd
+Aengwirderweg,336,"","",8458CL,Tjalleberd
+Aengwirderweg,338,"","",8458CL,Tjalleberd
+Aengwirderweg,340,"","",8458CL,Tjalleberd
+Aengwirderweg,342,"","",8458CL,Tjalleberd
+Aengwirderweg,344,"","",8458CL,Tjalleberd
+Aengwirderweg,346,"","",8458CL,Tjalleberd
+Aengwirderweg,348,"","",8458CL,Tjalleberd
+Aengwirderweg,350,"","",8458CM,Tjalleberd
+Aengwirderweg,352,"","",8458CM,Tjalleberd
+Aengwirderweg,354,"","",8458CM,Tjalleberd
+Aengwirderweg,356,"","",8458CM,Tjalleberd
+Aengwirderweg,358,"","",8458CM,Tjalleberd
+Aengwirderweg,360,"","",8458CM,Tjalleberd
+Aengwirderweg,362,"","",8458CM,Tjalleberd
+Aengwirderweg,364,"","",8458CM,Tjalleberd
+Aengwirderweg,366,"","",8458CM,Tjalleberd
+Aengwirderweg,368,"","",8458CM,Tjalleberd
+Aengwirderweg,370,"","",8458CM,Tjalleberd
+Aengwirderweg,372,"","",8458CM,Tjalleberd
+Aengwirderweg,374,"","",8458CM,Tjalleberd
+Aengwirderweg,376,"","",8458CM,Tjalleberd
+Aengwirderweg,378,"","",8458CM,Tjalleberd
+Albert Mol's Menninge,1,"","",8458CN,Tjalleberd
+Albert Mol's Menninge,3,"","",8458CN,Tjalleberd
+Albert Mol's Menninge,5,"","",8458CN,Tjalleberd
+Albert Mol's Menninge,5,"","",8458CN,Tjalleberd
+Albert Mol's Menninge,5,"","",8458CN,Tjalleberd
+Albert Mol's Menninge,7,"","",8458CN,Tjalleberd
+Pastoriesingel,1,"","",8458CP,Tjalleberd
+Pastoriesingel,10,"","",8458CP,Tjalleberd
+Pastoriesingel,11,"","",8458CP,Tjalleberd
+Pastoriesingel,12,"","",8458CP,Tjalleberd
+Pastoriesingel,14,"","",8458CP,Tjalleberd
+Pastoriesingel,15,"","",8458CP,Tjalleberd
+Pastoriesingel,16,"","",8458CP,Tjalleberd
+Pastoriesingel,17,"","",8458CP,Tjalleberd
+Pastoriesingel,19,"","",8458CP,Tjalleberd
+Pastoriesingel,2,"","",8458CP,Tjalleberd
+Pastoriesingel,20,"","",8458CP,Tjalleberd
+Pastoriesingel,21,"","",8458CP,Tjalleberd
+Pastoriesingel,22,"","",8458CP,Tjalleberd
+Pastoriesingel,23,"","",8458CP,Tjalleberd
+Pastoriesingel,24,"","",8458CP,Tjalleberd
+Pastoriesingel,25,"","",8458CP,Tjalleberd
+Pastoriesingel,26,"","",8458CP,Tjalleberd
+Pastoriesingel,28,"","",8458CP,Tjalleberd
+Pastoriesingel,30,"","",8458CP,Tjalleberd
+Pastoriesingel,32,"","",8458CP,Tjalleberd
+Pastoriesingel,34,"","",8458CP,Tjalleberd
+Pastoriesingel,36,"","",8458CP,Tjalleberd
+Pastoriesingel,38,"","",8458CP,Tjalleberd
+Pastoriesingel,4,"","",8458CP,Tjalleberd
+Pastoriesingel,40,"","",8458CP,Tjalleberd
+Pastoriesingel,42,"","",8458CP,Tjalleberd
+Pastoriesingel,42,A,"",8458CP,Tjalleberd
+Pastoriesingel,6,"","",8458CP,Tjalleberd
+Pastoriesingel,8,"","",8458CP,Tjalleberd
+Pastoriesingel,9,"","",8458CP,Tjalleberd
+Pastoriesingel,9,A,"",8458CP,Tjalleberd
+Alde Leane,1,"","",8458CR,Tjalleberd
+Alde Leane,1,A,"",8458CR,Tjalleberd
+Alde Leane,1,B,"",8458CR,Tjalleberd
+Alde Leane,1,B,"",8458CR,Tjalleberd
+Haudmare,2,"","",8458CR,Tjalleberd
+Haudmare,2,A,"",8458CR,Tjalleberd
+Haudmare,4,"","",8458CR,Tjalleberd
+Haudmare,4,A,"",8458CR,Tjalleberd
+de Finne,12,"","",8458CS,Tjalleberd
+de Finne,14,"","",8458CS,Tjalleberd
+de Finne,16,"","",8458CS,Tjalleberd
+de Finne,18,"","",8458CS,Tjalleberd
+de Finne,2,"","",8458CS,Tjalleberd
+de Finne,20,"","",8458CS,Tjalleberd
+de Finne,22,"","",8458CS,Tjalleberd
+de Finne,24,"","",8458CS,Tjalleberd
+de Finne,26,"","",8458CS,Tjalleberd
+de Finne,28,"","",8458CS,Tjalleberd
+de Finne,30,"","",8458CS,Tjalleberd
+de Finne,32,"","",8458CS,Tjalleberd
+de Finne,34,"","",8458CS,Tjalleberd
+de Finne,36,"","",8458CS,Tjalleberd
+de Finne,4,"","",8458CS,Tjalleberd
+de Finne,6,"","",8458CS,Tjalleberd
+de Finne,8,"","",8458CS,Tjalleberd
+de Finne,13,"","",8458CT,Tjalleberd
+de Finne,15,"","",8458CT,Tjalleberd
+de Finne,17,"","",8458CT,Tjalleberd
+de Finne,19,"","",8458CT,Tjalleberd
+de Finne,21,"","",8458CT,Tjalleberd
+de Finne,23,"","",8458CT,Tjalleberd
+de Finne,25,"","",8458CT,Tjalleberd
+de Finne,27,"","",8458CT,Tjalleberd
+de Finne,3,"","",8458CT,Tjalleberd
+de Finne,31,"","",8458CT,Tjalleberd
+de Finne,33,"","",8458CT,Tjalleberd
+de Finne,35,"","",8458CT,Tjalleberd
+de Finne,5,"","",8458CT,Tjalleberd
+de Finne,7,"","",8458CT,Tjalleberd
+de Finne,9,"","",8458CT,Tjalleberd
+Haudmare,1,"","",8458CV,Tjalleberd
+de Kluft,1,"","",8458CW,Tjalleberd
+de Kluft,1,"","",8458CW,Tjalleberd
+de Kluft,1,"","",8458CW,Tjalleberd
+de Kluft,10,"","",8458CW,Tjalleberd
+de Kluft,10,"","",8458CW,Tjalleberd
+de Kluft,10,"","",8458CW,Tjalleberd
+de Kluft,11,"","",8458CW,Tjalleberd
+de Kluft,12,"","",8458CW,Tjalleberd
+de Kluft,13,"","",8458CW,Tjalleberd
+de Kluft,16,"","",8458CW,Tjalleberd
+de Kluft,17,"","",8458CW,Tjalleberd
+de Kluft,18,"","",8458CW,Tjalleberd
+de Kluft,19,"","",8458CW,Tjalleberd
+de Kluft,2,"","",8458CW,Tjalleberd
+de Kluft,26,"","",8458CW,Tjalleberd
+de Kluft,27,"","",8458CW,Tjalleberd
+de Kluft,28,"","",8458CW,Tjalleberd
+de Kluft,29,"","",8458CW,Tjalleberd
+de Kluft,3,"","",8458CW,Tjalleberd
+de Kluft,30,"","",8458CW,Tjalleberd
+de Kluft,31,"","",8458CW,Tjalleberd
+de Kluft,32,"","",8458CW,Tjalleberd
+de Kluft,32,"","",8458CW,Tjalleberd
+de Kluft,33,"","",8458CW,Tjalleberd
+de Kluft,34,"","",8458CW,Tjalleberd
+de Kluft,35,"","",8458CW,Tjalleberd
+de Kluft,36,"","",8458CW,Tjalleberd
+de Kluft,37,"","",8458CW,Tjalleberd
+de Kluft,38,"","",8458CW,Tjalleberd
+de Kluft,39,"","",8458CW,Tjalleberd
+de Kluft,4,"","",8458CW,Tjalleberd
+de Kluft,4,"","",8458CW,Tjalleberd
+de Kluft,4,"","",8458CW,Tjalleberd
+de Kluft,40,"","",8458CW,Tjalleberd
+de Kluft,41,"","",8458CW,Tjalleberd
+de Kluft,42,"","",8458CW,Tjalleberd
+de Kluft,5,"","",8458CW,Tjalleberd
+de Kluft,5,"","",8458CW,Tjalleberd
+de Kluft,5,"","",8458CW,Tjalleberd
+de Kluft,6,"","",8458CW,Tjalleberd
+de Kluft,7,"","",8458CW,Tjalleberd
+de Kluft,8,"","",8458CW,Tjalleberd
+de Kluft,9,"","",8458CW,Tjalleberd
+de Kluft,9,"","",8458CW,Tjalleberd
+de Kluft,9,"","",8458CW,Tjalleberd
+Hooivaartsweg,5,"","",8458ER,Tjalleberd
+Hooivaartsweg,7,"","",8458ER,Tjalleberd
+Hooivaartsweg,7,A,"",8458ER,Tjalleberd
+Hooivaartsweg,9,"","",8458ER,Tjalleberd
+Hooivaartsweg,9,"","",8458ER,Tjalleberd
+P G Otterweg,15,"","",8458ES,Tjalleberd
+P G Otterweg,17,"","",8458ES,Tjalleberd
+P G Otterweg,19,"","",8458ES,Tjalleberd
+P G Otterweg,6,"","",8458ES,Tjalleberd
+P G Otterweg,8,"","",8458ES,Tjalleberd
+P G Otterweg,8,A,"",8458ES,Gersloot
+P G Otterweg,8,A,"",8458ES,Gersloot
+P G Otterweg,8,B,"",8458ES,Gersloot
+P G Otterweg,8,B,"",8458ES,Gersloot

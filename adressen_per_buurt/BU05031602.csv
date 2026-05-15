@@ -1,62 +1,62 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2616LJ,Korftlaan,1,A,
-2616LJ,Korftlaan,2,,
-2616LJ,Korftlaan,4,,
-2616LJ,Korftlaan,3,,
-2616LJ,Korftlaan,5,,
-2616LJ,Korftlaan,6,,
-2616LJ,Korftlaan,8,,
-2616LJ,Korftlaan,10,,
-2616LC,Klein Delfgauw,63,,
-2616LC,Klein Delfgauw,61,,
-2616LC,Klein Delfgauw,57,,
-2616LC,Klein Delfgauw,59,,
-2616LC,Klein Delfgauw,55,,
-2616LC,Klein Delfgauw,53,,
-2616LJ,Korftlaan,1,,
-2616LE,Baden Powellpad,6,,
-2616LE,Baden Powellpad,14,,
-2616LE,Baden Powellpad,10,,
-2616LL,Bieslandsepad,16,,
-2616LL,Bieslandsepad,10,,
-2616LL,Bieslandsepad,14,,
-2616LL,Bieslandsepad,12,,
-2616LG,Botenpad,5,,
-2616LG,Botenpad,7,,
-2616LG,Botenpad,3,,
-2616LH,Zavelpad,3,,
-2616LT,Linnaeuspad,6,,
-2616LT,Linnaeuspad,3,,
-2616LT,Linnaeuspad,5,,
-2616LJ,Korftlaan,3,A,
-2616LC,Klein Delfgauw,65,,
-2616LC,Klein Delfgauw,59,A,
-2616LE,Baden Powellpad,2,,
-2616LL,Bieslandsepad,17,,
-2616LL,Bieslandsepad,19,,
-2616LL,Bieslandsepad,3,,
-2616LW,Bospad,1,,
-2616LP,Houtpad,1,,
-2616LT,Linnaeuspad,1,,
-2616LT,Linnaeuspad,3,A,
-2616LJ,Korftlaan,5,A,
-2616LJ,Korftlaan,5,B,
-2616LJ,Korftlaan,5,C,
-2616LJ,Korftlaan,6,A,
-2616LJ,Korftlaan,6,B,
-2616LW,Bospad,2,,
-2616LP,Oostpoortweg,50,,
-2616LC,Klein Delfgauw,67,,
-2616LE,Baden Powellpad,12,,
-2616LL,Bieslandsepad,8,,
-2616LJ,Korftlaan,5,C,
-2616LJ,Korftlaan,5,,
-2616LJ,Korftlaan,5,D,
-2616LJ,Korftlaan,8,A,
-2616LJ,Korftlaan,8,,
-2616LC,Klein Delfgauw,61,A,
-2616LC,Klein Delfgauw,61,B,
-2616LC,Klein Delfgauw,61,C,
-2616LC,Klein Delfgauw,61,D,
-2616LC,Klein Delfgauw,61,E,
-2616LL,Bieslandsepad,18,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Klein Delfgauw,53,"","",2616LC,Delft
+Klein Delfgauw,55,"","",2616LC,Delft
+Klein Delfgauw,57,"","",2616LC,Delft
+Klein Delfgauw,59,"","",2616LC,Delft
+Klein Delfgauw,59,A,"",2616LC,Delft
+Klein Delfgauw,61,"","",2616LC,Delft
+Klein Delfgauw,61,A,"",2616LC,Delft
+Klein Delfgauw,61,B,"",2616LC,Delft
+Klein Delfgauw,61,C,"",2616LC,Delft
+Klein Delfgauw,61,D,"",2616LC,Delft
+Klein Delfgauw,61,E,"",2616LC,Delft
+Klein Delfgauw,63,"","",2616LC,Delft
+Klein Delfgauw,65,"","",2616LC,Delft
+Klein Delfgauw,67,"","",2616LC,Delft
+Baden Powellpad,10,"","",2616LE,Delft
+Baden Powellpad,12,"","",2616LE,Delft
+Baden Powellpad,14,"","",2616LE,Delft
+Baden Powellpad,2,"","",2616LE,Delft
+Baden Powellpad,6,"","",2616LE,Delft
+Botenpad,3,"","",2616LG,Delft
+Botenpad,5,"","",2616LG,Delft
+Botenpad,7,"","",2616LG,Delft
+Zavelpad,3,"","",2616LH,Delft
+Korftlaan,1,"","",2616LJ,Delft
+Korftlaan,1,A,"",2616LJ,Delft
+Korftlaan,10,"","",2616LJ,Delft
+Korftlaan,2,"","",2616LJ,Delft
+Korftlaan,3,"","",2616LJ,Delft
+Korftlaan,3,A,"",2616LJ,Delft
+Korftlaan,4,"","",2616LJ,Delft
+Korftlaan,5,"","",2616LJ,Delft
+Korftlaan,5,"","",2616LJ,Delft
+Korftlaan,5,A,"",2616LJ,Delft
+Korftlaan,5,B,"",2616LJ,Delft
+Korftlaan,5,C,"",2616LJ,Delft
+Korftlaan,5,C,"",2616LJ,Delft
+Korftlaan,5,D,"",2616LJ,Delft
+Korftlaan,6,"","",2616LJ,Delft
+Korftlaan,6,A,"",2616LJ,Delft
+Korftlaan,6,B,"",2616LJ,Delft
+Korftlaan,8,"","",2616LJ,Delft
+Korftlaan,8,"","",2616LJ,Delft
+Korftlaan,8,A,"",2616LJ,Delft
+Bieslandsepad,10,"","",2616LL,Delft
+Bieslandsepad,12,"","",2616LL,Delft
+Bieslandsepad,14,"","",2616LL,Delft
+Bieslandsepad,16,"","",2616LL,Delft
+Bieslandsepad,17,"","",2616LL,Delft
+Bieslandsepad,18,"","",2616LL,Delft
+Bieslandsepad,19,"","",2616LL,Delft
+Bieslandsepad,3,"","",2616LL,Delft
+Bieslandsepad,8,"","",2616LL,Delft
+Houtpad,1,"","",2616LP,Delft
+Oostpoortweg,50,"","",2616LP,Delft
+Linnaeuspad,1,"","",2616LT,Delft
+Linnaeuspad,3,"","",2616LT,Delft
+Linnaeuspad,3,A,"",2616LT,Delft
+Linnaeuspad,5,"","",2616LT,Delft
+Linnaeuspad,6,"","",2616LT,Delft
+Bospad,1,"","",2616LW,Delft
+Bospad,2,"","",2616LW,Delft

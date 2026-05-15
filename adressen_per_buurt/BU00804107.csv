@@ -1,10 +1,10 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8912BP",11,"",""
-"8912BP",11,"",""
-"8912BP",9,"",""
-"8912BR",12,"",""
-"8912BR",10,"",""
-8912BP,De Vogelweg,11,,
-8912BR,Buismanweg,12,,
-8912BR,Buismanweg,10,,
-8912BP,De Vogelweg,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Vogelweg,11,"","",8912BP,Leeuwarden
+De Vogelweg,11,"","",8912BP,Leeuwarden
+De Vogelweg,9,"","",8912BP,Leeuwarden
+"",DE VOGELWEG,11,"",8912BP,
+"",DE VOGELWEG,9,"",8912BP,
+Buismanweg,10,"","",8912BR,Leeuwarden
+Buismanweg,12,"","",8912BR,Leeuwarden
+"",BUISMANWEG,10,"",8912BR,
+"",BUISMANWEG,12,"",8912BR,

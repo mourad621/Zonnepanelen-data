@@ -1,469 +1,237 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7641AM",5,"a",""
-"7641AM",6,"",""
-"7641AM",7,"a",""
-"7641AM",11,"",""
-"7641AM",4,"",""
-"7641AM",7,"",""
-"7641AM",27,"",""
-"7641AM",1,"",""
-"7641AM",2,"b",""
-"7641AM",22,"",""
-"7641AM",9,"a",""
-"7641AM",23,"",""
-"7641AM",25,"",""
-"7641AM",23,"",""
-"7641AM",9,"",""
-"7641AM",31,"",""
-"7641AM",3,"",""
-"7641AM",29,"",""
-"7641AM",5,"",""
-"7641AM",4,"",""
-"7641AM",17,"",""
-"7641AM",2,"",""
-"7641AM",19,"",""
-"7641AM",21,"",""
-"7641AM",13,"",""
-"7641AM",15,"",""
-"7641AM",2,"a",""
-"7641AM",1,"","traf"
-"7641AN",11,"",""
-"7641AN",10,"",""
-"7641AN",18,"",""
-"7641AN",16,"",""
-"7641AN",15,"",""
-"7641AN",13,"",""
-"7641AN",3,"",""
-"7641AN",15,"",""
-"7641AN",4,"a",""
-"7641AN",16,"",""
-"7641AN",14,"",""
-"7641AN",17,"",""
-"7641AN",8,"",""
-"7641AN",1,"",""
-"7641AN",20,"",""
-"7641AN",23,"",""
-"7641AN",16,"",""
-"7641AN",12,"",""
-"7641AN",5,"",""
-"7641AN",2,"",""
-"7641AN",21,"",""
-"7641AN",19,"",""
-"7641AN",16,"a",""
-"7641AN",13,"",""
-"7641AN",22,"",""
-"7641AN",22,"",""
-"7641AN",6,"",""
-"7641AN",4,"",""
-"7641AN",22,"",""
-"7641AN",10,"",""
-"7641AN",9,"",""
-"7641AN",8,"a",""
-"7641AN",7,"",""
-"7641AN",10,"",""
-"7641AN",24,"",""
-"7641BA",23,"",""
-"7641BA",15,"",""
-"7641BA",9,"",""
-"7641BA",21,"a",""
-"7641BA",23,"b",""
-"7641BA",21,"a",""
-"7641BA",27,"",""
-"7641BA",23,"c",""
-"7641BA",19,"",""
-"7641BA",17,"",""
-"7641BA",23,"a",""
-"7641BA",27,"a",""
-"7641BA",19,"a",""
-"7641BA",31,"",""
-"7641BA",21,"b",""
-"7641BA",21,"c",""
-"7641BA",29,"",""
-"7641BA",21,"",""
-"7641BA",25,"",""
-"7641BA",11,"",""
-"7641BA",21,"a",""
-"7641BA",5,"a",""
-"7641BA",27,"b",""
-"7641BA",33,"",""
-"7641BA",5,"",""
-"7641BG",9,"",""
-"7641BG",1,"a",""
-"7641BG",11,"",""
-"7641BG",17,"",""
-"7641BG",1,"","traf"
-"7641BG",1,"a",""
-"7641BG",5,"",""
-"7641BG",15,"",""
-"7641BG",1,"",""
-"7641BG",3,"",""
-"7641BG",13,"",""
-"7641BG",15,"a",""
-"7641BH",40,"",""
-"7641BH",14,"",""
-"7641BH",12,"",""
-"7641BH",22,"",""
-"7641BH",42,"",""
-"7641BH",30,"",""
-"7641BH",18,"",""
-"7641BH",20,"",""
-"7641BH",36,"",""
-"7641BH",16,"",""
-"7641BH",46,"",""
-"7641BH",36,"a",""
-"7641BH",38,"",""
-"7641BH",28,"",""
-"7641BH",34,"",""
-"7641BH",44,"",""
-"7641BH",24,"",""
-"7641BH",32,"",""
-"7641PN",51,"",""
-"7641PN",49,"",""
-"7641PN",41,"","MANT"
-"7641PN",35,"",""
-"7641PN",45,"",""
-"7641PN",43,"",""
-"7641PN",53,"",""
-"7641PN",35,"",""
-"7641PN",47,"",""
-"7641PN",57,"",""
-"7641PN",37,"",""
-"7641PN",39,"",""
-"7641PN",55,"",""
-"7641PN",41,"",""
-"7641SB",24,"",""
-"7641SB",10,"",""
-"7641SB",22,"",""
-"7641SB",2,"",""
-"7641SB",16,"",""
-"7641SB",26,"",""
-"7641SB",28,"",""
-"7641SB",30,"",""
-"7641SB",20,"",""
-"7641SB",4,"",""
-"7641SB",12,"",""
-"7641SB",18,"",""
-"7641SB",14,"",""
-"7641SC",25,"",""
-"7641SC",35,"",""
-"7641SC",29,"","traf"
-"7641SC",21,"",""
-"7641SC",9,"",""
-"7641SC",29,"",""
-"7641SC",43,"",""
-"7641SC",13,"",""
-"7641SC",31,"",""
-"7641SC",33,"",""
-"7641SC",41,"",""
-"7641SC",1,"",""
-"7641SC",39,"",""
-"7641SC",3,"",""
-"7641SC",45,"",""
-"7641SC",19,"",""
-"7641SC",17,"",""
-"7641SC",11,"",""
-"7641SC",7,"",""
-"7641SC",27,"",""
-"7641SC",37,"",""
-"7641SC",23,"",""
-"7641SC",15,"",""
-"7641SC",3,"a",""
-"7641SC",5,"",""
-"7641SE",16,"",""
-"7641SE",6,"",""
-"7641SE",18,"",""
-"7641SE",14,"",""
-"7641SE",4,"",""
-"7641SE",2,"",""
-"7641SE",20,"",""
-"7641SE",8,"",""
-"7641SE",22,"",""
-"7641SE",10,"",""
-"7641SE",24,"",""
-"7641SE",12,"",""
-"7641SG",5,"",""
-"7641SG",1,"",""
-"7641SG",3,"",""
-"7641SG",13,"",""
-"7641SG",9,"",""
-"7641SG",11,"",""
-"7641SG",7,"",""
-"7641SH",6,"",""
-"7641SH",10,"",""
-"7641SH",16,"",""
-"7641SH",24,"",""
-"7641SH",2,"",""
-"7641SH",18,"",""
-"7641SH",8,"",""
-"7641SH",20,"",""
-"7641SH",12,"",""
-"7641SH",14,"",""
-"7641SH",22,"",""
-"7641SH",4,"",""
-"7641SJ",3,"",""
-"7641SJ",9,"",""
-"7641SJ",5,"",""
-"7641SJ",1,"",""
-"7641SJ",11,"",""
-"7641SJ",7,"",""
-"7641SK",2,"",""
-"7641SK",18,"",""
-"7641SK",14,"",""
-"7641SK",20,"",""
-"7641SK",24,"",""
-"7641SK",8,"",""
-"7641SK",28,"",""
-"7641SK",4,"",""
-"7641SK",12,"",""
-"7641SK",10,"",""
-"7641SK",26,"",""
-"7641SK",6,"",""
-"7641SK",16,"",""
-"7641SK",22,"",""
-"7641SL",25,"",""
-"7641SL",27,"",""
-"7641SL",9,"",""
-"7641SL",23,"",""
-"7641SL",21,"",""
-"7641SL",19,"",""
-"7641SL",1,"",""
-"7641SL",3,"",""
-"7641SL",5,"",""
-"7641SL",11,"",""
-"7641SL",7,"",""
-"7641SL",13,"",""
-"7641SL",17,"",""
-"7641SL",15,"",""
-"7641SL",29,"",""
-7641AM,Bedrijvenstraat,3,,
-7641AM,Bedrijvenstraat,4,,
-7641AM,Bedrijvenstraat,5,,
-7641AM,Bedrijvenstraat,5,a,
-7641AM,Bedrijvenstraat,7,,
-7641AM,Bedrijvenstraat,7,a,
-7641AM,Bedrijvenstraat,9,,
-7641AM,Bedrijvenstraat,11,,
-7641AM,Bedrijvenstraat,13,,
-7641AM,Bedrijvenstraat,15,,
-7641AM,Bedrijvenstraat,17,,
-7641AM,Bedrijvenstraat,19,,
-7641AM,Bedrijvenstraat,21,,
-7641AM,Bedrijvenstraat,23,,
-7641AM,Bedrijvenstraat,25,,
-7641AM,Bedrijvenstraat,27,,
-7641AM,Bedrijvenstraat,29,,
-7641AN,Bedrijvenstraat,2,,
-7641AN,Bedrijvenstraat,4,,
-7641AN,Bedrijvenstraat,6,,
-7641AN,Bedrijvenstraat,8,,
-7641AN,Bedrijvenstraat,10,,
-7641AN,Bedrijvenstraat,12,,
-7641AN,Bedrijvenstraat,13,,
-7641AN,Bedrijvenstraat,14,,
-7641AN,Bedrijvenstraat,15,,
-7641AN,Bedrijvenstraat,16,,
-7641AN,Bedrijvenstraat,18,,
-7641AN,Bedrijvenstraat,20,,
-7641AN,Bedrijvenstraat,22,,
-7641BA,Hexelseweg,5,,
-7641BA,Hexelseweg,5,a,
-7641BA,Hexelseweg,9,,
-7641BA,Hexelseweg,11,,
-7641BA,Hexelseweg,15,,
-7641BA,Hexelseweg,17,,
-7641BA,Hexelseweg,19,,
-7641BA,Hexelseweg,19,a,
-7641BA,Hexelseweg,21,,
-7641BA,Hexelseweg,21,a,
-7641BA,Hexelseweg,23,,
-7641BA,Hexelseweg,23,a,
-7641BA,Hexelseweg,23,b,
-7641BA,Hexelseweg,23,c,
-7641BA,Hexelseweg,25,,
-7641BA,Hexelseweg,27,,
-7641BA,Hexelseweg,27,a,
-7641BA,Hexelseweg,29,,
-7641BA,Hexelseweg,31,,
-7641BA,Hexelseweg,33,,
-7641PN,Hexelseweg,37,,
-7641PN,Hexelseweg,39,,
-7641PN,Hexelseweg,41,,
-7641PN,Hexelseweg,43,,
-7641PN,Hexelseweg,45,,
-7641PN,Hexelseweg,47,,
-7641PN,Hexelseweg,49,,
-7641PN,Hexelseweg,51,,
-7641PN,Hexelseweg,53,,
-7641PN,Hexelseweg,55,,
-7641PN,Hexelseweg,57,,
-7641SB,Het Loo,2,,
-7641SB,Het Loo,4,,
-7641SB,Het Loo,10,,
-7641SB,Het Loo,12,,
-7641SB,Het Loo,14,,
-7641SB,Het Loo,16,,
-7641SB,Het Loo,18,,
-7641SB,Het Loo,20,,
-7641SB,Het Loo,22,,
-7641SB,Het Loo,24,,
-7641SB,Het Loo,26,,
-7641SB,Het Loo,28,,
-7641SB,Het Loo,30,,
-7641SC,Het Loo,1,,
-7641SC,Het Loo,3,,
-7641SC,Het Loo,3,a,
-7641SC,Het Loo,5,,
-7641SC,Het Loo,7,,
-7641SC,Het Loo,9,,
-7641SC,Het Loo,11,,
-7641SC,Het Loo,13,,
-7641SC,Het Loo,15,,
-7641SC,Het Loo,17,,
-7641SC,Het Loo,19,,
-7641SC,Het Loo,21,,
-7641SC,Het Loo,23,,
-7641SC,Het Loo,25,,
-7641SC,Het Loo,27,,
-7641SC,Het Loo,29,,
-7641SC,Het Loo,31,,
-7641SC,Het Loo,33,,
-7641SC,Het Loo,35,,
-7641SC,Het Loo,37,,
-7641SC,Het Loo,39,,
-7641SC,Het Loo,41,,
-7641SC,Het Loo,43,,
-7641SC,Het Loo,45,,
-7641SK,Dorperesch,2,,
-7641SK,Dorperesch,4,,
-7641SK,Dorperesch,6,,
-7641SK,Dorperesch,8,,
-7641SK,Dorperesch,10,,
-7641SK,Dorperesch,12,,
-7641SK,Dorperesch,14,,
-7641SK,Dorperesch,16,,
-7641SK,Dorperesch,18,,
-7641SK,Dorperesch,20,,
-7641SK,Dorperesch,22,,
-7641SK,Dorperesch,24,,
-7641SK,Dorperesch,26,,
-7641SK,Dorperesch,28,,
-7641SL,Dorperesch,1,,
-7641SL,Dorperesch,3,,
-7641SL,Dorperesch,5,,
-7641SL,Dorperesch,7,,
-7641SL,Dorperesch,9,,
-7641SL,Dorperesch,11,,
-7641SL,Dorperesch,13,,
-7641SL,Dorperesch,15,,
-7641SL,Dorperesch,17,,
-7641SL,Dorperesch,19,,
-7641SL,Dorperesch,21,,
-7641SL,Dorperesch,23,,
-7641SL,Dorperesch,25,,
-7641SL,Dorperesch,27,,
-7641SL,Dorperesch,29,,
-7641SH,Eschwal,2,,
-7641SH,Eschwal,4,,
-7641SH,Eschwal,6,,
-7641SH,Eschwal,8,,
-7641SH,Eschwal,10,,
-7641SH,Eschwal,12,,
-7641SH,Eschwal,14,,
-7641SH,Eschwal,16,,
-7641SH,Eschwal,18,,
-7641SH,Eschwal,20,,
-7641SH,Eschwal,22,,
-7641SH,Eschwal,24,,
-7641SJ,Eschwal,1,,
-7641SJ,Eschwal,3,,
-7641SJ,Eschwal,5,,
-7641SJ,Eschwal,7,,
-7641SJ,Eschwal,9,,
-7641SJ,Eschwal,11,,
-7641SE,Doornstukke,2,,
-7641SE,Doornstukke,4,,
-7641SE,Doornstukke,6,,
-7641SE,Doornstukke,8,,
-7641SE,Doornstukke,10,,
-7641SE,Doornstukke,12,,
-7641SE,Doornstukke,14,,
-7641SE,Doornstukke,16,,
-7641SE,Doornstukke,18,,
-7641SE,Doornstukke,20,,
-7641SE,Doornstukke,22,,
-7641SE,Doornstukke,24,,
-7641SG,Doornstukke,1,,
-7641SG,Doornstukke,3,,
-7641SG,Doornstukke,5,,
-7641SG,Doornstukke,7,,
-7641SG,Doornstukke,9,,
-7641SG,Doornstukke,11,,
-7641SG,Doornstukke,13,,
-7641AM,Bedrijvenstraat,1,,
-7641AM,Bedrijvenstraat,1,,traf
-7641AM,Bedrijvenstraat,31,,
-7641AM,Bedrijvenstraat,22,,
-7641AN,Bedrijvenstraat,4,a,
-7641AN,Bedrijvenstraat,8,a,
-7641AN,Bedrijvenstraat,10,,
-7641AN,Bedrijvenstraat,22,,
-7641AN,Bedrijvenstraat,24,,
-7641AN,Bedrijvenstraat,16,,
-7641AN,Bedrijvenstraat,16,a,
-7641BA,Hexelseweg,21,a,
-7641BA,Hexelseweg,21,b,
-7641BA,Hexelseweg,27,b,
-7641PN,Hexelseweg,35,,
-7641PN,Hexelseweg,35,,
-7641BG,Looweg,1,,
-7641BG,Looweg,3,,
-7641BG,Looweg,5,,
-7641BG,Looweg,9,,
-7641BG,Looweg,11,,
-7641BG,Looweg,13,,
-7641BG,Looweg,15,,
-7641BG,Looweg,15,a,
-7641BG,Looweg,17,,
-7641BG,Looweg,1,,traf
-7641BG,Looweg,1,a,
-7641BH,Looweg,12,,
-7641BH,Looweg,14,,
-7641BH,Looweg,16,,
-7641BH,Looweg,18,,
-7641BH,Looweg,20,,
-7641BH,Looweg,22,,
-7641BH,Looweg,24,,
-7641BH,Looweg,28,,
-7641BH,Looweg,30,,
-7641BH,Looweg,32,,
-7641BH,Looweg,34,,
-7641BH,Looweg,36,,
-7641BH,Looweg,36,a,
-7641BH,Looweg,38,,
-7641BH,Looweg,40,,
-7641BH,Looweg,42,,
-7641BH,Looweg,44,,
-7641BH,Looweg,46,,
-7641AM,Oost Kluinveenweg,2,,
-7641AM,Oost Kluinveenweg,4,,
-7641AM,Oost Kluinveenweg,6,,
-7641AM,Oost Kluinveenweg,23,,
-7641AM,Oost Kluinveenweg,2,a,
-7641AM,Oost Kluinveenweg,2,b,
-7641AN,Oost Kluinveenweg,1,,
-7641AN,Oost Kluinveenweg,3,,
-7641AN,Oost Kluinveenweg,5,,
-7641AN,Oost Kluinveenweg,7,,
-7641AN,Oost Kluinveenweg,9,,
-7641AN,Oost Kluinveenweg,11,,
-7641AN,Oost Kluinveenweg,13,,
-7641AN,Oost Kluinveenweg,15,,
-7641AN,Oost Kluinveenweg,17,,
-7641AN,Oost Kluinveenweg,19,,
-7641AN,Oost Kluinveenweg,21,,
-7641AN,Oost Kluinveenweg,23,,
-7641SC,Het Loo,29,,traf
-7641AM,Bedrijvenstraat,9,a,
-7641BA,Hexelseweg,21,c,
-7641PN,Hexelseweg,41,,MANT
-7641BG,Looweg,1,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bedrijvenstraat,1,"","",7641AM,Wierden
+Bedrijvenstraat,1,"",TRAF,7641AM,Wierden
+Bedrijvenstraat,11,"","",7641AM,Wierden
+Bedrijvenstraat,13,"","",7641AM,Wierden
+Bedrijvenstraat,15,"","",7641AM,Wierden
+Bedrijvenstraat,17,"","",7641AM,Wierden
+Bedrijvenstraat,19,"","",7641AM,Wierden
+Oost Kluinveenweg,2,"","",7641AM,Wierden
+Oost Kluinveenweg,2,A,"",7641AM,Wierden
+Oost Kluinveenweg,2,B,"",7641AM,Wierden
+Bedrijvenstraat,21,"","",7641AM,Wierden
+Bedrijvenstraat,22,"","",7641AM,Wierden
+Bedrijvenstraat,23,"","",7641AM,Wierden
+Bedrijvenstraat,23,"","",7641AM,Wierden
+Bedrijvenstraat,25,"","",7641AM,Wierden
+Bedrijvenstraat,27,"","",7641AM,Wierden
+Bedrijvenstraat,29,"","",7641AM,Wierden
+Bedrijvenstraat,3,"","",7641AM,Wierden
+Bedrijvenstraat,31,"","",7641AM,Wierden
+Bedrijvenstraat,4,"","",7641AM,Wierden
+Bedrijvenstraat,4,"","",7641AM,Wierden
+Bedrijvenstraat,5,"","",7641AM,Wierden
+Bedrijvenstraat,5,A,"",7641AM,Wierden
+Oost Kluinveenweg,6,"","",7641AM,Wierden
+Bedrijvenstraat,7,"","",7641AM,Wierden
+Bedrijvenstraat,7,A,"",7641AM,Wierden
+Bedrijvenstraat,9,"","",7641AM,Wierden
+Bedrijvenstraat,9,A,"",7641AM,Wierden
+Oost Kluinveenweg,1,"","",7641AN,Wierden
+Bedrijvenstraat,10,"","",7641AN,Wierden
+Bedrijvenstraat,10,"","",7641AN,Wierden
+Bedrijvenstraat,10,"","",7641AN,Wierden
+Oost Kluinveenweg,11,"","",7641AN,Wierden
+Bedrijvenstraat,12,"","",7641AN,Wierden
+Bedrijvenstraat,13,"","",7641AN,Wierden
+Bedrijvenstraat,13,"","",7641AN,Wierden
+Bedrijvenstraat,14,"","",7641AN,Wierden
+Bedrijvenstraat,15,"","",7641AN,Wierden
+Bedrijvenstraat,15,"","",7641AN,Wierden
+Bedrijvenstraat,16,"","",7641AN,Wierden
+Bedrijvenstraat,16,"","",7641AN,Wierden
+Bedrijvenstraat,16,"","",7641AN,Wierden
+Bedrijvenstraat,16,A,"",7641AN,Wierden
+Oost Kluinveenweg,17,"","",7641AN,Wierden
+Bedrijvenstraat,18,"","",7641AN,Wierden
+Oost Kluinveenweg,19,"","",7641AN,Wierden
+Bedrijvenstraat,2,"","",7641AN,Wierden
+Bedrijvenstraat,20,"","",7641AN,Wierden
+Oost Kluinveenweg,21,"","",7641AN,Wierden
+Bedrijvenstraat,22,"","",7641AN,Wierden
+Bedrijvenstraat,22,"","",7641AN,Wierden
+Bedrijvenstraat,22,"","",7641AN,Wierden
+Oost Kluinveenweg,23,"","",7641AN,Wierden
+Bedrijvenstraat,24,"","",7641AN,Wierden
+Oost Kluinveenweg,3,"","",7641AN,Wierden
+Bedrijvenstraat,4,"","",7641AN,Wierden
+Bedrijvenstraat,4,A,"",7641AN,Wierden
+Oost Kluinveenweg,5,"","",7641AN,Wierden
+Bedrijvenstraat,6,"","",7641AN,Wierden
+Oost Kluinveenweg,7,"","",7641AN,Wierden
+Bedrijvenstraat,8,"","",7641AN,Wierden
+Bedrijvenstraat,8,A,"",7641AN,Wierden
+Oost Kluinveenweg,9,"","",7641AN,Wierden
+Hexelseweg,11,"","",7641BA,Wierden
+Hexelseweg,15,"","",7641BA,Wierden
+Hexelseweg,17,"","",7641BA,Wierden
+Hexelseweg,19,"","",7641BA,Wierden
+Hexelseweg,19,A,"",7641BA,Wierden
+Hexelseweg,21,"","",7641BA,Wierden
+Hexelseweg,21,A,"",7641BA,Wierden
+Hexelseweg,21,A,"",7641BA,Wierden
+Hexelseweg,21,A,"",7641BA,Wierden
+Hexelseweg,21,B,"",7641BA,Wierden
+Hexelseweg,21,C,"",7641BA,Wierden
+Hexelseweg,23,"","",7641BA,Wierden
+Hexelseweg,23,A,"",7641BA,Wierden
+Hexelseweg,23,B,"",7641BA,Wierden
+Hexelseweg,23,C,"",7641BA,Wierden
+Hexelseweg,25,"","",7641BA,Wierden
+Hexelseweg,27,"","",7641BA,Wierden
+Hexelseweg,27,A,"",7641BA,Wierden
+Hexelseweg,27,B,"",7641BA,Wierden
+Hexelseweg,29,"","",7641BA,Wierden
+Hexelseweg,31,"","",7641BA,Wierden
+Hexelseweg,33,"","",7641BA,Wierden
+Hexelseweg,5,"","",7641BA,Wierden
+Hexelseweg,5,A,"",7641BA,Wierden
+Hexelseweg,9,"","",7641BA,Wierden
+Looweg,1,"","",7641BG,Wierden
+Looweg,1,"",TRAF,7641BG,Wierden
+Looweg,1,A,"",7641BG,Wierden
+Looweg,1,A,"",7641BG,Wierden
+Looweg,11,"","",7641BG,Wierden
+Looweg,13,"","",7641BG,Wierden
+Looweg,15,"","",7641BG,Wierden
+Looweg,15,A,"",7641BG,Wierden
+Looweg,17,"","",7641BG,Wierden
+Looweg,3,"","",7641BG,Wierden
+Looweg,5,"","",7641BG,Wierden
+Looweg,9,"","",7641BG,Wierden
+Looweg,12,"","",7641BH,Wierden
+Looweg,14,"","",7641BH,Wierden
+Looweg,16,"","",7641BH,Wierden
+Looweg,18,"","",7641BH,Wierden
+Looweg,20,"","",7641BH,Wierden
+Looweg,22,"","",7641BH,Wierden
+Looweg,24,"","",7641BH,Wierden
+Looweg,28,"","",7641BH,Wierden
+Looweg,30,"","",7641BH,Wierden
+Looweg,32,"","",7641BH,Wierden
+Looweg,34,"","",7641BH,Wierden
+Looweg,36,"","",7641BH,Wierden
+Looweg,36,A,"",7641BH,Wierden
+Looweg,38,"","",7641BH,Wierden
+Looweg,40,"","",7641BH,Wierden
+Looweg,42,"","",7641BH,Wierden
+Looweg,44,"","",7641BH,Wierden
+Looweg,46,"","",7641BH,Wierden
+Hexelseweg,35,"","",7641PN,Wierden
+Hexelseweg,35,"","",7641PN,Wierden
+Hexelseweg,37,"","",7641PN,Wierden
+Hexelseweg,39,"","",7641PN,Wierden
+Hexelseweg,41,"","",7641PN,Wierden
+Hexelseweg,41,"",MANT,7641PN,Wierden
+Hexelseweg,43,"","",7641PN,Wierden
+Hexelseweg,45,"","",7641PN,Wierden
+Hexelseweg,47,"","",7641PN,Wierden
+Hexelseweg,49,"","",7641PN,Wierden
+Hexelseweg,51,"","",7641PN,Wierden
+Hexelseweg,53,"","",7641PN,Wierden
+Hexelseweg,55,"","",7641PN,Wierden
+Hexelseweg,57,"","",7641PN,Wierden
+Het Loo,10,"","",7641SB,Wierden
+Het Loo,12,"","",7641SB,Wierden
+Het Loo,14,"","",7641SB,Wierden
+Het Loo,16,"","",7641SB,Wierden
+Het Loo,18,"","",7641SB,Wierden
+Het Loo,2,"","",7641SB,Wierden
+Het Loo,20,"","",7641SB,Wierden
+Het Loo,22,"","",7641SB,Wierden
+Het Loo,24,"","",7641SB,Wierden
+Het Loo,26,"","",7641SB,Wierden
+Het Loo,28,"","",7641SB,Wierden
+Het Loo,30,"","",7641SB,Wierden
+Het Loo,4,"","",7641SB,Wierden
+Het Loo,1,"","",7641SC,Wierden
+Het Loo,11,"","",7641SC,Wierden
+Het Loo,13,"","",7641SC,Wierden
+Het Loo,15,"","",7641SC,Wierden
+Het Loo,17,"","",7641SC,Wierden
+Het Loo,19,"","",7641SC,Wierden
+Het Loo,21,"","",7641SC,Wierden
+Het Loo,23,"","",7641SC,Wierden
+Het Loo,25,"","",7641SC,Wierden
+Het Loo,27,"","",7641SC,Wierden
+Het Loo,29,"","",7641SC,Wierden
+Het Loo,29,"",TRAF,7641SC,Wierden
+Het Loo,3,"","",7641SC,Wierden
+Het Loo,3,A,"",7641SC,Wierden
+Het Loo,31,"","",7641SC,Wierden
+Het Loo,33,"","",7641SC,Wierden
+Het Loo,35,"","",7641SC,Wierden
+Het Loo,37,"","",7641SC,Wierden
+Het Loo,39,"","",7641SC,Wierden
+Het Loo,41,"","",7641SC,Wierden
+Het Loo,43,"","",7641SC,Wierden
+Het Loo,45,"","",7641SC,Wierden
+Het Loo,5,"","",7641SC,Wierden
+Het Loo,7,"","",7641SC,Wierden
+Het Loo,9,"","",7641SC,Wierden
+Doornstukke,10,"","",7641SE,Wierden
+Doornstukke,12,"","",7641SE,Wierden
+Doornstukke,14,"","",7641SE,Wierden
+Doornstukke,16,"","",7641SE,Wierden
+Doornstukke,18,"","",7641SE,Wierden
+Doornstukke,2,"","",7641SE,Wierden
+Doornstukke,20,"","",7641SE,Wierden
+Doornstukke,22,"","",7641SE,Wierden
+Doornstukke,24,"","",7641SE,Wierden
+Doornstukke,4,"","",7641SE,Wierden
+Doornstukke,6,"","",7641SE,Wierden
+Doornstukke,8,"","",7641SE,Wierden
+Doornstukke,1,"","",7641SG,Wierden
+Doornstukke,11,"","",7641SG,Wierden
+Doornstukke,13,"","",7641SG,Wierden
+Doornstukke,3,"","",7641SG,Wierden
+Doornstukke,5,"","",7641SG,Wierden
+Doornstukke,7,"","",7641SG,Wierden
+Doornstukke,9,"","",7641SG,Wierden
+Eschwal,10,"","",7641SH,Wierden
+Eschwal,12,"","",7641SH,Wierden
+Eschwal,14,"","",7641SH,Wierden
+Eschwal,16,"","",7641SH,Wierden
+Eschwal,18,"","",7641SH,Wierden
+Eschwal,2,"","",7641SH,Wierden
+Eschwal,20,"","",7641SH,Wierden
+Eschwal,22,"","",7641SH,Wierden
+Eschwal,24,"","",7641SH,Wierden
+Eschwal,4,"","",7641SH,Wierden
+Eschwal,6,"","",7641SH,Wierden
+Eschwal,8,"","",7641SH,Wierden
+Eschwal,1,"","",7641SJ,Wierden
+Eschwal,11,"","",7641SJ,Wierden
+Eschwal,3,"","",7641SJ,Wierden
+Eschwal,5,"","",7641SJ,Wierden
+Eschwal,7,"","",7641SJ,Wierden
+Eschwal,9,"","",7641SJ,Wierden
+Dorperesch,10,"","",7641SK,Wierden
+Dorperesch,12,"","",7641SK,Wierden
+Dorperesch,14,"","",7641SK,Wierden
+Dorperesch,16,"","",7641SK,Wierden
+Dorperesch,18,"","",7641SK,Wierden
+Dorperesch,2,"","",7641SK,Wierden
+Dorperesch,20,"","",7641SK,Wierden
+Dorperesch,22,"","",7641SK,Wierden
+Dorperesch,24,"","",7641SK,Wierden
+Dorperesch,26,"","",7641SK,Wierden
+Dorperesch,28,"","",7641SK,Wierden
+Dorperesch,4,"","",7641SK,Wierden
+Dorperesch,6,"","",7641SK,Wierden
+Dorperesch,8,"","",7641SK,Wierden
+Dorperesch,1,"","",7641SL,Wierden
+Dorperesch,11,"","",7641SL,Wierden
+Dorperesch,13,"","",7641SL,Wierden
+Dorperesch,15,"","",7641SL,Wierden
+Dorperesch,17,"","",7641SL,Wierden
+Dorperesch,19,"","",7641SL,Wierden
+Dorperesch,21,"","",7641SL,Wierden
+Dorperesch,23,"","",7641SL,Wierden
+Dorperesch,25,"","",7641SL,Wierden
+Dorperesch,27,"","",7641SL,Wierden
+Dorperesch,29,"","",7641SL,Wierden
+Dorperesch,3,"","",7641SL,Wierden
+Dorperesch,5,"","",7641SL,Wierden
+Dorperesch,7,"","",7641SL,Wierden
+Dorperesch,9,"","",7641SL,Wierden

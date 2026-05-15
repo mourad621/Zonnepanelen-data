@@ -1,638 +1,142 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"6831AB",22,"",""
-"6831AB",63,"",""
-"6831AB",7,"",""
-"6831AB",69,"",""
-"6831AB",48,"",""
-"6831AB",77,"",""
-"6831AB",16,"",""
-"6831AB",50,"",""
-"6831AB",32,"",""
-"6831AB",15,"",""
-"6831AB",14,"",""
-"6831AB",46,"",""
-"6831AE",45,"",""
-"6831AE",5,"",""
-"6831AE",41,"",""
-"6831AE",15,"",""
-"6831AE",45,"",""
-"6831AE",21,"",""
-"6831AE",1,"",""
-"6831AE",17,"",""
-"6831AG",53,"",""
-"6831AG",55,"",""
-"6831AG",73,"",""
-"6831AG",55,"",""
-"6831AH",30,"",""
-"6831AJ",46,"",""
-"6831AJ",44,"A",""
-"6831AJ",44,"A",""
-"6831AJ",50,"",""
-"6831AJ",74,"",""
-"6831AJ",80,"",""
-"6831AJ",90,"",""
-"6831AJ",72,"",""
-"6831AM",151,"",""
-"6831AM",133,"",""
-"6831AM",131,"",""
-"6831AM",155,"",""
-"6831AM",129,"",""
-"6831AM",139,"",""
-"6831AP",74,"",""
-"6831AP",32,"",""
-"6831AP",72,"",""
-"6831AP",34,"",""
-"6831AP",62,"",""
-"6831AP",42,"",""
-"6831AP",92,"",""
-"6831AP",56,"",""
-"6831AP",44,"",""
-"6831AP",98,"",""
-"6831AP",52,"",""
-"6831AP",110,"",""
-"6831AP",90,"",""
-"6831AP",46,"",""
-"6831AP",96,"",""
-"6831AR",132,"",""
-"6831AR",154,"",""
-"6831AR",134,"",""
-"6831AR",176,"",""
-"6831AR",174,"",""
-"6831AR",172,"",""
-"6831AR",136,"",""
-"6831AR",186,"",""
-"6831AR",138,"",""
-"6831AR",168,"",""
-"6831AR",198,"",""
-"6831AR",124,"",""
-"6831AR",144,"",""
-"6831AR",190,"",""
-"6831AR",166,"",""
-"6831AR",184,"",""
-"6831AR",204,"",""
-"6831AS",238,"",""
-"6831AS",224,"",""
-"6831AS",236,"",""
-"6831AS",240,"",""
-"6831AS",222,"",""
-"6831AT",7,"",""
-"6831AT",63,"",""
-"6831AT",33,"",""
-"6831AT",49,"",""
-"6831AT",65,"",""
-"6831AT",5,"",""
-"6831AT",57,"",""
-"6831AT",45,"",""
-"6831AV",10,"",""
-"6831AV",14,"",""
-"6831AW",8,"",""
-"6831AW",16,"",""
-"6831AW",10,"",""
-"6831AW",5,"",""
-"6831AW",9,"",""
-"6831AW",1,"",""
-"6831AW",11,"",""
-"6831AW",7,"",""
-"6831AW",13,"",""
-"6831BA",23,"",""
-"6831BA",1,"",""
-"6831BA",21,"",""
-"6831BA",15,"",""
-"6831BA",7,"",""
-"6831BD",2,"",""
-"6831BD",20,"",""
-"6831BH",10,"",""
-"6831BH",12,"",""
-"6831BH",14,"",""
-"6831BL",25,"",""
-"6831BL",17,"",""
-"6831BL",53,"",""
-"6831BL",55,"",""
-"6831BL",15,"",""
-"6831BL",29,"",""
-"6831BL",43,"",""
-"6831BL",63,"",""
-"6831BL",57,"",""
-"6831BL",23,"",""
-"6831BL",35,"",""
-"6831BM",42,"",""
-"6831BM",30,"",""
-"6831BM",26,"",""
-"6831BM",16,"",""
-"6831BM",22,"",""
-"6831BM",18,"",""
-"6831BM",34,"",""
-"6831BM",14,"",""
-"6831BM",12,"",""
-"6831BM",4,"",""
-"6831BS",20,"",""
-"6831BS",10,"",""
-"6831BS",9,"",""
-"6831BS",6,"",""
-"6831BS",7,"",""
-"6831BS",5,"",""
-"6831BS",1,"",""
-"6831BT",5,"",""
-"6831BT",11,"",""
-"6831BT",1,"",""
-"6831BV",2,"",""
-"6831BV",34,"",""
-"6831BV",20,"",""
-"6831BV",14,"",""
-"6831BV",36,"",""
-6831AT,Goudreinetgaard,5,,
-6831AT,Goudreinetgaard,63,,
-6831AW,Bellefleurgaard,7,,
-6831AM,Sterappelgaard,139,,
-6831AP,Sterappelgaard,42,,
-6831AP,Sterappelgaard,92,,
-6831AP,Sterappelgaard,56,,
-6831AP,Sterappelgaard,62,,
-6831AP,Sterappelgaard,72,,
-6831AR,Sterappelgaard,184,,
-6831AR,Sterappelgaard,186,,
-6831AR,Sterappelgaard,144,,
-6831AS,Sterappelgaard,238,,
-6831AS,Sterappelgaard,240,,
-6831BL,Benonigaard,43,,
-6831BL,Benonigaard,35,,
-6831BL,Benonigaard,55,,
-6831BM,Benonigaard,4,,
-6831BM,Benonigaard,12,,
-6831BH,Elstargaard,14,,
-6831BA,Jonathangaard,7,,
-6831BD,IJzerappelgaard,20,,
-6831AB,Brinkenhofsestraat,15,,
-6831AB,Brinkenhofsestraat,63,,
-6831AB,Brinkenhofsestraat,69,,
-6831AB,Brinkenhofsestraat,16,,
-6831AB,Brinkenhofsestraat,50,,
-6831AB,Brinkenhofsestraat,22,,
-6831AB,Brinkenhofsestraat,46,,
-6831BV,Alkmenegaard,20,,
-6831BV,Alkmenegaard,14,,
-6831BV,Alkmenegaard,36,,
-6831AE,De Overmaat,21,,
-6831AG,De Overmaat,53,,
-6831AG,De Overmaat,55,,
-6831AJ,De Overmaat,90,,
-6831AJ,De Overmaat,50,,
-6831AJ,De Overmaat,80,,
-6831AT,Goudreinetgaard,7,,
-6831AT,Goudreinetgaard,45,,
-6831AT,Goudreinetgaard,57,,
-6831AT,Goudreinetgaard,65,,
-6831AT,Goudreinetgaard,49,,
-6831AW,Bellefleurgaard,5,,
-6831AW,Bellefleurgaard,11,,
-6831AW,Bellefleurgaard,13,,
-6831AW,Bellefleurgaard,1,,
-6831AW,Bellefleurgaard,8,,
-6831AM,Sterappelgaard,131,,
-6831AP,Sterappelgaard,34,,
-6831AP,Sterappelgaard,52,,
-6831AP,Sterappelgaard,110,,
-6831AP,Sterappelgaard,44,,
-6831AR,Sterappelgaard,172,,
-6831AR,Sterappelgaard,190,,
-6831AR,Sterappelgaard,132,,
-6831AR,Sterappelgaard,138,,
-6831AR,Sterappelgaard,166,,
-6831AR,Sterappelgaard,204,,
-6831BL,Benonigaard,63,,
-6831BL,Benonigaard,57,,
-6831BM,Benonigaard,18,,
-6831BM,Benonigaard,22,,
-6831BM,Benonigaard,26,,
-6831BM,Benonigaard,34,,
-6831BM,Benonigaard,16,,
-6831BM,Benonigaard,42,,
-6831BH,Elstargaard,12,,
-6831BA,Jonathangaard,1,,
-6831BA,Jonathangaard,15,,
-6831AB,Brinkenhofsestraat,7,,
-6831AB,Brinkenhofsestraat,77,,
-6831BS,Notarisappelgaard,9,,
-6831BS,Notarisappelgaard,7,,
-6831BS,Notarisappelgaard,5,,
-6831BT,Alkmenegaard,11,,
-6831BT,Alkmenegaard,1,,
-6831BV,Alkmenegaard,2,,
-6831AE,De Overmaat,17,,
-6831AE,De Overmaat,41,,
-6831AE,De Overmaat,45,,
-6831AJ,De Overmaat,74,,
-6831AJ,De Overmaat,44,A,
-6831AT,Goudreinetgaard,33,,
-6831AV,Goudreinetgaard,10,,
-6831AV,Goudreinetgaard,14,,
-6831AW,Bellefleurgaard,9,,
-6831AW,Bellefleurgaard,16,,
-6831AW,Bellefleurgaard,10,,
-6831AM,Sterappelgaard,133,,
-6831AM,Sterappelgaard,151,,
-6831AM,Sterappelgaard,155,,
-6831AM,Sterappelgaard,129,,
-6831AP,Sterappelgaard,32,,
-6831AP,Sterappelgaard,46,,
-6831AP,Sterappelgaard,90,,
-6831AP,Sterappelgaard,96,,
-6831AP,Sterappelgaard,98,,
-6831AP,Sterappelgaard,74,,
-6831AR,Sterappelgaard,168,,
-6831AR,Sterappelgaard,124,,
-6831AR,Sterappelgaard,134,,
-6831AR,Sterappelgaard,174,,
-6831AR,Sterappelgaard,198,,
-6831AR,Sterappelgaard,136,,
-6831AR,Sterappelgaard,154,,
-6831AR,Sterappelgaard,176,,
-6831AS,Sterappelgaard,224,,
-6831AS,Sterappelgaard,236,,
-6831AS,Sterappelgaard,222,,
-6831BL,Benonigaard,15,,
-6831BL,Benonigaard,25,,
-6831BL,Benonigaard,17,,
-6831BL,Benonigaard,23,,
-6831BL,Benonigaard,29,,
-6831BL,Benonigaard,53,,
-6831BL,Benonigaard,41,,
-6831BM,Benonigaard,14,,
-6831BM,Benonigaard,30,,
-6831BM,Benonigaard,6,,
-6831BM,Benonigaard,38,,
-6831BH,Elstargaard,10,,
-6831BH,Elstargaard,8,,
-6831BA,Jonathangaard,23,,
-6831BA,Jonathangaard,21,,
-6831BB,Jonathangaard,6,,
-6831BD,IJzerappelgaard,2,,
-6831AB,Brinkenhofsestraat,32,,
-6831AB,Brinkenhofsestraat,14,,
-6831AB,Brinkenhofsestraat,48,,
-6831AB,Brinkenhofsestraat,35,,
-6831BS,Notarisappelgaard,6,,
-6831BS,Notarisappelgaard,10,,
-6831BS,Notarisappelgaard,20,,
-6831BS,Notarisappelgaard,1,,
-6831BS,Notarisappelgaard,11,,
-6831BT,Alkmenegaard,5,,
-6831BT,Alkmenegaard,7,,
-6831BV,Alkmenegaard,34,,
-6831BV,Alkmenegaard,26,,
-6831AE,De Overmaat,15,,
-6831AE,De Overmaat,5,,
-6831AE,De Overmaat,1,,
-6831AG,De Overmaat,73,,
-6831AH,De Overmaat,30,,
-6831AJ,De Overmaat,46,,
-6831AJ,De Overmaat,72,,
-6831AT,Goudreinetgaard,1,,
-6831AT,Goudreinetgaard,51,,
-6831AV,Goudreinetgaard,4,,
-6831AV,Goudreinetgaard,12,,
-6831AW,Bellefleurgaard,15,,
-6831AM,Sterappelgaard,125,,
-6831AM,Sterappelgaard,127,,
-6831AP,Sterappelgaard,78,,
-6831AP,Sterappelgaard,84,,
-6831AP,Sterappelgaard,66,,
-6831AP,Sterappelgaard,50,,
-6831AR,Sterappelgaard,150,,
-6831AR,Sterappelgaard,130,,
-6831AS,Sterappelgaard,234,,
-6831BL,Benonigaard,11,,
-6831BL,Benonigaard,19,,
-6831BH,Elstargaard,6,,
-6831BD,IJzerappelgaard,4,,
-6831BD,IJzerappelgaard,10,,
-6831AB,Brinkenhofsestraat,30,,
-6831AB,Brinkenhofsestraat,45,,
-6831AB,Brinkenhofsestraat,87,,
-6831AB,Brinkenhofsestraat,61,,
-6831AB,Brinkenhofsestraat,18,,
-6831AB,Brinkenhofsestraat,24,,
-6831AB,Brinkenhofsestraat,54,,
-6831AB,Brinkenhofsestraat,19,,
-6831AB,Brinkenhofsestraat,20,,
-6831AB,Brinkenhofsestraat,56,,
-6831AB,Brinkenhofsestraat,83,,
-6831BT,Alkmenegaard,3,,
-6831BV,Alkmenegaard,38,,
-6831BV,Alkmenegaard,8,,
-6831ZA,Burgemeester Matsersingel,30,,
-6831AE,De Overmaat,27,,
-6831AE,De Overmaat,33,,
-6831AE,De Overmaat,39,A,
-6831AG,De Overmaat,71,A,
-6831AH,De Overmaat,20,,
-6831AH,De Overmaat,8,,
-6831AJ,De Overmaat,46,A,
-6831AJ,De Overmaat,70,,
-6831AJ,De Overmaat,48,,
-6831AJ,De Overmaat,76,,
-6831AA,Huissensedijk,22,,
-6831AT,Goudreinetgaard,59,,
-6831AT,Goudreinetgaard,69,,
-6831AT,Goudreinetgaard,11,,
-6831AT,Goudreinetgaard,13,,
-6831AV,Goudreinetgaard,2,,
-6831AV,Goudreinetgaard,6,,
-6831AW,Bellefleurgaard,4,,
-6831AW,Bellefleurgaard,2,,
-6831AM,Sterappelgaard,161,,
-6831AM,Sterappelgaard,163,,
-6831AM,Sterappelgaard,147,,
-6831AM,Sterappelgaard,135,,
-6831AM,Sterappelgaard,149,,
-6831AP,Sterappelgaard,40,,
-6831AP,Sterappelgaard,104,,
-6831AP,Sterappelgaard,112,,
-6831AP,Sterappelgaard,54,,
-6831AP,Sterappelgaard,82,,
-6831AP,Sterappelgaard,106,,
-6831AR,Sterappelgaard,170,,
-6831AR,Sterappelgaard,148,,
-6831AR,Sterappelgaard,156,,
-6831AR,Sterappelgaard,164,,
-6831AR,Sterappelgaard,202,,
-6831AR,Sterappelgaard,158,,
-6831AS,Sterappelgaard,230,,
-6831BL,Benonigaard,33,,
-6831BL,Benonigaard,1,,
-6831BL,Benonigaard,5,,
-6831BL,Benonigaard,13,,
-6831BL,Benonigaard,27,,
-6831BL,Benonigaard,45,,
-6831BL,Benonigaard,49,,
-6831BL,Benonigaard,47,,
-6831BL,Benonigaard,7,,
-6831BL,Benonigaard,39,,
-6831BM,Benonigaard,36,,
-6831BM,Benonigaard,24,,
-6831BD,IJzerappelgaard,8,,
-6831AB,Brinkenhofsestraat,55,,
-6831AB,Brinkenhofsestraat,13,,
-6831AB,Brinkenhofsestraat,52,,
-6831AB,Brinkenhofsestraat,59,,
-6831AB,Brinkenhofsestraat,81,,
-6831BS,Notarisappelgaard,2,,
-6831BS,Notarisappelgaard,14,,
-6831BS,Notarisappelgaard,15,,
-6831BV,Alkmenegaard,32,,
-6831BV,Alkmenegaard,12,,
-6831BV,Alkmenegaard,30,,
-6831ZA,Burgemeester Matsersingel,10,,
-6831AE,De Overmaat,11,,
-6831AE,De Overmaat,31,,
-6831AH,De Overmaat,10,,
-6831AH,De Overmaat,24,,
-6831AJ,De Overmaat,42,,
-6831AJ,De Overmaat,44,,
-6831AT,Goudreinetgaard,61,,
-6831AT,Goudreinetgaard,3,,
-6831AT,Goudreinetgaard,9,,
-6831AT,Goudreinetgaard,43,,
-6831AT,Goudreinetgaard,67,,
-6831AT,Goudreinetgaard,71,,
-6831AT,Goudreinetgaard,47,,
-6831AW,Bellefleurgaard,6,,
-6831AM,Sterappelgaard,141,,
-6831AM,Sterappelgaard,145,,
-6831AP,Sterappelgaard,60,,
-6831AP,Sterappelgaard,94,,
-6831AP,Sterappelgaard,114,,
-6831AP,Sterappelgaard,64,,
-6831AP,Sterappelgaard,38,,
-6831AP,Sterappelgaard,58,,
-6831AP,Sterappelgaard,116,,
-6831AR,Sterappelgaard,142,,
-6831AR,Sterappelgaard,122,,
-6831AR,Sterappelgaard,146,,
-6831AR,Sterappelgaard,120,,
-6831AR,Sterappelgaard,160,,
-6831AR,Sterappelgaard,200,,
-6831AS,Sterappelgaard,214,,
-6831AS,Sterappelgaard,220,,
-6831AS,Sterappelgaard,226,,
-6831AS,Sterappelgaard,228,,
-6831BL,Benonigaard,51,,
-6831BL,Benonigaard,3,,
-6831BM,Benonigaard,40,,
-6831BM,Benonigaard,32,,
-6831BM,Benonigaard,10,,
-6831BM,Benonigaard,28,,
-6831BH,Elstargaard,2,,
-6831BA,Jonathangaard,19,,
-6831BA,Jonathangaard,25,,
-6831BB,Jonathangaard,8,,
-6831BD,IJzerappelgaard,6,,
-6831AB,Brinkenhofsestraat,11,,
-6831AB,Brinkenhofsestraat,71,,
-6831AB,Brinkenhofsestraat,17,,
-6831AB,Brinkenhofsestraat,36,,
-6831AB,Brinkenhofsestraat,44,,
-6831AB,Brinkenhofsestraat,57,,
-6831AB,Brinkenhofsestraat,79,,
-6831BS,Notarisappelgaard,13,,
-6831BT,Alkmenegaard,9,,
-6831BV,Alkmenegaard,4,,
-6831BV,Alkmenegaard,42,,
-6831AC,Mooieweg,5,,
-6831AH,De Overmaat,16,,
-6831AH,De Overmaat,36,A,
-6831AJ,De Overmaat,52,,
-6831AT,Goudreinetgaard,41,,
-6831AT,Goudreinetgaard,53,,
-6831AM,Sterappelgaard,137,,
-6831AM,Sterappelgaard,153,,
-6831AP,Sterappelgaard,88,,
-6831AP,Sterappelgaard,100,,
-6831AP,Sterappelgaard,108,,
-6831AP,Sterappelgaard,48,,
-6831AR,Sterappelgaard,118,,
-6831AR,Sterappelgaard,196,,
-6831AR,Sterappelgaard,194,,
-6831AR,Sterappelgaard,128,,
-6831AR,Sterappelgaard,178,,
-6831AR,Sterappelgaard,140,,
-6831AR,Sterappelgaard,180,,
-6831AR,Sterappelgaard,188,,
-6831AS,Sterappelgaard,242,,
-6831AS,Sterappelgaard,212,,
-6831AS,Sterappelgaard,218,,
-6831AS,Sterappelgaard,216,,
-6831AS,Sterappelgaard,232,,
-6831BL,Benonigaard,31,,
-6831BL,Benonigaard,37,,
-6831BM,Benonigaard,20,,
-6831BM,Benonigaard,8,,
-6831BA,Jonathangaard,9,,
-6831BA,Jonathangaard,5,,
-6831AB,Brinkenhofsestraat,12,,
-6831AB,Brinkenhofsestraat,85,,
-6831BS,Notarisappelgaard,3,,
-6831BS,Notarisappelgaard,4,,
-6831BS,Notarisappelgaard,18,,
-6831BT,Alkmenegaard,13,,
-6831BV,Alkmenegaard,6,,
-6831BV,Alkmenegaard,40,,
-6831BV,Alkmenegaard,44,,
-6831BV,Alkmenegaard,18,,
-6831AD,Mooieweg,2,,
-6831AE,De Overmaat,35,,
-6831AG,De Overmaat,51,,
-6831AH,De Overmaat,30,A,
-6831AH,De Overmaat,38,,
-6831AJ,De Overmaat,78,,
-6831AJ,De Overmaat,68,,
-6831AW,Bellefleurgaard,3,,
-6831AM,Sterappelgaard,159,,
-6831AP,Sterappelgaard,30,,
-6831AP,Sterappelgaard,86,,
-6831AP,Sterappelgaard,102,,
-6831AP,Sterappelgaard,76,,
-6831AP,Sterappelgaard,80,,
-6831AR,Sterappelgaard,126,,
-6831AR,Sterappelgaard,182,,
-6831BL,Benonigaard,65,,
-6831BL,Benonigaard,21,,
-6831BA,Jonathangaard,11,,
-6831BA,Jonathangaard,3,,
-6831BA,Jonathangaard,13,,
-6831BA,Jonathangaard,17,,
-6831BD,IJzerappelgaard,12,,
-6831AB,Brinkenhofsestraat,65,,
-6831AB,Brinkenhofsestraat,73,,
-6831AB,Brinkenhofsestraat,75,,
-6831AB,Brinkenhofsestraat,21,,
-6831AB,Brinkenhofsestraat,67,,
-6831AB,Brinkenhofsestraat,9,,
-6831AB,Brinkenhofsestraat,28,,
-6831AB,Brinkenhofsestraat,34,,
-6831AB,Brinkenhofsestraat,38,,
-6831BS,Notarisappelgaard,16,,
-6831BT,Alkmenegaard,15,,
-6831BV,Alkmenegaard,22,,
-6831BV,Alkmenegaard,28,,
-6831AD,Mooieweg,6,,
-6831AH,De Overmaat,22,,
-6831AJ,De Overmaat,54,,
-6831AJ,De Overmaat,92,,
-6831AJ,De Overmaat,78,A,
-6831AT,Goudreinetgaard,55,,
-6831AT,Goudreinetgaard,39,,
-6831AT,Goudreinetgaard,35,,
-6831AT,Goudreinetgaard,37,,
-6831AV,Goudreinetgaard,8,,
-6831AV,Goudreinetgaard,16,,
-6831AW,Bellefleurgaard,12,,
-6831AW,Bellefleurgaard,14,,
-6831AM,Sterappelgaard,143,,
-6831AM,Sterappelgaard,157,,
-6831AP,Sterappelgaard,36,,
-6831AP,Sterappelgaard,68,,
-6831AP,Sterappelgaard,70,,
-6831AR,Sterappelgaard,152,,
-6831AR,Sterappelgaard,206,,
-6831AR,Sterappelgaard,192,,
-6831BL,Benonigaard,9,,
-6831BL,Benonigaard,59,,
-6831BL,Benonigaard,61,,
-6831BM,Benonigaard,2,,
-6831BH,Elstargaard,4,,
-6831BB,Jonathangaard,4,,
-6831BD,IJzerappelgaard,14,,
-6831BD,IJzerappelgaard,18,,
-6831AB,Brinkenhofsestraat,26,,
-6831AB,Brinkenhofsestraat,58,,
-6831BS,Notarisappelgaard,8,,
-6831BS,Notarisappelgaard,12,,
-6831BT,Alkmenegaard,17,,
-6831BV,Alkmenegaard,10,,
-6831BV,Alkmenegaard,24,,
-6831ZA,Burgemeester Matsersingel,10,,
-6831AE,De Overmaat,19,,
-6831AE,De Overmaat,39,,
-6831AG,De Overmaat,69,,
-6831AG,De Overmaat,71,,
-6831AH,De Overmaat,26,,
-6831AH,De Overmaat,36,,
-6831AH,De Overmaat,24,,
-6831AH,De Overmaat,30,A,
-6831AH,De Overmaat,36,A,
-6831AJ,De Overmaat,60,,
-6831AJ,De Overmaat,90,A,
-6831AJ,De Overmaat,102,,
-6831AJ,De Overmaat,104,,
-6831AJ,De Overmaat,106,,
-6831AJ,De Overmaat,108,,
-6831AJ,De Overmaat,110,,
-6831AJ,De Overmaat,112,,
-6831AJ,De Overmaat,114,,
-6831AJ,De Overmaat,100,,
-6831AJ,De Overmaat,98,,
-6831AD,Mooieweg,8,,
-6831ZA,Burgemeester Matsersingel,38,,
-6831ZA,Burgemeester Matsersingel,36,,
-6831AE,De Overmaat,45,A,
-6831AE,De Overmaat,45,A,
-6831AE,De Overmaat,45,B,
-6831AE,De Overmaat,45,B,
-6831AE,De Overmaat,45,C,
-6831AE,De Overmaat,45,C,
-6831AE,De Overmaat,45,D,
-6831AE,De Overmaat,45,D,
-6831AE,De Overmaat,45,E,
-6831AE,De Overmaat,45,E,
-6831AE,De Overmaat,45,F,
-6831AE,De Overmaat,45,F,
-6831AE,De Overmaat,45,G,
-6831AE,De Overmaat,45,G,
-6831AE,De Overmaat,45,,
-6831AE,De Overmaat,45,H,
-6831AE,De Overmaat,45,H,
-6831AE,De Overmaat,33,A,
-6831AE,De Overmaat,33,B,
-6831AE,De Overmaat,33,C,
-6831AE,De Overmaat,33,D,
-6831AE,De Overmaat,33,E,
-6831AG,De Overmaat,69,,
-6831AG,De Overmaat,71,,
-6831AJ,De Overmaat,42,,
-6831AJ,De Overmaat,42,A,
-6831AJ,De Overmaat,52,,
-6831AE,De Overmaat,11,,
-6831AJ,De Overmaat,44,,
-6831AJ,De Overmaat,44,,
-6831AE,De Overmaat,29,,
-6831AG,De Overmaat,55,,
-6831AG,De Overmaat,55,,
-6831AG,De Overmaat,57,,
-6831AG,De Overmaat,57,,
-6831AG,De Overmaat,29,,
-6831AJ,De Overmaat,42,B,
-6831AJ,De Overmaat,42,A,
-6831AJ,De Overmaat,92,,1
-6831AJ,De Overmaat,92,,2
-6831AJ,De Overmaat,92,,3
-6831AJ,De Overmaat,92,,4
-6831AJ,De Overmaat,92,,5
-6831AJ,De Overmaat,92,,6
-6831AJ,De Overmaat,92,,7
-6831AJ,De Overmaat,92,,8
-6831AJ,De Overmaat,92,,9
-6831AJ,De Overmaat,92,,10
-6831AJ,De Overmaat,92,,11
-6831AJ,De Overmaat,92,,12
-6831AJ,De Overmaat,92,,13
-6831AJ,De Overmaat,92,,14
-6831AJ,De Overmaat,92,,15
-6831AJ,De Overmaat,92,,16
-6831AJ,De Overmaat,92,,17
-6831AJ,De Overmaat,92,,18
-6831AJ,De Overmaat,92,,19
-6831AJ,De Overmaat,92,,20
-6831AJ,De Overmaat,92,,21
-6831AJ,De Overmaat,92,,22
-6831AJ,De Overmaat,92,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Brinkenhofsestraat,14,"","",6831AB,Arnhem
+Brinkenhofsestraat,15,"","",6831AB,Arnhem
+Brinkenhofsestraat,16,"","",6831AB,Arnhem
+Brinkenhofsestraat,22,"","",6831AB,Arnhem
+Brinkenhofsestraat,32,"","",6831AB,Arnhem
+Brinkenhofsestraat,46,"","",6831AB,Arnhem
+Brinkenhofsestraat,48,"","",6831AB,Arnhem
+Brinkenhofsestraat,50,"","",6831AB,Arnhem
+Brinkenhofsestraat,63,"","",6831AB,Arnhem
+Brinkenhofsestraat,69,"","",6831AB,Arnhem
+Brinkenhofsestraat,7,"","",6831AB,Arnhem
+Brinkenhofsestraat,77,"","",6831AB,Arnhem
+De Overmaat,1,"","",6831AE,Arnhem
+De Overmaat,15,"","",6831AE,Arnhem
+De Overmaat,17,"","",6831AE,Arnhem
+De Overmaat,21,"","",6831AE,Arnhem
+De Overmaat,41,"","",6831AE,Arnhem
+De Overmaat,45,"","",6831AE,Arnhem
+De Overmaat,45,"","",6831AE,Arnhem
+De Overmaat,5,"","",6831AE,Arnhem
+De Overmaat,53,"","",6831AG,Arnhem
+De Overmaat,55,"","",6831AG,Arnhem
+De Overmaat,55,"","",6831AG,Arnhem
+De Overmaat,73,"","",6831AG,Arnhem
+De Overmaat,30,"","",6831AH,Arnhem
+De Overmaat,44,A,"",6831AJ,Arnhem
+De Overmaat,44,A,"",6831AJ,Arnhem
+De Overmaat,46,"","",6831AJ,Arnhem
+De Overmaat,50,"","",6831AJ,Arnhem
+De Overmaat,72,"","",6831AJ,Arnhem
+De Overmaat,74,"","",6831AJ,Arnhem
+De Overmaat,80,"","",6831AJ,Arnhem
+De Overmaat,90,"","",6831AJ,Arnhem
+Sterappelgaard,129,"","",6831AM,Arnhem
+Sterappelgaard,131,"","",6831AM,Arnhem
+Sterappelgaard,133,"","",6831AM,Arnhem
+Sterappelgaard,139,"","",6831AM,Arnhem
+Sterappelgaard,151,"","",6831AM,Arnhem
+Sterappelgaard,155,"","",6831AM,Arnhem
+Sterappelgaard,110,"","",6831AP,Arnhem
+Sterappelgaard,32,"","",6831AP,Arnhem
+Sterappelgaard,34,"","",6831AP,Arnhem
+Sterappelgaard,42,"","",6831AP,Arnhem
+Sterappelgaard,44,"","",6831AP,Arnhem
+Sterappelgaard,46,"","",6831AP,Arnhem
+Sterappelgaard,52,"","",6831AP,Arnhem
+Sterappelgaard,56,"","",6831AP,Arnhem
+Sterappelgaard,62,"","",6831AP,Arnhem
+Sterappelgaard,72,"","",6831AP,Arnhem
+Sterappelgaard,74,"","",6831AP,Arnhem
+Sterappelgaard,90,"","",6831AP,Arnhem
+Sterappelgaard,92,"","",6831AP,Arnhem
+Sterappelgaard,96,"","",6831AP,Arnhem
+Sterappelgaard,98,"","",6831AP,Arnhem
+Sterappelgaard,124,"","",6831AR,Arnhem
+Sterappelgaard,132,"","",6831AR,Arnhem
+Sterappelgaard,134,"","",6831AR,Arnhem
+Sterappelgaard,136,"","",6831AR,Arnhem
+Sterappelgaard,138,"","",6831AR,Arnhem
+Sterappelgaard,144,"","",6831AR,Arnhem
+Sterappelgaard,154,"","",6831AR,Arnhem
+Sterappelgaard,166,"","",6831AR,Arnhem
+Sterappelgaard,168,"","",6831AR,Arnhem
+Sterappelgaard,172,"","",6831AR,Arnhem
+Sterappelgaard,174,"","",6831AR,Arnhem
+Sterappelgaard,176,"","",6831AR,Arnhem
+Sterappelgaard,184,"","",6831AR,Arnhem
+Sterappelgaard,186,"","",6831AR,Arnhem
+Sterappelgaard,190,"","",6831AR,Arnhem
+Sterappelgaard,198,"","",6831AR,Arnhem
+Sterappelgaard,204,"","",6831AR,Arnhem
+Sterappelgaard,222,"","",6831AS,Arnhem
+Sterappelgaard,224,"","",6831AS,Arnhem
+Sterappelgaard,236,"","",6831AS,Arnhem
+Sterappelgaard,238,"","",6831AS,Arnhem
+Sterappelgaard,240,"","",6831AS,Arnhem
+Goudreinetgaard,33,"","",6831AT,Arnhem
+Goudreinetgaard,45,"","",6831AT,Arnhem
+Goudreinetgaard,49,"","",6831AT,Arnhem
+Goudreinetgaard,5,"","",6831AT,Arnhem
+Goudreinetgaard,57,"","",6831AT,Arnhem
+Goudreinetgaard,63,"","",6831AT,Arnhem
+Goudreinetgaard,65,"","",6831AT,Arnhem
+Goudreinetgaard,7,"","",6831AT,Arnhem
+Goudreinetgaard,10,"","",6831AV,Arnhem
+Goudreinetgaard,14,"","",6831AV,Arnhem
+Bellefleurgaard,1,"","",6831AW,Arnhem
+Bellefleurgaard,10,"","",6831AW,Arnhem
+Bellefleurgaard,11,"","",6831AW,Arnhem
+Bellefleurgaard,13,"","",6831AW,Arnhem
+Bellefleurgaard,16,"","",6831AW,Arnhem
+Bellefleurgaard,5,"","",6831AW,Arnhem
+Bellefleurgaard,7,"","",6831AW,Arnhem
+Bellefleurgaard,8,"","",6831AW,Arnhem
+Bellefleurgaard,9,"","",6831AW,Arnhem
+Jonathangaard,1,"","",6831BA,Arnhem
+Jonathangaard,15,"","",6831BA,Arnhem
+Jonathangaard,21,"","",6831BA,Arnhem
+Jonathangaard,23,"","",6831BA,Arnhem
+Jonathangaard,7,"","",6831BA,Arnhem
+IJzerappelgaard,2,"","",6831BD,Arnhem
+IJzerappelgaard,20,"","",6831BD,Arnhem
+Elstargaard,10,"","",6831BH,Arnhem
+Elstargaard,12,"","",6831BH,Arnhem
+Elstargaard,14,"","",6831BH,Arnhem
+Benonigaard,15,"","",6831BL,Arnhem
+Benonigaard,17,"","",6831BL,Arnhem
+Benonigaard,23,"","",6831BL,Arnhem
+Benonigaard,25,"","",6831BL,Arnhem
+Benonigaard,29,"","",6831BL,Arnhem
+Benonigaard,35,"","",6831BL,Arnhem
+Benonigaard,43,"","",6831BL,Arnhem
+Benonigaard,53,"","",6831BL,Arnhem
+Benonigaard,55,"","",6831BL,Arnhem
+Benonigaard,57,"","",6831BL,Arnhem
+Benonigaard,63,"","",6831BL,Arnhem
+Benonigaard,12,"","",6831BM,Arnhem
+Benonigaard,14,"","",6831BM,Arnhem
+Benonigaard,16,"","",6831BM,Arnhem
+Benonigaard,18,"","",6831BM,Arnhem
+Benonigaard,22,"","",6831BM,Arnhem
+Benonigaard,26,"","",6831BM,Arnhem
+Benonigaard,30,"","",6831BM,Arnhem
+Benonigaard,34,"","",6831BM,Arnhem
+Benonigaard,4,"","",6831BM,Arnhem
+Benonigaard,42,"","",6831BM,Arnhem
+Notarisappelgaard,1,"","",6831BS,Arnhem
+Notarisappelgaard,10,"","",6831BS,Arnhem
+Notarisappelgaard,20,"","",6831BS,Arnhem
+Notarisappelgaard,5,"","",6831BS,Arnhem
+Notarisappelgaard,6,"","",6831BS,Arnhem
+Notarisappelgaard,7,"","",6831BS,Arnhem
+Notarisappelgaard,9,"","",6831BS,Arnhem
+Alkmenegaard,1,"","",6831BT,Arnhem
+Alkmenegaard,11,"","",6831BT,Arnhem
+Alkmenegaard,5,"","",6831BT,Arnhem
+Alkmenegaard,14,"","",6831BV,Arnhem
+Alkmenegaard,2,"","",6831BV,Arnhem
+Alkmenegaard,20,"","",6831BV,Arnhem
+Alkmenegaard,34,"","",6831BV,Arnhem
+Alkmenegaard,36,"","",6831BV,Arnhem

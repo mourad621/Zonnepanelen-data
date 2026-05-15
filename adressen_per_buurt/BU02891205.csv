@@ -1,75 +1,75 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6701PB,Aan de Rijn,3,,
-6701PB,Aan de Rijn,14,C,
-6701PB,Aan de Rijn,15,,
-6701PB,Aan de Rijn,15,,
-6701PB,Aan de Rijn,14,H,
-6701PB,Aan de Rijn,14,G,
-6701PB,Aan de Rijn,14,F,
-6701PB,Aan de Rijn,1,,
-6701PB,Aan de Rijn,14,D,
-6701PB,Aan de Rijn,2,,
-6701PB,Aan de Rijn,14,B,
-6701PB,Aan de Rijn,14,A,
-6701PB,Aan de Rijn,4,A,
-6701PB,Aan de Rijn,11,,
-6701PB,Aan de Rijn,11,A,
-6701PB,Aan de Rijn,11,A,
-6701PB,Aan de Rijn,6,,
-6701PB,Aan de Rijn,6,T,
-6701PB,Aan de Rijn,5,,
-6701PB,Aan de Rijn,4,B,
-6701PB,Aan de Rijn,12,,
-6701PB,Aan de Rijn,14,E,
-6702PA,Blaauwe Kamer,5,,
-6702PA,Blaauwe Kamer,17,,
-6702PA,Blaauwe Kamer,17,,
-6702PA,Blaauwe Kamer,17,,
-6702PA,Blaauwe Kamer,16,,
-6702PA,Blaauwe Kamer,15,,
-6702PA,Blaauwe Kamer,14,,
-6702PA,Blaauwe Kamer,12,,
-6702PA,Blaauwe Kamer,11,,
-6702PA,Blaauwe Kamer,10,,
-6702PA,Blaauwe Kamer,8,,
-6702PA,Blaauwe Kamer,9,,
-6702PA,Blaauwe Kamer,6,,
-6702PA,Blaauwe Kamer,7,,
-6702PA,Blaauwe Kamer,4,,
-6702PA,Blaauwe Kamer,2,,
-6702PA,Blaauwe Kamer,1,,
-6702PB,Grebbedijk,57,,
-6702PB,Grebbedijk,59,,
-6702PB,Grebbedijk,22,,
-6702PB,Grebbedijk,12,A,
-6702PB,Grebbedijk,12,,
-6702PB,Grebbedijk,14,,
-6702PB,Grebbedijk,16,,
-6702PB,Grebbedijk,20,,
-6702DV,Jachthaven,1,,
-6701PZ,Maneswaard,1,,
-6701PZ,Maneswaard,2,,
-6701PZ,Maneswaard,3,,
-6701PZ,Maneswaard,4,,
-6701PZ,Maneswaard,5,,
-6701PC,Pabstsendam,1,,
-6701PC,Pabstsendam,14,T,
-6701PC,Pabstsendam,16,,
-6701PC,Pabstsendam,14,,
-6701PC,Pabstsendam,6,,
-6701PC,Pabstsendam,2,,
-6701PC,Pabstsendam,2,T,
-6703PA,Veerdam,1,,
-6703PB,Veerdam,2,,
-6703PB,Veerdam,2,T,
-6701PB,Aan de Rijn,5,A,
-6701PB,Aan de Rijn,11,A,
-6701PB,Aan de Rijn,15,,
-6701PB,Aan de Rijn,3,B,
-6702PA,Blaauwe Kamer,3,,
-6702PB,Grebbedijk,18,,
-6701PB,Aan de Rijn,5,A,
-6701PB,Aan de Rijn,6,,
-6701PB,Aan de Rijn,6,A,
-6702PB,Grebbedijk,57,A,
-6702PB,Grebbedijk,53,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Aan de Rijn,1,"","",6701PB,Wageningen
+Aan de Rijn,11,"","",6701PB,Wageningen
+Aan de Rijn,11,A,"",6701PB,Wageningen
+Aan de Rijn,11,A,"",6701PB,Wageningen
+Aan de Rijn,11,A,"",6701PB,Wageningen
+Aan de Rijn,12,"","",6701PB,Wageningen
+Aan de Rijn,14,A,"",6701PB,Wageningen
+Aan de Rijn,14,B,"",6701PB,Wageningen
+Aan de Rijn,14,C,"",6701PB,Wageningen
+Aan de Rijn,14,D,"",6701PB,Wageningen
+Aan de Rijn,14,E,"",6701PB,Wageningen
+Aan de Rijn,14,F,"",6701PB,Wageningen
+Aan de Rijn,14,G,"",6701PB,Wageningen
+Aan de Rijn,14,H,"",6701PB,Wageningen
+Aan de Rijn,15,"","",6701PB,Wageningen
+Aan de Rijn,15,"","",6701PB,Wageningen
+Aan de Rijn,15,"","",6701PB,Wageningen
+Aan de Rijn,2,"","",6701PB,Wageningen
+Aan de Rijn,3,"","",6701PB,Wageningen
+Aan de Rijn,3,B,"",6701PB,Wageningen
+Aan de Rijn,4,A,"",6701PB,Wageningen
+Aan de Rijn,4,B,"",6701PB,Wageningen
+Aan de Rijn,5,"","",6701PB,Wageningen
+Aan de Rijn,5,A,"",6701PB,Wageningen
+Aan de Rijn,5,A,"",6701PB,Wageningen
+Aan de Rijn,6,"","",6701PB,Wageningen
+Aan de Rijn,6,"","",6701PB,Wageningen
+Aan de Rijn,6,A,"",6701PB,Wageningen
+Aan de Rijn,6,T,"",6701PB,Wageningen
+Pabstsendam,1,"","",6701PC,Wageningen
+Pabstsendam,14,"","",6701PC,Wageningen
+Pabstsendam,14,T,"",6701PC,Wageningen
+Pabstsendam,16,"","",6701PC,Wageningen
+Pabstsendam,2,"","",6701PC,Wageningen
+Pabstsendam,2,T,"",6701PC,Wageningen
+Pabstsendam,6,"","",6701PC,Wageningen
+Maneswaard,1,"","",6701PZ,Wageningen
+Maneswaard,2,"","",6701PZ,Wageningen
+Maneswaard,3,"","",6701PZ,Wageningen
+Maneswaard,4,"","",6701PZ,Wageningen
+Maneswaard,5,"","",6701PZ,Wageningen
+Jachthaven,1,"","",6702DV,Wageningen
+Blaauwe Kamer,1,"","",6702PA,Wageningen
+Blaauwe Kamer,10,"","",6702PA,Wageningen
+Blaauwe Kamer,11,"","",6702PA,Wageningen
+Blaauwe Kamer,12,"","",6702PA,Wageningen
+Blaauwe Kamer,14,"","",6702PA,Wageningen
+Blaauwe Kamer,15,"","",6702PA,Wageningen
+Blaauwe Kamer,16,"","",6702PA,Wageningen
+Blaauwe Kamer,17,"","",6702PA,Wageningen
+Blaauwe Kamer,17,"","",6702PA,Wageningen
+Blaauwe Kamer,17,"","",6702PA,Wageningen
+Blaauwe Kamer,2,"","",6702PA,Wageningen
+Blaauwe Kamer,3,"","",6702PA,Wageningen
+Blaauwe Kamer,4,"","",6702PA,Wageningen
+Blaauwe Kamer,5,"","",6702PA,Wageningen
+Blaauwe Kamer,6,"","",6702PA,Wageningen
+Blaauwe Kamer,7,"","",6702PA,Wageningen
+Blaauwe Kamer,8,"","",6702PA,Wageningen
+Blaauwe Kamer,9,"","",6702PA,Wageningen
+Grebbedijk,12,"","",6702PB,Wageningen
+Grebbedijk,12,A,"",6702PB,Wageningen
+Grebbedijk,14,"","",6702PB,Wageningen
+Grebbedijk,16,"","",6702PB,Wageningen
+Grebbedijk,18,"","",6702PB,Wageningen
+Grebbedijk,20,"","",6702PB,Wageningen
+Grebbedijk,22,"","",6702PB,Wageningen
+Grebbedijk,53,"","",6702PB,Wageningen
+Grebbedijk,57,"","",6702PB,Wageningen
+Grebbedijk,57,A,"",6702PB,Wageningen
+Grebbedijk,59,"","",6702PB,Wageningen
+Veerdam,1,"","",6703PA,Wageningen
+Veerdam,2,"","",6703PB,Wageningen
+Veerdam,2,T,"",6703PB,Wageningen

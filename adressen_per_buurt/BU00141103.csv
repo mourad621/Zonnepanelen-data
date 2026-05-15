@@ -1,658 +1,330 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9731BW",10,"",""
-"9731BW",8,"",""
-"9731BW",10,"",""
-"9731BW",9,"",""
-"9731CX",1004,"",""
-"9731CX",1054,"",""
-"9731CX",1030,"",""
-"9731CX",1028,"",""
-"9731CX",1050,"",""
-"9731CX",1046,"",""
-"9731CX",1002,"",""
-"9731CX",1048,"",""
-"9731CX",1026,"",""
-"9731CX",1024,"",""
-"9731CX",1034,"",""
-"9731CX",1006,"",""
-"9731CX",1036,"",""
-"9731CX",1022,"",""
-"9731CX",1032,"",""
-"9731CX",1020,"",""
-"9731CX",1052,"",""
-"9731CX",1040,"",""
-"9731CX",1016,"",""
-"9731CX",1008,"",""
-"9731CX",1042,"",""
-"9731CX",1044,"",""
-"9731CX",1038,"",""
-"9731CX",1014,"",""
-"9731CX",1018,"",""
-"9731CX",1010,"",""
-"9731EB",10,"a",""
-"9731EB",10,"",""
-"9731EB",6,"",""
-"9731EB",4,"",""
-"9731KA",13,"",""
-"9731KA",5,"",""
-"9731KA",9,"",""
-"9731KA",3,"",""
-"9731KA",11,"",""
-"9731KA",25,"",""
-"9731KA",1,"",""
-"9731KA",23,"",""
-"9731KA",21,"",""
-"9731KA",7,"",""
-"9731KA",15,"",""
-"9731KA",27,"",""
-"9731KA",17,"",""
-"9731KA",19,"",""
-"9731KB",5,"",""
-"9731KB",6,"",""
-"9731KB",4,"",""
-"9731KB",15,"",""
-"9731KB",13,"",""
-"9731KB",7,"",""
-"9731KB",9,"",""
-"9731KB",2,"",""
-"9731KB",1,"",""
-"9731KB",17,"",""
-"9731KB",11,"",""
-"9731KB",3,"",""
-"9731KC",45,"",""
-"9731KC",39,"",""
-"9731KC",25,"",""
-"9731KC",43,"",""
-"9731KC",27,"",""
-"9731KC",23,"",""
-"9731KC",31,"",""
-"9731KC",19,"",""
-"9731KC",21,"",""
-"9731KC",29,"",""
-"9731KC",35,"",""
-"9731KC",33,"",""
-"9731KC",41,"",""
-"9731KC",37,"",""
-"9731KC",17,"",""
-"9731KC",15,"",""
-"9731KD",48,"",""
-"9731KD",12,"",""
-"9731KD",30,"",""
-"9731KD",10,"",""
-"9731KD",14,"",""
-"9731KD",46,"",""
-"9731KD",16,"",""
-"9731KD",22,"",""
-"9731KD",4,"",""
-"9731KD",52,"",""
-"9731KD",50,"",""
-"9731KD",26,"",""
-"9731KD",8,"",""
-"9731KD",28,"",""
-"9731KD",2,"",""
-"9731KD",40,"",""
-"9731KD",38,"",""
-"9731KD",32,"",""
-"9731KD",36,"",""
-"9731KD",44,"",""
-"9731KD",42,"",""
-"9731KD",24,"",""
-"9731KD",6,"",""
-"9731KD",34,"",""
-"9731KD",20,"",""
-"9731KD",18,"",""
-"9731KE",3,"",""
-"9731KE",55,"",""
-"9731KE",5,"",""
-"9731KE",53,"",""
-"9731KE",45,"",""
-"9731KE",43,"",""
-"9731KE",1,"",""
-"9731KE",49,"",""
-"9731KE",17,"",""
-"9731KE",27,"",""
-"9731KE",13,"",""
-"9731KE",51,"",""
-"9731KE",9,"",""
-"9731KE",19,"",""
-"9731KE",47,"",""
-"9731KE",23,"",""
-"9731KE",21,"",""
-"9731KE",39,"",""
-"9731KE",57,"",""
-"9731KE",59,"",""
-"9731KE",7,"",""
-"9731KE",29,"",""
-"9731KE",37,"",""
-"9731KE",25,"",""
-"9731KE",41,"",""
-"9731KE",63,"",""
-"9731KE",15,"",""
-"9731KE",11,"",""
-"9731KE",31,"",""
-"9731KE",61,"",""
-"9731KE",35,"",""
-"9731KE",33,"",""
-"9731KG",48,"",""
-"9731KG",40,"",""
-"9731KG",24,"",""
-"9731KG",42,"",""
-"9731KG",62,"",""
-"9731KG",26,"",""
-"9731KG",22,"",""
-"9731KG",46,"",""
-"9731KG",38,"",""
-"9731KG",28,"",""
-"9731KG",16,"",""
-"9731KG",34,"",""
-"9731KG",32,"",""
-"9731KG",58,"",""
-"9731KG",60,"",""
-"9731KG",18,"",""
-"9731KG",44,"",""
-"9731KG",64,"",""
-"9731KG",36,"",""
-"9731KG",54,"",""
-"9731KG",30,"",""
-"9731KG",50,"",""
-"9731KG",20,"",""
-"9731KG",56,"",""
-"9731KG",52,"",""
-"9731KH",1,"",""
-"9731KH",37,"",""
-"9731KH",7,"",""
-"9731KH",5,"",""
-"9731KH",39,"",""
-"9731KH",29,"",""
-"9731KH",19,"",""
-"9731KH",41,"",""
-"9731KH",11,"",""
-"9731KH",43,"",""
-"9731KH",27,"",""
-"9731KH",3,"",""
-"9731KH",23,"",""
-"9731KH",31,"",""
-"9731KH",33,"",""
-"9731KH",17,"",""
-"9731KH",15,"",""
-"9731KH",21,"",""
-"9731KH",25,"",""
-"9731KH",35,"",""
-"9731KH",9,"",""
-"9731KH",13,"",""
-"9731KJ",2,"",""
-"9731KJ",34,"",""
-"9731KJ",6,"",""
-"9731KJ",42,"",""
-"9731KJ",36,"",""
-"9731KJ",10,"",""
-"9731KJ",44,"",""
-"9731KJ",32,"",""
-"9731KJ",8,"",""
-"9731KJ",40,"",""
-"9731KJ",12,"",""
-"9731KJ",38,"",""
-"9731KJ",16,"",""
-"9731KJ",24,"",""
-"9731KJ",18,"",""
-"9731KJ",20,"",""
-"9731KJ",22,"",""
-"9731KJ",30,"",""
-"9731KJ",14,"",""
-"9731KJ",26,"",""
-"9731KJ",28,"",""
-"9731KJ",4,"",""
-"9731KK",49,"",""
-"9731KK",73,"",""
-"9731KK",35,"",""
-"9731KK",79,"",""
-"9731KK",53,"",""
-"9731KK",71,"",""
-"9731KK",51,"",""
-"9731KK",61,"",""
-"9731KK",59,"",""
-"9731KK",75,"",""
-"9731KK",69,"",""
-"9731KK",77,"",""
-"9731KK",33,"",""
-"9731KK",55,"",""
-"9731KK",67,"",""
-"9731KK",65,"",""
-"9731KK",63,"",""
-"9731KK",57,"",""
-"9731KK",31,"",""
-"9731KK",41,"",""
-"9731KK",83,"",""
-"9731KK",37,"",""
-"9731KK",43,"",""
-"9731KK",45,"",""
-"9731KK",47,"",""
-"9731KK",81,"",""
-"9731KK",39,"",""
-"9731KL",48,"",""
-"9731KL",8,"",""
-"9731KL",10,"",""
-"9731KL",36,"",""
-"9731KL",34,"",""
-"9731KL",72,"",""
-"9731KL",68,"",""
-"9731KL",32,"",""
-"9731KL",74,"",""
-"9731KL",6,"",""
-"9731KL",78,"",""
-"9731KL",4,"",""
-"9731KL",58,"",""
-"9731KL",64,"",""
-"9731KL",40,"",""
-"9731KL",12,"",""
-"9731KL",38,"",""
-"9731KL",66,"",""
-"9731KL",80,"",""
-"9731KL",22,"",""
-"9731KL",62,"",""
-"9731KL",54,"",""
-"9731KL",70,"",""
-"9731KL",30,"",""
-"9731KL",44,"",""
-"9731KL",82,"",""
-"9731KL",46,"",""
-"9731KL",76,"",""
-"9731KL",28,"",""
-"9731KL",20,"",""
-"9731KL",60,"",""
-"9731KL",2,"",""
-"9731KL",18,"",""
-"9731KL",24,"",""
-"9731KL",42,"",""
-"9731KL",14,"",""
-"9731KL",26,"",""
-"9731KL",52,"",""
-"9731KL",56,"",""
-"9731KL",50,"",""
-"9731KL",16,"",""
-"9731KM",41,"",""
-"9731KM",19,"",""
-"9731KM",35,"",""
-"9731KM",17,"",""
-"9731KM",15,"",""
-"9731KM",55,"",""
-"9731KM",33,"",""
-"9731KM",31,"",""
-"9731KM",23,"",""
-"9731KM",45,"",""
-"9731KM",43,"",""
-"9731KM",25,"",""
-"9731KM",37,"",""
-"9731KM",27,"",""
-"9731KM",21,"",""
-"9731KM",39,"",""
-"9731KM",29,"",""
-"9731KM",47,"",""
-"9731KM",53,"",""
-"9731KM",49,"",""
-"9731KM",51,"",""
-"9731KN",20,"",""
-"9731KN",32,"",""
-"9731KN",40,"",""
-"9731KN",24,"",""
-"9731KN",30,"",""
-"9731KN",28,"",""
-"9731KN",4,"",""
-"9731KN",46,"",""
-"9731KN",38,"",""
-"9731KN",36,"",""
-"9731KN",26,"",""
-"9731KN",22,"",""
-"9731KN",18,"",""
-"9731KN",42,"",""
-"9731KN",14,"",""
-"9731KN",10,"",""
-"9731KN",44,"",""
-"9731KN",16,"",""
-"9731KN",50,"",""
-"9731KN",34,"",""
-"9731KN",2,"",""
-"9731KN",6,"",""
-"9731KN",12,"",""
-"9731KN",8,"",""
-"9731KN",48,"",""
-"9731KP",12,"",""
-"9731KP",1,"",""
-"9731KP",5,"",""
-"9731KP",7,"",""
-"9731KP",10,"",""
-"9731KP",8,"",""
-"9731KP",4,"",""
-"9731KP",14,"",""
-"9731KP",3,"",""
-"9731KP",6,"",""
-"9731KP",2,"",""
-"9731KP",16,"",""
-9731BW,Heerdenpad,10,,
-9731EB,Beijumerweg,6,,
-9731EB,Beijumerweg,4,,
-9731CX,Beijumerweg,1054,,
-9731CX,Beijumerweg,1052,,
-9731CX,Beijumerweg,1048,,
-9731CX,Beijumerweg,1046,,
-9731CX,Beijumerweg,1044,,
-9731CX,Beijumerweg,1042,,
-9731CX,Beijumerweg,1040,,
-9731CX,Beijumerweg,1038,,
-9731CX,Beijumerweg,1032,,
-9731CX,Beijumerweg,1030,,
-9731CX,Beijumerweg,1028,,
-9731CX,Beijumerweg,1022,,
-9731CX,Beijumerweg,1020,,
-9731CX,Beijumerweg,1018,,
-9731CX,Beijumerweg,1016,,
-9731CX,Beijumerweg,1004,,
-9731CX,Beijumerweg,1002,,
-9731CX,Beijumerweg,1034,,
-9731CX,Beijumerweg,1024,,
-9731CX,Beijumerweg,1050,,
-9731CX,Beijumerweg,1036,,
-9731CX,Beijumerweg,1006,,
-9731CX,Beijumerweg,1008,,
-9731CX,Beijumerweg,1014,,
-9731CX,Beijumerweg,1026,,
-9731CX,Beijumerweg,1010,,
-9731BW,Heerdenpad,9,,
-9731BW,Heerdenpad,8,,
-9731KK,Appie Groenlaan,63,,
-9731KK,Appie Groenlaan,65,,
-9731KK,Appie Groenlaan,67,,
-9731KK,Appie Groenlaan,69,,
-9731KK,Appie Groenlaan,71,,
-9731KK,Appie Groenlaan,73,,
-9731KK,Appie Groenlaan,75,,
-9731KK,Appie Groenlaan,77,,
-9731KK,Appie Groenlaan,79,,
-9731KK,Appie Groenlaan,81,,
-9731KK,Appie Groenlaan,31,,
-9731KK,Appie Groenlaan,33,,
-9731KK,Appie Groenlaan,35,,
-9731KK,Appie Groenlaan,37,,
-9731KK,Appie Groenlaan,39,,
-9731KK,Appie Groenlaan,41,,
-9731KK,Appie Groenlaan,43,,
-9731KK,Appie Groenlaan,45,,
-9731KK,Appie Groenlaan,47,,
-9731KK,Appie Groenlaan,49,,
-9731KK,Appie Groenlaan,51,,
-9731KK,Appie Groenlaan,53,,
-9731KK,Appie Groenlaan,55,,
-9731KK,Appie Groenlaan,57,,
-9731KK,Appie Groenlaan,59,,
-9731KK,Appie Groenlaan,61,,
-9731KK,Appie Groenlaan,83,,
-9731KL,Appie Groenlaan,2,,
-9731KL,Appie Groenlaan,4,,
-9731KL,Appie Groenlaan,6,,
-9731KL,Appie Groenlaan,8,,
-9731KL,Appie Groenlaan,10,,
-9731KL,Appie Groenlaan,12,,
-9731KL,Appie Groenlaan,14,,
-9731KL,Appie Groenlaan,16,,
-9731KL,Appie Groenlaan,18,,
-9731KL,Appie Groenlaan,20,,
-9731KL,Appie Groenlaan,22,,
-9731KL,Appie Groenlaan,24,,
-9731KL,Appie Groenlaan,26,,
-9731KL,Appie Groenlaan,28,,
-9731KL,Appie Groenlaan,30,,
-9731KL,Appie Groenlaan,32,,
-9731KL,Appie Groenlaan,34,,
-9731KL,Appie Groenlaan,36,,
-9731KL,Appie Groenlaan,38,,
-9731KL,Appie Groenlaan,40,,
-9731KL,Appie Groenlaan,42,,
-9731KL,Appie Groenlaan,44,,
-9731KL,Appie Groenlaan,46,,
-9731KL,Appie Groenlaan,48,,
-9731KL,Appie Groenlaan,50,,
-9731KL,Appie Groenlaan,52,,
-9731KL,Appie Groenlaan,54,,
-9731KL,Appie Groenlaan,56,,
-9731KL,Appie Groenlaan,58,,
-9731KL,Appie Groenlaan,60,,
-9731KL,Appie Groenlaan,62,,
-9731KL,Appie Groenlaan,64,,
-9731KL,Appie Groenlaan,66,,
-9731KL,Appie Groenlaan,68,,
-9731KL,Appie Groenlaan,70,,
-9731KL,Appie Groenlaan,72,,
-9731KL,Appie Groenlaan,74,,
-9731KL,Appie Groenlaan,76,,
-9731KL,Appie Groenlaan,78,,
-9731KL,Appie Groenlaan,80,,
-9731KL,Appie Groenlaan,82,,
-9731EB,Beijumerweg,10,,
-9731EB,Beijumerweg,10,a,
-9731KA,Hans Tetznerlaan,1,,
-9731KA,Hans Tetznerlaan,3,,
-9731KA,Hans Tetznerlaan,5,,
-9731KA,Hans Tetznerlaan,7,,
-9731KA,Hans Tetznerlaan,9,,
-9731KA,Hans Tetznerlaan,11,,
-9731KA,Hans Tetznerlaan,13,,
-9731KA,Hans Tetznerlaan,15,,
-9731KA,Hans Tetznerlaan,17,,
-9731KA,Hans Tetznerlaan,19,,
-9731KA,Hans Tetznerlaan,21,,
-9731KA,Hans Tetznerlaan,23,,
-9731KA,Hans Tetznerlaan,25,,
-9731KA,Hans Tetznerlaan,27,,
-9731KE,Henk Plenterlaan,49,,
-9731KE,Henk Plenterlaan,51,,
-9731KE,Henk Plenterlaan,53,,
-9731KE,Henk Plenterlaan,55,,
-9731KE,Henk Plenterlaan,57,,
-9731KE,Henk Plenterlaan,59,,
-9731KE,Henk Plenterlaan,61,,
-9731KE,Henk Plenterlaan,63,,
-9731KE,Henk Plenterlaan,1,,
-9731KE,Henk Plenterlaan,3,,
-9731KE,Henk Plenterlaan,5,,
-9731KE,Henk Plenterlaan,7,,
-9731KE,Henk Plenterlaan,9,,
-9731KE,Henk Plenterlaan,11,,
-9731KE,Henk Plenterlaan,13,,
-9731KE,Henk Plenterlaan,15,,
-9731KE,Henk Plenterlaan,17,,
-9731KE,Henk Plenterlaan,19,,
-9731KE,Henk Plenterlaan,21,,
-9731KE,Henk Plenterlaan,23,,
-9731KE,Henk Plenterlaan,25,,
-9731KE,Henk Plenterlaan,27,,
-9731KE,Henk Plenterlaan,29,,
-9731KE,Henk Plenterlaan,31,,
-9731KE,Henk Plenterlaan,33,,
-9731KE,Henk Plenterlaan,35,,
-9731KE,Henk Plenterlaan,37,,
-9731KE,Henk Plenterlaan,39,,
-9731KE,Henk Plenterlaan,41,,
-9731KE,Henk Plenterlaan,43,,
-9731KE,Henk Plenterlaan,45,,
-9731KE,Henk Plenterlaan,47,,
-9731KG,Henk Plenterlaan,16,,
-9731KG,Henk Plenterlaan,18,,
-9731KG,Henk Plenterlaan,20,,
-9731KG,Henk Plenterlaan,22,,
-9731KG,Henk Plenterlaan,24,,
-9731KG,Henk Plenterlaan,26,,
-9731KG,Henk Plenterlaan,28,,
-9731KG,Henk Plenterlaan,30,,
-9731KG,Henk Plenterlaan,32,,
-9731KG,Henk Plenterlaan,34,,
-9731KG,Henk Plenterlaan,36,,
-9731KG,Henk Plenterlaan,38,,
-9731KG,Henk Plenterlaan,40,,
-9731KG,Henk Plenterlaan,42,,
-9731KG,Henk Plenterlaan,44,,
-9731KG,Henk Plenterlaan,46,,
-9731KG,Henk Plenterlaan,48,,
-9731KG,Henk Plenterlaan,50,,
-9731KG,Henk Plenterlaan,52,,
-9731KG,Henk Plenterlaan,54,,
-9731KG,Henk Plenterlaan,56,,
-9731KG,Henk Plenterlaan,58,,
-9731KG,Henk Plenterlaan,60,,
-9731KG,Henk Plenterlaan,62,,
-9731KG,Henk Plenterlaan,64,,
-9731KM,Klaas Buistlaan,15,,
-9731KM,Klaas Buistlaan,17,,
-9731KM,Klaas Buistlaan,19,,
-9731KM,Klaas Buistlaan,21,,
-9731KM,Klaas Buistlaan,23,,
-9731KM,Klaas Buistlaan,25,,
-9731KM,Klaas Buistlaan,27,,
-9731KM,Klaas Buistlaan,29,,
-9731KM,Klaas Buistlaan,31,,
-9731KM,Klaas Buistlaan,33,,
-9731KM,Klaas Buistlaan,35,,
-9731KM,Klaas Buistlaan,37,,
-9731KM,Klaas Buistlaan,39,,
-9731KM,Klaas Buistlaan,41,,
-9731KM,Klaas Buistlaan,43,,
-9731KM,Klaas Buistlaan,45,,
-9731KM,Klaas Buistlaan,47,,
-9731KM,Klaas Buistlaan,49,,
-9731KM,Klaas Buistlaan,51,,
-9731KM,Klaas Buistlaan,53,,
-9731KM,Klaas Buistlaan,55,,
-9731KN,Klaas Buistlaan,18,,
-9731KN,Klaas Buistlaan,20,,
-9731KN,Klaas Buistlaan,22,,
-9731KN,Klaas Buistlaan,24,,
-9731KN,Klaas Buistlaan,26,,
-9731KN,Klaas Buistlaan,28,,
-9731KN,Klaas Buistlaan,30,,
-9731KN,Klaas Buistlaan,32,,
-9731KN,Klaas Buistlaan,34,,
-9731KN,Klaas Buistlaan,36,,
-9731KN,Klaas Buistlaan,38,,
-9731KN,Klaas Buistlaan,40,,
-9731KN,Klaas Buistlaan,42,,
-9731KN,Klaas Buistlaan,44,,
-9731KN,Klaas Buistlaan,46,,
-9731KN,Klaas Buistlaan,48,,
-9731KN,Klaas Buistlaan,50,,
-9731KN,Klaas Buistlaan,2,,
-9731KN,Klaas Buistlaan,4,,
-9731KN,Klaas Buistlaan,6,,
-9731KN,Klaas Buistlaan,8,,
-9731KN,Klaas Buistlaan,10,,
-9731KN,Klaas Buistlaan,12,,
-9731KN,Klaas Buistlaan,14,,
-9731KN,Klaas Buistlaan,16,,
-9731KC,Klaas Schipperlaan,15,,
-9731KC,Klaas Schipperlaan,17,,
-9731KC,Klaas Schipperlaan,19,,
-9731KC,Klaas Schipperlaan,21,,
-9731KC,Klaas Schipperlaan,23,,
-9731KC,Klaas Schipperlaan,25,,
-9731KC,Klaas Schipperlaan,27,,
-9731KC,Klaas Schipperlaan,29,,
-9731KC,Klaas Schipperlaan,31,,
-9731KC,Klaas Schipperlaan,33,,
-9731KC,Klaas Schipperlaan,35,,
-9731KC,Klaas Schipperlaan,37,,
-9731KC,Klaas Schipperlaan,39,,
-9731KC,Klaas Schipperlaan,41,,
-9731KC,Klaas Schipperlaan,43,,
-9731KC,Klaas Schipperlaan,45,,
-9731KD,Klaas Schipperlaan,2,,
-9731KD,Klaas Schipperlaan,4,,
-9731KD,Klaas Schipperlaan,6,,
-9731KD,Klaas Schipperlaan,8,,
-9731KD,Klaas Schipperlaan,10,,
-9731KD,Klaas Schipperlaan,12,,
-9731KD,Klaas Schipperlaan,14,,
-9731KD,Klaas Schipperlaan,16,,
-9731KD,Klaas Schipperlaan,18,,
-9731KD,Klaas Schipperlaan,20,,
-9731KD,Klaas Schipperlaan,22,,
-9731KD,Klaas Schipperlaan,24,,
-9731KD,Klaas Schipperlaan,26,,
-9731KD,Klaas Schipperlaan,28,,
-9731KD,Klaas Schipperlaan,30,,
-9731KD,Klaas Schipperlaan,32,,
-9731KD,Klaas Schipperlaan,34,,
-9731KD,Klaas Schipperlaan,36,,
-9731KD,Klaas Schipperlaan,38,,
-9731KD,Klaas Schipperlaan,40,,
-9731KD,Klaas Schipperlaan,42,,
-9731KD,Klaas Schipperlaan,44,,
-9731KD,Klaas Schipperlaan,46,,
-9731KD,Klaas Schipperlaan,48,,
-9731KD,Klaas Schipperlaan,50,,
-9731KD,Klaas Schipperlaan,52,,
-9731KP,Otto Bonsemalaan,7,,
-9731KP,Otto Bonsemalaan,3,,
-9731KP,Otto Bonsemalaan,1,,
-9731KP,Otto Bonsemalaan,5,,
-9731KP,Otto Bonsemalaan,4,,
-9731KP,Otto Bonsemalaan,6,,
-9731KP,Otto Bonsemalaan,8,,
-9731KP,Otto Bonsemalaan,10,,
-9731KP,Otto Bonsemalaan,12,,
-9731KP,Otto Bonsemalaan,14,,
-9731KP,Otto Bonsemalaan,16,,
-9731KP,Otto Bonsemalaan,2,,
-9731KB,Siebold Sissinghlaan,4,,
-9731KB,Siebold Sissinghlaan,2,,
-9731KB,Siebold Sissinghlaan,6,,
-9731KB,Siebold Sissinghlaan,1,,
-9731KB,Siebold Sissinghlaan,3,,
-9731KB,Siebold Sissinghlaan,5,,
-9731KB,Siebold Sissinghlaan,7,,
-9731KB,Siebold Sissinghlaan,9,,
-9731KB,Siebold Sissinghlaan,11,,
-9731KB,Siebold Sissinghlaan,13,,
-9731KB,Siebold Sissinghlaan,15,,
-9731KB,Siebold Sissinghlaan,17,,
-9731KH,Tonny van Leeuwenlaan,1,,
-9731KH,Tonny van Leeuwenlaan,3,,
-9731KH,Tonny van Leeuwenlaan,5,,
-9731KH,Tonny van Leeuwenlaan,7,,
-9731KH,Tonny van Leeuwenlaan,9,,
-9731KH,Tonny van Leeuwenlaan,11,,
-9731KH,Tonny van Leeuwenlaan,13,,
-9731KH,Tonny van Leeuwenlaan,15,,
-9731KH,Tonny van Leeuwenlaan,17,,
-9731KH,Tonny van Leeuwenlaan,19,,
-9731KH,Tonny van Leeuwenlaan,21,,
-9731KH,Tonny van Leeuwenlaan,23,,
-9731KH,Tonny van Leeuwenlaan,25,,
-9731KH,Tonny van Leeuwenlaan,27,,
-9731KH,Tonny van Leeuwenlaan,29,,
-9731KH,Tonny van Leeuwenlaan,31,,
-9731KH,Tonny van Leeuwenlaan,33,,
-9731KH,Tonny van Leeuwenlaan,35,,
-9731KH,Tonny van Leeuwenlaan,37,,
-9731KH,Tonny van Leeuwenlaan,39,,
-9731KH,Tonny van Leeuwenlaan,41,,
-9731KH,Tonny van Leeuwenlaan,43,,
-9731KJ,Tonny van Leeuwenlaan,2,,
-9731KJ,Tonny van Leeuwenlaan,4,,
-9731KJ,Tonny van Leeuwenlaan,6,,
-9731KJ,Tonny van Leeuwenlaan,8,,
-9731KJ,Tonny van Leeuwenlaan,10,,
-9731KJ,Tonny van Leeuwenlaan,12,,
-9731KJ,Tonny van Leeuwenlaan,14,,
-9731KJ,Tonny van Leeuwenlaan,16,,
-9731KJ,Tonny van Leeuwenlaan,18,,
-9731KJ,Tonny van Leeuwenlaan,20,,
-9731KJ,Tonny van Leeuwenlaan,22,,
-9731KJ,Tonny van Leeuwenlaan,24,,
-9731KJ,Tonny van Leeuwenlaan,26,,
-9731KJ,Tonny van Leeuwenlaan,28,,
-9731KJ,Tonny van Leeuwenlaan,30,,
-9731KJ,Tonny van Leeuwenlaan,32,,
-9731KJ,Tonny van Leeuwenlaan,34,,
-9731KJ,Tonny van Leeuwenlaan,36,,
-9731KJ,Tonny van Leeuwenlaan,38,,
-9731KJ,Tonny van Leeuwenlaan,40,,
-9731KJ,Tonny van Leeuwenlaan,42,,
-9731KJ,Tonny van Leeuwenlaan,44,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heerdenpad,10,"","",9731BW,Groningen
+Heerdenpad,10,"","",9731BW,Groningen
+Heerdenpad,8,"","",9731BW,Groningen
+Heerdenpad,9,"","",9731BW,Groningen
+Beijumerweg,1002,"","",9731CX,Groningen
+Beijumerweg,1004,"","",9731CX,Groningen
+Beijumerweg,1006,"","",9731CX,Groningen
+Beijumerweg,1008,"","",9731CX,Groningen
+Beijumerweg,1010,"","",9731CX,Groningen
+Beijumerweg,1014,"","",9731CX,Groningen
+Beijumerweg,1016,"","",9731CX,Groningen
+Beijumerweg,1018,"","",9731CX,Groningen
+Beijumerweg,1020,"","",9731CX,Groningen
+Beijumerweg,1022,"","",9731CX,Groningen
+Beijumerweg,1024,"","",9731CX,Groningen
+Beijumerweg,1026,"","",9731CX,Groningen
+Beijumerweg,1028,"","",9731CX,Groningen
+Beijumerweg,1030,"","",9731CX,Groningen
+Beijumerweg,1032,"","",9731CX,Groningen
+Beijumerweg,1034,"","",9731CX,Groningen
+Beijumerweg,1036,"","",9731CX,Groningen
+Beijumerweg,1038,"","",9731CX,Groningen
+Beijumerweg,1040,"","",9731CX,Groningen
+Beijumerweg,1042,"","",9731CX,Groningen
+Beijumerweg,1044,"","",9731CX,Groningen
+Beijumerweg,1046,"","",9731CX,Groningen
+Beijumerweg,1048,"","",9731CX,Groningen
+Beijumerweg,1050,"","",9731CX,Groningen
+Beijumerweg,1052,"","",9731CX,Groningen
+Beijumerweg,1054,"","",9731CX,Groningen
+Beijumerweg,10,"","",9731EB,Groningen
+Beijumerweg,10,A,"",9731EB,Groningen
+Beijumerweg,4,"","",9731EB,Groningen
+Beijumerweg,6,"","",9731EB,Groningen
+Hans Tetznerlaan,1,"","",9731KA,Groningen
+Hans Tetznerlaan,11,"","",9731KA,Groningen
+Hans Tetznerlaan,13,"","",9731KA,Groningen
+Hans Tetznerlaan,15,"","",9731KA,Groningen
+Hans Tetznerlaan,17,"","",9731KA,Groningen
+Hans Tetznerlaan,19,"","",9731KA,Groningen
+Hans Tetznerlaan,21,"","",9731KA,Groningen
+Hans Tetznerlaan,23,"","",9731KA,Groningen
+Hans Tetznerlaan,25,"","",9731KA,Groningen
+Hans Tetznerlaan,27,"","",9731KA,Groningen
+Hans Tetznerlaan,3,"","",9731KA,Groningen
+Hans Tetznerlaan,5,"","",9731KA,Groningen
+Hans Tetznerlaan,7,"","",9731KA,Groningen
+Hans Tetznerlaan,9,"","",9731KA,Groningen
+Siebold Sissinghlaan,1,"","",9731KB,Groningen
+Siebold Sissinghlaan,11,"","",9731KB,Groningen
+Siebold Sissinghlaan,13,"","",9731KB,Groningen
+Siebold Sissinghlaan,15,"","",9731KB,Groningen
+Siebold Sissinghlaan,17,"","",9731KB,Groningen
+Siebold Sissinghlaan,2,"","",9731KB,Groningen
+Siebold Sissinghlaan,3,"","",9731KB,Groningen
+Siebold Sissinghlaan,4,"","",9731KB,Groningen
+Siebold Sissinghlaan,5,"","",9731KB,Groningen
+Siebold Sissinghlaan,6,"","",9731KB,Groningen
+Siebold Sissinghlaan,7,"","",9731KB,Groningen
+Siebold Sissinghlaan,9,"","",9731KB,Groningen
+Klaas Schipperlaan,15,"","",9731KC,Groningen
+Klaas Schipperlaan,17,"","",9731KC,Groningen
+Klaas Schipperlaan,19,"","",9731KC,Groningen
+Klaas Schipperlaan,21,"","",9731KC,Groningen
+Klaas Schipperlaan,23,"","",9731KC,Groningen
+Klaas Schipperlaan,25,"","",9731KC,Groningen
+Klaas Schipperlaan,27,"","",9731KC,Groningen
+Klaas Schipperlaan,29,"","",9731KC,Groningen
+Klaas Schipperlaan,31,"","",9731KC,Groningen
+Klaas Schipperlaan,33,"","",9731KC,Groningen
+Klaas Schipperlaan,35,"","",9731KC,Groningen
+Klaas Schipperlaan,37,"","",9731KC,Groningen
+Klaas Schipperlaan,39,"","",9731KC,Groningen
+Klaas Schipperlaan,41,"","",9731KC,Groningen
+Klaas Schipperlaan,43,"","",9731KC,Groningen
+Klaas Schipperlaan,45,"","",9731KC,Groningen
+Klaas Schipperlaan,10,"","",9731KD,Groningen
+Klaas Schipperlaan,12,"","",9731KD,Groningen
+Klaas Schipperlaan,14,"","",9731KD,Groningen
+Klaas Schipperlaan,16,"","",9731KD,Groningen
+Klaas Schipperlaan,18,"","",9731KD,Groningen
+Klaas Schipperlaan,2,"","",9731KD,Groningen
+Klaas Schipperlaan,20,"","",9731KD,Groningen
+Klaas Schipperlaan,22,"","",9731KD,Groningen
+Klaas Schipperlaan,24,"","",9731KD,Groningen
+Klaas Schipperlaan,26,"","",9731KD,Groningen
+Klaas Schipperlaan,28,"","",9731KD,Groningen
+Klaas Schipperlaan,30,"","",9731KD,Groningen
+Klaas Schipperlaan,32,"","",9731KD,Groningen
+Klaas Schipperlaan,34,"","",9731KD,Groningen
+Klaas Schipperlaan,36,"","",9731KD,Groningen
+Klaas Schipperlaan,38,"","",9731KD,Groningen
+Klaas Schipperlaan,4,"","",9731KD,Groningen
+Klaas Schipperlaan,40,"","",9731KD,Groningen
+Klaas Schipperlaan,42,"","",9731KD,Groningen
+Klaas Schipperlaan,44,"","",9731KD,Groningen
+Klaas Schipperlaan,46,"","",9731KD,Groningen
+Klaas Schipperlaan,48,"","",9731KD,Groningen
+Klaas Schipperlaan,50,"","",9731KD,Groningen
+Klaas Schipperlaan,52,"","",9731KD,Groningen
+Klaas Schipperlaan,6,"","",9731KD,Groningen
+Klaas Schipperlaan,8,"","",9731KD,Groningen
+Henk Plenterlaan,1,"","",9731KE,Groningen
+Henk Plenterlaan,11,"","",9731KE,Groningen
+Henk Plenterlaan,13,"","",9731KE,Groningen
+Henk Plenterlaan,15,"","",9731KE,Groningen
+Henk Plenterlaan,17,"","",9731KE,Groningen
+Henk Plenterlaan,19,"","",9731KE,Groningen
+Henk Plenterlaan,21,"","",9731KE,Groningen
+Henk Plenterlaan,23,"","",9731KE,Groningen
+Henk Plenterlaan,25,"","",9731KE,Groningen
+Henk Plenterlaan,27,"","",9731KE,Groningen
+Henk Plenterlaan,29,"","",9731KE,Groningen
+Henk Plenterlaan,3,"","",9731KE,Groningen
+Henk Plenterlaan,31,"","",9731KE,Groningen
+Henk Plenterlaan,33,"","",9731KE,Groningen
+Henk Plenterlaan,35,"","",9731KE,Groningen
+Henk Plenterlaan,37,"","",9731KE,Groningen
+Henk Plenterlaan,39,"","",9731KE,Groningen
+Henk Plenterlaan,41,"","",9731KE,Groningen
+Henk Plenterlaan,43,"","",9731KE,Groningen
+Henk Plenterlaan,45,"","",9731KE,Groningen
+Henk Plenterlaan,47,"","",9731KE,Groningen
+Henk Plenterlaan,49,"","",9731KE,Groningen
+Henk Plenterlaan,5,"","",9731KE,Groningen
+Henk Plenterlaan,51,"","",9731KE,Groningen
+Henk Plenterlaan,53,"","",9731KE,Groningen
+Henk Plenterlaan,55,"","",9731KE,Groningen
+Henk Plenterlaan,57,"","",9731KE,Groningen
+Henk Plenterlaan,59,"","",9731KE,Groningen
+Henk Plenterlaan,61,"","",9731KE,Groningen
+Henk Plenterlaan,63,"","",9731KE,Groningen
+Henk Plenterlaan,7,"","",9731KE,Groningen
+Henk Plenterlaan,9,"","",9731KE,Groningen
+Henk Plenterlaan,16,"","",9731KG,Groningen
+Henk Plenterlaan,18,"","",9731KG,Groningen
+Henk Plenterlaan,20,"","",9731KG,Groningen
+Henk Plenterlaan,22,"","",9731KG,Groningen
+Henk Plenterlaan,24,"","",9731KG,Groningen
+Henk Plenterlaan,26,"","",9731KG,Groningen
+Henk Plenterlaan,28,"","",9731KG,Groningen
+Henk Plenterlaan,30,"","",9731KG,Groningen
+Henk Plenterlaan,32,"","",9731KG,Groningen
+Henk Plenterlaan,34,"","",9731KG,Groningen
+Henk Plenterlaan,36,"","",9731KG,Groningen
+Henk Plenterlaan,38,"","",9731KG,Groningen
+Henk Plenterlaan,40,"","",9731KG,Groningen
+Henk Plenterlaan,42,"","",9731KG,Groningen
+Henk Plenterlaan,44,"","",9731KG,Groningen
+Henk Plenterlaan,46,"","",9731KG,Groningen
+Henk Plenterlaan,48,"","",9731KG,Groningen
+Henk Plenterlaan,50,"","",9731KG,Groningen
+Henk Plenterlaan,52,"","",9731KG,Groningen
+Henk Plenterlaan,54,"","",9731KG,Groningen
+Henk Plenterlaan,56,"","",9731KG,Groningen
+Henk Plenterlaan,58,"","",9731KG,Groningen
+Henk Plenterlaan,60,"","",9731KG,Groningen
+Henk Plenterlaan,62,"","",9731KG,Groningen
+Henk Plenterlaan,64,"","",9731KG,Groningen
+Tonny van Leeuwenlaan,1,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,11,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,13,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,15,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,17,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,19,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,21,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,23,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,25,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,27,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,29,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,3,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,31,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,33,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,35,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,37,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,39,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,41,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,43,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,5,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,7,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,9,"","",9731KH,Groningen
+Tonny van Leeuwenlaan,10,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,12,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,14,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,16,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,18,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,2,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,20,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,22,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,24,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,26,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,28,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,30,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,32,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,34,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,36,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,38,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,4,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,40,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,42,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,44,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,6,"","",9731KJ,Groningen
+Tonny van Leeuwenlaan,8,"","",9731KJ,Groningen
+Appie Groenlaan,31,"","",9731KK,Groningen
+Appie Groenlaan,33,"","",9731KK,Groningen
+Appie Groenlaan,35,"","",9731KK,Groningen
+Appie Groenlaan,37,"","",9731KK,Groningen
+Appie Groenlaan,39,"","",9731KK,Groningen
+Appie Groenlaan,41,"","",9731KK,Groningen
+Appie Groenlaan,43,"","",9731KK,Groningen
+Appie Groenlaan,45,"","",9731KK,Groningen
+Appie Groenlaan,47,"","",9731KK,Groningen
+Appie Groenlaan,49,"","",9731KK,Groningen
+Appie Groenlaan,51,"","",9731KK,Groningen
+Appie Groenlaan,53,"","",9731KK,Groningen
+Appie Groenlaan,55,"","",9731KK,Groningen
+Appie Groenlaan,57,"","",9731KK,Groningen
+Appie Groenlaan,59,"","",9731KK,Groningen
+Appie Groenlaan,61,"","",9731KK,Groningen
+Appie Groenlaan,63,"","",9731KK,Groningen
+Appie Groenlaan,65,"","",9731KK,Groningen
+Appie Groenlaan,67,"","",9731KK,Groningen
+Appie Groenlaan,69,"","",9731KK,Groningen
+Appie Groenlaan,71,"","",9731KK,Groningen
+Appie Groenlaan,73,"","",9731KK,Groningen
+Appie Groenlaan,75,"","",9731KK,Groningen
+Appie Groenlaan,77,"","",9731KK,Groningen
+Appie Groenlaan,79,"","",9731KK,Groningen
+Appie Groenlaan,81,"","",9731KK,Groningen
+Appie Groenlaan,83,"","",9731KK,Groningen
+Appie Groenlaan,10,"","",9731KL,Groningen
+Appie Groenlaan,12,"","",9731KL,Groningen
+Appie Groenlaan,14,"","",9731KL,Groningen
+Appie Groenlaan,16,"","",9731KL,Groningen
+Appie Groenlaan,18,"","",9731KL,Groningen
+Appie Groenlaan,2,"","",9731KL,Groningen
+Appie Groenlaan,20,"","",9731KL,Groningen
+Appie Groenlaan,22,"","",9731KL,Groningen
+Appie Groenlaan,24,"","",9731KL,Groningen
+Appie Groenlaan,26,"","",9731KL,Groningen
+Appie Groenlaan,28,"","",9731KL,Groningen
+Appie Groenlaan,30,"","",9731KL,Groningen
+Appie Groenlaan,32,"","",9731KL,Groningen
+Appie Groenlaan,34,"","",9731KL,Groningen
+Appie Groenlaan,36,"","",9731KL,Groningen
+Appie Groenlaan,38,"","",9731KL,Groningen
+Appie Groenlaan,4,"","",9731KL,Groningen
+Appie Groenlaan,40,"","",9731KL,Groningen
+Appie Groenlaan,42,"","",9731KL,Groningen
+Appie Groenlaan,44,"","",9731KL,Groningen
+Appie Groenlaan,46,"","",9731KL,Groningen
+Appie Groenlaan,48,"","",9731KL,Groningen
+Appie Groenlaan,50,"","",9731KL,Groningen
+Appie Groenlaan,52,"","",9731KL,Groningen
+Appie Groenlaan,54,"","",9731KL,Groningen
+Appie Groenlaan,56,"","",9731KL,Groningen
+Appie Groenlaan,58,"","",9731KL,Groningen
+Appie Groenlaan,6,"","",9731KL,Groningen
+Appie Groenlaan,60,"","",9731KL,Groningen
+Appie Groenlaan,62,"","",9731KL,Groningen
+Appie Groenlaan,64,"","",9731KL,Groningen
+Appie Groenlaan,66,"","",9731KL,Groningen
+Appie Groenlaan,68,"","",9731KL,Groningen
+Appie Groenlaan,70,"","",9731KL,Groningen
+Appie Groenlaan,72,"","",9731KL,Groningen
+Appie Groenlaan,74,"","",9731KL,Groningen
+Appie Groenlaan,76,"","",9731KL,Groningen
+Appie Groenlaan,78,"","",9731KL,Groningen
+Appie Groenlaan,8,"","",9731KL,Groningen
+Appie Groenlaan,80,"","",9731KL,Groningen
+Appie Groenlaan,82,"","",9731KL,Groningen
+Klaas Buistlaan,15,"","",9731KM,Groningen
+Klaas Buistlaan,17,"","",9731KM,Groningen
+Klaas Buistlaan,19,"","",9731KM,Groningen
+Klaas Buistlaan,21,"","",9731KM,Groningen
+Klaas Buistlaan,23,"","",9731KM,Groningen
+Klaas Buistlaan,25,"","",9731KM,Groningen
+Klaas Buistlaan,27,"","",9731KM,Groningen
+Klaas Buistlaan,29,"","",9731KM,Groningen
+Klaas Buistlaan,31,"","",9731KM,Groningen
+Klaas Buistlaan,33,"","",9731KM,Groningen
+Klaas Buistlaan,35,"","",9731KM,Groningen
+Klaas Buistlaan,37,"","",9731KM,Groningen
+Klaas Buistlaan,39,"","",9731KM,Groningen
+Klaas Buistlaan,41,"","",9731KM,Groningen
+Klaas Buistlaan,43,"","",9731KM,Groningen
+Klaas Buistlaan,45,"","",9731KM,Groningen
+Klaas Buistlaan,47,"","",9731KM,Groningen
+Klaas Buistlaan,49,"","",9731KM,Groningen
+Klaas Buistlaan,51,"","",9731KM,Groningen
+Klaas Buistlaan,53,"","",9731KM,Groningen
+Klaas Buistlaan,55,"","",9731KM,Groningen
+Klaas Buistlaan,10,"","",9731KN,Groningen
+Klaas Buistlaan,12,"","",9731KN,Groningen
+Klaas Buistlaan,14,"","",9731KN,Groningen
+Klaas Buistlaan,16,"","",9731KN,Groningen
+Klaas Buistlaan,18,"","",9731KN,Groningen
+Klaas Buistlaan,2,"","",9731KN,Groningen
+Klaas Buistlaan,20,"","",9731KN,Groningen
+Klaas Buistlaan,22,"","",9731KN,Groningen
+Klaas Buistlaan,24,"","",9731KN,Groningen
+Klaas Buistlaan,26,"","",9731KN,Groningen
+Klaas Buistlaan,28,"","",9731KN,Groningen
+Klaas Buistlaan,30,"","",9731KN,Groningen
+Klaas Buistlaan,32,"","",9731KN,Groningen
+Klaas Buistlaan,34,"","",9731KN,Groningen
+Klaas Buistlaan,36,"","",9731KN,Groningen
+Klaas Buistlaan,38,"","",9731KN,Groningen
+Klaas Buistlaan,4,"","",9731KN,Groningen
+Klaas Buistlaan,40,"","",9731KN,Groningen
+Klaas Buistlaan,42,"","",9731KN,Groningen
+Klaas Buistlaan,44,"","",9731KN,Groningen
+Klaas Buistlaan,46,"","",9731KN,Groningen
+Klaas Buistlaan,48,"","",9731KN,Groningen
+Klaas Buistlaan,50,"","",9731KN,Groningen
+Klaas Buistlaan,6,"","",9731KN,Groningen
+Klaas Buistlaan,8,"","",9731KN,Groningen
+Otto Bonsemalaan,1,"","",9731KP,Groningen
+Otto Bonsemalaan,10,"","",9731KP,Groningen
+Otto Bonsemalaan,12,"","",9731KP,Groningen
+Otto Bonsemalaan,14,"","",9731KP,Groningen
+Otto Bonsemalaan,16,"","",9731KP,Groningen
+Otto Bonsemalaan,2,"","",9731KP,Groningen
+Otto Bonsemalaan,3,"","",9731KP,Groningen
+Otto Bonsemalaan,4,"","",9731KP,Groningen
+Otto Bonsemalaan,5,"","",9731KP,Groningen
+Otto Bonsemalaan,6,"","",9731KP,Groningen
+Otto Bonsemalaan,7,"","",9731KP,Groningen
+Otto Bonsemalaan,8,"","",9731KP,Groningen

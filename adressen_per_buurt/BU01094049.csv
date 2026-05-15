@@ -1,143 +1,144 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7849PA",19,"",""
-"7849PA",11,"",""
-"7849PA",5,"",""
-"7849PA",15,"",""
-"7849PA",23,"",""
-"7849PA",25,"",""
-"7849PA",7,"",""
-"7849PA",17,"",""
-"7849PA",19,"a",""
-"7849PA",21,"",""
-"7849PA",1,"",""
-"7849PA",3,"",""
-"7849PA",9,"",""
-"7849PB",61,"",""
-"7849PB",59,"",""
-"7849PB",55,"",""
-"7849PB",59,"","LDS"
-"7849PB",53,"",""
-"7849PB",35,"",""
-"7849PB",51,"",""
-"7849PB",49,"",""
-"7849PB",57,"",""
-"7849PB",31,"",""
-"7849PB",29,"",""
-"7849PB",33,"",""
-"7849PB",27,"",""
-"7849PB",51,"",""
-"7849PB",47,"",""
-"7849PB",41,"",""
-"7849PB",51,"",""
-"7849PD",44,"",""
-"7849PD",28,"a",""
-"7849PD",28,"","GED"
-"7849PD",36,"",""
-"7849PD",30,"",""
-"7849PD",50,"",""
-"7849PD",28,"a","BEDR"
-"7849PD",38,"",""
-"7849PD",48,"",""
-"7849PD",42,"",""
-"7849PD",46,"",""
-"7849PD",32,"",""
-"7849PD",28,"",""
-"7849PD",42,"a",""
-"7849PD",40,"",""
-"7849TA",7,"",""
-"7849TA",5,"",""
-"7849TA",10,"",""
-"7849TA",6,"",""
-"7849TA",1,"",""
-"7849TA",12,"",""
-"7849TA",9,"",""
-"7849TA",2,"",""
-"7849TA",13,"",""
-"7849TB",2,"",""
-"7849TB",10,"",""
-"7849TB",1,"",""
-"7849TB",5,"",""
-"7849TB",6,"",""
-"7849TB",3,"",""
-"7849TB",4,"",""
-"7849TB",8,"",""
-"7849TB",12,"",""
-"7849TC",14,"",""
-"7849TC",4,"",""
-"7849TC",8,"",""
-"7849TC",12,"",""
-"7849TC",2,"",""
-"7849TC",12,"",""
-"7849TC",12,"",""
-"7849TC",10,"",""
-"7849TC",16,"",""
-7849TC,Borgerweg,2,,
-7849TC,Borgerweg,4,,
-7849TC,Borgerweg,8,,
-7849TC,Borgerweg,10,,
-7849TC,Borgerweg,12,,
-7849TC,Borgerweg,14,,
-7849TC,Borgerweg,16,,
-7849TA,Kwekebosweg,5,,
-7849TA,Kwekebosweg,1,,
-7849TA,Kwekebosweg,2,,
-7849TA,Kwekebosweg,6,,
-7849TA,Kwekebosweg,7,,
-7849TA,Kwekebosweg,9,,
-7849TA,Kwekebosweg,10,,
-7849TA,Kwekebosweg,12,,
-7849TA,Kwekebosweg,13,,
-7849TB,Noorderweg,1,,
-7849TB,Noorderweg,2,,
-7849TB,Noorderweg,3,,
-7849TB,Noorderweg,4,,
-7849TB,Noorderweg,5,,
-7849TB,Noorderweg,6,,
-7849TB,Noorderweg,8,,
-7849TB,Noorderweg,10,,
-7849TB,Noorderweg,12,,
-7849PA,Rolderstraat,1,,
-7849PA,Rolderstraat,3,,
-7849PA,Rolderstraat,5,,
-7849PA,Rolderstraat,7,,
-7849PA,Rolderstraat,9,,
-7849PA,Rolderstraat,11,,
-7849PA,Rolderstraat,15,,
-7849PA,Rolderstraat,17,,
-7849PA,Rolderstraat,19,a,
-7849PA,Rolderstraat,19,,
-7849PA,Rolderstraat,21,,
-7849PA,Rolderstraat,23,,
-7849PA,Rolderstraat,25,,
-7849PB,Rolderstraat,27,,
-7849PB,Rolderstraat,29,,
-7849PB,Rolderstraat,31,,
-7849PB,Rolderstraat,33,,
-7849PB,Rolderstraat,35,,
-7849PB,Rolderstraat,41,,
-7849PB,Rolderstraat,47,,
-7849PB,Rolderstraat,49,,
-7849PB,Rolderstraat,51,,
-7849PB,Rolderstraat,53,,
-7849PB,Rolderstraat,55,,
-7849PB,Rolderstraat,57,,
-7849PB,Rolderstraat,59,,LDS
-7849PB,Rolderstraat,59,,
-7849PB,Rolderstraat,61,,
-7849PD,Rolderstraat,28,a,BEDR
-7849PD,Rolderstraat,28,a,
-7849PD,Rolderstraat,28,,GED
-7849PD,Rolderstraat,28,,
-7849PD,Rolderstraat,30,,
-7849PD,Rolderstraat,32,,
-7849PD,Rolderstraat,36,,
-7849PD,Rolderstraat,38,,
-7849PD,Rolderstraat,40,,
-7849PD,Rolderstraat,42,a,
-7849PD,Rolderstraat,42,,
-7849PD,Rolderstraat,44,,
-7849PD,Rolderstraat,46,,
-7849PD,Rolderstraat,48,,
-7849PD,Rolderstraat,50,,
-7849TC,Borgerweg,12,,
-7849PB,Rolderstraat,51,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+19,"","","",7849PA,
+11,"","","",7849PA,
+5,"","","",7849PA,
+15,"","","",7849PA,
+23,"","","",7849PA,
+25,"","","",7849PA,
+7,"","","",7849PA,
+17,"","","",7849PA,
+21,"","","",7849PA,
+1,"","","",7849PA,
+3,"","","",7849PA,
+9,"","","",7849PA,
+Rolderstraat,1,"","",7849PA,De Kiel
+Rolderstraat,11,"","",7849PA,De Kiel
+Rolderstraat,15,"","",7849PA,De Kiel
+Rolderstraat,17,"","",7849PA,De Kiel
+Rolderstraat,19,"","",7849PA,De Kiel
+Rolderstraat,19,A,"",7849PA,De Kiel
+Rolderstraat,21,"","",7849PA,De Kiel
+Rolderstraat,23,"","",7849PA,De Kiel
+Rolderstraat,25,"","",7849PA,De Kiel
+Rolderstraat,3,"","",7849PA,De Kiel
+Rolderstraat,5,"","",7849PA,De Kiel
+Rolderstraat,7,"","",7849PA,De Kiel
+Rolderstraat,9,"","",7849PA,De Kiel
+19,A,"","",7849PA,
+61,"","","",7849PB,
+59,"","","",7849PB,
+55,"","","",7849PB,
+53,"","","",7849PB,
+35,"","","",7849PB,
+51,"","","",7849PB,
+49,"","","",7849PB,
+57,"","","",7849PB,
+31,"","","",7849PB,
+29,"","","",7849PB,
+33,"","","",7849PB,
+27,"","","",7849PB,
+51,"","","",7849PB,
+47,"","","",7849PB,
+41,"","","",7849PB,
+51,"","","",7849PB,
+59,"",LDS,"",7849PB,
+Rolderstraat,27,"","",7849PB,De Kiel
+Rolderstraat,29,"","",7849PB,De Kiel
+Rolderstraat,31,"","",7849PB,De Kiel
+Rolderstraat,33,"","",7849PB,De Kiel
+Rolderstraat,35,"","",7849PB,De Kiel
+Rolderstraat,41,"","",7849PB,De Kiel
+Rolderstraat,47,"","",7849PB,De Kiel
+Rolderstraat,49,"","",7849PB,De Kiel
+Rolderstraat,51,"","",7849PB,De Kiel
+Rolderstraat,51,"","",7849PB,De Kiel
+Rolderstraat,53,"","",7849PB,De Kiel
+Rolderstraat,55,"","",7849PB,De Kiel
+Rolderstraat,57,"","",7849PB,De Kiel
+Rolderstraat,59,"","",7849PB,De Kiel
+Rolderstraat,59,"",LDS,7849PB,De Kiel
+Rolderstraat,61,"","",7849PB,De Kiel
+44,"","","",7849PD,
+36,"","","",7849PD,
+30,"","","",7849PD,
+50,"","","",7849PD,
+38,"","","",7849PD,
+48,"","","",7849PD,
+42,"","","",7849PD,
+46,"","","",7849PD,
+32,"","","",7849PD,
+28,"","","",7849PD,
+40,"","","",7849PD,
+28,"",GED,"",7849PD,
+Rolderstraat,28,"","",7849PD,De Kiel
+Rolderstraat,28,"",GED,7849PD,De Kiel
+Rolderstraat,28,A,"",7849PD,De Kiel
+Rolderstraat,28,A,BEDR,7849PD,De Kiel
+Rolderstraat,30,"","",7849PD,De Kiel
+Rolderstraat,32,"","",7849PD,De Kiel
+Rolderstraat,36,"","",7849PD,De Kiel
+Rolderstraat,38,"","",7849PD,De Kiel
+Rolderstraat,40,"","",7849PD,De Kiel
+Rolderstraat,42,"","",7849PD,De Kiel
+Rolderstraat,42,A,"",7849PD,De Kiel
+Rolderstraat,44,"","",7849PD,De Kiel
+Rolderstraat,46,"","",7849PD,De Kiel
+Rolderstraat,48,"","",7849PD,De Kiel
+Rolderstraat,50,"","",7849PD,De Kiel
+28,A,"","",7849PD,
+42,A,"","",7849PD,
+28,A,BEDR,"",7849PD,
+7,"","","",7849TA,
+5,"","","",7849TA,
+10,"","","",7849TA,
+6,"","","",7849TA,
+1,"","","",7849TA,
+12,"","","",7849TA,
+9,"","","",7849TA,
+2,"","","",7849TA,
+13,"","","",7849TA,
+Kwekebosweg,1,"","",7849TA,De Kiel
+Kwekebosweg,10,"","",7849TA,De Kiel
+Kwekebosweg,12,"","",7849TA,De Kiel
+Kwekebosweg,13,"","",7849TA,De Kiel
+Kwekebosweg,2,"","",7849TA,De Kiel
+Kwekebosweg,5,"","",7849TA,De Kiel
+Kwekebosweg,6,"","",7849TA,De Kiel
+Kwekebosweg,7,"","",7849TA,De Kiel
+Kwekebosweg,9,"","",7849TA,De Kiel
+2,"","","",7849TB,
+10,"","","",7849TB,
+1,"","","",7849TB,
+5,"","","",7849TB,
+6,"","","",7849TB,
+3,"","","",7849TB,
+4,"","","",7849TB,
+8,"","","",7849TB,
+12,"","","",7849TB,
+Noorderweg,1,"","",7849TB,De Kiel
+Noorderweg,10,"","",7849TB,De Kiel
+Noorderweg,12,"","",7849TB,De Kiel
+Noorderweg,2,"","",7849TB,De Kiel
+Noorderweg,3,"","",7849TB,De Kiel
+Noorderweg,4,"","",7849TB,De Kiel
+Noorderweg,5,"","",7849TB,De Kiel
+Noorderweg,6,"","",7849TB,De Kiel
+Noorderweg,8,"","",7849TB,De Kiel
+14,"","","",7849TC,
+4,"","","",7849TC,
+8,"","","",7849TC,
+12,"","","",7849TC,
+2,"","","",7849TC,
+12,"","","",7849TC,
+12,"","","",7849TC,
+10,"","","",7849TC,
+16,"","","",7849TC,
+Borgerweg,10,"","",7849TC,De Kiel
+Borgerweg,12,"","",7849TC,De Kiel
+Borgerweg,12,"","",7849TC,De Kiel
+Borgerweg,14,"","",7849TC,De Kiel
+Borgerweg,16,"","",7849TC,De Kiel
+Borgerweg,2,"","",7849TC,De Kiel
+Borgerweg,4,"","",7849TC,De Kiel
+Borgerweg,8,"","",7849TC,De Kiel
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

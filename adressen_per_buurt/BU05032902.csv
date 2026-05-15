@@ -1,100 +1,100 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2629JE,Rijksstraatweg,105,,
-2629JE,Rijksstraatweg,115,,
-2629JE,Rijksstraatweg,125,,
-2629HD,Rotterdamseweg,185,K,
-2629HD,Rotterdamseweg,185,L,
-2629HD,Rotterdamseweg,185,M,
-2629HD,Rotterdamseweg,185,,
-2629HD,Rotterdamseweg,189,,
-2629HD,Rotterdamseweg,187,,
-2629HD,Rotterdamseweg,205,,
-2629HD,Rotterdamseweg,191,A,
-2629HD,Rotterdamseweg,195,,
-2629HD,Rotterdamseweg,197,,
-2629HD,Rotterdamseweg,199,,
-2629HD,Rotterdamseweg,201,A,
-2629HE,Rotterdamseweg,211,,
-2629HE,Rotterdamseweg,213,,
-2629HE,Rotterdamseweg,215,,
-2629HE,Rotterdamseweg,217,,
-2629HE,Rotterdamseweg,219,,
-2629HJ,Rotterdamseweg,466,,
-2629HJ,Rotterdamseweg,474,,
-2629HJ,Rotterdamseweg,474,A,
-2629HJ,Rotterdamseweg,472,B,
-2629HJ,Rotterdamseweg,470,,
-2629HJ,Rotterdamseweg,472,,
-2629HJ,Rotterdamseweg,464,,
-2629HJ,Rotterdamseweg,438,,
-2629HJ,Rotterdamseweg,440,,
-2629HJ,Rotterdamseweg,442,,
-2629HJ,Rotterdamseweg,444,,
-2629HJ,Rotterdamseweg,446,,
-2629HJ,Rotterdamseweg,448,,
-2629HJ,Rotterdamseweg,450,,
-2629HJ,Rotterdamseweg,452,,
-2629HJ,Rotterdamseweg,454,,
-2629HJ,Rotterdamseweg,456,,
-2629HJ,Rotterdamseweg,458,,
-2629HJ,Rotterdamseweg,460,,
-2629JE,Rijksstraatweg,139,,
-2629HD,Rotterdamseweg,191,,
-2629HD,Rotterdamseweg,183,C,
-2629HW,Lau Mazirelweg,2,,
-2629HW,Lau Mazirelweg,4,,
-2629HW,Lau Mazirelweg,6,,
-2629HW,Lau Mazirelweg,8,,
-2629HW,Lau Mazirelweg,10,,
-2629HW,Lau Mazirelweg,12,,
-2629HW,Lau Mazirelweg,14,,
-2629HW,Lau Mazirelweg,1,,
-2629JE,Rijksstraatweg,101,,
-2629JE,Rijksstraatweg,107,,
-2629JE,Rijksstraatweg,117,,
-2629JE,Rijksstraatweg,141,,
-2629JE,Rijksstraatweg,143,,
-2629JE,Rijksstraatweg,145,,
-2629HD,Rotterdamseweg,183,A,
-2629HD,Rotterdamseweg,183,B,
-2629HD,Rotterdamseweg,183,,
-2629HD,Rotterdamseweg,203,A,
-2629HD,Rotterdamseweg,183,D,
-2629HE,Rotterdamseweg,219,A,
-2629HE,Rotterdamseweg,219,B,
-2629HE,Rotterdamseweg,219,B,
-2629HE,Rotterdamseweg,207,,
-2629HJ,Rotterdamseweg,436,,
-2629HJ,Rotterdamseweg,468,,
-2629HJ,Rotterdamseweg,474,A,
-2629HJ,Rotterdamseweg,480,,
-2629HJ,Rotterdamseweg,472,C,
-2629HA,Rijksweg A13,200,,
-2629HA,Rijksweg A13,202,,
-2629HA,Rijksweg A13,204,,
-2629HD,Rotterdamseweg,185,A,
-2629HD,Rotterdamseweg,185,B,
-2629HD,Rotterdamseweg,185,C,
-2629HD,Rotterdamseweg,185,D,
-2629HD,Rotterdamseweg,185,E,
-2629HD,Rotterdamseweg,185,F,
-2629HD,Rotterdamseweg,185,G,
-2629HD,Rotterdamseweg,185,S,
-2629HD,Rotterdamseweg,185,T,
-2629HD,Rotterdamseweg,185,B,
-2629HD,Rotterdamseweg,205,A,
-2629HA,Rijksweg A13,206,,
-2629HB,Melariumpad,11,,
-2629HD,Rotterdamseweg,185,B,
-2629HD,Rotterdamseweg,201,E,
-2629HD,Rotterdamseweg,201,B,
-2629HD,Rotterdamseweg,201,D,
-2629HD,Rotterdamseweg,201,A,
-2629HD,Rotterdamseweg,201,C,
-2629HD,Rotterdamseweg,201,F,
-2629JE,Rijksstraatweg,115,A,
-2629JE,Rijksstraatweg,115,A,
-2629HD,Rotterdamseweg,191,,
-2629HJ,Rotterdamseweg,476,,
-2629HJ,Rotterdamseweg,474,,
-2629HW,Lau Mazirelweg,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rijksweg A13,200,"","",2629HA,Delft
+Rijksweg A13,202,"","",2629HA,Delft
+Rijksweg A13,204,"","",2629HA,Delft
+Rijksweg A13,206,"","",2629HA,Delft
+Melariumpad,11,"","",2629HB,Delft
+Rotterdamseweg,183,"","",2629HD,Delft
+Rotterdamseweg,183,A,"",2629HD,Delft
+Rotterdamseweg,183,B,"",2629HD,Delft
+Rotterdamseweg,183,C,"",2629HD,Delft
+Rotterdamseweg,183,D,"",2629HD,Delft
+Rotterdamseweg,185,"","",2629HD,Delft
+Rotterdamseweg,185,A,"",2629HD,Delft
+Rotterdamseweg,185,B,"",2629HD,Delft
+Rotterdamseweg,185,B,"",2629HD,Delft
+Rotterdamseweg,185,B,"",2629HD,Delft
+Rotterdamseweg,185,C,"",2629HD,Delft
+Rotterdamseweg,185,D,"",2629HD,Delft
+Rotterdamseweg,185,E,"",2629HD,Delft
+Rotterdamseweg,185,F,"",2629HD,Delft
+Rotterdamseweg,185,G,"",2629HD,Delft
+Rotterdamseweg,185,K,"",2629HD,Delft
+Rotterdamseweg,185,L,"",2629HD,Delft
+Rotterdamseweg,185,M,"",2629HD,Delft
+Rotterdamseweg,185,S,"",2629HD,Delft
+Rotterdamseweg,185,T,"",2629HD,Delft
+Rotterdamseweg,187,"","",2629HD,Delft
+Rotterdamseweg,189,"","",2629HD,Delft
+Rotterdamseweg,191,"","",2629HD,Delft
+Rotterdamseweg,191,"","",2629HD,Delft
+Rotterdamseweg,191,A,"",2629HD,Delft
+Rotterdamseweg,195,"","",2629HD,Delft
+Rotterdamseweg,197,"","",2629HD,Delft
+Rotterdamseweg,199,"","",2629HD,Delft
+Rotterdamseweg,201,A,"",2629HD,Delft
+Rotterdamseweg,201,A,"",2629HD,Delft
+Rotterdamseweg,201,B,"",2629HD,Delft
+Rotterdamseweg,201,C,"",2629HD,Delft
+Rotterdamseweg,201,D,"",2629HD,Delft
+Rotterdamseweg,201,E,"",2629HD,Delft
+Rotterdamseweg,201,F,"",2629HD,Delft
+Rotterdamseweg,203,A,"",2629HD,Delft
+Rotterdamseweg,205,"","",2629HD,Delft
+Rotterdamseweg,205,A,"",2629HD,Delft
+Rotterdamseweg,207,"","",2629HE,Delft
+Rotterdamseweg,211,"","",2629HE,Delft
+Rotterdamseweg,213,"","",2629HE,Delft
+Rotterdamseweg,215,"","",2629HE,Delft
+Rotterdamseweg,217,"","",2629HE,Delft
+Rotterdamseweg,219,"","",2629HE,Delft
+Rotterdamseweg,219,A,"",2629HE,Delft
+Rotterdamseweg,219,B,"",2629HE,Delft
+Rotterdamseweg,219,B,"",2629HE,Delft
+Rotterdamseweg,436,"","",2629HJ,Delft
+Rotterdamseweg,438,"","",2629HJ,Delft
+Rotterdamseweg,440,"","",2629HJ,Delft
+Rotterdamseweg,442,"","",2629HJ,Delft
+Rotterdamseweg,444,"","",2629HJ,Delft
+Rotterdamseweg,446,"","",2629HJ,Delft
+Rotterdamseweg,448,"","",2629HJ,Delft
+Rotterdamseweg,450,"","",2629HJ,Delft
+Rotterdamseweg,452,"","",2629HJ,Delft
+Rotterdamseweg,454,"","",2629HJ,Delft
+Rotterdamseweg,456,"","",2629HJ,Delft
+Rotterdamseweg,458,"","",2629HJ,Delft
+Rotterdamseweg,460,"","",2629HJ,Delft
+Rotterdamseweg,464,"","",2629HJ,Delft
+Rotterdamseweg,466,"","",2629HJ,Delft
+Rotterdamseweg,468,"","",2629HJ,Delft
+Rotterdamseweg,470,"","",2629HJ,Delft
+Rotterdamseweg,472,"","",2629HJ,Delft
+Rotterdamseweg,472,B,"",2629HJ,Delft
+Rotterdamseweg,472,C,"",2629HJ,Delft
+Rotterdamseweg,474,"","",2629HJ,Delft
+Rotterdamseweg,474,"","",2629HJ,Delft
+Rotterdamseweg,474,A,"",2629HJ,Delft
+Rotterdamseweg,474,A,"",2629HJ,Delft
+Rotterdamseweg,476,"","",2629HJ,Delft
+Rotterdamseweg,480,"","",2629HJ,Delft
+Lau Mazirelweg,1,"","",2629HW,Delft
+Lau Mazirelweg,10,"","",2629HW,Delft
+Lau Mazirelweg,12,"","",2629HW,Delft
+Lau Mazirelweg,14,"","",2629HW,Delft
+Lau Mazirelweg,2,"","",2629HW,Delft
+Lau Mazirelweg,2,"","",2629HW,Delft
+Lau Mazirelweg,4,"","",2629HW,Delft
+Lau Mazirelweg,6,"","",2629HW,Delft
+Lau Mazirelweg,8,"","",2629HW,Delft
+Rijksstraatweg,101,"","",2629JE,Delft
+Rijksstraatweg,105,"","",2629JE,Delft
+Rijksstraatweg,107,"","",2629JE,Delft
+Rijksstraatweg,115,"","",2629JE,Delft
+Rijksstraatweg,115,A,"",2629JE,Delft
+Rijksstraatweg,115,A,"",2629JE,Delft
+Rijksstraatweg,117,"","",2629JE,Delft
+Rijksstraatweg,125,"","",2629JE,Delft
+Rijksstraatweg,139,"","",2629JE,Delft
+Rijksstraatweg,141,"","",2629JE,Delft
+Rijksstraatweg,143,"","",2629JE,Delft
+Rijksstraatweg,145,"","",2629JE,Delft

@@ -1,697 +1,360 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7621AA",6,"",""
-"7621AA",4,"",""
-"7621AA",6,"b",""
-"7621AA",2,"",""
-"7621XG",123,"",""
-"7621XG",121,"",""
-"7621XP",74,"",""
-"7621XP",90,"",""
-"7621XP",96,"",""
-"7621XP",116,"a",""
-"7621XP",82,"",""
-"7621XP",88,"",""
-"7621XP",72,"",""
-"7621XP",92,"",""
-"7621XP",56,"",""
-"7621XP",80,"",""
-"7621XP",60,"",""
-"7621XP",94,"",""
-"7621XP",66,"",""
-"7621XP",68,"",""
-"7621XP",54,"",""
-"7621XP",76,"",""
-"7621XP",58,"",""
-"7621XP",62,"",""
-"7621XP",64,"",""
-"7621XP",84,"",""
-"7621XP",86,"",""
-"7621XP",78,"",""
-"7621XP",70,"",""
-"7621XP",52,"",""
-"7625NG",11,"",""
-"7625NG",23,"",""
-"7625NG",29,"",""
-"7625NG",22,"a",""
-"7625NG",7,"",""
-"7625NG",16,"",""
-"7625NG",12,"",""
-"7625NG",18,"",""
-"7625NG",19,"",""
-"7625NG",10,"",""
-"7625NG",24,"",""
-"7625NG",7,"",""
-"7625NG",25,"",""
-"7625NG",22,"",""
-"7625NG",6,"",""
-"7625NG",9,"",""
-"7625NG",4,"",""
-"7625NG",27,"",""
-"7625NG",14,"",""
-"7625NG",2,"",""
-"7625NG",5,"",""
-"7625NG",20,"",""
-"7625NG",8,"",""
-"7625NG",12,"",""
-"7625NG",21,"",""
-"7625NG",1,"",""
-"7625NG",3,"",""
-"7625NJ",14,"",""
-"7625NJ",21,"",""
-"7625NJ",15,"",""
-"7625NJ",16,"",""
-"7625NJ",19,"",""
-"7625NJ",20,"",""
-"7625NJ",8,"",""
-"7625NJ",17,"",""
-"7625NJ",5,"",""
-"7625NJ",11,"",""
-"7625NJ",6,"",""
-"7625NJ",7,"",""
-"7625NJ",10,"",""
-"7625NJ",24,"",""
-"7625NJ",22,"",""
-"7625NJ",12,"",""
-"7625NJ",2,"",""
-"7625NJ",1,"",""
-"7625NJ",26,"",""
-"7625NJ",18,"",""
-"7625NJ",3,"",""
-"7625NJ",26,"",""
-"7625NJ",4,"",""
-"7625NJ",23,"",""
-"7625NJ",13,"",""
-"7625NJ",6,"",""
-"7625NJ",9,"",""
-"7625NJ",4,"",""
-"7625PJ",9,"",""
-"7625PJ",6,"",""
-"7625PJ",4,"",""
-"7625PJ",6,"",""
-"7625PJ",10,"",""
-"7625PJ",2,"",""
-"7625PJ",14,"",""
-"7625PJ",14,"b",""
-"7625PJ",10,"",""
-"7625PJ",10,"",""
-"7625PJ",11,"",""
-"7625PJ",6,"",""
-"7625PJ",8,"",""
-"7625PJ",12,"",""
-"7625PL",1,"",""
-"7625PL",2,"",""
-"7625PL",1,"",""
-"7625PL",1,"",""
-"7625PL",1,"a",""
-"7625PL",1,"",""
-"7625PL",19,"",""
-"7625PL",3,"",""
-"7625PL",21,"",""
-"7625PL",25,"",""
-"7625PL",5,"b",""
-"7625PL",23,"b",""
-"7625PL",1,"",""
-"7625PL",23,"",""
-"7625PL",17,"a",""
-"7625PL",15,"",""
-"7625PL",13,"",""
-"7625PL",11,"",""
-"7625PL",17,"a",""
-"7625PL",13,"a",""
-"7625PL",17,"",""
-"7625PL",9,"",""
-"7625PL",21,"a",""
-"7625PL",15,"a",""
-"7625PL",5,"",""
-"7625PL",25,"a",""
-"7625PL",27,"",""
-"7625PL",7,"",""
-"7625PL",5,"a",""
-"7625PM",4,"",""
-"7625PM",30,"",""
-"7625PM",32,"",""
-"7625PM",12,"",""
-"7625PM",2,"b",""
-"7625PM",40,"",""
-"7625PM",10,"",""
-"7625PM",28,"",""
-"7625PM",50,"",""
-"7625PM",46,"a",""
-"7625PM",14,"",""
-"7625PM",20,"",""
-"7625PM",2,"a",""
-"7625PM",24,"",""
-"7625PM",6,"",""
-"7625PM",18,"",""
-"7625PM",44,"a",""
-"7625PM",42,"",""
-"7625PM",22,"",""
-"7625PM",2,"",""
-"7625PM",34,"",""
-"7625PM",26,"",""
-"7625PM",8,"",""
-"7625RA",11,"",""
-"7625RA",2,"",""
-"7625RA",17,"",""
-"7625RA",23,"a",""
-"7625RA",19,"",""
-"7625RA",23,"",""
-"7625RA",15,"",""
-"7625RA",17,"",""
-"7625RA",17,"",""
-"7625RB",1,"",""
-"7625RB",3,"",""
-"7625RB",5,"",""
-"7625RB",2,"",""
-"7625RB",4,"",""
-"7625RC",1,"a",""
-"7625RC",1,"",""
-"7625RE",1,"",""
-"7625RE",2,"",""
-"7625RG",1,"",""
-"7625RG",3,"",""
-"7625RG",3,"",""
-"7625RG",3,"",""
-"7625RH",38,"",""
-"7625RH",39,"",""
-"7625RH",39,"a",""
-"7625RH",42,"c",""
-"7625RH",42,"a",""
-"7625RH",42,"a",""
-"7625RH",40,"",""
-"7625RH",42,"a",""
-"7625RH",46,"",""
-"7625RH",46,"",""
-"7625RH",42,"",""
-"7625RH",42,"a",""
-"7625RH",42,"b",""
-"7625RH",42,"a",""
-"7625RH",42,"d",""
-"7625RH",47,"",""
-"7625RH",42,"a",""
-"7625RH",45,"a",""
-"7625RH",42,"b",""
-"7625RH",42,"b",""
-"7625RH",42,"d",""
-"7625RH",42,"a",""
-"7625RH",47,"",""
-"7625RH",49,"",""
-"7625RH",42,"c",""
-"7625RH",45,"",""
-"7625RH",42,"c",""
-"7625RH",42,"d",""
-"7625RH",44,"",""
-"7625RJ",2,"",""
-"7625RJ",1,"",""
-"7625RK",1,"a",""
-"7625RK",1,"",""
-"7625RK",1,"",""
-"7625RK",4,"",""
-"7625RK",1,"",""
-"7625RK",2,"",""
-"7625RL",3,"a",""
-"7625RL",1,"b",""
-"7625RL",3,"",""
-"7625RL",1,"",""
-"7625RM",10,"",""
-"7625RM",6,"",""
-"7625RM",7,"",""
-"7625RM",6,"b",""
-"7625RM",3,"",""
-"7625RM",6,"a",""
-"7625RM",8,"",""
-"7625RM",3,"b",""
-"7625RM",2,"",""
-"7625RM",1,"",""
-"7625RM",4,"",""
-"7625RM",9,"",""
-"7625RN",21,"",""
-"7625RN",25,"",""
-"7625RN",17,"",""
-"7625RN",19,"b",""
-"7625RN",9,"",""
-"7625RN",7,"",""
-"7625RN",23,"",""
-"7625RN",21,"",""
-"7625RN",13,"",""
-"7625RN",19,"c",""
-"7625RN",19,"a",""
-"7625RN",11,"",""
-"7625RN",21,"",""
-"7625RN",13,"",""
-"7625RN",5,"",""
-"7625RN",21,"",""
-"7625RN",15,"",""
-"7625RN",23,"",""
-"7625RN",19,"",""
-"7625RN",13,"",""
-"7625RN",15,"a",""
-"7625RP",22,"",""
-"7625RP",14,"",""
-"7625RP",24,"",""
-"7625RP",22,"b",""
-"7625RP",10,"",""
-"7625RP",18,"",""
-"7625RP",20,"",""
-"7625RP",12,"",""
-"7625RP",22,"a",""
-"7625RP",26,"a",""
-"7625RP",4,"",""
-"7625RP",26,"",""
-"7625RP",28,"",""
-"7625RP",18,"a",""
-"7625RP",24,"",""
-"7625RP",28,"a",""
-"7625RP",28,"a",""
-"7625RP",16,"",""
-"7625RR",1,"",""
-"7625RR",3,"",""
-"7625RR",5,"",""
-"7625RT",4,"",""
-"7625RT",4,"",""
-"7625RX",2,"a",""
-"7625RX",3,"",""
-"7625RX",10,"",""
-"7625RX",2,"",""
-"7625RX",8,"",""
-"7625RX",4,"",""
-"7625RX",10,"",""
-"7625RX",6,"",""
-"7625RX",4,"a",""
-"7625RX",5,"",""
-"7625SC",1,"",""
-"7625SC",6,"",""
-"7625SC",1,"",""
-"7625SC",2,"",""
-"7625SC",4,"",""
-"7625SC",3,"a",""
-"7625SC",2,"a",""
-"7625SC",3,"",""
-"7625SH",16,"",""
-"7625SH",16,"",""
-"7625SH",18,"",""
-"7625SH",18,"",""
-"7625SJ",1,"a",""
-"7625SJ",7,"",""
-"7625SJ",1,"",""
-"7625SJ",10,"",""
-"7625SJ",12,"",""
-"7625SJ",8,"",""
-"7625SK",2,"",""
-"7625SN",1,"",""
-"7625SN",2,"a",""
-"7625SN",2,"",""
-"7625SP",2,"",""
-"7625SP",1,"",""
-"7625SP",12,"",""
-"7625SR",8,"",""
-"7625SR",7,"",""
-"7625SR",5,"",""
-"7625SR",4,"",""
-"7625SR",6,"",""
-"7625SR",3,"",""
-"7625SR",1,"",""
-"7625SR",2,"",""
-"7625SR",5,"",""
-"7625SR",5,"",""
-"7625ST",4,"",""
-"7625ST",2,"",""
-"7625SV",8,"",""
-"7625SV",1,"",""
-"7625SV",6,"",""
-"7625SV",2,"",""
-"7625SV",4,"",""
-"7625SW",6,"",""
-"7625SW",1,"",""
-"7625SW",3,"",""
-"7625SW",6,"a",""
-"7625SW",4,"",""
-"7625TA",1,"",""
-"7625TA",1,"",""
-"7625TD",2,"",""
-"7625TE",3,"a",""
-"7625TE",12,"",""
-"7625TE",16,"",""
-"7625TE",4,"a",""
-"7625TE",1,"",""
-"7625TE",3,"",""
-"7625TE",8,"a",""
-"7625TE",5,"",""
-"7625TE",1,"a",""
-"7625TE",11,"",""
-"7625TE",16,"",""
-"7625TE",16,"a",""
-"7625TE",16,"a",""
-"7625TE",3,"c",""
-"7625TE",4,"a",""
-"7625TE",16,"",""
-"7625TE",7,"",""
-"7625TE",10,"",""
-"7625TE",8,"",""
-"7625TE",16,"",""
-"7625TE",12,"",""
-"7625TE",9,"",""
-"7625TE",5,"",""
-"7625TE",5,"",""
-"7625TE",2,"",""
-"7625TE",16,"",""
-"7625TE",6,"",""
-"7625TE",4,"a",""
-"7625TE",12,"",""
-7625SH,Grote Bavenkelsweg,16,,
-7625SH,Grote Bavenkelsweg,18,,
-7625RN,Albergerweg,5,,
-7625RN,Albergerweg,7,,
-7625RN,Albergerweg,9,,
-7625RN,Albergerweg,11,,
-7625RN,Albergerweg,13,,
-7625RN,Albergerweg,15,,
-7625RN,Albergerweg,15,a,
-7625RN,Albergerweg,17,,
-7625RN,Albergerweg,19,,
-7625RN,Albergerweg,19,a,
-7625RN,Albergerweg,19,b,
-7625RN,Albergerweg,19,c,
-7625RN,Albergerweg,21,,
-7625RN,Albergerweg,25,,
-7625RP,Albergerweg,4,,
-7625RP,Albergerweg,10,,
-7625RP,Albergerweg,12,,
-7625RP,Albergerweg,14,,
-7625RP,Albergerweg,16,,
-7625RP,Albergerweg,18,,
-7625RP,Albergerweg,18,a,
-7625RP,Albergerweg,20,,
-7625RP,Albergerweg,22,,
-7625RP,Albergerweg,26,a,
-7625RP,Albergerweg,26,,
-7625RP,Albergerweg,28,a,
-7625RP,Albergerweg,28,a,
-7625RP,Albergerweg,28,,
-7625SC,Almelosestraat,1,,
-7625SC,Almelosestraat,1,,
-7625SC,Almelosestraat,2,,
-7625SC,Almelosestraat,3,,
-7625SC,Almelosestraat,3,a,
-7625SC,Almelosestraat,4,,
-7625SC,Almelosestraat,6,,
-7621XG,Beerninksweg,121,,
-7621XG,Beerninksweg,123,,
-7621XP,Beerninksweg,52,,
-7621XP,Beerninksweg,54,,
-7621XP,Beerninksweg,56,,
-7621XP,Beerninksweg,58,,
-7621XP,Beerninksweg,60,,
-7621XP,Beerninksweg,62,,
-7621XP,Beerninksweg,64,,
-7621XP,Beerninksweg,66,,
-7621XP,Beerninksweg,68,,
-7621XP,Beerninksweg,70,,
-7621XP,Beerninksweg,72,,
-7621XP,Beerninksweg,74,,
-7621XP,Beerninksweg,76,,
-7621XP,Beerninksweg,78,,
-7621XP,Beerninksweg,80,,
-7621XP,Beerninksweg,82,,
-7621XP,Beerninksweg,84,,
-7621XP,Beerninksweg,86,,
-7621XP,Beerninksweg,88,,
-7621XP,Beerninksweg,90,,
-7621XP,Beerninksweg,92,,
-7621XP,Beerninksweg,94,,
-7621XP,Beerninksweg,96,,
-7621XP,Beerninksweg,116,a,
-7625RM,Bekkingvelderweg,1,,
-7625RM,Bekkingvelderweg,2,,
-7625RM,Bekkingvelderweg,3,,
-7625RM,Bekkingvelderweg,3,b,
-7625RM,Bekkingvelderweg,4,,
-7625RM,Bekkingvelderweg,6,,
-7625RM,Bekkingvelderweg,6,b,
-7625RM,Bekkingvelderweg,6,a,
-7625RM,Bekkingvelderweg,7,,
-7625RM,Bekkingvelderweg,9,,
-7625RM,Bekkingvelderweg,10,,
-7625RK,Bothorsterweg,1,,
-7625SP,Brakeweg,1,,
-7625SP,Brakeweg,2,,
-7625SP,Brakeweg,12,,
-7625RJ,Bruggemansweg,1,,
-7625RJ,Bruggemansweg,2,,
-7625TA,Carmelitessenweg,1,,
-7625TA,Carmelitessenweg,1,,
-7625RL,Dashorsterweg,1,,
-7625RL,Dashorsterweg,1,b,
-7625RL,Dashorsterweg,3,,
-7625RL,Dashorsterweg,3,a,
-7625RX,Elhorsterweg,2,,
-7625RX,Elhorsterweg,2,a,
-7625RX,Elhorsterweg,3,,
-7625RX,Elhorsterweg,4,,
-7625RX,Elhorsterweg,4,a,
-7625RX,Elhorsterweg,5,,
-7625RX,Elhorsterweg,6,,
-7625RX,Elhorsterweg,8,,
-7625RX,Elhorsterweg,10,,
-7625RX,Elhorsterweg,10,,
-7625NG,Erve Escher,1,,
-7625NG,Erve Escher,2,,
-7625NG,Erve Escher,3,,
-7625NG,Erve Escher,4,,
-7625NG,Erve Escher,5,,
-7625NG,Erve Escher,6,,
-7625NG,Erve Escher,7,,
-7625NG,Erve Escher,7,,
-7625NG,Erve Escher,8,,
-7625NG,Erve Escher,9,,
-7625NG,Erve Escher,10,,
-7625NG,Erve Escher,11,,
-7625NG,Erve Escher,12,,
-7625NG,Erve Escher,12,,
-7625NG,Erve Escher,14,,
-7625NG,Erve Escher,16,,
-7625NG,Erve Escher,19,,
-7625NG,Erve Escher,21,,
-7625NG,Erve Escher,23,,
-7625NG,Erve Escher,25,,
-7625NG,Erve Escher,27,,
-7625NG,Erve Escher,29,,
-7625SV,Esweg,1,,
-7625SV,Esweg,2,,
-7625SV,Esweg,4,,
-7625SV,Esweg,6,,
-7625SV,Esweg,8,,
-7625SN,Grintkolkenweg,1,,
-7625SN,Grintkolkenweg,2,,
-7625SH,Grote Bavenkelsweg,16,,
-7625SH,Grote Bavenkelsweg,18,,
-7625ST,Het Hag,2,,
-7625ST,Het Hag,4,,
-7625RB,Hebbrodweg,2,,
-7625RB,Hebbrodweg,3,,
-7625RB,Hebbrodweg,4,,
-7625RB,Hebbrodweg,5,,
-7625RH,Hertmerweg,38,,
-7625RH,Hertmerweg,39,,
-7625RH,Hertmerweg,39,a,
-7625RH,Hertmerweg,40,,
-7625RH,Hertmerweg,42,,
-7625RH,Hertmerweg,42,a,
-7625RH,Hertmerweg,42,c,
-7625RH,Hertmerweg,42,d,
-7625RH,Hertmerweg,44,,
-7625RH,Hertmerweg,45,,
-7625RH,Hertmerweg,45,a,
-7625RH,Hertmerweg,46,,
-7625RH,Hertmerweg,46,,
-7625RH,Hertmerweg,49,,
-7625RE,Hilbertsweg,1,,
-7625RE,Hilbertsweg,2,,
-7625PL,De Hondenhoek,1,,
-7625PL,De Hondenhoek,2,,
-7625RC,Klumpertsweg,1,,
-7625RC,Klumpertsweg,1,a,
-7625RK,Kottermansweg,2,,
-7625RK,Kottermansweg,4,,
-7625PL,Lidwinaweg,1,a,
-7625PL,Lidwinaweg,3,,
-7625PL,Lidwinaweg,5,,
-7625PL,Lidwinaweg,5,a,
-7625PL,Lidwinaweg,5,b,
-7625PL,Lidwinaweg,7,,
-7625PL,Lidwinaweg,9,,
-7625PL,Lidwinaweg,11,,
-7625PL,Lidwinaweg,13,,
-7625PL,Lidwinaweg,13,a,
-7625PL,Lidwinaweg,15,,
-7625PL,Lidwinaweg,15,a,
-7625PL,Lidwinaweg,17,,
-7625PL,Lidwinaweg,19,,
-7625PL,Lidwinaweg,21,,
-7625PL,Lidwinaweg,21,a,
-7625PL,Lidwinaweg,23,,
-7625PL,Lidwinaweg,23,b,
-7625PL,Lidwinaweg,25,,
-7625PL,Lidwinaweg,25,a,
-7625PL,Lidwinaweg,27,,
-7625PM,Lidwinaweg,2,b,
-7625PM,Lidwinaweg,2,,
-7625PM,Lidwinaweg,4,,
-7625PM,Lidwinaweg,6,,
-7625PM,Lidwinaweg,8,,
-7625PM,Lidwinaweg,10,,
-7625PM,Lidwinaweg,12,,
-7625PM,Lidwinaweg,14,,
-7625PM,Lidwinaweg,18,,
-7625PM,Lidwinaweg,20,,
-7625PM,Lidwinaweg,22,,
-7625PM,Lidwinaweg,24,,
-7625PM,Lidwinaweg,26,,
-7625PM,Lidwinaweg,28,,
-7625PM,Lidwinaweg,30,,
-7625PM,Lidwinaweg,32,,
-7625PM,Lidwinaweg,34,,
-7625PM,Lidwinaweg,40,,
-7625PM,Lidwinaweg,42,,
-7625PM,Lidwinaweg,44,a,
-7625PM,Lidwinaweg,46,a,
-7625PM,Lidwinaweg,50,,
-7625SW,Meester Thienweg,1,,
-7625SW,Meester Thienweg,3,,
-7625SW,Meester Thienweg,4,,
-7625SW,Meester Thienweg,6,,
-7625SW,Meester Thienweg,6,a,
-7625NJ,Erve Timmerman,1,,
-7625NJ,Erve Timmerman,2,,
-7625NJ,Erve Timmerman,3,,
-7625NJ,Erve Timmerman,4,,
-7625NJ,Erve Timmerman,4,,
-7625NJ,Erve Timmerman,5,,
-7625NJ,Erve Timmerman,6,,
-7625NJ,Erve Timmerman,6,,
-7625NJ,Erve Timmerman,7,,
-7625NJ,Erve Timmerman,8,,
-7625NJ,Erve Timmerman,10,,
-7625NJ,Erve Timmerman,22,,
-7625NJ,Erve Timmerman,24,,
-7625NJ,Erve Timmerman,26,,
-7625NJ,Erve Timmerman,26,,
-7625SJ,Zeilkerweg,1,,
-7625SJ,Zeilkerweg,1,a,
-7625RT,Oude Albergerweg,4,,
-7625RN,Albergerweg,21,,
-7625RN,Albergerweg,21,,
-7625RN,Albergerweg,23,,
-7625RN,Albergerweg,23,,
-7625RN,Albergerweg,13,,
-7625RP,Albergerweg,24,,
-7625RP,Albergerweg,22,a,
-7625RP,Albergerweg,22,b,
-7625SC,Almelosestraat,2,a,
-7625RM,Bekkingvelderweg,8,,
-7625RK,Bothorsterweg,1,a,
-7625RK,Bothorsterweg,1,,
-7625NG,Erve Escher,18,,
-7625NG,Erve Escher,20,,
-7625NG,Erve Escher,24,,
-7625NG,Erve Escher,22,,
-7625NG,Erve Escher,22,a,
-7625SN,Grintkolkenweg,2,a,
-7625RB,Hebbrodweg,1,,
-7625RH,Hertmerweg,42,b,
-7625RH,Hertmerweg,42,a,
-7625RH,Hertmerweg,42,a,
-7625RH,Hertmerweg,47,,
-7625RH,Hertmerweg,42,a,
-7625RH,Hertmerweg,42,b,
-7625RH,Hertmerweg,42,c,
-7625RH,Hertmerweg,42,d,
-7625PL,Lidwinaweg,17,a,
-7625PL,Lidwinaweg,17,a,
-7625PL,Lidwinaweg,1,,
-7625PL,Lidwinaweg,1,,
-7625PL,Lidwinaweg,1,,
-7625PM,Lidwinaweg,2,a,
-7625RT,Oude Albergerweg,4,,
-7625RA,Oude Bieffel,11,,
-7625RA,Oude Bieffel,15,,
-7625RA,Oude Bieffel,17,,
-7625RA,Oude Bieffel,19,,
-7625RA,Oude Bieffel,23,,
-7625RA,Oude Bieffel,23,a,
-7625RA,Oude Bieffel,2,,
-7625RA,Oude Bieffel,17,,
-7625RG,Oude Bornseweg,1,,
-7625RG,Oude Bornseweg,3,,
-7625RG,Oude Bornseweg,3,,
-7625PJ,Prinsenweg,2,,
-7625PJ,Prinsenweg,4,,
-7625PJ,Prinsenweg,6,,
-7625PJ,Prinsenweg,9,,
-7625PJ,Prinsenweg,10,,
-7625PJ,Prinsenweg,11,,
-7625PJ,Prinsenweg,12,,
-7625PJ,Prinsenweg,14,,
-7625PJ,Prinsenweg,14,b,
-7625PJ,Prinsenweg,8,,
-7625PJ,Prinsenweg,10,,
-7625PJ,Prinsenweg,6,,
-7625SR,Reefsweg,1,,
-7625SR,Reefsweg,2,,
-7625SR,Reefsweg,3,,
-7625SR,Reefsweg,4,,
-7625SR,Reefsweg,6,,
-7625SR,Reefsweg,7,,
-7625SR,Reefsweg,8,,
-7625SR,Reefsweg,5,,
-7625TD,Sandmansweg,2,,
-7625RR,Strootdijk,1,,
-7625RR,Strootdijk,3,,
-7625RR,Strootdijk,5,,
-7625NJ,Erve Timmerman,13,,
-7625NJ,Erve Timmerman,11,,
-7625NJ,Erve Timmerman,9,,
-7625NJ,Erve Timmerman,18,,
-7625NJ,Erve Timmerman,16,,
-7625NJ,Erve Timmerman,14,,
-7625NJ,Erve Timmerman,15,,
-7625NJ,Erve Timmerman,20,,
-7625NJ,Erve Timmerman,12,,
-7625NJ,Erve Timmerman,23,,
-7625NJ,Erve Timmerman,17,,
-7625NJ,Erve Timmerman,19,,
-7625NJ,Erve Timmerman,21,,
-7621AA,Vaaltweg,2,,
-7621AA,Vaaltweg,4,,
-7621AA,Vaaltweg,6,,
-7621AA,Vaaltweg,6,b,
-7625SK,Vloedbeltsweg,2,,
-7625SJ,Zeilkerweg,7,,
-7625SJ,Zeilkerweg,8,,
-7625SJ,Zeilkerweg,10,,
-7625SJ,Zeilkerweg,12,,
-7625SR,Zenderensestraat,5,,
-7625TE,Zenderensestraat,1,a,
-7625TE,Zenderensestraat,2,,
-7625TE,Zenderensestraat,3,,
-7625TE,Zenderensestraat,3,a,
-7625TE,Zenderensestraat,4,a,
-7625TE,Zenderensestraat,4,a,
-7625TE,Zenderensestraat,5,,
-7625TE,Zenderensestraat,6,,
-7625TE,Zenderensestraat,7,,
-7625TE,Zenderensestraat,8,,
-7625TE,Zenderensestraat,8,a,
-7625TE,Zenderensestraat,10,,
-7625TE,Zenderensestraat,12,,
-7625TE,Zenderensestraat,16,,
-7625TE,Zenderensestraat,3,c,
-7625TE,Zenderensestraat,5,,
-7625TE,Zenderensestraat,9,,
-7625TE,Zenderensestraat,12,,
-7625TE,Zenderensestraat,16,,
-7625TE,Zenderensestraat,16,,
-7625TE,Zenderensestraat,11,,
-7625TE,Zenderensestraat,16,a,
-7625TE,Zenderensestraat,16,a,
-7625TE,Zenderensestraat,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vaaltweg,2,"","",7621AA,Borne
+Vaaltweg,4,"","",7621AA,Borne
+Vaaltweg,6,"","",7621AA,Borne
+Vaaltweg,6,B,"",7621AA,Borne
+Beerninksweg,121,"","",7621XG,Borne
+Beerninksweg,123,"","",7621XG,Borne
+Beerninksweg,116,A,"",7621XP,Borne
+Beerninksweg,52,"","",7621XP,Borne
+Beerninksweg,54,"","",7621XP,Borne
+Beerninksweg,56,"","",7621XP,Borne
+Beerninksweg,58,"","",7621XP,Borne
+Beerninksweg,60,"","",7621XP,Borne
+Beerninksweg,62,"","",7621XP,Borne
+Beerninksweg,64,"","",7621XP,Borne
+Beerninksweg,66,"","",7621XP,Borne
+Beerninksweg,68,"","",7621XP,Borne
+Beerninksweg,70,"","",7621XP,Borne
+Beerninksweg,72,"","",7621XP,Borne
+Beerninksweg,74,"","",7621XP,Borne
+Beerninksweg,76,"","",7621XP,Borne
+Beerninksweg,78,"","",7621XP,Borne
+Beerninksweg,80,"","",7621XP,Borne
+Beerninksweg,82,"","",7621XP,Borne
+Beerninksweg,84,"","",7621XP,Borne
+Beerninksweg,86,"","",7621XP,Borne
+Beerninksweg,88,"","",7621XP,Borne
+Beerninksweg,90,"","",7621XP,Borne
+Beerninksweg,92,"","",7621XP,Borne
+Beerninksweg,94,"","",7621XP,Borne
+Beerninksweg,96,"","",7621XP,Borne
+Erve Escher,1,"","",7625NG,Zenderen
+Erve Escher,10,"","",7625NG,Zenderen
+Erve Escher,11,"","",7625NG,Zenderen
+Erve Escher,12,"","",7625NG,Zenderen
+Erve Escher,12,"","",7625NG,Zenderen
+Erve Escher,14,"","",7625NG,Zenderen
+Erve Escher,16,"","",7625NG,Zenderen
+Erve Escher,18,"","",7625NG,Zenderen
+Erve Escher,19,"","",7625NG,Zenderen
+Erve Escher,2,"","",7625NG,Zenderen
+Erve Escher,20,"","",7625NG,Zenderen
+Erve Escher,21,"","",7625NG,Zenderen
+Erve Escher,22,"","",7625NG,Zenderen
+Erve Escher,22,A,"",7625NG,Zenderen
+Erve Escher,23,"","",7625NG,Zenderen
+Erve Escher,24,"","",7625NG,Zenderen
+Erve Escher,25,"","",7625NG,Zenderen
+Erve Escher,27,"","",7625NG,Zenderen
+Erve Escher,29,"","",7625NG,Zenderen
+Erve Escher,3,"","",7625NG,Zenderen
+Erve Escher,4,"","",7625NG,Zenderen
+Erve Escher,5,"","",7625NG,Zenderen
+Erve Escher,6,"","",7625NG,Zenderen
+Erve Escher,7,"","",7625NG,Zenderen
+Erve Escher,7,"","",7625NG,Zenderen
+Erve Escher,8,"","",7625NG,Zenderen
+Erve Escher,9,"","",7625NG,Zenderen
+Erve Timmerman,1,"","",7625NJ,Zenderen
+Erve Timmerman,10,"","",7625NJ,Zenderen
+Erve Timmerman,11,"","",7625NJ,Zenderen
+Erve Timmerman,12,"","",7625NJ,Zenderen
+Erve Timmerman,13,"","",7625NJ,Zenderen
+Erve Timmerman,14,"","",7625NJ,Zenderen
+Erve Timmerman,15,"","",7625NJ,Zenderen
+Erve Timmerman,16,"","",7625NJ,Zenderen
+Erve Timmerman,17,"","",7625NJ,Zenderen
+Erve Timmerman,18,"","",7625NJ,Zenderen
+Erve Timmerman,19,"","",7625NJ,Zenderen
+Erve Timmerman,2,"","",7625NJ,Zenderen
+Erve Timmerman,20,"","",7625NJ,Zenderen
+Erve Timmerman,21,"","",7625NJ,Zenderen
+Erve Timmerman,22,"","",7625NJ,Zenderen
+Erve Timmerman,23,"","",7625NJ,Zenderen
+Erve Timmerman,24,"","",7625NJ,Zenderen
+Erve Timmerman,26,"","",7625NJ,Zenderen
+Erve Timmerman,26,"","",7625NJ,Zenderen
+Erve Timmerman,3,"","",7625NJ,Zenderen
+Erve Timmerman,4,"","",7625NJ,Zenderen
+Erve Timmerman,4,"","",7625NJ,Zenderen
+Erve Timmerman,5,"","",7625NJ,Zenderen
+Erve Timmerman,6,"","",7625NJ,Zenderen
+Erve Timmerman,6,"","",7625NJ,Zenderen
+Erve Timmerman,7,"","",7625NJ,Zenderen
+Erve Timmerman,8,"","",7625NJ,Zenderen
+Erve Timmerman,9,"","",7625NJ,Zenderen
+Prinsenweg,10,"","",7625PJ,Zenderen
+Prinsenweg,10,"","",7625PJ,Zenderen
+Prinsenweg,10,"","",7625PJ,Zenderen
+Prinsenweg,11,"","",7625PJ,Zenderen
+Prinsenweg,12,"","",7625PJ,Zenderen
+Prinsenweg,14,"","",7625PJ,Zenderen
+Prinsenweg,14,B,"",7625PJ,Zenderen
+Prinsenweg,2,"","",7625PJ,Zenderen
+Prinsenweg,4,"","",7625PJ,Zenderen
+Prinsenweg,6,"","",7625PJ,Zenderen
+Prinsenweg,6,"","",7625PJ,Zenderen
+Prinsenweg,6,"","",7625PJ,Zenderen
+Prinsenweg,8,"","",7625PJ,Zenderen
+Prinsenweg,9,"","",7625PJ,Zenderen
+De Hondenhoek,1,"","",7625PL,Zenderen
+De Hondenhoek,1,"","",7625PL,Zenderen
+De Hondenhoek,1,"","",7625PL,Zenderen
+De Hondenhoek,1,"","",7625PL,Zenderen
+De Hondenhoek,1,"","",7625PL,Zenderen
+Lidwinaweg,1,A,"",7625PL,Zenderen
+Lidwinaweg,11,"","",7625PL,Zenderen
+Lidwinaweg,13,"","",7625PL,Zenderen
+Lidwinaweg,13,A,"",7625PL,Zenderen
+Lidwinaweg,15,"","",7625PL,Zenderen
+Lidwinaweg,15,A,"",7625PL,Zenderen
+Lidwinaweg,17,"","",7625PL,Zenderen
+Lidwinaweg,17,A,"",7625PL,Zenderen
+Lidwinaweg,17,A,"",7625PL,Zenderen
+Lidwinaweg,19,"","",7625PL,Zenderen
+De Hondenhoek,2,"","",7625PL,Zenderen
+Lidwinaweg,21,"","",7625PL,Zenderen
+Lidwinaweg,21,A,"",7625PL,Zenderen
+Lidwinaweg,23,"","",7625PL,Zenderen
+Lidwinaweg,23,B,"",7625PL,Zenderen
+Lidwinaweg,25,"","",7625PL,Zenderen
+Lidwinaweg,25,A,"",7625PL,Zenderen
+Lidwinaweg,27,"","",7625PL,Zenderen
+Lidwinaweg,3,"","",7625PL,Zenderen
+Lidwinaweg,5,"","",7625PL,Zenderen
+Lidwinaweg,5,A,"",7625PL,Zenderen
+Lidwinaweg,5,B,"",7625PL,Zenderen
+Lidwinaweg,7,"","",7625PL,Zenderen
+Lidwinaweg,9,"","",7625PL,Zenderen
+Lidwinaweg,10,"","",7625PM,Zenderen
+Lidwinaweg,12,"","",7625PM,Zenderen
+Lidwinaweg,14,"","",7625PM,Zenderen
+Lidwinaweg,18,"","",7625PM,Zenderen
+Lidwinaweg,2,"","",7625PM,Zenderen
+Lidwinaweg,2,A,"",7625PM,Zenderen
+Lidwinaweg,2,B,"",7625PM,Zenderen
+Lidwinaweg,20,"","",7625PM,Zenderen
+Lidwinaweg,22,"","",7625PM,Zenderen
+Lidwinaweg,24,"","",7625PM,Zenderen
+Lidwinaweg,26,"","",7625PM,Zenderen
+Lidwinaweg,28,"","",7625PM,Zenderen
+Lidwinaweg,30,"","",7625PM,Zenderen
+Lidwinaweg,32,"","",7625PM,Zenderen
+Lidwinaweg,34,"","",7625PM,Zenderen
+Lidwinaweg,4,"","",7625PM,Zenderen
+Lidwinaweg,40,"","",7625PM,Zenderen
+Lidwinaweg,42,"","",7625PM,Zenderen
+Lidwinaweg,44,A,"",7625PM,Zenderen
+Lidwinaweg,46,A,"",7625PM,Zenderen
+Lidwinaweg,50,"","",7625PM,Zenderen
+Lidwinaweg,6,"","",7625PM,Zenderen
+Lidwinaweg,8,"","",7625PM,Zenderen
+Oude Bieffel,11,"","",7625RA,Zenderen
+Oude Bieffel,15,"","",7625RA,Zenderen
+Oude Bieffel,17,"","",7625RA,Zenderen
+Oude Bieffel,17,"","",7625RA,Zenderen
+Oude Bieffel,17,"","",7625RA,Zenderen
+Oude Bieffel,19,"","",7625RA,Zenderen
+Oude Bieffel,2,"","",7625RA,Zenderen
+Oude Bieffel,23,"","",7625RA,Zenderen
+Oude Bieffel,23,A,"",7625RA,Zenderen
+Hebbrodweg,1,"","",7625RB,Zenderen
+Hebbrodweg,2,"","",7625RB,Zenderen
+Hebbrodweg,3,"","",7625RB,Zenderen
+Hebbrodweg,4,"","",7625RB,Zenderen
+Hebbrodweg,5,"","",7625RB,Zenderen
+Klumpertsweg,1,"","",7625RC,Zenderen
+Klumpertsweg,1,A,"",7625RC,Zenderen
+Hilbertsweg,1,"","",7625RE,Zenderen
+Hilbertsweg,2,"","",7625RE,Zenderen
+Oude Bornseweg,1,"","",7625RG,Zenderen
+Oude Bornseweg,3,"","",7625RG,Zenderen
+Oude Bornseweg,3,"","",7625RG,Zenderen
+Oude Bornseweg,3,"","",7625RG,Zenderen
+Hertmerweg,38,"","",7625RH,Zenderen
+Hertmerweg,39,"","",7625RH,Zenderen
+Hertmerweg,39,A,"",7625RH,Zenderen
+Hertmerweg,40,"","",7625RH,Zenderen
+Hertmerweg,42,"","",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,A,"",7625RH,Zenderen
+Hertmerweg,42,B,"",7625RH,Zenderen
+Hertmerweg,42,B,"",7625RH,Zenderen
+Hertmerweg,42,B,"",7625RH,Zenderen
+Hertmerweg,42,C,"",7625RH,Zenderen
+Hertmerweg,42,C,"",7625RH,Zenderen
+Hertmerweg,42,C,"",7625RH,Zenderen
+Hertmerweg,42,D,"",7625RH,Zenderen
+Hertmerweg,42,D,"",7625RH,Zenderen
+Hertmerweg,42,D,"",7625RH,Zenderen
+Hertmerweg,44,"","",7625RH,Zenderen
+Hertmerweg,45,"","",7625RH,Zenderen
+Hertmerweg,45,A,"",7625RH,Zenderen
+Hertmerweg,46,"","",7625RH,Zenderen
+Hertmerweg,46,"","",7625RH,Zenderen
+Hertmerweg,47,"","",7625RH,Zenderen
+Hertmerweg,47,"","",7625RH,Zenderen
+Hertmerweg,49,"","",7625RH,Zenderen
+Bruggemansweg,1,"","",7625RJ,Zenderen
+Bruggemansweg,2,"","",7625RJ,Zenderen
+Bothorsterweg,1,"","",7625RK,Zenderen
+Bothorsterweg,1,"","",7625RK,Zenderen
+Bothorsterweg,1,"","",7625RK,Zenderen
+Bothorsterweg,1,A,"",7625RK,Zenderen
+Kottermansweg,2,"","",7625RK,Zenderen
+Kottermansweg,4,"","",7625RK,Zenderen
+Dashorsterweg,1,"","",7625RL,Zenderen
+Dashorsterweg,1,B,"",7625RL,Zenderen
+Dashorsterweg,3,"","",7625RL,Zenderen
+Dashorsterweg,3,A,"",7625RL,Zenderen
+Bekkingvelderweg,1,"","",7625RM,Zenderen
+Bekkingvelderweg,10,"","",7625RM,Zenderen
+Bekkingvelderweg,2,"","",7625RM,Zenderen
+Bekkingvelderweg,3,"","",7625RM,Zenderen
+Bekkingvelderweg,3,B,"",7625RM,Zenderen
+Bekkingvelderweg,4,"","",7625RM,Zenderen
+Bekkingvelderweg,6,"","",7625RM,Zenderen
+Bekkingvelderweg,6,A,"",7625RM,Zenderen
+Bekkingvelderweg,6,B,"",7625RM,Zenderen
+Bekkingvelderweg,7,"","",7625RM,Zenderen
+Bekkingvelderweg,8,"","",7625RM,Zenderen
+Bekkingvelderweg,9,"","",7625RM,Zenderen
+Albergerweg,11,"","",7625RN,Zenderen
+Albergerweg,13,"","",7625RN,Zenderen
+Albergerweg,13,"","",7625RN,Zenderen
+Albergerweg,13,"","",7625RN,Zenderen
+Albergerweg,15,"","",7625RN,Zenderen
+Albergerweg,15,A,"",7625RN,Zenderen
+Albergerweg,17,"","",7625RN,Zenderen
+Albergerweg,19,"","",7625RN,Zenderen
+Albergerweg,19,A,"",7625RN,Zenderen
+Albergerweg,19,B,"",7625RN,Zenderen
+Albergerweg,19,C,"",7625RN,Zenderen
+Albergerweg,21,"","",7625RN,Zenderen
+Albergerweg,21,"","",7625RN,Zenderen
+Albergerweg,21,"","",7625RN,Zenderen
+Albergerweg,21,"","",7625RN,Zenderen
+Albergerweg,23,"","",7625RN,Zenderen
+Albergerweg,23,"","",7625RN,Zenderen
+Albergerweg,25,"","",7625RN,Zenderen
+Albergerweg,5,"","",7625RN,Zenderen
+Albergerweg,7,"","",7625RN,Zenderen
+Albergerweg,9,"","",7625RN,Zenderen
+Albergerweg,10,"","",7625RP,Zenderen
+Albergerweg,12,"","",7625RP,Zenderen
+Albergerweg,14,"","",7625RP,Zenderen
+Albergerweg,16,"","",7625RP,Zenderen
+Albergerweg,18,"","",7625RP,Zenderen
+Albergerweg,18,A,"",7625RP,Zenderen
+Albergerweg,20,"","",7625RP,Zenderen
+Albergerweg,22,"","",7625RP,Zenderen
+Albergerweg,22,A,"",7625RP,Zenderen
+Albergerweg,22,B,"",7625RP,Zenderen
+Albergerweg,24,"","",7625RP,Zenderen
+Albergerweg,24,"","",7625RP,Zenderen
+Albergerweg,26,"","",7625RP,Zenderen
+Albergerweg,26,A,"",7625RP,Zenderen
+Albergerweg,28,"","",7625RP,Zenderen
+Albergerweg,28,A,"",7625RP,Zenderen
+Albergerweg,28,A,"",7625RP,Zenderen
+Albergerweg,4,"","",7625RP,Zenderen
+Strootdijk,1,"","",7625RR,Zenderen
+Strootdijk,3,"","",7625RR,Zenderen
+Strootdijk,5,"","",7625RR,Zenderen
+Oude Albergerweg,4,"","",7625RT,Zenderen
+Oude Albergerweg,4,"","",7625RT,Zenderen
+Elhorsterweg,10,"","",7625RX,Zenderen
+Elhorsterweg,10,"","",7625RX,Zenderen
+Elhorsterweg,2,"","",7625RX,Zenderen
+Elhorsterweg,2,A,"",7625RX,Zenderen
+Elhorsterweg,3,"","",7625RX,Zenderen
+Elhorsterweg,4,"","",7625RX,Zenderen
+Elhorsterweg,4,A,"",7625RX,Zenderen
+Elhorsterweg,5,"","",7625RX,Zenderen
+Elhorsterweg,6,"","",7625RX,Zenderen
+Elhorsterweg,8,"","",7625RX,Zenderen
+Almelosestraat,1,"","",7625SC,Zenderen
+Almelosestraat,1,"","",7625SC,Zenderen
+Almelosestraat,2,"","",7625SC,Zenderen
+Almelosestraat,2,A,"",7625SC,Zenderen
+Almelosestraat,3,"","",7625SC,Zenderen
+Almelosestraat,3,A,"",7625SC,Zenderen
+Almelosestraat,4,"","",7625SC,Zenderen
+Almelosestraat,6,"","",7625SC,Zenderen
+Grote Bavenkelsweg,16,"","",7625SH,Zenderen
+Grote Bavenkelsweg,16,"","",7625SH,Zenderen
+Grote Bavenkelsweg,18,"","",7625SH,Zenderen
+Grote Bavenkelsweg,18,"","",7625SH,Zenderen
+Zeilkerweg,1,"","",7625SJ,Zenderen
+Zeilkerweg,1,A,"",7625SJ,Zenderen
+Zeilkerweg,10,"","",7625SJ,Zenderen
+Zeilkerweg,12,"","",7625SJ,Zenderen
+Zeilkerweg,7,"","",7625SJ,Zenderen
+Zeilkerweg,8,"","",7625SJ,Zenderen
+Vloedbeltsweg,2,"","",7625SK,Zenderen
+Grintkolkenweg,1,"","",7625SN,Zenderen
+Grintkolkenweg,2,"","",7625SN,Zenderen
+Grintkolkenweg,2,A,"",7625SN,Zenderen
+Brakeweg,1,"","",7625SP,Zenderen
+Brakeweg,12,"","",7625SP,Zenderen
+Brakeweg,2,"","",7625SP,Zenderen
+Reefsweg,1,"","",7625SR,Zenderen
+Reefsweg,2,"","",7625SR,Zenderen
+Reefsweg,3,"","",7625SR,Zenderen
+Reefsweg,4,"","",7625SR,Zenderen
+Zenderensestraat,5,"","",7625SR,Zenderen
+Zenderensestraat,5,"","",7625SR,Zenderen
+Zenderensestraat,5,"","",7625SR,Zenderen
+Reefsweg,6,"","",7625SR,Zenderen
+Reefsweg,7,"","",7625SR,Zenderen
+Reefsweg,8,"","",7625SR,Zenderen
+Het Hag,2,"","",7625ST,Zenderen
+Het Hag,4,"","",7625ST,Zenderen
+Esweg,1,"","",7625SV,Zenderen
+Esweg,2,"","",7625SV,Zenderen
+Esweg,4,"","",7625SV,Zenderen
+Esweg,6,"","",7625SV,Zenderen
+Esweg,8,"","",7625SV,Zenderen
+Meester Thienweg,1,"","",7625SW,Zenderen
+Meester Thienweg,3,"","",7625SW,Zenderen
+Meester Thienweg,4,"","",7625SW,Zenderen
+Meester Thienweg,6,"","",7625SW,Zenderen
+Meester Thienweg,6,A,"",7625SW,Zenderen
+Carmelitessenweg,1,"","",7625TA,Zenderen
+Carmelitessenweg,1,"","",7625TA,Zenderen
+Sandmansweg,2,"","",7625TD,Zenderen
+Zenderensestraat,1,"","",7625TE,Borne
+Zenderensestraat,1,A,"",7625TE,Zenderen
+Zenderensestraat,10,"","",7625TE,Zenderen
+Zenderensestraat,11,"","",7625TE,Zenderen
+Zenderensestraat,12,"","",7625TE,Zenderen
+Zenderensestraat,12,"","",7625TE,Zenderen
+Zenderensestraat,12,"","",7625TE,Zenderen
+Zenderensestraat,16,"","",7625TE,Zenderen
+Zenderensestraat,16,"","",7625TE,Zenderen
+Zenderensestraat,16,"","",7625TE,Zenderen
+Zenderensestraat,16,"","",7625TE,Zenderen
+Zenderensestraat,16,"","",7625TE,Zenderen
+Zenderensestraat,16,A,"",7625TE,Zenderen
+Zenderensestraat,16,A,"",7625TE,Zenderen
+Zenderensestraat,2,"","",7625TE,Zenderen
+Zenderensestraat,3,"","",7625TE,Zenderen
+Zenderensestraat,3,A,"",7625TE,Zenderen
+Zenderensestraat,3,C,"",7625TE,Zenderen
+Zenderensestraat,4,A,"",7625TE,Zenderen
+Zenderensestraat,4,A,"",7625TE,Zenderen
+Zenderensestraat,4,A,"",7625TE,Zenderen
+Zenderensestraat,5,"","",7625TE,Zenderen
+Zenderensestraat,5,"","",7625TE,Zenderen
+Zenderensestraat,5,"","",7625TE,Zenderen
+Zenderensestraat,6,"","",7625TE,Zenderen
+Zenderensestraat,7,"","",7625TE,Zenderen
+Zenderensestraat,8,"","",7625TE,Zenderen
+Zenderensestraat,8,A,"",7625TE,Zenderen
+Zenderensestraat,9,"","",7625TE,Zenderen

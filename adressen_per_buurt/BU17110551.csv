@@ -1,30 +1,30 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6101JZ,Bellekeweg,9,,
-6101JZ,Bellekeweg,15,,
-6101JZ,Bellekeweg,19,,
-6101JZ,Bellekeweg,23,,
-6101JZ,Bellekeweg,39,,
-6101JZ,Bellekeweg,11,,
-6101JZ,Bellekeweg,3,,
-6101JZ,Bellekeweg,5,,
-6101JZ,Bellekeweg,37,,
-6101JZ,Bellekeweg,21,,
-6101JZ,Bellekeweg,11,A,
-6101JZ,Bellekeweg,11,B,
-6101ER,Bovenste Eind,30,,
-6101ER,Bovenste Eind,34,,
-6101ER,Bovenste Eind,34,A,
-6101ER,Bovenste Eind,36,,
-6101ER,Bovenste Eind,36,A,
-6101ER,Bovenste Eind,38,,
-6101ER,Bovenste Eind,40,,
-6101ER,Bovenste Eind,40,A,
-6101ER,Bovenste Eind,42,,
-6101ER,Bovenste Eind,46,,
-6101ER,Bovenste Eind,28,A,
-6101ER,Bovenste Eind,44,,
-6101ER,Bovenste Eind,28,,
-6101PA,Oude Molenbeekweg,2,,
-6101JZ,Bellekeweg,20,,
-6101ER,Bovenste Eind,44,,
-6101ER,Bovenste Eind,48,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bovenste Eind,28,"","",6101ER,Echt
+Bovenste Eind,28,A,"",6101ER,Echt
+Bovenste Eind,30,"","",6101ER,Echt
+Bovenste Eind,34,"","",6101ER,Echt
+Bovenste Eind,34,A,"",6101ER,Echt
+Bovenste Eind,36,"","",6101ER,Echt
+Bovenste Eind,36,A,"",6101ER,Echt
+Bovenste Eind,38,"","",6101ER,Echt
+Bovenste Eind,40,"","",6101ER,Echt
+Bovenste Eind,40,A,"",6101ER,Echt
+Bovenste Eind,42,"","",6101ER,Echt
+Bovenste Eind,44,"","",6101ER,Echt
+Bovenste Eind,44,"","",6101ER,Echt
+Bovenste Eind,46,"","",6101ER,Echt
+Bovenste Eind,48,"","",6101ER,Echt
+Bellekeweg,11,"","",6101JZ,Echt
+Bellekeweg,11,A,"",6101JZ,Echt
+Bellekeweg,11,B,"",6101JZ,Echt
+Bellekeweg,15,"","",6101JZ,Echt
+Bellekeweg,19,"","",6101JZ,Echt
+Bellekeweg,20,"","",6101JZ,Echt
+Bellekeweg,21,"","",6101JZ,Echt
+Bellekeweg,23,"","",6101JZ,Echt
+Bellekeweg,3,"","",6101JZ,Echt
+Bellekeweg,37,"","",6101JZ,Echt
+Bellekeweg,39,"","",6101JZ,Echt
+Bellekeweg,5,"","",6101JZ,Echt
+Bellekeweg,9,"","",6101JZ,Echt
+Oude Molenbeekweg,2,"","",6101PA,Echt

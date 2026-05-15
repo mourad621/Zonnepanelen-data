@@ -1,78 +1,79 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8732EB",6,"",""
-"8732EB",2,"a",""
-"8732EB",2,"",""
-"8732EB",4,"",""
-"8732EB",1,"",""
-"8732EB",6,"",""
-"8732EB",6,"",""
-"8732EB",6,"",""
-"8733EL",7,"",""
-"8733EL",2,"",""
-"8733EL",7,"d",""
-"8733EL",2,"",""
-"8733EL",7,"a",""
-"8733EL",7,"c",""
-"8733EL",7,"b",""
-"8733EL",9,"",""
-"8733EM",1,"",""
-"8733EM",3,"",""
-"8733EM",4,"",""
-"8733EM",5,"","WSCH"
-"8733EM",2,"",""
-"8733EM",5,"a","MLN"
-"8733EM",5,"",""
-"8733EN",2,"",""
-"8733EP",6,"",""
-"8733EP",6,"","NUON"
-"8733EP",9,"",""
-"8733EP",2,"",""
-"8733EP",1,"",""
-"8733EP",13,"",""
-"8733EP",2,"A",""
-"8733EP",5,"",""
-"8733EP",11,"",""
-"8733EP",8,"",""
-"8733EP",3,"",""
-"8733EP",4,"",""
-"8733EP",10,"",""
-"8733EP",12,"",""
-8732EB,Battenserreed,6,,
-8732EB,Berkwerterleane,4,,
-8732EB,Berkwerterleane,1,,
-8732EB,Berkwerterleane,6,,
-8732EB,Berkwerterleane,2,,
-8732EB,Berkwerterleane,6,,
-8732EB,Berkwerterleane,2,a,
-8733EN,Bûten de Kom,2,,
-8733EM,Hegenserleane,1,,
-8733EM,Hegenserleane,3,,
-8733EM,Hegenserleane,5,,
-8733EM,Hegenserleane,2,,
-8733EM,Hegenserleane,5,,WSCH
-8733EM,Hegenserleane,5,a,MLN
-8733EM,Hegenserleane,4,,
-8733EP,Van Burmaniawei,11,,
-8733EP,Van Burmaniawei,9,,
-8733EP,Van Burmaniawei,12,,
-8733EP,Van Burmaniawei,10,,
-8733EP,Van Burmaniawei,8,,
-8733EP,Van Burmaniawei,6,,
-8733EP,Van Burmaniawei,1,,
-8733EP,Van Burmaniawei,4,,
-8733EP,Van Burmaniawei,6,,NUON
-8733EP,Van Burmaniawei,5,,
-8733EP,Van Burmaniawei,3,,
-8733EP,Van Burmaniawei,2,,
-8733EP,Van Burmaniawei,2,A,
-8733EP,Van Burmaniawei,13,,
-8733EL,Laekwerterwei,7,,
-8733EL,Laekwerterwei,2,,
-8733EL,Laekwerterwei,9,,
-8733EL,Laekwerterwei,7,a,
-8733EL,Laekwerterwei,7,b,
-8733EL,Laekwerterwei,7,c,
-8733EL,Laekwerterwei,7,d,
-8733EM,Hegenserleane,4,A,
-8733EL,Laekwerterwei,2,,
-8733EL,Laekwerterwei,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+6,"","","",8732EB,
+2,"","","",8732EB,
+4,"","","",8732EB,
+1,"","","",8732EB,
+6,"","","",8732EB,
+6,"","","",8732EB,
+6,"","","",8732EB,
+Berkwerterleane,1,"","",8732EB,Kûbaard
+Berkwerterleane,2,"","",8732EB,Kûbaard
+Berkwerterleane,2,A,"",8732EB,Kûbaard
+Berkwerterleane,4,"","",8732EB,Kûbaard
+Berkwerterleane,6,"","",8732EB,Kûbaard
+Berkwerterleane,6,"","",8732EB,Kûbaard
+Berkwerterleane,6,"","",8732EB,Kûbaard
+2,A,"","",8732EB,
+7,"","","",8733EL,
+2,"","","",8733EL,
+2,"","","",8733EL,
+9,"","","",8733EL,
+Laekwerterwei,2,"","",8733EL,Iens
+Laekwerterwei,2,"","",8733EL,Iens
+Laekwerterwei,2,"","",8733EL,Iens
+Laekwerterwei,7,"","",8733EL,Iens
+Laekwerterwei,7,A,"",8733EL,Iens
+Laekwerterwei,7,B,"",8733EL,Iens
+Laekwerterwei,7,C,"",8733EL,Iens
+Laekwerterwei,7,D,"",8733EL,Iens
+Laekwerterwei,9,"","",8733EL,Iens
+7,A,"","",8733EL,
+7,B,"","",8733EL,
+7,C,"","",8733EL,
+7,D,"","",8733EL,
+1,"","","",8733EM,
+3,"","","",8733EM,
+4,"","","",8733EM,
+2,"","","",8733EM,
+5,"","","",8733EM,
+5,"",WSCH,"",8733EM,
+Hegenserleane,1,"","",8733EM,Iens
+Hegenserleane,2,"","",8733EM,Iens
+Hegenserleane,3,"","",8733EM,Iens
+Hegenserleane,4,"","",8733EM,Iens
+Hegenserleane,4,A,"",8733EM,Iens
+Hegenserleane,5,"","",8733EM,Iens
+Hegenserleane,5,"",WSCH,8733EM,Iens
+Hegenserleane,5,A,MLN,8733EM,Iens
+5,A,MLN,"",8733EM,
+2,"","","",8733EN,
+Bûten de Kom,2,"","",8733EN,Iens
+6,"","","",8733EP,
+9,"","","",8733EP,
+2,"","","",8733EP,
+1,"","","",8733EP,
+13,"","","",8733EP,
+5,"","","",8733EP,
+11,"","","",8733EP,
+8,"","","",8733EP,
+3,"","","",8733EP,
+4,"","","",8733EP,
+10,"","","",8733EP,
+12,"","","",8733EP,
+6,"",NUON,"",8733EP,
+Van Burmaniawei,1,"","",8733EP,Iens
+Van Burmaniawei,10,"","",8733EP,Iens
+Van Burmaniawei,11,"","",8733EP,Iens
+Van Burmaniawei,12,"","",8733EP,Iens
+Van Burmaniawei,13,"","",8733EP,Iens
+Van Burmaniawei,2,"","",8733EP,Iens
+Van Burmaniawei,2,A,"",8733EP,Iens
+Van Burmaniawei,3,"","",8733EP,Iens
+Van Burmaniawei,4,"","",8733EP,Iens
+Van Burmaniawei,5,"","",8733EP,Iens
+Van Burmaniawei,6,"","",8733EP,Iens
+Van Burmaniawei,6,"",NUON,8733EP,Iens
+Van Burmaniawei,8,"","",8733EP,Iens
+Van Burmaniawei,9,"","",8733EP,Iens
+2,A,"","",8733EP,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

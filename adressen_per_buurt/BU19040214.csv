@@ -1,8 +1,8 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3621LG,Kanaaldijk West,1,,
-3621LG,Kanaaldijk West,2,,
-3621LG,Kanaaldijk West,3,,
-3621LG,Kanaaldijk West,7,,
-3621LG,Kanaaldijk West,1,a,
-3621LG,Kanaaldijk West,6,a,
-3621LG,Kanaaldijk West,6,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kanaaldijk West,1,"","",3621LG,Breukelen
+Kanaaldijk West,1,A,"",3621LG,Breukelen
+Kanaaldijk West,2,"","",3621LG,Breukelen
+Kanaaldijk West,3,"","",3621LG,Breukelen
+Kanaaldijk West,6,A,"",3621LG,Breukelen
+Kanaaldijk West,6,B,"",3621LG,Breukelen
+Kanaaldijk West,7,"","",3621LG,Breukelen

@@ -1,67 +1,67 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1981LE,Amsterdamseweg,14,,
-1981LE,Amsterdamseweg,12,,
-1981LV,Heuvelweg,6,,
-1981LR,Oostbroekerweg,2,,
-1981LP,Zijkanaal B weg,30,,
-1981LE,Amsterdamseweg,30,,
-1981LE,Amsterdamseweg,36,,
-1981LV,Heuvelweg,15,,
-1981LS,Laaglandersluisweg,10,,
-1981LR,Oostbroekerweg,17,,
-1981LP,Zijkanaal B weg,28,,
-1981LE,Amsterdamseweg,10,,
-1981LE,Amsterdamseweg,11,,
-1981LE,Amsterdamseweg,31,,
-1981LE,Amsterdamseweg,32,,
-1981LE,Amsterdamseweg,33,,
-1981LE,Amsterdamseweg,33,A,
-1981LE,Amsterdamseweg,30,,8000
-1981LE,Amsterdamseweg,30,,RD
-1981LG,Amsterdamseweg,42,,
-1981LG,Amsterdamseweg,41,,
-1981LG,Amsterdamseweg,43,,
-1981LG,Amsterdamseweg,44,,
-1981LG,Amsterdamseweg,45,,
-1981LG,Amsterdamseweg,46,,
-1981LG,Amsterdamseweg,47,,
-1981LG,Amsterdamseweg,48,,
-1981LH,Amsterdamseweg,50,,
-1981LH,Amsterdamseweg,68,,
-1981LH,Amsterdamseweg,70,,
-1981LH,Amsterdamseweg,81,,
-1981LH,Amsterdamseweg,83,,
-1981LH,Amsterdamseweg,85,,
-1981LH,Amsterdamseweg,87,,
-1981LV,Heuvelweg,8,,
-1981LV,Heuvelweg,6,E,
-1981LR,Oostbroekerweg,3,,
-1981LR,Oostbroekerweg,3,,
-1981LR,Oostbroekerweg,9,,
-1981LR,Oostbroekerweg,13,,
-1981LR,Oostbroekerweg,15,,
-1981LR,Oostbroekerweg,15,,
-1981LR,Oostbroekerweg,17,,9000
-1981LW,De Ven,2,,
-1981LP,Zijkanaal B weg,10,,
-1981LP,Zijkanaal B weg,20,,
-1981LP,Zijkanaal B weg,28,,8000
-1981LP,Zijkanaal B weg,30,,9000
-1981LE,Amsterdamseweg,25,,
-1981LV,Heuvelweg,6,C,
-1981LV,Heuvelweg,6,D,
-1981LR,Oostbroekerweg,17,A,
-1981LW,De Ven,2,,9000
-1981LE,Amsterdamseweg,12,A,
-1981LE,Amsterdamseweg,16,,
-1981LE,Amsterdamseweg,14,A,
-1981LE,Amsterdamseweg,14,B,
-1981LE,Amsterdamseweg,14,C,
-1981LE,Amsterdamseweg,14,D,
-1981LE,Amsterdamseweg,14,E,
-1981LE,Amsterdamseweg,14,F,
-1981LE,Amsterdamseweg,14,G,
-1981LE,Amsterdamseweg,14,H,
-1981LS,Laaglandersluisweg,12,,
-1981LS,Laaglandersluisweg,5,,
-1981LE,Amsterdamseweg,30,,RD
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Amsterdamseweg,10,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,11,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,12,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,12,A,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,14,A,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,B,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,C,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,D,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,E,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,F,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,G,"",1981LE,Velsen-Zuid
+Amsterdamseweg,14,H,"",1981LE,Velsen-Zuid
+Amsterdamseweg,16,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,25,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,30,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,30,"",8000,1981LE,Velsen-Zuid
+Amsterdamseweg,30,"",RD,1981LE,Velsen-Zuid
+Amsterdamseweg,30,"",RD,1981LE,Velsen-Zuid
+Amsterdamseweg,31,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,32,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,33,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,33,A,"",1981LE,Velsen-Zuid
+Amsterdamseweg,36,"","",1981LE,Velsen-Zuid
+Amsterdamseweg,41,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,42,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,43,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,44,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,45,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,46,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,47,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,48,"","",1981LG,Velsen-Zuid
+Amsterdamseweg,50,"","",1981LH,Velsen-Zuid
+Amsterdamseweg,68,"","",1981LH,Velsen-Zuid
+Amsterdamseweg,70,"","",1981LH,Velsen-Zuid
+Amsterdamseweg,81,"","",1981LH,Velsen-Zuid
+Amsterdamseweg,83,"","",1981LH,Velsen-Zuid
+Amsterdamseweg,85,"","",1981LH,Velsen-Zuid
+Amsterdamseweg,87,"","",1981LH,Velsen-Zuid
+Zijkanaal B weg,10,"","",1981LP,Velsen-Zuid
+Zijkanaal B weg,20,"","",1981LP,Velsen-Zuid
+Zijkanaal B weg,28,"","",1981LP,Velsen-Zuid
+Zijkanaal B weg,28,"",8000,1981LP,Velsen-Zuid
+Zijkanaal B weg,30,"","",1981LP,Velsen-Zuid
+Zijkanaal B weg,30,"",9000,1981LP,Velsen-Zuid
+Oostbroekerweg,13,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,15,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,15,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,17,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,17,"",9000,1981LR,Velsen-Zuid
+Oostbroekerweg,17,A,"",1981LR,Velsen-Zuid
+Oostbroekerweg,2,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,3,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,3,"","",1981LR,Velsen-Zuid
+Oostbroekerweg,9,"","",1981LR,Velsen-Zuid
+Laaglandersluisweg,10,"","",1981LS,Velsen-Zuid
+Laaglandersluisweg,12,"","",1981LS,Velsen-Zuid
+Laaglandersluisweg,5,"","",1981LS,Velsen-Zuid
+Heuvelweg,15,"","",1981LV,Velsen-Zuid
+Heuvelweg,6,"","",1981LV,Velsen-Zuid
+Heuvelweg,6,C,"",1981LV,Velsen-Zuid
+Heuvelweg,6,D,"",1981LV,Velsen-Zuid
+Heuvelweg,6,E,"",1981LV,Velsen-Zuid
+Heuvelweg,8,"","",1981LV,Velsen-Zuid
+De Ven,2,"","",1981LW,Velsen-Zuid
+De Ven,2,"",9000,1981LW,Velsen-Zuid

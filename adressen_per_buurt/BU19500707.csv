@@ -1,629 +1,297 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9561LH",8,"",""
-"9561LH",4,"","BEDR"
-"9561LH",5,"",""
-"9561LH",3,"",""
-"9561LH",4,"",""
-"9561LH",6,"",""
-"9561LH",1,"",""
-"9561LH",9,"",""
-"9561LH",6,"",""
-"9561LH",7,"",""
-"9561LH",7,"",""
-"9561LH",7,"",""
-"9561LH",2,"",""
-"9561LH",6,"",""
-"9561LJ",7,"",""
-"9561LJ",12,"",""
-"9561LJ",5,"",""
-"9561LJ",3,"","BEDR"
-"9561LJ",4,"",""
-"9561LJ",10,"",""
-"9561LJ",11,"",""
-"9561LJ",3,"",""
-"9561LJ",2,"",""
-"9561LJ",6,"",""
-"9561LJ",8,"",""
-"9561LJ",2,"a",""
-"9561LK",1,"","BEDR"
-"9561LK",5,"",""
-"9561LK",2,"",""
-"9561LK",3,"",""
-"9561LK",3,"",""
-"9561LK",3,"",""
-"9561LK",1,"",""
-"9561LL",27,"",""
-"9561LL",13,"",""
-"9561LL",19,"",""
-"9561LL",11,"",""
-"9561LL",15,"",""
-"9561LL",29,"",""
-"9561LL",23,"",""
-"9561LL",17,"",""
-"9561LL",25,"",""
-"9561LL",31,"",""
-"9561LL",21,"",""
-"9561LM",51,"",""
-"9561LM",45,"",""
-"9561LM",41,"",""
-"9561LM",37,"",""
-"9561LM",47,"",""
-"9561LM",43,"",""
-"9561LM",39,"",""
-"9561LM",35,"",""
-"9561LM",33,"",""
-"9561LN",40,"",""
-"9561LN",42,"",""
-"9561LN",38,"",""
-"9561LN",48,"",""
-"9561LN",32,"",""
-"9561LN",12,"",""
-"9561LN",46,"",""
-"9561LN",28,"",""
-"9561LN",14,"",""
-"9561LN",34,"",""
-"9561LN",30,"",""
-"9561LN",18,"",""
-"9561LN",36,"",""
-"9561LN",24,"",""
-"9561LN",50,"",""
-"9561LN",26,"",""
-"9561LN",22,"",""
-"9561LN",44,"",""
-"9561LN",10,"",""
-"9561LN",16,"",""
-"9561LN",20,"",""
-"9561LP",74,"",""
-"9561LP",72,"",""
-"9561LP",54,"",""
-"9561LP",70,"",""
-"9561LP",60,"",""
-"9561LP",78,"",""
-"9561LP",56,"",""
-"9561LP",76,"",""
-"9561LP",64,"",""
-"9561LP",66,"",""
-"9561LP",62,"",""
-"9561LP",68,"",""
-"9561LP",52,"",""
-"9561LP",58,"",""
-"9561LR",11,"",""
-"9561LR",6,"",""
-"9561LR",3,"",""
-"9561LR",13,"",""
-"9561LR",12,"",""
-"9561LR",15,"",""
-"9561LR",10,"",""
-"9561LR",9,"",""
-"9561LR",5,"",""
-"9561LR",4,"",""
-"9561LR",2,"",""
-"9561LR",7,"",""
-"9561LR",8,"",""
-"9561LS",10,"",""
-"9561LS",13,"",""
-"9561LS",1,"",""
-"9561LS",9,"",""
-"9561LS",23,"",""
-"9561LS",6,"",""
-"9561LS",3,"",""
-"9561LS",11,"",""
-"9561LS",21,"",""
-"9561LS",17,"",""
-"9561LS",16,"",""
-"9561LS",5,"",""
-"9561LS",12,"",""
-"9561LS",18,"",""
-"9561LS",14,"",""
-"9561LS",15,"",""
-"9561NA",2,"",""
-"9561NA",5,"",""
-"9561NA",11,"",""
-"9561NA",9,"",""
-"9561NA",5,"",""
-"9561NA",4,"",""
-"9561NA",10,"",""
-"9561NA",3,"",""
-"9561PG",2,"",""
-"9561PG",1,"",""
-"9561PH",20,"",""
-"9561PH",13,"",""
-"9561PH",4,"",""
-"9561PH",3,"",""
-"9561PH",19,"",""
-"9561PH",18,"",""
-"9561PH",12,"",""
-"9561PH",23,"",""
-"9561PH",15,"",""
-"9561PH",22,"",""
-"9561PH",18,"",""
-"9561PH",17,"",""
-"9561PH",17,"a",""
-"9561PH",21,"",""
-"9561PH",16,"",""
-"9561PH",14,"",""
-"9561PJ",38,"",""
-"9561PJ",40,"",""
-"9561PJ",46,"",""
-"9561PJ",44,"",""
-"9561PJ",45,"",""
-"9561PJ",31,"",""
-"9561PJ",48,"",""
-"9561PJ",39,"",""
-"9561PJ",44,"",""
-"9561PJ",30,"",""
-"9561PJ",29,"",""
-"9561PJ",28,"",""
-"9561PJ",35,"",""
-"9561PJ",33,"",""
-"9561PJ",37,"",""
-"9561PJ",32,"",""
-"9561PJ",36,"",""
-"9561PJ",25,"",""
-"9561PJ",26,"",""
-"9561PK",71,"",""
-"9561PK",69,"",""
-"9561PK",56,"",""
-"9561PK",53,"",""
-"9561PK",65,"",""
-"9561PK",68,"",""
-"9561PK",50,"",""
-"9561PK",49,"",""
-"9561PK",51,"",""
-"9561PK",52,"",""
-"9561PK",54,"",""
-"9561PK",58,"",""
-"9561PK",62,"",""
-"9561PK",66,"",""
-"9561PK",67,"",""
-"9561PK",72,"",""
-"9561PK",70,"",""
-"9561PK",57,"",""
-"9561PK",64,"",""
-"9561PK",63,"",""
-"9561PK",61,"",""
-"9561PK",60,"",""
-"9561PL",77,"",""
-"9561PL",89,"",""
-"9561PL",90,"",""
-"9561PL",99,"",""
-"9561PL",95,"",""
-"9561PL",78,"",""
-"9561PL",76,"",""
-"9561PL",85,"",""
-"9561PL",88,"",""
-"9561PL",82,"",""
-"9561PL",75,"",""
-"9561PL",96,"",""
-"9561PL",93,"",""
-"9561PL",80,"",""
-"9561PL",84,"",""
-"9561PL",92,"",""
-"9561TA",63,"a",""
-"9561TA",65,"",""
-"9561TA",73,"",""
-"9561TA",21,"",""
-"9561TA",67,"",""
-"9561TA",7,"",""
-"9561TA",19,"",""
-"9561TA",13,"",""
-"9561TA",43,"",""
-"9561TA",75,"",""
-"9561TA",17,"",""
-"9561TA",47,"",""
-"9561TA",63,"",""
-"9561TA",45,"",""
-"9561TA",75,"",""
-"9561TA",15,"",""
-"9561TA",57,"",""
-"9561TA",11,"",""
-"9561TA",75,"",""
-"9561TA",9,"",""
-"9561TA",73,"",""
-"9561TD",19,"",""
-"9561TD",14,"",""
-"9561TD",28,"",""
-"9561TD",20,"",""
-"9561TD",12,"",""
-"9561TD",22,"",""
-"9561TD",13,"",""
-"9561TD",11,"",""
-"9561TD",32,"",""
-"9561TD",7,"",""
-"9561TD",9,"",""
-"9561TD",15,"",""
-"9561TD",6,"",""
-"9561TD",16,"",""
-"9561TD",18,"",""
-"9561TD",5,"",""
-"9561TD",1,"","TRAF"
-"9561TD",30,"",""
-"9561TD",8,"",""
-"9561TD",17,"",""
-"9561TE",1,"b",""
-"9561TE",1,"","TRAF"
-"9561TE",2,"",""
-"9561TE",5,"a",""
-"9561TE",5,"",""
-"9561TE",5,"b",""
-"9561TE",1,"",""
-"9561TE",7,"",""
-"9561TE",1,"",""
-"9561TE",7,"",""
-"9561TE",1,"","T"
-"9561TE",1,"a",""
-"9561TE",1,"","TRAF"
-"9561TE",9,"",""
-"9561TE",15,"",""
-"9561TE",3,"",""
-"9561TE",4,"",""
-"9561TE",1,"",""
-"9561TE",9,"",""
-"9561TE",6,"","BIJ"
-"9561TE",9,"",""
-"9561TE",6,"",""
-"9561TG",23,"",""
-"9561TG",15,"",""
-"9561TG",26,"",""
-"9561TG",25,"",""
-"9561TG",17,"",""
-"9561TG",24,"",""
-"9561TG",14,"",""
-"9561TG",27,"",""
-"9561TG",28,"",""
-"9561TG",20,"",""
-"9561TG",22,"",""
-"9561TG",4,"",""
-"9561TG",21,"",""
-"9561TG",18,"",""
-"9561TG",11,"",""
-"9561TG",3,"",""
-"9561TG",16,"",""
-"9561TG",19,"",""
-"9561ZA",2,"",""
-"9561ZA",10,"",""
-"9561ZA",13,"",""
-"9561ZA",12,"",""
-"9561ZA",9,"",""
-"9561ZA",8,"",""
-"9561ZA",14,"",""
-"9561ZA",1,"",""
-"9561ZA",11,"",""
-"9561ZA",6,"",""
-"9561ZA",7,"",""
-"9561ZA",15,"",""
-"9561ZA",3,"",""
-"9561ZA",5,"",""
-"9561ZA",4,"",""
-9561LL,Agostraat,11,,
-9561LL,Agostraat,13,,
-9561LL,Agostraat,15,,
-9561LL,Agostraat,17,,
-9561LL,Agostraat,19,,
-9561LL,Agostraat,21,,
-9561LL,Agostraat,23,,
-9561LL,Agostraat,25,,
-9561LL,Agostraat,27,,
-9561LL,Agostraat,29,,
-9561LL,Agostraat,31,,
-9561LM,Agostraat,33,,
-9561LM,Agostraat,35,,
-9561LM,Agostraat,37,,
-9561LM,Agostraat,39,,
-9561LM,Agostraat,41,,
-9561LM,Agostraat,43,,
-9561LM,Agostraat,45,,
-9561LM,Agostraat,47,,
-9561LM,Agostraat,51,,
-9561LN,Agostraat,10,,
-9561LN,Agostraat,12,,
-9561LN,Agostraat,14,,
-9561LN,Agostraat,16,,
-9561LN,Agostraat,18,,
-9561LN,Agostraat,20,,
-9561LN,Agostraat,22,,
-9561LN,Agostraat,24,,
-9561LN,Agostraat,26,,
-9561LN,Agostraat,28,,
-9561LN,Agostraat,30,,
-9561LN,Agostraat,32,,
-9561LN,Agostraat,34,,
-9561LN,Agostraat,36,,
-9561LN,Agostraat,38,,
-9561LN,Agostraat,40,,
-9561LN,Agostraat,42,,
-9561LN,Agostraat,44,,
-9561LN,Agostraat,46,,
-9561LN,Agostraat,48,,
-9561LN,Agostraat,50,,
-9561LP,Agostraat,52,,
-9561LP,Agostraat,54,,
-9561LP,Agostraat,56,,
-9561LP,Agostraat,58,,
-9561LP,Agostraat,60,,
-9561LP,Agostraat,62,,
-9561LP,Agostraat,64,,
-9561LP,Agostraat,66,,
-9561LP,Agostraat,68,,
-9561LP,Agostraat,70,,
-9561LP,Agostraat,72,,
-9561LP,Agostraat,74,,
-9561LP,Agostraat,76,,
-9561LP,Agostraat,78,,
-9561LH,Boslaan,1,,
-9561LH,Boslaan,2,,
-9561LH,Boslaan,3,,
-9561LH,Boslaan,4,,BEDR
-9561LH,Boslaan,4,,
-9561LH,Boslaan,5,,
-9561LH,Boslaan,6,,
-9561LH,Boslaan,7,,
-9561LH,Boslaan,8,,
-9561LH,Boslaan,9,,
-9561LH,Boslaan,7,,
-9561LH,Boslaan,6,,
-9561ZA,Generaal Maczeklaan,1,,
-9561ZA,Generaal Maczeklaan,2,,
-9561ZA,Generaal Maczeklaan,3,,
-9561ZA,Generaal Maczeklaan,4,,
-9561ZA,Generaal Maczeklaan,5,,
-9561ZA,Generaal Maczeklaan,6,,
-9561ZA,Generaal Maczeklaan,7,,
-9561ZA,Generaal Maczeklaan,9,,
-9561ZA,Generaal Maczeklaan,10,,
-9561ZA,Generaal Maczeklaan,11,,
-9561ZA,Generaal Maczeklaan,12,,
-9561ZA,Generaal Maczeklaan,13,,
-9561ZA,Generaal Maczeklaan,14,,
-9561ZA,Generaal Maczeklaan,15,,
-9561ZA,Generaal Maczeklaan,8,,
-9561LJ,Poortweg,2,a,
-9561LJ,Poortweg,2,,
-9561LJ,Poortweg,3,,BEDR
-9561LJ,Poortweg,3,,
-9561LJ,Poortweg,4,,
-9561LJ,Poortweg,5,,
-9561LJ,Poortweg,6,,
-9561LJ,Poortweg,7,,
-9561LJ,Poortweg,8,,
-9561LJ,Poortweg,10,,
-9561LJ,Poortweg,11,,
-9561LJ,Poortweg,12,,
-9561TG,Ruiten A kanaal Zuid,4,,
-9561TG,Ruiten A kanaal Zuid,11,,
-9561TG,Ruiten A kanaal Zuid,14,,
-9561TG,Ruiten A kanaal Zuid,15,,
-9561TG,Ruiten A kanaal Zuid,16,,
-9561TG,Ruiten A kanaal Zuid,17,,
-9561TG,Ruiten A kanaal Zuid,18,,
-9561TG,Ruiten A kanaal Zuid,19,,
-9561TG,Ruiten A kanaal Zuid,20,,
-9561TG,Ruiten A kanaal Zuid,21,,
-9561TG,Ruiten A kanaal Zuid,22,,
-9561TG,Ruiten A kanaal Zuid,23,,
-9561TG,Ruiten A kanaal Zuid,24,,
-9561TG,Ruiten A kanaal Zuid,25,,
-9561TG,Ruiten A kanaal Zuid,26,,
-9561TG,Ruiten A kanaal Zuid,27,,
-9561TG,Ruiten A kanaal Zuid,28,,
-9561TA,Sellingerstraat,7,,
-9561TA,Sellingerstraat,9,,
-9561TA,Sellingerstraat,11,,
-9561TA,Sellingerstraat,13,,
-9561TA,Sellingerstraat,15,,
-9561TA,Sellingerstraat,17,,
-9561TA,Sellingerstraat,19,,
-9561TA,Sellingerstraat,21,,
-9561TA,Sellingerstraat,47,,
-9561TA,Sellingerstraat,57,,
-9561TA,Sellingerstraat,63,a,
-9561TA,Sellingerstraat,63,,
-9561TA,Sellingerstraat,65,,
-9561TA,Sellingerstraat,67,,
-9561TA,Sellingerstraat,73,,
-9561TA,Sellingerstraat,73,,
-9561TA,Sellingerstraat,75,,
-9561TA,Sellingerstraat,75,,
-9561TA,Sellingerstraat,45,,
-9561TA,Sellingerstraat,43,,
-9561LR,De Wijerdstraat,2,,
-9561LR,De Wijerdstraat,3,,
-9561LR,De Wijerdstraat,4,,
-9561LR,De Wijerdstraat,5,,
-9561LR,De Wijerdstraat,6,,
-9561LR,De Wijerdstraat,7,,
-9561LR,De Wijerdstraat,8,,
-9561LR,De Wijerdstraat,9,,
-9561LR,De Wijerdstraat,10,,
-9561LR,De Wijerdstraat,11,,
-9561LR,De Wijerdstraat,12,,
-9561LR,De Wijerdstraat,13,,
-9561LR,De Wijerdstraat,15,,
-9561LK,Kruisherenweg,1,,
-9561LK,Kruisherenweg,1,,BEDR
-9561LK,Kruisherenweg,2,,
-9561LK,Kruisherenweg,3,,
-9561LK,Kruisherenweg,5,,
-9561LK,Kruisherenweg,3,,
-9561LS,Molen A laan,1,,
-9561LS,Molen A laan,3,,
-9561LS,Molen A laan,5,,
-9561LS,Molen A laan,6,,
-9561LS,Molen A laan,9,,
-9561LS,Molen A laan,10,,
-9561LS,Molen A laan,11,,
-9561LS,Molen A laan,12,,
-9561LS,Molen A laan,13,,
-9561LS,Molen A laan,14,,
-9561LS,Molen A laan,15,,
-9561LS,Molen A laan,16,,
-9561LS,Molen A laan,17,,
-9561LS,Molen A laan,18,,
-9561LS,Molen A laan,21,,
-9561LS,Molen A laan,23,,
-9561NA,Oosterkade,2,,
-9561NA,Oosterkade,3,,
-9561NA,Oosterkade,4,,
-9561NA,Oosterkade,5,,
-9561NA,Oosterkade,9,,
-9561NA,Oosterkade,10,,
-9561NA,Oosterkade,11,,
-9561PH,Oosterstraat,3,,
-9561PH,Oosterstraat,4,,
-9561PH,Oosterstraat,12,,
-9561PH,Oosterstraat,13,,
-9561PH,Oosterstraat,14,,
-9561PH,Oosterstraat,15,,
-9561PH,Oosterstraat,16,,
-9561PH,Oosterstraat,17,a,
-9561PH,Oosterstraat,17,,
-9561PH,Oosterstraat,18,,
-9561PH,Oosterstraat,19,,
-9561PH,Oosterstraat,20,,
-9561PH,Oosterstraat,21,,
-9561PH,Oosterstraat,22,,
-9561PH,Oosterstraat,23,,
-9561PJ,Oosterstraat,25,,
-9561PJ,Oosterstraat,26,,
-9561PJ,Oosterstraat,28,,
-9561PJ,Oosterstraat,29,,
-9561PJ,Oosterstraat,30,,
-9561PJ,Oosterstraat,31,,
-9561PJ,Oosterstraat,32,,
-9561PJ,Oosterstraat,33,,
-9561PJ,Oosterstraat,35,,
-9561PJ,Oosterstraat,36,,
-9561PJ,Oosterstraat,37,,
-9561PJ,Oosterstraat,38,,
-9561PJ,Oosterstraat,39,,
-9561PJ,Oosterstraat,40,,
-9561PJ,Oosterstraat,44,,
-9561PJ,Oosterstraat,45,,
-9561PJ,Oosterstraat,46,,
-9561PJ,Oosterstraat,48,,
-9561PK,Oosterstraat,49,,
-9561PK,Oosterstraat,50,,
-9561PK,Oosterstraat,51,,
-9561PK,Oosterstraat,52,,
-9561PK,Oosterstraat,53,,
-9561PK,Oosterstraat,54,,
-9561PK,Oosterstraat,56,,
-9561PK,Oosterstraat,57,,
-9561PK,Oosterstraat,58,,
-9561PK,Oosterstraat,60,,
-9561PK,Oosterstraat,61,,
-9561PK,Oosterstraat,62,,
-9561PK,Oosterstraat,63,,
-9561PK,Oosterstraat,64,,
-9561PK,Oosterstraat,65,,
-9561PK,Oosterstraat,66,,
-9561PK,Oosterstraat,67,,
-9561PK,Oosterstraat,68,,
-9561PK,Oosterstraat,69,,
-9561PK,Oosterstraat,70,,
-9561PK,Oosterstraat,71,,
-9561PK,Oosterstraat,72,,
-9561PL,Oosterstraat,75,,
-9561PL,Oosterstraat,76,,
-9561PL,Oosterstraat,77,,
-9561PL,Oosterstraat,78,,
-9561PL,Oosterstraat,80,,
-9561PL,Oosterstraat,82,,
-9561PL,Oosterstraat,84,,
-9561PL,Oosterstraat,85,,
-9561PL,Oosterstraat,88,,
-9561PL,Oosterstraat,89,,
-9561PL,Oosterstraat,90,,
-9561PL,Oosterstraat,92,,
-9561PL,Oosterstraat,93,,
-9561PL,Oosterstraat,95,,
-9561PL,Oosterstraat,96,,
-9561PL,Oosterstraat,99,,
-9561TE,Ruiten A kanaal Noord,1,,
-9561TE,Ruiten A kanaal Noord,2,,
-9561TE,Ruiten A kanaal Noord,3,,
-9561TE,Ruiten A kanaal Noord,4,,
-9561TE,Ruiten A kanaal Noord,5,a,
-9561TE,Ruiten A kanaal Noord,5,b,
-9561TE,Ruiten A kanaal Noord,5,,
-9561TE,Ruiten A kanaal Noord,6,,
-9561TE,Ruiten A kanaal Noord,7,,
-9561TE,Ruiten A kanaal Noord,9,,
-9561TE,Ruiten A kanaal Noord,6,,BIJ
-9561TE,Ruiten A kanaal Noord,15,,
-9561TE,Ruiten A kanaal Noord,9,,
-9561TE,Ruiten A kanaal Noord,1,a,
-9561TE,Ruiten A kanaal Noord,1,b,
-9561TE,Ruiten A kanaal Noord,1,,T
-9561TE,Ruiten A kanaal Noord,1,,TRAF
-9561TE,Ruiten A kanaal Noord,1,,
-9561TD,Schotslaan,1,,TRAF
-9561TD,Schotslaan,5,,
-9561TD,Schotslaan,6,,
-9561TD,Schotslaan,7,,
-9561TD,Schotslaan,8,,
-9561TD,Schotslaan,9,,
-9561TD,Schotslaan,11,,
-9561TD,Schotslaan,12,,
-9561TD,Schotslaan,13,,
-9561TD,Schotslaan,14,,
-9561TD,Schotslaan,15,,
-9561TD,Schotslaan,16,,
-9561TD,Schotslaan,17,,
-9561TD,Schotslaan,18,,
-9561TD,Schotslaan,19,,
-9561TD,Schotslaan,20,,
-9561TD,Schotslaan,22,,
-9561TD,Schotslaan,28,,
-9561TD,Schotslaan,30,,
-9561TD,Schotslaan,32,,
-9561TG,Steenweg,3,,
-9561PG,'t Schot,1,,
-9561PG,'t Schot,2,,
-9561TG,Ruiten A kanaal Zuid,13,a,
-9561TG,Ruiten A kanaal Zuid,13,b,
-9561TG,Ruiten A kanaal Zuid,13,c,
-9561TG,Ruiten A kanaal Zuid,13,d,
-9561TG,Ruiten A kanaal Zuid,13,e,
-9561TG,Ruiten A kanaal Zuid,13,f,
-9561TG,Ruiten A kanaal Zuid,13,g,
-9561TG,Ruiten A kanaal Zuid,13,h,
-9561TG,Ruiten A kanaal Zuid,13,i,
-9561TG,Ruiten A kanaal Zuid,13,j,
-9561TG,Ruiten A kanaal Zuid,13,k,
-9561TG,Ruiten A kanaal Zuid,13,l,
-9561TG,Ruiten A kanaal Zuid,13,m,
-9561TG,Ruiten A kanaal Zuid,13,n,
-9561TG,Ruiten A kanaal Zuid,13,o,
-9561TG,Ruiten A kanaal Zuid,13,p,
-9561TG,Ruiten A kanaal Zuid,27,,4
-9561TG,Ruiten A kanaal Zuid,27,,4
-9561TG,Ruiten A kanaal Zuid,27,,1
-9561TG,Ruiten A kanaal Zuid,27,,5
-9561TG,Ruiten A kanaal Zuid,27,,7
-9561TG,Ruiten A kanaal Zuid,27,,2
-9561TG,Ruiten A kanaal Zuid,27,,8
-9561TG,Ruiten A kanaal Zuid,27,,3
-9561NA,Oosterkade,5,a,
-9561NA,Oosterkade,5,,
-9561TG,Ruiten A kanaal Zuid,27,,9
-9561TG,Ruiten A kanaal Zuid,27,,6
-9561TG,Ruiten A kanaal Zuid,27,,10
-9561TG,Ruiten A kanaal Zuid,27,,11
-9561TG,Ruiten A kanaal Zuid,27,,12
-9561TG,Ruiten A kanaal Zuid,27,,13
-9561TG,Ruiten A kanaal Zuid,27,,14
-9561TG,Ruiten A kanaal Zuid,27,,15
-9561TG,Ruiten A kanaal Zuid,27,,16
-9561TG,Ruiten A kanaal Zuid,27,,17
-9561TG,Ruiten A kanaal Zuid,27,,18
-9561TG,Ruiten A kanaal Zuid,27,,19
-9561TG,Ruiten A kanaal Zuid,27,,20
-9561TG,Ruiten A kanaal Zuid,27,,11
-9561TG,Ruiten A kanaal Zuid,27,,12
-9561TG,Ruiten A kanaal Zuid,27,,13
-9561TG,Ruiten A kanaal Zuid,27,,14
-9561TG,Ruiten A kanaal Zuid,27,,15
-9561TG,Ruiten A kanaal Zuid,27,,16
-9561TG,Ruiten A kanaal Zuid,27,,17
-9561NA,Oosterkade,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Boslaan,1,"","",9561LH,Ter Apel
+Boslaan,2,"","",9561LH,Ter Apel
+Boslaan,3,"","",9561LH,Ter Apel
+Boslaan,4,"","",9561LH,Ter Apel
+Boslaan,4,"",BEDR,9561LH,Ter Apel
+Boslaan,5,"","",9561LH,Ter Apel
+Boslaan,6,"","",9561LH,Ter Apel
+Boslaan,6,"","",9561LH,Ter Apel
+Boslaan,6,"","",9561LH,Ter Apel
+Boslaan,7,"","",9561LH,Ter Apel
+Boslaan,7,"","",9561LH,Ter Apel
+Boslaan,7,"","",9561LH,Ter Apel
+Boslaan,8,"","",9561LH,Ter Apel
+Boslaan,9,"","",9561LH,Ter Apel
+Poortweg,10,"","",9561LJ,Ter Apel
+Poortweg,11,"","",9561LJ,Ter Apel
+Poortweg,12,"","",9561LJ,Ter Apel
+Poortweg,2,"","",9561LJ,Ter Apel
+Poortweg,2,A,"",9561LJ,Ter Apel
+Poortweg,3,"","",9561LJ,Ter Apel
+Poortweg,3,"",BEDR,9561LJ,Ter Apel
+Poortweg,4,"","",9561LJ,Ter Apel
+Poortweg,5,"","",9561LJ,Ter Apel
+Poortweg,6,"","",9561LJ,Ter Apel
+Poortweg,7,"","",9561LJ,Ter Apel
+Poortweg,8,"","",9561LJ,Ter Apel
+Kruisherenweg,1,"","",9561LK,Ter Apel
+Kruisherenweg,1,"",BEDR,9561LK,Ter Apel
+Kruisherenweg,2,"","",9561LK,Ter Apel
+Kruisherenweg,3,"","",9561LK,Ter Apel
+Kruisherenweg,3,"","",9561LK,Ter Apel
+Kruisherenweg,3,"","",9561LK,Ter Apel
+Kruisherenweg,5,"","",9561LK,Ter Apel
+Agostraat,11,"","",9561LL,Ter Apel
+Agostraat,13,"","",9561LL,Ter Apel
+Agostraat,15,"","",9561LL,Ter Apel
+Agostraat,17,"","",9561LL,Ter Apel
+Agostraat,19,"","",9561LL,Ter Apel
+Agostraat,21,"","",9561LL,Ter Apel
+Agostraat,23,"","",9561LL,Ter Apel
+Agostraat,25,"","",9561LL,Ter Apel
+Agostraat,27,"","",9561LL,Ter Apel
+Agostraat,29,"","",9561LL,Ter Apel
+Agostraat,31,"","",9561LL,Ter Apel
+Agostraat,33,"","",9561LM,Ter Apel
+Agostraat,35,"","",9561LM,Ter Apel
+Agostraat,37,"","",9561LM,Ter Apel
+Agostraat,39,"","",9561LM,Ter Apel
+Agostraat,41,"","",9561LM,Ter Apel
+Agostraat,43,"","",9561LM,Ter Apel
+Agostraat,45,"","",9561LM,Ter Apel
+Agostraat,47,"","",9561LM,Ter Apel
+Agostraat,51,"","",9561LM,Ter Apel
+Agostraat,10,"","",9561LN,Ter Apel
+Agostraat,12,"","",9561LN,Ter Apel
+Agostraat,14,"","",9561LN,Ter Apel
+Agostraat,16,"","",9561LN,Ter Apel
+Agostraat,18,"","",9561LN,Ter Apel
+Agostraat,20,"","",9561LN,Ter Apel
+Agostraat,22,"","",9561LN,Ter Apel
+Agostraat,24,"","",9561LN,Ter Apel
+Agostraat,26,"","",9561LN,Ter Apel
+Agostraat,28,"","",9561LN,Ter Apel
+Agostraat,30,"","",9561LN,Ter Apel
+Agostraat,32,"","",9561LN,Ter Apel
+Agostraat,34,"","",9561LN,Ter Apel
+Agostraat,36,"","",9561LN,Ter Apel
+Agostraat,38,"","",9561LN,Ter Apel
+Agostraat,40,"","",9561LN,Ter Apel
+Agostraat,42,"","",9561LN,Ter Apel
+Agostraat,44,"","",9561LN,Ter Apel
+Agostraat,46,"","",9561LN,Ter Apel
+Agostraat,48,"","",9561LN,Ter Apel
+Agostraat,50,"","",9561LN,Ter Apel
+Agostraat,52,"","",9561LP,Ter Apel
+Agostraat,54,"","",9561LP,Ter Apel
+Agostraat,56,"","",9561LP,Ter Apel
+Agostraat,58,"","",9561LP,Ter Apel
+Agostraat,60,"","",9561LP,Ter Apel
+Agostraat,62,"","",9561LP,Ter Apel
+Agostraat,64,"","",9561LP,Ter Apel
+Agostraat,66,"","",9561LP,Ter Apel
+Agostraat,68,"","",9561LP,Ter Apel
+Agostraat,70,"","",9561LP,Ter Apel
+Agostraat,72,"","",9561LP,Ter Apel
+Agostraat,74,"","",9561LP,Ter Apel
+Agostraat,76,"","",9561LP,Ter Apel
+Agostraat,78,"","",9561LP,Ter Apel
+De Wijerdstraat,10,"","",9561LR,Ter Apel
+De Wijerdstraat,11,"","",9561LR,Ter Apel
+De Wijerdstraat,12,"","",9561LR,Ter Apel
+De Wijerdstraat,13,"","",9561LR,Ter Apel
+De Wijerdstraat,15,"","",9561LR,Ter Apel
+De Wijerdstraat,2,"","",9561LR,Ter Apel
+De Wijerdstraat,3,"","",9561LR,Ter Apel
+De Wijerdstraat,4,"","",9561LR,Ter Apel
+De Wijerdstraat,5,"","",9561LR,Ter Apel
+De Wijerdstraat,6,"","",9561LR,Ter Apel
+De Wijerdstraat,7,"","",9561LR,Ter Apel
+De Wijerdstraat,8,"","",9561LR,Ter Apel
+De Wijerdstraat,9,"","",9561LR,Ter Apel
+Molen A laan,1,"","",9561LS,Ter Apel
+Molen A laan,10,"","",9561LS,Ter Apel
+Molen A laan,11,"","",9561LS,Ter Apel
+Molen A laan,12,"","",9561LS,Ter Apel
+Molen A laan,13,"","",9561LS,Ter Apel
+Molen A laan,14,"","",9561LS,Ter Apel
+Molen A laan,15,"","",9561LS,Ter Apel
+Molen A laan,16,"","",9561LS,Ter Apel
+Molen A laan,17,"","",9561LS,Ter Apel
+Molen A laan,18,"","",9561LS,Ter Apel
+Molen A laan,21,"","",9561LS,Ter Apel
+Molen A laan,23,"","",9561LS,Ter Apel
+Molen A laan,3,"","",9561LS,Ter Apel
+Molen A laan,5,"","",9561LS,Ter Apel
+Molen A laan,6,"","",9561LS,Ter Apel
+Molen A laan,9,"","",9561LS,Ter Apel
+Oosterkade,10,"","",9561NA,Ter Apel
+Oosterkade,11,"","",9561NA,Ter Apel
+Oosterkade,2,"","",9561NA,Ter Apel
+Oosterkade,3,"","",9561NA,Ter Apel
+Oosterkade,4,"","",9561NA,Ter Apel
+Oosterkade,5,"","",9561NA,Ter Apel
+Oosterkade,5,"","",9561NA,Ter Apel
+Oosterkade,9,"","",9561NA,Ter Apel
+'t Schot,1,"","",9561PG,Ter Apel
+'t Schot,2,"","",9561PG,Ter Apel
+Oosterstraat,12,"","",9561PH,Ter Apel
+Oosterstraat,13,"","",9561PH,Ter Apel
+Oosterstraat,14,"","",9561PH,Ter Apel
+Oosterstraat,15,"","",9561PH,Ter Apel
+Oosterstraat,16,"","",9561PH,Ter Apel
+Oosterstraat,17,"","",9561PH,Ter Apel
+Oosterstraat,17,A,"",9561PH,Ter Apel
+Oosterstraat,18,"","",9561PH,Ter Apel
+Oosterstraat,18,"","",9561PH,Ter Apel
+Oosterstraat,19,"","",9561PH,Ter Apel
+Oosterstraat,20,"","",9561PH,Ter Apel
+Oosterstraat,21,"","",9561PH,Ter Apel
+Oosterstraat,22,"","",9561PH,Ter Apel
+Oosterstraat,23,"","",9561PH,Ter Apel
+Oosterstraat,3,"","",9561PH,Ter Apel
+Oosterstraat,4,"","",9561PH,Ter Apel
+Oosterstraat,25,"","",9561PJ,Ter Apel
+Oosterstraat,26,"","",9561PJ,Ter Apel
+Oosterstraat,28,"","",9561PJ,Ter Apel
+Oosterstraat,29,"","",9561PJ,Ter Apel
+Oosterstraat,30,"","",9561PJ,Ter Apel
+Oosterstraat,31,"","",9561PJ,Ter Apel
+Oosterstraat,32,"","",9561PJ,Ter Apel
+Oosterstraat,33,"","",9561PJ,Ter Apel
+Oosterstraat,35,"","",9561PJ,Ter Apel
+Oosterstraat,36,"","",9561PJ,Ter Apel
+Oosterstraat,37,"","",9561PJ,Ter Apel
+Oosterstraat,38,"","",9561PJ,Ter Apel
+Oosterstraat,39,"","",9561PJ,Ter Apel
+Oosterstraat,40,"","",9561PJ,Ter Apel
+Oosterstraat,44,"","",9561PJ,Ter Apel
+Oosterstraat,44,"","",9561PJ,Ter Apel
+Oosterstraat,45,"","",9561PJ,Ter Apel
+Oosterstraat,46,"","",9561PJ,Ter Apel
+Oosterstraat,48,"","",9561PJ,Ter Apel
+Oosterstraat,49,"","",9561PK,Ter Apel
+Oosterstraat,50,"","",9561PK,Ter Apel
+Oosterstraat,51,"","",9561PK,Ter Apel
+Oosterstraat,52,"","",9561PK,Ter Apel
+Oosterstraat,53,"","",9561PK,Ter Apel
+Oosterstraat,54,"","",9561PK,Ter Apel
+Oosterstraat,56,"","",9561PK,Ter Apel
+Oosterstraat,57,"","",9561PK,Ter Apel
+Oosterstraat,58,"","",9561PK,Ter Apel
+Oosterstraat,60,"","",9561PK,Ter Apel
+Oosterstraat,61,"","",9561PK,Ter Apel
+Oosterstraat,62,"","",9561PK,Ter Apel
+Oosterstraat,63,"","",9561PK,Ter Apel
+Oosterstraat,64,"","",9561PK,Ter Apel
+Oosterstraat,65,"","",9561PK,Ter Apel
+Oosterstraat,66,"","",9561PK,Ter Apel
+Oosterstraat,67,"","",9561PK,Ter Apel
+Oosterstraat,68,"","",9561PK,Ter Apel
+Oosterstraat,69,"","",9561PK,Ter Apel
+Oosterstraat,70,"","",9561PK,Ter Apel
+Oosterstraat,71,"","",9561PK,Ter Apel
+Oosterstraat,72,"","",9561PK,Ter Apel
+Oosterstraat,75,"","",9561PL,Ter Apel
+Oosterstraat,76,"","",9561PL,Ter Apel
+Oosterstraat,77,"","",9561PL,Ter Apel
+Oosterstraat,78,"","",9561PL,Ter Apel
+Oosterstraat,80,"","",9561PL,Ter Apel
+Oosterstraat,82,"","",9561PL,Ter Apel
+Oosterstraat,84,"","",9561PL,Ter Apel
+Oosterstraat,85,"","",9561PL,Ter Apel
+Oosterstraat,88,"","",9561PL,Ter Apel
+Oosterstraat,89,"","",9561PL,Ter Apel
+Oosterstraat,90,"","",9561PL,Ter Apel
+Oosterstraat,92,"","",9561PL,Ter Apel
+Oosterstraat,93,"","",9561PL,Ter Apel
+Oosterstraat,95,"","",9561PL,Ter Apel
+Oosterstraat,96,"","",9561PL,Ter Apel
+Oosterstraat,99,"","",9561PL,Ter Apel
+Sellingerstraat,11,"","",9561TA,Ter Apel
+Sellingerstraat,13,"","",9561TA,Ter Apel
+Sellingerstraat,15,"","",9561TA,Ter Apel
+Sellingerstraat,17,"","",9561TA,Ter Apel
+Sellingerstraat,19,"","",9561TA,Ter Apel
+Sellingerstraat,21,"","",9561TA,Ter Apel
+Sellingerstraat,43,"","",9561TA,Ter Apel
+Sellingerstraat,45,"","",9561TA,Ter Apel
+Sellingerstraat,47,"","",9561TA,Ter Apel
+Sellingerstraat,57,"","",9561TA,Ter Apel
+Sellingerstraat,63,"","",9561TA,Ter Apel
+Sellingerstraat,63,A,"",9561TA,Ter Apel
+Sellingerstraat,65,"","",9561TA,Ter Apel
+Sellingerstraat,67,"","",9561TA,Ter Apel
+Sellingerstraat,7,"","",9561TA,Ter Apel
+Sellingerstraat,73,"","",9561TA,Ter Apel
+Sellingerstraat,73,"","",9561TA,Ter Apel
+Sellingerstraat,75,"","",9561TA,Ter Apel
+Sellingerstraat,75,"","",9561TA,Ter Apel
+Sellingerstraat,75,"","",9561TA,Ter Apel
+Sellingerstraat,9,"","",9561TA,Ter Apel
+Schotslaan,1,"",TRAF,9561TD,Ter Apel
+Schotslaan,11,"","",9561TD,Ter Apel
+Schotslaan,12,"","",9561TD,Ter Apel
+Schotslaan,13,"","",9561TD,Ter Apel
+Schotslaan,14,"","",9561TD,Ter Apel
+Schotslaan,15,"","",9561TD,Ter Apel
+Schotslaan,16,"","",9561TD,Ter Apel
+Schotslaan,17,"","",9561TD,Ter Apel
+Schotslaan,18,"","",9561TD,Ter Apel
+Schotslaan,19,"","",9561TD,Ter Apel
+Schotslaan,20,"","",9561TD,Ter Apel
+Schotslaan,22,"","",9561TD,Ter Apel
+Schotslaan,28,"","",9561TD,Ter Apel
+Schotslaan,30,"","",9561TD,Ter Apel
+Schotslaan,32,"","",9561TD,Ter Apel
+Schotslaan,5,"","",9561TD,Ter Apel
+Schotslaan,6,"","",9561TD,Ter Apel
+Schotslaan,7,"","",9561TD,Ter Apel
+Schotslaan,8,"","",9561TD,Ter Apel
+Schotslaan,9,"","",9561TD,Ter Apel
+Ruiten A kanaal Noord,1,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,1,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,1,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,1,"",T,9561TE,Ter Apel
+Ruiten A kanaal Noord,1,"",TRAF,9561TE,Ter Apel
+Ruiten A kanaal Noord,1,"",TRAF,9561TE,Ter Apel
+Ruiten A kanaal Noord,1,A,"",9561TE,Ter Apel
+Ruiten A kanaal Noord,1,B,"",9561TE,Ter Apel
+Ruiten A kanaal Noord,15,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,2,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,3,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,4,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,5,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,5,A,"",9561TE,Ter Apel
+Ruiten A kanaal Noord,5,B,"",9561TE,Ter Apel
+Ruiten A kanaal Noord,6,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,6,"",BIJ,9561TE,Ter Apel
+Ruiten A kanaal Noord,7,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,7,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,9,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,9,"","",9561TE,Ter Apel
+Ruiten A kanaal Noord,9,"","",9561TE,Ter Apel
+Ruiten A kanaal Zuid,11,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,14,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,15,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,16,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,17,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,18,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,19,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,20,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,21,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,22,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,23,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,24,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,25,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,26,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,27,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,28,"","",9561TG,Ter Apel
+Steenweg,3,"","",9561TG,Ter Apel
+Ruiten A kanaal Zuid,4,"","",9561TG,Ter Apel
+Generaal Maczeklaan,1,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,10,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,11,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,12,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,13,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,14,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,15,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,2,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,3,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,4,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,5,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,6,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,7,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,8,"","",9561ZA,Ter Apel
+Generaal Maczeklaan,9,"","",9561ZA,Ter Apel

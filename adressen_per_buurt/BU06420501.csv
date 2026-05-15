@@ -1,12 +1,12 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3333LD,Develsingel,1,,
-3333LD,Develsingel,5,,
-3333LD,Develsingel,7,A,
-3333LD,Develsingel,7,,
-3333LD,Develsingel,9,A,
-3333LD,Develsingel,9,,
-3333LD,Develsingel,11,,
-3333LD,Develsingel,15,,
-3333LD,Develsingel,17,,
-3335LA,Burgemeester Pijl Hogeweglaan,1,,
-3335LA,Burgemeester Pijl Hogeweglaan,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Develsingel,1,"","",3333LD,Zwijndrecht
+Develsingel,11,"","",3333LD,Zwijndrecht
+Develsingel,15,"","",3333LD,Zwijndrecht
+Develsingel,17,"","",3333LD,Zwijndrecht
+Develsingel,5,"","",3333LD,Zwijndrecht
+Develsingel,7,"","",3333LD,Zwijndrecht
+Develsingel,7,A,"",3333LD,Zwijndrecht
+Develsingel,9,"","",3333LD,Zwijndrecht
+Develsingel,9,A,"",3333LD,Zwijndrecht
+Burgemeester Pijl Hogeweglaan,1,"","",3335LA,Zwijndrecht
+Burgemeester Pijl Hogeweglaan,2,"","",3335LA,Zwijndrecht

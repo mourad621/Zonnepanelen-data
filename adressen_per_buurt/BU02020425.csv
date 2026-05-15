@@ -1,4537 +1,1122 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"6825LS",9,"",""
-"6825LS",6,"",""
-"6825LS",11,"",""
-"6826HL",9,"",""
-"6826HL",7,"",""
-"6826HL",11,"",""
-"6826HL",11,"",""
-"6826HL",9,"",""
-"6826HL",1,"C",""
-"6826HM",45,"",""
-"6826HM",53,"",""
-"6826HM",55,"",""
-"6826HM",39,"",""
-"6826HM",37,"",""
-"6826HM",45,"",""
-"6826HM",61,"",""
-"6826HM",61,"",""
-"6826HM",53,"",""
-"6826HM",43,"",""
-"6826HM",55,"",""
-"6826HM",39,"",""
-"6826HM",43,"",""
-"6826HM",37,"",""
-"6826HN",26,"",""
-"6826HN",14,"",""
-"6826HP",54,"",""
-"6826HP",40,"",""
-"6826HP",34,"",""
-"6826HP",42,"",""
-"6826HP",64,"",""
-"6826HR",2,"C",""
-"6826HR",46,"",""
-"6826HR",14,"",""
-"6826HR",46,"",""
-"6826HR",14,"",""
-"6826HR",20,"",""
-"6826HR",20,"",""
-"6826HS",82,"",""
-"6826HS",72,"",""
-"6826HS",72,"",""
-"6826HS",80,"",""
-"6826HS",78,"",""
-"6826HS",50,"H",""
-"6826HS",76,"",""
-"6826HS",78,"",""
-"6826HS",52,"",""
-"6826HS",84,"",""
-"6826HS",58,"",""
-"6826HS",76,"",""
-"6826HS",84,"",""
-"6826HS",80,"",""
-"6826HS",58,"",""
-"6826HS",82,"",""
-"6826HS",92,"",""
-"6826HS",52,"",""
-"6826HS",50,"F",""
-"6826HS",50,"C",""
-"6826HS",92,"",""
-"6826HT",104,"",""
-"6826HT",118,"",""
-"6826HT",98,"E",""
-"6826HT",114,"",""
-"6826HT",112,"",""
-"6826HT",140,"",""
-"6826HT",124,"",""
-"6826HT",104,"",""
-"6826HT",106,"",""
-"6826HT",98,"F",""
-"6826HT",112,"",""
-"6826HT",100,"",""
-"6826HT",136,"",""
-"6826HT",98,"C",""
-"6826HT",124,"",""
-"6826HT",136,"",""
-"6826HT",106,"",""
-"6826HT",140,"",""
-"6826HT",100,"",""
-"6826HT",98,"D",""
-"6826HT",114,"",""
-"6826HT",118,"",""
-"6826HV",158,"",""
-"6826HV",150,"",""
-"6826HV",158,"",""
-"6826HV",162,"",""
-"6826HV",148,"",""
-"6826HV",146,"",""
-"6826HV",146,"",""
-"6826HV",162,"",""
-"6826HV",148,"",""
-"6826HV",154,"",""
-"6826HV",154,"",""
-"6826HV",156,"",""
-"6826HV",150,"",""
-"6826HW",182,"",""
-"6826HW",208,"",""
-"6826HW",202,"",""
-"6826HW",172,"",""
-"6826HW",170,"",""
-"6826HW",174,"",""
-"6826HW",198,"",""
-"6826HW",208,"",""
-"6826HW",182,"",""
-"6826HW",206,"",""
-"6826HW",210,"",""
-"6826HW",210,"",""
-"6826HW",206,"",""
-"6826HW",172,"",""
-"6826HW",170,"",""
-"6826HW",198,"",""
-"6826HW",174,"",""
-"6826HW",202,"",""
-"6826HZ",12,"",""
-"6826JA",9,"",""
-"6826JA",9,"",""
-"6826JA",5,"",""
-"6826JA",1,"",""
-"6826JA",1,"",""
-"6826JA",5,"",""
-"6826JB",45,"",""
-"6826JB",27,"",""
-"6826JB",27,"",""
-"6826JB",43,"",""
-"6826JB",45,"",""
-"6826JB",37,"",""
-"6826JB",43,"",""
-"6826JB",37,"",""
-"6826JC",38,"",""
-"6826JC",32,"",""
-"6826JC",38,"",""
-"6826JC",48,"",""
-"6826JC",26,"",""
-"6826JC",18,"",""
-"6826JC",48,"",""
-"6826JD",64,"",""
-"6826JE",1,"D",""
-"6826JE",1,"",""
-"6826JE",9,"",""
-"6826JE",7,"",""
-"6826JE",5,"",""
-"6826JE",7,"",""
-"6826JE",5,"",""
-"6826JE",9,"",""
-"6826JE",11,"",""
-"6826JE",11,"",""
-"6826JE",1,"",""
-"6826JG",37,"",""
-"6826JG",33,"",""
-"6826JG",53,"",""
-"6826JG",53,"",""
-"6826JG",37,"",""
-"6826JG",33,"",""
-"6826JH",28,"",""
-"6826JH",24,"",""
-"6826JH",18,"",""
-"6826JH",10,"",""
-"6826JH",8,"",""
-"6826JJ",54,"",""
-"6826JJ",36,"",""
-"6826JJ",58,"",""
-"6826JJ",38,"",""
-"6826JJ",44,"",""
-"6826JJ",42,"",""
-"6826JJ",62,"",""
-"6826JJ",40,"",""
-"6826JK",1,"C",""
-"6826JK",13,"",""
-"6826JK",1,"D",""
-"6826JK",13,"",""
-"6826JK",11,"",""
-"6826JK",11,"",""
-"6826JL",39,"",""
-"6826JL",33,"",""
-"6826JL",45,"",""
-"6826JL",25,"",""
-"6826JL",33,"",""
-"6826JL",39,"",""
-"6826JL",57,"",""
-"6826JL",27,"",""
-"6826JL",45,"",""
-"6826JL",51,"",""
-"6826JL",43,"",""
-"6826JL",43,"",""
-"6826JL",51,"",""
-"6826JL",57,"",""
-"6826JL",27,"",""
-"6826JL",25,"",""
-"6826JM",33,"A",""
-"6826JM",17,"",""
-"6826JM",29,"",""
-"6826JM",3,"",""
-"6826JM",5,"",""
-"6826JM",33,"",""
-"6826JM",1,"",""
-"6826JM",21,"",""
-"6826JN",51,"",""
-"6826JN",57,"",""
-"6826JN",45,"",""
-"6826JN",37,"",""
-"6826JN",43,"",""
-"6826JN",47,"",""
-"6826JN",55,"",""
-"6826JN",41,"",""
-"6826JN",65,"",""
-"6826JP",8,"",""
-"6826JP",10,"",""
-"6826JP",2,"A",""
-"6826JP",4,"",""
-"6826JP",2,"N",""
-"6826JP",10,"",""
-"6826JP",32,"",""
-"6826JP",2,"",""
-"6826JP",30,"",""
-"6826JP",30,"",""
-"6826JP",8,"",""
-"6826JP",24,"",""
-"6826JP",2,"",""
-"6826JP",4,"",""
-"6826JP",32,"",""
-"6826JP",2,"F",""
-"6826JP",2,"I",""
-"6826JP",28,"",""
-"6826JP",24,"",""
-"6826JP",28,"",""
-"6826JR",48,"",""
-"6826JR",54,"",""
-"6826JR",56,"",""
-"6826JR",40,"",""
-"6826JR",34,"",""
-"6826JR",56,"",""
-"6826JR",54,"",""
-"6826JR",52,"",""
-"6826JR",34,"",""
-"6826JR",60,"",""
-"6826JR",60,"",""
-"6826JR",40,"",""
-"6826JR",48,"",""
-"6826JR",52,"",""
-"6826JS",80,"",""
-"6826JS",66,"",""
-"6826JS",86,"",""
-"6826JS",82,"",""
-"6826JS",92,"",""
-"6826JS",82,"",""
-"6826JS",92,"",""
-"6826JS",66,"",""
-"6826JS",80,"",""
-"6826JS",70,"",""
-"6826JS",86,"",""
-"6826JS",70,"",""
-"6826JT",106,"",""
-"6826JT",126,"",""
-"6826JT",104,"",""
-"6826JT",114,"",""
-"6826JT",114,"",""
-"6826JT",116,"",""
-"6826JT",104,"",""
-"6826JT",106,"",""
-"6826JT",116,"",""
-"6826JT",120,"",""
-"6826JT",126,"",""
-"6826JT",120,"",""
-"6826KA",5,"",""
-"6826KA",7,"",""
-"6826KA",25,"",""
-"6826KA",11,"",""
-"6826KA",3,"",""
-"6826KA",9,"",""
-"6826KA",23,"",""
-"6826KA",1,"",""
-"6826KA",27,"",""
-"6826KA",13,"",""
-"6826KB",45,"",""
-"6826KB",65,"",""
-"6826KB",47,"",""
-"6826KB",55,"",""
-"6826KB",63,"",""
-"6826KB",67,"",""
-"6826KC",32,"",""
-"6826KC",24,"",""
-"6826KC",2,"A",""
-"6826KC",2,"B",""
-"6826KC",4,"",""
-"6826KC",28,"",""
-"6826KC",2,"F",""
-"6826KC",32,"",""
-"6826KC",2,"K",""
-"6826KC",26,"",""
-"6826KC",24,"",""
-"6826KC",2,"C",""
-"6826KC",26,"",""
-"6826KC",40,"",""
-"6826KC",20,"",""
-"6826KC",2,"E",""
-"6826KC",16,"",""
-"6826KC",20,"",""
-"6826KC",2,"L",""
-"6826KC",10,"",""
-"6826KC",40,"",""
-"6826KC",4,"",""
-"6826KC",28,"",""
-"6826KC",16,"",""
-"6826KC",10,"",""
-"6826KD",90,"",""
-"6826KD",82,"",""
-"6826KD",86,"",""
-"6826KD",50,"",""
-"6826KD",52,"",""
-"6826KD",50,"",""
-"6826KD",74,"",""
-"6826KD",52,"",""
-"6826KD",96,"",""
-"6826KD",96,"",""
-"6826KD",90,"",""
-"6826KD",80,"",""
-"6826KD",86,"",""
-"6826KD",56,"",""
-"6826KD",60,"",""
-"6826KD",56,"",""
-"6826KD",92,"",""
-"6826KD",82,"",""
-"6826KD",54,"",""
-"6826KD",62,"",""
-"6826KD",74,"",""
-"6826KD",62,"",""
-"6826KD",60,"",""
-"6826KD",80,"",""
-"6826KD",54,"",""
-"6826KD",92,"",""
-"6826KE",114,"",""
-"6826KE",112,"",""
-"6826KE",102,"",""
-"6826KE",126,"",""
-"6826KE",114,"",""
-"6826KE",126,"",""
-"6826KE",112,"",""
-"6826KE",102,"",""
-"6826KE",118,"",""
-"6826KE",118,"",""
-"6826KG",17,"",""
-"6826KG",19,"",""
-"6826KG",9,"",""
-"6826KH",35,"",""
-"6826KH",59,"",""
-"6826KH",55,"",""
-"6826KH",51,"",""
-"6826KH",69,"",""
-"6826KH",65,"",""
-"6826KH",47,"",""
-"6826KH",67,"",""
-"6826KH",45,"",""
-"6826KJ",30,"",""
-"6826KJ",2,"I",""
-"6826KJ",2,"L",""
-"6826KJ",8,"",""
-"6826KJ",14,"",""
-"6826KJ",18,"",""
-"6826KJ",2,"K",""
-"6826KJ",26,"",""
-"6826KJ",18,"",""
-"6826KJ",2,"E",""
-"6826KJ",26,"",""
-"6826KJ",14,"",""
-"6826KJ",30,"",""
-"6826KJ",4,"",""
-"6826KJ",4,"",""
-"6826KJ",8,"",""
-"6826KK",92,"",""
-"6826KK",90,"",""
-"6826KK",62,"",""
-"6826KK",56,"",""
-"6826KK",92,"",""
-"6826KK",56,"",""
-"6826KK",62,"",""
-"6826KK",98,"",""
-"6826KK",98,"",""
-"6826KK",58,"",""
-"6826KK",90,"",""
-"6826KL",126,"",""
-"6826KL",114,"",""
-"6826KL",108,"",""
-"6826KL",118,"",""
-"6826KL",130,"",""
-"6826KL",106,"",""
-"6826KL",108,"",""
-"6826KL",114,"",""
-"6826KL",118,"",""
-"6826KL",106,"",""
-"6826KL",116,"",""
-"6826KL",130,"",""
-"6826KL",116,"",""
-"6826KL",126,"",""
-"6826NB",20,"","2"
-"6826NB",18,"","3"
-"6826NB",18,"","1"
-"6826NB",20,"","4"
-"6826NB",16,"","4"
-"6826NB",24,"","2"
-"6826NB",22,"","2"
-"6826NB",26,"","2"
-"6826NB",22,"","1"
-"6826NB",24,"","4"
-"6826NB",20,"","1"
-"6826NC",28,"","4"
-"6826NC",32,"","1"
-"6826NC",36,"","4"
-"6826NC",36,"","3"
-"6826NC",30,"","1"
-"6826NC",38,"","2"
-"6826NC",38,"","3"
-"6826NC",36,"","1"
-"6826ND",44,"","4"
-"6826ND",42,"","3"
-"6826ND",46,"","1"
-"6826ND",48,"","2"
-"6826ND",50,"","4"
-"6826ND",42,"","4"
-"6826ND",46,"","3"
-"6826ND",42,"","1"
-"6826ND",50,"","3"
-"6826ND",50,"","2"
-"6826NE",74,"",""
-"6826NE",52,"",""
-"6826NE",78,"",""
-"6826NE",54,"",""
-"6826NG",88,"",""
-"6826NG",100,"",""
-"6826NG",86,"",""
-"6826NG",94,"",""
-"6826NG",126,"",""
-"6826NG",88,"",""
-"6826NG",86,"",""
-"6826NG",96,"",""
-"6826NG",96,"",""
-"6826NG",126,"",""
-"6826NG",116,"",""
-"6826NG",98,"",""
-"6826NG",94,"",""
-"6826NG",108,"",""
-"6826NG",100,"",""
-"6826NG",122,"",""
-"6826NG",98,"",""
-"6826NG",122,"",""
-"6826NG",108,"",""
-"6826NG",116,"",""
-"6826NH",45,"",""
-"6826NH",1,"",""
-"6826NH",27,"",""
-"6826NH",1,"A",""
-"6826NH",43,"",""
-"6826NH",5,"",""
-"6826NH",35,"",""
-"6826NH",1,"E",""
-"6826NJ",4,"",""
-"6826NJ",10,"",""
-"6826NJ",10,"",""
-"6826NJ",6,"",""
-"6826NJ",4,"",""
-"6826NJ",14,"",""
-"6826NJ",12,"",""
-"6826NJ",2,"B",""
-"6826NJ",18,"",""
-"6826NJ",14,"",""
-"6826NJ",6,"",""
-"6826NJ",2,"L",""
-"6826NJ",16,"",""
-"6826NJ",2,"K",""
-"6826NJ",12,"",""
-"6826NJ",18,"",""
-"6826NJ",16,"",""
-"6826NK",40,"",""
-"6826NK",44,"",""
-"6826NK",32,"",""
-"6826NK",54,"",""
-"6826NK",46,"",""
-"6826NK",50,"",""
-"6826NK",40,"",""
-"6826NK",32,"",""
-"6826NK",54,"",""
-"6826NK",44,"",""
-"6826NK",50,"",""
-"6826NK",46,"",""
-"6826NL",60,"",""
-"6826NL",72,"",""
-"6826NL",60,"",""
-"6826NL",58,"J",""
-"6826NL",72,"",""
-"6826NL",82,"",""
-"6826NL",58,"E",""
-"6826NL",58,"L",""
-"6826NL",64,"",""
-"6826NL",58,"B",""
-"6826NL",80,"",""
-"6826NL",58,"G",""
-"6826NL",64,"",""
-"6826NL",82,"",""
-"6826NL",80,"",""
-"6826NM",96,"",""
-"6826NM",90,"",""
-"6826NM",94,"",""
-"6826NM",86,"",""
-"6826NM",86,"",""
-"6826NM",110,"",""
-"6826NM",110,"",""
-"6826NM",94,"",""
-"6826NM",96,"",""
-"6826NM",90,"",""
-"6826NN",128,"",""
-"6826NN",140,"",""
-"6826NN",128,"",""
-"6826NN",114,"D",""
-"6826NN",138,"",""
-"6826NN",124,"",""
-"6826NN",124,"",""
-"6826NN",138,"",""
-"6826NN",114,"G",""
-"6826NN",114,"J",""
-"6826NN",114,"A",""
-"6826NN",140,"",""
-"6826NN",114,"K",""
-"6826NP",146,"",""
-"6826NP",142,"",""
-"6826NP",162,"",""
-"6826NP",166,"",""
-"6826NP",142,"",""
-"6826NP",166,"",""
-"6826NP",146,"",""
-"6826NR",190,"",""
-"6826NR",182,"",""
-"6826NR",170,"B",""
-"6826NR",190,"",""
-"6826NR",188,"",""
-"6826NR",182,"",""
-"6826NR",188,"",""
-"6826NR",170,"A",""
-"6826NR",170,"",""
-"6826NR",178,"",""
-"6826NR",184,"",""
-"6826NR",170,"",""
-"6826NR",184,"",""
-"6826NR",186,"",""
-"6826NR",186,"",""
-"6826NR",178,"",""
-"6826NS",204,"",""
-"6826NS",198,"",""
-"6826NS",202,"",""
-"6826NS",202,"",""
-"6826NS",210,"",""
-"6826NS",210,"",""
-"6826NS",204,"",""
-"6826NS",198,"",""
-"6826NT",226,"",""
-"6826NT",228,"",""
-"6826NT",230,"",""
-"6826NV",2,"",""
-"6826NW",45,"",""
-"6826NW",43,"",""
-"6826NW",11,"",""
-"6826NW",15,"",""
-"6826NW",1,"C",""
-"6826NW",33,"",""
-"6826NW",41,"",""
-"6826NW",27,"",""
-"6826NW",1,"B",""
-"6826NW",13,"",""
-"6826NX",28,"",""
-"6826NX",46,"",""
-"6826NX",14,"",""
-"6826NX",26,"",""
-"6826NX",10,"",""
-"6826NX",36,"A",""
-"6826NX",2,"F",""
-"6826NX",36,"B",""
-"6826NX",30,"",""
-"6826NX",38,"",""
-"6826NX",20,"",""
-"6826PA",27,"",""
-"6826PA",1,"B",""
-"6826PA",41,"",""
-"6826PA",7,"",""
-"6826PA",13,"",""
-"6826PA",15,"",""
-"6826PA",21,"",""
-"6826PA",23,"",""
-"6826PB",2,"A",""
-"6826PB",12,"",""
-"6826PB",36,"",""
-"6826PB",2,"D",""
-"6826PB",36,"A",""
-"6826PB",16,"",""
-"6826PB",2,"F",""
-"6826PB",50,"",""
-"6826PB",2,"C",""
-"6826PC",21,"",""
-"6826PC",1,"",""
-"6826PC",3,"",""
-"6826PD",15,"",""
-"6826PE",17,"",""
-"6826PE",9,"",""
-"6826PE",5,"",""
-"6826PE",15,"",""
-"6826PE",7,"",""
-"6826PG",93,"",""
-"6826PG",111,"",""
-"6826PG",103,"",""
-"6826PG",105,"",""
-"6826PG",93,"",""
-"6826PG",111,"",""
-"6826PG",105,"",""
-"6826PG",103,"",""
-"6826PG",85,"",""
-"6826PG",85,"",""
-"6826PH",123,"",""
-"6826PH",139,"",""
-"6826PH",135,"",""
-"6826PH",121,"",""
-"6826PJ",30,"",""
-"6826PJ",22,"",""
-"6826PJ",24,"",""
-"6826PJ",2,"",""
-"6826PK",66,"",""
-"6826PK",66,"",""
-"6826PK",32,"",""
-"6826PK",64,"",""
-"6826PK",34,"",""
-"6826PK",62,"",""
-"6826PK",62,"",""
-"6826PK",38,"",""
-"6826PK",64,"",""
-"6826PK",36,"",""
-"6826PK",60,"",""
-"6826PK",58,"",""
-"6826PK",34,"",""
-"6826PK",58,"",""
-"6826PK",38,"",""
-"6826PK",32,"",""
-"6826PK",36,"",""
-"6826PK",60,"",""
-"6826PK",44,"",""
-"6826PK",44,"",""
-"6826PL",80,"",""
-"6826PL",84,"",""
-"6826PL",92,"",""
-"6826PN",60,"",""
-"6826PP",10,"",""
-"6826PP",12,"",""
-"6826PP",10,"",""
-"6826PP",12,"",""
-"6826PP",12,"",""
-"6826PP",10,"",""
-"6826PP",12,"",""
-"6826PP",44,"",""
-"6826PP",10,"",""
-"6826PP",44,"",""
-"6826PR",78,"",""
-"6826PR",50,"",""
-"6826PR",50,"",""
-"6826PS",104,"",""
-"6826PS",96,"",""
-"6826PT",120,"",""
-"6826PT",124,"",""
-"6826PT",138,"",""
-"6826PT",116,"",""
-"6826PT",134,"",""
-"6826PT",122,"",""
-"6826PV",38,"",""
-"6826PV",42,"",""
-"6826PV",4,"",""
-"6826PV",16,"",""
-"6826PV",50,"",""
-"6826PV",28,"",""
-"6826PV",18,"",""
-"6826PW",98,"",""
-"6826PW",66,"",""
-"6826PW",66,"",""
-"6826PW",64,"",""
-"6826PW",88,"",""
-"6826PW",92,"",""
-"6826PW",84,"",""
-"6826PW",64,"",""
-"6826PX",104,"",""
-"6826PX",126,"",""
-"6826PX",124,"",""
-"6826PX",116,"",""
-"6826PX",140,"",""
-"6826PZ",18,"",""
-"6826PZ",52,"",""
-"6826PZ",64,"",""
-"6826PZ",46,"",""
-"6826PZ",36,"",""
-"6826PZ",28,"",""
-"6826PZ",62,"",""
-"6826PZ",32,"",""
-"6826PZ",40,"",""
-"6826PZ",12,"",""
-"6826RA",7,"",""
-"6826RA",13,"",""
-"6826RA",1,"","1"
-"6826RA",19,"",""
-"6826RA",19,"",""
-"6826RA",5,"",""
-"6826RA",7,"",""
-"6826RA",13,"",""
-"6826RA",21,"",""
-"6826RA",21,"",""
-"6826RA",5,"",""
-"6826RB",27,"",""
-"6826RB",3,"",""
-"6826RB",7,"",""
-"6826RB",27,"",""
-"6826RB",7,"",""
-"6826RB",17,"",""
-"6826RB",13,"",""
-"6826RB",25,"",""
-"6826RB",1,"D",""
-"6826RB",3,"",""
-"6826RB",25,"",""
-"6826RB",1,"",""
-"6826RB",23,"",""
-"6826RB",17,"",""
-"6826RB",1,"",""
-"6826RB",5,"",""
-"6826RB",13,"",""
-"6826RB",21,"",""
-"6826RB",23,"",""
-"6826RB",21,"",""
-"6826RC",35,"B",""
-"6826RC",35,"A",""
-"6826RC",45,"B",""
-"6826RC",37,"B",""
-"6826RC",37,"A",""
-"6826RC",41,"B",""
-"6826RC",35,"",""
-"6826RC",33,"B",""
-"6826RD",61,"",""
-"6826RD",73,"",""
-"6826RD",59,"",""
-"6826RD",85,"",""
-"6826RD",71,"",""
-"6826RD",55,"",""
-"6826RD",67,"",""
-"6826RD",95,"",""
-"6826RE",24,"",""
-"6826RE",36,"",""
-"6826RE",28,"",""
-"6826RE",28,"",""
-"6826RE",18,"",""
-"6826RE",8,"",""
-"6826RE",40,"",""
-"6826RE",34,"",""
-"6826RE",44,"",""
-"6826RE",6,"",""
-"6826RE",26,"",""
-"6826RE",24,"",""
-"6826RE",46,"",""
-"6826RG",84,"",""
-"6826RG",78,"",""
-"6826RG",54,"",""
-"6826RG",70,"",""
-"6826RG",84,"",""
-"6826RG",54,"",""
-"6826RG",62,"",""
-"6826RG",82,"",""
-"6826RG",70,"",""
-"6826RG",62,"",""
-"6826RG",82,"",""
-"6826RG",78,"",""
-"6826RH",96,"",""
-"6826RH",88,"F",""
-"6826RH",114,"",""
-"6826RH",116,"",""
-"6826RH",114,"",""
-"6826RH",118,"",""
-"6826RH",100,"",""
-"6826RH",116,"",""
-"6826RH",96,"",""
-"6826RH",110,"",""
-"6826RH",102,"",""
-"6826RH",100,"",""
-"6826RH",110,"",""
-"6826RH",102,"",""
-"6826RH",118,"",""
-"6826RH",88,"D",""
-"6826RJ",126,"",""
-"6826RJ",134,"A",""
-"6826RJ",126,"A",""
-"6826RJ",136,"",""
-"6826RJ",136,"B",""
-"6826RJ",132,"A",""
-"6826RJ",124,"",""
-"6826RJ",130,"A",""
-"6826RJ",124,"A",""
-"6826RJ",124,"B",""
-"6826RK",164,"",""
-"6826RK",138,"",""
-"6826RK",150,"",""
-"6826RK",164,"",""
-"6826RK",146,"",""
-"6826RK",166,"",""
-"6826RK",166,"",""
-"6826RK",162,"",""
-"6826RK",150,"",""
-"6826RK",146,"",""
-"6826RK",162,"",""
-"6826RK",138,"",""
-"6826RL",1,"A",""
-"6826RL",1,"B",""
-"6826RL",5,"",""
-"6826RL",1,"F",""
-"6826RL",21,"",""
-"6826RL",19,"",""
-"6826RL",7,"",""
-"6826RL",21,"",""
-"6826RL",11,"",""
-"6826RL",11,"",""
-"6826RL",13,"",""
-"6826RL",5,"",""
-"6826RL",7,"",""
-"6826RL",13,"",""
-"6826RL",19,"",""
-"6826RM",43,"",""
-"6826RM",51,"",""
-"6826RM",65,"",""
-"6826RM",53,"",""
-"6826RM",63,"",""
-"6826RM",79,"",""
-"6826RM",39,"",""
-"6826RM",61,"",""
-"6826RM",77,"",""
-"6826RM",71,"",""
-"6826RN",4,"A",""
-"6826RN",6,"",""
-"6826RN",12,"B",""
-"6826RN",2,"",""
-"6826RN",8,"A",""
-"6826RN",16,"A",""
-"6826RN",4,"",""
-"6826RN",6,"A",""
-"6826RN",4,"B",""
-"6826RN",16,"B",""
-"6826RN",12,"A",""
-"6826RP",64,"",""
-"6826RP",46,"",""
-"6826RP",50,"",""
-"6826RP",50,"",""
-"6826RP",46,"",""
-"6826RP",48,"",""
-"6826RP",62,"",""
-"6826RP",36,"F",""
-"6826RP",54,"",""
-"6826RP",64,"",""
-"6826RP",58,"",""
-"6826RP",66,"",""
-"6826RP",58,"",""
-"6826RP",48,"",""
-"6826RP",56,"",""
-"6826RP",54,"",""
-"6826RP",36,"D",""
-"6826RP",62,"",""
-"6826RP",18,"",""
-"6826RP",32,"",""
-"6826RP",36,"E",""
-"6826RP",40,"",""
-"6826RP",38,"",""
-"6826RP",56,"",""
-"6826RP",42,"",""
-"6826RP",42,"",""
-"6826RP",38,"",""
-"6826RP",40,"",""
-"6826RP",24,"",""
-"6826RP",66,"",""
-"6826RR",6,"","1"
-"6826RR",4,"","4"
-"6826RR",7,"",""
-"6826RR",6,"","2"
-"6826RR",2,"","4"
-"6826RR",8,"","1"
-"6826RR",11,"",""
-"6826RR",2,"","3"
-"6826RS",38,"",""
-"6826RS",10,"",""
-"6826RS",26,"",""
-"6826RS",10,"",""
-"6826RS",34,"",""
-"6826RS",26,"",""
-"6826RS",14,"",""
-"6826RS",40,"",""
-"6826RS",34,"",""
-"6826RS",14,"",""
-"6826RS",12,"",""
-"6826RS",40,"",""
-"6826RS",22,"",""
-"6826RS",12,"",""
-"6826RS",38,"",""
-"6826RS",22,"",""
-"6826RT",13,"",""
-"6826RT",5,"",""
-"6826RT",29,"",""
-"6826RT",27,"",""
-"6826RT",17,"A",""
-"6826RT",1,"",""
-"6826RT",7,"",""
-"6826RT",11,"",""
-"6826RV",37,"",""
-"6826RW",65,"","1"
-"6826RW",61,"","1"
-"6826RW",59,"","1"
-"6826RW",59,"","2"
-"6826RW",57,"","3"
-"6826RW",61,"","3"
-"6826RW",63,"","3"
-"6826RX",4,"","2"
-"6826RX",8,"","4"
-"6826RX",8,"","1"
-"6826RX",6,"","3"
-"6826RX",6,"","4"
-"6826RX",2,"","1"
-"6826RX",8,"","2"
-"6826RX",4,"","3"
-"6826RZ",32,"",""
-"6826RZ",28,"",""
-"6826RZ",36,"",""
-"6826RZ",32,"",""
-"6826RZ",26,"",""
-"6826RZ",36,"",""
-"6826RZ",28,"",""
-"6826RZ",54,"",""
-"6826RZ",56,"",""
-"6826RZ",16,"",""
-"6826RZ",22,"",""
-"6826RZ",50,"",""
-"6826RZ",48,"",""
-"6826RZ",26,"",""
-"6826RZ",44,"",""
-"6826RZ",22,"",""
-"6826RZ",16,"",""
-"6826SB",27,"",""
-"6826SB",25,"",""
-"6826SB",9,"",""
-"6826SB",17,"",""
-"6826SB",21,"",""
-"6826SB",29,"",""
-"6826SB",23,"",""
-"6826SB",1,"",""
-"6826SB",35,"",""
-"6826SC",47,"",""
-"6826SC",49,"",""
-"6826SE",65,"","2"
-"6826SE",63,"","3"
-"6826SE",57,"","2"
-"6826SE",59,"","3"
-"6826SG",8,"","3"
-"6826SG",6,"","4"
-"6826SG",2,"","1"
-"6826SG",8,"","1"
-"6826SH",54,"",""
-"6826SH",10,"",""
-"6826SH",24,"",""
-"6826SH",30,"",""
-"6826SH",56,"",""
-"6826SH",52,"",""
-"6826SH",36,"",""
-"6826SH",36,"",""
-"6826SH",24,"",""
-"6826SH",10,"",""
-"6826SH",30,"",""
-"6826SH",50,"",""
-"6826SJ",3,"",""
-"6826SJ",23,"",""
-"6826SJ",21,"",""
-"6826SJ",1,"",""
-"6826SJ",19,"",""
-"6826SJ",17,"",""
-"6826SL",61,"","3"
-"6826SL",55,"","2"
-"6826SL",61,"","2"
-"6826SL",55,"","3"
-"6826SL",57,"","3"
-"6826SM",6,"","1"
-"6826SM",8,"","1"
-"6826SM",8,"","4"
-"6826SM",4,"","4"
-"6826SM",6,"","4"
-"6826SM",6,"","3"
-"6826SN",16,"",""
-"6826SN",34,"",""
-"6826SN",32,"",""
-"6826SN",28,"",""
-"6826SN",46,"",""
-"6826SN",32,"",""
-"6826SN",46,"",""
-"6826SN",28,"",""
-"6826SN",20,"",""
-"6826SN",38,"",""
-"6826SN",34,"",""
-"6826SN",20,"",""
-"6826SN",16,"",""
-"6826SN",38,"",""
-"6826SP",3,"","5"
-"6826SP",5,"","6"
-"6826SP",1,"","4"
-"6826SP",5,"","2"
-"6826SP",3,"","3"
-"6826SP",1,"E",""
-"6826SP",1,"F",""
-"6826SP",7,"","4"
-"6826SP",3,"","2"
-"6826SP",1,"A",""
-"6826SP",1,"","5"
-"6826SR",11,"","3"
-"6826SR",9,"B",""
-"6826SR",13,"","5"
-"6826SR",9,"","4"
-"6826SR",11,"","4"
-"6826SR",11,"","2"
-"6826SR",9,"","1"
-"6826SR",13,"","2"
-"6826SR",15,"","1"
-"6826SR",9,"","6"
-"6826SR",11,"","1"
-"6826SR",11,"","5"
-"6826ST",17,"","6"
-"6826ST",19,"","1"
-"6826ST",17,"","3"
-"6826ST",17,"","2"
-"6826ST",23,"","1"
-"6826ST",23,"","3"
-"6826SV",25,"","4"
-"6826SV",27,"","1"
-"6826SV",25,"","2"
-"6826SV",31,"","4"
-"6826SV",25,"E",""
-"6826SV",31,"","1"
-"6826SV",31,"","5"
-"6826SV",29,"","1"
-"6826SV",29,"","6"
-"6826SW",34,"",""
-"6826SW",20,"",""
-"6826SW",32,"",""
-"6826SW",2,"",""
-"6826SW",36,"",""
-"6826SW",28,"",""
-"6826SW",8,"",""
-"6826SX",50,"",""
-"6826SX",54,"",""
-"6826SX",42,"",""
-"6826SX",44,"",""
-"6826TA",5,"",""
-"6826TB",10,"",""
-"6826TB",40,"",""
-"6826TB",40,"",""
-"6826TB",42,"",""
-"6826TB",44,"",""
-"6826TB",44,"",""
-"6826TB",8,"",""
-"6826TB",26,"",""
-"6826TB",8,"",""
-"6826TB",26,"",""
-"6826TB",10,"",""
-"6826TB",42,"",""
-"6826TC",68,"",""
-"6826TC",50,"",""
-"6826TC",68,"",""
-"6826TC",50,"",""
-"6826TD",96,"",""
-"6826TD",96,"",""
-"6826TE",136,"",""
-"6826TE",110,"",""
-"6826TE",136,"",""
-"6826TE",130,"",""
-"6826TE",108,"",""
-"6826TE",120,"",""
-"6826TE",130,"",""
-"6826TE",110,"",""
-"6826TE",114,"",""
-"6826TE",108,"",""
-"6826TE",112,"",""
-"6826TE",120,"",""
-"6826TE",140,"",""
-"6826TE",112,"",""
-"6826TE",114,"",""
-"6826TE",118,"",""
-"6826TE",118,"",""
-"6826TE",140,"",""
-"6826TG",160,"",""
-"6826TG",174,"",""
-"6826TG",146,"",""
-"6826TG",160,"",""
-"6826TG",146,"",""
-"6826TG",176,"",""
-"6826TG",172,"",""
-"6826TG",166,"",""
-"6826TG",166,"",""
-"6826TG",174,"",""
-"6826TG",176,"",""
-"6826TH",214,"",""
-"6826TH",196,"",""
-"6826TH",182,"",""
-"6826TH",214,"",""
-"6826TH",182,"",""
-"6826TH",196,"",""
-"6826TM",47,"",""
-"6826TM",25,"",""
-"6826TM",25,"",""
-"6826TM",1,"",""
-"6826TM",29,"",""
-"6826TM",11,"",""
-"6826TM",33,"",""
-"6826TM",33,"",""
-"6826TN",22,"",""
-"6826TN",22,"",""
-"6826TN",8,"",""
-"6826TN",2,"",""
-"6826TN",26,"",""
-"6826TN",36,"",""
-"6826TN",32,"",""
-"6826TN",6,"",""
-"6826TP",25,"",""
-"6826TP",5,"",""
-"6826TP",19,"",""
-"6826TP",45,"",""
-"6826TR",16,"",""
-6826KA,Van Kampenstraat,13,,
-6826KA,Van Kampenstraat,23,,
-6826KA,Van Kampenstraat,5,,
-6826KA,Van Kampenstraat,9,,
-6826KB,Van Kampenstraat,47,,
-6826KC,Van Kampenstraat,4,,
-6826KC,Van Kampenstraat,4,,
-6826KC,Van Kampenstraat,20,,
-6826KC,Van Kampenstraat,20,,
-6826KC,Van Kampenstraat,40,,
-6826KC,Van Kampenstraat,40,,
-6826KC,Van Kampenstraat,32,,
-6826KC,Van Kampenstraat,32,,
-6826KC,Van Kampenstraat,26,,
-6826KC,Van Kampenstraat,26,,
-6826KC,Van Kampenstraat,2,B,
-6826KC,Van Kampenstraat,2,K,
-6826KC,Van Kampenstraat,24,,
-6826KC,Van Kampenstraat,24,,
-6826KD,Van Kampenstraat,82,,
-6826KD,Van Kampenstraat,82,,
-6826KD,Van Kampenstraat,56,,
-6826KD,Van Kampenstraat,56,,
-6826KD,Van Kampenstraat,60,,
-6826KD,Van Kampenstraat,60,,
-6826KD,Van Kampenstraat,62,,
-6826KD,Van Kampenstraat,62,,
-6826KD,Van Kampenstraat,96,,
-6826KD,Van Kampenstraat,96,,
-6826KD,Van Kampenstraat,80,,
-6826KD,Van Kampenstraat,80,,
-6826KE,Van Kampenstraat,102,,
-6826KE,Van Kampenstraat,102,,
-6826RB,Karel Doormanstraat,1,,
-6826RB,Karel Doormanstraat,1,,
-6826RB,Karel Doormanstraat,7,,
-6826RB,Karel Doormanstraat,7,,
-6826RB,Karel Doormanstraat,1,D,
-6826RB,Karel Doormanstraat,21,,
-6826RB,Karel Doormanstraat,21,,
-6826RB,Karel Doormanstraat,25,,
-6826RB,Karel Doormanstraat,25,,
-6826RC,Karel Doormanstraat,37,B,
-6826RC,Karel Doormanstraat,35,B,
-6826RC,Karel Doormanstraat,41,B,
-6826RD,Karel Doormanstraat,61,,
-6826RD,Karel Doormanstraat,71,,
-6826RD,Karel Doormanstraat,73,,
-6826RE,Karel Doormanstraat,6,,
-6826RE,Karel Doormanstraat,8,,
-6826RE,Karel Doormanstraat,26,,
-6826RE,Karel Doormanstraat,28,,
-6826RE,Karel Doormanstraat,24,,
-6826RE,Karel Doormanstraat,40,,
-6826RE,Karel Doormanstraat,46,,
-6826RG,Karel Doormanstraat,84,,
-6826RG,Karel Doormanstraat,84,,
-6826RH,Karel Doormanstraat,100,,
-6826RH,Karel Doormanstraat,100,,
-6826RJ,Karel Doormanstraat,126,A,
-6826RJ,Karel Doormanstraat,136,B,
-6826RJ,Karel Doormanstraat,134,A,
-6826RK,Karel Doormanstraat,150,,
-6826RK,Karel Doormanstraat,150,,
-6826RK,Karel Doormanstraat,166,,
-6826RK,Karel Doormanstraat,166,,
-6826PV,Keulse Slag,16,,
-6826PV,Keulse Slag,38,,
-6826PV,Keulse Slag,42,,
-6826PX,Keulse Slag,124,,
-6826PX,Keulse Slag,104,,
-6826JA,Van Kinsbergenstraat,5,,
-6826JA,Van Kinsbergenstraat,5,,
-6826JA,Van Kinsbergenstraat,1,,
-6826JA,Van Kinsbergenstraat,1,,
-6826JC,Van Kinsbergenstraat,38,,
-6826JC,Van Kinsbergenstraat,48,,
-6826JE,Dedelstraat,11,,
-6826JE,Dedelstraat,11,,
-6826JE,Dedelstraat,7,,
-6826JE,Dedelstraat,7,,
-6826JG,Dedelstraat,33,,
-6826JG,Dedelstraat,33,,
-6826JG,Dedelstraat,37,,
-6826JG,Dedelstraat,37,,
-6826JG,Dedelstraat,53,,
-6826JG,Dedelstraat,53,,
-6826JH,Dedelstraat,28,,
-6826JH,Dedelstraat,10,,
-6826JJ,Dedelstraat,58,,
-6826JJ,Dedelstraat,62,,
-6826JJ,Dedelstraat,36,,
-6826HR,Doeffstraat,14,,
-6826HR,Doeffstraat,14,,
-6826HR,Doeffstraat,20,,
-6826HR,Doeffstraat,20,,
-6826HS,Doeffstraat,82,,
-6826HS,Doeffstraat,82,,
-6826HS,Doeffstraat,84,,
-6826HS,Doeffstraat,84,,
-6826HT,Doeffstraat,112,,
-6826HT,Doeffstraat,112,,
-6826HT,Doeffstraat,98,D,
-6826HT,Doeffstraat,104,,
-6826HT,Doeffstraat,104,,
-6826HT,Doeffstraat,106,,
-6826HT,Doeffstraat,106,,
-6826HV,Doeffstraat,154,,
-6826HV,Doeffstraat,154,,
-6826HW,Doeffstraat,172,,
-6826HW,Doeffstraat,172,,
-6826RL,Lacombléstraat,19,,
-6826RL,Lacombléstraat,19,,
-6826RL,Lacombléstraat,11,,
-6826RL,Lacombléstraat,11,,
-6826RL,Lacombléstraat,1,A,
-6826RL,Lacombléstraat,1,B,
-6826RL,Lacombléstraat,5,,
-6826RL,Lacombléstraat,5,,
-6826RL,Lacombléstraat,21,,
-6826RL,Lacombléstraat,21,,
-6826RM,Lacombléstraat,51,,
-6826RM,Lacombléstraat,61,,
-6826RM,Lacombléstraat,71,,
-6826RM,Lacombléstraat,79,,
-6826RM,Lacombléstraat,53,,
-6826RM,Lacombléstraat,63,,
-6826RM,Lacombléstraat,77,,
-6826RN,Lacombléstraat,4,,
-6826RN,Lacombléstraat,4,B,
-6826RN,Lacombléstraat,4,A,
-6826RP,Lacombléstraat,50,,
-6826RP,Lacombléstraat,50,,
-6826RP,Lacombléstraat,36,F,
-6826RP,Lacombléstraat,54,,
-6826RP,Lacombléstraat,54,,
-6826RP,Lacombléstraat,58,,
-6826RP,Lacombléstraat,58,,
-6826RP,Lacombléstraat,66,,
-6826RP,Lacombléstraat,66,,
-6826RP,Lacombléstraat,36,D,
-6826RP,Lacombléstraat,36,E,
-6826RP,Lacombléstraat,48,,
-6826RP,Lacombléstraat,48,,
-6826NB,Lange Wal,22,,2
-6826NB,Lange Wal,18,,3
-6826NB,Lange Wal,20,,2
-6826NC,Lange Wal,28,,4
-6826NC,Lange Wal,36,,4
-6826NC,Lange Wal,38,,2
-6826ND,Lange Wal,48,,2
-6826ND,Lange Wal,42,,4
-6826ND,Lange Wal,44,,4
-6826NG,Lange Wal,88,,
-6826NG,Lange Wal,88,,
-6826NG,Lange Wal,108,,
-6826NG,Lange Wal,108,,
-6826NG,Lange Wal,98,,
-6826NG,Lange Wal,98,,
-6826NG,Lange Wal,122,,
-6826NG,Lange Wal,122,,
-6826NG,Lange Wal,94,,
-6826NG,Lange Wal,94,,
-6826NG,Lange Wal,96,,
-6826NG,Lange Wal,96,,
-6826NW,Sonoystraat,1,B,
-6826NW,Sonoystraat,15,,
-6826NW,Sonoystraat,45,,
-6826NX,Sonoystraat,10,,
-6826NX,Sonoystraat,20,,
-6826HL,Van Speykstraat,9,,
-6826HL,Van Speykstraat,9,,
-6826HL,Van Speykstraat,11,,
-6826HL,Van Speykstraat,11,,
-6826HM,Van Speykstraat,39,,
-6826HM,Van Speykstraat,39,,
-6826HM,Van Speykstraat,61,,
-6826HM,Van Speykstraat,37,,
-6826HM,Van Speykstraat,37,,
-6826HM,Van Speykstraat,45,,
-6826HM,Van Speykstraat,45,,
-6826HM,Van Speykstraat,53,,
-6826HM,Van Speykstraat,53,,
-6826HN,Van Speykstraat,14,,
-6826HP,Van Speykstraat,54,,
-6826HP,Van Speykstraat,34,,
-6826JL,Carstenszstraat,57,,
-6826JL,Carstenszstraat,57,,
-6826PP,Honigkamp,10,,
-6826PP,Honigkamp,10,,
-6826PP,Honigkamp,44,,
-6826PR,Honigkamp,78,,
-6826PS,Honigkamp,104,,
-6826PT,Honigkamp,138,,
-6826PT,Honigkamp,122,,
-6826PT,Honigkamp,116,,
-6826PE,De Houtmanstraat,5,,
-6826PG,De Houtmanstraat,111,,
-6826PG,De Houtmanstraat,111,,
-6826PH,De Houtmanstraat,121,,
-6826PJ,De Houtmanstraat,24,,
-6826PJ,De Houtmanstraat,30,,
-6826PJ,De Houtmanstraat,2,,
-6826PK,De Houtmanstraat,64,,
-6826PK,De Houtmanstraat,64,,
-6826PK,De Houtmanstraat,44,,
-6826PK,De Houtmanstraat,44,,
-6826PK,De Houtmanstraat,62,,
-6826PK,De Houtmanstraat,62,,
-6826PK,De Houtmanstraat,58,,
-6826PK,De Houtmanstraat,58,,
-6826RR,Hudsonstraat,2,,3
-6826RR,Hudsonstraat,2,,4
-6826RR,Hudsonstraat,6,,2
-6826RR,Hudsonstraat,11,,
-6826RR,Hudsonstraat,8,,1
-6826RS,Hudsonstraat,14,,
-6826RS,Hudsonstraat,14,,
-6826RS,Hudsonstraat,26,,
-6826RS,Hudsonstraat,26,,
-6826RS,Hudsonstraat,38,,
-6826RS,Hudsonstraat,38,,
-6826RS,Hudsonstraat,12,,
-6826RS,Hudsonstraat,12,,
-6826RS,Hudsonstraat,10,,
-6826RS,Hudsonstraat,10,,
-6826SB,Floriszstraat,23,,
-6826SB,Floriszstraat,1,,
-6826SB,Floriszstraat,21,,
-6826SB,Floriszstraat,25,,
-6826SB,Floriszstraat,17,,
-6826SB,Floriszstraat,27,,
-6826SB,Floriszstraat,29,,
-6826SE,Floriszstraat,63,,3
-6826SE,Floriszstraat,65,,2
-6826SE,Floriszstraat,59,,3
-6826SG,Floriszstraat,8,,3
-6826SG,Floriszstraat,2,,1
-6826SH,Floriszstraat,10,,
-6826SH,Floriszstraat,10,,
-6826SH,Floriszstraat,30,,
-6826SH,Floriszstraat,30,,
-6826SH,Floriszstraat,24,,
-6826SH,Floriszstraat,24,,
-6826RT,Van Galenstraat,7,,
-6826RV,Van Galenstraat,37,,
-6826RW,Van Galenstraat,61,,1
-6826RX,Van Galenstraat,8,,1
-6826RZ,Van Galenstraat,28,,
-6826RZ,Van Galenstraat,28,,
-6826RZ,Van Galenstraat,32,,
-6826RZ,Van Galenstraat,32,,
-6826RZ,Van Galenstraat,48,,
-6826RZ,Van Galenstraat,54,,
-6826RZ,Van Galenstraat,16,,
-6826RZ,Van Galenstraat,16,,
-6826RZ,Van Galenstraat,36,,
-6826RZ,Van Galenstraat,36,,
-6826RZ,Van Galenstraat,44,,
-6826RZ,Van Galenstraat,50,,
-6826JM,Van Nesstraat,33,A,
-6826JM,Van Nesstraat,21,,
-6826JM,Van Nesstraat,33,,
-6826JN,Van Nesstraat,57,,
-6826JP,Van Nesstraat,24,,
-6826JP,Van Nesstraat,24,,
-6826JP,Van Nesstraat,2,A,
-6826JR,Van Nesstraat,60,,
-6826JR,Van Nesstraat,60,,
-6826JS,Van Nesstraat,70,,
-6826JS,Van Nesstraat,70,,
-6826JT,Van Nesstraat,116,,
-6826JT,Van Nesstraat,116,,
-6826JT,Van Nesstraat,126,,
-6826JT,Van Nesstraat,126,,
-6826TP,Ringoven,25,,
-6826TM,Vlamoven,25,,
-6826TN,Vlamoven,26,,
-6826PA,Van Ghentstraat,15,,
-6826PA,Van Ghentstraat,7,,
-6826PA,Van Ghentstraat,21,,
-6826PB,Van Ghentstraat,2,C,
-6826PB,Van Ghentstraat,36,A,
-6826PB,Van Ghentstraat,16,,
-6826KG,Van der Goesstraat,19,,
-6826KG,Van der Goesstraat,17,,
-6826KH,Van der Goesstraat,51,,
-6826KH,Van der Goesstraat,65,,
-6826KH,Van der Goesstraat,47,,
-6826KH,Van der Goesstraat,67,,
-6826KH,Van der Goesstraat,69,,
-6826KH,Van der Goesstraat,35,,
-6826KJ,Van der Goesstraat,26,,
-6826KJ,Van der Goesstraat,26,,
-6826KJ,Van der Goesstraat,2,L,
-6826KK,Van der Goesstraat,92,,
-6826KK,Van der Goesstraat,92,,
-6826KK,Van der Goesstraat,98,,
-6826KK,Van der Goesstraat,98,,
-6826KL,Van der Goesstraat,118,,
-6826KL,Van der Goesstraat,118,,
-6826KL,Van der Goesstraat,106,,
-6826KL,Van der Goesstraat,106,,
-6826KL,Van der Goesstraat,130,,
-6826KL,Van der Goesstraat,130,,
-6826PD,Juinbolstraat,15,,
-6826TB,Bethaniënstraat,42,,
-6826TB,Bethaniënstraat,42,,
-6826TB,Bethaniënstraat,8,,
-6826TB,Bethaniënstraat,8,,
-6826TB,Bethaniënstraat,26,,
-6826TB,Bethaniënstraat,26,,
-6826TC,Bethaniënstraat,50,,
-6826TC,Bethaniënstraat,50,,
-6826TE,Bethaniënstraat,120,,
-6826TE,Bethaniënstraat,120,,
-6826TE,Bethaniënstraat,110,,
-6826TE,Bethaniënstraat,110,,
-6826TG,Bethaniënstraat,146,,
-6826TG,Bethaniënstraat,146,,
-6826TG,Bethaniënstraat,172,,
-6826TG,Bethaniënstraat,174,,
-6826TG,Bethaniënstraat,174,,
-6826PZ,De Bitterstraat,18,,
-6826PZ,De Bitterstraat,28,,
-6826PZ,De Bitterstraat,46,,
-6826PZ,De Bitterstraat,32,,
-6826PZ,De Bitterstraat,40,,
-6826RA,De Bitterstraat,5,,
-6826RA,De Bitterstraat,5,,
-6826SP,Bontekoestraat,3,,3
-6826SP,Bontekoestraat,5,,2
-6826SP,Bontekoestraat,3,,5
-6826SP,Bontekoestraat,1,E,
-6826SR,Bontekoestraat,11,,4
-6826ST,Bontekoestraat,23,,3
-6826SV,Bontekoestraat,29,,1
-6826SV,Bontekoestraat,31,,4
-6826SV,Bontekoestraat,31,,1
-6826SW,Bontekoestraat,32,,
-6826SW,Bontekoestraat,8,,
-6826SW,Bontekoestraat,28,,
-6826SX,Bontekoestraat,42,,
-6826NH,Van Borselenstraat,1,A,
-6826NH,Van Borselenstraat,43,,
-6826NH,Van Borselenstraat,1,,
-6826NJ,Van Borselenstraat,12,,
-6826NJ,Van Borselenstraat,12,,
-6826NJ,Van Borselenstraat,2,K,
-6826NJ,Van Borselenstraat,6,,
-6826NJ,Van Borselenstraat,6,,
-6826NJ,Van Borselenstraat,16,,
-6826NJ,Van Borselenstraat,16,,
-6826NK,Van Borselenstraat,50,,
-6826NK,Van Borselenstraat,50,,
-6826NK,Van Borselenstraat,40,,
-6826NK,Van Borselenstraat,40,,
-6826NL,Van Borselenstraat,58,J,
-6826NN,Van Borselenstraat,124,,
-6826NN,Van Borselenstraat,124,,
-6826NN,Van Borselenstraat,114,K,
-6826NR,Van Borselenstraat,190,,
-6826NR,Van Borselenstraat,190,,
-6826NR,Van Borselenstraat,182,,
-6826NR,Van Borselenstraat,182,,
-6826NR,Van Borselenstraat,188,,
-6826NR,Van Borselenstraat,188,,
-6826NR,Van Borselenstraat,170,B,
-6826NS,Van Borselenstraat,204,,
-6826NS,Van Borselenstraat,204,,
-6826SJ,Stellingwerfstraat,19,,
-6826SJ,Stellingwerfstraat,23,,
-6826SL,Stellingwerfstraat,61,,2
-6826SL,Stellingwerfstraat,61,,3
-6826SM,Stellingwerfstraat,8,,4
-6826SM,Stellingwerfstraat,4,,4
-6826SM,Stellingwerfstraat,6,,4
-6826SM,Stellingwerfstraat,8,,1
-6826SN,Stellingwerfstraat,16,,
-6826SN,Stellingwerfstraat,16,,
-6826SN,Stellingwerfstraat,34,,
-6826SN,Stellingwerfstraat,34,,
-6826SN,Stellingwerfstraat,46,,
-6826SN,Stellingwerfstraat,46,,
-6826PN,Roggeveenhof,60,,
-6826KA,Van Kampenstraat,7,,
-6826KA,Van Kampenstraat,25,,
-6826KB,Van Kampenstraat,45,,
-6826KB,Van Kampenstraat,65,,
-6826KB,Van Kampenstraat,67,,
-6826KC,Van Kampenstraat,2,C,
-6826KC,Van Kampenstraat,2,L,
-6826KC,Van Kampenstraat,28,,
-6826KC,Van Kampenstraat,28,,
-6826KC,Van Kampenstraat,16,,
-6826KC,Van Kampenstraat,16,,
-6826KC,Van Kampenstraat,10,,
-6826KC,Van Kampenstraat,10,,
-6826KD,Van Kampenstraat,52,,
-6826KD,Van Kampenstraat,52,,
-6826KD,Van Kampenstraat,74,,
-6826KD,Van Kampenstraat,74,,
-6826KD,Van Kampenstraat,90,,
-6826KD,Van Kampenstraat,90,,
-6826KD,Van Kampenstraat,86,,
-6826KD,Van Kampenstraat,86,,
-6826KD,Van Kampenstraat,92,,
-6826KD,Van Kampenstraat,92,,
-6826KD,Van Kampenstraat,54,,
-6826KD,Van Kampenstraat,54,,
-6826KE,Van Kampenstraat,126,,
-6826KE,Van Kampenstraat,126,,
-6826KE,Van Kampenstraat,112,,
-6826KE,Van Kampenstraat,112,,
-6826RB,Karel Doormanstraat,27,,
-6826RB,Karel Doormanstraat,27,,
-6826RB,Karel Doormanstraat,3,,
-6826RB,Karel Doormanstraat,3,,
-6826RB,Karel Doormanstraat,17,,
-6826RB,Karel Doormanstraat,17,,
-6826RB,Karel Doormanstraat,5,,
-6826RC,Karel Doormanstraat,33,B,
-6826RC,Karel Doormanstraat,35,,
-6826RC,Karel Doormanstraat,45,B,
-6826RD,Karel Doormanstraat,59,,
-6826RD,Karel Doormanstraat,85,,
-6826RD,Karel Doormanstraat,67,,
-6826RE,Karel Doormanstraat,44,,
-6826RE,Karel Doormanstraat,24,,
-6826RE,Karel Doormanstraat,28,,
-6826RE,Karel Doormanstraat,18,,
-6826RE,Karel Doormanstraat,34,,
-6826RE,Karel Doormanstraat,36,,
-6826RG,Karel Doormanstraat,62,,
-6826RG,Karel Doormanstraat,62,,
-6826RG,Karel Doormanstraat,54,,
-6826RG,Karel Doormanstraat,54,,
-6826RG,Karel Doormanstraat,78,,
-6826RG,Karel Doormanstraat,78,,
-6826RG,Karel Doormanstraat,82,,
-6826RG,Karel Doormanstraat,82,,
-6826RH,Karel Doormanstraat,96,,
-6826RH,Karel Doormanstraat,96,,
-6826RH,Karel Doormanstraat,88,D,
-6826RH,Karel Doormanstraat,110,,
-6826RH,Karel Doormanstraat,110,,
-6826RH,Karel Doormanstraat,114,,
-6826RH,Karel Doormanstraat,114,,
-6826RH,Karel Doormanstraat,116,,
-6826RH,Karel Doormanstraat,116,,
-6826RH,Karel Doormanstraat,88,F,
-6826RJ,Karel Doormanstraat,124,,
-6826RJ,Karel Doormanstraat,126,,
-6826RJ,Karel Doormanstraat,132,A,
-6826RJ,Karel Doormanstraat,124,B,
-6826RJ,Karel Doormanstraat,136,,
-6826RJ,Karel Doormanstraat,124,A,
-6826RK,Karel Doormanstraat,164,,
-6826RK,Karel Doormanstraat,164,,
-6826RK,Karel Doormanstraat,146,,
-6826RK,Karel Doormanstraat,146,,
-6826PV,Keulse Slag,4,,
-6826PV,Keulse Slag,28,,
-6826PV,Keulse Slag,18,,
-6826PW,Keulse Slag,84,,
-6826PW,Keulse Slag,92,,
-6826PW,Keulse Slag,66,,
-6826PW,Keulse Slag,66,,
-6826PW,Keulse Slag,98,,
-6826JA,Van Kinsbergenstraat,9,,
-6826JA,Van Kinsbergenstraat,9,,
-6826JB,Van Kinsbergenstraat,37,,
-6826JB,Van Kinsbergenstraat,37,,
-6826JB,Van Kinsbergenstraat,27,,
-6826JB,Van Kinsbergenstraat,27,,
-6826JC,Van Kinsbergenstraat,26,,
-6826JE,Dedelstraat,1,,
-6826JE,Dedelstraat,1,,
-6826JE,Dedelstraat,1,D,
-6826JE,Dedelstraat,5,,
-6826JE,Dedelstraat,5,,
-6826JH,Dedelstraat,18,,
-6826JJ,Dedelstraat,38,,
-6826JJ,Dedelstraat,54,,
-6826HR,Doeffstraat,46,,
-6826HR,Doeffstraat,46,,
-6826HS,Doeffstraat,58,,
-6826HS,Doeffstraat,58,,
-6826HS,Doeffstraat,52,,
-6826HS,Doeffstraat,52,,
-6826HS,Doeffstraat,72,,
-6826HS,Doeffstraat,72,,
-6826HS,Doeffstraat,78,,
-6826HS,Doeffstraat,78,,
-6826HS,Doeffstraat,50,F,
-6826HS,Doeffstraat,92,,
-6826HS,Doeffstraat,92,,
-6826HS,Doeffstraat,50,C,
-6826HS,Doeffstraat,76,,
-6826HS,Doeffstraat,76,,
-6826HS,Doeffstraat,50,H,
-6826HT,Doeffstraat,136,,
-6826HT,Doeffstraat,136,,
-6826HT,Doeffstraat,98,C,
-6826HT,Doeffstraat,114,,
-6826HT,Doeffstraat,114,,
-6826HT,Doeffstraat,118,,
-6826HT,Doeffstraat,118,,
-6826HT,Doeffstraat,98,F,
-6826HT,Doeffstraat,100,,
-6826HT,Doeffstraat,100,,
-6826HT,Doeffstraat,98,E,
-6826HV,Doeffstraat,158,,
-6826HV,Doeffstraat,158,,
-6826HV,Doeffstraat,146,,
-6826HV,Doeffstraat,146,,
-6826HV,Doeffstraat,156,,
-6826HV,Doeffstraat,148,,
-6826HV,Doeffstraat,148,,
-6826HW,Doeffstraat,182,,
-6826HW,Doeffstraat,182,,
-6826HW,Doeffstraat,202,,
-6826HW,Doeffstraat,202,,
-6826HW,Doeffstraat,174,,
-6826HW,Doeffstraat,174,,
-6826HW,Doeffstraat,198,,
-6826HW,Doeffstraat,198,,
-6826RL,Lacombléstraat,13,,
-6826RL,Lacombléstraat,13,,
-6826RL,Lacombléstraat,1,F,
-6826RM,Lacombléstraat,39,,
-6826RM,Lacombléstraat,43,,
-6826RN,Lacombléstraat,16,A,
-6826RN,Lacombléstraat,16,B,
-6826RN,Lacombléstraat,6,A,
-6826RN,Lacombléstraat,2,,
-6826RP,Lacombléstraat,38,,
-6826RP,Lacombléstraat,38,,
-6826RP,Lacombléstraat,64,,
-6826RP,Lacombléstraat,64,,
-6826RP,Lacombléstraat,40,,
-6826RP,Lacombléstraat,40,,
-6826RP,Lacombléstraat,56,,
-6826RP,Lacombléstraat,56,,
-6826RP,Lacombléstraat,18,,
-6826NB,Lange Wal,16,,4
-6826NB,Lange Wal,18,,1
-6826NB,Lange Wal,20,,1
-6826NB,Lange Wal,24,,2
-6826NB,Lange Wal,26,,2
-6826NC,Lange Wal,30,,1
-6826NC,Lange Wal,38,,3
-6826ND,Lange Wal,50,,2
-6826ND,Lange Wal,50,,4
-6826ND,Lange Wal,42,,3
-6826NE,Lange Wal,54,,
-6826NE,Lange Wal,74,,
-6826NG,Lange Wal,100,,
-6826NG,Lange Wal,100,,
-6826NG,Lange Wal,86,,
-6826NG,Lange Wal,86,,
-6826NW,Sonoystraat,1,C,
-6826NW,Sonoystraat,43,,
-6826NX,Sonoystraat,2,F,
-6826NX,Sonoystraat,30,,
-6826NX,Sonoystraat,14,,
-6826NX,Sonoystraat,26,,
-6826NX,Sonoystraat,28,,
-6826NX,Sonoystraat,36,A,
-6826NX,Sonoystraat,36,B,
-6826HL,Van Speykstraat,1,C,
-6826HM,Van Speykstraat,43,,
-6826HM,Van Speykstraat,43,,
-6826HP,Van Speykstraat,64,,
-6826HP,Van Speykstraat,40,,
-6826JK,Carstenszstraat,11,,
-6826JK,Carstenszstraat,11,,
-6826JL,Carstenszstraat,33,,
-6826JL,Carstenszstraat,33,,
-6826JL,Carstenszstraat,39,,
-6826JL,Carstenszstraat,39,,
-6826PP,Honigkamp,12,,
-6826PP,Honigkamp,12,,
-6826PS,Honigkamp,96,,
-6826PT,Honigkamp,124,,
-6826PE,De Houtmanstraat,9,,
-6826PE,De Houtmanstraat,17,,
-6826PG,De Houtmanstraat,105,,
-6826PG,De Houtmanstraat,105,,
-6826PH,De Houtmanstraat,123,,
-6826PH,De Houtmanstraat,135,,
-6826PH,De Houtmanstraat,139,,
-6826PK,De Houtmanstraat,34,,
-6826PK,De Houtmanstraat,34,,
-6826PK,De Houtmanstraat,66,,
-6826PK,De Houtmanstraat,66,,
-6826PL,De Houtmanstraat,92,,
-6826PL,De Houtmanstraat,84,,
-6826RR,Hudsonstraat,4,,4
-6826RR,Hudsonstraat,6,,1
-6826RR,Hudsonstraat,7,,
-6826RS,Hudsonstraat,34,,
-6826RS,Hudsonstraat,34,,
-6826SC,Floriszstraat,49,,
-6826SC,Floriszstraat,47,,
-6826SE,Floriszstraat,57,,2
-6826SG,Floriszstraat,6,,4
-6826SG,Floriszstraat,8,,1
-6826SH,Floriszstraat,54,,
-6826RT,Van Galenstraat,13,,
-6826RT,Van Galenstraat,5,,
-6826RT,Van Galenstraat,11,,
-6826RT,Van Galenstraat,27,,
-6826RT,Van Galenstraat,1,,
-6826RW,Van Galenstraat,61,,3
-6826RW,Van Galenstraat,59,,2
-6826RX,Van Galenstraat,2,,1
-6826RX,Van Galenstraat,6,,4
-6826RX,Van Galenstraat,8,,4
-6826RX,Van Galenstraat,8,,2
-6826RZ,Van Galenstraat,26,,
-6826RZ,Van Galenstraat,26,,
-6826RZ,Van Galenstraat,56,,
-6826JM,Van Nesstraat,17,,
-6826JN,Van Nesstraat,51,,
-6826JN,Van Nesstraat,45,,
-6826JP,Van Nesstraat,2,F,
-6826JP,Van Nesstraat,2,N,
-6826JP,Van Nesstraat,28,,
-6826JP,Van Nesstraat,28,,
-6826JP,Van Nesstraat,30,,
-6826JP,Van Nesstraat,30,,
-6826JP,Van Nesstraat,32,,
-6826JP,Van Nesstraat,32,,
-6826JP,Van Nesstraat,8,,
-6826JP,Van Nesstraat,8,,
-6826JP,Van Nesstraat,4,,
-6826JP,Van Nesstraat,4,,
-6826JR,Van Nesstraat,52,,
-6826JR,Van Nesstraat,52,,
-6826JR,Van Nesstraat,40,,
-6826JR,Van Nesstraat,40,,
-6826JR,Van Nesstraat,54,,
-6826JR,Van Nesstraat,54,,
-6826JS,Van Nesstraat,82,,
-6826JS,Van Nesstraat,82,,
-6826JS,Van Nesstraat,92,,
-6826JS,Van Nesstraat,92,,
-6826JS,Van Nesstraat,66,,
-6826JS,Van Nesstraat,66,,
-6826JT,Van Nesstraat,114,,
-6826JT,Van Nesstraat,114,,
-6826TP,Ringoven,5,,
-6826TP,Ringoven,45,,
-6826TR,Ringoven,16,,
-6826TM,Vlamoven,29,,
-6826TN,Vlamoven,32,,
-6826TN,Vlamoven,22,,
-6826TN,Vlamoven,6,,
-6826PA,Van Ghentstraat,1,B,
-6826PA,Van Ghentstraat,23,,
-6826PB,Van Ghentstraat,2,A,
-6826PB,Van Ghentstraat,36,,
-6826PB,Van Ghentstraat,12,,
-6826PB,Van Ghentstraat,2,D,
-6826PB,Van Ghentstraat,2,F,
-6826PB,Van Ghentstraat,50,,
-6826KG,Van der Goesstraat,9,,
-6826KH,Van der Goesstraat,59,,
-6826KH,Van der Goesstraat,45,,
-6826KH,Van der Goesstraat,55,,
-6826KJ,Van der Goesstraat,2,E,
-6826KJ,Van der Goesstraat,14,,
-6826KJ,Van der Goesstraat,14,,
-6826KJ,Van der Goesstraat,2,K,
-6826KJ,Van der Goesstraat,8,,
-6826KJ,Van der Goesstraat,8,,
-6826KK,Van der Goesstraat,62,,
-6826KK,Van der Goesstraat,62,,
-6826KK,Van der Goesstraat,56,,
-6826KK,Van der Goesstraat,56,,
-6826KL,Van der Goesstraat,108,,
-6826KL,Van der Goesstraat,108,,
-6826KL,Van der Goesstraat,116,,
-6826KL,Van der Goesstraat,116,,
-6826KL,Van der Goesstraat,114,,
-6826KL,Van der Goesstraat,114,,
-6826KL,Van der Goesstraat,126,,
-6826KL,Van der Goesstraat,126,,
-6826TB,Bethaniënstraat,10,,
-6826TB,Bethaniënstraat,10,,
-6826TB,Bethaniënstraat,44,,
-6826TB,Bethaniënstraat,44,,
-6826TE,Bethaniënstraat,130,,
-6826TE,Bethaniënstraat,130,,
-6826TE,Bethaniënstraat,112,,
-6826TE,Bethaniënstraat,112,,
-6826TE,Bethaniënstraat,114,,
-6826TE,Bethaniënstraat,114,,
-6826TE,Bethaniënstraat,140,,
-6826TE,Bethaniënstraat,140,,
-6826TG,Bethaniënstraat,160,,
-6826TG,Bethaniënstraat,160,,
-6826TG,Bethaniënstraat,176,,
-6826TG,Bethaniënstraat,176,,
-6826PZ,De Bitterstraat,12,,
-6826PZ,De Bitterstraat,36,,
-6826PZ,De Bitterstraat,64,,
-6826RA,De Bitterstraat,19,,
-6826RA,De Bitterstraat,19,,
-6826RA,De Bitterstraat,21,,
-6826RA,De Bitterstraat,21,,
-6826RA,De Bitterstraat,1,,1
-6826SP,Bontekoestraat,1,F,
-6826SP,Bontekoestraat,1,A,
-6826SR,Bontekoestraat,9,,1
-6826SR,Bontekoestraat,9,,4
-6826SR,Bontekoestraat,11,,1
-6826SR,Bontekoestraat,15,,1
-6826SR,Bontekoestraat,9,,6
-6826SR,Bontekoestraat,13,,2
-6826ST,Bontekoestraat,17,,6
-6826ST,Bontekoestraat,17,,2
-6826ST,Bontekoestraat,17,,3
-6826ST,Bontekoestraat,19,,1
-6826ST,Bontekoestraat,23,,1
-6826SV,Bontekoestraat,25,,2
-6826SV,Bontekoestraat,25,,4
-6826SV,Bontekoestraat,27,,1
-6826SV,Bontekoestraat,31,,5
-6826SV,Bontekoestraat,29,,6
-6826SW,Bontekoestraat,36,,
-6826SW,Bontekoestraat,2,,
-6826SX,Bontekoestraat,50,,
-6826NH,Van Borselenstraat,27,,
-6826NH,Van Borselenstraat,45,,
-6826NH,Van Borselenstraat,1,E,
-6826NJ,Van Borselenstraat,2,B,
-6826NJ,Van Borselenstraat,4,,
-6826NJ,Van Borselenstraat,4,,
-6826NJ,Van Borselenstraat,10,,
-6826NJ,Van Borselenstraat,10,,
-6826NJ,Van Borselenstraat,14,,
-6826NJ,Van Borselenstraat,14,,
-6826NJ,Van Borselenstraat,2,L,
-6826NK,Van Borselenstraat,54,,
-6826NK,Van Borselenstraat,54,,
-6826NK,Van Borselenstraat,44,,
-6826NK,Van Borselenstraat,44,,
-6826NK,Van Borselenstraat,46,,
-6826NK,Van Borselenstraat,46,,
-6826NL,Van Borselenstraat,58,E,
-6826NL,Van Borselenstraat,82,,
-6826NL,Van Borselenstraat,82,,
-6826NL,Van Borselenstraat,64,,
-6826NL,Van Borselenstraat,64,,
-6826NL,Van Borselenstraat,72,,
-6826NL,Van Borselenstraat,72,,
-6826NL,Van Borselenstraat,58,G,
-6826NM,Van Borselenstraat,96,,
-6826NM,Van Borselenstraat,96,,
-6826NM,Van Borselenstraat,86,,
-6826NM,Van Borselenstraat,86,,
-6826NN,Van Borselenstraat,114,A,
-6826NN,Van Borselenstraat,114,D,
-6826NN,Van Borselenstraat,114,G,
-6826NN,Van Borselenstraat,128,,
-6826NN,Van Borselenstraat,128,,
-6826NP,Van Borselenstraat,162,,
-6826NP,Van Borselenstraat,142,,
-6826NP,Van Borselenstraat,142,,
-6826NR,Van Borselenstraat,186,,
-6826NR,Van Borselenstraat,186,,
-6826NR,Van Borselenstraat,178,,
-6826NR,Van Borselenstraat,178,,
-6826NR,Van Borselenstraat,170,,
-6826NR,Van Borselenstraat,170,,
-6826NR,Van Borselenstraat,170,A,
-6826NS,Van Borselenstraat,202,,
-6826NS,Van Borselenstraat,202,,
-6826NT,Van Borselenstraat,230,,
-6826NT,Van Borselenstraat,226,,
-6826NT,Van Borselenstraat,228,,
-6826PC,Swartenhondtstraat,1,,
-6826PC,Swartenhondtstraat,3,,
-6826SJ,Stellingwerfstraat,3,,
-6826SL,Stellingwerfstraat,55,,3
-6826SN,Stellingwerfstraat,20,,
-6826SN,Stellingwerfstraat,20,,
-6825LS,Schaapdijk,9,,
-6826KA,Van Kampenstraat,1,,
-6826KA,Van Kampenstraat,3,,
-6826KA,Van Kampenstraat,11,,
-6826KA,Van Kampenstraat,27,,
-6826KB,Van Kampenstraat,55,,
-6826KB,Van Kampenstraat,63,,
-6826KC,Van Kampenstraat,2,A,
-6826KC,Van Kampenstraat,2,F,
-6826KC,Van Kampenstraat,2,E,
-6826KD,Van Kampenstraat,50,,
-6826KD,Van Kampenstraat,50,,
-6826KE,Van Kampenstraat,114,,
-6826KE,Van Kampenstraat,114,,
-6826KE,Van Kampenstraat,118,,
-6826KE,Van Kampenstraat,118,,
-6826RB,Karel Doormanstraat,13,,
-6826RB,Karel Doormanstraat,13,,
-6826RB,Karel Doormanstraat,23,,
-6826RB,Karel Doormanstraat,23,,
-6826RC,Karel Doormanstraat,35,A,
-6826RC,Karel Doormanstraat,37,A,
-6826RD,Karel Doormanstraat,55,,
-6826RD,Karel Doormanstraat,95,,
-6826RG,Karel Doormanstraat,70,,
-6826RG,Karel Doormanstraat,70,,
-6826RH,Karel Doormanstraat,102,,
-6826RH,Karel Doormanstraat,102,,
-6826RH,Karel Doormanstraat,118,,
-6826RH,Karel Doormanstraat,118,,
-6826RJ,Karel Doormanstraat,130,A,
-6826RK,Karel Doormanstraat,138,,
-6826RK,Karel Doormanstraat,138,,
-6826RK,Karel Doormanstraat,162,,
-6826RK,Karel Doormanstraat,162,,
-6826PV,Keulse Slag,50,,
-6826PW,Keulse Slag,64,,
-6826PW,Keulse Slag,64,,
-6826PW,Keulse Slag,88,,
-6826PX,Keulse Slag,116,,
-6826PX,Keulse Slag,126,,
-6826PX,Keulse Slag,140,,
-6826JB,Van Kinsbergenstraat,43,,
-6826JB,Van Kinsbergenstraat,43,,
-6826JB,Van Kinsbergenstraat,45,,
-6826JB,Van Kinsbergenstraat,45,,
-6826JC,Van Kinsbergenstraat,18,,
-6826JC,Van Kinsbergenstraat,32,,
-6826JD,Van Kinsbergenstraat,64,,
-6826JE,Dedelstraat,9,,
-6826JE,Dedelstraat,9,,
-6826JH,Dedelstraat,8,,
-6826JH,Dedelstraat,24,,
-6826JJ,Dedelstraat,42,,
-6826JJ,Dedelstraat,40,,
-6826JJ,Dedelstraat,44,,
-6826HR,Doeffstraat,2,C,
-6826HS,Doeffstraat,80,,
-6826HS,Doeffstraat,80,,
-6826HT,Doeffstraat,124,,
-6826HT,Doeffstraat,124,,
-6826HT,Doeffstraat,140,,
-6826HT,Doeffstraat,140,,
-6826HV,Doeffstraat,150,,
-6826HV,Doeffstraat,150,,
-6826HV,Doeffstraat,162,,
-6826HV,Doeffstraat,162,,
-6826HW,Doeffstraat,206,,
-6826HW,Doeffstraat,206,,
-6826HW,Doeffstraat,210,,
-6826HW,Doeffstraat,210,,
-6826HW,Doeffstraat,170,,
-6826HW,Doeffstraat,170,,
-6826HW,Doeffstraat,208,,
-6826HW,Doeffstraat,208,,
-6826RL,Lacombléstraat,7,,
-6826RL,Lacombléstraat,7,,
-6826RM,Lacombléstraat,65,,
-6826RN,Lacombléstraat,6,,
-6826RN,Lacombléstraat,12,A,
-6826RN,Lacombléstraat,12,B,
-6826RN,Lacombléstraat,8,A,
-6826RP,Lacombléstraat,42,,
-6826RP,Lacombléstraat,42,,
-6826RP,Lacombléstraat,46,,
-6826RP,Lacombléstraat,46,,
-6826RP,Lacombléstraat,24,,
-6826RP,Lacombléstraat,32,,
-6826RP,Lacombléstraat,62,,
-6826RP,Lacombléstraat,62,,
-6826NB,Lange Wal,24,,4
-6826NB,Lange Wal,22,,1
-6826NB,Lange Wal,20,,4
-6826NC,Lange Wal,36,,1
-6826NC,Lange Wal,32,,1
-6826NC,Lange Wal,36,,3
-6826ND,Lange Wal,46,,1
-6826ND,Lange Wal,46,,3
-6826ND,Lange Wal,50,,3
-6826ND,Lange Wal,42,,1
-6826NE,Lange Wal,52,,
-6826NE,Lange Wal,78,,
-6826NG,Lange Wal,126,,
-6826NG,Lange Wal,116,,
-6826NG,Lange Wal,116,,
-6826NG,Lange Wal,118,,
-6826NG,Lange Wal,118,,
-6826NW,Sonoystraat,41,,
-6826NW,Sonoystraat,27,,
-6826NW,Sonoystraat,11,,
-6826NW,Sonoystraat,33,,
-6826NW,Sonoystraat,13,,
-6826NX,Sonoystraat,38,,
-6826NX,Sonoystraat,46,,
-6826HZ,Piet Heynpad,12,,
-6826HL,Van Speykstraat,7,,
-6826HM,Van Speykstraat,55,,
-6826HM,Van Speykstraat,55,,
-6826HN,Van Speykstraat,26,,
-6826HP,Van Speykstraat,42,,
-6826JK,Carstenszstraat,1,C,
-6826JK,Carstenszstraat,1,D,
-6826JK,Carstenszstraat,13,,
-6826JK,Carstenszstraat,13,,
-6826JL,Carstenszstraat,27,,
-6826JL,Carstenszstraat,27,,
-6826JL,Carstenszstraat,25,,
-6826JL,Carstenszstraat,25,,
-6826JL,Carstenszstraat,43,,
-6826JL,Carstenszstraat,43,,
-6826JL,Carstenszstraat,51,,
-6826JL,Carstenszstraat,51,,
-6826JL,Carstenszstraat,45,,
-6826JL,Carstenszstraat,45,,
-6826PR,Honigkamp,50,,
-6826PR,Honigkamp,82,,
-6826PT,Honigkamp,120,,
-6826PT,Honigkamp,134,,
-6826PE,De Houtmanstraat,15,,
-6826PE,De Houtmanstraat,7,,
-6826PE,De Houtmanstraat,11,,
-6826PG,De Houtmanstraat,85,,
-6826PG,De Houtmanstraat,85,,
-6826PG,De Houtmanstraat,93,,
-6826PG,De Houtmanstraat,93,,
-6826PG,De Houtmanstraat,103,,
-6826PG,De Houtmanstraat,103,,
-6826PJ,De Houtmanstraat,22,,
-6826PK,De Houtmanstraat,36,,
-6826PK,De Houtmanstraat,36,,
-6826PK,De Houtmanstraat,38,,
-6826PK,De Houtmanstraat,38,,
-6826PK,De Houtmanstraat,60,,
-6826PK,De Houtmanstraat,60,,
-6826PK,De Houtmanstraat,32,,
-6826PK,De Houtmanstraat,32,,
-6826PL,De Houtmanstraat,80,,
-6826RS,Hudsonstraat,40,,
-6826RS,Hudsonstraat,40,,
-6826RS,Hudsonstraat,22,,
-6826RS,Hudsonstraat,22,,
-6826SB,Floriszstraat,35,,
-6826SB,Floriszstraat,9,,
-6826SG,Floriszstraat,2,,4
-6826SG,Floriszstraat,4,,3
-6826SH,Floriszstraat,56,,
-6826SH,Floriszstraat,36,,
-6826SH,Floriszstraat,36,,
-6826SH,Floriszstraat,50,,
-6826SH,Floriszstraat,52,,
-6826RT,Van Galenstraat,29,,
-6826RT,Van Galenstraat,17,A,
-6826RW,Van Galenstraat,57,,3
-6826RW,Van Galenstraat,63,,3
-6826RW,Van Galenstraat,59,,1
-6826RW,Van Galenstraat,65,,1
-6826RX,Van Galenstraat,6,,3
-6826RX,Van Galenstraat,4,,2
-6826RX,Van Galenstraat,4,,3
-6826RZ,Van Galenstraat,22,,
-6826RZ,Van Galenstraat,22,,
-6826JM,Van Nesstraat,5,,
-6826JM,Van Nesstraat,1,,
-6826JM,Van Nesstraat,29,,
-6826JM,Van Nesstraat,3,,
-6826JN,Van Nesstraat,41,,
-6826JN,Van Nesstraat,43,,
-6826JN,Van Nesstraat,55,,
-6826JN,Van Nesstraat,65,,
-6826JN,Van Nesstraat,47,,
-6826JN,Van Nesstraat,37,,
-6826JP,Van Nesstraat,2,I,
-6826JP,Van Nesstraat,2,,
-6826JP,Van Nesstraat,2,,
-6826JP,Van Nesstraat,10,,
-6826JP,Van Nesstraat,10,,
-6826JR,Van Nesstraat,34,,
-6826JR,Van Nesstraat,34,,
-6826JR,Van Nesstraat,56,,
-6826JR,Van Nesstraat,56,,
-6826JR,Van Nesstraat,48,,
-6826JR,Van Nesstraat,48,,
-6826JS,Van Nesstraat,80,,
-6826JS,Van Nesstraat,80,,
-6826JS,Van Nesstraat,86,,
-6826JS,Van Nesstraat,86,,
-6826JT,Van Nesstraat,104,,
-6826JT,Van Nesstraat,104,,
-6826JT,Van Nesstraat,106,,
-6826JT,Van Nesstraat,106,,
-6826JT,Van Nesstraat,120,,
-6826JT,Van Nesstraat,120,,
-6826NV,De Moorstraat,2,,
-6826TP,Ringoven,19,,
-6826TM,Vlamoven,33,,
-6826TM,Vlamoven,47,,
-6826TM,Vlamoven,1,,
-6826TM,Vlamoven,11,,
-6826TN,Vlamoven,2,,
-6826TN,Vlamoven,36,,
-6826TN,Vlamoven,8,,
-6826PA,Van Ghentstraat,27,,
-6826PA,Van Ghentstraat,41,,
-6826PA,Van Ghentstraat,13,,
-6826KG,Van der Goesstraat,29,,
-6826KJ,Van der Goesstraat,2,I,
-6826KJ,Van der Goesstraat,4,,
-6826KJ,Van der Goesstraat,4,,
-6826KJ,Van der Goesstraat,18,,
-6826KJ,Van der Goesstraat,18,,
-6826KJ,Van der Goesstraat,30,,
-6826KJ,Van der Goesstraat,30,,
-6826KK,Van der Goesstraat,58,,
-6826KK,Van der Goesstraat,90,,
-6826KK,Van der Goesstraat,90,,
-6826KK,Van der Goesstraat,54,,
-6826KK,Van der Goesstraat,54,,
-6826TA,Bethaniënstraat,5,,
-6826TB,Bethaniënstraat,40,,
-6826TB,Bethaniënstraat,40,,
-6826TC,Bethaniënstraat,68,,
-6826TC,Bethaniënstraat,68,,
-6826TD,Bethaniënstraat,96,,
-6826TD,Bethaniënstraat,96,,
-6826TE,Bethaniënstraat,118,,
-6826TE,Bethaniënstraat,118,,
-6826TE,Bethaniënstraat,108,,
-6826TE,Bethaniënstraat,108,,
-6826TE,Bethaniënstraat,136,,
-6826TE,Bethaniënstraat,136,,
-6826TG,Bethaniënstraat,166,,
-6826TG,Bethaniënstraat,166,,
-6826TH,Bethaniënstraat,214,,
-6826TH,Bethaniënstraat,214,,
-6826TH,Bethaniënstraat,182,,
-6826TH,Bethaniënstraat,182,,
-6826TH,Bethaniënstraat,196,,
-6826TH,Bethaniënstraat,196,,
-6826PZ,De Bitterstraat,62,,
-6826PZ,De Bitterstraat,52,,
-6826RA,De Bitterstraat,13,,
-6826RA,De Bitterstraat,13,,
-6826RA,De Bitterstraat,7,,
-6826RA,De Bitterstraat,7,,
-6826SP,Bontekoestraat,1,,5
-6826SP,Bontekoestraat,5,,6
-6826SP,Bontekoestraat,7,,4
-6826SP,Bontekoestraat,1,,4
-6826SP,Bontekoestraat,3,,2
-6826SR,Bontekoestraat,11,,2
-6826SR,Bontekoestraat,11,,3
-6826SR,Bontekoestraat,11,,5
-6826SR,Bontekoestraat,13,,5
-6826SR,Bontekoestraat,9,B,
-6826SV,Bontekoestraat,25,E,
-6826SW,Bontekoestraat,34,,
-6826SW,Bontekoestraat,20,,
-6826SX,Bontekoestraat,44,,
-6826SX,Bontekoestraat,54,,
-6826NH,Van Borselenstraat,35,,
-6826NH,Van Borselenstraat,5,,
-6826NJ,Van Borselenstraat,18,,
-6826NJ,Van Borselenstraat,18,,
-6826NK,Van Borselenstraat,32,,
-6826NK,Van Borselenstraat,32,,
-6826NL,Van Borselenstraat,58,B,
-6826NL,Van Borselenstraat,58,L,
-6826NL,Van Borselenstraat,60,,
-6826NL,Van Borselenstraat,60,,
-6826NL,Van Borselenstraat,80,,
-6826NL,Van Borselenstraat,80,,
-6826NM,Van Borselenstraat,110,,
-6826NM,Van Borselenstraat,110,,
-6826NM,Van Borselenstraat,90,,
-6826NM,Van Borselenstraat,90,,
-6826NM,Van Borselenstraat,94,,
-6826NM,Van Borselenstraat,94,,
-6826NN,Van Borselenstraat,138,,
-6826NN,Van Borselenstraat,138,,
-6826NN,Van Borselenstraat,114,J,
-6826NN,Van Borselenstraat,140,,
-6826NN,Van Borselenstraat,140,,
-6826NP,Van Borselenstraat,166,,
-6826NP,Van Borselenstraat,166,,
-6826NP,Van Borselenstraat,146,,
-6826NP,Van Borselenstraat,146,,
-6826NR,Van Borselenstraat,184,,
-6826NR,Van Borselenstraat,184,,
-6826NS,Van Borselenstraat,198,,
-6826NS,Van Borselenstraat,198,,
-6826NS,Van Borselenstraat,210,,
-6826NS,Van Borselenstraat,210,,
-6826PC,Swartenhondtstraat,21,,
-6826SJ,Stellingwerfstraat,1,,
-6826SJ,Stellingwerfstraat,17,,
-6826SJ,Stellingwerfstraat,21,,
-6826SL,Stellingwerfstraat,55,,2
-6826SL,Stellingwerfstraat,57,,3
-6826SM,Stellingwerfstraat,6,,3
-6826SM,Stellingwerfstraat,6,,1
-6826SN,Stellingwerfstraat,28,,
-6826SN,Stellingwerfstraat,28,,
-6826SN,Stellingwerfstraat,32,,
-6826SN,Stellingwerfstraat,32,,
-6826SN,Stellingwerfstraat,38,,
-6826SN,Stellingwerfstraat,38,,
-6826SN,Stellingwerfstraat,30,,
-6826SN,Stellingwerfstraat,30,,
-6826SN,Stellingwerfstraat,44,,
-6826SN,Stellingwerfstraat,44,,
-6825LS,Schaapdijk,6,,
-6825LS,Schaapdijk,11,,
-6826KA,Van Kampenstraat,19,,
-6826KB,Van Kampenstraat,57,,
-6826KB,Van Kampenstraat,37,,
-6826KB,Van Kampenstraat,43,,
-6826KB,Van Kampenstraat,61,,
-6826KC,Van Kampenstraat,6,,
-6826KC,Van Kampenstraat,6,,
-6826KC,Van Kampenstraat,14,,
-6826KC,Van Kampenstraat,14,,
-6826KC,Van Kampenstraat,44,,
-6826KC,Van Kampenstraat,44,,
-6826KC,Van Kampenstraat,2,M,
-6826KC,Van Kampenstraat,2,,
-6826KC,Van Kampenstraat,2,,
-6826KC,Van Kampenstraat,2,H,
-6826KD,Van Kampenstraat,94,,
-6826KD,Van Kampenstraat,94,,
-6826KD,Van Kampenstraat,70,,
-6826KD,Van Kampenstraat,70,,
-6826KD,Van Kampenstraat,98,,
-6826KD,Van Kampenstraat,98,,
-6826KE,Van Kampenstraat,100,,
-6826KE,Van Kampenstraat,100,,
-6826RB,Karel Doormanstraat,1,E,
-6826RB,Karel Doormanstraat,1,B,
-6826RC,Karel Doormanstraat,33,,
-6826RC,Karel Doormanstraat,33,A,
-6826RC,Karel Doormanstraat,39,B,
-6826RC,Karel Doormanstraat,43,,
-6826RC,Karel Doormanstraat,37,,
-6826RC,Karel Doormanstraat,41,,
-6826RD,Karel Doormanstraat,81,,
-6826RD,Karel Doormanstraat,77,,
-6826RD,Karel Doormanstraat,83,,
-6826RD,Karel Doormanstraat,69,,
-6826RD,Karel Doormanstraat,79,,
-6826RE,Karel Doormanstraat,14,,
-6826RE,Karel Doormanstraat,42,,
-6826RE,Karel Doormanstraat,10,,
-6826RE,Karel Doormanstraat,34,,
-6826RE,Karel Doormanstraat,18,,
-6826RG,Karel Doormanstraat,86,,
-6826RG,Karel Doormanstraat,86,,
-6826RH,Karel Doormanstraat,122,,
-6826RH,Karel Doormanstraat,122,,
-6826RH,Karel Doormanstraat,90,,
-6826RH,Karel Doormanstraat,90,,
-6826RH,Karel Doormanstraat,106,,
-6826RH,Karel Doormanstraat,106,,
-6826RJ,Karel Doormanstraat,136,A,
-6826RK,Karel Doormanstraat,156,,
-6826RK,Karel Doormanstraat,156,,
-6826RK,Karel Doormanstraat,160,,
-6826RK,Karel Doormanstraat,160,,
-6826RK,Karel Doormanstraat,138,D,
-6826PV,Keulse Slag,2,D,
-6826PV,Keulse Slag,24,,
-6826PV,Keulse Slag,46,,
-6826PV,Keulse Slag,48,,
-6826PW,Keulse Slag,68,,
-6826PW,Keulse Slag,68,,
-6826PX,Keulse Slag,106,,
-6826PX,Keulse Slag,112,,
-6826PX,Keulse Slag,122,,
-6826PX,Keulse Slag,114,,
-6826PX,Keulse Slag,128,,
-6826PX,Keulse Slag,138,,
-6826PX,Keulse Slag,146,,
-6826JA,Van Kinsbergenstraat,1,D,
-6826JA,Van Kinsbergenstraat,1,C,
-6826JB,Van Kinsbergenstraat,15,,
-6826JB,Van Kinsbergenstraat,15,,
-6826JB,Van Kinsbergenstraat,21,,
-6826JB,Van Kinsbergenstraat,21,,
-6826JB,Van Kinsbergenstraat,59,,
-6826JB,Van Kinsbergenstraat,29,,
-6826JB,Van Kinsbergenstraat,29,,
-6826JB,Van Kinsbergenstraat,19,,
-6826JB,Van Kinsbergenstraat,19,,
-6826JC,Van Kinsbergenstraat,16,,
-6826JC,Van Kinsbergenstraat,24,,
-6826JC,Van Kinsbergenstraat,22,,
-6826JC,Van Kinsbergenstraat,44,,
-6826JC,Van Kinsbergenstraat,8,,
-6826JC,Van Kinsbergenstraat,28,,
-6826JD,Van Kinsbergenstraat,62,,
-6826JD,Van Kinsbergenstraat,50,,
-6826JD,Van Kinsbergenstraat,58,,
-6826JG,Dedelstraat,49,,
-6826JG,Dedelstraat,49,,
-6826JG,Dedelstraat,57,,
-6826JG,Dedelstraat,57,,
-6826JG,Dedelstraat,17,,
-6826JG,Dedelstraat,17,,
-6826JG,Dedelstraat,21,,
-6826JG,Dedelstraat,21,,
-6826JG,Dedelstraat,47,,
-6826JG,Dedelstraat,47,,
-6826JG,Dedelstraat,55,,
-6826JG,Dedelstraat,55,,
-6826JG,Dedelstraat,39,,
-6826JG,Dedelstraat,39,,
-6826JH,Dedelstraat,30,,
-6826JH,Dedelstraat,16,,
-6826JJ,Dedelstraat,46,,
-6826JJ,Dedelstraat,64,,
-6826HR,Doeffstraat,4,,
-6826HR,Doeffstraat,4,,
-6826HR,Doeffstraat,34,,
-6826HR,Doeffstraat,34,,
-6826HR,Doeffstraat,38,,
-6826HR,Doeffstraat,38,,
-6826HR,Doeffstraat,8,,
-6826HR,Doeffstraat,8,,
-6826HR,Doeffstraat,12,,
-6826HR,Doeffstraat,12,,
-6826HR,Doeffstraat,44,,
-6826HR,Doeffstraat,44,,
-6826HS,Doeffstraat,94,,
-6826HS,Doeffstraat,94,,
-6826HS,Doeffstraat,88,,
-6826HS,Doeffstraat,88,,
-6826HS,Doeffstraat,96,,
-6826HS,Doeffstraat,96,,
-6826HS,Doeffstraat,50,E,
-6826HS,Doeffstraat,50,J,
-6826HS,Doeffstraat,50,D,
-6826HS,Doeffstraat,56,,
-6826HS,Doeffstraat,56,,
-6826HS,Doeffstraat,60,,
-6826HS,Doeffstraat,60,,
-6826HT,Doeffstraat,108,,
-6826HT,Doeffstraat,108,,
-6826HT,Doeffstraat,128,,
-6826HT,Doeffstraat,128,,
-6826HT,Doeffstraat,120,,
-6826HT,Doeffstraat,120,,
-6826HT,Doeffstraat,98,B,
-6826HV,Doeffstraat,152,,
-6826HV,Doeffstraat,152,,
-6826HV,Doeffstraat,164,,
-6826HV,Doeffstraat,164,,
-6826HW,Doeffstraat,196,,
-6826HW,Doeffstraat,196,,
-6826HW,Doeffstraat,178,,
-6826HW,Doeffstraat,178,,
-6826HW,Doeffstraat,194,,
-6826HW,Doeffstraat,194,,
-6826RL,Lacombléstraat,35,,
-6826RL,Lacombléstraat,35,,
-6826RL,Lacombléstraat,9,,
-6826RL,Lacombléstraat,9,,
-6826RL,Lacombléstraat,25,,
-6826RL,Lacombléstraat,25,,
-6826RM,Lacombléstraat,57,,
-6826RM,Lacombléstraat,41,,
-6826RM,Lacombléstraat,55,,
-6826RM,Lacombléstraat,67,,
-6826RN,Lacombléstraat,8,,
-6826RN,Lacombléstraat,10,A,
-6826RN,Lacombléstraat,14,B,
-6826RP,Lacombléstraat,36,B,
-6826RP,Lacombléstraat,36,A,
-6826RP,Lacombléstraat,26,,
-6826RP,Lacombléstraat,44,,
-6826RP,Lacombléstraat,44,,
-6826RP,Lacombléstraat,28,,
-6826RP,Lacombléstraat,34,,
-6826NB,Lange Wal,16,,2
-6826NB,Lange Wal,16,,1
-6826NB,Lange Wal,24,,3
-6826NB,Lange Wal,26,,3
-6826NC,Lange Wal,32,,3
-6826NC,Lange Wal,34,,3
-6826NC,Lange Wal,30,,4
-6826NC,Lange Wal,36,,2
-6826ND,Lange Wal,48,,3
-6826NE,Lange Wal,80,,
-6826NG,Lange Wal,110,,
-6826NG,Lange Wal,110,,
-6826NG,Lange Wal,120,,
-6826NG,Lange Wal,120,,
-6826NW,Sonoystraat,5,,
-6826NW,Sonoystraat,19,,
-6826NW,Sonoystraat,37,,
-6826NX,Sonoystraat,2,D,
-6826NX,Sonoystraat,4,,
-6826NX,Sonoystraat,40,,
-6826HL,Van Speykstraat,1,A,
-6826HM,Van Speykstraat,35,,
-6826HM,Van Speykstraat,35,,
-6826HN,Van Speykstraat,16,,
-6826HN,Van Speykstraat,28,,
-6826HN,Van Speykstraat,10,,
-6826HN,Van Speykstraat,30,,
-6826HP,Van Speykstraat,50,,
-6826HP,Van Speykstraat,62,,
-6826JK,Carstenszstraat,7,,
-6826JL,Carstenszstraat,35,,
-6826JL,Carstenszstraat,35,,
-6826JL,Carstenszstraat,19,,
-6826JL,Carstenszstraat,19,,
-6826JL,Carstenszstraat,21,,
-6826JL,Carstenszstraat,21,,
-6826JL,Carstenszstraat,55,,
-6826JL,Carstenszstraat,55,,
-6826PP,Honigkamp,18,,
-6826PP,Honigkamp,18,,
-6826PP,Honigkamp,8,,
-6826PP,Honigkamp,8,,
-6826PR,Honigkamp,72,,
-6826PS,Honigkamp,102,,
-6826PT,Honigkamp,114,,
-6826PT,Honigkamp,130,,
-6826PE,De Houtmanstraat,1,,
-6826PK,De Houtmanstraat,48,,
-6826PK,De Houtmanstraat,48,,
-6826PK,De Houtmanstraat,56,,
-6826PK,De Houtmanstraat,56,,
-6826PK,De Houtmanstraat,70,,
-6826PK,De Houtmanstraat,70,,
-6826PK,De Houtmanstraat,72,,
-6826PK,De Houtmanstraat,72,,
-6826PL,De Houtmanstraat,76,,
-6826PL,De Houtmanstraat,90,,
-6826RR,Hudsonstraat,15,,
-6826RS,Hudsonstraat,28,,
-6826RS,Hudsonstraat,28,,
-6826RS,Hudsonstraat,32,,
-6826RS,Hudsonstraat,32,,
-6826RS,Hudsonstraat,52,,
-6826RS,Hudsonstraat,54,,
-6826SB,Floriszstraat,33,,
-6826SB,Floriszstraat,11,,
-6826SC,Floriszstraat,37,,
-6826SC,Floriszstraat,39,,
-6826SG,Floriszstraat,2,,3
-6826SG,Floriszstraat,6,,2
-6826SH,Floriszstraat,58,,
-6826SH,Floriszstraat,38,,
-6826SH,Floriszstraat,38,,
-6826RT,Van Galenstraat,35,,
-6826RV,Van Galenstraat,45,,
-6826RW,Van Galenstraat,55,,2
-6826RW,Van Galenstraat,63,,1
-6826RW,Van Galenstraat,55,,3
-6826RW,Van Galenstraat,59,,3
-6826RZ,Van Galenstraat,18,,
-6826RZ,Van Galenstraat,18,,
-6826RZ,Van Galenstraat,12,,
-6826RZ,Van Galenstraat,12,,
-6826RZ,Van Galenstraat,52,,
-6826JM,Van Nesstraat,19,,
-6826JM,Van Nesstraat,13,,
-6826JN,Van Nesstraat,67,,
-6826JP,Van Nesstraat,2,J,
-6826JP,Van Nesstraat,14,,
-6826JP,Van Nesstraat,14,,
-6826JP,Van Nesstraat,2,C,
-6826JP,Van Nesstraat,2,D,
-6826JP,Van Nesstraat,2,H,
-6826JP,Van Nesstraat,6,,
-6826JP,Van Nesstraat,6,,
-6826JR,Van Nesstraat,46,,
-6826JR,Van Nesstraat,46,,
-6826JR,Van Nesstraat,38,,
-6826JR,Van Nesstraat,38,,
-6826JS,Van Nesstraat,90,,
-6826JS,Van Nesstraat,90,,
-6826JS,Van Nesstraat,64,,
-6826JS,Van Nesstraat,64,,
-6826JT,Van Nesstraat,108,,
-6826JT,Van Nesstraat,108,,
-6826NV,De Moorstraat,8,,
-6826NV,De Moorstraat,20,,
-6826TR,Ringoven,2,,
-6826TR,Ringoven,32,,
-6826TT,Veldoven,4,,
-6826TN,Vlamoven,2,B,
-6826TN,Vlamoven,34,,
-6826TN,Vlamoven,24,,
-6826PA,Van Ghentstraat,1,A,
-6826PA,Van Ghentstraat,19,,
-6826PA,Van Ghentstraat,25,,
-6826PB,Van Ghentstraat,26,,
-6826PB,Van Ghentstraat,38,,
-6826PB,Van Ghentstraat,42,,
-6826PB,Van Ghentstraat,22,,
-6826PB,Van Ghentstraat,30,,
-6826PB,Van Ghentstraat,2,B,
-6826KG,Van der Goesstraat,33,,
-6826KG,Van der Goesstraat,7,,
-6826KG,Van der Goesstraat,21,,
-6826KH,Van der Goesstraat,37,,
-6826KH,Van der Goesstraat,53,,
-6826KH,Van der Goesstraat,57,,
-6826KJ,Van der Goesstraat,22,,
-6826KJ,Van der Goesstraat,22,,
-6826KJ,Van der Goesstraat,2,D,
-6826KJ,Van der Goesstraat,20,,
-6826KJ,Van der Goesstraat,20,,
-6826KJ,Van der Goesstraat,32,,
-6826KJ,Van der Goesstraat,32,,
-6826KJ,Van der Goesstraat,16,,
-6826KJ,Van der Goesstraat,16,,
-6826KJ,Van der Goesstraat,2,M,
-6826KL,Van der Goesstraat,102,,
-6826KL,Van der Goesstraat,102,,
-6826KL,Van der Goesstraat,110,,
-6826KL,Van der Goesstraat,110,,
-6826KL,Van der Goesstraat,122,,
-6826KL,Van der Goesstraat,122,,
-6826PD,Juinbolstraat,13,,
-6826PD,Juinbolstraat,9,,
-6826TB,Bethaniënstraat,2,,
-6826TB,Bethaniënstraat,2,,
-6826TB,Bethaniënstraat,16,,
-6826TB,Bethaniënstraat,16,,
-6826TB,Bethaniënstraat,32,,
-6826TB,Bethaniënstraat,32,,
-6826TB,Bethaniënstraat,34,,
-6826TB,Bethaniënstraat,34,,
-6826TB,Bethaniënstraat,46,,
-6826TB,Bethaniënstraat,46,,
-6826TC,Bethaniënstraat,58,,
-6826TC,Bethaniënstraat,58,,
-6826TC,Bethaniënstraat,62,,
-6826TC,Bethaniënstraat,62,,
-6826TE,Bethaniënstraat,128,,
-6826TE,Bethaniënstraat,128,,
-6826TG,Bethaniënstraat,168,,
-6826TG,Bethaniënstraat,168,,
-6826TG,Bethaniënstraat,152,,
-6826TG,Bethaniënstraat,152,,
-6826TG,Bethaniënstraat,154,,
-6826TG,Bethaniënstraat,154,,
-6826TH,Bethaniënstraat,190,,
-6826TH,Bethaniënstraat,190,,
-6826TH,Bethaniënstraat,194,,
-6826TH,Bethaniënstraat,194,,
-6826TH,Bethaniënstraat,206,,
-6826TH,Bethaniënstraat,206,,
-6826TJ,Bethaniënstraat,250,,
-6826TJ,Bethaniënstraat,220,,
-6826PZ,De Bitterstraat,38,,
-6826PZ,De Bitterstraat,60,,
-6826PZ,De Bitterstraat,42,,
-6826PZ,De Bitterstraat,58,,
-6826PZ,De Bitterstraat,14,,
-6826PZ,De Bitterstraat,26,,
-6826RA,De Bitterstraat,1,,5
-6826SP,Bontekoestraat,1,B,
-6826SP,Bontekoestraat,1,C,
-6826SP,Bontekoestraat,5,,5
-6826SP,Bontekoestraat,7,,6
-6826SP,Bontekoestraat,1,,2
-6826SP,Bontekoestraat,1,,1
-6826SP,Bontekoestraat,5,,4
-6826SR,Bontekoestraat,13,,6
-6826SR,Bontekoestraat,13,,1
-6826ST,Bontekoestraat,21,,1
-6826ST,Bontekoestraat,19,,6
-6826ST,Bontekoestraat,19,,5
-6826ST,Bontekoestraat,17,,4
-6826ST,Bontekoestraat,17,C,
-6826SV,Bontekoestraat,25,B,
-6826SV,Bontekoestraat,31,,2
-6826SV,Bontekoestraat,27,,6
-6826SV,Bontekoestraat,27,,2
-6826SW,Bontekoestraat,4,,
-6826SW,Bontekoestraat,26,,
-6826SW,Bontekoestraat,16,,
-6826SW,Bontekoestraat,30,,
-6826NH,Van Borselenstraat,3,,
-6826NH,Van Borselenstraat,15,,
-6826NH,Van Borselenstraat,33,,
-6826NH,Van Borselenstraat,11,,
-6826NH,Van Borselenstraat,1,D,
-6826NJ,Van Borselenstraat,8,,
-6826NJ,Van Borselenstraat,8,,
-6826NJ,Van Borselenstraat,2,A,
-6826NJ,Van Borselenstraat,2,H,
-6826NK,Van Borselenstraat,52,,
-6826NK,Van Borselenstraat,52,,
-6826NL,Van Borselenstraat,74,,
-6826NL,Van Borselenstraat,74,,
-6826NL,Van Borselenstraat,76,,
-6826NL,Van Borselenstraat,76,,
-6826NL,Van Borselenstraat,66,,
-6826NL,Van Borselenstraat,66,,
-6826NM,Van Borselenstraat,100,,
-6826NM,Van Borselenstraat,100,,
-6826NM,Van Borselenstraat,98,,
-6826NM,Van Borselenstraat,98,,
-6826NM,Van Borselenstraat,112,,
-6826NM,Van Borselenstraat,112,,
-6826NN,Van Borselenstraat,130,,
-6826NN,Van Borselenstraat,130,,
-6826NN,Van Borselenstraat,122,,
-6826NN,Van Borselenstraat,122,,
-6826NN,Van Borselenstraat,114,C,
-6826NN,Van Borselenstraat,114,L,
-6826NP,Van Borselenstraat,144,,
-6826NP,Van Borselenstraat,144,,
-6826NR,Van Borselenstraat,180,,
-6826NR,Van Borselenstraat,180,,
-6826NR,Van Borselenstraat,170,F,
-6826NR,Van Borselenstraat,170,H,
-6826NR,Van Borselenstraat,170,L,
-6826NS,Van Borselenstraat,216,,
-6826NS,Van Borselenstraat,216,,
-6826SJ,Stellingwerfstraat,15,,
-6826SJ,Stellingwerfstraat,29,,
-6826SJ,Stellingwerfstraat,13,,
-6826SK,Stellingwerfstraat,43,,
-6826SL,Stellingwerfstraat,63,,1
-6826SN,Stellingwerfstraat,42,,
-6826SN,Stellingwerfstraat,42,,
-6826KA,Van Kampenstraat,21,,
-6826KA,Van Kampenstraat,33,,
-6826KB,Van Kampenstraat,39,,
-6826KB,Van Kampenstraat,53,,
-6826KC,Van Kampenstraat,2,J,
-6826KE,Van Kampenstraat,110,,
-6826KE,Van Kampenstraat,110,,
-6826KE,Van Kampenstraat,124,,
-6826KE,Van Kampenstraat,124,,
-6826RD,Karel Doormanstraat,87,,
-6826RD,Karel Doormanstraat,89,,
-6826RE,Karel Doormanstraat,20,,
-6826RE,Karel Doormanstraat,32,,
-6826RE,Karel Doormanstraat,38,,
-6826RE,Karel Doormanstraat,4,,
-6826RE,Karel Doormanstraat,16,,
-6826RE,Karel Doormanstraat,48,,
-6826RE,Karel Doormanstraat,22,,
-6826RE,Karel Doormanstraat,30,,
-6826RE,Karel Doormanstraat,30,,
-6826RE,Karel Doormanstraat,22,,
-6826RE,Karel Doormanstraat,50,,
-6826RG,Karel Doormanstraat,52,A,
-6826RG,Karel Doormanstraat,52,G,
-6826RG,Karel Doormanstraat,64,,
-6826RG,Karel Doormanstraat,64,,
-6826RG,Karel Doormanstraat,68,,
-6826RG,Karel Doormanstraat,68,,
-6826RH,Karel Doormanstraat,112,,
-6826RH,Karel Doormanstraat,112,,
-6826RH,Karel Doormanstraat,88,B,
-6826RH,Karel Doormanstraat,108,,
-6826RH,Karel Doormanstraat,108,,
-6826RH,Karel Doormanstraat,92,,
-6826RH,Karel Doormanstraat,92,,
-6826RH,Karel Doormanstraat,120,,
-6826RH,Karel Doormanstraat,120,,
-6826RK,Karel Doormanstraat,138,F,
-6826RK,Karel Doormanstraat,168,,
-6826RK,Karel Doormanstraat,168,,
-6826RK,Karel Doormanstraat,140,,
-6826RK,Karel Doormanstraat,142,,
-6826RK,Karel Doormanstraat,142,,
-6826RK,Karel Doormanstraat,158,,
-6826RK,Karel Doormanstraat,158,,
-6826RK,Karel Doormanstraat,138,B,
-6826PV,Keulse Slag,6,,
-6826PV,Keulse Slag,52,,
-6826PV,Keulse Slag,2,B,
-6826PW,Keulse Slag,86,,
-6826PW,Keulse Slag,90,,
-6826PX,Keulse Slag,100,,
-6826PX,Keulse Slag,102,,
-6826JA,Van Kinsbergenstraat,11,,
-6826JA,Van Kinsbergenstraat,11,,
-6826JB,Van Kinsbergenstraat,51,,
-6826JB,Van Kinsbergenstraat,51,,
-6826JB,Van Kinsbergenstraat,35,,
-6826JB,Van Kinsbergenstraat,35,,
-6826JB,Van Kinsbergenstraat,53,,
-6826JB,Van Kinsbergenstraat,53,,
-6826JB,Van Kinsbergenstraat,33,,
-6826JB,Van Kinsbergenstraat,33,,
-6826JC,Van Kinsbergenstraat,2,,
-6826JC,Van Kinsbergenstraat,36,,
-6826JD,Van Kinsbergenstraat,54,,
-6826JD,Van Kinsbergenstraat,52,,
-6826JD,Van Kinsbergenstraat,56,,
-6826JH,Dedelstraat,32,,
-6826JJ,Dedelstraat,56,,
-6826JJ,Dedelstraat,60,,
-6826HR,Doeffstraat,36,,
-6826HR,Doeffstraat,36,,
-6826HR,Doeffstraat,22,,
-6826HR,Doeffstraat,22,,
-6826HS,Doeffstraat,66,,
-6826HS,Doeffstraat,66,,
-6826HS,Doeffstraat,70,,
-6826HS,Doeffstraat,70,,
-6826HS,Doeffstraat,64,,
-6826HS,Doeffstraat,64,,
-6826HS,Doeffstraat,74,,
-6826HS,Doeffstraat,74,,
-6826HT,Doeffstraat,110,,
-6826HT,Doeffstraat,110,,
-6826HT,Doeffstraat,144,,
-6826HT,Doeffstraat,144,,
-6826HT,Doeffstraat,132,,
-6826HT,Doeffstraat,132,,
-6826HT,Doeffstraat,126,,
-6826HT,Doeffstraat,126,,
-6826RL,Lacombléstraat,33,,
-6826RL,Lacombléstraat,33,,
-6826RM,Lacombléstraat,47,,
-6826RM,Lacombléstraat,81,,
-6826RN,Lacombléstraat,8,B,
-6826RN,Lacombléstraat,10,B,
-6826NB,Lange Wal,26,,4
-6826NC,Lange Wal,28,,2
-6826NC,Lange Wal,32,,2
-6826NC,Lange Wal,34,,2
-6826ND,Lange Wal,40,,1
-6826NE,Lange Wal,66,,
-6826NE,Lange Wal,70,,
-6826NG,Lange Wal,124,,
-6826NG,Lange Wal,124,,
-6826NW,Sonoystraat,1,A,
-6826NW,Sonoystraat,1,E,
-6826NW,Sonoystraat,39,,
-6826NW,Sonoystraat,9,,
-6826NW,Sonoystraat,35,,
-6826NW,Sonoystraat,3,,
-6826NX,Sonoystraat,36,,
-6826NX,Sonoystraat,2,,
-6826NX,Sonoystraat,8,,
-6826NX,Sonoystraat,12,,
-6826NX,Sonoystraat,44,,
-6826NX,Sonoystraat,2,B,
-6826NX,Sonoystraat,16,,
-6826NX,Sonoystraat,48,,
-6826NX,Sonoystraat,52,,
-6826HZ,Piet Heynpad,4,,
-6826HM,Van Speykstraat,29,,
-6826HM,Van Speykstraat,29,,
-6826HM,Van Speykstraat,33,,
-6826HM,Van Speykstraat,33,,
-6826HM,Van Speykstraat,51,,
-6826HM,Van Speykstraat,51,,
-6826HM,Van Speykstraat,59,,
-6826HM,Van Speykstraat,27,,
-6826HM,Van Speykstraat,27,,
-6826HN,Van Speykstraat,22,,
-6826HN,Van Speykstraat,6,,
-6826HP,Van Speykstraat,56,,
-6826JL,Carstenszstraat,17,,
-6826JL,Carstenszstraat,17,,
-6826JL,Carstenszstraat,49,,
-6826JL,Carstenszstraat,49,,
-6826JL,Carstenszstraat,37,,
-6826JL,Carstenszstraat,37,,
-6826PT,Honigkamp,150,,
-6826PG,De Houtmanstraat,81,,
-6826PG,De Houtmanstraat,81,,
-6826PG,De Houtmanstraat,95,,
-6826PG,De Houtmanstraat,95,,
-6826PG,De Houtmanstraat,69,,
-6826PG,De Houtmanstraat,69,,
-6826PG,De Houtmanstraat,107,,
-6826PG,De Houtmanstraat,107,,
-6826PG,De Houtmanstraat,97,,
-6826PG,De Houtmanstraat,97,,
-6826PH,De Houtmanstraat,133,,
-6826PH,De Houtmanstraat,141,,
-6826PJ,De Houtmanstraat,16,,
-6826PJ,De Houtmanstraat,8,,
-6826PK,De Houtmanstraat,74,,
-6826PK,De Houtmanstraat,74,,
-6826RR,Hudsonstraat,13,,
-6826RS,Hudsonstraat,58,,
-6826RS,Hudsonstraat,36,,
-6826RS,Hudsonstraat,36,,
-6826SB,Floriszstraat,3,,
-6826SB,Floriszstraat,5,,
-6826SB,Floriszstraat,15,,
-6826SC,Floriszstraat,53,,
-6826SC,Floriszstraat,43,,
-6826SG,Floriszstraat,8,,2
-6826SG,Floriszstraat,4,,2
-6826SH,Floriszstraat,20,,
-6826SH,Floriszstraat,20,,
-6826SH,Floriszstraat,42,,
-6826SH,Floriszstraat,26,,
-6826SH,Floriszstraat,26,,
-6826RT,Van Galenstraat,33,,
-6826RV,Van Galenstraat,43,,
-6826RV,Van Galenstraat,41,,
-6826RW,Van Galenstraat,57,,1
-6826RW,Van Galenstraat,61,,2
-6826RX,Van Galenstraat,8,,3
-6826RZ,Van Galenstraat,20,,
-6826RZ,Van Galenstraat,20,,
-6826RZ,Van Galenstraat,30,,
-6826RZ,Van Galenstraat,30,,
-6826RZ,Van Galenstraat,46,,
-6826RZ,Van Galenstraat,58,,
-6826JM,Van Nesstraat,15,,
-6826JN,Van Nesstraat,35,,
-6826JP,Van Nesstraat,2,M,
-6826JP,Van Nesstraat,22,,
-6826JP,Van Nesstraat,22,,
-6826JR,Van Nesstraat,44,,
-6826JR,Van Nesstraat,44,,
-6826JR,Van Nesstraat,36,,
-6826JR,Van Nesstraat,36,,
-6826JT,Van Nesstraat,128,,
-6826JT,Van Nesstraat,128,,
-6826JT,Van Nesstraat,102,,
-6826JT,Van Nesstraat,102,,
-6826NV,De Moorstraat,12,,
-6826TP,Ringoven,41,,
-6826TR,Ringoven,8,,
-6826TR,Ringoven,4,,
-6826TR,Ringoven,10,,
-6826TR,Ringoven,6,,
-6826TS,Veldoven,3,,
-6826TS,Veldoven,15,,
-6826TN,Vlamoven,10,,
-6826PA,Van Ghentstraat,11,,
-6826PA,Van Ghentstraat,5,,
-6826PA,Van Ghentstraat,33,,
-6826PA,Van Ghentstraat,37,,
-6826PB,Van Ghentstraat,4,,
-6826PB,Van Ghentstraat,14,,
-6826PB,Van Ghentstraat,18,,
-6826KG,Van der Goesstraat,25,,
-6826KG,Van der Goesstraat,11,,
-6826KG,Van der Goesstraat,31,,
-6826KH,Van der Goesstraat,41,,
-6826KH,Van der Goesstraat,43,,
-6826KJ,Van der Goesstraat,10,,
-6826KJ,Van der Goesstraat,10,,
-6826KJ,Van der Goesstraat,2,J,
-6826KJ,Van der Goesstraat,2,N,
-6826KK,Van der Goesstraat,70,,
-6826KK,Van der Goesstraat,70,,
-6826KK,Van der Goesstraat,64,,
-6826KK,Van der Goesstraat,64,,
-6826KK,Van der Goesstraat,78,,
-6826KK,Van der Goesstraat,78,,
-6826KK,Van der Goesstraat,86,,
-6826KK,Van der Goesstraat,86,,
-6826KK,Van der Goesstraat,94,,
-6826KK,Van der Goesstraat,94,,
-6826KL,Van der Goesstraat,104,,
-6826KL,Van der Goesstraat,104,,
-6826PD,Juinbolstraat,1,,
-6826TB,Bethaniënstraat,38,,
-6826TB,Bethaniënstraat,38,,
-6826TB,Bethaniënstraat,48,,
-6826TB,Bethaniënstraat,48,,
-6826TB,Bethaniënstraat,22,,
-6826TB,Bethaniënstraat,22,,
-6826TC,Bethaniënstraat,52,,
-6826TC,Bethaniënstraat,52,,
-6826TC,Bethaniënstraat,70,,
-6826TC,Bethaniënstraat,70,,
-6826TD,Bethaniënstraat,74,,
-6826TD,Bethaniënstraat,74,,
-6826TD,Bethaniënstraat,82,,
-6826TD,Bethaniënstraat,82,,
-6826TD,Bethaniënstraat,86,,
-6826TD,Bethaniënstraat,86,,
-6826TE,Bethaniënstraat,126,,
-6826TE,Bethaniënstraat,126,,
-6826TE,Bethaniënstraat,144,A,
-6826TE,Bethaniënstraat,138,,
-6826TE,Bethaniënstraat,138,,
-6826TE,Bethaniënstraat,134,,
-6826TE,Bethaniënstraat,134,,
-6826TE,Bethaniënstraat,106,,
-6826TE,Bethaniënstraat,106,,
-6826TG,Bethaniënstraat,156,,
-6826TG,Bethaniënstraat,156,,
-6826TG,Bethaniënstraat,164,,
-6826TG,Bethaniënstraat,164,,
-6826TH,Bethaniënstraat,184,,
-6826TH,Bethaniënstraat,184,,
-6826TH,Bethaniënstraat,212,,
-6826TH,Bethaniënstraat,212,,
-6826TH,Bethaniënstraat,200,,
-6826TH,Bethaniënstraat,200,,
-6826TH,Bethaniënstraat,204,,
-6826TH,Bethaniënstraat,204,,
-6826TH,Bethaniënstraat,180,,
-6826TH,Bethaniënstraat,180,,
-6826TH,Bethaniënstraat,186,,
-6826TH,Bethaniënstraat,186,,
-6826PZ,De Bitterstraat,48,,
-6826PZ,De Bitterstraat,44,,
-6826RA,De Bitterstraat,1,,4
-6826RA,De Bitterstraat,17,,
-6826RA,De Bitterstraat,17,,
-6826RA,De Bitterstraat,1,,2
-6826SP,Bontekoestraat,1,,3
-6826SP,Bontekoestraat,7,,5
-6826ST,Bontekoestraat,19,,3
-6826SV,Bontekoestraat,25,C,
-6826SV,Bontekoestraat,29,,3
-6826SV,Bontekoestraat,29,,5
-6826SV,Bontekoestraat,31,,3
-6826SV,Bontekoestraat,25,,1
-6826SV,Bontekoestraat,25,,3
-6826NH,Van Borselenstraat,13,,
-6826NH,Van Borselenstraat,1,C,
-6826NH,Van Borselenstraat,37,,
-6826NJ,Van Borselenstraat,2,M,
-6826NJ,Van Borselenstraat,28,,
-6826NJ,Van Borselenstraat,28,,
-6826NK,Van Borselenstraat,48,,
-6826NK,Van Borselenstraat,48,,
-6826NN,Van Borselenstraat,116,,
-6826NN,Van Borselenstraat,116,,
-6826NN,Van Borselenstraat,114,F,
-6826NN,Van Borselenstraat,136,,
-6826NN,Van Borselenstraat,136,,
-6826NP,Van Borselenstraat,164,,
-6826NP,Van Borselenstraat,164,,
-6826NP,Van Borselenstraat,168,,
-6826NP,Van Borselenstraat,168,,
-6826NP,Van Borselenstraat,154,,
-6826NP,Van Borselenstraat,154,,
-6826NR,Van Borselenstraat,172,,
-6826NR,Van Borselenstraat,172,,
-6826NS,Van Borselenstraat,208,,
-6826NS,Van Borselenstraat,208,,
-6826NS,Van Borselenstraat,224,,
-6826NS,Van Borselenstraat,224,,
-6826NS,Van Borselenstraat,218,,
-6826PC,Swartenhondtstraat,13,,
-6826PC,Swartenhondtstraat,17,,
-6826PC,Swartenhondtstraat,27,,
-6826SJ,Stellingwerfstraat,25,,
-6826SJ,Stellingwerfstraat,31,,
-6826SJ,Stellingwerfstraat,7,,
-6826SJ,Stellingwerfstraat,33,,
-6826SK,Stellingwerfstraat,51,,
-6826SK,Stellingwerfstraat,39,,
-6826SK,Stellingwerfstraat,41,,
-6826SL,Stellingwerfstraat,59,,3
-6826SM,Stellingwerfstraat,8,,2
-6826SM,Stellingwerfstraat,2,,3
-6826SM,Stellingwerfstraat,6,,2
-6826SN,Stellingwerfstraat,14,,
-6826SN,Stellingwerfstraat,14,,
-6826SN,Stellingwerfstraat,24,,
-6826SN,Stellingwerfstraat,24,,
-6825LS,Schaapdijk,11,A,
-6826KA,Van Kampenstraat,15,,
-6826KB,Van Kampenstraat,49,,
-6826KB,Van Kampenstraat,59,,
-6826KB,Van Kampenstraat,69,,
-6826KC,Van Kampenstraat,34,,
-6826KC,Van Kampenstraat,34,,
-6826KC,Van Kampenstraat,46,,
-6826KC,Van Kampenstraat,46,,
-6826KD,Van Kampenstraat,58,,
-6826KD,Van Kampenstraat,66,,
-6826KD,Van Kampenstraat,66,,
-6826KD,Van Kampenstraat,84,,
-6826KD,Van Kampenstraat,84,,
-6826KE,Van Kampenstraat,104,,
-6826KE,Van Kampenstraat,104,,
-6826KE,Van Kampenstraat,116,,
-6826KE,Van Kampenstraat,116,,
-6826KE,Van Kampenstraat,106,,
-6826KE,Van Kampenstraat,106,,
-6826KE,Van Kampenstraat,120,,
-6826KE,Van Kampenstraat,120,,
-6826KE,Van Kampenstraat,130,,
-6826KE,Van Kampenstraat,130,,
-6826RB,Karel Doormanstraat,1,C,
-6826RB,Karel Doormanstraat,11,,
-6826RB,Karel Doormanstraat,11,,
-6826RB,Karel Doormanstraat,9,,
-6826RB,Karel Doormanstraat,9,,
-6826RB,Karel Doormanstraat,15,,
-6826RB,Karel Doormanstraat,15,,
-6826RC,Karel Doormanstraat,39,A,
-6826RC,Karel Doormanstraat,43,B,
-6826RD,Karel Doormanstraat,47,,
-6826RD,Karel Doormanstraat,65,,
-6826RD,Karel Doormanstraat,93,,
-6826RD,Karel Doormanstraat,49,,
-6826RD,Karel Doormanstraat,53,,
-6826RE,Karel Doormanstraat,2,,
-6826RG,Karel Doormanstraat,56,,
-6826RG,Karel Doormanstraat,74,,
-6826RG,Karel Doormanstraat,74,,
-6826RG,Karel Doormanstraat,52,,
-6826RG,Karel Doormanstraat,52,,
-6826RG,Karel Doormanstraat,66,,
-6826RG,Karel Doormanstraat,66,,
-6826RH,Karel Doormanstraat,88,A,
-6826RH,Karel Doormanstraat,88,C,
-6826RH,Karel Doormanstraat,98,,
-6826RH,Karel Doormanstraat,98,,
-6826RH,Karel Doormanstraat,94,,
-6826RH,Karel Doormanstraat,94,,
-6826RJ,Karel Doormanstraat,128,,
-6826RJ,Karel Doormanstraat,130,,
-6826RJ,Karel Doormanstraat,134,,
-6826RJ,Karel Doormanstraat,130,B,
-6826RK,Karel Doormanstraat,138,C,
-6826RK,Karel Doormanstraat,144,,
-6826RK,Karel Doormanstraat,144,,
-6826RK,Karel Doormanstraat,148,,
-6826RK,Karel Doormanstraat,148,,
-6826RK,Karel Doormanstraat,154,,
-6826RK,Karel Doormanstraat,154,,
-6826PV,Keulse Slag,2,,
-6826PV,Keulse Slag,32,,
-6826PW,Keulse Slag,76,,
-6826PW,Keulse Slag,76,,
-6826PW,Keulse Slag,80,,
-6826PW,Keulse Slag,80,,
-6826PW,Keulse Slag,82,,
-6826PW,Keulse Slag,96,,
-6826PW,Keulse Slag,56,,
-6826PW,Keulse Slag,56,,
-6826PX,Keulse Slag,144,,
-6826PX,Keulse Slag,134,,
-6826PX,Keulse Slag,136,,
-6826JB,Van Kinsbergenstraat,17,,
-6826JB,Van Kinsbergenstraat,17,,
-6826JB,Van Kinsbergenstraat,47,,
-6826JB,Van Kinsbergenstraat,47,,
-6826JB,Van Kinsbergenstraat,55,,
-6826JB,Van Kinsbergenstraat,55,,
-6826JC,Van Kinsbergenstraat,4,,
-6826JC,Van Kinsbergenstraat,10,,
-6826JC,Van Kinsbergenstraat,40,,
-6826JE,Dedelstraat,3,,
-6826JE,Dedelstraat,3,,
-6826JE,Dedelstraat,1,A,
-6826JG,Dedelstraat,31,,
-6826JG,Dedelstraat,31,,
-6826JG,Dedelstraat,15,,
-6826JG,Dedelstraat,15,,
-6826JG,Dedelstraat,45,,
-6826JG,Dedelstraat,45,,
-6826JG,Dedelstraat,43,,
-6826JG,Dedelstraat,43,,
-6826JG,Dedelstraat,25,,
-6826JG,Dedelstraat,25,,
-6826JG,Dedelstraat,29,,
-6826JG,Dedelstraat,29,,
-6826JH,Dedelstraat,4,,
-6826HR,Doeffstraat,2,E,
-6826HR,Doeffstraat,18,,
-6826HR,Doeffstraat,18,,
-6826HR,Doeffstraat,32,,
-6826HR,Doeffstraat,32,,
-6826HS,Doeffstraat,50,A,
-6826HS,Doeffstraat,50,I,
-6826HS,Doeffstraat,86,,
-6826HS,Doeffstraat,86,,
-6826HT,Doeffstraat,102,,
-6826HT,Doeffstraat,102,,
-6826HT,Doeffstraat,98,I,
-6826HW,Doeffstraat,176,,
-6826HW,Doeffstraat,176,,
-6826HW,Doeffstraat,192,,
-6826HW,Doeffstraat,192,,
-6826RL,Lacombléstraat,1,G,
-6826RL,Lacombléstraat,1,,
-6826RL,Lacombléstraat,1,,
-6826RP,Lacombléstraat,36,C,
-6826RP,Lacombléstraat,36,G,
-6826NB,Lange Wal,26,,1
-6826NB,Lange Wal,18,,2
-6826NB,Lange Wal,22,,3
-6826NC,Lange Wal,34,,4
-6826NC,Lange Wal,28,,1
-6826NC,Lange Wal,30,,2
-6826ND,Lange Wal,46,,4
-6826NE,Lange Wal,60,,
-6826NE,Lange Wal,64,,
-6826NE,Lange Wal,58,,
-6826NE,Lange Wal,56,,
-6826NG,Lange Wal,102,,
-6826NG,Lange Wal,102,,
-6826NG,Lange Wal,106,,
-6826NG,Lange Wal,106,,
-6826NG,Lange Wal,82,,
-6826NG,Lange Wal,82,,
-6826NW,Sonoystraat,1,,
-6826NW,Sonoystraat,23,,
-6826NW,Sonoystraat,21,,
-6826NX,Sonoystraat,36,C,
-6826NX,Sonoystraat,2,C,
-6826NX,Sonoystraat,22,,
-6826NX,Sonoystraat,42,,
-6826HZ,Piet Heynpad,2,,
-6826HL,Van Speykstraat,1,,
-6826HL,Van Speykstraat,1,,
-6826HM,Van Speykstraat,25,,
-6826HM,Van Speykstraat,25,,
-6826HM,Van Speykstraat,31,,
-6826HM,Van Speykstraat,31,,
-6826HM,Van Speykstraat,47,,
-6826HM,Van Speykstraat,47,,
-6826HM,Van Speykstraat,15,,
-6826HM,Van Speykstraat,15,,
-6826HM,Van Speykstraat,19,,
-6826HM,Van Speykstraat,19,,
-6826HN,Van Speykstraat,8,,
-6826HN,Van Speykstraat,12,,
-6826HN,Van Speykstraat,20,,
-6826HN,Van Speykstraat,2,,
-6826HP,Van Speykstraat,38,,
-6826HP,Van Speykstraat,46,,
-6826HP,Van Speykstraat,60,,
-6826JK,Carstenszstraat,3,,
-6826JK,Carstenszstraat,3,,
-6826JL,Carstenszstraat,53,,
-6826JL,Carstenszstraat,53,,
-6826JL,Carstenszstraat,41,,
-6826JL,Carstenszstraat,41,,
-6826PN,Honigkamp,2,,
-6826PN,Honigkamp,2,,
-6826PP,Honigkamp,6,,
-6826PP,Honigkamp,6,,
-6826PR,Honigkamp,74,,
-6826PS,Honigkamp,88,,
-6826PT,Honigkamp,132,,
-6826PG,De Houtmanstraat,73,,
-6826PG,De Houtmanstraat,73,,
-6826PG,De Houtmanstraat,71,,
-6826PG,De Houtmanstraat,71,,
-6826PH,De Houtmanstraat,113,,
-6826PH,De Houtmanstraat,117,,
-6826PH,De Houtmanstraat,137,,
-6826PJ,De Houtmanstraat,26,,
-6826PJ,De Houtmanstraat,12,,
-6826PK,De Houtmanstraat,42,,
-6826PK,De Houtmanstraat,42,,
-6826PL,De Houtmanstraat,78,,
-6826RR,Hudsonstraat,5,,
-6826RR,Hudsonstraat,6,,4
-6826RR,Hudsonstraat,8,,2
-6826RS,Hudsonstraat,24,,
-6826RS,Hudsonstraat,24,,
-6826SB,Floriszstraat,7,,
-6826SC,Floriszstraat,41,,
-6826SC,Floriszstraat,45,,
-6826SE,Floriszstraat,57,,3
-6826SE,Floriszstraat,65,,1
-6826SE,Floriszstraat,59,,2
-6826SE,Floriszstraat,61,,3
-6826SG,Floriszstraat,6,,1
-6826SH,Floriszstraat,22,,
-6826SH,Floriszstraat,22,,
-6826SH,Floriszstraat,32,,
-6826SH,Floriszstraat,32,,
-6826SH,Floriszstraat,12,,
-6826SH,Floriszstraat,12,,
-6826SH,Floriszstraat,14,,
-6826SH,Floriszstraat,14,,
-6826RT,Van Galenstraat,3,,
-6826RT,Van Galenstraat,23,,
-6826RW,Van Galenstraat,57,,2
-6826JM,Van Nesstraat,25,,
-6826JM,Van Nesstraat,9,,
-6826JM,Van Nesstraat,11,,
-6826JN,Van Nesstraat,39,,
-6826JN,Van Nesstraat,63,,
-6826JN,Van Nesstraat,53,,
-6826JN,Van Nesstraat,49,,
-6826JP,Van Nesstraat,18,,
-6826JP,Van Nesstraat,18,,
-6826JR,Van Nesstraat,62,,
-6826JR,Van Nesstraat,62,,
-6826JR,Van Nesstraat,58,,
-6826JR,Van Nesstraat,58,,
-6826JS,Van Nesstraat,94,,
-6826JS,Van Nesstraat,68,,
-6826JS,Van Nesstraat,68,,
-6826JS,Van Nesstraat,98,,
-6826JS,Van Nesstraat,98,,
-6826JS,Van Nesstraat,78,,
-6826JS,Van Nesstraat,78,,
-6826JS,Van Nesstraat,84,,
-6826JS,Van Nesstraat,84,,
-6826JT,Van Nesstraat,122,,
-6826JT,Van Nesstraat,122,,
-6826JT,Van Nesstraat,124,,
-6826JT,Van Nesstraat,124,,
-6826JT,Van Nesstraat,100,,
-6826JT,Van Nesstraat,100,,
-6826JT,Van Nesstraat,118,,
-6826JT,Van Nesstraat,118,,
-6826NV,De Moorstraat,4,,
-6826NV,De Moorstraat,16,,
-6826TP,Ringoven,13,,
-6826TR,Ringoven,36,,
-6826TR,Ringoven,26,,
-6826TS,Veldoven,11,,
-6826TS,Veldoven,7,,
-6826TS,Veldoven,13,A,
-6826TM,Vlamoven,7,,
-6826TM,Vlamoven,41,,
-6826TM,Vlamoven,5,,
-6826TM,Vlamoven,15,,
-6826TN,Vlamoven,38,,
-6826TN,Vlamoven,28,,
-6826TN,Vlamoven,20,,
-6826PA,Van Ghentstraat,17,,
-6826PA,Van Ghentstraat,3,,
-6826PB,Van Ghentstraat,10,,
-6826PB,Van Ghentstraat,44,,
-6826PB,Van Ghentstraat,20,,
-6826PB,Van Ghentstraat,2,E,
-6826PB,Van Ghentstraat,36,B,
-6826KG,Van der Goesstraat,5,,
-6826KH,Van der Goesstraat,63,,
-6826KJ,Van der Goesstraat,2,A,
-6826KJ,Van der Goesstraat,24,,
-6826KJ,Van der Goesstraat,24,,
-6826KJ,Van der Goesstraat,2,,
-6826KJ,Van der Goesstraat,2,,
-6826KJ,Van der Goesstraat,12,,
-6826KJ,Van der Goesstraat,12,,
-6826KK,Van der Goesstraat,74,,
-6826KK,Van der Goesstraat,74,,
-6826KK,Van der Goesstraat,68,,
-6826KK,Van der Goesstraat,68,,
-6826KK,Van der Goesstraat,80,,
-6826KK,Van der Goesstraat,80,,
-6826KL,Van der Goesstraat,120,,
-6826KL,Van der Goesstraat,120,,
-6826TB,Bethaniënstraat,30,,
-6826TB,Bethaniënstraat,30,,
-6826TB,Bethaniënstraat,36,,
-6826TC,Bethaniënstraat,60,,
-6826TC,Bethaniënstraat,60,,
-6826TD,Bethaniënstraat,84,,
-6826TD,Bethaniënstraat,84,,
-6826TD,Bethaniënstraat,88,,
-6826TD,Bethaniënstraat,88,,
-6826TE,Bethaniënstraat,104,,
-6826TE,Bethaniënstraat,104,,
-6826TG,Bethaniënstraat,148,,
-6826TG,Bethaniënstraat,148,,
-6826TG,Bethaniënstraat,162,,
-6826TG,Bethaniënstraat,162,,
-6826TJ,Bethaniënstraat,242,,
-6826TJ,Bethaniënstraat,248,,
-6826PZ,De Bitterstraat,54,,
-6826PZ,De Bitterstraat,16,,
-6826PZ,De Bitterstraat,10,,
-6826PZ,De Bitterstraat,30,,
-6826RA,De Bitterstraat,9,,
-6826RA,De Bitterstraat,9,,
-6826RA,De Bitterstraat,15,,
-6826RA,De Bitterstraat,15,,
-6826SP,Bontekoestraat,7,,3
-6826SP,Bontekoestraat,5,,1
-6826SP,Bontekoestraat,5,,3
-6826SR,Bontekoestraat,13,,4
-6826SR,Bontekoestraat,15,,3
-6826SR,Bontekoestraat,15,,5
-6826ST,Bontekoestraat,21,,6
-6826ST,Bontekoestraat,17,,5
-6826ST,Bontekoestraat,23,,5
-6826ST,Bontekoestraat,21,,3
-6826SV,Bontekoestraat,25,,6
-6826SV,Bontekoestraat,29,,2
-6826SV,Bontekoestraat,31,,6
-6826SV,Bontekoestraat,27,,3
-6826SW,Bontekoestraat,6,,
-6826SW,Bontekoestraat,12,,
-6826SW,Bontekoestraat,22,,
-6826SX,Bontekoestraat,40,,
-6826NH,Van Borselenstraat,9,,
-6826NH,Van Borselenstraat,1,B,
-6826NH,Van Borselenstraat,17,,
-6826NH,Van Borselenstraat,21,,
-6826NJ,Van Borselenstraat,22,,
-6826NJ,Van Borselenstraat,22,,
-6826NJ,Van Borselenstraat,2,E,
-6826NK,Van Borselenstraat,34,,
-6826NK,Van Borselenstraat,34,,
-6826NK,Van Borselenstraat,56,,
-6826NK,Van Borselenstraat,56,,
-6826NK,Van Borselenstraat,30,,
-6826NK,Van Borselenstraat,30,,
-6826NL,Van Borselenstraat,70,,
-6826NL,Van Borselenstraat,70,,
-6826NL,Van Borselenstraat,68,,
-6826NL,Van Borselenstraat,68,,
-6826NL,Van Borselenstraat,84,,
-6826NL,Van Borselenstraat,84,,
-6826NL,Van Borselenstraat,58,I,
-6826NM,Van Borselenstraat,92,,
-6826NM,Van Borselenstraat,92,,
-6826NM,Van Borselenstraat,102,,
-6826NM,Van Borselenstraat,102,,
-6826NN,Van Borselenstraat,114,M,
-6826NN,Van Borselenstraat,118,,
-6826NN,Van Borselenstraat,118,,
-6826NN,Van Borselenstraat,114,E,
-6826NP,Van Borselenstraat,160,,
-6826NP,Van Borselenstraat,160,,
-6826NP,Van Borselenstraat,158,,
-6826NP,Van Borselenstraat,158,,
-6826NR,Van Borselenstraat,192,,
-6826NR,Van Borselenstraat,192,,
-6826NR,Van Borselenstraat,196,,
-6826NR,Van Borselenstraat,196,,
-6826NR,Van Borselenstraat,174,,
-6826NR,Van Borselenstraat,174,,
-6826NR,Van Borselenstraat,194,,
-6826NR,Van Borselenstraat,194,,
-6826PC,Swartenhondtstraat,5,,
-6826SJ,Stellingwerfstraat,5,,
-6826SJ,Stellingwerfstraat,11,,
-6826SJ,Stellingwerfstraat,35,,
-6826SK,Stellingwerfstraat,45,,
-6826SK,Stellingwerfstraat,47,,
-6826SL,Stellingwerfstraat,55,,1
-6826SL,Stellingwerfstraat,61,,1
-6826SL,Stellingwerfstraat,65,,1
-6826SL,Stellingwerfstraat,59,,2
-6826SL,Stellingwerfstraat,57,,1
-6826SL,Stellingwerfstraat,63,,3
-6826SL,Stellingwerfstraat,65,,2
-6826SM,Stellingwerfstraat,4,,1
-6826SM,Stellingwerfstraat,4,,3
-6826SM,Stellingwerfstraat,2,,2
-6826SM,Stellingwerfstraat,2,,4
-6826SM,Stellingwerfstraat,2,,1
-6826SN,Stellingwerfstraat,18,,
-6826SN,Stellingwerfstraat,18,,
-6826SN,Stellingwerfstraat,22,,
-6826SN,Stellingwerfstraat,22,,
-6826SN,Stellingwerfstraat,40,,
-6826SN,Stellingwerfstraat,40,,
-6825LS,Schaapdijk,13,A,
-6826KA,Van Kampenstraat,17,,
-6826KB,Van Kampenstraat,41,,
-6826KC,Van Kampenstraat,22,,
-6826KC,Van Kampenstraat,22,,
-6826KC,Van Kampenstraat,2,N,
-6826KC,Van Kampenstraat,8,,
-6826KC,Van Kampenstraat,8,,
-6826KC,Van Kampenstraat,30,,
-6826KC,Van Kampenstraat,30,,
-6826KC,Van Kampenstraat,36,,
-6826KC,Van Kampenstraat,36,,
-6826KC,Van Kampenstraat,42,,
-6826KC,Van Kampenstraat,42,,
-6826KC,Van Kampenstraat,48,,
-6826KC,Van Kampenstraat,48,,
-6826KC,Van Kampenstraat,18,,
-6826KC,Van Kampenstraat,18,,
-6826KD,Van Kampenstraat,72,,
-6826KD,Van Kampenstraat,72,,
-6826KD,Van Kampenstraat,68,,
-6826KD,Van Kampenstraat,68,,
-6826KD,Van Kampenstraat,78,,
-6826KD,Van Kampenstraat,78,,
-6826KD,Van Kampenstraat,88,,
-6826KD,Van Kampenstraat,88,,
-6826KE,Van Kampenstraat,122,,
-6826KE,Van Kampenstraat,122,,
-6826KE,Van Kampenstraat,108,,
-6826KE,Van Kampenstraat,108,,
-6826KE,Van Kampenstraat,128,,
-6826KE,Van Kampenstraat,128,,
-6826RB,Karel Doormanstraat,19,,
-6826RB,Karel Doormanstraat,19,,
-6826RB,Karel Doormanstraat,1,G,
-6826RC,Karel Doormanstraat,45,A,
-6826RC,Karel Doormanstraat,41,A,
-6826RD,Karel Doormanstraat,51,,
-6826RE,Karel Doormanstraat,32,,
-6826RE,Karel Doormanstraat,20,,
-6826RG,Karel Doormanstraat,52,B,
-6826RG,Karel Doormanstraat,52,C,
-6826RG,Karel Doormanstraat,76,,
-6826RG,Karel Doormanstraat,76,,
-6826RG,Karel Doormanstraat,58,,
-6826RG,Karel Doormanstraat,58,,
-6826RG,Karel Doormanstraat,52,F,
-6826RH,Karel Doormanstraat,88,,
-6826RH,Karel Doormanstraat,88,,
-6826RH,Karel Doormanstraat,88,E,
-6826RH,Karel Doormanstraat,104,,
-6826RH,Karel Doormanstraat,104,,
-6826RJ,Karel Doormanstraat,134,B,
-6826PV,Keulse Slag,22,,
-6826PV,Keulse Slag,30,,
-6826PV,Keulse Slag,14,,
-6826PV,Keulse Slag,34,,
-6826PW,Keulse Slag,54,,
-6826PW,Keulse Slag,54,,
-6826PW,Keulse Slag,70,,
-6826PW,Keulse Slag,70,,
-6826PW,Keulse Slag,78,,
-6826PW,Keulse Slag,78,,
-6826PX,Keulse Slag,108,,
-6826PX,Keulse Slag,132,,
-6826JA,Van Kinsbergenstraat,1,B,
-6826JA,Van Kinsbergenstraat,3,,
-6826JA,Van Kinsbergenstraat,3,,
-6826JB,Van Kinsbergenstraat,49,,
-6826JB,Van Kinsbergenstraat,49,,
-6826JB,Van Kinsbergenstraat,23,,
-6826JB,Van Kinsbergenstraat,23,,
-6826JB,Van Kinsbergenstraat,39,,
-6826JB,Van Kinsbergenstraat,39,,
-6826JB,Van Kinsbergenstraat,41,,
-6826JB,Van Kinsbergenstraat,41,,
-6826JB,Van Kinsbergenstraat,25,,
-6826JB,Van Kinsbergenstraat,25,,
-6826JB,Van Kinsbergenstraat,57,,
-6826JB,Van Kinsbergenstraat,57,,
-6826JC,Van Kinsbergenstraat,20,,
-6826JC,Van Kinsbergenstraat,34,,
-6826JC,Van Kinsbergenstraat,30,,
-6826JC,Van Kinsbergenstraat,12,,
-6826JG,Dedelstraat,27,,
-6826JG,Dedelstraat,27,,
-6826JG,Dedelstraat,41,,
-6826JG,Dedelstraat,41,,
-6826JH,Dedelstraat,6,,
-6826JJ,Dedelstraat,48,,
-6826JJ,Dedelstraat,52,,
-6826HR,Doeffstraat,26,,
-6826HR,Doeffstraat,26,,
-6826HR,Doeffstraat,2,A,
-6826HR,Doeffstraat,2,B,
-6826HT,Doeffstraat,130,,
-6826HT,Doeffstraat,130,,
-6826HT,Doeffstraat,98,,
-6826HT,Doeffstraat,98,,
-6826HW,Doeffstraat,190,,
-6826HW,Doeffstraat,190,,
-6826HW,Doeffstraat,188,,
-6826HW,Doeffstraat,188,,
-6826RL,Lacombléstraat,3,,
-6826RL,Lacombléstraat,3,,
-6826RL,Lacombléstraat,17,,
-6826RL,Lacombléstraat,17,,
-6826RL,Lacombléstraat,1,C,
-6826RL,Lacombléstraat,15,,
-6826RL,Lacombléstraat,15,,
-6826RM,Lacombléstraat,37,,
-6826RM,Lacombléstraat,85,,
-6826RM,Lacombléstraat,45,,
-6826RN,Lacombléstraat,2,A,
-6826RN,Lacombléstraat,12,,
-6826RP,Lacombléstraat,22,,
-6826RP,Lacombléstraat,52,,
-6826RP,Lacombléstraat,52,,
-6826NB,Lange Wal,16,,3
-6826NB,Lange Wal,18,,4
-6826NC,Lange Wal,30,,3
-6826ND,Lange Wal,44,,1
-6826ND,Lange Wal,44,,3
-6826NE,Lange Wal,68,,
-6826NG,Lange Wal,84,,
-6826NG,Lange Wal,84,,
-6826NG,Lange Wal,104,,
-6826NG,Lange Wal,104,,
-6826NG,Lange Wal,92,,
-6826NG,Lange Wal,92,,
-6826NX,Sonoystraat,24,,
-6826NX,Sonoystraat,2,E,
-6826NX,Sonoystraat,2,A,
-6826NX,Sonoystraat,50,,
-6826HZ,Piet Heynpad,10,,
-6826HZ,Piet Heynpad,8,,
-6826HZ,Piet Heynpad,6,,
-6826HL,Van Speykstraat,13,,
-6826HL,Van Speykstraat,13,,
-6826HN,Van Speykstraat,4,,
-6826HN,Van Speykstraat,32,,
-6826HP,Van Speykstraat,44,,
-6826HP,Van Speykstraat,36,,
-6826HP,Van Speykstraat,48,,
-6826HP,Van Speykstraat,52,,
-6826JK,Carstenszstraat,1,B,
-6826JK,Carstenszstraat,9,,
-6826JK,Carstenszstraat,9,,
-6826PM,Honigkamp,25,,
-6826PP,Honigkamp,14,,
-6826PP,Honigkamp,14,,
-6826PP,Honigkamp,44,A,
-6826PR,Honigkamp,54,,
-6826PR,Honigkamp,70,,
-6826PR,Honigkamp,76,,
-6826PS,Honigkamp,86,,
-6826PS,Honigkamp,98,,
-6826PS,Honigkamp,106,,
-6826PS,Honigkamp,84,,
-6826PS,Honigkamp,110,,
-6826PT,Honigkamp,126,,
-6826PT,Honigkamp,112,,
-6826PT,Honigkamp,118,,
-6826PG,De Houtmanstraat,89,,
-6826PG,De Houtmanstraat,89,,
-6826PG,De Houtmanstraat,109,,
-6826PG,De Houtmanstraat,109,,
-6826PG,De Houtmanstraat,75,,
-6826PG,De Houtmanstraat,75,,
-6826PG,De Houtmanstraat,91,,
-6826PG,De Houtmanstraat,91,,
-6826PG,De Houtmanstraat,101,,
-6826PG,De Houtmanstraat,101,,
-6826PH,De Houtmanstraat,115,,
-6826PH,De Houtmanstraat,119,,
-6826PH,De Houtmanstraat,131,,
-6826PJ,De Houtmanstraat,28,,
-6826PJ,De Houtmanstraat,10,,
-6826PJ,De Houtmanstraat,18,,
-6826PK,De Houtmanstraat,40,,
-6826PK,De Houtmanstraat,40,,
-6826PK,De Houtmanstraat,46,,
-6826PK,De Houtmanstraat,46,,
-6826PK,De Houtmanstraat,50,,
-6826PK,De Houtmanstraat,50,,
-6826PK,De Houtmanstraat,52,,
-6826PK,De Houtmanstraat,52,,
-6826PK,De Houtmanstraat,68,,
-6826PK,De Houtmanstraat,68,,
-6826PL,De Houtmanstraat,82,,
-6826PL,De Houtmanstraat,86,,
-6826PL,De Houtmanstraat,88,,
-6826RR,Hudsonstraat,8,,4
-6826RR,Hudsonstraat,1,,
-6826RR,Hudsonstraat,4,,2
-6826RR,Hudsonstraat,6,,3
-6826RS,Hudsonstraat,20,,
-6826RS,Hudsonstraat,20,,
-6826SB,Floriszstraat,31,,
-6826SG,Floriszstraat,2,,2
-6826SG,Floriszstraat,4,,4
-6826SH,Floriszstraat,28,,
-6826SH,Floriszstraat,28,,
-6826RT,Van Galenstraat,21,,
-6826RT,Van Galenstraat,9,,
-6826RV,Van Galenstraat,49,,
-6826RV,Van Galenstraat,39,,
-6826RV,Van Galenstraat,51,,
-6826RV,Van Galenstraat,47,,
-6826RW,Van Galenstraat,65,,3
-6826RX,Van Galenstraat,2,,3
-6826RX,Van Galenstraat,2,,4
-6826RX,Van Galenstraat,6,,2
-6826RZ,Van Galenstraat,34,,
-6826RZ,Van Galenstraat,34,,
-6826RZ,Van Galenstraat,24,,
-6826RZ,Van Galenstraat,24,,
-6826RZ,Van Galenstraat,10,,
-6826RZ,Van Galenstraat,10,,
-6826JM,Van Nesstraat,7,,
-6826JP,Van Nesstraat,12,,
-6826JP,Van Nesstraat,12,,
-6826JP,Van Nesstraat,26,,
-6826JP,Van Nesstraat,26,,
-6826JP,Van Nesstraat,2,G,
-6826JP,Van Nesstraat,20,,
-6826JP,Van Nesstraat,20,,
-6826JP,Van Nesstraat,2,K,
-6826JR,Van Nesstraat,50,,
-6826JR,Van Nesstraat,50,,
-6826JS,Van Nesstraat,72,,
-6826JS,Van Nesstraat,72,,
-6826JS,Van Nesstraat,76,,
-6826JS,Van Nesstraat,76,,
-6826JT,Van Nesstraat,130,,
-6826JT,Van Nesstraat,130,,
-6826NV,De Moorstraat,24,,
-6825LG,IJsseloordweg,15,,
-6826TP,Ringoven,9,,
-6826TP,Ringoven,47,,
-6826TR,Ringoven,14,,
-6826TT,Veldoven,6,,
-6826TM,Vlamoven,23,,
-6826TM,Vlamoven,37,,
-6826TN,Vlamoven,16,,
-6826TN,Vlamoven,2,C,
-6826PA,Van Ghentstraat,1,E,
-6826PA,Van Ghentstraat,43,,
-6826PB,Van Ghentstraat,48,,
-6826KH,Van der Goesstraat,39,,
-6826KJ,Van der Goesstraat,2,C,
-6826KJ,Van der Goesstraat,2,H,
-6826KJ,Van der Goesstraat,34,,
-6826KJ,Van der Goesstraat,34,,
-6826KJ,Van der Goesstraat,2,B,
-6826KJ,Van der Goesstraat,6,,
-6826KJ,Van der Goesstraat,6,,
-6826KK,Van der Goesstraat,60,,
-6826KK,Van der Goesstraat,60,,
-6826KK,Van der Goesstraat,82,,
-6826KK,Van der Goesstraat,82,,
-6826KK,Van der Goesstraat,84,,
-6826KK,Van der Goesstraat,84,,
-6826KL,Van der Goesstraat,128,,
-6826KL,Van der Goesstraat,128,,
-6826KL,Van der Goesstraat,100,,
-6826KL,Van der Goesstraat,100,,
-6826PD,Juinbolstraat,7,,
-6826PD,Juinbolstraat,5,,
-6826PD,Juinbolstraat,11,,
-6826PD,Juinbolstraat,17,,
-6826TB,Bethaniënstraat,12,,
-6826TB,Bethaniënstraat,12,,
-6826TB,Bethaniënstraat,20,,
-6826TB,Bethaniënstraat,20,,
-6826TC,Bethaniënstraat,66,,
-6826TC,Bethaniënstraat,66,,
-6826TC,Bethaniënstraat,72,,
-6826TC,Bethaniënstraat,72,,
-6826TC,Bethaniënstraat,56,,
-6826TC,Bethaniënstraat,56,,
-6826TD,Bethaniënstraat,80,,
-6826TD,Bethaniënstraat,80,,
-6826TD,Bethaniënstraat,92,,
-6826TD,Bethaniënstraat,92,,
-6826TD,Bethaniënstraat,94,,
-6826TD,Bethaniënstraat,94,,
-6826TD,Bethaniënstraat,76,,
-6826TD,Bethaniënstraat,76,,
-6826TE,Bethaniënstraat,142,,
-6826TE,Bethaniënstraat,142,,
-6826TE,Bethaniënstraat,144,,
-6826TE,Bethaniënstraat,144,,
-6826TE,Bethaniënstraat,100,,
-6826TH,Bethaniënstraat,178,,
-6826TH,Bethaniënstraat,178,,
-6826TH,Bethaniënstraat,208,,
-6826TH,Bethaniënstraat,208,,
-6826TH,Bethaniënstraat,192,,
-6826TH,Bethaniënstraat,192,,
-6826TH,Bethaniënstraat,216,,
-6826TH,Bethaniënstraat,216,,
-6826PZ,De Bitterstraat,56,,
-6826PZ,De Bitterstraat,50,,
-6826RA,De Bitterstraat,3,,
-6826RA,De Bitterstraat,3,,
-6826SP,Bontekoestraat,7,,1
-6826SP,Bontekoestraat,3,,6
-6826SR,Bontekoestraat,11,,6
-6826SR,Bontekoestraat,15,,2
-6826SR,Bontekoestraat,9,D,
-6826SR,Bontekoestraat,9,A,
-6826SR,Bontekoestraat,13,,3
-6826ST,Bontekoestraat,23,,6
-6826ST,Bontekoestraat,17,B,
-6826ST,Bontekoestraat,17,,1
-6826NH,Van Borselenstraat,41,,
-6826NH,Van Borselenstraat,23,,
-6826NJ,Van Borselenstraat,26,,
-6826NJ,Van Borselenstraat,26,,
-6826NJ,Van Borselenstraat,20,,
-6826NJ,Van Borselenstraat,20,,
-6826NJ,Van Borselenstraat,2,F,
-6826NJ,Van Borselenstraat,2,,
-6826NJ,Van Borselenstraat,2,,
-6826NL,Van Borselenstraat,78,,
-6826NL,Van Borselenstraat,78,,
-6826NL,Van Borselenstraat,58,D,
-6826NL,Van Borselenstraat,58,K,
-6826NM,Van Borselenstraat,88,,
-6826NM,Van Borselenstraat,88,,
-6826NM,Van Borselenstraat,108,,
-6826NM,Van Borselenstraat,108,,
-6826NN,Van Borselenstraat,132,,
-6826NN,Van Borselenstraat,132,,
-6826NN,Van Borselenstraat,126,,
-6826NN,Van Borselenstraat,126,,
-6826NP,Van Borselenstraat,148,,
-6826NP,Van Borselenstraat,148,,
-6826NP,Van Borselenstraat,152,,
-6826NP,Van Borselenstraat,152,,
-6826NP,Van Borselenstraat,156,,
-6826NP,Van Borselenstraat,156,,
-6826NR,Van Borselenstraat,170,G,
-6826NR,Van Borselenstraat,170,E,
-6826NR,Van Borselenstraat,170,I,
-6826NS,Van Borselenstraat,212,,
-6826NS,Van Borselenstraat,212,,
-6826NS,Van Borselenstraat,220,,
-6826NS,Van Borselenstraat,220,,
-6826SJ,Stellingwerfstraat,9,,
-6826SJ,Stellingwerfstraat,27,,
-6826SK,Stellingwerfstraat,53,,
-6826SK,Stellingwerfstraat,37,,
-6826SL,Stellingwerfstraat,59,,1
-6826SL,Stellingwerfstraat,63,,2
-6826SM,Stellingwerfstraat,8,,3
-6826SN,Stellingwerfstraat,36,,
-6826SN,Stellingwerfstraat,36,,
-6826SN,Stellingwerfstraat,12,,
-6826SN,Stellingwerfstraat,12,,
-6825LS,Schaapdijk,13,,
-6826KA,Van Kampenstraat,31,,
-6826KA,Van Kampenstraat,29,,
-6826KB,Van Kampenstraat,35,,
-6826KC,Van Kampenstraat,12,,
-6826KC,Van Kampenstraat,12,,
-6826KC,Van Kampenstraat,2,D,
-6826KC,Van Kampenstraat,2,G,
-6826KD,Van Kampenstraat,64,,
-6826KD,Van Kampenstraat,64,,
-6826RB,Karel Doormanstraat,29,,
-6826RB,Karel Doormanstraat,29,,
-6826RB,Karel Doormanstraat,1,A,
-6826RB,Karel Doormanstraat,31,,
-6826RB,Karel Doormanstraat,31,,
-6826RC,Karel Doormanstraat,43,A,
-6826RC,Karel Doormanstraat,39,,
-6826RD,Karel Doormanstraat,57,,
-6826RD,Karel Doormanstraat,63,,
-6826RG,Karel Doormanstraat,72,,
-6826RG,Karel Doormanstraat,72,,
-6826RG,Karel Doormanstraat,52,D,
-6826RG,Karel Doormanstraat,80,,
-6826RG,Karel Doormanstraat,80,,
-6826RH,Karel Doormanstraat,88,G,
-6826RJ,Karel Doormanstraat,128,A,
-6826RJ,Karel Doormanstraat,128,B,
-6826RJ,Karel Doormanstraat,132,B,
-6826RJ,Karel Doormanstraat,126,B,
-6826RJ,Karel Doormanstraat,132,,
-6826RK,Karel Doormanstraat,138,G,
-6826RK,Karel Doormanstraat,138,E,
-6826PV,Keulse Slag,2,C,
-6826PV,Keulse Slag,2,F,
-6826PV,Keulse Slag,40,,
-6826PV,Keulse Slag,2,A,
-6826PV,Keulse Slag,10,,
-6826PV,Keulse Slag,26,,
-6826PV,Keulse Slag,44,,
-6826PW,Keulse Slag,60,,
-6826PW,Keulse Slag,60,,
-6826PW,Keulse Slag,72,,
-6826PW,Keulse Slag,72,,
-6826PX,Keulse Slag,130,,
-6826PX,Keulse Slag,142,,
-6826JA,Van Kinsbergenstraat,13,,
-6826JA,Van Kinsbergenstraat,13,,
-6826JB,Van Kinsbergenstraat,31,,
-6826JB,Van Kinsbergenstraat,31,,
-6826JC,Van Kinsbergenstraat,14,,
-6826JC,Van Kinsbergenstraat,46,,
-6826JC,Van Kinsbergenstraat,6,,
-6826JC,Van Kinsbergenstraat,42,,
-6826JD,Van Kinsbergenstraat,60,,
-6826JE,Dedelstraat,1,B,
-6826JE,Dedelstraat,13,,
-6826JE,Dedelstraat,13,,
-6826JG,Dedelstraat,19,,
-6826JG,Dedelstraat,19,,
-6826JG,Dedelstraat,23,,
-6826JG,Dedelstraat,23,,
-6826JG,Dedelstraat,35,,
-6826JG,Dedelstraat,35,,
-6826JG,Dedelstraat,51,,
-6826JG,Dedelstraat,51,,
-6826JH,Dedelstraat,20,,
-6826JH,Dedelstraat,26,,
-6826JH,Dedelstraat,22,,
-6826JH,Dedelstraat,12,,
-6826JJ,Dedelstraat,50,,
-6826HR,Doeffstraat,40,,
-6826HR,Doeffstraat,40,,
-6826HR,Doeffstraat,48,,
-6826HR,Doeffstraat,48,,
-6826HR,Doeffstraat,2,D,
-6826HR,Doeffstraat,16,,
-6826HR,Doeffstraat,16,,
-6826HR,Doeffstraat,30,,
-6826HR,Doeffstraat,30,,
-6826HR,Doeffstraat,42,,
-6826HR,Doeffstraat,42,,
-6826HR,Doeffstraat,10,,
-6826HR,Doeffstraat,10,,
-6826HR,Doeffstraat,2,,
-6826HR,Doeffstraat,2,,
-6826HR,Doeffstraat,6,,
-6826HR,Doeffstraat,6,,
-6826HR,Doeffstraat,24,,
-6826HR,Doeffstraat,24,,
-6826HR,Doeffstraat,28,,
-6826HR,Doeffstraat,28,,
-6826HS,Doeffstraat,54,,
-6826HS,Doeffstraat,54,,
-6826HS,Doeffstraat,68,,
-6826HS,Doeffstraat,68,,
-6826HS,Doeffstraat,50,B,
-6826HS,Doeffstraat,62,,
-6826HS,Doeffstraat,62,,
-6826HT,Doeffstraat,142,,
-6826HT,Doeffstraat,142,,
-6826HT,Doeffstraat,116,,
-6826HT,Doeffstraat,116,,
-6826HT,Doeffstraat,122,,
-6826HT,Doeffstraat,122,,
-6826HT,Doeffstraat,134,,
-6826HT,Doeffstraat,134,,
-6826HT,Doeffstraat,98,H,
-6826HT,Doeffstraat,138,,
-6826HT,Doeffstraat,138,,
-6826HV,Doeffstraat,160,,
-6826HV,Doeffstraat,160,,
-6826HV,Doeffstraat,166,,
-6826HV,Doeffstraat,166,,
-6826HV,Doeffstraat,168,,
-6826HV,Doeffstraat,168,,
-6826HW,Doeffstraat,184,,
-6826HW,Doeffstraat,184,,
-6826HW,Doeffstraat,200,,
-6826HW,Doeffstraat,200,,
-6826HW,Doeffstraat,204,,
-6826HW,Doeffstraat,204,,
-6826HW,Doeffstraat,212,,
-6826HW,Doeffstraat,212,,
-6826HA,Laan van Presikhaaf,7,,
-6826RL,Lacombléstraat,27,,
-6826RL,Lacombléstraat,27,,
-6826RL,Lacombléstraat,31,,
-6826RL,Lacombléstraat,31,,
-6826RL,Lacombléstraat,23,,
-6826RL,Lacombléstraat,23,,
-6826RL,Lacombléstraat,1,D,
-6826RM,Lacombléstraat,73,,
-6826RM,Lacombléstraat,69,,
-6826RM,Lacombléstraat,83,,
-6826RN,Lacombléstraat,16,,
-6826RN,Lacombléstraat,6,B,
-6826RN,Lacombléstraat,14,A,
-6826RN,Lacombléstraat,10,,
-6826RP,Lacombléstraat,20,,
-6826NB,Lange Wal,22,,4
-6826NC,Lange Wal,38,,1
-6826NC,Lange Wal,28,,3
-6826NC,Lange Wal,34,,1
-6826NC,Lange Wal,38,,4
-6826ND,Lange Wal,40,,2
-6826ND,Lange Wal,44,,2
-6826ND,Lange Wal,42,,2
-6826ND,Lange Wal,40,,4
-6826ND,Lange Wal,48,,4
-6826NE,Lange Wal,76,,
-6826NE,Lange Wal,72,,
-6826NG,Lange Wal,114,,
-6826NG,Lange Wal,114,,
-6826NG,Lange Wal,90,,
-6826NG,Lange Wal,90,,
-6826NG,Lange Wal,112,,
-6826NG,Lange Wal,112,,
-6826HL,Van Speykstraat,3,,
-6826HL,Van Speykstraat,3,,
-6826HL,Van Speykstraat,5,,
-6826HL,Van Speykstraat,5,,
-6826HL,Van Speykstraat,1,B,
-6826HM,Van Speykstraat,23,,
-6826HM,Van Speykstraat,23,,
-6826HM,Van Speykstraat,57,,
-6826HM,Van Speykstraat,57,,
-6826HP,Van Speykstraat,58,,
-6826JK,Carstenszstraat,1,A,
-6826JK,Carstenszstraat,1,,
-6826JK,Carstenszstraat,1,,
-6826JK,Carstenszstraat,5,,
-6826JK,Carstenszstraat,5,,
-6826JL,Carstenszstraat,23,,
-6826JL,Carstenszstraat,23,,
-6826JL,Carstenszstraat,29,,
-6826JL,Carstenszstraat,29,,
-6826JL,Carstenszstraat,15,,
-6826JL,Carstenszstraat,15,,
-6826JL,Carstenszstraat,31,,
-6826JL,Carstenszstraat,31,,
-6826PP,Honigkamp,16,,
-6826PP,Honigkamp,16,,
-6826PP,Honigkamp,20,,
-6826PP,Honigkamp,20,,
-6826PR,Honigkamp,52,,
-6826PR,Honigkamp,80,,
-6826PS,Honigkamp,94,,
-6826PS,Honigkamp,108,,
-6826PS,Honigkamp,100,,
-6826PS,Honigkamp,90,,
-6826PT,Honigkamp,140,,
-6826PE,De Houtmanstraat,13,,
-6826PG,De Houtmanstraat,77,,
-6826PG,De Houtmanstraat,77,,
-6826PG,De Houtmanstraat,79,,
-6826PG,De Houtmanstraat,79,,
-6826PG,De Houtmanstraat,83,,
-6826PG,De Houtmanstraat,83,,
-6826PG,De Houtmanstraat,87,,
-6826PG,De Houtmanstraat,87,,
-6826PH,De Houtmanstraat,125,,
-6826PH,De Houtmanstraat,127,,
-6826PH,De Houtmanstraat,129,,
-6826PJ,De Houtmanstraat,4,,
-6826PJ,De Houtmanstraat,20,,
-6826RR,Hudsonstraat,3,,
-6826RR,Hudsonstraat,2,,1
-6826RR,Hudsonstraat,2,,2
-6826RS,Hudsonstraat,18,,
-6826RS,Hudsonstraat,18,,
-6826RS,Hudsonstraat,50,,
-6826RS,Hudsonstraat,44,,
-6826RS,Hudsonstraat,56,,
-6826SB,Floriszstraat,19,,
-6826SB,Floriszstraat,13,,
-6826SC,Floriszstraat,51,,
-6826SE,Floriszstraat,55,,3
-6826SE,Floriszstraat,61,,1
-6826SE,Floriszstraat,63,,2
-6826SE,Floriszstraat,59,,1
-6826SE,Floriszstraat,63,,1
-6826SE,Floriszstraat,65,,3
-6826SG,Floriszstraat,6,,3
-6826SH,Floriszstraat,16,,
-6826SH,Floriszstraat,16,,
-6826SH,Floriszstraat,34,,
-6826SH,Floriszstraat,34,,
-6826RT,Van Galenstraat,25,,
-6826RT,Van Galenstraat,19,,
-6826RW,Van Galenstraat,55,,1
-6826RW,Van Galenstraat,63,,2
-6826RW,Van Galenstraat,65,,2
-6826RX,Van Galenstraat,4,,4
-6826RZ,Van Galenstraat,38,,
-6826RZ,Van Galenstraat,38,,
-6826RZ,Van Galenstraat,14,,
-6826RZ,Van Galenstraat,14,,
-6826RZ,Van Galenstraat,42,,
-6826JM,Van Nesstraat,27,,
-6826JN,Van Nesstraat,59,,
-6826JN,Van Nesstraat,61,,
-6826JN,Van Nesstraat,69,,
-6826JP,Van Nesstraat,2,B,
-6826JP,Van Nesstraat,2,L,
-6826JS,Van Nesstraat,96,,
-6826JS,Van Nesstraat,96,,
-6826JT,Van Nesstraat,112,,
-6826JT,Van Nesstraat,112,,
-6826NV,De Moorstraat,22,,
-6826NV,De Moorstraat,6,,
-6826TS,Veldoven,13,,
-6826PB,Van Ghentstraat,2,,
-6826PB,Van Ghentstraat,6,,
-6826PB,Van Ghentstraat,40,,
-6826KG,Van der Goesstraat,15,,
-6826KG,Van der Goesstraat,27,,
-6826KG,Van der Goesstraat,23,,
-6826KG,Van der Goesstraat,13,,
-6826KG,Van der Goesstraat,1,,
-6826KH,Van der Goesstraat,61,,
-6826KH,Van der Goesstraat,49,,
-6826KJ,Van der Goesstraat,46,,
-6826KJ,Van der Goesstraat,46,,
-6826KJ,Van der Goesstraat,2,G,
-6826KJ,Van der Goesstraat,2,F,
-6826KJ,Van der Goesstraat,28,,
-6826KJ,Van der Goesstraat,28,,
-6826KJ,Van der Goesstraat,42,,
-6826KJ,Van der Goesstraat,42,,
-6826KJ,Van der Goesstraat,36,,
-6826KJ,Van der Goesstraat,36,,
-6826KJ,Van der Goesstraat,44,,
-6826KJ,Van der Goesstraat,44,,
-6826KJ,Van der Goesstraat,48,,
-6826KJ,Van der Goesstraat,48,,
-6826KK,Van der Goesstraat,52,,
-6826KK,Van der Goesstraat,52,,
-6826KK,Van der Goesstraat,76,,
-6826KK,Van der Goesstraat,76,,
-6826KK,Van der Goesstraat,72,,
-6826KK,Van der Goesstraat,72,,
-6826KK,Van der Goesstraat,50,,
-6826KK,Van der Goesstraat,50,,
-6826KK,Van der Goesstraat,66,,
-6826KK,Van der Goesstraat,66,,
-6826KK,Van der Goesstraat,96,,
-6826KK,Van der Goesstraat,96,,
-6826KL,Van der Goesstraat,112,,
-6826KL,Van der Goesstraat,112,,
-6826TA,Bethaniënstraat,1,,
-6826TB,Bethaniënstraat,4,,
-6826TB,Bethaniënstraat,4,,
-6826TB,Bethaniënstraat,18,,
-6826TB,Bethaniënstraat,18,,
-6826TB,Bethaniënstraat,2,A,
-6826TC,Bethaniënstraat,54,,
-6826TC,Bethaniënstraat,54,,
-6826TC,Bethaniënstraat,64,,
-6826TC,Bethaniënstraat,64,,
-6826TE,Bethaniënstraat,122,,
-6826TE,Bethaniënstraat,122,,
-6826TE,Bethaniënstraat,98,,
-6826TE,Bethaniënstraat,98,,
-6826TE,Bethaniënstraat,116,,
-6826TE,Bethaniënstraat,116,,
-6826TE,Bethaniënstraat,124,,
-6826TE,Bethaniënstraat,124,,
-6826TG,Bethaniënstraat,158,,
-6826TG,Bethaniënstraat,158,,
-6826TG,Bethaniënstraat,150,,
-6826TG,Bethaniënstraat,150,,
-6826TH,Bethaniënstraat,188,,
-6826TH,Bethaniënstraat,188,,
-6826TH,Bethaniënstraat,202,,
-6826TH,Bethaniënstraat,202,,
-6826TH,Bethaniënstraat,198,,
-6826TH,Bethaniënstraat,198,,
-6826TJ,Bethaniënstraat,218,,
-6826TJ,Bethaniënstraat,220,A,
-6826PZ,De Bitterstraat,24,,
-6826PZ,De Bitterstraat,22,,
-6826RA,De Bitterstraat,1,,3
-6826SP,Bontekoestraat,3,,4
-6826SP,Bontekoestraat,1,,6
-6826SP,Bontekoestraat,1,D,
-6826SP,Bontekoestraat,7,,2
-6826SR,Bontekoestraat,9,,2
-6826SR,Bontekoestraat,9,,5
-6826SR,Bontekoestraat,15,,4
-6826SR,Bontekoestraat,9,E,
-6826SR,Bontekoestraat,15,,6
-6826ST,Bontekoestraat,21,,2
-6826ST,Bontekoestraat,17,A,
-6826ST,Bontekoestraat,17,E,
-6826ST,Bontekoestraat,23,,4
-6826SV,Bontekoestraat,25,,5
-6826SV,Bontekoestraat,25,D,
-6826SV,Bontekoestraat,27,,4
-6826SW,Bontekoestraat,14,,
-6826SW,Bontekoestraat,24,,
-6826SX,Bontekoestraat,38,,
-6826NH,Van Borselenstraat,19,,
-6826NH,Van Borselenstraat,39,,
-6826NJ,Van Borselenstraat,2,G,
-6826NJ,Van Borselenstraat,2,J,
-6826NJ,Van Borselenstraat,2,D,
-6826NJ,Van Borselenstraat,2,C,
-6826NJ,Van Borselenstraat,2,I,
-6826NJ,Van Borselenstraat,24,,
-6826NJ,Van Borselenstraat,24,,
-6826NK,Van Borselenstraat,36,,
-6826NK,Van Borselenstraat,36,,
-6826NK,Van Borselenstraat,38,,
-6826NK,Van Borselenstraat,38,,
-6826NK,Van Borselenstraat,42,,
-6826NK,Van Borselenstraat,42,,
-6826NL,Van Borselenstraat,62,,
-6826NL,Van Borselenstraat,62,,
-6826NL,Van Borselenstraat,58,C,
-6826NL,Van Borselenstraat,58,F,
-6826NL,Van Borselenstraat,58,,
-6826NL,Van Borselenstraat,58,,
-6826NL,Van Borselenstraat,58,H,
-6826NM,Van Borselenstraat,106,,
-6826NM,Van Borselenstraat,104,,
-6826NM,Van Borselenstraat,104,,
-6826NN,Van Borselenstraat,114,,
-6826NN,Van Borselenstraat,114,,
-6826NN,Van Borselenstraat,120,,
-6826NN,Van Borselenstraat,120,,
-6826NN,Van Borselenstraat,114,H,
-6826NP,Van Borselenstraat,150,,
-6826NP,Van Borselenstraat,150,,
-6826NR,Van Borselenstraat,170,J,
-6826NR,Van Borselenstraat,170,M,
-6826NR,Van Borselenstraat,176,,
-6826NR,Van Borselenstraat,176,,
-6826NR,Van Borselenstraat,170,D,
-6826NS,Van Borselenstraat,206,,
-6826NS,Van Borselenstraat,206,,
-6826PC,Swartenhondtstraat,9,,
-6826PC,Swartenhondtstraat,19,,
-6826PC,Swartenhondtstraat,7,,
-6826PC,Swartenhondtstraat,25,,
-6826SK,Stellingwerfstraat,49,,
-6826SL,Stellingwerfstraat,65,,3
-6826SN,Stellingwerfstraat,26,,
-6826SN,Stellingwerfstraat,26,,
-6826KB,Van Kampenstraat,51,,
-6826KC,Van Kampenstraat,38,,
-6826KC,Van Kampenstraat,38,,
-6826KC,Van Kampenstraat,2,I,
-6826KD,Van Kampenstraat,76,,
-6826KD,Van Kampenstraat,76,,
-6826RB,Karel Doormanstraat,1,F,
-6826RC,Karel Doormanstraat,45,,
-6826RD,Karel Doormanstraat,75,,
-6826RD,Karel Doormanstraat,91,,
-6826RE,Karel Doormanstraat,12,,
-6826RG,Karel Doormanstraat,60,,
-6826RG,Karel Doormanstraat,60,,
-6826RG,Karel Doormanstraat,52,E,
-6826RK,Karel Doormanstraat,152,,
-6826RK,Karel Doormanstraat,152,,
-6826RK,Karel Doormanstraat,138,A,
-6826PV,Keulse Slag,2,E,
-6826PV,Keulse Slag,12,,
-6826PV,Keulse Slag,8,,
-6826PV,Keulse Slag,20,,
-6826PV,Keulse Slag,36,,
-6826PW,Keulse Slag,62,,
-6826PW,Keulse Slag,62,,
-6826PW,Keulse Slag,94,,
-6826PW,Keulse Slag,58,,
-6826PW,Keulse Slag,58,,
-6826PW,Keulse Slag,74,,
-6826PW,Keulse Slag,74,,
-6826PX,Keulse Slag,110,,
-6826PX,Keulse Slag,118,,
-6826PX,Keulse Slag,120,,
-6826JA,Van Kinsbergenstraat,1,A,
-6826JA,Van Kinsbergenstraat,7,,
-6826JB,Van Kinsbergenstraat,61,,
-6826JE,Dedelstraat,1,C,
-6826JH,Dedelstraat,2,,
-6826JH,Dedelstraat,14,,
-6826JJ,Dedelstraat,34,,
-6826HS,Doeffstraat,50,,
-6826HS,Doeffstraat,50,,
-6826HS,Doeffstraat,50,G,
-6826HS,Doeffstraat,90,,
-6826HS,Doeffstraat,90,,
-6826HT,Doeffstraat,98,G,
-6826HT,Doeffstraat,98,A,
-6826HT,Doeffstraat,98,J,
-6826HW,Doeffstraat,216,,
-6826HW,Doeffstraat,216,,
-6826HW,Doeffstraat,214,,
-6826HW,Doeffstraat,214,,
-6826HW,Doeffstraat,180,,
-6826HW,Doeffstraat,180,,
-6826HW,Doeffstraat,186,,
-6826HW,Doeffstraat,186,,
-6826RL,Lacombléstraat,29,,
-6826RL,Lacombléstraat,29,,
-6826RL,Lacombléstraat,1,E,
-6826RM,Lacombléstraat,59,,
-6826RM,Lacombléstraat,75,,
-6826RM,Lacombléstraat,49,,
-6826RN,Lacombléstraat,14,,
-6826RN,Lacombléstraat,2,B,
-6826RP,Lacombléstraat,30,,
-6826RP,Lacombléstraat,36,,
-6826RP,Lacombléstraat,36,,
-6826RP,Lacombléstraat,60,,
-6826RP,Lacombléstraat,60,,
-6826NB,Lange Wal,20,,3
-6826NB,Lange Wal,24,,1
-6826NC,Lange Wal,32,,4
-6826ND,Lange Wal,46,,2
-6826ND,Lange Wal,40,,3
-6826ND,Lange Wal,48,,1
-6826ND,Lange Wal,50,,1
-6826NE,Lange Wal,62,,
-6826NW,Sonoystraat,17,,
-6826NW,Sonoystraat,7,,
-6826NW,Sonoystraat,1,D,
-6826NW,Sonoystraat,25,,
-6826NX,Sonoystraat,6,,
-6826NX,Sonoystraat,18,,
-6826HZ,Piet Heynpad,14,,
-6826HZ,Piet Heynpad,16,,
-6826HM,Van Speykstraat,21,,
-6826HM,Van Speykstraat,21,,
-6826HM,Van Speykstraat,49,,
-6826HM,Van Speykstraat,49,,
-6826HM,Van Speykstraat,17,,
-6826HM,Van Speykstraat,17,,
-6826HM,Van Speykstraat,41,,
-6826HM,Van Speykstraat,41,,
-6826HN,Van Speykstraat,24,,
-6826HN,Van Speykstraat,18,,
-6826JL,Carstenszstraat,47,,
-6826JL,Carstenszstraat,47,,
-6826PN,Honigkamp,2,A,
-6826PN,Honigkamp,2,A,
-6826PP,Honigkamp,4,,
-6826PP,Honigkamp,4,,
-6826PP,Honigkamp,4,,
-6826PR,Honigkamp,68,,
-6826PR,Honigkamp,56,,
-6826PS,Honigkamp,92,,
-6826PT,Honigkamp,136,,
-6826PT,Honigkamp,128,,
-6826PE,De Houtmanstraat,21,,
-6826PE,De Houtmanstraat,3,,
-6826PE,De Houtmanstraat,25,,
-6826PE,De Houtmanstraat,21,,
-6826PG,De Houtmanstraat,99,,
-6826PG,De Houtmanstraat,99,,
-6826PJ,De Houtmanstraat,6,,
-6826PJ,De Houtmanstraat,14,,
-6826PK,De Houtmanstraat,54,,
-6826PK,De Houtmanstraat,54,,
-6826RR,Hudsonstraat,4,,1
-6826RR,Hudsonstraat,4,,3
-6826RR,Hudsonstraat,8,,3
-6826RR,Hudsonstraat,9,,
-6826RS,Hudsonstraat,42,,
-6826RS,Hudsonstraat,46,,
-6826RS,Hudsonstraat,16,,
-6826RS,Hudsonstraat,16,,
-6826RS,Hudsonstraat,30,,
-6826RS,Hudsonstraat,30,,
-6826RS,Hudsonstraat,48,,
-6826SE,Floriszstraat,55,,2
-6826SE,Floriszstraat,57,,1
-6826SE,Floriszstraat,61,,2
-6826SE,Floriszstraat,55,,1
-6826SG,Floriszstraat,4,,1
-6826SG,Floriszstraat,8,,4
-6826SH,Floriszstraat,46,,
-6826SH,Floriszstraat,48,,
-6826SH,Floriszstraat,44,,
-6826SH,Floriszstraat,18,,
-6826SH,Floriszstraat,18,,
-6826SH,Floriszstraat,40,,
-6826SH,Floriszstraat,40,,
-6826RT,Van Galenstraat,31,,
-6826RT,Van Galenstraat,15,,
-6826RT,Van Galenstraat,17,,
-6826RV,Van Galenstraat,53,,
-6826RX,Van Galenstraat,6,,1
-6826RX,Van Galenstraat,4,,1
-6826RX,Van Galenstraat,2,,2
-6826RZ,Van Galenstraat,40,,
-6826RZ,Van Galenstraat,40,,
-6826JM,Van Nesstraat,23,,
-6826JM,Van Nesstraat,31,,
-6826JP,Van Nesstraat,16,,
-6826JP,Van Nesstraat,16,,
-6826JP,Van Nesstraat,2,E,
-6826JR,Van Nesstraat,42,,
-6826JR,Van Nesstraat,42,,
-6826JS,Van Nesstraat,74,,
-6826JS,Van Nesstraat,74,,
-6826JS,Van Nesstraat,88,,
-6826JS,Van Nesstraat,88,,
-6826JT,Van Nesstraat,110,,
-6826JT,Van Nesstraat,110,,
-6826NV,De Moorstraat,14,,
-6826NV,De Moorstraat,18,,
-6826NV,De Moorstraat,10,,
-6826TP,Ringoven,37,,
-6826TP,Ringoven,43,,
-6826TP,Ringoven,33,,
-6826TR,Ringoven,18,,
-6826TM,Vlamoven,53,,
-6826TM,Vlamoven,25,,
-6826TN,Vlamoven,2,A,
-6826TN,Vlamoven,40,,
-6826TN,Vlamoven,22,,
-6826PA,Van Ghentstraat,9,,
-6826PA,Van Ghentstraat,1,,
-6826PA,Van Ghentstraat,45,,
-6826PA,Van Ghentstraat,1,C,
-6826PA,Van Ghentstraat,1,D,
-6826PA,Van Ghentstraat,35,,
-6826PA,Van Ghentstraat,39,,
-6826PB,Van Ghentstraat,8,,
-6826PB,Van Ghentstraat,24,,
-6826PB,Van Ghentstraat,28,,
-6826PB,Van Ghentstraat,52,,
-6826PB,Van Ghentstraat,36,C,
-6826PB,Van Ghentstraat,46,,
-6826KG,Van der Goesstraat,3,,
-6826KJ,Van der Goesstraat,38,,
-6826KJ,Van der Goesstraat,38,,
-6826KJ,Van der Goesstraat,40,,
-6826KJ,Van der Goesstraat,40,,
-6826KK,Van der Goesstraat,88,,
-6826KK,Van der Goesstraat,88,,
-6826KL,Van der Goesstraat,124,,
-6826KL,Van der Goesstraat,124,,
-6826PD,Juinbolstraat,3,,
-6826TA,Bethaniënstraat,3,,
-6826TB,Bethaniënstraat,14,,
-6826TB,Bethaniënstraat,14,,
-6826TB,Bethaniënstraat,24,,
-6826TB,Bethaniënstraat,24,,
-6826TB,Bethaniënstraat,28,,
-6826TB,Bethaniënstraat,28,,
-6826TB,Bethaniënstraat,6,,
-6826TB,Bethaniënstraat,6,,
-6826TD,Bethaniënstraat,78,,
-6826TD,Bethaniënstraat,78,,
-6826TD,Bethaniënstraat,90,,
-6826TD,Bethaniënstraat,90,,
-6826TE,Bethaniënstraat,132,,
-6826TE,Bethaniënstraat,132,,
-6826TE,Bethaniënstraat,102,,
-6826TE,Bethaniënstraat,102,,
-6826TG,Bethaniënstraat,170,,
-6826TG,Bethaniënstraat,170,,
-6826TH,Bethaniënstraat,210,,
-6826TH,Bethaniënstraat,210,,
-6826TJ,Bethaniënstraat,226,,
-6826TJ,Bethaniënstraat,228,,
-6826TJ,Bethaniënstraat,232,,
-6826TJ,Bethaniënstraat,234,,
-6826TJ,Bethaniënstraat,236,,
-6826TJ,Bethaniënstraat,238,,
-6826TJ,Bethaniënstraat,222,A,
-6826TJ,Bethaniënstraat,222,B,
-6826TJ,Bethaniënstraat,222,C,
-6826TJ,Bethaniënstraat,230,,
-6826TJ,Bethaniënstraat,224,,
-6826TJ,Bethaniënstraat,248,,
-6826PZ,De Bitterstraat,20,,
-6826PZ,De Bitterstraat,34,,
-6826RA,De Bitterstraat,4,,
-6826RA,De Bitterstraat,11,,
-6826RA,De Bitterstraat,11,,
-6826SP,Bontekoestraat,3,,1
-6826SR,Bontekoestraat,9,,3
-6826SR,Bontekoestraat,9,C,
-6826ST,Bontekoestraat,19,,2
-6826ST,Bontekoestraat,19,,4
-6826ST,Bontekoestraat,21,,4
-6826ST,Bontekoestraat,21,,5
-6826ST,Bontekoestraat,17,D,
-6826ST,Bontekoestraat,23,,2
-6826SV,Bontekoestraat,29,,4
-6826SV,Bontekoestraat,25,A,
-6826SV,Bontekoestraat,27,,5
-6826SW,Bontekoestraat,10,,
-6826SW,Bontekoestraat,18,,
-6826SX,Bontekoestraat,46,,
-6826SX,Bontekoestraat,48,,
-6826SX,Bontekoestraat,52,,
-6826NH,Van Borselenstraat,25,,
-6826NH,Van Borselenstraat,7,,
-6826NL,Van Borselenstraat,58,A,
-6826NL,Van Borselenstraat,58,M,
-6826NN,Van Borselenstraat,134,,
-6826NN,Van Borselenstraat,134,,
-6826NN,Van Borselenstraat,114,B,
-6826NN,Van Borselenstraat,114,I,
-6826NR,Van Borselenstraat,170,K,
-6826NR,Van Borselenstraat,170,C,
-6826NS,Van Borselenstraat,200,,
-6826NS,Van Borselenstraat,200,,
-6826NS,Van Borselenstraat,214,,
-6826NS,Van Borselenstraat,214,,
-6826NS,Van Borselenstraat,222,,
-6826NS,Van Borselenstraat,222,,
-6826NT,Van Borselenstraat,232,,
-6826PC,Swartenhondtstraat,11,,
-6826PC,Swartenhondtstraat,15,,
-6826PC,Swartenhondtstraat,29,,
-6826PC,Swartenhondtstraat,23,,
-6826SL,Stellingwerfstraat,57,,2
-6826SM,Stellingwerfstraat,4,,2
-6826SN,Stellingwerfstraat,10,,
-6826SN,Stellingwerfstraat,10,,
-6825LS,Schaapdijk,5,,
-6825LS,Schaapdijk,4,,
-6825LS,Schaapdijk,2,,
-6826HA,Laan van Presikhaaf,3,,
-6826HA,Laan van Presikhaaf,5,,
-6826NG,Lange Wal,82,A,
-6826PN,Honigkamp,2,b,
-6826PN,Honigkamp,2,B,
-6826PN,Honigkamp,2,B,
-6826PR,Honigkamp,46,,
-6826PR,Honigkamp,46,,
-6826PR,Honigkamp,48,,
-6826PR,Honigkamp,48,,
-6826PR,Honigkamp,50,,
-6826PR,Honigkamp,50,,
-6826PK,De Houtmanstraat,1,A,
-6826PK,De Houtmanstraat,32,A,
-6826TS,Veldoven,11,,1
-6826TS,Veldoven,11,,4
-6826TS,Veldoven,11,,5
-6826TS,Veldoven,11,,8
-6826TS,Veldoven,11,,09
-6826TS,Veldoven,11,,9
-6826TS,Veldoven,11,,10
-6826TS,Veldoven,11,,11
-6826TR,Ringoven,4,,
-6826TR,Ringoven,4,,
-6826TR,Ringoven,10,,
-6826TR,Ringoven,10,,
-6826TM,Vlamoven,25,,
-6826TM,Vlamoven,15,,
-6826TM,Vlamoven,15,,
-6826TM,Vlamoven,17,,
-6826TM,Vlamoven,17,,
-6826TJ,Bethaniënstraat,244,,
-6826TJ,Bethaniënstraat,246,,
-6826PN,Roggeveenhof,56,,
-6826PN,Roggeveenhof,54,,
-6826PN,Roggeveenhof,52,,
-6826PN,Roggeveenhof,50,,
-6826PN,Roggeveenhof,48,,
-6826PN,Roggeveenhof,46,,
-6826PN,Roggeveenhof,44,,
-6826PN,Roggeveenhof,42,,
-6826PN,Roggeveenhof,40,,
-6826PN,Roggeveenhof,2,,
-6826PN,Roggeveenhof,4,,
-6826PN,Roggeveenhof,6,,
-6826PN,Roggeveenhof,8,,
-6826PN,Roggeveenhof,10,,
-6826PN,Roggeveenhof,12,,
-6826PN,Roggeveenhof,14,,
-6826PN,Roggeveenhof,16,,
-6826PN,Roggeveenhof,18,,
-6826PN,Roggeveenhof,20,,
-6826PN,Roggeveenhof,22,,
-6826PN,Roggeveenhof,24,,
-6826PN,Roggeveenhof,26,,
-6826PN,Roggeveenhof,28,,
-6826PN,Roggeveenhof,30,,
-6826PN,Roggeveenhof,32,,
-6826PN,Roggeveenhof,34,,
-6826PN,Roggeveenhof,36,,
-6826PN,Roggeveenhof,38,,
-6826JC,Van Kinsbergenstraat,34,,
-6826JC,Van Kinsbergenstraat,36,,
-6826JC,Van Kinsbergenstraat,38,,
-6826JC,Van Kinsbergenstraat,40,,
-6826JC,Van Kinsbergenstraat,42,,
-6826JC,Van Kinsbergenstraat,44,,
-6826JC,Van Kinsbergenstraat,46,,
-6826JC,Van Kinsbergenstraat,48,,
-6826PR,Honigkamp,58,,
-6826PR,Honigkamp,62,,
-6826PR,Honigkamp,66,,
-6826PR,Honigkamp,70,,
-6826PR,Honigkamp,74,,
-6826PR,Honigkamp,76,,
-6826PR,Honigkamp,82,,
-6826TR,Ringoven,18,A,
-6826TR,Ringoven,18,B,
-6826TR,Ringoven,18,C,
-6826TR,Ringoven,18,D,
-6826TR,Ringoven,18,E,
-6826TR,Ringoven,18,F,
-6826TR,Ringoven,18,G,
-6826TR,Ringoven,18,H,
-6826TR,Ringoven,18,J,
-6826TR,Ringoven,18,K,
-6826TM,Vlamoven,33,A,
-6826TM,Vlamoven,33,B,
-6826TM,Vlamoven,33,C,
-6826TM,Vlamoven,33,D,
-6826TM,Vlamoven,33,E,
-6826TM,Vlamoven,33,F,
-6826TM,Vlamoven,33,G,
-6826TM,Vlamoven,33,H,
-6826TM,Vlamoven,33,J,
-6826TM,Vlamoven,33,K,
-6826TM,Vlamoven,33,L,
-6826TM,Vlamoven,33,M,
-6826TM,Vlamoven,33,N,
-6826TM,Vlamoven,33,P,
-6826TM,Vlamoven,35,A,
-6826TM,Vlamoven,35,B,
-6826TM,Vlamoven,35,C,
-6826TM,Vlamoven,35,D,
-6826TM,Vlamoven,35,E,
-6826TM,Vlamoven,35,F,
-6826TM,Vlamoven,35,G,
-6826TM,Vlamoven,35,H,
-6826TM,Vlamoven,35,J,
-6826TM,Vlamoven,35,K,
-6826TM,Vlamoven,35,L,
-6826TM,Vlamoven,35,M,
-6826TM,Vlamoven,35,N,
-6826TM,Vlamoven,35,P,
-6826TN,Vlamoven,10,A,
-6826TN,Vlamoven,10,,
-6825LS,Schaapdijk,5,,
-6825LS,Schaapdijk,5,A,
-6825LS,Schaapdijk,5,B,
-6825LS,Schaapdijk,5,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Schaapdijk,11,"","",6825LS,Arnhem
+Schaapdijk,6,"","",6825LS,Arnhem
+Schaapdijk,9,"","",6825LS,Arnhem
+Van Speykstraat,1,C,"",6826HL,Arnhem
+Van Speykstraat,11,"","",6826HL,Arnhem
+Van Speykstraat,11,"","",6826HL,Arnhem
+Van Speykstraat,7,"","",6826HL,Arnhem
+Van Speykstraat,9,"","",6826HL,Arnhem
+Van Speykstraat,9,"","",6826HL,Arnhem
+Van Speykstraat,37,"","",6826HM,Arnhem
+Van Speykstraat,37,"","",6826HM,Arnhem
+Van Speykstraat,39,"","",6826HM,Arnhem
+Van Speykstraat,39,"","",6826HM,Arnhem
+Van Speykstraat,43,"","",6826HM,Arnhem
+Van Speykstraat,43,"","",6826HM,Arnhem
+Van Speykstraat,45,"","",6826HM,Arnhem
+Van Speykstraat,45,"","",6826HM,Arnhem
+Van Speykstraat,53,"","",6826HM,Arnhem
+Van Speykstraat,53,"","",6826HM,Arnhem
+Van Speykstraat,55,"","",6826HM,Arnhem
+Van Speykstraat,55,"","",6826HM,Arnhem
+Van Speykstraat,61,"","",6826HM,Arnhem
+Van Speykstraat,61,"","",6826HM,Arnhem
+Van Speykstraat,14,"","",6826HN,Arnhem
+Van Speykstraat,26,"","",6826HN,Arnhem
+Van Speykstraat,34,"","",6826HP,Arnhem
+Van Speykstraat,40,"","",6826HP,Arnhem
+Van Speykstraat,42,"","",6826HP,Arnhem
+Van Speykstraat,54,"","",6826HP,Arnhem
+Van Speykstraat,64,"","",6826HP,Arnhem
+Doeffstraat,14,"","",6826HR,Arnhem
+Doeffstraat,14,"","",6826HR,Arnhem
+Doeffstraat,2,C,"",6826HR,Arnhem
+Doeffstraat,20,"","",6826HR,Arnhem
+Doeffstraat,20,"","",6826HR,Arnhem
+Doeffstraat,46,"","",6826HR,Arnhem
+Doeffstraat,46,"","",6826HR,Arnhem
+Doeffstraat,50,C,"",6826HS,Arnhem
+Doeffstraat,50,F,"",6826HS,Arnhem
+Doeffstraat,50,H,"",6826HS,Arnhem
+Doeffstraat,52,"","",6826HS,Arnhem
+Doeffstraat,52,"","",6826HS,Arnhem
+Doeffstraat,58,"","",6826HS,Arnhem
+Doeffstraat,58,"","",6826HS,Arnhem
+Doeffstraat,72,"","",6826HS,Arnhem
+Doeffstraat,72,"","",6826HS,Arnhem
+Doeffstraat,76,"","",6826HS,Arnhem
+Doeffstraat,76,"","",6826HS,Arnhem
+Doeffstraat,78,"","",6826HS,Arnhem
+Doeffstraat,78,"","",6826HS,Arnhem
+Doeffstraat,80,"","",6826HS,Arnhem
+Doeffstraat,80,"","",6826HS,Arnhem
+Doeffstraat,82,"","",6826HS,Arnhem
+Doeffstraat,82,"","",6826HS,Arnhem
+Doeffstraat,84,"","",6826HS,Arnhem
+Doeffstraat,84,"","",6826HS,Arnhem
+Doeffstraat,92,"","",6826HS,Arnhem
+Doeffstraat,92,"","",6826HS,Arnhem
+Doeffstraat,100,"","",6826HT,Arnhem
+Doeffstraat,100,"","",6826HT,Arnhem
+Doeffstraat,104,"","",6826HT,Arnhem
+Doeffstraat,104,"","",6826HT,Arnhem
+Doeffstraat,106,"","",6826HT,Arnhem
+Doeffstraat,106,"","",6826HT,Arnhem
+Doeffstraat,112,"","",6826HT,Arnhem
+Doeffstraat,112,"","",6826HT,Arnhem
+Doeffstraat,114,"","",6826HT,Arnhem
+Doeffstraat,114,"","",6826HT,Arnhem
+Doeffstraat,118,"","",6826HT,Arnhem
+Doeffstraat,118,"","",6826HT,Arnhem
+Doeffstraat,124,"","",6826HT,Arnhem
+Doeffstraat,124,"","",6826HT,Arnhem
+Doeffstraat,136,"","",6826HT,Arnhem
+Doeffstraat,136,"","",6826HT,Arnhem
+Doeffstraat,140,"","",6826HT,Arnhem
+Doeffstraat,140,"","",6826HT,Arnhem
+Doeffstraat,98,C,"",6826HT,Arnhem
+Doeffstraat,98,D,"",6826HT,Arnhem
+Doeffstraat,98,E,"",6826HT,Arnhem
+Doeffstraat,98,F,"",6826HT,Arnhem
+Doeffstraat,146,"","",6826HV,Arnhem
+Doeffstraat,146,"","",6826HV,Arnhem
+Doeffstraat,148,"","",6826HV,Arnhem
+Doeffstraat,148,"","",6826HV,Arnhem
+Doeffstraat,150,"","",6826HV,Arnhem
+Doeffstraat,150,"","",6826HV,Arnhem
+Doeffstraat,154,"","",6826HV,Arnhem
+Doeffstraat,154,"","",6826HV,Arnhem
+Doeffstraat,156,"","",6826HV,Arnhem
+Doeffstraat,158,"","",6826HV,Arnhem
+Doeffstraat,158,"","",6826HV,Arnhem
+Doeffstraat,162,"","",6826HV,Arnhem
+Doeffstraat,162,"","",6826HV,Arnhem
+Doeffstraat,170,"","",6826HW,Arnhem
+Doeffstraat,170,"","",6826HW,Arnhem
+Doeffstraat,172,"","",6826HW,Arnhem
+Doeffstraat,172,"","",6826HW,Arnhem
+Doeffstraat,174,"","",6826HW,Arnhem
+Doeffstraat,174,"","",6826HW,Arnhem
+Doeffstraat,182,"","",6826HW,Arnhem
+Doeffstraat,182,"","",6826HW,Arnhem
+Doeffstraat,198,"","",6826HW,Arnhem
+Doeffstraat,198,"","",6826HW,Arnhem
+Doeffstraat,202,"","",6826HW,Arnhem
+Doeffstraat,202,"","",6826HW,Arnhem
+Doeffstraat,206,"","",6826HW,Arnhem
+Doeffstraat,206,"","",6826HW,Arnhem
+Doeffstraat,208,"","",6826HW,Arnhem
+Doeffstraat,208,"","",6826HW,Arnhem
+Doeffstraat,210,"","",6826HW,Arnhem
+Doeffstraat,210,"","",6826HW,Arnhem
+Piet Heynpad,12,"","",6826HZ,Arnhem
+Van Kinsbergenstraat,1,"","",6826JA,Arnhem
+Van Kinsbergenstraat,1,"","",6826JA,Arnhem
+Van Kinsbergenstraat,5,"","",6826JA,Arnhem
+Van Kinsbergenstraat,5,"","",6826JA,Arnhem
+Van Kinsbergenstraat,9,"","",6826JA,Arnhem
+Van Kinsbergenstraat,9,"","",6826JA,Arnhem
+Van Kinsbergenstraat,27,"","",6826JB,Arnhem
+Van Kinsbergenstraat,27,"","",6826JB,Arnhem
+Van Kinsbergenstraat,37,"","",6826JB,Arnhem
+Van Kinsbergenstraat,37,"","",6826JB,Arnhem
+Van Kinsbergenstraat,43,"","",6826JB,Arnhem
+Van Kinsbergenstraat,43,"","",6826JB,Arnhem
+Van Kinsbergenstraat,45,"","",6826JB,Arnhem
+Van Kinsbergenstraat,45,"","",6826JB,Arnhem
+Van Kinsbergenstraat,18,"","",6826JC,Arnhem
+Van Kinsbergenstraat,26,"","",6826JC,Arnhem
+Van Kinsbergenstraat,32,"","",6826JC,Arnhem
+Van Kinsbergenstraat,38,"","",6826JC,Arnhem
+Van Kinsbergenstraat,38,"","",6826JC,Arnhem
+Van Kinsbergenstraat,48,"","",6826JC,Arnhem
+Van Kinsbergenstraat,48,"","",6826JC,Arnhem
+Van Kinsbergenstraat,64,"","",6826JD,Arnhem
+Dedelstraat,1,"","",6826JE,Arnhem
+Dedelstraat,1,"","",6826JE,Arnhem
+Dedelstraat,1,D,"",6826JE,Arnhem
+Dedelstraat,11,"","",6826JE,Arnhem
+Dedelstraat,11,"","",6826JE,Arnhem
+Dedelstraat,5,"","",6826JE,Arnhem
+Dedelstraat,5,"","",6826JE,Arnhem
+Dedelstraat,7,"","",6826JE,Arnhem
+Dedelstraat,7,"","",6826JE,Arnhem
+Dedelstraat,9,"","",6826JE,Arnhem
+Dedelstraat,9,"","",6826JE,Arnhem
+Dedelstraat,33,"","",6826JG,Arnhem
+Dedelstraat,33,"","",6826JG,Arnhem
+Dedelstraat,37,"","",6826JG,Arnhem
+Dedelstraat,37,"","",6826JG,Arnhem
+Dedelstraat,53,"","",6826JG,Arnhem
+Dedelstraat,53,"","",6826JG,Arnhem
+Dedelstraat,10,"","",6826JH,Arnhem
+Dedelstraat,18,"","",6826JH,Arnhem
+Dedelstraat,24,"","",6826JH,Arnhem
+Dedelstraat,28,"","",6826JH,Arnhem
+Dedelstraat,8,"","",6826JH,Arnhem
+Dedelstraat,36,"","",6826JJ,Arnhem
+Dedelstraat,38,"","",6826JJ,Arnhem
+Dedelstraat,40,"","",6826JJ,Arnhem
+Dedelstraat,42,"","",6826JJ,Arnhem
+Dedelstraat,44,"","",6826JJ,Arnhem
+Dedelstraat,54,"","",6826JJ,Arnhem
+Dedelstraat,58,"","",6826JJ,Arnhem
+Dedelstraat,62,"","",6826JJ,Arnhem
+Carstenszstraat,1,C,"",6826JK,Arnhem
+Carstenszstraat,1,D,"",6826JK,Arnhem
+Carstenszstraat,11,"","",6826JK,Arnhem
+Carstenszstraat,11,"","",6826JK,Arnhem
+Carstenszstraat,13,"","",6826JK,Arnhem
+Carstenszstraat,13,"","",6826JK,Arnhem
+Carstenszstraat,25,"","",6826JL,Arnhem
+Carstenszstraat,25,"","",6826JL,Arnhem
+Carstenszstraat,27,"","",6826JL,Arnhem
+Carstenszstraat,27,"","",6826JL,Arnhem
+Carstenszstraat,33,"","",6826JL,Arnhem
+Carstenszstraat,33,"","",6826JL,Arnhem
+Carstenszstraat,39,"","",6826JL,Arnhem
+Carstenszstraat,39,"","",6826JL,Arnhem
+Carstenszstraat,43,"","",6826JL,Arnhem
+Carstenszstraat,43,"","",6826JL,Arnhem
+Carstenszstraat,45,"","",6826JL,Arnhem
+Carstenszstraat,45,"","",6826JL,Arnhem
+Carstenszstraat,51,"","",6826JL,Arnhem
+Carstenszstraat,51,"","",6826JL,Arnhem
+Carstenszstraat,57,"","",6826JL,Arnhem
+Carstenszstraat,57,"","",6826JL,Arnhem
+Van Nesstraat,1,"","",6826JM,Arnhem
+Van Nesstraat,17,"","",6826JM,Arnhem
+Van Nesstraat,21,"","",6826JM,Arnhem
+Van Nesstraat,29,"","",6826JM,Arnhem
+Van Nesstraat,3,"","",6826JM,Arnhem
+Van Nesstraat,33,"","",6826JM,Arnhem
+Van Nesstraat,33,A,"",6826JM,Arnhem
+Van Nesstraat,5,"","",6826JM,Arnhem
+Van Nesstraat,37,"","",6826JN,Arnhem
+Van Nesstraat,41,"","",6826JN,Arnhem
+Van Nesstraat,43,"","",6826JN,Arnhem
+Van Nesstraat,45,"","",6826JN,Arnhem
+Van Nesstraat,47,"","",6826JN,Arnhem
+Van Nesstraat,51,"","",6826JN,Arnhem
+Van Nesstraat,55,"","",6826JN,Arnhem
+Van Nesstraat,57,"","",6826JN,Arnhem
+Van Nesstraat,65,"","",6826JN,Arnhem
+Van Nesstraat,10,"","",6826JP,Arnhem
+Van Nesstraat,10,"","",6826JP,Arnhem
+Van Nesstraat,2,"","",6826JP,Arnhem
+Van Nesstraat,2,"","",6826JP,Arnhem
+Van Nesstraat,2,A,"",6826JP,Arnhem
+Van Nesstraat,2,F,"",6826JP,Arnhem
+Van Nesstraat,2,I,"",6826JP,Arnhem
+Van Nesstraat,2,N,"",6826JP,Arnhem
+Van Nesstraat,24,"","",6826JP,Arnhem
+Van Nesstraat,24,"","",6826JP,Arnhem
+Van Nesstraat,28,"","",6826JP,Arnhem
+Van Nesstraat,28,"","",6826JP,Arnhem
+Van Nesstraat,30,"","",6826JP,Arnhem
+Van Nesstraat,30,"","",6826JP,Arnhem
+Van Nesstraat,32,"","",6826JP,Arnhem
+Van Nesstraat,32,"","",6826JP,Arnhem
+Van Nesstraat,4,"","",6826JP,Arnhem
+Van Nesstraat,4,"","",6826JP,Arnhem
+Van Nesstraat,8,"","",6826JP,Arnhem
+Van Nesstraat,8,"","",6826JP,Arnhem
+Van Nesstraat,34,"","",6826JR,Arnhem
+Van Nesstraat,34,"","",6826JR,Arnhem
+Van Nesstraat,40,"","",6826JR,Arnhem
+Van Nesstraat,40,"","",6826JR,Arnhem
+Van Nesstraat,48,"","",6826JR,Arnhem
+Van Nesstraat,48,"","",6826JR,Arnhem
+Van Nesstraat,52,"","",6826JR,Arnhem
+Van Nesstraat,52,"","",6826JR,Arnhem
+Van Nesstraat,54,"","",6826JR,Arnhem
+Van Nesstraat,54,"","",6826JR,Arnhem
+Van Nesstraat,56,"","",6826JR,Arnhem
+Van Nesstraat,56,"","",6826JR,Arnhem
+Van Nesstraat,60,"","",6826JR,Arnhem
+Van Nesstraat,60,"","",6826JR,Arnhem
+Van Nesstraat,66,"","",6826JS,Arnhem
+Van Nesstraat,66,"","",6826JS,Arnhem
+Van Nesstraat,70,"","",6826JS,Arnhem
+Van Nesstraat,70,"","",6826JS,Arnhem
+Van Nesstraat,80,"","",6826JS,Arnhem
+Van Nesstraat,80,"","",6826JS,Arnhem
+Van Nesstraat,82,"","",6826JS,Arnhem
+Van Nesstraat,82,"","",6826JS,Arnhem
+Van Nesstraat,86,"","",6826JS,Arnhem
+Van Nesstraat,86,"","",6826JS,Arnhem
+Van Nesstraat,92,"","",6826JS,Arnhem
+Van Nesstraat,92,"","",6826JS,Arnhem
+Van Nesstraat,104,"","",6826JT,Arnhem
+Van Nesstraat,104,"","",6826JT,Arnhem
+Van Nesstraat,106,"","",6826JT,Arnhem
+Van Nesstraat,106,"","",6826JT,Arnhem
+Van Nesstraat,114,"","",6826JT,Arnhem
+Van Nesstraat,114,"","",6826JT,Arnhem
+Van Nesstraat,116,"","",6826JT,Arnhem
+Van Nesstraat,116,"","",6826JT,Arnhem
+Van Nesstraat,120,"","",6826JT,Arnhem
+Van Nesstraat,120,"","",6826JT,Arnhem
+Van Nesstraat,126,"","",6826JT,Arnhem
+Van Nesstraat,126,"","",6826JT,Arnhem
+Van Kampenstraat,1,"","",6826KA,Arnhem
+Van Kampenstraat,11,"","",6826KA,Arnhem
+Van Kampenstraat,13,"","",6826KA,Arnhem
+Van Kampenstraat,23,"","",6826KA,Arnhem
+Van Kampenstraat,25,"","",6826KA,Arnhem
+Van Kampenstraat,27,"","",6826KA,Arnhem
+Van Kampenstraat,3,"","",6826KA,Arnhem
+Van Kampenstraat,5,"","",6826KA,Arnhem
+Van Kampenstraat,7,"","",6826KA,Arnhem
+Van Kampenstraat,9,"","",6826KA,Arnhem
+Van Kampenstraat,45,"","",6826KB,Arnhem
+Van Kampenstraat,47,"","",6826KB,Arnhem
+Van Kampenstraat,55,"","",6826KB,Arnhem
+Van Kampenstraat,63,"","",6826KB,Arnhem
+Van Kampenstraat,65,"","",6826KB,Arnhem
+Van Kampenstraat,67,"","",6826KB,Arnhem
+Van Kampenstraat,10,"","",6826KC,Arnhem
+Van Kampenstraat,10,"","",6826KC,Arnhem
+Van Kampenstraat,16,"","",6826KC,Arnhem
+Van Kampenstraat,16,"","",6826KC,Arnhem
+Van Kampenstraat,2,A,"",6826KC,Arnhem
+Van Kampenstraat,2,B,"",6826KC,Arnhem
+Van Kampenstraat,2,C,"",6826KC,Arnhem
+Van Kampenstraat,2,E,"",6826KC,Arnhem
+Van Kampenstraat,2,F,"",6826KC,Arnhem
+Van Kampenstraat,2,K,"",6826KC,Arnhem
+Van Kampenstraat,2,L,"",6826KC,Arnhem
+Van Kampenstraat,20,"","",6826KC,Arnhem
+Van Kampenstraat,20,"","",6826KC,Arnhem
+Van Kampenstraat,24,"","",6826KC,Arnhem
+Van Kampenstraat,24,"","",6826KC,Arnhem
+Van Kampenstraat,26,"","",6826KC,Arnhem
+Van Kampenstraat,26,"","",6826KC,Arnhem
+Van Kampenstraat,28,"","",6826KC,Arnhem
+Van Kampenstraat,28,"","",6826KC,Arnhem
+Van Kampenstraat,32,"","",6826KC,Arnhem
+Van Kampenstraat,32,"","",6826KC,Arnhem
+Van Kampenstraat,4,"","",6826KC,Arnhem
+Van Kampenstraat,4,"","",6826KC,Arnhem
+Van Kampenstraat,40,"","",6826KC,Arnhem
+Van Kampenstraat,40,"","",6826KC,Arnhem
+Van Kampenstraat,50,"","",6826KD,Arnhem
+Van Kampenstraat,50,"","",6826KD,Arnhem
+Van Kampenstraat,52,"","",6826KD,Arnhem
+Van Kampenstraat,52,"","",6826KD,Arnhem
+Van Kampenstraat,54,"","",6826KD,Arnhem
+Van Kampenstraat,54,"","",6826KD,Arnhem
+Van Kampenstraat,56,"","",6826KD,Arnhem
+Van Kampenstraat,56,"","",6826KD,Arnhem
+Van Kampenstraat,60,"","",6826KD,Arnhem
+Van Kampenstraat,60,"","",6826KD,Arnhem
+Van Kampenstraat,62,"","",6826KD,Arnhem
+Van Kampenstraat,62,"","",6826KD,Arnhem
+Van Kampenstraat,74,"","",6826KD,Arnhem
+Van Kampenstraat,74,"","",6826KD,Arnhem
+Van Kampenstraat,80,"","",6826KD,Arnhem
+Van Kampenstraat,80,"","",6826KD,Arnhem
+Van Kampenstraat,82,"","",6826KD,Arnhem
+Van Kampenstraat,82,"","",6826KD,Arnhem
+Van Kampenstraat,86,"","",6826KD,Arnhem
+Van Kampenstraat,86,"","",6826KD,Arnhem
+Van Kampenstraat,90,"","",6826KD,Arnhem
+Van Kampenstraat,90,"","",6826KD,Arnhem
+Van Kampenstraat,92,"","",6826KD,Arnhem
+Van Kampenstraat,92,"","",6826KD,Arnhem
+Van Kampenstraat,96,"","",6826KD,Arnhem
+Van Kampenstraat,96,"","",6826KD,Arnhem
+Van Kampenstraat,102,"","",6826KE,Arnhem
+Van Kampenstraat,102,"","",6826KE,Arnhem
+Van Kampenstraat,112,"","",6826KE,Arnhem
+Van Kampenstraat,112,"","",6826KE,Arnhem
+Van Kampenstraat,114,"","",6826KE,Arnhem
+Van Kampenstraat,114,"","",6826KE,Arnhem
+Van Kampenstraat,118,"","",6826KE,Arnhem
+Van Kampenstraat,118,"","",6826KE,Arnhem
+Van Kampenstraat,126,"","",6826KE,Arnhem
+Van Kampenstraat,126,"","",6826KE,Arnhem
+Van der Goesstraat,17,"","",6826KG,Arnhem
+Van der Goesstraat,19,"","",6826KG,Arnhem
+Van der Goesstraat,9,"","",6826KG,Arnhem
+Van der Goesstraat,35,"","",6826KH,Arnhem
+Van der Goesstraat,45,"","",6826KH,Arnhem
+Van der Goesstraat,47,"","",6826KH,Arnhem
+Van der Goesstraat,51,"","",6826KH,Arnhem
+Van der Goesstraat,55,"","",6826KH,Arnhem
+Van der Goesstraat,59,"","",6826KH,Arnhem
+Van der Goesstraat,65,"","",6826KH,Arnhem
+Van der Goesstraat,67,"","",6826KH,Arnhem
+Van der Goesstraat,69,"","",6826KH,Arnhem
+Van der Goesstraat,14,"","",6826KJ,Arnhem
+Van der Goesstraat,14,"","",6826KJ,Arnhem
+Van der Goesstraat,18,"","",6826KJ,Arnhem
+Van der Goesstraat,18,"","",6826KJ,Arnhem
+Van der Goesstraat,2,E,"",6826KJ,Arnhem
+Van der Goesstraat,2,I,"",6826KJ,Arnhem
+Van der Goesstraat,2,K,"",6826KJ,Arnhem
+Van der Goesstraat,2,L,"",6826KJ,Arnhem
+Van der Goesstraat,26,"","",6826KJ,Arnhem
+Van der Goesstraat,26,"","",6826KJ,Arnhem
+Van der Goesstraat,30,"","",6826KJ,Arnhem
+Van der Goesstraat,30,"","",6826KJ,Arnhem
+Van der Goesstraat,4,"","",6826KJ,Arnhem
+Van der Goesstraat,4,"","",6826KJ,Arnhem
+Van der Goesstraat,8,"","",6826KJ,Arnhem
+Van der Goesstraat,8,"","",6826KJ,Arnhem
+Van der Goesstraat,56,"","",6826KK,Arnhem
+Van der Goesstraat,56,"","",6826KK,Arnhem
+Van der Goesstraat,58,"","",6826KK,Arnhem
+Van der Goesstraat,62,"","",6826KK,Arnhem
+Van der Goesstraat,62,"","",6826KK,Arnhem
+Van der Goesstraat,90,"","",6826KK,Arnhem
+Van der Goesstraat,90,"","",6826KK,Arnhem
+Van der Goesstraat,92,"","",6826KK,Arnhem
+Van der Goesstraat,92,"","",6826KK,Arnhem
+Van der Goesstraat,98,"","",6826KK,Arnhem
+Van der Goesstraat,98,"","",6826KK,Arnhem
+Van der Goesstraat,106,"","",6826KL,Arnhem
+Van der Goesstraat,106,"","",6826KL,Arnhem
+Van der Goesstraat,108,"","",6826KL,Arnhem
+Van der Goesstraat,108,"","",6826KL,Arnhem
+Van der Goesstraat,114,"","",6826KL,Arnhem
+Van der Goesstraat,114,"","",6826KL,Arnhem
+Van der Goesstraat,116,"","",6826KL,Arnhem
+Van der Goesstraat,116,"","",6826KL,Arnhem
+Van der Goesstraat,118,"","",6826KL,Arnhem
+Van der Goesstraat,118,"","",6826KL,Arnhem
+Van der Goesstraat,126,"","",6826KL,Arnhem
+Van der Goesstraat,126,"","",6826KL,Arnhem
+Van der Goesstraat,130,"","",6826KL,Arnhem
+Van der Goesstraat,130,"","",6826KL,Arnhem
+Lange Wal,16,"",4,6826NB,Arnhem
+Lange Wal,18,"",1,6826NB,Arnhem
+Lange Wal,18,"",3,6826NB,Arnhem
+Lange Wal,20,"",1,6826NB,Arnhem
+Lange Wal,20,"",2,6826NB,Arnhem
+Lange Wal,20,"",4,6826NB,Arnhem
+Lange Wal,22,"",1,6826NB,Arnhem
+Lange Wal,22,"",2,6826NB,Arnhem
+Lange Wal,24,"",2,6826NB,Arnhem
+Lange Wal,24,"",4,6826NB,Arnhem
+Lange Wal,26,"",2,6826NB,Arnhem
+Lange Wal,28,"",4,6826NC,Arnhem
+Lange Wal,30,"",1,6826NC,Arnhem
+Lange Wal,32,"",1,6826NC,Arnhem
+Lange Wal,36,"",1,6826NC,Arnhem
+Lange Wal,36,"",3,6826NC,Arnhem
+Lange Wal,36,"",4,6826NC,Arnhem
+Lange Wal,38,"",2,6826NC,Arnhem
+Lange Wal,38,"",3,6826NC,Arnhem
+Lange Wal,42,"",1,6826ND,Arnhem
+Lange Wal,42,"",3,6826ND,Arnhem
+Lange Wal,42,"",4,6826ND,Arnhem
+Lange Wal,44,"",4,6826ND,Arnhem
+Lange Wal,46,"",1,6826ND,Arnhem
+Lange Wal,46,"",3,6826ND,Arnhem
+Lange Wal,48,"",2,6826ND,Arnhem
+Lange Wal,50,"",2,6826ND,Arnhem
+Lange Wal,50,"",3,6826ND,Arnhem
+Lange Wal,50,"",4,6826ND,Arnhem
+Lange Wal,52,"","",6826NE,Arnhem
+Lange Wal,54,"","",6826NE,Arnhem
+Lange Wal,74,"","",6826NE,Arnhem
+Lange Wal,78,"","",6826NE,Arnhem
+Lange Wal,100,"","",6826NG,Arnhem
+Lange Wal,100,"","",6826NG,Arnhem
+Lange Wal,108,"","",6826NG,Arnhem
+Lange Wal,108,"","",6826NG,Arnhem
+Lange Wal,116,"","",6826NG,Arnhem
+Lange Wal,116,"","",6826NG,Arnhem
+Lange Wal,122,"","",6826NG,Arnhem
+Lange Wal,122,"","",6826NG,Arnhem
+Lange Wal,126,"","",6826NG,Arnhem
+Lange Wal,126,"","",6826NG,Arnhem
+Lange Wal,86,"","",6826NG,Arnhem
+Lange Wal,86,"","",6826NG,Arnhem
+Lange Wal,88,"","",6826NG,Arnhem
+Lange Wal,88,"","",6826NG,Arnhem
+Lange Wal,94,"","",6826NG,Arnhem
+Lange Wal,94,"","",6826NG,Arnhem
+Lange Wal,96,"","",6826NG,Arnhem
+Lange Wal,96,"","",6826NG,Arnhem
+Lange Wal,98,"","",6826NG,Arnhem
+Lange Wal,98,"","",6826NG,Arnhem
+Van Borselenstraat,1,"","",6826NH,Arnhem
+Van Borselenstraat,1,A,"",6826NH,Arnhem
+Van Borselenstraat,1,E,"",6826NH,Arnhem
+Van Borselenstraat,27,"","",6826NH,Arnhem
+Van Borselenstraat,35,"","",6826NH,Arnhem
+Van Borselenstraat,43,"","",6826NH,Arnhem
+Van Borselenstraat,45,"","",6826NH,Arnhem
+Van Borselenstraat,5,"","",6826NH,Arnhem
+Van Borselenstraat,10,"","",6826NJ,Arnhem
+Van Borselenstraat,10,"","",6826NJ,Arnhem
+Van Borselenstraat,12,"","",6826NJ,Arnhem
+Van Borselenstraat,12,"","",6826NJ,Arnhem
+Van Borselenstraat,14,"","",6826NJ,Arnhem
+Van Borselenstraat,14,"","",6826NJ,Arnhem
+Van Borselenstraat,16,"","",6826NJ,Arnhem
+Van Borselenstraat,16,"","",6826NJ,Arnhem
+Van Borselenstraat,18,"","",6826NJ,Arnhem
+Van Borselenstraat,18,"","",6826NJ,Arnhem
+Van Borselenstraat,2,B,"",6826NJ,Arnhem
+Van Borselenstraat,2,K,"",6826NJ,Arnhem
+Van Borselenstraat,2,L,"",6826NJ,Arnhem
+Van Borselenstraat,4,"","",6826NJ,Arnhem
+Van Borselenstraat,4,"","",6826NJ,Arnhem
+Van Borselenstraat,6,"","",6826NJ,Arnhem
+Van Borselenstraat,6,"","",6826NJ,Arnhem
+Van Borselenstraat,32,"","",6826NK,Arnhem
+Van Borselenstraat,32,"","",6826NK,Arnhem
+Van Borselenstraat,40,"","",6826NK,Arnhem
+Van Borselenstraat,40,"","",6826NK,Arnhem
+Van Borselenstraat,44,"","",6826NK,Arnhem
+Van Borselenstraat,44,"","",6826NK,Arnhem
+Van Borselenstraat,46,"","",6826NK,Arnhem
+Van Borselenstraat,46,"","",6826NK,Arnhem
+Van Borselenstraat,50,"","",6826NK,Arnhem
+Van Borselenstraat,50,"","",6826NK,Arnhem
+Van Borselenstraat,54,"","",6826NK,Arnhem
+Van Borselenstraat,54,"","",6826NK,Arnhem
+Van Borselenstraat,58,B,"",6826NL,Arnhem
+Van Borselenstraat,58,E,"",6826NL,Arnhem
+Van Borselenstraat,58,G,"",6826NL,Arnhem
+Van Borselenstraat,58,J,"",6826NL,Arnhem
+Van Borselenstraat,58,L,"",6826NL,Arnhem
+Van Borselenstraat,60,"","",6826NL,Arnhem
+Van Borselenstraat,60,"","",6826NL,Arnhem
+Van Borselenstraat,64,"","",6826NL,Arnhem
+Van Borselenstraat,64,"","",6826NL,Arnhem
+Van Borselenstraat,72,"","",6826NL,Arnhem
+Van Borselenstraat,72,"","",6826NL,Arnhem
+Van Borselenstraat,80,"","",6826NL,Arnhem
+Van Borselenstraat,80,"","",6826NL,Arnhem
+Van Borselenstraat,82,"","",6826NL,Arnhem
+Van Borselenstraat,82,"","",6826NL,Arnhem
+Van Borselenstraat,110,"","",6826NM,Arnhem
+Van Borselenstraat,110,"","",6826NM,Arnhem
+Van Borselenstraat,86,"","",6826NM,Arnhem
+Van Borselenstraat,86,"","",6826NM,Arnhem
+Van Borselenstraat,90,"","",6826NM,Arnhem
+Van Borselenstraat,90,"","",6826NM,Arnhem
+Van Borselenstraat,94,"","",6826NM,Arnhem
+Van Borselenstraat,94,"","",6826NM,Arnhem
+Van Borselenstraat,96,"","",6826NM,Arnhem
+Van Borselenstraat,96,"","",6826NM,Arnhem
+Van Borselenstraat,114,A,"",6826NN,Arnhem
+Van Borselenstraat,114,D,"",6826NN,Arnhem
+Van Borselenstraat,114,G,"",6826NN,Arnhem
+Van Borselenstraat,114,J,"",6826NN,Arnhem
+Van Borselenstraat,114,K,"",6826NN,Arnhem
+Van Borselenstraat,124,"","",6826NN,Arnhem
+Van Borselenstraat,124,"","",6826NN,Arnhem
+Van Borselenstraat,128,"","",6826NN,Arnhem
+Van Borselenstraat,128,"","",6826NN,Arnhem
+Van Borselenstraat,138,"","",6826NN,Arnhem
+Van Borselenstraat,138,"","",6826NN,Arnhem
+Van Borselenstraat,140,"","",6826NN,Arnhem
+Van Borselenstraat,140,"","",6826NN,Arnhem
+Van Borselenstraat,142,"","",6826NP,Arnhem
+Van Borselenstraat,142,"","",6826NP,Arnhem
+Van Borselenstraat,146,"","",6826NP,Arnhem
+Van Borselenstraat,146,"","",6826NP,Arnhem
+Van Borselenstraat,162,"","",6826NP,Arnhem
+Van Borselenstraat,166,"","",6826NP,Arnhem
+Van Borselenstraat,166,"","",6826NP,Arnhem
+Van Borselenstraat,170,"","",6826NR,Arnhem
+Van Borselenstraat,170,"","",6826NR,Arnhem
+Van Borselenstraat,170,A,"",6826NR,Arnhem
+Van Borselenstraat,170,B,"",6826NR,Arnhem
+Van Borselenstraat,178,"","",6826NR,Arnhem
+Van Borselenstraat,178,"","",6826NR,Arnhem
+Van Borselenstraat,182,"","",6826NR,Arnhem
+Van Borselenstraat,182,"","",6826NR,Arnhem
+Van Borselenstraat,184,"","",6826NR,Arnhem
+Van Borselenstraat,184,"","",6826NR,Arnhem
+Van Borselenstraat,186,"","",6826NR,Arnhem
+Van Borselenstraat,186,"","",6826NR,Arnhem
+Van Borselenstraat,188,"","",6826NR,Arnhem
+Van Borselenstraat,188,"","",6826NR,Arnhem
+Van Borselenstraat,190,"","",6826NR,Arnhem
+Van Borselenstraat,190,"","",6826NR,Arnhem
+Van Borselenstraat,198,"","",6826NS,Arnhem
+Van Borselenstraat,198,"","",6826NS,Arnhem
+Van Borselenstraat,202,"","",6826NS,Arnhem
+Van Borselenstraat,202,"","",6826NS,Arnhem
+Van Borselenstraat,204,"","",6826NS,Arnhem
+Van Borselenstraat,204,"","",6826NS,Arnhem
+Van Borselenstraat,210,"","",6826NS,Arnhem
+Van Borselenstraat,210,"","",6826NS,Arnhem
+Van Borselenstraat,226,"","",6826NT,Arnhem
+Van Borselenstraat,228,"","",6826NT,Arnhem
+Van Borselenstraat,230,"","",6826NT,Arnhem
+De Moorstraat,2,"","",6826NV,Arnhem
+Sonoystraat,1,B,"",6826NW,Arnhem
+Sonoystraat,1,C,"",6826NW,Arnhem
+Sonoystraat,11,"","",6826NW,Arnhem
+Sonoystraat,13,"","",6826NW,Arnhem
+Sonoystraat,15,"","",6826NW,Arnhem
+Sonoystraat,27,"","",6826NW,Arnhem
+Sonoystraat,33,"","",6826NW,Arnhem
+Sonoystraat,41,"","",6826NW,Arnhem
+Sonoystraat,43,"","",6826NW,Arnhem
+Sonoystraat,45,"","",6826NW,Arnhem
+Sonoystraat,10,"","",6826NX,Arnhem
+Sonoystraat,14,"","",6826NX,Arnhem
+Sonoystraat,2,F,"",6826NX,Arnhem
+Sonoystraat,20,"","",6826NX,Arnhem
+Sonoystraat,26,"","",6826NX,Arnhem
+Sonoystraat,28,"","",6826NX,Arnhem
+Sonoystraat,30,"","",6826NX,Arnhem
+Sonoystraat,36,A,"",6826NX,Arnhem
+Sonoystraat,36,B,"",6826NX,Arnhem
+Sonoystraat,38,"","",6826NX,Arnhem
+Sonoystraat,46,"","",6826NX,Arnhem
+Van Ghentstraat,1,B,"",6826PA,Arnhem
+Van Ghentstraat,13,"","",6826PA,Arnhem
+Van Ghentstraat,15,"","",6826PA,Arnhem
+Van Ghentstraat,21,"","",6826PA,Arnhem
+Van Ghentstraat,23,"","",6826PA,Arnhem
+Van Ghentstraat,27,"","",6826PA,Arnhem
+Van Ghentstraat,41,"","",6826PA,Arnhem
+Van Ghentstraat,7,"","",6826PA,Arnhem
+Van Ghentstraat,12,"","",6826PB,Arnhem
+Van Ghentstraat,16,"","",6826PB,Arnhem
+Van Ghentstraat,2,A,"",6826PB,Arnhem
+Van Ghentstraat,2,C,"",6826PB,Arnhem
+Van Ghentstraat,2,D,"",6826PB,Arnhem
+Van Ghentstraat,2,F,"",6826PB,Arnhem
+Van Ghentstraat,36,"","",6826PB,Arnhem
+Van Ghentstraat,36,A,"",6826PB,Arnhem
+Van Ghentstraat,50,"","",6826PB,Arnhem
+Swartenhondtstraat,1,"","",6826PC,Arnhem
+Swartenhondtstraat,21,"","",6826PC,Arnhem
+Swartenhondtstraat,3,"","",6826PC,Arnhem
+Juinbolstraat,15,"","",6826PD,Arnhem
+De Houtmanstraat,15,"","",6826PE,Arnhem
+De Houtmanstraat,17,"","",6826PE,Arnhem
+De Houtmanstraat,5,"","",6826PE,Arnhem
+De Houtmanstraat,7,"","",6826PE,Arnhem
+De Houtmanstraat,9,"","",6826PE,Arnhem
+De Houtmanstraat,103,"","",6826PG,Arnhem
+De Houtmanstraat,103,"","",6826PG,Arnhem
+De Houtmanstraat,105,"","",6826PG,Arnhem
+De Houtmanstraat,105,"","",6826PG,Arnhem
+De Houtmanstraat,111,"","",6826PG,Arnhem
+De Houtmanstraat,111,"","",6826PG,Arnhem
+De Houtmanstraat,85,"","",6826PG,Arnhem
+De Houtmanstraat,85,"","",6826PG,Arnhem
+De Houtmanstraat,93,"","",6826PG,Arnhem
+De Houtmanstraat,93,"","",6826PG,Arnhem
+De Houtmanstraat,121,"","",6826PH,Arnhem
+De Houtmanstraat,123,"","",6826PH,Arnhem
+De Houtmanstraat,135,"","",6826PH,Arnhem
+De Houtmanstraat,139,"","",6826PH,Arnhem
+De Houtmanstraat,2,"","",6826PJ,Arnhem
+De Houtmanstraat,22,"","",6826PJ,Arnhem
+De Houtmanstraat,24,"","",6826PJ,Arnhem
+De Houtmanstraat,30,"","",6826PJ,Arnhem
+De Houtmanstraat,32,"","",6826PK,Arnhem
+De Houtmanstraat,32,"","",6826PK,Arnhem
+De Houtmanstraat,34,"","",6826PK,Arnhem
+De Houtmanstraat,34,"","",6826PK,Arnhem
+De Houtmanstraat,36,"","",6826PK,Arnhem
+De Houtmanstraat,36,"","",6826PK,Arnhem
+De Houtmanstraat,38,"","",6826PK,Arnhem
+De Houtmanstraat,38,"","",6826PK,Arnhem
+De Houtmanstraat,44,"","",6826PK,Arnhem
+De Houtmanstraat,44,"","",6826PK,Arnhem
+De Houtmanstraat,58,"","",6826PK,Arnhem
+De Houtmanstraat,58,"","",6826PK,Arnhem
+De Houtmanstraat,60,"","",6826PK,Arnhem
+De Houtmanstraat,60,"","",6826PK,Arnhem
+De Houtmanstraat,62,"","",6826PK,Arnhem
+De Houtmanstraat,62,"","",6826PK,Arnhem
+De Houtmanstraat,64,"","",6826PK,Arnhem
+De Houtmanstraat,64,"","",6826PK,Arnhem
+De Houtmanstraat,66,"","",6826PK,Arnhem
+De Houtmanstraat,66,"","",6826PK,Arnhem
+De Houtmanstraat,80,"","",6826PL,Arnhem
+De Houtmanstraat,84,"","",6826PL,Arnhem
+De Houtmanstraat,92,"","",6826PL,Arnhem
+Roggeveenhof,60,"","",6826PN,Arnhem
+Honigkamp,10,"","",6826PP,Arnhem
+Honigkamp,10,"","",6826PP,Arnhem
+Honigkamp,10,"","",6826PP,Arnhem
+Honigkamp,10,"","",6826PP,Arnhem
+Honigkamp,12,"","",6826PP,Arnhem
+Honigkamp,12,"","",6826PP,Arnhem
+Honigkamp,12,"","",6826PP,Arnhem
+Honigkamp,12,"","",6826PP,Arnhem
+Honigkamp,44,"","",6826PP,Arnhem
+Honigkamp,44,"","",6826PP,Arnhem
+Honigkamp,50,"","",6826PR,Arnhem
+Honigkamp,50,"","",6826PR,Arnhem
+Honigkamp,78,"","",6826PR,Arnhem
+Honigkamp,104,"","",6826PS,Arnhem
+Honigkamp,96,"","",6826PS,Arnhem
+Honigkamp,116,"","",6826PT,Arnhem
+Honigkamp,120,"","",6826PT,Arnhem
+Honigkamp,122,"","",6826PT,Arnhem
+Honigkamp,124,"","",6826PT,Arnhem
+Honigkamp,134,"","",6826PT,Arnhem
+Honigkamp,138,"","",6826PT,Arnhem
+Keulse Slag,16,"","",6826PV,Arnhem
+Keulse Slag,18,"","",6826PV,Arnhem
+Keulse Slag,28,"","",6826PV,Arnhem
+Keulse Slag,38,"","",6826PV,Arnhem
+Keulse Slag,4,"","",6826PV,Arnhem
+Keulse Slag,42,"","",6826PV,Arnhem
+Keulse Slag,50,"","",6826PV,Arnhem
+Keulse Slag,64,"","",6826PW,Arnhem
+Keulse Slag,64,"","",6826PW,Arnhem
+Keulse Slag,66,"","",6826PW,Arnhem
+Keulse Slag,66,"","",6826PW,Arnhem
+Keulse Slag,84,"","",6826PW,Arnhem
+Keulse Slag,88,"","",6826PW,Arnhem
+Keulse Slag,92,"","",6826PW,Arnhem
+Keulse Slag,98,"","",6826PW,Arnhem
+Keulse Slag,104,"","",6826PX,Arnhem
+Keulse Slag,116,"","",6826PX,Arnhem
+Keulse Slag,124,"","",6826PX,Arnhem
+Keulse Slag,126,"","",6826PX,Arnhem
+Keulse Slag,140,"","",6826PX,Arnhem
+De Bitterstraat,12,"","",6826PZ,Arnhem
+De Bitterstraat,18,"","",6826PZ,Arnhem
+De Bitterstraat,28,"","",6826PZ,Arnhem
+De Bitterstraat,32,"","",6826PZ,Arnhem
+De Bitterstraat,36,"","",6826PZ,Arnhem
+De Bitterstraat,40,"","",6826PZ,Arnhem
+De Bitterstraat,46,"","",6826PZ,Arnhem
+De Bitterstraat,52,"","",6826PZ,Arnhem
+De Bitterstraat,62,"","",6826PZ,Arnhem
+De Bitterstraat,64,"","",6826PZ,Arnhem
+De Bitterstraat,1,"",1,6826RA,Arnhem
+De Bitterstraat,13,"","",6826RA,Arnhem
+De Bitterstraat,13,"","",6826RA,Arnhem
+De Bitterstraat,19,"","",6826RA,Arnhem
+De Bitterstraat,19,"","",6826RA,Arnhem
+De Bitterstraat,21,"","",6826RA,Arnhem
+De Bitterstraat,21,"","",6826RA,Arnhem
+De Bitterstraat,5,"","",6826RA,Arnhem
+De Bitterstraat,5,"","",6826RA,Arnhem
+De Bitterstraat,7,"","",6826RA,Arnhem
+De Bitterstraat,7,"","",6826RA,Arnhem
+Karel Doormanstraat,1,"","",6826RB,Arnhem
+Karel Doormanstraat,1,"","",6826RB,Arnhem
+Karel Doormanstraat,1,D,"",6826RB,Arnhem
+Karel Doormanstraat,13,"","",6826RB,Arnhem
+Karel Doormanstraat,13,"","",6826RB,Arnhem
+Karel Doormanstraat,17,"","",6826RB,Arnhem
+Karel Doormanstraat,17,"","",6826RB,Arnhem
+Karel Doormanstraat,21,"","",6826RB,Arnhem
+Karel Doormanstraat,21,"","",6826RB,Arnhem
+Karel Doormanstraat,23,"","",6826RB,Arnhem
+Karel Doormanstraat,23,"","",6826RB,Arnhem
+Karel Doormanstraat,25,"","",6826RB,Arnhem
+Karel Doormanstraat,25,"","",6826RB,Arnhem
+Karel Doormanstraat,27,"","",6826RB,Arnhem
+Karel Doormanstraat,27,"","",6826RB,Arnhem
+Karel Doormanstraat,3,"","",6826RB,Arnhem
+Karel Doormanstraat,3,"","",6826RB,Arnhem
+Karel Doormanstraat,5,"","",6826RB,Arnhem
+Karel Doormanstraat,7,"","",6826RB,Arnhem
+Karel Doormanstraat,7,"","",6826RB,Arnhem
+Karel Doormanstraat,33,B,"",6826RC,Arnhem
+Karel Doormanstraat,35,"","",6826RC,Arnhem
+Karel Doormanstraat,35,A,"",6826RC,Arnhem
+Karel Doormanstraat,35,B,"",6826RC,Arnhem
+Karel Doormanstraat,37,A,"",6826RC,Arnhem
+Karel Doormanstraat,37,B,"",6826RC,Arnhem
+Karel Doormanstraat,41,B,"",6826RC,Arnhem
+Karel Doormanstraat,45,B,"",6826RC,Arnhem
+Karel Doormanstraat,55,"","",6826RD,Arnhem
+Karel Doormanstraat,59,"","",6826RD,Arnhem
+Karel Doormanstraat,61,"","",6826RD,Arnhem
+Karel Doormanstraat,67,"","",6826RD,Arnhem
+Karel Doormanstraat,71,"","",6826RD,Arnhem
+Karel Doormanstraat,73,"","",6826RD,Arnhem
+Karel Doormanstraat,85,"","",6826RD,Arnhem
+Karel Doormanstraat,95,"","",6826RD,Arnhem
+Karel Doormanstraat,18,"","",6826RE,Arnhem
+Karel Doormanstraat,24,"","",6826RE,Arnhem
+Karel Doormanstraat,24,"","",6826RE,Arnhem
+Karel Doormanstraat,26,"","",6826RE,Arnhem
+Karel Doormanstraat,28,"","",6826RE,Arnhem
+Karel Doormanstraat,28,"","",6826RE,Arnhem
+Karel Doormanstraat,34,"","",6826RE,Arnhem
+Karel Doormanstraat,36,"","",6826RE,Arnhem
+Karel Doormanstraat,40,"","",6826RE,Arnhem
+Karel Doormanstraat,44,"","",6826RE,Arnhem
+Karel Doormanstraat,46,"","",6826RE,Arnhem
+Karel Doormanstraat,6,"","",6826RE,Arnhem
+Karel Doormanstraat,8,"","",6826RE,Arnhem
+Karel Doormanstraat,54,"","",6826RG,Arnhem
+Karel Doormanstraat,54,"","",6826RG,Arnhem
+Karel Doormanstraat,62,"","",6826RG,Arnhem
+Karel Doormanstraat,62,"","",6826RG,Arnhem
+Karel Doormanstraat,70,"","",6826RG,Arnhem
+Karel Doormanstraat,70,"","",6826RG,Arnhem
+Karel Doormanstraat,78,"","",6826RG,Arnhem
+Karel Doormanstraat,78,"","",6826RG,Arnhem
+Karel Doormanstraat,82,"","",6826RG,Arnhem
+Karel Doormanstraat,82,"","",6826RG,Arnhem
+Karel Doormanstraat,84,"","",6826RG,Arnhem
+Karel Doormanstraat,84,"","",6826RG,Arnhem
+Karel Doormanstraat,100,"","",6826RH,Arnhem
+Karel Doormanstraat,100,"","",6826RH,Arnhem
+Karel Doormanstraat,102,"","",6826RH,Arnhem
+Karel Doormanstraat,102,"","",6826RH,Arnhem
+Karel Doormanstraat,110,"","",6826RH,Arnhem
+Karel Doormanstraat,110,"","",6826RH,Arnhem
+Karel Doormanstraat,114,"","",6826RH,Arnhem
+Karel Doormanstraat,114,"","",6826RH,Arnhem
+Karel Doormanstraat,116,"","",6826RH,Arnhem
+Karel Doormanstraat,116,"","",6826RH,Arnhem
+Karel Doormanstraat,118,"","",6826RH,Arnhem
+Karel Doormanstraat,118,"","",6826RH,Arnhem
+Karel Doormanstraat,88,D,"",6826RH,Arnhem
+Karel Doormanstraat,88,F,"",6826RH,Arnhem
+Karel Doormanstraat,96,"","",6826RH,Arnhem
+Karel Doormanstraat,96,"","",6826RH,Arnhem
+Karel Doormanstraat,124,"","",6826RJ,Arnhem
+Karel Doormanstraat,124,A,"",6826RJ,Arnhem
+Karel Doormanstraat,124,B,"",6826RJ,Arnhem
+Karel Doormanstraat,126,"","",6826RJ,Arnhem
+Karel Doormanstraat,126,A,"",6826RJ,Arnhem
+Karel Doormanstraat,130,A,"",6826RJ,Arnhem
+Karel Doormanstraat,132,A,"",6826RJ,Arnhem
+Karel Doormanstraat,134,A,"",6826RJ,Arnhem
+Karel Doormanstraat,136,"","",6826RJ,Arnhem
+Karel Doormanstraat,136,B,"",6826RJ,Arnhem
+Karel Doormanstraat,138,"","",6826RK,Arnhem
+Karel Doormanstraat,138,"","",6826RK,Arnhem
+Karel Doormanstraat,146,"","",6826RK,Arnhem
+Karel Doormanstraat,146,"","",6826RK,Arnhem
+Karel Doormanstraat,150,"","",6826RK,Arnhem
+Karel Doormanstraat,150,"","",6826RK,Arnhem
+Karel Doormanstraat,162,"","",6826RK,Arnhem
+Karel Doormanstraat,162,"","",6826RK,Arnhem
+Karel Doormanstraat,164,"","",6826RK,Arnhem
+Karel Doormanstraat,164,"","",6826RK,Arnhem
+Karel Doormanstraat,166,"","",6826RK,Arnhem
+Karel Doormanstraat,166,"","",6826RK,Arnhem
+Lacombléstraat,1,A,"",6826RL,Arnhem
+Lacombléstraat,1,B,"",6826RL,Arnhem
+Lacombléstraat,1,F,"",6826RL,Arnhem
+Lacombléstraat,11,"","",6826RL,Arnhem
+Lacombléstraat,11,"","",6826RL,Arnhem
+Lacombléstraat,13,"","",6826RL,Arnhem
+Lacombléstraat,13,"","",6826RL,Arnhem
+Lacombléstraat,19,"","",6826RL,Arnhem
+Lacombléstraat,19,"","",6826RL,Arnhem
+Lacombléstraat,21,"","",6826RL,Arnhem
+Lacombléstraat,21,"","",6826RL,Arnhem
+Lacombléstraat,5,"","",6826RL,Arnhem
+Lacombléstraat,5,"","",6826RL,Arnhem
+Lacombléstraat,7,"","",6826RL,Arnhem
+Lacombléstraat,7,"","",6826RL,Arnhem
+Lacombléstraat,39,"","",6826RM,Arnhem
+Lacombléstraat,43,"","",6826RM,Arnhem
+Lacombléstraat,51,"","",6826RM,Arnhem
+Lacombléstraat,53,"","",6826RM,Arnhem
+Lacombléstraat,61,"","",6826RM,Arnhem
+Lacombléstraat,63,"","",6826RM,Arnhem
+Lacombléstraat,65,"","",6826RM,Arnhem
+Lacombléstraat,71,"","",6826RM,Arnhem
+Lacombléstraat,77,"","",6826RM,Arnhem
+Lacombléstraat,79,"","",6826RM,Arnhem
+Lacombléstraat,12,A,"",6826RN,Arnhem
+Lacombléstraat,12,B,"",6826RN,Arnhem
+Lacombléstraat,16,A,"",6826RN,Arnhem
+Lacombléstraat,16,B,"",6826RN,Arnhem
+Lacombléstraat,2,"","",6826RN,Arnhem
+Lacombléstraat,4,"","",6826RN,Arnhem
+Lacombléstraat,4,A,"",6826RN,Arnhem
+Lacombléstraat,4,B,"",6826RN,Arnhem
+Lacombléstraat,6,"","",6826RN,Arnhem
+Lacombléstraat,6,A,"",6826RN,Arnhem
+Lacombléstraat,8,A,"",6826RN,Arnhem
+Lacombléstraat,18,"","",6826RP,Arnhem
+Lacombléstraat,24,"","",6826RP,Arnhem
+Lacombléstraat,32,"","",6826RP,Arnhem
+Lacombléstraat,36,D,"",6826RP,Arnhem
+Lacombléstraat,36,E,"",6826RP,Arnhem
+Lacombléstraat,36,F,"",6826RP,Arnhem
+Lacombléstraat,38,"","",6826RP,Arnhem
+Lacombléstraat,38,"","",6826RP,Arnhem
+Lacombléstraat,40,"","",6826RP,Arnhem
+Lacombléstraat,40,"","",6826RP,Arnhem
+Lacombléstraat,42,"","",6826RP,Arnhem
+Lacombléstraat,42,"","",6826RP,Arnhem
+Lacombléstraat,46,"","",6826RP,Arnhem
+Lacombléstraat,46,"","",6826RP,Arnhem
+Lacombléstraat,48,"","",6826RP,Arnhem
+Lacombléstraat,48,"","",6826RP,Arnhem
+Lacombléstraat,50,"","",6826RP,Arnhem
+Lacombléstraat,50,"","",6826RP,Arnhem
+Lacombléstraat,54,"","",6826RP,Arnhem
+Lacombléstraat,54,"","",6826RP,Arnhem
+Lacombléstraat,56,"","",6826RP,Arnhem
+Lacombléstraat,56,"","",6826RP,Arnhem
+Lacombléstraat,58,"","",6826RP,Arnhem
+Lacombléstraat,58,"","",6826RP,Arnhem
+Lacombléstraat,62,"","",6826RP,Arnhem
+Lacombléstraat,62,"","",6826RP,Arnhem
+Lacombléstraat,64,"","",6826RP,Arnhem
+Lacombléstraat,64,"","",6826RP,Arnhem
+Lacombléstraat,66,"","",6826RP,Arnhem
+Lacombléstraat,66,"","",6826RP,Arnhem
+Hudsonstraat,11,"","",6826RR,Arnhem
+Hudsonstraat,2,"",3,6826RR,Arnhem
+Hudsonstraat,2,"",4,6826RR,Arnhem
+Hudsonstraat,4,"",4,6826RR,Arnhem
+Hudsonstraat,6,"",1,6826RR,Arnhem
+Hudsonstraat,6,"",2,6826RR,Arnhem
+Hudsonstraat,7,"","",6826RR,Arnhem
+Hudsonstraat,8,"",1,6826RR,Arnhem
+Hudsonstraat,10,"","",6826RS,Arnhem
+Hudsonstraat,10,"","",6826RS,Arnhem
+Hudsonstraat,12,"","",6826RS,Arnhem
+Hudsonstraat,12,"","",6826RS,Arnhem
+Hudsonstraat,14,"","",6826RS,Arnhem
+Hudsonstraat,14,"","",6826RS,Arnhem
+Hudsonstraat,22,"","",6826RS,Arnhem
+Hudsonstraat,22,"","",6826RS,Arnhem
+Hudsonstraat,26,"","",6826RS,Arnhem
+Hudsonstraat,26,"","",6826RS,Arnhem
+Hudsonstraat,34,"","",6826RS,Arnhem
+Hudsonstraat,34,"","",6826RS,Arnhem
+Hudsonstraat,38,"","",6826RS,Arnhem
+Hudsonstraat,38,"","",6826RS,Arnhem
+Hudsonstraat,40,"","",6826RS,Arnhem
+Hudsonstraat,40,"","",6826RS,Arnhem
+Van Galenstraat,1,"","",6826RT,Arnhem
+Van Galenstraat,11,"","",6826RT,Arnhem
+Van Galenstraat,13,"","",6826RT,Arnhem
+Van Galenstraat,17,A,"",6826RT,Arnhem
+Van Galenstraat,27,"","",6826RT,Arnhem
+Van Galenstraat,29,"","",6826RT,Arnhem
+Van Galenstraat,5,"","",6826RT,Arnhem
+Van Galenstraat,7,"","",6826RT,Arnhem
+Van Galenstraat,37,"","",6826RV,Arnhem
+Van Galenstraat,57,"",3,6826RW,Arnhem
+Van Galenstraat,59,"",1,6826RW,Arnhem
+Van Galenstraat,59,"",2,6826RW,Arnhem
+Van Galenstraat,61,"",1,6826RW,Arnhem
+Van Galenstraat,61,"",3,6826RW,Arnhem
+Van Galenstraat,63,"",3,6826RW,Arnhem
+Van Galenstraat,65,"",1,6826RW,Arnhem
+Van Galenstraat,2,"",1,6826RX,Arnhem
+Van Galenstraat,4,"",2,6826RX,Arnhem
+Van Galenstraat,4,"",3,6826RX,Arnhem
+Van Galenstraat,6,"",3,6826RX,Arnhem
+Van Galenstraat,6,"",4,6826RX,Arnhem
+Van Galenstraat,8,"",1,6826RX,Arnhem
+Van Galenstraat,8,"",2,6826RX,Arnhem
+Van Galenstraat,8,"",4,6826RX,Arnhem
+Van Galenstraat,16,"","",6826RZ,Arnhem
+Van Galenstraat,16,"","",6826RZ,Arnhem
+Van Galenstraat,22,"","",6826RZ,Arnhem
+Van Galenstraat,22,"","",6826RZ,Arnhem
+Van Galenstraat,26,"","",6826RZ,Arnhem
+Van Galenstraat,26,"","",6826RZ,Arnhem
+Van Galenstraat,28,"","",6826RZ,Arnhem
+Van Galenstraat,28,"","",6826RZ,Arnhem
+Van Galenstraat,32,"","",6826RZ,Arnhem
+Van Galenstraat,32,"","",6826RZ,Arnhem
+Van Galenstraat,36,"","",6826RZ,Arnhem
+Van Galenstraat,36,"","",6826RZ,Arnhem
+Van Galenstraat,44,"","",6826RZ,Arnhem
+Van Galenstraat,48,"","",6826RZ,Arnhem
+Van Galenstraat,50,"","",6826RZ,Arnhem
+Van Galenstraat,54,"","",6826RZ,Arnhem
+Van Galenstraat,56,"","",6826RZ,Arnhem
+Floriszstraat,1,"","",6826SB,Arnhem
+Floriszstraat,17,"","",6826SB,Arnhem
+Floriszstraat,21,"","",6826SB,Arnhem
+Floriszstraat,23,"","",6826SB,Arnhem
+Floriszstraat,25,"","",6826SB,Arnhem
+Floriszstraat,27,"","",6826SB,Arnhem
+Floriszstraat,29,"","",6826SB,Arnhem
+Floriszstraat,35,"","",6826SB,Arnhem
+Floriszstraat,9,"","",6826SB,Arnhem
+Floriszstraat,47,"","",6826SC,Arnhem
+Floriszstraat,49,"","",6826SC,Arnhem
+Floriszstraat,57,"",2,6826SE,Arnhem
+Floriszstraat,59,"",3,6826SE,Arnhem
+Floriszstraat,63,"",3,6826SE,Arnhem
+Floriszstraat,65,"",2,6826SE,Arnhem
+Floriszstraat,2,"",1,6826SG,Arnhem
+Floriszstraat,6,"",4,6826SG,Arnhem
+Floriszstraat,8,"",1,6826SG,Arnhem
+Floriszstraat,8,"",3,6826SG,Arnhem
+Floriszstraat,10,"","",6826SH,Arnhem
+Floriszstraat,10,"","",6826SH,Arnhem
+Floriszstraat,24,"","",6826SH,Arnhem
+Floriszstraat,24,"","",6826SH,Arnhem
+Floriszstraat,30,"","",6826SH,Arnhem
+Floriszstraat,30,"","",6826SH,Arnhem
+Floriszstraat,36,"","",6826SH,Arnhem
+Floriszstraat,36,"","",6826SH,Arnhem
+Floriszstraat,50,"","",6826SH,Arnhem
+Floriszstraat,52,"","",6826SH,Arnhem
+Floriszstraat,54,"","",6826SH,Arnhem
+Floriszstraat,56,"","",6826SH,Arnhem
+Stellingwerfstraat,1,"","",6826SJ,Arnhem
+Stellingwerfstraat,17,"","",6826SJ,Arnhem
+Stellingwerfstraat,19,"","",6826SJ,Arnhem
+Stellingwerfstraat,21,"","",6826SJ,Arnhem
+Stellingwerfstraat,23,"","",6826SJ,Arnhem
+Stellingwerfstraat,3,"","",6826SJ,Arnhem
+Stellingwerfstraat,55,"",2,6826SL,Arnhem
+Stellingwerfstraat,55,"",3,6826SL,Arnhem
+Stellingwerfstraat,57,"",3,6826SL,Arnhem
+Stellingwerfstraat,61,"",2,6826SL,Arnhem
+Stellingwerfstraat,61,"",3,6826SL,Arnhem
+Stellingwerfstraat,4,"",4,6826SM,Arnhem
+Stellingwerfstraat,6,"",1,6826SM,Arnhem
+Stellingwerfstraat,6,"",3,6826SM,Arnhem
+Stellingwerfstraat,6,"",4,6826SM,Arnhem
+Stellingwerfstraat,8,"",1,6826SM,Arnhem
+Stellingwerfstraat,8,"",4,6826SM,Arnhem
+Stellingwerfstraat,16,"","",6826SN,Arnhem
+Stellingwerfstraat,16,"","",6826SN,Arnhem
+Stellingwerfstraat,20,"","",6826SN,Arnhem
+Stellingwerfstraat,20,"","",6826SN,Arnhem
+Stellingwerfstraat,28,"","",6826SN,Arnhem
+Stellingwerfstraat,28,"","",6826SN,Arnhem
+Stellingwerfstraat,32,"","",6826SN,Arnhem
+Stellingwerfstraat,32,"","",6826SN,Arnhem
+Stellingwerfstraat,34,"","",6826SN,Arnhem
+Stellingwerfstraat,34,"","",6826SN,Arnhem
+Stellingwerfstraat,38,"","",6826SN,Arnhem
+Stellingwerfstraat,38,"","",6826SN,Arnhem
+Stellingwerfstraat,46,"","",6826SN,Arnhem
+Stellingwerfstraat,46,"","",6826SN,Arnhem
+Bontekoestraat,1,"",4,6826SP,Arnhem
+Bontekoestraat,1,"",5,6826SP,Arnhem
+Bontekoestraat,1,A,"",6826SP,Arnhem
+Bontekoestraat,1,E,"",6826SP,Arnhem
+Bontekoestraat,1,F,"",6826SP,Arnhem
+Bontekoestraat,3,"",2,6826SP,Arnhem
+Bontekoestraat,3,"",3,6826SP,Arnhem
+Bontekoestraat,3,"",5,6826SP,Arnhem
+Bontekoestraat,5,"",2,6826SP,Arnhem
+Bontekoestraat,5,"",6,6826SP,Arnhem
+Bontekoestraat,7,"",4,6826SP,Arnhem
+Bontekoestraat,11,"",1,6826SR,Arnhem
+Bontekoestraat,11,"",2,6826SR,Arnhem
+Bontekoestraat,11,"",3,6826SR,Arnhem
+Bontekoestraat,11,"",4,6826SR,Arnhem
+Bontekoestraat,11,"",5,6826SR,Arnhem
+Bontekoestraat,13,"",2,6826SR,Arnhem
+Bontekoestraat,13,"",5,6826SR,Arnhem
+Bontekoestraat,15,"",1,6826SR,Arnhem
+Bontekoestraat,9,"",1,6826SR,Arnhem
+Bontekoestraat,9,"",4,6826SR,Arnhem
+Bontekoestraat,9,"",6,6826SR,Arnhem
+Bontekoestraat,9,B,"",6826SR,Arnhem
+Bontekoestraat,17,"",2,6826ST,Arnhem
+Bontekoestraat,17,"",3,6826ST,Arnhem
+Bontekoestraat,17,"",6,6826ST,Arnhem
+Bontekoestraat,19,"",1,6826ST,Arnhem
+Bontekoestraat,23,"",1,6826ST,Arnhem
+Bontekoestraat,23,"",3,6826ST,Arnhem
+Bontekoestraat,25,"",2,6826SV,Arnhem
+Bontekoestraat,25,"",4,6826SV,Arnhem
+Bontekoestraat,25,E,"",6826SV,Arnhem
+Bontekoestraat,27,"",1,6826SV,Arnhem
+Bontekoestraat,29,"",1,6826SV,Arnhem
+Bontekoestraat,29,"",6,6826SV,Arnhem
+Bontekoestraat,31,"",1,6826SV,Arnhem
+Bontekoestraat,31,"",4,6826SV,Arnhem
+Bontekoestraat,31,"",5,6826SV,Arnhem
+Bontekoestraat,2,"","",6826SW,Arnhem
+Bontekoestraat,20,"","",6826SW,Arnhem
+Bontekoestraat,28,"","",6826SW,Arnhem
+Bontekoestraat,32,"","",6826SW,Arnhem
+Bontekoestraat,34,"","",6826SW,Arnhem
+Bontekoestraat,36,"","",6826SW,Arnhem
+Bontekoestraat,8,"","",6826SW,Arnhem
+Bontekoestraat,42,"","",6826SX,Arnhem
+Bontekoestraat,44,"","",6826SX,Arnhem
+Bontekoestraat,50,"","",6826SX,Arnhem
+Bontekoestraat,54,"","",6826SX,Arnhem
+Bethaniënstraat,5,"","",6826TA,Arnhem
+Bethaniënstraat,10,"","",6826TB,Arnhem
+Bethaniënstraat,10,"","",6826TB,Arnhem
+Bethaniënstraat,26,"","",6826TB,Arnhem
+Bethaniënstraat,26,"","",6826TB,Arnhem
+Bethaniënstraat,40,"","",6826TB,Arnhem
+Bethaniënstraat,40,"","",6826TB,Arnhem
+Bethaniënstraat,42,"","",6826TB,Arnhem
+Bethaniënstraat,42,"","",6826TB,Arnhem
+Bethaniënstraat,44,"","",6826TB,Arnhem
+Bethaniënstraat,44,"","",6826TB,Arnhem
+Bethaniënstraat,8,"","",6826TB,Arnhem
+Bethaniënstraat,8,"","",6826TB,Arnhem
+Bethaniënstraat,50,"","",6826TC,Arnhem
+Bethaniënstraat,50,"","",6826TC,Arnhem
+Bethaniënstraat,68,"","",6826TC,Arnhem
+Bethaniënstraat,68,"","",6826TC,Arnhem
+Bethaniënstraat,96,"","",6826TD,Arnhem
+Bethaniënstraat,96,"","",6826TD,Arnhem
+Bethaniënstraat,108,"","",6826TE,Arnhem
+Bethaniënstraat,108,"","",6826TE,Arnhem
+Bethaniënstraat,110,"","",6826TE,Arnhem
+Bethaniënstraat,110,"","",6826TE,Arnhem
+Bethaniënstraat,112,"","",6826TE,Arnhem
+Bethaniënstraat,112,"","",6826TE,Arnhem
+Bethaniënstraat,114,"","",6826TE,Arnhem
+Bethaniënstraat,114,"","",6826TE,Arnhem
+Bethaniënstraat,118,"","",6826TE,Arnhem
+Bethaniënstraat,118,"","",6826TE,Arnhem
+Bethaniënstraat,120,"","",6826TE,Arnhem
+Bethaniënstraat,120,"","",6826TE,Arnhem
+Bethaniënstraat,130,"","",6826TE,Arnhem
+Bethaniënstraat,130,"","",6826TE,Arnhem
+Bethaniënstraat,136,"","",6826TE,Arnhem
+Bethaniënstraat,136,"","",6826TE,Arnhem
+Bethaniënstraat,140,"","",6826TE,Arnhem
+Bethaniënstraat,140,"","",6826TE,Arnhem
+Bethaniënstraat,146,"","",6826TG,Arnhem
+Bethaniënstraat,146,"","",6826TG,Arnhem
+Bethaniënstraat,160,"","",6826TG,Arnhem
+Bethaniënstraat,160,"","",6826TG,Arnhem
+Bethaniënstraat,166,"","",6826TG,Arnhem
+Bethaniënstraat,166,"","",6826TG,Arnhem
+Bethaniënstraat,172,"","",6826TG,Arnhem
+Bethaniënstraat,174,"","",6826TG,Arnhem
+Bethaniënstraat,174,"","",6826TG,Arnhem
+Bethaniënstraat,176,"","",6826TG,Arnhem
+Bethaniënstraat,176,"","",6826TG,Arnhem
+Bethaniënstraat,182,"","",6826TH,Arnhem
+Bethaniënstraat,182,"","",6826TH,Arnhem
+Bethaniënstraat,196,"","",6826TH,Arnhem
+Bethaniënstraat,196,"","",6826TH,Arnhem
+Bethaniënstraat,214,"","",6826TH,Arnhem
+Bethaniënstraat,214,"","",6826TH,Arnhem
+Vlamoven,1,"","",6826TM,Arnhem
+Vlamoven,11,"","",6826TM,Arnhem
+Vlamoven,25,"","",6826TM,Arnhem
+Vlamoven,25,"","",6826TM,Arnhem
+Vlamoven,29,"","",6826TM,Arnhem
+Vlamoven,33,"","",6826TM,Arnhem
+Vlamoven,33,"","",6826TM,Arnhem
+Vlamoven,47,"","",6826TM,Arnhem
+Vlamoven,2,"","",6826TN,Arnhem
+Vlamoven,22,"","",6826TN,Arnhem
+Vlamoven,22,"","",6826TN,Arnhem
+Vlamoven,26,"","",6826TN,Arnhem
+Vlamoven,32,"","",6826TN,Arnhem
+Vlamoven,36,"","",6826TN,Arnhem
+Vlamoven,6,"","",6826TN,Arnhem
+Vlamoven,8,"","",6826TN,Arnhem
+Ringoven,19,"","",6826TP,Arnhem
+Ringoven,25,"","",6826TP,Arnhem
+Ringoven,45,"","",6826TP,Arnhem
+Ringoven,5,"","",6826TP,Arnhem
+Ringoven,16,"","",6826TR,Arnhem

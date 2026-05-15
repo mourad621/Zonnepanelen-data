@@ -1,57 +1,57 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7877TC,Dikbroeken,7,,
-7877TC,Dikbroeken,8,,
-7877TC,Dikbroeken,9,,
-7877TC,Dikbroeken,10,,
-7877TC,Dikbroeken,11,,
-7877TC,Dikbroeken,12,,
-7877TC,Dikbroeken,14,,
-7877TC,Dikbroeken,15,,
-7877TC,Dikbroeken,16,,
-7877TC,Dikbroeken,18,,
-7877TC,Dikbroeken,19,,
-7877TB,2e Valthermond,1,,
-7877TB,2e Valthermond,2,,
-7877TB,2e Valthermond,3,,
-7877TB,2e Valthermond,4,,
-7877TB,2e Valthermond,5,,
-7877TB,2e Valthermond,7,,
-7877TB,2e Valthermond,7,A,
-7877TB,2e Valthermond,7,B,
-7877TB,2e Valthermond,8,,
-7877TB,2e Valthermond,9,,
-7877TB,2e Valthermond,11,,
-7877TB,2e Valthermond,11,,
-7877TB,2e Valthermond,12,,
-7877TB,2e Valthermond,13,,
-7877TB,2e Valthermond,14,,
-7877TB,2e Valthermond,15,,
-7877TB,2e Valthermond,16,,
-7877TB,2e Valthermond,17,,
-7877TB,2e Valthermond,18,,
-7877TB,2e Valthermond,20,,
-7877TB,2e Valthermond,21,,
-7877TB,2e Valthermond,22,,
-7877TB,2e Valthermond,23,,
-7877TB,2e Valthermond,24,,
-7877TB,2e Valthermond,25,,
-7877TB,2e Valthermond,26,,
-7877TA,Valthermussel,4,,
-7877TA,Valthermussel,5,,
-7877TA,Valthermussel,6,,
-7877TA,Valthermussel,7,A,
-7877TA,Valthermussel,8,,
-7877TA,Valthermussel,9,,
-7877TA,Valthermussel,10,,
-7877TA,Valthermussel,11,,
-7877TA,Valthermussel,13,,
-7877TA,Valthermussel,14,,
-7877TA,Valthermussel,15,,
-7877TC,Dikbroeken,12,A,
-7877TC,Dikbroeken,12,B,
-7877TC,Dikbroeken,12,C,
-7877TB,2e Valthermond,16,A,
-7877TB,2e Valthermond,24,A,
-7877TB,2e Valthermond,23,,
-7877TB,2e Valthermond,12,A,
-7877TB,2e Valthermond,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Valthermussel,10,"","",7877TA,2e Valthermond
+Valthermussel,11,"","",7877TA,2e Valthermond
+Valthermussel,13,"","",7877TA,2e Valthermond
+Valthermussel,14,"","",7877TA,2e Valthermond
+Valthermussel,15,"","",7877TA,2e Valthermond
+Valthermussel,4,"","",7877TA,2e Valthermond
+Valthermussel,5,"","",7877TA,2e Valthermond
+Valthermussel,6,"","",7877TA,2e Valthermond
+Valthermussel,7,A,"",7877TA,2e Valthermond
+Valthermussel,8,"","",7877TA,2e Valthermond
+Valthermussel,9,"","",7877TA,2e Valthermond
+2e Valthermond,1,"","",7877TB,2e Valthermond
+2e Valthermond,11,"","",7877TB,2e Valthermond
+2e Valthermond,11,"","",7877TB,2e Valthermond
+2e Valthermond,12,"","",7877TB,2e Valthermond
+2e Valthermond,12,A,"",7877TB,2e Valthermond
+2e Valthermond,13,"","",7877TB,2e Valthermond
+2e Valthermond,14,"","",7877TB,2e Valthermond
+2e Valthermond,15,"","",7877TB,2e Valthermond
+2e Valthermond,16,"","",7877TB,2e Valthermond
+2e Valthermond,16,A,"",7877TB,2e Valthermond
+2e Valthermond,17,"","",7877TB,2e Valthermond
+2e Valthermond,18,"","",7877TB,2e Valthermond
+2e Valthermond,2,"","",7877TB,2e Valthermond
+2e Valthermond,20,"","",7877TB,2e Valthermond
+2e Valthermond,21,"","",7877TB,2e Valthermond
+2e Valthermond,22,"","",7877TB,2e Valthermond
+2e Valthermond,23,"","",7877TB,2e Valthermond
+2e Valthermond,23,"","",7877TB,2e Valthermond
+2e Valthermond,24,"","",7877TB,2e Valthermond
+2e Valthermond,24,A,"",7877TB,2e Valthermond
+2e Valthermond,25,"","",7877TB,2e Valthermond
+2e Valthermond,26,"","",7877TB,2e Valthermond
+2e Valthermond,3,"","",7877TB,2e Valthermond
+2e Valthermond,4,"","",7877TB,2e Valthermond
+2e Valthermond,5,"","",7877TB,2e Valthermond
+2e Valthermond,7,"","",7877TB,2e Valthermond
+2e Valthermond,7,A,"",7877TB,2e Valthermond
+2e Valthermond,7,B,"",7877TB,2e Valthermond
+2e Valthermond,8,"","",7877TB,2e Valthermond
+2e Valthermond,9,"","",7877TB,2e Valthermond
+2e Valthermond,9,"","",7877TB,2e Valthermond
+Dikbroeken,10,"","",7877TC,2e Valthermond
+Dikbroeken,11,"","",7877TC,2e Valthermond
+Dikbroeken,12,"","",7877TC,2e Valthermond
+Dikbroeken,12,A,"",7877TC,2e Valthermond
+Dikbroeken,12,B,"",7877TC,2e Valthermond
+Dikbroeken,12,C,"",7877TC,2e Valthermond
+Dikbroeken,14,"","",7877TC,2e Valthermond
+Dikbroeken,15,"","",7877TC,2e Valthermond
+Dikbroeken,16,"","",7877TC,2e Valthermond
+Dikbroeken,18,"","",7877TC,2e Valthermond
+Dikbroeken,19,"","",7877TC,2e Valthermond
+Dikbroeken,7,"","",7877TC,2e Valthermond
+Dikbroeken,8,"","",7877TC,2e Valthermond
+Dikbroeken,9,"","",7877TC,2e Valthermond

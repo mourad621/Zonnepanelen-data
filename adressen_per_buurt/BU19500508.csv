@@ -1,978 +1,495 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9541LA",2,"",""
-"9541LA",6,"",""
-"9541LA",4,"",""
-"9541LA",3,"",""
-"9541LA",1,"",""
-"9541LB",12,"",""
-"9541LB",36,"",""
-"9541LB",34,"",""
-"9541LB",2,"",""
-"9541LB",4,"",""
-"9541LB",30,"",""
-"9541LB",26,"",""
-"9541LB",8,"",""
-"9541LB",40,"",""
-"9541LB",42,"",""
-"9541LB",20,"",""
-"9541LB",38,"",""
-"9541LB",14,"",""
-"9541LB",22,"",""
-"9541LB",16,"",""
-"9541LB",32,"",""
-"9541LB",28,"",""
-"9541LB",24,"",""
-"9541LB",18,"",""
-"9541LB",10,"",""
-"9541LB",6,"",""
-"9541LC",88,"",""
-"9541LC",92,"",""
-"9541LC",64,"",""
-"9541LC",86,"",""
-"9541LC",90,"",""
-"9541LC",90,"",""
-"9541LC",44,"",""
-"9541LC",94,"",""
-"9541LC",70,"",""
-"9541LC",60,"",""
-"9541LC",74,"",""
-"9541LC",84,"",""
-"9541LC",62,"",""
-"9541LC",66,"",""
-"9541LC",102,"",""
-"9541LC",76,"",""
-"9541LC",72,"",""
-"9541LC",80,"",""
-"9541LC",100,"",""
-"9541LC",78,"",""
-"9541LC",58,"",""
-"9541LC",68,"",""
-"9541LC",46,"",""
-"9541LC",96,"",""
-"9541LC",56,"",""
-"9541LC",50,"",""
-"9541LC",82,"",""
-"9541LC",52,"",""
-"9541LC",106,"",""
-"9541LC",98,"",""
-"9541LC",46,"",""
-"9541LC",50,"",""
-"9541LC",48,"",""
-"9541LC",48,"",""
-"9541LC",54,"",""
-"9541LC",46,"",""
-"9541LC",104,"",""
-"9541LD",132,"",""
-"9541LD",118,"",""
-"9541LD",110,"",""
-"9541LD",134,"",""
-"9541LD",130,"",""
-"9541LD",132,"",""
-"9541LD",136,"",""
-"9541LD",124,"",""
-"9541LD",150,"",""
-"9541LD",140,"",""
-"9541LD",146,"",""
-"9541LD",132,"",""
-"9541LD",122,"",""
-"9541LD",114,"",""
-"9541LD",138,"",""
-"9541LD",148,"",""
-"9541LD",134,"",""
-"9541LD",120,"",""
-"9541LD",112,"",""
-"9541LD",128,"",""
-"9541LD",142,"",""
-"9541LD",126,"",""
-"9541LD",108,"",""
-"9541LD",116,"",""
-"9541LD",152,"",""
-"9541LD",154,"",""
-"9541LD",144,"",""
-"9541LE",198,"",""
-"9541LE",180,"",""
-"9541LE",192,"",""
-"9541LE",224,"",""
-"9541LE",210,"",""
-"9541LE",176,"",""
-"9541LE",162,"",""
-"9541LE",166,"",""
-"9541LE",226,"",""
-"9541LE",238,"",""
-"9541LE",240,"",""
-"9541LE",196,"",""
-"9541LE",242,"",""
-"9541LE",194,"",""
-"9541LE",214,"",""
-"9541LE",208,"",""
-"9541LE",186,"",""
-"9541LE",236,"",""
-"9541LE",190,"",""
-"9541LE",158,"",""
-"9541LE",216,"",""
-"9541LE",160,"",""
-"9541LE",202,"",""
-"9541LE",234,"",""
-"9541LE",174,"",""
-"9541LE",188,"",""
-"9541LE",156,"",""
-"9541LE",200,"",""
-"9541LE",220,"",""
-"9541LE",188,"",""
-"9541LE",186,"",""
-"9541LE",178,"",""
-"9541LE",164,"",""
-"9541LE",218,"",""
-"9541LE",204,"",""
-"9541LE",222,"",""
-"9541LE",168,"",""
-"9541LE",184,"",""
-"9541LE",170,"",""
-"9541LE",172,"",""
-"9541LE",182,"",""
-"9541LE",186,"",""
-"9541LG",3,"",""
-"9541LG",5,"",""
-"9541LG",19,"",""
-"9541LG",13,"",""
-"9541LG",17,"",""
-"9541LG",9,"",""
-"9541LG",11,"",""
-"9541LG",1,"",""
-"9541LG",15,"",""
-"9541LG",21,"",""
-"9541LG",7,"",""
-"9541LH",59,"",""
-"9541LH",57,"",""
-"9541LH",69,"",""
-"9541LH",61,"",""
-"9541LH",63,"",""
-"9541LH",37,"",""
-"9541LH",31,"",""
-"9541LH",51,"",""
-"9541LH",55,"",""
-"9541LH",65,"",""
-"9541LH",35,"",""
-"9541LH",29,"",""
-"9541LH",67,"",""
-"9541LH",43,"",""
-"9541LH",33,"",""
-"9541LH",49,"",""
-"9541LH",25,"",""
-"9541LH",27,"",""
-"9541LH",41,"",""
-"9541LH",47,"",""
-"9541LH",45,"",""
-"9541LH",39,"",""
-"9541LH",53,"",""
-"9541LH",23,"",""
-"9541LJ",129,"",""
-"9541LJ",91,"",""
-"9541LJ",95,"",""
-"9541LJ",121,"",""
-"9541LJ",95,"",""
-"9541LJ",85,"",""
-"9541LJ",73,"",""
-"9541LJ",105,"",""
-"9541LJ",97,"",""
-"9541LJ",139,"",""
-"9541LJ",109,"",""
-"9541LJ",133,"",""
-"9541LJ",87,"",""
-"9541LJ",71,"",""
-"9541LJ",145,"",""
-"9541LJ",93,"",""
-"9541LJ",137,"",""
-"9541LJ",119,"",""
-"9541LJ",101,"",""
-"9541LJ",83,"",""
-"9541LJ",107,"",""
-"9541LJ",135,"",""
-"9541LJ",111,"",""
-"9541LJ",125,"",""
-"9541LJ",127,"",""
-"9541LJ",89,"",""
-"9541LJ",123,"",""
-"9541LJ",79,"",""
-"9541LJ",131,"",""
-"9541LJ",81,"",""
-"9541LJ",99,"",""
-"9541LJ",103,"",""
-"9541LJ",141,"",""
-"9541LJ",97,"",""
-"9541LJ",115,"",""
-"9541LJ",117,"",""
-"9541LJ",77,"",""
-"9541LJ",143,"",""
-"9541LJ",75,"",""
-"9541LJ",113,"",""
-"9541LK",179,"",""
-"9541LK",151,"",""
-"9541LK",159,"",""
-"9541LK",157,"",""
-"9541LK",147,"",""
-"9541LK",209,"",""
-"9541LK",153,"",""
-"9541LK",199,"",""
-"9541LK",165,"",""
-"9541LK",183,"",""
-"9541LK",161,"",""
-"9541LK",149,"",""
-"9541LK",193,"",""
-"9541LK",173,"",""
-"9541LK",163,"",""
-"9541LK",243,"",""
-"9541LK",213,"",""
-"9541LK",175,"",""
-"9541LK",169,"",""
-"9541LK",201,"",""
-"9541LK",197,"",""
-"9541LK",225,"",""
-"9541LK",239,"",""
-"9541LK",155,"",""
-"9541LK",207,"",""
-"9541LK",221,"",""
-"9541LK",215,"",""
-"9541LK",167,"",""
-"9541LK",181,"",""
-"9541LK",171,"",""
-"9541LK",233,"",""
-"9541LK",217,"",""
-"9541LK",223,"",""
-"9541LK",177,"",""
-"9541LK",211,"",""
-"9541LK",219,"",""
-"9541VE",6,"a",""
-"9541VE",11,"",""
-"9541VE",10,"",""
-"9541VE",3,"a",""
-"9541VE",3,"",""
-"9541VE",5,"",""
-"9541VE",8,"",""
-"9541VE",2,"",""
-"9541VE",7,"",""
-"9541VE",4,"",""
-"9541VE",9,"",""
-"9541VE",6,"",""
-"9541VM",87,"",""
-"9541VM",69,"",""
-"9541VM",85,"",""
-"9541VM",65,"",""
-"9541VM",53,"a",""
-"9541VM",53,"c",""
-"9541VM",73,"",""
-"9541VM",53,"",""
-"9541VM",61,"",""
-"9541VM",59,"",""
-"9541VM",51,"",""
-"9541VM",53,"b",""
-"9541VM",55,"",""
-"9541VM",57,"",""
-"9541VM",53,"b",""
-"9541VM",67,"",""
-"9541VM",63,"",""
-"9541VM",71,"","TRAF"
-"9541VM",75,"",""
-"9541VN",72,"",""
-"9541VN",60,"",""
-"9541VN",74,"",""
-"9541VN",68,"",""
-"9541VN",76,"",""
-"9541VN",52,"",""
-"9541VN",48,"",""
-"9541VN",66,"",""
-"9541VN",50,"",""
-"9541VN",54,"",""
-"9541VN",70,"",""
-"9541VP",82,"",""
-"9541VP",80,"",""
-"9541VP",78,"",""
-"9541VP",84,"",""
-"9541VR",9,"",""
-"9541VR",10,"",""
-"9541VR",6,"",""
-"9541VR",4,"",""
-"9541VR",3,"",""
-"9541VR",5,"",""
-"9541VR",8,"",""
-"9541VR",10,"b",""
-"9541VR",2,"",""
-"9541VT",23,"",""
-"9541VT",21,"",""
-"9541VT",25,"",""
-"9541VT",1,"",""
-"9541VT",14,"",""
-"9541VT",14,"",""
-"9541VT",19,"",""
-"9541VT",2,"a",""
-"9541VT",2,"c",""
-"9541VT",3,"",""
-"9541VT",4,"",""
-"9541VT",14,"",""
-"9541VT",17,"",""
-"9541VT",26,"",""
-"9541VT",22,"",""
-"9541VT",15,"",""
-"9541VT",13,"",""
-"9541VT",12,"",""
-"9541VT",6,"",""
-"9541VT",14,"",""
-"9541VT",10,"",""
-"9541VT",13,"",""
-"9541VT",11,"",""
-"9541VT",10,"a",""
-"9541VT",13,"",""
-"9541VT",8,"",""
-"9541VT",14,"",""
-"9541VT",5,"",""
-"9541VT",2,"b",""
-"9541VT",22,"",""
-"9541XA",6,"",""
-"9541XA",2,"",""
-"9541XA",4,"",""
-"9541XA",3,"",""
-"9541XN",10,"",""
-"9541XN",16,"",""
-"9541XN",8,"",""
-"9541XN",2,"",""
-"9541XN",6,"",""
-"9541XN",4,"",""
-"9541XN",15,"",""
-"9541XN",14,"",""
-"9541XR",14,"",""
-"9541XR",16,"",""
-"9541XR",12,"",""
-"9541XR",5,"",""
-"9541XR",15,"",""
-"9541XR",1,"",""
-"9541XR",10,"",""
-"9541XR",2,"",""
-"9541XR",3,"",""
-"9541XR",10,"a",""
-"9541XS",32,"",""
-"9541XS",12,"",""
-"9541XS",44,"",""
-"9541XS",85,"",""
-"9541XS",20,"",""
-"9541XS",67,"",""
-"9541XS",29,"",""
-"9541XS",21,"",""
-"9541XS",39,"",""
-"9541XS",31,"",""
-"9541XS",11,"",""
-"9541XS",40,"",""
-"9541XS",91,"",""
-"9541XS",66,"",""
-"9541XS",19,"",""
-"9541XS",87,"",""
-"9541XS",32,"",""
-"9541XS",70,"",""
-"9541XS",59,"",""
-"9541XS",62,"",""
-"9541XS",26,"",""
-"9541XS",41,"",""
-"9541XS",79,"",""
-"9541XS",69,"",""
-"9541XS",71,"",""
-"9541XS",93,"",""
-"9541XS",30,"",""
-"9541XS",28,"",""
-"9541XS",13,"",""
-"9541XS",42,"",""
-"9541XS",75,"",""
-"9541XS",60,"",""
-"9541XS",81,"",""
-"9541XS",77,"",""
-"9541XS",23,"",""
-"9541XS",7,"",""
-"9541XS",4,"",""
-"9541XS",27,"",""
-"9541XS",65,"",""
-"9541XS",6,"",""
-"9541XS",58,"",""
-"9541XS",57,"",""
-"9541XS",7,"",""
-"9541XS",35,"",""
-"9541XS",46,"",""
-"9541XS",83,"",""
-"9541XS",13,"",""
-"9541XS",15,"",""
-"9541XS",89,"",""
-"9541XS",5,"",""
-"9541XS",2,"",""
-"9541XS",73,"",""
-"9541XS",63,"",""
-"9541XS",61,"",""
-"9541XS",32,"",""
-"9541XS",52,"",""
-"9541XS",34,"",""
-"9541XS",19,"",""
-"9541XS",16,"",""
-"9541XS",21,"",""
-"9541XS",25,"",""
-"9541XS",56,"",""
-"9541XS",48,"",""
-"9541XS",50,"",""
-"9541XS",3,"",""
-"9541XS",17,"",""
-"9541XS",22,"",""
-"9541XS",1,"",""
-"9541XS",38,"",""
-"9541XS",10,"",""
-"9541XS",24,"",""
-"9541XS",55,"",""
-"9541XS",18,"",""
-"9541XS",15,"",""
-"9541XS",14,"",""
-"9541XS",19,"",""
-"9541XS",54,"",""
-"9541XS",11,"",""
-"9541XS",11,"",""
-"9541XS",36,"",""
-"9541XS",8,"",""
-"9541XS",17,"",""
-"9541XS",37,"",""
-"9541XS",33,"",""
-"9541XS",9,"",""
-"9541XS",9,"",""
-"9541XV",1,"",""
-"9541XV",1,"a",""
-"9541XV",1,"b",""
-"9541XV",3,"",""
-"9541ZA",8,"",""
-"9541ZA",15,"c",""
-"9541ZA",10,"",""
-"9541ZA",15,"b",""
-"9541ZA",15,"",""
-"9541ZA",6,"",""
-"9541ZB",18,"",""
-"9541ZB",8,"",""
-"9541ZB",4,"",""
-"9541ZB",2,"",""
-"9541ZB",11,"",""
-"9541ZB",14,"",""
-"9541ZB",9,"",""
-"9541ZB",12,"",""
-"9541ZB",16,"",""
-"9541ZB",6,"",""
-"9541ZB",10,"",""
-"9541ZC",29,"",""
-"9541ZC",28,"",""
-"9541ZC",30,"",""
-"9541ZC",23,"",""
-"9541ZC",18,"",""
-"9541ZC",15,"",""
-"9541ZC",21,"",""
-"9541ZC",26,"",""
-"9541ZC",21,"",""
-"9541ZC",17,"",""
-"9541ZC",16,"",""
-"9541ZC",29,"",""
-"9541ZC",19,"",""
-"9541ZC",27,"",""
-"9541ZC",22,"",""
-"9541ZC",27,"",""
-"9541ZC",7,"",""
-"9541ZC",31,"",""
-"9541ZC",23,"",""
-"9541ZC",11,"",""
-"9541ZC",44,"",""
-"9541ZC",25,"",""
-"9541ZC",1,"",""
-"9541ZC",46,"",""
-"9541ZC",25,"",""
-"9541ZC",65,"",""
-"9541ZC",24,"",""
-"9541ZC",11,"",""
-"9541ZC",44,"",""
-"9541ZC",14,"",""
-"9541ZC",33,"",""
-"9541ZC",10,"",""
-"9541ZC",2,"",""
-"9541ZC",44,"",""
-"9541ZC",3,"",""
-"9541ZC",9,"",""
-"9541ZC",31,"",""
-9541XR,Barlagerachterweg,1,,
-9541XR,Barlagerachterweg,2,,
-9541XR,Barlagerachterweg,3,,
-9541XR,Barlagerveldweg,5,,
-9541XR,Barlagerweg,10,,
-9541XR,Barlagerweg,12,,
-9541XR,Barlagerweg,14,,
-9541XR,Barlagerweg,15,,
-9541XR,Barlagerweg,16,,
-9541XR,Barlagerweg,10,a,
-9541LB,De Vennen,2,,
-9541LB,De Vennen,4,,
-9541LB,De Vennen,6,,
-9541LB,De Vennen,8,,
-9541LB,De Vennen,10,,
-9541LB,De Vennen,12,,
-9541LB,De Vennen,14,,
-9541LB,De Vennen,16,,
-9541LB,De Vennen,18,,
-9541LB,De Vennen,20,,
-9541LB,De Vennen,22,,
-9541LB,De Vennen,24,,
-9541LB,De Vennen,26,,
-9541LB,De Vennen,28,,
-9541LB,De Vennen,30,,
-9541LB,De Vennen,32,,
-9541LB,De Vennen,34,,
-9541LB,De Vennen,36,,
-9541LB,De Vennen,38,,
-9541LB,De Vennen,40,,
-9541LB,De Vennen,42,,
-9541LC,De Vennen,46,,
-9541LC,De Vennen,48,,
-9541LC,De Vennen,50,,
-9541LC,De Vennen,52,,
-9541LC,De Vennen,54,,
-9541LC,De Vennen,56,,
-9541LC,De Vennen,58,,
-9541LC,De Vennen,60,,
-9541LC,De Vennen,62,,
-9541LC,De Vennen,64,,
-9541LC,De Vennen,66,,
-9541LC,De Vennen,68,,
-9541LC,De Vennen,70,,
-9541LC,De Vennen,72,,
-9541LC,De Vennen,74,,
-9541LC,De Vennen,76,,
-9541LC,De Vennen,78,,
-9541LC,De Vennen,80,,
-9541LC,De Vennen,82,,
-9541LC,De Vennen,84,,
-9541LC,De Vennen,86,,
-9541LC,De Vennen,88,,
-9541LC,De Vennen,90,,
-9541LC,De Vennen,92,,
-9541LC,De Vennen,94,,
-9541LC,De Vennen,96,,
-9541LC,De Vennen,98,,
-9541LC,De Vennen,100,,
-9541LC,De Vennen,102,,
-9541LC,De Vennen,104,,
-9541LC,De Vennen,106,,
-9541LC,De Vennen,44,,
-9541LC,De Vennen,46,,
-9541LD,De Vennen,108,,
-9541LD,De Vennen,110,,
-9541LD,De Vennen,112,,
-9541LD,De Vennen,114,,
-9541LD,De Vennen,116,,
-9541LD,De Vennen,118,,
-9541LD,De Vennen,120,,
-9541LD,De Vennen,122,,
-9541LD,De Vennen,124,,
-9541LD,De Vennen,126,,
-9541LD,De Vennen,128,,
-9541LD,De Vennen,130,,
-9541LD,De Vennen,132,,
-9541LD,De Vennen,134,,
-9541LD,De Vennen,136,,
-9541LD,De Vennen,138,,
-9541LD,De Vennen,140,,
-9541LD,De Vennen,142,,
-9541LD,De Vennen,144,,
-9541LD,De Vennen,146,,
-9541LD,De Vennen,148,,
-9541LD,De Vennen,150,,
-9541LD,De Vennen,152,,
-9541LD,De Vennen,154,,
-9541LE,De Vennen,156,,
-9541LE,De Vennen,158,,
-9541LE,De Vennen,160,,
-9541LE,De Vennen,162,,
-9541LE,De Vennen,164,,
-9541LE,De Vennen,166,,
-9541LE,De Vennen,168,,
-9541LE,De Vennen,170,,
-9541LE,De Vennen,172,,
-9541LE,De Vennen,174,,
-9541LE,De Vennen,176,,
-9541LE,De Vennen,178,,
-9541LE,De Vennen,180,,
-9541LE,De Vennen,182,,
-9541LE,De Vennen,184,,
-9541LE,De Vennen,186,,
-9541LE,De Vennen,188,,
-9541LE,De Vennen,190,,
-9541LE,De Vennen,192,,
-9541LE,De Vennen,194,,
-9541LE,De Vennen,196,,
-9541LE,De Vennen,198,,
-9541LE,De Vennen,200,,
-9541LE,De Vennen,202,,
-9541LE,De Vennen,204,,
-9541LE,De Vennen,208,,
-9541LE,De Vennen,210,,
-9541LE,De Vennen,214,,
-9541LE,De Vennen,216,,
-9541LE,De Vennen,218,,
-9541LE,De Vennen,220,,
-9541LE,De Vennen,222,,
-9541LE,De Vennen,224,,
-9541LE,De Vennen,226,,
-9541LE,De Vennen,234,,
-9541LE,De Vennen,236,,
-9541LE,De Vennen,238,,
-9541LE,De Vennen,240,,
-9541LE,De Vennen,242,,
-9541LG,De Vennen,1,,
-9541LG,De Vennen,3,,
-9541LG,De Vennen,5,,
-9541LG,De Vennen,7,,
-9541LG,De Vennen,9,,
-9541LG,De Vennen,11,,
-9541LG,De Vennen,13,,
-9541LG,De Vennen,15,,
-9541LG,De Vennen,17,,
-9541LG,De Vennen,19,,
-9541LG,De Vennen,21,,
-9541LH,De Vennen,45,,
-9541LH,De Vennen,47,,
-9541LH,De Vennen,49,,
-9541LH,De Vennen,51,,
-9541LH,De Vennen,53,,
-9541LH,De Vennen,55,,
-9541LH,De Vennen,57,,
-9541LH,De Vennen,59,,
-9541LH,De Vennen,61,,
-9541LH,De Vennen,63,,
-9541LH,De Vennen,65,,
-9541LH,De Vennen,67,,
-9541LH,De Vennen,69,,
-9541LH,De Vennen,23,,
-9541LH,De Vennen,25,,
-9541LH,De Vennen,27,,
-9541LH,De Vennen,29,,
-9541LH,De Vennen,31,,
-9541LH,De Vennen,33,,
-9541LH,De Vennen,35,,
-9541LH,De Vennen,37,,
-9541LH,De Vennen,39,,
-9541LH,De Vennen,41,,
-9541LH,De Vennen,43,,
-9541LJ,De Vennen,71,,
-9541LJ,De Vennen,73,,
-9541LJ,De Vennen,75,,
-9541LJ,De Vennen,77,,
-9541LJ,De Vennen,79,,
-9541LJ,De Vennen,81,,
-9541LJ,De Vennen,83,,
-9541LJ,De Vennen,85,,
-9541LJ,De Vennen,87,,
-9541LJ,De Vennen,89,,
-9541LJ,De Vennen,91,,
-9541LJ,De Vennen,93,,
-9541LJ,De Vennen,95,,
-9541LJ,De Vennen,97,,
-9541LJ,De Vennen,99,,
-9541LJ,De Vennen,101,,
-9541LJ,De Vennen,103,,
-9541LJ,De Vennen,105,,
-9541LJ,De Vennen,107,,
-9541LJ,De Vennen,109,,
-9541LJ,De Vennen,111,,
-9541LJ,De Vennen,113,,
-9541LJ,De Vennen,115,,
-9541LJ,De Vennen,117,,
-9541LJ,De Vennen,119,,
-9541LJ,De Vennen,121,,
-9541LJ,De Vennen,123,,
-9541LJ,De Vennen,125,,
-9541LJ,De Vennen,127,,
-9541LJ,De Vennen,129,,
-9541LJ,De Vennen,131,,
-9541LJ,De Vennen,133,,
-9541LJ,De Vennen,135,,
-9541LJ,De Vennen,137,,
-9541LJ,De Vennen,139,,
-9541LJ,De Vennen,141,,
-9541LJ,De Vennen,143,,
-9541LJ,De Vennen,145,,
-9541LK,De Vennen,147,,
-9541LK,De Vennen,149,,
-9541LK,De Vennen,151,,
-9541LK,De Vennen,153,,
-9541LK,De Vennen,155,,
-9541LK,De Vennen,157,,
-9541LK,De Vennen,159,,
-9541LK,De Vennen,161,,
-9541LK,De Vennen,163,,
-9541LK,De Vennen,165,,
-9541LK,De Vennen,167,,
-9541LK,De Vennen,169,,
-9541LK,De Vennen,171,,
-9541LK,De Vennen,173,,
-9541LK,De Vennen,175,,
-9541LK,De Vennen,177,,
-9541LK,De Vennen,179,,
-9541LK,De Vennen,181,,
-9541LK,De Vennen,183,,
-9541LK,De Vennen,193,,
-9541LK,De Vennen,197,,
-9541LK,De Vennen,199,,
-9541LK,De Vennen,207,,
-9541LK,De Vennen,209,,
-9541LK,De Vennen,211,,
-9541LK,De Vennen,213,,
-9541LK,De Vennen,215,,
-9541LK,De Vennen,217,,
-9541LK,De Vennen,219,,
-9541LK,De Vennen,221,,
-9541LK,De Vennen,223,,
-9541LK,De Vennen,225,,
-9541LK,De Vennen,233,,
-9541LK,De Vennen,239,,
-9541LK,De Vennen,243,,
-9541LK,De Vennen,201,,
-9541XS,Heuvelweg,1,,
-9541XS,Heuvelweg,2,,
-9541XS,Heuvelweg,3,,
-9541XS,Heuvelweg,4,,
-9541XS,Heuvelweg,5,,
-9541XS,Heuvelweg,6,,
-9541XS,Heuvelweg,7,,
-9541XS,Heuvelweg,8,,
-9541XS,Heuvelweg,9,,
-9541XS,Heuvelweg,10,,
-9541XS,Heuvelweg,11,,
-9541XS,Heuvelweg,12,,
-9541XS,Heuvelweg,13,,
-9541XS,Heuvelweg,14,,
-9541XS,Heuvelweg,15,,
-9541XS,Heuvelweg,16,,
-9541XS,Heuvelweg,17,,
-9541XS,Heuvelweg,18,,
-9541XS,Heuvelweg,19,,
-9541XS,Heuvelweg,20,,
-9541XS,Heuvelweg,21,,
-9541XS,Heuvelweg,22,,
-9541XS,Heuvelweg,23,,
-9541XS,Heuvelweg,24,,
-9541XS,Heuvelweg,25,,
-9541XS,Heuvelweg,26,,
-9541XS,Heuvelweg,27,,
-9541XS,Heuvelweg,28,,
-9541XS,Heuvelweg,29,,
-9541XS,Heuvelweg,30,,
-9541XS,Heuvelweg,31,,
-9541XS,Heuvelweg,32,,
-9541XS,Heuvelweg,33,,
-9541XS,Heuvelweg,34,,
-9541XS,Heuvelweg,35,,
-9541XS,Heuvelweg,36,,
-9541XS,Heuvelweg,37,,
-9541XS,Heuvelweg,38,,
-9541XS,Heuvelweg,39,,
-9541XS,Heuvelweg,40,,
-9541XS,Heuvelweg,41,,
-9541XS,Heuvelweg,42,,
-9541XS,Heuvelweg,44,,
-9541XS,Heuvelweg,46,,
-9541XS,Heuvelweg,48,,
-9541XS,Heuvelweg,50,,
-9541XS,Heuvelweg,52,,
-9541XS,Heuvelweg,54,,
-9541XS,Heuvelweg,55,,
-9541XS,Heuvelweg,56,,
-9541XS,Heuvelweg,57,,
-9541XS,Heuvelweg,58,,
-9541XS,Heuvelweg,59,,
-9541XS,Heuvelweg,60,,
-9541XS,Heuvelweg,61,,
-9541XS,Heuvelweg,62,,
-9541XS,Heuvelweg,63,,
-9541XS,Heuvelweg,65,,
-9541XS,Heuvelweg,66,,
-9541XS,Heuvelweg,67,,
-9541XS,Heuvelweg,69,,
-9541XS,Heuvelweg,70,,
-9541XS,Heuvelweg,71,,
-9541XS,Heuvelweg,73,,
-9541XS,Heuvelweg,75,,
-9541XS,Heuvelweg,77,,
-9541XS,Heuvelweg,79,,
-9541XS,Heuvelweg,81,,
-9541XS,Heuvelweg,83,,
-9541XS,Heuvelweg,85,,
-9541XS,Heuvelweg,87,,
-9541XS,Heuvelweg,89,,
-9541XS,Heuvelweg,91,,
-9541XS,Heuvelweg,93,,
-9541XS,Heuvelweg,32,,
-9541XS,Heuvelweg,19,,
-9541VE,Kolonel Blondeelweg,2,,
-9541VE,Kolonel Blondeelweg,3,a,
-9541VE,Kolonel Blondeelweg,4,,
-9541VE,Kolonel Blondeelweg,5,,
-9541VE,Kolonel Blondeelweg,6,a,
-9541VE,Kolonel Blondeelweg,6,,
-9541VE,Kolonel Blondeelweg,7,,
-9541VE,Kolonel Blondeelweg,8,,
-9541VE,Kolonel Blondeelweg,9,,
-9541VE,Kolonel Blondeelweg,10,,
-9541VE,Kolonel Blondeelweg,11,,
-9541VE,Kolonel Blondeelweg,3,,
-9541ZA,Laan van Westerwolde,6,,
-9541ZA,Laan van Westerwolde,10,,
-9541ZA,Laan van Westerwolde,15,b,
-9541ZA,Laan van Westerwolde,15,c,
-9541ZA,Laan van Westerwolde,15,,
-9541VR,Mussel A kanaal Zuid,2,,
-9541VR,Mussel A kanaal Zuid,3,,
-9541VR,Mussel A kanaal Zuid,4,,
-9541VR,Mussel A kanaal Zuid,5,,
-9541VR,Mussel A kanaal Zuid,6,,
-9541VR,Mussel A kanaal Zuid,8,,
-9541VR,Mussel A kanaal Zuid,9,,
-9541VR,Mussel A kanaal Zuid,10,b,
-9541VR,Mussel A kanaal Zuid,10,,
-9541LA,Nieuwe Parklaan,1,,
-9541LA,Nieuwe Parklaan,2,,
-9541LA,Nieuwe Parklaan,3,,
-9541LA,Nieuwe Parklaan,4,,
-9541LA,Nieuwe Parklaan,6,,
-9541XA,Ruiten A kanaal West I,2,,
-9541XA,Ruiten A kanaal West I,3,,
-9541XA,Ruiten A kanaal West I,4,,
-9541XA,Ruiten A kanaal West I,6,,
-9541XV,Spetsebrugweg,1,a,
-9541XV,Spetsebrugweg,1,b,
-9541XV,Spetsebrugweg,1,,
-9541XV,Spetsebrugweg,3,,
-9541VT,Veelerweg,2,a,
-9541VT,Veelerweg,2,b,
-9541VT,Veelerweg,2,c,
-9541VT,Veelerweg,4,,
-9541VT,Veelerweg,5,,
-9541VT,Veelerweg,6,,
-9541VT,Veelerweg,8,,
-9541VT,Veelerweg,10,a,
-9541VT,Veelerweg,10,,
-9541VT,Veelerweg,11,,
-9541VT,Veelerweg,12,,
-9541VT,Veelerweg,13,,
-9541VT,Veelerweg,14,,
-9541VT,Veelerweg,14,,
-9541VT,Veelerweg,15,,
-9541VT,Veelerweg,17,,
-9541VT,Veelerweg,19,,
-9541VT,Veelerweg,21,,
-9541VT,Veelerweg,22,,
-9541VT,Veelerweg,23,,
-9541VT,Veelerweg,25,,
-9541VT,Veelerweg,26,,
-9541VT,Veelerweg,3,,
-9541VT,Veelerweg,1,,
-9541VT,Veelerweg,14,,
-9541XN,Venneweg,2,,
-9541XN,Venneweg,4,,
-9541XN,Venneweg,6,,
-9541XN,Venneweg,8,,
-9541XN,Venneweg,10,,
-9541XN,Venneweg,14,,
-9541XN,Venneweg,15,,
-9541XN,Venneweg,16,,
-9541ZB,Verlengde Heuvelweg,6,,
-9541ZB,Verlengde Heuvelweg,12,,
-9541ZB,Verlengde Heuvelweg,14,,
-9541ZB,Verlengde Heuvelweg,16,,
-9541ZB,Verlengde Heuvelweg,18,,
-9541ZB,Verlengde Heuvelweg,4,,
-9541ZB,Verlengde Heuvelweg,2,,
-9541ZB,Verlengde Heuvelweg,10,,
-9541ZB,Verlengde Heuvelweg,11,,
-9541ZB,Verlengde Heuvelweg,9,,
-9541ZB,Verlengde Heuvelweg,8,,
-9541ZC,Verlengde Vennen,1,,
-9541ZC,Verlengde Vennen,2,,
-9541ZC,Verlengde Vennen,3,,
-9541ZC,Verlengde Vennen,22,,
-9541ZC,Verlengde Vennen,25,,
-9541ZC,Verlengde Vennen,23,,
-9541ZC,Verlengde Vennen,23,,
-9541ZC,Verlengde Vennen,21,,
-9541ZC,Verlengde Vennen,21,,
-9541ZC,Verlengde Vennen,19,,
-9541ZC,Verlengde Vennen,27,,
-9541ZC,Verlengde Vennen,25,,
-9541ZC,Verlengde Vennen,29,,
-9541ZC,Verlengde Vennen,27,,
-9541ZC,Verlengde Vennen,31,,
-9541ZC,Verlengde Vennen,29,,
-9541ZC,Verlengde Vennen,33,,
-9541ZC,Verlengde Vennen,31,,
-9541ZC,Verlengde Vennen,65,,
-9541ZC,Verlengde Vennen,7,,
-9541ZC,Verlengde Vennen,9,,
-9541ZC,Verlengde Vennen,16,,
-9541ZC,Verlengde Vennen,14,,
-9541ZC,Verlengde Vennen,15,,
-9541ZC,Verlengde Vennen,17,,
-9541ZC,Verlengde Vennen,24,,
-9541ZC,Verlengde Vennen,11,,
-9541ZC,Verlengde Vennen,11,,
-9541ZC,Verlengde Vennen,26,,
-9541ZC,Verlengde Vennen,28,,
-9541ZC,Verlengde Vennen,30,,
-9541ZC,Verlengde Vennen,44,,
-9541ZC,Verlengde Vennen,46,,
-9541ZC,Verlengde Vennen,10,,
-9541ZC,Verlengde Vennen,18,,
-9541ZC,Verlengde Vennen,44,,
-9541VM,Wedderstraat,51,,
-9541VM,Wedderstraat,53,a,
-9541VM,Wedderstraat,53,b,
-9541VM,Wedderstraat,53,b,
-9541VM,Wedderstraat,53,c,
-9541VM,Wedderstraat,53,,
-9541VM,Wedderstraat,57,,
-9541VM,Wedderstraat,59,,
-9541VM,Wedderstraat,61,,
-9541VM,Wedderstraat,63,,
-9541VM,Wedderstraat,65,,
-9541VM,Wedderstraat,69,,
-9541VM,Wedderstraat,71,,TRAF
-9541VM,Wedderstraat,73,,
-9541VM,Wedderstraat,75,,
-9541VM,Wedderstraat,85,,
-9541VM,Wedderstraat,87,,
-9541VM,Wedderstraat,55,,
-9541VN,Wedderstraat,48,,
-9541VN,Wedderstraat,50,,
-9541VN,Wedderstraat,52,,
-9541VN,Wedderstraat,54,,
-9541VN,Wedderstraat,60,,
-9541VN,Wedderstraat,66,,
-9541VN,Wedderstraat,68,,
-9541VN,Wedderstraat,70,,
-9541VN,Wedderstraat,72,,
-9541VN,Wedderstraat,74,,
-9541VN,Wedderstraat,76,,
-9541VP,Wedderstraat,78,,
-9541VP,Wedderstraat,80,,
-9541VP,Wedderstraat,82,,
-9541VP,Wedderstraat,84,,
-9541LD,De Vennen,132,,
-9541LE,De Vennen,186,,
-9541XS,Heuvelweg,11,,
-9541ZA,Laan van Westerwolde,8,,
-9541VT,Veelerweg,13,,
-9541VM,Wedderstraat,67,,
-9541LJ,De Vennen,95,,
-9541LJ,De Vennen,95,,
-9541XS,Heuvelweg,7,,
-9541XS,Heuvelweg,7,,
-9541XS,Heuvelweg,15,,
-9541VR,Mussel A kanaal Zuid,11,,
-9541VT,Veelerweg,22,,
-9541ZC,Verlengde Vennen,4,,
-9541ZC,Verlengde Vennen,24,a,
-9541VM,Wedderstraat,53,d,
-9541VN,Wedderstraat,52,a,
-9541VT,Veelerweg,22,,
-9541ZC,Verlengde Vennen,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuwe Parklaan,1,"","",9541LA,Vlagtwedde
+Nieuwe Parklaan,2,"","",9541LA,Vlagtwedde
+Nieuwe Parklaan,3,"","",9541LA,Vlagtwedde
+Nieuwe Parklaan,4,"","",9541LA,Vlagtwedde
+Nieuwe Parklaan,6,"","",9541LA,Vlagtwedde
+De Vennen,10,"","",9541LB,Vlagtwedde
+De Vennen,12,"","",9541LB,Vlagtwedde
+De Vennen,14,"","",9541LB,Vlagtwedde
+De Vennen,16,"","",9541LB,Vlagtwedde
+De Vennen,18,"","",9541LB,Vlagtwedde
+De Vennen,2,"","",9541LB,Vlagtwedde
+De Vennen,20,"","",9541LB,Vlagtwedde
+De Vennen,22,"","",9541LB,Vlagtwedde
+De Vennen,24,"","",9541LB,Vlagtwedde
+De Vennen,26,"","",9541LB,Vlagtwedde
+De Vennen,28,"","",9541LB,Vlagtwedde
+De Vennen,30,"","",9541LB,Vlagtwedde
+De Vennen,32,"","",9541LB,Vlagtwedde
+De Vennen,34,"","",9541LB,Vlagtwedde
+De Vennen,36,"","",9541LB,Vlagtwedde
+De Vennen,38,"","",9541LB,Vlagtwedde
+De Vennen,4,"","",9541LB,Vlagtwedde
+De Vennen,40,"","",9541LB,Vlagtwedde
+De Vennen,42,"","",9541LB,Vlagtwedde
+De Vennen,6,"","",9541LB,Vlagtwedde
+De Vennen,8,"","",9541LB,Vlagtwedde
+De Vennen,100,"","",9541LC,Vlagtwedde
+De Vennen,102,"","",9541LC,Vlagtwedde
+De Vennen,104,"","",9541LC,Vlagtwedde
+De Vennen,106,"","",9541LC,Vlagtwedde
+De Vennen,44,"","",9541LC,Vlagtwedde
+De Vennen,46,"","",9541LC,Vlagtwedde
+De Vennen,46,"","",9541LC,Vlagtwedde
+De Vennen,46,"","",9541LC,Vlagtwedde
+De Vennen,48,"","",9541LC,Vlagtwedde
+De Vennen,48,"","",9541LC,Vlagtwedde
+De Vennen,50,"","",9541LC,Vlagtwedde
+De Vennen,50,"","",9541LC,Vlagtwedde
+De Vennen,52,"","",9541LC,Vlagtwedde
+De Vennen,54,"","",9541LC,Vlagtwedde
+De Vennen,56,"","",9541LC,Vlagtwedde
+De Vennen,58,"","",9541LC,Vlagtwedde
+De Vennen,60,"","",9541LC,Vlagtwedde
+De Vennen,62,"","",9541LC,Vlagtwedde
+De Vennen,64,"","",9541LC,Vlagtwedde
+De Vennen,66,"","",9541LC,Vlagtwedde
+De Vennen,68,"","",9541LC,Vlagtwedde
+De Vennen,70,"","",9541LC,Vlagtwedde
+De Vennen,72,"","",9541LC,Vlagtwedde
+De Vennen,74,"","",9541LC,Vlagtwedde
+De Vennen,76,"","",9541LC,Vlagtwedde
+De Vennen,78,"","",9541LC,Vlagtwedde
+De Vennen,80,"","",9541LC,Vlagtwedde
+De Vennen,82,"","",9541LC,Vlagtwedde
+De Vennen,84,"","",9541LC,Vlagtwedde
+De Vennen,86,"","",9541LC,Vlagtwedde
+De Vennen,88,"","",9541LC,Vlagtwedde
+De Vennen,90,"","",9541LC,Vlagtwedde
+De Vennen,90,"","",9541LC,Vlagtwedde
+De Vennen,92,"","",9541LC,Vlagtwedde
+De Vennen,94,"","",9541LC,Vlagtwedde
+De Vennen,96,"","",9541LC,Vlagtwedde
+De Vennen,98,"","",9541LC,Vlagtwedde
+De Vennen,108,"","",9541LD,Vlagtwedde
+De Vennen,110,"","",9541LD,Vlagtwedde
+De Vennen,112,"","",9541LD,Vlagtwedde
+De Vennen,114,"","",9541LD,Vlagtwedde
+De Vennen,116,"","",9541LD,Vlagtwedde
+De Vennen,118,"","",9541LD,Vlagtwedde
+De Vennen,120,"","",9541LD,Vlagtwedde
+De Vennen,122,"","",9541LD,Vlagtwedde
+De Vennen,124,"","",9541LD,Vlagtwedde
+De Vennen,126,"","",9541LD,Vlagtwedde
+De Vennen,128,"","",9541LD,Vlagtwedde
+De Vennen,130,"","",9541LD,Vlagtwedde
+De Vennen,132,"","",9541LD,Vlagtwedde
+De Vennen,132,"","",9541LD,Vlagtwedde
+De Vennen,132,"","",9541LD,Vlagtwedde
+De Vennen,134,"","",9541LD,Vlagtwedde
+De Vennen,134,"","",9541LD,Vlagtwedde
+De Vennen,136,"","",9541LD,Vlagtwedde
+De Vennen,138,"","",9541LD,Vlagtwedde
+De Vennen,140,"","",9541LD,Vlagtwedde
+De Vennen,142,"","",9541LD,Vlagtwedde
+De Vennen,144,"","",9541LD,Vlagtwedde
+De Vennen,146,"","",9541LD,Vlagtwedde
+De Vennen,148,"","",9541LD,Vlagtwedde
+De Vennen,150,"","",9541LD,Vlagtwedde
+De Vennen,152,"","",9541LD,Vlagtwedde
+De Vennen,154,"","",9541LD,Vlagtwedde
+De Vennen,156,"","",9541LE,Vlagtwedde
+De Vennen,158,"","",9541LE,Vlagtwedde
+De Vennen,160,"","",9541LE,Vlagtwedde
+De Vennen,162,"","",9541LE,Vlagtwedde
+De Vennen,164,"","",9541LE,Vlagtwedde
+De Vennen,166,"","",9541LE,Vlagtwedde
+De Vennen,168,"","",9541LE,Vlagtwedde
+De Vennen,170,"","",9541LE,Vlagtwedde
+De Vennen,172,"","",9541LE,Vlagtwedde
+De Vennen,174,"","",9541LE,Vlagtwedde
+De Vennen,176,"","",9541LE,Vlagtwedde
+De Vennen,178,"","",9541LE,Vlagtwedde
+De Vennen,180,"","",9541LE,Vlagtwedde
+De Vennen,182,"","",9541LE,Vlagtwedde
+De Vennen,184,"","",9541LE,Vlagtwedde
+De Vennen,186,"","",9541LE,Vlagtwedde
+De Vennen,186,"","",9541LE,Vlagtwedde
+De Vennen,186,"","",9541LE,Vlagtwedde
+De Vennen,188,"","",9541LE,Vlagtwedde
+De Vennen,188,"","",9541LE,Vlagtwedde
+De Vennen,190,"","",9541LE,Vlagtwedde
+De Vennen,192,"","",9541LE,Vlagtwedde
+De Vennen,194,"","",9541LE,Vlagtwedde
+De Vennen,196,"","",9541LE,Vlagtwedde
+De Vennen,198,"","",9541LE,Vlagtwedde
+De Vennen,200,"","",9541LE,Vlagtwedde
+De Vennen,202,"","",9541LE,Vlagtwedde
+De Vennen,204,"","",9541LE,Vlagtwedde
+De Vennen,208,"","",9541LE,Vlagtwedde
+De Vennen,210,"","",9541LE,Vlagtwedde
+De Vennen,214,"","",9541LE,Vlagtwedde
+De Vennen,216,"","",9541LE,Vlagtwedde
+De Vennen,218,"","",9541LE,Vlagtwedde
+De Vennen,220,"","",9541LE,Vlagtwedde
+De Vennen,222,"","",9541LE,Vlagtwedde
+De Vennen,224,"","",9541LE,Vlagtwedde
+De Vennen,226,"","",9541LE,Vlagtwedde
+De Vennen,234,"","",9541LE,Vlagtwedde
+De Vennen,236,"","",9541LE,Vlagtwedde
+De Vennen,238,"","",9541LE,Vlagtwedde
+De Vennen,240,"","",9541LE,Vlagtwedde
+De Vennen,242,"","",9541LE,Vlagtwedde
+De Vennen,1,"","",9541LG,Vlagtwedde
+De Vennen,11,"","",9541LG,Vlagtwedde
+De Vennen,13,"","",9541LG,Vlagtwedde
+De Vennen,15,"","",9541LG,Vlagtwedde
+De Vennen,17,"","",9541LG,Vlagtwedde
+De Vennen,19,"","",9541LG,Vlagtwedde
+De Vennen,21,"","",9541LG,Vlagtwedde
+De Vennen,3,"","",9541LG,Vlagtwedde
+De Vennen,5,"","",9541LG,Vlagtwedde
+De Vennen,7,"","",9541LG,Vlagtwedde
+De Vennen,9,"","",9541LG,Vlagtwedde
+De Vennen,23,"","",9541LH,Vlagtwedde
+De Vennen,25,"","",9541LH,Vlagtwedde
+De Vennen,27,"","",9541LH,Vlagtwedde
+De Vennen,29,"","",9541LH,Vlagtwedde
+De Vennen,31,"","",9541LH,Vlagtwedde
+De Vennen,33,"","",9541LH,Vlagtwedde
+De Vennen,35,"","",9541LH,Vlagtwedde
+De Vennen,37,"","",9541LH,Vlagtwedde
+De Vennen,39,"","",9541LH,Vlagtwedde
+De Vennen,41,"","",9541LH,Vlagtwedde
+De Vennen,43,"","",9541LH,Vlagtwedde
+De Vennen,45,"","",9541LH,Vlagtwedde
+De Vennen,47,"","",9541LH,Vlagtwedde
+De Vennen,49,"","",9541LH,Vlagtwedde
+De Vennen,51,"","",9541LH,Vlagtwedde
+De Vennen,53,"","",9541LH,Vlagtwedde
+De Vennen,55,"","",9541LH,Vlagtwedde
+De Vennen,57,"","",9541LH,Vlagtwedde
+De Vennen,59,"","",9541LH,Vlagtwedde
+De Vennen,61,"","",9541LH,Vlagtwedde
+De Vennen,63,"","",9541LH,Vlagtwedde
+De Vennen,65,"","",9541LH,Vlagtwedde
+De Vennen,67,"","",9541LH,Vlagtwedde
+De Vennen,69,"","",9541LH,Vlagtwedde
+De Vennen,101,"","",9541LJ,Vlagtwedde
+De Vennen,103,"","",9541LJ,Vlagtwedde
+De Vennen,105,"","",9541LJ,Vlagtwedde
+De Vennen,107,"","",9541LJ,Vlagtwedde
+De Vennen,109,"","",9541LJ,Vlagtwedde
+De Vennen,111,"","",9541LJ,Vlagtwedde
+De Vennen,113,"","",9541LJ,Vlagtwedde
+De Vennen,115,"","",9541LJ,Vlagtwedde
+De Vennen,117,"","",9541LJ,Vlagtwedde
+De Vennen,119,"","",9541LJ,Vlagtwedde
+De Vennen,121,"","",9541LJ,Vlagtwedde
+De Vennen,123,"","",9541LJ,Vlagtwedde
+De Vennen,125,"","",9541LJ,Vlagtwedde
+De Vennen,127,"","",9541LJ,Vlagtwedde
+De Vennen,129,"","",9541LJ,Vlagtwedde
+De Vennen,131,"","",9541LJ,Vlagtwedde
+De Vennen,133,"","",9541LJ,Vlagtwedde
+De Vennen,135,"","",9541LJ,Vlagtwedde
+De Vennen,137,"","",9541LJ,Vlagtwedde
+De Vennen,139,"","",9541LJ,Vlagtwedde
+De Vennen,141,"","",9541LJ,Vlagtwedde
+De Vennen,143,"","",9541LJ,Vlagtwedde
+De Vennen,145,"","",9541LJ,Vlagtwedde
+De Vennen,71,"","",9541LJ,Vlagtwedde
+De Vennen,73,"","",9541LJ,Vlagtwedde
+De Vennen,75,"","",9541LJ,Vlagtwedde
+De Vennen,77,"","",9541LJ,Vlagtwedde
+De Vennen,79,"","",9541LJ,Vlagtwedde
+De Vennen,81,"","",9541LJ,Vlagtwedde
+De Vennen,83,"","",9541LJ,Vlagtwedde
+De Vennen,85,"","",9541LJ,Vlagtwedde
+De Vennen,87,"","",9541LJ,Vlagtwedde
+De Vennen,89,"","",9541LJ,Vlagtwedde
+De Vennen,91,"","",9541LJ,Vlagtwedde
+De Vennen,93,"","",9541LJ,Vlagtwedde
+De Vennen,95,"","",9541LJ,Vlagtwedde
+De Vennen,95,"","",9541LJ,Vlagtwedde
+De Vennen,97,"","",9541LJ,Vlagtwedde
+De Vennen,97,"","",9541LJ,Vlagtwedde
+De Vennen,99,"","",9541LJ,Vlagtwedde
+De Vennen,147,"","",9541LK,Vlagtwedde
+De Vennen,149,"","",9541LK,Vlagtwedde
+De Vennen,151,"","",9541LK,Vlagtwedde
+De Vennen,153,"","",9541LK,Vlagtwedde
+De Vennen,155,"","",9541LK,Vlagtwedde
+De Vennen,157,"","",9541LK,Vlagtwedde
+De Vennen,159,"","",9541LK,Vlagtwedde
+De Vennen,161,"","",9541LK,Vlagtwedde
+De Vennen,163,"","",9541LK,Vlagtwedde
+De Vennen,165,"","",9541LK,Vlagtwedde
+De Vennen,167,"","",9541LK,Vlagtwedde
+De Vennen,169,"","",9541LK,Vlagtwedde
+De Vennen,171,"","",9541LK,Vlagtwedde
+De Vennen,173,"","",9541LK,Vlagtwedde
+De Vennen,175,"","",9541LK,Vlagtwedde
+De Vennen,177,"","",9541LK,Vlagtwedde
+De Vennen,179,"","",9541LK,Vlagtwedde
+De Vennen,181,"","",9541LK,Vlagtwedde
+De Vennen,183,"","",9541LK,Vlagtwedde
+De Vennen,193,"","",9541LK,Vlagtwedde
+De Vennen,197,"","",9541LK,Vlagtwedde
+De Vennen,199,"","",9541LK,Vlagtwedde
+De Vennen,201,"","",9541LK,Vlagtwedde
+De Vennen,207,"","",9541LK,Vlagtwedde
+De Vennen,209,"","",9541LK,Vlagtwedde
+De Vennen,211,"","",9541LK,Vlagtwedde
+De Vennen,213,"","",9541LK,Vlagtwedde
+De Vennen,215,"","",9541LK,Vlagtwedde
+De Vennen,217,"","",9541LK,Vlagtwedde
+De Vennen,219,"","",9541LK,Vlagtwedde
+De Vennen,221,"","",9541LK,Vlagtwedde
+De Vennen,223,"","",9541LK,Vlagtwedde
+De Vennen,225,"","",9541LK,Vlagtwedde
+De Vennen,233,"","",9541LK,Vlagtwedde
+De Vennen,239,"","",9541LK,Vlagtwedde
+De Vennen,243,"","",9541LK,Vlagtwedde
+Kolonel Blondeelweg,10,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,11,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,2,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,3,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,3,A,"",9541VE,Vlagtwedde
+Kolonel Blondeelweg,4,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,5,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,6,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,6,A,"",9541VE,Vlagtwedde
+Kolonel Blondeelweg,7,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,8,"","",9541VE,Vlagtwedde
+Kolonel Blondeelweg,9,"","",9541VE,Vlagtwedde
+Wedderstraat,51,"","",9541VM,Vlagtwedde
+Wedderstraat,53,"","",9541VM,Vlagtwedde
+Wedderstraat,53,A,"",9541VM,Vlagtwedde
+Wedderstraat,53,B,"",9541VM,Vlagtwedde
+Wedderstraat,53,B,"",9541VM,Vlagtwedde
+Wedderstraat,53,C,"",9541VM,Vlagtwedde
+Wedderstraat,55,"","",9541VM,Vlagtwedde
+Wedderstraat,57,"","",9541VM,Vlagtwedde
+Wedderstraat,59,"","",9541VM,Vlagtwedde
+Wedderstraat,61,"","",9541VM,Vlagtwedde
+Wedderstraat,63,"","",9541VM,Vlagtwedde
+Wedderstraat,65,"","",9541VM,Vlagtwedde
+Wedderstraat,67,"","",9541VM,Vlagtwedde
+Wedderstraat,69,"","",9541VM,Vlagtwedde
+Wedderstraat,71,"",TRAF,9541VM,Vlagtwedde
+Wedderstraat,73,"","",9541VM,Vlagtwedde
+Wedderstraat,75,"","",9541VM,Vlagtwedde
+Wedderstraat,85,"","",9541VM,Vlagtwedde
+Wedderstraat,87,"","",9541VM,Vlagtwedde
+Wedderstraat,48,"","",9541VN,Vlagtwedde
+Wedderstraat,50,"","",9541VN,Vlagtwedde
+Wedderstraat,52,"","",9541VN,Vlagtwedde
+Wedderstraat,54,"","",9541VN,Vlagtwedde
+Wedderstraat,60,"","",9541VN,Vlagtwedde
+Wedderstraat,66,"","",9541VN,Vlagtwedde
+Wedderstraat,68,"","",9541VN,Vlagtwedde
+Wedderstraat,70,"","",9541VN,Vlagtwedde
+Wedderstraat,72,"","",9541VN,Vlagtwedde
+Wedderstraat,74,"","",9541VN,Vlagtwedde
+Wedderstraat,76,"","",9541VN,Vlagtwedde
+Wedderstraat,78,"","",9541VP,Vlagtwedde
+Wedderstraat,80,"","",9541VP,Vlagtwedde
+Wedderstraat,82,"","",9541VP,Vlagtwedde
+Wedderstraat,84,"","",9541VP,Vlagtwedde
+Mussel A kanaal Zuid,10,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,10,B,"",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,2,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,3,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,4,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,5,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,6,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,8,"","",9541VR,Vlagtwedde
+Mussel A kanaal Zuid,9,"","",9541VR,Vlagtwedde
+Veelerweg,1,"","",9541VT,Vlagtwedde
+Veelerweg,10,"","",9541VT,Vlagtwedde
+Veelerweg,10,A,"",9541VT,Vlagtwedde
+Veelerweg,11,"","",9541VT,Vlagtwedde
+Veelerweg,12,"","",9541VT,Vlagtwedde
+Veelerweg,13,"","",9541VT,Vlagtwedde
+Veelerweg,13,"","",9541VT,Vlagtwedde
+Veelerweg,13,"","",9541VT,Vlagtwedde
+Veelerweg,14,"","",9541VT,Vlagtwedde
+Veelerweg,14,"","",9541VT,Vlagtwedde
+Veelerweg,14,"","",9541VT,Vlagtwedde
+Veelerweg,14,"","",9541VT,Vlagtwedde
+Veelerweg,14,"","",9541VT,Vlagtwedde
+Veelerweg,15,"","",9541VT,Vlagtwedde
+Veelerweg,17,"","",9541VT,Vlagtwedde
+Veelerweg,19,"","",9541VT,Vlagtwedde
+Veelerweg,2,A,"",9541VT,Vlagtwedde
+Veelerweg,2,B,"",9541VT,Vlagtwedde
+Veelerweg,2,C,"",9541VT,Vlagtwedde
+Veelerweg,21,"","",9541VT,Vlagtwedde
+Veelerweg,22,"","",9541VT,Vlagtwedde
+Veelerweg,22,"","",9541VT,Vlagtwedde
+Veelerweg,23,"","",9541VT,Vlagtwedde
+Veelerweg,25,"","",9541VT,Vlagtwedde
+Veelerweg,26,"","",9541VT,Vlagtwedde
+Veelerweg,3,"","",9541VT,Vlagtwedde
+Veelerweg,4,"","",9541VT,Vlagtwedde
+Veelerweg,5,"","",9541VT,Vlagtwedde
+Veelerweg,6,"","",9541VT,Vlagtwedde
+Veelerweg,8,"","",9541VT,Vlagtwedde
+Ruiten A kanaal West I,2,"","",9541XA,Vlagtwedde
+Ruiten A kanaal West I,3,"","",9541XA,Vlagtwedde
+Ruiten A kanaal West I,4,"","",9541XA,Vlagtwedde
+Ruiten A kanaal West I,6,"","",9541XA,Vlagtwedde
+Venneweg,10,"","",9541XN,Vlagtwedde
+Venneweg,14,"","",9541XN,Vlagtwedde
+Venneweg,15,"","",9541XN,Vlagtwedde
+Venneweg,16,"","",9541XN,Vlagtwedde
+Venneweg,2,"","",9541XN,Vlagtwedde
+Venneweg,4,"","",9541XN,Vlagtwedde
+Venneweg,6,"","",9541XN,Vlagtwedde
+Venneweg,8,"","",9541XN,Vlagtwedde
+Barlagerachterweg,1,"","",9541XR,Vlagtwedde
+Barlagerweg,10,"","",9541XR,Vlagtwedde
+Barlagerweg,10,A,"",9541XR,Vlagtwedde
+Barlagerweg,12,"","",9541XR,Vlagtwedde
+Barlagerweg,14,"","",9541XR,Vlagtwedde
+Barlagerweg,15,"","",9541XR,Vlagtwedde
+Barlagerweg,16,"","",9541XR,Vlagtwedde
+Barlagerachterweg,2,"","",9541XR,Vlagtwedde
+Barlagerachterweg,3,"","",9541XR,Vlagtwedde
+Barlagerveldweg,5,"","",9541XR,Vlagtwedde
+Heuvelweg,1,"","",9541XS,Vlagtwedde
+Heuvelweg,10,"","",9541XS,Vlagtwedde
+Heuvelweg,11,"","",9541XS,Vlagtwedde
+Heuvelweg,11,"","",9541XS,Vlagtwedde
+Heuvelweg,11,"","",9541XS,Vlagtwedde
+Heuvelweg,12,"","",9541XS,Vlagtwedde
+Heuvelweg,13,"","",9541XS,Vlagtwedde
+Heuvelweg,13,"","",9541XS,Vlagtwedde
+Heuvelweg,14,"","",9541XS,Vlagtwedde
+Heuvelweg,15,"","",9541XS,Vlagtwedde
+Heuvelweg,15,"","",9541XS,Vlagtwedde
+Heuvelweg,16,"","",9541XS,Vlagtwedde
+Heuvelweg,17,"","",9541XS,Vlagtwedde
+Heuvelweg,17,"","",9541XS,Vlagtwedde
+Heuvelweg,18,"","",9541XS,Vlagtwedde
+Heuvelweg,19,"","",9541XS,Vlagtwedde
+Heuvelweg,19,"","",9541XS,Vlagtwedde
+Heuvelweg,19,"","",9541XS,Vlagtwedde
+Heuvelweg,2,"","",9541XS,Vlagtwedde
+Heuvelweg,20,"","",9541XS,Vlagtwedde
+Heuvelweg,21,"","",9541XS,Vlagtwedde
+Heuvelweg,21,"","",9541XS,Vlagtwedde
+Heuvelweg,22,"","",9541XS,Vlagtwedde
+Heuvelweg,23,"","",9541XS,Vlagtwedde
+Heuvelweg,24,"","",9541XS,Vlagtwedde
+Heuvelweg,25,"","",9541XS,Vlagtwedde
+Heuvelweg,26,"","",9541XS,Vlagtwedde
+Heuvelweg,27,"","",9541XS,Vlagtwedde
+Heuvelweg,28,"","",9541XS,Vlagtwedde
+Heuvelweg,29,"","",9541XS,Vlagtwedde
+Heuvelweg,3,"","",9541XS,Vlagtwedde
+Heuvelweg,30,"","",9541XS,Vlagtwedde
+Heuvelweg,31,"","",9541XS,Vlagtwedde
+Heuvelweg,32,"","",9541XS,Vlagtwedde
+Heuvelweg,32,"","",9541XS,Vlagtwedde
+Heuvelweg,32,"","",9541XS,Vlagtwedde
+Heuvelweg,33,"","",9541XS,Vlagtwedde
+Heuvelweg,34,"","",9541XS,Vlagtwedde
+Heuvelweg,35,"","",9541XS,Vlagtwedde
+Heuvelweg,36,"","",9541XS,Vlagtwedde
+Heuvelweg,37,"","",9541XS,Vlagtwedde
+Heuvelweg,38,"","",9541XS,Vlagtwedde
+Heuvelweg,39,"","",9541XS,Vlagtwedde
+Heuvelweg,4,"","",9541XS,Vlagtwedde
+Heuvelweg,40,"","",9541XS,Vlagtwedde
+Heuvelweg,41,"","",9541XS,Vlagtwedde
+Heuvelweg,42,"","",9541XS,Vlagtwedde
+Heuvelweg,44,"","",9541XS,Vlagtwedde
+Heuvelweg,46,"","",9541XS,Vlagtwedde
+Heuvelweg,48,"","",9541XS,Vlagtwedde
+Heuvelweg,5,"","",9541XS,Vlagtwedde
+Heuvelweg,50,"","",9541XS,Vlagtwedde
+Heuvelweg,52,"","",9541XS,Vlagtwedde
+Heuvelweg,54,"","",9541XS,Vlagtwedde
+Heuvelweg,55,"","",9541XS,Vlagtwedde
+Heuvelweg,56,"","",9541XS,Vlagtwedde
+Heuvelweg,57,"","",9541XS,Vlagtwedde
+Heuvelweg,58,"","",9541XS,Vlagtwedde
+Heuvelweg,59,"","",9541XS,Vlagtwedde
+Heuvelweg,6,"","",9541XS,Vlagtwedde
+Heuvelweg,60,"","",9541XS,Vlagtwedde
+Heuvelweg,61,"","",9541XS,Vlagtwedde
+Heuvelweg,62,"","",9541XS,Vlagtwedde
+Heuvelweg,63,"","",9541XS,Vlagtwedde
+Heuvelweg,65,"","",9541XS,Vlagtwedde
+Heuvelweg,66,"","",9541XS,Vlagtwedde
+Heuvelweg,67,"","",9541XS,Vlagtwedde
+Heuvelweg,69,"","",9541XS,Vlagtwedde
+Heuvelweg,7,"","",9541XS,Vlagtwedde
+Heuvelweg,7,"","",9541XS,Vlagtwedde
+Heuvelweg,70,"","",9541XS,Vlagtwedde
+Heuvelweg,71,"","",9541XS,Vlagtwedde
+Heuvelweg,73,"","",9541XS,Vlagtwedde
+Heuvelweg,75,"","",9541XS,Vlagtwedde
+Heuvelweg,77,"","",9541XS,Vlagtwedde
+Heuvelweg,79,"","",9541XS,Vlagtwedde
+Heuvelweg,8,"","",9541XS,Vlagtwedde
+Heuvelweg,81,"","",9541XS,Vlagtwedde
+Heuvelweg,83,"","",9541XS,Vlagtwedde
+Heuvelweg,85,"","",9541XS,Vlagtwedde
+Heuvelweg,87,"","",9541XS,Vlagtwedde
+Heuvelweg,89,"","",9541XS,Vlagtwedde
+Heuvelweg,9,"","",9541XS,Vlagtwedde
+Heuvelweg,9,"","",9541XS,Vlagtwedde
+Heuvelweg,91,"","",9541XS,Vlagtwedde
+Heuvelweg,93,"","",9541XS,Vlagtwedde
+Spetsebrugweg,1,"","",9541XV,Vlagtwedde
+Spetsebrugweg,1,A,"",9541XV,Vlagtwedde
+Spetsebrugweg,1,B,"",9541XV,Vlagtwedde
+Spetsebrugweg,3,"","",9541XV,Vlagtwedde
+Laan van Westerwolde,10,"","",9541ZA,Vlagtwedde
+Laan van Westerwolde,15,"","",9541ZA,Vlagtwedde
+Laan van Westerwolde,15,B,"",9541ZA,Vlagtwedde
+Laan van Westerwolde,15,C,"",9541ZA,Vlagtwedde
+Laan van Westerwolde,6,"","",9541ZA,Vlagtwedde
+Laan van Westerwolde,8,"","",9541ZA,Vlagtwedde
+Verlengde Heuvelweg,10,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,11,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,12,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,14,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,16,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,18,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,2,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,4,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,6,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,8,"","",9541ZB,Vlagtwedde
+Verlengde Heuvelweg,9,"","",9541ZB,Vlagtwedde
+Verlengde Vennen,1,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,10,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,11,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,11,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,14,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,15,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,16,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,17,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,18,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,19,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,2,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,21,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,21,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,22,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,23,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,23,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,24,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,25,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,25,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,26,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,27,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,27,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,28,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,29,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,29,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,3,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,30,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,31,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,31,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,33,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,44,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,44,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,44,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,46,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,65,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,7,"","",9541ZC,Vlagtwedde
+Verlengde Vennen,9,"","",9541ZC,Vlagtwedde

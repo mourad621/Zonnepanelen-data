@@ -1,1565 +1,789 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9249MA",4,"",""
-"9249MA",48,"",""
-"9249MA",22,"",""
-"9249MA",12,"",""
-"9249MA",6,"",""
-"9249MA",2,"",""
-"9249MA",24,"",""
-"9249MA",16,"",""
-"9249MA",16,"",""
-"9249MA",42,"",""
-"9249MA",18,"",""
-"9249MA",44,"",""
-"9249MA",20,"",""
-"9249MA",22,"",""
-"9249MA",2,"",""
-"9249MA",20,"",""
-"9249MA",14,"",""
-"9249MA",46,"",""
-"9249MA",6,"",""
-"9249MA",14,"",""
-"9249MA",48,"",""
-"9249MA",8,"",""
-"9249MA",40,"",""
-"9249MA",4,"",""
-"9249MA",46,"",""
-"9249MA",36,"",""
-"9249MA",28,"",""
-"9249MA",42,"",""
-"9249MA",8,"",""
-"9249MA",18,"",""
-"9249MA",38,"",""
-"9249MA",36,"",""
-"9249MA",24,"",""
-"9249MA",10,"",""
-"9249MA",26,"",""
-"9249MA",38,"",""
-"9249MA",28,"",""
-"9249MA",32,"",""
-"9249MA",32,"",""
-"9249MA",44,"",""
-"9249MA",40,"",""
-"9249MA",30,"",""
-"9249MA",30,"",""
-"9249MA",12,"",""
-"9249MA",10,"",""
-"9249MA",26,"",""
-"9249MB",7,"",""
-"9249MB",13,"",""
-"9249MB",15,"",""
-"9249MB",15,"",""
-"9249MB",9,"",""
-"9249MB",3,"",""
-"9249MB",5,"",""
-"9249MB",11,"",""
-"9249MB",3,"",""
-"9249MB",9,"",""
-"9249MB",13,"",""
-"9249MB",1,"",""
-"9249MB",1,"",""
-"9249MB",5,"",""
-"9249MB",11,"",""
-"9249MB",7,"",""
-"9249MC",1,"",""
-"9249MC",1,"C",""
-"9249MC",1,"",""
-"9249MC",1,"A",""
-"9249MC",4,"",""
-"9249MC",2,"",""
-"9249MC",1,"B",""
-"9249MC",1,"",""
-"9249MC",1,"C",""
-"9249MC",4,"",""
-"9249MC",1,"A",""
-"9249MC",2,"",""
-"9249MC",1,"B",""
-"9249NA",17,"",""
-"9249NA",27,"",""
-"9249NA",29,"",""
-"9249NA",9,"",""
-"9249NA",19,"",""
-"9249NA",27,"",""
-"9249NA",3,"",""
-"9249NA",29,"",""
-"9249NA",25,"",""
-"9249NA",11,"",""
-"9249NA",23,"",""
-"9249NA",3,"",""
-"9249NA",4,"",""
-"9249NA",31,"",""
-"9249NA",7,"",""
-"9249NA",2,"A",""
-"9249NA",2,"",""
-"9249NA",13,"",""
-"9249NA",3,"A",""
-"9249NA",3,"",""
-"9249NA",2,"",""
-"9249NA",15,"",""
-"9249NA",11,"",""
-"9249NA",13,"",""
-"9249NA",21,"",""
-"9249NA",3,"A",""
-"9249NA",3,"A",""
-"9249NA",31,"",""
-"9249NA",25,"",""
-"9249NA",2,"A",""
-"9249NA",15,"",""
-"9249NA",5,"",""
-"9249NA",4,"",""
-"9249NA",17,"",""
-"9249NA",7,"",""
-"9249NA",9,"",""
-"9249NA",1,"",""
-"9249NA",21,"",""
-"9249NA",23,"",""
-"9249NA",1,"",""
-"9249NA",19,"",""
-"9249NA",5,"",""
-"9249NB",1,"A",""
-"9249NB",15,"",""
-"9249NB",7,"",""
-"9249NB",13,"",""
-"9249NB",9,"",""
-"9249NB",1,"A",""
-"9249NB",15,"",""
-"9249NB",1,"",""
-"9249NB",5,"",""
-"9249NB",9,"",""
-"9249NB",3,"",""
-"9249NB",1,"E",""
-"9249NB",1,"B",""
-"9249NB",5,"",""
-"9249NB",7,"",""
-"9249NB",1,"D",""
-"9249NB",1,"C",""
-"9249NB",1,"C",""
-"9249NB",1,"E",""
-"9249NB",13,"",""
-"9249NB",1,"",""
-"9249NB",1,"D",""
-"9249NB",1,"B",""
-"9249NB",3,"",""
-"9249NC",12,"",""
-"9249NC",6,"",""
-"9249NC",12,"",""
-"9249NC",10,"",""
-"9249NC",4,"",""
-"9249NC",14,"",""
-"9249NC",4,"",""
-"9249NC",2,"",""
-"9249NC",22,"",""
-"9249NC",24,"",""
-"9249NC",26,"",""
-"9249NC",10,"",""
-"9249NC",8,"",""
-"9249NC",8,"",""
-"9249NC",14,"",""
-"9249NC",22,"",""
-"9249NC",26,"",""
-"9249NC",2,"",""
-"9249NC",10,"",""
-"9249NC",26,"",""
-"9249NC",24,"",""
-"9249NC",18,"",""
-"9249NC",20,"",""
-"9249NC",16,"",""
-"9249NC",18,"",""
-"9249NC",26,"",""
-"9249NC",16,"",""
-"9249NC",6,"",""
-"9249NC",10,"",""
-"9249NC",26,"",""
-"9249NC",20,"",""
-"9249ND",27,"",""
-"9249ND",27,"",""
-"9249ND",9,"A",""
-"9249ND",29,"",""
-"9249ND",27,"",""
-"9249ND",23,"",""
-"9249ND",31,"",""
-"9249ND",33,"",""
-"9249ND",25,"",""
-"9249ND",27,"",""
-"9249ND",9,"A",""
-"9249ND",5,"",""
-"9249ND",11,"",""
-"9249ND",3,"",""
-"9249ND",11,"",""
-"9249ND",9,"A",""
-"9249ND",29,"",""
-"9249ND",11,"",""
-"9249ND",23,"",""
-"9249ND",35,"",""
-"9249ND",19,"",""
-"9249ND",31,"",""
-"9249ND",27,"A",""
-"9249ND",3,"",""
-"9249ND",9,"A",""
-"9249ND",9,"A",""
-"9249ND",7,"",""
-"9249ND",23,"",""
-"9249ND",11,"",""
-"9249ND",15,"",""
-"9249ND",11,"",""
-"9249ND",25,"",""
-"9249ND",19,"",""
-"9249ND",17,"",""
-"9249ND",21,"",""
-"9249ND",37,"",""
-"9249ND",5,"",""
-"9249ND",9,"",""
-"9249ND",9,"",""
-"9249ND",35,"",""
-"9249ND",11,"",""
-"9249ND",37,"",""
-"9249ND",11,"",""
-"9249ND",23,"",""
-"9249ND",21,"",""
-"9249ND",33,"",""
-"9249ND",7,"",""
-"9249ND",17,"",""
-"9249ND",15,"",""
-"9249NE",12,"",""
-"9249NE",24,"",""
-"9249NE",13,"",""
-"9249NE",15,"",""
-"9249NE",15,"",""
-"9249NE",13,"",""
-"9249NE",44,"",""
-"9249NE",5,"",""
-"9249NE",7,"",""
-"9249NE",8,"","TR01"
-"9249NE",24,"",""
-"9249NE",44,"","TR01"
-"9249NE",8,"","TR01"
-"9249NE",12,"",""
-"9249NE",11,"",""
-"9249NE",4,"",""
-"9249NE",18,"",""
-"9249NE",34,"A",""
-"9249NE",38,"",""
-"9249NE",16,"",""
-"9249NE",42,"",""
-"9249NE",38,"",""
-"9249NE",42,"",""
-"9249NE",20,"",""
-"9249NE",8,"",""
-"9249NE",9,"",""
-"9249NE",11,"",""
-"9249NE",9,"",""
-"9249NE",7,"",""
-"9249NE",4,"",""
-"9249NE",16,"",""
-"9249NE",6,"",""
-"9249NE",34,"",""
-"9249NE",34,"",""
-"9249NE",1,"",""
-"9249NE",34,"A",""
-"9249NE",8,"",""
-"9249NE",28,"",""
-"9249NE",20,"",""
-"9249NE",44,"",""
-"9249NE",22,"",""
-"9249NE",22,"",""
-"9249NE",18,"",""
-"9249NE",36,"",""
-"9249NE",5,"",""
-"9249NE",3,"",""
-"9249NE",36,"",""
-"9249NE",3,"",""
-"9249NE",1,"",""
-"9249NE",32,"",""
-"9249NE",30,"",""
-"9249NE",44,"","TR01"
-"9249NE",2,"",""
-"9249NE",40,"",""
-"9249NE",26,"",""
-"9249NE",6,"",""
-"9249NE",40,"",""
-"9249NE",28,"",""
-"9249NE",2,"",""
-"9249NE",30,"",""
-"9249NE",26,"",""
-"9249NE",32,"",""
-"9249NG",40,"",""
-"9249NG",1,"",""
-"9249NG",34,"",""
-"9249NG",2,"",""
-"9249NG",46,"",""
-"9249NG",42,"",""
-"9249NG",44,"",""
-"9249NG",36,"",""
-"9249NG",3,"",""
-"9249NG",28,"",""
-"9249NG",24,"",""
-"9249NG",42,"",""
-"9249NG",6,"",""
-"9249NG",38,"",""
-"9249NG",1,"",""
-"9249NG",17,"",""
-"9249NG",48,"",""
-"9249NG",5,"",""
-"9249NG",44,"",""
-"9249NG",6,"",""
-"9249NG",3,"",""
-"9249NG",17,"",""
-"9249NG",16,"",""
-"9249NG",11,"",""
-"9249NG",10,"",""
-"9249NG",28,"",""
-"9249NG",34,"",""
-"9249NG",7,"",""
-"9249NG",22,"",""
-"9249NG",32,"",""
-"9249NG",38,"",""
-"9249NG",46,"",""
-"9249NG",48,"",""
-"9249NG",15,"",""
-"9249NG",18,"",""
-"9249NG",16,"",""
-"9249NG",13,"",""
-"9249NG",12,"",""
-"9249NG",26,"",""
-"9249NG",32,"",""
-"9249NG",30,"",""
-"9249NG",18,"",""
-"9249NG",30,"",""
-"9249NG",19,"",""
-"9249NG",36,"",""
-"9249NG",5,"",""
-"9249NG",8,"",""
-"9249NG",14,"",""
-"9249NG",13,"",""
-"9249NG",15,"",""
-"9249NG",12,"",""
-"9249NG",11,"",""
-"9249NG",20,"",""
-"9249NG",26,"",""
-"9249NG",8,"",""
-"9249NG",22,"",""
-"9249NG",7,"",""
-"9249NG",4,"",""
-"9249NG",40,"",""
-"9249NG",9,"",""
-"9249NG",50,"",""
-"9249NG",10,"",""
-"9249NG",9,"",""
-"9249NG",4,"",""
-"9249NG",50,"",""
-"9249NG",24,"",""
-"9249NG",20,"",""
-"9249NG",14,"",""
-"9249NG",52,"",""
-"9249NG",19,"",""
-"9249NG",52,"",""
-"9249NG",2,"",""
-"9249NH",39,"",""
-"9249NH",37,"",""
-"9249NH",35,"",""
-"9249NH",33,"",""
-"9249NH",37,"",""
-"9249NH",25,"",""
-"9249NH",21,"",""
-"9249NH",27,"",""
-"9249NH",29,"",""
-"9249NH",29,"",""
-"9249NH",27,"",""
-"9249NH",39,"",""
-"9249NH",35,"",""
-"9249NH",23,"",""
-"9249NH",23,"",""
-"9249NH",31,"",""
-"9249NH",25,"",""
-"9249NH",33,"",""
-"9249NH",31,"",""
-"9249NH",21,"",""
-"9249NJ",4,"",""
-"9249NJ",2,"",""
-"9249NJ",14,"",""
-"9249NJ",10,"",""
-"9249NJ",4,"A",""
-"9249NJ",26,"",""
-"9249NJ",4,"",""
-"9249NJ",12,"",""
-"9249NJ",2,"",""
-"9249NJ",26,"",""
-"9249NJ",8,"",""
-"9249NJ",6,"",""
-"9249NJ",6,"B",""
-"9249NJ",6,"",""
-"9249NJ",20,"",""
-"9249NJ",30,"",""
-"9249NJ",24,"",""
-"9249NJ",28,"",""
-"9249NJ",22,"",""
-"9249NJ",16,"",""
-"9249NJ",4,"B",""
-"9249NJ",30,"",""
-"9249NJ",8,"",""
-"9249NJ",20,"",""
-"9249NJ",6,"A",""
-"9249NJ",14,"",""
-"9249NJ",10,"",""
-"9249NJ",12,"",""
-"9249NJ",18,"",""
-"9249NJ",24,"",""
-"9249NJ",18,"",""
-"9249NJ",6,"",""
-"9249NJ",22,"",""
-"9249NJ",28,"",""
-"9249NJ",16,"",""
-"9249NK",32,"",""
-"9249NK",44,"",""
-"9249NK",52,"",""
-"9249NK",48,"",""
-"9249NK",58,"",""
-"9249NK",46,"",""
-"9249NK",58,"",""
-"9249NK",48,"",""
-"9249NK",38,"",""
-"9249NK",46,"",""
-"9249NK",34,"",""
-"9249NK",60,"",""
-"9249NK",42,"",""
-"9249NK",36,"",""
-"9249NK",50,"",""
-"9249NK",44,"",""
-"9249NK",38,"",""
-"9249NK",40,"",""
-"9249NK",34,"",""
-"9249NK",32,"",""
-"9249NK",52,"",""
-"9249NK",42,"",""
-"9249NK",60,"",""
-"9249NK",50,"",""
-"9249NK",56,"",""
-"9249NK",36,"",""
-"9249NK",40,"",""
-"9249NK",54,"",""
-"9249NK",54,"",""
-"9249NK",56,"",""
-"9249NL",17,"",""
-"9249NL",45,"",""
-"9249NL",31,"",""
-"9249NL",47,"",""
-"9249NL",19,"",""
-"9249NL",9,"",""
-"9249NL",39,"",""
-"9249NL",7,"",""
-"9249NL",35,"",""
-"9249NL",29,"",""
-"9249NL",29,"",""
-"9249NL",47,"",""
-"9249NL",15,"",""
-"9249NL",17,"",""
-"9249NL",51,"",""
-"9249NL",19,"",""
-"9249NL",41,"",""
-"9249NL",43,"",""
-"9249NL",27,"",""
-"9249NL",45,"",""
-"9249NL",33,"",""
-"9249NL",11,"",""
-"9249NL",11,"",""
-"9249NL",31,"",""
-"9249NL",15,"",""
-"9249NL",43,"",""
-"9249NL",27,"",""
-"9249NL",51,"",""
-"9249NL",13,"",""
-"9249NL",13,"",""
-"9249NL",37,"",""
-"9249NL",25,"",""
-"9249NL",25,"",""
-"9249NL",7,"",""
-"9249NL",9,"",""
-"9249NL",41,"",""
-"9249NL",39,"",""
-"9249NL",3,"",""
-"9249NL",1,"",""
-"9249NL",23,"",""
-"9249NL",1,"",""
-"9249NL",5,"",""
-"9249NL",49,"",""
-"9249NL",21,"",""
-"9249NL",3,"",""
-"9249NL",37,"",""
-"9249NL",21,"",""
-"9249NL",49,"",""
-"9249NL",33,"",""
-"9249NL",5,"",""
-"9249NL",35,"",""
-"9249NL",23,"",""
-"9249NM",10,"",""
-"9249NM",6,"",""
-"9249NM",8,"",""
-"9249NM",12,"",""
-"9249NM",5,"",""
-"9249NM",3,"",""
-"9249NM",12,"",""
-"9249NM",6,"",""
-"9249NM",2,"",""
-"9249NM",4,"",""
-"9249NM",2,"",""
-"9249NM",4,"",""
-"9249NM",7,"",""
-"9249NM",8,"",""
-"9249NM",3,"",""
-"9249NM",5,"",""
-"9249NM",7,"",""
-"9249NM",1,"",""
-"9249NM",10,"",""
-"9249NM",1,"",""
-"9249NN",17,"",""
-"9249NN",13,"",""
-"9249NN",19,"",""
-"9249NN",15,"",""
-"9249NN",11,"",""
-"9249NN",5,"",""
-"9249NN",23,"",""
-"9249NN",1,"",""
-"9249NN",33,"",""
-"9249NN",19,"",""
-"9249NN",27,"",""
-"9249NN",13,"",""
-"9249NN",33,"",""
-"9249NN",11,"",""
-"9249NN",5,"",""
-"9249NN",29,"",""
-"9249NN",15,"",""
-"9249NN",17,"",""
-"9249NN",27,"",""
-"9249NN",9,"",""
-"9249NN",31,"",""
-"9249NN",9,"",""
-"9249NN",7,"",""
-"9249NN",25,"",""
-"9249NN",23,"",""
-"9249NN",1,"",""
-"9249NN",29,"",""
-"9249NN",3,"",""
-"9249NN",3,"",""
-"9249NN",7,"",""
-"9249NN",25,"",""
-"9249NN",31,"",""
-"9249NP",61,"",""
-"9249NP",41,"",""
-"9249NP",45,"",""
-"9249NP",39,"",""
-"9249NP",51,"",""
-"9249NP",35,"",""
-"9249NP",51,"",""
-"9249NP",57,"A",""
-"9249NP",59,"",""
-"9249NP",59,"",""
-"9249NP",43,"",""
-"9249NP",37,"",""
-"9249NP",35,"",""
-"9249NP",41,"",""
-"9249NP",55,"",""
-"9249NP",37,"",""
-"9249NP",57,"",""
-"9249NP",55,"",""
-"9249NP",53,"",""
-"9249NP",49,"",""
-"9249NP",49,"",""
-"9249NP",61,"",""
-"9249NP",57,"",""
-"9249NP",39,"",""
-"9249NP",47,"",""
-"9249NP",43,"",""
-"9249NP",53,"",""
-"9249NP",45,"",""
-"9249NP",47,"",""
-"9249NP",57,"A",""
-"9249NR",2,"A",""
-"9249NR",2,"A",""
-"9249NR",9,"",""
-"9249NR",2,"",""
-"9249NR",2,"A",""
-"9249NR",2,"",""
-"9249NR",13,"",""
-"9249NR",2,"A",""
-"9249NR",5,"",""
-"9249NR",3,"",""
-"9249NR",1,"",""
-"9249NR",11,"",""
-"9249NR",1,"",""
-"9249NR",9,"",""
-"9249NR",4,"",""
-"9249NR",11,"",""
-"9249NR",13,"",""
-"9249NR",3,"",""
-"9249NR",7,"",""
-"9249NR",13,"",""
-"9249NR",6,"",""
-"9249NR",4,"",""
-"9249NR",7,"",""
-"9249NR",13,"",""
-"9249NR",6,"",""
-"9249NR",5,"",""
-"9249NR",13,"",""
-"9249NS",77,"","ZO01"
-"9249NS",73,"",""
-"9249NS",85,"",""
-"9249NS",71,"",""
-"9249NS",71,"",""
-"9249NS",81,"",""
-"9249NS",73,"",""
-"9249NS",87,"",""
-"9249NS",89,"",""
-"9249NS",87,"",""
-"9249NS",69,"",""
-"9249NS",93,"",""
-"9249NS",77,"",""
-"9249NS",63,"",""
-"9249NS",67,"",""
-"9249NS",89,"",""
-"9249NS",69,"",""
-"9249NS",95,"",""
-"9249NS",81,"",""
-"9249NS",83,"",""
-"9249NS",63,"",""
-"9249NS",67,"",""
-"9249NS",91,"",""
-"9249NS",93,"",""
-"9249NS",85,"",""
-"9249NS",83,"",""
-"9249NS",75,"",""
-"9249NS",77,"",""
-"9249NS",95,"",""
-"9249NS",75,"",""
-"9249NS",91,"",""
-"9249NT",2,"",""
-"9249NT",30,"",""
-"9249NT",22,"",""
-"9249NT",18,"",""
-"9249NT",14,"",""
-"9249NT",28,"",""
-"9249NT",4,"",""
-"9249NT",22,"",""
-"9249NT",28,"",""
-"9249NT",14,"",""
-"9249NT",20,"",""
-"9249NT",12,"",""
-"9249NT",20,"",""
-"9249NT",30,"",""
-"9249NT",26,"",""
-"9249NT",24,"",""
-"9249NT",26,"",""
-"9249NT",4,"",""
-"9249NT",6,"",""
-"9249NT",2,"",""
-"9249NT",10,"",""
-"9249NT",18,"",""
-"9249NT",8,"",""
-"9249NT",24,"",""
-"9249NT",14,"",""
-"9249NT",16,"",""
-"9249NT",16,"",""
-"9249NT",14,"",""
-"9249NT",6,"",""
-"9249NT",10,"",""
-"9249NT",12,"",""
-"9249NT",8,"",""
-"9249NV",44,"",""
-"9249NV",38,"",""
-"9249NV",48,"",""
-"9249NV",40,"",""
-"9249NV",38,"",""
-"9249NV",68,"",""
-"9249NV",34,"",""
-"9249NV",66,"",""
-"9249NV",40,"",""
-"9249NV",44,"",""
-"9249NV",42,"",""
-"9249NV",36,"",""
-"9249NV",46,"",""
-"9249NV",64,"",""
-"9249NV",54,"",""
-"9249NV",56,"",""
-"9249NV",66,"",""
-"9249NV",48,"",""
-"9249NV",38,"",""
-"9249NV",38,"",""
-"9249NV",42,"",""
-"9249NV",64,"",""
-"9249NV",62,"",""
-"9249NV",54,"",""
-"9249NV",58,"",""
-"9249NV",50,"",""
-"9249NV",46,"",""
-"9249NV",56,"",""
-"9249NV",52,"",""
-"9249NV",36,"",""
-"9249NV",62,"",""
-"9249NV",60,"",""
-"9249NV",50,"",""
-"9249NV",68,"",""
-"9249NV",34,"",""
-"9249NV",60,"",""
-"9249NV",58,"",""
-"9249NV",52,"",""
-"9249NX",90,"",""
-"9249NX",18,"","TR01"
-"9249NX",72,"",""
-"9249NX",54,"",""
-"9249NX",72,"",""
-"9249NX",18,"",""
-"9249NX",10,"",""
-"9249NX",4,"",""
-"9249NX",8,"",""
-"9249NX",86,"",""
-"9249NX",86,"",""
-"9249NX",70,"",""
-"9249NX",52,"",""
-"9249NX",50,"",""
-"9249NX",22,"",""
-"9249NX",84,"",""
-"9249NX",36,"",""
-"9249NX",38,"",""
-"9249NX",6,"",""
-"9249NX",88,"",""
-"9249NX",14,"",""
-"9249NX",70,"",""
-"9249NX",48,"",""
-"9249NX",52,"",""
-"9249NX",74,"",""
-"9249NX",90,"",""
-"9249NX",32,"",""
-"9249NX",28,"",""
-"9249NX",88,"",""
-"9249NX",26,"",""
-"9249NX",4,"",""
-"9249NX",6,"",""
-"9249NX",36,"",""
-"9249NX",16,"",""
-"9249NX",46,"",""
-"9249NX",18,"",""
-"9249NX",50,"",""
-"9249NX",12,"",""
-"9249NX",82,"",""
-"9249NX",32,"",""
-"9249NX",30,"",""
-"9249NX",28,"",""
-"9249NX",10,"",""
-"9249NX",2,"F",""
-"9249NX",2,"G",""
-"9249NX",56,"",""
-"9249NX",16,"",""
-"9249NX",12,"",""
-"9249NX",56,"",""
-"9249NX",48,"",""
-"9249NX",46,"",""
-"9249NX",84,"",""
-"9249NX",80,"",""
-"9249NX",30,"",""
-"9249NX",2,"C",""
-"9249NX",26,"",""
-"9249NX",8,"",""
-"9249NX",2,"E",""
-"9249NX",54,"",""
-"9249NX",42,"",""
-"9249NX",14,"",""
-"9249NX",40,"",""
-"9249NX",2,"B",""
-"9249NX",2,"A",""
-"9249NX",2,"",""
-"9249NX",82,"",""
-"9249NX",2,"D",""
-"9249NX",44,"",""
-"9249NX",42,"",""
-"9249NX",20,"",""
-"9249NX",2,"",""
-"9249NX",78,"",""
-"9249NX",24,"",""
-"9249NX",40,"",""
-"9249NX",76,"",""
-"9249NX",18,"","TR01"
-"9249NX",38,"",""
-"9249NX",24,"",""
-"9249NX",78,"",""
-"9249NX",18,"","TR01"
-"9249NX",22,"",""
-"9249NX",44,"",""
-"9249NX",76,"",""
-"9249NX",20,"",""
-"9249NX",80,"",""
-"9249NX",74,"",""
-9249NR,Boskdobbe,1,,
-9249NR,Boskdobbe,1,,
-9249NR,Boskdobbe,3,,
-9249NR,Boskdobbe,3,,
-9249NR,Boskdobbe,5,,
-9249NR,Boskdobbe,5,,
-9249NR,Boskdobbe,7,,
-9249NR,Boskdobbe,7,,
-9249NR,Boskdobbe,9,,
-9249NR,Boskdobbe,9,,
-9249NR,Boskdobbe,11,,
-9249NR,Boskdobbe,11,,
-9249NR,Boskdobbe,13,,
-9249NR,Boskdobbe,13,,
-9249NR,Boskdobbe,2,,
-9249NR,Boskdobbe,2,,
-9249NR,Boskdobbe,4,,
-9249NR,Boskdobbe,4,,
-9249NR,Boskdobbe,6,,
-9249NR,Boskdobbe,6,,
-9249NR,Boskdobbe,2,A,
-9249NR,Boskdobbe,2,A,
-9249MA,De Bodding,2,,
-9249MA,De Bodding,2,,
-9249MA,De Bodding,4,,
-9249MA,De Bodding,4,,
-9249MA,De Bodding,8,,
-9249MA,De Bodding,8,,
-9249MA,De Bodding,10,,
-9249MA,De Bodding,10,,
-9249MA,De Bodding,12,,
-9249MA,De Bodding,12,,
-9249MA,De Bodding,14,,
-9249MA,De Bodding,14,,
-9249MA,De Bodding,16,,
-9249MA,De Bodding,16,,
-9249MA,De Bodding,18,,
-9249MA,De Bodding,18,,
-9249MA,De Bodding,20,,
-9249MA,De Bodding,20,,
-9249MA,De Bodding,24,,
-9249MA,De Bodding,24,,
-9249MA,De Bodding,26,,
-9249MA,De Bodding,26,,
-9249MA,De Bodding,28,,
-9249MA,De Bodding,28,,
-9249MA,De Bodding,30,,
-9249MA,De Bodding,30,,
-9249MA,De Bodding,32,,
-9249MA,De Bodding,32,,
-9249MA,De Bodding,46,,
-9249MA,De Bodding,46,,
-9249MA,De Bodding,36,,
-9249MA,De Bodding,36,,
-9249MA,De Bodding,38,,
-9249MA,De Bodding,38,,
-9249MA,De Bodding,42,,
-9249MA,De Bodding,42,,
-9249MA,De Bodding,44,,
-9249MA,De Bodding,44,,
-9249MB,De Bodding,1,,
-9249MB,De Bodding,1,,
-9249MB,De Bodding,3,,
-9249MB,De Bodding,3,,
-9249MB,De Bodding,5,,
-9249MB,De Bodding,5,,
-9249MB,De Bodding,7,,
-9249MB,De Bodding,7,,
-9249MB,De Bodding,11,,
-9249MB,De Bodding,11,,
-9249MB,De Bodding,13,,
-9249MB,De Bodding,13,,
-9249MB,De Bodding,15,,
-9249MB,De Bodding,15,,
-9249MC,De Kolk,2,,
-9249MC,De Kolk,2,,
-9249MC,De Kolk,4,,
-9249MC,De Kolk,4,,
-9249NG,De Rusken,1,,
-9249NG,De Rusken,1,,
-9249NG,De Rusken,3,,
-9249NG,De Rusken,3,,
-9249NG,De Rusken,5,,
-9249NG,De Rusken,5,,
-9249NG,De Rusken,7,,
-9249NG,De Rusken,7,,
-9249NG,De Rusken,9,,
-9249NG,De Rusken,9,,
-9249NG,De Rusken,11,,
-9249NG,De Rusken,11,,
-9249NG,De Rusken,13,,
-9249NG,De Rusken,13,,
-9249NG,De Rusken,15,,
-9249NG,De Rusken,15,,
-9249NG,De Rusken,17,,
-9249NG,De Rusken,17,,
-9249NG,De Rusken,19,,
-9249NG,De Rusken,19,,
-9249NH,De Rusken,21,,
-9249NH,De Rusken,21,,
-9249NH,De Rusken,23,,
-9249NH,De Rusken,23,,
-9249NH,De Rusken,25,,
-9249NH,De Rusken,25,,
-9249NH,De Rusken,27,,
-9249NH,De Rusken,27,,
-9249NH,De Rusken,29,,
-9249NH,De Rusken,29,,
-9249NH,De Rusken,33,,
-9249NH,De Rusken,33,,
-9249NH,De Rusken,35,,
-9249NH,De Rusken,35,,
-9249NH,De Rusken,37,,
-9249NH,De Rusken,37,,
-9249NH,De Rusken,39,,
-9249NH,De Rusken,39,,
-9249NJ,De Rusken,2,,
-9249NJ,De Rusken,2,,
-9249NJ,De Rusken,4,,
-9249NJ,De Rusken,4,,
-9249NJ,De Rusken,6,,
-9249NJ,De Rusken,6,,
-9249NJ,De Rusken,8,,
-9249NJ,De Rusken,8,,
-9249NJ,De Rusken,10,,
-9249NJ,De Rusken,10,,
-9249NJ,De Rusken,12,,
-9249NJ,De Rusken,12,,
-9249NJ,De Rusken,14,,
-9249NJ,De Rusken,14,,
-9249NJ,De Rusken,16,,
-9249NJ,De Rusken,16,,
-9249NJ,De Rusken,18,,
-9249NJ,De Rusken,18,,
-9249NJ,De Rusken,20,,
-9249NJ,De Rusken,20,,
-9249NJ,De Rusken,22,,
-9249NJ,De Rusken,22,,
-9249NJ,De Rusken,24,,
-9249NJ,De Rusken,24,,
-9249NJ,De Rusken,26,,
-9249NJ,De Rusken,26,,
-9249NJ,De Rusken,28,,
-9249NJ,De Rusken,28,,
-9249NJ,De Rusken,30,,
-9249NJ,De Rusken,30,,
-9249NK,De Rusken,32,,
-9249NK,De Rusken,32,,
-9249NK,De Rusken,34,,
-9249NK,De Rusken,34,,
-9249NK,De Rusken,36,,
-9249NK,De Rusken,36,,
-9249NK,De Rusken,38,,
-9249NK,De Rusken,38,,
-9249NK,De Rusken,40,,
-9249NK,De Rusken,40,,
-9249NK,De Rusken,42,,
-9249NK,De Rusken,42,,
-9249NK,De Rusken,44,,
-9249NK,De Rusken,44,,
-9249NK,De Rusken,46,,
-9249NK,De Rusken,46,,
-9249NK,De Rusken,48,,
-9249NK,De Rusken,48,,
-9249NK,De Rusken,50,,
-9249NK,De Rusken,50,,
-9249NK,De Rusken,52,,
-9249NK,De Rusken,52,,
-9249NK,De Rusken,54,,
-9249NK,De Rusken,54,,
-9249NK,De Rusken,56,,
-9249NK,De Rusken,56,,
-9249NK,De Rusken,58,,
-9249NK,De Rusken,58,,
-9249NK,De Rusken,60,,
-9249NK,De Rusken,60,,
-9249NB,De Slûs,1,,
-9249NB,De Slûs,1,,
-9249NB,De Slûs,3,,
-9249NB,De Slûs,3,,
-9249NB,De Slûs,5,,
-9249NB,De Slûs,5,,
-9249NB,De Slûs,9,,
-9249NB,De Slûs,9,,
-9249NB,De Slûs,13,,
-9249NB,De Slûs,13,,
-9249NB,De Slûs,15,,
-9249NB,De Slûs,15,,
-9249NB,De Slûs,1,A,
-9249NB,De Slûs,1,A,
-9249NB,De Slûs,1,B,
-9249NB,De Slûs,1,B,
-9249NB,De Slûs,1,C,
-9249NB,De Slûs,1,C,
-9249NB,De Slûs,1,D,
-9249NB,De Slûs,1,D,
-9249NB,De Slûs,1,E,
-9249NB,De Slûs,1,E,
-9249NC,De Slûs,4,,
-9249NC,De Slûs,4,,
-9249NC,De Slûs,6,,
-9249NC,De Slûs,6,,
-9249NC,De Slûs,8,,
-9249NC,De Slûs,8,,
-9249NC,De Slûs,10,,
-9249NC,De Slûs,10,,
-9249NC,De Slûs,12,,
-9249NC,De Slûs,12,,
-9249NC,De Slûs,14,,
-9249NC,De Slûs,14,,
-9249NC,De Slûs,18,,
-9249NC,De Slûs,18,,
-9249NC,De Slûs,20,,
-9249NC,De Slûs,20,,
-9249NC,De Slûs,22,,
-9249NC,De Slûs,22,,
-9249NC,De Slûs,24,,
-9249NC,De Slûs,24,,
-9249NC,De Slûs,26,,
-9249NC,De Slûs,26,,
-9249ND,Kromhoek,9,,
-9249ND,Kromhoek,9,,
-9249ND,Kromhoek,9,A,
-9249ND,Kromhoek,9,A,
-9249ND,Kromhoek,5,,
-9249ND,Kromhoek,5,,
-9249ND,Kromhoek,11,,
-9249ND,Kromhoek,11,,
-9249ND,Kromhoek,15,,
-9249ND,Kromhoek,15,,
-9249ND,Kromhoek,17,,
-9249ND,Kromhoek,17,,
-9249ND,Kromhoek,19,,
-9249ND,Kromhoek,19,,
-9249ND,Kromhoek,21,,
-9249ND,Kromhoek,21,,
-9249ND,Kromhoek,23,,
-9249ND,Kromhoek,23,,
-9249ND,Kromhoek,25,,
-9249ND,Kromhoek,25,,
-9249ND,Kromhoek,31,,
-9249ND,Kromhoek,31,,
-9249ND,Kromhoek,33,,
-9249ND,Kromhoek,33,,
-9249ND,Kromhoek,35,,
-9249ND,Kromhoek,35,,
-9249ND,Kromhoek,37,,
-9249ND,Kromhoek,37,,
-9249ND,Kromhoek,3,,
-9249ND,Kromhoek,3,,
-9249NE,Kromhoek,34,A,
-9249NE,Kromhoek,34,A,
-9249NE,Kromhoek,44,,TR01
-9249NE,Kromhoek,44,,TR01
-9249NE,Kromhoek,2,,
-9249NE,Kromhoek,2,,
-9249NE,Kromhoek,4,,
-9249NE,Kromhoek,4,,
-9249NE,Kromhoek,6,,
-9249NE,Kromhoek,6,,
-9249NE,Kromhoek,8,,
-9249NE,Kromhoek,8,,
-9249NE,Kromhoek,12,,
-9249NE,Kromhoek,12,,
-9249NE,Kromhoek,16,,
-9249NE,Kromhoek,16,,
-9249NE,Kromhoek,18,,
-9249NE,Kromhoek,18,,
-9249NE,Kromhoek,20,,
-9249NE,Kromhoek,20,,
-9249NE,Kromhoek,22,,
-9249NE,Kromhoek,22,,
-9249NE,Kromhoek,24,,
-9249NE,Kromhoek,24,,
-9249NE,Kromhoek,26,,
-9249NE,Kromhoek,26,,
-9249NE,Kromhoek,28,,
-9249NE,Kromhoek,28,,
-9249NE,Kromhoek,30,,
-9249NE,Kromhoek,30,,
-9249NE,Kromhoek,32,,
-9249NE,Kromhoek,32,,
-9249NE,Kromhoek,34,,
-9249NE,Kromhoek,34,,
-9249NE,Kromhoek,36,,
-9249NE,Kromhoek,36,,
-9249NE,Kromhoek,38,,
-9249NE,Kromhoek,38,,
-9249NE,Kromhoek,40,,
-9249NE,Kromhoek,40,,
-9249NE,Kromhoek,42,,
-9249NE,Kromhoek,42,,
-9249NE,Kromhoek,44,,
-9249NE,Kromhoek,44,,
-9249NE,Lytse Dobbe,1,,
-9249NE,Lytse Dobbe,1,,
-9249NE,Lytse Dobbe,3,,
-9249NE,Lytse Dobbe,3,,
-9249NE,Lytse Dobbe,5,,
-9249NE,Lytse Dobbe,5,,
-9249NE,Lytse Dobbe,7,,
-9249NE,Lytse Dobbe,7,,
-9249NE,Lytse Dobbe,9,,
-9249NE,Lytse Dobbe,9,,
-9249NE,Lytse Dobbe,11,,
-9249NE,Lytse Dobbe,11,,
-9249NE,Lytse Dobbe,15,,
-9249NE,Lytse Dobbe,15,,
-9249NG,Lytse Dobbe,2,,
-9249NG,Lytse Dobbe,2,,
-9249NG,Lytse Dobbe,4,,
-9249NG,Lytse Dobbe,4,,
-9249NG,Lytse Dobbe,8,,
-9249NG,Lytse Dobbe,8,,
-9249NG,Lytse Dobbe,10,,
-9249NG,Lytse Dobbe,10,,
-9249NG,Lytse Dobbe,12,,
-9249NG,Lytse Dobbe,12,,
-9249NG,Lytse Dobbe,14,,
-9249NG,Lytse Dobbe,14,,
-9249NG,Lytse Dobbe,16,,
-9249NG,Lytse Dobbe,16,,
-9249NG,Lytse Dobbe,18,,
-9249NG,Lytse Dobbe,18,,
-9249NG,Lytse Dobbe,22,,
-9249NG,Lytse Dobbe,22,,
-9249NG,Lytse Dobbe,24,,
-9249NG,Lytse Dobbe,24,,
-9249NG,Lytse Dobbe,26,,
-9249NG,Lytse Dobbe,26,,
-9249NG,Lytse Dobbe,30,,
-9249NG,Lytse Dobbe,30,,
-9249NG,Lytse Dobbe,32,,
-9249NG,Lytse Dobbe,32,,
-9249NG,Lytse Dobbe,34,,
-9249NG,Lytse Dobbe,34,,
-9249NG,Lytse Dobbe,38,,
-9249NG,Lytse Dobbe,38,,
-9249NG,Lytse Dobbe,40,,
-9249NG,Lytse Dobbe,40,,
-9249NG,Lytse Dobbe,42,,
-9249NG,Lytse Dobbe,42,,
-9249NG,Lytse Dobbe,44,,
-9249NG,Lytse Dobbe,44,,
-9249NG,Lytse Dobbe,46,,
-9249NG,Lytse Dobbe,46,,
-9249NG,Lytse Dobbe,48,,
-9249NG,Lytse Dobbe,48,,
-9249NG,Lytse Dobbe,50,,
-9249NG,Lytse Dobbe,50,,
-9249NG,Lytse Dobbe,52,,
-9249NG,Lytse Dobbe,52,,
-9249NG,Lytse Dobbe,28,,
-9249NG,Lytse Dobbe,28,,
-9249NL,Lytse Leane,1,,
-9249NL,Lytse Leane,1,,
-9249NL,Lytse Leane,3,,
-9249NL,Lytse Leane,3,,
-9249NL,Lytse Leane,5,,
-9249NL,Lytse Leane,5,,
-9249NL,Lytse Leane,7,,
-9249NL,Lytse Leane,7,,
-9249NL,Lytse Leane,9,,
-9249NL,Lytse Leane,9,,
-9249NL,Lytse Leane,11,,
-9249NL,Lytse Leane,11,,
-9249NL,Lytse Leane,13,,
-9249NL,Lytse Leane,13,,
-9249NL,Lytse Leane,15,,
-9249NL,Lytse Leane,15,,
-9249NL,Lytse Leane,17,,
-9249NL,Lytse Leane,17,,
-9249NL,Lytse Leane,19,,
-9249NL,Lytse Leane,19,,
-9249NL,Lytse Leane,21,,
-9249NL,Lytse Leane,21,,
-9249NL,Lytse Leane,23,,
-9249NL,Lytse Leane,23,,
-9249NL,Lytse Leane,25,,
-9249NL,Lytse Leane,25,,
-9249NL,Lytse Leane,27,,
-9249NL,Lytse Leane,27,,
-9249NL,Lytse Leane,29,,
-9249NL,Lytse Leane,29,,
-9249NL,Lytse Leane,31,,
-9249NL,Lytse Leane,31,,
-9249NL,Lytse Leane,33,,
-9249NL,Lytse Leane,33,,
-9249NL,Lytse Leane,35,,
-9249NL,Lytse Leane,35,,
-9249NL,Lytse Leane,37,,
-9249NL,Lytse Leane,37,,
-9249NL,Lytse Leane,39,,
-9249NL,Lytse Leane,39,,
-9249NL,Lytse Leane,43,,
-9249NL,Lytse Leane,43,,
-9249NL,Lytse Leane,45,,
-9249NL,Lytse Leane,45,,
-9249NL,Lytse Leane,47,,
-9249NL,Lytse Leane,47,,
-9249NL,Lytse Leane,49,,
-9249NL,Lytse Leane,49,,
-9249NL,Lytse Leane,51,,
-9249NL,Lytse Leane,51,,
-9249NX,Lytse Leane,18,,TR01
-9249NX,Lytse Leane,18,,TR01
-9249NX,Lytse Leane,56,,
-9249NX,Lytse Leane,56,,
-9249NX,Lytse Leane,70,,
-9249NX,Lytse Leane,70,,
-9249NX,Lytse Leane,72,,
-9249NX,Lytse Leane,72,,
-9249NX,Lytse Leane,74,,
-9249NX,Lytse Leane,74,,
-9249NX,Lytse Leane,76,,
-9249NX,Lytse Leane,76,,
-9249NX,Lytse Leane,78,,
-9249NX,Lytse Leane,78,,
-9249NX,Lytse Leane,80,,
-9249NX,Lytse Leane,80,,
-9249NX,Lytse Leane,50,,
-9249NX,Lytse Leane,50,,
-9249NX,Lytse Leane,52,,
-9249NX,Lytse Leane,52,,
-9249NX,Lytse Leane,54,,
-9249NX,Lytse Leane,54,,
-9249NX,Lytse Leane,48,,
-9249NX,Lytse Leane,48,,
-9249NX,Lytse Leane,82,,
-9249NX,Lytse Leane,82,,
-9249NX,Lytse Leane,84,,
-9249NX,Lytse Leane,84,,
-9249NX,Lytse Leane,88,,
-9249NX,Lytse Leane,88,,
-9249NX,Lytse Leane,46,,
-9249NX,Lytse Leane,46,,
-9249NX,Lytse Leane,86,,
-9249NX,Lytse Leane,86,,
-9249NX,Lytse Leane,90,,
-9249NX,Lytse Leane,90,,
-9249NX,Lytse Leane,2,,
-9249NX,Lytse Leane,2,,
-9249NX,Lytse Leane,4,,
-9249NX,Lytse Leane,4,,
-9249NX,Lytse Leane,6,,
-9249NX,Lytse Leane,6,,
-9249NX,Lytse Leane,8,,
-9249NX,Lytse Leane,8,,
-9249NX,Lytse Leane,10,,
-9249NX,Lytse Leane,10,,
-9249NX,Lytse Leane,12,,
-9249NX,Lytse Leane,12,,
-9249NX,Lytse Leane,14,,
-9249NX,Lytse Leane,14,,
-9249NX,Lytse Leane,16,,
-9249NX,Lytse Leane,16,,
-9249NX,Lytse Leane,18,,
-9249NX,Lytse Leane,18,,
-9249NX,Lytse Leane,20,,
-9249NX,Lytse Leane,20,,
-9249NX,Lytse Leane,22,,
-9249NX,Lytse Leane,22,,
-9249NX,Lytse Leane,24,,
-9249NX,Lytse Leane,24,,
-9249NX,Lytse Leane,26,,
-9249NX,Lytse Leane,26,,
-9249NX,Lytse Leane,28,,
-9249NX,Lytse Leane,28,,
-9249NX,Lytse Leane,30,,
-9249NX,Lytse Leane,30,,
-9249NX,Lytse Leane,32,,
-9249NX,Lytse Leane,32,,
-9249NX,Lytse Leane,38,,
-9249NX,Lytse Leane,38,,
-9249NX,Lytse Leane,40,,
-9249NX,Lytse Leane,40,,
-9249NX,Lytse Leane,42,,
-9249NX,Lytse Leane,42,,
-9249NX,Lytse Leane,44,,
-9249NX,Lytse Leane,44,,
-9249NN,Tolheksleane,1,,
-9249NN,Tolheksleane,1,,
-9249NP,Tolheksleane,43,,
-9249NP,Tolheksleane,43,,
-9249NP,Tolheksleane,45,,
-9249NP,Tolheksleane,45,,
-9249NP,Tolheksleane,47,,
-9249NP,Tolheksleane,47,,
-9249NP,Tolheksleane,49,,
-9249NP,Tolheksleane,49,,
-9249NP,Tolheksleane,51,,
-9249NP,Tolheksleane,51,,
-9249NP,Tolheksleane,53,,
-9249NP,Tolheksleane,53,,
-9249NP,Tolheksleane,55,,
-9249NP,Tolheksleane,55,,
-9249NP,Tolheksleane,57,,
-9249NP,Tolheksleane,57,,
-9249NP,Tolheksleane,57,A,
-9249NP,Tolheksleane,57,A,
-9249NP,Tolheksleane,59,,
-9249NP,Tolheksleane,59,,
-9249NP,Tolheksleane,61,,
-9249NP,Tolheksleane,61,,
-9249NS,Tolheksleane,63,,
-9249NS,Tolheksleane,63,,
-9249NS,Tolheksleane,67,,
-9249NS,Tolheksleane,67,,
-9249NS,Tolheksleane,69,,
-9249NS,Tolheksleane,69,,
-9249NS,Tolheksleane,71,,
-9249NS,Tolheksleane,71,,
-9249NS,Tolheksleane,73,,
-9249NS,Tolheksleane,73,,
-9249NS,Tolheksleane,75,,
-9249NS,Tolheksleane,75,,
-9249NS,Tolheksleane,77,,
-9249NS,Tolheksleane,77,,
-9249NS,Tolheksleane,81,,
-9249NS,Tolheksleane,81,,
-9249NS,Tolheksleane,83,,
-9249NS,Tolheksleane,83,,
-9249NS,Tolheksleane,87,,
-9249NS,Tolheksleane,87,,
-9249NS,Tolheksleane,89,,
-9249NS,Tolheksleane,89,,
-9249NS,Tolheksleane,91,,
-9249NS,Tolheksleane,91,,
-9249NS,Tolheksleane,93,,
-9249NS,Tolheksleane,93,,
-9249NS,Tolheksleane,95,,
-9249NS,Tolheksleane,95,,
-9249NT,Tolheksleane,2,,
-9249NT,Tolheksleane,2,,
-9249NT,Tolheksleane,4,,
-9249NT,Tolheksleane,4,,
-9249NT,Tolheksleane,6,,
-9249NT,Tolheksleane,6,,
-9249NT,Tolheksleane,8,,
-9249NT,Tolheksleane,8,,
-9249NT,Tolheksleane,10,,
-9249NT,Tolheksleane,10,,
-9249NT,Tolheksleane,12,,
-9249NT,Tolheksleane,12,,
-9249NT,Tolheksleane,14,,
-9249NT,Tolheksleane,14,,
-9249NT,Tolheksleane,16,,
-9249NT,Tolheksleane,16,,
-9249NT,Tolheksleane,18,,
-9249NT,Tolheksleane,18,,
-9249NT,Tolheksleane,20,,
-9249NT,Tolheksleane,20,,
-9249NT,Tolheksleane,22,,
-9249NT,Tolheksleane,22,,
-9249NT,Tolheksleane,24,,
-9249NT,Tolheksleane,24,,
-9249NV,Tolheksleane,66,,
-9249NV,Tolheksleane,66,,
-9249NV,Tolheksleane,68,,
-9249NV,Tolheksleane,68,,
-9249NM,'t Paed,1,,
-9249NM,'t Paed,1,,
-9249NA,Hearsterwei,3,A,
-9249NA,Hearsterwei,3,,
-9249NA,Hearsterwei,3,,
-9249NA,Hearsterwei,23,,
-9249NA,Hearsterwei,23,,
-9249NA,Hearsterwei,25,,
-9249NA,Hearsterwei,25,,
-9249NA,Hearsterwei,27,,
-9249NA,Hearsterwei,27,,
-9249NA,Hearsterwei,29,,
-9249NA,Hearsterwei,29,,
-9249NA,Hearsterwei,31,,
-9249NA,Hearsterwei,31,,
-9249NA,Hearsterwei,2,,
-9249NA,Hearsterwei,2,,
-9249NA,Hearsterwei,2,A,
-9249NA,Hearsterwei,2,A,
-9249NA,Hearsterwei,4,,
-9249NA,Hearsterwei,4,,
-9249NA,Hearsterwei,1,,
-9249NA,Hearsterwei,1,,
-9249NA,Hearsterwei,3,,
-9249NA,Hearsterwei,3,A,
-9249NA,Hearsterwei,3,A,
-9249NA,Hearsterwei,5,,
-9249NA,Hearsterwei,5,,
-9249NA,Hearsterwei,7,,
-9249NA,Hearsterwei,7,,
-9249NA,Hearsterwei,9,,
-9249NA,Hearsterwei,9,,
-9249NA,Hearsterwei,11,,
-9249NA,Hearsterwei,11,,
-9249NA,Hearsterwei,13,,
-9249NA,Hearsterwei,13,,
-9249NA,Hearsterwei,15,,
-9249NA,Hearsterwei,15,,
-9249NA,Hearsterwei,17,,
-9249NA,Hearsterwei,17,,
-9249NA,Hearsterwei,19,,
-9249NA,Hearsterwei,19,,
-9249NA,Hearsterwei,21,,
-9249NA,Hearsterwei,21,,
-9249NR,Boskdobbe,13,,
-9249NR,Boskdobbe,13,,
-9249NR,Boskdobbe,2,A,
-9249MA,De Bodding,6,,
-9249MA,De Bodding,6,,
-9249MA,De Bodding,22,,
-9249MA,De Bodding,22,,
-9249MA,De Bodding,40,,
-9249MA,De Bodding,40,,
-9249MA,De Bodding,48,,
-9249MA,De Bodding,48,,
-9249MB,De Bodding,9,,
-9249MB,De Bodding,9,,
-9249MC,De Kolk,1,,
-9249MC,De Kolk,1,,
-9249MC,De Kolk,1,,
-9249MC,De Kolk,1,A,
-9249MC,De Kolk,1,A,
-9249MC,De Kolk,1,B,
-9249MC,De Kolk,1,B,
-9249MC,De Kolk,1,C,
-9249MC,De Kolk,1,C,
-9249NH,De Rusken,31,,
-9249NH,De Rusken,31,,
-9249NJ,De Rusken,4,A,
-9249NJ,De Rusken,4,B,
-9249NB,De Slûs,7,,
-9249NB,De Slûs,7,,
-9249NC,De Slûs,2,,
-9249NC,De Slûs,2,,
-9249NC,De Slûs,16,,
-9249NC,De Slûs,16,,
-9249NC,De Slûs,26,,
-9249NC,De Slûs,26,,
-9249NC,De Slûs,10,,
-9249ND,Kromhoek,7,,
-9249ND,Kromhoek,7,,
-9249ND,Kromhoek,27,,
-9249ND,Kromhoek,27,,
-9249ND,Kromhoek,27,,
-9249ND,Kromhoek,27,A,
-9249ND,Kromhoek,29,,
-9249ND,Kromhoek,29,,
-9249ND,Kromhoek,11,,
-9249ND,Kromhoek,11,,
-9249ND,Kromhoek,11,,
-9249ND,Kromhoek,9,A,
-9249NE,Kromhoek,8,,TR01
-9249NE,Kromhoek,8,,TR01
-9249NE,Lytse Dobbe,13,,
-9249NE,Lytse Dobbe,13,,
-9249NG,Lytse Dobbe,6,,
-9249NG,Lytse Dobbe,6,,
-9249NG,Lytse Dobbe,20,,
-9249NG,Lytse Dobbe,20,,
-9249NG,Lytse Dobbe,36,,
-9249NG,Lytse Dobbe,36,,
-9249NL,Lytse Leane,41,,
-9249NL,Lytse Leane,41,,
-9249NX,Lytse Leane,36,,
-9249NX,Lytse Leane,36,,
-9249NX,Lytse Leane,2,B,
-9249NX,Lytse Leane,2,C,
-9249NX,Lytse Leane,2,A,
-9249NX,Lytse Leane,2,D,
-9249NX,Lytse Leane,2,E,
-9249NX,Lytse Leane,2,F,
-9249NX,Lytse Leane,2,G,
-9249NN,Tolheksleane,3,,
-9249NN,Tolheksleane,3,,
-9249NN,Tolheksleane,5,,
-9249NN,Tolheksleane,5,,
-9249NN,Tolheksleane,7,,
-9249NN,Tolheksleane,7,,
-9249NN,Tolheksleane,9,,
-9249NN,Tolheksleane,9,,
-9249NN,Tolheksleane,11,,
-9249NN,Tolheksleane,11,,
-9249NN,Tolheksleane,13,,
-9249NN,Tolheksleane,13,,
-9249NN,Tolheksleane,15,,
-9249NN,Tolheksleane,15,,
-9249NN,Tolheksleane,17,,
-9249NN,Tolheksleane,17,,
-9249NN,Tolheksleane,19,,
-9249NN,Tolheksleane,19,,
-9249NN,Tolheksleane,23,,
-9249NN,Tolheksleane,23,,
-9249NN,Tolheksleane,25,,
-9249NN,Tolheksleane,25,,
-9249NN,Tolheksleane,27,,
-9249NN,Tolheksleane,27,,
-9249NN,Tolheksleane,29,,
-9249NN,Tolheksleane,29,,
-9249NN,Tolheksleane,31,,
-9249NN,Tolheksleane,31,,
-9249NN,Tolheksleane,33,,
-9249NN,Tolheksleane,33,,
-9249NP,Tolheksleane,35,,
-9249NP,Tolheksleane,35,,
-9249NP,Tolheksleane,37,,
-9249NP,Tolheksleane,37,,
-9249NP,Tolheksleane,39,,
-9249NP,Tolheksleane,39,,
-9249NP,Tolheksleane,41,,
-9249NP,Tolheksleane,41,,
-9249NS,Tolheksleane,85,,
-9249NS,Tolheksleane,85,,
-9249NS,Tolheksleane,77,,ZO01
-9249NT,Tolheksleane,26,,
-9249NT,Tolheksleane,26,,
-9249NT,Tolheksleane,28,,
-9249NT,Tolheksleane,28,,
-9249NT,Tolheksleane,30,,
-9249NT,Tolheksleane,30,,
-9249NV,Tolheksleane,34,,
-9249NV,Tolheksleane,34,,
-9249NV,Tolheksleane,36,,
-9249NV,Tolheksleane,36,,
-9249NV,Tolheksleane,38,,
-9249NV,Tolheksleane,38,,
-9249NV,Tolheksleane,40,,
-9249NV,Tolheksleane,40,,
-9249NV,Tolheksleane,42,,
-9249NV,Tolheksleane,42,,
-9249NV,Tolheksleane,44,,
-9249NV,Tolheksleane,44,,
-9249NV,Tolheksleane,46,,
-9249NV,Tolheksleane,46,,
-9249NV,Tolheksleane,48,,
-9249NV,Tolheksleane,48,,
-9249NV,Tolheksleane,50,,
-9249NV,Tolheksleane,50,,
-9249NV,Tolheksleane,52,,
-9249NV,Tolheksleane,52,,
-9249NV,Tolheksleane,54,,
-9249NV,Tolheksleane,54,,
-9249NV,Tolheksleane,58,,
-9249NV,Tolheksleane,58,,
-9249NV,Tolheksleane,60,,
-9249NV,Tolheksleane,60,,
-9249NV,Tolheksleane,62,,
-9249NV,Tolheksleane,62,,
-9249NV,Tolheksleane,64,,
-9249NV,Tolheksleane,64,,
-9249NV,Tolheksleane,56,,
-9249NV,Tolheksleane,56,,
-9249NV,Tolheksleane,38,,
-9249NM,'t Paed,5,,
-9249NM,'t Paed,5,,
-9249NM,'t Paed,7,,
-9249NM,'t Paed,7,,
-9249NM,'t Paed,2,,
-9249NM,'t Paed,2,,
-9249NM,'t Paed,4,,
-9249NM,'t Paed,4,,
-9249NM,'t Paed,6,,
-9249NM,'t Paed,6,,
-9249NM,'t Paed,8,,
-9249NM,'t Paed,8,,
-9249NM,'t Paed,10,,
-9249NM,'t Paed,10,,
-9249NM,'t Paed,12,,
-9249NM,'t Paed,12,,
-9249NM,'t Paed,3,,
-9249NM,'t Paed,3,,
-9249NJ,De Rusken,6,B,
-9249NJ,De Rusken,6,A,
-9249NC,De Slûs,16,,
-9249ND,Kromhoek,23,,
-9249NT,Tolheksleane,14,,
-9249NT,Tolheksleane,14,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Bodding,10,"","",9249MA,Frieschepalen
+De Bodding,10,"","",9249MA,Frieschepalen
+De Bodding,12,"","",9249MA,Frieschepalen
+De Bodding,12,"","",9249MA,Frieschepalen
+De Bodding,14,"","",9249MA,Frieschepalen
+De Bodding,14,"","",9249MA,Frieschepalen
+De Bodding,16,"","",9249MA,Frieschepalen
+De Bodding,16,"","",9249MA,Frieschepalen
+De Bodding,18,"","",9249MA,Frieschepalen
+De Bodding,18,"","",9249MA,Frieschepalen
+De Bodding,2,"","",9249MA,Frieschepalen
+De Bodding,2,"","",9249MA,Frieschepalen
+De Bodding,20,"","",9249MA,Frieschepalen
+De Bodding,20,"","",9249MA,Frieschepalen
+De Bodding,22,"","",9249MA,Frieschepalen
+De Bodding,22,"","",9249MA,Frieschepalen
+De Bodding,24,"","",9249MA,Frieschepalen
+De Bodding,24,"","",9249MA,Frieschepalen
+De Bodding,26,"","",9249MA,Frieschepalen
+De Bodding,26,"","",9249MA,Frieschepalen
+De Bodding,28,"","",9249MA,Frieschepalen
+De Bodding,28,"","",9249MA,Frieschepalen
+De Bodding,30,"","",9249MA,Frieschepalen
+De Bodding,30,"","",9249MA,Frieschepalen
+De Bodding,32,"","",9249MA,Frieschepalen
+De Bodding,32,"","",9249MA,Frieschepalen
+De Bodding,36,"","",9249MA,Frieschepalen
+De Bodding,36,"","",9249MA,Frieschepalen
+De Bodding,38,"","",9249MA,Frieschepalen
+De Bodding,38,"","",9249MA,Frieschepalen
+De Bodding,4,"","",9249MA,Frieschepalen
+De Bodding,4,"","",9249MA,Frieschepalen
+De Bodding,40,"","",9249MA,Frieschepalen
+De Bodding,40,"","",9249MA,Frieschepalen
+De Bodding,42,"","",9249MA,Frieschepalen
+De Bodding,42,"","",9249MA,Frieschepalen
+De Bodding,44,"","",9249MA,Frieschepalen
+De Bodding,44,"","",9249MA,Frieschepalen
+De Bodding,46,"","",9249MA,Frieschepalen
+De Bodding,46,"","",9249MA,Frieschepalen
+De Bodding,48,"","",9249MA,Frieschepalen
+De Bodding,48,"","",9249MA,Frieschepalen
+De Bodding,6,"","",9249MA,Frieschepalen
+De Bodding,6,"","",9249MA,Frieschepalen
+De Bodding,8,"","",9249MA,Frieschepalen
+De Bodding,8,"","",9249MA,Frieschepalen
+De Bodding,1,"","",9249MB,Frieschepalen
+De Bodding,1,"","",9249MB,Frieschepalen
+De Bodding,11,"","",9249MB,Frieschepalen
+De Bodding,11,"","",9249MB,Frieschepalen
+De Bodding,13,"","",9249MB,Frieschepalen
+De Bodding,13,"","",9249MB,Frieschepalen
+De Bodding,15,"","",9249MB,Frieschepalen
+De Bodding,15,"","",9249MB,Frieschepalen
+De Bodding,3,"","",9249MB,Frieschepalen
+De Bodding,3,"","",9249MB,Frieschepalen
+De Bodding,5,"","",9249MB,Frieschepalen
+De Bodding,5,"","",9249MB,Frieschepalen
+De Bodding,7,"","",9249MB,Frieschepalen
+De Bodding,7,"","",9249MB,Frieschepalen
+De Bodding,9,"","",9249MB,Frieschepalen
+De Bodding,9,"","",9249MB,Frieschepalen
+De Kolk,1,"","",9249MC,Frieschepalen
+De Kolk,1,"","",9249MC,Frieschepalen
+De Kolk,1,"","",9249MC,Frieschepalen
+De Kolk,1,A,"",9249MC,Frieschepalen
+De Kolk,1,A,"",9249MC,Frieschepalen
+De Kolk,1,B,"",9249MC,Frieschepalen
+De Kolk,1,B,"",9249MC,Frieschepalen
+De Kolk,1,C,"",9249MC,Frieschepalen
+De Kolk,1,C,"",9249MC,Frieschepalen
+De Kolk,2,"","",9249MC,Frieschepalen
+De Kolk,2,"","",9249MC,Frieschepalen
+De Kolk,4,"","",9249MC,Frieschepalen
+De Kolk,4,"","",9249MC,Frieschepalen
+Hearsterwei,1,"","",9249NA,Frieschepalen
+Hearsterwei,1,"","",9249NA,Frieschepalen
+Hearsterwei,11,"","",9249NA,Frieschepalen
+Hearsterwei,11,"","",9249NA,Frieschepalen
+Hearsterwei,13,"","",9249NA,Frieschepalen
+Hearsterwei,13,"","",9249NA,Frieschepalen
+Hearsterwei,15,"","",9249NA,Frieschepalen
+Hearsterwei,15,"","",9249NA,Frieschepalen
+Hearsterwei,17,"","",9249NA,Frieschepalen
+Hearsterwei,17,"","",9249NA,Frieschepalen
+Hearsterwei,19,"","",9249NA,Frieschepalen
+Hearsterwei,19,"","",9249NA,Frieschepalen
+Hearsterwei,2,"","",9249NA,Frieschepalen
+Hearsterwei,2,"","",9249NA,Frieschepalen
+Hearsterwei,2,A,"",9249NA,Frieschepalen
+Hearsterwei,2,A,"",9249NA,Frieschepalen
+Hearsterwei,21,"","",9249NA,Frieschepalen
+Hearsterwei,21,"","",9249NA,Frieschepalen
+Hearsterwei,23,"","",9249NA,Frieschepalen
+Hearsterwei,23,"","",9249NA,Frieschepalen
+Hearsterwei,25,"","",9249NA,Frieschepalen
+Hearsterwei,25,"","",9249NA,Frieschepalen
+Hearsterwei,27,"","",9249NA,Frieschepalen
+Hearsterwei,27,"","",9249NA,Frieschepalen
+Hearsterwei,29,"","",9249NA,Frieschepalen
+Hearsterwei,29,"","",9249NA,Frieschepalen
+Hearsterwei,3,"","",9249NA,Frieschepalen
+Hearsterwei,3,"","",9249NA,Frieschepalen
+Hearsterwei,3,"","",9249NA,Frieschepalen
+Hearsterwei,3,A,"",9249NA,Frieschepalen
+Hearsterwei,3,A,"",9249NA,Frieschepalen
+Hearsterwei,3,A,"",9249NA,Frieschepalen
+Hearsterwei,31,"","",9249NA,Frieschepalen
+Hearsterwei,31,"","",9249NA,Frieschepalen
+Hearsterwei,4,"","",9249NA,Frieschepalen
+Hearsterwei,4,"","",9249NA,Frieschepalen
+Hearsterwei,5,"","",9249NA,Frieschepalen
+Hearsterwei,5,"","",9249NA,Frieschepalen
+Hearsterwei,7,"","",9249NA,Frieschepalen
+Hearsterwei,7,"","",9249NA,Frieschepalen
+Hearsterwei,9,"","",9249NA,Frieschepalen
+Hearsterwei,9,"","",9249NA,Frieschepalen
+De Slûs,1,"","",9249NB,Frieschepalen
+De Slûs,1,"","",9249NB,Frieschepalen
+De Slûs,1,A,"",9249NB,Frieschepalen
+De Slûs,1,A,"",9249NB,Frieschepalen
+De Slûs,1,B,"",9249NB,Frieschepalen
+De Slûs,1,B,"",9249NB,Frieschepalen
+De Slûs,1,C,"",9249NB,Frieschepalen
+De Slûs,1,C,"",9249NB,Frieschepalen
+De Slûs,1,D,"",9249NB,Frieschepalen
+De Slûs,1,D,"",9249NB,Frieschepalen
+De Slûs,1,E,"",9249NB,Frieschepalen
+De Slûs,1,E,"",9249NB,Frieschepalen
+De Slûs,13,"","",9249NB,Frieschepalen
+De Slûs,13,"","",9249NB,Frieschepalen
+De Slûs,15,"","",9249NB,Frieschepalen
+De Slûs,15,"","",9249NB,Frieschepalen
+De Slûs,3,"","",9249NB,Frieschepalen
+De Slûs,3,"","",9249NB,Frieschepalen
+De Slûs,5,"","",9249NB,Frieschepalen
+De Slûs,5,"","",9249NB,Frieschepalen
+De Slûs,7,"","",9249NB,Frieschepalen
+De Slûs,7,"","",9249NB,Frieschepalen
+De Slûs,9,"","",9249NB,Frieschepalen
+De Slûs,9,"","",9249NB,Frieschepalen
+De Slûs,10,"","",9249NC,Frieschepalen
+De Slûs,10,"","",9249NC,Frieschepalen
+De Slûs,10,"","",9249NC,Frieschepalen
+De Slûs,10,"","",9249NC,Frieschepalen
+De Slûs,12,"","",9249NC,Frieschepalen
+De Slûs,12,"","",9249NC,Frieschepalen
+De Slûs,14,"","",9249NC,Frieschepalen
+De Slûs,14,"","",9249NC,Frieschepalen
+De Slûs,16,"","",9249NC,Frieschepalen
+De Slûs,16,"","",9249NC,Frieschepalen
+De Slûs,18,"","",9249NC,Frieschepalen
+De Slûs,18,"","",9249NC,Frieschepalen
+De Slûs,2,"","",9249NC,Frieschepalen
+De Slûs,2,"","",9249NC,Frieschepalen
+De Slûs,20,"","",9249NC,Frieschepalen
+De Slûs,20,"","",9249NC,Frieschepalen
+De Slûs,22,"","",9249NC,Frieschepalen
+De Slûs,22,"","",9249NC,Frieschepalen
+De Slûs,24,"","",9249NC,Frieschepalen
+De Slûs,24,"","",9249NC,Frieschepalen
+De Slûs,26,"","",9249NC,Frieschepalen
+De Slûs,26,"","",9249NC,Frieschepalen
+De Slûs,26,"","",9249NC,Frieschepalen
+De Slûs,26,"","",9249NC,Frieschepalen
+De Slûs,26,"","",9249NC,Frieschepalen
+De Slûs,4,"","",9249NC,Frieschepalen
+De Slûs,4,"","",9249NC,Frieschepalen
+De Slûs,6,"","",9249NC,Frieschepalen
+De Slûs,6,"","",9249NC,Frieschepalen
+De Slûs,8,"","",9249NC,Frieschepalen
+De Slûs,8,"","",9249NC,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,11,"","",9249ND,Frieschepalen
+Kromhoek,15,"","",9249ND,Frieschepalen
+Kromhoek,15,"","",9249ND,Frieschepalen
+Kromhoek,17,"","",9249ND,Frieschepalen
+Kromhoek,17,"","",9249ND,Frieschepalen
+Kromhoek,19,"","",9249ND,Frieschepalen
+Kromhoek,19,"","",9249ND,Frieschepalen
+Kromhoek,21,"","",9249ND,Frieschepalen
+Kromhoek,21,"","",9249ND,Frieschepalen
+Kromhoek,23,"","",9249ND,Frieschepalen
+Kromhoek,23,"","",9249ND,Frieschepalen
+Kromhoek,23,"","",9249ND,Frieschepalen
+Kromhoek,23,"","",9249ND,Frieschepalen
+Kromhoek,25,"","",9249ND,Frieschepalen
+Kromhoek,25,"","",9249ND,Frieschepalen
+Kromhoek,27,"","",9249ND,Frieschepalen
+Kromhoek,27,"","",9249ND,Frieschepalen
+Kromhoek,27,"","",9249ND,Frieschepalen
+Kromhoek,27,"","",9249ND,Frieschepalen
+Kromhoek,27,A,"",9249ND,Frieschepalen
+Kromhoek,29,"","",9249ND,Frieschepalen
+Kromhoek,29,"","",9249ND,Frieschepalen
+Kromhoek,3,"","",9249ND,Frieschepalen
+Kromhoek,3,"","",9249ND,Frieschepalen
+Kromhoek,31,"","",9249ND,Frieschepalen
+Kromhoek,31,"","",9249ND,Frieschepalen
+Kromhoek,33,"","",9249ND,Frieschepalen
+Kromhoek,33,"","",9249ND,Frieschepalen
+Kromhoek,35,"","",9249ND,Frieschepalen
+Kromhoek,35,"","",9249ND,Frieschepalen
+Kromhoek,37,"","",9249ND,Frieschepalen
+Kromhoek,37,"","",9249ND,Frieschepalen
+Kromhoek,5,"","",9249ND,Frieschepalen
+Kromhoek,5,"","",9249ND,Frieschepalen
+Kromhoek,7,"","",9249ND,Frieschepalen
+Kromhoek,7,"","",9249ND,Frieschepalen
+Kromhoek,9,"","",9249ND,Frieschepalen
+Kromhoek,9,"","",9249ND,Frieschepalen
+Kromhoek,9,A,"",9249ND,Frieschepalen
+Kromhoek,9,A,"",9249ND,Frieschepalen
+Kromhoek,9,A,"",9249ND,Frieschepalen
+Kromhoek,9,A,"",9249ND,Frieschepalen
+Kromhoek,9,A,"",9249ND,Frieschepalen
+Lytse Dobbe,1,"","",9249NE,Frieschepalen
+Lytse Dobbe,1,"","",9249NE,Frieschepalen
+Lytse Dobbe,11,"","",9249NE,Frieschepalen
+Lytse Dobbe,11,"","",9249NE,Frieschepalen
+Kromhoek,12,"","",9249NE,Frieschepalen
+Kromhoek,12,"","",9249NE,Frieschepalen
+Lytse Dobbe,13,"","",9249NE,Frieschepalen
+Lytse Dobbe,13,"","",9249NE,Frieschepalen
+Lytse Dobbe,15,"","",9249NE,Frieschepalen
+Lytse Dobbe,15,"","",9249NE,Frieschepalen
+Kromhoek,16,"","",9249NE,Frieschepalen
+Kromhoek,16,"","",9249NE,Frieschepalen
+Kromhoek,18,"","",9249NE,Frieschepalen
+Kromhoek,18,"","",9249NE,Frieschepalen
+Kromhoek,2,"","",9249NE,Frieschepalen
+Kromhoek,2,"","",9249NE,Frieschepalen
+Kromhoek,20,"","",9249NE,Frieschepalen
+Kromhoek,20,"","",9249NE,Frieschepalen
+Kromhoek,22,"","",9249NE,Frieschepalen
+Kromhoek,22,"","",9249NE,Frieschepalen
+Kromhoek,24,"","",9249NE,Frieschepalen
+Kromhoek,24,"","",9249NE,Frieschepalen
+Kromhoek,26,"","",9249NE,Frieschepalen
+Kromhoek,26,"","",9249NE,Frieschepalen
+Kromhoek,28,"","",9249NE,Frieschepalen
+Kromhoek,28,"","",9249NE,Frieschepalen
+Lytse Dobbe,3,"","",9249NE,Frieschepalen
+Lytse Dobbe,3,"","",9249NE,Frieschepalen
+Kromhoek,30,"","",9249NE,Frieschepalen
+Kromhoek,30,"","",9249NE,Frieschepalen
+Kromhoek,32,"","",9249NE,Frieschepalen
+Kromhoek,32,"","",9249NE,Frieschepalen
+Kromhoek,34,"","",9249NE,Frieschepalen
+Kromhoek,34,"","",9249NE,Frieschepalen
+Kromhoek,34,A,"",9249NE,Frieschepalen
+Kromhoek,34,A,"",9249NE,Frieschepalen
+Kromhoek,36,"","",9249NE,Frieschepalen
+Kromhoek,36,"","",9249NE,Frieschepalen
+Kromhoek,38,"","",9249NE,Frieschepalen
+Kromhoek,38,"","",9249NE,Frieschepalen
+Kromhoek,4,"","",9249NE,Frieschepalen
+Kromhoek,4,"","",9249NE,Frieschepalen
+Kromhoek,40,"","",9249NE,Frieschepalen
+Kromhoek,40,"","",9249NE,Frieschepalen
+Kromhoek,42,"","",9249NE,Frieschepalen
+Kromhoek,42,"","",9249NE,Frieschepalen
+Kromhoek,44,"","",9249NE,Frieschepalen
+Kromhoek,44,"","",9249NE,Frieschepalen
+Kromhoek,44,"",TR01,9249NE,Frieschepalen
+Kromhoek,44,"",TR01,9249NE,Frieschepalen
+Lytse Dobbe,5,"","",9249NE,Frieschepalen
+Lytse Dobbe,5,"","",9249NE,Frieschepalen
+Kromhoek,6,"","",9249NE,Frieschepalen
+Kromhoek,6,"","",9249NE,Frieschepalen
+Lytse Dobbe,7,"","",9249NE,Frieschepalen
+Lytse Dobbe,7,"","",9249NE,Frieschepalen
+Kromhoek,8,"","",9249NE,Frieschepalen
+Kromhoek,8,"","",9249NE,Frieschepalen
+Kromhoek,8,"",TR01,9249NE,Frieschepalen
+Kromhoek,8,"",TR01,9249NE,Frieschepalen
+Lytse Dobbe,9,"","",9249NE,Frieschepalen
+Lytse Dobbe,9,"","",9249NE,Frieschepalen
+De Rusken,1,"","",9249NG,Frieschepalen
+De Rusken,1,"","",9249NG,Frieschepalen
+Lytse Dobbe,10,"","",9249NG,Frieschepalen
+Lytse Dobbe,10,"","",9249NG,Frieschepalen
+De Rusken,11,"","",9249NG,Frieschepalen
+De Rusken,11,"","",9249NG,Frieschepalen
+Lytse Dobbe,12,"","",9249NG,Frieschepalen
+Lytse Dobbe,12,"","",9249NG,Frieschepalen
+De Rusken,13,"","",9249NG,Frieschepalen
+De Rusken,13,"","",9249NG,Frieschepalen
+Lytse Dobbe,14,"","",9249NG,Frieschepalen
+Lytse Dobbe,14,"","",9249NG,Frieschepalen
+De Rusken,15,"","",9249NG,Frieschepalen
+De Rusken,15,"","",9249NG,Frieschepalen
+Lytse Dobbe,16,"","",9249NG,Frieschepalen
+Lytse Dobbe,16,"","",9249NG,Frieschepalen
+De Rusken,17,"","",9249NG,Frieschepalen
+De Rusken,17,"","",9249NG,Frieschepalen
+Lytse Dobbe,18,"","",9249NG,Frieschepalen
+Lytse Dobbe,18,"","",9249NG,Frieschepalen
+De Rusken,19,"","",9249NG,Frieschepalen
+De Rusken,19,"","",9249NG,Frieschepalen
+Lytse Dobbe,2,"","",9249NG,Frieschepalen
+Lytse Dobbe,2,"","",9249NG,Frieschepalen
+Lytse Dobbe,20,"","",9249NG,Frieschepalen
+Lytse Dobbe,20,"","",9249NG,Frieschepalen
+Lytse Dobbe,22,"","",9249NG,Frieschepalen
+Lytse Dobbe,22,"","",9249NG,Frieschepalen
+Lytse Dobbe,24,"","",9249NG,Frieschepalen
+Lytse Dobbe,24,"","",9249NG,Frieschepalen
+Lytse Dobbe,26,"","",9249NG,Frieschepalen
+Lytse Dobbe,26,"","",9249NG,Frieschepalen
+Lytse Dobbe,28,"","",9249NG,Frieschepalen
+Lytse Dobbe,28,"","",9249NG,Frieschepalen
+De Rusken,3,"","",9249NG,Frieschepalen
+De Rusken,3,"","",9249NG,Frieschepalen
+Lytse Dobbe,30,"","",9249NG,Frieschepalen
+Lytse Dobbe,30,"","",9249NG,Frieschepalen
+Lytse Dobbe,32,"","",9249NG,Frieschepalen
+Lytse Dobbe,32,"","",9249NG,Frieschepalen
+Lytse Dobbe,34,"","",9249NG,Frieschepalen
+Lytse Dobbe,34,"","",9249NG,Frieschepalen
+Lytse Dobbe,36,"","",9249NG,Frieschepalen
+Lytse Dobbe,36,"","",9249NG,Frieschepalen
+Lytse Dobbe,38,"","",9249NG,Frieschepalen
+Lytse Dobbe,38,"","",9249NG,Frieschepalen
+Lytse Dobbe,4,"","",9249NG,Frieschepalen
+Lytse Dobbe,4,"","",9249NG,Frieschepalen
+Lytse Dobbe,40,"","",9249NG,Frieschepalen
+Lytse Dobbe,40,"","",9249NG,Frieschepalen
+Lytse Dobbe,42,"","",9249NG,Frieschepalen
+Lytse Dobbe,42,"","",9249NG,Frieschepalen
+Lytse Dobbe,44,"","",9249NG,Frieschepalen
+Lytse Dobbe,44,"","",9249NG,Frieschepalen
+Lytse Dobbe,46,"","",9249NG,Frieschepalen
+Lytse Dobbe,46,"","",9249NG,Frieschepalen
+Lytse Dobbe,48,"","",9249NG,Frieschepalen
+Lytse Dobbe,48,"","",9249NG,Frieschepalen
+De Rusken,5,"","",9249NG,Frieschepalen
+De Rusken,5,"","",9249NG,Frieschepalen
+Lytse Dobbe,50,"","",9249NG,Frieschepalen
+Lytse Dobbe,50,"","",9249NG,Frieschepalen
+Lytse Dobbe,52,"","",9249NG,Frieschepalen
+Lytse Dobbe,52,"","",9249NG,Frieschepalen
+Lytse Dobbe,6,"","",9249NG,Frieschepalen
+Lytse Dobbe,6,"","",9249NG,Frieschepalen
+De Rusken,7,"","",9249NG,Frieschepalen
+De Rusken,7,"","",9249NG,Frieschepalen
+Lytse Dobbe,8,"","",9249NG,Frieschepalen
+Lytse Dobbe,8,"","",9249NG,Frieschepalen
+De Rusken,9,"","",9249NG,Frieschepalen
+De Rusken,9,"","",9249NG,Frieschepalen
+De Rusken,21,"","",9249NH,Frieschepalen
+De Rusken,21,"","",9249NH,Frieschepalen
+De Rusken,23,"","",9249NH,Frieschepalen
+De Rusken,23,"","",9249NH,Frieschepalen
+De Rusken,25,"","",9249NH,Frieschepalen
+De Rusken,25,"","",9249NH,Frieschepalen
+De Rusken,27,"","",9249NH,Frieschepalen
+De Rusken,27,"","",9249NH,Frieschepalen
+De Rusken,29,"","",9249NH,Frieschepalen
+De Rusken,29,"","",9249NH,Frieschepalen
+De Rusken,31,"","",9249NH,Frieschepalen
+De Rusken,31,"","",9249NH,Frieschepalen
+De Rusken,33,"","",9249NH,Frieschepalen
+De Rusken,33,"","",9249NH,Frieschepalen
+De Rusken,35,"","",9249NH,Frieschepalen
+De Rusken,35,"","",9249NH,Frieschepalen
+De Rusken,37,"","",9249NH,Frieschepalen
+De Rusken,37,"","",9249NH,Frieschepalen
+De Rusken,39,"","",9249NH,Frieschepalen
+De Rusken,39,"","",9249NH,Frieschepalen
+De Rusken,10,"","",9249NJ,Frieschepalen
+De Rusken,10,"","",9249NJ,Frieschepalen
+De Rusken,12,"","",9249NJ,Frieschepalen
+De Rusken,12,"","",9249NJ,Frieschepalen
+De Rusken,14,"","",9249NJ,Frieschepalen
+De Rusken,14,"","",9249NJ,Frieschepalen
+De Rusken,16,"","",9249NJ,Frieschepalen
+De Rusken,16,"","",9249NJ,Frieschepalen
+De Rusken,18,"","",9249NJ,Frieschepalen
+De Rusken,18,"","",9249NJ,Frieschepalen
+De Rusken,2,"","",9249NJ,Frieschepalen
+De Rusken,2,"","",9249NJ,Frieschepalen
+De Rusken,20,"","",9249NJ,Frieschepalen
+De Rusken,20,"","",9249NJ,Frieschepalen
+De Rusken,22,"","",9249NJ,Frieschepalen
+De Rusken,22,"","",9249NJ,Frieschepalen
+De Rusken,24,"","",9249NJ,Frieschepalen
+De Rusken,24,"","",9249NJ,Frieschepalen
+De Rusken,26,"","",9249NJ,Frieschepalen
+De Rusken,26,"","",9249NJ,Frieschepalen
+De Rusken,28,"","",9249NJ,Frieschepalen
+De Rusken,28,"","",9249NJ,Frieschepalen
+De Rusken,30,"","",9249NJ,Frieschepalen
+De Rusken,30,"","",9249NJ,Frieschepalen
+De Rusken,4,"","",9249NJ,Frieschepalen
+De Rusken,4,"","",9249NJ,Frieschepalen
+De Rusken,4,A,"",9249NJ,Frieschepalen
+De Rusken,4,B,"",9249NJ,Frieschepalen
+De Rusken,6,"","",9249NJ,Frieschepalen
+De Rusken,6,"","",9249NJ,Frieschepalen
+De Rusken,6,"","",9249NJ,Frieschepalen
+De Rusken,6,A,"",9249NJ,Frieschepalen
+De Rusken,6,B,"",9249NJ,Frieschepalen
+De Rusken,8,"","",9249NJ,Frieschepalen
+De Rusken,8,"","",9249NJ,Frieschepalen
+De Rusken,32,"","",9249NK,Frieschepalen
+De Rusken,32,"","",9249NK,Frieschepalen
+De Rusken,34,"","",9249NK,Frieschepalen
+De Rusken,34,"","",9249NK,Frieschepalen
+De Rusken,36,"","",9249NK,Frieschepalen
+De Rusken,36,"","",9249NK,Frieschepalen
+De Rusken,38,"","",9249NK,Frieschepalen
+De Rusken,38,"","",9249NK,Frieschepalen
+De Rusken,40,"","",9249NK,Frieschepalen
+De Rusken,40,"","",9249NK,Frieschepalen
+De Rusken,42,"","",9249NK,Frieschepalen
+De Rusken,42,"","",9249NK,Frieschepalen
+De Rusken,44,"","",9249NK,Frieschepalen
+De Rusken,44,"","",9249NK,Frieschepalen
+De Rusken,46,"","",9249NK,Frieschepalen
+De Rusken,46,"","",9249NK,Frieschepalen
+De Rusken,48,"","",9249NK,Frieschepalen
+De Rusken,48,"","",9249NK,Frieschepalen
+De Rusken,50,"","",9249NK,Frieschepalen
+De Rusken,50,"","",9249NK,Frieschepalen
+De Rusken,52,"","",9249NK,Frieschepalen
+De Rusken,52,"","",9249NK,Frieschepalen
+De Rusken,54,"","",9249NK,Frieschepalen
+De Rusken,54,"","",9249NK,Frieschepalen
+De Rusken,56,"","",9249NK,Frieschepalen
+De Rusken,56,"","",9249NK,Frieschepalen
+De Rusken,58,"","",9249NK,Frieschepalen
+De Rusken,58,"","",9249NK,Frieschepalen
+De Rusken,60,"","",9249NK,Frieschepalen
+De Rusken,60,"","",9249NK,Frieschepalen
+Lytse Leane,1,"","",9249NL,Frieschepalen
+Lytse Leane,1,"","",9249NL,Frieschepalen
+Lytse Leane,11,"","",9249NL,Frieschepalen
+Lytse Leane,11,"","",9249NL,Frieschepalen
+Lytse Leane,13,"","",9249NL,Frieschepalen
+Lytse Leane,13,"","",9249NL,Frieschepalen
+Lytse Leane,15,"","",9249NL,Frieschepalen
+Lytse Leane,15,"","",9249NL,Frieschepalen
+Lytse Leane,17,"","",9249NL,Frieschepalen
+Lytse Leane,17,"","",9249NL,Frieschepalen
+Lytse Leane,19,"","",9249NL,Frieschepalen
+Lytse Leane,19,"","",9249NL,Frieschepalen
+Lytse Leane,21,"","",9249NL,Frieschepalen
+Lytse Leane,21,"","",9249NL,Frieschepalen
+Lytse Leane,23,"","",9249NL,Frieschepalen
+Lytse Leane,23,"","",9249NL,Frieschepalen
+Lytse Leane,25,"","",9249NL,Frieschepalen
+Lytse Leane,25,"","",9249NL,Frieschepalen
+Lytse Leane,27,"","",9249NL,Frieschepalen
+Lytse Leane,27,"","",9249NL,Frieschepalen
+Lytse Leane,29,"","",9249NL,Frieschepalen
+Lytse Leane,29,"","",9249NL,Frieschepalen
+Lytse Leane,3,"","",9249NL,Frieschepalen
+Lytse Leane,3,"","",9249NL,Frieschepalen
+Lytse Leane,31,"","",9249NL,Frieschepalen
+Lytse Leane,31,"","",9249NL,Frieschepalen
+Lytse Leane,33,"","",9249NL,Frieschepalen
+Lytse Leane,33,"","",9249NL,Frieschepalen
+Lytse Leane,35,"","",9249NL,Frieschepalen
+Lytse Leane,35,"","",9249NL,Frieschepalen
+Lytse Leane,37,"","",9249NL,Frieschepalen
+Lytse Leane,37,"","",9249NL,Frieschepalen
+Lytse Leane,39,"","",9249NL,Frieschepalen
+Lytse Leane,39,"","",9249NL,Frieschepalen
+Lytse Leane,41,"","",9249NL,Frieschepalen
+Lytse Leane,41,"","",9249NL,Frieschepalen
+Lytse Leane,43,"","",9249NL,Frieschepalen
+Lytse Leane,43,"","",9249NL,Frieschepalen
+Lytse Leane,45,"","",9249NL,Frieschepalen
+Lytse Leane,45,"","",9249NL,Frieschepalen
+Lytse Leane,47,"","",9249NL,Frieschepalen
+Lytse Leane,47,"","",9249NL,Frieschepalen
+Lytse Leane,49,"","",9249NL,Frieschepalen
+Lytse Leane,49,"","",9249NL,Frieschepalen
+Lytse Leane,5,"","",9249NL,Frieschepalen
+Lytse Leane,5,"","",9249NL,Frieschepalen
+Lytse Leane,51,"","",9249NL,Frieschepalen
+Lytse Leane,51,"","",9249NL,Frieschepalen
+Lytse Leane,7,"","",9249NL,Frieschepalen
+Lytse Leane,7,"","",9249NL,Frieschepalen
+Lytse Leane,9,"","",9249NL,Frieschepalen
+Lytse Leane,9,"","",9249NL,Frieschepalen
+'t Paed,1,"","",9249NM,Frieschepalen
+'t Paed,1,"","",9249NM,Frieschepalen
+'t Paed,10,"","",9249NM,Frieschepalen
+'t Paed,10,"","",9249NM,Frieschepalen
+'t Paed,12,"","",9249NM,Frieschepalen
+'t Paed,12,"","",9249NM,Frieschepalen
+'t Paed,2,"","",9249NM,Frieschepalen
+'t Paed,2,"","",9249NM,Frieschepalen
+'t Paed,3,"","",9249NM,Frieschepalen
+'t Paed,3,"","",9249NM,Frieschepalen
+'t Paed,4,"","",9249NM,Frieschepalen
+'t Paed,4,"","",9249NM,Frieschepalen
+'t Paed,5,"","",9249NM,Frieschepalen
+'t Paed,5,"","",9249NM,Frieschepalen
+'t Paed,6,"","",9249NM,Frieschepalen
+'t Paed,6,"","",9249NM,Frieschepalen
+'t Paed,7,"","",9249NM,Frieschepalen
+'t Paed,7,"","",9249NM,Frieschepalen
+'t Paed,8,"","",9249NM,Frieschepalen
+'t Paed,8,"","",9249NM,Frieschepalen
+Tolheksleane,1,"","",9249NN,Frieschepalen
+Tolheksleane,1,"","",9249NN,Frieschepalen
+Tolheksleane,11,"","",9249NN,Frieschepalen
+Tolheksleane,11,"","",9249NN,Frieschepalen
+Tolheksleane,13,"","",9249NN,Frieschepalen
+Tolheksleane,13,"","",9249NN,Frieschepalen
+Tolheksleane,15,"","",9249NN,Frieschepalen
+Tolheksleane,15,"","",9249NN,Frieschepalen
+Tolheksleane,17,"","",9249NN,Frieschepalen
+Tolheksleane,17,"","",9249NN,Frieschepalen
+Tolheksleane,19,"","",9249NN,Frieschepalen
+Tolheksleane,19,"","",9249NN,Frieschepalen
+Tolheksleane,23,"","",9249NN,Frieschepalen
+Tolheksleane,23,"","",9249NN,Frieschepalen
+Tolheksleane,25,"","",9249NN,Frieschepalen
+Tolheksleane,25,"","",9249NN,Frieschepalen
+Tolheksleane,27,"","",9249NN,Frieschepalen
+Tolheksleane,27,"","",9249NN,Frieschepalen
+Tolheksleane,29,"","",9249NN,Frieschepalen
+Tolheksleane,29,"","",9249NN,Frieschepalen
+Tolheksleane,3,"","",9249NN,Frieschepalen
+Tolheksleane,3,"","",9249NN,Frieschepalen
+Tolheksleane,31,"","",9249NN,Frieschepalen
+Tolheksleane,31,"","",9249NN,Frieschepalen
+Tolheksleane,33,"","",9249NN,Frieschepalen
+Tolheksleane,33,"","",9249NN,Frieschepalen
+Tolheksleane,5,"","",9249NN,Frieschepalen
+Tolheksleane,5,"","",9249NN,Frieschepalen
+Tolheksleane,7,"","",9249NN,Frieschepalen
+Tolheksleane,7,"","",9249NN,Frieschepalen
+Tolheksleane,9,"","",9249NN,Frieschepalen
+Tolheksleane,9,"","",9249NN,Frieschepalen
+Tolheksleane,35,"","",9249NP,Frieschepalen
+Tolheksleane,35,"","",9249NP,Frieschepalen
+Tolheksleane,37,"","",9249NP,Frieschepalen
+Tolheksleane,37,"","",9249NP,Frieschepalen
+Tolheksleane,39,"","",9249NP,Frieschepalen
+Tolheksleane,39,"","",9249NP,Frieschepalen
+Tolheksleane,41,"","",9249NP,Frieschepalen
+Tolheksleane,41,"","",9249NP,Frieschepalen
+Tolheksleane,43,"","",9249NP,Frieschepalen
+Tolheksleane,43,"","",9249NP,Frieschepalen
+Tolheksleane,45,"","",9249NP,Frieschepalen
+Tolheksleane,45,"","",9249NP,Frieschepalen
+Tolheksleane,47,"","",9249NP,Frieschepalen
+Tolheksleane,47,"","",9249NP,Frieschepalen
+Tolheksleane,49,"","",9249NP,Frieschepalen
+Tolheksleane,49,"","",9249NP,Frieschepalen
+Tolheksleane,51,"","",9249NP,Frieschepalen
+Tolheksleane,51,"","",9249NP,Frieschepalen
+Tolheksleane,53,"","",9249NP,Frieschepalen
+Tolheksleane,53,"","",9249NP,Frieschepalen
+Tolheksleane,55,"","",9249NP,Frieschepalen
+Tolheksleane,55,"","",9249NP,Frieschepalen
+Tolheksleane,57,"","",9249NP,Frieschepalen
+Tolheksleane,57,"","",9249NP,Frieschepalen
+Tolheksleane,57,A,"",9249NP,Frieschepalen
+Tolheksleane,57,A,"",9249NP,Frieschepalen
+Tolheksleane,59,"","",9249NP,Frieschepalen
+Tolheksleane,59,"","",9249NP,Frieschepalen
+Tolheksleane,61,"","",9249NP,Frieschepalen
+Tolheksleane,61,"","",9249NP,Frieschepalen
+Boskdobbe,1,"","",9249NR,Frieschepalen
+Boskdobbe,1,"","",9249NR,Frieschepalen
+Boskdobbe,11,"","",9249NR,Frieschepalen
+Boskdobbe,11,"","",9249NR,Frieschepalen
+Boskdobbe,13,"","",9249NR,Frieschepalen
+Boskdobbe,13,"","",9249NR,Frieschepalen
+Boskdobbe,13,"","",9249NR,Frieschepalen
+Boskdobbe,13,"","",9249NR,Frieschepalen
+Boskdobbe,13,"","",9249NR,Frieschepalen
+Boskdobbe,2,"","",9249NR,Frieschepalen
+Boskdobbe,2,"","",9249NR,Frieschepalen
+Boskdobbe,2,A,"",9249NR,Frieschepalen
+Boskdobbe,2,A,"",9249NR,Frieschepalen
+Boskdobbe,2,A,"",9249NR,Frieschepalen
+Boskdobbe,2,A,"",9249NR,Frieschepalen
+Boskdobbe,3,"","",9249NR,Frieschepalen
+Boskdobbe,3,"","",9249NR,Frieschepalen
+Boskdobbe,4,"","",9249NR,Frieschepalen
+Boskdobbe,4,"","",9249NR,Frieschepalen
+Boskdobbe,5,"","",9249NR,Frieschepalen
+Boskdobbe,5,"","",9249NR,Frieschepalen
+Boskdobbe,6,"","",9249NR,Frieschepalen
+Boskdobbe,6,"","",9249NR,Frieschepalen
+Boskdobbe,7,"","",9249NR,Frieschepalen
+Boskdobbe,7,"","",9249NR,Frieschepalen
+Boskdobbe,9,"","",9249NR,Frieschepalen
+Boskdobbe,9,"","",9249NR,Frieschepalen
+Tolheksleane,63,"","",9249NS,Frieschepalen
+Tolheksleane,63,"","",9249NS,Frieschepalen
+Tolheksleane,67,"","",9249NS,Frieschepalen
+Tolheksleane,67,"","",9249NS,Frieschepalen
+Tolheksleane,69,"","",9249NS,Frieschepalen
+Tolheksleane,69,"","",9249NS,Frieschepalen
+Tolheksleane,71,"","",9249NS,Frieschepalen
+Tolheksleane,71,"","",9249NS,Frieschepalen
+Tolheksleane,73,"","",9249NS,Frieschepalen
+Tolheksleane,73,"","",9249NS,Frieschepalen
+Tolheksleane,75,"","",9249NS,Frieschepalen
+Tolheksleane,75,"","",9249NS,Frieschepalen
+Tolheksleane,77,"","",9249NS,Frieschepalen
+Tolheksleane,77,"","",9249NS,Frieschepalen
+Tolheksleane,77,"",ZO01,9249NS,Frieschepalen
+Tolheksleane,81,"","",9249NS,Frieschepalen
+Tolheksleane,81,"","",9249NS,Frieschepalen
+Tolheksleane,83,"","",9249NS,Frieschepalen
+Tolheksleane,83,"","",9249NS,Frieschepalen
+Tolheksleane,85,"","",9249NS,Frieschepalen
+Tolheksleane,85,"","",9249NS,Frieschepalen
+Tolheksleane,87,"","",9249NS,Frieschepalen
+Tolheksleane,87,"","",9249NS,Frieschepalen
+Tolheksleane,89,"","",9249NS,Frieschepalen
+Tolheksleane,89,"","",9249NS,Frieschepalen
+Tolheksleane,91,"","",9249NS,Frieschepalen
+Tolheksleane,91,"","",9249NS,Frieschepalen
+Tolheksleane,93,"","",9249NS,Frieschepalen
+Tolheksleane,93,"","",9249NS,Frieschepalen
+Tolheksleane,95,"","",9249NS,Frieschepalen
+Tolheksleane,95,"","",9249NS,Frieschepalen
+Tolheksleane,10,"","",9249NT,Frieschepalen
+Tolheksleane,10,"","",9249NT,Frieschepalen
+Tolheksleane,12,"","",9249NT,Frieschepalen
+Tolheksleane,12,"","",9249NT,Frieschepalen
+Tolheksleane,14,"","",9249NT,Frieschepalen
+Tolheksleane,14,"","",9249NT,Frieschepalen
+Tolheksleane,14,"","",9249NT,Frieschepalen
+Tolheksleane,14,"","",9249NT,Frieschepalen
+Tolheksleane,16,"","",9249NT,Frieschepalen
+Tolheksleane,16,"","",9249NT,Frieschepalen
+Tolheksleane,18,"","",9249NT,Frieschepalen
+Tolheksleane,18,"","",9249NT,Frieschepalen
+Tolheksleane,2,"","",9249NT,Frieschepalen
+Tolheksleane,2,"","",9249NT,Frieschepalen
+Tolheksleane,20,"","",9249NT,Frieschepalen
+Tolheksleane,20,"","",9249NT,Frieschepalen
+Tolheksleane,22,"","",9249NT,Frieschepalen
+Tolheksleane,22,"","",9249NT,Frieschepalen
+Tolheksleane,24,"","",9249NT,Frieschepalen
+Tolheksleane,24,"","",9249NT,Frieschepalen
+Tolheksleane,26,"","",9249NT,Frieschepalen
+Tolheksleane,26,"","",9249NT,Frieschepalen
+Tolheksleane,28,"","",9249NT,Frieschepalen
+Tolheksleane,28,"","",9249NT,Frieschepalen
+Tolheksleane,30,"","",9249NT,Frieschepalen
+Tolheksleane,30,"","",9249NT,Frieschepalen
+Tolheksleane,4,"","",9249NT,Frieschepalen
+Tolheksleane,4,"","",9249NT,Frieschepalen
+Tolheksleane,6,"","",9249NT,Frieschepalen
+Tolheksleane,6,"","",9249NT,Frieschepalen
+Tolheksleane,8,"","",9249NT,Frieschepalen
+Tolheksleane,8,"","",9249NT,Frieschepalen
+Tolheksleane,34,"","",9249NV,Frieschepalen
+Tolheksleane,34,"","",9249NV,Frieschepalen
+Tolheksleane,36,"","",9249NV,Frieschepalen
+Tolheksleane,36,"","",9249NV,Frieschepalen
+Tolheksleane,38,"","",9249NV,Frieschepalen
+Tolheksleane,38,"","",9249NV,Frieschepalen
+Tolheksleane,38,"","",9249NV,Frieschepalen
+Tolheksleane,38,"","",9249NV,Frieschepalen
+Tolheksleane,40,"","",9249NV,Frieschepalen
+Tolheksleane,40,"","",9249NV,Frieschepalen
+Tolheksleane,42,"","",9249NV,Frieschepalen
+Tolheksleane,42,"","",9249NV,Frieschepalen
+Tolheksleane,44,"","",9249NV,Frieschepalen
+Tolheksleane,44,"","",9249NV,Frieschepalen
+Tolheksleane,46,"","",9249NV,Frieschepalen
+Tolheksleane,46,"","",9249NV,Frieschepalen
+Tolheksleane,48,"","",9249NV,Frieschepalen
+Tolheksleane,48,"","",9249NV,Frieschepalen
+Tolheksleane,50,"","",9249NV,Frieschepalen
+Tolheksleane,50,"","",9249NV,Frieschepalen
+Tolheksleane,52,"","",9249NV,Frieschepalen
+Tolheksleane,52,"","",9249NV,Frieschepalen
+Tolheksleane,54,"","",9249NV,Frieschepalen
+Tolheksleane,54,"","",9249NV,Frieschepalen
+Tolheksleane,56,"","",9249NV,Frieschepalen
+Tolheksleane,56,"","",9249NV,Frieschepalen
+Tolheksleane,58,"","",9249NV,Frieschepalen
+Tolheksleane,58,"","",9249NV,Frieschepalen
+Tolheksleane,60,"","",9249NV,Frieschepalen
+Tolheksleane,60,"","",9249NV,Frieschepalen
+Tolheksleane,62,"","",9249NV,Frieschepalen
+Tolheksleane,62,"","",9249NV,Frieschepalen
+Tolheksleane,64,"","",9249NV,Frieschepalen
+Tolheksleane,64,"","",9249NV,Frieschepalen
+Tolheksleane,66,"","",9249NV,Frieschepalen
+Tolheksleane,66,"","",9249NV,Frieschepalen
+Tolheksleane,68,"","",9249NV,Frieschepalen
+Tolheksleane,68,"","",9249NV,Frieschepalen
+Lytse Leane,10,"","",9249NX,Frieschepalen
+Lytse Leane,10,"","",9249NX,Frieschepalen
+Lytse Leane,12,"","",9249NX,Frieschepalen
+Lytse Leane,12,"","",9249NX,Frieschepalen
+Lytse Leane,14,"","",9249NX,Frieschepalen
+Lytse Leane,14,"","",9249NX,Frieschepalen
+Lytse Leane,16,"","",9249NX,Frieschepalen
+Lytse Leane,16,"","",9249NX,Frieschepalen
+Lytse Leane,18,"","",9249NX,Frieschepalen
+Lytse Leane,18,"","",9249NX,Frieschepalen
+Lytse Leane,18,"",TR01,9249NX,Frieschepalen
+Lytse Leane,18,"",TR01,9249NX,Frieschepalen
+Lytse Leane,18,"",TR01,9249NX,Frieschepalen
+Lytse Leane,2,"","",9249NX,Frieschepalen
+Lytse Leane,2,"","",9249NX,Frieschepalen
+Lytse Leane,2,A,"",9249NX,Frieschepalen
+Lytse Leane,2,B,"",9249NX,Frieschepalen
+Lytse Leane,2,C,"",9249NX,Frieschepalen
+Lytse Leane,2,D,"",9249NX,Frieschepalen
+Lytse Leane,2,E,"",9249NX,Frieschepalen
+Lytse Leane,2,F,"",9249NX,Frieschepalen
+Lytse Leane,2,G,"",9249NX,Frieschepalen
+Lytse Leane,20,"","",9249NX,Frieschepalen
+Lytse Leane,20,"","",9249NX,Frieschepalen
+Lytse Leane,22,"","",9249NX,Frieschepalen
+Lytse Leane,22,"","",9249NX,Frieschepalen
+Lytse Leane,24,"","",9249NX,Frieschepalen
+Lytse Leane,24,"","",9249NX,Frieschepalen
+Lytse Leane,26,"","",9249NX,Frieschepalen
+Lytse Leane,26,"","",9249NX,Frieschepalen
+Lytse Leane,28,"","",9249NX,Frieschepalen
+Lytse Leane,28,"","",9249NX,Frieschepalen
+Lytse Leane,30,"","",9249NX,Frieschepalen
+Lytse Leane,30,"","",9249NX,Frieschepalen
+Lytse Leane,32,"","",9249NX,Frieschepalen
+Lytse Leane,32,"","",9249NX,Frieschepalen
+Lytse Leane,36,"","",9249NX,Frieschepalen
+Lytse Leane,36,"","",9249NX,Frieschepalen
+Lytse Leane,38,"","",9249NX,Frieschepalen
+Lytse Leane,38,"","",9249NX,Frieschepalen
+Lytse Leane,4,"","",9249NX,Frieschepalen
+Lytse Leane,4,"","",9249NX,Frieschepalen
+Lytse Leane,40,"","",9249NX,Frieschepalen
+Lytse Leane,40,"","",9249NX,Frieschepalen
+Lytse Leane,42,"","",9249NX,Frieschepalen
+Lytse Leane,42,"","",9249NX,Frieschepalen
+Lytse Leane,44,"","",9249NX,Frieschepalen
+Lytse Leane,44,"","",9249NX,Frieschepalen
+Lytse Leane,46,"","",9249NX,Frieschepalen
+Lytse Leane,46,"","",9249NX,Frieschepalen
+Lytse Leane,48,"","",9249NX,Frieschepalen
+Lytse Leane,48,"","",9249NX,Frieschepalen
+Lytse Leane,50,"","",9249NX,Frieschepalen
+Lytse Leane,50,"","",9249NX,Frieschepalen
+Lytse Leane,52,"","",9249NX,Frieschepalen
+Lytse Leane,52,"","",9249NX,Frieschepalen
+Lytse Leane,54,"","",9249NX,Frieschepalen
+Lytse Leane,54,"","",9249NX,Frieschepalen
+Lytse Leane,56,"","",9249NX,Frieschepalen
+Lytse Leane,56,"","",9249NX,Frieschepalen
+Lytse Leane,6,"","",9249NX,Frieschepalen
+Lytse Leane,6,"","",9249NX,Frieschepalen
+Lytse Leane,70,"","",9249NX,Frieschepalen
+Lytse Leane,70,"","",9249NX,Frieschepalen
+Lytse Leane,72,"","",9249NX,Frieschepalen
+Lytse Leane,72,"","",9249NX,Frieschepalen
+Lytse Leane,74,"","",9249NX,Frieschepalen
+Lytse Leane,74,"","",9249NX,Frieschepalen
+Lytse Leane,76,"","",9249NX,Frieschepalen
+Lytse Leane,76,"","",9249NX,Frieschepalen
+Lytse Leane,78,"","",9249NX,Frieschepalen
+Lytse Leane,78,"","",9249NX,Frieschepalen
+Lytse Leane,8,"","",9249NX,Frieschepalen
+Lytse Leane,8,"","",9249NX,Frieschepalen
+Lytse Leane,80,"","",9249NX,Frieschepalen
+Lytse Leane,80,"","",9249NX,Frieschepalen
+Lytse Leane,82,"","",9249NX,Frieschepalen
+Lytse Leane,82,"","",9249NX,Frieschepalen
+Lytse Leane,84,"","",9249NX,Frieschepalen
+Lytse Leane,84,"","",9249NX,Frieschepalen
+Lytse Leane,86,"","",9249NX,Frieschepalen
+Lytse Leane,86,"","",9249NX,Frieschepalen
+Lytse Leane,88,"","",9249NX,Frieschepalen
+Lytse Leane,88,"","",9249NX,Frieschepalen
+Lytse Leane,90,"","",9249NX,Frieschepalen
+Lytse Leane,90,"","",9249NX,Frieschepalen

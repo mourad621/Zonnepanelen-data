@@ -1,25 +1,25 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5359NC,Oude Maasweg,1,,
-5359NA,Hoogveldsestraat,11,,
-5359NA,Hoogveldsestraat,13,,
-5359NB,Zuijdenhoutstraat,2,,
-5359NC,Oude Maasweg,2,,
-5359NC,Oude Maasweg,4,,
-5359NA,Hoogveldsestraat,17,,
-5359NA,Hoogveldsestraat,1,,
-5359NA,Hoogveldsestraat,3,,
-5359NA,Hoogveldsestraat,15,,
-5359ND,Kapelstraat,3,,
-5359NB,Zuijdenhoutstraat,4,,
-5359NC,Oude Maasweg,3,,
-5359NA,Hoogveldsestraat,5,,
-5359ND,Kapelstraat,6,,
-5359NA,Hoogveldsestraat,19,,
-5359NA,Hoogveldsestraat,7,,
-5359NA,Hoogveldsestraat,9,,
-5359ND,Kapelstraat,1,,
-5359ND,Kapelstraat,4,,
-5359NB,Zuijdenhoutstraat,1,,
-5359NC,Oude Maasweg,5,,
-5359NA,Hoogveldsestraat,1,A,
-5359NC,Oude Maasweg,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hoogveldsestraat,1,"","",5359NA,Keent
+Hoogveldsestraat,1,A,"",5359NA,Keent
+Hoogveldsestraat,11,"","",5359NA,Keent
+Hoogveldsestraat,13,"","",5359NA,Keent
+Hoogveldsestraat,15,"","",5359NA,Keent
+Hoogveldsestraat,17,"","",5359NA,Keent
+Hoogveldsestraat,19,"","",5359NA,Keent
+Hoogveldsestraat,3,"","",5359NA,Keent
+Hoogveldsestraat,5,"","",5359NA,Keent
+Hoogveldsestraat,7,"","",5359NA,Keent
+Hoogveldsestraat,9,"","",5359NA,Keent
+Zuijdenhoutstraat,1,"","",5359NB,Keent
+Zuijdenhoutstraat,2,"","",5359NB,Keent
+Zuijdenhoutstraat,4,"","",5359NB,Keent
+Oude Maasweg,1,"","",5359NC,Keent
+Oude Maasweg,1,"","",5359NC,Keent
+Oude Maasweg,2,"","",5359NC,Keent
+Oude Maasweg,3,"","",5359NC,Keent
+Oude Maasweg,4,"","",5359NC,Keent
+Oude Maasweg,5,"","",5359NC,Keent
+Kapelstraat,1,"","",5359ND,Keent
+Kapelstraat,3,"","",5359ND,Keent
+Kapelstraat,4,"","",5359ND,Keent
+Kapelstraat,6,"","",5359ND,Keent

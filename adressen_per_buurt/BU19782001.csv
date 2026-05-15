@@ -1,43 +1,43 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3366BE,Oosteinde,1,,
-3366BE,Oosteinde,2,,
-3366BE,Oosteinde,3,,
-3366BE,Oosteinde,4,,
-3366BE,Oosteinde,5,,
-3366BE,Oosteinde,7,,
-3366BE,Oosteinde,8,,
-3366BE,Oosteinde,10,,
-3366BE,Oosteinde,11,,
-3366BE,Oosteinde,12,,
-3366BE,Oosteinde,12,a,
-3366BE,Oosteinde,13,,
-3366BE,Oosteinde,14,,
-3366BE,Oosteinde,15,,
-3366BE,Oosteinde,17,a,
-3366BE,Oosteinde,17,,
-3366BE,Oosteinde,18,,
-3366BE,Oosteinde,20,,
-3366BE,Oosteinde,21,,
-3366BE,Oosteinde,22,,
-3366BE,Oosteinde,16,,
-3366BE,Oosteinde,18,a,Cons
-3366BE,Oosteinde,18,a,CONS
-3366BE,Oosteinde,18,a,
-3366BE,Oosteinde,7,a,
-3366BH,Provincialeweg N214,36,,
-3366BH,Provincialeweg N214,36,a,
-3366BT,Wingerdse Donk,1,a,
-3366BT,Wingerdse Donk,1,b,
-3366BT,Wingerdse Donk,1,c,
-3366BT,Wingerdse Donk,1,d,
-3366BT,Wingerdse Donk,1,e,
-3366BT,Wingerdse Donk,1,f,
-3366BE,Oosteinde,3,b,
-3366BE,Oosteinde,3,a,
-3366BE,Oosteinde,3,,
-3366BE,Oosteinde,22,a,
-3366BE,Oosteinde,2,,Z
-3366BE,Oosteinde,2,Z,
-3366BE,Oosteinde,18,B,
-3366BE,Oosteinde,2,,
-3366BE,Oosteinde,2,Z,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oosteinde,1,"","",3366BE,Wijngaarden
+Oosteinde,10,"","",3366BE,Wijngaarden
+Oosteinde,11,"","",3366BE,Wijngaarden
+Oosteinde,12,"","",3366BE,Wijngaarden
+Oosteinde,12,A,"",3366BE,Wijngaarden
+Oosteinde,13,"","",3366BE,Wijngaarden
+Oosteinde,14,"","",3366BE,Wijngaarden
+Oosteinde,15,"","",3366BE,Wijngaarden
+Oosteinde,16,"","",3366BE,Wijngaarden
+Oosteinde,17,"","",3366BE,Wijngaarden
+Oosteinde,17,A,"",3366BE,Wijngaarden
+Oosteinde,18,"","",3366BE,Wijngaarden
+Oosteinde,18,A,"",3366BE,Wijngaarden
+Oosteinde,18,A,CONS,3366BE,Wijngaarden
+Oosteinde,18,A,CONS,3366BE,Wijngaarden
+Oosteinde,18,B,"",3366BE,Wijngaarden
+Oosteinde,2,"","",3366BE,Wijngaarden
+Oosteinde,2,"","",3366BE,Wijngaarden
+Oosteinde,2,"",Z,3366BE,Wijngaarden
+Oosteinde,2,Z,"",3366BE,Wijngaarden
+Oosteinde,2,Z,"",3366BE,Wijngaarden
+Oosteinde,20,"","",3366BE,Wijngaarden
+Oosteinde,21,"","",3366BE,Wijngaarden
+Oosteinde,22,"","",3366BE,Wijngaarden
+Oosteinde,22,A,"",3366BE,Wijngaarden
+Oosteinde,3,"","",3366BE,Wijngaarden
+Oosteinde,3,"","",3366BE,Wijngaarden
+Oosteinde,3,A,"",3366BE,Wijngaarden
+Oosteinde,3,B,"",3366BE,Wijngaarden
+Oosteinde,4,"","",3366BE,Wijngaarden
+Oosteinde,5,"","",3366BE,Wijngaarden
+Oosteinde,7,"","",3366BE,Wijngaarden
+Oosteinde,7,A,"",3366BE,Wijngaarden
+Oosteinde,8,"","",3366BE,Wijngaarden
+Provincialeweg N214,36,"","",3366BH,Wijngaarden
+Provincialeweg N214,36,A,"",3366BH,Wijngaarden
+Wingerdse Donk,1,A,"",3366BT,Wijngaarden
+Wingerdse Donk,1,B,"",3366BT,Wijngaarden
+Wingerdse Donk,1,C,"",3366BT,Wijngaarden
+Wingerdse Donk,1,D,"",3366BT,Wijngaarden
+Wingerdse Donk,1,E,"",3366BT,Wijngaarden
+Wingerdse Donk,1,F,"",3366BT,Wijngaarden

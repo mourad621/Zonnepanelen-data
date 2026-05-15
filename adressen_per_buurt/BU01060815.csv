@@ -1,707 +1,354 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9406XJ",12,"",""
-"9406XJ",10,"A",""
-"9406XJ",49,"",""
-"9406XJ",13,"",""
-"9406XJ",55,"",""
-"9406XJ",29,"",""
-"9406XJ",10,"",""
-"9406XJ",1,"L",""
-"9406XJ",1,"H",""
-"9406XJ",35,"",""
-"9406XJ",1,"",""
-"9406XJ",21,"",""
-"9406XJ",1,"K",""
-"9406XJ",47,"",""
-"9406XJ",1,"A",""
-"9406XJ",39,"",""
-"9406XJ",14,"",""
-"9406XJ",11,"",""
-"9406XJ",17,"",""
-"9406XJ",27,"",""
-"9406XJ",53,"",""
-"9406XJ",16,"",""
-"9406XJ",18,"",""
-"9406XJ",1,"",""
-"9406XJ",23,"",""
-"9406XJ",19,"",""
-"9406XJ",1,"B",""
-"9406XJ",33,"",""
-"9406XJ",1,"",""
-"9406XJ",41,"",""
-"9406XJ",37,"",""
-"9406XJ",31,"",""
-"9406XJ",1,"C",""
-"9406XJ",1,"M",""
-"9406XJ",51,"",""
-"9406XJ",1,"F",""
-"9406XJ",1,"E",""
-"9406XJ",1,"G",""
-"9406XJ",43,"",""
-"9406XJ",1,"D",""
-"9406XJ",45,"",""
-"9406XJ",1,"J",""
-"9406XJ",15,"",""
-"9406XJ",25,"",""
-"9406XJ",14,"A",""
-"9408DA",11,"",""
-"9408DA",15,"",""
-"9408DA",19,"",""
-"9408DA",5,"",""
-"9408DA",1,"",""
-"9408DA",7,"",""
-"9408DA",17,"",""
-"9408DA",13,"",""
-"9408DA",3,"",""
-"9408DA",9,"",""
-"9408DB",12,"",""
-"9408DB",16,"",""
-"9408DB",6,"",""
-"9408DB",38,"",""
-"9408DB",2,"",""
-"9408DB",32,"",""
-"9408DB",36,"",""
-"9408DB",4,"",""
-"9408DB",22,"",""
-"9408DB",34,"",""
-"9408DB",14,"",""
-"9408DB",10,"",""
-"9408DB",24,"",""
-"9408DB",26,"",""
-"9408DB",18,"",""
-"9408DB",8,"",""
-"9408DB",30,"",""
-"9408DB",20,"",""
-"9408DB",28,"",""
-"9408DC",6,"",""
-"9408DC",7,"",""
-"9408DC",3,"",""
-"9408DC",5,"",""
-"9408DC",2,"",""
-"9408DC",1,"",""
-"9408DC",4,"",""
-"9408DC",9,"",""
-"9408DC",10,"",""
-"9408DC",8,"",""
-"9408DC",12,"",""
-"9408DD",3,"",""
-"9408DD",1,"",""
-"9408DD",11,"",""
-"9408DD",7,"",""
-"9408DD",9,"",""
-"9408DD",5,"",""
-"9408DE",13,"",""
-"9408DE",6,"",""
-"9408DE",10,"",""
-"9408DE",11,"",""
-"9408DE",3,"",""
-"9408DE",5,"",""
-"9408DE",1,"",""
-"9408DE",8,"",""
-"9408DE",2,"",""
-"9408DE",4,"",""
-"9408DE",7,"",""
-"9408DE",9,"",""
-"9408DG",3,"",""
-"9408DG",8,"",""
-"9408DG",5,"",""
-"9408DG",7,"",""
-"9408DG",9,"",""
-"9408DG",13,"",""
-"9408DG",1,"",""
-"9408DG",11,"",""
-"9408DG",2,"",""
-"9408DG",4,"",""
-"9408DG",6,"",""
-"9408DH",2,"",""
-"9408DH",1,"",""
-"9408DH",11,"",""
-"9408DH",4,"",""
-"9408DH",9,"",""
-"9408DH",6,"",""
-"9408DH",20,"",""
-"9408DH",5,"",""
-"9408DH",14,"",""
-"9408DH",13,"",""
-"9408DH",16,"",""
-"9408DH",10,"",""
-"9408DH",3,"",""
-"9408DH",7,"",""
-"9408DH",22,"",""
-"9408DH",12,"",""
-"9408DH",18,"",""
-"9408DH",8,"",""
-"9408DJ",54,"",""
-"9408DJ",20,"",""
-"9408DJ",64,"",""
-"9408DJ",16,"",""
-"9408DJ",50,"",""
-"9408DJ",14,"",""
-"9408DJ",18,"",""
-"9408DJ",52,"",""
-"9408DJ",48,"",""
-"9408DJ",6,"",""
-"9408DJ",60,"",""
-"9408DJ",68,"",""
-"9408DJ",58,"",""
-"9408DJ",44,"",""
-"9408DJ",24,"",""
-"9408DJ",40,"",""
-"9408DJ",10,"",""
-"9408DJ",12,"",""
-"9408DJ",62,"",""
-"9408DJ",46,"",""
-"9408DJ",70,"",""
-"9408DJ",66,"",""
-"9408DJ",26,"",""
-"9408DJ",22,"",""
-"9408DJ",36,"",""
-"9408DJ",42,"",""
-"9408DJ",8,"",""
-"9408DJ",30,"",""
-"9408DJ",4,"",""
-"9408DJ",38,"",""
-"9408DJ",28,"",""
-"9408DJ",32,"",""
-"9408DJ",2,"",""
-"9408DJ",34,"",""
-"9408DJ",56,"",""
-"9408DK",1,"",""
-"9408DK",2,"",""
-"9408DK",5,"",""
-"9408DK",8,"",""
-"9408DK",3,"",""
-"9408DK",4,"",""
-"9408DK",6,"",""
-"9408DK",7,"",""
-"9408DL",33,"",""
-"9408DL",29,"",""
-"9408DL",19,"",""
-"9408DL",35,"",""
-"9408DL",41,"",""
-"9408DL",45,"",""
-"9408DL",47,"",""
-"9408DL",17,"",""
-"9408DL",51,"",""
-"9408DL",27,"",""
-"9408DL",21,"",""
-"9408DL",49,"",""
-"9408DL",39,"",""
-"9408DL",31,"",""
-"9408DL",37,"",""
-"9408DL",23,"",""
-"9408DL",5,"",""
-"9408DL",25,"",""
-"9408DL",11,"",""
-"9408DL",3,"",""
-"9408DL",43,"",""
-"9408DL",9,"",""
-"9408DL",1,"",""
-"9408DL",15,"",""
-"9408DL",7,"",""
-"9408DL",13,"",""
-"9408DM",6,"",""
-"9408DM",16,"",""
-"9408DM",42,"",""
-"9408DM",44,"",""
-"9408DM",32,"",""
-"9408DM",46,"",""
-"9408DM",18,"",""
-"9408DM",28,"",""
-"9408DM",2,"",""
-"9408DM",4,"",""
-"9408DM",38,"",""
-"9408DM",34,"",""
-"9408DM",12,"",""
-"9408DM",36,"",""
-"9408DM",20,"",""
-"9408DM",60,"",""
-"9408DM",26,"",""
-"9408DM",10,"",""
-"9408DM",48,"",""
-"9408DM",22,"",""
-"9408DM",56,"",""
-"9408DM",52,"",""
-"9408DM",58,"",""
-"9408DM",8,"",""
-"9408DM",30,"",""
-"9408DM",50,"",""
-"9408DM",14,"",""
-"9408DM",24,"",""
-"9408DM",40,"",""
-"9408DM",54,"",""
-"9408DN",4,"",""
-"9408DN",17,"",""
-"9408DN",9,"",""
-"9408DN",6,"",""
-"9408DN",3,"",""
-"9408DN",19,"",""
-"9408DN",15,"",""
-"9408DN",11,"",""
-"9408DN",5,"",""
-"9408DN",1,"",""
-"9408DN",13,"",""
-"9408DN",2,"",""
-"9408DN",7,"",""
-"9408DR",12,"",""
-"9408DR",4,"",""
-"9408DR",6,"",""
-"9408DR",3,"",""
-"9408DR",1,"",""
-"9408DR",16,"",""
-"9408DR",2,"",""
-"9408DR",8,"",""
-"9408DR",14,"",""
-"9408DR",18,"",""
-"9408DR",5,"",""
-"9408DR",20,"",""
-"9408DR",10,"",""
-"9408DS",4,"",""
-"9408DS",22,"",""
-"9408DS",20,"",""
-"9408DS",2,"",""
-"9408DS",17,"",""
-"9408DS",12,"",""
-"9408DS",19,"",""
-"9408DS",5,"",""
-"9408DS",8,"",""
-"9408DS",13,"",""
-"9408DS",7,"",""
-"9408DS",18,"",""
-"9408DS",3,"",""
-"9408DS",21,"",""
-"9408DS",6,"",""
-"9408DS",1,"",""
-"9408DS",24,"",""
-"9408DS",12,"",""
-"9408DS",11,"",""
-"9408DS",10,"",""
-"9408DS",12,"",""
-"9408DS",9,"",""
-"9408DS",16,"",""
-"9408DS",14,"",""
-"9408DS",15,"",""
-"9408DS",26,"",""
-"9408DT",2,"",""
-"9408DT",22,"",""
-"9408DT",26,"",""
-"9408DT",12,"",""
-"9408DT",34,"",""
-"9408DT",20,"",""
-"9408DT",5,"",""
-"9408DT",13,"",""
-"9408DT",6,"",""
-"9408DT",30,"",""
-"9408DT",28,"",""
-"9408DT",4,"",""
-"9408DT",14,"",""
-"9408DT",36,"",""
-"9408DT",38,"",""
-"9408DT",1,"",""
-"9408DT",11,"",""
-"9408DT",32,"",""
-"9408DT",24,"",""
-"9408DT",10,"",""
-"9408DT",18,"",""
-"9408DT",3,"",""
-"9408DT",9,"",""
-"9408DT",8,"",""
-"9408DT",16,"",""
-"9408DT",7,"",""
-"9408DV",2,"",""
-"9408DV",5,"",""
-"9408DV",6,"",""
-"9408DV",4,"",""
-"9408DV",8,"",""
-"9408DV",9,"",""
-"9408DV",10,"",""
-"9408DV",7,"",""
-"9408DV",3,"",""
-"9408DV",1,"",""
-"9408DW",25,"",""
-"9408DW",24,"",""
-"9408DW",7,"",""
-"9408DW",11,"",""
-"9408DW",12,"",""
-"9408DW",14,"",""
-"9408DW",5,"",""
-"9408DW",37,"",""
-"9408DW",6,"",""
-"9408DW",10,"",""
-"9408DW",13,"",""
-"9408DW",26,"",""
-"9408DW",29,"",""
-"9408DW",28,"",""
-"9408DW",23,"",""
-"9408DW",4,"",""
-"9408DW",17,"",""
-"9408DW",33,"",""
-"9408DW",8,"",""
-"9408DW",3,"",""
-"9408DW",35,"",""
-"9408DW",20,"",""
-"9408DW",16,"",""
-"9408DW",27,"",""
-"9408DW",39,"",""
-"9408DW",1,"",""
-"9408DW",22,"",""
-"9408DW",2,"",""
-"9408DW",18,"",""
-"9408DW",9,"",""
-"9408DW",15,"",""
-"9408DW",31,"",""
-"9408DW",21,"",""
-"9408DW",19,"",""
-9408DH,Abeelhout,1,,
-9408DH,Abeelhout,2,,
-9408DH,Abeelhout,3,,
-9408DH,Abeelhout,4,,
-9408DH,Abeelhout,5,,
-9408DH,Abeelhout,6,,
-9408DH,Abeelhout,7,,
-9408DH,Abeelhout,8,,
-9408DH,Abeelhout,9,,
-9408DH,Abeelhout,10,,
-9408DH,Abeelhout,11,,
-9408DH,Abeelhout,12,,
-9408DH,Abeelhout,13,,
-9408DH,Abeelhout,14,,
-9408DH,Abeelhout,16,,
-9408DH,Abeelhout,18,,
-9408DH,Abeelhout,20,,
-9408DH,Abeelhout,22,,
-9408DE,Afzeliahout,1,,
-9408DE,Afzeliahout,2,,
-9408DE,Afzeliahout,3,,
-9408DE,Afzeliahout,4,,
-9408DE,Afzeliahout,5,,
-9408DE,Afzeliahout,6,,
-9408DE,Afzeliahout,7,,
-9408DE,Afzeliahout,8,,
-9408DE,Afzeliahout,9,,
-9408DE,Afzeliahout,10,,
-9408DE,Afzeliahout,11,,
-9408DE,Afzeliahout,13,,
-9408DW,Ahornhout,1,,
-9408DW,Ahornhout,2,,
-9408DW,Ahornhout,3,,
-9408DW,Ahornhout,4,,
-9408DW,Ahornhout,5,,
-9408DW,Ahornhout,6,,
-9408DW,Ahornhout,7,,
-9408DW,Ahornhout,8,,
-9408DW,Ahornhout,9,,
-9408DW,Ahornhout,10,,
-9408DW,Ahornhout,11,,
-9408DW,Ahornhout,12,,
-9408DW,Ahornhout,13,,
-9408DW,Ahornhout,14,,
-9408DW,Ahornhout,15,,
-9408DW,Ahornhout,16,,
-9408DW,Ahornhout,17,,
-9408DW,Ahornhout,18,,
-9408DW,Ahornhout,19,,
-9408DW,Ahornhout,20,,
-9408DW,Ahornhout,21,,
-9408DW,Ahornhout,23,,
-9408DW,Ahornhout,25,,
-9408DW,Ahornhout,26,,
-9408DW,Ahornhout,27,,
-9408DW,Ahornhout,28,,
-9408DW,Ahornhout,29,,
-9408DW,Ahornhout,33,,
-9408DW,Ahornhout,35,,
-9408DW,Ahornhout,37,,
-9408DW,Ahornhout,39,,
-9406XJ,Asserwijk,1,,
-9406XJ,Asserwijk,10,A,
-9406XJ,Asserwijk,10,,
-9406XJ,Asserwijk,11,,
-9406XJ,Asserwijk,12,,
-9406XJ,Asserwijk,13,,
-9406XJ,Asserwijk,14,A,
-9406XJ,Asserwijk,14,,
-9406XJ,Asserwijk,15,,
-9406XJ,Asserwijk,16,,
-9406XJ,Asserwijk,17,,
-9406XJ,Asserwijk,18,,
-9406XJ,Asserwijk,19,,
-9406XJ,Asserwijk,21,,
-9406XJ,Asserwijk,23,,
-9406XJ,Asserwijk,25,,
-9406XJ,Asserwijk,27,,
-9406XJ,Asserwijk,29,,
-9406XJ,Asserwijk,31,,
-9406XJ,Asserwijk,33,,
-9406XJ,Asserwijk,35,,
-9406XJ,Asserwijk,37,,
-9406XJ,Asserwijk,39,,
-9406XJ,Asserwijk,41,,
-9406XJ,Asserwijk,43,,
-9406XJ,Asserwijk,45,,
-9406XJ,Asserwijk,47,,
-9406XJ,Asserwijk,49,,
-9406XJ,Asserwijk,51,,
-9406XJ,Asserwijk,53,,
-9406XJ,Asserwijk,55,,
-9408DR,Balsahout,1,,
-9408DR,Balsahout,2,,
-9408DR,Balsahout,3,,
-9408DR,Balsahout,4,,
-9408DR,Balsahout,5,,
-9408DR,Balsahout,6,,
-9408DR,Balsahout,8,,
-9408DR,Balsahout,10,,
-9408DR,Balsahout,12,,
-9408DR,Balsahout,14,,
-9408DR,Balsahout,16,,
-9408DR,Balsahout,18,,
-9408DR,Balsahout,20,,
-9408DJ,Carry van Bruggenweg,2,,
-9408DJ,Carry van Bruggenweg,4,,
-9408DJ,Carry van Bruggenweg,6,,
-9408DJ,Carry van Bruggenweg,8,,
-9408DJ,Carry van Bruggenweg,10,,
-9408DJ,Carry van Bruggenweg,12,,
-9408DJ,Carry van Bruggenweg,14,,
-9408DJ,Carry van Bruggenweg,16,,
-9408DJ,Carry van Bruggenweg,18,,
-9408DJ,Carry van Bruggenweg,20,,
-9408DJ,Carry van Bruggenweg,22,,
-9408DJ,Carry van Bruggenweg,24,,
-9408DJ,Carry van Bruggenweg,26,,
-9408DJ,Carry van Bruggenweg,28,,
-9408DJ,Carry van Bruggenweg,30,,
-9408DJ,Carry van Bruggenweg,32,,
-9408DJ,Carry van Bruggenweg,34,,
-9408DJ,Carry van Bruggenweg,36,,
-9408DJ,Carry van Bruggenweg,38,,
-9408DJ,Carry van Bruggenweg,40,,
-9408DJ,Carry van Bruggenweg,42,,
-9408DJ,Carry van Bruggenweg,44,,
-9408DJ,Carry van Bruggenweg,46,,
-9408DJ,Carry van Bruggenweg,48,,
-9408DJ,Carry van Bruggenweg,50,,
-9408DJ,Carry van Bruggenweg,52,,
-9408DJ,Carry van Bruggenweg,54,,
-9408DJ,Carry van Bruggenweg,56,,
-9408DJ,Carry van Bruggenweg,58,,
-9408DJ,Carry van Bruggenweg,60,,
-9408DJ,Carry van Bruggenweg,62,,
-9408DJ,Carry van Bruggenweg,64,,
-9408DJ,Carry van Bruggenweg,66,,
-9408DJ,Carry van Bruggenweg,68,,
-9408DJ,Carry van Bruggenweg,70,,
-9408DD,Esdoornhout,1,,
-9408DD,Esdoornhout,3,,
-9408DD,Esdoornhout,5,,
-9408DD,Esdoornhout,7,,
-9408DD,Esdoornhout,9,,
-9408DD,Esdoornhout,11,,
-9408DT,Ebbenhout,1,,
-9408DT,Ebbenhout,2,,
-9408DT,Ebbenhout,3,,
-9408DT,Ebbenhout,4,,
-9408DT,Ebbenhout,5,,
-9408DT,Ebbenhout,6,,
-9408DT,Ebbenhout,7,,
-9408DT,Ebbenhout,8,,
-9408DT,Ebbenhout,9,,
-9408DT,Ebbenhout,10,,
-9408DT,Ebbenhout,11,,
-9408DT,Ebbenhout,12,,
-9408DT,Ebbenhout,13,,
-9408DT,Ebbenhout,14,,
-9408DT,Ebbenhout,16,,
-9408DT,Ebbenhout,18,,
-9408DT,Ebbenhout,20,,
-9408DT,Ebbenhout,22,,
-9408DT,Ebbenhout,24,,
-9408DT,Ebbenhout,26,,
-9408DT,Ebbenhout,28,,
-9408DT,Ebbenhout,30,,
-9408DT,Ebbenhout,32,,
-9408DT,Ebbenhout,34,,
-9408DT,Ebbenhout,36,,
-9408DT,Ebbenhout,38,,
-9408DK,Grote Hout,1,,
-9408DK,Grote Hout,2,,
-9408DK,Grote Hout,3,,
-9408DK,Grote Hout,4,,
-9408DK,Grote Hout,5,,
-9408DK,Grote Hout,6,,
-9408DK,Grote Hout,7,,
-9408DK,Grote Hout,8,,
-9408DS,Kambalahout,1,,
-9408DS,Kambalahout,2,,
-9408DS,Kambalahout,3,,
-9408DS,Kambalahout,4,,
-9408DS,Kambalahout,5,,
-9408DS,Kambalahout,6,,
-9408DS,Kambalahout,7,,
-9408DS,Kambalahout,8,,
-9408DS,Kambalahout,9,,
-9408DS,Kambalahout,10,,
-9408DS,Kambalahout,11,,
-9408DS,Kambalahout,12,,
-9408DS,Kambalahout,14,,
-9408DS,Kambalahout,15,,
-9408DS,Kambalahout,16,,
-9408DS,Kambalahout,17,,
-9408DS,Kambalahout,18,,
-9408DS,Kambalahout,19,,
-9408DS,Kambalahout,20,,
-9408DS,Kambalahout,22,,
-9408DS,Kambalahout,24,,
-9408DS,Kambalahout,26,,
-9408DN,Kleine Hout,1,,
-9408DN,Kleine Hout,2,,
-9408DN,Kleine Hout,3,,
-9408DN,Kleine Hout,4,,
-9408DN,Kleine Hout,5,,
-9408DN,Kleine Hout,6,,
-9408DN,Kleine Hout,7,,
-9408DN,Kleine Hout,9,,
-9408DN,Kleine Hout,11,,
-9408DN,Kleine Hout,13,,
-9408DN,Kleine Hout,15,,
-9408DN,Kleine Hout,17,,
-9408DN,Kleine Hout,19,,
-9408DL,Kloosterhout,1,,
-9408DL,Kloosterhout,3,,
-9408DL,Kloosterhout,5,,
-9408DL,Kloosterhout,7,,
-9408DL,Kloosterhout,9,,
-9408DL,Kloosterhout,11,,
-9408DL,Kloosterhout,13,,
-9408DL,Kloosterhout,15,,
-9408DL,Kloosterhout,17,,
-9408DL,Kloosterhout,19,,
-9408DL,Kloosterhout,21,,
-9408DL,Kloosterhout,23,,
-9408DL,Kloosterhout,25,,
-9408DL,Kloosterhout,27,,
-9408DL,Kloosterhout,29,,
-9408DL,Kloosterhout,31,,
-9408DL,Kloosterhout,33,,
-9408DL,Kloosterhout,35,,
-9408DL,Kloosterhout,37,,
-9408DL,Kloosterhout,39,,
-9408DL,Kloosterhout,41,,
-9408DL,Kloosterhout,43,,
-9408DL,Kloosterhout,45,,
-9408DL,Kloosterhout,47,,
-9408DL,Kloosterhout,49,,
-9408DL,Kloosterhout,51,,
-9408DM,Kloosterhout,2,,
-9408DM,Kloosterhout,4,,
-9408DM,Kloosterhout,6,,
-9408DM,Kloosterhout,8,,
-9408DM,Kloosterhout,10,,
-9408DM,Kloosterhout,12,,
-9408DM,Kloosterhout,14,,
-9408DM,Kloosterhout,16,,
-9408DM,Kloosterhout,18,,
-9408DM,Kloosterhout,20,,
-9408DM,Kloosterhout,22,,
-9408DM,Kloosterhout,24,,
-9408DM,Kloosterhout,26,,
-9408DM,Kloosterhout,28,,
-9408DM,Kloosterhout,30,,
-9408DM,Kloosterhout,32,,
-9408DM,Kloosterhout,34,,
-9408DM,Kloosterhout,36,,
-9408DM,Kloosterhout,38,,
-9408DM,Kloosterhout,40,,
-9408DM,Kloosterhout,42,,
-9408DM,Kloosterhout,44,,
-9408DM,Kloosterhout,46,,
-9408DM,Kloosterhout,48,,
-9408DM,Kloosterhout,50,,
-9408DM,Kloosterhout,52,,
-9408DM,Kloosterhout,54,,
-9408DM,Kloosterhout,56,,
-9408DM,Kloosterhout,58,,
-9408DM,Kloosterhout,60,,
-9408DC,Korte Hout,1,,
-9408DC,Korte Hout,2,,
-9408DC,Korte Hout,3,,
-9408DC,Korte Hout,4,,
-9408DC,Korte Hout,5,,
-9408DC,Korte Hout,6,,
-9408DC,Korte Hout,7,,
-9408DC,Korte Hout,8,,
-9408DC,Korte Hout,9,,
-9408DC,Korte Hout,10,,
-9408DC,Korte Hout,12,,
-9408DA,Lange Hout,1,,
-9408DA,Lange Hout,3,,
-9408DA,Lange Hout,5,,
-9408DA,Lange Hout,7,,
-9408DA,Lange Hout,9,,
-9408DA,Lange Hout,11,,
-9408DA,Lange Hout,13,,
-9408DA,Lange Hout,15,,
-9408DA,Lange Hout,17,,
-9408DA,Lange Hout,19,,
-9408DB,Lange Hout,2,,
-9408DB,Lange Hout,4,,
-9408DB,Lange Hout,6,,
-9408DB,Lange Hout,8,,
-9408DB,Lange Hout,10,,
-9408DB,Lange Hout,12,,
-9408DB,Lange Hout,14,,
-9408DB,Lange Hout,16,,
-9408DB,Lange Hout,18,,
-9408DB,Lange Hout,20,,
-9408DB,Lange Hout,22,,
-9408DB,Lange Hout,24,,
-9408DB,Lange Hout,26,,
-9408DB,Lange Hout,28,,
-9408DB,Lange Hout,30,,
-9408DB,Lange Hout,32,,
-9408DB,Lange Hout,34,,
-9408DB,Lange Hout,36,,
-9408DB,Lange Hout,38,,
-9408DV,Sandelhout,1,,
-9408DV,Sandelhout,2,,
-9408DV,Sandelhout,4,,
-9408DV,Sandelhout,5,,
-9408DV,Sandelhout,6,,
-9408DV,Sandelhout,7,,
-9408DV,Sandelhout,8,,
-9408DV,Sandelhout,9,,
-9408DV,Sandelhout,10,,
-9408DG,Tamarindehout,1,,
-9408DG,Tamarindehout,2,,
-9408DG,Tamarindehout,3,,
-9408DG,Tamarindehout,4,,
-9408DG,Tamarindehout,5,,
-9408DG,Tamarindehout,6,,
-9408DG,Tamarindehout,7,,
-9408DG,Tamarindehout,8,,
-9408DG,Tamarindehout,9,,
-9408DG,Tamarindehout,11,,
-9408DG,Tamarindehout,13,,
-9408DW,Ahornhout,24,,
-9408DW,Ahornhout,22,,
-9408DW,Ahornhout,31,,
-9406XJ,Asserwijk,1,,
-9406XJ,Asserwijk,1,A,
-9406XJ,Asserwijk,1,B,
-9406XJ,Asserwijk,1,C,
-9406XJ,Asserwijk,1,D,
-9406XJ,Asserwijk,1,E,
-9406XJ,Asserwijk,1,F,
-9406XJ,Asserwijk,1,G,
-9406XJ,Asserwijk,1,H,
-9406XJ,Asserwijk,1,J,
-9406XJ,Asserwijk,1,K,
-9406XJ,Asserwijk,1,L,
-9406XJ,Asserwijk,1,M,
-9408DS,Kambalahout,21,,
-9408DS,Kambalahout,13,,
-9408DS,Kambalahout,12,,
-9408DV,Sandelhout,3,,
-9406XJ,Asserwijk,16,A,
-9406XJ,Asserwijk,16,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Asserwijk,1,"","",9406XJ,Assen
+Asserwijk,1,"","",9406XJ,Assen
+Asserwijk,1,"","",9406XJ,Assen
+Asserwijk,1,A,"",9406XJ,Assen
+Asserwijk,1,B,"",9406XJ,Assen
+Asserwijk,1,C,"",9406XJ,Assen
+Asserwijk,1,D,"",9406XJ,Assen
+Asserwijk,1,E,"",9406XJ,Assen
+Asserwijk,1,F,"",9406XJ,Assen
+Asserwijk,1,G,"",9406XJ,Assen
+Asserwijk,1,H,"",9406XJ,Assen
+Asserwijk,1,J,"",9406XJ,Assen
+Asserwijk,1,K,"",9406XJ,Assen
+Asserwijk,1,L,"",9406XJ,Assen
+Asserwijk,1,M,"",9406XJ,Assen
+Asserwijk,10,"","",9406XJ,Assen
+Asserwijk,10,A,"",9406XJ,Assen
+Asserwijk,11,"","",9406XJ,Assen
+Asserwijk,12,"","",9406XJ,Assen
+Asserwijk,13,"","",9406XJ,Assen
+Asserwijk,14,"","",9406XJ,Assen
+Asserwijk,14,A,"",9406XJ,Assen
+Asserwijk,15,"","",9406XJ,Assen
+Asserwijk,16,"","",9406XJ,Assen
+Asserwijk,17,"","",9406XJ,Assen
+Asserwijk,18,"","",9406XJ,Assen
+Asserwijk,19,"","",9406XJ,Assen
+Asserwijk,21,"","",9406XJ,Assen
+Asserwijk,23,"","",9406XJ,Assen
+Asserwijk,25,"","",9406XJ,Assen
+Asserwijk,27,"","",9406XJ,Assen
+Asserwijk,29,"","",9406XJ,Assen
+Asserwijk,31,"","",9406XJ,Assen
+Asserwijk,33,"","",9406XJ,Assen
+Asserwijk,35,"","",9406XJ,Assen
+Asserwijk,37,"","",9406XJ,Assen
+Asserwijk,39,"","",9406XJ,Assen
+Asserwijk,41,"","",9406XJ,Assen
+Asserwijk,43,"","",9406XJ,Assen
+Asserwijk,45,"","",9406XJ,Assen
+Asserwijk,47,"","",9406XJ,Assen
+Asserwijk,49,"","",9406XJ,Assen
+Asserwijk,51,"","",9406XJ,Assen
+Asserwijk,53,"","",9406XJ,Assen
+Asserwijk,55,"","",9406XJ,Assen
+Lange Hout,1,"","",9408DA,Assen
+Lange Hout,11,"","",9408DA,Assen
+Lange Hout,13,"","",9408DA,Assen
+Lange Hout,15,"","",9408DA,Assen
+Lange Hout,17,"","",9408DA,Assen
+Lange Hout,19,"","",9408DA,Assen
+Lange Hout,3,"","",9408DA,Assen
+Lange Hout,5,"","",9408DA,Assen
+Lange Hout,7,"","",9408DA,Assen
+Lange Hout,9,"","",9408DA,Assen
+Lange Hout,10,"","",9408DB,Assen
+Lange Hout,12,"","",9408DB,Assen
+Lange Hout,14,"","",9408DB,Assen
+Lange Hout,16,"","",9408DB,Assen
+Lange Hout,18,"","",9408DB,Assen
+Lange Hout,2,"","",9408DB,Assen
+Lange Hout,20,"","",9408DB,Assen
+Lange Hout,22,"","",9408DB,Assen
+Lange Hout,24,"","",9408DB,Assen
+Lange Hout,26,"","",9408DB,Assen
+Lange Hout,28,"","",9408DB,Assen
+Lange Hout,30,"","",9408DB,Assen
+Lange Hout,32,"","",9408DB,Assen
+Lange Hout,34,"","",9408DB,Assen
+Lange Hout,36,"","",9408DB,Assen
+Lange Hout,38,"","",9408DB,Assen
+Lange Hout,4,"","",9408DB,Assen
+Lange Hout,6,"","",9408DB,Assen
+Lange Hout,8,"","",9408DB,Assen
+Korte Hout,1,"","",9408DC,Assen
+Korte Hout,10,"","",9408DC,Assen
+Korte Hout,12,"","",9408DC,Assen
+Korte Hout,2,"","",9408DC,Assen
+Korte Hout,3,"","",9408DC,Assen
+Korte Hout,4,"","",9408DC,Assen
+Korte Hout,5,"","",9408DC,Assen
+Korte Hout,6,"","",9408DC,Assen
+Korte Hout,7,"","",9408DC,Assen
+Korte Hout,8,"","",9408DC,Assen
+Korte Hout,9,"","",9408DC,Assen
+Esdoornhout,1,"","",9408DD,Assen
+Esdoornhout,11,"","",9408DD,Assen
+Esdoornhout,3,"","",9408DD,Assen
+Esdoornhout,5,"","",9408DD,Assen
+Esdoornhout,7,"","",9408DD,Assen
+Esdoornhout,9,"","",9408DD,Assen
+Afzeliahout,1,"","",9408DE,Assen
+Afzeliahout,10,"","",9408DE,Assen
+Afzeliahout,11,"","",9408DE,Assen
+Afzeliahout,13,"","",9408DE,Assen
+Afzeliahout,2,"","",9408DE,Assen
+Afzeliahout,3,"","",9408DE,Assen
+Afzeliahout,4,"","",9408DE,Assen
+Afzeliahout,5,"","",9408DE,Assen
+Afzeliahout,6,"","",9408DE,Assen
+Afzeliahout,7,"","",9408DE,Assen
+Afzeliahout,8,"","",9408DE,Assen
+Afzeliahout,9,"","",9408DE,Assen
+Tamarindehout,1,"","",9408DG,Assen
+Tamarindehout,11,"","",9408DG,Assen
+Tamarindehout,13,"","",9408DG,Assen
+Tamarindehout,2,"","",9408DG,Assen
+Tamarindehout,3,"","",9408DG,Assen
+Tamarindehout,4,"","",9408DG,Assen
+Tamarindehout,5,"","",9408DG,Assen
+Tamarindehout,6,"","",9408DG,Assen
+Tamarindehout,7,"","",9408DG,Assen
+Tamarindehout,8,"","",9408DG,Assen
+Tamarindehout,9,"","",9408DG,Assen
+Abeelhout,1,"","",9408DH,Assen
+Abeelhout,10,"","",9408DH,Assen
+Abeelhout,11,"","",9408DH,Assen
+Abeelhout,12,"","",9408DH,Assen
+Abeelhout,13,"","",9408DH,Assen
+Abeelhout,14,"","",9408DH,Assen
+Abeelhout,16,"","",9408DH,Assen
+Abeelhout,18,"","",9408DH,Assen
+Abeelhout,2,"","",9408DH,Assen
+Abeelhout,20,"","",9408DH,Assen
+Abeelhout,22,"","",9408DH,Assen
+Abeelhout,3,"","",9408DH,Assen
+Abeelhout,4,"","",9408DH,Assen
+Abeelhout,5,"","",9408DH,Assen
+Abeelhout,6,"","",9408DH,Assen
+Abeelhout,7,"","",9408DH,Assen
+Abeelhout,8,"","",9408DH,Assen
+Abeelhout,9,"","",9408DH,Assen
+Carry van Bruggenweg,10,"","",9408DJ,Assen
+Carry van Bruggenweg,12,"","",9408DJ,Assen
+Carry van Bruggenweg,14,"","",9408DJ,Assen
+Carry van Bruggenweg,16,"","",9408DJ,Assen
+Carry van Bruggenweg,18,"","",9408DJ,Assen
+Carry van Bruggenweg,2,"","",9408DJ,Assen
+Carry van Bruggenweg,20,"","",9408DJ,Assen
+Carry van Bruggenweg,22,"","",9408DJ,Assen
+Carry van Bruggenweg,24,"","",9408DJ,Assen
+Carry van Bruggenweg,26,"","",9408DJ,Assen
+Carry van Bruggenweg,28,"","",9408DJ,Assen
+Carry van Bruggenweg,30,"","",9408DJ,Assen
+Carry van Bruggenweg,32,"","",9408DJ,Assen
+Carry van Bruggenweg,34,"","",9408DJ,Assen
+Carry van Bruggenweg,36,"","",9408DJ,Assen
+Carry van Bruggenweg,38,"","",9408DJ,Assen
+Carry van Bruggenweg,4,"","",9408DJ,Assen
+Carry van Bruggenweg,40,"","",9408DJ,Assen
+Carry van Bruggenweg,42,"","",9408DJ,Assen
+Carry van Bruggenweg,44,"","",9408DJ,Assen
+Carry van Bruggenweg,46,"","",9408DJ,Assen
+Carry van Bruggenweg,48,"","",9408DJ,Assen
+Carry van Bruggenweg,50,"","",9408DJ,Assen
+Carry van Bruggenweg,52,"","",9408DJ,Assen
+Carry van Bruggenweg,54,"","",9408DJ,Assen
+Carry van Bruggenweg,56,"","",9408DJ,Assen
+Carry van Bruggenweg,58,"","",9408DJ,Assen
+Carry van Bruggenweg,6,"","",9408DJ,Assen
+Carry van Bruggenweg,60,"","",9408DJ,Assen
+Carry van Bruggenweg,62,"","",9408DJ,Assen
+Carry van Bruggenweg,64,"","",9408DJ,Assen
+Carry van Bruggenweg,66,"","",9408DJ,Assen
+Carry van Bruggenweg,68,"","",9408DJ,Assen
+Carry van Bruggenweg,70,"","",9408DJ,Assen
+Carry van Bruggenweg,8,"","",9408DJ,Assen
+Grote Hout,1,"","",9408DK,Assen
+Grote Hout,2,"","",9408DK,Assen
+Grote Hout,3,"","",9408DK,Assen
+Grote Hout,4,"","",9408DK,Assen
+Grote Hout,5,"","",9408DK,Assen
+Grote Hout,6,"","",9408DK,Assen
+Grote Hout,7,"","",9408DK,Assen
+Grote Hout,8,"","",9408DK,Assen
+Kloosterhout,1,"","",9408DL,Assen
+Kloosterhout,11,"","",9408DL,Assen
+Kloosterhout,13,"","",9408DL,Assen
+Kloosterhout,15,"","",9408DL,Assen
+Kloosterhout,17,"","",9408DL,Assen
+Kloosterhout,19,"","",9408DL,Assen
+Kloosterhout,21,"","",9408DL,Assen
+Kloosterhout,23,"","",9408DL,Assen
+Kloosterhout,25,"","",9408DL,Assen
+Kloosterhout,27,"","",9408DL,Assen
+Kloosterhout,29,"","",9408DL,Assen
+Kloosterhout,3,"","",9408DL,Assen
+Kloosterhout,31,"","",9408DL,Assen
+Kloosterhout,33,"","",9408DL,Assen
+Kloosterhout,35,"","",9408DL,Assen
+Kloosterhout,37,"","",9408DL,Assen
+Kloosterhout,39,"","",9408DL,Assen
+Kloosterhout,41,"","",9408DL,Assen
+Kloosterhout,43,"","",9408DL,Assen
+Kloosterhout,45,"","",9408DL,Assen
+Kloosterhout,47,"","",9408DL,Assen
+Kloosterhout,49,"","",9408DL,Assen
+Kloosterhout,5,"","",9408DL,Assen
+Kloosterhout,51,"","",9408DL,Assen
+Kloosterhout,7,"","",9408DL,Assen
+Kloosterhout,9,"","",9408DL,Assen
+Kloosterhout,10,"","",9408DM,Assen
+Kloosterhout,12,"","",9408DM,Assen
+Kloosterhout,14,"","",9408DM,Assen
+Kloosterhout,16,"","",9408DM,Assen
+Kloosterhout,18,"","",9408DM,Assen
+Kloosterhout,2,"","",9408DM,Assen
+Kloosterhout,20,"","",9408DM,Assen
+Kloosterhout,22,"","",9408DM,Assen
+Kloosterhout,24,"","",9408DM,Assen
+Kloosterhout,26,"","",9408DM,Assen
+Kloosterhout,28,"","",9408DM,Assen
+Kloosterhout,30,"","",9408DM,Assen
+Kloosterhout,32,"","",9408DM,Assen
+Kloosterhout,34,"","",9408DM,Assen
+Kloosterhout,36,"","",9408DM,Assen
+Kloosterhout,38,"","",9408DM,Assen
+Kloosterhout,4,"","",9408DM,Assen
+Kloosterhout,40,"","",9408DM,Assen
+Kloosterhout,42,"","",9408DM,Assen
+Kloosterhout,44,"","",9408DM,Assen
+Kloosterhout,46,"","",9408DM,Assen
+Kloosterhout,48,"","",9408DM,Assen
+Kloosterhout,50,"","",9408DM,Assen
+Kloosterhout,52,"","",9408DM,Assen
+Kloosterhout,54,"","",9408DM,Assen
+Kloosterhout,56,"","",9408DM,Assen
+Kloosterhout,58,"","",9408DM,Assen
+Kloosterhout,6,"","",9408DM,Assen
+Kloosterhout,60,"","",9408DM,Assen
+Kloosterhout,8,"","",9408DM,Assen
+Kleine Hout,1,"","",9408DN,Assen
+Kleine Hout,11,"","",9408DN,Assen
+Kleine Hout,13,"","",9408DN,Assen
+Kleine Hout,15,"","",9408DN,Assen
+Kleine Hout,17,"","",9408DN,Assen
+Kleine Hout,19,"","",9408DN,Assen
+Kleine Hout,2,"","",9408DN,Assen
+Kleine Hout,3,"","",9408DN,Assen
+Kleine Hout,4,"","",9408DN,Assen
+Kleine Hout,5,"","",9408DN,Assen
+Kleine Hout,6,"","",9408DN,Assen
+Kleine Hout,7,"","",9408DN,Assen
+Kleine Hout,9,"","",9408DN,Assen
+Balsahout,1,"","",9408DR,Assen
+Balsahout,10,"","",9408DR,Assen
+Balsahout,12,"","",9408DR,Assen
+Balsahout,14,"","",9408DR,Assen
+Balsahout,16,"","",9408DR,Assen
+Balsahout,18,"","",9408DR,Assen
+Balsahout,2,"","",9408DR,Assen
+Balsahout,20,"","",9408DR,Assen
+Balsahout,3,"","",9408DR,Assen
+Balsahout,4,"","",9408DR,Assen
+Balsahout,5,"","",9408DR,Assen
+Balsahout,6,"","",9408DR,Assen
+Balsahout,8,"","",9408DR,Assen
+Kambalahout,1,"","",9408DS,Assen
+Kambalahout,10,"","",9408DS,Assen
+Kambalahout,11,"","",9408DS,Assen
+Kambalahout,12,"","",9408DS,Assen
+Kambalahout,12,"","",9408DS,Assen
+Kambalahout,12,"","",9408DS,Assen
+Kambalahout,13,"","",9408DS,Assen
+Kambalahout,14,"","",9408DS,Assen
+Kambalahout,15,"","",9408DS,Assen
+Kambalahout,16,"","",9408DS,Assen
+Kambalahout,17,"","",9408DS,Assen
+Kambalahout,18,"","",9408DS,Assen
+Kambalahout,19,"","",9408DS,Assen
+Kambalahout,2,"","",9408DS,Assen
+Kambalahout,20,"","",9408DS,Assen
+Kambalahout,21,"","",9408DS,Assen
+Kambalahout,22,"","",9408DS,Assen
+Kambalahout,24,"","",9408DS,Assen
+Kambalahout,26,"","",9408DS,Assen
+Kambalahout,3,"","",9408DS,Assen
+Kambalahout,4,"","",9408DS,Assen
+Kambalahout,5,"","",9408DS,Assen
+Kambalahout,6,"","",9408DS,Assen
+Kambalahout,7,"","",9408DS,Assen
+Kambalahout,8,"","",9408DS,Assen
+Kambalahout,9,"","",9408DS,Assen
+Ebbenhout,1,"","",9408DT,Assen
+Ebbenhout,10,"","",9408DT,Assen
+Ebbenhout,11,"","",9408DT,Assen
+Ebbenhout,12,"","",9408DT,Assen
+Ebbenhout,13,"","",9408DT,Assen
+Ebbenhout,14,"","",9408DT,Assen
+Ebbenhout,16,"","",9408DT,Assen
+Ebbenhout,18,"","",9408DT,Assen
+Ebbenhout,2,"","",9408DT,Assen
+Ebbenhout,20,"","",9408DT,Assen
+Ebbenhout,22,"","",9408DT,Assen
+Ebbenhout,24,"","",9408DT,Assen
+Ebbenhout,26,"","",9408DT,Assen
+Ebbenhout,28,"","",9408DT,Assen
+Ebbenhout,3,"","",9408DT,Assen
+Ebbenhout,30,"","",9408DT,Assen
+Ebbenhout,32,"","",9408DT,Assen
+Ebbenhout,34,"","",9408DT,Assen
+Ebbenhout,36,"","",9408DT,Assen
+Ebbenhout,38,"","",9408DT,Assen
+Ebbenhout,4,"","",9408DT,Assen
+Ebbenhout,5,"","",9408DT,Assen
+Ebbenhout,6,"","",9408DT,Assen
+Ebbenhout,7,"","",9408DT,Assen
+Ebbenhout,8,"","",9408DT,Assen
+Ebbenhout,9,"","",9408DT,Assen
+Sandelhout,1,"","",9408DV,Assen
+Sandelhout,10,"","",9408DV,Assen
+Sandelhout,2,"","",9408DV,Assen
+Sandelhout,3,"","",9408DV,Assen
+Sandelhout,4,"","",9408DV,Assen
+Sandelhout,5,"","",9408DV,Assen
+Sandelhout,6,"","",9408DV,Assen
+Sandelhout,7,"","",9408DV,Assen
+Sandelhout,8,"","",9408DV,Assen
+Sandelhout,9,"","",9408DV,Assen
+Ahornhout,1,"","",9408DW,Assen
+Ahornhout,10,"","",9408DW,Assen
+Ahornhout,11,"","",9408DW,Assen
+Ahornhout,12,"","",9408DW,Assen
+Ahornhout,13,"","",9408DW,Assen
+Ahornhout,14,"","",9408DW,Assen
+Ahornhout,15,"","",9408DW,Assen
+Ahornhout,16,"","",9408DW,Assen
+Ahornhout,17,"","",9408DW,Assen
+Ahornhout,18,"","",9408DW,Assen
+Ahornhout,19,"","",9408DW,Assen
+Ahornhout,2,"","",9408DW,Assen
+Ahornhout,20,"","",9408DW,Assen
+Ahornhout,21,"","",9408DW,Assen
+Ahornhout,22,"","",9408DW,Assen
+Ahornhout,23,"","",9408DW,Assen
+Ahornhout,24,"","",9408DW,Assen
+Ahornhout,25,"","",9408DW,Assen
+Ahornhout,26,"","",9408DW,Assen
+Ahornhout,27,"","",9408DW,Assen
+Ahornhout,28,"","",9408DW,Assen
+Ahornhout,29,"","",9408DW,Assen
+Ahornhout,3,"","",9408DW,Assen
+Ahornhout,31,"","",9408DW,Assen
+Ahornhout,33,"","",9408DW,Assen
+Ahornhout,35,"","",9408DW,Assen
+Ahornhout,37,"","",9408DW,Assen
+Ahornhout,39,"","",9408DW,Assen
+Ahornhout,4,"","",9408DW,Assen
+Ahornhout,5,"","",9408DW,Assen
+Ahornhout,6,"","",9408DW,Assen
+Ahornhout,7,"","",9408DW,Assen
+Ahornhout,8,"","",9408DW,Assen
+Ahornhout,9,"","",9408DW,Assen

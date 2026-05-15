@@ -1,80 +1,80 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7991RG,Juliana Bernhardweg,1,a,
-7991RG,Juliana Bernhardweg,1,b,
-7991RG,Juliana Bernhardweg,1,,
-7991RG,Juliana Bernhardweg,2,,
-7991RG,Juliana Bernhardweg,4,,
-7991RG,Juliana Bernhardweg,5,,
-7991RG,Juliana Bernhardweg,6,,
-7991RG,Juliana Bernhardweg,7,,
-7991RG,Juliana Bernhardweg,8,,
-7991RG,Juliana Bernhardweg,9,,
-7991RG,Juliana Bernhardweg,10,,
-7991PW,Leggeloo,1,e,
-7991PW,Leggeloo,1,,
-7991PW,Leggeloo,2,,
-7991PW,Leggeloo,3,,
-7991PW,Leggeloo,4,,
-7991PW,Leggeloo,5,,
-7991PW,Leggeloo,6,,
-7991PW,Leggeloo,7,,
-7991PW,Leggeloo,8,,
-7991PW,Leggeloo,9,,
-7991PW,Leggeloo,10,,
-7991PW,Leggeloo,11,,
-7991PW,Leggeloo,18,,
-7991PW,Leggeloo,21,,
-7991PW,Leggeloo,22,,
-7991PW,Leggeloo,23,,
-7991PW,Leggeloo,24,a,
-7991PW,Leggeloo,24,,
-7991PW,Leggeloo,25,,
-7991PW,Leggeloo,25,t,
-7991PW,Leggeloo,27,,
-7991PW,Leggeloo,28,,
-7991PW,Leggeloo,29,,
-7991PW,Leggeloo,31,a,
-7991PW,Leggeloo,31,,
-7991PW,Leggeloo,31,b,
-7991PW,Leggeloo,33,,
-7991PW,Leggeloo,19,,
-7991PW,Leggeloo,20,,
-7991PW,Leggeloo,27,t,
-7991PW,Leggeloo,21,x,
-7991PW,Leggeloo,32,,
-7991PW,Leggeloo,33,a,
-7991PW,Leggeloo,5,,
-7991PW,Leggeloo,5,a,
-7991PZ,Leggeloo,35,,
-7991PZ,Leggeloo,36,,
-7991PZ,Leggeloo,37,,
-7991PZ,Leggeloo,38,,
-7991PZ,Leggeloo,39,,
-7991PZ,Leggeloo,40,,
-7991PZ,Leggeloo,41,,
-7991PZ,Leggeloo,42,,
-7991PZ,Leggeloo,46,,
-7991PZ,Leggeloo,49,,
-7991PZ,Leggeloo,50,,
-7991PZ,Leggeloo,51,,
-7991PZ,Leggeloo,52,,
-7991PZ,Leggeloo,53,,
-7991PZ,Leggeloo,54,,
-7991PZ,Leggeloo,55,,
-7991PZ,Leggeloo,56,,
-7991PZ,Leggeloo,58,,
-7991PZ,Leggeloo,59,,
-7991PZ,Leggeloo,60,,
-7991PZ,Leggeloo,61,,
-7991PZ,Leggeloo,67,,
-7991PZ,Leggeloo,68,,
-7991PZ,Leggeloo,69,,
-7991PZ,Leggeloo,70,,
-7991PZ,Leggeloo,34,,
-7991PZ,Leggeloo,57,,
-7991PZ,Leggeloo,40,a,
-7991PZ,Leggeloo,40,b,
-7991PZ,Leggeloo,69,a,
-7991PZ,Leggeloo,49,a,
-7991RG,Juliana Bernhardweg,3,,
-7991RG,Juliana Bernhardweg,6,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Leggeloo,1,"","",7991PW,Dwingeloo
+Leggeloo,1,E,"",7991PW,Dwingeloo
+Leggeloo,10,"","",7991PW,Dwingeloo
+Leggeloo,11,"","",7991PW,Dwingeloo
+Leggeloo,18,"","",7991PW,Dwingeloo
+Leggeloo,19,"","",7991PW,Dwingeloo
+Leggeloo,2,"","",7991PW,Dwingeloo
+Leggeloo,20,"","",7991PW,Dwingeloo
+Leggeloo,21,"","",7991PW,Dwingeloo
+Leggeloo,21,X,"",7991PW,Dwingeloo
+Leggeloo,22,"","",7991PW,Dwingeloo
+Leggeloo,23,"","",7991PW,Dwingeloo
+Leggeloo,24,"","",7991PW,Dwingeloo
+Leggeloo,24,A,"",7991PW,Dwingeloo
+Leggeloo,25,"","",7991PW,Dwingeloo
+Leggeloo,25,T,"",7991PW,Dwingeloo
+Leggeloo,27,"","",7991PW,Dwingeloo
+Leggeloo,27,T,"",7991PW,Dwingeloo
+Leggeloo,28,"","",7991PW,Dwingeloo
+Leggeloo,29,"","",7991PW,Dwingeloo
+Leggeloo,3,"","",7991PW,Dwingeloo
+Leggeloo,31,"","",7991PW,Dwingeloo
+Leggeloo,31,A,"",7991PW,Dwingeloo
+Leggeloo,31,B,"",7991PW,Dwingeloo
+Leggeloo,32,"","",7991PW,Dwingeloo
+Leggeloo,33,"","",7991PW,Dwingeloo
+Leggeloo,33,A,"",7991PW,Dwingeloo
+Leggeloo,4,"","",7991PW,Dwingeloo
+Leggeloo,5,"","",7991PW,Dwingeloo
+Leggeloo,5,"","",7991PW,Dwingeloo
+Leggeloo,5,A,"",7991PW,Dwingeloo
+Leggeloo,6,"","",7991PW,Dwingeloo
+Leggeloo,7,"","",7991PW,Dwingeloo
+Leggeloo,8,"","",7991PW,Dwingeloo
+Leggeloo,9,"","",7991PW,Dwingeloo
+Leggeloo,34,"","",7991PZ,Dwingeloo
+Leggeloo,35,"","",7991PZ,Dwingeloo
+Leggeloo,36,"","",7991PZ,Dwingeloo
+Leggeloo,37,"","",7991PZ,Dwingeloo
+Leggeloo,38,"","",7991PZ,Dwingeloo
+Leggeloo,39,"","",7991PZ,Dwingeloo
+Leggeloo,40,"","",7991PZ,Dwingeloo
+Leggeloo,40,A,"",7991PZ,Dwingeloo
+Leggeloo,40,B,"",7991PZ,Dwingeloo
+Leggeloo,41,"","",7991PZ,Dwingeloo
+Leggeloo,42,"","",7991PZ,Dwingeloo
+Leggeloo,46,"","",7991PZ,Dwingeloo
+Leggeloo,49,"","",7991PZ,Dwingeloo
+Leggeloo,49,A,"",7991PZ,Dwingeloo
+Leggeloo,50,"","",7991PZ,Dwingeloo
+Leggeloo,51,"","",7991PZ,Dwingeloo
+Leggeloo,52,"","",7991PZ,Dwingeloo
+Leggeloo,53,"","",7991PZ,Dwingeloo
+Leggeloo,54,"","",7991PZ,Dwingeloo
+Leggeloo,55,"","",7991PZ,Dwingeloo
+Leggeloo,56,"","",7991PZ,Dwingeloo
+Leggeloo,57,"","",7991PZ,Dwingeloo
+Leggeloo,58,"","",7991PZ,Dwingeloo
+Leggeloo,59,"","",7991PZ,Dwingeloo
+Leggeloo,60,"","",7991PZ,Dwingeloo
+Leggeloo,61,"","",7991PZ,Dwingeloo
+Leggeloo,67,"","",7991PZ,Dwingeloo
+Leggeloo,68,"","",7991PZ,Dwingeloo
+Leggeloo,69,"","",7991PZ,Dwingeloo
+Leggeloo,69,A,"",7991PZ,Dwingeloo
+Leggeloo,70,"","",7991PZ,Dwingeloo
+Juliana Bernhardweg,1,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,1,A,"",7991RG,Dwingeloo
+Juliana Bernhardweg,1,B,"",7991RG,Dwingeloo
+Juliana Bernhardweg,10,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,2,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,3,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,4,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,5,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,6,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,6,A,"",7991RG,Dwingeloo
+Juliana Bernhardweg,7,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,8,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,9,"","",7991RG,Dwingeloo

@@ -1,38 +1,38 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5352KC,De Rijt,1,A,
-5352LB,Dorpenweg,27,,
-5352LB,Dorpenweg,33,,
-5352LB,Dorpenweg,31,,
-5352KC,De Rijt,4,,
-5352KC,De Rijt,6,,
-5352KG,Hillekamp,1,,
-5352KH,Bredestraat,3,,
-5352LB,Dorpenweg,35,,
-5352LB,Dorpenweg,25,,
-5352KB,Reiakker,4,,
-5352KB,Reiakker,2,,
-5352KC,De Rijt,8,,
-5352LB,Dorpenweg,21,,
-5352LB,Dorpenweg,23,,
-5352KC,De Rijt,1,,
-5352KC,De Rijt,3,,
-5352KC,De Rijt,2,,
-5352KC,De Rijt,14,,
-5352LB,Dorpenweg,37,,
-5352LB,Dorpenweg,39,,
-5352KC,De Rijt,1,,bij
-5352KC,De Rijt,12,,
-5352KC,De Rijt,14,A,
-5352KC,De Rijt,8,A,
-5352KH,Bredestraat,29,,
-5352KH,Bredestraat,29,,
-5352LB,Dorpenweg,29,,
-5352LB,Dorpenweg,29,,
-5352LB,Dorpenweg,21,A,
-5352LB,Dorpenweg,21,B,
-5352LB,Dorpenweg,21,,
-5352LB,Dorpenweg,21,C,
-5352KC,De Rijt,12,A,
-5352KC,De Rijt,2,A,
-5352KD,Bendelaar,1,,
-5352KC,De Rijt,6,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Reiakker,2,"","",5352KB,Deursen-Dennenburg
+Reiakker,4,"","",5352KB,Deursen-Dennenburg
+De Rijt,1,"","",5352KC,Deursen-Dennenburg
+De Rijt,1,"",BIJ,5352KC,Deursen-Dennenburg
+De Rijt,1,A,"",5352KC,Deursen-Dennenburg
+De Rijt,12,"","",5352KC,Deursen-Dennenburg
+De Rijt,12,A,"",5352KC,Deursen-Dennenburg
+De Rijt,14,"","",5352KC,Deursen-Dennenburg
+De Rijt,14,A,"",5352KC,Deursen-Dennenburg
+De Rijt,2,"","",5352KC,Deursen-Dennenburg
+De Rijt,2,A,"",5352KC,Deursen-Dennenburg
+De Rijt,3,"","",5352KC,Deursen-Dennenburg
+De Rijt,4,"","",5352KC,Deursen-Dennenburg
+De Rijt,6,"","",5352KC,Deursen-Dennenburg
+De Rijt,6,A,"",5352KC,Deursen-Dennenburg
+De Rijt,8,"","",5352KC,Deursen-Dennenburg
+De Rijt,8,A,"",5352KC,Deursen-Dennenburg
+Bendelaar,1,"","",5352KD,Deursen-Dennenburg
+Hillekamp,1,"","",5352KG,Deursen-Dennenburg
+Bredestraat,29,"","",5352KH,Deursen-Dennenburg
+Bredestraat,29,"","",5352KH,Deursen-Dennenburg
+Bredestraat,3,"","",5352KH,Deursen-Dennenburg
+Dorpenweg,21,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,21,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,21,A,"",5352LB,Deursen-Dennenburg
+Dorpenweg,21,B,"",5352LB,Deursen-Dennenburg
+Dorpenweg,21,C,"",5352LB,Deursen-Dennenburg
+Dorpenweg,23,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,25,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,27,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,29,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,29,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,31,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,33,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,35,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,37,"","",5352LB,Deursen-Dennenburg
+Dorpenweg,39,"","",5352LB,Deursen-Dennenburg

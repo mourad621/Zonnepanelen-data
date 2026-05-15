@@ -1,463 +1,240 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8276AA",1,"",""
-"8276AA",19,"",""
-"8276AA",19,"A",""
-"8276AA",3,"",""
-"8276AA",27,"",""
-"8276AA",7,"",""
-"8276AA",5,"A",""
-"8276AA",1,"B",""
-"8276AA",1,"A",""
-"8276AA",1,"D",""
-"8276AA",1,"C",""
-"8276AA",5,"",""
-"8276AA",7,"","TR"
-"8276AB",41,"C",""
-"8276AB",41,"B",""
-"8276AB",47,"","TR"
-"8276AB",35,"",""
-"8276AB",55,"",""
-"8276AB",37,"",""
-"8276AB",53,"","TR"
-"8276AB",49,"",""
-"8276AB",47,"",""
-"8276AB",29,"",""
-"8276AB",51,"",""
-"8276AB",53,"",""
-"8276AB",39,"",""
-"8276AB",41,"A",""
-"8276AB",49,"",""
-"8276AB",33,"",""
-"8276AB",57,"",""
-"8276AB",43,"",""
-"8276AB",53,"",""
-"8276AB",41,"",""
-"8276AB",39,"A",""
-"8276AB",53,"",""
-"8276AB",47,"A",""
-"8276AB",49,"",""
-"8276AC",2,"",""
-"8276AC",8,"A",""
-"8276AC",4,"",""
-"8276AC",2,"A",""
-"8276AC",4,"",""
-"8276AC",2,"",""
-"8276AC",12,"","TR"
-"8276AC",6,"",""
-"8276AC",4,"",""
-"8276AC",14,"",""
-"8276AC",16,"",""
-"8276AC",8,"",""
-"8276AC",2,"",""
-"8276AC",4,"",""
-"8276AC",12,"",""
-"8276AC",4,"",""
-"8276AD",4,"","TR02"
-"8276AD",4,"A",""
-"8276AD",5,"","TR"
-"8276AD",4,"",""
-"8276AD",4,"","TR01"
-"8276AD",2,"A",""
-"8276AD",4,"","TR02"
-"8276AD",2,"",""
-"8276AD",5,"",""
-"8276AD",1,"",""
-"8276AD",3,"",""
-"8276AD",6,"",""
-"8276AD",3,"","TR"
-"8276AE",15,"A",""
-"8276AE",1,"A",""
-"8276AE",1,"",""
-"8276AE",15,"A",""
-"8276AE",1,"C",""
-"8276AE",1,"A",""
-"8276AE",1,"A",""
-"8276AE",1,"B",""
-"8276AE",13,"",""
-"8276AE",13,"B",""
-"8276AE",9,"",""
-"8276AE",13,"A",""
-"8276AE",11,"",""
-"8276AE",15,"",""
-"8276AG",20,"A",""
-"8276AG",10,"",""
-"8276AG",22,"",""
-"8276AG",4,"",""
-"8276AG",40,"",""
-"8276AG",38,"",""
-"8276AG",42,"",""
-"8276AG",32,"",""
-"8276AG",24,"",""
-"8276AG",24,"A",""
-"8276AG",34,"",""
-"8276AG",42,"",""
-"8276AG",2,"",""
-"8276AG",30,"",""
-"8276AG",40,"","TR"
-"8276AG",28,"",""
-"8276AG",20,"",""
-"8276AG",36,"",""
-"8276AG",26,"",""
-"8276AG",42,"",""
-"8276AG",8,"A",""
-"8276AH",17,"",""
-"8276AH",9,"A",""
-"8276AH",9,"",""
-"8276AH",13,"",""
-"8276AH",13,"G",""
-"8276AH",11,"",""
-"8276AH",3,"",""
-"8276AH",9,"",""
-"8276AH",13,"E",""
-"8276AH",11,"",""
-"8276AH",9,"",""
-"8276AH",11,"",""
-"8276AH",13,"C",""
-"8276AH",13,"F",""
-"8276AH",5,"",""
-"8276AH",15,"",""
-"8276AH",13,"A",""
-"8276AH",15,"A",""
-"8276AH",13,"B",""
-"8276AH",1,"",""
-"8276AH",13,"D",""
-"8276AJ",8,"",""
-"8276AJ",14,"",""
-"8276AJ",10,"A",""
-"8276AJ",18,"",""
-"8276AJ",12,"",""
-"8276AJ",10,"",""
-"8276AJ",2,"A",""
-"8276AJ",22,"",""
-"8276AJ",4,"",""
-"8276AJ",24,"",""
-"8276AJ",2,"C",""
-"8276AJ",10,"B",""
-"8276AJ",16,"",""
-"8276AJ",2,"",""
-"8276AJ",6,"",""
-"8276AJ",20,"",""
-"8276AJ",20,"A",""
-"8276AJ",10,"C",""
-"8276AJ",10,"","TR"
-"8276AN",15,"",""
-"8276AN",5,"",""
-"8276AN",11,"",""
-"8276AN",9,"B",""
-"8276AN",4,"",""
-"8276AN",9,"A",""
-"8276AN",9,"",""
-"8276AN",17,"",""
-"8276AN",7,"",""
-"8276AN",13,"",""
-"8276AN",1,"A",""
-"8276AN",11,"",""
-"8276AN",2,"",""
-"8276AN",11,"",""
-"8276AN",1,"",""
-"8276AN",3,"",""
-"8276AP",2,"A",""
-"8276AP",1,"","TR"
-"8276AP",1,"",""
-"8276AP",1,"",""
-"8276AP",6,"",""
-"8276AP",2,"",""
-"8276AP",4,"",""
-"8276AR",2,"",""
-"8276AR",2,"A",""
-"8276AR",2,"B",""
-"8276AR",2,"A",""
-"8276AR",2,"A",""
-"8276AS",4,"","TR"
-"8276AS",2,"",""
-"8276AS",1,"",""
-"8276AS",6,"",""
-"8276AS",3,"",""
-"8276AS",4,"",""
-"8276AS",6,"","TR"
-"8276AS",6,"A",""
-"8276AT",1,"",""
-"8276AT",5,"",""
-"8276AT",3,"",""
-"8276AT",7,"",""
-"8276AT",3,"A",""
-"8276AT",3,"A",""
-"8276AV",5,"",""
-"8276AV",4,"",""
-"8276AV",1,"A",""
-"8276AV",1,"A",""
-"8276AV",2,"",""
-"8276AV",10,"",""
-"8276AV",10,"",""
-"8276AV",10,"A",""
-"8276AV",8,"A",""
-"8276AV",1,"",""
-"8276AV",8,"",""
-"8276AV",10,"",""
-"8276AV",10,"A",""
-"8276AV",6,"",""
-"8276AW",1,"",""
-"8276AW",2,"",""
-"8276AW",1,"","TR"
-"8276AX",2,"",""
-"8276AX",2,"","TR"
-"8276AX",4,"",""
-"8276AZ",1,"A",""
-"8276AZ",1,"",""
-"8276AZ",5,"",""
-"8276AZ",3,"",""
-"8276AZ",5,"A",""
-"8276BA",3,"A",""
-"8276BA",1,"",""
-"8276BA",3,"",""
-"8276BA",4,"",""
-"8276BA",5,"",""
-"8276BC",2,"",""
-"8276BC",2,"","TR"
-"8276BM",4,"",""
-"8276BM",6,"",""
-"8276BM",12,"",""
-"8276BM",1,"",""
-"8276BM",2,"",""
-"8276BM",7,"",""
-"8276BM",3,"",""
-"8276BM",11,"",""
-"8276BM",10,"",""
-"8276BM",5,"",""
-"8276BM",8,"",""
-"8276BN",11,"",""
-"8276BN",5,"",""
-"8276BN",4,"",""
-"8276BN",3,"",""
-"8276BN",10,"",""
-"8276BN",7,"",""
-"8276BN",9,"",""
-"8276BN",1,"",""
-"8276BN",6,"",""
-"8276BN",8,"",""
-"8276BN",2,"",""
-"8276BZ",1,"",""
-"8276BZ",3,"",""
-8276BA,Akkerweg,5,,
-8276BA,Akkerweg,3,,
-8276BA,Akkerweg,1,,
-8276BA,Akkerweg,4,,
-8276BA,Akkerweg,3,A,
-8276AW,Baron Bentinckweg,2,,
-8276AW,Baron Bentinckweg,1,,
-8276AH,Brinkweg,1,,
-8276AH,Brinkweg,13,D,
-8276AH,Brinkweg,13,A,
-8276AH,Brinkweg,17,,
-8276AH,Brinkweg,15,,
-8276AH,Brinkweg,15,A,
-8276AH,Brinkweg,13,C,
-8276AH,Brinkweg,13,B,
-8276AH,Brinkweg,13,,
-8276AH,Brinkweg,11,,
-8276AH,Brinkweg,5,,
-8276AH,Brinkweg,9,A,
-8276AH,Brinkweg,9,,
-8276AH,Brinkweg,3,,
-8276AJ,Brinkweg,10,A,
-8276AJ,Brinkweg,2,,
-8276AJ,Brinkweg,2,A,
-8276AJ,Brinkweg,20,,
-8276AJ,Brinkweg,12,,
-8276AJ,Brinkweg,14,,
-8276AJ,Brinkweg,16,,
-8276AJ,Brinkweg,18,,
-8276AJ,Brinkweg,24,,
-8276AJ,Brinkweg,20,A,
-8276AJ,Brinkweg,22,,
-8276AJ,Brinkweg,10,B,
-8276AJ,Brinkweg,10,C,
-8276AJ,Brinkweg,4,,
-8276AJ,Brinkweg,6,,
-8276AJ,Brinkweg,8,,
-8276AJ,Brinkweg,10,,
-8276AE,Broeksteeg,13,B,
-8276AE,Broeksteeg,15,A,
-8276AE,Broeksteeg,15,,
-8276AE,Broeksteeg,1,C,
-8276AE,Broeksteeg,1,A,
-8276AE,Broeksteeg,1,B,
-8276AE,Broeksteeg,13,,
-8276AE,Broeksteeg,13,A,
-8276AE,Broeksteeg,11,,
-8276AG,Broeksteeg,42,,
-8276AG,Broeksteeg,8,A,
-8276AG,Broeksteeg,10,,
-8276AG,Broeksteeg,2,,
-8276AG,Broeksteeg,32,,
-8276AG,Broeksteeg,30,,
-8276AG,Broeksteeg,36,,
-8276AG,Broeksteeg,40,,
-8276AG,Broeksteeg,4,,
-8276AG,Broeksteeg,28,,
-8276AG,Broeksteeg,26,,
-8276AG,Broeksteeg,20,,
-8276AG,Broeksteeg,20,A,
-8276AG,Broeksteeg,34,,
-8276AG,Broeksteeg,38,,
-8276AG,Broeksteeg,24,A,
-8276AG,Broeksteeg,24,,
-8276AG,Broeksteeg,22,,
-8276AR,Buckhorsterlaan,2,,
-8276AR,Buckhorsterlaan,2,A,
-8276AT,Burgemeester Hardenbergweg,1,,
-8276AT,Burgemeester Hardenbergweg,3,,
-8276AT,Burgemeester Hardenbergweg,5,,
-8276AT,Burgemeester Hardenbergweg,7,,
-8276AV,de Belten,1,A,
-8276AV,de Belten,1,,
-8276AV,de Belten,4,,
-8276AV,de Belten,6,,
-8276AV,de Belten,2,,
-8276AV,de Belten,5,,
-8276AV,de Belten,8,,
-8276AV,de Belten,10,,
-8276AV,de Belten,8,A,
-8276AZ,Gelderse Kade,5,A,
-8276AZ,Gelderse Kade,5,,
-8276AZ,Gelderse Kade,3,,
-8276AZ,Gelderse Kade,1,,
-8276AZ,Gelderse Kade,1,A,
-8276AN,Hoge Brink,5,,
-8276AN,Hoge Brink,7,,
-8276AN,Hoge Brink,9,,
-8276AN,Hoge Brink,4,,
-8276AN,Hoge Brink,2,,
-8276AN,Hoge Brink,3,,
-8276AN,Hoge Brink,1,A,
-8276AN,Hoge Brink,1,,
-8276AD,Lagelandweg,2,,
-8276AD,Lagelandweg,2,A,
-8276AD,Lagelandweg,1,,
-8276AD,Lagelandweg,5,,
-8276AD,Lagelandweg,4,,
-8276AD,Lagelandweg,3,,
-8276AD,Lagelandweg,6,,
-8276AD,Lagelandweg,4,A,
-8276BZ,Rijksweg N50,1,,
-8276BZ,Rijksweg N50,3,,
-8276AX,Roobroeksweg,2,,
-8276AX,Roobroeksweg,4,,
-8276BC,Sloetweg,2,,
-8276AP,Veerpad,2,,
-8276AP,Veerpad,2,A,
-8276AP,Veerpad,4,,
-8276AP,Veerpad,6,,
-8276AP,Veerpad,1,,
-8276AS,Vinkensteeg,2,,
-8276AS,Vinkensteeg,1,,
-8276AS,Vinkensteeg,4,,
-8276AS,Vinkensteeg,6,,
-8276AS,Vinkensteeg,3,,
-8276AS,Vinkensteeg,6,A,
-8276AA,Zalkerdijk,1,,
-8276AA,Zalkerdijk,19,A,
-8276AA,Zalkerdijk,27,,
-8276AA,Zalkerdijk,5,,
-8276AA,Zalkerdijk,19,,
-8276AA,Zalkerdijk,5,A,
-8276AA,Zalkerdijk,7,,
-8276AA,Zalkerdijk,1,C,
-8276AA,Zalkerdijk,1,A,
-8276AA,Zalkerdijk,1,B,
-8276AA,Zalkerdijk,3,,
-8276AB,Zalkerdijk,47,A,
-8276AB,Zalkerdijk,39,A,
-8276AB,Zalkerdijk,55,,
-8276AB,Zalkerdijk,49,,
-8276AB,Zalkerdijk,29,,
-8276AB,Zalkerdijk,33,,
-8276AB,Zalkerdijk,39,,
-8276AB,Zalkerdijk,37,,
-8276AB,Zalkerdijk,35,,
-8276AB,Zalkerdijk,51,,
-8276AB,Zalkerdijk,53,,
-8276AB,Zalkerdijk,43,,
-8276AB,Zalkerdijk,47,,
-8276AB,Zalkerdijk,41,A,
-8276AB,Zalkerdijk,41,,
-8276AC,Zalkerdijk,14,,
-8276AC,Zalkerdijk,12,,
-8276AC,Zalkerdijk,16,,
-8276AC,Zalkerdijk,8,,
-8276AC,Zalkerdijk,6,,
-8276AC,Zalkerdijk,2,,
-8276AC,Zalkerdijk,4,,
-8276AC,Zalkerdijk,2,A,
-8276AW,Baron Bentinckweg,1,,TR
-8276AJ,Brinkweg,10,,TR
-8276AG,Broeksteeg,40,,TR
-8276AD,Lagelandweg,3,,TR
-8276AX,Roobroeksweg,2,,TR
-8276BC,Sloetweg,2,,TR
-8276AP,Veerpad,1,,TR
-8276AS,Vinkensteeg,4,,TR
-8276AS,Vinkensteeg,6,,TR
-8276AA,Zalkerdijk,7,,TR
-8276AB,Zalkerdijk,53,,TR
-8276AC,Zalkerdijk,12,,TR
-8276AH,Brinkweg,11,,
-8276AH,Brinkweg,9,,
-8276AH,Brinkweg,13,E,
-8276AH,Brinkweg,13,F,
-8276AH,Brinkweg,13,G,
-8276AJ,Brinkweg,2,C,
-8276AE,Broeksteeg,1,,
-8276AE,Broeksteeg,1,A,
-8276AE,Broeksteeg,9,,
-8276AG,Broeksteeg,42,,
-8276AR,Buckhorsterlaan,2,A,
-8276AR,Buckhorsterlaan,2,B,
-8276AT,Burgemeester Hardenbergweg,3,A,
-8276AV,de Belten,10,,
-8276AV,de Belten,10,A,
-8276AN,Hoge Brink,11,,
-8276AN,Hoge Brink,11,,
-8276AN,Hoge Brink,13,,
-8276AN,Hoge Brink,9,A,
-8276AN,Hoge Brink,9,B,
-8276AN,Hoge Brink,15,,
-8276AN,Hoge Brink,17,,
-8276AD,Lagelandweg,5,,TR
-8276AD,Lagelandweg,4,,TR01
-8276AD,Lagelandweg,4,,TR02
-8276AA,Zalkerdijk,1,D,
-8276AB,Zalkerdijk,47,,TR
-8276AB,Zalkerdijk,57,,
-8276AB,Zalkerdijk,41,B,
-8276AB,Zalkerdijk,49,,
-8276AB,Zalkerdijk,53,,
-8276AC,Zalkerdijk,8,A,
-8276AC,Zalkerdijk,4,,
-8276AC,Zalkerdijk,2,,
-8276AC,Zalkerdijk,4,,
-8276AW,Baron Bentinckweg,1,,
-8276AB,Zalkerdijk,41,C,
-8276BN,Riezeweide,10,,
-8276BN,Riezeweide,11,,
-8276BN,Riezeweide,9,,
-8276BN,Riezeweide,6,,
-8276BN,Riezeweide,7,,
-8276BN,Riezeweide,8,,
-8276BN,Riezeweide,3,,
-8276BN,Riezeweide,4,,
-8276BN,Riezeweide,5,,
-8276BN,Riezeweide,1,,
-8276BN,Riezeweide,2,,
-8276BM,Vlierbos,12,,
-8276BM,Vlierbos,8,,
-8276BM,Vlierbos,4,,
-8276BM,Vlierbos,5,,
-8276BM,Vlierbos,6,,
-8276BM,Vlierbos,7,,
-8276BM,Vlierbos,10,,
-8276BM,Vlierbos,11,,
-8276BM,Vlierbos,1,,
-8276BM,Vlierbos,2,,
-8276BM,Vlierbos,3,,
-8276BM,Vlierbos,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zalkerdijk,1,"","",8276AA,Zalk
+Zalkerdijk,1,A,"",8276AA,Zalk
+Zalkerdijk,1,B,"",8276AA,Zalk
+Zalkerdijk,1,C,"",8276AA,Zalk
+Zalkerdijk,1,D,"",8276AA,Zalk
+Zalkerdijk,19,"","",8276AA,Zalk
+Zalkerdijk,19,A,"",8276AA,Zalk
+Zalkerdijk,27,"","",8276AA,Zalk
+Zalkerdijk,3,"","",8276AA,Zalk
+Zalkerdijk,5,"","",8276AA,Zalk
+Zalkerdijk,5,A,"",8276AA,Zalk
+Zalkerdijk,7,"","",8276AA,Zalk
+Zalkerdijk,7,"",TR,8276AA,Zalk
+Zalkerdijk,29,"","",8276AB,Zalk
+Zalkerdijk,33,"","",8276AB,Zalk
+Zalkerdijk,35,"","",8276AB,Zalk
+Zalkerdijk,37,"","",8276AB,Zalk
+Zalkerdijk,39,"","",8276AB,Zalk
+Zalkerdijk,39,A,"",8276AB,Zalk
+Zalkerdijk,41,"","",8276AB,Zalk
+Zalkerdijk,41,A,"",8276AB,Zalk
+Zalkerdijk,41,B,"",8276AB,Zalk
+Zalkerdijk,41,C,"",8276AB,Zalk
+Zalkerdijk,43,"","",8276AB,Zalk
+Zalkerdijk,47,"","",8276AB,Zalk
+Zalkerdijk,47,"",TR,8276AB,Zalk
+Zalkerdijk,47,A,"",8276AB,Zalk
+Zalkerdijk,49,"","",8276AB,Zalk
+Zalkerdijk,49,"","",8276AB,Zalk
+Zalkerdijk,49,"","",8276AB,Zalk
+Zalkerdijk,51,"","",8276AB,Zalk
+Zalkerdijk,53,"","",8276AB,Zalk
+Zalkerdijk,53,"","",8276AB,Zalk
+Zalkerdijk,53,"","",8276AB,Zalk
+Zalkerdijk,53,"",TR,8276AB,Zalk
+Zalkerdijk,55,"","",8276AB,Zalk
+Zalkerdijk,57,"","",8276AB,Zalk
+Zalkerdijk,12,"","",8276AC,Zalk
+Zalkerdijk,12,"",TR,8276AC,Zalk
+Zalkerdijk,14,"","",8276AC,Zalk
+Zalkerdijk,16,"","",8276AC,Zalk
+Zalkerdijk,2,"","",8276AC,Zalk
+Zalkerdijk,2,"","",8276AC,Zalk
+Zalkerdijk,2,"","",8276AC,Zalk
+Zalkerdijk,2,A,"",8276AC,Zalk
+Zalkerdijk,4,"","",8276AC,Zalk
+Zalkerdijk,4,"","",8276AC,Zalk
+Zalkerdijk,4,"","",8276AC,Zalk
+Zalkerdijk,4,"","",8276AC,Zalk
+Zalkerdijk,4,"","",8276AC,Zalk
+Zalkerdijk,6,"","",8276AC,Zalk
+Zalkerdijk,8,"","",8276AC,Zalk
+Zalkerdijk,8,A,"",8276AC,Zalk
+Lagelandweg,1,"","",8276AD,Zalk
+Lagelandweg,2,"","",8276AD,Zalk
+Lagelandweg,2,A,"",8276AD,Zalk
+Lagelandweg,3,"","",8276AD,Zalk
+Lagelandweg,3,"",TR,8276AD,Zalk
+Lagelandweg,4,"","",8276AD,Zalk
+Lagelandweg,4,"",TR01,8276AD,Zalk
+Lagelandweg,4,"",TR02,8276AD,Zalk
+Lagelandweg,4,"",TR02,8276AD,Zalk
+Lagelandweg,4,A,"",8276AD,Zalk
+Lagelandweg,5,"","",8276AD,Zalk
+Lagelandweg,5,"",TR,8276AD,Zalk
+Lagelandweg,6,"","",8276AD,Zalk
+Broeksteeg,1,"","",8276AE,Zalk
+Broeksteeg,1,A,"",8276AE,Zalk
+Broeksteeg,1,A,"",8276AE,Zalk
+Broeksteeg,1,A,"",8276AE,Zalk
+Broeksteeg,1,B,"",8276AE,Zalk
+Broeksteeg,1,C,"",8276AE,Zalk
+Broeksteeg,11,"","",8276AE,Zalk
+Broeksteeg,13,"","",8276AE,Zalk
+Broeksteeg,13,A,"",8276AE,Zalk
+Broeksteeg,13,B,"",8276AE,Zalk
+Broeksteeg,15,"","",8276AE,Zalk
+Broeksteeg,15,A,"",8276AE,Zalk
+Broeksteeg,15,A,"",8276AE,Zalk
+Broeksteeg,9,"","",8276AE,Zalk
+Broeksteeg,10,"","",8276AG,Zalk
+Broeksteeg,2,"","",8276AG,Zalk
+Broeksteeg,20,"","",8276AG,Zalk
+Broeksteeg,20,A,"",8276AG,Zalk
+Broeksteeg,22,"","",8276AG,Zalk
+Broeksteeg,24,"","",8276AG,Zalk
+Broeksteeg,24,A,"",8276AG,Zalk
+Broeksteeg,26,"","",8276AG,Zalk
+Broeksteeg,28,"","",8276AG,Zalk
+Broeksteeg,30,"","",8276AG,Zalk
+Broeksteeg,32,"","",8276AG,Zalk
+Broeksteeg,34,"","",8276AG,Zalk
+Broeksteeg,36,"","",8276AG,Zalk
+Broeksteeg,38,"","",8276AG,Zalk
+Broeksteeg,4,"","",8276AG,Zalk
+Broeksteeg,40,"","",8276AG,Zalk
+Broeksteeg,40,"",TR,8276AG,Zalk
+Broeksteeg,42,"","",8276AG,Zalk
+Broeksteeg,42,"","",8276AG,Zalk
+Broeksteeg,42,"","",8276AG,Zalk
+Broeksteeg,8,A,"",8276AG,Zalk
+Brinkweg,1,"","",8276AH,Zalk
+Brinkweg,11,"","",8276AH,Zalk
+Brinkweg,11,"","",8276AH,Zalk
+Brinkweg,11,"","",8276AH,Zalk
+Brinkweg,13,"","",8276AH,Zalk
+Brinkweg,13,A,"",8276AH,Zalk
+Brinkweg,13,B,"",8276AH,Zalk
+Brinkweg,13,C,"",8276AH,Zalk
+Brinkweg,13,D,"",8276AH,Zalk
+Brinkweg,13,E,"",8276AH,Zalk
+Brinkweg,13,F,"",8276AH,Zalk
+Brinkweg,13,G,"",8276AH,Zalk
+Brinkweg,15,"","",8276AH,Zalk
+Brinkweg,15,A,"",8276AH,Zalk
+Brinkweg,17,"","",8276AH,Zalk
+Brinkweg,3,"","",8276AH,Zalk
+Brinkweg,5,"","",8276AH,Zalk
+Brinkweg,9,"","",8276AH,Zalk
+Brinkweg,9,"","",8276AH,Zalk
+Brinkweg,9,"","",8276AH,Zalk
+Brinkweg,9,A,"",8276AH,Zalk
+Brinkweg,10,"","",8276AJ,Zalk
+Brinkweg,10,"",TR,8276AJ,Zalk
+Brinkweg,10,A,"",8276AJ,Zalk
+Brinkweg,10,B,"",8276AJ,Zalk
+Brinkweg,10,C,"",8276AJ,Zalk
+Brinkweg,12,"","",8276AJ,Zalk
+Brinkweg,14,"","",8276AJ,Zalk
+Brinkweg,16,"","",8276AJ,Zalk
+Brinkweg,18,"","",8276AJ,Zalk
+Brinkweg,2,"","",8276AJ,Zalk
+Brinkweg,2,A,"",8276AJ,Zalk
+Brinkweg,2,C,"",8276AJ,Zalk
+Brinkweg,20,"","",8276AJ,Zalk
+Brinkweg,20,A,"",8276AJ,Zalk
+Brinkweg,22,"","",8276AJ,Zalk
+Brinkweg,24,"","",8276AJ,Zalk
+Brinkweg,4,"","",8276AJ,Zalk
+Brinkweg,6,"","",8276AJ,Zalk
+Brinkweg,8,"","",8276AJ,Zalk
+Hoge Brink,1,"","",8276AN,Zalk
+Hoge Brink,1,A,"",8276AN,Zalk
+Hoge Brink,11,"","",8276AN,Zalk
+Hoge Brink,11,"","",8276AN,Zalk
+Hoge Brink,11,"","",8276AN,Zalk
+Hoge Brink,13,"","",8276AN,Zalk
+Hoge Brink,15,"","",8276AN,Zalk
+Hoge Brink,17,"","",8276AN,Zalk
+Hoge Brink,2,"","",8276AN,Zalk
+Hoge Brink,3,"","",8276AN,Zalk
+Hoge Brink,4,"","",8276AN,Zalk
+Hoge Brink,5,"","",8276AN,Zalk
+Hoge Brink,7,"","",8276AN,Zalk
+Hoge Brink,9,"","",8276AN,Zalk
+Hoge Brink,9,A,"",8276AN,Zalk
+Hoge Brink,9,B,"",8276AN,Zalk
+Veerpad,1,"","",8276AP,Zalk
+Veerpad,1,"","",8276AP,Zalk
+Veerpad,1,"",TR,8276AP,Zalk
+Veerpad,2,"","",8276AP,Zalk
+Veerpad,2,A,"",8276AP,Zalk
+Veerpad,4,"","",8276AP,Zalk
+Veerpad,6,"","",8276AP,Zalk
+Buckhorsterlaan,2,"","",8276AR,Zalk
+Buckhorsterlaan,2,A,"",8276AR,Zalk
+Buckhorsterlaan,2,A,"",8276AR,Zalk
+Buckhorsterlaan,2,A,"",8276AR,Zalk
+Buckhorsterlaan,2,B,"",8276AR,Zalk
+Vinkensteeg,1,"","",8276AS,Zalk
+Vinkensteeg,2,"","",8276AS,Zalk
+Vinkensteeg,3,"","",8276AS,Zalk
+Vinkensteeg,4,"","",8276AS,Zalk
+Vinkensteeg,4,"",TR,8276AS,Zalk
+Vinkensteeg,6,"","",8276AS,Zalk
+Vinkensteeg,6,"",TR,8276AS,Zalk
+Vinkensteeg,6,A,"",8276AS,Zalk
+Burgemeester Hardenbergweg,1,"","",8276AT,Zalk
+Burgemeester Hardenbergweg,3,"","",8276AT,Zalk
+Burgemeester Hardenbergweg,3,A,"",8276AT,Zalk
+Burgemeester Hardenbergweg,3,A,"",8276AT,Zalk
+Burgemeester Hardenbergweg,5,"","",8276AT,Zalk
+Burgemeester Hardenbergweg,7,"","",8276AT,Zalk
+de Belten,1,"","",8276AV,Zalk
+de Belten,1,A,"",8276AV,Zalk
+de Belten,1,A,"",8276AV,Zalk
+de Belten,10,"","",8276AV,Zalk
+de Belten,10,"","",8276AV,Zalk
+de Belten,10,"","",8276AV,Zalk
+de Belten,10,A,"",8276AV,Zalk
+de Belten,10,A,"",8276AV,Zalk
+de Belten,2,"","",8276AV,Zalk
+de Belten,4,"","",8276AV,Zalk
+de Belten,5,"","",8276AV,Zalk
+de Belten,6,"","",8276AV,Zalk
+de Belten,8,"","",8276AV,Zalk
+de Belten,8,A,"",8276AV,Zalk
+Baron Bentinckweg,1,"","",8276AW,Zalk
+Baron Bentinckweg,1,"",TR,8276AW,Zalk
+Baron Bentinckweg,2,"","",8276AW,Zalk
+Roobroeksweg,2,"","",8276AX,Zalk
+Roobroeksweg,2,"",TR,8276AX,Zalk
+Roobroeksweg,4,"","",8276AX,Zalk
+Gelderse Kade,1,"","",8276AZ,Zalk
+Gelderse Kade,1,A,"",8276AZ,Zalk
+Gelderse Kade,3,"","",8276AZ,Zalk
+Gelderse Kade,5,"","",8276AZ,Zalk
+Gelderse Kade,5,A,"",8276AZ,Zalk
+Akkerweg,1,"","",8276BA,Zalk
+Akkerweg,3,"","",8276BA,Zalk
+Akkerweg,3,A,"",8276BA,Zalk
+Akkerweg,4,"","",8276BA,Zalk
+Akkerweg,5,"","",8276BA,Zalk
+Sloetweg,2,"","",8276BC,Zalk
+Sloetweg,2,"",TR,8276BC,Zalk
+Vlierbos,1,"","",8276BM,Zalk
+Vlierbos,10,"","",8276BM,Zalk
+Vlierbos,11,"","",8276BM,Zalk
+Vlierbos,12,"","",8276BM,Zalk
+Vlierbos,2,"","",8276BM,Zalk
+Vlierbos,3,"","",8276BM,Zalk
+Vlierbos,4,"","",8276BM,Zalk
+Vlierbos,5,"","",8276BM,Zalk
+Vlierbos,6,"","",8276BM,Zalk
+Vlierbos,7,"","",8276BM,Zalk
+Vlierbos,8,"","",8276BM,Zalk
+Riezeweide,1,"","",8276BN,Zalk
+Riezeweide,10,"","",8276BN,Zalk
+Riezeweide,11,"","",8276BN,Zalk
+Riezeweide,2,"","",8276BN,Zalk
+Riezeweide,3,"","",8276BN,Zalk
+Riezeweide,4,"","",8276BN,Zalk
+Riezeweide,5,"","",8276BN,Zalk
+Riezeweide,6,"","",8276BN,Zalk
+Riezeweide,7,"","",8276BN,Zalk
+Riezeweide,8,"","",8276BN,Zalk
+Riezeweide,9,"","",8276BN,Zalk
+Rijksweg N50,1,"","",8276BZ,Zalk
+Rijksweg N50,3,"","",8276BZ,Zalk

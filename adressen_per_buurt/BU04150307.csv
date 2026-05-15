@@ -1,13 +1,13 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1121LM,het Luijendijkje,3,,
-1121LM,het Luijendijkje,5,,
-1121LM,het Luijendijkje,1,,
-1121HZ,Pikpotweg,2,,
-1121HZ,Pikpotweg,1,,
-1121MS,Sportpark,11,,
-1121MS,Sportpark,13,,
-1121MS,Sportpark,3,,
-1121MS,Sportpark,7,,
-1121MS,Sportpark,9,,
-1121MS,Sportpark,5,,
-1121MS,Sportpark,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Pikpotweg,1,"","",1121HZ,Landsmeer
+Pikpotweg,2,"","",1121HZ,Landsmeer
+het Luijendijkje,1,"","",1121LM,Landsmeer
+het Luijendijkje,3,"","",1121LM,Landsmeer
+het Luijendijkje,5,"","",1121LM,Landsmeer
+Sportpark,1,"","",1121MS,Landsmeer
+Sportpark,11,"","",1121MS,Landsmeer
+Sportpark,13,"","",1121MS,Landsmeer
+Sportpark,3,"","",1121MS,Landsmeer
+Sportpark,5,"","",1121MS,Landsmeer
+Sportpark,7,"","",1121MS,Landsmeer
+Sportpark,9,"","",1121MS,Landsmeer

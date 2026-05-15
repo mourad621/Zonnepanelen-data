@@ -1,19 +1,19 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4382NP,Oostelijke Bermweg,50,,
-4382NP,Poortersweg,15,,
-4382NP,Poortersweg,17,,
-4382NP,Poortersweg,27,,
-4382NP,Poortersweg,29,,
-4382NP,Poortersweg,31,,
-4382NP,Poortersweg,33,,
-4382NP,Poortersweg,35,,
-4382NP,Poortersweg,37,,
-4382NP,Poortersweg,39,,
-4382NP,Poortersweg,41,,
-4382NP,Oostelijke Bermweg,20,,
-4382NP,Oostelijke Bermweg,20,D,B
-4382NP,Oostelijke Bermweg,20,D,C
-4382NP,Poortersweg,29,,
-4382WT,Louis Pasteurweg,4,,
-4382WT,Louis Pasteurweg,1,,
-4382WT,Louis Pasteurweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Poortersweg,15,"","",4382NP,Vlissingen
+Poortersweg,17,"","",4382NP,Vlissingen
+Oostelijke Bermweg,20,"","",4382NP,Vlissingen
+Oostelijke Bermweg,20,D,B,4382NP,Vlissingen
+Oostelijke Bermweg,20,D,C,4382NP,Vlissingen
+Poortersweg,27,"","",4382NP,Vlissingen
+Poortersweg,29,"","",4382NP,Vlissingen
+Poortersweg,29,"","",4382NP,Vlissingen
+Poortersweg,31,"","",4382NP,Vlissingen
+Poortersweg,33,"","",4382NP,Vlissingen
+Poortersweg,35,"","",4382NP,Vlissingen
+Poortersweg,37,"","",4382NP,Vlissingen
+Poortersweg,39,"","",4382NP,Vlissingen
+Poortersweg,41,"","",4382NP,Vlissingen
+Oostelijke Bermweg,50,"","",4382NP,Vlissingen
+Louis Pasteurweg,1,"","",4382WT,Vlissingen
+Louis Pasteurweg,3,"","",4382WT,Vlissingen
+Louis Pasteurweg,4,"","",4382WT,Vlissingen

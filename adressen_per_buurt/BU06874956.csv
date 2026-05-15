@@ -1,41 +1,41 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4339PJ,Eerste Weg,4,,
-4339PH,Binnendijk,7,,
-4339PK,Binnendijk,1,,
-4339PK,Binnendijk,2,,
-4339PK,Binnendijk,3,,
-4339PK,Binnendijk,5,,
-4339PN,Boomdijk,1,,
-4339PN,Boomdijk,2,,
-4339PN,Boomdijk,6,,
-4339PN,Boomdijk,8,,
-4339PG,Tweede Weg,5,,
-4339PG,Tweede Weg,2,,
-4339PM,Sint Jooslandstraat,7,,
-4339PM,Sint Jooslandstraat,9,,
-4339PM,Sint Jooslandstraat,10,,
-4339PM,Sint Jooslandstraat,11,,
-4339PM,Sint Jooslandstraat,13,,
-4339PM,Sint Jooslandstraat,15,,
-4339PM,Sint Jooslandstraat,17,,
-4339PM,Sint Jooslandstraat,19,,
-4339PM,Sint Jooslandstraat,1,,
-4339PM,Sint Jooslandstraat,2,,
-4339PM,Sint Jooslandstraat,3,,
-4339PM,Sint Jooslandstraat,4,,
-4339PM,Sint Jooslandstraat,5,,
-4339PK,Binnendijk,6,,
-4339PK,Binnendijk,10,,
-4339PK,Binnendijk,12,,
-4339PK,Binnendijk,14,,
-4339PJ,Eerste Weg,4,A,
-4339PJ,Eerste Weg,2,,
-4339PK,Binnendijk,12,A,
-4339PK,Binnendijk,12,B,
-4339PK,Binnendijk,2,A,
-4339PK,Binnendijk,2,X,
-4339PK,Binnendijk,2,X,
-4339PN,Boomdijk,1,A,
-4339PN,Boomdijk,1,,
-4339PG,Tweede Weg,5,A,
-4339PR,Klompenpad,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Tweede Weg,2,"","",4339PG,Nieuw- en Sint Joosland
+Tweede Weg,5,"","",4339PG,Nieuw- en Sint Joosland
+Tweede Weg,5,A,"",4339PG,Nieuw- en Sint Joosland
+Binnendijk,7,"","",4339PH,Nieuw- en Sint Joosland
+Eerste Weg,2,"","",4339PJ,Nieuw- en Sint Joosland
+Eerste Weg,4,"","",4339PJ,Nieuw- en Sint Joosland
+Eerste Weg,4,A,"",4339PJ,Nieuw- en Sint Joosland
+Binnendijk,1,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,10,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,A,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,B,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,14,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,A,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,X,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,X,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,3,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,5,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,6,"","",4339PK,Nieuw- en Sint Joosland
+Sint Jooslandstraat,1,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,10,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,11,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,13,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,15,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,17,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,19,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,2,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,3,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,4,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,5,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,7,"","",4339PM,Nieuw- en Sint Joosland
+Sint Jooslandstraat,9,"","",4339PM,Nieuw- en Sint Joosland
+Boomdijk,1,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,1,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,1,A,"",4339PN,Nieuw- en Sint Joosland
+Boomdijk,2,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,6,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,8,"","",4339PN,Nieuw- en Sint Joosland
+Klompenpad,1,"","",4339PR,Nieuw- en Sint Joosland

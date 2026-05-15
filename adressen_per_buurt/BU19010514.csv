@@ -1,54 +1,54 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2811NE,Oukoopsedijk,1,,
-2811NE,Oukoopsedijk,2,,
-2811NE,Oukoopsedijk,3,,
-2811NE,Oukoopsedijk,4,,
-2811NE,Oukoopsedijk,5,,
-2811NE,Oukoopsedijk,6,,
-2811NE,Oukoopsedijk,7,,
-2811NE,Oukoopsedijk,8,,
-2811NE,Oukoopsedijk,9,,
-2811NE,Oukoopsedijk,11,,
-2811NE,Oukoopsedijk,13,,
-2811NE,Oukoopsedijk,15,,
-2811NE,Oukoopsedijk,5,,1
-2811NG,Oukoopsedijk,10,,
-2811NG,Oukoopsedijk,12,,
-2811NG,Oukoopsedijk,14,,
-2811NG,Oukoopsedijk,16,,
-2811NG,Oukoopsedijk,17,,
-2811NG,Oukoopsedijk,18,,
-2811NG,Oukoopsedijk,19,,
-2811NG,Oukoopsedijk,20,,
-2811NG,Oukoopsedijk,21,,
-2811NG,Oukoopsedijk,23,,
-2811NG,Oukoopsedijk,25,,
-2811NG,Oukoopsedijk,27,,
-2811NE,Prinsendijk,10,,
-2811NE,Prinsendijk,12,,
-2811NG,Prinsendijk,2,,
-2811NG,Prinsendijk,6,,
-2811NG,Prinsendijk,8,,
-2811NG,Prinsendijk,4,,
-2811NE,Oukoopsedijk,2,,
-2811NE,Oukoopsedijk,15,,
-2811NE,Oukoopsedijk,2,,1
-2811NE,Oukoopsedijk,7,a,
-2811NE,Oukoopsedijk,9,,
-2811NE,Oukoopsedijk,7,a,
-2811NE,Oukoopsedijk,8,a,
-2811NE,Oukoopsedijk,11,a,
-2811NG,Oukoopsedijk,19,a,
-2811NG,Oukoopsedijk,19,,
-2811NG,Oukoopsedijk,19,a,
-2811MA,Heerlijkheid Wiltenburg,5,,
-2811MA,Heerlijkheid Wiltenburg,1,,
-2811MA,Heerlijkheid Wiltenburg,4,,
-2811MA,Heerlijkheid Wiltenburg,3,,
-2811MA,Heerlijkheid Wiltenburg,2,,
-2811NE,Oukoopsedijk,5,b,
-2811NE,Oukoopsedijk,5,a,
-2811NE,Oukoopsedijk,5,c,
-2811NG,Oukoopsedijk,17,a,
-2811MA,Heerlijkheid Wiltenburg,6,,
-2811MA,Heerlijkheid Wiltenburg,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heerlijkheid Wiltenburg,1,"","",2811MA,Reeuwijk
+Heerlijkheid Wiltenburg,2,"","",2811MA,Reeuwijk
+Heerlijkheid Wiltenburg,3,"","",2811MA,Reeuwijk
+Heerlijkheid Wiltenburg,4,"","",2811MA,Reeuwijk
+Heerlijkheid Wiltenburg,5,"","",2811MA,Reeuwijk
+Heerlijkheid Wiltenburg,6,"","",2811MA,Reeuwijk
+Heerlijkheid Wiltenburg,7,"","",2811MA,Reeuwijk
+Oukoopsedijk,1,"","",2811NE,Reeuwijk
+Prinsendijk,10,"","",2811NE,Reeuwijk
+Oukoopsedijk,11,"","",2811NE,Reeuwijk
+Oukoopsedijk,11,A,"",2811NE,Reeuwijk
+Prinsendijk,12,"","",2811NE,Reeuwijk
+Oukoopsedijk,13,"","",2811NE,Reeuwijk
+Oukoopsedijk,15,"","",2811NE,Reeuwijk
+Oukoopsedijk,15,"","",2811NE,Reeuwijk
+Oukoopsedijk,2,"","",2811NE,Reeuwijk
+Oukoopsedijk,2,"","",2811NE,Reeuwijk
+Oukoopsedijk,2,"",1,2811NE,Reeuwijk
+Oukoopsedijk,3,"","",2811NE,Reeuwijk
+Oukoopsedijk,4,"","",2811NE,Reeuwijk
+Oukoopsedijk,5,"","",2811NE,Reeuwijk
+Oukoopsedijk,5,"",1,2811NE,Reeuwijk
+Oukoopsedijk,5,A,"",2811NE,Reeuwijk
+Oukoopsedijk,5,B,"",2811NE,Reeuwijk
+Oukoopsedijk,5,C,"",2811NE,Reeuwijk
+Oukoopsedijk,6,"","",2811NE,Reeuwijk
+Oukoopsedijk,7,"","",2811NE,Reeuwijk
+Oukoopsedijk,7,A,"",2811NE,Reeuwijk
+Oukoopsedijk,7,A,"",2811NE,Reeuwijk
+Oukoopsedijk,8,"","",2811NE,Reeuwijk
+Oukoopsedijk,8,A,"",2811NE,Reeuwijk
+Oukoopsedijk,9,"","",2811NE,Reeuwijk
+Oukoopsedijk,9,"","",2811NE,Reeuwijk
+Oukoopsedijk,10,"","",2811NG,Reeuwijk
+Oukoopsedijk,12,"","",2811NG,Reeuwijk
+Oukoopsedijk,14,"","",2811NG,Reeuwijk
+Oukoopsedijk,16,"","",2811NG,Reeuwijk
+Oukoopsedijk,17,"","",2811NG,Reeuwijk
+Oukoopsedijk,17,A,"",2811NG,Reeuwijk
+Oukoopsedijk,18,"","",2811NG,Reeuwijk
+Oukoopsedijk,19,"","",2811NG,Reeuwijk
+Oukoopsedijk,19,"","",2811NG,Reeuwijk
+Oukoopsedijk,19,A,"",2811NG,Reeuwijk
+Oukoopsedijk,19,A,"",2811NG,Reeuwijk
+Prinsendijk,2,"","",2811NG,Reeuwijk
+Oukoopsedijk,20,"","",2811NG,Reeuwijk
+Oukoopsedijk,21,"","",2811NG,Reeuwijk
+Oukoopsedijk,23,"","",2811NG,Reeuwijk
+Oukoopsedijk,25,"","",2811NG,Reeuwijk
+Oukoopsedijk,27,"","",2811NG,Reeuwijk
+Prinsendijk,4,"","",2811NG,Reeuwijk
+Prinsendijk,6,"","",2811NG,Reeuwijk
+Prinsendijk,8,"","",2811NG,Reeuwijk

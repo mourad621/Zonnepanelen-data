@@ -1,10 +1,10 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5358PA,Boschakker,2,,
-5358NZ,Den Dam,2,,
-5358NG,Beemdenweg,3,,
-5358NE,Beving,1,,
-5358PA,Boschakker,1,,
-5358NH,Beemdenweg,4,,
-5358NZ,Den Dam,4,,
-5358NE,Beving,2,,
-5358NE,Beving,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Beving,1,"","",5358NE,Huisseling
+Beving,2,"","",5358NE,Huisseling
+Beving,2,"","",5358NE,Huisseling
+Beemdenweg,3,"","",5358NG,Huisseling
+Beemdenweg,4,"","",5358NH,Huisseling
+Den Dam,2,"","",5358NZ,Huisseling
+Den Dam,4,"","",5358NZ,Huisseling
+Boschakker,1,"","",5358PA,Huisseling
+Boschakker,2,"","",5358PA,Huisseling

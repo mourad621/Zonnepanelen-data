@@ -1,28 +1,28 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3202LM,Atletiekpad,2,,
-3202LB,Plaatweg,20,,
-3202LR,Wielrenpad,2,,
-3202LP,Tennispad,2,,
-3202LM,Atletiekpad,1,,
-3202LK,Fitnesspad,1,,
-3202LB,Plaatweg,2,A,
-3202LB,Plaatweg,4,,
-3202LB,Plaatweg,2,B,
-3202LN,Veertig Morgenweg,2,,
-3202LN,Veertig Morgenweg,1,,
-3202LP,Tennispad,4,,
-3202LM,Atletiekpad,3,,
-3202LB,Plaatweg,3,,
-3202LB,Plaatweg,5,,
-3202LB,Plaatweg,7,,
-3202LB,Plaatweg,9,,
-3202LB,Plaatweg,11,,
-3202LM,Atletiekpad,5,,
-3202LM,Atletiekpad,7,,
-3202LM,Atletiekpad,9,,
-3202LK,Fitnesspad,1,A,
-3202LB,Plaatweg,2,,
-3202LB,Plaatweg,1,,
-3202LB,Plaatweg,2,C,
-3202LB,Plaatweg,15,,
-3202LB,Plaatweg,2,E,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Plaatweg,1,"","",3202LB,Spijkenisse
+Plaatweg,11,"","",3202LB,Spijkenisse
+Plaatweg,15,"","",3202LB,Spijkenisse
+Plaatweg,2,"","",3202LB,Spijkenisse
+Plaatweg,2,A,"",3202LB,Spijkenisse
+Plaatweg,2,B,"",3202LB,Spijkenisse
+Plaatweg,2,C,"",3202LB,Spijkenisse
+Plaatweg,2,E,"",3202LB,Spijkenisse
+Plaatweg,20,"","",3202LB,Spijkenisse
+Plaatweg,3,"","",3202LB,Spijkenisse
+Plaatweg,4,"","",3202LB,Spijkenisse
+Plaatweg,5,"","",3202LB,Spijkenisse
+Plaatweg,7,"","",3202LB,Spijkenisse
+Plaatweg,9,"","",3202LB,Spijkenisse
+Fitnesspad,1,"","",3202LK,Spijkenisse
+Fitnesspad,1,A,"",3202LK,Spijkenisse
+Atletiekpad,1,"","",3202LM,Spijkenisse
+Atletiekpad,2,"","",3202LM,Spijkenisse
+Atletiekpad,3,"","",3202LM,Spijkenisse
+Atletiekpad,5,"","",3202LM,Spijkenisse
+Atletiekpad,7,"","",3202LM,Spijkenisse
+Atletiekpad,9,"","",3202LM,Spijkenisse
+Veertig Morgenweg,1,"","",3202LN,Spijkenisse
+Veertig Morgenweg,2,"","",3202LN,Spijkenisse
+Tennispad,2,"","",3202LP,Spijkenisse
+Tennispad,4,"","",3202LP,Spijkenisse
+Wielrenpad,2,"","",3202LR,Spijkenisse

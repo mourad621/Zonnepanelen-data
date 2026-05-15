@@ -1,233 +1,121 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7847TA",27,"b",""
-"7847TA",25,"",""
-"7847TA",39,"a",""
-"7847TA",31,"",""
-"7847TA",29,"",""
-"7847TA",27,"",""
-"7847TA",19,"",""
-"7847TA",27,"a",""
-"7847TA",35,"",""
-"7847TA",23,"",""
-"7847TA",21,"",""
-"7847TA",39,"",""
-"7847TA",37,"",""
-"7847TA",3,"",""
-"7847TB",55,"",""
-"7847TB",49,"",""
-"7847TB",47,"",""
-"7847TB",45,"",""
-"7847TB",45,"","GED2"
-"7847TB",71,"",""
-"7847TB",57,"",""
-"7847TB",45,"a",""
-"7847TB",49,"",""
-"7847TB",55,"c",""
-"7847TB",49,"",""
-"7847TB",45,"","acht"
-"7847TB",59,"",""
-"7847TB",55,"b",""
-"7847TB",51,"a",""
-"7847TB",45,"b",""
-"7847TB",43,"",""
-"7847TB",73,"",""
-"7847TB",67,"",""
-"7847TB",41,"",""
-"7847TB",53,"a",""
-"7847TB",55,"d",""
-"7847TB",69,"",""
-"7847TB",61,"",""
-"7847TB",51,"",""
-"7847TB",63,"",""
-"7847TB",55,"a",""
-"7847TB",67,"a",""
-"7847TB",53,"",""
-"7847TB",67,"",""
-"7847TC",32,"",""
-"7847TC",22,"",""
-"7847TC",34,"",""
-"7847TC",38,"",""
-"7847TC",36,"",""
-"7847TC",40,"",""
-"7847TC",30,"a",""
-"7847TC",20,"",""
-"7847TC",24,"",""
-"7847TC",30,"",""
-"7847TC",26,"",""
-"7847TC",28,"",""
-"7847TD",68,"",""
-"7847TD",68,"",""
-"7847TD",72,"",""
-"7847TD",66,"",""
-"7847TD",70,"",""
-"7847TD",60,"b",""
-"7847TD",68,"",""
-"7847TD",64,"",""
-"7847TD",48,"",""
-"7847TD",62,"c",""
-"7847TD",80,"",""
-"7847TD",74,"",""
-"7847TD",62,"d",""
-"7847TD",84,"",""
-"7847TD",60,"b",""
-"7847TD",78,"",""
-"7847TD",76,"",""
-"7847TD",48,"","BIJ"
-"7847TD",54,"",""
-"7847TD",84,"",""
-"7847TD",62,"b",""
-"7847TD",62,"a",""
-"7847TD",56,"a",""
-"7847TD",50,"",""
-"7847TD",62,"",""
-"7847TD",56,"b",""
-"7847TD",60,"",""
-"7847TD",58,"",""
-"7847TD",60,"a","GED"
-"7847TD",60,"a",""
-"7847TD",52,"",""
-"7847TD",42,"",""
-"7847TD",82,"",""
-"7847TD",60,"",""
-"7847TD",44,"",""
-"7847TD",60,"",""
-"7847TD",46,"",""
-"7847TD",56,"",""
-"7847TD",48,"","BIJ"
-"7847TD",84,"",""
-"7847TE",6,"",""
-"7847TE",8,"",""
-"7847TE",4,"",""
-"7847TE",2,"",""
-"7847TG",1,"",""
-"7847TG",5,"a",""
-"7847TG",9,"",""
-"7847TG",7,"",""
-"7847TG",11,"",""
-"7847TG",5,"a",""
-"7847TG",5,"",""
-"7847TK",20,"",""
-"7847TK",12,"",""
-"7847TK",2,"",""
-"7847TK",8,"",""
-"7847TK",6,"",""
-"7847TK",26,"",""
-"7847TK",24,"",""
-"7847TK",4,"",""
-"7847TK",22,"",""
-"7847TK",14,"",""
-"7847TK",16,"",""
-"7847TK",10,"",""
-"7847TK",18,"",""
-7847TA,'t Haantje,3,,
-7847TA,'t Haantje,19,,
-7847TA,'t Haantje,21,,
-7847TA,'t Haantje,23,,
-7847TA,'t Haantje,25,,
-7847TA,'t Haantje,27,a,
-7847TA,'t Haantje,27,b,
-7847TA,'t Haantje,27,,
-7847TA,'t Haantje,29,,
-7847TA,'t Haantje,31,,
-7847TA,'t Haantje,35,,
-7847TA,'t Haantje,37,,
-7847TA,'t Haantje,39,a,
-7847TA,'t Haantje,39,,
-7847TB,'t Haantje,41,,
-7847TB,'t Haantje,43,,
-7847TB,'t Haantje,45,a,
-7847TB,'t Haantje,45,b,
-7847TB,'t Haantje,45,,GED2
-7847TB,'t Haantje,45,,
-7847TB,'t Haantje,47,,
-7847TB,'t Haantje,49,,
-7847TB,'t Haantje,51,a,
-7847TB,'t Haantje,51,,
-7847TB,'t Haantje,53,a,
-7847TB,'t Haantje,53,,
-7847TB,'t Haantje,55,a,
-7847TB,'t Haantje,55,b,
-7847TB,'t Haantje,55,c,
-7847TB,'t Haantje,55,d,
-7847TB,'t Haantje,55,,
-7847TB,'t Haantje,57,,
-7847TB,'t Haantje,59,,
-7847TB,'t Haantje,61,,
-7847TB,'t Haantje,63,,
-7847TB,'t Haantje,67,a,
-7847TB,'t Haantje,67,,
-7847TB,'t Haantje,69,,
-7847TB,'t Haantje,71,,
-7847TB,'t Haantje,73,,
-7847TC,'t Haantje,20,,
-7847TC,'t Haantje,22,,
-7847TC,'t Haantje,24,,
-7847TC,'t Haantje,26,,
-7847TC,'t Haantje,28,,
-7847TC,'t Haantje,30,a,
-7847TC,'t Haantje,30,,
-7847TC,'t Haantje,32,,
-7847TC,'t Haantje,34,,
-7847TC,'t Haantje,36,,
-7847TC,'t Haantje,38,,
-7847TC,'t Haantje,40,,
-7847TD,'t Haantje,42,,
-7847TD,'t Haantje,44,,
-7847TD,'t Haantje,46,,
-7847TD,'t Haantje,48,,BIJ
-7847TD,'t Haantje,48,,
-7847TD,'t Haantje,50,,
-7847TD,'t Haantje,52,,
-7847TD,'t Haantje,54,,
-7847TD,'t Haantje,56,a,
-7847TD,'t Haantje,56,b,
-7847TD,'t Haantje,56,,
-7847TD,'t Haantje,58,,
-7847TD,'t Haantje,60,a,GED
-7847TD,'t Haantje,60,a,
-7847TD,'t Haantje,60,b,
-7847TD,'t Haantje,60,,
-7847TD,'t Haantje,62,a,
-7847TD,'t Haantje,62,b,
-7847TD,'t Haantje,62,c,
-7847TD,'t Haantje,62,d,
-7847TD,'t Haantje,62,,
-7847TD,'t Haantje,64,,
-7847TD,'t Haantje,66,,
-7847TD,'t Haantje,68,,
-7847TD,'t Haantje,70,,
-7847TD,'t Haantje,72,,
-7847TD,'t Haantje,74,,
-7847TD,'t Haantje,76,,
-7847TD,'t Haantje,78,,
-7847TD,'t Haantje,80,,
-7847TD,'t Haantje,82,,
-7847TD,'t Haantje,84,,
-7847TK,De Snikke,2,,
-7847TK,De Snikke,4,,
-7847TK,De Snikke,6,,
-7847TK,De Snikke,8,,
-7847TK,De Snikke,10,,
-7847TK,De Snikke,12,,
-7847TK,De Snikke,14,,
-7847TK,De Snikke,20,,
-7847TK,De Snikke,22,,
-7847TK,De Snikke,24,,
-7847TK,De Snikke,26,,
-7847TE,Kanaaldijk Noordzijde,2,,
-7847TE,Kanaaldijk Noordzijde,4,,
-7847TE,Kanaaldijk Noordzijde,6,,
-7847TE,Kanaaldijk Noordzijde,8,,
-7847TG,Kanaaldijk Zuidzijde,1,,
-7847TG,Kanaaldijk Zuidzijde,5,a,
-7847TG,Kanaaldijk Zuidzijde,5,,
-7847TG,Kanaaldijk Zuidzijde,7,,
-7847TG,Kanaaldijk Zuidzijde,9,,
-7847TG,Kanaaldijk Zuidzijde,11,,
-7847TB,'t Haantje,45,,acht
-7847TB,'t Haantje,49,,
-7847TD,'t Haantje,84,,
-7847TD,'t Haantje,60,,
-7847TD,'t Haantje,68,,
-7847TK,De Snikke,16,,
-7847TK,De Snikke,18,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+'t Haantje,19,"","",7847TA,'t Haantje
+'t Haantje,21,"","",7847TA,'t Haantje
+'t Haantje,23,"","",7847TA,'t Haantje
+'t Haantje,25,"","",7847TA,'t Haantje
+'t Haantje,27,"","",7847TA,'t Haantje
+'t Haantje,27,A,"",7847TA,'t Haantje
+'t Haantje,27,B,"",7847TA,'t Haantje
+'t Haantje,29,"","",7847TA,'t Haantje
+'t Haantje,3,"","",7847TA,'t Haantje
+'t Haantje,31,"","",7847TA,'t Haantje
+'t Haantje,35,"","",7847TA,'t Haantje
+'t Haantje,37,"","",7847TA,'t Haantje
+'t Haantje,39,"","",7847TA,'t Haantje
+'t Haantje,39,A,"",7847TA,'t Haantje
+'t Haantje,41,"","",7847TB,'t Haantje
+'t Haantje,43,"","",7847TB,'t Haantje
+'t Haantje,45,"","",7847TB,'t Haantje
+'t Haantje,45,"",ACHT,7847TB,'t Haantje
+'t Haantje,45,"",GED2,7847TB,'t Haantje
+'t Haantje,45,A,"",7847TB,'t Haantje
+'t Haantje,45,B,"",7847TB,'t Haantje
+'t Haantje,47,"","",7847TB,'t Haantje
+'t Haantje,49,"","",7847TB,'t Haantje
+'t Haantje,49,"","",7847TB,'t Haantje
+'t Haantje,49,"","",7847TB,'t Haantje
+'t Haantje,51,"","",7847TB,'t Haantje
+'t Haantje,51,A,"",7847TB,'t Haantje
+'t Haantje,53,"","",7847TB,'t Haantje
+'t Haantje,53,A,"",7847TB,'t Haantje
+'t Haantje,55,"","",7847TB,'t Haantje
+'t Haantje,55,A,"",7847TB,'t Haantje
+'t Haantje,55,B,"",7847TB,'t Haantje
+'t Haantje,55,C,"",7847TB,'t Haantje
+'t Haantje,55,D,"",7847TB,'t Haantje
+'t Haantje,57,"","",7847TB,'t Haantje
+'t Haantje,59,"","",7847TB,'t Haantje
+'t Haantje,61,"","",7847TB,'t Haantje
+'t Haantje,63,"","",7847TB,'t Haantje
+'t Haantje,67,"","",7847TB,'t Haantje
+'t Haantje,67,"","",7847TB,'t Haantje
+'t Haantje,67,A,"",7847TB,'t Haantje
+'t Haantje,69,"","",7847TB,'t Haantje
+'t Haantje,71,"","",7847TB,'t Haantje
+'t Haantje,73,"","",7847TB,'t Haantje
+'t Haantje,20,"","",7847TC,'t Haantje
+'t Haantje,22,"","",7847TC,'t Haantje
+'t Haantje,24,"","",7847TC,'t Haantje
+'t Haantje,26,"","",7847TC,'t Haantje
+'t Haantje,28,"","",7847TC,'t Haantje
+'t Haantje,30,"","",7847TC,'t Haantje
+'t Haantje,30,A,"",7847TC,'t Haantje
+'t Haantje,32,"","",7847TC,'t Haantje
+'t Haantje,34,"","",7847TC,'t Haantje
+'t Haantje,36,"","",7847TC,'t Haantje
+'t Haantje,38,"","",7847TC,'t Haantje
+'t Haantje,40,"","",7847TC,'t Haantje
+'t Haantje,42,"","",7847TD,'t Haantje
+'t Haantje,44,"","",7847TD,'t Haantje
+'t Haantje,46,"","",7847TD,'t Haantje
+'t Haantje,48,"","",7847TD,'t Haantje
+'t Haantje,48,"",BIJ,7847TD,'t Haantje
+'t Haantje,48,"",BIJ,7847TD,'t Haantje
+'t Haantje,50,"","",7847TD,'t Haantje
+'t Haantje,52,"","",7847TD,'t Haantje
+'t Haantje,54,"","",7847TD,'t Haantje
+'t Haantje,56,"","",7847TD,'t Haantje
+'t Haantje,56,A,"",7847TD,'t Haantje
+'t Haantje,56,B,"",7847TD,'t Haantje
+'t Haantje,58,"","",7847TD,'t Haantje
+'t Haantje,60,"","",7847TD,'t Haantje
+'t Haantje,60,"","",7847TD,'t Haantje
+'t Haantje,60,"","",7847TD,'t Haantje
+'t Haantje,60,A,"",7847TD,'t Haantje
+'t Haantje,60,A,GED,7847TD,'t Haantje
+'t Haantje,60,B,"",7847TD,'t Haantje
+'t Haantje,60,B,"",7847TD,'t Haantje
+'t Haantje,62,"","",7847TD,'t Haantje
+'t Haantje,62,A,"",7847TD,'t Haantje
+'t Haantje,62,B,"",7847TD,'t Haantje
+'t Haantje,62,C,"",7847TD,'t Haantje
+'t Haantje,62,D,"",7847TD,'t Haantje
+'t Haantje,64,"","",7847TD,'t Haantje
+'t Haantje,66,"","",7847TD,'t Haantje
+'t Haantje,68,"","",7847TD,'t Haantje
+'t Haantje,68,"","",7847TD,'t Haantje
+'t Haantje,68,"","",7847TD,'t Haantje
+'t Haantje,70,"","",7847TD,'t Haantje
+'t Haantje,72,"","",7847TD,'t Haantje
+'t Haantje,74,"","",7847TD,'t Haantje
+'t Haantje,76,"","",7847TD,'t Haantje
+'t Haantje,78,"","",7847TD,'t Haantje
+'t Haantje,80,"","",7847TD,'t Haantje
+'t Haantje,82,"","",7847TD,'t Haantje
+'t Haantje,84,"","",7847TD,'t Haantje
+'t Haantje,84,"","",7847TD,'t Haantje
+'t Haantje,84,"","",7847TD,'t Haantje
+Kanaaldijk Noordzijde,2,"","",7847TE,'t Haantje
+Kanaaldijk Noordzijde,4,"","",7847TE,'t Haantje
+Kanaaldijk Noordzijde,6,"","",7847TE,'t Haantje
+Kanaaldijk Noordzijde,8,"","",7847TE,'t Haantje
+Kanaaldijk Zuidzijde,1,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,11,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,5,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,5,A,"",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,5,A,"",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,7,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,9,"","",7847TG,'t Haantje
+De Snikke,10,"","",7847TK,'t Haantje
+De Snikke,12,"","",7847TK,'t Haantje
+De Snikke,14,"","",7847TK,'t Haantje
+De Snikke,16,"","",7847TK,'t Haantje
+De Snikke,18,"","",7847TK,'t Haantje
+De Snikke,2,"","",7847TK,'t Haantje
+De Snikke,20,"","",7847TK,'t Haantje
+De Snikke,22,"","",7847TK,'t Haantje
+De Snikke,24,"","",7847TK,'t Haantje
+De Snikke,26,"","",7847TK,'t Haantje
+De Snikke,4,"","",7847TK,'t Haantje
+De Snikke,6,"","",7847TK,'t Haantje
+De Snikke,8,"","",7847TK,'t Haantje

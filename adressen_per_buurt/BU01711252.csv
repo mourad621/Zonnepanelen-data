@@ -1,23 +1,23 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8319AA",25,"",""
-"8319AA",12,"",""
-"8319AA",14,"","TR"
-"8319AA",14,"",""
-"8319AB",2,"",""
-"8319AB",3,"",""
-"8319AC",1,"",""
-"8319AD",1,"",""
-"8319AE",23,"","TR"
-"8319AE",24,"",""
-"8319AE",23,"",""
-8319AC,Keileemweg,1,,
-8319AB,Middelbuurt,2,,
-8319AE,Oud Emmeloorderweg,23,,
-8319AE,Oud Emmeloorderweg,24,,
-8319AA,Schokkerringweg,12,,
-8319AA,Schokkerringweg,25,,
-8319AD,Vluchthavenpad,1,,
-8319AB,Middelbuurt,3,,
-8319AE,Oud Emmeloorderweg,23,,TR
-8319AA,Schokkerringweg,14,,TR
-8319AA,Schokkerringweg,14,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Schokkerringweg,12,"","",8319AA,Schokland
+Schokkerringweg,14,"","",8319AA,Schokland
+Schokkerringweg,14,"",TR,8319AA,Schokland
+Schokkerringweg,25,"","",8319AA,Schokland
+"",SCHOKKERRINGWEG,12,"",8319AA,
+"",SCHOKKERRINGWEG,14,"",8319AA,
+"",SCHOKKERRINGWEG,14,"",8319AA,
+"",SCHOKKERRINGWEG,25,"",8319AA,
+Middelbuurt,2,"","",8319AB,Schokland
+Middelbuurt,3,"","",8319AB,Schokland
+"",MIDDELBUURT,2,"",8319AB,
+"",MIDDELBUURT,3,"",8319AB,
+Keileemweg,1,"","",8319AC,Schokland
+"",KEILEEMWEG,1,"",8319AC,
+Vluchthavenpad,1,"","",8319AD,Schokland
+"",VLUCHTHAVENPAD,1,"",8319AD,
+Oud Emmeloorderweg,23,"","",8319AE,Schokland
+Oud Emmeloorderweg,23,"",TR,8319AE,Schokland
+Oud Emmeloorderweg,24,"","",8319AE,Schokland
+"",OUD EMMELOORDERWEG,23,"",8319AE,
+"",OUD EMMELOORDERWEG,23,"",8319AE,
+"",OUD EMMELOORDERWEG,24,"",8319AE,

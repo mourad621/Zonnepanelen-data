@@ -1,302 +1,140 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9034GK",20,"",""
-"9034GK",34,"",""
-"9034GK",32,"",""
-"9034GK",24,"",""
-"9034GK",26,"",""
-"9034GK",30,"",""
-"9034GK",22,"",""
-"9034GK",28,"",""
-"9034GK",36,"",""
-"9034GK",44,"",""
-"9034GK",40,"",""
-"9034GK",38,"",""
-"9034HA",18,"",""
-"9034HA",19,"",""
-"9034HA",20,"",""
-"9034HA",14,"",""
-"9034HA",21,"",""
-"9034HA",5,"",""
-"9034HA",32,"",""
-"9034HA",28,"",""
-"9034HA",22,"",""
-"9034HA",29,"",""
-"9034HA",16,"",""
-"9034HA",11,"",""
-"9034HA",15,"",""
-"9034HA",7,"",""
-"9034HA",24,"",""
-"9034HA",13,"",""
-"9034HA",17,"",""
-"9034HA",23,"",""
-"9034HA",9,"",""
-"9034HA",26,"",""
-"9034HB",13,"",""
-"9034HB",1,"",""
-"9034HB",1,"A",""
-"9034HB",15,"",""
-"9034HB",11,"",""
-"9034HB",3,"",""
-"9034HB",5,"",""
-"9034HB",15,"A",""
-"9034HB",7,"",""
-"9034HC",10,"",""
-"9034HC",16,"",""
-"9034HC",28,"",""
-"9034HC",2,"",""
-"9034HC",24,"",""
-"9034HC",6,"",""
-"9034HC",34,"",""
-"9034HC",12,"",""
-"9034HC",20,"",""
-"9034HC",26,"",""
-"9034HC",32,"",""
-"9034HC",38,"",""
-"9034HC",8,"",""
-"9034HC",18,"",""
-"9034HC",22,"",""
-"9034HC",40,"",""
-"9034HC",4,"",""
-"9034HC",36,"",""
-"9034TA",93,"",""
-"9034TA",2,"",""
-"9034TA",1,"",""
-"9034TA",87,"",""
-"9034TA",87,"B",""
-"9034TA",7,"A",""
-"9034TA",4,"",""
-"9034TA",7,"",""
-"9034TA",91,"",""
-"9034TA",87,"D",""
-"9034TA",3,"",""
-"9034TA",87,"C",""
-"9034VA",1,"",""
-"9034VA",9,"",""
-"9034VA",3,"",""
-"9034VA",11,"",""
-"9034VA",5,"",""
-"9034VA",5,"L",""
-"9034VB",54,"",""
-"9034VB",56,"",""
-"9034VB",60,"",""
-"9034VB",50,"",""
-"9034VB",58,"",""
-"9034VB",42,"",""
-"9034VB",52,"",""
-"9034XA",45,"",""
-"9034XA",43,"",""
-"9034XB",5,"",""
-"9034XB",9,"",""
-"9034XB",10,"",""
-"9034XB",2,"",""
-"9034XB",12,"",""
-"9034XB",9,"",""
-"9034XB",5,"",""
-"9034XB",13,"",""
-"9034XB",8,"",""
-"9034XB",3,"",""
-"9034XB",4,"A",""
-"9034XB",7,"",""
-"9034XB",4,"A",""
-"9034XB",14,"",""
-"9034XB",11,"",""
-"9034XB",10,"",""
-"9034XD",42,"",""
-"9034XD",38,"",""
-"9034XD",50,"",""
-"9034XD",11,"",""
-"9034XD",7,"",""
-"9034XD",5,"",""
-"9034XD",42,"A",""
-"9034XD",44,"",""
-"9034XG",30,"",""
-"9034XG",4,"",""
-"9034XG",30,"",""
-"9034XG",4,"A",""
-"9034XG",40,"",""
-"9034XG",28,"",""
-"9034XG",26,"",""
-"9034XG",28,"",""
-"9034XG",36,"",""
-"9034XG",38,"",""
-"9034XG",46,"",""
-"9034XG",36,"",""
-"9034XG",14,"",""
-"9034XG",10,"",""
-"9034XG",32,"",""
-"9034XG",46,"",""
-"9034XG",44,"",""
-"9034XG",22,"",""
-"9034XG",8,"",""
-"9034XG",16,"",""
-"9034XG",40,"",""
-"9034XG",32,"",""
-"9034XG",34,"",""
-"9034XG",34,"",""
-"9034XG",44,"",""
-"9034XG",6,"",""
-"9034XG",42,"",""
-"9034XG",42,"",""
-"9034XG",38,"",""
-9034GK,Bitgumerdyk,20,,
-9034GK,Bitgumerdyk,22,,
-9034GK,Bitgumerdyk,24,,
-9034GK,Bitgumerdyk,26,,
-9034GK,Bitgumerdyk,28,,
-9034GK,Bitgumerdyk,30,,
-9034GK,Bitgumerdyk,32,,
-9034GK,Bitgumerdyk,34,,
-9034GK,Bitgumerdyk,36,,
-9034GK,Bitgumerdyk,38,,
-9034GK,Bitgumerdyk,40,,
-9034GK,Bitgumerdyk,44,,
-9034TA,Bitgumerdyk,87,,
-9034TA,Bitgumerdyk,87,B,
-9034TA,Bitgumerdyk,87,C,
-9034TA,Bitgumerdyk,87,D,
-9034TA,Bitgumerdyk,91,,
-9034TA,Bitgumerdyk,93,,
-9034XD,Hegedyk,11,,
-9034XD,Hegedyk,38,,
-9034XD,Hegedyk,42,,
-9034XD,Hegedyk,42,A,
-9034XD,Hegedyk,44,,
-9034XD,Hegedyk,5,,
-9034XD,Hegedyk,50,,
-9034XD,Hegedyk,7,,
-9034XG,Ritsumasyl,10,,
-9034XG,Ritsumasyl,14,,
-9034XG,Ritsumasyl,16,,
-9034XG,Ritsumasyl,22,,
-9034XG,Ritsumasyl,26,,
-9034XG,Ritsumasyl,28,,
-9034XG,Ritsumasyl,28,,
-9034XG,Ritsumasyl,30,,
-9034XG,Ritsumasyl,30,,
-9034XG,Ritsumasyl,32,,
-9034XG,Ritsumasyl,32,,
-9034XG,Ritsumasyl,34,,
-9034XG,Ritsumasyl,34,,
-9034XG,Ritsumasyl,36,,
-9034XG,Ritsumasyl,36,,
-9034XG,Ritsumasyl,38,,
-9034XG,Ritsumasyl,38,,
-9034XG,Ritsumasyl,4,,
-9034XG,Ritsumasyl,40,,
-9034XG,Ritsumasyl,40,,
-9034XG,Ritsumasyl,42,,
-9034XG,Ritsumasyl,42,,
-9034XG,Ritsumasyl,44,,
-9034XG,Ritsumasyl,44,,
-9034XG,Ritsumasyl,46,,
-9034XG,Ritsumasyl,46,,
-9034XG,Ritsumasyl,4,A,
-9034XG,Ritsumasyl,6,,
-9034XG,Ritsumasyl,8,,
-9034XB,It Aldlân,13,,
-9034XB,It Aldlân,14,,
-9034XB,It Aldlân,2,,
-9034XB,It Aldlân,3,,
-9034XB,It Aldlân,4,A,
-9034XB,It Aldlân,5,,
-9034XB,It Aldlân,7,,
-9034XB,It Aldlân,8,,
-9034XB,It Aldlân,9,,
-9034XB,It Aldlân,10,,
-9034XB,It Aldlân,11,,
-9034XB,It Aldlân,12,,
-9034TA,Franjumbuorren,1,,
-9034TA,Franjumbuorren,2,,
-9034TA,Franjumbuorren,3,,
-9034TA,Franjumbuorren,4,,
-9034TA,Franjumbuorren,7,,
-9034TA,Franjumbuorren,7,A,
-9034HA,Franjumbuorsterpaed,11,,
-9034HA,Franjumbuorsterpaed,13,,
-9034HA,Franjumbuorsterpaed,14,,
-9034HA,Franjumbuorsterpaed,15,,
-9034HA,Franjumbuorsterpaed,16,,
-9034HA,Franjumbuorsterpaed,17,,
-9034HA,Franjumbuorsterpaed,18,,
-9034HA,Franjumbuorsterpaed,19,,
-9034HA,Franjumbuorsterpaed,20,,
-9034HA,Franjumbuorsterpaed,21,,
-9034HA,Franjumbuorsterpaed,22,,
-9034HA,Franjumbuorsterpaed,23,,
-9034HA,Franjumbuorsterpaed,24,,
-9034HA,Franjumbuorsterpaed,26,,
-9034HA,Franjumbuorsterpaed,28,,
-9034HA,Franjumbuorsterpaed,29,,
-9034HA,Franjumbuorsterpaed,32,,
-9034HA,Franjumbuorsterpaed,5,,
-9034HA,Franjumbuorsterpaed,7,,
-9034HA,Franjumbuorsterpaed,9,,
-9034VA,Ljouwerterdyk,1,,
-9034VA,Ljouwerterdyk,11,,
-9034VA,Ljouwerterdyk,3,,
-9034VA,Ljouwerterdyk,5,,
-9034VA,Ljouwerterdyk,5,L,
-9034VA,Ljouwerterdyk,9,,
-9034VB,Rypsterdyk,42,,
-9034VB,Rypsterdyk,50,,
-9034VB,Rypsterdyk,52,,
-9034VB,Rypsterdyk,54,,
-9034VB,Rypsterdyk,56,,
-9034VB,Rypsterdyk,58,,
-9034VB,Rypsterdyk,60,,
-9034XA,Rypsterdyk,43,,
-9034XA,Rypsterdyk,45,,
-9034HB,Riemer Veemanstrjitte,1,,
-9034HB,Riemer Veemanstrjitte,11,,
-9034HB,Riemer Veemanstrjitte,13,,
-9034HB,Riemer Veemanstrjitte,15,,
-9034HB,Riemer Veemanstrjitte,15,A,
-9034HB,Riemer Veemanstrjitte,1,A,
-9034HB,Riemer Veemanstrjitte,3,,
-9034HB,Riemer Veemanstrjitte,5,,
-9034HB,Riemer Veemanstrjitte,7,,
-9034HC,Riemer Veemanstrjitte,10,,
-9034HC,Riemer Veemanstrjitte,12,,
-9034HC,Riemer Veemanstrjitte,16,,
-9034HC,Riemer Veemanstrjitte,18,,
-9034HC,Riemer Veemanstrjitte,2,,
-9034HC,Riemer Veemanstrjitte,20,,
-9034HC,Riemer Veemanstrjitte,22,,
-9034HC,Riemer Veemanstrjitte,24,,
-9034HC,Riemer Veemanstrjitte,26,,
-9034HC,Riemer Veemanstrjitte,28,,
-9034HC,Riemer Veemanstrjitte,32,,
-9034HC,Riemer Veemanstrjitte,34,,
-9034HC,Riemer Veemanstrjitte,36,,
-9034HC,Riemer Veemanstrjitte,38,,
-9034HC,Riemer Veemanstrjitte,4,,
-9034HC,Riemer Veemanstrjitte,40,,
-9034HC,Riemer Veemanstrjitte,6,,
-9034HC,Riemer Veemanstrjitte,8,,
-9034GK,Bitgumerdyk,46,,
-9034TA,Bitgumerdyk,89,,
-9034TA,Bitgumerdyk,85,,
-9034XD,Hegedyk,46,,
-9034XG,Ritsumasyl,12,,
-9034XB,It Aldlân,4,,
-9034XB,It Aldlân,6,,
-9034XB,It Aldlân,15,,
-9034XB,It Aldlân,4,D,
-9034XB,It Aldlân,4,D,
-9034XB,It Aldlân,4,D,
-9034XB,It Aldlân,4,A,
-9034XB,It Aldlân,10,,
-9034XB,It Aldlân,10,,
-9034XB,It Aldlân,9,,
-9034XB,It Aldlân,9,A,
-9034XB,It Aldlân,5,,
-9034HA,Franjumbuorsterpaed,30,,
-9034VB,Rypsterdyk,44,,
-9034VB,Rypsterdyk,48,,
-9034VB,Rypsterdyk,50,A,
-9034HB,Riemer Veemanstrjitte,9,,
-9034HB,Riemer Veemanstrjitte,1,B,
-9034HB,Riemer Veemanstrjitte,17,,
-9034HC,Riemer Veemanstrjitte,14,,
-9034VB,Rypsterdyk,50,B,
-9034VB,Rypsterdyk,50,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bitgumerdyk,20,"","",9034GK,Marsum
+Bitgumerdyk,22,"","",9034GK,Marsum
+Bitgumerdyk,24,"","",9034GK,Marsum
+Bitgumerdyk,26,"","",9034GK,Marsum
+Bitgumerdyk,28,"","",9034GK,Marsum
+Bitgumerdyk,30,"","",9034GK,Marsum
+Bitgumerdyk,32,"","",9034GK,Marsum
+Bitgumerdyk,34,"","",9034GK,Marsum
+Bitgumerdyk,36,"","",9034GK,Marsum
+Bitgumerdyk,38,"","",9034GK,Marsum
+Bitgumerdyk,40,"","",9034GK,Marsum
+Bitgumerdyk,44,"","",9034GK,Marsum
+Franjumbuorsterpaed,11,"","",9034HA,Marsum
+Franjumbuorsterpaed,13,"","",9034HA,Marsum
+Franjumbuorsterpaed,14,"","",9034HA,Marsum
+Franjumbuorsterpaed,15,"","",9034HA,Marsum
+Franjumbuorsterpaed,16,"","",9034HA,Marsum
+Franjumbuorsterpaed,17,"","",9034HA,Marsum
+Franjumbuorsterpaed,18,"","",9034HA,Marsum
+Franjumbuorsterpaed,19,"","",9034HA,Marsum
+Franjumbuorsterpaed,20,"","",9034HA,Marsum
+Franjumbuorsterpaed,21,"","",9034HA,Marsum
+Franjumbuorsterpaed,22,"","",9034HA,Marsum
+Franjumbuorsterpaed,23,"","",9034HA,Marsum
+Franjumbuorsterpaed,24,"","",9034HA,Marsum
+Franjumbuorsterpaed,26,"","",9034HA,Marsum
+Franjumbuorsterpaed,28,"","",9034HA,Marsum
+Franjumbuorsterpaed,29,"","",9034HA,Marsum
+Franjumbuorsterpaed,32,"","",9034HA,Marsum
+Franjumbuorsterpaed,5,"","",9034HA,Marsum
+Franjumbuorsterpaed,7,"","",9034HA,Marsum
+Franjumbuorsterpaed,9,"","",9034HA,Marsum
+Riemer Veemanstrjitte,1,"","",9034HB,Marsum
+Riemer Veemanstrjitte,1,A,"",9034HB,Marsum
+Riemer Veemanstrjitte,11,"","",9034HB,Marsum
+Riemer Veemanstrjitte,13,"","",9034HB,Marsum
+Riemer Veemanstrjitte,15,"","",9034HB,Marsum
+Riemer Veemanstrjitte,15,A,"",9034HB,Marsum
+Riemer Veemanstrjitte,3,"","",9034HB,Marsum
+Riemer Veemanstrjitte,5,"","",9034HB,Marsum
+Riemer Veemanstrjitte,7,"","",9034HB,Marsum
+Riemer Veemanstrjitte,10,"","",9034HC,Marsum
+Riemer Veemanstrjitte,12,"","",9034HC,Marsum
+Riemer Veemanstrjitte,16,"","",9034HC,Marsum
+Riemer Veemanstrjitte,18,"","",9034HC,Marsum
+Riemer Veemanstrjitte,2,"","",9034HC,Marsum
+Riemer Veemanstrjitte,20,"","",9034HC,Marsum
+Riemer Veemanstrjitte,22,"","",9034HC,Marsum
+Riemer Veemanstrjitte,24,"","",9034HC,Marsum
+Riemer Veemanstrjitte,26,"","",9034HC,Marsum
+Riemer Veemanstrjitte,28,"","",9034HC,Marsum
+Riemer Veemanstrjitte,32,"","",9034HC,Marsum
+Riemer Veemanstrjitte,34,"","",9034HC,Marsum
+Riemer Veemanstrjitte,36,"","",9034HC,Marsum
+Riemer Veemanstrjitte,38,"","",9034HC,Marsum
+Riemer Veemanstrjitte,4,"","",9034HC,Marsum
+Riemer Veemanstrjitte,40,"","",9034HC,Marsum
+Riemer Veemanstrjitte,6,"","",9034HC,Marsum
+Riemer Veemanstrjitte,8,"","",9034HC,Marsum
+Franjumbuorren,1,"","",9034TA,Marsum
+Franjumbuorren,2,"","",9034TA,Marsum
+Franjumbuorren,3,"","",9034TA,Marsum
+Franjumbuorren,4,"","",9034TA,Marsum
+Franjumbuorren,7,"","",9034TA,Marsum
+Franjumbuorren,7,A,"",9034TA,Marsum
+Bitgumerdyk,87,"","",9034TA,Marsum
+Bitgumerdyk,87,B,"",9034TA,Marsum
+Bitgumerdyk,87,C,"",9034TA,Marsum
+Bitgumerdyk,87,D,"",9034TA,Marsum
+Bitgumerdyk,91,"","",9034TA,Marsum
+Bitgumerdyk,93,"","",9034TA,Marsum
+Ljouwerterdyk,1,"","",9034VA,Marsum
+Ljouwerterdyk,11,"","",9034VA,Marsum
+Ljouwerterdyk,3,"","",9034VA,Marsum
+Ljouwerterdyk,5,"","",9034VA,Marsum
+Ljouwerterdyk,5,L,"",9034VA,Marsum
+Ljouwerterdyk,9,"","",9034VA,Marsum
+Rypsterdyk,42,"","",9034VB,Marsum
+Rypsterdyk,50,"","",9034VB,Marsum
+Rypsterdyk,52,"","",9034VB,Marsum
+Rypsterdyk,54,"","",9034VB,Marsum
+Rypsterdyk,56,"","",9034VB,Marsum
+Rypsterdyk,58,"","",9034VB,Marsum
+Rypsterdyk,60,"","",9034VB,Marsum
+Rypsterdyk,43,"","",9034XA,Marsum
+Rypsterdyk,45,"","",9034XA,Marsum
+It Aldlân,10,"","",9034XB,Marsum
+It Aldlân,10,"","",9034XB,Marsum
+It Aldlân,11,"","",9034XB,Marsum
+It Aldlân,12,"","",9034XB,Marsum
+It Aldlân,13,"","",9034XB,Marsum
+It Aldlân,14,"","",9034XB,Marsum
+It Aldlân,2,"","",9034XB,Marsum
+It Aldlân,3,"","",9034XB,Marsum
+It Aldlân,4,A,"",9034XB,Marsum
+It Aldlân,4,A,"",9034XB,Marsum
+It Aldlân,5,"","",9034XB,Marsum
+It Aldlân,5,"","",9034XB,Marsum
+It Aldlân,7,"","",9034XB,Marsum
+It Aldlân,8,"","",9034XB,Marsum
+It Aldlân,9,"","",9034XB,Marsum
+It Aldlân,9,"","",9034XB,Marsum
+Hegedyk,11,"","",9034XD,Marsum
+Hegedyk,38,"","",9034XD,Marsum
+Hegedyk,42,"","",9034XD,Marsum
+Hegedyk,42,A,"",9034XD,Marsum
+Hegedyk,44,"","",9034XD,Marsum
+Hegedyk,5,"","",9034XD,Marsum
+Hegedyk,50,"","",9034XD,Marsum
+Hegedyk,7,"","",9034XD,Marsum
+Ritsumasyl,10,"","",9034XG,Marsum
+Ritsumasyl,14,"","",9034XG,Marsum
+Ritsumasyl,16,"","",9034XG,Marsum
+Ritsumasyl,22,"","",9034XG,Marsum
+Ritsumasyl,26,"","",9034XG,Marsum
+Ritsumasyl,28,"","",9034XG,Marsum
+Ritsumasyl,28,"","",9034XG,Marsum
+Ritsumasyl,30,"","",9034XG,Marsum
+Ritsumasyl,30,"","",9034XG,Marsum
+Ritsumasyl,32,"","",9034XG,Marsum
+Ritsumasyl,32,"","",9034XG,Marsum
+Ritsumasyl,34,"","",9034XG,Marsum
+Ritsumasyl,34,"","",9034XG,Marsum
+Ritsumasyl,36,"","",9034XG,Marsum
+Ritsumasyl,36,"","",9034XG,Marsum
+Ritsumasyl,38,"","",9034XG,Marsum
+Ritsumasyl,38,"","",9034XG,Marsum
+Ritsumasyl,4,"","",9034XG,Marsum
+Ritsumasyl,4,A,"",9034XG,Marsum
+Ritsumasyl,40,"","",9034XG,Marsum
+Ritsumasyl,40,"","",9034XG,Marsum
+Ritsumasyl,42,"","",9034XG,Marsum
+Ritsumasyl,42,"","",9034XG,Marsum
+Ritsumasyl,44,"","",9034XG,Marsum
+Ritsumasyl,44,"","",9034XG,Marsum
+Ritsumasyl,46,"","",9034XG,Marsum
+Ritsumasyl,46,"","",9034XG,Marsum
+Ritsumasyl,6,"","",9034XG,Marsum
+Ritsumasyl,8,"","",9034XG,Marsum

@@ -1,965 +1,481 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9607PA",17,"",""
-"9607PA",21,"",""
-"9607PA",7,"a",""
-"9607PA",15,"",""
-"9607PA",7,"h",""
-"9607PA",13,"",""
-"9607PA",7,"j",""
-"9607PA",49,"",""
-"9607PA",7,"d",""
-"9607PA",7,"k",""
-"9607PA",7,"e",""
-"9607PA",29,"",""
-"9607PA",37,"",""
-"9607PA",7,"b",""
-"9607PA",7,"f",""
-"9607PA",5,"",""
-"9607PA",7,"c",""
-"9607PA",7,"g",""
-"9607PA",19,"",""
-"9607PA",3,"",""
-"9607PA",27,"",""
-"9607PA",39,"",""
-"9607PA",27,"a",""
-"9607PA",43,"",""
-"9607PA",7,"",""
-"9607PA",1,"",""
-"9607PA",9,"",""
-"9607PA",33,"",""
-"9607PA",25,"",""
-"9607PA",47,"",""
-"9607PA",29,"a",""
-"9607PA",11,"",""
-"9607PA",35,"",""
-"9607PA",7,"n",""
-"9607PA",31,"",""
-"9607PA",7,"m",""
-"9607PB",71,"a",""
-"9607PB",71,"b",""
-"9607PB",71,"",""
-"9607PB",61,"",""
-"9607PB",51,"",""
-"9607PB",57,"",""
-"9607PB",53,"",""
-"9607PB",69,"",""
-"9607PB",65,"a",""
-"9607PB",65,"",""
-"9607PB",71,"c",""
-"9607PB",55,"",""
-"9607PB",67,"",""
-"9607PB",59,"",""
-"9607PC",73,"",""
-"9607PC",89,"",""
-"9607PC",79,"",""
-"9607PC",99,"a",""
-"9607PC",75,"",""
-"9607PC",87,"",""
-"9607PC",97,"",""
-"9607PC",77,"",""
-"9607PC",95,"",""
-"9607PC",83,"",""
-"9607PC",99,"",""
-"9607PC",101,"",""
-"9607PC",85,"",""
-"9607PC",103,"",""
-"9607PC",91,"",""
-"9607PC",81,"",""
-"9607PC",93,"",""
-"9607PD",8,"",""
-"9607PD",6,"",""
-"9607PD",4,"",""
-"9607PD",22,"",""
-"9607PD",34,"",""
-"9607PD",14,"",""
-"9607PD",12,"",""
-"9607PD",2,"",""
-"9607PD",24,"",""
-"9607PD",20,"",""
-"9607PD",38,"",""
-"9607PD",18,"",""
-"9607PD",36,"",""
-"9607PD",10,"",""
-"9607PD",32,"",""
-"9607PD",30,"",""
-"9607PD",40,"",""
-"9607PD",26,"",""
-"9607PE",86,"d",""
-"9607PE",94,"",""
-"9607PE",90,"",""
-"9607PE",86,"b",""
-"9607PE",60,"",""
-"9607PE",92,"",""
-"9607PE",76,"",""
-"9607PE",86,"a",""
-"9607PE",66,"",""
-"9607PE",86,"c",""
-"9607PE",86,"",""
-"9607PE",80,"",""
-"9607PE",82,"",""
-"9607PE",84,"",""
-"9607PE",78,"",""
-"9607PE",64,"",""
-"9607PE",96,"",""
-"9607PE",88,"",""
-"9607PG",116,"",""
-"9607PG",122,"",""
-"9607PG",108,"",""
-"9607PG",106,"",""
-"9607PG",100,"",""
-"9607PG",104,"",""
-"9607PG",114,"",""
-"9607PG",102,"",""
-"9607PG",98,"",""
-"9607PG",110,"",""
-"9607PG",98,"a",""
-"9607PG",120,"",""
-"9607PG",112,"",""
-"9607PG",98,"b",""
-"9607PG",118,"",""
-"9607PH",8,"",""
-"9607PH",11,"",""
-"9607PH",2,"",""
-"9607PH",6,"",""
-"9607PH",7,"",""
-"9607PH",4,"",""
-"9607PH",10,"",""
-"9607PH",3,"",""
-"9607PH",5,"",""
-"9607PH",1,"",""
-"9607PL",18,"",""
-"9607PL",4,"",""
-"9607PL",8,"",""
-"9607PL",10,"",""
-"9607PL",12,"",""
-"9607PL",2,"",""
-"9607PL",14,"",""
-"9607PL",16,"",""
-"9607PL",6,"",""
-"9607PM",13,"",""
-"9607PM",13,"",""
-"9607PM",3,"",""
-"9607PM",19,"",""
-"9607PM",7,"",""
-"9607PM",17,"",""
-"9607PM",9,"",""
-"9607PM",5,"",""
-"9607PM",21,"",""
-"9607PN",30,"",""
-"9607PN",42,"",""
-"9607PN",18,"",""
-"9607PN",22,"",""
-"9607PN",24,"",""
-"9607PN",28,"",""
-"9607PN",40,"",""
-"9607PR",20,"",""
-"9607PR",34,"",""
-"9607PR",28,"",""
-"9607PR",22,"",""
-"9607PR",36,"",""
-"9607PR",8,"",""
-"9607PR",26,"",""
-"9607PR",32,"",""
-"9607PR",2,"",""
-"9607PR",16,"",""
-"9607PR",46,"",""
-"9607PR",20,"a",""
-"9607PR",14,"",""
-"9607PR",4,"",""
-"9607PR",24,"",""
-"9607PR",40,"",""
-"9607PR",10,"",""
-"9607PR",38,"",""
-"9607PR",6,"",""
-"9607RA",37,"",""
-"9607RA",35,"",""
-"9607RA",1,"",""
-"9607RA",1,"b",""
-"9607RA",39,"",""
-"9607RA",5,"",""
-"9607RA",3,"",""
-"9607RA",7,"",""
-"9607RA",1,"a",""
-"9607RA",41,"",""
-"9607RB",8,"",""
-"9607RB",30,"",""
-"9607RB",13,"",""
-"9607RB",19,"",""
-"9607RB",12,"",""
-"9607RB",32,"",""
-"9607RB",18,"",""
-"9607RB",10,"",""
-"9607RB",11,"",""
-"9607RB",26,"",""
-"9607RB",28,"",""
-"9607RB",16,"",""
-"9607RB",17,"",""
-"9607RB",22,"",""
-"9607RB",20,"",""
-"9607RB",2,"",""
-"9607RB",15,"",""
-"9607RB",7,"",""
-"9607RB",14,"",""
-"9607RB",24,"",""
-"9607RB",1,"",""
-"9607RB",9,"",""
-"9607RB",5,"",""
-"9607RB",6,"",""
-"9607RB",4,"",""
-"9607RB",3,"",""
-"9607RC",2,"",""
-"9607RC",4,"",""
-"9607RC",1,"",""
-"9607RC",3,"a",""
-"9607RC",3,"",""
-"9607RC",7,"",""
-"9607RC",5,"",""
-"9607RD",7,"",""
-"9607RD",6,"",""
-"9607RD",8,"",""
-"9607RD",9,"",""
-"9607RD",10,"",""
-"9607RD",12,"",""
-"9607RD",13,"",""
-"9607RD",21,"",""
-"9607RD",23,"",""
-"9607RD",19,"",""
-"9607RD",14,"",""
-"9607RD",11,"",""
-"9607RD",17,"",""
-"9607RD",1,"",""
-"9607RD",2,"",""
-"9607RD",5,"",""
-"9607RD",16,"",""
-"9607RD",4,"",""
-"9607RD",3,"",""
-"9607RE",13,"",""
-"9607RE",1,"j",""
-"9607RE",1,"d",""
-"9607RE",1,"i",""
-"9607RE",1,"a",""
-"9607RE",7,"",""
-"9607RE",1,"",""
-"9607RE",17,"",""
-"9607RE",1,"e",""
-"9607RE",9,"",""
-"9607RE",2,"a",""
-"9607RE",11,"",""
-"9607RE",19,"",""
-"9607RE",1,"h",""
-"9607RE",1,"c",""
-"9607RE",1,"b",""
-"9607RE",5,"",""
-"9607RE",1,"f",""
-"9607RE",1,"g",""
-"9607RE",15,"",""
-"9607RE",3,"",""
-"9607RH",11,"",""
-"9607RH",1,"",""
-"9607RH",9,"",""
-"9607RH",13,"",""
-"9607RH",7,"",""
-"9607RH",5,"",""
-"9607RH",3,"",""
-"9607RJ",7,"",""
-"9607RJ",9,"",""
-"9607RJ",13,"",""
-"9607RJ",15,"",""
-"9607RJ",3,"",""
-"9607RJ",25,"",""
-"9607RJ",1,"",""
-"9607RJ",11,"",""
-"9607RJ",23,"",""
-"9607RJ",19,"",""
-"9607RJ",5,"",""
-"9607RJ",17,"",""
-"9607RJ",13,"",""
-"9607RJ",21,"",""
-"9607RJ",9,"a",""
-"9607RK",24,"",""
-"9607RK",50,"",""
-"9607RK",22,"",""
-"9607RK",48,"",""
-"9607RK",2,"",""
-"9607RK",36,"",""
-"9607RK",10,"",""
-"9607RK",12,"",""
-"9607RK",20,"",""
-"9607RK",42,"",""
-"9607RK",46,"",""
-"9607RK",4,"",""
-"9607RK",38,"",""
-"9607RK",32,"",""
-"9607RK",14,"",""
-"9607RK",26,"",""
-"9607RK",8,"",""
-"9607RK",44,"",""
-"9607RK",28,"",""
-"9607RK",16,"",""
-"9607RK",40,"",""
-"9607RK",18,"",""
-"9607RK",34,"",""
-"9607RK",6,"",""
-"9607RK",30,"",""
-"9607RL",62,"",""
-"9607RL",80,"",""
-"9607RL",74,"",""
-"9607RL",88,"",""
-"9607RL",86,"",""
-"9607RL",76,"",""
-"9607RL",52,"",""
-"9607RL",96,"",""
-"9607RL",84,"",""
-"9607RL",94,"",""
-"9607RL",78,"",""
-"9607RL",60,"",""
-"9607RL",82,"",""
-"9607RL",54,"",""
-"9607RL",98,"",""
-"9607RL",90,"",""
-"9607RL",100,"",""
-"9607RL",58,"",""
-"9607RL",92,"",""
-"9607RL",56,"",""
-"9607RM",11,"",""
-"9607RM",21,"",""
-"9607RM",9,"",""
-"9607RM",7,"",""
-"9607RM",23,"",""
-"9607RM",5,"",""
-"9607RM",3,"",""
-"9607RM",1,"",""
-"9607RM",15,"",""
-"9607RM",13,"",""
-"9607RM",19,"",""
-"9607RM",17,"",""
-"9607RN",4,"",""
-"9607RN",22,"",""
-"9607RN",6,"",""
-"9607RN",12,"",""
-"9607RN",8,"",""
-"9607RN",16,"",""
-"9607RN",24,"",""
-"9607RN",20,"",""
-"9607RN",14,"",""
-"9607RN",28,"",""
-"9607RN",10,"",""
-"9607RN",2,"",""
-"9607RN",26,"",""
-"9607RN",18,"",""
-"9607RP",3,"",""
-"9607RP",1,"",""
-"9607RP",15,"",""
-"9607RP",19,"",""
-"9607RP",9,"",""
-"9607RP",17,"",""
-"9607RP",11,"",""
-"9607RP",5,"",""
-"9607RP",27,"",""
-"9607RP",7,"",""
-"9607RP",13,"",""
-"9607RP",21,"",""
-"9607RP",25,"",""
-"9607RP",23,"",""
-"9607RR",14,"",""
-"9607RR",12,"",""
-"9607RR",26,"",""
-"9607RR",4,"",""
-"9607RR",2,"",""
-"9607RR",6,"",""
-"9607RR",28,"",""
-"9607RR",20,"",""
-"9607RR",24,"",""
-"9607RR",8,"",""
-"9607RR",18,"",""
-"9607RR",16,"",""
-"9607RR",10,"",""
-"9607RR",22,"",""
-"9607RS",11,"",""
-"9607RS",3,"",""
-"9607RS",15,"",""
-"9607RS",15,"",""
-"9607RS",3,"",""
-"9607RS",9,"",""
-"9607RS",1,"",""
-"9607RS",1,"",""
-"9607RS",13,"",""
-"9607RS",15,"",""
-"9607RS",1,"",""
-"9607RS",17,"",""
-"9607RS",23,"",""
-"9607RS",9,"",""
-"9607RS",13,"",""
-"9607RS",17,"",""
-"9607RS",21,"",""
-"9607RS",11,"",""
-"9607RS",25,"",""
-"9607RS",11,"",""
-"9607RS",3,"",""
-"9607RS",5,"",""
-"9607RS",9,"",""
-"9607RS",17,"",""
-"9607RS",7,"",""
-"9607RS",27,"",""
-"9607RS",13,"",""
-"9607RS",7,"",""
-"9607RS",5,"",""
-"9607RS",7,"",""
-"9607RS",5,"",""
-"9607RT",26,"",""
-"9607RT",8,"",""
-"9607RT",24,"",""
-"9607RT",28,"",""
-"9607RT",22,"",""
-"9607RT",2,"",""
-"9607RT",12,"",""
-"9607RT",20,"",""
-"9607RT",10,"",""
-"9607RT",18,"",""
-"9607RT",16,"",""
-"9607RT",14,"",""
-"9607RT",30,"",""
-"9607RT",6,"",""
-"9607RT",4,"",""
-"9607RV",20,"",""
-"9607RV",30,"",""
-"9607RV",34,"",""
-"9607RV",2,"h",""
-"9607RV",18,"",""
-"9607RV",2,"g",""
-"9607RV",2,"f",""
-"9607RV",2,"r",""
-"9607RV",1,"",""
-"9607RV",22,"",""
-"9607RV",24,"",""
-"9607RV",28,"",""
-"9607RV",12,"",""
-"9607RV",26,"",""
-"9607RV",42,"",""
-"9607RV",2,"p",""
-"9607RV",2,"q",""
-"9607RV",48,"",""
-"9607RV",2,"l",""
-"9607RV",2,"b",""
-"9607RV",14,"",""
-"9607RV",2,"i",""
-"9607RV",2,"n",""
-"9607RV",4,"",""
-"9607RV",2,"k",""
-"9607RV",36,"",""
-"9607RV",10,"",""
-"9607RV",46,"",""
-"9607RV",2,"e",""
-"9607RV",16,"",""
-"9607RV",2,"j",""
-"9607RV",2,"o",""
-"9607RV",2,"m",""
-"9607RV",2,"a",""
-"9607RV",40,"",""
-"9607RV",38,"",""
-"9607RV",32,"",""
-"9607RV",2,"c",""
-"9607RV",2,"",""
-"9607RV",6,"",""
-"9607RV",8,"",""
-"9607RV",2,"d",""
-"9607RV",44,"",""
-"9607RV",1,"",""
-"9607RW",54,"",""
-"9607RW",58,"",""
-"9607RW",60,"a",""
-"9607RW",60,"e",""
-"9607RW",52,"",""
-"9607RW",60,"",""
-"9607RW",56,"",""
-"9607RW",50,"",""
-"9607RW",60,"g",""
-"9607RW",60,"g",""
-"9607RW",60,"c",""
-"9607RW",60,"f",""
-"9607RW",60,"b",""
-"9607RW",60,"d",""
-9607RV,Eiberlaan,1,,
-9607RV,Eiberlaan,2,,
-9607RV,Eiberlaan,2,a,
-9607RV,Eiberlaan,2,b,
-9607RV,Eiberlaan,2,c,
-9607RV,Eiberlaan,2,d,
-9607RV,Eiberlaan,2,e,
-9607RV,Eiberlaan,2,f,
-9607RV,Eiberlaan,2,g,
-9607RV,Eiberlaan,2,h,
-9607RV,Eiberlaan,2,i,
-9607RV,Eiberlaan,2,j,
-9607RV,Eiberlaan,2,k,
-9607RV,Eiberlaan,2,l,
-9607RV,Eiberlaan,2,m,
-9607RV,Eiberlaan,2,n,
-9607RV,Eiberlaan,2,o,
-9607RV,Eiberlaan,2,p,
-9607RV,Eiberlaan,2,q,
-9607RV,Eiberlaan,2,r,
-9607RV,Eiberlaan,4,,
-9607RV,Eiberlaan,6,,
-9607RV,Eiberlaan,8,,
-9607RV,Eiberlaan,10,,
-9607RV,Eiberlaan,12,,
-9607RV,Eiberlaan,14,,
-9607RV,Eiberlaan,16,,
-9607RV,Eiberlaan,18,,
-9607RV,Eiberlaan,20,,
-9607RV,Eiberlaan,22,,
-9607RV,Eiberlaan,24,,
-9607RV,Eiberlaan,26,,
-9607RV,Eiberlaan,28,,
-9607RV,Eiberlaan,30,,
-9607RV,Eiberlaan,32,,
-9607RV,Eiberlaan,34,,
-9607RV,Eiberlaan,36,,
-9607RV,Eiberlaan,38,,
-9607RV,Eiberlaan,40,,
-9607RV,Eiberlaan,42,,
-9607RV,Eiberlaan,44,,
-9607RV,Eiberlaan,46,,
-9607RV,Eiberlaan,48,,
-9607RW,Eiberlaan,50,,
-9607RW,Eiberlaan,52,,
-9607RW,Eiberlaan,54,,
-9607RW,Eiberlaan,56,,
-9607RW,Eiberlaan,58,,
-9607RW,Eiberlaan,60,,
-9607RW,Eiberlaan,60,a,
-9607RW,Eiberlaan,60,b,
-9607RW,Eiberlaan,60,c,
-9607RW,Eiberlaan,60,d,
-9607RW,Eiberlaan,60,e,
-9607RW,Eiberlaan,60,f,
-9607RW,Eiberlaan,60,g,
-9607RB,Fuutlaan,1,,
-9607RB,Fuutlaan,3,,
-9607RB,Fuutlaan,5,,
-9607RB,Fuutlaan,7,,
-9607RB,Fuutlaan,9,,
-9607RB,Fuutlaan,11,,
-9607RB,Fuutlaan,13,,
-9607RB,Fuutlaan,15,,
-9607RB,Fuutlaan,17,,
-9607RB,Fuutlaan,19,,
-9607PA,Gerrit Imbosstraat,1,,
-9607PA,Gerrit Imbosstraat,3,,
-9607PA,Gerrit Imbosstraat,5,,
-9607PA,Gerrit Imbosstraat,7,,
-9607PA,Gerrit Imbosstraat,7,a,
-9607PA,Gerrit Imbosstraat,7,b,
-9607PA,Gerrit Imbosstraat,7,c,
-9607PA,Gerrit Imbosstraat,7,d,
-9607PA,Gerrit Imbosstraat,7,e,
-9607PA,Gerrit Imbosstraat,7,f,
-9607PA,Gerrit Imbosstraat,7,g,
-9607PA,Gerrit Imbosstraat,7,h,
-9607PA,Gerrit Imbosstraat,7,j,
-9607PA,Gerrit Imbosstraat,7,k,
-9607PA,Gerrit Imbosstraat,7,m,
-9607PA,Gerrit Imbosstraat,7,n,
-9607PA,Gerrit Imbosstraat,9,,
-9607PA,Gerrit Imbosstraat,11,,
-9607PA,Gerrit Imbosstraat,13,,
-9607PA,Gerrit Imbosstraat,15,,
-9607PA,Gerrit Imbosstraat,17,,
-9607PA,Gerrit Imbosstraat,19,,
-9607PA,Gerrit Imbosstraat,21,,
-9607PA,Gerrit Imbosstraat,25,,
-9607PA,Gerrit Imbosstraat,27,,
-9607PA,Gerrit Imbosstraat,27,a,
-9607PA,Gerrit Imbosstraat,29,,
-9607PA,Gerrit Imbosstraat,29,a,
-9607PA,Gerrit Imbosstraat,31,,
-9607PA,Gerrit Imbosstraat,33,,
-9607PA,Gerrit Imbosstraat,35,,
-9607PA,Gerrit Imbosstraat,37,,
-9607PA,Gerrit Imbosstraat,39,,
-9607PA,Gerrit Imbosstraat,43,,
-9607PA,Gerrit Imbosstraat,47,,
-9607PA,Gerrit Imbosstraat,49,,
-9607PB,Gerrit Imbosstraat,51,,
-9607PB,Gerrit Imbosstraat,53,,
-9607PB,Gerrit Imbosstraat,55,,
-9607PB,Gerrit Imbosstraat,57,,
-9607PB,Gerrit Imbosstraat,59,,
-9607PB,Gerrit Imbosstraat,61,,
-9607PB,Gerrit Imbosstraat,65,,
-9607PB,Gerrit Imbosstraat,65,a,
-9607PB,Gerrit Imbosstraat,67,,
-9607PB,Gerrit Imbosstraat,69,,
-9607PB,Gerrit Imbosstraat,71,,
-9607PB,Gerrit Imbosstraat,71,a,
-9607PB,Gerrit Imbosstraat,71,b,
-9607PB,Gerrit Imbosstraat,71,c,
-9607PC,Gerrit Imbosstraat,73,,
-9607PC,Gerrit Imbosstraat,75,,
-9607PC,Gerrit Imbosstraat,77,,
-9607PC,Gerrit Imbosstraat,79,,
-9607PC,Gerrit Imbosstraat,81,,
-9607PC,Gerrit Imbosstraat,83,,
-9607PC,Gerrit Imbosstraat,85,,
-9607PC,Gerrit Imbosstraat,87,,
-9607PC,Gerrit Imbosstraat,89,,
-9607PC,Gerrit Imbosstraat,91,,
-9607PC,Gerrit Imbosstraat,93,,
-9607PC,Gerrit Imbosstraat,95,,
-9607PC,Gerrit Imbosstraat,97,,
-9607PC,Gerrit Imbosstraat,99,,
-9607PC,Gerrit Imbosstraat,99,a,
-9607PC,Gerrit Imbosstraat,101,,
-9607PC,Gerrit Imbosstraat,103,,
-9607PD,Gerrit Imbosstraat,2,,
-9607PD,Gerrit Imbosstraat,4,,
-9607PD,Gerrit Imbosstraat,6,,
-9607PD,Gerrit Imbosstraat,8,,
-9607PD,Gerrit Imbosstraat,10,,
-9607PD,Gerrit Imbosstraat,12,,
-9607PD,Gerrit Imbosstraat,14,,
-9607PD,Gerrit Imbosstraat,18,,
-9607PD,Gerrit Imbosstraat,20,,
-9607PD,Gerrit Imbosstraat,22,,
-9607PD,Gerrit Imbosstraat,24,,
-9607PD,Gerrit Imbosstraat,26,,
-9607PD,Gerrit Imbosstraat,30,,
-9607PD,Gerrit Imbosstraat,32,,
-9607PD,Gerrit Imbosstraat,34,,
-9607PD,Gerrit Imbosstraat,36,,
-9607PD,Gerrit Imbosstraat,38,,
-9607PD,Gerrit Imbosstraat,40,,
-9607PE,Gerrit Imbosstraat,60,,
-9607PE,Gerrit Imbosstraat,64,,
-9607PE,Gerrit Imbosstraat,66,,
-9607PE,Gerrit Imbosstraat,76,,
-9607PE,Gerrit Imbosstraat,78,,
-9607PE,Gerrit Imbosstraat,80,,
-9607PE,Gerrit Imbosstraat,82,,
-9607PE,Gerrit Imbosstraat,84,,
-9607PE,Gerrit Imbosstraat,86,,
-9607PE,Gerrit Imbosstraat,86,a,
-9607PE,Gerrit Imbosstraat,86,b,
-9607PE,Gerrit Imbosstraat,86,c,
-9607PE,Gerrit Imbosstraat,86,d,
-9607PE,Gerrit Imbosstraat,88,,
-9607PE,Gerrit Imbosstraat,90,,
-9607PE,Gerrit Imbosstraat,92,,
-9607PE,Gerrit Imbosstraat,94,,
-9607PE,Gerrit Imbosstraat,96,,
-9607PG,Gerrit Imbosstraat,98,,
-9607PG,Gerrit Imbosstraat,98,a,
-9607PG,Gerrit Imbosstraat,98,b,
-9607PG,Gerrit Imbosstraat,100,,
-9607PG,Gerrit Imbosstraat,102,,
-9607PG,Gerrit Imbosstraat,104,,
-9607PG,Gerrit Imbosstraat,106,,
-9607PG,Gerrit Imbosstraat,108,,
-9607PG,Gerrit Imbosstraat,110,,
-9607PG,Gerrit Imbosstraat,112,,
-9607PG,Gerrit Imbosstraat,114,,
-9607PG,Gerrit Imbosstraat,116,,
-9607PG,Gerrit Imbosstraat,118,,
-9607PG,Gerrit Imbosstraat,120,,
-9607PG,Gerrit Imbosstraat,122,,
-9607RM,Gruttostraat,1,,
-9607RM,Gruttostraat,3,,
-9607RM,Gruttostraat,5,,
-9607RM,Gruttostraat,7,,
-9607RM,Gruttostraat,9,,
-9607RM,Gruttostraat,11,,
-9607RM,Gruttostraat,13,,
-9607RM,Gruttostraat,15,,
-9607RM,Gruttostraat,17,,
-9607RM,Gruttostraat,19,,
-9607RM,Gruttostraat,21,,
-9607RM,Gruttostraat,23,,
-9607RN,Gruttostraat,2,,
-9607RN,Gruttostraat,4,,
-9607RN,Gruttostraat,6,,
-9607RN,Gruttostraat,8,,
-9607RN,Gruttostraat,10,,
-9607RN,Gruttostraat,12,,
-9607RN,Gruttostraat,14,,
-9607RN,Gruttostraat,16,,
-9607RN,Gruttostraat,18,,
-9607RN,Gruttostraat,20,,
-9607RN,Gruttostraat,22,,
-9607RN,Gruttostraat,24,,
-9607RN,Gruttostraat,26,,
-9607RN,Gruttostraat,28,,
-9607PM,K. Nieboerweg,3,,
-9607PM,K. Nieboerweg,5,,
-9607PM,K. Nieboerweg,7,,
-9607PM,K. Nieboerweg,9,,
-9607PM,K. Nieboerweg,13,,
-9607PM,K. Nieboerweg,17,,
-9607PM,K. Nieboerweg,19,,
-9607PM,K. Nieboerweg,21,,
-9607PN,K. Nieboerweg,18,,
-9607PN,K. Nieboerweg,22,,
-9607PN,K. Nieboerweg,24,,
-9607PN,K. Nieboerweg,28,,
-9607PN,K. Nieboerweg,30,,
-9607PN,K. Nieboerweg,40,,
-9607PN,K. Nieboerweg,42,,
-9607PL,Krullweg,2,,
-9607PL,Krullweg,4,,
-9607PL,Krullweg,6,,
-9607PL,Krullweg,8,,
-9607PL,Krullweg,10,,
-9607PL,Krullweg,12,,
-9607PL,Krullweg,14,,
-9607PL,Krullweg,16,,
-9607PL,Krullweg,18,,
-9607RA,Meeuwenstraat,1,,
-9607RA,Meeuwenstraat,1,a,
-9607RA,Meeuwenstraat,1,b,
-9607RA,Meeuwenstraat,3,,
-9607RA,Meeuwenstraat,5,,
-9607RA,Meeuwenstraat,7,,
-9607RA,Meeuwenstraat,35,,
-9607RA,Meeuwenstraat,37,,
-9607RA,Meeuwenstraat,39,,
-9607RA,Meeuwenstraat,41,,
-9607RB,Meeuwenstraat,2,,
-9607RB,Meeuwenstraat,4,,
-9607RB,Meeuwenstraat,6,,
-9607RB,Meeuwenstraat,8,,
-9607RB,Meeuwenstraat,10,,
-9607RB,Meeuwenstraat,12,,
-9607RB,Meeuwenstraat,14,,
-9607RB,Meeuwenstraat,16,,
-9607RB,Meeuwenstraat,18,,
-9607RB,Meeuwenstraat,20,,
-9607RB,Meeuwenstraat,22,,
-9607RB,Meeuwenstraat,24,,
-9607RB,Meeuwenstraat,26,,
-9607RB,Meeuwenstraat,28,,
-9607RB,Meeuwenstraat,30,,
-9607RB,Meeuwenstraat,32,,
-9607RJ,Pluvierstraat,1,,
-9607RJ,Pluvierstraat,3,,
-9607RJ,Pluvierstraat,5,,
-9607RJ,Pluvierstraat,7,,
-9607RJ,Pluvierstraat,9,,
-9607RJ,Pluvierstraat,9,a,
-9607RJ,Pluvierstraat,13,,
-9607RJ,Pluvierstraat,15,,
-9607RJ,Pluvierstraat,17,,
-9607RJ,Pluvierstraat,19,,
-9607RJ,Pluvierstraat,21,,
-9607RJ,Pluvierstraat,23,,
-9607RJ,Pluvierstraat,25,,
-9607RJ,Pluvierstraat,11,,
-9607RK,Pluvierstraat,2,,
-9607RK,Pluvierstraat,4,,
-9607RK,Pluvierstraat,6,,
-9607RK,Pluvierstraat,8,,
-9607RK,Pluvierstraat,10,,
-9607RK,Pluvierstraat,12,,
-9607RK,Pluvierstraat,14,,
-9607RK,Pluvierstraat,16,,
-9607RK,Pluvierstraat,18,,
-9607RK,Pluvierstraat,20,,
-9607RK,Pluvierstraat,22,,
-9607RK,Pluvierstraat,24,,
-9607RK,Pluvierstraat,26,,
-9607RK,Pluvierstraat,28,,
-9607RK,Pluvierstraat,30,,
-9607RK,Pluvierstraat,32,,
-9607RK,Pluvierstraat,34,,
-9607RK,Pluvierstraat,36,,
-9607RK,Pluvierstraat,38,,
-9607RK,Pluvierstraat,40,,
-9607RK,Pluvierstraat,42,,
-9607RK,Pluvierstraat,44,,
-9607RK,Pluvierstraat,46,,
-9607RK,Pluvierstraat,48,,
-9607RK,Pluvierstraat,50,,
-9607RL,Pluvierstraat,52,,
-9607RL,Pluvierstraat,54,,
-9607RL,Pluvierstraat,56,,
-9607RL,Pluvierstraat,58,,
-9607RL,Pluvierstraat,60,,
-9607RL,Pluvierstraat,62,,
-9607RL,Pluvierstraat,74,,
-9607RL,Pluvierstraat,76,,
-9607RL,Pluvierstraat,78,,
-9607RL,Pluvierstraat,80,,
-9607RL,Pluvierstraat,82,,
-9607RL,Pluvierstraat,84,,
-9607RL,Pluvierstraat,86,,
-9607RL,Pluvierstraat,88,,
-9607RL,Pluvierstraat,90,,
-9607RL,Pluvierstraat,92,,
-9607RL,Pluvierstraat,94,,
-9607RL,Pluvierstraat,96,,
-9607RL,Pluvierstraat,98,,
-9607RL,Pluvierstraat,100,,
-9607RH,Reigerstraat,1,,
-9607RH,Reigerstraat,3,,
-9607RH,Reigerstraat,5,,
-9607RH,Reigerstraat,7,,
-9607RH,Reigerstraat,9,,
-9607RH,Reigerstraat,11,,
-9607RH,Reigerstraat,13,,
-9607RS,Roerdompstraat,1,,
-9607RS,Roerdompstraat,3,,
-9607RS,Roerdompstraat,5,,
-9607RS,Roerdompstraat,7,,
-9607RS,Roerdompstraat,9,,
-9607RS,Roerdompstraat,11,,
-9607RS,Roerdompstraat,13,,
-9607RS,Roerdompstraat,15,,
-9607RS,Roerdompstraat,17,,
-9607RS,Roerdompstraat,21,,
-9607RS,Roerdompstraat,23,,
-9607RS,Roerdompstraat,25,,
-9607RS,Roerdompstraat,27,,
-9607RS,Roerdompstraat,1,,
-9607RS,Roerdompstraat,3,,
-9607RS,Roerdompstraat,5,,
-9607RS,Roerdompstraat,7,,
-9607RS,Roerdompstraat,9,,
-9607RS,Roerdompstraat,11,,
-9607RS,Roerdompstraat,13,,
-9607RS,Roerdompstraat,15,,
-9607RS,Roerdompstraat,17,,
-9607RT,Roerdompstraat,2,,
-9607RT,Roerdompstraat,4,,
-9607RT,Roerdompstraat,6,,
-9607RT,Roerdompstraat,8,,
-9607RT,Roerdompstraat,10,,
-9607RT,Roerdompstraat,12,,
-9607RT,Roerdompstraat,14,,
-9607RT,Roerdompstraat,16,,
-9607RT,Roerdompstraat,18,,
-9607RT,Roerdompstraat,20,,
-9607RT,Roerdompstraat,22,,
-9607RT,Roerdompstraat,24,,
-9607RT,Roerdompstraat,26,,
-9607RT,Roerdompstraat,28,,
-9607RT,Roerdompstraat,30,,
-9607RD,Sniplaan,1,,
-9607RD,Sniplaan,2,,
-9607RD,Sniplaan,3,,
-9607RD,Sniplaan,4,,
-9607RD,Sniplaan,5,,
-9607RD,Sniplaan,6,,
-9607RD,Sniplaan,7,,
-9607RD,Sniplaan,8,,
-9607RD,Sniplaan,9,,
-9607RD,Sniplaan,10,,
-9607RD,Sniplaan,11,,
-9607RD,Sniplaan,12,,
-9607RD,Sniplaan,13,,
-9607RD,Sniplaan,14,,
-9607RD,Sniplaan,16,,
-9607RD,Sniplaan,17,,
-9607RD,Sniplaan,19,,
-9607RD,Sniplaan,21,,
-9607RD,Sniplaan,23,,
-9607RC,Sternlaan,2,,
-9607RC,Sternlaan,3,,
-9607RC,Sternlaan,3,a,
-9607RC,Sternlaan,1,,
-9607RC,Sternlaan,4,,
-9607RC,Sternlaan,5,,
-9607RC,Sternlaan,7,,
-9607RP,Talingstraat,1,,
-9607RP,Talingstraat,3,,
-9607RP,Talingstraat,5,,
-9607RP,Talingstraat,7,,
-9607RP,Talingstraat,9,,
-9607RP,Talingstraat,11,,
-9607RP,Talingstraat,13,,
-9607RP,Talingstraat,15,,
-9607RP,Talingstraat,17,,
-9607RP,Talingstraat,19,,
-9607RP,Talingstraat,21,,
-9607RP,Talingstraat,23,,
-9607RP,Talingstraat,25,,
-9607RP,Talingstraat,27,,
-9607RR,Talingstraat,2,,
-9607RR,Talingstraat,4,,
-9607RR,Talingstraat,6,,
-9607RR,Talingstraat,8,,
-9607RR,Talingstraat,10,,
-9607RR,Talingstraat,12,,
-9607RR,Talingstraat,14,,
-9607RR,Talingstraat,16,,
-9607RR,Talingstraat,18,,
-9607RR,Talingstraat,20,,
-9607RR,Talingstraat,22,,
-9607RR,Talingstraat,24,,
-9607RR,Talingstraat,26,,
-9607RR,Talingstraat,28,,
-9607PH,W.A. Scholtenweg,1,,
-9607PH,W.A. Scholtenweg,2,,
-9607PH,W.A. Scholtenweg,3,,
-9607PH,W.A. Scholtenweg,4,,
-9607PH,W.A. Scholtenweg,5,,
-9607PH,W.A. Scholtenweg,6,,
-9607PH,W.A. Scholtenweg,7,,
-9607PH,W.A. Scholtenweg,8,,
-9607PH,W.A. Scholtenweg,10,,
-9607PH,W.A. Scholtenweg,11,,
-9607PR,Woldweg,2,,
-9607PR,Woldweg,4,,
-9607PR,Woldweg,6,,
-9607PR,Woldweg,8,,
-9607PR,Woldweg,10,,
-9607PR,Woldweg,14,,
-9607PR,Woldweg,16,,
-9607PR,Woldweg,20,,
-9607PR,Woldweg,20,a,
-9607PR,Woldweg,22,,
-9607PR,Woldweg,24,,
-9607PR,Woldweg,26,,
-9607PR,Woldweg,28,,
-9607PR,Woldweg,32,,
-9607PR,Woldweg,34,,
-9607PR,Woldweg,36,,
-9607PR,Woldweg,38,,
-9607PR,Woldweg,40,,
-9607PR,Woldweg,46,,
-9607RE,Zwanenstraat,1,,
-9607RE,Zwanenstraat,1,a,
-9607RE,Zwanenstraat,1,b,
-9607RE,Zwanenstraat,1,c,
-9607RE,Zwanenstraat,1,d,
-9607RE,Zwanenstraat,1,e,
-9607RE,Zwanenstraat,1,f,
-9607RE,Zwanenstraat,1,g,
-9607RE,Zwanenstraat,1,h,
-9607RE,Zwanenstraat,1,i,
-9607RE,Zwanenstraat,1,j,
-9607RE,Zwanenstraat,2,a,
-9607RE,Zwanenstraat,3,,
-9607RE,Zwanenstraat,5,,
-9607RE,Zwanenstraat,7,,
-9607RE,Zwanenstraat,9,,
-9607RE,Zwanenstraat,11,,
-9607RE,Zwanenstraat,13,,
-9607RE,Zwanenstraat,15,,
-9607RE,Zwanenstraat,17,,
-9607RE,Zwanenstraat,19,,
-9607PD,Gerrit Imbosstraat,40,A,
-9607PD,Gerrit Imbosstraat,40,B,
-9607PD,Gerrit Imbosstraat,40,C,
-9607PD,Gerrit Imbosstraat,40,D,
-9607PD,Gerrit Imbosstraat,14,,
-9607PD,Gerrit Imbosstraat,14,A,
-9607PD,Gerrit Imbosstraat,14,B,
-9607PD,Gerrit Imbosstraat,16,,
-9607PD,Gerrit Imbosstraat,16,A,
-9607PD,Gerrit Imbosstraat,16,B,
-9607PD,Gerrit Imbosstraat,16,C,
-9607PD,Gerrit Imbosstraat,16,D,
-9607PD,Gerrit Imbosstraat,16,E,
-9607PM,K. Nieboerweg,11,,
-9607PM,K. Nieboerweg,15,,
-9607PM,K. Nieboerweg,11,,
-9607PR,Woldweg,38,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Gerrit Imbosstraat,1,"","",9607PA,Foxhol
+Gerrit Imbosstraat,11,"","",9607PA,Foxhol
+Gerrit Imbosstraat,13,"","",9607PA,Foxhol
+Gerrit Imbosstraat,15,"","",9607PA,Foxhol
+Gerrit Imbosstraat,17,"","",9607PA,Foxhol
+Gerrit Imbosstraat,19,"","",9607PA,Foxhol
+Gerrit Imbosstraat,21,"","",9607PA,Foxhol
+Gerrit Imbosstraat,25,"","",9607PA,Foxhol
+Gerrit Imbosstraat,27,"","",9607PA,Foxhol
+Gerrit Imbosstraat,27,A,"",9607PA,Foxhol
+Gerrit Imbosstraat,29,"","",9607PA,Foxhol
+Gerrit Imbosstraat,29,A,"",9607PA,Foxhol
+Gerrit Imbosstraat,3,"","",9607PA,Foxhol
+Gerrit Imbosstraat,31,"","",9607PA,Foxhol
+Gerrit Imbosstraat,33,"","",9607PA,Foxhol
+Gerrit Imbosstraat,35,"","",9607PA,Foxhol
+Gerrit Imbosstraat,37,"","",9607PA,Foxhol
+Gerrit Imbosstraat,39,"","",9607PA,Foxhol
+Gerrit Imbosstraat,43,"","",9607PA,Foxhol
+Gerrit Imbosstraat,47,"","",9607PA,Foxhol
+Gerrit Imbosstraat,49,"","",9607PA,Foxhol
+Gerrit Imbosstraat,5,"","",9607PA,Foxhol
+Gerrit Imbosstraat,7,"","",9607PA,Foxhol
+Gerrit Imbosstraat,7,A,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,B,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,C,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,D,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,E,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,F,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,G,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,H,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,J,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,K,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,M,"",9607PA,Foxhol
+Gerrit Imbosstraat,7,N,"",9607PA,Foxhol
+Gerrit Imbosstraat,9,"","",9607PA,Foxhol
+Gerrit Imbosstraat,51,"","",9607PB,Foxhol
+Gerrit Imbosstraat,53,"","",9607PB,Foxhol
+Gerrit Imbosstraat,55,"","",9607PB,Foxhol
+Gerrit Imbosstraat,57,"","",9607PB,Foxhol
+Gerrit Imbosstraat,59,"","",9607PB,Foxhol
+Gerrit Imbosstraat,61,"","",9607PB,Foxhol
+Gerrit Imbosstraat,65,"","",9607PB,Foxhol
+Gerrit Imbosstraat,65,A,"",9607PB,Foxhol
+Gerrit Imbosstraat,67,"","",9607PB,Foxhol
+Gerrit Imbosstraat,69,"","",9607PB,Foxhol
+Gerrit Imbosstraat,71,"","",9607PB,Foxhol
+Gerrit Imbosstraat,71,A,"",9607PB,Foxhol
+Gerrit Imbosstraat,71,B,"",9607PB,Foxhol
+Gerrit Imbosstraat,71,C,"",9607PB,Foxhol
+Gerrit Imbosstraat,101,"","",9607PC,Foxhol
+Gerrit Imbosstraat,103,"","",9607PC,Foxhol
+Gerrit Imbosstraat,73,"","",9607PC,Foxhol
+Gerrit Imbosstraat,75,"","",9607PC,Foxhol
+Gerrit Imbosstraat,77,"","",9607PC,Foxhol
+Gerrit Imbosstraat,79,"","",9607PC,Foxhol
+Gerrit Imbosstraat,81,"","",9607PC,Foxhol
+Gerrit Imbosstraat,83,"","",9607PC,Foxhol
+Gerrit Imbosstraat,85,"","",9607PC,Foxhol
+Gerrit Imbosstraat,87,"","",9607PC,Foxhol
+Gerrit Imbosstraat,89,"","",9607PC,Foxhol
+Gerrit Imbosstraat,91,"","",9607PC,Foxhol
+Gerrit Imbosstraat,93,"","",9607PC,Foxhol
+Gerrit Imbosstraat,95,"","",9607PC,Foxhol
+Gerrit Imbosstraat,97,"","",9607PC,Foxhol
+Gerrit Imbosstraat,99,"","",9607PC,Foxhol
+Gerrit Imbosstraat,99,A,"",9607PC,Foxhol
+Gerrit Imbosstraat,10,"","",9607PD,Foxhol
+Gerrit Imbosstraat,12,"","",9607PD,Foxhol
+Gerrit Imbosstraat,14,"","",9607PD,Foxhol
+Gerrit Imbosstraat,18,"","",9607PD,Foxhol
+Gerrit Imbosstraat,2,"","",9607PD,Foxhol
+Gerrit Imbosstraat,20,"","",9607PD,Foxhol
+Gerrit Imbosstraat,22,"","",9607PD,Foxhol
+Gerrit Imbosstraat,24,"","",9607PD,Foxhol
+Gerrit Imbosstraat,26,"","",9607PD,Foxhol
+Gerrit Imbosstraat,30,"","",9607PD,Foxhol
+Gerrit Imbosstraat,32,"","",9607PD,Foxhol
+Gerrit Imbosstraat,34,"","",9607PD,Foxhol
+Gerrit Imbosstraat,36,"","",9607PD,Foxhol
+Gerrit Imbosstraat,38,"","",9607PD,Foxhol
+Gerrit Imbosstraat,4,"","",9607PD,Foxhol
+Gerrit Imbosstraat,40,"","",9607PD,Foxhol
+Gerrit Imbosstraat,6,"","",9607PD,Foxhol
+Gerrit Imbosstraat,8,"","",9607PD,Foxhol
+Gerrit Imbosstraat,60,"","",9607PE,Foxhol
+Gerrit Imbosstraat,64,"","",9607PE,Foxhol
+Gerrit Imbosstraat,66,"","",9607PE,Foxhol
+Gerrit Imbosstraat,76,"","",9607PE,Foxhol
+Gerrit Imbosstraat,78,"","",9607PE,Foxhol
+Gerrit Imbosstraat,80,"","",9607PE,Foxhol
+Gerrit Imbosstraat,82,"","",9607PE,Foxhol
+Gerrit Imbosstraat,84,"","",9607PE,Foxhol
+Gerrit Imbosstraat,86,"","",9607PE,Foxhol
+Gerrit Imbosstraat,86,A,"",9607PE,Foxhol
+Gerrit Imbosstraat,86,B,"",9607PE,Foxhol
+Gerrit Imbosstraat,86,C,"",9607PE,Foxhol
+Gerrit Imbosstraat,86,D,"",9607PE,Foxhol
+Gerrit Imbosstraat,88,"","",9607PE,Foxhol
+Gerrit Imbosstraat,90,"","",9607PE,Foxhol
+Gerrit Imbosstraat,92,"","",9607PE,Foxhol
+Gerrit Imbosstraat,94,"","",9607PE,Foxhol
+Gerrit Imbosstraat,96,"","",9607PE,Foxhol
+Gerrit Imbosstraat,100,"","",9607PG,Foxhol
+Gerrit Imbosstraat,102,"","",9607PG,Foxhol
+Gerrit Imbosstraat,104,"","",9607PG,Foxhol
+Gerrit Imbosstraat,106,"","",9607PG,Foxhol
+Gerrit Imbosstraat,108,"","",9607PG,Foxhol
+Gerrit Imbosstraat,110,"","",9607PG,Foxhol
+Gerrit Imbosstraat,112,"","",9607PG,Foxhol
+Gerrit Imbosstraat,114,"","",9607PG,Foxhol
+Gerrit Imbosstraat,116,"","",9607PG,Foxhol
+Gerrit Imbosstraat,118,"","",9607PG,Foxhol
+Gerrit Imbosstraat,120,"","",9607PG,Foxhol
+Gerrit Imbosstraat,122,"","",9607PG,Foxhol
+Gerrit Imbosstraat,98,"","",9607PG,Foxhol
+Gerrit Imbosstraat,98,A,"",9607PG,Foxhol
+Gerrit Imbosstraat,98,B,"",9607PG,Foxhol
+W.A. Scholtenweg,1,"","",9607PH,Foxhol
+W.A. Scholtenweg,10,"","",9607PH,Foxhol
+W.A. Scholtenweg,11,"","",9607PH,Foxhol
+W.A. Scholtenweg,2,"","",9607PH,Foxhol
+W.A. Scholtenweg,3,"","",9607PH,Foxhol
+W.A. Scholtenweg,4,"","",9607PH,Foxhol
+W.A. Scholtenweg,5,"","",9607PH,Foxhol
+W.A. Scholtenweg,6,"","",9607PH,Foxhol
+W.A. Scholtenweg,7,"","",9607PH,Foxhol
+W.A. Scholtenweg,8,"","",9607PH,Foxhol
+Krullweg,10,"","",9607PL,Foxhol
+Krullweg,12,"","",9607PL,Foxhol
+Krullweg,14,"","",9607PL,Foxhol
+Krullweg,16,"","",9607PL,Foxhol
+Krullweg,18,"","",9607PL,Foxhol
+Krullweg,2,"","",9607PL,Foxhol
+Krullweg,4,"","",9607PL,Foxhol
+Krullweg,6,"","",9607PL,Foxhol
+Krullweg,8,"","",9607PL,Foxhol
+K. Nieboerweg,13,"","",9607PM,Foxhol
+K. Nieboerweg,13,"","",9607PM,Foxhol
+K. Nieboerweg,17,"","",9607PM,Foxhol
+K. Nieboerweg,19,"","",9607PM,Foxhol
+K. Nieboerweg,21,"","",9607PM,Foxhol
+K. Nieboerweg,3,"","",9607PM,Foxhol
+K. Nieboerweg,5,"","",9607PM,Foxhol
+K. Nieboerweg,7,"","",9607PM,Foxhol
+K. Nieboerweg,9,"","",9607PM,Foxhol
+K. Nieboerweg,18,"","",9607PN,Foxhol
+K. Nieboerweg,22,"","",9607PN,Foxhol
+K. Nieboerweg,24,"","",9607PN,Foxhol
+K. Nieboerweg,28,"","",9607PN,Foxhol
+K. Nieboerweg,30,"","",9607PN,Foxhol
+K. Nieboerweg,40,"","",9607PN,Foxhol
+K. Nieboerweg,42,"","",9607PN,Foxhol
+Woldweg,10,"","",9607PR,Foxhol
+Woldweg,14,"","",9607PR,Foxhol
+Woldweg,16,"","",9607PR,Foxhol
+Woldweg,2,"","",9607PR,Foxhol
+Woldweg,20,"","",9607PR,Foxhol
+Woldweg,20,A,"",9607PR,Foxhol
+Woldweg,22,"","",9607PR,Foxhol
+Woldweg,24,"","",9607PR,Foxhol
+Woldweg,26,"","",9607PR,Foxhol
+Woldweg,28,"","",9607PR,Foxhol
+Woldweg,32,"","",9607PR,Foxhol
+Woldweg,34,"","",9607PR,Foxhol
+Woldweg,36,"","",9607PR,Foxhol
+Woldweg,38,"","",9607PR,Foxhol
+Woldweg,4,"","",9607PR,Foxhol
+Woldweg,40,"","",9607PR,Foxhol
+Woldweg,46,"","",9607PR,Foxhol
+Woldweg,6,"","",9607PR,Foxhol
+Woldweg,8,"","",9607PR,Foxhol
+Meeuwenstraat,1,"","",9607RA,Foxhol
+Meeuwenstraat,1,A,"",9607RA,Foxhol
+Meeuwenstraat,1,B,"",9607RA,Foxhol
+Meeuwenstraat,3,"","",9607RA,Foxhol
+Meeuwenstraat,35,"","",9607RA,Foxhol
+Meeuwenstraat,37,"","",9607RA,Foxhol
+Meeuwenstraat,39,"","",9607RA,Foxhol
+Meeuwenstraat,41,"","",9607RA,Foxhol
+Meeuwenstraat,5,"","",9607RA,Foxhol
+Meeuwenstraat,7,"","",9607RA,Foxhol
+Fuutlaan,1,"","",9607RB,Foxhol
+Meeuwenstraat,10,"","",9607RB,Foxhol
+Fuutlaan,11,"","",9607RB,Foxhol
+Meeuwenstraat,12,"","",9607RB,Foxhol
+Fuutlaan,13,"","",9607RB,Foxhol
+Meeuwenstraat,14,"","",9607RB,Foxhol
+Fuutlaan,15,"","",9607RB,Foxhol
+Meeuwenstraat,16,"","",9607RB,Foxhol
+Fuutlaan,17,"","",9607RB,Foxhol
+Meeuwenstraat,18,"","",9607RB,Foxhol
+Fuutlaan,19,"","",9607RB,Foxhol
+Meeuwenstraat,2,"","",9607RB,Foxhol
+Meeuwenstraat,20,"","",9607RB,Foxhol
+Meeuwenstraat,22,"","",9607RB,Foxhol
+Meeuwenstraat,24,"","",9607RB,Foxhol
+Meeuwenstraat,26,"","",9607RB,Foxhol
+Meeuwenstraat,28,"","",9607RB,Foxhol
+Fuutlaan,3,"","",9607RB,Foxhol
+Meeuwenstraat,30,"","",9607RB,Foxhol
+Meeuwenstraat,32,"","",9607RB,Foxhol
+Meeuwenstraat,4,"","",9607RB,Foxhol
+Fuutlaan,5,"","",9607RB,Foxhol
+Meeuwenstraat,6,"","",9607RB,Foxhol
+Fuutlaan,7,"","",9607RB,Foxhol
+Meeuwenstraat,8,"","",9607RB,Foxhol
+Fuutlaan,9,"","",9607RB,Foxhol
+Sternlaan,1,"","",9607RC,Foxhol
+Sternlaan,2,"","",9607RC,Foxhol
+Sternlaan,3,"","",9607RC,Foxhol
+Sternlaan,3,A,"",9607RC,Foxhol
+Sternlaan,4,"","",9607RC,Foxhol
+Sternlaan,5,"","",9607RC,Foxhol
+Sternlaan,7,"","",9607RC,Foxhol
+Sniplaan,1,"","",9607RD,Foxhol
+Sniplaan,10,"","",9607RD,Foxhol
+Sniplaan,11,"","",9607RD,Foxhol
+Sniplaan,12,"","",9607RD,Foxhol
+Sniplaan,13,"","",9607RD,Foxhol
+Sniplaan,14,"","",9607RD,Foxhol
+Sniplaan,16,"","",9607RD,Foxhol
+Sniplaan,17,"","",9607RD,Foxhol
+Sniplaan,19,"","",9607RD,Foxhol
+Sniplaan,2,"","",9607RD,Foxhol
+Sniplaan,21,"","",9607RD,Foxhol
+Sniplaan,23,"","",9607RD,Foxhol
+Sniplaan,3,"","",9607RD,Foxhol
+Sniplaan,4,"","",9607RD,Foxhol
+Sniplaan,5,"","",9607RD,Foxhol
+Sniplaan,6,"","",9607RD,Foxhol
+Sniplaan,7,"","",9607RD,Foxhol
+Sniplaan,8,"","",9607RD,Foxhol
+Sniplaan,9,"","",9607RD,Foxhol
+Zwanenstraat,1,"","",9607RE,Foxhol
+Zwanenstraat,1,A,"",9607RE,Foxhol
+Zwanenstraat,1,B,"",9607RE,Foxhol
+Zwanenstraat,1,C,"",9607RE,Foxhol
+Zwanenstraat,1,D,"",9607RE,Foxhol
+Zwanenstraat,1,E,"",9607RE,Foxhol
+Zwanenstraat,1,F,"",9607RE,Foxhol
+Zwanenstraat,1,G,"",9607RE,Foxhol
+Zwanenstraat,1,H,"",9607RE,Foxhol
+Zwanenstraat,1,I,"",9607RE,Foxhol
+Zwanenstraat,1,J,"",9607RE,Foxhol
+Zwanenstraat,11,"","",9607RE,Foxhol
+Zwanenstraat,13,"","",9607RE,Foxhol
+Zwanenstraat,15,"","",9607RE,Foxhol
+Zwanenstraat,17,"","",9607RE,Foxhol
+Zwanenstraat,19,"","",9607RE,Foxhol
+Zwanenstraat,2,A,"",9607RE,Foxhol
+Zwanenstraat,3,"","",9607RE,Foxhol
+Zwanenstraat,5,"","",9607RE,Foxhol
+Zwanenstraat,7,"","",9607RE,Foxhol
+Zwanenstraat,9,"","",9607RE,Foxhol
+Reigerstraat,1,"","",9607RH,Foxhol
+Reigerstraat,11,"","",9607RH,Foxhol
+Reigerstraat,13,"","",9607RH,Foxhol
+Reigerstraat,3,"","",9607RH,Foxhol
+Reigerstraat,5,"","",9607RH,Foxhol
+Reigerstraat,7,"","",9607RH,Foxhol
+Reigerstraat,9,"","",9607RH,Foxhol
+Pluvierstraat,1,"","",9607RJ,Foxhol
+Pluvierstraat,11,"","",9607RJ,Foxhol
+Pluvierstraat,13,"","",9607RJ,Foxhol
+Pluvierstraat,13,"","",9607RJ,Foxhol
+Pluvierstraat,15,"","",9607RJ,Foxhol
+Pluvierstraat,17,"","",9607RJ,Foxhol
+Pluvierstraat,19,"","",9607RJ,Foxhol
+Pluvierstraat,21,"","",9607RJ,Foxhol
+Pluvierstraat,23,"","",9607RJ,Foxhol
+Pluvierstraat,25,"","",9607RJ,Foxhol
+Pluvierstraat,3,"","",9607RJ,Foxhol
+Pluvierstraat,5,"","",9607RJ,Foxhol
+Pluvierstraat,7,"","",9607RJ,Foxhol
+Pluvierstraat,9,"","",9607RJ,Foxhol
+Pluvierstraat,9,A,"",9607RJ,Foxhol
+Pluvierstraat,10,"","",9607RK,Foxhol
+Pluvierstraat,12,"","",9607RK,Foxhol
+Pluvierstraat,14,"","",9607RK,Foxhol
+Pluvierstraat,16,"","",9607RK,Foxhol
+Pluvierstraat,18,"","",9607RK,Foxhol
+Pluvierstraat,2,"","",9607RK,Foxhol
+Pluvierstraat,20,"","",9607RK,Foxhol
+Pluvierstraat,22,"","",9607RK,Foxhol
+Pluvierstraat,24,"","",9607RK,Foxhol
+Pluvierstraat,26,"","",9607RK,Foxhol
+Pluvierstraat,28,"","",9607RK,Foxhol
+Pluvierstraat,30,"","",9607RK,Foxhol
+Pluvierstraat,32,"","",9607RK,Foxhol
+Pluvierstraat,34,"","",9607RK,Foxhol
+Pluvierstraat,36,"","",9607RK,Foxhol
+Pluvierstraat,38,"","",9607RK,Foxhol
+Pluvierstraat,4,"","",9607RK,Foxhol
+Pluvierstraat,40,"","",9607RK,Foxhol
+Pluvierstraat,42,"","",9607RK,Foxhol
+Pluvierstraat,44,"","",9607RK,Foxhol
+Pluvierstraat,46,"","",9607RK,Foxhol
+Pluvierstraat,48,"","",9607RK,Foxhol
+Pluvierstraat,50,"","",9607RK,Foxhol
+Pluvierstraat,6,"","",9607RK,Foxhol
+Pluvierstraat,8,"","",9607RK,Foxhol
+Pluvierstraat,100,"","",9607RL,Foxhol
+Pluvierstraat,52,"","",9607RL,Foxhol
+Pluvierstraat,54,"","",9607RL,Foxhol
+Pluvierstraat,56,"","",9607RL,Foxhol
+Pluvierstraat,58,"","",9607RL,Foxhol
+Pluvierstraat,60,"","",9607RL,Foxhol
+Pluvierstraat,62,"","",9607RL,Foxhol
+Pluvierstraat,74,"","",9607RL,Foxhol
+Pluvierstraat,76,"","",9607RL,Foxhol
+Pluvierstraat,78,"","",9607RL,Foxhol
+Pluvierstraat,80,"","",9607RL,Foxhol
+Pluvierstraat,82,"","",9607RL,Foxhol
+Pluvierstraat,84,"","",9607RL,Foxhol
+Pluvierstraat,86,"","",9607RL,Foxhol
+Pluvierstraat,88,"","",9607RL,Foxhol
+Pluvierstraat,90,"","",9607RL,Foxhol
+Pluvierstraat,92,"","",9607RL,Foxhol
+Pluvierstraat,94,"","",9607RL,Foxhol
+Pluvierstraat,96,"","",9607RL,Foxhol
+Pluvierstraat,98,"","",9607RL,Foxhol
+Gruttostraat,1,"","",9607RM,Foxhol
+Gruttostraat,11,"","",9607RM,Foxhol
+Gruttostraat,13,"","",9607RM,Foxhol
+Gruttostraat,15,"","",9607RM,Foxhol
+Gruttostraat,17,"","",9607RM,Foxhol
+Gruttostraat,19,"","",9607RM,Foxhol
+Gruttostraat,21,"","",9607RM,Foxhol
+Gruttostraat,23,"","",9607RM,Foxhol
+Gruttostraat,3,"","",9607RM,Foxhol
+Gruttostraat,5,"","",9607RM,Foxhol
+Gruttostraat,7,"","",9607RM,Foxhol
+Gruttostraat,9,"","",9607RM,Foxhol
+Gruttostraat,10,"","",9607RN,Foxhol
+Gruttostraat,12,"","",9607RN,Foxhol
+Gruttostraat,14,"","",9607RN,Foxhol
+Gruttostraat,16,"","",9607RN,Foxhol
+Gruttostraat,18,"","",9607RN,Foxhol
+Gruttostraat,2,"","",9607RN,Foxhol
+Gruttostraat,20,"","",9607RN,Foxhol
+Gruttostraat,22,"","",9607RN,Foxhol
+Gruttostraat,24,"","",9607RN,Foxhol
+Gruttostraat,26,"","",9607RN,Foxhol
+Gruttostraat,28,"","",9607RN,Foxhol
+Gruttostraat,4,"","",9607RN,Foxhol
+Gruttostraat,6,"","",9607RN,Foxhol
+Gruttostraat,8,"","",9607RN,Foxhol
+Talingstraat,1,"","",9607RP,Foxhol
+Talingstraat,11,"","",9607RP,Foxhol
+Talingstraat,13,"","",9607RP,Foxhol
+Talingstraat,15,"","",9607RP,Foxhol
+Talingstraat,17,"","",9607RP,Foxhol
+Talingstraat,19,"","",9607RP,Foxhol
+Talingstraat,21,"","",9607RP,Foxhol
+Talingstraat,23,"","",9607RP,Foxhol
+Talingstraat,25,"","",9607RP,Foxhol
+Talingstraat,27,"","",9607RP,Foxhol
+Talingstraat,3,"","",9607RP,Foxhol
+Talingstraat,5,"","",9607RP,Foxhol
+Talingstraat,7,"","",9607RP,Foxhol
+Talingstraat,9,"","",9607RP,Foxhol
+Talingstraat,10,"","",9607RR,Foxhol
+Talingstraat,12,"","",9607RR,Foxhol
+Talingstraat,14,"","",9607RR,Foxhol
+Talingstraat,16,"","",9607RR,Foxhol
+Talingstraat,18,"","",9607RR,Foxhol
+Talingstraat,2,"","",9607RR,Foxhol
+Talingstraat,20,"","",9607RR,Foxhol
+Talingstraat,22,"","",9607RR,Foxhol
+Talingstraat,24,"","",9607RR,Foxhol
+Talingstraat,26,"","",9607RR,Foxhol
+Talingstraat,28,"","",9607RR,Foxhol
+Talingstraat,4,"","",9607RR,Foxhol
+Talingstraat,6,"","",9607RR,Foxhol
+Talingstraat,8,"","",9607RR,Foxhol
+Roerdompstraat,1,"","",9607RS,Foxhol
+Roerdompstraat,1,"","",9607RS,Foxhol
+Roerdompstraat,1,"","",9607RS,Foxhol
+Roerdompstraat,11,"","",9607RS,Foxhol
+Roerdompstraat,11,"","",9607RS,Foxhol
+Roerdompstraat,11,"","",9607RS,Foxhol
+Roerdompstraat,13,"","",9607RS,Foxhol
+Roerdompstraat,13,"","",9607RS,Foxhol
+Roerdompstraat,13,"","",9607RS,Foxhol
+Roerdompstraat,15,"","",9607RS,Foxhol
+Roerdompstraat,15,"","",9607RS,Foxhol
+Roerdompstraat,15,"","",9607RS,Foxhol
+Roerdompstraat,17,"","",9607RS,Foxhol
+Roerdompstraat,17,"","",9607RS,Foxhol
+Roerdompstraat,17,"","",9607RS,Foxhol
+Roerdompstraat,21,"","",9607RS,Foxhol
+Roerdompstraat,23,"","",9607RS,Foxhol
+Roerdompstraat,25,"","",9607RS,Foxhol
+Roerdompstraat,27,"","",9607RS,Foxhol
+Roerdompstraat,3,"","",9607RS,Foxhol
+Roerdompstraat,3,"","",9607RS,Foxhol
+Roerdompstraat,3,"","",9607RS,Foxhol
+Roerdompstraat,5,"","",9607RS,Foxhol
+Roerdompstraat,5,"","",9607RS,Foxhol
+Roerdompstraat,5,"","",9607RS,Foxhol
+Roerdompstraat,7,"","",9607RS,Foxhol
+Roerdompstraat,7,"","",9607RS,Foxhol
+Roerdompstraat,7,"","",9607RS,Foxhol
+Roerdompstraat,9,"","",9607RS,Foxhol
+Roerdompstraat,9,"","",9607RS,Foxhol
+Roerdompstraat,9,"","",9607RS,Foxhol
+Roerdompstraat,10,"","",9607RT,Foxhol
+Roerdompstraat,12,"","",9607RT,Foxhol
+Roerdompstraat,14,"","",9607RT,Foxhol
+Roerdompstraat,16,"","",9607RT,Foxhol
+Roerdompstraat,18,"","",9607RT,Foxhol
+Roerdompstraat,2,"","",9607RT,Foxhol
+Roerdompstraat,20,"","",9607RT,Foxhol
+Roerdompstraat,22,"","",9607RT,Foxhol
+Roerdompstraat,24,"","",9607RT,Foxhol
+Roerdompstraat,26,"","",9607RT,Foxhol
+Roerdompstraat,28,"","",9607RT,Foxhol
+Roerdompstraat,30,"","",9607RT,Foxhol
+Roerdompstraat,4,"","",9607RT,Foxhol
+Roerdompstraat,6,"","",9607RT,Foxhol
+Roerdompstraat,8,"","",9607RT,Foxhol
+Eiberlaan,1,"","",9607RV,Foxhol
+Eiberlaan,1,"","",9607RV,Foxhol
+Eiberlaan,10,"","",9607RV,Foxhol
+Eiberlaan,12,"","",9607RV,Foxhol
+Eiberlaan,14,"","",9607RV,Foxhol
+Eiberlaan,16,"","",9607RV,Foxhol
+Eiberlaan,18,"","",9607RV,Foxhol
+Eiberlaan,2,"","",9607RV,Foxhol
+Eiberlaan,2,A,"",9607RV,Foxhol
+Eiberlaan,2,B,"",9607RV,Foxhol
+Eiberlaan,2,C,"",9607RV,Foxhol
+Eiberlaan,2,D,"",9607RV,Foxhol
+Eiberlaan,2,E,"",9607RV,Foxhol
+Eiberlaan,2,F,"",9607RV,Foxhol
+Eiberlaan,2,G,"",9607RV,Foxhol
+Eiberlaan,2,H,"",9607RV,Foxhol
+Eiberlaan,2,I,"",9607RV,Foxhol
+Eiberlaan,2,J,"",9607RV,Foxhol
+Eiberlaan,2,K,"",9607RV,Foxhol
+Eiberlaan,2,L,"",9607RV,Foxhol
+Eiberlaan,2,M,"",9607RV,Foxhol
+Eiberlaan,2,N,"",9607RV,Foxhol
+Eiberlaan,2,O,"",9607RV,Foxhol
+Eiberlaan,2,P,"",9607RV,Foxhol
+Eiberlaan,2,Q,"",9607RV,Foxhol
+Eiberlaan,2,R,"",9607RV,Foxhol
+Eiberlaan,20,"","",9607RV,Foxhol
+Eiberlaan,22,"","",9607RV,Foxhol
+Eiberlaan,24,"","",9607RV,Foxhol
+Eiberlaan,26,"","",9607RV,Foxhol
+Eiberlaan,28,"","",9607RV,Foxhol
+Eiberlaan,30,"","",9607RV,Foxhol
+Eiberlaan,32,"","",9607RV,Foxhol
+Eiberlaan,34,"","",9607RV,Foxhol
+Eiberlaan,36,"","",9607RV,Foxhol
+Eiberlaan,38,"","",9607RV,Foxhol
+Eiberlaan,4,"","",9607RV,Foxhol
+Eiberlaan,40,"","",9607RV,Foxhol
+Eiberlaan,42,"","",9607RV,Foxhol
+Eiberlaan,44,"","",9607RV,Foxhol
+Eiberlaan,46,"","",9607RV,Foxhol
+Eiberlaan,48,"","",9607RV,Foxhol
+Eiberlaan,6,"","",9607RV,Foxhol
+Eiberlaan,8,"","",9607RV,Foxhol
+Eiberlaan,50,"","",9607RW,Foxhol
+Eiberlaan,52,"","",9607RW,Foxhol
+Eiberlaan,54,"","",9607RW,Foxhol
+Eiberlaan,56,"","",9607RW,Foxhol
+Eiberlaan,58,"","",9607RW,Foxhol
+Eiberlaan,60,"","",9607RW,Foxhol
+Eiberlaan,60,A,"",9607RW,Foxhol
+Eiberlaan,60,B,"",9607RW,Foxhol
+Eiberlaan,60,C,"",9607RW,Foxhol
+Eiberlaan,60,D,"",9607RW,Foxhol
+Eiberlaan,60,E,"",9607RW,Foxhol
+Eiberlaan,60,F,"",9607RW,Foxhol
+Eiberlaan,60,G,"",9607RW,Foxhol
+Eiberlaan,60,G,"",9607RW,Foxhol

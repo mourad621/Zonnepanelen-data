@@ -1,75 +1,76 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7843TB",17,"",""
-"7843TB",5,"",""
-"7843TB",13,"",""
-"7843TB",7,"",""
-"7843TB",1,"",""
-"7843TB",15,"",""
-"7843TB",15,"",""
-"7843TB",3,"",""
-"7843TB",11,"",""
-"7843TB",15,"",""
-"7843TC",28,"",""
-"7843TC",16,"b",""
-"7843TC",16,"a",""
-"7843TC",14,"",""
-"7843TC",8,"",""
-"7843TC",18,"",""
-"7843TC",18,"",""
-"7843TC",18,"",""
-"7843TC",16,"a",""
-"7843TC",32,"",""
-"7843TC",16,"a",""
-"7843TC",20,"",""
-"7843TC",2,"",""
-"7843TC",26,"",""
-"7843TC",24,"",""
-"7843TC",10,"",""
-"7843TC",16,"",""
-"7843TC",12,"",""
-"7843TC",4,"",""
-"7843TC",14,"a",""
-"7843TC",30,"",""
-"7843TE",9,"b",""
-"7843TE",2,"",""
-"7843TE",5,"",""
-"7843TE",1,"",""
-"7843TE",9,"",""
-"7843TE",3,"",""
-"7843TE",7,"",""
-7843TB,Achterste Erm,1,,
-7843TB,Achterste Erm,3,,
-7843TB,Achterste Erm,5,,
-7843TB,Achterste Erm,7,,
-7843TB,Achterste Erm,11,,
-7843TB,Achterste Erm,13,,
-7843TB,Achterste Erm,15,,
-7843TB,Achterste Erm,17,,
-7843TC,Achterste Erm,2,,
-7843TC,Achterste Erm,4,,
-7843TC,Achterste Erm,8,,
-7843TC,Achterste Erm,10,,
-7843TC,Achterste Erm,12,,
-7843TC,Achterste Erm,14,a,
-7843TC,Achterste Erm,14,,
-7843TC,Achterste Erm,16,,
-7843TC,Achterste Erm,18,,
-7843TC,Achterste Erm,20,,
-7843TC,Achterste Erm,24,,
-7843TC,Achterste Erm,26,,
-7843TC,Achterste Erm,28,,
-7843TC,Achterste Erm,30,,
-7843TC,Achterste Erm,32,,
-7843TC,Achterste Erm,16,a,
-7843TE,Horstingerend,1,,
-7843TE,Horstingerend,2,,
-7843TE,Horstingerend,3,,
-7843TE,Horstingerend,5,,
-7843TE,Horstingerend,7,,
-7843TE,Horstingerend,9,b,
-7843TE,Horstingerend,9,,
-7843TB,Achterste Erm,15,,
-7843TC,Achterste Erm,18,,
-7843TC,Achterste Erm,16,a,
-7843TC,Achterste Erm,16,b,
-7843TB,Hoofdstraat,52,A,07
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+17,"","","",7843TB,
+5,"","","",7843TB,
+13,"","","",7843TB,
+7,"","","",7843TB,
+1,"","","",7843TB,
+15,"","","",7843TB,
+15,"","","",7843TB,
+3,"","","",7843TB,
+11,"","","",7843TB,
+15,"","","",7843TB,
+Achterste Erm,1,"","",7843TB,Erm
+Achterste Erm,11,"","",7843TB,Erm
+Achterste Erm,13,"","",7843TB,Erm
+Achterste Erm,15,"","",7843TB,Erm
+Achterste Erm,15,"","",7843TB,Erm
+Achterste Erm,17,"","",7843TB,Erm
+Achterste Erm,3,"","",7843TB,Erm
+Achterste Erm,5,"","",7843TB,Erm
+Hoofdstraat,52,A,07,7843TB,Odoorn
+Achterste Erm,7,"","",7843TB,Erm
+28,"","","",7843TC,
+14,"","","",7843TC,
+8,"","","",7843TC,
+18,"","","",7843TC,
+18,"","","",7843TC,
+18,"","","",7843TC,
+32,"","","",7843TC,
+20,"","","",7843TC,
+2,"","","",7843TC,
+26,"","","",7843TC,
+24,"","","",7843TC,
+10,"","","",7843TC,
+16,"","","",7843TC,
+12,"","","",7843TC,
+4,"","","",7843TC,
+30,"","","",7843TC,
+Achterste Erm,10,"","",7843TC,Erm
+Achterste Erm,12,"","",7843TC,Erm
+Achterste Erm,14,"","",7843TC,Erm
+Achterste Erm,14,A,"",7843TC,Erm
+Achterste Erm,16,"","",7843TC,Erm
+Achterste Erm,16,A,"",7843TC,Erm
+Achterste Erm,16,A,"",7843TC,Erm
+Achterste Erm,16,B,"",7843TC,Erm
+Achterste Erm,18,"","",7843TC,Erm
+Achterste Erm,18,"","",7843TC,Erm
+Achterste Erm,2,"","",7843TC,Erm
+Achterste Erm,20,"","",7843TC,Erm
+Achterste Erm,24,"","",7843TC,Erm
+Achterste Erm,26,"","",7843TC,Erm
+Achterste Erm,28,"","",7843TC,Erm
+Achterste Erm,30,"","",7843TC,Erm
+Achterste Erm,32,"","",7843TC,Erm
+Achterste Erm,4,"","",7843TC,Erm
+Achterste Erm,8,"","",7843TC,Erm
+16,A,"","",7843TC,
+16,A,"","",7843TC,
+16,A,"","",7843TC,
+14,A,"","",7843TC,
+16,B,"","",7843TC,
+2,"","","",7843TE,
+5,"","","",7843TE,
+1,"","","",7843TE,
+9,"","","",7843TE,
+3,"","","",7843TE,
+7,"","","",7843TE,
+Horstingerend,1,"","",7843TE,Erm
+Horstingerend,2,"","",7843TE,Erm
+Horstingerend,3,"","",7843TE,Erm
+Horstingerend,5,"","",7843TE,Erm
+Horstingerend,7,"","",7843TE,Erm
+Horstingerend,9,"","",7843TE,Erm
+Horstingerend,9,B,"",7843TE,Erm
+9,B,"","",7843TE,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

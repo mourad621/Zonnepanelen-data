@@ -1,67 +1,67 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7142HA,Meddoseweg,7,,
-7142HA,Meddoseweg,6,,
-7142HA,Meddoseweg,6,a,
-7142HK,Banningweg,3,,
-7142HK,Banningweg,3,,
-7142HK,Banningweg,4,,
-7142HK,Banningweg,5,,
-7142HK,Banningweg,5,,
-7142HK,Banningweg,6,,
-7142HK,Banningweg,7,,
-7142HK,Banningweg,9,,
-7142HK,Banningweg,10,,
-7142HK,Banningweg,2,,
-7142HK,Banningweg,6,a,
-7142HC,Oude Klaverdijk,2,,
-7142HC,Oude Klaverdijk,4,,
-7142HA,Meddoseweg,23,,
-7142HA,Meddoseweg,33,,
-7142HA,Meddoseweg,29,,t
-7142HA,Meddoseweg,8,,t
-7142HA,Meddoseweg,21,,
-7142HA,Meddoseweg,31,,
-7142HA,Meddoseweg,1,,
-7142HA,Meddoseweg,2,,
-7142HA,Meddoseweg,3,,
-7142HA,Meddoseweg,4,,
-7142HA,Meddoseweg,5,,
-7142HA,Meddoseweg,9,,
-7142HA,Meddoseweg,11,,
-7142HA,Meddoseweg,13,,
-7142HA,Meddoseweg,15,,
-7142HA,Meddoseweg,17,,
-7142HA,Meddoseweg,25,,
-7142HA,Meddoseweg,27,,
-7142HA,Meddoseweg,29,,
-7142HA,Meddoseweg,29,a,
-7142HA,Meddoseweg,29,b,
-7142HA,Meddoseweg,35,,
-7142HA,Meddoseweg,37,,
-7142HA,Meddoseweg,37,a,
-7142HA,Meddoseweg,39,,
-7142HK,Banningweg,8,,a
-7142HK,Banningweg,8,a,
-7142HK,Banningweg,8,,
-7142HK,Banningweg,1,,
-7142HK,Banningweg,1,,
-7142HK,Banningweg,10,,
-7142HK,Banningweg,10,,
-7142HC,Oude Klaverdijk,1,,
-7142HC,Oude Klaverdijk,3,,
-7142HC,Oude Klaverdijk,5,,
-7142HC,Oude Klaverdijk,7,,
-7142HC,Oude Klaverdijk,8,,
-7142HC,Oude Klaverdijk,6,,
-7142JZ,Drostenhuis,4,,
-7142JZ,Drostenhuis,6,,
-7142JZ,Drostenhuis,8,,
-7142JZ,Drostenhuis,10,,
-7142JZ,Drostenhuis,20,,
-7142JZ,Drostenhuis,2,,
-7142JZ,Drostenhuis,16,a,
-7142JZ,Drostenhuis,18,,
-7142JZ,Drostenhuis,16,,
-7142JZ,Drostenhuis,12,,
-7142JZ,Drostenhuis,14,,
-7142JZ,Drostenhuis,18,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Meddoseweg,1,"","",7142HA,Groenlo
+Meddoseweg,11,"","",7142HA,Groenlo
+Meddoseweg,13,"","",7142HA,Groenlo
+Meddoseweg,15,"","",7142HA,Groenlo
+Meddoseweg,17,"","",7142HA,Groenlo
+Meddoseweg,2,"","",7142HA,Groenlo
+Meddoseweg,21,"","",7142HA,Groenlo
+Meddoseweg,23,"","",7142HA,Groenlo
+Meddoseweg,25,"","",7142HA,Groenlo
+Meddoseweg,27,"","",7142HA,Groenlo
+Meddoseweg,29,"","",7142HA,Groenlo
+Meddoseweg,29,"",T,7142HA,Groenlo
+Meddoseweg,29,A,"",7142HA,Groenlo
+Meddoseweg,29,B,"",7142HA,Groenlo
+Meddoseweg,3,"","",7142HA,Groenlo
+Meddoseweg,31,"","",7142HA,Groenlo
+Meddoseweg,33,"","",7142HA,Groenlo
+Meddoseweg,35,"","",7142HA,Groenlo
+Meddoseweg,37,"","",7142HA,Groenlo
+Meddoseweg,37,A,"",7142HA,Groenlo
+Meddoseweg,39,"","",7142HA,Groenlo
+Meddoseweg,4,"","",7142HA,Groenlo
+Meddoseweg,5,"","",7142HA,Groenlo
+Meddoseweg,6,"","",7142HA,Groenlo
+Meddoseweg,6,A,"",7142HA,Groenlo
+Meddoseweg,7,"","",7142HA,Groenlo
+Meddoseweg,8,"",T,7142HA,Groenlo
+Meddoseweg,9,"","",7142HA,Groenlo
+Oude Klaverdijk,1,"","",7142HC,Groenlo
+Oude Klaverdijk,2,"","",7142HC,Groenlo
+Oude Klaverdijk,3,"","",7142HC,Groenlo
+Oude Klaverdijk,4,"","",7142HC,Groenlo
+Oude Klaverdijk,5,"","",7142HC,Groenlo
+Oude Klaverdijk,6,"","",7142HC,Groenlo
+Oude Klaverdijk,7,"","",7142HC,Groenlo
+Oude Klaverdijk,8,"","",7142HC,Groenlo
+Banningweg,1,"","",7142HK,Groenlo
+Banningweg,1,"","",7142HK,Groenlo
+Banningweg,10,"","",7142HK,Groenlo
+Banningweg,10,"","",7142HK,Groenlo
+Banningweg,10,"","",7142HK,Groenlo
+Banningweg,2,"","",7142HK,Groenlo
+Banningweg,3,"","",7142HK,Groenlo
+Banningweg,3,"","",7142HK,Groenlo
+Banningweg,4,"","",7142HK,Groenlo
+Banningweg,5,"","",7142HK,Groenlo
+Banningweg,5,"","",7142HK,Groenlo
+Banningweg,6,"","",7142HK,Groenlo
+Banningweg,6,A,"",7142HK,Groenlo
+Banningweg,7,"","",7142HK,Groenlo
+Banningweg,8,"","",7142HK,Groenlo
+Banningweg,8,"",A,7142HK,Groenlo
+Banningweg,8,A,"",7142HK,Groenlo
+Banningweg,9,"","",7142HK,Groenlo
+Drostenhuis,10,"","",7142JZ,Groenlo
+Drostenhuis,12,"","",7142JZ,Groenlo
+Drostenhuis,14,"","",7142JZ,Groenlo
+Drostenhuis,16,"","",7142JZ,Groenlo
+Drostenhuis,16,A,"",7142JZ,Groenlo
+Drostenhuis,18,"","",7142JZ,Groenlo
+Drostenhuis,18,A,"",7142JZ,Groenlo
+Drostenhuis,2,"","",7142JZ,Groenlo
+Drostenhuis,20,"","",7142JZ,Groenlo
+Drostenhuis,4,"","",7142JZ,Groenlo
+Drostenhuis,6,"","",7142JZ,Groenlo
+Drostenhuis,8,"","",7142JZ,Groenlo

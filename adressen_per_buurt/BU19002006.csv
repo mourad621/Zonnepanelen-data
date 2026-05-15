@@ -1,86 +1,87 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8642WB",1,"A",""
-"8642WB",4,"",""
-"8642WB",4,"",""
-"8642WB",4,"",""
-"8642WB",1,"",""
-"8642WB",4,"",""
-"8642WB",4,"",""
-"8642WB",2,"b",""
-"8642WB",1,"A",""
-"8642WB",2,"A",""
-"8642WB",2,"",""
-"8642WC",2,"",""
-"8642WC",2,"a","MLN"
-"8642WC",1,"",""
-"8642WD",1,"","NUON"
-"8642WD",3,"",""
-"8642WD",1,"","NUON"
-"8642WD",3,"",""
-"8642WD",4,"",""
-"8642WD",2,"",""
-"8642WD",1,"",""
-"8642WE",1,"",""
-"8642WG",19,"",""
-"8642WG",15,"",""
-"8642WG",5,"",""
-"8642WG",11,"",""
-"8642WG",1,"",""
-"8642WG",12,"",""
-"8642WG",14,"",""
-"8642WG",5,"",""
-"8642WG",8,"",""
-"8642WG",2,"",""
-"8642WG",19,"",""
-"8642WG",9,"",""
-"8642WG",7,"",""
-"8642WG",7,"",""
-"8642WG",4,"",""
-"8642WG",13,"",""
-"8642WG",17,"",""
-"8642WG",5,"",""
-"8642WG",3,"",""
-"8642WH",1,"",""
-"8642WJ",1,"",""
-"8642WK",2,"",""
-8642WG,Buorren,8,,
-8642WG,Buorren,19,,
-8642WG,Buorren,15,,
-8642WG,Buorren,11,,
-8642WG,Buorren,9,,
-8642WG,Buorren,13,,
-8642WG,Buorren,12,,
-8642WG,Buorren,4,,
-8642WG,Buorren,7,,
-8642WG,Buorren,2,,
-8642WG,Buorren,14,,
-8642WG,Buorren,5,,
-8642WG,Buorren,3,,
-8642WG,Buorren,17,,
-8642WG,Buorren,1,,
-8642WG,Buorren,5,,
-8642WB,De Heide,1,,
-8642WB,De Heide,1,A,
-8642WD,Greate Wierum,1,,
-8642WD,Greate Wierum,4,,
-8642WD,Greate Wierum,2,,
-8642WD,Greate Wierum,3,,
-8642WD,Greate Wierum,1,,NUON
-8642WH,Hegedyk,1,,
-8642WB,Ivige Leane,2,A,
-8642WB,Ivige Leane,2,b,
-8642WB,Ivige Leane,2,,
-8642WB,Ivige Leane,4,,
-8642WB,Ivige Leane,4,,
-8642WB,Ivige Leane,4,,
-8642WB,Ivige Leane,4,,
-8642WJ,Molmawei,1,,
-8642WC,Nijlânsdyk,1,,
-8642WC,Nijlânsdyk,2,a,MLN
-8642WC,Nijlânsdyk,2,,
-8642WK,Slachtedyk,2,,
-8642WE,Tsjerkeleane,1,,
-8642WG,Buorren,19,,
-8642WD,Greate Wierum,4,,
-8642WD,Greate Wierum,3,,
-8642WD,Greate Wierum,3,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+4,"","","",8642WB,
+4,"","","",8642WB,
+4,"","","",8642WB,
+1,"","","",8642WB,
+4,"","","",8642WB,
+4,"","","",8642WB,
+2,"","","",8642WB,
+De Heide,1,"","",8642WB,Lytsewierrum
+De Heide,1,A,"",8642WB,Lytsewierrum
+Ivige Leane,2,"","",8642WB,Lytsewierrum
+Ivige Leane,2,A,"",8642WB,Lytsewierrum
+Ivige Leane,2,B,"",8642WB,Lytsewierrum
+Ivige Leane,4,"","",8642WB,Lytsewierrum
+Ivige Leane,4,"","",8642WB,Lytsewierrum
+Ivige Leane,4,"","",8642WB,Lytsewierrum
+Ivige Leane,4,"","",8642WB,Lytsewierrum
+1,A,"","",8642WB,
+1,A,"","",8642WB,
+2,A,"","",8642WB,
+2,B,"","",8642WB,
+2,"","","",8642WC,
+1,"","","",8642WC,
+Nijlânsdyk,1,"","",8642WC,Lytsewierrum
+Nijlânsdyk,2,"","",8642WC,Lytsewierrum
+Nijlânsdyk,2,A,MLN,8642WC,Lytsewierrum
+2,A,MLN,"",8642WC,
+3,"","","",8642WD,
+3,"","","",8642WD,
+4,"","","",8642WD,
+2,"","","",8642WD,
+1,"","","",8642WD,
+1,"",NUON,"",8642WD,
+1,"",NUON,"",8642WD,
+Greate Wierum,1,"","",8642WD,Lytsewierrum
+Greate Wierum,1,"",NUON,8642WD,Lytsewierrum
+Greate Wierum,2,"","",8642WD,Lytsewierrum
+Greate Wierum,3,"","",8642WD,Lytsewierrum
+Greate Wierum,3,"","",8642WD,Lytsewierrum
+Greate Wierum,3,A,"",8642WD,Lytsewierrum
+Greate Wierum,4,"","",8642WD,Lytsewierrum
+Greate Wierum,4,"","",8642WD,Lytsewierrum
+1,"","","",8642WE,
+Tsjerkeleane,1,"","",8642WE,Lytsewierrum
+19,"","","",8642WG,
+15,"","","",8642WG,
+5,"","","",8642WG,
+11,"","","",8642WG,
+1,"","","",8642WG,
+12,"","","",8642WG,
+14,"","","",8642WG,
+5,"","","",8642WG,
+8,"","","",8642WG,
+2,"","","",8642WG,
+19,"","","",8642WG,
+9,"","","",8642WG,
+7,"","","",8642WG,
+7,"","","",8642WG,
+4,"","","",8642WG,
+13,"","","",8642WG,
+17,"","","",8642WG,
+5,"","","",8642WG,
+3,"","","",8642WG,
+Buorren,1,"","",8642WG,Lytsewierrum
+Buorren,11,"","",8642WG,Lytsewierrum
+Buorren,12,"","",8642WG,Lytsewierrum
+Buorren,13,"","",8642WG,Lytsewierrum
+Buorren,14,"","",8642WG,Lytsewierrum
+Buorren,15,"","",8642WG,Lytsewierrum
+Buorren,17,"","",8642WG,Lytsewierrum
+Buorren,19,"","",8642WG,Lytsewierrum
+Buorren,19,"","",8642WG,Lytsewierrum
+Buorren,2,"","",8642WG,Lytsewierrum
+Buorren,3,"","",8642WG,Lytsewierrum
+Buorren,4,"","",8642WG,Lytsewierrum
+Buorren,5,"","",8642WG,Lytsewierrum
+Buorren,5,"","",8642WG,Lytsewierrum
+Buorren,7,"","",8642WG,Lytsewierrum
+Buorren,8,"","",8642WG,Lytsewierrum
+Buorren,9,"","",8642WG,Lytsewierrum
+1,"","","",8642WH,
+Hegedyk,1,"","",8642WH,Lytsewierrum
+1,"","","",8642WJ,
+Molmawei,1,"","",8642WJ,Lytsewierrum
+2,"","","",8642WK,
+Slachtedyk,2,"","",8642WK,Lytsewierrum
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

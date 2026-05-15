@@ -1,590 +1,297 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7741NH",13,"",""
-"7741NH",27,"",""
-"7741NH",25,"",""
-"7741NH",17,"",""
-"7741NH",15,"",""
-"7741NH",19,"",""
-"7741NH",13,"","naby"
-"7741PC",5,"",""
-"7741PC",21,"",""
-"7741PC",19,"",""
-"7741PC",17,"",""
-"7741PC",14,"",""
-"7741PC",9,"",""
-"7741PC",1,"",""
-"7741PC",13,"",""
-"7741PC",3,"",""
-"7741PC",10,"",""
-"7741PC",23,"",""
-"7741PC",6,"",""
-"7741PC",12,"",""
-"7741PC",11,"",""
-"7741PC",15,"",""
-"7741PC",2,"",""
-"7741PC",4,"",""
-"7741PC",7,"",""
-"7741PC",8,"",""
-"7741PD",7,"",""
-"7741PD",13,"",""
-"7741PD",3,"A",""
-"7741PD",9,"",""
-"7741PD",3,"B",""
-"7741PD",3,"D",""
-"7741PD",1,"",""
-"7741PD",3,"C",""
-"7741PD",1,"","TRA"
-"7741PD",3,"",""
-"7741PD",11,"",""
-"7741PD",5,"",""
-"7741PE",11,"",""
-"7741PE",47,"M",""
-"7741PE",23,"",""
-"7741PE",45,"",""
-"7741PE",9,"",""
-"7741PE",21,"",""
-"7741PE",49,"",""
-"7741PE",33,"",""
-"7741PE",19,"",""
-"7741PE",29,"",""
-"7741PE",27,"",""
-"7741PE",47,"",""
-"7741PE",37,"",""
-"7741PE",13,"",""
-"7741PE",51,"",""
-"7741PE",43,"",""
-"7741PE",25,"",""
-"7741PE",35,"",""
-"7741PE",41,"",""
-"7741PE",17,"",""
-"7741PE",39,"",""
-"7741PE",31,"",""
-"7741PG",4,"",""
-"7741PG",16,"",""
-"7741PG",24,"",""
-"7741PG",8,"",""
-"7741PG",28,"",""
-"7741PG",20,"",""
-"7741PG",18,"",""
-"7741PG",12,"",""
-"7741PG",6,"",""
-"7741PG",22,"",""
-"7741PG",14,"",""
-"7741PG",10,"",""
-"7741PG",2,"",""
-"7741PG",26,"",""
-"7741PH",40,"",""
-"7741PH",30,"",""
-"7741PH",42,"",""
-"7741PH",38,"",""
-"7741PH",36,"",""
-"7741PH",34,"",""
-"7741PH",44,"",""
-"7741PH",32,"",""
-"7741PJ",8,"",""
-"7741PJ",1,"",""
-"7741PJ",3,"",""
-"7741PJ",7,"",""
-"7741PJ",2,"",""
-"7741PJ",9,"",""
-"7741PJ",6,"",""
-"7741PJ",4,"",""
-"7741PJ",5,"",""
-"7741PK",13,"A","GED"
-"7741PK",21,"",""
-"7741PK",7,"",""
-"7741PK",27,"",""
-"7741PK",29,"",""
-"7741PK",5,"",""
-"7741PK",5,"A",""
-"7741PK",1,"A",""
-"7741PK",11,"",""
-"7741PK",3,"",""
-"7741PK",19,"",""
-"7741PK",13,"",""
-"7741PK",17,"",""
-"7741PK",25,"",""
-"7741PK",9,"",""
-"7741PK",1,"",""
-"7741PK",15,"",""
-"7741PK",13,"A",""
-"7741PL",61,"",""
-"7741PL",41,"",""
-"7741PL",47,"",""
-"7741PL",49,"A",""
-"7741PL",45,"",""
-"7741PL",67,"",""
-"7741PL",63,"",""
-"7741PL",33,"A",""
-"7741PL",35,"",""
-"7741PL",31,"",""
-"7741PL",37,"",""
-"7741PL",43,"",""
-"7741PL",59,"",""
-"7741PL",33,"",""
-"7741PL",51,"",""
-"7741PL",65,"",""
-"7741PL",39,"",""
-"7741PL",53,"",""
-"7741PL",49,"",""
-"7741PL",55,"",""
-"7741PL",69,"",""
-"7741PM",77,"",""
-"7741PM",75,"",""
-"7741PM",71,"",""
-"7741PM",95,"",""
-"7741PM",85,"",""
-"7741PM",73,"",""
-"7741PM",93,"",""
-"7741PM",81,"",""
-"7741PM",83,"",""
-"7741PM",89,"",""
-"7741PM",99,"",""
-"7741PN",111,"",""
-"7741PN",107,"",""
-"7741PN",103,"",""
-"7741PN",109,"A",""
-"7741PN",105,"",""
-"7741PN",109,"",""
-"7741PN",113,"",""
-"7741PP",26,"C",""
-"7741PP",24,"",""
-"7741PP",26,"",""
-"7741PP",26,"A",""
-"7741PP",26,"B",""
-"7741PP",28,"",""
-"7741PP",26,"M",""
-"7741PP",8,"",""
-"7741PP",10,"","SCH"
-"7741PP",10,"",""
-"7741PP",20,"",""
-"7741PP",12,"",""
-"7741PP",16,"",""
-"7741PP",22,"",""
-"7741PP",18,"",""
-"7741PP",14,"",""
-"7741PP",6,"",""
-"7741PP",6,"A",""
-"7741PP",4,"",""
-"7741PR",46,"",""
-"7741PR",60,"",""
-"7741PR",54,"",""
-"7741PR",64,"","ACHT"
-"7741PR",36,"",""
-"7741PR",40,"",""
-"7741PR",38,"",""
-"7741PR",54,"",""
-"7741PR",66,"",""
-"7741PR",54,"",""
-"7741PR",52,"",""
-"7741PR",48,"",""
-"7741PR",42,"",""
-"7741PR",62,"A",""
-"7741PR",32,"",""
-"7741PR",64,"",""
-"7741PR",30,"",""
-"7741PR",62,"",""
-"7741PR",50,"",""
-"7741PR",68,"",""
-"7741PR",56,"",""
-"7741PR",58,"",""
-"7741PR",44,"",""
-"7741PS",94,"",""
-"7741PS",94,"",""
-"7741PS",78,"",""
-"7741PS",94,"",""
-"7741PS",86,"",""
-"7741PS",94,"",""
-"7741PS",94,"",""
-"7741PS",92,"",""
-"7741PS",96,"",""
-"7741PS",76,"",""
-"7741PS",90,"",""
-"7741PS",98,"",""
-"7741PS",72,"",""
-"7741PS",70,"",""
-"7741PS",80,"",""
-"7741PS",74,"",""
-"7741PS",94,"",""
-"7741PS",104,"",""
-"7741PS",82,"",""
-"7741PS",102,"",""
-"7741PS",100,"",""
-"7741PS",88,"",""
-"7741PS",84,"",""
-"7741PS",94,"",""
-"7741PT",6,"",""
-"7741PT",4,"",""
-"7741PT",2,"",""
-"7741PT",14,"",""
-"7741PT",10,"",""
-"7741PT",8,"",""
-"7741PT",10,"",""
-"7741PT",16,"",""
-"7741PT",12,"",""
-"7741PV",43,"",""
-"7741PV",1,"",""
-"7741PV",9,"",""
-"7741PV",7,"",""
-"7741PV",29,"",""
-"7741PV",37,"",""
-"7741PV",11,"",""
-"7741PV",13,"",""
-"7741PV",5,"",""
-"7741PV",27,"",""
-"7741PV",45,"",""
-"7741PV",47,"",""
-"7741PV",39,"",""
-"7741PV",19,"",""
-"7741PV",15,"",""
-"7741PV",33,"",""
-"7741PV",49,"",""
-"7741PV",3,"",""
-"7741PV",21,"",""
-"7741PV",41,"",""
-"7741PV",17,"",""
-"7741PV",23,"",""
-"7741PV",35,"",""
-"7741PV",25,"",""
-"7741PV",31,"",""
-"7741PW",20,"",""
-"7741PW",23,"",""
-"7741PW",19,"",""
-"7741PW",25,"",""
-"7741PW",36,"",""
-"7741PW",12,"",""
-"7741PW",11,"",""
-"7741PW",10,"",""
-"7741PW",24,"",""
-"7741PW",29,"",""
-"7741PW",2,"",""
-"7741PW",14,"",""
-"7741PW",5,"",""
-"7741PW",17,"",""
-"7741PW",16,"",""
-"7741PW",28,"",""
-"7741PW",9,"",""
-"7741PW",1,"",""
-"7741PW",13,"",""
-"7741PW",15,"",""
-"7741PW",26,"",""
-"7741PW",8,"",""
-"7741PW",6,"",""
-"7741PW",18,"",""
-"7741PW",32,"",""
-"7741PW",30,"",""
-"7741PW",3,"",""
-"7741PW",4,"",""
-"7741PW",27,"",""
-"7741PW",21,"",""
-"7741PW",22,"",""
-"7741PW",7,"",""
-"7741PW",31,"",""
-"7741PX",19,"",""
-"7741PX",10,"",""
-"7741PX",12,"",""
-"7741PX",11,"",""
-"7741PX",9,"",""
-"7741PX",2,"",""
-"7741PX",14,"",""
-"7741PX",17,"",""
-"7741PX",4,"",""
-"7741PX",6,"",""
-"7741PX",13,"",""
-"7741PX",16,"",""
-"7741PX",18,"",""
-"7741PX",8,"",""
-"7741PX",15,"",""
-7741NH,Ballast,13,,naby
-7741NH,Ballast,13,,
-7741NH,Ballast,15,,
-7741NH,Ballast,17,,
-7741NH,Ballast,19,,
-7741NH,Ballast,25,,
-7741PD,Dreef,1,,TRA
-7741PD,Dreef,3,A,
-7741PD,Dreef,3,B,
-7741PD,Dreef,3,C,
-7741PD,Dreef,3,D,
-7741PD,Dreef,3,,
-7741PD,Dreef,5,,
-7741PD,Dreef,7,,
-7741PD,Dreef,9,,
-7741PD,Dreef,11,,
-7741PD,Dreef,13,,
-7741PX,G J Soppestraat,2,,
-7741PX,G J Soppestraat,4,,
-7741PX,G J Soppestraat,6,,
-7741PX,G J Soppestraat,8,,
-7741PX,G J Soppestraat,9,,
-7741PX,G J Soppestraat,10,,
-7741PX,G J Soppestraat,11,,
-7741PX,G J Soppestraat,12,,
-7741PX,G J Soppestraat,13,,
-7741PX,G J Soppestraat,14,,
-7741PX,G J Soppestraat,15,,
-7741PX,G J Soppestraat,16,,
-7741PX,G J Soppestraat,17,,
-7741PX,G J Soppestraat,18,,
-7741PX,G J Soppestraat,19,,
-7741PK,Hoofdweg,1,A,
-7741PK,Hoofdweg,1,,
-7741PK,Hoofdweg,3,,
-7741PK,Hoofdweg,5,A,
-7741PK,Hoofdweg,5,,
-7741PK,Hoofdweg,7,,
-7741PK,Hoofdweg,9,,
-7741PK,Hoofdweg,11,,
-7741PK,Hoofdweg,13,A,GED
-7741PK,Hoofdweg,13,A,
-7741PK,Hoofdweg,13,,
-7741PK,Hoofdweg,15,,
-7741PK,Hoofdweg,17,,
-7741PK,Hoofdweg,19,,
-7741PK,Hoofdweg,21,,
-7741PK,Hoofdweg,25,,
-7741PK,Hoofdweg,27,,
-7741PK,Hoofdweg,29,,
-7741PL,Hoofdweg,31,,
-7741PL,Hoofdweg,33,A,
-7741PL,Hoofdweg,33,,
-7741PL,Hoofdweg,35,,
-7741PL,Hoofdweg,37,,
-7741PL,Hoofdweg,39,,
-7741PL,Hoofdweg,41,,
-7741PL,Hoofdweg,43,,
-7741PL,Hoofdweg,45,,
-7741PL,Hoofdweg,47,,
-7741PL,Hoofdweg,49,A,
-7741PL,Hoofdweg,49,,
-7741PL,Hoofdweg,51,,
-7741PL,Hoofdweg,53,,
-7741PL,Hoofdweg,55,,
-7741PL,Hoofdweg,59,,
-7741PL,Hoofdweg,61,,
-7741PL,Hoofdweg,63,,
-7741PL,Hoofdweg,65,,
-7741PL,Hoofdweg,67,,
-7741PM,Hoofdweg,71,,
-7741PM,Hoofdweg,73,,
-7741PM,Hoofdweg,75,,
-7741PM,Hoofdweg,77,,
-7741PM,Hoofdweg,81,,
-7741PM,Hoofdweg,83,,
-7741PM,Hoofdweg,85,,
-7741PM,Hoofdweg,89,,
-7741PM,Hoofdweg,93,,
-7741PM,Hoofdweg,95,,
-7741PM,Hoofdweg,99,,
-7741PN,Hoofdweg,103,,
-7741PN,Hoofdweg,105,,
-7741PN,Hoofdweg,107,,
-7741PN,Hoofdweg,109,,
-7741PN,Hoofdweg,111,,
-7741PN,Hoofdweg,113,,
-7741PP,Hoofdweg,4,,
-7741PP,Hoofdweg,6,,
-7741PP,Hoofdweg,8,,
-7741PP,Hoofdweg,10,,SCH
-7741PP,Hoofdweg,10,,
-7741PP,Hoofdweg,12,,
-7741PP,Hoofdweg,14,,
-7741PP,Hoofdweg,16,,
-7741PP,Hoofdweg,18,,
-7741PP,Hoofdweg,20,,
-7741PP,Hoofdweg,22,,
-7741PP,Hoofdweg,24,,
-7741PP,Hoofdweg,26,A,
-7741PP,Hoofdweg,26,B,
-7741PP,Hoofdweg,26,C,
-7741PP,Hoofdweg,26,,
-7741PP,Hoofdweg,28,,
-7741PR,Hoofdweg,30,,
-7741PR,Hoofdweg,32,,
-7741PR,Hoofdweg,36,,
-7741PR,Hoofdweg,38,,
-7741PR,Hoofdweg,40,,
-7741PR,Hoofdweg,42,,
-7741PR,Hoofdweg,44,,
-7741PR,Hoofdweg,46,,
-7741PR,Hoofdweg,48,,
-7741PR,Hoofdweg,50,,
-7741PR,Hoofdweg,52,,
-7741PR,Hoofdweg,54,,
-7741PR,Hoofdweg,56,,
-7741PR,Hoofdweg,58,,
-7741PR,Hoofdweg,60,,
-7741PR,Hoofdweg,62,A,
-7741PR,Hoofdweg,62,,
-7741PR,Hoofdweg,64,,ACHT
-7741PR,Hoofdweg,64,,
-7741PR,Hoofdweg,66,,
-7741PR,Hoofdweg,68,,
-7741PS,Hoofdweg,70,,
-7741PS,Hoofdweg,72,,
-7741PS,Hoofdweg,74,,
-7741PS,Hoofdweg,76,,
-7741PS,Hoofdweg,78,,
-7741PS,Hoofdweg,80,,
-7741PS,Hoofdweg,82,,
-7741PS,Hoofdweg,84,,
-7741PS,Hoofdweg,86,,
-7741PS,Hoofdweg,88,,
-7741PS,Hoofdweg,90,,
-7741PS,Hoofdweg,92,,
-7741PS,Hoofdweg,94,,
-7741PS,Hoofdweg,96,,
-7741PS,Hoofdweg,98,,
-7741PS,Hoofdweg,100,,
-7741PS,Hoofdweg,102,,
-7741PS,Hoofdweg,104,,
-7741PJ,Kerkweg,1,,
-7741PJ,Kerkweg,2,,
-7741PJ,Kerkweg,3,,
-7741PJ,Kerkweg,4,,
-7741PJ,Kerkweg,5,,
-7741PJ,Kerkweg,6,,
-7741PJ,Kerkweg,7,,
-7741PJ,Kerkweg,8,,
-7741PJ,Kerkweg,9,,
-7741PC,Meester Christiaansstr,1,,
-7741PC,Meester Christiaansstr,2,,
-7741PC,Meester Christiaansstr,3,,
-7741PC,Meester Christiaansstr,4,,
-7741PC,Meester Christiaansstr,5,,
-7741PC,Meester Christiaansstr,6,,
-7741PC,Meester Christiaansstr,7,,
-7741PC,Meester Christiaansstr,8,,
-7741PC,Meester Christiaansstr,9,,
-7741PC,Meester Christiaansstr,10,,
-7741PC,Meester Christiaansstr,11,,
-7741PC,Meester Christiaansstr,12,,
-7741PC,Meester Christiaansstr,13,,
-7741PC,Meester Christiaansstr,14,,
-7741PC,Meester Christiaansstr,15,,
-7741PC,Meester Christiaansstr,17,,
-7741PC,Meester Christiaansstr,19,,
-7741PC,Meester Christiaansstr,21,,
-7741PC,Meester Christiaansstr,23,,
-7741PT,Meester Veldhuizenstraat,2,,
-7741PT,Meester Veldhuizenstraat,4,,
-7741PT,Meester Veldhuizenstraat,6,,
-7741PT,Meester Veldhuizenstraat,8,,
-7741PT,Meester Veldhuizenstraat,10,,
-7741PT,Meester Veldhuizenstraat,10,,
-7741PT,Meester Veldhuizenstraat,12,,
-7741PT,Meester Veldhuizenstraat,14,,
-7741PT,Meester Veldhuizenstraat,16,,
-7741PV,Meester Veldhuizenstraat,1,,
-7741PV,Meester Veldhuizenstraat,3,,
-7741PV,Meester Veldhuizenstraat,5,,
-7741PV,Meester Veldhuizenstraat,7,,
-7741PV,Meester Veldhuizenstraat,9,,
-7741PV,Meester Veldhuizenstraat,11,,
-7741PV,Meester Veldhuizenstraat,13,,
-7741PV,Meester Veldhuizenstraat,15,,
-7741PV,Meester Veldhuizenstraat,17,,
-7741PV,Meester Veldhuizenstraat,19,,
-7741PV,Meester Veldhuizenstraat,21,,
-7741PV,Meester Veldhuizenstraat,23,,
-7741PV,Meester Veldhuizenstraat,25,,
-7741PV,Meester Veldhuizenstraat,27,,
-7741PV,Meester Veldhuizenstraat,29,,
-7741PV,Meester Veldhuizenstraat,31,,
-7741PV,Meester Veldhuizenstraat,33,,
-7741PV,Meester Veldhuizenstraat,35,,
-7741PV,Meester Veldhuizenstraat,37,,
-7741PV,Meester Veldhuizenstraat,39,,
-7741PV,Meester Veldhuizenstraat,41,,
-7741PV,Meester Veldhuizenstraat,43,,
-7741PV,Meester Veldhuizenstraat,45,,
-7741PV,Meester Veldhuizenstraat,47,,
-7741PV,Meester Veldhuizenstraat,49,,
-7741PW,Pastoor J H Wesselstraat,1,,
-7741PW,Pastoor J H Wesselstraat,2,,
-7741PW,Pastoor J H Wesselstraat,3,,
-7741PW,Pastoor J H Wesselstraat,4,,
-7741PW,Pastoor J H Wesselstraat,5,,
-7741PW,Pastoor J H Wesselstraat,6,,
-7741PW,Pastoor J H Wesselstraat,7,,
-7741PW,Pastoor J H Wesselstraat,8,,
-7741PW,Pastoor J H Wesselstraat,9,,
-7741PW,Pastoor J H Wesselstraat,10,,
-7741PW,Pastoor J H Wesselstraat,12,,
-7741PW,Pastoor J H Wesselstraat,14,,
-7741PW,Pastoor J H Wesselstraat,16,,
-7741PW,Pastoor J H Wesselstraat,18,,
-7741PW,Pastoor J H Wesselstraat,21,,
-7741PW,Pastoor J H Wesselstraat,23,,
-7741PW,Pastoor J H Wesselstraat,24,,
-7741PW,Pastoor J H Wesselstraat,25,,
-7741PW,Pastoor J H Wesselstraat,26,,
-7741PW,Pastoor J H Wesselstraat,27,,
-7741PW,Pastoor J H Wesselstraat,28,,
-7741PW,Pastoor J H Wesselstraat,29,,
-7741PW,Pastoor J H Wesselstraat,30,,
-7741PW,Pastoor J H Wesselstraat,31,,
-7741PW,Pastoor J H Wesselstraat,32,,
-7741PW,Pastoor J H Wesselstraat,36,,
-7741PE,Pastoor Slosserstraat,9,,
-7741PE,Pastoor Slosserstraat,11,,
-7741PE,Pastoor Slosserstraat,13,,
-7741PE,Pastoor Slosserstraat,17,,
-7741PE,Pastoor Slosserstraat,19,,
-7741PE,Pastoor Slosserstraat,21,,
-7741PE,Pastoor Slosserstraat,23,,
-7741PE,Pastoor Slosserstraat,25,,
-7741PE,Pastoor Slosserstraat,27,,
-7741PE,Pastoor Slosserstraat,29,,
-7741PE,Pastoor Slosserstraat,31,,
-7741PE,Pastoor Slosserstraat,33,,
-7741PE,Pastoor Slosserstraat,35,,
-7741PE,Pastoor Slosserstraat,37,,
-7741PE,Pastoor Slosserstraat,39,,
-7741PE,Pastoor Slosserstraat,41,,
-7741PE,Pastoor Slosserstraat,43,,
-7741PE,Pastoor Slosserstraat,45,,
-7741PE,Pastoor Slosserstraat,47,,
-7741PE,Pastoor Slosserstraat,49,,
-7741PE,Pastoor Slosserstraat,51,,
-7741PG,Pastoor Slosserstraat,2,,
-7741PG,Pastoor Slosserstraat,4,,
-7741PG,Pastoor Slosserstraat,6,,
-7741PG,Pastoor Slosserstraat,8,,
-7741PG,Pastoor Slosserstraat,10,,
-7741PG,Pastoor Slosserstraat,12,,
-7741PG,Pastoor Slosserstraat,14,,
-7741PG,Pastoor Slosserstraat,16,,
-7741PG,Pastoor Slosserstraat,18,,
-7741PG,Pastoor Slosserstraat,20,,
-7741PG,Pastoor Slosserstraat,22,,
-7741PG,Pastoor Slosserstraat,24,,
-7741PG,Pastoor Slosserstraat,26,,
-7741PG,Pastoor Slosserstraat,28,,
-7741PH,Pastoor Slosserstraat,30,,
-7741PH,Pastoor Slosserstraat,32,,
-7741PH,Pastoor Slosserstraat,34,,
-7741PH,Pastoor Slosserstraat,36,,
-7741PH,Pastoor Slosserstraat,38,,
-7741PH,Pastoor Slosserstraat,40,,
-7741PH,Pastoor Slosserstraat,42,,
-7741PH,Pastoor Slosserstraat,44,,
-7741PD,Dreef,1,,
-7741PL,Hoofdweg,69,,
-7741PN,Hoofdweg,109,A,
-7741PP,Hoofdweg,6,A,
-7741PP,Hoofdweg,26,M,
-7741PR,Hoofdweg,54,,
-7741PS,Hoofdweg,94,,
-7741PS,Hoofdweg,94,,
-7741PS,Hoofdweg,94,,
-7741PS,Hoofdweg,94,,
-7741PW,Pastoor J H Wesselstraat,20,,
-7741PW,Pastoor J H Wesselstraat,22,,
-7741PW,Pastoor J H Wesselstraat,15,,
-7741PW,Pastoor J H Wesselstraat,13,,
-7741PW,Pastoor J H Wesselstraat,17,,
-7741PW,Pastoor J H Wesselstraat,19,,
-7741PW,Pastoor J H Wesselstraat,11,,
-7741PE,Pastoor Slosserstraat,47,M,
-7741NH,Albert Johan Gerardsstraat,27,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ballast,13,"","",7741NH,Coevorden
+Ballast,13,"",NABY,7741NH,Coevorden
+Ballast,15,"","",7741NH,Coevorden
+Ballast,17,"","",7741NH,Coevorden
+Ballast,19,"","",7741NH,Coevorden
+Ballast,25,"","",7741NH,Coevorden
+Albert Johan Gerardsstraat,27,"","",7741NH,Diepenveen
+Meester Christiaansstr,1,"","",7741PC,Coevorden
+Meester Christiaansstr,10,"","",7741PC,Coevorden
+Meester Christiaansstr,11,"","",7741PC,Coevorden
+Meester Christiaansstr,12,"","",7741PC,Coevorden
+Meester Christiaansstr,13,"","",7741PC,Coevorden
+Meester Christiaansstr,14,"","",7741PC,Coevorden
+Meester Christiaansstr,15,"","",7741PC,Coevorden
+Meester Christiaansstr,17,"","",7741PC,Coevorden
+Meester Christiaansstr,19,"","",7741PC,Coevorden
+Meester Christiaansstr,2,"","",7741PC,Coevorden
+Meester Christiaansstr,21,"","",7741PC,Coevorden
+Meester Christiaansstr,23,"","",7741PC,Coevorden
+Meester Christiaansstr,3,"","",7741PC,Coevorden
+Meester Christiaansstr,4,"","",7741PC,Coevorden
+Meester Christiaansstr,5,"","",7741PC,Coevorden
+Meester Christiaansstr,6,"","",7741PC,Coevorden
+Meester Christiaansstr,7,"","",7741PC,Coevorden
+Meester Christiaansstr,8,"","",7741PC,Coevorden
+Meester Christiaansstr,9,"","",7741PC,Coevorden
+Dreef,1,"","",7741PD,Coevorden
+Dreef,1,"",TRA,7741PD,Coevorden
+Dreef,11,"","",7741PD,Coevorden
+Dreef,13,"","",7741PD,Coevorden
+Dreef,3,"","",7741PD,Coevorden
+Dreef,3,A,"",7741PD,Coevorden
+Dreef,3,B,"",7741PD,Coevorden
+Dreef,3,C,"",7741PD,Coevorden
+Dreef,3,D,"",7741PD,Coevorden
+Dreef,5,"","",7741PD,Coevorden
+Dreef,7,"","",7741PD,Coevorden
+Dreef,9,"","",7741PD,Coevorden
+Pastoor Slosserstraat,11,"","",7741PE,Coevorden
+Pastoor Slosserstraat,13,"","",7741PE,Coevorden
+Pastoor Slosserstraat,17,"","",7741PE,Coevorden
+Pastoor Slosserstraat,19,"","",7741PE,Coevorden
+Pastoor Slosserstraat,21,"","",7741PE,Coevorden
+Pastoor Slosserstraat,23,"","",7741PE,Coevorden
+Pastoor Slosserstraat,25,"","",7741PE,Coevorden
+Pastoor Slosserstraat,27,"","",7741PE,Coevorden
+Pastoor Slosserstraat,29,"","",7741PE,Coevorden
+Pastoor Slosserstraat,31,"","",7741PE,Coevorden
+Pastoor Slosserstraat,33,"","",7741PE,Coevorden
+Pastoor Slosserstraat,35,"","",7741PE,Coevorden
+Pastoor Slosserstraat,37,"","",7741PE,Coevorden
+Pastoor Slosserstraat,39,"","",7741PE,Coevorden
+Pastoor Slosserstraat,41,"","",7741PE,Coevorden
+Pastoor Slosserstraat,43,"","",7741PE,Coevorden
+Pastoor Slosserstraat,45,"","",7741PE,Coevorden
+Pastoor Slosserstraat,47,"","",7741PE,Coevorden
+Pastoor Slosserstraat,47,M,"",7741PE,Coevorden
+Pastoor Slosserstraat,49,"","",7741PE,Coevorden
+Pastoor Slosserstraat,51,"","",7741PE,Coevorden
+Pastoor Slosserstraat,9,"","",7741PE,Coevorden
+Pastoor Slosserstraat,10,"","",7741PG,Coevorden
+Pastoor Slosserstraat,12,"","",7741PG,Coevorden
+Pastoor Slosserstraat,14,"","",7741PG,Coevorden
+Pastoor Slosserstraat,16,"","",7741PG,Coevorden
+Pastoor Slosserstraat,18,"","",7741PG,Coevorden
+Pastoor Slosserstraat,2,"","",7741PG,Coevorden
+Pastoor Slosserstraat,20,"","",7741PG,Coevorden
+Pastoor Slosserstraat,22,"","",7741PG,Coevorden
+Pastoor Slosserstraat,24,"","",7741PG,Coevorden
+Pastoor Slosserstraat,26,"","",7741PG,Coevorden
+Pastoor Slosserstraat,28,"","",7741PG,Coevorden
+Pastoor Slosserstraat,4,"","",7741PG,Coevorden
+Pastoor Slosserstraat,6,"","",7741PG,Coevorden
+Pastoor Slosserstraat,8,"","",7741PG,Coevorden
+Pastoor Slosserstraat,30,"","",7741PH,Coevorden
+Pastoor Slosserstraat,32,"","",7741PH,Coevorden
+Pastoor Slosserstraat,34,"","",7741PH,Coevorden
+Pastoor Slosserstraat,36,"","",7741PH,Coevorden
+Pastoor Slosserstraat,38,"","",7741PH,Coevorden
+Pastoor Slosserstraat,40,"","",7741PH,Coevorden
+Pastoor Slosserstraat,42,"","",7741PH,Coevorden
+Pastoor Slosserstraat,44,"","",7741PH,Coevorden
+Kerkweg,1,"","",7741PJ,Coevorden
+Kerkweg,2,"","",7741PJ,Coevorden
+Kerkweg,3,"","",7741PJ,Coevorden
+Kerkweg,4,"","",7741PJ,Coevorden
+Kerkweg,5,"","",7741PJ,Coevorden
+Kerkweg,6,"","",7741PJ,Coevorden
+Kerkweg,7,"","",7741PJ,Coevorden
+Kerkweg,8,"","",7741PJ,Coevorden
+Kerkweg,9,"","",7741PJ,Coevorden
+Hoofdweg,1,"","",7741PK,Coevorden
+Hoofdweg,1,A,"",7741PK,Coevorden
+Hoofdweg,11,"","",7741PK,Coevorden
+Hoofdweg,13,"","",7741PK,Coevorden
+Hoofdweg,13,A,"",7741PK,Coevorden
+Hoofdweg,13,A,GED,7741PK,Coevorden
+Hoofdweg,15,"","",7741PK,Coevorden
+Hoofdweg,17,"","",7741PK,Coevorden
+Hoofdweg,19,"","",7741PK,Coevorden
+Hoofdweg,21,"","",7741PK,Coevorden
+Hoofdweg,25,"","",7741PK,Coevorden
+Hoofdweg,27,"","",7741PK,Coevorden
+Hoofdweg,29,"","",7741PK,Coevorden
+Hoofdweg,3,"","",7741PK,Coevorden
+Hoofdweg,5,"","",7741PK,Coevorden
+Hoofdweg,5,A,"",7741PK,Coevorden
+Hoofdweg,7,"","",7741PK,Coevorden
+Hoofdweg,9,"","",7741PK,Coevorden
+Hoofdweg,31,"","",7741PL,Coevorden
+Hoofdweg,33,"","",7741PL,Coevorden
+Hoofdweg,33,A,"",7741PL,Coevorden
+Hoofdweg,35,"","",7741PL,Coevorden
+Hoofdweg,37,"","",7741PL,Coevorden
+Hoofdweg,39,"","",7741PL,Coevorden
+Hoofdweg,41,"","",7741PL,Coevorden
+Hoofdweg,43,"","",7741PL,Coevorden
+Hoofdweg,45,"","",7741PL,Coevorden
+Hoofdweg,47,"","",7741PL,Coevorden
+Hoofdweg,49,"","",7741PL,Coevorden
+Hoofdweg,49,A,"",7741PL,Coevorden
+Hoofdweg,51,"","",7741PL,Coevorden
+Hoofdweg,53,"","",7741PL,Coevorden
+Hoofdweg,55,"","",7741PL,Coevorden
+Hoofdweg,59,"","",7741PL,Coevorden
+Hoofdweg,61,"","",7741PL,Coevorden
+Hoofdweg,63,"","",7741PL,Coevorden
+Hoofdweg,65,"","",7741PL,Coevorden
+Hoofdweg,67,"","",7741PL,Coevorden
+Hoofdweg,69,"","",7741PL,Coevorden
+Hoofdweg,71,"","",7741PM,Coevorden
+Hoofdweg,73,"","",7741PM,Coevorden
+Hoofdweg,75,"","",7741PM,Coevorden
+Hoofdweg,77,"","",7741PM,Coevorden
+Hoofdweg,81,"","",7741PM,Coevorden
+Hoofdweg,83,"","",7741PM,Coevorden
+Hoofdweg,85,"","",7741PM,Coevorden
+Hoofdweg,89,"","",7741PM,Coevorden
+Hoofdweg,93,"","",7741PM,Coevorden
+Hoofdweg,95,"","",7741PM,Coevorden
+Hoofdweg,99,"","",7741PM,Coevorden
+Hoofdweg,103,"","",7741PN,Coevorden
+Hoofdweg,105,"","",7741PN,Coevorden
+Hoofdweg,107,"","",7741PN,Coevorden
+Hoofdweg,109,"","",7741PN,Coevorden
+Hoofdweg,109,A,"",7741PN,Coevorden
+Hoofdweg,111,"","",7741PN,Coevorden
+Hoofdweg,113,"","",7741PN,Coevorden
+Hoofdweg,10,"","",7741PP,Coevorden
+Hoofdweg,10,"",SCH,7741PP,Coevorden
+Hoofdweg,12,"","",7741PP,Coevorden
+Hoofdweg,14,"","",7741PP,Coevorden
+Hoofdweg,16,"","",7741PP,Coevorden
+Hoofdweg,18,"","",7741PP,Coevorden
+Hoofdweg,20,"","",7741PP,Coevorden
+Hoofdweg,22,"","",7741PP,Coevorden
+Hoofdweg,24,"","",7741PP,Coevorden
+Hoofdweg,26,"","",7741PP,Coevorden
+Hoofdweg,26,A,"",7741PP,Coevorden
+Hoofdweg,26,B,"",7741PP,Coevorden
+Hoofdweg,26,C,"",7741PP,Coevorden
+Hoofdweg,26,M,"",7741PP,Coevorden
+Hoofdweg,28,"","",7741PP,Coevorden
+Hoofdweg,4,"","",7741PP,Coevorden
+Hoofdweg,6,"","",7741PP,Coevorden
+Hoofdweg,6,A,"",7741PP,Coevorden
+Hoofdweg,8,"","",7741PP,Coevorden
+Hoofdweg,30,"","",7741PR,Coevorden
+Hoofdweg,32,"","",7741PR,Coevorden
+Hoofdweg,36,"","",7741PR,Coevorden
+Hoofdweg,38,"","",7741PR,Coevorden
+Hoofdweg,40,"","",7741PR,Coevorden
+Hoofdweg,42,"","",7741PR,Coevorden
+Hoofdweg,44,"","",7741PR,Coevorden
+Hoofdweg,46,"","",7741PR,Coevorden
+Hoofdweg,48,"","",7741PR,Coevorden
+Hoofdweg,50,"","",7741PR,Coevorden
+Hoofdweg,52,"","",7741PR,Coevorden
+Hoofdweg,54,"","",7741PR,Coevorden
+Hoofdweg,54,"","",7741PR,Coevorden
+Hoofdweg,54,"","",7741PR,Coevorden
+Hoofdweg,56,"","",7741PR,Coevorden
+Hoofdweg,58,"","",7741PR,Coevorden
+Hoofdweg,60,"","",7741PR,Coevorden
+Hoofdweg,62,"","",7741PR,Coevorden
+Hoofdweg,62,A,"",7741PR,Coevorden
+Hoofdweg,64,"","",7741PR,Coevorden
+Hoofdweg,64,"",ACHT,7741PR,Coevorden
+Hoofdweg,66,"","",7741PR,Coevorden
+Hoofdweg,68,"","",7741PR,Coevorden
+Hoofdweg,100,"","",7741PS,Coevorden
+Hoofdweg,102,"","",7741PS,Coevorden
+Hoofdweg,104,"","",7741PS,Coevorden
+Hoofdweg,70,"","",7741PS,Coevorden
+Hoofdweg,72,"","",7741PS,Coevorden
+Hoofdweg,74,"","",7741PS,Coevorden
+Hoofdweg,76,"","",7741PS,Coevorden
+Hoofdweg,78,"","",7741PS,Coevorden
+Hoofdweg,80,"","",7741PS,Coevorden
+Hoofdweg,82,"","",7741PS,Coevorden
+Hoofdweg,84,"","",7741PS,Coevorden
+Hoofdweg,86,"","",7741PS,Coevorden
+Hoofdweg,88,"","",7741PS,Coevorden
+Hoofdweg,90,"","",7741PS,Coevorden
+Hoofdweg,92,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,94,"","",7741PS,Coevorden
+Hoofdweg,96,"","",7741PS,Coevorden
+Hoofdweg,98,"","",7741PS,Coevorden
+Meester Veldhuizenstraat,10,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,10,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,12,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,14,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,16,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,2,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,4,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,6,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,8,"","",7741PT,Coevorden
+Meester Veldhuizenstraat,1,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,11,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,13,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,15,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,17,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,19,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,21,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,23,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,25,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,27,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,29,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,3,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,31,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,33,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,35,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,37,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,39,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,41,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,43,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,45,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,47,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,49,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,5,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,7,"","",7741PV,Coevorden
+Meester Veldhuizenstraat,9,"","",7741PV,Coevorden
+Pastoor J H Wesselstraat,1,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,10,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,11,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,12,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,13,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,14,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,15,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,16,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,17,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,18,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,19,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,2,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,20,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,21,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,22,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,23,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,24,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,25,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,26,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,27,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,28,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,29,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,3,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,30,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,31,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,32,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,36,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,4,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,5,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,6,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,7,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,8,"","",7741PW,Coevorden
+Pastoor J H Wesselstraat,9,"","",7741PW,Coevorden
+G J Soppestraat,10,"","",7741PX,Coevorden
+G J Soppestraat,11,"","",7741PX,Coevorden
+G J Soppestraat,12,"","",7741PX,Coevorden
+G J Soppestraat,13,"","",7741PX,Coevorden
+G J Soppestraat,14,"","",7741PX,Coevorden
+G J Soppestraat,15,"","",7741PX,Coevorden
+G J Soppestraat,16,"","",7741PX,Coevorden
+G J Soppestraat,17,"","",7741PX,Coevorden
+G J Soppestraat,18,"","",7741PX,Coevorden
+G J Soppestraat,19,"","",7741PX,Coevorden
+G J Soppestraat,2,"","",7741PX,Coevorden
+G J Soppestraat,4,"","",7741PX,Coevorden
+G J Soppestraat,6,"","",7741PX,Coevorden
+G J Soppestraat,8,"","",7741PX,Coevorden
+G J Soppestraat,9,"","",7741PX,Coevorden

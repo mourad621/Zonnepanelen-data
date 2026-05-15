@@ -1,121 +1,122 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8044PA",78,"",""
-"8044PA",107,"",""
-"8044PA",82,"A",""
-"8044PA",78,"A",""
-"8044PA",108,"",""
-"8044PA",80,"A",""
-"8044PA",35,"",""
-"8044PA",80,"A",""
-"8044PA",111,"",""
-"8044PA",80,"",""
-"8044PA",107,"T","1"
-"8044PA",111,"",""
-"8044PA",78,"",""
-"8044PA",80,"",""
-"8044PA",107,"T","1"
-"8044PA",114,"",""
-"8044PA",111,"",""
-"8044PA",80,"",""
-"8044PA",108,"",""
-"8044PA",110,"",""
-"8044PA",107,"A",""
-"8044PA",82,"",""
-"8044PA",108,"A",""
-"8044PA",78,"",""
-"8044PA",111,"A",""
-"8044PA",106,"",""
-"8044PA",108,"",""
-"8044PA",78,"A",""
-"8044PA",84,"",""
-"8044PA",108,"A",""
-"8044PA",106,"",""
-"8044PA",116,"",""
-"8044PA",78,"A",""
-"8044PA",84,"",""
-"8044PA",111,"",""
-"8044PA",82,"",""
-"8044PA",111,"A",""
-"8044PA",82,"",""
-"8044PA",109,"",""
-"8044PA",112,"",""
-"8044PA",111,"A",""
-"8044PA",108,"",""
-"8044PA",80,"",""
-"8044PC",14,"",""
-"8044PC",14,"T","1"
-"8044PC",14,"T","1"
-"8044PC",12,"",""
-"8044PC",21,"",""
-"8044PC",21,"",""
-"8044PE",65,"B",""
-"8044PE",63,"T","1"
-"8044PE",65,"",""
-"8044PE",63,"A",""
-"8044PE",65,"A",""
-"8044PE",63,"T","1"
-"8044PE",65,"B",""
-"8044PE",65,"A",""
-"8044PE",65,"",""
-"8044PE",65,"",""
-"8045PB",11,"",""
-"8045PB",7,"",""
-"8045PB",7,"A",""
-"8045PB",13,"",""
-"8045PB",11,"A",""
-"8045PB",9,"",""
-"8045PB",3,"",""
-"8045PB",5,"",""
-"8045PB",1,"",""
-8044PE,Bisschopswetering,63,A,
-8045PB,Nieuwe Wetering,1,,
-8044PC,Stuurmansweg,14,,
-8045PB,Nieuwe Wetering,9,,
-8044PA,Oude Wetering,111,A,
-8045PB,Nieuwe Wetering,5,,
-8045PB,Nieuwe Wetering,13,,
-8045PB,Nieuwe Wetering,11,A,
-8044PA,Oude Wetering,106,,
-8044PA,Oude Wetering,111,,
-8044PA,Oude Wetering,112,,
-8044PA,Oude Wetering,116,,
-8044PA,Oude Wetering,107,A,
-8044PC,Stuurmansweg,21,,
-8045PB,Nieuwe Wetering,7,A,
-8044PA,Oude Wetering,108,,
-8044PA,Oude Wetering,35,,
-8045PB,Nieuwe Wetering,7,,
-8045PB,Nieuwe Wetering,11,,
-8044PA,Oude Wetering,109,,
-8044PA,Oude Wetering,108,A,
-8044PE,Bisschopswetering,65,,
-8045PB,Nieuwe Wetering,3,,
-8044PA,Oude Wetering,114,,
-8044PA,Oude Wetering,107,,
-8044PA,Oude Wetering,80,,
-8044PC,Stuurmansweg,12,,
-8044PE,Bisschopswetering,63,T,1
-8044PE,Bisschopswetering,63,T,1
-8044PA,Oude Wetering,110,,
-8044PA,Oude Wetering,80,A,
-8044PA,Oude Wetering,80,,
-8044PA,Oude Wetering,78,A,
-8044PA,Oude Wetering,78,,
-8044PA,Oude Wetering,78,,
-8044PA,Oude Wetering,78,A,
-8044PA,Oude Wetering,84,,
-8044PA,Oude Wetering,108,,
-8044PA,Oude Wetering,108,,
-8044PA,Oude Wetering,111,,
-8044PA,Oude Wetering,111,,
-8044PA,Oude Wetering,107,T,1
-8044PA,Oude Wetering,107,T,1
-8044PA,Oude Wetering,111,A,
-8044PA,Oude Wetering,82,,
-8044PA,Oude Wetering,82,,
-8044PA,Oude Wetering,82,A,
-8044PC,Stuurmansweg,14,T,1
-8044PC,Stuurmansweg,14,T,1
-8044PE,Bisschopswetering,65,A,
-8044PE,Bisschopswetering,65,B,
-8044PE,Bisschopswetering,65,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+78,"","","",8044PA,
+107,"","","",8044PA,
+108,"","","",8044PA,
+35,"","","",8044PA,
+111,"","","",8044PA,
+80,"","","",8044PA,
+111,"","","",8044PA,
+78,"","","",8044PA,
+80,"","","",8044PA,
+114,"","","",8044PA,
+111,"","","",8044PA,
+80,"","","",8044PA,
+108,"","","",8044PA,
+110,"","","",8044PA,
+82,"","","",8044PA,
+78,"","","",8044PA,
+106,"","","",8044PA,
+108,"","","",8044PA,
+84,"","","",8044PA,
+106,"","","",8044PA,
+116,"","","",8044PA,
+84,"","","",8044PA,
+111,"","","",8044PA,
+82,"","","",8044PA,
+82,"","","",8044PA,
+109,"","","",8044PA,
+112,"","","",8044PA,
+108,"","","",8044PA,
+80,"","","",8044PA,
+Oude Wetering,106,"","",8044PA,Zwolle
+Oude Wetering,107,"","",8044PA,Zwolle
+Oude Wetering,107,A,"",8044PA,Zwolle
+Oude Wetering,107,T,1,8044PA,Zwolle
+Oude Wetering,107,T,1,8044PA,Zwolle
+Oude Wetering,108,"","",8044PA,Zwolle
+Oude Wetering,108,"","",8044PA,Zwolle
+Oude Wetering,108,"","",8044PA,Zwolle
+Oude Wetering,108,A,"",8044PA,Zwolle
+Oude Wetering,109,"","",8044PA,Zwolle
+Oude Wetering,110,"","",8044PA,Zwolle
+Oude Wetering,111,"","",8044PA,Zwolle
+Oude Wetering,111,"","",8044PA,Zwolle
+Oude Wetering,111,"","",8044PA,Zwolle
+Oude Wetering,111,A,"",8044PA,Zwolle
+Oude Wetering,111,A,"",8044PA,Zwolle
+Oude Wetering,112,"","",8044PA,Zwolle
+Oude Wetering,114,"","",8044PA,Zwolle
+Oude Wetering,116,"","",8044PA,Zwolle
+Oude Wetering,35,"","",8044PA,Zwolle
+Oude Wetering,78,"","",8044PA,Zwolle
+Oude Wetering,78,"","",8044PA,Zwolle
+Oude Wetering,78,A,"",8044PA,Zwolle
+Oude Wetering,78,A,"",8044PA,Zwolle
+Oude Wetering,80,"","",8044PA,Zwolle
+Oude Wetering,80,"","",8044PA,Zwolle
+Oude Wetering,80,A,"",8044PA,Zwolle
+Oude Wetering,82,"","",8044PA,Zwolle
+Oude Wetering,82,"","",8044PA,Zwolle
+Oude Wetering,82,A,"",8044PA,Zwolle
+Oude Wetering,84,"","",8044PA,Zwolle
+82,A,"","",8044PA,
+78,A,"","",8044PA,
+80,A,"","",8044PA,
+80,A,"","",8044PA,
+107,A,"","",8044PA,
+108,A,"","",8044PA,
+111,A,"","",8044PA,
+78,A,"","",8044PA,
+108,A,"","",8044PA,
+78,A,"","",8044PA,
+111,A,"","",8044PA,
+111,A,"","",8044PA,
+107,T,1,"",8044PA,
+107,T,1,"",8044PA,
+14,"","","",8044PC,
+12,"","","",8044PC,
+21,"","","",8044PC,
+21,"","","",8044PC,
+Stuurmansweg,12,"","",8044PC,Zwolle
+Stuurmansweg,14,"","",8044PC,Zwolle
+Stuurmansweg,14,T,1,8044PC,Zwolle
+Stuurmansweg,14,T,1,8044PC,Zwolle
+Stuurmansweg,21,"","",8044PC,Zwolle
+14,T,1,"",8044PC,
+14,T,1,"",8044PC,
+65,"","","",8044PE,
+65,"","","",8044PE,
+65,"","","",8044PE,
+Bisschopswetering,63,A,"",8044PE,Zwolle
+Bisschopswetering,63,T,1,8044PE,Zwolle
+Bisschopswetering,63,T,1,8044PE,Zwolle
+Bisschopswetering,65,"","",8044PE,Zwolle
+Bisschopswetering,65,"","",8044PE,Zwolle
+Bisschopswetering,65,A,"",8044PE,Zwolle
+Bisschopswetering,65,B,"",8044PE,Zwolle
+63,A,"","",8044PE,
+65,A,"","",8044PE,
+65,A,"","",8044PE,
+65,B,"","",8044PE,
+65,B,"","",8044PE,
+63,T,1,"",8044PE,
+63,T,1,"",8044PE,
+11,"","","",8045PB,
+7,"","","",8045PB,
+13,"","","",8045PB,
+9,"","","",8045PB,
+3,"","","",8045PB,
+5,"","","",8045PB,
+1,"","","",8045PB,
+Nieuwe Wetering,1,"","",8045PB,Zwolle
+Nieuwe Wetering,11,"","",8045PB,Zwolle
+Nieuwe Wetering,11,A,"",8045PB,Zwolle
+Nieuwe Wetering,13,"","",8045PB,Zwolle
+Nieuwe Wetering,3,"","",8045PB,Zwolle
+Nieuwe Wetering,5,"","",8045PB,Zwolle
+Nieuwe Wetering,7,"","",8045PB,Zwolle
+Nieuwe Wetering,7,A,"",8045PB,Zwolle
+Nieuwe Wetering,9,"","",8045PB,Zwolle
+7,A,"","",8045PB,
+11,A,"","",8045PB,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

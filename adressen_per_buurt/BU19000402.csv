@@ -1,112 +1,113 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8721EW",16,"",""
-"8721EW",4,"",""
-"8721EW",8,"",""
-"8721EW",7,"",""
-"8721EW",12,"",""
-"8721EW",5,"",""
-"8721EW",24,"",""
-"8721EW",20,"",""
-"8721EW",1,"",""
-"8721EW",10,"",""
-"8721EW",2,"",""
-"8721EW",3,"",""
-"8721EW",30,"",""
-"8721EW",28,"",""
-"8721EW",22,"",""
-"8721EW",26,"",""
-"8721EW",14,"",""
-"8721EX",8,"",""
-"8721EX",17,"",""
-"8721EX",21,"",""
-"8721EX",19,"",""
-"8721EX",7,"",""
-"8721EX",1,"",""
-"8721EX",10,"",""
-"8721EX",11,"",""
-"8721EX",15,"",""
-"8721EX",2,"",""
-"8721EX",9,"",""
-"8721EX",6,"",""
-"8721EX",13,"",""
-"8721EX",5,"",""
-"8721EX",7,"",""
-"8721EX",3,"",""
-"8721GK",18,"",""
-"8721GK",10,"",""
-"8721GK",24,"",""
-"8721GK",20,"",""
-"8721GK",22,"",""
-"8721GK",4,"",""
-"8721GK",26,"",""
-"8721GK",28,"",""
-"8721GK",30,"",""
-"8721GK",12,"",""
-"8721GK",3,"",""
-"8721GK",8,"",""
-"8721GK",1,"",""
-"8721GK",2,"",""
-"8721GK",14,"",""
-"8721GK",16,"",""
-"8721GW",8,"",""
-"8721GW",6,"",""
-"8721GW",1,"",""
-"8721GW",4,"A",""
-"8721GW",12,"",""
-"8721GW",4,"",""
-8721EW,Laaksum,8,,
-8721EW,Laaksum,12,,
-8721EW,Laaksum,14,,
-8721EW,Laaksum,3,,
-8721EW,Laaksum,1,,
-8721EW,Laaksum,16,,
-8721EW,Laaksum,20,,
-8721EW,Laaksum,2,,
-8721EW,Laaksum,5,,
-8721EW,Laaksum,22,,
-8721EW,Laaksum,7,,
-8721GK,Reade Wei,24,,
-8721GK,Reade Wei,2,,
-8721GK,Reade Wei,28,,
-8721GK,Reade Wei,3,,
-8721GK,Reade Wei,30,,
-8721GK,Reade Wei,4,,
-8721EX,Skarl,3,,
-8721EX,Skarl,9,,
-8721EX,Skarl,1,,
-8721EX,Skarl,19,,
-8721EX,Skarl,7,,
-8721EX,Skarl,7,,
-8721EX,Skarl,21,,
-8721EX,Skarl,8,,
-8721EX,Skarl,5,,
-8721EX,Skarl,10,,
-8721GW,Skarlerdyk,12,,
-8721GW,Skarlerdyk,4,A,
-8721GW,Skarlerdyk,4,,
-8721EW,Laaksum,24,,
-8721EW,Laaksum,10,,
-8721EW,Laaksum,4,,
-8721EW,Laaksum,28,,
-8721EW,Laaksum,26,,
-8721EW,Laaksum,30,,
-8721GK,Reade Wei,8,,
-8721GK,Reade Wei,14,,
-8721GK,Reade Wei,26,,
-8721GK,Reade Wei,10,,
-8721GK,Reade Wei,16,,
-8721GK,Reade Wei,12,,
-8721GK,Reade Wei,20,,
-8721GK,Reade Wei,18,,
-8721GK,Reade Wei,1,,
-8721GK,Reade Wei,22,,
-8721EX,Skarl,13,,
-8721EX,Skarl,2,,
-8721EX,Skarl,11,,
-8721EX,Skarl,15,,
-8721EX,Skarl,6,,
-8721EX,Skarl,17,,
-8721GW,Skarlerdyk,8,,
-8721GW,Skarlerdyk,1,,
-8721GW,Skarlerdyk,6,,
-8721GW,Skarlerdyk,1,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+16,"","","",8721EW,
+4,"","","",8721EW,
+8,"","","",8721EW,
+7,"","","",8721EW,
+12,"","","",8721EW,
+5,"","","",8721EW,
+24,"","","",8721EW,
+20,"","","",8721EW,
+1,"","","",8721EW,
+10,"","","",8721EW,
+2,"","","",8721EW,
+3,"","","",8721EW,
+30,"","","",8721EW,
+28,"","","",8721EW,
+22,"","","",8721EW,
+26,"","","",8721EW,
+14,"","","",8721EW,
+Laaksum,1,"","",8721EW,Warns
+Laaksum,10,"","",8721EW,Warns
+Laaksum,12,"","",8721EW,Warns
+Laaksum,14,"","",8721EW,Warns
+Laaksum,16,"","",8721EW,Warns
+Laaksum,2,"","",8721EW,Warns
+Laaksum,20,"","",8721EW,Warns
+Laaksum,22,"","",8721EW,Warns
+Laaksum,24,"","",8721EW,Warns
+Laaksum,26,"","",8721EW,Warns
+Laaksum,28,"","",8721EW,Warns
+Laaksum,3,"","",8721EW,Warns
+Laaksum,30,"","",8721EW,Warns
+Laaksum,4,"","",8721EW,Warns
+Laaksum,5,"","",8721EW,Warns
+Laaksum,7,"","",8721EW,Warns
+Laaksum,8,"","",8721EW,Warns
+8,"","","",8721EX,
+17,"","","",8721EX,
+21,"","","",8721EX,
+19,"","","",8721EX,
+7,"","","",8721EX,
+1,"","","",8721EX,
+10,"","","",8721EX,
+11,"","","",8721EX,
+15,"","","",8721EX,
+2,"","","",8721EX,
+9,"","","",8721EX,
+6,"","","",8721EX,
+13,"","","",8721EX,
+5,"","","",8721EX,
+7,"","","",8721EX,
+3,"","","",8721EX,
+Skarl,1,"","",8721EX,Warns
+Skarl,10,"","",8721EX,Warns
+Skarl,11,"","",8721EX,Warns
+Skarl,13,"","",8721EX,Warns
+Skarl,15,"","",8721EX,Warns
+Skarl,17,"","",8721EX,Warns
+Skarl,19,"","",8721EX,Warns
+Skarl,2,"","",8721EX,Warns
+Skarl,21,"","",8721EX,Warns
+Skarl,3,"","",8721EX,Warns
+Skarl,5,"","",8721EX,Warns
+Skarl,6,"","",8721EX,Warns
+Skarl,7,"","",8721EX,Warns
+Skarl,7,"","",8721EX,Warns
+Skarl,8,"","",8721EX,Warns
+Skarl,9,"","",8721EX,Warns
+18,"","","",8721GK,
+10,"","","",8721GK,
+24,"","","",8721GK,
+20,"","","",8721GK,
+22,"","","",8721GK,
+4,"","","",8721GK,
+26,"","","",8721GK,
+28,"","","",8721GK,
+30,"","","",8721GK,
+12,"","","",8721GK,
+3,"","","",8721GK,
+8,"","","",8721GK,
+1,"","","",8721GK,
+2,"","","",8721GK,
+14,"","","",8721GK,
+16,"","","",8721GK,
+Reade Wei,1,"","",8721GK,Warns
+Reade Wei,10,"","",8721GK,Warns
+Reade Wei,12,"","",8721GK,Warns
+Reade Wei,14,"","",8721GK,Warns
+Reade Wei,16,"","",8721GK,Warns
+Reade Wei,18,"","",8721GK,Warns
+Reade Wei,2,"","",8721GK,Warns
+Reade Wei,20,"","",8721GK,Warns
+Reade Wei,22,"","",8721GK,Warns
+Reade Wei,24,"","",8721GK,Warns
+Reade Wei,26,"","",8721GK,Warns
+Reade Wei,28,"","",8721GK,Warns
+Reade Wei,3,"","",8721GK,Warns
+Reade Wei,30,"","",8721GK,Warns
+Reade Wei,4,"","",8721GK,Warns
+Reade Wei,8,"","",8721GK,Warns
+8,"","","",8721GW,
+6,"","","",8721GW,
+1,"","","",8721GW,
+12,"","","",8721GW,
+4,"","","",8721GW,
+Skarlerdyk,1,"","",8721GW,Warns
+Skarlerdyk,1,A,"",8721GW,Warns
+Skarlerdyk,12,"","",8721GW,Warns
+Skarlerdyk,4,"","",8721GW,Warns
+Skarlerdyk,4,A,"",8721GW,Warns
+Skarlerdyk,6,"","",8721GW,Warns
+Skarlerdyk,8,"","",8721GW,Warns
+4,A,"","",8721GW,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

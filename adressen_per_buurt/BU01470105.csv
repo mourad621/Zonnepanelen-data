@@ -1,284 +1,143 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7626LA",34,"",""
-"7626LA",3,"",""
-"7626LA",6,"",""
-"7626LA",36,"",""
-"7626LA",32,"",""
-"7626LA",2,"",""
-"7626LA",4,"",""
-"7626LA",6,"",""
-"7626LA",2,"",""
-"7626LA",36,"",""
-"7626LA",1,"",""
-"7626LB",9,"",""
-"7626LB",7,"",""
-"7626LB",4,"",""
-"7626LB",2,"",""
-"7626LB",5,"",""
-"7626LB",1,"",""
-"7626LB",7,"",""
-"7626LB",3,"",""
-"7626LB",8,"",""
-"7626LB",6,"",""
-"7626LK",2,"a",""
-"7626LK",2,"f",""
-"7626LK",2,"f",""
-"7626LK",1,"",""
-"7626LK",4,"",""
-"7626LK",2,"b",""
-"7626LK",6,"",""
-"7626LK",2,"b",""
-"7626LK",2,"",""
-"7626LK",2,"e",""
-"7626LK",2,"f",""
-"7626LK",2,"a",""
-"7626LP",3,"",""
-"7626LP",1,"",""
-"7626LP",1,"a",""
-"7626LP",2,"",""
-"7626LP",2,"a",""
-"7626LP",5,"",""
-"7626LP",2,"c",""
-"7626LP",1,"b",""
-"7626LP",1,"c",""
-"7626LV",31,"a",""
-"7626LV",27,"",""
-"7626LV",29,"a",""
-"7626LV",31,"",""
-"7626LV",37,"",""
-"7626LV",33,"",""
-"7626LV",35,"",""
-"7626LV",35,"c",""
-"7626LV",29,"",""
-"7626LV",35,"c",""
-"7626LV",5,"a",""
-"7626LV",35,"a",""
-"7626LV",15,"",""
-"7626LV",5,"",""
-"7626LV",13,"",""
-"7626LV",3,"",""
-"7626LV",25,"",""
-"7626LV",7,"",""
-"7626LV",11,"",""
-"7626LV",9,"",""
-"7626LV",17,"",""
-"7626LW",14,"",""
-"7626LW",30,"",""
-"7626LW",6,"",""
-"7626LW",8,"",""
-"7626LW",24,"",""
-"7626LW",12,"",""
-"7626LW",32,"",""
-"7626LW",10,"",""
-"7626LW",26,"",""
-"7626LW",36,"",""
-"7626LW",2,"",""
-"7626LW",22,"",""
-"7626LW",18,"",""
-"7626LW",20,"a",""
-"7626LW",28,"",""
-"7626LW",20,"",""
-"7626LW",16,"",""
-"7626LW",4,"",""
-"7626LX",33,"",""
-"7626LX",7,"",""
-"7626LX",9,"",""
-"7626LX",4,"",""
-"7626LX",1,"a",""
-"7626LX",3,"",""
-"7626LX",25,"",""
-"7626LX",35,"",""
-"7626LX",29,"",""
-"7626LX",1,"",""
-"7626LX",45,"",""
-"7626LX",15,"",""
-"7626LX",13,"",""
-"7626LX",19,"",""
-"7626LX",10,"",""
-"7626LX",39,"",""
-"7626LX",5,"",""
-"7626LX",31,"",""
-"7626LX",2,"",""
-"7626LX",23,"",""
-"7626LX",17,"",""
-"7626LX",4,"a",""
-"7626LX",41,"",""
-"7626LX",8,"",""
-"7626LX",51,"",""
-"7626LX",27,"",""
-"7626LX",43,"",""
-"7626LX",21,"",""
-"7626LX",11,"",""
-"7626LX",6,"",""
-"7626LZ",24,"",""
-"7626LZ",2,"",""
-"7626LZ",16,"",""
-"7626LZ",22,"",""
-"7626LZ",11,"",""
-"7626LZ",1,"",""
-"7626LZ",6,"",""
-"7626LZ",9,"",""
-"7626LZ",12,"",""
-"7626LZ",5,"",""
-"7626LZ",13,"",""
-"7626LZ",14,"",""
-"7626LZ",4,"",""
-"7626LZ",8,"",""
-"7626LZ",15,"",""
-"7626LZ",23,"",""
-"7626LZ",26,"",""
-"7626LZ",17,"",""
-"7626LZ",19,"",""
-"7626LZ",3,"",""
-"7626LZ",30,"",""
-"7626LZ",7,"",""
-"7626LZ",20,"",""
-"7626LZ",18,"",""
-"7626LZ",28,"",""
-"7626LZ",21,"",""
-"7626NA",1,"a",""
-"7626NA",2,"a",""
-"7626NA",2,"",""
-"7626NA",1,"",""
-"7626NA",3,"",""
-7626LB,Haarlanden,1,,
-7626LB,Haarlanden,2,,
-7626LB,Haarlanden,4,,
-7626LB,Haarlanden,6,,
-7626LB,Haarlanden,8,,
-7626LX,Hertmerdwarsweg,1,,
-7626LX,Hertmerdwarsweg,1,a,
-7626LX,Hertmerdwarsweg,2,,
-7626LX,Hertmerdwarsweg,3,,
-7626LX,Hertmerdwarsweg,4,,
-7626LX,Hertmerdwarsweg,4,a,
-7626LX,Hertmerdwarsweg,5,,
-7626LX,Hertmerdwarsweg,6,,
-7626LX,Hertmerdwarsweg,7,,
-7626LX,Hertmerdwarsweg,8,,
-7626LX,Hertmerdwarsweg,9,,
-7626LX,Hertmerdwarsweg,10,,
-7626LX,Hertmerdwarsweg,11,,
-7626LX,Hertmerdwarsweg,13,,
-7626LX,Hertmerdwarsweg,15,,
-7626LX,Hertmerdwarsweg,17,,
-7626LX,Hertmerdwarsweg,19,,
-7626LX,Hertmerdwarsweg,21,,
-7626LX,Hertmerdwarsweg,23,,
-7626LX,Hertmerdwarsweg,25,,
-7626LX,Hertmerdwarsweg,27,,
-7626LX,Hertmerdwarsweg,29,,
-7626LX,Hertmerdwarsweg,31,,
-7626LX,Hertmerdwarsweg,51,,
-7626LV,Hertmerweg,3,,
-7626LV,Hertmerweg,5,,
-7626LV,Hertmerweg,5,a,
-7626LV,Hertmerweg,7,,
-7626LV,Hertmerweg,9,,
-7626LV,Hertmerweg,11,,
-7626LV,Hertmerweg,13,,
-7626LV,Hertmerweg,15,,
-7626LV,Hertmerweg,17,,
-7626LV,Hertmerweg,25,,
-7626LV,Hertmerweg,27,,
-7626LV,Hertmerweg,29,,
-7626LV,Hertmerweg,29,a,
-7626LV,Hertmerweg,31,,
-7626LV,Hertmerweg,31,a,
-7626LV,Hertmerweg,33,,
-7626LV,Hertmerweg,35,,
-7626LV,Hertmerweg,35,c,
-7626LV,Hertmerweg,35,c,
-7626LV,Hertmerweg,35,a,
-7626LV,Hertmerweg,37,,
-7626LW,Hertmerweg,2,,
-7626LW,Hertmerweg,4,,
-7626LW,Hertmerweg,6,,
-7626LW,Hertmerweg,8,,
-7626LW,Hertmerweg,10,,
-7626LW,Hertmerweg,12,,
-7626LW,Hertmerweg,14,,
-7626LW,Hertmerweg,16,,
-7626LW,Hertmerweg,18,,
-7626LW,Hertmerweg,20,,
-7626LW,Hertmerweg,20,a,
-7626LW,Hertmerweg,22,,
-7626LW,Hertmerweg,24,,
-7626LW,Hertmerweg,26,,
-7626LW,Hertmerweg,28,,
-7626LW,Hertmerweg,30,,
-7626LW,Hertmerweg,32,,
-7626LP,Kerkweg,1,,
-7626LP,Kerkweg,1,a,
-7626LP,Kerkweg,2,,
-7626LP,Kerkweg,2,a,
-7626LP,Kerkweg,3,,
-7626LP,Kerkweg,5,,
-7626LA,Kolklanden,1,,
-7626LA,Kolklanden,2,,
-7626LA,Kolklanden,6,,
-7626LA,Kolklanden,3,,
-7626LA,Kolklanden,4,,
-7626LA,Kolklanden,6,,
-7626LA,Kolklanden,2,,
-7626LA,Kolklanden,32,,
-7626LA,Kolklanden,34,,
-7626LA,Kolklanden,36,,
-7626LA,Kolklanden,36,,
-7626LZ,Lage Weide,1,,
-7626LZ,Lage Weide,2,,
-7626LZ,Lage Weide,3,,
-7626LZ,Lage Weide,4,,
-7626LZ,Lage Weide,5,,
-7626LZ,Lage Weide,6,,
-7626LZ,Lage Weide,7,,
-7626LZ,Lage Weide,8,,
-7626LZ,Lage Weide,9,,
-7626LZ,Lage Weide,11,,
-7626LZ,Lage Weide,12,,
-7626LZ,Lage Weide,13,,
-7626LZ,Lage Weide,14,,
-7626LZ,Lage Weide,15,,
-7626LZ,Lage Weide,16,,
-7626LZ,Lage Weide,17,,
-7626LZ,Lage Weide,18,,
-7626LZ,Lage Weide,19,,
-7626LZ,Lage Weide,20,,
-7626LZ,Lage Weide,21,,
-7626LZ,Lage Weide,22,,
-7626LZ,Lage Weide,23,,
-7626LZ,Lage Weide,24,,
-7626LZ,Lage Weide,26,,
-7626LZ,Lage Weide,28,,
-7626LZ,Lage Weide,30,,
-7626NA,Lodiek Landen,1,,
-7626NA,Lodiek Landen,2,,
-7626NA,Lodiek Landen,2,a,
-7626NA,Lodiek Landen,3,,
-7626LB,Haarlanden,7,,
-7626LB,Haarlanden,7,,
-7626LB,Haarlanden,5,,
-7626LB,Haarlanden,9,,
-7626LB,Haarlanden,3,,
-7626LX,Hertmerdwarsweg,39,,
-7626LX,Hertmerdwarsweg,33,,
-7626LX,Hertmerdwarsweg,43,,
-7626LX,Hertmerdwarsweg,45,,
-7626LX,Hertmerdwarsweg,35,,
-7626LX,Hertmerdwarsweg,41,,
-7626LW,Hertmerweg,36,,
-7626LP,Kerkweg,1,c,
-7626LP,Kerkweg,2,c,
-7626LP,Kerkweg,1,b,
-7626NA,Lodiek Landen,1,a,
-7626LK,Zwartkotteweg,1,,
-7626LK,Zwartkotteweg,2,,
-7626LK,Zwartkotteweg,2,a,
-7626LK,Zwartkotteweg,2,a,
-7626LK,Zwartkotteweg,2,b,
-7626LK,Zwartkotteweg,2,b,
-7626LK,Zwartkotteweg,4,,
-7626LK,Zwartkotteweg,6,,
-7626LK,Zwartkotteweg,2,e,
-7626LK,Zwartkotteweg,2,f,
-7626LK,Zwartkotteweg,2,f,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kolklanden,1,"","",7626LA,Hertme
+Kolklanden,2,"","",7626LA,Hertme
+Kolklanden,2,"","",7626LA,Hertme
+Kolklanden,3,"","",7626LA,Hertme
+Kolklanden,32,"","",7626LA,Hertme
+Kolklanden,34,"","",7626LA,Hertme
+Kolklanden,36,"","",7626LA,Hertme
+Kolklanden,36,"","",7626LA,Hertme
+Kolklanden,4,"","",7626LA,Hertme
+Kolklanden,6,"","",7626LA,Hertme
+Kolklanden,6,"","",7626LA,Hertme
+Haarlanden,1,"","",7626LB,Hertme
+Haarlanden,2,"","",7626LB,Hertme
+Haarlanden,3,"","",7626LB,Hertme
+Haarlanden,4,"","",7626LB,Hertme
+Haarlanden,5,"","",7626LB,Hertme
+Haarlanden,6,"","",7626LB,Hertme
+Haarlanden,7,"","",7626LB,Hertme
+Haarlanden,7,"","",7626LB,Hertme
+Haarlanden,8,"","",7626LB,Hertme
+Haarlanden,9,"","",7626LB,Hertme
+Zwartkotteweg,1,"","",7626LK,Hertme
+Zwartkotteweg,2,"","",7626LK,Hertme
+Zwartkotteweg,2,A,"",7626LK,Hertme
+Zwartkotteweg,2,A,"",7626LK,Hertme
+Zwartkotteweg,2,B,"",7626LK,Hertme
+Zwartkotteweg,2,B,"",7626LK,Hertme
+Zwartkotteweg,2,E,"",7626LK,Hertme
+Zwartkotteweg,2,F,"",7626LK,Hertme
+Zwartkotteweg,2,F,"",7626LK,Hertme
+Zwartkotteweg,2,F,"",7626LK,Hertme
+Zwartkotteweg,4,"","",7626LK,Hertme
+Zwartkotteweg,6,"","",7626LK,Hertme
+Kerkweg,1,"","",7626LP,Hertme
+Kerkweg,1,A,"",7626LP,Hertme
+Kerkweg,1,B,"",7626LP,Hertme
+Kerkweg,1,C,"",7626LP,Hertme
+Kerkweg,2,"","",7626LP,Hertme
+Kerkweg,2,A,"",7626LP,Hertme
+Kerkweg,2,C,"",7626LP,Hertme
+Kerkweg,3,"","",7626LP,Hertme
+Kerkweg,5,"","",7626LP,Hertme
+Hertmerweg,11,"","",7626LV,Hertme
+Hertmerweg,13,"","",7626LV,Hertme
+Hertmerweg,15,"","",7626LV,Hertme
+Hertmerweg,17,"","",7626LV,Hertme
+Hertmerweg,25,"","",7626LV,Hertme
+Hertmerweg,27,"","",7626LV,Hertme
+Hertmerweg,29,"","",7626LV,Hertme
+Hertmerweg,29,A,"",7626LV,Hertme
+Hertmerweg,3,"","",7626LV,Hertme
+Hertmerweg,31,"","",7626LV,Hertme
+Hertmerweg,31,A,"",7626LV,Hertme
+Hertmerweg,33,"","",7626LV,Hertme
+Hertmerweg,35,"","",7626LV,Hertme
+Hertmerweg,35,A,"",7626LV,Hertme
+Hertmerweg,35,C,"",7626LV,Hertme
+Hertmerweg,35,C,"",7626LV,Hertme
+Hertmerweg,37,"","",7626LV,Hertme
+Hertmerweg,5,"","",7626LV,Hertme
+Hertmerweg,5,A,"",7626LV,Hertme
+Hertmerweg,7,"","",7626LV,Hertme
+Hertmerweg,9,"","",7626LV,Hertme
+Hertmerweg,10,"","",7626LW,Hertme
+Hertmerweg,12,"","",7626LW,Hertme
+Hertmerweg,14,"","",7626LW,Hertme
+Hertmerweg,16,"","",7626LW,Hertme
+Hertmerweg,18,"","",7626LW,Hertme
+Hertmerweg,2,"","",7626LW,Hertme
+Hertmerweg,20,"","",7626LW,Hertme
+Hertmerweg,20,A,"",7626LW,Hertme
+Hertmerweg,22,"","",7626LW,Hertme
+Hertmerweg,24,"","",7626LW,Hertme
+Hertmerweg,26,"","",7626LW,Hertme
+Hertmerweg,28,"","",7626LW,Hertme
+Hertmerweg,30,"","",7626LW,Hertme
+Hertmerweg,32,"","",7626LW,Hertme
+Hertmerweg,36,"","",7626LW,Hertme
+Hertmerweg,4,"","",7626LW,Hertme
+Hertmerweg,6,"","",7626LW,Hertme
+Hertmerweg,8,"","",7626LW,Hertme
+Hertmerdwarsweg,1,"","",7626LX,Hertme
+Hertmerdwarsweg,1,A,"",7626LX,Hertme
+Hertmerdwarsweg,10,"","",7626LX,Hertme
+Hertmerdwarsweg,11,"","",7626LX,Hertme
+Hertmerdwarsweg,13,"","",7626LX,Hertme
+Hertmerdwarsweg,15,"","",7626LX,Hertme
+Hertmerdwarsweg,17,"","",7626LX,Hertme
+Hertmerdwarsweg,19,"","",7626LX,Hertme
+Hertmerdwarsweg,2,"","",7626LX,Hertme
+Hertmerdwarsweg,21,"","",7626LX,Hertme
+Hertmerdwarsweg,23,"","",7626LX,Hertme
+Hertmerdwarsweg,25,"","",7626LX,Hertme
+Hertmerdwarsweg,27,"","",7626LX,Hertme
+Hertmerdwarsweg,29,"","",7626LX,Hertme
+Hertmerdwarsweg,3,"","",7626LX,Hertme
+Hertmerdwarsweg,31,"","",7626LX,Hertme
+Hertmerdwarsweg,33,"","",7626LX,Hertme
+Hertmerdwarsweg,35,"","",7626LX,Hertme
+Hertmerdwarsweg,39,"","",7626LX,Hertme
+Hertmerdwarsweg,4,"","",7626LX,Hertme
+Hertmerdwarsweg,4,A,"",7626LX,Hertme
+Hertmerdwarsweg,41,"","",7626LX,Hertme
+Hertmerdwarsweg,43,"","",7626LX,Hertme
+Hertmerdwarsweg,45,"","",7626LX,Hertme
+Hertmerdwarsweg,5,"","",7626LX,Hertme
+Hertmerdwarsweg,51,"","",7626LX,Hertme
+Hertmerdwarsweg,6,"","",7626LX,Hertme
+Hertmerdwarsweg,7,"","",7626LX,Hertme
+Hertmerdwarsweg,8,"","",7626LX,Hertme
+Hertmerdwarsweg,9,"","",7626LX,Hertme
+Lage Weide,1,"","",7626LZ,Hertme
+Lage Weide,11,"","",7626LZ,Hertme
+Lage Weide,12,"","",7626LZ,Hertme
+Lage Weide,13,"","",7626LZ,Hertme
+Lage Weide,14,"","",7626LZ,Hertme
+Lage Weide,15,"","",7626LZ,Hertme
+Lage Weide,16,"","",7626LZ,Hertme
+Lage Weide,17,"","",7626LZ,Hertme
+Lage Weide,18,"","",7626LZ,Hertme
+Lage Weide,19,"","",7626LZ,Hertme
+Lage Weide,2,"","",7626LZ,Hertme
+Lage Weide,20,"","",7626LZ,Hertme
+Lage Weide,21,"","",7626LZ,Hertme
+Lage Weide,22,"","",7626LZ,Hertme
+Lage Weide,23,"","",7626LZ,Hertme
+Lage Weide,24,"","",7626LZ,Hertme
+Lage Weide,26,"","",7626LZ,Hertme
+Lage Weide,28,"","",7626LZ,Hertme
+Lage Weide,3,"","",7626LZ,Hertme
+Lage Weide,30,"","",7626LZ,Hertme
+Lage Weide,4,"","",7626LZ,Hertme
+Lage Weide,5,"","",7626LZ,Hertme
+Lage Weide,6,"","",7626LZ,Hertme
+Lage Weide,7,"","",7626LZ,Hertme
+Lage Weide,8,"","",7626LZ,Hertme
+Lage Weide,9,"","",7626LZ,Hertme
+Lodiek Landen,1,"","",7626NA,Hertme
+Lodiek Landen,1,A,"",7626NA,Hertme
+Lodiek Landen,2,"","",7626NA,Hertme
+Lodiek Landen,2,A,"",7626NA,Hertme
+Lodiek Landen,3,"","",7626NA,Hertme

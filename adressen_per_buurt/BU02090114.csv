@@ -1,79 +1,79 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6641AA,van Heemstraweg,49,e,
-6641AA,van Heemstraweg,49,f,
-6641AA,van Heemstraweg,51,,
-6641AA,van Heemstraweg,21,,
-6641AA,van Heemstraweg,23,,
-6641AA,van Heemstraweg,25,,
-6641AA,van Heemstraweg,27,,
-6641AA,van Heemstraweg,29,,
-6641AA,van Heemstraweg,31,,
-6641AA,van Heemstraweg,33,,
-6641AA,van Heemstraweg,35,,
-6641AA,van Heemstraweg,37,V,
-6641AA,van Heemstraweg,39,,
-6641AA,van Heemstraweg,41,,
-6641AA,van Heemstraweg,43,,
-6641AA,van Heemstraweg,45,,
-6641AA,van Heemstraweg,45,,
-6641AA,van Heemstraweg,47,,
-6641AA,van Heemstraweg,49,,
-6641AA,van Heemstraweg,49,K,
-6641AA,van Heemstraweg,49,a,
-6641AA,van Heemstraweg,49,b,
-6641AA,van Heemstraweg,49,c,
-6641AA,van Heemstraweg,49,d,
-6641KE,Hogewaldstraat,2,,
-6641KE,Hogewaldstraat,4,,
-6641KE,Hogewaldstraat,4,T,
-6641KE,Hogewaldstraat,6,,
-6641KE,Hogewaldstraat,8,,
-6641KE,Hogewaldstraat,8,a,
-6641KE,Hogewaldstraat,8,c,
-6641KE,Hogewaldstraat,8,d,
-6641KE,Hogewaldstraat,8,e,
-6641KE,Hogewaldstraat,8,f,
-6641KE,Hogewaldstraat,10,,
-6641KE,Hogewaldstraat,12,,
-6641KE,Hogewaldstraat,12,a,
-6641KE,Hogewaldstraat,12,b,
-6641KE,Hogewaldstraat,12,c,
-6641KE,Hogewaldstraat,14,,
-6641KE,Hogewaldstraat,16,,
-6641KE,Hogewaldstraat,18,,
-6641KE,Hogewaldstraat,18,b,
-6641KE,Hogewaldstraat,18,c,
-6641KE,Hogewaldstraat,20,,
-6641JT,Notenhof,1,,
-6641JT,Notenhof,3,,
-6641JT,Notenhof,5,,
-6641JT,Notenhof,7,,
-6641JT,Notenhof,9,,
-6641JT,Notenhof,11,,
-6641JT,Notenhof,13,,
-6641JV,Notenhof,2,,
-6641JV,Notenhof,4,,
-6641JV,Notenhof,6,,
-6641JV,Notenhof,8,,
-6641JV,Notenhof,10,,
-6641JV,Notenhof,12,,
-6641JV,Notenhof,14,,
-6641JV,Notenhof,16,,
-6641JV,Notenhof,18,,
-6641JV,Notenhof,20,,
-6641JV,Notenhof,22,,
-6641JV,Notenhof,24,,
-6641JV,Notenhof,26,,
-6641JV,Notenhof,28,,
-6641JV,Notenhof,30,,
-6641JV,Notenhof,32,,
-6641JV,Notenhof,34,,
-6641JV,Notenhof,36,,
-6641AA,van Heemstraweg,35,a,
-6641AA,van Heemstraweg,45,a,
-6641AA,van Heemstraweg,51,a,
-6641AA,van Heemstraweg,51,a,
-6641AA,van Heemstraweg,49,a,
-6641KE,Hogewaldstraat,8,a,
-6641KE,Hogewaldstraat,2,a,
-6641KE,Hogewaldstraat,16,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+van Heemstraweg,21,"","",6641AA,Beuningen Gld
+van Heemstraweg,23,"","",6641AA,Beuningen Gld
+van Heemstraweg,25,"","",6641AA,Beuningen Gld
+van Heemstraweg,27,"","",6641AA,Beuningen Gld
+van Heemstraweg,29,"","",6641AA,Beuningen Gld
+van Heemstraweg,31,"","",6641AA,Beuningen Gld
+van Heemstraweg,33,"","",6641AA,Beuningen Gld
+van Heemstraweg,35,"","",6641AA,Beuningen Gld
+van Heemstraweg,35,A,"",6641AA,Beuningen Gld
+van Heemstraweg,37,V,"",6641AA,Beuningen Gld
+van Heemstraweg,39,"","",6641AA,Beuningen Gld
+van Heemstraweg,41,"","",6641AA,Beuningen Gld
+van Heemstraweg,43,"","",6641AA,Beuningen Gld
+van Heemstraweg,45,"","",6641AA,Beuningen Gld
+van Heemstraweg,45,"","",6641AA,Beuningen Gld
+van Heemstraweg,45,A,"",6641AA,Beuningen Gld
+van Heemstraweg,47,"","",6641AA,Beuningen Gld
+van Heemstraweg,49,"","",6641AA,Beuningen Gld
+van Heemstraweg,49,A,"",6641AA,Beuningen Gld
+van Heemstraweg,49,A,"",6641AA,Beuningen Gld
+van Heemstraweg,49,B,"",6641AA,Beuningen Gld
+van Heemstraweg,49,C,"",6641AA,Beuningen Gld
+van Heemstraweg,49,D,"",6641AA,Beuningen Gld
+van Heemstraweg,49,E,"",6641AA,Beuningen Gld
+van Heemstraweg,49,F,"",6641AA,Beuningen Gld
+van Heemstraweg,49,K,"",6641AA,Beuningen Gld
+van Heemstraweg,51,"","",6641AA,Beuningen Gld
+van Heemstraweg,51,A,"",6641AA,Beuningen Gld
+van Heemstraweg,51,A,"",6641AA,Beuningen Gld
+Notenhof,1,"","",6641JT,Beuningen Gld
+Notenhof,11,"","",6641JT,Beuningen Gld
+Notenhof,13,"","",6641JT,Beuningen Gld
+Notenhof,3,"","",6641JT,Beuningen Gld
+Notenhof,5,"","",6641JT,Beuningen Gld
+Notenhof,7,"","",6641JT,Beuningen Gld
+Notenhof,9,"","",6641JT,Beuningen Gld
+Notenhof,10,"","",6641JV,Beuningen Gld
+Notenhof,12,"","",6641JV,Beuningen Gld
+Notenhof,14,"","",6641JV,Beuningen Gld
+Notenhof,16,"","",6641JV,Beuningen Gld
+Notenhof,18,"","",6641JV,Beuningen Gld
+Notenhof,2,"","",6641JV,Beuningen Gld
+Notenhof,20,"","",6641JV,Beuningen Gld
+Notenhof,22,"","",6641JV,Beuningen Gld
+Notenhof,24,"","",6641JV,Beuningen Gld
+Notenhof,26,"","",6641JV,Beuningen Gld
+Notenhof,28,"","",6641JV,Beuningen Gld
+Notenhof,30,"","",6641JV,Beuningen Gld
+Notenhof,32,"","",6641JV,Beuningen Gld
+Notenhof,34,"","",6641JV,Beuningen Gld
+Notenhof,36,"","",6641JV,Beuningen Gld
+Notenhof,4,"","",6641JV,Beuningen Gld
+Notenhof,6,"","",6641JV,Beuningen Gld
+Notenhof,8,"","",6641JV,Beuningen Gld
+Hogewaldstraat,10,"","",6641KE,Beuningen Gld
+Hogewaldstraat,12,"","",6641KE,Beuningen Gld
+Hogewaldstraat,12,A,"",6641KE,Beuningen Gld
+Hogewaldstraat,12,B,"",6641KE,Beuningen Gld
+Hogewaldstraat,12,C,"",6641KE,Beuningen Gld
+Hogewaldstraat,14,"","",6641KE,Beuningen Gld
+Hogewaldstraat,16,"","",6641KE,Beuningen Gld
+Hogewaldstraat,16,A,"",6641KE,Beuningen Gld
+Hogewaldstraat,18,"","",6641KE,Beuningen Gld
+Hogewaldstraat,18,B,"",6641KE,Beuningen Gld
+Hogewaldstraat,18,C,"",6641KE,Beuningen Gld
+Hogewaldstraat,2,"","",6641KE,Beuningen Gld
+Hogewaldstraat,2,A,"",6641KE,Beuningen Gld
+Hogewaldstraat,20,"","",6641KE,Beuningen Gld
+Hogewaldstraat,4,"","",6641KE,Beuningen Gld
+Hogewaldstraat,4,T,"",6641KE,Beuningen Gld
+Hogewaldstraat,6,"","",6641KE,Beuningen Gld
+Hogewaldstraat,8,"","",6641KE,Beuningen Gld
+Hogewaldstraat,8,A,"",6641KE,Beuningen Gld
+Hogewaldstraat,8,A,"",6641KE,Beuningen Gld
+Hogewaldstraat,8,C,"",6641KE,Beuningen Gld
+Hogewaldstraat,8,D,"",6641KE,Beuningen Gld
+Hogewaldstraat,8,E,"",6641KE,Beuningen Gld
+Hogewaldstraat,8,F,"",6641KE,Beuningen Gld

@@ -1,739 +1,378 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8914AA",9,"d",""
-"8914AA",9,"",""
-"8914AA",10,"",""
-"8914AA",10,"b",""
-"8914AA",9,"c",""
-"8914AA",11,"b",""
-"8914AA",12,"",""
-"8914AA",11,"c",""
-"8914AA",11,"f",""
-"8914AA",9,"e",""
-"8914AA",9,"g",""
-"8914AA",10,"e",""
-"8914AA",12,"f",""
-"8914AA",11,"e",""
-"8914AA",11,"d",""
-"8914AA",9,"b",""
-"8914AA",12,"c",""
-"8914AA",11,"",""
-"8914AA",10,"d",""
-"8914AA",12,"g",""
-"8914AA",15,"",""
-"8914AA",12,"d",""
-"8914AA",10,"g",""
-"8914AA",10,"f",""
-"8914AA",9,"f",""
-"8914AA",12,"b",""
-"8914AA",11,"g",""
-"8914AA",12,"e",""
-"8914AA",16,"",""
-"8914AA",10,"c",""
-"8914AB",15,"",""
-"8914AB",11,"",""
-"8914AB",19,"",""
-"8914AB",7,"",""
-"8914AB",9,"",""
-"8914AB",23,"",""
-"8914AB",17,"",""
-"8914AB",5,"",""
-"8914AB",13,"",""
-"8914AB",1,"f",""
-"8914AB",21,"",""
-"8914AB",1,"d",""
-"8914AB",1,"g",""
-"8914AB",31,"",""
-"8914AB",1,"a",""
-"8914AB",1,"e",""
-"8914AB",1,"h",""
-"8914AB",3,"",""
-"8914AB",1,"",""
-"8914AB",33,"",""
-"8914AB",25,"",""
-"8914AB",35,"",""
-"8914AB",91,"",""
-"8914AB",1,"b",""
-"8914AB",27,"",""
-"8914AB",87,"",""
-"8914AB",85,"",""
-"8914AB",93,"",""
-"8914AB",29,"",""
-"8914AB",1,"c",""
-"8914AC",39,"b",""
-"8914AC",39,"",""
-"8914AC",41,"",""
-"8914AC",40,"",""
-"8914AC",39,"b",""
-"8914AC",36,"",""
-"8914AC",47,"",""
-"8914AC",37,"",""
-"8914AC",39,"",""
-"8914AC",45,"",""
-"8914AC",43,"b",""
-"8914AC",41,"",""
-"8914AC",43,"",""
-"8914AC",37,"",""
-"8914AC",34,"",""
-"8914AC",48,"",""
-"8914AC",38,"",""
-"8914AC",41,"b",""
-"8914AC",45,"",""
-"8914AC",37,"b",""
-"8914AC",46,"",""
-"8914AC",47,"b",""
-"8914AC",26,"",""
-"8914AC",43,"",""
-"8914AC",47,"",""
-"8914AC",43,"b",""
-"8914AC",41,"b",""
-"8914AC",28,"",""
-"8914AC",47,"b",""
-"8914AC",45,"b",""
-"8914AC",37,"b",""
-"8914AC",30,"",""
-"8914AC",45,"b",""
-"8914AC",44,"",""
-"8914AD",5,"",""
-"8914AD",3,"",""
-"8914AD",9,"",""
-"8914AD",11,"",""
-"8914AD",15,"",""
-"8914AD",1,"",""
-"8914AD",7,"",""
-"8914AE",19,"",""
-"8914AE",1,"",""
-"8914AE",13,"",""
-"8914AE",9,"",""
-"8914AE",21,"",""
-"8914AE",11,"",""
-"8914AE",5,"",""
-"8914AE",7,"",""
-"8914AE",15,"",""
-"8914AE",3,"",""
-"8914AE",17,"",""
-"8914AG",28,"",""
-"8914AG",14,"",""
-"8914AG",38,"",""
-"8914AG",30,"",""
-"8914AG",4,"",""
-"8914AG",12,"",""
-"8914AG",34,"",""
-"8914AG",36,"",""
-"8914AG",10,"",""
-"8914AG",32,"",""
-"8914AG",6,"",""
-"8914AG",24,"",""
-"8914AG",8,"",""
-"8914AG",22,"",""
-"8914AG",18,"",""
-"8914AG",16,"",""
-"8914AG",20,"",""
-"8914AG",26,"",""
-"8914AH",42,"",""
-"8914AH",56,"",""
-"8914AH",44,"",""
-"8914AH",54,"",""
-"8914AH",46,"",""
-"8914AH",58,"",""
-"8914AH",50,"",""
-"8914AH",48,"",""
-"8914AH",40,"",""
-"8914AH",52,"",""
-"8914AJ",21,"",""
-"8914AJ",19,"",""
-"8914AJ",11,"",""
-"8914AJ",15,"",""
-"8914AJ",31,"",""
-"8914AJ",33,"",""
-"8914AJ",25,"",""
-"8914AJ",23,"",""
-"8914AJ",27,"",""
-"8914AJ",5,"",""
-"8914AJ",17,"",""
-"8914AJ",29,"",""
-"8914AJ",7,"",""
-"8914AJ",3,"",""
-"8914AJ",9,"",""
-"8914AJ",13,"",""
-"8914AJ",1,"",""
-"8914AK",39,"",""
-"8914AK",51,"",""
-"8914AK",41,"",""
-"8914AK",37,"",""
-"8914AK",53,"",""
-"8914AK",49,"",""
-"8914AK",43,"",""
-"8914AK",55,"",""
-"8914AK",47,"",""
-"8914AK",45,"",""
-"8914AL",30,"",""
-"8914AL",22,"",""
-"8914AL",20,"",""
-"8914AL",30,"d",""
-"8914AL",14,"",""
-"8914AL",26,"",""
-"8914AL",28,"",""
-"8914AL",30,"e",""
-"8914AL",16,"",""
-"8914AL",18,"",""
-"8914AL",30,"f",""
-"8914AL",30,"c",""
-"8914AL",24,"",""
-"8914AL",10,"",""
-"8914AL",4,"",""
-"8914AL",8,"",""
-"8914AL",30,"a",""
-"8914AL",12,"",""
-"8914AL",2,"",""
-"8914AL",30,"b",""
-"8914AL",6,"",""
-"8914AM",6,"",""
-"8914AM",1,"",""
-"8914AM",2,"",""
-"8914AM",12,"",""
-"8914AM",8,"",""
-"8914AM",16,"",""
-"8914AM",20,"",""
-"8914AM",3,"",""
-"8914AM",14,"",""
-"8914AM",18,"",""
-"8914AM",4,"",""
-"8914AM",10,"",""
-"8914AN",11,"",""
-"8914AN",9,"",""
-"8914AN",19,"",""
-"8914AN",5,"",""
-"8914AN",3,"",""
-"8914AN",13,"",""
-"8914AN",17,"",""
-"8914AN",7,"",""
-"8914AN",1,"",""
-"8914AN",15,"",""
-"8914AP",7,"",""
-"8914AP",5,"",""
-"8914AP",4,"",""
-"8914AR",22,"",""
-"8914AR",12,"",""
-"8914AR",14,"",""
-"8914AR",8,"",""
-"8914AR",20,"",""
-"8914AR",4,"",""
-"8914AR",6,"",""
-"8914AR",18,"",""
-"8914AR",16,"",""
-"8914AR",10,"",""
-"8914AS",16,"c",""
-"8914AS",18,"",""
-"8914AS",18,"c",""
-"8914AS",4,"b",""
-"8914AS",20,"",""
-"8914AS",22,"c",""
-"8914AS",14,"c",""
-"8914AS",16,"b",""
-"8914AS",20,"c",""
-"8914AS",22,"c",""
-"8914AS",16,"c",""
-"8914AS",18,"c",""
-"8914AS",20,"b",""
-"8914AS",12,"c",""
-"8914AS",4,"d",""
-"8914AS",16,"",""
-"8914AS",14,"",""
-"8914AS",22,"b",""
-"8914AS",14,"",""
-"8914AS",18,"b",""
-"8914AS",14,"c",""
-"8914AS",4,"n",""
-"8914AS",4,"a",""
-"8914AS",14,"b",""
-"8914AS",22,"",""
-"8914AS",4,"g",""
-"8914AS",16,"",""
-"8914AS",14,"b",""
-"8914AS",4,"c",""
-"8914AS",18,"b",""
-"8914AS",16,"b",""
-"8914AS",4,"m",""
-"8914AS",4,"k",""
-"8914AS",4,"s",""
-"8914AS",4,"z",""
-"8914AS",12,"",""
-"8914AS",6,"",""
-"8914AS",22,"",""
-"8914AS",4,"t",""
-"8914AS",4,"e",""
-"8914AS",4,"w",""
-"8914AS",4,"j",""
-"8914AS",22,"b",""
-"8914AS",4,"w",""
-"8914AS",4,"f",""
-"8914AS",8,"",""
-"8914AS",4,"p",""
-"8914AS",4,"v",""
-"8914AS",4,"p",""
-"8914AS",10,"",""
-"8914AS",4,"s",""
-"8914AS",4,"r",""
-"8914AS",12,"b",""
-"8914AS",4,"t",""
-"8914AS",4,"v",""
-"8914AS",4,"h",""
-"8914AS",6,"",""
-"8914AS",4,"r",""
-"8914AS",6,"",""
-"8914AT",62,"k",""
-"8914AT",24,"",""
-"8914AT",62,"",""
-"8914AT",60,"k",""
-"8914AT",24,"",""
-"8914AT",34,"",""
-"8914AT",60,"",""
-"8914AT",26,"",""
-"8914AT",56,"k",""
-"8914AT",26,"b",""
-"8914AT",32,"",""
-"8914AT",56,"",""
-"8914AT",42,"c",""
-"8914AT",24,"b",""
-"8914AT",28,"",""
-"8914AT",30,"",""
-"8914AT",24,"b",""
-"8914AT",24,"c",""
-"8914AT",26,"c",""
-"8914AT",24,"c",""
-"8914AT",42,"c",""
-"8914AT",40,"",""
-"8914AT",38,"",""
-"8914AT",40,"a",""
-"8914AT",52,"",""
-"8914AT",42,"k",""
-"8914AT",36,"",""
-"8914AZ",109,"a",""
-"8914AZ",111,"",""
-"8914AZ",107,"",""
-"8914AZ",111,"",""
-"8914AZ",105,"a",""
-"8914AZ",105,"a",""
-"8914AZ",115,"",""
-"8914AZ",113,"",""
-"8914AZ",109,"",""
-"8914AZ",103,"k",""
-"8914AZ",105,"",""
-"8914AZ",103,"",""
-"8914AZ",111,"",""
-"8914AZ",105,"a",""
-"8914AZ",115,"k",""
-"8914AZ",115,"k",""
-"8914AZ",115,"",""
-"8914BX",9,"a",""
-"8914BX",7,"c",""
-"8914BX",7,"b",""
-"8914BX",3,"",""
-"8914BX",11,"b",""
-"8914BX",9,"a",""
-"8914BX",33,"",""
-"8914BX",29,"",""
-"8914BX",15,"",""
-"8914BX",31,"",""
-"8914BX",31,"",""
-"8914BX",9,"",""
-"8914BX",4,"",""
-"8914BX",15,"",""
-"8914BX",17,"",""
-"8914BX",15,"c",""
-"8914BX",9,"b",""
-"8914BX",1,"",""
-"8914BX",9,"",""
-"8914BX",9,"",""
-"8914BX",7,"a",""
-"8914BX",11,"a",""
-"8914BX",15,"b",""
-"8914BX",15,"a",""
-"8914BX",35,"",""
-"8914BX",23,"",""
-"8914BX",25,"",""
-"8914BX",21,"",""
-"8914BX",17,"",""
-"8914BX",5,"",""
-"8914BX",25,"",""
-"8914BX",15,"d",""
-"8914BX",9,"",""
-"8914BX",31,"",""
-"8914BX",25,"",""
-"8914BX",9,"b",""
-"8914BX",19,"",""
-"8914BX",9,"b",""
-"8914BX",15,"",""
-"8914BX",11,"",""
-"8914BX",25,"a",""
-"8914BX",25,"",""
-"8914BX",29,"",""
-"8914BX",27,"",""
-"8914BX",23,"",""
-"8914BX",15,"",""
-"8914BX",9,"",""
-"8914BX",9,"",""
-"8914BX",7,"",""
-"8914BX",23,"",""
-"8914BX",9,"a",""
-8914AM,Elisabeth Wolffstraat,2,,
-8914AM,Elisabeth Wolffstraat,4,,
-8914AM,Elisabeth Wolffstraat,6,,
-8914AM,Elisabeth Wolffstraat,8,,
-8914AM,Elisabeth Wolffstraat,12,,
-8914AM,Elisabeth Wolffstraat,14,,
-8914AM,Elisabeth Wolffstraat,16,,
-8914AM,Elisabeth Wolffstraat,18,,
-8914AM,Elisabeth Wolffstraat,20,,
-8914AN,Aagje Dekenstraat,1,,
-8914AN,Aagje Dekenstraat,3,,
-8914AN,Aagje Dekenstraat,9,,
-8914AN,Aagje Dekenstraat,11,,
-8914AN,Aagje Dekenstraat,17,,
-8914AN,Aagje Dekenstraat,19,,
-8914AB,Bilderdijkstraat,5,,
-8914AB,Bilderdijkstraat,15,,
-8914AB,Bilderdijkstraat,19,,
-8914AB,Bilderdijkstraat,23,,
-8914AC,Bilderdijkstraat,26,,
-8914AC,Bilderdijkstraat,30,,
-8914AC,Bilderdijkstraat,37,,
-8914AC,Bilderdijkstraat,37,,
-8914AC,Bilderdijkstraat,37,b,
-8914AC,Bilderdijkstraat,37,b,
-8914AC,Bilderdijkstraat,38,,
-8914AC,Bilderdijkstraat,41,,
-8914AC,Bilderdijkstraat,41,,
-8914AC,Bilderdijkstraat,41,b,
-8914AC,Bilderdijkstraat,41,b,
-8914AC,Bilderdijkstraat,43,,
-8914AC,Bilderdijkstraat,43,,
-8914AC,Bilderdijkstraat,43,b,
-8914AC,Bilderdijkstraat,43,b,
-8914AC,Bilderdijkstraat,45,,
-8914AC,Bilderdijkstraat,45,,
-8914AC,Bilderdijkstraat,45,b,
-8914AC,Bilderdijkstraat,45,b,
-8914AC,Bilderdijkstraat,47,b,
-8914AC,Bilderdijkstraat,47,b,
-8914AC,Bilderdijkstraat,48,,
-8914AT,Heliconweg,24,,
-8914AT,Heliconweg,24,,
-8914AT,Heliconweg,24,b,
-8914AT,Heliconweg,24,b,
-8914AT,Heliconweg,24,c,
-8914AT,Heliconweg,24,c,
-8914AT,Heliconweg,26,b,
-8914AT,Heliconweg,26,c,
-8914AT,Heliconweg,28,,
-8914AT,Heliconweg,30,,
-8914AT,Heliconweg,34,,
-8914AT,Heliconweg,36,,
-8914AT,Heliconweg,40,a,
-8914AA,Europaplein,9,d,
-8914AA,Europaplein,9,f,
-8914AA,Europaplein,9,g,
-8914AA,Europaplein,10,d,
-8914AA,Europaplein,10,f,
-8914AA,Europaplein,10,g,
-8914AA,Europaplein,11,b,
-8914AA,Europaplein,11,d,
-8914AA,Europaplein,12,,
-8914AA,Europaplein,12,b,
-8914AA,Europaplein,12,d,
-8914AA,Europaplein,12,f,
-8914AA,Europaplein,12,g,
-8914AA,Europaplein,16,,
-8914AD,Helmersstraat,5,,
-8914AZ,Harlingerstraatweg,105,,
-8914AZ,Harlingerstraatweg,107,,
-8914AZ,Harlingerstraatweg,111,,
-8914AZ,Harlingerstraatweg,111,,
-8914AE,Pieter Langendijkstraat,1,,
-8914AE,Pieter Langendijkstraat,7,,
-8914AE,Pieter Langendijkstraat,11,,
-8914AE,Pieter Langendijkstraat,21,,
-8914AG,Pieter Langendijkstraat,4,,
-8914AG,Pieter Langendijkstraat,6,,
-8914AG,Pieter Langendijkstraat,8,,
-8914AG,Pieter Langendijkstraat,12,,
-8914AG,Pieter Langendijkstraat,16,,
-8914AG,Pieter Langendijkstraat,20,,
-8914AG,Pieter Langendijkstraat,22,,
-8914AG,Pieter Langendijkstraat,30,,
-8914AG,Pieter Langendijkstraat,32,,
-8914AG,Pieter Langendijkstraat,36,,
-8914AG,Pieter Langendijkstraat,38,,
-8914AH,Pieter Langendijkstraat,40,,
-8914AH,Pieter Langendijkstraat,48,,
-8914AH,Pieter Langendijkstraat,56,,
-8914AH,Pieter Langendijkstraat,58,,
-8914AS,Heliconweg,6,,
-8914AS,Heliconweg,8,,
-8914AS,Heliconweg,10,,
-8914AS,Heliconweg,12,,
-8914AS,Heliconweg,12,b,
-8914AS,Heliconweg,14,b,
-8914AS,Heliconweg,14,b,
-8914AS,Heliconweg,14,c,
-8914AS,Heliconweg,14,c,
-8914AS,Heliconweg,16,b,
-8914AS,Heliconweg,16,b,
-8914AS,Heliconweg,18,c,
-8914AS,Heliconweg,18,c,
-8914AS,Heliconweg,20,,
-8914AS,Heliconweg,20,c,
-8914AS,Heliconweg,22,b,
-8914AS,Heliconweg,22,b,
-8914AJ,Potgieterstraat,3,,
-8914AJ,Potgieterstraat,11,,
-8914AJ,Potgieterstraat,17,,
-8914AJ,Potgieterstraat,19,,
-8914AJ,Potgieterstraat,21,,
-8914AJ,Potgieterstraat,29,,
-8914AJ,Potgieterstraat,31,,
-8914AJ,Potgieterstraat,33,,
-8914AK,Potgieterstraat,45,,
-8914AK,Potgieterstraat,47,,
-8914AK,Potgieterstraat,53,,
-8914AL,Potgieterstraat,2,,
-8914AL,Potgieterstraat,6,,
-8914AL,Potgieterstraat,10,,
-8914AL,Potgieterstraat,14,,
-8914AL,Potgieterstraat,16,,
-8914AL,Potgieterstraat,18,,
-8914AL,Potgieterstraat,20,,
-8914AL,Potgieterstraat,22,,
-8914AL,Potgieterstraat,24,,
-8914AL,Potgieterstraat,26,,
-8914AL,Potgieterstraat,30,,
-8914AR,Nicolaas Beetsstraat,6,,
-8914AR,Nicolaas Beetsstraat,8,,
-8914AR,Nicolaas Beetsstraat,12,,
-8914AR,Nicolaas Beetsstraat,16,,
-8914AR,Nicolaas Beetsstraat,18,,
-8914AR,Nicolaas Beetsstraat,20,,
-8914AP,Rhijnvis Feithstraat,4,,
-8914AB,Bilderdijkstraat,1,a,
-8914AB,Bilderdijkstraat,1,b,
-8914AB,Bilderdijkstraat,1,c,
-8914AB,Bilderdijkstraat,1,d,
-8914AB,Bilderdijkstraat,1,e,
-8914AB,Bilderdijkstraat,1,g,
-8914AB,Bilderdijkstraat,1,h,
-8914AT,Heliconweg,52,,
-8914AT,Heliconweg,60,,
-8914AT,Heliconweg,42,c,
-8914AL,Potgieterstraat,30,b,
-8914AD,Helmersstraat,15,,
-8914AZ,Harlingerstraatweg,103,k,
-8914AZ,Harlingerstraatweg,103,,
-8914AZ,Harlingerstraatweg,109,a,
-8914AP,Rhijnvis Feithstraat,7,,
-8914AE,Pieter Langendijkstraat,17,,
-8914AE,Pieter Langendijkstraat,19,,
-8914AG,Pieter Langendijkstraat,26,,
-8914AH,Pieter Langendijkstraat,50,,
-8914AN,Aagje Dekenstraat,5,,
-8914AB,Bilderdijkstraat,3,,
-8914AB,Bilderdijkstraat,11,,
-8914AC,Bilderdijkstraat,34,,
-8914AC,Bilderdijkstraat,40,,
-8914AC,Bilderdijkstraat,44,,
-8914AS,Heliconweg,4,b,
-8914AS,Heliconweg,4,c,
-8914AS,Heliconweg,4,f,
-8914AS,Heliconweg,4,g,
-8914AS,Heliconweg,4,j,
-8914AS,Heliconweg,4,s,
-8914AS,Heliconweg,4,s,
-8914AS,Heliconweg,4,w,
-8914AS,Heliconweg,4,w,
-8914AS,Heliconweg,22,c,
-8914AS,Heliconweg,22,c,
-8914AT,Heliconweg,60,k,
-8914AT,Heliconweg,56,,
-8914AT,Heliconweg,26,,
-8914AT,Heliconweg,40,,
-8914AJ,Potgieterstraat,25,,
-8914AK,Potgieterstraat,37,,
-8914AK,Potgieterstraat,43,,
-8914AK,Potgieterstraat,49,,
-8914AL,Potgieterstraat,30,d,
-8914AL,Potgieterstraat,4,,
-8914AM,van Lennepstraat,1,,
-8914AM,van Lennepstraat,3,,
-8914AA,Europaplein,9,,
-8914AA,Europaplein,9,b,
-8914AA,Europaplein,11,f,
-8914AD,Helmersstraat,7,,
-8914AB,Harlingerstraatweg,85,,
-8914AE,Pieter Langendijkstraat,3,,
-8914AE,Pieter Langendijkstraat,5,,
-8914AG,Pieter Langendijkstraat,10,,
-8914AG,Pieter Langendijkstraat,14,,
-8914AG,Pieter Langendijkstraat,28,,
-8914AH,Pieter Langendijkstraat,42,,
-8914AH,Pieter Langendijkstraat,46,,
-8914AH,Pieter Langendijkstraat,52,,
-8914AN,Aagje Dekenstraat,7,,
-8914AB,Bilderdijkstraat,7,,
-8914AB,Bilderdijkstraat,9,,
-8914AB,Bilderdijkstraat,17,,
-8914AB,Bilderdijkstraat,21,,
-8914AB,Bilderdijkstraat,27,,
-8914AB,Bilderdijkstraat,29,,
-8914AB,Bilderdijkstraat,31,,
-8914AB,Bilderdijkstraat,35,,
-8914AC,Bilderdijkstraat,28,,
-8914AC,Bilderdijkstraat,36,,
-8914AC,Bilderdijkstraat,46,,
-8914AC,Bilderdijkstraat,47,,
-8914AC,Bilderdijkstraat,47,,
-8914AS,Heliconweg,4,e,
-8914AS,Heliconweg,4,t,
-8914AS,Heliconweg,4,t,
-8914AS,Heliconweg,12,c,
-8914AS,Heliconweg,4,a,
-8914AS,Heliconweg,4,h,
-8914AS,Heliconweg,4,k,
-8914AS,Heliconweg,4,p,
-8914AS,Heliconweg,4,p,
-8914AT,Heliconweg,62,k,
-8914AJ,Potgieterstraat,1,,
-8914AJ,Potgieterstraat,7,,
-8914AJ,Potgieterstraat,15,,
-8914AJ,Potgieterstraat,23,,
-8914AK,Potgieterstraat,51,,
-8914AK,Potgieterstraat,55,,
-8914AL,Potgieterstraat,30,c,
-8914AL,Potgieterstraat,30,e,
-8914AL,Potgieterstraat,30,f,
-8914AL,Potgieterstraat,8,,
-8914AL,Potgieterstraat,28,,
-8914AL,Potgieterstraat,30,a,
-8914AR,Nicolaas Beetsstraat,10,,
-8914AA,Europaplein,9,e,
-8914AA,Europaplein,10,e,
-8914AA,Europaplein,11,,
-8914AA,Europaplein,11,e,
-8914AA,Europaplein,11,g,
-8914AA,Europaplein,12,c,
-8914AD,Helmersstraat,1,,
-8914AD,Helmersstraat,11,,
-8914AB,Harlingerstraatweg,87,,
-8914AZ,Harlingerstraatweg,109,,
-8914AZ,Harlingerstraatweg,113,,
-8914AZ,Harlingerstraatweg,115,,
-8914AE,Pieter Langendijkstraat,15,,
-8914AG,Pieter Langendijkstraat,24,,
-8914AH,Pieter Langendijkstraat,54,,
-8914AN,Aagje Dekenstraat,13,,
-8914AN,Aagje Dekenstraat,15,,
-8914AB,Bilderdijkstraat,13,,
-8914AB,Bilderdijkstraat,33,,
-8914AB,Bilderdijkstraat,1,,
-8914AB,Bilderdijkstraat,25,,
-8914AC,Bilderdijkstraat,39,b,
-8914AC,Bilderdijkstraat,39,b,
-8914AC,Bilderdijkstraat,39,,
-8914AC,Bilderdijkstraat,39,,
-8914AS,Heliconweg,16,,
-8914AS,Heliconweg,16,,
-8914AS,Heliconweg,16,c,
-8914AS,Heliconweg,16,c,
-8914AS,Heliconweg,18,b,
-8914AS,Heliconweg,18,b,
-8914AS,Heliconweg,4,m,
-8914AT,Heliconweg,32,,
-8914AT,Heliconweg,38,,
-8914AJ,Potgieterstraat,5,,
-8914AJ,Potgieterstraat,9,,
-8914AJ,Potgieterstraat,13,,
-8914AJ,Potgieterstraat,27,,
-8914AK,Potgieterstraat,39,,
-8914AL,Potgieterstraat,12,,
-8914AR,Nicolaas Beetsstraat,14,,
-8914AA,Europaplein,9,c,
-8914AD,Helmersstraat,3,,
-8914AD,Helmersstraat,9,,
-8914AB,Harlingerstraatweg,91,,
-8914AB,Harlingerstraatweg,93,,
-8914AP,Rhijnvis Feithstraat,5,,
-8914AE,Pieter Langendijkstraat,9,,
-8914AE,Pieter Langendijkstraat,13,,
-8914AG,Pieter Langendijkstraat,18,,
-8914AG,Pieter Langendijkstraat,34,,
-8914AH,Pieter Langendijkstraat,44,,
-8914AM,Elisabeth Wolffstraat,10,,
-8914AB,Bilderdijkstraat,1,f,
-8914AS,Heliconweg,14,,
-8914AS,Heliconweg,14,,
-8914AS,Heliconweg,18,,
-8914AS,Heliconweg,20,b,
-8914AS,Heliconweg,22,,
-8914AS,Heliconweg,22,,
-8914AS,Heliconweg,4,d,
-8914AS,Heliconweg,4,n,
-8914AS,Heliconweg,4,r,
-8914AS,Heliconweg,4,r,
-8914AT,Heliconweg,62,,
-8914AK,Potgieterstraat,41,,
-8914AR,Nicolaas Beetsstraat,4,,
-8914AR,Nicolaas Beetsstraat,22,,
-8914AA,Europaplein,10,,
-8914AA,Europaplein,10,b,
-8914AA,Europaplein,10,c,
-8914AA,Europaplein,11,c,
-8914AA,Europaplein,12,e,
-8914AA,Europaplein,15,,
-8914AZ,Harlingerstraatweg,115,k,
-8914AZ,Harlingerstraatweg,105,a,
-8914AS,Heliconweg,6,,
-8914AS,Heliconweg,4,v,
-8914AS,Heliconweg,4,v,
-8914AS,Heliconweg,4,z,
-8914AT,Heliconweg,42,k,
-8914AT,Heliconweg,56,k,
-8914AZ,Harlingerstraatweg,105,a,
-8914BX,Stadionplein,4,,
-8914BX,Stadionplein,1,,
-8914BX,Stadionplein,3,,
-8914BX,Stadionplein,5,,
-8914BX,Stadionplein,7,,
-8914BX,Stadionplein,9,,
-8914BX,Stadionplein,11,,
-8914BX,Stadionplein,17,,
-8914BX,Stadionplein,19,,
-8914BX,Stadionplein,21,,
-8914BX,Stadionplein,25,,
-8914BX,Stadionplein,25,,
-8914BX,Stadionplein,27,,
-8914BX,Stadionplein,29,,
-8914BX,Stadionplein,31,,
-8914BX,Stadionplein,15,,
-8914BX,Stadionplein,23,,
-8914BX,Stadionplein,7,a,
-8914BX,Stadionplein,7,b,
-8914BX,Stadionplein,7,c,
-8914BX,Stadionplein,9,,
-8914BX,Stadionplein,9,,
-8914BX,Stadionplein,9,a,
-8914BX,Stadionplein,9,a,
-8914BX,Stadionplein,9,b,
-8914BX,Stadionplein,9,b,
-8914BX,Stadionplein,11,a,
-8914BX,Stadionplein,11,b,
-8914BX,Stadionplein,15,,
-8914BX,Stadionplein,23,,
-8914BX,Stadionplein,31,,
-8914BX,Stadionplein,33,,
-8914BX,Stadionplein,35,,
-8914BX,Stadionplein,9,,
-8914BX,Stadionplein,25,,
-8914BX,Stadionplein,25,a,
-8914BX,Stadionplein,15,,
-8914BX,Stadionplein,15,a,
-8914BX,Stadionplein,15,b,
-8914BX,Stadionplein,15,c,
-8914BX,Stadionplein,15,d,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Europaplein,10,"","",8914AA,Leeuwarden
+Europaplein,10,B,"",8914AA,Leeuwarden
+Europaplein,10,C,"",8914AA,Leeuwarden
+Europaplein,10,D,"",8914AA,Leeuwarden
+Europaplein,10,E,"",8914AA,Leeuwarden
+Europaplein,10,F,"",8914AA,Leeuwarden
+Europaplein,10,G,"",8914AA,Leeuwarden
+Europaplein,11,"","",8914AA,Leeuwarden
+Europaplein,11,B,"",8914AA,Leeuwarden
+Europaplein,11,C,"",8914AA,Leeuwarden
+Europaplein,11,D,"",8914AA,Leeuwarden
+Europaplein,11,E,"",8914AA,Leeuwarden
+Europaplein,11,F,"",8914AA,Leeuwarden
+Europaplein,11,G,"",8914AA,Leeuwarden
+Europaplein,12,"","",8914AA,Leeuwarden
+Europaplein,12,B,"",8914AA,Leeuwarden
+Europaplein,12,C,"",8914AA,Leeuwarden
+Europaplein,12,D,"",8914AA,Leeuwarden
+Europaplein,12,E,"",8914AA,Leeuwarden
+Europaplein,12,F,"",8914AA,Leeuwarden
+Europaplein,12,G,"",8914AA,Leeuwarden
+Europaplein,15,"","",8914AA,Leeuwarden
+Europaplein,16,"","",8914AA,Leeuwarden
+Europaplein,9,"","",8914AA,Leeuwarden
+Europaplein,9,B,"",8914AA,Leeuwarden
+Europaplein,9,C,"",8914AA,Leeuwarden
+Europaplein,9,D,"",8914AA,Leeuwarden
+Europaplein,9,E,"",8914AA,Leeuwarden
+Europaplein,9,F,"",8914AA,Leeuwarden
+Europaplein,9,G,"",8914AA,Leeuwarden
+Bilderdijkstraat,1,"","",8914AB,Leeuwarden
+Bilderdijkstraat,1,A,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,B,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,C,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,D,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,E,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,F,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,G,"",8914AB,Leeuwarden
+Bilderdijkstraat,1,H,"",8914AB,Leeuwarden
+Bilderdijkstraat,11,"","",8914AB,Leeuwarden
+Bilderdijkstraat,13,"","",8914AB,Leeuwarden
+Bilderdijkstraat,15,"","",8914AB,Leeuwarden
+Bilderdijkstraat,17,"","",8914AB,Leeuwarden
+Bilderdijkstraat,19,"","",8914AB,Leeuwarden
+Bilderdijkstraat,21,"","",8914AB,Leeuwarden
+Bilderdijkstraat,23,"","",8914AB,Leeuwarden
+Bilderdijkstraat,25,"","",8914AB,Leeuwarden
+Bilderdijkstraat,27,"","",8914AB,Leeuwarden
+Bilderdijkstraat,29,"","",8914AB,Leeuwarden
+Bilderdijkstraat,3,"","",8914AB,Leeuwarden
+Bilderdijkstraat,31,"","",8914AB,Leeuwarden
+Bilderdijkstraat,33,"","",8914AB,Leeuwarden
+Bilderdijkstraat,35,"","",8914AB,Leeuwarden
+Bilderdijkstraat,5,"","",8914AB,Leeuwarden
+Bilderdijkstraat,7,"","",8914AB,Leeuwarden
+Harlingerstraatweg,85,"","",8914AB,Leeuwarden
+Harlingerstraatweg,87,"","",8914AB,Leeuwarden
+Bilderdijkstraat,9,"","",8914AB,Leeuwarden
+Harlingerstraatweg,91,"","",8914AB,Leeuwarden
+Harlingerstraatweg,93,"","",8914AB,Leeuwarden
+Bilderdijkstraat,26,"","",8914AC,Leeuwarden
+Bilderdijkstraat,28,"","",8914AC,Leeuwarden
+Bilderdijkstraat,30,"","",8914AC,Leeuwarden
+Bilderdijkstraat,34,"","",8914AC,Leeuwarden
+Bilderdijkstraat,36,"","",8914AC,Leeuwarden
+Bilderdijkstraat,37,"","",8914AC,Leeuwarden
+Bilderdijkstraat,37,"","",8914AC,Leeuwarden
+Bilderdijkstraat,37,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,37,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,38,"","",8914AC,Leeuwarden
+Bilderdijkstraat,39,"","",8914AC,Leeuwarden
+Bilderdijkstraat,39,"","",8914AC,Leeuwarden
+Bilderdijkstraat,39,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,39,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,40,"","",8914AC,Leeuwarden
+Bilderdijkstraat,41,"","",8914AC,Leeuwarden
+Bilderdijkstraat,41,"","",8914AC,Leeuwarden
+Bilderdijkstraat,41,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,41,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,43,"","",8914AC,Leeuwarden
+Bilderdijkstraat,43,"","",8914AC,Leeuwarden
+Bilderdijkstraat,43,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,43,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,44,"","",8914AC,Leeuwarden
+Bilderdijkstraat,45,"","",8914AC,Leeuwarden
+Bilderdijkstraat,45,"","",8914AC,Leeuwarden
+Bilderdijkstraat,45,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,45,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,46,"","",8914AC,Leeuwarden
+Bilderdijkstraat,47,"","",8914AC,Leeuwarden
+Bilderdijkstraat,47,"","",8914AC,Leeuwarden
+Bilderdijkstraat,47,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,47,B,"",8914AC,Leeuwarden
+Bilderdijkstraat,48,"","",8914AC,Leeuwarden
+Helmersstraat,1,"","",8914AD,Leeuwarden
+Helmersstraat,11,"","",8914AD,Leeuwarden
+Helmersstraat,15,"","",8914AD,Leeuwarden
+Helmersstraat,3,"","",8914AD,Leeuwarden
+Helmersstraat,5,"","",8914AD,Leeuwarden
+Helmersstraat,7,"","",8914AD,Leeuwarden
+Helmersstraat,9,"","",8914AD,Leeuwarden
+Pieter Langendijkstraat,1,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,11,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,13,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,15,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,17,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,19,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,21,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,3,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,5,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,7,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,9,"","",8914AE,Leeuwarden
+Pieter Langendijkstraat,10,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,12,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,14,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,16,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,18,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,20,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,22,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,24,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,26,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,28,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,30,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,32,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,34,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,36,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,38,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,4,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,6,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,8,"","",8914AG,Leeuwarden
+Pieter Langendijkstraat,40,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,42,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,44,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,46,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,48,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,50,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,52,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,54,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,56,"","",8914AH,Leeuwarden
+Pieter Langendijkstraat,58,"","",8914AH,Leeuwarden
+Potgieterstraat,1,"","",8914AJ,Leeuwarden
+Potgieterstraat,11,"","",8914AJ,Leeuwarden
+Potgieterstraat,13,"","",8914AJ,Leeuwarden
+Potgieterstraat,15,"","",8914AJ,Leeuwarden
+Potgieterstraat,17,"","",8914AJ,Leeuwarden
+Potgieterstraat,19,"","",8914AJ,Leeuwarden
+Potgieterstraat,21,"","",8914AJ,Leeuwarden
+Potgieterstraat,23,"","",8914AJ,Leeuwarden
+Potgieterstraat,25,"","",8914AJ,Leeuwarden
+Potgieterstraat,27,"","",8914AJ,Leeuwarden
+Potgieterstraat,29,"","",8914AJ,Leeuwarden
+Potgieterstraat,3,"","",8914AJ,Leeuwarden
+Potgieterstraat,31,"","",8914AJ,Leeuwarden
+Potgieterstraat,33,"","",8914AJ,Leeuwarden
+Potgieterstraat,5,"","",8914AJ,Leeuwarden
+Potgieterstraat,7,"","",8914AJ,Leeuwarden
+Potgieterstraat,9,"","",8914AJ,Leeuwarden
+Potgieterstraat,37,"","",8914AK,Leeuwarden
+Potgieterstraat,39,"","",8914AK,Leeuwarden
+Potgieterstraat,41,"","",8914AK,Leeuwarden
+Potgieterstraat,43,"","",8914AK,Leeuwarden
+Potgieterstraat,45,"","",8914AK,Leeuwarden
+Potgieterstraat,47,"","",8914AK,Leeuwarden
+Potgieterstraat,49,"","",8914AK,Leeuwarden
+Potgieterstraat,51,"","",8914AK,Leeuwarden
+Potgieterstraat,53,"","",8914AK,Leeuwarden
+Potgieterstraat,55,"","",8914AK,Leeuwarden
+Potgieterstraat,10,"","",8914AL,Leeuwarden
+Potgieterstraat,12,"","",8914AL,Leeuwarden
+Potgieterstraat,14,"","",8914AL,Leeuwarden
+Potgieterstraat,16,"","",8914AL,Leeuwarden
+Potgieterstraat,18,"","",8914AL,Leeuwarden
+Potgieterstraat,2,"","",8914AL,Leeuwarden
+Potgieterstraat,20,"","",8914AL,Leeuwarden
+Potgieterstraat,22,"","",8914AL,Leeuwarden
+Potgieterstraat,24,"","",8914AL,Leeuwarden
+Potgieterstraat,26,"","",8914AL,Leeuwarden
+Potgieterstraat,28,"","",8914AL,Leeuwarden
+Potgieterstraat,30,"","",8914AL,Leeuwarden
+Potgieterstraat,30,A,"",8914AL,Leeuwarden
+Potgieterstraat,30,B,"",8914AL,Leeuwarden
+Potgieterstraat,30,C,"",8914AL,Leeuwarden
+Potgieterstraat,30,D,"",8914AL,Leeuwarden
+Potgieterstraat,30,E,"",8914AL,Leeuwarden
+Potgieterstraat,30,F,"",8914AL,Leeuwarden
+Potgieterstraat,4,"","",8914AL,Leeuwarden
+Potgieterstraat,6,"","",8914AL,Leeuwarden
+Potgieterstraat,8,"","",8914AL,Leeuwarden
+van Lennepstraat,1,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,10,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,12,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,14,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,16,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,18,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,2,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,20,"","",8914AM,Leeuwarden
+van Lennepstraat,3,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,4,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,6,"","",8914AM,Leeuwarden
+Elisabeth Wolffstraat,8,"","",8914AM,Leeuwarden
+Aagje Dekenstraat,1,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,11,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,13,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,15,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,17,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,19,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,3,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,5,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,7,"","",8914AN,Leeuwarden
+Aagje Dekenstraat,9,"","",8914AN,Leeuwarden
+Rhijnvis Feithstraat,4,"","",8914AP,Leeuwarden
+Rhijnvis Feithstraat,5,"","",8914AP,Leeuwarden
+Rhijnvis Feithstraat,7,"","",8914AP,Leeuwarden
+Nicolaas Beetsstraat,10,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,12,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,14,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,16,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,18,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,20,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,22,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,4,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,6,"","",8914AR,Leeuwarden
+Nicolaas Beetsstraat,8,"","",8914AR,Leeuwarden
+Heliconweg,10,"","",8914AS,Leeuwarden
+Heliconweg,12,"","",8914AS,Leeuwarden
+Heliconweg,12,B,"",8914AS,Leeuwarden
+Heliconweg,12,C,"",8914AS,Leeuwarden
+Heliconweg,14,"","",8914AS,Leeuwarden
+Heliconweg,14,"","",8914AS,Leeuwarden
+Heliconweg,14,B,"",8914AS,Leeuwarden
+Heliconweg,14,B,"",8914AS,Leeuwarden
+Heliconweg,14,C,"",8914AS,Leeuwarden
+Heliconweg,14,C,"",8914AS,Leeuwarden
+Heliconweg,16,"","",8914AS,Leeuwarden
+Heliconweg,16,"","",8914AS,Leeuwarden
+Heliconweg,16,B,"",8914AS,Leeuwarden
+Heliconweg,16,B,"",8914AS,Leeuwarden
+Heliconweg,16,C,"",8914AS,Leeuwarden
+Heliconweg,16,C,"",8914AS,Leeuwarden
+Heliconweg,18,"","",8914AS,Leeuwarden
+Heliconweg,18,B,"",8914AS,Leeuwarden
+Heliconweg,18,B,"",8914AS,Leeuwarden
+Heliconweg,18,C,"",8914AS,Leeuwarden
+Heliconweg,18,C,"",8914AS,Leeuwarden
+Heliconweg,20,"","",8914AS,Leeuwarden
+Heliconweg,20,B,"",8914AS,Leeuwarden
+Heliconweg,20,C,"",8914AS,Leeuwarden
+Heliconweg,22,"","",8914AS,Leeuwarden
+Heliconweg,22,"","",8914AS,Leeuwarden
+Heliconweg,22,B,"",8914AS,Leeuwarden
+Heliconweg,22,B,"",8914AS,Leeuwarden
+Heliconweg,22,C,"",8914AS,Leeuwarden
+Heliconweg,22,C,"",8914AS,Leeuwarden
+Heliconweg,4,A,"",8914AS,Leeuwarden
+Heliconweg,4,B,"",8914AS,Leeuwarden
+Heliconweg,4,C,"",8914AS,Leeuwarden
+Heliconweg,4,D,"",8914AS,Leeuwarden
+Heliconweg,4,E,"",8914AS,Leeuwarden
+Heliconweg,4,F,"",8914AS,Leeuwarden
+Heliconweg,4,G,"",8914AS,Leeuwarden
+Heliconweg,4,H,"",8914AS,Leeuwarden
+Heliconweg,4,J,"",8914AS,Leeuwarden
+Heliconweg,4,K,"",8914AS,Leeuwarden
+Heliconweg,4,M,"",8914AS,Leeuwarden
+Heliconweg,4,N,"",8914AS,Leeuwarden
+Heliconweg,4,P,"",8914AS,Leeuwarden
+Heliconweg,4,P,"",8914AS,Leeuwarden
+Heliconweg,4,R,"",8914AS,Leeuwarden
+Heliconweg,4,R,"",8914AS,Leeuwarden
+Heliconweg,4,S,"",8914AS,Leeuwarden
+Heliconweg,4,S,"",8914AS,Leeuwarden
+Heliconweg,4,T,"",8914AS,Leeuwarden
+Heliconweg,4,T,"",8914AS,Leeuwarden
+Heliconweg,4,V,"",8914AS,Leeuwarden
+Heliconweg,4,V,"",8914AS,Leeuwarden
+Heliconweg,4,W,"",8914AS,Leeuwarden
+Heliconweg,4,W,"",8914AS,Leeuwarden
+Heliconweg,4,Z,"",8914AS,Leeuwarden
+Heliconweg,6,"","",8914AS,Leeuwarden
+Heliconweg,6,"","",8914AS,Leeuwarden
+Heliconweg,6,"","",8914AS,Leeuwarden
+Heliconweg,8,"","",8914AS,Leeuwarden
+Heliconweg,24,"","",8914AT,Leeuwarden
+Heliconweg,24,"","",8914AT,Leeuwarden
+Heliconweg,24,B,"",8914AT,Leeuwarden
+Heliconweg,24,B,"",8914AT,Leeuwarden
+Heliconweg,24,C,"",8914AT,Leeuwarden
+Heliconweg,24,C,"",8914AT,Leeuwarden
+Heliconweg,26,"","",8914AT,Leeuwarden
+Heliconweg,26,B,"",8914AT,Leeuwarden
+Heliconweg,26,C,"",8914AT,Leeuwarden
+Heliconweg,28,"","",8914AT,Leeuwarden
+Heliconweg,30,"","",8914AT,Leeuwarden
+Heliconweg,32,"","",8914AT,Leeuwarden
+Heliconweg,34,"","",8914AT,Leeuwarden
+Heliconweg,36,"","",8914AT,Leeuwarden
+Heliconweg,38,"","",8914AT,Leeuwarden
+Heliconweg,40,"","",8914AT,Leeuwarden
+Heliconweg,40,A,"",8914AT,Leeuwarden
+Heliconweg,42,C,"",8914AT,Leeuwarden
+Heliconweg,42,C,"",8914AT,Leeuwarden
+Heliconweg,42,K,"",8914AT,Leeuwarden
+Heliconweg,52,"","",8914AT,Leeuwarden
+Heliconweg,56,"","",8914AT,Leeuwarden
+Heliconweg,56,K,"",8914AT,Leeuwarden
+Heliconweg,60,"","",8914AT,Leeuwarden
+Heliconweg,60,K,"",8914AT,Leeuwarden
+Heliconweg,62,"","",8914AT,Leeuwarden
+Heliconweg,62,K,"",8914AT,Leeuwarden
+Harlingerstraatweg,103,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,103,K,"",8914AZ,Leeuwarden
+Harlingerstraatweg,105,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,105,A,"",8914AZ,Leeuwarden
+Harlingerstraatweg,105,A,"",8914AZ,Leeuwarden
+Harlingerstraatweg,105,A,"",8914AZ,Leeuwarden
+Harlingerstraatweg,107,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,109,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,109,A,"",8914AZ,Leeuwarden
+Harlingerstraatweg,111,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,111,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,111,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,113,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,115,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,115,"","",8914AZ,Leeuwarden
+Harlingerstraatweg,115,K,"",8914AZ,Leeuwarden
+Harlingerstraatweg,115,K,"",8914AZ,Leeuwarden
+Stadionplein,1,"","",8914BX,Leeuwarden
+Stadionplein,11,"","",8914BX,Leeuwarden
+Stadionplein,11,A,"",8914BX,Leeuwarden
+Stadionplein,11,B,"",8914BX,Leeuwarden
+Stadionplein,15,"","",8914BX,Leeuwarden
+Stadionplein,15,"","",8914BX,Leeuwarden
+Stadionplein,15,"","",8914BX,Leeuwarden
+Stadionplein,15,"","",8914BX,Leeuwarden
+Stadionplein,15,A,"",8914BX,Leeuwarden
+Stadionplein,15,B,"",8914BX,Leeuwarden
+Stadionplein,15,C,"",8914BX,Leeuwarden
+Stadionplein,15,D,"",8914BX,Leeuwarden
+Stadionplein,17,"","",8914BX,Leeuwarden
+Stadionplein,17,"","",8914BX,Leeuwarden
+Stadionplein,19,"","",8914BX,Leeuwarden
+Stadionplein,21,"","",8914BX,Leeuwarden
+Stadionplein,23,"","",8914BX,Leeuwarden
+Stadionplein,23,"","",8914BX,Leeuwarden
+Stadionplein,23,"","",8914BX,Leeuwarden
+Stadionplein,25,"","",8914BX,Leeuwarden
+Stadionplein,25,"","",8914BX,Leeuwarden
+Stadionplein,25,"","",8914BX,Leeuwarden
+Stadionplein,25,"","",8914BX,Leeuwarden
+Stadionplein,25,A,"",8914BX,Leeuwarden
+Stadionplein,27,"","",8914BX,Leeuwarden
+Stadionplein,29,"","",8914BX,Leeuwarden
+Stadionplein,29,"","",8914BX,Leeuwarden
+Stadionplein,3,"","",8914BX,Leeuwarden
+Stadionplein,31,"","",8914BX,Leeuwarden
+Stadionplein,31,"","",8914BX,Leeuwarden
+Stadionplein,31,"","",8914BX,Leeuwarden
+Stadionplein,33,"","",8914BX,Leeuwarden
+Stadionplein,35,"","",8914BX,Leeuwarden
+Stadionplein,4,"","",8914BX,Leeuwarden
+Stadionplein,5,"","",8914BX,Leeuwarden
+Stadionplein,7,"","",8914BX,Leeuwarden
+Stadionplein,7,A,"",8914BX,Leeuwarden
+Stadionplein,7,B,"",8914BX,Leeuwarden
+Stadionplein,7,C,"",8914BX,Leeuwarden
+Stadionplein,9,"","",8914BX,Leeuwarden
+Stadionplein,9,"","",8914BX,Leeuwarden
+Stadionplein,9,"","",8914BX,Leeuwarden
+Stadionplein,9,"","",8914BX,Leeuwarden
+Stadionplein,9,"","",8914BX,Leeuwarden
+Stadionplein,9,"","",8914BX,Leeuwarden
+Stadionplein,9,A,"",8914BX,Leeuwarden
+Stadionplein,9,A,"",8914BX,Leeuwarden
+Stadionplein,9,A,"",8914BX,Leeuwarden
+Stadionplein,9,B,"",8914BX,Leeuwarden
+Stadionplein,9,B,"",8914BX,Leeuwarden
+Stadionplein,9,B,"",8914BX,Leeuwarden

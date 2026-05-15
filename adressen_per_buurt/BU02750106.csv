@@ -1,57 +1,57 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6994JB,Carolinahoeve,1,,
-6994JB,Carolinahoeve,1,a,
-6994CC,Diepesteeg,1,,
-6994CC,Diepesteeg,1,a,
-6994CC,Diepesteeg,3,,
-6994CC,Diepesteeg,5,,
-6994CC,Diepesteeg,9,,
-6994CC,Diepesteeg,11,,
-6994CC,Diepesteeg,13,,
-6994CC,Diepesteeg,15,,
-6994CC,Diepesteeg,15,a,
-6994CC,Diepesteeg,17,,
-6994CC,Diepesteeg,19,,
-6994CC,Diepesteeg,21,,
-6994CC,Diepesteeg,21,a,
-6994CC,Diepesteeg,21,b,
-6994CC,Diepesteeg,23,,
-6994CC,Diepesteeg,25,,
-6994JA,Diepesteeg,44,,
-6994CM,Parkweg,1,,
-6994CM,Parkweg,3,,
-6994CM,Parkweg,3,a,
-6994CM,Parkweg,5,,
-6994CM,Parkweg,7,,
-6994CM,Parkweg,9,,
-6994CM,Parkweg,11,,
-6994CM,Parkweg,13,,
-6994CM,Parkweg,15,,
-6994CM,Parkweg,17,,
-6994CM,Parkweg,17,a,
-6994CM,Parkweg,17,b,
-6994CM,Parkweg,19,,
-6994CM,Parkweg,19,a,
-6994CM,Parkweg,21,,
-6994CM,Parkweg,23,,
-6994CM,Parkweg,23,a,
-6994CM,Parkweg,25,,
-6994CN,Parkweg,2,,bis
-6994CN,Parkweg,2,a,
-6994CN,Parkweg,2,b,
-6994CN,Parkweg,4,,
-6994CN,Parkweg,6,,
-6994CN,Parkweg,10,,
-6994CN,Parkweg,12,,
-6994CN,Parkweg,14,,
-6994CN,Parkweg,16,,
-6994CN,Parkweg,18,,
-6994CN,Parkweg,20,,
-6994CN,Parkweg,22,,
-6994CN,Parkweg,24,,
-6994CN,Parkweg,26,,
-6994CN,Parkweg,28,,
-6994CM,Parkweg,27,,
-6994CN,Parkweg,2,,
-6994CM,Parkweg,15,a,
-6994CM,Parkweg,19,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Diepesteeg,1,"","",6994CC,De Steeg
+Diepesteeg,1,A,"",6994CC,De Steeg
+Diepesteeg,11,"","",6994CC,De Steeg
+Diepesteeg,13,"","",6994CC,De Steeg
+Diepesteeg,15,"","",6994CC,De Steeg
+Diepesteeg,15,A,"",6994CC,De Steeg
+Diepesteeg,17,"","",6994CC,De Steeg
+Diepesteeg,19,"","",6994CC,De Steeg
+Diepesteeg,21,"","",6994CC,De Steeg
+Diepesteeg,21,A,"",6994CC,De Steeg
+Diepesteeg,21,B,"",6994CC,De Steeg
+Diepesteeg,23,"","",6994CC,De Steeg
+Diepesteeg,25,"","",6994CC,De Steeg
+Diepesteeg,3,"","",6994CC,De Steeg
+Diepesteeg,5,"","",6994CC,De Steeg
+Diepesteeg,9,"","",6994CC,De Steeg
+Parkweg,1,"","",6994CM,De Steeg
+Parkweg,11,"","",6994CM,De Steeg
+Parkweg,13,"","",6994CM,De Steeg
+Parkweg,15,"","",6994CM,De Steeg
+Parkweg,15,A,"",6994CM,De Steeg
+Parkweg,17,"","",6994CM,De Steeg
+Parkweg,17,A,"",6994CM,De Steeg
+Parkweg,17,B,"",6994CM,De Steeg
+Parkweg,19,"","",6994CM,De Steeg
+Parkweg,19,A,"",6994CM,De Steeg
+Parkweg,19,A,"",6994CM,De Steeg
+Parkweg,21,"","",6994CM,De Steeg
+Parkweg,23,"","",6994CM,De Steeg
+Parkweg,23,A,"",6994CM,De Steeg
+Parkweg,25,"","",6994CM,De Steeg
+Parkweg,27,"","",6994CM,De Steeg
+Parkweg,3,"","",6994CM,De Steeg
+Parkweg,3,A,"",6994CM,De Steeg
+Parkweg,5,"","",6994CM,De Steeg
+Parkweg,7,"","",6994CM,De Steeg
+Parkweg,9,"","",6994CM,De Steeg
+Parkweg,10,"","",6994CN,De Steeg
+Parkweg,12,"","",6994CN,De Steeg
+Parkweg,14,"","",6994CN,De Steeg
+Parkweg,16,"","",6994CN,De Steeg
+Parkweg,18,"","",6994CN,De Steeg
+Parkweg,2,"","",6994CN,De Steeg
+Parkweg,2,"",BIS,6994CN,De Steeg
+Parkweg,2,A,"",6994CN,De Steeg
+Parkweg,2,B,"",6994CN,De Steeg
+Parkweg,20,"","",6994CN,De Steeg
+Parkweg,22,"","",6994CN,De Steeg
+Parkweg,24,"","",6994CN,De Steeg
+Parkweg,26,"","",6994CN,De Steeg
+Parkweg,28,"","",6994CN,De Steeg
+Parkweg,4,"","",6994CN,De Steeg
+Parkweg,6,"","",6994CN,De Steeg
+Diepesteeg,44,"","",6994JA,De Steeg
+Carolinahoeve,1,"","",6994JB,De Steeg
+Carolinahoeve,1,A,"",6994JB,De Steeg

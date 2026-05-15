@@ -1,39 +1,40 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8265PA",7,"",""
-"8265PA",5,"",""
-"8265PA",1,"A",""
-"8265PA",3,"",""
-"8265PA",5,"",""
-"8265PP",12,"",""
-"8265PP",1,"",""
-"8265PP",6,"",""
-"8265VA",8,"",""
-"8265VA",6,"",""
-"8265VA",4,"",""
-"8265VA",10,"",""
-"8265VA",5,"",""
-"8265VA",12,"",""
-"8265VA",3,"",""
-"8265VC",1,"","TR"
-"8265VC",1,"",""
-"8265VZ",4,"",""
-"8265VZ",4,"A",""
-8265VZ,Bovenbroeksweg,4,A,
-8265VZ,Bovenbroeksweg,4,,
-8265VA,De Maten,4,,
-8265VA,De Maten,3,,
-8265VA,De Maten,6,,
-8265VA,De Maten,8,,
-8265PA,Kamperstraatweg,5,,
-8265PA,Kamperstraatweg,3,,
-8265PA,Kamperstraatweg,1,A,
-8265VC,Veneweg,1,,
-8265VC,Veneweg,1,,TR
-8265VA,De Maten,10,,
-8265VA,De Maten,5,,
-8265VA,De Maten,12,,
-8265PA,Kamperstraatweg,7,,
-8265PP,Venedijk,1,,
-8265PP,Venedijk,12,,
-8265PP,Venedijk,6,,
-8265VC,Veneweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+7,"","","",8265PA,
+5,"","","",8265PA,
+3,"","","",8265PA,
+5,"","","",8265PA,
+Kamperstraatweg,1,A,"",8265PA,Kampen
+Kamperstraatweg,3,"","",8265PA,Kampen
+Kamperstraatweg,5,"","",8265PA,Kampen
+Kamperstraatweg,7,"","",8265PA,Kampen
+1,A,"","",8265PA,
+12,"","","",8265PP,
+1,"","","",8265PP,
+6,"","","",8265PP,
+Venedijk,1,"","",8265PP,Kampen
+Venedijk,12,"","",8265PP,Kampen
+Venedijk,6,"","",8265PP,Kampen
+8,"","","",8265VA,
+6,"","","",8265VA,
+4,"","","",8265VA,
+10,"","","",8265VA,
+5,"","","",8265VA,
+12,"","","",8265VA,
+3,"","","",8265VA,
+De Maten,10,"","",8265VA,Kampen
+De Maten,12,"","",8265VA,Kampen
+De Maten,3,"","",8265VA,Kampen
+De Maten,4,"","",8265VA,Kampen
+De Maten,5,"","",8265VA,Kampen
+De Maten,6,"","",8265VA,Kampen
+De Maten,8,"","",8265VA,Kampen
+1,"","","",8265VC,
+1,"",TR,"",8265VC,
+Veneweg,1,"","",8265VC,Kampen
+Veneweg,1,"",TR,8265VC,Kampen
+Veneweg,3,"","",8265VC,Kampen
+4,"","","",8265VZ,
+Bovenbroeksweg,4,"","",8265VZ,Kampen
+Bovenbroeksweg,4,A,"",8265VZ,Kampen
+4,A,"","",8265VZ,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

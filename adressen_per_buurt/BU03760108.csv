@@ -1,8 +1,8 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1261TA,Stichtseweg,1,,
-1261TA,Stichtseweg,2,,
-1261TA,Stichtseweg,99,,
-1261TA,Stichtseweg,2,a,
-1261TA,Stichtseweg,101,,
-1261TA,Stichtseweg,3,a,
-1261TA,Stichtseweg,3,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Stichtseweg,1,"","",1261TA,Blaricum
+Stichtseweg,101,"","",1261TA,Blaricum
+Stichtseweg,2,"","",1261TA,Blaricum
+Stichtseweg,2,A,"",1261TA,Blaricum
+Stichtseweg,3,A,"",1261TA,Blaricum
+Stichtseweg,3,A,"",1261TA,Blaricum
+Stichtseweg,99,"","",1261TA,Blaricum

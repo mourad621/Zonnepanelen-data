@@ -1,8 +1,8 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6871NG,Quadenoord,2,,
-6871NG,Quadenoord,5,,
-6871NG,Quadenoord,6,,
-6871NL,Parallelweg,75,,
-6871KE,Bennekomseweg,147,,
-6871KE,Bennekomseweg,165,,
-6871NG,Quadenoord,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bennekomseweg,147,"","",6871KE,Renkum
+Bennekomseweg,165,"","",6871KE,Renkum
+Quadenoord,2,"","",6871NG,Renkum
+Quadenoord,4,"","",6871NG,Renkum
+Quadenoord,5,"","",6871NG,Renkum
+Quadenoord,6,"","",6871NG,Renkum
+Parallelweg,75,"","",6871NL,Renkum

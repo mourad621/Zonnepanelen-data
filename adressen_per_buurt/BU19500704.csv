@@ -1,399 +1,202 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9563PH",21,"",""
-"9563PH",19,"",""
-"9563PH",7,"",""
-"9563PH",17,"",""
-"9563PH",8,"",""
-"9563PH",12,"",""
-"9563PH",10,"",""
-"9563PH",4,"",""
-"9563PH",5,"",""
-"9563PH",1,"",""
-"9563PH",2,"",""
-"9563PH",3,"",""
-"9563PH",14,"",""
-"9563PH",11,"",""
-"9563PH",9,"",""
-"9563PH",24,"",""
-"9563PH",13,"",""
-"9563PH",15,"",""
-"9563PH",6,"",""
-"9563PJ",38,"",""
-"9563PJ",30,"",""
-"9563PJ",34,"",""
-"9563PJ",47,"",""
-"9563PJ",28,"",""
-"9563PJ",41,"",""
-"9563PJ",45,"",""
-"9563PJ",35,"a",""
-"9563PJ",36,"",""
-"9563PJ",44,"",""
-"9563PJ",39,"",""
-"9563PJ",35,"",""
-"9563PJ",47,"",""
-"9563PJ",43,"",""
-"9563PJ",32,"",""
-"9563PJ",26,"",""
-"9563PJ",42,"",""
-"9563PJ",33,"",""
-"9563PK",69,"",""
-"9563PK",66,"",""
-"9563PK",48,"",""
-"9563PK",56,"",""
-"9563PK",74,"",""
-"9563PK",72,"",""
-"9563PK",70,"",""
-"9563PK",50,"",""
-"9563PK",61,"",""
-"9563PK",58,"",""
-"9563PK",71,"",""
-"9563PK",50,"",""
-"9563PK",68,"",""
-"9563PK",59,"",""
-"9563PK",50,"",""
-"9563PK",62,"",""
-"9563PK",50,"",""
-"9563PK",63,"",""
-"9563PK",64,"",""
-"9563PL",100,"",""
-"9563PL",81,"",""
-"9563PL",77,"",""
-"9563PL",89,"",""
-"9563PL",82,"",""
-"9563PL",83,"",""
-"9563PL",75,"a",""
-"9563PL",84,"",""
-"9563PL",93,"",""
-"9563PL",97,"",""
-"9563PL",99,"",""
-"9563PL",92,"",""
-"9563PL",76,"",""
-"9563PL",85,"",""
-"9563PL",88,"",""
-"9563PL",76,"",""
-"9563PL",79,"",""
-"9563PL",96,"",""
-"9563PL",75,"a",""
-"9563PL",75,"",""
-"9563PL",94,"",""
-"9563PL",76,"",""
-"9563PM",103,"",""
-"9563PM",110,"","TRAF"
-"9563PM",110,"",""
-"9563PM",110,"",""
-"9563PM",103,"",""
-"9563PM",103,"",""
-"9563PM",109,"",""
-"9563PM",105,"",""
-"9563PM",106,"a",""
-"9563PM",106,"",""
-"9563PM",103,"",""
-"9563PM",108,"",""
-"9563PM",101,"",""
-"9563PM",102,"",""
-"9563PN",9,"",""
-"9563PN",1,"",""
-"9563PN",7,"",""
-"9563PN",35,"",""
-"9563PN",23,"",""
-"9563PN",5,"",""
-"9563PN",13,"",""
-"9563PN",33,"",""
-"9563PN",37,"",""
-"9563PN",3,"",""
-"9563PN",11,"",""
-"9563PN",15,"",""
-"9563PN",29,"",""
-"9563PN",19,"",""
-"9563PN",31,"",""
-"9563PN",25,"",""
-"9563PN",21,"",""
-"9563PN",39,"",""
-"9563PN",17,"",""
-"9563PN",41,"",""
-"9563PN",27,"",""
-"9563PP",47,"",""
-"9563PP",57,"",""
-"9563PP",43,"b",""
-"9563PP",59,"",""
-"9563PP",53,"",""
-"9563PP",61,"",""
-"9563PP",43,"a",""
-"9563PP",45,"",""
-"9563PP",49,"",""
-"9563PP",63,"",""
-"9563PP",43,"",""
-"9563PP",55,"",""
-"9563PP",51,"",""
-"9563PP",43,"c",""
-"9563PP",43,"d",""
-"9563PR",12,"",""
-"9563PR",38,"",""
-"9563PR",24,"",""
-"9563PR",20,"",""
-"9563PR",14,"",""
-"9563PR",6,"",""
-"9563PR",26,"",""
-"9563PR",28,"",""
-"9563PR",42,"",""
-"9563PR",22,"",""
-"9563PR",10,"",""
-"9563PR",18,"",""
-"9563PR",16,"",""
-"9563PR",4,"",""
-"9563PR",30,"",""
-"9563PR",8,"",""
-"9563PR",32,"",""
-"9563PR",40,"",""
-"9563PR",4,"c",""
-"9563PR",36,"",""
-"9563PR",4,"d",""
-"9563PR",2,"",""
-"9563PS",62,"",""
-"9563PS",48,"",""
-"9563PS",56,"",""
-"9563PS",58,"",""
-"9563PS",50,"",""
-"9563PS",54,"",""
-"9563PS",52,"",""
-"9563PS",60,"",""
-"9563PS",46,"",""
-"9563PS",64,"",""
-"9563PT",1,"a","GASS"
-"9563PT",1,"",""
-"9563PT",5,"",""
-"9563PT",7,"",""
-"9563PT",3,"",""
-"9563PV",6,"",""
-"9563PV",3,"",""
-"9563PV",4,"",""
-"9563PV",1,"",""
-"9563PV",2,"",""
-"9563PV",5,"",""
-"9563TA",19,"",""
-"9563TA",20,"a",""
-"9563TA",14,"","TRAF"
-"9563TA",1,"",""
-"9563TA",20,"",""
-"9563TA",23,"",""
-"9563TA",20,"a",""
-"9563TA",13,"",""
-"9563TA",19,"",""
-"9563TA",20,"",""
-"9563TB",42,"",""
-"9563TB",24,"",""
-"9563TB",29,"",""
-"9563TB",33,"",""
-"9563TB",26,"",""
-"9563TB",30,"",""
-"9563TB",48,"",""
-"9563TB",34,"",""
-"9563TB",45,"",""
-"9563TB",26,"",""
-"9563TC",61,"",""
-"9563TC",64,"",""
-"9563TC",56,"",""
-"9563TC",64,"",""
-"9563TC",61,"a",""
-"9563TC",54,"",""
-"9563TC",51,"",""
-"9563TC",63,"",""
-"9563TM",11,"",""
-"9563TW",5,"",""
-9563PN,Avébéweg,1,,
-9563PN,Avébéweg,3,,
-9563PN,Avébéweg,5,,
-9563PN,Avébéweg,7,,
-9563PN,Avébéweg,9,,
-9563PN,Avébéweg,11,,
-9563PN,Avébéweg,13,,
-9563PN,Avébéweg,15,,
-9563PN,Avébéweg,17,,
-9563PN,Avébéweg,19,,
-9563PN,Avébéweg,21,,
-9563PN,Avébéweg,23,,
-9563PN,Avébéweg,25,,
-9563PN,Avébéweg,27,,
-9563PN,Avébéweg,29,,
-9563PN,Avébéweg,31,,
-9563PN,Avébéweg,33,,
-9563PN,Avébéweg,35,,
-9563PN,Avébéweg,37,,
-9563PN,Avébéweg,39,,
-9563PN,Avébéweg,41,,
-9563PP,Avébéweg,43,a,
-9563PP,Avébéweg,43,b,
-9563PP,Avébéweg,43,c,
-9563PP,Avébéweg,43,d,
-9563PP,Avébéweg,43,,
-9563PP,Avébéweg,45,,
-9563PP,Avébéweg,47,,
-9563PP,Avébéweg,49,,
-9563PP,Avébéweg,51,,
-9563PP,Avébéweg,53,,
-9563PP,Avébéweg,55,,
-9563PP,Avébéweg,57,,
-9563PP,Avébéweg,59,,
-9563PP,Avébéweg,61,,
-9563PP,Avébéweg,63,,
-9563PR,Avébéweg,2,,
-9563PR,Avébéweg,4,c,
-9563PR,Avébéweg,4,d,
-9563PR,Avébéweg,4,,
-9563PR,Avébéweg,6,,
-9563PR,Avébéweg,8,,
-9563PR,Avébéweg,10,,
-9563PR,Avébéweg,12,,
-9563PR,Avébéweg,14,,
-9563PR,Avébéweg,16,,
-9563PR,Avébéweg,18,,
-9563PR,Avébéweg,20,,
-9563PR,Avébéweg,22,,
-9563PR,Avébéweg,24,,
-9563PR,Avébéweg,26,,
-9563PR,Avébéweg,28,,
-9563PR,Avébéweg,30,,
-9563PR,Avébéweg,32,,
-9563PR,Avébéweg,36,,
-9563PR,Avébéweg,38,,
-9563PR,Avébéweg,40,,
-9563PR,Avébéweg,42,,
-9563PS,Avébéweg,46,,
-9563PS,Avébéweg,48,,
-9563PS,Avébéweg,50,,
-9563PS,Avébéweg,52,,
-9563PS,Avébéweg,54,,
-9563PS,Avébéweg,56,,
-9563PS,Avébéweg,58,,
-9563PS,Avébéweg,60,,
-9563PS,Avébéweg,62,,
-9563PS,Avébéweg,64,,
-9563TA,Jipsingboermussel,1,,
-9563TA,Jipsingboermussel,13,,
-9563TA,Jipsingboermussel,14,,TRAF
-9563TA,Jipsingboermussel,19,,
-9563TA,Jipsingboermussel,20,a,
-9563TA,Jipsingboermussel,20,,
-9563TA,Jipsingboermussel,23,,
-9563TB,Jipsingboermussel,24,,
-9563TB,Jipsingboermussel,26,,
-9563TB,Jipsingboermussel,29,,
-9563TB,Jipsingboermussel,30,,
-9563TB,Jipsingboermussel,33,,
-9563TB,Jipsingboermussel,34,,
-9563TB,Jipsingboermussel,42,,
-9563TB,Jipsingboermussel,45,,
-9563TB,Jipsingboermussel,48,,
-9563TC,Jipsingboermussel,51,,
-9563TC,Jipsingboermussel,54,,
-9563TC,Jipsingboermussel,56,,
-9563TC,Jipsingboermussel,61,a,
-9563TC,Jipsingboermussel,61,,
-9563TC,Jipsingboermussel,63,,
-9563TC,Jipsingboermussel,64,,
-9563TM,M. en O.-weg,11,,
-9563PV,Odoornerweg,1,,
-9563PV,Odoornerweg,2,,
-9563PV,Odoornerweg,3,,
-9563PV,Odoornerweg,4,,
-9563PV,Odoornerweg,5,,
-9563PV,Odoornerweg,6,,
-9563PT,Schaapsbergweg,1,a,GASS
-9563PT,Schaapsbergweg,1,,
-9563PT,Schaapsbergweg,3,,
-9563PT,Schaapsbergweg,5,,
-9563PT,Schaapsbergweg,7,,
-9563PH,Zandberg,1,,
-9563PH,Zandberg,2,,
-9563PH,Zandberg,3,,
-9563PH,Zandberg,4,,
-9563PH,Zandberg,5,,
-9563PH,Zandberg,6,,
-9563PH,Zandberg,7,,
-9563PH,Zandberg,8,,
-9563PH,Zandberg,9,,
-9563PH,Zandberg,10,,
-9563PH,Zandberg,11,,
-9563PH,Zandberg,12,,
-9563PH,Zandberg,13,,
-9563PH,Zandberg,14,,
-9563PH,Zandberg,15,,
-9563PH,Zandberg,17,,
-9563PH,Zandberg,19,,
-9563PH,Zandberg,21,,
-9563PH,Zandberg,24,,
-9563PJ,Zandberg,26,,
-9563PJ,Zandberg,28,,
-9563PJ,Zandberg,30,,
-9563PJ,Zandberg,32,,
-9563PJ,Zandberg,33,,
-9563PJ,Zandberg,34,,
-9563PJ,Zandberg,35,a,
-9563PJ,Zandberg,35,,
-9563PJ,Zandberg,36,,
-9563PJ,Zandberg,38,,
-9563PJ,Zandberg,39,,
-9563PJ,Zandberg,41,,
-9563PJ,Zandberg,42,,
-9563PJ,Zandberg,43,,
-9563PJ,Zandberg,44,,
-9563PJ,Zandberg,45,,
-9563PJ,Zandberg,47,,
-9563PK,Zandberg,48,,
-9563PK,Zandberg,50,,
-9563PK,Zandberg,50,,
-9563PK,Zandberg,50,,
-9563PK,Zandberg,56,,
-9563PK,Zandberg,58,,
-9563PK,Zandberg,59,,
-9563PK,Zandberg,61,,
-9563PK,Zandberg,62,,
-9563PK,Zandberg,63,,
-9563PK,Zandberg,64,,
-9563PK,Zandberg,66,,
-9563PK,Zandberg,68,,
-9563PK,Zandberg,69,,
-9563PK,Zandberg,70,,
-9563PK,Zandberg,71,,
-9563PK,Zandberg,72,,
-9563PK,Zandberg,74,,
-9563PL,Zandberg,75,a,
-9563PL,Zandberg,75,,
-9563PL,Zandberg,76,,
-9563PL,Zandberg,77,,
-9563PL,Zandberg,79,,
-9563PL,Zandberg,81,,
-9563PL,Zandberg,82,,
-9563PL,Zandberg,83,,
-9563PL,Zandberg,84,,
-9563PL,Zandberg,85,,
-9563PL,Zandberg,88,,
-9563PL,Zandberg,89,,
-9563PL,Zandberg,92,,
-9563PL,Zandberg,93,,
-9563PL,Zandberg,94,,
-9563PL,Zandberg,96,,
-9563PL,Zandberg,97,,
-9563PL,Zandberg,99,,
-9563PL,Zandberg,100,,
-9563PL,Zandberg,76,,
-9563PM,Zandberg,101,,
-9563PM,Zandberg,102,,
-9563PM,Zandberg,103,,
-9563PM,Zandberg,105,,
-9563PM,Zandberg,106,a,
-9563PM,Zandberg,106,,
-9563PM,Zandberg,108,,
-9563PM,Zandberg,109,,
-9563PM,Zandberg,110,,
-9563PM,Zandberg,110,,
-9563PM,Zandberg,110,,TRAF
-9563PM,Zandberg,103,,
-9563TW,Loodsweg,5,,
-9563PM,Zandberg,103,,
-9563TB,Jipsingboermussel,26,,
-9563TB,Jipsingboermussel,26,,
-9563TC,Jipsingboermussel,64,,
-9563PJ,Zandberg,46,,
-9563PJ,Zandberg,47,,
-9563TW,Loodsweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zandberg,1,"","",9563PH,Ter Apelkanaal
+Zandberg,10,"","",9563PH,Ter Apelkanaal
+Zandberg,11,"","",9563PH,Ter Apelkanaal
+Zandberg,12,"","",9563PH,Ter Apelkanaal
+Zandberg,13,"","",9563PH,Ter Apelkanaal
+Zandberg,14,"","",9563PH,Ter Apelkanaal
+Zandberg,15,"","",9563PH,Ter Apelkanaal
+Zandberg,17,"","",9563PH,Ter Apelkanaal
+Zandberg,19,"","",9563PH,Ter Apelkanaal
+Zandberg,2,"","",9563PH,Ter Apelkanaal
+Zandberg,21,"","",9563PH,Ter Apelkanaal
+Zandberg,24,"","",9563PH,Ter Apelkanaal
+Zandberg,3,"","",9563PH,Ter Apelkanaal
+Zandberg,4,"","",9563PH,Ter Apelkanaal
+Zandberg,5,"","",9563PH,Ter Apelkanaal
+Zandberg,6,"","",9563PH,Ter Apelkanaal
+Zandberg,7,"","",9563PH,Ter Apelkanaal
+Zandberg,8,"","",9563PH,Ter Apelkanaal
+Zandberg,9,"","",9563PH,Ter Apelkanaal
+Zandberg,26,"","",9563PJ,Ter Apelkanaal
+Zandberg,28,"","",9563PJ,Ter Apelkanaal
+Zandberg,30,"","",9563PJ,Ter Apelkanaal
+Zandberg,32,"","",9563PJ,Ter Apelkanaal
+Zandberg,33,"","",9563PJ,Ter Apelkanaal
+Zandberg,34,"","",9563PJ,Ter Apelkanaal
+Zandberg,35,"","",9563PJ,Ter Apelkanaal
+Zandberg,35,A,"",9563PJ,Ter Apelkanaal
+Zandberg,36,"","",9563PJ,Ter Apelkanaal
+Zandberg,38,"","",9563PJ,Ter Apelkanaal
+Zandberg,39,"","",9563PJ,Ter Apelkanaal
+Zandberg,41,"","",9563PJ,Ter Apelkanaal
+Zandberg,42,"","",9563PJ,Ter Apelkanaal
+Zandberg,43,"","",9563PJ,Ter Apelkanaal
+Zandberg,44,"","",9563PJ,Ter Apelkanaal
+Zandberg,45,"","",9563PJ,Ter Apelkanaal
+Zandberg,47,"","",9563PJ,Ter Apelkanaal
+Zandberg,47,"","",9563PJ,Ter Apelkanaal
+Zandberg,48,"","",9563PK,Ter Apelkanaal
+Zandberg,50,"","",9563PK,Ter Apelkanaal
+Zandberg,50,"","",9563PK,Ter Apelkanaal
+Zandberg,50,"","",9563PK,Ter Apelkanaal
+Zandberg,50,"","",9563PK,Ter Apelkanaal
+Zandberg,56,"","",9563PK,Ter Apelkanaal
+Zandberg,58,"","",9563PK,Ter Apelkanaal
+Zandberg,59,"","",9563PK,Ter Apelkanaal
+Zandberg,61,"","",9563PK,Ter Apelkanaal
+Zandberg,62,"","",9563PK,Ter Apelkanaal
+Zandberg,63,"","",9563PK,Ter Apelkanaal
+Zandberg,64,"","",9563PK,Ter Apelkanaal
+Zandberg,66,"","",9563PK,Ter Apelkanaal
+Zandberg,68,"","",9563PK,Ter Apelkanaal
+Zandberg,69,"","",9563PK,Ter Apelkanaal
+Zandberg,70,"","",9563PK,Ter Apelkanaal
+Zandberg,71,"","",9563PK,Ter Apelkanaal
+Zandberg,72,"","",9563PK,Ter Apelkanaal
+Zandberg,74,"","",9563PK,Ter Apelkanaal
+Zandberg,100,"","",9563PL,Ter Apelkanaal
+Zandberg,75,"","",9563PL,Ter Apelkanaal
+Zandberg,75,A,"",9563PL,Ter Apelkanaal
+Zandberg,75,A,"",9563PL,Ter Apelkanaal
+Zandberg,76,"","",9563PL,Ter Apelkanaal
+Zandberg,76,"","",9563PL,Ter Apelkanaal
+Zandberg,76,"","",9563PL,Ter Apelkanaal
+Zandberg,77,"","",9563PL,Ter Apelkanaal
+Zandberg,79,"","",9563PL,Ter Apelkanaal
+Zandberg,81,"","",9563PL,Ter Apelkanaal
+Zandberg,82,"","",9563PL,Ter Apelkanaal
+Zandberg,83,"","",9563PL,Ter Apelkanaal
+Zandberg,84,"","",9563PL,Ter Apelkanaal
+Zandberg,85,"","",9563PL,Ter Apelkanaal
+Zandberg,88,"","",9563PL,Ter Apelkanaal
+Zandberg,89,"","",9563PL,Ter Apelkanaal
+Zandberg,92,"","",9563PL,Ter Apelkanaal
+Zandberg,93,"","",9563PL,Ter Apelkanaal
+Zandberg,94,"","",9563PL,Ter Apelkanaal
+Zandberg,96,"","",9563PL,Ter Apelkanaal
+Zandberg,97,"","",9563PL,Ter Apelkanaal
+Zandberg,99,"","",9563PL,Ter Apelkanaal
+Zandberg,101,"","",9563PM,Ter Apelkanaal
+Zandberg,102,"","",9563PM,Ter Apelkanaal
+Zandberg,103,"","",9563PM,Ter Apelkanaal
+Zandberg,103,"","",9563PM,Ter Apelkanaal
+Zandberg,103,"","",9563PM,Ter Apelkanaal
+Zandberg,103,"","",9563PM,Ter Apelkanaal
+Zandberg,105,"","",9563PM,Ter Apelkanaal
+Zandberg,106,"","",9563PM,Ter Apelkanaal
+Zandberg,106,A,"",9563PM,Ter Apelkanaal
+Zandberg,108,"","",9563PM,Ter Apelkanaal
+Zandberg,109,"","",9563PM,Ter Apelkanaal
+Zandberg,110,"","",9563PM,Ter Apelkanaal
+Zandberg,110,"","",9563PM,Ter Apelkanaal
+Zandberg,110,"",TRAF,9563PM,Ter Apelkanaal
+Avébéweg,1,"","",9563PN,Ter Apelkanaal
+Avébéweg,11,"","",9563PN,Ter Apelkanaal
+Avébéweg,13,"","",9563PN,Ter Apelkanaal
+Avébéweg,15,"","",9563PN,Ter Apelkanaal
+Avébéweg,17,"","",9563PN,Ter Apelkanaal
+Avébéweg,19,"","",9563PN,Ter Apelkanaal
+Avébéweg,21,"","",9563PN,Ter Apelkanaal
+Avébéweg,23,"","",9563PN,Ter Apelkanaal
+Avébéweg,25,"","",9563PN,Ter Apelkanaal
+Avébéweg,27,"","",9563PN,Ter Apelkanaal
+Avébéweg,29,"","",9563PN,Ter Apelkanaal
+Avébéweg,3,"","",9563PN,Ter Apelkanaal
+Avébéweg,31,"","",9563PN,Ter Apelkanaal
+Avébéweg,33,"","",9563PN,Ter Apelkanaal
+Avébéweg,35,"","",9563PN,Ter Apelkanaal
+Avébéweg,37,"","",9563PN,Ter Apelkanaal
+Avébéweg,39,"","",9563PN,Ter Apelkanaal
+Avébéweg,41,"","",9563PN,Ter Apelkanaal
+Avébéweg,5,"","",9563PN,Ter Apelkanaal
+Avébéweg,7,"","",9563PN,Ter Apelkanaal
+Avébéweg,9,"","",9563PN,Ter Apelkanaal
+Avébéweg,43,"","",9563PP,Ter Apelkanaal
+Avébéweg,43,A,"",9563PP,Ter Apelkanaal
+Avébéweg,43,B,"",9563PP,Ter Apelkanaal
+Avébéweg,43,C,"",9563PP,Ter Apelkanaal
+Avébéweg,43,D,"",9563PP,Ter Apelkanaal
+Avébéweg,45,"","",9563PP,Ter Apelkanaal
+Avébéweg,47,"","",9563PP,Ter Apelkanaal
+Avébéweg,49,"","",9563PP,Ter Apelkanaal
+Avébéweg,51,"","",9563PP,Ter Apelkanaal
+Avébéweg,53,"","",9563PP,Ter Apelkanaal
+Avébéweg,55,"","",9563PP,Ter Apelkanaal
+Avébéweg,57,"","",9563PP,Ter Apelkanaal
+Avébéweg,59,"","",9563PP,Ter Apelkanaal
+Avébéweg,61,"","",9563PP,Ter Apelkanaal
+Avébéweg,63,"","",9563PP,Ter Apelkanaal
+Avébéweg,10,"","",9563PR,Ter Apelkanaal
+Avébéweg,12,"","",9563PR,Ter Apelkanaal
+Avébéweg,14,"","",9563PR,Ter Apelkanaal
+Avébéweg,16,"","",9563PR,Ter Apelkanaal
+Avébéweg,18,"","",9563PR,Ter Apelkanaal
+Avébéweg,2,"","",9563PR,Ter Apelkanaal
+Avébéweg,20,"","",9563PR,Ter Apelkanaal
+Avébéweg,22,"","",9563PR,Ter Apelkanaal
+Avébéweg,24,"","",9563PR,Ter Apelkanaal
+Avébéweg,26,"","",9563PR,Ter Apelkanaal
+Avébéweg,28,"","",9563PR,Ter Apelkanaal
+Avébéweg,30,"","",9563PR,Ter Apelkanaal
+Avébéweg,32,"","",9563PR,Ter Apelkanaal
+Avébéweg,36,"","",9563PR,Ter Apelkanaal
+Avébéweg,38,"","",9563PR,Ter Apelkanaal
+Avébéweg,4,"","",9563PR,Ter Apelkanaal
+Avébéweg,4,C,"",9563PR,Ter Apelkanaal
+Avébéweg,4,D,"",9563PR,Ter Apelkanaal
+Avébéweg,40,"","",9563PR,Ter Apelkanaal
+Avébéweg,42,"","",9563PR,Ter Apelkanaal
+Avébéweg,6,"","",9563PR,Ter Apelkanaal
+Avébéweg,8,"","",9563PR,Ter Apelkanaal
+Avébéweg,46,"","",9563PS,Ter Apelkanaal
+Avébéweg,48,"","",9563PS,Ter Apelkanaal
+Avébéweg,50,"","",9563PS,Ter Apelkanaal
+Avébéweg,52,"","",9563PS,Ter Apelkanaal
+Avébéweg,54,"","",9563PS,Ter Apelkanaal
+Avébéweg,56,"","",9563PS,Ter Apelkanaal
+Avébéweg,58,"","",9563PS,Ter Apelkanaal
+Avébéweg,60,"","",9563PS,Ter Apelkanaal
+Avébéweg,62,"","",9563PS,Ter Apelkanaal
+Avébéweg,64,"","",9563PS,Ter Apelkanaal
+Schaapsbergweg,1,"","",9563PT,Ter Apelkanaal
+Schaapsbergweg,1,A,GASS,9563PT,Ter Apelkanaal
+Schaapsbergweg,3,"","",9563PT,Ter Apelkanaal
+Schaapsbergweg,5,"","",9563PT,Ter Apelkanaal
+Schaapsbergweg,7,"","",9563PT,Ter Apelkanaal
+Odoornerweg,1,"","",9563PV,Ter Apelkanaal
+Odoornerweg,2,"","",9563PV,Ter Apelkanaal
+Odoornerweg,3,"","",9563PV,Ter Apelkanaal
+Odoornerweg,4,"","",9563PV,Ter Apelkanaal
+Odoornerweg,5,"","",9563PV,Ter Apelkanaal
+Odoornerweg,6,"","",9563PV,Ter Apelkanaal
+Jipsingboermussel,1,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,13,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,14,"",TRAF,9563TA,Ter Apelkanaal
+Jipsingboermussel,19,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,19,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,20,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,20,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,20,A,"",9563TA,Ter Apelkanaal
+Jipsingboermussel,20,A,"",9563TA,Ter Apelkanaal
+Jipsingboermussel,23,"","",9563TA,Ter Apelkanaal
+Jipsingboermussel,24,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,26,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,26,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,29,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,30,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,33,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,34,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,42,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,45,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,48,"","",9563TB,Ter Apelkanaal
+Jipsingboermussel,51,"","",9563TC,Ter Apelkanaal
+Jipsingboermussel,54,"","",9563TC,Ter Apelkanaal
+Jipsingboermussel,56,"","",9563TC,Ter Apelkanaal
+Jipsingboermussel,61,"","",9563TC,Ter Apelkanaal
+Jipsingboermussel,61,A,"",9563TC,Ter Apelkanaal
+Jipsingboermussel,63,"","",9563TC,Ter Apelkanaal
+Jipsingboermussel,64,"","",9563TC,Ter Apelkanaal
+Jipsingboermussel,64,"","",9563TC,Ter Apelkanaal
+M. en O.-weg,11,"","",9563TM,Ter Apelkanaal
+Loodsweg,5,"","",9563TW,Ter Apelkanaal

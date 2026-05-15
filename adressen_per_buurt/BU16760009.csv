@@ -1,36 +1,36 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4301RP,Gouweveerseweg,4,,
-4301RP,Gouweveerseweg,8,a,
-4301RP,Gouweveerseweg,1,,
-4301RP,Gouweveerseweg,7,,
-4301PB,Al te Kleinseweg,1,,
-4301PC,Bettewaardsedijk,7,,
-4301PC,Bettewaardsedijk,9,,
-4301PC,Bettewaardsedijk,11,,
-4301PC,Bettewaardsedijk,5,,
-4301PC,Bettewaardsedijk,6,,
-4301PC,Bettewaardsedijk,4,,
-4301PC,Bettewaardsedijk,2,,
-4301RP,Gouweveerseweg,2,,
-4301RP,Gouweveerseweg,3,,
-4301PA,Oude Polderdijk,1,,
-4301PA,Oudepolderdijk,1,,
-4301PA,Oude Polderdijk,1,,
-4301PB,Al te Kleinseweg,2,,
-4301PC,Bettewaardsedijk,1,,
-4301PC,Bettewaardsedijk,3,,
-4301PC,Bettewaardsedijk,8,,
-4301PC,Bettewaardsedijk,10,,
-4301PC,Bettewaardsedijk,11,x,
-4301PC,Bettewaardsedijk,9,a,
-4301PC,Bettewaardsedijk,13,,
-4301RP,Gouweveerseweg,4,a,
-4301RP,Gouweveerseweg,7,a,
-4301RP,Gouweveerseweg,8,,
-4301PB,Al te Kleinseweg,4,,
-4301RP,Gouweveerseweg,9,,
-4301RP,Gouweveerseweg,5,,
-4301RP,Gouweveerseweg,6,,
-4301RP,Gouweveerseweg,6,a,
-4301PB,Al te Kleinseweg,1,a,
-4301PC,Bettewaardsedijk,15,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oude Polderdijk,1,"","",4301PA,Zierikzee
+Oude Polderdijk,1,"","",4301PA,Zierikzee
+Oude Polderdijk,1,"","",4301PA,Zierikzee
+Al te Kleinseweg,1,"","",4301PB,Zierikzee
+Al te Kleinseweg,1,A,"",4301PB,Zierikzee
+Al te Kleinseweg,2,"","",4301PB,Zierikzee
+Al te Kleinseweg,4,"","",4301PB,Zierikzee
+Bettewaardsedijk,1,"","",4301PC,Zierikzee
+Bettewaardsedijk,10,"","",4301PC,Zierikzee
+Bettewaardsedijk,11,"","",4301PC,Zierikzee
+Bettewaardsedijk,11,X,"",4301PC,Zierikzee
+Bettewaardsedijk,13,"","",4301PC,Zierikzee
+Bettewaardsedijk,15,"","",4301PC,Zierikzee
+Bettewaardsedijk,2,"","",4301PC,Zierikzee
+Bettewaardsedijk,3,"","",4301PC,Zierikzee
+Bettewaardsedijk,4,"","",4301PC,Zierikzee
+Bettewaardsedijk,5,"","",4301PC,Zierikzee
+Bettewaardsedijk,6,"","",4301PC,Zierikzee
+Bettewaardsedijk,7,"","",4301PC,Zierikzee
+Bettewaardsedijk,8,"","",4301PC,Zierikzee
+Bettewaardsedijk,9,"","",4301PC,Zierikzee
+Bettewaardsedijk,9,A,"",4301PC,Zierikzee
+Gouweveerseweg,1,"","",4301RP,Zierikzee
+Gouweveerseweg,2,"","",4301RP,Zierikzee
+Gouweveerseweg,3,"","",4301RP,Zierikzee
+Gouweveerseweg,4,"","",4301RP,Zierikzee
+Gouweveerseweg,4,A,"",4301RP,Zierikzee
+Gouweveerseweg,5,"","",4301RP,Zierikzee
+Gouweveerseweg,6,"","",4301RP,Zierikzee
+Gouweveerseweg,6,A,"",4301RP,Zierikzee
+Gouweveerseweg,7,"","",4301RP,Zierikzee
+Gouweveerseweg,7,A,"",4301RP,Zierikzee
+Gouweveerseweg,8,"","",4301RP,Zierikzee
+Gouweveerseweg,8,A,"",4301RP,Zierikzee
+Gouweveerseweg,9,"","",4301RP,Zierikzee

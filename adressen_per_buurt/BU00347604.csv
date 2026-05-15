@@ -1,27 +1,27 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"1341CB",30,"",""
-"1341CB",33,"",""
-"1341CB",31,"",""
-"1341CB",32,"",""
-"1341CC",15,"",""
-"1341CC",9,"",""
-"1341CC",32,"",""
-"1341CC",13,"",""
-"1341CC",30,"",""
-"1341CC",5,"",""
-"1341CC",17,"",""
-"1341CC",7,"",""
-"1341CC",11,"",""
-1341CB,Enrico Fermistraat,30,,
-1341CB,Enrico Fermistraat,32,,
-1341CC,Joh. van der Waalsweg,30,,
-1341CC,Joh. van der Waalsweg,32,,
-1341CC,Joh. van der Waalsweg,17,,
-1341CC,Joh. van der Waalsweg,15,,
-1341CC,Joh. van der Waalsweg,13,,
-1341CC,Joh. van der Waalsweg,7,,
-1341CC,Joh. van der Waalsweg,11,,
-1341CC,Joh. van der Waalsweg,9,,
-1341CC,Joh. van der Waalsweg,5,,
-1341CB,Enrico Fermistraat,31,,
-1341CB,Enrico Fermistraat,33,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Enrico Fermistraat,30,"","",1341CB,Almere
+Enrico Fermistraat,31,"","",1341CB,Almere
+Enrico Fermistraat,32,"","",1341CB,Almere
+Enrico Fermistraat,33,"","",1341CB,Almere
+"",ENRICO FERMISTRAAT,30,"",1341CB,
+"",ENRICO FERMISTRAAT,31,"",1341CB,
+"",ENRICO FERMISTRAAT,32,"",1341CB,
+"",ENRICO FERMISTRAAT,33,"",1341CB,
+Joh. van der Waalsweg,11,"","",1341CC,Almere
+Joh. van der Waalsweg,13,"","",1341CC,Almere
+Joh. van der Waalsweg,15,"","",1341CC,Almere
+Joh. van der Waalsweg,17,"","",1341CC,Almere
+Joh. van der Waalsweg,30,"","",1341CC,Almere
+Joh. van der Waalsweg,32,"","",1341CC,Almere
+Joh. van der Waalsweg,5,"","",1341CC,Almere
+Joh. van der Waalsweg,7,"","",1341CC,Almere
+Joh. van der Waalsweg,9,"","",1341CC,Almere
+"",JOH. VAN DER WAALSWEG,11,"",1341CC,
+"",JOH. VAN DER WAALSWEG,13,"",1341CC,
+"",JOH. VAN DER WAALSWEG,15,"",1341CC,
+"",JOH. VAN DER WAALSWEG,17,"",1341CC,
+"",JOH. VAN DER WAALSWEG,30,"",1341CC,
+"",JOH. VAN DER WAALSWEG,32,"",1341CC,
+"",JOH. VAN DER WAALSWEG,5,"",1341CC,
+"",JOH. VAN DER WAALSWEG,7,"",1341CC,
+"",JOH. VAN DER WAALSWEG,9,"",1341CC,

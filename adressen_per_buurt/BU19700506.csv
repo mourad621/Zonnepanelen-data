@@ -1,346 +1,168 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9145AB",28,"",""
-"9145BC",2,"",""
-"9145BC",6,"T",""
-"9145BC",10,"",""
-"9145BC",6,"T",""
-"9145BC",8,"",""
-"9145BC",4,"",""
-"9145BC",6,"",""
-"9145BC",1,"",""
-"9145BC",3,"",""
-"9145CD",16,"",""
-"9145CD",28,"A",""
-"9145CD",22,"",""
-"9145CD",14,"",""
-"9145CD",10,"",""
-"9145CD",32,"",""
-"9145CD",18,"",""
-"9145CD",24,"",""
-"9145CD",8,"",""
-"9145CD",24,"A",""
-"9145CD",2,"",""
-"9145CD",20,"",""
-"9145CD",42,"",""
-"9145CD",38,"",""
-"9145CD",40,"",""
-"9145CD",28,"",""
-"9145CD",12,"",""
-"9145CD",26,"",""
-"9145CD",30,"",""
-"9145CD",34,"",""
-"9145CD",4,"",""
-"9145CE",1,"",""
-"9145CE",1,"",""
-"9145CE",7,"T",""
-"9145CE",5,"",""
-"9145CE",1,"B",""
-"9145CE",13,"",""
-"9145CE",17,"",""
-"9145CE",11,"",""
-"9145CE",5,"A",""
-"9145CE",9,"",""
-"9145CE",21,"",""
-"9145CE",15,"",""
-"9145CE",9,"T","001"
-"9145CH",26,"A",""
-"9145CH",26,"T",""
-"9145CH",8,"",""
-"9145CH",6,"",""
-"9145CH",24,"",""
-"9145CH",4,"",""
-"9145CH",24,"T",""
-"9145CH",24,"T",""
-"9145CH",12,"",""
-"9145CH",16,"",""
-"9145CH",26,"",""
-"9145CH",10,"",""
-"9145CH",22,"",""
-"9145CJ",1,"",""
-"9145CK",2,"",""
-"9145CK",4,"T",""
-"9145CK",1,"",""
-"9145CK",4,"",""
-"9145CK",4,"T",""
-"9145CL",7,"",""
-"9145CL",8,"",""
-"9145CL",4,"",""
-"9145CL",11,"",""
-"9145CL",3,"",""
-"9145CL",1,"B",""
-"9145CL",1,"A",""
-"9145CL",19,"T",""
-"9145CL",7,"",""
-"9145CL",10,"",""
-"9145CL",9,"",""
-"9145CL",1,"",""
-"9145CL",21,"",""
-"9145CL",19,"",""
-"9145CL",5,"",""
-"9145CL",15,"",""
-"9145CL",19,"T",""
-"9145CL",2,"",""
-"9145PA",5,"",""
-"9145PA",9,"A",""
-"9145PA",9,"",""
-"9145PA",2,"",""
-"9145PA",6,"",""
-"9145PA",4,"",""
-"9145PA",5,"A",""
-"9145PA",8,"",""
-"9145RC",3,"T",""
-"9145RC",3,"",""
-"9145RC",1,"",""
-"9145RC",3,"T",""
-"9145RC",2,"",""
-"9145RK",19,"A",""
-"9145RK",7,"",""
-"9145RK",8,"",""
-"9145RK",1,"",""
-"9145RK",6,"",""
-"9145RK",14,"C",""
-"9145RK",22,"",""
-"9145RK",5,"",""
-"9145RK",11,"A",""
-"9145RK",10,"",""
-"9145RK",19,"",""
-"9145RK",15,"",""
-"9145RK",14,"A",""
-"9145RK",14,"A",""
-"9145RK",14,"B",""
-"9145RK",4,"",""
-"9145RK",23,"",""
-"9145RK",11,"B",""
-"9145RK",3,"",""
-"9145RK",25,"",""
-"9145RK",2,"",""
-"9145RK",13,"",""
-"9145RK",8,"A",""
-"9145RK",21,"",""
-"9145RK",11,"",""
-"9145RK",18,"",""
-"9145RK",20,"",""
-"9145RK",17,"",""
-"9145RK",24,"",""
-"9145RK",12,"",""
-"9145RK",9,"",""
-"9145RK",26,"",""
-"9145RK",14,"",""
-"9145RK",16,"",""
-"9145RN",5,"A",""
-"9145RN",5,"A",""
-"9145RN",3,"",""
-"9145RN",1,"",""
-"9145RN",5,"",""
-"9145RN",7,"",""
-"9145SW",12,"",""
-"9145SW",10,"",""
-"9145SW",20,"",""
-"9145SW",30,"",""
-"9145SW",3,"",""
-"9145SW",6,"",""
-"9145SW",26,"",""
-"9145SW",7,"",""
-"9145SW",18,"",""
-"9145SW",1,"",""
-"9145SW",5,"",""
-"9145SW",22,"",""
-"9145SW",4,"",""
-"9145SX",9,"",""
-"9145SX",40,"",""
-"9145SX",9,"T",""
-"9145SX",36,"A",""
-"9145SX",32,"",""
-"9145SX",34,"A",""
-"9145SX",36,"A",""
-"9145SX",11,"",""
-"9145SX",36,"",""
-"9145SX",14,"",""
-"9145SX",34,"",""
-"9145SZ",3,"",""
-"9145SZ",5,"",""
-"9145SZ",4,"",""
-"9145SZ",8,"",""
-"9145SZ",2,"",""
-"9145SZ",3,"",""
-"9145SZ",8,"",""
-"9145SZ",1,"",""
-"9145SZ",6,"",""
-9145CL,Hantumerwei,7,,
-9145CL,Hantumerwei,8,,
-9145CL,Hantumerwei,10,,
-9145CL,Hantumerwei,2,,
-9145CL,Hantumerwei,1,,
-9145CL,Hantumerwei,1,A,
-9145CL,Hantumerwei,1,B,
-9145CL,Hantumerwei,3,,
-9145CL,Hantumerwei,4,,
-9145CL,Hantumerwei,15,,
-9145CL,Hantumerwei,19,,
-9145CL,Hantumerwei,19,T,
-9145CL,Hantumerwei,21,,
-9145BC,Hollewei,1,,
-9145BC,Hollewei,2,,
-9145BC,Hollewei,3,,
-9145BC,Hollewei,6,,
-9145BC,Hollewei,6,T,
-9145BC,Hollewei,8,,
-9145BC,Hollewei,10,,
-9145RK,Holwerterdyk,11,A,
-9145RK,Holwerterdyk,11,B,
-9145RK,Holwerterdyk,12,,
-9145RK,Holwerterdyk,13,,
-9145RK,Holwerterdyk,14,A,
-9145RK,Holwerterdyk,14,B,
-9145RK,Holwerterdyk,14,C,
-9145RK,Holwerterdyk,15,,
-9145RK,Holwerterdyk,17,,
-9145RK,Holwerterdyk,1,,
-9145RK,Holwerterdyk,2,,
-9145RK,Holwerterdyk,3,,
-9145RK,Holwerterdyk,4,,
-9145RK,Holwerterdyk,6,,
-9145RK,Holwerterdyk,7,,
-9145RK,Holwerterdyk,8,,
-9145RK,Holwerterdyk,8,A,
-9145RK,Holwerterdyk,9,,
-9145RK,Holwerterdyk,11,,
-9145RK,Holwerterdyk,18,,
-9145RK,Holwerterdyk,19,,
-9145RK,Holwerterdyk,19,A,
-9145RK,Holwerterdyk,20,,
-9145RK,Holwerterdyk,21,,
-9145RK,Holwerterdyk,22,,
-9145RK,Holwerterdyk,23,,
-9145RK,Holwerterdyk,24,,
-9145RK,Holwerterdyk,25,,
-9145RK,Holwerterdyk,26,,
-9145RC,Koaiwei,3,,
-9145RC,Koaiwei,3,T,
-9145CJ,Langewei,1,,
-9145SZ,Lytse Wei,1,,
-9145SZ,Lytse Wei,2,,
-9145SZ,Lytse Wei,3,,
-9145SZ,Lytse Wei,4,,
-9145SZ,Lytse Wei,5,,
-9145SZ,Lytse Wei,6,,
-9145SZ,Lytse Wei,8,,
-9145CE,Nesserwei,1,,
-9145CE,Nesserwei,1,B,
-9145CE,Nesserwei,5,,
-9145CE,Nesserwei,7,T,
-9145CE,Nesserwei,9,,
-9145CE,Nesserwei,9,T,001
-9145CE,Nesserwei,11,,
-9145CE,Nesserwei,13,,
-9145CE,Nesserwei,15,,
-9145CE,Nesserwei,17,,
-9145CH,Nesserwei,24,T,
-9145CH,Nesserwei,26,,
-9145CH,Nesserwei,26,A,
-9145CH,Nesserwei,22,,
-9145CH,Nesserwei,24,,
-9145CH,Nesserwei,4,,
-9145CH,Nesserwei,6,,
-9145CH,Nesserwei,8,,
-9145CH,Nesserwei,10,,
-9145CH,Nesserwei,12,,
-9145CH,Nesserwei,16,,
-9145PA,De Streng,2,,
-9145PA,De Streng,4,,
-9145PA,De Streng,6,,
-9145SW,Fiskbuorren,30,,
-9145SW,Fiskbuorren,6,,
-9145SW,Fiskbuorren,7,,
-9145SW,Fiskbuorren,10,,
-9145SW,Fiskbuorren,12,,
-9145SW,Fiskbuorren,18,,
-9145SW,Fiskbuorren,20,,
-9145SW,Fiskbuorren,22,,
-9145SW,Fiskbuorren,1,,
-9145SW,Fiskbuorren,3,,
-9145SW,Fiskbuorren,4,,
-9145SW,Fiskbuorren,5,,
-9145SX,Fiskbuorren,32,,
-9145SX,Fiskbuorren,34,,
-9145SX,Fiskbuorren,34,A,
-9145SX,Fiskbuorren,36,,
-9145SX,Fiskbuorren,40,,
-9145SX,Fiskbuorren,9,,
-9145SX,Fiskbuorren,9,T,
-9145SX,Fiskbuorren,11,,
-9145SX,Fiskbuorren,14,,
-9145CL,Hantumerwei,5,,
-9145CL,Hantumerwei,9,,
-9145CL,Hantumerwei,11,,
-9145BC,Hollewei,4,,
-9145RK,Holwerterdyk,14,,
-9145RK,Holwerterdyk,16,,
-9145RK,Holwerterdyk,5,,
-9145RK,Holwerterdyk,10,,
-9145RC,Koaiwei,2,,
-9145RC,Koaiwei,1,,
-9145CE,Nesserwei,21,,
-9145CE,Nesserwei,5,A,
-9145CH,Nesserwei,26,T,
-9145RN,Pelmûnewei,1,,
-9145RN,Pelmûnewei,5,,
-9145RN,Pelmûnewei,5,A,
-9145RN,Pelmûnewei,7,,
-9145RN,Pelmûnewei,3,,
-9145PA,De Streng,8,,
-9145PA,De Streng,5,A,
-9145PA,De Streng,5,,
-9145PA,De Streng,9,,
-9145PA,De Streng,9,A,
-9145SW,Fiskbuorren,26,,
-9145SX,Fiskbuorren,36,A,
-9145AB,Wjuk,28,,
-9145CK,Seepmawei,1,,
-9145CK,Seepmawei,2,,
-9145CK,Seepmawei,4,,
-9145CK,Seepmawei,4,T,
-9145CD,'t Skoar,2,,
-9145CD,'t Skoar,42,,
-9145CD,'t Skoar,4,,
-9145CD,'t Skoar,8,,
-9145CD,'t Skoar,10,,
-9145CD,'t Skoar,12,,
-9145CD,'t Skoar,14,,
-9145CD,'t Skoar,16,,
-9145CD,'t Skoar,18,,
-9145CD,'t Skoar,20,,
-9145CD,'t Skoar,22,,
-9145CD,'t Skoar,24,,
-9145CD,'t Skoar,24,A,
-9145CD,'t Skoar,26,,
-9145CD,'t Skoar,28,,
-9145CD,'t Skoar,28,A,
-9145CD,'t Skoar,30,,
-9145CD,'t Skoar,32,,
-9145CD,'t Skoar,34,,
-9145CD,'t Skoar,38,,
-9145CD,'t Skoar,40,,
-9145PA,De Streng,10,A,
-9145PA,De Streng,10,,
-9145CL,Hantumerwei,7,,
-9145CL,Hantumerwei,7,A,
-9145BC,Hollewei,1,A,
-9145BC,Hollewei,1,B,
-9145BC,Hollewei,3,A,
-9145BC,Hollewei,3,A,
-9145BC,Hollewei,3,A,
-9145RK,Holwerterdyk,14,A,
-9145RK,Holwerterdyk,14,D,
-9145CE,Nesserwei,1,,
-9145PA,De Streng,14,,
-9145PA,De Streng,14,A,
-9145PA,De Streng,12,,
-9145PA,De Streng,12,A,
-9145PA,De Streng,1,,
-9145PA,De Streng,1,A,
-9145PA,De Streng,7,,
-9145PA,De Streng,7,A,
-9145PA,De Streng,3,A,
-9145PA,De Streng,3,,
-9145CD,'t Skoar,26,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Wjuk,28,"","",9145AB,Ternaard
+Hollewei,1,"","",9145BC,Ternaard
+Hollewei,10,"","",9145BC,Ternaard
+Hollewei,2,"","",9145BC,Ternaard
+Hollewei,3,"","",9145BC,Ternaard
+Hollewei,4,"","",9145BC,Ternaard
+Hollewei,6,"","",9145BC,Ternaard
+Hollewei,6,T,"",9145BC,Ternaard
+Hollewei,6,T,"",9145BC,Ternaard
+Hollewei,8,"","",9145BC,Ternaard
+'t Skoar,10,"","",9145CD,Ternaard
+'t Skoar,12,"","",9145CD,Ternaard
+'t Skoar,14,"","",9145CD,Ternaard
+'t Skoar,16,"","",9145CD,Ternaard
+'t Skoar,18,"","",9145CD,Ternaard
+'t Skoar,2,"","",9145CD,Ternaard
+'t Skoar,20,"","",9145CD,Ternaard
+'t Skoar,22,"","",9145CD,Ternaard
+'t Skoar,24,"","",9145CD,Ternaard
+'t Skoar,24,A,"",9145CD,Ternaard
+'t Skoar,26,"","",9145CD,Ternaard
+'t Skoar,28,"","",9145CD,Ternaard
+'t Skoar,28,A,"",9145CD,Ternaard
+'t Skoar,30,"","",9145CD,Ternaard
+'t Skoar,32,"","",9145CD,Ternaard
+'t Skoar,34,"","",9145CD,Ternaard
+'t Skoar,38,"","",9145CD,Ternaard
+'t Skoar,4,"","",9145CD,Ternaard
+'t Skoar,40,"","",9145CD,Ternaard
+'t Skoar,42,"","",9145CD,Ternaard
+'t Skoar,8,"","",9145CD,Ternaard
+Nesserwei,1,"","",9145CE,Ternaard
+Nesserwei,1,"","",9145CE,Ternaard
+Nesserwei,1,B,"",9145CE,Ternaard
+Nesserwei,11,"","",9145CE,Ternaard
+Nesserwei,13,"","",9145CE,Ternaard
+Nesserwei,15,"","",9145CE,Ternaard
+Nesserwei,17,"","",9145CE,Ternaard
+Nesserwei,21,"","",9145CE,Ternaard
+Nesserwei,5,"","",9145CE,Ternaard
+Nesserwei,5,A,"",9145CE,Ternaard
+Nesserwei,7,T,"",9145CE,Ternaard
+Nesserwei,9,"","",9145CE,Ternaard
+Nesserwei,9,T,001,9145CE,Ternaard
+Nesserwei,10,"","",9145CH,Ternaard
+Nesserwei,12,"","",9145CH,Ternaard
+Nesserwei,16,"","",9145CH,Ternaard
+Nesserwei,22,"","",9145CH,Ternaard
+Nesserwei,24,"","",9145CH,Ternaard
+Nesserwei,24,T,"",9145CH,Ternaard
+Nesserwei,24,T,"",9145CH,Ternaard
+Nesserwei,26,"","",9145CH,Ternaard
+Nesserwei,26,A,"",9145CH,Ternaard
+Nesserwei,26,T,"",9145CH,Ternaard
+Nesserwei,4,"","",9145CH,Ternaard
+Nesserwei,6,"","",9145CH,Ternaard
+Nesserwei,8,"","",9145CH,Ternaard
+Langewei,1,"","",9145CJ,Ternaard
+Seepmawei,1,"","",9145CK,Ternaard
+Seepmawei,2,"","",9145CK,Ternaard
+Seepmawei,4,"","",9145CK,Ternaard
+Seepmawei,4,T,"",9145CK,Ternaard
+Seepmawei,4,T,"",9145CK,Ternaard
+Hantumerwei,1,"","",9145CL,Ternaard
+Hantumerwei,1,A,"",9145CL,Ternaard
+Hantumerwei,1,B,"",9145CL,Ternaard
+Hantumerwei,10,"","",9145CL,Ternaard
+Hantumerwei,11,"","",9145CL,Ternaard
+Hantumerwei,15,"","",9145CL,Ternaard
+Hantumerwei,19,"","",9145CL,Ternaard
+Hantumerwei,19,T,"",9145CL,Ternaard
+Hantumerwei,19,T,"",9145CL,Ternaard
+Hantumerwei,2,"","",9145CL,Ternaard
+Hantumerwei,21,"","",9145CL,Ternaard
+Hantumerwei,3,"","",9145CL,Ternaard
+Hantumerwei,4,"","",9145CL,Ternaard
+Hantumerwei,5,"","",9145CL,Ternaard
+Hantumerwei,7,"","",9145CL,Ternaard
+Hantumerwei,7,"","",9145CL,Ternaard
+Hantumerwei,8,"","",9145CL,Ternaard
+Hantumerwei,9,"","",9145CL,Ternaard
+De Streng,2,"","",9145PA,Ternaard
+De Streng,4,"","",9145PA,Ternaard
+De Streng,5,"","",9145PA,Ternaard
+De Streng,5,A,"",9145PA,Ternaard
+De Streng,6,"","",9145PA,Ternaard
+De Streng,8,"","",9145PA,Ternaard
+De Streng,9,"","",9145PA,Ternaard
+De Streng,9,A,"",9145PA,Ternaard
+Koaiwei,1,"","",9145RC,Ternaard
+Koaiwei,2,"","",9145RC,Ternaard
+Koaiwei,3,"","",9145RC,Ternaard
+Koaiwei,3,T,"",9145RC,Ternaard
+Koaiwei,3,T,"",9145RC,Ternaard
+Holwerterdyk,1,"","",9145RK,Ternaard
+Holwerterdyk,10,"","",9145RK,Ternaard
+Holwerterdyk,11,"","",9145RK,Ternaard
+Holwerterdyk,11,A,"",9145RK,Ternaard
+Holwerterdyk,11,B,"",9145RK,Ternaard
+Holwerterdyk,12,"","",9145RK,Ternaard
+Holwerterdyk,13,"","",9145RK,Ternaard
+Holwerterdyk,14,"","",9145RK,Ternaard
+Holwerterdyk,14,A,"",9145RK,Ternaard
+Holwerterdyk,14,A,"",9145RK,Ternaard
+Holwerterdyk,14,B,"",9145RK,Ternaard
+Holwerterdyk,14,C,"",9145RK,Ternaard
+Holwerterdyk,15,"","",9145RK,Ternaard
+Holwerterdyk,16,"","",9145RK,Ternaard
+Holwerterdyk,17,"","",9145RK,Ternaard
+Holwerterdyk,18,"","",9145RK,Ternaard
+Holwerterdyk,19,"","",9145RK,Ternaard
+Holwerterdyk,19,A,"",9145RK,Ternaard
+Holwerterdyk,2,"","",9145RK,Ternaard
+Holwerterdyk,20,"","",9145RK,Ternaard
+Holwerterdyk,21,"","",9145RK,Ternaard
+Holwerterdyk,22,"","",9145RK,Ternaard
+Holwerterdyk,23,"","",9145RK,Ternaard
+Holwerterdyk,24,"","",9145RK,Ternaard
+Holwerterdyk,25,"","",9145RK,Ternaard
+Holwerterdyk,26,"","",9145RK,Ternaard
+Holwerterdyk,3,"","",9145RK,Ternaard
+Holwerterdyk,4,"","",9145RK,Ternaard
+Holwerterdyk,5,"","",9145RK,Ternaard
+Holwerterdyk,6,"","",9145RK,Ternaard
+Holwerterdyk,7,"","",9145RK,Ternaard
+Holwerterdyk,8,"","",9145RK,Ternaard
+Holwerterdyk,8,A,"",9145RK,Ternaard
+Holwerterdyk,9,"","",9145RK,Ternaard
+Pelmûnewei,1,"","",9145RN,Ternaard
+Pelmûnewei,3,"","",9145RN,Ternaard
+Pelmûnewei,5,"","",9145RN,Ternaard
+Pelmûnewei,5,A,"",9145RN,Ternaard
+Pelmûnewei,5,A,"",9145RN,Ternaard
+Pelmûnewei,7,"","",9145RN,Ternaard
+Fiskbuorren,1,"","",9145SW,Ternaard
+Fiskbuorren,10,"","",9145SW,Ternaard
+Fiskbuorren,12,"","",9145SW,Ternaard
+Fiskbuorren,18,"","",9145SW,Ternaard
+Fiskbuorren,20,"","",9145SW,Ternaard
+Fiskbuorren,22,"","",9145SW,Ternaard
+Fiskbuorren,26,"","",9145SW,Ternaard
+Fiskbuorren,3,"","",9145SW,Ternaard
+Fiskbuorren,30,"","",9145SW,Ternaard
+Fiskbuorren,4,"","",9145SW,Ternaard
+Fiskbuorren,5,"","",9145SW,Ternaard
+Fiskbuorren,6,"","",9145SW,Ternaard
+Fiskbuorren,7,"","",9145SW,Ternaard
+Fiskbuorren,11,"","",9145SX,Ternaard
+Fiskbuorren,14,"","",9145SX,Ternaard
+Fiskbuorren,32,"","",9145SX,Ternaard
+Fiskbuorren,34,"","",9145SX,Ternaard
+Fiskbuorren,34,A,"",9145SX,Ternaard
+Fiskbuorren,36,"","",9145SX,Ternaard
+Fiskbuorren,36,A,"",9145SX,Ternaard
+Fiskbuorren,36,A,"",9145SX,Ternaard
+Fiskbuorren,40,"","",9145SX,Ternaard
+Fiskbuorren,9,"","",9145SX,Ternaard
+Fiskbuorren,9,T,"",9145SX,Ternaard
+Lytse Wei,1,"","",9145SZ,Ternaard
+Lytse Wei,2,"","",9145SZ,Ternaard
+Lytse Wei,3,"","",9145SZ,Ternaard
+Lytse Wei,3,"","",9145SZ,Ternaard
+Lytse Wei,4,"","",9145SZ,Ternaard
+Lytse Wei,5,"","",9145SZ,Ternaard
+Lytse Wei,6,"","",9145SZ,Ternaard
+Lytse Wei,8,"","",9145SZ,Ternaard
+Lytse Wei,8,"","",9145SZ,Ternaard

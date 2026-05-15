@@ -1,56 +1,56 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8261DA",1,"",""
-"8261DA",2,"",""
-"8261DA",3,"",""
-"8261DA",6,"",""
-"8261DB",3,"",""
-"8261DB",1,"",""
-"8261DC",1,"",""
-"8261DC",3,"",""
-"8261DC",4,"",""
-"8261DD",1,"",""
-"8261DD",2,"",""
-"8261GH",1,"","TR01"
-"8261GH",1,"",""
-"8261GH",1,"","TR"
-"8261GH",1,"","TR01"
-"8261GH",1,"",""
-"8261GH",1,"",""
-"8262VZ",80,"",""
-"8262VZ",90,"",""
-"8262VZ",82,"",""
-"8262VZ",78,"",""
-"8262VZ",80,"",""
-"8262VZ",84,"",""
-"8262VZ",90,"",""
-"8262VZ",78,"",""
-"8262VZ",82,"",""
-"8262VZ",86,"",""
-"8262VZ",84,"",""
-"8262VZ",86,"",""
-"8262VZ",88,"",""
-"8262VZ",88,"",""
-"8262VZ",1,"",""
-8261DB,Horstsingel,1,,
-8261GH,Broedersingel,1,,
-8261GH,Broedersingel,1,,TR
-8261DA,Buitensingel,3,,
-8261DA,Buitensingel,2,,
-8261DA,Buitensingel,1,,
-8261DA,Buitensingel,6,,
-8261DD,Burgemeester Berghuisplein,1,,
-8262VZ,J.H. Kokstraat,90,,
-8262VZ,J.H. Kokstraat,84,,
-8262VZ,J.H. Kokstraat,82,,
-8262VZ,J.H. Kokstraat,80,,
-8262VZ,J.H. Kokstraat,78,,
-8262VZ,J.H. Kokstraat,86,,
-8262VZ,J.H. Kokstraat,88,,
-8261DC,Korteweg,4,,
-8261DC,Korteweg,1,,
-8261DC,Korteweg,3,,
-8261GH,Broedersingel,1,,TR01
-8261GH,Broedersingel,1,,
-8261DD,Burgemeester Berghuisplein,2,,
-8261DB,Horstsingel,3,,
-8262VZ,J.H. Koksingel,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Buitensingel,1,"","",8261DA,Kampen
+Buitensingel,2,"","",8261DA,Kampen
+Buitensingel,3,"","",8261DA,Kampen
+Buitensingel,6,"","",8261DA,Kampen
+"",BUITENSINGEL,1,"",8261DA,
+"",BUITENSINGEL,2,"",8261DA,
+"",BUITENSINGEL,3,"",8261DA,
+"",BUITENSINGEL,6,"",8261DA,
+Horstsingel,1,"","",8261DB,Kampen
+Horstsingel,3,"","",8261DB,Kampen
+"",HORSTSINGEL,1,"",8261DB,
+"",HORSTSINGEL,3,"",8261DB,
+Korteweg,1,"","",8261DC,Kampen
+Korteweg,3,"","",8261DC,Kampen
+Korteweg,4,"","",8261DC,Kampen
+"",KORTEWEG,1,"",8261DC,
+"",KORTEWEG,3,"",8261DC,
+"",KORTEWEG,4,"",8261DC,
+Burgemeester Berghuisplein,1,"","",8261DD,Kampen
+Burgemeester Berghuisplein,2,"","",8261DD,Kampen
+"",BURGEMEESTER BERGHUISPLEIN,1,"",8261DD,
+"",BURGEMEESTER BERGHUISPLEIN,2,"",8261DD,
+Broedersingel,1,"","",8261GH,Kampen
+Broedersingel,1,"","",8261GH,Kampen
+Broedersingel,1,"","",8261GH,Kampen
+Broedersingel,1,"",TR,8261GH,Kampen
+Broedersingel,1,"",TR01,8261GH,Kampen
+Broedersingel,1,"",TR01,8261GH,Kampen
+"",BROEDERSINGEL,1,"",8261GH,
+"",BROEDERSINGEL,1,"",8261GH,
+"",BROEDERSINGEL,1,"",8261GH,
+"",BROEDERSINGEL,1,"",8261GH,
+J.H. Koksingel,1,"","",8262VZ,Kampen
+J.H. Kokstraat,78,"","",8262VZ,Kampen
+J.H. Kokstraat,78,"","",8262VZ,Kampen
+J.H. Kokstraat,80,"","",8262VZ,Kampen
+J.H. Kokstraat,80,"","",8262VZ,Kampen
+J.H. Kokstraat,82,"","",8262VZ,Kampen
+J.H. Kokstraat,82,"","",8262VZ,Kampen
+J.H. Kokstraat,84,"","",8262VZ,Kampen
+J.H. Kokstraat,84,"","",8262VZ,Kampen
+J.H. Kokstraat,86,"","",8262VZ,Kampen
+J.H. Kokstraat,86,"","",8262VZ,Kampen
+J.H. Kokstraat,88,"","",8262VZ,Kampen
+J.H. Kokstraat,88,"","",8262VZ,Kampen
+J.H. Kokstraat,90,"","",8262VZ,Kampen
+J.H. Kokstraat,90,"","",8262VZ,Kampen
+"",J.H. KOKSINGEL,1,"",8262VZ,
+"",J.H. KOKSTRAAT,78,"",8262VZ,
+"",J.H. KOKSTRAAT,80,"",8262VZ,
+"",J.H. KOKSTRAAT,82,"",8262VZ,
+"",J.H. KOKSTRAAT,84,"",8262VZ,
+"",J.H. KOKSTRAAT,86,"",8262VZ,
+"",J.H. KOKSTRAAT,88,"",8262VZ,
+"",J.H. KOKSTRAAT,90,"",8262VZ,

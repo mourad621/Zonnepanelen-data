@@ -1,39 +1,39 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2805KA,Achterwillenseweg,29,,
-2805KA,Achterwillenseweg,31,,
-2805KA,Achterwillenseweg,31,a,
-2805KA,Achterwillenseweg,33,,
-2805KC,Platteweg,38,a,
-2805KD,Achterwillensebocht,1,,
-2805HL,Goudse Houtsingel,3,,
-2805HL,Goudse Houtsingel,5,,
-2805HL,Goudse Houtsingel,7,,
-2805HL,Goudse Houtsingel,9,,
-2805HL,Goudse Houtsingel,11,,
-2805HL,Goudse Houtsingel,13,,
-2805HL,Goudse Houtsingel,15,,
-2805HL,Goudse Houtsingel,17,,
-2805HL,Goudse Houtsingel,19,,
-2805HL,Goudse Houtsingel,21,,
-2805HL,Goudse Houtsingel,23,,
-2805HL,Goudse Houtsingel,25,,
-2805HL,Goudse Houtsingel,27,,
-2805HL,Goudse Houtsingel,29,,
-2805HL,Goudse Houtsingel,31,,
-2805HL,Goudse Houtsingel,33,,
-2805HL,Goudse Houtsingel,35,,
-2805HL,Goudse Houtsingel,37,,
-2805HL,Goudse Houtsingel,39,,
-2805HL,Goudse Houtsingel,41,,
-2805HL,Goudse Houtsingel,43,,
-2805HL,Goudse Houtsingel,45,,
-2805HL,Goudse Houtsingel,101,,
-2805LD,Kale jonkerpad,3,,
-2805LD,Kale jonkerpad,4,,
-2805LD,Kale jonkerpad,4,a,
-2805LD,Kale jonkerpad,5,,
-2805KA,Achterwillenseweg,31,,
-2805KA,Achterwillenseweg,31,a,
-2805KC,Platteweg,42,c,
-2805KC,Platteweg,42,d,
-2805HL,Goudse Houtsingel,101,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Goudse Houtsingel,101,"","",2805HL,Gouda
+Goudse Houtsingel,101,A,"",2805HL,Gouda
+Goudse Houtsingel,11,"","",2805HL,Gouda
+Goudse Houtsingel,13,"","",2805HL,Gouda
+Goudse Houtsingel,15,"","",2805HL,Gouda
+Goudse Houtsingel,17,"","",2805HL,Gouda
+Goudse Houtsingel,19,"","",2805HL,Gouda
+Goudse Houtsingel,21,"","",2805HL,Gouda
+Goudse Houtsingel,23,"","",2805HL,Gouda
+Goudse Houtsingel,25,"","",2805HL,Gouda
+Goudse Houtsingel,27,"","",2805HL,Gouda
+Goudse Houtsingel,29,"","",2805HL,Gouda
+Goudse Houtsingel,3,"","",2805HL,Gouda
+Goudse Houtsingel,31,"","",2805HL,Gouda
+Goudse Houtsingel,33,"","",2805HL,Gouda
+Goudse Houtsingel,35,"","",2805HL,Gouda
+Goudse Houtsingel,37,"","",2805HL,Gouda
+Goudse Houtsingel,39,"","",2805HL,Gouda
+Goudse Houtsingel,41,"","",2805HL,Gouda
+Goudse Houtsingel,43,"","",2805HL,Gouda
+Goudse Houtsingel,45,"","",2805HL,Gouda
+Goudse Houtsingel,5,"","",2805HL,Gouda
+Goudse Houtsingel,7,"","",2805HL,Gouda
+Goudse Houtsingel,9,"","",2805HL,Gouda
+Achterwillenseweg,29,"","",2805KA,Gouda
+Achterwillenseweg,31,"","",2805KA,Gouda
+Achterwillenseweg,31,"","",2805KA,Gouda
+Achterwillenseweg,31,A,"",2805KA,Gouda
+Achterwillenseweg,31,A,"",2805KA,Gouda
+Achterwillenseweg,33,"","",2805KA,Gouda
+Platteweg,38,A,"",2805KC,Gouda
+Platteweg,42,C,"",2805KC,Gouda
+Platteweg,42,D,"",2805KC,Gouda
+Achterwillensebocht,1,"","",2805KD,Gouda
+Kale jonkerpad,3,"","",2805LD,Gouda
+Kale jonkerpad,4,"","",2805LD,Gouda
+Kale jonkerpad,4,A,"",2805LD,Gouda
+Kale jonkerpad,5,"","",2805LD,Gouda

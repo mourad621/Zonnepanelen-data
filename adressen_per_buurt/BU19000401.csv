@@ -1,879 +1,432 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8721EP",21,"",""
-"8721EP",25,"",""
-"8721EP",23,"",""
-"8721EP",16,"",""
-"8721EP",10,"",""
-"8721EP",19,"",""
-"8721EP",7,"",""
-"8721EP",11,"",""
-"8721EP",5,"",""
-"8721EP",13,"",""
-"8721EP",8,"",""
-"8721EP",15,"",""
-"8721EP",27,"",""
-"8721EP",3,"",""
-"8721EP",14,"",""
-"8721EP",4,"",""
-"8721EP",35,"",""
-"8721EP",17,"",""
-"8721EP",29,"",""
-"8721EP",6,"",""
-"8721EP",2,"",""
-"8721EP",31,"",""
-"8721EP",9,"",""
-"8721EP",1,"",""
-"8721EP",12,"",""
-"8721EP",33,"",""
-"8721ER",11,"",""
-"8721ER",27,"",""
-"8721ER",23,"",""
-"8721ER",3,"",""
-"8721ER",17,"",""
-"8721ER",1,"",""
-"8721ER",5,"",""
-"8721ER",21,"",""
-"8721ER",7,"",""
-"8721ER",9,"",""
-"8721ER",15,"",""
-"8721ER",13,"",""
-"8721ER",19,"",""
-"8721ER",25,"",""
-"8721ES",7,"",""
-"8721ES",15,"",""
-"8721ES",11,"",""
-"8721ES",3,"",""
-"8721ES",13,"",""
-"8721ES",9,"",""
-"8721ES",5,"",""
-"8721ES",1,"",""
-"8721ET",2,"",""
-"8721ET",10,"",""
-"8721ET",8,"",""
-"8721ET",6,"",""
-"8721ET",4,"",""
-"8721ET",14,"",""
-"8721ET",12,"",""
-"8721EV",49,"",""
-"8721EV",57,"",""
-"8721EV",45,"",""
-"8721EV",53,"",""
-"8721EV",41,"",""
-"8721EV",51,"",""
-"8721EV",47,"",""
-"8721EV",55,"",""
-"8721EV",59,"",""
-"8721EV",43,"",""
-"8721EV",37,"",""
-"8721EV",53,"",""
-"8721EV",61,"",""
-"8721EV",39,"",""
-"8721EZ",30,"",""
-"8721EZ",48,"",""
-"8721EZ",38,"",""
-"8721EZ",42,"",""
-"8721EZ",40,"",""
-"8721EZ",32,"",""
-"8721EZ",56,"",""
-"8721EZ",48,"",""
-"8721EZ",54,"",""
-"8721EZ",50,"",""
-"8721EZ",52,"",""
-"8721EZ",34,"",""
-"8721EZ",44,"",""
-"8721EZ",46,"",""
-"8721EZ",58,"",""
-"8721EZ",60,"",""
-"8721EZ",36,"",""
-"8721EZ",28,"",""
-"8721GA",1,"A",""
-"8721GA",15,"",""
-"8721GA",5,"",""
-"8721GA",23,"",""
-"8721GA",19,"",""
-"8721GA",11,"",""
-"8721GA",3,"",""
-"8721GA",17,"",""
-"8721GA",3,"A",""
-"8721GA",7,"",""
-"8721GA",1,"A",""
-"8721GA",13,"",""
-"8721GA",21,"",""
-"8721GA",13,"A",""
-"8721GA",1,"",""
-"8721GB",1,"",""
-"8721GB",25,"",""
-"8721GB",45,"",""
-"8721GB",35,"",""
-"8721GB",31,"",""
-"8721GB",41,"",""
-"8721GB",43,"",""
-"8721GB",39,"",""
-"8721GB",33,"",""
-"8721GB",27,"",""
-"8721GB",29,"",""
-"8721GB",37,"",""
-"8721GC",22,"",""
-"8721GC",34,"",""
-"8721GC",20,"",""
-"8721GC",26,"",""
-"8721GC",14,"",""
-"8721GC",2,"",""
-"8721GC",40,"",""
-"8721GC",28,"",""
-"8721GC",16,"",""
-"8721GC",30,"",""
-"8721GC",4,"",""
-"8721GC",22,"",""
-"8721GC",36,"",""
-"8721GC",38,"",""
-"8721GC",8,"",""
-"8721GC",6,"",""
-"8721GC",12,"",""
-"8721GC",10,"",""
-"8721GC",32,"",""
-"8721GD",62,"",""
-"8721GD",50,"",""
-"8721GD",86,"",""
-"8721GD",72,"",""
-"8721GD",60,"",""
-"8721GD",42,"",""
-"8721GD",64,"A",""
-"8721GD",56,"",""
-"8721GD",50,"",""
-"8721GD",70,"",""
-"8721GD",58,"",""
-"8721GD",74,"",""
-"8721GD",64,"",""
-"8721GD",78,"",""
-"8721GD",1,"",""
-"8721GD",66,"",""
-"8721GD",84,"",""
-"8721GD",54,"",""
-"8721GD",52,"",""
-"8721GD",80,"",""
-"8721GD",44,"",""
-"8721GD",82,"",""
-"8721GD",52,"",""
-"8721GE",25,"",""
-"8721GE",1,"",""
-"8721GE",25,"",""
-"8721GE",13,"A",""
-"8721GE",17,"",""
-"8721GE",19,"",""
-"8721GE",7,"",""
-"8721GE",13,"",""
-"8721GE",23,"",""
-"8721GE",17,"A",""
-"8721GE",29,"",""
-"8721GE",9,"",""
-"8721GE",21,"",""
-"8721GE",5,"",""
-"8721GE",11,"",""
-"8721GE",27,"",""
-"8721GE",3,"",""
-"8721GG",18,"",""
-"8721GG",14,"",""
-"8721GG",60,"",""
-"8721GG",34,"",""
-"8721GG",42,"",""
-"8721GG",46,"",""
-"8721GG",38,"",""
-"8721GG",26,"",""
-"8721GG",22,"",""
-"8721GG",36,"",""
-"8721GG",62,"",""
-"8721GG",48,"",""
-"8721GG",30,"",""
-"8721GG",40,"",""
-"8721GG",28,"",""
-"8721GG",20,"",""
-"8721GG",44,"",""
-"8721GG",6,"A",""
-"8721GG",24,"",""
-"8721GG",50,"",""
-"8721GG",8,"",""
-"8721GG",54,"",""
-"8721GG",4,"",""
-"8721GG",8,"A",""
-"8721GG",12,"",""
-"8721GG",8,"",""
-"8721GG",32,"",""
-"8721GG",8,"A",""
-"8721GG",58,"",""
-"8721GG",2,"",""
-"8721GG",56,"",""
-"8721GG",52,"",""
-"8721GH",15,"",""
-"8721GH",9,"",""
-"8721GH",5,"",""
-"8721GH",16,"",""
-"8721GH",7,"",""
-"8721GH",1,"",""
-"8721GH",3,"",""
-"8721GH",6,"",""
-"8721GH",24,"",""
-"8721GH",21,"",""
-"8721GH",18,"",""
-"8721GH",12,"",""
-"8721GH",20,"",""
-"8721GH",11,"",""
-"8721GH",8,"",""
-"8721GH",13,"",""
-"8721GH",19,"",""
-"8721GH",22,"",""
-"8721GH",17,"",""
-"8721GH",14,"",""
-"8721GH",10,"",""
-"8721GJ",1,"",""
-"8721GJ",9,"",""
-"8721GJ",14,"",""
-"8721GJ",5,"",""
-"8721GJ",27,"",""
-"8721GJ",22,"",""
-"8721GJ",2,"",""
-"8721GJ",8,"",""
-"8721GJ",19,"A",""
-"8721GJ",1,"A",""
-"8721GJ",1,"","by"
-"8721GJ",13,"",""
-"8721GJ",11,"",""
-"8721GJ",15,"",""
-"8721GJ",29,"",""
-"8721GJ",20,"",""
-"8721GJ",21,"",""
-"8721GJ",19,"",""
-"8721GJ",23,"",""
-"8721GJ",16,"",""
-"8721GJ",7,"",""
-"8721GJ",12,"",""
-"8721GJ",18,"",""
-"8721GK",18,"",""
-"8721GK",10,"",""
-"8721GK",24,"",""
-"8721GK",20,"",""
-"8721GK",22,"",""
-"8721GK",4,"",""
-"8721GK",26,"",""
-"8721GK",28,"",""
-"8721GK",30,"",""
-"8721GK",12,"",""
-"8721GK",3,"",""
-"8721GK",8,"",""
-"8721GK",1,"",""
-"8721GK",2,"",""
-"8721GK",14,"",""
-"8721GK",16,"",""
-"8721GL",29,"",""
-"8721GL",13,"",""
-"8721GL",21,"",""
-"8721GL",23,"",""
-"8721GL",12,"",""
-"8721GL",15,"",""
-"8721GL",25,"",""
-"8721GL",14,"",""
-"8721GL",24,"",""
-"8721GL",18,"",""
-"8721GL",16,"",""
-"8721GL",2,"",""
-"8721GL",5,"",""
-"8721GL",4,"",""
-"8721GL",22,"",""
-"8721GL",7,"",""
-"8721GL",5,"",""
-"8721GL",19,"",""
-"8721GL",6,"",""
-"8721GL",17,"",""
-"8721GL",11,"",""
-"8721GL",5,"A",""
-"8721GL",10,"",""
-"8721GL",21,"",""
-"8721GM",25,"",""
-"8721GM",5,"",""
-"8721GM",9,"",""
-"8721GM",29,"",""
-"8721GM",13,"",""
-"8721GM",21,"",""
-"8721GM",19,"",""
-"8721GM",13,"",""
-"8721GM",17,"A",""
-"8721GM",11,"",""
-"8721GM",17,"",""
-"8721GM",27,"",""
-"8721GM",7,"A",""
-"8721GM",17,"",""
-"8721GM",3,"",""
-"8721GM",15,"",""
-"8721GM",1,"",""
-"8721GM",31,"",""
-"8721GM",33,"",""
-"8721GM",23,"",""
-"8721GM",7,"",""
-"8721GN",57,"",""
-"8721GN",49,"",""
-"8721GN",35,"",""
-"8721GN",47,"",""
-"8721GN",41,"",""
-"8721GN",35,"",""
-"8721GN",37,"",""
-"8721GN",45,"",""
-"8721GN",39,"",""
-"8721GN",53,"",""
-"8721GN",55,"",""
-"8721GN",43,"",""
-"8721GN",51,"",""
-"8721GP",18,"",""
-"8721GP",20,"",""
-"8721GP",10,"",""
-"8721GP",24,"",""
-"8721GP",2,"",""
-"8721GP",4,"",""
-"8721GP",12,"",""
-"8721GP",22,"",""
-"8721GP",6,"",""
-"8721GP",18,"",""
-"8721GP",8,"",""
-"8721GR",54,"",""
-"8721GR",30,"",""
-"8721GR",52,"",""
-"8721GR",46,"",""
-"8721GR",26,"",""
-"8721GR",48,"",""
-"8721GR",54,"A",""
-"8721GR",60,"",""
-"8721GR",28,"",""
-"8721GR",38,"",""
-"8721GR",42,"",""
-"8721GR",44,"",""
-"8721GR",56,"",""
-"8721GR",50,"",""
-"8721GR",32,"",""
-"8721GR",58,"",""
-"8721GS",4,"",""
-"8721GS",17,"",""
-"8721GS",11,"",""
-"8721GS",14,"",""
-"8721GS",2,"",""
-"8721GS",18,"",""
-"8721GS",13,"",""
-"8721GS",12,"",""
-"8721GS",5,"",""
-"8721GS",10,"",""
-"8721GS",8,"",""
-"8721GS",20,"",""
-"8721GS",16,"",""
-"8721GS",24,"",""
-"8721GS",19,"",""
-"8721GS",1,"",""
-"8721GS",6,"",""
-"8721GS",9,"",""
-"8721GS",15,"",""
-"8721GS",7,"",""
-"8721GS",22,"",""
-"8721GS",3,"",""
-"8721GT",11,"",""
-"8721GT",5,"",""
-"8721GT",1,"",""
-"8721GT",9,"",""
-"8721GT",3,"",""
-"8721GT",4,"",""
-"8721GT",2,"",""
-"8721GT",2,"",""
-"8721GT",2,"",""
-"8721GV",3,"",""
-"8721GV",1,"",""
-"8721GV",2,"",""
-"8721GW",8,"",""
-"8721GW",6,"",""
-"8721GW",1,"",""
-"8721GW",4,"A",""
-"8721GW",12,"",""
-"8721GW",4,"",""
-"8721GX",33,"",""
-"8721GX",35,"",""
-"8721GX",7,"",""
-"8721GX",27,"",""
-"8721GX",31,"",""
-"8721GX",25,"",""
-"8721GX",9,"",""
-"8721GX",21,"A",""
-"8721GX",13,"",""
-"8721GX",3,"",""
-"8721GX",23,"",""
-"8721GX",15,"",""
-"8721GX",5,"",""
-"8721GX",29,"",""
-"8721GX",1,"",""
-"8721GX",21,"",""
-"8721GX",11,"",""
-"8721GZ",4,"A",""
-"8721GZ",18,"",""
-"8721GZ",2,"",""
-"8721GZ",20,"",""
-"8721GZ",4,"",""
-"8721GZ",12,"",""
-"8721GZ",14,"",""
-"8721GZ",26,"A",""
-"8721GZ",8,"",""
-"8721GZ",6,"",""
-"8721GZ",24,"",""
-"8721GZ",10,"",""
-"8721GZ",26,"",""
-"8721GZ",16,"",""
-"8721GZ",22,"",""
-"8721HA",1,"",""
-"8721HA",4,"",""
-"8721HA",3,"",""
-"8721HA",11,"",""
-"8721HA",5,"",""
-"8721HA",6,"",""
-"8721HA",9,"",""
-"8721HA",7,"",""
-"8721HA",2,"",""
-8721GE,Boppelâns,1,,
-8721GE,Boppelâns,25,,
-8721GE,Boppelâns,21,,
-8721GE,Boppelâns,29,,
-8721GE,Boppelâns,3,,
-8721GE,Boppelâns,5,,
-8721GE,Boppelâns,9,,
-8721GG,Boppelâns,44,,
-8721GG,Boppelâns,62,,
-8721GG,Boppelâns,36,,
-8721GG,Boppelâns,22,,
-8721GG,Boppelâns,46,,
-8721GG,Boppelâns,6,A,
-8721GG,Boppelâns,24,,
-8721GG,Boppelâns,8,A,
-8721GG,Boppelâns,28,,
-8721GG,Boppelâns,4,,
-8721GG,Boppelâns,26,,
-8721GG,Boppelâns,48,,
-8721GG,Boppelâns,30,,
-8721GG,Boppelâns,50,,
-8721GG,Boppelâns,8,,
-8721GG,Boppelâns,32,,
-8721GG,Boppelâns,52,,
-8721GM,Buorren,21,,
-8721GM,Buorren,27,,
-8721GM,Buorren,7,A,
-8721GM,Buorren,23,,
-8721GM,Buorren,29,,
-8721GM,Buorren,33,,
-8721GM,Buorren,17,,
-8721GM,Buorren,11,,
-8721GM,Buorren,31,,
-8721GM,Buorren,13,,
-8721GM,Buorren,3,,
-8721GM,Buorren,15,,
-8721GM,Buorren,25,,
-8721GN,Buorren,41,,
-8721GN,Buorren,45,,
-8721GN,Buorren,47,,
-8721GN,Buorren,49,,
-8721GN,Buorren,55,,
-8721GN,Buorren,53,,
-8721GN,Buorren,35,,
-8721GN,Buorren,51,,
-8721GN,Buorren,57,,
-8721GP,Buorren,6,,
-8721GP,Buorren,2,,
-8721GP,Buorren,10,,
-8721GP,Buorren,8,,
-8721GP,Buorren,4,,
-8721GR,Buorren,56,,
-8721GR,Buorren,54,,
-8721GR,Buorren,26,,
-8721GR,Buorren,60,,
-8721GR,Buorren,28,,
-8721GR,Buorren,30,,
-8721GR,Buorren,42,,
-8721GR,Buorren,58,,
-8721GR,Buorren,32,,
-8721ES,Janke Trompstrjitte,3,,
-8721ES,Janke Trompstrjitte,7,,
-8721ES,Janke Trompstrjitte,5,,
-8721ES,Janke Trompstrjitte,1,,
-8721ES,Janke Trompstrjitte,9,,
-8721ET,Janke Trompstrjitte,10,,
-8721ET,Janke Trompstrjitte,12,,
-8721ET,Janke Trompstrjitte,6,,
-8721ET,Janke Trompstrjitte,8,,
-8721ET,Janke Trompstrjitte,2,,
-8721GL,Kampenspaed,18,,
-8721GL,Kampenspaed,13,,
-8721GL,Kampenspaed,4,,
-8721GL,Kampenspaed,15,,
-8721GL,Kampenspaed,22,,
-8721GL,Kampenspaed,14,,
-8721GL,Kampenspaed,5,,
-8721GL,Kampenspaed,2,,
-8721GL,Kampenspaed,29,,
-8721GL,Kampenspaed,16,,
-8721GL,Kampenspaed,7,,
-8721GL,Kampenspaed,17,,
-8721GL,Kampenspaed,5,,
-8721GL,Kampenspaed,5,A,
-8721GL,Kampenspaed,19,,
-8721GH,Kapelstrjitte,18,,
-8721GH,Kapelstrjitte,21,,
-8721GH,Kapelstrjitte,22,,
-8721GH,Kapelstrjitte,10,,
-8721GH,Kapelstrjitte,24,,
-8721GH,Kapelstrjitte,11,,
-8721GH,Kapelstrjitte,3,,
-8721GH,Kapelstrjitte,1,,
-8721GH,Kapelstrjitte,19,,
-8721GH,Kapelstrjitte,12,,
-8721GH,Kapelstrjitte,5,,
-8721GH,Kapelstrjitte,17,,
-8721GD,Kappenburch,1,,
-8721GB,Mennistepaed,1,,
-8721EP,Nei de Feart,11,,
-8721EP,Nei de Feart,25,,
-8721EP,Nei de Feart,13,,
-8721EP,Nei de Feart,2,,
-8721EP,Nei de Feart,1,,
-8721EP,Nei de Feart,35,,
-8721EP,Nei de Feart,12,,
-8721EP,Nei de Feart,14,,
-8721EP,Nei de Feart,5,,
-8721EP,Nei de Feart,27,,
-8721EP,Nei de Feart,6,,
-8721EP,Nei de Feart,29,,
-8721EP,Nei de Feart,33,,
-8721EP,Nei de Feart,17,,
-8721EP,Nei de Feart,15,,
-8721EP,Nei de Feart,16,,
-8721EP,Nei de Feart,31,,
-8721EP,Nei de Feart,3,,
-8721EP,Nei de Feart,4,,
-8721GA,'t Noard,3,,
-8721GA,'t Noard,17,,
-8721GA,'t Noard,3,A,
-8721GA,'t Noard,1,A,
-8721GA,'t Noard,21,,
-8721GA,'t Noard,7,,
-8721GA,'t Noard,5,,
-8721GA,'t Noard,19,,
-8721GB,'t Noard,41,,
-8721GB,'t Noard,43,,
-8721GB,'t Noard,45,,
-8721GB,'t Noard,25,,
-8721GB,'t Noard,29,,
-8721GB,'t Noard,27,,
-8721GC,'t Noard,38,,
-8721GC,'t Noard,4,,
-8721GC,'t Noard,40,,
-8721GC,'t Noard,12,,
-8721GC,'t Noard,28,,
-8721GC,'t Noard,10,,
-8721GC,'t Noard,2,,
-8721GC,'t Noard,36,,
-8721GC,'t Noard,14,,
-8721GC,'t Noard,8,,
-8721GC,'t Noard,6,,
-8721GC,'t Noard,16,,
-8721GD,'t Noard,70,,
-8721GD,'t Noard,58,,
-8721GD,'t Noard,72,,
-8721GD,'t Noard,60,,
-8721GD,'t Noard,84,,
-8721GD,'t Noard,64,,
-8721GD,'t Noard,74,,
-8721GD,'t Noard,82,,
-8721GD,'t Noard,80,,
-8721GD,'t Noard,56,,
-8721GD,'t Noard,42,,
-8721GD,'t Noard,86,,
-8721GD,'t Noard,50,,
-8721GJ,Op 'e Wâl,15,,
-8721GJ,Op 'e Wâl,2,,
-8721GJ,Op 'e Wâl,16,,
-8721GJ,Op 'e Wâl,5,,
-8721GJ,Op 'e Wâl,18,,
-8721GJ,Op 'e Wâl,9,,
-8721GJ,Op 'e Wâl,1,,by
-8721GJ,Op 'e Wâl,1,A,
-8721GJ,Op 'e Wâl,19,,
-8721GJ,Op 'e Wâl,19,A,
-8721GJ,Op 'e Wâl,1,,
-8721GJ,Op 'e Wâl,20,,
-8721GS,Pastorywei,18,,
-8721GS,Pastorywei,6,,
-8721GS,Pastorywei,17,,
-8721GS,Pastorywei,5,,
-8721GS,Pastorywei,19,,
-8721GS,Pastorywei,7,,
-8721GS,Pastorywei,1,,
-8721GS,Pastorywei,8,,
-8721GS,Pastorywei,10,,
-8721GS,Pastorywei,20,,
-8721GS,Pastorywei,9,,
-8721GS,Pastorywei,12,,
-8721GS,Pastorywei,22,,
-8721GS,Pastorywei,11,,
-8721GK,Reade Wei,24,,
-8721GK,Reade Wei,2,,
-8721GK,Reade Wei,28,,
-8721GK,Reade Wei,3,,
-8721GK,Reade Wei,30,,
-8721GK,Reade Wei,4,,
-8721GV,'t Sein,1,,
-8721GW,Skarlerdyk,12,,
-8721GW,Skarlerdyk,4,A,
-8721GW,Skarlerdyk,4,,
-8721EV,'t Sou,41,,
-8721EV,'t Sou,53,,
-8721EV,'t Sou,43,,
-8721EV,'t Sou,57,,
-8721EV,'t Sou,45,,
-8721EV,'t Sou,51,,
-8721EV,'t Sou,61,,
-8721EV,'t Sou,59,,
-8721EV,'t Sou,49,,
-8721EV,'t Sou,55,,
-8721EZ,'t Sou,50,,
-8721EZ,'t Sou,40,,
-8721EZ,'t Sou,44,,
-8721EZ,'t Sou,46,,
-8721EZ,'t Sou,54,,
-8721EZ,'t Sou,52,,
-8721EZ,'t Sou,56,,
-8721EZ,'t Sou,48,,
-8721GX,'t Sou,23,,
-8721GX,'t Sou,15,,
-8721GX,'t Sou,9,,
-8721GX,'t Sou,21,,
-8721GX,'t Sou,21,A,
-8721GX,'t Sou,25,,
-8721GX,'t Sou,27,,
-8721GX,'t Sou,31,,
-8721GX,'t Sou,3,,
-8721GZ,'t Sou,20,,
-8721GZ,'t Sou,8,,
-8721GZ,'t Sou,22,,
-8721GZ,'t Sou,10,,
-8721GZ,'t Sou,18,,
-8721GZ,'t Sou,12,,
-8721GZ,'t Sou,14,,
-8721GZ,'t Sou,26,A,
-8721GZ,'t Sou,16,,
-8721HA,Ats Bonninghawei,1,,
-8721HA,Ats Bonninghawei,2,,
-8721HA,Ats Bonninghawei,11,,
-8721HA,Ats Bonninghawei,4,,
-8721HA,Ats Bonninghawei,3,,
-8721HA,Ats Bonninghawei,7,,
-8721HA,Ats Bonninghawei,6,,
-8721HA,Ats Bonninghawei,5,,
-8721HA,Ats Bonninghawei,9,,
-8721ER,De Waske,25,,
-8721ER,De Waske,23,,
-8721ER,De Waske,27,,
-8721ER,De Waske,3,,
-8721ER,De Waske,11,,
-8721ER,De Waske,5,,
-8721ER,De Waske,15,,
-8721ER,De Waske,13,,
-8721GT,Himmelumerdyk,11,,
-8721GT,Himmelumerdyk,1,,
-8721GE,Boppelâns,13,,
-8721GE,Boppelâns,13,A,
-8721GE,Boppelâns,7,,
-8721GE,Boppelâns,23,,
-8721GE,Boppelâns,17,A,
-8721GE,Boppelâns,19,,
-8721GE,Boppelâns,17,,
-8721GE,Boppelâns,27,,
-8721GE,Boppelâns,11,,
-8721GG,Boppelâns,12,,
-8721GG,Boppelâns,34,,
-8721GG,Boppelâns,54,,
-8721GG,Boppelâns,40,,
-8721GG,Boppelâns,58,,
-8721GG,Boppelâns,14,,
-8721GG,Boppelâns,2,,
-8721GG,Boppelâns,18,,
-8721GG,Boppelâns,38,,
-8721GG,Boppelâns,56,,
-8721GG,Boppelâns,20,,
-8721GG,Boppelâns,42,,
-8721GG,Boppelâns,60,,
-8721GM,Buorren,17,A,
-8721GM,Buorren,7,,
-8721GM,Buorren,1,,
-8721GM,Buorren,5,,
-8721GM,Buorren,19,,
-8721GM,Buorren,9,,
-8721GN,Buorren,37,,
-8721GN,Buorren,39,,
-8721GN,Buorren,43,,
-8721GP,Buorren,12,,
-8721GP,Buorren,18,,
-8721GP,Buorren,20,,
-8721GP,Buorren,18,,
-8721GP,Buorren,24,,
-8721GP,Buorren,22,,
-8721GR,Buorren,50,,
-8721GR,Buorren,46,,
-8721GR,Buorren,38,,
-8721GR,Buorren,48,,
-8721GR,Buorren,44,,
-8721GR,Buorren,52,,
-8721GR,Buorren,54,A,
-8721ES,Janke Trompstrjitte,11,,
-8721ES,Janke Trompstrjitte,15,,
-8721ES,Janke Trompstrjitte,13,,
-8721ET,Janke Trompstrjitte,4,,
-8721ET,Janke Trompstrjitte,14,,
-8721GL,Kampenspaed,23,,
-8721GL,Kampenspaed,10,,
-8721GL,Kampenspaed,21,,
-8721GL,Kampenspaed,11,,
-8721GL,Kampenspaed,24,,
-8721GL,Kampenspaed,12,,
-8721GL,Kampenspaed,25,,
-8721GL,Kampenspaed,6,,
-8721GH,Kapelstrjitte,20,,
-8721GH,Kapelstrjitte,13,,
-8721GH,Kapelstrjitte,6,,
-8721GH,Kapelstrjitte,15,,
-8721GH,Kapelstrjitte,8,,
-8721GH,Kapelstrjitte,14,,
-8721GH,Kapelstrjitte,7,,
-8721GH,Kapelstrjitte,16,,
-8721GH,Kapelstrjitte,9,,
-8721EP,Nei de Feart,7,,
-8721EP,Nei de Feart,19,,
-8721EP,Nei de Feart,8,,
-8721EP,Nei de Feart,21,,
-8721EP,Nei de Feart,10,,
-8721EP,Nei de Feart,9,,
-8721EP,Nei de Feart,23,,
-8721GA,'t Noard,1,,
-8721GA,'t Noard,13,,
-8721GA,'t Noard,11,,
-8721GA,'t Noard,15,,
-8721GA,'t Noard,23,,
-8721GA,'t Noard,13,A,
-8721GB,'t Noard,31,,
-8721GB,'t Noard,35,,
-8721GB,'t Noard,33,,
-8721GB,'t Noard,37,,
-8721GB,'t Noard,39,,
-8721GC,'t Noard,20,,
-8721GC,'t Noard,34,,
-8721GC,'t Noard,26,,
-8721GC,'t Noard,22,,
-8721GC,'t Noard,22,,
-8721GC,'t Noard,30,,
-8721GC,'t Noard,32,,
-8721GD,'t Noard,62,,
-8721GD,'t Noard,52,,
-8721GD,'t Noard,78,,
-8721GD,'t Noard,66,,
-8721GD,'t Noard,44,,
-8721GD,'t Noard,54,,
-8721GD,'t Noard,64,A,
-8721GJ,Op 'e Wâl,21,,
-8721GJ,Op 'e Wâl,23,,
-8721GJ,Op 'e Wâl,7,,
-8721GJ,Op 'e Wâl,11,,
-8721GJ,Op 'e Wâl,8,,
-8721GJ,Op 'e Wâl,22,,
-8721GJ,Op 'e Wâl,29,,
-8721GJ,Op 'e Wâl,12,,
-8721GJ,Op 'e Wâl,14,,
-8721GJ,Op 'e Wâl,13,,
-8721GJ,Op 'e Wâl,27,,
-8721GS,Pastorywei,13,,
-8721GS,Pastorywei,24,,
-8721GS,Pastorywei,14,,
-8721GS,Pastorywei,2,,
-8721GS,Pastorywei,15,,
-8721GS,Pastorywei,3,,
-8721GS,Pastorywei,16,,
-8721GS,Pastorywei,4,,
-8721GK,Reade Wei,8,,
-8721GK,Reade Wei,14,,
-8721GK,Reade Wei,26,,
-8721GK,Reade Wei,10,,
-8721GK,Reade Wei,16,,
-8721GK,Reade Wei,12,,
-8721GK,Reade Wei,20,,
-8721GK,Reade Wei,18,,
-8721GK,Reade Wei,1,,
-8721GK,Reade Wei,22,,
-8721GV,'t Sein,2,,
-8721GV,'t Sein,3,,
-8721GW,Skarlerdyk,8,,
-8721GW,Skarlerdyk,1,,
-8721GW,Skarlerdyk,6,,
-8721EV,'t Sou,47,,
-8721EV,'t Sou,39,,
-8721EV,'t Sou,37,,
-8721EZ,'t Sou,30,,
-8721EZ,'t Sou,38,,
-8721EZ,'t Sou,60,,
-8721EZ,'t Sou,58,,
-8721EZ,'t Sou,42,,
-8721EZ,'t Sou,32,,
-8721EZ,'t Sou,28,,
-8721EZ,'t Sou,36,,
-8721EZ,'t Sou,34,,
-8721GX,'t Sou,33,,
-8721GX,'t Sou,1,,
-8721GX,'t Sou,35,,
-8721GX,'t Sou,29,,
-8721GX,'t Sou,13,,
-8721GX,'t Sou,11,,
-8721GX,'t Sou,5,,
-8721GX,'t Sou,7,,
-8721GZ,'t Sou,24,,
-8721GZ,'t Sou,2,,
-8721GZ,'t Sou,4,A,
-8721GZ,'t Sou,26,,
-8721GZ,'t Sou,4,,
-8721GZ,'t Sou,6,,
-8721ER,De Waske,17,,
-8721ER,De Waske,9,,
-8721ER,De Waske,7,,
-8721ER,De Waske,19,,
-8721ER,De Waske,1,,
-8721ER,De Waske,21,,
-8721GT,Himmelumerdyk,2,,
-8721GT,Himmelumerdyk,2,,
-8721GT,Himmelumerdyk,3,,
-8721GT,Himmelumerdyk,4,,
-8721GT,Himmelumerdyk,5,,
-8721GT,Himmelumerdyk,9,,
-8721GE,Boppelâns,25,,
-8721GG,Boppelâns,8,,
-8721GM,Buorren,13,,
-8721GL,Kampenspaed,21,,
-8721GD,'t Noard,50,,
-8721GJ,Op 'e Wâl,10,,
-8721GJ,Op 'e Wâl,6,,
-8721GW,Skarlerdyk,1,A,
-8721EZ,'t Sou,48,,
-8721GX,'t Sou,17,,
-8721GZ,'t Sou,18,A,
-8721GT,Himmelumerdyk,2,,
-8721GT,Himmelumerdyk,2,A,
-8721GT,Himmelumerdyk,2,B,
-8721GT,Himmelumerdyk,2,C,
-8721GT,Himmelumerdyk,2,D,
-8721GT,Himmelumerdyk,2,F,
-8721GP,Buorren,10,A,
-8721GV,'t Sein,2,,
-8721EV,'t Sou,53,,
-8721HA,Ats Bonninghawei,15,,
-8721HA,Ats Bonninghawei,19,,
-8721HA,Ats Bonninghawei,23,,
-8721HA,Ats Bonninghawei,8,,
-8721HA,Ats Bonninghawei,8,,
-8721HA,Ats Bonninghawei,17,,
-8721HA,Ats Bonninghawei,23,,
-8721HA,Ats Bonninghawei,13,,
-8721HA,Ats Bonninghawei,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nei de Feart,1,"","",8721EP,Warns
+Nei de Feart,10,"","",8721EP,Warns
+Nei de Feart,11,"","",8721EP,Warns
+Nei de Feart,12,"","",8721EP,Warns
+Nei de Feart,13,"","",8721EP,Warns
+Nei de Feart,14,"","",8721EP,Warns
+Nei de Feart,15,"","",8721EP,Warns
+Nei de Feart,16,"","",8721EP,Warns
+Nei de Feart,17,"","",8721EP,Warns
+Nei de Feart,19,"","",8721EP,Warns
+Nei de Feart,2,"","",8721EP,Warns
+Nei de Feart,21,"","",8721EP,Warns
+Nei de Feart,23,"","",8721EP,Warns
+Nei de Feart,25,"","",8721EP,Warns
+Nei de Feart,27,"","",8721EP,Warns
+Nei de Feart,29,"","",8721EP,Warns
+Nei de Feart,3,"","",8721EP,Warns
+Nei de Feart,31,"","",8721EP,Warns
+Nei de Feart,33,"","",8721EP,Warns
+Nei de Feart,35,"","",8721EP,Warns
+Nei de Feart,4,"","",8721EP,Warns
+Nei de Feart,5,"","",8721EP,Warns
+Nei de Feart,6,"","",8721EP,Warns
+Nei de Feart,7,"","",8721EP,Warns
+Nei de Feart,8,"","",8721EP,Warns
+Nei de Feart,9,"","",8721EP,Warns
+De Waske,1,"","",8721ER,Warns
+De Waske,11,"","",8721ER,Warns
+De Waske,13,"","",8721ER,Warns
+De Waske,15,"","",8721ER,Warns
+De Waske,17,"","",8721ER,Warns
+De Waske,19,"","",8721ER,Warns
+De Waske,21,"","",8721ER,Warns
+De Waske,23,"","",8721ER,Warns
+De Waske,25,"","",8721ER,Warns
+De Waske,27,"","",8721ER,Warns
+De Waske,3,"","",8721ER,Warns
+De Waske,5,"","",8721ER,Warns
+De Waske,7,"","",8721ER,Warns
+De Waske,9,"","",8721ER,Warns
+Janke Trompstrjitte,1,"","",8721ES,Warns
+Janke Trompstrjitte,11,"","",8721ES,Warns
+Janke Trompstrjitte,13,"","",8721ES,Warns
+Janke Trompstrjitte,15,"","",8721ES,Warns
+Janke Trompstrjitte,3,"","",8721ES,Warns
+Janke Trompstrjitte,5,"","",8721ES,Warns
+Janke Trompstrjitte,7,"","",8721ES,Warns
+Janke Trompstrjitte,9,"","",8721ES,Warns
+Janke Trompstrjitte,10,"","",8721ET,Warns
+Janke Trompstrjitte,12,"","",8721ET,Warns
+Janke Trompstrjitte,14,"","",8721ET,Warns
+Janke Trompstrjitte,2,"","",8721ET,Warns
+Janke Trompstrjitte,4,"","",8721ET,Warns
+Janke Trompstrjitte,6,"","",8721ET,Warns
+Janke Trompstrjitte,8,"","",8721ET,Warns
+'t Sou,37,"","",8721EV,Warns
+'t Sou,39,"","",8721EV,Warns
+'t Sou,41,"","",8721EV,Warns
+'t Sou,43,"","",8721EV,Warns
+'t Sou,45,"","",8721EV,Warns
+'t Sou,47,"","",8721EV,Warns
+'t Sou,49,"","",8721EV,Warns
+'t Sou,51,"","",8721EV,Warns
+'t Sou,53,"","",8721EV,Warns
+'t Sou,53,"","",8721EV,Warns
+'t Sou,55,"","",8721EV,Warns
+'t Sou,57,"","",8721EV,Warns
+'t Sou,59,"","",8721EV,Warns
+'t Sou,61,"","",8721EV,Warns
+'t Sou,28,"","",8721EZ,Warns
+'t Sou,30,"","",8721EZ,Warns
+'t Sou,32,"","",8721EZ,Warns
+'t Sou,34,"","",8721EZ,Warns
+'t Sou,36,"","",8721EZ,Warns
+'t Sou,38,"","",8721EZ,Warns
+'t Sou,40,"","",8721EZ,Warns
+'t Sou,42,"","",8721EZ,Warns
+'t Sou,44,"","",8721EZ,Warns
+'t Sou,46,"","",8721EZ,Warns
+'t Sou,48,"","",8721EZ,Warns
+'t Sou,48,"","",8721EZ,Warns
+'t Sou,50,"","",8721EZ,Warns
+'t Sou,52,"","",8721EZ,Warns
+'t Sou,54,"","",8721EZ,Warns
+'t Sou,56,"","",8721EZ,Warns
+'t Sou,58,"","",8721EZ,Warns
+'t Sou,60,"","",8721EZ,Warns
+'t Noard,1,"","",8721GA,Warns
+'t Noard,1,A,"",8721GA,Warns
+'t Noard,1,A,"",8721GA,Warns
+'t Noard,11,"","",8721GA,Warns
+'t Noard,13,"","",8721GA,Warns
+'t Noard,13,A,"",8721GA,Warns
+'t Noard,15,"","",8721GA,Warns
+'t Noard,17,"","",8721GA,Warns
+'t Noard,19,"","",8721GA,Warns
+'t Noard,21,"","",8721GA,Warns
+'t Noard,23,"","",8721GA,Warns
+'t Noard,3,"","",8721GA,Warns
+'t Noard,3,A,"",8721GA,Warns
+'t Noard,5,"","",8721GA,Warns
+'t Noard,7,"","",8721GA,Warns
+Mennistepaed,1,"","",8721GB,Warns
+'t Noard,25,"","",8721GB,Warns
+'t Noard,27,"","",8721GB,Warns
+'t Noard,29,"","",8721GB,Warns
+'t Noard,31,"","",8721GB,Warns
+'t Noard,33,"","",8721GB,Warns
+'t Noard,35,"","",8721GB,Warns
+'t Noard,37,"","",8721GB,Warns
+'t Noard,39,"","",8721GB,Warns
+'t Noard,41,"","",8721GB,Warns
+'t Noard,43,"","",8721GB,Warns
+'t Noard,45,"","",8721GB,Warns
+'t Noard,10,"","",8721GC,Warns
+'t Noard,12,"","",8721GC,Warns
+'t Noard,14,"","",8721GC,Warns
+'t Noard,16,"","",8721GC,Warns
+'t Noard,2,"","",8721GC,Warns
+'t Noard,20,"","",8721GC,Warns
+'t Noard,22,"","",8721GC,Warns
+'t Noard,22,"","",8721GC,Warns
+'t Noard,26,"","",8721GC,Warns
+'t Noard,28,"","",8721GC,Warns
+'t Noard,30,"","",8721GC,Warns
+'t Noard,32,"","",8721GC,Warns
+'t Noard,34,"","",8721GC,Warns
+'t Noard,36,"","",8721GC,Warns
+'t Noard,38,"","",8721GC,Warns
+'t Noard,4,"","",8721GC,Warns
+'t Noard,40,"","",8721GC,Warns
+'t Noard,6,"","",8721GC,Warns
+'t Noard,8,"","",8721GC,Warns
+Kappenburch,1,"","",8721GD,Warns
+'t Noard,42,"","",8721GD,Warns
+'t Noard,44,"","",8721GD,Warns
+'t Noard,50,"","",8721GD,Warns
+'t Noard,50,"","",8721GD,Warns
+'t Noard,52,"","",8721GD,Warns
+'t Noard,52,"","",8721GD,Warns
+'t Noard,54,"","",8721GD,Warns
+'t Noard,56,"","",8721GD,Warns
+'t Noard,58,"","",8721GD,Warns
+'t Noard,60,"","",8721GD,Warns
+'t Noard,62,"","",8721GD,Warns
+'t Noard,64,"","",8721GD,Warns
+'t Noard,64,A,"",8721GD,Warns
+'t Noard,66,"","",8721GD,Warns
+'t Noard,70,"","",8721GD,Warns
+'t Noard,72,"","",8721GD,Warns
+'t Noard,74,"","",8721GD,Warns
+'t Noard,78,"","",8721GD,Warns
+'t Noard,80,"","",8721GD,Warns
+'t Noard,82,"","",8721GD,Warns
+'t Noard,84,"","",8721GD,Warns
+'t Noard,86,"","",8721GD,Warns
+Boppelâns,1,"","",8721GE,Warns
+Boppelâns,11,"","",8721GE,Warns
+Boppelâns,13,"","",8721GE,Warns
+Boppelâns,13,A,"",8721GE,Warns
+Boppelâns,17,"","",8721GE,Warns
+Boppelâns,17,A,"",8721GE,Warns
+Boppelâns,19,"","",8721GE,Warns
+Boppelâns,21,"","",8721GE,Warns
+Boppelâns,23,"","",8721GE,Warns
+Boppelâns,25,"","",8721GE,Warns
+Boppelâns,25,"","",8721GE,Warns
+Boppelâns,27,"","",8721GE,Warns
+Boppelâns,29,"","",8721GE,Warns
+Boppelâns,3,"","",8721GE,Warns
+Boppelâns,5,"","",8721GE,Warns
+Boppelâns,7,"","",8721GE,Warns
+Boppelâns,9,"","",8721GE,Warns
+Boppelâns,12,"","",8721GG,Warns
+Boppelâns,14,"","",8721GG,Warns
+Boppelâns,18,"","",8721GG,Warns
+Boppelâns,2,"","",8721GG,Warns
+Boppelâns,20,"","",8721GG,Warns
+Boppelâns,22,"","",8721GG,Warns
+Boppelâns,24,"","",8721GG,Warns
+Boppelâns,26,"","",8721GG,Warns
+Boppelâns,28,"","",8721GG,Warns
+Boppelâns,30,"","",8721GG,Warns
+Boppelâns,32,"","",8721GG,Warns
+Boppelâns,34,"","",8721GG,Warns
+Boppelâns,36,"","",8721GG,Warns
+Boppelâns,38,"","",8721GG,Warns
+Boppelâns,4,"","",8721GG,Warns
+Boppelâns,40,"","",8721GG,Warns
+Boppelâns,42,"","",8721GG,Warns
+Boppelâns,44,"","",8721GG,Warns
+Boppelâns,46,"","",8721GG,Warns
+Boppelâns,48,"","",8721GG,Warns
+Boppelâns,50,"","",8721GG,Warns
+Boppelâns,52,"","",8721GG,Warns
+Boppelâns,54,"","",8721GG,Warns
+Boppelâns,56,"","",8721GG,Warns
+Boppelâns,58,"","",8721GG,Warns
+Boppelâns,6,A,"",8721GG,Warns
+Boppelâns,60,"","",8721GG,Warns
+Boppelâns,62,"","",8721GG,Warns
+Boppelâns,8,"","",8721GG,Warns
+Boppelâns,8,"","",8721GG,Warns
+Boppelâns,8,A,"",8721GG,Warns
+Boppelâns,8,A,"",8721GG,Warns
+Kapelstrjitte,1,"","",8721GH,Warns
+Kapelstrjitte,10,"","",8721GH,Warns
+Kapelstrjitte,11,"","",8721GH,Warns
+Kapelstrjitte,12,"","",8721GH,Warns
+Kapelstrjitte,13,"","",8721GH,Warns
+Kapelstrjitte,14,"","",8721GH,Warns
+Kapelstrjitte,15,"","",8721GH,Warns
+Kapelstrjitte,16,"","",8721GH,Warns
+Kapelstrjitte,17,"","",8721GH,Warns
+Kapelstrjitte,18,"","",8721GH,Warns
+Kapelstrjitte,19,"","",8721GH,Warns
+Kapelstrjitte,20,"","",8721GH,Warns
+Kapelstrjitte,21,"","",8721GH,Warns
+Kapelstrjitte,22,"","",8721GH,Warns
+Kapelstrjitte,24,"","",8721GH,Warns
+Kapelstrjitte,3,"","",8721GH,Warns
+Kapelstrjitte,5,"","",8721GH,Warns
+Kapelstrjitte,6,"","",8721GH,Warns
+Kapelstrjitte,7,"","",8721GH,Warns
+Kapelstrjitte,8,"","",8721GH,Warns
+Kapelstrjitte,9,"","",8721GH,Warns
+Op 'e Wâl,1,"","",8721GJ,Warns
+Op 'e Wâl,1,"",BY,8721GJ,Warns
+Op 'e Wâl,1,A,"",8721GJ,Warns
+Op 'e Wâl,11,"","",8721GJ,Warns
+Op 'e Wâl,12,"","",8721GJ,Warns
+Op 'e Wâl,13,"","",8721GJ,Warns
+Op 'e Wâl,14,"","",8721GJ,Warns
+Op 'e Wâl,15,"","",8721GJ,Warns
+Op 'e Wâl,16,"","",8721GJ,Warns
+Op 'e Wâl,18,"","",8721GJ,Warns
+Op 'e Wâl,19,"","",8721GJ,Warns
+Op 'e Wâl,19,A,"",8721GJ,Warns
+Op 'e Wâl,2,"","",8721GJ,Warns
+Op 'e Wâl,20,"","",8721GJ,Warns
+Op 'e Wâl,21,"","",8721GJ,Warns
+Op 'e Wâl,22,"","",8721GJ,Warns
+Op 'e Wâl,23,"","",8721GJ,Warns
+Op 'e Wâl,27,"","",8721GJ,Warns
+Op 'e Wâl,29,"","",8721GJ,Warns
+Op 'e Wâl,5,"","",8721GJ,Warns
+Op 'e Wâl,7,"","",8721GJ,Warns
+Op 'e Wâl,8,"","",8721GJ,Warns
+Op 'e Wâl,9,"","",8721GJ,Warns
+Reade Wei,1,"","",8721GK,Warns
+Reade Wei,10,"","",8721GK,Warns
+Reade Wei,12,"","",8721GK,Warns
+Reade Wei,14,"","",8721GK,Warns
+Reade Wei,16,"","",8721GK,Warns
+Reade Wei,18,"","",8721GK,Warns
+Reade Wei,2,"","",8721GK,Warns
+Reade Wei,20,"","",8721GK,Warns
+Reade Wei,22,"","",8721GK,Warns
+Reade Wei,24,"","",8721GK,Warns
+Reade Wei,26,"","",8721GK,Warns
+Reade Wei,28,"","",8721GK,Warns
+Reade Wei,3,"","",8721GK,Warns
+Reade Wei,30,"","",8721GK,Warns
+Reade Wei,4,"","",8721GK,Warns
+Reade Wei,8,"","",8721GK,Warns
+Kampenspaed,10,"","",8721GL,Warns
+Kampenspaed,11,"","",8721GL,Warns
+Kampenspaed,12,"","",8721GL,Warns
+Kampenspaed,13,"","",8721GL,Warns
+Kampenspaed,14,"","",8721GL,Warns
+Kampenspaed,15,"","",8721GL,Warns
+Kampenspaed,16,"","",8721GL,Warns
+Kampenspaed,17,"","",8721GL,Warns
+Kampenspaed,18,"","",8721GL,Warns
+Kampenspaed,19,"","",8721GL,Warns
+Kampenspaed,2,"","",8721GL,Warns
+Kampenspaed,21,"","",8721GL,Warns
+Kampenspaed,21,"","",8721GL,Warns
+Kampenspaed,22,"","",8721GL,Warns
+Kampenspaed,23,"","",8721GL,Warns
+Kampenspaed,24,"","",8721GL,Warns
+Kampenspaed,25,"","",8721GL,Warns
+Kampenspaed,29,"","",8721GL,Warns
+Kampenspaed,4,"","",8721GL,Warns
+Kampenspaed,5,"","",8721GL,Warns
+Kampenspaed,5,"","",8721GL,Warns
+Kampenspaed,5,A,"",8721GL,Warns
+Kampenspaed,6,"","",8721GL,Warns
+Kampenspaed,7,"","",8721GL,Warns
+Buorren,1,"","",8721GM,Warns
+Buorren,11,"","",8721GM,Warns
+Buorren,13,"","",8721GM,Warns
+Buorren,13,"","",8721GM,Warns
+Buorren,15,"","",8721GM,Warns
+Buorren,17,"","",8721GM,Warns
+Buorren,17,"","",8721GM,Warns
+Buorren,17,A,"",8721GM,Warns
+Buorren,19,"","",8721GM,Warns
+Buorren,21,"","",8721GM,Warns
+Buorren,23,"","",8721GM,Warns
+Buorren,25,"","",8721GM,Warns
+Buorren,27,"","",8721GM,Warns
+Buorren,29,"","",8721GM,Warns
+Buorren,3,"","",8721GM,Warns
+Buorren,31,"","",8721GM,Warns
+Buorren,33,"","",8721GM,Warns
+Buorren,5,"","",8721GM,Warns
+Buorren,7,"","",8721GM,Warns
+Buorren,7,A,"",8721GM,Warns
+Buorren,9,"","",8721GM,Warns
+Buorren,35,"","",8721GN,Warns
+Buorren,35,"","",8721GN,Warns
+Buorren,37,"","",8721GN,Warns
+Buorren,39,"","",8721GN,Warns
+Buorren,41,"","",8721GN,Warns
+Buorren,43,"","",8721GN,Warns
+Buorren,45,"","",8721GN,Warns
+Buorren,47,"","",8721GN,Warns
+Buorren,49,"","",8721GN,Warns
+Buorren,51,"","",8721GN,Warns
+Buorren,53,"","",8721GN,Warns
+Buorren,55,"","",8721GN,Warns
+Buorren,57,"","",8721GN,Warns
+Buorren,10,"","",8721GP,Warns
+Buorren,12,"","",8721GP,Warns
+Buorren,18,"","",8721GP,Warns
+Buorren,18,"","",8721GP,Warns
+Buorren,2,"","",8721GP,Warns
+Buorren,20,"","",8721GP,Warns
+Buorren,22,"","",8721GP,Warns
+Buorren,24,"","",8721GP,Warns
+Buorren,4,"","",8721GP,Warns
+Buorren,6,"","",8721GP,Warns
+Buorren,8,"","",8721GP,Warns
+Buorren,26,"","",8721GR,Warns
+Buorren,28,"","",8721GR,Warns
+Buorren,30,"","",8721GR,Warns
+Buorren,32,"","",8721GR,Warns
+Buorren,38,"","",8721GR,Warns
+Buorren,42,"","",8721GR,Warns
+Buorren,44,"","",8721GR,Warns
+Buorren,46,"","",8721GR,Warns
+Buorren,48,"","",8721GR,Warns
+Buorren,50,"","",8721GR,Warns
+Buorren,52,"","",8721GR,Warns
+Buorren,54,"","",8721GR,Warns
+Buorren,54,A,"",8721GR,Warns
+Buorren,56,"","",8721GR,Warns
+Buorren,58,"","",8721GR,Warns
+Buorren,60,"","",8721GR,Warns
+Pastorywei,1,"","",8721GS,Warns
+Pastorywei,10,"","",8721GS,Warns
+Pastorywei,11,"","",8721GS,Warns
+Pastorywei,12,"","",8721GS,Warns
+Pastorywei,13,"","",8721GS,Warns
+Pastorywei,14,"","",8721GS,Warns
+Pastorywei,15,"","",8721GS,Warns
+Pastorywei,16,"","",8721GS,Warns
+Pastorywei,17,"","",8721GS,Warns
+Pastorywei,18,"","",8721GS,Warns
+Pastorywei,19,"","",8721GS,Warns
+Pastorywei,2,"","",8721GS,Warns
+Pastorywei,20,"","",8721GS,Warns
+Pastorywei,22,"","",8721GS,Warns
+Pastorywei,24,"","",8721GS,Warns
+Pastorywei,3,"","",8721GS,Warns
+Pastorywei,4,"","",8721GS,Warns
+Pastorywei,5,"","",8721GS,Warns
+Pastorywei,6,"","",8721GS,Warns
+Pastorywei,7,"","",8721GS,Warns
+Pastorywei,8,"","",8721GS,Warns
+Pastorywei,9,"","",8721GS,Warns
+Himmelumerdyk,1,"","",8721GT,Warns
+Himmelumerdyk,11,"","",8721GT,Warns
+Himmelumerdyk,2,"","",8721GT,Warns
+Himmelumerdyk,2,"","",8721GT,Warns
+Himmelumerdyk,2,"","",8721GT,Warns
+Himmelumerdyk,3,"","",8721GT,Warns
+Himmelumerdyk,4,"","",8721GT,Warns
+Himmelumerdyk,5,"","",8721GT,Warns
+Himmelumerdyk,9,"","",8721GT,Warns
+'t Sein,1,"","",8721GV,Warns
+'t Sein,2,"","",8721GV,Warns
+'t Sein,3,"","",8721GV,Warns
+Skarlerdyk,1,"","",8721GW,Warns
+Skarlerdyk,12,"","",8721GW,Warns
+Skarlerdyk,4,"","",8721GW,Warns
+Skarlerdyk,4,A,"",8721GW,Warns
+Skarlerdyk,6,"","",8721GW,Warns
+Skarlerdyk,8,"","",8721GW,Warns
+'t Sou,1,"","",8721GX,Warns
+'t Sou,11,"","",8721GX,Warns
+'t Sou,13,"","",8721GX,Warns
+'t Sou,15,"","",8721GX,Warns
+'t Sou,21,"","",8721GX,Warns
+'t Sou,21,A,"",8721GX,Warns
+'t Sou,23,"","",8721GX,Warns
+'t Sou,25,"","",8721GX,Warns
+'t Sou,27,"","",8721GX,Warns
+'t Sou,29,"","",8721GX,Warns
+'t Sou,3,"","",8721GX,Warns
+'t Sou,31,"","",8721GX,Warns
+'t Sou,33,"","",8721GX,Warns
+'t Sou,35,"","",8721GX,Warns
+'t Sou,5,"","",8721GX,Warns
+'t Sou,7,"","",8721GX,Warns
+'t Sou,9,"","",8721GX,Warns
+'t Sou,10,"","",8721GZ,Warns
+'t Sou,12,"","",8721GZ,Warns
+'t Sou,14,"","",8721GZ,Warns
+'t Sou,16,"","",8721GZ,Warns
+'t Sou,18,"","",8721GZ,Warns
+'t Sou,2,"","",8721GZ,Warns
+'t Sou,20,"","",8721GZ,Warns
+'t Sou,22,"","",8721GZ,Warns
+'t Sou,24,"","",8721GZ,Warns
+'t Sou,26,"","",8721GZ,Warns
+'t Sou,26,A,"",8721GZ,Warns
+'t Sou,4,"","",8721GZ,Warns
+'t Sou,4,A,"",8721GZ,Warns
+'t Sou,6,"","",8721GZ,Warns
+'t Sou,8,"","",8721GZ,Warns
+Ats Bonninghawei,1,"","",8721HA,Warns
+Ats Bonninghawei,11,"","",8721HA,Warns
+Ats Bonninghawei,2,"","",8721HA,Warns
+Ats Bonninghawei,3,"","",8721HA,Warns
+Ats Bonninghawei,4,"","",8721HA,Warns
+Ats Bonninghawei,5,"","",8721HA,Warns
+Ats Bonninghawei,6,"","",8721HA,Warns
+Ats Bonninghawei,7,"","",8721HA,Warns
+Ats Bonninghawei,9,"","",8721HA,Warns

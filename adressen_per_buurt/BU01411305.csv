@@ -1,813 +1,416 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7603MB",1,"",""
-"7603MB",4,"",""
-"7603MC",10,"a",""
-"7603MC",8,"",""
-"7603MC",10,"a",""
-"7603MC",8,"a",""
-"7603MC",6,"a",""
-"7603MC",30,"",""
-"7603MC",10,"",""
-"7603MC",2,"",""
-"7603MC",24,"",""
-"7603MC",2,"",""
-"7603MC",44,"",""
-"7603MC",2,"a",""
-"7603MC",10,"",""
-"7603MC",26,"",""
-"7603MC",28,"",""
-"7603MC",12,"a",""
-"7603MC",2,"",""
-"7603MC",2,"a",""
-"7603MC",4,"",""
-"7603MC",10,"",""
-"7603MC",6,"",""
-"7603MC",4,"a",""
-"7603MC",2,"a",""
-"7603MC",22,"",""
-"7603MC",18,"",""
-"7603MC",12,"",""
-"7603MC",10,"a",""
-"7603MC",20,"",""
-"7603MC",16,"",""
-"7603MC",40,"",""
-"7603MC",42,"",""
-"7603MC",34,"",""
-"7603MC",38,"",""
-"7603MC",46,"",""
-"7603MC",32,"",""
-"7603MC",36,"",""
-"7603NN",494,"",""
-"7603NN",482,"",""
-"7603NN",486,"a",""
-"7603NN",486,"c",""
-"7603NN",476,"",""
-"7603NN",492,"",""
-"7603NN",474,"",""
-"7603NN",486,"b",""
-"7603NN",494,"a",""
-"7603NN",496,"",""
-"7603NN",486,"",""
-"7603NN",478,"",""
-"7603NN",476,"a",""
-"7603NN",480,"",""
-"7603NN",484,"",""
-"7603NN",474,"a",""
-"7603NN",472,"",""
-"7603NN",470,"",""
-"7603NV",6,"",""
-"7603NV",18,"",""
-"7603NV",4,"",""
-"7603NV",30,"",""
-"7603NV",10,"",""
-"7603NV",8,"",""
-"7603NV",2,"",""
-"7603NV",20,"",""
-"7603NV",22,"",""
-"7603NV",12,"",""
-"7603NV",32,"",""
-"7603NV",26,"",""
-"7603PA",5,"",""
-"7603PA",41,"",""
-"7603PA",9,"",""
-"7603PA",15,"",""
-"7603PA",27,"",""
-"7603PA",29,"",""
-"7603PA",7,"",""
-"7603PA",17,"",""
-"7603PA",21,"",""
-"7603PA",3,"",""
-"7603PA",13,"",""
-"7603PA",19,"",""
-"7603PA",41,"",""
-"7603PA",43,"",""
-"7603PA",25,"",""
-"7603PA",23,"",""
-"7603PA",11,"",""
-"7603PA",33,"",""
-"7603PB",14,"",""
-"7603PB",6,"",""
-"7603PB",16,"",""
-"7603PB",8,"",""
-"7603PB",22,"",""
-"7603PB",24,"a",""
-"7603PB",4,"",""
-"7603PB",30,"",""
-"7603PB",24,"",""
-"7603PB",12,"",""
-"7603PB",32,"a",""
-"7603PB",34,"",""
-"7603PB",28,"",""
-"7603PB",18,"",""
-"7603PB",20,"",""
-"7603PB",34,"",""
-"7603PB",10,"",""
-"7603PB",32,"",""
-"7603PB",20,"a",""
-"7603PC",20,"",""
-"7603PC",10,"",""
-"7603PC",3,"",""
-"7603PC",12,"",""
-"7603PC",22,"",""
-"7603PC",14,"",""
-"7603PC",5,"",""
-"7603PC",13,"",""
-"7603PC",34,"",""
-"7603PC",24,"",""
-"7603PC",8,"",""
-"7603PC",15,"",""
-"7603PC",28,"",""
-"7603PC",18,"",""
-"7603PC",9,"",""
-"7603PC",7,"",""
-"7603PC",15,"",""
-"7603PC",15,"",""
-"7603PC",26,"",""
-"7603PC",11,"",""
-"7603PC",11,"",""
-"7603PC",6,"",""
-"7603PC",11,"",""
-"7603PC",32,"",""
-"7603PC",16,"",""
-"7603PC",30,"",""
-"7608RA",2,"",""
-"7608RA",1,"",""
-"7608RB",6,"",""
-"7608RB",1,"a",""
-"7608RB",14,"",""
-"7608RB",3,"",""
-"7608RB",3,"",""
-"7608RB",3,"",""
-"7608RB",22,"",""
-"7608RB",12,"",""
-"7608RB",5,"",""
-"7608RB",4,"a",""
-"7608RB",22,"",""
-"7608RB",3,"a",""
-"7608RB",8,"",""
-"7608RB",30,"",""
-"7608RB",26,"",""
-"7608RB",2,"c",""
-"7608RB",4,"",""
-"7608RB",24,"",""
-"7608RB",24,"",""
-"7608RB",5,"",""
-"7608RB",2,"b",""
-"7608RB",5,"",""
-"7608RB",8,"a",""
-"7608RB",8,"a",""
-"7608RB",8,"a",""
-"7608RB",12,"",""
-"7608RB",1,"",""
-"7608RB",24,"",""
-"7608RB",18,"",""
-"7608RB",12,"",""
-"7608RB",16,"",""
-"7608RB",28,"",""
-"7608RC",42,"",""
-"7608RC",40,"",""
-"7608RC",61,"",""
-"7608RC",59,"",""
-"7608RC",57,"",""
-"7608RC",38,"",""
-"7608RC",67,"",""
-"7608RC",45,"",""
-"7608RC",36,"","d"
-"7608RC",51,"",""
-"7608RC",49,"",""
-"7608RC",63,"",""
-"7608RC",57,"",""
-"7608RC",57,"",""
-"7608RC",36,"",""
-"7608RC",36,"d",""
-"7608RC",47,"b",""
-"7608RC",65,"",""
-"7608RC",36,"b",""
-"7608RC",53,"",""
-"7608RC",69,"",""
-"7608RC",40,"a",""
-"7608SB",3,"",""
-"7608SB",15,"",""
-"7608SB",5,"",""
-"7608SB",13,"",""
-"7608SB",29,"",""
-"7608SB",35,"",""
-"7608SB",27,"",""
-"7608SB",1,"",""
-"7608SB",11,"",""
-"7608SB",25,"",""
-"7608SB",21,"",""
-"7608SB",29,"",""
-"7608SB",37,"",""
-"7608SB",5,"",""
-"7608SB",29,"",""
-"7608SB",31,"",""
-"7608SB",5,"",""
-"7608SB",33,"",""
-"7608SC",15,"",""
-"7608SC",19,"",""
-"7608SC",13,"",""
-"7608SC",17,"",""
-"7608SC",14,"",""
-"7608SC",2,"",""
-"7608SC",17,"",""
-"7608SC",12,"",""
-"7608SC",6,"",""
-"7608SC",4,"",""
-"7608SC",11,"",""
-"7608SC",3,"",""
-"7608SC",7,"",""
-"7608SC",8,"",""
-"7608SC",9,"",""
-"7608SC",10,"",""
-"7608SC",5,"",""
-"7608SC",1,"",""
-"7608SE",10,"",""
-"7608SE",8,"",""
-"7608SE",6,"",""
-"7608SE",11,"",""
-"7608SE",1,"",""
-"7608SE",7,"",""
-"7608SE",11,"",""
-"7608SE",12,"",""
-"7608SE",3,"",""
-"7608SE",11,"",""
-"7608SE",9,"",""
-"7608SE",5,"",""
-"7608SE",14,"",""
-"7608SE",2,"",""
-"7608SE",4,"",""
-"7608SG",10,"",""
-"7608SG",4,"",""
-"7608SG",2,"",""
-"7608SG",12,"",""
-"7608SG",9,"",""
-"7608SG",7,"",""
-"7608SG",6,"",""
-"7608SG",5,"",""
-"7608SG",8,"",""
-"7608SG",3,"",""
-"7608SH",12,"",""
-"7608SH",3,"",""
-"7608SH",1,"",""
-"7608SH",6,"",""
-"7608SH",5,"",""
-"7608SH",2,"",""
-"7608SH",4,"",""
-"7608SH",8,"",""
-"7608SH",10,"",""
-"7608SJ",4,"",""
-"7608SJ",6,"",""
-"7608SJ",8,"",""
-"7608SJ",2,"",""
-"7608SJ",10,"",""
-"7608SJ",3,"",""
-"7608SJ",5,"",""
-"7608SJ",3,"",""
-"7608SJ",3,"",""
-"7608SJ",1,"",""
-"7608SK",17,"",""
-"7608SK",17,"",""
-"7608SK",15,"",""
-"7608SK",5,"",""
-"7608SK",5,"",""
-"7608SK",11,"",""
-"7608SK",5,"",""
-"7608SK",19,"",""
-"7608SK",31,"",""
-"7608SK",9,"",""
-"7608SK",5,"",""
-"7608SK",13,"",""
-"7608SK",7,"",""
-"7608SL",86,"",""
-"7608SL",10,"",""
-"7608SL",14,"",""
-"7608SL",76,"",""
-"7608SL",26,"",""
-"7608SL",12,"",""
-"7608SL",72,"",""
-"7608SL",6,"",""
-"7608SL",84,"",""
-"7608SL",84,"",""
-"7608SL",78,"",""
-"7608SL",68,"",""
-"7608SL",74,"",""
-"7608SL",70,"",""
-"7608SL",76,"",""
-"7608SL",28,"",""
-"7608SL",84,"",""
-"7608SL",74,"",""
-"7608SL",88,"",""
-"7608SL",16,"",""
-"7608SL",82,"",""
-"7608SL",74,"",""
-"7608SL",24,"",""
-"7608SL",40,"",""
-"7608SL",42,"",""
-"7608SL",22,"",""
-"7608SL",68,"",""
-"7608SL",68,"",""
-"7608SL",42,"",""
-"7608SL",18,"",""
-"7608SL",18,"a",""
-"7608SL",48,"",""
-"7608SL",64,"",""
-"7608SL",2,"",""
-"7608SL",42,"",""
-"7608SL",52,"",""
-"7608SL",50,"",""
-"7608SL",54,"",""
-"7608SL",8,"",""
-"7608SL",44,"",""
-"7608SL",46,"",""
-"7608SM",208,"",""
-"7608SM",2,"",""
-"7608SM",2,"",""
-"7608SM",2,"",""
-"7608SM",5,"",""
-"7608SN",6,"",""
-"7608SN",7,"",""
-"7608SN",7,"",""
-"7608SN",4,"",""
-"7608SN",7,"",""
-"7608SN",5,"",""
-"7608SN",3,"",""
-"7608SN",9,"",""
-"7608SP",6,"",""
-"7608SP",2,"",""
-"7608SP",4,"",""
-"7608SP",6,"",""
-"7608SP",19,"",""
-"7608SP",8,"",""
-"7608SP",23,"",""
-"7608SP",5,"",""
-"7608SP",23,"",""
-"7608SP",10,"",""
-"7608SP",18,"",""
-"7608SP",8,"",""
-"7608SP",6,"",""
-"7608SP",12,"",""
-"7608SP",20,"",""
-"7608SP",3,"",""
-"7608SP",19,"",""
-"7608SP",22,"",""
-"7608SP",16,"",""
-"7608SP",17,"",""
-"7608SP",23,"",""
-"7608SP",21,"",""
-"7608SP",20,"",""
-"7608SP",7,"",""
-"7608SR",20,"",""
-"7608SR",3,"",""
-"7608SR",6,"",""
-"7608SR",3,"",""
-"7608SR",3,"",""
-"7608SR",4,"",""
-"7608SR",19,"",""
-"7608SR",9,"",""
-"7608SR",19,"",""
-"7608SR",15,"",""
-"7608SR",6,"",""
-"7608SR",12,"",""
-"7608SR",4,"",""
-"7608SR",19,"",""
-"7608SR",16,"",""
-"7608SR",5,"",""
-"7608SR",4,"",""
-"7608SR",17,"",""
-"7608SR",6,"",""
-"7608SR",8,"",""
-"7608SR",18,"",""
-"7608SR",14,"",""
-"7608ST",6,"",""
-"7608ST",10,"",""
-"7608ST",2,"",""
-"7608ST",4,"",""
-"7608ST",8,"",""
-"7608ST",12,"",""
-"7608ST",6,"",""
-"7608ST",2,"",""
-"7608ST",2,"",""
-"7608ST",6,"",""
-"7608SV",7,"",""
-"7608SV",5,"",""
-"7608SW",5,"",""
-"7608SW",1,"",""
-"7608SW",1,"",""
-"7608SW",3,"",""
-"7608SW",2,"",""
-"7608SW",10,"",""
-"7608SW",8,"",""
-"7608SW",9,"",""
-"7608SW",4,"",""
-"7608SW",7,"",""
-"7608SX",1,"",""
-"7608SX",3,"",""
-"7608SX",7,"",""
-"7608SX",3,"",""
-"7608SX",3,"",""
-"7608SX",8,"",""
-"7608SX",5,"",""
-"7608SZ",1,"",""
-"7608SZ",7,"",""
-"7608SZ",1,"",""
-"7608SZ",3,"",""
-"7608SZ",5,"",""
-"7608SZ",1,"",""
-7603PA,Mooie Vrouwenweg,11,,
-7603PA,Mooie Vrouwenweg,13,,
-7603PA,Mooie Vrouwenweg,15,,
-7603PA,Mooie Vrouwenweg,17,,
-7603PA,Mooie Vrouwenweg,19,,
-7603PA,Mooie Vrouwenweg,21,,
-7603PA,Mooie Vrouwenweg,23,,
-7603PA,Mooie Vrouwenweg,25,,
-7603PA,Mooie Vrouwenweg,27,,
-7603PA,Mooie Vrouwenweg,29,,
-7603PA,Mooie Vrouwenweg,3,,
-7603PA,Mooie Vrouwenweg,33,,
-7603PA,Mooie Vrouwenweg,43,,
-7603PA,Mooie Vrouwenweg,5,,
-7603PA,Mooie Vrouwenweg,7,,
-7603PA,Mooie Vrouwenweg,9,,
-7603PB,Mooie Vrouwenweg,10,,
-7603PB,Mooie Vrouwenweg,12,,
-7603PB,Mooie Vrouwenweg,14,,
-7603PB,Mooie Vrouwenweg,16,,
-7603PB,Mooie Vrouwenweg,18,,
-7603PB,Mooie Vrouwenweg,20,,
-7603PB,Mooie Vrouwenweg,20,a,
-7603PB,Mooie Vrouwenweg,22,,
-7603PB,Mooie Vrouwenweg,24,,
-7603PB,Mooie Vrouwenweg,24,a,
-7603PB,Mooie Vrouwenweg,28,,
-7603PB,Mooie Vrouwenweg,30,,
-7603PB,Mooie Vrouwenweg,34,,
-7603PB,Mooie Vrouwenweg,4,,
-7603PB,Mooie Vrouwenweg,6,,
-7603PB,Mooie Vrouwenweg,8,,
-7603NN,Ootmarsumsestraat,470,,
-7603NN,Ootmarsumsestraat,472,,
-7603NN,Ootmarsumsestraat,474,,
-7603NN,Ootmarsumsestraat,474,a,
-7603NN,Ootmarsumsestraat,476,,
-7603NN,Ootmarsumsestraat,476,a,
-7603NN,Ootmarsumsestraat,478,,
-7603NN,Ootmarsumsestraat,480,,
-7603NN,Ootmarsumsestraat,482,,
-7603NN,Ootmarsumsestraat,484,,
-7603NN,Ootmarsumsestraat,486,,
-7603NN,Ootmarsumsestraat,486,a,
-7603NN,Ootmarsumsestraat,486,b,
-7603NN,Ootmarsumsestraat,486,c,
-7603NN,Ootmarsumsestraat,492,,
-7603NN,Ootmarsumsestraat,494,,
-7603NN,Ootmarsumsestraat,494,a,
-7603NN,Ootmarsumsestraat,496,,
-7603NV,Tubbergerweg,10,,
-7603NV,Tubbergerweg,12,,
-7603NV,Tubbergerweg,18,,
-7603NV,Tubbergerweg,2,,
-7603NV,Tubbergerweg,20,,
-7603NV,Tubbergerweg,22,,
-7603NV,Tubbergerweg,26,,
-7603NV,Tubbergerweg,30,,
-7603NV,Tubbergerweg,32,,
-7603NV,Tubbergerweg,4,,
-7603NV,Tubbergerweg,6,,
-7603NV,Tubbergerweg,8,,
-7603MB,Van der Kunlaan,1,,
-7603MB,Van der Kunlaan,4,,
-7608SC,Buys Ballotlaan,6,,
-7608SC,Buys Ballotlaan,8,,
-7608SC,Buys Ballotlaan,1,,
-7608RA,Demmersdwarsweg,1,,
-7608RA,Demmersdwarsweg,2,,
-7608RB,Demmersweg,1,,
-7608RB,Demmersweg,12,,
-7608RB,Demmersweg,12,,
-7608RB,Demmersweg,14,,
-7608RB,Demmersweg,16,,
-7608RB,Demmersweg,1,a,
-7608RB,Demmersweg,22,,
-7608RB,Demmersweg,24,,
-7608RB,Demmersweg,26,,
-7608RB,Demmersweg,28,,
-7608RB,Demmersweg,3,,
-7608RB,Demmersweg,30,,
-7608RB,Demmersweg,3,a,
-7608RB,Demmersweg,4,,
-7608RB,Demmersweg,5,,
-7608RB,Demmersweg,6,,
-7608SX,Friedhofflaan,5,,
-7608SX,Friedhofflaan,8,,
-7608RC,Mooie Vrouwenweg,36,,
-7608RC,Mooie Vrouwenweg,38,,
-7608RC,Mooie Vrouwenweg,40,,
-7608RC,Mooie Vrouwenweg,42,,
-7608RC,Mooie Vrouwenweg,45,,
-7608RC,Mooie Vrouwenweg,47,b,
-7608RC,Mooie Vrouwenweg,49,,
-7608RC,Mooie Vrouwenweg,51,,
-7608RC,Mooie Vrouwenweg,69,,
-7608SZ,Vegterlaan,3,,
-7608SZ,Vegterlaan,5,,
-7603MC,Bakhuijs Roozeboomlaan,36,,
-7603MC,Bakhuijs Roozeboomlaan,38,,
-7603MC,Bakhuijs Roozeboomlaan,40,,
-7603MC,Bakhuijs Roozeboomlaan,42,,
-7603MC,Bakhuijs Roozeboomlaan,44,,
-7603MC,Bakhuijs Roozeboomlaan,46,,
-7603MC,Bakhuijs Roozeboomlaan,16,,
-7603MC,Bakhuijs Roozeboomlaan,18,,
-7603MC,Bakhuijs Roozeboomlaan,20,,
-7603MC,Bakhuijs Roozeboomlaan,22,,
-7603MC,Bakhuijs Roozeboomlaan,24,,
-7603MC,Bakhuijs Roozeboomlaan,26,,
-7603MC,Bakhuijs Roozeboomlaan,28,,
-7603MC,Bakhuijs Roozeboomlaan,30,,
-7603MC,Bakhuijs Roozeboomlaan,32,,
-7603MC,Bakhuijs Roozeboomlaan,34,,
-7603MC,Bakhuijs Roozeboomlaan,2,,
-7603MC,Bakhuijs Roozeboomlaan,2,a,
-7603MC,Bakhuijs Roozeboomlaan,8,,
-7603MC,Bakhuijs Roozeboomlaan,8,a,
-7603MC,Bakhuijs Roozeboomlaan,10,,
-7603MC,Bakhuijs Roozeboomlaan,10,a,
-7603MC,Bakhuijs Roozeboomlaan,6,,
-7603MC,Bakhuijs Roozeboomlaan,6,a,
-7603MC,Bakhuijs Roozeboomlaan,12,,
-7603MC,Bakhuijs Roozeboomlaan,12,a,
-7603MC,Bakhuijs Roozeboomlaan,4,,
-7603MC,Bakhuijs Roozeboomlaan,4,a,
-7603MC,Bakhuijs Roozeboomlaan,2,,
-7603MC,Bakhuijs Roozeboomlaan,2,a,
-7603MC,Bakhuijs Roozeboomlaan,10,,
-7603MC,Bakhuijs Roozeboomlaan,10,a,
-7608RB,Demmersweg,24,,
-7608RB,Demmersweg,3,,
-7608SG,Eschauzierlaan,7,,
-7608SG,Eschauzierlaan,10,,
-7608SG,Eschauzierlaan,12,,
-7608SG,Eschauzierlaan,8,,
-7608SG,Eschauzierlaan,9,,
-7608SG,Eschauzierlaan,4,,
-7608SG,Eschauzierlaan,6,,
-7603PA,Mooie Vrouwenweg,41,,
-7603PA,Mooie Vrouwenweg,41,,
-7608RC,Mooie Vrouwenweg,67,,
-7608RC,Mooie Vrouwenweg,40,a,
-7608RC,Mooie Vrouwenweg,53,,
-7608SV,Sevenhuijsenlaan,7,,
-7608SK,Vredeman de Vrieslaan,15,,
-7608SK,Vredeman de Vrieslaan,17,,
-7608SK,Vredeman de Vrieslaan,17,,
-7608SL,Vredeman de Vrieslaan,64,,
-7608SC,Buys Ballotlaan,2,,
-7608SC,Buys Ballotlaan,13,,
-7608SC,Buys Ballotlaan,9,,
-7608SC,Buys Ballotlaan,15,,
-7608SC,Buys Ballotlaan,14,,
-7608SC,Buys Ballotlaan,10,,
-7608SC,Buys Ballotlaan,4,,
-7608SC,Buys Ballotlaan,11,,
-7608SC,Buys Ballotlaan,19,,
-7608SC,Buys Ballotlaan,5,,
-7608SC,Buys Ballotlaan,17,,
-7608SC,Buys Ballotlaan,17,,
-7608SC,Buys Ballotlaan,7,,
-7608SC,Buys Ballotlaan,12,,
-7608SC,Buys Ballotlaan,3,,
-7608SP,Calandlaan,5,,
-7608SP,Calandlaan,8,,
-7608SP,Calandlaan,8,,
-7608SP,Calandlaan,6,,
-7608SP,Calandlaan,6,,
-7608SP,Calandlaan,21,,
-7608SP,Calandlaan,10,,
-7608SP,Calandlaan,12,,
-7608SP,Calandlaan,23,,
-7608SP,Calandlaan,19,,
-7608SP,Calandlaan,19,,
-7608SP,Calandlaan,17,,
-7608SP,Calandlaan,3,,
-7608SP,Calandlaan,4,,
-7608SP,Calandlaan,23,,
-7608SP,Calandlaan,16,,
-7608SP,Calandlaan,22,,
-7608SP,Calandlaan,18,,
-7608SP,Calandlaan,7,,
-7608SP,Calandlaan,20,,
-7608SP,Calandlaan,20,,
-7608SP,Calandlaan,2,,
-7608SP,Calandlaan,16,,
-7608RB,Demmersweg,5,,
-7608RB,Demmersweg,18,,
-7608RB,Demmersweg,2,c,
-7608RB,Demmersweg,4,a,
-7608RB,Demmersweg,8,,
-7608RB,Demmersweg,8,a,
-7608RB,Demmersweg,8,a,
-7608RB,Demmersweg,2,b,
-7608SN,Deymanlaan,6,,
-7608SN,Deymanlaan,5,,
-7608SN,Deymanlaan,4,,
-7608SN,Deymanlaan,7,,
-7608SN,Deymanlaan,7,,
-7608SN,Deymanlaan,3,,
-7608SN,Deymanlaan,9,,
-7608SN,Deymanlaan,2,,
-7608SW,Drebbellaan,10,,
-7608SW,Drebbellaan,3,,
-7608SW,Drebbellaan,7,,
-7608SW,Drebbellaan,9,,
-7608SW,Drebbellaan,1,,
-7608SW,Drebbellaan,1,,
-7608SW,Drebbellaan,4,,
-7608SW,Drebbellaan,8,,
-7608SW,Drebbellaan,2,,
-7608SW,Drebbellaan,5,,
-7608SW,Drebbellaan,6,,
-7608SB,Eisingalaan,25,,
-7608SB,Eisingalaan,21,,
-7608SB,Eisingalaan,37,,
-7608SB,Eisingalaan,13,,
-7608SB,Eisingalaan,11,,
-7608SB,Eisingalaan,5,,
-7608SB,Eisingalaan,29,,
-7608SB,Eisingalaan,15,,
-7608SB,Eisingalaan,29,,
-7608SB,Eisingalaan,5,,
-7608SB,Eisingalaan,35,,
-7608SB,Eisingalaan,1,,
-7608SB,Eisingalaan,31,,
-7608SB,Eisingalaan,27,,
-7608SB,Eisingalaan,33,,
-7608SB,Eisingalaan,3,,
-7608SG,Eschauzierlaan,2,,
-7608SG,Eschauzierlaan,3,,
-7608SG,Eschauzierlaan,5,,
-7608SX,Friedhofflaan,1,,
-7608SX,Friedhofflaan,7,,
-7608SX,Friedhofflaan,3,,
-7608SX,Friedhofflaan,3,,
-7603PC,Ingenhouszlaan,22,,
-7603PC,Ingenhouszlaan,20,,
-7603PC,Ingenhouszlaan,10,,
-7603PC,Ingenhouszlaan,16,,
-7603PC,Ingenhouszlaan,15,,
-7603PC,Ingenhouszlaan,15,,
-7603PC,Ingenhouszlaan,9,,
-7603PC,Ingenhouszlaan,34,,
-7603PC,Ingenhouszlaan,7,,
-7603PC,Ingenhouszlaan,13,,
-7603PC,Ingenhouszlaan,28,,
-7603PC,Ingenhouszlaan,26,,
-7603PC,Ingenhouszlaan,18,,
-7603PC,Ingenhouszlaan,12,,
-7603PC,Ingenhouszlaan,32,,
-7603PC,Ingenhouszlaan,14,,
-7603PC,Ingenhouszlaan,5,,
-7603PC,Ingenhouszlaan,11,,
-7603PC,Ingenhouszlaan,11,,
-7603PC,Ingenhouszlaan,30,,
-7603PC,Ingenhouszlaan,8,,
-7603PC,Ingenhouszlaan,24,,
-7603PC,Ingenhouszlaan,6,,
-7603PC,Ingenhouszlaan,3,,
-7608SE,Leeghwaterlaan,4,,
-7608SE,Leeghwaterlaan,6,,
-7608SE,Leeghwaterlaan,14,,
-7608SE,Leeghwaterlaan,5,,
-7608SE,Leeghwaterlaan,7,,
-7608SE,Leeghwaterlaan,1,,
-7608SE,Leeghwaterlaan,3,,
-7608SE,Leeghwaterlaan,9,,
-7608SE,Leeghwaterlaan,8,,
-7608SE,Leeghwaterlaan,10,,
-7608SE,Leeghwaterlaan,12,,
-7608SE,Leeghwaterlaan,2,,
-7608SE,Leeghwaterlaan,11,,
-7608SE,Leeghwaterlaan,11,,
-7608SJ,Minckelerslaan,2,,
-7608SJ,Minckelerslaan,10,,
-7608SJ,Minckelerslaan,6,,
-7608SJ,Minckelerslaan,8,,
-7608SJ,Minckelerslaan,4,,
-7608SJ,Minckelerslaan,1,,
-7608SJ,Minckelerslaan,5,,
-7608SJ,Minckelerslaan,3,,
-7608SJ,Minckelerslaan,3,,
-7603PB,Mooie Vrouwenweg,32,,
-7603PB,Mooie Vrouwenweg,32,a,
-7603PB,Mooie Vrouwenweg,34,,
-7608RC,Mooie Vrouwenweg,65,,
-7608RC,Mooie Vrouwenweg,59,,
-7608RC,Mooie Vrouwenweg,57,,
-7608RC,Mooie Vrouwenweg,61,,
-7608RC,Mooie Vrouwenweg,57,,
-7608RC,Mooie Vrouwenweg,36,b,
-7608RC,Mooie Vrouwenweg,36,,d
-7608RC,Mooie Vrouwenweg,36,d,
-7608RC,Mooie Vrouwenweg,63,,
-7608RC,Mooie Vrouwenweg,36,c,
-7608SV,Sevenhuijsenlaan,5,,
-7608SV,Sevenhuijsenlaan,9,,
-7608SV,Sevenhuijsenlaan,9,,
-7608SH,Van der Pollaan,2,,
-7608SH,Van der Pollaan,4,,
-7608SH,Van der Pollaan,8,,
-7608SH,Van der Pollaan,6,,
-7608SH,Van der Pollaan,10,,
-7608SH,Van der Pollaan,1,,
-7608SH,Van der Pollaan,3,,
-7608SH,Van der Pollaan,12,,
-7608SH,Van der Pollaan,5,,
-7608ST,Van Eesterenlaan,2,,
-7608ST,Van Eesterenlaan,2,,
-7608ST,Van Eesterenlaan,4,,
-7608ST,Van Eesterenlaan,6,,
-7608ST,Van Eesterenlaan,8,,
-7608ST,Van Eesterenlaan,12,,
-7608ST,Van Eesterenlaan,6,,
-7608ST,Van Eesterenlaan,10,,
-7608SR,Van Musschenbroeklaan,3,,
-7608SR,Van Musschenbroeklaan,14,,
-7608SR,Van Musschenbroeklaan,4,,
-7608SR,Van Musschenbroeklaan,4,,
-7608SR,Van Musschenbroeklaan,6,,
-7608SR,Van Musschenbroeklaan,6,,
-7608SR,Van Musschenbroeklaan,18,,
-7608SR,Van Musschenbroeklaan,20,,
-7608SR,Van Musschenbroeklaan,12,,
-7608SR,Van Musschenbroeklaan,3,,
-7608SR,Van Musschenbroeklaan,19,,
-7608SR,Van Musschenbroeklaan,8,,
-7608SR,Van Musschenbroeklaan,19,,
-7608SR,Van Musschenbroeklaan,17,,
-7608SR,Van Musschenbroeklaan,9,,
-7608SR,Van Musschenbroeklaan,15,,
-7608SR,Van Musschenbroeklaan,16,,
-7608SR,Van Musschenbroeklaan,5,,
-7608SR,Van Musschenbroeklaan,23,,
-7608SR,Van Musschenbroeklaan,13,,
-7608SR,Van Musschenbroeklaan,28,,
-7608SR,Van Musschenbroeklaan,29,,
-7608SR,Van Musschenbroeklaan,2,,
-7608SR,Van Musschenbroeklaan,25,,
-7608SM,Van Ravesteynlaan,5,,
-7608SM,Van Ravesteynlaan,208,,
-7608SM,Van Ravesteynlaan,2,,
-7608SM,Van Ravesteynlaan,2,,
-7608SZ,Vegterlaan,7,,
-7608SZ,Vegterlaan,1,,
-7608SZ,Vegterlaan,1,,
-7608SK,Vredeman de Vrieslaan,19,,
-7608SK,Vredeman de Vrieslaan,7,,
-7608SK,Vredeman de Vrieslaan,13,,
-7608SK,Vredeman de Vrieslaan,11,,
-7608SK,Vredeman de Vrieslaan,9,,
-7608SK,Vredeman de Vrieslaan,5,,
-7608SK,Vredeman de Vrieslaan,5,,
-7608SK,Vredeman de Vrieslaan,5,,
-7608SK,Vredeman de Vrieslaan,31,,
-7608SK,Vredeman de Vrieslaan,25,,
-7608SL,Vredeman de Vrieslaan,16,,
-7608SL,Vredeman de Vrieslaan,26,,
-7608SL,Vredeman de Vrieslaan,14,,
-7608SL,Vredeman de Vrieslaan,22,,
-7608SL,Vredeman de Vrieslaan,28,,
-7608SL,Vredeman de Vrieslaan,18,,
-7608SL,Vredeman de Vrieslaan,18,a,
-7608SL,Vredeman de Vrieslaan,24,,
-7608SL,Vredeman de Vrieslaan,6,,
-7608SL,Vredeman de Vrieslaan,10,,
-7608SL,Vredeman de Vrieslaan,82,,
-7608SL,Vredeman de Vrieslaan,54,,
-7608SL,Vredeman de Vrieslaan,44,,
-7608SL,Vredeman de Vrieslaan,8,,
-7608SL,Vredeman de Vrieslaan,78,,
-7608SL,Vredeman de Vrieslaan,12,,
-7608SL,Vredeman de Vrieslaan,42,,
-7608SL,Vredeman de Vrieslaan,46,,
-7608SL,Vredeman de Vrieslaan,52,,
-7608SL,Vredeman de Vrieslaan,48,,
-7608SL,Vredeman de Vrieslaan,42,,
-7608SL,Vredeman de Vrieslaan,76,,
-7608SL,Vredeman de Vrieslaan,76,,
-7608SL,Vredeman de Vrieslaan,84,,
-7608SL,Vredeman de Vrieslaan,84,,
-7608SL,Vredeman de Vrieslaan,68,,
-7608SL,Vredeman de Vrieslaan,68,,
-7608SL,Vredeman de Vrieslaan,74,,
-7608SL,Vredeman de Vrieslaan,74,,
-7608SL,Vredeman de Vrieslaan,2,,
-7608SL,Vredeman de Vrieslaan,88,,
-7608SL,Vredeman de Vrieslaan,50,,
-7608SL,Vredeman de Vrieslaan,40,,
-7608SL,Vredeman de Vrieslaan,72,,
-7608SL,Vredeman de Vrieslaan,86,,
-7608SL,Vredeman de Vrieslaan,70,,
-7608SL,Vredeman de Vrieslaan,70,,
-7608SL,Vredeman de Vrieslaan,4,,
-7608SL,Vredeman de Vrieslaan,20,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Van der Kunlaan,1,"","",7603MB,Almelo
+Van der Kunlaan,4,"","",7603MB,Almelo
+Bakhuijs Roozeboomlaan,10,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,10,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,10,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,10,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,10,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,10,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,12,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,12,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,16,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,18,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,2,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,2,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,2,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,2,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,2,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,2,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,20,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,22,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,24,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,26,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,28,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,30,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,32,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,34,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,36,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,38,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,4,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,4,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,40,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,42,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,44,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,46,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,6,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,6,A,"",7603MC,Almelo
+Bakhuijs Roozeboomlaan,8,"","",7603MC,Almelo
+Bakhuijs Roozeboomlaan,8,A,"",7603MC,Almelo
+Ootmarsumsestraat,470,"","",7603NN,Almelo
+Ootmarsumsestraat,472,"","",7603NN,Almelo
+Ootmarsumsestraat,474,"","",7603NN,Almelo
+Ootmarsumsestraat,474,A,"",7603NN,Almelo
+Ootmarsumsestraat,476,"","",7603NN,Almelo
+Ootmarsumsestraat,476,A,"",7603NN,Almelo
+Ootmarsumsestraat,478,"","",7603NN,Almelo
+Ootmarsumsestraat,480,"","",7603NN,Almelo
+Ootmarsumsestraat,482,"","",7603NN,Almelo
+Ootmarsumsestraat,484,"","",7603NN,Almelo
+Ootmarsumsestraat,486,"","",7603NN,Almelo
+Ootmarsumsestraat,486,A,"",7603NN,Almelo
+Ootmarsumsestraat,486,B,"",7603NN,Almelo
+Ootmarsumsestraat,486,C,"",7603NN,Almelo
+Ootmarsumsestraat,492,"","",7603NN,Almelo
+Ootmarsumsestraat,494,"","",7603NN,Almelo
+Ootmarsumsestraat,494,A,"",7603NN,Almelo
+Ootmarsumsestraat,496,"","",7603NN,Almelo
+Tubbergerweg,10,"","",7603NV,Almelo
+Tubbergerweg,12,"","",7603NV,Almelo
+Tubbergerweg,18,"","",7603NV,Almelo
+Tubbergerweg,2,"","",7603NV,Almelo
+Tubbergerweg,20,"","",7603NV,Almelo
+Tubbergerweg,22,"","",7603NV,Almelo
+Tubbergerweg,26,"","",7603NV,Almelo
+Tubbergerweg,30,"","",7603NV,Almelo
+Tubbergerweg,32,"","",7603NV,Almelo
+Tubbergerweg,4,"","",7603NV,Almelo
+Tubbergerweg,6,"","",7603NV,Almelo
+Tubbergerweg,8,"","",7603NV,Almelo
+Mooie Vrouwenweg,11,"","",7603PA,Almelo
+Mooie Vrouwenweg,13,"","",7603PA,Almelo
+Mooie Vrouwenweg,15,"","",7603PA,Almelo
+Mooie Vrouwenweg,17,"","",7603PA,Almelo
+Mooie Vrouwenweg,19,"","",7603PA,Almelo
+Mooie Vrouwenweg,21,"","",7603PA,Almelo
+Mooie Vrouwenweg,23,"","",7603PA,Almelo
+Mooie Vrouwenweg,25,"","",7603PA,Almelo
+Mooie Vrouwenweg,27,"","",7603PA,Almelo
+Mooie Vrouwenweg,29,"","",7603PA,Almelo
+Mooie Vrouwenweg,3,"","",7603PA,Almelo
+Mooie Vrouwenweg,33,"","",7603PA,Almelo
+Mooie Vrouwenweg,41,"","",7603PA,Almelo
+Mooie Vrouwenweg,41,"","",7603PA,Almelo
+Mooie Vrouwenweg,43,"","",7603PA,Almelo
+Mooie Vrouwenweg,5,"","",7603PA,Almelo
+Mooie Vrouwenweg,7,"","",7603PA,Almelo
+Mooie Vrouwenweg,9,"","",7603PA,Almelo
+Mooie Vrouwenweg,10,"","",7603PB,Almelo
+Mooie Vrouwenweg,12,"","",7603PB,Almelo
+Mooie Vrouwenweg,14,"","",7603PB,Almelo
+Mooie Vrouwenweg,16,"","",7603PB,Almelo
+Mooie Vrouwenweg,18,"","",7603PB,Almelo
+Mooie Vrouwenweg,20,"","",7603PB,Almelo
+Mooie Vrouwenweg,20,A,"",7603PB,Almelo
+Mooie Vrouwenweg,22,"","",7603PB,Almelo
+Mooie Vrouwenweg,24,"","",7603PB,Almelo
+Mooie Vrouwenweg,24,A,"",7603PB,Almelo
+Mooie Vrouwenweg,28,"","",7603PB,Almelo
+Mooie Vrouwenweg,30,"","",7603PB,Almelo
+Mooie Vrouwenweg,32,"","",7603PB,Almelo
+Mooie Vrouwenweg,32,A,"",7603PB,Almelo
+Mooie Vrouwenweg,34,"","",7603PB,Almelo
+Mooie Vrouwenweg,34,"","",7603PB,Almelo
+Mooie Vrouwenweg,4,"","",7603PB,Almelo
+Mooie Vrouwenweg,6,"","",7603PB,Almelo
+Mooie Vrouwenweg,8,"","",7603PB,Almelo
+Ingenhouszlaan,10,"","",7603PC,Almelo
+Ingenhouszlaan,11,"","",7603PC,Almelo
+Ingenhouszlaan,11,"","",7603PC,Almelo
+Ingenhouszlaan,11,"","",7603PC,Almelo
+Ingenhouszlaan,12,"","",7603PC,Almelo
+Ingenhouszlaan,13,"","",7603PC,Almelo
+Ingenhouszlaan,14,"","",7603PC,Almelo
+Ingenhouszlaan,15,"","",7603PC,Almelo
+Ingenhouszlaan,15,"","",7603PC,Almelo
+Ingenhouszlaan,15,"","",7603PC,Almelo
+Ingenhouszlaan,16,"","",7603PC,Almelo
+Ingenhouszlaan,18,"","",7603PC,Almelo
+Ingenhouszlaan,20,"","",7603PC,Almelo
+Ingenhouszlaan,22,"","",7603PC,Almelo
+Ingenhouszlaan,24,"","",7603PC,Almelo
+Ingenhouszlaan,26,"","",7603PC,Almelo
+Ingenhouszlaan,28,"","",7603PC,Almelo
+Ingenhouszlaan,3,"","",7603PC,Almelo
+Ingenhouszlaan,30,"","",7603PC,Almelo
+Ingenhouszlaan,32,"","",7603PC,Almelo
+Ingenhouszlaan,34,"","",7603PC,Almelo
+Ingenhouszlaan,5,"","",7603PC,Almelo
+Ingenhouszlaan,6,"","",7603PC,Almelo
+Ingenhouszlaan,7,"","",7603PC,Almelo
+Ingenhouszlaan,8,"","",7603PC,Almelo
+Ingenhouszlaan,9,"","",7603PC,Almelo
+Demmersdwarsweg,1,"","",7608RA,Almelo
+Demmersdwarsweg,2,"","",7608RA,Almelo
+Demmersweg,1,"","",7608RB,Almelo
+Demmersweg,1,A,"",7608RB,Almelo
+Demmersweg,12,"","",7608RB,Almelo
+Demmersweg,12,"","",7608RB,Almelo
+Demmersweg,12,"","",7608RB,Almelo
+Demmersweg,14,"","",7608RB,Almelo
+Demmersweg,16,"","",7608RB,Almelo
+Demmersweg,18,"","",7608RB,Almelo
+Demmersweg,2,B,"",7608RB,Almelo
+Demmersweg,2,C,"",7608RB,Almelo
+Demmersweg,22,"","",7608RB,Almelo
+Demmersweg,22,"","",7608RB,Almelo
+Demmersweg,24,"","",7608RB,Almelo
+Demmersweg,24,"","",7608RB,Almelo
+Demmersweg,24,"","",7608RB,Almelo
+Demmersweg,26,"","",7608RB,Almelo
+Demmersweg,28,"","",7608RB,Almelo
+Demmersweg,3,"","",7608RB,Almelo
+Demmersweg,3,"","",7608RB,Almelo
+Demmersweg,3,"","",7608RB,Almelo
+Demmersweg,3,A,"",7608RB,Almelo
+Demmersweg,30,"","",7608RB,Almelo
+Demmersweg,4,"","",7608RB,Almelo
+Demmersweg,4,A,"",7608RB,Almelo
+Demmersweg,5,"","",7608RB,Almelo
+Demmersweg,5,"","",7608RB,Almelo
+Demmersweg,5,"","",7608RB,Almelo
+Demmersweg,6,"","",7608RB,Almelo
+Demmersweg,8,"","",7608RB,Almelo
+Demmersweg,8,A,"",7608RB,Almelo
+Demmersweg,8,A,"",7608RB,Almelo
+Demmersweg,8,A,"",7608RB,Almelo
+Mooie Vrouwenweg,36,"","",7608RC,Almelo
+Mooie Vrouwenweg,36,"",D,7608RC,Almelo
+Mooie Vrouwenweg,36,B,"",7608RC,Almelo
+Mooie Vrouwenweg,36,D,"",7608RC,Almelo
+Mooie Vrouwenweg,38,"","",7608RC,Almelo
+Mooie Vrouwenweg,40,"","",7608RC,Almelo
+Mooie Vrouwenweg,40,A,"",7608RC,Almelo
+Mooie Vrouwenweg,42,"","",7608RC,Almelo
+Mooie Vrouwenweg,45,"","",7608RC,Almelo
+Mooie Vrouwenweg,47,B,"",7608RC,Almelo
+Mooie Vrouwenweg,49,"","",7608RC,Almelo
+Mooie Vrouwenweg,51,"","",7608RC,Almelo
+Mooie Vrouwenweg,53,"","",7608RC,Almelo
+Mooie Vrouwenweg,57,"","",7608RC,Almelo
+Mooie Vrouwenweg,57,"","",7608RC,Almelo
+Mooie Vrouwenweg,57,"","",7608RC,Almelo
+Mooie Vrouwenweg,59,"","",7608RC,Almelo
+Mooie Vrouwenweg,61,"","",7608RC,Almelo
+Mooie Vrouwenweg,63,"","",7608RC,Almelo
+Mooie Vrouwenweg,65,"","",7608RC,Almelo
+Mooie Vrouwenweg,67,"","",7608RC,Almelo
+Mooie Vrouwenweg,69,"","",7608RC,Almelo
+Eisingalaan,1,"","",7608SB,Almelo
+Eisingalaan,11,"","",7608SB,Almelo
+Eisingalaan,13,"","",7608SB,Almelo
+Eisingalaan,15,"","",7608SB,Almelo
+Eisingalaan,21,"","",7608SB,Almelo
+Eisingalaan,25,"","",7608SB,Almelo
+Eisingalaan,27,"","",7608SB,Almelo
+Eisingalaan,29,"","",7608SB,Almelo
+Eisingalaan,29,"","",7608SB,Almelo
+Eisingalaan,29,"","",7608SB,Almelo
+Eisingalaan,3,"","",7608SB,Almelo
+Eisingalaan,31,"","",7608SB,Almelo
+Eisingalaan,33,"","",7608SB,Almelo
+Eisingalaan,35,"","",7608SB,Almelo
+Eisingalaan,37,"","",7608SB,Almelo
+Eisingalaan,5,"","",7608SB,Almelo
+Eisingalaan,5,"","",7608SB,Almelo
+Eisingalaan,5,"","",7608SB,Almelo
+Buys Ballotlaan,1,"","",7608SC,Almelo
+Buys Ballotlaan,10,"","",7608SC,Almelo
+Buys Ballotlaan,11,"","",7608SC,Almelo
+Buys Ballotlaan,12,"","",7608SC,Almelo
+Buys Ballotlaan,13,"","",7608SC,Almelo
+Buys Ballotlaan,14,"","",7608SC,Almelo
+Buys Ballotlaan,15,"","",7608SC,Almelo
+Buys Ballotlaan,17,"","",7608SC,Almelo
+Buys Ballotlaan,17,"","",7608SC,Almelo
+Buys Ballotlaan,19,"","",7608SC,Almelo
+Buys Ballotlaan,2,"","",7608SC,Almelo
+Buys Ballotlaan,3,"","",7608SC,Almelo
+Buys Ballotlaan,4,"","",7608SC,Almelo
+Buys Ballotlaan,5,"","",7608SC,Almelo
+Buys Ballotlaan,6,"","",7608SC,Almelo
+Buys Ballotlaan,7,"","",7608SC,Almelo
+Buys Ballotlaan,8,"","",7608SC,Almelo
+Buys Ballotlaan,9,"","",7608SC,Almelo
+Leeghwaterlaan,1,"","",7608SE,Almelo
+Leeghwaterlaan,10,"","",7608SE,Almelo
+Leeghwaterlaan,11,"","",7608SE,Almelo
+Leeghwaterlaan,11,"","",7608SE,Almelo
+Leeghwaterlaan,11,"","",7608SE,Almelo
+Leeghwaterlaan,12,"","",7608SE,Almelo
+Leeghwaterlaan,14,"","",7608SE,Almelo
+Leeghwaterlaan,2,"","",7608SE,Almelo
+Leeghwaterlaan,3,"","",7608SE,Almelo
+Leeghwaterlaan,4,"","",7608SE,Almelo
+Leeghwaterlaan,5,"","",7608SE,Almelo
+Leeghwaterlaan,6,"","",7608SE,Almelo
+Leeghwaterlaan,7,"","",7608SE,Almelo
+Leeghwaterlaan,8,"","",7608SE,Almelo
+Leeghwaterlaan,9,"","",7608SE,Almelo
+Eschauzierlaan,10,"","",7608SG,Almelo
+Eschauzierlaan,12,"","",7608SG,Almelo
+Eschauzierlaan,2,"","",7608SG,Almelo
+Eschauzierlaan,3,"","",7608SG,Almelo
+Eschauzierlaan,4,"","",7608SG,Almelo
+Eschauzierlaan,5,"","",7608SG,Almelo
+Eschauzierlaan,6,"","",7608SG,Almelo
+Eschauzierlaan,7,"","",7608SG,Almelo
+Eschauzierlaan,8,"","",7608SG,Almelo
+Eschauzierlaan,9,"","",7608SG,Almelo
+Van der Pollaan,1,"","",7608SH,Almelo
+Van der Pollaan,10,"","",7608SH,Almelo
+Van der Pollaan,12,"","",7608SH,Almelo
+Van der Pollaan,2,"","",7608SH,Almelo
+Van der Pollaan,3,"","",7608SH,Almelo
+Van der Pollaan,4,"","",7608SH,Almelo
+Van der Pollaan,5,"","",7608SH,Almelo
+Van der Pollaan,6,"","",7608SH,Almelo
+Van der Pollaan,8,"","",7608SH,Almelo
+Minckelerslaan,1,"","",7608SJ,Almelo
+Minckelerslaan,10,"","",7608SJ,Almelo
+Minckelerslaan,2,"","",7608SJ,Almelo
+Minckelerslaan,3,"","",7608SJ,Almelo
+Minckelerslaan,3,"","",7608SJ,Almelo
+Minckelerslaan,3,"","",7608SJ,Almelo
+Minckelerslaan,4,"","",7608SJ,Almelo
+Minckelerslaan,5,"","",7608SJ,Almelo
+Minckelerslaan,6,"","",7608SJ,Almelo
+Minckelerslaan,8,"","",7608SJ,Almelo
+Vredeman de Vrieslaan,11,"","",7608SK,Almelo
+Vredeman de Vrieslaan,13,"","",7608SK,Almelo
+Vredeman de Vrieslaan,15,"","",7608SK,Almelo
+Vredeman de Vrieslaan,17,"","",7608SK,Almelo
+Vredeman de Vrieslaan,17,"","",7608SK,Almelo
+Vredeman de Vrieslaan,19,"","",7608SK,Almelo
+Vredeman de Vrieslaan,31,"","",7608SK,Almelo
+Vredeman de Vrieslaan,5,"","",7608SK,Almelo
+Vredeman de Vrieslaan,5,"","",7608SK,Almelo
+Vredeman de Vrieslaan,5,"","",7608SK,Almelo
+Vredeman de Vrieslaan,5,"","",7608SK,Almelo
+Vredeman de Vrieslaan,7,"","",7608SK,Almelo
+Vredeman de Vrieslaan,9,"","",7608SK,Almelo
+Vredeman de Vrieslaan,10,"","",7608SL,Almelo
+Vredeman de Vrieslaan,12,"","",7608SL,Almelo
+Vredeman de Vrieslaan,14,"","",7608SL,Almelo
+Vredeman de Vrieslaan,16,"","",7608SL,Almelo
+Vredeman de Vrieslaan,18,"","",7608SL,Almelo
+Vredeman de Vrieslaan,18,A,"",7608SL,Almelo
+Vredeman de Vrieslaan,2,"","",7608SL,Almelo
+Vredeman de Vrieslaan,22,"","",7608SL,Almelo
+Vredeman de Vrieslaan,24,"","",7608SL,Almelo
+Vredeman de Vrieslaan,26,"","",7608SL,Almelo
+Vredeman de Vrieslaan,28,"","",7608SL,Almelo
+Vredeman de Vrieslaan,40,"","",7608SL,Almelo
+Vredeman de Vrieslaan,42,"","",7608SL,Almelo
+Vredeman de Vrieslaan,42,"","",7608SL,Almelo
+Vredeman de Vrieslaan,42,"","",7608SL,Almelo
+Vredeman de Vrieslaan,44,"","",7608SL,Almelo
+Vredeman de Vrieslaan,46,"","",7608SL,Almelo
+Vredeman de Vrieslaan,48,"","",7608SL,Almelo
+Vredeman de Vrieslaan,50,"","",7608SL,Almelo
+Vredeman de Vrieslaan,52,"","",7608SL,Almelo
+Vredeman de Vrieslaan,54,"","",7608SL,Almelo
+Vredeman de Vrieslaan,6,"","",7608SL,Almelo
+Vredeman de Vrieslaan,64,"","",7608SL,Almelo
+Vredeman de Vrieslaan,68,"","",7608SL,Almelo
+Vredeman de Vrieslaan,68,"","",7608SL,Almelo
+Vredeman de Vrieslaan,68,"","",7608SL,Almelo
+Vredeman de Vrieslaan,70,"","",7608SL,Almelo
+Vredeman de Vrieslaan,72,"","",7608SL,Almelo
+Vredeman de Vrieslaan,74,"","",7608SL,Almelo
+Vredeman de Vrieslaan,74,"","",7608SL,Almelo
+Vredeman de Vrieslaan,74,"","",7608SL,Almelo
+Vredeman de Vrieslaan,76,"","",7608SL,Almelo
+Vredeman de Vrieslaan,76,"","",7608SL,Almelo
+Vredeman de Vrieslaan,78,"","",7608SL,Almelo
+Vredeman de Vrieslaan,8,"","",7608SL,Almelo
+Vredeman de Vrieslaan,82,"","",7608SL,Almelo
+Vredeman de Vrieslaan,84,"","",7608SL,Almelo
+Vredeman de Vrieslaan,84,"","",7608SL,Almelo
+Vredeman de Vrieslaan,84,"","",7608SL,Almelo
+Vredeman de Vrieslaan,86,"","",7608SL,Almelo
+Vredeman de Vrieslaan,88,"","",7608SL,Almelo
+Van Ravesteynlaan,2,"","",7608SM,Almelo
+Van Ravesteynlaan,2,"","",7608SM,Almelo
+Van Ravesteynlaan,2,"","",7608SM,Almelo
+Van Ravesteynlaan,208,"","",7608SM,Almelo
+Van Ravesteynlaan,5,"","",7608SM,Almelo
+Deymanlaan,3,"","",7608SN,Almelo
+Deymanlaan,4,"","",7608SN,Almelo
+Deymanlaan,5,"","",7608SN,Almelo
+Deymanlaan,6,"","",7608SN,Almelo
+Deymanlaan,7,"","",7608SN,Almelo
+Deymanlaan,7,"","",7608SN,Almelo
+Deymanlaan,7,"","",7608SN,Almelo
+Deymanlaan,9,"","",7608SN,Almelo
+Calandlaan,10,"","",7608SP,Almelo
+Calandlaan,12,"","",7608SP,Almelo
+Calandlaan,16,"","",7608SP,Almelo
+Calandlaan,17,"","",7608SP,Almelo
+Calandlaan,18,"","",7608SP,Almelo
+Calandlaan,19,"","",7608SP,Almelo
+Calandlaan,19,"","",7608SP,Almelo
+Calandlaan,2,"","",7608SP,Almelo
+Calandlaan,20,"","",7608SP,Almelo
+Calandlaan,20,"","",7608SP,Almelo
+Calandlaan,21,"","",7608SP,Almelo
+Calandlaan,22,"","",7608SP,Almelo
+Calandlaan,23,"","",7608SP,Almelo
+Calandlaan,23,"","",7608SP,Almelo
+Calandlaan,23,"","",7608SP,Almelo
+Calandlaan,3,"","",7608SP,Almelo
+Calandlaan,4,"","",7608SP,Almelo
+Calandlaan,5,"","",7608SP,Almelo
+Calandlaan,6,"","",7608SP,Almelo
+Calandlaan,6,"","",7608SP,Almelo
+Calandlaan,6,"","",7608SP,Almelo
+Calandlaan,7,"","",7608SP,Almelo
+Calandlaan,8,"","",7608SP,Almelo
+Calandlaan,8,"","",7608SP,Almelo
+Van Musschenbroeklaan,12,"","",7608SR,Almelo
+Van Musschenbroeklaan,14,"","",7608SR,Almelo
+Van Musschenbroeklaan,15,"","",7608SR,Almelo
+Van Musschenbroeklaan,16,"","",7608SR,Almelo
+Van Musschenbroeklaan,17,"","",7608SR,Almelo
+Van Musschenbroeklaan,18,"","",7608SR,Almelo
+Van Musschenbroeklaan,19,"","",7608SR,Almelo
+Van Musschenbroeklaan,19,"","",7608SR,Almelo
+Van Musschenbroeklaan,19,"","",7608SR,Almelo
+Van Musschenbroeklaan,20,"","",7608SR,Almelo
+Van Musschenbroeklaan,3,"","",7608SR,Almelo
+Van Musschenbroeklaan,3,"","",7608SR,Almelo
+Van Musschenbroeklaan,3,"","",7608SR,Almelo
+Van Musschenbroeklaan,4,"","",7608SR,Almelo
+Van Musschenbroeklaan,4,"","",7608SR,Almelo
+Van Musschenbroeklaan,4,"","",7608SR,Almelo
+Van Musschenbroeklaan,5,"","",7608SR,Almelo
+Van Musschenbroeklaan,6,"","",7608SR,Almelo
+Van Musschenbroeklaan,6,"","",7608SR,Almelo
+Van Musschenbroeklaan,6,"","",7608SR,Almelo
+Van Musschenbroeklaan,8,"","",7608SR,Almelo
+Van Musschenbroeklaan,9,"","",7608SR,Almelo
+Van Eesterenlaan,10,"","",7608ST,Almelo
+Van Eesterenlaan,12,"","",7608ST,Almelo
+Van Eesterenlaan,2,"","",7608ST,Almelo
+Van Eesterenlaan,2,"","",7608ST,Almelo
+Van Eesterenlaan,2,"","",7608ST,Almelo
+Van Eesterenlaan,4,"","",7608ST,Almelo
+Van Eesterenlaan,6,"","",7608ST,Almelo
+Van Eesterenlaan,6,"","",7608ST,Almelo
+Van Eesterenlaan,6,"","",7608ST,Almelo
+Van Eesterenlaan,8,"","",7608ST,Almelo
+Sevenhuijsenlaan,5,"","",7608SV,Almelo
+Sevenhuijsenlaan,7,"","",7608SV,Almelo
+Drebbellaan,1,"","",7608SW,Almelo
+Drebbellaan,1,"","",7608SW,Almelo
+Drebbellaan,10,"","",7608SW,Almelo
+Drebbellaan,2,"","",7608SW,Almelo
+Drebbellaan,3,"","",7608SW,Almelo
+Drebbellaan,4,"","",7608SW,Almelo
+Drebbellaan,5,"","",7608SW,Almelo
+Drebbellaan,7,"","",7608SW,Almelo
+Drebbellaan,8,"","",7608SW,Almelo
+Drebbellaan,9,"","",7608SW,Almelo
+Friedhofflaan,1,"","",7608SX,Almelo
+Friedhofflaan,3,"","",7608SX,Almelo
+Friedhofflaan,3,"","",7608SX,Almelo
+Friedhofflaan,3,"","",7608SX,Almelo
+Friedhofflaan,5,"","",7608SX,Almelo
+Friedhofflaan,7,"","",7608SX,Almelo
+Friedhofflaan,8,"","",7608SX,Almelo
+Vegterlaan,1,"","",7608SZ,Almelo
+Vegterlaan,1,"","",7608SZ,Almelo
+Vegterlaan,1,"","",7608SZ,Almelo
+Vegterlaan,3,"","",7608SZ,Almelo
+Vegterlaan,5,"","",7608SZ,Almelo
+Vegterlaan,7,"","",7608SZ,Almelo

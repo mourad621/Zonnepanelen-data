@@ -1,795 +1,407 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8152AC",1,"",""
-"8152DR",1,"",""
-"8152DR",3,"A",""
-"8152DR",1,"A",""
-"8152DR",5,"",""
-"8152DR",3,"",""
-"8152DR",4,"",""
-"8152DR",2,"",""
-"8152DR",6,"",""
-"8152DW",8,"",""
-"8152DW",6,"",""
-"8152DW",16,"",""
-"8152DW",32,"",""
-"8152DW",1,"C",""
-"8152DW",16,"",""
-"8152DW",34,"",""
-"8152DW",16,"B",""
-"8152DW",1,"",""
-"8152DW",14,"A",""
-"8152DW",30,"",""
-"8152DW",10,"",""
-"8152DW",16,"B",""
-"8152DW",1,"A",""
-"8152DW",1,"B",""
-"8152DW",22,"",""
-"8152DW",20,"",""
-"8152DW",10,"A",""
-"8152DW",14,"A",""
-"8152DW",3,"",""
-"8152DW",14,"",""
-"8152DW",3,"",""
-"8152DW",3,"A",""
-"8152DW",12,"",""
-"8152DW",24,"",""
-"8152DW",16,"",""
-"8152DW",3,"",""
-"8152DW",14,"A",""
-"8152DW",1,"B",""
-"8152DW",2,"",""
-"8152DW",1,"B",""
-"8152DW",26,"",""
-"8152DW",28,"",""
-"8152DX",62,"",""
-"8152DX",70,"",""
-"8152DX",65,"",""
-"8152DX",55,"",""
-"8152DX",57,"",""
-"8152DX",16,"",""
-"8152DX",58,"",""
-"8152DX",18,"",""
-"8152DX",64,"",""
-"8152DX",8,"",""
-"8152DX",61,"",""
-"8152DX",71,"",""
-"8152DX",59,"",""
-"8152DX",60,"",""
-"8152DX",63,"",""
-"8152DX",56,"",""
-"8152DX",8,"",""
-"8152DX",14,"",""
-"8152DX",53,"",""
-"8152DX",8,"",""
-"8152DX",15,"",""
-"8152DX",66,"",""
-"8152DX",9,"",""
-"8152DX",54,"",""
-"8152DX",67,"",""
-"8152DX",17,"",""
-"8152DX",14,"",""
-"8152DX",10,"",""
-"8152DX",7,"",""
-"8152DX",11,"",""
-"8152DX",15,"",""
-"8152DX",69,"",""
-"8152DX",15,"",""
-"8152DX",68,"",""
-"8152DX",13,"",""
-"8152DX",12,"",""
-"8152DX",8,"A",""
-"8152EB",5,"",""
-"8152EB",17,"C",""
-"8152EB",3,"",""
-"8152EB",11,"A",""
-"8152EB",11,"",""
-"8152EB",9,"",""
-"8152EB",17,"C",""
-"8152EB",13,"",""
-"8152EB",17,"C",""
-"8152EB",19,"",""
-"8152EB",17,"",""
-"8152EB",7,"A",""
-"8152EB",17,"B",""
-"8152EB",13,"A",""
-"8152EB",17,"B",""
-"8152EB",7,"",""
-"8152EB",17,"D",""
-"8152EB",15,"",""
-"8152EB",17,"A",""
-"8152EB",17,"B",""
-"8152HA",33,"",""
-"8152HA",33,"A",""
-"8152HA",49,"",""
-"8152HA",5,"",""
-"8152HA",29,"",""
-"8152HA",51,"",""
-"8152HA",1,"",""
-"8152HA",21,"",""
-"8152HA",43,"",""
-"8152HA",11,"",""
-"8152HA",31,"",""
-"8152HA",7,"",""
-"8152HA",3,"",""
-"8152HA",31,"A",""
-"8152HA",39,"",""
-"8152HA",27,"",""
-"8152HA",9,"",""
-"8152HA",35,"",""
-"8152HA",17,"",""
-"8152HA",47,"",""
-"8152HA",19,"",""
-"8152HA",15,"",""
-"8152HA",25,"",""
-"8152HA",45,"",""
-"8152HA",29,"A",""
-"8152HA",27,"A",""
-"8152HA",23,"",""
-"8152HA",41,"",""
-"8152HA",13,"",""
-"8152HA",37,"",""
-"8152HB",2,"B",""
-"8152HB",38,"",""
-"8152HB",2,"A",""
-"8152HB",30,"",""
-"8152HB",10,"",""
-"8152HB",36,"",""
-"8152HB",14,"",""
-"8152HB",8,"",""
-"8152HB",22,"",""
-"8152HB",2,"",""
-"8152HB",2,"A",""
-"8152HB",32,"",""
-"8152HB",2,"A",""
-"8152HB",28,"",""
-"8152HB",16,"",""
-"8152HB",26,"",""
-"8152HB",6,"",""
-"8152HB",20,"",""
-"8152HB",18,"",""
-"8152HB",40,"",""
-"8152HB",34,"",""
-"8152HB",42,"",""
-"8152HB",12,"",""
-"8152HB",4,"",""
-"8152HB",24,"",""
-"8152HC",10,"",""
-"8152HC",18,"",""
-"8152HC",12,"",""
-"8152HC",14,"",""
-"8152HC",26,"",""
-"8152HC",2,"",""
-"8152HC",24,"",""
-"8152HC",36,"",""
-"8152HC",6,"",""
-"8152HC",2,"B",""
-"8152HC",22,"",""
-"8152HC",32,"",""
-"8152HC",30,"",""
-"8152HC",34,"",""
-"8152HC",38,"",""
-"8152HC",16,"",""
-"8152HC",2,"E",""
-"8152HC",8,"",""
-"8152HC",4,"",""
-"8152HC",28,"",""
-"8152HC",2,"D",""
-"8152HC",20,"",""
-"8152HC",2,"A",""
-"8152HC",2,"C",""
-"8152HD",19,"",""
-"8152HD",41,"",""
-"8152HD",47,"",""
-"8152HD",23,"",""
-"8152HD",25,"",""
-"8152HD",11,"",""
-"8152HD",59,"",""
-"8152HD",5,"",""
-"8152HD",51,"",""
-"8152HD",7,"",""
-"8152HD",15,"",""
-"8152HD",29,"",""
-"8152HD",27,"",""
-"8152HD",49,"",""
-"8152HD",53,"",""
-"8152HD",39,"",""
-"8152HD",21,"",""
-"8152HD",17,"",""
-"8152HD",45,"",""
-"8152HD",19,"A",""
-"8152HD",55,"",""
-"8152HD",57,"",""
-"8152HD",31,"",""
-"8152HD",43,"",""
-"8152HD",9,"",""
-"8152HD",3,"",""
-"8152HD",13,"",""
-"8152HE",13,"",""
-"8152HE",25,"",""
-"8152HE",37,"",""
-"8152HE",59,"",""
-"8152HE",19,"",""
-"8152HE",65,"",""
-"8152HE",35,"",""
-"8152HE",29,"",""
-"8152HE",67,"",""
-"8152HE",27,"",""
-"8152HE",7,"",""
-"8152HE",33,"",""
-"8152HE",31,"",""
-"8152HE",3,"",""
-"8152HE",49,"A",""
-"8152HE",4,"",""
-"8152HE",61,"",""
-"8152HE",1,"",""
-"8152HE",12,"",""
-"8152HE",43,"",""
-"8152HE",45,"",""
-"8152HE",15,"",""
-"8152HE",63,"",""
-"8152HE",55,"",""
-"8152HE",17,"",""
-"8152HE",39,"",""
-"8152HE",6,"",""
-"8152HE",11,"",""
-"8152HE",47,"",""
-"8152HE",23,"",""
-"8152HE",51,"",""
-"8152HE",5,"",""
-"8152HE",8,"",""
-"8152HE",49,"",""
-"8152HE",53,"",""
-"8152HE",9,"",""
-"8152HE",41,"",""
-"8152HE",57,"",""
-"8152HE",14,"",""
-"8152HE",21,"",""
-"8152HE",10,"",""
-"8152HE",2,"",""
-"8152HG",7,"",""
-"8152HG",8,"",""
-"8152HG",8,"",""
-"8152HG",1,"",""
-"8152HG",5,"",""
-"8152HG",2,"",""
-"8152HG",12,"",""
-"8152HG",4,"",""
-"8152HG",6,"",""
-"8152HG",10,"",""
-"8152HG",3,"",""
-"8152HH",6,"",""
-"8152HH",12,"B",""
-"8152HH",28,"",""
-"8152HH",15,"",""
-"8152HH",10,"",""
-"8152HH",1,"",""
-"8152HH",23,"",""
-"8152HH",4,"",""
-"8152HH",8,"",""
-"8152HH",11,"",""
-"8152HH",7,"",""
-"8152HH",22,"",""
-"8152HH",12,"A",""
-"8152HH",9,"",""
-"8152HH",26,"",""
-"8152HH",16,"",""
-"8152HH",5,"",""
-"8152HH",12,"",""
-"8152HH",3,"",""
-"8152HH",24,"",""
-"8152HH",20,"",""
-"8152HH",14,"",""
-"8152HH",13,"",""
-"8152HH",18,"",""
-"8152HH",2,"",""
-"8152HH",17,"",""
-"8152HH",21,"",""
-"8152HH",19,"",""
-"8152HJ",28,"",""
-"8152HJ",3,"",""
-"8152HJ",32,"",""
-"8152HJ",24,"",""
-"8152HJ",4,"",""
-"8152HJ",13,"",""
-"8152HJ",15,"",""
-"8152HJ",1,"",""
-"8152HJ",25,"",""
-"8152HJ",15,"",""
-"8152HJ",2,"",""
-"8152HJ",9,"",""
-"8152HJ",9,"",""
-"8152HJ",9,"",""
-"8152HJ",38,"",""
-"8152HJ",10,"",""
-"8152HJ",23,"",""
-"8152HJ",20,"",""
-"8152HJ",12,"",""
-"8152HJ",16,"",""
-"8152HJ",11,"",""
-"8152HJ",13,"",""
-"8152HJ",5,"",""
-"8152HJ",27,"",""
-"8152HJ",22,"",""
-"8152HJ",6,"",""
-"8152HJ",17,"",""
-"8152HJ",11,"",""
-"8152HJ",35,"",""
-"8152HJ",13,"",""
-"8152HJ",14,"",""
-"8152HJ",31,"",""
-"8152HJ",7,"",""
-"8152HJ",19,"",""
-"8152HJ",21,"",""
-"8152HJ",11,"",""
-"8152HJ",15,"",""
-"8152HJ",34,"",""
-"8152HJ",35,"",""
-"8152HJ",26,"",""
-"8152HJ",35,"",""
-"8152HJ",18,"",""
-"8152HJ",30,"",""
-"8152HJ",36,"",""
-"8152HJ",33,"",""
-"8152HJ",8,"",""
-"8152HJ",29,"",""
-"8152HK",11,"",""
-"8152HK",23,"",""
-"8152HK",7,"",""
-"8152HK",25,"",""
-"8152HK",1,"",""
-"8152HK",3,"",""
-"8152HK",35,"",""
-"8152HK",5,"",""
-"8152HK",33,"",""
-"8152HK",37,"",""
-"8152HK",9,"",""
-"8152HK",31,"",""
-"8152HK",17,"",""
-"8152HK",19,"",""
-"8152HK",13,"",""
-"8152HK",29,"",""
-"8152HK",27,"",""
-"8152HK",21,"",""
-"8152HK",15,"",""
-"8152HL",22,"",""
-"8152HL",9,"",""
-"8152HL",25,"",""
-"8152HL",11,"",""
-"8152HL",19,"",""
-"8152HL",6,"",""
-"8152HL",15,"",""
-"8152HL",26,"",""
-"8152HL",2,"A",""
-"8152HL",3,"",""
-"8152HL",1,"",""
-"8152HL",23,"",""
-"8152HL",24,"",""
-"8152HL",18,"",""
-"8152HL",14,"",""
-"8152HL",21,"",""
-"8152HL",4,"",""
-"8152HL",4,"",""
-"8152HL",4,"",""
-"8152HL",10,"",""
-"8152HL",8,"",""
-"8152HL",6,"",""
-"8152HL",7,"",""
-"8152HL",16,"",""
-"8152HL",2,"",""
-"8152HL",12,"",""
-"8152HL",17,"",""
-"8152HL",6,"",""
-"8152HL",28,"",""
-"8152HL",13,"",""
-"8152HL",20,"",""
-"8152HL",5,"",""
-"8152HM",6,"",""
-"8152HM",4,"",""
-"8152HM",20,"",""
-"8152HM",8,"",""
-"8152HM",14,"",""
-"8152HM",12,"",""
-"8152HM",2,"",""
-"8152HM",16,"",""
-"8152HM",22,"",""
-"8152HM",18,"",""
-"8152HM",10,"",""
-"8152HN",5,"",""
-"8152HN",15,"",""
-"8152HN",15,"",""
-"8152HN",13,"",""
-"8152HN",15,"",""
-"8152HN",3,"",""
-"8152HN",11,"",""
-"8152HN",7,"",""
-"8152HN",9,"",""
-"8152HN",11,"",""
-"8152HN",1,"",""
-8152DR,Binnenweg,1,A,
-8152DW,Hoenderweg,10,A,
-8152DW,Hoenderweg,14,A,
-8152EB,Vilstersedijk,11,A,
-8152DR,Binnenweg,1,,
-8152DR,Binnenweg,2,,
-8152DR,Binnenweg,5,,
-8152DR,Binnenweg,6,,
-8152DW,Hoenderweg,1,,
-8152DW,Hoenderweg,2,,
-8152DW,Hoenderweg,3,,
-8152DW,Hoenderweg,6,,
-8152DW,Hoenderweg,10,,
-8152DW,Hoenderweg,12,,
-8152DW,Hoenderweg,14,,
-8152DW,Hoenderweg,16,,
-8152DW,Hoenderweg,8,,
-8152DX,Kanaaldijk-noord,7,,
-8152DX,Kanaaldijk-noord,9,,
-8152DX,Kanaaldijk-noord,10,,
-8152DX,Kanaaldijk-noord,11,,
-8152DX,Kanaaldijk-noord,8,,
-8152AC,Vilstersedijk,1,,
-8152EB,Vilstersedijk,5,,
-8152EB,Vilstersedijk,9,,
-8152EB,Vilstersedijk,11,,
-8152EB,Vilstersedijk,13,,
-8152EB,Vilstersedijk,17,,
-8152EB,Vilstersedijk,19,,
-8152EB,Vilstersedijk,7,,
-8152EB,Vilstersedijk,15,,
-8152EB,Vilstersedijk,3,,
-8152EB,Vilstersedijk,17,A,
-8152DR,Binnenweg,3,,
-8152DR,Binnenweg,3,A,
-8152DR,Binnenweg,4,,
-8152HE,Graslanden,1,,
-8152HE,Graslanden,3,,
-8152HE,Graslanden,5,,
-8152HE,Graslanden,7,,
-8152HE,Graslanden,2,,
-8152HE,Graslanden,4,,
-8152HE,Graslanden,6,,
-8152HE,Graslanden,8,,
-8152HE,Graslanden,10,,
-8152HE,Graslanden,12,,
-8152HE,Graslanden,14,,
-8152HE,Graslanden,9,,
-8152HE,Graslanden,11,,
-8152HE,Graslanden,13,,
-8152HE,Graslanden,15,,
-8152HE,Graslanden,17,,
-8152HE,Graslanden,19,,
-8152HE,Graslanden,21,,
-8152HE,Graslanden,23,,
-8152HE,Graslanden,37,,
-8152HE,Graslanden,39,,
-8152HE,Graslanden,41,,
-8152HE,Graslanden,43,,
-8152HE,Graslanden,45,,
-8152HE,Graslanden,47,,
-8152HE,Graslanden,51,,
-8152HE,Graslanden,53,,
-8152HE,Graslanden,55,,
-8152HE,Graslanden,57,,
-8152HE,Graslanden,59,,
-8152HE,Graslanden,61,,
-8152HE,Graslanden,63,,
-8152HE,Graslanden,65,,
-8152HE,Graslanden,67,,
-8152HE,Graslanden,25,,
-8152HE,Graslanden,27,,
-8152HE,Graslanden,29,,
-8152HE,Graslanden,31,,
-8152HE,Graslanden,33,,
-8152HE,Graslanden,35,,
-8152HE,Graslanden,49,,
-8152HE,Graslanden,49,A,
-8152DW,Hoenderweg,20,,
-8152DW,Hoenderweg,22,,
-8152DW,Hoenderweg,24,,
-8152DW,Hoenderweg,26,,
-8152DW,Hoenderweg,28,,
-8152DW,Hoenderweg,30,,
-8152DW,Hoenderweg,32,,
-8152DW,Hoenderweg,34,,
-8152DW,Hoenderweg,16,B,
-8152DW,Hoenderweg,16,,
-8152DW,Hoenderweg,3,,
-8152DW,Hoenderweg,3,A,
-8152DW,Hoenderweg,14,A,
-8152DW,Hoenderweg,1,B,
-8152DW,Hoenderweg,1,B,
-8152DW,Hoenderweg,1,C,
-8152DW,Hoenderweg,1,A,
-8152HA,Hooilanden,1,,
-8152HA,Hooilanden,3,,
-8152HA,Hooilanden,5,,
-8152HA,Hooilanden,7,,
-8152HA,Hooilanden,9,,
-8152HA,Hooilanden,11,,
-8152HA,Hooilanden,13,,
-8152HA,Hooilanden,15,,
-8152HA,Hooilanden,17,,
-8152HA,Hooilanden,19,,
-8152HA,Hooilanden,21,,
-8152HA,Hooilanden,23,,
-8152HA,Hooilanden,25,,
-8152HA,Hooilanden,37,,
-8152HA,Hooilanden,39,,
-8152HA,Hooilanden,41,,
-8152HA,Hooilanden,43,,
-8152HA,Hooilanden,27,,
-8152HA,Hooilanden,27,A,
-8152HA,Hooilanden,29,,
-8152HA,Hooilanden,29,A,
-8152HA,Hooilanden,31,,
-8152HA,Hooilanden,31,A,
-8152HA,Hooilanden,33,,
-8152HA,Hooilanden,33,A,
-8152HA,Hooilanden,35,,
-8152HA,Hooilanden,45,,
-8152HA,Hooilanden,47,,
-8152HA,Hooilanden,49,,
-8152HA,Hooilanden,51,,
-8152HB,Hooilanden,2,,
-8152HB,Hooilanden,4,,
-8152HB,Hooilanden,6,,
-8152HB,Hooilanden,8,,
-8152HB,Hooilanden,10,,
-8152HB,Hooilanden,12,,
-8152HB,Hooilanden,14,,
-8152HB,Hooilanden,16,,
-8152HB,Hooilanden,18,,
-8152HB,Hooilanden,20,,
-8152HB,Hooilanden,22,,
-8152HB,Hooilanden,24,,
-8152HB,Hooilanden,26,,
-8152HB,Hooilanden,28,,
-8152HB,Hooilanden,30,,
-8152HB,Hooilanden,32,,
-8152HB,Hooilanden,34,,
-8152HB,Hooilanden,36,,
-8152HB,Hooilanden,38,,
-8152HB,Hooilanden,40,,
-8152HB,Hooilanden,42,,
-8152HB,Hooilanden,2,A,
-8152HB,Hooilanden,2,A,
-8152HB,Hooilanden,2,B,
-8152DX,Kanaaldijk-noord,65,,
-8152DX,Kanaaldijk-noord,66,,
-8152DX,Kanaaldijk-noord,67,,
-8152DX,Kanaaldijk-noord,68,,
-8152DX,Kanaaldijk-noord,69,,
-8152DX,Kanaaldijk-noord,70,,
-8152DX,Kanaaldijk-noord,53,,
-8152DX,Kanaaldijk-noord,54,,
-8152DX,Kanaaldijk-noord,55,,
-8152DX,Kanaaldijk-noord,56,,
-8152DX,Kanaaldijk-noord,57,,
-8152DX,Kanaaldijk-noord,58,,
-8152DX,Kanaaldijk-noord,59,,
-8152DX,Kanaaldijk-noord,60,,
-8152DX,Kanaaldijk-noord,61,,
-8152DX,Kanaaldijk-noord,62,,
-8152DX,Kanaaldijk-noord,63,,
-8152DX,Kanaaldijk-noord,64,,
-8152DX,Kanaaldijk-noord,71,,
-8152DX,Kanaaldijk-noord,8,,
-8152DX,Kanaaldijk-noord,8,A,
-8152DX,Kanaaldijk-noord,15,,
-8152DX,Kanaaldijk-noord,15,,
-8152DX,Kanaaldijk-noord,15,,
-8152DX,Kanaaldijk-noord,17,,
-8152DX,Kanaaldijk-noord,16,,
-8152DX,Kanaaldijk-noord,12,,
-8152DX,Kanaaldijk-noord,18,,
-8152DX,Kanaaldijk-noord,14,,
-8152DX,Kanaaldijk-noord,14,,
-8152DX,Kanaaldijk-noord,13,,
-8152HG,Nieuwlandstraat,1,,
-8152HG,Nieuwlandstraat,3,,
-8152HG,Nieuwlandstraat,5,,
-8152HG,Nieuwlandstraat,7,,
-8152HG,Nieuwlandstraat,2,,
-8152HG,Nieuwlandstraat,10,,
-8152HG,Nieuwlandstraat,12,,
-8152HG,Nieuwlandstraat,8,,
-8152HG,Nieuwlandstraat,4,,
-8152HG,Nieuwlandstraat,6,,
-8152EB,Vilstersedijk,7,A,
-8152EB,Vilstersedijk,13,A,
-8152EB,Vilstersedijk,17,B,
-8152EB,Vilstersedijk,17,B,
-8152EB,Vilstersedijk,17,C,
-8152EB,Vilstersedijk,17,C,
-8152EB,Vilstersedijk,17,D,
-8152HC,Weidelanden,4,,
-8152HC,Weidelanden,6,,
-8152HC,Weidelanden,8,,
-8152HC,Weidelanden,10,,
-8152HC,Weidelanden,12,,
-8152HC,Weidelanden,14,,
-8152HC,Weidelanden,16,,
-8152HC,Weidelanden,18,,
-8152HC,Weidelanden,20,,
-8152HC,Weidelanden,22,,
-8152HC,Weidelanden,24,,
-8152HC,Weidelanden,26,,
-8152HC,Weidelanden,28,,
-8152HC,Weidelanden,30,,
-8152HC,Weidelanden,32,,
-8152HC,Weidelanden,34,,
-8152HC,Weidelanden,36,,
-8152HC,Weidelanden,38,,
-8152HC,Weidelanden,2,A,
-8152HC,Weidelanden,2,B,
-8152HC,Weidelanden,2,C,
-8152HC,Weidelanden,2,D,
-8152HC,Weidelanden,2,E,
-8152HC,Weidelanden,2,,
-8152HD,Weidelanden,3,,
-8152HD,Weidelanden,5,,
-8152HD,Weidelanden,7,,
-8152HD,Weidelanden,9,,
-8152HD,Weidelanden,11,,
-8152HD,Weidelanden,13,,
-8152HD,Weidelanden,15,,
-8152HD,Weidelanden,17,,
-8152HD,Weidelanden,19,,
-8152HD,Weidelanden,21,,
-8152HD,Weidelanden,23,,
-8152HD,Weidelanden,25,,
-8152HD,Weidelanden,27,,
-8152HD,Weidelanden,29,,
-8152HD,Weidelanden,31,,
-8152HD,Weidelanden,39,,
-8152HD,Weidelanden,41,,
-8152HD,Weidelanden,43,,
-8152HD,Weidelanden,45,,
-8152HD,Weidelanden,47,,
-8152HD,Weidelanden,49,,
-8152HD,Weidelanden,51,,
-8152HD,Weidelanden,53,,
-8152HD,Weidelanden,55,,
-8152HD,Weidelanden,57,,
-8152HD,Weidelanden,59,,
-8152HD,Weidelanden,19,A,
-8152HM,De Marke,2,,
-8152HM,De Marke,4,,
-8152HM,De Marke,6,,
-8152HM,De Marke,8,,
-8152HM,De Marke,10,,
-8152HM,De Marke,12,,
-8152HM,De Marke,14,,
-8152HM,De Marke,16,,
-8152HM,De Marke,18,,
-8152HM,De Marke,20,,
-8152HM,De Marke,22,,
-8152HH,De Heide,14,,
-8152HH,De Heide,16,,
-8152HH,De Heide,18,,
-8152HH,De Heide,20,,
-8152HH,De Heide,2,,
-8152HH,De Heide,4,,
-8152HH,De Heide,6,,
-8152HH,De Heide,8,,
-8152HH,De Heide,10,,
-8152HH,De Heide,12,,
-8152HH,De Heide,12,A,
-8152HH,De Heide,12,B,
-8152HH,De Heide,22,,
-8152HH,De Heide,24,,
-8152HH,De Heide,26,,
-8152HH,De Heide,28,,
-8152HH,De Heide,23,,
-8152HH,De Heide,15,,
-8152HH,De Heide,17,,
-8152HH,De Heide,19,,
-8152HH,De Heide,21,,
-8152HH,De Heide,1,,
-8152HH,De Heide,3,,
-8152HH,De Heide,5,,
-8152HH,De Heide,7,,
-8152HH,De Heide,9,,
-8152HH,De Heide,11,,
-8152HH,De Heide,13,,
-8152HJ,Het Veen,9,,
-8152HJ,Het Veen,11,,
-8152HJ,Het Veen,13,,
-8152HJ,Het Veen,15,,
-8152HJ,Het Veen,14,,
-8152HJ,Het Veen,16,,
-8152HJ,Het Veen,18,,
-8152HJ,Het Veen,20,,
-8152HJ,Het Veen,22,,
-8152HJ,Het Veen,24,,
-8152HJ,Het Veen,26,,
-8152HJ,Het Veen,28,,
-8152HJ,Het Veen,30,,
-8152HJ,Het Veen,32,,
-8152HJ,Het Veen,4,,
-8152HJ,Het Veen,2,,
-8152HJ,Het Veen,38,,
-8152HJ,Het Veen,34,,
-8152HJ,Het Veen,36,,
-8152HJ,Het Veen,10,,
-8152HJ,Het Veen,12,,
-8152HJ,Het Veen,6,,
-8152HJ,Het Veen,8,,
-8152HJ,Het Veen,31,,
-8152HJ,Het Veen,33,,
-8152HJ,Het Veen,35,,
-8152HJ,Het Veen,1,,
-8152HJ,Het Veen,3,,
-8152HJ,Het Veen,5,,
-8152HJ,Het Veen,7,,
-8152HJ,Het Veen,9,,
-8152HJ,Het Veen,11,,
-8152HJ,Het Veen,13,,
-8152HJ,Het Veen,15,,
-8152HJ,Het Veen,17,,
-8152HJ,Het Veen,19,,
-8152HJ,Het Veen,21,,
-8152HJ,Het Veen,23,,
-8152HJ,Het Veen,25,,
-8152HJ,Het Veen,27,,
-8152HJ,Het Veen,29,,
-8152HJ,Het Veen,35,,
-8152HK,De Houtwal,5,,
-8152HK,De Houtwal,3,,
-8152HK,De Houtwal,7,,
-8152HK,De Houtwal,9,,
-8152HK,De Houtwal,11,,
-8152HK,De Houtwal,13,,
-8152HK,De Houtwal,27,,
-8152HK,De Houtwal,29,,
-8152HK,De Houtwal,31,,
-8152HK,De Houtwal,33,,
-8152HK,De Houtwal,35,,
-8152HK,De Houtwal,37,,
-8152HK,De Houtwal,15,,
-8152HK,De Houtwal,17,,
-8152HK,De Houtwal,19,,
-8152HK,De Houtwal,21,,
-8152HK,De Houtwal,23,,
-8152HK,De Houtwal,25,,
-8152HK,De Houtwal,1,,
-8152HL,Woeste Grond,4,,
-8152HL,Woeste Grond,6,,
-8152HL,Woeste Grond,4,,
-8152HL,Woeste Grond,6,,
-8152HL,Woeste Grond,1,,
-8152HL,Woeste Grond,2,,
-8152HL,Woeste Grond,8,,
-8152HL,Woeste Grond,10,,
-8152HL,Woeste Grond,12,,
-8152HL,Woeste Grond,14,,
-8152HL,Woeste Grond,3,,
-8152HL,Woeste Grond,5,,
-8152HL,Woeste Grond,24,,
-8152HL,Woeste Grond,26,,
-8152HL,Woeste Grond,20,,
-8152HL,Woeste Grond,22,,
-8152HL,Woeste Grond,7,,
-8152HL,Woeste Grond,28,,
-8152HL,Woeste Grond,18,,
-8152HL,Woeste Grond,16,,
-8152HL,Woeste Grond,21,,
-8152HL,Woeste Grond,19,,
-8152HL,Woeste Grond,25,,
-8152HL,Woeste Grond,11,,
-8152HL,Woeste Grond,13,,
-8152HL,Woeste Grond,23,,
-8152HL,Woeste Grond,15,,
-8152HL,Woeste Grond,17,,
-8152HL,Woeste Grond,9,,
-8152HL,Woeste Grond,2,A,
-8152HN,Schaddenhof,15,,
-8152HN,Schaddenhof,15,,
-8152HN,Schaddenhof,1,,
-8152HN,Schaddenhof,11,,
-8152HN,Schaddenhof,11,,
-8152HN,Schaddenhof,13,,
-8152HN,Schaddenhof,3,,
-8152HN,Schaddenhof,5,,
-8152HN,Schaddenhof,7,,
-8152HN,Schaddenhof,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vilstersedijk,1,"","",8152AC,Lemelerveld
+Binnenweg,1,"","",8152DR,Lemelerveld
+Binnenweg,1,A,"",8152DR,Lemelerveld
+Binnenweg,2,"","",8152DR,Lemelerveld
+Binnenweg,3,"","",8152DR,Lemelerveld
+Binnenweg,3,A,"",8152DR,Lemelerveld
+Binnenweg,4,"","",8152DR,Lemelerveld
+Binnenweg,5,"","",8152DR,Lemelerveld
+Binnenweg,6,"","",8152DR,Lemelerveld
+Hoenderweg,1,"","",8152DW,Lemelerveld
+Hoenderweg,1,A,"",8152DW,Lemelerveld
+Hoenderweg,1,B,"",8152DW,Lemelerveld
+Hoenderweg,1,B,"",8152DW,Lemelerveld
+Hoenderweg,1,B,"",8152DW,Lemelerveld
+Hoenderweg,1,C,"",8152DW,Lemelerveld
+Hoenderweg,10,"","",8152DW,Lemelerveld
+Hoenderweg,10,A,"",8152DW,Lemelerveld
+Hoenderweg,12,"","",8152DW,Lemelerveld
+Hoenderweg,14,"","",8152DW,Lemelerveld
+Hoenderweg,14,A,"",8152DW,Lemelerveld
+Hoenderweg,14,A,"",8152DW,Lemelerveld
+Hoenderweg,14,A,"",8152DW,Lemelerveld
+Hoenderweg,16,"","",8152DW,Lemelerveld
+Hoenderweg,16,"","",8152DW,Lemelerveld
+Hoenderweg,16,"","",8152DW,Lemelerveld
+Hoenderweg,16,B,"",8152DW,Lemelerveld
+Hoenderweg,16,B,"",8152DW,Lemelerveld
+Hoenderweg,2,"","",8152DW,Lemelerveld
+Hoenderweg,20,"","",8152DW,Lemelerveld
+Hoenderweg,22,"","",8152DW,Lemelerveld
+Hoenderweg,24,"","",8152DW,Lemelerveld
+Hoenderweg,26,"","",8152DW,Lemelerveld
+Hoenderweg,28,"","",8152DW,Lemelerveld
+Hoenderweg,3,"","",8152DW,Lemelerveld
+Hoenderweg,3,"","",8152DW,Lemelerveld
+Hoenderweg,3,"","",8152DW,Lemelerveld
+Hoenderweg,3,A,"",8152DW,Lemelerveld
+Hoenderweg,30,"","",8152DW,Lemelerveld
+Hoenderweg,32,"","",8152DW,Lemelerveld
+Hoenderweg,34,"","",8152DW,Lemelerveld
+Hoenderweg,6,"","",8152DW,Lemelerveld
+Hoenderweg,8,"","",8152DW,Lemelerveld
+Kanaaldijk-noord,10,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,11,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,12,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,13,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,14,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,14,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,15,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,15,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,15,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,16,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,17,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,18,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,53,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,54,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,55,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,56,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,57,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,58,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,59,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,60,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,61,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,62,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,63,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,64,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,65,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,66,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,67,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,68,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,69,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,7,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,70,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,71,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,8,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,8,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,8,"","",8152DX,Lemelerveld
+Kanaaldijk-noord,8,A,"",8152DX,Lemelerveld
+Kanaaldijk-noord,9,"","",8152DX,Lemelerveld
+Vilstersedijk,11,"","",8152EB,Lemelerveld
+Vilstersedijk,11,A,"",8152EB,Lemelerveld
+Vilstersedijk,13,"","",8152EB,Lemelerveld
+Vilstersedijk,13,A,"",8152EB,Lemelerveld
+Vilstersedijk,15,"","",8152EB,Lemelerveld
+Vilstersedijk,17,"","",8152EB,Lemelerveld
+Vilstersedijk,17,A,"",8152EB,Lemelerveld
+Vilstersedijk,17,B,"",8152EB,Lemelerveld
+Vilstersedijk,17,B,"",8152EB,Lemelerveld
+Vilstersedijk,17,B,"",8152EB,Lemelerveld
+Vilstersedijk,17,C,"",8152EB,Lemelerveld
+Vilstersedijk,17,C,"",8152EB,Lemelerveld
+Vilstersedijk,17,C,"",8152EB,Lemelerveld
+Vilstersedijk,17,D,"",8152EB,Lemelerveld
+Vilstersedijk,19,"","",8152EB,Lemelerveld
+Vilstersedijk,3,"","",8152EB,Lemelerveld
+Vilstersedijk,5,"","",8152EB,Lemelerveld
+Vilstersedijk,7,"","",8152EB,Lemelerveld
+Vilstersedijk,7,A,"",8152EB,Lemelerveld
+Vilstersedijk,9,"","",8152EB,Lemelerveld
+Hooilanden,1,"","",8152HA,Lemelerveld
+Hooilanden,11,"","",8152HA,Lemelerveld
+Hooilanden,13,"","",8152HA,Lemelerveld
+Hooilanden,15,"","",8152HA,Lemelerveld
+Hooilanden,17,"","",8152HA,Lemelerveld
+Hooilanden,19,"","",8152HA,Lemelerveld
+Hooilanden,21,"","",8152HA,Lemelerveld
+Hooilanden,23,"","",8152HA,Lemelerveld
+Hooilanden,25,"","",8152HA,Lemelerveld
+Hooilanden,27,"","",8152HA,Lemelerveld
+Hooilanden,27,A,"",8152HA,Lemelerveld
+Hooilanden,29,"","",8152HA,Lemelerveld
+Hooilanden,29,A,"",8152HA,Lemelerveld
+Hooilanden,3,"","",8152HA,Lemelerveld
+Hooilanden,31,"","",8152HA,Lemelerveld
+Hooilanden,31,A,"",8152HA,Lemelerveld
+Hooilanden,33,"","",8152HA,Lemelerveld
+Hooilanden,33,A,"",8152HA,Lemelerveld
+Hooilanden,35,"","",8152HA,Lemelerveld
+Hooilanden,37,"","",8152HA,Lemelerveld
+Hooilanden,39,"","",8152HA,Lemelerveld
+Hooilanden,41,"","",8152HA,Lemelerveld
+Hooilanden,43,"","",8152HA,Lemelerveld
+Hooilanden,45,"","",8152HA,Lemelerveld
+Hooilanden,47,"","",8152HA,Lemelerveld
+Hooilanden,49,"","",8152HA,Lemelerveld
+Hooilanden,5,"","",8152HA,Lemelerveld
+Hooilanden,51,"","",8152HA,Lemelerveld
+Hooilanden,7,"","",8152HA,Lemelerveld
+Hooilanden,9,"","",8152HA,Lemelerveld
+Hooilanden,10,"","",8152HB,Lemelerveld
+Hooilanden,12,"","",8152HB,Lemelerveld
+Hooilanden,14,"","",8152HB,Lemelerveld
+Hooilanden,16,"","",8152HB,Lemelerveld
+Hooilanden,18,"","",8152HB,Lemelerveld
+Hooilanden,2,"","",8152HB,Lemelerveld
+Hooilanden,2,A,"",8152HB,Lemelerveld
+Hooilanden,2,A,"",8152HB,Lemelerveld
+Hooilanden,2,A,"",8152HB,Lemelerveld
+Hooilanden,2,B,"",8152HB,Lemelerveld
+Hooilanden,20,"","",8152HB,Lemelerveld
+Hooilanden,22,"","",8152HB,Lemelerveld
+Hooilanden,24,"","",8152HB,Lemelerveld
+Hooilanden,26,"","",8152HB,Lemelerveld
+Hooilanden,28,"","",8152HB,Lemelerveld
+Hooilanden,30,"","",8152HB,Lemelerveld
+Hooilanden,32,"","",8152HB,Lemelerveld
+Hooilanden,34,"","",8152HB,Lemelerveld
+Hooilanden,36,"","",8152HB,Lemelerveld
+Hooilanden,38,"","",8152HB,Lemelerveld
+Hooilanden,4,"","",8152HB,Lemelerveld
+Hooilanden,40,"","",8152HB,Lemelerveld
+Hooilanden,42,"","",8152HB,Lemelerveld
+Hooilanden,6,"","",8152HB,Lemelerveld
+Hooilanden,8,"","",8152HB,Lemelerveld
+Weidelanden,10,"","",8152HC,Lemelerveld
+Weidelanden,12,"","",8152HC,Lemelerveld
+Weidelanden,14,"","",8152HC,Lemelerveld
+Weidelanden,16,"","",8152HC,Lemelerveld
+Weidelanden,18,"","",8152HC,Lemelerveld
+Weidelanden,2,"","",8152HC,Lemelerveld
+Weidelanden,2,A,"",8152HC,Lemelerveld
+Weidelanden,2,B,"",8152HC,Lemelerveld
+Weidelanden,2,C,"",8152HC,Lemelerveld
+Weidelanden,2,D,"",8152HC,Lemelerveld
+Weidelanden,2,E,"",8152HC,Lemelerveld
+Weidelanden,20,"","",8152HC,Lemelerveld
+Weidelanden,22,"","",8152HC,Lemelerveld
+Weidelanden,24,"","",8152HC,Lemelerveld
+Weidelanden,26,"","",8152HC,Lemelerveld
+Weidelanden,28,"","",8152HC,Lemelerveld
+Weidelanden,30,"","",8152HC,Lemelerveld
+Weidelanden,32,"","",8152HC,Lemelerveld
+Weidelanden,34,"","",8152HC,Lemelerveld
+Weidelanden,36,"","",8152HC,Lemelerveld
+Weidelanden,38,"","",8152HC,Lemelerveld
+Weidelanden,4,"","",8152HC,Lemelerveld
+Weidelanden,6,"","",8152HC,Lemelerveld
+Weidelanden,8,"","",8152HC,Lemelerveld
+Weidelanden,11,"","",8152HD,Lemelerveld
+Weidelanden,13,"","",8152HD,Lemelerveld
+Weidelanden,15,"","",8152HD,Lemelerveld
+Weidelanden,17,"","",8152HD,Lemelerveld
+Weidelanden,19,"","",8152HD,Lemelerveld
+Weidelanden,19,A,"",8152HD,Lemelerveld
+Weidelanden,21,"","",8152HD,Lemelerveld
+Weidelanden,23,"","",8152HD,Lemelerveld
+Weidelanden,25,"","",8152HD,Lemelerveld
+Weidelanden,27,"","",8152HD,Lemelerveld
+Weidelanden,29,"","",8152HD,Lemelerveld
+Weidelanden,3,"","",8152HD,Lemelerveld
+Weidelanden,31,"","",8152HD,Lemelerveld
+Weidelanden,39,"","",8152HD,Lemelerveld
+Weidelanden,41,"","",8152HD,Lemelerveld
+Weidelanden,43,"","",8152HD,Lemelerveld
+Weidelanden,45,"","",8152HD,Lemelerveld
+Weidelanden,47,"","",8152HD,Lemelerveld
+Weidelanden,49,"","",8152HD,Lemelerveld
+Weidelanden,5,"","",8152HD,Lemelerveld
+Weidelanden,51,"","",8152HD,Lemelerveld
+Weidelanden,53,"","",8152HD,Lemelerveld
+Weidelanden,55,"","",8152HD,Lemelerveld
+Weidelanden,57,"","",8152HD,Lemelerveld
+Weidelanden,59,"","",8152HD,Lemelerveld
+Weidelanden,7,"","",8152HD,Lemelerveld
+Weidelanden,9,"","",8152HD,Lemelerveld
+Graslanden,1,"","",8152HE,Lemelerveld
+Graslanden,10,"","",8152HE,Lemelerveld
+Graslanden,11,"","",8152HE,Lemelerveld
+Graslanden,12,"","",8152HE,Lemelerveld
+Graslanden,13,"","",8152HE,Lemelerveld
+Graslanden,14,"","",8152HE,Lemelerveld
+Graslanden,15,"","",8152HE,Lemelerveld
+Graslanden,17,"","",8152HE,Lemelerveld
+Graslanden,19,"","",8152HE,Lemelerveld
+Graslanden,2,"","",8152HE,Lemelerveld
+Graslanden,21,"","",8152HE,Lemelerveld
+Graslanden,23,"","",8152HE,Lemelerveld
+Graslanden,25,"","",8152HE,Lemelerveld
+Graslanden,27,"","",8152HE,Lemelerveld
+Graslanden,29,"","",8152HE,Lemelerveld
+Graslanden,3,"","",8152HE,Lemelerveld
+Graslanden,31,"","",8152HE,Lemelerveld
+Graslanden,33,"","",8152HE,Lemelerveld
+Graslanden,35,"","",8152HE,Lemelerveld
+Graslanden,37,"","",8152HE,Lemelerveld
+Graslanden,39,"","",8152HE,Lemelerveld
+Graslanden,4,"","",8152HE,Lemelerveld
+Graslanden,41,"","",8152HE,Lemelerveld
+Graslanden,43,"","",8152HE,Lemelerveld
+Graslanden,45,"","",8152HE,Lemelerveld
+Graslanden,47,"","",8152HE,Lemelerveld
+Graslanden,49,"","",8152HE,Lemelerveld
+Graslanden,49,A,"",8152HE,Lemelerveld
+Graslanden,5,"","",8152HE,Lemelerveld
+Graslanden,51,"","",8152HE,Lemelerveld
+Graslanden,53,"","",8152HE,Lemelerveld
+Graslanden,55,"","",8152HE,Lemelerveld
+Graslanden,57,"","",8152HE,Lemelerveld
+Graslanden,59,"","",8152HE,Lemelerveld
+Graslanden,6,"","",8152HE,Lemelerveld
+Graslanden,61,"","",8152HE,Lemelerveld
+Graslanden,63,"","",8152HE,Lemelerveld
+Graslanden,65,"","",8152HE,Lemelerveld
+Graslanden,67,"","",8152HE,Lemelerveld
+Graslanden,7,"","",8152HE,Lemelerveld
+Graslanden,8,"","",8152HE,Lemelerveld
+Graslanden,9,"","",8152HE,Lemelerveld
+Nieuwlandstraat,1,"","",8152HG,Lemelerveld
+Nieuwlandstraat,10,"","",8152HG,Lemelerveld
+Nieuwlandstraat,12,"","",8152HG,Lemelerveld
+Nieuwlandstraat,2,"","",8152HG,Lemelerveld
+Nieuwlandstraat,3,"","",8152HG,Lemelerveld
+Nieuwlandstraat,4,"","",8152HG,Lemelerveld
+Nieuwlandstraat,5,"","",8152HG,Lemelerveld
+Nieuwlandstraat,6,"","",8152HG,Lemelerveld
+Nieuwlandstraat,7,"","",8152HG,Lemelerveld
+Nieuwlandstraat,8,"","",8152HG,Lemelerveld
+Nieuwlandstraat,8,"","",8152HG,Lemelerveld
+De Heide,1,"","",8152HH,Lemelerveld
+De Heide,10,"","",8152HH,Lemelerveld
+De Heide,11,"","",8152HH,Lemelerveld
+De Heide,12,"","",8152HH,Lemelerveld
+De Heide,12,A,"",8152HH,Lemelerveld
+De Heide,12,B,"",8152HH,Lemelerveld
+De Heide,13,"","",8152HH,Lemelerveld
+De Heide,14,"","",8152HH,Lemelerveld
+De Heide,15,"","",8152HH,Lemelerveld
+De Heide,16,"","",8152HH,Lemelerveld
+De Heide,17,"","",8152HH,Lemelerveld
+De Heide,18,"","",8152HH,Lemelerveld
+De Heide,19,"","",8152HH,Lemelerveld
+De Heide,2,"","",8152HH,Lemelerveld
+De Heide,20,"","",8152HH,Lemelerveld
+De Heide,21,"","",8152HH,Lemelerveld
+De Heide,22,"","",8152HH,Lemelerveld
+De Heide,23,"","",8152HH,Lemelerveld
+De Heide,24,"","",8152HH,Lemelerveld
+De Heide,26,"","",8152HH,Lemelerveld
+De Heide,28,"","",8152HH,Lemelerveld
+De Heide,3,"","",8152HH,Lemelerveld
+De Heide,4,"","",8152HH,Lemelerveld
+De Heide,5,"","",8152HH,Lemelerveld
+De Heide,6,"","",8152HH,Lemelerveld
+De Heide,7,"","",8152HH,Lemelerveld
+De Heide,8,"","",8152HH,Lemelerveld
+De Heide,9,"","",8152HH,Lemelerveld
+Het Veen,1,"","",8152HJ,Lemelerveld
+Het Veen,10,"","",8152HJ,Lemelerveld
+Het Veen,11,"","",8152HJ,Lemelerveld
+Het Veen,11,"","",8152HJ,Lemelerveld
+Het Veen,11,"","",8152HJ,Lemelerveld
+Het Veen,12,"","",8152HJ,Lemelerveld
+Het Veen,13,"","",8152HJ,Lemelerveld
+Het Veen,13,"","",8152HJ,Lemelerveld
+Het Veen,13,"","",8152HJ,Lemelerveld
+Het Veen,14,"","",8152HJ,Lemelerveld
+Het Veen,15,"","",8152HJ,Lemelerveld
+Het Veen,15,"","",8152HJ,Lemelerveld
+Het Veen,15,"","",8152HJ,Lemelerveld
+Het Veen,16,"","",8152HJ,Lemelerveld
+Het Veen,17,"","",8152HJ,Lemelerveld
+Het Veen,18,"","",8152HJ,Lemelerveld
+Het Veen,19,"","",8152HJ,Lemelerveld
+Het Veen,2,"","",8152HJ,Lemelerveld
+Het Veen,20,"","",8152HJ,Lemelerveld
+Het Veen,21,"","",8152HJ,Lemelerveld
+Het Veen,22,"","",8152HJ,Lemelerveld
+Het Veen,23,"","",8152HJ,Lemelerveld
+Het Veen,24,"","",8152HJ,Lemelerveld
+Het Veen,25,"","",8152HJ,Lemelerveld
+Het Veen,26,"","",8152HJ,Lemelerveld
+Het Veen,27,"","",8152HJ,Lemelerveld
+Het Veen,28,"","",8152HJ,Lemelerveld
+Het Veen,29,"","",8152HJ,Lemelerveld
+Het Veen,3,"","",8152HJ,Lemelerveld
+Het Veen,30,"","",8152HJ,Lemelerveld
+Het Veen,31,"","",8152HJ,Lemelerveld
+Het Veen,32,"","",8152HJ,Lemelerveld
+Het Veen,33,"","",8152HJ,Lemelerveld
+Het Veen,34,"","",8152HJ,Lemelerveld
+Het Veen,35,"","",8152HJ,Lemelerveld
+Het Veen,35,"","",8152HJ,Lemelerveld
+Het Veen,35,"","",8152HJ,Lemelerveld
+Het Veen,36,"","",8152HJ,Lemelerveld
+Het Veen,38,"","",8152HJ,Lemelerveld
+Het Veen,4,"","",8152HJ,Lemelerveld
+Het Veen,5,"","",8152HJ,Lemelerveld
+Het Veen,6,"","",8152HJ,Lemelerveld
+Het Veen,7,"","",8152HJ,Lemelerveld
+Het Veen,8,"","",8152HJ,Lemelerveld
+Het Veen,9,"","",8152HJ,Lemelerveld
+Het Veen,9,"","",8152HJ,Lemelerveld
+Het Veen,9,"","",8152HJ,Lemelerveld
+De Houtwal,1,"","",8152HK,Lemelerveld
+De Houtwal,11,"","",8152HK,Lemelerveld
+De Houtwal,13,"","",8152HK,Lemelerveld
+De Houtwal,15,"","",8152HK,Lemelerveld
+De Houtwal,17,"","",8152HK,Lemelerveld
+De Houtwal,19,"","",8152HK,Lemelerveld
+De Houtwal,21,"","",8152HK,Lemelerveld
+De Houtwal,23,"","",8152HK,Lemelerveld
+De Houtwal,25,"","",8152HK,Lemelerveld
+De Houtwal,27,"","",8152HK,Lemelerveld
+De Houtwal,29,"","",8152HK,Lemelerveld
+De Houtwal,3,"","",8152HK,Lemelerveld
+De Houtwal,31,"","",8152HK,Lemelerveld
+De Houtwal,33,"","",8152HK,Lemelerveld
+De Houtwal,35,"","",8152HK,Lemelerveld
+De Houtwal,37,"","",8152HK,Lemelerveld
+De Houtwal,5,"","",8152HK,Lemelerveld
+De Houtwal,7,"","",8152HK,Lemelerveld
+De Houtwal,9,"","",8152HK,Lemelerveld
+Woeste Grond,1,"","",8152HL,Lemelerveld
+Woeste Grond,10,"","",8152HL,Lemelerveld
+Woeste Grond,11,"","",8152HL,Lemelerveld
+Woeste Grond,12,"","",8152HL,Lemelerveld
+Woeste Grond,13,"","",8152HL,Lemelerveld
+Woeste Grond,14,"","",8152HL,Lemelerveld
+Woeste Grond,15,"","",8152HL,Lemelerveld
+Woeste Grond,16,"","",8152HL,Lemelerveld
+Woeste Grond,17,"","",8152HL,Lemelerveld
+Woeste Grond,18,"","",8152HL,Lemelerveld
+Woeste Grond,19,"","",8152HL,Lemelerveld
+Woeste Grond,2,"","",8152HL,Lemelerveld
+Woeste Grond,2,A,"",8152HL,Lemelerveld
+Woeste Grond,20,"","",8152HL,Lemelerveld
+Woeste Grond,21,"","",8152HL,Lemelerveld
+Woeste Grond,22,"","",8152HL,Lemelerveld
+Woeste Grond,23,"","",8152HL,Lemelerveld
+Woeste Grond,24,"","",8152HL,Lemelerveld
+Woeste Grond,25,"","",8152HL,Lemelerveld
+Woeste Grond,26,"","",8152HL,Lemelerveld
+Woeste Grond,28,"","",8152HL,Lemelerveld
+Woeste Grond,3,"","",8152HL,Lemelerveld
+Woeste Grond,4,"","",8152HL,Lemelerveld
+Woeste Grond,4,"","",8152HL,Lemelerveld
+Woeste Grond,4,"","",8152HL,Lemelerveld
+Woeste Grond,5,"","",8152HL,Lemelerveld
+Woeste Grond,6,"","",8152HL,Lemelerveld
+Woeste Grond,6,"","",8152HL,Lemelerveld
+Woeste Grond,6,"","",8152HL,Lemelerveld
+Woeste Grond,7,"","",8152HL,Lemelerveld
+Woeste Grond,8,"","",8152HL,Lemelerveld
+Woeste Grond,9,"","",8152HL,Lemelerveld
+De Marke,10,"","",8152HM,Lemelerveld
+De Marke,12,"","",8152HM,Lemelerveld
+De Marke,14,"","",8152HM,Lemelerveld
+De Marke,16,"","",8152HM,Lemelerveld
+De Marke,18,"","",8152HM,Lemelerveld
+De Marke,2,"","",8152HM,Lemelerveld
+De Marke,20,"","",8152HM,Lemelerveld
+De Marke,22,"","",8152HM,Lemelerveld
+De Marke,4,"","",8152HM,Lemelerveld
+De Marke,6,"","",8152HM,Lemelerveld
+De Marke,8,"","",8152HM,Lemelerveld
+Schaddenhof,1,"","",8152HN,Lemelerveld
+Schaddenhof,11,"","",8152HN,Lemelerveld
+Schaddenhof,11,"","",8152HN,Lemelerveld
+Schaddenhof,13,"","",8152HN,Lemelerveld
+Schaddenhof,15,"","",8152HN,Lemelerveld
+Schaddenhof,15,"","",8152HN,Lemelerveld
+Schaddenhof,15,"","",8152HN,Lemelerveld
+Schaddenhof,3,"","",8152HN,Lemelerveld
+Schaddenhof,5,"","",8152HN,Lemelerveld
+Schaddenhof,7,"","",8152HN,Lemelerveld
+Schaddenhof,9,"","",8152HN,Lemelerveld

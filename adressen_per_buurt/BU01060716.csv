@@ -1,430 +1,236 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9403AB",38,"",""
-"9403AB",38,"",""
-"9403AB",46,"",""
-"9403AB",24,"",""
-"9403AB",30,"",""
-"9403AB",38,"",""
-"9403AB",30,"C",""
-"9403AB",36,"A",""
-"9403AB",24,"",""
-"9403AB",32,"A",""
-"9403AB",40,"",""
-"9403AB",24,"",""
-"9403AB",38,"A",""
-"9403AB",28,"",""
-"9403AB",34,"A",""
-"9403AB",30,"C",""
-"9403AB",38,"",""
-"9403AB",46,"",""
-"9403AB",44,"A",""
-"9403AB",44,"",""
-"9403AB",30,"B",""
-"9403AB",46,"A",""
-"9403AB",38,"B",""
-"9403AB",34,"",""
-"9403AB",26,"A",""
-"9403AB",24,"A",""
-"9403AB",36,"C",""
-"9403AB",46,"",""
-"9403AB",38,"",""
-"9403AB",28,"A",""
-"9403AB",30,"A",""
-"9403AB",42,"",""
-"9403AB",36,"",""
-"9403AB",26,"",""
-"9403AB",26,"",""
-"9403AB",32,"",""
-"9403AB",30,"B",""
-"9403AB",30,"",""
-"9403AB",38,"A","1"
-"9403AB",26,"",""
-"9403AB",24,"",""
-"9403AB",24,"A",""
-"9403AB",30,"A",""
-"9403AB",30,"",""
-"9403AJ",9,"F",""
-"9403AJ",13,"",""
-"9403AJ",9,"I",""
-"9403AJ",3,"",""
-"9403AJ",3,"A",""
-"9403AJ",3,"E",""
-"9403AJ",9,"H",""
-"9403AJ",9,"C",""
-"9403AJ",27,"",""
-"9403AJ",19,"",""
-"9403AJ",9,"H",""
-"9403AJ",3,"",""
-"9403AJ",3,"F",""
-"9403AJ",3,"",""
-"9403AJ",25,"",""
-"9403AJ",9,"E",""
-"9403AJ",9,"G",""
-"9403AJ",3,"G",""
-"9403AJ",3,"H",""
-"9403AJ",11,"",""
-"9403AJ",15,"",""
-"9403AJ",3,"B",""
-"9403AJ",3,"C",""
-"9403AJ",3,"C",""
-"9403AJ",9,"D",""
-"9403AJ",29,"",""
-"9403AJ",21,"",""
-"9403AJ",3,"K",""
-"9403AJ",23,"",""
-"9403AJ",17,"",""
-"9403AJ",13,"",""
-"9403AJ",9,"A",""
-"9403AJ",9,"J",""
-"9403AJ",3,"G",""
-"9403AJ",7,"C",""
-"9403AJ",15,"A",""
-"9403AJ",7,"",""
-"9403AJ",9,"",""
-"9403AJ",3,"M",""
-"9403AJ",7,"B",""
-"9403AJ",9,"B",""
-"9403AK",2,"",""
-"9403AK",32,"",""
-"9403AK",36,"",""
-"9403AK",18,"",""
-"9403AK",14,"",""
-"9403AK",26,"J",""
-"9403AK",26,"K",""
-"9403AK",26,"M",""
-"9403AK",6,"",""
-"9403AK",26,"L",""
-"9403AK",26,"F",""
-"9403AK",14,"",""
-"9403AK",12,"",""
-"9403AK",26,"E",""
-"9403AK",38,"",""
-"9403AK",30,"",""
-"9403AK",26,"C",""
-"9403AK",22,"",""
-"9403AK",16,"",""
-"9403AK",26,"D",""
-"9403AK",26,"G",""
-"9403AK",24,"",""
-"9403AK",16,"A",""
-"9403AK",20,"",""
-"9403AK",40,"",""
-"9403AK",26,"A",""
-"9403AK",26,"",""
-"9403AK",16,"A",""
-"9403AK",34,"",""
-"9403AK",26,"H",""
-"9403AK",22,"",""
-"9403AK",24,"",""
-"9403AK",10,"",""
-"9403AK",40,"",""
-"9403AK",26,"B",""
-"9403AK",22,"",""
-"9403AL",2,"A",""
-"9403AL",2,"A",""
-"9403AL",2,"",""
-"9403AL",2,"",""
-"9403AL",2,"A",""
-"9403AL",2,"",""
-"9403AL",2,"",""
-"9403AL",2,"",""
-"9403AP",18,"O",""
-"9403AP",22,"",""
-"9403AP",18,"N",""
-"9403AP",18,"N",""
-"9403AP",18,"I",""
-"9403AP",34,"",""
-"9403AP",36,"",""
-"9403AP",30,"A",""
-"9403AP",30,"A",""
-"9403AP",36,"",""
-"9403AP",20,"",""
-"9403AP",38,"",""
-"9403AP",32,"",""
-"9403AP",10,"",""
-"9403AP",18,"N",""
-"9403AP",20,"",""
-"9403AP",10,"",""
-"9403AP",10,"A",""
-"9403AP",30,"",""
-"9403AP",20,"",""
-"9403AP",18,"O",""
-"9403AP",12,"",""
-"9403AP",36,"A",""
-"9403AP",8,"",""
-"9403AP",18,"F",""
-"9403AP",18,"H",""
-"9403AP",18,"G",""
-"9403AP",22,"A",""
-"9403AP",18,"C",""
-"9403AP",30,"A",""
-"9403AP",18,"M",""
-"9403AP",30,"",""
-"9403AP",18,"J",""
-"9403AP",18,"F",""
-"9403AP",28,"",""
-"9403AP",24,"",""
-"9403AP",36,"",""
-"9403AP",18,"K",""
-"9403AP",18,"F",""
-"9403AP",18,"H",""
-"9403AP",18,"H",""
-"9403AP",30,"",""
-"9403AP",18,"G",""
-"9403AP",18,"G",""
-"9403AP",10,"",""
-"9403AP",26,"",""
-"9403AP",18,"F",""
-"9403AP",30,"",""
-"9403AP",24,"B",""
-"9403AP",14,"",""
-"9403AP",18,"L",""
-"9403AP",24,"",""
-"9403AP",16,"",""
-"9403AP",18,"A",""
-"9403AP",26,"A",""
-"9403AP",24,"",""
-"9403AP",16,"A",""
-"9403AP",24,"B",""
-"9403AP",18,"D",""
-"9403AP",30,"",""
-"9403AP",18,"B",""
-"9403AP",18,"A",""
-"9403AP",24,"A",""
-"9403AP",24,"",""
-"9403AP",18,"",""
-"9403AP",18,"F",""
-"9403AP",24,"",""
-"9403BC",3,"",""
-"9403BC",7,"",""
-"9403BC",7,"B",""
-"9403BC",7,"A",""
-"9403BC",5,"",""
-"9403BC",7,"E",""
-"9403BC",3,"A",""
-"9403BC",7,"",""
-"9403BC",7,"A",""
-"9403BC",7,"D",""
-"9403BC",1,"",""
-"9403BC",1,"A",""
-"9403BC",7,"F",""
-"9403BC",7,"C",""
-"9403BD",3,"",""
-"9403BD",6,"",""
-"9403BD",6,"A",""
-"9403BG",3,"",""
-"9403BG",2,"",""
-"9403BG",14,"",""
-"9403BG",6,"B",""
-"9403BG",8,"",""
-"9403BG",6,"",""
-"9403BG",14,"",""
-"9403BG",11,"",""
-"9403BG",5,"",""
-"9403BG",14,"",""
-"9403BG",14,"",""
-"9403BG",4,"",""
-"9403BG",9,"",""
-"9403BG",9,"",""
-"9403BG",2,"",""
-"9403BG",12,"",""
-"9403BG",6,"A",""
-"9403BG",5,"A",""
-"9403BG",11,"A",""
-"9403BG",13,"",""
-"9403BG",10,"",""
-"9403BG",1,"",""
-9403AP,A.H.G. Fokkerstraat,8,,
-9403AP,A.H.G. Fokkerstraat,10,,
-9403AP,A.H.G. Fokkerstraat,12,,
-9403AP,A.H.G. Fokkerstraat,14,,
-9403AP,A.H.G. Fokkerstraat,16,,
-9403AP,A.H.G. Fokkerstraat,18,A,
-9403AP,A.H.G. Fokkerstraat,18,B,
-9403AP,A.H.G. Fokkerstraat,18,C,
-9403AP,A.H.G. Fokkerstraat,18,D,
-9403AP,A.H.G. Fokkerstraat,18,F,
-9403AP,A.H.G. Fokkerstraat,18,G,
-9403AP,A.H.G. Fokkerstraat,18,H,
-9403AP,A.H.G. Fokkerstraat,18,I,
-9403AP,A.H.G. Fokkerstraat,18,J,
-9403AP,A.H.G. Fokkerstraat,18,K,
-9403AP,A.H.G. Fokkerstraat,18,L,
-9403AP,A.H.G. Fokkerstraat,18,M,
-9403AP,A.H.G. Fokkerstraat,18,N,
-9403AP,A.H.G. Fokkerstraat,18,,
-9403AP,A.H.G. Fokkerstraat,20,,
-9403AP,A.H.G. Fokkerstraat,22,A,
-9403AP,A.H.G. Fokkerstraat,22,,
-9403AP,A.H.G. Fokkerstraat,24,A,
-9403AP,A.H.G. Fokkerstraat,24,,
-9403AP,A.H.G. Fokkerstraat,26,A,
-9403AP,A.H.G. Fokkerstraat,26,,
-9403AP,A.H.G. Fokkerstraat,28,,
-9403AP,A.H.G. Fokkerstraat,30,A,
-9403AP,A.H.G. Fokkerstraat,30,,
-9403AP,A.H.G. Fokkerstraat,32,,
-9403AP,A.H.G. Fokkerstraat,34,,
-9403AP,A.H.G. Fokkerstraat,36,,
-9403AP,A.H.G. Fokkerstraat,38,,
-9403BC,Europaweg-Noord,1,A,
-9403BC,Europaweg-Noord,1,,
-9403BC,Europaweg-Noord,3,,
-9403BC,Europaweg-Noord,5,,
-9403BC,Europaweg-Noord,7,A,
-9403BC,Europaweg-Noord,7,,
-9403BC,Europaweg-Noord,7,,
-9403BC,Europaweg-Noord,7,F,
-9403AB,Industrieweg,24,A,
-9403AB,Industrieweg,24,,
-9403AB,Industrieweg,26,A,
-9403AB,Industrieweg,26,,
-9403AB,Industrieweg,28,A,
-9403AB,Industrieweg,28,,
-9403AB,Industrieweg,30,B,
-9403AB,Industrieweg,30,C,
-9403AB,Industrieweg,30,,
-9403AB,Industrieweg,32,A,
-9403AB,Industrieweg,32,,
-9403AB,Industrieweg,34,A,
-9403AB,Industrieweg,34,,
-9403AB,Industrieweg,36,A,
-9403AB,Industrieweg,36,C,
-9403AB,Industrieweg,36,,
-9403AB,Industrieweg,38,A,
-9403AB,Industrieweg,38,,
-9403AB,Industrieweg,38,,
-9403AB,Industrieweg,40,,
-9403AB,Industrieweg,42,,
-9403AB,Industrieweg,44,,
-9403AB,Industrieweg,46,A,
-9403AB,Industrieweg,46,,
-9403AP,A.H.G. Fokkerstraat,18,O,
-9403AL,Plesmanstraat,2,,
-9403BD,van Hobokenstraat,6,A,
-9403BD,van Hobokenstraat,6,,
-9403BG,Wenkebachstraat,1,,
-9403BG,Wenkebachstraat,3,,
-9403BG,Wenkebachstraat,4,,
-9403BG,Wenkebachstraat,5,A,
-9403BG,Wenkebachstraat,5,,
-9403BG,Wenkebachstraat,6,A,
-9403BG,Wenkebachstraat,6,,
-9403BG,Wenkebachstraat,8,,
-9403BG,Wenkebachstraat,9,,
-9403BG,Wenkebachstraat,10,,
-9403BG,Wenkebachstraat,11,A,
-9403BG,Wenkebachstraat,11,,
-9403BG,Wenkebachstraat,12,,
-9403BG,Wenkebachstraat,13,,
-9403BG,Wenkebachstraat,14,,
-9403BG,Wenkebachstraat,2,,
-9403AJ,W.A. Scholtenstraat,3,B,
-9403AJ,W.A. Scholtenstraat,3,C,
-9403AJ,W.A. Scholtenstraat,3,E,
-9403AJ,W.A. Scholtenstraat,3,F,
-9403AJ,W.A. Scholtenstraat,3,G,
-9403AJ,W.A. Scholtenstraat,3,H,
-9403AJ,W.A. Scholtenstraat,3,K,
-9403AJ,W.A. Scholtenstraat,3,M,
-9403AJ,W.A. Scholtenstraat,7,,
-9403AJ,W.A. Scholtenstraat,9,A,
-9403AJ,W.A. Scholtenstraat,9,B,
-9403AJ,W.A. Scholtenstraat,9,C,
-9403AJ,W.A. Scholtenstraat,9,D,
-9403AJ,W.A. Scholtenstraat,9,E,
-9403AJ,W.A. Scholtenstraat,9,F,
-9403AJ,W.A. Scholtenstraat,9,G,
-9403AJ,W.A. Scholtenstraat,9,H,
-9403AJ,W.A. Scholtenstraat,9,H,
-9403AJ,W.A. Scholtenstraat,9,I,
-9403AJ,W.A. Scholtenstraat,9,J,
-9403AJ,W.A. Scholtenstraat,9,,
-9403AJ,W.A. Scholtenstraat,11,,
-9403AJ,W.A. Scholtenstraat,15,A,
-9403AJ,W.A. Scholtenstraat,15,,
-9403AJ,W.A. Scholtenstraat,17,,
-9403AJ,W.A. Scholtenstraat,19,,
-9403AJ,W.A. Scholtenstraat,21,,
-9403AJ,W.A. Scholtenstraat,23,,
-9403AJ,W.A. Scholtenstraat,25,,
-9403AJ,W.A. Scholtenstraat,29,,
-9403AK,W.A. Scholtenstraat,2,,
-9403AK,W.A. Scholtenstraat,10,,
-9403AK,W.A. Scholtenstraat,12,,
-9403AK,W.A. Scholtenstraat,16,A,
-9403AK,W.A. Scholtenstraat,16,,
-9403AK,W.A. Scholtenstraat,18,,
-9403AK,W.A. Scholtenstraat,20,,
-9403AK,W.A. Scholtenstraat,22,,
-9403AK,W.A. Scholtenstraat,30,,
-9403AK,W.A. Scholtenstraat,32,,
-9403AK,W.A. Scholtenstraat,34,,
-9403AK,W.A. Scholtenstraat,36,,
-9403AK,W.A. Scholtenstraat,40,,
-9403AP,A.H.G. Fokkerstraat,18,F,
-9403AP,A.H.G. Fokkerstraat,16,A,
-9403AP,A.H.G. Fokkerstraat,18,H,
-9403AP,A.H.G. Fokkerstraat,24,,
-9403AP,A.H.G. Fokkerstraat,24,B,
-9403AP,A.H.G. Fokkerstraat,36,,
-9403AP,A.H.G. Fokkerstraat,36,A,
-9403AP,A.H.G. Fokkerstraat,18,N,
-9403AP,A.H.G. Fokkerstraat,30,,
-9403AP,A.H.G. Fokkerstraat,30,,
-9403AP,A.H.G. Fokkerstraat,30,A,
-9403AP,A.H.G. Fokkerstraat,20,,
-9403AP,A.H.G. Fokkerstraat,24,,
-9403AP,A.H.G. Fokkerstraat,18,G,
-9403AP,A.H.G. Fokkerstraat,18,F,
-9403BC,Europaweg-Noord,3,A,
-9403BC,Europaweg-Noord,7,A,
-9403BC,Europaweg-Noord,7,B,
-9403BC,Europaweg-Noord,7,C,
-9403BC,Europaweg-Noord,7,D,
-9403BC,Europaweg-Noord,7,E,
-9403AB,Industrieweg,30,A,
-9403AB,Industrieweg,38,B,
-9403AB,Industrieweg,24,,
-9403AB,Industrieweg,44,A,
-9403AB,Industrieweg,46,,
-9403AB,Industrieweg,38,,
-9403AB,Industrieweg,38,A,1
-9403AB,Industrieweg,30,,
-9403AB,Industrieweg,26,,
-9403AL,Plesmanstraat,2,A,
-9403AL,Plesmanstraat,2,,
-9403BD,van Hobokenstraat,3,,
-9403BG,Wenkebachstraat,6,B,
-9403AJ,W.A. Scholtenstraat,13,,
-9403AJ,W.A. Scholtenstraat,27,,
-9403AJ,W.A. Scholtenstraat,3,,
-9403AJ,W.A. Scholtenstraat,3,A,
-9403AJ,W.A. Scholtenstraat,3,,
-9403AK,W.A. Scholtenstraat,6,,
-9403AK,W.A. Scholtenstraat,14,,
-9403AK,W.A. Scholtenstraat,24,,
-9403AK,W.A. Scholtenstraat,22,,
-9403AK,W.A. Scholtenstraat,26,,
-9403AK,W.A. Scholtenstraat,26,A,
-9403AK,W.A. Scholtenstraat,26,B,
-9403AK,W.A. Scholtenstraat,26,C,
-9403AK,W.A. Scholtenstraat,26,D,
-9403AK,W.A. Scholtenstraat,26,E,
-9403AK,W.A. Scholtenstraat,26,F,
-9403AK,W.A. Scholtenstraat,26,G,
-9403AK,W.A. Scholtenstraat,26,H,
-9403AK,W.A. Scholtenstraat,26,J,
-9403AK,W.A. Scholtenstraat,26,K,
-9403AK,W.A. Scholtenstraat,26,L,
-9403AK,W.A. Scholtenstraat,26,M,
-9403AK,W.A. Scholtenstraat,38,,
-9403AP,A.H.G. Fokkerstraat,10,,
-9403AP,A.H.G. Fokkerstraat,10,A,
-9403BC,Europaweg-Noord,7,B,
-9403AL,Plesmanstraat,2,,
-9403AL,Plesmanstraat,2,A,
-9403BG,Wenkebachstraat,14,,
-9403BG,Wenkebachstraat,14,,
-9403AJ,W.A. Scholtenstraat,7,B,
-9403AJ,W.A. Scholtenstraat,7,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,A,"",9403AB,Assen
+Industrieweg,24,A,"",9403AB,Assen
+Industrieweg,26,"","",9403AB,Assen
+Industrieweg,26,"","",9403AB,Assen
+Industrieweg,26,"","",9403AB,Assen
+Industrieweg,26,A,"",9403AB,Assen
+Industrieweg,28,"","",9403AB,Assen
+Industrieweg,28,A,"",9403AB,Assen
+Industrieweg,30,"","",9403AB,Assen
+Industrieweg,30,"","",9403AB,Assen
+Industrieweg,30,"","",9403AB,Assen
+Industrieweg,30,A,"",9403AB,Assen
+Industrieweg,30,A,"",9403AB,Assen
+Industrieweg,30,B,"",9403AB,Assen
+Industrieweg,30,B,"",9403AB,Assen
+Industrieweg,30,C,"",9403AB,Assen
+Industrieweg,30,C,"",9403AB,Assen
+Industrieweg,32,"","",9403AB,Assen
+Industrieweg,32,A,"",9403AB,Assen
+Industrieweg,34,"","",9403AB,Assen
+Industrieweg,34,A,"",9403AB,Assen
+Industrieweg,36,"","",9403AB,Assen
+Industrieweg,36,A,"",9403AB,Assen
+Industrieweg,36,C,"",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,A,"",9403AB,Assen
+Industrieweg,38,A,1,9403AB,Assen
+Industrieweg,38,B,"",9403AB,Assen
+Industrieweg,40,"","",9403AB,Assen
+Industrieweg,42,"","",9403AB,Assen
+Industrieweg,44,"","",9403AB,Assen
+Industrieweg,44,A,"",9403AB,Assen
+Industrieweg,46,"","",9403AB,Assen
+Industrieweg,46,"","",9403AB,Assen
+Industrieweg,46,"","",9403AB,Assen
+Industrieweg,46,A,"",9403AB,Assen
+W.A. Scholtenstraat,11,"","",9403AJ,Assen
+W.A. Scholtenstraat,13,"","",9403AJ,Assen
+W.A. Scholtenstraat,13,"","",9403AJ,Assen
+W.A. Scholtenstraat,15,"","",9403AJ,Assen
+W.A. Scholtenstraat,15,A,"",9403AJ,Assen
+W.A. Scholtenstraat,17,"","",9403AJ,Assen
+W.A. Scholtenstraat,19,"","",9403AJ,Assen
+W.A. Scholtenstraat,21,"","",9403AJ,Assen
+W.A. Scholtenstraat,23,"","",9403AJ,Assen
+W.A. Scholtenstraat,25,"","",9403AJ,Assen
+W.A. Scholtenstraat,27,"","",9403AJ,Assen
+W.A. Scholtenstraat,29,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,A,"",9403AJ,Assen
+W.A. Scholtenstraat,3,B,"",9403AJ,Assen
+W.A. Scholtenstraat,3,C,"",9403AJ,Assen
+W.A. Scholtenstraat,3,C,"",9403AJ,Assen
+W.A. Scholtenstraat,3,E,"",9403AJ,Assen
+W.A. Scholtenstraat,3,F,"",9403AJ,Assen
+W.A. Scholtenstraat,3,G,"",9403AJ,Assen
+W.A. Scholtenstraat,3,G,"",9403AJ,Assen
+W.A. Scholtenstraat,3,H,"",9403AJ,Assen
+W.A. Scholtenstraat,3,K,"",9403AJ,Assen
+W.A. Scholtenstraat,3,M,"",9403AJ,Assen
+W.A. Scholtenstraat,7,"","",9403AJ,Assen
+W.A. Scholtenstraat,7,B,"",9403AJ,Assen
+W.A. Scholtenstraat,7,C,"",9403AJ,Assen
+W.A. Scholtenstraat,9,"","",9403AJ,Assen
+W.A. Scholtenstraat,9,A,"",9403AJ,Assen
+W.A. Scholtenstraat,9,B,"",9403AJ,Assen
+W.A. Scholtenstraat,9,C,"",9403AJ,Assen
+W.A. Scholtenstraat,9,D,"",9403AJ,Assen
+W.A. Scholtenstraat,9,E,"",9403AJ,Assen
+W.A. Scholtenstraat,9,F,"",9403AJ,Assen
+W.A. Scholtenstraat,9,G,"",9403AJ,Assen
+W.A. Scholtenstraat,9,H,"",9403AJ,Assen
+W.A. Scholtenstraat,9,H,"",9403AJ,Assen
+W.A. Scholtenstraat,9,I,"",9403AJ,Assen
+W.A. Scholtenstraat,9,J,"",9403AJ,Assen
+W.A. Scholtenstraat,10,"","",9403AK,Assen
+W.A. Scholtenstraat,12,"","",9403AK,Assen
+W.A. Scholtenstraat,14,"","",9403AK,Assen
+W.A. Scholtenstraat,14,"","",9403AK,Assen
+W.A. Scholtenstraat,16,"","",9403AK,Assen
+W.A. Scholtenstraat,16,A,"",9403AK,Assen
+W.A. Scholtenstraat,16,A,"",9403AK,Assen
+W.A. Scholtenstraat,18,"","",9403AK,Assen
+W.A. Scholtenstraat,2,"","",9403AK,Assen
+W.A. Scholtenstraat,20,"","",9403AK,Assen
+W.A. Scholtenstraat,22,"","",9403AK,Assen
+W.A. Scholtenstraat,22,"","",9403AK,Assen
+W.A. Scholtenstraat,22,"","",9403AK,Assen
+W.A. Scholtenstraat,24,"","",9403AK,Assen
+W.A. Scholtenstraat,24,"","",9403AK,Assen
+W.A. Scholtenstraat,26,"","",9403AK,Assen
+W.A. Scholtenstraat,26,A,"",9403AK,Assen
+W.A. Scholtenstraat,26,B,"",9403AK,Assen
+W.A. Scholtenstraat,26,C,"",9403AK,Assen
+W.A. Scholtenstraat,26,D,"",9403AK,Assen
+W.A. Scholtenstraat,26,E,"",9403AK,Assen
+W.A. Scholtenstraat,26,F,"",9403AK,Assen
+W.A. Scholtenstraat,26,G,"",9403AK,Assen
+W.A. Scholtenstraat,26,H,"",9403AK,Assen
+W.A. Scholtenstraat,26,J,"",9403AK,Assen
+W.A. Scholtenstraat,26,K,"",9403AK,Assen
+W.A. Scholtenstraat,26,L,"",9403AK,Assen
+W.A. Scholtenstraat,26,M,"",9403AK,Assen
+W.A. Scholtenstraat,30,"","",9403AK,Assen
+W.A. Scholtenstraat,32,"","",9403AK,Assen
+W.A. Scholtenstraat,34,"","",9403AK,Assen
+W.A. Scholtenstraat,36,"","",9403AK,Assen
+W.A. Scholtenstraat,38,"","",9403AK,Assen
+W.A. Scholtenstraat,40,"","",9403AK,Assen
+W.A. Scholtenstraat,40,"","",9403AK,Assen
+W.A. Scholtenstraat,6,"","",9403AK,Assen
+Plesmanstraat,2,"","",9403AL,Assen
+Plesmanstraat,2,"","",9403AL,Assen
+Plesmanstraat,2,"","",9403AL,Assen
+Plesmanstraat,2,"","",9403AL,Assen
+Plesmanstraat,2,"","",9403AL,Assen
+Plesmanstraat,2,A,"",9403AL,Assen
+Plesmanstraat,2,A,"",9403AL,Assen
+Plesmanstraat,2,A,"",9403AL,Assen
+A.H.G. Fokkerstraat,10,"","",9403AP,Assen
+A.H.G. Fokkerstraat,10,"","",9403AP,Assen
+A.H.G. Fokkerstraat,10,"","",9403AP,Assen
+A.H.G. Fokkerstraat,10,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,12,"","",9403AP,Assen
+A.H.G. Fokkerstraat,14,"","",9403AP,Assen
+A.H.G. Fokkerstraat,16,"","",9403AP,Assen
+A.H.G. Fokkerstraat,16,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,"","",9403AP,Assen
+A.H.G. Fokkerstraat,18,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,B,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,C,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,D,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,F,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,F,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,F,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,F,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,F,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,G,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,G,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,G,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,H,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,H,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,H,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,I,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,J,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,K,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,L,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,M,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,N,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,N,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,N,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,O,"",9403AP,Assen
+A.H.G. Fokkerstraat,18,O,"",9403AP,Assen
+A.H.G. Fokkerstraat,20,"","",9403AP,Assen
+A.H.G. Fokkerstraat,20,"","",9403AP,Assen
+A.H.G. Fokkerstraat,20,"","",9403AP,Assen
+A.H.G. Fokkerstraat,22,"","",9403AP,Assen
+A.H.G. Fokkerstraat,22,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,24,"","",9403AP,Assen
+A.H.G. Fokkerstraat,24,"","",9403AP,Assen
+A.H.G. Fokkerstraat,24,"","",9403AP,Assen
+A.H.G. Fokkerstraat,24,"","",9403AP,Assen
+A.H.G. Fokkerstraat,24,"","",9403AP,Assen
+A.H.G. Fokkerstraat,24,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,24,B,"",9403AP,Assen
+A.H.G. Fokkerstraat,24,B,"",9403AP,Assen
+A.H.G. Fokkerstraat,26,"","",9403AP,Assen
+A.H.G. Fokkerstraat,26,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,28,"","",9403AP,Assen
+A.H.G. Fokkerstraat,30,"","",9403AP,Assen
+A.H.G. Fokkerstraat,30,"","",9403AP,Assen
+A.H.G. Fokkerstraat,30,"","",9403AP,Assen
+A.H.G. Fokkerstraat,30,"","",9403AP,Assen
+A.H.G. Fokkerstraat,30,"","",9403AP,Assen
+A.H.G. Fokkerstraat,30,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,30,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,30,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,32,"","",9403AP,Assen
+A.H.G. Fokkerstraat,34,"","",9403AP,Assen
+A.H.G. Fokkerstraat,36,"","",9403AP,Assen
+A.H.G. Fokkerstraat,36,"","",9403AP,Assen
+A.H.G. Fokkerstraat,36,"","",9403AP,Assen
+A.H.G. Fokkerstraat,36,A,"",9403AP,Assen
+A.H.G. Fokkerstraat,38,"","",9403AP,Assen
+A.H.G. Fokkerstraat,8,"","",9403AP,Assen
+Europaweg-Noord,1,"","",9403BC,Assen
+Europaweg-Noord,1,A,"",9403BC,Assen
+Europaweg-Noord,3,"","",9403BC,Assen
+Europaweg-Noord,3,A,"",9403BC,Assen
+Europaweg-Noord,5,"","",9403BC,Assen
+Europaweg-Noord,7,"","",9403BC,Assen
+Europaweg-Noord,7,"","",9403BC,Assen
+Europaweg-Noord,7,A,"",9403BC,Assen
+Europaweg-Noord,7,A,"",9403BC,Assen
+Europaweg-Noord,7,B,"",9403BC,Assen
+Europaweg-Noord,7,C,"",9403BC,Assen
+Europaweg-Noord,7,D,"",9403BC,Assen
+Europaweg-Noord,7,E,"",9403BC,Assen
+Europaweg-Noord,7,F,"",9403BC,Assen
+van Hobokenstraat,3,"","",9403BD,Assen
+van Hobokenstraat,6,"","",9403BD,Assen
+van Hobokenstraat,6,A,"",9403BD,Assen
+Wenkebachstraat,1,"","",9403BG,Assen
+Wenkebachstraat,10,"","",9403BG,Assen
+Wenkebachstraat,11,"","",9403BG,Assen
+Wenkebachstraat,11,A,"",9403BG,Assen
+Wenkebachstraat,12,"","",9403BG,Assen
+Wenkebachstraat,13,"","",9403BG,Assen
+Wenkebachstraat,14,"","",9403BG,Assen
+Wenkebachstraat,14,"","",9403BG,Assen
+Wenkebachstraat,14,"","",9403BG,Assen
+Wenkebachstraat,14,"","",9403BG,Assen
+Wenkebachstraat,2,"","",9403BG,Assen
+Wenkebachstraat,2,"","",9403BG,Assen
+Wenkebachstraat,3,"","",9403BG,Assen
+Wenkebachstraat,4,"","",9403BG,Assen
+Wenkebachstraat,5,"","",9403BG,Assen
+Wenkebachstraat,5,A,"",9403BG,Assen
+Wenkebachstraat,6,"","",9403BG,Assen
+Wenkebachstraat,6,A,"",9403BG,Assen
+Wenkebachstraat,6,B,"",9403BG,Assen
+Wenkebachstraat,8,"","",9403BG,Assen
+Wenkebachstraat,9,"","",9403BG,Assen
+Wenkebachstraat,9,"","",9403BG,Assen

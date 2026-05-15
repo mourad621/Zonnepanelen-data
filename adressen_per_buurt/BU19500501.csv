@@ -1,93 +1,93 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9545TS",3,"",""
-"9545TS",13,"","TRAF"
-"9545TS",1,"",""
-"9545TS",25,"",""
-"9545TS",11,"",""
-"9545TS",9,"",""
-"9545TS",27,"",""
-"9545TS",15,"",""
-"9545TS",23,"",""
-"9545TS",17,"",""
-"9545TS",5,"",""
-"9545TS",13,"",""
-"9545TT",22,"",""
-"9545TT",16,"",""
-"9545TT",26,"",""
-"9545TT",20,"",""
-"9545TT",4,"",""
-"9545TT",18,"",""
-"9545TT",18,"",""
-"9545TT",24,"",""
-"9545TV",27,"",""
-"9545TV",2,"",""
-"9545TV",25,"",""
-"9545TV",23,"",""
-"9545TV",7,"",""
-"9545TV",15,"",""
-"9545TV",4,"",""
-"9545TV",13,"","BEDR"
-"9545TV",24,"",""
-"9545TV",1,"",""
-"9545TV",21,"",""
-"9545TV",16,"",""
-"9545TV",17,"",""
-"9545TV",5,"",""
-"9545TV",11,"",""
-"9545TV",29,"",""
-"9545TV",13,"",""
-"9545TV",22,"",""
-"9545TV",9,"",""
-"9545TW",1,"",""
-"9545TW",4,"",""
-"9545TW",6,"",""
-"9545TW",2,"",""
-"9545TW",9,"",""
-"9545TW",7,"",""
-9545TV,1e Pallertweg,1,,
-9545TV,1e Pallertweg,2,,
-9545TV,1e Pallertweg,4,,
-9545TV,1e Pallertweg,5,,
-9545TV,1e Pallertweg,7,,
-9545TV,1e Pallertweg,9,,
-9545TV,1e Pallertweg,11,,
-9545TV,1e Pallertweg,13,,BEDR
-9545TV,1e Pallertweg,13,,
-9545TV,1e Pallertweg,15,,
-9545TV,1e Pallertweg,16,,
-9545TV,1e Pallertweg,17,,
-9545TV,1e Pallertweg,21,,
-9545TV,1e Pallertweg,22,,
-9545TV,1e Pallertweg,23,,
-9545TV,1e Pallertweg,24,,
-9545TV,1e Pallertweg,25,,
-9545TV,1e Pallertweg,27,,
-9545TW,2e Pallertweg,1,,
-9545TW,2e Pallertweg,2,,
-9545TW,2e Pallertweg,4,,
-9545TW,2e Pallertweg,6,,
-9545TW,2e Pallertweg,7,,
-9545TW,2e Pallertweg,9,,
-9545TV,1e Pallertweg,29,,
-9545TS,Zodenpandweg,1,,
-9545TS,Zodenpandweg,3,,
-9545TS,Zodenpandweg,9,,
-9545TS,Zodenpandweg,11,,
-9545TS,Zodenpandweg,13,,
-9545TS,Zodenpandweg,13,,TRAF
-9545TS,Zodenpandweg,15,,
-9545TS,Zodenpandweg,17,,
-9545TS,Zodenpandweg,23,,
-9545TS,Zodenpandweg,25,,
-9545TS,Zodenpandweg,27,,
-9545TS,Zodenpandweg,5,,
-9545TT,Zodenpandweg,4,,
-9545TT,Zodenpandweg,16,,
-9545TT,Zodenpandweg,18,,
-9545TT,Zodenpandweg,20,,
-9545TT,Zodenpandweg,22,,
-9545TT,Zodenpandweg,24,,
-9545TT,Zodenpandweg,26,,
-9545TV,1e Pallertweg,2,a,
-9545TS,Zodenpandweg,13,a,
-9545TT,Zodenpandweg,18,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zodenpandweg,1,"","",9545TS,Bourtange
+Zodenpandweg,11,"","",9545TS,Bourtange
+Zodenpandweg,13,"","",9545TS,Bourtange
+Zodenpandweg,13,"",TRAF,9545TS,Bourtange
+Zodenpandweg,15,"","",9545TS,Bourtange
+Zodenpandweg,17,"","",9545TS,Bourtange
+Zodenpandweg,23,"","",9545TS,Bourtange
+Zodenpandweg,25,"","",9545TS,Bourtange
+Zodenpandweg,27,"","",9545TS,Bourtange
+Zodenpandweg,3,"","",9545TS,Bourtange
+Zodenpandweg,5,"","",9545TS,Bourtange
+Zodenpandweg,9,"","",9545TS,Bourtange
+"",ZODENPANDWEG,1,"",9545TS,
+"",ZODENPANDWEG,11,"",9545TS,
+"",ZODENPANDWEG,13,"",9545TS,
+"",ZODENPANDWEG,13,"",9545TS,
+"",ZODENPANDWEG,13,A,9545TS,
+"",ZODENPANDWEG,15,"",9545TS,
+"",ZODENPANDWEG,17,"",9545TS,
+"",ZODENPANDWEG,23,"",9545TS,
+"",ZODENPANDWEG,25,"",9545TS,
+"",ZODENPANDWEG,27,"",9545TS,
+"",ZODENPANDWEG,3,"",9545TS,
+"",ZODENPANDWEG,5,"",9545TS,
+"",ZODENPANDWEG,9,"",9545TS,
+Zodenpandweg,16,"","",9545TT,Bourtange
+Zodenpandweg,18,"","",9545TT,Bourtange
+Zodenpandweg,18,"","",9545TT,Bourtange
+Zodenpandweg,20,"","",9545TT,Bourtange
+Zodenpandweg,22,"","",9545TT,Bourtange
+Zodenpandweg,24,"","",9545TT,Bourtange
+Zodenpandweg,26,"","",9545TT,Bourtange
+Zodenpandweg,4,"","",9545TT,Bourtange
+"",ZODENPANDWEG,16,"",9545TT,
+"",ZODENPANDWEG,18,"",9545TT,
+"",ZODENPANDWEG,18,"",9545TT,
+"",ZODENPANDWEG,20,"",9545TT,
+"",ZODENPANDWEG,22,"",9545TT,
+"",ZODENPANDWEG,24,"",9545TT,
+"",ZODENPANDWEG,26,"",9545TT,
+"",ZODENPANDWEG,4,"",9545TT,
+1e Pallertweg,1,"","",9545TV,Bourtange
+1e Pallertweg,11,"","",9545TV,Bourtange
+1e Pallertweg,13,"","",9545TV,Bourtange
+1e Pallertweg,13,"",BEDR,9545TV,Bourtange
+1e Pallertweg,15,"","",9545TV,Bourtange
+1e Pallertweg,16,"","",9545TV,Bourtange
+1e Pallertweg,17,"","",9545TV,Bourtange
+"",1E PALLERTWEG,1,"",9545TV,
+"",1E PALLERTWEG,11,"",9545TV,
+"",1E PALLERTWEG,13,"",9545TV,
+"",1E PALLERTWEG,13,"",9545TV,
+"",1E PALLERTWEG,15,"",9545TV,
+"",1E PALLERTWEG,16,"",9545TV,
+"",1E PALLERTWEG,17,"",9545TV,
+"",1E PALLERTWEG,2,"",9545TV,
+"",1E PALLERTWEG,2,A,9545TV,
+"",1E PALLERTWEG,21,"",9545TV,
+"",1E PALLERTWEG,22,"",9545TV,
+"",1E PALLERTWEG,23,"",9545TV,
+"",1E PALLERTWEG,24,"",9545TV,
+"",1E PALLERTWEG,25,"",9545TV,
+"",1E PALLERTWEG,27,"",9545TV,
+"",1E PALLERTWEG,29,"",9545TV,
+"",1E PALLERTWEG,4,"",9545TV,
+"",1E PALLERTWEG,5,"",9545TV,
+"",1E PALLERTWEG,7,"",9545TV,
+"",1E PALLERTWEG,9,"",9545TV,
+1e Pallertweg,2,"","",9545TV,Bourtange
+1e Pallertweg,21,"","",9545TV,Bourtange
+1e Pallertweg,22,"","",9545TV,Bourtange
+1e Pallertweg,23,"","",9545TV,Bourtange
+1e Pallertweg,24,"","",9545TV,Bourtange
+1e Pallertweg,25,"","",9545TV,Bourtange
+1e Pallertweg,27,"","",9545TV,Bourtange
+1e Pallertweg,29,"","",9545TV,Bourtange
+1e Pallertweg,4,"","",9545TV,Bourtange
+1e Pallertweg,5,"","",9545TV,Bourtange
+1e Pallertweg,7,"","",9545TV,Bourtange
+1e Pallertweg,9,"","",9545TV,Bourtange
+2e Pallertweg,1,"","",9545TW,Bourtange
+2e Pallertweg,2,"","",9545TW,Bourtange
+"",2E PALLERTWEG,1,"",9545TW,
+"",2E PALLERTWEG,2,"",9545TW,
+"",2E PALLERTWEG,4,"",9545TW,
+"",2E PALLERTWEG,6,"",9545TW,
+"",2E PALLERTWEG,7,"",9545TW,
+"",2E PALLERTWEG,9,"",9545TW,
+2e Pallertweg,4,"","",9545TW,Bourtange
+2e Pallertweg,6,"","",9545TW,Bourtange
+2e Pallertweg,7,"","",9545TW,Bourtange
+2e Pallertweg,9,"","",9545TW,Bourtange

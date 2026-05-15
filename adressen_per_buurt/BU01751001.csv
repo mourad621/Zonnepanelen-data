@@ -1,304 +1,160 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7739PA",1,"a",""
-"7739PA",23,"",""
-"7739PA",25,"",""
-"7739PA",1,"",""
-"7739PA",7,"a",""
-"7739PA",19,"b",""
-"7739PA",3,"",""
-"7739PA",7,"",""
-"7739PA",5,"",""
-"7739PA",19,"a",""
-"7739PA",11,"",""
-"7739PA",21,"",""
-"7739PA",9,"a",""
-"7739PA",35,"",""
-"7739PA",19,"",""
-"7739PA",39,"",""
-"7739PA",39,"a",""
-"7739PA",9,"",""
-"7739PA",41,"",""
-"7739PA",31,"",""
-"7739PA",27,"",""
-"7739PA",37,"",""
-"7739PA",29,"",""
-"7739PA",13,"",""
-"7739PB",22,"",""
-"7739PB",8,"",""
-"7739PB",6,"",""
-"7739PB",16,"",""
-"7739PB",12,"",""
-"7739PB",16,"",""
-"7739PB",4,"",""
-"7739PB",38,"",""
-"7739PB",42,"",""
-"7739PB",2,"",""
-"7739PB",40,"",""
-"7739PB",18,"",""
-"7739PB",14,"",""
-"7739PB",20,"",""
-"7739PB",24,"",""
-"7739PB",16,"",""
-"7739PB",44,"a",""
-"7739PB",46,"",""
-"7739PB",16,"",""
-"7739PB",44,"",""
-"7739PB",16,"",""
-"7739PB",22,"a",""
-"7739PC",58,"",""
-"7739PC",54,"",""
-"7739PC",52,"",""
-"7739PC",60,"",""
-"7739PC",48,"",""
-"7739PC",56,"",""
-"7739PC",60,"a",""
-"7739PC",50,"",""
-"7739PD",1,"b",""
-"7739PD",1,"a",""
-"7739PD",1,"",""
-"7739PD",4,"",""
-"7739PD",2,"",""
-"7739PD",1,"b",""
-"7739PE",12,"",""
-"7739PE",9,"",""
-"7739PE",10,"",""
-"7739PE",11,"",""
-"7739PE",10,"a",""
-"7739PE",11,"B",""
-"7739PH",26,"",""
-"7739PH",12,"",""
-"7739PH",18,"",""
-"7739PH",18,"c",""
-"7739PH",18,"",""
-"7739PH",18,"b",""
-"7739PH",22,"",""
-"7739PH",28,"",""
-"7739PH",18,"c",""
-"7739PH",18,"b",""
-"7739PH",18,"a",""
-"7739PH",24,"",""
-"7739PH",18,"b",""
-"7739PH",18,"c",""
-"7739PH",12,"b",""
-"7739PH",20,"",""
-"7739PH",14,"",""
-"7739PH",18,"",""
-"7739PJ",2,"b",""
-"7739PJ",3,"a",""
-"7739PJ",1,"",""
-"7739PJ",2,"",""
-"7739PJ",2,"b",""
-"7739PJ",3,"",""
-"7739PK",12,"",""
-"7739PK",10,"",""
-"7739PK",12,"",""
-"7739PK",11,"",""
-"7739PK",8,"",""
-"7739PK",5,"",""
-"7739PK",4,"",""
-"7739PK",6,"",""
-"7739PK",16,"",""
-"7739PK",1,"",""
-"7739PK",15,"",""
-"7739PK",14,"",""
-"7739PK",13,"b",""
-"7739PK",13,"b",""
-"7739PK",9,"",""
-"7739PK",13,"",""
-"7739PL",2,"d",""
-"7739PL",2,"",""
-"7739PL",10,"",""
-"7739PL",3,"",""
-"7739PL",2,"c",""
-"7739PL",1,"",""
-"7739PL",2,"b",""
-"7739PL",8,"",""
-"7739PL",2,"a",""
-"7739PL",3,"b",""
-"7739PL",12,"",""
-"7739PL",2,"b",""
-"7739PM",1,"",""
-"7739PM",2,"",""
-"7739PM",3,"",""
-"7739PN",9,"",""
-"7739PN",12,"b",""
-"7739PN",12,"b",""
-"7739PN",12,"a",""
-"7739PN",10,"",""
-"7739PN",13,"",""
-"7739PN",8,"",""
-"7739PN",12,"c",""
-"7739PN",11,"",""
-"7739PN",16,"",""
-"7739PN",4,"",""
-"7739PN",10,"",""
-"7739PN",12,"c",""
-"7739PN",10,"",""
-"7739PN",12,"",""
-"7739PN",10,"",""
-"7739PN",6,"",""
-"7739PN",14,"",""
-"7739RA",11,"",""
-"7739RA",10,"b",""
-"7739RA",12,"",""
-"7739RA",11,"b",""
-"7739RA",10,"b",""
-"7739RA",12,"a",""
-"7739RA",13,"",""
-"7739RA",11,"b",""
-"7739RA",14,"",""
-"7739RA",10,"a",""
-"7739RC",2,"",""
-"7739RC",3,"",""
-"7739RC",8,"",""
-"7739RC",5,"",""
-"7739RC",2,"b",""
-"7739RC",7,"",""
-"7739RC",6,"a",""
-"7739RC",6,"",""
-"7739RC",1,"",""
-"7739RC",4,"",""
-7739PA,Koloniedijk,1,,
-7739PA,Koloniedijk,1,a,
-7739PA,Koloniedijk,3,,
-7739PA,Koloniedijk,5,,
-7739PA,Koloniedijk,7,,
-7739PA,Koloniedijk,9,,
-7739PA,Koloniedijk,9,a,
-7739PA,Koloniedijk,11,,
-7739PA,Koloniedijk,13,,
-7739PA,Koloniedijk,19,a,
-7739PA,Koloniedijk,19,,
-7739PA,Koloniedijk,21,,
-7739PA,Koloniedijk,23,,
-7739PA,Koloniedijk,25,,
-7739PA,Koloniedijk,27,,
-7739PA,Koloniedijk,29,,
-7739PA,Koloniedijk,31,,
-7739PA,Koloniedijk,35,,
-7739PA,Koloniedijk,37,,
-7739PA,Koloniedijk,39,,
-7739PA,Koloniedijk,39,a,
-7739PA,Koloniedijk,41,,
-7739PA,Koloniedijk,19,b,
-7739PB,Koloniedijk,2,,
-7739PB,Koloniedijk,4,,
-7739PB,Koloniedijk,6,,
-7739PB,Koloniedijk,8,,
-7739PB,Koloniedijk,12,,
-7739PB,Koloniedijk,14,,
-7739PB,Koloniedijk,16,,
-7739PB,Koloniedijk,18,,
-7739PB,Koloniedijk,20,,
-7739PB,Koloniedijk,22,a,
-7739PB,Koloniedijk,22,,
-7739PB,Koloniedijk,24,,
-7739PB,Koloniedijk,38,,
-7739PB,Koloniedijk,40,,
-7739PB,Koloniedijk,42,,
-7739PB,Koloniedijk,44,,
-7739PB,Koloniedijk,44,a,
-7739PB,Koloniedijk,46,,
-7739PC,Koloniedijk,60,a,
-7739PC,Koloniedijk,48,,
-7739PC,Koloniedijk,50,,
-7739PC,Koloniedijk,52,,
-7739PC,Koloniedijk,54,,
-7739PC,Koloniedijk,56,,
-7739PC,Koloniedijk,58,,
-7739PC,Koloniedijk,60,,
-7739PD,Marsmanweg,1,b,
-7739PD,Marsmanweg,1,,
-7739PD,Marsmanweg,2,,
-7739PD,Marsmanweg,4,,
-7739RC,Middenweg,2,b,
-7739RC,Middenweg,1,,
-7739RC,Middenweg,2,,
-7739RC,Middenweg,3,,
-7739RC,Middenweg,4,,
-7739RC,Middenweg,5,,
-7739RC,Middenweg,6,,
-7739RC,Middenweg,6,a,
-7739RC,Middenweg,7,,
-7739RC,Middenweg,8,,
-7739PK,Nieuweweg,13,b,
-7739PK,Nieuweweg,1,,
-7739PK,Nieuweweg,4,,
-7739PK,Nieuweweg,6,,
-7739PK,Nieuweweg,8,,
-7739PK,Nieuweweg,9,,
-7739PK,Nieuweweg,10,,
-7739PK,Nieuweweg,11,,
-7739PK,Nieuweweg,12,,
-7739PK,Nieuweweg,13,,
-7739PK,Nieuweweg,14,,
-7739PK,Nieuweweg,15,,
-7739PK,Nieuweweg,16,,
-7739PL,Oude Zwolseweg,3,b,
-7739PL,Oude Zwolseweg,1,,
-7739PL,Oude Zwolseweg,2,,
-7739PL,Oude Zwolseweg,2,a,
-7739PL,Oude Zwolseweg,3,,
-7739PL,Oude Zwolseweg,12,,
-7739PL,Oude Zwolseweg,10,,
-7739PL,Oude Zwolseweg,2,b,
-7739PL,Oude Zwolseweg,2,b,
-7739PJ,Bijkersweg,2,b,
-7739PJ,Bijkersweg,1,,
-7739PJ,Bijkersweg,2,,
-7739PJ,Bijkersweg,3,,
-7739PJ,Bijkersweg,3,a,
-7739PH,de Stouwe,12,b,
-7739PH,de Stouwe,12,,
-7739PH,de Stouwe,14,,
-7739PH,de Stouwe,18,,
-7739PH,de Stouwe,18,a,
-7739PH,de Stouwe,20,,
-7739PH,de Stouwe,22,,
-7739PH,de Stouwe,24,,
-7739PH,de Stouwe,26,,
-7739PH,de Stouwe,28,,
-7739PM,Prinsenweg,1,,
-7739PM,Prinsenweg,2,,
-7739PM,Prinsenweg,3,,
-7739PE,Woestendijk,9,,
-7739PE,Woestendijk,10,,
-7739PE,Woestendijk,11,,
-7739PE,Woestendijk,12,,
-7739PE,Woestendijk,10,a,
-7739PE,Woestendijk,11,B,
-7739RA,Woestenweg,11,b,
-7739RA,Woestenweg,10,b,
-7739RA,Woestenweg,10,a,
-7739RA,Woestenweg,11,,
-7739RA,Woestenweg,12,,
-7739RA,Woestenweg,12,a,
-7739RA,Woestenweg,13,,
-7739RA,Woestenweg,14,,
-7739PN,Zelhorstweg,12,c,
-7739PN,Zelhorstweg,11,,
-7739PN,Zelhorstweg,6,,
-7739PN,Zelhorstweg,8,,
-7739PN,Zelhorstweg,9,,
-7739PN,Zelhorstweg,10,,
-7739PN,Zelhorstweg,12,a,
-7739PN,Zelhorstweg,12,,
-7739PN,Zelhorstweg,13,,
-7739PN,Zelhorstweg,14,,
-7739PN,Zelhorstweg,16,,
-7739PN,Zelhorstweg,12,b,
-7739PA,Koloniedijk,7,a,
-7739PB,Koloniedijk,16,,
-7739PB,Koloniedijk,16,,
-7739PD,Marsmanweg,1,a,
-7739PK,Nieuweweg,5,,
-7739PL,Oude Zwolseweg,2,c,
-7739PL,Oude Zwolseweg,2,d,
-7739PL,Oude Zwolseweg,8,,
-7739PH,de Stouwe,18,,
-7739PH,de Stouwe,18,b,
-7739PH,de Stouwe,18,b,
-7739PH,de Stouwe,18,c,
-7739PH,de Stouwe,18,c,
-7739PN,Zelhorstweg,4,,
-7739PN,Zelhorstweg,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Koloniedijk,1,"","",7739PA,Vinkenbuurt
+Koloniedijk,1,A,"",7739PA,Vinkenbuurt
+Koloniedijk,11,"","",7739PA,Vinkenbuurt
+Koloniedijk,13,"","",7739PA,Vinkenbuurt
+Koloniedijk,19,"","",7739PA,Vinkenbuurt
+Koloniedijk,19,A,"",7739PA,Vinkenbuurt
+Koloniedijk,19,B,"",7739PA,Vinkenbuurt
+Koloniedijk,21,"","",7739PA,Vinkenbuurt
+Koloniedijk,23,"","",7739PA,Vinkenbuurt
+Koloniedijk,25,"","",7739PA,Vinkenbuurt
+Koloniedijk,27,"","",7739PA,Vinkenbuurt
+Koloniedijk,29,"","",7739PA,Vinkenbuurt
+Koloniedijk,3,"","",7739PA,Vinkenbuurt
+Koloniedijk,31,"","",7739PA,Vinkenbuurt
+Koloniedijk,35,"","",7739PA,Vinkenbuurt
+Koloniedijk,37,"","",7739PA,Vinkenbuurt
+Koloniedijk,39,"","",7739PA,Vinkenbuurt
+Koloniedijk,39,A,"",7739PA,Vinkenbuurt
+Koloniedijk,41,"","",7739PA,Vinkenbuurt
+Koloniedijk,5,"","",7739PA,Vinkenbuurt
+Koloniedijk,7,"","",7739PA,Vinkenbuurt
+Koloniedijk,7,A,"",7739PA,Vinkenbuurt
+Koloniedijk,9,"","",7739PA,Vinkenbuurt
+Koloniedijk,9,A,"",7739PA,Vinkenbuurt
+Koloniedijk,12,"","",7739PB,Vinkenbuurt
+Koloniedijk,14,"","",7739PB,Vinkenbuurt
+Koloniedijk,16,"","",7739PB,Vinkenbuurt
+Koloniedijk,16,"","",7739PB,Vinkenbuurt
+Koloniedijk,16,"","",7739PB,Vinkenbuurt
+Koloniedijk,16,"","",7739PB,Vinkenbuurt
+Koloniedijk,16,"","",7739PB,Vinkenbuurt
+Koloniedijk,18,"","",7739PB,Vinkenbuurt
+Koloniedijk,2,"","",7739PB,Vinkenbuurt
+Koloniedijk,20,"","",7739PB,Vinkenbuurt
+Koloniedijk,22,"","",7739PB,Vinkenbuurt
+Koloniedijk,22,A,"",7739PB,Vinkenbuurt
+Koloniedijk,24,"","",7739PB,Vinkenbuurt
+Koloniedijk,38,"","",7739PB,Vinkenbuurt
+Koloniedijk,4,"","",7739PB,Vinkenbuurt
+Koloniedijk,40,"","",7739PB,Vinkenbuurt
+Koloniedijk,42,"","",7739PB,Vinkenbuurt
+Koloniedijk,44,"","",7739PB,Vinkenbuurt
+Koloniedijk,44,A,"",7739PB,Vinkenbuurt
+Koloniedijk,46,"","",7739PB,Vinkenbuurt
+Koloniedijk,6,"","",7739PB,Vinkenbuurt
+Koloniedijk,8,"","",7739PB,Vinkenbuurt
+Koloniedijk,48,"","",7739PC,Vinkenbuurt
+Koloniedijk,50,"","",7739PC,Vinkenbuurt
+Koloniedijk,52,"","",7739PC,Vinkenbuurt
+Koloniedijk,54,"","",7739PC,Vinkenbuurt
+Koloniedijk,56,"","",7739PC,Vinkenbuurt
+Koloniedijk,58,"","",7739PC,Vinkenbuurt
+Koloniedijk,60,"","",7739PC,Vinkenbuurt
+Koloniedijk,60,A,"",7739PC,Vinkenbuurt
+Marsmanweg,1,"","",7739PD,Vinkenbuurt
+Marsmanweg,1,A,"",7739PD,Vinkenbuurt
+Marsmanweg,1,B,"",7739PD,Vinkenbuurt
+Marsmanweg,1,B,"",7739PD,Vinkenbuurt
+Marsmanweg,2,"","",7739PD,Vinkenbuurt
+Marsmanweg,4,"","",7739PD,Vinkenbuurt
+Woestendijk,10,"","",7739PE,Vinkenbuurt
+Woestendijk,10,A,"",7739PE,Vinkenbuurt
+Woestendijk,11,"","",7739PE,Vinkenbuurt
+Woestendijk,11,B,"",7739PE,Vinkenbuurt
+Woestendijk,12,"","",7739PE,Vinkenbuurt
+Woestendijk,9,"","",7739PE,Vinkenbuurt
+de Stouwe,12,"","",7739PH,Vinkenbuurt
+de Stouwe,12,B,"",7739PH,Vinkenbuurt
+de Stouwe,14,"","",7739PH,Vinkenbuurt
+de Stouwe,18,"","",7739PH,Vinkenbuurt
+de Stouwe,18,"","",7739PH,Vinkenbuurt
+de Stouwe,18,"","",7739PH,Vinkenbuurt
+de Stouwe,18,A,"",7739PH,Vinkenbuurt
+de Stouwe,18,B,"",7739PH,Vinkenbuurt
+de Stouwe,18,B,"",7739PH,Vinkenbuurt
+de Stouwe,18,B,"",7739PH,Vinkenbuurt
+de Stouwe,18,C,"",7739PH,Vinkenbuurt
+de Stouwe,18,C,"",7739PH,Vinkenbuurt
+de Stouwe,18,C,"",7739PH,Vinkenbuurt
+de Stouwe,20,"","",7739PH,Vinkenbuurt
+de Stouwe,22,"","",7739PH,Vinkenbuurt
+de Stouwe,24,"","",7739PH,Vinkenbuurt
+de Stouwe,26,"","",7739PH,Vinkenbuurt
+de Stouwe,28,"","",7739PH,Vinkenbuurt
+Bijkersweg,1,"","",7739PJ,Vinkenbuurt
+Bijkersweg,2,"","",7739PJ,Vinkenbuurt
+Bijkersweg,2,B,"",7739PJ,Vinkenbuurt
+Bijkersweg,2,B,"",7739PJ,Vinkenbuurt
+Bijkersweg,3,"","",7739PJ,Vinkenbuurt
+Bijkersweg,3,A,"",7739PJ,Vinkenbuurt
+Nieuweweg,1,"","",7739PK,Vinkenbuurt
+Nieuweweg,10,"","",7739PK,Vinkenbuurt
+Nieuweweg,11,"","",7739PK,Vinkenbuurt
+Nieuweweg,12,"","",7739PK,Vinkenbuurt
+Nieuweweg,12,"","",7739PK,Vinkenbuurt
+Nieuweweg,13,"","",7739PK,Vinkenbuurt
+Nieuweweg,13,B,"",7739PK,Vinkenbuurt
+Nieuweweg,13,B,"",7739PK,Vinkenbuurt
+Nieuweweg,14,"","",7739PK,Vinkenbuurt
+Nieuweweg,15,"","",7739PK,Vinkenbuurt
+Nieuweweg,16,"","",7739PK,Vinkenbuurt
+Nieuweweg,4,"","",7739PK,Vinkenbuurt
+Nieuweweg,5,"","",7739PK,Vinkenbuurt
+Nieuweweg,6,"","",7739PK,Vinkenbuurt
+Nieuweweg,8,"","",7739PK,Vinkenbuurt
+Nieuweweg,9,"","",7739PK,Vinkenbuurt
+Oude Zwolseweg,1,"","",7739PL,Vinkenbuurt
+Oude Zwolseweg,10,"","",7739PL,Vinkenbuurt
+Oude Zwolseweg,12,"","",7739PL,Vinkenbuurt
+Oude Zwolseweg,2,"","",7739PL,Vinkenbuurt
+Oude Zwolseweg,2,A,"",7739PL,Vinkenbuurt
+Oude Zwolseweg,2,B,"",7739PL,Vinkenbuurt
+Oude Zwolseweg,2,B,"",7739PL,Vinkenbuurt
+Oude Zwolseweg,2,C,"",7739PL,Vinkenbuurt
+Oude Zwolseweg,2,D,"",7739PL,Vinkenbuurt
+Oude Zwolseweg,3,"","",7739PL,Vinkenbuurt
+Oude Zwolseweg,3,B,"",7739PL,Vinkenbuurt
+Oude Zwolseweg,8,"","",7739PL,Vinkenbuurt
+Prinsenweg,1,"","",7739PM,Vinkenbuurt
+Prinsenweg,2,"","",7739PM,Vinkenbuurt
+Prinsenweg,3,"","",7739PM,Vinkenbuurt
+Zelhorstweg,10,"","",7739PN,Vinkenbuurt
+Zelhorstweg,10,"","",7739PN,Vinkenbuurt
+Zelhorstweg,10,"","",7739PN,Vinkenbuurt
+Zelhorstweg,10,"","",7739PN,Vinkenbuurt
+Zelhorstweg,11,"","",7739PN,Vinkenbuurt
+Zelhorstweg,12,"","",7739PN,Vinkenbuurt
+Zelhorstweg,12,A,"",7739PN,Vinkenbuurt
+Zelhorstweg,12,B,"",7739PN,Vinkenbuurt
+Zelhorstweg,12,B,"",7739PN,Vinkenbuurt
+Zelhorstweg,12,C,"",7739PN,Vinkenbuurt
+Zelhorstweg,12,C,"",7739PN,Vinkenbuurt
+Zelhorstweg,13,"","",7739PN,Vinkenbuurt
+Zelhorstweg,14,"","",7739PN,Vinkenbuurt
+Zelhorstweg,16,"","",7739PN,Vinkenbuurt
+Zelhorstweg,4,"","",7739PN,Vinkenbuurt
+Zelhorstweg,6,"","",7739PN,Vinkenbuurt
+Zelhorstweg,8,"","",7739PN,Vinkenbuurt
+Zelhorstweg,9,"","",7739PN,Vinkenbuurt
+Woestenweg,10,A,"",7739RA,Vinkenbuurt
+Woestenweg,10,B,"",7739RA,Vinkenbuurt
+Woestenweg,10,B,"",7739RA,Vinkenbuurt
+Woestenweg,11,"","",7739RA,Vinkenbuurt
+Woestenweg,11,B,"",7739RA,Vinkenbuurt
+Woestenweg,11,B,"",7739RA,Vinkenbuurt
+Woestenweg,12,"","",7739RA,Vinkenbuurt
+Woestenweg,12,A,"",7739RA,Vinkenbuurt
+Woestenweg,13,"","",7739RA,Vinkenbuurt
+Woestenweg,14,"","",7739RA,Vinkenbuurt
+Middenweg,1,"","",7739RC,Vinkenbuurt
+Middenweg,2,"","",7739RC,Vinkenbuurt
+Middenweg,2,B,"",7739RC,Vinkenbuurt
+Middenweg,3,"","",7739RC,Vinkenbuurt
+Middenweg,4,"","",7739RC,Vinkenbuurt
+Middenweg,5,"","",7739RC,Vinkenbuurt
+Middenweg,6,"","",7739RC,Vinkenbuurt
+Middenweg,6,A,"",7739RC,Vinkenbuurt
+Middenweg,7,"","",7739RC,Vinkenbuurt
+Middenweg,8,"","",7739RC,Vinkenbuurt

@@ -1,253 +1,131 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8471AC",32,"",""
-"8471AC",28,"",""
-"8471AC",28,"",""
-"8471AC",22,"",""
-"8471AC",18,"",""
-"8471AC",14,"",""
-"8471AC",28,"",""
-"8471AC",1,"","TR01"
-"8471AC",13,"",""
-"8471AC",9,"",""
-"8471AC",6,"",""
-"8471AC",7,"",""
-"8471AC",1,"",""
-"8471AC",7,"A",""
-"8471AC",1,"A",""
-"8471AC",1,"B",""
-"8471AC",3,"",""
-"8471AC",3,"",""
-"8471AC",12,"",""
-"8471AC",1,"B",""
-"8471AC",8,"",""
-"8471AC",5,"","TR01"
-"8471XC",2,"",""
-"8471XJ",2,"",""
-"8471XJ",11,"",""
-"8471XJ",9,"B",""
-"8471XJ",5,"",""
-"8471XJ",5,"","TR01"
-"8471XJ",13,"",""
-"8471XJ",9,"",""
-"8471XJ",9,"",""
-"8471XJ",9,"A",""
-"8471XJ",15,"",""
-"8471XJ",7,"",""
-"8471XK",4,"",""
-"8471XK",2,"",""
-"8471XK",4,"A",""
-"8471XK",6,"",""
-"8471XK",4,"",""
-"8471XK",4,"",""
-"8471XK",3,"",""
-"8471XK",5,"",""
-"8471XM",2,"",""
-"8471XM",3,"D",""
-"8471XM",8,"",""
-"8471XM",4,"",""
-"8471XM",3,"A",""
-"8471XM",3,"B",""
-"8471XM",5,"A",""
-"8471XM",5,"C",""
-"8471XM",3,"C",""
-"8471XM",18,"",""
-"8471XM",20,"",""
-"8471XM",5,"B",""
-"8471XM",5,"",""
-"8471XM",9,"",""
-"8471XM",9,"",""
-"8471XM",10,"",""
-"8471XM",5,"D",""
-"8471XM",5,"",""
-"8471XM",26,"",""
-"8471XM",28,"",""
-"8471XM",6,"",""
-"8471XM",12,"",""
-"8471XM",9,"",""
-"8471XM",16,"",""
-"8471XM",14,"",""
-"8471XM",24,"",""
-"8471XM",22,"",""
-"8471XN",2,"A",""
-"8471XN",2,"",""
-"8471XN",4,"","1"
-"8471XN",4,"","3"
-"8471XN",4,"","4"
-"8471XN",4,"","2"
-"8471ZN",64,"",""
-"8471ZN",104,"",""
-"8471ZN",102,"",""
-"8471ZN",100,"",""
-"8471ZN",99,"",""
-"8471ZN",72,"",""
-"8471ZN",90,"",""
-"8471ZN",84,"",""
-"8471ZN",78,"",""
-"8471ZN",93,"",""
-"8471ZN",96,"",""
-"8471ZN",91,"",""
-"8471ZW",5,"",""
-"8471ZW",4,"",""
-"8471ZW",12,"",""
-"8471ZW",1,"",""
-"8471ZW",1,"C",""
-"8471ZW",14,"",""
-"8471ZW",3,"",""
-"8471ZW",7,"A",""
-"8471ZW",16,"",""
-"8471ZW",12,"","BEDR"
-"8471ZW",7,"",""
-"8471ZW",3,"",""
-"8471ZW",3,"",""
-"8471ZZ",40,"",""
-"8471ZZ",6,"",""
-"8471ZZ",10,"",""
-"8471ZZ",8,"A",""
-"8471ZZ",30,"",""
-"8471ZZ",44,"",""
-"8471ZZ",10,"",""
-"8471ZZ",56,"",""
-"8471ZZ",46,"",""
-"8471ZZ",8,"",""
-"8471ZZ",46,"","Tr01"
-"8471ZZ",20,"",""
-"8471ZZ",50,"",""
-"8471ZZ",56,"",""
-"8471ZZ",42,"",""
-"8471ZZ",56,"",""
-"8472EE",2,"",""
-"8472EE",16,"",""
-"8472EE",6,"",""
-"8472EE",4,"",""
-"8472EE",20,"",""
-"8472EE",18,"",""
-"8472EE",6,"",""
-"8472EE",8,"",""
-"8472EE",14,"",""
-"8472EE",14,"",""
-"8472EE",10,"",""
-"8472EE",12,"",""
-"8472EE",6,"",""
-"8472EE",14,"",""
-8471AC,Aan de Schipsloot,12,,
-8471AC,Aan de Schipsloot,14,,
-8471AC,Aan de Schipsloot,18,,
-8471AC,Aan de Schipsloot,22,,
-8471AC,Aan de Schipsloot,28,,
-8471AC,Aan de Schipsloot,32,,
-8471AC,Aan de Schipsloot,5,,TR01
-8471ZW,Frisaxstraat,1,,
-8471ZW,Frisaxstraat,1,C,
-8471ZW,Frisaxstraat,12,,
-8471ZW,Frisaxstraat,14,,
-8471ZW,Frisaxstraat,3,,
-8471ZW,Frisaxstraat,5,,
-8471XM,Magnesiumweg,10,,
-8471XM,Magnesiumweg,12,,
-8471XM,Magnesiumweg,14,,
-8471XM,Magnesiumweg,16,,
-8471XM,Magnesiumweg,18,,
-8471XM,Magnesiumweg,2,,
-8471XM,Magnesiumweg,20,,
-8471XM,Magnesiumweg,22,,
-8471XM,Magnesiumweg,24,,
-8471XM,Magnesiumweg,26,,
-8471XM,Magnesiumweg,28,,
-8471XM,Magnesiumweg,4,,
-8471ZN,Oppers,100,,
-8471ZN,Oppers,102,,
-8471ZN,Oppers,104,,
-8471ZZ,Schuttevaerstraat,10,,
-8471ZZ,Schuttevaerstraat,8,A,
-8471ZZ,Schuttevaerstraat,20,,
-8471ZZ,Schuttevaerstraat,30,,
-8471ZZ,Schuttevaerstraat,40,,
-8471ZZ,Schuttevaerstraat,44,,
-8471ZZ,Schuttevaerstraat,46,,
-8471ZZ,Schuttevaerstraat,50,,
-8471XK,Tinweg,2,,
-8471XK,Tinweg,3,,
-8471XK,Tinweg,4,,
-8471XK,Tinweg,5,,
-8471XC,Wolfraamweg,2,,
-8471XJ,Mangaanweg,11,,
-8471XJ,Mangaanweg,13,,
-8471XJ,Mangaanweg,15,,
-8471XJ,Mangaanweg,5,,
-8471AC,Aan de Schipsloot,6,,
-8471AC,Aan de Schipsloot,7,,
-8471AC,Aan de Schipsloot,7,A,
-8471AC,Aan de Schipsloot,8,,
-8471AC,Aan de Schipsloot,9,,
-8471AC,Aan de Schipsloot,1,,
-8471AC,Aan de Schipsloot,1,A,
-8471AC,Aan de Schipsloot,1,B,
-8471AC,Aan de Schipsloot,3,,
-8471AC,Aan de Schipsloot,13,,
-8471AC,Aan de Schipsloot,1,,TR01
-8471AC,Aan de Schipsloot,28,,
-8471AC,Aan de Schipsloot,14,,
-8471ZW,Frisaxstraat,7,,
-8471ZW,Frisaxstraat,12,,BEDR
-8471ZW,Frisaxstraat,4,,
-8471ZW,Frisaxstraat,16,,
-8471ZW,Frisaxstraat,7,A,
-8471ZW,Frisaxstraat,3,,
-8471XJ,Magnesiumweg,9,,
-8471XM,Magnesiumweg,6,,
-8471XM,Magnesiumweg,8,,
-8471XM,Magnesiumweg,9,,
-8471XM,Magnesiumweg,5,,
-8471XM,Magnesiumweg,9,,
-8471XM,Magnesiumweg,3,A,
-8471XM,Magnesiumweg,3,B,
-8471XM,Magnesiumweg,3,C,
-8471XM,Magnesiumweg,3,D,
-8471XM,Magnesiumweg,5,A,
-8471XM,Magnesiumweg,5,B,
-8471XM,Magnesiumweg,5,C,
-8471XM,Magnesiumweg,5,D,
-8471ZN,Oppers,64,,
-8471ZN,Oppers,72,,
-8471ZN,Oppers,78,,
-8471ZN,Oppers,84,,
-8471ZN,Oppers,90,,
-8471ZN,Oppers,91,,
-8471ZN,Oppers,93,,
-8471ZN,Oppers,96,,
-8471ZN,Oppers,99,,
-8471ZZ,Schuttevaerstraat,6,,
-8471ZZ,Schuttevaerstraat,8,,
-8471ZZ,Schuttevaerstraat,56,,
-8471ZZ,Schuttevaerstraat,46,,Tr01
-8471ZZ,Schuttevaerstraat,10,,
-8471ZZ,Schuttevaerstraat,56,,
-8471ZZ,Schuttevaerstraat,42,,
-8471XK,Tinweg,6,,
-8471XK,Tinweg,4,,
-8471XK,Tinweg,4,A,
-8471XK,Tinweg,7,,
-8471XJ,Mangaanweg,7,,
-8471XJ,Mangaanweg,5,,TR01
-8471XJ,Mangaanweg,2,,
-8471XJ,Mangaanweg,9,,
-8471XJ,Mangaanweg,9,A,
-8471XJ,Mangaanweg,9,B,
-8471XN,Titaniumweg,4,,1
-8471XN,Titaniumweg,4,,2
-8471XN,Titaniumweg,4,,3
-8471XN,Titaniumweg,4,,4
-8471XN,Titaniumweg,2,,
-8471XN,Titaniumweg,2,A,
-8472EE,Messingstraat,20,,
-8472EE,Messingstraat,10,,
-8472EE,Messingstraat,6,,
-8472EE,Messingstraat,8,,
-8472EE,Messingstraat,14,,
-8472EE,Messingstraat,14,,
-8472EE,Messingstraat,6,,
-8472EE,Messingstraat,4,,
-8472EE,Messingstraat,12,,
-8472EE,Messingstraat,16,,
-8472EE,Messingstraat,2,,
-8472EE,Messingstraat,18,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Aan de Schipsloot,1,"","",8471AC,Wolvega
+Aan de Schipsloot,1,"",TR01,8471AC,Wolvega
+Aan de Schipsloot,1,A,"",8471AC,Wolvega
+Aan de Schipsloot,1,B,"",8471AC,Wolvega
+Aan de Schipsloot,1,B,"",8471AC,Wolvega
+Aan de Schipsloot,12,"","",8471AC,Wolvega
+Aan de Schipsloot,13,"","",8471AC,Wolvega
+Aan de Schipsloot,14,"","",8471AC,Wolvega
+Aan de Schipsloot,18,"","",8471AC,Wolvega
+Aan de Schipsloot,22,"","",8471AC,Wolvega
+Aan de Schipsloot,28,"","",8471AC,Wolvega
+Aan de Schipsloot,28,"","",8471AC,Wolvega
+Aan de Schipsloot,28,"","",8471AC,Wolvega
+Aan de Schipsloot,3,"","",8471AC,Wolvega
+Aan de Schipsloot,3,"","",8471AC,Wolvega
+Aan de Schipsloot,32,"","",8471AC,Wolvega
+Aan de Schipsloot,5,"",TR01,8471AC,Wolvega
+Aan de Schipsloot,6,"","",8471AC,Wolvega
+Aan de Schipsloot,7,"","",8471AC,Wolvega
+Aan de Schipsloot,7,A,"",8471AC,Wolvega
+Aan de Schipsloot,8,"","",8471AC,Wolvega
+Aan de Schipsloot,9,"","",8471AC,Wolvega
+Wolfraamweg,2,"","",8471XC,Wolvega
+Mangaanweg,11,"","",8471XJ,Wolvega
+Mangaanweg,13,"","",8471XJ,Wolvega
+Mangaanweg,15,"","",8471XJ,Wolvega
+Mangaanweg,2,"","",8471XJ,Wolvega
+Mangaanweg,5,"","",8471XJ,Wolvega
+Mangaanweg,5,"",TR01,8471XJ,Wolvega
+Mangaanweg,7,"","",8471XJ,Wolvega
+Magnesiumweg,9,"","",8471XJ,Wolvega
+Magnesiumweg,9,"","",8471XJ,Wolvega
+Mangaanweg,9,A,"",8471XJ,Wolvega
+Mangaanweg,9,B,"",8471XJ,Wolvega
+Tinweg,2,"","",8471XK,Wolvega
+Tinweg,3,"","",8471XK,Wolvega
+Tinweg,4,"","",8471XK,Wolvega
+Tinweg,4,"","",8471XK,Wolvega
+Tinweg,4,"","",8471XK,Wolvega
+Tinweg,4,A,"",8471XK,Wolvega
+Tinweg,5,"","",8471XK,Wolvega
+Tinweg,6,"","",8471XK,Wolvega
+Magnesiumweg,10,"","",8471XM,Wolvega
+Magnesiumweg,12,"","",8471XM,Wolvega
+Magnesiumweg,14,"","",8471XM,Wolvega
+Magnesiumweg,16,"","",8471XM,Wolvega
+Magnesiumweg,18,"","",8471XM,Wolvega
+Magnesiumweg,2,"","",8471XM,Wolvega
+Magnesiumweg,20,"","",8471XM,Wolvega
+Magnesiumweg,22,"","",8471XM,Wolvega
+Magnesiumweg,24,"","",8471XM,Wolvega
+Magnesiumweg,26,"","",8471XM,Wolvega
+Magnesiumweg,28,"","",8471XM,Wolvega
+Magnesiumweg,3,A,"",8471XM,Wolvega
+Magnesiumweg,3,B,"",8471XM,Wolvega
+Magnesiumweg,3,C,"",8471XM,Wolvega
+Magnesiumweg,3,D,"",8471XM,Wolvega
+Magnesiumweg,4,"","",8471XM,Wolvega
+Magnesiumweg,5,"","",8471XM,Wolvega
+Magnesiumweg,5,"","",8471XM,Wolvega
+Magnesiumweg,5,A,"",8471XM,Wolvega
+Magnesiumweg,5,B,"",8471XM,Wolvega
+Magnesiumweg,5,C,"",8471XM,Wolvega
+Magnesiumweg,5,D,"",8471XM,Wolvega
+Magnesiumweg,6,"","",8471XM,Wolvega
+Magnesiumweg,8,"","",8471XM,Wolvega
+Magnesiumweg,9,"","",8471XM,Wolvega
+Magnesiumweg,9,"","",8471XM,Wolvega
+Magnesiumweg,9,"","",8471XM,Wolvega
+Titaniumweg,2,"","",8471XN,Wolvega
+Titaniumweg,2,A,"",8471XN,Wolvega
+Titaniumweg,4,"",1,8471XN,Wolvega
+Titaniumweg,4,"",2,8471XN,Wolvega
+Titaniumweg,4,"",3,8471XN,Wolvega
+Titaniumweg,4,"",4,8471XN,Wolvega
+Oppers,100,"","",8471ZN,Wolvega
+Oppers,102,"","",8471ZN,Wolvega
+Oppers,104,"","",8471ZN,Wolvega
+Oppers,64,"","",8471ZN,Wolvega
+Oppers,72,"","",8471ZN,Wolvega
+Oppers,78,"","",8471ZN,Wolvega
+Oppers,84,"","",8471ZN,Wolvega
+Oppers,90,"","",8471ZN,Wolvega
+Oppers,91,"","",8471ZN,Wolvega
+Oppers,93,"","",8471ZN,Wolvega
+Oppers,96,"","",8471ZN,Wolvega
+Oppers,99,"","",8471ZN,Wolvega
+Frisaxstraat,1,"","",8471ZW,Wolvega
+Frisaxstraat,1,C,"",8471ZW,Wolvega
+Frisaxstraat,12,"","",8471ZW,Wolvega
+Frisaxstraat,12,"",BEDR,8471ZW,Wolvega
+Frisaxstraat,14,"","",8471ZW,Wolvega
+Frisaxstraat,16,"","",8471ZW,Wolvega
+Frisaxstraat,3,"","",8471ZW,Wolvega
+Frisaxstraat,3,"","",8471ZW,Wolvega
+Frisaxstraat,3,"","",8471ZW,Wolvega
+Frisaxstraat,4,"","",8471ZW,Wolvega
+Frisaxstraat,5,"","",8471ZW,Wolvega
+Frisaxstraat,7,"","",8471ZW,Wolvega
+Frisaxstraat,7,A,"",8471ZW,Wolvega
+Schuttevaerstraat,10,"","",8471ZZ,Wolvega
+Schuttevaerstraat,10,"","",8471ZZ,Wolvega
+Schuttevaerstraat,20,"","",8471ZZ,Wolvega
+Schuttevaerstraat,30,"","",8471ZZ,Wolvega
+Schuttevaerstraat,40,"","",8471ZZ,Wolvega
+Schuttevaerstraat,42,"","",8471ZZ,Wolvega
+Schuttevaerstraat,44,"","",8471ZZ,Wolvega
+Schuttevaerstraat,46,"","",8471ZZ,Wolvega
+Schuttevaerstraat,46,"",TR01,8471ZZ,Wolvega
+Schuttevaerstraat,50,"","",8471ZZ,Wolvega
+Schuttevaerstraat,56,"","",8471ZZ,Wolvega
+Schuttevaerstraat,56,"","",8471ZZ,Wolvega
+Schuttevaerstraat,56,"","",8471ZZ,Wolvega
+Schuttevaerstraat,6,"","",8471ZZ,Wolvega
+Schuttevaerstraat,8,"","",8471ZZ,Wolvega
+Schuttevaerstraat,8,A,"",8471ZZ,Wolvega
+Messingstraat,10,"","",8472EE,Wolvega
+Messingstraat,12,"","",8472EE,Wolvega
+Messingstraat,14,"","",8472EE,Wolvega
+Messingstraat,14,"","",8472EE,Wolvega
+Messingstraat,14,"","",8472EE,Wolvega
+Messingstraat,16,"","",8472EE,Wolvega
+Messingstraat,18,"","",8472EE,Wolvega
+Messingstraat,2,"","",8472EE,Wolvega
+Messingstraat,20,"","",8472EE,Wolvega
+Messingstraat,4,"","",8472EE,Wolvega
+Messingstraat,6,"","",8472EE,Wolvega
+Messingstraat,6,"","",8472EE,Wolvega
+Messingstraat,6,"","",8472EE,Wolvega
+Messingstraat,8,"","",8472EE,Wolvega

@@ -1,40 +1,40 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5932AB,Aan de Zwarte Hond,1,,
-5932AB,Aan de Zwarte Hond,3,,
-5932AB,Aan de Zwarte Hond,5,,
-5932AB,Aan de Zwarte Hond,9,,
-5932AC,Steenweg,37,,
-5932AC,Steenweg,27,,
-5932AC,Steenweg,1,,
-5932AC,Steenweg,51,,
-5932AC,Steenweg,3,,
-5932AC,Steenweg,53,,
-5932AA,Tichlouwstraat,3,,
-5932AB,Aan de Zwarte Hond,2,A,
-5932AC,Steenweg,5,,
-5932AC,Steenweg,7,,
-5932AC,Steenweg,7,A,
-5932AC,Steenweg,9,,
-5932AC,Steenweg,11,,
-5932AC,Steenweg,11,A,
-5932AC,Steenweg,13,,
-5932AC,Steenweg,29,,
-5932AC,Steenweg,39,,
-5932AC,Steenweg,49,,
-5932AC,Steenweg,9,A,
-5932AC,Steenweg,19,,
-5932AC,Steenweg,5,A,
-5932AA,Tichlouwstraat,5,,
-5932AA,Tichlouwstraat,7,,
-5932AA,Tichlouwstraat,45,,
-5932AA,Tichlouwstraat,7,A,
-5932AC,Steenweg,11,B,
-5932AB,Aan de Zwarte Hond,7,,
-5932AC,Steenweg,7,,
-5932AC,Steenweg,7,,
-5932AC,Steenweg,7,B,
-5932AC,Steenweg,7,B,
-5932AC,Steenweg,7,C,
-5932AC,Steenweg,7,C,
-5932AC,Steenweg,9,A,
-5932AC,Steenweg,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Tichlouwstraat,3,"","",5932AA,Tegelen
+Tichlouwstraat,45,"","",5932AA,Tegelen
+Tichlouwstraat,5,"","",5932AA,Tegelen
+Tichlouwstraat,7,"","",5932AA,Tegelen
+Tichlouwstraat,7,A,"",5932AA,Tegelen
+Aan de Zwarte Hond,1,"","",5932AB,Tegelen
+Aan de Zwarte Hond,2,A,"",5932AB,Tegelen
+Aan de Zwarte Hond,3,"","",5932AB,Tegelen
+Aan de Zwarte Hond,5,"","",5932AB,Tegelen
+Aan de Zwarte Hond,7,"","",5932AB,Tegelen
+Aan de Zwarte Hond,9,"","",5932AB,Tegelen
+Steenweg,1,"","",5932AC,Tegelen
+Steenweg,11,"","",5932AC,Tegelen
+Steenweg,11,A,"",5932AC,Tegelen
+Steenweg,11,B,"",5932AC,Tegelen
+Steenweg,13,"","",5932AC,Tegelen
+Steenweg,19,"","",5932AC,Tegelen
+Steenweg,27,"","",5932AC,Tegelen
+Steenweg,29,"","",5932AC,Tegelen
+Steenweg,3,"","",5932AC,Tegelen
+Steenweg,37,"","",5932AC,Tegelen
+Steenweg,39,"","",5932AC,Tegelen
+Steenweg,49,"","",5932AC,Tegelen
+Steenweg,5,"","",5932AC,Tegelen
+Steenweg,5,A,"",5932AC,Tegelen
+Steenweg,51,"","",5932AC,Tegelen
+Steenweg,53,"","",5932AC,Tegelen
+Steenweg,7,"","",5932AC,Tegelen
+Steenweg,7,"","",5932AC,Tegelen
+Steenweg,7,"","",5932AC,Tegelen
+Steenweg,7,A,"",5932AC,Tegelen
+Steenweg,7,B,"",5932AC,Tegelen
+Steenweg,7,B,"",5932AC,Tegelen
+Steenweg,7,C,"",5932AC,Tegelen
+Steenweg,7,C,"",5932AC,Tegelen
+Steenweg,9,"","",5932AC,Tegelen
+Steenweg,9,"","",5932AC,Tegelen
+Steenweg,9,A,"",5932AC,Tegelen
+Steenweg,9,A,"",5932AC,Tegelen

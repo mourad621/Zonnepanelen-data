@@ -1,604 +1,325 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9948PA",1,"",""
-"9948PA",3,"",""
-"9948PA",25,"",""
-"9948PA",25,"",""
-"9948PA",5,"",""
-"9948PA",27,"",""
-"9948PA",5,"",""
-"9948PA",23,"",""
-"9948PA",25,"",""
-"9948PA",7,"",""
-"9948PA",7,"",""
-"9948PA",25,"",""
-"9948PA",7,"",""
-"9948PA",25,"",""
-"9948PA",9,"",""
-"9948PA",9,"",""
-"9948PA",9,"",""
-"9948PA",11,"",""
-"9948PA",11,"",""
-"9948PA",11,"",""
-"9948PA",5,"",""
-"9948PA",13,"",""
-"9948PA",13,"",""
-"9948PA",15,"",""
-"9948PA",15,"",""
-"9948PA",15,"",""
-"9948PA",17,"",""
-"9948PA",17,"",""
-"9948PA",17,"",""
-"9948PA",19,"",""
-"9948PA",19,"",""
-"9948PA",19,"",""
-"9948PA",21,"",""
-"9948PA",21,"",""
-"9948PA",21,"",""
-"9948PA",23,"",""
-"9948PA",23,"",""
-"9948PA",23,"",""
-"9948PA",23,"",""
-"9948PA",29,"",""
-"9948PA",7,"",""
-"9948PA",29,"",""
-"9948PA",31,"",""
-"9948PA",31,"",""
-"9948PA",31,"",""
-"9948PA",31,"",""
-"9948PA",27,"",""
-"9948PA",27,"",""
-"9948PA",5,"",""
-"9948PA",27,"",""
-"9948PA",29,"",""
-"9948PA",29,"",""
-"9948PA",13,"",""
-"9948PA",33,"",""
-"9948PA",29,"",""
-"9948PA",31,"",""
-"9948PA",33,"",""
-"9948PA",33,"",""
-"9948PA",33,"",""
-"9948PA",27,"",""
-"9948PB",49,"",""
-"9948PB",47,"",""
-"9948PB",57,"",""
-"9948PB",37,"",""
-"9948PB",55,"",""
-"9948PB",35,"",""
-"9948PB",35,"",""
-"9948PB",53,"",""
-"9948PB",35,"",""
-"9948PB",37,"",""
-"9948PB",37,"",""
-"9948PB",51,"",""
-"9948PB",37,"",""
-"9948PB",39,"",""
-"9948PB",39,"",""
-"9948PB",39,"",""
-"9948PB",43,"",""
-"9948PB",45,"",""
-"9948PB",41,"",""
-"9948PB",39,"",""
-"9948PB",35,"",""
-"9948PC",59,"",""
-"9948PC",77,"",""
-"9948PC",83,"",""
-"9948PC",85,"",""
-"9948PC",81,"",""
-"9948PC",91,"",""
-"9948PC",63,"",""
-"9948PC",87,"",""
-"9948PC",89,"",""
-"9948PC",61,"",""
-"9948PC",73,"",""
-"9948PC",75,"",""
-"9948PC",65,"",""
-"9948PC",67,"",""
-"9948PC",79,"",""
-"9948PD",2,"",""
-"9948PD",8,"",""
-"9948PD",5,"",""
-"9948PD",15,"",""
-"9948PD",16,"",""
-"9948PD",13,"",""
-"9948PD",18,"",""
-"9948PD",6,"",""
-"9948PD",7,"",""
-"9948PD",12,"",""
-"9948PD",9,"",""
-"9948PD",10,"",""
-"9948PD",11,"",""
-"9948PD",22,"",""
-"9948PD",17,"",""
-"9948PD",14,"",""
-"9948PD",20,"",""
-"9948PD",4,"",""
-"9948PE",6,"",""
-"9948PE",10,"",""
-"9948PE",12,"",""
-"9948PE",12,"",""
-"9948PE",2,"B",""
-"9948PE",8,"",""
-"9948PE",8,"",""
-"9948PE",8,"A",""
-"9948PE",8,"D",""
-"9948PE",28,"",""
-"9948PE",10,"",""
-"9948PE",32,"",""
-"9948PE",34,"",""
-"9948PE",20,"",""
-"9948PE",16,"",""
-"9948PE",14,"",""
-"9948PE",18,"",""
-"9948PE",24,"",""
-"9948PE",4,"",""
-"9948PE",22,"",""
-"9948PE",26,"",""
-"9948PE",30,"",""
-"9948PG",48,"",""
-"9948PG",36,"",""
-"9948PG",56,"",""
-"9948PG",68,"",""
-"9948PG",70,"",""
-"9948PG",64,"",""
-"9948PG",46,"",""
-"9948PG",50,"",""
-"9948PG",52,"",""
-"9948PG",54,"",""
-"9948PG",58,"",""
-"9948PG",60,"",""
-"9948PG",62,"",""
-"9948PG",66,"",""
-"9948PJ",8,"b",""
-"9948PJ",8,"c",""
-"9948PJ",8,"d",""
-"9948PJ",8,"d",""
-"9948PJ",5,"",""
-"9948PJ",8,"e",""
-"9948PJ",8,"a",""
-"9948PJ",8,"a",""
-"9948PJ",8,"a",""
-"9948PJ",8,"b",""
-"9948PJ",8,"b",""
-"9948PJ",8,"c",""
-"9948PJ",8,"c",""
-"9948PJ",8,"g",""
-"9948PJ",8,"d",""
-"9948PJ",8,"h",""
-"9948PJ",8,"h",""
-"9948PJ",8,"k",""
-"9948PJ",8,"",""
-"9948PJ",8,"k",""
-"9948PJ",8,"e",""
-"9948PJ",8,"f",""
-"9948PJ",8,"f",""
-"9948PJ",26,"",""
-"9948PJ",28,"",""
-"9948PJ",28,"",""
-"9948PJ",16,"",""
-"9948PJ",16,"",""
-"9948PJ",18,"",""
-"9948PJ",18,"",""
-"9948PJ",20,"",""
-"9948PJ",8,"e",""
-"9948PJ",22,"",""
-"9948PJ",10,"",""
-"9948PJ",10,"",""
-"9948PJ",12,"",""
-"9948PJ",12,"",""
-"9948PJ",14,"",""
-"9948PJ",14,"",""
-"9948PJ",8,"g",""
-"9948PJ",20,"",""
-"9948PJ",8,"h",""
-"9948PJ",22,"",""
-"9948PJ",24,"",""
-"9948PJ",24,"",""
-"9948PJ",26,"",""
-"9948PJ",8,"f",""
-"9948PJ",8,"g",""
-"9948PJ",8,"k",""
-"9948PK",8,"c",""
-"9948PK",7,"",""
-"9948PK",8,"a",""
-"9948PK",3,"",""
-"9948PK",10,"",""
-"9948PK",5,"",""
-"9948PK",8,"b",""
-"9948PK",1,"",""
-"9948PK",8,"d",""
-"9948PK",8,"e",""
-"9948PK",8,"k",""
-"9948PK",8,"f",""
-"9948PK",8,"g",""
-"9948PK",8,"h",""
-"9948PL",1,"A",""
-"9948PL",2,"",""
-"9948PL",3,"A",""
-"9948PL",3,"B",""
-"9948PL",7,"",""
-"9948PL",12,"",""
-"9948PL",13,"",""
-"9948PL",15,"",""
-"9948PL",6,"",""
-"9948PL",4,"a",""
-"9948PL",8,"",""
-"9948PL",5,"",""
-"9948PL",10,"",""
-"9948PL",11,"",""
-"9948PL",9,"",""
-"9948PL",4,"b",""
-"9948PL",1,"",""
-"9948PM",30,"",""
-"9948PM",21,"B",""
-"9948PM",25,"",""
-"9948PM",28,"",""
-"9948PM",14,"",""
-"9948PM",16,"",""
-"9948PM",18,"",""
-"9948PM",27,"",""
-"9948PM",20,"",""
-"9948PM",21,"",""
-"9948PM",21,"C",""
-"9948PM",21,"D",""
-"9948PM",22,"",""
-"9948PM",23,"",""
-"9948PM",26,"",""
-"9948PM",19,"",""
-"9948PM",29,"",""
-"9948PM",21,"A",""
-"9948PN",34,"B",""
-"9948PN",37,"",""
-"9948PN",38,"",""
-"9948PN",36,"",""
-"9948PN",31,"",""
-"9948PN",33,"",""
-"9948PN",42,"",""
-"9948PN",43,"",""
-"9948PN",44,"",""
-"9948PN",45,"",""
-"9948PN",46,"",""
-"9948PN",35,"",""
-"9948PN",40,"",""
-"9948PN",41,"",""
-"9948PN",39,"",""
-"9948PN",34,"",""
-"9948PN",41,"",""
-"9948PN",40,"",""
-"9948PN",34,"A",""
-"9948PP",5,"",""
-"9948PP",4,"",""
-"9948PP",11,"",""
-"9948PP",13,"",""
-"9948PP",4,"a","1"
-"9948PP",3,"",""
-"9948PP",4,"A",""
-"9948PP",7,"",""
-"9948PP",8,"",""
-"9948PP",10,"",""
-"9948PP",14,"",""
-"9948PP",6,"",""
-"9948PR",19,"",""
-"9948PR",16,"",""
-"9948PR",22,"",""
-"9948PR",26,"",""
-"9948PR",15,"",""
-"9948PR",29,"",""
-"9948PR",18,"",""
-"9948PR",20,"",""
-"9948PR",23,"",""
-"9948PR",24,"",""
-"9948PR",21,"",""
-"9948PR",31,"",""
-"9948PR",30,"",""
-"9948PR",27,"",""
-"9948PR",25,"",""
-"9948PR",28,"",""
-"9948PS",37,"G",""
-"9948PS",37,"L",""
-"9948PS",38,"",""
-"9948PS",37,"K",""
-"9948PS",37,"H",""
-"9948PS",32,"",""
-"9948PS",32,"",""
-"9948PS",33,"",""
-"9948PS",37,"E",""
-"9948PS",34,"",""
-"9948PS",35,"",""
-"9948PS",36,"",""
-"9948PS",37,"",""
-"9948PS",37,"",""
-"9948PS",37,"H",""
-"9948PS",37,"K",""
-"9948PS",37,"B",""
-"9948PS",37,"L",""
-"9948PS",37,"C",""
-"9948PS",37,"D",""
-"9948PS",37,"D",""
-"9948PS",37,"G",""
-"9948PS",37,"E",""
-"9948PS",37,"F",""
-"9948PS",37,"F",""
-"9948PS",37,"C",""
-"9948PS",37,"A",""
-"9948PS",37,"A",""
-"9948PS",33,"",""
-9948PA,Antoni Verburghwijk,1,,
-9948PA,Antoni Verburghwijk,3,,
-9948PA,Antoni Verburghwijk,7,,
-9948PA,Antoni Verburghwijk,7,,
-9948PA,Antoni Verburghwijk,33,,
-9948PA,Antoni Verburghwijk,33,,
-9948PA,Antoni Verburghwijk,31,,
-9948PA,Antoni Verburghwijk,31,,
-9948PA,Antoni Verburghwijk,29,,
-9948PA,Antoni Verburghwijk,29,,
-9948PA,Antoni Verburghwijk,27,,
-9948PA,Antoni Verburghwijk,27,,
-9948PA,Antoni Verburghwijk,25,,
-9948PA,Antoni Verburghwijk,25,,
-9948PA,Antoni Verburghwijk,23,,
-9948PA,Antoni Verburghwijk,23,,
-9948PA,Antoni Verburghwijk,21,,
-9948PA,Antoni Verburghwijk,19,,
-9948PA,Antoni Verburghwijk,17,,
-9948PA,Antoni Verburghwijk,15,,
-9948PA,Antoni Verburghwijk,13,,
-9948PA,Antoni Verburghwijk,11,,
-9948PA,Antoni Verburghwijk,9,,
-9948PA,Antoni Verburghwijk,5,,
-9948PA,Antoni Verburghwijk,5,,
-9948PA,Antoni Verburghwijk,9,,
-9948PA,Antoni Verburghwijk,11,,
-9948PA,Antoni Verburghwijk,13,,
-9948PA,Antoni Verburghwijk,15,,
-9948PA,Antoni Verburghwijk,17,,
-9948PA,Antoni Verburghwijk,19,,
-9948PA,Antoni Verburghwijk,21,,
-9948PA,Antoni Verburghwijk,23,,
-9948PA,Antoni Verburghwijk,25,,
-9948PA,Antoni Verburghwijk,27,,
-9948PA,Antoni Verburghwijk,29,,
-9948PA,Antoni Verburghwijk,31,,
-9948PB,Antoni Verburghwijk,53,,
-9948PB,Antoni Verburghwijk,55,,
-9948PB,Antoni Verburghwijk,41,,
-9948PB,Antoni Verburghwijk,43,,
-9948PB,Antoni Verburghwijk,45,,
-9948PB,Antoni Verburghwijk,47,,
-9948PB,Antoni Verburghwijk,49,,
-9948PB,Antoni Verburghwijk,51,,
-9948PB,Antoni Verburghwijk,37,,
-9948PB,Antoni Verburghwijk,37,,
-9948PB,Antoni Verburghwijk,39,,
-9948PB,Antoni Verburghwijk,39,,
-9948PB,Antoni Verburghwijk,35,,
-9948PB,Antoni Verburghwijk,35,,
-9948PB,Antoni Verburghwijk,57,,
-9948PC,Antoni Verburghwijk,91,,
-9948PC,Antoni Verburghwijk,89,,
-9948PC,Antoni Verburghwijk,87,,
-9948PC,Antoni Verburghwijk,85,,
-9948PC,Antoni Verburghwijk,83,,
-9948PC,Antoni Verburghwijk,81,,
-9948PC,Antoni Verburghwijk,79,,
-9948PC,Antoni Verburghwijk,77,,
-9948PC,Antoni Verburghwijk,75,,
-9948PC,Antoni Verburghwijk,73,,
-9948PC,Antoni Verburghwijk,59,,
-9948PC,Antoni Verburghwijk,61,,
-9948PC,Antoni Verburghwijk,63,,
-9948PC,Antoni Verburghwijk,65,,
-9948PC,Antoni Verburghwijk,67,,
-9948PE,Antoni Verburghwijk,4,,
-9948PE,Antoni Verburghwijk,6,,
-9948PE,Antoni Verburghwijk,8,,
-9948PE,Antoni Verburghwijk,8,A,
-9948PE,Antoni Verburghwijk,10,,
-9948PE,Antoni Verburghwijk,12,,
-9948PE,Antoni Verburghwijk,14,,
-9948PE,Antoni Verburghwijk,16,,
-9948PE,Antoni Verburghwijk,2,B,
-9948PE,Antoni Verburghwijk,18,,
-9948PE,Antoni Verburghwijk,20,,
-9948PE,Antoni Verburghwijk,22,,
-9948PE,Antoni Verburghwijk,24,,
-9948PE,Antoni Verburghwijk,26,,
-9948PE,Antoni Verburghwijk,28,,
-9948PE,Antoni Verburghwijk,30,,
-9948PE,Antoni Verburghwijk,32,,
-9948PE,Antoni Verburghwijk,34,,
-9948PE,Antoni Verburghwijk,8,D,
-9948PG,Antoni Verburghwijk,70,,
-9948PG,Antoni Verburghwijk,68,,
-9948PG,Antoni Verburghwijk,66,,
-9948PG,Antoni Verburghwijk,64,,
-9948PG,Antoni Verburghwijk,62,,
-9948PG,Antoni Verburghwijk,60,,
-9948PG,Antoni Verburghwijk,58,,
-9948PG,Antoni Verburghwijk,56,,
-9948PG,Antoni Verburghwijk,54,,
-9948PG,Antoni Verburghwijk,52,,
-9948PG,Antoni Verburghwijk,50,,
-9948PG,Antoni Verburghwijk,48,,
-9948PG,Antoni Verburghwijk,46,,
-9948PG,Antoni Verburghwijk,36,,
-9948PD,de Zijlen,18,,
-9948PD,de Zijlen,20,,
-9948PD,de Zijlen,14,,
-9948PD,de Zijlen,16,,
-9948PD,de Zijlen,10,,
-9948PD,de Zijlen,12,,
-9948PD,de Zijlen,6,,
-9948PD,de Zijlen,8,,
-9948PD,de Zijlen,2,,
-9948PD,de Zijlen,4,,
-9948PD,de Zijlen,5,,
-9948PD,de Zijlen,7,,
-9948PD,de Zijlen,9,,
-9948PD,de Zijlen,11,,
-9948PD,de Zijlen,13,,
-9948PD,de Zijlen,15,,
-9948PD,de Zijlen,17,,
-9948PD,de Zijlen,22,,
-9948PJ,Diekstok,8,,
-9948PJ,Diekstok,10,,
-9948PJ,Diekstok,12,,
-9948PJ,Diekstok,14,,
-9948PJ,Diekstok,16,,
-9948PJ,Diekstok,18,,
-9948PJ,Diekstok,20,,
-9948PJ,Diekstok,22,,
-9948PJ,Diekstok,24,,
-9948PJ,Diekstok,26,,
-9948PJ,Diekstok,28,,
-9948PJ,Diekstok,5,,
-9948PJ,Diekstok,8,a,
-9948PJ,Diekstok,8,a,
-9948PJ,Diekstok,8,a,
-9948PJ,Diekstok,8,b,
-9948PJ,Diekstok,8,b,
-9948PJ,Diekstok,8,b,
-9948PJ,Diekstok,8,c,
-9948PJ,Diekstok,8,c,
-9948PJ,Diekstok,8,c,
-9948PJ,Diekstok,8,d,
-9948PJ,Diekstok,8,d,
-9948PJ,Diekstok,8,d,
-9948PJ,Diekstok,8,e,
-9948PJ,Diekstok,8,e,
-9948PJ,Diekstok,8,e,
-9948PJ,Diekstok,8,f,
-9948PJ,Diekstok,8,f,
-9948PJ,Diekstok,8,f,
-9948PJ,Diekstok,8,g,
-9948PJ,Diekstok,8,g,
-9948PJ,Diekstok,8,g,
-9948PJ,Diekstok,8,h,
-9948PJ,Diekstok,8,h,
-9948PJ,Diekstok,8,h,
-9948PJ,Diekstok,8,k,
-9948PJ,Diekstok,8,k,
-9948PJ,Diekstok,8,k,
-9948PK,Diekstok,8,a,
-9948PK,Diekstok,8,b,
-9948PK,Diekstok,8,c,
-9948PK,Diekstok,8,d,
-9948PK,Diekstok,8,e,
-9948PK,Diekstok,8,f,
-9948PK,Diekstok,8,g,
-9948PK,Diekstok,8,h,
-9948PK,Diekstok,8,k,
-9948PL,Mello Coendersbuurt,1,,
-9948PL,Mello Coendersbuurt,3,A,
-9948PL,Mello Coendersbuurt,2,,
-9948PL,Mello Coendersbuurt,1,A,
-9948PL,Mello Coendersbuurt,15,,
-9948PL,Mello Coendersbuurt,13,,
-9948PL,Mello Coendersbuurt,12,,
-9948PL,Mello Coendersbuurt,11,,
-9948PL,Mello Coendersbuurt,10,,
-9948PL,Mello Coendersbuurt,9,,
-9948PL,Mello Coendersbuurt,8,,
-9948PL,Mello Coendersbuurt,7,,
-9948PL,Mello Coendersbuurt,6,,
-9948PL,Mello Coendersbuurt,5,,
-9948PL,Mello Coendersbuurt,3,B,
-9948PL,Mello Coendersbuurt,4,a,
-9948PL,Mello Coendersbuurt,4,b,
-9948PM,Mello Coendersbuurt,30,,
-9948PM,Mello Coendersbuurt,28,,
-9948PM,Mello Coendersbuurt,27,,
-9948PM,Mello Coendersbuurt,26,,
-9948PM,Mello Coendersbuurt,25,,
-9948PM,Mello Coendersbuurt,23,,
-9948PM,Mello Coendersbuurt,22,,
-9948PM,Mello Coendersbuurt,21,,
-9948PM,Mello Coendersbuurt,20,,
-9948PM,Mello Coendersbuurt,19,,
-9948PM,Mello Coendersbuurt,18,,
-9948PM,Mello Coendersbuurt,16,,
-9948PM,Mello Coendersbuurt,14,,
-9948PM,Mello Coendersbuurt,21,A,
-9948PM,Mello Coendersbuurt,21,B,
-9948PM,Mello Coendersbuurt,21,C,
-9948PM,Mello Coendersbuurt,21,D,
-9948PM,Mello Coendersbuurt,29,,
-9948PN,Mello Coendersbuurt,42,,
-9948PN,Mello Coendersbuurt,41,,
-9948PN,Mello Coendersbuurt,40,,
-9948PN,Mello Coendersbuurt,38,,
-9948PN,Mello Coendersbuurt,37,,
-9948PN,Mello Coendersbuurt,36,,
-9948PN,Mello Coendersbuurt,35,,
-9948PN,Mello Coendersbuurt,34,B,
-9948PN,Mello Coendersbuurt,34,A,
-9948PN,Mello Coendersbuurt,34,,
-9948PN,Mello Coendersbuurt,33,,
-9948PN,Mello Coendersbuurt,31,,
-9948PN,Mello Coendersbuurt,39,,
-9948PN,Mello Coendersbuurt,43,,
-9948PN,Mello Coendersbuurt,44,,
-9948PN,Mello Coendersbuurt,45,,
-9948PN,Mello Coendersbuurt,46,,
-9948PK,Plankpad,7,,
-9948PK,Plankpad,5,,
-9948PK,Plankpad,3,,
-9948PK,Plankpad,1,,
-9948PK,Plankpad,10,,
-9948PP,Schepperbuurt,4,,
-9948PP,Schepperbuurt,4,A,
-9948PP,Schepperbuurt,5,,
-9948PP,Schepperbuurt,14,,
-9948PP,Schepperbuurt,13,,
-9948PP,Schepperbuurt,11,,
-9948PP,Schepperbuurt,10,,
-9948PP,Schepperbuurt,8,,
-9948PP,Schepperbuurt,7,,
-9948PP,Schepperbuurt,6,,
-9948PP,Schepperbuurt,3,,
-9948PP,Schepperbuurt,4,a,1
-9948PR,Schepperbuurt,31,,
-9948PR,Schepperbuurt,30,,
-9948PR,Schepperbuurt,29,,
-9948PR,Schepperbuurt,28,,
-9948PR,Schepperbuurt,27,,
-9948PR,Schepperbuurt,25,,
-9948PR,Schepperbuurt,24,,
-9948PR,Schepperbuurt,22,,
-9948PR,Schepperbuurt,21,,
-9948PR,Schepperbuurt,20,,
-9948PR,Schepperbuurt,19,,
-9948PR,Schepperbuurt,18,,
-9948PR,Schepperbuurt,23,,
-9948PR,Schepperbuurt,16,,
-9948PR,Schepperbuurt,15,,
-9948PR,Schepperbuurt,26,,
-9948PS,Schepperbuurt,37,,
-9948PS,Schepperbuurt,36,,
-9948PS,Schepperbuurt,35,,
-9948PS,Schepperbuurt,34,,
-9948PS,Schepperbuurt,33,,
-9948PS,Schepperbuurt,32,,
-9948PS,Schepperbuurt,38,,
-9948PS,Schepperbuurt,37,A,
-9948PS,Schepperbuurt,37,B,
-9948PS,Schepperbuurt,37,C,
-9948PS,Schepperbuurt,37,D,
-9948PS,Schepperbuurt,37,E,
-9948PS,Schepperbuurt,37,F,
-9948PS,Schepperbuurt,37,G,
-9948PS,Schepperbuurt,37,H,
-9948PS,Schepperbuurt,37,K,
-9948PS,Schepperbuurt,37,L,
-9948PE,Antoni Verburghwijk,8,e,
-9948PN,Mello Coendersbuurt,41,,
-9948PS,Schepperbuurt,32,,
-9948PS,Schepperbuurt,37,k,
-9948PS,Schepperbuurt,37,m,
-9948PS,Schepperbuurt,37,g,
-9948PS,Schepperbuurt,37,f,
-9948PS,Schepperbuurt,37,e,
-9948PS,Schepperbuurt,37,d,
-9948PS,Schepperbuurt,37,h,
-9948PS,Schepperbuurt,37,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Antoni Verburghwijk,1,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,11,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,11,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,11,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,13,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,13,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,13,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,15,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,15,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,15,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,17,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,17,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,17,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,19,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,19,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,19,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,21,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,21,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,21,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,23,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,23,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,23,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,23,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,23,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,25,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,25,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,25,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,25,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,25,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,27,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,27,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,27,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,27,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,27,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,29,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,29,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,29,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,29,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,29,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,3,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,31,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,31,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,31,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,31,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,31,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,33,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,33,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,33,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,33,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,5,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,5,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,5,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,5,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,7,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,7,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,7,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,7,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,9,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,9,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,9,"","",9948PA,Termunterzijl
+Antoni Verburghwijk,35,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,35,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,35,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,35,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,37,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,37,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,37,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,37,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,39,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,39,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,39,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,39,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,41,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,43,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,45,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,47,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,49,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,51,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,53,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,55,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,57,"","",9948PB,Termunterzijl
+Antoni Verburghwijk,59,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,61,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,63,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,65,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,67,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,73,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,75,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,77,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,79,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,81,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,83,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,85,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,87,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,89,"","",9948PC,Termunterzijl
+Antoni Verburghwijk,91,"","",9948PC,Termunterzijl
+de Zijlen,10,"","",9948PD,Termunterzijl
+de Zijlen,11,"","",9948PD,Termunterzijl
+de Zijlen,12,"","",9948PD,Termunterzijl
+de Zijlen,13,"","",9948PD,Termunterzijl
+de Zijlen,14,"","",9948PD,Termunterzijl
+de Zijlen,15,"","",9948PD,Termunterzijl
+de Zijlen,16,"","",9948PD,Termunterzijl
+de Zijlen,17,"","",9948PD,Termunterzijl
+de Zijlen,18,"","",9948PD,Termunterzijl
+de Zijlen,2,"","",9948PD,Termunterzijl
+de Zijlen,20,"","",9948PD,Termunterzijl
+de Zijlen,22,"","",9948PD,Termunterzijl
+de Zijlen,4,"","",9948PD,Termunterzijl
+de Zijlen,5,"","",9948PD,Termunterzijl
+de Zijlen,6,"","",9948PD,Termunterzijl
+de Zijlen,7,"","",9948PD,Termunterzijl
+de Zijlen,8,"","",9948PD,Termunterzijl
+de Zijlen,9,"","",9948PD,Termunterzijl
+Antoni Verburghwijk,10,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,10,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,12,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,12,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,14,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,16,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,18,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,2,B,"",9948PE,Termunterzijl
+Antoni Verburghwijk,20,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,22,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,24,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,26,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,28,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,30,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,32,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,34,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,4,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,6,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,8,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,8,"","",9948PE,Termunterzijl
+Antoni Verburghwijk,8,A,"",9948PE,Termunterzijl
+Antoni Verburghwijk,8,D,"",9948PE,Termunterzijl
+Antoni Verburghwijk,36,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,46,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,48,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,50,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,52,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,54,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,56,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,58,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,60,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,62,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,64,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,66,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,68,"","",9948PG,Termunterzijl
+Antoni Verburghwijk,70,"","",9948PG,Termunterzijl
+Diekstok,10,"","",9948PJ,Termunterzijl
+Diekstok,10,"","",9948PJ,Termunterzijl
+Diekstok,12,"","",9948PJ,Termunterzijl
+Diekstok,12,"","",9948PJ,Termunterzijl
+Diekstok,14,"","",9948PJ,Termunterzijl
+Diekstok,14,"","",9948PJ,Termunterzijl
+Diekstok,16,"","",9948PJ,Termunterzijl
+Diekstok,16,"","",9948PJ,Termunterzijl
+Diekstok,18,"","",9948PJ,Termunterzijl
+Diekstok,18,"","",9948PJ,Termunterzijl
+Diekstok,20,"","",9948PJ,Termunterzijl
+Diekstok,20,"","",9948PJ,Termunterzijl
+Diekstok,22,"","",9948PJ,Termunterzijl
+Diekstok,22,"","",9948PJ,Termunterzijl
+Diekstok,24,"","",9948PJ,Termunterzijl
+Diekstok,24,"","",9948PJ,Termunterzijl
+Diekstok,26,"","",9948PJ,Termunterzijl
+Diekstok,26,"","",9948PJ,Termunterzijl
+Diekstok,28,"","",9948PJ,Termunterzijl
+Diekstok,28,"","",9948PJ,Termunterzijl
+Diekstok,5,"","",9948PJ,Termunterzijl
+Diekstok,8,"","",9948PJ,Termunterzijl
+Diekstok,8,A,"",9948PJ,Termunterzijl
+Diekstok,8,A,"",9948PJ,Termunterzijl
+Diekstok,8,A,"",9948PJ,Termunterzijl
+Diekstok,8,B,"",9948PJ,Termunterzijl
+Diekstok,8,B,"",9948PJ,Termunterzijl
+Diekstok,8,B,"",9948PJ,Termunterzijl
+Diekstok,8,C,"",9948PJ,Termunterzijl
+Diekstok,8,C,"",9948PJ,Termunterzijl
+Diekstok,8,C,"",9948PJ,Termunterzijl
+Diekstok,8,D,"",9948PJ,Termunterzijl
+Diekstok,8,D,"",9948PJ,Termunterzijl
+Diekstok,8,D,"",9948PJ,Termunterzijl
+Diekstok,8,E,"",9948PJ,Termunterzijl
+Diekstok,8,E,"",9948PJ,Termunterzijl
+Diekstok,8,E,"",9948PJ,Termunterzijl
+Diekstok,8,F,"",9948PJ,Termunterzijl
+Diekstok,8,F,"",9948PJ,Termunterzijl
+Diekstok,8,F,"",9948PJ,Termunterzijl
+Diekstok,8,G,"",9948PJ,Termunterzijl
+Diekstok,8,G,"",9948PJ,Termunterzijl
+Diekstok,8,G,"",9948PJ,Termunterzijl
+Diekstok,8,H,"",9948PJ,Termunterzijl
+Diekstok,8,H,"",9948PJ,Termunterzijl
+Diekstok,8,H,"",9948PJ,Termunterzijl
+Diekstok,8,K,"",9948PJ,Termunterzijl
+Diekstok,8,K,"",9948PJ,Termunterzijl
+Diekstok,8,K,"",9948PJ,Termunterzijl
+Plankpad,1,"","",9948PK,Termunterzijl
+Plankpad,10,"","",9948PK,Termunterzijl
+Plankpad,3,"","",9948PK,Termunterzijl
+Plankpad,5,"","",9948PK,Termunterzijl
+Plankpad,7,"","",9948PK,Termunterzijl
+Diekstok,8,A,"",9948PK,Termunterzijl
+Diekstok,8,B,"",9948PK,Termunterzijl
+Diekstok,8,C,"",9948PK,Termunterzijl
+Diekstok,8,D,"",9948PK,Termunterzijl
+Diekstok,8,E,"",9948PK,Termunterzijl
+Diekstok,8,F,"",9948PK,Termunterzijl
+Diekstok,8,G,"",9948PK,Termunterzijl
+Diekstok,8,H,"",9948PK,Termunterzijl
+Diekstok,8,K,"",9948PK,Termunterzijl
+Mello Coendersbuurt,1,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,1,A,"",9948PL,Termunterzijl
+Mello Coendersbuurt,10,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,11,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,12,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,13,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,15,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,2,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,3,A,"",9948PL,Termunterzijl
+Mello Coendersbuurt,3,B,"",9948PL,Termunterzijl
+Mello Coendersbuurt,4,A,"",9948PL,Termunterzijl
+Mello Coendersbuurt,4,B,"",9948PL,Termunterzijl
+Mello Coendersbuurt,5,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,6,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,7,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,8,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,9,"","",9948PL,Termunterzijl
+Mello Coendersbuurt,14,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,16,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,18,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,19,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,20,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,21,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,21,A,"",9948PM,Termunterzijl
+Mello Coendersbuurt,21,B,"",9948PM,Termunterzijl
+Mello Coendersbuurt,21,C,"",9948PM,Termunterzijl
+Mello Coendersbuurt,21,D,"",9948PM,Termunterzijl
+Mello Coendersbuurt,22,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,23,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,25,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,26,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,27,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,28,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,29,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,30,"","",9948PM,Termunterzijl
+Mello Coendersbuurt,31,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,33,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,34,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,34,A,"",9948PN,Termunterzijl
+Mello Coendersbuurt,34,B,"",9948PN,Termunterzijl
+Mello Coendersbuurt,35,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,36,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,37,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,38,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,39,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,40,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,40,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,41,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,41,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,42,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,43,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,44,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,45,"","",9948PN,Termunterzijl
+Mello Coendersbuurt,46,"","",9948PN,Termunterzijl
+Schepperbuurt,10,"","",9948PP,Termunterzijl
+Schepperbuurt,11,"","",9948PP,Termunterzijl
+Schepperbuurt,13,"","",9948PP,Termunterzijl
+Schepperbuurt,14,"","",9948PP,Termunterzijl
+Schepperbuurt,3,"","",9948PP,Termunterzijl
+Schepperbuurt,4,"","",9948PP,Termunterzijl
+Schepperbuurt,4,A,"",9948PP,Termunterzijl
+Schepperbuurt,4,A,1,9948PP,Termunterzijl
+Schepperbuurt,5,"","",9948PP,Termunterzijl
+Schepperbuurt,6,"","",9948PP,Termunterzijl
+Schepperbuurt,7,"","",9948PP,Termunterzijl
+Schepperbuurt,8,"","",9948PP,Termunterzijl
+Schepperbuurt,15,"","",9948PR,Termunterzijl
+Schepperbuurt,16,"","",9948PR,Termunterzijl
+Schepperbuurt,18,"","",9948PR,Termunterzijl
+Schepperbuurt,19,"","",9948PR,Termunterzijl
+Schepperbuurt,20,"","",9948PR,Termunterzijl
+Schepperbuurt,21,"","",9948PR,Termunterzijl
+Schepperbuurt,22,"","",9948PR,Termunterzijl
+Schepperbuurt,23,"","",9948PR,Termunterzijl
+Schepperbuurt,24,"","",9948PR,Termunterzijl
+Schepperbuurt,25,"","",9948PR,Termunterzijl
+Schepperbuurt,26,"","",9948PR,Termunterzijl
+Schepperbuurt,27,"","",9948PR,Termunterzijl
+Schepperbuurt,28,"","",9948PR,Termunterzijl
+Schepperbuurt,29,"","",9948PR,Termunterzijl
+Schepperbuurt,30,"","",9948PR,Termunterzijl
+Schepperbuurt,31,"","",9948PR,Termunterzijl
+Schepperbuurt,32,"","",9948PS,Termunterzijl
+Schepperbuurt,32,"","",9948PS,Termunterzijl
+Schepperbuurt,33,"","",9948PS,Termunterzijl
+Schepperbuurt,33,"","",9948PS,Termunterzijl
+Schepperbuurt,34,"","",9948PS,Termunterzijl
+Schepperbuurt,35,"","",9948PS,Termunterzijl
+Schepperbuurt,36,"","",9948PS,Termunterzijl
+Schepperbuurt,37,"","",9948PS,Termunterzijl
+Schepperbuurt,37,"","",9948PS,Termunterzijl
+Schepperbuurt,37,A,"",9948PS,Termunterzijl
+Schepperbuurt,37,A,"",9948PS,Termunterzijl
+Schepperbuurt,37,B,"",9948PS,Termunterzijl
+Schepperbuurt,37,C,"",9948PS,Termunterzijl
+Schepperbuurt,37,C,"",9948PS,Termunterzijl
+Schepperbuurt,37,D,"",9948PS,Termunterzijl
+Schepperbuurt,37,D,"",9948PS,Termunterzijl
+Schepperbuurt,37,E,"",9948PS,Termunterzijl
+Schepperbuurt,37,E,"",9948PS,Termunterzijl
+Schepperbuurt,37,F,"",9948PS,Termunterzijl
+Schepperbuurt,37,F,"",9948PS,Termunterzijl
+Schepperbuurt,37,G,"",9948PS,Termunterzijl
+Schepperbuurt,37,G,"",9948PS,Termunterzijl
+Schepperbuurt,37,H,"",9948PS,Termunterzijl
+Schepperbuurt,37,H,"",9948PS,Termunterzijl
+Schepperbuurt,37,K,"",9948PS,Termunterzijl
+Schepperbuurt,37,K,"",9948PS,Termunterzijl
+Schepperbuurt,37,L,"",9948PS,Termunterzijl
+Schepperbuurt,37,L,"",9948PS,Termunterzijl
+Schepperbuurt,38,"","",9948PS,Termunterzijl

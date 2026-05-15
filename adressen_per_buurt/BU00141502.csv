@@ -1,601 +1,314 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9798PA",19,"",""
-"9798PA",9,"",""
-"9798PA",15,"",""
-"9798PA",6,"",""
-"9798PA",7,"",""
-"9798PA",1,"",""
-"9798PA",6,"",""
-"9798PA",11,"a",""
-"9798PA",6,"a",""
-"9798PA",4,"",""
-"9798PA",2,"",""
-"9798PA",14,"",""
-"9798PA",12,"",""
-"9798PA",8,"",""
-"9798PA",11,"A",""
-"9798PA",3,"",""
-"9798PA",6,"",""
-"9798PA",17,"",""
-"9798PA",10,"",""
-"9798PA",18,"",""
-"9798PA",11,"",""
-"9798PB",29,"",""
-"9798PB",28,"",""
-"9798PB",32,"",""
-"9798PB",22,"",""
-"9798PB",27,"",""
-"9798PB",33,"",""
-"9798PB",26,"",""
-"9798PB",34,"",""
-"9798PB",23,"",""
-"9798PB",21,"",""
-"9798PB",35,"",""
-"9798PB",25,"",""
-"9798PB",20,"",""
-"9798PB",31,"",""
-"9798PC",13,"",""
-"9798PC",1,"",""
-"9798PC",15,"",""
-"9798PC",19,"",""
-"9798PC",27,"",""
-"9798PC",11,"",""
-"9798PC",33,"",""
-"9798PC",13,"",""
-"9798PC",29,"",""
-"9798PC",31,"A",""
-"9798PC",25,"",""
-"9798PC",21,"",""
-"9798PC",35,"",""
-"9798PC",7,"",""
-"9798PC",5,"",""
-"9798PC",31,"",""
-"9798PC",31,"a",""
-"9798PC",31,"a",""
-"9798PC",13,"",""
-"9798PC",31,"a",""
-"9798PC",17,"",""
-"9798PC",37,"",""
-"9798PD",45,"",""
-"9798PD",51,"",""
-"9798PD",73,"",""
-"9798PD",63,"",""
-"9798PD",57,"",""
-"9798PD",55,"",""
-"9798PD",53,"",""
-"9798PD",39,"",""
-"9798PD",41,"",""
-"9798PD",49,"",""
-"9798PD",59,"",""
-"9798PD",69,"a",""
-"9798PD",61,"",""
-"9798PD",65,"",""
-"9798PD",67,"",""
-"9798PD",69,"",""
-"9798PD",43,"",""
-"9798PE",8,"",""
-"9798PE",6,"",""
-"9798PE",30,"",""
-"9798PE",28,"",""
-"9798PE",10,"",""
-"9798PE",24,"",""
-"9798PE",32,"",""
-"9798PE",12,"",""
-"9798PE",2,"",""
-"9798PE",16,"",""
-"9798PE",4,"",""
-"9798PE",22,"",""
-"9798PE",34,"",""
-"9798PE",36,"",""
-"9798PE",26,"",""
-"9798PE",18,"",""
-"9798PE",14,"",""
-"9798PG",46,"a",""
-"9798PG",54,"",""
-"9798PG",50,"",""
-"9798PG",48,"",""
-"9798PG",58,"",""
-"9798PG",46,"A",""
-"9798PG",40,"",""
-"9798PG",52,"",""
-"9798PG",62,"",""
-"9798PG",68,"",""
-"9798PG",64,"",""
-"9798PG",42,"",""
-"9798PG",66,"",""
-"9798PG",46,"",""
-"9798PG",70,"",""
-"9798PG",60,"",""
-"9798PG",38,"",""
-"9798PH",33,"",""
-"9798PH",49,"",""
-"9798PH",41,"",""
-"9798PH",9,"",""
-"9798PH",45,"",""
-"9798PH",7,"",""
-"9798PH",35,"",""
-"9798PH",15,"A",""
-"9798PH",13,"",""
-"9798PH",47,"",""
-"9798PH",13,"",""
-"9798PH",55,"",""
-"9798PH",15,"b",""
-"9798PH",39,"",""
-"9798PH",15,"",""
-"9798PH",9,"",""
-"9798PH",9,"","aa"
-"9798PH",27,"",""
-"9798PH",37,"",""
-"9798PH",11,"",""
-"9798PH",31,"",""
-"9798PH",59,"",""
-"9798PH",5,"",""
-"9798PH",17,"",""
-"9798PH",53,"",""
-"9798PH",61,"",""
-"9798PH",9,"",""
-"9798PH",15,"a",""
-"9798PH",15,"",""
-"9798PH",29,"",""
-"9798PH",25,"",""
-"9798PH",15,"",""
-"9798PH",43,"",""
-"9798PH",15,"c",""
-"9798PH",51,"",""
-"9798PH",3,"",""
-"9798PH",13,"",""
-"9798PH",11,"",""
-"9798PH",19,"",""
-"9798PH",11,"",""
-"9798PH",57,"",""
-"9798PH",15,"B",""
-"9798PH",23,"",""
-"9798PH",21,"",""
-"9798PH",15,"d",""
-"9798PH",15,"d",""
-"9798PJ",6,"",""
-"9798PJ",12,"",""
-"9798PJ",22,"",""
-"9798PJ",10,"",""
-"9798PJ",24,"",""
-"9798PJ",14,"",""
-"9798PJ",30,"",""
-"9798PJ",8,"",""
-"9798PJ",28,"",""
-"9798PJ",16,"",""
-"9798PJ",26,"",""
-"9798PJ",20,"",""
-"9798PJ",18,"",""
-"9798PK",15,"",""
-"9798PK",9,"",""
-"9798PK",17,"",""
-"9798PK",13,"",""
-"9798PK",5,"",""
-"9798PK",1,"",""
-"9798PK",7,"",""
-"9798PK",11,"",""
-"9798PK",3,"",""
-"9798PL",10,"",""
-"9798PL",16,"",""
-"9798PL",6,"",""
-"9798PL",8,"",""
-"9798PL",22,"",""
-"9798PL",14,"",""
-"9798PL",2,"",""
-"9798PL",12,"",""
-"9798PL",4,"",""
-"9798PL",24,"",""
-"9798PL",26,"",""
-"9798PL",18,"",""
-"9798PL",20,"",""
-"9798PM",5,"",""
-"9798PM",1,"",""
-"9798PM",4,"",""
-"9798PM",3,"",""
-"9798PM",8,"",""
-"9798PM",2,"",""
-"9798PM",9,"",""
-"9798PM",7,"",""
-"9798PM",6,"",""
-"9798PN",5,"",""
-"9798PN",3,"",""
-"9798PN",4,"",""
-"9798PN",2,"",""
-"9798PN",6,"",""
-"9798PN",1,"",""
-"9798TA",3,"",""
-"9798TA",7,"",""
-"9798TA",11,"",""
-"9798TA",15,"",""
-"9798TA",1,"",""
-"9798TA",8,"",""
-"9798TA",2,"",""
-"9798TB",1,"","1"
-"9798TB",1,"","3"
-"9798TB",3,"",""
-"9798TB",1,"","2"
-"9798TB",1,"","4"
-"9798TB",1,"",""
-"9798TC",12,"",""
-"9798TC",31,"t",""
-"9798TC",31,"p",""
-"9798TC",31,"s",""
-"9798TC",11,"",""
-"9798TC",31,"a",""
-"9798TC",31,"r",""
-"9798TC",5,"",""
-"9798TC",21,"",""
-"9798TC",31,"r",""
-"9798TC",37,"",""
-"9798TC",31,"p",""
-"9798TC",31,"a",""
-"9798TC",37,"a",""
-"9798TC",13,"",""
-"9798TC",31,"",""
-"9798TC",31,"s",""
-"9798TC",9,"",""
-"9798TC",18,"",""
-"9798TC",3,"",""
-"9798TC",31,"n",""
-"9798TC",1,"",""
-"9798TC",31,"w",""
-"9798TC",35,"",""
-"9798TC",37,"",""
-"9798TC",12,"",""
-"9798TC",31,"b",""
-"9798TC",31,"b",""
-"9798TC",31,"c",""
-"9798TC",10,"",""
-"9798TC",17,"",""
-"9798TC",8,"",""
-"9798TC",2,"a",""
-"9798TC",31,"n",""
-"9798TC",2,"",""
-"9798TC",31,"e",""
-"9798TC",25,"",""
-"9798TC",12,"",""
-"9798TC",31,"c",""
-"9798TC",31,"g",""
-"9798TC",31,"A",""
-"9798TC",31,"h",""
-"9798TC",15,"",""
-"9798TC",31,"e",""
-"9798TC",31,"d",""
-"9798TC",2,"A",""
-"9798TC",31,"m",""
-"9798TC",31,"t",""
-"9798TC",31,"m",""
-"9798TC",31,"f",""
-"9798TC",31,"w",""
-"9798TC",31,"h",""
-"9798TC",31,"k",""
-"9798TC",7,"",""
-"9798TC",31,"k",""
-"9798TC",31,"f",""
-"9798TC",31,"g",""
-"9798TC",31,"b",""
-"9798TC",31,"d",""
-"9798TD",13,"",""
-"9798TD",31,"",""
-"9798TD",27,"",""
-"9798TD",3,"",""
-"9798TD",25,"",""
-"9798TD",29,"",""
-"9798TD",23,"",""
-"9798TD",19,"",""
-"9798TD",11,"",""
-"9798TD",9,"",""
-"9798TD",5,"",""
-"9798TD",15,"",""
-"9798TD",7,"",""
-"9798TE",3,"",""
-"9798TE",1,"",""
-"9798TE",5,"",""
-"9798TE",9,"",""
-"9798TG",18,"",""
-"9798TG",16,"",""
-"9798TG",2,"",""
-"9798TG",12,"",""
-"9798TG",22,"",""
-"9798TG",3,"",""
-"9798TG",14,"",""
-"9798TG",8,"",""
-"9798TG",5,"",""
-"9798TG",10,"",""
-"9798TG",22,"A",""
-"9798TG",22,"a",""
-"9798TG",10,"",""
-"9798TG",20,"",""
-"9798TG",1,"",""
-"9798TG",10,"",""
-"9798TG",8,"",""
-"9798TG",6,"",""
-"9798TG",4,"",""
-"9798TH",1,"",""
-9798PC,Dorpsweg,7,,
-9798PC,Dorpsweg,1,,
-9798PC,Dorpsweg,21,,
-9798PC,Dorpsweg,25,,
-9798PC,Dorpsweg,15,,
-9798PC,Dorpsweg,5,,
-9798PC,Dorpsweg,37,,
-9798PC,Dorpsweg,17,,
-9798PC,Dorpsweg,27,,
-9798PC,Dorpsweg,11,,
-9798PC,Dorpsweg,31,,
-9798PC,Dorpsweg,33,,
-9798PC,Dorpsweg,19,,
-9798PC,Dorpsweg,13,,
-9798PC,Dorpsweg,29,,
-9798PC,Dorpsweg,35,,
-9798PC,Dorpsweg,31,A,
-9798PC,Dorpsweg,31,a,
-9798PD,Dorpsweg,39,,
-9798PD,Dorpsweg,65,,
-9798PD,Dorpsweg,61,,
-9798PD,Dorpsweg,63,,
-9798PD,Dorpsweg,41,,
-9798PD,Dorpsweg,49,,
-9798PD,Dorpsweg,67,,
-9798PD,Dorpsweg,51,,
-9798PD,Dorpsweg,45,,
-9798PD,Dorpsweg,55,,
-9798PD,Dorpsweg,59,,
-9798PD,Dorpsweg,73,,
-9798PD,Dorpsweg,53,,
-9798PD,Dorpsweg,57,,
-9798PD,Dorpsweg,69,,
-9798PD,Dorpsweg,43,,
-9798PD,Dorpsweg,69,a,
-9798PE,Dorpsweg,32,,
-9798PE,Dorpsweg,28,,
-9798PE,Dorpsweg,36,,
-9798PE,Dorpsweg,14,,
-9798PE,Dorpsweg,26,,
-9798PE,Dorpsweg,8,,
-9798PE,Dorpsweg,24,,
-9798PE,Dorpsweg,12,,
-9798PE,Dorpsweg,22,,
-9798PE,Dorpsweg,30,,
-9798PE,Dorpsweg,10,,
-9798PE,Dorpsweg,6,,
-9798PE,Dorpsweg,16,,
-9798PE,Dorpsweg,18,,
-9798PE,Dorpsweg,4,,
-9798PE,Dorpsweg,34,,
-9798PE,Dorpsweg,2,,
-9798PG,Dorpsweg,38,,
-9798PG,Dorpsweg,46,,
-9798PG,Dorpsweg,52,,
-9798PG,Dorpsweg,70,,
-9798PG,Dorpsweg,42,,
-9798PG,Dorpsweg,46,A,
-9798PG,Dorpsweg,46,a,
-9798PG,Dorpsweg,40,,
-9798PG,Dorpsweg,58,,
-9798PG,Dorpsweg,54,,
-9798PG,Dorpsweg,68,,
-9798PG,Dorpsweg,62,,
-9798PG,Dorpsweg,50,,
-9798PG,Dorpsweg,48,,
-9798PG,Dorpsweg,64,,
-9798PG,Dorpsweg,66,,
-9798PG,Dorpsweg,60,,
-9798TB,Eemskanaal-Noordzijde,3,,
-9798TB,Eemskanaal-Noordzijde,1,,
-9798TA,Geweideweg,7,,
-9798TA,Geweideweg,2,,
-9798TA,Geweideweg,15,,
-9798TA,Geweideweg,11,,
-9798TA,Geweideweg,3,,
-9798TA,Geweideweg,8,,
-9798TA,Geweideweg,1,,
-9798TC,Grasdijkweg,7,,
-9798TC,Grasdijkweg,35,,
-9798TC,Grasdijkweg,17,,
-9798TC,Grasdijkweg,9,,
-9798TC,Grasdijkweg,13,,
-9798TC,Grasdijkweg,5,,
-9798TC,Grasdijkweg,1,,
-9798TC,Grasdijkweg,25,,
-9798TC,Grasdijkweg,12,,
-9798TC,Grasdijkweg,18,,
-9798TC,Grasdijkweg,31,,
-9798TC,Grasdijkweg,11,,
-9798TC,Grasdijkweg,3,,
-9798TC,Grasdijkweg,10,,
-9798TC,Grasdijkweg,37,,
-9798TC,Grasdijkweg,8,,
-9798TC,Grasdijkweg,15,,
-9798TC,Grasdijkweg,21,,
-9798TC,Grasdijkweg,2,,
-9798TC,Grasdijkweg,31,A,
-9798TC,Grasdijkweg,31,a,
-9798TC,Grasdijkweg,2,A,
-9798TC,Grasdijkweg,2,a,
-9798PM,Koningsheert,2,,
-9798PM,Koningsheert,8,,
-9798PM,Koningsheert,6,,
-9798PM,Koningsheert,4,,
-9798PM,Koningsheert,1,,
-9798PM,Koningsheert,3,,
-9798PM,Koningsheert,9,,
-9798PM,Koningsheert,7,,
-9798PM,Koningsheert,5,,
-9798PK,L. van der Veenstraat,3,,
-9798PK,L. van der Veenstraat,5,,
-9798PK,L. van der Veenstraat,11,,
-9798PK,L. van der Veenstraat,9,,
-9798PK,L. van der Veenstraat,15,,
-9798PK,L. van der Veenstraat,7,,
-9798PK,L. van der Veenstraat,13,,
-9798PK,L. van der Veenstraat,1,,
-9798PK,L. van der Veenstraat,17,,
-9798PL,L. van der Veenstraat,4,,
-9798PL,L. van der Veenstraat,6,,
-9798PL,L. van der Veenstraat,20,,
-9798PL,L. van der Veenstraat,14,,
-9798PL,L. van der Veenstraat,16,,
-9798PL,L. van der Veenstraat,10,,
-9798PL,L. van der Veenstraat,22,,
-9798PL,L. van der Veenstraat,12,,
-9798PL,L. van der Veenstraat,18,,
-9798PL,L. van der Veenstraat,8,,
-9798PL,L. van der Veenstraat,2,,
-9798PL,L. van der Veenstraat,24,,
-9798PL,L. van der Veenstraat,26,,
-9798TG,Lageweg,18,,
-9798TG,Lageweg,20,,
-9798TG,Lageweg,4,,
-9798TG,Lageweg,1,,
-9798TG,Lageweg,16,,
-9798TG,Lageweg,12,,
-9798TG,Lageweg,22,A,
-9798TG,Lageweg,22,a,
-9798TG,Lageweg,5,,
-9798TG,Lageweg,6,,
-9798TG,Lageweg,8,,
-9798TG,Lageweg,3,,
-9798TG,Lageweg,2,,
-9798TG,Lageweg,10,,
-9798TG,Lageweg,14,,
-9798TG,Lageweg,22,,
-9798PN,Meester Rijkensstraat,1,,
-9798PN,Meester Rijkensstraat,2,,
-9798PN,Meester Rijkensstraat,3,,
-9798PN,Meester Rijkensstraat,4,,
-9798PN,Meester Rijkensstraat,5,,
-9798PN,Meester Rijkensstraat,6,,
-9798PA,Oude Rijksweg,2,,
-9798PA,Oude Rijksweg,1,,
-9798PA,Oude Rijksweg,17,,
-9798PA,Oude Rijksweg,10,,
-9798PA,Oude Rijksweg,9,,
-9798PA,Oude Rijksweg,7,,
-9798PA,Oude Rijksweg,18,,
-9798PA,Oude Rijksweg,19,,
-9798PA,Oude Rijksweg,8,,
-9798PA,Oude Rijksweg,3,,
-9798PA,Oude Rijksweg,14,,
-9798PA,Oude Rijksweg,12,,
-9798PA,Oude Rijksweg,15,,
-9798PA,Oude Rijksweg,11,,
-9798PA,Oude Rijksweg,6,,
-9798PA,Oude Rijksweg,11,A,
-9798PA,Oude Rijksweg,11,a,
-9798PA,Oude Rijksweg,4,,
-9798PA,Oude Rijksweg,6,,
-9798PA,Oude Rijksweg,6,a,
-9798PB,Oude Rijksweg,31,,
-9798PB,Oude Rijksweg,25,,
-9798PB,Oude Rijksweg,29,,
-9798PB,Oude Rijksweg,33,,
-9798PB,Oude Rijksweg,20,,
-9798PB,Oude Rijksweg,34,,
-9798PB,Oude Rijksweg,22,,
-9798PB,Oude Rijksweg,27,,
-9798PB,Oude Rijksweg,35,,
-9798PB,Oude Rijksweg,23,,
-9798PB,Oude Rijksweg,21,,
-9798PB,Oude Rijksweg,26,,
-9798PB,Oude Rijksweg,28,,
-9798PB,Oude Rijksweg,32,,
-9798TD,Rijksweg,7,,
-9798TD,Rijksweg,25,,
-9798TD,Rijksweg,27,,
-9798TD,Rijksweg,11,,
-9798TD,Rijksweg,29,,
-9798TD,Rijksweg,13,,
-9798TD,Rijksweg,3,,
-9798TD,Rijksweg,9,,
-9798TD,Rijksweg,5,,
-9798TD,Rijksweg,15,,
-9798TD,Rijksweg,31,,
-9798TD,Rijksweg,23,,
-9798TD,Rijksweg,19,,
-9798TE,Stadsweg,1,,
-9798TE,Stadsweg,3,,
-9798TE,Stadsweg,5,,
-9798TE,Stadsweg,9,,
-9798PH,W.F. Hildebrandstraat,3,,
-9798PH,W.F. Hildebrandstraat,37,,
-9798PH,W.F. Hildebrandstraat,55,,
-9798PH,W.F. Hildebrandstraat,25,,
-9798PH,W.F. Hildebrandstraat,17,,
-9798PH,W.F. Hildebrandstraat,5,,
-9798PH,W.F. Hildebrandstraat,53,,
-9798PH,W.F. Hildebrandstraat,51,,
-9798PH,W.F. Hildebrandstraat,43,,
-9798PH,W.F. Hildebrandstraat,21,,
-9798PH,W.F. Hildebrandstraat,19,,
-9798PH,W.F. Hildebrandstraat,29,,
-9798PH,W.F. Hildebrandstraat,59,,
-9798PH,W.F. Hildebrandstraat,39,,
-9798PH,W.F. Hildebrandstraat,9,,
-9798PH,W.F. Hildebrandstraat,23,,
-9798PH,W.F. Hildebrandstraat,27,,
-9798PH,W.F. Hildebrandstraat,31,,
-9798PH,W.F. Hildebrandstraat,15,,
-9798PH,W.F. Hildebrandstraat,49,,
-9798PH,W.F. Hildebrandstraat,41,,
-9798PH,W.F. Hildebrandstraat,45,,
-9798PH,W.F. Hildebrandstraat,33,,
-9798PH,W.F. Hildebrandstraat,11,,
-9798PH,W.F. Hildebrandstraat,57,,
-9798PH,W.F. Hildebrandstraat,61,,
-9798PH,W.F. Hildebrandstraat,7,,
-9798PH,W.F. Hildebrandstraat,13,,
-9798PH,W.F. Hildebrandstraat,47,,
-9798PH,W.F. Hildebrandstraat,35,,
-9798PH,W.F. Hildebrandstraat,15,A,
-9798PH,W.F. Hildebrandstraat,15,a,
-9798PH,W.F. Hildebrandstraat,15,B,
-9798PH,W.F. Hildebrandstraat,15,b,
-9798PH,W.F. Hildebrandstraat,9,,aa
-9798PH,W.F. Hildebrandstraat,9,,
-9798PH,W.F. Hildebrandstraat,11,,
-9798PH,W.F. Hildebrandstraat,13,,
-9798PH,W.F. Hildebrandstraat,15,,
-9798PH,W.F. Hildebrandstraat,15,c,
-9798PJ,W.F. Hildebrandstraat,18,,
-9798PJ,W.F. Hildebrandstraat,30,,
-9798PJ,W.F. Hildebrandstraat,24,,
-9798PJ,W.F. Hildebrandstraat,26,,
-9798PJ,W.F. Hildebrandstraat,28,,
-9798PJ,W.F. Hildebrandstraat,16,,
-9798PJ,W.F. Hildebrandstraat,22,,
-9798PJ,W.F. Hildebrandstraat,20,,
-9798PJ,W.F. Hildebrandstraat,14,,
-9798PJ,W.F. Hildebrandstraat,12,,
-9798PJ,W.F. Hildebrandstraat,10,,
-9798PJ,W.F. Hildebrandstraat,8,,
-9798PJ,W.F. Hildebrandstraat,6,,
-9798TB,Eemskanaal-Noordzijde,1,,1
-9798TB,Eemskanaal-Noordzijde,1,,2
-9798TC,Grasdijkweg,12,,
-9798TC,Grasdijkweg,31,b,
-9798TC,Grasdijkweg,31,c,
-9798TC,Grasdijkweg,31,d,
-9798TC,Grasdijkweg,31,e,
-9798TC,Grasdijkweg,31,f,
-9798TC,Grasdijkweg,31,g,
-9798TC,Grasdijkweg,31,h,
-9798TC,Grasdijkweg,31,k,
-9798TC,Grasdijkweg,31,m,
-9798TC,Grasdijkweg,31,n,
-9798TC,Grasdijkweg,31,p,
-9798TC,Grasdijkweg,31,r,
-9798TC,Grasdijkweg,31,s,
-9798TC,Grasdijkweg,31,t,
-9798TC,Grasdijkweg,31,w,
-9798TG,Lageweg,10,,
-9798TB,Eemskanaal-Noordzijde,1,,4
-9798TB,Eemskanaal-Noordzijde,1,,3
-9798TH,Fledderbosweg,1,,
-9798TC,Grasdijkweg,31,b,
-9798PH,W.F. Hildebrandstraat,15,d,
-9798PC,Dorpsweg,13,,
-9798PC,Dorpsweg,31,a,
-9798TC,Grasdijkweg,37,a,
-9798TC,Grasdijkweg,37,,
-9798TC,Grasdijkweg,33,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oude Rijksweg,1,"","",9798PA,Garmerwolde
+Oude Rijksweg,10,"","",9798PA,Garmerwolde
+Oude Rijksweg,11,"","",9798PA,Garmerwolde
+Oude Rijksweg,11,A,"",9798PA,Garmerwolde
+Oude Rijksweg,11,A,"",9798PA,Garmerwolde
+Oude Rijksweg,12,"","",9798PA,Garmerwolde
+Oude Rijksweg,14,"","",9798PA,Garmerwolde
+Oude Rijksweg,15,"","",9798PA,Garmerwolde
+Oude Rijksweg,17,"","",9798PA,Garmerwolde
+Oude Rijksweg,18,"","",9798PA,Garmerwolde
+Oude Rijksweg,19,"","",9798PA,Garmerwolde
+Oude Rijksweg,2,"","",9798PA,Garmerwolde
+Oude Rijksweg,3,"","",9798PA,Garmerwolde
+Oude Rijksweg,4,"","",9798PA,Garmerwolde
+Oude Rijksweg,6,"","",9798PA,Garmerwolde
+Oude Rijksweg,6,"","",9798PA,Garmerwolde
+Oude Rijksweg,6,"","",9798PA,Garmerwolde
+Oude Rijksweg,6,A,"",9798PA,Garmerwolde
+Oude Rijksweg,7,"","",9798PA,Garmerwolde
+Oude Rijksweg,8,"","",9798PA,Garmerwolde
+Oude Rijksweg,9,"","",9798PA,Garmerwolde
+Oude Rijksweg,20,"","",9798PB,Garmerwolde
+Oude Rijksweg,21,"","",9798PB,Garmerwolde
+Oude Rijksweg,22,"","",9798PB,Garmerwolde
+Oude Rijksweg,23,"","",9798PB,Garmerwolde
+Oude Rijksweg,25,"","",9798PB,Garmerwolde
+Oude Rijksweg,26,"","",9798PB,Garmerwolde
+Oude Rijksweg,27,"","",9798PB,Garmerwolde
+Oude Rijksweg,28,"","",9798PB,Garmerwolde
+Oude Rijksweg,29,"","",9798PB,Garmerwolde
+Oude Rijksweg,31,"","",9798PB,Garmerwolde
+Oude Rijksweg,32,"","",9798PB,Garmerwolde
+Oude Rijksweg,33,"","",9798PB,Garmerwolde
+Oude Rijksweg,34,"","",9798PB,Garmerwolde
+Oude Rijksweg,35,"","",9798PB,Garmerwolde
+Dorpsweg,1,"","",9798PC,Garmerwolde
+Dorpsweg,11,"","",9798PC,Garmerwolde
+Dorpsweg,13,"","",9798PC,Garmerwolde
+Dorpsweg,13,"","",9798PC,Garmerwolde
+Dorpsweg,13,"","",9798PC,Garmerwolde
+Dorpsweg,15,"","",9798PC,Garmerwolde
+Dorpsweg,17,"","",9798PC,Garmerwolde
+Dorpsweg,19,"","",9798PC,Garmerwolde
+Dorpsweg,21,"","",9798PC,Garmerwolde
+Dorpsweg,25,"","",9798PC,Garmerwolde
+Dorpsweg,27,"","",9798PC,Garmerwolde
+Dorpsweg,29,"","",9798PC,Garmerwolde
+Dorpsweg,31,"","",9798PC,Garmerwolde
+Dorpsweg,31,A,"",9798PC,Garmerwolde
+Dorpsweg,31,A,"",9798PC,Garmerwolde
+Dorpsweg,31,A,"",9798PC,Garmerwolde
+Dorpsweg,31,A,"",9798PC,Garmerwolde
+Dorpsweg,33,"","",9798PC,Garmerwolde
+Dorpsweg,35,"","",9798PC,Garmerwolde
+Dorpsweg,37,"","",9798PC,Garmerwolde
+Dorpsweg,5,"","",9798PC,Garmerwolde
+Dorpsweg,7,"","",9798PC,Garmerwolde
+Dorpsweg,39,"","",9798PD,Garmerwolde
+Dorpsweg,41,"","",9798PD,Garmerwolde
+Dorpsweg,43,"","",9798PD,Garmerwolde
+Dorpsweg,45,"","",9798PD,Garmerwolde
+Dorpsweg,49,"","",9798PD,Garmerwolde
+Dorpsweg,51,"","",9798PD,Garmerwolde
+Dorpsweg,53,"","",9798PD,Garmerwolde
+Dorpsweg,55,"","",9798PD,Garmerwolde
+Dorpsweg,57,"","",9798PD,Garmerwolde
+Dorpsweg,59,"","",9798PD,Garmerwolde
+Dorpsweg,61,"","",9798PD,Garmerwolde
+Dorpsweg,63,"","",9798PD,Garmerwolde
+Dorpsweg,65,"","",9798PD,Garmerwolde
+Dorpsweg,67,"","",9798PD,Garmerwolde
+Dorpsweg,69,"","",9798PD,Garmerwolde
+Dorpsweg,69,A,"",9798PD,Garmerwolde
+Dorpsweg,73,"","",9798PD,Garmerwolde
+Dorpsweg,10,"","",9798PE,Garmerwolde
+Dorpsweg,12,"","",9798PE,Garmerwolde
+Dorpsweg,14,"","",9798PE,Garmerwolde
+Dorpsweg,16,"","",9798PE,Garmerwolde
+Dorpsweg,18,"","",9798PE,Garmerwolde
+Dorpsweg,2,"","",9798PE,Garmerwolde
+Dorpsweg,22,"","",9798PE,Garmerwolde
+Dorpsweg,24,"","",9798PE,Garmerwolde
+Dorpsweg,26,"","",9798PE,Garmerwolde
+Dorpsweg,28,"","",9798PE,Garmerwolde
+Dorpsweg,30,"","",9798PE,Garmerwolde
+Dorpsweg,32,"","",9798PE,Garmerwolde
+Dorpsweg,34,"","",9798PE,Garmerwolde
+Dorpsweg,36,"","",9798PE,Garmerwolde
+Dorpsweg,4,"","",9798PE,Garmerwolde
+Dorpsweg,6,"","",9798PE,Garmerwolde
+Dorpsweg,8,"","",9798PE,Garmerwolde
+Dorpsweg,38,"","",9798PG,Garmerwolde
+Dorpsweg,40,"","",9798PG,Garmerwolde
+Dorpsweg,42,"","",9798PG,Garmerwolde
+Dorpsweg,46,"","",9798PG,Garmerwolde
+Dorpsweg,46,A,"",9798PG,Garmerwolde
+Dorpsweg,46,A,"",9798PG,Garmerwolde
+Dorpsweg,48,"","",9798PG,Garmerwolde
+Dorpsweg,50,"","",9798PG,Garmerwolde
+Dorpsweg,52,"","",9798PG,Garmerwolde
+Dorpsweg,54,"","",9798PG,Garmerwolde
+Dorpsweg,58,"","",9798PG,Garmerwolde
+Dorpsweg,60,"","",9798PG,Garmerwolde
+Dorpsweg,62,"","",9798PG,Garmerwolde
+Dorpsweg,64,"","",9798PG,Garmerwolde
+Dorpsweg,66,"","",9798PG,Garmerwolde
+Dorpsweg,68,"","",9798PG,Garmerwolde
+Dorpsweg,70,"","",9798PG,Garmerwolde
+W.F. Hildebrandstraat,11,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,11,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,11,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,13,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,13,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,13,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,A,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,A,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,B,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,B,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,C,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,D,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,15,D,"",9798PH,Garmerwolde
+W.F. Hildebrandstraat,17,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,19,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,21,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,23,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,25,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,27,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,29,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,3,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,31,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,33,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,35,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,37,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,39,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,41,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,43,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,45,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,47,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,49,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,5,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,51,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,53,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,55,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,57,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,59,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,61,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,7,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,9,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,9,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,9,"","",9798PH,Garmerwolde
+W.F. Hildebrandstraat,9,"",AA,9798PH,Garmerwolde
+W.F. Hildebrandstraat,10,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,12,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,14,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,16,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,18,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,20,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,22,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,24,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,26,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,28,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,30,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,6,"","",9798PJ,Garmerwolde
+W.F. Hildebrandstraat,8,"","",9798PJ,Garmerwolde
+L. van der Veenstraat,1,"","",9798PK,Garmerwolde
+L. van der Veenstraat,11,"","",9798PK,Garmerwolde
+L. van der Veenstraat,13,"","",9798PK,Garmerwolde
+L. van der Veenstraat,15,"","",9798PK,Garmerwolde
+L. van der Veenstraat,17,"","",9798PK,Garmerwolde
+L. van der Veenstraat,3,"","",9798PK,Garmerwolde
+L. van der Veenstraat,5,"","",9798PK,Garmerwolde
+L. van der Veenstraat,7,"","",9798PK,Garmerwolde
+L. van der Veenstraat,9,"","",9798PK,Garmerwolde
+L. van der Veenstraat,10,"","",9798PL,Garmerwolde
+L. van der Veenstraat,12,"","",9798PL,Garmerwolde
+L. van der Veenstraat,14,"","",9798PL,Garmerwolde
+L. van der Veenstraat,16,"","",9798PL,Garmerwolde
+L. van der Veenstraat,18,"","",9798PL,Garmerwolde
+L. van der Veenstraat,2,"","",9798PL,Garmerwolde
+L. van der Veenstraat,20,"","",9798PL,Garmerwolde
+L. van der Veenstraat,22,"","",9798PL,Garmerwolde
+L. van der Veenstraat,24,"","",9798PL,Garmerwolde
+L. van der Veenstraat,26,"","",9798PL,Garmerwolde
+L. van der Veenstraat,4,"","",9798PL,Garmerwolde
+L. van der Veenstraat,6,"","",9798PL,Garmerwolde
+L. van der Veenstraat,8,"","",9798PL,Garmerwolde
+Koningsheert,1,"","",9798PM,Garmerwolde
+Koningsheert,2,"","",9798PM,Garmerwolde
+Koningsheert,3,"","",9798PM,Garmerwolde
+Koningsheert,4,"","",9798PM,Garmerwolde
+Koningsheert,5,"","",9798PM,Garmerwolde
+Koningsheert,6,"","",9798PM,Garmerwolde
+Koningsheert,7,"","",9798PM,Garmerwolde
+Koningsheert,8,"","",9798PM,Garmerwolde
+Koningsheert,9,"","",9798PM,Garmerwolde
+Meester Rijkensstraat,1,"","",9798PN,Garmerwolde
+Meester Rijkensstraat,2,"","",9798PN,Garmerwolde
+Meester Rijkensstraat,3,"","",9798PN,Garmerwolde
+Meester Rijkensstraat,4,"","",9798PN,Garmerwolde
+Meester Rijkensstraat,5,"","",9798PN,Garmerwolde
+Meester Rijkensstraat,6,"","",9798PN,Garmerwolde
+Geweideweg,1,"","",9798TA,Garmerwolde
+Geweideweg,11,"","",9798TA,Garmerwolde
+Geweideweg,15,"","",9798TA,Garmerwolde
+Geweideweg,2,"","",9798TA,Garmerwolde
+Geweideweg,3,"","",9798TA,Garmerwolde
+Geweideweg,7,"","",9798TA,Garmerwolde
+Geweideweg,8,"","",9798TA,Garmerwolde
+Eemskanaal-Noordzijde,1,"","",9798TB,Garmerwolde
+Eemskanaal-Noordzijde,1,"",1,9798TB,Garmerwolde
+Eemskanaal-Noordzijde,1,"",2,9798TB,Garmerwolde
+Eemskanaal-Noordzijde,1,"",3,9798TB,Garmerwolde
+Eemskanaal-Noordzijde,1,"",4,9798TB,Garmerwolde
+Eemskanaal-Noordzijde,3,"","",9798TB,Garmerwolde
+Grasdijkweg,1,"","",9798TC,Garmerwolde
+Grasdijkweg,10,"","",9798TC,Garmerwolde
+Grasdijkweg,11,"","",9798TC,Garmerwolde
+Grasdijkweg,12,"","",9798TC,Garmerwolde
+Grasdijkweg,12,"","",9798TC,Garmerwolde
+Grasdijkweg,12,"","",9798TC,Garmerwolde
+Grasdijkweg,13,"","",9798TC,Garmerwolde
+Grasdijkweg,15,"","",9798TC,Garmerwolde
+Grasdijkweg,17,"","",9798TC,Garmerwolde
+Grasdijkweg,18,"","",9798TC,Garmerwolde
+Grasdijkweg,2,"","",9798TC,Garmerwolde
+Grasdijkweg,2,A,"",9798TC,Garmerwolde
+Grasdijkweg,2,A,"",9798TC,Garmerwolde
+Grasdijkweg,21,"","",9798TC,Garmerwolde
+Grasdijkweg,25,"","",9798TC,Garmerwolde
+Grasdijkweg,3,"","",9798TC,Garmerwolde
+Grasdijkweg,31,"","",9798TC,Garmerwolde
+Grasdijkweg,31,A,"",9798TC,Garmerwolde
+Grasdijkweg,31,A,"",9798TC,Garmerwolde
+Grasdijkweg,31,A,"",9798TC,Garmerwolde
+Grasdijkweg,31,B,"",9798TC,Garmerwolde
+Grasdijkweg,31,B,"",9798TC,Garmerwolde
+Grasdijkweg,31,B,"",9798TC,Garmerwolde
+Grasdijkweg,31,C,"",9798TC,Garmerwolde
+Grasdijkweg,31,C,"",9798TC,Garmerwolde
+Grasdijkweg,31,D,"",9798TC,Garmerwolde
+Grasdijkweg,31,D,"",9798TC,Garmerwolde
+Grasdijkweg,31,E,"",9798TC,Garmerwolde
+Grasdijkweg,31,E,"",9798TC,Garmerwolde
+Grasdijkweg,31,F,"",9798TC,Garmerwolde
+Grasdijkweg,31,F,"",9798TC,Garmerwolde
+Grasdijkweg,31,G,"",9798TC,Garmerwolde
+Grasdijkweg,31,G,"",9798TC,Garmerwolde
+Grasdijkweg,31,H,"",9798TC,Garmerwolde
+Grasdijkweg,31,H,"",9798TC,Garmerwolde
+Grasdijkweg,31,K,"",9798TC,Garmerwolde
+Grasdijkweg,31,K,"",9798TC,Garmerwolde
+Grasdijkweg,31,M,"",9798TC,Garmerwolde
+Grasdijkweg,31,M,"",9798TC,Garmerwolde
+Grasdijkweg,31,N,"",9798TC,Garmerwolde
+Grasdijkweg,31,N,"",9798TC,Garmerwolde
+Grasdijkweg,31,P,"",9798TC,Garmerwolde
+Grasdijkweg,31,P,"",9798TC,Garmerwolde
+Grasdijkweg,31,R,"",9798TC,Garmerwolde
+Grasdijkweg,31,R,"",9798TC,Garmerwolde
+Grasdijkweg,31,S,"",9798TC,Garmerwolde
+Grasdijkweg,31,S,"",9798TC,Garmerwolde
+Grasdijkweg,31,T,"",9798TC,Garmerwolde
+Grasdijkweg,31,T,"",9798TC,Garmerwolde
+Grasdijkweg,31,W,"",9798TC,Garmerwolde
+Grasdijkweg,31,W,"",9798TC,Garmerwolde
+Grasdijkweg,35,"","",9798TC,Garmerwolde
+Grasdijkweg,37,"","",9798TC,Garmerwolde
+Grasdijkweg,37,"","",9798TC,Garmerwolde
+Grasdijkweg,37,A,"",9798TC,Garmerwolde
+Grasdijkweg,5,"","",9798TC,Garmerwolde
+Grasdijkweg,7,"","",9798TC,Garmerwolde
+Grasdijkweg,8,"","",9798TC,Garmerwolde
+Grasdijkweg,9,"","",9798TC,Garmerwolde
+Rijksweg,11,"","",9798TD,Garmerwolde
+Rijksweg,13,"","",9798TD,Garmerwolde
+Rijksweg,15,"","",9798TD,Garmerwolde
+Rijksweg,19,"","",9798TD,Garmerwolde
+Rijksweg,23,"","",9798TD,Garmerwolde
+Rijksweg,25,"","",9798TD,Garmerwolde
+Rijksweg,27,"","",9798TD,Garmerwolde
+Rijksweg,29,"","",9798TD,Garmerwolde
+Rijksweg,3,"","",9798TD,Garmerwolde
+Rijksweg,31,"","",9798TD,Garmerwolde
+Rijksweg,5,"","",9798TD,Garmerwolde
+Rijksweg,7,"","",9798TD,Garmerwolde
+Rijksweg,9,"","",9798TD,Garmerwolde
+Stadsweg,1,"","",9798TE,Garmerwolde
+Stadsweg,3,"","",9798TE,Garmerwolde
+Stadsweg,5,"","",9798TE,Garmerwolde
+Stadsweg,9,"","",9798TE,Garmerwolde
+Lageweg,1,"","",9798TG,Garmerwolde
+Lageweg,10,"","",9798TG,Garmerwolde
+Lageweg,10,"","",9798TG,Garmerwolde
+Lageweg,10,"","",9798TG,Garmerwolde
+Lageweg,12,"","",9798TG,Garmerwolde
+Lageweg,14,"","",9798TG,Garmerwolde
+Lageweg,16,"","",9798TG,Garmerwolde
+Lageweg,18,"","",9798TG,Garmerwolde
+Lageweg,2,"","",9798TG,Garmerwolde
+Lageweg,20,"","",9798TG,Garmerwolde
+Lageweg,22,"","",9798TG,Garmerwolde
+Lageweg,22,A,"",9798TG,Garmerwolde
+Lageweg,22,A,"",9798TG,Garmerwolde
+Lageweg,3,"","",9798TG,Garmerwolde
+Lageweg,4,"","",9798TG,Garmerwolde
+Lageweg,5,"","",9798TG,Garmerwolde
+Lageweg,6,"","",9798TG,Garmerwolde
+Lageweg,8,"","",9798TG,Garmerwolde
+Lageweg,8,"","",9798TG,Garmerwolde
+Fledderbosweg,1,"","",9798TH,Garmerwolde

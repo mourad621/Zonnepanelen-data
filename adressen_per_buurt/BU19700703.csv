@@ -1,71 +1,72 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9148BB",3,"",""
-"9148BB",5,"",""
-"9148BB",5,"A",""
-"9148BB",2,"",""
-"9148BB",7,"A",""
-"9148BB",1,"",""
-"9148BB",7,"",""
-"9148BC",2,"",""
-"9148BC",4,"",""
-"9148BD",2,"A",""
-"9148BD",3,"",""
-"9148BD",1,"",""
-"9148BD",2,"",""
-"9148BD",7,"",""
-"9148BD",2,"A",""
-"9148BE",8,"A",""
-"9148BE",12,"",""
-"9148BE",5,"T",""
-"9148BE",6,"",""
-"9148BE",3,"",""
-"9148BE",4,"",""
-"9148BE",1,"",""
-"9148BE",2,"",""
-"9148BE",2,"T",""
-"9148BE",5,"",""
-"9148BE",5,"T",""
-"9148BE",14,"",""
-"9148BE",10,"",""
-"9148BE",8,"A",""
-"9148BE",18,"",""
-"9148BE",8,"",""
-"9148BE",16,"",""
-"9148BG",1,"T",""
-"9148BG",2,"",""
-"9148BG",1,"",""
-"9148BG",1,"T",""
-"9148BG",3,"",""
-9148BE,Hantumerwei,5,T,
-9148BE,Hantumerwei,8,,
-9148BE,Hantumerwei,8,A,
-9148BE,Hantumerwei,10,,
-9148BE,Hantumerwei,2,,
-9148BE,Hantumerwei,2,T,
-9148BE,Hantumerwei,1,,
-9148BE,Hantumerwei,3,,
-9148BE,Hantumerwei,4,,
-9148BE,Hantumerwei,5,,
-9148BE,Hantumerwei,12,,
-9148BE,Hantumerwei,14,,
-9148BE,Hantumerwei,16,,
-9148BD,Krûdikker,1,,
-9148BD,Krûdikker,2,,
-9148BD,Krûdikker,2,A,
-9148BD,Krûdikker,3,,
-9148BG,Lytse Leasterdyk,1,,
-9148BG,Lytse Leasterdyk,2,,
-9148BG,Lytse Leasterdyk,3,,
-9148BC,De Ham,2,,
-9148BC,De Ham,4,,
-9148BB,De Wylgen,1,,
-9148BB,De Wylgen,2,,
-9148BB,De Wylgen,3,,
-9148BB,De Wylgen,5,,
-9148BB,De Wylgen,7,,
-9148BB,De Wylgen,7,A,
-9148BE,Hantumerwei,18,,
-9148BE,Hantumerwei,6,,
-9148BD,Krûdikker,7,,
-9148BG,Lytse Leasterdyk,1,T,
-9148BB,De Wylgen,5,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+3,"","","",9148BB,
+5,"","","",9148BB,
+2,"","","",9148BB,
+1,"","","",9148BB,
+7,"","","",9148BB,
+De Wylgen,1,"","",9148BB,Hiaure
+De Wylgen,2,"","",9148BB,Hiaure
+De Wylgen,3,"","",9148BB,Hiaure
+De Wylgen,5,"","",9148BB,Hiaure
+De Wylgen,5,A,"",9148BB,Hiaure
+De Wylgen,7,"","",9148BB,Hiaure
+De Wylgen,7,A,"",9148BB,Hiaure
+5,A,"","",9148BB,
+7,A,"","",9148BB,
+2,"","","",9148BC,
+4,"","","",9148BC,
+De Ham,2,"","",9148BC,Hiaure
+De Ham,4,"","",9148BC,Hiaure
+3,"","","",9148BD,
+1,"","","",9148BD,
+2,"","","",9148BD,
+7,"","","",9148BD,
+Krûdikker,1,"","",9148BD,Hiaure
+Krûdikker,2,"","",9148BD,Hiaure
+Krûdikker,2,A,"",9148BD,Hiaure
+Krûdikker,3,"","",9148BD,Hiaure
+Krûdikker,7,"","",9148BD,Hiaure
+2,A,"","",9148BD,
+2,A,"","",9148BD,
+12,"","","",9148BE,
+6,"","","",9148BE,
+3,"","","",9148BE,
+4,"","","",9148BE,
+1,"","","",9148BE,
+2,"","","",9148BE,
+5,"","","",9148BE,
+14,"","","",9148BE,
+10,"","","",9148BE,
+18,"","","",9148BE,
+8,"","","",9148BE,
+16,"","","",9148BE,
+Hantumerwei,1,"","",9148BE,Hiaure
+Hantumerwei,10,"","",9148BE,Hiaure
+Hantumerwei,12,"","",9148BE,Hiaure
+Hantumerwei,14,"","",9148BE,Hiaure
+Hantumerwei,16,"","",9148BE,Hiaure
+Hantumerwei,18,"","",9148BE,Hiaure
+Hantumerwei,2,"","",9148BE,Hiaure
+Hantumerwei,2,T,"",9148BE,Hiaure
+Hantumerwei,3,"","",9148BE,Hiaure
+Hantumerwei,4,"","",9148BE,Hiaure
+Hantumerwei,5,"","",9148BE,Hiaure
+Hantumerwei,5,T,"",9148BE,Hiaure
+Hantumerwei,6,"","",9148BE,Hiaure
+Hantumerwei,8,"","",9148BE,Hiaure
+Hantumerwei,8,A,"",9148BE,Hiaure
+8,A,"","",9148BE,
+8,A,"","",9148BE,
+5,T,"","",9148BE,
+2,T,"","",9148BE,
+5,T,"","",9148BE,
+2,"","","",9148BG,
+1,"","","",9148BG,
+3,"","","",9148BG,
+Lytse Leasterdyk,1,"","",9148BG,Hiaure
+Lytse Leasterdyk,1,T,"",9148BG,Hiaure
+Lytse Leasterdyk,2,"","",9148BG,Hiaure
+Lytse Leasterdyk,3,"","",9148BG,Hiaure
+1,T,"","",9148BG,
+1,T,"","",9148BG,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

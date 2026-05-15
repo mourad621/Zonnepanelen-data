@@ -1,7 +1,7 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9752XV",90,"",""
-"9752XX",2,"",""
-"9752XZ",1,"",""
-9752XV,Emmalaan,90,,
-9752XZ,Rijksweg,1,,
-9752XX,Witte Molen,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Emmalaan,90,"","",9752XV,Haren Gn
+"",EMMALAAN,90,"",9752XV,
+Witte Molen,2,"","",9752XX,Haren Gn
+"",WITTE MOLEN,2,"",9752XX,
+Rijksweg,1,"","",9752XZ,Haren Gn
+"",RIJKSWEG,1,"",9752XZ,

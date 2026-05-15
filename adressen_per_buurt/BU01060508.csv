@@ -1,630 +1,319 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9405AD",49,"",""
-"9405AD",47,"",""
-"9405AD",73,"",""
-"9405AD",43,"",""
-"9405AD",45,"",""
-"9405AD",51,"",""
-"9405AD",79,"",""
-"9405AD",57,"",""
-"9405AD",71,"",""
-"9405AD",53,"",""
-"9405AD",41,"",""
-"9405AD",61,"",""
-"9405AD",77,"",""
-"9405AD",55,"",""
-"9405AD",81,"",""
-"9405AD",75,"",""
-"9405AD",69,"",""
-"9405AD",65,"",""
-"9405AD",67,"",""
-"9405AE",125,"",""
-"9405AE",97,"",""
-"9405AE",89,"",""
-"9405AE",105,"",""
-"9405AE",95,"",""
-"9405AE",111,"",""
-"9405AE",131,"",""
-"9405AE",93,"",""
-"9405AE",113,"",""
-"9405AE",121,"",""
-"9405AE",91,"",""
-"9405AE",129,"",""
-"9405AE",109,"",""
-"9405AE",107,"",""
-"9405AE",123,"",""
-"9405AE",115,"",""
-"9405AE",119,"",""
-"9405AE",99,"",""
-"9405AE",127,"",""
-"9405AE",85,"",""
-"9405AE",117,"",""
-"9405AE",101,"",""
-"9405AE",103,"",""
-"9405AE",87,"",""
-"9405AL",17,"",""
-"9405AL",13,"",""
-"9405AL",9,"",""
-"9405AL",15,"",""
-"9405AL",11,"",""
-"9405AL",7,"",""
-"9405AL",3,"",""
-"9405AL",5,"",""
-"9405AL",7,"A",""
-"9405AM",10,"",""
-"9405AM",22,"A",""
-"9405AM",16,"",""
-"9405AM",28,"",""
-"9405AM",16,"C",""
-"9405AM",2,"",""
-"9405AM",14,"",""
-"9405AM",24,"",""
-"9405AM",16,"D",""
-"9405AM",16,"B",""
-"9405AM",12,"",""
-"9405AM",26,"",""
-"9405AM",22,"",""
-"9405AM",4,"",""
-"9405AM",14,"A",""
-"9405AM",14,"C",""
-"9405AM",20,"",""
-"9405AM",16,"A",""
-"9405AM",14,"B",""
-"9405AM",30,"",""
-"9405AM",16,"E",""
-"9405AM",14,"D",""
-"9405AM",18,"",""
-"9405AN",62,"",""
-"9405AN",50,"",""
-"9405AN",38,"",""
-"9405AN",46,"",""
-"9405AN",42,"",""
-"9405AN",36,"",""
-"9405AN",48,"",""
-"9405AN",40,"",""
-"9405AN",56,"",""
-"9405AN",32,"",""
-"9405AN",64,"",""
-"9405AN",58,"",""
-"9405AN",68,"",""
-"9405AN",66,"",""
-"9405AN",52,"",""
-"9405AN",54,"",""
-"9405AN",34,"",""
-"9405AN",60,"",""
-"9405AN",44,"",""
-"9405AP",9,"",""
-"9405AP",21,"",""
-"9405AP",17,"",""
-"9405AP",13,"",""
-"9405AP",7,"",""
-"9405AP",19,"",""
-"9405AP",15,"",""
-"9405AP",3,"",""
-"9405AP",11,"",""
-"9405AP",23,"",""
-"9405AP",5,"",""
-"9405AP",1,"",""
-"9405AR",4,"",""
-"9405AR",32,"",""
-"9405AR",30,"",""
-"9405AR",18,"",""
-"9405AR",2,"",""
-"9405AR",34,"",""
-"9405AR",8,"",""
-"9405AR",16,"",""
-"9405AR",20,"",""
-"9405AR",6,"",""
-"9405AR",26,"",""
-"9405AR",14,"",""
-"9405AR",10,"",""
-"9405AR",12,"",""
-"9405AR",28,"",""
-"9405AR",24,"",""
-"9405AR",22,"",""
-"9405AS",11,"",""
-"9405AS",6,"",""
-"9405AS",4,"",""
-"9405AS",9,"",""
-"9405AS",8,"",""
-"9405AS",10,"",""
-"9405AS",11,"",""
-"9405AS",5,"",""
-"9405AS",2,"",""
-"9405AS",1,"",""
-"9405AS",11,"",""
-"9405AS",7,"",""
-"9405AS",3,"",""
-"9405AT",6,"",""
-"9405AT",3,"",""
-"9405AT",1,"",""
-"9405AT",8,"",""
-"9405AT",4,"",""
-"9405AT",2,"",""
-"9405AV",22,"",""
-"9405AV",4,"",""
-"9405AV",3,"",""
-"9405AV",1,"",""
-"9405AV",20,"",""
-"9405AV",10,"",""
-"9405AV",24,"",""
-"9405AV",26,"",""
-"9405AV",12,"",""
-"9405AV",14,"",""
-"9405AV",6,"",""
-"9405AV",8,"",""
-"9405AV",18,"",""
-"9405AV",7,"",""
-"9405AV",5,"",""
-"9405AV",28,"",""
-"9405AV",2,"",""
-"9405AV",16,"",""
-"9405AW",7,"",""
-"9405AW",4,"",""
-"9405AW",10,"",""
-"9405AW",1,"",""
-"9405AW",2,"",""
-"9405AW",8,"",""
-"9405AW",9,"",""
-"9405AW",6,"",""
-"9405AW",5,"",""
-"9405AW",3,"",""
-"9405AX",2,"",""
-"9405AX",4,"",""
-"9405AX",4,"B",""
-"9405AX",4,"A",""
-"9405BA",3,"",""
-"9405BA",5,"",""
-"9405BA",1,"",""
-"9405BB",1,"B","14"
-"9405BB",1,"A","8"
-"9405BB",1,"B","13"
-"9405BB",7,"",""
-"9405BB",21,"",""
-"9405BB",1,"B","15"
-"9405BB",1,"B","14"
-"9405BB",1,"B","12"
-"9405BB",1,"B","11"
-"9405BB",1,"A","7"
-"9405BB",1,"B","10"
-"9405BB",9,"",""
-"9405BB",15,"",""
-"9405BB",1,"A","2"
-"9405BB",1,"B","6"
-"9405BB",1,"B","12"
-"9405BB",19,"",""
-"9405BB",1,"B","11"
-"9405BB",1,"B","8"
-"9405BB",1,"B","1"
-"9405BB",1,"B","1"
-"9405BB",1,"A","9"
-"9405BB",1,"B","10"
-"9405BB",1,"A","5"
-"9405BB",1,"B","13"
-"9405BB",1,"A","3"
-"9405BB",1,"B","5"
-"9405BB",1,"A","14"
-"9405BB",1,"A","15"
-"9405BB",11,"",""
-"9405BB",1,"B","8"
-"9405BB",1,"A","7"
-"9405BB",1,"A","9"
-"9405BB",1,"B","9"
-"9405BB",1,"B","15"
-"9405BB",1,"B",""
-"9405BB",13,"",""
-"9405BB",1,"A","13"
-"9405BB",1,"B","6"
-"9405BB",1,"A","3"
-"9405BB",1,"B","2"
-"9405BB",1,"B","5"
-"9405BB",1,"A","12"
-"9405BB",17,"",""
-"9405BB",1,"A","12"
-"9405BB",1,"B","7"
-"9405BB",1,"A","8"
-"9405BB",5,"",""
-"9405BB",1,"B","9"
-"9405BB",1,"A","6"
-"9405BB",1,"A","6"
-"9405BB",1,"A","4"
-"9405BB",1,"A","14"
-"9405BB",1,"A","13"
-"9405BB",1,"A","5"
-"9405BB",1,"B","4"
-"9405BB",1,"B","4"
-"9405BB",1,"B","3"
-"9405BB",1,"B",""
-"9405BB",1,"B","7"
-"9405BB",3,"",""
-"9405BB",1,"A","11"
-"9405BB",1,"A",""
-"9405BB",1,"A","1"
-"9405BB",1,"A","4"
-"9405BB",1,"A","10"
-"9405BB",1,"B","2"
-"9405BB",1,"A","1"
-"9405BB",1,"A","2"
-"9405BB",1,"B","3"
-"9405BB",1,"A","15"
-"9405BB",1,"A",""
-"9405BB",1,"A","10"
-"9405BB",1,"A","11"
-"9405BC",25,"",""
-"9405BC",35,"",""
-"9405BC",27,"",""
-"9405BC",41,"",""
-"9405BC",23,"",""
-"9405BC",43,"",""
-"9405BC",33,"",""
-"9405BC",29,"",""
-"9405BC",39,"",""
-"9405BC",31,"",""
-"9405BC",37,"",""
-"9405BC",41,"",""
-"9405BC",41,"",""
-"9405BD",4,"",""
-"9405BD",16,"",""
-"9405BD",2,"",""
-"9405BD",6,"",""
-"9405BD",12,"",""
-"9405BD",18,"",""
-"9405BD",20,"",""
-"9405BD",22,"",""
-"9405BD",14,"",""
-"9405BD",8,"",""
-"9405BD",24,"",""
-"9405BD",10,"",""
-"9405BE",34,"",""
-"9405BE",44,"",""
-"9405BE",40,"",""
-"9405BE",32,"",""
-"9405BE",46,"",""
-"9405BE",38,"",""
-"9405BE",36,"",""
-"9405BE",42,"",""
-"9405BE",48,"",""
-"9405BE",26,"",""
-"9405BE",30,"",""
-"9405BE",28,"",""
-"9405BG",70,"",""
-"9405BG",58,"",""
-"9405BG",60,"",""
-"9405BG",62,"",""
-"9405BG",56,"",""
-"9405BG",66,"",""
-"9405BG",52,"",""
-"9405BG",50,"",""
-"9405BG",54,"",""
-"9405BG",68,"",""
-"9405BG",72,"",""
-"9405BG",64,"",""
-"9405BG",74,"",""
-"9405BH",6,"",""
-"9405BH",8,"",""
-"9405BH",4,"",""
-"9405BH",6,"A",""
-"9405BH",2,"",""
-"9405BH",10,"",""
-"9405BH",6,"",""
-"9405BH",6,"",""
-"9405BJ",3,"B",""
-"9405BJ",3,"A",""
-"9405BJ",3,"B",""
-"9405BJ",1,"",""
-"9405BJ",3,"A",""
-"9405BJ",3,"",""
-"9405BJ",3,"",""
-"9405BJ",3,"C",""
-"9405BJ",3,"C",""
-9405AW,Aart van der Leeuwlaan,1,,
-9405AW,Aart van der Leeuwlaan,2,,
-9405AW,Aart van der Leeuwlaan,3,,
-9405AW,Aart van der Leeuwlaan,4,,
-9405AW,Aart van der Leeuwlaan,5,,
-9405AW,Aart van der Leeuwlaan,6,,
-9405AW,Aart van der Leeuwlaan,7,,
-9405AW,Aart van der Leeuwlaan,8,,
-9405AW,Aart van der Leeuwlaan,9,,
-9405AW,Aart van der Leeuwlaan,10,,
-9405AX,Adama van Scheltemalaan,2,,
-9405AX,Adama van Scheltemalaan,4,A,
-9405AX,Adama van Scheltemalaan,4,B,
-9405AX,Adama van Scheltemalaan,4,,
-9405AP,Anton van Duinkerkenlaan,1,,
-9405AP,Anton van Duinkerkenlaan,3,,
-9405AP,Anton van Duinkerkenlaan,5,,
-9405AP,Anton van Duinkerkenlaan,7,,
-9405AP,Anton van Duinkerkenlaan,9,,
-9405AP,Anton van Duinkerkenlaan,11,,
-9405AP,Anton van Duinkerkenlaan,13,,
-9405AP,Anton van Duinkerkenlaan,15,,
-9405AP,Anton van Duinkerkenlaan,17,,
-9405AP,Anton van Duinkerkenlaan,19,,
-9405AP,Anton van Duinkerkenlaan,21,,
-9405AP,Anton van Duinkerkenlaan,23,,
-9405AR,Anton van Duinkerkenlaan,2,,
-9405AR,Anton van Duinkerkenlaan,4,,
-9405AR,Anton van Duinkerkenlaan,6,,
-9405AR,Anton van Duinkerkenlaan,8,,
-9405AR,Anton van Duinkerkenlaan,10,,
-9405AR,Anton van Duinkerkenlaan,12,,
-9405AR,Anton van Duinkerkenlaan,14,,
-9405AR,Anton van Duinkerkenlaan,16,,
-9405AR,Anton van Duinkerkenlaan,18,,
-9405AR,Anton van Duinkerkenlaan,20,,
-9405AR,Anton van Duinkerkenlaan,22,,
-9405AR,Anton van Duinkerkenlaan,24,,
-9405AR,Anton van Duinkerkenlaan,26,,
-9405AR,Anton van Duinkerkenlaan,28,,
-9405AR,Anton van Duinkerkenlaan,30,,
-9405AR,Anton van Duinkerkenlaan,32,,
-9405AR,Anton van Duinkerkenlaan,34,,
-9405AV,Arthur van Schendellaan,1,,
-9405AV,Arthur van Schendellaan,2,,
-9405AV,Arthur van Schendellaan,3,,
-9405AV,Arthur van Schendellaan,4,,
-9405AV,Arthur van Schendellaan,5,,
-9405AV,Arthur van Schendellaan,6,,
-9405AV,Arthur van Schendellaan,7,,
-9405AV,Arthur van Schendellaan,8,,
-9405AV,Arthur van Schendellaan,10,,
-9405AV,Arthur van Schendellaan,12,,
-9405AV,Arthur van Schendellaan,14,,
-9405AV,Arthur van Schendellaan,16,,
-9405AV,Arthur van Schendellaan,18,,
-9405AV,Arthur van Schendellaan,20,,
-9405AV,Arthur van Schendellaan,22,,
-9405AV,Arthur van Schendellaan,24,,
-9405AV,Arthur van Schendellaan,26,,
-9405AV,Arthur van Schendellaan,28,,
-9405AS,Boutenslaan,1,,
-9405AS,Boutenslaan,2,,
-9405AS,Boutenslaan,3,,
-9405AS,Boutenslaan,4,,
-9405AS,Boutenslaan,5,,
-9405AS,Boutenslaan,6,,
-9405AS,Boutenslaan,7,,
-9405AS,Boutenslaan,8,,
-9405AS,Boutenslaan,9,,
-9405AS,Boutenslaan,10,,
-9405AS,Boutenslaan,11,,
-9405AL,Broeklaan,3,,
-9405AL,Broeklaan,5,,
-9405AL,Broeklaan,7,A,
-9405AL,Broeklaan,7,,
-9405AL,Broeklaan,9,,
-9405AL,Broeklaan,11,,
-9405AL,Broeklaan,13,,
-9405AL,Broeklaan,15,,
-9405AL,Broeklaan,17,,
-9405AM,Broeklaan,2,,
-9405AM,Broeklaan,4,,
-9405AM,Broeklaan,10,,
-9405AM,Broeklaan,12,,
-9405AM,Broeklaan,14,A,
-9405AM,Broeklaan,14,B,
-9405AM,Broeklaan,14,C,
-9405AM,Broeklaan,14,D,
-9405AM,Broeklaan,14,,
-9405AM,Broeklaan,16,A,
-9405AM,Broeklaan,16,B,
-9405AM,Broeklaan,16,C,
-9405AM,Broeklaan,16,D,
-9405AM,Broeklaan,16,E,
-9405AM,Broeklaan,16,,
-9405AM,Broeklaan,18,,
-9405AM,Broeklaan,20,,
-9405AM,Broeklaan,22,A,
-9405AM,Broeklaan,22,,
-9405AM,Broeklaan,24,,
-9405AM,Broeklaan,26,,
-9405AM,Broeklaan,28,,
-9405AM,Broeklaan,30,,
-9405AN,Broeklaan,32,,
-9405AN,Broeklaan,34,,
-9405AN,Broeklaan,36,,
-9405AN,Broeklaan,38,,
-9405AN,Broeklaan,40,,
-9405AN,Broeklaan,42,,
-9405AN,Broeklaan,44,,
-9405AN,Broeklaan,46,,
-9405AN,Broeklaan,48,,
-9405AN,Broeklaan,50,,
-9405AN,Broeklaan,52,,
-9405AN,Broeklaan,54,,
-9405AN,Broeklaan,56,,
-9405AN,Broeklaan,58,,
-9405AN,Broeklaan,60,,
-9405AN,Broeklaan,62,,
-9405AN,Broeklaan,64,,
-9405AN,Broeklaan,66,,
-9405AN,Broeklaan,68,,
-9405BA,Da Costalaan,1,,
-9405BA,Da Costalaan,3,,
-9405BA,Da Costalaan,5,,
-9405AT,Henriëtte Roland Holstlaan,3,,
-9405AT,Henriëtte Roland Holstlaan,1,,
-9405AT,Henriëtte Roland Holstlaan,2,,
-9405AT,Henriëtte Roland Holstlaan,4,,
-9405AT,Henriëtte Roland Holstlaan,6,,
-9405AT,Henriëtte Roland Holstlaan,8,,
-9405BB,Nicolaas Beetslaan,3,,
-9405BB,Nicolaas Beetslaan,5,,
-9405BB,Nicolaas Beetslaan,7,,
-9405BB,Nicolaas Beetslaan,9,,
-9405BB,Nicolaas Beetslaan,11,,
-9405BB,Nicolaas Beetslaan,13,,
-9405BB,Nicolaas Beetslaan,15,,
-9405BB,Nicolaas Beetslaan,17,,
-9405BB,Nicolaas Beetslaan,19,,
-9405BB,Nicolaas Beetslaan,21,,
-9405BC,Nicolaas Beetslaan,23,,
-9405BC,Nicolaas Beetslaan,25,,
-9405BC,Nicolaas Beetslaan,27,,
-9405BC,Nicolaas Beetslaan,29,,
-9405BC,Nicolaas Beetslaan,31,,
-9405BC,Nicolaas Beetslaan,33,,
-9405BC,Nicolaas Beetslaan,35,,
-9405BC,Nicolaas Beetslaan,37,,
-9405BC,Nicolaas Beetslaan,39,,
-9405BC,Nicolaas Beetslaan,41,,
-9405BC,Nicolaas Beetslaan,43,,
-9405BD,Nicolaas Beetslaan,2,,
-9405BD,Nicolaas Beetslaan,4,,
-9405BD,Nicolaas Beetslaan,6,,
-9405BD,Nicolaas Beetslaan,8,,
-9405BD,Nicolaas Beetslaan,10,,
-9405BD,Nicolaas Beetslaan,12,,
-9405BD,Nicolaas Beetslaan,14,,
-9405BD,Nicolaas Beetslaan,16,,
-9405BD,Nicolaas Beetslaan,18,,
-9405BD,Nicolaas Beetslaan,20,,
-9405BD,Nicolaas Beetslaan,22,,
-9405BD,Nicolaas Beetslaan,24,,
-9405BE,Nicolaas Beetslaan,26,,
-9405BE,Nicolaas Beetslaan,28,,
-9405BE,Nicolaas Beetslaan,30,,
-9405BE,Nicolaas Beetslaan,32,,
-9405BE,Nicolaas Beetslaan,34,,
-9405BE,Nicolaas Beetslaan,36,,
-9405BE,Nicolaas Beetslaan,38,,
-9405BE,Nicolaas Beetslaan,40,,
-9405BE,Nicolaas Beetslaan,42,,
-9405BE,Nicolaas Beetslaan,44,,
-9405BE,Nicolaas Beetslaan,46,,
-9405BE,Nicolaas Beetslaan,48,,
-9405BG,Nicolaas Beetslaan,50,,
-9405BG,Nicolaas Beetslaan,52,,
-9405BG,Nicolaas Beetslaan,54,,
-9405BG,Nicolaas Beetslaan,56,,
-9405BG,Nicolaas Beetslaan,58,,
-9405BG,Nicolaas Beetslaan,60,,
-9405BG,Nicolaas Beetslaan,62,,
-9405BG,Nicolaas Beetslaan,64,,
-9405BG,Nicolaas Beetslaan,66,,
-9405BG,Nicolaas Beetslaan,68,,
-9405BG,Nicolaas Beetslaan,70,,
-9405BG,Nicolaas Beetslaan,72,,
-9405BG,Nicolaas Beetslaan,74,,
-9405BJ,Westerbrink,1,,
-9405BJ,Westerbrink,3,A,
-9405BJ,Westerbrink,3,B,
-9405BJ,Westerbrink,3,C,
-9405BJ,Westerbrink,3,,
-9405BH,Westerlaan,2,,
-9405BH,Westerlaan,4,,
-9405BH,Westerlaan,6,,
-9405BH,Westerlaan,8,,
-9405BH,Westerlaan,10,,
-9405AD,Witterstraat,41,,
-9405AD,Witterstraat,43,,
-9405AD,Witterstraat,45,,
-9405AD,Witterstraat,47,,
-9405AD,Witterstraat,49,,
-9405AD,Witterstraat,51,,
-9405AD,Witterstraat,53,,
-9405AD,Witterstraat,55,,
-9405AD,Witterstraat,57,,
-9405AD,Witterstraat,61,,
-9405AD,Witterstraat,65,,
-9405AD,Witterstraat,67,,
-9405AD,Witterstraat,69,,
-9405AD,Witterstraat,71,,
-9405AD,Witterstraat,73,,
-9405AD,Witterstraat,75,,
-9405AD,Witterstraat,77,,
-9405AD,Witterstraat,79,,
-9405AD,Witterstraat,81,,
-9405AE,Witterstraat,109,,
-9405AE,Witterstraat,111,,
-9405AE,Witterstraat,113,,
-9405AE,Witterstraat,115,,
-9405AE,Witterstraat,117,,
-9405AE,Witterstraat,119,,
-9405AE,Witterstraat,121,,
-9405AE,Witterstraat,123,,
-9405AE,Witterstraat,125,,
-9405AE,Witterstraat,127,,
-9405AE,Witterstraat,129,,
-9405AE,Witterstraat,131,,
-9405AE,Witterstraat,85,,
-9405AE,Witterstraat,87,,
-9405AE,Witterstraat,89,,
-9405AE,Witterstraat,91,,
-9405AE,Witterstraat,93,,
-9405AE,Witterstraat,95,,
-9405AE,Witterstraat,97,,
-9405AE,Witterstraat,99,,
-9405AE,Witterstraat,101,,
-9405AE,Witterstraat,103,,
-9405AE,Witterstraat,105,,
-9405AE,Witterstraat,107,,
-9405AS,Boutenslaan,11,,
-9405BB,Nicolaas Beetslaan,1,B,
-9405BB,Nicolaas Beetslaan,1,B,
-9405BB,Nicolaas Beetslaan,1,B,1
-9405BB,Nicolaas Beetslaan,1,B,1
-9405BB,Nicolaas Beetslaan,1,B,2
-9405BB,Nicolaas Beetslaan,1,B,2
-9405BB,Nicolaas Beetslaan,1,B,3
-9405BB,Nicolaas Beetslaan,1,B,3
-9405BB,Nicolaas Beetslaan,1,B,4
-9405BB,Nicolaas Beetslaan,1,B,4
-9405BB,Nicolaas Beetslaan,1,B,5
-9405BB,Nicolaas Beetslaan,1,B,5
-9405BB,Nicolaas Beetslaan,1,B,6
-9405BB,Nicolaas Beetslaan,1,B,6
-9405BB,Nicolaas Beetslaan,1,B,7
-9405BB,Nicolaas Beetslaan,1,B,7
-9405BB,Nicolaas Beetslaan,1,B,8
-9405BB,Nicolaas Beetslaan,1,B,8
-9405BB,Nicolaas Beetslaan,1,B,9
-9405BB,Nicolaas Beetslaan,1,B,9
-9405BB,Nicolaas Beetslaan,1,B,10
-9405BB,Nicolaas Beetslaan,1,B,10
-9405BB,Nicolaas Beetslaan,1,B,11
-9405BB,Nicolaas Beetslaan,1,B,11
-9405BB,Nicolaas Beetslaan,1,B,12
-9405BB,Nicolaas Beetslaan,1,B,12
-9405BB,Nicolaas Beetslaan,1,B,13
-9405BB,Nicolaas Beetslaan,1,B,13
-9405BB,Nicolaas Beetslaan,1,B,14
-9405BB,Nicolaas Beetslaan,1,B,14
-9405BB,Nicolaas Beetslaan,1,B,15
-9405BB,Nicolaas Beetslaan,1,B,15
-9405BB,Nicolaas Beetslaan,1,A,
-9405BB,Nicolaas Beetslaan,1,A,
-9405BB,Nicolaas Beetslaan,1,A,1
-9405BB,Nicolaas Beetslaan,1,A,1
-9405BB,Nicolaas Beetslaan,1,A,2
-9405BB,Nicolaas Beetslaan,1,A,2
-9405BB,Nicolaas Beetslaan,1,A,3
-9405BB,Nicolaas Beetslaan,1,A,3
-9405BB,Nicolaas Beetslaan,1,A,4
-9405BB,Nicolaas Beetslaan,1,A,4
-9405BB,Nicolaas Beetslaan,1,A,5
-9405BB,Nicolaas Beetslaan,1,A,5
-9405BB,Nicolaas Beetslaan,1,A,6
-9405BB,Nicolaas Beetslaan,1,A,6
-9405BB,Nicolaas Beetslaan,1,A,7
-9405BB,Nicolaas Beetslaan,1,A,7
-9405BB,Nicolaas Beetslaan,1,A,8
-9405BB,Nicolaas Beetslaan,1,A,8
-9405BB,Nicolaas Beetslaan,1,A,9
-9405BB,Nicolaas Beetslaan,1,A,9
-9405BB,Nicolaas Beetslaan,1,A,10
-9405BB,Nicolaas Beetslaan,1,A,10
-9405BB,Nicolaas Beetslaan,1,A,11
-9405BB,Nicolaas Beetslaan,1,A,11
-9405BB,Nicolaas Beetslaan,1,A,12
-9405BB,Nicolaas Beetslaan,1,A,12
-9405BB,Nicolaas Beetslaan,1,A,13
-9405BB,Nicolaas Beetslaan,1,A,13
-9405BB,Nicolaas Beetslaan,1,A,14
-9405BB,Nicolaas Beetslaan,1,A,14
-9405BB,Nicolaas Beetslaan,1,A,15
-9405BB,Nicolaas Beetslaan,1,A,15
-9405BC,Nicolaas Beetslaan,41,,
-9405BH,Westerlaan,6,,
-9405BH,Westerlaan,6,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Witterstraat,41,"","",9405AD,Assen
+Witterstraat,43,"","",9405AD,Assen
+Witterstraat,45,"","",9405AD,Assen
+Witterstraat,47,"","",9405AD,Assen
+Witterstraat,49,"","",9405AD,Assen
+Witterstraat,51,"","",9405AD,Assen
+Witterstraat,53,"","",9405AD,Assen
+Witterstraat,55,"","",9405AD,Assen
+Witterstraat,57,"","",9405AD,Assen
+Witterstraat,61,"","",9405AD,Assen
+Witterstraat,65,"","",9405AD,Assen
+Witterstraat,67,"","",9405AD,Assen
+Witterstraat,69,"","",9405AD,Assen
+Witterstraat,71,"","",9405AD,Assen
+Witterstraat,73,"","",9405AD,Assen
+Witterstraat,75,"","",9405AD,Assen
+Witterstraat,77,"","",9405AD,Assen
+Witterstraat,79,"","",9405AD,Assen
+Witterstraat,81,"","",9405AD,Assen
+Witterstraat,101,"","",9405AE,Assen
+Witterstraat,103,"","",9405AE,Assen
+Witterstraat,105,"","",9405AE,Assen
+Witterstraat,107,"","",9405AE,Assen
+Witterstraat,109,"","",9405AE,Assen
+Witterstraat,111,"","",9405AE,Assen
+Witterstraat,113,"","",9405AE,Assen
+Witterstraat,115,"","",9405AE,Assen
+Witterstraat,117,"","",9405AE,Assen
+Witterstraat,119,"","",9405AE,Assen
+Witterstraat,121,"","",9405AE,Assen
+Witterstraat,123,"","",9405AE,Assen
+Witterstraat,125,"","",9405AE,Assen
+Witterstraat,127,"","",9405AE,Assen
+Witterstraat,129,"","",9405AE,Assen
+Witterstraat,131,"","",9405AE,Assen
+Witterstraat,85,"","",9405AE,Assen
+Witterstraat,87,"","",9405AE,Assen
+Witterstraat,89,"","",9405AE,Assen
+Witterstraat,91,"","",9405AE,Assen
+Witterstraat,93,"","",9405AE,Assen
+Witterstraat,95,"","",9405AE,Assen
+Witterstraat,97,"","",9405AE,Assen
+Witterstraat,99,"","",9405AE,Assen
+Broeklaan,11,"","",9405AL,Assen
+Broeklaan,13,"","",9405AL,Assen
+Broeklaan,15,"","",9405AL,Assen
+Broeklaan,17,"","",9405AL,Assen
+Broeklaan,3,"","",9405AL,Assen
+Broeklaan,5,"","",9405AL,Assen
+Broeklaan,7,"","",9405AL,Assen
+Broeklaan,7,A,"",9405AL,Assen
+Broeklaan,9,"","",9405AL,Assen
+Broeklaan,10,"","",9405AM,Assen
+Broeklaan,12,"","",9405AM,Assen
+Broeklaan,14,"","",9405AM,Assen
+Broeklaan,14,A,"",9405AM,Assen
+Broeklaan,14,B,"",9405AM,Assen
+Broeklaan,14,C,"",9405AM,Assen
+Broeklaan,14,D,"",9405AM,Assen
+Broeklaan,16,"","",9405AM,Assen
+Broeklaan,16,A,"",9405AM,Assen
+Broeklaan,16,B,"",9405AM,Assen
+Broeklaan,16,C,"",9405AM,Assen
+Broeklaan,16,D,"",9405AM,Assen
+Broeklaan,16,E,"",9405AM,Assen
+Broeklaan,18,"","",9405AM,Assen
+Broeklaan,2,"","",9405AM,Assen
+Broeklaan,20,"","",9405AM,Assen
+Broeklaan,22,"","",9405AM,Assen
+Broeklaan,22,A,"",9405AM,Assen
+Broeklaan,24,"","",9405AM,Assen
+Broeklaan,26,"","",9405AM,Assen
+Broeklaan,28,"","",9405AM,Assen
+Broeklaan,30,"","",9405AM,Assen
+Broeklaan,4,"","",9405AM,Assen
+Broeklaan,32,"","",9405AN,Assen
+Broeklaan,34,"","",9405AN,Assen
+Broeklaan,36,"","",9405AN,Assen
+Broeklaan,38,"","",9405AN,Assen
+Broeklaan,40,"","",9405AN,Assen
+Broeklaan,42,"","",9405AN,Assen
+Broeklaan,44,"","",9405AN,Assen
+Broeklaan,46,"","",9405AN,Assen
+Broeklaan,48,"","",9405AN,Assen
+Broeklaan,50,"","",9405AN,Assen
+Broeklaan,52,"","",9405AN,Assen
+Broeklaan,54,"","",9405AN,Assen
+Broeklaan,56,"","",9405AN,Assen
+Broeklaan,58,"","",9405AN,Assen
+Broeklaan,60,"","",9405AN,Assen
+Broeklaan,62,"","",9405AN,Assen
+Broeklaan,64,"","",9405AN,Assen
+Broeklaan,66,"","",9405AN,Assen
+Broeklaan,68,"","",9405AN,Assen
+Anton van Duinkerkenlaan,1,"","",9405AP,Assen
+Anton van Duinkerkenlaan,11,"","",9405AP,Assen
+Anton van Duinkerkenlaan,13,"","",9405AP,Assen
+Anton van Duinkerkenlaan,15,"","",9405AP,Assen
+Anton van Duinkerkenlaan,17,"","",9405AP,Assen
+Anton van Duinkerkenlaan,19,"","",9405AP,Assen
+Anton van Duinkerkenlaan,21,"","",9405AP,Assen
+Anton van Duinkerkenlaan,23,"","",9405AP,Assen
+Anton van Duinkerkenlaan,3,"","",9405AP,Assen
+Anton van Duinkerkenlaan,5,"","",9405AP,Assen
+Anton van Duinkerkenlaan,7,"","",9405AP,Assen
+Anton van Duinkerkenlaan,9,"","",9405AP,Assen
+Anton van Duinkerkenlaan,10,"","",9405AR,Assen
+Anton van Duinkerkenlaan,12,"","",9405AR,Assen
+Anton van Duinkerkenlaan,14,"","",9405AR,Assen
+Anton van Duinkerkenlaan,16,"","",9405AR,Assen
+Anton van Duinkerkenlaan,18,"","",9405AR,Assen
+Anton van Duinkerkenlaan,2,"","",9405AR,Assen
+Anton van Duinkerkenlaan,20,"","",9405AR,Assen
+Anton van Duinkerkenlaan,22,"","",9405AR,Assen
+Anton van Duinkerkenlaan,24,"","",9405AR,Assen
+Anton van Duinkerkenlaan,26,"","",9405AR,Assen
+Anton van Duinkerkenlaan,28,"","",9405AR,Assen
+Anton van Duinkerkenlaan,30,"","",9405AR,Assen
+Anton van Duinkerkenlaan,32,"","",9405AR,Assen
+Anton van Duinkerkenlaan,34,"","",9405AR,Assen
+Anton van Duinkerkenlaan,4,"","",9405AR,Assen
+Anton van Duinkerkenlaan,6,"","",9405AR,Assen
+Anton van Duinkerkenlaan,8,"","",9405AR,Assen
+Boutenslaan,1,"","",9405AS,Assen
+Boutenslaan,10,"","",9405AS,Assen
+Boutenslaan,11,"","",9405AS,Assen
+Boutenslaan,11,"","",9405AS,Assen
+Boutenslaan,11,"","",9405AS,Assen
+Boutenslaan,2,"","",9405AS,Assen
+Boutenslaan,3,"","",9405AS,Assen
+Boutenslaan,4,"","",9405AS,Assen
+Boutenslaan,5,"","",9405AS,Assen
+Boutenslaan,6,"","",9405AS,Assen
+Boutenslaan,7,"","",9405AS,Assen
+Boutenslaan,8,"","",9405AS,Assen
+Boutenslaan,9,"","",9405AS,Assen
+Henriëtte Roland Holstlaan,1,"","",9405AT,Assen
+Henriëtte Roland Holstlaan,2,"","",9405AT,Assen
+Henriëtte Roland Holstlaan,3,"","",9405AT,Assen
+Henriëtte Roland Holstlaan,4,"","",9405AT,Assen
+Henriëtte Roland Holstlaan,6,"","",9405AT,Assen
+Henriëtte Roland Holstlaan,8,"","",9405AT,Assen
+Arthur van Schendellaan,1,"","",9405AV,Assen
+Arthur van Schendellaan,10,"","",9405AV,Assen
+Arthur van Schendellaan,12,"","",9405AV,Assen
+Arthur van Schendellaan,14,"","",9405AV,Assen
+Arthur van Schendellaan,16,"","",9405AV,Assen
+Arthur van Schendellaan,18,"","",9405AV,Assen
+Arthur van Schendellaan,2,"","",9405AV,Assen
+Arthur van Schendellaan,20,"","",9405AV,Assen
+Arthur van Schendellaan,22,"","",9405AV,Assen
+Arthur van Schendellaan,24,"","",9405AV,Assen
+Arthur van Schendellaan,26,"","",9405AV,Assen
+Arthur van Schendellaan,28,"","",9405AV,Assen
+Arthur van Schendellaan,3,"","",9405AV,Assen
+Arthur van Schendellaan,4,"","",9405AV,Assen
+Arthur van Schendellaan,5,"","",9405AV,Assen
+Arthur van Schendellaan,6,"","",9405AV,Assen
+Arthur van Schendellaan,7,"","",9405AV,Assen
+Arthur van Schendellaan,8,"","",9405AV,Assen
+Aart van der Leeuwlaan,1,"","",9405AW,Assen
+Aart van der Leeuwlaan,10,"","",9405AW,Assen
+Aart van der Leeuwlaan,2,"","",9405AW,Assen
+Aart van der Leeuwlaan,3,"","",9405AW,Assen
+Aart van der Leeuwlaan,4,"","",9405AW,Assen
+Aart van der Leeuwlaan,5,"","",9405AW,Assen
+Aart van der Leeuwlaan,6,"","",9405AW,Assen
+Aart van der Leeuwlaan,7,"","",9405AW,Assen
+Aart van der Leeuwlaan,8,"","",9405AW,Assen
+Aart van der Leeuwlaan,9,"","",9405AW,Assen
+Adama van Scheltemalaan,2,"","",9405AX,Assen
+Adama van Scheltemalaan,4,"","",9405AX,Assen
+Adama van Scheltemalaan,4,A,"",9405AX,Assen
+Adama van Scheltemalaan,4,B,"",9405AX,Assen
+Da Costalaan,1,"","",9405BA,Assen
+Da Costalaan,3,"","",9405BA,Assen
+Da Costalaan,5,"","",9405BA,Assen
+Nicolaas Beetslaan,1,A,"",9405BB,Assen
+Nicolaas Beetslaan,1,A,"",9405BB,Assen
+Nicolaas Beetslaan,1,A,1,9405BB,Assen
+Nicolaas Beetslaan,1,A,1,9405BB,Assen
+Nicolaas Beetslaan,1,A,10,9405BB,Assen
+Nicolaas Beetslaan,1,A,10,9405BB,Assen
+Nicolaas Beetslaan,1,A,11,9405BB,Assen
+Nicolaas Beetslaan,1,A,11,9405BB,Assen
+Nicolaas Beetslaan,1,A,12,9405BB,Assen
+Nicolaas Beetslaan,1,A,12,9405BB,Assen
+Nicolaas Beetslaan,1,A,13,9405BB,Assen
+Nicolaas Beetslaan,1,A,13,9405BB,Assen
+Nicolaas Beetslaan,1,A,14,9405BB,Assen
+Nicolaas Beetslaan,1,A,14,9405BB,Assen
+Nicolaas Beetslaan,1,A,15,9405BB,Assen
+Nicolaas Beetslaan,1,A,15,9405BB,Assen
+Nicolaas Beetslaan,1,A,2,9405BB,Assen
+Nicolaas Beetslaan,1,A,2,9405BB,Assen
+Nicolaas Beetslaan,1,A,3,9405BB,Assen
+Nicolaas Beetslaan,1,A,3,9405BB,Assen
+Nicolaas Beetslaan,1,A,4,9405BB,Assen
+Nicolaas Beetslaan,1,A,4,9405BB,Assen
+Nicolaas Beetslaan,1,A,5,9405BB,Assen
+Nicolaas Beetslaan,1,A,5,9405BB,Assen
+Nicolaas Beetslaan,1,A,6,9405BB,Assen
+Nicolaas Beetslaan,1,A,6,9405BB,Assen
+Nicolaas Beetslaan,1,A,7,9405BB,Assen
+Nicolaas Beetslaan,1,A,7,9405BB,Assen
+Nicolaas Beetslaan,1,A,8,9405BB,Assen
+Nicolaas Beetslaan,1,A,8,9405BB,Assen
+Nicolaas Beetslaan,1,A,9,9405BB,Assen
+Nicolaas Beetslaan,1,A,9,9405BB,Assen
+Nicolaas Beetslaan,1,B,"",9405BB,Assen
+Nicolaas Beetslaan,1,B,"",9405BB,Assen
+Nicolaas Beetslaan,1,B,1,9405BB,Assen
+Nicolaas Beetslaan,1,B,1,9405BB,Assen
+Nicolaas Beetslaan,1,B,10,9405BB,Assen
+Nicolaas Beetslaan,1,B,10,9405BB,Assen
+Nicolaas Beetslaan,1,B,11,9405BB,Assen
+Nicolaas Beetslaan,1,B,11,9405BB,Assen
+Nicolaas Beetslaan,1,B,12,9405BB,Assen
+Nicolaas Beetslaan,1,B,12,9405BB,Assen
+Nicolaas Beetslaan,1,B,13,9405BB,Assen
+Nicolaas Beetslaan,1,B,13,9405BB,Assen
+Nicolaas Beetslaan,1,B,14,9405BB,Assen
+Nicolaas Beetslaan,1,B,14,9405BB,Assen
+Nicolaas Beetslaan,1,B,15,9405BB,Assen
+Nicolaas Beetslaan,1,B,15,9405BB,Assen
+Nicolaas Beetslaan,1,B,2,9405BB,Assen
+Nicolaas Beetslaan,1,B,2,9405BB,Assen
+Nicolaas Beetslaan,1,B,3,9405BB,Assen
+Nicolaas Beetslaan,1,B,3,9405BB,Assen
+Nicolaas Beetslaan,1,B,4,9405BB,Assen
+Nicolaas Beetslaan,1,B,4,9405BB,Assen
+Nicolaas Beetslaan,1,B,5,9405BB,Assen
+Nicolaas Beetslaan,1,B,5,9405BB,Assen
+Nicolaas Beetslaan,1,B,6,9405BB,Assen
+Nicolaas Beetslaan,1,B,6,9405BB,Assen
+Nicolaas Beetslaan,1,B,7,9405BB,Assen
+Nicolaas Beetslaan,1,B,7,9405BB,Assen
+Nicolaas Beetslaan,1,B,8,9405BB,Assen
+Nicolaas Beetslaan,1,B,8,9405BB,Assen
+Nicolaas Beetslaan,1,B,9,9405BB,Assen
+Nicolaas Beetslaan,1,B,9,9405BB,Assen
+Nicolaas Beetslaan,11,"","",9405BB,Assen
+Nicolaas Beetslaan,13,"","",9405BB,Assen
+Nicolaas Beetslaan,15,"","",9405BB,Assen
+Nicolaas Beetslaan,17,"","",9405BB,Assen
+Nicolaas Beetslaan,19,"","",9405BB,Assen
+Nicolaas Beetslaan,21,"","",9405BB,Assen
+Nicolaas Beetslaan,3,"","",9405BB,Assen
+Nicolaas Beetslaan,5,"","",9405BB,Assen
+Nicolaas Beetslaan,7,"","",9405BB,Assen
+Nicolaas Beetslaan,9,"","",9405BB,Assen
+Nicolaas Beetslaan,23,"","",9405BC,Assen
+Nicolaas Beetslaan,25,"","",9405BC,Assen
+Nicolaas Beetslaan,27,"","",9405BC,Assen
+Nicolaas Beetslaan,29,"","",9405BC,Assen
+Nicolaas Beetslaan,31,"","",9405BC,Assen
+Nicolaas Beetslaan,33,"","",9405BC,Assen
+Nicolaas Beetslaan,35,"","",9405BC,Assen
+Nicolaas Beetslaan,37,"","",9405BC,Assen
+Nicolaas Beetslaan,39,"","",9405BC,Assen
+Nicolaas Beetslaan,41,"","",9405BC,Assen
+Nicolaas Beetslaan,41,"","",9405BC,Assen
+Nicolaas Beetslaan,41,"","",9405BC,Assen
+Nicolaas Beetslaan,43,"","",9405BC,Assen
+Nicolaas Beetslaan,10,"","",9405BD,Assen
+Nicolaas Beetslaan,12,"","",9405BD,Assen
+Nicolaas Beetslaan,14,"","",9405BD,Assen
+Nicolaas Beetslaan,16,"","",9405BD,Assen
+Nicolaas Beetslaan,18,"","",9405BD,Assen
+Nicolaas Beetslaan,2,"","",9405BD,Assen
+Nicolaas Beetslaan,20,"","",9405BD,Assen
+Nicolaas Beetslaan,22,"","",9405BD,Assen
+Nicolaas Beetslaan,24,"","",9405BD,Assen
+Nicolaas Beetslaan,4,"","",9405BD,Assen
+Nicolaas Beetslaan,6,"","",9405BD,Assen
+Nicolaas Beetslaan,8,"","",9405BD,Assen
+Nicolaas Beetslaan,26,"","",9405BE,Assen
+Nicolaas Beetslaan,28,"","",9405BE,Assen
+Nicolaas Beetslaan,30,"","",9405BE,Assen
+Nicolaas Beetslaan,32,"","",9405BE,Assen
+Nicolaas Beetslaan,34,"","",9405BE,Assen
+Nicolaas Beetslaan,36,"","",9405BE,Assen
+Nicolaas Beetslaan,38,"","",9405BE,Assen
+Nicolaas Beetslaan,40,"","",9405BE,Assen
+Nicolaas Beetslaan,42,"","",9405BE,Assen
+Nicolaas Beetslaan,44,"","",9405BE,Assen
+Nicolaas Beetslaan,46,"","",9405BE,Assen
+Nicolaas Beetslaan,48,"","",9405BE,Assen
+Nicolaas Beetslaan,50,"","",9405BG,Assen
+Nicolaas Beetslaan,52,"","",9405BG,Assen
+Nicolaas Beetslaan,54,"","",9405BG,Assen
+Nicolaas Beetslaan,56,"","",9405BG,Assen
+Nicolaas Beetslaan,58,"","",9405BG,Assen
+Nicolaas Beetslaan,60,"","",9405BG,Assen
+Nicolaas Beetslaan,62,"","",9405BG,Assen
+Nicolaas Beetslaan,64,"","",9405BG,Assen
+Nicolaas Beetslaan,66,"","",9405BG,Assen
+Nicolaas Beetslaan,68,"","",9405BG,Assen
+Nicolaas Beetslaan,70,"","",9405BG,Assen
+Nicolaas Beetslaan,72,"","",9405BG,Assen
+Nicolaas Beetslaan,74,"","",9405BG,Assen
+Westerlaan,10,"","",9405BH,Assen
+Westerlaan,2,"","",9405BH,Assen
+Westerlaan,4,"","",9405BH,Assen
+Westerlaan,6,"","",9405BH,Assen
+Westerlaan,6,"","",9405BH,Assen
+Westerlaan,6,"","",9405BH,Assen
+Westerlaan,6,A,"",9405BH,Assen
+Westerlaan,8,"","",9405BH,Assen
+Westerbrink,1,"","",9405BJ,Assen
+Westerbrink,3,"","",9405BJ,Assen
+Westerbrink,3,"","",9405BJ,Assen
+Westerbrink,3,A,"",9405BJ,Assen
+Westerbrink,3,A,"",9405BJ,Assen
+Westerbrink,3,B,"",9405BJ,Assen
+Westerbrink,3,B,"",9405BJ,Assen
+Westerbrink,3,C,"",9405BJ,Assen
+Westerbrink,3,C,"",9405BJ,Assen

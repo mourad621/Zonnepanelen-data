@@ -1,639 +1,340 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7606JA",40,"",""
-"7606JA",36,"",""
-"7606JA",60,"",""
-"7606JA",28,"a",""
-"7606JA",38,"",""
-"7606JA",40,"a",""
-"7606JA",8,"",""
-"7606JA",4,"a",""
-"7606JA",60,"",""
-"7606JA",54,"",""
-"7606JA",14,"",""
-"7606JA",24,"",""
-"7606JA",46,"",""
-"7606JA",44,"",""
-"7606JA",60,"",""
-"7606JA",2,"",""
-"7606JA",6,"",""
-"7606JA",42,"",""
-"7606JA",52,"",""
-"7606JA",32,"",""
-"7606JA",12,"",""
-"7606JA",4,"",""
-"7606JA",48,"",""
-"7606JA",20,"",""
-"7606JA",16,"",""
-"7606JA",28,"",""
-"7606JA",28,"b",""
-"7606JA",18,"",""
-"7606JA",28,"",""
-"7606JA",22,"",""
-"7606JA",34,"",""
-"7606JA",10,"",""
-"7606JA",30,"",""
-"7606JA",26,"",""
-"7606JA",28,"",""
-"7606JJ",5,"",""
-"7606JJ",4,"",""
-"7606JJ",3,"",""
-"7606JJ",3,"a",""
-"7606JZ",4,"",""
-"7606JZ",12,"",""
-"7606JZ",32,"",""
-"7606JZ",10,"",""
-"7606JZ",1,"",""
-"7606JZ",3,"",""
-"7606JZ",11,"",""
-"7606JZ",4,"",""
-"7606JZ",30,"b",""
-"7606JZ",11,"",""
-"7606JZ",30,"a",""
-"7606JZ",1,"",""
-"7606JZ",5,"",""
-"7606JZ",30,"",""
-"7606JZ",9,"",""
-"7606JZ",15,"",""
-"7606JZ",8,"",""
-"7606JZ",13,"",""
-"7606JZ",10,"",""
-"7606JZ",30,"b",""
-"7606JZ",26,"",""
-"7606JZ",8,"",""
-"7606JZ",36,"",""
-"7606JZ",9,"",""
-"7606JZ",2,"",""
-"7606JZ",17,"",""
-"7606JZ",28,"",""
-"7606JZ",26,"",""
-"7606JZ",30,"",""
-"7606JZ",2,"",""
-"7606JZ",23,"",""
-"7606JZ",14,"",""
-"7606JZ",1,"",""
-"7606JZ",23,"",""
-"7606JZ",18,"",""
-"7606JZ",25,"",""
-"7606JZ",25,"",""
-"7606JZ",50,"c",""
-"7606JZ",16,"",""
-"7606JZ",6,"",""
-"7606JZ",5,"",""
-"7606JZ",12,"",""
-"7606JZ",16,"",""
-"7606JZ",14,"",""
-"7606JZ",50,"e",""
-"7606JZ",17,"",""
-"7606JZ",50,"d",""
-"7606JZ",34,"",""
-"7606JZ",22,"",""
-"7606JZ",21,"",""
-"7606JZ",3,"",""
-"7606JZ",30,"",""
-"7606JZ",50,"c",""
-"7606JZ",40,"",""
-"7606JZ",22,"",""
-"7606JZ",24,"",""
-"7606JZ",50,"",""
-"7606JZ",50,"e",""
-"7606JZ",7,"",""
-"7606JZ",15,"",""
-"7606JZ",7,"",""
-"7606JZ",24,"",""
-"7606JZ",38,"",""
-"7606JZ",13,"",""
-"7606JZ",50,"b",""
-"7606JZ",18,"",""
-"7606JZ",50,"f",""
-"7606JZ",50,"a",""
-"7606JZ",32,"",""
-"7606JZ",50,"",""
-"7606JZ",57,"",""
-"7606JZ",6,"",""
-"7606JZ",19,"",""
-"7606JZ",50,"b",""
-"7606JZ",50,"a",""
-"7606JZ",50,"f",""
-"7606JZ",19,"",""
-"7606JZ",20,"",""
-"7606JZ",21,"",""
-"7606JZ",60,"",""
-"7606JZ",50,"d",""
-"7606JZ",20,"",""
-"7609CA",31,"",""
-"7609CA",33,"",""
-"7609CA",21,"",""
-"7609CA",15,"",""
-"7609CA",9,"",""
-"7609CA",23,"",""
-"7609CA",13,"",""
-"7609CA",17,"",""
-"7609CA",27,"",""
-"7609CA",5,"",""
-"7609CA",19,"",""
-"7609CA",11,"",""
-"7609CA",3,"",""
-"7609CA",7,"",""
-"7609CA",35,"",""
-"7609CA",25,"",""
-"7609CA",37,"",""
-"7609CA",29,"",""
-"7609CA",1,"",""
-"7609CB",22,"",""
-"7609CB",18,"",""
-"7609CB",26,"",""
-"7609CB",8,"",""
-"7609CB",24,"",""
-"7609CB",6,"",""
-"7609CB",14,"a",""
-"7609CB",12,"",""
-"7609CB",4,"",""
-"7609CB",10,"",""
-"7609CB",32,"",""
-"7609CB",24,"a",""
-"7609CB",6,"a",""
-"7609CB",2,"",""
-"7609CB",20,"",""
-"7609CB",16,"",""
-"7609CB",34,"",""
-"7609CB",28,"",""
-"7609CB",14,"",""
-"7609CB",30,"",""
-"7609CB",8,"a",""
-"7609CC",36,"",""
-"7609CC",40,"",""
-"7609CC",38,"",""
-"7609CC",48,"",""
-"7609CC",56,"",""
-"7609CC",64,"",""
-"7609CC",72,"",""
-"7609CC",44,"",""
-"7609CC",60,"",""
-"7609CC",38,"a",""
-"7609CC",42,"",""
-"7609CC",78,"",""
-"7609CC",84,"",""
-"7609CC",68,"",""
-"7609CC",52,"",""
-"7609CC",66,"",""
-"7609CC",74,"",""
-"7609CC",58,"",""
-"7609CC",70,"",""
-"7609CC",50,"",""
-"7609CC",76,"",""
-"7609CC",54,"",""
-"7609CC",62,"",""
-"7609CC",80,"",""
-"7609CC",82,"",""
-"7609CC",46,"",""
-"7609CD",27,"",""
-"7609CD",37,"",""
-"7609CD",15,"",""
-"7609CD",25,"",""
-"7609CD",3,"a",""
-"7609CD",11,"",""
-"7609CD",29,"",""
-"7609CD",33,"",""
-"7609CD",17,"",""
-"7609CD",3,"",""
-"7609CD",13,"",""
-"7609CD",1,"",""
-"7609CD",7,"",""
-"7609CD",23,"",""
-"7609CD",1,"a",""
-"7609CD",35,"",""
-"7609CD",41,"",""
-"7609CD",35,"a",""
-"7609CD",31,"",""
-"7609CD",5,"",""
-"7609CD",5,"a",""
-"7609CD",9,"",""
-"7609CD",21,"",""
-"7609CD",39,"",""
-"7609CD",19,"",""
-"7609CE",67,"",""
-"7609CE",89,"",""
-"7609CE",83,"",""
-"7609CE",91,"",""
-"7609CE",73,"",""
-"7609CE",53,"",""
-"7609CE",77,"",""
-"7609CE",71,"",""
-"7609CE",55,"",""
-"7609CE",93,"",""
-"7609CE",75,"",""
-"7609CE",63,"",""
-"7609CE",49,"",""
-"7609CE",51,"",""
-"7609CE",69,"",""
-"7609CE",65,"",""
-"7609CE",61,"",""
-"7609CE",81,"",""
-"7609CE",79,"",""
-"7609CE",85,"",""
-"7609CE",87,"",""
-"7609CG",2,"a",""
-"7609CG",20,"",""
-"7609CG",2,"",""
-"7609CG",20,"a",""
-"7609CG",4,"",""
-"7609CG",6,"",""
-"7609CG",18,"",""
-"7609CG",24,"",""
-"7609CG",8,"",""
-"7609CG",14,"",""
-"7609CG",28,"",""
-"7609CG",30,"a",""
-"7609CG",26,"",""
-"7609CG",12,"",""
-"7609CG",22,"",""
-"7609CG",32,"",""
-"7609CG",16,"",""
-"7609CG",30,"",""
-"7609CG",10,"",""
-"7609CH",48,"",""
-"7609CH",66,"",""
-"7609CH",54,"",""
-"7609CH",52,"",""
-"7609CH",50,"",""
-"7609CH",56,"",""
-"7609CH",40,"",""
-"7609CH",70,"",""
-"7609CH",58,"",""
-"7609CH",38,"",""
-"7609CH",42,"",""
-"7609CH",68,"",""
-"7609CH",62,"",""
-"7609CH",60,"",""
-"7609CH",46,"",""
-"7609CH",36,"",""
-"7609CH",34,"",""
-"7609CH",44,"",""
-"7609CH",64,"",""
-"7609CJ",82,"",""
-"7609CJ",88,"",""
-"7609CJ",100,"",""
-"7609CJ",90,"",""
-"7609CJ",74,"",""
-"7609CJ",84,"",""
-"7609CJ",94,"",""
-"7609CJ",98,"",""
-"7609CJ",72,"",""
-"7609CJ",96,"",""
-"7609CJ",92,"",""
-"7609CJ",102,"",""
-"7609CJ",78,"",""
-"7609CJ",92,"a",""
-"7609CJ",76,"",""
-"7609CJ",86,"",""
-"7609CJ",80,"",""
-"7609CK",21,"",""
-"7609CK",17,"",""
-"7609CK",7,"",""
-"7609CK",23,"",""
-"7609CK",11,"",""
-"7609CK",9,"",""
-"7609CK",25,"",""
-"7609CK",5,"",""
-"7609CK",19,"",""
-"7609CK",3,"",""
-"7609CK",13,"",""
-"7609CK",15,"",""
-"7609CL",14,"",""
-"7609CL",16,"",""
-"7609CL",18,"",""
-"7609CL",22,"",""
-"7609CL",24,"",""
-"7609CL",32,"",""
-"7609CL",28,"",""
-"7609CL",8,"",""
-"7609CL",20,"",""
-"7609CL",26,"",""
-"7609CL",10,"",""
-"7609CL",2,"",""
-"7609CL",34,"",""
-"7609CL",38,"",""
-"7609CL",12,"",""
-"7609CL",30,"",""
-"7609CL",4,"",""
-"7609CL",40,"",""
-"7609CL",36,"",""
-"7609PX",8,"",""
-"7609PX",4,"",""
-"7609PX",1,"",""
-"7609PX",6,"",""
-"7609PX",2,"",""
-"7609PX",8,"",""
-"7609PX",8,"",""
-"7609PZ",7,"",""
-"7609PZ",17,"",""
-"7609PZ",11,"",""
-"7609PZ",15,"",""
-"7609PZ",1,"",""
-"7609PZ",21,"",""
-"7609PZ",7,"",""
-"7609PZ",5,"",""
-"7609PZ",7,"",""
-"7609PZ",13,"",""
-"7609PZ",9,"",""
-"7609PZ",19,"a",""
-"7609PZ",19,"",""
-7606JJ,De Sumpel,3,,
-7606JJ,De Sumpel,4,,
-7606JZ,Stadionlaan,1,,
-7606JZ,Stadionlaan,10,,
-7606JZ,Stadionlaan,11,,
-7606JZ,Stadionlaan,12,,
-7606JZ,Stadionlaan,13,,
-7606JZ,Stadionlaan,14,,
-7606JZ,Stadionlaan,15,,
-7606JZ,Stadionlaan,16,,
-7606JZ,Stadionlaan,17,,
-7606JZ,Stadionlaan,18,,
-7606JZ,Stadionlaan,19,,
-7606JZ,Stadionlaan,2,,
-7606JZ,Stadionlaan,20,,
-7606JZ,Stadionlaan,21,,
-7606JZ,Stadionlaan,22,,
-7606JZ,Stadionlaan,23,,
-7606JZ,Stadionlaan,24,,
-7606JZ,Stadionlaan,25,,
-7606JZ,Stadionlaan,26,,
-7606JZ,Stadionlaan,28,,
-7606JZ,Stadionlaan,3,,
-7606JZ,Stadionlaan,30,,
-7606JZ,Stadionlaan,30,a,
-7606JZ,Stadionlaan,30,b,
-7606JZ,Stadionlaan,32,,
-7606JZ,Stadionlaan,34,,
-7606JZ,Stadionlaan,36,,
-7606JZ,Stadionlaan,38,,
-7606JZ,Stadionlaan,4,,
-7606JZ,Stadionlaan,40,,
-7606JZ,Stadionlaan,5,,
-7606JZ,Stadionlaan,50,,
-7606JZ,Stadionlaan,50,a,
-7606JZ,Stadionlaan,50,b,
-7606JZ,Stadionlaan,50,c,
-7606JZ,Stadionlaan,50,d,
-7606JZ,Stadionlaan,50,e,
-7606JZ,Stadionlaan,50,f,
-7606JZ,Stadionlaan,6,,
-7606JZ,Stadionlaan,7,,
-7606JZ,Stadionlaan,8,,
-7606JZ,Stadionlaan,9,,
-7606JA,Woonboulevard,10,,
-7606JA,Woonboulevard,12,,
-7606JA,Woonboulevard,14,,
-7606JA,Woonboulevard,16,,
-7606JA,Woonboulevard,18,,
-7606JA,Woonboulevard,2,,
-7606JA,Woonboulevard,20,,
-7606JA,Woonboulevard,22,,
-7606JA,Woonboulevard,24,,
-7606JA,Woonboulevard,26,,
-7606JA,Woonboulevard,28,,
-7606JA,Woonboulevard,28,a,
-7606JA,Woonboulevard,30,,
-7606JA,Woonboulevard,32,,
-7606JA,Woonboulevard,34,,
-7606JA,Woonboulevard,36,,
-7606JA,Woonboulevard,38,,
-7606JA,Woonboulevard,40,,
-7606JA,Woonboulevard,42,,
-7606JA,Woonboulevard,44,,
-7606JA,Woonboulevard,46,,
-7606JA,Woonboulevard,48,,
-7606JA,Woonboulevard,52,,
-7606JA,Woonboulevard,54,,
-7606JA,Woonboulevard,6,,
-7606JA,Woonboulevard,60,,
-7606JA,Woonboulevard,8,,
-7609CA,De Schöppe,1,,
-7609CA,De Schöppe,11,,
-7609CA,De Schöppe,13,,
-7609CA,De Schöppe,15,,
-7609CA,De Schöppe,17,,
-7609CA,De Schöppe,19,,
-7609CA,De Schöppe,21,,
-7609CA,De Schöppe,23,,
-7609CA,De Schöppe,25,,
-7609CA,De Schöppe,27,,
-7609CA,De Schöppe,29,,
-7609CA,De Schöppe,3,,
-7609CA,De Schöppe,31,,
-7609CA,De Schöppe,33,,
-7609CA,De Schöppe,35,,
-7609CA,De Schöppe,37,,
-7609CA,De Schöppe,5,,
-7609CA,De Schöppe,7,,
-7609CA,De Schöppe,9,,
-7609CB,De Schöppe,10,,
-7609CB,De Schöppe,12,,
-7609CB,De Schöppe,14,,
-7609CB,De Schöppe,14,a,
-7609CB,De Schöppe,16,,
-7609CB,De Schöppe,18,,
-7609CB,De Schöppe,2,,
-7609CB,De Schöppe,20,,
-7609CB,De Schöppe,22,,
-7609CB,De Schöppe,24,,
-7609CB,De Schöppe,24,a,
-7609CB,De Schöppe,26,,
-7609CB,De Schöppe,28,,
-7609CB,De Schöppe,30,,
-7609CB,De Schöppe,32,,
-7609CB,De Schöppe,34,,
-7609CB,De Schöppe,4,,
-7609CB,De Schöppe,6,,
-7609CB,De Schöppe,6,a,
-7609CB,De Schöppe,8,,
-7609CB,De Schöppe,8,a,
-7609CC,De Schöppe,36,,
-7609CC,De Schöppe,38,,
-7609CC,De Schöppe,38,a,
-7609CC,De Schöppe,40,,
-7609CC,De Schöppe,42,,
-7609CC,De Schöppe,44,,
-7609CC,De Schöppe,46,,
-7609CC,De Schöppe,48,,
-7609CC,De Schöppe,50,,
-7609CC,De Schöppe,52,,
-7609CK,De Bakspieker,11,,
-7609CK,De Bakspieker,13,,
-7609CK,De Bakspieker,15,,
-7609CK,De Bakspieker,17,,
-7609CK,De Bakspieker,19,,
-7609CK,De Bakspieker,21,,
-7609CK,De Bakspieker,23,,
-7609CK,De Bakspieker,25,,
-7609CK,De Bakspieker,3,,
-7609CK,De Bakspieker,5,,
-7609CK,De Bakspieker,7,,
-7609CK,De Bakspieker,9,,
-7609CL,De Bakspieker,10,,
-7609CL,De Bakspieker,12,,
-7609CL,De Bakspieker,14,,
-7609CL,De Bakspieker,16,,
-7609CL,De Bakspieker,18,,
-7609CL,De Bakspieker,2,,
-7609CL,De Bakspieker,20,,
-7609CL,De Bakspieker,22,,
-7609CL,De Bakspieker,24,,
-7609CL,De Bakspieker,26,,
-7609CL,De Bakspieker,28,,
-7609CL,De Bakspieker,30,,
-7609CL,De Bakspieker,32,,
-7609CL,De Bakspieker,34,,
-7609CL,De Bakspieker,36,,
-7609CL,De Bakspieker,38,,
-7609CL,De Bakspieker,4,,
-7609CL,De Bakspieker,40,,
-7609CL,De Bakspieker,8,,
-7609CD,De Delle,1,,
-7609CD,De Delle,11,,
-7609CD,De Delle,13,,
-7609CD,De Delle,15,,
-7609CD,De Delle,17,,
-7609CD,De Delle,19,,
-7609CD,De Delle,1,a,
-7609CD,De Delle,21,,
-7609CD,De Delle,23,,
-7609CD,De Delle,25,,
-7609CD,De Delle,27,,
-7609CD,De Delle,29,,
-7609CD,De Delle,3,,
-7609CD,De Delle,31,,
-7609CD,De Delle,33,,
-7609CD,De Delle,35,,
-7609CD,De Delle,35,a,
-7609CD,De Delle,37,,
-7609CD,De Delle,39,,
-7609CD,De Delle,3,a,
-7609CD,De Delle,41,,
-7609CD,De Delle,5,,
-7609CD,De Delle,5,a,
-7609CD,De Delle,7,,
-7609CD,De Delle,9,,
-7609CE,De Delle,49,,
-7609CE,De Delle,51,,
-7609CE,De Delle,53,,
-7609CE,De Delle,55,,
-7609CE,De Delle,61,,
-7609CE,De Delle,63,,
-7609CE,De Delle,65,,
-7609CE,De Delle,67,,
-7609CE,De Delle,69,,
-7609CE,De Delle,71,,
-7609CE,De Delle,73,,
-7609CE,De Delle,75,,
-7609CE,De Delle,77,,
-7609CE,De Delle,79,,
-7609CE,De Delle,81,,
-7609CE,De Delle,83,,
-7609CE,De Delle,85,,
-7609CE,De Delle,87,,
-7609CE,De Delle,89,,
-7609CE,De Delle,91,,
-7609CE,De Delle,93,,
-7609CG,De Delle,10,,
-7609CG,De Delle,12,,
-7609CG,De Delle,14,,
-7609CG,De Delle,16,,
-7609CG,De Delle,18,,
-7609CG,De Delle,2,,
-7609CG,De Delle,20,,
-7609CG,De Delle,20,a,
-7609CG,De Delle,22,,
-7609CG,De Delle,24,,
-7609CG,De Delle,26,,
-7609CG,De Delle,28,,
-7609CG,De Delle,2,a,
-7609CG,De Delle,30,,
-7609CG,De Delle,30,a,
-7609CG,De Delle,32,,
-7609CG,De Delle,4,,
-7609CG,De Delle,6,,
-7609CG,De Delle,8,,
-7609CH,De Delle,34,,
-7609CH,De Delle,36,,
-7609CH,De Delle,38,,
-7609CH,De Delle,40,,
-7609CH,De Delle,42,,
-7609CH,De Delle,44,,
-7609CH,De Delle,46,,
-7609CH,De Delle,48,,
-7609CH,De Delle,50,,
-7609CH,De Delle,52,,
-7609CH,De Delle,54,,
-7609CH,De Delle,56,,
-7609CH,De Delle,58,,
-7609CH,De Delle,60,,
-7609CH,De Delle,62,,
-7609CH,De Delle,64,,
-7609CH,De Delle,66,,
-7609CH,De Delle,68,,
-7609CH,De Delle,70,,
-7609CJ,De Delle,100,,
-7609CJ,De Delle,102,,
-7609CJ,De Delle,72,,
-7609CJ,De Delle,74,,
-7609CJ,De Delle,76,,
-7609CJ,De Delle,78,,
-7609CJ,De Delle,80,,
-7609CJ,De Delle,82,,
-7609CJ,De Delle,84,,
-7609CJ,De Delle,86,,
-7609CJ,De Delle,88,,
-7609CJ,De Delle,90,,
-7609CJ,De Delle,92,,
-7609CJ,De Delle,92,a,
-7609CJ,De Delle,94,,
-7609CJ,De Delle,96,,
-7609CJ,De Delle,98,,
-7606JJ,De Sumpel,5,,
-7606JJ,De Sumpel,3,a,
-7609CC,De Schöppe,54,,
-7609CC,De Schöppe,56,,
-7609CC,De Schöppe,58,,
-7609CC,De Schöppe,60,,
-7609CC,De Schöppe,62,,
-7609CC,De Schöppe,64,,
-7609CC,De Schöppe,66,,
-7609CC,De Schöppe,68,,
-7609CC,De Schöppe,70,,
-7609CC,De Schöppe,72,,
-7609CC,De Schöppe,74,,
-7609CC,De Schöppe,76,,
-7609CC,De Schöppe,78,,
-7609CC,De Schöppe,80,,
-7609CC,De Schöppe,82,,
-7609CC,De Schöppe,84,,
-7609PX,Groeneveldsweg,1,,
-7609PX,Groeneveldsweg,2,,
-7609PX,Groeneveldsweg,4,,
-7609PX,Groeneveldsweg,6,,
-7609PX,Groeneveldsweg,8,,
-7609PZ,Kooikersweg,1,,
-7609PZ,Kooikersweg,11,,
-7609PZ,Kooikersweg,13,,
-7609PZ,Kooikersweg,15,,
-7609PZ,Kooikersweg,17,,
-7609PZ,Kooikersweg,19,,
-7609PZ,Kooikersweg,19,a,
-7609PZ,Kooikersweg,21,,
-7609PZ,Kooikersweg,5,,
-7609PZ,Kooikersweg,7,,
-7609PZ,Kooikersweg,9,,
-7606JZ,Stadionlaan,30,,
-7606JZ,Stadionlaan,1,,
-7606JZ,Stadionlaan,60,,
-7606JZ,Stadionlaan,57,,
-7606JA,Woonboulevard,28,,
-7606JA,Woonboulevard,28,b,
-7609PX,Groeneveldsweg,8,,
-7609PZ,Kooikersweg,7,,
-7606JA,Woonboulevard,4,,
-7606JA,Woonboulevard,4,a,
-7606JA,Woonboulevard,40,a,
-7606JA,Woonboulevard,60,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Woonboulevard,10,"","",7606JA,Almelo
+Woonboulevard,12,"","",7606JA,Almelo
+Woonboulevard,14,"","",7606JA,Almelo
+Woonboulevard,16,"","",7606JA,Almelo
+Woonboulevard,18,"","",7606JA,Almelo
+Woonboulevard,2,"","",7606JA,Almelo
+Woonboulevard,20,"","",7606JA,Almelo
+Woonboulevard,22,"","",7606JA,Almelo
+Woonboulevard,24,"","",7606JA,Almelo
+Woonboulevard,26,"","",7606JA,Almelo
+Woonboulevard,28,"","",7606JA,Almelo
+Woonboulevard,28,"","",7606JA,Almelo
+Woonboulevard,28,"","",7606JA,Almelo
+Woonboulevard,28,A,"",7606JA,Almelo
+Woonboulevard,28,B,"",7606JA,Almelo
+Woonboulevard,30,"","",7606JA,Almelo
+Woonboulevard,32,"","",7606JA,Almelo
+Woonboulevard,34,"","",7606JA,Almelo
+Woonboulevard,36,"","",7606JA,Almelo
+Woonboulevard,38,"","",7606JA,Almelo
+Woonboulevard,4,"","",7606JA,Almelo
+Woonboulevard,4,A,"",7606JA,Almelo
+Woonboulevard,40,"","",7606JA,Almelo
+Woonboulevard,40,A,"",7606JA,Almelo
+Woonboulevard,42,"","",7606JA,Almelo
+Woonboulevard,44,"","",7606JA,Almelo
+Woonboulevard,46,"","",7606JA,Almelo
+Woonboulevard,48,"","",7606JA,Almelo
+Woonboulevard,52,"","",7606JA,Almelo
+Woonboulevard,54,"","",7606JA,Almelo
+Woonboulevard,6,"","",7606JA,Almelo
+Woonboulevard,60,"","",7606JA,Almelo
+Woonboulevard,60,"","",7606JA,Almelo
+Woonboulevard,60,"","",7606JA,Almelo
+Woonboulevard,8,"","",7606JA,Almelo
+De Sumpel,3,"","",7606JJ,Almelo
+De Sumpel,3,A,"",7606JJ,Almelo
+De Sumpel,4,"","",7606JJ,Almelo
+De Sumpel,5,"","",7606JJ,Almelo
+Stadionlaan,1,"","",7606JZ,Almelo
+Stadionlaan,1,"","",7606JZ,Almelo
+Stadionlaan,1,"","",7606JZ,Almelo
+Stadionlaan,10,"","",7606JZ,Almelo
+Stadionlaan,10,"","",7606JZ,Almelo
+Stadionlaan,11,"","",7606JZ,Almelo
+Stadionlaan,11,"","",7606JZ,Almelo
+Stadionlaan,12,"","",7606JZ,Almelo
+Stadionlaan,12,"","",7606JZ,Almelo
+Stadionlaan,13,"","",7606JZ,Almelo
+Stadionlaan,13,"","",7606JZ,Almelo
+Stadionlaan,14,"","",7606JZ,Almelo
+Stadionlaan,14,"","",7606JZ,Almelo
+Stadionlaan,15,"","",7606JZ,Almelo
+Stadionlaan,15,"","",7606JZ,Almelo
+Stadionlaan,16,"","",7606JZ,Almelo
+Stadionlaan,16,"","",7606JZ,Almelo
+Stadionlaan,17,"","",7606JZ,Almelo
+Stadionlaan,17,"","",7606JZ,Almelo
+Stadionlaan,18,"","",7606JZ,Almelo
+Stadionlaan,18,"","",7606JZ,Almelo
+Stadionlaan,19,"","",7606JZ,Almelo
+Stadionlaan,19,"","",7606JZ,Almelo
+Stadionlaan,2,"","",7606JZ,Almelo
+Stadionlaan,2,"","",7606JZ,Almelo
+Stadionlaan,20,"","",7606JZ,Almelo
+Stadionlaan,20,"","",7606JZ,Almelo
+Stadionlaan,21,"","",7606JZ,Almelo
+Stadionlaan,21,"","",7606JZ,Almelo
+Stadionlaan,22,"","",7606JZ,Almelo
+Stadionlaan,22,"","",7606JZ,Almelo
+Stadionlaan,23,"","",7606JZ,Almelo
+Stadionlaan,23,"","",7606JZ,Almelo
+Stadionlaan,24,"","",7606JZ,Almelo
+Stadionlaan,24,"","",7606JZ,Almelo
+Stadionlaan,25,"","",7606JZ,Almelo
+Stadionlaan,25,"","",7606JZ,Almelo
+Stadionlaan,26,"","",7606JZ,Almelo
+Stadionlaan,26,"","",7606JZ,Almelo
+Stadionlaan,28,"","",7606JZ,Almelo
+Stadionlaan,3,"","",7606JZ,Almelo
+Stadionlaan,3,"","",7606JZ,Almelo
+Stadionlaan,30,"","",7606JZ,Almelo
+Stadionlaan,30,"","",7606JZ,Almelo
+Stadionlaan,30,"","",7606JZ,Almelo
+Stadionlaan,30,A,"",7606JZ,Almelo
+Stadionlaan,30,B,"",7606JZ,Almelo
+Stadionlaan,30,B,"",7606JZ,Almelo
+Stadionlaan,32,"","",7606JZ,Almelo
+Stadionlaan,32,"","",7606JZ,Almelo
+Stadionlaan,34,"","",7606JZ,Almelo
+Stadionlaan,36,"","",7606JZ,Almelo
+Stadionlaan,38,"","",7606JZ,Almelo
+Stadionlaan,4,"","",7606JZ,Almelo
+Stadionlaan,4,"","",7606JZ,Almelo
+Stadionlaan,40,"","",7606JZ,Almelo
+Stadionlaan,5,"","",7606JZ,Almelo
+Stadionlaan,5,"","",7606JZ,Almelo
+Stadionlaan,50,"","",7606JZ,Almelo
+Stadionlaan,50,"","",7606JZ,Almelo
+Stadionlaan,50,A,"",7606JZ,Almelo
+Stadionlaan,50,A,"",7606JZ,Almelo
+Stadionlaan,50,B,"",7606JZ,Almelo
+Stadionlaan,50,B,"",7606JZ,Almelo
+Stadionlaan,50,C,"",7606JZ,Almelo
+Stadionlaan,50,C,"",7606JZ,Almelo
+Stadionlaan,50,D,"",7606JZ,Almelo
+Stadionlaan,50,D,"",7606JZ,Almelo
+Stadionlaan,50,E,"",7606JZ,Almelo
+Stadionlaan,50,E,"",7606JZ,Almelo
+Stadionlaan,50,F,"",7606JZ,Almelo
+Stadionlaan,50,F,"",7606JZ,Almelo
+Stadionlaan,57,"","",7606JZ,Almelo
+Stadionlaan,6,"","",7606JZ,Almelo
+Stadionlaan,6,"","",7606JZ,Almelo
+Stadionlaan,60,"","",7606JZ,Almelo
+Stadionlaan,7,"","",7606JZ,Almelo
+Stadionlaan,7,"","",7606JZ,Almelo
+Stadionlaan,8,"","",7606JZ,Almelo
+Stadionlaan,8,"","",7606JZ,Almelo
+Stadionlaan,9,"","",7606JZ,Almelo
+Stadionlaan,9,"","",7606JZ,Almelo
+De Schöppe,1,"","",7609CA,Almelo
+De Schöppe,11,"","",7609CA,Almelo
+De Schöppe,13,"","",7609CA,Almelo
+De Schöppe,15,"","",7609CA,Almelo
+De Schöppe,17,"","",7609CA,Almelo
+De Schöppe,19,"","",7609CA,Almelo
+De Schöppe,21,"","",7609CA,Almelo
+De Schöppe,23,"","",7609CA,Almelo
+De Schöppe,25,"","",7609CA,Almelo
+De Schöppe,27,"","",7609CA,Almelo
+De Schöppe,29,"","",7609CA,Almelo
+De Schöppe,3,"","",7609CA,Almelo
+De Schöppe,31,"","",7609CA,Almelo
+De Schöppe,33,"","",7609CA,Almelo
+De Schöppe,35,"","",7609CA,Almelo
+De Schöppe,37,"","",7609CA,Almelo
+De Schöppe,5,"","",7609CA,Almelo
+De Schöppe,7,"","",7609CA,Almelo
+De Schöppe,9,"","",7609CA,Almelo
+De Schöppe,10,"","",7609CB,Almelo
+De Schöppe,12,"","",7609CB,Almelo
+De Schöppe,14,"","",7609CB,Almelo
+De Schöppe,14,A,"",7609CB,Almelo
+De Schöppe,16,"","",7609CB,Almelo
+De Schöppe,18,"","",7609CB,Almelo
+De Schöppe,2,"","",7609CB,Almelo
+De Schöppe,20,"","",7609CB,Almelo
+De Schöppe,22,"","",7609CB,Almelo
+De Schöppe,24,"","",7609CB,Almelo
+De Schöppe,24,A,"",7609CB,Almelo
+De Schöppe,26,"","",7609CB,Almelo
+De Schöppe,28,"","",7609CB,Almelo
+De Schöppe,30,"","",7609CB,Almelo
+De Schöppe,32,"","",7609CB,Almelo
+De Schöppe,34,"","",7609CB,Almelo
+De Schöppe,4,"","",7609CB,Almelo
+De Schöppe,6,"","",7609CB,Almelo
+De Schöppe,6,A,"",7609CB,Almelo
+De Schöppe,8,"","",7609CB,Almelo
+De Schöppe,8,A,"",7609CB,Almelo
+De Schöppe,36,"","",7609CC,Almelo
+De Schöppe,38,"","",7609CC,Almelo
+De Schöppe,38,A,"",7609CC,Almelo
+De Schöppe,40,"","",7609CC,Almelo
+De Schöppe,42,"","",7609CC,Almelo
+De Schöppe,44,"","",7609CC,Almelo
+De Schöppe,46,"","",7609CC,Almelo
+De Schöppe,48,"","",7609CC,Almelo
+De Schöppe,50,"","",7609CC,Almelo
+De Schöppe,52,"","",7609CC,Almelo
+De Schöppe,54,"","",7609CC,Almelo
+De Schöppe,56,"","",7609CC,Almelo
+De Schöppe,58,"","",7609CC,Almelo
+De Schöppe,60,"","",7609CC,Almelo
+De Schöppe,62,"","",7609CC,Almelo
+De Schöppe,64,"","",7609CC,Almelo
+De Schöppe,66,"","",7609CC,Almelo
+De Schöppe,68,"","",7609CC,Almelo
+De Schöppe,70,"","",7609CC,Almelo
+De Schöppe,72,"","",7609CC,Almelo
+De Schöppe,74,"","",7609CC,Almelo
+De Schöppe,76,"","",7609CC,Almelo
+De Schöppe,78,"","",7609CC,Almelo
+De Schöppe,80,"","",7609CC,Almelo
+De Schöppe,82,"","",7609CC,Almelo
+De Schöppe,84,"","",7609CC,Almelo
+De Delle,1,"","",7609CD,Almelo
+De Delle,1,A,"",7609CD,Almelo
+De Delle,11,"","",7609CD,Almelo
+De Delle,13,"","",7609CD,Almelo
+De Delle,15,"","",7609CD,Almelo
+De Delle,17,"","",7609CD,Almelo
+De Delle,19,"","",7609CD,Almelo
+De Delle,21,"","",7609CD,Almelo
+De Delle,23,"","",7609CD,Almelo
+De Delle,25,"","",7609CD,Almelo
+De Delle,27,"","",7609CD,Almelo
+De Delle,29,"","",7609CD,Almelo
+De Delle,3,"","",7609CD,Almelo
+De Delle,3,A,"",7609CD,Almelo
+De Delle,31,"","",7609CD,Almelo
+De Delle,33,"","",7609CD,Almelo
+De Delle,35,"","",7609CD,Almelo
+De Delle,35,A,"",7609CD,Almelo
+De Delle,37,"","",7609CD,Almelo
+De Delle,39,"","",7609CD,Almelo
+De Delle,41,"","",7609CD,Almelo
+De Delle,5,"","",7609CD,Almelo
+De Delle,5,A,"",7609CD,Almelo
+De Delle,7,"","",7609CD,Almelo
+De Delle,9,"","",7609CD,Almelo
+De Delle,49,"","",7609CE,Almelo
+De Delle,51,"","",7609CE,Almelo
+De Delle,53,"","",7609CE,Almelo
+De Delle,55,"","",7609CE,Almelo
+De Delle,61,"","",7609CE,Almelo
+De Delle,63,"","",7609CE,Almelo
+De Delle,65,"","",7609CE,Almelo
+De Delle,67,"","",7609CE,Almelo
+De Delle,69,"","",7609CE,Almelo
+De Delle,71,"","",7609CE,Almelo
+De Delle,73,"","",7609CE,Almelo
+De Delle,75,"","",7609CE,Almelo
+De Delle,77,"","",7609CE,Almelo
+De Delle,79,"","",7609CE,Almelo
+De Delle,81,"","",7609CE,Almelo
+De Delle,83,"","",7609CE,Almelo
+De Delle,85,"","",7609CE,Almelo
+De Delle,87,"","",7609CE,Almelo
+De Delle,89,"","",7609CE,Almelo
+De Delle,91,"","",7609CE,Almelo
+De Delle,93,"","",7609CE,Almelo
+De Delle,10,"","",7609CG,Almelo
+De Delle,12,"","",7609CG,Almelo
+De Delle,14,"","",7609CG,Almelo
+De Delle,16,"","",7609CG,Almelo
+De Delle,18,"","",7609CG,Almelo
+De Delle,2,"","",7609CG,Almelo
+De Delle,2,A,"",7609CG,Almelo
+De Delle,20,"","",7609CG,Almelo
+De Delle,20,A,"",7609CG,Almelo
+De Delle,22,"","",7609CG,Almelo
+De Delle,24,"","",7609CG,Almelo
+De Delle,26,"","",7609CG,Almelo
+De Delle,28,"","",7609CG,Almelo
+De Delle,30,"","",7609CG,Almelo
+De Delle,30,A,"",7609CG,Almelo
+De Delle,32,"","",7609CG,Almelo
+De Delle,4,"","",7609CG,Almelo
+De Delle,6,"","",7609CG,Almelo
+De Delle,8,"","",7609CG,Almelo
+De Delle,34,"","",7609CH,Almelo
+De Delle,36,"","",7609CH,Almelo
+De Delle,38,"","",7609CH,Almelo
+De Delle,40,"","",7609CH,Almelo
+De Delle,42,"","",7609CH,Almelo
+De Delle,44,"","",7609CH,Almelo
+De Delle,46,"","",7609CH,Almelo
+De Delle,48,"","",7609CH,Almelo
+De Delle,50,"","",7609CH,Almelo
+De Delle,52,"","",7609CH,Almelo
+De Delle,54,"","",7609CH,Almelo
+De Delle,56,"","",7609CH,Almelo
+De Delle,58,"","",7609CH,Almelo
+De Delle,60,"","",7609CH,Almelo
+De Delle,62,"","",7609CH,Almelo
+De Delle,64,"","",7609CH,Almelo
+De Delle,66,"","",7609CH,Almelo
+De Delle,68,"","",7609CH,Almelo
+De Delle,70,"","",7609CH,Almelo
+De Delle,100,"","",7609CJ,Almelo
+De Delle,102,"","",7609CJ,Almelo
+De Delle,72,"","",7609CJ,Almelo
+De Delle,74,"","",7609CJ,Almelo
+De Delle,76,"","",7609CJ,Almelo
+De Delle,78,"","",7609CJ,Almelo
+De Delle,80,"","",7609CJ,Almelo
+De Delle,82,"","",7609CJ,Almelo
+De Delle,84,"","",7609CJ,Almelo
+De Delle,86,"","",7609CJ,Almelo
+De Delle,88,"","",7609CJ,Almelo
+De Delle,90,"","",7609CJ,Almelo
+De Delle,92,"","",7609CJ,Almelo
+De Delle,92,A,"",7609CJ,Almelo
+De Delle,94,"","",7609CJ,Almelo
+De Delle,96,"","",7609CJ,Almelo
+De Delle,98,"","",7609CJ,Almelo
+De Bakspieker,11,"","",7609CK,Almelo
+De Bakspieker,13,"","",7609CK,Almelo
+De Bakspieker,15,"","",7609CK,Almelo
+De Bakspieker,17,"","",7609CK,Almelo
+De Bakspieker,19,"","",7609CK,Almelo
+De Bakspieker,21,"","",7609CK,Almelo
+De Bakspieker,23,"","",7609CK,Almelo
+De Bakspieker,25,"","",7609CK,Almelo
+De Bakspieker,3,"","",7609CK,Almelo
+De Bakspieker,5,"","",7609CK,Almelo
+De Bakspieker,7,"","",7609CK,Almelo
+De Bakspieker,9,"","",7609CK,Almelo
+De Bakspieker,10,"","",7609CL,Almelo
+De Bakspieker,12,"","",7609CL,Almelo
+De Bakspieker,14,"","",7609CL,Almelo
+De Bakspieker,16,"","",7609CL,Almelo
+De Bakspieker,18,"","",7609CL,Almelo
+De Bakspieker,2,"","",7609CL,Almelo
+De Bakspieker,20,"","",7609CL,Almelo
+De Bakspieker,22,"","",7609CL,Almelo
+De Bakspieker,24,"","",7609CL,Almelo
+De Bakspieker,26,"","",7609CL,Almelo
+De Bakspieker,28,"","",7609CL,Almelo
+De Bakspieker,30,"","",7609CL,Almelo
+De Bakspieker,32,"","",7609CL,Almelo
+De Bakspieker,34,"","",7609CL,Almelo
+De Bakspieker,36,"","",7609CL,Almelo
+De Bakspieker,38,"","",7609CL,Almelo
+De Bakspieker,4,"","",7609CL,Almelo
+De Bakspieker,40,"","",7609CL,Almelo
+De Bakspieker,8,"","",7609CL,Almelo
+Groeneveldsweg,1,"","",7609PX,Almelo
+Groeneveldsweg,2,"","",7609PX,Almelo
+Groeneveldsweg,4,"","",7609PX,Almelo
+Groeneveldsweg,6,"","",7609PX,Almelo
+Groeneveldsweg,8,"","",7609PX,Almelo
+Groeneveldsweg,8,"","",7609PX,Almelo
+Groeneveldsweg,8,"","",7609PX,Almelo
+Kooikersweg,1,"","",7609PZ,Almelo
+Kooikersweg,11,"","",7609PZ,Almelo
+Kooikersweg,13,"","",7609PZ,Almelo
+Kooikersweg,15,"","",7609PZ,Almelo
+Kooikersweg,17,"","",7609PZ,Almelo
+Kooikersweg,19,"","",7609PZ,Almelo
+Kooikersweg,19,A,"",7609PZ,Almelo
+Kooikersweg,21,"","",7609PZ,Almelo
+Kooikersweg,5,"","",7609PZ,Almelo
+Kooikersweg,7,"","",7609PZ,Almelo
+Kooikersweg,7,"","",7609PZ,Almelo
+Kooikersweg,7,"","",7609PZ,Almelo
+Kooikersweg,9,"","",7609PZ,Almelo

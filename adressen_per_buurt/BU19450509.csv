@@ -1,49 +1,49 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6562ZX,Binnenveld,2,,
-6562ZX,Binnenveld,4,,
-6562ZX,Binnenveld,4,a,
-6562ZX,Binnenveld,4,b,
-6562ZX,Binnenveld,6,,
-6562ZX,Binnenveld,8,,
-6562ZX,Binnenveld,10,,
-6562ZX,Binnenveld,12,,
-6562ZX,Binnenveld,12,a,
-6562ZX,Binnenveld,14,,
-6562ZX,Binnenveld,16,,
-6562ZX,Binnenveld,18,,
-6562ZX,Binnenveld,20,,
-6562ZX,Binnenveld,22,,
-6562ZX,Binnenveld,22,a,
-6562ZX,Binnenveld,22,b,
-6562ZX,Binnenveld,24,,
-6562ZX,Binnenveld,26,,
-6562ZX,Binnenveld,26,a,
-6562ZX,Binnenveld,28,,
-6562ZX,Binnenveld,30,,
-6562ZX,Binnenveld,32,,
-6562KC,Klein Amerika,1,,
-6562KC,Klein Amerika,1,,WON
-6562KC,Klein Amerika,3,,
-6562KC,Klein Amerika,3,,BEDR
-6562KC,Klein Amerika,3,a,
-6562KC,Klein Amerika,6,,
-6562KC,Klein Amerika,6,,WINK
-6562KC,Klein Amerika,8,,
-6562KC,Klein Amerika,10,,
-6562KC,Klein Amerika,2,,
-6562KC,Klein Amerika,5,,
-6562KC,Klein Amerika,6,a,
-6562KC,Klein Amerika,7,,
-6562KC,Klein Amerika,10,,BEDR
-6562KC,Klein Amerika,10,,WON
-6562DT,Knapheideweg,2,,
-6562DT,Knapheideweg,10,,
-6562DT,Knapheideweg,12,,
-6562DT,Knapheideweg,10,a,
-6562KB,Mooksebaan,12,,
-6562KB,Mooksebaan,12,a,
-6562KB,Mooksebaan,14,,
-6562KB,Mooksebaan,20,,
-6562KC,Klein Amerika,7,a,
-6562KC,Klein Amerika,7,b,
-6562KC,Klein Amerika,7,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Knapheideweg,10,"","",6562DT,Groesbeek
+Knapheideweg,10,A,"",6562DT,Groesbeek
+Knapheideweg,12,"","",6562DT,Groesbeek
+Knapheideweg,2,"","",6562DT,Groesbeek
+Mooksebaan,12,"","",6562KB,Groesbeek
+Mooksebaan,12,A,"",6562KB,Groesbeek
+Mooksebaan,14,"","",6562KB,Groesbeek
+Mooksebaan,20,"","",6562KB,Groesbeek
+Klein Amerika,1,"","",6562KC,Groesbeek
+Klein Amerika,1,"",WON,6562KC,Groesbeek
+Klein Amerika,10,"","",6562KC,Groesbeek
+Klein Amerika,10,"",BEDR,6562KC,Groesbeek
+Klein Amerika,10,"",WON,6562KC,Groesbeek
+Klein Amerika,2,"","",6562KC,Groesbeek
+Klein Amerika,3,"","",6562KC,Groesbeek
+Klein Amerika,3,"",BEDR,6562KC,Groesbeek
+Klein Amerika,3,A,"",6562KC,Groesbeek
+Klein Amerika,5,"","",6562KC,Groesbeek
+Klein Amerika,6,"","",6562KC,Groesbeek
+Klein Amerika,6,"",WINK,6562KC,Groesbeek
+Klein Amerika,6,A,"",6562KC,Groesbeek
+Klein Amerika,7,"","",6562KC,Groesbeek
+Klein Amerika,7,A,"",6562KC,Groesbeek
+Klein Amerika,7,A,"",6562KC,Groesbeek
+Klein Amerika,7,B,"",6562KC,Groesbeek
+Klein Amerika,8,"","",6562KC,Groesbeek
+Binnenveld,10,"","",6562ZX,Groesbeek
+Binnenveld,12,"","",6562ZX,Groesbeek
+Binnenveld,12,A,"",6562ZX,Groesbeek
+Binnenveld,14,"","",6562ZX,Groesbeek
+Binnenveld,16,"","",6562ZX,Groesbeek
+Binnenveld,18,"","",6562ZX,Groesbeek
+Binnenveld,2,"","",6562ZX,Groesbeek
+Binnenveld,20,"","",6562ZX,Groesbeek
+Binnenveld,22,"","",6562ZX,Groesbeek
+Binnenveld,22,A,"",6562ZX,Groesbeek
+Binnenveld,22,B,"",6562ZX,Groesbeek
+Binnenveld,24,"","",6562ZX,Groesbeek
+Binnenveld,26,"","",6562ZX,Groesbeek
+Binnenveld,26,A,"",6562ZX,Groesbeek
+Binnenveld,28,"","",6562ZX,Groesbeek
+Binnenveld,30,"","",6562ZX,Groesbeek
+Binnenveld,32,"","",6562ZX,Groesbeek
+Binnenveld,4,"","",6562ZX,Groesbeek
+Binnenveld,4,A,"",6562ZX,Groesbeek
+Binnenveld,4,B,"",6562ZX,Groesbeek
+Binnenveld,6,"","",6562ZX,Groesbeek
+Binnenveld,8,"","",6562ZX,Groesbeek

@@ -1,99 +1,99 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6581KM,Sint Jacobsweg,1,,
-6581KM,Sint Jacobsweg,2,,
-6581KM,Sint Jacobsweg,3,,
-6581KM,Sint Jacobsweg,4,,
-6581KM,Sint Jacobsweg,4,A,
-6581KM,Sint Jacobsweg,5,,
-6581KM,Sint Jacobsweg,6,,
-6581KM,Sint Jacobsweg,8,,
-6581KM,Sint Jacobsweg,10,,
-6581KM,Sint Jacobsweg,11,,
-6581KM,Sint Jacobsweg,12,,
-6581KM,Sint Jacobsweg,13,,
-6581KM,Sint Jacobsweg,15,,
-6581KM,Sint Jacobsweg,13,A,
-6581KM,Sint Jacobsweg,5,,
-6581KJ,Jufferstraat,1,,
-6581KJ,Jufferstraat,1,,T001
-6581KJ,Jufferstraat,2,,
-6581KJ,Jufferstraat,3,,
-6581KJ,Jufferstraat,4,,
-6581KJ,Jufferstraat,6,,
-6581KJ,Jufferstraat,8,,
-6581KJ,Jufferstraat,8,A,
-6581KJ,Jufferstraat,10,,
-6581KJ,Jufferstraat,1,A,M01
-6581KW,Kluissestraat,2,,
-6581KW,Kluissestraat,3,,
-6581KW,Kluissestraat,4,,
-6581KK,Laantje,1,,
-6581KK,Laantje,2,,
-6581KK,Laantje,3,,
-6581EX,Nertsstraat,1,,
-6581EX,Nertsstraat,2,,
-6581EX,Nertsstraat,5,,
-6581EX,Nertsstraat,7,,
-6581EX,Nertsstraat,9,,
-6581EX,Nertsstraat,11,,
-6581EX,Nertsstraat,13,,
-6581EC,Rijksweg,1,,
-6581EC,Rijksweg,3,,
-6581EC,Rijksweg,5,,
-6581EC,Rijksweg,9,,
-6581EC,Rijksweg,11,,
-6581EC,Rijksweg,11,,T001
-6581EC,Rijksweg,11,A,
-6581EC,Rijksweg,13,,
-6581EC,Rijksweg,15,,
-6581EC,Rijksweg,17,,
-6581EC,Rijksweg,7,,
-6581EC,Rijksweg,7,A,
-6581EC,Rijksweg,5,A,
-6581EC,Rijksweg,5,B,
-6581EC,Rijksweg,5,C,
-6581EC,Rijksweg,5,D,
-6581EC,Rijksweg,5,E,
-6581EC,Rijksweg,5,F,
-6581ED,Rijksweg,19,,
-6581ED,Rijksweg,21,,
-6581ED,Rijksweg,23,,
-6581ED,Rijksweg,25,,
-6581ED,Rijksweg,27,,
-6581ED,Rijksweg,29,,
-6581ED,Rijksweg,31,,
-6581ED,Rijksweg,33,,
-6581ED,Rijksweg,35,,
-6581ED,Rijksweg,37,,
-6581ED,Rijksweg,39,,
-6581ED,Rijksweg,41,,
-6581ED,Rijksweg,43,,
-6581ED,Rijksweg,45,,
-6581ED,Rijksweg,47,,
-6581ED,Rijksweg,51,,T001
-6581EE,Rijksweg,53,,
-6581EE,Rijksweg,55,,
-6581EE,Rijksweg,57,,
-6581EE,Rijksweg,59,,
-6581EE,Rijksweg,61,,
-6581EE,Rijksweg,63,,
-6581EE,Rijksweg,65,,
-6581EE,Rijksweg,63,,
-6581EL,Rijksweg,8,,
-6581EL,Rijksweg,10,,
-6581EL,Rijksweg,14,,
-6581EL,Rijksweg,16,,
-6581EL,Rijksweg,20,,
-6581EL,Rijksweg,6,,
-6581EL,Rijksweg,6,,
-6581EM,Rijksweg,22,,
-6581EM,Rijksweg,24,,
-6581EM,Rijksweg,26,,
-6581EM,Rijksweg,28,,
-6581EM,Rijksweg,30,,
-6581EM,Rijksweg,32,,
-6581EM,Rijksweg,26,,
-6581EW,Sportweg,50,,
-6581EW,Sportweg,2,,
-6581EW,Sportweg,2,A,
-6581EW,Sportweg,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rijksweg,1,"","",6581EC,Malden
+Rijksweg,11,"","",6581EC,Malden
+Rijksweg,11,"",T001,6581EC,Malden
+Rijksweg,11,A,"",6581EC,Malden
+Rijksweg,13,"","",6581EC,Malden
+Rijksweg,15,"","",6581EC,Malden
+Rijksweg,17,"","",6581EC,Malden
+Rijksweg,3,"","",6581EC,Malden
+Rijksweg,5,"","",6581EC,Malden
+Rijksweg,5,A,"",6581EC,Malden
+Rijksweg,5,B,"",6581EC,Malden
+Rijksweg,5,C,"",6581EC,Malden
+Rijksweg,5,D,"",6581EC,Malden
+Rijksweg,5,E,"",6581EC,Malden
+Rijksweg,5,F,"",6581EC,Malden
+Rijksweg,7,"","",6581EC,Malden
+Rijksweg,7,A,"",6581EC,Malden
+Rijksweg,9,"","",6581EC,Malden
+Rijksweg,19,"","",6581ED,Malden
+Rijksweg,21,"","",6581ED,Malden
+Rijksweg,23,"","",6581ED,Malden
+Rijksweg,25,"","",6581ED,Malden
+Rijksweg,27,"","",6581ED,Malden
+Rijksweg,29,"","",6581ED,Malden
+Rijksweg,31,"","",6581ED,Malden
+Rijksweg,33,"","",6581ED,Malden
+Rijksweg,35,"","",6581ED,Malden
+Rijksweg,37,"","",6581ED,Malden
+Rijksweg,39,"","",6581ED,Malden
+Rijksweg,41,"","",6581ED,Malden
+Rijksweg,43,"","",6581ED,Malden
+Rijksweg,45,"","",6581ED,Malden
+Rijksweg,47,"","",6581ED,Malden
+Rijksweg,51,"",T001,6581ED,Malden
+Rijksweg,53,"","",6581EE,Malden
+Rijksweg,55,"","",6581EE,Malden
+Rijksweg,57,"","",6581EE,Malden
+Rijksweg,59,"","",6581EE,Malden
+Rijksweg,61,"","",6581EE,Malden
+Rijksweg,63,"","",6581EE,Malden
+Rijksweg,63,"","",6581EE,Malden
+Rijksweg,65,"","",6581EE,Malden
+Rijksweg,10,"","",6581EL,Malden
+Rijksweg,14,"","",6581EL,Malden
+Rijksweg,16,"","",6581EL,Malden
+Rijksweg,20,"","",6581EL,Malden
+Rijksweg,6,"","",6581EL,Malden
+Rijksweg,6,"","",6581EL,Malden
+Rijksweg,8,"","",6581EL,Malden
+Rijksweg,22,"","",6581EM,Malden
+Rijksweg,24,"","",6581EM,Malden
+Rijksweg,26,"","",6581EM,Malden
+Rijksweg,26,"","",6581EM,Malden
+Rijksweg,28,"","",6581EM,Malden
+Rijksweg,30,"","",6581EM,Malden
+Rijksweg,32,"","",6581EM,Malden
+Sportweg,2,"","",6581EW,Malden
+Sportweg,2,A,"",6581EW,Malden
+Sportweg,4,"","",6581EW,Malden
+Sportweg,50,"","",6581EW,Malden
+Nertsstraat,1,"","",6581EX,Malden
+Nertsstraat,11,"","",6581EX,Malden
+Nertsstraat,13,"","",6581EX,Malden
+Nertsstraat,2,"","",6581EX,Malden
+Nertsstraat,5,"","",6581EX,Malden
+Nertsstraat,7,"","",6581EX,Malden
+Nertsstraat,9,"","",6581EX,Malden
+Jufferstraat,1,"","",6581KJ,Malden
+Jufferstraat,1,"",T001,6581KJ,Malden
+Jufferstraat,1,A,M01,6581KJ,Malden
+Jufferstraat,10,"","",6581KJ,Malden
+Jufferstraat,2,"","",6581KJ,Malden
+Jufferstraat,3,"","",6581KJ,Malden
+Jufferstraat,4,"","",6581KJ,Malden
+Jufferstraat,6,"","",6581KJ,Malden
+Jufferstraat,8,"","",6581KJ,Malden
+Jufferstraat,8,A,"",6581KJ,Malden
+Laantje,1,"","",6581KK,Malden
+Laantje,2,"","",6581KK,Malden
+Laantje,3,"","",6581KK,Malden
+Sint Jacobsweg,1,"","",6581KM,Malden
+Sint Jacobsweg,10,"","",6581KM,Malden
+Sint Jacobsweg,11,"","",6581KM,Malden
+Sint Jacobsweg,12,"","",6581KM,Malden
+Sint Jacobsweg,13,"","",6581KM,Malden
+Sint Jacobsweg,13,A,"",6581KM,Malden
+Sint Jacobsweg,15,"","",6581KM,Malden
+Sint Jacobsweg,2,"","",6581KM,Malden
+Sint Jacobsweg,3,"","",6581KM,Malden
+Sint Jacobsweg,4,"","",6581KM,Malden
+Sint Jacobsweg,4,A,"",6581KM,Malden
+Sint Jacobsweg,5,"","",6581KM,Malden
+Sint Jacobsweg,5,"","",6581KM,Malden
+Sint Jacobsweg,6,"","",6581KM,Malden
+Sint Jacobsweg,8,"","",6581KM,Malden
+Kluissestraat,2,"","",6581KW,Malden
+Kluissestraat,3,"","",6581KW,Malden
+Kluissestraat,4,"","",6581KW,Malden

@@ -1,72 +1,72 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5552CL,Den Dries,1,,
-5552CL,Den Dries,1,A,
-5552CL,Den Dries,2,,
-5552CL,Den Dries,3,,
-5552CL,Den Dries,4,,
-5552CL,Den Dries,4,A,
-5552CL,Den Dries,5,,
-5552CL,Den Dries,7,,
-5552CL,Den Dries,9,,
-5552CL,Den Dries,11,,
-5552CL,Den Dries,13,,
-5552CL,Den Dries,15,A,
-5552CL,Den Dries,17,,
-5552BD,Geenhovensedreef,2,,
-5552BD,Geenhovensedreef,4,,
-5552BD,Geenhovensedreef,6,,
-5552BD,Geenhovensedreef,8,,
-5552BD,Geenhovensedreef,10,,
-5552BD,Geenhovensedreef,12,,
-5552BD,Geenhovensedreef,14,,
-5552BD,Geenhovensedreef,16,,
-5552BD,Geenhovensedreef,18,,
-5552BD,Geenhovensedreef,20,,
-5552BD,Geenhovensedreef,22,,
-5552BD,Geenhovensedreef,24,,
-5552BD,Geenhovensedreef,28,,
-5552BD,Geenhovensedreef,28,A,
-5552BD,Geenhovensedreef,28,B,
-5552BD,Geenhovensedreef,28,C,
-5552BD,Geenhovensedreef,30,,
-5552BD,Geenhovensedreef,52,,
-5552BD,Geenhovensedreef,54,,
-5552BG,Past. Heerkensdreef,2,,NE01
-5552BG,Past. Heerkensdreef,6,,
-5552BG,Past. Heerkensdreef,8,,
-5552BG,Past. Heerkensdreef,12,,
-5552BG,Past. Heerkensdreef,12,B,
-5552BG,Past. Heerkensdreef,12,C,
-5552BG,Past. Heerkensdreef,12,D,
-5552BG,Past. Heerkensdreef,12,D,
-5552BG,Past. Heerkensdreef,14,,
-5552BG,Past. Heerkensdreef,15,,
-5552BG,Past. Heerkensdreef,16,,
-5552BG,Past. Heerkensdreef,16,A,
-5552BG,Past. Heerkensdreef,16,A,
-5552BG,Past. Heerkensdreef,16,B,
-5552BG,Past. Heerkensdreef,16,C,
-5552BG,Past. Heerkensdreef,19,,
-5552BG,Past. Heerkensdreef,20,,
-5552BG,Past. Heerkensdreef,21,,
-5552BG,Past. Heerkensdreef,22,,
-5552BG,Past. Heerkensdreef,23,,
-5552BG,Past. Heerkensdreef,29,,
-5552CL,Den Dries,2,A,
-5552CL,Den Dries,5,A,
-5552CL,Den Dries,13,A,
-5552CL,Den Dries,15,,
-5552CL,Den Dries,9,A,
-5552CL,Den Dries,5,,
-5552BG,Past. Heerkensdreef,18,,
-5552BG,Past. Heerkensdreef,29,A,
-5552BG,Past. Heerkensdreef,2,,
-5552BG,Past. Heerkensdreef,17,,NE01
-5552BG,Past. Heerkensdreef,31,,
-5552BG,Past. Heerkensdreef,12,B,
-5552BG,Past. Heerkensdreef,12,D,
-5552BG,Past. Heerkensdreef,12,,
-5552BG,Past. Heerkensdreef,12,A,
-5552BG,Past. Heerkensdreef,29,,
-5552BG,Past. Heerkensdreef,29,B,
-5552BD,Geenhovensedreef,12,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Geenhovensedreef,10,"","",5552BD,Valkenswaard
+Geenhovensedreef,12,"","",5552BD,Valkenswaard
+Geenhovensedreef,12,A,"",5552BD,Valkenswaard
+Geenhovensedreef,14,"","",5552BD,Valkenswaard
+Geenhovensedreef,16,"","",5552BD,Valkenswaard
+Geenhovensedreef,18,"","",5552BD,Valkenswaard
+Geenhovensedreef,2,"","",5552BD,Valkenswaard
+Geenhovensedreef,20,"","",5552BD,Valkenswaard
+Geenhovensedreef,22,"","",5552BD,Valkenswaard
+Geenhovensedreef,24,"","",5552BD,Valkenswaard
+Geenhovensedreef,28,"","",5552BD,Valkenswaard
+Geenhovensedreef,28,A,"",5552BD,Valkenswaard
+Geenhovensedreef,28,B,"",5552BD,Valkenswaard
+Geenhovensedreef,28,C,"",5552BD,Valkenswaard
+Geenhovensedreef,30,"","",5552BD,Valkenswaard
+Geenhovensedreef,4,"","",5552BD,Valkenswaard
+Geenhovensedreef,52,"","",5552BD,Valkenswaard
+Geenhovensedreef,54,"","",5552BD,Valkenswaard
+Geenhovensedreef,6,"","",5552BD,Valkenswaard
+Geenhovensedreef,8,"","",5552BD,Valkenswaard
+Past. Heerkensdreef,12,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,12,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,12,A,"",5552BG,Valkenswaard
+Past. Heerkensdreef,12,B,"",5552BG,Valkenswaard
+Past. Heerkensdreef,12,B,"",5552BG,Valkenswaard
+Past. Heerkensdreef,12,C,"",5552BG,Valkenswaard
+Past. Heerkensdreef,12,D,"",5552BG,Valkenswaard
+Past. Heerkensdreef,12,D,"",5552BG,Valkenswaard
+Past. Heerkensdreef,12,D,"",5552BG,Valkenswaard
+Past. Heerkensdreef,14,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,15,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,16,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,16,A,"",5552BG,Valkenswaard
+Past. Heerkensdreef,16,A,"",5552BG,Valkenswaard
+Past. Heerkensdreef,16,B,"",5552BG,Valkenswaard
+Past. Heerkensdreef,16,C,"",5552BG,Valkenswaard
+Past. Heerkensdreef,17,"",NE01,5552BG,Valkenswaard
+Past. Heerkensdreef,18,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,19,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,2,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,2,"",NE01,5552BG,Valkenswaard
+Past. Heerkensdreef,20,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,21,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,22,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,23,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,29,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,29,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,29,A,"",5552BG,Valkenswaard
+Past. Heerkensdreef,29,B,"",5552BG,Valkenswaard
+Past. Heerkensdreef,31,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,6,"","",5552BG,Valkenswaard
+Past. Heerkensdreef,8,"","",5552BG,Valkenswaard
+Den Dries,1,"","",5552CL,Valkenswaard
+Den Dries,1,A,"",5552CL,Valkenswaard
+Den Dries,11,"","",5552CL,Valkenswaard
+Den Dries,13,"","",5552CL,Valkenswaard
+Den Dries,13,A,"",5552CL,Valkenswaard
+Den Dries,15,"","",5552CL,Valkenswaard
+Den Dries,15,A,"",5552CL,Valkenswaard
+Den Dries,17,"","",5552CL,Valkenswaard
+Den Dries,2,"","",5552CL,Valkenswaard
+Den Dries,2,A,"",5552CL,Valkenswaard
+Den Dries,3,"","",5552CL,Valkenswaard
+Den Dries,4,"","",5552CL,Valkenswaard
+Den Dries,4,A,"",5552CL,Valkenswaard
+Den Dries,5,"","",5552CL,Valkenswaard
+Den Dries,5,"","",5552CL,Valkenswaard
+Den Dries,5,A,"",5552CL,Valkenswaard
+Den Dries,7,"","",5552CL,Valkenswaard
+Den Dries,9,"","",5552CL,Valkenswaard
+Den Dries,9,A,"",5552CL,Valkenswaard

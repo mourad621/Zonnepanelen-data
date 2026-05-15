@@ -1,100 +1,101 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9488TA",11,"A",""
-"9488TA",23,"A",""
-"9488TA",7,"",""
-"9488TA",13,"",""
-"9488TA",17,"",""
-"9488TA",9,"",""
-"9488TA",7,"A",""
-"9488TA",19,"",""
-"9488TA",9,"",""
-"9488TA",15,"",""
-"9488TA",9,"",""
-"9488TA",17,"A",""
-"9488TA",17,"A",""
-"9488TA",11,"",""
-"9488TA",23,"",""
-"9488TB",10,"A",""
-"9488TB",16,"",""
-"9488TB",12,"",""
-"9488TB",12,"A",""
-"9488TB",18,"",""
-"9488TB",14,"",""
-"9488TC",1,"A",""
-"9488TC",4,"",""
-"9488TC",6,"",""
-"9488TC",5,"",""
-"9488TC",1,"",""
-"9488TC",2,"",""
-"9488TC",3,"",""
-"9488TD",1,"",""
-"9488TE",1,"",""
-"9488TE",2,"",""
-"9488TE",3,"",""
-"9488TE",5,"",""
-"9488TE",17,"",""
-"9488TE",9,"",""
-"9488TE",4,"",""
-"9488TE",13,"",""
-"9488TE",6,"",""
-"9488TE",11,"",""
-"9488TE",15,"",""
-"9488TE",7,"",""
-"9488TE",4,"A",""
-"9488TG",4,"",""
-"9488TG",3,"",""
-"9488TG",6,"",""
-"9488TG",1,"",""
-"9488TG",2,"",""
-"9488TG",7,"",""
-"9488TG",7,"",""
-"9488TG",7,"",""
-"9488TH",1,"",""
-9488TC,Binnenweg,1,A,
-9488TC,Binnenweg,1,,
-9488TC,Binnenweg,2,,
-9488TC,Binnenweg,3,,
-9488TC,Binnenweg,4,,
-9488TC,Binnenweg,5,,
-9488TC,Binnenweg,6,,
-9488TA,Minister Cremerstraat,7,A,
-9488TA,Minister Cremerstraat,7,,
-9488TA,Minister Cremerstraat,9,,
-9488TA,Minister Cremerstraat,11,,
-9488TA,Minister Cremerstraat,13,,
-9488TA,Minister Cremerstraat,15,,
-9488TA,Minister Cremerstraat,17,A,
-9488TA,Minister Cremerstraat,17,,
-9488TA,Minister Cremerstraat,23,A,
-9488TA,Minister Cremerstraat,23,,
-9488TB,Minister Cremerstraat,10,A,
-9488TB,Minister Cremerstraat,12,,
-9488TB,Minister Cremerstraat,14,,
-9488TB,Minister Cremerstraat,16,,
-9488TB,Minister Cremerstraat,18,,
-9488TD,Veldweg,1,,
-9488TE,Verlengde Binnenweg,1,,
-9488TE,Verlengde Binnenweg,2,,
-9488TE,Verlengde Binnenweg,3,,
-9488TE,Verlengde Binnenweg,4,A,
-9488TE,Verlengde Binnenweg,4,,
-9488TE,Verlengde Binnenweg,5,,
-9488TE,Verlengde Binnenweg,6,,
-9488TE,Verlengde Binnenweg,7,,
-9488TE,Verlengde Binnenweg,9,,
-9488TE,Verlengde Binnenweg,11,,
-9488TE,Verlengde Binnenweg,13,,
-9488TE,Verlengde Binnenweg,15,,
-9488TE,Verlengde Binnenweg,17,,
-9488TG,Vorenkampsweg,1,,
-9488TG,Vorenkampsweg,2,,
-9488TG,Vorenkampsweg,3,,
-9488TG,Vorenkampsweg,4,,
-9488TG,Vorenkampsweg,6,,
-9488TG,Vorenkampsweg,7,,
-9488TA,Minister Cremerstraat,19,,
-9488TA,Minister Cremerstraat,11,A,
-9488TA,Minister Cremerstraat,9,,
-9488TG,Vorenkampsweg,7,,
-9488TH,Lossingpad,1,,
-9488TB,Minister Cremerstraat,12,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+7,"","","",9488TA,
+13,"","","",9488TA,
+17,"","","",9488TA,
+9,"","","",9488TA,
+19,"","","",9488TA,
+9,"","","",9488TA,
+15,"","","",9488TA,
+9,"","","",9488TA,
+11,"","","",9488TA,
+23,"","","",9488TA,
+Minister Cremerstraat,11,"","",9488TA,Zeijerveld
+Minister Cremerstraat,11,A,"",9488TA,Zeijerveld
+Minister Cremerstraat,13,"","",9488TA,Zeijerveld
+Minister Cremerstraat,15,"","",9488TA,Zeijerveld
+Minister Cremerstraat,17,"","",9488TA,Zeijerveld
+Minister Cremerstraat,17,A,"",9488TA,Zeijerveld
+Minister Cremerstraat,19,"","",9488TA,Zeijerveld
+Minister Cremerstraat,23,"","",9488TA,Zeijerveld
+Minister Cremerstraat,23,A,"",9488TA,Zeijerveld
+Minister Cremerstraat,7,"","",9488TA,Zeijerveld
+Minister Cremerstraat,7,A,"",9488TA,Zeijerveld
+Minister Cremerstraat,9,"","",9488TA,Zeijerveld
+Minister Cremerstraat,9,"","",9488TA,Zeijerveld
+11,A,"","",9488TA,
+23,A,"","",9488TA,
+7,A,"","",9488TA,
+17,A,"","",9488TA,
+17,A,"","",9488TA,
+16,"","","",9488TB,
+12,"","","",9488TB,
+18,"","","",9488TB,
+14,"","","",9488TB,
+Minister Cremerstraat,10,A,"",9488TB,Zeijerveld
+Minister Cremerstraat,12,"","",9488TB,Zeijerveld
+Minister Cremerstraat,12,A,"",9488TB,Zeijerveld
+Minister Cremerstraat,14,"","",9488TB,Zeijerveld
+Minister Cremerstraat,16,"","",9488TB,Zeijerveld
+Minister Cremerstraat,18,"","",9488TB,Zeijerveld
+10,A,"","",9488TB,
+12,A,"","",9488TB,
+4,"","","",9488TC,
+6,"","","",9488TC,
+5,"","","",9488TC,
+1,"","","",9488TC,
+2,"","","",9488TC,
+3,"","","",9488TC,
+Binnenweg,1,"","",9488TC,Zeijerveld
+Binnenweg,1,A,"",9488TC,Zeijerveld
+Binnenweg,2,"","",9488TC,Zeijerveld
+Binnenweg,3,"","",9488TC,Zeijerveld
+Binnenweg,4,"","",9488TC,Zeijerveld
+Binnenweg,5,"","",9488TC,Zeijerveld
+Binnenweg,6,"","",9488TC,Zeijerveld
+1,A,"","",9488TC,
+1,"","","",9488TD,
+Veldweg,1,"","",9488TD,Zeijerveld
+1,"","","",9488TE,
+2,"","","",9488TE,
+3,"","","",9488TE,
+5,"","","",9488TE,
+17,"","","",9488TE,
+9,"","","",9488TE,
+4,"","","",9488TE,
+13,"","","",9488TE,
+6,"","","",9488TE,
+11,"","","",9488TE,
+15,"","","",9488TE,
+7,"","","",9488TE,
+Verlengde Binnenweg,1,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,11,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,13,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,15,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,17,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,2,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,3,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,4,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,4,A,"",9488TE,Zeijerveld
+Verlengde Binnenweg,5,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,6,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,7,"","",9488TE,Zeijerveld
+Verlengde Binnenweg,9,"","",9488TE,Zeijerveld
+4,A,"","",9488TE,
+4,"","","",9488TG,
+3,"","","",9488TG,
+6,"","","",9488TG,
+1,"","","",9488TG,
+2,"","","",9488TG,
+7,"","","",9488TG,
+7,"","","",9488TG,
+7,"","","",9488TG,
+Vorenkampsweg,1,"","",9488TG,Zeijerveld
+Vorenkampsweg,2,"","",9488TG,Zeijerveld
+Vorenkampsweg,3,"","",9488TG,Zeijerveld
+Vorenkampsweg,4,"","",9488TG,Zeijerveld
+Vorenkampsweg,6,"","",9488TG,Zeijerveld
+Vorenkampsweg,7,"","",9488TG,Zeijerveld
+Vorenkampsweg,7,"","",9488TG,Zeijerveld
+1,"","","",9488TH,
+Lossingpad,1,"","",9488TH,Zeijerveld
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

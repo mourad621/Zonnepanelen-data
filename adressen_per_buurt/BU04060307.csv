@@ -1,68 +1,68 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1272XZ,Flevo-Oord,1,,
-1272NJ,Naarderstraat,221,,
-1272NP,Naarderstraat,208,,
-1272NP,Naarderstraat,206,,
-1272NP,Naarderstraat,196,,
-1272NP,Naarderstraat,202,,
-1272NP,Naarderstraat,198,,
-1272NR,Naarderstraat,250,,
-1272NR,Naarderstraat,248,,
-1272NR,Naarderstraat,244,,
-1272NR,Naarderstraat,260,,
-1272NR,Naarderstraat,240,,
-1272NR,Naarderstraat,256,,
-1272NR,Naarderstraat,236,,
-1272NR,Naarderstraat,252,,
-1272NR,Naarderstraat,258,,
-1272NR,Naarderstraat,254,,
-1272NS,Naarderstraat,274,,
-1272NS,Naarderstraat,282,e,
-1272NS,Naarderstraat,284,a,
-1272NS,Naarderstraat,262,,
-1272NS,Naarderstraat,276,,
-1272NS,Naarderstraat,268,,
-1272CM,Nieuwe Bussummerweg,170,,
-1272CM,Nieuwe Bussummerweg,176,,
-1272CM,Nieuwe Bussummerweg,168,,
-1272CM,Nieuwe Bussummerweg,172,,
-1272CM,Nieuwe Bussummerweg,184,,
-1272CV,Parkweg,4,,
-1272NJ,Naarderstraat,219,,
-1272NJ,Naarderstraat,223,,
-1272NJ,Naarderstraat,201,,
-1272NJ,Naarderstraat,225,,
-1272NP,Naarderstraat,234,,
-1272NP,Naarderstraat,200,,
-1272NP,Naarderstraat,192,,
-1272NP,Naarderstraat,192,,
-1272NP,Naarderstraat,186,,
-1272NP,Naarderstraat,190,,
-1272NR,Naarderstraat,238,,
-1272NR,Naarderstraat,246,,
-1272NR,Naarderstraat,242,,
-1272NS,Naarderstraat,284,,
-1272NS,Naarderstraat,282,,
-1272NS,Naarderstraat,280,a,
-1272NS,Naarderstraat,266,,
-1272NS,Naarderstraat,270,,
-1272NS,Naarderstraat,278,,
-1272NS,Naarderstraat,282,d,
-1272NS,Naarderstraat,282,b,
-1272NS,Naarderstraat,272,,
-1272NS,Naarderstraat,264,,
-1272NS,Naarderstraat,280,,
-1272NS,Naarderstraat,270,a,
-1272CM,Nieuwe Bussummerweg,186,,
-1272CM,Nieuwe Bussummerweg,166,,
-1272CM,Nieuwe Bussummerweg,180,,
-1272CM,Nieuwe Bussummerweg,174,,
-1272CM,Nieuwe Bussummerweg,178,,
-1272CM,Nieuwe Bussummerweg,182,,
-1272CM,Nieuwe Bussummerweg,164,,
-1272CV,Parkweg,10,,
-1272CV,Parkweg,1,,
-1272NP,Naarderstraat,192,,
-1272NS,Naarderstraat,284,a,
-1272NS,Naarderstraat,264,,
-1272CM,Nieuwe Bussummerweg,186,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuwe Bussummerweg,164,"","",1272CM,Huizen
+Nieuwe Bussummerweg,166,"","",1272CM,Huizen
+Nieuwe Bussummerweg,168,"","",1272CM,Huizen
+Nieuwe Bussummerweg,170,"","",1272CM,Huizen
+Nieuwe Bussummerweg,172,"","",1272CM,Huizen
+Nieuwe Bussummerweg,174,"","",1272CM,Huizen
+Nieuwe Bussummerweg,176,"","",1272CM,Huizen
+Nieuwe Bussummerweg,178,"","",1272CM,Huizen
+Nieuwe Bussummerweg,180,"","",1272CM,Huizen
+Nieuwe Bussummerweg,182,"","",1272CM,Huizen
+Nieuwe Bussummerweg,184,"","",1272CM,Huizen
+Nieuwe Bussummerweg,186,"","",1272CM,Huizen
+Nieuwe Bussummerweg,186,"","",1272CM,Huizen
+Parkweg,1,"","",1272CV,Huizen
+Parkweg,10,"","",1272CV,Huizen
+Parkweg,4,"","",1272CV,Huizen
+Naarderstraat,201,"","",1272NJ,Huizen
+Naarderstraat,219,"","",1272NJ,Huizen
+Naarderstraat,221,"","",1272NJ,Huizen
+Naarderstraat,223,"","",1272NJ,Huizen
+Naarderstraat,225,"","",1272NJ,Huizen
+Naarderstraat,186,"","",1272NP,Huizen
+Naarderstraat,190,"","",1272NP,Huizen
+Naarderstraat,192,"","",1272NP,Huizen
+Naarderstraat,192,"","",1272NP,Huizen
+Naarderstraat,192,"","",1272NP,Huizen
+Naarderstraat,196,"","",1272NP,Huizen
+Naarderstraat,198,"","",1272NP,Huizen
+Naarderstraat,200,"","",1272NP,Huizen
+Naarderstraat,202,"","",1272NP,Huizen
+Naarderstraat,206,"","",1272NP,Huizen
+Naarderstraat,208,"","",1272NP,Huizen
+Naarderstraat,234,"","",1272NP,Huizen
+Naarderstraat,236,"","",1272NR,Huizen
+Naarderstraat,238,"","",1272NR,Huizen
+Naarderstraat,240,"","",1272NR,Huizen
+Naarderstraat,242,"","",1272NR,Huizen
+Naarderstraat,244,"","",1272NR,Huizen
+Naarderstraat,246,"","",1272NR,Huizen
+Naarderstraat,248,"","",1272NR,Huizen
+Naarderstraat,250,"","",1272NR,Huizen
+Naarderstraat,252,"","",1272NR,Huizen
+Naarderstraat,254,"","",1272NR,Huizen
+Naarderstraat,256,"","",1272NR,Huizen
+Naarderstraat,258,"","",1272NR,Huizen
+Naarderstraat,260,"","",1272NR,Huizen
+Naarderstraat,262,"","",1272NS,Huizen
+Naarderstraat,264,"","",1272NS,Huizen
+Naarderstraat,264,"","",1272NS,Huizen
+Naarderstraat,266,"","",1272NS,Huizen
+Naarderstraat,268,"","",1272NS,Huizen
+Naarderstraat,270,"","",1272NS,Huizen
+Naarderstraat,270,A,"",1272NS,Huizen
+Naarderstraat,272,"","",1272NS,Huizen
+Naarderstraat,274,"","",1272NS,Huizen
+Naarderstraat,276,"","",1272NS,Huizen
+Naarderstraat,278,"","",1272NS,Huizen
+Naarderstraat,280,"","",1272NS,Huizen
+Naarderstraat,280,A,"",1272NS,Huizen
+Naarderstraat,282,"","",1272NS,Huizen
+Naarderstraat,282,B,"",1272NS,Huizen
+Naarderstraat,282,D,"",1272NS,Huizen
+Naarderstraat,282,E,"",1272NS,Huizen
+Naarderstraat,284,"","",1272NS,Huizen
+Naarderstraat,284,A,"",1272NS,Huizen
+Naarderstraat,284,A,"",1272NS,Huizen
+Flevo-Oord,1,"","",1272XZ,Huizen

@@ -1,97 +1,98 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9138CA",5,"",""
-"9138CA",6,"",""
-"9138CB",1,"",""
-"9138CC",3,"",""
-"9138CC",5,"",""
-"9138SB",3,"",""
-"9138SB",1,"",""
-"9138TC",1,"",""
-"9138TC",13,"",""
-"9138TC",25,"",""
-"9138TC",2,"",""
-"9138TC",21,"",""
-"9138TC",9,"",""
-"9138TC",19,"",""
-"9138TC",33,"",""
-"9138TC",23,"",""
-"9138TC",11,"",""
-"9138TC",17,"",""
-"9138TC",29,"",""
-"9138TC",7,"",""
-"9138TC",37,"",""
-"9138TC",45,"",""
-"9138TC",27,"",""
-"9138TC",35,"",""
-"9138TC",43,"",""
-"9138TC",3,"",""
-"9138TC",15,"",""
-"9138TC",31,"",""
-"9138TC",5,"",""
-"9138TC",39,"",""
-"9138TD",2,"",""
-"9138TD",4,"",""
-"9138TD",1,"",""
-"9138TD",2,"A",""
-"9138TD",6,"",""
-"9138TE",6,"",""
-"9138TE",10,"",""
-"9138TE",4,"A",""
-"9138TE",4,"B",""
-"9138TE",2,"",""
-"9138TE",4,"",""
-"9138TE",3,"",""
-"9138TE",1,"",""
-"9138TE",8,"",""
-"9138TG",1,"",""
-"9138TG",2,"",""
-"9138TH",60,"",""
-"9138TH",29,"",""
-9138CC,Grytmanswei,3,,
-9138CC,Grytmanswei,5,,
-9138TD,Grytmanswei,1,,
-9138TD,Grytmanswei,2,,
-9138TD,Grytmanswei,2,A,
-9138TD,Grytmanswei,4,,
-9138TD,Grytmanswei,6,,
-9138CB,Anders Minneswei,1,,
-9138CA,Bartenswei,5,,
-9138CA,Bartenswei,6,,
-9138SB,Mearswei,1,,
-9138SB,Mearswei,3,,
-9138TG,Miedwei,1,,
-9138TG,Miedwei,2,,
-9138TE,Bredewei,1,,
-9138TE,Bredewei,3,,
-9138TE,Bredewei,4,,
-9138TE,Bredewei,4,A,
-9138TE,Bredewei,4,B,
-9138TE,Bredewei,2,,
-9138TE,Bredewei,6,,
-9138TE,Bredewei,8,,
-9138TE,Bredewei,10,,
-9138TC,De Singel,45,,
-9138TC,De Singel,43,,
-9138TC,De Singel,17,,
-9138TC,De Singel,19,,
-9138TC,De Singel,21,,
-9138TC,De Singel,23,,
-9138TC,De Singel,1,,
-9138TC,De Singel,2,,
-9138TC,De Singel,3,,
-9138TC,De Singel,7,,
-9138TC,De Singel,11,,
-9138TC,De Singel,5,,
-9138TC,De Singel,13,,
-9138TC,De Singel,15,,
-9138TC,De Singel,25,,
-9138TC,De Singel,27,,
-9138TC,De Singel,29,,
-9138TC,De Singel,31,,
-9138TC,De Singel,33,,
-9138TC,De Singel,35,,
-9138TC,De Singel,39,,
-9138TH,Roptawei,60,,
-9138TC,De Singel,9,,
-9138TC,De Singel,37,,
-9138TH,Roptawei,29,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+5,"","","",9138CA,
+6,"","","",9138CA,
+Bartenswei,5,"","",9138CA,Niawier
+Bartenswei,6,"","",9138CA,Niawier
+1,"","","",9138CB,
+Anders Minneswei,1,"","",9138CB,Niawier
+3,"","","",9138CC,
+5,"","","",9138CC,
+Grytmanswei,3,"","",9138CC,Niawier
+Grytmanswei,5,"","",9138CC,Niawier
+3,"","","",9138SB,
+1,"","","",9138SB,
+Mearswei,1,"","",9138SB,Niawier
+Mearswei,3,"","",9138SB,Niawier
+1,"","","",9138TC,
+13,"","","",9138TC,
+25,"","","",9138TC,
+2,"","","",9138TC,
+21,"","","",9138TC,
+9,"","","",9138TC,
+19,"","","",9138TC,
+33,"","","",9138TC,
+23,"","","",9138TC,
+11,"","","",9138TC,
+17,"","","",9138TC,
+29,"","","",9138TC,
+7,"","","",9138TC,
+37,"","","",9138TC,
+45,"","","",9138TC,
+27,"","","",9138TC,
+35,"","","",9138TC,
+43,"","","",9138TC,
+3,"","","",9138TC,
+15,"","","",9138TC,
+31,"","","",9138TC,
+5,"","","",9138TC,
+39,"","","",9138TC,
+De Singel,1,"","",9138TC,Niawier
+De Singel,11,"","",9138TC,Niawier
+De Singel,13,"","",9138TC,Niawier
+De Singel,15,"","",9138TC,Niawier
+De Singel,17,"","",9138TC,Niawier
+De Singel,19,"","",9138TC,Niawier
+De Singel,2,"","",9138TC,Niawier
+De Singel,21,"","",9138TC,Niawier
+De Singel,23,"","",9138TC,Niawier
+De Singel,25,"","",9138TC,Niawier
+De Singel,27,"","",9138TC,Niawier
+De Singel,29,"","",9138TC,Niawier
+De Singel,3,"","",9138TC,Niawier
+De Singel,31,"","",9138TC,Niawier
+De Singel,33,"","",9138TC,Niawier
+De Singel,35,"","",9138TC,Niawier
+De Singel,37,"","",9138TC,Niawier
+De Singel,39,"","",9138TC,Niawier
+De Singel,43,"","",9138TC,Niawier
+De Singel,45,"","",9138TC,Niawier
+De Singel,5,"","",9138TC,Niawier
+De Singel,7,"","",9138TC,Niawier
+De Singel,9,"","",9138TC,Niawier
+2,"","","",9138TD,
+4,"","","",9138TD,
+1,"","","",9138TD,
+6,"","","",9138TD,
+Grytmanswei,1,"","",9138TD,Niawier
+Grytmanswei,2,"","",9138TD,Niawier
+Grytmanswei,2,A,"",9138TD,Niawier
+Grytmanswei,4,"","",9138TD,Niawier
+Grytmanswei,6,"","",9138TD,Niawier
+2,A,"","",9138TD,
+6,"","","",9138TE,
+10,"","","",9138TE,
+2,"","","",9138TE,
+4,"","","",9138TE,
+3,"","","",9138TE,
+1,"","","",9138TE,
+8,"","","",9138TE,
+Bredewei,1,"","",9138TE,Niawier
+Bredewei,10,"","",9138TE,Niawier
+Bredewei,2,"","",9138TE,Niawier
+Bredewei,3,"","",9138TE,Niawier
+Bredewei,4,"","",9138TE,Niawier
+Bredewei,4,A,"",9138TE,Niawier
+Bredewei,4,B,"",9138TE,Niawier
+Bredewei,6,"","",9138TE,Niawier
+Bredewei,8,"","",9138TE,Niawier
+4,A,"","",9138TE,
+4,B,"","",9138TE,
+1,"","","",9138TG,
+2,"","","",9138TG,
+Miedwei,1,"","",9138TG,Niawier
+Miedwei,2,"","",9138TG,Niawier
+60,"","","",9138TH,
+29,"","","",9138TH,
+Roptawei,29,"","",9138TH,Niawier
+Roptawei,60,"","",9138TH,Niawier
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

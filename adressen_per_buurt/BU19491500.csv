@@ -1,123 +1,124 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8806KA",3,"",""
-"8806KA",1,"",""
-"8806KA",2,"",""
-"8806KA",7,"",""
-"8806KA",6,"",""
-"8806KA",10,"",""
-"8806KA",5,"",""
-"8806KB",1,"",""
-"8806KB",3,"",""
-"8806KB",4,"",""
-"8806KB",2,"",""
-"8806KB",5,"",""
-"8806KR",2,"B",""
-"8806KR",3,"",""
-"8806KR",2,"C",""
-"8806KR",1,"",""
-"8806KR",1,"A",""
-"8806KR",5,"",""
-"8806KR",2,"B",""
-"8806KR",2,"",""
-"8806KR",4,"",""
-"8806KR",2,"B",""
-"8806KR",2,"A",""
-"8806KS",3,"",""
-"8806KS",1,"",""
-"8806KS",3,"",""
-"8806KS",2,"",""
-"8806KZ",57,"",""
-"8806KZ",5,"",""
-"8806KZ",5,"",""
-"8806KZ",34,"",""
-"8806KZ",32,"",""
-"8806KZ",36,"",""
-"8806KZ",3,"",""
-"8806KZ",7,"",""
-"8806KZ",50,"",""
-"8806KZ",1,"",""
-"8806KZ",30,"",""
-"8806KZ",58,"",""
-"8806KZ",48,"",""
-"8806KZ",54,"",""
-"8806KZ",5,"",""
-"8806KZ",42,"",""
-"8806KZ",5,"",""
-"8806KZ",52,"",""
-"8806KZ",56,"",""
-"8806KZ",38,"",""
-"8806KZ",40,"",""
-"8806KZ",44,"",""
-"8806KZ",9,"",""
-"8806TP",4,"",""
-"8806TP",2,"",""
-"8806TP",3,"",""
-"8806TP",3,"A",""
-"8806TR",4,"",""
-"8806TR",5,"",""
-"8806TR",5,"A",""
-"8806TR",2,"",""
-"8806TR",3,"",""
-"8806TR",3,"A",""
-"8806TR",2,"",""
-"8806TR",1,"",""
-8806KB,Herbaijumerweg,2,,
-8806KB,Herbaijumerweg,4,,
-8806TR,Hitzumerweg,3,A,
-8806TR,Hitzumerweg,2,,
-8806TR,Hitzumerweg,4,,
-8806TR,Hitzumerweg,1,,
-8806TR,Hitzumerweg,3,,
-8806TR,Hitzumerweg,5,,
-8806TR,Hitzumerweg,5,A,
-8806KZ,Monnikenweg,30,,
-8806KZ,Monnikenweg,32,,
-8806KZ,Monnikenweg,34,,
-8806KZ,Monnikenweg,36,,
-8806KZ,Monnikenweg,38,,
-8806KZ,Monnikenweg,40,,
-8806KZ,Monnikenweg,48,,
-8806KZ,Monnikenweg,50,,
-8806KZ,Monnikenweg,57,,
-8806KZ,Monnikenweg,54,,
-8806KZ,Monnikenweg,56,,
-8806KA,Sopsum,10,,
-8806KA,Sopsum,3,,
-8806KA,Sopsum,5,,
-8806KA,Sopsum,7,,
-8806KA,Sopsum,2,,
-8806KR,De Wiske,2,A,
-8806KR,De Wiske,2,B,
-8806KR,De Wiske,2,B,
-8806KR,De Wiske,2,C,
-8806KR,De Wiske,2,,
-8806KR,De Wiske,1,,
-8806KR,De Wiske,1,A,
-8806KR,De Wiske,3,,
-8806TP,Lollumerweg,2,,
-8806TP,Lollumerweg,4,,
-8806TP,Lollumerweg,3,,
-8806KS,Deersum,2,,
-8806KS,Deersum,1,,
-8806KS,Deersum,3,,
-8806KB,Herbaijumerweg,1,,
-8806KB,Herbaijumerweg,3,,
-8806KB,Herbaijumerweg,5,,
-8806KZ,Monnikenweg,52,,
-8806KZ,Monnikenweg,58,,
-8806KZ,Monnikenweg,42,,
-8806KZ,Monnikenweg,44,,
-8806KA,Sopsum,1,,
-8806KA,Sopsum,6,,
-8806KR,De Wiske,4,,
-8806KR,De Wiske,5,,
-8806KZ,De Jister,5,,
-8806KZ,De Jister,5,,
-8806KZ,De Jister,7,,
-8806KZ,De Jister,9,,
-8806KZ,De Jister,3,,
-8806KZ,De Jister,1,,
-8806KZ,De Jister,5,,
-8806TP,Lollumerweg,3,A,
-8806TR,Hitzumerweg,2,,
-8806TR,Hitzumerweg,5,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+3,"","","",8806KA,
+1,"","","",8806KA,
+2,"","","",8806KA,
+7,"","","",8806KA,
+6,"","","",8806KA,
+10,"","","",8806KA,
+5,"","","",8806KA,
+Sopsum,1,"","",8806KA,Achlum
+Sopsum,10,"","",8806KA,Achlum
+Sopsum,2,"","",8806KA,Achlum
+Sopsum,3,"","",8806KA,Achlum
+Sopsum,5,"","",8806KA,Achlum
+Sopsum,6,"","",8806KA,Achlum
+Sopsum,7,"","",8806KA,Achlum
+1,"","","",8806KB,
+3,"","","",8806KB,
+4,"","","",8806KB,
+2,"","","",8806KB,
+5,"","","",8806KB,
+Herbaijumerweg,1,"","",8806KB,Achlum
+Herbaijumerweg,2,"","",8806KB,Achlum
+Herbaijumerweg,3,"","",8806KB,Achlum
+Herbaijumerweg,4,"","",8806KB,Achlum
+Herbaijumerweg,5,"","",8806KB,Achlum
+3,"","","",8806KR,
+1,"","","",8806KR,
+5,"","","",8806KR,
+2,"","","",8806KR,
+4,"","","",8806KR,
+De Wiske,1,"","",8806KR,Achlum
+De Wiske,1,A,"",8806KR,Achlum
+De Wiske,2,"","",8806KR,Achlum
+De Wiske,2,A,"",8806KR,Achlum
+De Wiske,2,B,"",8806KR,Achlum
+De Wiske,2,B,"",8806KR,Achlum
+De Wiske,2,C,"",8806KR,Achlum
+De Wiske,3,"","",8806KR,Achlum
+De Wiske,4,"","",8806KR,Achlum
+De Wiske,5,"","",8806KR,Achlum
+1,A,"","",8806KR,
+2,A,"","",8806KR,
+2,B,"","",8806KR,
+2,B,"","",8806KR,
+2,B,"","",8806KR,
+2,C,"","",8806KR,
+3,"","","",8806KS,
+1,"","","",8806KS,
+3,"","","",8806KS,
+2,"","","",8806KS,
+Deersum,1,"","",8806KS,Achlum
+Deersum,2,"","",8806KS,Achlum
+Deersum,3,"","",8806KS,Achlum
+57,"","","",8806KZ,
+5,"","","",8806KZ,
+5,"","","",8806KZ,
+34,"","","",8806KZ,
+32,"","","",8806KZ,
+36,"","","",8806KZ,
+3,"","","",8806KZ,
+7,"","","",8806KZ,
+50,"","","",8806KZ,
+1,"","","",8806KZ,
+30,"","","",8806KZ,
+58,"","","",8806KZ,
+48,"","","",8806KZ,
+54,"","","",8806KZ,
+5,"","","",8806KZ,
+42,"","","",8806KZ,
+5,"","","",8806KZ,
+52,"","","",8806KZ,
+56,"","","",8806KZ,
+38,"","","",8806KZ,
+40,"","","",8806KZ,
+44,"","","",8806KZ,
+9,"","","",8806KZ,
+De Jister,1,"","",8806KZ,Achlum
+De Jister,3,"","",8806KZ,Achlum
+Monnikenweg,30,"","",8806KZ,Achlum
+Monnikenweg,32,"","",8806KZ,Achlum
+Monnikenweg,34,"","",8806KZ,Achlum
+Monnikenweg,36,"","",8806KZ,Achlum
+Monnikenweg,38,"","",8806KZ,Achlum
+Monnikenweg,40,"","",8806KZ,Achlum
+Monnikenweg,42,"","",8806KZ,Achlum
+Monnikenweg,44,"","",8806KZ,Achlum
+Monnikenweg,48,"","",8806KZ,Achlum
+De Jister,5,"","",8806KZ,Achlum
+De Jister,5,"","",8806KZ,Achlum
+De Jister,5,"","",8806KZ,Achlum
+Monnikenweg,50,"","",8806KZ,Achlum
+Monnikenweg,52,"","",8806KZ,Achlum
+Monnikenweg,54,"","",8806KZ,Achlum
+Monnikenweg,56,"","",8806KZ,Achlum
+Monnikenweg,57,"","",8806KZ,Achlum
+Monnikenweg,58,"","",8806KZ,Achlum
+De Jister,7,"","",8806KZ,Achlum
+De Jister,9,"","",8806KZ,Achlum
+4,"","","",8806TP,
+2,"","","",8806TP,
+3,"","","",8806TP,
+Lollumerweg,2,"","",8806TP,Achlum
+Lollumerweg,3,"","",8806TP,Achlum
+Lollumerweg,3,A,"",8806TP,Achlum
+Lollumerweg,4,"","",8806TP,Achlum
+3,A,"","",8806TP,
+4,"","","",8806TR,
+5,"","","",8806TR,
+2,"","","",8806TR,
+3,"","","",8806TR,
+2,"","","",8806TR,
+1,"","","",8806TR,
+Hitzumerweg,1,"","",8806TR,Achlum
+Hitzumerweg,2,"","",8806TR,Achlum
+Hitzumerweg,2,"","",8806TR,Achlum
+Hitzumerweg,3,"","",8806TR,Achlum
+Hitzumerweg,3,A,"",8806TR,Achlum
+Hitzumerweg,4,"","",8806TR,Achlum
+Hitzumerweg,5,"","",8806TR,Achlum
+Hitzumerweg,5,A,"",8806TR,Achlum
+Hitzumerweg,5,B,"",8806TR,Achlum
+5,A,"","",8806TR,
+3,A,"","",8806TR,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

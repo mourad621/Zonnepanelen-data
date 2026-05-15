@@ -1,93 +1,93 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7451MJ,Broekweg,1,,
-7451MJ,Broekweg,1,A,
-7451MJ,Broekweg,3,,
-7451MJ,Broekweg,5,,
-7451MJ,Broekweg,5,A,
-7451MJ,Broekweg,7,,
-7451MJ,Broekweg,9,A,
-7451MJ,Broekweg,14,,
-7451MJ,Broekweg,16,,
-7451MJ,Broekweg,18,,
-7451MJ,Broekweg,20,,
-7451MJ,Broekweg,22,,
-7451MJ,Broekweg,24,,
-7451MJ,Broekweg,26,,
-7451MH,Doorlopendedijk,1,,
-7451MH,Doorlopendedijk,2,,
-7451MH,Doorlopendedijk,3,,
-7451MH,Doorlopendedijk,3,A,
-7451MH,Doorlopendedijk,3,B,
-7451MH,Doorlopendedijk,4,,
-7451MH,Doorlopendedijk,5,,
-7451MH,Doorlopendedijk,5,A,
-7451MH,Doorlopendedijk,6,,
-7451MH,Doorlopendedijk,6,A,
-7451MH,Doorlopendedijk,7,,
-7451MH,Doorlopendedijk,8,,
-7451MH,Doorlopendedijk,9,,
-7451MK,Dorperdijk,1,,
-7451MK,Dorperdijk,2,,
-7451MK,Dorperdijk,3,,
-7451MK,Dorperdijk,4,,
-7451MK,Dorperdijk,5,,
-7451MK,Dorperdijk,6,,
-7451MK,Dorperdijk,7,,
-7451MK,Dorperdijk,15,,
-7451MK,Dorperdijk,15,A,
-7451MK,Dorperdijk,17,,
-7451MK,Dorperdijk,17,A,
-7451MK,Dorperdijk,19,,
-7451MK,Dorperdijk,21,,
-7451ME,Oude Stationsweg,1,,
-7451ME,Oude Stationsweg,2,,
-7451ME,Oude Stationsweg,2,A,
-7451ME,Oude Stationsweg,3,,
-7451ME,Oude Stationsweg,4,,
-7451ME,Oude Stationsweg,7,,
-7451ME,Oude Stationsweg,7,A,
-7451ME,Oude Stationsweg,8,,
-7451ME,Oude Stationsweg,8,,
-7451ME,Oude Stationsweg,8,A,
-7451ME,Oude Stationsweg,9,,
-7451ME,Oude Stationsweg,10,,
-7451ME,Oude Stationsweg,12,,
-7451ME,Oude Stationsweg,13,,
-7451ME,Oude Stationsweg,13,,
-7451ME,Oude Stationsweg,14,,
-7451ME,Oude Stationsweg,15,,
-7451ME,Oude Stationsweg,17,,
-7451MG,Sangeldijk,2,,
-7451MG,Sangeldijk,3,,
-7451MG,Sangeldijk,4,,
-7451MG,Sangeldijk,5,,
-7451MG,Sangeldijk,6,,
-7451MG,Sangeldijk,7,,
-7451MG,Sangeldijk,7,A,
-7451MG,Sangeldijk,10,,
-7451MG,Sangeldijk,14,,
-7451MG,Sangeldijk,16,,
-7451MG,Sangeldijk,18,,
-7451MG,Sangeldijk,20,,
-7451MJ,Broekweg,18,A,
-7451MJ,Broekweg,22,,
-7451MJ,Broekweg,16,A,
-7451MH,Doorlopendedijk,1,W,
-7451MH,Doorlopendedijk,8,A,
-7451MH,Doorlopendedijk,4,A,
-7451MH,Doorlopendedijk,10,,
-7451MK,Dorperdijk,5,A,
-7451MK,Dorperdijk,1,C,
-7451MK,Dorperdijk,7,,
-7451ME,Oude Stationsweg,7,W,
-7451ME,Oude Stationsweg,13,W,
-7451ME,Oude Stationsweg,1,A,
-7451ME,Oude Stationsweg,1,B,
-7451ME,Oude Stationsweg,8,W,
-7451ME,Oude Stationsweg,8,W,
-7451ME,Oude Stationsweg,13,W,
-7451ME,Oude Stationsweg,8,,1
-7451ME,Oude Stationsweg,1,C,
-7451ME,Oude Stationsweg,7,W,
-7451MG,Sangeldijk,7,A,
-7451MG,Sangeldijk,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oude Stationsweg,1,"","",7451ME,Holten
+Oude Stationsweg,1,A,"",7451ME,Holten
+Oude Stationsweg,1,B,"",7451ME,Holten
+Oude Stationsweg,1,C,"",7451ME,Holten
+Oude Stationsweg,10,"","",7451ME,Holten
+Oude Stationsweg,12,"","",7451ME,Holten
+Oude Stationsweg,13,"","",7451ME,Holten
+Oude Stationsweg,13,"","",7451ME,Holten
+Oude Stationsweg,13,W,"",7451ME,Holten
+Oude Stationsweg,13,W,"",7451ME,Holten
+Oude Stationsweg,14,"","",7451ME,Holten
+Oude Stationsweg,15,"","",7451ME,Holten
+Oude Stationsweg,17,"","",7451ME,Holten
+Oude Stationsweg,2,"","",7451ME,Holten
+Oude Stationsweg,2,A,"",7451ME,Holten
+Oude Stationsweg,3,"","",7451ME,Holten
+Oude Stationsweg,4,"","",7451ME,Holten
+Oude Stationsweg,7,"","",7451ME,Holten
+Oude Stationsweg,7,A,"",7451ME,Holten
+Oude Stationsweg,7,W,"",7451ME,Holten
+Oude Stationsweg,7,W,"",7451ME,Holten
+Oude Stationsweg,8,"","",7451ME,Holten
+Oude Stationsweg,8,"","",7451ME,Holten
+Oude Stationsweg,8,"",1,7451ME,Holten
+Oude Stationsweg,8,A,"",7451ME,Holten
+Oude Stationsweg,8,W,"",7451ME,Holten
+Oude Stationsweg,8,W,"",7451ME,Holten
+Oude Stationsweg,9,"","",7451ME,Holten
+Sangeldijk,10,"","",7451MG,Holten
+Sangeldijk,14,"","",7451MG,Holten
+Sangeldijk,16,"","",7451MG,Holten
+Sangeldijk,18,"","",7451MG,Holten
+Sangeldijk,2,"","",7451MG,Holten
+Sangeldijk,20,"","",7451MG,Holten
+Sangeldijk,3,"","",7451MG,Holten
+Sangeldijk,4,"","",7451MG,Holten
+Sangeldijk,5,"","",7451MG,Holten
+Sangeldijk,6,"","",7451MG,Holten
+Sangeldijk,7,"","",7451MG,Holten
+Sangeldijk,7,"","",7451MG,Holten
+Sangeldijk,7,A,"",7451MG,Holten
+Sangeldijk,7,A,"",7451MG,Holten
+Doorlopendedijk,1,"","",7451MH,Holten
+Doorlopendedijk,1,W,"",7451MH,Holten
+Doorlopendedijk,10,"","",7451MH,Holten
+Doorlopendedijk,2,"","",7451MH,Holten
+Doorlopendedijk,3,"","",7451MH,Holten
+Doorlopendedijk,3,A,"",7451MH,Holten
+Doorlopendedijk,3,B,"",7451MH,Holten
+Doorlopendedijk,4,"","",7451MH,Holten
+Doorlopendedijk,4,A,"",7451MH,Holten
+Doorlopendedijk,5,"","",7451MH,Holten
+Doorlopendedijk,5,A,"",7451MH,Holten
+Doorlopendedijk,6,"","",7451MH,Holten
+Doorlopendedijk,6,A,"",7451MH,Holten
+Doorlopendedijk,7,"","",7451MH,Holten
+Doorlopendedijk,8,"","",7451MH,Holten
+Doorlopendedijk,8,A,"",7451MH,Holten
+Doorlopendedijk,9,"","",7451MH,Holten
+Broekweg,1,"","",7451MJ,Holten
+Broekweg,1,A,"",7451MJ,Holten
+Broekweg,14,"","",7451MJ,Holten
+Broekweg,16,"","",7451MJ,Holten
+Broekweg,16,A,"",7451MJ,Holten
+Broekweg,18,"","",7451MJ,Holten
+Broekweg,18,A,"",7451MJ,Holten
+Broekweg,20,"","",7451MJ,Holten
+Broekweg,22,"","",7451MJ,Holten
+Broekweg,22,"","",7451MJ,Holten
+Broekweg,24,"","",7451MJ,Holten
+Broekweg,26,"","",7451MJ,Holten
+Broekweg,3,"","",7451MJ,Holten
+Broekweg,5,"","",7451MJ,Holten
+Broekweg,5,A,"",7451MJ,Holten
+Broekweg,7,"","",7451MJ,Holten
+Broekweg,9,A,"",7451MJ,Holten
+Dorperdijk,1,"","",7451MK,Holten
+Dorperdijk,1,C,"",7451MK,Holten
+Dorperdijk,15,"","",7451MK,Holten
+Dorperdijk,15,A,"",7451MK,Holten
+Dorperdijk,17,"","",7451MK,Holten
+Dorperdijk,17,A,"",7451MK,Holten
+Dorperdijk,19,"","",7451MK,Holten
+Dorperdijk,2,"","",7451MK,Holten
+Dorperdijk,21,"","",7451MK,Holten
+Dorperdijk,3,"","",7451MK,Holten
+Dorperdijk,4,"","",7451MK,Holten
+Dorperdijk,5,"","",7451MK,Holten
+Dorperdijk,5,A,"",7451MK,Holten
+Dorperdijk,6,"","",7451MK,Holten
+Dorperdijk,7,"","",7451MK,Holten
+Dorperdijk,7,"","",7451MK,Holten

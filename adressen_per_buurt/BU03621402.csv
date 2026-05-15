@@ -1,11 +1,11 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1187NZ,Kleine Noorddijk,1,,
-1187NZ,Kleine Noorddijk,80,,
-1187NZ,Kleine Noorddijk,134,,
-1187NW,Nieuwe Meerlaan,1,,
-1187NW,Nieuwe Meerlaan,2,,
-1187NW,Nieuwe Meerlaan,2,A,
-1187NW,Nieuwe Meerlaan,1,A,
-1187NW,Nieuwe Meerlaan,1,A,
-1187NZ,Kleine Noorddijk,1,,93
-1187NZ,Kleine Noorddijk,1,,204
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuwe Meerlaan,1,"","",1187NW,Amstelveen
+Nieuwe Meerlaan,1,A,"",1187NW,Amstelveen
+Nieuwe Meerlaan,1,A,"",1187NW,Amstelveen
+Nieuwe Meerlaan,2,"","",1187NW,Amstelveen
+Nieuwe Meerlaan,2,A,"",1187NW,Amstelveen
+Kleine Noorddijk,1,"","",1187NZ,Amstelveen
+Kleine Noorddijk,1,"",204,1187NZ,Amstelveen
+Kleine Noorddijk,1,"",93,1187NZ,Amstelveen
+Kleine Noorddijk,134,"","",1187NZ,Amstelveen
+Kleine Noorddijk,80,"","",1187NZ,Amstelveen

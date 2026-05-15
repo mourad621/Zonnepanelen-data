@@ -1,66 +1,66 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2431AS,Noordse Dorpsweg,11,,
-2431AS,Noordse Dorpsweg,15,,
-2431AS,Noordse Dorpsweg,17,,
-2431AS,Noordse Dorpsweg,19,,
-2431AS,Noordse Dorpsweg,23,,
-2431AS,Noordse Dorpsweg,25,,
-2431AS,Noordse Dorpsweg,27,,
-2431AS,Noordse Dorpsweg,27,A,
-2431AS,Noordse Dorpsweg,27,B,
-2431AS,Noordse Dorpsweg,29,,
-2431AS,Noordse Dorpsweg,3,A,
-2431AS,Noordse Dorpsweg,31,,
-2431AS,Noordse Dorpsweg,33,,
-2431AS,Noordse Dorpsweg,33,B,
-2431AS,Noordse Dorpsweg,35,,
-2431AS,Noordse Dorpsweg,35,A,
-2431AS,Noordse Dorpsweg,39,,
-2431AS,Noordse Dorpsweg,39,A,
-2431AS,Noordse Dorpsweg,43,,
-2431AS,Noordse Dorpsweg,5,,
-2431AS,Noordse Dorpsweg,7,,
-2431AS,Noordse Dorpsweg,9,,
-2431AS,Noordse Dorpsweg,33,A,
-2431AT,Noordse Dorpsweg,10,,
-2431AT,Noordse Dorpsweg,12,,
-2431AT,Noordse Dorpsweg,12,,I
-2431AT,Noordse Dorpsweg,14,,
-2431AT,Noordse Dorpsweg,2,,
-2431AT,Noordse Dorpsweg,4,,
-2431AT,Noordse Dorpsweg,6,,
-2431AT,Noordse Dorpsweg,8,,
-2431AT,Noordse Dorpsweg,8,A,
-2431AT,Noordsedorpsweg,10,,
-2431AT,Noordsedorpsweg,12,,
-2431AT,Noordsedorpsweg,12,,I
-2431AT,Noordsedorpsweg,14,,
-2431AT,Noordsedorpsweg,2,,
-2431AT,Noordsedorpsweg,4,,
-2431AT,Noordsedorpsweg,6,,
-2431AT,Noordsedorpsweg,8,,
-2431AT,Noordsedorpsweg,8,A,
-2431AS,Noordse Dorpsweg,3,,
-2431AS,Noordse Dorpsweg,47,,
-2431AS,Noordse Dorpsweg,25,,
-2431AS,Noordse Dorpsweg,41,,
-2431AS,Noordse Dorpsweg,3,A,
-2431AT,Noordse Dorpsweg,12,A,
-2431AT,Noordse Dorpsweg,12,B,
-2431AT,Noordse Dorpsweg,12,,II
-2431AT,Noordse Dorpsweg,12,,III
-2431AT,Noordse Dorpsweg,12,A,
-2431AT,Noordse Dorpsweg,12,C,
-2431AT,Noordse Dorpsweg,12,C,
-2431AT,Noordse Dorpsweg,12,V,
-2431AT,Noordse Dorpsweg,2,,
-2431AT,Noordse Dorpsweg,2,A,
-2431AT,Noordsedorpsweg,12,A,
-2431AT,Noordsedorpsweg,12,B,
-2431AT,Noordsedorpsweg,12,,II
-2431AT,Noordsedorpsweg,12,,III
-2431AT,Noordsedorpsweg,12,,III
-2431AT,Noordsedorpsweg,12,,III
-2431AT,Noordsedorpsweg,12,A,
-2431AT,Noordsedorpsweg,12,C,
-2431AT,Noordse Dorpsweg,16,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Noordse Dorpsweg,11,"","",2431AS,Noorden
+Noordse Dorpsweg,15,"","",2431AS,Noorden
+Noordse Dorpsweg,17,"","",2431AS,Noorden
+Noordse Dorpsweg,19,"","",2431AS,Noorden
+Noordse Dorpsweg,23,"","",2431AS,Noorden
+Noordse Dorpsweg,25,"","",2431AS,Noorden
+Noordse Dorpsweg,25,"","",2431AS,Noorden
+Noordse Dorpsweg,27,"","",2431AS,Noorden
+Noordse Dorpsweg,27,A,"",2431AS,Noorden
+Noordse Dorpsweg,27,B,"",2431AS,Noorden
+Noordse Dorpsweg,29,"","",2431AS,Noorden
+Noordse Dorpsweg,3,"","",2431AS,Noorden
+Noordse Dorpsweg,3,A,"",2431AS,Noorden
+Noordse Dorpsweg,3,A,"",2431AS,Noorden
+Noordse Dorpsweg,31,"","",2431AS,Noorden
+Noordse Dorpsweg,33,"","",2431AS,Noorden
+Noordse Dorpsweg,33,A,"",2431AS,Noorden
+Noordse Dorpsweg,33,B,"",2431AS,Noorden
+Noordse Dorpsweg,35,"","",2431AS,Noorden
+Noordse Dorpsweg,35,A,"",2431AS,Noorden
+Noordse Dorpsweg,39,"","",2431AS,Noorden
+Noordse Dorpsweg,39,A,"",2431AS,Noorden
+Noordse Dorpsweg,41,"","",2431AS,Noorden
+Noordse Dorpsweg,43,"","",2431AS,Noorden
+Noordse Dorpsweg,47,"","",2431AS,Noorden
+Noordse Dorpsweg,5,"","",2431AS,Noorden
+Noordse Dorpsweg,7,"","",2431AS,Noorden
+Noordse Dorpsweg,9,"","",2431AS,Noorden
+Noordsedorpsweg,10,"","",2431AT,Noorden
+Noordsedorpsweg,10,"","",2431AT,Noorden
+Noordsedorpsweg,12,"","",2431AT,Noorden
+Noordsedorpsweg,12,"","",2431AT,Noorden
+Noordsedorpsweg,12,"",I,2431AT,Noorden
+Noordsedorpsweg,12,"",I,2431AT,Noorden
+Noordsedorpsweg,12,"",II,2431AT,Noorden
+Noordsedorpsweg,12,"",II,2431AT,Noorden
+Noordsedorpsweg,12,"",III,2431AT,Noorden
+Noordsedorpsweg,12,"",III,2431AT,Noorden
+Noordsedorpsweg,12,"",III,2431AT,Noorden
+Noordsedorpsweg,12,"",III,2431AT,Noorden
+Noordsedorpsweg,12,A,"",2431AT,Noorden
+Noordsedorpsweg,12,A,"",2431AT,Noorden
+Noordsedorpsweg,12,A,"",2431AT,Noorden
+Noordsedorpsweg,12,A,"",2431AT,Noorden
+Noordsedorpsweg,12,B,"",2431AT,Noorden
+Noordsedorpsweg,12,B,"",2431AT,Noorden
+Noordsedorpsweg,12,C,"",2431AT,Noorden
+Noordsedorpsweg,12,C,"",2431AT,Noorden
+Noordsedorpsweg,12,C,"",2431AT,Noorden
+Noordse Dorpsweg,12,V,"",2431AT,Noorden
+Noordsedorpsweg,14,"","",2431AT,Noorden
+Noordsedorpsweg,14,"","",2431AT,Noorden
+Noordse Dorpsweg,16,"","",2431AT,Noorden
+Noordsedorpsweg,2,"","",2431AT,Noorden
+Noordsedorpsweg,2,"","",2431AT,Noorden
+Noordsedorpsweg,2,"","",2431AT,Noorden
+Noordse Dorpsweg,2,A,"",2431AT,Noorden
+Noordsedorpsweg,4,"","",2431AT,Noorden
+Noordsedorpsweg,4,"","",2431AT,Noorden
+Noordsedorpsweg,6,"","",2431AT,Noorden
+Noordsedorpsweg,6,"","",2431AT,Noorden
+Noordsedorpsweg,8,"","",2431AT,Noorden
+Noordsedorpsweg,8,"","",2431AT,Noorden
+Noordsedorpsweg,8,A,"",2431AT,Noorden
+Noordsedorpsweg,8,A,"",2431AT,Noorden

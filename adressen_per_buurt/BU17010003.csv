@@ -1,81 +1,81 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7986PG,De Stouwe,3,,
-7986PG,De Stouwe,5,,
-7986PG,De Stouwe,7,,
-7986PG,De Stouwe,9,,
-7986PM,Meester Broerweg,1,,
-7986PM,Meester Broerweg,2,a,
-7986PM,Meester Broerweg,2,,
-7986PM,Meester Broerweg,3,,
-7986PM,Meester Broerweg,4,,
-7986PM,Meester Broerweg,5,,
-7986PK,Wittelterweg,10,,
-7986PK,Wittelterweg,12,a,
-7986PK,Wittelterweg,12,,
-7986PK,Wittelterweg,14,a,
-7986PK,Wittelterweg,16,a,
-7986PK,Wittelterweg,18,,
-7986PK,Wittelterweg,20,,
-7986PK,Wittelterweg,24,,
-7986PK,Wittelterweg,28,,
-7986PK,Wittelterweg,30,,
-7986PK,Wittelterweg,16,,
-7986PK,Wittelterweg,26,,
-7986PK,Wittelterweg,16,,
-7986PK,Wittelterweg,16,b,
-7986PL,Wittelterweg,11,,
-7986PL,Wittelterweg,13,,
-7986PL,Wittelterweg,15,,
-7986PL,Wittelterweg,17,,
-7986PL,Wittelterweg,21,,
-7986PL,Wittelterweg,23,,
-7986PL,Wittelterweg,25,,
-7986PL,Wittelterweg,27,t,
-7986PL,Wittelterweg,29,,
-7986PL,Wittelterweg,29,a,
-7986PL,Wittelterweg,31,,
-7986PL,Wittelterweg,33,,
-7986PL,Wittelterweg,33,,
-7986PL,Wittelterweg,35,,
-7986PL,Wittelterweg,37,,
-7986PL,Wittelterweg,25,t,
-7986PH,Wapserveenseweg,4,,
-7986PH,Wapserveenseweg,6,,
-7986PH,Wapserveenseweg,8,,
-7986PH,Wapserveenseweg,10,,
-7986PH,Wapserveenseweg,12,,
-7986PH,Wapserveenseweg,14,,
-7986PH,Wapserveenseweg,16,,
-7986PH,Wapserveenseweg,18,,
-7986PH,Wapserveenseweg,20,,
-7986PH,Wapserveenseweg,22,,
-7986PH,Wapserveenseweg,24,,
-7986PH,Wapserveenseweg,26,,
-7986PH,Wapserveenseweg,28,,
-7986PH,Wapserveenseweg,30,,
-7986PH,Wapserveenseweg,32,,
-7986PH,Wapserveenseweg,34,,
-7986PH,Wapserveenseweg,2,,
-7986PH,Wapserveenseweg,8,a,
-7986PJ,Wapserveenseweg,1,,
-7986PJ,Wapserveenseweg,3,,
-7986PJ,Wapserveenseweg,5,,
-7986PJ,Wapserveenseweg,7,,
-7986PJ,Wapserveenseweg,11,a,
-7986PJ,Wapserveenseweg,13,,
-7986PJ,Wapserveenseweg,15,,
-7986PJ,Wapserveenseweg,17,,
-7986PJ,Wapserveenseweg,21,,
-7986PJ,Wapserveenseweg,9,,
-7986PJ,Wapserveenseweg,11,,
-7986PJ,Wapserveenseweg,19,,
-7986PD,Rijksweg,66,,
-7986PD,Rijksweg,68,,
-7986PD,Rijksweg,70,,
-7986PD,Rijksweg,72,,
-7986PD,Rijksweg,74,,
-7986PD,Rijksweg,76,,
-7986PE,Witteltermade,1,,
-7986PE,Witteltermade,2,,
-7986PE,Witteltermade,4,,
-7986PE,Witteltermade,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rijksweg,66,"","",7986PD,Wittelte
+Rijksweg,68,"","",7986PD,Wittelte
+Rijksweg,70,"","",7986PD,Wittelte
+Rijksweg,72,"","",7986PD,Wittelte
+Rijksweg,74,"","",7986PD,Wittelte
+Rijksweg,76,"","",7986PD,Wittelte
+Witteltermade,1,"","",7986PE,Wittelte
+Witteltermade,2,"","",7986PE,Wittelte
+Witteltermade,4,"","",7986PE,Wittelte
+Witteltermade,6,"","",7986PE,Wittelte
+De Stouwe,3,"","",7986PG,Wittelte
+De Stouwe,5,"","",7986PG,Wittelte
+De Stouwe,7,"","",7986PG,Wittelte
+De Stouwe,9,"","",7986PG,Wittelte
+Wapserveenseweg,10,"","",7986PH,Wittelte
+Wapserveenseweg,12,"","",7986PH,Wittelte
+Wapserveenseweg,14,"","",7986PH,Wittelte
+Wapserveenseweg,16,"","",7986PH,Wittelte
+Wapserveenseweg,18,"","",7986PH,Wittelte
+Wapserveenseweg,2,"","",7986PH,Wittelte
+Wapserveenseweg,20,"","",7986PH,Wittelte
+Wapserveenseweg,22,"","",7986PH,Wittelte
+Wapserveenseweg,24,"","",7986PH,Wittelte
+Wapserveenseweg,26,"","",7986PH,Wittelte
+Wapserveenseweg,28,"","",7986PH,Wittelte
+Wapserveenseweg,30,"","",7986PH,Wittelte
+Wapserveenseweg,32,"","",7986PH,Wittelte
+Wapserveenseweg,34,"","",7986PH,Wittelte
+Wapserveenseweg,4,"","",7986PH,Wittelte
+Wapserveenseweg,6,"","",7986PH,Wittelte
+Wapserveenseweg,8,"","",7986PH,Wittelte
+Wapserveenseweg,8,A,"",7986PH,Wittelte
+Wapserveenseweg,1,"","",7986PJ,Wittelte
+Wapserveenseweg,11,"","",7986PJ,Wittelte
+Wapserveenseweg,11,A,"",7986PJ,Wittelte
+Wapserveenseweg,13,"","",7986PJ,Wittelte
+Wapserveenseweg,15,"","",7986PJ,Wittelte
+Wapserveenseweg,17,"","",7986PJ,Wittelte
+Wapserveenseweg,19,"","",7986PJ,Wittelte
+Wapserveenseweg,21,"","",7986PJ,Wittelte
+Wapserveenseweg,3,"","",7986PJ,Wittelte
+Wapserveenseweg,5,"","",7986PJ,Wittelte
+Wapserveenseweg,7,"","",7986PJ,Wittelte
+Wapserveenseweg,9,"","",7986PJ,Wittelte
+Wittelterweg,10,"","",7986PK,Wittelte
+Wittelterweg,12,"","",7986PK,Wittelte
+Wittelterweg,12,A,"",7986PK,Wittelte
+Wittelterweg,14,A,"",7986PK,Wittelte
+Wittelterweg,16,"","",7986PK,Wittelte
+Wittelterweg,16,"","",7986PK,Wittelte
+Wittelterweg,16,A,"",7986PK,Wittelte
+Wittelterweg,16,B,"",7986PK,Wittelte
+Wittelterweg,18,"","",7986PK,Wittelte
+Wittelterweg,20,"","",7986PK,Wittelte
+Wittelterweg,24,"","",7986PK,Wittelte
+Wittelterweg,26,"","",7986PK,Wittelte
+Wittelterweg,28,"","",7986PK,Wittelte
+Wittelterweg,30,"","",7986PK,Wittelte
+Wittelterweg,11,"","",7986PL,Wittelte
+Wittelterweg,13,"","",7986PL,Wittelte
+Wittelterweg,15,"","",7986PL,Wittelte
+Wittelterweg,17,"","",7986PL,Wittelte
+Wittelterweg,21,"","",7986PL,Wittelte
+Wittelterweg,23,"","",7986PL,Wittelte
+Wittelterweg,25,"","",7986PL,Wittelte
+Wittelterweg,25,T,"",7986PL,Wittelte
+Wittelterweg,27,T,"",7986PL,Wittelte
+Wittelterweg,29,"","",7986PL,Wittelte
+Wittelterweg,29,A,"",7986PL,Wittelte
+Wittelterweg,31,"","",7986PL,Wittelte
+Wittelterweg,33,"","",7986PL,Wittelte
+Wittelterweg,33,"","",7986PL,Wittelte
+Wittelterweg,35,"","",7986PL,Wittelte
+Wittelterweg,37,"","",7986PL,Wittelte
+Meester Broerweg,1,"","",7986PM,Wittelte
+Meester Broerweg,2,"","",7986PM,Wittelte
+Meester Broerweg,2,A,"",7986PM,Wittelte
+Meester Broerweg,3,"","",7986PM,Wittelte
+Meester Broerweg,4,"","",7986PM,Wittelte
+Meester Broerweg,5,"","",7986PM,Wittelte

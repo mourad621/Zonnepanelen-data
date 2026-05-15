@@ -1,83 +1,83 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5343ND,Mugheuvelstraat,6,,
-5342NM,Nieuwe Hescheweg,298,,
-5342NM,Nieuwe Hescheweg,279,,
-5343NC,Koningsweg,2,,
-5343NA,Amelsestraat,25,,
-5343NA,Amelsestraat,1,,
-5343NB,Benedictuslaan,8,,
-5343NE,Steltlaan,1,,
-5343NH,Suggelaarsestraat,9,,
-5343ND,Mugheuvelstraat,26,,
-5343NA,Amelsestraat,3,,
-5343NA,Amelsestraat,17,,
-5343NA,Amelsestraat,28,,
-5343NA,Amelsestraat,19,,
-5343NA,Amelsestraat,30,,
-5343NA,Amelsestraat,37,,
-5343NA,Amelsestraat,34,,
-5343NB,Benedictuslaan,4,,
-5343NJ,Tilderdstraat,15,,
-5343NH,Suggelaarsestraat,1,,
-5342NM,Nieuwe Hescheweg,285,,
-5342NM,Nieuwe Hescheweg,300,,
-5343NA,Amelsestraat,24,,
-5343NA,Amelsestraat,9,,
-5343NA,Amelsestraat,23,,
-5343NA,Amelsestraat,29,,
-5343NA,Amelsestraat,11,,
-5343NH,Suggelaarsestraat,11,,
-5343ND,Mugheuvelstraat,4,,
-5343ND,Mugheuvelstraat,8,,
-5342NM,Nieuwe Hescheweg,286,,
-5343NA,Amelsestraat,7,,
-5343NA,Amelsestraat,5,,
-5343NA,Amelsestraat,13,,
-5343NB,Benedictuslaan,7,,
-5343NB,Benedictuslaan,6,,
-5343NH,Suggelaarsestraat,7,,
-5342NM,Nieuwe Hescheweg,290,,
-5342NM,Nieuwe Hescheweg,290,A,
-5343NC,Koningsweg,7,,
-5343NA,Amelsestraat,31,,
-5343NA,Amelsestraat,32,,
-5343NA,Amelsestraat,18,,
-5343NA,Amelsestraat,32,A,
-5343NJ,Tilderdstraat,13,,
-5343ET,Laantje van Cumberland,1,,
-5343ET,Laantje van Cumberland,1,,
-5342NM,Nieuwe Hescheweg,290,A,
-5342NM,Nieuwe Hescheweg,290,,
-5342NM,Nieuwe Hescheweg,288,,
-5342NM,Nieuwe Hescheweg,288,,
-5342NM,Nieuwe Hescheweg,290,A,
-5342NM,Nieuwe Hescheweg,290,,UNIT
-5343NA,Amelsestraat,31,,
-5343NA,Amelsestraat,34,,MW
-5343NB,Benedictuslaan,7,F,
-5343NB,Benedictuslaan,7,G,
-5343NB,Benedictuslaan,7,H,
-5343NB,Benedictuslaan,7,J,
-5343NB,Benedictuslaan,7,K,
-5343NB,Benedictuslaan,7,L,
-5343NB,Benedictuslaan,7,M,
-5343NB,Benedictuslaan,7,A,
-5343NB,Benedictuslaan,7,B,
-5343NB,Benedictuslaan,7,C,
-5343NB,Benedictuslaan,7,D,
-5343NB,Benedictuslaan,7,E,
-5343NB,Benedictuslaan,7,A,UNIT
-5343NB,Benedictuslaan,7,B,UNIT
-5343NB,Benedictuslaan,7,C,UNIT
-5343NB,Benedictuslaan,7,D,UNIT
-5343NB,Benedictuslaan,7,E,UNIT
-5343NB,Benedictuslaan,7,E,UNIT
-5343NB,Benedictuslaan,7,F,UNIT
-5343NJ,Tilderdstraat,15,A,
-5343NH,Suggelaarsestraat,11,,UNIT
-5343NH,Suggelaarsestraat,20,,
-5343NH,Suggelaarsestraat,11,,
-5343NH,Suggelaarsestraat,11,,MZ
-5343NH,Suggelaarsestraat,11,,
-5343NH,Suggelaarsestraat,20,,
-5343NA,Amelsestraat,31,,UNIT
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuwe Hescheweg,279,"","",5342NM,Oss
+Nieuwe Hescheweg,285,"","",5342NM,Oss
+Nieuwe Hescheweg,286,"","",5342NM,Oss
+Nieuwe Hescheweg,288,"","",5342NM,Oss
+Nieuwe Hescheweg,288,"","",5342NM,Oss
+Nieuwe Hescheweg,290,"","",5342NM,Oss
+Nieuwe Hescheweg,290,"","",5342NM,Oss
+Nieuwe Hescheweg,290,"",UNIT,5342NM,Oss
+Nieuwe Hescheweg,290,A,"",5342NM,Oss
+Nieuwe Hescheweg,290,A,"",5342NM,Oss
+Nieuwe Hescheweg,290,A,"",5342NM,Oss
+Nieuwe Hescheweg,298,"","",5342NM,Oss
+Nieuwe Hescheweg,300,"","",5342NM,Oss
+Laantje van Cumberland,1,"","",5343ET,Oss
+Laantje van Cumberland,1,"","",5343ET,Oss
+Amelsestraat,1,"","",5343NA,Oss
+Amelsestraat,11,"","",5343NA,Oss
+Amelsestraat,13,"","",5343NA,Oss
+Amelsestraat,17,"","",5343NA,Oss
+Amelsestraat,18,"","",5343NA,Oss
+Amelsestraat,19,"","",5343NA,Oss
+Amelsestraat,23,"","",5343NA,Oss
+Amelsestraat,24,"","",5343NA,Oss
+Amelsestraat,25,"","",5343NA,Oss
+Amelsestraat,28,"","",5343NA,Oss
+Amelsestraat,29,"","",5343NA,Oss
+Amelsestraat,3,"","",5343NA,Oss
+Amelsestraat,30,"","",5343NA,Oss
+Amelsestraat,31,"","",5343NA,Oss
+Amelsestraat,31,"","",5343NA,Oss
+Amelsestraat,31,"",UNIT,5343NA,Oss
+Amelsestraat,32,"","",5343NA,Oss
+Amelsestraat,32,A,"",5343NA,Oss
+Amelsestraat,34,"","",5343NA,Oss
+Amelsestraat,34,"",MW,5343NA,Oss
+Amelsestraat,37,"","",5343NA,Oss
+Amelsestraat,5,"","",5343NA,Oss
+Amelsestraat,7,"","",5343NA,Oss
+Amelsestraat,9,"","",5343NA,Oss
+Benedictuslaan,4,"","",5343NB,Oss
+Benedictuslaan,6,"","",5343NB,Oss
+Benedictuslaan,7,"","",5343NB,Oss
+Benedictuslaan,7,A,"",5343NB,Oss
+Benedictuslaan,7,A,UNIT,5343NB,Oss
+Benedictuslaan,7,B,"",5343NB,Oss
+Benedictuslaan,7,B,UNIT,5343NB,Oss
+Benedictuslaan,7,C,"",5343NB,Oss
+Benedictuslaan,7,C,UNIT,5343NB,Oss
+Benedictuslaan,7,D,"",5343NB,Oss
+Benedictuslaan,7,D,UNIT,5343NB,Oss
+Benedictuslaan,7,E,"",5343NB,Oss
+Benedictuslaan,7,E,UNIT,5343NB,Oss
+Benedictuslaan,7,E,UNIT,5343NB,Oss
+Benedictuslaan,7,F,"",5343NB,Oss
+Benedictuslaan,7,F,UNIT,5343NB,Oss
+Benedictuslaan,7,G,"",5343NB,Oss
+Benedictuslaan,7,H,"",5343NB,Oss
+Benedictuslaan,7,J,"",5343NB,Oss
+Benedictuslaan,7,K,"",5343NB,Oss
+Benedictuslaan,7,L,"",5343NB,Oss
+Benedictuslaan,7,M,"",5343NB,Oss
+Benedictuslaan,8,"","",5343NB,Oss
+Koningsweg,2,"","",5343NC,Oss
+Koningsweg,7,"","",5343NC,Oss
+Mugheuvelstraat,26,"","",5343ND,Oss
+Mugheuvelstraat,4,"","",5343ND,Oss
+Mugheuvelstraat,6,"","",5343ND,Oss
+Mugheuvelstraat,8,"","",5343ND,Oss
+Steltlaan,1,"","",5343NE,Oss
+Suggelaarsestraat,1,"","",5343NH,Oss
+Suggelaarsestraat,11,"","",5343NH,Oss
+Suggelaarsestraat,11,"","",5343NH,Oss
+Suggelaarsestraat,11,"","",5343NH,Oss
+Suggelaarsestraat,11,"",MZ,5343NH,Oss
+Suggelaarsestraat,11,"",UNIT,5343NH,Oss
+Suggelaarsestraat,20,"","",5343NH,Oss
+Suggelaarsestraat,20,"","",5343NH,Oss
+Suggelaarsestraat,7,"","",5343NH,Oss
+Suggelaarsestraat,9,"","",5343NH,Oss
+Tilderdstraat,13,"","",5343NJ,Oss
+Tilderdstraat,15,"","",5343NJ,Oss
+Tilderdstraat,15,A,"",5343NJ,Oss

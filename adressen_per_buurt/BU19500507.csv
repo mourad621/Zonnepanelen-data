@@ -1,108 +1,109 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9541XC",12,"",""
-"9541XC",25,"",""
-"9541XC",12,"",""
-"9541XC",5,"",""
-"9541XC",9,"",""
-"9541XC",12,"",""
-"9541XC",13,"",""
-"9541XC",10,"",""
-"9541XC",1,"","TRAF"
-"9541XC",4,"",""
-"9541XC",7,"",""
-"9541XC",3,"",""
-"9541XC",11,"",""
-"9541XC",17,"",""
-"9541XC",12,"",""
-"9541XC",27,"",""
-"9541XC",6,"",""
-"9541XC",2,"",""
-"9541XC",15,"",""
-"9541XE",8,"",""
-"9541XE",2,"",""
-"9541XE",1,"",""
-"9541XE",5,"",""
-"9541XE",3,"",""
-"9541XE",9,"",""
-"9541XE",11,"",""
-"9541XE",7,"",""
-"9541XE",4,"",""
-"9541XH",7,"",""
-"9541XH",19,"",""
-"9541XH",17,"",""
-"9541XH",3,"",""
-"9541XH",21,"",""
-"9541XH",1,"","BEDR"
-"9541XH",13,"",""
-"9541XH",9,"",""
-"9541XH",11,"",""
-"9541XH",15,"",""
-"9541XH",1,"",""
-"9541XH",5,"",""
-"9541XJ",15,"",""
-"9541XJ",15,"","BEDR"
-"9541XJ",13,"",""
-"9541XJ",17,"",""
-"9541XJ",19,"",""
-"9541XJ",17,"",""
-"9541XJ",19,"",""
-"9541XL",1,"",""
-"9545TE",8,"a",""
-"9545TE",2,"",""
-"9545TE",8,"a",""
-"9545TE",4,"",""
-"9545TE",6,"",""
-"9545TE",12,"",""
-"9545TE",8,"",""
-9541XL,Bourtangerweg,1,,
-9541XH,H. Prinsenweg,1,,
-9541XH,H. Prinsenweg,3,,
-9541XH,H. Prinsenweg,5,,
-9541XH,H. Prinsenweg,7,,
-9541XH,H. Prinsenweg,9,,
-9541XH,H. Prinsenweg,11,,
-9541XH,H. Prinsenweg,13,,
-9541XH,H. Prinsenweg,15,,
-9541XH,H. Prinsenweg,17,,
-9541XH,H. Prinsenweg,19,,
-9541XH,H. Prinsenweg,21,,
-9541XH,H. Prinsenweg,1,,BEDR
-9541XJ,J. Buiskoolweg,13,,
-9541XJ,J. Buiskoolweg,15,,BEDR
-9541XJ,J. Buiskoolweg,15,,
-9541XJ,J. Buiskoolweg,17,,
-9541XJ,J. Buiskoolweg,19,,
-9541XE,Oude Veendijk,1,,
-9541XE,Oude Veendijk,2,,
-9541XE,Oude Veendijk,3,,
-9541XE,Oude Veendijk,4,,
-9541XE,Oude Veendijk,5,,
-9541XE,Oude Veendijk,7,,
-9541XE,Oude Veendijk,8,,
-9541XE,Oude Veendijk,9,,
-9541XE,Oude Veendijk,11,,
-9541XC,S.W. de Clercqweg,1,,TRAF
-9541XC,S.W. de Clercqweg,2,,
-9541XC,S.W. de Clercqweg,4,,
-9541XC,S.W. de Clercqweg,5,,
-9541XC,S.W. de Clercqweg,6,,
-9541XC,S.W. de Clercqweg,7,,
-9541XC,S.W. de Clercqweg,9,,
-9541XC,S.W. de Clercqweg,10,,
-9541XC,S.W. de Clercqweg,11,,
-9541XC,S.W. de Clercqweg,12,,
-9541XC,S.W. de Clercqweg,12,,
-9541XC,S.W. de Clercqweg,13,,
-9541XC,S.W. de Clercqweg,15,,
-9541XC,S.W. de Clercqweg,17,,
-9541XC,S.W. de Clercqweg,25,,
-9541XC,S.W. de Clercqweg,27,,
-9541XC,S.W. de Clercqweg,3,,
-9545TE,Stobbenweg,2,,
-9545TE,Stobbenweg,4,,
-9545TE,Stobbenweg,6,,
-9545TE,Stobbenweg,8,,
-9545TE,Stobbenweg,12,,
-9545TE,Stobbenweg,8,a,
-9541XC,S.W. de Clercqweg,12,,
-9541XH,H. Prinsenweg,3,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+12,"","","",9541XC,
+25,"","","",9541XC,
+12,"","","",9541XC,
+5,"","","",9541XC,
+9,"","","",9541XC,
+12,"","","",9541XC,
+13,"","","",9541XC,
+10,"","","",9541XC,
+4,"","","",9541XC,
+7,"","","",9541XC,
+3,"","","",9541XC,
+11,"","","",9541XC,
+17,"","","",9541XC,
+12,"","","",9541XC,
+27,"","","",9541XC,
+6,"","","",9541XC,
+2,"","","",9541XC,
+15,"","","",9541XC,
+1,"",TRAF,"",9541XC,
+S.W. de Clercqweg,1,"",TRAF,9541XC,Vlagtwedde
+S.W. de Clercqweg,10,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,11,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,12,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,12,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,12,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,13,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,15,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,17,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,2,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,25,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,27,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,3,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,4,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,5,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,6,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,7,"","",9541XC,Vlagtwedde
+S.W. de Clercqweg,9,"","",9541XC,Vlagtwedde
+8,"","","",9541XE,
+2,"","","",9541XE,
+1,"","","",9541XE,
+5,"","","",9541XE,
+3,"","","",9541XE,
+9,"","","",9541XE,
+11,"","","",9541XE,
+7,"","","",9541XE,
+4,"","","",9541XE,
+Oude Veendijk,1,"","",9541XE,Vlagtwedde
+Oude Veendijk,11,"","",9541XE,Vlagtwedde
+Oude Veendijk,2,"","",9541XE,Vlagtwedde
+Oude Veendijk,3,"","",9541XE,Vlagtwedde
+Oude Veendijk,4,"","",9541XE,Vlagtwedde
+Oude Veendijk,5,"","",9541XE,Vlagtwedde
+Oude Veendijk,7,"","",9541XE,Vlagtwedde
+Oude Veendijk,8,"","",9541XE,Vlagtwedde
+Oude Veendijk,9,"","",9541XE,Vlagtwedde
+7,"","","",9541XH,
+19,"","","",9541XH,
+17,"","","",9541XH,
+3,"","","",9541XH,
+21,"","","",9541XH,
+13,"","","",9541XH,
+9,"","","",9541XH,
+11,"","","",9541XH,
+15,"","","",9541XH,
+1,"","","",9541XH,
+5,"","","",9541XH,
+1,"",BEDR,"",9541XH,
+H. Prinsenweg,1,"","",9541XH,Vlagtwedde
+H. Prinsenweg,1,"",BEDR,9541XH,Vlagtwedde
+H. Prinsenweg,11,"","",9541XH,Vlagtwedde
+H. Prinsenweg,13,"","",9541XH,Vlagtwedde
+H. Prinsenweg,15,"","",9541XH,Vlagtwedde
+H. Prinsenweg,17,"","",9541XH,Vlagtwedde
+H. Prinsenweg,19,"","",9541XH,Vlagtwedde
+H. Prinsenweg,21,"","",9541XH,Vlagtwedde
+H. Prinsenweg,3,"","",9541XH,Vlagtwedde
+H. Prinsenweg,3,A,"",9541XH,Vlagtwedde
+H. Prinsenweg,5,"","",9541XH,Vlagtwedde
+H. Prinsenweg,7,"","",9541XH,Vlagtwedde
+H. Prinsenweg,9,"","",9541XH,Vlagtwedde
+15,"","","",9541XJ,
+13,"","","",9541XJ,
+17,"","","",9541XJ,
+19,"","","",9541XJ,
+17,"","","",9541XJ,
+19,"","","",9541XJ,
+15,"",BEDR,"",9541XJ,
+J. Buiskoolweg,13,"","",9541XJ,Vlagtwedde
+J. Buiskoolweg,15,"","",9541XJ,Vlagtwedde
+J. Buiskoolweg,15,"",BEDR,9541XJ,Vlagtwedde
+J. Buiskoolweg,17,"","",9541XJ,Vlagtwedde
+J. Buiskoolweg,19,"","",9541XJ,Vlagtwedde
+1,"","","",9541XL,
+Bourtangerweg,1,"","",9541XL,Vlagtwedde
+2,"","","",9545TE,
+4,"","","",9545TE,
+6,"","","",9545TE,
+12,"","","",9545TE,
+8,"","","",9545TE,
+Stobbenweg,12,"","",9545TE,Bourtange
+Stobbenweg,2,"","",9545TE,Bourtange
+Stobbenweg,4,"","",9545TE,Bourtange
+Stobbenweg,6,"","",9545TE,Bourtange
+Stobbenweg,8,"","",9545TE,Bourtange
+Stobbenweg,8,A,"",9545TE,Bourtange
+8,A,"","",9545TE,
+8,A,"","",9545TE,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

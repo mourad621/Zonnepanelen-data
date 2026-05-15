@@ -1,35 +1,35 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2409AC,Baanwegsekade,7,,
-2409AA,Rietveldsepad,4,A,
-2409AA,Rietveldsepad,5,,
-2409AA,Rietveldsepad,6,A,
-2409AA,Rietveldsepad,6,,
-2409AA,Rietveldsepad,8,,
-2409AA,Rietveldsepad,9,A,
-2409AA,Rietveldsepad,9,,
-2409AA,Rietveldsepad,10,,
-2409AA,Rietveldsepad,11,,
-2409AA,Rietveldsepad,13,,
-2409AA,Rietveldsepad,15,,
-2409AA,Rietveldsepad,17,,
-2409AC,Baanwegsekade,1,,
-2409AC,Baanwegsekade,3,,
-2409AC,Baanwegsekade,5,,
-2409AD,Compierekade,25,,
-2409AA,Rietveldsepad,13,A,
-2409AA,Rietveldsepad,4,,
-2405XV,Westgouweweg,4,,
-2405XV,Westgouweweg,5,,
-2405XV,Westgouweweg,6,,
-2405XV,Westgouweweg,7,A,
-2405XV,Westgouweweg,7,,
-2405XV,Westgouweweg,9,,
-2405XV,Westgouweweg,6,A,
-2409AD,Compierekade,21,,
-2409AA,Rietveldsepad,4,B,
-2409AA,Rietveldsepad,15,A,
-2409AA,Rietveldsepad,15,A,
-2409AA,Rietveldsepad,6,B,
-2409AA,Rietveldsepad,9,B,
-2409AA,Rietveldsepad,6,L,
-2409AA,Rietveld,27,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Westgouweweg,4,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,5,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,6,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,6,A,"",2405XV,Alphen aan den Rijn
+Westgouweweg,7,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,7,A,"",2405XV,Alphen aan den Rijn
+Westgouweweg,9,"","",2405XV,Alphen aan den Rijn
+Rietveldsepad,10,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,11,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,13,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,13,A,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,15,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,15,A,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,15,A,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,17,"","",2409AA,Alphen aan den Rijn
+Rietveld,27,"","",2409AA,Hazerswoude-Dorp
+Rietveldsepad,4,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,4,A,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,4,B,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,5,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,6,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,6,A,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,6,B,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,6,L,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,8,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,9,"","",2409AA,Alphen aan den Rijn
+Rietveldsepad,9,A,"",2409AA,Alphen aan den Rijn
+Rietveldsepad,9,B,"",2409AA,Alphen aan den Rijn
+Baanwegsekade,1,"","",2409AC,Alphen aan den Rijn
+Baanwegsekade,3,"","",2409AC,Alphen aan den Rijn
+Baanwegsekade,5,"","",2409AC,Alphen aan den Rijn
+Baanwegsekade,7,"","",2409AC,Alphen aan den Rijn
+Compierekade,21,"","",2409AD,Alphen aan den Rijn
+Compierekade,25,"","",2409AD,Alphen aan den Rijn

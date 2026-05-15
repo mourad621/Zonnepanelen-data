@@ -1,944 +1,440 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"1314CC",279,"",""
-"1314CC",276,"",""
-"1314CC",280,"",""
-"1314CC",235,"",""
-"1314CC",239,"",""
-"1314CC",278,"",""
-"1314CC",150,"",""
-"1314CC",237,"",""
-"1314CC",151,"",""
-"1314CC",234,"",""
-"1314CC",250,"",""
-"1314CC",203,"",""
-"1314CC",240,"",""
-"1314CC",155,"",""
-"1314CC",247,"",""
-"1314CC",214,"",""
-"1314CC",232,"",""
-"1314CC",245,"",""
-"1314CC",226,"",""
-"1314CC",241,"",""
-"1314CC",248,"",""
-"1314CC",204,"",""
-"1314CC",206,"",""
-"1314CC",236,"",""
-"1314CC",269,"",""
-"1314CC",205,"",""
-"1314CC",230,"",""
-"1314CC",264,"",""
-"1314CC",252,"",""
-"1314CC",203,"",""
-"1314CC",213,"",""
-"1314CC",159,"",""
-"1314CC",220,"",""
-"1314CC",277,"",""
-"1314CC",268,"",""
-"1314CC",217,"",""
-"1314CC",263,"",""
-"1314CC",158,"",""
-"1314CC",242,"",""
-"1314CC",209,"",""
-"1314CC",225,"",""
-"1314CC",246,"",""
-"1314CC",157,"",""
-"1314CC",231,"",""
-"1314CC",156,"",""
-"1314CC",221,"",""
-"1314CC",218,"",""
-"1314CC",238,"",""
-"1314CC",271,"",""
-"1314CC",200,"",""
-"1314CC",299,"",""
-"1314CC",208,"",""
-"1314CC",301,"",""
-"1314CC",262,"",""
-"1314CC",273,"",""
-"1314CC",212,"",""
-"1314CC",282,"",""
-"1314CC",215,"",""
-"1314CC",267,"",""
-"1314CC",265,"",""
-"1314CC",243,"",""
-"1314CC",207,"",""
-"1314CC",302,"",""
-"1314CC",298,"",""
-"1314CC",289,"",""
-"1314CC",297,"",""
-"1314CC",216,"",""
-"1314CC",292,"",""
-"1314CC",222,"",""
-"1314CC",259,"",""
-"1314CC",260,"",""
-"1314CC",270,"",""
-"1314CC",211,"",""
-"1314CC",210,"",""
-"1314CC",284,"",""
-"1314CC",219,"",""
-"1314CC",228,"",""
-"1314CC",272,"",""
-"1314CC",291,"",""
-"1314CC",285,"",""
-"1314CC",253,"",""
-"1314CC",258,"",""
-"1314CC",255,"",""
-"1314CC",303,"",""
-"1314CC",283,"",""
-"1314CC",229,"",""
-"1314CC",295,"",""
-"1314CC",251,"",""
-"1314CC",300,"",""
-"1314CC",286,"",""
-"1314CC",287,"",""
-"1314CC",288,"",""
-"1314CC",224,"",""
-"1314CC",233,"",""
-"1314CC",223,"",""
-"1314CC",261,"",""
-"1314CC",254,"",""
-"1314CC",293,"",""
-"1314CC",296,"",""
-"1314CC",294,"",""
-"1314CC",281,"",""
-"1314CC",256,"",""
-"1314CC",227,"",""
-"1314CC",274,"",""
-"1314CC",275,"",""
-"1314CC",257,"",""
-"1314CC",290,"",""
-"1314CC",249,"",""
-"1314CC",244,"",""
-"1314NA",13,"",""
-"1314NA",1,"",""
-"1314NA",17,"",""
-"1314NB",18,"",""
-"1314NB",14,"",""
-"1314NB",4,"",""
-"1314NB",22,"",""
-"1314NB",6,"",""
-"1314NB",2,"",""
-"1314NB",12,"",""
-"1314NB",16,"",""
-"1314NB",26,"",""
-"1314NB",10,"",""
-"1314NB",28,"",""
-"1314NB",24,"",""
-"1314NB",20,"",""
-"1314NB",8,"",""
-"1314NC",40,"",""
-"1314NC",38,"",""
-"1314NC",32,"",""
-"1314NC",30,"",""
-"1314NC",56,"",""
-"1314NC",46,"",""
-"1314NC",54,"",""
-"1314NC",34,"",""
-"1314NC",44,"",""
-"1314NC",50,"",""
-"1314NC",36,"",""
-"1314NC",48,"",""
-"1314NC",42,"",""
-"1314NC",52,"",""
-"1314ND",58,"",""
-"1314ND",62,"",""
-"1314ND",70,"",""
-"1314ND",78,"",""
-"1314ND",72,"",""
-"1314ND",64,"",""
-"1314ND",60,"",""
-"1314ND",76,"",""
-"1314ND",92,"",""
-"1314ND",82,"",""
-"1314ND",80,"",""
-"1314ND",96,"",""
-"1314ND",90,"",""
-"1314ND",74,"",""
-"1314ND",86,"",""
-"1314ND",68,"",""
-"1314ND",84,"",""
-"1314ND",94,"",""
-"1314ND",66,"",""
-"1314ND",88,"",""
-"1314NE",17,"",""
-"1314NE",15,"",""
-"1314NE",3,"",""
-"1314NE",19,"",""
-"1314NE",23,"",""
-"1314NE",13,"",""
-"1314NE",5,"",""
-"1314NE",27,"",""
-"1314NE",25,"",""
-"1314NE",11,"",""
-"1314NE",9,"",""
-"1314NE",7,"",""
-"1314NE",21,"",""
-"1314NE",1,"",""
-"1314NG",73,"",""
-"1314NG",33,"",""
-"1314NG",61,"",""
-"1314NG",49,"",""
-"1314NG",35,"",""
-"1314NG",81,"",""
-"1314NG",79,"",""
-"1314NG",67,"",""
-"1314NG",77,"",""
-"1314NG",63,"",""
-"1314NG",41,"",""
-"1314NG",71,"",""
-"1314NG",87,"",""
-"1314NG",65,"",""
-"1314NG",57,"",""
-"1314NG",59,"",""
-"1314NG",39,"",""
-"1314NG",69,"",""
-"1314NG",53,"",""
-"1314NG",31,"",""
-"1314NG",83,"",""
-"1314NG",55,"",""
-"1314NG",51,"",""
-"1314NG",45,"",""
-"1314NG",85,"",""
-"1314NG",43,"",""
-"1314NG",37,"",""
-"1314NG",75,"",""
-"1314NG",47,"",""
-"1314NH",10,"",""
-"1314NH",24,"",""
-"1314NH",18,"",""
-"1314NH",8,"",""
-"1314NH",26,"",""
-"1314NH",6,"",""
-"1314NH",16,"",""
-"1314NH",12,"",""
-"1314NH",2,"",""
-"1314NH",28,"",""
-"1314NH",20,"",""
-"1314NH",4,"",""
-"1314NH",22,"",""
-"1314NH",14,"",""
-"1314NK",9,"",""
-"1314NK",1,"",""
-"1314NK",2,"",""
-"1314NK",16,"",""
-"1314NK",11,"",""
-"1314NK",14,"",""
-"1314NK",6,"",""
-"1314NK",15,"",""
-"1314NK",8,"",""
-"1314NK",5,"",""
-"1314NK",7,"",""
-"1314NK",13,"",""
-"1314NK",12,"",""
-"1314NK",4,"",""
-"1314NK",3,"",""
-"1314NK",10,"",""
-"1314NL",27,"",""
-"1314NL",26,"",""
-"1314NL",21,"",""
-"1314NL",24,"",""
-"1314NL",28,"",""
-"1314NL",20,"",""
-"1314NL",22,"",""
-"1314NL",17,"",""
-"1314NL",19,"",""
-"1314NL",23,"",""
-"1314NL",25,"",""
-"1314NL",18,"",""
-"1314NM",11,"",""
-"1314NM",15,"",""
-"1314NM",5,"",""
-"1314NM",7,"",""
-"1314NM",13,"",""
-"1314NM",3,"",""
-"1314NM",9,"",""
-"1314NM",1,"",""
-"1314NN",17,"",""
-"1314NN",21,"",""
-"1314NN",25,"",""
-"1314NN",19,"",""
-"1314NN",27,"",""
-"1314NN",23,"",""
-"1314NP",34,"",""
-"1314NP",52,"",""
-"1314NP",4,"",""
-"1314NP",12,"",""
-"1314NP",8,"",""
-"1314NP",48,"",""
-"1314NP",10,"",""
-"1314NP",50,"",""
-"1314NP",24,"",""
-"1314NP",26,"",""
-"1314NP",30,"",""
-"1314NP",20,"",""
-"1314NP",14,"",""
-"1314NP",32,"",""
-"1314NP",42,"",""
-"1314NP",22,"",""
-"1314NP",40,"",""
-"1314NP",36,"",""
-"1314NP",28,"",""
-"1314NP",18,"",""
-"1314NP",6,"",""
-"1314NP",16,"",""
-"1314NP",46,"",""
-"1314NP",38,"",""
-"1314NP",44,"",""
-"1314NR",5,"",""
-"1314NR",45,"",""
-"1314NR",15,"",""
-"1314NR",41,"",""
-"1314NR",33,"",""
-"1314NR",37,"",""
-"1314NR",19,"",""
-"1314NR",39,"",""
-"1314NR",1,"",""
-"1314NR",17,"",""
-"1314NR",31,"",""
-"1314NR",9,"",""
-"1314NR",35,"",""
-"1314NR",7,"",""
-"1314NR",25,"",""
-"1314NR",21,"",""
-"1314NR",27,"",""
-"1314NR",29,"",""
-"1314NR",3,"",""
-"1314NR",11,"",""
-"1314NR",13,"",""
-"1314NR",23,"",""
-"1314NT",20,"",""
-"1314NT",42,"",""
-"1314NT",2,"",""
-"1314NT",34,"",""
-"1314NT",22,"",""
-"1314NT",18,"",""
-"1314NT",4,"",""
-"1314NT",8,"",""
-"1314NT",28,"",""
-"1314NT",44,"",""
-"1314NT",6,"",""
-"1314NT",16,"",""
-"1314NT",40,"",""
-"1314NT",14,"",""
-"1314NT",26,"",""
-"1314NT",32,"",""
-"1314NT",38,"",""
-"1314NT",12,"",""
-"1314NT",30,"",""
-"1314NT",24,"",""
-"1314NT",10,"",""
-"1314NT",36,"",""
-"1314NV",48,"",""
-"1314NV",86,"",""
-"1314NV",76,"",""
-"1314NV",72,"",""
-"1314NV",50,"",""
-"1314NV",56,"",""
-"1314NV",62,"",""
-"1314NV",78,"",""
-"1314NV",60,"",""
-"1314NV",66,"",""
-"1314NV",54,"",""
-"1314NV",46,"",""
-"1314NV",82,"",""
-"1314NV",68,"",""
-"1314NV",52,"",""
-"1314NV",80,"",""
-"1314NV",74,"",""
-"1314NV",58,"",""
-"1314NV",64,"",""
-"1314NV",84,"",""
-"1314NV",70,"",""
-"1314NX",88,"",""
-"1314NX",110,"",""
-"1314NX",94,"",""
-"1314NX",112,"",""
-"1314NX",106,"",""
-"1314NX",92,"",""
-"1314NX",108,"",""
-"1314NX",96,"",""
-"1314NX",104,"",""
-"1314NX",100,"",""
-"1314NX",90,"",""
-"1314NX",114,"",""
-"1314NX",102,"",""
-"1314NX",98,"",""
-"1314NX",116,"",""
-"1314TN",123,"",""
-"1314TN",121,"",""
-"1314TN",117,"",""
-"1314TN",107,"",""
-"1314TN",109,"",""
-"1314TN",113,"",""
-"1314TN",131,"",""
-"1314TN",103,"",""
-"1314TN",115,"",""
-"1314TN",127,"",""
-"1314TN",105,"",""
-"1314TN",133,"",""
-"1314TN",101,"",""
-"1314TN",125,"",""
-"1314TN",139,"",""
-"1314TN",119,"",""
-"1314TN",137,"",""
-"1314TN",135,"",""
-"1314TN",129,"",""
-"1314TN",111,"",""
-"1314TP",141,"",""
-"1314TP",159,"",""
-"1314TP",145,"",""
-"1314TP",151,"",""
-"1314TP",143,"",""
-"1314TP",149,"",""
-"1314TP",157,"",""
-"1314TP",155,"",""
-"1314TP",163,"",""
-"1314TP",147,"",""
-"1314TP",165,"",""
-"1314TP",161,"",""
-"1314TP",153,"",""
-"1314TZ",127,"",""
-"1314TZ",101,"",""
-"1314TZ",125,"",""
-"1314TZ",117,"",""
-"1314TZ",133,"",""
-"1314TZ",131,"",""
-"1314TZ",119,"",""
-"1314TZ",121,"",""
-"1314TZ",139,"",""
-"1314TZ",105,"",""
-"1314TZ",103,"",""
-"1314TZ",141,"",""
-"1314TZ",109,"",""
-"1314TZ",107,"",""
-"1314TZ",111,"",""
-"1314TZ",129,"",""
-"1314TZ",113,"",""
-"1314TZ",137,"",""
-"1314TZ",135,"",""
-"1314TZ",115,"",""
-"1314TZ",123,"",""
-"1314VA",155,"",""
-"1314VA",169,"",""
-"1314VA",157,"",""
-"1314VA",151,"",""
-"1314VA",147,"",""
-"1314VA",171,"",""
-"1314VA",167,"",""
-"1314VA",159,"",""
-"1314VA",163,"",""
-"1314VA",149,"",""
-"1314VA",161,"",""
-"1314VA",145,"",""
-"1314VA",165,"",""
-"1314VA",143,"",""
-"1314VA",153,"",""
-"1314VB",4,"",""
-"1314VB",6,"",""
-"1314VB",10,"",""
-"1314VB",8,"",""
-"1314VB",10,"A",""
-"1314VB",2,"",""
-1314TZ,W. Dreesweg,101,,
-1314TZ,W. Dreesweg,103,,
-1314TZ,W. Dreesweg,105,,
-1314TZ,W. Dreesweg,107,,
-1314TZ,W. Dreesweg,109,,
-1314TZ,W. Dreesweg,111,,
-1314TZ,W. Dreesweg,113,,
-1314TZ,W. Dreesweg,115,,
-1314TZ,W. Dreesweg,117,,
-1314TZ,W. Dreesweg,119,,
-1314TZ,W. Dreesweg,121,,
-1314TZ,W. Dreesweg,123,,
-1314TZ,W. Dreesweg,125,,
-1314TZ,W. Dreesweg,127,,
-1314TZ,W. Dreesweg,129,,
-1314TZ,W. Dreesweg,131,,
-1314TZ,W. Dreesweg,133,,
-1314TZ,W. Dreesweg,135,,
-1314TZ,W. Dreesweg,137,,
-1314TZ,W. Dreesweg,139,,
-1314TZ,W. Dreesweg,141,,
-1314VA,W. Dreesweg,143,,
-1314VA,W. Dreesweg,145,,
-1314VA,W. Dreesweg,147,,
-1314VA,W. Dreesweg,149,,
-1314VA,W. Dreesweg,151,,
-1314VA,W. Dreesweg,153,,
-1314VA,W. Dreesweg,155,,
-1314VA,W. Dreesweg,157,,
-1314VA,W. Dreesweg,159,,
-1314VA,W. Dreesweg,161,,
-1314VA,W. Dreesweg,163,,
-1314VA,W. Dreesweg,165,,
-1314VA,W. Dreesweg,167,,
-1314VA,W. Dreesweg,169,,
-1314VA,W. Dreesweg,171,,
-1314VB,W. Dreesweg,8,,
-1314TN,S. van Houtenweg,101,,
-1314TN,S. van Houtenweg,103,,
-1314TN,S. van Houtenweg,105,,
-1314TN,S. van Houtenweg,107,,
-1314TN,S. van Houtenweg,109,,
-1314TN,S. van Houtenweg,111,,
-1314TN,S. van Houtenweg,113,,
-1314TN,S. van Houtenweg,115,,
-1314TN,S. van Houtenweg,117,,
-1314TN,S. van Houtenweg,119,,
-1314TN,S. van Houtenweg,121,,
-1314TN,S. van Houtenweg,123,,
-1314TN,S. van Houtenweg,125,,
-1314TN,S. van Houtenweg,127,,
-1314TN,S. van Houtenweg,129,,
-1314TN,S. van Houtenweg,131,,
-1314TN,S. van Houtenweg,133,,
-1314TN,S. van Houtenweg,135,,
-1314TN,S. van Houtenweg,137,,
-1314TN,S. van Houtenweg,139,,
-1314TP,S. van Houtenweg,141,,
-1314TP,S. van Houtenweg,143,,
-1314TP,S. van Houtenweg,145,,
-1314TP,S. van Houtenweg,147,,
-1314TP,S. van Houtenweg,149,,
-1314TP,S. van Houtenweg,151,,
-1314TP,S. van Houtenweg,153,,
-1314TP,S. van Houtenweg,155,,
-1314TP,S. van Houtenweg,157,,
-1314TP,S. van Houtenweg,159,,
-1314TP,S. van Houtenweg,161,,
-1314TP,S. van Houtenweg,163,,
-1314TP,S. van Houtenweg,165,,
-1314NK,P.S. Gerbrandypad,1,,
-1314NK,P.S. Gerbrandypad,2,,
-1314NK,P.S. Gerbrandypad,3,,
-1314NK,P.S. Gerbrandypad,4,,
-1314NK,P.S. Gerbrandypad,5,,
-1314NK,P.S. Gerbrandypad,6,,
-1314NK,P.S. Gerbrandypad,7,,
-1314NK,P.S. Gerbrandypad,8,,
-1314NK,P.S. Gerbrandypad,9,,
-1314NK,P.S. Gerbrandypad,10,,
-1314NK,P.S. Gerbrandypad,11,,
-1314NK,P.S. Gerbrandypad,12,,
-1314NK,P.S. Gerbrandypad,13,,
-1314NK,P.S. Gerbrandypad,14,,
-1314NK,P.S. Gerbrandypad,15,,
-1314NK,P.S. Gerbrandypad,16,,
-1314NL,P.S. Gerbrandypad,17,,
-1314NL,P.S. Gerbrandypad,18,,
-1314NL,P.S. Gerbrandypad,19,,
-1314NL,P.S. Gerbrandypad,20,,
-1314NL,P.S. Gerbrandypad,21,,
-1314NL,P.S. Gerbrandypad,22,,
-1314NL,P.S. Gerbrandypad,23,,
-1314NL,P.S. Gerbrandypad,24,,
-1314NL,P.S. Gerbrandypad,25,,
-1314NL,P.S. Gerbrandypad,26,,
-1314NL,P.S. Gerbrandypad,27,,
-1314NL,P.S. Gerbrandypad,28,,
-1314NM,P. Lieftinckstraat,1,,
-1314NM,P. Lieftinckstraat,3,,
-1314NM,P. Lieftinckstraat,5,,
-1314NM,P. Lieftinckstraat,7,,
-1314NM,P. Lieftinckstraat,9,,
-1314NM,P. Lieftinckstraat,11,,
-1314NM,P. Lieftinckstraat,13,,
-1314NM,P. Lieftinckstraat,15,,
-1314NN,P. Lieftinckstraat,17,,
-1314NN,P. Lieftinckstraat,19,,
-1314NN,P. Lieftinckstraat,21,,
-1314NN,P. Lieftinckstraat,23,,
-1314NN,P. Lieftinckstraat,25,,
-1314NN,P. Lieftinckstraat,27,,
-1314NP,P. Lieftinckstraat,4,,
-1314NP,P. Lieftinckstraat,6,,
-1314NP,P. Lieftinckstraat,8,,
-1314NP,P. Lieftinckstraat,10,,
-1314NP,P. Lieftinckstraat,12,,
-1314NP,P. Lieftinckstraat,14,,
-1314NP,P. Lieftinckstraat,16,,
-1314NP,P. Lieftinckstraat,18,,
-1314NP,P. Lieftinckstraat,20,,
-1314NP,P. Lieftinckstraat,22,,
-1314NP,P. Lieftinckstraat,24,,
-1314NP,P. Lieftinckstraat,26,,
-1314NP,P. Lieftinckstraat,28,,
-1314NP,P. Lieftinckstraat,30,,
-1314NP,P. Lieftinckstraat,32,,
-1314NP,P. Lieftinckstraat,34,,
-1314NP,P. Lieftinckstraat,36,,
-1314NP,P. Lieftinckstraat,38,,
-1314NP,P. Lieftinckstraat,40,,
-1314NP,P. Lieftinckstraat,42,,
-1314NP,P. Lieftinckstraat,44,,
-1314NP,P. Lieftinckstraat,46,,
-1314NP,P. Lieftinckstraat,48,,
-1314NP,P. Lieftinckstraat,50,,
-1314NP,P. Lieftinckstraat,52,,
-1314NE,W. Schermerhornpad,1,,
-1314NE,W. Schermerhornpad,3,,
-1314NE,W. Schermerhornpad,5,,
-1314NE,W. Schermerhornpad,7,,
-1314NE,W. Schermerhornpad,9,,
-1314NE,W. Schermerhornpad,11,,
-1314NE,W. Schermerhornpad,13,,
-1314NE,W. Schermerhornpad,15,,
-1314NE,W. Schermerhornpad,17,,
-1314NE,W. Schermerhornpad,19,,
-1314NE,W. Schermerhornpad,21,,
-1314NE,W. Schermerhornpad,23,,
-1314NE,W. Schermerhornpad,25,,
-1314NE,W. Schermerhornpad,27,,
-1314NG,W. Schermerhornpad,31,,
-1314NG,W. Schermerhornpad,33,,
-1314NG,W. Schermerhornpad,35,,
-1314NG,W. Schermerhornpad,37,,
-1314NG,W. Schermerhornpad,39,,
-1314NG,W. Schermerhornpad,41,,
-1314NG,W. Schermerhornpad,43,,
-1314NG,W. Schermerhornpad,45,,
-1314NG,W. Schermerhornpad,47,,
-1314NG,W. Schermerhornpad,49,,
-1314NG,W. Schermerhornpad,51,,
-1314NG,W. Schermerhornpad,53,,
-1314NG,W. Schermerhornpad,55,,
-1314NG,W. Schermerhornpad,57,,
-1314NG,W. Schermerhornpad,59,,
-1314NG,W. Schermerhornpad,61,,
-1314NG,W. Schermerhornpad,63,,
-1314NG,W. Schermerhornpad,65,,
-1314NG,W. Schermerhornpad,67,,
-1314NG,W. Schermerhornpad,69,,
-1314NG,W. Schermerhornpad,71,,
-1314NG,W. Schermerhornpad,73,,
-1314NG,W. Schermerhornpad,75,,
-1314NG,W. Schermerhornpad,77,,
-1314NG,W. Schermerhornpad,79,,
-1314NG,W. Schermerhornpad,81,,
-1314NG,W. Schermerhornpad,83,,
-1314NG,W. Schermerhornpad,85,,
-1314NG,W. Schermerhornpad,87,,
-1314NH,W. Schermerhornpad,2,,
-1314NH,W. Schermerhornpad,4,,
-1314NH,W. Schermerhornpad,6,,
-1314NH,W. Schermerhornpad,8,,
-1314NH,W. Schermerhornpad,10,,
-1314NH,W. Schermerhornpad,12,,
-1314NH,W. Schermerhornpad,14,,
-1314NH,W. Schermerhornpad,16,,
-1314NH,W. Schermerhornpad,18,,
-1314NH,W. Schermerhornpad,20,,
-1314NH,W. Schermerhornpad,22,,
-1314NH,W. Schermerhornpad,24,,
-1314NH,W. Schermerhornpad,26,,
-1314NH,W. Schermerhornpad,28,,
-1314NA,A. Vondelingstraat,13,,
-1314NB,A. Vondelingstraat,2,,
-1314NB,A. Vondelingstraat,4,,
-1314NB,A. Vondelingstraat,6,,
-1314NB,A. Vondelingstraat,8,,
-1314NB,A. Vondelingstraat,10,,
-1314NB,A. Vondelingstraat,12,,
-1314NB,A. Vondelingstraat,14,,
-1314NB,A. Vondelingstraat,16,,
-1314NB,A. Vondelingstraat,18,,
-1314NB,A. Vondelingstraat,20,,
-1314NB,A. Vondelingstraat,22,,
-1314NB,A. Vondelingstraat,24,,
-1314NB,A. Vondelingstraat,26,,
-1314NB,A. Vondelingstraat,28,,
-1314NC,A. Vondelingstraat,30,,
-1314NC,A. Vondelingstraat,32,,
-1314NC,A. Vondelingstraat,34,,
-1314NC,A. Vondelingstraat,36,,
-1314NC,A. Vondelingstraat,38,,
-1314NC,A. Vondelingstraat,40,,
-1314NC,A. Vondelingstraat,42,,
-1314NC,A. Vondelingstraat,44,,
-1314NC,A. Vondelingstraat,46,,
-1314NC,A. Vondelingstraat,48,,
-1314NC,A. Vondelingstraat,50,,
-1314NC,A. Vondelingstraat,52,,
-1314NC,A. Vondelingstraat,54,,
-1314NC,A. Vondelingstraat,56,,
-1314ND,A. Vondelingstraat,58,,
-1314ND,A. Vondelingstraat,60,,
-1314ND,A. Vondelingstraat,62,,
-1314ND,A. Vondelingstraat,64,,
-1314ND,A. Vondelingstraat,66,,
-1314ND,A. Vondelingstraat,68,,
-1314ND,A. Vondelingstraat,70,,
-1314ND,A. Vondelingstraat,72,,
-1314ND,A. Vondelingstraat,74,,
-1314ND,A. Vondelingstraat,76,,
-1314ND,A. Vondelingstraat,78,,
-1314ND,A. Vondelingstraat,80,,
-1314ND,A. Vondelingstraat,82,,
-1314ND,A. Vondelingstraat,84,,
-1314ND,A. Vondelingstraat,86,,
-1314ND,A. Vondelingstraat,88,,
-1314ND,A. Vondelingstraat,90,,
-1314ND,A. Vondelingstraat,92,,
-1314ND,A. Vondelingstraat,94,,
-1314ND,A. Vondelingstraat,96,,
-1314NR,J.G. Suurhoffstraat,1,,
-1314NR,J.G. Suurhoffstraat,3,,
-1314NR,J.G. Suurhoffstraat,5,,
-1314NR,J.G. Suurhoffstraat,7,,
-1314NR,J.G. Suurhoffstraat,9,,
-1314NR,J.G. Suurhoffstraat,11,,
-1314NR,J.G. Suurhoffstraat,15,,
-1314NR,J.G. Suurhoffstraat,17,,
-1314NR,J.G. Suurhoffstraat,19,,
-1314NR,J.G. Suurhoffstraat,21,,
-1314NR,J.G. Suurhoffstraat,23,,
-1314NR,J.G. Suurhoffstraat,25,,
-1314NR,J.G. Suurhoffstraat,27,,
-1314NR,J.G. Suurhoffstraat,29,,
-1314NR,J.G. Suurhoffstraat,31,,
-1314NR,J.G. Suurhoffstraat,33,,
-1314NR,J.G. Suurhoffstraat,35,,
-1314NR,J.G. Suurhoffstraat,37,,
-1314NR,J.G. Suurhoffstraat,39,,
-1314NR,J.G. Suurhoffstraat,41,,
-1314NR,J.G. Suurhoffstraat,45,,
-1314NT,J.G. Suurhoffstraat,18,,
-1314NT,J.G. Suurhoffstraat,20,,
-1314NT,J.G. Suurhoffstraat,22,,
-1314NT,J.G. Suurhoffstraat,24,,
-1314NT,J.G. Suurhoffstraat,26,,
-1314NT,J.G. Suurhoffstraat,28,,
-1314NT,J.G. Suurhoffstraat,30,,
-1314NT,J.G. Suurhoffstraat,32,,
-1314NT,J.G. Suurhoffstraat,34,,
-1314NT,J.G. Suurhoffstraat,36,,
-1314NT,J.G. Suurhoffstraat,38,,
-1314NT,J.G. Suurhoffstraat,40,,
-1314NT,J.G. Suurhoffstraat,42,,
-1314NT,J.G. Suurhoffstraat,44,,
-1314NV,J.G. Suurhoffstraat,46,,
-1314NV,J.G. Suurhoffstraat,48,,
-1314NV,J.G. Suurhoffstraat,50,,
-1314NV,J.G. Suurhoffstraat,52,,
-1314NV,J.G. Suurhoffstraat,54,,
-1314NV,J.G. Suurhoffstraat,56,,
-1314NV,J.G. Suurhoffstraat,58,,
-1314NV,J.G. Suurhoffstraat,60,,
-1314NV,J.G. Suurhoffstraat,62,,
-1314NV,J.G. Suurhoffstraat,64,,
-1314NV,J.G. Suurhoffstraat,66,,
-1314NV,J.G. Suurhoffstraat,68,,
-1314NV,J.G. Suurhoffstraat,70,,
-1314NV,J.G. Suurhoffstraat,72,,
-1314NV,J.G. Suurhoffstraat,74,,
-1314NV,J.G. Suurhoffstraat,76,,
-1314NV,J.G. Suurhoffstraat,78,,
-1314NV,J.G. Suurhoffstraat,80,,
-1314NV,J.G. Suurhoffstraat,82,,
-1314NV,J.G. Suurhoffstraat,84,,
-1314NV,J.G. Suurhoffstraat,86,,
-1314NX,J.G. Suurhoffstraat,88,,
-1314NX,J.G. Suurhoffstraat,90,,
-1314NX,J.G. Suurhoffstraat,92,,
-1314NX,J.G. Suurhoffstraat,94,,
-1314NX,J.G. Suurhoffstraat,96,,
-1314NX,J.G. Suurhoffstraat,98,,
-1314NX,J.G. Suurhoffstraat,100,,
-1314NX,J.G. Suurhoffstraat,102,,
-1314NX,J.G. Suurhoffstraat,104,,
-1314NX,J.G. Suurhoffstraat,106,,
-1314NX,J.G. Suurhoffstraat,108,,
-1314NX,J.G. Suurhoffstraat,110,,
-1314NX,J.G. Suurhoffstraat,112,,
-1314NX,J.G. Suurhoffstraat,114,,
-1314NX,J.G. Suurhoffstraat,116,,
-1314VB,W. Dreesweg,10,,
-1314NA,A. Vondelingstraat,1,,
-1314NR,J.G. Suurhoffstraat,13,,
-1314NT,J.G. Suurhoffstraat,8,,
-1314NT,J.G. Suurhoffstraat,16,,
-1314NT,J.G. Suurhoffstraat,4,,
-1314NT,J.G. Suurhoffstraat,6,,
-1314NT,J.G. Suurhoffstraat,10,,
-1314NT,J.G. Suurhoffstraat,12,,
-1314NT,J.G. Suurhoffstraat,14,,
-1314VB,W. Dreesweg,10,A,
-1314NA,A. Vondelingstraat,17,,
-1314VB,W. Dreesweg,2,,
-1314VB,W. Dreesweg,4,,
-1314VB,W. Dreesweg,6,,
-1314CC,Wisselweg,200,,
-1314CC,Wisselweg,203,,
-1314CC,Wisselweg,204,,
-1314CC,Wisselweg,205,,
-1314CC,Wisselweg,206,,
-1314CC,Wisselweg,207,,
-1314CC,Wisselweg,208,,
-1314CC,Wisselweg,209,,
-1314CC,Wisselweg,210,,
-1314CC,Wisselweg,211,,
-1314CC,Wisselweg,212,,
-1314CC,Wisselweg,213,,
-1314CC,Wisselweg,214,,
-1314CC,Wisselweg,215,,
-1314CC,Wisselweg,216,,
-1314CC,Wisselweg,217,,
-1314CC,Wisselweg,218,,
-1314CC,Wisselweg,219,,
-1314CC,Wisselweg,220,,
-1314CC,Wisselweg,221,,
-1314CC,Wisselweg,222,,
-1314CC,Wisselweg,223,,
-1314CC,Wisselweg,224,,
-1314CC,Wisselweg,225,,
-1314CC,Wisselweg,226,,
-1314CC,Wisselweg,227,,
-1314CC,Wisselweg,228,,
-1314CC,Wisselweg,229,,
-1314CC,Wisselweg,230,,
-1314CC,Wisselweg,231,,
-1314CC,Wisselweg,232,,
-1314CC,Wisselweg,233,,
-1314CC,Wisselweg,234,,
-1314CC,Wisselweg,235,,
-1314CC,Wisselweg,236,,
-1314CC,Wisselweg,237,,
-1314CC,Wisselweg,238,,
-1314CC,Wisselweg,239,,
-1314CC,Wisselweg,240,,
-1314CC,Wisselweg,241,,
-1314CC,Wisselweg,242,,
-1314CC,Wisselweg,243,,
-1314CC,Wisselweg,244,,
-1314CC,Wisselweg,245,,
-1314CC,Wisselweg,246,,
-1314CC,Wisselweg,247,,
-1314CC,Wisselweg,248,,
-1314CC,Wisselweg,249,,
-1314CC,Wisselweg,250,,
-1314CC,Wisselweg,251,,
-1314CC,Wisselweg,252,,
-1314CC,Wisselweg,253,,
-1314CC,Wisselweg,254,,
-1314CC,Wisselweg,255,,
-1314CC,Wisselweg,256,,
-1314CC,Wisselweg,257,,
-1314CC,Wisselweg,258,,
-1314CC,Wisselweg,259,,
-1314CC,Wisselweg,260,,
-1314CC,Wisselweg,261,,
-1314CC,Wisselweg,262,,
-1314CC,Wisselweg,263,,
-1314CC,Wisselweg,264,,
-1314CC,Wisselweg,267,,
-1314CC,Wisselweg,268,,
-1314CC,Wisselweg,269,,
-1314CC,Wisselweg,270,,
-1314CC,Wisselweg,271,,
-1314CC,Wisselweg,272,,
-1314CC,Wisselweg,273,,
-1314CC,Wisselweg,274,,
-1314CC,Wisselweg,275,,
-1314CC,Wisselweg,276,,
-1314CC,Wisselweg,277,,
-1314CC,Wisselweg,278,,
-1314CC,Wisselweg,279,,
-1314CC,Wisselweg,280,,
-1314CC,Wisselweg,281,,
-1314CC,Wisselweg,282,,
-1314CC,Wisselweg,283,,
-1314CC,Wisselweg,284,,
-1314CC,Wisselweg,285,,
-1314CC,Wisselweg,286,,
-1314CC,Wisselweg,287,,
-1314CC,Wisselweg,288,,
-1314CC,Wisselweg,289,,
-1314CC,Wisselweg,290,,
-1314CC,Wisselweg,291,,
-1314CC,Wisselweg,292,,
-1314CC,Wisselweg,293,,
-1314CC,Wisselweg,294,,
-1314CC,Wisselweg,295,,
-1314CC,Wisselweg,296,,
-1314CC,Wisselweg,297,,
-1314CC,Wisselweg,298,,
-1314CC,Wisselweg,299,,
-1314CC,Wisselweg,300,,
-1314CC,Wisselweg,301,,
-1314CC,Wisselweg,302,,
-1314CC,Wisselweg,265,,
-1314CC,Wisselweg,303,,
-1314CC,Wisselweg,151,,
-1314CC,Wisselweg,155,,
-1314CC,Wisselweg,156,,
-1314CC,Wisselweg,157,,
-1314CC,Wisselweg,158,,
-1314CC,Wisselweg,159,,
-1314NT,J.G. Suurhoffstraat,2,,
-1314VB,W. Dreesweg,8,,
-1314VB,W. Dreesweg,8,A,
-1314VB,W. Dreesweg,8,B,
-1314VB,W. Dreesweg,8,C,
-1314VB,W. Dreesweg,8,D,
-1314VB,W. Dreesweg,8,E,
-1314VB,W. Dreesweg,8,F,
-1314VB,W. Dreesweg,8,G,
-1314VB,W. Dreesweg,8,H,
-1314VB,W. Dreesweg,8,J,
-1314VB,W. Dreesweg,8,K,
-1314VB,W. Dreesweg,8,L,
-1314VB,W. Dreesweg,8,M,
-1314VB,W. Dreesweg,8,N,
-1314VB,W. Dreesweg,8,P,
-1314VB,W. Dreesweg,8,Q,
-1314VB,W. Dreesweg,8,R,
-1314VB,W. Dreesweg,8,S,
-1314VB,W. Dreesweg,8,T,
-1314VB,W. Dreesweg,8,U,
-1314VB,W. Dreesweg,8,V,
-1314VB,W. Dreesweg,8,W,
-1314VB,W. Dreesweg,8,X,
-1314VB,W. Dreesweg,8,Y,
-1314VB,W. Dreesweg,8,Z,
-1314VB,W. Dreesweg,8,Z,1
-1314VB,W. Dreesweg,8,Z,2
-1314VB,W. Dreesweg,10,A,
-1314VB,W. Dreesweg,10,B,
-1314VB,W. Dreesweg,10,C,
-1314VB,W. Dreesweg,10,D,
-1314VB,W. Dreesweg,10,E,
-1314VB,W. Dreesweg,10,F,
-1314VB,W. Dreesweg,10,G,
-1314VB,W. Dreesweg,10,H,
-1314VB,W. Dreesweg,10,J,
-1314VB,W. Dreesweg,10,K,
-1314VB,W. Dreesweg,10,L,
-1314VB,W. Dreesweg,10,M,
-1314VB,W. Dreesweg,10,N,
-1314VB,W. Dreesweg,10,P,
-1314VB,W. Dreesweg,10,Q,
-1314VB,W. Dreesweg,10,R,
-1314VB,W. Dreesweg,10,S,
-1314VB,W. Dreesweg,10,T,
-1314VB,W. Dreesweg,10,U,
-1314VB,W. Dreesweg,10,V,
-1314VB,W. Dreesweg,10,W,
-1314VB,W. Dreesweg,10,X,
-1314VB,W. Dreesweg,10,Y,
-1314VB,W. Dreesweg,10,Z,
-1314VB,W. Dreesweg,12,A,
-1314VB,W. Dreesweg,12,B,
-1314VB,W. Dreesweg,12,C,
-1314VB,W. Dreesweg,12,D,
-1314VB,W. Dreesweg,12,E,
-1314VB,W. Dreesweg,12,F,
-1314VB,W. Dreesweg,12,G,
-1314VB,W. Dreesweg,12,H,
-1314VB,W. Dreesweg,12,J,
-1314VB,W. Dreesweg,12,K,
-1314VB,W. Dreesweg,12,L,
-1314VB,W. Dreesweg,12,P,
-1314VB,W. Dreesweg,12,M,
-1314VB,W. Dreesweg,12,N,
-1314VB,W. Dreesweg,12,R,
-1314CC,Wisselweg,150,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Wisselweg,150,"","",1314CC,Almere
+Wisselweg,151,"","",1314CC,Almere
+Wisselweg,155,"","",1314CC,Almere
+Wisselweg,156,"","",1314CC,Almere
+Wisselweg,157,"","",1314CC,Almere
+Wisselweg,158,"","",1314CC,Almere
+Wisselweg,159,"","",1314CC,Almere
+Wisselweg,200,"","",1314CC,Almere
+Wisselweg,203,"","",1314CC,Almere
+Wisselweg,203,"","",1314CC,Almere
+Wisselweg,204,"","",1314CC,Almere
+Wisselweg,205,"","",1314CC,Almere
+Wisselweg,206,"","",1314CC,Almere
+Wisselweg,207,"","",1314CC,Almere
+Wisselweg,208,"","",1314CC,Almere
+Wisselweg,209,"","",1314CC,Almere
+Wisselweg,210,"","",1314CC,Almere
+Wisselweg,211,"","",1314CC,Almere
+Wisselweg,212,"","",1314CC,Almere
+Wisselweg,213,"","",1314CC,Almere
+Wisselweg,214,"","",1314CC,Almere
+Wisselweg,215,"","",1314CC,Almere
+Wisselweg,216,"","",1314CC,Almere
+Wisselweg,217,"","",1314CC,Almere
+Wisselweg,218,"","",1314CC,Almere
+Wisselweg,219,"","",1314CC,Almere
+Wisselweg,220,"","",1314CC,Almere
+Wisselweg,221,"","",1314CC,Almere
+Wisselweg,222,"","",1314CC,Almere
+Wisselweg,223,"","",1314CC,Almere
+Wisselweg,224,"","",1314CC,Almere
+Wisselweg,225,"","",1314CC,Almere
+Wisselweg,226,"","",1314CC,Almere
+Wisselweg,227,"","",1314CC,Almere
+Wisselweg,228,"","",1314CC,Almere
+Wisselweg,229,"","",1314CC,Almere
+Wisselweg,230,"","",1314CC,Almere
+Wisselweg,231,"","",1314CC,Almere
+Wisselweg,232,"","",1314CC,Almere
+Wisselweg,233,"","",1314CC,Almere
+Wisselweg,234,"","",1314CC,Almere
+Wisselweg,235,"","",1314CC,Almere
+Wisselweg,236,"","",1314CC,Almere
+Wisselweg,237,"","",1314CC,Almere
+Wisselweg,238,"","",1314CC,Almere
+Wisselweg,239,"","",1314CC,Almere
+Wisselweg,240,"","",1314CC,Almere
+Wisselweg,241,"","",1314CC,Almere
+Wisselweg,242,"","",1314CC,Almere
+Wisselweg,243,"","",1314CC,Almere
+Wisselweg,244,"","",1314CC,Almere
+Wisselweg,245,"","",1314CC,Almere
+Wisselweg,246,"","",1314CC,Almere
+Wisselweg,247,"","",1314CC,Almere
+Wisselweg,248,"","",1314CC,Almere
+Wisselweg,249,"","",1314CC,Almere
+Wisselweg,250,"","",1314CC,Almere
+Wisselweg,251,"","",1314CC,Almere
+Wisselweg,252,"","",1314CC,Almere
+Wisselweg,253,"","",1314CC,Almere
+Wisselweg,254,"","",1314CC,Almere
+Wisselweg,255,"","",1314CC,Almere
+Wisselweg,256,"","",1314CC,Almere
+Wisselweg,257,"","",1314CC,Almere
+Wisselweg,258,"","",1314CC,Almere
+Wisselweg,259,"","",1314CC,Almere
+Wisselweg,260,"","",1314CC,Almere
+Wisselweg,261,"","",1314CC,Almere
+Wisselweg,262,"","",1314CC,Almere
+Wisselweg,263,"","",1314CC,Almere
+Wisselweg,264,"","",1314CC,Almere
+Wisselweg,265,"","",1314CC,Almere
+Wisselweg,267,"","",1314CC,Almere
+Wisselweg,268,"","",1314CC,Almere
+Wisselweg,269,"","",1314CC,Almere
+Wisselweg,270,"","",1314CC,Almere
+Wisselweg,271,"","",1314CC,Almere
+Wisselweg,272,"","",1314CC,Almere
+Wisselweg,273,"","",1314CC,Almere
+Wisselweg,274,"","",1314CC,Almere
+Wisselweg,275,"","",1314CC,Almere
+Wisselweg,276,"","",1314CC,Almere
+Wisselweg,277,"","",1314CC,Almere
+Wisselweg,278,"","",1314CC,Almere
+Wisselweg,279,"","",1314CC,Almere
+Wisselweg,280,"","",1314CC,Almere
+Wisselweg,281,"","",1314CC,Almere
+Wisselweg,282,"","",1314CC,Almere
+Wisselweg,283,"","",1314CC,Almere
+Wisselweg,284,"","",1314CC,Almere
+Wisselweg,285,"","",1314CC,Almere
+Wisselweg,286,"","",1314CC,Almere
+Wisselweg,287,"","",1314CC,Almere
+Wisselweg,288,"","",1314CC,Almere
+Wisselweg,289,"","",1314CC,Almere
+Wisselweg,290,"","",1314CC,Almere
+Wisselweg,291,"","",1314CC,Almere
+Wisselweg,292,"","",1314CC,Almere
+Wisselweg,293,"","",1314CC,Almere
+Wisselweg,294,"","",1314CC,Almere
+Wisselweg,295,"","",1314CC,Almere
+Wisselweg,296,"","",1314CC,Almere
+Wisselweg,297,"","",1314CC,Almere
+Wisselweg,298,"","",1314CC,Almere
+Wisselweg,299,"","",1314CC,Almere
+Wisselweg,300,"","",1314CC,Almere
+Wisselweg,301,"","",1314CC,Almere
+Wisselweg,302,"","",1314CC,Almere
+Wisselweg,303,"","",1314CC,Almere
+A. Vondelingstraat,1,"","",1314NA,Almere
+A. Vondelingstraat,13,"","",1314NA,Almere
+A. Vondelingstraat,17,"","",1314NA,Almere
+A. Vondelingstraat,10,"","",1314NB,Almere
+A. Vondelingstraat,12,"","",1314NB,Almere
+A. Vondelingstraat,14,"","",1314NB,Almere
+A. Vondelingstraat,16,"","",1314NB,Almere
+A. Vondelingstraat,18,"","",1314NB,Almere
+A. Vondelingstraat,2,"","",1314NB,Almere
+A. Vondelingstraat,20,"","",1314NB,Almere
+A. Vondelingstraat,22,"","",1314NB,Almere
+A. Vondelingstraat,24,"","",1314NB,Almere
+A. Vondelingstraat,26,"","",1314NB,Almere
+A. Vondelingstraat,28,"","",1314NB,Almere
+A. Vondelingstraat,4,"","",1314NB,Almere
+A. Vondelingstraat,6,"","",1314NB,Almere
+A. Vondelingstraat,8,"","",1314NB,Almere
+A. Vondelingstraat,30,"","",1314NC,Almere
+A. Vondelingstraat,32,"","",1314NC,Almere
+A. Vondelingstraat,34,"","",1314NC,Almere
+A. Vondelingstraat,36,"","",1314NC,Almere
+A. Vondelingstraat,38,"","",1314NC,Almere
+A. Vondelingstraat,40,"","",1314NC,Almere
+A. Vondelingstraat,42,"","",1314NC,Almere
+A. Vondelingstraat,44,"","",1314NC,Almere
+A. Vondelingstraat,46,"","",1314NC,Almere
+A. Vondelingstraat,48,"","",1314NC,Almere
+A. Vondelingstraat,50,"","",1314NC,Almere
+A. Vondelingstraat,52,"","",1314NC,Almere
+A. Vondelingstraat,54,"","",1314NC,Almere
+A. Vondelingstraat,56,"","",1314NC,Almere
+A. Vondelingstraat,58,"","",1314ND,Almere
+A. Vondelingstraat,60,"","",1314ND,Almere
+A. Vondelingstraat,62,"","",1314ND,Almere
+A. Vondelingstraat,64,"","",1314ND,Almere
+A. Vondelingstraat,66,"","",1314ND,Almere
+A. Vondelingstraat,68,"","",1314ND,Almere
+A. Vondelingstraat,70,"","",1314ND,Almere
+A. Vondelingstraat,72,"","",1314ND,Almere
+A. Vondelingstraat,74,"","",1314ND,Almere
+A. Vondelingstraat,76,"","",1314ND,Almere
+A. Vondelingstraat,78,"","",1314ND,Almere
+A. Vondelingstraat,80,"","",1314ND,Almere
+A. Vondelingstraat,82,"","",1314ND,Almere
+A. Vondelingstraat,84,"","",1314ND,Almere
+A. Vondelingstraat,86,"","",1314ND,Almere
+A. Vondelingstraat,88,"","",1314ND,Almere
+A. Vondelingstraat,90,"","",1314ND,Almere
+A. Vondelingstraat,92,"","",1314ND,Almere
+A. Vondelingstraat,94,"","",1314ND,Almere
+A. Vondelingstraat,96,"","",1314ND,Almere
+W. Schermerhornpad,1,"","",1314NE,Almere
+W. Schermerhornpad,11,"","",1314NE,Almere
+W. Schermerhornpad,13,"","",1314NE,Almere
+W. Schermerhornpad,15,"","",1314NE,Almere
+W. Schermerhornpad,17,"","",1314NE,Almere
+W. Schermerhornpad,19,"","",1314NE,Almere
+W. Schermerhornpad,21,"","",1314NE,Almere
+W. Schermerhornpad,23,"","",1314NE,Almere
+W. Schermerhornpad,25,"","",1314NE,Almere
+W. Schermerhornpad,27,"","",1314NE,Almere
+W. Schermerhornpad,3,"","",1314NE,Almere
+W. Schermerhornpad,5,"","",1314NE,Almere
+W. Schermerhornpad,7,"","",1314NE,Almere
+W. Schermerhornpad,9,"","",1314NE,Almere
+W. Schermerhornpad,31,"","",1314NG,Almere
+W. Schermerhornpad,33,"","",1314NG,Almere
+W. Schermerhornpad,35,"","",1314NG,Almere
+W. Schermerhornpad,37,"","",1314NG,Almere
+W. Schermerhornpad,39,"","",1314NG,Almere
+W. Schermerhornpad,41,"","",1314NG,Almere
+W. Schermerhornpad,43,"","",1314NG,Almere
+W. Schermerhornpad,45,"","",1314NG,Almere
+W. Schermerhornpad,47,"","",1314NG,Almere
+W. Schermerhornpad,49,"","",1314NG,Almere
+W. Schermerhornpad,51,"","",1314NG,Almere
+W. Schermerhornpad,53,"","",1314NG,Almere
+W. Schermerhornpad,55,"","",1314NG,Almere
+W. Schermerhornpad,57,"","",1314NG,Almere
+W. Schermerhornpad,59,"","",1314NG,Almere
+W. Schermerhornpad,61,"","",1314NG,Almere
+W. Schermerhornpad,63,"","",1314NG,Almere
+W. Schermerhornpad,65,"","",1314NG,Almere
+W. Schermerhornpad,67,"","",1314NG,Almere
+W. Schermerhornpad,69,"","",1314NG,Almere
+W. Schermerhornpad,71,"","",1314NG,Almere
+W. Schermerhornpad,73,"","",1314NG,Almere
+W. Schermerhornpad,75,"","",1314NG,Almere
+W. Schermerhornpad,77,"","",1314NG,Almere
+W. Schermerhornpad,79,"","",1314NG,Almere
+W. Schermerhornpad,81,"","",1314NG,Almere
+W. Schermerhornpad,83,"","",1314NG,Almere
+W. Schermerhornpad,85,"","",1314NG,Almere
+W. Schermerhornpad,87,"","",1314NG,Almere
+W. Schermerhornpad,10,"","",1314NH,Almere
+W. Schermerhornpad,12,"","",1314NH,Almere
+W. Schermerhornpad,14,"","",1314NH,Almere
+W. Schermerhornpad,16,"","",1314NH,Almere
+W. Schermerhornpad,18,"","",1314NH,Almere
+W. Schermerhornpad,2,"","",1314NH,Almere
+W. Schermerhornpad,20,"","",1314NH,Almere
+W. Schermerhornpad,22,"","",1314NH,Almere
+W. Schermerhornpad,24,"","",1314NH,Almere
+W. Schermerhornpad,26,"","",1314NH,Almere
+W. Schermerhornpad,28,"","",1314NH,Almere
+W. Schermerhornpad,4,"","",1314NH,Almere
+W. Schermerhornpad,6,"","",1314NH,Almere
+W. Schermerhornpad,8,"","",1314NH,Almere
+P.S. Gerbrandypad,1,"","",1314NK,Almere
+P.S. Gerbrandypad,10,"","",1314NK,Almere
+P.S. Gerbrandypad,11,"","",1314NK,Almere
+P.S. Gerbrandypad,12,"","",1314NK,Almere
+P.S. Gerbrandypad,13,"","",1314NK,Almere
+P.S. Gerbrandypad,14,"","",1314NK,Almere
+P.S. Gerbrandypad,15,"","",1314NK,Almere
+P.S. Gerbrandypad,16,"","",1314NK,Almere
+P.S. Gerbrandypad,2,"","",1314NK,Almere
+P.S. Gerbrandypad,3,"","",1314NK,Almere
+P.S. Gerbrandypad,4,"","",1314NK,Almere
+P.S. Gerbrandypad,5,"","",1314NK,Almere
+P.S. Gerbrandypad,6,"","",1314NK,Almere
+P.S. Gerbrandypad,7,"","",1314NK,Almere
+P.S. Gerbrandypad,8,"","",1314NK,Almere
+P.S. Gerbrandypad,9,"","",1314NK,Almere
+P.S. Gerbrandypad,17,"","",1314NL,Almere
+P.S. Gerbrandypad,18,"","",1314NL,Almere
+P.S. Gerbrandypad,19,"","",1314NL,Almere
+P.S. Gerbrandypad,20,"","",1314NL,Almere
+P.S. Gerbrandypad,21,"","",1314NL,Almere
+P.S. Gerbrandypad,22,"","",1314NL,Almere
+P.S. Gerbrandypad,23,"","",1314NL,Almere
+P.S. Gerbrandypad,24,"","",1314NL,Almere
+P.S. Gerbrandypad,25,"","",1314NL,Almere
+P.S. Gerbrandypad,26,"","",1314NL,Almere
+P.S. Gerbrandypad,27,"","",1314NL,Almere
+P.S. Gerbrandypad,28,"","",1314NL,Almere
+P. Lieftinckstraat,1,"","",1314NM,Almere
+P. Lieftinckstraat,11,"","",1314NM,Almere
+P. Lieftinckstraat,13,"","",1314NM,Almere
+P. Lieftinckstraat,15,"","",1314NM,Almere
+P. Lieftinckstraat,3,"","",1314NM,Almere
+P. Lieftinckstraat,5,"","",1314NM,Almere
+P. Lieftinckstraat,7,"","",1314NM,Almere
+P. Lieftinckstraat,9,"","",1314NM,Almere
+P. Lieftinckstraat,17,"","",1314NN,Almere
+P. Lieftinckstraat,19,"","",1314NN,Almere
+P. Lieftinckstraat,21,"","",1314NN,Almere
+P. Lieftinckstraat,23,"","",1314NN,Almere
+P. Lieftinckstraat,25,"","",1314NN,Almere
+P. Lieftinckstraat,27,"","",1314NN,Almere
+P. Lieftinckstraat,10,"","",1314NP,Almere
+P. Lieftinckstraat,12,"","",1314NP,Almere
+P. Lieftinckstraat,14,"","",1314NP,Almere
+P. Lieftinckstraat,16,"","",1314NP,Almere
+P. Lieftinckstraat,18,"","",1314NP,Almere
+P. Lieftinckstraat,20,"","",1314NP,Almere
+P. Lieftinckstraat,22,"","",1314NP,Almere
+P. Lieftinckstraat,24,"","",1314NP,Almere
+P. Lieftinckstraat,26,"","",1314NP,Almere
+P. Lieftinckstraat,28,"","",1314NP,Almere
+P. Lieftinckstraat,30,"","",1314NP,Almere
+P. Lieftinckstraat,32,"","",1314NP,Almere
+P. Lieftinckstraat,34,"","",1314NP,Almere
+P. Lieftinckstraat,36,"","",1314NP,Almere
+P. Lieftinckstraat,38,"","",1314NP,Almere
+P. Lieftinckstraat,4,"","",1314NP,Almere
+P. Lieftinckstraat,40,"","",1314NP,Almere
+P. Lieftinckstraat,42,"","",1314NP,Almere
+P. Lieftinckstraat,44,"","",1314NP,Almere
+P. Lieftinckstraat,46,"","",1314NP,Almere
+P. Lieftinckstraat,48,"","",1314NP,Almere
+P. Lieftinckstraat,50,"","",1314NP,Almere
+P. Lieftinckstraat,52,"","",1314NP,Almere
+P. Lieftinckstraat,6,"","",1314NP,Almere
+P. Lieftinckstraat,8,"","",1314NP,Almere
+J.G. Suurhoffstraat,1,"","",1314NR,Almere
+J.G. Suurhoffstraat,11,"","",1314NR,Almere
+J.G. Suurhoffstraat,13,"","",1314NR,Almere
+J.G. Suurhoffstraat,15,"","",1314NR,Almere
+J.G. Suurhoffstraat,17,"","",1314NR,Almere
+J.G. Suurhoffstraat,19,"","",1314NR,Almere
+J.G. Suurhoffstraat,21,"","",1314NR,Almere
+J.G. Suurhoffstraat,23,"","",1314NR,Almere
+J.G. Suurhoffstraat,25,"","",1314NR,Almere
+J.G. Suurhoffstraat,27,"","",1314NR,Almere
+J.G. Suurhoffstraat,29,"","",1314NR,Almere
+J.G. Suurhoffstraat,3,"","",1314NR,Almere
+J.G. Suurhoffstraat,31,"","",1314NR,Almere
+J.G. Suurhoffstraat,33,"","",1314NR,Almere
+J.G. Suurhoffstraat,35,"","",1314NR,Almere
+J.G. Suurhoffstraat,37,"","",1314NR,Almere
+J.G. Suurhoffstraat,39,"","",1314NR,Almere
+J.G. Suurhoffstraat,41,"","",1314NR,Almere
+J.G. Suurhoffstraat,45,"","",1314NR,Almere
+J.G. Suurhoffstraat,5,"","",1314NR,Almere
+J.G. Suurhoffstraat,7,"","",1314NR,Almere
+J.G. Suurhoffstraat,9,"","",1314NR,Almere
+J.G. Suurhoffstraat,10,"","",1314NT,Almere
+J.G. Suurhoffstraat,12,"","",1314NT,Almere
+J.G. Suurhoffstraat,14,"","",1314NT,Almere
+J.G. Suurhoffstraat,16,"","",1314NT,Almere
+J.G. Suurhoffstraat,18,"","",1314NT,Almere
+J.G. Suurhoffstraat,2,"","",1314NT,Almere
+J.G. Suurhoffstraat,20,"","",1314NT,Almere
+J.G. Suurhoffstraat,22,"","",1314NT,Almere
+J.G. Suurhoffstraat,24,"","",1314NT,Almere
+J.G. Suurhoffstraat,26,"","",1314NT,Almere
+J.G. Suurhoffstraat,28,"","",1314NT,Almere
+J.G. Suurhoffstraat,30,"","",1314NT,Almere
+J.G. Suurhoffstraat,32,"","",1314NT,Almere
+J.G. Suurhoffstraat,34,"","",1314NT,Almere
+J.G. Suurhoffstraat,36,"","",1314NT,Almere
+J.G. Suurhoffstraat,38,"","",1314NT,Almere
+J.G. Suurhoffstraat,4,"","",1314NT,Almere
+J.G. Suurhoffstraat,40,"","",1314NT,Almere
+J.G. Suurhoffstraat,42,"","",1314NT,Almere
+J.G. Suurhoffstraat,44,"","",1314NT,Almere
+J.G. Suurhoffstraat,6,"","",1314NT,Almere
+J.G. Suurhoffstraat,8,"","",1314NT,Almere
+J.G. Suurhoffstraat,46,"","",1314NV,Almere
+J.G. Suurhoffstraat,48,"","",1314NV,Almere
+J.G. Suurhoffstraat,50,"","",1314NV,Almere
+J.G. Suurhoffstraat,52,"","",1314NV,Almere
+J.G. Suurhoffstraat,54,"","",1314NV,Almere
+J.G. Suurhoffstraat,56,"","",1314NV,Almere
+J.G. Suurhoffstraat,58,"","",1314NV,Almere
+J.G. Suurhoffstraat,60,"","",1314NV,Almere
+J.G. Suurhoffstraat,62,"","",1314NV,Almere
+J.G. Suurhoffstraat,64,"","",1314NV,Almere
+J.G. Suurhoffstraat,66,"","",1314NV,Almere
+J.G. Suurhoffstraat,68,"","",1314NV,Almere
+J.G. Suurhoffstraat,70,"","",1314NV,Almere
+J.G. Suurhoffstraat,72,"","",1314NV,Almere
+J.G. Suurhoffstraat,74,"","",1314NV,Almere
+J.G. Suurhoffstraat,76,"","",1314NV,Almere
+J.G. Suurhoffstraat,78,"","",1314NV,Almere
+J.G. Suurhoffstraat,80,"","",1314NV,Almere
+J.G. Suurhoffstraat,82,"","",1314NV,Almere
+J.G. Suurhoffstraat,84,"","",1314NV,Almere
+J.G. Suurhoffstraat,86,"","",1314NV,Almere
+J.G. Suurhoffstraat,100,"","",1314NX,Almere
+J.G. Suurhoffstraat,102,"","",1314NX,Almere
+J.G. Suurhoffstraat,104,"","",1314NX,Almere
+J.G. Suurhoffstraat,106,"","",1314NX,Almere
+J.G. Suurhoffstraat,108,"","",1314NX,Almere
+J.G. Suurhoffstraat,110,"","",1314NX,Almere
+J.G. Suurhoffstraat,112,"","",1314NX,Almere
+J.G. Suurhoffstraat,114,"","",1314NX,Almere
+J.G. Suurhoffstraat,116,"","",1314NX,Almere
+J.G. Suurhoffstraat,88,"","",1314NX,Almere
+J.G. Suurhoffstraat,90,"","",1314NX,Almere
+J.G. Suurhoffstraat,92,"","",1314NX,Almere
+J.G. Suurhoffstraat,94,"","",1314NX,Almere
+J.G. Suurhoffstraat,96,"","",1314NX,Almere
+J.G. Suurhoffstraat,98,"","",1314NX,Almere
+S. van Houtenweg,101,"","",1314TN,Almere
+S. van Houtenweg,103,"","",1314TN,Almere
+S. van Houtenweg,105,"","",1314TN,Almere
+S. van Houtenweg,107,"","",1314TN,Almere
+S. van Houtenweg,109,"","",1314TN,Almere
+S. van Houtenweg,111,"","",1314TN,Almere
+S. van Houtenweg,113,"","",1314TN,Almere
+S. van Houtenweg,115,"","",1314TN,Almere
+S. van Houtenweg,117,"","",1314TN,Almere
+S. van Houtenweg,119,"","",1314TN,Almere
+S. van Houtenweg,121,"","",1314TN,Almere
+S. van Houtenweg,123,"","",1314TN,Almere
+S. van Houtenweg,125,"","",1314TN,Almere
+S. van Houtenweg,127,"","",1314TN,Almere
+S. van Houtenweg,129,"","",1314TN,Almere
+S. van Houtenweg,131,"","",1314TN,Almere
+S. van Houtenweg,133,"","",1314TN,Almere
+S. van Houtenweg,135,"","",1314TN,Almere
+S. van Houtenweg,137,"","",1314TN,Almere
+S. van Houtenweg,139,"","",1314TN,Almere
+S. van Houtenweg,141,"","",1314TP,Almere
+S. van Houtenweg,143,"","",1314TP,Almere
+S. van Houtenweg,145,"","",1314TP,Almere
+S. van Houtenweg,147,"","",1314TP,Almere
+S. van Houtenweg,149,"","",1314TP,Almere
+S. van Houtenweg,151,"","",1314TP,Almere
+S. van Houtenweg,153,"","",1314TP,Almere
+S. van Houtenweg,155,"","",1314TP,Almere
+S. van Houtenweg,157,"","",1314TP,Almere
+S. van Houtenweg,159,"","",1314TP,Almere
+S. van Houtenweg,161,"","",1314TP,Almere
+S. van Houtenweg,163,"","",1314TP,Almere
+S. van Houtenweg,165,"","",1314TP,Almere
+W. Dreesweg,101,"","",1314TZ,Almere
+W. Dreesweg,103,"","",1314TZ,Almere
+W. Dreesweg,105,"","",1314TZ,Almere
+W. Dreesweg,107,"","",1314TZ,Almere
+W. Dreesweg,109,"","",1314TZ,Almere
+W. Dreesweg,111,"","",1314TZ,Almere
+W. Dreesweg,113,"","",1314TZ,Almere
+W. Dreesweg,115,"","",1314TZ,Almere
+W. Dreesweg,117,"","",1314TZ,Almere
+W. Dreesweg,119,"","",1314TZ,Almere
+W. Dreesweg,121,"","",1314TZ,Almere
+W. Dreesweg,123,"","",1314TZ,Almere
+W. Dreesweg,125,"","",1314TZ,Almere
+W. Dreesweg,127,"","",1314TZ,Almere
+W. Dreesweg,129,"","",1314TZ,Almere
+W. Dreesweg,131,"","",1314TZ,Almere
+W. Dreesweg,133,"","",1314TZ,Almere
+W. Dreesweg,135,"","",1314TZ,Almere
+W. Dreesweg,137,"","",1314TZ,Almere
+W. Dreesweg,139,"","",1314TZ,Almere
+W. Dreesweg,141,"","",1314TZ,Almere
+W. Dreesweg,143,"","",1314VA,Almere
+W. Dreesweg,145,"","",1314VA,Almere
+W. Dreesweg,147,"","",1314VA,Almere
+W. Dreesweg,149,"","",1314VA,Almere
+W. Dreesweg,151,"","",1314VA,Almere
+W. Dreesweg,153,"","",1314VA,Almere
+W. Dreesweg,155,"","",1314VA,Almere
+W. Dreesweg,157,"","",1314VA,Almere
+W. Dreesweg,159,"","",1314VA,Almere
+W. Dreesweg,161,"","",1314VA,Almere
+W. Dreesweg,163,"","",1314VA,Almere
+W. Dreesweg,165,"","",1314VA,Almere
+W. Dreesweg,167,"","",1314VA,Almere
+W. Dreesweg,169,"","",1314VA,Almere
+W. Dreesweg,171,"","",1314VA,Almere
+W. Dreesweg,10,"","",1314VB,Almere
+W. Dreesweg,10,A,"",1314VB,Almere
+W. Dreesweg,2,"","",1314VB,Almere
+W. Dreesweg,4,"","",1314VB,Almere
+W. Dreesweg,6,"","",1314VB,Almere
+W. Dreesweg,8,"","",1314VB,Almere

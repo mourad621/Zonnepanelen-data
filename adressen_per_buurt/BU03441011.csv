@@ -1,81 +1,81 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3451SW,Smalle Themaat,15,,
-3451SW,Smalle Themaat,17,,
-3451SW,Smalle Themaat,20,,
-3451SW,Smalle Themaat,22,,
-3451SW,Smalle Themaat,22,B,
-3451SW,Smalle Themaat,24,,
-3451SW,Smalle Themaat,28,,
-3451SW,Smalle Themaat,24,A,
-3455SN,Thematerweg,2,,
-3455SN,Thematerweg,4,,
-3455SN,Thematerweg,6,,
-3455SN,Thematerweg,8,,
-3455SN,Thematerweg,10,,
-3455SN,Thematerweg,12,A,
-3455SN,Thematerweg,12,B,
-3455SN,Thematerweg,14,A,
-3455SN,Thematerweg,16,,
-3455SN,Thematerweg,4,B,
-3451SW,Smalle Themaat,34,,
-3451SW,Smalle Themaat,17,A,
-3455SN,Thematerweg,16,A,
-3451SW,Smalle Themaat,42,,
-3451SW,Smalle Themaat,21,,
-3451SW,Smalle Themaat,22,A,
-3451SW,Smalle Themaat,26,,
-3455SN,Thematerweg,18,,
-3455SN,Thematerweg,4,A,
-3455SN,Thematerweg,12,,
-3455SN,Thematerweg,14,,
-3455SN,Thematerweg,16,C,
-3455SN,Thematerweg,16,D,
-3543MB,De Heldinnenlaan,200,,
-3543MB,De Heldinnenlaan,200,,
-3543MD,Marga Klompésingel,101,,
-3543MD,Marga Klompésingel,101,,
-3543MB,Ien Dalessingel,101,,
-3543MD,Ien Dalessingel,101,,
-3455SN,Thematerweg,10,K,
-3455SN,Thematerweg,8,A,
-3543MA,Strandboulevard,222,,
-3543MB,De Heldinnenlaan,199,,
-3455SN,Thematerweg,10,A,
-3455SN,Thematerweg,10,B,
-3455SN,Thematerweg,10,C,
-3455SN,Thematerweg,10,D,
-3543MB,De Heldinnenlaan,193,,
-3543MB,De Heldinnenlaan,2,,
-3543MB,De Heldinnenlaan,1,,
-3455SN,Thematerweg,6,A,
-3543MB,De Heldinnenlaan,215,,
-3543MB,De Heldinnenlaan,205,,
-3543MB,De Heldinnenlaan,7,,
-3543MB,De Heldinnenlaan,6,,
-3543MB,De Heldinnenlaan,204,,
-3543WB,Kate ter Horstsingel,3,,
-3543MB,De Heldinnenlaan,211,A,
-3543MB,De Heldinnenlaan,211,B,
-3543MB,De Heldinnenlaan,213,,
-3543MB,De Heldinnenlaan,8,,
-3543MB,De Heldinnenlaan,207,,
-3543MB,De Heldinnenlaan,220,,
-3543WB,Kate ter Horstsingel,1,,
-3543MD,Ien Dalessingel,1,,
-3543MD,Ien Dalessingel,1,A,
-3543MD,Ien Dalessingel,1,B,
-3543MD,Ien Dalessingel,1,C,
-3543MD,Ien Dalessingel,1,D,
-3543MD,Ien Dalessingel,1,E,
-3543MD,Ien Dalessingel,1,G,
-3543MD,Ien Dalessingel,1,H,
-3543MD,Ien Dalessingel,1,J,
-3543MD,Ien Dalessingel,1,K,
-3543MD,Ien Dalessingel,1,L,
-3543MB,De Heldinnenlaan,218,,
-3543MB,De Heldinnenlaan,4,,
-3543MD,Ien Dalessingel,3,,
-3543MD,Ien Dalessingel,1,D,
-3543MD,Ien Dalessingel,1,E,
-3543MA,Strandboulevard,222,,
-3543MC,Maarssenseweg,51,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Smalle Themaat,15,"","",3451SW,Vleuten
+Smalle Themaat,17,"","",3451SW,Vleuten
+Smalle Themaat,17,A,"",3451SW,Vleuten
+Smalle Themaat,20,"","",3451SW,Vleuten
+Smalle Themaat,21,"","",3451SW,Vleuten
+Smalle Themaat,22,"","",3451SW,Vleuten
+Smalle Themaat,22,A,"",3451SW,Vleuten
+Smalle Themaat,22,B,"",3451SW,Vleuten
+Smalle Themaat,24,"","",3451SW,Vleuten
+Smalle Themaat,24,A,"",3451SW,Vleuten
+Smalle Themaat,26,"","",3451SW,Vleuten
+Smalle Themaat,28,"","",3451SW,Vleuten
+Smalle Themaat,34,"","",3451SW,Vleuten
+Smalle Themaat,42,"","",3451SW,Vleuten
+Thematerweg,10,"","",3455SN,Haarzuilens
+Thematerweg,10,A,"",3455SN,Haarzuilens
+Thematerweg,10,B,"",3455SN,Haarzuilens
+Thematerweg,10,C,"",3455SN,Haarzuilens
+Thematerweg,10,D,"",3455SN,Haarzuilens
+Thematerweg,10,K,"",3455SN,Haarzuilens
+Thematerweg,12,"","",3455SN,Haarzuilens
+Thematerweg,12,A,"",3455SN,Haarzuilens
+Thematerweg,12,B,"",3455SN,Haarzuilens
+Thematerweg,14,"","",3455SN,Haarzuilens
+Thematerweg,14,A,"",3455SN,Haarzuilens
+Thematerweg,16,"","",3455SN,Haarzuilens
+Thematerweg,16,A,"",3455SN,Haarzuilens
+Thematerweg,16,C,"",3455SN,Haarzuilens
+Thematerweg,16,D,"",3455SN,Haarzuilens
+Thematerweg,18,"","",3455SN,Haarzuilens
+Thematerweg,2,"","",3455SN,Haarzuilens
+Thematerweg,4,"","",3455SN,Haarzuilens
+Thematerweg,4,A,"",3455SN,Haarzuilens
+Thematerweg,4,B,"",3455SN,Haarzuilens
+Thematerweg,6,"","",3455SN,Haarzuilens
+Thematerweg,6,A,"",3455SN,Haarzuilens
+Thematerweg,8,"","",3455SN,Haarzuilens
+Thematerweg,8,A,"",3455SN,Haarzuilens
+Strandboulevard,222,"","",3543MA,Vleuten
+Strandboulevard,222,"","",3543MA,Vleuten
+De Heldinnenlaan,1,"","",3543MB,Utrecht
+Ien Dalessingel,101,"","",3543MB,Utrecht
+De Heldinnenlaan,193,"","",3543MB,Utrecht
+De Heldinnenlaan,199,"","",3543MB,Utrecht
+De Heldinnenlaan,2,"","",3543MB,Utrecht
+De Heldinnenlaan,200,"","",3543MB,Utrecht
+De Heldinnenlaan,200,"","",3543MB,Utrecht
+De Heldinnenlaan,204,"","",3543MB,Utrecht
+De Heldinnenlaan,205,"","",3543MB,Utrecht
+De Heldinnenlaan,207,"","",3543MB,Utrecht
+De Heldinnenlaan,211,A,"",3543MB,Utrecht
+De Heldinnenlaan,211,B,"",3543MB,Utrecht
+De Heldinnenlaan,213,"","",3543MB,Utrecht
+De Heldinnenlaan,215,"","",3543MB,Utrecht
+De Heldinnenlaan,218,"","",3543MB,Utrecht
+De Heldinnenlaan,220,"","",3543MB,Utrecht
+De Heldinnenlaan,4,"","",3543MB,Utrecht
+De Heldinnenlaan,6,"","",3543MB,Utrecht
+De Heldinnenlaan,7,"","",3543MB,Utrecht
+De Heldinnenlaan,8,"","",3543MB,Utrecht
+Maarssenseweg,51,"","",3543MC,Utrecht
+Ien Dalessingel,1,"","",3543MD,Utrecht
+Ien Dalessingel,1,A,"",3543MD,Utrecht
+Ien Dalessingel,1,B,"",3543MD,Utrecht
+Ien Dalessingel,1,C,"",3543MD,Utrecht
+Ien Dalessingel,1,D,"",3543MD,Utrecht
+Ien Dalessingel,1,D,"",3543MD,Utrecht
+Ien Dalessingel,1,E,"",3543MD,Utrecht
+Ien Dalessingel,1,E,"",3543MD,Utrecht
+Ien Dalessingel,1,G,"",3543MD,Utrecht
+Ien Dalessingel,1,H,"",3543MD,Utrecht
+Ien Dalessingel,1,J,"",3543MD,Utrecht
+Ien Dalessingel,1,K,"",3543MD,Utrecht
+Ien Dalessingel,1,L,"",3543MD,Utrecht
+Marga Klompésingel,101,"","",3543MD,Utrecht
+Marga Klompésingel,101,"","",3543MD,Utrecht
+Marga Klompésingel,101,"","",3543MD,Utrecht
+Ien Dalessingel,3,"","",3543MD,Utrecht
+Kate ter Horstsingel,1,"","",3543WB,Utrecht
+Kate ter Horstsingel,3,"","",3543WB,Utrecht

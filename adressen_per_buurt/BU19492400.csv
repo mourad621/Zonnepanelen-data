@@ -1,116 +1,117 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9033WB",13,"",""
-"9033WB",9,"",""
-"9033WB",21,"",""
-"9033WB",17,"",""
-"9033WB",1,"",""
-"9033WB",7,"",""
-"9033WB",11,"",""
-"9033WB",3,"",""
-"9033WB",19,"",""
-"9033WC",2,"",""
-"9033WC",7,"",""
-"9033WC",3,"",""
-"9033WC",1,"",""
-"9033WC",10,"",""
-"9033WC",5,"",""
-"9033WC",12,"",""
-"9033WC",4,"",""
-"9033WC",11,"",""
-"9033WC",8,"",""
-"9033WC",9,"",""
-"9033WD",1,"",""
-"9033WD",7,"",""
-"9033WD",7,"",""
-"9033WD",9,"",""
-"9033WD",3,"",""
-"9033WD",11,"",""
-"9033WG",2,"",""
-"9033WG",4,"",""
-"9033WH",5,"",""
-"9033WH",9,"",""
-"9033WH",7,"",""
-"9033WH",10,"",""
-"9033WH",6,"",""
-"9033WH",12,"",""
-"9033WH",3,"A",""
-"9033WH",8,"",""
-"9033WH",22,"",""
-"9033WH",3,"",""
-"9033WH",14,"",""
-"9033WH",6,"A",""
-"9033WH",1,"",""
-"9033WH",11,"",""
-"9033WH",24,"",""
-"9033WH",18,"",""
-"9033WH",6,"B",""
-"9033WH",6,"B",""
-"9033WH",13,"",""
-"9033WH",16,"",""
-"9033WH",20,"",""
-"9033WX",2,"",""
-"9033WX",1,"",""
-"9033WX",3,"",""
-"9033XD",5,"",""
-"9033XD",7,"",""
-"9033XD",2,"",""
-9033WB,Ritsumasyl,1,,
-9033WB,Ritsumasyl,11,,
-9033WB,Ritsumasyl,13,,
-9033WB,Ritsumasyl,17,,
-9033WB,Ritsumasyl,19,,
-9033WB,Ritsumasyl,21,,
-9033WB,Ritsumasyl,3,,
-9033WB,Ritsumasyl,7,,
-9033WB,Ritsumasyl,9,,
-9033XD,Aldeleane,2,,
-9033XD,Aldeleane,5,,
-9033XD,Aldeleane,7,,
-9033WX,Heechhiemsreed,1,,
-9033WX,Heechhiemsreed,2,,
-9033WX,Heechhiemsreed,3,,
-9033WH,It Holt,1,,
-9033WH,It Holt,10,,
-9033WH,It Holt,11,,
-9033WH,It Holt,12,,
-9033WH,It Holt,13,,
-9033WH,It Holt,14,,
-9033WH,It Holt,16,,
-9033WH,It Holt,18,,
-9033WH,It Holt,20,,
-9033WH,It Holt,22,,
-9033WH,It Holt,24,,
-9033WH,It Holt,3,,
-9033WH,It Holt,3,A,
-9033WH,It Holt,5,,
-9033WH,It Holt,6,,
-9033WH,It Holt,6,A,
-9033WH,It Holt,6,B,
-9033WH,It Holt,7,,
-9033WH,It Holt,8,,
-9033WH,It Holt,9,,
-9033WG,Ljochtewei,2,,
-9033WG,Ljochtewei,4,,
-9033WD,Marssumerdyk,1,,
-9033WD,Marssumerdyk,11,,
-9033WD,Marssumerdyk,3,,
-9033WD,Marssumerdyk,7,,
-9033WD,Marssumerdyk,9,,
-9033WC,Trekwei,1,,
-9033WC,Trekwei,10,,
-9033WC,Trekwei,11,,
-9033WC,Trekwei,12,,
-9033WC,Trekwei,2,,
-9033WC,Trekwei,3,,
-9033WC,Trekwei,4,,
-9033WC,Trekwei,5,,
-9033WC,Trekwei,7,,
-9033WC,Trekwei,8,,
-9033WC,Trekwei,9,,
-9033XD,Aldeleane,3,,
-9033WH,It Holt,17,,
-9033WC,Trekwei,13,,
-9033WC,Trekwei,10,B,
-9033WC,Trekwei,10,B,
-9033WH,It Holt,26,,
-9033WD,Marssumerdyk,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+13,"","","",9033WB,
+9,"","","",9033WB,
+21,"","","",9033WB,
+17,"","","",9033WB,
+1,"","","",9033WB,
+7,"","","",9033WB,
+11,"","","",9033WB,
+3,"","","",9033WB,
+19,"","","",9033WB,
+Ritsumasyl,1,"","",9033WB,Deinum
+Ritsumasyl,11,"","",9033WB,Deinum
+Ritsumasyl,13,"","",9033WB,Deinum
+Ritsumasyl,17,"","",9033WB,Deinum
+Ritsumasyl,19,"","",9033WB,Deinum
+Ritsumasyl,21,"","",9033WB,Deinum
+Ritsumasyl,3,"","",9033WB,Deinum
+Ritsumasyl,7,"","",9033WB,Deinum
+Ritsumasyl,9,"","",9033WB,Deinum
+2,"","","",9033WC,
+7,"","","",9033WC,
+3,"","","",9033WC,
+1,"","","",9033WC,
+10,"","","",9033WC,
+5,"","","",9033WC,
+12,"","","",9033WC,
+4,"","","",9033WC,
+11,"","","",9033WC,
+8,"","","",9033WC,
+9,"","","",9033WC,
+Trekwei,1,"","",9033WC,Deinum
+Trekwei,10,"","",9033WC,Deinum
+Trekwei,10,B,"",9033WC,Deinum
+Trekwei,10,B,"",9033WC,Deinum
+Trekwei,11,"","",9033WC,Deinum
+Trekwei,12,"","",9033WC,Deinum
+Trekwei,13,"","",9033WC,Deinum
+Trekwei,2,"","",9033WC,Deinum
+Trekwei,3,"","",9033WC,Deinum
+Trekwei,4,"","",9033WC,Deinum
+Trekwei,5,"","",9033WC,Deinum
+Trekwei,7,"","",9033WC,Deinum
+Trekwei,8,"","",9033WC,Deinum
+Trekwei,9,"","",9033WC,Deinum
+1,"","","",9033WD,
+7,"","","",9033WD,
+7,"","","",9033WD,
+9,"","","",9033WD,
+3,"","","",9033WD,
+11,"","","",9033WD,
+Marssumerdyk,1,"","",9033WD,Deinum
+Marssumerdyk,11,"","",9033WD,Deinum
+Marssumerdyk,3,"","",9033WD,Deinum
+Marssumerdyk,7,"","",9033WD,Deinum
+Marssumerdyk,7,"","",9033WD,Deinum
+Marssumerdyk,9,"","",9033WD,Deinum
+2,"","","",9033WG,
+4,"","","",9033WG,
+Ljochtewei,2,"","",9033WG,Deinum
+Ljochtewei,4,"","",9033WG,Deinum
+5,"","","",9033WH,
+9,"","","",9033WH,
+7,"","","",9033WH,
+10,"","","",9033WH,
+6,"","","",9033WH,
+12,"","","",9033WH,
+8,"","","",9033WH,
+22,"","","",9033WH,
+3,"","","",9033WH,
+14,"","","",9033WH,
+1,"","","",9033WH,
+11,"","","",9033WH,
+24,"","","",9033WH,
+18,"","","",9033WH,
+13,"","","",9033WH,
+16,"","","",9033WH,
+20,"","","",9033WH,
+It Holt,1,"","",9033WH,Deinum
+It Holt,10,"","",9033WH,Deinum
+It Holt,11,"","",9033WH,Deinum
+It Holt,12,"","",9033WH,Deinum
+It Holt,13,"","",9033WH,Deinum
+It Holt,14,"","",9033WH,Deinum
+It Holt,16,"","",9033WH,Deinum
+It Holt,17,"","",9033WH,Deinum
+It Holt,18,"","",9033WH,Deinum
+It Holt,20,"","",9033WH,Deinum
+It Holt,22,"","",9033WH,Deinum
+It Holt,24,"","",9033WH,Deinum
+It Holt,26,"","",9033WH,Deinum
+It Holt,3,"","",9033WH,Deinum
+It Holt,3,A,"",9033WH,Deinum
+It Holt,5,"","",9033WH,Deinum
+It Holt,6,"","",9033WH,Deinum
+It Holt,6,A,"",9033WH,Deinum
+It Holt,6,B,"",9033WH,Deinum
+It Holt,7,"","",9033WH,Deinum
+It Holt,8,"","",9033WH,Deinum
+It Holt,9,"","",9033WH,Deinum
+3,A,"","",9033WH,
+6,A,"","",9033WH,
+6,B,"","",9033WH,
+6,B,"","",9033WH,
+2,"","","",9033WX,
+1,"","","",9033WX,
+3,"","","",9033WX,
+Heechhiemsreed,1,"","",9033WX,Deinum
+Heechhiemsreed,2,"","",9033WX,Deinum
+Heechhiemsreed,3,"","",9033WX,Deinum
+5,"","","",9033XD,
+7,"","","",9033XD,
+2,"","","",9033XD,
+Aldeleane,2,"","",9033XD,Deinum
+Aldeleane,3,"","",9033XD,Deinum
+Aldeleane,5,"","",9033XD,Deinum
+Aldeleane,7,"","",9033XD,Deinum
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

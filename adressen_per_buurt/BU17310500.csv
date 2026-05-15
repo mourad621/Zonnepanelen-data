@@ -1,72 +1,72 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9419TL,De Brink,1,,
-9419TL,De Brink,3,,
-9419TL,De Brink,4,,
-9419TL,De Brink,5,,
-9419TL,De Brink,6,,
-9419TL,De Brink,7,,
-9419TL,De Brink,8,,
-9419TL,De Brink,9,,
-9419TL,De Brink,10,,
-9419TL,De Brink,11,,
-9419TL,De Brink,12,,
-9419TL,De Brink,13,,
-9419TL,De Brink,14,,
-9419TL,De Brink,15,,
-9419TL,De Brink,16,,
-9419TL,De Brink,18,,
-9419TL,De Brink,20,,
-9419TL,De Brink,22,,
-9419TL,De Brink,24,,
-9419TL,De Brink,26,,
-9419TP,Het Binnenveld,1,,
-9419TP,Het Binnenveld,2,,
-9419TP,Het Binnenveld,3,,
-9419TP,Het Binnenveld,4,,
-9419TP,Het Binnenveld,5,,
-9419TP,Het Binnenveld,6,,
-9419TP,Het Binnenveld,7,,
-9419TP,Het Binnenveld,9,,
-9419TP,Het Binnenveld,8,,
-9419TP,Het Binnenveld,9,,
-9419TP,Het Binnenveld,7,,
-9419TP,Het Binnenveld,10,,
-9419TP,Het Binnenveld,14,,
-9419TM,Nijenkamp,1,,
-9419TM,Nijenkamp,3,,
-9419TM,Nijenkamp,5,,
-9419TM,Nijenkamp,7,,
-9419TM,Nijenkamp,9,,
-9419TM,Nijenkamp,11,,
-9419TM,Nijenkamp,13,,
-9419TM,Nijenkamp,15,,
-9419TM,Nijenkamp,17,,
-9419TM,Nijenkamp,19,,
-9419TM,Nijenkamp,21,,
-9419TM,Nijenkamp,23,,
-9419TM,Nijenkamp,25,,
-9419TM,Nijenkamp,27,,
-9419TM,Nijenkamp,29,,
-9419TN,Nijenkamp,2,,
-9419TN,Nijenkamp,4,,
-9419TN,Nijenkamp,6,,
-9419TN,Nijenkamp,8,,
-9419TN,Nijenkamp,10,,
-9419TN,Nijenkamp,12,,
-9419TN,Nijenkamp,14,,
-9419TP,Het Binnenveld,12,,
-9419TN,Nijenkamp,16,,
-9419TN,Nijenkamp,18,,
-9419TL,De Brink,1,T,1
-9419TL,De Brink,18,T,1
-9419TP,Het Binnenveld,16,,
-9419TP,Het Binnenveld,8,,
-9419TP,Het Binnenveld,12,A,
-9419TP,Het Binnenveld,8,,
-9419TM,Nijenkamp,27,T,1
-9419TN,Nijenkamp,34,,
-9419TN,Nijenkamp,32,,
-9419TN,Nijenkamp,30,,
-9419TN,Nijenkamp,28,,
-9419TN,Nijenkamp,26,,
-9419TN,Nijenkamp,24,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Brink,1,"","",9419TL,Drijber
+De Brink,1,T,1,9419TL,Drijber
+De Brink,10,"","",9419TL,Drijber
+De Brink,11,"","",9419TL,Drijber
+De Brink,12,"","",9419TL,Drijber
+De Brink,13,"","",9419TL,Drijber
+De Brink,14,"","",9419TL,Drijber
+De Brink,15,"","",9419TL,Drijber
+De Brink,16,"","",9419TL,Drijber
+De Brink,18,"","",9419TL,Drijber
+De Brink,18,T,1,9419TL,Drijber
+De Brink,20,"","",9419TL,Drijber
+De Brink,22,"","",9419TL,Drijber
+De Brink,24,"","",9419TL,Drijber
+De Brink,26,"","",9419TL,Drijber
+De Brink,3,"","",9419TL,Drijber
+De Brink,4,"","",9419TL,Drijber
+De Brink,5,"","",9419TL,Drijber
+De Brink,6,"","",9419TL,Drijber
+De Brink,7,"","",9419TL,Drijber
+De Brink,8,"","",9419TL,Drijber
+De Brink,9,"","",9419TL,Drijber
+Nijenkamp,1,"","",9419TM,Drijber
+Nijenkamp,11,"","",9419TM,Drijber
+Nijenkamp,13,"","",9419TM,Drijber
+Nijenkamp,15,"","",9419TM,Drijber
+Nijenkamp,17,"","",9419TM,Drijber
+Nijenkamp,19,"","",9419TM,Drijber
+Nijenkamp,21,"","",9419TM,Drijber
+Nijenkamp,23,"","",9419TM,Drijber
+Nijenkamp,25,"","",9419TM,Drijber
+Nijenkamp,27,"","",9419TM,Drijber
+Nijenkamp,27,T,1,9419TM,Drijber
+Nijenkamp,29,"","",9419TM,Drijber
+Nijenkamp,3,"","",9419TM,Drijber
+Nijenkamp,5,"","",9419TM,Drijber
+Nijenkamp,7,"","",9419TM,Drijber
+Nijenkamp,9,"","",9419TM,Drijber
+Nijenkamp,10,"","",9419TN,Drijber
+Nijenkamp,12,"","",9419TN,Drijber
+Nijenkamp,14,"","",9419TN,Drijber
+Nijenkamp,16,"","",9419TN,Drijber
+Nijenkamp,18,"","",9419TN,Drijber
+Nijenkamp,2,"","",9419TN,Drijber
+Nijenkamp,24,"","",9419TN,Drijber
+Nijenkamp,26,"","",9419TN,Drijber
+Nijenkamp,28,"","",9419TN,Drijber
+Nijenkamp,30,"","",9419TN,Drijber
+Nijenkamp,32,"","",9419TN,Drijber
+Nijenkamp,34,"","",9419TN,Drijber
+Nijenkamp,4,"","",9419TN,Drijber
+Nijenkamp,6,"","",9419TN,Drijber
+Nijenkamp,8,"","",9419TN,Drijber
+Het Binnenveld,1,"","",9419TP,Drijber
+Het Binnenveld,10,"","",9419TP,Drijber
+Het Binnenveld,12,"","",9419TP,Drijber
+Het Binnenveld,12,A,"",9419TP,Drijber
+Het Binnenveld,14,"","",9419TP,Drijber
+Het Binnenveld,16,"","",9419TP,Drijber
+Het Binnenveld,2,"","",9419TP,Drijber
+Het Binnenveld,3,"","",9419TP,Drijber
+Het Binnenveld,4,"","",9419TP,Drijber
+Het Binnenveld,5,"","",9419TP,Drijber
+Het Binnenveld,6,"","",9419TP,Drijber
+Het Binnenveld,7,"","",9419TP,Drijber
+Het Binnenveld,7,"","",9419TP,Drijber
+Het Binnenveld,8,"","",9419TP,Drijber
+Het Binnenveld,8,"","",9419TP,Drijber
+Het Binnenveld,8,"","",9419TP,Drijber
+Het Binnenveld,9,"","",9419TP,Drijber
+Het Binnenveld,9,"","",9419TP,Drijber

@@ -1,85 +1,86 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9872TJ",6,"",""
-"9872TJ",6,"",""
-"9872TJ",8,"",""
-"9872TJ",10,"",""
-"9872TJ",11,"",""
-"9872TJ",19,"",""
-"9872TJ",16,"",""
-"9872TJ",17,"",""
-"9872TJ",13,"",""
-"9872TJ",9,"",""
-"9872TJ",29,"",""
-"9872TJ",12,"",""
-"9872TJ",5,"",""
-"9872TJ",27,"",""
-"9872TJ",23,"",""
-"9872TJ",4,"",""
-"9872TJ",7,"",""
-"9872TJ",14,"",""
-"9872TJ",6,"",""
-"9872TJ",15,"A",""
-"9872TJ",21,"",""
-"9872TJ",1,"",""
-"9872TJ",1,"B",""
-"9872TJ",2,"A",""
-"9872TJ",15,"",""
-"9872TJ",25,"",""
-"9872TJ",3,"",""
-"9872TJ",1,"B",""
-"9872TJ",2,"",""
-"9872TK",6,"",""
-"9872TK",6,"",""
-"9872TK",2,"",""
-"9872TK",14,"",""
-"9872TK",14,"",""
-"9872TK",14,"",""
-"9872TK",10,"",""
-"9872TK",16,"",""
-"9872TK",12,"",""
-"9872TK",16,"",""
-"9872TK",16,"",""
-"9872TK",16,"A",""
-"9872TK",6,"",""
-"9872TK",4,"",""
-"9872TK",18,"",""
-9872TJ,Miedweg,6,,
-9872TJ,Miedweg,5,,
-9872TJ,Miedweg,7,,
-9872TJ,Miedweg,29,,
-9872TJ,Miedweg,6,,
-9872TJ,Miedweg,8,,
-9872TK,Oude Vaart,14,,
-9872TK,Oude Vaart,18,,
-9872TK,Oude Vaart,4,,
-9872TK,Oude Vaart,6,,
-9872TJ,Miedweg,21,,
-9872TJ,Miedweg,4,,
-9872TJ,Miedweg,9,,
-9872TJ,Miedweg,17,,
-9872TJ,Miedweg,19,,
-9872TJ,Miedweg,2,,
-9872TJ,Miedweg,14,,
-9872TJ,Miedweg,3,,
-9872TJ,Miedweg,15,,
-9872TJ,Miedweg,11,,
-9872TJ,Miedweg,13,,
-9872TJ,Miedweg,1,,
-9872TJ,Miedweg,25,,
-9872TJ,Miedweg,12,,
-9872TJ,Miedweg,27,,
-9872TJ,Miedweg,23,,
-9872TJ,Miedweg,15,A,
-9872TJ,Miedweg,2,A,
-9872TK,Oude Vaart,12,,
-9872TK,Oude Vaart,14,,
-9872TK,Oude Vaart,2,,
-9872TJ,Miedweg,16,,
-9872TJ,Miedweg,10,,
-9872TJ,Miedweg,1,B,
-9872TJ,Miedweg,1,B,
-9872TK,Oude Vaart,16,A,
-9872TK,Oude Vaart,16,,
-9872TK,Oude Vaart,10,,
-9872TK,Oude Vaart,16,,
-9872TK,Oude Vaart,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+6,"","","",9872TJ,
+6,"","","",9872TJ,
+8,"","","",9872TJ,
+10,"","","",9872TJ,
+11,"","","",9872TJ,
+19,"","","",9872TJ,
+16,"","","",9872TJ,
+17,"","","",9872TJ,
+13,"","","",9872TJ,
+9,"","","",9872TJ,
+29,"","","",9872TJ,
+12,"","","",9872TJ,
+5,"","","",9872TJ,
+27,"","","",9872TJ,
+23,"","","",9872TJ,
+4,"","","",9872TJ,
+7,"","","",9872TJ,
+14,"","","",9872TJ,
+6,"","","",9872TJ,
+21,"","","",9872TJ,
+1,"","","",9872TJ,
+15,"","","",9872TJ,
+25,"","","",9872TJ,
+3,"","","",9872TJ,
+2,"","","",9872TJ,
+Miedweg,1,"","",9872TJ,Stroobos
+Miedweg,1,B,"",9872TJ,Stroobos
+Miedweg,1,B,"",9872TJ,Stroobos
+Miedweg,10,"","",9872TJ,Stroobos
+Miedweg,11,"","",9872TJ,Stroobos
+Miedweg,12,"","",9872TJ,Stroobos
+Miedweg,13,"","",9872TJ,Stroobos
+Miedweg,14,"","",9872TJ,Stroobos
+Miedweg,15,"","",9872TJ,Stroobos
+Miedweg,15,A,"",9872TJ,Stroobos
+Miedweg,16,"","",9872TJ,Stroobos
+Miedweg,17,"","",9872TJ,Stroobos
+Miedweg,19,"","",9872TJ,Stroobos
+Miedweg,2,"","",9872TJ,Stroobos
+Miedweg,2,A,"",9872TJ,Stroobos
+Miedweg,21,"","",9872TJ,Stroobos
+Miedweg,23,"","",9872TJ,Stroobos
+Miedweg,25,"","",9872TJ,Stroobos
+Miedweg,27,"","",9872TJ,Stroobos
+Miedweg,29,"","",9872TJ,Stroobos
+Miedweg,3,"","",9872TJ,Stroobos
+Miedweg,4,"","",9872TJ,Stroobos
+Miedweg,5,"","",9872TJ,Stroobos
+Miedweg,6,"","",9872TJ,Stroobos
+Miedweg,6,"","",9872TJ,Stroobos
+Miedweg,7,"","",9872TJ,Stroobos
+Miedweg,8,"","",9872TJ,Stroobos
+Miedweg,9,"","",9872TJ,Stroobos
+15,A,"","",9872TJ,
+2,A,"","",9872TJ,
+1,B,"","",9872TJ,
+1,B,"","",9872TJ,
+6,"","","",9872TK,
+6,"","","",9872TK,
+2,"","","",9872TK,
+14,"","","",9872TK,
+14,"","","",9872TK,
+14,"","","",9872TK,
+10,"","","",9872TK,
+16,"","","",9872TK,
+12,"","","",9872TK,
+16,"","","",9872TK,
+16,"","","",9872TK,
+6,"","","",9872TK,
+4,"","","",9872TK,
+18,"","","",9872TK,
+Oude Vaart,10,"","",9872TK,Stroobos
+Oude Vaart,12,"","",9872TK,Stroobos
+Oude Vaart,14,"","",9872TK,Stroobos
+Oude Vaart,14,"","",9872TK,Stroobos
+Oude Vaart,16,"","",9872TK,Stroobos
+Oude Vaart,16,"","",9872TK,Stroobos
+Oude Vaart,16,A,"",9872TK,Stroobos
+Oude Vaart,18,"","",9872TK,Stroobos
+Oude Vaart,2,"","",9872TK,Stroobos
+Oude Vaart,4,"","",9872TK,Stroobos
+Oude Vaart,6,"","",9872TK,Stroobos
+Oude Vaart,6,"","",9872TK,Stroobos
+16,A,"","",9872TK,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

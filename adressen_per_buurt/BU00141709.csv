@@ -1,113 +1,114 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9752KV",40,"",""
-"9752KV",70,"",""
-"9752KV",54,"",""
-"9752KV",46,"",""
-"9752KV",50,"",""
-"9752KV",52,"",""
-"9752KV",62,"",""
-"9752KV",48,"",""
-"9752KV",56,"",""
-"9752KV",90,"",""
-"9752KV",72,"",""
-"9752KV",68,"",""
-"9752KV",66,"",""
-"9752KV",44,"",""
-"9752KV",64,"",""
-"9752KV",86,"",""
-"9752KV",58,"",""
-"9752KV",60,"",""
-"9752KV",88,"",""
-"9752KV",78,"",""
-"9752KV",84,"",""
-"9752KV",42,"",""
-"9752KV",74,"",""
-"9752KV",76,"",""
-"9752KV",80,"",""
-"9752KV",82,"",""
-"9752VT",45,"",""
-"9752VT",47,"",""
-"9752VT",43,"a",""
-"9752VT",43,"",""
-"9752VT",73,"",""
-"9752VT",69,"",""
-"9752VT",47,"A",""
-"9752VT",47,"b",""
-"9752VT",47,"C",""
-"9752VT",47,"C",""
-"9752VT",47,"D",""
-"9752VT",47,"c",""
-"9752VT",67,"a",""
-"9752VT",61,"",""
-"9752VT",67,"A",""
-"9752VT",47,"a",""
-"9752VT",47,"B",""
-"9752VT",71,"",""
-"9752VT",47,"b",""
-"9752VT",47,"B",""
-"9752VT",51,"",""
-"9752VT",43,"A",""
-"9752VT",47,"c",""
-"9752VT",67,"",""
-"9752VT",47,"d",""
-"9752VT",47,"c",""
-"9752VT",55,"",""
-"9752VT",47,"b",""
-"9752VT",63,"",""
-"9752VT",41,"",""
-"9752VT",53,"",""
-9752VT,Lutsborgsweg,55,,
-9752KV,Emmalaan,40,,
-9752KV,Emmalaan,42,,
-9752KV,Emmalaan,44,,
-9752KV,Emmalaan,46,,
-9752KV,Emmalaan,48,,
-9752KV,Emmalaan,50,,
-9752KV,Emmalaan,52,,
-9752KV,Emmalaan,54,,
-9752KV,Emmalaan,56,,
-9752KV,Emmalaan,58,,
-9752KV,Emmalaan,60,,
-9752KV,Emmalaan,62,,
-9752KV,Emmalaan,64,,
-9752KV,Emmalaan,66,,
-9752KV,Emmalaan,68,,
-9752KV,Emmalaan,70,,
-9752KV,Emmalaan,72,,
-9752KV,Emmalaan,74,,
-9752KV,Emmalaan,76,,
-9752KV,Emmalaan,78,,
-9752KV,Emmalaan,80,,
-9752KV,Emmalaan,82,,
-9752KV,Emmalaan,84,,
-9752KV,Emmalaan,86,,
-9752VT,Lutsborgsweg,41,,
-9752VT,Lutsborgsweg,43,,
-9752VT,Lutsborgsweg,43,A,
-9752VT,Lutsborgsweg,43,a,
-9752VT,Lutsborgsweg,45,,
-9752VT,Lutsborgsweg,47,,
-9752VT,Lutsborgsweg,47,A,
-9752VT,Lutsborgsweg,47,a,
-9752VT,Lutsborgsweg,47,B,
-9752VT,Lutsborgsweg,47,b,
-9752VT,Lutsborgsweg,47,C,
-9752VT,Lutsborgsweg,47,c,
-9752VT,Lutsborgsweg,47,D,
-9752VT,Lutsborgsweg,47,d,
-9752VT,Lutsborgsweg,53,,
-9752VT,Lutsborgsweg,61,,
-9752VT,Lutsborgsweg,63,,
-9752VT,Lutsborgsweg,67,,
-9752VT,Lutsborgsweg,67,A,
-9752VT,Lutsborgsweg,67,a,
-9752VT,Lutsborgsweg,69,,
-9752VT,Lutsborgsweg,71,,
-9752VT,Lutsborgsweg,73,,
-9752KV,Emmalaan,88,,
-9752KV,Emmalaan,90,,
-9752VT,Lutsborgsweg,51,,
-9752VT,Lutsborgsweg,47,B,
-9752VT,Lutsborgsweg,47,b,
-9752VT,Lutsborgsweg,47,C,
-9752VT,Lutsborgsweg,47,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+40,"","","",9752KV,
+70,"","","",9752KV,
+54,"","","",9752KV,
+46,"","","",9752KV,
+50,"","","",9752KV,
+52,"","","",9752KV,
+62,"","","",9752KV,
+48,"","","",9752KV,
+56,"","","",9752KV,
+90,"","","",9752KV,
+72,"","","",9752KV,
+68,"","","",9752KV,
+66,"","","",9752KV,
+44,"","","",9752KV,
+64,"","","",9752KV,
+86,"","","",9752KV,
+58,"","","",9752KV,
+60,"","","",9752KV,
+88,"","","",9752KV,
+78,"","","",9752KV,
+84,"","","",9752KV,
+42,"","","",9752KV,
+74,"","","",9752KV,
+76,"","","",9752KV,
+80,"","","",9752KV,
+82,"","","",9752KV,
+Emmalaan,40,"","",9752KV,Haren Gn
+Emmalaan,42,"","",9752KV,Haren Gn
+Emmalaan,44,"","",9752KV,Haren Gn
+Emmalaan,46,"","",9752KV,Haren Gn
+Emmalaan,48,"","",9752KV,Haren Gn
+Emmalaan,50,"","",9752KV,Haren Gn
+Emmalaan,52,"","",9752KV,Haren Gn
+Emmalaan,54,"","",9752KV,Haren Gn
+Emmalaan,56,"","",9752KV,Haren Gn
+Emmalaan,58,"","",9752KV,Haren Gn
+Emmalaan,60,"","",9752KV,Haren Gn
+Emmalaan,62,"","",9752KV,Haren Gn
+Emmalaan,64,"","",9752KV,Haren Gn
+Emmalaan,66,"","",9752KV,Haren Gn
+Emmalaan,68,"","",9752KV,Haren Gn
+Emmalaan,70,"","",9752KV,Haren Gn
+Emmalaan,72,"","",9752KV,Haren Gn
+Emmalaan,74,"","",9752KV,Haren Gn
+Emmalaan,76,"","",9752KV,Haren Gn
+Emmalaan,78,"","",9752KV,Haren Gn
+Emmalaan,80,"","",9752KV,Haren Gn
+Emmalaan,82,"","",9752KV,Haren Gn
+Emmalaan,84,"","",9752KV,Haren Gn
+Emmalaan,86,"","",9752KV,Haren Gn
+Emmalaan,88,"","",9752KV,Haren Gn
+Emmalaan,90,"","",9752KV,Haren Gn
+45,"","","",9752VT,
+47,"","","",9752VT,
+43,"","","",9752VT,
+73,"","","",9752VT,
+69,"","","",9752VT,
+61,"","","",9752VT,
+71,"","","",9752VT,
+51,"","","",9752VT,
+67,"","","",9752VT,
+55,"","","",9752VT,
+63,"","","",9752VT,
+41,"","","",9752VT,
+53,"","","",9752VT,
+Lutsborgsweg,41,"","",9752VT,Haren Gn
+Lutsborgsweg,43,"","",9752VT,Haren Gn
+Lutsborgsweg,43,A,"",9752VT,Haren Gn
+Lutsborgsweg,43,A,"",9752VT,Haren Gn
+Lutsborgsweg,45,"","",9752VT,Haren Gn
+Lutsborgsweg,47,"","",9752VT,Haren Gn
+Lutsborgsweg,47,A,"",9752VT,Haren Gn
+Lutsborgsweg,47,A,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,D,"",9752VT,Haren Gn
+Lutsborgsweg,47,D,"",9752VT,Haren Gn
+Lutsborgsweg,51,"","",9752VT,Haren Gn
+Lutsborgsweg,53,"","",9752VT,Haren Gn
+Lutsborgsweg,55,"","",9752VT,Haren Gn
+Lutsborgsweg,61,"","",9752VT,Haren Gn
+Lutsborgsweg,63,"","",9752VT,Haren Gn
+Lutsborgsweg,67,"","",9752VT,Haren Gn
+Lutsborgsweg,67,A,"",9752VT,Haren Gn
+Lutsborgsweg,67,A,"",9752VT,Haren Gn
+Lutsborgsweg,69,"","",9752VT,Haren Gn
+Lutsborgsweg,71,"","",9752VT,Haren Gn
+Lutsborgsweg,73,"","",9752VT,Haren Gn
+43,A,"","",9752VT,
+47,A,"","",9752VT,
+67,A,"","",9752VT,
+67,A,"","",9752VT,
+47,A,"","",9752VT,
+43,A,"","",9752VT,
+47,B,"","",9752VT,
+47,B,"","",9752VT,
+47,B,"","",9752VT,
+47,B,"","",9752VT,
+47,B,"","",9752VT,
+47,C,"","",9752VT,
+47,C,"","",9752VT,
+47,C,"","",9752VT,
+47,C,"","",9752VT,
+47,C,"","",9752VT,
+47,D,"","",9752VT,
+47,D,"","",9752VT,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

@@ -1,32 +1,32 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2719EP,Einsteinlaan,20,,
-2719EK,Louis Braillelaan,42,,
-2719EK,Louis Braillelaan,60,,
-2719EL,Baron de Coubertinlaan,6,,
-2719EN,Baron de Coubertinlaan,39,,
-2719ER,Einsteinlaan,50,,
-2719ER,Einsteinlaan,50,,
-2719EN,Baron de Coubertinlaan,5,,
-2719EK,Louis Braillelaan,100,,
-2719EK,Louis Braillelaan,80,,
-2719EN,Baron de Coubertinlaan,33,,
-2719EN,Baron de Coubertinlaan,31,,
-2719EN,Baron de Coubertinlaan,37,,
-2719EN,Baron de Coubertinlaan,35,,
-2719EP,Einsteinlaan,10,,
-2719EJ,Louis Braillelaan,6,,
-2719EJ,Louis Braillelaan,6,,
-2719EJ,Louis Braillelaan,24,,
-2719EN,Baron de Coubertinlaan,1,,
-2719EJ,Louis Braillelaan,8,,
-2719EJ,Louis Braillelaan,10,,
-2719EJ,Louis Braillelaan,12,,
-2719EL,Baron de Coubertinlaan,8,,
-2719EN,Baron de Coubertinlaan,3,,
-2719EN,Baron de Coubertinlaan,7,,
-2719EN,Baron de Coubertinlaan,31,B,
-2719EP,Einsteinlaan,22,,
-2719EP,Einsteinlaan,24,,
-2719EP,Einsteinlaan,26,,
-2719EP,Einsteinlaan,28,,
-2719EP,Einsteinlaan,30,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Louis Braillelaan,10,"","",2719EJ,Zoetermeer
+Louis Braillelaan,12,"","",2719EJ,Zoetermeer
+Louis Braillelaan,24,"","",2719EJ,Zoetermeer
+Louis Braillelaan,6,"","",2719EJ,Zoetermeer
+Louis Braillelaan,6,"","",2719EJ,Zoetermeer
+Louis Braillelaan,8,"","",2719EJ,Zoetermeer
+Louis Braillelaan,100,"","",2719EK,Zoetermeer
+Louis Braillelaan,42,"","",2719EK,Zoetermeer
+Louis Braillelaan,60,"","",2719EK,Zoetermeer
+Louis Braillelaan,80,"","",2719EK,Zoetermeer
+Baron de Coubertinlaan,6,"","",2719EL,Zoetermeer
+Baron de Coubertinlaan,8,"","",2719EL,Zoetermeer
+Baron de Coubertinlaan,1,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,3,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,31,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,31,B,"",2719EN,Zoetermeer
+Baron de Coubertinlaan,33,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,35,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,37,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,39,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,5,"","",2719EN,Zoetermeer
+Baron de Coubertinlaan,7,"","",2719EN,Zoetermeer
+Einsteinlaan,10,"","",2719EP,Zoetermeer
+Einsteinlaan,20,"","",2719EP,Zoetermeer
+Einsteinlaan,22,"","",2719EP,Zoetermeer
+Einsteinlaan,24,"","",2719EP,Zoetermeer
+Einsteinlaan,26,"","",2719EP,Zoetermeer
+Einsteinlaan,28,"","",2719EP,Zoetermeer
+Einsteinlaan,30,"","",2719EP,Zoetermeer
+Einsteinlaan,50,"","",2719ER,Zoetermeer
+Einsteinlaan,50,"","",2719ER,Zoetermeer

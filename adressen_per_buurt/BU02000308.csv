@@ -1,150 +1,151 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7334DN",9,"",""
-"7334DN",5,"",""
-"7334DN",1,"",""
-"7334DN",3,"",""
-"7334DN",8,"",""
-"7334DN",13,"",""
-"7334DN",4,"",""
-"7334DN",15,"",""
-"7334DN",19,"",""
-"7334DN",7,"",""
-"7334DN",17,"",""
-"7334DN",6,"",""
-"7334DN",11,"",""
-"7334DN",2,"",""
-"7334DS",494,"",""
-"7334DS",492,"",""
-"7334DS",490,"",""
-"7334DV",40,"",""
-"7334DV",10,"",""
-"7334DV",10,"",""
-"7334DX",15,"",""
-"7334DX",5,"",""
-"7334DX",19,"",""
-"7334DX",17,"",""
-"7334DX",25,"",""
-"7334DX",13,"",""
-"7334DX",1,"",""
-"7334DX",31,"",""
-"7334DX",3,"",""
-"7334DX",27,"",""
-"7334DX",9,"",""
-"7334DX",7,"",""
-"7334DX",33,"",""
-"7334DX",11,"",""
-"7334DX",29,"",""
-"7334DZ",31,"K",""
-"7334DZ",31,"R",""
-"7334DZ",29,"",""
-"7334DZ",31,"",""
-"7334DZ",29,"",""
-"7339AA",9,"",""
-"7339AA",17,"",""
-"7339AA",31,"",""
-"7339AA",29,"",""
-"7339AA",25,"",""
-"7339AA",43,"",""
-"7339AA",15,"",""
-"7339AA",5,"",""
-"7339AA",67,"",""
-"7339AA",7,"B",""
-"7339AA",35,"",""
-"7339AA",23,"",""
-"7339AA",27,"",""
-"7339AA",19,"",""
-"7339AA",65,"",""
-"7339AA",33,"",""
-"7339AA",13,"B",""
-"7339AA",11,"",""
-"7339AA",47,"",""
-"7339AA",57,"",""
-"7339AA",61,"",""
-"7339AA",37,"",""
-"7339AA",13,"A",""
-"7339AA",49,"",""
-"7339AA",71,"",""
-"7339AA",59,"",""
-"7339AA",41,"",""
-"7339AA",63,"",""
-"7339AA",55,"",""
-"7339AA",7,"A",""
-"7339AA",53,"",""
-"7339AA",45,"",""
-"7339AA",1,"",""
-"7339AA",39,"",""
-"7339AA",51,"",""
-7334DN,Anna Reynvaanlaan,1,,
-7334DN,Anna Reynvaanlaan,2,,
-7334DN,Anna Reynvaanlaan,3,,
-7334DN,Anna Reynvaanlaan,4,,
-7334DN,Anna Reynvaanlaan,5,,
-7334DN,Anna Reynvaanlaan,6,,
-7334DN,Anna Reynvaanlaan,7,,
-7334DN,Anna Reynvaanlaan,8,,
-7334DN,Anna Reynvaanlaan,9,,
-7334DN,Anna Reynvaanlaan,11,,
-7334DN,Anna Reynvaanlaan,15,,
-7334DN,Anna Reynvaanlaan,17,,
-7334DN,Anna Reynvaanlaan,19,,
-7334DZ,Albert Schweitzerlaan,29,,
-7334DZ,Albert Schweitzerlaan,31,,
-7334DS,Laan van Westenenk,492,,
-7339AA,Richtersweg,5,,
-7339AA,Richtersweg,15,,
-7339AA,Richtersweg,17,,
-7339AA,Richtersweg,19,,
-7339AA,Richtersweg,23,,
-7339AA,Richtersweg,25,,
-7339AA,Richtersweg,27,,
-7339AA,Richtersweg,29,,
-7339AA,Richtersweg,31,,
-7339AA,Richtersweg,33,,
-7339AA,Richtersweg,35,,
-7339AA,Richtersweg,37,,
-7339AA,Richtersweg,39,,
-7339AA,Richtersweg,41,,
-7339AA,Richtersweg,43,,
-7339AA,Richtersweg,45,,
-7339AA,Richtersweg,47,,
-7339AA,Richtersweg,49,,
-7339AA,Richtersweg,51,,
-7339AA,Richtersweg,53,,
-7339AA,Richtersweg,55,,
-7339AA,Richtersweg,71,,
-7334DN,Anna Reynvaanlaan,13,,
-7334DX,Zuster Meyboomlaan,1,,
-7334DX,Zuster Meyboomlaan,3,,
-7334DX,Zuster Meyboomlaan,5,,
-7334DX,Zuster Meyboomlaan,7,,
-7334DX,Zuster Meyboomlaan,9,,
-7334DX,Zuster Meyboomlaan,11,,
-7334DX,Zuster Meyboomlaan,13,,
-7334DX,Zuster Meyboomlaan,15,,
-7334DX,Zuster Meyboomlaan,17,,
-7334DX,Zuster Meyboomlaan,19,,
-7334DX,Zuster Meyboomlaan,25,,
-7334DX,Zuster Meyboomlaan,27,,
-7334DX,Zuster Meyboomlaan,29,,
-7334DX,Zuster Meyboomlaan,31,,
-7334DX,Zuster Meyboomlaan,33,,
-7339AA,Richtersweg,1,,
-7339AA,Richtersweg,7,A,
-7339AA,Richtersweg,7,B,
-7334DS,Laan van Westenenk,490,,
-7334DS,Laan van Westenenk,494,,
-7339AA,Richtersweg,9,,
-7339AA,Richtersweg,11,,
-7339AA,Richtersweg,13,A,
-7339AA,Richtersweg,13,B,
-7334DV,Zuster Meyboomlaan,40,,
-7334DV,Zuster Meyboomlaan,10,,
-7334DV,Zuster Meyboomlaan,10,,
-7334DZ,Albert Schweitzerlaan,31,R,
-7334DZ,Albert Schweitzerlaan,31,K,
-7339AA,Richtersweg,57,,
-7339AA,Richtersweg,59,,
-7339AA,Richtersweg,61,,
-7339AA,Richtersweg,63,,
-7339AA,Richtersweg,65,,
-7339AA,Richtersweg,67,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+9,"","","",7334DN,
+5,"","","",7334DN,
+1,"","","",7334DN,
+3,"","","",7334DN,
+8,"","","",7334DN,
+13,"","","",7334DN,
+4,"","","",7334DN,
+15,"","","",7334DN,
+19,"","","",7334DN,
+7,"","","",7334DN,
+17,"","","",7334DN,
+6,"","","",7334DN,
+11,"","","",7334DN,
+2,"","","",7334DN,
+Anna Reynvaanlaan,1,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,11,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,13,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,15,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,17,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,19,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,2,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,3,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,4,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,5,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,6,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,7,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,8,"","",7334DN,Apeldoorn
+Anna Reynvaanlaan,9,"","",7334DN,Apeldoorn
+494,"","","",7334DS,
+492,"","","",7334DS,
+490,"","","",7334DS,
+Laan van Westenenk,490,"","",7334DS,Apeldoorn
+Laan van Westenenk,492,"","",7334DS,Apeldoorn
+Laan van Westenenk,494,"","",7334DS,Apeldoorn
+40,"","","",7334DV,
+10,"","","",7334DV,
+10,"","","",7334DV,
+Zuster Meyboomlaan,10,"","",7334DV,Apeldoorn
+Zuster Meyboomlaan,10,"","",7334DV,Apeldoorn
+Zuster Meyboomlaan,40,"","",7334DV,Apeldoorn
+15,"","","",7334DX,
+5,"","","",7334DX,
+19,"","","",7334DX,
+17,"","","",7334DX,
+25,"","","",7334DX,
+13,"","","",7334DX,
+1,"","","",7334DX,
+31,"","","",7334DX,
+3,"","","",7334DX,
+27,"","","",7334DX,
+9,"","","",7334DX,
+7,"","","",7334DX,
+33,"","","",7334DX,
+11,"","","",7334DX,
+29,"","","",7334DX,
+Zuster Meyboomlaan,1,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,11,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,13,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,15,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,17,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,19,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,25,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,27,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,29,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,3,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,31,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,33,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,5,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,7,"","",7334DX,Apeldoorn
+Zuster Meyboomlaan,9,"","",7334DX,Apeldoorn
+29,"","","",7334DZ,
+31,"","","",7334DZ,
+29,"","","",7334DZ,
+Albert Schweitzerlaan,29,"","",7334DZ,Apeldoorn
+Albert Schweitzerlaan,31,"","",7334DZ,Apeldoorn
+Albert Schweitzerlaan,31,K,"",7334DZ,Apeldoorn
+Albert Schweitzerlaan,31,R,"",7334DZ,Apeldoorn
+31,K,"","",7334DZ,
+31,R,"","",7334DZ,
+9,"","","",7339AA,
+17,"","","",7339AA,
+31,"","","",7339AA,
+29,"","","",7339AA,
+25,"","","",7339AA,
+43,"","","",7339AA,
+15,"","","",7339AA,
+5,"","","",7339AA,
+67,"","","",7339AA,
+35,"","","",7339AA,
+23,"","","",7339AA,
+27,"","","",7339AA,
+19,"","","",7339AA,
+65,"","","",7339AA,
+33,"","","",7339AA,
+11,"","","",7339AA,
+47,"","","",7339AA,
+57,"","","",7339AA,
+61,"","","",7339AA,
+37,"","","",7339AA,
+49,"","","",7339AA,
+71,"","","",7339AA,
+59,"","","",7339AA,
+41,"","","",7339AA,
+63,"","","",7339AA,
+55,"","","",7339AA,
+53,"","","",7339AA,
+45,"","","",7339AA,
+1,"","","",7339AA,
+39,"","","",7339AA,
+51,"","","",7339AA,
+Richtersweg,1,"","",7339AA,Ugchelen
+Richtersweg,11,"","",7339AA,Ugchelen
+Richtersweg,13,A,"",7339AA,Ugchelen
+Richtersweg,13,B,"",7339AA,Ugchelen
+Richtersweg,15,"","",7339AA,Ugchelen
+Richtersweg,17,"","",7339AA,Ugchelen
+Richtersweg,19,"","",7339AA,Ugchelen
+Richtersweg,23,"","",7339AA,Ugchelen
+Richtersweg,25,"","",7339AA,Ugchelen
+Richtersweg,27,"","",7339AA,Ugchelen
+Richtersweg,29,"","",7339AA,Ugchelen
+Richtersweg,31,"","",7339AA,Ugchelen
+Richtersweg,33,"","",7339AA,Ugchelen
+Richtersweg,35,"","",7339AA,Ugchelen
+Richtersweg,37,"","",7339AA,Ugchelen
+Richtersweg,39,"","",7339AA,Ugchelen
+Richtersweg,41,"","",7339AA,Ugchelen
+Richtersweg,43,"","",7339AA,Ugchelen
+Richtersweg,45,"","",7339AA,Ugchelen
+Richtersweg,47,"","",7339AA,Ugchelen
+Richtersweg,49,"","",7339AA,Ugchelen
+Richtersweg,5,"","",7339AA,Ugchelen
+Richtersweg,51,"","",7339AA,Ugchelen
+Richtersweg,53,"","",7339AA,Ugchelen
+Richtersweg,55,"","",7339AA,Ugchelen
+Richtersweg,57,"","",7339AA,Ugchelen
+Richtersweg,59,"","",7339AA,Ugchelen
+Richtersweg,61,"","",7339AA,Ugchelen
+Richtersweg,63,"","",7339AA,Ugchelen
+Richtersweg,65,"","",7339AA,Ugchelen
+Richtersweg,67,"","",7339AA,Ugchelen
+Richtersweg,7,A,"",7339AA,Ugchelen
+Richtersweg,7,B,"",7339AA,Ugchelen
+Richtersweg,71,"","",7339AA,Ugchelen
+Richtersweg,9,"","",7339AA,Ugchelen
+13,A,"","",7339AA,
+7,A,"","",7339AA,
+7,B,"","",7339AA,
+13,B,"","",7339AA,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

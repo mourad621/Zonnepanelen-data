@@ -1,79 +1,80 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7313AC",31,"",""
-"7313AC",35,"",""
-"7313AC",41,"B",""
-"7313AC",23,"",""
-"7313AC",37,"",""
-"7313AC",25,"",""
-"7313AW",30,"",""
-"7313AW",33,"",""
-"7313ER",210,"",""
-"7313ER",214,"",""
-"7313ER",300,"",""
-"7313ER",220,"",""
-"7313HK",3,"",""
-"7313HK",23,"",""
-"7313HK",1,"A",""
-"7313HK",5,"",""
-"7313HK",21,"",""
-"7313HK",27,"",""
-"7313HK",3,"A",""
-"7313HK",1,"",""
-"7313HK",23,"",""
-"7313HK",19,"",""
-"7313HK",19,"",""
-"7313HK",31,"",""
-"7313HK",21,"",""
-"7313HK",19,"",""
-"7313HK",19,"",""
-"7313HK",25,"",""
-"7313HK",31,"",""
-"7313HK",21,"",""
-"7313HK",31,"",""
-"7313HK",9,"",""
-"7313HK",21,"",""
-"7313HK",11,"",""
-"7313HK",7,"",""
-"7313HK",31,"",""
-"7313HK",25,"",""
-"7313HK",5,"A",""
-"7313HK",21,"",""
-"7313HK",29,"",""
-"7313HK",17,"",""
-7313AC,Amersfoortseweg,23,,
-7313AC,Amersfoortseweg,25,,
-7313AC,Amersfoortseweg,31,,
-7313AC,Amersfoortseweg,35,,
-7313AC,Amersfoortseweg,37,,
-7313HK,J.C. Wilslaan,1,,
-7313HK,J.C. Wilslaan,3,,
-7313HK,J.C. Wilslaan,3,A,
-7313HK,J.C. Wilslaan,5,,
-7313HK,J.C. Wilslaan,5,A,
-7313HK,J.C. Wilslaan,7,,
-7313HK,J.C. Wilslaan,9,,
-7313HK,J.C. Wilslaan,11,,
-7313HK,J.C. Wilslaan,19,,
-7313HK,J.C. Wilslaan,21,,
-7313HK,J.C. Wilslaan,31,,
-7313AW,Pijnboomlaan,30,,
-7313AW,Pijnboomlaan,33,,
-7313ER,Soerenseweg,210,,
-7313ER,Soerenseweg,220,,
-7313ER,Soerenseweg,214,,
-7313AC,Amersfoortseweg,41,B,
-7313HK,J.C. Wilslaan,29,,
-7313HK,J.C. Wilslaan,25,,
-7313HK,J.C. Wilslaan,25,,
-7313HK,J.C. Wilslaan,19,,
-7313HK,J.C. Wilslaan,19,,
-7313HK,J.C. Wilslaan,21,,
-7313HK,J.C. Wilslaan,21,,
-7313HK,J.C. Wilslaan,23,,
-7313HK,J.C. Wilslaan,23,,
-7313HK,J.C. Wilslaan,31,,
-7313HK,J.C. Wilslaan,31,,
-7313HK,J.C. Wilslaan,17,,
-7313HK,J.C. Wilslaan,27,,
-7313ER,Soerenseweg,300,,
-7313HK,J.C. Wilslaan,1,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+31,"","","",7313AC,
+35,"","","",7313AC,
+23,"","","",7313AC,
+37,"","","",7313AC,
+25,"","","",7313AC,
+Amersfoortseweg,23,"","",7313AC,Apeldoorn
+Amersfoortseweg,25,"","",7313AC,Apeldoorn
+Amersfoortseweg,31,"","",7313AC,Apeldoorn
+Amersfoortseweg,35,"","",7313AC,Apeldoorn
+Amersfoortseweg,37,"","",7313AC,Apeldoorn
+Amersfoortseweg,41,B,"",7313AC,Apeldoorn
+41,B,"","",7313AC,
+30,"","","",7313AW,
+33,"","","",7313AW,
+Pijnboomlaan,30,"","",7313AW,Apeldoorn
+Pijnboomlaan,33,"","",7313AW,Apeldoorn
+210,"","","",7313ER,
+214,"","","",7313ER,
+300,"","","",7313ER,
+220,"","","",7313ER,
+Soerenseweg,210,"","",7313ER,Apeldoorn
+Soerenseweg,214,"","",7313ER,Apeldoorn
+Soerenseweg,220,"","",7313ER,Apeldoorn
+Soerenseweg,300,"","",7313ER,Apeldoorn
+3,"","","",7313HK,
+23,"","","",7313HK,
+5,"","","",7313HK,
+21,"","","",7313HK,
+27,"","","",7313HK,
+1,"","","",7313HK,
+23,"","","",7313HK,
+19,"","","",7313HK,
+19,"","","",7313HK,
+31,"","","",7313HK,
+21,"","","",7313HK,
+19,"","","",7313HK,
+19,"","","",7313HK,
+25,"","","",7313HK,
+31,"","","",7313HK,
+21,"","","",7313HK,
+31,"","","",7313HK,
+9,"","","",7313HK,
+21,"","","",7313HK,
+11,"","","",7313HK,
+7,"","","",7313HK,
+31,"","","",7313HK,
+25,"","","",7313HK,
+21,"","","",7313HK,
+29,"","","",7313HK,
+17,"","","",7313HK,
+J.C. Wilslaan,1,"","",7313HK,Apeldoorn
+J.C. Wilslaan,1,A,"",7313HK,Apeldoorn
+J.C. Wilslaan,11,"","",7313HK,Apeldoorn
+J.C. Wilslaan,17,"","",7313HK,Apeldoorn
+J.C. Wilslaan,19,"","",7313HK,Apeldoorn
+J.C. Wilslaan,19,"","",7313HK,Apeldoorn
+J.C. Wilslaan,19,"","",7313HK,Apeldoorn
+J.C. Wilslaan,21,"","",7313HK,Apeldoorn
+J.C. Wilslaan,21,"","",7313HK,Apeldoorn
+J.C. Wilslaan,21,"","",7313HK,Apeldoorn
+J.C. Wilslaan,23,"","",7313HK,Apeldoorn
+J.C. Wilslaan,23,"","",7313HK,Apeldoorn
+J.C. Wilslaan,25,"","",7313HK,Apeldoorn
+J.C. Wilslaan,25,"","",7313HK,Apeldoorn
+J.C. Wilslaan,27,"","",7313HK,Apeldoorn
+J.C. Wilslaan,29,"","",7313HK,Apeldoorn
+J.C. Wilslaan,3,"","",7313HK,Apeldoorn
+J.C. Wilslaan,3,A,"",7313HK,Apeldoorn
+J.C. Wilslaan,31,"","",7313HK,Apeldoorn
+J.C. Wilslaan,31,"","",7313HK,Apeldoorn
+J.C. Wilslaan,31,"","",7313HK,Apeldoorn
+J.C. Wilslaan,5,"","",7313HK,Apeldoorn
+J.C. Wilslaan,5,A,"",7313HK,Apeldoorn
+J.C. Wilslaan,7,"","",7313HK,Apeldoorn
+J.C. Wilslaan,9,"","",7313HK,Apeldoorn
+1,A,"","",7313HK,
+3,A,"","",7313HK,
+5,A,"","",7313HK,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

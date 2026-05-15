@@ -1,235 +1,120 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7735KC",1,"a",""
-"7735KC",1,"",""
-"7735KC",1,"",""
-"7735KC",4,"",""
-"7735KC",3,"a",""
-"7735KC",1,"a",""
-"7735KC",1,"a",""
-"7735KC",3,"a",""
-"7735KC",12,"",""
-"7735KC",13,"",""
-"7735KC",14,"",""
-"7735KC",13,"",""
-"7735KC",4,"",""
-"7735KC",3,"",""
-"7735KC",3,"",""
-"7735KC",12,"",""
-"7735KC",5,"",""
-"7735KC",1,"",""
-"7735KC",1,"a",""
-"7735KC",11,"",""
-"7735KC",12,"",""
-"7735KC",5,"",""
-"7735KC",12,"b",""
-"7735KC",8,"",""
-"7735KC",10,"",""
-"7735KC",11,"",""
-"7735KC",3,"a",""
-"7735KC",14,"",""
-"7735KC",2,"",""
-"7735KC",1,"a",""
-"7735KC",4,"a",""
-"7735KC",8,"",""
-"7735KC",14,"",""
-"7735KC",3,"",""
-"7735KC",12,"b",""
-"7735KC",13,"",""
-"7735KC",11,"",""
-"7735KC",5,"",""
-"7735KC",2,"",""
-"7735KC",12,"B",""
-"7735KC",4,"",""
-"7735KC",8,"",""
-"7735KC",8,"",""
-"7735KC",2,"",""
-"7735KM",6,"",""
-"7735KM",1,"a",""
-"7735KM",1,"",""
-"7735KM",4,"",""
-"7735KM",3,"",""
-"7735KM",3,"",""
-"7735KM",2,"",""
-"7735KM",2,"",""
-"7735KM",4,"a",""
-"7735KP",2,"",""
-"7735KP",3,"",""
-"7735KP",3,"a",""
-"7735KP",6,"",""
-"7735KP",2,"",""
-"7735KP",2,"a",""
-"7735KP",3,"",""
-"7735KP",7,"",""
-"7735KP",2,"a",""
-"7735KP",3,"",""
-"7735KP",3,"",""
-"7735KP",3,"b",""
-"7735KP",3,"b",""
-"7735KP",5,"",""
-"7735KP",6,"",""
-"7735KP",4,"",""
-"7735KP",4,"",""
-"7735KP",3,"a",""
-"7735KP",1,"",""
-"7735KP",5,"",""
-"7735KP",5,"",""
-"7735KP",1,"",""
-"7735KP",7,"",""
-"7735KP",4,"",""
-"7735KP",7,"",""
-"7735KP",6,"",""
-"7735KP",3,"a",""
-"7735KS",5,"b",""
-"7735KS",3,"",""
-"7735KS",8,"a",""
-"7735KS",1,"",""
-"7735KS",3,"",""
-"7735KS",5,"a",""
-"7735KS",5,"b",""
-"7735KS",6,"",""
-"7735KS",9,"",""
-"7735KS",3,"a",""
-"7735KS",3,"c",""
-"7735KS",9,"a",""
-"7735KS",7,"",""
-"7735KS",1,"a",""
-"7735KS",2,"",""
-"7735KS",8,"",""
-"7735KS",8,"i",""
-"7735KS",10,"",""
-"7735KS",5,"",""
-"7735KS",1,"",""
-"7735KS",2,"",""
-"7735KS",3,"b",""
-"7735KS",6,"b",""
-"7735KS",4,"",""
-"7735KS",5,"a",""
-"7735KS",11,"",""
-"7735KS",12,"",""
-"7735KT",2,"",""
-"7735KT",5,"",""
-"7735KT",3,"",""
-"7735KT",6,"",""
-"7735KV",7,"",""
-"7735KV",1,"",""
-"7735KV",3,"",""
-"7735KV",4,"",""
-"7735KV",5,"",""
-"7735KV",9,"",""
-"7735KV",5,"a",""
-"7735KZ",1,"",""
-7735KP,Hessenweg Oost,3,b,
-7735KP,Hessenweg Oost,2,a,
-7735KM,Middenweg,1,a,
-7735KM,Middenweg,1,,
-7735KM,Middenweg,2,,
-7735KM,Middenweg,2,,
-7735KM,Middenweg,3,,
-7735KM,Middenweg,3,,
-7735KM,Middenweg,4,,
-7735KC,Arriërveldsweg,12,b,
-7735KC,Arriërveldsweg,1,a,
-7735KC,Arriërveldsweg,1,,
-7735KC,Arriërveldsweg,2,,
-7735KC,Arriërveldsweg,3,,
-7735KC,Arriërveldsweg,3,a,
-7735KC,Arriërveldsweg,4,,
-7735KC,Arriërveldsweg,5,,
-7735KC,Arriërveldsweg,8,,
-7735KC,Arriërveldsweg,11,,
-7735KC,Arriërveldsweg,12,,
-7735KC,Arriërveldsweg,13,,
-7735KC,Arriërveldsweg,14,,
-7735KS,Dwarsweg,6,b,
-7735KS,Dwarsweg,9,a,
-7735KS,Dwarsweg,2,,
-7735KS,Dwarsweg,3,a,
-7735KV,Schapendijk,5,a,
-7735KP,Hessenweg Oost,2,a,
-7735KC,Arriërveldsweg,12,B,
-7735KC,Arriërveldsweg,1,,
-7735KC,Arriërveldsweg,1,,
-7735KC,Arriërveldsweg,2,,
-7735KC,Arriërveldsweg,2,,
-7735KC,Arriërveldsweg,3,,
-7735KC,Arriërveldsweg,3,,
-7735KC,Arriërveldsweg,3,a,
-7735KC,Arriërveldsweg,3,a,
-7735KC,Arriërveldsweg,4,,
-7735KC,Arriërveldsweg,4,,
-7735KC,Arriërveldsweg,5,,
-7735KC,Arriërveldsweg,5,,
-7735KC,Arriërveldsweg,8,,
-7735KC,Arriërveldsweg,10,,
-7735KC,Arriërveldsweg,11,,
-7735KC,Arriërveldsweg,11,,
-7735KC,Arriërveldsweg,12,,
-7735KC,Arriërveldsweg,12,,
-7735KC,Arriërveldsweg,13,,
-7735KC,Arriërveldsweg,13,,
-7735KC,Arriërveldsweg,14,,
-7735KC,Arriërveldsweg,14,,
-7735KP,Hessenweg Oost,1,,
-7735KP,Hessenweg Oost,2,,
-7735KP,Hessenweg Oost,3,,
-7735KP,Hessenweg Oost,3,a,
-7735KP,Hessenweg Oost,4,,
-7735KP,Hessenweg Oost,5,,
-7735KP,Hessenweg Oost,6,,
-7735KP,Hessenweg Oost,7,,
-7735KM,Middenweg,6,,
-7735KM,Middenweg,4,a,
-7735KT,Noordelijke Dwarsweg,2,,
-7735KT,Noordelijke Dwarsweg,3,,
-7735KT,Noordelijke Dwarsweg,5,,
-7735KT,Noordelijke Dwarsweg,6,,
-7735KS,Dwarsweg,1,,
-7735KS,Dwarsweg,1,a,
-7735KS,Dwarsweg,3,,
-7735KS,Dwarsweg,1,,
-7735KS,Dwarsweg,2,,
-7735KS,Dwarsweg,3,,
-7735KS,Dwarsweg,4,,
-7735KS,Dwarsweg,5,,
-7735KS,Dwarsweg,6,,
-7735KS,Dwarsweg,7,,
-7735KS,Dwarsweg,8,,
-7735KS,Dwarsweg,8,a,
-7735KS,Dwarsweg,9,,
-7735KS,Dwarsweg,10,,
-7735KS,Dwarsweg,11,,
-7735KS,Dwarsweg,12,,
-7735KS,Dwarsweg,5,a,
-7735KS,Dwarsweg,5,a,
-7735KS,Dwarsweg,5,b,
-7735KS,Dwarsweg,5,b,
-7735KS,Dwarsweg,8,i,
-7735KS,Dwarsweg,3,b,
-7735KS,Dwarsweg,3,c,
-7735KV,Schapendijk,9,,
-7735KV,Schapendijk,7,,
-7735KV,Schapendijk,1,,
-7735KV,Schapendijk,3,,
-7735KV,Schapendijk,4,,
-7735KV,Schapendijk,5,,
-7735KZ,Boekweitakkers,1,,
-7735KP,Hessenweg Oost,2,,
-7735KP,Hessenweg Oost,3,,
-7735KP,Hessenweg Oost,3,a,
-7735KP,Hessenweg Oost,3,a,
-7735KP,Hessenweg Oost,4,,
-7735KP,Hessenweg Oost,4,,
-7735KP,Hessenweg Oost,5,,
-7735KP,Hessenweg Oost,5,,
-7735KP,Hessenweg Oost,6,,
-7735KP,Hessenweg Oost,6,,
-7735KP,Hessenweg Oost,7,,
-7735KP,Hessenweg Oost,7,,
-7735KP,Hessenweg Oost,3,,
-7735KC,Arriërveldsweg,1,a,
-7735KC,Arriërveldsweg,1,a,
-7735KC,Arriërveldsweg,1,a,
-7735KC,Arriërveldsweg,1,a,
-7735KC,Arriërveldsweg,8,,
-7735KC,Arriërveldsweg,4,a,
-7735KC,Arriërveldsweg,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Arriërveldsweg,1,"","",7735KC,Arriën
+Arriërveldsweg,1,"","",7735KC,Arriën
+Arriërveldsweg,1,"","",7735KC,Arriën
+Arriërveldsweg,1,A,"",7735KC,Arriën
+Arriërveldsweg,1,A,"",7735KC,Arriën
+Arriërveldsweg,1,A,"",7735KC,Arriën
+Arriërveldsweg,1,A,"",7735KC,Arriën
+Arriërveldsweg,1,A,"",7735KC,Arriën
+Arriërveldsweg,10,"","",7735KC,Arriën
+Arriërveldsweg,11,"","",7735KC,Arriën
+Arriërveldsweg,11,"","",7735KC,Arriën
+Arriërveldsweg,11,"","",7735KC,Arriën
+Arriërveldsweg,12,"","",7735KC,Arriën
+Arriërveldsweg,12,"","",7735KC,Arriën
+Arriërveldsweg,12,"","",7735KC,Arriën
+Arriërveldsweg,12,B,"",7735KC,Arriën
+Arriërveldsweg,12,B,"",7735KC,Arriën
+Arriërveldsweg,12,B,"",7735KC,Arriën
+Arriërveldsweg,13,"","",7735KC,Arriën
+Arriërveldsweg,13,"","",7735KC,Arriën
+Arriërveldsweg,13,"","",7735KC,Arriën
+Arriërveldsweg,14,"","",7735KC,Arriën
+Arriërveldsweg,14,"","",7735KC,Arriën
+Arriërveldsweg,14,"","",7735KC,Arriën
+Arriërveldsweg,2,"","",7735KC,Arriën
+Arriërveldsweg,2,"","",7735KC,Arriën
+Arriërveldsweg,2,"","",7735KC,Arriën
+Arriërveldsweg,3,"","",7735KC,Arriën
+Arriërveldsweg,3,"","",7735KC,Arriën
+Arriërveldsweg,3,"","",7735KC,Arriën
+Arriërveldsweg,3,A,"",7735KC,Arriën
+Arriërveldsweg,3,A,"",7735KC,Arriën
+Arriërveldsweg,3,A,"",7735KC,Arriën
+Arriërveldsweg,4,"","",7735KC,Arriën
+Arriërveldsweg,4,"","",7735KC,Arriën
+Arriërveldsweg,4,"","",7735KC,Arriën
+Arriërveldsweg,4,A,"",7735KC,Arriën
+Arriërveldsweg,5,"","",7735KC,Arriën
+Arriërveldsweg,5,"","",7735KC,Arriën
+Arriërveldsweg,5,"","",7735KC,Arriën
+Arriërveldsweg,8,"","",7735KC,Arriën
+Arriërveldsweg,8,"","",7735KC,Arriën
+Arriërveldsweg,8,"","",7735KC,Arriën
+Arriërveldsweg,8,"","",7735KC,Arriën
+Middenweg,1,"","",7735KM,Arriën
+Middenweg,1,A,"",7735KM,Arriën
+Middenweg,2,"","",7735KM,Arriën
+Middenweg,2,"","",7735KM,Arriën
+Middenweg,3,"","",7735KM,Arriën
+Middenweg,3,"","",7735KM,Arriën
+Middenweg,4,"","",7735KM,Arriën
+Middenweg,4,A,"",7735KM,Arriën
+Middenweg,6,"","",7735KM,Arriën
+Hessenweg Oost,1,"","",7735KP,Arriën
+Hessenweg Oost,1,"","",7735KP,Arriën
+Hessenweg Oost,2,"","",7735KP,Arriën
+Hessenweg Oost,2,"","",7735KP,Arriën
+Hessenweg Oost,2,A,"",7735KP,Arriën
+Hessenweg Oost,2,A,"",7735KP,Arriën
+Hessenweg Oost,3,"","",7735KP,Arriën
+Hessenweg Oost,3,"","",7735KP,Arriën
+Hessenweg Oost,3,"","",7735KP,Arriën
+Hessenweg Oost,3,"","",7735KP,Arriën
+Hessenweg Oost,3,A,"",7735KP,Arriën
+Hessenweg Oost,3,A,"",7735KP,Arriën
+Hessenweg Oost,3,A,"",7735KP,Arriën
+Hessenweg Oost,3,B,"",7735KP,Arriën
+Hessenweg Oost,3,B,"",7735KP,Arriën
+Hessenweg Oost,4,"","",7735KP,Arriën
+Hessenweg Oost,4,"","",7735KP,Arriën
+Hessenweg Oost,4,"","",7735KP,Arriën
+Hessenweg Oost,5,"","",7735KP,Arriën
+Hessenweg Oost,5,"","",7735KP,Arriën
+Hessenweg Oost,5,"","",7735KP,Arriën
+Hessenweg Oost,6,"","",7735KP,Arriën
+Hessenweg Oost,6,"","",7735KP,Arriën
+Hessenweg Oost,6,"","",7735KP,Arriën
+Hessenweg Oost,7,"","",7735KP,Arriën
+Hessenweg Oost,7,"","",7735KP,Arriën
+Hessenweg Oost,7,"","",7735KP,Arriën
+Dwarsweg,1,"","",7735KS,Arriën
+Dwarsweg,1,"","",7735KS,Arriën
+Dwarsweg,1,A,"",7735KS,Arriën
+Dwarsweg,10,"","",7735KS,Arriën
+Dwarsweg,11,"","",7735KS,Arriën
+Dwarsweg,12,"","",7735KS,Arriën
+Dwarsweg,2,"","",7735KS,Arriën
+Dwarsweg,2,"","",7735KS,Arriën
+Dwarsweg,3,"","",7735KS,Arriën
+Dwarsweg,3,"","",7735KS,Arriën
+Dwarsweg,3,A,"",7735KS,Arriën
+Dwarsweg,3,B,"",7735KS,Arriën
+Dwarsweg,3,C,"",7735KS,Arriën
+Dwarsweg,4,"","",7735KS,Arriën
+Dwarsweg,5,"","",7735KS,Arriën
+Dwarsweg,5,A,"",7735KS,Arriën
+Dwarsweg,5,A,"",7735KS,Arriën
+Dwarsweg,5,B,"",7735KS,Arriën
+Dwarsweg,5,B,"",7735KS,Arriën
+Dwarsweg,6,"","",7735KS,Arriën
+Dwarsweg,6,B,"",7735KS,Arriën
+Dwarsweg,7,"","",7735KS,Arriën
+Dwarsweg,8,"","",7735KS,Arriën
+Dwarsweg,8,A,"",7735KS,Arriën
+Dwarsweg,8,I,"",7735KS,Arriën
+Dwarsweg,9,"","",7735KS,Arriën
+Dwarsweg,9,A,"",7735KS,Arriën
+Noordelijke Dwarsweg,2,"","",7735KT,Arriën
+Noordelijke Dwarsweg,3,"","",7735KT,Arriën
+Noordelijke Dwarsweg,5,"","",7735KT,Arriën
+Noordelijke Dwarsweg,6,"","",7735KT,Arriën
+Schapendijk,1,"","",7735KV,Arriën
+Schapendijk,3,"","",7735KV,Arriën
+Schapendijk,4,"","",7735KV,Arriën
+Schapendijk,5,"","",7735KV,Arriën
+Schapendijk,5,A,"",7735KV,Arriën
+Schapendijk,7,"","",7735KV,Arriën
+Schapendijk,9,"","",7735KV,Arriën
+Boekweitakkers,1,"","",7735KZ,Ommen

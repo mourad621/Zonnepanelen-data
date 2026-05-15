@@ -1,583 +1,295 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7881CT",45,"",""
-"7881CT",43,"",""
-"7881CT",32,"",""
-"7881CT",40,"",""
-"7881CT",36,"",""
-"7881CT",43,"",""
-"7881CT",25,"",""
-"7881CT",31,"",""
-"7881CT",42,"",""
-"7881CT",42,"",""
-"7881CT",26,"",""
-"7881CT",30,"",""
-"7881CT",46,"",""
-"7881CT",33,"",""
-"7881CT",44,"",""
-"7881CT",52,"",""
-"7881CT",28,"",""
-"7881CT",44,"",""
-"7881CT",29,"",""
-"7881CT",37,"",""
-"7881CV",54,"",""
-"7881CV",105,"",""
-"7881CV",108,"",""
-"7881CV",103,"",""
-"7881CV",102,"",""
-"7881CV",112,"",""
-"7881CV",95,"",""
-"7881CV",100,"",""
-"7881CV",114,"",""
-"7881CV",93,"",""
-"7881CV",100,"",""
-"7881CV",89,"",""
-"7881CV",96,"",""
-"7881CV",94,"",""
-"7881CV",116,"",""
-"7881CV",90,"",""
-"7881CV",91,"",""
-"7881CV",109,"",""
-"7881CV",97,"",""
-"7881CW",1,"",""
-"7881CW",9,"",""
-"7881CW",7,"",""
-"7881CW",18,"",""
-"7881CW",3,"",""
-"7881CW",36,"",""
-"7881CW",4,"",""
-"7881CW",40,"",""
-"7881CW",11,"",""
-"7881CW",38,"",""
-"7881CW",27,"",""
-"7881CW",24,"",""
-"7881CW",23,"",""
-"7881CW",5,"",""
-"7881CW",33,"",""
-"7881CW",37,"",""
-"7881CW",10,"",""
-"7881CW",62,"",""
-"7881CW",20,"",""
-"7881CW",19,"",""
-"7881CW",25,"",""
-"7881CW",29,"",""
-"7881CX",5,"",""
-"7881CX",4,"",""
-"7881CX",23,"A",""
-"7881CX",23,"A",""
-"7881CX",20,"",""
-"7881CX",17,"",""
-"7881CX",23,"",""
-"7881CX",15,"",""
-"7881CX",6,"",""
-"7881CX",17,"",""
-"7881CZ",9,"",""
-"7881CZ",40,"",""
-"7881CZ",22,"","TR"
-"7881CZ",50,"",""
-"7881CZ",10,"",""
-"7881CZ",43,"",""
-"7881CZ",25,"","TR"
-"7881CZ",22,"B",""
-"7881CZ",25,"","TR"
-"7881CZ",22,"",""
-"7881CZ",11,"",""
-"7881CZ",43,"",""
-"7881CZ",25,"","TR"
-"7881CZ",50,"",""
-"7881CZ",22,"A",""
-"7881CZ",50,"",""
-"7881CZ",43,"",""
-"7881CZ",25,"",""
-"7881CZ",22,"",""
-"7881CZ",50,"",""
-"7881CZ",50,"",""
-"7881GS",136,"",""
-"7881GS",143,"",""
-"7881GS",150,"",""
-"7881GS",146,"",""
-"7881GS",132,"",""
-"7881GS",144,"",""
-"7881GS",140,"",""
-"7881GS",137,"",""
-"7881GS",133,"A",""
-"7881GS",141,"",""
-"7881GS",132,"","GAR"
-"7881GS",133,"",""
-"7881GS",130,"",""
-"7881GS",131,"",""
-"7881GS",134,"",""
-"7881GS",148,"",""
-"7881GS",138,"",""
-"7881GS",132,"","GB"
-"7881GS",139,"",""
-"7881GS",135,"",""
-"7881GS",132,"","GB"
-"7881GT",160,"",""
-"7881GT",162,"",""
-"7881GT",168,"",""
-"7881GT",161,"",""
-"7881GT",164,"",""
-"7881GT",167,"",""
-"7881GT",170,"",""
-"7881GT",165,"",""
-"7881GT",155,"",""
-"7881GT",166,"",""
-"7881GT",151,"",""
-"7881GT",152,"",""
-"7881GT",159,"",""
-"7881GT",157,"",""
-"7881GV",177,"",""
-"7881GV",190,"",""
-"7881GV",185,"",""
-"7881GV",179,"",""
-"7881GV",173,"",""
-"7881GV",179,"",""
-"7881GV",175,"",""
-"7881GV",195,"",""
-"7881GV",194,"",""
-"7881GV",182,"",""
-"7881GV",186,"",""
-"7881GV",178,"",""
-"7881GV",194,"",""
-"7881GV",191,"",""
-"7881GW",201,"",""
-"7881GW",220,"",""
-"7881GW",198,"",""
-"7881GW",200,"",""
-"7881GW",197,"",""
-"7881GW",221,"",""
-"7881GW",203,"",""
-"7881GW",206,"",""
-"7881GW",223,"",""
-"7881GW",222,"",""
-"7881GW",199,"",""
-"7881GX",227,"",""
-"7881GX",227,"A",""
-"7881GX",225,"",""
-"7881GX",228,"",""
-"7881GX",240,"",""
-"7881GX",228,"",""
-"7881GX",234,"A",""
-"7881GX",234,"",""
-"7881GX",224,"",""
-"7881GX",228,"",""
-"7881GX",236,"",""
-"7881GX",226,"",""
-"7881GX",224,"","TR"
-"7881GX",240,"A",""
-"7881GX",228,"",""
-"7881GX",7911,"","3"
-"7881GX",227,"A",""
-"7881GX",228,"",""
-"7881GX",7914,"",""
-"7881HG",101,"",""
-"7881HG",96,"",""
-"7881HG",109,"",""
-"7881HG",100,"",""
-"7881HG",115,"",""
-"7881HG",99,"",""
-"7881HG",112,"",""
-"7881HG",108,"",""
-"7881HG",103,"",""
-"7881HG",121,"",""
-"7881HG",119,"",""
-"7881HG",116,"",""
-"7881HG",100,"A",""
-"7881HG",100,"A",""
-"7881HG",121,"",""
-"7881HG",105,"",""
-"7881HG",113,"",""
-"7881HG",107,"",""
-"7881HG",111,"",""
-"7881HG",102,"",""
-"7881HG",114,"",""
-"7881HG",118,"",""
-"7881HG",106,"",""
-"7881HG",117,"",""
-"7881PA",41,"",""
-"7881PA",42,"",""
-"7881PA",16,"","TR"
-"7881PA",16,"",""
-"7881PA",21,"",""
-"7881PA",17,"",""
-"7881PA",46,"",""
-"7881PA",45,"",""
-"7881PA",49,"",""
-"7881PA",32,"",""
-"7881PA",44,"",""
-"7881PA",16,"","TR"
-"7881PA",25,"",""
-"7881PA",28,"",""
-"7881PA",16,"","TR1"
-"7881PA",23,"",""
-"7881PA",16,"","TR"
-"7881PA",29,"",""
-"7881PB",53,"",""
-"7881PB",57,"",""
-"7881PB",63,"",""
-"7881PB",60,"",""
-"7881PB",68,"",""
-"7881PB",64,"",""
-"7881PB",72,"",""
-"7881PB",67,"",""
-"7881PB",70,"",""
-"7881PB",77,"",""
-"7881PB",55,"",""
-"7881PB",75,"",""
-"7881PB",78,"",""
-"7881PB",53,"",""
-"7881PB",74,"",""
-"7881PB",53,"",""
-"7881PB",61,"",""
-"7881PB",65,"",""
-"7881PB",59,"",""
-"7881PB",53,"",""
-"7881PC",98,"",""
-"7881PC",89,"",""
-"7881PC",84,"",""
-"7881PC",90,"",""
-"7881PC",91,"",""
-"7881PC",92,"",""
-"7881PC",99,"",""
-"7881PC",96,"",""
-"7881PC",94,"",""
-"7881PD",108,"",""
-"7881PD",112,"",""
-"7881PD",110,"",""
-"7881PD",102,"",""
-"7881PD",104,"",""
-"7881PD",105,"",""
-"7881PD",109,"",""
-"7881PD",106,"",""
-"7881PE",114,"",""
-"7881PE",115,"",""
-"7881PE",124,"",""
-"7881PE",113,"",""
-"7881PE",122,"",""
-"7881PE",118,"",""
-"7881PE",120,"",""
-"7881PE",122,"A",""
-"7881PE",116,"",""
-"7881PG",30,"",""
-"7881PG",35,"",""
-"7881PG",13,"",""
-"7881PG",27,"",""
-"7881PG",44,"",""
-"7881PG",28,"",""
-"7881PG",29,"",""
-"7881PG",28,"",""
-"7881PG",34,"",""
-"7881PG",45,"",""
-"7881PG",21,"",""
-"7881PG",46,"",""
-"7881PG",40,"",""
-"7881PG",41,"",""
-"7881PG",43,"",""
-"7881PG",21,"A",""
-"7881PL",76,"",""
-"7881PL",81,"",""
-"7881PL",75,"",""
-"7881PL",78,"",""
-"7881PL",61,"",""
-"7881PL",64,"",""
-"7881PL",62,"",""
-"7881PL",82,"",""
-"7881TK",137,"A",""
-"7881TK",134,"",""
-"7881TK",127,"B",""
-"7881TK",127,"A",""
-"7881TK",137,"",""
-"7881TK",133,"",""
-"7881TK",129,"",""
-"7881TK",127,"B",""
-"7881TK",127,"",""
-"7881TK",127,"A",""
-"7881TK",131,"",""
-7881CW,Oostelijke Doorsnee NZ,9,,
-7881CW,Oostelijke Doorsnee NZ,4,,
-7881CW,Oostelijke Doorsnee NZ,20,,
-7881CW,Oostelijke Doorsnee NZ,23,,
-7881CW,Oostelijke Doorsnee NZ,33,,
-7881CT,Oosterdiep OZ,37,,
-7881CT,Oosterdiep OZ,43,,
-7881CT,Oosterdiep OZ,43,,
-7881CT,Oosterdiep OZ,42,,
-7881CT,Oosterdiep OZ,42,,
-7881CV,Oosterdiep OZ,96,,
-7881CV,Oosterdiep OZ,116,,
-7881CV,Oosterdiep OZ,114,,
-7881TK,Oosterdiep OZ,137,,
-7881TK,Oosterdiep OZ,137,A,
-7881GS,Oosterdiep WZ,146,,
-7881GS,Oosterdiep WZ,148,,
-7881GS,Oosterdiep WZ,135,,
-7881GS,Oosterdiep WZ,130,,
-7881GS,Oosterdiep WZ,131,,
-7881GV,Oosterdiep WZ,182,,
-7881GV,Oosterdiep WZ,185,,
-7881GV,Oosterdiep WZ,173,,
-7881GW,Oosterdiep WZ,197,,
-7881GW,Oosterdiep WZ,223,,
-7881GW,Oosterdiep WZ,206,,
-7881GW,Oosterdiep WZ,203,,
-7881GX,Oosterdiep WZ,226,,
-7881PB,Westelijke Doorsnee NZ,75,,
-7881PC,Westelijke Doorsnee NZ,92,,
-7881PC,Westelijke Doorsnee NZ,96,,
-7881PG,Westelijke Doorsnee ZZ,45,,
-7881PG,Westelijke Doorsnee ZZ,46,,
-7881PG,Westelijke Doorsnee ZZ,34,,
-7881HG,Westerdiep OZ,119,,
-7881HG,Westerdiep OZ,114,,
-7881HG,Westerdiep OZ,106,,
-7881HG,Westerdiep OZ,107,,
-7881HG,Westerdiep OZ,105,,
-7881HG,Westerdiep OZ,99,,
-7881CZ,Bredesloot,43,,
-7881CW,Oostelijke Doorsnee NZ,5,,
-7881CW,Oostelijke Doorsnee NZ,27,,
-7881CX,Oostelijke Doorsnee ZZ,6,,
-7881CT,Oosterdiep OZ,31,,
-7881CV,Oosterdiep OZ,90,,
-7881CV,Oosterdiep OZ,102,,
-7881TK,Oosterdiep OZ,131,,
-7881GS,Oosterdiep WZ,150,,
-7881GS,Oosterdiep WZ,132,,
-7881GT,Oosterdiep WZ,165,,
-7881GT,Oosterdiep WZ,155,,
-7881GV,Oosterdiep WZ,195,,
-7881GW,Oosterdiep WZ,221,,
-7881GX,Oosterdiep WZ,240,,
-7881GX,Oosterdiep WZ,240,A,
-7881CZ,Verlengde Tweede Groenedijk,9,,
-7881PA,Westelijke Doorsnee NZ,23,,
-7881PA,Westelijke Doorsnee NZ,44,,
-7881PB,Westelijke Doorsnee NZ,55,,
-7881PB,Westelijke Doorsnee NZ,60,,
-7881PB,Westelijke Doorsnee NZ,63,,
-7881PB,Westelijke Doorsnee NZ,70,,
-7881PB,Westelijke Doorsnee NZ,74,,
-7881PB,Westelijke Doorsnee NZ,78,,
-7881PC,Westelijke Doorsnee NZ,94,,
-7881PC,Westelijke Doorsnee NZ,99,,
-7881PD,Westelijke Doorsnee NZ,106,,
-7881PD,Westelijke Doorsnee NZ,112,,
-7881PE,Westelijke Doorsnee NZ,124,,
-7881PG,Westelijke Doorsnee ZZ,21,A,
-7881PG,Westelijke Doorsnee ZZ,29,,
-7881PG,Westelijke Doorsnee ZZ,30,,
-7881HG,Westerdiep OZ,121,,
-7881HG,Westerdiep OZ,121,,
-7881HG,Westerdiep OZ,115,,
-7881HG,Westerdiep OZ,113,,
-7881HG,Westerdiep OZ,109,,
-7881HG,Westerdiep OZ,100,,
-7881HG,Westerdiep OZ,96,,
-7881PL,Foxel,61,,
-7881PL,Foxel,82,,
-7881PL,Foxel,81,,
-7881PL,Foxel,76,,
-7881CW,Oostelijke Doorsnee NZ,1,,
-7881CW,Oostelijke Doorsnee NZ,18,,
-7881CT,Oosterdiep OZ,26,,
-7881CT,Oosterdiep OZ,25,,
-7881CT,Oosterdiep OZ,33,,
-7881TK,Oosterdiep OZ,129,,
-7881TK,Oosterdiep OZ,133,,
-7881TK,Oosterdiep OZ,134,,
-7881GS,Oosterdiep WZ,133,,
-7881GS,Oosterdiep WZ,141,,
-7881GS,Oosterdiep WZ,133,A,
-7881GT,Oosterdiep WZ,168,,
-7881GT,Oosterdiep WZ,164,,
-7881GT,Oosterdiep WZ,159,,
-7881GV,Oosterdiep WZ,186,,
-7881GW,Oosterdiep WZ,200,,
-7881GX,Oosterdiep WZ,234,,
-7881GX,Oosterdiep WZ,227,,
-7881CZ,Verlengde Tweede Groenedijk,25,,
-7881PA,Westelijke Doorsnee NZ,16,,
-7881PA,Westelijke Doorsnee NZ,32,,
-7881PA,Westelijke Doorsnee NZ,28,,
-7881PA,Westelijke Doorsnee NZ,46,,
-7881PB,Westelijke Doorsnee NZ,67,,
-7881PC,Westelijke Doorsnee NZ,98,,
-7881PD,Westelijke Doorsnee NZ,109,,
-7881PE,Westelijke Doorsnee NZ,113,,
-7881PE,Westelijke Doorsnee NZ,116,,
-7881PE,Westelijke Doorsnee NZ,120,,
-7881HG,Westerdiep OZ,118,,
-7881HG,Westerdiep OZ,112,,
-7881HG,Westerdiep OZ,102,,
-7881CZ,Bredesloot,40,,
-7881PL,Foxel,62,,
-7881PL,Foxel,64,,
-7881PL,Foxel,75,,
-7881CW,Oostelijke Doorsnee NZ,11,,
-7881CW,Oostelijke Doorsnee NZ,38,,
-7881CW,Oostelijke Doorsnee NZ,36,,
-7881CX,Oostelijke Doorsnee ZZ,23,,
-7881CV,Oosterdiep OZ,108,,
-7881GS,Oosterdiep WZ,140,,
-7881GS,Oosterdiep WZ,139,,
-7881GS,Oosterdiep WZ,143,,
-7881GS,Oosterdiep WZ,132,,GAR
-7881GS,Oosterdiep WZ,132,,GB
-7881GS,Oosterdiep WZ,132,,GB
-7881GT,Oosterdiep WZ,157,,
-7881GV,Oosterdiep WZ,191,,
-7881GV,Oosterdiep WZ,190,,
-7881GW,Oosterdiep WZ,201,,
-7881GX,Oosterdiep WZ,7911,,3
-7881GX,Oosterdiep WZ,224,,TR
-7881CZ,Verlengde Tweede Groenedijk,10,,
-7881PA,Westelijke Doorsnee NZ,49,,
-7881PB,Westelijke Doorsnee NZ,64,,
-7881PC,Westelijke Doorsnee NZ,89,,
-7881PC,Westelijke Doorsnee NZ,84,,
-7881PD,Westelijke Doorsnee NZ,105,,
-7881PE,Westelijke Doorsnee NZ,114,,
-7881PG,Westelijke Doorsnee ZZ,21,,
-7881HG,Westerdiep OZ,116,,
-7881HG,Westerdiep OZ,117,,
-7881PL,Foxel,78,,
-7881CW,Oostelijke Doorsnee NZ,62,,
-7881CW,Oostelijke Doorsnee NZ,25,,
-7881CW,Oostelijke Doorsnee NZ,40,,
-7881CW,Oostelijke Doorsnee NZ,37,,
-7881CX,Oostelijke Doorsnee ZZ,17,,
-7881CX,Oostelijke Doorsnee ZZ,17,,
-7881CX,Oostelijke Doorsnee ZZ,15,,
-7881CX,Oostelijke Doorsnee ZZ,4,,
-7881CX,Oostelijke Doorsnee ZZ,5,,
-7881CT,Oosterdiep OZ,32,,
-7881CT,Oosterdiep OZ,29,,
-7881CT,Oosterdiep OZ,30,,
-7881CT,Oosterdiep OZ,28,,
-7881CT,Oosterdiep OZ,40,,
-7881CT,Oosterdiep OZ,36,,
-7881CT,Oosterdiep OZ,46,,
-7881CV,Oosterdiep OZ,97,,
-7881CV,Oosterdiep OZ,105,,
-7881CV,Oosterdiep OZ,109,,
-7881CV,Oosterdiep OZ,91,,
-7881CV,Oosterdiep OZ,54,,
-7881CV,Oosterdiep OZ,94,,
-7881TK,Oosterdiep OZ,127,A,
-7881TK,Oosterdiep OZ,127,B,
-7881GS,Oosterdiep WZ,138,,
-7881GS,Oosterdiep WZ,136,,
-7881GS,Oosterdiep WZ,137,,
-7881GS,Oosterdiep WZ,134,,
-7881GT,Oosterdiep WZ,151,,
-7881GT,Oosterdiep WZ,161,,
-7881GV,Oosterdiep WZ,177,,
-7881GV,Oosterdiep WZ,178,,
-7881GV,Oosterdiep WZ,194,,
-7881GV,Oosterdiep WZ,194,,
-7881GV,Oosterdiep WZ,175,,
-7881GW,Oosterdiep WZ,198,,
-7881GW,Oosterdiep WZ,220,,
-7881GW,Oosterdiep WZ,199,,
-7881GX,Oosterdiep WZ,236,,
-7881GX,Oosterdiep WZ,224,,
-7881GX,Oosterdiep WZ,7914,,
-7881PA,Westelijke Doorsnee NZ,25,,
-7881PA,Westelijke Doorsnee NZ,45,,
-7881PA,Westelijke Doorsnee NZ,16,,TR
-7881PA,Westelijke Doorsnee NZ,16,,TR
-7881PA,Westelijke Doorsnee NZ,16,,TR
-7881PB,Westelijke Doorsnee NZ,68,,
-7881PB,Westelijke Doorsnee NZ,77,,
-7881PB,Westelijke Doorsnee NZ,57,,
-7881PB,Westelijke Doorsnee NZ,72,,
-7881PC,Westelijke Doorsnee NZ,91,,
-7881PD,Westelijke Doorsnee NZ,104,,
-7881PD,Westelijke Doorsnee NZ,110,,
-7881PD,Westelijke Doorsnee NZ,108,,
-7881PE,Westelijke Doorsnee NZ,115,,
-7881PE,Westelijke Doorsnee NZ,122,,
-7881PG,Westelijke Doorsnee ZZ,43,,
-7881PG,Westelijke Doorsnee ZZ,35,,
-7881PG,Westelijke Doorsnee ZZ,13,,
-7881PG,Westelijke Doorsnee ZZ,40,,
-7881PG,Westelijke Doorsnee ZZ,27,,
-7881HG,Westerdiep OZ,108,,
-7881HG,Westerdiep OZ,103,,
-7881HG,Westerdiep OZ,111,,
-7881HG,Westerdiep OZ,101,,
-7881CW,Oostelijke Doorsnee NZ,7,,
-7881CW,Oostelijke Doorsnee NZ,10,,
-7881CW,Oostelijke Doorsnee NZ,3,,
-7881CW,Oostelijke Doorsnee NZ,19,,
-7881CX,Oostelijke Doorsnee ZZ,20,,
-7881CT,Oosterdiep OZ,52,,
-7881CT,Oosterdiep OZ,44,,
-7881CT,Oosterdiep OZ,44,,
-7881CV,Oosterdiep OZ,93,,
-7881CV,Oosterdiep OZ,89,,
-7881CV,Oosterdiep OZ,103,,
-7881CV,Oosterdiep OZ,95,,
-7881GS,Oosterdiep WZ,144,,
-7881GT,Oosterdiep WZ,152,,
-7881GT,Oosterdiep WZ,167,,
-7881GT,Oosterdiep WZ,166,,
-7881GT,Oosterdiep WZ,170,,
-7881GT,Oosterdiep WZ,162,,
-7881GT,Oosterdiep WZ,160,,
-7881GV,Oosterdiep WZ,179,,
-7881GV,Oosterdiep WZ,179,,
-7881GW,Oosterdiep WZ,222,,
-7881GX,Oosterdiep WZ,225,,
-7881GX,Oosterdiep WZ,228,,
-7881GX,Oosterdiep WZ,228,,
-7881CZ,Verlengde Tweede Groenedijk,11,,
-7881PA,Westelijke Doorsnee NZ,17,,
-7881PA,Westelijke Doorsnee NZ,29,,
-7881PB,Westelijke Doorsnee NZ,61,,
-7881PB,Westelijke Doorsnee NZ,65,,
-7881PC,Westelijke Doorsnee NZ,90,,
-7881PD,Westelijke Doorsnee NZ,102,,
-7881PE,Westelijke Doorsnee NZ,118,,
-7881PG,Westelijke Doorsnee ZZ,44,,
-7881PG,Westelijke Doorsnee ZZ,41,,
-7881CW,Oostelijke Doorsnee NZ,24,,
-7881CT,Oosterdiep OZ,45,,
-7881CV,Oosterdiep OZ,112,,
-7881CZ,Verlengde Tweede Groenedijk,22,,
-7881CZ,Verlengde Tweede Groenedijk,22,A,
-7881PA,Westelijke Doorsnee NZ,21,,
-7881PA,Westelijke Doorsnee NZ,41,,
-7881PB,Westelijke Doorsnee NZ,59,,
-7881PE,Westelijke Doorsnee NZ,122,A,
-7881HG,Westerdiep OZ,100,A,
-7881HG,Westerdiep OZ,100,A,
-7881CZ,Bredesloot,50,,
-7881CZ,Bredesloot,50,,
-7881CZ,Bredesloot,50,,
-7881CZ,Bredesloot,50,,
-7881CV,Oosterdiep OZ,100,,
-7881CV,Oosterdiep OZ,100,,
-7881TK,Oosterdiep OZ,127,,
-7881GX,Oosterdiep WZ,228,,
-7881GX,Oosterdiep WZ,228,,
-7881GX,Oosterdiep WZ,227,A,
-7881GX,Oosterdiep WZ,234,A,
-7881CZ,Verlengde Tweede Groenedijk,22,,TR
-7881CZ,Verlengde Tweede Groenedijk,25,,TR
-7881CZ,Verlengde Tweede Groenedijk,25,,TR
-7881CZ,Verlengde Tweede Groenedijk,25,,TR
-7881PA,Westelijke Doorsnee NZ,16,,TR1
-7881PA,Westelijke Doorsnee NZ,42,,
-7881PB,Westelijke Doorsnee NZ,53,,
-7881PB,Westelijke Doorsnee NZ,53,,
-7881PB,Westelijke Doorsnee NZ,53,,
-7881PG,Westelijke Doorsnee ZZ,28,,
-7881PG,Westelijke Doorsnee ZZ,28,,
-7881CZ,Bredesloot,43,,
-7881CW,Oostelijke Doorsnee NZ,29,,
-7881CX,Oostelijke Doorsnee NZ,23,A,
-7881CX,Oostelijke Doorsnee ZZ,23,A,
-7881CZ,Verlengde Tweede Groenedijk,22,,
-7881CZ,Verlengde Tweede Groenedijk,22,B,
-7881PL,Lheebroek,18,,n2
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oosterdiep OZ,25,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,26,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,28,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,29,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,30,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,31,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,32,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,33,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,36,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,37,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,40,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,42,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,42,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,43,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,43,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,44,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,44,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,45,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,46,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,52,"","",7881CT,Emmer-Compascuum
+Oosterdiep OZ,100,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,100,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,102,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,103,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,105,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,108,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,109,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,112,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,114,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,116,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,54,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,89,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,90,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,91,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,93,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,94,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,95,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,96,"","",7881CV,Emmer-Compascuum
+Oosterdiep OZ,97,"","",7881CV,Emmer-Compascuum
+Oostelijke Doorsnee NZ,1,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,10,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,11,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,18,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,19,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,20,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,23,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,24,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,25,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,27,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,29,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,3,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,33,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,36,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,37,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,38,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,4,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,40,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,5,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,62,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,7,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee NZ,9,"","",7881CW,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,15,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,17,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,17,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,20,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,23,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee NZ,23,A,"",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee NZ,23,A,"",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,4,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,5,"","",7881CX,Emmer-Compascuum
+Oostelijke Doorsnee ZZ,6,"","",7881CX,Emmer-Compascuum
+Verlengde Tweede Groenedijk,10,"","",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,11,"","",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,22,"","",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,22,"","",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,22,"",TR,7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,22,A,"",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,22,B,"",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,25,"","",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,25,"",TR,7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,25,"",TR,7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,25,"",TR,7881CZ,Emmer-Compascuum
+Bredesloot,40,"","",7881CZ,Emmer-Compascuum
+Bredesloot,43,"","",7881CZ,Emmer-Compascuum
+Bredesloot,43,"","",7881CZ,Emmer-Compascuum
+Bredesloot,43,"","",7881CZ,Emmer-Compascuum
+Bredesloot,50,"","",7881CZ,Emmer-Compascuum
+Bredesloot,50,"","",7881CZ,Emmer-Compascuum
+Bredesloot,50,"","",7881CZ,Emmer-Compascuum
+Bredesloot,50,"","",7881CZ,Emmer-Compascuum
+Bredesloot,50,"","",7881CZ,Emmer-Compascuum
+Verlengde Tweede Groenedijk,9,"","",7881CZ,Emmer-Compascuum
+Oosterdiep WZ,130,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,131,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,132,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,132,"",GAR,7881GS,Emmer-Compascuum
+Oosterdiep WZ,132,"",GB,7881GS,Emmer-Compascuum
+Oosterdiep WZ,132,"",GB,7881GS,Emmer-Compascuum
+Oosterdiep WZ,133,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,133,A,"",7881GS,Emmer-Compascuum
+Oosterdiep WZ,134,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,135,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,136,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,137,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,138,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,139,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,140,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,141,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,143,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,144,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,146,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,148,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,150,"","",7881GS,Emmer-Compascuum
+Oosterdiep WZ,151,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,152,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,155,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,157,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,159,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,160,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,161,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,162,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,164,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,165,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,166,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,167,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,168,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,170,"","",7881GT,Emmer-Compascuum
+Oosterdiep WZ,173,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,175,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,177,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,178,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,179,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,179,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,182,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,185,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,186,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,190,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,191,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,194,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,194,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,195,"","",7881GV,Emmer-Compascuum
+Oosterdiep WZ,197,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,198,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,199,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,200,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,201,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,203,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,206,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,220,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,221,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,222,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,223,"","",7881GW,Emmer-Compascuum
+Oosterdiep WZ,224,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,224,"",TR,7881GX,Emmer-Compascuum
+Oosterdiep WZ,225,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,226,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,227,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,227,A,"",7881GX,Emmer-Compascuum
+Oosterdiep WZ,227,A,"",7881GX,Emmer-Compascuum
+Oosterdiep WZ,228,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,228,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,228,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,228,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,228,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,234,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,234,A,"",7881GX,Emmer-Compascuum
+Oosterdiep WZ,236,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,240,"","",7881GX,Emmer-Compascuum
+Oosterdiep WZ,240,A,"",7881GX,Emmer-Compascuum
+Oosterdiep WZ,7911,"",3,7881GX,Emmer-Compascuum
+Oosterdiep WZ,7914,"","",7881GX,Emmer-Compascuum
+Westerdiep OZ,100,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,100,A,"",7881HG,Emmer-Compascuum
+Westerdiep OZ,100,A,"",7881HG,Emmer-Compascuum
+Westerdiep OZ,101,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,102,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,103,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,105,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,106,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,107,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,108,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,109,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,111,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,112,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,113,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,114,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,115,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,116,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,117,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,118,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,119,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,121,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,121,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,96,"","",7881HG,Emmer-Compascuum
+Westerdiep OZ,99,"","",7881HG,Emmer-Compascuum
+Westelijke Doorsnee NZ,16,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,16,"",TR,7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,16,"",TR,7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,16,"",TR,7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,16,"",TR1,7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,17,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,21,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,23,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,25,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,28,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,29,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,32,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,41,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,42,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,44,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,45,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,46,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,49,"","",7881PA,Emmer-Compascuum
+Westelijke Doorsnee NZ,53,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,53,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,53,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,53,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,55,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,57,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,59,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,60,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,61,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,63,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,64,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,65,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,67,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,68,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,70,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,72,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,74,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,75,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,77,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,78,"","",7881PB,Emmer-Compascuum
+Westelijke Doorsnee NZ,84,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,89,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,90,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,91,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,92,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,94,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,96,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,98,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,99,"","",7881PC,Emmer-Compascuum
+Westelijke Doorsnee NZ,102,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,104,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,105,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,106,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,108,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,109,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,110,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,112,"","",7881PD,Emmer-Compascuum
+Westelijke Doorsnee NZ,113,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,114,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,115,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,116,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,118,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,120,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,122,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,122,A,"",7881PE,Emmer-Compascuum
+Westelijke Doorsnee NZ,124,"","",7881PE,Emmer-Compascuum
+Westelijke Doorsnee ZZ,13,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,21,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,21,A,"",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,27,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,28,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,28,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,29,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,30,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,34,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,35,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,40,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,41,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,43,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,44,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,45,"","",7881PG,Emmer-Compascuum
+Westelijke Doorsnee ZZ,46,"","",7881PG,Emmer-Compascuum
+Foxel,61,"","",7881PL,Emmer-Compascuum
+Foxel,62,"","",7881PL,Emmer-Compascuum
+Foxel,64,"","",7881PL,Emmer-Compascuum
+Foxel,75,"","",7881PL,Emmer-Compascuum
+Foxel,76,"","",7881PL,Emmer-Compascuum
+Foxel,78,"","",7881PL,Emmer-Compascuum
+Foxel,81,"","",7881PL,Emmer-Compascuum
+Foxel,82,"","",7881PL,Emmer-Compascuum
+Oosterdiep OZ,127,"","",7881TK,Emmer-Compascuum
+Oosterdiep OZ,127,A,"",7881TK,Emmer-Compascuum
+Oosterdiep OZ,127,A,"",7881TK,Emmer-Compascuum
+Oosterdiep OZ,127,B,"",7881TK,Emmer-Compascuum
+Oosterdiep OZ,127,B,"",7881TK,Emmer-Compascuum
+Oosterdiep OZ,129,"","",7881TK,Emmer-Compascuum
+Oosterdiep OZ,131,"","",7881TK,Emmer-Compascuum
+Oosterdiep OZ,133,"","",7881TK,Emmer-Compascuum
+Oosterdiep OZ,134,"","",7881TK,Emmer-Compascuum
+Oosterdiep OZ,137,"","",7881TK,Emmer-Compascuum
+Oosterdiep OZ,137,A,"",7881TK,Emmer-Compascuum

@@ -1,805 +1,403 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7909BE",7,"",""
-"7909BE",1,"",""
-"7909BE",11,"",""
-"7909BE",17,"",""
-"7909BE",15,"",""
-"7909BE",5,"",""
-"7909BE",3,"",""
-"7909BE",21,"",""
-"7909BE",19,"",""
-"7909BE",13,"",""
-"7909BE",9,"",""
-"7909BG",27,"",""
-"7909BG",39,"",""
-"7909BG",35,"",""
-"7909BG",41,"",""
-"7909BG",43,"",""
-"7909BG",29,"",""
-"7909BG",23,"T",""
-"7909BG",23,"",""
-"7909BG",31,"",""
-"7909BG",45,"",""
-"7909BG",25,"",""
-"7909BG",33,"",""
-"7909BG",37,"",""
-"7909BH",8,"",""
-"7909BH",10,"",""
-"7909BH",6,"",""
-"7909BH",12,"",""
-"7909BH",2,"",""
-"7909BH",4,"",""
-"7909BJ",14,"",""
-"7909BJ",16,"",""
-"7909BJ",22,"",""
-"7909BJ",18,"",""
-"7909BJ",20,"",""
-"7909BJ",24,"",""
-"7909BL",5,"",""
-"7909BL",13,"",""
-"7909BL",21,"",""
-"7909BL",9,"",""
-"7909BL",19,"",""
-"7909BL",17,"",""
-"7909BL",3,"",""
-"7909BL",23,"",""
-"7909BL",1,"",""
-"7909BL",15,"",""
-"7909BL",7,"",""
-"7909BL",11,"",""
-"7909BM",27,"",""
-"7909BM",25,"",""
-"7909BM",35,"",""
-"7909BM",33,"",""
-"7909BM",29,"a",""
-"7909BM",27,"a",""
-"7909BM",31,"",""
-"7909BM",29,"",""
-"7909BM",39,"",""
-"7909BM",25,"a",""
-"7909BM",37,"",""
-"7909BM",41,"",""
-"7909BN",18,"",""
-"7909BN",14,"",""
-"7909BN",8,"",""
-"7909BN",4,"",""
-"7909BN",6,"",""
-"7909BN",12,"",""
-"7909BN",16,"",""
-"7909BN",10,"",""
-"7909BP",26,"",""
-"7909BP",24,"",""
-"7909BP",34,"",""
-"7909BP",42,"",""
-"7909BP",28,"",""
-"7909BP",22,"",""
-"7909BP",36,"",""
-"7909BP",32,"",""
-"7909BP",38,"",""
-"7909BP",20,"",""
-"7909BP",30,"",""
-"7909CE",3,"",""
-"7909CE",10,"",""
-"7909CE",4,"",""
-"7909CE",2,"",""
-"7909CE",5,"",""
-"7909CE",6,"",""
-"7909CE",1,"",""
-"7909CE",9,"",""
-"7909CE",8,"",""
-"7909CE",7,"",""
-"7909CG",21,"",""
-"7909CG",17,"",""
-"7909CG",13,"",""
-"7909CG",11,"",""
-"7909CG",23,"",""
-"7909CG",19,"",""
-"7909CG",15,"",""
-"7909CG",27,"",""
-"7909CG",25,"",""
-"7909CH",18,"",""
-"7909CH",14,"",""
-"7909CH",20,"",""
-"7909CH",34,"T",""
-"7909CH",22,"",""
-"7909CH",24,"",""
-"7909CH",16,"",""
-"7909CH",12,"",""
-"7909CH",30,"",""
-"7909CH",26,"",""
-"7909CH",32,"",""
-"7909CH",28,"",""
-"7909CJ",1,"",""
-"7909CJ",3,"b",""
-"7909CJ",4,"",""
-"7909CJ",3,"",""
-"7909CJ",3,"a",""
-"7909CJ",2,"",""
-"7909CK",23,"",""
-"7909CK",15,"",""
-"7909CK",5,"",""
-"7909CK",13,"",""
-"7909CK",7,"",""
-"7909CK",21,"",""
-"7909CK",11,"",""
-"7909CK",9,"",""
-"7909CK",19,"",""
-"7909CK",17,"",""
-"7909CL",8,"",""
-"7909CL",10,"",""
-"7909CL",6,"",""
-"7909CM",2,"",""
-"7909CM",12,"",""
-"7909CM",4,"",""
-"7909CM",8,"",""
-"7909CM",10,"",""
-"7909CM",6,"",""
-"7909CM",14,"",""
-"7909CP",16,"",""
-"7909CP",4,"",""
-"7909CP",15,"",""
-"7909CP",14,"",""
-"7909CP",6,"",""
-"7909CP",22,"",""
-"7909CP",18,"",""
-"7909CP",12,"",""
-"7909CP",10,"",""
-"7909CP",9,"",""
-"7909CP",5,"",""
-"7909CP",17,"",""
-"7909CP",19,"",""
-"7909CP",24,"",""
-"7909CP",11,"",""
-"7909CP",26,"",""
-"7909CP",1,"",""
-"7909CP",30,"",""
-"7909CP",32,"",""
-"7909CP",20,"",""
-"7909CP",3,"",""
-"7909CP",13,"",""
-"7909CP",34,"",""
-"7909CP",28,"",""
-"7909CP",2,"",""
-"7909CP",7,"",""
-"7909CP",8,"",""
-"7909CR",2,"",""
-"7909CR",5,"",""
-"7909CR",1,"",""
-"7909CR",19,"",""
-"7909CR",4,"",""
-"7909CR",6,"",""
-"7909CR",21,"",""
-"7909CR",7,"",""
-"7909CR",11,"",""
-"7909CR",23,"",""
-"7909CR",15,"",""
-"7909CR",9,"",""
-"7909CR",13,"",""
-"7909CR",17,"",""
-"7909CS",18,"",""
-"7909CS",22,"",""
-"7909CS",20,"",""
-"7909CS",24,"",""
-"7909CS",16,"",""
-"7909CS",26,"",""
-"7909CS",10,"",""
-"7909CS",27,"",""
-"7909CS",25,"",""
-"7909CS",14,"",""
-"7909CS",8,"",""
-"7909CS",29,"",""
-"7909CS",12,"",""
-"7909HA",16,"",""
-"7909HA",14,"",""
-"7909HA",12,"",""
-"7909HA",2,"",""
-"7909HA",8,"",""
-"7909HA",4,"",""
-"7909HA",10,"",""
-"7909HA",6,"",""
-"7909HA",3,"",""
-"7909HA",1,"",""
-"7909HA",5,"",""
-"7909HB",10,"c",""
-"7909HB",1,"",""
-"7909HB",10,"a",""
-"7909HB",10,"",""
-"7909HB",8,"c",""
-"7909HB",8,"d",""
-"7909HB",3,"",""
-"7909HB",8,"a",""
-"7909HB",5,"",""
-"7909HB",8,"",""
-"7909HB",10,"b",""
-"7909HC",16,"",""
-"7909HC",1,"",""
-"7909HC",4,"",""
-"7909HC",10,"",""
-"7909HC",14,"",""
-"7909HC",3,"",""
-"7909HC",2,"",""
-"7909HC",12,"",""
-"7909HC",5,"",""
-"7909HC",8,"",""
-"7909HC",6,"",""
-"7909HD",15,"",""
-"7909HD",3,"",""
-"7909HD",5,"",""
-"7909HD",1,"",""
-"7909HD",7,"",""
-"7909HD",9,"",""
-"7909HD",11,"",""
-"7909HD",13,"",""
-"7909HE",22,"",""
-"7909HE",6,"",""
-"7909HE",2,"",""
-"7909HE",8,"",""
-"7909HE",10,"",""
-"7909HE",4,"",""
-"7909HE",20,"",""
-"7909HE",18,"",""
-"7909HE",16,"",""
-"7909HE",24,"",""
-"7909HE",26,"",""
-"7909HE",12,"",""
-"7909HG",43,"",""
-"7909HG",23,"",""
-"7909HG",45,"",""
-"7909HG",39,"",""
-"7909HG",11,"",""
-"7909HG",47,"",""
-"7909HG",25,"",""
-"7909HG",19,"",""
-"7909HG",15,"",""
-"7909HG",27,"",""
-"7909HG",7,"",""
-"7909HG",13,"",""
-"7909HG",37,"",""
-"7909HG",31,"",""
-"7909HG",21,"",""
-"7909HG",49,"",""
-"7909HG",35,"",""
-"7909HG",29,"",""
-"7909HG",1,"",""
-"7909HG",33,"",""
-"7909HG",3,"",""
-"7909HG",5,"",""
-"7909HG",41,"",""
-"7909HH",11,"",""
-"7909HH",3,"",""
-"7909HH",5,"",""
-"7909HH",9,"",""
-"7909HH",7,"",""
-"7909HJ",9,"",""
-"7909HJ",13,"",""
-"7909HJ",16,"",""
-"7909HJ",12,"",""
-"7909HJ",17,"",""
-"7909HJ",21,"",""
-"7909HJ",2,"",""
-"7909HJ",10,"",""
-"7909HJ",7,"",""
-"7909HJ",11,"",""
-"7909HJ",4,"",""
-"7909HJ",5,"",""
-"7909HJ",22,"",""
-"7909HJ",14,"",""
-"7909HJ",6,"",""
-"7909HJ",3,"",""
-"7909HJ",19,"",""
-"7909HJ",15,"",""
-"7909HJ",8,"",""
-"7909HJ",20,"",""
-"7909HK",2,"a",""
-"7909HK",16,"",""
-"7909HK",12,"",""
-"7909HK",10,"",""
-"7909HK",18,"",""
-"7909HK",6,"",""
-"7909HK",9,"",""
-"7909HK",3,"",""
-"7909HK",2,"",""
-"7909HK",4,"a",""
-"7909HK",4,"",""
-"7909HK",14,"",""
-"7909HK",7,"",""
-"7909HK",8,"",""
-"7909HK",1,"",""
-"7909HK",5,"",""
-"7909HK",11,"",""
-"7909HK",20,"",""
-"7909HL",12,"",""
-"7909HL",18,"",""
-"7909HL",14,"",""
-"7909HL",16,"",""
-"7909HL",20,"",""
-"7909HL",36,"",""
-"7909HL",10,"",""
-"7909HL",32,"",""
-"7909HL",26,"",""
-"7909HL",22,"",""
-"7909HL",2,"",""
-"7909HL",28,"",""
-"7909HL",24,"",""
-"7909HL",8,"",""
-"7909HL",34,"",""
-"7909HL",4,"",""
-"7909HL",6,"",""
-"7909HL",30,"",""
-"7909HM",41,"",""
-"7909HM",7,"",""
-"7909HM",1,"",""
-"7909HM",39,"",""
-"7909HM",27,"",""
-"7909HM",45,"",""
-"7909HM",25,"",""
-"7909HM",3,"",""
-"7909HM",43,"",""
-"7909HM",19,"",""
-"7909HM",15,"",""
-"7909HM",17,"",""
-"7909HM",13,"",""
-"7909HM",31,"",""
-"7909HM",9,"",""
-"7909HM",35,"",""
-"7909HM",29,"",""
-"7909HM",11,"",""
-"7909HM",45,"T",""
-"7909HM",37,"",""
-"7909HM",33,"",""
-"7909HM",5,"",""
-"7909HN",27,"",""
-"7909HN",9,"",""
-"7909HN",25,"",""
-"7909HN",15,"",""
-"7909HN",23,"",""
-"7909HN",3,"",""
-"7909HN",1,"",""
-"7909HN",7,"",""
-"7909HN",13,"",""
-"7909HN",19,"",""
-"7909HN",11,"",""
-"7909HN",5,"",""
-"7909HN",21,"",""
-"7909HN",17,"",""
-"7909HP",26,"",""
-"7909HP",16,"",""
-"7909HP",22,"",""
-"7909HP",14,"",""
-"7909HP",20,"",""
-"7909HP",28,"",""
-"7909HP",15,"",""
-"7909HP",3,"",""
-"7909HP",13,"",""
-"7909HP",12,"",""
-"7909HP",24,"",""
-"7909HP",5,"",""
-"7909HP",18,"",""
-"7909HP",17,"",""
-"7909HP",11,"",""
-"7909HP",10,"",""
-"7909HP",2,"",""
-"7909HP",7,"",""
-"7909HP",4,"",""
-"7909HP",8,"",""
-"7909HP",6,"",""
-"7909HP",9,"",""
-"7909HR",13,"",""
-"7909HR",10,"",""
-"7909HR",23,"",""
-"7909HR",8,"",""
-"7909HR",21,"",""
-"7909HR",4,"",""
-"7909HR",17,"",""
-"7909HR",7,"",""
-"7909HR",19,"",""
-"7909HR",3,"",""
-"7909HR",15,"",""
-"7909HR",1,"",""
-"7909HR",6,"",""
-"7909HR",11,"",""
-"7909HR",2,"",""
-"7909HR",5,"",""
-"7909HR",9,"",""
-7909CM,De Binnenhorst,2,,
-7909CM,De Binnenhorst,4,,
-7909CM,De Binnenhorst,6,,
-7909CM,De Binnenhorst,8,,
-7909CM,De Binnenhorst,10,,
-7909CM,De Binnenhorst,12,,
-7909CM,De Binnenhorst,14,,
-7909CJ,De Holtmaden,1,,
-7909CJ,De Holtmaden,2,,
-7909CJ,De Holtmaden,3,,
-7909CJ,De Holtmaden,3,a,
-7909CJ,De Holtmaden,3,b,
-7909CJ,De Holtmaden,4,,
-7909CK,De Holtmaden,5,,
-7909CK,De Holtmaden,7,,
-7909CK,De Holtmaden,9,,
-7909CK,De Holtmaden,11,,
-7909CK,De Holtmaden,13,,
-7909CK,De Holtmaden,15,,
-7909CK,De Holtmaden,17,,
-7909CK,De Holtmaden,19,,
-7909CK,De Holtmaden,21,,
-7909CK,De Holtmaden,23,,
-7909CL,De Holtmaden,6,,
-7909CL,De Holtmaden,8,,
-7909CL,De Holtmaden,10,,
-7909CP,De Oostmaden,1,,
-7909CP,De Oostmaden,2,,
-7909CP,De Oostmaden,3,,
-7909CP,De Oostmaden,4,,
-7909CP,De Oostmaden,5,,
-7909CP,De Oostmaden,6,,
-7909CP,De Oostmaden,7,,
-7909CP,De Oostmaden,8,,
-7909CP,De Oostmaden,9,,
-7909CP,De Oostmaden,10,,
-7909CP,De Oostmaden,11,,
-7909CP,De Oostmaden,12,,
-7909CP,De Oostmaden,13,,
-7909CP,De Oostmaden,14,,
-7909CP,De Oostmaden,15,,
-7909CP,De Oostmaden,16,,
-7909CP,De Oostmaden,17,,
-7909CP,De Oostmaden,18,,
-7909CP,De Oostmaden,19,,
-7909CP,De Oostmaden,20,,
-7909CP,De Oostmaden,22,,
-7909CP,De Oostmaden,24,,
-7909CP,De Oostmaden,26,,
-7909CP,De Oostmaden,28,,
-7909CP,De Oostmaden,30,,
-7909CP,De Oostmaden,32,,
-7909CP,De Oostmaden,34,,
-7909CE,De Tellinghorst,1,,
-7909CE,De Tellinghorst,2,,
-7909CE,De Tellinghorst,3,,
-7909CE,De Tellinghorst,4,,
-7909CE,De Tellinghorst,5,,
-7909CE,De Tellinghorst,6,,
-7909CE,De Tellinghorst,7,,
-7909CE,De Tellinghorst,8,,
-7909CE,De Tellinghorst,9,,
-7909CE,De Tellinghorst,10,,
-7909CG,De Tellinghorst,11,,
-7909CG,De Tellinghorst,13,,
-7909CG,De Tellinghorst,15,,
-7909CG,De Tellinghorst,17,,
-7909CG,De Tellinghorst,19,,
-7909CG,De Tellinghorst,21,,
-7909CG,De Tellinghorst,23,,
-7909CG,De Tellinghorst,25,,
-7909CG,De Tellinghorst,27,,
-7909CH,De Tellinghorst,12,,
-7909CH,De Tellinghorst,14,,
-7909CH,De Tellinghorst,16,,
-7909CH,De Tellinghorst,18,,
-7909CH,De Tellinghorst,20,,
-7909CH,De Tellinghorst,22,,
-7909CH,De Tellinghorst,24,,
-7909CH,De Tellinghorst,26,,
-7909CH,De Tellinghorst,28,,
-7909CH,De Tellinghorst,30,,
-7909CH,De Tellinghorst,32,,
-7909CH,De Tellinghorst,34,T,
-7909CR,De Westmaden,1,,
-7909CR,De Westmaden,2,,
-7909CR,De Westmaden,4,,
-7909CR,De Westmaden,5,,
-7909CR,De Westmaden,6,,
-7909CR,De Westmaden,7,,
-7909CR,De Westmaden,9,,
-7909CR,De Westmaden,11,,
-7909CR,De Westmaden,13,,
-7909CR,De Westmaden,15,,
-7909CR,De Westmaden,17,,
-7909CR,De Westmaden,19,,
-7909CR,De Westmaden,21,,
-7909CR,De Westmaden,23,,
-7909CS,De Westmaden,8,,
-7909CS,De Westmaden,10,,
-7909CS,De Westmaden,12,,
-7909CS,De Westmaden,14,,
-7909CS,De Westmaden,16,,
-7909CS,De Westmaden,18,,
-7909CS,De Westmaden,20,,
-7909CS,De Westmaden,22,,
-7909CS,De Westmaden,24,,
-7909CS,De Westmaden,25,,
-7909CS,De Westmaden,26,,
-7909CS,De Westmaden,27,,
-7909CS,De Westmaden,29,,
-7909HE,Dotterbloem,2,,
-7909HE,Dotterbloem,4,,
-7909HE,Dotterbloem,6,,
-7909HE,Dotterbloem,8,,
-7909HE,Dotterbloem,10,,
-7909HE,Dotterbloem,12,,
-7909HE,Dotterbloem,16,,
-7909HE,Dotterbloem,18,,
-7909HE,Dotterbloem,20,,
-7909HE,Dotterbloem,22,,
-7909HE,Dotterbloem,24,,
-7909HE,Dotterbloem,26,,
-7909HG,Dotterbloem,1,,
-7909HG,Dotterbloem,3,,
-7909HG,Dotterbloem,5,,
-7909HG,Dotterbloem,7,,
-7909HG,Dotterbloem,11,,
-7909HG,Dotterbloem,13,,
-7909HG,Dotterbloem,15,,
-7909HG,Dotterbloem,19,,
-7909HG,Dotterbloem,21,,
-7909HG,Dotterbloem,23,,
-7909HG,Dotterbloem,25,,
-7909HG,Dotterbloem,27,,
-7909HG,Dotterbloem,29,,
-7909HG,Dotterbloem,31,,
-7909HG,Dotterbloem,33,,
-7909HG,Dotterbloem,35,,
-7909HG,Dotterbloem,37,,
-7909HG,Dotterbloem,39,,
-7909HG,Dotterbloem,41,,
-7909HG,Dotterbloem,43,,
-7909HG,Dotterbloem,45,,
-7909HG,Dotterbloem,47,,
-7909HG,Dotterbloem,49,,
-7909BE,Het Hoge Holt,1,,
-7909BE,Het Hoge Holt,3,,
-7909BE,Het Hoge Holt,5,,
-7909BE,Het Hoge Holt,7,,
-7909BE,Het Hoge Holt,9,,
-7909BE,Het Hoge Holt,11,,
-7909BE,Het Hoge Holt,13,,
-7909BE,Het Hoge Holt,15,,
-7909BE,Het Hoge Holt,17,,
-7909BE,Het Hoge Holt,19,,
-7909BE,Het Hoge Holt,21,,
-7909BG,Het Hoge Holt,23,,
-7909BG,Het Hoge Holt,25,,
-7909BG,Het Hoge Holt,27,,
-7909BG,Het Hoge Holt,29,,
-7909BG,Het Hoge Holt,31,,
-7909BG,Het Hoge Holt,33,,
-7909BG,Het Hoge Holt,35,,
-7909BG,Het Hoge Holt,37,,
-7909BG,Het Hoge Holt,39,,
-7909BG,Het Hoge Holt,41,,
-7909BG,Het Hoge Holt,43,,
-7909BG,Het Hoge Holt,45,,
-7909BH,Het Hoge Holt,2,,
-7909BH,Het Hoge Holt,4,,
-7909BH,Het Hoge Holt,6,,
-7909BH,Het Hoge Holt,8,,
-7909BH,Het Hoge Holt,10,,
-7909BH,Het Hoge Holt,12,,
-7909BJ,Het Hoge Holt,14,,
-7909BJ,Het Hoge Holt,16,,
-7909BJ,Het Hoge Holt,18,,
-7909BJ,Het Hoge Holt,20,,
-7909BJ,Het Hoge Holt,22,,
-7909BJ,Het Hoge Holt,24,,
-7909BL,Het Lage Holt,1,,
-7909BL,Het Lage Holt,3,,
-7909BL,Het Lage Holt,5,,
-7909BL,Het Lage Holt,7,,
-7909BL,Het Lage Holt,9,,
-7909BL,Het Lage Holt,11,,
-7909BL,Het Lage Holt,13,,
-7909BL,Het Lage Holt,15,,
-7909BL,Het Lage Holt,17,,
-7909BL,Het Lage Holt,19,,
-7909BL,Het Lage Holt,21,,
-7909BL,Het Lage Holt,23,,
-7909BM,Het Lage Holt,25,,
-7909BM,Het Lage Holt,25,a,
-7909BM,Het Lage Holt,27,,
-7909BM,Het Lage Holt,27,a,
-7909BM,Het Lage Holt,29,,
-7909BM,Het Lage Holt,29,a,
-7909BM,Het Lage Holt,31,,
-7909BM,Het Lage Holt,33,,
-7909BM,Het Lage Holt,35,,
-7909BM,Het Lage Holt,37,,
-7909BM,Het Lage Holt,39,,
-7909BM,Het Lage Holt,41,,
-7909BN,Het Lage Holt,4,,
-7909BN,Het Lage Holt,6,,
-7909BN,Het Lage Holt,8,,
-7909BN,Het Lage Holt,10,,
-7909BN,Het Lage Holt,12,,
-7909BN,Het Lage Holt,14,,
-7909BN,Het Lage Holt,16,,
-7909BN,Het Lage Holt,18,,
-7909BP,Het Lage Holt,20,,
-7909BP,Het Lage Holt,22,,
-7909BP,Het Lage Holt,24,,
-7909BP,Het Lage Holt,26,,
-7909BP,Het Lage Holt,28,,
-7909BP,Het Lage Holt,30,,
-7909BP,Het Lage Holt,32,,
-7909BP,Het Lage Holt,34,,
-7909BP,Het Lage Holt,36,,
-7909BP,Het Lage Holt,38,,
-7909BP,Het Lage Holt,42,,
-7909HD,Kalmoes,1,,
-7909HD,Kalmoes,3,,
-7909HD,Kalmoes,5,,
-7909HD,Kalmoes,7,,
-7909HD,Kalmoes,9,,
-7909HD,Kalmoes,11,,
-7909HD,Kalmoes,13,,
-7909HD,Kalmoes,15,,
-7909HJ,Lisdodde,2,,
-7909HJ,Lisdodde,3,,
-7909HJ,Lisdodde,4,,
-7909HJ,Lisdodde,5,,
-7909HJ,Lisdodde,6,,
-7909HJ,Lisdodde,7,,
-7909HJ,Lisdodde,8,,
-7909HJ,Lisdodde,9,,
-7909HJ,Lisdodde,10,,
-7909HJ,Lisdodde,11,,
-7909HJ,Lisdodde,12,,
-7909HJ,Lisdodde,13,,
-7909HJ,Lisdodde,14,,
-7909HJ,Lisdodde,15,,
-7909HJ,Lisdodde,16,,
-7909HJ,Lisdodde,17,,
-7909HJ,Lisdodde,19,,
-7909HJ,Lisdodde,20,,
-7909HJ,Lisdodde,21,,
-7909HJ,Lisdodde,22,,
-7909HH,Oeverzegge,3,,
-7909HH,Oeverzegge,5,,
-7909HH,Oeverzegge,7,,
-7909HH,Oeverzegge,9,,
-7909HH,Oeverzegge,11,,
-7909HK,Pijlkruid,1,,
-7909HK,Pijlkruid,2,,
-7909HK,Pijlkruid,2,a,
-7909HK,Pijlkruid,3,,
-7909HK,Pijlkruid,4,,
-7909HK,Pijlkruid,4,a,
-7909HK,Pijlkruid,5,,
-7909HK,Pijlkruid,6,,
-7909HK,Pijlkruid,7,,
-7909HK,Pijlkruid,8,,
-7909HK,Pijlkruid,9,,
-7909HK,Pijlkruid,10,,
-7909HK,Pijlkruid,11,,
-7909HK,Pijlkruid,12,,
-7909HK,Pijlkruid,14,,
-7909HK,Pijlkruid,16,,
-7909HK,Pijlkruid,18,,
-7909HK,Pijlkruid,20,,
-7909HP,Rietland,2,,
-7909HP,Rietland,3,,
-7909HP,Rietland,4,,
-7909HP,Rietland,5,,
-7909HP,Rietland,6,,
-7909HP,Rietland,7,,
-7909HP,Rietland,8,,
-7909HP,Rietland,9,,
-7909HP,Rietland,10,,
-7909HP,Rietland,11,,
-7909HP,Rietland,12,,
-7909HP,Rietland,13,,
-7909HP,Rietland,14,,
-7909HP,Rietland,15,,
-7909HP,Rietland,16,,
-7909HP,Rietland,17,,
-7909HP,Rietland,18,,
-7909HP,Rietland,20,,
-7909HP,Rietland,22,,
-7909HP,Rietland,24,,
-7909HP,Rietland,26,,
-7909HP,Rietland,28,,
-7909HC,Valeriaan,1,,
-7909HC,Valeriaan,2,,
-7909HC,Valeriaan,3,,
-7909HC,Valeriaan,4,,
-7909HC,Valeriaan,5,,
-7909HC,Valeriaan,6,,
-7909HC,Valeriaan,8,,
-7909HC,Valeriaan,10,,
-7909HC,Valeriaan,12,,
-7909HC,Valeriaan,14,,
-7909HC,Valeriaan,16,,
-7909HN,Violier,1,,
-7909HN,Violier,3,,
-7909HN,Violier,5,,
-7909HN,Violier,7,,
-7909HN,Violier,9,,
-7909HN,Violier,11,,
-7909HN,Violier,13,,
-7909HN,Violier,15,,
-7909HN,Violier,17,,
-7909HN,Violier,19,,
-7909HN,Violier,21,,
-7909HN,Violier,23,,
-7909HN,Violier,25,,
-7909HN,Violier,27,,
-7909HA,Watermunt,1,,
-7909HA,Watermunt,2,,
-7909HA,Watermunt,3,,
-7909HA,Watermunt,4,,
-7909HA,Watermunt,5,,
-7909HA,Watermunt,6,,
-7909HA,Watermunt,8,,
-7909HA,Watermunt,10,,
-7909HA,Watermunt,12,,
-7909HA,Watermunt,14,,
-7909HA,Watermunt,16,,
-7909HB,Wederik,1,,
-7909HB,Wederik,3,,
-7909HB,Wederik,5,,
-7909HR,Weegbree,1,,
-7909HR,Weegbree,2,,
-7909HR,Weegbree,3,,
-7909HR,Weegbree,4,,
-7909HR,Weegbree,5,,
-7909HR,Weegbree,6,,
-7909HR,Weegbree,7,,
-7909HR,Weegbree,8,,
-7909HR,Weegbree,9,,
-7909HR,Weegbree,10,,
-7909HR,Weegbree,11,,
-7909HR,Weegbree,13,,
-7909HR,Weegbree,15,,
-7909HR,Weegbree,17,,
-7909HR,Weegbree,19,,
-7909HR,Weegbree,21,,
-7909HR,Weegbree,23,,
-7909HL,Zwanebloem,2,,
-7909HL,Zwanebloem,4,,
-7909HL,Zwanebloem,6,,
-7909HL,Zwanebloem,8,,
-7909HL,Zwanebloem,10,,
-7909HL,Zwanebloem,12,,
-7909HL,Zwanebloem,14,,
-7909HL,Zwanebloem,16,,
-7909HL,Zwanebloem,18,,
-7909HL,Zwanebloem,20,,
-7909HL,Zwanebloem,22,,
-7909HL,Zwanebloem,24,,
-7909HL,Zwanebloem,26,,
-7909HL,Zwanebloem,28,,
-7909HL,Zwanebloem,30,,
-7909HL,Zwanebloem,32,,
-7909HL,Zwanebloem,34,,
-7909HL,Zwanebloem,36,,
-7909HM,Zwanebloem,1,,
-7909HM,Zwanebloem,3,,
-7909HM,Zwanebloem,5,,
-7909HM,Zwanebloem,7,,
-7909HM,Zwanebloem,9,,
-7909HM,Zwanebloem,11,,
-7909HM,Zwanebloem,13,,
-7909HM,Zwanebloem,15,,
-7909HM,Zwanebloem,17,,
-7909HM,Zwanebloem,19,,
-7909HM,Zwanebloem,25,,
-7909HM,Zwanebloem,27,,
-7909HM,Zwanebloem,29,,
-7909HM,Zwanebloem,31,,
-7909HM,Zwanebloem,33,,
-7909HM,Zwanebloem,35,,
-7909HM,Zwanebloem,37,,
-7909HM,Zwanebloem,39,,
-7909HM,Zwanebloem,41,,
-7909HM,Zwanebloem,43,,
-7909HM,Zwanebloem,45,,
-7909BG,Het Hoge Holt,23,T,
-7909HM,Zwanebloem,45,T,
-7909HB,Elbe,8,,
-7909HB,Elbe,8,a,
-7909HB,Elbe,8,c,
-7909HB,Elbe,8,d,
-7909HB,Elbe,10,,
-7909HB,Elbe,10,a,
-7909HB,Elbe,10,b,
-7909HB,Elbe,10,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Het Hoge Holt,1,"","",7909BE,Hoogeveen
+Het Hoge Holt,11,"","",7909BE,Hoogeveen
+Het Hoge Holt,13,"","",7909BE,Hoogeveen
+Het Hoge Holt,15,"","",7909BE,Hoogeveen
+Het Hoge Holt,17,"","",7909BE,Hoogeveen
+Het Hoge Holt,19,"","",7909BE,Hoogeveen
+Het Hoge Holt,21,"","",7909BE,Hoogeveen
+Het Hoge Holt,3,"","",7909BE,Hoogeveen
+Het Hoge Holt,5,"","",7909BE,Hoogeveen
+Het Hoge Holt,7,"","",7909BE,Hoogeveen
+Het Hoge Holt,9,"","",7909BE,Hoogeveen
+Het Hoge Holt,23,"","",7909BG,Hoogeveen
+Het Hoge Holt,23,T,"",7909BG,Hoogeveen
+Het Hoge Holt,25,"","",7909BG,Hoogeveen
+Het Hoge Holt,27,"","",7909BG,Hoogeveen
+Het Hoge Holt,29,"","",7909BG,Hoogeveen
+Het Hoge Holt,31,"","",7909BG,Hoogeveen
+Het Hoge Holt,33,"","",7909BG,Hoogeveen
+Het Hoge Holt,35,"","",7909BG,Hoogeveen
+Het Hoge Holt,37,"","",7909BG,Hoogeveen
+Het Hoge Holt,39,"","",7909BG,Hoogeveen
+Het Hoge Holt,41,"","",7909BG,Hoogeveen
+Het Hoge Holt,43,"","",7909BG,Hoogeveen
+Het Hoge Holt,45,"","",7909BG,Hoogeveen
+Het Hoge Holt,10,"","",7909BH,Hoogeveen
+Het Hoge Holt,12,"","",7909BH,Hoogeveen
+Het Hoge Holt,2,"","",7909BH,Hoogeveen
+Het Hoge Holt,4,"","",7909BH,Hoogeveen
+Het Hoge Holt,6,"","",7909BH,Hoogeveen
+Het Hoge Holt,8,"","",7909BH,Hoogeveen
+Het Hoge Holt,14,"","",7909BJ,Hoogeveen
+Het Hoge Holt,16,"","",7909BJ,Hoogeveen
+Het Hoge Holt,18,"","",7909BJ,Hoogeveen
+Het Hoge Holt,20,"","",7909BJ,Hoogeveen
+Het Hoge Holt,22,"","",7909BJ,Hoogeveen
+Het Hoge Holt,24,"","",7909BJ,Hoogeveen
+Het Lage Holt,1,"","",7909BL,Hoogeveen
+Het Lage Holt,11,"","",7909BL,Hoogeveen
+Het Lage Holt,13,"","",7909BL,Hoogeveen
+Het Lage Holt,15,"","",7909BL,Hoogeveen
+Het Lage Holt,17,"","",7909BL,Hoogeveen
+Het Lage Holt,19,"","",7909BL,Hoogeveen
+Het Lage Holt,21,"","",7909BL,Hoogeveen
+Het Lage Holt,23,"","",7909BL,Hoogeveen
+Het Lage Holt,3,"","",7909BL,Hoogeveen
+Het Lage Holt,5,"","",7909BL,Hoogeveen
+Het Lage Holt,7,"","",7909BL,Hoogeveen
+Het Lage Holt,9,"","",7909BL,Hoogeveen
+Het Lage Holt,25,"","",7909BM,Hoogeveen
+Het Lage Holt,25,A,"",7909BM,Hoogeveen
+Het Lage Holt,27,"","",7909BM,Hoogeveen
+Het Lage Holt,27,A,"",7909BM,Hoogeveen
+Het Lage Holt,29,"","",7909BM,Hoogeveen
+Het Lage Holt,29,A,"",7909BM,Hoogeveen
+Het Lage Holt,31,"","",7909BM,Hoogeveen
+Het Lage Holt,33,"","",7909BM,Hoogeveen
+Het Lage Holt,35,"","",7909BM,Hoogeveen
+Het Lage Holt,37,"","",7909BM,Hoogeveen
+Het Lage Holt,39,"","",7909BM,Hoogeveen
+Het Lage Holt,41,"","",7909BM,Hoogeveen
+Het Lage Holt,10,"","",7909BN,Hoogeveen
+Het Lage Holt,12,"","",7909BN,Hoogeveen
+Het Lage Holt,14,"","",7909BN,Hoogeveen
+Het Lage Holt,16,"","",7909BN,Hoogeveen
+Het Lage Holt,18,"","",7909BN,Hoogeveen
+Het Lage Holt,4,"","",7909BN,Hoogeveen
+Het Lage Holt,6,"","",7909BN,Hoogeveen
+Het Lage Holt,8,"","",7909BN,Hoogeveen
+Het Lage Holt,20,"","",7909BP,Hoogeveen
+Het Lage Holt,22,"","",7909BP,Hoogeveen
+Het Lage Holt,24,"","",7909BP,Hoogeveen
+Het Lage Holt,26,"","",7909BP,Hoogeveen
+Het Lage Holt,28,"","",7909BP,Hoogeveen
+Het Lage Holt,30,"","",7909BP,Hoogeveen
+Het Lage Holt,32,"","",7909BP,Hoogeveen
+Het Lage Holt,34,"","",7909BP,Hoogeveen
+Het Lage Holt,36,"","",7909BP,Hoogeveen
+Het Lage Holt,38,"","",7909BP,Hoogeveen
+Het Lage Holt,42,"","",7909BP,Hoogeveen
+De Tellinghorst,1,"","",7909CE,Hoogeveen
+De Tellinghorst,10,"","",7909CE,Hoogeveen
+De Tellinghorst,2,"","",7909CE,Hoogeveen
+De Tellinghorst,3,"","",7909CE,Hoogeveen
+De Tellinghorst,4,"","",7909CE,Hoogeveen
+De Tellinghorst,5,"","",7909CE,Hoogeveen
+De Tellinghorst,6,"","",7909CE,Hoogeveen
+De Tellinghorst,7,"","",7909CE,Hoogeveen
+De Tellinghorst,8,"","",7909CE,Hoogeveen
+De Tellinghorst,9,"","",7909CE,Hoogeveen
+De Tellinghorst,11,"","",7909CG,Hoogeveen
+De Tellinghorst,13,"","",7909CG,Hoogeveen
+De Tellinghorst,15,"","",7909CG,Hoogeveen
+De Tellinghorst,17,"","",7909CG,Hoogeveen
+De Tellinghorst,19,"","",7909CG,Hoogeveen
+De Tellinghorst,21,"","",7909CG,Hoogeveen
+De Tellinghorst,23,"","",7909CG,Hoogeveen
+De Tellinghorst,25,"","",7909CG,Hoogeveen
+De Tellinghorst,27,"","",7909CG,Hoogeveen
+De Tellinghorst,12,"","",7909CH,Hoogeveen
+De Tellinghorst,14,"","",7909CH,Hoogeveen
+De Tellinghorst,16,"","",7909CH,Hoogeveen
+De Tellinghorst,18,"","",7909CH,Hoogeveen
+De Tellinghorst,20,"","",7909CH,Hoogeveen
+De Tellinghorst,22,"","",7909CH,Hoogeveen
+De Tellinghorst,24,"","",7909CH,Hoogeveen
+De Tellinghorst,26,"","",7909CH,Hoogeveen
+De Tellinghorst,28,"","",7909CH,Hoogeveen
+De Tellinghorst,30,"","",7909CH,Hoogeveen
+De Tellinghorst,32,"","",7909CH,Hoogeveen
+De Tellinghorst,34,T,"",7909CH,Hoogeveen
+De Holtmaden,1,"","",7909CJ,Hoogeveen
+De Holtmaden,2,"","",7909CJ,Hoogeveen
+De Holtmaden,3,"","",7909CJ,Hoogeveen
+De Holtmaden,3,A,"",7909CJ,Hoogeveen
+De Holtmaden,3,B,"",7909CJ,Hoogeveen
+De Holtmaden,4,"","",7909CJ,Hoogeveen
+De Holtmaden,11,"","",7909CK,Hoogeveen
+De Holtmaden,13,"","",7909CK,Hoogeveen
+De Holtmaden,15,"","",7909CK,Hoogeveen
+De Holtmaden,17,"","",7909CK,Hoogeveen
+De Holtmaden,19,"","",7909CK,Hoogeveen
+De Holtmaden,21,"","",7909CK,Hoogeveen
+De Holtmaden,23,"","",7909CK,Hoogeveen
+De Holtmaden,5,"","",7909CK,Hoogeveen
+De Holtmaden,7,"","",7909CK,Hoogeveen
+De Holtmaden,9,"","",7909CK,Hoogeveen
+De Holtmaden,10,"","",7909CL,Hoogeveen
+De Holtmaden,6,"","",7909CL,Hoogeveen
+De Holtmaden,8,"","",7909CL,Hoogeveen
+De Binnenhorst,10,"","",7909CM,Hoogeveen
+De Binnenhorst,12,"","",7909CM,Hoogeveen
+De Binnenhorst,14,"","",7909CM,Hoogeveen
+De Binnenhorst,2,"","",7909CM,Hoogeveen
+De Binnenhorst,4,"","",7909CM,Hoogeveen
+De Binnenhorst,6,"","",7909CM,Hoogeveen
+De Binnenhorst,8,"","",7909CM,Hoogeveen
+De Oostmaden,1,"","",7909CP,Hoogeveen
+De Oostmaden,10,"","",7909CP,Hoogeveen
+De Oostmaden,11,"","",7909CP,Hoogeveen
+De Oostmaden,12,"","",7909CP,Hoogeveen
+De Oostmaden,13,"","",7909CP,Hoogeveen
+De Oostmaden,14,"","",7909CP,Hoogeveen
+De Oostmaden,15,"","",7909CP,Hoogeveen
+De Oostmaden,16,"","",7909CP,Hoogeveen
+De Oostmaden,17,"","",7909CP,Hoogeveen
+De Oostmaden,18,"","",7909CP,Hoogeveen
+De Oostmaden,19,"","",7909CP,Hoogeveen
+De Oostmaden,2,"","",7909CP,Hoogeveen
+De Oostmaden,20,"","",7909CP,Hoogeveen
+De Oostmaden,22,"","",7909CP,Hoogeveen
+De Oostmaden,24,"","",7909CP,Hoogeveen
+De Oostmaden,26,"","",7909CP,Hoogeveen
+De Oostmaden,28,"","",7909CP,Hoogeveen
+De Oostmaden,3,"","",7909CP,Hoogeveen
+De Oostmaden,30,"","",7909CP,Hoogeveen
+De Oostmaden,32,"","",7909CP,Hoogeveen
+De Oostmaden,34,"","",7909CP,Hoogeveen
+De Oostmaden,4,"","",7909CP,Hoogeveen
+De Oostmaden,5,"","",7909CP,Hoogeveen
+De Oostmaden,6,"","",7909CP,Hoogeveen
+De Oostmaden,7,"","",7909CP,Hoogeveen
+De Oostmaden,8,"","",7909CP,Hoogeveen
+De Oostmaden,9,"","",7909CP,Hoogeveen
+De Westmaden,1,"","",7909CR,Hoogeveen
+De Westmaden,11,"","",7909CR,Hoogeveen
+De Westmaden,13,"","",7909CR,Hoogeveen
+De Westmaden,15,"","",7909CR,Hoogeveen
+De Westmaden,17,"","",7909CR,Hoogeveen
+De Westmaden,19,"","",7909CR,Hoogeveen
+De Westmaden,2,"","",7909CR,Hoogeveen
+De Westmaden,21,"","",7909CR,Hoogeveen
+De Westmaden,23,"","",7909CR,Hoogeveen
+De Westmaden,4,"","",7909CR,Hoogeveen
+De Westmaden,5,"","",7909CR,Hoogeveen
+De Westmaden,6,"","",7909CR,Hoogeveen
+De Westmaden,7,"","",7909CR,Hoogeveen
+De Westmaden,9,"","",7909CR,Hoogeveen
+De Westmaden,10,"","",7909CS,Hoogeveen
+De Westmaden,12,"","",7909CS,Hoogeveen
+De Westmaden,14,"","",7909CS,Hoogeveen
+De Westmaden,16,"","",7909CS,Hoogeveen
+De Westmaden,18,"","",7909CS,Hoogeveen
+De Westmaden,20,"","",7909CS,Hoogeveen
+De Westmaden,22,"","",7909CS,Hoogeveen
+De Westmaden,24,"","",7909CS,Hoogeveen
+De Westmaden,25,"","",7909CS,Hoogeveen
+De Westmaden,26,"","",7909CS,Hoogeveen
+De Westmaden,27,"","",7909CS,Hoogeveen
+De Westmaden,29,"","",7909CS,Hoogeveen
+De Westmaden,8,"","",7909CS,Hoogeveen
+Watermunt,1,"","",7909HA,Hoogeveen
+Watermunt,10,"","",7909HA,Hoogeveen
+Watermunt,12,"","",7909HA,Hoogeveen
+Watermunt,14,"","",7909HA,Hoogeveen
+Watermunt,16,"","",7909HA,Hoogeveen
+Watermunt,2,"","",7909HA,Hoogeveen
+Watermunt,3,"","",7909HA,Hoogeveen
+Watermunt,4,"","",7909HA,Hoogeveen
+Watermunt,5,"","",7909HA,Hoogeveen
+Watermunt,6,"","",7909HA,Hoogeveen
+Watermunt,8,"","",7909HA,Hoogeveen
+Wederik,1,"","",7909HB,Hoogeveen
+Elbe,10,"","",7909HB,Hoogeveen
+Elbe,10,A,"",7909HB,Hoogeveen
+Elbe,10,B,"",7909HB,Hoogeveen
+Elbe,10,C,"",7909HB,Hoogeveen
+Wederik,3,"","",7909HB,Hoogeveen
+Wederik,5,"","",7909HB,Hoogeveen
+Elbe,8,"","",7909HB,Hoogeveen
+Elbe,8,A,"",7909HB,Hoogeveen
+Elbe,8,C,"",7909HB,Hoogeveen
+Elbe,8,D,"",7909HB,Hoogeveen
+Valeriaan,1,"","",7909HC,Hoogeveen
+Valeriaan,10,"","",7909HC,Hoogeveen
+Valeriaan,12,"","",7909HC,Hoogeveen
+Valeriaan,14,"","",7909HC,Hoogeveen
+Valeriaan,16,"","",7909HC,Hoogeveen
+Valeriaan,2,"","",7909HC,Hoogeveen
+Valeriaan,3,"","",7909HC,Hoogeveen
+Valeriaan,4,"","",7909HC,Hoogeveen
+Valeriaan,5,"","",7909HC,Hoogeveen
+Valeriaan,6,"","",7909HC,Hoogeveen
+Valeriaan,8,"","",7909HC,Hoogeveen
+Kalmoes,1,"","",7909HD,Hoogeveen
+Kalmoes,11,"","",7909HD,Hoogeveen
+Kalmoes,13,"","",7909HD,Hoogeveen
+Kalmoes,15,"","",7909HD,Hoogeveen
+Kalmoes,3,"","",7909HD,Hoogeveen
+Kalmoes,5,"","",7909HD,Hoogeveen
+Kalmoes,7,"","",7909HD,Hoogeveen
+Kalmoes,9,"","",7909HD,Hoogeveen
+Dotterbloem,10,"","",7909HE,Hoogeveen
+Dotterbloem,12,"","",7909HE,Hoogeveen
+Dotterbloem,16,"","",7909HE,Hoogeveen
+Dotterbloem,18,"","",7909HE,Hoogeveen
+Dotterbloem,2,"","",7909HE,Hoogeveen
+Dotterbloem,20,"","",7909HE,Hoogeveen
+Dotterbloem,22,"","",7909HE,Hoogeveen
+Dotterbloem,24,"","",7909HE,Hoogeveen
+Dotterbloem,26,"","",7909HE,Hoogeveen
+Dotterbloem,4,"","",7909HE,Hoogeveen
+Dotterbloem,6,"","",7909HE,Hoogeveen
+Dotterbloem,8,"","",7909HE,Hoogeveen
+Dotterbloem,1,"","",7909HG,Hoogeveen
+Dotterbloem,11,"","",7909HG,Hoogeveen
+Dotterbloem,13,"","",7909HG,Hoogeveen
+Dotterbloem,15,"","",7909HG,Hoogeveen
+Dotterbloem,19,"","",7909HG,Hoogeveen
+Dotterbloem,21,"","",7909HG,Hoogeveen
+Dotterbloem,23,"","",7909HG,Hoogeveen
+Dotterbloem,25,"","",7909HG,Hoogeveen
+Dotterbloem,27,"","",7909HG,Hoogeveen
+Dotterbloem,29,"","",7909HG,Hoogeveen
+Dotterbloem,3,"","",7909HG,Hoogeveen
+Dotterbloem,31,"","",7909HG,Hoogeveen
+Dotterbloem,33,"","",7909HG,Hoogeveen
+Dotterbloem,35,"","",7909HG,Hoogeveen
+Dotterbloem,37,"","",7909HG,Hoogeveen
+Dotterbloem,39,"","",7909HG,Hoogeveen
+Dotterbloem,41,"","",7909HG,Hoogeveen
+Dotterbloem,43,"","",7909HG,Hoogeveen
+Dotterbloem,45,"","",7909HG,Hoogeveen
+Dotterbloem,47,"","",7909HG,Hoogeveen
+Dotterbloem,49,"","",7909HG,Hoogeveen
+Dotterbloem,5,"","",7909HG,Hoogeveen
+Dotterbloem,7,"","",7909HG,Hoogeveen
+Oeverzegge,11,"","",7909HH,Hoogeveen
+Oeverzegge,3,"","",7909HH,Hoogeveen
+Oeverzegge,5,"","",7909HH,Hoogeveen
+Oeverzegge,7,"","",7909HH,Hoogeveen
+Oeverzegge,9,"","",7909HH,Hoogeveen
+Lisdodde,10,"","",7909HJ,Hoogeveen
+Lisdodde,11,"","",7909HJ,Hoogeveen
+Lisdodde,12,"","",7909HJ,Hoogeveen
+Lisdodde,13,"","",7909HJ,Hoogeveen
+Lisdodde,14,"","",7909HJ,Hoogeveen
+Lisdodde,15,"","",7909HJ,Hoogeveen
+Lisdodde,16,"","",7909HJ,Hoogeveen
+Lisdodde,17,"","",7909HJ,Hoogeveen
+Lisdodde,19,"","",7909HJ,Hoogeveen
+Lisdodde,2,"","",7909HJ,Hoogeveen
+Lisdodde,20,"","",7909HJ,Hoogeveen
+Lisdodde,21,"","",7909HJ,Hoogeveen
+Lisdodde,22,"","",7909HJ,Hoogeveen
+Lisdodde,3,"","",7909HJ,Hoogeveen
+Lisdodde,4,"","",7909HJ,Hoogeveen
+Lisdodde,5,"","",7909HJ,Hoogeveen
+Lisdodde,6,"","",7909HJ,Hoogeveen
+Lisdodde,7,"","",7909HJ,Hoogeveen
+Lisdodde,8,"","",7909HJ,Hoogeveen
+Lisdodde,9,"","",7909HJ,Hoogeveen
+Pijlkruid,1,"","",7909HK,Hoogeveen
+Pijlkruid,10,"","",7909HK,Hoogeveen
+Pijlkruid,11,"","",7909HK,Hoogeveen
+Pijlkruid,12,"","",7909HK,Hoogeveen
+Pijlkruid,14,"","",7909HK,Hoogeveen
+Pijlkruid,16,"","",7909HK,Hoogeveen
+Pijlkruid,18,"","",7909HK,Hoogeveen
+Pijlkruid,2,"","",7909HK,Hoogeveen
+Pijlkruid,2,A,"",7909HK,Hoogeveen
+Pijlkruid,20,"","",7909HK,Hoogeveen
+Pijlkruid,3,"","",7909HK,Hoogeveen
+Pijlkruid,4,"","",7909HK,Hoogeveen
+Pijlkruid,4,A,"",7909HK,Hoogeveen
+Pijlkruid,5,"","",7909HK,Hoogeveen
+Pijlkruid,6,"","",7909HK,Hoogeveen
+Pijlkruid,7,"","",7909HK,Hoogeveen
+Pijlkruid,8,"","",7909HK,Hoogeveen
+Pijlkruid,9,"","",7909HK,Hoogeveen
+Zwanebloem,10,"","",7909HL,Hoogeveen
+Zwanebloem,12,"","",7909HL,Hoogeveen
+Zwanebloem,14,"","",7909HL,Hoogeveen
+Zwanebloem,16,"","",7909HL,Hoogeveen
+Zwanebloem,18,"","",7909HL,Hoogeveen
+Zwanebloem,2,"","",7909HL,Hoogeveen
+Zwanebloem,20,"","",7909HL,Hoogeveen
+Zwanebloem,22,"","",7909HL,Hoogeveen
+Zwanebloem,24,"","",7909HL,Hoogeveen
+Zwanebloem,26,"","",7909HL,Hoogeveen
+Zwanebloem,28,"","",7909HL,Hoogeveen
+Zwanebloem,30,"","",7909HL,Hoogeveen
+Zwanebloem,32,"","",7909HL,Hoogeveen
+Zwanebloem,34,"","",7909HL,Hoogeveen
+Zwanebloem,36,"","",7909HL,Hoogeveen
+Zwanebloem,4,"","",7909HL,Hoogeveen
+Zwanebloem,6,"","",7909HL,Hoogeveen
+Zwanebloem,8,"","",7909HL,Hoogeveen
+Zwanebloem,1,"","",7909HM,Hoogeveen
+Zwanebloem,11,"","",7909HM,Hoogeveen
+Zwanebloem,13,"","",7909HM,Hoogeveen
+Zwanebloem,15,"","",7909HM,Hoogeveen
+Zwanebloem,17,"","",7909HM,Hoogeveen
+Zwanebloem,19,"","",7909HM,Hoogeveen
+Zwanebloem,25,"","",7909HM,Hoogeveen
+Zwanebloem,27,"","",7909HM,Hoogeveen
+Zwanebloem,29,"","",7909HM,Hoogeveen
+Zwanebloem,3,"","",7909HM,Hoogeveen
+Zwanebloem,31,"","",7909HM,Hoogeveen
+Zwanebloem,33,"","",7909HM,Hoogeveen
+Zwanebloem,35,"","",7909HM,Hoogeveen
+Zwanebloem,37,"","",7909HM,Hoogeveen
+Zwanebloem,39,"","",7909HM,Hoogeveen
+Zwanebloem,41,"","",7909HM,Hoogeveen
+Zwanebloem,43,"","",7909HM,Hoogeveen
+Zwanebloem,45,"","",7909HM,Hoogeveen
+Zwanebloem,45,T,"",7909HM,Hoogeveen
+Zwanebloem,5,"","",7909HM,Hoogeveen
+Zwanebloem,7,"","",7909HM,Hoogeveen
+Zwanebloem,9,"","",7909HM,Hoogeveen
+Violier,1,"","",7909HN,Hoogeveen
+Violier,11,"","",7909HN,Hoogeveen
+Violier,13,"","",7909HN,Hoogeveen
+Violier,15,"","",7909HN,Hoogeveen
+Violier,17,"","",7909HN,Hoogeveen
+Violier,19,"","",7909HN,Hoogeveen
+Violier,21,"","",7909HN,Hoogeveen
+Violier,23,"","",7909HN,Hoogeveen
+Violier,25,"","",7909HN,Hoogeveen
+Violier,27,"","",7909HN,Hoogeveen
+Violier,3,"","",7909HN,Hoogeveen
+Violier,5,"","",7909HN,Hoogeveen
+Violier,7,"","",7909HN,Hoogeveen
+Violier,9,"","",7909HN,Hoogeveen
+Rietland,10,"","",7909HP,Hoogeveen
+Rietland,11,"","",7909HP,Hoogeveen
+Rietland,12,"","",7909HP,Hoogeveen
+Rietland,13,"","",7909HP,Hoogeveen
+Rietland,14,"","",7909HP,Hoogeveen
+Rietland,15,"","",7909HP,Hoogeveen
+Rietland,16,"","",7909HP,Hoogeveen
+Rietland,17,"","",7909HP,Hoogeveen
+Rietland,18,"","",7909HP,Hoogeveen
+Rietland,2,"","",7909HP,Hoogeveen
+Rietland,20,"","",7909HP,Hoogeveen
+Rietland,22,"","",7909HP,Hoogeveen
+Rietland,24,"","",7909HP,Hoogeveen
+Rietland,26,"","",7909HP,Hoogeveen
+Rietland,28,"","",7909HP,Hoogeveen
+Rietland,3,"","",7909HP,Hoogeveen
+Rietland,4,"","",7909HP,Hoogeveen
+Rietland,5,"","",7909HP,Hoogeveen
+Rietland,6,"","",7909HP,Hoogeveen
+Rietland,7,"","",7909HP,Hoogeveen
+Rietland,8,"","",7909HP,Hoogeveen
+Rietland,9,"","",7909HP,Hoogeveen
+Weegbree,1,"","",7909HR,Hoogeveen
+Weegbree,10,"","",7909HR,Hoogeveen
+Weegbree,11,"","",7909HR,Hoogeveen
+Weegbree,13,"","",7909HR,Hoogeveen
+Weegbree,15,"","",7909HR,Hoogeveen
+Weegbree,17,"","",7909HR,Hoogeveen
+Weegbree,19,"","",7909HR,Hoogeveen
+Weegbree,2,"","",7909HR,Hoogeveen
+Weegbree,21,"","",7909HR,Hoogeveen
+Weegbree,23,"","",7909HR,Hoogeveen
+Weegbree,3,"","",7909HR,Hoogeveen
+Weegbree,4,"","",7909HR,Hoogeveen
+Weegbree,5,"","",7909HR,Hoogeveen
+Weegbree,6,"","",7909HR,Hoogeveen
+Weegbree,7,"","",7909HR,Hoogeveen
+Weegbree,8,"","",7909HR,Hoogeveen
+Weegbree,9,"","",7909HR,Hoogeveen

@@ -1,41 +1,41 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8616LB,Feytebuorren,1,,
-8616LB,Feytebuorren,2,,
-8616LB,Feytebuorren,4,,
-8616LA,De Kat,1,,
-8616LA,De Kat,2,A,
-8616LA,De Kat,2,,
-8616LA,De Kat,3,,
-8616LA,De Kat,4,,
-8616LA,De Kat,5,,
-8616LA,De Kat,6,,
-8616LA,De Kat,7,,
-8616LA,De Kat,8,,
-8616LA,De Kat,10,,
-8616LA,De Kat,11,,
-8616LA,De Kat,12,,
-8616LA,De Kat,13,,
-8616LA,De Kat,14,,
-8616LA,De Kat,16,,
-8616LB,De Kat,15,,
-8616LB,De Kat,17,,
-8616LB,De Kat,18,,
-8616LB,De Kat,19,,
-8616LB,De Kat,20,,
-8616LB,De Kat,21,,
-8616LB,De Kat,23,,
-8616LB,De Kat,24,,
-8616LB,De Kat,25,,
-8616LB,De Kat,26,,
-8616LB,De Kat,27,,
-8616LB,De Kat,28,,
-8616LB,De Kat,31,,
-8616LB,De Kat,33,A,
-8616LB,De Kat,33,,
-8616LB,De Kat,35,,
-8616LB,De Kat,22,,
-8616LB,Feytebuorren,3,,
-8616LA,De Kat,16,,
-8616LA,De Kat,16,,
-8616LA,De Kat,2,B,
-8616LB,De Kat,20,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Kat,1,"","",8616LA,Westhem
+De Kat,10,"","",8616LA,Westhem
+De Kat,11,"","",8616LA,Westhem
+De Kat,12,"","",8616LA,Westhem
+De Kat,13,"","",8616LA,Westhem
+De Kat,14,"","",8616LA,Westhem
+De Kat,16,"","",8616LA,Westhem
+De Kat,16,"","",8616LA,Westhem
+De Kat,16,"","",8616LA,Westhem
+De Kat,2,"","",8616LA,Westhem
+De Kat,2,A,"",8616LA,Westhem
+De Kat,2,B,"",8616LA,Westhem
+De Kat,3,"","",8616LA,Westhem
+De Kat,4,"","",8616LA,Westhem
+De Kat,5,"","",8616LA,Westhem
+De Kat,6,"","",8616LA,Westhem
+De Kat,7,"","",8616LA,Westhem
+De Kat,8,"","",8616LA,Westhem
+Feytebuorren,1,"","",8616LB,Westhem
+De Kat,15,"","",8616LB,Westhem
+De Kat,17,"","",8616LB,Westhem
+De Kat,18,"","",8616LB,Westhem
+De Kat,19,"","",8616LB,Westhem
+Feytebuorren,2,"","",8616LB,Westhem
+De Kat,20,"","",8616LB,Westhem
+De Kat,20,A,"",8616LB,Westhem
+De Kat,21,"","",8616LB,Westhem
+De Kat,22,"","",8616LB,Westhem
+De Kat,23,"","",8616LB,Westhem
+De Kat,24,"","",8616LB,Westhem
+De Kat,25,"","",8616LB,Westhem
+De Kat,26,"","",8616LB,Westhem
+De Kat,27,"","",8616LB,Westhem
+De Kat,28,"","",8616LB,Westhem
+Feytebuorren,3,"","",8616LB,Westhem
+De Kat,31,"","",8616LB,Westhem
+De Kat,33,"","",8616LB,Westhem
+De Kat,33,A,"",8616LB,Westhem
+De Kat,35,"","",8616LB,Westhem
+Feytebuorren,4,"","",8616LB,Westhem

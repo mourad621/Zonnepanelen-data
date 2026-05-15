@@ -1,453 +1,233 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9404KR",1,"D",""
-"9404KR",7,"",""
-"9404KR",53,"",""
-"9404KR",9,"",""
-"9404KR",51,"",""
-"9404KR",51,"",""
-"9404KR",53,"",""
-"9404KR",1,"C",""
-"9404KR",49,"L",""
-"9404KR",51,"A",""
-"9404KR",3,"",""
-"9404KR",49,"M",""
-"9404KR",57,"B",""
-"9404KR",11,"",""
-"9404KR",51,"",""
-"9404KR",5,"A",""
-"9404KR",51,"B",""
-"9404KR",1,"",""
-"9404KR",3,"A",""
-"9404KR",1,"E",""
-"9404KR",55,"B",""
-"9404KR",61,"",""
-"9404KR",55,"",""
-"9404KR",21,"",""
-"9404KR",19,"",""
-"9404KR",53,"",""
-"9404KR",49,"J",""
-"9404KR",13,"",""
-"9404KR",5,"",""
-"9404KR",49,"D",""
-"9404KR",49,"B",""
-"9404KR",49,"K",""
-"9404KR",53,"B",""
-"9404KR",65,"",""
-"9404KR",37,"",""
-"9404KR",25,"",""
-"9404KR",29,"",""
-"9404KR",15,"",""
-"9404KR",9,"",""
-"9404KR",49,"F",""
-"9404KR",11,"",""
-"9404KR",1,"B",""
-"9404KR",49,"H",""
-"9404KR",81,"",""
-"9404KR",77,"",""
-"9404KR",73,"",""
-"9404KR",57,"A",""
-"9404KR",41,"",""
-"9404KR",59,"",""
-"9404KR",63,"",""
-"9404KR",53,"A",""
-"9404KR",13,"",""
-"9404KR",23,"",""
-"9404KR",1,"A",""
-"9404KR",49,"E",""
-"9404KR",49,"C",""
-"9404KR",75,"",""
-"9404KR",67,"",""
-"9404KR",57,"",""
-"9404KR",39,"",""
-"9404KR",55,"A",""
-"9404KR",47,"",""
-"9404KR",49,"G",""
-"9404KR",69,"",""
-"9404KR",79,"",""
-"9404KR",55,"",""
-"9404KR",45,"",""
-"9404KR",43,"",""
-"9404KR",57,"",""
-"9404KR",71,"",""
-"9404KR",57,"",""
-"9404KR",17,"",""
-"9404KR",33,"",""
-"9404KR",15,"",""
-"9404KR",31,"",""
-"9404KR",35,"",""
-"9404KR",27,"",""
-"9404KR",55,"",""
-"9404KR",49,"",""
-"9404KR",49,"A",""
-"9404LA",9,"","170"
-"9404LA",9,"","172"
-"9404LA",9,"","190"
-"9404LA",9,"E",""
-"9404LA",9,"E",""
-"9404LA",9,"","127"
-"9404LA",9,"","135"
-"9404LA",9,"","86"
-"9404LA",9,"","138"
-"9404LA",9,"","70"
-"9404LA",9,"","137"
-"9404LA",9,"D",""
-"9404LA",9,"","41"
-"9404LA",9,"C","117"
-"9404LA",9,"","139"
-"9404LA",9,"","16"
-"9404LA",9,"","23"
-"9404LA",9,"","41"
-"9404LA",9,"","131"
-"9404LA",9,"D",""
-"9404LA",1,"",""
-"9404LA",9,"","120"
-"9404LA",9,"","42"
-"9404LA",9,"","41"
-"9404LA",9,"","134"
-"9404LA",9,"","55"
-"9404LA",9,"","89"
-"9404LA",9,"","89B"
-"9404LA",9,"","123"
-"9404LA",9,"","24"
-"9404LA",5,"",""
-"9404LA",9,"","89D"
-"9404LA",9,"","35"
-"9404LA",9,"","130"
-"9404LA",9,"","25"
-"9404LA",9,"","128"
-"9404LA",9,"","87"
-"9404LA",9,"","2"
-"9404LA",9,"","69"
-"9404LA",9,"","70"
-"9404LA",9,"","35"
-"9404LA",9,"",""
-"9404LA",9,"","129"
-"9404LA",9,"","89F"
-"9404LA",9,"","89E"
-"9404LA",9,"","205"
-"9404LA",9,"","89"
-"9404LA",9,"","88"
-"9404LA",9,"","89A"
-"9404LA",9,"","89"
-"9404LA",9,"","89C"
-"9404LA",9,"","25"
-"9404LA",9,"","85"
-"9404LA",9,"A","117"
-"9404LA",7,"",""
-"9404LA",9,"","89"
-"9404LA",9,"B","117"
-"9404LA",9,"","85"
-"9404LA",9,"","23"
-"9404LA",9,"","43"
-"9404LA",9,"","89"
-"9404LA",3,"",""
-"9404LA",9,"","89"
-"9404LA",9,"","89"
-"9404LA",9,"","120"
-"9404LA",9,"","118"
-"9404LA",9,"","89"
-"9404LB",1,"",""
-"9404LB",6,"A",""
-"9404LB",11,"B",""
-"9404LB",9,"I",""
-"9404LB",9,"G",""
-"9404LB",9,"L",""
-"9404LB",9,"D",""
-"9404LB",9,"H",""
-"9404LB",6,"",""
-"9404LB",1,"",""
-"9404LB",9,"K",""
-"9404LB",11,"",""
-"9404LB",9,"C",""
-"9404LB",9,"J",""
-"9404LB",6,"",""
-"9404LB",4,"A",""
-"9404LB",6,"B",""
-"9404LB",4,"W",""
-"9404LB",9,"A",""
-"9404LB",4,"C",""
-"9404LB",2,"B",""
-"9404LB",11,"A",""
-"9404LB",4,"X",""
-"9404LB",4,"R",""
-"9404LB",4,"T",""
-"9404LB",2,"D",""
-"9404LB",9,"",""
-"9404LB",11,"H",""
-"9404LB",4,"V",""
-"9404LB",6,"A",""
-"9404LB",6,"J",""
-"9404LB",2,"",""
-"9404LB",11,"E",""
-"9404LB",9,"F",""
-"9404LB",5,"",""
-"9404LB",4,"J",""
-"9404LB",11,"J",""
-"9404LB",9,"B",""
-"9404LB",4,"G",""
-"9404LB",6,"A",""
-"9404LB",4,"B",""
-"9404LB",11,"I",""
-"9404LB",6,"D",""
-"9404LB",2,"A",""
-"9404LB",4,"U",""
-"9404LB",6,"L",""
-"9404LB",6,"C",""
-"9404LB",6,"H",""
-"9404LB",6,"F",""
-"9404LB",4,"F",""
-"9404LB",2,"E",""
-"9404LB",7,"",""
-"9404LB",4,"D",""
-"9404LB",6,"B",""
-"9404LB",6,"G",""
-"9404LB",11,"C",""
-"9404LB",4,"S",""
-"9404LB",9,"E",""
-"9404LB",6,"M",""
-"9404LB",6,"C",""
-"9404LB",11,"G",""
-"9404LB",6,"B",""
-"9404LB",2,"C",""
-"9404LB",2,"A",""
-"9404LB",4,"P",""
-"9404LB",11,"G",""
-"9404LB",6,"C",""
-"9404LB",4,"",""
-"9404LB",4,"H",""
-"9404LB",4,"M",""
-"9404LB",4,"N",""
-"9404LB",4,"Q",""
-"9404LB",11,"F",""
-"9404LB",4,"E",""
-"9404LB",4,"",""
-"9404LB",4,"K",""
-"9404LB",11,"L",""
-"9404LB",6,"D",""
-"9404LB",6,"E",""
-"9404LB",3,"",""
-"9404LB",11,"D",""
-"9404LB",11,"K",""
-"9404LB",6,"K",""
-"9404LB",4,"L",""
-"9404LB",6,"D",""
-9404LB,Burgemeester Bothenius Lohmanweg,2,A,
-9404LB,Burgemeester Bothenius Lohmanweg,2,,
-9404LB,Burgemeester Bothenius Lohmanweg,3,,
-9404LB,Burgemeester Bothenius Lohmanweg,4,,
-9404LB,Burgemeester Bothenius Lohmanweg,5,,
-9404LB,Burgemeester Bothenius Lohmanweg,6,A,
-9404LB,Burgemeester Bothenius Lohmanweg,6,B,
-9404LB,Burgemeester Bothenius Lohmanweg,6,C,
-9404LB,Burgemeester Bothenius Lohmanweg,6,D,
-9404LB,Burgemeester Bothenius Lohmanweg,6,,
-9404LB,Burgemeester Bothenius Lohmanweg,7,,
-9404LA,Dennenweg,1,,
-9404LA,Dennenweg,3,,
-9404LA,Dennenweg,5,,
-9404LA,Dennenweg,7,,
-9404LA,Dennenweg,9,,
-9404KR,Lindelaan,1,A,
-9404KR,Lindelaan,1,B,
-9404KR,Lindelaan,1,C,
-9404KR,Lindelaan,1,D,
-9404KR,Lindelaan,1,E,
-9404KR,Lindelaan,3,A,
-9404KR,Lindelaan,3,,
-9404KR,Lindelaan,5,A,
-9404KR,Lindelaan,5,,
-9404KR,Lindelaan,7,,
-9404KR,Lindelaan,9,,
-9404KR,Lindelaan,9,,
-9404KR,Lindelaan,11,,
-9404KR,Lindelaan,11,,
-9404KR,Lindelaan,13,,
-9404KR,Lindelaan,13,,
-9404KR,Lindelaan,15,,
-9404KR,Lindelaan,15,,
-9404KR,Lindelaan,17,,
-9404KR,Lindelaan,19,,
-9404KR,Lindelaan,21,,
-9404KR,Lindelaan,23,,
-9404KR,Lindelaan,25,,
-9404KR,Lindelaan,27,,
-9404KR,Lindelaan,29,,
-9404KR,Lindelaan,31,,
-9404KR,Lindelaan,33,,
-9404KR,Lindelaan,35,,
-9404KR,Lindelaan,37,,
-9404KR,Lindelaan,39,,
-9404KR,Lindelaan,41,,
-9404KR,Lindelaan,43,,
-9404KR,Lindelaan,45,,
-9404KR,Lindelaan,47,,
-9404KR,Lindelaan,49,,
-9404KR,Lindelaan,51,,
-9404KR,Lindelaan,53,,
-9404KR,Lindelaan,55,,
-9404KR,Lindelaan,57,,
-9404KR,Lindelaan,59,,
-9404KR,Lindelaan,61,,
-9404KR,Lindelaan,63,,
-9404KR,Lindelaan,65,,
-9404KR,Lindelaan,67,,
-9404KR,Lindelaan,69,,
-9404KR,Lindelaan,71,,
-9404KR,Lindelaan,73,,
-9404KR,Lindelaan,75,,
-9404KR,Lindelaan,77,,
-9404KR,Lindelaan,79,,
-9404KR,Lindelaan,81,,
-9404LB,Burgemeester Bothenius Lohmanweg,1,,
-9404LB,Burgemeester Bothenius Lohmanweg,9,,
-9404LB,Burgemeester Bothenius Lohmanweg,9,A,
-9404LB,Burgemeester Bothenius Lohmanweg,9,B,
-9404LB,Burgemeester Bothenius Lohmanweg,9,C,
-9404LB,Burgemeester Bothenius Lohmanweg,9,D,
-9404LB,Burgemeester Bothenius Lohmanweg,9,E,
-9404LB,Burgemeester Bothenius Lohmanweg,9,F,
-9404LB,Burgemeester Bothenius Lohmanweg,9,G,
-9404LB,Burgemeester Bothenius Lohmanweg,9,H,
-9404LB,Burgemeester Bothenius Lohmanweg,9,I,
-9404LB,Burgemeester Bothenius Lohmanweg,9,J,
-9404LB,Burgemeester Bothenius Lohmanweg,9,K,
-9404LB,Burgemeester Bothenius Lohmanweg,9,L,
-9404LB,Burgemeester Bothenius Lohmanweg,11,,
-9404LB,Burgemeester Bothenius Lohmanweg,11,A,
-9404LB,Burgemeester Bothenius Lohmanweg,11,B,
-9404LB,Burgemeester Bothenius Lohmanweg,11,C,
-9404LB,Burgemeester Bothenius Lohmanweg,11,D,
-9404LB,Burgemeester Bothenius Lohmanweg,11,E,
-9404LB,Burgemeester Bothenius Lohmanweg,11,F,
-9404LB,Burgemeester Bothenius Lohmanweg,11,G,
-9404LB,Burgemeester Bothenius Lohmanweg,11,G,
-9404LB,Burgemeester Bothenius Lohmanweg,11,H,
-9404LB,Burgemeester Bothenius Lohmanweg,11,I,
-9404LB,Burgemeester Bothenius Lohmanweg,11,J,
-9404LB,Burgemeester Bothenius Lohmanweg,11,K,
-9404LB,Burgemeester Bothenius Lohmanweg,11,L,
-9404LB,Burgemeester Bothenius Lohmanweg,4,,
-9404LB,Burgemeester Bothenius Lohmanweg,4,A,
-9404LB,Burgemeester Bothenius Lohmanweg,4,B,
-9404LB,Burgemeester Bothenius Lohmanweg,4,C,
-9404LB,Burgemeester Bothenius Lohmanweg,4,D,
-9404LB,Burgemeester Bothenius Lohmanweg,4,E,
-9404LB,Burgemeester Bothenius Lohmanweg,4,F,
-9404LB,Burgemeester Bothenius Lohmanweg,4,G,
-9404LB,Burgemeester Bothenius Lohmanweg,4,H,
-9404LB,Burgemeester Bothenius Lohmanweg,4,J,
-9404LB,Burgemeester Bothenius Lohmanweg,4,K,
-9404LB,Burgemeester Bothenius Lohmanweg,4,L,
-9404LB,Burgemeester Bothenius Lohmanweg,4,M,
-9404LB,Burgemeester Bothenius Lohmanweg,4,N,
-9404LB,Burgemeester Bothenius Lohmanweg,4,P,
-9404LB,Burgemeester Bothenius Lohmanweg,4,Q,
-9404LB,Burgemeester Bothenius Lohmanweg,4,R,
-9404LB,Burgemeester Bothenius Lohmanweg,4,S,
-9404LB,Burgemeester Bothenius Lohmanweg,4,T,
-9404LB,Burgemeester Bothenius Lohmanweg,4,U,
-9404LB,Burgemeester Bothenius Lohmanweg,4,V,
-9404LB,Burgemeester Bothenius Lohmanweg,4,W,
-9404LB,Burgemeester Bothenius Lohmanweg,4,X,
-9404LB,Burgemeester Bothenius Lohmanweg,2,B,
-9404LB,Burgemeester Bothenius Lohmanweg,2,C,
-9404LB,Burgemeester Bothenius Lohmanweg,2,D,
-9404LB,Burgemeester Bothenius Lohmanweg,2,E,
-9404LB,Burgemeester Bothenius Lohmanweg,6,A,
-9404LB,Burgemeester Bothenius Lohmanweg,6,B,
-9404LB,Burgemeester Bothenius Lohmanweg,6,C,
-9404LB,Burgemeester Bothenius Lohmanweg,6,D,
-9404LB,Burgemeester Bothenius Lohmanweg,6,E,
-9404LB,Burgemeester Bothenius Lohmanweg,6,F,
-9404LB,Burgemeester Bothenius Lohmanweg,6,G,
-9404LB,Burgemeester Bothenius Lohmanweg,6,H,
-9404LB,Burgemeester Bothenius Lohmanweg,6,J,
-9404LB,Burgemeester Bothenius Lohmanweg,6,K,
-9404LB,Burgemeester Bothenius Lohmanweg,6,L,
-9404LB,Burgemeester Bothenius Lohmanweg,6,M,
-9404LB,Burgemeester Bothenius Lohmanweg,6,,
-9404LA,Dennenweg,9,,69
-9404LA,Dennenweg,9,,137
-9404LA,Dennenweg,9,,139
-9404LA,Dennenweg,9,,138
-9404LA,Dennenweg,9,,16
-9404LA,Dennenweg,9,,35
-9404LA,Dennenweg,9,,118
-9404LA,Dennenweg,9,,55
-9404LA,Dennenweg,9,,23
-9404LA,Dennenweg,9,,88
-9404LA,Dennenweg,9,,172
-9404LA,Dennenweg,9,,2
-9404LA,Dennenweg,9,,134
-9404LA,Dennenweg,9,,205
-9404LA,Dennenweg,9,,123
-9404LA,Dennenweg,9,,120
-9404LA,Dennenweg,9,,131
-9404LA,Dennenweg,9,,190
-9404LA,Dennenweg,9,,41
-9404LA,Dennenweg,9,B,117
-9404LA,Dennenweg,9,C,117
-9404LA,Dennenweg,9,A,117
-9404LA,Dennenweg,9,,135
-9404LA,Dennenweg,9,,25
-9404LA,Dennenweg,9,,170
-9404LA,Dennenweg,9,,24
-9404LA,Dennenweg,9,,70
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,41
-9404LA,Dennenweg,9,,43
-9404LA,Dennenweg,9,,42
-9404LA,Dennenweg,9,,85
-9404LA,Dennenweg,9,,85
-9404LA,Dennenweg,9,,86
-9404LA,Dennenweg,9,,87
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,89A
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,89B
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,89C
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,89D
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,89E
-9404LA,Dennenweg,9,,89
-9404LA,Dennenweg,9,,89F
-9404LA,Dennenweg,9,,127
-9404LA,Dennenweg,9,,128
-9404LA,Dennenweg,9,,129
-9404LA,Dennenweg,9,,130
-9404KR,Lindelaan,1,,
-9404KR,Lindelaan,51,,
-9404KR,Lindelaan,51,A,
-9404KR,Lindelaan,51,B,
-9404KR,Lindelaan,53,,
-9404KR,Lindelaan,53,A,
-9404KR,Lindelaan,53,B,
-9404KR,Lindelaan,55,,
-9404KR,Lindelaan,55,A,
-9404KR,Lindelaan,55,B,
-9404KR,Lindelaan,57,,
-9404KR,Lindelaan,57,A,
-9404KR,Lindelaan,57,B,
-9404KR,Lindelaan,49,A,
-9404KR,Lindelaan,49,B,
-9404KR,Lindelaan,49,C,
-9404KR,Lindelaan,49,D,
-9404KR,Lindelaan,49,E,
-9404KR,Lindelaan,49,F,
-9404KR,Lindelaan,49,G,
-9404KR,Lindelaan,49,H,
-9404KR,Lindelaan,49,J,
-9404KR,Lindelaan,49,K,
-9404KR,Lindelaan,49,L,
-9404KR,Lindelaan,49,M,
-9404LB,Burgemeester Bothenius Lohmanweg,6,P,
-9404LB,Burgemeester Bothenius Lohmanweg,6,N,
-9404LB,Burgemeester Bothenius Lohmanweg,6,H,1
-9404LB,Burgemeester Bothenius Lohmanweg,6,Q,
-9404LB,Burgemeester Bothenius Lohmanweg,6,H,2
-9404LB,Burgemeester Bothenius Lohmanweg,6,R,
-9404LA,Dennenweg,9,D,
-9404LA,Dennenweg,9,E,
-9404LA,Dennenweg,9,,138
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Lindelaan,1,"","",9404KR,Assen
+Lindelaan,1,A,"",9404KR,Assen
+Lindelaan,1,B,"",9404KR,Assen
+Lindelaan,1,C,"",9404KR,Assen
+Lindelaan,1,D,"",9404KR,Assen
+Lindelaan,1,E,"",9404KR,Assen
+Lindelaan,11,"","",9404KR,Assen
+Lindelaan,11,"","",9404KR,Assen
+Lindelaan,13,"","",9404KR,Assen
+Lindelaan,13,"","",9404KR,Assen
+Lindelaan,15,"","",9404KR,Assen
+Lindelaan,15,"","",9404KR,Assen
+Lindelaan,17,"","",9404KR,Assen
+Lindelaan,19,"","",9404KR,Assen
+Lindelaan,21,"","",9404KR,Assen
+Lindelaan,23,"","",9404KR,Assen
+Lindelaan,25,"","",9404KR,Assen
+Lindelaan,27,"","",9404KR,Assen
+Lindelaan,29,"","",9404KR,Assen
+Lindelaan,3,"","",9404KR,Assen
+Lindelaan,3,A,"",9404KR,Assen
+Lindelaan,31,"","",9404KR,Assen
+Lindelaan,33,"","",9404KR,Assen
+Lindelaan,35,"","",9404KR,Assen
+Lindelaan,37,"","",9404KR,Assen
+Lindelaan,39,"","",9404KR,Assen
+Lindelaan,41,"","",9404KR,Assen
+Lindelaan,43,"","",9404KR,Assen
+Lindelaan,45,"","",9404KR,Assen
+Lindelaan,47,"","",9404KR,Assen
+Lindelaan,49,"","",9404KR,Assen
+Lindelaan,49,A,"",9404KR,Assen
+Lindelaan,49,B,"",9404KR,Assen
+Lindelaan,49,C,"",9404KR,Assen
+Lindelaan,49,D,"",9404KR,Assen
+Lindelaan,49,E,"",9404KR,Assen
+Lindelaan,49,F,"",9404KR,Assen
+Lindelaan,49,G,"",9404KR,Assen
+Lindelaan,49,H,"",9404KR,Assen
+Lindelaan,49,J,"",9404KR,Assen
+Lindelaan,49,K,"",9404KR,Assen
+Lindelaan,49,L,"",9404KR,Assen
+Lindelaan,49,M,"",9404KR,Assen
+Lindelaan,5,"","",9404KR,Assen
+Lindelaan,5,A,"",9404KR,Assen
+Lindelaan,51,"","",9404KR,Assen
+Lindelaan,51,"","",9404KR,Assen
+Lindelaan,51,"","",9404KR,Assen
+Lindelaan,51,A,"",9404KR,Assen
+Lindelaan,51,B,"",9404KR,Assen
+Lindelaan,53,"","",9404KR,Assen
+Lindelaan,53,"","",9404KR,Assen
+Lindelaan,53,"","",9404KR,Assen
+Lindelaan,53,A,"",9404KR,Assen
+Lindelaan,53,B,"",9404KR,Assen
+Lindelaan,55,"","",9404KR,Assen
+Lindelaan,55,"","",9404KR,Assen
+Lindelaan,55,"","",9404KR,Assen
+Lindelaan,55,A,"",9404KR,Assen
+Lindelaan,55,B,"",9404KR,Assen
+Lindelaan,57,"","",9404KR,Assen
+Lindelaan,57,"","",9404KR,Assen
+Lindelaan,57,"","",9404KR,Assen
+Lindelaan,57,A,"",9404KR,Assen
+Lindelaan,57,B,"",9404KR,Assen
+Lindelaan,59,"","",9404KR,Assen
+Lindelaan,61,"","",9404KR,Assen
+Lindelaan,63,"","",9404KR,Assen
+Lindelaan,65,"","",9404KR,Assen
+Lindelaan,67,"","",9404KR,Assen
+Lindelaan,69,"","",9404KR,Assen
+Lindelaan,7,"","",9404KR,Assen
+Lindelaan,71,"","",9404KR,Assen
+Lindelaan,73,"","",9404KR,Assen
+Lindelaan,75,"","",9404KR,Assen
+Lindelaan,77,"","",9404KR,Assen
+Lindelaan,79,"","",9404KR,Assen
+Lindelaan,81,"","",9404KR,Assen
+Lindelaan,9,"","",9404KR,Assen
+Lindelaan,9,"","",9404KR,Assen
+Dennenweg,1,"","",9404LA,Assen
+Dennenweg,3,"","",9404LA,Assen
+Dennenweg,5,"","",9404LA,Assen
+Dennenweg,7,"","",9404LA,Assen
+Dennenweg,9,"","",9404LA,Assen
+Dennenweg,9,"",118,9404LA,Assen
+Dennenweg,9,"",120,9404LA,Assen
+Dennenweg,9,"",120,9404LA,Assen
+Dennenweg,9,"",123,9404LA,Assen
+Dennenweg,9,"",127,9404LA,Assen
+Dennenweg,9,"",128,9404LA,Assen
+Dennenweg,9,"",129,9404LA,Assen
+Dennenweg,9,"",130,9404LA,Assen
+Dennenweg,9,"",131,9404LA,Assen
+Dennenweg,9,"",134,9404LA,Assen
+Dennenweg,9,"",135,9404LA,Assen
+Dennenweg,9,"",137,9404LA,Assen
+Dennenweg,9,"",138,9404LA,Assen
+Dennenweg,9,"",139,9404LA,Assen
+Dennenweg,9,"",16,9404LA,Assen
+Dennenweg,9,"",170,9404LA,Assen
+Dennenweg,9,"",172,9404LA,Assen
+Dennenweg,9,"",190,9404LA,Assen
+Dennenweg,9,"",2,9404LA,Assen
+Dennenweg,9,"",205,9404LA,Assen
+Dennenweg,9,"",23,9404LA,Assen
+Dennenweg,9,"",23,9404LA,Assen
+Dennenweg,9,"",24,9404LA,Assen
+Dennenweg,9,"",25,9404LA,Assen
+Dennenweg,9,"",25,9404LA,Assen
+Dennenweg,9,"",35,9404LA,Assen
+Dennenweg,9,"",35,9404LA,Assen
+Dennenweg,9,"",41,9404LA,Assen
+Dennenweg,9,"",41,9404LA,Assen
+Dennenweg,9,"",41,9404LA,Assen
+Dennenweg,9,"",42,9404LA,Assen
+Dennenweg,9,"",43,9404LA,Assen
+Dennenweg,9,"",55,9404LA,Assen
+Dennenweg,9,"",69,9404LA,Assen
+Dennenweg,9,"",70,9404LA,Assen
+Dennenweg,9,"",70,9404LA,Assen
+Dennenweg,9,"",85,9404LA,Assen
+Dennenweg,9,"",85,9404LA,Assen
+Dennenweg,9,"",86,9404LA,Assen
+Dennenweg,9,"",87,9404LA,Assen
+Dennenweg,9,"",88,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89,9404LA,Assen
+Dennenweg,9,"",89A,9404LA,Assen
+Dennenweg,9,"",89B,9404LA,Assen
+Dennenweg,9,"",89C,9404LA,Assen
+Dennenweg,9,"",89D,9404LA,Assen
+Dennenweg,9,"",89E,9404LA,Assen
+Dennenweg,9,"",89F,9404LA,Assen
+Dennenweg,9,A,117,9404LA,Assen
+Dennenweg,9,B,117,9404LA,Assen
+Dennenweg,9,C,117,9404LA,Assen
+Dennenweg,9,D,"",9404LA,Assen
+Dennenweg,9,D,"",9404LA,Assen
+Dennenweg,9,E,"",9404LA,Assen
+Dennenweg,9,E,"",9404LA,Assen
+Burgemeester Bothenius Lohmanweg,1,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,1,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,E,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,F,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,G,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,G,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,H,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,I,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,J,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,K,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,11,L,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,2,E,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,3,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,E,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,F,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,G,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,H,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,J,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,K,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,L,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,M,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,N,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,P,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,Q,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,R,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,S,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,T,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,U,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,V,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,W,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,4,X,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,5,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,E,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,F,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,G,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,H,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,J,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,K,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,L,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,6,M,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,7,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,"","",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,A,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,B,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,C,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,D,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,E,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,F,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,G,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,H,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,I,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,J,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,K,"",9404LB,Assen
+Burgemeester Bothenius Lohmanweg,9,L,"",9404LB,Assen

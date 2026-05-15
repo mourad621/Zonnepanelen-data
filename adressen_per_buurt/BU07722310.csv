@@ -1,5 +1,5 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5643TW,Hugo van der Goeslaan,1,,
-5643TX,Hugo van der Goeslaan,49,,
-5645TA,Kanaaldijk-Zuid,50,,
-5643TW,Hugo van der Goeslaan,1,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hugo van der Goeslaan,1,"","",5643TW,Eindhoven
+Hugo van der Goeslaan,1,A,"",5643TW,Eindhoven
+Hugo van der Goeslaan,49,"","",5643TX,Eindhoven
+Kanaaldijk-Zuid,50,"","",5645TA,Eindhoven

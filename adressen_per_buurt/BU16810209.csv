@@ -1,65 +1,65 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9534PA,Borgerderstraat,1,,
-9534PA,Borgerderstraat,2,,
-9534PA,Borgerderstraat,3,,
-9534PA,Borgerderstraat,4,,
-9534PA,Borgerderstraat,5,,
-9534PA,Borgerderstraat,6,,
-9534PA,Borgerderstraat,6,A,
-9534PA,Borgerderstraat,7,,
-9534PA,Borgerderstraat,8,,
-9534PA,Borgerderstraat,9,,
-9534PA,Borgerderstraat,10,,
-9534PA,Borgerderstraat,11,,
-9534PA,Borgerderstraat,13,,
-9534PA,Borgerderstraat,15,,
-9534PA,Borgerderstraat,17,,
-9534PA,Borgerderstraat,11,,
-9534PA,Borgerderstraat,2,A,
-9534PB,Brink,1,,
-9534PB,Brink,2,,
-9534PB,Brink,3,,
-9534PB,Brink,7,,
-9534PB,Brink,7,A,
-9534PB,Brink,7,I,
-9534PB,Brink,8,,
-9534PB,Brink,9,,
-9534PB,Brink,11,,
-9534PB,Brink,12,,
-9534PB,Brink,13,,
-9534PB,Brink,11,,
-9534PD,De Mepscheweg,1,,
-9534PD,De Mepscheweg,2,,
-9534PD,De Mepscheweg,3,,
-9534TC,De Mepscheweg,4,,
-9534TC,De Mepscheweg,5,,
-9534TC,De Mepscheweg,6,,
-9534TD,Kanaalstraat,15,,
-9534TD,Kanaalstraat,21,,Zprk
-9534TB,Koelandenweg,1,,
-9534PC,Schoonloërstraat,1,,
-9534PC,Schoonloërstraat,1,,
-9534PC,Schoonloërstraat,2,,
-9534PC,Schoonloërstraat,2,A,
-9534PC,Schoonloërstraat,3,,
-9534PC,Schoonloërstraat,4,,
-9534PC,Schoonloërstraat,5,,
-9534PC,Schoonloërstraat,5,I,
-9534PC,Schoonloërstraat,1,,
-9534PC,Schoonloërstraat,1,,UNIT
-9534TA,Schoonloërstraat,6,,
-9534TA,Schoonloërstraat,7,,
-9534TA,Schoonloërstraat,8,,
-9534TA,Schoonloërstraat,8,A,
-9534TA,Schoonloërstraat,8,B,
-9534TA,Schoonloërstraat,8,C,
-9534TA,Schoonloërstraat,9,,
-9534TA,Schoonloërstraat,10,,
-9534TA,Schoonloërstraat,11,,
-9534TA,Schoonloërstraat,12,,
-9534TA,Schoonloërstraat,13,,
-9534TA,Schoonloërstraat,14,,
-9534TA,Schoonloërstraat,15,,
-9534TE,Borgerveldweg,40,,
-9534TE,Borgerveldweg,40,,
-9534TE,Borgerveldweg,40,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Borgerderstraat,1,"","",9534PA,Westdorp
+Borgerderstraat,10,"","",9534PA,Westdorp
+Borgerderstraat,11,"","",9534PA,Westdorp
+Borgerderstraat,11,"","",9534PA,Westdorp
+Borgerderstraat,13,"","",9534PA,Westdorp
+Borgerderstraat,15,"","",9534PA,Westdorp
+Borgerderstraat,17,"","",9534PA,Westdorp
+Borgerderstraat,2,"","",9534PA,Westdorp
+Borgerderstraat,2,A,"",9534PA,Westdorp
+Borgerderstraat,3,"","",9534PA,Westdorp
+Borgerderstraat,4,"","",9534PA,Westdorp
+Borgerderstraat,5,"","",9534PA,Westdorp
+Borgerderstraat,6,"","",9534PA,Westdorp
+Borgerderstraat,6,A,"",9534PA,Westdorp
+Borgerderstraat,7,"","",9534PA,Westdorp
+Borgerderstraat,8,"","",9534PA,Westdorp
+Borgerderstraat,9,"","",9534PA,Westdorp
+Brink,1,"","",9534PB,Westdorp
+Brink,11,"","",9534PB,Westdorp
+Brink,11,"","",9534PB,Westdorp
+Brink,12,"","",9534PB,Westdorp
+Brink,13,"","",9534PB,Westdorp
+Brink,2,"","",9534PB,Westdorp
+Brink,3,"","",9534PB,Westdorp
+Brink,7,"","",9534PB,Westdorp
+Brink,7,A,"",9534PB,Westdorp
+Brink,7,I,"",9534PB,Westdorp
+Brink,8,"","",9534PB,Westdorp
+Brink,9,"","",9534PB,Westdorp
+Schoonloërstraat,1,"","",9534PC,Westdorp
+Schoonloërstraat,1,"","",9534PC,Westdorp
+Schoonloërstraat,1,"","",9534PC,Westdorp
+Schoonloërstraat,1,"",UNIT,9534PC,Westdorp
+Schoonloërstraat,2,"","",9534PC,Westdorp
+Schoonloërstraat,2,A,"",9534PC,Westdorp
+Schoonloërstraat,3,"","",9534PC,Westdorp
+Schoonloërstraat,4,"","",9534PC,Westdorp
+Schoonloërstraat,5,"","",9534PC,Westdorp
+Schoonloërstraat,5,I,"",9534PC,Westdorp
+De Mepscheweg,1,"","",9534PD,Westdorp
+De Mepscheweg,2,"","",9534PD,Westdorp
+De Mepscheweg,3,"","",9534PD,Westdorp
+Schoonloërstraat,10,"","",9534TA,Westdorp
+Schoonloërstraat,11,"","",9534TA,Westdorp
+Schoonloërstraat,12,"","",9534TA,Westdorp
+Schoonloërstraat,13,"","",9534TA,Westdorp
+Schoonloërstraat,14,"","",9534TA,Westdorp
+Schoonloërstraat,15,"","",9534TA,Westdorp
+Schoonloërstraat,6,"","",9534TA,Westdorp
+Schoonloërstraat,7,"","",9534TA,Westdorp
+Schoonloërstraat,8,"","",9534TA,Westdorp
+Schoonloërstraat,8,A,"",9534TA,Westdorp
+Schoonloërstraat,8,B,"",9534TA,Westdorp
+Schoonloërstraat,8,C,"",9534TA,Westdorp
+Schoonloërstraat,9,"","",9534TA,Westdorp
+Koelandenweg,1,"","",9534TB,Westdorp
+De Mepscheweg,4,"","",9534TC,Westdorp
+De Mepscheweg,5,"","",9534TC,Westdorp
+De Mepscheweg,6,"","",9534TC,Westdorp
+Kanaalstraat,15,"","",9534TD,Westdorp
+Kanaalstraat,21,"",ZPRK,9534TD,Westdorp
+Borgerveldweg,40,"","",9534TE,Westdorp
+Borgerveldweg,40,"","",9534TE,Westdorp
+Borgerveldweg,40,"","",9534TE,Westdorp

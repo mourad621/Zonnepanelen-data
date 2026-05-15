@@ -1,785 +1,403 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7863PA",1,"",""
-"7863PA",5,"",""
-"7863PA",9,"",""
-"7863PA",11,"",""
-"7863PA",39,"",""
-"7863PA",7,"",""
-"7863PA",33,"",""
-"7863PA",11,"",""
-"7863PA",15,"",""
-"7863PA",37,"",""
-"7863PA",7,"a",""
-"7863PA",3,"a",""
-"7863PA",11,"",""
-"7863PA",11,"a",""
-"7863PA",19,"",""
-"7863PA",3,"",""
-"7863PA",17,"",""
-"7863PA",31,"",""
-"7863PA",41,"",""
-"7863PA",21,"",""
-"7863PA",35,"",""
-"7863PA",29,"",""
-"7863PA",23,"",""
-"7863PA",25,"",""
-"7863PA",27,"",""
-"7863PA",25,"a",""
-"7863PB",43,"",""
-"7863PB",77,"",""
-"7863PB",79,"",""
-"7863PB",51,"",""
-"7863PB",65,"",""
-"7863PB",55,"",""
-"7863PB",61,"a",""
-"7863PB",61,"",""
-"7863PB",61,"a",""
-"7863PB",61,"A",""
-"7863PB",47,"",""
-"7863PB",83,"",""
-"7863PB",61,"",""
-"7863PB",61,"",""
-"7863PB",59,"",""
-"7863PB",49,"",""
-"7863PB",81,"",""
-"7863PB",75,"",""
-"7863PB",67,"",""
-"7863PB",71,"",""
-"7863PB",87,"",""
-"7863PB",63,"",""
-"7863PC",42,"",""
-"7863PC",28,"",""
-"7863PC",2,"a",""
-"7863PC",36,"",""
-"7863PC",30,"",""
-"7863PC",2,"",""
-"7863PC",12,"",""
-"7863PC",38,"",""
-"7863PC",32,"",""
-"7863PC",26,"a",""
-"7863PC",4,"",""
-"7863PC",4,"c",""
-"7863PC",8,"",""
-"7863PC",4,"d",""
-"7863PC",2,"b",""
-"7863PC",24,"",""
-"7863PC",26,"",""
-"7863PC",6,"",""
-"7863PC",4,"b",""
-"7863PC",18,"",""
-"7863PC",10,"",""
-"7863PC",4,"a",""
-"7863PC",40,"",""
-"7863PC",44,"",""
-"7863PC",46,"",""
-"7863PD",58,"",""
-"7863PD",56,"",""
-"7863PD",56,"",""
-"7863PD",56,"",""
-"7863PD",60,"",""
-"7863PD",56,"",""
-"7863PD",66,"",""
-"7863PD",62,"a",""
-"7863PD",80,"",""
-"7863PD",54,"",""
-"7863PD",48,"",""
-"7863PD",68,"",""
-"7863PD",52,"",""
-"7863PD",70,"",""
-"7863PD",56,"",""
-"7863PD",64,"",""
-"7863PD",70,"a",""
-"7863PD",74,"",""
-"7863PD",70,"","M"
-"7863PD",82,"",""
-"7863PD",62,"a",""
-"7863PD",76,"",""
-"7863PD",70,"b",""
-"7863PD",72,"",""
-"7863PD",62,"",""
-"7863PD",78,"",""
-"7863PE",7,"",""
-"7863PE",9,"",""
-"7863PE",1,"",""
-"7863PE",13,"",""
-"7863PE",25,"",""
-"7863PE",5,"",""
-"7863PE",3,"",""
-"7863PE",21,"",""
-"7863PE",23,"",""
-"7863PE",27,"",""
-"7863PE",7,"","to"
-"7863PE",19,"",""
-"7863PE",15,"",""
-"7863PG",6,"",""
-"7863PG",10,"",""
-"7863PG",2,"",""
-"7863PG",28,"","TR03"
-"7863PG",32,"",""
-"7863PG",14,"",""
-"7863PG",28,"",""
-"7863PG",16,"",""
-"7863PG",10,"b",""
-"7863PG",8,"",""
-"7863PG",30,"",""
-"7863PG",22,"",""
-"7863PG",18,"",""
-"7863PG",10,"c",""
-"7863PG",10,"",""
-"7863PG",24,"",""
-"7863PG",10,"",""
-"7863PG",10,"a",""
-"7863PG",10,"d",""
-"7863PG",26,"",""
-"7863PL",5,"a",""
-"7863PL",99,"A",""
-"7863PL",1,"",""
-"7863PL",5,"",""
-"7863PL",7,"",""
-"7863PL",99,"A",""
-"7863PL",5,"d",""
-"7863PL",9,"",""
-"7863PL",5,"b",""
-"7863PL",5,"d",""
-"7863PL",5,"b",""
-"7863PL",5,"c",""
-"7863PL",3,"",""
-"7863PL",1,"a",""
-"7863PL",13,"",""
-"7863PL",15,"",""
-"7863PL",99,"",""
-"7863PL",11,"",""
-"7863PL",5,"c",""
-"7863PL",5,"a",""
-"7863PL",17,"",""
-"7863PM",2,"a",""
-"7863PM",18,"",""
-"7863PM",6,"",""
-"7863PM",2,"",""
-"7863PM",14,"",""
-"7863PM",6,"",""
-"7863PM",6,"b",""
-"7863PM",6,"",""
-"7863PM",26,"",""
-"7863PM",28,"",""
-"7863PM",30,"",""
-"7863PM",16,"",""
-"7863PM",4,"",""
-"7863PM",6,"a",""
-"7863PM",12,"",""
-"7863PM",20,"",""
-"7863PM",22,"",""
-"7863PM",24,"",""
-"7863PM",8,"",""
-"7863PM",6,"c",""
-"7863PM",10,"",""
-"7863PN",15,"",""
-"7863PN",9,"",""
-"7863PN",17,"",""
-"7863PN",11,"",""
-"7863PN",13,"",""
-"7863PN",19,"",""
-"7863PN",21,"",""
-"7863PN",3,"",""
-"7863PN",29,"",""
-"7863PN",27,"",""
-"7863PN",13,"a",""
-"7863PN",25,"",""
-"7863PN",7,"",""
-"7863PN",35,"",""
-"7863PN",27,"",""
-"7863PN",25,"a",""
-"7863PN",25,"b",""
-"7863PN",1,"",""
-"7863PN",31,"",""
-"7863PN",23,"a",""
-"7863PN",23,"",""
-"7863PN",35,"",""
-"7863PN",37,"",""
-"7863PN",27,"",""
-"7863PN",35,"",""
-"7863PN",3,"a",""
-"7863PN",5,"",""
-"7863PN",33,"",""
-"7863PP",2,"",""
-"7863PP",4,"",""
-"7863PP",8,"",""
-"7863PP",10,"",""
-"7863PP",20,"",""
-"7863PP",12,"",""
-"7863PP",12,"",""
-"7863PP",16,"",""
-"7863PP",30,"",""
-"7863PP",12,"",""
-"7863PP",18,"",""
-"7863PP",28,"",""
-"7863PP",23,"a",""
-"7863PP",4,"a",""
-"7863PP",30,"",""
-"7863PP",8,"a",""
-"7863PP",24,"a",""
-"7863PP",26,"",""
-"7863PP",28,"",""
-"7863PP",34,"",""
-"7863PP",38,"",""
-"7863PP",24,"",""
-"7863PP",22,"A",""
-"7863PP",22,"A",""
-"7863PP",24,"b",""
-"7863PP",32,"",""
-"7863PP",26,"a",""
-"7863PP",28,"",""
-"7863PP",22,"",""
-"7863PP",6,"",""
-"7863PP",30,"",""
-"7863PP",26,"b",""
-"7863PP",20,"a",""
-"7863PP",36,"",""
-"7863PX",8,"",""
-"7863PX",4,"",""
-"7863PX",2,"",""
-"7863PX",1,"",""
-"7863PX",3,"",""
-"7863PX",2,"a",""
-"7863PX",6,"",""
-"7863PZ",11,"",""
-"7863PZ",6,"",""
-"7863PZ",4,"",""
-"7863PZ",1,"a",""
-"7863PZ",7,"",""
-"7863PZ",11,"b",""
-"7863PZ",4,"a",""
-"7863PZ",11,"a",""
-"7863PZ",5,"",""
-"7863PZ",3,"",""
-"7863PZ",13,"",""
-"7863PZ",1,"",""
-"7863PZ",2,"",""
-"7863TA",9,"","21"
-"7863TA",9,"","24"
-"7863TA",5,"",""
-"7863TA",4,"",""
-"7863TA",8,"",""
-"7863TA",3,"",""
-"7863TA",9,"","11"
-"7863TA",9,"","25"
-"7863TA",7,"",""
-"7863TA",9,"","31"
-"7863TA",9,"","22"
-"7863TA",6,"",""
-"7863TA",9,"","27"
-"7863TA",7,"",""
-"7863TA",2,"",""
-"7863TA",6,"",""
-"7863TA",9,"","23"
-"7863TA",9,"","28"
-"7863TA",8,"",""
-"7863TA",9,"","19"
-"7863TA",9,"","29"
-"7863TA",9,"","16"
-"7863TA",9,"","26"
-"7863TA",9,"","20"
-"7863TA",9,"","32"
-"7863TA",7,"",""
-"7863TA",11,"",""
-"7863TA",9,"","9"
-"7863TA",9,"","33"
-"7863TA",9,"","13"
-"7863TA",9,"","14"
-"7863TA",9,"","15"
-"7863TA",9,"","30"
-"7863TA",9,"","17"
-"7863TA",9,"","18"
-"7863TA",9,"",""
-"7863TA",9,"","12"
-"7863TA",13,"",""
-"7863TA",9,"","10"
-"7863TC",1,"",""
-"7863TC",5,"",""
-"7863TC",6,"",""
-"7863TC",2,"",""
-"7863TC",7,"",""
-"7863TC",6,"a",""
-"7863TC",6,"",""
-"7863TC",6,"",""
-"7863TC",7,"",""
-"7863TC",7,"",""
-"7863TE",5,"",""
-"7863TE",1,"",""
-"7863TE",6,"",""
-"7863TE",16,"",""
-"7863TE",16,"","BEDR"
-"7863TE",3,"",""
-"7863TE",12,"",""
-"7863TE",10,"",""
-"7863TE",4,"",""
-"7863TE",14,"",""
-"7863TJ",5,"",""
-"7863TJ",15,"a",""
-"7863TJ",17,"a",""
-"7863TJ",19,"",""
-"7863TJ",17,"",""
-"7863TJ",13,"",""
-"7863TJ",23,"",""
-"7863TJ",17,"b",""
-"7863TJ",11,"",""
-"7863TJ",3,"",""
-"7863TJ",7,"",""
-"7863TJ",21,"",""
-"7863TJ",15,"",""
-"7863TJ",1,"",""
-"7863TJ",15,"","BIJ"
-"7863TJ",3,"a",""
-"7863TJ",1,"",""
-"7863TJ",9,"",""
-"7863TK",34,"b",""
-"7863TK",36,"b",""
-"7863TK",40,"b",""
-"7863TK",14,"",""
-"7863TK",32,"",""
-"7863TK",32,"",""
-"7863TK",16,"",""
-"7863TK",34,"a",""
-"7863TK",34,"",""
-"7863TK",6,"",""
-"7863TK",30,"",""
-"7863TK",12,"",""
-"7863TK",28,"",""
-"7863TK",4,"a",""
-"7863TK",32,"",""
-"7863TK",24,"",""
-"7863TK",8,"",""
-"7863TK",20,"",""
-"7863TK",36,"a",""
-"7863TK",10,"",""
-"7863TK",40,"","a"
-"7863TK",40,"A",""
-"7863TK",26,"",""
-"7863TK",38,"a",""
-"7863TK",40,"",""
-"7863TK",4,"",""
-"7863TK",2,"",""
-"7863TM",33,"",""
-"7863TM",30,"",""
-"7863TM",17,"",""
-"7863TM",8,"",""
-"7863TM",32,"",""
-"7863TM",4,"",""
-"7863TM",9,"",""
-"7863TM",10,"a",""
-"7863TM",35,"",""
-"7863TM",12,"",""
-"7863TM",11,"",""
-"7863TM",5,"",""
-"7863TM",31,"",""
-"7863TM",34,"",""
-"7863TM",26,"",""
-"7863TM",28,"",""
-"7863TM",26,"a",""
-"7863TM",6,"",""
-"7863TM",10,"",""
-"7863TM",24,"",""
-"7863TM",18,"",""
-"7863TM",25,"a",""
-"7863TM",16,"",""
-"7863TM",15,"",""
-"7863TM",27,"",""
-"7863TM",25,"",""
-"7863TM",24,"a",""
-"7863TM",29,"",""
-"7863TM",3,"",""
-"7863TM",7,"",""
-"7863TM",13,"",""
-"7863TM",14,"",""
-"7863TM",8,"a",""
-"7863TM",16,"a",""
-"7863TM",1,"",""
-"7863TM",22,"",""
-"7863TM",2,"",""
-"7863TM",19,"",""
-"7863TM",14,"a",""
-"7863TM",23,"",""
-"7863TM",21,"",""
-"7863TM",20,"",""
-7863TM,De Brinkies,1,,
-7863TM,De Brinkies,2,,
-7863TM,De Brinkies,3,,
-7863TM,De Brinkies,4,,
-7863TM,De Brinkies,5,,
-7863TM,De Brinkies,6,,
-7863TM,De Brinkies,7,,
-7863TM,De Brinkies,8,a,
-7863TM,De Brinkies,8,,
-7863TM,De Brinkies,9,,
-7863TM,De Brinkies,10,a,
-7863TM,De Brinkies,10,,
-7863TM,De Brinkies,11,,
-7863TM,De Brinkies,12,,
-7863TM,De Brinkies,13,,
-7863TM,De Brinkies,14,a,
-7863TM,De Brinkies,14,,
-7863TM,De Brinkies,15,,
-7863TM,De Brinkies,16,a,
-7863TM,De Brinkies,16,,
-7863TM,De Brinkies,17,,
-7863TM,De Brinkies,18,,
-7863TM,De Brinkies,19,,
-7863TM,De Brinkies,20,,
-7863TM,De Brinkies,21,,
-7863TM,De Brinkies,22,,
-7863TM,De Brinkies,23,,
-7863TM,De Brinkies,24,a,
-7863TM,De Brinkies,24,,
-7863TM,De Brinkies,25,a,
-7863TM,De Brinkies,25,,
-7863TM,De Brinkies,26,a,
-7863TM,De Brinkies,26,,
-7863TM,De Brinkies,27,,
-7863TM,De Brinkies,28,,
-7863TM,De Brinkies,29,,
-7863TM,De Brinkies,30,,
-7863TM,De Brinkies,31,,
-7863TM,De Brinkies,32,,
-7863TM,De Brinkies,33,,
-7863TM,De Brinkies,34,,
-7863TM,De Brinkies,35,,
-7863PN,De Kamp,1,,
-7863PN,De Kamp,3,a,
-7863PN,De Kamp,3,,
-7863PN,De Kamp,5,,
-7863PN,De Kamp,7,,
-7863PN,De Kamp,9,,
-7863PN,De Kamp,11,,
-7863PN,De Kamp,13,a,
-7863PN,De Kamp,13,,
-7863PN,De Kamp,15,,
-7863PN,De Kamp,17,,
-7863PN,De Kamp,19,,
-7863PN,De Kamp,21,,
-7863PN,De Kamp,23,,
-7863PN,De Kamp,25,,
-7863PN,De Kamp,27,,
-7863PN,De Kamp,29,,
-7863PN,De Kamp,31,,
-7863PN,De Kamp,33,,
-7863PN,De Kamp,35,,
-7863PN,De Kamp,37,,
-7863PP,De Kamp,2,,
-7863PP,De Kamp,4,,
-7863PP,De Kamp,6,,
-7863PP,De Kamp,8,a,
-7863PP,De Kamp,8,,
-7863PP,De Kamp,10,,
-7863PP,De Kamp,12,,
-7863PP,De Kamp,16,,
-7863PP,De Kamp,18,,
-7863PP,De Kamp,20,a,
-7863PP,De Kamp,20,,
-7863PP,De Kamp,22,,
-7863PP,De Kamp,24,,
-7863PP,De Kamp,26,,
-7863PP,De Kamp,28,,
-7863PP,De Kamp,30,,
-7863PP,De Kamp,32,,
-7863PP,De Kamp,34,,
-7863PP,De Kamp,36,,
-7863PP,De Kamp,38,,
-7863PA,Dorpsstraat,1,,
-7863PA,Dorpsstraat,3,,
-7863PA,Dorpsstraat,5,,
-7863PA,Dorpsstraat,7,a,
-7863PA,Dorpsstraat,7,,
-7863PA,Dorpsstraat,9,,
-7863PA,Dorpsstraat,11,,
-7863PA,Dorpsstraat,15,,
-7863PA,Dorpsstraat,17,,
-7863PA,Dorpsstraat,19,,
-7863PA,Dorpsstraat,21,,
-7863PA,Dorpsstraat,23,,
-7863PA,Dorpsstraat,25,a,
-7863PA,Dorpsstraat,25,,
-7863PA,Dorpsstraat,27,,
-7863PA,Dorpsstraat,29,,
-7863PA,Dorpsstraat,31,,
-7863PA,Dorpsstraat,33,,
-7863PA,Dorpsstraat,35,,
-7863PA,Dorpsstraat,37,,
-7863PA,Dorpsstraat,39,,
-7863PA,Dorpsstraat,41,,
-7863PB,Dorpsstraat,43,,
-7863PB,Dorpsstraat,47,,
-7863PB,Dorpsstraat,49,,
-7863PB,Dorpsstraat,51,,
-7863PB,Dorpsstraat,55,,
-7863PB,Dorpsstraat,59,,
-7863PB,Dorpsstraat,61,A,
-7863PB,Dorpsstraat,61,a,
-7863PB,Dorpsstraat,61,,
-7863PB,Dorpsstraat,63,,
-7863PB,Dorpsstraat,65,,
-7863PB,Dorpsstraat,67,,
-7863PB,Dorpsstraat,71,,
-7863PB,Dorpsstraat,75,,
-7863PB,Dorpsstraat,77,,
-7863PB,Dorpsstraat,79,,
-7863PB,Dorpsstraat,81,,
-7863PB,Dorpsstraat,83,,
-7863PB,Dorpsstraat,87,,
-7863PC,Dorpsstraat,2,a,
-7863PC,Dorpsstraat,2,b,
-7863PC,Dorpsstraat,2,,
-7863PC,Dorpsstraat,4,a,
-7863PC,Dorpsstraat,4,b,
-7863PC,Dorpsstraat,4,c,
-7863PC,Dorpsstraat,4,d,
-7863PC,Dorpsstraat,4,,
-7863PC,Dorpsstraat,6,,
-7863PC,Dorpsstraat,8,,
-7863PC,Dorpsstraat,10,,
-7863PC,Dorpsstraat,12,,
-7863PC,Dorpsstraat,18,,
-7863PC,Dorpsstraat,24,,
-7863PC,Dorpsstraat,26,a,
-7863PC,Dorpsstraat,26,,
-7863PC,Dorpsstraat,28,,
-7863PC,Dorpsstraat,30,,
-7863PC,Dorpsstraat,32,,
-7863PC,Dorpsstraat,36,,
-7863PC,Dorpsstraat,38,,
-7863PC,Dorpsstraat,40,,
-7863PC,Dorpsstraat,44,,
-7863PC,Dorpsstraat,46,,
-7863PD,Dorpsstraat,48,,
-7863PD,Dorpsstraat,52,,
-7863PD,Dorpsstraat,54,,
-7863PD,Dorpsstraat,56,,
-7863PD,Dorpsstraat,58,,
-7863PD,Dorpsstraat,60,,
-7863PD,Dorpsstraat,62,a,
-7863PD,Dorpsstraat,62,,
-7863PD,Dorpsstraat,64,,
-7863PD,Dorpsstraat,66,,
-7863PD,Dorpsstraat,68,,
-7863PD,Dorpsstraat,70,a,
-7863PD,Dorpsstraat,70,,
-7863PD,Dorpsstraat,72,,
-7863PD,Dorpsstraat,74,,
-7863PD,Dorpsstraat,76,,
-7863PD,Dorpsstraat,78,,
-7863PD,Dorpsstraat,80,,
-7863PD,Dorpsstraat,82,,
-7863PZ,Goringbos,1,a,
-7863PZ,Goringbos,1,,
-7863PZ,Goringbos,2,,
-7863PZ,Goringbos,3,,
-7863PZ,Goringbos,4,a,
-7863PZ,Goringbos,4,,
-7863PZ,Goringbos,5,,
-7863PZ,Goringbos,6,,
-7863PZ,Goringbos,7,,
-7863PZ,Goringbos,11,a,
-7863PZ,Goringbos,11,b,
-7863PZ,Goringbos,13,,
-7863TC,Goringdijk,1,,
-7863TC,Goringdijk,2,,
-7863TC,Goringdijk,5,,
-7863TC,Goringdijk,6,,
-7863TC,Goringdijk,7,,
-7863TA,Holtweg,2,,
-7863TA,Holtweg,3,,
-7863TA,Holtweg,4,,
-7863TA,Holtweg,5,,
-7863TA,Holtweg,6,,
-7863TA,Holtweg,6,,
-7863TA,Holtweg,7,,
-7863TA,Holtweg,8,,
-7863TA,Holtweg,8,,
-7863TA,Holtweg,9,,9
-7863TA,Holtweg,9,,
-7863TA,Holtweg,11,,
-7863TA,Holtweg,13,,
-7863PX,Lutmarsweg,1,,
-7863PX,Lutmarsweg,2,a,
-7863PX,Lutmarsweg,2,,
-7863PX,Lutmarsweg,3,,
-7863PX,Lutmarsweg,4,,
-7863PX,Lutmarsweg,6,,
-7863PX,Lutmarsweg,8,,
-7863PE,Oude Steeg,3,,
-7863PE,Oude Steeg,5,,
-7863PE,Oude Steeg,7,,to
-7863PE,Oude Steeg,9,,
-7863PE,Oude Steeg,13,,
-7863PE,Oude Steeg,15,,
-7863PE,Oude Steeg,19,,
-7863PE,Oude Steeg,21,,
-7863PE,Oude Steeg,23,,
-7863PE,Oude Steeg,25,,
-7863PE,Oude Steeg,27,,
-7863PG,Oude Steeg,2,,
-7863PG,Oude Steeg,6,,
-7863PG,Oude Steeg,8,,
-7863PG,Oude Steeg,10,,
-7863PG,Oude Steeg,14,,
-7863PG,Oude Steeg,16,,
-7863PG,Oude Steeg,18,,
-7863PG,Oude Steeg,22,,
-7863PG,Oude Steeg,24,,
-7863PG,Oude Steeg,26,,
-7863PG,Oude Steeg,28,,TR03
-7863PG,Oude Steeg,28,,
-7863PG,Oude Steeg,30,,
-7863PG,Oude Steeg,32,,
-7863TE,Schaapveensweg,1,,
-7863TE,Schaapveensweg,3,,
-7863TE,Schaapveensweg,4,,
-7863TE,Schaapveensweg,5,,
-7863TE,Schaapveensweg,6,,
-7863TE,Schaapveensweg,10,,
-7863TE,Schaapveensweg,12,,
-7863TE,Schaapveensweg,14,,
-7863TE,Schaapveensweg,16,,BEDR
-7863TE,Schaapveensweg,16,,
-7863TJ,Tilweg,1,,
-7863TJ,Tilweg,3,a,
-7863TJ,Tilweg,3,,
-7863TJ,Tilweg,5,,
-7863TJ,Tilweg,7,,
-7863TJ,Tilweg,9,,
-7863TJ,Tilweg,11,,
-7863TJ,Tilweg,13,,
-7863TJ,Tilweg,15,a,
-7863TJ,Tilweg,15,,BIJ
-7863TJ,Tilweg,15,,
-7863TJ,Tilweg,17,a,
-7863TJ,Tilweg,17,,
-7863TJ,Tilweg,19,,
-7863TJ,Tilweg,21,,
-7863TJ,Tilweg,23,,
-7863TK,Tilweg,2,,
-7863TK,Tilweg,4,a,
-7863TK,Tilweg,4,,
-7863TK,Tilweg,6,,
-7863TK,Tilweg,8,,
-7863TK,Tilweg,10,,
-7863TK,Tilweg,12,,
-7863TK,Tilweg,14,,
-7863TK,Tilweg,16,,
-7863TK,Tilweg,20,,
-7863TK,Tilweg,24,,
-7863TK,Tilweg,26,,
-7863TK,Tilweg,28,,
-7863TK,Tilweg,30,,
-7863TK,Tilweg,34,a,
-7863TK,Tilweg,34,b,
-7863TK,Tilweg,34,,
-7863TK,Tilweg,36,a,
-7863TK,Tilweg,36,b,
-7863TK,Tilweg,38,a,
-7863TK,Tilweg,40,A,
-7863TK,Tilweg,40,b,
-7863TK,Tilweg,40,,a
-7863TK,Tilweg,40,,
-7863PL,Wethouder H Euvingstraat,1,a,
-7863PL,Wethouder H Euvingstraat,1,,
-7863PL,Wethouder H Euvingstraat,3,,
-7863PL,Wethouder H Euvingstraat,5,,
-7863PL,Wethouder H Euvingstraat,7,,
-7863PL,Wethouder H Euvingstraat,9,,
-7863PL,Wethouder H Euvingstraat,11,,
-7863PL,Wethouder H Euvingstraat,13,,
-7863PL,Wethouder H Euvingstraat,15,,
-7863PL,Wethouder H Euvingstraat,17,,
-7863PL,Wethouder H Euvingstraat,99,,
-7863PL,Wethouder H Euvingstraat,99,A,
-7863PM,Wethouder H Euvingstraat,2,a,
-7863PM,Wethouder H Euvingstraat,2,,
-7863PM,Wethouder H Euvingstraat,4,,
-7863PM,Wethouder H Euvingstraat,6,,
-7863PM,Wethouder H Euvingstraat,8,,
-7863PM,Wethouder H Euvingstraat,10,,
-7863PM,Wethouder H Euvingstraat,12,,
-7863PM,Wethouder H Euvingstraat,14,,
-7863PM,Wethouder H Euvingstraat,16,,
-7863PM,Wethouder H Euvingstraat,18,,
-7863PM,Wethouder H Euvingstraat,20,,
-7863PM,Wethouder H Euvingstraat,22,,
-7863PM,Wethouder H Euvingstraat,24,,
-7863PM,Wethouder H Euvingstraat,26,,
-7863PM,Wethouder H Euvingstraat,28,,
-7863PM,Wethouder H Euvingstraat,30,,
-7863TJ,'t Hooge Loo,1,,
-7863PN,De Kamp,23,a,
-7863PN,De Kamp,25,a,
-7863PN,De Kamp,25,b,
-7863PN,De Kamp,27,,
-7863PN,De Kamp,35,,
-7863PP,De Kamp,4,a,
-7863PP,De Kamp,23,a,
-7863PP,De Kamp,24,a,
-7863PP,De Kamp,24,b,
-7863PP,De Kamp,26,a,
-7863PP,De Kamp,26,b,
-7863PP,De Kamp,12,,
-7863PP,De Kamp,22,A,
-7863PP,De Kamp,28,,
-7863PP,De Kamp,30,,
-7863PA,Dorpsstraat,11,,
-7863PA,Dorpsstraat,11,a,
-7863PA,Dorpsstraat,3,a,
-7863PB,Dorpsstraat,61,,
-7863PB,Dorpsstraat,85,,
-7863PC,Dorpsstraat,42,,
-7863PD,Dorpsstraat,56,,
-7863PD,Dorpsstraat,70,b,
-7863PD,Dorpsstraat,56,,
-7863PD,Dorpsstraat,70,,M
-7863PD,Dorpsstraat,82,a,
-7863PZ,Goringbos,11,,
-7863TC,Goringdijk,7,,
-7863TC,Goringdijk,6,,
-7863TC,Goringdijk,6,a,
-7863TA,Holtweg,9,,10
-7863TA,Holtweg,9,,11
-7863TA,Holtweg,9,,12
-7863TA,Holtweg,9,,13
-7863TA,Holtweg,9,,14
-7863TA,Holtweg,9,,15
-7863TA,Holtweg,9,,16
-7863TA,Holtweg,9,,17
-7863TA,Holtweg,9,,18
-7863TA,Holtweg,9,,19
-7863TA,Holtweg,9,,20
-7863TA,Holtweg,9,,21
-7863TA,Holtweg,9,,22
-7863TA,Holtweg,9,,23
-7863TA,Holtweg,9,,24
-7863TA,Holtweg,9,,25
-7863TA,Holtweg,9,,26
-7863TA,Holtweg,9,,27
-7863TA,Holtweg,9,,28
-7863TA,Holtweg,9,,29
-7863TA,Holtweg,9,,30
-7863TA,Holtweg,9,,31
-7863TA,Holtweg,9,,32
-7863TA,Holtweg,9,,33
-7863TA,Holtweg,7,,
-7863PE,Oude Steeg,7,,
-7863PE,Oude Steeg,1,,
-7863PG,Oude Steeg,10,d,
-7863PG,Oude Steeg,10,c,
-7863PG,Oude Steeg,10,,
-7863PG,Oude Steeg,10,a,
-7863PG,Oude Steeg,10,b,
-7863PG,Oude Steeg,4,,
-7863TJ,Tilweg,17,b,
-7863TK,Tilweg,32,,
-7863TK,Tilweg,32,,
-7863PL,Wethouder H Euvingstraat,5,a,
-7863PL,Wethouder H Euvingstraat,5,b,
-7863PL,Wethouder H Euvingstraat,5,c,
-7863PL,Wethouder H Euvingstraat,5,d,
-7863PM,Wethouder H Euvingstraat,6,a,
-7863PM,Wethouder H Euvingstraat,6,c,
-7863PM,Wethouder H Euvingstraat,6,b,
-7863PM,Wethouder H Euvingstraat,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Dorpsstraat,1,"","",7863PA,Gees
+Dorpsstraat,11,"","",7863PA,Gees
+Dorpsstraat,11,"","",7863PA,Gees
+Dorpsstraat,11,"","",7863PA,Gees
+Dorpsstraat,11,A,"",7863PA,Gees
+Dorpsstraat,15,"","",7863PA,Gees
+Dorpsstraat,17,"","",7863PA,Gees
+Dorpsstraat,19,"","",7863PA,Gees
+Dorpsstraat,21,"","",7863PA,Gees
+Dorpsstraat,23,"","",7863PA,Gees
+Dorpsstraat,25,"","",7863PA,Gees
+Dorpsstraat,25,A,"",7863PA,Gees
+Dorpsstraat,27,"","",7863PA,Gees
+Dorpsstraat,29,"","",7863PA,Gees
+Dorpsstraat,3,"","",7863PA,Gees
+Dorpsstraat,3,A,"",7863PA,Gees
+Dorpsstraat,31,"","",7863PA,Gees
+Dorpsstraat,33,"","",7863PA,Gees
+Dorpsstraat,35,"","",7863PA,Gees
+Dorpsstraat,37,"","",7863PA,Gees
+Dorpsstraat,39,"","",7863PA,Gees
+Dorpsstraat,41,"","",7863PA,Gees
+Dorpsstraat,5,"","",7863PA,Gees
+Dorpsstraat,7,"","",7863PA,Gees
+Dorpsstraat,7,A,"",7863PA,Gees
+Dorpsstraat,9,"","",7863PA,Gees
+Dorpsstraat,43,"","",7863PB,Gees
+Dorpsstraat,47,"","",7863PB,Gees
+Dorpsstraat,49,"","",7863PB,Gees
+Dorpsstraat,51,"","",7863PB,Gees
+Dorpsstraat,55,"","",7863PB,Gees
+Dorpsstraat,59,"","",7863PB,Gees
+Dorpsstraat,61,"","",7863PB,Gees
+Dorpsstraat,61,"","",7863PB,Gees
+Dorpsstraat,61,"","",7863PB,Gees
+Dorpsstraat,61,A,"",7863PB,Gees
+Dorpsstraat,61,A,"",7863PB,Gees
+Dorpsstraat,61,A,"",7863PB,Gees
+Dorpsstraat,63,"","",7863PB,Gees
+Dorpsstraat,65,"","",7863PB,Gees
+Dorpsstraat,67,"","",7863PB,Gees
+Dorpsstraat,71,"","",7863PB,Gees
+Dorpsstraat,75,"","",7863PB,Gees
+Dorpsstraat,77,"","",7863PB,Gees
+Dorpsstraat,79,"","",7863PB,Gees
+Dorpsstraat,81,"","",7863PB,Gees
+Dorpsstraat,83,"","",7863PB,Gees
+Dorpsstraat,87,"","",7863PB,Gees
+Dorpsstraat,10,"","",7863PC,Gees
+Dorpsstraat,12,"","",7863PC,Gees
+Dorpsstraat,18,"","",7863PC,Gees
+Dorpsstraat,2,"","",7863PC,Gees
+Dorpsstraat,2,A,"",7863PC,Gees
+Dorpsstraat,2,B,"",7863PC,Gees
+Dorpsstraat,24,"","",7863PC,Gees
+Dorpsstraat,26,"","",7863PC,Gees
+Dorpsstraat,26,A,"",7863PC,Gees
+Dorpsstraat,28,"","",7863PC,Gees
+Dorpsstraat,30,"","",7863PC,Gees
+Dorpsstraat,32,"","",7863PC,Gees
+Dorpsstraat,36,"","",7863PC,Gees
+Dorpsstraat,38,"","",7863PC,Gees
+Dorpsstraat,4,"","",7863PC,Gees
+Dorpsstraat,4,A,"",7863PC,Gees
+Dorpsstraat,4,B,"",7863PC,Gees
+Dorpsstraat,4,C,"",7863PC,Gees
+Dorpsstraat,4,D,"",7863PC,Gees
+Dorpsstraat,40,"","",7863PC,Gees
+Dorpsstraat,42,"","",7863PC,Gees
+Dorpsstraat,44,"","",7863PC,Gees
+Dorpsstraat,46,"","",7863PC,Gees
+Dorpsstraat,6,"","",7863PC,Gees
+Dorpsstraat,8,"","",7863PC,Gees
+Dorpsstraat,48,"","",7863PD,Gees
+Dorpsstraat,52,"","",7863PD,Gees
+Dorpsstraat,54,"","",7863PD,Gees
+Dorpsstraat,56,"","",7863PD,Gees
+Dorpsstraat,56,"","",7863PD,Gees
+Dorpsstraat,56,"","",7863PD,Gees
+Dorpsstraat,56,"","",7863PD,Gees
+Dorpsstraat,56,"","",7863PD,Gees
+Dorpsstraat,58,"","",7863PD,Gees
+Dorpsstraat,60,"","",7863PD,Gees
+Dorpsstraat,62,"","",7863PD,Gees
+Dorpsstraat,62,A,"",7863PD,Gees
+Dorpsstraat,62,A,"",7863PD,Gees
+Dorpsstraat,64,"","",7863PD,Gees
+Dorpsstraat,66,"","",7863PD,Gees
+Dorpsstraat,68,"","",7863PD,Gees
+Dorpsstraat,70,"","",7863PD,Gees
+Dorpsstraat,70,"",M,7863PD,Gees
+Dorpsstraat,70,A,"",7863PD,Gees
+Dorpsstraat,70,B,"",7863PD,Gees
+Dorpsstraat,72,"","",7863PD,Gees
+Dorpsstraat,74,"","",7863PD,Gees
+Dorpsstraat,76,"","",7863PD,Gees
+Dorpsstraat,78,"","",7863PD,Gees
+Dorpsstraat,80,"","",7863PD,Gees
+Dorpsstraat,82,"","",7863PD,Gees
+Oude Steeg,1,"","",7863PE,Gees
+Oude Steeg,13,"","",7863PE,Gees
+Oude Steeg,15,"","",7863PE,Gees
+Oude Steeg,19,"","",7863PE,Gees
+Oude Steeg,21,"","",7863PE,Gees
+Oude Steeg,23,"","",7863PE,Gees
+Oude Steeg,25,"","",7863PE,Gees
+Oude Steeg,27,"","",7863PE,Gees
+Oude Steeg,3,"","",7863PE,Gees
+Oude Steeg,5,"","",7863PE,Gees
+Oude Steeg,7,"","",7863PE,Gees
+Oude Steeg,7,"",TO,7863PE,Gees
+Oude Steeg,9,"","",7863PE,Gees
+Oude Steeg,10,"","",7863PG,Gees
+Oude Steeg,10,"","",7863PG,Gees
+Oude Steeg,10,"","",7863PG,Gees
+Oude Steeg,10,A,"",7863PG,Gees
+Oude Steeg,10,B,"",7863PG,Gees
+Oude Steeg,10,C,"",7863PG,Gees
+Oude Steeg,10,D,"",7863PG,Gees
+Oude Steeg,14,"","",7863PG,Gees
+Oude Steeg,16,"","",7863PG,Gees
+Oude Steeg,18,"","",7863PG,Gees
+Oude Steeg,2,"","",7863PG,Gees
+Oude Steeg,22,"","",7863PG,Gees
+Oude Steeg,24,"","",7863PG,Gees
+Oude Steeg,26,"","",7863PG,Gees
+Oude Steeg,28,"","",7863PG,Gees
+Oude Steeg,28,"",TR03,7863PG,Gees
+Oude Steeg,30,"","",7863PG,Gees
+Oude Steeg,32,"","",7863PG,Gees
+Oude Steeg,6,"","",7863PG,Gees
+Oude Steeg,8,"","",7863PG,Gees
+Wethouder H Euvingstraat,1,"","",7863PL,Gees
+Wethouder H Euvingstraat,1,A,"",7863PL,Gees
+Wethouder H Euvingstraat,11,"","",7863PL,Gees
+Wethouder H Euvingstraat,13,"","",7863PL,Gees
+Wethouder H Euvingstraat,15,"","",7863PL,Gees
+Wethouder H Euvingstraat,17,"","",7863PL,Gees
+Wethouder H Euvingstraat,3,"","",7863PL,Gees
+Wethouder H Euvingstraat,5,"","",7863PL,Gees
+Wethouder H Euvingstraat,5,A,"",7863PL,Gees
+Wethouder H Euvingstraat,5,A,"",7863PL,Gees
+Wethouder H Euvingstraat,5,B,"",7863PL,Gees
+Wethouder H Euvingstraat,5,B,"",7863PL,Gees
+Wethouder H Euvingstraat,5,C,"",7863PL,Gees
+Wethouder H Euvingstraat,5,C,"",7863PL,Gees
+Wethouder H Euvingstraat,5,D,"",7863PL,Gees
+Wethouder H Euvingstraat,5,D,"",7863PL,Gees
+Wethouder H Euvingstraat,7,"","",7863PL,Gees
+Wethouder H Euvingstraat,9,"","",7863PL,Gees
+Wethouder H Euvingstraat,99,"","",7863PL,Gees
+Wethouder H Euvingstraat,99,A,"",7863PL,Gees
+Wethouder H Euvingstraat,99,A,"",7863PL,Gees
+Wethouder H Euvingstraat,10,"","",7863PM,Gees
+Wethouder H Euvingstraat,12,"","",7863PM,Gees
+Wethouder H Euvingstraat,14,"","",7863PM,Gees
+Wethouder H Euvingstraat,16,"","",7863PM,Gees
+Wethouder H Euvingstraat,18,"","",7863PM,Gees
+Wethouder H Euvingstraat,2,"","",7863PM,Gees
+Wethouder H Euvingstraat,2,A,"",7863PM,Gees
+Wethouder H Euvingstraat,20,"","",7863PM,Gees
+Wethouder H Euvingstraat,22,"","",7863PM,Gees
+Wethouder H Euvingstraat,24,"","",7863PM,Gees
+Wethouder H Euvingstraat,26,"","",7863PM,Gees
+Wethouder H Euvingstraat,28,"","",7863PM,Gees
+Wethouder H Euvingstraat,30,"","",7863PM,Gees
+Wethouder H Euvingstraat,4,"","",7863PM,Gees
+Wethouder H Euvingstraat,6,"","",7863PM,Gees
+Wethouder H Euvingstraat,6,"","",7863PM,Gees
+Wethouder H Euvingstraat,6,"","",7863PM,Gees
+Wethouder H Euvingstraat,6,A,"",7863PM,Gees
+Wethouder H Euvingstraat,6,B,"",7863PM,Gees
+Wethouder H Euvingstraat,6,C,"",7863PM,Gees
+Wethouder H Euvingstraat,8,"","",7863PM,Gees
+De Kamp,1,"","",7863PN,Gees
+De Kamp,11,"","",7863PN,Gees
+De Kamp,13,"","",7863PN,Gees
+De Kamp,13,A,"",7863PN,Gees
+De Kamp,15,"","",7863PN,Gees
+De Kamp,17,"","",7863PN,Gees
+De Kamp,19,"","",7863PN,Gees
+De Kamp,21,"","",7863PN,Gees
+De Kamp,23,"","",7863PN,Gees
+De Kamp,23,A,"",7863PN,Gees
+De Kamp,25,"","",7863PN,Gees
+De Kamp,25,A,"",7863PN,Gees
+De Kamp,25,B,"",7863PN,Gees
+De Kamp,27,"","",7863PN,Gees
+De Kamp,27,"","",7863PN,Gees
+De Kamp,27,"","",7863PN,Gees
+De Kamp,29,"","",7863PN,Gees
+De Kamp,3,"","",7863PN,Gees
+De Kamp,3,A,"",7863PN,Gees
+De Kamp,31,"","",7863PN,Gees
+De Kamp,33,"","",7863PN,Gees
+De Kamp,35,"","",7863PN,Gees
+De Kamp,35,"","",7863PN,Gees
+De Kamp,35,"","",7863PN,Gees
+De Kamp,37,"","",7863PN,Gees
+De Kamp,5,"","",7863PN,Gees
+De Kamp,7,"","",7863PN,Gees
+De Kamp,9,"","",7863PN,Gees
+De Kamp,10,"","",7863PP,Gees
+De Kamp,12,"","",7863PP,Gees
+De Kamp,12,"","",7863PP,Gees
+De Kamp,12,"","",7863PP,Gees
+De Kamp,16,"","",7863PP,Gees
+De Kamp,18,"","",7863PP,Gees
+De Kamp,2,"","",7863PP,Gees
+De Kamp,20,"","",7863PP,Gees
+De Kamp,20,A,"",7863PP,Gees
+De Kamp,22,"","",7863PP,Gees
+De Kamp,22,A,"",7863PP,Gees
+De Kamp,22,A,"",7863PP,Gees
+De Kamp,23,A,"",7863PP,Gees
+De Kamp,24,"","",7863PP,Gees
+De Kamp,24,A,"",7863PP,Gees
+De Kamp,24,B,"",7863PP,Gees
+De Kamp,26,"","",7863PP,Gees
+De Kamp,26,A,"",7863PP,Gees
+De Kamp,26,B,"",7863PP,Gees
+De Kamp,28,"","",7863PP,Gees
+De Kamp,28,"","",7863PP,Gees
+De Kamp,28,"","",7863PP,Gees
+De Kamp,30,"","",7863PP,Gees
+De Kamp,30,"","",7863PP,Gees
+De Kamp,30,"","",7863PP,Gees
+De Kamp,32,"","",7863PP,Gees
+De Kamp,34,"","",7863PP,Gees
+De Kamp,36,"","",7863PP,Gees
+De Kamp,38,"","",7863PP,Gees
+De Kamp,4,"","",7863PP,Gees
+De Kamp,4,A,"",7863PP,Gees
+De Kamp,6,"","",7863PP,Gees
+De Kamp,8,"","",7863PP,Gees
+De Kamp,8,A,"",7863PP,Gees
+Lutmarsweg,1,"","",7863PX,Gees
+Lutmarsweg,2,"","",7863PX,Gees
+Lutmarsweg,2,A,"",7863PX,Gees
+Lutmarsweg,3,"","",7863PX,Gees
+Lutmarsweg,4,"","",7863PX,Gees
+Lutmarsweg,6,"","",7863PX,Gees
+Lutmarsweg,8,"","",7863PX,Gees
+Goringbos,1,"","",7863PZ,Gees
+Goringbos,1,A,"",7863PZ,Gees
+Goringbos,11,"","",7863PZ,Gees
+Goringbos,11,A,"",7863PZ,Gees
+Goringbos,11,B,"",7863PZ,Gees
+Goringbos,13,"","",7863PZ,Gees
+Goringbos,2,"","",7863PZ,Gees
+Goringbos,3,"","",7863PZ,Gees
+Goringbos,4,"","",7863PZ,Gees
+Goringbos,4,A,"",7863PZ,Gees
+Goringbos,5,"","",7863PZ,Gees
+Goringbos,6,"","",7863PZ,Gees
+Goringbos,7,"","",7863PZ,Gees
+Holtweg,11,"","",7863TA,Gees
+Holtweg,13,"","",7863TA,Gees
+Holtweg,2,"","",7863TA,Gees
+Holtweg,3,"","",7863TA,Gees
+Holtweg,4,"","",7863TA,Gees
+Holtweg,5,"","",7863TA,Gees
+Holtweg,6,"","",7863TA,Gees
+Holtweg,6,"","",7863TA,Gees
+Holtweg,7,"","",7863TA,Gees
+Holtweg,7,"","",7863TA,Gees
+Holtweg,7,"","",7863TA,Gees
+Holtweg,8,"","",7863TA,Gees
+Holtweg,8,"","",7863TA,Gees
+Holtweg,9,"","",7863TA,Gees
+Holtweg,9,"",10,7863TA,Gees
+Holtweg,9,"",11,7863TA,Gees
+Holtweg,9,"",12,7863TA,Gees
+Holtweg,9,"",13,7863TA,Gees
+Holtweg,9,"",14,7863TA,Gees
+Holtweg,9,"",15,7863TA,Gees
+Holtweg,9,"",16,7863TA,Gees
+Holtweg,9,"",17,7863TA,Gees
+Holtweg,9,"",18,7863TA,Gees
+Holtweg,9,"",19,7863TA,Gees
+Holtweg,9,"",20,7863TA,Gees
+Holtweg,9,"",21,7863TA,Gees
+Holtweg,9,"",22,7863TA,Gees
+Holtweg,9,"",23,7863TA,Gees
+Holtweg,9,"",24,7863TA,Gees
+Holtweg,9,"",25,7863TA,Gees
+Holtweg,9,"",26,7863TA,Gees
+Holtweg,9,"",27,7863TA,Gees
+Holtweg,9,"",28,7863TA,Gees
+Holtweg,9,"",29,7863TA,Gees
+Holtweg,9,"",30,7863TA,Gees
+Holtweg,9,"",31,7863TA,Gees
+Holtweg,9,"",32,7863TA,Gees
+Holtweg,9,"",33,7863TA,Gees
+Holtweg,9,"",9,7863TA,Gees
+Goringdijk,1,"","",7863TC,Gees
+Goringdijk,2,"","",7863TC,Gees
+Goringdijk,5,"","",7863TC,Gees
+Goringdijk,6,"","",7863TC,Gees
+Goringdijk,6,"","",7863TC,Gees
+Goringdijk,6,"","",7863TC,Gees
+Goringdijk,6,A,"",7863TC,Gees
+Goringdijk,7,"","",7863TC,Gees
+Goringdijk,7,"","",7863TC,Gees
+Goringdijk,7,"","",7863TC,Gees
+Schaapveensweg,1,"","",7863TE,Gees
+Schaapveensweg,10,"","",7863TE,Gees
+Schaapveensweg,12,"","",7863TE,Gees
+Schaapveensweg,14,"","",7863TE,Gees
+Schaapveensweg,16,"","",7863TE,Gees
+Schaapveensweg,16,"",BEDR,7863TE,Gees
+Schaapveensweg,3,"","",7863TE,Gees
+Schaapveensweg,4,"","",7863TE,Gees
+Schaapveensweg,5,"","",7863TE,Gees
+Schaapveensweg,6,"","",7863TE,Gees
+Tilweg,1,"","",7863TJ,Gees
+Tilweg,1,"","",7863TJ,Gees
+Tilweg,11,"","",7863TJ,Gees
+Tilweg,13,"","",7863TJ,Gees
+Tilweg,15,"","",7863TJ,Gees
+Tilweg,15,"",BIJ,7863TJ,Gees
+Tilweg,15,A,"",7863TJ,Gees
+Tilweg,17,"","",7863TJ,Gees
+Tilweg,17,A,"",7863TJ,Gees
+Tilweg,17,B,"",7863TJ,Gees
+Tilweg,19,"","",7863TJ,Gees
+Tilweg,21,"","",7863TJ,Gees
+Tilweg,23,"","",7863TJ,Gees
+Tilweg,3,"","",7863TJ,Gees
+Tilweg,3,A,"",7863TJ,Gees
+Tilweg,5,"","",7863TJ,Gees
+Tilweg,7,"","",7863TJ,Gees
+Tilweg,9,"","",7863TJ,Gees
+Tilweg,10,"","",7863TK,Gees
+Tilweg,12,"","",7863TK,Gees
+Tilweg,14,"","",7863TK,Gees
+Tilweg,16,"","",7863TK,Gees
+Tilweg,2,"","",7863TK,Gees
+Tilweg,20,"","",7863TK,Gees
+Tilweg,24,"","",7863TK,Gees
+Tilweg,26,"","",7863TK,Gees
+Tilweg,28,"","",7863TK,Gees
+Tilweg,30,"","",7863TK,Gees
+Tilweg,32,"","",7863TK,Gees
+Tilweg,32,"","",7863TK,Gees
+Tilweg,32,"","",7863TK,Gees
+Tilweg,34,"","",7863TK,Gees
+Tilweg,34,A,"",7863TK,Gees
+Tilweg,34,B,"",7863TK,Gees
+Tilweg,36,A,"",7863TK,Gees
+Tilweg,36,B,"",7863TK,Gees
+Tilweg,38,A,"",7863TK,Gees
+Tilweg,4,"","",7863TK,Gees
+Tilweg,4,A,"",7863TK,Gees
+Tilweg,40,"","",7863TK,Gees
+Tilweg,40,"",A,7863TK,Gees
+Tilweg,40,A,"",7863TK,Gees
+Tilweg,40,B,"",7863TK,Gees
+Tilweg,6,"","",7863TK,Gees
+Tilweg,8,"","",7863TK,Gees
+De Brinkies,1,"","",7863TM,Gees
+De Brinkies,10,"","",7863TM,Gees
+De Brinkies,10,A,"",7863TM,Gees
+De Brinkies,11,"","",7863TM,Gees
+De Brinkies,12,"","",7863TM,Gees
+De Brinkies,13,"","",7863TM,Gees
+De Brinkies,14,"","",7863TM,Gees
+De Brinkies,14,A,"",7863TM,Gees
+De Brinkies,15,"","",7863TM,Gees
+De Brinkies,16,"","",7863TM,Gees
+De Brinkies,16,A,"",7863TM,Gees
+De Brinkies,17,"","",7863TM,Gees
+De Brinkies,18,"","",7863TM,Gees
+De Brinkies,19,"","",7863TM,Gees
+De Brinkies,2,"","",7863TM,Gees
+De Brinkies,20,"","",7863TM,Gees
+De Brinkies,21,"","",7863TM,Gees
+De Brinkies,22,"","",7863TM,Gees
+De Brinkies,23,"","",7863TM,Gees
+De Brinkies,24,"","",7863TM,Gees
+De Brinkies,24,A,"",7863TM,Gees
+De Brinkies,25,"","",7863TM,Gees
+De Brinkies,25,A,"",7863TM,Gees
+De Brinkies,26,"","",7863TM,Gees
+De Brinkies,26,A,"",7863TM,Gees
+De Brinkies,27,"","",7863TM,Gees
+De Brinkies,28,"","",7863TM,Gees
+De Brinkies,29,"","",7863TM,Gees
+De Brinkies,3,"","",7863TM,Gees
+De Brinkies,30,"","",7863TM,Gees
+De Brinkies,31,"","",7863TM,Gees
+De Brinkies,32,"","",7863TM,Gees
+De Brinkies,33,"","",7863TM,Gees
+De Brinkies,34,"","",7863TM,Gees
+De Brinkies,35,"","",7863TM,Gees
+De Brinkies,4,"","",7863TM,Gees
+De Brinkies,5,"","",7863TM,Gees
+De Brinkies,6,"","",7863TM,Gees
+De Brinkies,7,"","",7863TM,Gees
+De Brinkies,8,"","",7863TM,Gees
+De Brinkies,8,A,"",7863TM,Gees
+De Brinkies,9,"","",7863TM,Gees

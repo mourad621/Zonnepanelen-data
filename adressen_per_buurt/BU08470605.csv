@@ -1,74 +1,74 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5712SC,Antoniusweg,21,,
-5712SE,Beliënberkdijk,4,,
-5712SE,Beliënberkdijk,6,,
-5712SE,Beliënberkdijk,7,,
-5712SE,Beliënberkdijk,8,,
-5712SE,Beliënberkdijk,10,,
-5712SE,Beliënberkdijk,12,,
-5712SE,Beliënberkdijk,16,,
-5712SE,Beliënberkdijk,17,,
-5712SE,Beliënberkdijk,20,,
-5712SE,Beliënberkdijk,21,,
-5712SE,Beliënberkdijk,23,,
-5712SE,Beliënberkdijk,24,,
-5712SE,Beliënberkdijk,26,,
-5712SE,Beliënberkdijk,27,,
-5712SE,Beliënberkdijk,27,a,
-5712SE,Beliënberkdijk,28,,
-5712SE,Beliënberkdijk,30,,
-5712SE,Beliënberkdijk,31,,
-5712SE,Beliënberkdijk,32,,
-5712SE,Beliënberkdijk,34,,
-5712SE,Beliënberkdijk,35,,
-5712SE,Beliënberkdijk,37,,
-5712SE,Beliënberkdijk,38,,
-5712SE,Beliënberkdijk,39,,
-5712SE,Beliënberkdijk,40,,
-5712SE,Beliënberkdijk,42,,
-5712SL,Dertiensedijk,14,,
-5712SL,Dertiensedijk,20,,
-5712SL,Dertiensedijk,24,,
-5712SP,Goord Verbernedijk,41,,
-5712SP,Goord Verbernedijk,45,,
-5712SP,Goord Verbernedijk,47,,
-5712SP,Goord Verbernedijk,63,,
-5712SP,Goord Verbernedijk,66,,
-5712SP,Goord Verbernedijk,68,,
-5712SP,Goord Verbernedijk,69,,
-5712SP,Goord Verbernedijk,69,,
-5712SK,Groesbaan,2,,
-5712SK,Groesbaan,6,,
-5712SM,Landbouwstraat,2,,
-5712SM,Landbouwstraat,5,,
-5712SM,Landbouwstraat,6,,
-5712SM,Landbouwstraat,7,,
-5712SM,Landbouwstraat,11,,
-5712SM,Landbouwstraat,12,,
-5712SM,Landbouwstraat,14,,
-5712SM,Landbouwstraat,20,,
-5712SM,Landbouwstraat,21,,
-5712SM,Landbouwstraat,23,,
-5712SM,Landbouwstraat,25,,
-5712SM,Landbouwstraat,4,,
-5712SJ,Scheidingsweg,3,,
-5712SJ,Scheidingsweg,7,,
-5712SJ,Scheidingsweg,9,,
-5712SJ,Scheidingsweg,10,,
-5712SJ,Scheidingsweg,11,,
-5712SJ,Scheidingsweg,13,,
-5712SB,Vaartdijk,29,,
-5712SB,Vaartdijk,34,,
-5712SB,Vaartdijk,35,,
-5712SG,Venweg,2,,
-5712SG,Venweg,5,,
-5712SG,Venweg,5,a,
-5712SE,Beliënberkdijk,12,a,
-5712SE,Beliënberkdijk,21,a,
-5712SE,Beliënberkdijk,35,,
-5712SE,Beliënberkdijk,35,,unit
-5712SP,Goord Verbernedijk,80,,
-5712SM,Landbouwstraat,25,,
-5712SM,Landbouwstraat,22,,
-5712SM,Landbouwstraat,22,a,
-5712SM,Landbouwstraat,22,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vaartdijk,29,"","",5712SB,Someren
+Vaartdijk,34,"","",5712SB,Someren
+Vaartdijk,35,"","",5712SB,Someren
+Antoniusweg,21,"","",5712SC,Someren
+Beliënberkdijk,10,"","",5712SE,Someren
+Beliënberkdijk,12,"","",5712SE,Someren
+Beliënberkdijk,12,A,"",5712SE,Someren
+Beliënberkdijk,16,"","",5712SE,Someren
+Beliënberkdijk,17,"","",5712SE,Someren
+Beliënberkdijk,20,"","",5712SE,Someren
+Beliënberkdijk,21,"","",5712SE,Someren
+Beliënberkdijk,21,A,"",5712SE,Someren
+Beliënberkdijk,23,"","",5712SE,Someren
+Beliënberkdijk,24,"","",5712SE,Someren
+Beliënberkdijk,26,"","",5712SE,Someren
+Beliënberkdijk,27,"","",5712SE,Someren
+Beliënberkdijk,27,A,"",5712SE,Someren
+Beliënberkdijk,28,"","",5712SE,Someren
+Beliënberkdijk,30,"","",5712SE,Someren
+Beliënberkdijk,31,"","",5712SE,Someren
+Beliënberkdijk,32,"","",5712SE,Someren
+Beliënberkdijk,34,"","",5712SE,Someren
+Beliënberkdijk,35,"","",5712SE,Someren
+Beliënberkdijk,35,"","",5712SE,Someren
+Beliënberkdijk,35,"",UNIT,5712SE,Someren
+Beliënberkdijk,37,"","",5712SE,Someren
+Beliënberkdijk,38,"","",5712SE,Someren
+Beliënberkdijk,39,"","",5712SE,Someren
+Beliënberkdijk,4,"","",5712SE,Someren
+Beliënberkdijk,40,"","",5712SE,Someren
+Beliënberkdijk,42,"","",5712SE,Someren
+Beliënberkdijk,6,"","",5712SE,Someren
+Beliënberkdijk,7,"","",5712SE,Someren
+Beliënberkdijk,8,"","",5712SE,Someren
+Venweg,2,"","",5712SG,Someren
+Venweg,5,"","",5712SG,Someren
+Venweg,5,A,"",5712SG,Someren
+Scheidingsweg,10,"","",5712SJ,Someren
+Scheidingsweg,11,"","",5712SJ,Someren
+Scheidingsweg,13,"","",5712SJ,Someren
+Scheidingsweg,3,"","",5712SJ,Someren
+Scheidingsweg,7,"","",5712SJ,Someren
+Scheidingsweg,9,"","",5712SJ,Someren
+Groesbaan,2,"","",5712SK,Someren
+Groesbaan,6,"","",5712SK,Someren
+Dertiensedijk,14,"","",5712SL,Someren
+Dertiensedijk,20,"","",5712SL,Someren
+Dertiensedijk,24,"","",5712SL,Someren
+Landbouwstraat,11,"","",5712SM,Someren
+Landbouwstraat,12,"","",5712SM,Someren
+Landbouwstraat,14,"","",5712SM,Someren
+Landbouwstraat,2,"","",5712SM,Someren
+Landbouwstraat,20,"","",5712SM,Someren
+Landbouwstraat,21,"","",5712SM,Someren
+Landbouwstraat,22,"","",5712SM,Someren
+Landbouwstraat,22,"","",5712SM,Someren
+Landbouwstraat,22,A,"",5712SM,Someren
+Landbouwstraat,23,"","",5712SM,Someren
+Landbouwstraat,25,"","",5712SM,Someren
+Landbouwstraat,25,"","",5712SM,Someren
+Landbouwstraat,4,"","",5712SM,Someren
+Landbouwstraat,5,"","",5712SM,Someren
+Landbouwstraat,6,"","",5712SM,Someren
+Landbouwstraat,7,"","",5712SM,Someren
+Goord Verbernedijk,41,"","",5712SP,Someren
+Goord Verbernedijk,45,"","",5712SP,Someren
+Goord Verbernedijk,47,"","",5712SP,Someren
+Goord Verbernedijk,63,"","",5712SP,Someren
+Goord Verbernedijk,66,"","",5712SP,Someren
+Goord Verbernedijk,68,"","",5712SP,Someren
+Goord Verbernedijk,69,"","",5712SP,Someren
+Goord Verbernedijk,69,"","",5712SP,Someren
+Goord Verbernedijk,80,"","",5712SP,Someren

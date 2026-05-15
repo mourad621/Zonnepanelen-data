@@ -1,548 +1,275 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8472CB",43,"",""
-"8472CB",47,"",""
-"8472CB",63,"",""
-"8472CB",39,"",""
-"8472CB",49,"",""
-"8472CB",65,"",""
-"8472CB",41,"",""
-"8472CB",53,"",""
-"8472CB",67,"",""
-"8472CB",93,"",""
-"8472CB",7,"",""
-"8472CB",59,"",""
-"8472CB",77,"",""
-"8472CB",5,"",""
-"8472CB",29,"",""
-"8472CB",27,"",""
-"8472CB",17,"",""
-"8472CB",83,"",""
-"8472CB",73,"",""
-"8472CB",75,"",""
-"8472CB",91,"",""
-"8472CB",37,"",""
-"8472CB",19,"",""
-"8472CB",3,"",""
-"8472CB",55,"",""
-"8472CB",1,"",""
-"8472CB",79,"",""
-"8472CB",25,"",""
-"8472CB",61,"",""
-"8472CB",21,"",""
-"8472CB",33,"",""
-"8472CB",9,"",""
-"8472CB",87,"",""
-"8472CB",35,"",""
-"8472CB",45,"",""
-"8472CB",11,"",""
-"8472CB",31,"",""
-"8472CB",13,"",""
-"8472CB",57,"",""
-"8472CB",23,"",""
-"8472CB",81,"",""
-"8472CB",69,"",""
-"8472CB",51,"",""
-"8472CB",89,"",""
-"8472CB",85,"",""
-"8472CB",15,"",""
-"8472CB",71,"",""
-"8472CC",8,"",""
-"8472CC",1,"",""
-"8472CC",7,"",""
-"8472CC",13,"",""
-"8472CC",4,"",""
-"8472CC",6,"",""
-"8472CC",15,"",""
-"8472CC",18,"",""
-"8472CC",3,"",""
-"8472CC",22,"",""
-"8472CC",24,"",""
-"8472CC",26,"",""
-"8472CC",19,"",""
-"8472CC",16,"",""
-"8472CC",5,"",""
-"8472CC",10,"",""
-"8472CC",11,"",""
-"8472CC",23,"",""
-"8472CC",17,"",""
-"8472CC",25,"",""
-"8472CC",20,"",""
-"8472CC",30,"",""
-"8472CC",2,"",""
-"8472CC",28,"",""
-"8472CC",27,"",""
-"8472CC",21,"",""
-"8472CC",14,"",""
-"8472CC",12,"",""
-"8472CC",32,"",""
-"8472CC",9,"",""
-"8472CD",11,"",""
-"8472CD",25,"",""
-"8472CD",13,"",""
-"8472CD",17,"",""
-"8472CD",26,"",""
-"8472CD",12,"",""
-"8472CD",23,"",""
-"8472CD",7,"",""
-"8472CD",22,"",""
-"8472CD",20,"",""
-"8472CD",6,"",""
-"8472CD",4,"",""
-"8472CD",24,"",""
-"8472CD",33,"",""
-"8472CD",15,"",""
-"8472CD",3,"",""
-"8472CD",16,"",""
-"8472CD",10,"",""
-"8472CD",19,"",""
-"8472CD",2,"",""
-"8472CD",14,"",""
-"8472CD",27,"",""
-"8472CD",8,"",""
-"8472CD",5,"",""
-"8472CD",21,"",""
-"8472CD",35,"",""
-"8472CD",9,"",""
-"8472CD",18,"",""
-"8472CD",1,"",""
-"8472CD",31,"",""
-"8472CD",29,"",""
-"8472CE",23,"",""
-"8472CE",25,"",""
-"8472CE",29,"",""
-"8472CE",26,"",""
-"8472CE",19,"",""
-"8472CE",22,"",""
-"8472CE",31,"",""
-"8472CE",24,"",""
-"8472CE",26,"",""
-"8472CE",8,"",""
-"8472CE",20,"",""
-"8472CE",49,"",""
-"8472CE",33,"",""
-"8472CE",21,"",""
-"8472CE",18,"",""
-"8472CE",27,"",""
-"8472CE",27,"",""
-"8472CE",32,"",""
-"8472CE",51,"",""
-"8472CE",23,"",""
-"8472CE",41,"",""
-"8472CE",15,"",""
-"8472CE",14,"",""
-"8472CE",11,"",""
-"8472CE",12,"",""
-"8472CE",25,"",""
-"8472CE",10,"",""
-"8472CE",39,"",""
-"8472CE",17,"",""
-"8472CE",35,"",""
-"8472CE",16,"",""
-"8472CE",13,"",""
-"8472CE",9,"",""
-"8472CE",30,"",""
-"8472CE",45,"",""
-"8472CE",43,"",""
-"8472CE",4,"",""
-"8472CE",28,"",""
-"8472CE",7,"",""
-"8472CE",37,"",""
-"8472CE",32,"",""
-"8472CE",47,"",""
-"8472CE",2,"",""
-"8472CE",1,"",""
-"8472CE",3,"",""
-"8472CE",6,"",""
-"8472CE",5,"",""
-"8472CG",1,"",""
-"8472CG",1,"",""
-"8472CG",19,"",""
-"8472CG",21,"",""
-"8472CG",29,"",""
-"8472CG",23,"",""
-"8472CG",3,"",""
-"8472CG",27,"",""
-"8472CG",1,"",""
-"8472CG",31,"",""
-"8472CG",5,"",""
-"8472CG",25,"",""
-"8472CG",17,"",""
-"8472CG",11,"",""
-"8472CG",15,"",""
-"8472CG",7,"",""
-"8472CG",13,"",""
-"8472CG",9,"",""
-"8472CH",2,"",""
-"8472CH",2,"A",""
-"8472CH",4,"",""
-"8472CH",10,"",""
-"8472CH",6,"",""
-"8472CH",2,"B",""
-"8472CH",24,"",""
-"8472CH",18,"",""
-"8472CH",16,"",""
-"8472CH",22,"",""
-"8472CH",30,"",""
-"8472CH",14,"",""
-"8472CH",12,"",""
-"8472CH",26,"",""
-"8472CH",8,"",""
-"8472CH",20,"",""
-"8472CH",28,"",""
-"8472CJ",16,"",""
-"8472CJ",5,"",""
-"8472CJ",1,"",""
-"8472CJ",2,"",""
-"8472CJ",14,"",""
-"8472CJ",8,"",""
-"8472CJ",13,"",""
-"8472CJ",3,"",""
-"8472CJ",4,"",""
-"8472CJ",6,"",""
-"8472CJ",12,"",""
-"8472CJ",11,"",""
-"8472CJ",9,"",""
-"8472CJ",15,"",""
-"8472CJ",7,"",""
-"8472CJ",10,"",""
-"8472CK",13,"",""
-"8472CK",11,"",""
-"8472CK",7,"",""
-"8472CK",21,"",""
-"8472CK",19,"",""
-"8472CK",9,"",""
-"8472CK",1,"",""
-"8472CK",17,"",""
-"8472CK",27,"",""
-"8472CK",25,"",""
-"8472CK",15,"",""
-"8472CK",5,"",""
-"8472CK",3,"",""
-"8472CK",23,"",""
-"8472CK",29,"",""
-"8472CP",13,"",""
-"8472CP",11,"",""
-"8472CP",1,"",""
-"8472CP",10,"",""
-"8472CP",3,"",""
-"8472CP",14,"",""
-"8472CP",12,"",""
-"8472CP",4,"",""
-"8472CP",7,"",""
-"8472CP",2,"",""
-"8472CP",9,"",""
-"8472CP",8,"",""
-"8472CP",5,"",""
-"8472CP",6,"",""
-"8472CR",14,"",""
-"8472CR",18,"",""
-"8472CR",46,"",""
-"8472CR",8,"",""
-"8472CR",4,"",""
-"8472CR",2,"",""
-"8472CR",16,"",""
-"8472CR",6,"",""
-"8472CR",40,"",""
-"8472CR",42,"",""
-"8472CR",32,"",""
-"8472CR",26,"",""
-"8472CR",12,"",""
-"8472CR",30,"",""
-"8472CR",36,"",""
-"8472CR",34,"",""
-"8472CR",24,"",""
-"8472CR",10,"",""
-"8472CR",72,"",""
-"8472CR",28,"",""
-"8472CR",6,"",""
-"8472CR",74,"",""
-"8472CR",52,"",""
-"8472CR",50,"",""
-"8472CR",20,"",""
-"8472CR",58,"",""
-"8472CR",56,"",""
-"8472CR",62,"",""
-"8472CR",70,"",""
-"8472CR",22,"",""
-"8472CR",44,"",""
-"8472CR",64,"",""
-"8472CR",50,"",""
-"8472CR",60,"",""
-"8472CR",38,"",""
-"8472CR",68,"",""
-"8472CR",54,"",""
-"8472CR",48,"",""
-"8472CR",66,"",""
-8472CD,Citroenvlinder,1,,
-8472CD,Citroenvlinder,11,,
-8472CD,Citroenvlinder,13,,
-8472CD,Citroenvlinder,15,,
-8472CD,Citroenvlinder,17,,
-8472CD,Citroenvlinder,19,,
-8472CD,Citroenvlinder,21,,
-8472CD,Citroenvlinder,23,,
-8472CD,Citroenvlinder,25,,
-8472CD,Citroenvlinder,27,,
-8472CD,Citroenvlinder,3,,
-8472CD,Citroenvlinder,5,,
-8472CB,Grote vuurvlinder,1,,
-8472CB,Grote vuurvlinder,11,,
-8472CB,Grote vuurvlinder,13,,
-8472CB,Grote vuurvlinder,15,,
-8472CB,Grote vuurvlinder,17,,
-8472CB,Grote vuurvlinder,19,,
-8472CB,Grote vuurvlinder,21,,
-8472CB,Grote vuurvlinder,23,,
-8472CB,Grote vuurvlinder,25,,
-8472CB,Grote vuurvlinder,27,,
-8472CB,Grote vuurvlinder,29,,
-8472CB,Grote vuurvlinder,3,,
-8472CB,Grote vuurvlinder,31,,
-8472CB,Grote vuurvlinder,5,,
-8472CC,Kleine vos,1,,
-8472CC,Kleine vos,10,,
-8472CC,Kleine vos,11,,
-8472CC,Kleine vos,12,,
-8472CC,Kleine vos,13,,
-8472CC,Kleine vos,14,,
-8472CC,Kleine vos,15,,
-8472CC,Kleine vos,16,,
-8472CC,Kleine vos,17,,
-8472CC,Kleine vos,18,,
-8472CC,Kleine vos,19,,
-8472CC,Kleine vos,2,,
-8472CC,Kleine vos,20,,
-8472CC,Kleine vos,21,,
-8472CC,Kleine vos,22,,
-8472CC,Kleine vos,23,,
-8472CC,Kleine vos,24,,
-8472CC,Kleine vos,25,,
-8472CC,Kleine vos,26,,
-8472CC,Kleine vos,27,,
-8472CC,Kleine vos,28,,
-8472CC,Kleine vos,3,,
-8472CC,Kleine vos,30,,
-8472CC,Kleine vos,32,,
-8472CC,Kleine vos,4,,
-8472CC,Kleine vos,5,,
-8472CE,Kommavlinder,1,,
-8472CE,Kommavlinder,11,,
-8472CE,Kommavlinder,13,,
-8472CE,Kommavlinder,14,,
-8472CE,Kommavlinder,15,,
-8472CE,Kommavlinder,16,,
-8472CE,Kommavlinder,17,,
-8472CE,Kommavlinder,18,,
-8472CE,Kommavlinder,19,,
-8472CE,Kommavlinder,20,,
-8472CE,Kommavlinder,22,,
-8472CE,Kommavlinder,24,,
-8472CE,Kommavlinder,3,,
-8472CE,Kommavlinder,5,,
-8472CD,Citroenvlinder,7,,
-8472CD,Citroenvlinder,9,,
-8472CD,Citroenvlinder,2,,
-8472CD,Citroenvlinder,4,,
-8472CD,Citroenvlinder,6,,
-8472CD,Citroenvlinder,8,,
-8472CD,Citroenvlinder,10,,
-8472CD,Citroenvlinder,12,,
-8472CD,Citroenvlinder,14,,
-8472CD,Citroenvlinder,16,,
-8472CD,Citroenvlinder,18,,
-8472CD,Citroenvlinder,20,,
-8472CD,Citroenvlinder,22,,
-8472CD,Citroenvlinder,29,,
-8472CD,Citroenvlinder,31,,
-8472CD,Citroenvlinder,33,,
-8472CD,Citroenvlinder,35,,
-8472CD,Citroenvlinder,24,,
-8472CD,Citroenvlinder,26,,
-8472CB,Grote vuurvlinder,7,,
-8472CB,Grote vuurvlinder,9,,
-8472CB,Grote vuurvlinder,33,,
-8472CB,Grote vuurvlinder,35,,
-8472CB,Grote vuurvlinder,37,,
-8472CB,Grote vuurvlinder,39,,
-8472CB,Grote vuurvlinder,41,,
-8472CB,Grote vuurvlinder,43,,
-8472CB,Grote vuurvlinder,45,,
-8472CB,Grote vuurvlinder,47,,
-8472CB,Grote vuurvlinder,49,,
-8472CB,Grote vuurvlinder,51,,
-8472CB,Grote vuurvlinder,53,,
-8472CB,Grote vuurvlinder,55,,
-8472CB,Grote vuurvlinder,57,,
-8472CB,Grote vuurvlinder,59,,
-8472CB,Grote vuurvlinder,61,,
-8472CB,Grote vuurvlinder,63,,
-8472CB,Grote vuurvlinder,65,,
-8472CB,Grote vuurvlinder,67,,
-8472CB,Grote vuurvlinder,69,,
-8472CB,Grote vuurvlinder,71,,
-8472CB,Grote vuurvlinder,93,,
-8472CB,Grote vuurvlinder,91,,
-8472CB,Grote vuurvlinder,89,,
-8472CB,Grote vuurvlinder,87,,
-8472CB,Grote vuurvlinder,85,,
-8472CB,Grote vuurvlinder,83,,
-8472CB,Grote vuurvlinder,81,,
-8472CB,Grote vuurvlinder,79,,
-8472CB,Grote vuurvlinder,77,,
-8472CB,Grote vuurvlinder,75,,
-8472CB,Grote vuurvlinder,73,,
-8472CH,Grote vuurvlinder,2,,
-8472CH,Grote vuurvlinder,2,A,
-8472CH,Grote vuurvlinder,2,B,
-8472CH,Grote vuurvlinder,4,,
-8472CH,Grote vuurvlinder,6,,
-8472CH,Grote vuurvlinder,8,,
-8472CH,Grote vuurvlinder,10,,
-8472CH,Grote vuurvlinder,12,,
-8472CH,Grote vuurvlinder,14,,
-8472CH,Grote vuurvlinder,16,,
-8472CH,Grote vuurvlinder,18,,
-8472CH,Grote vuurvlinder,20,,
-8472CH,Grote vuurvlinder,22,,
-8472CH,Grote vuurvlinder,24,,
-8472CH,Grote vuurvlinder,26,,
-8472CH,Grote vuurvlinder,28,,
-8472CH,Grote vuurvlinder,30,,
-8472CC,Kleine vos,6,,
-8472CC,Kleine vos,7,,
-8472CC,Kleine vos,8,,
-8472CC,Kleine vos,9,,
-8472CE,Kommavlinder,7,,
-8472CE,Kommavlinder,9,,
-8472CE,Kommavlinder,2,,
-8472CE,Kommavlinder,4,,
-8472CE,Kommavlinder,6,,
-8472CE,Kommavlinder,8,,
-8472CE,Kommavlinder,10,,
-8472CE,Kommavlinder,12,,
-8472CE,Kommavlinder,21,,
-8472CE,Kommavlinder,23,,
-8472CE,Kommavlinder,23,,
-8472CE,Kommavlinder,25,,
-8472CE,Kommavlinder,25,,
-8472CE,Kommavlinder,26,,
-8472CE,Kommavlinder,26,,
-8472CE,Kommavlinder,27,,
-8472CE,Kommavlinder,27,,
-8472CE,Kommavlinder,28,,
-8472CE,Kommavlinder,32,,
-8472CE,Kommavlinder,32,,
-8472CE,Kommavlinder,30,,
-8472CE,Kommavlinder,29,,
-8472CE,Kommavlinder,31,,
-8472CE,Kommavlinder,33,,
-8472CE,Kommavlinder,35,,
-8472CE,Kommavlinder,37,,
-8472CE,Kommavlinder,39,,
-8472CE,Kommavlinder,41,,
-8472CE,Kommavlinder,43,,
-8472CE,Kommavlinder,45,,
-8472CE,Kommavlinder,47,,
-8472CE,Kommavlinder,49,,
-8472CE,Kommavlinder,51,,
-8472CP,Keizersmantel,1,,
-8472CP,Keizersmantel,2,,
-8472CP,Keizersmantel,3,,
-8472CP,Keizersmantel,4,,
-8472CP,Keizersmantel,5,,
-8472CP,Keizersmantel,6,,
-8472CP,Keizersmantel,7,,
-8472CP,Keizersmantel,8,,
-8472CP,Keizersmantel,9,,
-8472CP,Keizersmantel,10,,
-8472CP,Keizersmantel,11,,
-8472CP,Keizersmantel,12,,
-8472CP,Keizersmantel,13,,
-8472CP,Keizersmantel,14,,
-8472CG,Koolwitje,1,,
-8472CG,Koolwitje,1,,
-8472CG,Koolwitje,3,,
-8472CG,Koolwitje,5,,
-8472CG,Koolwitje,7,,
-8472CG,Koolwitje,9,,
-8472CG,Koolwitje,11,,
-8472CG,Koolwitje,13,,
-8472CG,Koolwitje,15,,
-8472CG,Koolwitje,17,,
-8472CG,Koolwitje,19,,
-8472CG,Koolwitje,21,,
-8472CG,Koolwitje,23,,
-8472CG,Koolwitje,25,,
-8472CG,Koolwitje,27,,
-8472CG,Koolwitje,29,,
-8472CG,Koolwitje,31,,
-8472CJ,Boswitje,2,,
-8472CJ,Boswitje,4,,
-8472CJ,Boswitje,6,,
-8472CJ,Boswitje,8,,
-8472CJ,Boswitje,10,,
-8472CJ,Boswitje,12,,
-8472CJ,Boswitje,14,,
-8472CJ,Boswitje,16,,
-8472CJ,Boswitje,1,,
-8472CJ,Boswitje,3,,
-8472CJ,Boswitje,5,,
-8472CJ,Boswitje,7,,
-8472CJ,Boswitje,9,,
-8472CJ,Boswitje,11,,
-8472CJ,Boswitje,13,,
-8472CJ,Boswitje,15,,
-8472CK,Resedawitje,17,,
-8472CK,Resedawitje,19,,
-8472CK,Resedawitje,21,,
-8472CK,Resedawitje,23,,
-8472CK,Resedawitje,25,,
-8472CK,Resedawitje,27,,
-8472CK,Resedawitje,29,,
-8472CK,Resedawitje,1,,
-8472CK,Resedawitje,3,,
-8472CK,Resedawitje,5,,
-8472CK,Resedawitje,9,,
-8472CK,Resedawitje,13,,
-8472CK,Resedawitje,11,,
-8472CK,Resedawitje,15,,
-8472CK,Resedawitje,7,,
-8472CR,Oranjetipje,2,,
-8472CR,Oranjetipje,4,,
-8472CR,Oranjetipje,6,,
-8472CR,Oranjetipje,6,,
-8472CR,Oranjetipje,8,,
-8472CR,Oranjetipje,10,,
-8472CR,Oranjetipje,12,,
-8472CR,Oranjetipje,14,,
-8472CR,Oranjetipje,16,,
-8472CR,Oranjetipje,18,,
-8472CR,Oranjetipje,20,,
-8472CR,Oranjetipje,22,,
-8472CR,Oranjetipje,24,,
-8472CR,Oranjetipje,26,,
-8472CR,Oranjetipje,28,,
-8472CR,Oranjetipje,30,,
-8472CR,Oranjetipje,32,,
-8472CR,Oranjetipje,34,,
-8472CR,Oranjetipje,36,,
-8472CR,Oranjetipje,38,,
-8472CR,Oranjetipje,40,,
-8472CR,Oranjetipje,42,,
-8472CR,Oranjetipje,44,,
-8472CR,Oranjetipje,46,,
-8472CR,Oranjetipje,50,,
-8472CR,Oranjetipje,48,,
-8472CR,Oranjetipje,50,,
-8472CR,Oranjetipje,52,,
-8472CR,Oranjetipje,54,,
-8472CR,Oranjetipje,56,,
-8472CR,Oranjetipje,58,,
-8472CR,Oranjetipje,60,,
-8472CR,Oranjetipje,62,,
-8472CR,Oranjetipje,64,,
-8472CR,Oranjetipje,66,,
-8472CR,Oranjetipje,68,,
-8472CR,Oranjetipje,70,,
-8472CR,Oranjetipje,72,,
-8472CR,Oranjetipje,74,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Grote vuurvlinder,1,"","",8472CB,Wolvega
+Grote vuurvlinder,11,"","",8472CB,Wolvega
+Grote vuurvlinder,13,"","",8472CB,Wolvega
+Grote vuurvlinder,15,"","",8472CB,Wolvega
+Grote vuurvlinder,17,"","",8472CB,Wolvega
+Grote vuurvlinder,19,"","",8472CB,Wolvega
+Grote vuurvlinder,21,"","",8472CB,Wolvega
+Grote vuurvlinder,23,"","",8472CB,Wolvega
+Grote vuurvlinder,25,"","",8472CB,Wolvega
+Grote vuurvlinder,27,"","",8472CB,Wolvega
+Grote vuurvlinder,29,"","",8472CB,Wolvega
+Grote vuurvlinder,3,"","",8472CB,Wolvega
+Grote vuurvlinder,31,"","",8472CB,Wolvega
+Grote vuurvlinder,33,"","",8472CB,Wolvega
+Grote vuurvlinder,35,"","",8472CB,Wolvega
+Grote vuurvlinder,37,"","",8472CB,Wolvega
+Grote vuurvlinder,39,"","",8472CB,Wolvega
+Grote vuurvlinder,41,"","",8472CB,Wolvega
+Grote vuurvlinder,43,"","",8472CB,Wolvega
+Grote vuurvlinder,45,"","",8472CB,Wolvega
+Grote vuurvlinder,47,"","",8472CB,Wolvega
+Grote vuurvlinder,49,"","",8472CB,Wolvega
+Grote vuurvlinder,5,"","",8472CB,Wolvega
+Grote vuurvlinder,51,"","",8472CB,Wolvega
+Grote vuurvlinder,53,"","",8472CB,Wolvega
+Grote vuurvlinder,55,"","",8472CB,Wolvega
+Grote vuurvlinder,57,"","",8472CB,Wolvega
+Grote vuurvlinder,59,"","",8472CB,Wolvega
+Grote vuurvlinder,61,"","",8472CB,Wolvega
+Grote vuurvlinder,63,"","",8472CB,Wolvega
+Grote vuurvlinder,65,"","",8472CB,Wolvega
+Grote vuurvlinder,67,"","",8472CB,Wolvega
+Grote vuurvlinder,69,"","",8472CB,Wolvega
+Grote vuurvlinder,7,"","",8472CB,Wolvega
+Grote vuurvlinder,71,"","",8472CB,Wolvega
+Grote vuurvlinder,73,"","",8472CB,Wolvega
+Grote vuurvlinder,75,"","",8472CB,Wolvega
+Grote vuurvlinder,77,"","",8472CB,Wolvega
+Grote vuurvlinder,79,"","",8472CB,Wolvega
+Grote vuurvlinder,81,"","",8472CB,Wolvega
+Grote vuurvlinder,83,"","",8472CB,Wolvega
+Grote vuurvlinder,85,"","",8472CB,Wolvega
+Grote vuurvlinder,87,"","",8472CB,Wolvega
+Grote vuurvlinder,89,"","",8472CB,Wolvega
+Grote vuurvlinder,9,"","",8472CB,Wolvega
+Grote vuurvlinder,91,"","",8472CB,Wolvega
+Grote vuurvlinder,93,"","",8472CB,Wolvega
+Kleine vos,1,"","",8472CC,Wolvega
+Kleine vos,10,"","",8472CC,Wolvega
+Kleine vos,11,"","",8472CC,Wolvega
+Kleine vos,12,"","",8472CC,Wolvega
+Kleine vos,13,"","",8472CC,Wolvega
+Kleine vos,14,"","",8472CC,Wolvega
+Kleine vos,15,"","",8472CC,Wolvega
+Kleine vos,16,"","",8472CC,Wolvega
+Kleine vos,17,"","",8472CC,Wolvega
+Kleine vos,18,"","",8472CC,Wolvega
+Kleine vos,19,"","",8472CC,Wolvega
+Kleine vos,2,"","",8472CC,Wolvega
+Kleine vos,20,"","",8472CC,Wolvega
+Kleine vos,21,"","",8472CC,Wolvega
+Kleine vos,22,"","",8472CC,Wolvega
+Kleine vos,23,"","",8472CC,Wolvega
+Kleine vos,24,"","",8472CC,Wolvega
+Kleine vos,25,"","",8472CC,Wolvega
+Kleine vos,26,"","",8472CC,Wolvega
+Kleine vos,27,"","",8472CC,Wolvega
+Kleine vos,28,"","",8472CC,Wolvega
+Kleine vos,3,"","",8472CC,Wolvega
+Kleine vos,30,"","",8472CC,Wolvega
+Kleine vos,32,"","",8472CC,Wolvega
+Kleine vos,4,"","",8472CC,Wolvega
+Kleine vos,5,"","",8472CC,Wolvega
+Kleine vos,6,"","",8472CC,Wolvega
+Kleine vos,7,"","",8472CC,Wolvega
+Kleine vos,8,"","",8472CC,Wolvega
+Kleine vos,9,"","",8472CC,Wolvega
+Citroenvlinder,1,"","",8472CD,Wolvega
+Citroenvlinder,10,"","",8472CD,Wolvega
+Citroenvlinder,11,"","",8472CD,Wolvega
+Citroenvlinder,12,"","",8472CD,Wolvega
+Citroenvlinder,13,"","",8472CD,Wolvega
+Citroenvlinder,14,"","",8472CD,Wolvega
+Citroenvlinder,15,"","",8472CD,Wolvega
+Citroenvlinder,16,"","",8472CD,Wolvega
+Citroenvlinder,17,"","",8472CD,Wolvega
+Citroenvlinder,18,"","",8472CD,Wolvega
+Citroenvlinder,19,"","",8472CD,Wolvega
+Citroenvlinder,2,"","",8472CD,Wolvega
+Citroenvlinder,20,"","",8472CD,Wolvega
+Citroenvlinder,21,"","",8472CD,Wolvega
+Citroenvlinder,22,"","",8472CD,Wolvega
+Citroenvlinder,23,"","",8472CD,Wolvega
+Citroenvlinder,24,"","",8472CD,Wolvega
+Citroenvlinder,25,"","",8472CD,Wolvega
+Citroenvlinder,26,"","",8472CD,Wolvega
+Citroenvlinder,27,"","",8472CD,Wolvega
+Citroenvlinder,29,"","",8472CD,Wolvega
+Citroenvlinder,3,"","",8472CD,Wolvega
+Citroenvlinder,31,"","",8472CD,Wolvega
+Citroenvlinder,33,"","",8472CD,Wolvega
+Citroenvlinder,35,"","",8472CD,Wolvega
+Citroenvlinder,4,"","",8472CD,Wolvega
+Citroenvlinder,5,"","",8472CD,Wolvega
+Citroenvlinder,6,"","",8472CD,Wolvega
+Citroenvlinder,7,"","",8472CD,Wolvega
+Citroenvlinder,8,"","",8472CD,Wolvega
+Citroenvlinder,9,"","",8472CD,Wolvega
+Kommavlinder,1,"","",8472CE,Wolvega
+Kommavlinder,10,"","",8472CE,Wolvega
+Kommavlinder,11,"","",8472CE,Wolvega
+Kommavlinder,12,"","",8472CE,Wolvega
+Kommavlinder,13,"","",8472CE,Wolvega
+Kommavlinder,14,"","",8472CE,Wolvega
+Kommavlinder,15,"","",8472CE,Wolvega
+Kommavlinder,16,"","",8472CE,Wolvega
+Kommavlinder,17,"","",8472CE,Wolvega
+Kommavlinder,18,"","",8472CE,Wolvega
+Kommavlinder,19,"","",8472CE,Wolvega
+Kommavlinder,2,"","",8472CE,Wolvega
+Kommavlinder,20,"","",8472CE,Wolvega
+Kommavlinder,21,"","",8472CE,Wolvega
+Kommavlinder,22,"","",8472CE,Wolvega
+Kommavlinder,23,"","",8472CE,Wolvega
+Kommavlinder,23,"","",8472CE,Wolvega
+Kommavlinder,24,"","",8472CE,Wolvega
+Kommavlinder,25,"","",8472CE,Wolvega
+Kommavlinder,25,"","",8472CE,Wolvega
+Kommavlinder,26,"","",8472CE,Wolvega
+Kommavlinder,26,"","",8472CE,Wolvega
+Kommavlinder,27,"","",8472CE,Wolvega
+Kommavlinder,27,"","",8472CE,Wolvega
+Kommavlinder,28,"","",8472CE,Wolvega
+Kommavlinder,29,"","",8472CE,Wolvega
+Kommavlinder,3,"","",8472CE,Wolvega
+Kommavlinder,30,"","",8472CE,Wolvega
+Kommavlinder,31,"","",8472CE,Wolvega
+Kommavlinder,32,"","",8472CE,Wolvega
+Kommavlinder,32,"","",8472CE,Wolvega
+Kommavlinder,33,"","",8472CE,Wolvega
+Kommavlinder,35,"","",8472CE,Wolvega
+Kommavlinder,37,"","",8472CE,Wolvega
+Kommavlinder,39,"","",8472CE,Wolvega
+Kommavlinder,4,"","",8472CE,Wolvega
+Kommavlinder,41,"","",8472CE,Wolvega
+Kommavlinder,43,"","",8472CE,Wolvega
+Kommavlinder,45,"","",8472CE,Wolvega
+Kommavlinder,47,"","",8472CE,Wolvega
+Kommavlinder,49,"","",8472CE,Wolvega
+Kommavlinder,5,"","",8472CE,Wolvega
+Kommavlinder,51,"","",8472CE,Wolvega
+Kommavlinder,6,"","",8472CE,Wolvega
+Kommavlinder,7,"","",8472CE,Wolvega
+Kommavlinder,8,"","",8472CE,Wolvega
+Kommavlinder,9,"","",8472CE,Wolvega
+Koolwitje,1,"","",8472CG,Wolvega
+Koolwitje,1,"","",8472CG,Wolvega
+Koolwitje,1,"","",8472CG,Wolvega
+Koolwitje,11,"","",8472CG,Wolvega
+Koolwitje,13,"","",8472CG,Wolvega
+Koolwitje,15,"","",8472CG,Wolvega
+Koolwitje,17,"","",8472CG,Wolvega
+Koolwitje,19,"","",8472CG,Wolvega
+Koolwitje,21,"","",8472CG,Wolvega
+Koolwitje,23,"","",8472CG,Wolvega
+Koolwitje,25,"","",8472CG,Wolvega
+Koolwitje,27,"","",8472CG,Wolvega
+Koolwitje,29,"","",8472CG,Wolvega
+Koolwitje,3,"","",8472CG,Wolvega
+Koolwitje,31,"","",8472CG,Wolvega
+Koolwitje,5,"","",8472CG,Wolvega
+Koolwitje,7,"","",8472CG,Wolvega
+Koolwitje,9,"","",8472CG,Wolvega
+Grote vuurvlinder,10,"","",8472CH,Wolvega
+Grote vuurvlinder,12,"","",8472CH,Wolvega
+Grote vuurvlinder,14,"","",8472CH,Wolvega
+Grote vuurvlinder,16,"","",8472CH,Wolvega
+Grote vuurvlinder,18,"","",8472CH,Wolvega
+Grote vuurvlinder,2,"","",8472CH,Wolvega
+Grote vuurvlinder,2,A,"",8472CH,Wolvega
+Grote vuurvlinder,2,B,"",8472CH,Wolvega
+Grote vuurvlinder,20,"","",8472CH,Wolvega
+Grote vuurvlinder,22,"","",8472CH,Wolvega
+Grote vuurvlinder,24,"","",8472CH,Wolvega
+Grote vuurvlinder,26,"","",8472CH,Wolvega
+Grote vuurvlinder,28,"","",8472CH,Wolvega
+Grote vuurvlinder,30,"","",8472CH,Wolvega
+Grote vuurvlinder,4,"","",8472CH,Wolvega
+Grote vuurvlinder,6,"","",8472CH,Wolvega
+Grote vuurvlinder,8,"","",8472CH,Wolvega
+Boswitje,1,"","",8472CJ,Wolvega
+Boswitje,10,"","",8472CJ,Wolvega
+Boswitje,11,"","",8472CJ,Wolvega
+Boswitje,12,"","",8472CJ,Wolvega
+Boswitje,13,"","",8472CJ,Wolvega
+Boswitje,14,"","",8472CJ,Wolvega
+Boswitje,15,"","",8472CJ,Wolvega
+Boswitje,16,"","",8472CJ,Wolvega
+Boswitje,2,"","",8472CJ,Wolvega
+Boswitje,3,"","",8472CJ,Wolvega
+Boswitje,4,"","",8472CJ,Wolvega
+Boswitje,5,"","",8472CJ,Wolvega
+Boswitje,6,"","",8472CJ,Wolvega
+Boswitje,7,"","",8472CJ,Wolvega
+Boswitje,8,"","",8472CJ,Wolvega
+Boswitje,9,"","",8472CJ,Wolvega
+Resedawitje,1,"","",8472CK,Wolvega
+Resedawitje,11,"","",8472CK,Wolvega
+Resedawitje,13,"","",8472CK,Wolvega
+Resedawitje,15,"","",8472CK,Wolvega
+Resedawitje,17,"","",8472CK,Wolvega
+Resedawitje,19,"","",8472CK,Wolvega
+Resedawitje,21,"","",8472CK,Wolvega
+Resedawitje,23,"","",8472CK,Wolvega
+Resedawitje,25,"","",8472CK,Wolvega
+Resedawitje,27,"","",8472CK,Wolvega
+Resedawitje,29,"","",8472CK,Wolvega
+Resedawitje,3,"","",8472CK,Wolvega
+Resedawitje,5,"","",8472CK,Wolvega
+Resedawitje,7,"","",8472CK,Wolvega
+Resedawitje,9,"","",8472CK,Wolvega
+Keizersmantel,1,"","",8472CP,Wolvega
+Keizersmantel,10,"","",8472CP,Wolvega
+Keizersmantel,11,"","",8472CP,Wolvega
+Keizersmantel,12,"","",8472CP,Wolvega
+Keizersmantel,13,"","",8472CP,Wolvega
+Keizersmantel,14,"","",8472CP,Wolvega
+Keizersmantel,2,"","",8472CP,Wolvega
+Keizersmantel,3,"","",8472CP,Wolvega
+Keizersmantel,4,"","",8472CP,Wolvega
+Keizersmantel,5,"","",8472CP,Wolvega
+Keizersmantel,6,"","",8472CP,Wolvega
+Keizersmantel,7,"","",8472CP,Wolvega
+Keizersmantel,8,"","",8472CP,Wolvega
+Keizersmantel,9,"","",8472CP,Wolvega
+Oranjetipje,10,"","",8472CR,Wolvega
+Oranjetipje,12,"","",8472CR,Wolvega
+Oranjetipje,14,"","",8472CR,Wolvega
+Oranjetipje,16,"","",8472CR,Wolvega
+Oranjetipje,18,"","",8472CR,Wolvega
+Oranjetipje,2,"","",8472CR,Wolvega
+Oranjetipje,20,"","",8472CR,Wolvega
+Oranjetipje,22,"","",8472CR,Wolvega
+Oranjetipje,24,"","",8472CR,Wolvega
+Oranjetipje,26,"","",8472CR,Wolvega
+Oranjetipje,28,"","",8472CR,Wolvega
+Oranjetipje,30,"","",8472CR,Wolvega
+Oranjetipje,32,"","",8472CR,Wolvega
+Oranjetipje,34,"","",8472CR,Wolvega
+Oranjetipje,36,"","",8472CR,Wolvega
+Oranjetipje,38,"","",8472CR,Wolvega
+Oranjetipje,4,"","",8472CR,Wolvega
+Oranjetipje,40,"","",8472CR,Wolvega
+Oranjetipje,42,"","",8472CR,Wolvega
+Oranjetipje,44,"","",8472CR,Wolvega
+Oranjetipje,46,"","",8472CR,Wolvega
+Oranjetipje,48,"","",8472CR,Wolvega
+Oranjetipje,50,"","",8472CR,Wolvega
+Oranjetipje,50,"","",8472CR,Wolvega
+Oranjetipje,52,"","",8472CR,Wolvega
+Oranjetipje,54,"","",8472CR,Wolvega
+Oranjetipje,56,"","",8472CR,Wolvega
+Oranjetipje,58,"","",8472CR,Wolvega
+Oranjetipje,6,"","",8472CR,Wolvega
+Oranjetipje,6,"","",8472CR,Wolvega
+Oranjetipje,60,"","",8472CR,Wolvega
+Oranjetipje,62,"","",8472CR,Wolvega
+Oranjetipje,64,"","",8472CR,Wolvega
+Oranjetipje,66,"","",8472CR,Wolvega
+Oranjetipje,68,"","",8472CR,Wolvega
+Oranjetipje,70,"","",8472CR,Wolvega
+Oranjetipje,72,"","",8472CR,Wolvega
+Oranjetipje,74,"","",8472CR,Wolvega
+Oranjetipje,8,"","",8472CR,Wolvega

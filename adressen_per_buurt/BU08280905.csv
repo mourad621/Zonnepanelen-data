@@ -1,5 +1,5 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5343XN,Gielekespad,10,,
-5343XN,Gielekespad,10,A,
-5343XP,Watersportpad,2,,
-5343XN,Gielekespad,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Gielekespad,10,"","",5343XN,Oss
+Gielekespad,10,A,"",5343XN,Oss
+Gielekespad,8,"","",5343XN,Oss
+Watersportpad,2,"","",5343XP,Oss

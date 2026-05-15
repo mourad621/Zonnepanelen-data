@@ -1,840 +1,339 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8701MB",31,"A",""
-"8701MB",9,"A",""
-"8701MB",8,"A",""
-"8701MB",31,"",""
-"8701MB",9,"",""
-"8701MB",10,"A",""
-"8701MB",15,"",""
-"8701MB",12,"",""
-"8701MB",15,"A",""
-"8701MB",12,"A",""
-"8701MB",7,"",""
-"8701MB",27,"A",""
-"8701MB",11,"",""
-"8701MB",1,"A",""
-"8701MB",13,"A",""
-"8701MB",13,"",""
-"8701MB",8,"",""
-"8701MB",29,"A",""
-"8701MB",10,"",""
-"8701MB",37,"A",""
-"8701MB",23,"",""
-"8701MB",19,"A",""
-"8701MB",5,"",""
-"8701MB",25,"",""
-"8701MB",29,"",""
-"8701MB",5,"A",""
-"8701MB",37,"",""
-"8701MB",25,"A",""
-"8701MB",39,"B",""
-"8701MB",21,"",""
-"8701MB",21,"A",""
-"8701MB",35,"",""
-"8701MB",27,"",""
-"8701MB",11,"A",""
-"8701MB",23,"A",""
-"8701MB",39,"A",""
-"8701MB",7,"A",""
-"8701MB",29,"",""
-"8701MB",1,"",""
-"8701MB",19,"",""
-"8701MB",17,"A",""
-"8701MB",17,"",""
-"8701MB",35,"A",""
-"8701MB",39,"",""
-"8701MC",136,"I",""
-"8701MC",134,"H",""
-"8701MC",120,"",""
-"8701MC",110,"",""
-"8701MC",134,"G",""
-"8701MC",136,"E",""
-"8701MC",122,"",""
-"8701MC",136,"K",""
-"8701MC",103,"",""
-"8701MC",107,"A",""
-"8701MC",136,"G",""
-"8701MC",116,"",""
-"8701MC",112,"",""
-"8701MC",136,"H",""
-"8701MC",134,"F",""
-"8701MC",134,"B",""
-"8701MC",136,"J",""
-"8701MC",136,"J",""
-"8701MC",108,"B",""
-"8701MC",109,"",""
-"8701MC",114,"",""
-"8701MC",134,"K",""
-"8701MC",111,"",""
-"8701MC",134,"D",""
-"8701MC",134,"A",""
-"8701MC",136,"H",""
-"8701MC",136,"G",""
-"8701MC",136,"F",""
-"8701MC",136,"E",""
-"8701MC",118,"",""
-"8701MC",108,"A",""
-"8701MC",136,"A",""
-"8701MC",126,"A",""
-"8701MC",126,"B",""
-"8701MC",136,"C",""
-"8701MC",118,"A",""
-"8701MC",136,"F",""
-"8701MC",106,"",""
-"8701MC",107,"",""
-"8701MC",136,"D",""
-"8701MC",136,"A",""
-"8701MC",136,"D",""
-"8701MC",136,"C",""
-"8701MC",102,"",""
-"8701MC",134,"C",""
-"8701MC",124,"",""
-"8701MC",136,"K",""
-"8701MC",134,"I",""
-"8701MC",134,"J",""
-"8701MC",136,"I",""
-"8701MC",104,"",""
-"8701MC",119,"",""
-"8701MC",134,"I",""
-"8701MC",105,"",""
-"8701MC",134,"L",""
-"8701MC",136,"B",""
-"8701MC",136,"B",""
-"8701MC",134,"E",""
-"8701MC",136,"L",""
-"8701MC",136,"L",""
-"8701MC",107,"A",""
-"8701MC",134,"J",""
-"8701MC",101,"",""
-"8701MD",2,"",""
-"8701MD",6,"",""
-"8701MD",2,"",""
-"8701MD",6,"",""
-"8701MD",7,"",""
-"8701ME",8,"",""
-"8701ME",10,"",""
-"8701ME",5,"",""
-"8701MG",1,"",""
-"8701MG",2,"",""
-"8701MH",204,"C",""
-"8701MH",204,"N",""
-"8701MH",204,"I",""
-"8701MH",204,"D",""
-"8701MH",204,"A",""
-"8701MH",204,"B",""
-"8701MH",204,"F",""
-"8701MH",204,"E",""
-"8701MH",209,"",""
-"8701MH",211,"",""
-"8701MH",204,"P",""
-"8701MH",204,"H",""
-"8701MH",204,"G",""
-"8701MH",202,"",""
-"8701MH",207,"",""
-"8701MH",204,"L",""
-"8701MH",204,"M",""
-"8701MH",204,"Q",""
-"8701MH",204,"K",""
-"8701MH",204,"J",""
-"8701MH",204,"O",""
-"8701MH",204,"R",""
-"8701MH",219,"",""
-"8701PA",6,"",""
-"8701PA",7,"",""
-"8701PA",8,"A",""
-"8701PA",6,"",""
-"8701PA",3,"",""
-"8701PA",8,"",""
-"8701PA",11,"",""
-"8701PA",5,"",""
-"8701PA",4,"",""
-"8701PA",2,"",""
-"8701PA",7,"A",""
-"8701PA",9,"",""
-"8701PA",10,"",""
-"8701PA",1,"",""
-"8701PB",4,"",""
-"8701PB",2,"",""
-"8701PB",3,"",""
-"8701PB",1,"",""
-"8701PC",5,"",""
-"8701PC",5,"",""
-"8701PC",1,"",""
-"8701PC",2,"",""
-"8701PC",3,"",""
-"8701PG",27,"",""
-"8701PG",31,"",""
-"8701PG",29,"",""
-"8701PG",17,"C",""
-"8701PG",14,"",""
-"8701PG",5,"",""
-"8701PG",4,"",""
-"8701PG",17,"C",""
-"8701PG",21,"",""
-"8701PG",5,"C",""
-"8701PG",25,"A",""
-"8701PG",2,"A",""
-"8701PG",17,"A",""
-"8701PG",2,"A",""
-"8701PG",5,"E",""
-"8701PG",25,"",""
-"8701PG",4,"A",""
-"8701PG",5,"F",""
-"8701PG",17,"B",""
-"8701PG",23,"",""
-"8701PG",8,"",""
-"8701PG",9,"",""
-"8701PG",6,"",""
-"8701PG",13,"",""
-"8701PG",21,"A",""
-"8701PG",2,"",""
-"8701PG",5,"B",""
-"8701PG",1,"",""
-"8701PG",3,"",""
-"8701PG",13,"",""
-"8701PG",15,"",""
-"8701PG",5,"A",""
-"8701PG",5,"C",""
-"8701PG",11,"",""
-"8701PG",13,"A",""
-"8701PG",17,"",""
-"8701PG",5,"B",""
-"8701PG",4,"B",""
-"8701PG",5,"D",""
-"8701PG",13,"A",""
-"8701PG",4,"",""
-"8701PG",5,"A",""
-"8701PG",5,"A",""
-"8701PG",5,"C",""
-"8701PJ",1,"",""
-"8701PJ",2,"",""
-"8701PJ",5,"",""
-"8701PJ",4,"",""
-"8701PJ",11,"",""
-"8701PJ",3,"",""
-"8701PJ",8,"A",""
-"8701PJ",7,"",""
-"8701PJ",9,"",""
-"8701PJ",6,"",""
-"8701PK",3,"",""
-"8701PS",2,"",""
-"8701PS",1,"",""
-"8701PS",4,"",""
-"8701PT",28,"",""
-"8701PT",36,"",""
-"8701PT",30,"",""
-"8701PT",32,"A",""
-"8701PT",34,"F",""
-"8701PT",34,"E",""
-"8701PT",34,"K",""
-"8701PT",34,"A",""
-"8701PT",26,"",""
-"8701PT",32,"B",""
-"8701PT",28,"",""
-"8701PT",40,"",""
-"8701PT",34,"H",""
-"8701PT",34,"G",""
-"8701PT",42,"",""
-"8701PT",2,"",""
-"8701PT",34,"C",""
-"8701PT",34,"B",""
-"8701PT",34,"H",""
-"8701PT",10,"",""
-"8701PT",20,"",""
-"8701PT",22,"",""
-"8701PT",30,"",""
-"8701PT",18,"",""
-"8701PT",34,"D",""
-"8701PT",8,"",""
-"8701PT",26,"",""
-"8701PV",65,"P",""
-"8701PV",15,"F",""
-"8701PV",13,"C",""
-"8701PV",25,"",""
-"8701PV",15,"H",""
-"8701PV",67,"G",""
-"8701PV",67,"L",""
-"8701PV",13,"E",""
-"8701PV",29,"I",""
-"8701PV",13,"D",""
-"8701PV",15,"C",""
-"8701PV",13,"F",""
-"8701PV",65,"J",""
-"8701PV",15,"H",""
-"8701PV",67,"J",""
-"8701PV",67,"I",""
-"8701PV",67,"E",""
-"8701PV",13,"G",""
-"8701PV",15,"C",""
-"8701PV",27,"A",""
-"8701PV",65,"C",""
-"8701PV",65,"L",""
-"8701PV",23,"",""
-"8701PV",65,"H",""
-"8701PV",29,"K",""
-"8701PV",29,"J",""
-"8701PV",29,"D",""
-"8701PV",29,"G",""
-"8701PV",67,"F",""
-"8701PV",51,"",""
-"8701PV",53,"",""
-"8701PV",15,"E",""
-"8701PV",29,"C",""
-"8701PV",13,"I",""
-"8701PV",15,"E",""
-"8701PV",67,"N",""
-"8701PV",13,"H",""
-"8701PV",67,"B",""
-"8701PV",15,"I",""
-"8701PV",65,"I",""
-"8701PV",31,"",""
-"8701PV",65,"E",""
-"8701PV",13,"C",""
-"8701PV",35,"",""
-"8701PV",15,"D",""
-"8701PV",67,"M",""
-"8701PV",29,"L",""
-"8701PV",29,"A",""
-"8701PV",71,"",""
-"8701PV",13,"I",""
-"8701PV",65,"F",""
-"8701PV",65,"N",""
-"8701PV",65,"D",""
-"8701PV",67,"H",""
-"8701PV",67,"K",""
-"8701PV",57,"",""
-"8701PV",61,"",""
-"8701PV",65,"K",""
-"8701PV",65,"G",""
-"8701PV",75,"",""
-"8701PV",29,"B",""
-"8701PV",29,"H",""
-"8701PV",67,"C",""
-"8701PV",65,"O",""
-"8701PV",55,"",""
-"8701PV",65,"B",""
-"8701PV",65,"A",""
-"8701PV",79,"",""
-"8701PV",65,"M",""
-"8701PV",1,"",""
-"8701PV",77,"",""
-"8701PV",15,"I",""
-"8701PV",23,"A",""
-"8701PV",67,"D",""
-"8701PV",67,"O",""
-"8701PV",27,"",""
-"8701PV",29,"F",""
-"8701PV",67,"A",""
-"8701PV",59,"",""
-"8701PV",5,"",""
-"8701PV",29,"E",""
-"8701PX",2,"",""
-"8701PZ",3,"",""
-"8701PZ",2,"",""
-"8701PZ",3,"",""
-"8701PZ",1,"",""
-"8701PZ",4,"",""
-"8701PZ",1,"A",""
-"8701PZ",6,"",""
-"8701PZ",4,"A",""
-8701PB,Cnossenlaan,2,,
-8701PB,Cnossenlaan,4,,
-8701MC,De Marne,103,,
-8701MC,De Marne,102,,
-8701MC,De Marne,108,A,
-8701MC,De Marne,108,B,
-8701MC,De Marne,112,,
-8701MC,De Marne,118,,
-8701MC,De Marne,119,,
-8701MC,De Marne,136,D,
-8701MC,De Marne,136,D,
-8701MC,De Marne,136,H,
-8701MC,De Marne,136,H,
-8701MC,De Marne,136,I,
-8701MC,De Marne,136,I,
-8701MC,De Marne,136,L,
-8701MC,De Marne,136,L,
-8701MH,De Marne,207,,
-8701MH,De Marne,209,,
-8701MH,De Marne,219,,
-8701PT,De Marne,2,,
-8701PT,De Marne,8,,
-8701PT,De Marne,34,C,
-8701PT,De Marne,40,,
-8701PV,De Marne,5,,
-8701PV,De Marne,13,F,
-8701PV,De Marne,13,I,
-8701PV,De Marne,27,,
-8701PV,De Marne,29,A,
-8701PV,De Marne,29,B,
-8701PV,De Marne,29,E,
-8701PV,De Marne,29,F,
-8701PV,De Marne,29,G,
-8701PV,De Marne,29,I,
-8701PV,De Marne,31,,
-8701PV,De Marne,35,,
-8701PV,De Marne,55,,
-8701PV,De Marne,71,,
-8701PV,De Marne,77,,
-8701PX,De Syl,2,,
-8701MB,De Ward,11,A,
-8701MB,De Ward,13,A,
-8701MB,De Ward,17,A,
-8701MB,De Ward,19,A,
-8701MB,De Ward,1,A,
-8701MB,De Ward,25,A,
-8701MB,De Ward,31,A,
-8701MB,De Ward,39,A,
-8701MB,De Ward,5,A,
-8701MB,De Ward,8,A,
-8701MB,De Ward,10,,
-8701MB,De Ward,11,,
-8701MB,De Ward,17,,
-8701MB,De Ward,37,,
-8701MB,De Ward,7,,
-8701MB,De Ward,8,,
-8701MB,De Ward,15,,
-8701MB,De Ward,21,,
-8701MB,De Ward,27,,
-8701MB,De Ward,29,,
-8701PJ,Exmorraweg,1,,
-8701PJ,Exmorraweg,2,,
-8701PJ,Exmorraweg,3,,
-8701PG,Hichtumerweg,11,,
-8701PG,Hichtumerweg,3,,
-8701PG,Hichtumerweg,5,A,
-8701PG,Hichtumerweg,14,,
-8701PG,Hichtumerweg,15,,
-8701PG,Hichtumerweg,17,B,
-8701PG,Hichtumerweg,23,,
-8701PG,Hichtumerweg,29,,
-8701MG,Klaverweg,2,,
-8701MG,Klaverweg,1,,
-8701MD,Oude Rijksweg,6,,
-8701MD,Oude Rijksweg,6,,
-8701MD,Oude Rijksweg,2,,
-8701MD,Oude Rijksweg,2,,
-8701PA,Snekervaart,1,,
-8701PA,Snekervaart,5,,
-8701PA,Snekervaart,8,A,
-8701PZ,Snekerweg,1,A,
-8701PZ,Snekerweg,4,,
-8701PS,Ugoclooster,2,,
-8701PB,Cnossenlaan,3,,
-8701PB,Cnossenlaan,1,,
-8701MC,De Marne,104,,
-8701MC,De Marne,110,,
-8701MC,De Marne,111,,
-8701MC,De Marne,114,,
-8701MC,De Marne,116,,
-8701MC,De Marne,136,K,
-8701MC,De Marne,136,K,
-8701MC,De Marne,109,,
-8701MC,De Marne,136,F,
-8701MC,De Marne,136,F,
-8701MC,De Marne,101,,
-8701MC,De Marne,107,A,
-8701MC,De Marne,120,,
-8701MC,De Marne,136,C,
-8701MC,De Marne,136,C,
-8701MC,De Marne,136,G,
-8701MC,De Marne,136,G,
-8701MC,De Marne,105,,
-8701MC,De Marne,122,,
-8701MC,De Marne,136,A,
-8701MC,De Marne,136,A,
-8701MC,De Marne,136,B,
-8701MC,De Marne,136,B,
-8701MC,De Marne,136,J,
-8701MC,De Marne,136,J,
-8701MC,De Marne,118,A,
-8701MC,De Marne,106,,
-8701MC,De Marne,107,,
-8701MC,De Marne,136,E,
-8701MC,De Marne,136,E,
-8701MC,De Marne,124,,
-8701MC,De Marne,126,A,
-8701MC,De Marne,126,B,
-8701MC,De Marne,134,A,
-8701MC,De Marne,134,B,
-8701MC,De Marne,134,C,
-8701MC,De Marne,134,D,
-8701MC,De Marne,134,E,
-8701MC,De Marne,134,F,
-8701MC,De Marne,134,G,
-8701MC,De Marne,134,H,
-8701MC,De Marne,134,I,
-8701MC,De Marne,134,J,
-8701MC,De Marne,134,K,
-8701MC,De Marne,134,L,
-8701MH,De Marne,202,,
-8701MH,De Marne,204,A,
-8701MH,De Marne,204,B,
-8701MH,De Marne,204,C,
-8701MH,De Marne,204,D,
-8701MH,De Marne,204,E,
-8701MH,De Marne,204,F,
-8701MH,De Marne,204,G,
-8701MH,De Marne,204,H,
-8701MH,De Marne,204,I,
-8701MH,De Marne,204,J,
-8701MH,De Marne,204,K,
-8701MH,De Marne,204,L,
-8701MH,De Marne,204,M,
-8701MH,De Marne,204,N,
-8701MH,De Marne,204,O,
-8701MH,De Marne,204,P,
-8701MH,De Marne,204,Q,
-8701MH,De Marne,204,R,
-8701MH,De Marne,211,,
-8701PT,De Marne,34,K,
-8701PT,De Marne,30,,
-8701PT,De Marne,30,,
-8701PT,De Marne,34,B,
-8701PT,De Marne,18,,
-8701PT,De Marne,34,D,
-8701PT,De Marne,34,E,
-8701PT,De Marne,34,H,
-8701PT,De Marne,22,,
-8701PT,De Marne,26,,
-8701PT,De Marne,28,,
-8701PT,De Marne,34,A,
-8701PT,De Marne,10,,
-8701PT,De Marne,34,G,
-8701PT,De Marne,42,,
-8701PT,De Marne,20,,
-8701PT,De Marne,34,F,
-8701PT,De Marne,36,,
-8701PT,De Marne,32,A,
-8701PT,De Marne,32,B,
-8701PV,De Marne,51,,
-8701PV,De Marne,13,D,
-8701PV,De Marne,15,D,
-8701PV,De Marne,15,H,
-8701PV,De Marne,23,,
-8701PV,De Marne,13,G,
-8701PV,De Marne,13,C,
-8701PV,De Marne,13,H,
-8701PV,De Marne,15,I,
-8701PV,De Marne,25,,
-8701PV,De Marne,27,A,
-8701PV,De Marne,29,C,
-8701PV,De Marne,29,K,
-8701PV,De Marne,75,,
-8701PV,De Marne,23,A,
-8701PV,De Marne,1,,
-8701PV,De Marne,13,E,
-8701PV,De Marne,15,E,
-8701PV,De Marne,15,F,
-8701PV,De Marne,29,D,
-8701PV,De Marne,59,,
-8701PV,De Marne,29,J,
-8701PV,De Marne,79,,
-8701PV,De Marne,15,C,
-8701PV,De Marne,29,H,
-8701PV,De Marne,29,L,
-8701PV,De Marne,53,,
-8701PV,De Marne,57,,
-8701PV,De Marne,61,,
-8701PV,De Marne,67,A,
-8701PV,De Marne,67,B,
-8701PV,De Marne,67,C,
-8701PV,De Marne,67,D,
-8701PV,De Marne,67,E,
-8701PV,De Marne,67,F,
-8701PV,De Marne,67,G,
-8701PV,De Marne,67,H,
-8701PV,De Marne,67,I,
-8701PV,De Marne,67,J,
-8701PV,De Marne,67,K,
-8701PV,De Marne,67,L,
-8701PV,De Marne,67,M,
-8701PV,De Marne,67,N,
-8701PV,De Marne,67,O,
-8701PV,De Marne,65,A,
-8701PV,De Marne,65,B,
-8701PV,De Marne,65,C,
-8701PV,De Marne,65,D,
-8701PV,De Marne,65,E,
-8701PV,De Marne,65,F,
-8701PV,De Marne,65,G,
-8701PV,De Marne,65,H,
-8701PV,De Marne,65,I,
-8701PV,De Marne,65,J,
-8701PV,De Marne,65,K,
-8701PV,De Marne,65,L,
-8701PV,De Marne,65,M,
-8701PV,De Marne,65,N,
-8701PV,De Marne,65,O,
-8701PV,De Marne,65,P,
-8701MB,De Ward,12,,
-8701MB,De Ward,31,,
-8701MB,De Ward,12,A,
-8701MB,De Ward,7,A,
-8701MB,De Ward,39,,
-8701MB,De Ward,23,A,
-8701MB,De Ward,27,A,
-8701MB,De Ward,35,A,
-8701MB,De Ward,25,,
-8701MB,De Ward,21,A,
-8701MB,De Ward,29,A,
-8701MB,De Ward,37,A,
-8701MB,De Ward,9,A,
-8701MB,De Ward,13,,
-8701MB,De Ward,1,,
-8701MB,De Ward,5,,
-8701MB,De Ward,10,A,
-8701MB,De Ward,9,,
-8701MB,De Ward,35,,
-8701MB,De Ward,15,A,
-8701MB,De Ward,39,B,
-8701MB,De Ward,19,,
-8701MB,De Ward,23,,
-8701PJ,Exmorraweg,4,,
-8701PJ,Exmorraweg,8,A,
-8701PJ,Exmorraweg,9,,
-8701PJ,Exmorraweg,11,,
-8701PJ,Exmorraweg,6,,
-8701PJ,Exmorraweg,5,,
-8701PJ,Exmorraweg,7,,
-8701PG,Harlingerstraat,2,A,
-8701PG,Hichtumerweg,2,,
-8701PG,Hichtumerweg,4,,
-8701PG,Hichtumerweg,6,,
-8701PG,Hichtumerweg,5,B,
-8701PG,Hichtumerweg,13,A,
-8701PG,Hichtumerweg,21,,
-8701PG,Hichtumerweg,25,,
-8701PG,Hichtumerweg,5,C,
-8701PG,Hichtumerweg,5,D,
-8701PG,Hichtumerweg,5,E,
-8701PG,Hichtumerweg,5,A,
-8701PG,Hichtumerweg,9,,
-8701PG,Hichtumerweg,5,,
-8701PG,Hichtumerweg,8,,
-8701PG,Hichtumerweg,17,A,
-8701PG,Hichtumerweg,1,,
-8701PG,Hichtumerweg,13,,
-8701PG,Hichtumerweg,17,C,
-8701PG,Hichtumerweg,25,A,
-8701PG,Hichtumerweg,31,,
-8701PG,Hichtumerweg,2,A,
-8701PG,Hichtumerweg,5,F,
-8701PG,Hichtumerweg,5,C,
-8701PG,Hichtumerweg,27,,
-8701PG,Hichtumerweg,21,A,
-8701PG,Hichtumerweg,17,,
-8701PG,Hichtumerweg,4,A,
-8701PG,Hichtumerweg,4,B,
-8701PC,Laad en Zaad,2,,
-8701PC,Laad en Zaad,1,,
-8701PC,Laad en Zaad,3,,
-8701PC,Laad en Zaad,5,,
-8701PC,Laad en Zaad,5,,
-8701MD,Oude Rijksweg,7,,
-8701PA,Snekervaart,7,A,
-8701PA,Snekervaart,4,,
-8701PA,Snekervaart,2,,
-8701PA,Snekervaart,8,,
-8701PA,Snekervaart,3,,
-8701PA,Snekervaart,7,,
-8701PA,Snekervaart,9,,
-8701PA,Snekervaart,11,,
-8701PA,Snekervaart,6,,
-8701PA,Snekervaart,6,,
-8701PA,Snekervaart,10,,
-8701PZ,Snekerweg,3,,
-8701PZ,Snekerweg,4,A,
-8701PZ,Snekerweg,1,,
-8701PZ,Snekerweg,6,,
-8701PZ,Snekerweg,2,,
-8701PK,Tjerkwerderweg,3,,
-8701PS,Ugoclooster,1,,
-8701PS,Ugoclooster,4,,
-8701ME,Witmarsumerweg,10,,
-8701ME,Witmarsumerweg,8,,
-8701ME,Witmarsumerweg,5,,
-8701MC,De Marne,134,I,
-8701MC,De Marne,128,,
-8701MC,De Marne,110,A,
-8701MC,De Marne,110,B,
-8701MC,De Marne,110,C,
-8701MC,De Marne,110,D,
-8701MC,De Marne,110,E,
-8701MC,De Marne,110,F,
-8701MC,De Marne,110,G,
-8701MC,De Marne,110,H,
-8701MC,De Marne,110,K,
-8701MC,De Marne,110,L,
-8701MC,De Marne,110,M,
-8701MC,De Marne,110,N,
-8701MC,De Marne,110,P,
-8701MC,De Marne,110,R,
-8701MC,De Marne,110,S,
-8701MC,De Marne,110,T,
-8701MC,De Marne,110,U,
-8701MC,De Marne,110,V,
-8701MC,De Marne,110,W,
-8701MH,De Marne,216,,
-8701MH,De Marne,239,,
-8701MH,De Marne,206,,
-8701MH,De Marne,206,,
-8701MH,De Marne,205,,
-8701MH,De Marne,230,,
-8701MH,De Marne,231,,
-8701MH,De Marne,229,,
-8701MH,De Marne,224,,
-8701MH,De Marne,241,,
-8701MH,De Marne,232,A,
-8701MH,De Marne,232,A,
-8701MH,De Marne,232,A,
-8701MH,De Marne,232,B,
-8701MH,De Marne,232,B,
-8701MH,De Marne,232,B,
-8701MH,De Marne,232,C,
-8701MH,De Marne,232,C,
-8701MH,De Marne,232,C,
-8701MH,De Marne,232,D,
-8701MH,De Marne,232,D,
-8701MH,De Marne,232,D,
-8701MH,De Marne,232,E,
-8701MH,De Marne,232,E,
-8701MH,De Marne,232,E,
-8701MH,De Marne,232,F,
-8701MH,De Marne,232,F,
-8701MH,De Marne,232,F,
-8701MH,De Marne,232,G,
-8701MH,De Marne,232,G,
-8701MH,De Marne,232,G,
-8701MH,De Marne,232,H,
-8701MH,De Marne,232,H,
-8701MH,De Marne,232,H,
-8701MH,De Marne,232,K,
-8701MH,De Marne,232,K,
-8701MH,De Marne,232,K,
-8701MH,De Marne,232,L,
-8701MH,De Marne,232,L,
-8701MH,De Marne,232,L,
-8701MH,De Marne,232,M,
-8701MH,De Marne,232,M,
-8701MH,De Marne,232,M,
-8701MH,De Marne,232,N,
-8701MH,De Marne,232,N,
-8701MH,De Marne,232,N,
-8701MH,De Marne,232,P,
-8701MH,De Marne,232,P,
-8701MH,De Marne,232,P,
-8701MH,De Marne,232,R,
-8701MH,De Marne,232,R,
-8701MH,De Marne,232,R,
-8701MH,De Marne,238,,
-8701MH,De Marne,224,D,
-8701PT,De Marne,28,,
-8701PT,De Marne,34,H,
-8701PT,De Marne,34,I,
-8701PV,De Marne,67,P,
-8701PV,De Marne,11,,
-8701PV,De Marne,69,,
-8701PV,De Marne,57,A,
-8701PV,De Marne,27,B,
-8701PJ,Exmorraweg,13,,
-8701PJ,Exmorraweg,3,A,
-8701PG,Hichtumerweg,19,,
-8701PG,Hichtumerweg,14,A,
-8701MG,Klaverweg,2,A,
-8701PZ,Snekerweg,3,A,
-8701PZ,Snekerweg,3,,
-8701PZ,Snekerweg,3,B,
-8701MC,De Marne,119,A,
-8701MC,De Marne,113,A,
-8701MC,De Marne,113,B,
-8701MC,De Marne,113,C,
-8701MC,De Marne,113,D,
-8701MC,De Marne,113,E,
-8701MC,De Marne,113,F,
-8701MC,De Marne,113,G,
-8701MC,De Marne,113,H,
-8701MC,De Marne,113,K,
-8701MC,De Marne,113,L,
-8701MC,De Marne,113,M,
-8701MC,De Marne,113,N,
-8701MC,De Marne,113,P,
-8701MC,De Marne,113,R,
-8701MC,De Marne,113,S,
-8701MC,De Marne,113,T,
-8701MC,De Marne,113,U,
-8701MC,De Marne,113,V,
-8701MH,De Marne,240,A,
-8701MH,De Marne,240,B,
-8701MH,De Marne,240,C,
-8701MH,De Marne,240,D,
-8701MH,De Marne,240,E,
-8701MH,De Marne,240,F,
-8701MH,De Marne,240,G,
-8701MH,De Marne,240,H,
-8701MH,De Marne,240,K,
-8701MH,De Marne,240,L,
-8701MH,De Marne,240,M,
-8701MH,De Marne,240,N,
-8701MH,De Marne,234,,
-8701MH,De Marne,242,,
-8701MH,De Marne,242,,
-8701MH,De Marne,244,,
-8701PV,De Marne,33,,
-8701PV,De Marne,13,A,
-8701PV,De Marne,51,,
-8701PV,De Marne,51,A,
-8701PV,De Marne,51,B,
-8701PV,De Marne,51,C,
-8701PX,De Syl,3,,
-8701MB,De Ward,29,,
-8701PJ,Exmorraweg,1,,
-8701PB,Hichtumerweg,1,A,
-8701PG,Hichtumerweg,7,,
-8701PG,Hichtumerweg,33,,
-8701PG,Hichtumerweg,35,,
-8701PG,Hichtumerweg,37,,
-8701PG,Hichtumerweg,39,,
-8701PG,Hichtumerweg,41,,
-8701PG,Hichtumerweg,43,,
-8701PG,Hichtumerweg,45,,
-8701PG,Hichtumerweg,47,,
-8701PG,Hichtumerweg,1,A,
-8701PG,Hichtumerweg,49,,
-8701PG,Hichtumerweg,51,,
-8701PG,Hichtumerweg,53,,
-8701PG,Hichtumerweg,33,,
-8701PG,Hichtumerweg,35,,
-8701PG,Hichtumerweg,37,,
-8701PG,Hichtumerweg,39,,
-8701PG,Hichtumerweg,41,,
-8701PG,Hichtumerweg,43,,
-8701PG,Hichtumerweg,45,,
-8701PG,Hichtumerweg,47,,
-8701PG,Hichtumerweg,49,,
-8701PG,Hichtumerweg,51,,
-8701PG,Hichtumerweg,14,,5
-8701PG,Hichtumerweg,13,A,
-8701PG,Hichtumerweg,13,,
-8701PG,Hichtumerweg,47,,
-8701PG,Hichtumerweg,49,,
-8701PG,Hichtumerweg,3,K,
-8701PG,Hichtumerweg,3,L,
-8701PG,Hichtumerweg,3,M,
-8701PG,Hichtumerweg,3,A,
-8701PG,Hichtumerweg,3,B,
-8701PG,Hichtumerweg,3,C,
-8701PG,Hichtumerweg,3,D,
-8701PG,Hichtumerweg,3,E,
-8701PG,Hichtumerweg,3,F,
-8701PG,Hichtumerweg,3,G,
-8701PG,Hichtumerweg,3,H,
-8701PG,Hichtumerweg,3,N,
-8701PG,Hichtumerweg,3,P,
-8701PG,Hichtumerweg,3,R,
-8701PG,Hichtumerweg,3,S,
-8701MD,Oude Rijksweg,1,,
-8701ME,Witmarsumerweg,9,,
-8701ME,Witmarsumerweg,8,A,
-8701ME,Witmarsumerweg,8,B,
-8701ME,Witmarsumerweg,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Ward,1,"","",8701MB,Bolsward
+De Ward,1,A,"",8701MB,Bolsward
+De Ward,10,"","",8701MB,Bolsward
+De Ward,10,A,"",8701MB,Bolsward
+De Ward,11,"","",8701MB,Bolsward
+De Ward,11,A,"",8701MB,Bolsward
+De Ward,12,"","",8701MB,Bolsward
+De Ward,12,A,"",8701MB,Bolsward
+De Ward,13,"","",8701MB,Bolsward
+De Ward,13,A,"",8701MB,Bolsward
+De Ward,15,"","",8701MB,Bolsward
+De Ward,15,A,"",8701MB,Bolsward
+De Ward,17,"","",8701MB,Bolsward
+De Ward,17,A,"",8701MB,Bolsward
+De Ward,19,"","",8701MB,Bolsward
+De Ward,19,A,"",8701MB,Bolsward
+De Ward,21,"","",8701MB,Bolsward
+De Ward,21,A,"",8701MB,Bolsward
+De Ward,23,"","",8701MB,Bolsward
+De Ward,23,A,"",8701MB,Bolsward
+De Ward,25,"","",8701MB,Bolsward
+De Ward,25,A,"",8701MB,Bolsward
+De Ward,27,"","",8701MB,Bolsward
+De Ward,27,A,"",8701MB,Bolsward
+De Ward,29,"","",8701MB,Bolsward
+De Ward,29,"","",8701MB,Bolsward
+De Ward,29,A,"",8701MB,Bolsward
+De Ward,31,"","",8701MB,Bolsward
+De Ward,31,A,"",8701MB,Bolsward
+De Ward,35,"","",8701MB,Bolsward
+De Ward,35,A,"",8701MB,Bolsward
+De Ward,37,"","",8701MB,Bolsward
+De Ward,37,A,"",8701MB,Bolsward
+De Ward,39,"","",8701MB,Bolsward
+De Ward,39,A,"",8701MB,Bolsward
+De Ward,39,B,"",8701MB,Bolsward
+De Ward,5,"","",8701MB,Bolsward
+De Ward,5,A,"",8701MB,Bolsward
+De Ward,7,"","",8701MB,Bolsward
+De Ward,7,A,"",8701MB,Bolsward
+De Ward,8,"","",8701MB,Bolsward
+De Ward,8,A,"",8701MB,Bolsward
+De Ward,9,"","",8701MB,Bolsward
+De Ward,9,A,"",8701MB,Bolsward
+De Marne,101,"","",8701MC,Bolsward
+De Marne,102,"","",8701MC,Bolsward
+De Marne,103,"","",8701MC,Bolsward
+De Marne,104,"","",8701MC,Bolsward
+De Marne,105,"","",8701MC,Bolsward
+De Marne,106,"","",8701MC,Bolsward
+De Marne,107,"","",8701MC,Bolsward
+De Marne,107,A,"",8701MC,Bolsward
+De Marne,107,A,"",8701MC,Bolsward
+De Marne,108,A,"",8701MC,Bolsward
+De Marne,108,B,"",8701MC,Bolsward
+De Marne,109,"","",8701MC,Bolsward
+De Marne,110,"","",8701MC,Bolsward
+De Marne,111,"","",8701MC,Bolsward
+De Marne,112,"","",8701MC,Bolsward
+De Marne,114,"","",8701MC,Bolsward
+De Marne,116,"","",8701MC,Bolsward
+De Marne,118,"","",8701MC,Bolsward
+De Marne,118,A,"",8701MC,Bolsward
+De Marne,119,"","",8701MC,Bolsward
+De Marne,120,"","",8701MC,Bolsward
+De Marne,122,"","",8701MC,Bolsward
+De Marne,124,"","",8701MC,Bolsward
+De Marne,126,A,"",8701MC,Bolsward
+De Marne,126,B,"",8701MC,Bolsward
+De Marne,134,A,"",8701MC,Bolsward
+De Marne,134,B,"",8701MC,Bolsward
+De Marne,134,C,"",8701MC,Bolsward
+De Marne,134,D,"",8701MC,Bolsward
+De Marne,134,E,"",8701MC,Bolsward
+De Marne,134,F,"",8701MC,Bolsward
+De Marne,134,G,"",8701MC,Bolsward
+De Marne,134,H,"",8701MC,Bolsward
+De Marne,134,I,"",8701MC,Bolsward
+De Marne,134,I,"",8701MC,Bolsward
+De Marne,134,J,"",8701MC,Bolsward
+De Marne,134,J,"",8701MC,Bolsward
+De Marne,134,K,"",8701MC,Bolsward
+De Marne,134,L,"",8701MC,Bolsward
+De Marne,136,A,"",8701MC,Bolsward
+De Marne,136,A,"",8701MC,Bolsward
+De Marne,136,B,"",8701MC,Bolsward
+De Marne,136,B,"",8701MC,Bolsward
+De Marne,136,C,"",8701MC,Bolsward
+De Marne,136,C,"",8701MC,Bolsward
+De Marne,136,D,"",8701MC,Bolsward
+De Marne,136,D,"",8701MC,Bolsward
+De Marne,136,E,"",8701MC,Bolsward
+De Marne,136,E,"",8701MC,Bolsward
+De Marne,136,F,"",8701MC,Bolsward
+De Marne,136,F,"",8701MC,Bolsward
+De Marne,136,G,"",8701MC,Bolsward
+De Marne,136,G,"",8701MC,Bolsward
+De Marne,136,H,"",8701MC,Bolsward
+De Marne,136,H,"",8701MC,Bolsward
+De Marne,136,I,"",8701MC,Bolsward
+De Marne,136,I,"",8701MC,Bolsward
+De Marne,136,J,"",8701MC,Bolsward
+De Marne,136,J,"",8701MC,Bolsward
+De Marne,136,K,"",8701MC,Bolsward
+De Marne,136,K,"",8701MC,Bolsward
+De Marne,136,L,"",8701MC,Bolsward
+De Marne,136,L,"",8701MC,Bolsward
+Oude Rijksweg,2,"","",8701MD,Bolsward
+Oude Rijksweg,2,"","",8701MD,Bolsward
+Oude Rijksweg,6,"","",8701MD,Bolsward
+Oude Rijksweg,6,"","",8701MD,Bolsward
+Oude Rijksweg,7,"","",8701MD,Bolsward
+Witmarsumerweg,10,"","",8701ME,Bolsward
+Witmarsumerweg,5,"","",8701ME,Bolsward
+Witmarsumerweg,8,"","",8701ME,Bolsward
+Klaverweg,1,"","",8701MG,Bolsward
+Klaverweg,2,"","",8701MG,Bolsward
+De Marne,202,"","",8701MH,Bolsward
+De Marne,204,A,"",8701MH,Bolsward
+De Marne,204,B,"",8701MH,Bolsward
+De Marne,204,C,"",8701MH,Bolsward
+De Marne,204,D,"",8701MH,Bolsward
+De Marne,204,E,"",8701MH,Bolsward
+De Marne,204,F,"",8701MH,Bolsward
+De Marne,204,G,"",8701MH,Bolsward
+De Marne,204,H,"",8701MH,Bolsward
+De Marne,204,I,"",8701MH,Bolsward
+De Marne,204,J,"",8701MH,Bolsward
+De Marne,204,K,"",8701MH,Bolsward
+De Marne,204,L,"",8701MH,Bolsward
+De Marne,204,M,"",8701MH,Bolsward
+De Marne,204,N,"",8701MH,Bolsward
+De Marne,204,O,"",8701MH,Bolsward
+De Marne,204,P,"",8701MH,Bolsward
+De Marne,204,Q,"",8701MH,Bolsward
+De Marne,204,R,"",8701MH,Bolsward
+De Marne,207,"","",8701MH,Bolsward
+De Marne,209,"","",8701MH,Bolsward
+De Marne,211,"","",8701MH,Bolsward
+De Marne,219,"","",8701MH,Bolsward
+Snekervaart,1,"","",8701PA,Bolsward
+Snekervaart,10,"","",8701PA,Bolsward
+Snekervaart,11,"","",8701PA,Bolsward
+Snekervaart,2,"","",8701PA,Bolsward
+Snekervaart,3,"","",8701PA,Bolsward
+Snekervaart,4,"","",8701PA,Bolsward
+Snekervaart,5,"","",8701PA,Bolsward
+Snekervaart,6,"","",8701PA,Bolsward
+Snekervaart,6,"","",8701PA,Bolsward
+Snekervaart,7,"","",8701PA,Bolsward
+Snekervaart,7,A,"",8701PA,Bolsward
+Snekervaart,8,"","",8701PA,Bolsward
+Snekervaart,8,A,"",8701PA,Bolsward
+Snekervaart,9,"","",8701PA,Bolsward
+Cnossenlaan,1,"","",8701PB,Bolsward
+Cnossenlaan,2,"","",8701PB,Bolsward
+Cnossenlaan,3,"","",8701PB,Bolsward
+Cnossenlaan,4,"","",8701PB,Bolsward
+Laad en Zaad,1,"","",8701PC,Bolsward
+Laad en Zaad,2,"","",8701PC,Bolsward
+Laad en Zaad,3,"","",8701PC,Bolsward
+Laad en Zaad,5,"","",8701PC,Bolsward
+Laad en Zaad,5,"","",8701PC,Bolsward
+Hichtumerweg,1,"","",8701PG,Bolsward
+Hichtumerweg,11,"","",8701PG,Bolsward
+Hichtumerweg,13,"","",8701PG,Bolsward
+Hichtumerweg,13,"","",8701PG,Bolsward
+Hichtumerweg,13,A,"",8701PG,Bolsward
+Hichtumerweg,13,A,"",8701PG,Bolsward
+Hichtumerweg,14,"","",8701PG,Bolsward
+Hichtumerweg,15,"","",8701PG,Bolsward
+Hichtumerweg,17,"","",8701PG,Bolsward
+Hichtumerweg,17,A,"",8701PG,Bolsward
+Hichtumerweg,17,B,"",8701PG,Bolsward
+Hichtumerweg,17,C,"",8701PG,Bolsward
+Hichtumerweg,17,C,"",8701PG,Bolsward
+Hichtumerweg,2,"","",8701PG,Bolsward
+Hichtumerweg,2,A,"",8701PG,Bolsward
+Hichtumerweg,2,A,"",8701PG,Bolsward
+Hichtumerweg,21,"","",8701PG,Bolsward
+Hichtumerweg,21,A,"",8701PG,Bolsward
+Hichtumerweg,23,"","",8701PG,Bolsward
+Hichtumerweg,25,"","",8701PG,Bolsward
+Hichtumerweg,25,A,"",8701PG,Bolsward
+Hichtumerweg,27,"","",8701PG,Bolsward
+Hichtumerweg,29,"","",8701PG,Bolsward
+Hichtumerweg,3,"","",8701PG,Bolsward
+Hichtumerweg,31,"","",8701PG,Bolsward
+Hichtumerweg,4,"","",8701PG,Bolsward
+Hichtumerweg,4,"","",8701PG,Bolsward
+Hichtumerweg,4,A,"",8701PG,Bolsward
+Hichtumerweg,4,B,"",8701PG,Bolsward
+Hichtumerweg,5,"","",8701PG,Bolsward
+Hichtumerweg,5,A,"",8701PG,Bolsward
+Hichtumerweg,5,A,"",8701PG,Bolsward
+Hichtumerweg,5,A,"",8701PG,Bolsward
+Hichtumerweg,5,B,"",8701PG,Bolsward
+Hichtumerweg,5,B,"",8701PG,Bolsward
+Hichtumerweg,5,C,"",8701PG,Bolsward
+Hichtumerweg,5,C,"",8701PG,Bolsward
+Hichtumerweg,5,C,"",8701PG,Bolsward
+Hichtumerweg,5,D,"",8701PG,Bolsward
+Hichtumerweg,5,E,"",8701PG,Bolsward
+Hichtumerweg,5,F,"",8701PG,Bolsward
+Hichtumerweg,6,"","",8701PG,Bolsward
+Hichtumerweg,8,"","",8701PG,Bolsward
+Hichtumerweg,9,"","",8701PG,Bolsward
+Exmorraweg,1,"","",8701PJ,Bolsward
+Exmorraweg,11,"","",8701PJ,Bolsward
+Exmorraweg,2,"","",8701PJ,Bolsward
+Exmorraweg,3,"","",8701PJ,Bolsward
+Exmorraweg,4,"","",8701PJ,Bolsward
+Exmorraweg,5,"","",8701PJ,Bolsward
+Exmorraweg,6,"","",8701PJ,Bolsward
+Exmorraweg,7,"","",8701PJ,Bolsward
+Exmorraweg,8,A,"",8701PJ,Bolsward
+Exmorraweg,9,"","",8701PJ,Bolsward
+Tjerkwerderweg,3,"","",8701PK,Bolsward
+Ugoclooster,1,"","",8701PS,Bolsward
+Ugoclooster,2,"","",8701PS,Bolsward
+Ugoclooster,4,"","",8701PS,Bolsward
+De Marne,10,"","",8701PT,Bolsward
+De Marne,18,"","",8701PT,Bolsward
+De Marne,2,"","",8701PT,Bolsward
+De Marne,20,"","",8701PT,Bolsward
+De Marne,22,"","",8701PT,Bolsward
+De Marne,26,"","",8701PT,Bolsward
+De Marne,26,"","",8701PT,Bolsward
+De Marne,28,"","",8701PT,Bolsward
+De Marne,28,"","",8701PT,Bolsward
+De Marne,30,"","",8701PT,Bolsward
+De Marne,30,"","",8701PT,Bolsward
+De Marne,32,A,"",8701PT,Bolsward
+De Marne,32,B,"",8701PT,Bolsward
+De Marne,34,A,"",8701PT,Bolsward
+De Marne,34,B,"",8701PT,Bolsward
+De Marne,34,C,"",8701PT,Bolsward
+De Marne,34,D,"",8701PT,Bolsward
+De Marne,34,E,"",8701PT,Bolsward
+De Marne,34,F,"",8701PT,Bolsward
+De Marne,34,G,"",8701PT,Bolsward
+De Marne,34,H,"",8701PT,Bolsward
+De Marne,34,H,"",8701PT,Bolsward
+De Marne,34,K,"",8701PT,Bolsward
+De Marne,36,"","",8701PT,Bolsward
+De Marne,40,"","",8701PT,Bolsward
+De Marne,42,"","",8701PT,Bolsward
+De Marne,8,"","",8701PT,Bolsward
+De Marne,1,"","",8701PV,Bolsward
+De Marne,13,C,"",8701PV,Bolsward
+De Marne,13,C,"",8701PV,Bolsward
+De Marne,13,D,"",8701PV,Bolsward
+De Marne,13,E,"",8701PV,Bolsward
+De Marne,13,F,"",8701PV,Bolsward
+De Marne,13,G,"",8701PV,Bolsward
+De Marne,13,H,"",8701PV,Bolsward
+De Marne,13,I,"",8701PV,Bolsward
+De Marne,13,I,"",8701PV,Bolsward
+De Marne,15,C,"",8701PV,Bolsward
+De Marne,15,C,"",8701PV,Bolsward
+De Marne,15,D,"",8701PV,Bolsward
+De Marne,15,E,"",8701PV,Bolsward
+De Marne,15,E,"",8701PV,Bolsward
+De Marne,15,F,"",8701PV,Bolsward
+De Marne,15,H,"",8701PV,Bolsward
+De Marne,15,H,"",8701PV,Bolsward
+De Marne,15,I,"",8701PV,Bolsward
+De Marne,15,I,"",8701PV,Bolsward
+De Marne,23,"","",8701PV,Bolsward
+De Marne,23,A,"",8701PV,Bolsward
+De Marne,25,"","",8701PV,Bolsward
+De Marne,27,"","",8701PV,Bolsward
+De Marne,27,A,"",8701PV,Bolsward
+De Marne,29,A,"",8701PV,Bolsward
+De Marne,29,B,"",8701PV,Bolsward
+De Marne,29,C,"",8701PV,Bolsward
+De Marne,29,D,"",8701PV,Bolsward
+De Marne,29,E,"",8701PV,Bolsward
+De Marne,29,F,"",8701PV,Bolsward
+De Marne,29,G,"",8701PV,Bolsward
+De Marne,29,H,"",8701PV,Bolsward
+De Marne,29,I,"",8701PV,Bolsward
+De Marne,29,J,"",8701PV,Bolsward
+De Marne,29,K,"",8701PV,Bolsward
+De Marne,29,L,"",8701PV,Bolsward
+De Marne,31,"","",8701PV,Bolsward
+De Marne,35,"","",8701PV,Bolsward
+De Marne,5,"","",8701PV,Bolsward
+De Marne,51,"","",8701PV,Bolsward
+De Marne,53,"","",8701PV,Bolsward
+De Marne,55,"","",8701PV,Bolsward
+De Marne,57,"","",8701PV,Bolsward
+De Marne,59,"","",8701PV,Bolsward
+De Marne,61,"","",8701PV,Bolsward
+De Marne,65,A,"",8701PV,Bolsward
+De Marne,65,B,"",8701PV,Bolsward
+De Marne,65,C,"",8701PV,Bolsward
+De Marne,65,D,"",8701PV,Bolsward
+De Marne,65,E,"",8701PV,Bolsward
+De Marne,65,F,"",8701PV,Bolsward
+De Marne,65,G,"",8701PV,Bolsward
+De Marne,65,H,"",8701PV,Bolsward
+De Marne,65,I,"",8701PV,Bolsward
+De Marne,65,J,"",8701PV,Bolsward
+De Marne,65,K,"",8701PV,Bolsward
+De Marne,65,L,"",8701PV,Bolsward
+De Marne,65,M,"",8701PV,Bolsward
+De Marne,65,N,"",8701PV,Bolsward
+De Marne,65,O,"",8701PV,Bolsward
+De Marne,65,P,"",8701PV,Bolsward
+De Marne,67,A,"",8701PV,Bolsward
+De Marne,67,B,"",8701PV,Bolsward
+De Marne,67,C,"",8701PV,Bolsward
+De Marne,67,D,"",8701PV,Bolsward
+De Marne,67,E,"",8701PV,Bolsward
+De Marne,67,F,"",8701PV,Bolsward
+De Marne,67,G,"",8701PV,Bolsward
+De Marne,67,H,"",8701PV,Bolsward
+De Marne,67,I,"",8701PV,Bolsward
+De Marne,67,J,"",8701PV,Bolsward
+De Marne,67,K,"",8701PV,Bolsward
+De Marne,67,L,"",8701PV,Bolsward
+De Marne,67,M,"",8701PV,Bolsward
+De Marne,67,N,"",8701PV,Bolsward
+De Marne,67,O,"",8701PV,Bolsward
+De Marne,71,"","",8701PV,Bolsward
+De Marne,75,"","",8701PV,Bolsward
+De Marne,77,"","",8701PV,Bolsward
+De Marne,79,"","",8701PV,Bolsward
+De Syl,2,"","",8701PX,Bolsward
+Snekerweg,1,"","",8701PZ,Bolsward
+Snekerweg,1,A,"",8701PZ,Bolsward
+Snekerweg,2,"","",8701PZ,Bolsward
+Snekerweg,3,"","",8701PZ,Bolsward
+Snekerweg,3,"","",8701PZ,Bolsward
+Snekerweg,4,"","",8701PZ,Bolsward
+Snekerweg,4,A,"",8701PZ,Bolsward
+Snekerweg,6,"","",8701PZ,Bolsward

@@ -1,68 +1,68 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9265XL,Monnikenweg,1,,
-9265XL,Monnikenweg,2,,
-9265XL,Monnikenweg,4,,
-9265XL,Monnikenweg,5,,
-9265XK,Alde Lunewei,1,,
-9265XK,Alde Lunewei,2,,
-9265XK,Alde Lunewei,3,,
-9265XK,Alde Lunewei,2,A,
-9265XK,Alde Lunewei,2,A,
-9265XJ,Aldemiede,1,,
-9265XJ,Aldemiede,2,,
-9265XJ,Aldemiede,2,A,
-9265XJ,Aldemiede,3,,
-9265XJ,Aldemiede,4,,
-9265XJ,Aldemiede,5,,
-9265XJ,Aldemiede,6,,
-9265XJ,Aldemiede,7,,
-9265XJ,Aldemiede,8,,
-9265XJ,Aldemiede,9,,
-9265XJ,Aldemiede,10,,
-9265XJ,Aldemiede,11,,
-9265XJ,Aldemiede,12,,
-9265XJ,Aldemiede,13,,
-9265XJ,Aldemiede,14,,
-9265XJ,Aldemiede,10,A,
-9265XN,De Warren,1,,
-9265XN,De Warren,2,,
-9265XN,De Warren,3,,
-9265XN,De Warren,5,,
-9265XN,De Warren,7,,
-9265XN,De Warren,1,A,
-9265XN,De Warren,5,,
-9265XM,Louwsmarwei,1,,
-9265XM,Louwsmarwei,2,,
-9265XM,Louwsmarwei,3,,
-9265XM,Louwsmarwei,4,,
-9265XM,Louwsmarwei,5,,
-9265XM,Louwsmarwei,6,,
-9265LM,Noorderend,1,,
-9265LM,Noorderend,2,,
-9265LM,Noorderend,3,,
-9265LM,Noorderend,4,,
-9265LM,Noorderend,5,,
-9265LM,Noorderend,6,,
-9265LM,Noorderend,7,,
-9265LM,Noorderend,8,,
-9265LM,Noorderend,9,,
-9265LM,Noorderend,10,,
-9265LM,Noorderend,11,,
-9265LM,Noorderend,12,,
-9265LM,Noorderend,13,,
-9265LM,Noorderend,14,,
-9265LM,Noorderend,15,,
-9265LM,Noorderend,16,,
-9265LM,Noorderend,17,,
-9265LM,Noorderend,19,,
-9265LM,Noorderend,22,,
-9265LM,Noorderend,24,,
-9265LM,Noorderend,26,,
-9265LM,Noorderend,6,A,
-9265LM,Noorderend,2,A,
-9265LM,Noorderend,9,C,
-9265LM,Noorderend,9,A,
-9265LM,Noorderend,9,B,
-9265LM,Noorderend,9,A,1
-9265LM,Noorderend,9,A,2
-9265XJ,Aldemiede,5,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Noorderend,1,"","",9265LM,Suwâld
+Noorderend,10,"","",9265LM,Suwâld
+Noorderend,11,"","",9265LM,Suwâld
+Noorderend,12,"","",9265LM,Suwâld
+Noorderend,13,"","",9265LM,Suwâld
+Noorderend,14,"","",9265LM,Suwâld
+Noorderend,15,"","",9265LM,Suwâld
+Noorderend,16,"","",9265LM,Suwâld
+Noorderend,17,"","",9265LM,Suwâld
+Noorderend,19,"","",9265LM,Suwâld
+Noorderend,2,"","",9265LM,Suwâld
+Noorderend,2,A,"",9265LM,Suwâld
+Noorderend,22,"","",9265LM,Suwâld
+Noorderend,24,"","",9265LM,Suwâld
+Noorderend,26,"","",9265LM,Suwâld
+Noorderend,3,"","",9265LM,Suwâld
+Noorderend,4,"","",9265LM,Suwâld
+Noorderend,5,"","",9265LM,Suwâld
+Noorderend,6,"","",9265LM,Suwâld
+Noorderend,6,A,"",9265LM,Suwâld
+Noorderend,7,"","",9265LM,Suwâld
+Noorderend,8,"","",9265LM,Suwâld
+Noorderend,9,"","",9265LM,Suwâld
+Noorderend,9,A,"",9265LM,Suwâld
+Noorderend,9,A,1,9265LM,Suwâld
+Noorderend,9,A,2,9265LM,Suwâld
+Noorderend,9,B,"",9265LM,Suwâld
+Noorderend,9,C,"",9265LM,Suwâld
+Aldemiede,1,"","",9265XJ,Suwâld
+Aldemiede,10,"","",9265XJ,Suwâld
+Aldemiede,10,A,"",9265XJ,Suwâld
+Aldemiede,11,"","",9265XJ,Suwâld
+Aldemiede,12,"","",9265XJ,Suwâld
+Aldemiede,13,"","",9265XJ,Suwâld
+Aldemiede,14,"","",9265XJ,Suwâld
+Aldemiede,2,"","",9265XJ,Suwâld
+Aldemiede,2,A,"",9265XJ,Suwâld
+Aldemiede,3,"","",9265XJ,Suwâld
+Aldemiede,4,"","",9265XJ,Suwâld
+Aldemiede,5,"","",9265XJ,Suwâld
+Aldemiede,5,A,"",9265XJ,Suwâld
+Aldemiede,6,"","",9265XJ,Suwâld
+Aldemiede,7,"","",9265XJ,Suwâld
+Aldemiede,8,"","",9265XJ,Suwâld
+Aldemiede,9,"","",9265XJ,Suwâld
+Alde Lunewei,1,"","",9265XK,Suwâld
+Alde Lunewei,2,"","",9265XK,Suwâld
+Alde Lunewei,2,A,"",9265XK,Suwâld
+Alde Lunewei,2,A,"",9265XK,Suwâld
+Alde Lunewei,3,"","",9265XK,Suwâld
+Monnikenweg,1,"","",9265XL,Suwâld
+Monnikenweg,2,"","",9265XL,Suwâld
+Monnikenweg,4,"","",9265XL,Suwâld
+Monnikenweg,5,"","",9265XL,Suwâld
+Louwsmarwei,1,"","",9265XM,Suwâld
+Louwsmarwei,2,"","",9265XM,Suwâld
+Louwsmarwei,3,"","",9265XM,Suwâld
+Louwsmarwei,4,"","",9265XM,Suwâld
+Louwsmarwei,5,"","",9265XM,Suwâld
+Louwsmarwei,6,"","",9265XM,Suwâld
+De Warren,1,"","",9265XN,Suwâld
+De Warren,1,A,"",9265XN,Suwâld
+De Warren,2,"","",9265XN,Suwâld
+De Warren,3,"","",9265XN,Suwâld
+De Warren,5,"","",9265XN,Suwâld
+De Warren,5,"","",9265XN,Suwâld
+De Warren,7,"","",9265XN,Suwâld

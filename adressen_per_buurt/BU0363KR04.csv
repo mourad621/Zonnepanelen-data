@@ -1,37 +1,37 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1083AB,Amsteldijk,316,,
-1083AB,Amsteldijk,319,,
-1083AB,Amsteldijk,320,,
-1083AB,Amsteldijk,355,,
-1083AC,De Borcht,2,,
-1083AC,De Borcht,3,,
-1083AC,De Borcht,4,,
-1083AC,De Borcht,6,,
-1083AC,De Borcht,10,,
-1083HZ,Amstelpark,4,,
-1083HZ,Amstelpark,6,,
-1083HZ,Amstelpark,7,,
-1083HZ,Amstelpark,13,,
-1083HZ,Amstelpark,15,,
-1083HZ,Amstelpark,18,,
-1083HZ,Amstelpark,11,A,
-1083HZ,Amstelpark,22,,
-1083HZ,Amstelpark,5,,
-1083HZ,Amstelpark,9,,
-1083HZ,Amstelpark,2,A,
-1083HZ,Amstelpark,2,B,
-1083HZ,Amstelpark,3,B,
-1083HZ,Amstelpark,10,A,
-1083HZ,Amstelpark,10,B,
-1083HZ,Amstelpark,19,,
-1083HZ,Amstelpark,20,,
-1083HZ,Amstelpark,1,,
-1083HZ,Amstelpark,12,,
-1083HZ,Amstelpark,17,,
-1083HZ,Amstelpark,9,C,
-1083HZ,Amstelpark,9,A,
-1083HZ,Amstelpark,9,B,
-1083AC,De Borcht,3,,
-1083AB,Amsteldijk,316,,
-1083HZ,Amstelpark,2,C,
-1083HZ,Amstelpark,2,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Amsteldijk,316,"","",1083AB,Amsterdam
+Amsteldijk,316,"","",1083AB,Amsterdam
+Amsteldijk,319,"","",1083AB,Amsterdam
+Amsteldijk,320,"","",1083AB,Amsterdam
+Amsteldijk,355,"","",1083AB,Amsterdam
+De Borcht,10,"","",1083AC,Amsterdam
+De Borcht,2,"","",1083AC,Amsterdam
+De Borcht,3,"","",1083AC,Amsterdam
+De Borcht,3,"","",1083AC,Amsterdam
+De Borcht,4,"","",1083AC,Amsterdam
+De Borcht,6,"","",1083AC,Amsterdam
+Amstelpark,1,"","",1083HZ,Amsterdam
+Amstelpark,10,A,"",1083HZ,Amsterdam
+Amstelpark,10,B,"",1083HZ,Amsterdam
+Amstelpark,11,A,"",1083HZ,Amsterdam
+Amstelpark,12,"","",1083HZ,Amsterdam
+Amstelpark,13,"","",1083HZ,Amsterdam
+Amstelpark,15,"","",1083HZ,Amsterdam
+Amstelpark,17,"","",1083HZ,Amsterdam
+Amstelpark,18,"","",1083HZ,Amsterdam
+Amstelpark,19,"","",1083HZ,Amsterdam
+Amstelpark,2,A,"",1083HZ,Amsterdam
+Amstelpark,2,B,"",1083HZ,Amsterdam
+Amstelpark,2,C,"",1083HZ,Amsterdam
+Amstelpark,2,C,"",1083HZ,Amsterdam
+Amstelpark,20,"","",1083HZ,Amsterdam
+Amstelpark,22,"","",1083HZ,Amsterdam
+Amstelpark,3,B,"",1083HZ,Amsterdam
+Amstelpark,4,"","",1083HZ,Amsterdam
+Amstelpark,5,"","",1083HZ,Amsterdam
+Amstelpark,6,"","",1083HZ,Amsterdam
+Amstelpark,7,"","",1083HZ,Amsterdam
+Amstelpark,9,"","",1083HZ,Amsterdam
+Amstelpark,9,A,"",1083HZ,Amsterdam
+Amstelpark,9,B,"",1083HZ,Amsterdam
+Amstelpark,9,C,"",1083HZ,Amsterdam

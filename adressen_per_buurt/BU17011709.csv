@@ -1,22 +1,22 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8387XN,Boylerstraat,4,,
-8387XN,Boylerstraat,8,,
-8387XN,Boylerstraat,8,t,
-8387XN,Boylerstraat,10,,
-8387GK,Jongkindt Conincklaan,1,,
-8387GK,Jongkindt Conincklaan,3,,
-8387GK,Jongkindt Conincklaan,4,,
-8387GK,Jongkindt Conincklaan,5,,
-8385GJ,Werkhorstlaan,1,,
-8385GJ,Werkhorstlaan,2,,
-8385GJ,Werkhorstlaan,3,,
-8385GJ,Werkhorstlaan,4,,
-8385GJ,Werkhorstlaan,5,,
-8387GK,Jongkindt Conincklaan,8,,
-8387GK,Jongkindt Conincklaan,6,,
-8387GL,Schoollaan,1,,
-8387GL,Schoollaan,3,,
-8387GL,Schoollaan,5,,
-8387GL,Schoollaan,6,,
-8387GL,Schoollaan,2,,
-8387GL,Schoollaan,5,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Werkhorstlaan,1,"","",8385GJ,Vledderveen
+Werkhorstlaan,2,"","",8385GJ,Vledderveen
+Werkhorstlaan,3,"","",8385GJ,Vledderveen
+Werkhorstlaan,4,"","",8385GJ,Vledderveen
+Werkhorstlaan,5,"","",8385GJ,Vledderveen
+Jongkindt Conincklaan,1,"","",8387GK,Boschoord
+Jongkindt Conincklaan,3,"","",8387GK,Boschoord
+Jongkindt Conincklaan,4,"","",8387GK,Boschoord
+Jongkindt Conincklaan,5,"","",8387GK,Boschoord
+Jongkindt Conincklaan,6,"","",8387GK,Boschoord
+Jongkindt Conincklaan,8,"","",8387GK,Boschoord
+Schoollaan,1,"","",8387GL,Boschoord
+Schoollaan,2,"","",8387GL,Boschoord
+Schoollaan,3,"","",8387GL,Boschoord
+Schoollaan,5,"","",8387GL,Boschoord
+Schoollaan,5,A,"",8387GL,Boschoord
+Schoollaan,6,"","",8387GL,Boschoord
+Boylerstraat,10,"","",8387XN,Boschoord
+Boylerstraat,4,"","",8387XN,Boschoord
+Boylerstraat,8,"","",8387XN,Boschoord
+Boylerstraat,8,T,"",8387XN,Boschoord

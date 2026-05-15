@@ -1,50 +1,51 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7415CG",137,"",""
-"7415CG",111,"",""
-"7415CG",115,"",""
-"7415CG",123,"",""
-"7415CG",139,"",""
-"7415CG",113,"",""
-"7415CG",135,"",""
-"7415CG",141,"",""
-"7415CG",117,"",""
-"7415CG",109,"",""
-"7415CG",119,"",""
-"7415CG",127,"",""
-"7415CG",125,"",""
-"7415CG",105,"",""
-"7415CG",101,"",""
-"7415CG",107,"",""
-"7415CG",103,"",""
-"7415CG",121,"",""
-"7416SB",1,"",""
-"7416SB",1,"T",""
-"7416SB",1,"T",""
-"7416SE",85,"",""
-"7416SE",85,"G","1"
-"7416SE",65,"",""
-"7416SE",75,"",""
-7415CG,Brinkgreverweg,101,,
-7415CG,Brinkgreverweg,103,,
-7415CG,Brinkgreverweg,105,,
-7415CG,Brinkgreverweg,107,,
-7415CG,Brinkgreverweg,109,,
-7415CG,Brinkgreverweg,111,,
-7415CG,Brinkgreverweg,113,,
-7415CG,Brinkgreverweg,115,,
-7415CG,Brinkgreverweg,117,,
-7415CG,Brinkgreverweg,119,,
-7415CG,Brinkgreverweg,121,,
-7415CG,Brinkgreverweg,123,,
-7415CG,Brinkgreverweg,125,,
-7415CG,Brinkgreverweg,127,,
-7416SB,Nico Bolkesteinlaan,1,T,
-7416SB,Nico Bolkesteinlaan,1,,
-7416SE,Nico Bolkesteinlaan,65,,
-7416SE,Nico Bolkesteinlaan,75,,
-7416SE,Nico Bolkesteinlaan,85,,
-7415CG,Brinkgreverweg,135,,
-7415CG,Brinkgreverweg,137,,
-7415CG,Brinkgreverweg,139,,
-7415CG,Brinkgreverweg,141,,
-7416SE,Nico Bolkesteinlaan,85,G,1
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+137,"","","",7415CG,
+111,"","","",7415CG,
+115,"","","",7415CG,
+123,"","","",7415CG,
+139,"","","",7415CG,
+113,"","","",7415CG,
+135,"","","",7415CG,
+141,"","","",7415CG,
+117,"","","",7415CG,
+109,"","","",7415CG,
+119,"","","",7415CG,
+127,"","","",7415CG,
+125,"","","",7415CG,
+105,"","","",7415CG,
+101,"","","",7415CG,
+107,"","","",7415CG,
+103,"","","",7415CG,
+121,"","","",7415CG,
+Brinkgreverweg,101,"","",7415CG,Deventer
+Brinkgreverweg,103,"","",7415CG,Deventer
+Brinkgreverweg,105,"","",7415CG,Deventer
+Brinkgreverweg,107,"","",7415CG,Deventer
+Brinkgreverweg,109,"","",7415CG,Deventer
+Brinkgreverweg,111,"","",7415CG,Deventer
+Brinkgreverweg,113,"","",7415CG,Deventer
+Brinkgreverweg,115,"","",7415CG,Deventer
+Brinkgreverweg,117,"","",7415CG,Deventer
+Brinkgreverweg,119,"","",7415CG,Deventer
+Brinkgreverweg,121,"","",7415CG,Deventer
+Brinkgreverweg,123,"","",7415CG,Deventer
+Brinkgreverweg,125,"","",7415CG,Deventer
+Brinkgreverweg,127,"","",7415CG,Deventer
+Brinkgreverweg,135,"","",7415CG,Deventer
+Brinkgreverweg,137,"","",7415CG,Deventer
+Brinkgreverweg,139,"","",7415CG,Deventer
+Brinkgreverweg,141,"","",7415CG,Deventer
+1,"","","",7416SB,
+Nico Bolkesteinlaan,1,"","",7416SB,Deventer
+Nico Bolkesteinlaan,1,T,"",7416SB,Deventer
+1,T,"","",7416SB,
+1,T,"","",7416SB,
+85,"","","",7416SE,
+65,"","","",7416SE,
+75,"","","",7416SE,
+Nico Bolkesteinlaan,65,"","",7416SE,Deventer
+Nico Bolkesteinlaan,75,"","",7416SE,Deventer
+Nico Bolkesteinlaan,85,"","",7416SE,Deventer
+Nico Bolkesteinlaan,85,G,1,7416SE,Deventer
+85,G,1,"",7416SE,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

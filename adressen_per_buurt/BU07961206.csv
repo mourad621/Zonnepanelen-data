@@ -1,10 +1,10 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5221TP,Meerheuvelweg,1,,
-5221TM,De Bellaard,1,,
-5221TM,De Bellaard,5,,
-5221TL,De Steenbeemden,1,,
-5221TM,De Bellaard,3,,
-5221TN,Engelenseweg,2,,
-5221TN,Engelenseweg,4,,
-5221TP,Meerheuvelweg,2,,
-5221TP,Meerheuvelweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Steenbeemden,1,"","",5221TL,'s-Hertogenbosch
+De Bellaard,1,"","",5221TM,'s-Hertogenbosch
+De Bellaard,3,"","",5221TM,'s-Hertogenbosch
+De Bellaard,5,"","",5221TM,'s-Hertogenbosch
+Engelenseweg,2,"","",5221TN,'s-Hertogenbosch
+Engelenseweg,4,"","",5221TN,'s-Hertogenbosch
+Meerheuvelweg,1,"","",5221TP,'s-Hertogenbosch
+Meerheuvelweg,2,"","",5221TP,'s-Hertogenbosch
+Meerheuvelweg,3,"","",5221TP,'s-Hertogenbosch

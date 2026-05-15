@@ -1,105 +1,105 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9984XD,Oostpolderweg,27,,by01
-9984XD,Oostpolderweg,27,,by02
-9984NS,Buitenweg,1,,
-9984NS,Buitenweg,3,,
-9984NS,Buitenweg,5,,
-9984NS,Buitenweg,2,,
-9984NS,Buitenweg,2,a,
-9984NS,Buitenweg,2,A,
-9984NS,Buitenweg,4,,
-9984NS,Buitenweg,6,,
-9984NS,Buitenweg,8,,
-9984XA,Derk Luddesweg,3,,
-9984XA,Derk Luddesweg,5,,
-9984XA,Derk Luddesweg,19,,
-9984XA,Derk Luddesweg,21,,
-9984XA,Derk Luddesweg,23,,
-9984XB,Derk Luddesweg,6,,
-9984XB,Derk Luddesweg,8,,
-9984XB,Derk Luddesweg,12,,
-9984XB,Derk Luddesweg,14,,
-9984XB,Derk Luddesweg,16,,
-9984XB,Derk Luddesweg,18,,
-9984XB,Derk Luddesweg,20,,
-9984XB,Derk Luddesweg,22,,
-9984XB,Derk Luddesweg,24,,
-9984XB,Derk Luddesweg,26,,
-9984XB,Derk Luddesweg,30,,
-9984XB,Derk Luddesweg,32,,
-9984NV,Dijkweg,1,,
-9984NV,Dijkweg,7,,
-9984NV,Dijkweg,9,,
-9984NV,Dijkweg,11,,
-9984NV,Dijkweg,17,,
-9984NV,Dijkweg,19,,
-9984NV,Dijkweg,21,,
-9984NV,Dijkweg,25,,
-9984NV,Dijkweg,27,,
-9984NV,Dijkweg,29,,
-9984NV,Dijkweg,31,,
-9984NV,Dijkweg,33,,
-9984NV,Dijkweg,35,,
-9984NV,Dijkweg,39,,
-9984NV,Dijkweg,43,,
-9984NV,Dijkweg,45,,
-9984NX,Dijkweg,51,,
-9984NX,Dijkweg,53,,
-9984NX,Dijkweg,59,,
-9984NX,Dijkweg,63,,
-9984NX,Dijkweg,79,,
-9984NX,Dijkweg,85,,
-9984NX,Dijkweg,87,,
-9984NX,Dijkweg,89,,
-9984NX,Dijkweg,93,,
-9984NX,Dijkweg,95,,
-9984NX,Dijkweg,99,,
-9984NX,Dijkweg,101,,
-9984NX,Dijkweg,103,,
-9984NX,Dijkweg,105,,
-9984NX,Dijkweg,107,,
-9984XC,Molenweg,7,,
-9984XC,Molenweg,9,,
-9984XC,Molenweg,11,,
-9984XC,Molenweg,13,,
-9984XC,Molenweg,15,,
-9984XC,Molenweg,17,,
-9984XC,Molenweg,19,,
-9984XC,Molenweg,23,,
-9984XC,Molenweg,25,,
-9984XC,Molenweg,27,,
-9984XC,Molenweg,29,,
-9984XC,Molenweg,31,,
-9984XD,Molenweg,32,,
-9984XD,Molenweg,16,,
-9984XD,Molenweg,2,,
-9984XD,Molenweg,4,,
-9984XD,Molenweg,6,,
-9984XD,Molenweg,8,,
-9984XD,Molenweg,10,,
-9984XD,Molenweg,12,,
-9984XD,Molenweg,18,,
-9984XD,Molenweg,26,,
-9984XD,Molenweg,28,,
-9984XD,Molenweg,30,,
-9984XD,Molenweg,34,,
-9984XD,Molenweg,36,,
-9984XD,Molenweg,40,,
-9984XD,Molenweg,46,,
-9984XD,Molenweg,14,,
-9984XB,Derk Luddesweg,4,a,
-9984XB,Derk Luddesweg,30,a,
-9984XB,Derk Luddesweg,6,a,
-9984XB,Derk Luddesweg,6,a,
-9984XB,Derk Luddesweg,6,A,
-9984NV,Dijkweg,3,,
-9984NV,Dijkweg,2,,
-9984NV,Dijkweg,14,,
-9984NX,Dijkweg,109,,
-9984XC,Molenweg,5,,
-9984XC,Molenweg,21,,
-9984XC,Molenweg,3,,
-9984XC,Molenweg,3,,
-9984XD,Molenweg,20,,
-9984NS,Buitenweg,1,,
-9984XA,Derk Luddesweg,17,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Buitenweg,1,"","",9984NS,Oudeschip
+Buitenweg,1,"","",9984NS,Oudeschip
+Buitenweg,2,"","",9984NS,Oudeschip
+Buitenweg,2,A,"",9984NS,Oudeschip
+Buitenweg,2,A,"",9984NS,Oudeschip
+Buitenweg,3,"","",9984NS,Oudeschip
+Buitenweg,4,"","",9984NS,Oudeschip
+Buitenweg,5,"","",9984NS,Oudeschip
+Buitenweg,6,"","",9984NS,Oudeschip
+Buitenweg,8,"","",9984NS,Oudeschip
+Dijkweg,1,"","",9984NV,Oudeschip
+Dijkweg,11,"","",9984NV,Oudeschip
+Dijkweg,14,"","",9984NV,Oudeschip
+Dijkweg,17,"","",9984NV,Oudeschip
+Dijkweg,19,"","",9984NV,Oudeschip
+Dijkweg,2,"","",9984NV,Oudeschip
+Dijkweg,21,"","",9984NV,Oudeschip
+Dijkweg,25,"","",9984NV,Oudeschip
+Dijkweg,27,"","",9984NV,Oudeschip
+Dijkweg,29,"","",9984NV,Oudeschip
+Dijkweg,3,"","",9984NV,Oudeschip
+Dijkweg,31,"","",9984NV,Oudeschip
+Dijkweg,33,"","",9984NV,Oudeschip
+Dijkweg,35,"","",9984NV,Oudeschip
+Dijkweg,39,"","",9984NV,Oudeschip
+Dijkweg,43,"","",9984NV,Oudeschip
+Dijkweg,45,"","",9984NV,Oudeschip
+Dijkweg,7,"","",9984NV,Oudeschip
+Dijkweg,9,"","",9984NV,Oudeschip
+Dijkweg,101,"","",9984NX,Oudeschip
+Dijkweg,103,"","",9984NX,Oudeschip
+Dijkweg,105,"","",9984NX,Oudeschip
+Dijkweg,107,"","",9984NX,Oudeschip
+Dijkweg,109,"","",9984NX,Oudeschip
+Dijkweg,51,"","",9984NX,Oudeschip
+Dijkweg,53,"","",9984NX,Oudeschip
+Dijkweg,59,"","",9984NX,Oudeschip
+Dijkweg,63,"","",9984NX,Oudeschip
+Dijkweg,79,"","",9984NX,Oudeschip
+Dijkweg,85,"","",9984NX,Oudeschip
+Dijkweg,87,"","",9984NX,Oudeschip
+Dijkweg,89,"","",9984NX,Oudeschip
+Dijkweg,93,"","",9984NX,Oudeschip
+Dijkweg,95,"","",9984NX,Oudeschip
+Dijkweg,99,"","",9984NX,Oudeschip
+Derk Luddesweg,17,"","",9984XA,Oudeschip
+Derk Luddesweg,19,"","",9984XA,Oudeschip
+Derk Luddesweg,21,"","",9984XA,Oudeschip
+Derk Luddesweg,23,"","",9984XA,Oudeschip
+Derk Luddesweg,3,"","",9984XA,Oudeschip
+Derk Luddesweg,5,"","",9984XA,Oudeschip
+Derk Luddesweg,12,"","",9984XB,Oudeschip
+Derk Luddesweg,14,"","",9984XB,Oudeschip
+Derk Luddesweg,16,"","",9984XB,Oudeschip
+Derk Luddesweg,18,"","",9984XB,Oudeschip
+Derk Luddesweg,20,"","",9984XB,Oudeschip
+Derk Luddesweg,22,"","",9984XB,Oudeschip
+Derk Luddesweg,24,"","",9984XB,Oudeschip
+Derk Luddesweg,26,"","",9984XB,Oudeschip
+Derk Luddesweg,30,"","",9984XB,Oudeschip
+Derk Luddesweg,30,A,"",9984XB,Oudeschip
+Derk Luddesweg,32,"","",9984XB,Oudeschip
+Derk Luddesweg,4,A,"",9984XB,Oudeschip
+Derk Luddesweg,6,"","",9984XB,Oudeschip
+Derk Luddesweg,6,A,"",9984XB,Oudeschip
+Derk Luddesweg,6,A,"",9984XB,Oudeschip
+Derk Luddesweg,6,A,"",9984XB,Oudeschip
+Derk Luddesweg,8,"","",9984XB,Oudeschip
+Molenweg,11,"","",9984XC,Oudeschip
+Molenweg,13,"","",9984XC,Oudeschip
+Molenweg,15,"","",9984XC,Oudeschip
+Molenweg,17,"","",9984XC,Oudeschip
+Molenweg,19,"","",9984XC,Oudeschip
+Molenweg,21,"","",9984XC,Oudeschip
+Molenweg,23,"","",9984XC,Oudeschip
+Molenweg,25,"","",9984XC,Oudeschip
+Molenweg,27,"","",9984XC,Oudeschip
+Molenweg,29,"","",9984XC,Oudeschip
+Molenweg,3,"","",9984XC,Oudeschip
+Molenweg,3,"","",9984XC,Oudeschip
+Molenweg,31,"","",9984XC,Oudeschip
+Molenweg,5,"","",9984XC,Oudeschip
+Molenweg,7,"","",9984XC,Oudeschip
+Molenweg,9,"","",9984XC,Oudeschip
+Molenweg,10,"","",9984XD,Oudeschip
+Molenweg,12,"","",9984XD,Oudeschip
+Molenweg,14,"","",9984XD,Oudeschip
+Molenweg,16,"","",9984XD,Oudeschip
+Molenweg,18,"","",9984XD,Oudeschip
+Molenweg,2,"","",9984XD,Oudeschip
+Molenweg,20,"","",9984XD,Oudeschip
+Molenweg,26,"","",9984XD,Oudeschip
+Oostpolderweg,27,"",BY01,9984XD,Eemshaven
+Oostpolderweg,27,"",BY02,9984XD,Eemshaven
+Molenweg,28,"","",9984XD,Oudeschip
+Molenweg,30,"","",9984XD,Oudeschip
+Molenweg,32,"","",9984XD,Oudeschip
+Molenweg,34,"","",9984XD,Oudeschip
+Molenweg,36,"","",9984XD,Oudeschip
+Molenweg,4,"","",9984XD,Oudeschip
+Molenweg,40,"","",9984XD,Oudeschip
+Molenweg,46,"","",9984XD,Oudeschip
+Molenweg,6,"","",9984XD,Oudeschip
+Molenweg,8,"","",9984XD,Oudeschip

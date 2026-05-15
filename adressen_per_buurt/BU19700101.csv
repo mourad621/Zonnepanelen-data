@@ -1,47 +1,48 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9124EP",2,"",""
-"9124EP",2,"T",""
-"9124EP",4,"",""
-"9124EP",1,"",""
-"9124ER",45,"",""
-"9124ER",43,"",""
-"9124ER",43,"",""
-"9124ER",49,"",""
-"9124ER",43,"",""
-"9124ER",38,"",""
-"9124ER",47,"",""
-"9124ER",40,"",""
-"9124ER",40,"T",""
-"9124ER",43,"A",""
-"9124ES",4,"",""
-"9124ES",9,"",""
-"9124ES",7,"",""
-"9124ES",6,"",""
-"9124ES",6,"A",""
-"9124ES",6,"",""
-"9124ES",2,"",""
-"9124ES",1,"",""
-"9124ES",6,"",""
-"9124ES",3,"",""
-9124ER,Humaldawei,38,,
-9124ER,Humaldawei,40,,
-9124ER,Humaldawei,40,T,
-9124ER,Humaldawei,43,,
-9124ER,Humaldawei,45,,
-9124ER,Humaldawei,47,,
-9124ER,Humaldawei,49,,
-9124ES,Bergsmawei,1,,
-9124ES,Bergsmawei,3,,
-9124ES,Bergsmawei,4,,
-9124ES,Bergsmawei,6,,
-9124ES,Bergsmawei,6,A,
-9124ES,Bergsmawei,9,,
-9124ER,Humaldawei,43,,
-9124ER,Humaldawei,43,A,
-9124ES,Bergsmawei,2,,
-9124ES,Bergsmawei,7,,
-9124ES,Bergsmawei,6,,
-9124EP,Winia's Reed,1,,
-9124EP,Winia's Reed,2,,
-9124EP,Winia's Reed,4,,
-9124EP,Winia's Reed,2,T,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+2,"","","",9124EP,
+4,"","","",9124EP,
+1,"","","",9124EP,
+Winia's Reed,1,"","",9124EP,Jouswier
+Winia's Reed,2,"","",9124EP,Jouswier
+Winia's Reed,2,T,"",9124EP,Jouswier
+Winia's Reed,4,"","",9124EP,Jouswier
+2,T,"","",9124EP,
+45,"","","",9124ER,
+43,"","","",9124ER,
+43,"","","",9124ER,
+49,"","","",9124ER,
+43,"","","",9124ER,
+38,"","","",9124ER,
+47,"","","",9124ER,
+40,"","","",9124ER,
+Humaldawei,38,"","",9124ER,Jouswier
+Humaldawei,40,"","",9124ER,Jouswier
+Humaldawei,40,T,"",9124ER,Jouswier
+Humaldawei,43,"","",9124ER,Jouswier
+Humaldawei,43,"","",9124ER,Jouswier
+Humaldawei,43,A,"",9124ER,Jouswier
+Humaldawei,45,"","",9124ER,Jouswier
+Humaldawei,47,"","",9124ER,Jouswier
+Humaldawei,49,"","",9124ER,Jouswier
+43,A,"","",9124ER,
+40,T,"","",9124ER,
+4,"","","",9124ES,
+9,"","","",9124ES,
+7,"","","",9124ES,
+6,"","","",9124ES,
+6,"","","",9124ES,
+2,"","","",9124ES,
+1,"","","",9124ES,
+6,"","","",9124ES,
+3,"","","",9124ES,
+Bergsmawei,1,"","",9124ES,Jouswier
+Bergsmawei,2,"","",9124ES,Jouswier
+Bergsmawei,3,"","",9124ES,Jouswier
+Bergsmawei,4,"","",9124ES,Jouswier
+Bergsmawei,6,"","",9124ES,Jouswier
+Bergsmawei,6,"","",9124ES,Jouswier
+Bergsmawei,6,A,"",9124ES,Jouswier
+Bergsmawei,7,"","",9124ES,Jouswier
+Bergsmawei,9,"","",9124ES,Jouswier
+6,A,"","",9124ES,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

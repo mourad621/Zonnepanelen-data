@@ -1,118 +1,119 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8926XB",10,"",""
-"8926XB",11,"",""
-"8926XB",10,"",""
-"8926XB",10,"a",""
-"8926XB",9,"",""
-"8926XB",12,"",""
-"8926XB",13,"k",""
-"8926XB",10,"",""
-"8926XB",13,"",""
-"8926XD",30,"",""
-"8926XD",30,"",""
-"8926XD",30,"",""
-"8926XD",101,"",""
-"8926XD",101,"",""
-"8926XE",12,"a",""
-"8926XE",12,"",""
-"8926XE",2,"",""
-"8926XE",19,"",""
-"8926XE",11,"",""
-"8926XE",4,"",""
-"8926XE",15,"",""
-"8926XE",14,"",""
-"8926XE",12,"b",""
-"8926XE",12,"c",""
-"8926XE",1,"",""
-"8926XE",7,"",""
-"8926XE",3,"",""
-"8926XE",9,"",""
-"8926XE",6,"",""
-"8926XE",4,"",""
-"8926XE",18,"",""
-"8926XE",10,"",""
-"8926XE",20,"",""
-"8926XE",5,"",""
-"8926XE",8,"",""
-"8926XE",2,"",""
-"8926XE",17,"",""
-"8926XE",13,"",""
-"8926XJ",19,"",""
-"8926XJ",12,"",""
-"8926XJ",6,"",""
-"8926XJ",13,"",""
-"8926XJ",16,"",""
-"8926XJ",18,"",""
-"8926XJ",8,"",""
-"8926XJ",9,"",""
-"8926XJ",2,"",""
-"8926XJ",15,"",""
-"8926XJ",17,"",""
-"8926XJ",14,"",""
-"8926XJ",10,"",""
-"8926XJ",11,"",""
-"8926XJ",20,"",""
-"8926XJ",5,"",""
-"8926XJ",3,"",""
-"8926XJ",7,"",""
-"8926XJ",4,"",""
-"8926XJ",1,"",""
-"8926XK",5,"",""
-"8926XK",7,"",""
-8926XB,Alddiel,9,,
-8926XE,De Groene Ster,1,,
-8926XE,De Groene Ster,2,,
-8926XE,De Groene Ster,2,,
-8926XE,De Groene Ster,7,,
-8926XE,De Groene Ster,8,,
-8926XE,De Groene Ster,9,,
-8926XE,De Groene Ster,11,,
-8926XE,De Groene Ster,12,,
-8926XE,De Groene Ster,13,,
-8926XE,De Groene Ster,14,,
-8926XE,De Groene Ster,17,,
-8926XE,De Groene Ster,18,,
-8926XE,De Groene Ster,20,,
-8926XJ,Wielendwinger,4,,
-8926XJ,Wielendwinger,6,,
-8926XJ,Wielendwinger,8,,
-8926XJ,Wielendwinger,9,,
-8926XJ,Wielendwinger,11,,
-8926XJ,Wielendwinger,13,,
-8926XJ,Wielendwinger,14,,
-8926XJ,Wielendwinger,15,,
-8926XJ,Wielendwinger,16,,
-8926XJ,Wielendwinger,18,,
-8926XJ,Wielendwinger,20,,
-8926XB,Alddiel,13,k,
-8926XB,Alddiel,11,,
-8926XE,De Groene Ster,12,a,
-8926XE,De Groene Ster,12,b,
-8926XE,De Groene Ster,15,,
-8926XJ,Wielendwinger,10,,
-8926XJ,Wielendwinger,2,,
-8926XJ,Wielendwinger,7,,
-8926XJ,Wielendwinger,19,,
-8926XB,Alddiel,10,,
-8926XB,Alddiel,13,,
-8926XB,Alddiel,12,,
-8926XE,De Groene Ster,3,,
-8926XE,De Groene Ster,5,,
-8926XE,De Groene Ster,10,,
-8926XE,De Groene Ster,19,,
-8926XJ,Wielendwinger,1,,
-8926XJ,Wielendwinger,17,,
-8926XD,Woelwijk,30,,
-8926XD,Woelwijk,101,,
-8926XD,Woelwijk,101,,
-8926XE,De Groene Ster,12,c,
-8926XJ,Wielendwinger,3,,
-8926XJ,Wielendwinger,5,,
-8926XJ,Wielendwinger,12,,
-8926XK,Oer de bril,5,,
-8926XK,Oer de bril,7,,
-8926XB,Alddiel,10,,
-8926XB,Alddiel,10,a,
-8926XD,Woelwijk,30,,
-8926XE,De Groene Ster,4,,
-8926XE,De Groene Ster,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+10,"","","",8926XB,
+11,"","","",8926XB,
+10,"","","",8926XB,
+9,"","","",8926XB,
+12,"","","",8926XB,
+10,"","","",8926XB,
+13,"","","",8926XB,
+Alddiel,10,"","",8926XB,Leeuwarden
+Alddiel,10,"","",8926XB,Leeuwarden
+Alddiel,10,A,"",8926XB,Leeuwarden
+Alddiel,11,"","",8926XB,Leeuwarden
+Alddiel,12,"","",8926XB,Leeuwarden
+Alddiel,13,"","",8926XB,Leeuwarden
+Alddiel,13,K,"",8926XB,Leeuwarden
+Alddiel,9,"","",8926XB,Leeuwarden
+10,A,"","",8926XB,
+13,K,"","",8926XB,
+30,"","","",8926XD,
+30,"","","",8926XD,
+30,"","","",8926XD,
+101,"","","",8926XD,
+101,"","","",8926XD,
+Woelwijk,101,"","",8926XD,Leeuwarden
+Woelwijk,101,"","",8926XD,Leeuwarden
+Woelwijk,30,"","",8926XD,Leeuwarden
+Woelwijk,30,"","",8926XD,Leeuwarden
+12,"","","",8926XE,
+2,"","","",8926XE,
+19,"","","",8926XE,
+11,"","","",8926XE,
+4,"","","",8926XE,
+15,"","","",8926XE,
+14,"","","",8926XE,
+1,"","","",8926XE,
+7,"","","",8926XE,
+3,"","","",8926XE,
+9,"","","",8926XE,
+6,"","","",8926XE,
+4,"","","",8926XE,
+18,"","","",8926XE,
+10,"","","",8926XE,
+20,"","","",8926XE,
+5,"","","",8926XE,
+8,"","","",8926XE,
+2,"","","",8926XE,
+17,"","","",8926XE,
+13,"","","",8926XE,
+De Groene Ster,1,"","",8926XE,Leeuwarden
+De Groene Ster,10,"","",8926XE,Leeuwarden
+De Groene Ster,11,"","",8926XE,Leeuwarden
+De Groene Ster,12,"","",8926XE,Leeuwarden
+De Groene Ster,12,A,"",8926XE,Leeuwarden
+De Groene Ster,12,B,"",8926XE,Leeuwarden
+De Groene Ster,12,C,"",8926XE,Leeuwarden
+De Groene Ster,13,"","",8926XE,Leeuwarden
+De Groene Ster,14,"","",8926XE,Leeuwarden
+De Groene Ster,15,"","",8926XE,Leeuwarden
+De Groene Ster,17,"","",8926XE,Leeuwarden
+De Groene Ster,18,"","",8926XE,Leeuwarden
+De Groene Ster,19,"","",8926XE,Leeuwarden
+De Groene Ster,2,"","",8926XE,Leeuwarden
+De Groene Ster,2,"","",8926XE,Leeuwarden
+De Groene Ster,20,"","",8926XE,Leeuwarden
+De Groene Ster,3,"","",8926XE,Leeuwarden
+De Groene Ster,4,"","",8926XE,Leeuwarden
+De Groene Ster,5,"","",8926XE,Leeuwarden
+De Groene Ster,6,"","",8926XE,Leeuwarden
+De Groene Ster,7,"","",8926XE,Leeuwarden
+De Groene Ster,8,"","",8926XE,Leeuwarden
+De Groene Ster,9,"","",8926XE,Leeuwarden
+12,A,"","",8926XE,
+12,B,"","",8926XE,
+12,C,"","",8926XE,
+19,"","","",8926XJ,
+12,"","","",8926XJ,
+6,"","","",8926XJ,
+13,"","","",8926XJ,
+16,"","","",8926XJ,
+18,"","","",8926XJ,
+8,"","","",8926XJ,
+9,"","","",8926XJ,
+2,"","","",8926XJ,
+15,"","","",8926XJ,
+17,"","","",8926XJ,
+14,"","","",8926XJ,
+10,"","","",8926XJ,
+11,"","","",8926XJ,
+20,"","","",8926XJ,
+5,"","","",8926XJ,
+3,"","","",8926XJ,
+7,"","","",8926XJ,
+4,"","","",8926XJ,
+1,"","","",8926XJ,
+Wielendwinger,1,"","",8926XJ,Leeuwarden
+Wielendwinger,10,"","",8926XJ,Leeuwarden
+Wielendwinger,11,"","",8926XJ,Leeuwarden
+Wielendwinger,12,"","",8926XJ,Leeuwarden
+Wielendwinger,13,"","",8926XJ,Leeuwarden
+Wielendwinger,14,"","",8926XJ,Leeuwarden
+Wielendwinger,15,"","",8926XJ,Leeuwarden
+Wielendwinger,16,"","",8926XJ,Leeuwarden
+Wielendwinger,17,"","",8926XJ,Leeuwarden
+Wielendwinger,18,"","",8926XJ,Leeuwarden
+Wielendwinger,19,"","",8926XJ,Leeuwarden
+Wielendwinger,2,"","",8926XJ,Leeuwarden
+Wielendwinger,20,"","",8926XJ,Leeuwarden
+Wielendwinger,3,"","",8926XJ,Leeuwarden
+Wielendwinger,4,"","",8926XJ,Leeuwarden
+Wielendwinger,5,"","",8926XJ,Leeuwarden
+Wielendwinger,6,"","",8926XJ,Leeuwarden
+Wielendwinger,7,"","",8926XJ,Leeuwarden
+Wielendwinger,8,"","",8926XJ,Leeuwarden
+Wielendwinger,9,"","",8926XJ,Leeuwarden
+5,"","","",8926XK,
+7,"","","",8926XK,
+Oer de bril,5,"","",8926XK,Leeuwarden
+Oer de bril,7,"","",8926XK,Leeuwarden
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

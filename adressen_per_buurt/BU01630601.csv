@@ -1,478 +1,236 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7443ME",53,"",""
-"7443ME",43,"",""
-"7443ME",37,"",""
-"7443ME",25,"",""
-"7443ME",7,"",""
-"7443ME",47,"",""
-"7443ME",55,"",""
-"7443ME",41,"",""
-"7443ME",27,"",""
-"7443ME",31,"",""
-"7443ME",39,"",""
-"7443ME",65,"",""
-"7443ME",23,"",""
-"7443ME",3,"",""
-"7443ME",57,"",""
-"7443ME",29,"",""
-"7443ME",9,"",""
-"7443ME",67,"",""
-"7443ME",45,"",""
-"7443ME",15,"",""
-"7443ME",61,"",""
-"7443ME",1,"",""
-"7443ME",19,"",""
-"7443ME",11,"",""
-"7443ME",17,"",""
-"7443ME",33,"",""
-"7443ME",49,"",""
-"7443ME",59,"",""
-"7443ME",21,"",""
-"7443ME",5,"",""
-"7443ME",35,"",""
-"7443ME",51,"",""
-"7443ME",13,"",""
-"7443MG",16,"",""
-"7443MG",62,"",""
-"7443MG",20,"",""
-"7443MG",28,"",""
-"7443MG",26,"",""
-"7443MG",42,"",""
-"7443MG",30,"",""
-"7443MG",64,"",""
-"7443MG",60,"",""
-"7443MG",56,"",""
-"7443MG",18,"",""
-"7443MG",22,"",""
-"7443MG",32,"",""
-"7443MG",34,"",""
-"7443MG",52,"",""
-"7443MG",2,"",""
-"7443MG",24,"",""
-"7443MG",14,"",""
-"7443MG",8,"",""
-"7443MG",66,"",""
-"7443MG",58,"",""
-"7443MG",6,"",""
-"7443MG",4,"",""
-"7443RA",12,"",""
-"7443RA",21,"",""
-"7443RA",19,"",""
-"7443RA",6,"",""
-"7443RA",4,"",""
-"7443RB",31,"",""
-"7443RB",39,"a",""
-"7443RB",39,"b",""
-"7443RB",27,"",""
-"7443RB",39,"",""
-"7443RB",45,"",""
-"7443RB",33,"",""
-"7443RB",45,"a",""
-"7443RB",23,"",""
-"7443RB",43,"",""
-"7443RB",47,"",""
-"7443RB",25,"",""
-"7443RB",37,"",""
-"7443RB",35,"",""
-"7443RB",41,"a",""
-"7443RB",41,"",""
-"7443RB",49,"",""
-"7443RB",41,"b",""
-"7443RB",29,"",""
-"7443RC",14,"",""
-"7443RC",20,"",""
-"7443RC",30,"",""
-"7443RC",18,"a",""
-"7443RC",22,"",""
-"7443RC",12,"",""
-"7443RC",18,"",""
-"7443RC",28,"",""
-"7443RC",26,"",""
-"7443RC",24,"",""
-"7443RC",1,"",""
-"7443RC",16,"",""
-"7443RD",36,"a",""
-"7443RD",42,"",""
-"7443RD",38,"a",""
-"7443RD",56,"",""
-"7443RD",42,"a",""
-"7443RD",38,"",""
-"7443RD",40,"",""
-"7443RD",62,"",""
-"7443RD",50,"",""
-"7443RD",46,"","02"
-"7443RD",34,"",""
-"7443RD",60,"",""
-"7443RD",46,"","01"
-"7443RD",62,"",""
-"7443RD",58,"",""
-"7443RD",32,"",""
-"7443RD",36,"",""
-"7443RD",46,"","02"
-"7443RD",48,"",""
-"7443RD",46,"",""
-"7443RD",46,"","01"
-"7443RD",46,"a",""
-"7443RD",52,"",""
-"7443RD",44,"",""
-"7443RD",60,"",""
-"7443RD",54,"",""
-"7443RG",23,"b",""
-"7443RG",29,"",""
-"7443RG",25,"",""
-"7443RG",1,"",""
-"7443RG",7,"",""
-"7443RG",23,"",""
-"7443RG",9,"",""
-"7443RG",13,"",""
-"7443RG",15,"",""
-"7443RG",5,"",""
-"7443RG",27,"",""
-"7443RG",19,"",""
-"7443RG",23,"a",""
-"7443RG",21,"b",""
-"7443RG",3,"",""
-"7443RG",21,"a",""
-"7443RG",11,"",""
-"7443RG",21,"",""
-"7443RG",17,"",""
-"7443RH",6,"",""
-"7443RH",26,"",""
-"7443RH",8,"",""
-"7443RH",4,"",""
-"7443RH",14,"",""
-"7443RH",22,"",""
-"7443RH",18,"",""
-"7443RH",12,"",""
-"7443RH",24,"",""
-"7443RH",16,"",""
-"7443RH",10,"",""
-"7443RH",20,"",""
-"7443RH",28,"",""
-"7443RM",7,"",""
-"7443RM",3,"",""
-"7443RM",15,"",""
-"7443RM",11,"",""
-"7443RM",7,"",""
-"7443RM",9,"d",""
-"7443RM",13,"",""
-"7443RM",7,"","BEDR"
-"7443RM",9,"c",""
-"7443RM",9,"b",""
-"7443RM",7,"","BEDR"
-"7443RM",9,"",""
-"7443RM",5,"",""
-"7443RM",9,"a",""
-"7443RP",10,"","BEDR"
-"7443RP",12,"b",""
-"7443RP",12,"",""
-"7443RP",12,"a",""
-"7443RP",10,"a",""
-"7443RP",10,"a",""
-"7443RP",16,"",""
-"7443RP",10,"",""
-"7443RP",14,"",""
-"7443RP",14,"a",""
-"7443RP",10,"","BEDR"
-"7443RS",39,"",""
-"7443RS",37,"",""
-"7443RS",47,"",""
-"7443RS",29,"",""
-"7443RS",1,"",""
-"7443RS",43,"",""
-"7443RS",45,"",""
-"7443RS",27,"",""
-"7443RS",3,"",""
-"7443RS",49,"",""
-"7443RS",31,"",""
-"7443RS",35,"",""
-"7443RS",23,"",""
-"7443RS",33,"",""
-"7443RS",51,"",""
-"7443RS",25,"",""
-"7443RS",41,"",""
-"7443RS",21,"",""
-"7443RS",5,"",""
-"7443RS",5,"a",""
-"7443RT",28,"",""
-"7443RT",2,"c",""
-"7443RT",26,"",""
-"7443RT",2,"c",""
-"7443RT",20,"",""
-"7443RT",18,"",""
-"7443RT",2,"b",""
-"7443RT",30,"",""
-"7443RT",10,"a",""
-"7443RT",24,"",""
-"7443RT",22,"",""
-"7443RT",14,"",""
-"7443RT",4,"",""
-"7443RT",12,"",""
-"7443RT",10,"",""
-"7443RT",30,"a",""
-"7443RT",2,"",""
-"7443RT",8,"",""
-"7443RT",16,"",""
-"7443RT",6,"",""
-"7443RT",4,"a",""
-"7443RT",2,"a",""
-"7443ST",2,"",""
-"7443ST",5,"",""
-"7443ST",1,"",""
-"7443ST",7,"",""
-"7443ST",3,"",""
-"7443TZ",8,"",""
-"7443TZ",14,"",""
-"7443TZ",7,"",""
-"7443TZ",11,"",""
-"7443TZ",1,"",""
-"7443TZ",6,"",""
-"7443TZ",9,"",""
-"7443TZ",10,"",""
-"7443TZ",3,"",""
-"7443TZ",4,"",""
-"7443TZ",12,"",""
-"7443TZ",5,"",""
-"7443TZ",16,"",""
-7443RM,Collenstaartweg,3,,
-7443RM,Collenstaartweg,7,,BEDR
-7443RM,Collenstaartweg,7,,BEDR
-7443RM,Collenstaartweg,9,,
-7443RM,Collenstaartweg,9,a,
-7443RM,Collenstaartweg,9,c,
-7443RM,Collenstaartweg,9,d,
-7443RM,Collenstaartweg,11,,
-7443RM,Collenstaartweg,13,,
-7443RP,Collenstaartweg,10,,
-7443RP,Collenstaartweg,10,a,
-7443RP,Collenstaartweg,12,,
-7443RP,Collenstaartweg,12,a,
-7443RP,Collenstaartweg,14,,
-7443RP,Collenstaartweg,14,a,
-7443RP,Collenstaartweg,16,,
-7443RA,G H Kappertstraat,19,,
-7443RB,G H Kappertstraat,23,,
-7443RB,G H Kappertstraat,27,,
-7443RB,G H Kappertstraat,29,,
-7443RB,G H Kappertstraat,31,,
-7443RB,G H Kappertstraat,33,,
-7443RB,G H Kappertstraat,35,,
-7443RB,G H Kappertstraat,37,,
-7443RB,G H Kappertstraat,39,,
-7443RB,G H Kappertstraat,39,a,
-7443RB,G H Kappertstraat,41,,
-7443RB,G H Kappertstraat,41,a,
-7443RB,G H Kappertstraat,43,,
-7443RB,G H Kappertstraat,45,,
-7443RB,G H Kappertstraat,45,a,
-7443RB,G H Kappertstraat,49,,
-7443RC,G H Kappertstraat,12,,
-7443RC,G H Kappertstraat,14,,
-7443RC,G H Kappertstraat,18,,
-7443RC,G H Kappertstraat,18,a,
-7443RC,G H Kappertstraat,20,,
-7443RC,G H Kappertstraat,22,,
-7443RC,G H Kappertstraat,24,,
-7443RC,G H Kappertstraat,26,,
-7443RC,G H Kappertstraat,28,,
-7443RD,G H Kappertstraat,32,,
-7443RD,G H Kappertstraat,36,,
-7443RD,G H Kappertstraat,36,a,
-7443RD,G H Kappertstraat,38,a,
-7443RD,G H Kappertstraat,40,,
-7443RD,G H Kappertstraat,42,,
-7443RD,G H Kappertstraat,46,,01
-7443RD,G H Kappertstraat,46,,01
-7443RD,G H Kappertstraat,46,,02
-7443RD,G H Kappertstraat,46,,02
-7443RD,G H Kappertstraat,46,a,
-7443RD,G H Kappertstraat,48,,
-7443RD,G H Kappertstraat,50,,
-7443RD,G H Kappertstraat,56,,
-7443RD,G H Kappertstraat,58,,
-7443RD,G H Kappertstraat,60,,
-7443RD,G H Kappertstraat,60,,
-7443RD,G H Kappertstraat,62,,
-7443RD,G H Kappertstraat,62,,
-7443ST,Tijhuiserve,1,,
-7443ST,Tijhuiserve,3,,
-7443RS,Zuidelijke Hoofddijk,1,,
-7443RS,Zuidelijke Hoofddijk,3,,
-7443RS,Zuidelijke Hoofddijk,5,,
-7443RS,Zuidelijke Hoofddijk,5,a,
-7443RS,Zuidelijke Hoofddijk,27,,
-7443RT,Zuidelijke Hoofddijk,2,,
-7443RT,Zuidelijke Hoofddijk,2,a,
-7443RT,Zuidelijke Hoofddijk,2,b,
-7443RT,Zuidelijke Hoofddijk,4,,
-7443RT,Zuidelijke Hoofddijk,4,a,
-7443RT,Zuidelijke Hoofddijk,6,,
-7443RT,Zuidelijke Hoofddijk,10,a,
-7443RT,Zuidelijke Hoofddijk,12,,
-7443RT,Zuidelijke Hoofddijk,14,,
-7443RT,Zuidelijke Hoofddijk,18,,
-7443RT,Zuidelijke Hoofddijk,20,,
-7443RT,Zuidelijke Hoofddijk,24,,
-7443RT,Zuidelijke Hoofddijk,26,,
-7443RT,Zuidelijke Hoofddijk,28,,
-7443ME,Penningkruid,5,,
-7443ME,Penningkruid,9,,
-7443ME,Penningkruid,11,,
-7443ME,Penningkruid,13,,
-7443ME,Penningkruid,15,,
-7443ME,Penningkruid,17,,
-7443ME,Penningkruid,19,,
-7443ME,Penningkruid,23,,
-7443ME,Penningkruid,25,,
-7443ME,Penningkruid,27,,
-7443ME,Penningkruid,29,,
-7443ME,Penningkruid,31,,
-7443ME,Penningkruid,35,,
-7443ME,Penningkruid,37,,
-7443ME,Penningkruid,41,,
-7443ME,Penningkruid,43,,
-7443ME,Penningkruid,45,,
-7443ME,Penningkruid,49,,
-7443ME,Penningkruid,51,,
-7443ME,Penningkruid,53,,
-7443ME,Penningkruid,57,,
-7443ME,Penningkruid,59,,
-7443ME,Penningkruid,65,,
-7443ME,Penningkruid,67,,
-7443MG,Penningkruid,58,,
-7443MG,Penningkruid,4,,
-7443MG,Penningkruid,6,,
-7443MG,Penningkruid,8,,
-7443MG,Penningkruid,16,,
-7443MG,Penningkruid,20,,
-7443MG,Penningkruid,22,,
-7443MG,Penningkruid,26,,
-7443MG,Penningkruid,30,,
-7443MG,Penningkruid,32,,
-7443MG,Penningkruid,34,,
-7443MG,Penningkruid,42,,
-7443MG,Penningkruid,52,,
-7443MG,Penningkruid,66,,
-7443MG,Penningkruid,62,,
-7443MG,Penningkruid,64,,
-7443RA,Sportlaan,4,,
-7443RA,Sportlaan,6,,
-7443RA,Sportlaan,12,,
-7443RC,Sportlaan,1,,
-7443RM,Collenstaartweg,5,,
-7443RM,Collenstaartweg,7,,
-7443RM,Collenstaartweg,7,,
-7443RM,Collenstaartweg,9,b,
-7443RM,Collenstaartweg,15,,
-7443RP,Collenstaartweg,10,,BEDR
-7443RP,Collenstaartweg,10,,BEDR
-7443RP,Collenstaartweg,12,b,
-7443RA,G H Kappertstraat,21,,
-7443RB,G H Kappertstraat,41,b,
-7443RB,G H Kappertstraat,25,,
-7443RB,G H Kappertstraat,39,b,
-7443RB,G H Kappertstraat,47,,
-7443RC,G H Kappertstraat,16,,
-7443RC,G H Kappertstraat,30,,
-7443RD,G H Kappertstraat,54,,
-7443RD,G H Kappertstraat,44,,
-7443RD,G H Kappertstraat,52,,
-7443RD,G H Kappertstraat,34,,
-7443RD,G H Kappertstraat,38,,
-7443RD,G H Kappertstraat,42,a,
-7443RD,G H Kappertstraat,46,,
-7443RG,Olde Blenkestraat,5,,
-7443RG,Olde Blenkestraat,7,,
-7443RG,Olde Blenkestraat,9,,
-7443RG,Olde Blenkestraat,11,,
-7443RG,Olde Blenkestraat,15,,
-7443RG,Olde Blenkestraat,17,,
-7443RG,Olde Blenkestraat,19,,
-7443RG,Olde Blenkestraat,21,,
-7443RG,Olde Blenkestraat,21,b,
-7443RG,Olde Blenkestraat,23,,
-7443RG,Olde Blenkestraat,23,a,
-7443RG,Olde Blenkestraat,25,,
-7443RG,Olde Blenkestraat,29,,
-7443RG,Olde Blenkestraat,1,,
-7443RG,Olde Blenkestraat,3,,
-7443RG,Olde Blenkestraat,13,,
-7443RG,Olde Blenkestraat,21,a,
-7443RG,Olde Blenkestraat,23,b,
-7443RG,Olde Blenkestraat,27,,
-7443RH,Olde Blenkestraat,12,,
-7443RH,Olde Blenkestraat,4,,
-7443RH,Olde Blenkestraat,6,,
-7443RH,Olde Blenkestraat,10,,
-7443RH,Olde Blenkestraat,14,,
-7443RH,Olde Blenkestraat,16,,
-7443RH,Olde Blenkestraat,20,,
-7443RH,Olde Blenkestraat,22,,
-7443RH,Olde Blenkestraat,24,,
-7443RH,Olde Blenkestraat,26,,
-7443RH,Olde Blenkestraat,28,,
-7443RH,Olde Blenkestraat,8,,
-7443RH,Olde Blenkestraat,18,,
-7443TZ,Sionserf,6,,
-7443TZ,Sionserf,1,,
-7443TZ,Sionserf,3,,
-7443TZ,Sionserf,4,,
-7443TZ,Sionserf,5,,
-7443TZ,Sionserf,7,,
-7443TZ,Sionserf,8,,
-7443TZ,Sionserf,9,,
-7443TZ,Sionserf,10,,
-7443TZ,Sionserf,11,,
-7443TZ,Sionserf,12,,
-7443TZ,Sionserf,14,,
-7443TZ,Sionserf,16,,
-7443ST,Tijhuiserve,5,,
-7443ST,Tijhuiserve,2,,
-7443RS,Zuidelijke Hoofddijk,29,,
-7443RS,Zuidelijke Hoofddijk,31,,
-7443RS,Zuidelijke Hoofddijk,33,,
-7443RS,Zuidelijke Hoofddijk,35,,
-7443RS,Zuidelijke Hoofddijk,37,,
-7443RS,Zuidelijke Hoofddijk,39,,
-7443RS,Zuidelijke Hoofddijk,41,,
-7443RS,Zuidelijke Hoofddijk,43,,
-7443RS,Zuidelijke Hoofddijk,45,,
-7443RS,Zuidelijke Hoofddijk,47,,
-7443RS,Zuidelijke Hoofddijk,49,,
-7443RS,Zuidelijke Hoofddijk,51,,
-7443RS,Zuidelijke Hoofddijk,23,,
-7443RS,Zuidelijke Hoofddijk,21,,
-7443RS,Zuidelijke Hoofddijk,25,,
-7443RT,Zuidelijke Hoofddijk,22,,
-7443RT,Zuidelijke Hoofddijk,30,a,
-7443RT,Zuidelijke Hoofddijk,30,,
-7443RT,Zuidelijke Hoofddijk,10,,
-7443RT,Zuidelijke Hoofddijk,16,,
-7443RT,Zuidelijke Hoofddijk,8,,
-7443RT,Zuidelijke Hoofddijk,2,c,
-7443RT,Zuidelijke Hoofddijk,2,c,
-7443ME,Penningkruid,55,,
-7443ME,Penningkruid,1,,
-7443ME,Penningkruid,21,,
-7443ME,Penningkruid,61,,
-7443ME,Penningkruid,3,,
-7443ME,Penningkruid,7,,
-7443ME,Penningkruid,33,,
-7443ME,Penningkruid,39,,
-7443ME,Penningkruid,47,,
-7443MG,Penningkruid,60,,
-7443MG,Penningkruid,2,,
-7443MG,Penningkruid,14,,
-7443MG,Penningkruid,18,,
-7443MG,Penningkruid,24,,
-7443MG,Penningkruid,28,,
-7443MG,Penningkruid,56,,
-7443RB,G H Kappertstraat,43,,01
-7443RB,G H Kappertstraat,43,,02
-7443RB,G H Kappertstraat,43,,03
-7443RB,G H Kappertstraat,43,,04
-7443RB,G H Kappertstraat,43,,101
-7443RB,G H Kappertstraat,43,,102
-7443RB,G H Kappertstraat,43,,103
-7443RB,G H Kappertstraat,43,,104
-7443ST,Tijhuiserve,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Penningkruid,1,"","",7443ME,Nijverdal
+Penningkruid,11,"","",7443ME,Nijverdal
+Penningkruid,13,"","",7443ME,Nijverdal
+Penningkruid,15,"","",7443ME,Nijverdal
+Penningkruid,17,"","",7443ME,Nijverdal
+Penningkruid,19,"","",7443ME,Nijverdal
+Penningkruid,21,"","",7443ME,Nijverdal
+Penningkruid,23,"","",7443ME,Nijverdal
+Penningkruid,25,"","",7443ME,Nijverdal
+Penningkruid,27,"","",7443ME,Nijverdal
+Penningkruid,29,"","",7443ME,Nijverdal
+Penningkruid,3,"","",7443ME,Nijverdal
+Penningkruid,31,"","",7443ME,Nijverdal
+Penningkruid,33,"","",7443ME,Nijverdal
+Penningkruid,35,"","",7443ME,Nijverdal
+Penningkruid,37,"","",7443ME,Nijverdal
+Penningkruid,39,"","",7443ME,Nijverdal
+Penningkruid,41,"","",7443ME,Nijverdal
+Penningkruid,43,"","",7443ME,Nijverdal
+Penningkruid,45,"","",7443ME,Nijverdal
+Penningkruid,47,"","",7443ME,Nijverdal
+Penningkruid,49,"","",7443ME,Nijverdal
+Penningkruid,5,"","",7443ME,Nijverdal
+Penningkruid,51,"","",7443ME,Nijverdal
+Penningkruid,53,"","",7443ME,Nijverdal
+Penningkruid,55,"","",7443ME,Nijverdal
+Penningkruid,57,"","",7443ME,Nijverdal
+Penningkruid,59,"","",7443ME,Nijverdal
+Penningkruid,61,"","",7443ME,Nijverdal
+Penningkruid,65,"","",7443ME,Nijverdal
+Penningkruid,67,"","",7443ME,Nijverdal
+Penningkruid,7,"","",7443ME,Nijverdal
+Penningkruid,9,"","",7443ME,Nijverdal
+Penningkruid,14,"","",7443MG,Nijverdal
+Penningkruid,16,"","",7443MG,Nijverdal
+Penningkruid,18,"","",7443MG,Nijverdal
+Penningkruid,2,"","",7443MG,Nijverdal
+Penningkruid,20,"","",7443MG,Nijverdal
+Penningkruid,22,"","",7443MG,Nijverdal
+Penningkruid,24,"","",7443MG,Nijverdal
+Penningkruid,26,"","",7443MG,Nijverdal
+Penningkruid,28,"","",7443MG,Nijverdal
+Penningkruid,30,"","",7443MG,Nijverdal
+Penningkruid,32,"","",7443MG,Nijverdal
+Penningkruid,34,"","",7443MG,Nijverdal
+Penningkruid,4,"","",7443MG,Nijverdal
+Penningkruid,42,"","",7443MG,Nijverdal
+Penningkruid,52,"","",7443MG,Nijverdal
+Penningkruid,56,"","",7443MG,Nijverdal
+Penningkruid,58,"","",7443MG,Nijverdal
+Penningkruid,6,"","",7443MG,Nijverdal
+Penningkruid,60,"","",7443MG,Nijverdal
+Penningkruid,62,"","",7443MG,Nijverdal
+Penningkruid,64,"","",7443MG,Nijverdal
+Penningkruid,66,"","",7443MG,Nijverdal
+Penningkruid,8,"","",7443MG,Nijverdal
+Sportlaan,12,"","",7443RA,Nijverdal
+G H Kappertstraat,19,"","",7443RA,Nijverdal
+G H Kappertstraat,21,"","",7443RA,Nijverdal
+Sportlaan,4,"","",7443RA,Nijverdal
+Sportlaan,6,"","",7443RA,Nijverdal
+G H Kappertstraat,23,"","",7443RB,Nijverdal
+G H Kappertstraat,25,"","",7443RB,Nijverdal
+G H Kappertstraat,27,"","",7443RB,Nijverdal
+G H Kappertstraat,29,"","",7443RB,Nijverdal
+G H Kappertstraat,31,"","",7443RB,Nijverdal
+G H Kappertstraat,33,"","",7443RB,Nijverdal
+G H Kappertstraat,35,"","",7443RB,Nijverdal
+G H Kappertstraat,37,"","",7443RB,Nijverdal
+G H Kappertstraat,39,"","",7443RB,Nijverdal
+G H Kappertstraat,39,A,"",7443RB,Nijverdal
+G H Kappertstraat,39,B,"",7443RB,Nijverdal
+G H Kappertstraat,41,"","",7443RB,Nijverdal
+G H Kappertstraat,41,A,"",7443RB,Nijverdal
+G H Kappertstraat,41,B,"",7443RB,Nijverdal
+G H Kappertstraat,43,"","",7443RB,Nijverdal
+G H Kappertstraat,45,"","",7443RB,Nijverdal
+G H Kappertstraat,45,A,"",7443RB,Nijverdal
+G H Kappertstraat,47,"","",7443RB,Nijverdal
+G H Kappertstraat,49,"","",7443RB,Nijverdal
+Sportlaan,1,"","",7443RC,Nijverdal
+G H Kappertstraat,12,"","",7443RC,Nijverdal
+G H Kappertstraat,14,"","",7443RC,Nijverdal
+G H Kappertstraat,16,"","",7443RC,Nijverdal
+G H Kappertstraat,18,"","",7443RC,Nijverdal
+G H Kappertstraat,18,A,"",7443RC,Nijverdal
+G H Kappertstraat,20,"","",7443RC,Nijverdal
+G H Kappertstraat,22,"","",7443RC,Nijverdal
+G H Kappertstraat,24,"","",7443RC,Nijverdal
+G H Kappertstraat,26,"","",7443RC,Nijverdal
+G H Kappertstraat,28,"","",7443RC,Nijverdal
+G H Kappertstraat,30,"","",7443RC,Nijverdal
+G H Kappertstraat,32,"","",7443RD,Nijverdal
+G H Kappertstraat,34,"","",7443RD,Nijverdal
+G H Kappertstraat,36,"","",7443RD,Nijverdal
+G H Kappertstraat,36,A,"",7443RD,Nijverdal
+G H Kappertstraat,38,"","",7443RD,Nijverdal
+G H Kappertstraat,38,A,"",7443RD,Nijverdal
+G H Kappertstraat,40,"","",7443RD,Nijverdal
+G H Kappertstraat,42,"","",7443RD,Nijverdal
+G H Kappertstraat,42,A,"",7443RD,Nijverdal
+G H Kappertstraat,44,"","",7443RD,Nijverdal
+G H Kappertstraat,46,"","",7443RD,Nijverdal
+G H Kappertstraat,46,"",01,7443RD,Nijverdal
+G H Kappertstraat,46,"",01,7443RD,Nijverdal
+G H Kappertstraat,46,"",02,7443RD,Nijverdal
+G H Kappertstraat,46,"",02,7443RD,Nijverdal
+G H Kappertstraat,46,A,"",7443RD,Nijverdal
+G H Kappertstraat,48,"","",7443RD,Nijverdal
+G H Kappertstraat,50,"","",7443RD,Nijverdal
+G H Kappertstraat,52,"","",7443RD,Nijverdal
+G H Kappertstraat,54,"","",7443RD,Nijverdal
+G H Kappertstraat,56,"","",7443RD,Nijverdal
+G H Kappertstraat,58,"","",7443RD,Nijverdal
+G H Kappertstraat,60,"","",7443RD,Nijverdal
+G H Kappertstraat,60,"","",7443RD,Nijverdal
+G H Kappertstraat,62,"","",7443RD,Nijverdal
+G H Kappertstraat,62,"","",7443RD,Nijverdal
+Olde Blenkestraat,1,"","",7443RG,Nijverdal
+Olde Blenkestraat,11,"","",7443RG,Nijverdal
+Olde Blenkestraat,13,"","",7443RG,Nijverdal
+Olde Blenkestraat,15,"","",7443RG,Nijverdal
+Olde Blenkestraat,17,"","",7443RG,Nijverdal
+Olde Blenkestraat,19,"","",7443RG,Nijverdal
+Olde Blenkestraat,21,"","",7443RG,Nijverdal
+Olde Blenkestraat,21,A,"",7443RG,Nijverdal
+Olde Blenkestraat,21,B,"",7443RG,Nijverdal
+Olde Blenkestraat,23,"","",7443RG,Nijverdal
+Olde Blenkestraat,23,A,"",7443RG,Nijverdal
+Olde Blenkestraat,23,B,"",7443RG,Nijverdal
+Olde Blenkestraat,25,"","",7443RG,Nijverdal
+Olde Blenkestraat,27,"","",7443RG,Nijverdal
+Olde Blenkestraat,29,"","",7443RG,Nijverdal
+Olde Blenkestraat,3,"","",7443RG,Nijverdal
+Olde Blenkestraat,5,"","",7443RG,Nijverdal
+Olde Blenkestraat,7,"","",7443RG,Nijverdal
+Olde Blenkestraat,9,"","",7443RG,Nijverdal
+Olde Blenkestraat,10,"","",7443RH,Nijverdal
+Olde Blenkestraat,12,"","",7443RH,Nijverdal
+Olde Blenkestraat,14,"","",7443RH,Nijverdal
+Olde Blenkestraat,16,"","",7443RH,Nijverdal
+Olde Blenkestraat,18,"","",7443RH,Nijverdal
+Olde Blenkestraat,20,"","",7443RH,Nijverdal
+Olde Blenkestraat,22,"","",7443RH,Nijverdal
+Olde Blenkestraat,24,"","",7443RH,Nijverdal
+Olde Blenkestraat,26,"","",7443RH,Nijverdal
+Olde Blenkestraat,28,"","",7443RH,Nijverdal
+Olde Blenkestraat,4,"","",7443RH,Nijverdal
+Olde Blenkestraat,6,"","",7443RH,Nijverdal
+Olde Blenkestraat,8,"","",7443RH,Nijverdal
+Collenstaartweg,11,"","",7443RM,Nijverdal
+Collenstaartweg,13,"","",7443RM,Nijverdal
+Collenstaartweg,15,"","",7443RM,Nijverdal
+Collenstaartweg,3,"","",7443RM,Nijverdal
+Collenstaartweg,5,"","",7443RM,Nijverdal
+Collenstaartweg,7,"","",7443RM,Nijverdal
+Collenstaartweg,7,"","",7443RM,Nijverdal
+Collenstaartweg,7,"",BEDR,7443RM,Nijverdal
+Collenstaartweg,7,"",BEDR,7443RM,Nijverdal
+Collenstaartweg,9,"","",7443RM,Nijverdal
+Collenstaartweg,9,A,"",7443RM,Nijverdal
+Collenstaartweg,9,B,"",7443RM,Nijverdal
+Collenstaartweg,9,C,"",7443RM,Nijverdal
+Collenstaartweg,9,D,"",7443RM,Nijverdal
+Collenstaartweg,10,"","",7443RP,Nijverdal
+Collenstaartweg,10,"",BEDR,7443RP,Nijverdal
+Collenstaartweg,10,"",BEDR,7443RP,Nijverdal
+Collenstaartweg,10,A,"",7443RP,Nijverdal
+Collenstaartweg,10,A,"",7443RP,Nijverdal
+Collenstaartweg,12,"","",7443RP,Nijverdal
+Collenstaartweg,12,A,"",7443RP,Nijverdal
+Collenstaartweg,12,B,"",7443RP,Nijverdal
+Collenstaartweg,14,"","",7443RP,Nijverdal
+Collenstaartweg,14,A,"",7443RP,Nijverdal
+Collenstaartweg,16,"","",7443RP,Nijverdal
+Zuidelijke Hoofddijk,1,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,21,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,23,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,25,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,27,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,29,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,3,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,31,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,33,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,35,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,37,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,39,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,41,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,43,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,45,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,47,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,49,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,5,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,5,A,"",7443RS,Nijverdal
+Zuidelijke Hoofddijk,51,"","",7443RS,Nijverdal
+Zuidelijke Hoofddijk,10,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,10,A,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,12,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,14,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,16,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,18,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,2,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,2,A,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,2,B,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,2,C,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,2,C,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,20,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,22,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,24,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,26,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,28,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,30,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,30,A,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,4,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,4,A,"",7443RT,Nijverdal
+Zuidelijke Hoofddijk,6,"","",7443RT,Nijverdal
+Zuidelijke Hoofddijk,8,"","",7443RT,Nijverdal
+Tijhuiserve,1,"","",7443ST,Nijverdal
+Tijhuiserve,2,"","",7443ST,Nijverdal
+Tijhuiserve,3,"","",7443ST,Nijverdal
+Tijhuiserve,5,"","",7443ST,Nijverdal
+Tijhuiserve,7,"","",7443ST,Nijverdal
+Sionserf,1,"","",7443TZ,Nijverdal
+Sionserf,10,"","",7443TZ,Nijverdal
+Sionserf,11,"","",7443TZ,Nijverdal
+Sionserf,12,"","",7443TZ,Nijverdal
+Sionserf,14,"","",7443TZ,Nijverdal
+Sionserf,16,"","",7443TZ,Nijverdal
+Sionserf,3,"","",7443TZ,Nijverdal
+Sionserf,4,"","",7443TZ,Nijverdal
+Sionserf,5,"","",7443TZ,Nijverdal
+Sionserf,6,"","",7443TZ,Nijverdal
+Sionserf,7,"","",7443TZ,Nijverdal
+Sionserf,8,"","",7443TZ,Nijverdal
+Sionserf,9,"","",7443TZ,Nijverdal

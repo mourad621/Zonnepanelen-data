@@ -1,34 +1,34 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3439LN,Overeindseweg,32,,
-3439LP,Overeindseweg,25,,
-3439LP,Overeindseweg,27,,
-3439LP,Overeindseweg,29,,
-3439LP,Overeindseweg,31,,
-3439LP,Overeindseweg,33,A,
-3439LP,Overeindseweg,33,,
-3439LP,Overeindseweg,34,A,
-3439LP,Overeindseweg,35,,
-3439LP,Overeindseweg,36,,
-3439LP,Overeindseweg,38,,
-3439LP,Koppeldijk,12,,
-3439LP,Koppeldijk,14,,
-3439LP,Koppeldijk,16,A,
-3439LP,Koppeldijk,16,A,
-3439LP,Koppeldijk,18,,
-3439LP,Overeindseweg,25,A,
-3439LP,Koppeldijk,16,B,
-3439LR,2e Veld,1,,
-3439LR,2e Veld,6,,
-3439LR,2e Veld,6,A,
-3439LR,2e Veld,2,,
-3439ZX,Houtenseweg,1,,
-3439LP,Overeindseweg,38,A,
-3439LP,Overeindseweg,36,A,
-3439LP,Overeindseweg,5,,
-3439LP,Overeindseweg,25,B,
-3439LP,Overeindseweg,31,A,
-3439LP,Overeindseweg,31,A,
-3439ZZ,Ravensewetering,1,,
-3439LP,Koppeldijk,7001,,
-3439LP,Koppeldijk,16,C,
-3439KA,Heemsteedseweg,11,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heemsteedseweg,11,A,"",3439KA,Nieuwegein
+Overeindseweg,32,"","",3439LN,Nieuwegein
+Koppeldijk,12,"","",3439LP,Nieuwegein
+Koppeldijk,14,"","",3439LP,Nieuwegein
+Koppeldijk,16,A,"",3439LP,Nieuwegein
+Koppeldijk,16,A,"",3439LP,Nieuwegein
+Koppeldijk,16,B,"",3439LP,Nieuwegein
+Koppeldijk,16,C,"",3439LP,Nieuwegein
+Koppeldijk,18,"","",3439LP,Nieuwegein
+Overeindseweg,25,"","",3439LP,Nieuwegein
+Overeindseweg,25,A,"",3439LP,Nieuwegein
+Overeindseweg,25,B,"",3439LP,Nieuwegein
+Overeindseweg,27,"","",3439LP,Nieuwegein
+Overeindseweg,29,"","",3439LP,Nieuwegein
+Overeindseweg,31,"","",3439LP,Nieuwegein
+Overeindseweg,31,A,"",3439LP,Nieuwegein
+Overeindseweg,31,A,"",3439LP,Nieuwegein
+Overeindseweg,33,"","",3439LP,Nieuwegein
+Overeindseweg,33,A,"",3439LP,Nieuwegein
+Overeindseweg,34,A,"",3439LP,Nieuwegein
+Overeindseweg,35,"","",3439LP,Nieuwegein
+Overeindseweg,36,"","",3439LP,Nieuwegein
+Overeindseweg,36,A,"",3439LP,Nieuwegein
+Overeindseweg,38,"","",3439LP,Nieuwegein
+Overeindseweg,38,A,"",3439LP,Nieuwegein
+Overeindseweg,5,"","",3439LP,Nieuwegein
+Koppeldijk,7001,"","",3439LP,Nieuwegein
+2e Veld,1,"","",3439LR,Nieuwegein
+2e Veld,2,"","",3439LR,Nieuwegein
+2e Veld,6,"","",3439LR,Nieuwegein
+2e Veld,6,A,"",3439LR,Nieuwegein
+Houtenseweg,1,"","",3439ZX,Nieuwegein
+Ravensewetering,1,"","",3439ZZ,Nieuwegein

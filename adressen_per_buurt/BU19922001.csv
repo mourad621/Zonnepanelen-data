@@ -1,53 +1,53 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3235LZ,Heveringseweg,1,,
-3235LZ,Heveringseweg,2,,
-3235LZ,Heveringseweg,3,,
-3235LZ,Heveringseweg,4,,
-3235LZ,Heveringseweg,5,,
-3235LZ,Heveringseweg,6,,
-3235LZ,Heveringseweg,8,,
-3235LZ,Heveringseweg,10,,
-3235LZ,Heveringseweg,12,,
-3235LZ,Heveringseweg,13,,
-3235LZ,Heveringseweg,14,,
-3235LZ,Heveringseweg,16,a,
-3235LZ,Heveringseweg,16,a,
-3235LZ,Heveringseweg,16,,
-3235LZ,Heveringseweg,9999,,T01
-3235KW,Panneweg,2,a,
-3235KW,Panneweg,2,,
-3235KW,Panneweg,3,,
-3235KW,Panneweg,4,,
-3235KW,Panneweg,5,a,
-3235KW,Panneweg,5,b,
-3235KW,Panneweg,5,,
-3235KW,Panneweg,6,,
-3235KW,Panneweg,7,,
-3235KW,Panneweg,11,,
-3235KZ,Rietdijk,1,,
-3235KZ,Rietdijk,3,,
-3235KZ,Rietdijk,5,,
-3235KZ,Rietdijk,7,,
-3235NT,Verl Lodderlandsedijk,1,,
-3235NT,Verl Lodderlandsedijk,2,,
-3235NT,Verl Lodderlandsedijk,3,,
-3235NT,Verl Lodderlandsedijk,4,,
-3235NT,Verl Lodderlandsedijk,5,,
-3235NT,Verl Lodderlandsedijk,6,a,
-3235NT,Verl Lodderlandsedijk,6,,
-3235NT,Verl Lodderlandsedijk,8,,
-3235NT,Verl Lodderlandsedijk,9,,
-3235NT,Verl Lodderlandsedijk,10,,
-3235NT,Verl Lodderlandsedijk,11,,
-3235NT,Verl Lodderlandsedijk,12,,
-3235NT,Verl Lodderlandsedijk,14,,
-3235LZ,Heveringseweg,3,a,
-3235LZ,Heveringseweg,11,,
-3235LZ,Heveringseweg,9,,
-3235KZ,Rietdijk,1,c,
-3235KZ,Rietdijk,1,d,
-3235KZ,Rietdijk,1,b,
-3235KZ,Rietdijk,1,a,
-3235NT,Verl Lodderlandsedijk,2,a,
-3235NT,Verl Lodderlandsedijk,3,,
-3235NT,Verl Lodderlandsedijk,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Panneweg,11,"","",3235KW,Rockanje
+Panneweg,2,"","",3235KW,Rockanje
+Panneweg,2,A,"",3235KW,Rockanje
+Panneweg,3,"","",3235KW,Rockanje
+Panneweg,4,"","",3235KW,Rockanje
+Panneweg,5,"","",3235KW,Rockanje
+Panneweg,5,A,"",3235KW,Rockanje
+Panneweg,5,B,"",3235KW,Rockanje
+Panneweg,6,"","",3235KW,Rockanje
+Panneweg,7,"","",3235KW,Rockanje
+Rietdijk,1,"","",3235KZ,Rockanje
+Rietdijk,1,A,"",3235KZ,Rockanje
+Rietdijk,1,B,"",3235KZ,Rockanje
+Rietdijk,1,C,"",3235KZ,Rockanje
+Rietdijk,1,D,"",3235KZ,Rockanje
+Rietdijk,3,"","",3235KZ,Rockanje
+Rietdijk,5,"","",3235KZ,Rockanje
+Rietdijk,7,"","",3235KZ,Rockanje
+Heveringseweg,1,"","",3235LZ,Rockanje
+Heveringseweg,10,"","",3235LZ,Rockanje
+Heveringseweg,11,"","",3235LZ,Rockanje
+Heveringseweg,12,"","",3235LZ,Rockanje
+Heveringseweg,13,"","",3235LZ,Rockanje
+Heveringseweg,14,"","",3235LZ,Rockanje
+Heveringseweg,16,"","",3235LZ,Rockanje
+Heveringseweg,16,A,"",3235LZ,Rockanje
+Heveringseweg,16,A,"",3235LZ,Rockanje
+Heveringseweg,2,"","",3235LZ,Rockanje
+Heveringseweg,3,"","",3235LZ,Rockanje
+Heveringseweg,3,A,"",3235LZ,Rockanje
+Heveringseweg,4,"","",3235LZ,Rockanje
+Heveringseweg,5,"","",3235LZ,Rockanje
+Heveringseweg,6,"","",3235LZ,Rockanje
+Heveringseweg,8,"","",3235LZ,Rockanje
+Heveringseweg,9,"","",3235LZ,Rockanje
+Heveringseweg,9999,"",T01,3235LZ,Rockanje
+Verl Lodderlandsedijk,1,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,10,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,11,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,12,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,14,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,2,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,2,A,"",3235NT,Rockanje
+Verl Lodderlandsedijk,3,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,3,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,4,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,4,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,5,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,6,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,6,A,"",3235NT,Rockanje
+Verl Lodderlandsedijk,8,"","",3235NT,Rockanje
+Verl Lodderlandsedijk,9,"","",3235NT,Rockanje

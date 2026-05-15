@@ -1,106 +1,106 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8751TA,Ald Mar,11,,
-8751TA,Ald Mar,16,,
-8751TA,Ald Mar,18,,
-8751TA,Ald Mar,20,,
-8751TA,Ald Mar,22,,
-8751TA,Ald Mar,24,,
-8751TA,Ald Mar,5,,
-8751TA,Ald Mar,7,,
-8751TA,Ald Mar,9,,
-8751TR,Suderigge,11,,
-8751TR,Suderigge,13,,
-8751TR,Suderigge,15,,
-8751TR,Suderigge,17,,
-8751TR,Suderigge,1,,
-8751TR,Suderigge,3,,
-8751TR,Suderigge,2,,
-8751TR,Suderigge,4,,
-8751TR,Suderigge,5,,
-8751TR,Suderigge,7,,
-8751TR,Suderigge,8,,
-8751TH,Caspar de Roblesdijk,11,,
-8751TH,Caspar de Roblesdijk,3,,
-8751TJ,Caspar de Roblesdijk,26,,
-8751TJ,Caspar de Roblesdijk,28,,
-8751TJ,Caspar de Roblesdijk,30,,
-8751TJ,Caspar de Roblesdijk,32,,
-8751TJ,Caspar de Roblesdijk,34,,
-8751TJ,Caspar de Roblesdijk,36,,
-8751TJ,Caspar de Roblesdijk,38,,
-8751TJ,Caspar de Roblesdijk,40,,
-8751TJ,Caspar de Roblesdijk,42,,
-8751TJ,Caspar de Roblesdijk,18,,
-8751TJ,Caspar de Roblesdijk,20,,
-8751TJ,Caspar de Roblesdijk,22,,
-8751TK,Caspar de Roblesdijk,46,,
-8751TK,Caspar de Roblesdijk,48,,
-8751TK,Caspar de Roblesdijk,52,,
-8751TK,Caspar de Roblesdijk,56,,
-8751TK,Caspar de Roblesdijk,60,,
-8751TK,Caspar de Roblesdijk,64,,
-8751TK,Caspar de Roblesdijk,66,,
-8751TK,Caspar de Roblesdijk,70,,
-8751TK,Caspar de Roblesdijk,72,,
-8751TD,Fabrieksstraat,2,,
-8751TD,Fabrieksstraat,3,,
-8751TD,Fabrieksstraat,4,,
-8751TC,Kerkstraat,11,,
-8751TC,Kerkstraat,15,,
-8751TC,Kerkstraat,19,,
-8751TC,Kerkstraat,1,,
-8751TC,Kerkstraat,2,,
-8751TC,Kerkstraat,4,,
-8751TC,Kerkstraat,6,,
-8751TC,Kerkstraat,7,,
-8751TG,Schoolstraat,3,,
-8751TG,Schoolstraat,5,,
-8751TG,Schoolstraat,6,,
-8751TB,Steenlaan,1,,
-8751TB,Steenlaan,3,,
-8751TP,It Leech,10,,
-8751TP,It Leech,11,,
-8751TP,It Leech,12,,
-8751TP,It Leech,13,,
-8751TP,It Leech,14,,
-8751TP,It Leech,15,,
-8751TP,It Leech,16,,
-8751TP,It Leech,17,,
-8751TP,It Leech,19,,
-8751TP,It Leech,1,,
-8751TP,It Leech,21,,
-8751TP,It Leech,2,,
-8751TP,It Leech,3,,
-8751TP,It Leech,4,,
-8751TP,It Leech,5,,
-8751TP,It Leech,6,,
-8751TP,It Leech,8,,
-8751TP,It Leech,9,,
-8751TR,Suderigge,6,,
-8751TR,Suderigge,9,,
-8751TH,Caspar de Roblesdijk,19,A,
-8751TH,Caspar de Roblesdijk,19,,
-8751TH,Caspar de Roblesdijk,7,,
-8751TH,Caspar de Roblesdijk,15,,
-8751TH,Caspar de Roblesdijk,1,A,
-8751TK,Caspar de Roblesdijk,62,,
-8751TK,Caspar de Roblesdijk,68,,
-8751TK,Caspar de Roblesdijk,74,,
-8751TK,Caspar de Roblesdijk,50,,
-8751TC,Kerkstraat,9,,
-8751TG,Schoolstraat,2,A,
-8751TG,Schoolstraat,2,,
-8751TG,Schoolstraat,7,,
-8751TP,It Leech,1,,PENS
-8751TH,Caspar de Roblesdijk,1,,
-8751TH,Caspar de Roblesdijk,1,,
-8751TB,Steenlaan,3,A,
-8751TD,Fabrieksstraat,1,,
-8751TD,Fabrieksstraat,3,A,
-8751TD,Fabrieksstraat,4,,
-8751TD,Fabrieksstraat,6,,
-8751TD,Fabrieksstraat,8,,
-8751TD,Fabrieksstraat,10,,
-8751TD,Fabrieksstraat,12,,
-8751TB,Steenlaan,2,,
-8751TP,It Leech,2,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ald Mar,11,"","",8751TA,Zurich
+Ald Mar,16,"","",8751TA,Zurich
+Ald Mar,18,"","",8751TA,Zurich
+Ald Mar,20,"","",8751TA,Zurich
+Ald Mar,22,"","",8751TA,Zurich
+Ald Mar,24,"","",8751TA,Zurich
+Ald Mar,5,"","",8751TA,Zurich
+Ald Mar,7,"","",8751TA,Zurich
+Ald Mar,9,"","",8751TA,Zurich
+Steenlaan,1,"","",8751TB,Zurich
+Steenlaan,2,"","",8751TB,Zurich
+Steenlaan,3,"","",8751TB,Zurich
+Steenlaan,3,A,"",8751TB,Zurich
+Kerkstraat,1,"","",8751TC,Zurich
+Kerkstraat,11,"","",8751TC,Zurich
+Kerkstraat,15,"","",8751TC,Zurich
+Kerkstraat,19,"","",8751TC,Zurich
+Kerkstraat,2,"","",8751TC,Zurich
+Kerkstraat,4,"","",8751TC,Zurich
+Kerkstraat,6,"","",8751TC,Zurich
+Kerkstraat,7,"","",8751TC,Zurich
+Kerkstraat,9,"","",8751TC,Zurich
+Fabrieksstraat,1,"","",8751TD,Zurich
+Fabrieksstraat,10,"","",8751TD,Zurich
+Fabrieksstraat,12,"","",8751TD,Zurich
+Fabrieksstraat,2,"","",8751TD,Zurich
+Fabrieksstraat,3,"","",8751TD,Zurich
+Fabrieksstraat,3,A,"",8751TD,Zurich
+Fabrieksstraat,4,"","",8751TD,Zurich
+Fabrieksstraat,4,"","",8751TD,Zurich
+Fabrieksstraat,6,"","",8751TD,Zurich
+Fabrieksstraat,8,"","",8751TD,Zurich
+Schoolstraat,2,"","",8751TG,Zurich
+Schoolstraat,2,A,"",8751TG,Zurich
+Schoolstraat,3,"","",8751TG,Zurich
+Schoolstraat,5,"","",8751TG,Zurich
+Schoolstraat,6,"","",8751TG,Zurich
+Schoolstraat,7,"","",8751TG,Zurich
+Caspar de Roblesdijk,1,"","",8751TH,Zurich
+Caspar de Roblesdijk,1,"","",8751TH,Zurich
+Caspar de Roblesdijk,1,A,"",8751TH,Zurich
+Caspar de Roblesdijk,11,"","",8751TH,Zurich
+Caspar de Roblesdijk,15,"","",8751TH,Zurich
+Caspar de Roblesdijk,19,"","",8751TH,Zurich
+Caspar de Roblesdijk,19,A,"",8751TH,Zurich
+Caspar de Roblesdijk,3,"","",8751TH,Zurich
+Caspar de Roblesdijk,7,"","",8751TH,Zurich
+Caspar de Roblesdijk,18,"","",8751TJ,Zurich
+Caspar de Roblesdijk,20,"","",8751TJ,Zurich
+Caspar de Roblesdijk,22,"","",8751TJ,Zurich
+Caspar de Roblesdijk,26,"","",8751TJ,Zurich
+Caspar de Roblesdijk,28,"","",8751TJ,Zurich
+Caspar de Roblesdijk,30,"","",8751TJ,Zurich
+Caspar de Roblesdijk,32,"","",8751TJ,Zurich
+Caspar de Roblesdijk,34,"","",8751TJ,Zurich
+Caspar de Roblesdijk,36,"","",8751TJ,Zurich
+Caspar de Roblesdijk,38,"","",8751TJ,Zurich
+Caspar de Roblesdijk,40,"","",8751TJ,Zurich
+Caspar de Roblesdijk,42,"","",8751TJ,Zurich
+Caspar de Roblesdijk,46,"","",8751TK,Zurich
+Caspar de Roblesdijk,48,"","",8751TK,Zurich
+Caspar de Roblesdijk,50,"","",8751TK,Zurich
+Caspar de Roblesdijk,52,"","",8751TK,Zurich
+Caspar de Roblesdijk,56,"","",8751TK,Zurich
+Caspar de Roblesdijk,60,"","",8751TK,Zurich
+Caspar de Roblesdijk,62,"","",8751TK,Zurich
+Caspar de Roblesdijk,64,"","",8751TK,Zurich
+Caspar de Roblesdijk,66,"","",8751TK,Zurich
+Caspar de Roblesdijk,68,"","",8751TK,Zurich
+Caspar de Roblesdijk,70,"","",8751TK,Zurich
+Caspar de Roblesdijk,72,"","",8751TK,Zurich
+Caspar de Roblesdijk,74,"","",8751TK,Zurich
+It Leech,1,"","",8751TP,Zurich
+It Leech,1,"",PENS,8751TP,Zurich
+It Leech,10,"","",8751TP,Zurich
+It Leech,11,"","",8751TP,Zurich
+It Leech,12,"","",8751TP,Zurich
+It Leech,13,"","",8751TP,Zurich
+It Leech,14,"","",8751TP,Zurich
+It Leech,15,"","",8751TP,Zurich
+It Leech,16,"","",8751TP,Zurich
+It Leech,17,"","",8751TP,Zurich
+It Leech,19,"","",8751TP,Zurich
+It Leech,2,"","",8751TP,Zurich
+It Leech,2,C,"",8751TP,Zurich
+It Leech,21,"","",8751TP,Zurich
+It Leech,3,"","",8751TP,Zurich
+It Leech,4,"","",8751TP,Zurich
+It Leech,5,"","",8751TP,Zurich
+It Leech,6,"","",8751TP,Zurich
+It Leech,8,"","",8751TP,Zurich
+It Leech,9,"","",8751TP,Zurich
+Suderigge,1,"","",8751TR,Zurich
+Suderigge,11,"","",8751TR,Zurich
+Suderigge,13,"","",8751TR,Zurich
+Suderigge,15,"","",8751TR,Zurich
+Suderigge,17,"","",8751TR,Zurich
+Suderigge,2,"","",8751TR,Zurich
+Suderigge,3,"","",8751TR,Zurich
+Suderigge,4,"","",8751TR,Zurich
+Suderigge,5,"","",8751TR,Zurich
+Suderigge,6,"","",8751TR,Zurich
+Suderigge,7,"","",8751TR,Zurich
+Suderigge,8,"","",8751TR,Zurich
+Suderigge,9,"","",8751TR,Zurich

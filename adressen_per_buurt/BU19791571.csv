@@ -1,92 +1,93 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9902SB",1,"",""
-"9902SE",3,"",""
-"9902SE",4,"",""
-"9902SE",4,"",""
-"9902SE",3,"",""
-"9902SG",2,"",""
-"9902SG",2,"",""
-"9902SG",3,"",""
-"9902SG",3,"",""
-"9902SH",2,"",""
-"9902SH",2,"",""
-"9902SM",1,"",""
-"9902SM",1,"",""
-"9902SR",1,"",""
-"9902SR",18,"",""
-"9902SR",10,"d",""
-"9902SR",10,"",""
-"9902SR",10,"",""
-"9902SR",1,"",""
-"9902SR",10,"e",""
-"9902SR",18,"",""
-"9902SR",2,"",""
-"9902SR",10,"c",""
-"9902SR",10,"",""
-"9902SR",10,"a",""
-"9902SR",10,"",""
-"9902SR",10,"b",""
-"9902SR",2,"",""
-"9902SR",10,"",""
-"9902TD",2,"",""
-"9902TD",18,"",""
-"9902TD",2,"",""
-"9902TD",7,"",""
-"9902TD",12,"",""
-"9902TD",7,"",""
-"9902TD",18,"",""
-"9902TD",14,"",""
-"9902TD",12,"",""
-"9902TD",16,"",""
-"9902TD",14,"",""
-"9902TD",4,"",""
-"9902TD",4,"",""
-"9902TD",16,"",""
-9902TD,de Groeve OZ,7,,
-9902SE,De Plassen,3,,
-9902SE,De Plassen,4,,
-9902TD,Eemskanaal ZZ,2,,
-9902TD,Eemskanaal ZZ,4,,
-9902TD,Eemskanaal ZZ,12,,
-9902TD,Eemskanaal ZZ,14,,
-9902TD,Eemskanaal ZZ,16,,
-9902TD,Eemskanaal ZZ,18,,
-9902SR,Fivelpoort,10,,
-9902SR,Fivelpoort,1,,
-9902SR,Fivelpoort,18,,
-9902SG,Opwierdermeerweg,3,,
-9902SB,Buxzijlweg,1,,
-9902SR,Fivelpoort,10,,
-9902SR,Fivelpoort,10,a,
-9902SR,Fivelpoort,10,b,
-9902SR,Fivelpoort,10,c,
-9902SR,Fivelpoort,10,d,
-9902SR,Fivelpoort,10,e,
-9902SR,Fivelpoort,2,,
-9902SM,Holepolder,1,,
-9902SM,Holepolder,1,,
-9902SG,Opwierdermeerweg,2,,
-9902SG,Opwierdermeerweg,2,,
-9902SH,Woldmeerweg,2,,
-9902SH,Woldmeerweg,2,,
-9902SE,De Plassen,18,,
-9902SE,De Plassen,22,,
-9902SE,De Plassen,28,,
-9902SE,De Plassen,38,,
-9902SE,De Plassen,40,,
-9902SE,De Plassen,10,,
-9902SE,De Plassen,12,,
-9902SE,De Plassen,14,,
-9902SE,De Plassen,16,,
-9902SE,De Plassen,20,,
-9902SE,De Plassen,32,,
-9902SE,De Plassen,8,,
-9902SE,De Plassen,26,,
-9902SE,De Plassen,30,,
-9902SE,De Plassen,34,,
-9902SE,De Plassen,36,,
-9902SE,De Plassen,6,,
-9902SE,De Plassen,24,,
-9902SR,Fivelpoort,3,,
-9902SR,Fivelpoort,3,,
-9902SG,Opwierdermeerweg,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+1,"","","",9902SB,
+Buxzijlweg,1,"","",9902SB,Appingedam
+3,"","","",9902SE,
+4,"","","",9902SE,
+4,"","","",9902SE,
+3,"","","",9902SE,
+De Plassen,10,"","",9902SE,Appingedam
+De Plassen,12,"","",9902SE,Appingedam
+De Plassen,14,"","",9902SE,Appingedam
+De Plassen,16,"","",9902SE,Appingedam
+De Plassen,18,"","",9902SE,Appingedam
+De Plassen,20,"","",9902SE,Appingedam
+De Plassen,22,"","",9902SE,Appingedam
+De Plassen,24,"","",9902SE,Appingedam
+De Plassen,26,"","",9902SE,Appingedam
+De Plassen,28,"","",9902SE,Appingedam
+De Plassen,3,"","",9902SE,Appingedam
+De Plassen,30,"","",9902SE,Appingedam
+De Plassen,32,"","",9902SE,Appingedam
+De Plassen,34,"","",9902SE,Appingedam
+De Plassen,36,"","",9902SE,Appingedam
+De Plassen,38,"","",9902SE,Appingedam
+De Plassen,4,"","",9902SE,Appingedam
+De Plassen,40,"","",9902SE,Appingedam
+De Plassen,6,"","",9902SE,Appingedam
+De Plassen,8,"","",9902SE,Appingedam
+2,"","","",9902SG,
+2,"","","",9902SG,
+3,"","","",9902SG,
+3,"","","",9902SG,
+Opwierdermeerweg,2,"","",9902SG,Appingedam
+Opwierdermeerweg,2,"","",9902SG,Appingedam
+Opwierdermeerweg,3,"","",9902SG,Appingedam
+Opwierdermeerweg,5,"","",9902SG,Appingedam
+2,"","","",9902SH,
+2,"","","",9902SH,
+Woldmeerweg,2,"","",9902SH,Appingedam
+Woldmeerweg,2,"","",9902SH,Appingedam
+1,"","","",9902SM,
+1,"","","",9902SM,
+Holepolder,1,"","",9902SM,Appingedam
+Holepolder,1,"","",9902SM,Appingedam
+1,"","","",9902SR,
+18,"","","",9902SR,
+10,"","","",9902SR,
+10,"","","",9902SR,
+1,"","","",9902SR,
+18,"","","",9902SR,
+2,"","","",9902SR,
+10,"","","",9902SR,
+10,"","","",9902SR,
+2,"","","",9902SR,
+10,"","","",9902SR,
+Fivelpoort,1,"","",9902SR,Appingedam
+Fivelpoort,10,"","",9902SR,Appingedam
+Fivelpoort,10,"","",9902SR,Appingedam
+Fivelpoort,10,A,"",9902SR,Appingedam
+Fivelpoort,10,B,"",9902SR,Appingedam
+Fivelpoort,10,C,"",9902SR,Appingedam
+Fivelpoort,10,D,"",9902SR,Appingedam
+Fivelpoort,10,E,"",9902SR,Appingedam
+Fivelpoort,18,"","",9902SR,Appingedam
+Fivelpoort,2,"","",9902SR,Appingedam
+Fivelpoort,3,"","",9902SR,Appingedam
+Fivelpoort,3,"","",9902SR,Appingedam
+10,A,"","",9902SR,
+10,B,"","",9902SR,
+10,C,"","",9902SR,
+10,D,"","",9902SR,
+10,E,"","",9902SR,
+2,"","","",9902TD,
+18,"","","",9902TD,
+2,"","","",9902TD,
+7,"","","",9902TD,
+12,"","","",9902TD,
+7,"","","",9902TD,
+18,"","","",9902TD,
+14,"","","",9902TD,
+12,"","","",9902TD,
+16,"","","",9902TD,
+14,"","","",9902TD,
+4,"","","",9902TD,
+4,"","","",9902TD,
+16,"","","",9902TD,
+Eemskanaal ZZ,12,"","",9902TD,Appingedam
+Eemskanaal ZZ,14,"","",9902TD,Appingedam
+Eemskanaal ZZ,16,"","",9902TD,Appingedam
+Eemskanaal ZZ,18,"","",9902TD,Appingedam
+Eemskanaal ZZ,2,"","",9902TD,Appingedam
+Eemskanaal ZZ,4,"","",9902TD,Appingedam
+de Groeve OZ,7,"","",9902TD,Appingedam
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

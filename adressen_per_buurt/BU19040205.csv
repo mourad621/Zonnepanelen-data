@@ -1,74 +1,74 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3621LE,Breukelerwaard,2,,
-3621LE,Breukelerwaard,3,,
-3621LE,Breukelerwaard,4,,
-3621LE,Breukelerwaard,6,,
-3621LE,Breukelerwaard,7,,
-3621LG,Kanaaldijk West,1,,
-3621LG,Kanaaldijk West,2,,
-3621LG,Kanaaldijk West,3,,
-3621LG,Kanaaldijk West,7,,
-3621LG,Kanaaldijk West,1,a,
-3621LG,Kanaaldijk West,6,a,
-3621LG,Kanaaldijk West,6,b,
-3621ZZ,Kerkbrink,2,,
-3621LB,Oud Aa,2,c,
-3621LB,Oud Aa,2,d,
-3621LB,Oud Aa,2,,jp
-3621LB,Oud Aa,4,a,
-3621LB,Oud Aa,4,b,
-3621LB,Oud Aa,4,,
-3621LB,Oud Aa,6,,
-3621LB,Oud Aa,8,,
-3621LB,Oud Aa,10,,
-3621LB,Oud Aa,12,,
-3621LB,Oud Aa,10,a,
-3621LB,Oud Aa,2,a,
-3621LB,Oud Aa,2,b,
-3621LB,Oud Aa,10,,ws1
-3621LB,Oud Aa,10,,ws2
-3621LC,Oud Aa,34,a,
-3621LC,Oud Aa,34,b,
-3621LC,Oud Aa,36,a,
-3621LC,Oud Aa,14,,
-3621LC,Oud Aa,16,,
-3621LC,Oud Aa,18,,
-3621LC,Oud Aa,20,,
-3621LC,Oud Aa,22,,
-3621LC,Oud Aa,24,,
-3621LC,Oud Aa,26,,
-3621LC,Oud Aa,28,,
-3621LC,Oud Aa,30,,
-3621LC,Oud Aa,32,,
-3621LC,Oud Aa,32,a,
-3621LC,Oud Aa,34,,
-3621LC,Oud Aa,36,,
-3621LC,Oud Aa,38,,
-3621LC,Oud Aa,38,,
-3621LC,Oud Aa,39,,
-3621LC,Oud Aa,40,,
-3621LC,Oud Aa,18,a,
-3621LC,Oud Aa,18,b,
-3621LC,Oud Aa,40,,
-3621LC,Oud Aa,40,a,
-3621LC,Oud Aa,40,a,
-3621LC,Oud Aa,40,a,
-3621ZZ,Oud Aa,43,,
-3621ZZ,Brugstraat,8,,
-3621ZZ,Brugstraat,10,,
-3621ZZ,Brugstraat,12,,
-3621ZZ,Brugstraat,10,,a
-3621ZZ,Brugstraat,10,,b
-3621ZZ,Brugstraat,10,,c
-3621ZZ,Brugstraat,10,,d
-3621ZZ,Brugstraat,10,,e
-3621ZZ,Marijkestraat,18,,
-3621ZZ,Wilhelminastraat,45,,
-3621ZZ,Amaliastraat,45,,
-3621ZZ,Wilhelminastraat,45,,a
-3621ZZ,Amaliastraat,45,,a
-3621ZZ,Rijksweg A2 Oostzijde,1,,
-3621LC,Oud Aa,18,,
-3621LC,Oud Aa,16,a,
-3621LE,Breukelerwaard,2,b,
-3621LE,Breukelerwaard,2,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oud Aa,10,"","",3621LB,Breukelen
+Oud Aa,10,"",WS1,3621LB,Breukelen
+Oud Aa,10,"",WS2,3621LB,Breukelen
+Oud Aa,10,A,"",3621LB,Breukelen
+Oud Aa,12,"","",3621LB,Breukelen
+Oud Aa,2,"",JP,3621LB,Breukelen
+Oud Aa,2,A,"",3621LB,Breukelen
+Oud Aa,2,B,"",3621LB,Breukelen
+Oud Aa,2,C,"",3621LB,Breukelen
+Oud Aa,2,D,"",3621LB,Breukelen
+Oud Aa,4,"","",3621LB,Breukelen
+Oud Aa,4,A,"",3621LB,Breukelen
+Oud Aa,4,B,"",3621LB,Breukelen
+Oud Aa,6,"","",3621LB,Breukelen
+Oud Aa,8,"","",3621LB,Breukelen
+Oud Aa,14,"","",3621LC,Breukelen
+Oud Aa,16,"","",3621LC,Breukelen
+Oud Aa,16,A,"",3621LC,Breukelen
+Oud Aa,18,"","",3621LC,Breukelen
+Oud Aa,18,"","",3621LC,Breukelen
+Oud Aa,18,A,"",3621LC,Breukelen
+Oud Aa,18,B,"",3621LC,Breukelen
+Oud Aa,20,"","",3621LC,Breukelen
+Oud Aa,22,"","",3621LC,Breukelen
+Oud Aa,24,"","",3621LC,Breukelen
+Oud Aa,26,"","",3621LC,Breukelen
+Oud Aa,28,"","",3621LC,Breukelen
+Oud Aa,30,"","",3621LC,Breukelen
+Oud Aa,32,"","",3621LC,Breukelen
+Oud Aa,32,A,"",3621LC,Breukelen
+Oud Aa,34,"","",3621LC,Breukelen
+Oud Aa,34,A,"",3621LC,Breukelen
+Oud Aa,34,B,"",3621LC,Breukelen
+Oud Aa,36,"","",3621LC,Breukelen
+Oud Aa,36,A,"",3621LC,Breukelen
+Oud Aa,38,"","",3621LC,Breukelen
+Oud Aa,38,"","",3621LC,Breukelen
+Oud Aa,39,"","",3621LC,Breukelen
+Oud Aa,40,"","",3621LC,Breukelen
+Oud Aa,40,"","",3621LC,Breukelen
+Oud Aa,40,A,"",3621LC,Breukelen
+Oud Aa,40,A,"",3621LC,Breukelen
+Oud Aa,40,A,"",3621LC,Breukelen
+Breukelerwaard,2,"","",3621LE,Breukelen
+Breukelerwaard,2,A,"",3621LE,Breukelen
+Breukelerwaard,2,B,"",3621LE,Breukelen
+Breukelerwaard,3,"","",3621LE,Breukelen
+Breukelerwaard,4,"","",3621LE,Breukelen
+Breukelerwaard,6,"","",3621LE,Breukelen
+Breukelerwaard,7,"","",3621LE,Breukelen
+Kanaaldijk West,1,"","",3621LG,Breukelen
+Kanaaldijk West,1,A,"",3621LG,Breukelen
+Kanaaldijk West,2,"","",3621LG,Breukelen
+Kanaaldijk West,3,"","",3621LG,Breukelen
+Kanaaldijk West,6,A,"",3621LG,Breukelen
+Kanaaldijk West,6,B,"",3621LG,Breukelen
+Kanaaldijk West,7,"","",3621LG,Breukelen
+Rijksweg A2 Oostzijde,1,"","",3621ZZ,Breukelen
+Brugstraat,10,"","",3621ZZ,Breukelen
+Brugstraat,10,"",A,3621ZZ,Breukelen
+Brugstraat,10,"",B,3621ZZ,Breukelen
+Brugstraat,10,"",C,3621ZZ,Breukelen
+Brugstraat,10,"",D,3621ZZ,Breukelen
+Brugstraat,10,"",E,3621ZZ,Breukelen
+Brugstraat,12,"","",3621ZZ,Breukelen
+Marijkestraat,18,"","",3621ZZ,Breukelen
+Kerkbrink,2,"","",3621ZZ,Breukelen
+Oud Aa,43,"","",3621ZZ,Breukelen
+Wilhelminastraat,45,"","",3621ZZ,Breukelen
+Wilhelminastraat,45,"","",3621ZZ,Breukelen
+Wilhelminastraat,45,"",A,3621ZZ,Breukelen
+Wilhelminastraat,45,"",A,3621ZZ,Breukelen
+Brugstraat,8,"","",3621ZZ,Breukelen

@@ -1,65 +1,65 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1716MA,Hogeweg,1,,
-1716MA,Lagehoek,2,,
-1716MA,Lage Hoek,2,,
-1716MA,Lagehoek,3,,
-1716MA,Lage Hoek,3,,
-1716MA,Lagehoek,3,a,
-1716MA,Lage Hoek,3,a,
-1716MA,Lagehoek,3,b,
-1716MA,Lage Hoek,3,b,
-1716MA,Lagehoek,3,c,
-1716MA,Lage Hoek,3,c,
-1716MA,Lagehoek,3,d,
-1716MA,Lage Hoek,3,d,
-1716MA,Lagehoek,5,,
-1716MA,Lage Hoek,5,,
-1716MA,Lagehoek,7,,
-1716MA,Lage Hoek,7,,
-1716MA,Lagehoek,8,,
-1716MA,Lage Hoek,8,,
-1716MA,Lagehoek,9,,
-1716MA,Lage Hoek,9,,
-1716MA,Lagehoek,9,a,
-1716MA,Lage Hoek,9,a,
-1716MA,Lagehoek,3,,
-1716MA,Lage Hoek,3,,
-1716MA,Lagehoek,3,a,
-1716MA,Lage Hoek,3,a,
-1716MA,Lagehoek,3,c,
-1716MA,Lage Hoek,3,c,
-1716MB,Lagehoek,1,,
-1716MB,Lage Hoek,1,,
-1716KT,Nieuweweg,2,,
-1716KT,Nieuweweg,2,a,
-1716KT,Nieuweweg,2,b,
-1716KA,Pade,2,a,
-1716KA,Pade,1,,
-1716KA,Pade,2,,
-1716KA,Pade,2,T,
-1716KA,Pade,4,,
-1716KA,Pade,6,,
-1716KA,Pade,8,,
-1716KA,Pade,10,,
-1716KA,Pade,10,,
-1716KA,Pade,10,,
-1716KA,Pade,10,a,
-1716KA,Pade,10,a,
-1716KA,Pade,10,a,
-1716KA,Pade,12,,
-1716KA,Pade,14,,
-1716KA,Pade,16,,
-1716KA,Pade,18,,
-1716KA,Pade,18,a,
-1716KA,Pade,20,,
-1716KA,Pade,22,,
-1716KA,Pade,25,,
-1716KA,Pade,27,,
-1716KA,Pade,31,,
-1716KA,Pade,33,,
-1716KA,Pade,35,,
-1716KA,Pade,36,,
-1716KA,Pade,1,,
-1716KA,Pade,1,,
-1716KA,Pade,14,,
-1716KA,Pade,14,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Pade,1,"","",1716KA,Opmeer
+Pade,1,"","",1716KA,Opmeer
+Pade,1,"","",1716KA,Opmeer
+Pade,10,"","",1716KA,Opmeer
+Pade,10,"","",1716KA,Opmeer
+Pade,10,"","",1716KA,Opmeer
+Pade,10,A,"",1716KA,Opmeer
+Pade,10,A,"",1716KA,Opmeer
+Pade,10,A,"",1716KA,Opmeer
+Pade,12,"","",1716KA,Opmeer
+Pade,14,"","",1716KA,Opmeer
+Pade,14,"","",1716KA,Opmeer
+Pade,14,A,"",1716KA,Opmeer
+Pade,16,"","",1716KA,Opmeer
+Pade,18,"","",1716KA,Opmeer
+Pade,18,A,"",1716KA,Opmeer
+Pade,2,"","",1716KA,Opmeer
+Pade,2,A,"",1716KA,Opmeer
+Pade,2,T,"",1716KA,Opmeer
+Pade,20,"","",1716KA,Opmeer
+Pade,22,"","",1716KA,Opmeer
+Pade,25,"","",1716KA,Opmeer
+Pade,27,"","",1716KA,Opmeer
+Pade,31,"","",1716KA,Opmeer
+Pade,33,"","",1716KA,Opmeer
+Pade,35,"","",1716KA,Opmeer
+Pade,36,"","",1716KA,Opmeer
+Pade,4,"","",1716KA,Opmeer
+Pade,6,"","",1716KA,Opmeer
+Pade,8,"","",1716KA,Opmeer
+Nieuweweg,2,"","",1716KT,Opmeer
+Nieuweweg,2,A,"",1716KT,Opmeer
+Nieuweweg,2,B,"",1716KT,Opmeer
+Hogeweg,1,"","",1716MA,Opmeer
+Lagehoek,2,"","",1716MA,Opmeer
+Lagehoek,2,"","",1716MA,Opmeer
+Lagehoek,3,"","",1716MA,Opmeer
+Lagehoek,3,"","",1716MA,Opmeer
+Lagehoek,3,"","",1716MA,Opmeer
+Lagehoek,3,"","",1716MA,Opmeer
+Lagehoek,3,A,"",1716MA,Opmeer
+Lagehoek,3,A,"",1716MA,Opmeer
+Lagehoek,3,A,"",1716MA,Opmeer
+Lagehoek,3,A,"",1716MA,Opmeer
+Lagehoek,3,B,"",1716MA,Opmeer
+Lagehoek,3,B,"",1716MA,Opmeer
+Lagehoek,3,C,"",1716MA,Opmeer
+Lagehoek,3,C,"",1716MA,Opmeer
+Lagehoek,3,C,"",1716MA,Opmeer
+Lagehoek,3,C,"",1716MA,Opmeer
+Lagehoek,3,D,"",1716MA,Opmeer
+Lagehoek,3,D,"",1716MA,Opmeer
+Lagehoek,5,"","",1716MA,Opmeer
+Lagehoek,5,"","",1716MA,Opmeer
+Lagehoek,7,"","",1716MA,Opmeer
+Lagehoek,7,"","",1716MA,Opmeer
+Lagehoek,8,"","",1716MA,Opmeer
+Lagehoek,8,"","",1716MA,Opmeer
+Lagehoek,9,"","",1716MA,Opmeer
+Lagehoek,9,"","",1716MA,Opmeer
+Lagehoek,9,A,"",1716MA,Opmeer
+Lagehoek,9,A,"",1716MA,Opmeer
+Lagehoek,1,"","",1716MB,Opmeer
+Lagehoek,1,"","",1716MB,Opmeer

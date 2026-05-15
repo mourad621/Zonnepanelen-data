@@ -1,43 +1,43 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8351HN,Westeinde,159,,
-8351HN,Westeinde,161,,
-8351HN,Westeinde,163,a,
-8351HN,Westeinde,163,,
-8351HN,Westeinde,165,,
-8351HN,Westeinde,169,,
-8351HN,Westeinde,171,,
-8351HN,Westeinde,173,,
-8351HN,Westeinde,177,,
-8351HN,Westeinde,179,,
-8351HN,Westeinde,181,,
-8351HN,Westeinde,185,,
-8351HN,Westeinde,175,,
-8351HN,Westeinde,187,,
-8351HN,Westeinde,185,a,
-8351HN,Westeinde,177,a,
-8351HP,Westeinde,204,,
-8351HP,Westeinde,206,a,
-8351HP,Westeinde,206,b,
-8351HP,Westeinde,206,,
-8351HP,Westeinde,208,,
-8351HP,Westeinde,210,a,
-8351HP,Westeinde,210,,
-8351HP,Westeinde,212,,
-8351HP,Westeinde,218,,
-8351HP,Westeinde,220,,
-8351HP,Westeinde,224,,
-8351HP,Westeinde,224,,
-8351HP,Westeinde,226,,
-8351HP,Westeinde,230,,
-8351HP,Westeinde,228,,
-8351HP,Westeinde,224,a,
-8351HP,Westeinde,224,a,
-8351HN,Westeinde,167,,
-8351HT,van Helomaweg,1,b,
-8351HT,van Helomaweg,1,,
-8351HT,van Helomaweg,1,a,
-8351HT,van Helomaweg,4,,
-8351HT,van Helomaweg,6,,
-8351HT,van Helomaweg,2,,
-8351HT,van Helomaweg,2,a,
-8351HT,van Helomaweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Westeinde,159,"","",8351HN,Wapserveen
+Westeinde,161,"","",8351HN,Wapserveen
+Westeinde,163,"","",8351HN,Wapserveen
+Westeinde,163,A,"",8351HN,Wapserveen
+Westeinde,165,"","",8351HN,Wapserveen
+Westeinde,167,"","",8351HN,Dwingeloo
+Westeinde,169,"","",8351HN,Wapserveen
+Westeinde,171,"","",8351HN,Wapserveen
+Westeinde,173,"","",8351HN,Wapserveen
+Westeinde,175,"","",8351HN,Wapserveen
+Westeinde,177,"","",8351HN,Wapserveen
+Westeinde,177,A,"",8351HN,Wapserveen
+Westeinde,179,"","",8351HN,Wapserveen
+Westeinde,181,"","",8351HN,Wapserveen
+Westeinde,185,"","",8351HN,Wapserveen
+Westeinde,185,A,"",8351HN,Wapserveen
+Westeinde,187,"","",8351HN,Wapserveen
+Westeinde,204,"","",8351HP,Wapserveen
+Westeinde,206,"","",8351HP,Wapserveen
+Westeinde,206,A,"",8351HP,Wapserveen
+Westeinde,206,B,"",8351HP,Wapserveen
+Westeinde,208,"","",8351HP,Wapserveen
+Westeinde,210,"","",8351HP,Wapserveen
+Westeinde,210,A,"",8351HP,Wapserveen
+Westeinde,212,"","",8351HP,Wapserveen
+Westeinde,218,"","",8351HP,Wapserveen
+Westeinde,220,"","",8351HP,Wapserveen
+Westeinde,224,"","",8351HP,Wapserveen
+Westeinde,224,"","",8351HP,Wapserveen
+Westeinde,224,A,"",8351HP,Wapserveen
+Westeinde,224,A,"",8351HP,Wapserveen
+Westeinde,226,"","",8351HP,Wapserveen
+Westeinde,228,"","",8351HP,Wapserveen
+Westeinde,230,"","",8351HP,Wapserveen
+van Helomaweg,1,"","",8351HT,Wapserveen
+van Helomaweg,1,A,"",8351HT,Wapserveen
+van Helomaweg,1,B,"",8351HT,Wapserveen
+van Helomaweg,2,"","",8351HT,Wapserveen
+van Helomaweg,2,A,"",8351HT,Wapserveen
+van Helomaweg,3,"","",8351HT,Wapserveen
+van Helomaweg,4,"","",8351HT,Wapserveen
+van Helomaweg,6,"","",8351HT,Wapserveen

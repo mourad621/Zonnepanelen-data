@@ -1,92 +1,93 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8732EL",13,"",""
-"8732EL",6,"",""
-"8732EL",13,"",""
-"8732EL",3,"",""
-"8732EL",9,"",""
-"8732EL",1,"",""
-"8732EL",7,"",""
-"8732EL",13,"",""
-"8732EL",2,"",""
-"8732EL",8,"",""
-"8732EL",4,"",""
-"8845SE",3,"",""
-"8845SE",1,"",""
-"8845SE",4,"",""
-"8845SE",2,"",""
-"8845SG",8,"",""
-"8845SG",23,"",""
-"8845SG",13,"",""
-"8845SG",7,"",""
-"8845SG",4,"b",""
-"8845SG",11,"",""
-"8845SG",9,"",""
-"8845SG",21,"",""
-"8845SG",4,"a",""
-"8845SG",2,"",""
-"8845SG",4,"",""
-"8845SG",25,"",""
-"8845SG",19,"A",""
-"8845SG",3,"",""
-"8845SG",10,"",""
-"8845SG",1,"",""
-"8845SG",21,"A",""
-"8845SG",15,"",""
-"8845SG",19,"",""
-"8845SG",17,"",""
-"8845SG",5,"",""
-"8845SG",4,"",""
-"8845SH",1,"",""
-"8845SH",7,"","NUON"
-"8845SH",6,"",""
-"8845SH",2,"",""
-"8845SH",4,"",""
-"8845SH",7,"","NUON"
-"8845SH",7,"","NUON"
-"8845SH",7,"",""
-"8845SH",9,"",""
-8732EL,Slachte,9,,
-8732EL,Slachte,8,,
-8732EL,Slachte,3,,
-8732EL,Slachte,1,,
-8732EL,Slachte,6,,
-8732EL,Slachte,2,,
-8732EL,Slachte,13,,
-8732EL,Slachte,7,,
-8732EL,Slachte,4,,
-8732EL,Slachte,13,,
-8845SG,Buorren,4,a,
-8845SG,Buorren,5,,
-8845SG,Buorren,7,,
-8845SG,Buorren,21,,
-8845SG,Buorren,17,,
-8845SG,Buorren,1,,
-8845SG,Buorren,2,,
-8845SG,Buorren,15,,
-8845SG,Buorren,23,,
-8845SG,Buorren,13,,
-8845SG,Buorren,8,,
-8845SG,Buorren,19,A,
-8845SG,Buorren,11,,
-8845SG,Buorren,19,,
-8845SG,Buorren,9,,
-8845SG,Buorren,10,,
-8845SG,Buorren,3,,
-8845SG,Buorren,4,,
-8845SG,Buorren,4,,
-8845SG,Buorren,21,A,
-8845SG,Buorren,25,,
-8845SG,Buorren,4,b,
-8845SH,De Bieren,7,,
-8845SH,De Bieren,1,,
-8845SH,De Bieren,9,,
-8845SH,De Bieren,6,,
-8845SH,De Bieren,7,,NUON
-8845SH,De Bieren,4,,
-8845SH,De Bieren,2,,
-8845SH,De Bieren,7,,NUON
-8845SE,Toarnwerterleane,1,,
-8845SE,Toarnwerterleane,3,,
-8845SE,Toarnwerterleane,4,,
-8845SE,Toarnwerterleane,2,,
-8845SH,De Bieren,9,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+13,"","","",8732EL,
+6,"","","",8732EL,
+13,"","","",8732EL,
+3,"","","",8732EL,
+9,"","","",8732EL,
+1,"","","",8732EL,
+7,"","","",8732EL,
+13,"","","",8732EL,
+2,"","","",8732EL,
+8,"","","",8732EL,
+4,"","","",8732EL,
+Slachte,1,"","",8732EL,Kûbaard
+Slachte,13,"","",8732EL,Kûbaard
+Slachte,13,"","",8732EL,Kûbaard
+Slachte,2,"","",8732EL,Kûbaard
+Slachte,3,"","",8732EL,Kûbaard
+Slachte,4,"","",8732EL,Kûbaard
+Slachte,6,"","",8732EL,Kûbaard
+Slachte,7,"","",8732EL,Kûbaard
+Slachte,8,"","",8732EL,Kûbaard
+Slachte,9,"","",8732EL,Kûbaard
+3,"","","",8845SE,
+1,"","","",8845SE,
+4,"","","",8845SE,
+2,"","","",8845SE,
+Toarnwerterleane,1,"","",8845SE,Waaksens
+Toarnwerterleane,2,"","",8845SE,Waaksens
+Toarnwerterleane,3,"","",8845SE,Waaksens
+Toarnwerterleane,4,"","",8845SE,Waaksens
+8,"","","",8845SG,
+23,"","","",8845SG,
+13,"","","",8845SG,
+7,"","","",8845SG,
+11,"","","",8845SG,
+9,"","","",8845SG,
+21,"","","",8845SG,
+2,"","","",8845SG,
+4,"","","",8845SG,
+25,"","","",8845SG,
+3,"","","",8845SG,
+10,"","","",8845SG,
+1,"","","",8845SG,
+15,"","","",8845SG,
+19,"","","",8845SG,
+17,"","","",8845SG,
+5,"","","",8845SG,
+4,"","","",8845SG,
+Buorren,1,"","",8845SG,Waaksens
+Buorren,10,"","",8845SG,Waaksens
+Buorren,11,"","",8845SG,Waaksens
+Buorren,13,"","",8845SG,Waaksens
+Buorren,15,"","",8845SG,Waaksens
+Buorren,17,"","",8845SG,Waaksens
+Buorren,19,"","",8845SG,Waaksens
+Buorren,19,A,"",8845SG,Waaksens
+Buorren,2,"","",8845SG,Waaksens
+Buorren,21,"","",8845SG,Waaksens
+Buorren,21,A,"",8845SG,Waaksens
+Buorren,23,"","",8845SG,Waaksens
+Buorren,25,"","",8845SG,Waaksens
+Buorren,3,"","",8845SG,Waaksens
+Buorren,4,"","",8845SG,Waaksens
+Buorren,4,"","",8845SG,Waaksens
+Buorren,4,A,"",8845SG,Waaksens
+Buorren,4,B,"",8845SG,Waaksens
+Buorren,5,"","",8845SG,Waaksens
+Buorren,7,"","",8845SG,Waaksens
+Buorren,8,"","",8845SG,Waaksens
+Buorren,9,"","",8845SG,Waaksens
+4,A,"","",8845SG,
+19,A,"","",8845SG,
+21,A,"","",8845SG,
+4,B,"","",8845SG,
+1,"","","",8845SH,
+6,"","","",8845SH,
+2,"","","",8845SH,
+4,"","","",8845SH,
+7,"","","",8845SH,
+9,"","","",8845SH,
+7,"",NUON,"",8845SH,
+7,"",NUON,"",8845SH,
+7,"",NUON,"",8845SH,
+De Bieren,1,"","",8845SH,Waaksens
+De Bieren,2,"","",8845SH,Waaksens
+De Bieren,4,"","",8845SH,Waaksens
+De Bieren,6,"","",8845SH,Waaksens
+De Bieren,7,"","",8845SH,Waaksens
+De Bieren,7,"",NUON,8845SH,Waaksens
+De Bieren,7,"",NUON,8845SH,Waaksens
+De Bieren,9,"","",8845SH,Waaksens
+De Bieren,9,A,"",8845SH,Waaksens
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

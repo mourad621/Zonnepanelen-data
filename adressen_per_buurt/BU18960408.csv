@@ -1,74 +1,74 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8064PH,De Velde,1,a,
-8064PH,De Velde,15,b,
-8064PH,De Velde,7,a,
-8064PH,De Velde,12,a,
-8064PH,De Velde,15,a,
-8064PH,De Velde,15,,
-8064PH,De Velde,2,,
-8064PH,De Velde,4,,
-8064PH,De Velde,3,a,
-8064PH,De Velde,14,,
-8064PH,De Velde,12,,
-8064PH,De Velde,13,,
-8064PH,De Velde,11,,
-8064PH,De Velde,9,,
-8064PH,De Velde,7,,
-8064PH,De Velde,5,,
-8064PH,De Velde,3,,
-8064PH,De Velde,1,,
-8064PH,De Velde,10,,
-8064PH,De Velde,8,,
-8064PJ,De Velde,16,,
-8064PJ,De Velde,36,,
-8064PJ,De Velde,34,,
-8064PJ,De Velde,32,,
-8064PJ,De Velde,30,,
-8064PJ,De Velde,28,,
-8064PJ,De Velde,26,,
-8064PJ,De Velde,24,,
-8064PJ,De Velde,22,,
-8064PJ,De Velde,18,,
-8064PJ,De Velde,20,,
-8064PJ,De Velde,27,a,
-8064PJ,De Velde,33,a,
-8064PJ,De Velde,21,,
-8064PJ,De Velde,25,,
-8064PJ,De Velde,29,,
-8064PJ,De Velde,17,,
-8064PJ,De Velde,37,,
-8064PJ,De Velde,35,,
-8064PJ,De Velde,35,,
-8064PJ,De Velde,33,a,
-8064PJ,De Velde,33,a,
-8064PJ,De Velde,33,,
-8064PJ,De Velde,31,,
-8064PJ,De Velde,27,,
-8064PJ,De Velde,23,,
-8064PJ,De Velde,19,,
-8064PJ,De Velde,22,a,
-8064PT,Stadsweg,1,,
-8064PT,Stadsweg,3,,
-8064PT,Stadsweg,2,,
-8064PT,Stadsweg,4,,
-8064PT,Stadsweg,3,,
-8064PK,Zwartewatersklooster,10,a,
-8064PK,Zwartewatersklooster,3,a,
-8064PK,Zwartewatersklooster,1,,
-8064PK,Zwartewatersklooster,3,,
-8064PK,Zwartewatersklooster,11,,
-8064PK,Zwartewatersklooster,5,,
-8064PK,Zwartewatersklooster,4,,
-8064PK,Zwartewatersklooster,8,,
-8064PK,Zwartewatersklooster,12,,
-8064PK,Zwartewatersklooster,6,,
-8064PK,Zwartewatersklooster,2,,
-8064PK,Zwartewatersklooster,5,a,
-8064PK,Zwartewatersklooster,9,,
-8064PK,Zwartewatersklooster,7,,
-8064PK,Zwartewatersklooster,7,a,
-8064PJ,De Velde,19,a,
-8064PJ,De Velde,19,b,
-8064PJ,De Velde,30,a,
-8064PJ,De Velde,30,b,
-8064PK,Zwartewatersklooster,13,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Velde,1,"","",8064PH,Zwartsluis
+De Velde,1,A,"",8064PH,Zwartsluis
+De Velde,10,"","",8064PH,Zwartsluis
+De Velde,11,"","",8064PH,Zwartsluis
+De Velde,12,"","",8064PH,Zwartsluis
+De Velde,12,A,"",8064PH,Zwartsluis
+De Velde,13,"","",8064PH,Zwartsluis
+De Velde,14,"","",8064PH,Zwartsluis
+De Velde,15,"","",8064PH,Zwartsluis
+De Velde,15,A,"",8064PH,Zwartsluis
+De Velde,15,B,"",8064PH,Zwartsluis
+De Velde,2,"","",8064PH,Zwartsluis
+De Velde,3,"","",8064PH,Zwartsluis
+De Velde,3,A,"",8064PH,Zwartsluis
+De Velde,4,"","",8064PH,Zwartsluis
+De Velde,5,"","",8064PH,Zwartsluis
+De Velde,7,"","",8064PH,Zwartsluis
+De Velde,7,A,"",8064PH,Zwartsluis
+De Velde,8,"","",8064PH,Zwartsluis
+De Velde,9,"","",8064PH,Zwartsluis
+De Velde,16,"","",8064PJ,Zwartsluis
+De Velde,17,"","",8064PJ,Zwartsluis
+De Velde,18,"","",8064PJ,Zwartsluis
+De Velde,19,"","",8064PJ,Zwartsluis
+De Velde,19,A,"",8064PJ,Zwartsluis
+De Velde,19,B,"",8064PJ,Zwartsluis
+De Velde,20,"","",8064PJ,Zwartsluis
+De Velde,21,"","",8064PJ,Zwartsluis
+De Velde,22,"","",8064PJ,Zwartsluis
+De Velde,22,A,"",8064PJ,Zwartsluis
+De Velde,23,"","",8064PJ,Zwartsluis
+De Velde,24,"","",8064PJ,Zwartsluis
+De Velde,25,"","",8064PJ,Zwartsluis
+De Velde,26,"","",8064PJ,Zwartsluis
+De Velde,27,"","",8064PJ,Zwartsluis
+De Velde,27,A,"",8064PJ,Zwartsluis
+De Velde,28,"","",8064PJ,Zwartsluis
+De Velde,29,"","",8064PJ,Zwartsluis
+De Velde,30,"","",8064PJ,Zwartsluis
+De Velde,30,A,"",8064PJ,Zwartsluis
+De Velde,30,B,"",8064PJ,Zwartsluis
+De Velde,31,"","",8064PJ,Zwartsluis
+De Velde,32,"","",8064PJ,Zwartsluis
+De Velde,33,"","",8064PJ,Zwartsluis
+De Velde,33,A,"",8064PJ,Zwartsluis
+De Velde,33,A,"",8064PJ,Zwartsluis
+De Velde,33,A,"",8064PJ,Zwartsluis
+De Velde,34,"","",8064PJ,Zwartsluis
+De Velde,35,"","",8064PJ,Zwartsluis
+De Velde,35,"","",8064PJ,Zwartsluis
+De Velde,36,"","",8064PJ,Zwartsluis
+De Velde,37,"","",8064PJ,Zwartsluis
+Zwartewatersklooster,1,"","",8064PK,Zwartsluis
+Zwartewatersklooster,10,A,"",8064PK,Zwartsluis
+Zwartewatersklooster,11,"","",8064PK,Zwartsluis
+Zwartewatersklooster,12,"","",8064PK,Zwartsluis
+Zwartewatersklooster,13,"","",8064PK,Zwartsluis
+Zwartewatersklooster,2,"","",8064PK,Zwartsluis
+Zwartewatersklooster,3,"","",8064PK,Zwartsluis
+Zwartewatersklooster,3,A,"",8064PK,Zwartsluis
+Zwartewatersklooster,4,"","",8064PK,Zwartsluis
+Zwartewatersklooster,5,"","",8064PK,Zwartsluis
+Zwartewatersklooster,5,A,"",8064PK,Zwartsluis
+Zwartewatersklooster,6,"","",8064PK,Zwartsluis
+Zwartewatersklooster,7,"","",8064PK,Zwartsluis
+Zwartewatersklooster,7,A,"",8064PK,Zwartsluis
+Zwartewatersklooster,8,"","",8064PK,Zwartsluis
+Zwartewatersklooster,9,"","",8064PK,Zwartsluis
+Stadsweg,1,"","",8064PT,Zwartsluis
+Stadsweg,2,"","",8064PT,Zwartsluis
+Stadsweg,3,"","",8064PT,Zwartsluis
+Stadsweg,3,"","",8064PT,Zwartsluis
+Stadsweg,4,"","",8064PT,Zwartsluis

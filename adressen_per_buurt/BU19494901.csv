@@ -1,821 +1,415 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8851EG",7,"",""
-"8851EG",11,"",""
-"8851EG",13,"",""
-"8851EG",43,"",""
-"8851EG",19,"",""
-"8851EG",23,"",""
-"8851EG",3,"",""
-"8851EG",29,"",""
-"8851EG",45,"",""
-"8851EG",1,"E",""
-"8851EG",1,"D",""
-"8851EG",1,"C",""
-"8851EG",9,"B",""
-"8851EG",9,"",""
-"8851EG",1,"",""
-"8851EG",37,"",""
-"8851EG",21,"",""
-"8851EG",1,"B",""
-"8851EG",5,"",""
-"8851EG",17,"",""
-"8851EG",49,"",""
-"8851EG",33,"",""
-"8851EG",35,"",""
-"8851EG",1,"A",""
-"8851EG",31,"",""
-"8851EG",9,"C",""
-"8851EG",1,"F",""
-"8851EG",47,"",""
-"8851EG",39,"",""
-"8851EG",27,"",""
-"8851EG",9,"D",""
-"8851EG",31,"",""
-"8851EG",31,"",""
-"8851EG",15,"",""
-"8851EG",9,"A",""
-"8851EG",31,"A",""
-"8851EG",25,"",""
-"8851EH",59,"E",""
-"8851EH",59,"R",""
-"8851EH",71,"A",""
-"8851EH",73,"",""
-"8851EH",59,"K",""
-"8851EH",59,"H",""
-"8851EH",12,"",""
-"8851EH",59,"D",""
-"8851EH",71,"",""
-"8851EH",59,"Q",""
-"8851EH",59,"F",""
-"8851EH",59,"C",""
-"8851EH",69,"",""
-"8851EH",63,"",""
-"8851EH",6,"",""
-"8851EH",51,"",""
-"8851EH",59,"J",""
-"8851EH",59,"B",""
-"8851EH",22,"",""
-"8851EH",2,"",""
-"8851EH",59,"A",""
-"8851EH",26,"B",""
-"8851EH",26,"",""
-"8851EH",61,"",""
-"8851EH",8,"",""
-"8851EH",53,"",""
-"8851EH",26,"B",""
-"8851EH",24,"",""
-"8851EH",59,"J",""
-"8851EH",59,"H",""
-"8851EH",59,"L",""
-"8851EH",10,"",""
-"8851EH",65,"",""
-"8851EH",4,"",""
-"8851EH",28,"",""
-"8851EH",59,"P",""
-"8851EH",26,"B",""
-"8851EH",14,"",""
-"8851EH",16,"",""
-"8851EH",59,"G",""
-"8851EH",22,"A",""
-"8851EH",59,"N",""
-"8851EH",59,"M",""
-"8851EN",34,"",""
-"8851EN",20,"",""
-"8851EN",4,"",""
-"8851EN",16,"",""
-"8851EN",8,"",""
-"8851EN",2,"B",""
-"8851EN",6,"",""
-"8851EN",10,"",""
-"8851EN",32,"",""
-"8851EN",36,"",""
-"8851EN",42,"",""
-"8851EN",28,"",""
-"8851EN",14,"",""
-"8851EN",22,"",""
-"8851EN",24,"",""
-"8851EN",26,"",""
-"8851EN",40,"",""
-"8851EN",26,"A",""
-"8851EN",2,"",""
-"8851EP",54,"",""
-"8851EP",56,"",""
-"8851EP",44,"",""
-"8851EP",90,"",""
-"8851EP",50,"",""
-"8851EP",70,"",""
-"8851EP",48,"",""
-"8851EP",58,"",""
-"8851EP",76,"",""
-"8851EP",80,"",""
-"8851EP",86,"",""
-"8851EP",74,"",""
-"8851EP",64,"",""
-"8851EP",46,"",""
-"8851EP",44,"A",""
-"8851EP",84,"",""
-"8851EP",66,"",""
-"8851EP",68,"",""
-"8851EP",62,"",""
-"8851ET",8,"G",""
-"8851ET",8,"E",""
-"8851ET",8,"C",""
-"8851ET",9,"",""
-"8851ET",10,"",""
-"8851ET",8,"B",""
-"8851ET",2,"",""
-"8851ET",8,"F",""
-"8851ET",8,"",""
-"8851ET",1,"",""
-"8851ET",8,"A",""
-"8851ET",8,"D",""
-"8851EV",1,"",""
-"8851EV",11,"",""
-"8851EV",9,"",""
-"8851EV",8,"",""
-"8851EV",2,"",""
-"8851EV",3,"",""
-"8851EW",1,"",""
-"8851EW",6,"",""
-"8851EW",4,"",""
-"8851EW",2,"",""
-"8851EW",5,"",""
-"8851EX",2,"",""
-"8851EX",8,"",""
-"8851EX",2,"A",""
-"8851EX",3,"",""
-"8851EX",1,"A",""
-"8851EZ",7,"",""
-"8851EZ",5,"",""
-"8851EZ",3,"",""
-"8851EZ",1,"",""
-"8851GA",2,"A",""
-"8851GA",4,"",""
-"8851GA",13,"",""
-"8851GA",11,"",""
-"8851GA",3,"",""
-"8851GA",17,"",""
-"8851GA",19,"",""
-"8851GA",16,"",""
-"8851GA",14,"",""
-"8851GA",2,"A",""
-"8851GA",9,"",""
-"8851GA",14,"",""
-"8851GA",1,"",""
-"8851GA",7,"",""
-"8851GA",12,"",""
-"8851GA",15,"",""
-"8851GA",10,"",""
-"8851GA",6,"",""
-"8851GA",5,"",""
-"8851GA",2,"",""
-"8851GA",16,"",""
-"8851GA",2,"A",""
-"8851GB",4,"",""
-"8851GB",2,"A",""
-"8851GB",3,"",""
-"8851GB",29,"",""
-"8851GB",25,"",""
-"8851GB",26,"",""
-"8851GB",32,"",""
-"8851GB",1,"",""
-"8851GB",33,"",""
-"8851GB",37,"",""
-"8851GB",27,"",""
-"8851GB",9,"",""
-"8851GB",5,"",""
-"8851GB",31,"",""
-"8851GB",21,"",""
-"8851GB",23,"",""
-"8851GB",20,"",""
-"8851GB",2,"",""
-"8851GB",7,"",""
-"8851GB",20,"",""
-"8851GB",19,"",""
-"8851GB",11,"",""
-"8851GB",13,"",""
-"8851GB",37,"A",""
-"8851GB",22,"",""
-"8851GB",17,"",""
-"8851GB",10,"",""
-"8851GB",30,"",""
-"8851GB",15,"",""
-"8851GC",36,"",""
-"8851GC",38,"",""
-"8851GC",2,"",""
-"8851GC",43,"",""
-"8851GC",45,"",""
-"8851GC",41,"",""
-"8851GC",39,"",""
-"8851GC",49,"",""
-"8851GC",34,"",""
-"8851GD",5,"",""
-"8851GD",7,"",""
-"8851GD",1,"B",""
-"8851GD",17,"",""
-"8851GD",1,"A",""
-"8851GD",11,"",""
-"8851GD",15,"",""
-"8851GD",9,"",""
-"8851GD",13,"",""
-"8851GD",3,"",""
-"8851GD",21,"",""
-"8851GD",1,"",""
-"8851GD",27,"",""
-"8851GD",23,"",""
-"8851GD",19,"",""
-"8851GD",25,"",""
-"8851GE",34,"",""
-"8851GE",20,"",""
-"8851GE",32,"",""
-"8851GE",26,"",""
-"8851GE",22,"",""
-"8851GE",42,"",""
-"8851GE",24,"",""
-"8851GE",38,"",""
-"8851GE",30,"",""
-"8851GE",44,"",""
-"8851GE",36,"",""
-"8851GE",16,"",""
-"8851GE",4,"",""
-"8851GE",40,"",""
-"8851GE",28,"",""
-"8851GE",18,"",""
-"8851GE",14,"",""
-"8851GE",12,"",""
-"8851GE",2,"",""
-"8851GE",8,"",""
-"8851GE",10,"",""
-"8851GE",6,"",""
-"8851GE",2,"A",""
-"8851GE",2,"B",""
-"8851GG",9,"",""
-"8851GG",11,"A",""
-"8851GG",4,"A",""
-"8851GG",9,"A",""
-"8851GG",8,"A",""
-"8851GG",10,"B",""
-"8851GG",11,"",""
-"8851GG",10,"A",""
-"8851GG",2,"",""
-"8851GG",3,"A",""
-"8851GG",1,"",""
-"8851GG",7,"A",""
-"8851GG",5,"A",""
-"8851GG",4,"",""
-"8851GG",3,"",""
-"8851GG",6,"A",""
-"8851GG",2,"A",""
-"8851GG",1,"A",""
-"8851GJ",11,"",""
-"8851GJ",19,"",""
-"8851GJ",1,"",""
-"8851GJ",21,"",""
-"8851GJ",15,"",""
-"8851GJ",5,"",""
-"8851GJ",13,"",""
-"8851GJ",3,"",""
-"8851GJ",9,"",""
-"8851GJ",17,"",""
-"8851GK",16,"",""
-"8851GK",14,"",""
-"8851GK",2,"B",""
-"8851GK",6,"",""
-"8851GK",2,"A",""
-"8851GK",2,"",""
-"8851GK",8,"",""
-"8851GK",34,"",""
-"8851GK",24,"",""
-"8851GK",10,"",""
-"8851GK",22,"",""
-"8851GK",32,"",""
-"8851GK",28,"",""
-"8851GP",10,"",""
-"8851GP",11,"",""
-"8851GP",6,"C",""
-"8851GP",1,"",""
-"8851GP",12,"",""
-"8851GP",6,"D",""
-"8851GP",8,"A",""
-"8851GP",7,"",""
-"8851GP",6,"",""
-"8851GP",14,"",""
-"8851GP",8,"",""
-"8851GP",15,"",""
-"8851GP",16,"",""
-"8851GP",1,"",""
-"8851GP",9,"",""
-"8851GP",13,"",""
-"8851GP",2,"",""
-"8851GP",5,"",""
-"8851GP",1,"",""
-"8851GP",1,"",""
-"8851GP",6,"E",""
-"8851GP",8,"B",""
-"8851GP",18,"",""
-"8851GP",4,"",""
-"8851GP",6,"B",""
-"8851GP",6,"A",""
-"8851GR",4,"",""
-"8851GR",7,"",""
-"8851GR",28,"",""
-"8851GR",32,"",""
-"8851GR",1,"",""
-"8851GR",2,"",""
-"8851GR",26,"",""
-"8851GR",24,"",""
-"8851GR",38,"",""
-"8851GR",9,"",""
-"8851GR",5,"",""
-"8851GR",30,"",""
-"8851GR",40,"",""
-"8851GR",42,"",""
-"8851GR",3,"",""
-"8851GR",34,"",""
-"8851GR",19,"",""
-"8851GR",36,"",""
-"8851GR",6,"",""
-"8851GR",11,"",""
-"8851GR",23,"",""
-"8851GR",20,"",""
-"8851GR",8,"",""
-"8851GR",12,"",""
-"8851GR",10,"",""
-"8851GR",21,"",""
-"8851GR",17,"",""
-"8851GR",18,"",""
-"8851GR",14,"",""
-"8851GR",22,"",""
-"8851GR",16,"",""
-"8851GR",13,"",""
-"8851GR",15,"",""
-"8851HX",1,"",""
-"8851HX",21,"",""
-"8851HX",3,"",""
-"8851HX",27,"",""
-"8851HX",27,"",""
-"8851HX",25,"",""
-"8851HX",1,"",""
-"8851HX",31,"",""
-"8851HX",25,"",""
-"8851HX",3,"",""
-"8851HX",23,"",""
-"8851HX",23,"",""
-"8851HX",1,"",""
-"8851HX",3,"",""
-"8851HX",25,"",""
-"8851HX",23,"",""
-"8851HX",1,"",""
-"8851HX",21,"",""
-"8851HX",41,"",""
-"8851HX",7,"",""
-"8851HX",2,"",""
-"8851HX",7,"",""
-"8851HX",11,"",""
-"8851HX",27,"",""
-"8851HX",23,"",""
-"8851HX",29,"",""
-"8851HX",27,"",""
-"8851HX",9,"",""
-"8851HX",15,"",""
-"8851HX",10,"",""
-"8851HX",11,"",""
-"8851HX",29,"",""
-"8851HX",29,"",""
-"8851HX",5,"",""
-"8851HX",25,"",""
-"8851HX",11,"",""
-"8851HX",21,"",""
-"8851HX",15,"",""
-"8851HX",4,"",""
-"8851HX",29,"",""
-"8851HX",17,"",""
-"8851HX",6,"",""
-"8851HX",13,"",""
-"8851HX",15,"",""
-"8851HX",7,"",""
-"8851HX",5,"",""
-"8851HX",17,"",""
-"8851HX",19,"",""
-"8851HX",5,"",""
-"8851HX",19,"",""
-"8851HX",19,"",""
-"8851HX",13,"",""
-"8851HX",15,"",""
-"8851HX",17,"",""
-"8851HX",21,"",""
-"8851HX",9,"",""
-"8851HX",19,"",""
-"8851HX",13,"",""
-"8851HX",12,"",""
-"8851HX",8,"",""
-"8851HX",17,"",""
-"8851HX",7,"",""
-"8851HX",9,"",""
-"8851HX",13,"",""
-8851HX,Sjoerd Draijerstrjitte,31,,
-8851HX,Sjoerd Draijerstrjitte,41,,
-8851EW,Koarnsteech,6,,
-8851ET,Skûtebuorren,8,A,
-8851ET,Skûtebuorren,8,C,
-8851ET,Skûtebuorren,8,D,
-8851ET,Skûtebuorren,8,E,
-8851ET,Skûtebuorren,8,F,
-8851ET,Skûtebuorren,8,G,
-8851EH,Swaerderwei,69,,
-8851EH,Swaerderwei,59,P,
-8851EH,Swaerderwei,59,N,
-8851EH,Swaerderwei,59,Q,
-8851EH,Swaerderwei,59,J,
-8851EH,Swaerderwei,59,H,
-8851EH,Swaerderwei,59,R,
-8851EH,Swaerderwei,59,K,
-8851EH,Swaerderwei,59,E,
-8851EH,Swaerderwei,59,L,
-8851EH,Swaerderwei,59,D,
-8851EH,Swaerderwei,59,C,
-8851EH,Swaerderwei,59,B,
-8851GP,Kleasterwei,8,B,
-8851GP,Kleasterwei,8,A,
-8851GP,Kleasterwei,6,E,
-8851GP,Kleasterwei,6,D,
-8851EZ,Spoarstrjitte,1,,
-8851EZ,Spoarstrjitte,7,,
-8851EZ,Spoarstrjitte,3,,
-8851EZ,Spoarstrjitte,5,,
-8851EN,Buorren,2,,
-8851EN,Buorren,2,B,
-8851EN,Buorren,4,,
-8851EN,Buorren,6,,
-8851EN,Buorren,8,,
-8851EN,Buorren,10,,
-8851EN,Buorren,14,,
-8851EN,Buorren,16,,
-8851EN,Buorren,20,,
-8851EN,Buorren,22,,
-8851EN,Buorren,24,,
-8851EN,Buorren,26,,
-8851EN,Buorren,26,A,
-8851EN,Buorren,28,,
-8851EN,Buorren,32,,
-8851EN,Buorren,34,,
-8851EN,Buorren,36,,
-8851EN,Buorren,40,,
-8851EN,Buorren,42,,
-8851EP,Buorren,44,,
-8851EP,Buorren,46,,
-8851EP,Buorren,48,,
-8851EP,Buorren,54,,
-8851EP,Buorren,56,,
-8851EP,Buorren,58,,
-8851EP,Buorren,62,,
-8851EP,Buorren,66,,
-8851EP,Buorren,68,,
-8851EP,Buorren,70,,
-8851EP,Buorren,80,,
-8851EP,Buorren,84,,
-8851EP,Buorren,86,,
-8851EP,Buorren,90,,
-8851EP,Buorren,50,,
-8851EP,Buorren,64,,
-8851EP,Buorren,76,,
-8851EP,Buorren,44,A,
-8851EP,Buorren,74,,
-8851GR,De Buffer,1,,
-8851GR,De Buffer,18,,
-8851GR,De Buffer,12,,
-8851GR,De Buffer,28,,
-8851GR,De Buffer,36,,
-8851GR,De Buffer,38,,
-8851GR,De Buffer,34,,
-8851GR,De Buffer,24,,
-8851GR,De Buffer,32,,
-8851GR,De Buffer,22,,
-8851GR,De Buffer,40,,
-8851GR,De Buffer,42,,
-8851GR,De Buffer,26,,
-8851GR,De Buffer,2,,
-8851GR,De Buffer,23,,
-8851GR,De Buffer,5,,
-8851GR,De Buffer,20,,
-8851GR,De Buffer,8,,
-8851GR,De Buffer,14,,
-8851GR,De Buffer,16,,
-8851GR,De Buffer,19,,
-8851GR,De Buffer,13,,
-8851GR,De Buffer,11,,
-8851GR,De Buffer,10,,
-8851GR,De Buffer,17,,
-8851GR,De Buffer,15,,
-8851GR,De Buffer,7,,
-8851GR,De Buffer,9,,
-8851GR,De Buffer,21,,
-8851GR,De Buffer,3,,
-8851GR,De Buffer,6,,
-8851GR,De Buffer,4,,
-8851GR,De Buffer,30,,
-8851HX,Sjoerd Draijerstrjitte,6,,
-8851HX,Sjoerd Draijerstrjitte,4,,
-8851HX,Sjoerd Draijerstrjitte,10,,
-8851HX,Sjoerd Draijerstrjitte,12,,
-8851HX,Sjoerd Draijerstrjitte,8,,
-8851HX,Sjoerd Draijerstrjitte,2,,
-8851HX,Sjoerd Draijerstrjitte,3,,
-8851HX,Sjoerd Draijerstrjitte,3,,
-8851HX,Sjoerd Draijerstrjitte,5,,
-8851HX,Sjoerd Draijerstrjitte,5,,
-8851HX,Sjoerd Draijerstrjitte,1,,
-8851HX,Sjoerd Draijerstrjitte,1,,
-8851HX,Sjoerd Draijerstrjitte,1,,
-8851HX,Sjoerd Draijerstrjitte,7,,
-8851HX,Sjoerd Draijerstrjitte,7,,
-8851HX,Sjoerd Draijerstrjitte,7,,
-8851HX,Sjoerd Draijerstrjitte,9,,
-8851HX,Sjoerd Draijerstrjitte,9,,
-8851HX,Sjoerd Draijerstrjitte,11,,
-8851HX,Sjoerd Draijerstrjitte,11,,
-8851HX,Sjoerd Draijerstrjitte,13,,
-8851HX,Sjoerd Draijerstrjitte,13,,
-8851HX,Sjoerd Draijerstrjitte,13,,
-8851HX,Sjoerd Draijerstrjitte,15,,
-8851HX,Sjoerd Draijerstrjitte,15,,
-8851HX,Sjoerd Draijerstrjitte,15,,
-8851HX,Sjoerd Draijerstrjitte,29,,
-8851HX,Sjoerd Draijerstrjitte,29,,
-8851HX,Sjoerd Draijerstrjitte,29,,
-8851HX,Sjoerd Draijerstrjitte,17,,
-8851HX,Sjoerd Draijerstrjitte,17,,
-8851HX,Sjoerd Draijerstrjitte,17,,
-8851HX,Sjoerd Draijerstrjitte,19,,
-8851HX,Sjoerd Draijerstrjitte,19,,
-8851HX,Sjoerd Draijerstrjitte,19,,
-8851HX,Sjoerd Draijerstrjitte,21,,
-8851HX,Sjoerd Draijerstrjitte,21,,
-8851HX,Sjoerd Draijerstrjitte,21,,
-8851HX,Sjoerd Draijerstrjitte,23,,
-8851HX,Sjoerd Draijerstrjitte,23,,
-8851HX,Sjoerd Draijerstrjitte,23,,
-8851HX,Sjoerd Draijerstrjitte,25,,
-8851HX,Sjoerd Draijerstrjitte,25,,
-8851HX,Sjoerd Draijerstrjitte,25,,
-8851HX,Sjoerd Draijerstrjitte,27,,
-8851HX,Sjoerd Draijerstrjitte,27,,
-8851HX,Sjoerd Draijerstrjitte,27,,
-8851GD,Evert Sybesmastrjitte,1,,
-8851GD,Evert Sybesmastrjitte,1,A,
-8851GD,Evert Sybesmastrjitte,1,B,
-8851GD,Evert Sybesmastrjitte,3,,
-8851GD,Evert Sybesmastrjitte,5,,
-8851GD,Evert Sybesmastrjitte,7,,
-8851GD,Evert Sybesmastrjitte,9,,
-8851GD,Evert Sybesmastrjitte,11,,
-8851GD,Evert Sybesmastrjitte,13,,
-8851GD,Evert Sybesmastrjitte,15,,
-8851GD,Evert Sybesmastrjitte,17,,
-8851GD,Evert Sybesmastrjitte,19,,
-8851GD,Evert Sybesmastrjitte,21,,
-8851GD,Evert Sybesmastrjitte,25,,
-8851GD,Evert Sybesmastrjitte,23,,
-8851GD,Evert Sybesmastrjitte,27,,
-8851GE,Evert Sybesmastrjitte,2,,
-8851GE,Evert Sybesmastrjitte,2,A,
-8851GE,Evert Sybesmastrjitte,4,,
-8851GE,Evert Sybesmastrjitte,8,,
-8851GE,Evert Sybesmastrjitte,10,,
-8851GE,Evert Sybesmastrjitte,16,,
-8851GE,Evert Sybesmastrjitte,18,,
-8851GE,Evert Sybesmastrjitte,22,,
-8851GE,Evert Sybesmastrjitte,26,,
-8851GE,Evert Sybesmastrjitte,30,,
-8851GE,Evert Sybesmastrjitte,32,,
-8851GE,Evert Sybesmastrjitte,36,,
-8851GE,Evert Sybesmastrjitte,38,,
-8851GE,Evert Sybesmastrjitte,40,,
-8851GE,Evert Sybesmastrjitte,42,,
-8851GE,Evert Sybesmastrjitte,44,,
-8851GE,Evert Sybesmastrjitte,28,,
-8851GE,Evert Sybesmastrjitte,2,B,
-8851GE,Evert Sybesmastrjitte,14,,
-8851GE,Evert Sybesmastrjitte,24,,
-8851GE,Evert Sybesmastrjitte,34,,
-8851GE,Evert Sybesmastrjitte,12,,
-8851GE,Evert Sybesmastrjitte,6,,
-8851GE,Evert Sybesmastrjitte,20,,
-8851GB,Hearewei,2,,
-8851GB,Hearewei,4,,
-8851GB,Hearewei,10,,
-8851GB,Hearewei,20,,
-8851GB,Hearewei,22,,
-8851GB,Hearewei,26,,
-8851GB,Hearewei,30,,
-8851GB,Hearewei,1,,
-8851GB,Hearewei,3,,
-8851GB,Hearewei,5,,
-8851GB,Hearewei,7,,
-8851GB,Hearewei,9,,
-8851GB,Hearewei,13,,
-8851GB,Hearewei,15,,
-8851GB,Hearewei,17,,
-8851GB,Hearewei,19,,
-8851GB,Hearewei,21,,
-8851GB,Hearewei,23,,
-8851GB,Hearewei,29,,
-8851GB,Hearewei,31,,
-8851GB,Hearewei,33,,
-8851GB,Hearewei,37,,
-8851GB,Hearewei,37,A,
-8851GB,Hearewei,2,A,
-8851GB,Hearewei,25,,
-8851GB,Hearewei,11,,
-8851GB,Hearewei,32,,
-8851GB,Hearewei,27,,
-8851GB,Hearewei,20,,
-8851GC,Hearewei,38,,
-8851GC,Hearewei,39,,
-8851GC,Hearewei,43,,
-8851GC,Hearewei,45,,
-8851GC,Hearewei,49,,
-8851GC,Hearewei,36,,
-8851GC,Hearewei,41,,
-8851GC,Hearewei,34,,
-8851EW,Koarnsteech,2,,
-8851EW,Koarnsteech,4,,
-8851EW,Koarnsteech,5,,
-8851EW,Koarnsteech,1,,
-8851GG,Sinaedawei,2,A,
-8851GG,Sinaedawei,4,A,
-8851GG,Sinaedawei,6,A,
-8851GG,Sinaedawei,10,A,
-8851GG,Sinaedawei,10,B,
-8851GG,Sinaedawei,1,,
-8851GG,Sinaedawei,1,A,
-8851GG,Sinaedawei,5,A,
-8851GG,Sinaedawei,9,,
-8851GG,Sinaedawei,9,A,
-8851GG,Sinaedawei,11,,
-8851GG,Sinaedawei,4,,
-8851GG,Sinaedawei,2,,
-8851GG,Sinaedawei,8,A,
-8851GG,Sinaedawei,3,A,
-8851GG,Sinaedawei,11,A,
-8851GG,Sinaedawei,3,,
-8851GG,Sinaedawei,7,A,
-8851GA,Skoalstrjitte,4,,
-8851GA,Skoalstrjitte,10,,
-8851GA,Skoalstrjitte,12,,
-8851GA,Skoalstrjitte,14,,
-8851GA,Skoalstrjitte,1,,
-8851GA,Skoalstrjitte,3,,
-8851GA,Skoalstrjitte,7,,
-8851GA,Skoalstrjitte,11,,
-8851GA,Skoalstrjitte,13,,
-8851GA,Skoalstrjitte,19,,
-8851GA,Skoalstrjitte,17,,
-8851GA,Skoalstrjitte,2,,
-8851GA,Skoalstrjitte,16,,
-8851GA,Skoalstrjitte,9,,
-8851GA,Skoalstrjitte,6,,
-8851GA,Skoalstrjitte,5,,
-8851GA,Skoalstrjitte,15,,
-8851GA,Skoalstrjitte,2,A,
-8851GA,Skoalstrjitte,2,A,
-8851GA,Skoalstrjitte,2,A,
-8851ET,Skûtebuorren,2,,
-8851ET,Skûtebuorren,10,,
-8851ET,Skûtebuorren,8,B,
-8851ET,Skûtebuorren,1,,
-8851ET,Skûtebuorren,8,,
-8851ET,Skûtebuorren,9,,
-8851EX,Stasjonswei,3,,
-8851EX,Stasjonswei,2,,
-8851EX,Stasjonswei,2,A,
-8851EX,Stasjonswei,1,A,
-8851EX,Stasjonswei,8,,
-8851EG,Swaerderwei,1,A,
-8851EG,Swaerderwei,1,B,
-8851EG,Swaerderwei,1,C,
-8851EG,Swaerderwei,1,D,
-8851EG,Swaerderwei,1,E,
-8851EG,Swaerderwei,3,,
-8851EG,Swaerderwei,5,,
-8851EG,Swaerderwei,9,A,
-8851EG,Swaerderwei,9,B,
-8851EG,Swaerderwei,9,C,
-8851EG,Swaerderwei,9,D,
-8851EG,Swaerderwei,11,,
-8851EG,Swaerderwei,13,,
-8851EG,Swaerderwei,15,,
-8851EG,Swaerderwei,17,,
-8851EG,Swaerderwei,19,,
-8851EG,Swaerderwei,21,,
-8851EG,Swaerderwei,23,,
-8851EG,Swaerderwei,25,,
-8851EG,Swaerderwei,27,,
-8851EG,Swaerderwei,29,,
-8851EG,Swaerderwei,1,F,
-8851EG,Swaerderwei,43,,
-8851EG,Swaerderwei,33,,
-8851EG,Swaerderwei,35,,
-8851EG,Swaerderwei,47,,
-8851EG,Swaerderwei,31,,
-8851EG,Swaerderwei,45,,
-8851EG,Swaerderwei,9,,
-8851EG,Swaerderwei,1,,
-8851EG,Swaerderwei,37,,
-8851EG,Swaerderwei,7,,
-8851EG,Swaerderwei,49,,
-8851EG,Swaerderwei,39,,
-8851EG,Swaerderwei,31,,
-8851EG,Swaerderwei,31,A,
-8851EH,Swaerderwei,2,,
-8851EH,Swaerderwei,4,,
-8851EH,Swaerderwei,6,,
-8851EH,Swaerderwei,8,,
-8851EH,Swaerderwei,10,,
-8851EH,Swaerderwei,12,,
-8851EH,Swaerderwei,14,,
-8851EH,Swaerderwei,16,,
-8851EH,Swaerderwei,22,,
-8851EH,Swaerderwei,22,A,
-8851EH,Swaerderwei,24,,
-8851EH,Swaerderwei,26,,
-8851EH,Swaerderwei,26,B,
-8851EH,Swaerderwei,28,,
-8851EH,Swaerderwei,61,,
-8851EH,Swaerderwei,65,,
-8851EH,Swaerderwei,53,,
-8851EH,Swaerderwei,63,,
-8851EH,Swaerderwei,73,,
-8851EH,Swaerderwei,51,,
-8851EH,Swaerderwei,59,A,
-8851EH,Swaerderwei,59,M,
-8851EH,Swaerderwei,59,F,
-8851EH,Swaerderwei,59,G,
-8851EH,Swaerderwei,26,B,
-8851EH,Swaerderwei,71,,
-8851EH,Swaerderwei,71,A,
-8851EV,Tsjerkepaed,2,,
-8851EV,Tsjerkepaed,1,,
-8851EV,Tsjerkepaed,3,,
-8851EV,Tsjerkepaed,9,,
-8851EV,Tsjerkepaed,11,,
-8851EV,Tsjerkepaed,8,,
-8851GC,Vossleane,2,,
-8851GJ,Westerbuorren,3,,
-8851GJ,Westerbuorren,5,,
-8851GJ,Westerbuorren,9,,
-8851GJ,Westerbuorren,11,,
-8851GJ,Westerbuorren,15,,
-8851GJ,Westerbuorren,19,,
-8851GJ,Westerbuorren,21,,
-8851GJ,Westerbuorren,1,,
-8851GJ,Westerbuorren,13,,
-8851GJ,Westerbuorren,17,,
-8851GK,Westerbuorren,2,B,
-8851GK,Westerbuorren,8,,
-8851GK,Westerbuorren,10,,
-8851GK,Westerbuorren,14,,
-8851GK,Westerbuorren,16,,
-8851GK,Westerbuorren,24,,
-8851GK,Westerbuorren,28,,
-8851GK,Westerbuorren,32,,
-8851GK,Westerbuorren,34,,
-8851GK,Westerbuorren,2,A,
-8851GK,Westerbuorren,6,,
-8851GK,Westerbuorren,2,,
-8851GK,Westerbuorren,22,,
-8851GP,Kleasterwei,2,,
-8851GP,Kleasterwei,6,,
-8851GP,Kleasterwei,6,A,
-8851GP,Kleasterwei,6,B,
-8851GP,Kleasterwei,6,C,
-8851GP,Kleasterwei,10,,
-8851GP,Kleasterwei,12,,
-8851GP,Kleasterwei,14,,
-8851GP,Kleasterwei,16,,
-8851GP,Kleasterwei,18,,
-8851GP,Kleasterwei,1,,
-8851GP,Kleasterwei,5,,
-8851GP,Kleasterwei,7,,
-8851GP,Kleasterwei,11,,
-8851GP,Kleasterwei,13,,
-8851GP,Kleasterwei,15,,
-8851GP,Kleasterwei,4,,
-8851GP,Kleasterwei,8,,
-8851GP,Kleasterwei,9,,
-8851GP,Kleasterwei,1,,
-8851HX,Sjoerd Draijerstrjitte,29,,
-8851HX,Sjoerd Draijerstrjitte,37,,
-8851HX,Sjoerd Draijerstrjitte,33,,
-8851HX,Sjoerd Draijerstrjitte,39,,
-8851HX,Sjoerd Draijerstrjitte,27,,
-8851HX,Sjoerd Draijerstrjitte,35,,
-8851HX,Sjoerd Draijerstrjitte,23,,
-8851HX,Sjoerd Draijerstrjitte,25,,
-8851HX,Sjoerd Draijerstrjitte,25,,
-8851GA,Skoalstrjitte,14,,
-8851EX,Stasjonswei,1,,
-8851EH,Swaerderwei,59,J,
-8851GP,Kleasterwei,1,,
-8851GP,Kleasterwei,8,,
-8851GP,Kleasterwei,6,D,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Swaerderwei,1,"","",8851EG,Tzummarum
+Swaerderwei,1,A,"",8851EG,Tzummarum
+Swaerderwei,1,B,"",8851EG,Tzummarum
+Swaerderwei,1,C,"",8851EG,Tzummarum
+Swaerderwei,1,D,"",8851EG,Tzummarum
+Swaerderwei,1,E,"",8851EG,Tzummarum
+Swaerderwei,1,F,"",8851EG,Tzummarum
+Swaerderwei,11,"","",8851EG,Tzummarum
+Swaerderwei,13,"","",8851EG,Tzummarum
+Swaerderwei,15,"","",8851EG,Tzummarum
+Swaerderwei,17,"","",8851EG,Tzummarum
+Swaerderwei,19,"","",8851EG,Tzummarum
+Swaerderwei,21,"","",8851EG,Tzummarum
+Swaerderwei,23,"","",8851EG,Tzummarum
+Swaerderwei,25,"","",8851EG,Tzummarum
+Swaerderwei,27,"","",8851EG,Tzummarum
+Swaerderwei,29,"","",8851EG,Tzummarum
+Swaerderwei,3,"","",8851EG,Tzummarum
+Swaerderwei,31,"","",8851EG,Tzummarum
+Swaerderwei,31,"","",8851EG,Tzummarum
+Swaerderwei,31,"","",8851EG,Tzummarum
+Swaerderwei,31,A,"",8851EG,Tzummarum
+Swaerderwei,33,"","",8851EG,Tzummarum
+Swaerderwei,35,"","",8851EG,Tzummarum
+Swaerderwei,37,"","",8851EG,Tzummarum
+Swaerderwei,39,"","",8851EG,Tzummarum
+Swaerderwei,43,"","",8851EG,Tzummarum
+Swaerderwei,45,"","",8851EG,Tzummarum
+Swaerderwei,47,"","",8851EG,Tzummarum
+Swaerderwei,49,"","",8851EG,Tzummarum
+Swaerderwei,5,"","",8851EG,Tzummarum
+Swaerderwei,7,"","",8851EG,Tzummarum
+Swaerderwei,9,"","",8851EG,Tzummarum
+Swaerderwei,9,A,"",8851EG,Tzummarum
+Swaerderwei,9,B,"",8851EG,Tzummarum
+Swaerderwei,9,C,"",8851EG,Tzummarum
+Swaerderwei,9,D,"",8851EG,Tzummarum
+Swaerderwei,10,"","",8851EH,Tzummarum
+Swaerderwei,12,"","",8851EH,Tzummarum
+Swaerderwei,14,"","",8851EH,Tzummarum
+Swaerderwei,16,"","",8851EH,Tzummarum
+Swaerderwei,2,"","",8851EH,Tzummarum
+Swaerderwei,22,"","",8851EH,Tzummarum
+Swaerderwei,22,A,"",8851EH,Tzummarum
+Swaerderwei,24,"","",8851EH,Tzummarum
+Swaerderwei,26,"","",8851EH,Tzummarum
+Swaerderwei,26,B,"",8851EH,Tzummarum
+Swaerderwei,26,B,"",8851EH,Tzummarum
+Swaerderwei,26,B,"",8851EH,Tzummarum
+Swaerderwei,28,"","",8851EH,Tzummarum
+Swaerderwei,4,"","",8851EH,Tzummarum
+Swaerderwei,51,"","",8851EH,Tzummarum
+Swaerderwei,53,"","",8851EH,Tzummarum
+Swaerderwei,59,A,"",8851EH,Tzummarum
+Swaerderwei,59,B,"",8851EH,Tzummarum
+Swaerderwei,59,C,"",8851EH,Tzummarum
+Swaerderwei,59,D,"",8851EH,Tzummarum
+Swaerderwei,59,E,"",8851EH,Tzummarum
+Swaerderwei,59,F,"",8851EH,Tzummarum
+Swaerderwei,59,G,"",8851EH,Tzummarum
+Swaerderwei,59,H,"",8851EH,Tzummarum
+Swaerderwei,59,H,"",8851EH,Tzummarum
+Swaerderwei,59,J,"",8851EH,Tzummarum
+Swaerderwei,59,J,"",8851EH,Tzummarum
+Swaerderwei,59,K,"",8851EH,Tzummarum
+Swaerderwei,59,L,"",8851EH,Tzummarum
+Swaerderwei,59,M,"",8851EH,Tzummarum
+Swaerderwei,59,N,"",8851EH,Tzummarum
+Swaerderwei,59,P,"",8851EH,Tzummarum
+Swaerderwei,59,Q,"",8851EH,Tzummarum
+Swaerderwei,59,R,"",8851EH,Tzummarum
+Swaerderwei,6,"","",8851EH,Tzummarum
+Swaerderwei,61,"","",8851EH,Tzummarum
+Swaerderwei,63,"","",8851EH,Tzummarum
+Swaerderwei,65,"","",8851EH,Tzummarum
+Swaerderwei,69,"","",8851EH,Tzummarum
+Swaerderwei,71,"","",8851EH,Tzummarum
+Swaerderwei,71,A,"",8851EH,Tzummarum
+Swaerderwei,73,"","",8851EH,Tzummarum
+Swaerderwei,8,"","",8851EH,Tzummarum
+Buorren,10,"","",8851EN,Tzummarum
+Buorren,14,"","",8851EN,Tzummarum
+Buorren,16,"","",8851EN,Tzummarum
+Buorren,2,"","",8851EN,Tzummarum
+Buorren,2,B,"",8851EN,Tzummarum
+Buorren,20,"","",8851EN,Tzummarum
+Buorren,22,"","",8851EN,Tzummarum
+Buorren,24,"","",8851EN,Tzummarum
+Buorren,26,"","",8851EN,Tzummarum
+Buorren,26,A,"",8851EN,Tzummarum
+Buorren,28,"","",8851EN,Tzummarum
+Buorren,32,"","",8851EN,Tzummarum
+Buorren,34,"","",8851EN,Tzummarum
+Buorren,36,"","",8851EN,Tzummarum
+Buorren,4,"","",8851EN,Tzummarum
+Buorren,40,"","",8851EN,Tzummarum
+Buorren,42,"","",8851EN,Tzummarum
+Buorren,6,"","",8851EN,Tzummarum
+Buorren,8,"","",8851EN,Tzummarum
+Buorren,44,"","",8851EP,Tzummarum
+Buorren,44,A,"",8851EP,Tzummarum
+Buorren,46,"","",8851EP,Tzummarum
+Buorren,48,"","",8851EP,Tzummarum
+Buorren,50,"","",8851EP,Tzummarum
+Buorren,54,"","",8851EP,Tzummarum
+Buorren,56,"","",8851EP,Tzummarum
+Buorren,58,"","",8851EP,Tzummarum
+Buorren,62,"","",8851EP,Tzummarum
+Buorren,64,"","",8851EP,Tzummarum
+Buorren,66,"","",8851EP,Tzummarum
+Buorren,68,"","",8851EP,Tzummarum
+Buorren,70,"","",8851EP,Tzummarum
+Buorren,74,"","",8851EP,Tzummarum
+Buorren,76,"","",8851EP,Tzummarum
+Buorren,80,"","",8851EP,Tzummarum
+Buorren,84,"","",8851EP,Tzummarum
+Buorren,86,"","",8851EP,Tzummarum
+Buorren,90,"","",8851EP,Tzummarum
+Skûtebuorren,1,"","",8851ET,Tzummarum
+Skûtebuorren,10,"","",8851ET,Tzummarum
+Skûtebuorren,2,"","",8851ET,Tzummarum
+Skûtebuorren,8,"","",8851ET,Tzummarum
+Skûtebuorren,8,A,"",8851ET,Tzummarum
+Skûtebuorren,8,B,"",8851ET,Tzummarum
+Skûtebuorren,8,C,"",8851ET,Tzummarum
+Skûtebuorren,8,D,"",8851ET,Tzummarum
+Skûtebuorren,8,E,"",8851ET,Tzummarum
+Skûtebuorren,8,F,"",8851ET,Tzummarum
+Skûtebuorren,8,G,"",8851ET,Tzummarum
+Skûtebuorren,9,"","",8851ET,Tzummarum
+Tsjerkepaed,1,"","",8851EV,Tzummarum
+Tsjerkepaed,11,"","",8851EV,Tzummarum
+Tsjerkepaed,2,"","",8851EV,Tzummarum
+Tsjerkepaed,3,"","",8851EV,Tzummarum
+Tsjerkepaed,8,"","",8851EV,Tzummarum
+Tsjerkepaed,9,"","",8851EV,Tzummarum
+Koarnsteech,1,"","",8851EW,Tzummarum
+Koarnsteech,2,"","",8851EW,Tzummarum
+Koarnsteech,4,"","",8851EW,Tzummarum
+Koarnsteech,5,"","",8851EW,Tzummarum
+Koarnsteech,6,"","",8851EW,Tzummarum
+Stasjonswei,1,A,"",8851EX,Tzummarum
+Stasjonswei,2,"","",8851EX,Tzummarum
+Stasjonswei,2,A,"",8851EX,Tzummarum
+Stasjonswei,3,"","",8851EX,Tzummarum
+Stasjonswei,8,"","",8851EX,Tzummarum
+Spoarstrjitte,1,"","",8851EZ,Tzummarum
+Spoarstrjitte,3,"","",8851EZ,Tzummarum
+Spoarstrjitte,5,"","",8851EZ,Tzummarum
+Spoarstrjitte,7,"","",8851EZ,Tzummarum
+Skoalstrjitte,1,"","",8851GA,Tzummarum
+Skoalstrjitte,10,"","",8851GA,Tzummarum
+Skoalstrjitte,11,"","",8851GA,Tzummarum
+Skoalstrjitte,12,"","",8851GA,Tzummarum
+Skoalstrjitte,13,"","",8851GA,Tzummarum
+Skoalstrjitte,14,"","",8851GA,Tzummarum
+Skoalstrjitte,14,"","",8851GA,Tzummarum
+Skoalstrjitte,15,"","",8851GA,Tzummarum
+Skoalstrjitte,16,"","",8851GA,Tzummarum
+Skoalstrjitte,16,"","",8851GA,Tzummarum
+Skoalstrjitte,17,"","",8851GA,Tzummarum
+Skoalstrjitte,19,"","",8851GA,Tzummarum
+Skoalstrjitte,2,"","",8851GA,Tzummarum
+Skoalstrjitte,2,A,"",8851GA,Tzummarum
+Skoalstrjitte,2,A,"",8851GA,Tzummarum
+Skoalstrjitte,2,A,"",8851GA,Tzummarum
+Skoalstrjitte,3,"","",8851GA,Tzummarum
+Skoalstrjitte,4,"","",8851GA,Tzummarum
+Skoalstrjitte,5,"","",8851GA,Tzummarum
+Skoalstrjitte,6,"","",8851GA,Tzummarum
+Skoalstrjitte,7,"","",8851GA,Tzummarum
+Skoalstrjitte,9,"","",8851GA,Tzummarum
+Hearewei,1,"","",8851GB,Tzummarum
+Hearewei,10,"","",8851GB,Tzummarum
+Hearewei,11,"","",8851GB,Tzummarum
+Hearewei,13,"","",8851GB,Tzummarum
+Hearewei,15,"","",8851GB,Tzummarum
+Hearewei,17,"","",8851GB,Tzummarum
+Hearewei,19,"","",8851GB,Tzummarum
+Hearewei,2,"","",8851GB,Tzummarum
+Hearewei,2,A,"",8851GB,Tzummarum
+Hearewei,20,"","",8851GB,Tzummarum
+Hearewei,20,"","",8851GB,Tzummarum
+Hearewei,21,"","",8851GB,Tzummarum
+Hearewei,22,"","",8851GB,Tzummarum
+Hearewei,23,"","",8851GB,Tzummarum
+Hearewei,25,"","",8851GB,Tzummarum
+Hearewei,26,"","",8851GB,Tzummarum
+Hearewei,27,"","",8851GB,Tzummarum
+Hearewei,29,"","",8851GB,Tzummarum
+Hearewei,3,"","",8851GB,Tzummarum
+Hearewei,30,"","",8851GB,Tzummarum
+Hearewei,31,"","",8851GB,Tzummarum
+Hearewei,32,"","",8851GB,Tzummarum
+Hearewei,33,"","",8851GB,Tzummarum
+Hearewei,37,"","",8851GB,Tzummarum
+Hearewei,37,A,"",8851GB,Tzummarum
+Hearewei,4,"","",8851GB,Tzummarum
+Hearewei,5,"","",8851GB,Tzummarum
+Hearewei,7,"","",8851GB,Tzummarum
+Hearewei,9,"","",8851GB,Tzummarum
+Vossleane,2,"","",8851GC,Tzummarum
+Hearewei,34,"","",8851GC,Tzummarum
+Hearewei,36,"","",8851GC,Tzummarum
+Hearewei,38,"","",8851GC,Tzummarum
+Hearewei,39,"","",8851GC,Tzummarum
+Hearewei,41,"","",8851GC,Tzummarum
+Hearewei,43,"","",8851GC,Tzummarum
+Hearewei,45,"","",8851GC,Tzummarum
+Hearewei,49,"","",8851GC,Tzummarum
+Evert Sybesmastrjitte,1,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,1,A,"",8851GD,Tzummarum
+Evert Sybesmastrjitte,1,B,"",8851GD,Tzummarum
+Evert Sybesmastrjitte,11,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,13,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,15,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,17,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,19,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,21,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,23,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,25,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,27,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,3,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,5,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,7,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,9,"","",8851GD,Tzummarum
+Evert Sybesmastrjitte,10,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,12,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,14,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,16,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,18,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,2,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,2,A,"",8851GE,Tzummarum
+Evert Sybesmastrjitte,2,B,"",8851GE,Tzummarum
+Evert Sybesmastrjitte,20,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,22,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,24,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,26,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,28,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,30,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,32,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,34,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,36,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,38,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,4,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,40,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,42,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,44,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,6,"","",8851GE,Tzummarum
+Evert Sybesmastrjitte,8,"","",8851GE,Tzummarum
+Sinaedawei,1,"","",8851GG,Tzummarum
+Sinaedawei,1,A,"",8851GG,Tzummarum
+Sinaedawei,10,A,"",8851GG,Tzummarum
+Sinaedawei,10,B,"",8851GG,Tzummarum
+Sinaedawei,11,"","",8851GG,Tzummarum
+Sinaedawei,11,A,"",8851GG,Tzummarum
+Sinaedawei,2,"","",8851GG,Tzummarum
+Sinaedawei,2,A,"",8851GG,Tzummarum
+Sinaedawei,3,"","",8851GG,Tzummarum
+Sinaedawei,3,A,"",8851GG,Tzummarum
+Sinaedawei,4,"","",8851GG,Tzummarum
+Sinaedawei,4,A,"",8851GG,Tzummarum
+Sinaedawei,5,A,"",8851GG,Tzummarum
+Sinaedawei,6,A,"",8851GG,Tzummarum
+Sinaedawei,7,A,"",8851GG,Tzummarum
+Sinaedawei,8,A,"",8851GG,Tzummarum
+Sinaedawei,9,"","",8851GG,Tzummarum
+Sinaedawei,9,A,"",8851GG,Tzummarum
+Westerbuorren,1,"","",8851GJ,Tzummarum
+Westerbuorren,11,"","",8851GJ,Tzummarum
+Westerbuorren,13,"","",8851GJ,Tzummarum
+Westerbuorren,15,"","",8851GJ,Tzummarum
+Westerbuorren,17,"","",8851GJ,Tzummarum
+Westerbuorren,19,"","",8851GJ,Tzummarum
+Westerbuorren,21,"","",8851GJ,Tzummarum
+Westerbuorren,3,"","",8851GJ,Tzummarum
+Westerbuorren,5,"","",8851GJ,Tzummarum
+Westerbuorren,9,"","",8851GJ,Tzummarum
+Westerbuorren,10,"","",8851GK,Tzummarum
+Westerbuorren,14,"","",8851GK,Tzummarum
+Westerbuorren,16,"","",8851GK,Tzummarum
+Westerbuorren,2,"","",8851GK,Tzummarum
+Westerbuorren,2,A,"",8851GK,Tzummarum
+Westerbuorren,2,B,"",8851GK,Tzummarum
+Westerbuorren,22,"","",8851GK,Tzummarum
+Westerbuorren,24,"","",8851GK,Tzummarum
+Westerbuorren,28,"","",8851GK,Tzummarum
+Westerbuorren,32,"","",8851GK,Tzummarum
+Westerbuorren,34,"","",8851GK,Tzummarum
+Westerbuorren,6,"","",8851GK,Tzummarum
+Westerbuorren,8,"","",8851GK,Tzummarum
+Kleasterwei,1,"","",8851GP,Tzummarum
+Kleasterwei,1,"","",8851GP,Tzummarum
+Kleasterwei,1,"","",8851GP,Tzummarum
+Kleasterwei,1,"","",8851GP,Tzummarum
+Kleasterwei,10,"","",8851GP,Tzummarum
+Kleasterwei,11,"","",8851GP,Tzummarum
+Kleasterwei,12,"","",8851GP,Tzummarum
+Kleasterwei,13,"","",8851GP,Tzummarum
+Kleasterwei,14,"","",8851GP,Tzummarum
+Kleasterwei,15,"","",8851GP,Tzummarum
+Kleasterwei,16,"","",8851GP,Tzummarum
+Kleasterwei,18,"","",8851GP,Tzummarum
+Kleasterwei,2,"","",8851GP,Tzummarum
+Kleasterwei,4,"","",8851GP,Tzummarum
+Kleasterwei,5,"","",8851GP,Tzummarum
+Kleasterwei,6,"","",8851GP,Tzummarum
+Kleasterwei,6,A,"",8851GP,Tzummarum
+Kleasterwei,6,B,"",8851GP,Tzummarum
+Kleasterwei,6,C,"",8851GP,Tzummarum
+Kleasterwei,6,D,"",8851GP,Tzummarum
+Kleasterwei,6,E,"",8851GP,Tzummarum
+Kleasterwei,7,"","",8851GP,Tzummarum
+Kleasterwei,8,"","",8851GP,Tzummarum
+Kleasterwei,8,A,"",8851GP,Tzummarum
+Kleasterwei,8,B,"",8851GP,Tzummarum
+Kleasterwei,9,"","",8851GP,Tzummarum
+De Buffer,1,"","",8851GR,Tzummarum
+De Buffer,10,"","",8851GR,Tzummarum
+De Buffer,11,"","",8851GR,Tzummarum
+De Buffer,12,"","",8851GR,Tzummarum
+De Buffer,13,"","",8851GR,Tzummarum
+De Buffer,14,"","",8851GR,Tzummarum
+De Buffer,15,"","",8851GR,Tzummarum
+De Buffer,16,"","",8851GR,Tzummarum
+De Buffer,17,"","",8851GR,Tzummarum
+De Buffer,18,"","",8851GR,Tzummarum
+De Buffer,19,"","",8851GR,Tzummarum
+De Buffer,2,"","",8851GR,Tzummarum
+De Buffer,20,"","",8851GR,Tzummarum
+De Buffer,21,"","",8851GR,Tzummarum
+De Buffer,22,"","",8851GR,Tzummarum
+De Buffer,23,"","",8851GR,Tzummarum
+De Buffer,24,"","",8851GR,Tzummarum
+De Buffer,26,"","",8851GR,Tzummarum
+De Buffer,28,"","",8851GR,Tzummarum
+De Buffer,3,"","",8851GR,Tzummarum
+De Buffer,30,"","",8851GR,Tzummarum
+De Buffer,32,"","",8851GR,Tzummarum
+De Buffer,34,"","",8851GR,Tzummarum
+De Buffer,36,"","",8851GR,Tzummarum
+De Buffer,38,"","",8851GR,Tzummarum
+De Buffer,4,"","",8851GR,Tzummarum
+De Buffer,40,"","",8851GR,Tzummarum
+De Buffer,42,"","",8851GR,Tzummarum
+De Buffer,5,"","",8851GR,Tzummarum
+De Buffer,6,"","",8851GR,Tzummarum
+De Buffer,7,"","",8851GR,Tzummarum
+De Buffer,8,"","",8851GR,Tzummarum
+De Buffer,9,"","",8851GR,Tzummarum
+Sjoerd Draijerstrjitte,1,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,1,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,1,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,1,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,10,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,11,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,11,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,11,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,12,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,13,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,13,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,13,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,13,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,15,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,15,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,15,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,15,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,17,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,17,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,17,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,17,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,19,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,19,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,19,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,19,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,2,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,21,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,21,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,21,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,21,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,23,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,23,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,23,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,23,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,25,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,25,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,25,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,25,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,27,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,27,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,27,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,27,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,29,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,29,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,29,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,29,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,3,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,3,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,3,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,31,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,4,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,41,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,5,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,5,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,5,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,6,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,7,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,7,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,7,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,7,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,8,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,9,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,9,"","",8851HX,Tzummarum
+Sjoerd Draijerstrjitte,9,"","",8851HX,Tzummarum

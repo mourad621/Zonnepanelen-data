@@ -1,519 +1,262 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7559SB",20,"",""
-"7559SC",202,"A",""
-"7559SC",208,"",""
-"7559SC",204,"",""
-"7559SC",202,"",""
-"7559SC",204,"",""
-"7559SC",210,"",""
-"7559SC",220,"",""
-"7559SC",206,"",""
-"7559SE",13,"",""
-"7559SE",1,"",""
-"7559SE",2,"",""
-"7559SE",15,"",""
-"7559SE",5,"",""
-"7559SG",18,"",""
-"7559SG",10,"","2"
-"7559SG",6,"",""
-"7559SG",10,"",""
-"7559SG",4,"",""
-"7559SG",10,"","4"
-"7559SG",14,"",""
-"7559SG",2,"",""
-"7559SH",13,"","29"
-"7559SH",13,"","3"
-"7559SH",9,"","7"
-"7559SH",13,"","27"
-"7559SH",13,"","23"
-"7559SH",110,"",""
-"7559SH",13,"","7"
-"7559SH",13,"","19"
-"7559SH",13,"","21"
-"7559SH",13,"","13"
-"7559SH",9,"","3"
-"7559SH",13,"","9"
-"7559SH",9,"","11"
-"7559SH",13,"","35"
-"7559SH",13,"","5"
-"7559SH",9,"","13"
-"7559SH",9,"","15"
-"7559SH",114,"",""
-"7559SH",14,"",""
-"7559SH",9,"","1"
-"7559SH",13,"","1"
-"7559SH",106,"",""
-"7559SH",13,"","17"
-"7559SH",13,"","31"
-"7559SH",13,"","25"
-"7559SH",9,"","9"
-"7559SH",5,"",""
-"7559SH",100,"",""
-"7559SH",104,"",""
-"7559SH",12,"",""
-"7559SH",9,"","5"
-"7559SH",108,"",""
-"7559SH",4,"",""
-"7559SH",13,"","33"
-"7559SH",8,"",""
-"7559SH",102,"",""
-"7559SH",13,"","11"
-"7559SH",112,"",""
-"7559SH",13,"","15"
-"7559SH",2,"",""
-"7559SH",1,"",""
-"7559SH",6,"",""
-"7559SH",10,"",""
-"7559SJ",15,"",""
-"7559SJ",21,"",""
-"7559SP",223,"",""
-"7559SP",173,"",""
-"7559SP",221,"",""
-"7559SP",103,"",""
-"7559SP",154,"",""
-"7559SP",132,"",""
-"7559SP",101,"",""
-"7559SP",110,"",""
-"7559SP",132,"",""
-"7559SP",259,"",""
-"7559SP",172,"",""
-"7559SP",140,"",""
-"7559SP",156,"",""
-"7559SP",134,"",""
-"7559SP",137,"",""
-"7559SP",182,"",""
-"7559SP",152,"",""
-"7559SP",215,"",""
-"7559SP",138,"",""
-"7559SP",128,"",""
-"7559SP",80,"",""
-"7559SP",136,"",""
-"7559SP",131,"",""
-"7559SP",173,"",""
-"7559SP",132,"A",""
-"7559SP",184,"",""
-"7559SP",193,"",""
-"7559SP",115,"",""
-"7559SP",11,"",""
-"7559SP",211,"",""
-"7559SP",209,"",""
-"7559SP",150,"",""
-"7559SP",255,"A",""
-"7559SP",251,"",""
-"7559SP",253,"",""
-"7559SP",128,"A",""
-"7559SP",128,"",""
-"7559SP",111,"",""
-"7559SP",11,"",""
-"7559SP",201,"",""
-"7559SP",130,"A",""
-"7559SP",130,"",""
-"7559SP",253,"A",""
-"7559SP",209,"",""
-"7559SP",130,"",""
-"7559SP",209,"",""
-"7559SP",257,"",""
-"7559SP",255,"",""
-"7559ST",352,"",""
-"7559ST",432,"",""
-"7559ST",390,"",""
-"7559ST",238,"",""
-"7559ST",386,"",""
-"7559ST",422,"",""
-"7559ST",234,"",""
-"7559ST",230,"",""
-"7559ST",420,"",""
-"7559ST",222,"",""
-"7559ST",430,"",""
-"7559ST",212,"",""
-"7559ST",232,"",""
-"7559ST",428,"",""
-"7559ST",226,"",""
-"7559ST",240,"",""
-"7559ST",214,"",""
-"7559ST",426,"",""
-"7559ST",206,"",""
-"7559ST",358,"",""
-"7559ST",216,"",""
-"7559ST",208,"",""
-"7559ST",218,"",""
-"7559ST",200,"",""
-"7559ST",204,"",""
-"7559ST",382,"",""
-"7559ST",400,"",""
-"7559ST",370,"",""
-"7559ST",224,"",""
-"7559ST",354,"",""
-"7559ST",294,"",""
-"7559ST",292,"",""
-"7559ST",364,"",""
-"7559ST",202,"",""
-"7559ST",322,"",""
-"7559ST",252,"",""
-"7559ST",324,"",""
-"7559ST",376,"",""
-"7559ST",378,"",""
-"7559ST",374,"",""
-"7559ST",356,"",""
-"7559ST",372,"",""
-"7559ST",360,"",""
-"7559ST",306,"",""
-"7559ST",308,"",""
-"7559ST",326,"",""
-"7559ST",318,"",""
-"7559ST",280,"",""
-"7559ST",250,"",""
-"7559ST",260,"",""
-"7559ST",388,"",""
-"7559ST",384,"",""
-"7559ST",366,"",""
-"7559ST",368,"",""
-"7559ST",210,"",""
-"7559ST",392,"",""
-"7559ST",338,"",""
-"7559ST",320,"",""
-"7559ST",316,"",""
-"7559ST",310,"",""
-"7559ST",274,"",""
-"7559ST",266,"",""
-"7559ST",268,"",""
-"7559ST",418,"",""
-"7559ST",410,"",""
-"7559ST",380,"",""
-"7559ST",220,"",""
-"7559ST",288,"",""
-"7559ST",290,"",""
-"7559ST",328,"",""
-"7559ST",340,"",""
-"7559ST",406,"",""
-"7559ST",264,"",""
-"7559ST",262,"",""
-"7559ST",270,"",""
-"7559ST",248,"",""
-"7559ST",396,"",""
-"7559ST",228,"",""
-"7559ST",362,"",""
-"7559ST",302,"",""
-"7559ST",300,"",""
-"7559ST",298,"",""
-"7559ST",436,"",""
-"7559ST",342,"",""
-"7559ST",408,"",""
-"7559ST",258,"",""
-"7559ST",278,"",""
-"7559ST",272,"",""
-"7559ST",314,"",""
-"7559ST",304,"",""
-"7559ST",440,"",""
-"7559ST",424,"",""
-"7559ST",344,"",""
-"7559ST",254,"",""
-"7559ST",296,"",""
-"7559ST",334,"",""
-"7559ST",246,"",""
-"7559ST",394,"",""
-"7559ST",404,"",""
-"7559ST",398,"",""
-"7559ST",434,"",""
-"7559ST",286,"",""
-"7559ST",414,"",""
-"7559ST",412,"",""
-"7559ST",346,"",""
-"7559ST",348,"",""
-"7559ST",242,"",""
-"7559ST",276,"",""
-"7559ST",312,"",""
-"7559ST",438,"",""
-"7559ST",416,"",""
-"7559ST",332,"",""
-"7559ST",336,"",""
-"7559ST",244,"",""
-"7559ST",282,"",""
-"7559ST",236,"",""
-"7559ST",350,"",""
-"7559ST",402,"",""
-"7559ST",330,"",""
-"7559ST",284,"",""
-"7559ST",256,"",""
-"7559SV",359,"",""
-"7559SV",301,"",""
-"7559SV",357,"",""
-"7559SV",60,"",""
-"7559SV",351,"",""
-"7559SV",355,"",""
-"7559SV",353,"",""
-"7559SW",26,"",""
-"7559SW",35,"",""
-"7559SW",37,"",""
-"7559SW",51,"",""
-"7559SW",33,"",""
-"7559SW",43,"",""
-"7559SW",20,"",""
-"7559SW",49,"",""
-"7559SW",45,"",""
-"7559SW",47,"",""
-"7559SW",41,"",""
-"7559SW",22,"",""
-"7559SW",39,"",""
-"7559SW",24,"",""
-"7559SW",6,"",""
-"7559SW",31,"",""
-"7559SZ",10,"",""
-"7559SZ",60,"",""
-7559SB,Beneluxlaan,20,,
-7559SC,Europalaan,202,,
-7559SC,Europalaan,210,,
-7559SP,Jan Tinbergenstraat,128,,
-7559SP,Jan Tinbergenstraat,128,,
-7559SP,Jan Tinbergenstraat,140,,
-7559SP,Jan Tinbergenstraat,138,,
-7559SP,Jan Tinbergenstraat,132,,
-7559SP,Jan Tinbergenstraat,132,,
-7559SP,Jan Tinbergenstraat,130,,
-7559SP,Jan Tinbergenstraat,130,,
-7559SP,Jan Tinbergenstraat,134,,
-7559SP,Jan Tinbergenstraat,136,,
-7559SP,Jan Tinbergenstraat,172,,
-7559SP,Jan Tinbergenstraat,173,,
-7559SP,Jan Tinbergenstraat,182,,
-7559SP,Jan Tinbergenstraat,184,,
-7559SP,Jan Tinbergenstraat,201,,
-7559SP,Jan Tinbergenstraat,11,,
-7559SP,Jan Tinbergenstraat,193,,
-7559SP,Jan Tinbergenstraat,209,,
-7559SP,Jan Tinbergenstraat,221,,
-7559SP,Jan Tinbergenstraat,223,,
-7559SP,Jan Tinbergenstraat,211,,
-7559SP,Jan Tinbergenstraat,215,,
-7559SP,Jan Tinbergenstraat,209,,
-7559SP,Jan Tinbergenstraat,101,,
-7559SP,Jan Tinbergenstraat,103,,
-7559ST,Jan Tinbergenstraat,200,,
-7559ST,Jan Tinbergenstraat,202,,
-7559ST,Jan Tinbergenstraat,204,,
-7559ST,Jan Tinbergenstraat,206,,
-7559ST,Jan Tinbergenstraat,210,,
-7559ST,Jan Tinbergenstraat,212,,
-7559ST,Jan Tinbergenstraat,216,,
-7559ST,Jan Tinbergenstraat,218,,
-7559ST,Jan Tinbergenstraat,220,,
-7559ST,Jan Tinbergenstraat,222,,
-7559ST,Jan Tinbergenstraat,226,,
-7559ST,Jan Tinbergenstraat,228,,
-7559ST,Jan Tinbergenstraat,230,,
-7559ST,Jan Tinbergenstraat,232,,
-7559ST,Jan Tinbergenstraat,234,,
-7559ST,Jan Tinbergenstraat,236,,
-7559ST,Jan Tinbergenstraat,238,,
-7559ST,Jan Tinbergenstraat,240,,
-7559ST,Jan Tinbergenstraat,242,,
-7559ST,Jan Tinbergenstraat,244,,
-7559ST,Jan Tinbergenstraat,246,,
-7559ST,Jan Tinbergenstraat,248,,
-7559ST,Jan Tinbergenstraat,252,,
-7559ST,Jan Tinbergenstraat,254,,
-7559ST,Jan Tinbergenstraat,256,,
-7559ST,Jan Tinbergenstraat,260,,
-7559ST,Jan Tinbergenstraat,262,,
-7559ST,Jan Tinbergenstraat,264,,
-7559ST,Jan Tinbergenstraat,268,,
-7559ST,Jan Tinbergenstraat,270,,
-7559ST,Jan Tinbergenstraat,272,,
-7559ST,Jan Tinbergenstraat,274,,
-7559ST,Jan Tinbergenstraat,276,,
-7559ST,Jan Tinbergenstraat,278,,
-7559ST,Jan Tinbergenstraat,280,,
-7559ST,Jan Tinbergenstraat,282,,
-7559ST,Jan Tinbergenstraat,286,,
-7559ST,Jan Tinbergenstraat,288,,
-7559ST,Jan Tinbergenstraat,290,,
-7559ST,Jan Tinbergenstraat,292,,
-7559ST,Jan Tinbergenstraat,294,,
-7559ST,Jan Tinbergenstraat,296,,
-7559ST,Jan Tinbergenstraat,298,,
-7559ST,Jan Tinbergenstraat,300,,
-7559ST,Jan Tinbergenstraat,304,,
-7559ST,Jan Tinbergenstraat,306,,
-7559ST,Jan Tinbergenstraat,308,,
-7559ST,Jan Tinbergenstraat,310,,
-7559ST,Jan Tinbergenstraat,312,,
-7559ST,Jan Tinbergenstraat,320,,
-7559ST,Jan Tinbergenstraat,322,,
-7559ST,Jan Tinbergenstraat,330,,
-7559ST,Jan Tinbergenstraat,334,,
-7559ST,Jan Tinbergenstraat,336,,
-7559ST,Jan Tinbergenstraat,338,,
-7559ST,Jan Tinbergenstraat,340,,
-7559ST,Jan Tinbergenstraat,342,,
-7559ST,Jan Tinbergenstraat,344,,
-7559ST,Jan Tinbergenstraat,346,,
-7559ST,Jan Tinbergenstraat,348,,
-7559ST,Jan Tinbergenstraat,350,,
-7559ST,Jan Tinbergenstraat,352,,
-7559ST,Jan Tinbergenstraat,356,,
-7559ST,Jan Tinbergenstraat,360,,
-7559ST,Jan Tinbergenstraat,362,,
-7559ST,Jan Tinbergenstraat,372,,
-7559ST,Jan Tinbergenstraat,374,,
-7559ST,Jan Tinbergenstraat,398,,
-7559ST,Jan Tinbergenstraat,400,,
-7559ST,Jan Tinbergenstraat,404,,
-7559ST,Jan Tinbergenstraat,410,,
-7559ST,Jan Tinbergenstraat,430,,
-7559ST,Jan Tinbergenstraat,258,,
-7559SE,Alfred Marshallstraat,1,,
-7559SE,Alfred Marshallstraat,2,,
-7559SE,Alfred Marshallstraat,13,,
-7559SE,Alfred Marshallstraat,15,,
-7559SE,Alfred Marshallstraat,5,,
-7559SH,David Ricardostraat,13,,19
-7559SH,David Ricardostraat,13,,15
-7559SH,David Ricardostraat,13,,13
-7559SH,David Ricardostraat,9,,15
-7559SH,David Ricardostraat,13,,9
-7559SH,David Ricardostraat,9,,9
-7559SH,David Ricardostraat,9,,13
-7559SH,David Ricardostraat,13,,7
-7559SH,David Ricardostraat,13,,11
-7559SH,David Ricardostraat,9,,11
-7559SH,David Ricardostraat,9,,7
-7559SH,David Ricardostraat,9,,1
-7559SH,David Ricardostraat,13,,1
-7559SH,David Ricardostraat,13,,29
-7559SH,David Ricardostraat,13,,27
-7559SH,David Ricardostraat,13,,35
-7559SH,David Ricardostraat,13,,3
-7559SH,David Ricardostraat,13,,5
-7559SH,David Ricardostraat,9,,3
-7559SH,David Ricardostraat,9,,5
-7559SH,David Ricardostraat,6,,
-7559SH,David Ricardostraat,10,,
-7559SH,David Ricardostraat,13,,17
-7559SH,David Ricardostraat,13,,21
-7559SH,David Ricardostraat,13,,23
-7559SH,David Ricardostraat,13,,25
-7559SH,David Ricardostraat,13,,31
-7559SH,David Ricardostraat,13,,33
-7559SH,David Ricardostraat,2,,
-7559SH,David Ricardostraat,1,,
-7559SH,David Ricardostraat,5,,
-7559SH,David Ricardostraat,12,,
-7559SH,David Ricardostraat,14,,
-7559SH,David Ricardostraat,4,,
-7559SG,Joseph Schumpeterstraat,2,,
-7559SG,Joseph Schumpeterstraat,14,,
-7559SG,Joseph Schumpeterstraat,18,,
-7559SG,Joseph Schumpeterstraat,4,,
-7559SG,Joseph Schumpeterstraat,6,,
-7559SG,Joseph Schumpeterstraat,10,,
-7559SG,Joseph Schumpeterstraat,10,,2
-7559SG,Joseph Schumpeterstraat,10,,4
-7559SJ,Scandinaviëlaan,21,,
-7559SW,Adam Smithstraat,41,,
-7559SW,Adam Smithstraat,37,,
-7559SW,Adam Smithstraat,43,,
-7559SW,Adam Smithstraat,45,,
-7559SW,Adam Smithstraat,33,,
-7559SW,Adam Smithstraat,35,,
-7559SW,Adam Smithstraat,39,,
-7559SW,Adam Smithstraat,47,,
-7559SW,Adam Smithstraat,31,,
-7559SW,Adam Smithstraat,6,,
-7559SV,John Maynard Keynesstraat,351,,
-7559SV,John Maynard Keynesstraat,353,,
-7559SV,John Maynard Keynesstraat,355,,
-7559SV,John Maynard Keynesstraat,357,,
-7559SV,John Maynard Keynesstraat,359,,
-7559SV,John Maynard Keynesstraat,60,,
-7559SZ,John Maynard Keynesstraat,60,,
-7559SC,Europalaan,204,,
-7559SC,Europalaan,206,,
-7559SC,Europalaan,208,,
-7559SC,Europalaan,202,A,
-7559SC,Europalaan,220,,
-7559SP,Jan Tinbergenstraat,152,,
-7559SP,Jan Tinbergenstraat,154,,
-7559SP,Jan Tinbergenstraat,128,A,
-7559SP,Jan Tinbergenstraat,130,A,
-7559SP,Jan Tinbergenstraat,132,A,
-7559SP,Jan Tinbergenstraat,110,,
-7559SP,Jan Tinbergenstraat,80,,
-7559ST,Jan Tinbergenstraat,208,,
-7559ST,Jan Tinbergenstraat,214,,
-7559ST,Jan Tinbergenstraat,224,,
-7559ST,Jan Tinbergenstraat,250,,
-7559ST,Jan Tinbergenstraat,266,,
-7559ST,Jan Tinbergenstraat,284,,
-7559ST,Jan Tinbergenstraat,302,,
-7559ST,Jan Tinbergenstraat,314,,
-7559ST,Jan Tinbergenstraat,316,,
-7559ST,Jan Tinbergenstraat,318,,
-7559ST,Jan Tinbergenstraat,324,,
-7559ST,Jan Tinbergenstraat,326,,
-7559ST,Jan Tinbergenstraat,328,,
-7559ST,Jan Tinbergenstraat,332,,
-7559ST,Jan Tinbergenstraat,354,,
-7559ST,Jan Tinbergenstraat,358,,
-7559ST,Jan Tinbergenstraat,364,,
-7559ST,Jan Tinbergenstraat,366,,
-7559ST,Jan Tinbergenstraat,368,,
-7559ST,Jan Tinbergenstraat,370,,
-7559ST,Jan Tinbergenstraat,376,,
-7559ST,Jan Tinbergenstraat,378,,
-7559ST,Jan Tinbergenstraat,380,,
-7559ST,Jan Tinbergenstraat,382,,
-7559ST,Jan Tinbergenstraat,384,,
-7559ST,Jan Tinbergenstraat,386,,
-7559ST,Jan Tinbergenstraat,388,,
-7559ST,Jan Tinbergenstraat,390,,
-7559ST,Jan Tinbergenstraat,392,,
-7559ST,Jan Tinbergenstraat,394,,
-7559ST,Jan Tinbergenstraat,396,,
-7559ST,Jan Tinbergenstraat,402,,
-7559ST,Jan Tinbergenstraat,406,,
-7559ST,Jan Tinbergenstraat,408,,
-7559ST,Jan Tinbergenstraat,412,,
-7559ST,Jan Tinbergenstraat,414,,
-7559ST,Jan Tinbergenstraat,416,,
-7559ST,Jan Tinbergenstraat,418,,
-7559ST,Jan Tinbergenstraat,420,,
-7559ST,Jan Tinbergenstraat,422,,
-7559ST,Jan Tinbergenstraat,424,,
-7559ST,Jan Tinbergenstraat,426,,
-7559ST,Jan Tinbergenstraat,428,,
-7559ST,Jan Tinbergenstraat,432,,
-7559ST,Jan Tinbergenstraat,434,,
-7559ST,Jan Tinbergenstraat,436,,
-7559ST,Jan Tinbergenstraat,438,,
-7559ST,Jan Tinbergenstraat,440,,
-7559SH,David Ricardostraat,8,,
-7559SJ,Scandinaviëlaan,15,,
-7559SW,Adam Smithstraat,49,,
-7559SW,Adam Smithstraat,51,,
-7559SV,John Maynard Keynesstraat,301,,
-7559SZ,John Maynard Keynesstraat,10,,
-7559SH,P.C. Borstlaan,100,,
-7559SH,P.C. Borstlaan,102,,
-7559SH,P.C. Borstlaan,104,,
-7559SH,P.C. Borstlaan,106,,
-7559SH,P.C. Borstlaan,108,,
-7559SH,P.C. Borstlaan,110,,
-7559SH,P.C. Borstlaan,112,,
-7559SH,P.C. Borstlaan,114,,
-7559SP,Jan Tinbergenstraat,111,,
-7559SP,Jan Tinbergenstraat,115,,
-7559SP,Jan Tinbergenstraat,251,,
-7559SP,Jan Tinbergenstraat,156,,
-7559SP,Jan Tinbergenstraat,150,,
-7559SP,Jan Tinbergenstraat,131,,
-7559SP,Jan Tinbergenstraat,137,,
-7559SP,Jan Tinbergenstraat,253,,
-7559SP,Jan Tinbergenstraat,255,,
-7559SP,Jan Tinbergenstraat,257,,
-7559SP,Jan Tinbergenstraat,259,,
-7559SP,Jan Tinbergenstraat,253,A,
-7559SP,Jan Tinbergenstraat,255,A,
-7559SW,Adam Smithstraat,26,,
-7559SW,Adam Smithstraat,24,,
-7559SW,Adam Smithstraat,22,,
-7559SW,Adam Smithstraat,20,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Beneluxlaan,20,"","",7559SB,Hengelo
+Europalaan,202,"","",7559SC,Hengelo
+Europalaan,202,A,"",7559SC,Hengelo
+Europalaan,204,"","",7559SC,Hengelo
+Europalaan,204,"","",7559SC,Hengelo
+Europalaan,206,"","",7559SC,Hengelo
+Europalaan,208,"","",7559SC,Hengelo
+Europalaan,210,"","",7559SC,Hengelo
+Europalaan,220,"","",7559SC,Hengelo
+Alfred Marshallstraat,1,"","",7559SE,Hengelo
+Alfred Marshallstraat,13,"","",7559SE,Hengelo
+Alfred Marshallstraat,15,"","",7559SE,Hengelo
+Alfred Marshallstraat,2,"","",7559SE,Hengelo
+Alfred Marshallstraat,5,"","",7559SE,Hengelo
+Joseph Schumpeterstraat,10,"","",7559SG,Hengelo
+Joseph Schumpeterstraat,10,"",2,7559SG,Hengelo
+Joseph Schumpeterstraat,10,"",4,7559SG,Hengelo
+Joseph Schumpeterstraat,14,"","",7559SG,Hengelo
+Joseph Schumpeterstraat,18,"","",7559SG,Hengelo
+Joseph Schumpeterstraat,2,"","",7559SG,Hengelo
+Joseph Schumpeterstraat,4,"","",7559SG,Hengelo
+Joseph Schumpeterstraat,6,"","",7559SG,Hengelo
+David Ricardostraat,1,"","",7559SH,Hengelo
+David Ricardostraat,10,"","",7559SH,Hengelo
+P.C. Borstlaan,100,"","",7559SH,Hengelo
+P.C. Borstlaan,102,"","",7559SH,Hengelo
+P.C. Borstlaan,104,"","",7559SH,Hengelo
+P.C. Borstlaan,106,"","",7559SH,Hengelo
+P.C. Borstlaan,108,"","",7559SH,Hengelo
+P.C. Borstlaan,110,"","",7559SH,Hengelo
+P.C. Borstlaan,112,"","",7559SH,Hengelo
+P.C. Borstlaan,114,"","",7559SH,Hengelo
+David Ricardostraat,12,"","",7559SH,Hengelo
+David Ricardostraat,13,"",1,7559SH,Hengelo
+David Ricardostraat,13,"",11,7559SH,Hengelo
+David Ricardostraat,13,"",13,7559SH,Hengelo
+David Ricardostraat,13,"",15,7559SH,Hengelo
+David Ricardostraat,13,"",17,7559SH,Hengelo
+David Ricardostraat,13,"",19,7559SH,Hengelo
+David Ricardostraat,13,"",21,7559SH,Hengelo
+David Ricardostraat,13,"",23,7559SH,Hengelo
+David Ricardostraat,13,"",25,7559SH,Hengelo
+David Ricardostraat,13,"",27,7559SH,Hengelo
+David Ricardostraat,13,"",29,7559SH,Hengelo
+David Ricardostraat,13,"",3,7559SH,Hengelo
+David Ricardostraat,13,"",31,7559SH,Hengelo
+David Ricardostraat,13,"",33,7559SH,Hengelo
+David Ricardostraat,13,"",35,7559SH,Hengelo
+David Ricardostraat,13,"",5,7559SH,Hengelo
+David Ricardostraat,13,"",7,7559SH,Hengelo
+David Ricardostraat,13,"",9,7559SH,Hengelo
+David Ricardostraat,14,"","",7559SH,Hengelo
+David Ricardostraat,2,"","",7559SH,Hengelo
+David Ricardostraat,4,"","",7559SH,Hengelo
+David Ricardostraat,5,"","",7559SH,Hengelo
+David Ricardostraat,6,"","",7559SH,Hengelo
+David Ricardostraat,8,"","",7559SH,Hengelo
+David Ricardostraat,9,"",1,7559SH,Hengelo
+David Ricardostraat,9,"",11,7559SH,Hengelo
+David Ricardostraat,9,"",13,7559SH,Hengelo
+David Ricardostraat,9,"",15,7559SH,Hengelo
+David Ricardostraat,9,"",3,7559SH,Hengelo
+David Ricardostraat,9,"",5,7559SH,Hengelo
+David Ricardostraat,9,"",7,7559SH,Hengelo
+David Ricardostraat,9,"",9,7559SH,Hengelo
+Scandinaviëlaan,15,"","",7559SJ,Hengelo
+Scandinaviëlaan,21,"","",7559SJ,Hengelo
+Jan Tinbergenstraat,101,"","",7559SP,Hengelo
+Jan Tinbergenstraat,103,"","",7559SP,Hengelo
+Jan Tinbergenstraat,11,"","",7559SP,Hengelo
+Jan Tinbergenstraat,11,"","",7559SP,Hengelo
+Jan Tinbergenstraat,110,"","",7559SP,Hengelo
+Jan Tinbergenstraat,111,"","",7559SP,Hengelo
+Jan Tinbergenstraat,115,"","",7559SP,Hengelo
+Jan Tinbergenstraat,128,"","",7559SP,Hengelo
+Jan Tinbergenstraat,128,"","",7559SP,Hengelo
+Jan Tinbergenstraat,128,A,"",7559SP,Hengelo
+Jan Tinbergenstraat,130,"","",7559SP,Hengelo
+Jan Tinbergenstraat,130,"","",7559SP,Hengelo
+Jan Tinbergenstraat,130,A,"",7559SP,Hengelo
+Jan Tinbergenstraat,131,"","",7559SP,Hengelo
+Jan Tinbergenstraat,132,"","",7559SP,Hengelo
+Jan Tinbergenstraat,132,"","",7559SP,Hengelo
+Jan Tinbergenstraat,132,A,"",7559SP,Hengelo
+Jan Tinbergenstraat,134,"","",7559SP,Hengelo
+Jan Tinbergenstraat,136,"","",7559SP,Hengelo
+Jan Tinbergenstraat,137,"","",7559SP,Hengelo
+Jan Tinbergenstraat,138,"","",7559SP,Hengelo
+Jan Tinbergenstraat,140,"","",7559SP,Hengelo
+Jan Tinbergenstraat,150,"","",7559SP,Hengelo
+Jan Tinbergenstraat,152,"","",7559SP,Hengelo
+Jan Tinbergenstraat,154,"","",7559SP,Hengelo
+Jan Tinbergenstraat,156,"","",7559SP,Hengelo
+Jan Tinbergenstraat,172,"","",7559SP,Hengelo
+Jan Tinbergenstraat,173,"","",7559SP,Hengelo
+Jan Tinbergenstraat,173,"","",7559SP,Hengelo
+Jan Tinbergenstraat,182,"","",7559SP,Hengelo
+Jan Tinbergenstraat,184,"","",7559SP,Hengelo
+Jan Tinbergenstraat,193,"","",7559SP,Hengelo
+Jan Tinbergenstraat,201,"","",7559SP,Hengelo
+Jan Tinbergenstraat,209,"","",7559SP,Hengelo
+Jan Tinbergenstraat,209,"","",7559SP,Hengelo
+Jan Tinbergenstraat,209,"","",7559SP,Hengelo
+Jan Tinbergenstraat,211,"","",7559SP,Hengelo
+Jan Tinbergenstraat,215,"","",7559SP,Hengelo
+Jan Tinbergenstraat,221,"","",7559SP,Hengelo
+Jan Tinbergenstraat,223,"","",7559SP,Hengelo
+Jan Tinbergenstraat,251,"","",7559SP,Hengelo
+Jan Tinbergenstraat,253,"","",7559SP,Hengelo
+Jan Tinbergenstraat,253,A,"",7559SP,Hengelo
+Jan Tinbergenstraat,255,"","",7559SP,Hengelo
+Jan Tinbergenstraat,255,A,"",7559SP,Hengelo
+Jan Tinbergenstraat,257,"","",7559SP,Hengelo
+Jan Tinbergenstraat,259,"","",7559SP,Hengelo
+Jan Tinbergenstraat,80,"","",7559SP,Hengelo
+Jan Tinbergenstraat,200,"","",7559ST,Hengelo
+Jan Tinbergenstraat,202,"","",7559ST,Hengelo
+Jan Tinbergenstraat,204,"","",7559ST,Hengelo
+Jan Tinbergenstraat,206,"","",7559ST,Hengelo
+Jan Tinbergenstraat,208,"","",7559ST,Hengelo
+Jan Tinbergenstraat,210,"","",7559ST,Hengelo
+Jan Tinbergenstraat,212,"","",7559ST,Hengelo
+Jan Tinbergenstraat,214,"","",7559ST,Hengelo
+Jan Tinbergenstraat,216,"","",7559ST,Hengelo
+Jan Tinbergenstraat,218,"","",7559ST,Hengelo
+Jan Tinbergenstraat,220,"","",7559ST,Hengelo
+Jan Tinbergenstraat,222,"","",7559ST,Hengelo
+Jan Tinbergenstraat,224,"","",7559ST,Hengelo
+Jan Tinbergenstraat,226,"","",7559ST,Hengelo
+Jan Tinbergenstraat,228,"","",7559ST,Hengelo
+Jan Tinbergenstraat,230,"","",7559ST,Hengelo
+Jan Tinbergenstraat,232,"","",7559ST,Hengelo
+Jan Tinbergenstraat,234,"","",7559ST,Hengelo
+Jan Tinbergenstraat,236,"","",7559ST,Hengelo
+Jan Tinbergenstraat,238,"","",7559ST,Hengelo
+Jan Tinbergenstraat,240,"","",7559ST,Hengelo
+Jan Tinbergenstraat,242,"","",7559ST,Hengelo
+Jan Tinbergenstraat,244,"","",7559ST,Hengelo
+Jan Tinbergenstraat,246,"","",7559ST,Hengelo
+Jan Tinbergenstraat,248,"","",7559ST,Hengelo
+Jan Tinbergenstraat,250,"","",7559ST,Hengelo
+Jan Tinbergenstraat,252,"","",7559ST,Hengelo
+Jan Tinbergenstraat,254,"","",7559ST,Hengelo
+Jan Tinbergenstraat,256,"","",7559ST,Hengelo
+Jan Tinbergenstraat,258,"","",7559ST,Hengelo
+Jan Tinbergenstraat,260,"","",7559ST,Hengelo
+Jan Tinbergenstraat,262,"","",7559ST,Hengelo
+Jan Tinbergenstraat,264,"","",7559ST,Hengelo
+Jan Tinbergenstraat,266,"","",7559ST,Hengelo
+Jan Tinbergenstraat,268,"","",7559ST,Hengelo
+Jan Tinbergenstraat,270,"","",7559ST,Hengelo
+Jan Tinbergenstraat,272,"","",7559ST,Hengelo
+Jan Tinbergenstraat,274,"","",7559ST,Hengelo
+Jan Tinbergenstraat,276,"","",7559ST,Hengelo
+Jan Tinbergenstraat,278,"","",7559ST,Hengelo
+Jan Tinbergenstraat,280,"","",7559ST,Hengelo
+Jan Tinbergenstraat,282,"","",7559ST,Hengelo
+Jan Tinbergenstraat,284,"","",7559ST,Hengelo
+Jan Tinbergenstraat,286,"","",7559ST,Hengelo
+Jan Tinbergenstraat,288,"","",7559ST,Hengelo
+Jan Tinbergenstraat,290,"","",7559ST,Hengelo
+Jan Tinbergenstraat,292,"","",7559ST,Hengelo
+Jan Tinbergenstraat,294,"","",7559ST,Hengelo
+Jan Tinbergenstraat,296,"","",7559ST,Hengelo
+Jan Tinbergenstraat,298,"","",7559ST,Hengelo
+Jan Tinbergenstraat,300,"","",7559ST,Hengelo
+Jan Tinbergenstraat,302,"","",7559ST,Hengelo
+Jan Tinbergenstraat,304,"","",7559ST,Hengelo
+Jan Tinbergenstraat,306,"","",7559ST,Hengelo
+Jan Tinbergenstraat,308,"","",7559ST,Hengelo
+Jan Tinbergenstraat,310,"","",7559ST,Hengelo
+Jan Tinbergenstraat,312,"","",7559ST,Hengelo
+Jan Tinbergenstraat,314,"","",7559ST,Hengelo
+Jan Tinbergenstraat,316,"","",7559ST,Hengelo
+Jan Tinbergenstraat,318,"","",7559ST,Hengelo
+Jan Tinbergenstraat,320,"","",7559ST,Hengelo
+Jan Tinbergenstraat,322,"","",7559ST,Hengelo
+Jan Tinbergenstraat,324,"","",7559ST,Hengelo
+Jan Tinbergenstraat,326,"","",7559ST,Hengelo
+Jan Tinbergenstraat,328,"","",7559ST,Hengelo
+Jan Tinbergenstraat,330,"","",7559ST,Hengelo
+Jan Tinbergenstraat,332,"","",7559ST,Hengelo
+Jan Tinbergenstraat,334,"","",7559ST,Hengelo
+Jan Tinbergenstraat,336,"","",7559ST,Hengelo
+Jan Tinbergenstraat,338,"","",7559ST,Hengelo
+Jan Tinbergenstraat,340,"","",7559ST,Hengelo
+Jan Tinbergenstraat,342,"","",7559ST,Hengelo
+Jan Tinbergenstraat,344,"","",7559ST,Hengelo
+Jan Tinbergenstraat,346,"","",7559ST,Hengelo
+Jan Tinbergenstraat,348,"","",7559ST,Hengelo
+Jan Tinbergenstraat,350,"","",7559ST,Hengelo
+Jan Tinbergenstraat,352,"","",7559ST,Hengelo
+Jan Tinbergenstraat,354,"","",7559ST,Hengelo
+Jan Tinbergenstraat,356,"","",7559ST,Hengelo
+Jan Tinbergenstraat,358,"","",7559ST,Hengelo
+Jan Tinbergenstraat,360,"","",7559ST,Hengelo
+Jan Tinbergenstraat,362,"","",7559ST,Hengelo
+Jan Tinbergenstraat,364,"","",7559ST,Hengelo
+Jan Tinbergenstraat,366,"","",7559ST,Hengelo
+Jan Tinbergenstraat,368,"","",7559ST,Hengelo
+Jan Tinbergenstraat,370,"","",7559ST,Hengelo
+Jan Tinbergenstraat,372,"","",7559ST,Hengelo
+Jan Tinbergenstraat,374,"","",7559ST,Hengelo
+Jan Tinbergenstraat,376,"","",7559ST,Hengelo
+Jan Tinbergenstraat,378,"","",7559ST,Hengelo
+Jan Tinbergenstraat,380,"","",7559ST,Hengelo
+Jan Tinbergenstraat,382,"","",7559ST,Hengelo
+Jan Tinbergenstraat,384,"","",7559ST,Hengelo
+Jan Tinbergenstraat,386,"","",7559ST,Hengelo
+Jan Tinbergenstraat,388,"","",7559ST,Hengelo
+Jan Tinbergenstraat,390,"","",7559ST,Hengelo
+Jan Tinbergenstraat,392,"","",7559ST,Hengelo
+Jan Tinbergenstraat,394,"","",7559ST,Hengelo
+Jan Tinbergenstraat,396,"","",7559ST,Hengelo
+Jan Tinbergenstraat,398,"","",7559ST,Hengelo
+Jan Tinbergenstraat,400,"","",7559ST,Hengelo
+Jan Tinbergenstraat,402,"","",7559ST,Hengelo
+Jan Tinbergenstraat,404,"","",7559ST,Hengelo
+Jan Tinbergenstraat,406,"","",7559ST,Hengelo
+Jan Tinbergenstraat,408,"","",7559ST,Hengelo
+Jan Tinbergenstraat,410,"","",7559ST,Hengelo
+Jan Tinbergenstraat,412,"","",7559ST,Hengelo
+Jan Tinbergenstraat,414,"","",7559ST,Hengelo
+Jan Tinbergenstraat,416,"","",7559ST,Hengelo
+Jan Tinbergenstraat,418,"","",7559ST,Hengelo
+Jan Tinbergenstraat,420,"","",7559ST,Hengelo
+Jan Tinbergenstraat,422,"","",7559ST,Hengelo
+Jan Tinbergenstraat,424,"","",7559ST,Hengelo
+Jan Tinbergenstraat,426,"","",7559ST,Hengelo
+Jan Tinbergenstraat,428,"","",7559ST,Hengelo
+Jan Tinbergenstraat,430,"","",7559ST,Hengelo
+Jan Tinbergenstraat,432,"","",7559ST,Hengelo
+Jan Tinbergenstraat,434,"","",7559ST,Hengelo
+Jan Tinbergenstraat,436,"","",7559ST,Hengelo
+Jan Tinbergenstraat,438,"","",7559ST,Hengelo
+Jan Tinbergenstraat,440,"","",7559ST,Hengelo
+John Maynard Keynesstraat,301,"","",7559SV,Hengelo
+John Maynard Keynesstraat,351,"","",7559SV,Hengelo
+John Maynard Keynesstraat,353,"","",7559SV,Hengelo
+John Maynard Keynesstraat,355,"","",7559SV,Hengelo
+John Maynard Keynesstraat,357,"","",7559SV,Hengelo
+John Maynard Keynesstraat,359,"","",7559SV,Hengelo
+John Maynard Keynesstraat,60,"","",7559SV,Hengelo
+Adam Smithstraat,20,"","",7559SW,Hengelo
+Adam Smithstraat,22,"","",7559SW,Hengelo
+Adam Smithstraat,24,"","",7559SW,Hengelo
+Adam Smithstraat,26,"","",7559SW,Hengelo
+Adam Smithstraat,31,"","",7559SW,Hengelo
+Adam Smithstraat,33,"","",7559SW,Hengelo
+Adam Smithstraat,35,"","",7559SW,Hengelo
+Adam Smithstraat,37,"","",7559SW,Hengelo
+Adam Smithstraat,39,"","",7559SW,Hengelo
+Adam Smithstraat,41,"","",7559SW,Hengelo
+Adam Smithstraat,43,"","",7559SW,Hengelo
+Adam Smithstraat,45,"","",7559SW,Hengelo
+Adam Smithstraat,47,"","",7559SW,Hengelo
+Adam Smithstraat,49,"","",7559SW,Hengelo
+Adam Smithstraat,51,"","",7559SW,Hengelo
+Adam Smithstraat,6,"","",7559SW,Hengelo
+John Maynard Keynesstraat,10,"","",7559SZ,Hengelo
+John Maynard Keynesstraat,60,"","",7559SZ,Hengelo

@@ -1,198 +1,105 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8101AB",63,"a",""
-"8101AB",63,"",""
-"8101AB",57,"",""
-"8101AB",6,"",""
-"8101AB",63,"b",""
-"8101AB",53,"",""
-"8101AB",69,"",""
-"8101AB",69,"",""
-"8101AB",63,"c",""
-"8101AB",59,"a",""
-"8101AB",61,"",""
-"8101AB",47,"",""
-"8101AB",4,"",""
-"8101AB",67,"",""
-"8101AB",8,"",""
-"8101AB",65,"",""
-"8101AB",49,"",""
-"8101AB",63,"d",""
-"8101AB",57,"a",""
-"8101AB",51,"",""
-"8101AB",59,"",""
-"8101AB",63,"e",""
-"8101AB",43,"",""
-"8101AB",10,"",""
-"8101AB",49,"",""
-"8101AB",18,"",""
-"8101AB",45,"",""
-"8101AB",65,"",""
-"8101AB",12,"",""
-"8101AB",14,"",""
-"8101AB",41,"",""
-"8101AB",59,"",""
-"8101AB",67,"",""
-"8101AB",49,"",""
-"8101AB",65,"",""
-"8101AB",16,"",""
-"8101AB",55,"",""
-"8101AE",84,"",""
-"8101AE",68,"a",""
-"8101AE",17,"",""
-"8101AE",11,"",""
-"8101AE",82,"",""
-"8101AE",62,"",""
-"8101AE",66,"",""
-"8101AE",80,"",""
-"8101AE",68,"a",""
-"8101AE",60,"",""
-"8101AE",72,"",""
-"8101AE",82,"a",""
-"8101AE",5,"",""
-"8101AE",68,"",""
-"8101AE",64,"",""
-"8101AE",7,"",""
-"8101AE",13,"",""
-"8101AE",3,"",""
-"8101AE",9,"",""
-"8101AE",76,"",""
-"8101AE",78,"",""
-"8101AE",15,"",""
-"8101AE",78,"",""
-"8101PZ",2,"",""
-"8101PZ",3,"",""
-"8102EB",27,"",""
-"8102EB",39,"",""
-"8102EB",35,"",""
-"8102EB",4,"",""
-"8102EB",9,"",""
-"8102EB",19,"",""
-"8102EB",7,"",""
-"8102EB",21,"",""
-"8102EB",23,"",""
-"8102EB",2,"",""
-"8102EB",1,"b",""
-"8102EB",5,"",""
-"8102EB",19,"",""
-"8102EB",23,"",""
-"8102EB",39,"a",""
-"8102EB",15,"",""
-"8102EB",19,"",""
-"8102EB",29,"",""
-"8102EB",11,"",""
-"8102EB",1,"",""
-"8102EB",25,"",""
-"8102EB",27,"a",""
-"8102EB",1,"a",""
-"8102EB",41,"",""
-"8102EB",17,"",""
-"8102EB",33,"",""
-"8102EB",1,"c",""
-"8102EB",37,"",""
-"8102EB",41,"a",""
-"8102EB",23,"",""
-"8102EV",2,"",""
-"8102EV",9,"",""
-"8102EV",2,"a",""
-"8102EV",6,"",""
-"8102EV",1,"",""
-"8102EV",10,"",""
-"8102EV",4,"",""
-"8102WZ",3,"",""
-"8102WZ",5,"",""
-"8102WZ",1,"",""
-"8102WZ",5,"",""
-"8102WZ",3,"",""
-8101AB,Zwolsestraat,63,a,
-8101AB,Zwolsestraat,51,,
-8101AB,Zwolsestraat,63,c,
-8101AB,Zwolsestraat,53,,
-8101AB,Zwolsestraat,65,,
-8101AE,Zwolsestraat,64,,
-8101AE,Zwolsestraat,66,,
-8101AE,Zwolsestraat,68,,
-8102EB,Stationsstraat,35,,
-8102EB,Stationsstraat,17,,
-8102EB,Stationsstraat,19,,
-8102EB,Stationsstraat,37,,
-8102EB,Stationsstraat,1,b,
-8102EB,Stationsstraat,1,c,
-8102EB,Stationsstraat,39,,
-8102EB,Stationsstraat,23,,
-8101AB,Vos de Waelhof,10,,
-8101AB,Vos de Waelhof,12,,
-8101AE,Vos de Waelhof,3,,
-8102WZ,Stationsplein,5,,
-8102EB,Ganzeboomlaan,4,,
-8102EB,Ganzeboomlaan,2,,
-8101AB,Zwolsestraat,67,,
-8101AB,Zwolsestraat,41,,
-8101AB,Zwolsestraat,49,,
-8101AB,Zwolsestraat,47,,
-8101AB,Zwolsestraat,57,a,
-8101AB,Zwolsestraat,55,,
-8101AB,Zwolsestraat,59,,
-8101AB,Zwolsestraat,43,,
-8101AB,Zwolsestraat,59,a,
-8101AB,Zwolsestraat,45,,
-8101AB,Zwolsestraat,61,,
-8101AE,Zwolsestraat,82,,
-8101AE,Zwolsestraat,78,,
-8102EV,Oude Linderteseweg,6,,
-8102EV,Oude Linderteseweg,4,,
-8102EV,Oude Linderteseweg,9,,
-8102EV,Oude Linderteseweg,1,,
-8102EB,Stationsstraat,27,,
-8102EB,Stationsstraat,33,,
-8102EB,Stationsstraat,21,,
-8102EB,Stationsstraat,39,a,
-8102EB,Stationsstraat,7,,
-8102EB,Stationsstraat,29,,
-8102EB,Stationsstraat,25,,
-8102EB,Stationsstraat,9,,
-8102EB,Stationsstraat,41,a,
-8102EB,Stationsstraat,11,,
-8102EB,Stationsstraat,1,,
-8102EB,Stationsstraat,15,,
-8101PZ,Nieuwe Deventerweg,3,,
-8101AB,Vos de Waelhof,14,,
-8101AB,Vos de Waelhof,16,,
-8101AB,Vos de Waelhof,18,,
-8101AB,Vos de Waelhof,4,,
-8101AB,Vos de Waelhof,6,,
-8101AE,Vos de Waelhof,9,,
-8101AE,Vos de Waelhof,5,,
-8101AE,Vos de Waelhof,7,,
-8101AE,Vos de Waelhof,17,,
-8101AE,Vos de Waelhof,11,,
-8101AE,Vos de Waelhof,13,,
-8101AE,Vos de Waelhof,15,,
-8102WZ,Stationsplein,1,,
-8101AB,Zwolsestraat,63,,
-8101AB,Zwolsestraat,57,,
-8101AB,Zwolsestraat,63,b,
-8101AB,Zwolsestraat,63,d,
-8101AB,Zwolsestraat,63,e,
-8101AB,Zwolsestraat,69,,
-8101AB,Zwolsestraat,49,,
-8101AB,Zwolsestraat,65,,
-8101AE,Zwolsestraat,62,,
-8101AE,Zwolsestraat,84,,
-8101AE,Zwolsestraat,72,,
-8101AE,Zwolsestraat,76,,
-8101AE,Zwolsestraat,60,,
-8101AE,Zwolsestraat,68,a,
-8101AE,Zwolsestraat,80,,
-8101AE,Zwolsestraat,82,a,
-8102EV,Oude Linderteseweg,10,,
-8102EV,Oude Linderteseweg,2,,
-8102EV,Oude Linderteseweg,2,a,
-8102EB,Stationsstraat,27,a,
-8102EB,Stationsstraat,41,,
-8102EB,Stationsstraat,1,a,
-8102EB,Stationsstraat,5,,
-8102EB,Stationsstraat,23,,
-8102EB,Stationsstraat,19,,
-8101PZ,Nieuwe Deventerweg,2,,
-8101AB,Vos de Waelhof,8,,
-8102WZ,Stationsplein,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vos de Waelhof,10,"","",8101AB,Raalte
+Vos de Waelhof,12,"","",8101AB,Raalte
+Vos de Waelhof,14,"","",8101AB,Raalte
+Vos de Waelhof,16,"","",8101AB,Raalte
+Vos de Waelhof,18,"","",8101AB,Raalte
+Vos de Waelhof,4,"","",8101AB,Raalte
+Zwolsestraat,41,"","",8101AB,Raalte
+Zwolsestraat,43,"","",8101AB,Raalte
+Zwolsestraat,45,"","",8101AB,Raalte
+Zwolsestraat,47,"","",8101AB,Raalte
+Zwolsestraat,49,"","",8101AB,Raalte
+Zwolsestraat,49,"","",8101AB,Raalte
+Zwolsestraat,49,"","",8101AB,Raalte
+Zwolsestraat,51,"","",8101AB,Raalte
+Zwolsestraat,53,"","",8101AB,Raalte
+Zwolsestraat,55,"","",8101AB,Raalte
+Zwolsestraat,57,"","",8101AB,Raalte
+Zwolsestraat,57,A,"",8101AB,Raalte
+Zwolsestraat,59,"","",8101AB,Raalte
+Zwolsestraat,59,"","",8101AB,Raalte
+Zwolsestraat,59,A,"",8101AB,Raalte
+Vos de Waelhof,6,"","",8101AB,Raalte
+Zwolsestraat,61,"","",8101AB,Raalte
+Zwolsestraat,63,"","",8101AB,Raalte
+Zwolsestraat,63,A,"",8101AB,Raalte
+Zwolsestraat,63,B,"",8101AB,Raalte
+Zwolsestraat,63,C,"",8101AB,Raalte
+Zwolsestraat,63,D,"",8101AB,Raalte
+Zwolsestraat,63,E,"",8101AB,Raalte
+Zwolsestraat,65,"","",8101AB,Raalte
+Zwolsestraat,65,"","",8101AB,Raalte
+Zwolsestraat,65,"","",8101AB,Raalte
+Zwolsestraat,67,"","",8101AB,Raalte
+Zwolsestraat,67,"","",8101AB,Raalte
+Zwolsestraat,69,"","",8101AB,Raalte
+Zwolsestraat,69,"","",8101AB,Raalte
+Vos de Waelhof,8,"","",8101AB,Raalte
+Vos de Waelhof,11,"","",8101AE,Raalte
+Vos de Waelhof,13,"","",8101AE,Raalte
+Vos de Waelhof,15,"","",8101AE,Raalte
+Vos de Waelhof,17,"","",8101AE,Raalte
+Vos de Waelhof,3,"","",8101AE,Raalte
+Vos de Waelhof,5,"","",8101AE,Raalte
+Zwolsestraat,60,"","",8101AE,Raalte
+Zwolsestraat,62,"","",8101AE,Raalte
+Zwolsestraat,64,"","",8101AE,Raalte
+Zwolsestraat,66,"","",8101AE,Raalte
+Zwolsestraat,68,"","",8101AE,Raalte
+Zwolsestraat,68,A,"",8101AE,Raalte
+Zwolsestraat,68,A,"",8101AE,Raalte
+Vos de Waelhof,7,"","",8101AE,Raalte
+Zwolsestraat,72,"","",8101AE,Raalte
+Zwolsestraat,76,"","",8101AE,Raalte
+Zwolsestraat,78,"","",8101AE,Raalte
+Zwolsestraat,78,"","",8101AE,Raalte
+Zwolsestraat,80,"","",8101AE,Raalte
+Zwolsestraat,82,"","",8101AE,Raalte
+Zwolsestraat,82,A,"",8101AE,Raalte
+Zwolsestraat,84,"","",8101AE,Raalte
+Vos de Waelhof,9,"","",8101AE,Raalte
+Nieuwe Deventerweg,2,"","",8101PZ,Raalte
+Nieuwe Deventerweg,3,"","",8101PZ,Raalte
+Stationsstraat,1,"","",8102EB,Raalte
+Stationsstraat,1,A,"",8102EB,Raalte
+Stationsstraat,1,B,"",8102EB,Raalte
+Stationsstraat,1,C,"",8102EB,Raalte
+Stationsstraat,11,"","",8102EB,Raalte
+Stationsstraat,15,"","",8102EB,Raalte
+Stationsstraat,17,"","",8102EB,Raalte
+Stationsstraat,19,"","",8102EB,Raalte
+Stationsstraat,19,"","",8102EB,Raalte
+Stationsstraat,19,"","",8102EB,Raalte
+Ganzeboomlaan,2,"","",8102EB,Raalte
+Stationsstraat,21,"","",8102EB,Raalte
+Stationsstraat,23,"","",8102EB,Raalte
+Stationsstraat,23,"","",8102EB,Raalte
+Stationsstraat,23,"","",8102EB,Raalte
+Stationsstraat,25,"","",8102EB,Raalte
+Stationsstraat,27,"","",8102EB,Raalte
+Stationsstraat,27,A,"",8102EB,Raalte
+Stationsstraat,29,"","",8102EB,Raalte
+Stationsstraat,33,"","",8102EB,Raalte
+Stationsstraat,35,"","",8102EB,Raalte
+Stationsstraat,37,"","",8102EB,Raalte
+Stationsstraat,39,"","",8102EB,Raalte
+Stationsstraat,39,A,"",8102EB,Raalte
+Ganzeboomlaan,4,"","",8102EB,Raalte
+Stationsstraat,41,"","",8102EB,Raalte
+Stationsstraat,41,A,"",8102EB,Raalte
+Stationsstraat,5,"","",8102EB,Raalte
+Stationsstraat,7,"","",8102EB,Raalte
+Stationsstraat,9,"","",8102EB,Raalte
+Oude Linderteseweg,1,"","",8102EV,Raalte
+Oude Linderteseweg,10,"","",8102EV,Raalte
+Oude Linderteseweg,2,"","",8102EV,Raalte
+Oude Linderteseweg,2,A,"",8102EV,Raalte
+Oude Linderteseweg,4,"","",8102EV,Raalte
+Oude Linderteseweg,6,"","",8102EV,Raalte
+Oude Linderteseweg,9,"","",8102EV,Raalte
+Stationsplein,1,"","",8102WZ,Raalte
+Stationsplein,3,"","",8102WZ,Raalte
+Stationsplein,3,"","",8102WZ,Raalte
+Stationsplein,5,"","",8102WZ,Raalte
+Stationsplein,5,"","",8102WZ,Raalte

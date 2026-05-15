@@ -1,100 +1,100 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7245VC,Exelseweg,1,,
-7245VC,Exelseweg,1,a,
-7245VC,Exelseweg,1,b,
-7245VC,Exelseweg,3,,
-7245VC,Exelseweg,5,,
-7245VC,Exelseweg,7,,
-7245VC,Exelseweg,9,,
-7245VD,Exelseweg,11,,
-7245VD,Exelseweg,13,,
-7245VD,Exelseweg,15,,
-7245VD,Exelseweg,17,,
-7245VD,Exelseweg,19,,
-7245VD,Exelseweg,21,,
-7245VD,Exelseweg,23,,
-7245VD,Exelseweg,25,,
-7245VD,Exelseweg,25,a,
-7245VD,Exelseweg,25,t,
-7245VD,Exelseweg,27,,
-7245VD,Exelseweg,27,a,
-7245VD,Exelseweg,27,t,
-7245VD,Exelseweg,29,,
-7245VH,Oude Lochemseweg,1,,
-7245VH,Oude Lochemseweg,3,,
-7245VH,Oude Lochemseweg,3,a,
-7245VH,Oude Lochemseweg,5,,
-7245VH,Oude Lochemseweg,7,,
-7245VH,Oude Lochemseweg,9,,
-7245VH,Oude Lochemseweg,11,,
-7245VH,Oude Lochemseweg,11,t,
-7245VH,Oude Lochemseweg,13,,
-7245VH,Oude Lochemseweg,15,,
-7245VH,Oude Lochemseweg,17,,
-7245VH,Oude Lochemseweg,19,,
-7245VH,Oude Lochemseweg,21,,
-7245VH,Oude Lochemseweg,23,,
-7245VH,Oude Lochemseweg,25,,
-7245VH,Oude Lochemseweg,27,,
-7245VH,Oude Lochemseweg,29,,
-7245VH,Oude Lochemseweg,31,,
-7245VH,Oude Lochemseweg,33,,
-7245VH,Oude Lochemseweg,35,,
-7245VH,Oude Lochemseweg,37,,
-7245VH,Oude Lochemseweg,39,,
-7245VJ,Oude Lochemseweg,2,,
-7245VJ,Oude Lochemseweg,2,a,
-7245VJ,Oude Lochemseweg,4,,
-7245VJ,Oude Lochemseweg,6,,
-7245VJ,Oude Lochemseweg,8,,
-7245VJ,Oude Lochemseweg,10,,
-7245VJ,Oude Lochemseweg,10,a,
-7245VJ,Oude Lochemseweg,12,,
-7245VJ,Oude Lochemseweg,12,a,
-7245VJ,Oude Lochemseweg,16,,
-7245VJ,Oude Lochemseweg,16,a,
-7245XA,'t Veld,1,,
-7245XA,'t Veld,2,,
-7245XA,'t Veld,3,,
-7245XA,'t Veld,4,,
-7245XA,'t Veld,5,,
-7245XA,'t Veld,6,,
-7245XA,'t Veld,7,,
-7245XA,'t Veld,8,,
-7245XA,'t Veld,9,,
-7245XA,'t Veld,10,,
-7245XA,'t Veld,11,,
-7245XA,'t Veld,12,,
-7245XA,'t Veld,13,,
-7245XA,'t Veld,14,,
-7245XA,'t Veld,15,,
-7245XA,'t Veld,16,,
-7245XA,'t Veld,17,,
-7245XA,'t Veld,18,,
-7245XA,'t Veld,19,,
-7245XA,'t Veld,20,,
-7245XA,'t Veld,21,,
-7245XA,'t Veld,22,,
-7245XA,'t Veld,23,,
-7245XA,'t Veld,24,,
-7245XA,'t Veld,25,,
-7245XA,'t Veld,26,,
-7245XA,'t Veld,27,,
-7245XA,'t Veld,28,,
-7245XA,'t Veld,30,,
-7245XA,'t Veld,32,,
-7245XA,'t Veld,34,,
-7245VD,Exelseweg,25,b,
-7245VD,Exelseweg,25,c,
-7245VJ,Oude Lochemseweg,10,b,
-7245XA,'t Veld,36,,
-7245VC,Exelseweg,5,p,
-7245VH,Oude Lochemseweg,5,a,
-7245VJ,Oude Lochemseweg,4,,
-7245VJ,Oude Lochemseweg,4,a,
-7245XA,'t Veld,38,,
-7245XA,'t Veld,40,,
-7245XA,'t Veld,42,,
-7245XA,'t Veld,44,,
-7245XA,'t Veld,46,,
-7245XA,'t Veld,48,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Exelseweg,1,"","",7245VC,Laren
+Exelseweg,1,A,"",7245VC,Laren
+Exelseweg,1,B,"",7245VC,Laren
+Exelseweg,3,"","",7245VC,Laren
+Exelseweg,5,"","",7245VC,Laren
+Exelseweg,5,P,"",7245VC,Laren
+Exelseweg,7,"","",7245VC,Laren
+Exelseweg,9,"","",7245VC,Laren
+Exelseweg,11,"","",7245VD,Laren
+Exelseweg,13,"","",7245VD,Laren
+Exelseweg,15,"","",7245VD,Laren
+Exelseweg,17,"","",7245VD,Laren
+Exelseweg,19,"","",7245VD,Laren
+Exelseweg,21,"","",7245VD,Laren
+Exelseweg,23,"","",7245VD,Laren
+Exelseweg,25,"","",7245VD,Laren
+Exelseweg,25,A,"",7245VD,Laren
+Exelseweg,25,B,"",7245VD,Laren
+Exelseweg,25,C,"",7245VD,Laren
+Exelseweg,25,T,"",7245VD,Laren
+Exelseweg,27,"","",7245VD,Laren
+Exelseweg,27,A,"",7245VD,Laren
+Exelseweg,27,T,"",7245VD,Laren
+Exelseweg,29,"","",7245VD,Laren
+Oude Lochemseweg,1,"","",7245VH,Laren
+Oude Lochemseweg,11,"","",7245VH,Laren
+Oude Lochemseweg,11,T,"",7245VH,Laren
+Oude Lochemseweg,13,"","",7245VH,Laren
+Oude Lochemseweg,15,"","",7245VH,Laren
+Oude Lochemseweg,17,"","",7245VH,Laren
+Oude Lochemseweg,19,"","",7245VH,Laren
+Oude Lochemseweg,21,"","",7245VH,Laren
+Oude Lochemseweg,23,"","",7245VH,Laren
+Oude Lochemseweg,25,"","",7245VH,Laren
+Oude Lochemseweg,27,"","",7245VH,Laren
+Oude Lochemseweg,29,"","",7245VH,Laren
+Oude Lochemseweg,3,"","",7245VH,Laren
+Oude Lochemseweg,3,A,"",7245VH,Laren
+Oude Lochemseweg,31,"","",7245VH,Laren
+Oude Lochemseweg,33,"","",7245VH,Laren
+Oude Lochemseweg,35,"","",7245VH,Laren
+Oude Lochemseweg,37,"","",7245VH,Laren
+Oude Lochemseweg,39,"","",7245VH,Laren
+Oude Lochemseweg,5,"","",7245VH,Laren
+Oude Lochemseweg,5,A,"",7245VH,Laren
+Oude Lochemseweg,7,"","",7245VH,Laren
+Oude Lochemseweg,9,"","",7245VH,Laren
+Oude Lochemseweg,10,"","",7245VJ,Laren
+Oude Lochemseweg,10,A,"",7245VJ,Laren
+Oude Lochemseweg,10,B,"",7245VJ,Laren
+Oude Lochemseweg,12,"","",7245VJ,Laren
+Oude Lochemseweg,12,A,"",7245VJ,Laren
+Oude Lochemseweg,16,"","",7245VJ,Laren
+Oude Lochemseweg,16,A,"",7245VJ,Laren
+Oude Lochemseweg,2,"","",7245VJ,Laren
+Oude Lochemseweg,2,A,"",7245VJ,Laren
+Oude Lochemseweg,4,"","",7245VJ,Laren
+Oude Lochemseweg,4,"","",7245VJ,Laren
+Oude Lochemseweg,4,A,"",7245VJ,Laren
+Oude Lochemseweg,6,"","",7245VJ,Laren
+Oude Lochemseweg,8,"","",7245VJ,Laren
+'t Veld,1,"","",7245XA,Laren
+'t Veld,10,"","",7245XA,Laren
+'t Veld,11,"","",7245XA,Laren
+'t Veld,12,"","",7245XA,Laren
+'t Veld,13,"","",7245XA,Laren
+'t Veld,14,"","",7245XA,Laren
+'t Veld,15,"","",7245XA,Laren
+'t Veld,16,"","",7245XA,Laren
+'t Veld,17,"","",7245XA,Laren
+'t Veld,18,"","",7245XA,Laren
+'t Veld,19,"","",7245XA,Laren
+'t Veld,2,"","",7245XA,Laren
+'t Veld,20,"","",7245XA,Laren
+'t Veld,21,"","",7245XA,Laren
+'t Veld,22,"","",7245XA,Laren
+'t Veld,23,"","",7245XA,Laren
+'t Veld,24,"","",7245XA,Laren
+'t Veld,25,"","",7245XA,Laren
+'t Veld,26,"","",7245XA,Laren
+'t Veld,27,"","",7245XA,Laren
+'t Veld,28,"","",7245XA,Laren
+'t Veld,3,"","",7245XA,Laren
+'t Veld,30,"","",7245XA,Laren
+'t Veld,32,"","",7245XA,Laren
+'t Veld,34,"","",7245XA,Laren
+'t Veld,36,"","",7245XA,Laren
+'t Veld,38,"","",7245XA,Laren
+'t Veld,4,"","",7245XA,Laren
+'t Veld,40,"","",7245XA,Laren
+'t Veld,42,"","",7245XA,Laren
+'t Veld,44,"","",7245XA,Laren
+'t Veld,46,"","",7245XA,Laren
+'t Veld,48,"","",7245XA,Laren
+'t Veld,5,"","",7245XA,Laren
+'t Veld,6,"","",7245XA,Laren
+'t Veld,7,"","",7245XA,Laren
+'t Veld,8,"","",7245XA,Laren
+'t Veld,9,"","",7245XA,Laren

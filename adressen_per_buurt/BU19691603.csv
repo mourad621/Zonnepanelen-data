@@ -1,128 +1,129 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9886PA",17,"",""
-"9886PA",15,"",""
-"9886PA",9,"",""
-"9886PA",1,"",""
-"9886PA",13,"",""
-"9886PA",11,"",""
-"9886PA",19,"",""
-"9886PA",21,"",""
-"9886PA",7,"",""
-"9886PA",5,"",""
-"9886PA",3,"",""
-"9886PB",20,"",""
-"9886PB",10,"",""
-"9886PB",18,"",""
-"9886PB",6,"t",""
-"9886PB",16,"",""
-"9886PB",14,"",""
-"9886PB",12,"",""
-"9886PB",2,"a",""
-"9886PB",2,"",""
-"9886PB",8,"",""
-"9886PB",4,"",""
-"9886PC",9,"",""
-"9886PC",5,"",""
-"9886PC",13,"",""
-"9886PC",2,"",""
-"9886PC",8,"",""
-"9886PC",7,"",""
-"9886PC",11,"",""
-"9886PC",1,"",""
-"9886PC",6,"",""
-"9886PC",4,"",""
-"9886PC",3,"",""
-"9886PD",1,"",""
-"9886PD",4,"",""
-"9886PE",1,"",""
-"9886PG",7,"",""
-"9886PG",2,"",""
-"9886PG",12,"",""
-"9886PG",11,"",""
-"9886PG",6,"b",""
-"9886PG",5,"",""
-"9886PG",6,"",""
-"9886PG",1,"",""
-"9886PG",4,"",""
-"9886PG",10,"",""
-"9886PG",5,"",""
-"9886PG",3,"",""
-"9886PG",9,"",""
-"9886PG",15,"",""
-"9886PH",1,"",""
-"9886PJ",10,"",""
-"9886PJ",3,"",""
-"9886PJ",8,"",""
-"9886PJ",1,"",""
-"9886PJ",10,"",""
-"9886PJ",6,"",""
-"9886PJ",2,"",""
-"9886PJ",12,"a",""
-"9886PJ",4,"",""
-"9886PJ",1,"a",""
-"9886PJ",12,"",""
-"9886PJ",12,"a",""
-9886PA,Eiso Jargesstraat,1,,
-9886PA,Eiso Jargesstraat,3,,
-9886PA,Eiso Jargesstraat,5,,
-9886PA,Eiso Jargesstraat,7,,
-9886PA,Eiso Jargesstraat,9,,
-9886PA,Eiso Jargesstraat,11,,
-9886PA,Eiso Jargesstraat,13,,
-9886PA,Eiso Jargesstraat,15,,
-9886PA,Eiso Jargesstraat,17,,
-9886PA,Eiso Jargesstraat,19,,
-9886PA,Eiso Jargesstraat,21,,
-9886PB,Eiso Jargesstraat,2,,
-9886PB,Eiso Jargesstraat,2,a,
-9886PB,Eiso Jargesstraat,4,,
-9886PB,Eiso Jargesstraat,8,,
-9886PB,Eiso Jargesstraat,10,,
-9886PB,Eiso Jargesstraat,12,,
-9886PB,Eiso Jargesstraat,14,,
-9886PB,Eiso Jargesstraat,16,,
-9886PB,Eiso Jargesstraat,18,,
-9886PB,Eiso Jargesstraat,20,,
-9886PB,Eiso Jargesstraat,6,t,
-9886PE,Grote Gang,1,,
-9886PG,Heralmastraat,1,,
-9886PG,Heralmastraat,2,,
-9886PG,Heralmastraat,3,,
-9886PG,Heralmastraat,4,,
-9886PG,Heralmastraat,5,,
-9886PG,Heralmastraat,6,,
-9886PG,Heralmastraat,6,b,
-9886PG,Heralmastraat,7,,
-9886PG,Heralmastraat,9,,
-9886PG,Heralmastraat,10,,
-9886PG,Heralmastraat,11,,
-9886PG,Heralmastraat,12,,
-9886PG,Heralmastraat,15,,
-9886PD,De Kamp,1,,
-9886PD,De Kamp,4,,
-9886PC,Noorderstraat,1,,
-9886PC,Noorderstraat,2,,
-9886PC,Noorderstraat,3,,
-9886PC,Noorderstraat,4,,
-9886PC,Noorderstraat,5,,
-9886PC,Noorderstraat,6,,
-9886PC,Noorderstraat,7,,
-9886PC,Noorderstraat,8,,
-9886PC,Noorderstraat,9,,
-9886PC,Noorderstraat,11,,
-9886PC,Noorderstraat,13,,
-9886PJ,Roodehaansterweg,1,,
-9886PJ,Roodehaansterweg,1,a,
-9886PJ,Roodehaansterweg,2,,
-9886PJ,Roodehaansterweg,3,,
-9886PJ,Roodehaansterweg,4,,
-9886PJ,Roodehaansterweg,6,,
-9886PJ,Roodehaansterweg,8,,
-9886PJ,Roodehaansterweg,10,,
-9886PJ,Roodehaansterweg,12,a,
-9886PJ,Roodehaansterweg,12,,
-9886PH,Smidsgang,1,,
-9886PJ,Roodehaansterweg,10,,
-9886PJ,Roodehaansterweg,10,A,
-9886PJ,Roodehaansterweg,6,A,
-9886PJ,Roodehaansterweg,12,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+17,"","","",9886PA,
+15,"","","",9886PA,
+9,"","","",9886PA,
+1,"","","",9886PA,
+13,"","","",9886PA,
+11,"","","",9886PA,
+19,"","","",9886PA,
+21,"","","",9886PA,
+7,"","","",9886PA,
+5,"","","",9886PA,
+3,"","","",9886PA,
+Eiso Jargesstraat,1,"","",9886PA,Saaksum
+Eiso Jargesstraat,11,"","",9886PA,Saaksum
+Eiso Jargesstraat,13,"","",9886PA,Saaksum
+Eiso Jargesstraat,15,"","",9886PA,Saaksum
+Eiso Jargesstraat,17,"","",9886PA,Saaksum
+Eiso Jargesstraat,19,"","",9886PA,Saaksum
+Eiso Jargesstraat,21,"","",9886PA,Saaksum
+Eiso Jargesstraat,3,"","",9886PA,Saaksum
+Eiso Jargesstraat,5,"","",9886PA,Saaksum
+Eiso Jargesstraat,7,"","",9886PA,Saaksum
+Eiso Jargesstraat,9,"","",9886PA,Saaksum
+20,"","","",9886PB,
+10,"","","",9886PB,
+18,"","","",9886PB,
+16,"","","",9886PB,
+14,"","","",9886PB,
+12,"","","",9886PB,
+2,"","","",9886PB,
+8,"","","",9886PB,
+4,"","","",9886PB,
+Eiso Jargesstraat,10,"","",9886PB,Saaksum
+Eiso Jargesstraat,12,"","",9886PB,Saaksum
+Eiso Jargesstraat,14,"","",9886PB,Saaksum
+Eiso Jargesstraat,16,"","",9886PB,Saaksum
+Eiso Jargesstraat,18,"","",9886PB,Saaksum
+Eiso Jargesstraat,2,"","",9886PB,Saaksum
+Eiso Jargesstraat,2,A,"",9886PB,Saaksum
+Eiso Jargesstraat,20,"","",9886PB,Saaksum
+Eiso Jargesstraat,4,"","",9886PB,Saaksum
+Eiso Jargesstraat,6,T,"",9886PB,Saaksum
+Eiso Jargesstraat,8,"","",9886PB,Saaksum
+2,A,"","",9886PB,
+6,T,"","",9886PB,
+9,"","","",9886PC,
+5,"","","",9886PC,
+13,"","","",9886PC,
+2,"","","",9886PC,
+8,"","","",9886PC,
+7,"","","",9886PC,
+11,"","","",9886PC,
+1,"","","",9886PC,
+6,"","","",9886PC,
+4,"","","",9886PC,
+3,"","","",9886PC,
+Noorderstraat,1,"","",9886PC,Saaksum
+Noorderstraat,11,"","",9886PC,Saaksum
+Noorderstraat,13,"","",9886PC,Saaksum
+Noorderstraat,2,"","",9886PC,Saaksum
+Noorderstraat,3,"","",9886PC,Saaksum
+Noorderstraat,4,"","",9886PC,Saaksum
+Noorderstraat,5,"","",9886PC,Saaksum
+Noorderstraat,6,"","",9886PC,Saaksum
+Noorderstraat,7,"","",9886PC,Saaksum
+Noorderstraat,8,"","",9886PC,Saaksum
+Noorderstraat,9,"","",9886PC,Saaksum
+1,"","","",9886PD,
+4,"","","",9886PD,
+De Kamp,1,"","",9886PD,Saaksum
+De Kamp,4,"","",9886PD,Saaksum
+1,"","","",9886PE,
+Grote Gang,1,"","",9886PE,Saaksum
+7,"","","",9886PG,
+2,"","","",9886PG,
+12,"","","",9886PG,
+11,"","","",9886PG,
+5,"","","",9886PG,
+6,"","","",9886PG,
+1,"","","",9886PG,
+4,"","","",9886PG,
+10,"","","",9886PG,
+5,"","","",9886PG,
+3,"","","",9886PG,
+9,"","","",9886PG,
+15,"","","",9886PG,
+Heralmastraat,1,"","",9886PG,Saaksum
+Heralmastraat,10,"","",9886PG,Saaksum
+Heralmastraat,11,"","",9886PG,Saaksum
+Heralmastraat,12,"","",9886PG,Saaksum
+Heralmastraat,15,"","",9886PG,Saaksum
+Heralmastraat,2,"","",9886PG,Saaksum
+Heralmastraat,3,"","",9886PG,Saaksum
+Heralmastraat,4,"","",9886PG,Saaksum
+Heralmastraat,5,"","",9886PG,Saaksum
+Heralmastraat,6,"","",9886PG,Saaksum
+Heralmastraat,6,B,"",9886PG,Saaksum
+Heralmastraat,7,"","",9886PG,Saaksum
+Heralmastraat,9,"","",9886PG,Saaksum
+6,B,"","",9886PG,
+1,"","","",9886PH,
+Smidsgang,1,"","",9886PH,Saaksum
+10,"","","",9886PJ,
+3,"","","",9886PJ,
+8,"","","",9886PJ,
+1,"","","",9886PJ,
+10,"","","",9886PJ,
+6,"","","",9886PJ,
+2,"","","",9886PJ,
+4,"","","",9886PJ,
+12,"","","",9886PJ,
+Roodehaansterweg,1,"","",9886PJ,Saaksum
+Roodehaansterweg,1,A,"",9886PJ,Saaksum
+Roodehaansterweg,10,"","",9886PJ,Saaksum
+Roodehaansterweg,10,"","",9886PJ,Saaksum
+Roodehaansterweg,10,A,"",9886PJ,Saaksum
+Roodehaansterweg,12,"","",9886PJ,Saaksum
+Roodehaansterweg,12,A,"",9886PJ,Saaksum
+Roodehaansterweg,12,A,"",9886PJ,Saaksum
+Roodehaansterweg,2,"","",9886PJ,Saaksum
+Roodehaansterweg,3,"","",9886PJ,Saaksum
+Roodehaansterweg,4,"","",9886PJ,Saaksum
+Roodehaansterweg,6,"","",9886PJ,Saaksum
+Roodehaansterweg,6,A,"",9886PJ,Saaksum
+Roodehaansterweg,8,"","",9886PJ,Saaksum
+12,A,"","",9886PJ,
+1,A,"","",9886PJ,
+12,A,"","",9886PJ,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

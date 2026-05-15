@@ -1,48 +1,48 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3155AV,Molenweg,1,,
-3155AV,Molenweg,6,,
-3155AV,Molenweg,6,a,
-3155AV,Molenweg,7,,
-3155AV,Molenweg,8,a,
-3155AV,Molenweg,8,t,
-3155AV,Molenweg,8,b,
-3155AV,Molenweg,9,,
-3155AV,Molenweg,9,a,
-3155AV,Molenweg,10,,
-3155AV,Molenweg,12,,
-3155AV,Molenweg,14,,
-3155AV,Molenweg,12,t,
-3155AV,Molenweg,14,,
-3155AV,Molenweg,12,,
-3155AT,Molenweide,3,a,
-3155AT,Molenweide,1,,
-3155AT,Molenweide,1,t,
-3155AT,Molenweide,2,,
-3155AT,Molenweide,3,,
-3155AT,Molenweide,4,,
-3155AT,Molenweide,5,,
-3155AV,Molenweg,12,,
-3155AV,Molenweg,3,,
-3155AT,Molenweide,3,b,
-3155AT,Molenweide,3,c,
-3155AT,Molenweide,4,a,
-3155RM,Parallelweg,1,,
-3155RM,Parallelweg,1,a,
-3155RM,Parallelweg,1,c,
-3155RM,Parallelweg,1,b,
-3155RM,Parallelweg,2,a,
-3155RM,Parallelweg,2,,
-3155RM,Parallelweg,3,,
-3155RM,Parallelweg,1,c,
-3155RM,Parallelweg,1,b,
-3155RM,Parallelweg,1,t,
-3155AP,Klein Huis te Velde,1,,
-3155AP,Klein Huis te Velde,1,a,
-3155AP,Klein Huis te Velde,2,,
-3155AP,Klein Huis te Velde,3,,
-3155AP,Klein Huis te Velde,3,a,
-3155AP,Klein Huis te Velde,4,,
-3155AP,Klein Huis te Velde,5,,
-3155AP,Klein Huis te Velde,6,,
-3155AP,Klein Huis te Velde,3,b,
-3155AP,Klein Huis te Velde,4,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Klein Huis te Velde,1,"","",3155AP,Maasland
+Klein Huis te Velde,1,A,"",3155AP,Maasland
+Klein Huis te Velde,2,"","",3155AP,Maasland
+Klein Huis te Velde,3,"","",3155AP,Maasland
+Klein Huis te Velde,3,A,"",3155AP,Maasland
+Klein Huis te Velde,3,B,"",3155AP,Maasland
+Klein Huis te Velde,4,"","",3155AP,Maasland
+Klein Huis te Velde,4,A,"",3155AP,Maasland
+Klein Huis te Velde,5,"","",3155AP,Maasland
+Klein Huis te Velde,6,"","",3155AP,Maasland
+Molenweide,1,"","",3155AT,Maasland
+Molenweide,1,T,"",3155AT,Maasland
+Molenweide,2,"","",3155AT,Maasland
+Molenweide,3,"","",3155AT,Maasland
+Molenweide,3,A,"",3155AT,Maasland
+Molenweide,3,B,"",3155AT,Maasland
+Molenweide,3,C,"",3155AT,Maasland
+Molenweide,4,"","",3155AT,Maasland
+Molenweide,4,A,"",3155AT,Maasland
+Molenweide,5,"","",3155AT,Maasland
+Molenweg,1,"","",3155AV,Maasland
+Molenweg,10,"","",3155AV,Maasland
+Molenweg,12,"","",3155AV,Maasland
+Molenweg,12,"","",3155AV,Maasland
+Molenweg,12,"","",3155AV,Maasland
+Molenweg,12,T,"",3155AV,Maasland
+Molenweg,14,"","",3155AV,Maasland
+Molenweg,14,"","",3155AV,Maasland
+Molenweg,3,"","",3155AV,Maasland
+Molenweg,6,"","",3155AV,Maasland
+Molenweg,6,A,"",3155AV,Maasland
+Molenweg,7,"","",3155AV,Maasland
+Molenweg,8,A,"",3155AV,Maasland
+Molenweg,8,B,"",3155AV,Maasland
+Molenweg,8,T,"",3155AV,Maasland
+Molenweg,9,"","",3155AV,Maasland
+Molenweg,9,A,"",3155AV,Maasland
+Parallelweg,1,"","",3155RM,Maasland
+Parallelweg,1,A,"",3155RM,Maasland
+Parallelweg,1,B,"",3155RM,Maasland
+Parallelweg,1,B,"",3155RM,Maasland
+Parallelweg,1,C,"",3155RM,Maasland
+Parallelweg,1,C,"",3155RM,Maasland
+Parallelweg,1,T,"",3155RM,Maasland
+Parallelweg,2,"","",3155RM,Maasland
+Parallelweg,2,A,"",3155RM,Maasland
+Parallelweg,3,"","",3155RM,Maasland

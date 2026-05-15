@@ -1,431 +1,211 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8801AW",6,"B",""
-"8801AW",42,"",""
-"8801AW",1,"A",""
-"8801AW",49,"",""
-"8801AW",12,"",""
-"8801AW",2,"",""
-"8801AW",1,"A",""
-"8801AW",52,"A",""
-"8801AW",50,"",""
-"8801AW",53,"",""
-"8801AW",10,"A",""
-"8801AW",3,"",""
-"8801AW",3,"",""
-"8801AW",50,"",""
-"8801AW",4,"",""
-"8801AW",52,"",""
-"8801AW",4,"A",""
-"8801AW",6,"",""
-"8801AW",8,"",""
-"8801AW",1,"",""
-"8801AW",44,"",""
-"8801AW",44,"",""
-"8801AW",1,"",""
-"8801AW",50,"",""
-"8801AW",51,"",""
-"8801AW",5,"",""
-"8801AW",10,"",""
-"8801AW",14,"",""
-"8801JA",11,"",""
-"8801JN",1,"",""
-"8801JN",10,"",""
-"8801JN",14,"",""
-"8801JN",6,"",""
-"8801JN",12,"",""
-"8801JN",7,"",""
-"8801JN",4,"",""
-"8801JN",11,"",""
-"8801JN",3,"",""
-"8801JN",17,"A",""
-"8801JN",9,"",""
-"8801JN",14,"C",""
-"8801JN",13,"",""
-"8801JN",15,"",""
-"8801JN",27,"A",""
-"8801JN",31,"",""
-"8801JN",14,"D",""
-"8801JN",14,"A",""
-"8801JN",14,"B",""
-"8801JN",21,"",""
-"8801JN",14,"D",""
-"8801JN",14,"D",""
-"8801JN",19,"",""
-"8801JN",27,"",""
-"8801JN",33,"",""
-"8801JN",17,"",""
-"8801JW",5,"",""
-"8801JW",2,"",""
-"8801JW",4,"D",""
-"8801JW",22,"",""
-"8801JW",31,"",""
-"8801JW",26,"",""
-"8801JW",25,"B",""
-"8801JW",52,"A",""
-"8801JW",6,"A",""
-"8801JW",10,"",""
-"8801JW",4,"A",""
-"8801JW",6,"",""
-"8801JW",48,"",""
-"8801JW",19,"",""
-"8801JW",8,"",""
-"8801JW",29,"",""
-"8801JW",14,"",""
-"8801JW",25,"B",""
-"8801JW",23,"",""
-"8801JW",25,"",""
-"8801JW",48,"",""
-"8801JW",4,"B",""
-"8801JW",20,"",""
-"8801JW",4,"B",""
-"8801JW",62,"",""
-"8801JW",15,"",""
-"8801JW",25,"B",""
-"8801JW",60,"",""
-"8801JW",11,"",""
-"8801JW",50,"",""
-"8801JW",12,"",""
-"8801JW",66,"",""
-"8801JW",64,"",""
-"8801JW",4,"",""
-"8801JW",54,"",""
-"8801JW",28,"",""
-"8801JW",4,"B",""
-"8801JW",21,"",""
-"8801JW",28,"",""
-"8801JW",52,"",""
-"8801JW",52,"A",""
-"8801JW",16,"",""
-"8801JW",25,"C",""
-"8801JW",27,"",""
-"8801JW",48,"",""
-"8801JW",25,"A",""
-"8801JW",4,"C",""
-"8801JW",25,"D",""
-"8801JX",1,"",""
-"8801JZ",7,"",""
-"8801PD",10,"",""
-"8801PD",5,"",""
-"8801PD",12,"",""
-"8801PD",86,"",""
-"8801PD",1,"",""
-"8801PD",3,"",""
-"8801PD",15,"",""
-"8801PD",18,"",""
-"8801PD",9,"",""
-"8801PD",26,"",""
-"8801PD",4,"",""
-"8801PD",11,"",""
-"8801PD",80,"",""
-"8801PD",6,"",""
-"8801PD",88,"",""
-"8801PD",80,"C",""
-"8801PD",8,"",""
-"8801PD",28,"",""
-"8801PD",24,"",""
-"8801PD",14,"",""
-"8801PD",50,"",""
-"8801PD",80,"D",""
-"8801PD",7,"",""
-"8801PD",2,"",""
-"8801PD",54,"A",""
-"8801PD",20,"",""
-"8801PD",82,"",""
-"8801PD",50,"A",""
-"8801PD",13,"",""
-"8801PD",16,"",""
-"8801PD",22,"",""
-"8801PD",64,"",""
-"8801PD",54,"",""
-"8801PD",30,"",""
-"8801PD",58,"",""
-"8801PT",42,"",""
-"8801PT",68,"",""
-"8801PT",69,"",""
-"8801PT",44,"",""
-"8801PT",71,"",""
-"8801PT",70,"",""
-"8801PT",65,"A",""
-"8801PT",63,"",""
-"8801PT",70,"A",""
-"8801PT",67,"",""
-"8801PT",66,"",""
-"8801PT",69,"",""
-"8801PT",64,"",""
-"8801PV",5,"",""
-"8801PV",11,"",""
-"8801PV",1,"",""
-"8801PV",17,"",""
-"8801PV",3,"",""
-"8801PV",13,"",""
-"8801PV",5,"",""
-"8801PV",9,"",""
-"8801PV",7,"",""
-"8801PV",15,"",""
-"8801PW",2,"",""
-"8801PW",6,"",""
-"8801PW",10,"",""
-"8801PW",9,"",""
-"8801PW",8,"",""
-"8801PW",12,"A",""
-"8801PW",12,"B",""
-"8801PW",1,"",""
-"8801PW",13,"",""
-"8801PW",8,"A",""
-"8801PW",4,"",""
-"8801PW",3,"",""
-"8801PW",14,"",""
-"8801PX",9,"",""
-"8801PX",8,"",""
-"8801PX",12,"",""
-"8801PX",8,"",""
-"8801PX",10,"",""
-"8801PX",4,"A",""
-"8801PX",8,"",""
-"8801PX",11,"",""
-"8801PX",18,"",""
-"8801PX",1,"",""
-"8801PX",8,"",""
-"8801PX",16,"",""
-"8801PX",6,"",""
-"8801PX",28,"",""
-"8801PX",8,"",""
-"8801PX",16,"A",""
-"8801PX",8,"",""
-"8801PX",16,"A",""
-"8801PX",4,"",""
-"8801PX",20,"",""
-"8802PD",1,"A",""
-"8802PD",2,"",""
-"8802PH",5,"",""
-"8802PH",6,"",""
-"8802PL",3,"",""
-"8802PL",3,"A",""
-"8802PL",4,"",""
-"8802PL",2,"",""
-"8802PL",1,"",""
-"8802PR",5,"",""
-"8802PR",6,"",""
-"8802PR",4,"",""
-"8802PR",9,"",""
-"8802PR",7,"",""
-8801PW,Lutje Lollum,2,,
-8801PW,Lutje Lollum,6,,
-8801PW,Lutje Lollum,8,,
-8801PW,Lutje Lollum,10,,
-8801PW,Lutje Lollum,12,A,
-8801PW,Lutje Lollum,12,B,
-8801PW,Lutje Lollum,14,,
-8801PW,Lutje Lollum,1,,
-8801PW,Lutje Lollum,3,,
-8801PW,Lutje Lollum,9,,
-8801PV,Lutje Lollumerweg,9,,
-8801PV,Lutje Lollumerweg,1,,
-8801PV,Lutje Lollumerweg,3,,
-8801PV,Lutje Lollumerweg,5,,
-8801PV,Lutje Lollumerweg,7,,
-8801PV,Lutje Lollumerweg,11,,
-8801PV,Lutje Lollumerweg,13,,
-8801PV,Lutje Lollumerweg,15,,
-8801JW,Oostelijke Industrieweg,54,,
-8801JW,Oostelijke Industrieweg,60,,
-8801JW,Oostelijke Industrieweg,64,,
-8801JW,Oostelijke Industrieweg,29,,
-8801JW,Oostelijke Industrieweg,2,,
-8801JW,Oostelijke Industrieweg,4,,
-8801JW,Oostelijke Industrieweg,4,A,
-8801JW,Oostelijke Industrieweg,4,B,
-8801JW,Oostelijke Industrieweg,6,,
-8801JW,Oostelijke Industrieweg,8,,
-8801JW,Oostelijke Industrieweg,10,,
-8801JW,Oostelijke Industrieweg,20,,
-8801JW,Oostelijke Industrieweg,22,,
-8801JW,Oostelijke Industrieweg,26,,
-8801JW,Oostelijke Industrieweg,48,,
-8801JW,Oostelijke Industrieweg,5,,
-8801JW,Oostelijke Industrieweg,11,,
-8801JW,Oostelijke Industrieweg,15,,
-8801JW,Oostelijke Industrieweg,19,,
-8801JW,Oostelijke Industrieweg,21,,
-8801JW,Oostelijke Industrieweg,25,,
-8801JW,Oostelijke Industrieweg,27,,
-8801JW,Oostelijke Industrieweg,31,,
-8801JN,Tzummerweg,27,A,
-8801JN,Tzummerweg,4,,
-8801JN,Tzummerweg,6,,
-8801JN,Tzummerweg,12,,
-8801JN,Tzummerweg,14,C,
-8801JN,Tzummerweg,14,D,
-8801JN,Tzummerweg,3,,
-8801JN,Tzummerweg,7,,
-8801JN,Tzummerweg,9,,
-8801JN,Tzummerweg,13,,
-8801JN,Tzummerweg,17,A,
-8801JN,Tzummerweg,21,,
-8801JN,Tzummerweg,27,,
-8801JN,Tzummerweg,33,,
-8801JN,Tzummerweg,15,,
-8801JN,Tzummerweg,31,,
-8801JN,Tzummerweg,14,B,
-8801JN,Tzummerweg,1,,
-8801JN,Tzummerweg,17,,
-8801PX,Tzummerweg,16,,
-8801PX,Tzummerweg,16,A,
-8801PX,Tzummerweg,28,,
-8802PD,War,2,,
-8802PH,War,6,,
-8801AW,Zevenhuizen,1,,
-8801AW,Zevenhuizen,1,A,
-8801AW,Zevenhuizen,1,A,
-8802PL,Getswerderdyk,3,A,
-8802PL,Getswerderdyk,2,,
-8802PL,Getswerderdyk,4,,
-8802PL,Getswerderdyk,1,,
-8802PL,Getswerderdyk,3,,
-8801JA,Harlingervaart,11,,
-8801PD,Harlingerweg,50,,
-8801PD,Harlingerweg,50,A,
-8801PD,Harlingerweg,54,,
-8801PD,Harlingerweg,54,A,
-8801PD,Harlingerweg,58,,
-8801PD,Harlingerweg,64,,
-8801PD,Harlingerweg,80,,
-8801PD,Harlingerweg,86,,
-8801PD,Harlingerweg,88,,
-8801PX,Hitzumerweg,4,A,
-8801PX,Hitzumerweg,6,,
-8801PX,Hitzumerweg,10,,
-8801PX,Hitzumerweg,12,,
-8801PX,Hitzumerweg,1,,
-8801PX,Hitzumerweg,11,,
-8801PT,Salverderweg,42,,
-8801PT,Salverderweg,66,,
-8801PT,Salverderweg,68,,
-8801PT,Salverderweg,63,,
-8801PT,Salverderweg,67,,
-8801PT,Salverderweg,69,,
-8801PT,Salverderweg,71,,
-8801PX,Hitzumerweg,8,,
-8801PX,Hitzumerweg,8,,
-8802PR,Arkens,4,,
-8802PR,Arkens,6,,
-8802PR,Arkens,5,,
-8802PR,Arkens,7,,
-8802PR,Arkens,9,,
-8801JX,Frjentsjerterpaed,1,,
-8801PD,De Gideon,4,,
-8801PD,De Gideon,24,,
-8801PD,De Gideon,22,,
-8801PD,De Gideon,8,,
-8801PD,De Gideon,26,,
-8801PD,De Gideon,16,,
-8801PD,De Gideon,5,,
-8801PD,De Gideon,18,,
-8801PD,De Gideon,14,,
-8801PD,De Gideon,1,,
-8801PD,De Gideon,20,,
-8801PD,De Gideon,13,,
-8801PD,De Gideon,7,,
-8801PD,De Gideon,11,,
-8801PD,De Gideon,6,,
-8801PD,De Gideon,2,,
-8801PD,De Gideon,30,,
-8801PD,De Gideon,12,,
-8801PD,De Gideon,10,,
-8801PD,De Gideon,9,,
-8801PD,De Gideon,15,,
-8801PD,De Gideon,3,,
-8801PD,De Gideon,28,,
-8801JZ,Langhuis,7,,
-8801PV,Het Want,5,,
-8801PW,Lutje Lollum,4,,
-8801PW,Lutje Lollum,8,A,
-8801PW,Lutje Lollum,13,,
-8801PV,Lutje Lollumerweg,17,,
-8801JW,Oostelijke Industrieweg,25,A,
-8801JW,Oostelijke Industrieweg,62,,
-8801JW,Oostelijke Industrieweg,50,,
-8801JW,Oostelijke Industrieweg,14,,
-8801JW,Oostelijke Industrieweg,52,,
-8801JW,Oostelijke Industrieweg,66,,
-8801JW,Oostelijke Industrieweg,23,,
-8801JW,Oostelijke Industrieweg,25,B,
-8801JW,Oostelijke Industrieweg,12,,
-8801JW,Oostelijke Industrieweg,6,A,
-8801JW,Oostelijke Industrieweg,16,,
-8801JW,Oostelijke Industrieweg,28,,
-8801JW,Oostelijke Industrieweg,28,,
-8801JW,Oostelijke Industrieweg,52,A,
-8801JW,Oostelijke Industrieweg,52,A,
-8801JW,Oostelijke Industrieweg,4,D,
-8801JW,Oostelijke Industrieweg,4,B,
-8801JW,Oostelijke Industrieweg,4,C,
-8801JW,Oostelijke Industrieweg,25,B,
-8801JW,Oostelijke Industrieweg,25,C,
-8801JW,Oostelijke Industrieweg,25,D,
-8801JW,Oostelijke Industrieweg,48,,
-8801JN,Tzummerweg,14,D,
-8801JN,Tzummerweg,10,,
-8801JN,Tzummerweg,14,A,
-8801JN,Tzummerweg,14,,
-8801JN,Tzummerweg,11,,
-8801JN,Tzummerweg,19,,
-8801PX,Tzummerweg,18,,
-8801PX,Tzummerweg,20,,
-8802PD,War,1,A,
-8802PH,War,5,,
-8801AW,Zevenhuizen,4,,
-8801AW,Zevenhuizen,4,A,
-8801AW,Zevenhuizen,6,,
-8801AW,Zevenhuizen,8,,
-8801AW,Zevenhuizen,10,,
-8801AW,Zevenhuizen,10,A,
-8801AW,Zevenhuizen,12,,
-8801AW,Zevenhuizen,42,,
-8801AW,Zevenhuizen,44,,
-8801AW,Zevenhuizen,50,,
-8801AW,Zevenhuizen,49,,
-8801AW,Zevenhuizen,53,,
-8801AW,Zevenhuizen,2,,
-8801AW,Zevenhuizen,14,,
-8801AW,Zevenhuizen,6,B,
-8801AW,Zevenhuizen,5,,
-8801AW,Zevenhuizen,3,,
-8801AW,Zevenhuizen,51,,
-8801AW,Zevenhuizen,50,,
-8801AW,Zevenhuizen,52,,
-8801AW,Zevenhuizen,52,A,
-8801AW,Zevenhuizen,1,,
-8801PD,Harlingerweg,80,C,
-8801PD,Harlingerweg,80,D,
-8801PD,Harlingerweg,82,,
-8801PX,Hitzumerweg,9,,
-8801PX,Hitzumerweg,4,,
-8801PX,Hitzumerweg,8,,
-8801PX,Hitzumerweg,8,,
-8801PT,Salverderweg,64,,
-8801PT,Salverderweg,70,A,
-8801PT,Salverderweg,65,A,
-8801PT,Salverderweg,70,,
-8801PT,Salverderweg,44,,
-8801PV,Lutje Lollumerweg,19,,
-8801JW,Oostelijke Industrieweg,1,,
-8801JN,Tzummerweg,14,C,
-8801AW,Zevenhuizen,14,A,
-8801AW,Zevenhuizen,3,,
-8801AW,Zevenhuizen,3,A,
-8801AW,Zevenhuizen,47,,
-8801AW,Zevenhuizen,52,B,
-8802PL,Getswerderdyk,1,A,
-8802PL,Getswerderdyk,1,B,
-8802PL,Getswerderdyk,1,C,
-8802PL,Getswerderdyk,1,D,
-8802PL,Getswerderdyk,1,E,
-8802PL,Getswerderdyk,1,F,
-8802PL,Getswerderdyk,1,G,
-8802PL,Getswerderdyk,1,H,
-8801PD,Harlingerweg,80,B,
-8801PD,Harlingerweg,80,A,
-8801PD,Harlingerweg,52,A,
-8801PD,Harlingerweg,52,B,
-8801PT,Salverderweg,69,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zevenhuizen,1,"","",8801AW,Franeker
+Zevenhuizen,1,"","",8801AW,Franeker
+Zevenhuizen,1,A,"",8801AW,Franeker
+Zevenhuizen,1,A,"",8801AW,Franeker
+Zevenhuizen,10,"","",8801AW,Franeker
+Zevenhuizen,10,A,"",8801AW,Franeker
+Zevenhuizen,12,"","",8801AW,Franeker
+Zevenhuizen,14,"","",8801AW,Franeker
+Zevenhuizen,2,"","",8801AW,Franeker
+Zevenhuizen,3,"","",8801AW,Franeker
+Zevenhuizen,3,"","",8801AW,Franeker
+Zevenhuizen,4,"","",8801AW,Franeker
+Zevenhuizen,4,A,"",8801AW,Franeker
+Zevenhuizen,42,"","",8801AW,Franeker
+Zevenhuizen,44,"","",8801AW,Franeker
+Zevenhuizen,44,"","",8801AW,Franeker
+Zevenhuizen,49,"","",8801AW,Franeker
+Zevenhuizen,5,"","",8801AW,Franeker
+Zevenhuizen,50,"","",8801AW,Franeker
+Zevenhuizen,50,"","",8801AW,Franeker
+Zevenhuizen,50,"","",8801AW,Franeker
+Zevenhuizen,51,"","",8801AW,Franeker
+Zevenhuizen,52,"","",8801AW,Franeker
+Zevenhuizen,52,A,"",8801AW,Franeker
+Zevenhuizen,53,"","",8801AW,Franeker
+Zevenhuizen,6,"","",8801AW,Franeker
+Zevenhuizen,6,B,"",8801AW,Franeker
+Zevenhuizen,8,"","",8801AW,Franeker
+Harlingervaart,11,"","",8801JA,Franeker
+Tzummerweg,1,"","",8801JN,Franeker
+Tzummerweg,10,"","",8801JN,Franeker
+Tzummerweg,11,"","",8801JN,Franeker
+Tzummerweg,12,"","",8801JN,Franeker
+Tzummerweg,13,"","",8801JN,Franeker
+Tzummerweg,14,"","",8801JN,Franeker
+Tzummerweg,14,A,"",8801JN,Franeker
+Tzummerweg,14,B,"",8801JN,Franeker
+Tzummerweg,14,C,"",8801JN,Franeker
+Tzummerweg,14,D,"",8801JN,Franeker
+Tzummerweg,14,D,"",8801JN,Franeker
+Tzummerweg,14,D,"",8801JN,Franeker
+Tzummerweg,15,"","",8801JN,Franeker
+Tzummerweg,17,"","",8801JN,Franeker
+Tzummerweg,17,A,"",8801JN,Franeker
+Tzummerweg,19,"","",8801JN,Franeker
+Tzummerweg,21,"","",8801JN,Franeker
+Tzummerweg,27,"","",8801JN,Franeker
+Tzummerweg,27,A,"",8801JN,Franeker
+Tzummerweg,3,"","",8801JN,Franeker
+Tzummerweg,31,"","",8801JN,Franeker
+Tzummerweg,33,"","",8801JN,Franeker
+Tzummerweg,4,"","",8801JN,Franeker
+Tzummerweg,6,"","",8801JN,Franeker
+Tzummerweg,7,"","",8801JN,Franeker
+Tzummerweg,9,"","",8801JN,Franeker
+Oostelijke Industrieweg,10,"","",8801JW,Franeker
+Oostelijke Industrieweg,11,"","",8801JW,Franeker
+Oostelijke Industrieweg,12,"","",8801JW,Franeker
+Oostelijke Industrieweg,14,"","",8801JW,Franeker
+Oostelijke Industrieweg,15,"","",8801JW,Franeker
+Oostelijke Industrieweg,16,"","",8801JW,Franeker
+Oostelijke Industrieweg,19,"","",8801JW,Franeker
+Oostelijke Industrieweg,2,"","",8801JW,Franeker
+Oostelijke Industrieweg,20,"","",8801JW,Franeker
+Oostelijke Industrieweg,21,"","",8801JW,Franeker
+Oostelijke Industrieweg,22,"","",8801JW,Franeker
+Oostelijke Industrieweg,23,"","",8801JW,Franeker
+Oostelijke Industrieweg,25,"","",8801JW,Franeker
+Oostelijke Industrieweg,25,A,"",8801JW,Franeker
+Oostelijke Industrieweg,25,B,"",8801JW,Franeker
+Oostelijke Industrieweg,25,B,"",8801JW,Franeker
+Oostelijke Industrieweg,25,B,"",8801JW,Franeker
+Oostelijke Industrieweg,25,C,"",8801JW,Franeker
+Oostelijke Industrieweg,25,D,"",8801JW,Franeker
+Oostelijke Industrieweg,26,"","",8801JW,Franeker
+Oostelijke Industrieweg,27,"","",8801JW,Franeker
+Oostelijke Industrieweg,28,"","",8801JW,Franeker
+Oostelijke Industrieweg,28,"","",8801JW,Franeker
+Oostelijke Industrieweg,29,"","",8801JW,Franeker
+Oostelijke Industrieweg,31,"","",8801JW,Franeker
+Oostelijke Industrieweg,4,"","",8801JW,Franeker
+Oostelijke Industrieweg,4,A,"",8801JW,Franeker
+Oostelijke Industrieweg,4,B,"",8801JW,Franeker
+Oostelijke Industrieweg,4,B,"",8801JW,Franeker
+Oostelijke Industrieweg,4,B,"",8801JW,Franeker
+Oostelijke Industrieweg,4,C,"",8801JW,Franeker
+Oostelijke Industrieweg,4,D,"",8801JW,Franeker
+Oostelijke Industrieweg,48,"","",8801JW,Franeker
+Oostelijke Industrieweg,48,"","",8801JW,Franeker
+Oostelijke Industrieweg,48,"","",8801JW,Franeker
+Oostelijke Industrieweg,5,"","",8801JW,Franeker
+Oostelijke Industrieweg,50,"","",8801JW,Franeker
+Oostelijke Industrieweg,52,"","",8801JW,Franeker
+Oostelijke Industrieweg,52,A,"",8801JW,Franeker
+Oostelijke Industrieweg,52,A,"",8801JW,Franeker
+Oostelijke Industrieweg,54,"","",8801JW,Franeker
+Oostelijke Industrieweg,6,"","",8801JW,Franeker
+Oostelijke Industrieweg,6,A,"",8801JW,Franeker
+Oostelijke Industrieweg,60,"","",8801JW,Franeker
+Oostelijke Industrieweg,62,"","",8801JW,Franeker
+Oostelijke Industrieweg,64,"","",8801JW,Franeker
+Oostelijke Industrieweg,66,"","",8801JW,Franeker
+Oostelijke Industrieweg,8,"","",8801JW,Franeker
+Frjentsjerterpaed,1,"","",8801JX,Franeker
+Langhuis,7,"","",8801JZ,Franeker
+De Gideon,1,"","",8801PD,Franeker
+De Gideon,10,"","",8801PD,Franeker
+De Gideon,11,"","",8801PD,Franeker
+De Gideon,12,"","",8801PD,Franeker
+De Gideon,13,"","",8801PD,Franeker
+De Gideon,14,"","",8801PD,Franeker
+De Gideon,15,"","",8801PD,Franeker
+De Gideon,16,"","",8801PD,Franeker
+De Gideon,18,"","",8801PD,Franeker
+De Gideon,2,"","",8801PD,Franeker
+De Gideon,20,"","",8801PD,Franeker
+De Gideon,22,"","",8801PD,Franeker
+De Gideon,24,"","",8801PD,Franeker
+De Gideon,26,"","",8801PD,Franeker
+De Gideon,28,"","",8801PD,Franeker
+De Gideon,3,"","",8801PD,Franeker
+De Gideon,30,"","",8801PD,Franeker
+De Gideon,4,"","",8801PD,Franeker
+De Gideon,5,"","",8801PD,Franeker
+Harlingerweg,50,"","",8801PD,Franeker
+Harlingerweg,50,A,"",8801PD,Franeker
+Harlingerweg,54,"","",8801PD,Franeker
+Harlingerweg,54,A,"",8801PD,Franeker
+Harlingerweg,58,"","",8801PD,Franeker
+De Gideon,6,"","",8801PD,Franeker
+Harlingerweg,64,"","",8801PD,Franeker
+De Gideon,7,"","",8801PD,Franeker
+De Gideon,8,"","",8801PD,Franeker
+Harlingerweg,80,"","",8801PD,Franeker
+Harlingerweg,80,C,"",8801PD,Franeker
+Harlingerweg,80,D,"",8801PD,Franeker
+Harlingerweg,82,"","",8801PD,Franeker
+Harlingerweg,86,"","",8801PD,Franeker
+Harlingerweg,88,"","",8801PD,Franeker
+De Gideon,9,"","",8801PD,Franeker
+Salverderweg,42,"","",8801PT,Franeker
+Salverderweg,44,"","",8801PT,Franeker
+Salverderweg,63,"","",8801PT,Franeker
+Salverderweg,64,"","",8801PT,Franeker
+Salverderweg,65,A,"",8801PT,Franeker
+Salverderweg,66,"","",8801PT,Franeker
+Salverderweg,67,"","",8801PT,Franeker
+Salverderweg,68,"","",8801PT,Franeker
+Salverderweg,69,"","",8801PT,Franeker
+Salverderweg,69,"","",8801PT,Franeker
+Salverderweg,70,"","",8801PT,Franeker
+Salverderweg,70,A,"",8801PT,Franeker
+Salverderweg,71,"","",8801PT,Franeker
+Lutje Lollumerweg,1,"","",8801PV,Franeker
+Lutje Lollumerweg,11,"","",8801PV,Franeker
+Lutje Lollumerweg,13,"","",8801PV,Franeker
+Lutje Lollumerweg,15,"","",8801PV,Franeker
+Lutje Lollumerweg,17,"","",8801PV,Franeker
+Lutje Lollumerweg,3,"","",8801PV,Franeker
+Lutje Lollumerweg,5,"","",8801PV,Franeker
+Lutje Lollumerweg,5,"","",8801PV,Franeker
+Lutje Lollumerweg,7,"","",8801PV,Franeker
+Lutje Lollumerweg,9,"","",8801PV,Franeker
+Lutje Lollum,1,"","",8801PW,Franeker
+Lutje Lollum,10,"","",8801PW,Franeker
+Lutje Lollum,12,A,"",8801PW,Franeker
+Lutje Lollum,12,B,"",8801PW,Franeker
+Lutje Lollum,13,"","",8801PW,Franeker
+Lutje Lollum,14,"","",8801PW,Franeker
+Lutje Lollum,2,"","",8801PW,Franeker
+Lutje Lollum,3,"","",8801PW,Franeker
+Lutje Lollum,4,"","",8801PW,Franeker
+Lutje Lollum,6,"","",8801PW,Franeker
+Lutje Lollum,8,"","",8801PW,Franeker
+Lutje Lollum,8,A,"",8801PW,Franeker
+Lutje Lollum,9,"","",8801PW,Franeker
+Hitzumerweg,1,"","",8801PX,Franeker
+Hitzumerweg,10,"","",8801PX,Franeker
+Hitzumerweg,11,"","",8801PX,Franeker
+Hitzumerweg,12,"","",8801PX,Franeker
+Tzummerweg,16,"","",8801PX,Franeker
+Tzummerweg,16,A,"",8801PX,Franeker
+Tzummerweg,16,A,"",8801PX,Franeker
+Tzummerweg,18,"","",8801PX,Franeker
+Tzummerweg,20,"","",8801PX,Franeker
+Tzummerweg,28,"","",8801PX,Franeker
+Hitzumerweg,4,"","",8801PX,Franeker
+Hitzumerweg,4,A,"",8801PX,Franeker
+Hitzumerweg,6,"","",8801PX,Franeker
+Hitzumerweg,8,"","",8801PX,Tzum
+Hitzumerweg,8,"","",8801PX,Tzum
+Hitzumerweg,8,"","",8801PX,Tzum
+Hitzumerweg,8,"","",8801PX,Tzum
+Hitzumerweg,8,"","",8801PX,Tzum
+Hitzumerweg,8,"","",8801PX,Tzum
+Hitzumerweg,9,"","",8801PX,Franeker
+War,1,A,"",8802PD,Franeker
+War,2,"","",8802PD,Franeker
+War,5,"","",8802PH,Franeker
+War,6,"","",8802PH,Franeker
+Getswerderdyk,1,"","",8802PL,Franeker
+Getswerderdyk,2,"","",8802PL,Franeker
+Getswerderdyk,3,"","",8802PL,Franeker
+Getswerderdyk,3,A,"",8802PL,Franeker
+Getswerderdyk,4,"","",8802PL,Franeker
+Arkens,4,"","",8802PR,Franeker
+Arkens,5,"","",8802PR,Franeker
+Arkens,6,"","",8802PR,Franeker
+Arkens,7,"","",8802PR,Franeker
+Arkens,9,"","",8802PR,Franeker

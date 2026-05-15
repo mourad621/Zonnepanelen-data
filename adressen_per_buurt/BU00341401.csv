@@ -1,442 +1,229 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"1351AA",7,"",""
-"1351AA",4,"",""
-"1351AA",7,"C",""
-"1351AA",7,"D",""
-"1351AA",4,"",""
-"1351AA",4,"",""
-"1351AA",7,"",""
-"1351AA",9,"",""
-"1351AA",7,"A",""
-"1351AA",13,"",""
-"1351AA",7,"",""
-"1351AA",16,"",""
-"1351AA",10,"",""
-"1351AB",33,"",""
-"1351AB",20,"",""
-"1351AB",31,"",""
-"1351AB",37,"",""
-"1351AB",21,"",""
-"1351AB",27,"",""
-"1351AB",36,"",""
-"1351AB",30,"",""
-"1351AB",34,"",""
-"1351AB",24,"",""
-"1351AB",29,"",""
-"1351AB",35,"",""
-"1351AB",32,"",""
-"1351AB",21,"",""
-"1351AB",28,"",""
-"1351AB",21,"",""
-"1351AB",23,"",""
-"1351AC",47,"",""
-"1351AC",45,"",""
-"1351AC",44,"",""
-"1351AC",46,"",""
-"1351AC",45,"",""
-"1351AC",41,"",""
-"1351AD",61,"",""
-"1351AD",63,"A",""
-"1351AD",57,"",""
-"1351AD",63,"B",""
-"1351AD",59,"",""
-"1351AD",51,"",""
-"1351AD",63,"C",""
-"1351AD",65,"",""
-"1351AD",63,"",""
-"1351AD",66,"",""
-"1351AD",55,"",""
-"1351AD",63,"D",""
-"1351AD",66,"",""
-"1351AD",67,"",""
-"1351AE",77,"",""
-"1351AE",74,"M",""
-"1351AE",74,"D",""
-"1351AE",74,"K",""
-"1351AE",74,"",""
-"1351AE",74,"E",""
-"1351AE",74,"B",""
-"1351AE",74,"J",""
-"1351AE",74,"L",""
-"1351AE",74,"",""
-"1351AE",74,"G",""
-"1351AE",74,"F",""
-"1351AE",78,"",""
-"1351AE",71,"",""
-"1351AE",74,"C",""
-"1351AE",78,"",""
-"1351AE",74,"H",""
-"1351AE",73,"",""
-"1351AE",74,"A",""
-"1351AG",87,"",""
-"1351AG",85,"",""
-"1351AG",86,"",""
-"1351AG",84,"",""
-"1351AG",88,"",""
-"1351AG",83,"",""
-"1351AG",82,"",""
-"1351AG",81,"",""
-"1351AH",92,"",""
-"1351AH",90,"",""
-"1351AH",98,"",""
-"1351AH",93,"",""
-"1351AH",96,"",""
-"1351AH",89,"",""
-"1351AH",97,"",""
-"1351AH",95,"",""
-"1351AH",89,"A",""
-"1351AH",91,"",""
-"1351AH",94,"",""
-"1351AJ",101,"",""
-"1351AJ",100,"E",""
-"1351AJ",100,"B",""
-"1351AJ",100,"A",""
-"1351AJ",109,"",""
-"1351AJ",106,"",""
-"1351AJ",101,"A",""
-"1351AJ",104,"",""
-"1351AJ",101,"",""
-"1351AJ",108,"",""
-"1351AJ",100,"D",""
-"1351AJ",105,"",""
-"1351AK",119,"",""
-"1351AK",116,"",""
-"1351AK",113,"",""
-"1351AK",113,"",""
-"1351AK",113,"",""
-"1351AK",110,"",""
-"1351AL",122,"",""
-"1351AL",125,"",""
-"1351AL",128,"",""
-"1351AM",133,"",""
-"1351AM",130,"",""
-"1351AM",139,"",""
-"1351AM",130,"",""
-"1351AM",135,"",""
-"1351AM",131,"",""
-"1351AN",143,"",""
-"1351AN",146,"",""
-"1351AN",145,"",""
-"1351AN",149,"",""
-"1351AN",142,"",""
-"1351AN",148,"",""
-"1351AN",147,"",""
-"1351AN",144,"",""
-"1351AP",151,"",""
-"1351AP",153,"",""
-"1351AP",157,"",""
-"1351AP",152,"",""
-"1351AP",158,"",""
-"1351AP",156,"",""
-"1351AP",159,"",""
-"1351AP",154,"",""
-"1351AP",150,"",""
-"1351AP",155,"",""
-"1351AR",163,"",""
-"1351AR",162,"",""
-"1351AR",165,"",""
-"1351AR",164,"",""
-"1351AR",161,"",""
-"1351AR",160,"",""
-"1351AS",176,"A",""
-"1351AS",178,"",""
-"1351AS",175,"",""
-"1351AS",177,"",""
-"1351AS",177,"A",""
-"1351AS",178,"",""
-"1351AS",178,"",""
-"1351AS",178,"A",""
-"1351AS",179,"",""
-"1351AS",170,"A",""
-"1351AS",172,"",""
-"1351AS",170,"",""
-"1351AS",174,"",""
-"1351AS",179,"A",""
-"1351AS",176,"",""
-"1351AS",170,"B",""
-"1351AT",185,"K",""
-"1351AT",187,"B",""
-"1351AT",185,"J",""
-"1351AT",183,"A",""
-"1351AT",185,"A",""
-"1351AT",185,"C",""
-"1351AT",185,"",""
-"1351AT",185,"B",""
-"1351AT",188,"",""
-"1351AT",183,"E",""
-"1351AT",180,"A",""
-"1351AT",187,"D",""
-"1351AT",184,"",""
-"1351AT",185,"G",""
-"1351AT",185,"",""
-"1351AT",180,"",""
-"1351AT",185,"D",""
-"1351AT",185,"E",""
-"1351AT",187,"",""
-"1351AT",183,"D",""
-"1351AT",183,"C",""
-"1351AT",187,"E",""
-"1351AT",185,"H",""
-"1351AT",187,"C",""
-"1351AT",186,"",""
-"1351AT",181,"",""
-"1351AT",183,"B",""
-"1351AT",181,"A",""
-"1351AT",185,"F",""
-"1351AT",182,"",""
-"1351AT",187,"",""
-"1351AT",187,"A",""
-"1351AT",187,"",""
-"1351AV",196,"C",""
-"1351AV",194,"B",""
-"1351AV",194,"G",""
-"1351AV",196,"",""
-"1351AV",196,"H",""
-"1351AV",194,"C",""
-"1351AV",194,"H",""
-"1351AV",195,"F",""
-"1351AV",196,"G",""
-"1351AV",198,"",""
-"1351AV",194,"F",""
-"1351AV",194,"D",""
-"1351AV",195,"C",""
-"1351AV",196,"",""
-"1351AV",195,"E",""
-"1351AV",193,"",""
-"1351AV",194,"A",""
-"1351AV",196,"F",""
-"1351AV",195,"D",""
-"1351AV",195,"H",""
-"1351AV",196,"B",""
-"1351AV",196,"A",""
-"1351AV",195,"B",""
-"1351AV",194,"E",""
-"1351AV",195,"G",""
-"1351AV",190,"",""
-"1351AV",195,"A",""
-"1351AV",196,"E",""
-"1351AV",196,"D",""
-"1351AW",200,"",""
-"1351AW",212,"",""
-"1351AW",215,"",""
-"1351AW",203,"",""
-"1351AW",218,"",""
-"1351AW",209,"",""
-"1351AW",206,"",""
-"1351AW",218,"",""
-"1351AX",222,"",""
-"1351AX",221,"",""
-"1351AX",223,"",""
-1351AL,De Steiger,128,,
-1351AA,De Steiger,4,,
-1351AA,De Steiger,13,,
-1351AA,De Steiger,16,,
-1351AB,De Steiger,21,,
-1351AB,De Steiger,24,,
-1351AB,De Steiger,27,,
-1351AB,De Steiger,33,,
-1351AC,De Steiger,41,,
-1351AC,De Steiger,44,,
-1351AC,De Steiger,46,,
-1351AC,De Steiger,47,,
-1351AD,De Steiger,51,,
-1351AD,De Steiger,55,,
-1351AD,De Steiger,57,,
-1351AD,De Steiger,59,,
-1351AD,De Steiger,61,,
-1351AD,De Steiger,63,,
-1351AD,De Steiger,66,,
-1351AE,De Steiger,71,,
-1351AE,De Steiger,74,,
-1351AE,De Steiger,77,,
-1351AG,De Steiger,81,,
-1351AG,De Steiger,82,,
-1351AG,De Steiger,83,,
-1351AG,De Steiger,84,,
-1351AG,De Steiger,85,,
-1351AG,De Steiger,86,,
-1351AH,De Steiger,89,,
-1351AH,De Steiger,90,,
-1351AH,De Steiger,91,,
-1351AH,De Steiger,92,,
-1351AH,De Steiger,93,,
-1351AH,De Steiger,94,,
-1351AH,De Steiger,95,,
-1351AH,De Steiger,96,,
-1351AH,De Steiger,97,,
-1351AH,De Steiger,98,,
-1351AJ,De Steiger,104,,
-1351AJ,De Steiger,108,,
-1351AJ,De Steiger,109,,
-1351AK,De Steiger,110,,
-1351AK,De Steiger,113,,
-1351AK,De Steiger,116,,
-1351AK,De Steiger,119,,
-1351AL,De Steiger,122,,
-1351AL,De Steiger,125,,
-1351AM,De Steiger,131,,
-1351AM,De Steiger,133,,
-1351AM,De Steiger,135,,
-1351AM,De Steiger,139,,
-1351AN,De Steiger,142,,
-1351AN,De Steiger,143,,
-1351AN,De Steiger,144,,
-1351AN,De Steiger,145,,
-1351AN,De Steiger,146,,
-1351AN,De Steiger,147,,
-1351AN,De Steiger,148,,
-1351AN,De Steiger,149,,
-1351AP,De Steiger,150,,
-1351AP,De Steiger,151,,
-1351AP,De Steiger,152,,
-1351AP,De Steiger,153,,
-1351AP,De Steiger,154,,
-1351AP,De Steiger,155,,
-1351AP,De Steiger,156,,
-1351AP,De Steiger,158,,
-1351AP,De Steiger,159,,
-1351AR,De Steiger,160,,
-1351AR,De Steiger,161,,
-1351AR,De Steiger,162,,
-1351AR,De Steiger,163,,
-1351AR,De Steiger,164,,
-1351AS,De Steiger,170,,
-1351AS,De Steiger,172,,
-1351AS,De Steiger,174,,
-1351AT,De Steiger,180,,
-1351AT,De Steiger,185,,
-1351AT,De Steiger,187,,
-1351AT,De Steiger,187,,
-1351AV,De Steiger,190,,
-1351AV,De Steiger,193,,
-1351AV,De Steiger,196,,
-1351AW,De Steiger,200,,
-1351AW,De Steiger,203,,
-1351AW,De Steiger,206,,
-1351AW,De Steiger,209,,
-1351AW,De Steiger,212,,
-1351AW,De Steiger,215,,
-1351AW,De Steiger,218,,
-1351AX,De Steiger,221,,
-1351AX,De Steiger,222,,
-1351AX,De Steiger,223,,
-1351AA,De Steiger,7,,
-1351AA,De Steiger,10,,
-1351AB,De Steiger,20,,
-1351AB,De Steiger,28,,
-1351AB,De Steiger,29,,
-1351AB,De Steiger,30,,
-1351AB,De Steiger,31,,
-1351AB,De Steiger,32,,
-1351AB,De Steiger,34,,
-1351AB,De Steiger,35,,
-1351AB,De Steiger,36,,
-1351AC,De Steiger,45,,
-1351AD,De Steiger,67,,
-1351AG,De Steiger,87,,
-1351AJ,De Steiger,101,,
-1351AP,De Steiger,157,,
-1351AR,De Steiger,165,,
-1351AT,De Steiger,181,,
-1351AT,De Steiger,182,,
-1351AT,De Steiger,184,,
-1351AT,De Steiger,186,,
-1351AG,De Steiger,88,,
-1351AJ,De Steiger,101,A,
-1351AS,De Steiger,178,,
-1351AA,De Steiger,9,,
-1351AD,De Steiger,65,,
-1351AM,De Steiger,130,,
-1351AS,De Steiger,175,,
-1351AS,De Steiger,176,,
-1351AS,De Steiger,177,,
-1351AS,De Steiger,176,A,
-1351AS,De Steiger,177,A,
-1351AS,De Steiger,178,A,
-1351AS,De Steiger,179,A,
-1351AS,De Steiger,179,,
-1351AT,De Steiger,188,,
-1351AT,De Steiger,180,A,
-1351AT,De Steiger,181,A,
-1351AD,De Steiger,63,A,
-1351AD,De Steiger,63,B,
-1351AD,De Steiger,63,C,
-1351AD,De Steiger,63,D,
-1351AB,De Steiger,37,,
-1351AE,De Steiger,78,,
-1351AJ,De Steiger,105,,
-1351AV,De Steiger,198,,
-1351AH,De Steiger,89,A,
-1351AS,De Steiger,178,,
-1351AA,De Steiger,7,,
-1351AA,De Steiger,7,A,
-1351AA,De Steiger,7,C,
-1351AA,De Steiger,7,D,
-1351AE,De Steiger,74,A,
-1351AE,De Steiger,74,B,
-1351AE,De Steiger,74,C,
-1351AE,De Steiger,74,D,
-1351AE,De Steiger,74,E,
-1351AE,De Steiger,74,F,
-1351AE,De Steiger,74,G,
-1351AE,De Steiger,74,H,
-1351AE,De Steiger,74,J,
-1351AE,De Steiger,74,K,
-1351AE,De Steiger,74,L,
-1351AE,De Steiger,74,M,
-1351AJ,De Steiger,100,A,
-1351AJ,De Steiger,100,B,
-1351AJ,De Steiger,100,D,
-1351AJ,De Steiger,100,E,
-1351AK,De Steiger,113,,
-1351AJ,De Steiger,106,,
-1351AV,De Steiger,194,A,
-1351AV,De Steiger,194,B,
-1351AV,De Steiger,194,C,
-1351AV,De Steiger,194,D,
-1351AV,De Steiger,194,E,
-1351AV,De Steiger,194,F,
-1351AV,De Steiger,194,G,
-1351AV,De Steiger,194,H,
-1351AV,De Steiger,195,A,
-1351AV,De Steiger,195,B,
-1351AV,De Steiger,195,C,
-1351AV,De Steiger,195,D,
-1351AV,De Steiger,195,E,
-1351AV,De Steiger,195,F,
-1351AV,De Steiger,195,G,
-1351AV,De Steiger,195,H,
-1351AV,De Steiger,196,A,
-1351AV,De Steiger,196,B,
-1351AV,De Steiger,196,C,
-1351AV,De Steiger,196,D,
-1351AV,De Steiger,196,E,
-1351AV,De Steiger,196,F,
-1351AV,De Steiger,196,G,
-1351AV,De Steiger,196,H,
-1351AA,De Steiger,4,,
-1351AE,De Steiger,73,,
-1351AT,De Steiger,183,A,
-1351AT,De Steiger,183,B,
-1351AT,De Steiger,183,C,
-1351AT,De Steiger,183,D,
-1351AT,De Steiger,183,E,
-1351AT,De Steiger,185,A,
-1351AT,De Steiger,185,B,
-1351AT,De Steiger,185,C,
-1351AT,De Steiger,185,D,
-1351AT,De Steiger,185,E,
-1351AT,De Steiger,185,F,
-1351AT,De Steiger,185,G,
-1351AT,De Steiger,185,H,
-1351AT,De Steiger,185,J,
-1351AT,De Steiger,185,K,
-1351AT,De Steiger,187,A,
-1351AT,De Steiger,187,B,
-1351AT,De Steiger,187,C,
-1351AT,De Steiger,187,D,
-1351AT,De Steiger,187,E,
-1351AB,De Steiger,21,,
-1351AB,De Steiger,23,,
-1351AS,De Steiger,170,A,
-1351AS,De Steiger,170,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Steiger,10,"","",1351AA,Almere
+De Steiger,13,"","",1351AA,Almere
+De Steiger,16,"","",1351AA,Almere
+De Steiger,4,"","",1351AA,Almere
+De Steiger,4,"","",1351AA,Almere
+De Steiger,4,"","",1351AA,Almere
+De Steiger,7,"","",1351AA,Almere
+De Steiger,7,"","",1351AA,Almere
+De Steiger,7,"","",1351AA,Almere
+De Steiger,7,A,"",1351AA,Almere
+De Steiger,7,C,"",1351AA,Almere
+De Steiger,7,D,"",1351AA,Almere
+De Steiger,9,"","",1351AA,Almere
+De Steiger,20,"","",1351AB,Almere
+De Steiger,21,"","",1351AB,Almere
+De Steiger,21,"","",1351AB,Almere
+De Steiger,21,"","",1351AB,Almere
+De Steiger,23,"","",1351AB,Almere
+De Steiger,24,"","",1351AB,Almere
+De Steiger,27,"","",1351AB,Almere
+De Steiger,28,"","",1351AB,Almere
+De Steiger,29,"","",1351AB,Almere
+De Steiger,30,"","",1351AB,Almere
+De Steiger,31,"","",1351AB,Almere
+De Steiger,32,"","",1351AB,Almere
+De Steiger,33,"","",1351AB,Almere
+De Steiger,34,"","",1351AB,Almere
+De Steiger,35,"","",1351AB,Almere
+De Steiger,36,"","",1351AB,Almere
+De Steiger,37,"","",1351AB,Almere
+De Steiger,41,"","",1351AC,Almere
+De Steiger,44,"","",1351AC,Almere
+De Steiger,45,"","",1351AC,Almere
+De Steiger,45,"","",1351AC,Almere
+De Steiger,46,"","",1351AC,Almere
+De Steiger,47,"","",1351AC,Almere
+De Steiger,51,"","",1351AD,Almere
+De Steiger,55,"","",1351AD,Almere
+De Steiger,57,"","",1351AD,Almere
+De Steiger,59,"","",1351AD,Almere
+De Steiger,61,"","",1351AD,Almere
+De Steiger,63,"","",1351AD,Almere
+De Steiger,63,A,"",1351AD,Almere
+De Steiger,63,B,"",1351AD,Almere
+De Steiger,63,C,"",1351AD,Almere
+De Steiger,63,D,"",1351AD,Almere
+De Steiger,65,"","",1351AD,Almere
+De Steiger,66,"","",1351AD,Almere
+De Steiger,66,"","",1351AD,Almere
+De Steiger,67,"","",1351AD,Almere
+De Steiger,71,"","",1351AE,Almere
+De Steiger,73,"","",1351AE,Almere
+De Steiger,74,"","",1351AE,Almere
+De Steiger,74,"","",1351AE,Almere
+De Steiger,74,A,"",1351AE,Almere
+De Steiger,74,B,"",1351AE,Almere
+De Steiger,74,C,"",1351AE,Almere
+De Steiger,74,D,"",1351AE,Almere
+De Steiger,74,E,"",1351AE,Almere
+De Steiger,74,F,"",1351AE,Almere
+De Steiger,74,G,"",1351AE,Almere
+De Steiger,74,H,"",1351AE,Almere
+De Steiger,74,J,"",1351AE,Almere
+De Steiger,74,K,"",1351AE,Almere
+De Steiger,74,L,"",1351AE,Almere
+De Steiger,74,M,"",1351AE,Almere
+De Steiger,77,"","",1351AE,Almere
+De Steiger,78,"","",1351AE,Almere
+De Steiger,78,"","",1351AE,Almere
+De Steiger,81,"","",1351AG,Almere
+De Steiger,82,"","",1351AG,Almere
+De Steiger,83,"","",1351AG,Almere
+De Steiger,84,"","",1351AG,Almere
+De Steiger,85,"","",1351AG,Almere
+De Steiger,86,"","",1351AG,Almere
+De Steiger,87,"","",1351AG,Almere
+De Steiger,88,"","",1351AG,Almere
+De Steiger,89,"","",1351AH,Almere
+De Steiger,89,A,"",1351AH,Almere
+De Steiger,90,"","",1351AH,Almere
+De Steiger,91,"","",1351AH,Almere
+De Steiger,92,"","",1351AH,Almere
+De Steiger,93,"","",1351AH,Almere
+De Steiger,94,"","",1351AH,Almere
+De Steiger,95,"","",1351AH,Almere
+De Steiger,96,"","",1351AH,Almere
+De Steiger,97,"","",1351AH,Almere
+De Steiger,98,"","",1351AH,Almere
+De Steiger,100,A,"",1351AJ,Almere
+De Steiger,100,B,"",1351AJ,Almere
+De Steiger,100,D,"",1351AJ,Almere
+De Steiger,100,E,"",1351AJ,Almere
+De Steiger,101,"","",1351AJ,Almere
+De Steiger,101,"","",1351AJ,Almere
+De Steiger,101,A,"",1351AJ,Almere
+De Steiger,104,"","",1351AJ,Almere
+De Steiger,105,"","",1351AJ,Almere
+De Steiger,106,"","",1351AJ,Almere
+De Steiger,108,"","",1351AJ,Almere
+De Steiger,109,"","",1351AJ,Almere
+De Steiger,110,"","",1351AK,Almere
+De Steiger,113,"","",1351AK,Almere
+De Steiger,113,"","",1351AK,Almere
+De Steiger,113,"","",1351AK,Almere
+De Steiger,116,"","",1351AK,Almere
+De Steiger,119,"","",1351AK,Almere
+De Steiger,122,"","",1351AL,Almere
+De Steiger,125,"","",1351AL,Almere
+De Steiger,128,"","",1351AL,Almere
+De Steiger,130,"","",1351AM,Almere
+De Steiger,130,"","",1351AM,Almere
+De Steiger,131,"","",1351AM,Almere
+De Steiger,133,"","",1351AM,Almere
+De Steiger,135,"","",1351AM,Almere
+De Steiger,139,"","",1351AM,Almere
+De Steiger,142,"","",1351AN,Almere
+De Steiger,143,"","",1351AN,Almere
+De Steiger,144,"","",1351AN,Almere
+De Steiger,145,"","",1351AN,Almere
+De Steiger,146,"","",1351AN,Almere
+De Steiger,147,"","",1351AN,Almere
+De Steiger,148,"","",1351AN,Almere
+De Steiger,149,"","",1351AN,Almere
+De Steiger,150,"","",1351AP,Almere
+De Steiger,151,"","",1351AP,Almere
+De Steiger,152,"","",1351AP,Almere
+De Steiger,153,"","",1351AP,Almere
+De Steiger,154,"","",1351AP,Almere
+De Steiger,155,"","",1351AP,Almere
+De Steiger,156,"","",1351AP,Almere
+De Steiger,157,"","",1351AP,Almere
+De Steiger,158,"","",1351AP,Almere
+De Steiger,159,"","",1351AP,Almere
+De Steiger,160,"","",1351AR,Almere
+De Steiger,161,"","",1351AR,Almere
+De Steiger,162,"","",1351AR,Almere
+De Steiger,163,"","",1351AR,Almere
+De Steiger,164,"","",1351AR,Almere
+De Steiger,165,"","",1351AR,Almere
+De Steiger,170,"","",1351AS,Almere
+De Steiger,170,A,"",1351AS,Almere
+De Steiger,170,B,"",1351AS,Almere
+De Steiger,172,"","",1351AS,Almere
+De Steiger,174,"","",1351AS,Almere
+De Steiger,175,"","",1351AS,Almere
+De Steiger,176,"","",1351AS,Almere
+De Steiger,176,A,"",1351AS,Almere
+De Steiger,177,"","",1351AS,Almere
+De Steiger,177,A,"",1351AS,Almere
+De Steiger,178,"","",1351AS,Almere
+De Steiger,178,"","",1351AS,Almere
+De Steiger,178,"","",1351AS,Almere
+De Steiger,178,A,"",1351AS,Almere
+De Steiger,179,"","",1351AS,Almere
+De Steiger,179,A,"",1351AS,Almere
+De Steiger,180,"","",1351AT,Almere
+De Steiger,180,A,"",1351AT,Almere
+De Steiger,181,"","",1351AT,Almere
+De Steiger,181,A,"",1351AT,Almere
+De Steiger,182,"","",1351AT,Almere
+De Steiger,183,A,"",1351AT,Almere
+De Steiger,183,B,"",1351AT,Almere
+De Steiger,183,C,"",1351AT,Almere
+De Steiger,183,D,"",1351AT,Almere
+De Steiger,183,E,"",1351AT,Almere
+De Steiger,184,"","",1351AT,Almere
+De Steiger,185,"","",1351AT,Almere
+De Steiger,185,"","",1351AT,Almere
+De Steiger,185,A,"",1351AT,Almere
+De Steiger,185,B,"",1351AT,Almere
+De Steiger,185,C,"",1351AT,Almere
+De Steiger,185,D,"",1351AT,Almere
+De Steiger,185,E,"",1351AT,Almere
+De Steiger,185,F,"",1351AT,Almere
+De Steiger,185,G,"",1351AT,Almere
+De Steiger,185,H,"",1351AT,Almere
+De Steiger,185,J,"",1351AT,Almere
+De Steiger,185,K,"",1351AT,Almere
+De Steiger,186,"","",1351AT,Almere
+De Steiger,187,"","",1351AT,Almere
+De Steiger,187,"","",1351AT,Almere
+De Steiger,187,"","",1351AT,Almere
+De Steiger,187,A,"",1351AT,Almere
+De Steiger,187,B,"",1351AT,Almere
+De Steiger,187,C,"",1351AT,Almere
+De Steiger,187,D,"",1351AT,Almere
+De Steiger,187,E,"",1351AT,Almere
+De Steiger,188,"","",1351AT,Almere
+De Steiger,190,"","",1351AV,Almere
+De Steiger,193,"","",1351AV,Almere
+De Steiger,194,A,"",1351AV,Almere
+De Steiger,194,B,"",1351AV,Almere
+De Steiger,194,C,"",1351AV,Almere
+De Steiger,194,D,"",1351AV,Almere
+De Steiger,194,E,"",1351AV,Almere
+De Steiger,194,F,"",1351AV,Almere
+De Steiger,194,G,"",1351AV,Almere
+De Steiger,194,H,"",1351AV,Almere
+De Steiger,195,A,"",1351AV,Almere
+De Steiger,195,B,"",1351AV,Almere
+De Steiger,195,C,"",1351AV,Almere
+De Steiger,195,D,"",1351AV,Almere
+De Steiger,195,E,"",1351AV,Almere
+De Steiger,195,F,"",1351AV,Almere
+De Steiger,195,G,"",1351AV,Almere
+De Steiger,195,H,"",1351AV,Almere
+De Steiger,196,"","",1351AV,Almere
+De Steiger,196,"","",1351AV,Almere
+De Steiger,196,A,"",1351AV,Almere
+De Steiger,196,B,"",1351AV,Almere
+De Steiger,196,C,"",1351AV,Almere
+De Steiger,196,D,"",1351AV,Almere
+De Steiger,196,E,"",1351AV,Almere
+De Steiger,196,F,"",1351AV,Almere
+De Steiger,196,G,"",1351AV,Almere
+De Steiger,196,H,"",1351AV,Almere
+De Steiger,198,"","",1351AV,Almere
+De Steiger,200,"","",1351AW,Almere
+De Steiger,203,"","",1351AW,Almere
+De Steiger,206,"","",1351AW,Almere
+De Steiger,209,"","",1351AW,Almere
+De Steiger,212,"","",1351AW,Almere
+De Steiger,215,"","",1351AW,Almere
+De Steiger,218,"","",1351AW,Almere
+De Steiger,218,"","",1351AW,Almere
+De Steiger,221,"","",1351AX,Almere
+De Steiger,222,"","",1351AX,Almere
+De Steiger,223,"","",1351AX,Almere

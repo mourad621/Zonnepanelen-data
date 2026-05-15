@@ -1,572 +1,291 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8107AA",7,"a",""
-"8107AA",13,"",""
-"8107AA",21,"",""
-"8107AA",7,"",""
-"8107AA",11,"",""
-"8107AA",15,"",""
-"8107AA",19,"",""
-"8107AA",21,"a",""
-"8107AA",17,"",""
-"8107AB",14,"",""
-"8107AB",8,"",""
-"8107AB",6,"b",""
-"8107AB",20,"a",""
-"8107AB",4,"",""
-"8107AB",6,"a",""
-"8107AB",10,"a",""
-"8107AB",20,"",""
-"8107AB",18,"",""
-"8107AB",22,"",""
-"8107AB",10,"",""
-"8107AB",2,"",""
-"8107AB",10,"b",""
-"8107AB",6,"",""
-"8107AB",12,"",""
-"8107AC",3,"A",""
-"8107AC",4,"",""
-"8107AC",5,"a",""
-"8107AC",6,"",""
-"8107AC",7,"",""
-"8107AC",5,"",""
-"8107AC",7,"a",""
-"8107AC",4,"a",""
-"8107AC",3,"",""
-"8107AC",2,"",""
-"8107AC",3,"a",""
-"8107AE",39,"",""
-"8107AE",41,"",""
-"8107AE",31,"",""
-"8107AE",27,"",""
-"8107AE",37,"",""
-"8107AE",29,"a",""
-"8107AE",25,"",""
-"8107AE",39,"b",""
-"8107AE",39,"a",""
-"8107AE",29,"a",""
-"8107AE",21,"a",""
-"8107AE",35,"",""
-"8107AE",43,"",""
-"8107AE",23,"",""
-"8107AE",29,"",""
-"8107AE",21,"a",""
-"8107AE",29,"a",""
-"8107AE",33,"",""
-"8107AE",21,"",""
-"8107AG",34,"",""
-"8107AG",30,"",""
-"8107AG",6,"a",""
-"8107AG",18,"",""
-"8107AG",38,"",""
-"8107AG",46,"",""
-"8107AG",32,"",""
-"8107AG",42,"",""
-"8107AG",1,"a",""
-"8107AG",1,"",""
-"8107AG",6,"",""
-"8107AG",10,"",""
-"8107AG",26,"",""
-"8107AG",36,"",""
-"8107AG",24,"",""
-"8107AG",8,"",""
-"8107AG",22,"",""
-"8107AG",2,"",""
-"8107AG",20,"",""
-"8107AK",33,"",""
-"8107AK",3,"",""
-"8107AK",1,"",""
-"8107AK",13,"",""
-"8107AK",37,"",""
-"8107AK",5,"",""
-"8107AK",15,"",""
-"8107AK",35,"",""
-"8107AK",9,"",""
-"8107AK",7,"",""
-"8107AK",11,"",""
-"8107AL",6,"",""
-"8107AL",30,"",""
-"8107AL",10,"",""
-"8107AL",2,"",""
-"8107AL",18,"",""
-"8107AL",34,"",""
-"8107AL",24,"",""
-"8107AL",12,"",""
-"8107AL",34,"",""
-"8107AL",32,"",""
-"8107AL",32,"a",""
-"8107AL",22,"a",""
-"8107AL",14,"",""
-"8107AL",20,"",""
-"8107AL",4,"",""
-"8107AL",32,"a",""
-"8107AL",34,"",""
-"8107AL",22,"",""
-"8107AL",16,"",""
-"8107AL",32,"",""
-"8107AL",30,"a",""
-"8107AL",8,"",""
-"8107AM",33,"",""
-"8107AM",31,"a",""
-"8107AM",1,"",""
-"8107AM",31,"",""
-"8107AM",11,"",""
-"8107AM",35,"",""
-"8107AM",7,"",""
-"8107AM",13,"",""
-"8107AM",9,"",""
-"8107AN",30,"",""
-"8107AN",26,"",""
-"8107AN",30,"b",""
-"8107AN",22,"",""
-"8107AN",28,"",""
-"8107AN",24,"",""
-"8107AN",2,"",""
-"8107AN",18,"",""
-"8107AN",16,"",""
-"8107AN",30,"a",""
-"8107AN",4,"",""
-"8107AN",34,"",""
-"8107AN",10,"",""
-"8107AN",22,"a",""
-"8107AN",14,"",""
-"8107AN",8,"a",""
-"8107AN",36,"",""
-"8107AN",8,"",""
-"8107AN",20,"",""
-"8107AN",2,"a",""
-"8107AN",32,"",""
-"8107AN",12,"",""
-"8107AN",32,"b",""
-"8107AN",6,"",""
-"8107AP",7,"",""
-"8107AP",6,"",""
-"8107AP",8,"",""
-"8107AP",2,"",""
-"8107AP",14,"",""
-"8107AP",10,"",""
-"8107AP",12,"",""
-"8107AR",56,"a",""
-"8107AR",52,"",""
-"8107AR",54,"",""
-"8107AR",46,"a",""
-"8107AR",56,"",""
-"8107AR",54,"b",""
-"8107AR",40,"",""
-"8107AR",48,"",""
-"8107AR",56,"",""
-"8107AR",56,"",""
-"8107AR",46,"a",""
-"8107AR",48,"a",""
-"8107AR",46,"",""
-"8107AR",44,"",""
-"8107AR",54,"a",""
-"8107AS",17,"",""
-"8107AS",9,"",""
-"8107AS",19,"",""
-"8107AS",15,"",""
-"8107AS",7,"",""
-"8107AS",19,"a",""
-"8107AS",13,"",""
-"8107AS",1,"",""
-"8107AT",2,"",""
-"8107AT",4,"",""
-"8107AT",6,"",""
-"8107AT",20,"",""
-"8107AV",11,"a",""
-"8107AV",19,"",""
-"8107AV",21,"",""
-"8107AV",15,"",""
-"8107AV",11,"",""
-"8107AV",5,"",""
-"8107AV",13,"",""
-"8107AV",7,"",""
-"8107AV",9,"",""
-"8107AV",17,"",""
-"8107AV",3,"a",""
-"8107AV",3,"a",""
-"8107AV",1,"",""
-"8107AV",7,"a",""
-"8107AV",19,"",""
-"8107AV",3,"",""
-"8107AW",18,"",""
-"8107AW",24,"",""
-"8107AW",20,"a",""
-"8107AW",22,"",""
-"8107AW",18,"",""
-"8107AW",20,"",""
-"8107AW",26,"",""
-"8107AX",4,"",""
-"8107AX",2,"",""
-"8107AX",8,"",""
-"8107AZ",9,"",""
-"8107AZ",7,"",""
-"8107AZ",5,"",""
-"8107PA",11,"",""
-"8107PA",11,"a",""
-"8107PA",25,"",""
-"8107PA",13,"a",""
-"8107PA",29,"",""
-"8107PA",13,"",""
-"8107PA",21,"",""
-"8107PA",11,"",""
-"8107PA",17,"",""
-"8107PA",11,"",""
-"8107PA",19,"",""
-"8107PA",15,"",""
-"8107PB",22,"a",""
-"8107PB",20,"",""
-"8107PB",16,"",""
-"8107PB",20,"a",""
-"8107PB",28,"",""
-"8107PB",22,"",""
-"8107PB",24,"",""
-"8107PB",14,"",""
-"8107PB",12,"",""
-"8107PC",32,"",""
-"8107PC",64,"",""
-"8107PC",30,"",""
-"8107PC",58,"a",""
-"8107PC",44,"",""
-"8107PC",58,"",""
-"8107PC",52,"",""
-"8107PC",30,"a",""
-"8107PC",56,"",""
-"8107PC",38,"",""
-"8107PC",32,"",""
-"8107PC",32,"",""
-"8107PC",60,"",""
-"8107PC",50,"",""
-"8107PC",46,"",""
-"8107PC",42,"",""
-"8107PC",64,"",""
-"8107PC",50,"a",""
-"8107PC",64,"",""
-"8107PC",36,"",""
-"8107PC",38,"a",""
-"8107PG",12,"",""
-"8107PG",1,"",""
-"8107PG",14,"",""
-"8107PG",4,"",""
-"8107PG",8,"",""
-"8107PG",16,"a",""
-"8107PG",16,"",""
-"8107PG",4,"a",""
-"8107PG",6,"",""
-"8107PH",1,"a",""
-"8107PH",3,"",""
-"8107PH",2,"",""
-"8107PH",1,"",""
-"8107PH",4,"",""
-"8107PH",2,"",""
-"8107PH",1,"a",""
-"8107PH",2,"",""
-"8107PH",1,"",""
-"8107PJ",23,"",""
-"8107PJ",39,"",""
-"8107PJ",31,"",""
-"8107PJ",53,"",""
-"8107PJ",27,"a",""
-"8107PJ",61,"e",""
-"8107PJ",33,"",""
-"8107PJ",59,"",""
-"8107PJ",53,"a",""
-"8107PJ",41,"a",""
-"8107PJ",27,"",""
-"8107PJ",65,"",""
-"8107PJ",21,"",""
-"8107PJ",61,"c",""
-"8107PJ",61,"b",""
-"8107PJ",49,"",""
-"8107PJ",61,"d",""
-"8107PJ",29,"",""
-"8107PJ",61,"",""
-"8107PJ",25,"a",""
-"8107PJ",43,"",""
-"8107PJ",47,"",""
-"8107PJ",41,"a",""
-"8107PJ",63,"",""
-"8107PJ",37,"",""
-"8107PJ",61,"a",""
-"8107PJ",41,"",""
-"8107PJ",25,"",""
-8107AV,Pleegsterdijk,15,,
-8107AW,Pleegsterdijk,22,,
-8107PG,Heetkampsweg,8,,
-8107PG,Heetkampsweg,12,,
-8107PG,Heetkampsweg,14,,
-8107PG,Heetkampsweg,16,,
-8107AG,de Wesenberg,1,,
-8107AG,de Wesenberg,1,a,
-8107PA,Broeklanderdijk,19,,
-8107PA,Broeklanderdijk,21,,
-8107PA,Broeklanderdijk,25,,
-8107PB,Broeklanderdijk,24,,
-8107PB,Broeklanderdijk,28,,
-8107PC,Broeklanderdijk,50,,
-8107PC,Broeklanderdijk,52,,
-8107PC,Broeklanderdijk,30,,
-8107AP,Laarhoeksweg,10,,
-8107AP,Laarhoeksweg,12,,
-8107AP,Laarhoeksweg,14,,
-8107AK,Langerhorstweg,15,,
-8107AK,Langerhorstweg,33,,
-8107AK,Langerhorstweg,1,,
-8107AL,Langerhorstweg,14,,
-8107AL,Langerhorstweg,34,,
-8107AL,Langerhorstweg,32,a,
-8107AL,Langerhorstweg,18,,
-8107AL,Langerhorstweg,20,,
-8107AL,Langerhorstweg,22,,
-8107AT,Neppelenbroekerdijk,2,,
-8107AT,Neppelenbroekerdijk,4,,
-8107AT,Neppelenbroekerdijk,6,,
-8107AM,Neulemansweg,35,,
-8107AM,Neulemansweg,1,,
-8107AN,Neulemansweg,14,,
-8107AN,Neulemansweg,16,,
-8107AN,Neulemansweg,18,,
-8107AN,Neulemansweg,20,,
-8107AN,Neulemansweg,4,,
-8107AR,Nieuwe Deventerweg,54,,
-8107AR,Nieuwe Deventerweg,56,,
-8107AA,Horstweg,21,a,
-8107AC,Reuveldsweg,5,,
-8107AC,Reuveldsweg,6,,
-8107AC,Reuveldsweg,7,,
-8107AE,van Dongenstraat,27,,
-8107AE,van Dongenstraat,43,,
-8107AE,van Dongenstraat,29,,
-8107AE,van Dongenstraat,33,,
-8107AG,van Dongenstraat,24,,
-8107AG,van Dongenstraat,46,,
-8107AG,van Dongenstraat,26,,
-8107AG,van Dongenstraat,30,,
-8107AG,van Dongenstraat,2,,
-8107PJ,Wijheseweg,47,,
-8107PJ,Wijheseweg,25,,
-8107PJ,Wijheseweg,25,a,
-8107PJ,Wijheseweg,53,,
-8107PJ,Wijheseweg,27,a,
-8107PJ,Wijheseweg,59,,
-8107AV,Pleegsterdijk,1,,
-8107AV,Pleegsterdijk,19,,
-8107AV,Pleegsterdijk,5,,
-8107AV,Pleegsterdijk,21,,
-8107AV,Pleegsterdijk,3,a,
-8107AV,Pleegsterdijk,7,a,
-8107AV,Pleegsterdijk,9,,
-8107AW,Pleegsterdijk,20,a,
-8107AW,Pleegsterdijk,18,,
-8107AW,Pleegsterdijk,18,,
-8107AX,Ramelerdijk,2,,
-8107AX,Ramelerdijk,4,,
-8107AX,Ramelerdijk,8,,
-8107AZ,Ramelerdijk,9,,
-8107AZ,Ramelerdijk,5,,
-8107PG,Heetkampsweg,4,,
-8107PG,Heetkampsweg,16,a,
-8107PG,Heetkampsweg,4,a,
-8107PG,Heetkampsweg,1,,
-8107PA,Broeklanderdijk,29,,
-8107PA,Broeklanderdijk,11,,
-8107PA,Broeklanderdijk,11,a,
-8107PB,Broeklanderdijk,12,,
-8107PB,Broeklanderdijk,14,,
-8107PB,Broeklanderdijk,20,a,
-8107PB,Broeklanderdijk,20,,
-8107PB,Broeklanderdijk,22,,
-8107PB,Broeklanderdijk,22,a,
-8107PC,Broeklanderdijk,36,,
-8107PC,Broeklanderdijk,60,,
-8107PC,Broeklanderdijk,38,,
-8107PC,Broeklanderdijk,64,,
-8107PC,Broeklanderdijk,32,,
-8107PC,Broeklanderdijk,42,,
-8107PC,Broeklanderdijk,46,,
-8107PC,Broeklanderdijk,30,a,
-8107PC,Broeklanderdijk,38,a,
-8107AP,Laarhoeksweg,7,,
-8107AP,Laarhoeksweg,8,,
-8107AK,Langerhorstweg,37,,
-8107AK,Langerhorstweg,3,,
-8107AK,Langerhorstweg,7,,
-8107AK,Langerhorstweg,5,,
-8107AK,Langerhorstweg,9,,
-8107AK,Langerhorstweg,11,,
-8107AL,Langerhorstweg,2,,
-8107AL,Langerhorstweg,22,a,
-8107AL,Langerhorstweg,24,,
-8107AL,Langerhorstweg,10,,
-8107AL,Langerhorstweg,16,,
-8107AL,Langerhorstweg,12,,
-8107AL,Langerhorstweg,32,,
-8107AL,Langerhorstweg,32,,
-8107AL,Langerhorstweg,30,a,
-8107AL,Langerhorstweg,6,,
-8107AS,Neppelenbroekerdijk,1,,
-8107AS,Neppelenbroekerdijk,9,,
-8107AS,Neppelenbroekerdijk,13,,
-8107AS,Neppelenbroekerdijk,19,a,
-8107AS,Neppelenbroekerdijk,15,,
-8107AS,Neppelenbroekerdijk,17,,
-8107AT,Neppelenbroekerdijk,20,,
-8107AM,Neulemansweg,7,,
-8107AM,Neulemansweg,9,,
-8107AM,Neulemansweg,31,,
-8107AM,Neulemansweg,13,,
-8107AN,Neulemansweg,22,a,
-8107AN,Neulemansweg,8,,
-8107AN,Neulemansweg,24,,
-8107AN,Neulemansweg,6,,
-8107AN,Neulemansweg,22,,
-8107AN,Neulemansweg,36,,
-8107AN,Neulemansweg,30,a,
-8107AN,Neulemansweg,30,b,
-8107AN,Neulemansweg,34,,
-8107AN,Neulemansweg,30,,
-8107AN,Neulemansweg,12,,
-8107AN,Neulemansweg,26,,
-8107AR,Nieuwe Deventerweg,40,,
-8107AR,Nieuwe Deventerweg,44,,
-8107AR,Nieuwe Deventerweg,54,a,
-8107AR,Nieuwe Deventerweg,46,,
-8107AR,Nieuwe Deventerweg,48,,
-8107AA,Horstweg,7,,
-8107AA,Horstweg,13,,
-8107AA,Horstweg,21,,
-8107AA,Horstweg,17,,
-8107AA,Horstweg,19,,
-8107AB,Horstweg,6,a,
-8107AB,Horstweg,22,,
-8107AB,Horstweg,6,b,
-8107AB,Horstweg,6,,
-8107AB,Horstweg,8,,
-8107AB,Horstweg,10,,
-8107PH,Ramelerveldweg,2,,
-8107PH,Ramelerveldweg,3,,
-8107PH,Ramelerveldweg,4,,
-8107AC,Reuveldsweg,4,,
-8107AC,Reuveldsweg,7,a,
-8107AC,Reuveldsweg,2,,
-8107AE,van Dongenstraat,35,,
-8107AE,van Dongenstraat,37,,
-8107AE,van Dongenstraat,39,,
-8107AE,van Dongenstraat,21,,
-8107AE,van Dongenstraat,23,,
-8107AE,van Dongenstraat,25,,
-8107AE,van Dongenstraat,39,b,
-8107AE,van Dongenstraat,29,a,
-8107AG,van Dongenstraat,6,,
-8107AG,van Dongenstraat,32,,
-8107AG,van Dongenstraat,34,,
-8107AG,van Dongenstraat,36,,
-8107AG,van Dongenstraat,22,,
-8107AG,van Dongenstraat,20,,
-8107AG,van Dongenstraat,42,,
-8107AG,van Dongenstraat,10,,
-8107PJ,Wijheseweg,61,,
-8107PJ,Wijheseweg,29,,
-8107PJ,Wijheseweg,31,,
-8107PJ,Wijheseweg,33,,
-8107PJ,Wijheseweg,27,,
-8107PJ,Wijheseweg,37,,
-8107PJ,Wijheseweg,49,,
-8107PJ,Wijheseweg,23,,
-8107PJ,Wijheseweg,21,,
-8107PJ,Wijheseweg,41,,
-8107AV,Pleegsterdijk,13,,
-8107AV,Pleegsterdijk,17,,
-8107AV,Pleegsterdijk,11,a,
-8107AV,Pleegsterdijk,11,,
-8107AV,Pleegsterdijk,7,,
-8107AV,Pleegsterdijk,3,,
-8107AV,Pleegsterdijk,19,,
-8107AW,Pleegsterdijk,24,,
-8107AW,Pleegsterdijk,20,,
-8107AW,Pleegsterdijk,26,,
-8107AZ,Ramelerdijk,7,,
-8107PG,Heetkampsweg,6,,
-8107PA,Broeklanderdijk,15,,
-8107PA,Broeklanderdijk,13,,
-8107PA,Broeklanderdijk,17,,
-8107PA,Broeklanderdijk,13,a,
-8107PA,Broeklanderdijk,11,,
-8107PB,Broeklanderdijk,16,,
-8107PB,Broeklanderdijk,16,M,
-8107PC,Broeklanderdijk,64,,
-8107PC,Broeklanderdijk,58,,
-8107PC,Broeklanderdijk,44,,
-8107PC,Broeklanderdijk,56,,
-8107PC,Broeklanderdijk,50,a,
-8107PC,Broeklanderdijk,58,a,
-8107PC,Broeklanderdijk,32,,
-8107PC,Broeklanderdijk,38,,
-8107AP,Laarhoeksweg,6,,
-8107AP,Laarhoeksweg,2,,
-8107AK,Langerhorstweg,13,,
-8107AK,Langerhorstweg,35,,
-8107AL,Langerhorstweg,8,,
-8107AL,Langerhorstweg,4,,
-8107AL,Langerhorstweg,30,,
-8107AL,Langerhorstweg,34,,
-8107AS,Neppelenbroekerdijk,19,,
-8107AS,Neppelenbroekerdijk,7,,
-8107AM,Neulemansweg,11,,
-8107AM,Neulemansweg,33,,
-8107AM,Neulemansweg,31,a,
-8107AN,Neulemansweg,8,a,
-8107AN,Neulemansweg,32,b,
-8107AN,Neulemansweg,28,,
-8107AN,Neulemansweg,2,,
-8107AN,Neulemansweg,32,,
-8107AN,Neulemansweg,10,,
-8107AN,Neulemansweg,2,a,
-8107AR,Nieuwe Deventerweg,52,,
-8107AR,Nieuwe Deventerweg,56,a,
-8107AR,Nieuwe Deventerweg,46,a,
-8107AR,Nieuwe Deventerweg,46,a,
-8107AR,Nieuwe Deventerweg,48,a,
-8107AR,Nieuwe Deventerweg,56,,
-8107AR,Nieuwe Deventerweg,54,b,
-8107AA,Horstweg,7,a,
-8107AA,Horstweg,15,,
-8107AA,Horstweg,11,,
-8107AB,Horstweg,2,,
-8107AB,Horstweg,18,,
-8107AB,Horstweg,20,,
-8107AB,Horstweg,12,,
-8107AB,Horstweg,14,,
-8107AB,Horstweg,4,,
-8107AB,Horstweg,10,a,
-8107AB,Horstweg,10,b,
-8107AB,Horstweg,20,a,
-8107PH,Ramelerveldweg,1,,
-8107PH,Ramelerveldweg,1,,
-8107PH,Ramelerveldweg,2,,
-8107PH,Ramelerveldweg,1,a,
-8107PH,Ramelerveldweg,1,a,
-8107AC,Reuveldsweg,3,,
-8107AC,Reuveldsweg,5,a,
-8107AC,Reuveldsweg,4,a,
-8107AC,Reuveldsweg,3,A,
-8107AC,Reuveldsweg,3,a,
-8107AE,van Dongenstraat,39,a,
-8107AE,van Dongenstraat,31,,
-8107AE,van Dongenstraat,41,,
-8107AE,van Dongenstraat,21,a,
-8107AE,van Dongenstraat,29,a,
-8107AG,van Dongenstraat,38,,
-8107AG,van Dongenstraat,8,,
-8107AG,van Dongenstraat,6,a,
-8107AG,van Dongenstraat,18,,
-8107PJ,Wijheseweg,39,,
-8107PJ,Wijheseweg,41,a,
-8107PJ,Wijheseweg,65,,
-8107PJ,Wijheseweg,63,,
-8107PJ,Wijheseweg,43,,
-8107PJ,Wijheseweg,53,a,
-8107PJ,Wijheseweg,61,a,
-8107PJ,Wijheseweg,61,b,
-8107PJ,Wijheseweg,61,c,
-8107PJ,Wijheseweg,61,d,
-8107PJ,Wijheseweg,61,e,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Horstweg,11,"","",8107AA,Broekland
+Horstweg,13,"","",8107AA,Broekland
+Horstweg,15,"","",8107AA,Broekland
+Horstweg,17,"","",8107AA,Broekland
+Horstweg,19,"","",8107AA,Broekland
+Horstweg,21,"","",8107AA,Broekland
+Horstweg,21,A,"",8107AA,Broekland
+Horstweg,7,"","",8107AA,Broekland
+Horstweg,7,A,"",8107AA,Broekland
+Horstweg,10,"","",8107AB,Broekland
+Horstweg,10,A,"",8107AB,Broekland
+Horstweg,10,B,"",8107AB,Broekland
+Horstweg,12,"","",8107AB,Broekland
+Horstweg,14,"","",8107AB,Broekland
+Horstweg,18,"","",8107AB,Broekland
+Horstweg,2,"","",8107AB,Broekland
+Horstweg,20,"","",8107AB,Broekland
+Horstweg,20,A,"",8107AB,Broekland
+Horstweg,22,"","",8107AB,Broekland
+Horstweg,4,"","",8107AB,Broekland
+Horstweg,6,"","",8107AB,Broekland
+Horstweg,6,A,"",8107AB,Broekland
+Horstweg,6,B,"",8107AB,Broekland
+Horstweg,8,"","",8107AB,Broekland
+Reuveldsweg,2,"","",8107AC,Broekland
+Reuveldsweg,3,"","",8107AC,Broekland
+Reuveldsweg,3,A,"",8107AC,Broekland
+Reuveldsweg,3,A,"",8107AC,Broekland
+Reuveldsweg,4,"","",8107AC,Broekland
+Reuveldsweg,4,A,"",8107AC,Broekland
+Reuveldsweg,5,"","",8107AC,Broekland
+Reuveldsweg,5,A,"",8107AC,Broekland
+Reuveldsweg,6,"","",8107AC,Broekland
+Reuveldsweg,7,"","",8107AC,Broekland
+Reuveldsweg,7,A,"",8107AC,Broekland
+van Dongenstraat,21,"","",8107AE,Broekland
+van Dongenstraat,21,A,"",8107AE,Broekland
+van Dongenstraat,21,A,"",8107AE,Broekland
+van Dongenstraat,23,"","",8107AE,Broekland
+van Dongenstraat,25,"","",8107AE,Broekland
+van Dongenstraat,27,"","",8107AE,Broekland
+van Dongenstraat,29,"","",8107AE,Broekland
+van Dongenstraat,29,A,"",8107AE,Broekland
+van Dongenstraat,29,A,"",8107AE,Broekland
+van Dongenstraat,29,A,"",8107AE,Broekland
+van Dongenstraat,31,"","",8107AE,Broekland
+van Dongenstraat,33,"","",8107AE,Broekland
+van Dongenstraat,35,"","",8107AE,Broekland
+van Dongenstraat,37,"","",8107AE,Broekland
+van Dongenstraat,39,"","",8107AE,Broekland
+van Dongenstraat,39,A,"",8107AE,Broekland
+van Dongenstraat,39,B,"",8107AE,Broekland
+van Dongenstraat,41,"","",8107AE,Broekland
+van Dongenstraat,43,"","",8107AE,Broekland
+de Wesenberg,1,"","",8107AG,Broekland
+de Wesenberg,1,A,"",8107AG,Broekland
+van Dongenstraat,10,"","",8107AG,Broekland
+van Dongenstraat,18,"","",8107AG,Broekland
+van Dongenstraat,2,"","",8107AG,Broekland
+van Dongenstraat,20,"","",8107AG,Broekland
+van Dongenstraat,22,"","",8107AG,Broekland
+van Dongenstraat,24,"","",8107AG,Broekland
+van Dongenstraat,26,"","",8107AG,Broekland
+van Dongenstraat,30,"","",8107AG,Broekland
+van Dongenstraat,32,"","",8107AG,Broekland
+van Dongenstraat,34,"","",8107AG,Broekland
+van Dongenstraat,36,"","",8107AG,Broekland
+van Dongenstraat,38,"","",8107AG,Broekland
+van Dongenstraat,42,"","",8107AG,Broekland
+van Dongenstraat,46,"","",8107AG,Broekland
+van Dongenstraat,6,"","",8107AG,Broekland
+van Dongenstraat,6,A,"",8107AG,Broekland
+van Dongenstraat,8,"","",8107AG,Broekland
+Langerhorstweg,1,"","",8107AK,Broekland
+Langerhorstweg,11,"","",8107AK,Broekland
+Langerhorstweg,13,"","",8107AK,Broekland
+Langerhorstweg,15,"","",8107AK,Broekland
+Langerhorstweg,3,"","",8107AK,Broekland
+Langerhorstweg,33,"","",8107AK,Broekland
+Langerhorstweg,35,"","",8107AK,Broekland
+Langerhorstweg,37,"","",8107AK,Broekland
+Langerhorstweg,5,"","",8107AK,Broekland
+Langerhorstweg,7,"","",8107AK,Broekland
+Langerhorstweg,9,"","",8107AK,Broekland
+Langerhorstweg,10,"","",8107AL,Broekland
+Langerhorstweg,12,"","",8107AL,Broekland
+Langerhorstweg,14,"","",8107AL,Broekland
+Langerhorstweg,16,"","",8107AL,Broekland
+Langerhorstweg,18,"","",8107AL,Broekland
+Langerhorstweg,2,"","",8107AL,Broekland
+Langerhorstweg,20,"","",8107AL,Broekland
+Langerhorstweg,22,"","",8107AL,Broekland
+Langerhorstweg,22,A,"",8107AL,Broekland
+Langerhorstweg,24,"","",8107AL,Broekland
+Langerhorstweg,30,"","",8107AL,Broekland
+Langerhorstweg,30,A,"",8107AL,Broekland
+Langerhorstweg,32,"","",8107AL,Broekland
+Langerhorstweg,32,"","",8107AL,Broekland
+Langerhorstweg,32,A,"",8107AL,Broekland
+Langerhorstweg,32,A,"",8107AL,Broekland
+Langerhorstweg,34,"","",8107AL,Broekland
+Langerhorstweg,34,"","",8107AL,Broekland
+Langerhorstweg,34,"","",8107AL,Broekland
+Langerhorstweg,4,"","",8107AL,Broekland
+Langerhorstweg,6,"","",8107AL,Broekland
+Langerhorstweg,8,"","",8107AL,Broekland
+Neulemansweg,1,"","",8107AM,Broekland
+Neulemansweg,11,"","",8107AM,Broekland
+Neulemansweg,13,"","",8107AM,Broekland
+Neulemansweg,31,"","",8107AM,Broekland
+Neulemansweg,31,A,"",8107AM,Broekland
+Neulemansweg,33,"","",8107AM,Broekland
+Neulemansweg,35,"","",8107AM,Broekland
+Neulemansweg,7,"","",8107AM,Broekland
+Neulemansweg,9,"","",8107AM,Broekland
+Neulemansweg,10,"","",8107AN,Broekland
+Neulemansweg,12,"","",8107AN,Broekland
+Neulemansweg,14,"","",8107AN,Broekland
+Neulemansweg,16,"","",8107AN,Broekland
+Neulemansweg,18,"","",8107AN,Broekland
+Neulemansweg,2,"","",8107AN,Broekland
+Neulemansweg,2,A,"",8107AN,Broekland
+Neulemansweg,20,"","",8107AN,Broekland
+Neulemansweg,22,"","",8107AN,Broekland
+Neulemansweg,22,A,"",8107AN,Broekland
+Neulemansweg,24,"","",8107AN,Broekland
+Neulemansweg,26,"","",8107AN,Broekland
+Neulemansweg,28,"","",8107AN,Broekland
+Neulemansweg,30,"","",8107AN,Broekland
+Neulemansweg,30,A,"",8107AN,Broekland
+Neulemansweg,30,B,"",8107AN,Broekland
+Neulemansweg,32,"","",8107AN,Broekland
+Neulemansweg,32,B,"",8107AN,Broekland
+Neulemansweg,34,"","",8107AN,Broekland
+Neulemansweg,36,"","",8107AN,Broekland
+Neulemansweg,4,"","",8107AN,Broekland
+Neulemansweg,6,"","",8107AN,Broekland
+Neulemansweg,8,"","",8107AN,Broekland
+Neulemansweg,8,A,"",8107AN,Broekland
+Laarhoeksweg,10,"","",8107AP,Broekland
+Laarhoeksweg,12,"","",8107AP,Broekland
+Laarhoeksweg,14,"","",8107AP,Broekland
+Laarhoeksweg,2,"","",8107AP,Broekland
+Laarhoeksweg,6,"","",8107AP,Broekland
+Laarhoeksweg,7,"","",8107AP,Broekland
+Laarhoeksweg,8,"","",8107AP,Broekland
+Nieuwe Deventerweg,40,"","",8107AR,Broekland
+Nieuwe Deventerweg,44,"","",8107AR,Broekland
+Nieuwe Deventerweg,46,"","",8107AR,Broekland
+Nieuwe Deventerweg,46,A,"",8107AR,Broekland
+Nieuwe Deventerweg,46,A,"",8107AR,Broekland
+Nieuwe Deventerweg,48,"","",8107AR,Broekland
+Nieuwe Deventerweg,48,A,"",8107AR,Broekland
+Nieuwe Deventerweg,52,"","",8107AR,Broekland
+Nieuwe Deventerweg,54,"","",8107AR,Broekland
+Nieuwe Deventerweg,54,A,"",8107AR,Broekland
+Nieuwe Deventerweg,54,B,"",8107AR,Broekland
+Nieuwe Deventerweg,56,"","",8107AR,Broekland
+Nieuwe Deventerweg,56,"","",8107AR,Broekland
+Nieuwe Deventerweg,56,"","",8107AR,Broekland
+Nieuwe Deventerweg,56,A,"",8107AR,Broekland
+Neppelenbroekerdijk,1,"","",8107AS,Broekland
+Neppelenbroekerdijk,13,"","",8107AS,Broekland
+Neppelenbroekerdijk,15,"","",8107AS,Broekland
+Neppelenbroekerdijk,17,"","",8107AS,Broekland
+Neppelenbroekerdijk,19,"","",8107AS,Broekland
+Neppelenbroekerdijk,19,A,"",8107AS,Broekland
+Neppelenbroekerdijk,7,"","",8107AS,Broekland
+Neppelenbroekerdijk,9,"","",8107AS,Broekland
+Neppelenbroekerdijk,2,"","",8107AT,Broekland
+Neppelenbroekerdijk,20,"","",8107AT,Broekland
+Neppelenbroekerdijk,4,"","",8107AT,Broekland
+Neppelenbroekerdijk,6,"","",8107AT,Broekland
+Pleegsterdijk,1,"","",8107AV,Broekland
+Pleegsterdijk,11,"","",8107AV,Broekland
+Pleegsterdijk,11,A,"",8107AV,Broekland
+Pleegsterdijk,13,"","",8107AV,Broekland
+Pleegsterdijk,15,"","",8107AV,Broekland
+Pleegsterdijk,17,"","",8107AV,Broekland
+Pleegsterdijk,19,"","",8107AV,Broekland
+Pleegsterdijk,19,"","",8107AV,Broekland
+Pleegsterdijk,21,"","",8107AV,Broekland
+Pleegsterdijk,3,"","",8107AV,Broekland
+Pleegsterdijk,3,A,"",8107AV,Broekland
+Pleegsterdijk,3,A,"",8107AV,Broekland
+Pleegsterdijk,5,"","",8107AV,Broekland
+Pleegsterdijk,7,"","",8107AV,Broekland
+Pleegsterdijk,7,A,"",8107AV,Broekland
+Pleegsterdijk,9,"","",8107AV,Broekland
+Pleegsterdijk,18,"","",8107AW,Broekland
+Pleegsterdijk,18,"","",8107AW,Broekland
+Pleegsterdijk,20,"","",8107AW,Broekland
+Pleegsterdijk,20,A,"",8107AW,Broekland
+Pleegsterdijk,22,"","",8107AW,Broekland
+Pleegsterdijk,24,"","",8107AW,Broekland
+Pleegsterdijk,26,"","",8107AW,Broekland
+Ramelerdijk,2,"","",8107AX,Broekland
+Ramelerdijk,4,"","",8107AX,Broekland
+Ramelerdijk,8,"","",8107AX,Broekland
+Ramelerdijk,5,"","",8107AZ,Broekland
+Ramelerdijk,7,"","",8107AZ,Broekland
+Ramelerdijk,9,"","",8107AZ,Broekland
+Broeklanderdijk,11,"","",8107PA,Broekland
+Broeklanderdijk,11,"","",8107PA,Broekland
+Broeklanderdijk,11,"","",8107PA,Broekland
+Broeklanderdijk,11,A,"",8107PA,Broekland
+Broeklanderdijk,13,"","",8107PA,Broekland
+Broeklanderdijk,13,A,"",8107PA,Broekland
+Broeklanderdijk,15,"","",8107PA,Broekland
+Broeklanderdijk,17,"","",8107PA,Broekland
+Broeklanderdijk,19,"","",8107PA,Broekland
+Broeklanderdijk,21,"","",8107PA,Broekland
+Broeklanderdijk,25,"","",8107PA,Broekland
+Broeklanderdijk,29,"","",8107PA,Broekland
+Broeklanderdijk,12,"","",8107PB,Broekland
+Broeklanderdijk,14,"","",8107PB,Broekland
+Broeklanderdijk,16,"","",8107PB,Broekland
+Broeklanderdijk,20,"","",8107PB,Broekland
+Broeklanderdijk,20,A,"",8107PB,Broekland
+Broeklanderdijk,22,"","",8107PB,Broekland
+Broeklanderdijk,22,A,"",8107PB,Broekland
+Broeklanderdijk,24,"","",8107PB,Broekland
+Broeklanderdijk,28,"","",8107PB,Broekland
+Broeklanderdijk,30,"","",8107PC,Broekland
+Broeklanderdijk,30,A,"",8107PC,Broekland
+Broeklanderdijk,32,"","",8107PC,Broekland
+Broeklanderdijk,32,"","",8107PC,Broekland
+Broeklanderdijk,32,"","",8107PC,Broekland
+Broeklanderdijk,36,"","",8107PC,Broekland
+Broeklanderdijk,38,"","",8107PC,Broekland
+Broeklanderdijk,38,A,"",8107PC,Broekland
+Broeklanderdijk,42,"","",8107PC,Broekland
+Broeklanderdijk,44,"","",8107PC,Broekland
+Broeklanderdijk,46,"","",8107PC,Broekland
+Broeklanderdijk,50,"","",8107PC,Broekland
+Broeklanderdijk,50,A,"",8107PC,Broekland
+Broeklanderdijk,52,"","",8107PC,Broekland
+Broeklanderdijk,56,"","",8107PC,Broekland
+Broeklanderdijk,58,"","",8107PC,Broekland
+Broeklanderdijk,58,A,"",8107PC,Broekland
+Broeklanderdijk,60,"","",8107PC,Broekland
+Broeklanderdijk,64,"","",8107PC,Broekland
+Broeklanderdijk,64,"","",8107PC,Broekland
+Broeklanderdijk,64,"","",8107PC,Broekland
+Heetkampsweg,1,"","",8107PG,Broekland
+Heetkampsweg,12,"","",8107PG,Broekland
+Heetkampsweg,14,"","",8107PG,Broekland
+Heetkampsweg,16,"","",8107PG,Broekland
+Heetkampsweg,16,A,"",8107PG,Broekland
+Heetkampsweg,4,"","",8107PG,Broekland
+Heetkampsweg,4,A,"",8107PG,Broekland
+Heetkampsweg,6,"","",8107PG,Broekland
+Heetkampsweg,8,"","",8107PG,Broekland
+Ramelerveldweg,1,"","",8107PH,Broekland
+Ramelerveldweg,1,"","",8107PH,Broekland
+Ramelerveldweg,1,A,"",8107PH,Broekland
+Ramelerveldweg,1,A,"",8107PH,Broekland
+Ramelerveldweg,2,"","",8107PH,Broekland
+Ramelerveldweg,2,"","",8107PH,Broekland
+Ramelerveldweg,2,"","",8107PH,Broekland
+Ramelerveldweg,3,"","",8107PH,Broekland
+Ramelerveldweg,4,"","",8107PH,Broekland
+Wijheseweg,21,"","",8107PJ,Broekland
+Wijheseweg,23,"","",8107PJ,Broekland
+Wijheseweg,25,"","",8107PJ,Broekland
+Wijheseweg,25,A,"",8107PJ,Broekland
+Wijheseweg,27,"","",8107PJ,Broekland
+Wijheseweg,27,A,"",8107PJ,Broekland
+Wijheseweg,29,"","",8107PJ,Broekland
+Wijheseweg,31,"","",8107PJ,Broekland
+Wijheseweg,33,"","",8107PJ,Broekland
+Wijheseweg,37,"","",8107PJ,Broekland
+Wijheseweg,39,"","",8107PJ,Broekland
+Wijheseweg,41,"","",8107PJ,Broekland
+Wijheseweg,41,A,"",8107PJ,Broekland
+Wijheseweg,41,A,"",8107PJ,Broekland
+Wijheseweg,43,"","",8107PJ,Broekland
+Wijheseweg,47,"","",8107PJ,Broekland
+Wijheseweg,49,"","",8107PJ,Broekland
+Wijheseweg,53,"","",8107PJ,Broekland
+Wijheseweg,53,A,"",8107PJ,Broekland
+Wijheseweg,59,"","",8107PJ,Broekland
+Wijheseweg,61,"","",8107PJ,Broekland
+Wijheseweg,61,A,"",8107PJ,Broekland
+Wijheseweg,61,B,"",8107PJ,Broekland
+Wijheseweg,61,C,"",8107PJ,Broekland
+Wijheseweg,61,D,"",8107PJ,Broekland
+Wijheseweg,61,E,"",8107PJ,Broekland
+Wijheseweg,63,"","",8107PJ,Broekland
+Wijheseweg,65,"","",8107PJ,Broekland

@@ -1,111 +1,112 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9727BE",131,"",""
-"9727BE",123,"",""
-"9727BE",131,"","aa"
-"9727BE",139,"a",""
-"9727BE",139,"",""
-"9727KA",7,"a",""
-"9727KA",7,"",""
-"9727KA",9,"",""
-"9727KB",17,"","3"
-"9727KB",9,"d",""
-"9727KB",17,"","2"
-"9727KB",9,"f",""
-"9727KB",17,"","1"
-"9727KB",17,"","1"
-"9727KB",9,"b",""
-"9727KB",2,"","aa"
-"9727KB",9,"p",""
-"9727KB",17,"","3"
-"9727KB",39,"",""
-"9727KB",17,"",""
-"9727KB",31,"",""
-"9727KB",13,"",""
-"9727KB",27,"",""
-"9727KB",1,"",""
-"9727KB",17,"","5"
-"9727KB",9,"k",""
-"9727KB",35,"",""
-"9727KB",29,"","aa"
-"9727KB",9,"c",""
-"9727KB",17,"","2"
-"9727KB",2,"",""
-"9727KB",9,"h",""
-"9727KB",17,"","5"
-"9727KB",29,"",""
-"9727KB",9,"",""
-"9727KB",9,"",""
-"9727KB",23,"",""
-"9727KB",9,"g",""
-"9727KB",9,"",""
-"9727KB",3,"",""
-"9727KB",15,"",""
-"9727KB",7,"",""
-"9727KB",19,"",""
-"9727KB",21,"",""
-"9727KB",9,"n",""
-"9727KB",5,"a",""
-"9727KB",37,"",""
-"9727KB",5,"",""
-"9727KB",11,"b",""
-"9727KB",9,"e",""
-"9727KB",9,"m",""
-"9727KC",1,"",""
-"9727KC",9,"",""
-"9727KC",17,"",""
-"9727KC",7,"",""
-"9727KC",5,"",""
-"9727KC",7,"",""
-"9727KC",3,"",""
-9727KA,Expositielaan,7,,
-9727KB,Leonard Springerlaan,3,,
-9727KC,Concourslaan,5,,
-9727KB,Leonard Springerlaan,7,,
-9727KB,Leonard Springerlaan,15,,
-9727KB,Leonard Springerlaan,9,,
-9727KB,Leonard Springerlaan,1,,
-9727KB,Leonard Springerlaan,5,,
-9727KB,Leonard Springerlaan,13,,
-9727KB,Leonard Springerlaan,2,,
-9727KB,Leonard Springerlaan,17,,1
-9727BE,Paterswoldseweg,139,,
-9727BE,Paterswoldseweg,139,a,
-9727BE,Paterswoldseweg,123,,
-9727KC,Concourslaan,17,,
-9727KC,Concourslaan,1,,
-9727KC,Concourslaan,9,,
-9727KC,Concourslaan,3,,
-9727KC,Concourslaan,7,,
-9727KA,Expositielaan,9,,
-9727KB,Leonard Springerlaan,21,,
-9727KB,Leonard Springerlaan,11,b,
-9727KB,Leonard Springerlaan,5,a,
-9727KB,Leonard Springerlaan,17,,
-9727KB,Leonard Springerlaan,19,,
-9727KB,Leonard Springerlaan,17,,3
-9727KB,Leonard Springerlaan,37,,
-9727KB,Leonard Springerlaan,17,,2
-9727KB,Leonard Springerlaan,17,,5
-9727KB,Leonard Springerlaan,27,,
-9727KB,Leonard Springerlaan,39,,
-9727KB,Leonard Springerlaan,35,,
-9727BE,Paterswoldseweg,131,,
-9727KB,Leonard Springerlaan,29,,
-9727KB,Leonard Springerlaan,31,,
-9727KB,Leonard Springerlaan,2,,aa
-9727KB,Leonard Springerlaan,29,,aa
-9727BE,Paterswoldseweg,131,,aa
-9727KA,Expositielaan,7,a,
-9727KB,Leonard Springerlaan,23,,
-9727KB,Leonard Springerlaan,9,,
-9727KB,Leonard Springerlaan,9,b,
-9727KB,Leonard Springerlaan,9,c,
-9727KB,Leonard Springerlaan,9,d,
-9727KB,Leonard Springerlaan,9,e,
-9727KB,Leonard Springerlaan,9,f,
-9727KB,Leonard Springerlaan,9,g,
-9727KB,Leonard Springerlaan,9,h,
-9727KB,Leonard Springerlaan,9,k,
-9727KB,Leonard Springerlaan,9,m,
-9727KB,Leonard Springerlaan,9,n,
-9727KB,Leonard Springerlaan,9,p,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+131,"","","",9727BE,
+123,"","","",9727BE,
+139,"","","",9727BE,
+131,"",AA,"",9727BE,
+Paterswoldseweg,123,"","",9727BE,Groningen
+Paterswoldseweg,131,"","",9727BE,Groningen
+Paterswoldseweg,131,"",AA,9727BE,Groningen
+Paterswoldseweg,139,"","",9727BE,Groningen
+Paterswoldseweg,139,A,"",9727BE,Groningen
+139,A,"","",9727BE,
+7,"","","",9727KA,
+9,"","","",9727KA,
+Expositielaan,7,"","",9727KA,Groningen
+Expositielaan,7,A,"",9727KA,Groningen
+Expositielaan,9,"","",9727KA,Groningen
+7,A,"","",9727KA,
+39,"","","",9727KB,
+17,"","","",9727KB,
+31,"","","",9727KB,
+13,"","","",9727KB,
+27,"","","",9727KB,
+1,"","","",9727KB,
+35,"","","",9727KB,
+2,"","","",9727KB,
+29,"","","",9727KB,
+9,"","","",9727KB,
+9,"","","",9727KB,
+23,"","","",9727KB,
+9,"","","",9727KB,
+3,"","","",9727KB,
+15,"","","",9727KB,
+7,"","","",9727KB,
+19,"","","",9727KB,
+21,"","","",9727KB,
+37,"","","",9727KB,
+5,"","","",9727KB,
+17,"",1,"",9727KB,
+17,"",1,"",9727KB,
+17,"",2,"",9727KB,
+17,"",2,"",9727KB,
+17,"",3,"",9727KB,
+17,"",3,"",9727KB,
+17,"",5,"",9727KB,
+17,"",5,"",9727KB,
+2,"",AA,"",9727KB,
+29,"",AA,"",9727KB,
+Leonard Springerlaan,1,"","",9727KB,Groningen
+Leonard Springerlaan,11,B,"",9727KB,Groningen
+Leonard Springerlaan,13,"","",9727KB,Groningen
+Leonard Springerlaan,15,"","",9727KB,Groningen
+Leonard Springerlaan,17,"","",9727KB,Groningen
+Leonard Springerlaan,17,"",1,9727KB,Groningen
+Leonard Springerlaan,17,"",2,9727KB,Groningen
+Leonard Springerlaan,17,"",3,9727KB,Groningen
+Leonard Springerlaan,17,"",5,9727KB,Groningen
+Leonard Springerlaan,19,"","",9727KB,Groningen
+Leonard Springerlaan,2,"","",9727KB,Groningen
+Leonard Springerlaan,2,"",AA,9727KB,Groningen
+Leonard Springerlaan,21,"","",9727KB,Groningen
+Leonard Springerlaan,23,"","",9727KB,Groningen
+Leonard Springerlaan,27,"","",9727KB,Groningen
+Leonard Springerlaan,29,"","",9727KB,Groningen
+Leonard Springerlaan,29,"",AA,9727KB,Groningen
+Leonard Springerlaan,3,"","",9727KB,Groningen
+Leonard Springerlaan,31,"","",9727KB,Groningen
+Leonard Springerlaan,35,"","",9727KB,Groningen
+Leonard Springerlaan,37,"","",9727KB,Groningen
+Leonard Springerlaan,39,"","",9727KB,Groningen
+Leonard Springerlaan,5,"","",9727KB,Groningen
+Leonard Springerlaan,5,A,"",9727KB,Groningen
+Leonard Springerlaan,7,"","",9727KB,Groningen
+Leonard Springerlaan,9,"","",9727KB,Groningen
+Leonard Springerlaan,9,"","",9727KB,Groningen
+Leonard Springerlaan,9,B,"",9727KB,Groningen
+Leonard Springerlaan,9,C,"",9727KB,Groningen
+Leonard Springerlaan,9,D,"",9727KB,Groningen
+Leonard Springerlaan,9,E,"",9727KB,Groningen
+Leonard Springerlaan,9,F,"",9727KB,Groningen
+Leonard Springerlaan,9,G,"",9727KB,Groningen
+Leonard Springerlaan,9,H,"",9727KB,Groningen
+Leonard Springerlaan,9,K,"",9727KB,Groningen
+Leonard Springerlaan,9,M,"",9727KB,Groningen
+Leonard Springerlaan,9,N,"",9727KB,Groningen
+Leonard Springerlaan,9,P,"",9727KB,Groningen
+5,A,"","",9727KB,
+9,B,"","",9727KB,
+11,B,"","",9727KB,
+9,C,"","",9727KB,
+9,D,"","",9727KB,
+9,E,"","",9727KB,
+9,F,"","",9727KB,
+9,G,"","",9727KB,
+9,H,"","",9727KB,
+9,K,"","",9727KB,
+9,M,"","",9727KB,
+9,N,"","",9727KB,
+9,P,"","",9727KB,
+1,"","","",9727KC,
+9,"","","",9727KC,
+17,"","","",9727KC,
+7,"","","",9727KC,
+5,"","","",9727KC,
+7,"","","",9727KC,
+3,"","","",9727KC,
+Concourslaan,1,"","",9727KC,Groningen
+Concourslaan,17,"","",9727KC,Groningen
+Concourslaan,3,"","",9727KC,Groningen
+Concourslaan,5,"","",9727KC,Groningen
+Concourslaan,7,"","",9727KC,Groningen
+Concourslaan,9,"","",9727KC,Groningen
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

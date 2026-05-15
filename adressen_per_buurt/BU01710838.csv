@@ -1,62 +1,63 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8309AS",4,"",""
-"8309AS",2,"",""
-"8309AS",8,"",""
-"8309AS",2,"A",""
-"8309AS",6,"",""
-"8309AS",2,"B",""
-"8309AT",12,"",""
-"8309AT",4,"",""
-"8309AT",1,"",""
-"8309AT",10,"",""
-"8309AT",3,"",""
-"8309AT",6,"",""
-"8309BE",1,"",""
-"8309BE",4,"",""
-"8309BE",5,"",""
-"8309BE",2,"",""
-"8309RJ",19,"",""
-"8309RJ",21,"",""
-"8309RJ",25,"","TR"
-"8309RJ",11,"","TR"
-"8309RJ",13,"A",""
-"8309RJ",11,"",""
-"8309RJ",17,"",""
-"8309RJ",23,"",""
-"8309RJ",13,"A",""
-"8309RJ",13,"",""
-"8309RJ",13,"A",""
-"8309RJ",15,"",""
-8309AT,Artemis,4,,
-8309AT,Artemis,10,,
-8309AT,Artemis,12,,
-8309AT,Artemis,1,,
-8309AT,Artemis,3,,
-8309AT,Artemis,6,,
-8309BE,Het Revier,1,,
-8309BE,Het Revier,2,,
-8309BE,Het Revier,4,,
-8309BE,Het Revier,5,,
-8309AS,In 't Vizier,2,A,
-8309AS,in 't Vizier,2,A,
-8309AS,In 't Vizier,4,,
-8309AS,in 't Vizier,4,,
-8309AS,In 't Vizier,8,,
-8309AS,in 't Vizier,8,,
-8309AS,In 't Vizier,2,,
-8309AS,in 't Vizier,2,,
-8309AS,In 't Vizier,6,,
-8309AS,in 't Vizier,6,,
-8309RJ,Tollebekerweg,11,,
-8309RJ,Tollebekerweg,13,,
-8309RJ,Tollebekerweg,15,,
-8309RJ,Tollebekerweg,19,,
-8309RJ,Tollebekerweg,11,,TR
-8309RJ,Tollebekerweg,13,A,
-8309RJ,Tollebekerweg,17,,
-8309RJ,Tollebekerweg,25,,TR
-8309AS,In 't Vizier,2,B,
-8309AS,in 't Vizier,2,B,
-8309RJ,Tollebekerweg,13,A,
-8309RJ,Tollebekerweg,21,,
-8309RJ,Tollebekerweg,23,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+4,"","","",8309AS,
+2,"","","",8309AS,
+8,"","","",8309AS,
+6,"","","",8309AS,
+In 't Vizier,2,"","",8309AS,Tollebeek
+In 't Vizier,2,"","",8309AS,Tollebeek
+In 't Vizier,2,A,"",8309AS,Tollebeek
+In 't Vizier,2,A,"",8309AS,Tollebeek
+In 't Vizier,2,B,"",8309AS,Tollebeek
+In 't Vizier,2,B,"",8309AS,Tollebeek
+In 't Vizier,4,"","",8309AS,Tollebeek
+In 't Vizier,4,"","",8309AS,Tollebeek
+In 't Vizier,6,"","",8309AS,Tollebeek
+In 't Vizier,6,"","",8309AS,Tollebeek
+In 't Vizier,8,"","",8309AS,Tollebeek
+In 't Vizier,8,"","",8309AS,Tollebeek
+2,A,"","",8309AS,
+2,B,"","",8309AS,
+12,"","","",8309AT,
+4,"","","",8309AT,
+1,"","","",8309AT,
+10,"","","",8309AT,
+3,"","","",8309AT,
+6,"","","",8309AT,
+Artemis,1,"","",8309AT,Tollebeek
+Artemis,10,"","",8309AT,Tollebeek
+Artemis,12,"","",8309AT,Tollebeek
+Artemis,3,"","",8309AT,Tollebeek
+Artemis,4,"","",8309AT,Tollebeek
+Artemis,6,"","",8309AT,Tollebeek
+1,"","","",8309BE,
+4,"","","",8309BE,
+5,"","","",8309BE,
+2,"","","",8309BE,
+Het Revier,1,"","",8309BE,Tollebeek
+Het Revier,2,"","",8309BE,Tollebeek
+Het Revier,4,"","",8309BE,Tollebeek
+Het Revier,5,"","",8309BE,Tollebeek
+19,"","","",8309RJ,
+21,"","","",8309RJ,
+11,"","","",8309RJ,
+17,"","","",8309RJ,
+23,"","","",8309RJ,
+13,"","","",8309RJ,
+15,"","","",8309RJ,
+25,"",TR,"",8309RJ,
+11,"",TR,"",8309RJ,
+Tollebekerweg,11,"","",8309RJ,Tollebeek
+Tollebekerweg,11,"",TR,8309RJ,Tollebeek
+Tollebekerweg,13,"","",8309RJ,Tollebeek
+Tollebekerweg,13,A,"",8309RJ,Tollebeek
+Tollebekerweg,13,A,"",8309RJ,Tollebeek
+Tollebekerweg,15,"","",8309RJ,Tollebeek
+Tollebekerweg,17,"","",8309RJ,Tollebeek
+Tollebekerweg,19,"","",8309RJ,Tollebeek
+Tollebekerweg,21,"","",8309RJ,Tollebeek
+Tollebekerweg,23,"","",8309RJ,Tollebeek
+Tollebekerweg,25,"",TR,8309RJ,Tollebeek
+13,A,"","",8309RJ,
+13,A,"","",8309RJ,
+13,A,"","",8309RJ,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

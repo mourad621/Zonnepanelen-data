@@ -1,109 +1,110 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8841KE",6,"",""
-"8841KE",4,"",""
-"8841KE",2,"C",""
-"8841KE",10,"",""
-"8841KE",2,"d",""
-"8841KE",2,"",""
-"8841KE",3,"",""
-"8841KE",8,"",""
-"8841KE",1,"",""
-"8841KG",4,"",""
-"8841KG",3,"",""
-"8841KG",12,"",""
-"8841KG",7,"",""
-"8841KG",1,"",""
-"8841KG",9,"",""
-"8841KG",10,"",""
-"8841KG",6,"",""
-"8841KG",5,"",""
-"8841KG",2,"",""
-"8841KH",3,"",""
-"8841KH",5,"",""
-"8841KH",13,"",""
-"8841KH",15,"",""
-"8841KH",2,"","GAS"
-"8841KH",2,"","GAS"
-"8841KH",21,"",""
-"8841KH",11,"",""
-"8841KH",4,"",""
-"8841KH",2,"",""
-"8841KH",1,"",""
-"8841KH",7,"",""
-"8841KH",17,"",""
-"8841KH",19,"",""
-"8841KH",10,"",""
-"8841KJ",8,"",""
-"8841KJ",3,"",""
-"8841KJ",2,"",""
-"8841KJ",3,"A",""
-"8841KJ",1,"",""
-"8841KJ",5,"",""
-"8841KJ",4,"",""
-"8841KJ",11,"",""
-"8841KK",7,"",""
-"8841KK",5,"",""
-"8841KK",4,"a",""
-"8841KK",11,"",""
-"8841KK",6,"",""
-"8841KK",3,"","NUON"
-"8841KK",1,"",""
-"8841KK",2,"",""
-"8841KK",9,"",""
-"8841KK",4,"",""
-"8841KL",2,"",""
-"8841KL",4,"",""
-8841KE,Alde Bayumerdyk,1,,
-8841KE,Alde Bayumerdyk,4,,
-8841KE,Alde Bayumerdyk,8,,
-8841KE,Alde Bayumerdyk,2,d,
-8841KE,Alde Bayumerdyk,2,C,
-8841KE,Alde Bayumerdyk,3,,
-8841KE,Alde Bayumerdyk,10,,
-8841KE,Alde Bayumerdyk,6,,
-8841KE,Alde Bayumerdyk,2,,
-8841KJ,Alde Dyk,3,A,
-8841KJ,Alde Dyk,4,,
-8841KJ,Alde Dyk,11,,
-8841KJ,Alde Dyk,1,,
-8841KJ,Alde Dyk,3,,
-8841KJ,Alde Dyk,8,,
-8841KJ,Alde Dyk,5,,
-8841KJ,Alde Dyk,2,,
-8841KH,Buorren,19,,
-8841KH,Buorren,7,,
-8841KH,Buorren,5,,
-8841KH,Buorren,21,,
-8841KH,Buorren,1,,
-8841KH,Buorren,3,,
-8841KH,Buorren,11,,
-8841KH,Buorren,13,,
-8841KH,Buorren,17,,
-8841KH,Buorren,15,,
-8841KH,Buorren,2,,GAS
-8841KH,Foarstreek,4,,
-8841KH,Foarstreek,2,,
-8841KH,Foarstreek,10,,
-8841KG,Hasthemerwei,9,,
-8841KG,Hasthemerwei,2,,
-8841KG,Hasthemerwei,10,,
-8841KG,Hasthemerwei,5,,
-8841KG,Hasthemerwei,7,,
-8841KG,Hasthemerwei,6,,
-8841KG,Hasthemerwei,4,,
-8841KG,Hasthemerwei,1,,
-8841KG,Hasthemerwei,3,,
-8841KG,Hasthemerwei,12,,
-8841KK,Kleasterwei,9,,
-8841KK,Kleasterwei,1,,
-8841KK,Kleasterwei,3,,NUON
-8841KK,Kleasterwei,4,a,
-8841KK,Kleasterwei,2,,
-8841KK,Kleasterwei,6,,
-8841KK,Kleasterwei,11,,
-8841KK,Kleasterwei,5,,
-8841KK,Kleasterwei,4,,
-8841KK,Kleasterwei,7,,
-8841KL,Werpsterwei,4,,
-8841KL,Werpsterwei,2,,
-8841KE,Alde Bayumerdyk,2,E,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+6,"","","",8841KE,
+4,"","","",8841KE,
+10,"","","",8841KE,
+2,"","","",8841KE,
+3,"","","",8841KE,
+8,"","","",8841KE,
+1,"","","",8841KE,
+Alde Bayumerdyk,1,"","",8841KE,Baaium
+Alde Bayumerdyk,10,"","",8841KE,Baaium
+Alde Bayumerdyk,2,"","",8841KE,Baaium
+Alde Bayumerdyk,2,C,"",8841KE,Baaium
+Alde Bayumerdyk,2,D,"",8841KE,Baaium
+Alde Bayumerdyk,2,E,"",8841KE,Baaium
+Alde Bayumerdyk,3,"","",8841KE,Baaium
+Alde Bayumerdyk,4,"","",8841KE,Baaium
+Alde Bayumerdyk,6,"","",8841KE,Baaium
+Alde Bayumerdyk,8,"","",8841KE,Baaium
+2,C,"","",8841KE,
+2,D,"","",8841KE,
+4,"","","",8841KG,
+3,"","","",8841KG,
+12,"","","",8841KG,
+7,"","","",8841KG,
+1,"","","",8841KG,
+9,"","","",8841KG,
+10,"","","",8841KG,
+6,"","","",8841KG,
+5,"","","",8841KG,
+2,"","","",8841KG,
+Hasthemerwei,1,"","",8841KG,Baaium
+Hasthemerwei,10,"","",8841KG,Baaium
+Hasthemerwei,12,"","",8841KG,Baaium
+Hasthemerwei,2,"","",8841KG,Baaium
+Hasthemerwei,3,"","",8841KG,Baaium
+Hasthemerwei,4,"","",8841KG,Baaium
+Hasthemerwei,5,"","",8841KG,Baaium
+Hasthemerwei,6,"","",8841KG,Baaium
+Hasthemerwei,7,"","",8841KG,Baaium
+Hasthemerwei,9,"","",8841KG,Baaium
+3,"","","",8841KH,
+5,"","","",8841KH,
+13,"","","",8841KH,
+15,"","","",8841KH,
+21,"","","",8841KH,
+11,"","","",8841KH,
+4,"","","",8841KH,
+2,"","","",8841KH,
+1,"","","",8841KH,
+7,"","","",8841KH,
+17,"","","",8841KH,
+19,"","","",8841KH,
+10,"","","",8841KH,
+2,"",GAS,"",8841KH,
+2,"",GAS,"",8841KH,
+Buorren,1,"","",8841KH,Baaium
+Foarstreek,10,"","",8841KH,Baaium
+Buorren,11,"","",8841KH,Baaium
+Buorren,13,"","",8841KH,Baaium
+Buorren,15,"","",8841KH,Baaium
+Buorren,17,"","",8841KH,Baaium
+Buorren,19,"","",8841KH,Baaium
+Foarstreek,2,"","",8841KH,Baaium
+Buorren,2,"",GAS,8841KH,Baaium
+Buorren,21,"","",8841KH,Baaium
+Buorren,3,"","",8841KH,Baaium
+Foarstreek,4,"","",8841KH,Baaium
+Buorren,5,"","",8841KH,Baaium
+Buorren,7,"","",8841KH,Baaium
+8,"","","",8841KJ,
+3,"","","",8841KJ,
+2,"","","",8841KJ,
+1,"","","",8841KJ,
+5,"","","",8841KJ,
+4,"","","",8841KJ,
+11,"","","",8841KJ,
+Alde Dyk,1,"","",8841KJ,Baaium
+Alde Dyk,11,"","",8841KJ,Baaium
+Alde Dyk,2,"","",8841KJ,Baaium
+Alde Dyk,3,"","",8841KJ,Baaium
+Alde Dyk,3,A,"",8841KJ,Baaium
+Alde Dyk,4,"","",8841KJ,Baaium
+Alde Dyk,5,"","",8841KJ,Baaium
+Alde Dyk,8,"","",8841KJ,Baaium
+3,A,"","",8841KJ,
+7,"","","",8841KK,
+5,"","","",8841KK,
+11,"","","",8841KK,
+6,"","","",8841KK,
+1,"","","",8841KK,
+2,"","","",8841KK,
+9,"","","",8841KK,
+4,"","","",8841KK,
+3,"",NUON,"",8841KK,
+Kleasterwei,1,"","",8841KK,Baaium
+Kleasterwei,11,"","",8841KK,Baaium
+Kleasterwei,2,"","",8841KK,Baaium
+Kleasterwei,3,"",NUON,8841KK,Baaium
+Kleasterwei,4,"","",8841KK,Baaium
+Kleasterwei,4,A,"",8841KK,Baaium
+Kleasterwei,5,"","",8841KK,Baaium
+Kleasterwei,6,"","",8841KK,Baaium
+Kleasterwei,7,"","",8841KK,Baaium
+Kleasterwei,9,"","",8841KK,Baaium
+4,A,"","",8841KK,
+2,"","","",8841KL,
+4,"","","",8841KL,
+Werpsterwei,2,"","",8841KL,Baaium
+Werpsterwei,4,"","",8841KL,Baaium
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

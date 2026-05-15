@@ -1,603 +1,301 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8434NA",6,"",""
-"8434NA",5,"",""
-"8434NA",16,"",""
-"8434NA",15,"",""
-"8434NA",4,"",""
-"8434NA",4,"",""
-"8434NA",9,"",""
-"8434NA",13,"",""
-"8434NA",4,"",""
-"8434NA",2,"",""
-"8434NA",12,"",""
-"8434NA",14,"",""
-"8434NA",13,"A",""
-"8434NA",10,"",""
-"8434NA",1,"",""
-"8434NA",11,"B",""
-"8434NA",13,"A","TR01"
-"8434NA",11,"A",""
-"8434NA",11,"",""
-"8434NC",42,"E",""
-"8434NC",36,"",""
-"8434NC",42,"",""
-"8434NC",38,"","TR01"
-"8434NC",42,"D",""
-"8434NC",1,"F",""
-"8434NC",3,"",""
-"8434NC",1,"A",""
-"8434NC",42,"A",""
-"8434NC",42,"C",""
-"8434NC",1,"J",""
-"8434NC",1,"C",""
-"8434NC",42,"B",""
-"8434NC",44,"",""
-"8434NC",38,"",""
-"8434NC",1,"B",""
-"8434NC",1,"G",""
-"8434NC",1,"",""
-"8434NC",32,"",""
-"8434NC",30,"",""
-"8434NC",1,"",""
-"8434NC",46,"",""
-"8434NC",1,"D",""
-"8434NC",40,"",""
-"8434NC",34,"",""
-"8434NC",1,"",""
-"8434NC",1,"E",""
-"8434NC",1,"H",""
-"8434NC",1,"K",""
-"8434NE",2,"A",""
-"8434NE",5,"",""
-"8434NE",18,"",""
-"8434NE",8,"",""
-"8434NE",16,"",""
-"8434NE",1,"",""
-"8434NE",10,"",""
-"8434NE",12,"",""
-"8434NE",6,"",""
-"8434NE",8,"A",""
-"8434NE",14,"",""
-"8434NE",4,"",""
-"8434NE",2,"B",""
-"8434NE",2,"",""
-"8434NE",5,"",""
-"8434NE",5,"",""
-"8434NE",5,"",""
-"8434NE",3,"",""
-"8434NH",7,"",""
-"8434NH",2,"",""
-"8434NH",9,"",""
-"8434NH",1,"",""
-"8434NH",19,"",""
-"8434NH",6,"",""
-"8434NH",8,"",""
-"8434NH",18,"",""
-"8434NH",12,"",""
-"8434NH",14,"",""
-"8434NH",23,"",""
-"8434NH",17,"",""
-"8434NH",3,"",""
-"8434NH",5,"",""
-"8434NH",11,"",""
-"8434NH",4,"",""
-"8434NH",10,"",""
-"8434NH",13,"",""
-"8434NH",16,"",""
-"8434NH",21,"",""
-"8434NH",15,"",""
-"8434NJ",15,"",""
-"8434NJ",7,"",""
-"8434NJ",4,"","TR01"
-"8434NJ",13,"",""
-"8434NJ",8,"",""
-"8434NJ",1,"",""
-"8434NJ",14,"",""
-"8434NJ",3,"",""
-"8434NJ",4,"",""
-"8434NJ",16,"",""
-"8434NJ",9,"",""
-"8434NJ",12,"",""
-"8434NJ",10,"",""
-"8434NJ",2,"",""
-"8434NJ",11,"",""
-"8434NK",28,"",""
-"8434NK",4,"",""
-"8434NK",22,"",""
-"8434NK",32,"A",""
-"8434NK",8,"",""
-"8434NK",10,"",""
-"8434NK",16,"",""
-"8434NK",30,"",""
-"8434NK",32,"",""
-"8434NK",2,"",""
-"8434NK",32,"B",""
-"8434NK",6,"",""
-"8434NK",14,"",""
-"8434NK",18,"",""
-"8434NK",38,"",""
-"8434NK",26,"",""
-"8434NK",20,"",""
-"8434NK",24,"",""
-"8434NL",4,"",""
-"8434NL",2,"",""
-"8434NL",1,"",""
-"8434NM",7,"",""
-"8434NM",10,"",""
-"8434NM",5,"",""
-"8434NM",5,"",""
-"8434NM",8,"",""
-"8434NM",3,"A",""
-"8434NM",13,"",""
-"8434NM",6,"",""
-"8434NM",3,"",""
-"8434NM",12,"",""
-"8434NM",2,"",""
-"8434NM",11,"",""
-"8434NM",4,"",""
-"8434NM",9,"",""
-"8434NM",5,"",""
-"8434NN",8,"",""
-"8434NN",7,"",""
-"8434NN",11,"",""
-"8434NN",5,"B",""
-"8434NN",5,"A",""
-"8434NN",9,"",""
-"8434NN",5,"C",""
-"8434NN",2,"",""
-"8434NN",1,"",""
-"8434NN",3,"A",""
-"8434NN",3,"",""
-"8434NN",5,"",""
-"8434NN",6,"",""
-"8434NN",3,"C",""
-"8434NN",3,"B",""
-"8434NN",4,"",""
-"8434NP",1,"A",""
-"8434NP",14,"A",""
-"8434NP",2,"",""
-"8434NP",1,"",""
-"8434NP",8,"",""
-"8434NP",13,"",""
-"8434NP",11,"",""
-"8434NP",11,"C",""
-"8434NP",9,"",""
-"8434NP",3,"",""
-"8434NP",11,"B",""
-"8434NP",14,"B",""
-"8434NP",4,"",""
-"8434NP",6,"",""
-"8434NP",16,"",""
-"8434NP",12,"",""
-"8434NP",11,"A",""
-"8434NP",10,"",""
-"8434NP",7,"",""
-"8434NP",14,"C",""
-"8434NP",5,"",""
-"8434NP",14,"",""
-"8434NP",3,"A",""
-"8434NR",30,"",""
-"8434NR",28,"",""
-"8434NR",28,"","TR01"
-"8434NR",18,"",""
-"8434NR",26,"",""
-"8434NR",24,"",""
-"8434NR",22,"",""
-"8434NT",2,"",""
-"8434NT",4,"",""
-"8434NT",14,"",""
-"8434NT",3,"",""
-"8434NT",7,"",""
-"8434NT",10,"",""
-"8434NT",6,"","TR01"
-"8434NT",6,"",""
-"8434NT",9,"",""
-"8434NT",13,"",""
-"8434NT",16,"",""
-"8434NT",11,"",""
-"8434NT",8,"",""
-"8434NT",15,"",""
-"8434NT",12,"",""
-"8434NV",16,"",""
-"8434NV",14,"A",""
-"8434NV",4,"",""
-"8434NV",12,"",""
-"8434NV",11,"",""
-"8434NV",3,"",""
-"8434NV",14,"",""
-"8434NV",15,"",""
-"8434NV",14,"A",""
-"8434NV",6,"",""
-"8434NV",7,"",""
-"8434NV",2,"",""
-"8434NV",9,"",""
-"8434NV",35,"","TR01"
-"8434NV",14,"A",""
-"8434NV",8,"",""
-"8434NV",10,"",""
-"8434NW",25,"",""
-"8434NW",23,"",""
-"8434NW",24,"",""
-"8434NW",27,"",""
-"8434NW",28,"",""
-"8434NW",19,"",""
-"8434NW",21,"","TR01"
-"8434NW",29,"",""
-"8434NW",21,"",""
-"8434NW",19,"","TR01"
-"8434NW",22,"",""
-"8434NW",17,"",""
-"8434NW",18,"",""
-"8434NW",26,"",""
-"8434NW",20,"",""
-"8434PB",12,"",""
-"8434PB",22,"",""
-"8434PB",18,"",""
-"8434PB",26,"",""
-"8434PB",24,"",""
-"8434PB",20,"",""
-"8434PB",2,"",""
-"8434PB",16,"",""
-"8434PB",4,"",""
-"8434PB",14,"",""
-"8434PB",10,"",""
-"8434PC",5,"",""
-"8434PC",27,"",""
-"8434PC",9,"",""
-"8434PC",25,"",""
-"8434PC",11,"",""
-"8434PC",19,"",""
-"8434PC",23,"",""
-"8434PC",15,"",""
-"8434PC",17,"",""
-"8434PC",3,"",""
-"8434PC",1,"A",""
-"8434PC",7,"",""
-"8434PC",21,"",""
-"8434PC",1,"",""
-"8434PC",13,"",""
-"8434PD",28,"",""
-"8434PD",26,"",""
-"8434PD",24,"",""
-"8434PD",22,"",""
-"8434PD",18,"",""
-"8434PD",16,"",""
-"8434PD",2,"",""
-"8434PD",20,"",""
-"8434PD",10,"",""
-"8434PD",8,"",""
-"8434PD",12,"",""
-"8434PD",4,"",""
-"8434PD",14,"",""
-"8434PD",6,"",""
-"8434PJ",11,"",""
-"8434PJ",5,"",""
-"8434PJ",9,"",""
-"8434PJ",2,"A",""
-"8434PJ",7,"",""
-"8434PJ",4,"",""
-"8434PJ",25,"",""
-"8434PJ",8,"",""
-"8434PJ",2,"B",""
-"8434PJ",6,"",""
-"8434PJ",21,"",""
-"8434PJ",1,"",""
-"8434PJ",2,"B",""
-"8434PJ",23,"",""
-"8434PJ",15,"",""
-"8434PJ",2,"A",""
-"8434PJ",17,"",""
-"8434PJ",19,"",""
-"8434PJ",2,"D",""
-"8434PJ",2,"B",""
-"8434PJ",27,"",""
-"8434PJ",2,"",""
-"8434PJ",2,"",""
-"8434PJ",13,"",""
-"8434PJ",2,"D",""
-"8434PJ",2,"C",""
-"8434PJ",2,"",""
-"8434PJ",2,"C",""
-"8434PJ",2,"A",""
-8434NP,Bakkeveensterweg,1,,
-8434NP,Bakkeveensterweg,10,,
-8434NP,Bakkeveensterweg,12,,
-8434NP,Bakkeveensterweg,13,,
-8434NP,Bakkeveensterweg,14,,
-8434NP,Bakkeveensterweg,16,,
-8434NP,Bakkeveensterweg,2,,
-8434NP,Bakkeveensterweg,3,,
-8434NP,Bakkeveensterweg,4,,
-8434NP,Bakkeveensterweg,5,,
-8434NP,Bakkeveensterweg,6,,
-8434NP,Bakkeveensterweg,7,,
-8434NP,Bakkeveensterweg,8,,
-8434NP,Bakkeveensterweg,9,,
-8434NP,Bakkeveensterweg,1,A,
-8434NP,Bakkeveensterweg,14,A,
-8434NP,Bakkeveensterweg,3,A,
-8434NP,Bakkeveensterweg,14,B,
-8434NP,Bakkeveensterweg,14,C,
-8434NP,Bakkeveensterweg,11,,
-8434NP,Bakkeveensterweg,11,A,
-8434NP,Bakkeveensterweg,11,B,
-8434NP,Bakkeveensterweg,11,C,
-8434NP,Bakkeveensterweg,11,D,
-8434NP,Bakkeveensterweg,11,E,
-8434NP,Bakkeveensterweg,11,F,
-8434NP,Bakkeveensterweg,11,G,
-8434NP,Bakkeveensterweg,11,H,
-8434NP,Bakkeveensterweg,11,K,
-8434NP,Bakkeveensterweg,15,,
-8434NP,Bakkeveensterweg,17,,
-8434NP,Bakkeveensterweg,19,,
-8434NP,Bakkeveensterweg,21,,
-8434NR,Bakkeveensterweg,18,,
-8434NR,Bakkeveensterweg,22,,
-8434NR,Bakkeveensterweg,24,,
-8434NR,Bakkeveensterweg,26,,
-8434NR,Bakkeveensterweg,28,,
-8434NR,Bakkeveensterweg,30,,
-8434NR,Bakkeveensterweg,28,,TR01
-8434NL,Bisschopsweg,1,,
-8434NL,Bisschopsweg,2,,
-8434NL,Bisschopsweg,4,,
-8434NA,Breebergweg,1,,
-8434NA,Breebergweg,10,,
-8434NA,Breebergweg,11,,
-8434NA,Breebergweg,12,,
-8434NA,Breebergweg,13,,
-8434NA,Breebergweg,14,,
-8434NA,Breebergweg,15,,
-8434NA,Breebergweg,16,,
-8434NA,Breebergweg,2,,
-8434NA,Breebergweg,4,,
-8434NA,Breebergweg,5,,
-8434NA,Breebergweg,6,,
-8434NA,Breebergweg,9,,
-8434NA,Breebergweg,11,A,
-8434NA,Breebergweg,11,B,
-8434NA,Breebergweg,4,,
-8434NA,Breebergweg,13,A,
-8434NA,Breebergweg,13,A,TR01
-8434NV,Compagnonsweg,10,,
-8434NV,Compagnonsweg,11,,
-8434NV,Compagnonsweg,12,,
-8434NV,Compagnonsweg,14,,
-8434NV,Compagnonsweg,15,,
-8434NV,Compagnonsweg,16,,
-8434NV,Compagnonsweg,2,,
-8434NV,Compagnonsweg,3,,
-8434NV,Compagnonsweg,4,,
-8434NV,Compagnonsweg,6,,
-8434NV,Compagnonsweg,7,,
-8434NV,Compagnonsweg,8,,
-8434NV,Compagnonsweg,9,,
-8434NV,Compagnonsweg,35,,TR01
-8434NV,Compagnonsweg,14,A,
-8434NV,Compagnonsweg,14,A,
-8434NW,Compagnonsweg,17,,
-8434NW,Compagnonsweg,18,,
-8434NW,Compagnonsweg,19,,
-8434NW,Compagnonsweg,20,,
-8434NW,Compagnonsweg,21,,
-8434NW,Compagnonsweg,22,,
-8434NW,Compagnonsweg,23,,
-8434NW,Compagnonsweg,24,,
-8434NW,Compagnonsweg,25,,
-8434NW,Compagnonsweg,26,,
-8434NW,Compagnonsweg,27,,
-8434NW,Compagnonsweg,28,,
-8434NW,Compagnonsweg,29,,
-8434NW,Compagnonsweg,19,,TR01
-8434NW,Compagnonsweg,21,,TR01
-8434PC,De Fenne,1,,
-8434PC,De Fenne,11,,
-8434PC,De Fenne,13,,
-8434PC,De Fenne,15,,
-8434PC,De Fenne,17,,
-8434PC,De Fenne,19,,
-8434PC,De Fenne,21,,
-8434PC,De Fenne,23,,
-8434PC,De Fenne,25,,
-8434PC,De Fenne,27,,
-8434PC,De Fenne,3,,
-8434PC,De Fenne,5,,
-8434PC,De Fenne,7,,
-8434PC,De Fenne,9,,
-8434PC,De Fenne,1,A,
-8434PD,De Fenne,10,,
-8434PD,De Fenne,12,,
-8434PD,De Fenne,14,,
-8434PD,De Fenne,16,,
-8434PD,De Fenne,18,,
-8434PD,De Fenne,2,,
-8434PD,De Fenne,20,,
-8434PD,De Fenne,22,,
-8434PD,De Fenne,24,,
-8434PD,De Fenne,26,,
-8434PD,De Fenne,28,,
-8434PD,De Fenne,4,,
-8434PD,De Fenne,6,,
-8434PD,De Fenne,8,,
-8434PJ,De Kromten,1,,
-8434PJ,De Kromten,11,,
-8434PJ,De Kromten,13,,
-8434PJ,De Kromten,15,,
-8434PJ,De Kromten,17,,
-8434PJ,De Kromten,19,,
-8434PJ,De Kromten,21,,
-8434PJ,De Kromten,23,,
-8434PJ,De Kromten,25,,
-8434PJ,De Kromten,27,,
-8434PJ,De Kromten,4,,
-8434PJ,De Kromten,5,,
-8434PJ,De Kromten,6,,
-8434PJ,De Kromten,7,,
-8434PJ,De Kromten,8,,
-8434PJ,De Kromten,9,,
-8434PJ,De Kromten,2,A,
-8434PJ,De Kromten,2,B,
-8434PJ,De Kromten,2,C,
-8434PJ,De Kromten,2,D,
-8434PJ,De Kromten,2,,
-8434PJ,De Kromten,2,,
-8434PJ,De Kromten,2,A,
-8434PJ,De Kromten,2,B,
-8434NJ,Feikemaweg,1,,
-8434NJ,Feikemaweg,10,,
-8434NJ,Feikemaweg,11,,
-8434NJ,Feikemaweg,12,,
-8434NJ,Feikemaweg,13,,
-8434NJ,Feikemaweg,14,,
-8434NJ,Feikemaweg,15,,
-8434NJ,Feikemaweg,16,,
-8434NJ,Feikemaweg,2,,
-8434NJ,Feikemaweg,3,,
-8434NJ,Feikemaweg,4,,
-8434NJ,Feikemaweg,7,,
-8434NJ,Feikemaweg,8,,
-8434NJ,Feikemaweg,9,,
-8434NJ,Feikemaweg,4,,TR01
-8434PB,Jan Roelswijk,10,,
-8434PB,Jan Roelswijk,12,,
-8434PB,Jan Roelswijk,14,,
-8434PB,Jan Roelswijk,16,,
-8434PB,Jan Roelswijk,18,,
-8434PB,Jan Roelswijk,2,,
-8434PB,Jan Roelswijk,20,,
-8434PB,Jan Roelswijk,22,,
-8434PB,Jan Roelswijk,24,,
-8434PB,Jan Roelswijk,26,,
-8434PB,Jan Roelswijk,4,,
-8434NE,Kruisweg,1,,
-8434NE,Kruisweg,10,,
-8434NE,Kruisweg,12,,
-8434NE,Kruisweg,14,,
-8434NE,Kruisweg,16,,
-8434NE,Kruisweg,18,,
-8434NE,Kruisweg,2,,
-8434NE,Kruisweg,3,,
-8434NE,Kruisweg,4,,
-8434NE,Kruisweg,5,,
-8434NE,Kruisweg,6,,
-8434NE,Kruisweg,8,,
-8434NE,Kruisweg,2,A,
-8434NE,Kruisweg,8,A,
-8434NE,Kruisweg,2,B,
-8434NE,Kruisweg,5,,
-8434NE,Kruisweg,5,,
-8434NC,Leidijk,1,,
-8434NC,Leidijk,3,,
-8434NC,Leidijk,30,,
-8434NC,Leidijk,32,,
-8434NC,Leidijk,34,,
-8434NC,Leidijk,36,,
-8434NC,Leidijk,38,,
-8434NC,Leidijk,40,,
-8434NC,Leidijk,42,,
-8434NC,Leidijk,44,,
-8434NC,Leidijk,46,,
-8434NC,Leidijk,42,B,
-8434NC,Leidijk,42,C,
-8434NC,Leidijk,42,D,
-8434NC,Leidijk,42,A,
-8434NC,Leidijk,1,A,
-8434NC,Leidijk,1,B,
-8434NC,Leidijk,1,C,
-8434NC,Leidijk,1,D,
-8434NC,Leidijk,1,E,
-8434NC,Leidijk,1,F,
-8434NC,Leidijk,1,G,
-8434NC,Leidijk,1,H,
-8434NC,Leidijk,1,J,
-8434NC,Leidijk,1,K,
-8434NC,Leidijk,38,,TR01
-8434NC,Leidijk,42,E,
-8434NC,Leidijk,1,,
-8434NC,Leidijk,40,,TR01
-8434NC,Leidijk,40,T,
-8434NT,Meester van Hasseltweg,10,,
-8434NT,Meester van Hasseltweg,11,,
-8434NT,Meester van Hasseltweg,12,,
-8434NT,Meester van Hasseltweg,13,,
-8434NT,Meester van Hasseltweg,14,,
-8434NT,Meester van Hasseltweg,15,,
-8434NT,Meester van Hasseltweg,16,,
-8434NT,Meester van Hasseltweg,2,,
-8434NT,Meester van Hasseltweg,3,,
-8434NT,Meester van Hasseltweg,4,,
-8434NT,Meester van Hasseltweg,6,,
-8434NT,Meester van Hasseltweg,7,,
-8434NT,Meester van Hasseltweg,8,,
-8434NT,Meester van Hasseltweg,9,,
-8434NT,Meester van Hasseltweg,6,,TR01
-8434NK,Oude Wijk,14,,
-8434NK,Oude Wijk,16,,
-8434NK,Oude Wijk,18,,
-8434NK,Oude Wijk,2,,
-8434NK,Oude Wijk,20,,
-8434NK,Oude Wijk,22,,
-8434NK,Oude Wijk,24,,
-8434NK,Oude Wijk,26,,
-8434NK,Oude Wijk,28,,
-8434NK,Oude Wijk,30,,
-8434NK,Oude Wijk,32,,
-8434NK,Oude Wijk,38,,
-8434NK,Oude Wijk,4,,
-8434NK,Oude Wijk,6,,
-8434NK,Oude Wijk,8,,
-8434NK,Oude Wijk,32,A,
-8434NK,Oude Wijk,32,B,
-8434NK,Oude Wijk,10,,
-8434NM,P W Janssenweg,10,,
-8434NM,P W Janssenweg,11,,
-8434NM,P W Janssenweg,12,,
-8434NM,P W Janssenweg,13,,
-8434NM,P W Janssenweg,2,,
-8434NM,P W Janssenweg,3,,
-8434NM,P W Janssenweg,4,,
-8434NM,P W Janssenweg,5,,
-8434NM,P W Janssenweg,6,,
-8434NM,P W Janssenweg,7,,
-8434NM,P W Janssenweg,8,,
-8434NM,P W Janssenweg,9,,
-8434NM,P W Janssenweg,3,A,
-8434NM,P W Janssenweg,5,,
-8434NH,Wijndelsweg,1,,
-8434NH,Wijndelsweg,10,,
-8434NH,Wijndelsweg,11,,
-8434NH,Wijndelsweg,12,,
-8434NH,Wijndelsweg,13,,
-8434NH,Wijndelsweg,14,,
-8434NH,Wijndelsweg,15,,
-8434NH,Wijndelsweg,16,,
-8434NH,Wijndelsweg,17,,
-8434NH,Wijndelsweg,18,,
-8434NH,Wijndelsweg,19,,
-8434NH,Wijndelsweg,2,,
-8434NH,Wijndelsweg,21,,
-8434NH,Wijndelsweg,23,,
-8434NH,Wijndelsweg,3,,
-8434NH,Wijndelsweg,4,,
-8434NH,Wijndelsweg,5,,
-8434NH,Wijndelsweg,6,,
-8434NH,Wijndelsweg,7,,
-8434NH,Wijndelsweg,8,,
-8434NH,Wijndelsweg,9,,
-8434NN,Willem Kroezestraat,1,,
-8434NN,Willem Kroezestraat,11,,
-8434NN,Willem Kroezestraat,2,,
-8434NN,Willem Kroezestraat,4,,
-8434NN,Willem Kroezestraat,6,,
-8434NN,Willem Kroezestraat,7,,
-8434NN,Willem Kroezestraat,8,,
-8434NN,Willem Kroezestraat,9,,
-8434NN,Willem Kroezestraat,3,,
-8434NN,Willem Kroezestraat,3,A,
-8434NN,Willem Kroezestraat,3,B,
-8434NN,Willem Kroezestraat,3,C,
-8434NN,Willem Kroezestraat,5,,
-8434NN,Willem Kroezestraat,5,A,
-8434NN,Willem Kroezestraat,5,B,
-8434NN,Willem Kroezestraat,5,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Breebergweg,1,"","",8434NA,Waskemeer
+Breebergweg,10,"","",8434NA,Waskemeer
+Breebergweg,11,"","",8434NA,Waskemeer
+Breebergweg,11,A,"",8434NA,Waskemeer
+Breebergweg,11,B,"",8434NA,Waskemeer
+Breebergweg,12,"","",8434NA,Waskemeer
+Breebergweg,13,"","",8434NA,Waskemeer
+Breebergweg,13,A,"",8434NA,Waskemeer
+Breebergweg,13,A,TR01,8434NA,Waskemeer
+Breebergweg,14,"","",8434NA,Waskemeer
+Breebergweg,15,"","",8434NA,Waskemeer
+Breebergweg,16,"","",8434NA,Waskemeer
+Breebergweg,2,"","",8434NA,Waskemeer
+Breebergweg,4,"","",8434NA,Waskemeer
+Breebergweg,4,"","",8434NA,Waskemeer
+Breebergweg,4,"","",8434NA,Waskemeer
+Breebergweg,5,"","",8434NA,Waskemeer
+Breebergweg,6,"","",8434NA,Waskemeer
+Breebergweg,9,"","",8434NA,Waskemeer
+Leidijk,1,"","",8434NC,Waskemeer
+Leidijk,1,"","",8434NC,Waskemeer
+Leidijk,1,"","",8434NC,Waskemeer
+Leidijk,1,A,"",8434NC,Waskemeer
+Leidijk,1,B,"",8434NC,Waskemeer
+Leidijk,1,C,"",8434NC,Waskemeer
+Leidijk,1,D,"",8434NC,Waskemeer
+Leidijk,1,E,"",8434NC,Waskemeer
+Leidijk,1,F,"",8434NC,Waskemeer
+Leidijk,1,G,"",8434NC,Waskemeer
+Leidijk,1,H,"",8434NC,Waskemeer
+Leidijk,1,J,"",8434NC,Waskemeer
+Leidijk,1,K,"",8434NC,Waskemeer
+Leidijk,3,"","",8434NC,Waskemeer
+Leidijk,30,"","",8434NC,Waskemeer
+Leidijk,32,"","",8434NC,Waskemeer
+Leidijk,34,"","",8434NC,Waskemeer
+Leidijk,36,"","",8434NC,Waskemeer
+Leidijk,38,"","",8434NC,Waskemeer
+Leidijk,38,"",TR01,8434NC,Waskemeer
+Leidijk,40,"","",8434NC,Waskemeer
+Leidijk,42,"","",8434NC,Waskemeer
+Leidijk,42,A,"",8434NC,Waskemeer
+Leidijk,42,B,"",8434NC,Waskemeer
+Leidijk,42,C,"",8434NC,Waskemeer
+Leidijk,42,D,"",8434NC,Waskemeer
+Leidijk,42,E,"",8434NC,Waskemeer
+Leidijk,44,"","",8434NC,Waskemeer
+Leidijk,46,"","",8434NC,Waskemeer
+Kruisweg,1,"","",8434NE,Waskemeer
+Kruisweg,10,"","",8434NE,Waskemeer
+Kruisweg,12,"","",8434NE,Waskemeer
+Kruisweg,14,"","",8434NE,Waskemeer
+Kruisweg,16,"","",8434NE,Waskemeer
+Kruisweg,18,"","",8434NE,Waskemeer
+Kruisweg,2,"","",8434NE,Waskemeer
+Kruisweg,2,A,"",8434NE,Waskemeer
+Kruisweg,2,B,"",8434NE,Waskemeer
+Kruisweg,3,"","",8434NE,Waskemeer
+Kruisweg,4,"","",8434NE,Waskemeer
+Kruisweg,5,"","",8434NE,Waskemeer
+Kruisweg,5,"","",8434NE,Waskemeer
+Kruisweg,5,"","",8434NE,Waskemeer
+Kruisweg,5,"","",8434NE,Waskemeer
+Kruisweg,6,"","",8434NE,Waskemeer
+Kruisweg,8,"","",8434NE,Waskemeer
+Kruisweg,8,A,"",8434NE,Waskemeer
+Wijndelsweg,1,"","",8434NH,Waskemeer
+Wijndelsweg,10,"","",8434NH,Waskemeer
+Wijndelsweg,11,"","",8434NH,Waskemeer
+Wijndelsweg,12,"","",8434NH,Waskemeer
+Wijndelsweg,13,"","",8434NH,Waskemeer
+Wijndelsweg,14,"","",8434NH,Waskemeer
+Wijndelsweg,15,"","",8434NH,Waskemeer
+Wijndelsweg,16,"","",8434NH,Waskemeer
+Wijndelsweg,17,"","",8434NH,Waskemeer
+Wijndelsweg,18,"","",8434NH,Waskemeer
+Wijndelsweg,19,"","",8434NH,Waskemeer
+Wijndelsweg,2,"","",8434NH,Waskemeer
+Wijndelsweg,21,"","",8434NH,Waskemeer
+Wijndelsweg,23,"","",8434NH,Waskemeer
+Wijndelsweg,3,"","",8434NH,Waskemeer
+Wijndelsweg,4,"","",8434NH,Waskemeer
+Wijndelsweg,5,"","",8434NH,Waskemeer
+Wijndelsweg,6,"","",8434NH,Waskemeer
+Wijndelsweg,7,"","",8434NH,Waskemeer
+Wijndelsweg,8,"","",8434NH,Waskemeer
+Wijndelsweg,9,"","",8434NH,Waskemeer
+Feikemaweg,1,"","",8434NJ,Waskemeer
+Feikemaweg,10,"","",8434NJ,Waskemeer
+Feikemaweg,11,"","",8434NJ,Waskemeer
+Feikemaweg,12,"","",8434NJ,Waskemeer
+Feikemaweg,13,"","",8434NJ,Waskemeer
+Feikemaweg,14,"","",8434NJ,Waskemeer
+Feikemaweg,15,"","",8434NJ,Waskemeer
+Feikemaweg,16,"","",8434NJ,Waskemeer
+Feikemaweg,2,"","",8434NJ,Waskemeer
+Feikemaweg,3,"","",8434NJ,Waskemeer
+Feikemaweg,4,"","",8434NJ,Waskemeer
+Feikemaweg,4,"",TR01,8434NJ,Waskemeer
+Feikemaweg,7,"","",8434NJ,Waskemeer
+Feikemaweg,8,"","",8434NJ,Waskemeer
+Feikemaweg,9,"","",8434NJ,Waskemeer
+Oude Wijk,10,"","",8434NK,Waskemeer
+Oude Wijk,14,"","",8434NK,Waskemeer
+Oude Wijk,16,"","",8434NK,Waskemeer
+Oude Wijk,18,"","",8434NK,Waskemeer
+Oude Wijk,2,"","",8434NK,Waskemeer
+Oude Wijk,20,"","",8434NK,Waskemeer
+Oude Wijk,22,"","",8434NK,Waskemeer
+Oude Wijk,24,"","",8434NK,Waskemeer
+Oude Wijk,26,"","",8434NK,Waskemeer
+Oude Wijk,28,"","",8434NK,Waskemeer
+Oude Wijk,30,"","",8434NK,Waskemeer
+Oude Wijk,32,"","",8434NK,Waskemeer
+Oude Wijk,32,A,"",8434NK,Waskemeer
+Oude Wijk,32,B,"",8434NK,Waskemeer
+Oude Wijk,38,"","",8434NK,Waskemeer
+Oude Wijk,4,"","",8434NK,Waskemeer
+Oude Wijk,6,"","",8434NK,Waskemeer
+Oude Wijk,8,"","",8434NK,Waskemeer
+Bisschopsweg,1,"","",8434NL,Waskemeer
+Bisschopsweg,2,"","",8434NL,Waskemeer
+Bisschopsweg,4,"","",8434NL,Waskemeer
+P W Janssenweg,10,"","",8434NM,Waskemeer
+P W Janssenweg,11,"","",8434NM,Waskemeer
+P W Janssenweg,12,"","",8434NM,Waskemeer
+P W Janssenweg,13,"","",8434NM,Waskemeer
+P W Janssenweg,2,"","",8434NM,Waskemeer
+P W Janssenweg,3,"","",8434NM,Waskemeer
+P W Janssenweg,3,A,"",8434NM,Waskemeer
+P W Janssenweg,4,"","",8434NM,Waskemeer
+P W Janssenweg,5,"","",8434NM,Waskemeer
+P W Janssenweg,5,"","",8434NM,Waskemeer
+P W Janssenweg,5,"","",8434NM,Waskemeer
+P W Janssenweg,6,"","",8434NM,Waskemeer
+P W Janssenweg,7,"","",8434NM,Waskemeer
+P W Janssenweg,8,"","",8434NM,Waskemeer
+P W Janssenweg,9,"","",8434NM,Waskemeer
+Willem Kroezestraat,1,"","",8434NN,Waskemeer
+Willem Kroezestraat,11,"","",8434NN,Waskemeer
+Willem Kroezestraat,2,"","",8434NN,Waskemeer
+Willem Kroezestraat,3,"","",8434NN,Waskemeer
+Willem Kroezestraat,3,A,"",8434NN,Waskemeer
+Willem Kroezestraat,3,B,"",8434NN,Waskemeer
+Willem Kroezestraat,3,C,"",8434NN,Waskemeer
+Willem Kroezestraat,4,"","",8434NN,Waskemeer
+Willem Kroezestraat,5,"","",8434NN,Waskemeer
+Willem Kroezestraat,5,A,"",8434NN,Waskemeer
+Willem Kroezestraat,5,B,"",8434NN,Waskemeer
+Willem Kroezestraat,5,C,"",8434NN,Waskemeer
+Willem Kroezestraat,6,"","",8434NN,Waskemeer
+Willem Kroezestraat,7,"","",8434NN,Waskemeer
+Willem Kroezestraat,8,"","",8434NN,Waskemeer
+Willem Kroezestraat,9,"","",8434NN,Waskemeer
+Bakkeveensterweg,1,"","",8434NP,Waskemeer
+Bakkeveensterweg,1,A,"",8434NP,Waskemeer
+Bakkeveensterweg,10,"","",8434NP,Waskemeer
+Bakkeveensterweg,11,"","",8434NP,Waskemeer
+Bakkeveensterweg,11,A,"",8434NP,Waskemeer
+Bakkeveensterweg,11,B,"",8434NP,Waskemeer
+Bakkeveensterweg,11,C,"",8434NP,Waskemeer
+Bakkeveensterweg,12,"","",8434NP,Waskemeer
+Bakkeveensterweg,13,"","",8434NP,Waskemeer
+Bakkeveensterweg,14,"","",8434NP,Waskemeer
+Bakkeveensterweg,14,A,"",8434NP,Waskemeer
+Bakkeveensterweg,14,B,"",8434NP,Waskemeer
+Bakkeveensterweg,14,C,"",8434NP,Waskemeer
+Bakkeveensterweg,16,"","",8434NP,Waskemeer
+Bakkeveensterweg,2,"","",8434NP,Waskemeer
+Bakkeveensterweg,3,"","",8434NP,Waskemeer
+Bakkeveensterweg,3,A,"",8434NP,Waskemeer
+Bakkeveensterweg,4,"","",8434NP,Waskemeer
+Bakkeveensterweg,5,"","",8434NP,Waskemeer
+Bakkeveensterweg,6,"","",8434NP,Waskemeer
+Bakkeveensterweg,7,"","",8434NP,Waskemeer
+Bakkeveensterweg,8,"","",8434NP,Waskemeer
+Bakkeveensterweg,9,"","",8434NP,Waskemeer
+Bakkeveensterweg,18,"","",8434NR,Waskemeer
+Bakkeveensterweg,22,"","",8434NR,Waskemeer
+Bakkeveensterweg,24,"","",8434NR,Waskemeer
+Bakkeveensterweg,26,"","",8434NR,Waskemeer
+Bakkeveensterweg,28,"","",8434NR,Waskemeer
+Bakkeveensterweg,28,"",TR01,8434NR,Waskemeer
+Bakkeveensterweg,30,"","",8434NR,Waskemeer
+Meester van Hasseltweg,10,"","",8434NT,Waskemeer
+Meester van Hasseltweg,11,"","",8434NT,Waskemeer
+Meester van Hasseltweg,12,"","",8434NT,Waskemeer
+Meester van Hasseltweg,13,"","",8434NT,Waskemeer
+Meester van Hasseltweg,14,"","",8434NT,Waskemeer
+Meester van Hasseltweg,15,"","",8434NT,Waskemeer
+Meester van Hasseltweg,16,"","",8434NT,Waskemeer
+Meester van Hasseltweg,2,"","",8434NT,Waskemeer
+Meester van Hasseltweg,3,"","",8434NT,Waskemeer
+Meester van Hasseltweg,4,"","",8434NT,Waskemeer
+Meester van Hasseltweg,6,"","",8434NT,Waskemeer
+Meester van Hasseltweg,6,"",TR01,8434NT,Waskemeer
+Meester van Hasseltweg,7,"","",8434NT,Waskemeer
+Meester van Hasseltweg,8,"","",8434NT,Waskemeer
+Meester van Hasseltweg,9,"","",8434NT,Waskemeer
+Compagnonsweg,10,"","",8434NV,Waskemeer
+Compagnonsweg,11,"","",8434NV,Waskemeer
+Compagnonsweg,12,"","",8434NV,Waskemeer
+Compagnonsweg,14,"","",8434NV,Waskemeer
+Compagnonsweg,14,A,"",8434NV,Waskemeer
+Compagnonsweg,14,A,"",8434NV,Waskemeer
+Compagnonsweg,14,A,"",8434NV,Waskemeer
+Compagnonsweg,15,"","",8434NV,Waskemeer
+Compagnonsweg,16,"","",8434NV,Waskemeer
+Compagnonsweg,2,"","",8434NV,Waskemeer
+Compagnonsweg,3,"","",8434NV,Waskemeer
+Compagnonsweg,35,"",TR01,8434NV,Waskemeer
+Compagnonsweg,4,"","",8434NV,Waskemeer
+Compagnonsweg,6,"","",8434NV,Waskemeer
+Compagnonsweg,7,"","",8434NV,Waskemeer
+Compagnonsweg,8,"","",8434NV,Waskemeer
+Compagnonsweg,9,"","",8434NV,Waskemeer
+Compagnonsweg,17,"","",8434NW,Waskemeer
+Compagnonsweg,18,"","",8434NW,Waskemeer
+Compagnonsweg,19,"","",8434NW,Waskemeer
+Compagnonsweg,19,"",TR01,8434NW,Waskemeer
+Compagnonsweg,20,"","",8434NW,Waskemeer
+Compagnonsweg,21,"","",8434NW,Waskemeer
+Compagnonsweg,21,"",TR01,8434NW,Waskemeer
+Compagnonsweg,22,"","",8434NW,Waskemeer
+Compagnonsweg,23,"","",8434NW,Waskemeer
+Compagnonsweg,24,"","",8434NW,Waskemeer
+Compagnonsweg,25,"","",8434NW,Waskemeer
+Compagnonsweg,26,"","",8434NW,Waskemeer
+Compagnonsweg,27,"","",8434NW,Waskemeer
+Compagnonsweg,28,"","",8434NW,Waskemeer
+Compagnonsweg,29,"","",8434NW,Waskemeer
+Jan Roelswijk,10,"","",8434PB,Waskemeer
+Jan Roelswijk,12,"","",8434PB,Waskemeer
+Jan Roelswijk,14,"","",8434PB,Waskemeer
+Jan Roelswijk,16,"","",8434PB,Waskemeer
+Jan Roelswijk,18,"","",8434PB,Waskemeer
+Jan Roelswijk,2,"","",8434PB,Waskemeer
+Jan Roelswijk,20,"","",8434PB,Waskemeer
+Jan Roelswijk,22,"","",8434PB,Waskemeer
+Jan Roelswijk,24,"","",8434PB,Waskemeer
+Jan Roelswijk,26,"","",8434PB,Waskemeer
+Jan Roelswijk,4,"","",8434PB,Waskemeer
+De Fenne,1,"","",8434PC,Waskemeer
+De Fenne,1,A,"",8434PC,Waskemeer
+De Fenne,11,"","",8434PC,Waskemeer
+De Fenne,13,"","",8434PC,Waskemeer
+De Fenne,15,"","",8434PC,Waskemeer
+De Fenne,17,"","",8434PC,Waskemeer
+De Fenne,19,"","",8434PC,Waskemeer
+De Fenne,21,"","",8434PC,Waskemeer
+De Fenne,23,"","",8434PC,Waskemeer
+De Fenne,25,"","",8434PC,Waskemeer
+De Fenne,27,"","",8434PC,Waskemeer
+De Fenne,3,"","",8434PC,Waskemeer
+De Fenne,5,"","",8434PC,Waskemeer
+De Fenne,7,"","",8434PC,Waskemeer
+De Fenne,9,"","",8434PC,Waskemeer
+De Fenne,10,"","",8434PD,Waskemeer
+De Fenne,12,"","",8434PD,Waskemeer
+De Fenne,14,"","",8434PD,Waskemeer
+De Fenne,16,"","",8434PD,Waskemeer
+De Fenne,18,"","",8434PD,Waskemeer
+De Fenne,2,"","",8434PD,Waskemeer
+De Fenne,20,"","",8434PD,Waskemeer
+De Fenne,22,"","",8434PD,Waskemeer
+De Fenne,24,"","",8434PD,Waskemeer
+De Fenne,26,"","",8434PD,Waskemeer
+De Fenne,28,"","",8434PD,Waskemeer
+De Fenne,4,"","",8434PD,Waskemeer
+De Fenne,6,"","",8434PD,Waskemeer
+De Fenne,8,"","",8434PD,Waskemeer
+De Kromten,1,"","",8434PJ,Waskemeer
+De Kromten,11,"","",8434PJ,Waskemeer
+De Kromten,13,"","",8434PJ,Waskemeer
+De Kromten,15,"","",8434PJ,Waskemeer
+De Kromten,17,"","",8434PJ,Waskemeer
+De Kromten,19,"","",8434PJ,Waskemeer
+De Kromten,2,"","",8434PJ,Waskemeer
+De Kromten,2,"","",8434PJ,Waskemeer
+De Kromten,2,"","",8434PJ,Waskemeer
+De Kromten,2,A,"",8434PJ,Waskemeer
+De Kromten,2,A,"",8434PJ,Waskemeer
+De Kromten,2,A,"",8434PJ,Waskemeer
+De Kromten,2,B,"",8434PJ,Waskemeer
+De Kromten,2,B,"",8434PJ,Waskemeer
+De Kromten,2,B,"",8434PJ,Waskemeer
+De Kromten,2,C,"",8434PJ,Waskemeer
+De Kromten,2,C,"",8434PJ,Waskemeer
+De Kromten,2,D,"",8434PJ,Waskemeer
+De Kromten,2,D,"",8434PJ,Waskemeer
+De Kromten,21,"","",8434PJ,Waskemeer
+De Kromten,23,"","",8434PJ,Waskemeer
+De Kromten,25,"","",8434PJ,Waskemeer
+De Kromten,27,"","",8434PJ,Waskemeer
+De Kromten,4,"","",8434PJ,Waskemeer
+De Kromten,5,"","",8434PJ,Waskemeer
+De Kromten,6,"","",8434PJ,Waskemeer
+De Kromten,7,"","",8434PJ,Waskemeer
+De Kromten,8,"","",8434PJ,Waskemeer
+De Kromten,9,"","",8434PJ,Waskemeer

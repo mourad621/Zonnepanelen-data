@@ -1,68 +1,68 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9473TJ,Hunzeweg,86,,
-9473TJ,Hunzeweg,94,,
-9473TJ,Hunzeweg,96,,
-9473TJ,Hunzeweg,92,,
-9473TJ,Hunzeweg,90,,
-9473TS,Semsweg,8,,
-9473TS,Semsweg,5,,
-9473TS,Semsweg,1,,
-9473TS,Semsweg,7,,
-9473TS,Semsweg,4,,
-9473TS,Semsweg,3,,
-9473TS,Semsweg,10,,
-9473TS,Semsweg,6,,
-9473TS,Semsweg,2,,
-9473TT,De Steeg,1,,
-9473TT,De Steeg,10,,
-9473TT,De Steeg,6,,
-9473TT,De Steeg,8,,
-9473TT,De Steeg,3,,
-9473TT,De Steeg,2,,
-9473TT,De Steeg,4,,
-9473TN,Pelincksweg,1,,
-9473TN,Pelincksweg,3,,
-9473TN,Pelincksweg,3,,
-9473TL,De Kruierij,1,,
-9474TA,Dorpsstraat,2,,
-9474TA,Dorpsstraat,3,,
-9474TA,Dorpsstraat,4,,
-9474TA,Dorpsstraat,5,,
-9474TA,Dorpsstraat,1,,
-9473TN,Ludinge,13,,2
-9473TN,Ludinge,13,,2a
-9473TN,Ludinge,13,,3
-9473TN,Ludinge,13,,3a
-9473TN,Ludinge,13,,4
-9473TN,Ludinge,13,,4a
-9473TN,Ludinge,13,,5
-9473TN,Ludinge,13,,5a
-9473TN,Ludinge,13,,6
-9473TN,Ludinge,13,,6a
-9473TN,Ludinge,13,,7
-9473TN,Ludinge,13,,7a
-9473TN,Ludinge,13,,9
-9473TN,Ludinge,13,,9a
-9473TN,Ludinge,13,,10
-9473TN,Ludinge,13,,10a
-9473TN,Ludinge,13,,11
-9473TN,Ludinge,13,,11a
-9473TN,Ludinge,13,,18
-9473TN,Ludinge,13,,18a
-9473TN,Ludinge,13,,19
-9473TN,Ludinge,13,,19a
-9473TN,Ludinge,13,,22
-9473TN,Ludinge,13,,22a
-9473TJ,Hunzeweg,90,a,
-9473TJ,Hunzeweg,88,,
-9473TJ,Hunzeweg,90,b,
-9473TS,Semsweg,7,,
-9473TN,Pelincksweg,1,a,
-9473TN,Pelincksweg,5,,
-9473TN,Pelincksweg,1,b,
-9473TL,De Kruierij,2,,
-9473TL,De Kruierij,2,,
-9473TL,De Kruierij,4,,
-9473TS,Semsweg,5,a,
-9473TN,Pelincksweg,1,a,
-9473TL,De Kruierij,2,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hunzeweg,86,"","",9473TJ,De Groeve
+Hunzeweg,88,"","",9473TJ,De Groeve
+Hunzeweg,90,"","",9473TJ,De Groeve
+Hunzeweg,90,A,"",9473TJ,De Groeve
+Hunzeweg,90,B,"",9473TJ,De Groeve
+Hunzeweg,92,"","",9473TJ,De Groeve
+Hunzeweg,94,"","",9473TJ,De Groeve
+Hunzeweg,96,"","",9473TJ,De Groeve
+De Kruierij,1,"","",9473TL,De Groeve
+De Kruierij,2,"","",9473TL,De Groeve
+De Kruierij,2,"","",9473TL,De Groeve
+De Kruierij,2,A,"",9473TL,De Groeve
+De Kruierij,4,"","",9473TL,De Groeve
+Pelincksweg,1,"","",9473TN,De Groeve
+Pelincksweg,1,A,"",9473TN,De Groeve
+Pelincksweg,1,A,"",9473TN,De Groeve
+Pelincksweg,1,B,"",9473TN,De Groeve
+Ludinge,13,"",10,9473TN,Zuidlaren
+Ludinge,13,"",10A,9473TN,Zuidlaren
+Ludinge,13,"",11,9473TN,Zuidlaren
+Ludinge,13,"",11A,9473TN,Zuidlaren
+Ludinge,13,"",18,9473TN,Zuidlaren
+Ludinge,13,"",18A,9473TN,Zuidlaren
+Ludinge,13,"",19,9473TN,Zuidlaren
+Ludinge,13,"",19A,9473TN,Zuidlaren
+Ludinge,13,"",2,9473TN,Zuidlaren
+Ludinge,13,"",22,9473TN,Zuidlaren
+Ludinge,13,"",22A,9473TN,Zuidlaren
+Ludinge,13,"",2A,9473TN,Zuidlaren
+Ludinge,13,"",3,9473TN,Zuidlaren
+Ludinge,13,"",3A,9473TN,Zuidlaren
+Ludinge,13,"",4,9473TN,Zuidlaren
+Ludinge,13,"",4A,9473TN,Zuidlaren
+Ludinge,13,"",5,9473TN,Zuidlaren
+Ludinge,13,"",5A,9473TN,Zuidlaren
+Ludinge,13,"",6,9473TN,Zuidlaren
+Ludinge,13,"",6A,9473TN,Zuidlaren
+Ludinge,13,"",7,9473TN,Zuidlaren
+Ludinge,13,"",7A,9473TN,Zuidlaren
+Ludinge,13,"",9,9473TN,Zuidlaren
+Ludinge,13,"",9A,9473TN,Zuidlaren
+Pelincksweg,3,"","",9473TN,De Groeve
+Pelincksweg,3,"","",9473TN,De Groeve
+Pelincksweg,5,"","",9473TN,De Groeve
+Semsweg,1,"","",9473TS,De Groeve
+Semsweg,10,"","",9473TS,De Groeve
+Semsweg,2,"","",9473TS,De Groeve
+Semsweg,3,"","",9473TS,De Groeve
+Semsweg,4,"","",9473TS,De Groeve
+Semsweg,5,"","",9473TS,De Groeve
+Semsweg,5,A,"",9473TS,De Groeve
+Semsweg,6,"","",9473TS,De Groeve
+Semsweg,7,"","",9473TS,De Groeve
+Semsweg,7,"","",9473TS,De Groeve
+Semsweg,8,"","",9473TS,De Groeve
+De Steeg,1,"","",9473TT,De Groeve
+De Steeg,10,"","",9473TT,De Groeve
+De Steeg,2,"","",9473TT,De Groeve
+De Steeg,3,"","",9473TT,De Groeve
+De Steeg,4,"","",9473TT,De Groeve
+De Steeg,6,"","",9473TT,De Groeve
+De Steeg,8,"","",9473TT,De Groeve
+Dorpsstraat,1,"","",9474TA,Zuidlaarderveen
+Dorpsstraat,2,"","",9474TA,Zuidlaarderveen
+Dorpsstraat,3,"","",9474TA,Zuidlaarderveen
+Dorpsstraat,4,"","",9474TA,Zuidlaarderveen
+Dorpsstraat,5,"","",9474TA,Zuidlaarderveen

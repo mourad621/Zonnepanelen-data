@@ -1,26 +1,26 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8658LL,De Ryp,1,,
-8658LL,De Ryp,2,,
-8658LL,De Ryp,3,,
-8658LL,De Ryp,5,,
-8658LL,De Ryp,6,,
-8658LL,De Ryp,7,,
-8658LL,De Ryp,8,,
-8658LL,De Ryp,9,,
-8658LJ,Blauhústerleane,1,,
-8658LJ,Blauhústerleane,2,,
-8658LJ,Blauhústerleane,5,,
-8658LJ,Blauhústerleane,6,,
-8658LJ,Blauhústerleane,8,,
-8658LJ,Blauhústerleane,10,,
-8615LG,De Kie,7,,
-8615LG,De Kie,9,,
-8658LH,Mardyk,1,,
-8658LH,Mardyk,2,,
-8658LH,Mardyk,3,,
-8658LL,De Ryp,4,,
-8658LJ,Blauhústerleane,12,,
-8658LL,De Ryp,2,A,
-8658LL,De Ryp,2,B,
-8658LL,De Ryp,9,A,
-8658LL,De Ryp,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Kie,7,"","",8615LG,Blauwhuis
+De Kie,9,"","",8615LG,Blauwhuis
+Mardyk,1,"","",8658LH,Greonterp
+Mardyk,2,"","",8658LH,Greonterp
+Mardyk,3,"","",8658LH,Greonterp
+Blauhústerleane,1,"","",8658LJ,Greonterp
+Blauhústerleane,10,"","",8658LJ,Greonterp
+Blauhústerleane,12,"","",8658LJ,Greonterp
+Blauhústerleane,2,"","",8658LJ,Greonterp
+Blauhústerleane,5,"","",8658LJ,Greonterp
+Blauhústerleane,6,"","",8658LJ,Greonterp
+Blauhústerleane,8,"","",8658LJ,Greonterp
+De Ryp,1,"","",8658LL,Greonterp
+De Ryp,2,"","",8658LL,Greonterp
+De Ryp,2,A,"",8658LL,Greonterp
+De Ryp,2,B,"",8658LL,Greonterp
+De Ryp,3,"","",8658LL,Greonterp
+De Ryp,4,"","",8658LL,Greonterp
+De Ryp,5,"","",8658LL,Greonterp
+De Ryp,6,"","",8658LL,Greonterp
+De Ryp,7,"","",8658LL,Greonterp
+De Ryp,7,"","",8658LL,Greonterp
+De Ryp,8,"","",8658LL,Greonterp
+De Ryp,9,"","",8658LL,Greonterp
+De Ryp,9,A,"",8658LL,Greonterp

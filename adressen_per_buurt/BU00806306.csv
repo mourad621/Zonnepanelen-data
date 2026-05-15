@@ -1,72 +1,72 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9054KT",22,"",""
-"9054KT",50,"",""
-"9054KT",48,"",""
-"9054KT",18,"",""
-"9054KT",46,"",""
-"9054KT",58,"",""
-"9054KT",60,"",""
-"9054KT",52,"",""
-"9054KT",28,"",""
-"9054KT",24,"",""
-"9054KT",20,"",""
-"9054KT",60,"",""
-"9054KT",40,"",""
-"9054KT",60,"",""
-"9054KT",54,"",""
-"9054KT",56,"",""
-"9054KT",44,"",""
-"9054KT",62,"",""
-"9054KT",42,"",""
-"9054LA",10,"",""
-"9054LA",2,"",""
-"9054LA",14,"",""
-"9054LA",12,"",""
-"9054LA",6,"",""
-"9054LA",1,"",""
-"9054LB",8,"",""
-"9054LB",6,"",""
-"9054LB",5,"",""
-"9054LB",9,"",""
-"9054LB",7,"",""
-"9054LB",2,"",""
-"9054LB",1,"",""
-"9054LB",4,"",""
-"9054LC",2,"",""
-"9054LC",8,"",""
-"9054LC",2,"",""
-9054LA,Brédyk,14,a,
-9054KT,De Loane,62,,
-9054KT,De Loane,60,,
-9054KT,De Loane,58,,
-9054KT,De Loane,56,,
-9054KT,De Loane,54,,
-9054KT,De Loane,52,,
-9054KT,De Loane,50,,
-9054KT,De Loane,48,,
-9054KT,De Loane,46,,
-9054KT,De Loane,44,,
-9054KT,De Loane,42,,
-9054KT,De Loane,40,,
-9054KT,De Loane,28,,
-9054KT,De Loane,24,,
-9054KT,De Loane,22,,
-9054KT,De Loane,20,,
-9054KT,De Loane,18,,
-9054KT,De Loane,60,,
-9054LB,Mieddyk,9,,
-9054LB,Mieddyk,8,,
-9054LB,Mieddyk,7,,
-9054LB,Mieddyk,6,,
-9054LB,Mieddyk,5,,
-9054LB,Mieddyk,4,,
-9054LB,Mieddyk,2,,
-9054LB,Mieddyk,1,,
-9054LC,Hege Hearewei,8,,
-9054LC,Hege Hearewei,2,,
-9054LA,Brédyk,14,,
-9054LA,Brédyk,12,,
-9054LA,Brédyk,10,,
-9054LA,Brédyk,6,,
-9054LA,Brédyk,2,,
-9054LA,Brédyk,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Loane,18,"","",9054KT,Hijum
+De Loane,20,"","",9054KT,Hijum
+De Loane,22,"","",9054KT,Hijum
+De Loane,24,"","",9054KT,Hijum
+De Loane,28,"","",9054KT,Hijum
+De Loane,40,"","",9054KT,Hijum
+De Loane,42,"","",9054KT,Hijum
+De Loane,44,"","",9054KT,Hijum
+De Loane,46,"","",9054KT,Hijum
+De Loane,48,"","",9054KT,Hijum
+De Loane,50,"","",9054KT,Hijum
+De Loane,52,"","",9054KT,Hijum
+De Loane,54,"","",9054KT,Hijum
+De Loane,56,"","",9054KT,Hijum
+De Loane,58,"","",9054KT,Hijum
+De Loane,60,"","",9054KT,Hijum
+De Loane,60,"","",9054KT,Hijum
+De Loane,60,"","",9054KT,Hijum
+De Loane,62,"","",9054KT,Hijum
+"",DE LOANE,18,"",9054KT,
+"",DE LOANE,20,"",9054KT,
+"",DE LOANE,22,"",9054KT,
+"",DE LOANE,24,"",9054KT,
+"",DE LOANE,28,"",9054KT,
+"",DE LOANE,40,"",9054KT,
+"",DE LOANE,42,"",9054KT,
+"",DE LOANE,44,"",9054KT,
+"",DE LOANE,46,"",9054KT,
+"",DE LOANE,48,"",9054KT,
+"",DE LOANE,50,"",9054KT,
+"",DE LOANE,52,"",9054KT,
+"",DE LOANE,54,"",9054KT,
+"",DE LOANE,56,"",9054KT,
+"",DE LOANE,58,"",9054KT,
+"",DE LOANE,60,"",9054KT,
+"",DE LOANE,60,"",9054KT,
+"",DE LOANE,62,"",9054KT,
+Brédyk,1,"","",9054LA,Hijum
+Brédyk,10,"","",9054LA,Hijum
+Brédyk,12,"","",9054LA,Hijum
+Brédyk,14,"","",9054LA,Hijum
+Brédyk,2,"","",9054LA,Hijum
+Brédyk,6,"","",9054LA,Hijum
+"",BRÉDYK,1,"",9054LA,
+"",BRÉDYK,10,"",9054LA,
+"",BRÉDYK,12,"",9054LA,
+"",BRÉDYK,14,"",9054LA,
+"",BRÉDYK,14,A,9054LA,
+"",BRÉDYK,2,"",9054LA,
+"",BRÉDYK,6,"",9054LA,
+Mieddyk,1,"","",9054LB,Hijum
+Mieddyk,2,"","",9054LB,Hijum
+Mieddyk,4,"","",9054LB,Hijum
+Mieddyk,5,"","",9054LB,Hijum
+Mieddyk,6,"","",9054LB,Hijum
+Mieddyk,7,"","",9054LB,Hijum
+Mieddyk,8,"","",9054LB,Hijum
+Mieddyk,9,"","",9054LB,Hijum
+"",MIEDDYK,1,"",9054LB,
+"",MIEDDYK,2,"",9054LB,
+"",MIEDDYK,4,"",9054LB,
+"",MIEDDYK,5,"",9054LB,
+"",MIEDDYK,6,"",9054LB,
+"",MIEDDYK,7,"",9054LB,
+"",MIEDDYK,8,"",9054LB,
+"",MIEDDYK,9,"",9054LB,
+Hege Hearewei,2,"","",9054LC,Hijum
+Hege Hearewei,2,"","",9054LC,Hijum
+Hege Hearewei,8,"","",9054LC,Hijum
+"",HEGE HEAREWEI,2,"",9054LC,
+"",HEGE HEAREWEI,8,"",9054LC,

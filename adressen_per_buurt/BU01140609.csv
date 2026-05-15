@@ -1,284 +1,145 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7833AN",56,"",""
-"7833AN",59,"",""
-"7833AN",56,"",""
-"7833AN",62,"",""
-"7833AN",43,"",""
-"7833AN",52,"",""
-"7833AN",57,"",""
-"7833AN",56,"",""
-"7833AN",57,"",""
-"7833AN",56,"",""
-"7833AN",51,"",""
-"7833AN",63,"",""
-"7833AN",50,"",""
-"7833AN",39,"",""
-"7833AP",73,"",""
-"7833AP",94,"A",""
-"7833AP",66,"",""
-"7833AP",67,"",""
-"7833AP",65,"",""
-"7833AP",64,"",""
-"7833AP",81,"",""
-"7833AP",94,"B",""
-"7833AP",88,"",""
-"7833AP",73,"",""
-"7833AP",88,"",""
-"7833AP",84,"",""
-"7833AP",99,"",""
-"7833AP",104,"",""
-"7833AP",82,"",""
-"7833AP",83,"",""
-"7833AP",88,"",""
-"7833AP",89,"",""
-"7833AP",97,"",""
-"7833AP",73,"",""
-"7833HR",44,"",""
-"7833HR",56,"",""
-"7833HR",62,"",""
-"7833HR",62,"",""
-"7833HR",45,"",""
-"7833HR",45,"",""
-"7833HR",54,"",""
-"7833HR",46,"",""
-"7833HR",62,"",""
-"7833HR",72,"",""
-"7833HR",72,"",""
-"7833HR",9999,"B",""
-"7833HS",34,"",""
-"7833HS",56,"",""
-"7833HS",54,"",""
-"7833HS",2,"","TR"
-"7833HS",54,"",""
-"7833HS",2,"",""
-"7833HS",2,"","TR"
-"7833HS",54,"",""
-"7833HS",54,"",""
-"7833HS",56,"",""
-"7833HS",32,"",""
-"7833HS",25,"",""
-"7833JD",50,"",""
-"7833JD",46,"",""
-"7833JD",45,"",""
-"7833JD",45,"",""
-"7833JD",48,"",""
-"7833JD",43,"",""
-"7833JD",52,"",""
-"7833JL",1,"","TR"
-"7833JL",9999,"A",""
-"7833JL",1,"","TR"
-"7833JL",2,"",""
-"7833JL",12,"",""
-"7833JL",1,"","TR"
-"7833JL",1,"",""
-"7833JM",5,"",""
-"7833JM",12,"",""
-"7833JM",6,"",""
-"7833JM",12,"",""
-"7833JM",11,"",""
-"7833JM",13,"",""
-"7833JM",18,"",""
-"7833JM",8,"",""
-"7833JM",16,"",""
-"7833JM",7,"",""
-"7833JN",80,"",""
-"7833JN",98,"",""
-"7833JN",80,"",""
-"7833JN",80,"",""
-"7833JP",44,"",""
-"7833JP",37,"",""
-"7833JP",200,"",""
-"7833JP",142,"",""
-"7833JP",132,"",""
-"7833JP",126,"",""
-"7833JP",133,"",""
-"7833JP",22,"",""
-"7833JP",138,"",""
-"7833JP",148,"",""
-"7833JP",156,"",""
-"7833JP",145,"",""
-"7833JW",93,"","NST"
-"7833JW",84,"",""
-"7833JW",83,"",""
-"7833JW",74,"",""
-"7833JW",93,"",""
-"7833JW",100,"",""
-"7833JW",93,"","NST"
-"7833JW",99,"",""
-"7833KB",55,"",""
-"7833KB",57,"",""
-"7833KB",65,"",""
-"7833KC",107,"",""
-"7833KC",78,"",""
-"7833KC",74,"",""
-"7833KC",82,"",""
-"7833KC",81,"",""
-"7833KC",81,"",""
-"7833KC",75,"",""
-"7833KC",72,"",""
-"7833KC",110,"",""
-"7833KC",89,"",""
-"7833KC",82,"",""
-"7833KC",92,"",""
-"7833KC",100,"",""
-"7833KC",73,"",""
-"7833KC",85,"",""
-"7833KC",95,"",""
-"7833KD",142,"",""
-"7833KD",142,"",""
-"7833KD",132,"",""
-"7833KD",150,"",""
-"7833KD",150,"",""
-"7833KD",113,"",""
-"7833KD",144,"",""
-"7833KD",123,"",""
-"7833KD",132,"",""
-"7833KD",144,"",""
-"7833KD",126,"",""
-"7833KD",139,"",""
-"7833KD",113,"",""
-"7833KD",150,"",""
-"7833KD",126,"",""
-"7833KD",123,"",""
-"7833KD",139,"",""
-"7833KD",115,"",""
-"7833KD",115,"",""
-7833HR,Dikkewijk OZ,72,,
-7833HR,Dikkewijk OZ,72,,
-7833KB,Dommerskanaal ZZ,55,,
-7833KC,Dommerskanaal ZZ,92,,
-7833KC,Dommerskanaal ZZ,110,,
-7833KC,Dommerskanaal ZZ,85,,
-7833KC,Dommerskanaal ZZ,75,,
-7833KC,Dommerskanaal ZZ,73,,
-7833JD,Verlengde Herendijk,46,,
-7833AN,Zijtak OZ,43,,
-7833AN,Zijtak OZ,39,,
-7833AP,Zijtak OZ,99,,
-7833AP,Zijtak OZ,97,,
-7833AP,Zijtak OZ,94,B,
-7833AP,Zijtak OZ,83,,
-7833HR,Dikkewijk OZ,56,,
-7833HR,Dikkewijk OZ,45,,
-7833HR,Dikkewijk OZ,46,,
-7833HS,Dikkewijk OZ,56,,
-7833HS,Dikkewijk WZ,56,,
-7833JL,Margienewijk OZ,12,,
-7833JM,Margienewijk WZ,12,,
-7833JM,Margienewijk WZ,12,,
-7833JP,Verlengde Wilhelmsweg,37,,
-7833JP,Verlengde Wilhelmsweg,142,,
-7833AP,Zijtak OZ,88,,
-7833AP,Zijtak OZ,88,,
-7833AP,Zijtak OZ,88,,
-7833AP,Zijtak OZ,81,,
-7833HS,Dikkewijk WZ,34,,
-7833KB,Dommerskanaal ZZ,57,,
-7833KD,Dommerskanaal ZZ,126,,
-7833KD,Dommerskanaal ZZ,126,,
-7833KD,Dommerskanaal ZZ,139,,
-7833KD,Dommerskanaal ZZ,139,,
-7833KD,Dommerskanaal ZZ,150,,
-7833KD,Dommerskanaal ZZ,150,,
-7833KD,Dommerskanaal ZZ,150,,
-7833JW,Erfscheidenweg,84,,
-7833JW,Erfscheidenweg,74,,
-7833JW,Erfscheidenweg,100,,
-7833JL,Margienewijk OZ,2,,
-7833JN,Siepeldijk,98,,
-7833JP,Verlengde Wilhelmsweg,156,,
-7833AN,Zijtak OZ,57,,
-7833AN,Zijtak OZ,57,,
-7833AN,Zijtak OZ,62,,
-7833AN,Zijtak OZ,59,,
-7833AP,Zijtak OZ,84,,
-7833HS,Dikkewijk WZ,32,,
-7833KB,Dommerskanaal ZZ,65,,
-7833KC,Dommerskanaal ZZ,78,,
-7833KD,Dommerskanaal ZZ,132,,
-7833KD,Dommerskanaal ZZ,132,,
-7833JL,Margienewijk OZ,9999,A,
-7833JL,Margienewijk OZ,1,,
-7833JM,Margienewijk WZ,8,,
-7833JP,Verlengde Wilhelmsweg,138,,
-7833AN,Zijtak OZ,63,,
-7833HS,Dikkewijk WZ,25,,
-7833KC,Dommerskanaal ZZ,89,,
-7833KC,Dommerskanaal ZZ,95,,
-7833KC,Dommerskanaal ZZ,82,,
-7833KC,Dommerskanaal ZZ,82,,
-7833KC,Dommerskanaal ZZ,81,,
-7833KC,Dommerskanaal ZZ,81,,
-7833KC,Dommerskanaal ZZ,72,,
-7833KD,Dommerskanaal ZZ,142,,
-7833KD,Dommerskanaal ZZ,142,,
-7833KD,Dommerskanaal ZZ,113,,
-7833KD,Dommerskanaal ZZ,113,,
-7833KD,Dommerskanaal ZZ,144,,
-7833KD,Dommerskanaal ZZ,144,,
-7833JM,Margienewijk WZ,11,,
-7833JM,Margienewijk WZ,18,,
-7833JD,Verlengde Herendijk,50,,
-7833JP,Verlengde Wilhelmsweg,133,,
-7833AN,Zijtak OZ,50,,
-7833AP,Zijtak OZ,64,,
-7833HR,Dikkewijk OZ,9999,B,
-7833HR,Dikkewijk OZ,62,,
-7833KC,Dommerskanaal ZZ,100,,
-7833KC,Dommerskanaal ZZ,74,,
-7833KD,Dommerskanaal ZZ,123,,
-7833KD,Dommerskanaal ZZ,123,,
-7833JW,Erfscheidenweg,83,,
-7833JW,Erfscheidenweg,99,,
-7833JM,Margienewijk WZ,13,,
-7833JM,Margienewijk WZ,16,,
-7833JP,Verlengde Wilhelmsweg,126,,
-7833AN,Zijtak OZ,52,,
-7833AP,Zijtak OZ,94,A,
-7833AP,Zijtak OZ,104,,
-7833AP,Zijtak OZ,89,,
-7833AP,Zijtak OZ,82,,
-7833AP,Zijtak OZ,73,,
-7833AP,Zijtak OZ,73,,
-7833AP,Zijtak OZ,73,,
-7833HR,Dikkewijk OZ,44,,
-7833HS,Dikkewijk WZ,2,,
-7833KC,Dommerskanaal ZZ,107,,
-7833KD,Dommerskanaal ZZ,115,,
-7833KD,Dommerskanaal ZZ,115,,
-7833JW,Erfscheidenweg,93,,
-7833JW,Erfscheidenweg,93,,NST
-7833JM,Margienewijk WZ,7,,
-7833JP,Scheidingsweg,44,,
-7833JP,Verlengde Wilhelmsweg,22,,
-7833JP,Verlengde Wilhelmsweg,145,,
-7833JP,Verlengde Wilhelmsweg,148,,
-7833JP,Verlengde Wilhelmsweg,132,,
-7833AN,Zijtak OZ,51,,
-7833AP,Zijtak OZ,65,,
-7833AP,Zijtak OZ,66,,
-7833JN,Siepeldijk,80,,
-7833JN,Siepeldijk,80,,
-7833JN,Siepeldijk,80,,
-7833JD,Verlengde Herendijk,43,,
-7833JP,Verlengde Wilhelmsweg,200,,
-7833AN,Zijtak OZ,56,,
-7833AN,Zijtak OZ,56,,
-7833AN,Zijtak OZ,56,,
-7833AP,Zijtak OZ,67,,
-7833HR,Dikkewijk OZ,54,,
-7833HS,Dikkewijk OZ,54,,
-7833HS,Dikkewijk OZ,54,,
-7833HS,Dikkewijk OZ,54,,
-7833HS,Dikkewijk OZ,54,,
-7833HS,Dikkewijk WZ,2,,TR
-7833HS,Dikkewijk WZ,2,,TR
-7833JL,Margienewijk OZ,1,,TR
-7833JL,Margienewijk OZ,1,,TR
-7833JL,Margienewijk OZ,1,,TR
-7833JD,Verlengde Herendijk,45,,
-7833JD,Verlengde Herendijk,45,,
-7833JD,Verlengde Herendijk,48,,
-7833JM,Margienewijk WZ,5,,
-7833JM,Margienewijk WZ,6,,
-7833JD,Verlengde Herendijk,52,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zijtak OZ,39,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,43,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,50,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,51,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,52,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,56,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,56,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,56,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,56,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,57,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,57,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,59,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,62,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,63,"","",7833AN,Nieuw-Amsterdam
+Zijtak OZ,104,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,64,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,65,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,66,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,67,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,73,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,73,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,73,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,81,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,82,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,83,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,84,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,88,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,88,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,88,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,89,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,94,A,"",7833AP,Nieuw-Amsterdam
+Zijtak OZ,94,B,"",7833AP,Nieuw-Amsterdam
+Zijtak OZ,97,"","",7833AP,Nieuw-Amsterdam
+Zijtak OZ,99,"","",7833AP,Nieuw-Amsterdam
+Dikkewijk OZ,44,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,45,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,45,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,46,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,54,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,56,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,62,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,62,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,62,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,72,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,72,"","",7833HR,Nieuw-Amsterdam
+Dikkewijk OZ,9999,B,"",7833HR,Nieuw-Amsterdam
+Dikkewijk WZ,2,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,2,"",TR,7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,2,"",TR,7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,25,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,32,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,34,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk OZ,54,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk OZ,54,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk OZ,54,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk OZ,54,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,56,"","",7833HS,Nieuw-Amsterdam
+Dikkewijk WZ,56,"","",7833HS,Nieuw-Amsterdam
+Verlengde Herendijk,43,"","",7833JD,Nieuw-Amsterdam
+Verlengde Herendijk,45,"","",7833JD,Nieuw-Amsterdam
+Verlengde Herendijk,45,"","",7833JD,Nieuw-Amsterdam
+Verlengde Herendijk,46,"","",7833JD,Nieuw-Amsterdam
+Verlengde Herendijk,48,"","",7833JD,Nieuw-Amsterdam
+Verlengde Herendijk,50,"","",7833JD,Nieuw-Amsterdam
+Verlengde Herendijk,52,"","",7833JD,Nieuw-Amsterdam
+Margienewijk OZ,1,"","",7833JL,Nieuw-Amsterdam
+Margienewijk OZ,1,"",TR,7833JL,Nieuw-Amsterdam
+Margienewijk OZ,1,"",TR,7833JL,Nieuw-Amsterdam
+Margienewijk OZ,1,"",TR,7833JL,Nieuw-Amsterdam
+Margienewijk OZ,12,"","",7833JL,Nieuw-Amsterdam
+Margienewijk OZ,2,"","",7833JL,Nieuw-Amsterdam
+Margienewijk OZ,9999,A,"",7833JL,Nieuw-Amsterdam
+Margienewijk WZ,11,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,12,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,12,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,13,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,16,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,18,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,5,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,6,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,7,"","",7833JM,Nieuw-Amsterdam
+Margienewijk WZ,8,"","",7833JM,Nieuw-Amsterdam
+Siepeldijk,80,"","",7833JN,Nieuw-Amsterdam
+Siepeldijk,80,"","",7833JN,Nieuw-Amsterdam
+Siepeldijk,80,"","",7833JN,Nieuw-Amsterdam
+Siepeldijk,98,"","",7833JN,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,126,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,132,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,133,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,138,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,142,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,145,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,148,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,156,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,200,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,22,"","",7833JP,Nieuw-Amsterdam
+Verlengde Wilhelmsweg,37,"","",7833JP,Nieuw-Amsterdam
+Scheidingsweg,44,"","",7833JP,Nieuw-Amsterdam
+Erfscheidenweg,100,"","",7833JW,Nieuw-Amsterdam
+Erfscheidenweg,74,"","",7833JW,Nieuw-Amsterdam
+Erfscheidenweg,83,"","",7833JW,Nieuw-Amsterdam
+Erfscheidenweg,84,"","",7833JW,Nieuw-Amsterdam
+Erfscheidenweg,93,"","",7833JW,Nieuw-Amsterdam
+Erfscheidenweg,93,"",NST,7833JW,Nieuw-Amsterdam
+Erfscheidenweg,93,"",NST,7833JW,Nieuw-Amsterdam
+Erfscheidenweg,99,"","",7833JW,Nieuw-Amsterdam
+Dommerskanaal ZZ,55,"","",7833KB,Nieuw-Amsterdam
+Dommerskanaal ZZ,57,"","",7833KB,Nieuw-Amsterdam
+Dommerskanaal ZZ,65,"","",7833KB,Nieuw-Amsterdam
+Dommerskanaal ZZ,100,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,107,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,110,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,72,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,73,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,74,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,75,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,78,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,81,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,81,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,82,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,82,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,85,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,89,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,92,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,95,"","",7833KC,Nieuw-Amsterdam
+Dommerskanaal ZZ,113,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,113,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,115,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,115,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,123,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,123,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,126,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,126,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,132,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,132,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,139,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,139,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,142,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,142,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,144,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,144,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,150,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,150,"","",7833KD,Nieuw-Amsterdam
+Dommerskanaal ZZ,150,"","",7833KD,Nieuw-Amsterdam

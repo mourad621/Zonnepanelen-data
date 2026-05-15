@@ -1,39 +1,39 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6325PE,Rijksweg,6,A,
-6325PE,Rijksweg,6,B,
-6325PE,Rijksweg,6,C,
-6325PE,Rijksweg,1,,
-6325PE,Rijksweg,4,,
-6325PE,Rijksweg,4,A,
-6325PE,Rijksweg,7,,
-6325PE,Rijksweg,8,,
-6325PE,Rijksweg,3,,
-6325PE,Rijksweg,5,,
-6325PE,Rijksweg,5,A,
-6325PE,Rijksweg,5,B,
-6325PE,Rijksweg,6,,
-6325PE,Rijksweg,2,,
-6325PE,Rijksweg,2,A,
-6325PG,Schansweg,1,,
-6325PG,Schansweg,5,,
-6325PG,Schansweg,28,,
-6325PG,Schansweg,30,,
-6325PG,Schansweg,32,,
-6325PG,Schansweg,34,,
-6325PG,Schansweg,36,,
-6325PG,Schansweg,38,,
-6325PG,Schansweg,40,,
-6325PG,Schansweg,42,,
-6325PG,Schansweg,44,,
-6325PG,Schansweg,46,,
-6325PG,Schansweg,48,,
-6325PG,Schansweg,50,,
-6325PG,Schansweg,52,,
-6325PG,Schansweg,54,,
-6325PG,Schansweg,56,,
-6325PG,Schansweg,2,,
-6325PG,Schansweg,3,,
-6325PE,Rijksweg,8,A,
-6325PE,Rijksweg,5,A,2
-6325PE,Rijksweg,5,A,1
-6325PE,Rijksweg,2,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rijksweg,1,"","",6325PE,Berg en Terblijt
+Rijksweg,2,"","",6325PE,Berg en Terblijt
+Rijksweg,2,A,"",6325PE,Berg en Terblijt
+Rijksweg,2,A,"",6325PE,Berg en Terblijt
+Rijksweg,3,"","",6325PE,Berg en Terblijt
+Rijksweg,4,"","",6325PE,Berg en Terblijt
+Rijksweg,4,A,"",6325PE,Berg en Terblijt
+Rijksweg,5,"","",6325PE,Berg en Terblijt
+Rijksweg,5,A,"",6325PE,Berg en Terblijt
+Rijksweg,5,A,1,6325PE,Berg en Terblijt
+Rijksweg,5,A,2,6325PE,Berg en Terblijt
+Rijksweg,5,B,"",6325PE,Berg en Terblijt
+Rijksweg,6,"","",6325PE,Berg en Terblijt
+Rijksweg,6,A,"",6325PE,Berg en Terblijt
+Rijksweg,6,B,"",6325PE,Berg en Terblijt
+Rijksweg,6,C,"",6325PE,Berg en Terblijt
+Rijksweg,7,"","",6325PE,Berg en Terblijt
+Rijksweg,8,"","",6325PE,Berg en Terblijt
+Rijksweg,8,A,"",6325PE,Berg en Terblijt
+Schansweg,1,"","",6325PG,Berg en Terblijt
+Schansweg,2,"","",6325PG,Berg en Terblijt
+Schansweg,28,"","",6325PG,Berg en Terblijt
+Schansweg,3,"","",6325PG,Berg en Terblijt
+Schansweg,30,"","",6325PG,Berg en Terblijt
+Schansweg,32,"","",6325PG,Berg en Terblijt
+Schansweg,34,"","",6325PG,Berg en Terblijt
+Schansweg,36,"","",6325PG,Berg en Terblijt
+Schansweg,38,"","",6325PG,Berg en Terblijt
+Schansweg,40,"","",6325PG,Berg en Terblijt
+Schansweg,42,"","",6325PG,Berg en Terblijt
+Schansweg,44,"","",6325PG,Berg en Terblijt
+Schansweg,46,"","",6325PG,Berg en Terblijt
+Schansweg,48,"","",6325PG,Berg en Terblijt
+Schansweg,5,"","",6325PG,Berg en Terblijt
+Schansweg,50,"","",6325PG,Berg en Terblijt
+Schansweg,52,"","",6325PG,Berg en Terblijt
+Schansweg,54,"","",6325PG,Berg en Terblijt
+Schansweg,56,"","",6325PG,Berg en Terblijt

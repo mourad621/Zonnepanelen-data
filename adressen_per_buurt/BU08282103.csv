@@ -1,72 +1,72 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5398KC,Leeuwkesgraaf,3,,
-5398KC,Leeuwkesgraaf,3,A,
-5398KC,Leeuwkesgraaf,10,,
-5398KC,Leeuwkesgraaf,12,,
-5398KC,Leeuwkesgraaf,16,,
-5398KC,Leeuwkesgraaf,16,,ZHS
-5398KC,Leeuwkesgraaf,18,,
-5398KC,Leeuwkesgraaf,15,,
-5398KC,Leeuwkesgraaf,13,,BY
-5398KC,Leeuwkesgraaf,13,A,
-5398KC,Leeuwkesgraaf,13,,
-5398KC,Leeuwkesgraaf,4,,
-5398KC,Leeuwkesgraaf,5,,
-5398KC,Leeuwkesgraaf,10,A,
-5398KG,Nieuwe Provincialeweg,1,,
-5398KG,Nieuwe Provincialeweg,3,,
-5398KG,Nieuwe Provincialeweg,3,A,
-5398KG,Nieuwe Provincialeweg,11,,
-5398KG,Nieuwe Provincialeweg,15,,
-5398KG,Nieuwe Provincialeweg,21,,
-5398KG,Nieuwe Provincialeweg,1,A,
-5398KG,Nieuwe Provincialeweg,3,B,
-5398KG,Nieuwe Provincialeweg,5,,
-5398KG,Nieuwe Provincialeweg,19,,
-5398KG,Nieuwe Provincialeweg,23,A,
-5398KG,Nieuwe Provincialeweg,25,,
-5398KJ,Nieuweweg,2,,
-5398KJ,Nieuweweg,1,,
-5398KJ,Nieuweweg,4,,
-5398KJ,Nieuweweg,1,A,
-5398KB,Paalderweg,1,A,
-5398KB,Paalderweg,5,,
-5398KB,Paalderweg,1,B,
-5398KB,Paalderweg,1,,
-5398KA,Wildseweg,1,A,
-5398KA,Wildseweg,4,,
-5398KA,Wildseweg,1,,BY
-5398KA,Wildseweg,2,,
-5398KD,Zandenweg,4,,
-5398KD,Zandenweg,1,E,
-5398KD,Zandenweg,3,,
-5398KD,Zandenweg,3,A,
-5398KD,Zandenweg,1,B,
-5398KD,Zandenweg,1,C,
-5398KD,Zandenweg,1,D,
-5398KD,Zandenweg,1,F,
-5398KA,Wildseweg,3,,
-5398KC,Leeuwkesgraaf,2,,
-5398KG,Nieuwe Provincialeweg,9,,
-5398KG,Nieuwe Provincialeweg,7,,
-5398KG,Nieuwe Provincialeweg,23,,
-5398KJ,Nieuweweg,3,,
-5398KA,Wildseweg,1,,BEDR
-5398KA,Wildseweg,1,,
-5398KD,Zandenweg,1,,
-5398KD,Zandenweg,2,,
-5398KD,Zandenweg,1,A,
-5398KC,Leeuwkesgraaf,1,,
-5398KC,Leeuwkesgraaf,6,,
-5398KD,Zandenweg,2,A,
-5398KC,Leeuwkesgraaf,10,,UNIT
-5398KC,Leeuwkesgraaf,3,C,
-5398KC,Leeuwkesgraaf,16,,
-5398KC,Leeuwkesgraaf,8,,
-5398KC,Leeuwkesgraaf,15,,
-5398KC,Leeuwkesgraaf,13,,MZ1
-5398KC,Leeuwkesgraaf,13,,MZ2
-5398KC,Leeuwkesgraaf,13,,MZ3
-5398KD,Zandenweg,2,B,
-5398KD,Zandenweg,3,,
-5398KG,Nieuwe Provincialeweg,21,,MZ
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Wildseweg,1,"","",5398KA,Maren-Kessel
+Wildseweg,1,"",BEDR,5398KA,Maren-Kessel
+Wildseweg,1,"",BY,5398KA,Maren-Kessel
+Wildseweg,1,A,"",5398KA,Maren-Kessel
+Wildseweg,2,"","",5398KA,Maren-Kessel
+Wildseweg,3,"","",5398KA,Maren-Kessel
+Wildseweg,4,"","",5398KA,Maren-Kessel
+Paalderweg,1,"","",5398KB,Maren-Kessel
+Paalderweg,1,A,"",5398KB,Maren-Kessel
+Paalderweg,1,B,"",5398KB,Maren-Kessel
+Paalderweg,5,"","",5398KB,Maren-Kessel
+Leeuwkesgraaf,1,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,10,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,10,"",UNIT,5398KC,Maren-Kessel
+Leeuwkesgraaf,10,A,"",5398KC,Maren-Kessel
+Leeuwkesgraaf,12,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,13,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,13,"",BY,5398KC,Maren-Kessel
+Leeuwkesgraaf,13,"",MZ1,5398KC,Maren-Kessel
+Leeuwkesgraaf,13,"",MZ2,5398KC,Maren-Kessel
+Leeuwkesgraaf,13,"",MZ3,5398KC,Maren-Kessel
+Leeuwkesgraaf,13,A,"",5398KC,Maren-Kessel
+Leeuwkesgraaf,15,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,15,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,16,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,16,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,16,"",ZHS,5398KC,Maren-Kessel
+Leeuwkesgraaf,18,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,2,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,3,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,3,A,"",5398KC,Maren-Kessel
+Leeuwkesgraaf,3,C,"",5398KC,Maren-Kessel
+Leeuwkesgraaf,4,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,5,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,6,"","",5398KC,Maren-Kessel
+Leeuwkesgraaf,8,"","",5398KC,Maren-Kessel
+Zandenweg,1,"","",5398KD,Maren-Kessel
+Zandenweg,1,A,"",5398KD,Maren-Kessel
+Zandenweg,1,B,"",5398KD,Maren-Kessel
+Zandenweg,1,C,"",5398KD,Maren-Kessel
+Zandenweg,1,D,"",5398KD,Maren-Kessel
+Zandenweg,1,E,"",5398KD,Maren-Kessel
+Zandenweg,1,F,"",5398KD,Maren-Kessel
+Zandenweg,2,"","",5398KD,Maren-Kessel
+Zandenweg,2,A,"",5398KD,Maren-Kessel
+Zandenweg,2,B,"",5398KD,Maren-Kessel
+Zandenweg,3,"","",5398KD,Maren-Kessel
+Zandenweg,3,"","",5398KD,Maren-Kessel
+Zandenweg,3,A,"",5398KD,Maren-Kessel
+Zandenweg,4,"","",5398KD,Maren-Kessel
+Nieuwe Provincialeweg,1,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,1,A,"",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,11,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,15,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,19,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,21,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,21,"",MZ,5398KG,Maren-Kessel
+Nieuwe Provincialeweg,23,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,23,A,"",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,25,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,3,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,3,A,"",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,3,B,"",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,5,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,7,"","",5398KG,Maren-Kessel
+Nieuwe Provincialeweg,9,"","",5398KG,Maren-Kessel
+Nieuweweg,1,"","",5398KJ,Maren-Kessel
+Nieuweweg,1,A,"",5398KJ,Maren-Kessel
+Nieuweweg,2,"","",5398KJ,Maren-Kessel
+Nieuweweg,3,"","",5398KJ,Maren-Kessel
+Nieuweweg,4,"","",5398KJ,Maren-Kessel

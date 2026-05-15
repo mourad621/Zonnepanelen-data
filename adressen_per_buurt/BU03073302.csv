@@ -1,52 +1,52 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3825BT,Valutaboulevard,24,,
-3825BT,Valutaboulevard,30,,
-3825BT,Valutaboulevard,16,,
-3825HA,Euroweg,25,,
-3825HA,Euroweg,27,,
-3825HB,Euroweg,95,,
-3825HB,Euroweg,101,,
-3825BT,Valutaboulevard,20,,
-3825HA,Euroweg,41,,
-3825HC,Duitse Mark,1,,
-3825HD,Euroweg,2,,
-3825HA,Euroweg,39,,
-3825BT,Valutaboulevard,32,,
-3825HA,Euroweg,21,,
-3825HB,Euroweg,97,,
-3825BT,Valutaboulevard,28,,
-3825HB,Euroweg,91,,
-3825HA,Euroweg,27,,
-3825HB,Euroweg,93,,
-3825HD,Euroweg,20,,
-3825BT,Valutaboulevard,14,,
-3825BT,Valutaboulevard,16,C,
-3825HK,Ierse Pond,2,,
-3825HA,Euroweg,29,,
-3825HA,Euroweg,29,A,
-3825HA,Euroweg,31,,
-3825HA,Euroweg,31,A,
-3825HA,Euroweg,33,,
-3825HA,Euroweg,33,A,
-3825HA,Euroweg,35,,
-3825HA,Euroweg,35,A,
-3825HA,Euroweg,39,,
-3825HA,Euroweg,39,A,
-3825HA,Euroweg,1,,
-3825HA,Euroweg,17,,
-3825HA,Euroweg,35,,
-3825HB,Euroweg,99,,
-3825HD,Euroweg,90,,
-3825HD,Euroweg,100,,
-3825HD,Euroweg,22,,
-3825HD,Euroweg,98,,
-3825HE,Belgische Frank,2,,
-3825HE,Belgische Frank,6,,
-3825BT,Valutaboulevard,34,,
-3825HK,Ierse Pond,2,A,
-3825HA,Euroweg,23,,
-3825HD,Euroweg,18,,
-3825HD,Euroweg,20,A,
-3825HD,Euroweg,40,,
-3825BT,Valutaboulevard,18,,
-3825HD,Euroweg,40,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Valutaboulevard,14,"","",3825BT,Amersfoort
+Valutaboulevard,16,"","",3825BT,Amersfoort
+Valutaboulevard,16,C,"",3825BT,Amersfoort
+Valutaboulevard,18,"","",3825BT,Amersfoort
+Valutaboulevard,20,"","",3825BT,Amersfoort
+Valutaboulevard,24,"","",3825BT,Amersfoort
+Valutaboulevard,28,"","",3825BT,Amersfoort
+Valutaboulevard,30,"","",3825BT,Amersfoort
+Valutaboulevard,32,"","",3825BT,Amersfoort
+Valutaboulevard,34,"","",3825BT,Amersfoort
+Euroweg,1,"","",3825HA,Amersfoort
+Euroweg,17,"","",3825HA,Amersfoort
+Euroweg,21,"","",3825HA,Amersfoort
+Euroweg,23,"","",3825HA,Amersfoort
+Euroweg,25,"","",3825HA,Amersfoort
+Euroweg,27,"","",3825HA,Amersfoort
+Euroweg,27,"","",3825HA,Amersfoort
+Euroweg,29,"","",3825HA,Amersfoort
+Euroweg,29,A,"",3825HA,Amersfoort
+Euroweg,31,"","",3825HA,Amersfoort
+Euroweg,31,A,"",3825HA,Amersfoort
+Euroweg,33,"","",3825HA,Amersfoort
+Euroweg,33,A,"",3825HA,Amersfoort
+Euroweg,35,"","",3825HA,Amersfoort
+Euroweg,35,"","",3825HA,Amersfoort
+Euroweg,35,A,"",3825HA,Amersfoort
+Euroweg,39,"","",3825HA,Amersfoort
+Euroweg,39,"","",3825HA,Amersfoort
+Euroweg,39,A,"",3825HA,Amersfoort
+Euroweg,41,"","",3825HA,Amersfoort
+Euroweg,101,"","",3825HB,Amersfoort
+Euroweg,91,"","",3825HB,Amersfoort
+Euroweg,93,"","",3825HB,Amersfoort
+Euroweg,95,"","",3825HB,Amersfoort
+Euroweg,97,"","",3825HB,Amersfoort
+Euroweg,99,"","",3825HB,Amersfoort
+Duitse Mark,1,"","",3825HC,Amersfoort
+Euroweg,100,"","",3825HD,Amersfoort
+Euroweg,18,"","",3825HD,Amersfoort
+Euroweg,2,"","",3825HD,Amersfoort
+Euroweg,20,"","",3825HD,Amersfoort
+Euroweg,20,A,"",3825HD,Amersfoort
+Euroweg,22,"","",3825HD,Amersfoort
+Euroweg,40,"","",3825HD,Amersfoort
+Euroweg,40,"","",3825HD,Amersfoort
+Euroweg,90,"","",3825HD,Amersfoort
+Euroweg,98,"","",3825HD,Amersfoort
+Belgische Frank,2,"","",3825HE,Amersfoort
+Belgische Frank,6,"","",3825HE,Amersfoort
+Ierse Pond,2,"","",3825HK,Amersfoort
+Ierse Pond,2,A,"",3825HK,Amersfoort

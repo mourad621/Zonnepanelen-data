@@ -1,348 +1,177 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9215MA",16,"",""
-"9215MA",4,"",""
-"9215MA",14,"",""
-"9215MA",5,"",""
-"9215MA",8,"",""
-"9215VN",3,"",""
-"9215VN",5,"",""
-"9215VN",7,"",""
-"9215VN",9,"",""
-"9215VN",1,"",""
-"9215VP",7,"a",""
-"9215VP",8,"",""
-"9215VP",300,"",""
-"9215VP",7,"",""
-"9215VP",302,"",""
-"9215VP",6,"",""
-"9215VP",301,"",""
-"9215VP",303,"",""
-"9215VR",303,"",""
-"9215VR",301,"",""
-"9215VR",302,"",""
-"9215VR",300,"",""
-"9215VR",303,"",""
-"9215VR",301,"",""
-"9215VR",302,"",""
-"9215VS",16,"",""
-"9215VS",38,"",""
-"9215VS",40,"",""
-"9215VS",41,"",""
-"9215VS",37,"",""
-"9215VS",42,"a",""
-"9215VS",49,"",""
-"9215VS",11,"",""
-"9215VS",17,"",""
-"9215VS",5,"",""
-"9215VS",29,"a",""
-"9215VS",30,"",""
-"9215VS",42,"",""
-"9215VS",20,"",""
-"9215VS",22,"",""
-"9215VS",29,"a",""
-"9215VS",29,"",""
-"9215VS",29,"",""
-"9215VS",24,"",""
-"9215VS",16,"a",""
-"9215VS",29,"",""
-"9215VS",29,"a",""
-"9215VS",19,"",""
-"9215VS",29,"b",""
-"9215VS",29,"b",""
-"9215VT",26,"",""
-"9215VT",9,"",""
-"9215VT",21,"",""
-"9215VT",16,"a",""
-"9215VT",22,"",""
-"9215VT",23,"",""
-"9215VT",16,"",""
-"9215VT",16,"b",""
-"9215VT",6,"",""
-"9215VT",35,"",""
-"9215VT",28,"",""
-"9215VT",14,"",""
-"9215VT",25,"",""
-"9215VT",3,"",""
-"9215VT",1,"",""
-"9215VT",16,"",""
-"9215VT",16,"",""
-"9215VT",39,"",""
-"9215VT",39,"a",""
-"9215VT",41,"",""
-"9215VV",5,"",""
-"9215VV",6,"","5"
-"9215VV",4,"a",""
-"9215VV",6,"","4"
-"9215VV",6,"","5"
-"9215VV",6,"","10"
-"9215VV",5,"","4"
-"9215VV",5,"",""
-"9215VV",5,"",""
-"9215VV",6,"","12"
-"9215VV",6,"","1"
-"9215VV",5,"",""
-"9215VV",6,"","6"
-"9215VV",6,"","9"
-"9215VV",6,"","2"
-"9215VV",5,"","3"
-"9215VV",6,"","2"
-"9215VV",6,"","11"
-"9215VV",6,"","3"
-"9215VV",6,"",""
-"9215VV",2,"",""
-"9215VV",7,"a",""
-"9215VV",7,"",""
-"9215VV",10,"",""
-"9215VV",6,"","3"
-"9215VV",6,"","4"
-"9215VV",6,"",""
-"9215VV",8,"",""
-"9215VV",14,"",""
-"9215VV",5,"","2"
-"9215VV",6,"","7"
-"9215VV",6,"","13"
-"9215VV",5,"","8"
-"9215VV",5,"","6"
-"9215VV",6,"","14"
-"9215VV",5,"","5"
-"9215VV",6,"","6"
-"9215VV",4,"",""
-"9215VV",6,"","8"
-"9215VV",6,"","1"
-"9215VV",5,"","7"
-"9215VV",5,"","1"
-"9215VW",9,"",""
-"9215VW",5,"",""
-"9215VW",7,"",""
-"9215VX",7,"",""
-"9215VX",23,"",""
-"9215VX",15,"a",""
-"9215VX",3,"",""
-"9215VX",2,"",""
-"9215VX",1,"",""
-"9215VX",21,"",""
-"9215VX",22,"",""
-"9215VX",5,"",""
-"9215VX",12,"",""
-"9215VX",17,"",""
-"9215VX",16,"",""
-"9215VX",15,"",""
-"9215VX",10,"",""
-"9215VX",11,"",""
-"9215VX",6,"",""
-"9215VX",13,"",""
-"9215VX",8,"",""
-"9215VX",20,"",""
-"9215VX",4,"",""
-"9215VX",9,"",""
-"9215VZ",20,"a",""
-"9215VZ",14,"",""
-"9215VZ",18,"","1"
-"9215VZ",22,"",""
-"9215VZ",18,"a",""
-"9215VZ",1,"c",""
-"9215VZ",16,"d",""
-"9215VZ",36,"",""
-"9215VZ",14,"a",""
-"9215VZ",16,"e",""
-"9215VZ",16,"a",""
-"9215VZ",16,"c",""
-"9215VZ",1,"e",""
-"9215VZ",16,"",""
-"9215VZ",7,"",""
-"9215VZ",40,"",""
-"9215VZ",33,"",""
-"9215VZ",6,"",""
-"9215VZ",38,"",""
-"9215VZ",16,"f",""
-"9215VZ",20,"a",""
-"9215VZ",16,"b",""
-"9215VZ",12,"",""
-"9215VZ",1,"d",""
-"9215VZ",14,"b",""
-"9215VZ",20,"",""
-"9215VZ",18,"","1"
-"9215VZ",18,"","1"
-"9215VZ",5,"",""
-"9215VZ",18,"",""
-"9215VZ",21,"",""
-"9215VZ",15,"",""
-"9215VZ",27,"",""
-"9215VZ",1,"a",""
-"9215VZ",8,"",""
-"9215VZ",1,"",""
-"9215VZ",10,"",""
-"9215VZ",16,"g",""
-"9215VZ",9,"",""
-"9215VZ",1,"b",""
-9215VP,De Flearbosk,6,,
-9215VV,Eijzengapaed,14,,
-9215VV,Eijzengapaed,8,,
-9215VV,Eijzengapaed,7,,
-9215VZ,Kraenlânswei,6,,
-9215VZ,Kraenlânswei,14,,
-9215VZ,Kraenlânswei,18,a,
-9215VZ,Kraenlânswei,12,,
-9215VZ,Kraenlânswei,14,a,
-9215VZ,Kraenlânswei,16,,
-9215VZ,Kraenlânswei,21,,
-9215VZ,Kraenlânswei,33,,
-9215MA,Krúswei,16,,
-9215MA,Krúswei,4,,
-9215VX,Slûswei,1,,
-9215VX,Slûswei,6,,
-9215VX,Slûswei,7,,
-9215VX,Slûswei,5,,
-9215VS,Drachtster Heawei,11,,
-9215VS,Drachtster Heawei,22,,
-9215VS,Drachtster Heawei,38,,
-9215VS,Drachtster Heawei,40,,
-9215MA,Klûsewei,5,,
-9215VT,Kanaeldyk,22,,
-9215VT,Kanaeldyk,1,,
-9215VW,Boarnburgumer Heawei,9,,
-9215VV,Eijzengapaed,10,,
-9215VV,Eijzengapaed,2,,
-9215VZ,Kraenlânswei,5,,
-9215VZ,Kraenlânswei,22,,
-9215VZ,Kraenlânswei,38,,
-9215VZ,Kraenlânswei,9,,
-9215VZ,Kraenlânswei,7,,
-9215VZ,Kraenlânswei,16,a,
-9215VZ,Kraenlânswei,36,,
-9215VX,Slûswei,10,,
-9215VX,Slûswei,8,,
-9215VX,Slûswei,13,,
-9215VS,Drachtster Heawei,5,,
-9215VS,Drachtster Heawei,17,,
-9215VS,Drachtster Heawei,37,,
-9215VS,Drachtster Heawei,41,,
-9215VS,Drachtster Heawei,30,,
-9215VS,Drachtster Heawei,42,,
-9215VS,Drachtster Heawei,49,,
-9215VS,Drachtster Heawei,29,,
-9215VN,'t Stalt,1,,
-9215VN,'t Stalt,3,,
-9215VT,Kanaeldyk,35,,
-9215VT,Kanaeldyk,16,,
-9215VT,Kanaeldyk,28,,
-9215VT,Kanaeldyk,9,,
-9215VT,Kanaeldyk,3,,
-9215VT,Kanaeldyk,6,,
-9215VT,Kanaeldyk,21,,
-9215VT,Kanaeldyk,41,,
-9215VW,Boarnburgumer Heawei,5,,
-9215VW,Boarnburgumer Heawei,7,,
-9215VP,De Flearbosk,7,,
-9215VP,De Flearbosk,8,,
-9215VV,Eijzengapaed,4,a,
-9215VV,Eijzengapaed,4,,
-9215VZ,Kraenlânswei,8,,
-9215VZ,Kraenlânswei,16,d,
-9215VZ,Kraenlânswei,40,,
-9215VZ,Kraenlânswei,16,e,
-9215VZ,Kraenlânswei,16,f,
-9215VZ,Kraenlânswei,20,,
-9215VZ,Kraenlânswei,27,,
-9215VZ,Kraenlânswei,16,b,
-9215VZ,Kraenlânswei,14,b,
-9215VZ,Kraenlânswei,1,,
-9215VZ,Kraenlânswei,10,,
-9215VZ,Kraenlânswei,18,,1
-9215VZ,Kraenlânswei,15,,
-9215MA,Krúswei,14,,
-9215MA,Krúswei,8,,
-9215VX,Slûswei,12,,
-9215VX,Slûswei,3,,
-9215VX,Slûswei,4,,
-9215VX,Slûswei,15,,
-9215VX,Slûswei,16,,
-9215VX,Slûswei,11,,
-9215VS,Drachtster Heawei,42,a,
-9215VS,Drachtster Heawei,24,,
-9215VS,Drachtster Heawei,20,,
-9215VN,'t Stalt,7,,
-9215VN,'t Stalt,5,,
-9215VT,Kanaeldyk,23,,
-9215VT,Kanaeldyk,26,,
-9215VT,Kanaeldyk,25,,
-9215VT,Kanaeldyk,39,a,
-9215VT,Kanaeldyk,39,,
-9215VT,Kanaeldyk,14,,
-9215VP,De Flearbosk,7,a,
-9215VP,Eijzengapaed,300,,
-9215VP,Eijzengapaed,301,,
-9215VP,Eijzengapaed,302,,
-9215VP,Eijzengapaed,303,,
-9215VR,Eijzengapaed,300,,
-9215VR,Eijzengapaed,301,,
-9215VR,Eijzengapaed,302,,
-9215VR,Eijzengapaed,302,,
-9215VR,Eijzengapaed,303,,
-9215VR,Eijzengapaed,303,,
-9215VR,Eijzengapaed,301,,
-9215VV,Eijzengapaed,5,,
-9215VV,Eijzengapaed,5,,
-9215VV,Eijzengapaed,6,,
-9215VV,Eijzengapaed,5,,
-9215VV,Eijzengapaed,6,,12
-9215VV,Eijzengapaed,6,,11
-9215VV,Eijzengapaed,6,,10
-9215VV,Eijzengapaed,6,,9
-9215VV,Eijzengapaed,6,,8
-9215VV,Eijzengapaed,6,,7
-9215VV,Eijzengapaed,6,,1
-9215VV,Eijzengapaed,6,,1
-9215VV,Eijzengapaed,6,,2
-9215VV,Eijzengapaed,6,,2
-9215VV,Eijzengapaed,6,,3
-9215VV,Eijzengapaed,6,,3
-9215VV,Eijzengapaed,6,,4
-9215VV,Eijzengapaed,6,,4
-9215VV,Eijzengapaed,6,,5
-9215VV,Eijzengapaed,6,,5
-9215VV,Eijzengapaed,6,,6
-9215VV,Eijzengapaed,6,,6
-9215VV,Eijzengapaed,5,,8
-9215VV,Eijzengapaed,5,,7
-9215VV,Eijzengapaed,5,,6
-9215VV,Eijzengapaed,5,,5
-9215VV,Eijzengapaed,5,,4
-9215VV,Eijzengapaed,5,,3
-9215VV,Eijzengapaed,5,,2
-9215VV,Eijzengapaed,5,,1
-9215VV,Eijzengapaed,6,,13
-9215VV,Eijzengapaed,6,,14
-9215VZ,Kraenlânswei,18,,
-9215VZ,Kraenlânswei,16,c,
-9215VZ,Kraenlânswei,16,g,
-9215VZ,Kraenlânswei,18,,1
-9215VZ,Kraenlânswei,20,a,
-9215VZ,Kraenlânswei,20,a,
-9215VX,Slûswei,2,,
-9215VX,Slûswei,9,,
-9215VX,Slûswei,15,a,
-9215VX,Slûswei,20,,
-9215VX,Slûswei,21,,
-9215VX,Slûswei,22,,
-9215VX,Slûswei,23,,
-9215VX,Slûswei,17,,
-9215VS,Drachtster Heawei,16,,
-9215VS,Drachtster Heawei,16,a,
-9215VS,Drachtster Heawei,19,,
-9215VS,Drachtster Heawei,29,a,
-9215VS,Drachtster Heawei,29,a,
-9215VS,Drachtster Heawei,29,,
-9215VN,'t Stalt,9,,
-9215VV,Eijzengapaed,7,a,
-9215VV,Eijzengapaed,7,b,
-9215VZ,Kraenlânswei,1,a,
-9215VZ,Kraenlânswei,1,b,
-9215VZ,Kraenlânswei,1,c,
-9215VZ,Kraenlânswei,1,d,
-9215VZ,Kraenlânswei,1,e,
-9215VS,Drachtster Heawei,29,b,
-9215VS,Drachtster Heawei,29,b,
-9215VT,Kanaeldyk,16,,
-9215VT,Kanaeldyk,16,a,
-9215VT,Kanaeldyk,16,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Krúswei,14,"","",9215MA,De Veenhoop
+Krúswei,16,"","",9215MA,De Veenhoop
+Krúswei,4,"","",9215MA,De Veenhoop
+Klûsewei,5,"","",9215MA,De Veenhoop
+Krúswei,8,"","",9215MA,De Veenhoop
+'t Stalt,1,"","",9215VN,De Veenhoop
+'t Stalt,3,"","",9215VN,De Veenhoop
+'t Stalt,5,"","",9215VN,De Veenhoop
+'t Stalt,7,"","",9215VN,De Veenhoop
+'t Stalt,9,"","",9215VN,De Veenhoop
+Eijzengapaed,300,"","",9215VP,De Veenhoop
+Eijzengapaed,301,"","",9215VP,De Veenhoop
+Eijzengapaed,302,"","",9215VP,De Veenhoop
+Eijzengapaed,303,"","",9215VP,De Veenhoop
+De Flearbosk,6,"","",9215VP,De Veenhoop
+De Flearbosk,7,"","",9215VP,De Veenhoop
+De Flearbosk,7,A,"",9215VP,De Veenhoop
+De Flearbosk,8,"","",9215VP,De Veenhoop
+Eijzengapaed,300,"","",9215VR,De Veenhoop
+Eijzengapaed,301,"","",9215VR,De Veenhoop
+Eijzengapaed,301,"","",9215VR,De Veenhoop
+Eijzengapaed,302,"","",9215VR,De Veenhoop
+Eijzengapaed,302,"","",9215VR,De Veenhoop
+Eijzengapaed,303,"","",9215VR,De Veenhoop
+Eijzengapaed,303,"","",9215VR,De Veenhoop
+Drachtster Heawei,11,"","",9215VS,De Veenhoop
+Drachtster Heawei,16,"","",9215VS,De Veenhoop
+Drachtster Heawei,16,A,"",9215VS,De Veenhoop
+Drachtster Heawei,17,"","",9215VS,De Veenhoop
+Drachtster Heawei,19,"","",9215VS,De Veenhoop
+Drachtster Heawei,20,"","",9215VS,De Veenhoop
+Drachtster Heawei,22,"","",9215VS,De Veenhoop
+Drachtster Heawei,24,"","",9215VS,De Veenhoop
+Drachtster Heawei,29,"","",9215VS,De Veenhoop
+Drachtster Heawei,29,"","",9215VS,De Veenhoop
+Drachtster Heawei,29,"","",9215VS,De Veenhoop
+Drachtster Heawei,29,A,"",9215VS,De Veenhoop
+Drachtster Heawei,29,A,"",9215VS,De Veenhoop
+Drachtster Heawei,29,A,"",9215VS,De Veenhoop
+Drachtster Heawei,29,B,"",9215VS,De Veenhoop
+Drachtster Heawei,29,B,"",9215VS,De Veenhoop
+Drachtster Heawei,30,"","",9215VS,De Veenhoop
+Drachtster Heawei,37,"","",9215VS,De Veenhoop
+Drachtster Heawei,38,"","",9215VS,De Veenhoop
+Drachtster Heawei,40,"","",9215VS,De Veenhoop
+Drachtster Heawei,41,"","",9215VS,De Veenhoop
+Drachtster Heawei,42,"","",9215VS,De Veenhoop
+Drachtster Heawei,42,A,"",9215VS,De Veenhoop
+Drachtster Heawei,49,"","",9215VS,De Veenhoop
+Drachtster Heawei,5,"","",9215VS,De Veenhoop
+Kanaeldyk,1,"","",9215VT,De Veenhoop
+Kanaeldyk,14,"","",9215VT,De Veenhoop
+Kanaeldyk,16,"","",9215VT,De Veenhoop
+Kanaeldyk,16,"","",9215VT,De Veenhoop
+Kanaeldyk,16,"","",9215VT,De Veenhoop
+Kanaeldyk,16,A,"",9215VT,De Veenhoop
+Kanaeldyk,16,B,"",9215VT,De Veenhoop
+Kanaeldyk,21,"","",9215VT,De Veenhoop
+Kanaeldyk,22,"","",9215VT,De Veenhoop
+Kanaeldyk,23,"","",9215VT,De Veenhoop
+Kanaeldyk,25,"","",9215VT,De Veenhoop
+Kanaeldyk,26,"","",9215VT,De Veenhoop
+Kanaeldyk,28,"","",9215VT,De Veenhoop
+Kanaeldyk,3,"","",9215VT,De Veenhoop
+Kanaeldyk,35,"","",9215VT,De Veenhoop
+Kanaeldyk,39,"","",9215VT,De Veenhoop
+Kanaeldyk,39,A,"",9215VT,De Veenhoop
+Kanaeldyk,41,"","",9215VT,De Veenhoop
+Kanaeldyk,6,"","",9215VT,De Veenhoop
+Kanaeldyk,9,"","",9215VT,De Veenhoop
+Eijzengapaed,10,"","",9215VV,De Veenhoop
+Eijzengapaed,14,"","",9215VV,De Veenhoop
+Eijzengapaed,2,"","",9215VV,De Veenhoop
+Eijzengapaed,4,"","",9215VV,De Veenhoop
+Eijzengapaed,4,A,"",9215VV,De Veenhoop
+Eijzengapaed,5,"","",9215VV,De Veenhoop
+Eijzengapaed,5,"","",9215VV,De Veenhoop
+Eijzengapaed,5,"","",9215VV,De Veenhoop
+Eijzengapaed,5,"","",9215VV,De Veenhoop
+Eijzengapaed,5,"",1,9215VV,De Veenhoop
+Eijzengapaed,5,"",2,9215VV,De Veenhoop
+Eijzengapaed,5,"",3,9215VV,De Veenhoop
+Eijzengapaed,5,"",4,9215VV,De Veenhoop
+Eijzengapaed,5,"",5,9215VV,De Veenhoop
+Eijzengapaed,5,"",6,9215VV,De Veenhoop
+Eijzengapaed,5,"",7,9215VV,De Veenhoop
+Eijzengapaed,5,"",8,9215VV,De Veenhoop
+Eijzengapaed,6,"","",9215VV,De Veenhoop
+Eijzengapaed,6,"","",9215VV,De Veenhoop
+Eijzengapaed,6,"",1,9215VV,De Veenhoop
+Eijzengapaed,6,"",1,9215VV,De Veenhoop
+Eijzengapaed,6,"",10,9215VV,De Veenhoop
+Eijzengapaed,6,"",11,9215VV,De Veenhoop
+Eijzengapaed,6,"",12,9215VV,De Veenhoop
+Eijzengapaed,6,"",13,9215VV,De Veenhoop
+Eijzengapaed,6,"",14,9215VV,De Veenhoop
+Eijzengapaed,6,"",2,9215VV,De Veenhoop
+Eijzengapaed,6,"",2,9215VV,De Veenhoop
+Eijzengapaed,6,"",3,9215VV,De Veenhoop
+Eijzengapaed,6,"",3,9215VV,De Veenhoop
+Eijzengapaed,6,"",4,9215VV,De Veenhoop
+Eijzengapaed,6,"",4,9215VV,De Veenhoop
+Eijzengapaed,6,"",5,9215VV,De Veenhoop
+Eijzengapaed,6,"",5,9215VV,De Veenhoop
+Eijzengapaed,6,"",6,9215VV,De Veenhoop
+Eijzengapaed,6,"",6,9215VV,De Veenhoop
+Eijzengapaed,6,"",7,9215VV,De Veenhoop
+Eijzengapaed,6,"",8,9215VV,De Veenhoop
+Eijzengapaed,6,"",9,9215VV,De Veenhoop
+Eijzengapaed,7,"","",9215VV,De Veenhoop
+Eijzengapaed,7,A,"",9215VV,De Veenhoop
+Eijzengapaed,8,"","",9215VV,De Veenhoop
+Boarnburgumer Heawei,5,"","",9215VW,De Veenhoop
+Boarnburgumer Heawei,7,"","",9215VW,De Veenhoop
+Boarnburgumer Heawei,9,"","",9215VW,De Veenhoop
+Slûswei,1,"","",9215VX,De Veenhoop
+Slûswei,10,"","",9215VX,De Veenhoop
+Slûswei,11,"","",9215VX,De Veenhoop
+Slûswei,12,"","",9215VX,De Veenhoop
+Slûswei,13,"","",9215VX,De Veenhoop
+Slûswei,15,"","",9215VX,De Veenhoop
+Slûswei,15,A,"",9215VX,De Veenhoop
+Slûswei,16,"","",9215VX,De Veenhoop
+Slûswei,17,"","",9215VX,De Veenhoop
+Slûswei,2,"","",9215VX,De Veenhoop
+Slûswei,20,"","",9215VX,De Veenhoop
+Slûswei,21,"","",9215VX,De Veenhoop
+Slûswei,22,"","",9215VX,De Veenhoop
+Slûswei,23,"","",9215VX,De Veenhoop
+Slûswei,3,"","",9215VX,De Veenhoop
+Slûswei,4,"","",9215VX,De Veenhoop
+Slûswei,5,"","",9215VX,De Veenhoop
+Slûswei,6,"","",9215VX,De Veenhoop
+Slûswei,7,"","",9215VX,De Veenhoop
+Slûswei,8,"","",9215VX,De Veenhoop
+Slûswei,9,"","",9215VX,De Veenhoop
+Kraenlânswei,1,"","",9215VZ,De Veenhoop
+Kraenlânswei,1,A,"",9215VZ,De Veenhoop
+Kraenlânswei,1,B,"",9215VZ,De Veenhoop
+Kraenlânswei,1,C,"",9215VZ,De Veenhoop
+Kraenlânswei,1,D,"",9215VZ,De Veenhoop
+Kraenlânswei,1,E,"",9215VZ,De Veenhoop
+Kraenlânswei,10,"","",9215VZ,De Veenhoop
+Kraenlânswei,12,"","",9215VZ,De Veenhoop
+Kraenlânswei,14,"","",9215VZ,De Veenhoop
+Kraenlânswei,14,A,"",9215VZ,De Veenhoop
+Kraenlânswei,14,B,"",9215VZ,De Veenhoop
+Kraenlânswei,15,"","",9215VZ,De Veenhoop
+Kraenlânswei,16,"","",9215VZ,De Veenhoop
+Kraenlânswei,16,A,"",9215VZ,De Veenhoop
+Kraenlânswei,16,B,"",9215VZ,De Veenhoop
+Kraenlânswei,16,C,"",9215VZ,De Veenhoop
+Kraenlânswei,16,D,"",9215VZ,De Veenhoop
+Kraenlânswei,16,E,"",9215VZ,De Veenhoop
+Kraenlânswei,16,F,"",9215VZ,De Veenhoop
+Kraenlânswei,16,G,"",9215VZ,De Veenhoop
+Kraenlânswei,18,"","",9215VZ,De Veenhoop
+Kraenlânswei,18,"",1,9215VZ,De Veenhoop
+Kraenlânswei,18,"",1,9215VZ,De Veenhoop
+Kraenlânswei,18,"",1,9215VZ,De Veenhoop
+Kraenlânswei,18,A,"",9215VZ,De Veenhoop
+Kraenlânswei,20,"","",9215VZ,De Veenhoop
+Kraenlânswei,20,A,"",9215VZ,De Veenhoop
+Kraenlânswei,20,A,"",9215VZ,De Veenhoop
+Kraenlânswei,21,"","",9215VZ,De Veenhoop
+Kraenlânswei,22,"","",9215VZ,De Veenhoop
+Kraenlânswei,27,"","",9215VZ,De Veenhoop
+Kraenlânswei,33,"","",9215VZ,De Veenhoop
+Kraenlânswei,36,"","",9215VZ,De Veenhoop
+Kraenlânswei,38,"","",9215VZ,De Veenhoop
+Kraenlânswei,40,"","",9215VZ,De Veenhoop
+Kraenlânswei,5,"","",9215VZ,De Veenhoop
+Kraenlânswei,6,"","",9215VZ,De Veenhoop
+Kraenlânswei,7,"","",9215VZ,De Veenhoop
+Kraenlânswei,8,"","",9215VZ,De Veenhoop
+Kraenlânswei,9,"","",9215VZ,De Veenhoop

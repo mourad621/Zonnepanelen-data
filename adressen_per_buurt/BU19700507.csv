@@ -1,67 +1,68 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9141CA",54,"",""
-"9141CA",56,"",""
-"9141CA",33,"",""
-"9141CA",54,"A",""
-"9141CB",4,"",""
-"9141CB",3,"",""
-"9141CB",6,"",""
-"9141CB",1,"",""
-"9141CB",3,"",""
-"9141CC",10,"",""
-"9141CC",8,"",""
-"9141CC",1,"",""
-"9141CC",4,"",""
-"9141CC",6,"",""
-"9141CC",2,"",""
-"9141TK",2,"",""
-"9141TK",4,"",""
-"9141TK",6,"",""
-"9141VC",13,"",""
-"9141VC",8,"",""
-"9141VC",14,"",""
-"9141VC",4,"",""
-"9141VC",7,"",""
-"9141VC",3,"",""
-"9141VC",9,"",""
-"9141VC",5,"",""
-"9141VC",2,"T",""
-"9141VC",10,"",""
-"9141VC",11,"",""
-"9141VC",1,"",""
-"9141VC",12,"",""
-"9141VC",2,"",""
-"9141VC",6,"",""
-9141CB,Koaterhústerwei,1,,
-9141CB,Koaterhústerwei,4,,
-9141TK,Nesserwei,2,,
-9141TK,Nesserwei,4,,
-9141TK,Nesserwei,6,,
-9141VC,Pastorijstrjitte,1,,
-9141VC,Pastorijstrjitte,2,,
-9141VC,Pastorijstrjitte,2,T,
-9141VC,Pastorijstrjitte,3,,
-9141VC,Pastorijstrjitte,4,,
-9141VC,Pastorijstrjitte,5,,
-9141VC,Pastorijstrjitte,6,,
-9141VC,Pastorijstrjitte,7,,
-9141VC,Pastorijstrjitte,8,,
-9141VC,Pastorijstrjitte,9,,
-9141VC,Pastorijstrjitte,11,,
-9141VC,Pastorijstrjitte,12,,
-9141VC,Pastorijstrjitte,13,,
-9141VC,Pastorijstrjitte,14,,
-9141CB,Koaterhústerwei,6,,
-9141CB,Koaterhústerwei,3,,
-9141VC,Pastorijstrjitte,10,,
-9141CC,'t Skoar,1,,
-9141CC,'t Skoar,2,,
-9141CC,'t Skoar,4,,
-9141CC,'t Skoar,6,,
-9141CC,'t Skoar,8,,
-9141CC,'t Skoar,10,,
-9141CA,Ternaarderwei,33,,
-9141CA,Ternaarderwei,54,,
-9141CA,Ternaarderwei,54,A,
-9141CA,Ternaarderwei,56,,
-9141VC,Pastorijstrjitte,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+54,"","","",9141CA,
+56,"","","",9141CA,
+33,"","","",9141CA,
+Ternaarderwei,33,"","",9141CA,Wierum
+Ternaarderwei,54,"","",9141CA,Wierum
+Ternaarderwei,54,A,"",9141CA,Wierum
+Ternaarderwei,56,"","",9141CA,Wierum
+54,A,"","",9141CA,
+4,"","","",9141CB,
+3,"","","",9141CB,
+6,"","","",9141CB,
+1,"","","",9141CB,
+3,"","","",9141CB,
+Koaterhústerwei,1,"","",9141CB,Wierum
+Koaterhústerwei,3,"","",9141CB,Wierum
+Koaterhústerwei,4,"","",9141CB,Wierum
+Koaterhústerwei,6,"","",9141CB,Wierum
+10,"","","",9141CC,
+8,"","","",9141CC,
+1,"","","",9141CC,
+4,"","","",9141CC,
+6,"","","",9141CC,
+2,"","","",9141CC,
+'t Skoar,1,"","",9141CC,Wierum
+'t Skoar,10,"","",9141CC,Wierum
+'t Skoar,2,"","",9141CC,Wierum
+'t Skoar,4,"","",9141CC,Wierum
+'t Skoar,6,"","",9141CC,Wierum
+'t Skoar,8,"","",9141CC,Wierum
+2,"","","",9141TK,
+4,"","","",9141TK,
+6,"","","",9141TK,
+Nesserwei,2,"","",9141TK,Wierum
+Nesserwei,4,"","",9141TK,Wierum
+Nesserwei,6,"","",9141TK,Wierum
+13,"","","",9141VC,
+8,"","","",9141VC,
+14,"","","",9141VC,
+4,"","","",9141VC,
+7,"","","",9141VC,
+3,"","","",9141VC,
+9,"","","",9141VC,
+5,"","","",9141VC,
+10,"","","",9141VC,
+11,"","","",9141VC,
+1,"","","",9141VC,
+12,"","","",9141VC,
+2,"","","",9141VC,
+6,"","","",9141VC,
+Pastorijstrjitte,1,"","",9141VC,Wierum
+Pastorijstrjitte,1,"","",9141VC,Wierum
+Pastorijstrjitte,10,"","",9141VC,Wierum
+Pastorijstrjitte,11,"","",9141VC,Wierum
+Pastorijstrjitte,12,"","",9141VC,Wierum
+Pastorijstrjitte,13,"","",9141VC,Wierum
+Pastorijstrjitte,14,"","",9141VC,Wierum
+Pastorijstrjitte,2,"","",9141VC,Wierum
+Pastorijstrjitte,2,T,"",9141VC,Wierum
+Pastorijstrjitte,3,"","",9141VC,Wierum
+Pastorijstrjitte,4,"","",9141VC,Wierum
+Pastorijstrjitte,5,"","",9141VC,Wierum
+Pastorijstrjitte,6,"","",9141VC,Wierum
+Pastorijstrjitte,7,"","",9141VC,Wierum
+Pastorijstrjitte,8,"","",9141VC,Wierum
+Pastorijstrjitte,9,"","",9141VC,Wierum
+2,T,"","",9141VC,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

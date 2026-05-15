@@ -1,26 +1,26 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3432ND,Geinoord,3,,
-3432ND,Geinoord,5,,
-3432ND,Geinoord,7,A,
-3432ND,Geinoord,7,,
-3432ND,Geinoord,1,,
-3432ND,Geinoord,2,,
-3434NV,Hooglandse Jaagpad,1,,
-3434NV,Hooglandse Jaagpad,2,,
-3434NV,Hooglandse Jaagpad,3,,
-3434NV,Hooglandse Jaagpad,4,,
-3434NV,Hooglandse Jaagpad,5,,
-3434NV,Hooglandse Jaagpad,6,,
-3434NV,Hooglandse Jaagpad,8,,
-3434NT,Parallelweg,1,,
-3434NT,Parallelweg,2,,
-3434NT,Parallelweg,3,,
-3434NT,Parallelweg,5,,
-3434NT,Parallelweg,13,,
-3437PV,Rijksweg A2,1,,
-3437PV,Rijksweg A2,7001,,
-3434NV,Hooglandse Jaagpad,7001,,
-3434NV,Hooglandse Jaagpad,1,A,
-3434NV,Hooglandse Jaagpad,1,B,
-3434NT,Parallelweg,1,A,
-3437PV,Rijksweg A2,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Geinoord,1,"","",3432ND,Nieuwegein
+Geinoord,2,"","",3432ND,Nieuwegein
+Geinoord,3,"","",3432ND,Nieuwegein
+Geinoord,5,"","",3432ND,Nieuwegein
+Geinoord,7,"","",3432ND,Nieuwegein
+Geinoord,7,A,"",3432ND,Nieuwegein
+Parallelweg,1,"","",3434NT,Nieuwegein
+Parallelweg,1,A,"",3434NT,Nieuwegein
+Parallelweg,13,"","",3434NT,Nieuwegein
+Parallelweg,2,"","",3434NT,Nieuwegein
+Parallelweg,3,"","",3434NT,Nieuwegein
+Parallelweg,5,"","",3434NT,Nieuwegein
+Hooglandse Jaagpad,1,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,1,A,"",3434NV,Nieuwegein
+Hooglandse Jaagpad,1,B,"",3434NV,Nieuwegein
+Hooglandse Jaagpad,2,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,3,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,4,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,5,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,6,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,7001,"","",3434NV,Nieuwegein
+Hooglandse Jaagpad,8,"","",3434NV,Nieuwegein
+Rijksweg A2,1,"","",3437PV,Nieuwegein
+Rijksweg A2,2,"","",3437PV,Nieuwegein
+Rijksweg A2,7001,"","",3437PV,Nieuwegein

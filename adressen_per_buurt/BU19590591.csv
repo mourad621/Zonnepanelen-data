@@ -1,38 +1,38 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4271LP,Hillsestraat,41,,
-4271LP,Hillsestraat,43,,
-4271LP,Hillsestraat,52,,
-4271LP,Hillsestraat,54,,
-4271LR,Korn Boezemweg,2,,
-4271LR,Korn Boezemweg,4,,
-4271BZ,Kornpad,1,,
-4271BZ,Kornpad,1,a,
-4271BZ,Kornpad,3,,
-4271BZ,Kornpad,3,a,
-4271BZ,Kornpad,4,,
-4271LN,Kornsche Buitenkade,1,,
-4271LN,Kornsche Buitenkade,10,,
-4271LN,Kornsche Buitenkade,12,,
-4271LN,Kornsche Buitenkade,14,,
-4271LN,Kornsche Buitenkade,2,,
-4271LN,Kornsche Buitenkade,3,,
-4271LN,Kornsche Buitenkade,5,,
-4271LN,Kornsche Buitenkade,6,,
-4271LN,Kornsche Buitenkade,7,,
-4271LN,Kornsche Buitenkade,8,,
-4271LS,Ruttensteeg,1,,
-4271LS,Ruttensteeg,3,,
-4271LM,Schenkeldijk,1,,
-4271LM,Schenkeldijk,11,,
-4271LM,Schenkeldijk,1,a,
-4271LM,Schenkeldijk,3,,
-4271LM,Schenkeldijk,5,,
-4271LM,Schenkeldijk,9,,
-4271LS,Ruttensteeg,1,a,
-4271LM,Schenkeldijk,9,,
-4271BZ,Kornpad,3,,
-4271LN,Kornsche Buitenkade,7,a,
-4271LN,Kornsche Buitenkade,7,a,
-4271LN,Kornsche Buitenkade,7,a,
-4271LS,Ruttensteeg,1,b,
-4271LS,Ruttensteeg,1,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kornpad,1,"","",4271BZ,Dussen
+Kornpad,1,A,"",4271BZ,Dussen
+Kornpad,3,"","",4271BZ,Dussen
+Kornpad,3,"","",4271BZ,Dussen
+Kornpad,3,A,"",4271BZ,Dussen
+Kornpad,4,"","",4271BZ,Dussen
+Schenkeldijk,1,"","",4271LM,Dussen
+Schenkeldijk,1,A,"",4271LM,Dussen
+Schenkeldijk,11,"","",4271LM,Dussen
+Schenkeldijk,3,"","",4271LM,Dussen
+Schenkeldijk,5,"","",4271LM,Dussen
+Schenkeldijk,9,"","",4271LM,Dussen
+Schenkeldijk,9,"","",4271LM,Dussen
+Kornsche Buitenkade,1,"","",4271LN,Dussen
+Kornsche Buitenkade,10,"","",4271LN,Dussen
+Kornsche Buitenkade,12,"","",4271LN,Dussen
+Kornsche Buitenkade,14,"","",4271LN,Dussen
+Kornsche Buitenkade,2,"","",4271LN,Dussen
+Kornsche Buitenkade,3,"","",4271LN,Dussen
+Kornsche Buitenkade,5,"","",4271LN,Dussen
+Kornsche Buitenkade,6,"","",4271LN,Dussen
+Kornsche Buitenkade,7,"","",4271LN,Dussen
+Kornsche Buitenkade,7,A,"",4271LN,Dussen
+Kornsche Buitenkade,7,A,"",4271LN,Dussen
+Kornsche Buitenkade,7,A,"",4271LN,Dussen
+Kornsche Buitenkade,8,"","",4271LN,Dussen
+Hillsestraat,41,"","",4271LP,Dussen
+Hillsestraat,43,"","",4271LP,Dussen
+Hillsestraat,52,"","",4271LP,Dussen
+Hillsestraat,54,"","",4271LP,Dussen
+Korn Boezemweg,2,"","",4271LR,Dussen
+Korn Boezemweg,4,"","",4271LR,Dussen
+Ruttensteeg,1,"","",4271LS,Dussen
+Ruttensteeg,1,A,"",4271LS,Dussen
+Ruttensteeg,1,A,"",4271LS,Dussen
+Ruttensteeg,1,B,"",4271LS,Dussen
+Ruttensteeg,3,"","",4271LS,Dussen

@@ -1,1017 +1,513 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9946PA",1,"A",""
-"9946PA",7,"",""
-"9946PA",9,"",""
-"9946PA",17,"",""
-"9946PA",1,"",""
-"9946PA",5,"",""
-"9946PA",13,"",""
-"9946PA",15,"",""
-"9946PA",19,"",""
-"9946PA",19,"A",""
-"9946PA",1,"A",""
-"9946PA",11,"",""
-"9946PB",27,"",""
-"9946PB",33,"",""
-"9946PB",35,"",""
-"9946PB",31,"",""
-"9946PB",23,"",""
-"9946PB",25,"",""
-"9946PB",29,"",""
-"9946PB",43,"",""
-"9946PB",21,"",""
-"9946PB",45,"",""
-"9946PB",41,"",""
-"9946PB",39,"",""
-"9946PB",37,"",""
-"9946PC",12,"",""
-"9946PC",14,"",""
-"9946PC",6,"",""
-"9946PC",18,"",""
-"9946PC",20,"",""
-"9946PC",14,"",""
-"9946PC",4,"",""
-"9946PC",26,"",""
-"9946PC",28,"",""
-"9946PC",16,"",""
-"9946PC",24,"",""
-"9946PC",22,"",""
-"9946PC",10,"",""
-"9946PC",2,"",""
-"9946PC",26,"",""
-"9946PD",34,"",""
-"9946PD",42,"",""
-"9946PD",36,"",""
-"9946PD",38,"",""
-"9946PD",40,"",""
-"9946PD",46,"",""
-"9946PD",56,"",""
-"9946PD",30,"",""
-"9946PD",32,"",""
-"9946PD",44,"A",""
-"9946PD",34,"",""
-"9946PD",44,"",""
-"9946PD",52,"",""
-"9946PD",58,"",""
-"9946PD",48,"",""
-"9946PE",60,"C",""
-"9946PE",68,"",""
-"9946PE",66,"",""
-"9946PE",78,"",""
-"9946PE",62,"",""
-"9946PE",64,"",""
-"9946PE",60,"B",""
-"9946PE",86,"",""
-"9946PE",60,"D",""
-"9946PE",82,"",""
-"9946PE",84,"",""
-"9946PE",68,"B",""
-"9946PE",86,"",""
-"9946PE",88,"",""
-"9946PE",60,"A",""
-"9946PE",94,"",""
-"9946PE",76,"",""
-"9946PE",92,"",""
-"9946PE",80,"",""
-"9946PE",68,"A",""
-"9946PE",92,"",""
-"9946PE",90,"",""
-"9946PE",72,"",""
-"9946PE",60,"",""
-"9946PE",92,"",""
-"9946PE",92,"",""
-"9946PE",70,"",""
-"9946PG",35,"",""
-"9946PG",17,"",""
-"9946PG",15,"",""
-"9946PG",5,"",""
-"9946PG",37,"",""
-"9946PG",37,"",""
-"9946PG",33,"",""
-"9946PG",23,"",""
-"9946PG",37,"",""
-"9946PG",31,"",""
-"9946PG",13,"",""
-"9946PG",1,"",""
-"9946PG",9,"",""
-"9946PG",29,"",""
-"9946PG",21,"",""
-"9946PG",19,"",""
-"9946PG",25,"",""
-"9946PG",27,"",""
-"9946PG",7,"",""
-"9946PH",4,"",""
-"9946PH",26,"",""
-"9946PH",40,"",""
-"9946PH",36,"",""
-"9946PH",2,"",""
-"9946PH",12,"",""
-"9946PH",42,"",""
-"9946PH",38,"",""
-"9946PH",6,"",""
-"9946PH",22,"",""
-"9946PH",32,"",""
-"9946PH",20,"",""
-"9946PH",18,"",""
-"9946PH",16,"",""
-"9946PJ",44,"",""
-"9946PJ",60,"",""
-"9946PJ",66,"",""
-"9946PJ",68,"",""
-"9946PJ",48,"",""
-"9946PJ",50,"",""
-"9946PJ",46,"",""
-"9946PJ",56,"",""
-"9946PJ",54,"",""
-"9946PJ",58,"",""
-"9946PJ",64,"",""
-"9946PJ",52,"",""
-"9946PJ",62,"",""
-"9946PK",70,"",""
-"9946PK",74,"",""
-"9946PK",88,"",""
-"9946PK",84,"",""
-"9946PK",82,"",""
-"9946PK",86,"",""
-"9946PK",76,"",""
-"9946PK",94,"",""
-"9946PK",78,"",""
-"9946PK",80,"",""
-"9946PK",72,"",""
-"9946PK",90,"",""
-"9946PL",1,"",""
-"9946PL",27,"",""
-"9946PL",3,"",""
-"9946PL",5,"",""
-"9946PL",17,"",""
-"9946PL",25,"",""
-"9946PL",23,"",""
-"9946PL",19,"A",""
-"9946PL",21,"",""
-"9946PL",23,"",""
-"9946PL",19,"",""
-"9946PL",7,"",""
-"9946PM",31,"",""
-"9946PM",33,"",""
-"9946PM",59,"",""
-"9946PM",61,"",""
-"9946PM",31,"",""
-"9946PM",49,"C",""
-"9946PM",57,"",""
-"9946PM",31,"",""
-"9946PM",35,"",""
-"9946PM",35,"A",""
-"9946PM",49,"C",""
-"9946PM",51,"",""
-"9946PM",53,"A",""
-"9946PM",53,"B",""
-"9946PM",55,"",""
-"9946PM",53,"",""
-"9946PM",49,"",""
-"9946PM",49,"B",""
-"9946PM",51,"B",""
-"9946PM",47,"",""
-"9946PM",39,"",""
-"9946PM",51,"A",""
-"9946PM",43,"",""
-"9946PM",45,"",""
-"9946PM",37,"",""
-"9946PM",41,"",""
-"9946PM",33,"",""
-"9946PM",51,"D",""
-"9946PM",29,"",""
-"9946PM",51,"E",""
-"9946PM",51,"C",""
-"9946PN",6,"",""
-"9946PN",4,"",""
-"9946PN",20,"",""
-"9946PN",2,"",""
-"9946PN",26,"",""
-"9946PN",28,"",""
-"9946PN",18,"",""
-"9946PN",24,"",""
-"9946PN",8,"",""
-"9946PN",16,"",""
-"9946PN",14,"",""
-"9946PN",22,"",""
-"9946PN",12,"",""
-"9946PP",30,"",""
-"9946PP",52,"",""
-"9946PP",54,"",""
-"9946PP",48,"",""
-"9946PP",34,"",""
-"9946PP",36,"",""
-"9946PP",56,"",""
-"9946PP",42,"",""
-"9946PP",50,"",""
-"9946PP",44,"",""
-"9946PP",46,"",""
-"9946PP",40,"",""
-"9946PP",32,"",""
-"9946PP",38,"",""
-"9946PR",86,"",""
-"9946PR",82,"",""
-"9946PR",76,"",""
-"9946PR",80,"",""
-"9946PR",62,"",""
-"9946PR",84,"",""
-"9946PR",70,"",""
-"9946PR",68,"",""
-"9946PR",72,"",""
-"9946PR",74,"",""
-"9946PR",58,"",""
-"9946PR",78,"",""
-"9946PR",60,"",""
-"9946PR",64,"",""
-"9946PR",66,"",""
-"9946PS",23,"",""
-"9946PS",17,"",""
-"9946PS",3,"",""
-"9946PS",25,"",""
-"9946PS",27,"",""
-"9946PS",21,"",""
-"9946PS",19,"",""
-"9946PS",13,"",""
-"9946PS",15,"",""
-"9946PS",9,"",""
-"9946PS",11,"",""
-"9946PS",31,"",""
-"9946PS",33,"",""
-"9946PS",35,"",""
-"9946PS",37,"",""
-"9946PS",29,"",""
-"9946PS",5,"",""
-"9946PT",4,"",""
-"9946PT",12,"",""
-"9946PT",26,"",""
-"9946PT",10,"",""
-"9946PT",2,"B",""
-"9946PT",14,"",""
-"9946PT",8,"",""
-"9946PT",28,"",""
-"9946PT",18,"",""
-"9946PT",22,"",""
-"9946PT",2,"",""
-"9946PT",16,"",""
-"9946PT",2,"A",""
-"9946PT",6,"",""
-"9946PT",24,"",""
-"9946PT",20,"",""
-"9946RA",3,"",""
-"9946RA",15,"",""
-"9946RA",17,"",""
-"9946RA",7,"",""
-"9946RA",13,"",""
-"9946RA",1,"",""
-"9946RA",19,"",""
-"9946RA",5,"",""
-"9946RA",23,"",""
-"9946RA",21,"",""
-"9946RB",35,"",""
-"9946RB",31,"",""
-"9946RB",43,"",""
-"9946RB",37,"",""
-"9946RB",39,"",""
-"9946RB",41,"",""
-"9946RB",29,"",""
-"9946RB",45,"",""
-"9946RB",25,"",""
-"9946RB",27,"",""
-"9946RB",47,"",""
-"9946RB",33,"",""
-"9946RC",14,"",""
-"9946RC",8,"",""
-"9946RC",10,"",""
-"9946RC",12,"",""
-"9946RC",6,"",""
-"9946RC",4,"",""
-"9946RC",2,"",""
-"9946RD",18,"",""
-"9946RD",22,"",""
-"9946RD",50,"",""
-"9946RD",16,"A",""
-"9946RD",20,"",""
-"9946RD",40,"",""
-"9946RD",46,"",""
-"9946RD",24,"",""
-"9946RD",36,"",""
-"9946RD",38,"",""
-"9946RD",32,"A",""
-"9946RD",34,"",""
-"9946RD",32,"",""
-"9946RD",26,"",""
-"9946RD",16,"",""
-"9946RD",30,"",""
-"9946RD",28,"",""
-"9946RE",56,"",""
-"9946RE",52,"",""
-"9946RE",66,"",""
-"9946RE",70,"",""
-"9946RE",54,"",""
-"9946RE",74,"",""
-"9946RE",76,"",""
-"9946RE",78,"",""
-"9946RE",72,"",""
-"9946RE",56,"",""
-"9946RE",62,"",""
-"9946RE",58,"",""
-"9946RE",90,"",""
-"9946RE",88,"",""
-"9946RE",82,"",""
-"9946RE",80,"",""
-"9946RE",68,"",""
-"9946RE",56,"",""
-"9946RE",84,"",""
-"9946RG",9,"",""
-"9946RG",5,"",""
-"9946RG",18,"",""
-"9946RG",1,"",""
-"9946RG",10,"",""
-"9946RG",11,"",""
-"9946RG",8,"",""
-"9946RG",12,"",""
-"9946RG",19,"",""
-"9946RG",4,"",""
-"9946RG",17,"",""
-"9946RG",16,"",""
-"9946RG",15,"",""
-"9946RG",13,"",""
-"9946RG",6,"",""
-"9946RG",14,"",""
-"9946RH",3,"",""
-"9946RH",1,"",""
-"9946RH",5,"",""
-"9946RH",3,"",""
-"9946RH",11,"",""
-"9946RH",5,"",""
-"9946RH",13,"",""
-"9946RH",1,"",""
-"9946RH",15,"",""
-"9946RH",15,"",""
-"9946RH",17,"",""
-"9946RH",17,"",""
-"9946RH",19,"",""
-"9946RH",23,"",""
-"9946RH",25,"",""
-"9946RH",25,"",""
-"9946RH",27,"",""
-"9946RH",27,"",""
-"9946RH",29,"",""
-"9946RH",29,"",""
-"9946RH",9,"",""
-"9946RH",9,"",""
-"9946RH",7,"",""
-"9946RH",21,"",""
-"9946RH",11,"",""
-"9946RH",21,"",""
-"9946RH",13,"",""
-"9946RH",19,"",""
-"9946RH",23,"",""
-"9946RH",7,"",""
-"9946RJ",51,"",""
-"9946RJ",51,"",""
-"9946RJ",41,"",""
-"9946RJ",45,"",""
-"9946RJ",43,"",""
-"9946RJ",45,"",""
-"9946RJ",35,"",""
-"9946RJ",33,"",""
-"9946RJ",39,"",""
-"9946RJ",35,"",""
-"9946RJ",37,"",""
-"9946RJ",41,"",""
-"9946RJ",33,"",""
-"9946RJ",39,"",""
-"9946RJ",63,"",""
-"9946RJ",63,"",""
-"9946RJ",61,"",""
-"9946RJ",43,"",""
-"9946RJ",57,"",""
-"9946RJ",57,"",""
-"9946RJ",61,"",""
-"9946RJ",53,"",""
-"9946RJ",59,"",""
-"9946RJ",37,"",""
-"9946RJ",59,"",""
-"9946RJ",53,"",""
-"9946RK",4,"",""
-"9946RK",4,"",""
-"9946RK",26,"",""
-"9946RK",2,"",""
-"9946RK",14,"A",""
-"9946RK",14,"A",""
-"9946RK",24,"",""
-"9946RK",2,"",""
-"9946RK",6,"",""
-"9946RK",8,"",""
-"9946RK",16,"",""
-"9946RK",14,"",""
-"9946RK",24,"",""
-"9946RK",26,"",""
-"9946RK",12,"",""
-"9946RK",10,"",""
-"9946RK",16,"",""
-"9946RK",18,"",""
-"9946RK",18,"",""
-"9946RK",14,"",""
-"9946RK",22,"",""
-"9946RK",10,"",""
-"9946RK",12,"",""
-"9946RK",20,"",""
-"9946RK",8,"",""
-"9946RK",20,"",""
-"9946RK",6,"",""
-"9946RK",22,"",""
-"9946RL",32,"",""
-"9946RL",28,"",""
-"9946RL",30,"",""
-"9946RL",38,"",""
-"9946RL",28,"",""
-"9946RL",40,"",""
-"9946RL",30,"",""
-"9946RL",42,"",""
-"9946RL",42,"",""
-"9946RL",40,"",""
-"9946RL",34,"",""
-"9946RL",36,"",""
-"9946RL",38,"",""
-"9946RL",32,"",""
-"9946RL",36,"",""
-"9946RL",34,"",""
-"9946RM",1,"",""
-"9946RM",2,"",""
-"9946RM",1,"",""
-"9946RM",7,"",""
-"9946RM",5,"",""
-"9946RM",1,"",""
-"9946RM",6,"",""
-"9946RM",4,"",""
-"9946RP",2,"",""
-"9946RP",11,"",""
-"9946RP",1,"",""
-"9946RP",5,"",""
-"9946RP",9,"",""
-"9946RP",8,"",""
-"9946RP",10,"",""
-"9946RP",3,"",""
-"9946RP",6,"",""
-"9946RP",4,"",""
-"9946RP",7,"",""
-"9946RR",5,"",""
-"9946RR",12,"",""
-"9946RR",2,"",""
-"9946RR",3,"",""
-"9946RR",7,"",""
-"9946RR",1,"",""
-"9946RR",14,"",""
-"9946RR",4,"",""
-"9946RR",6,"",""
-"9946RR",11,"",""
-"9946RR",13,"",""
-"9946RR",10,"",""
-"9946RR",9,"",""
-"9946RR",8,"",""
-"9946RS",4,"",""
-"9946RS",3,"",""
-"9946RS",21,"",""
-"9946RS",24,"",""
-"9946RS",25,"",""
-"9946RS",1,"",""
-"9946RS",2,"",""
-"9946RS",6,"",""
-"9946RS",8,"",""
-"9946RS",26,"",""
-"9946RS",14,"",""
-"9946RS",27,"",""
-"9946RS",16,"",""
-"9946RS",5,"",""
-"9946RS",23,"",""
-"9946RS",12,"",""
-"9946RS",28,"",""
-"9946RS",22,"",""
-"9946RS",10,"",""
-"9946RT",7,"",""
-"9946RT",10,"",""
-"9946RT",11,"",""
-"9946RT",12,"",""
-"9946RT",5,"",""
-"9946RT",4,"",""
-"9946RT",6,"",""
-"9946RT",19,"",""
-"9946RT",9,"",""
-"9946RT",22,"",""
-"9946RT",20,"",""
-"9946RT",1,"",""
-"9946RT",8,"",""
-"9946RT",14,"",""
-"9946RT",15,"",""
-"9946RT",3,"",""
-"9946RT",16,"",""
-"9946RT",17,"",""
-"9946RT",18,"",""
-"9946RT",2,"",""
-"9946RT",13,"",""
-9946PA,A.E. Gorterweg,1,,
-9946PA,A.E. Gorterweg,5,,
-9946PA,A.E. Gorterweg,7,,
-9946PA,A.E. Gorterweg,9,,
-9946PA,A.E. Gorterweg,11,,
-9946PA,A.E. Gorterweg,13,,
-9946PA,A.E. Gorterweg,15,,
-9946PA,A.E. Gorterweg,17,,
-9946PA,A.E. Gorterweg,1,A,
-9946PA,A.E. Gorterweg,19,A,
-9946PA,A.E. Gorterweg,19,,
-9946PB,A.E. Gorterweg,21,,
-9946PB,A.E. Gorterweg,23,,
-9946PB,A.E. Gorterweg,27,,
-9946PB,A.E. Gorterweg,29,,
-9946PB,A.E. Gorterweg,31,,
-9946PB,A.E. Gorterweg,33,,
-9946PB,A.E. Gorterweg,25,,
-9946PB,A.E. Gorterweg,43,,
-9946PB,A.E. Gorterweg,41,,
-9946PB,A.E. Gorterweg,39,,
-9946PB,A.E. Gorterweg,37,,
-9946PB,A.E. Gorterweg,35,,
-9946PB,A.E. Gorterweg,45,,
-9946PC,A.E. Gorterweg,2,,
-9946PC,A.E. Gorterweg,4,,
-9946PC,A.E. Gorterweg,6,,
-9946PC,A.E. Gorterweg,10,,
-9946PC,A.E. Gorterweg,12,,
-9946PC,A.E. Gorterweg,14,,
-9946PC,A.E. Gorterweg,16,,
-9946PC,A.E. Gorterweg,18,,
-9946PC,A.E. Gorterweg,20,,
-9946PC,A.E. Gorterweg,22,,
-9946PC,A.E. Gorterweg,24,,
-9946PC,A.E. Gorterweg,28,,
-9946PC,A.E. Gorterweg,26,,
-9946PD,A.E. Gorterweg,42,,
-9946PD,A.E. Gorterweg,44,,
-9946PD,A.E. Gorterweg,30,,
-9946PD,A.E. Gorterweg,32,,
-9946PD,A.E. Gorterweg,34,,
-9946PD,A.E. Gorterweg,36,,
-9946PD,A.E. Gorterweg,38,,
-9946PD,A.E. Gorterweg,40,,
-9946PD,A.E. Gorterweg,58,,
-9946PD,A.E. Gorterweg,56,,
-9946PD,A.E. Gorterweg,52,,
-9946PD,A.E. Gorterweg,46,,
-9946PD,A.E. Gorterweg,48,,
-9946PD,A.E. Gorterweg,44,A,
-9946PE,A.E. Gorterweg,92,,
-9946PE,A.E. Gorterweg,90,,
-9946PE,A.E. Gorterweg,88,,
-9946PE,A.E. Gorterweg,86,,
-9946PE,A.E. Gorterweg,78,,
-9946PE,A.E. Gorterweg,80,,
-9946PE,A.E. Gorterweg,82,,
-9946PE,A.E. Gorterweg,84,,
-9946PE,A.E. Gorterweg,76,,
-9946PE,A.E. Gorterweg,72,,
-9946PE,A.E. Gorterweg,70,,
-9946PE,A.E. Gorterweg,62,,
-9946PE,A.E. Gorterweg,64,,
-9946PE,A.E. Gorterweg,66,,
-9946PE,A.E. Gorterweg,60,,
-9946PE,A.E. Gorterweg,60,A,
-9946PE,A.E. Gorterweg,60,B,
-9946PE,A.E. Gorterweg,60,C,
-9946PE,A.E. Gorterweg,60,D,
-9946PE,A.E. Gorterweg,68,,
-9946PE,A.E. Gorterweg,68,A,
-9946PE,A.E. Gorterweg,94,,
-9946PE,A.E. Gorterweg,68,B,
-9946PE,A.E. Gorterweg,92,,
-9946PE,A.E. Gorterweg,92,,
-9946RH,AE-weg,25,,
-9946RH,AE-weg,27,,
-9946RH,AE-weg,29,,
-9946RH,AE-weg,17,,
-9946RH,AE-weg,19,,
-9946RH,AE-weg,21,,
-9946RH,AE-weg,23,,
-9946RH,AE-weg,15,,
-9946RH,AE-weg,11,,
-9946RH,AE-weg,13,,
-9946RH,AE-weg,5,,
-9946RH,AE-weg,7,,
-9946RH,AE-weg,9,,
-9946RH,AE-weg,1,,
-9946RH,AE-weg,3,,
-9946RJ,AE-weg,51,,
-9946RJ,AE-weg,53,,
-9946RJ,AE-weg,57,,
-9946RJ,AE-weg,59,,
-9946RJ,AE-weg,61,,
-9946RJ,AE-weg,41,,
-9946RJ,AE-weg,43,,
-9946RJ,AE-weg,45,,
-9946RJ,AE-weg,33,,
-9946RJ,AE-weg,35,,
-9946RJ,AE-weg,37,,
-9946RJ,AE-weg,39,,
-9946RJ,AE-weg,63,,
-9946RK,AE-weg,18,,
-9946RK,AE-weg,20,,
-9946RK,AE-weg,22,,
-9946RK,AE-weg,24,,
-9946RK,AE-weg,26,,
-9946RK,AE-weg,16,,
-9946RK,AE-weg,14,A,
-9946RK,AE-weg,10,,
-9946RK,AE-weg,12,,
-9946RK,AE-weg,14,,
-9946RK,AE-weg,4,,
-9946RK,AE-weg,6,,
-9946RK,AE-weg,2,,
-9946RK,AE-weg,8,,
-9946RL,AE-weg,40,,
-9946RL,AE-weg,42,,
-9946RL,AE-weg,38,,
-9946RL,AE-weg,36,,
-9946RL,AE-weg,34,,
-9946RL,AE-weg,30,,
-9946RL,AE-weg,28,,
-9946RL,AE-weg,32,,
-9946PL,Burg. Garreltsweg,3,,
-9946PL,Burg. Garreltsweg,17,,
-9946PL,Burg. Garreltsweg,19,,
-9946PL,Burg. Garreltsweg,19,A,
-9946PL,Burg. Garreltsweg,1,,
-9946PL,Burg. Garreltsweg,21,,
-9946PL,Burg. Garreltsweg,23,,
-9946PL,Burg. Garreltsweg,25,,
-9946PL,Burg. Garreltsweg,27,,
-9946PL,Burg. Garreltsweg,5,,
-9946PL,Burg. Garreltsweg,7,,
-9946PM,Burg. Garreltsweg,61,,
-9946PM,Burg. Garreltsweg,59,,
-9946PM,Burg. Garreltsweg,55,,
-9946PM,Burg. Garreltsweg,57,,
-9946PM,Burg. Garreltsweg,53,A,
-9946PM,Burg. Garreltsweg,53,B,
-9946PM,Burg. Garreltsweg,53,,
-9946PM,Burg. Garreltsweg,51,E,
-9946PM,Burg. Garreltsweg,51,D,
-9946PM,Burg. Garreltsweg,51,C,
-9946PM,Burg. Garreltsweg,51,B,
-9946PM,Burg. Garreltsweg,51,A,
-9946PM,Burg. Garreltsweg,51,,
-9946PM,Burg. Garreltsweg,37,,
-9946PM,Burg. Garreltsweg,39,,
-9946PM,Burg. Garreltsweg,41,,
-9946PM,Burg. Garreltsweg,43,,
-9946PM,Burg. Garreltsweg,45,,
-9946PM,Burg. Garreltsweg,47,,
-9946PM,Burg. Garreltsweg,49,B,
-9946PM,Burg. Garreltsweg,49,C,
-9946PM,Burg. Garreltsweg,49,,
-9946PM,Burg. Garreltsweg,29,,
-9946PM,Burg. Garreltsweg,31,,
-9946PM,Burg. Garreltsweg,35,A,
-9946PM,Burg. Garreltsweg,35,,
-9946PM,Burg. Garreltsweg,33,,
-9946PM,Burg. Garreltsweg,31,,
-9946PN,Burg. Garreltsweg,12,,
-9946PN,Burg. Garreltsweg,14,,
-9946PN,Burg. Garreltsweg,16,,
-9946PN,Burg. Garreltsweg,18,,
-9946PN,Burg. Garreltsweg,20,,
-9946PN,Burg. Garreltsweg,22,,
-9946PN,Burg. Garreltsweg,24,,
-9946PN,Burg. Garreltsweg,26,,
-9946PN,Burg. Garreltsweg,28,,
-9946PN,Burg. Garreltsweg,2,,
-9946PN,Burg. Garreltsweg,4,,
-9946PN,Burg. Garreltsweg,6,,
-9946PN,Burg. Garreltsweg,8,,
-9946PP,Burg. Garreltsweg,46,,
-9946PP,Burg. Garreltsweg,48,,
-9946PP,Burg. Garreltsweg,30,,
-9946PP,Burg. Garreltsweg,32,,
-9946PP,Burg. Garreltsweg,34,,
-9946PP,Burg. Garreltsweg,36,,
-9946PP,Burg. Garreltsweg,40,,
-9946PP,Burg. Garreltsweg,42,,
-9946PP,Burg. Garreltsweg,44,,
-9946PP,Burg. Garreltsweg,50,,
-9946PP,Burg. Garreltsweg,52,,
-9946PP,Burg. Garreltsweg,54,,
-9946PP,Burg. Garreltsweg,56,,
-9946PP,Burg. Garreltsweg,38,,
-9946PR,Burg. Garreltsweg,82,,
-9946PR,Burg. Garreltsweg,84,,
-9946PR,Burg. Garreltsweg,86,,
-9946PR,Burg. Garreltsweg,74,,
-9946PR,Burg. Garreltsweg,76,,
-9946PR,Burg. Garreltsweg,78,,
-9946PR,Burg. Garreltsweg,80,,
-9946PR,Burg. Garreltsweg,58,,
-9946PR,Burg. Garreltsweg,60,,
-9946PR,Burg. Garreltsweg,62,,
-9946PR,Burg. Garreltsweg,64,,
-9946PR,Burg. Garreltsweg,66,,
-9946PR,Burg. Garreltsweg,68,,
-9946PR,Burg. Garreltsweg,70,,
-9946PR,Burg. Garreltsweg,72,,
-9946RG,Groenelaan,11,,
-9946RG,Groenelaan,8,,
-9946RG,Groenelaan,9,,
-9946RG,Groenelaan,10,,
-9946RG,Groenelaan,5,,
-9946RG,Groenelaan,6,,
-9946RG,Groenelaan,4,,
-9946RG,Groenelaan,1,,
-9946RG,Groenelaan,13,,
-9946RG,Groenelaan,14,,
-9946RG,Groenelaan,15,,
-9946RG,Groenelaan,16,,
-9946RG,Groenelaan,17,,
-9946RG,Groenelaan,12,,
-9946RG,Groenelaan,19,,
-9946RG,Groenelaan,18,,
-9946PS,H. Berrelkampstraat,37,,
-9946PS,H. Berrelkampstraat,35,,
-9946PS,H. Berrelkampstraat,33,,
-9946PS,H. Berrelkampstraat,31,,
-9946PS,H. Berrelkampstraat,29,,
-9946PS,H. Berrelkampstraat,27,,
-9946PS,H. Berrelkampstraat,25,,
-9946PS,H. Berrelkampstraat,23,,
-9946PS,H. Berrelkampstraat,19,,
-9946PS,H. Berrelkampstraat,17,,
-9946PS,H. Berrelkampstraat,15,,
-9946PS,H. Berrelkampstraat,13,,
-9946PS,H. Berrelkampstraat,3,,
-9946PS,H. Berrelkampstraat,5,,
-9946PS,H. Berrelkampstraat,9,,
-9946PS,H. Berrelkampstraat,11,,
-9946PS,H. Berrelkampstraat,21,,
-9946PT,H. Berrelkampstraat,2,A,
-9946PT,H. Berrelkampstraat,2,,
-9946PT,H. Berrelkampstraat,4,,
-9946PT,H. Berrelkampstraat,6,,
-9946PT,H. Berrelkampstraat,8,,
-9946PT,H. Berrelkampstraat,10,,
-9946PT,H. Berrelkampstraat,12,,
-9946PT,H. Berrelkampstraat,14,,
-9946PT,H. Berrelkampstraat,16,,
-9946PT,H. Berrelkampstraat,18,,
-9946PT,H. Berrelkampstraat,20,,
-9946PT,H. Berrelkampstraat,22,,
-9946PT,H. Berrelkampstraat,24,,
-9946PT,H. Berrelkampstraat,26,,
-9946PT,H. Berrelkampstraat,28,,
-9946PT,H. Berrelkampstraat,2,B,
-9946RP,Heemweg,10,,
-9946RP,Heemweg,11,,
-9946RP,Heemweg,1,,
-9946RP,Heemweg,2,,
-9946RP,Heemweg,3,,
-9946RP,Heemweg,4,,
-9946RP,Heemweg,6,,
-9946RP,Heemweg,7,,
-9946RP,Heemweg,8,,
-9946RP,Heemweg,9,,
-9946RP,Heemweg,5,,
-9946PG,Klapsterweg,1,,
-9946PG,Klapsterweg,5,,
-9946PG,Klapsterweg,7,,
-9946PG,Klapsterweg,9,,
-9946PG,Klapsterweg,13,,
-9946PG,Klapsterweg,15,,
-9946PG,Klapsterweg,17,,
-9946PG,Klapsterweg,19,,
-9946PG,Klapsterweg,21,,
-9946PG,Klapsterweg,23,,
-9946PG,Klapsterweg,25,,
-9946PG,Klapsterweg,27,,
-9946PG,Klapsterweg,29,,
-9946PG,Klapsterweg,31,,
-9946PG,Klapsterweg,33,,
-9946PG,Klapsterweg,35,,
-9946PG,Klapsterweg,37,,
-9946PG,Klapsterweg,37,,
-9946PH,Klapsterweg,2,,
-9946PH,Klapsterweg,4,,
-9946PH,Klapsterweg,6,,
-9946PH,Klapsterweg,12,,
-9946PH,Klapsterweg,16,,
-9946PH,Klapsterweg,18,,
-9946PH,Klapsterweg,20,,
-9946PH,Klapsterweg,26,,
-9946PH,Klapsterweg,22,,
-9946PH,Klapsterweg,32,,
-9946PH,Klapsterweg,36,,
-9946PH,Klapsterweg,38,,
-9946PH,Klapsterweg,40,,
-9946PH,Klapsterweg,42,,
-9946PJ,Klapsterweg,44,,
-9946PJ,Klapsterweg,48,,
-9946PJ,Klapsterweg,50,,
-9946PJ,Klapsterweg,52,,
-9946PJ,Klapsterweg,54,,
-9946PJ,Klapsterweg,56,,
-9946PJ,Klapsterweg,60,,
-9946PJ,Klapsterweg,62,,
-9946PJ,Klapsterweg,64,,
-9946PJ,Klapsterweg,66,,
-9946PJ,Klapsterweg,68,,
-9946PJ,Klapsterweg,46,,
-9946PJ,Klapsterweg,58,,
-9946PK,Klapsterweg,70,,
-9946PK,Klapsterweg,72,,
-9946PK,Klapsterweg,74,,
-9946PK,Klapsterweg,76,,
-9946PK,Klapsterweg,78,,
-9946PK,Klapsterweg,80,,
-9946PK,Klapsterweg,82,,
-9946PK,Klapsterweg,84,,
-9946PK,Klapsterweg,86,,
-9946PK,Klapsterweg,88,,
-9946PK,Klapsterweg,90,,
-9946PK,Klapsterweg,94,,
-9946RM,Klein Leger,6,,
-9946RM,Klein Leger,5,,
-9946RM,Klein Leger,4,,
-9946RM,Klein Leger,2,,
-9946RM,Klein Leger,1,,
-9946RM,Klein Leger,7,,
-9946RM,Klein Leger,1,,
-9946RR,Munster,1,,
-9946RR,Munster,2,,
-9946RR,Munster,3,,
-9946RR,Munster,4,,
-9946RR,Munster,5,,
-9946RR,Munster,6,,
-9946RR,Munster,7,,
-9946RR,Munster,8,,
-9946RR,Munster,13,,
-9946RR,Munster,14,,
-9946RR,Munster,9,,
-9946RR,Munster,10,,
-9946RR,Munster,11,,
-9946RR,Munster,12,,
-9946RS,Schildkamp,10,,
-9946RS,Schildkamp,12,,
-9946RS,Schildkamp,14,,
-9946RS,Schildkamp,16,,
-9946RS,Schildkamp,25,,
-9946RS,Schildkamp,27,,
-9946RS,Schildkamp,21,,
-9946RS,Schildkamp,23,,
-9946RS,Schildkamp,1,,
-9946RS,Schildkamp,3,,
-9946RS,Schildkamp,5,,
-9946RS,Schildkamp,2,,
-9946RS,Schildkamp,4,,
-9946RS,Schildkamp,6,,
-9946RS,Schildkamp,8,,
-9946RS,Schildkamp,22,,
-9946RS,Schildkamp,24,,
-9946RS,Schildkamp,26,,
-9946RS,Schildkamp,28,,
-9946RT,Trambaan,11,,
-9946RT,Trambaan,9,,
-9946RT,Trambaan,7,,
-9946RT,Trambaan,5,,
-9946RT,Trambaan,3,,
-9946RT,Trambaan,1,,
-9946RT,Trambaan,2,,
-9946RT,Trambaan,4,,
-9946RT,Trambaan,6,,
-9946RT,Trambaan,8,,
-9946RT,Trambaan,10,,
-9946RT,Trambaan,12,,
-9946RT,Trambaan,13,,
-9946RT,Trambaan,15,,
-9946RT,Trambaan,17,,
-9946RT,Trambaan,19,,
-9946RT,Trambaan,14,,
-9946RT,Trambaan,16,,
-9946RT,Trambaan,18,,
-9946RT,Trambaan,20,,
-9946RT,Trambaan,22,,
-9946RA,Zwaagweg,21,,
-9946RA,Zwaagweg,23,,
-9946RA,Zwaagweg,13,,
-9946RA,Zwaagweg,15,,
-9946RA,Zwaagweg,17,,
-9946RA,Zwaagweg,19,,
-9946RA,Zwaagweg,1,,
-9946RA,Zwaagweg,3,,
-9946RA,Zwaagweg,5,,
-9946RA,Zwaagweg,7,,
-9946RB,Zwaagweg,41,,
-9946RB,Zwaagweg,43,,
-9946RB,Zwaagweg,47,,
-9946RB,Zwaagweg,39,,
-9946RB,Zwaagweg,35,,
-9946RB,Zwaagweg,37,,
-9946RB,Zwaagweg,29,,
-9946RB,Zwaagweg,31,,
-9946RB,Zwaagweg,33,,
-9946RB,Zwaagweg,25,,
-9946RB,Zwaagweg,27,,
-9946RB,Zwaagweg,45,,
-9946RC,Zwaagweg,12,,
-9946RC,Zwaagweg,14,,
-9946RC,Zwaagweg,2,,
-9946RC,Zwaagweg,4,,
-9946RC,Zwaagweg,6,,
-9946RC,Zwaagweg,8,,
-9946RC,Zwaagweg,10,,
-9946RD,Zwaagweg,16,A,
-9946RD,Zwaagweg,40,,
-9946RD,Zwaagweg,50,,
-9946RD,Zwaagweg,46,,
-9946RD,Zwaagweg,38,,
-9946RD,Zwaagweg,36,,
-9946RD,Zwaagweg,34,,
-9946RD,Zwaagweg,32,,
-9946RD,Zwaagweg,32,A,
-9946RD,Zwaagweg,24,,
-9946RD,Zwaagweg,26,,
-9946RD,Zwaagweg,28,,
-9946RD,Zwaagweg,30,,
-9946RD,Zwaagweg,16,,
-9946RD,Zwaagweg,18,,
-9946RD,Zwaagweg,20,,
-9946RD,Zwaagweg,22,,
-9946RE,Zwaagweg,56,,
-9946RE,Zwaagweg,90,,
-9946RE,Zwaagweg,88,,
-9946RE,Zwaagweg,84,,
-9946RE,Zwaagweg,82,,
-9946RE,Zwaagweg,58,,
-9946RE,Zwaagweg,62,,
-9946RE,Zwaagweg,80,,
-9946RE,Zwaagweg,78,,
-9946RE,Zwaagweg,76,,
-9946RE,Zwaagweg,74,,
-9946RE,Zwaagweg,72,,
-9946RE,Zwaagweg,66,,
-9946RE,Zwaagweg,68,,
-9946RE,Zwaagweg,70,,
-9946RE,Zwaagweg,52,,
-9946RE,Zwaagweg,54,,
-9946RE,Zwaagweg,56,,
-9946RH,AE-weg,25,,
-9946RH,AE-weg,27,,
-9946RH,AE-weg,29,,
-9946RH,AE-weg,17,,
-9946RH,AE-weg,19,,
-9946RH,AE-weg,21,,
-9946RH,AE-weg,23,,
-9946RH,AE-weg,15,,
-9946RH,AE-weg,11,,
-9946RH,AE-weg,13,,
-9946RH,AE-weg,5,,
-9946RH,AE-weg,7,,
-9946RH,AE-weg,9,,
-9946RH,AE-weg,1,,
-9946RH,AE-weg,3,,
-9946RJ,AE-weg,51,,
-9946RJ,AE-weg,53,,
-9946RJ,AE-weg,57,,
-9946RJ,AE-weg,59,,
-9946RJ,AE-weg,61,,
-9946RJ,AE-weg,41,,
-9946RJ,AE-weg,43,,
-9946RJ,AE-weg,45,,
-9946RJ,AE-weg,33,,
-9946RJ,AE-weg,35,,
-9946RJ,AE-weg,37,,
-9946RJ,AE-weg,39,,
-9946RJ,AE-weg,63,,
-9946RK,AE-weg,18,,
-9946RK,AE-weg,20,,
-9946RK,AE-weg,22,,
-9946RK,AE-weg,24,,
-9946RK,AE-weg,26,,
-9946RK,AE-weg,16,,
-9946RK,AE-weg,14,A,
-9946RK,AE-weg,10,,
-9946RK,AE-weg,12,,
-9946RK,AE-weg,14,,
-9946RK,AE-weg,4,,
-9946RK,AE-weg,6,,
-9946RK,AE-weg,2,,
-9946RK,AE-weg,8,,
-9946RL,AE-weg,40,,
-9946RL,AE-weg,42,,
-9946RL,AE-weg,38,,
-9946RL,AE-weg,36,,
-9946RL,AE-weg,34,,
-9946RL,AE-weg,30,,
-9946RL,AE-weg,28,,
-9946RL,AE-weg,32,,
-9946PE,A.E. Gorterweg,86,,
-9946PE,A.E. Gorterweg,86,,
-9946PL,Burg. Garreltsweg,23,,
-9946PK,Klapsterweg,94,a,
-9946RE,Zwaagweg,80,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+A.E. Gorterweg,1,"","",9946PA,Woldendorp
+A.E. Gorterweg,1,A,"",9946PA,Woldendorp
+A.E. Gorterweg,1,A,"",9946PA,Woldendorp
+A.E. Gorterweg,11,"","",9946PA,Woldendorp
+A.E. Gorterweg,13,"","",9946PA,Woldendorp
+A.E. Gorterweg,15,"","",9946PA,Woldendorp
+A.E. Gorterweg,17,"","",9946PA,Woldendorp
+A.E. Gorterweg,19,"","",9946PA,Woldendorp
+A.E. Gorterweg,19,A,"",9946PA,Woldendorp
+A.E. Gorterweg,5,"","",9946PA,Woldendorp
+A.E. Gorterweg,7,"","",9946PA,Woldendorp
+A.E. Gorterweg,9,"","",9946PA,Woldendorp
+A.E. Gorterweg,21,"","",9946PB,Woldendorp
+A.E. Gorterweg,23,"","",9946PB,Woldendorp
+A.E. Gorterweg,25,"","",9946PB,Woldendorp
+A.E. Gorterweg,27,"","",9946PB,Woldendorp
+A.E. Gorterweg,29,"","",9946PB,Woldendorp
+A.E. Gorterweg,31,"","",9946PB,Woldendorp
+A.E. Gorterweg,33,"","",9946PB,Woldendorp
+A.E. Gorterweg,35,"","",9946PB,Woldendorp
+A.E. Gorterweg,37,"","",9946PB,Woldendorp
+A.E. Gorterweg,39,"","",9946PB,Woldendorp
+A.E. Gorterweg,41,"","",9946PB,Woldendorp
+A.E. Gorterweg,43,"","",9946PB,Woldendorp
+A.E. Gorterweg,45,"","",9946PB,Woldendorp
+A.E. Gorterweg,10,"","",9946PC,Woldendorp
+A.E. Gorterweg,12,"","",9946PC,Woldendorp
+A.E. Gorterweg,14,"","",9946PC,Woldendorp
+A.E. Gorterweg,14,"","",9946PC,Woldendorp
+A.E. Gorterweg,16,"","",9946PC,Woldendorp
+A.E. Gorterweg,18,"","",9946PC,Woldendorp
+A.E. Gorterweg,2,"","",9946PC,Woldendorp
+A.E. Gorterweg,20,"","",9946PC,Woldendorp
+A.E. Gorterweg,22,"","",9946PC,Woldendorp
+A.E. Gorterweg,24,"","",9946PC,Woldendorp
+A.E. Gorterweg,26,"","",9946PC,Woldendorp
+A.E. Gorterweg,26,"","",9946PC,Woldendorp
+A.E. Gorterweg,28,"","",9946PC,Woldendorp
+A.E. Gorterweg,4,"","",9946PC,Woldendorp
+A.E. Gorterweg,6,"","",9946PC,Woldendorp
+A.E. Gorterweg,30,"","",9946PD,Woldendorp
+A.E. Gorterweg,32,"","",9946PD,Woldendorp
+A.E. Gorterweg,34,"","",9946PD,Woldendorp
+A.E. Gorterweg,34,"","",9946PD,Woldendorp
+A.E. Gorterweg,36,"","",9946PD,Woldendorp
+A.E. Gorterweg,38,"","",9946PD,Woldendorp
+A.E. Gorterweg,40,"","",9946PD,Woldendorp
+A.E. Gorterweg,42,"","",9946PD,Woldendorp
+A.E. Gorterweg,44,"","",9946PD,Woldendorp
+A.E. Gorterweg,44,A,"",9946PD,Woldendorp
+A.E. Gorterweg,46,"","",9946PD,Woldendorp
+A.E. Gorterweg,48,"","",9946PD,Woldendorp
+A.E. Gorterweg,52,"","",9946PD,Woldendorp
+A.E. Gorterweg,56,"","",9946PD,Woldendorp
+A.E. Gorterweg,58,"","",9946PD,Woldendorp
+A.E. Gorterweg,60,"","",9946PE,Woldendorp
+A.E. Gorterweg,60,A,"",9946PE,Woldendorp
+A.E. Gorterweg,60,B,"",9946PE,Woldendorp
+A.E. Gorterweg,60,C,"",9946PE,Woldendorp
+A.E. Gorterweg,60,D,"",9946PE,Woldendorp
+A.E. Gorterweg,62,"","",9946PE,Woldendorp
+A.E. Gorterweg,64,"","",9946PE,Woldendorp
+A.E. Gorterweg,66,"","",9946PE,Woldendorp
+A.E. Gorterweg,68,"","",9946PE,Woldendorp
+A.E. Gorterweg,68,A,"",9946PE,Woldendorp
+A.E. Gorterweg,68,B,"",9946PE,Woldendorp
+A.E. Gorterweg,70,"","",9946PE,Woldendorp
+A.E. Gorterweg,72,"","",9946PE,Woldendorp
+A.E. Gorterweg,76,"","",9946PE,Woldendorp
+A.E. Gorterweg,78,"","",9946PE,Woldendorp
+A.E. Gorterweg,80,"","",9946PE,Woldendorp
+A.E. Gorterweg,82,"","",9946PE,Woldendorp
+A.E. Gorterweg,84,"","",9946PE,Woldendorp
+A.E. Gorterweg,86,"","",9946PE,Woldendorp
+A.E. Gorterweg,86,"","",9946PE,Woldendorp
+A.E. Gorterweg,88,"","",9946PE,Woldendorp
+A.E. Gorterweg,90,"","",9946PE,Woldendorp
+A.E. Gorterweg,92,"","",9946PE,Woldendorp
+A.E. Gorterweg,92,"","",9946PE,Woldendorp
+A.E. Gorterweg,92,"","",9946PE,Woldendorp
+A.E. Gorterweg,92,"","",9946PE,Woldendorp
+A.E. Gorterweg,94,"","",9946PE,Woldendorp
+Klapsterweg,1,"","",9946PG,Woldendorp
+Klapsterweg,13,"","",9946PG,Woldendorp
+Klapsterweg,15,"","",9946PG,Woldendorp
+Klapsterweg,17,"","",9946PG,Woldendorp
+Klapsterweg,19,"","",9946PG,Woldendorp
+Klapsterweg,21,"","",9946PG,Woldendorp
+Klapsterweg,23,"","",9946PG,Woldendorp
+Klapsterweg,25,"","",9946PG,Woldendorp
+Klapsterweg,27,"","",9946PG,Woldendorp
+Klapsterweg,29,"","",9946PG,Woldendorp
+Klapsterweg,31,"","",9946PG,Woldendorp
+Klapsterweg,33,"","",9946PG,Woldendorp
+Klapsterweg,35,"","",9946PG,Woldendorp
+Klapsterweg,37,"","",9946PG,Woldendorp
+Klapsterweg,37,"","",9946PG,Woldendorp
+Klapsterweg,37,"","",9946PG,Woldendorp
+Klapsterweg,5,"","",9946PG,Woldendorp
+Klapsterweg,7,"","",9946PG,Woldendorp
+Klapsterweg,9,"","",9946PG,Woldendorp
+Klapsterweg,12,"","",9946PH,Woldendorp
+Klapsterweg,16,"","",9946PH,Woldendorp
+Klapsterweg,18,"","",9946PH,Woldendorp
+Klapsterweg,2,"","",9946PH,Woldendorp
+Klapsterweg,20,"","",9946PH,Woldendorp
+Klapsterweg,22,"","",9946PH,Woldendorp
+Klapsterweg,26,"","",9946PH,Woldendorp
+Klapsterweg,32,"","",9946PH,Woldendorp
+Klapsterweg,36,"","",9946PH,Woldendorp
+Klapsterweg,38,"","",9946PH,Woldendorp
+Klapsterweg,4,"","",9946PH,Woldendorp
+Klapsterweg,40,"","",9946PH,Woldendorp
+Klapsterweg,42,"","",9946PH,Woldendorp
+Klapsterweg,6,"","",9946PH,Woldendorp
+Klapsterweg,44,"","",9946PJ,Woldendorp
+Klapsterweg,46,"","",9946PJ,Woldendorp
+Klapsterweg,48,"","",9946PJ,Woldendorp
+Klapsterweg,50,"","",9946PJ,Woldendorp
+Klapsterweg,52,"","",9946PJ,Woldendorp
+Klapsterweg,54,"","",9946PJ,Woldendorp
+Klapsterweg,56,"","",9946PJ,Woldendorp
+Klapsterweg,58,"","",9946PJ,Woldendorp
+Klapsterweg,60,"","",9946PJ,Woldendorp
+Klapsterweg,62,"","",9946PJ,Woldendorp
+Klapsterweg,64,"","",9946PJ,Woldendorp
+Klapsterweg,66,"","",9946PJ,Woldendorp
+Klapsterweg,68,"","",9946PJ,Woldendorp
+Klapsterweg,70,"","",9946PK,Woldendorp
+Klapsterweg,72,"","",9946PK,Woldendorp
+Klapsterweg,74,"","",9946PK,Woldendorp
+Klapsterweg,76,"","",9946PK,Woldendorp
+Klapsterweg,78,"","",9946PK,Woldendorp
+Klapsterweg,80,"","",9946PK,Woldendorp
+Klapsterweg,82,"","",9946PK,Woldendorp
+Klapsterweg,84,"","",9946PK,Woldendorp
+Klapsterweg,86,"","",9946PK,Woldendorp
+Klapsterweg,88,"","",9946PK,Woldendorp
+Klapsterweg,90,"","",9946PK,Woldendorp
+Klapsterweg,94,"","",9946PK,Woldendorp
+Burg. Garreltsweg,1,"","",9946PL,Woldendorp
+Burg. Garreltsweg,17,"","",9946PL,Woldendorp
+Burg. Garreltsweg,19,"","",9946PL,Woldendorp
+Burg. Garreltsweg,19,A,"",9946PL,Woldendorp
+Burg. Garreltsweg,21,"","",9946PL,Woldendorp
+Burg. Garreltsweg,23,"","",9946PL,Woldendorp
+Burg. Garreltsweg,23,"","",9946PL,Woldendorp
+Burg. Garreltsweg,25,"","",9946PL,Woldendorp
+Burg. Garreltsweg,27,"","",9946PL,Woldendorp
+Burg. Garreltsweg,3,"","",9946PL,Woldendorp
+Burg. Garreltsweg,5,"","",9946PL,Woldendorp
+Burg. Garreltsweg,7,"","",9946PL,Woldendorp
+Burg. Garreltsweg,29,"","",9946PM,Woldendorp
+Burg. Garreltsweg,31,"","",9946PM,Woldendorp
+Burg. Garreltsweg,31,"","",9946PM,Woldendorp
+Burg. Garreltsweg,31,"","",9946PM,Woldendorp
+Burg. Garreltsweg,33,"","",9946PM,Woldendorp
+Burg. Garreltsweg,33,"","",9946PM,Woldendorp
+Burg. Garreltsweg,35,"","",9946PM,Woldendorp
+Burg. Garreltsweg,35,A,"",9946PM,Woldendorp
+Burg. Garreltsweg,37,"","",9946PM,Woldendorp
+Burg. Garreltsweg,39,"","",9946PM,Woldendorp
+Burg. Garreltsweg,41,"","",9946PM,Woldendorp
+Burg. Garreltsweg,43,"","",9946PM,Woldendorp
+Burg. Garreltsweg,45,"","",9946PM,Woldendorp
+Burg. Garreltsweg,47,"","",9946PM,Woldendorp
+Burg. Garreltsweg,49,"","",9946PM,Woldendorp
+Burg. Garreltsweg,49,B,"",9946PM,Woldendorp
+Burg. Garreltsweg,49,C,"",9946PM,Woldendorp
+Burg. Garreltsweg,49,C,"",9946PM,Woldendorp
+Burg. Garreltsweg,51,"","",9946PM,Woldendorp
+Burg. Garreltsweg,51,A,"",9946PM,Woldendorp
+Burg. Garreltsweg,51,B,"",9946PM,Woldendorp
+Burg. Garreltsweg,51,C,"",9946PM,Woldendorp
+Burg. Garreltsweg,51,D,"",9946PM,Woldendorp
+Burg. Garreltsweg,51,E,"",9946PM,Woldendorp
+Burg. Garreltsweg,53,"","",9946PM,Woldendorp
+Burg. Garreltsweg,53,A,"",9946PM,Woldendorp
+Burg. Garreltsweg,53,B,"",9946PM,Woldendorp
+Burg. Garreltsweg,55,"","",9946PM,Woldendorp
+Burg. Garreltsweg,57,"","",9946PM,Woldendorp
+Burg. Garreltsweg,59,"","",9946PM,Woldendorp
+Burg. Garreltsweg,61,"","",9946PM,Woldendorp
+Burg. Garreltsweg,12,"","",9946PN,Woldendorp
+Burg. Garreltsweg,14,"","",9946PN,Woldendorp
+Burg. Garreltsweg,16,"","",9946PN,Woldendorp
+Burg. Garreltsweg,18,"","",9946PN,Woldendorp
+Burg. Garreltsweg,2,"","",9946PN,Woldendorp
+Burg. Garreltsweg,20,"","",9946PN,Woldendorp
+Burg. Garreltsweg,22,"","",9946PN,Woldendorp
+Burg. Garreltsweg,24,"","",9946PN,Woldendorp
+Burg. Garreltsweg,26,"","",9946PN,Woldendorp
+Burg. Garreltsweg,28,"","",9946PN,Woldendorp
+Burg. Garreltsweg,4,"","",9946PN,Woldendorp
+Burg. Garreltsweg,6,"","",9946PN,Woldendorp
+Burg. Garreltsweg,8,"","",9946PN,Woldendorp
+Burg. Garreltsweg,30,"","",9946PP,Woldendorp
+Burg. Garreltsweg,32,"","",9946PP,Woldendorp
+Burg. Garreltsweg,34,"","",9946PP,Woldendorp
+Burg. Garreltsweg,36,"","",9946PP,Woldendorp
+Burg. Garreltsweg,38,"","",9946PP,Woldendorp
+Burg. Garreltsweg,40,"","",9946PP,Woldendorp
+Burg. Garreltsweg,42,"","",9946PP,Woldendorp
+Burg. Garreltsweg,44,"","",9946PP,Woldendorp
+Burg. Garreltsweg,46,"","",9946PP,Woldendorp
+Burg. Garreltsweg,48,"","",9946PP,Woldendorp
+Burg. Garreltsweg,50,"","",9946PP,Woldendorp
+Burg. Garreltsweg,52,"","",9946PP,Woldendorp
+Burg. Garreltsweg,54,"","",9946PP,Woldendorp
+Burg. Garreltsweg,56,"","",9946PP,Woldendorp
+Burg. Garreltsweg,58,"","",9946PR,Woldendorp
+Burg. Garreltsweg,60,"","",9946PR,Woldendorp
+Burg. Garreltsweg,62,"","",9946PR,Woldendorp
+Burg. Garreltsweg,64,"","",9946PR,Woldendorp
+Burg. Garreltsweg,66,"","",9946PR,Woldendorp
+Burg. Garreltsweg,68,"","",9946PR,Woldendorp
+Burg. Garreltsweg,70,"","",9946PR,Woldendorp
+Burg. Garreltsweg,72,"","",9946PR,Woldendorp
+Burg. Garreltsweg,74,"","",9946PR,Woldendorp
+Burg. Garreltsweg,76,"","",9946PR,Woldendorp
+Burg. Garreltsweg,78,"","",9946PR,Woldendorp
+Burg. Garreltsweg,80,"","",9946PR,Woldendorp
+Burg. Garreltsweg,82,"","",9946PR,Woldendorp
+Burg. Garreltsweg,84,"","",9946PR,Woldendorp
+Burg. Garreltsweg,86,"","",9946PR,Woldendorp
+H. Berrelkampstraat,11,"","",9946PS,Woldendorp
+H. Berrelkampstraat,13,"","",9946PS,Woldendorp
+H. Berrelkampstraat,15,"","",9946PS,Woldendorp
+H. Berrelkampstraat,17,"","",9946PS,Woldendorp
+H. Berrelkampstraat,19,"","",9946PS,Woldendorp
+H. Berrelkampstraat,21,"","",9946PS,Woldendorp
+H. Berrelkampstraat,23,"","",9946PS,Woldendorp
+H. Berrelkampstraat,25,"","",9946PS,Woldendorp
+H. Berrelkampstraat,27,"","",9946PS,Woldendorp
+H. Berrelkampstraat,29,"","",9946PS,Woldendorp
+H. Berrelkampstraat,3,"","",9946PS,Woldendorp
+H. Berrelkampstraat,31,"","",9946PS,Woldendorp
+H. Berrelkampstraat,33,"","",9946PS,Woldendorp
+H. Berrelkampstraat,35,"","",9946PS,Woldendorp
+H. Berrelkampstraat,37,"","",9946PS,Woldendorp
+H. Berrelkampstraat,5,"","",9946PS,Woldendorp
+H. Berrelkampstraat,9,"","",9946PS,Woldendorp
+H. Berrelkampstraat,10,"","",9946PT,Woldendorp
+H. Berrelkampstraat,12,"","",9946PT,Woldendorp
+H. Berrelkampstraat,14,"","",9946PT,Woldendorp
+H. Berrelkampstraat,16,"","",9946PT,Woldendorp
+H. Berrelkampstraat,18,"","",9946PT,Woldendorp
+H. Berrelkampstraat,2,"","",9946PT,Woldendorp
+H. Berrelkampstraat,2,A,"",9946PT,Woldendorp
+H. Berrelkampstraat,2,B,"",9946PT,Woldendorp
+H. Berrelkampstraat,20,"","",9946PT,Woldendorp
+H. Berrelkampstraat,22,"","",9946PT,Woldendorp
+H. Berrelkampstraat,24,"","",9946PT,Woldendorp
+H. Berrelkampstraat,26,"","",9946PT,Woldendorp
+H. Berrelkampstraat,28,"","",9946PT,Woldendorp
+H. Berrelkampstraat,4,"","",9946PT,Woldendorp
+H. Berrelkampstraat,6,"","",9946PT,Woldendorp
+H. Berrelkampstraat,8,"","",9946PT,Woldendorp
+Zwaagweg,1,"","",9946RA,Woldendorp
+Zwaagweg,13,"","",9946RA,Woldendorp
+Zwaagweg,15,"","",9946RA,Woldendorp
+Zwaagweg,17,"","",9946RA,Woldendorp
+Zwaagweg,19,"","",9946RA,Woldendorp
+Zwaagweg,21,"","",9946RA,Woldendorp
+Zwaagweg,23,"","",9946RA,Woldendorp
+Zwaagweg,3,"","",9946RA,Woldendorp
+Zwaagweg,5,"","",9946RA,Woldendorp
+Zwaagweg,7,"","",9946RA,Woldendorp
+Zwaagweg,25,"","",9946RB,Woldendorp
+Zwaagweg,27,"","",9946RB,Woldendorp
+Zwaagweg,29,"","",9946RB,Woldendorp
+Zwaagweg,31,"","",9946RB,Woldendorp
+Zwaagweg,33,"","",9946RB,Woldendorp
+Zwaagweg,35,"","",9946RB,Woldendorp
+Zwaagweg,37,"","",9946RB,Woldendorp
+Zwaagweg,39,"","",9946RB,Woldendorp
+Zwaagweg,41,"","",9946RB,Woldendorp
+Zwaagweg,43,"","",9946RB,Woldendorp
+Zwaagweg,45,"","",9946RB,Woldendorp
+Zwaagweg,47,"","",9946RB,Woldendorp
+Zwaagweg,10,"","",9946RC,Woldendorp
+Zwaagweg,12,"","",9946RC,Woldendorp
+Zwaagweg,14,"","",9946RC,Woldendorp
+Zwaagweg,2,"","",9946RC,Woldendorp
+Zwaagweg,4,"","",9946RC,Woldendorp
+Zwaagweg,6,"","",9946RC,Woldendorp
+Zwaagweg,8,"","",9946RC,Woldendorp
+Zwaagweg,16,"","",9946RD,Woldendorp
+Zwaagweg,16,A,"",9946RD,Woldendorp
+Zwaagweg,18,"","",9946RD,Woldendorp
+Zwaagweg,20,"","",9946RD,Woldendorp
+Zwaagweg,22,"","",9946RD,Woldendorp
+Zwaagweg,24,"","",9946RD,Woldendorp
+Zwaagweg,26,"","",9946RD,Woldendorp
+Zwaagweg,28,"","",9946RD,Woldendorp
+Zwaagweg,30,"","",9946RD,Woldendorp
+Zwaagweg,32,"","",9946RD,Woldendorp
+Zwaagweg,32,A,"",9946RD,Woldendorp
+Zwaagweg,34,"","",9946RD,Woldendorp
+Zwaagweg,36,"","",9946RD,Woldendorp
+Zwaagweg,38,"","",9946RD,Woldendorp
+Zwaagweg,40,"","",9946RD,Woldendorp
+Zwaagweg,46,"","",9946RD,Woldendorp
+Zwaagweg,50,"","",9946RD,Woldendorp
+Zwaagweg,52,"","",9946RE,Woldendorp
+Zwaagweg,54,"","",9946RE,Woldendorp
+Zwaagweg,56,"","",9946RE,Woldendorp
+Zwaagweg,56,"","",9946RE,Woldendorp
+Zwaagweg,56,"","",9946RE,Woldendorp
+Zwaagweg,58,"","",9946RE,Woldendorp
+Zwaagweg,62,"","",9946RE,Woldendorp
+Zwaagweg,66,"","",9946RE,Woldendorp
+Zwaagweg,68,"","",9946RE,Woldendorp
+Zwaagweg,70,"","",9946RE,Woldendorp
+Zwaagweg,72,"","",9946RE,Woldendorp
+Zwaagweg,74,"","",9946RE,Woldendorp
+Zwaagweg,76,"","",9946RE,Woldendorp
+Zwaagweg,78,"","",9946RE,Woldendorp
+Zwaagweg,80,"","",9946RE,Woldendorp
+Zwaagweg,82,"","",9946RE,Woldendorp
+Zwaagweg,84,"","",9946RE,Woldendorp
+Zwaagweg,88,"","",9946RE,Woldendorp
+Zwaagweg,90,"","",9946RE,Woldendorp
+Groenelaan,1,"","",9946RG,Woldendorp
+Groenelaan,10,"","",9946RG,Woldendorp
+Groenelaan,11,"","",9946RG,Woldendorp
+Groenelaan,12,"","",9946RG,Woldendorp
+Groenelaan,13,"","",9946RG,Woldendorp
+Groenelaan,14,"","",9946RG,Woldendorp
+Groenelaan,15,"","",9946RG,Woldendorp
+Groenelaan,16,"","",9946RG,Woldendorp
+Groenelaan,17,"","",9946RG,Woldendorp
+Groenelaan,18,"","",9946RG,Woldendorp
+Groenelaan,19,"","",9946RG,Woldendorp
+Groenelaan,4,"","",9946RG,Woldendorp
+Groenelaan,5,"","",9946RG,Woldendorp
+Groenelaan,6,"","",9946RG,Woldendorp
+Groenelaan,8,"","",9946RG,Woldendorp
+Groenelaan,9,"","",9946RG,Woldendorp
+AE-weg,1,"","",9946RH,Woldendorp
+AE-weg,1,"","",9946RH,Woldendorp
+AE-weg,11,"","",9946RH,Woldendorp
+AE-weg,11,"","",9946RH,Woldendorp
+AE-weg,13,"","",9946RH,Woldendorp
+AE-weg,13,"","",9946RH,Woldendorp
+AE-weg,15,"","",9946RH,Woldendorp
+AE-weg,15,"","",9946RH,Woldendorp
+AE-weg,17,"","",9946RH,Woldendorp
+AE-weg,17,"","",9946RH,Woldendorp
+AE-weg,19,"","",9946RH,Woldendorp
+AE-weg,19,"","",9946RH,Woldendorp
+AE-weg,21,"","",9946RH,Woldendorp
+AE-weg,21,"","",9946RH,Woldendorp
+AE-weg,23,"","",9946RH,Woldendorp
+AE-weg,23,"","",9946RH,Woldendorp
+AE-weg,25,"","",9946RH,Woldendorp
+AE-weg,25,"","",9946RH,Woldendorp
+AE-weg,27,"","",9946RH,Woldendorp
+AE-weg,27,"","",9946RH,Woldendorp
+AE-weg,29,"","",9946RH,Woldendorp
+AE-weg,29,"","",9946RH,Woldendorp
+AE-weg,3,"","",9946RH,Woldendorp
+AE-weg,3,"","",9946RH,Woldendorp
+AE-weg,5,"","",9946RH,Woldendorp
+AE-weg,5,"","",9946RH,Woldendorp
+AE-weg,7,"","",9946RH,Woldendorp
+AE-weg,7,"","",9946RH,Woldendorp
+AE-weg,9,"","",9946RH,Woldendorp
+AE-weg,9,"","",9946RH,Woldendorp
+AE-weg,33,"","",9946RJ,Woldendorp
+AE-weg,33,"","",9946RJ,Woldendorp
+AE-weg,35,"","",9946RJ,Woldendorp
+AE-weg,35,"","",9946RJ,Woldendorp
+AE-weg,37,"","",9946RJ,Woldendorp
+AE-weg,37,"","",9946RJ,Woldendorp
+AE-weg,39,"","",9946RJ,Woldendorp
+AE-weg,39,"","",9946RJ,Woldendorp
+AE-weg,41,"","",9946RJ,Woldendorp
+AE-weg,41,"","",9946RJ,Woldendorp
+AE-weg,43,"","",9946RJ,Woldendorp
+AE-weg,43,"","",9946RJ,Woldendorp
+AE-weg,45,"","",9946RJ,Woldendorp
+AE-weg,45,"","",9946RJ,Woldendorp
+AE-weg,51,"","",9946RJ,Woldendorp
+AE-weg,51,"","",9946RJ,Woldendorp
+AE-weg,53,"","",9946RJ,Woldendorp
+AE-weg,53,"","",9946RJ,Woldendorp
+AE-weg,57,"","",9946RJ,Woldendorp
+AE-weg,57,"","",9946RJ,Woldendorp
+AE-weg,59,"","",9946RJ,Woldendorp
+AE-weg,59,"","",9946RJ,Woldendorp
+AE-weg,61,"","",9946RJ,Woldendorp
+AE-weg,61,"","",9946RJ,Woldendorp
+AE-weg,63,"","",9946RJ,Woldendorp
+AE-weg,63,"","",9946RJ,Woldendorp
+AE-weg,10,"","",9946RK,Woldendorp
+AE-weg,10,"","",9946RK,Woldendorp
+AE-weg,12,"","",9946RK,Woldendorp
+AE-weg,12,"","",9946RK,Woldendorp
+AE-weg,14,"","",9946RK,Woldendorp
+AE-weg,14,"","",9946RK,Woldendorp
+AE-weg,14,A,"",9946RK,Woldendorp
+AE-weg,14,A,"",9946RK,Woldendorp
+AE-weg,16,"","",9946RK,Woldendorp
+AE-weg,16,"","",9946RK,Woldendorp
+AE-weg,18,"","",9946RK,Woldendorp
+AE-weg,18,"","",9946RK,Woldendorp
+AE-weg,2,"","",9946RK,Woldendorp
+AE-weg,2,"","",9946RK,Woldendorp
+AE-weg,20,"","",9946RK,Woldendorp
+AE-weg,20,"","",9946RK,Woldendorp
+AE-weg,22,"","",9946RK,Woldendorp
+AE-weg,22,"","",9946RK,Woldendorp
+AE-weg,24,"","",9946RK,Woldendorp
+AE-weg,24,"","",9946RK,Woldendorp
+AE-weg,26,"","",9946RK,Woldendorp
+AE-weg,26,"","",9946RK,Woldendorp
+AE-weg,4,"","",9946RK,Woldendorp
+AE-weg,4,"","",9946RK,Woldendorp
+AE-weg,6,"","",9946RK,Woldendorp
+AE-weg,6,"","",9946RK,Woldendorp
+AE-weg,8,"","",9946RK,Woldendorp
+AE-weg,8,"","",9946RK,Woldendorp
+AE-weg,28,"","",9946RL,Woldendorp
+AE-weg,28,"","",9946RL,Woldendorp
+AE-weg,30,"","",9946RL,Woldendorp
+AE-weg,30,"","",9946RL,Woldendorp
+AE-weg,32,"","",9946RL,Woldendorp
+AE-weg,32,"","",9946RL,Woldendorp
+AE-weg,34,"","",9946RL,Woldendorp
+AE-weg,34,"","",9946RL,Woldendorp
+AE-weg,36,"","",9946RL,Woldendorp
+AE-weg,36,"","",9946RL,Woldendorp
+AE-weg,38,"","",9946RL,Woldendorp
+AE-weg,38,"","",9946RL,Woldendorp
+AE-weg,40,"","",9946RL,Woldendorp
+AE-weg,40,"","",9946RL,Woldendorp
+AE-weg,42,"","",9946RL,Woldendorp
+AE-weg,42,"","",9946RL,Woldendorp
+Klein Leger,1,"","",9946RM,Woldendorp
+Klein Leger,1,"","",9946RM,Woldendorp
+Klein Leger,1,"","",9946RM,Woldendorp
+Klein Leger,2,"","",9946RM,Woldendorp
+Klein Leger,4,"","",9946RM,Woldendorp
+Klein Leger,5,"","",9946RM,Woldendorp
+Klein Leger,6,"","",9946RM,Woldendorp
+Klein Leger,7,"","",9946RM,Woldendorp
+Heemweg,1,"","",9946RP,Woldendorp
+Heemweg,10,"","",9946RP,Woldendorp
+Heemweg,11,"","",9946RP,Woldendorp
+Heemweg,2,"","",9946RP,Woldendorp
+Heemweg,3,"","",9946RP,Woldendorp
+Heemweg,4,"","",9946RP,Woldendorp
+Heemweg,5,"","",9946RP,Woldendorp
+Heemweg,6,"","",9946RP,Woldendorp
+Heemweg,7,"","",9946RP,Woldendorp
+Heemweg,8,"","",9946RP,Woldendorp
+Heemweg,9,"","",9946RP,Woldendorp
+Munster,1,"","",9946RR,Woldendorp
+Munster,10,"","",9946RR,Woldendorp
+Munster,11,"","",9946RR,Woldendorp
+Munster,12,"","",9946RR,Woldendorp
+Munster,13,"","",9946RR,Woldendorp
+Munster,14,"","",9946RR,Woldendorp
+Munster,2,"","",9946RR,Woldendorp
+Munster,3,"","",9946RR,Woldendorp
+Munster,4,"","",9946RR,Woldendorp
+Munster,5,"","",9946RR,Woldendorp
+Munster,6,"","",9946RR,Woldendorp
+Munster,7,"","",9946RR,Woldendorp
+Munster,8,"","",9946RR,Woldendorp
+Munster,9,"","",9946RR,Woldendorp
+Schildkamp,1,"","",9946RS,Woldendorp
+Schildkamp,10,"","",9946RS,Woldendorp
+Schildkamp,12,"","",9946RS,Woldendorp
+Schildkamp,14,"","",9946RS,Woldendorp
+Schildkamp,16,"","",9946RS,Woldendorp
+Schildkamp,2,"","",9946RS,Woldendorp
+Schildkamp,21,"","",9946RS,Woldendorp
+Schildkamp,22,"","",9946RS,Woldendorp
+Schildkamp,23,"","",9946RS,Woldendorp
+Schildkamp,24,"","",9946RS,Woldendorp
+Schildkamp,25,"","",9946RS,Woldendorp
+Schildkamp,26,"","",9946RS,Woldendorp
+Schildkamp,27,"","",9946RS,Woldendorp
+Schildkamp,28,"","",9946RS,Woldendorp
+Schildkamp,3,"","",9946RS,Woldendorp
+Schildkamp,4,"","",9946RS,Woldendorp
+Schildkamp,5,"","",9946RS,Woldendorp
+Schildkamp,6,"","",9946RS,Woldendorp
+Schildkamp,8,"","",9946RS,Woldendorp
+Trambaan,1,"","",9946RT,Woldendorp
+Trambaan,10,"","",9946RT,Woldendorp
+Trambaan,11,"","",9946RT,Woldendorp
+Trambaan,12,"","",9946RT,Woldendorp
+Trambaan,13,"","",9946RT,Woldendorp
+Trambaan,14,"","",9946RT,Woldendorp
+Trambaan,15,"","",9946RT,Woldendorp
+Trambaan,16,"","",9946RT,Woldendorp
+Trambaan,17,"","",9946RT,Woldendorp
+Trambaan,18,"","",9946RT,Woldendorp
+Trambaan,19,"","",9946RT,Woldendorp
+Trambaan,2,"","",9946RT,Woldendorp
+Trambaan,20,"","",9946RT,Woldendorp
+Trambaan,22,"","",9946RT,Woldendorp
+Trambaan,3,"","",9946RT,Woldendorp
+Trambaan,4,"","",9946RT,Woldendorp
+Trambaan,5,"","",9946RT,Woldendorp
+Trambaan,6,"","",9946RT,Woldendorp
+Trambaan,7,"","",9946RT,Woldendorp
+Trambaan,8,"","",9946RT,Woldendorp
+Trambaan,9,"","",9946RT,Woldendorp

@@ -1,76 +1,76 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6566EX,Heerbaan,174,,
-6566EX,Heerbaan,224,,
-6566EX,Heerbaan,226,,
-6566EX,Heerbaan,228,,
-6566EX,Heerbaan,230,,
-6566EX,Heerbaan,230,a,
-6566EX,Heerbaan,232,,
-6566EX,Heerbaan,234,,
-6566EX,Heerbaan,236,,
-6566EX,Heerbaan,236,a,
-6566EX,Heerbaan,238,,
-6566EX,Heerbaan,242,,
-6566EX,Heerbaan,242,a,
-6566EX,Heerbaan,244,,
-6566EX,Heerbaan,246,,
-6566EX,Heerbaan,246,a,
-6566EX,Heerbaan,248,,
-6566EX,Heerbaan,250,,
-6566EX,Heerbaan,252,,
-6566EX,Heerbaan,254,,
-6566EX,Heerbaan,256,,
-6566EX,Heerbaan,258,,
-6566EX,Heerbaan,262,,
-6566EX,Heerbaan,264,,
-6566EX,Heerbaan,264,a,
-6566EX,Heerbaan,266,,
-6566EX,Heerbaan,268,,
-6566EX,Heerbaan,268,a,
-6566EX,Heerbaan,270,,
-6566EX,Heerbaan,274,,
-6566EX,Heerbaan,268,b,
-6566EX,Heerbaan,248,A,
-6566EX,Heerbaan,248,a,
-6566CK,Molenveld,1,,
-6566CK,Molenveld,1,a,
-6566CK,Molenveld,4,a,
-6566CK,Molenveld,8,,
-6566CK,Molenveld,8,a,
-6566CK,Molenveld,9,,
-6566CK,Molenveld,10,,
-6566CK,Molenveld,12,,
-6566CK,Molenveld,18,,
-6566CK,Molenveld,20,a,
-6566CK,Molenveld,24,,
-6566CK,Molenveld,28,,
-6566CK,Molenveld,2,,
-6566CK,Molenveld,4,,
-6566CK,Molenveld,6,,
-6566CK,Molenveld,7,,
-6566CK,Molenveld,10,a,
-6566CK,Molenveld,17,,
-6566CK,Molenveld,20,,
-6566CK,Molenveld,22,,
-6566CK,Molenveld,26,,
-6566CK,Molenveld,29,,
-6566CK,Molenveld,31,,
-6566CK,Molenveld,8,a,
-6566CK,Molenveld,6,a,
-6566CJ,C R Waiboerweg,1,,
-6566CJ,C R Waiboerweg,1,a,
-6566CJ,C R Waiboerweg,1,b,
-6566CJ,C R Waiboerweg,2,,
-6566CJ,C R Waiboerweg,3,,
-6566CJ,C R Waiboerweg,4,,
-6566CJ,C R Waiboerweg,5,,
-6566CJ,C R Waiboerweg,6,,
-6566CJ,C R Waiboerweg,9,,
-6566EX,Heerbaan,236,,
-6566EX,Heerbaan,264,,
-6566EX,Heerbaan,264,,
-6566EX,Heerbaan,264,a,
-6566CK,Molenveld,6,b,
-6566CK,Molenveld,11,,
-6566CK,Molenveld,13,,
-6566CK,Molenveld,15,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+C R Waiboerweg,1,"","",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,1,A,"",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,1,B,"",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,2,"","",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,3,"","",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,4,"","",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,5,"","",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,6,"","",6566CJ,Millingen aan de Rijn
+C R Waiboerweg,9,"","",6566CJ,Millingen aan de Rijn
+Molenveld,1,"","",6566CK,Millingen aan de Rijn
+Molenveld,1,A,"",6566CK,Millingen aan de Rijn
+Molenveld,10,"","",6566CK,Millingen aan de Rijn
+Molenveld,10,A,"",6566CK,Millingen aan de Rijn
+Molenveld,11,"","",6566CK,Millingen aan de Rijn
+Molenveld,12,"","",6566CK,Millingen aan de Rijn
+Molenveld,13,"","",6566CK,Millingen aan de Rijn
+Molenveld,15,"","",6566CK,Millingen aan de Rijn
+Molenveld,17,"","",6566CK,Millingen aan de Rijn
+Molenveld,18,"","",6566CK,Millingen aan de Rijn
+Molenveld,2,"","",6566CK,Millingen aan de Rijn
+Molenveld,20,"","",6566CK,Millingen aan de Rijn
+Molenveld,20,A,"",6566CK,Millingen aan de Rijn
+Molenveld,22,"","",6566CK,Millingen aan de Rijn
+Molenveld,24,"","",6566CK,Millingen aan de Rijn
+Molenveld,26,"","",6566CK,Millingen aan de Rijn
+Molenveld,28,"","",6566CK,Millingen aan de Rijn
+Molenveld,29,"","",6566CK,Millingen aan de Rijn
+Molenveld,31,"","",6566CK,Millingen aan de Rijn
+Molenveld,4,"","",6566CK,Millingen aan de Rijn
+Molenveld,4,A,"",6566CK,Millingen aan de Rijn
+Molenveld,6,"","",6566CK,Millingen aan de Rijn
+Molenveld,6,A,"",6566CK,Millingen aan de Rijn
+Molenveld,6,B,"",6566CK,Millingen aan de Rijn
+Molenveld,7,"","",6566CK,Millingen aan de Rijn
+Molenveld,8,"","",6566CK,Millingen aan de Rijn
+Molenveld,8,A,"",6566CK,Millingen aan de Rijn
+Molenveld,8,A,"",6566CK,Millingen aan de Rijn
+Molenveld,9,"","",6566CK,Millingen aan de Rijn
+Heerbaan,174,"","",6566EX,Millingen aan de Rijn
+Heerbaan,224,"","",6566EX,Millingen aan de Rijn
+Heerbaan,226,"","",6566EX,Millingen aan de Rijn
+Heerbaan,228,"","",6566EX,Millingen aan de Rijn
+Heerbaan,230,"","",6566EX,Millingen aan de Rijn
+Heerbaan,230,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,232,"","",6566EX,Millingen aan de Rijn
+Heerbaan,234,"","",6566EX,Millingen aan de Rijn
+Heerbaan,236,"","",6566EX,Millingen aan de Rijn
+Heerbaan,236,"","",6566EX,Millingen aan de Rijn
+Heerbaan,236,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,238,"","",6566EX,Millingen aan de Rijn
+Heerbaan,242,"","",6566EX,Millingen aan de Rijn
+Heerbaan,242,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,244,"","",6566EX,Millingen aan de Rijn
+Heerbaan,246,"","",6566EX,Millingen aan de Rijn
+Heerbaan,246,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,248,"","",6566EX,Millingen aan de Rijn
+Heerbaan,248,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,248,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,250,"","",6566EX,Millingen aan de Rijn
+Heerbaan,252,"","",6566EX,Millingen aan de Rijn
+Heerbaan,254,"","",6566EX,Millingen aan de Rijn
+Heerbaan,256,"","",6566EX,Millingen aan de Rijn
+Heerbaan,258,"","",6566EX,Millingen aan de Rijn
+Heerbaan,262,"","",6566EX,Millingen aan de Rijn
+Heerbaan,264,"","",6566EX,Millingen aan de Rijn
+Heerbaan,264,"","",6566EX,Millingen aan de Rijn
+Heerbaan,264,"","",6566EX,Millingen aan de Rijn
+Heerbaan,264,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,264,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,266,"","",6566EX,Millingen aan de Rijn
+Heerbaan,268,"","",6566EX,Millingen aan de Rijn
+Heerbaan,268,A,"",6566EX,Millingen aan de Rijn
+Heerbaan,268,B,"",6566EX,Millingen aan de Rijn
+Heerbaan,270,"","",6566EX,Millingen aan de Rijn
+Heerbaan,274,"","",6566EX,Millingen aan de Rijn

@@ -1,62 +1,62 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4538PH,Gravin Mariaweg,1,,
-4538PK,Koegorsstraat,1,,
-4538PH,Gravin Mariaweg,3,,L1
-4538PK,Koegorsstraat,36,,
-4538PK,Koegorsstraat,36,,
-4538CA,Zeelandlaan,3,,
-4538CA,Zeelandlaan,5,,
-4538CA,Zeelandlaan,2,,
-4538CA,Zeelandlaan,9,,
-4538PH,Gravin Mariaweg,3,,
-4538PH,Gravin Mariaweg,3,,
-4538CB,Guido Gezellestraat,41,,
-4538PK,Koegorsstraat,4,,
-4538PK,Koegorsstraat,1,a,
-4538PK,Koegorsstraat,1,b,
-4538PK,Koegorsstraat,1,c,
-4538PK,Koegorsstraat,17,,
-4538PK,Koegorsstraat,4,a,
-4538PK,Koegorsstraat,4,,
-4538PK,Koegorsstraat,11,,
-4538PK,Koegorsstraat,9,,
-4538PK,Koegorsstraat,38,,
-4538PK,Koegorsstraat,34,,
-4538PK,Koegorsstraat,34,,
-4538PK,Koegorsstraat,17,,
-4538PK,Koegorsstraat,34,,
-4538PK,Koegorsstraat,36,,
-4538PK,Koegorsstraat,1,,
-4538PK,Koegorsstraat,32,,
-4538PK,Koegorsstraat,20,,
-4538PK,Koegorsstraat,2,,
-4538PK,Koegorsstraat,13,,
-4538PK,Koegorsstraat,22,,
-4538PK,Koegorsstraat,23,,
-4538PK,Koegorsstraat,42,,
-4538PK,Koegorsstraat,15,,
-4538PK,Koegorsstraat,15,a,
-4538PK,Koegorsstraat,15,b,
-4538PK,Koegorsstraat,15,c,
-4538PK,Koegorsstraat,15,d,
-4538PK,Koegorsstraat,15,e,
-4538PK,Koegorsstraat,15,f,
-4538PK,Koegorsstraat,15,g,
-4538PK,Koegorsstraat,15,h,
-4538PK,Koegorsstraat,15,j,
-4538PK,Koegorsstraat,15,k,
-4538PK,Koegorsstraat,15,l,
-4538PK,Koegorsstraat,19,,
-4538PL,Laan der Verenigde Nederlanden,1,,
-4538PE,Lange Blikstraat,5,,
-4538PE,Lange Blikstraat,6,,
-4538PE,Lange Blikstraat,7,,
-4538PE,Lange Blikstraat,8,,
-4538PE,Lange Blikstraat,9,,
-4538PE,Lange Blikstraat,10,,
-4538PK,Lange Blikstraat,5,,
-4538PK,Lange Blikstraat,6,,
-4538PK,Lange Blikstraat,7,,
-4538PK,Lange Blikstraat,8,,
-4538PK,Lange Blikstraat,9,,
-4538PK,Lange Blikstraat,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zeelandlaan,2,"","",4538CA,Terneuzen
+Zeelandlaan,3,"","",4538CA,Terneuzen
+Zeelandlaan,5,"","",4538CA,Terneuzen
+Zeelandlaan,9,"","",4538CA,Terneuzen
+Guido Gezellestraat,41,"","",4538CB,Terneuzen
+Lange Blikstraat,10,"","",4538PE,Terneuzen
+Lange Blikstraat,5,"","",4538PE,Terneuzen
+Lange Blikstraat,6,"","",4538PE,Terneuzen
+Lange Blikstraat,7,"","",4538PE,Terneuzen
+Lange Blikstraat,8,"","",4538PE,Terneuzen
+Lange Blikstraat,9,"","",4538PE,Terneuzen
+Gravin Mariaweg,1,"","",4538PH,Terneuzen
+Gravin Mariaweg,3,"","",4538PH,Terneuzen
+Gravin Mariaweg,3,"","",4538PH,Terneuzen
+Gravin Mariaweg,3,"",L1,4538PH,Terneuzen
+Koegorsstraat,1,"","",4538PK,Terneuzen
+Koegorsstraat,1,"","",4538PK,Terneuzen
+Koegorsstraat,1,A,"",4538PK,Terneuzen
+Koegorsstraat,1,B,"",4538PK,Terneuzen
+Koegorsstraat,1,C,"",4538PK,Terneuzen
+Lange Blikstraat,10,"","",4538PK,Terneuzen
+Koegorsstraat,11,"","",4538PK,Terneuzen
+Koegorsstraat,13,"","",4538PK,Terneuzen
+Koegorsstraat,15,"","",4538PK,Terneuzen
+Koegorsstraat,15,A,"",4538PK,Terneuzen
+Koegorsstraat,15,B,"",4538PK,Terneuzen
+Koegorsstraat,15,C,"",4538PK,Terneuzen
+Koegorsstraat,15,D,"",4538PK,Terneuzen
+Koegorsstraat,15,E,"",4538PK,Terneuzen
+Koegorsstraat,15,F,"",4538PK,Terneuzen
+Koegorsstraat,15,G,"",4538PK,Terneuzen
+Koegorsstraat,15,H,"",4538PK,Terneuzen
+Koegorsstraat,15,J,"",4538PK,Terneuzen
+Koegorsstraat,15,K,"",4538PK,Terneuzen
+Koegorsstraat,15,L,"",4538PK,Terneuzen
+Koegorsstraat,17,"","",4538PK,Terneuzen
+Koegorsstraat,17,"","",4538PK,Terneuzen
+Koegorsstraat,19,"","",4538PK,Terneuzen
+Koegorsstraat,2,"","",4538PK,Terneuzen
+Koegorsstraat,20,"","",4538PK,Terneuzen
+Koegorsstraat,22,"","",4538PK,Terneuzen
+Koegorsstraat,23,"","",4538PK,Terneuzen
+Koegorsstraat,32,"","",4538PK,Terneuzen
+Koegorsstraat,34,"","",4538PK,Terneuzen
+Koegorsstraat,34,"","",4538PK,Terneuzen
+Koegorsstraat,34,"","",4538PK,Terneuzen
+Koegorsstraat,36,"","",4538PK,Terneuzen
+Koegorsstraat,36,"","",4538PK,Terneuzen
+Koegorsstraat,36,"","",4538PK,Terneuzen
+Koegorsstraat,38,"","",4538PK,Terneuzen
+Koegorsstraat,4,"","",4538PK,Terneuzen
+Koegorsstraat,4,"","",4538PK,Terneuzen
+Koegorsstraat,4,A,"",4538PK,Terneuzen
+Koegorsstraat,42,"","",4538PK,Terneuzen
+Lange Blikstraat,5,"","",4538PK,Terneuzen
+Lange Blikstraat,6,"","",4538PK,Terneuzen
+Lange Blikstraat,7,"","",4538PK,Terneuzen
+Lange Blikstraat,8,"","",4538PK,Terneuzen
+Koegorsstraat,9,"","",4538PK,Terneuzen
+Koegorsstraat,9,"","",4538PK,Terneuzen
+Laan der Verenigde Nederlanden,1,"","",4538PL,Terneuzen

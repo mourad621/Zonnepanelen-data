@@ -1,73 +1,73 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8752TR,Sluisweg,41,,
-8752TR,Sluisweg,15,,
-8752TR,Sluisweg,17,,
-8752TR,Sluisweg,19,,
-8752TR,Sluisweg,21,,
-8752TR,Sluisweg,23,,
-8752TR,Sluisweg,27,,
-8752TR,Sluisweg,29,,
-8752TR,Sluisweg,31,,
-8752TR,Sluisweg,33,,
-8752TR,Sluisweg,35,,
-8752TR,Sluisweg,37,,
-8752TR,Sluisweg,39,,
-8751TA,Ald Mar,11,,
-8751TA,Ald Mar,16,,
-8751TA,Ald Mar,18,,
-8751TA,Ald Mar,20,,
-8751TA,Ald Mar,22,,
-8751TA,Ald Mar,24,,
-8751TA,Ald Mar,5,,
-8751TA,Ald Mar,7,,
-8751TA,Ald Mar,9,,
-8751TM,Ottenbuursterlaan,1,,
-8751TM,Ottenbuursterlaan,5,,
-8751TN,Gooyumerweg,23,,
-8751TN,Gooyumerweg,2,,
-8751TN,Gooyumerweg,29,,
-8751TL,Viaduct,3,,
-8752TP,Afsluitdijk,1,A,
-8752TP,Afsluitdijk,1,,
-8752TP,Afsluitdijk,5,A,
-8752TR,Sluisweg,25,,
-8751TN,Gooyumerweg,27,,
-8751TN,Gooyumerweg,25,,
-8751TL,Viaduct,3,A,TRAF
-8751TL,Viaduct,3,A,
-8752TP,Afsluitdijk,3,,
-8752TP,Afsluitdijk,5,,
-8752TP,Afsluitdijk,7,,
-8752TP,Afsluitdijk,9,,
-8752TP,Afsluitdijk,1,C,
-8752TR,Sluisweg,1,A,
-8752TR,Sluisweg,1,B,
-8752TR,Sluisweg,1,C,
-8752TR,Sluisweg,1,D,
-8752TR,Sluisweg,1,E,
-8752TR,Sluisweg,1,F,
-8752TR,Sluisweg,1,G,
-8752TR,Sluisweg,1,H,
-8752TR,Sluisweg,1,I,
-8752TR,Sluisweg,1,J,
-8752TR,Sluisweg,1,K,
-8752TR,Sluisweg,1,M,
-8752TR,Sluisweg,1,M,
-8752TR,Sluisweg,1,N,
-8752TR,Sluisweg,1,N,
-8752TR,Sluisweg,1,O,
-8752TR,Sluisweg,1,O,
-8752TR,Sluisweg,1,P,
-8752TR,Sluisweg,1,P,
-8752TR,Sluisweg,43,,
-8752TR,Sluisweg,45,,
-8752TR,Sluisweg,47,,
-8752TR,Sluisweg,49,,
-8752TR,Sluisweg,1,L,
-8752TR,Sluisweg,1,Q,
-8752TR,Sluisweg,1,R,
-8752TR,Sluisweg,1,S,
-8752TR,Sluisweg,1,T,
-8752TR,Sluisweg,1,U,
-8752TR,Sluisweg,1,U,
-8752TP,Afsluitdijk,1,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ald Mar,11,"","",8751TA,Zurich
+Ald Mar,16,"","",8751TA,Zurich
+Ald Mar,18,"","",8751TA,Zurich
+Ald Mar,20,"","",8751TA,Zurich
+Ald Mar,22,"","",8751TA,Zurich
+Ald Mar,24,"","",8751TA,Zurich
+Ald Mar,5,"","",8751TA,Zurich
+Ald Mar,7,"","",8751TA,Zurich
+Ald Mar,9,"","",8751TA,Zurich
+Viaduct,3,"","",8751TL,Zurich
+Viaduct,3,A,"",8751TL,Zurich
+Viaduct,3,A,TRAF,8751TL,Zurich
+Ottenbuursterlaan,1,"","",8751TM,Zurich
+Ottenbuursterlaan,5,"","",8751TM,Zurich
+Gooyumerweg,2,"","",8751TN,Zurich
+Gooyumerweg,23,"","",8751TN,Zurich
+Gooyumerweg,25,"","",8751TN,Zurich
+Gooyumerweg,27,"","",8751TN,Zurich
+Gooyumerweg,29,"","",8751TN,Zurich
+Afsluitdijk,1,"","",8752TP,Kornwerderzand
+Afsluitdijk,1,A,"",8752TP,Kornwerderzand
+Afsluitdijk,1,B,"",8752TP,Kornwerderzand
+Afsluitdijk,1,C,"",8752TP,Kornwerderzand
+Afsluitdijk,3,"","",8752TP,Kornwerderzand
+Afsluitdijk,5,"","",8752TP,Kornwerderzand
+Afsluitdijk,5,A,"",8752TP,Kornwerderzand
+Afsluitdijk,7,"","",8752TP,Kornwerderzand
+Afsluitdijk,9,"","",8752TP,Kornwerderzand
+Sluisweg,1,A,"",8752TR,Kornwerderzand
+Sluisweg,1,B,"",8752TR,Kornwerderzand
+Sluisweg,1,C,"",8752TR,Kornwerderzand
+Sluisweg,1,D,"",8752TR,Kornwerderzand
+Sluisweg,1,E,"",8752TR,Kornwerderzand
+Sluisweg,1,F,"",8752TR,Kornwerderzand
+Sluisweg,1,G,"",8752TR,Kornwerderzand
+Sluisweg,1,H,"",8752TR,Kornwerderzand
+Sluisweg,1,I,"",8752TR,Kornwerderzand
+Sluisweg,1,J,"",8752TR,Kornwerderzand
+Sluisweg,1,K,"",8752TR,Kornwerderzand
+Sluisweg,1,L,"",8752TR,Kornwerderzand
+Sluisweg,1,M,"",8752TR,Kornwerderzand
+Sluisweg,1,M,"",8752TR,Kornwerderzand
+Sluisweg,1,N,"",8752TR,Kornwerderzand
+Sluisweg,1,N,"",8752TR,Kornwerderzand
+Sluisweg,1,O,"",8752TR,Kornwerderzand
+Sluisweg,1,O,"",8752TR,Kornwerderzand
+Sluisweg,1,P,"",8752TR,Kornwerderzand
+Sluisweg,1,P,"",8752TR,Kornwerderzand
+Sluisweg,1,Q,"",8752TR,Kornwerderzand
+Sluisweg,1,R,"",8752TR,Kornwerderzand
+Sluisweg,1,S,"",8752TR,Kornwerderzand
+Sluisweg,1,T,"",8752TR,Kornwerderzand
+Sluisweg,1,U,"",8752TR,Kornwerderzand
+Sluisweg,1,U,"",8752TR,Kornwerderzand
+Sluisweg,15,"","",8752TR,Kornwerderzand
+Sluisweg,17,"","",8752TR,Kornwerderzand
+Sluisweg,19,"","",8752TR,Kornwerderzand
+Sluisweg,21,"","",8752TR,Kornwerderzand
+Sluisweg,23,"","",8752TR,Kornwerderzand
+Sluisweg,25,"","",8752TR,Kornwerderzand
+Sluisweg,27,"","",8752TR,Kornwerderzand
+Sluisweg,29,"","",8752TR,Kornwerderzand
+Sluisweg,31,"","",8752TR,Kornwerderzand
+Sluisweg,33,"","",8752TR,Kornwerderzand
+Sluisweg,35,"","",8752TR,Kornwerderzand
+Sluisweg,37,"","",8752TR,Kornwerderzand
+Sluisweg,39,"","",8752TR,Kornwerderzand
+Sluisweg,41,"","",8752TR,Kornwerderzand
+Sluisweg,43,"","",8752TR,Kornwerderzand
+Sluisweg,45,"","",8752TR,Kornwerderzand
+Sluisweg,47,"","",8752TR,Kornwerderzand
+Sluisweg,49,"","",8752TR,Kornwerderzand

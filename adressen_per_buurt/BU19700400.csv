@@ -1,851 +1,411 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9137DK",2,"",""
-"9137DK",55,"",""
-"9137DK",46,"",""
-"9137DK",53,"",""
-"9137DK",47,"A",""
-"9137DK",47,"E",""
-"9137DK",43,"",""
-"9137DK",56,"",""
-"9137DK",47,"E",""
-"9137DK",58,"",""
-"9137DK",5,"",""
-"9137DK",47,"E",""
-"9137DK",51,"",""
-"9137DK",47,"E",""
-"9137DK",45,"",""
-"9137DK",7,"",""
-"9137DK",60,"",""
-"9137DK",49,"",""
-"9137DK",59,"",""
-"9137DK",47,"",""
-"9137DK",61,"",""
-"9137DK",50,"",""
-"9137DK",57,"",""
-"9137DK",52,"",""
-"9137DK",48,"",""
-"9137RE",10,"",""
-"9137RE",22,"",""
-"9137RE",11,"",""
-"9137RE",15,"",""
-"9137RE",13,"",""
-"9137RE",16,"",""
-"9137RE",2,"",""
-"9137RE",3,"",""
-"9137RE",20,"",""
-"9137RE",14,"",""
-"9137RE",8,"",""
-"9137RE",24,"",""
-"9137RE",9,"",""
-"9137RE",1,"",""
-"9137RE",18,"",""
-"9137RE",12,"",""
-"9137RE",6,"",""
-"9137RE",4,"",""
-"9137RE",7,"",""
-"9137RE",5,"",""
-"9137RG",1,"A",""
-"9137RG",2,"",""
-"9137RG",2,"",""
-"9137RG",1,"",""
-"9137RG",1,"A",""
-"9137RH",16,"T",""
-"9137RH",16,"A",""
-"9137RH",6,"",""
-"9137RH",3,"",""
-"9137RH",14,"",""
-"9137RH",1,"",""
-"9137RH",2,"",""
-"9137RH",12,"",""
-"9137RH",8,"",""
-"9137RH",4,"",""
-"9137RH",5,"A",""
-"9137RH",10,"",""
-"9137RH",16,"",""
-"9137RH",5,"",""
-"9137RJ",18,"",""
-"9137RJ",28,"",""
-"9137RJ",22,"",""
-"9137RJ",20,"",""
-"9137RJ",26,"A",""
-"9137RJ",2,"",""
-"9137RJ",1,"C",""
-"9137RJ",14,"",""
-"9137RJ",28,"",""
-"9137RJ",24,"",""
-"9137RJ",1,"C",""
-"9137RJ",4,"",""
-"9137RJ",12,"",""
-"9137RJ",26,"",""
-"9137RJ",10,"",""
-"9137RJ",3,"",""
-"9137RJ",16,"",""
-"9137RJ",1,"D",""
-"9137RJ",8,"",""
-"9137RJ",6,"",""
-"9137RL",25,"",""
-"9137RL",3,"",""
-"9137RL",7,"",""
-"9137RL",41,"A",""
-"9137RL",17,"",""
-"9137RL",21,"",""
-"9137RL",21,"",""
-"9137RL",13,"",""
-"9137RL",15,"",""
-"9137RL",1,"",""
-"9137RL",5,"",""
-"9137RL",41,"",""
-"9137RL",39,"",""
-"9137RL",35,"",""
-"9137RL",9,"",""
-"9137RL",37,"",""
-"9137RL",23,"",""
-"9137RL",31,"",""
-"9137RL",29,"",""
-"9137RL",33,"",""
-"9137RL",27,"",""
-"9137RL",39,"A",""
-"9137RM",6,"",""
-"9137RM",8,"A",""
-"9137RM",28,"",""
-"9137RM",12,"",""
-"9137RM",14,"",""
-"9137RM",4,"",""
-"9137RM",34,"",""
-"9137RM",30,"",""
-"9137RM",38,"",""
-"9137RM",36,"",""
-"9137RM",32,"",""
-"9137RM",8,"",""
-"9137RM",44,"",""
-"9137RM",26,"",""
-"9137RM",20,"",""
-"9137RM",18,"",""
-"9137RM",16,"",""
-"9137RM",40,"",""
-"9137RM",2,"",""
-"9137RM",24,"",""
-"9137RM",10,"A",""
-"9137RM",10,"",""
-"9137RM",42,"",""
-"9137RM",22,"",""
-"9137RN",15,"",""
-"9137RN",19,"",""
-"9137RN",25,"",""
-"9137RN",21,"",""
-"9137RN",23,"",""
-"9137RN",9,"",""
-"9137RN",11,"",""
-"9137RN",27,"",""
-"9137RN",13,"T",""
-"9137RN",3,"",""
-"9137RN",1,"",""
-"9137RP",37,"",""
-"9137RP",41,"",""
-"9137RP",31,"A",""
-"9137RP",47,"",""
-"9137RP",39,"",""
-"9137RP",49,"",""
-"9137RP",35,"",""
-"9137RP",43,"",""
-"9137RP",45,"",""
-"9137RP",31,"",""
-"9137RP",29,"",""
-"9137RP",31,"A",""
-"9137RP",33,"",""
-"9137RR",8,"",""
-"9137RR",2,"",""
-"9137RR",10,"",""
-"9137RR",12,"",""
-"9137RR",4,"",""
-"9137RR",6,"",""
-"9137RR",14,"",""
-"9137RS",20,"",""
-"9137RS",18,"A",""
-"9137RS",18,"",""
-"9137RS",28,"",""
-"9137RS",16,"",""
-"9137RS",24,"",""
-"9137RS",26,"",""
-"9137RS",30,"",""
-"9137RS",22,"",""
-"9137RT",4,"",""
-"9137RT",3,"",""
-"9137RT",9,"",""
-"9137RT",1,"",""
-"9137RT",11,"",""
-"9137RT",2,"",""
-"9137RT",5,"",""
-"9137RT",7,"",""
-"9137RT",13,"",""
-"9137RV",2,"",""
-"9137RV",3,"",""
-"9137RV",5,"",""
-"9137RV",1,"",""
-"9137RV",4,"",""
-"9137RW",1,"",""
-"9137RW",10,"",""
-"9137RW",9,"",""
-"9137RW",3,"",""
-"9137RW",2,"",""
-"9137RW",15,"",""
-"9137RW",4,"",""
-"9137RW",11,"",""
-"9137RW",16,"",""
-"9137RW",18,"",""
-"9137RW",7,"",""
-"9137RW",13,"",""
-"9137RW",21,"",""
-"9137RW",19,"",""
-"9137RW",17,"",""
-"9137RW",5,"",""
-"9137RW",12,"",""
-"9137RW",8,"",""
-"9137RW",14,"",""
-"9137RW",6,"",""
-"9137RW",22,"",""
-"9137RW",20,"",""
-"9137RX",26,"",""
-"9137RX",28,"",""
-"9137RX",30,"",""
-"9137RX",26,"",""
-"9137RX",26,"",""
-"9137RX",20,"",""
-"9137RX",24,"",""
-"9137RX",16,"",""
-"9137RX",32,"",""
-"9137RX",20,"",""
-"9137RX",12,"",""
-"9137RX",4,"",""
-"9137RX",24,"",""
-"9137RX",3,"",""
-"9137RX",14,"",""
-"9137RX",4,"A",""
-"9137RX",10,"",""
-"9137RX",18,"",""
-"9137RX",1,"",""
-"9137RX",8,"",""
-"9137RX",6,"",""
-"9137RZ",1,"",""
-"9137RZ",45,"",""
-"9137RZ",21,"",""
-"9137RZ",47,"",""
-"9137RZ",5,"",""
-"9137RZ",3,"",""
-"9137RZ",19,"",""
-"9137RZ",7,"",""
-"9137RZ",47,"A",""
-"9137RZ",41,"",""
-"9137RZ",27,"",""
-"9137RZ",29,"",""
-"9137RZ",9,"",""
-"9137RZ",45,"A",""
-"9137RZ",11,"",""
-"9137RZ",37,"",""
-"9137RZ",31,"",""
-"9137RZ",43,"",""
-"9137RZ",45,"A",""
-"9137RZ",35,"",""
-"9137RZ",17,"",""
-"9137RZ",13,"",""
-"9137RZ",25,"",""
-"9137RZ",39,"",""
-"9137RZ",39,"A",""
-"9137RZ",39,"A",""
-"9137RZ",23,"",""
-"9137RZ",33,"",""
-"9137RZ",15,"",""
-"9137SB",8,"",""
-"9137SB",46,"",""
-"9137SB",52,"",""
-"9137SB",52,"",""
-"9137SB",50,"",""
-"9137SB",4,"",""
-"9137SB",50,"",""
-"9137SB",34,"",""
-"9137SB",44,"",""
-"9137SB",24,"",""
-"9137SB",52,"A",""
-"9137SB",50,"A",""
-"9137SB",10,"",""
-"9137SB",22,"",""
-"9137SB",20,"",""
-"9137SB",26,"",""
-"9137SB",14,"",""
-"9137SB",18,"",""
-"9137SB",38,"",""
-"9137SB",6,"",""
-"9137SB",16,"",""
-"9137SB",42,"",""
-"9137SB",30,"",""
-"9137SB",48,"",""
-"9137SB",28,"",""
-"9137SB",32,"",""
-"9137SB",12,"",""
-"9137SB",2,"",""
-"9137SB",36,"",""
-"9137SB",40,"",""
-"9137SC",3,"",""
-"9137SC",1,"",""
-"9137SC",5,"",""
-"9137SC",9,"",""
-"9137SC",7,"",""
-"9137SE",10,"",""
-"9137SE",12,"",""
-"9137SE",16,"",""
-"9137SE",8,"",""
-"9137SE",30,"",""
-"9137SE",4,"",""
-"9137SE",2,"",""
-"9137SE",6,"",""
-"9137SE",32,"",""
-"9137SE",28,"",""
-"9137SE",36,"",""
-"9137SE",18,"",""
-"9137SE",14,"",""
-"9137SE",26,"",""
-"9137SE",22,"",""
-"9137SE",20,"",""
-"9137SE",36,"",""
-"9137SG",1,"",""
-"9137SG",7,"",""
-"9137SG",31,"",""
-"9137SG",33,"",""
-"9137SG",39,"",""
-"9137SG",15,"",""
-"9137SG",25,"",""
-"9137SG",23,"",""
-"9137SG",17,"",""
-"9137SG",27,"",""
-"9137SG",35,"",""
-"9137SG",37,"",""
-"9137SG",37,"A",""
-"9137SG",21,"",""
-"9137SG",3,"",""
-"9137SG",11,"",""
-"9137SG",29,"",""
-"9137SG",41,"",""
-"9137SG",19,"",""
-"9137SG",9,"",""
-"9137SH",24,"",""
-"9137SH",14,"",""
-"9137SH",16,"",""
-"9137SH",18,"",""
-"9137SH",2,"",""
-"9137SH",30,"",""
-"9137SH",34,"",""
-"9137SH",12,"",""
-"9137SH",10,"",""
-"9137SH",36,"",""
-"9137SH",20,"",""
-"9137SH",32,"",""
-"9137SH",26,"",""
-"9137SH",38,"",""
-"9137SH",22,"",""
-"9137SH",8,"",""
-"9137SH",38,"",""
-"9137SH",28,"",""
-"9137SH",6,"",""
-"9137SJ",22,"",""
-"9137SJ",30,"",""
-"9137SJ",20,"",""
-"9137SJ",10,"B",""
-"9137SJ",34,"",""
-"9137SJ",8,"T",""
-"9137SJ",26,"",""
-"9137SJ",36,"",""
-"9137SJ",6,"",""
-"9137SJ",12,"",""
-"9137SJ",24,"",""
-"9137SJ",18,"",""
-"9137SJ",4,"",""
-"9137SJ",28,"",""
-"9137SJ",2,"",""
-"9137SJ",16,"",""
-"9137SJ",40,"",""
-"9137SJ",38,"",""
-"9137SJ",14,"",""
-"9137SJ",8,"",""
-"9137SJ",10,"",""
-"9137SJ",10,"A",""
-"9137SJ",10,"D",""
-"9137SJ",10,"C",""
-"9137SJ",32,"",""
-"9137SK",39,"",""
-"9137SK",29,"",""
-"9137SK",43,"",""
-"9137SK",27,"",""
-"9137SK",25,"",""
-"9137SK",15,"",""
-"9137SK",7,"",""
-"9137SK",23,"",""
-"9137SK",5,"",""
-"9137SK",11,"",""
-"9137SK",35,"",""
-"9137SK",31,"",""
-"9137SK",43,"A",""
-"9137SK",37,"",""
-"9137SK",19,"",""
-"9137SK",9,"",""
-"9137SK",1,"",""
-"9137SK",17,"",""
-"9137SK",13,"",""
-"9137SK",41,"",""
-"9137SK",21,"",""
-"9137SK",3,"",""
-"9137SK",33,"",""
-"9137SL",14,"",""
-"9137SL",3,"",""
-"9137SL",10,"",""
-"9137SL",5,"",""
-"9137SL",3,"",""
-"9137SL",16,"",""
-"9137SL",4,"",""
-"9137SL",16,"",""
-"9137SL",7,"",""
-"9137SL",1,"",""
-"9137SL",6,"",""
-"9137SL",20,"",""
-"9137SL",1,"",""
-"9137SL",2,"A",""
-"9137SL",18,"",""
-9137DK,Grytsjewei,5,,
-9137DK,Grytsjewei,7,,
-9137DK,Langgrousterwei,43,,
-9137DK,Langgrousterwei,45,,
-9137DK,Langgrousterwei,46,,
-9137DK,Langgrousterwei,48,,
-9137DK,Langgrousterwei,49,,
-9137DK,Langgrousterwei,50,,
-9137DK,Langgrousterwei,51,,
-9137DK,Langgrousterwei,52,,
-9137DK,Langgrousterwei,53,,
-9137DK,Langgrousterwei,55,,
-9137DK,Langgrousterwei,56,,
-9137DK,Langgrousterwei,57,,
-9137DK,Langgrousterwei,58,,
-9137DK,Langgrousterwei,59,,
-9137DK,Langgrousterwei,60,,
-9137DK,Langgrousterwei,61,,
-9137RL,Langgrousterwei,1,,
-9137RL,Langgrousterwei,5,,
-9137RL,Langgrousterwei,7,,
-9137RL,Langgrousterwei,9,,
-9137RL,Langgrousterwei,13,,
-9137RL,Langgrousterwei,15,,
-9137RL,Langgrousterwei,17,,
-9137RL,Langgrousterwei,21,,
-9137RL,Langgrousterwei,23,,
-9137RL,Langgrousterwei,25,,
-9137RL,Langgrousterwei,27,,
-9137RL,Langgrousterwei,29,,
-9137RL,Langgrousterwei,31,,
-9137RL,Langgrousterwei,33,,
-9137RL,Langgrousterwei,35,,
-9137RL,Langgrousterwei,37,,
-9137RL,Langgrousterwei,39,,
-9137RL,Langgrousterwei,39,A,
-9137RL,Langgrousterwei,41,,
-9137RL,Langgrousterwei,41,A,
-9137RM,Langgrousterwei,2,,
-9137RM,Langgrousterwei,4,,
-9137RM,Langgrousterwei,6,,
-9137RM,Langgrousterwei,8,A,
-9137RM,Langgrousterwei,10,,
-9137RM,Langgrousterwei,10,A,
-9137RM,Langgrousterwei,14,,
-9137RM,Langgrousterwei,16,,
-9137RM,Langgrousterwei,20,,
-9137RM,Langgrousterwei,22,,
-9137RM,Langgrousterwei,24,,
-9137RM,Langgrousterwei,26,,
-9137RM,Langgrousterwei,28,,
-9137RM,Langgrousterwei,30,,
-9137RM,Langgrousterwei,32,,
-9137RM,Langgrousterwei,34,,
-9137RM,Langgrousterwei,36,,
-9137RM,Langgrousterwei,38,,
-9137RM,Langgrousterwei,40,,
-9137RM,Langgrousterwei,42,,
-9137RM,Langgrousterwei,44,,
-9137RX,Ald Tún,1,,
-9137RX,Ald Tún,3,,
-9137RX,Ald Tún,4,,
-9137RX,Ald Tún,4,A,
-9137RX,Ald Tún,6,,
-9137RX,Ald Tún,8,,
-9137RX,Ald Tún,10,,
-9137RX,Ald Tún,12,,
-9137RX,Ald Tún,14,,
-9137RX,Ald Tún,18,,
-9137RX,Ald Tún,20,,
-9137RX,Ald Tún,24,,
-9137RX,Ald Tún,26,,
-9137RX,Ald Tún,26,,
-9137RX,Ald Tún,28,,
-9137RX,Ald Tún,30,,
-9137RX,Ald Tún,32,,
-9137RT,Foeke Sjoerdsstrjitte,1,,
-9137RT,Foeke Sjoerdsstrjitte,2,,
-9137RT,Foeke Sjoerdsstrjitte,3,,
-9137RT,Foeke Sjoerdsstrjitte,4,,
-9137RT,Foeke Sjoerdsstrjitte,5,,
-9137RT,Foeke Sjoerdsstrjitte,7,,
-9137RT,Foeke Sjoerdsstrjitte,9,,
-9137RT,Foeke Sjoerdsstrjitte,11,,
-9137RT,Foeke Sjoerdsstrjitte,13,,
-9137RZ,Griene Wei,15,,
-9137RZ,Griene Wei,17,,
-9137RZ,Griene Wei,21,,
-9137RZ,Griene Wei,23,,
-9137RZ,Griene Wei,25,,
-9137RZ,Griene Wei,3,,
-9137RZ,Griene Wei,5,,
-9137RZ,Griene Wei,7,,
-9137RZ,Griene Wei,9,,
-9137RZ,Griene Wei,13,,
-9137RZ,Griene Wei,27,,
-9137RZ,Griene Wei,31,,
-9137RZ,Griene Wei,33,,
-9137RZ,Griene Wei,37,,
-9137RZ,Griene Wei,39,,
-9137RZ,Griene Wei,41,,
-9137RZ,Griene Wei,43,,
-9137RZ,Griene Wei,45,,
-9137RZ,Griene Wei,45,A,
-9137RZ,Griene Wei,47,,
-9137RZ,Griene Wei,47,A,
-9137SB,Griene Wei,16,,
-9137SB,Griene Wei,18,,
-9137SB,Griene Wei,20,,
-9137SB,Griene Wei,22,,
-9137SB,Griene Wei,26,,
-9137SB,Griene Wei,2,,
-9137SB,Griene Wei,4,,
-9137SB,Griene Wei,8,,
-9137SB,Griene Wei,10,,
-9137SB,Griene Wei,12,,
-9137SB,Griene Wei,14,,
-9137SB,Griene Wei,28,,
-9137SB,Griene Wei,30,,
-9137SB,Griene Wei,32,,
-9137SB,Griene Wei,34,,
-9137SB,Griene Wei,36,,
-9137SB,Griene Wei,38,,
-9137SB,Griene Wei,40,,
-9137SB,Griene Wei,42,,
-9137SB,Griene Wei,46,,
-9137SB,Griene Wei,50,,
-9137SB,Griene Wei,50,,
-9137SB,Griene Wei,50,A,
-9137SB,Griene Wei,52,,
-9137SB,Griene Wei,52,,
-9137SB,Griene Wei,52,A,
-9137RE,Lou Sânen,2,,
-9137RE,Lou Sânen,3,,
-9137RE,Lou Sânen,4,,
-9137RE,Lou Sânen,5,,
-9137RE,Lou Sânen,6,,
-9137RE,Lou Sânen,7,,
-9137RE,Lou Sânen,9,,
-9137RE,Lou Sânen,10,,
-9137RE,Lou Sânen,11,,
-9137RE,Lou Sânen,12,,
-9137RE,Lou Sânen,1,,
-9137RE,Lou Sânen,13,,
-9137RE,Lou Sânen,14,,
-9137RE,Lou Sânen,15,,
-9137RE,Lou Sânen,16,,
-9137RJ,Mûnewei,2,,
-9137RJ,Mûnewei,3,,
-9137RJ,Mûnewei,4,,
-9137RJ,Mûnewei,6,,
-9137RJ,Mûnewei,10,,
-9137RJ,Mûnewei,12,,
-9137RJ,Mûnewei,14,,
-9137RJ,Mûnewei,16,,
-9137RJ,Mûnewei,20,,
-9137RJ,Mûnewei,22,,
-9137RJ,Mûnewei,24,,
-9137RJ,Mûnewei,26,,
-9137RJ,Mûnewei,26,A,
-9137SJ,Nijbuorren,22,,
-9137SJ,Nijbuorren,24,,
-9137SJ,Nijbuorren,26,,
-9137SJ,Nijbuorren,28,,
-9137SJ,Nijbuorren,8,T,
-9137SJ,Nijbuorren,10,,
-9137SJ,Nijbuorren,10,A,
-9137SJ,Nijbuorren,10,B,
-9137SJ,Nijbuorren,10,C,
-9137SJ,Nijbuorren,10,D,
-9137SJ,Nijbuorren,12,,
-9137SJ,Nijbuorren,14,,
-9137SJ,Nijbuorren,16,,
-9137SJ,Nijbuorren,18,,
-9137SJ,Nijbuorren,20,,
-9137SJ,Nijbuorren,30,,
-9137SJ,Nijbuorren,34,,
-9137SJ,Nijbuorren,36,,
-9137SJ,Nijbuorren,38,,
-9137SJ,Nijbuorren,40,,
-9137SJ,Nijbuorren,2,,
-9137SJ,Nijbuorren,6,,
-9137SJ,Nijbuorren,8,,
-9137SK,Nijbuorren,21,,
-9137SK,Nijbuorren,23,,
-9137SK,Nijbuorren,25,,
-9137SK,Nijbuorren,27,,
-9137SK,Nijbuorren,9,,
-9137SK,Nijbuorren,11,,
-9137SK,Nijbuorren,13,,
-9137SK,Nijbuorren,15,,
-9137SK,Nijbuorren,17,,
-9137SK,Nijbuorren,19,,
-9137SK,Nijbuorren,29,,
-9137SK,Nijbuorren,31,,
-9137SK,Nijbuorren,33,,
-9137SK,Nijbuorren,37,,
-9137SK,Nijbuorren,39,,
-9137SK,Nijbuorren,41,,
-9137SK,Nijbuorren,3,,
-9137SK,Nijbuorren,5,,
-9137SK,Nijbuorren,7,,
-9137SC,De Buorfinne,1,,
-9137SC,De Buorfinne,3,,
-9137SC,De Buorfinne,5,,
-9137SC,De Buorfinne,7,,
-9137SC,De Buorfinne,9,,
-9137SE,De Buorfinne,30,,
-9137SE,De Buorfinne,32,,
-9137SE,De Buorfinne,36,,
-9137SE,De Buorfinne,2,,
-9137SE,De Buorfinne,4,,
-9137SE,De Buorfinne,6,,
-9137SE,De Buorfinne,8,,
-9137SE,De Buorfinne,10,,
-9137SE,De Buorfinne,12,,
-9137SE,De Buorfinne,14,,
-9137SE,De Buorfinne,16,,
-9137SE,De Buorfinne,18,,
-9137SE,De Buorfinne,20,,
-9137SE,De Buorfinne,22,,
-9137SE,De Buorfinne,26,,
-9137SE,De Buorfinne,28,,
-9137RN,De Buorren,1,,
-9137RN,De Buorren,3,,
-9137RN,De Buorren,19,,
-9137RN,De Buorren,21,,
-9137RN,De Buorren,23,,
-9137RN,De Buorren,25,,
-9137RN,De Buorren,9,,
-9137RN,De Buorren,11,,
-9137RN,De Buorren,13,T,
-9137RN,De Buorren,15,,
-9137RN,De Buorren,27,,
-9137RP,De Buorren,33,,
-9137RP,De Buorren,35,,
-9137RP,De Buorren,37,,
-9137RP,De Buorren,39,,
-9137RP,De Buorren,41,,
-9137RP,De Buorren,43,,
-9137RP,De Buorren,29,,
-9137RP,De Buorren,31,,
-9137RP,De Buorren,47,,
-9137RP,De Buorren,49,,
-9137RR,De Buorren,2,,
-9137RR,De Buorren,4,,
-9137RR,De Buorren,6,,
-9137RR,De Buorren,8,,
-9137RR,De Buorren,10,,
-9137RR,De Buorren,12,,
-9137RS,De Buorren,18,A,
-9137RS,De Buorren,20,,
-9137RS,De Buorren,24,,
-9137RS,De Buorren,26,,
-9137RS,De Buorren,16,,
-9137RS,De Buorren,18,,
-9137RS,De Buorren,22,,
-9137RS,De Buorren,28,,
-9137RS,De Buorren,30,,
-9137RG,De Fiver,1,,
-9137RG,De Fiver,1,A,
-9137RG,De Fiver,1,A,
-9137RG,De Fiver,2,,
-9137RG,De Fiver,2,,
-9137SG,De Lyts Ein,1,,
-9137SG,De Lyts Ein,3,,
-9137SG,De Lyts Ein,7,,
-9137SG,De Lyts Ein,9,,
-9137SG,De Lyts Ein,11,,
-9137SG,De Lyts Ein,15,,
-9137SG,De Lyts Ein,17,,
-9137SG,De Lyts Ein,19,,
-9137SG,De Lyts Ein,21,,
-9137SG,De Lyts Ein,25,,
-9137SG,De Lyts Ein,27,,
-9137SG,De Lyts Ein,29,,
-9137SG,De Lyts Ein,31,,
-9137SG,De Lyts Ein,33,,
-9137SG,De Lyts Ein,35,,
-9137SG,De Lyts Ein,37,,
-9137SG,De Lyts Ein,41,,
-9137SH,De Lyts Ein,2,,
-9137SH,De Lyts Ein,6,,
-9137SH,De Lyts Ein,8,,
-9137SH,De Lyts Ein,10,,
-9137SH,De Lyts Ein,12,,
-9137SH,De Lyts Ein,14,,
-9137SH,De Lyts Ein,16,,
-9137SH,De Lyts Ein,20,,
-9137SH,De Lyts Ein,22,,
-9137SH,De Lyts Ein,24,,
-9137SH,De Lyts Ein,26,,
-9137SH,De Lyts Ein,30,,
-9137SH,De Lyts Ein,32,,
-9137SH,De Lyts Ein,36,,
-9137SH,De Lyts Ein,38,,
-9137RV,De Terp,1,,
-9137RV,De Terp,2,,
-9137RV,De Terp,3,,
-9137RV,De Terp,4,,
-9137RV,De Terp,5,,
-9137RW,Doktersfiif,19,,
-9137RW,Doktersfiif,20,,
-9137RW,Doktersfiif,21,,
-9137RW,Doktersfiif,22,,
-9137RW,Doktersfiif,1,,
-9137RW,Doktersfiif,2,,
-9137RW,Doktersfiif,3,,
-9137RW,Doktersfiif,4,,
-9137RW,Doktersfiif,5,,
-9137RW,Doktersfiif,6,,
-9137RW,Doktersfiif,7,,
-9137RW,Doktersfiif,8,,
-9137RW,Doktersfiif,9,,
-9137RW,Doktersfiif,10,,
-9137RW,Doktersfiif,11,,
-9137RW,Doktersfiif,12,,
-9137RW,Doktersfiif,13,,
-9137RW,Doktersfiif,14,,
-9137RW,Doktersfiif,15,,
-9137RW,Doktersfiif,16,,
-9137RW,Doktersfiif,18,,
-9137DK,Sjoarda,2,,
-9137DK,Langgrousterwei,47,E,
-9137DK,Langgrousterwei,47,,
-9137DK,Langgrousterwei,47,A,
-9137DK,Langgrousterwei,47,E,
-9137RL,Langgrousterwei,3,,
-9137RM,Langgrousterwei,18,,
-9137RM,Langgrousterwei,8,,
-9137RM,Langgrousterwei,12,,
-9137RX,Ald Tún,16,,
-9137RZ,Griene Wei,19,,
-9137RZ,Griene Wei,1,,
-9137RZ,Griene Wei,11,,
-9137RZ,Griene Wei,29,,
-9137RZ,Griene Wei,35,,
-9137RZ,Griene Wei,39,A,
-9137SB,Griene Wei,24,,
-9137SB,Griene Wei,6,,
-9137SB,Griene Wei,44,,
-9137SB,Griene Wei,48,,
-9137RE,Lou Sânen,8,,
-9137RE,Lou Sânen,20,,
-9137RE,Lou Sânen,24,,
-9137RE,Lou Sânen,22,,
-9137RE,Lou Sânen,18,,
-9137RJ,Mûnewei,8,,
-9137RJ,Mûnewei,18,,
-9137RJ,Mûnewei,28,,
-9137RJ,Mûnewei,28,,
-9137RJ,Mûnewei,1,C,
-9137RJ,Mûnewei,1,C,
-9137RJ,Mûnewei,1,D,
-9137SJ,Nijbuorren,32,,
-9137SJ,Nijbuorren,4,,
-9137SK,Nijbuorren,35,,
-9137SK,Nijbuorren,43,,
-9137SK,Nijbuorren,1,,
-9137SK,Nijbuorren,43,A,
-9137RP,De Buorren,45,,
-9137RP,De Buorren,31,A,
-9137RR,De Buorren,14,,
-9137SG,De Lyts Ein,23,,
-9137SG,De Lyts Ein,39,,
-9137SG,De Lyts Ein,37,A,
-9137SH,De Lyts Ein,18,,
-9137SH,De Lyts Ein,28,,
-9137SH,De Lyts Ein,34,,
-9137RW,Doktersfiif,17,,
-9137RH,Ropsterwei,1,,
-9137RH,Ropsterwei,2,,
-9137RH,Ropsterwei,3,,
-9137RH,Ropsterwei,4,,
-9137RH,Ropsterwei,5,,
-9137RH,Ropsterwei,5,A,
-9137RH,Ropsterwei,6,,
-9137RH,Ropsterwei,8,,
-9137RH,Ropsterwei,10,,
-9137RH,Ropsterwei,12,,
-9137RH,Ropsterwei,14,,
-9137RH,Ropsterwei,16,,
-9137RH,Ropsterwei,16,A,
-9137RH,Ropsterwei,16,T,
-9137SL,'t Oogh,1,,
-9137SL,'t Oogh,3,,
-9137SL,'t Oogh,4,,
-9137SL,'t Oogh,5,,
-9137SL,'t Oogh,6,,
-9137SL,'t Oogh,20,,
-9137SL,'t Oogh,7,,
-9137SL,'t Oogh,10,,
-9137SL,'t Oogh,14,,
-9137SL,'t Oogh,16,,
-9137SL,'t Oogh,18,,
-9137SL,'t Oogh,2,A,
-9137RD,De Dobbe,11,,
-9137RD,De Dobbe,13,,
-9137DK,Langgrousterwei,51,A,
-9137RL,Langgrousterwei,21,,
-9137RL,Langgrousterwei,21,A,
-9137RL,Langgrousterwei,7,,
-9137RL,Langgrousterwei,7,A,
-9137SB,Griene Wei,48,A,
-9137RE,Lou Sânen,17,,
-9137RJ,Mûnewei,1,E,
-9137RJ,Mûnewei,1,B,
-9137RJ,Mûnewei,1,A,
-9137RJ,Mûnewei,4,A,
-9137SE,De Buorfinne,34,,
-9137SE,De Buorfinne,36,,
-9137RD,De Dobbe,3,,
-9137RD,De Dobbe,5,,
-9137RD,De Dobbe,7,,
-9137RD,De Dobbe,9,,
-9137SH,De Lyts Ein,34,B,
-9137RW,Doktersfiif,22,A,
-9137SL,'t Oogh,2,,
-9137SL,'t Oogh,2,B,
-9137SL,'t Oogh,16,,
-9137SL,'t Oogh,16,,
-9137SL,'t Oogh,16,A,
-9137SL,'t Oogh,16,A,
-9137SL,'t Oogh,1,,
-9137SL,'t Oogh,1,A,
-9137SL,'t Oogh,1,B,
-9137SL,'t Oogh,1,C,
-9137SL,'t Oogh,1,D,
-9137SL,'t Oogh,1,E,
-9137SL,'t Oogh,1,F,
-9137SL,'t Oogh,3,,
-9137SL,'t Oogh,3,A,
-9137SL,'t Oogh,3,B,
-9137SL,'t Oogh,3,C,
-9137SL,'t Oogh,3,D,
-9137SL,'t Oogh,3,E,
-9137SL,'t Oogh,3,F,
-9137SL,'t Oogh,1,F,
-9137SL,'t Oogh,1,G,
-9137SL,'t Oogh,1,H,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Sjoarda,2,"","",9137DK,Oosternijkerk
+Langgrousterwei,43,"","",9137DK,Oosternijkerk
+Langgrousterwei,45,"","",9137DK,Oosternijkerk
+Langgrousterwei,46,"","",9137DK,Oosternijkerk
+Langgrousterwei,47,"","",9137DK,Oosternijkerk
+Langgrousterwei,47,A,"",9137DK,Oosternijkerk
+Langgrousterwei,47,E,"",9137DK,Oosternijkerk
+Langgrousterwei,47,E,"",9137DK,Oosternijkerk
+Langgrousterwei,47,E,"",9137DK,Oosternijkerk
+Langgrousterwei,47,E,"",9137DK,Oosternijkerk
+Langgrousterwei,48,"","",9137DK,Oosternijkerk
+Langgrousterwei,49,"","",9137DK,Oosternijkerk
+Grytsjewei,5,"","",9137DK,Oosternijkerk
+Langgrousterwei,50,"","",9137DK,Oosternijkerk
+Langgrousterwei,51,"","",9137DK,Oosternijkerk
+Langgrousterwei,52,"","",9137DK,Oosternijkerk
+Langgrousterwei,53,"","",9137DK,Oosternijkerk
+Langgrousterwei,55,"","",9137DK,Oosternijkerk
+Langgrousterwei,56,"","",9137DK,Oosternijkerk
+Langgrousterwei,57,"","",9137DK,Oosternijkerk
+Langgrousterwei,58,"","",9137DK,Oosternijkerk
+Langgrousterwei,59,"","",9137DK,Oosternijkerk
+Langgrousterwei,60,"","",9137DK,Oosternijkerk
+Langgrousterwei,61,"","",9137DK,Oosternijkerk
+Grytsjewei,7,"","",9137DK,Oosternijkerk
+Lou Sânen,1,"","",9137RE,Oosternijkerk
+Lou Sânen,10,"","",9137RE,Oosternijkerk
+Lou Sânen,11,"","",9137RE,Oosternijkerk
+Lou Sânen,12,"","",9137RE,Oosternijkerk
+Lou Sânen,13,"","",9137RE,Oosternijkerk
+Lou Sânen,14,"","",9137RE,Oosternijkerk
+Lou Sânen,15,"","",9137RE,Oosternijkerk
+Lou Sânen,16,"","",9137RE,Oosternijkerk
+Lou Sânen,18,"","",9137RE,Oosternijkerk
+Lou Sânen,2,"","",9137RE,Oosternijkerk
+Lou Sânen,20,"","",9137RE,Oosternijkerk
+Lou Sânen,22,"","",9137RE,Oosternijkerk
+Lou Sânen,24,"","",9137RE,Oosternijkerk
+Lou Sânen,3,"","",9137RE,Oosternijkerk
+Lou Sânen,4,"","",9137RE,Oosternijkerk
+Lou Sânen,5,"","",9137RE,Oosternijkerk
+Lou Sânen,6,"","",9137RE,Oosternijkerk
+Lou Sânen,7,"","",9137RE,Oosternijkerk
+Lou Sânen,8,"","",9137RE,Oosternijkerk
+Lou Sânen,9,"","",9137RE,Oosternijkerk
+De Fiver,1,"","",9137RG,Oosternijkerk
+De Fiver,1,A,"",9137RG,Oosternijkerk
+De Fiver,1,A,"",9137RG,Oosternijkerk
+De Fiver,2,"","",9137RG,Oosternijkerk
+De Fiver,2,"","",9137RG,Oosternijkerk
+Ropsterwei,1,"","",9137RH,Oosternijkerk
+Ropsterwei,10,"","",9137RH,Oosternijkerk
+Ropsterwei,12,"","",9137RH,Oosternijkerk
+Ropsterwei,14,"","",9137RH,Oosternijkerk
+Ropsterwei,16,"","",9137RH,Oosternijkerk
+Ropsterwei,16,A,"",9137RH,Oosternijkerk
+Ropsterwei,16,T,"",9137RH,Oosternijkerk
+Ropsterwei,2,"","",9137RH,Oosternijkerk
+Ropsterwei,3,"","",9137RH,Oosternijkerk
+Ropsterwei,4,"","",9137RH,Oosternijkerk
+Ropsterwei,5,"","",9137RH,Oosternijkerk
+Ropsterwei,5,A,"",9137RH,Oosternijkerk
+Ropsterwei,6,"","",9137RH,Oosternijkerk
+Ropsterwei,8,"","",9137RH,Oosternijkerk
+Mûnewei,1,C,"",9137RJ,Oosternijkerk
+Mûnewei,1,C,"",9137RJ,Oosternijkerk
+Mûnewei,1,D,"",9137RJ,Oosternijkerk
+Mûnewei,10,"","",9137RJ,Oosternijkerk
+Mûnewei,12,"","",9137RJ,Oosternijkerk
+Mûnewei,14,"","",9137RJ,Oosternijkerk
+Mûnewei,16,"","",9137RJ,Oosternijkerk
+Mûnewei,18,"","",9137RJ,Oosternijkerk
+Mûnewei,2,"","",9137RJ,Oosternijkerk
+Mûnewei,20,"","",9137RJ,Oosternijkerk
+Mûnewei,22,"","",9137RJ,Oosternijkerk
+Mûnewei,24,"","",9137RJ,Oosternijkerk
+Mûnewei,26,"","",9137RJ,Oosternijkerk
+Mûnewei,26,A,"",9137RJ,Oosternijkerk
+Mûnewei,28,"","",9137RJ,Oosternijkerk
+Mûnewei,28,"","",9137RJ,Oosternijkerk
+Mûnewei,3,"","",9137RJ,Oosternijkerk
+Mûnewei,4,"","",9137RJ,Oosternijkerk
+Mûnewei,6,"","",9137RJ,Oosternijkerk
+Mûnewei,8,"","",9137RJ,Oosternijkerk
+Langgrousterwei,1,"","",9137RL,Oosternijkerk
+Langgrousterwei,13,"","",9137RL,Oosternijkerk
+Langgrousterwei,15,"","",9137RL,Oosternijkerk
+Langgrousterwei,17,"","",9137RL,Oosternijkerk
+Langgrousterwei,21,"","",9137RL,Oosternijkerk
+Langgrousterwei,21,"","",9137RL,Oosternijkerk
+Langgrousterwei,23,"","",9137RL,Oosternijkerk
+Langgrousterwei,25,"","",9137RL,Oosternijkerk
+Langgrousterwei,27,"","",9137RL,Oosternijkerk
+Langgrousterwei,29,"","",9137RL,Oosternijkerk
+Langgrousterwei,3,"","",9137RL,Oosternijkerk
+Langgrousterwei,31,"","",9137RL,Oosternijkerk
+Langgrousterwei,33,"","",9137RL,Oosternijkerk
+Langgrousterwei,35,"","",9137RL,Oosternijkerk
+Langgrousterwei,37,"","",9137RL,Oosternijkerk
+Langgrousterwei,39,"","",9137RL,Oosternijkerk
+Langgrousterwei,39,A,"",9137RL,Oosternijkerk
+Langgrousterwei,41,"","",9137RL,Oosternijkerk
+Langgrousterwei,41,A,"",9137RL,Oosternijkerk
+Langgrousterwei,5,"","",9137RL,Oosternijkerk
+Langgrousterwei,7,"","",9137RL,Oosternijkerk
+Langgrousterwei,9,"","",9137RL,Oosternijkerk
+Langgrousterwei,10,"","",9137RM,Oosternijkerk
+Langgrousterwei,10,A,"",9137RM,Oosternijkerk
+Langgrousterwei,12,"","",9137RM,Oosternijkerk
+Langgrousterwei,14,"","",9137RM,Oosternijkerk
+Langgrousterwei,16,"","",9137RM,Oosternijkerk
+Langgrousterwei,18,"","",9137RM,Oosternijkerk
+Langgrousterwei,2,"","",9137RM,Oosternijkerk
+Langgrousterwei,20,"","",9137RM,Oosternijkerk
+Langgrousterwei,22,"","",9137RM,Oosternijkerk
+Langgrousterwei,24,"","",9137RM,Oosternijkerk
+Langgrousterwei,26,"","",9137RM,Oosternijkerk
+Langgrousterwei,28,"","",9137RM,Oosternijkerk
+Langgrousterwei,30,"","",9137RM,Oosternijkerk
+Langgrousterwei,32,"","",9137RM,Oosternijkerk
+Langgrousterwei,34,"","",9137RM,Oosternijkerk
+Langgrousterwei,36,"","",9137RM,Oosternijkerk
+Langgrousterwei,38,"","",9137RM,Oosternijkerk
+Langgrousterwei,4,"","",9137RM,Oosternijkerk
+Langgrousterwei,40,"","",9137RM,Oosternijkerk
+Langgrousterwei,42,"","",9137RM,Oosternijkerk
+Langgrousterwei,44,"","",9137RM,Oosternijkerk
+Langgrousterwei,6,"","",9137RM,Oosternijkerk
+Langgrousterwei,8,"","",9137RM,Oosternijkerk
+Langgrousterwei,8,A,"",9137RM,Oosternijkerk
+De Buorren,1,"","",9137RN,Oosternijkerk
+De Buorren,11,"","",9137RN,Oosternijkerk
+De Buorren,13,T,"",9137RN,Oosternijkerk
+De Buorren,15,"","",9137RN,Oosternijkerk
+De Buorren,19,"","",9137RN,Oosternijkerk
+De Buorren,21,"","",9137RN,Oosternijkerk
+De Buorren,23,"","",9137RN,Oosternijkerk
+De Buorren,25,"","",9137RN,Oosternijkerk
+De Buorren,27,"","",9137RN,Oosternijkerk
+De Buorren,3,"","",9137RN,Oosternijkerk
+De Buorren,9,"","",9137RN,Oosternijkerk
+De Buorren,29,"","",9137RP,Oosternijkerk
+De Buorren,31,"","",9137RP,Oosternijkerk
+De Buorren,31,A,"",9137RP,Oosternijkerk
+De Buorren,31,A,"",9137RP,Oosternijkerk
+De Buorren,33,"","",9137RP,Oosternijkerk
+De Buorren,35,"","",9137RP,Oosternijkerk
+De Buorren,37,"","",9137RP,Oosternijkerk
+De Buorren,39,"","",9137RP,Oosternijkerk
+De Buorren,41,"","",9137RP,Oosternijkerk
+De Buorren,43,"","",9137RP,Oosternijkerk
+De Buorren,45,"","",9137RP,Oosternijkerk
+De Buorren,47,"","",9137RP,Oosternijkerk
+De Buorren,49,"","",9137RP,Oosternijkerk
+De Buorren,10,"","",9137RR,Oosternijkerk
+De Buorren,12,"","",9137RR,Oosternijkerk
+De Buorren,14,"","",9137RR,Oosternijkerk
+De Buorren,2,"","",9137RR,Oosternijkerk
+De Buorren,4,"","",9137RR,Oosternijkerk
+De Buorren,6,"","",9137RR,Oosternijkerk
+De Buorren,8,"","",9137RR,Oosternijkerk
+De Buorren,16,"","",9137RS,Oosternijkerk
+De Buorren,18,"","",9137RS,Oosternijkerk
+De Buorren,18,A,"",9137RS,Oosternijkerk
+De Buorren,20,"","",9137RS,Oosternijkerk
+De Buorren,22,"","",9137RS,Oosternijkerk
+De Buorren,24,"","",9137RS,Oosternijkerk
+De Buorren,26,"","",9137RS,Oosternijkerk
+De Buorren,28,"","",9137RS,Oosternijkerk
+De Buorren,30,"","",9137RS,Oosternijkerk
+Foeke Sjoerdsstrjitte,1,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,11,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,13,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,2,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,3,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,4,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,5,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,7,"","",9137RT,Oosternijkerk
+Foeke Sjoerdsstrjitte,9,"","",9137RT,Oosternijkerk
+De Terp,1,"","",9137RV,Oosternijkerk
+De Terp,2,"","",9137RV,Oosternijkerk
+De Terp,3,"","",9137RV,Oosternijkerk
+De Terp,4,"","",9137RV,Oosternijkerk
+De Terp,5,"","",9137RV,Oosternijkerk
+Doktersfiif,1,"","",9137RW,Oosternijkerk
+Doktersfiif,10,"","",9137RW,Oosternijkerk
+Doktersfiif,11,"","",9137RW,Oosternijkerk
+Doktersfiif,12,"","",9137RW,Oosternijkerk
+Doktersfiif,13,"","",9137RW,Oosternijkerk
+Doktersfiif,14,"","",9137RW,Oosternijkerk
+Doktersfiif,15,"","",9137RW,Oosternijkerk
+Doktersfiif,16,"","",9137RW,Oosternijkerk
+Doktersfiif,17,"","",9137RW,Oosternijkerk
+Doktersfiif,18,"","",9137RW,Oosternijkerk
+Doktersfiif,19,"","",9137RW,Oosternijkerk
+Doktersfiif,2,"","",9137RW,Oosternijkerk
+Doktersfiif,20,"","",9137RW,Oosternijkerk
+Doktersfiif,21,"","",9137RW,Oosternijkerk
+Doktersfiif,22,"","",9137RW,Oosternijkerk
+Doktersfiif,3,"","",9137RW,Oosternijkerk
+Doktersfiif,4,"","",9137RW,Oosternijkerk
+Doktersfiif,5,"","",9137RW,Oosternijkerk
+Doktersfiif,6,"","",9137RW,Oosternijkerk
+Doktersfiif,7,"","",9137RW,Oosternijkerk
+Doktersfiif,8,"","",9137RW,Oosternijkerk
+Doktersfiif,9,"","",9137RW,Oosternijkerk
+Ald Tún,1,"","",9137RX,Oosternijkerk
+Ald Tún,10,"","",9137RX,Oosternijkerk
+Ald Tún,12,"","",9137RX,Oosternijkerk
+Ald Tún,14,"","",9137RX,Oosternijkerk
+Ald Tún,16,"","",9137RX,Oosternijkerk
+Ald Tún,18,"","",9137RX,Oosternijkerk
+Ald Tún,20,"","",9137RX,Oosternijkerk
+Ald Tún,20,"","",9137RX,Oosternijkerk
+Ald Tún,24,"","",9137RX,Oosternijkerk
+Ald Tún,24,"","",9137RX,Oosternijkerk
+Ald Tún,26,"","",9137RX,Oosternijkerk
+Ald Tún,26,"","",9137RX,Oosternijkerk
+Ald Tún,26,"","",9137RX,Oosternijkerk
+Ald Tún,28,"","",9137RX,Oosternijkerk
+Ald Tún,3,"","",9137RX,Oosternijkerk
+Ald Tún,30,"","",9137RX,Oosternijkerk
+Ald Tún,32,"","",9137RX,Oosternijkerk
+Ald Tún,4,"","",9137RX,Oosternijkerk
+Ald Tún,4,A,"",9137RX,Oosternijkerk
+Ald Tún,6,"","",9137RX,Oosternijkerk
+Ald Tún,8,"","",9137RX,Oosternijkerk
+Griene Wei,1,"","",9137RZ,Oosternijkerk
+Griene Wei,11,"","",9137RZ,Oosternijkerk
+Griene Wei,13,"","",9137RZ,Oosternijkerk
+Griene Wei,15,"","",9137RZ,Oosternijkerk
+Griene Wei,17,"","",9137RZ,Oosternijkerk
+Griene Wei,19,"","",9137RZ,Oosternijkerk
+Griene Wei,21,"","",9137RZ,Oosternijkerk
+Griene Wei,23,"","",9137RZ,Oosternijkerk
+Griene Wei,25,"","",9137RZ,Oosternijkerk
+Griene Wei,27,"","",9137RZ,Oosternijkerk
+Griene Wei,29,"","",9137RZ,Oosternijkerk
+Griene Wei,3,"","",9137RZ,Oosternijkerk
+Griene Wei,31,"","",9137RZ,Oosternijkerk
+Griene Wei,33,"","",9137RZ,Oosternijkerk
+Griene Wei,35,"","",9137RZ,Oosternijkerk
+Griene Wei,37,"","",9137RZ,Oosternijkerk
+Griene Wei,39,"","",9137RZ,Oosternijkerk
+Griene Wei,39,A,"",9137RZ,Oosternijkerk
+Griene Wei,39,A,"",9137RZ,Oosternijkerk
+Griene Wei,41,"","",9137RZ,Oosternijkerk
+Griene Wei,43,"","",9137RZ,Oosternijkerk
+Griene Wei,45,"","",9137RZ,Oosternijkerk
+Griene Wei,45,A,"",9137RZ,Oosternijkerk
+Griene Wei,45,A,"",9137RZ,Oosternijkerk
+Griene Wei,47,"","",9137RZ,Oosternijkerk
+Griene Wei,47,A,"",9137RZ,Oosternijkerk
+Griene Wei,5,"","",9137RZ,Oosternijkerk
+Griene Wei,7,"","",9137RZ,Oosternijkerk
+Griene Wei,9,"","",9137RZ,Oosternijkerk
+Griene Wei,10,"","",9137SB,Oosternijkerk
+Griene Wei,12,"","",9137SB,Oosternijkerk
+Griene Wei,14,"","",9137SB,Oosternijkerk
+Griene Wei,16,"","",9137SB,Oosternijkerk
+Griene Wei,18,"","",9137SB,Oosternijkerk
+Griene Wei,2,"","",9137SB,Oosternijkerk
+Griene Wei,20,"","",9137SB,Oosternijkerk
+Griene Wei,22,"","",9137SB,Oosternijkerk
+Griene Wei,24,"","",9137SB,Oosternijkerk
+Griene Wei,26,"","",9137SB,Oosternijkerk
+Griene Wei,28,"","",9137SB,Oosternijkerk
+Griene Wei,30,"","",9137SB,Oosternijkerk
+Griene Wei,32,"","",9137SB,Oosternijkerk
+Griene Wei,34,"","",9137SB,Oosternijkerk
+Griene Wei,36,"","",9137SB,Oosternijkerk
+Griene Wei,38,"","",9137SB,Oosternijkerk
+Griene Wei,4,"","",9137SB,Oosternijkerk
+Griene Wei,40,"","",9137SB,Oosternijkerk
+Griene Wei,42,"","",9137SB,Oosternijkerk
+Griene Wei,44,"","",9137SB,Oosternijkerk
+Griene Wei,46,"","",9137SB,Oosternijkerk
+Griene Wei,48,"","",9137SB,Oosternijkerk
+Griene Wei,50,"","",9137SB,Oosternijkerk
+Griene Wei,50,"","",9137SB,Oosternijkerk
+Griene Wei,50,A,"",9137SB,Oosternijkerk
+Griene Wei,52,"","",9137SB,Oosternijkerk
+Griene Wei,52,"","",9137SB,Oosternijkerk
+Griene Wei,52,A,"",9137SB,Oosternijkerk
+Griene Wei,6,"","",9137SB,Oosternijkerk
+Griene Wei,8,"","",9137SB,Oosternijkerk
+De Buorfinne,1,"","",9137SC,Oosternijkerk
+De Buorfinne,3,"","",9137SC,Oosternijkerk
+De Buorfinne,5,"","",9137SC,Oosternijkerk
+De Buorfinne,7,"","",9137SC,Oosternijkerk
+De Buorfinne,9,"","",9137SC,Oosternijkerk
+De Buorfinne,10,"","",9137SE,Oosternijkerk
+De Buorfinne,12,"","",9137SE,Oosternijkerk
+De Buorfinne,14,"","",9137SE,Oosternijkerk
+De Buorfinne,16,"","",9137SE,Oosternijkerk
+De Buorfinne,18,"","",9137SE,Oosternijkerk
+De Buorfinne,2,"","",9137SE,Oosternijkerk
+De Buorfinne,20,"","",9137SE,Oosternijkerk
+De Buorfinne,22,"","",9137SE,Oosternijkerk
+De Buorfinne,26,"","",9137SE,Oosternijkerk
+De Buorfinne,28,"","",9137SE,Oosternijkerk
+De Buorfinne,30,"","",9137SE,Oosternijkerk
+De Buorfinne,32,"","",9137SE,Oosternijkerk
+De Buorfinne,36,"","",9137SE,Oosternijkerk
+De Buorfinne,36,"","",9137SE,Oosternijkerk
+De Buorfinne,4,"","",9137SE,Oosternijkerk
+De Buorfinne,6,"","",9137SE,Oosternijkerk
+De Buorfinne,8,"","",9137SE,Oosternijkerk
+De Lyts Ein,1,"","",9137SG,Oosternijkerk
+De Lyts Ein,11,"","",9137SG,Oosternijkerk
+De Lyts Ein,15,"","",9137SG,Oosternijkerk
+De Lyts Ein,17,"","",9137SG,Oosternijkerk
+De Lyts Ein,19,"","",9137SG,Oosternijkerk
+De Lyts Ein,21,"","",9137SG,Oosternijkerk
+De Lyts Ein,23,"","",9137SG,Oosternijkerk
+De Lyts Ein,25,"","",9137SG,Oosternijkerk
+De Lyts Ein,27,"","",9137SG,Oosternijkerk
+De Lyts Ein,29,"","",9137SG,Oosternijkerk
+De Lyts Ein,3,"","",9137SG,Oosternijkerk
+De Lyts Ein,31,"","",9137SG,Oosternijkerk
+De Lyts Ein,33,"","",9137SG,Oosternijkerk
+De Lyts Ein,35,"","",9137SG,Oosternijkerk
+De Lyts Ein,37,"","",9137SG,Oosternijkerk
+De Lyts Ein,37,A,"",9137SG,Oosternijkerk
+De Lyts Ein,39,"","",9137SG,Oosternijkerk
+De Lyts Ein,41,"","",9137SG,Oosternijkerk
+De Lyts Ein,7,"","",9137SG,Oosternijkerk
+De Lyts Ein,9,"","",9137SG,Oosternijkerk
+De Lyts Ein,10,"","",9137SH,Oosternijkerk
+De Lyts Ein,12,"","",9137SH,Oosternijkerk
+De Lyts Ein,14,"","",9137SH,Oosternijkerk
+De Lyts Ein,16,"","",9137SH,Oosternijkerk
+De Lyts Ein,18,"","",9137SH,Oosternijkerk
+De Lyts Ein,2,"","",9137SH,Oosternijkerk
+De Lyts Ein,20,"","",9137SH,Oosternijkerk
+De Lyts Ein,22,"","",9137SH,Oosternijkerk
+De Lyts Ein,24,"","",9137SH,Oosternijkerk
+De Lyts Ein,26,"","",9137SH,Oosternijkerk
+De Lyts Ein,28,"","",9137SH,Oosternijkerk
+De Lyts Ein,30,"","",9137SH,Oosternijkerk
+De Lyts Ein,32,"","",9137SH,Oosternijkerk
+De Lyts Ein,34,"","",9137SH,Oosternijkerk
+De Lyts Ein,36,"","",9137SH,Oosternijkerk
+De Lyts Ein,38,"","",9137SH,Oosternijkerk
+De Lyts Ein,38,"","",9137SH,Oosternijkerk
+De Lyts Ein,6,"","",9137SH,Oosternijkerk
+De Lyts Ein,8,"","",9137SH,Oosternijkerk
+Nijbuorren,10,"","",9137SJ,Oosternijkerk
+Nijbuorren,10,A,"",9137SJ,Oosternijkerk
+Nijbuorren,10,B,"",9137SJ,Oosternijkerk
+Nijbuorren,10,C,"",9137SJ,Oosternijkerk
+Nijbuorren,10,D,"",9137SJ,Oosternijkerk
+Nijbuorren,12,"","",9137SJ,Oosternijkerk
+Nijbuorren,14,"","",9137SJ,Oosternijkerk
+Nijbuorren,16,"","",9137SJ,Oosternijkerk
+Nijbuorren,18,"","",9137SJ,Oosternijkerk
+Nijbuorren,2,"","",9137SJ,Oosternijkerk
+Nijbuorren,20,"","",9137SJ,Oosternijkerk
+Nijbuorren,22,"","",9137SJ,Oosternijkerk
+Nijbuorren,24,"","",9137SJ,Oosternijkerk
+Nijbuorren,26,"","",9137SJ,Oosternijkerk
+Nijbuorren,28,"","",9137SJ,Oosternijkerk
+Nijbuorren,30,"","",9137SJ,Oosternijkerk
+Nijbuorren,32,"","",9137SJ,Oosternijkerk
+Nijbuorren,34,"","",9137SJ,Oosternijkerk
+Nijbuorren,36,"","",9137SJ,Oosternijkerk
+Nijbuorren,38,"","",9137SJ,Oosternijkerk
+Nijbuorren,4,"","",9137SJ,Oosternijkerk
+Nijbuorren,40,"","",9137SJ,Oosternijkerk
+Nijbuorren,6,"","",9137SJ,Oosternijkerk
+Nijbuorren,8,"","",9137SJ,Oosternijkerk
+Nijbuorren,8,T,"",9137SJ,Oosternijkerk
+Nijbuorren,1,"","",9137SK,Oosternijkerk
+Nijbuorren,11,"","",9137SK,Oosternijkerk
+Nijbuorren,13,"","",9137SK,Oosternijkerk
+Nijbuorren,15,"","",9137SK,Oosternijkerk
+Nijbuorren,17,"","",9137SK,Oosternijkerk
+Nijbuorren,19,"","",9137SK,Oosternijkerk
+Nijbuorren,21,"","",9137SK,Oosternijkerk
+Nijbuorren,23,"","",9137SK,Oosternijkerk
+Nijbuorren,25,"","",9137SK,Oosternijkerk
+Nijbuorren,27,"","",9137SK,Oosternijkerk
+Nijbuorren,29,"","",9137SK,Oosternijkerk
+Nijbuorren,3,"","",9137SK,Oosternijkerk
+Nijbuorren,31,"","",9137SK,Oosternijkerk
+Nijbuorren,33,"","",9137SK,Oosternijkerk
+Nijbuorren,35,"","",9137SK,Oosternijkerk
+Nijbuorren,37,"","",9137SK,Oosternijkerk
+Nijbuorren,39,"","",9137SK,Oosternijkerk
+Nijbuorren,41,"","",9137SK,Oosternijkerk
+Nijbuorren,43,"","",9137SK,Oosternijkerk
+Nijbuorren,43,A,"",9137SK,Oosternijkerk
+Nijbuorren,5,"","",9137SK,Oosternijkerk
+Nijbuorren,7,"","",9137SK,Oosternijkerk
+Nijbuorren,9,"","",9137SK,Oosternijkerk
+'t Oogh,1,"","",9137SL,Oosternijkerk
+'t Oogh,1,"","",9137SL,Oosternijkerk
+'t Oogh,10,"","",9137SL,Oosternijkerk
+'t Oogh,14,"","",9137SL,Oosternijkerk
+'t Oogh,16,"","",9137SL,Oosternijkerk
+'t Oogh,16,"","",9137SL,Oosternijkerk
+'t Oogh,18,"","",9137SL,Oosternijkerk
+'t Oogh,2,A,"",9137SL,Oosternijkerk
+'t Oogh,20,"","",9137SL,Oosternijkerk
+'t Oogh,3,"","",9137SL,Oosternijkerk
+'t Oogh,3,"","",9137SL,Oosternijkerk
+'t Oogh,4,"","",9137SL,Oosternijkerk
+'t Oogh,5,"","",9137SL,Oosternijkerk
+'t Oogh,6,"","",9137SL,Oosternijkerk
+'t Oogh,7,"","",9137SL,Oosternijkerk

@@ -1,1234 +1,641 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7766AD",123,"",""
-"7766AD",131,"",""
-"7766AD",117,"A",""
-"7766AD",139,"L",""
-"7766AD",131,"A",""
-"7766AD",127,"",""
-"7766AD",139,"G",""
-"7766AD",139,"C",""
-"7766AD",139,"L",""
-"7766AD",139,"J",""
-"7766AD",139,"E",""
-"7766AD",139,"H",""
-"7766AD",139,"K",""
-"7766AD",129,"",""
-"7766AD",131,"",""
-"7766AD",125,"",""
-"7766AD",111,"",""
-"7766AD",139,"K",""
-"7766AD",117,"",""
-"7766AD",113,"",""
-"7766AD",139,"E",""
-"7766AD",139,"J",""
-"7766AD",139,"D",""
-"7766AD",139,"G",""
-"7766AD",137,"",""
-"7766AD",121,"",""
-"7766AD",131,"A",""
-"7766AD",117,"B",""
-"7766AD",121,"",""
-"7766AD",135,"A",""
-"7766AD",139,"F",""
-"7766AD",139,"H",""
-"7766AD",119,"",""
-"7766AD",139,"B",""
-"7766AD",137,"A",""
-"7766AD",121,"",""
-"7766AD",121,"",""
-"7766AD",139,"C",""
-"7766AD",139,"A",""
-"7766AD",139,"F",""
-"7766AD",139,"B",""
-"7766AD",139,"D",""
-"7766AD",133,"",""
-"7766AD",135,"",""
-"7766AD",115,"",""
-"7766AD",139,"A",""
-"7766AE",141,"","TOR"
-"7766AE",141,"",""
-"7766AE",177,"",""
-"7766AE",173,"",""
-"7766AE",189,"A",""
-"7766AE",143,"",""
-"7766AE",163,"A",""
-"7766AE",179,"",""
-"7766AE",163,"",""
-"7766AE",163,"A",""
-"7766AE",124,"",""
-"7766AE",169,"",""
-"7766AE",167,"",""
-"7766AE",175,"",""
-"7766AE",163,"A",""
-"7766AE",163,"A",""
-"7766AE",173,"",""
-"7766AE",141,"",""
-"7766AE",163,"",""
-"7766AE",141,"",""
-"7766AE",171,"",""
-"7766AE",169,"",""
-"7766AE",171,"",""
-"7766AE",124,"",""
-"7766AE",165,"",""
-"7766AE",179,"A",""
-"7766AE",143,"A",""
-"7766AE",148,"A",""
-"7766AE",157,"",""
-"7766AE",124,"",""
-"7766AE",155,"",""
-"7766AE",157,"","TRFO"
-"7766AE",151,"A",""
-"7766AE",147,"",""
-"7766AE",155,"A",""
-"7766AE",153,"",""
-"7766AE",157,"","TR"
-"7766AE",163,"",""
-"7766AE",149,"",""
-"7766AE",161,"",""
-"7766AE",151,"",""
-"7766AE",145,"",""
-"7766AE",151,"",""
-"7766AE",148,"A",""
-"7766AE",148,"B",""
-"7766AE",143,"A",""
-"7766AE",148,"D",""
-"7766AE",159,"",""
-"7766AE",148,"C",""
-"7766AE",151,"",""
-"7766AM",98,"",""
-"7766AM",88,"B",""
-"7766AM",88,"",""
-"7766AM",100,"",""
-"7766AM",106,"",""
-"7766AM",90,"",""
-"7766AM",102,"",""
-"7766AM",88,"",""
-"7766AM",86,"",""
-"7766AM",104,"",""
-"7766AM",110,"",""
-"7766AM",108,"",""
-"7766AM",94,"","TR"
-"7766AM",94,"","TRFO"
-"7766AM",78,"",""
-"7766AM",114,"",""
-"7766AM",90,"A",""
-"7766AM",96,"",""
-"7766AM",90,"","SCH"
-"7766AM",90,"","SCH"
-"7766AM",116,"",""
-"7766AM",112,"",""
-"7766AM",90,"A",""
-"7766AM",88,"A",""
-"7766AM",82,"",""
-"7766AM",84,"",""
-"7766AM",90,"",""
-"7766AM",92,"",""
-"7766AM",90,"",""
-"7766AM",90,"",""
-"7766AM",94,"",""
-"7766AN",4,"",""
-"7766AP",158,"",""
-"7766AP",154,"",""
-"7766AP",148,"A",""
-"7766AP",160,"",""
-"7766AP",122,"",""
-"7766AP",164,"",""
-"7766AP",164,"","TR"
-"7766AP",148,"C",""
-"7766AP",148,"A",""
-"7766AP",122,"A",""
-"7766AP",148,"",""
-"7766AP",122,"",""
-"7766AP",124,"",""
-"7766AP",130,"",""
-"7766AP",132,"B",""
-"7766AP",122,"B",""
-"7766AP",122,"",""
-"7766AP",126,"",""
-"7766AP",152,"",""
-"7766AP",148,"",""
-"7766AP",122,"C",""
-"7766AP",122,"",""
-"7766AP",132,"A",""
-"7766AP",166,"",""
-"7766AP",128,"",""
-"7766AP",122,"D",""
-"7766AP",164,"","TRFO"
-"7766AP",132,"H",""
-"7766AP",120,"",""
-"7766AP",148,"D",""
-"7766AP",148,"B",""
-"7766AP",142,"",""
-"7766AP",132,"",""
-"7766AP",130,"A",""
-"7766AP",132,"",""
-"7766AP",140,"",""
-"7766AP",168,"",""
-"7766AP",118,"",""
-"7766AP",148,"A",""
-"7766AP",132,"D",""
-"7766AP",134,"",""
-"7766AP",164,"A",""
-"7766AP",150,"",""
-"7766AP",132,"C",""
-"7766AP",136,"",""
-"7766AP",134,"","TRFO"
-"7766AP",136,"",""
-"7766AP",144,"",""
-"7766AP",146,"A",""
-"7766AP",148,"",""
-"7766AP",132,"G",""
-"7766AP",150,"A",""
-"7766AP",132,"F",""
-"7766AP",136,"",""
-"7766AP",134,"",""
-"7766AP",136,"",""
-"7766AP",156,"",""
-"7766AP",134,"",""
-"7766AP",136,"",""
-"7766AP",136,"",""
-"7766AP",146,"",""
-"7766AP",134,"",""
-"7766AP",132,"T",""
-"7766AP",134,"",""
-"7766AP",132,"S",""
-"7766AP",134,"","TR"
-"7766AP",132,"E",""
-"7766AP",132,"P",""
-"7766AP",136,"",""
-"7766AP",132,"R",""
-"7766AP",132,"L",""
-"7766AP",136,"",""
-"7766AP",134,"",""
-"7766AP",136,"",""
-"7766AP",136,"",""
-"7766AP",132,"J",""
-"7766AP",134,"",""
-"7766AP",132,"N",""
-"7766AP",132,"M",""
-"7766AP",132,"K",""
-"7766AP",136,"",""
-"7766AR",186,"",""
-"7766AR",190,"",""
-"7766AR",192,"",""
-"7766AR",198,"",""
-"7766AR",186,"A",""
-"7766AR",190,"",""
-"7766AR",174,"",""
-"7766AR",182,"",""
-"7766AR",194,"",""
-"7766AR",196,"A",""
-"7766AR",176,"",""
-"7766AR",190,"",""
-"7766AR",180,"",""
-"7766AR",190,"",""
-"7766AR",190,"A",""
-"7766AR",190,"A",""
-"7766AR",192,"",""
-"7766AR",190,"",""
-"7766AR",178,"",""
-"7766AR",198,"",""
-"7766AR",170,"",""
-"7766AR",196,"",""
-"7766AR",184,"",""
-"7766AR",172,"",""
-"7766AR",192,"",""
-"7766AR",198,"",""
-"7766AR",214,"",""
-"7766AR",218,"",""
-"7766AR",180,"A",""
-"7766AR",214,"A",""
-"7766AR",192,"",""
-"7766AR",218,"A",""
-"7766AR",192,"",""
-"7766AR",216,"",""
-"7766AT",25,"A",""
-"7766AT",25,"B",""
-"7766AT",27,"",""
-"7766AT",31,"",""
-"7766AT",33,"",""
-"7766AT",1,"",""
-"7766AT",23,"",""
-"7766AT",29,"",""
-"7766AT",17,"",""
-"7766AT",11,"",""
-"7766AT",17,"A",""
-"7766AT",21,"",""
-"7766AT",1,"A",""
-"7766AT",5,"",""
-"7766AT",17,"A",""
-"7766AT",9,"",""
-"7766AT",25,"",""
-"7766AT",15,"",""
-"7766AT",13,"",""
-"7766AT",19,"",""
-"7766AT",7,"",""
-"7766AT",3,"",""
-"7766AV",22,"",""
-"7766AV",24,"",""
-"7766AV",6,"",""
-"7766AV",26,"",""
-"7766AV",28,"",""
-"7766AV",8,"",""
-"7766AV",32,"",""
-"7766AV",22,"","TRFO"
-"7766AV",16,"",""
-"7766AV",6,"A",""
-"7766AV",22,"","TR"
-"7766AV",34,"",""
-"7766AV",18,"",""
-"7766AV",14,"",""
-"7766AV",8,"",""
-"7766AV",10,"",""
-"7766AV",30,"",""
-"7766AZ",3,"",""
-"7766AZ",5,"",""
-"7766BA",7,"",""
-"7766BA",27,"",""
-"7766BA",25,"",""
-"7766BA",11,"",""
-"7766BA",37,"",""
-"7766BA",21,"",""
-"7766BA",13,"",""
-"7766BA",31,"",""
-"7766BA",9,"",""
-"7766BA",29,"",""
-"7766BA",35,"",""
-"7766BA",1,"","GV"
-"7766BA",5,"",""
-"7766BA",23,"",""
-"7766BA",17,"",""
-"7766BA",19,"",""
-"7766BA",1,"",""
-"7766BA",1,"","GV"
-"7766BA",15,"",""
-"7766BA",33,"",""
-"7766BA",39,"",""
-"7766BB",28,"",""
-"7766BB",26,"",""
-"7766BB",16,"","TR"
-"7766BB",24,"",""
-"7766BB",22,"",""
-"7766BB",14,"",""
-"7766BB",30,"",""
-"7766BB",12,"",""
-"7766BB",16,"","TRFO"
-"7766BB",20,"",""
-"7766BB",10,"",""
-"7766BB",16,"A",""
-"7766BB",32,"",""
-"7766BB",8,"",""
-"7766BB",6,"",""
-"7766BB",18,"",""
-"7766BB",16,"",""
-"7766BB",4,"",""
-"7766BC",9,"",""
-"7766BC",33,"",""
-"7766BC",9,"",""
-"7766BC",33,"",""
-"7766BC",7,"",""
-"7766BC",9,"",""
-"7766BC",9,"",""
-"7766BC",13,"",""
-"7766BC",35,"",""
-"7766BC",31,"",""
-"7766BC",33,"",""
-"7766BC",35,"",""
-"7766BC",3,"",""
-"7766BC",11,"",""
-"7766BC",1,"",""
-"7766BC",9,"",""
-"7766BC",11,"",""
-"7766BC",9,"",""
-"7766BC",17,"",""
-"7766BC",13,"",""
-"7766BC",29,"",""
-"7766BC",11,"",""
-"7766BC",37,"",""
-"7766BC",27,"",""
-"7766BC",19,"",""
-"7766BC",25,"",""
-"7766BC",33,"",""
-"7766BC",5,"",""
-"7766BC",35,"",""
-"7766BC",31,"",""
-"7766BC",15,"",""
-"7766BC",29,"",""
-"7766BC",15,"",""
-"7766BC",13,"",""
-"7766BC",9,"",""
-"7766BC",33,"",""
-"7766BC",29,"",""
-"7766BC",19,"",""
-"7766BC",31,"",""
-"7766BC",21,"",""
-"7766BC",17,"",""
-"7766BC",31,"",""
-"7766BC",15,"",""
-"7766BC",31,"",""
-"7766BC",23,"",""
-"7766BD",28,"",""
-"7766BD",14,"",""
-"7766BD",4,"",""
-"7766BD",8,"",""
-"7766BD",28,"",""
-"7766BD",24,"",""
-"7766BD",28,"",""
-"7766BD",28,"",""
-"7766BD",32,"",""
-"7766BD",38,"",""
-"7766BD",6,"",""
-"7766BD",8,"",""
-"7766BD",6,"",""
-"7766BD",26,"",""
-"7766BD",4,"",""
-"7766BD",2,"D",""
-"7766BD",6,"",""
-"7766BD",26,"",""
-"7766BD",2,"",""
-"7766BD",20,"",""
-"7766BD",10,"",""
-"7766BD",12,"",""
-"7766BD",22,"",""
-"7766BD",36,"",""
-"7766BD",2,"D",""
-"7766BD",16,"",""
-"7766BD",18,"",""
-"7766BD",22,"",""
-"7766BD",24,"",""
-"7766BD",24,"",""
-"7766BD",22,"",""
-"7766BD",22,"",""
-"7766BD",26,"",""
-"7766BD",34,"",""
-"7766BD",30,"",""
-"7766BD",28,"",""
-"7766BD",26,"",""
-"7766BD",22,"",""
-"7766BD",4,"",""
-"7766BD",22,"",""
-"7766BD",26,"",""
-"7766BD",26,"",""
-"7766BD",24,"",""
-"7766BD",24,"",""
-"7766BD",28,"",""
-"7766BD",8,"",""
-"7766BE",8,"",""
-"7766BE",2,"",""
-"7766BE",15,"",""
-"7766BE",8,"",""
-"7766BE",15,"",""
-"7766BE",15,"",""
-"7766BE",15,"",""
-"7766BE",6,"",""
-"7766BE",1,"",""
-"7766BE",6,"",""
-"7766BE",8,"",""
-"7766BE",17,"",""
-"7766BE",10,"",""
-"7766BE",6,"",""
-"7766BE",13,"",""
-"7766BE",4,"",""
-"7766BE",2,"",""
-"7766BE",8,"",""
-"7766BE",3,"",""
-"7766BE",11,"",""
-"7766BE",12,"",""
-"7766BE",15,"",""
-"7766BE",4,"",""
-"7766BE",4,"",""
-"7766BE",8,"",""
-"7766BE",9,"",""
-"7766BE",13,"",""
-"7766BE",6,"",""
-"7766BE",10,"",""
-"7766BE",10,"",""
-"7766BE",6,"",""
-"7766BE",13,"",""
-"7766BE",13,"",""
-"7766BE",12,"",""
-"7766BE",6,"",""
-"7766BE",5,"",""
-"7766BE",12,"",""
-"7766BE",12,"",""
-"7766BE",12,"",""
-"7766BE",7,"",""
-"7766BE",4,"",""
-"7766BE",2,"",""
-"7766BE",6,"",""
-"7766BE",8,"",""
-"7766BE",12,"",""
-"7766BG",9,"",""
-"7766BG",17,"",""
-"7766BG",2,"",""
-"7766BG",21,"",""
-"7766BG",11,"",""
-"7766BG",5,"",""
-"7766BG",3,"",""
-"7766BG",7,"",""
-"7766BG",31,"",""
-"7766BG",23,"",""
-"7766BG",37,"",""
-"7766BG",6,"",""
-"7766BG",19,"",""
-"7766BG",25,"",""
-"7766BG",27,"",""
-"7766BG",13,"",""
-"7766BG",1,"",""
-"7766BG",15,"",""
-"7766BG",29,"",""
-"7766BG",33,"",""
-"7766BG",4,"",""
-"7766BG",42,"","50"
-"7766BH",1,"","TR"
-"7766BH",4,"",""
-"7766BH",2,"",""
-"7766BH",7,"",""
-"7766BH",8,"",""
-"7766BH",1,"",""
-"7766BH",6,"",""
-"7766BH",3,"",""
-"7766BH",9,"",""
-"7766BH",5,"",""
-"7766BH",1,"","TR"
-"7766BJ",2,"",""
-"7766BJ",10,"",""
-"7766BJ",6,"",""
-"7766BJ",8,"",""
-"7766BJ",4,"",""
-"7766BK",14,"",""
-"7766BK",6,"",""
-"7766BK",2,"",""
-"7766BK",10,"",""
-"7766BK",8,"",""
-"7766BK",4,"",""
-"7766BK",12,"",""
-"7766BL",13,"",""
-"7766BL",29,"",""
-"7766BL",6,"",""
-"7766BL",7,"",""
-"7766BL",5,"",""
-"7766BL",17,"",""
-"7766BL",11,"",""
-"7766BL",19,"",""
-"7766BL",15,"",""
-"7766BL",4,"",""
-"7766BL",25,"",""
-"7766BL",9,"",""
-"7766BL",21,"",""
-"7766BL",1,"",""
-"7766BL",23,"",""
-"7766BL",2,"",""
-"7766BL",27,"",""
-"7766BL",3,"",""
-"7766BM",12,"",""
-"7766BM",7,"",""
-"7766BM",9,"",""
-"7766BM",16,"",""
-"7766BM",5,"",""
-"7766BM",20,"",""
-"7766BM",14,"",""
-"7766BM",18,"",""
-"7766BM",13,"",""
-"7766BM",10,"",""
-"7766BM",8,"",""
-"7766BM",1,"",""
-"7766BM",15,"",""
-"7766BM",6,"",""
-"7766BM",3,"",""
-"7766BM",2,"",""
-"7766BM",19,"",""
-"7766BM",17,"",""
-"7766BM",4,"",""
-"7766BN",8,"",""
-"7766BN",16,"",""
-"7766BN",15,"",""
-"7766BN",9,"",""
-"7766BN",4,"",""
-"7766BN",19,"",""
-"7766BN",6,"",""
-"7766BN",11,"",""
-"7766BN",10,"",""
-"7766BN",1,"",""
-"7766BN",13,"",""
-"7766BN",2,"",""
-"7766BN",14,"",""
-"7766BN",19,"","TR"
-"7766BN",17,"",""
-"7766BN",12,"",""
-"7766BN",19,"","TR"
-"7766BP",4,"",""
-"7766BP",1,"",""
-"7766BP",6,"",""
-"7766BP",12,"",""
-"7766BP",8,"",""
-"7766BP",3,"",""
-"7766BP",10,"",""
-"7766BP",2,"",""
-"7766BR",3,"",""
-"7766BR",1,"",""
-"7766BR",4,"",""
-"7766BR",6,"",""
-"7766BR",8,"",""
-"7766BR",2,"",""
-"7766BR",5,"",""
-"7766BS",4,"",""
-"7766BS",1,"",""
-"7766BS",7,"",""
-"7766BS",6,"",""
-"7766BS",5,"",""
-"7766BS",8,"",""
-"7766BS",8,"",""
-"7766BS",3,"",""
-"7766BS",2,"",""
-"7766BS",8,"",""
-"7766BV",27,"",""
-"7766BV",11,"",""
-"7766BV",11,"",""
-"7766BV",23,"",""
-"7766BV",15,"",""
-"7766BV",12,"",""
-"7766BV",3,"",""
-"7766BV",29,"",""
-"7766BV",27,"",""
-"7766BV",3,"",""
-"7766BV",23,"",""
-"7766BV",21,"",""
-"7766BV",19,"",""
-"7766BV",17,"",""
-"7766BV",19,"",""
-"7766BV",1,"",""
-"7766BV",21,"",""
-"7766BV",15,"",""
-"7766BV",14,"",""
-"7766BV",17,"",""
-"7766BV",25,"",""
-"7766BV",11,"",""
-"7766BV",13,"",""
-"7766BW",40,"",""
-"7766BW",40,"",""
-"7766BW",44,"",""
-"7766BW",10,"",""
-"7766BW",18,"",""
-"7766BW",42,"",""
-"7766BW",42,"",""
-"7766BW",16,"",""
-"7766BW",12,"",""
-"7766BW",30,"",""
-"7766BW",42,"",""
-"7766BW",14,"",""
-"7766BW",32,"",""
-"7766BW",40,"",""
-"7766BW",36,"",""
-"7766BW",22,"",""
-"7766BW",24,"",""
-"7766BW",8,"",""
-"7766BW",22,"",""
-"7766BW",24,"",""
-"7766BW",26,"",""
-"7766BW",1,"",""
-"7766BW",2,"",""
-"7766BW",36,"",""
-"7766BW",6,"",""
-"7766BW",30,"",""
-"7766BW",22,"",""
-"7766BW",34,"",""
-"7766BW",1,"",""
-"7766BW",26,"",""
-"7766BW",6,"",""
-"7766BW",38,"",""
-"7766BW",1,"",""
-"7766BW",4,"",""
-7766AN,Aalminksweg,4,,
-7766BH,Boschhof,6,,
-7766BH,Boschhof,9,,
-7766BH,Boschhof,8,,
-7766BG,Carboonlaan,15,,
-7766BG,Carboonlaan,23,,
-7766BG,Carboonlaan,21,,
-7766BG,Carboonlaan,25,,
-7766BG,Carboonlaan,33,,
-7766BM,Darg,9,,
-7766BM,Darg,5,,
-7766AE,Europaweg,173,,
-7766AE,Europaweg,173,,
-7766AM,Europaweg,94,,TRFO
-7766AM,Europaweg,94,,TR
-7766BE,Huurdemanlaan,4,,
-7766BE,Huurdemanlaan,9,,
-7766BE,Huurdemanlaan,17,,
-7766AT,Kerkenweg,11,,
-7766AT,Kerkenweg,1,,
-7766BA,Molenaarslaan,21,,
-7766BA,Molenaarslaan,23,,
-7766BA,Molenaarslaan,33,,
-7766BA,Molenaarslaan,35,,
-7766BA,Molenaarslaan,9,,
-7766BA,Molenaarslaan,17,,
-7766BB,Molenaarslaan,24,,
-7766BB,Molenaarslaan,28,,
-7766BB,Molenaarslaan,16,,
-7766BB,Molenaarslaan,14,,
-7766BC,Van Eklaan,15,,
-7766BC,Van Eklaan,37,,
-7766BC,Van Eklaan,35,,
-7766BD,Van Eklaan,28,,
-7766BD,Van Eklaan,28,,
-7766BD,Van Eklaan,28,,
-7766BD,Van Eklaan,28,,
-7766BD,Van Eklaan,28,,
-7766BR,Bolster,5,,
-7766BR,Bolster,8,,
-7766BM,Darg,15,,
-7766BM,Darg,4,,
-7766BM,Darg,8,,
-7766BM,Darg,10,,
-7766BJ,De Koele,4,,
-7766BJ,De Koele,10,,
-7766BL,De Vierakkers,25,,
-7766BN,Dobbe,11,,
-7766BN,Dobbe,17,,
-7766BN,Dobbe,16,,
-7766AD,Europaweg,111,,
-7766AD,Europaweg,115,,
-7766AD,Europaweg,135,,
-7766AD,Europaweg,131,A,
-7766AD,Europaweg,119,,
-7766AE,Europaweg,161,,
-7766AE,Europaweg,175,,
-7766AE,Europaweg,179,,
-7766AE,Europaweg,177,,
-7766AM,Europaweg,84,,
-7766AM,Europaweg,82,,
-7766AM,Europaweg,88,B,
-7766AM,Europaweg,94,,
-7766AM,Europaweg,106,,
-7766AM,Europaweg,112,,
-7766AM,Europaweg,110,,
-7766AP,Europaweg,120,,
-7766AP,Europaweg,142,,
-7766AP,Europaweg,144,,
-7766AP,Europaweg,164,A,
-7766AR,Europaweg,176,,
-7766AR,Europaweg,172,,
-7766AR,Europaweg,214,A,
-7766AT,Kerkenweg,19,,
-7766AT,Kerkenweg,25,,
-7766AT,Kerkenweg,25,A,
-7766AT,Kerkenweg,25,B,
-7766AV,Kerkenweg,6,,
-7766AV,Kerkenweg,18,,
-7766AV,Kerkenweg,22,,
-7766AV,Kerkenweg,26,,
-7766AV,Kerkenweg,24,,
-7766AV,Kerkenweg,32,,
-7766BS,Krag,3,,
-7766BS,Krag,5,,
-7766BC,Van Eklaan,21,,
-7766BD,Van Eklaan,8,,
-7766BD,Van Eklaan,12,,
-7766BD,Van Eklaan,20,,
-7766BP,Veenmos,6,,
-7766BP,Veenmos,2,,
-7766BP,Veenmos,12,,
-7766BR,Bolster,3,,
-7766BH,Boschhof,3,,
-7766BH,Boschhof,1,,
-7766BG,Carboonlaan,27,,
-7766BM,Darg,3,,
-7766BM,Darg,17,,
-7766BM,Darg,19,,
-7766BM,Darg,20,,
-7766BM,Darg,6,,
-7766BJ,De Koele,8,,
-7766BK,De Smidse,8,,
-7766BK,De Smidse,2,,
-7766BK,De Smidse,4,,
-7766BL,De Vierakkers,7,,
-7766BL,De Vierakkers,9,,
-7766BN,Dobbe,6,,
-7766BN,Dobbe,14,,
-7766AD,Europaweg,133,,
-7766AD,Europaweg,117,B,
-7766AD,Europaweg,113,,
-7766AD,Europaweg,127,,
-7766AD,Europaweg,135,A,
-7766AE,Europaweg,165,,
-7766AE,Europaweg,159,,
-7766AM,Europaweg,104,,
-7766AM,Europaweg,100,,
-7766AP,Europaweg,130,A,
-7766AP,Europaweg,140,,
-7766AP,Europaweg,148,,
-7766AP,Europaweg,164,,
-7766AR,Europaweg,180,A,
-7766AR,Europaweg,190,,
-7766AR,Europaweg,190,,
-7766AR,Europaweg,190,,
-7766AR,Europaweg,190,,
-7766AR,Europaweg,190,,
-7766AR,Europaweg,198,,
-7766AR,Europaweg,194,,
-7766AR,Europaweg,216,,
-7766BE,Huurdemanlaan,2,,
-7766AT,Kerkenweg,5,,
-7766AV,Kerkenweg,22,,TRFO
-7766AV,Kerkenweg,22,,TR
-7766AV,Kerkenweg,14,,
-7766AV,Kerkenweg,30,,
-7766BA,Molenaarslaan,29,,
-7766BA,Molenaarslaan,27,,
-7766BA,Molenaarslaan,31,,
-7766BA,Molenaarslaan,7,,
-7766BB,Molenaarslaan,8,,
-7766BB,Molenaarslaan,6,,
-7766BB,Molenaarslaan,12,,
-7766BD,Van Eklaan,38,,
-7766BD,Van Eklaan,36,,
-7766BD,Van Eklaan,2,D,
-7766BD,Van Eklaan,18,,
-7766BP,Veenmos,8,,
-7766AZ,Aalminksweg,3,,
-7766AZ,Aalminksweg,3,,
-7766BR,Bolster,1,,
-7766BG,Carboonlaan,11,,
-7766BG,Carboonlaan,19,,
-7766BG,Carboonlaan,1,,
-7766BG,Carboonlaan,2,,
-7766BM,Darg,7,,
-7766BK,De Smidse,6,,
-7766BL,De Vierakkers,4,,
-7766BL,De Vierakkers,11,,
-7766BL,De Vierakkers,17,,
-7766BN,Dobbe,10,,
-7766AD,Europaweg,137,A,
-7766AD,Europaweg,125,,
-7766AD,Europaweg,123,,
-7766AE,Europaweg,155,A,
-7766AE,Europaweg,171,,
-7766AE,Europaweg,171,,
-7766AE,Europaweg,169,,
-7766AE,Europaweg,169,,
-7766AM,Europaweg,98,,
-7766AM,Europaweg,108,,
-7766AM,Europaweg,116,,
-7766AP,Europaweg,156,,
-7766AP,Europaweg,136,,
-7766AP,Europaweg,150,A,
-7766AP,Europaweg,166,,
-7766AP,Europaweg,164,,TRFO
-7766AP,Europaweg,164,,TR
-7766AR,Europaweg,218,A,
-7766AR,Europaweg,186,,
-7766AT,Kerkenweg,9,,
-7766AT,Kerkenweg,17,,
-7766AV,Kerkenweg,34,,
-7766AV,Kerkenweg,10,,
-7766BS,Krag,1,,
-7766BA,Molenaarslaan,1,,
-7766BB,Molenaarslaan,10,,
-7766BB,Molenaarslaan,16,,TRFO
-7766BB,Molenaarslaan,16,,TR
-7766BC,Van Eklaan,11,,
-7766BC,Van Eklaan,19,,
-7766BC,Van Eklaan,27,,
-7766BD,Van Eklaan,2,,
-7766BD,Van Eklaan,30,,
-7766BD,Van Eklaan,32,,
-7766BP,Veenmos,3,,
-7766BR,Bolster,4,,
-7766BH,Boschhof,4,,
-7766BH,Boschhof,5,,
-7766BG,Carboonlaan,17,,
-7766BG,Carboonlaan,37,,
-7766BG,Carboonlaan,9,,
-7766BG,Carboonlaan,31,,
-7766BG,Carboonlaan,6,,
-7766BM,Darg,16,,
-7766BM,Darg,18,,
-7766BM,Darg,2,,
-7766BL,De Vierakkers,6,,
-7766BL,De Vierakkers,15,,
-7766BL,De Vierakkers,3,,
-7766BL,De Vierakkers,5,,
-7766BL,De Vierakkers,2,,
-7766BN,Dobbe,13,,
-7766AD,Europaweg,117,,
-7766AD,Europaweg,129,,
-7766AE,Europaweg,143,A,
-7766AE,Europaweg,145,,
-7766AE,Europaweg,157,,
-7766AE,Europaweg,155,,
-7766AE,Europaweg,179,A,
-7766AE,Europaweg,157,,TRFO
-7766AE,Europaweg,157,,TR
-7766AP,Europaweg,146,,
-7766AR,Europaweg,180,,
-7766AR,Europaweg,196,,
-7766BE,Huurdemanlaan,6,,
-7766BE,Huurdemanlaan,3,,
-7766BE,Huurdemanlaan,1,,
-7766BE,Huurdemanlaan,15,,
-7766BE,Huurdemanlaan,15,,
-7766BE,Huurdemanlaan,15,,
-7766BE,Huurdemanlaan,15,,
-7766BE,Huurdemanlaan,15,,
-7766BE,Huurdemanlaan,10,,
-7766BE,Huurdemanlaan,10,,
-7766AT,Kerkenweg,33,,
-7766AT,Kerkenweg,7,,
-7766AV,Kerkenweg,28,,
-7766BA,Molenaarslaan,25,,
-7766BA,Molenaarslaan,19,,
-7766BA,Molenaarslaan,11,,
-7766BB,Molenaarslaan,32,,
-7766BB,Molenaarslaan,26,,
-7766BB,Molenaarslaan,4,,
-7766BC,Van Eklaan,17,,
-7766BC,Van Eklaan,33,,
-7766BC,Van Eklaan,3,,
-7766BC,Van Eklaan,13,,
-7766BC,Van Eklaan,31,,
-7766BD,Van Eklaan,14,,
-7766BD,Van Eklaan,16,,
-7766BD,Van Eklaan,34,,
-7766BD,Van Eklaan,6,,
-7766BD,Van Eklaan,24,,
-7766BD,Van Eklaan,24,,
-7766BD,Van Eklaan,24,,
-7766BD,Van Eklaan,24,,
-7766BD,Van Eklaan,22,,
-7766BD,Van Eklaan,22,,
-7766BD,Van Eklaan,22,,
-7766BD,Van Eklaan,22,,
-7766BD,Van Eklaan,22,,
-7766AP,Europaweg,122,,
-7766BR,Bolster,2,,
-7766BH,Boschhof,7,,
-7766BG,Carboonlaan,5,,
-7766BG,Carboonlaan,13,,
-7766BM,Darg,14,,
-7766BM,Darg,12,,
-7766BJ,De Koele,6,,
-7766BK,De Smidse,10,,
-7766BK,De Smidse,14,,
-7766BK,De Smidse,12,,
-7766BL,De Vierakkers,27,,
-7766BL,De Vierakkers,19,,
-7766BL,De Vierakkers,1,,
-7766BL,De Vierakkers,29,,
-7766BL,De Vierakkers,21,,
-7766BN,Dobbe,1,,
-7766BN,Dobbe,2,,
-7766BN,Dobbe,9,,
-7766BN,Dobbe,4,,
-7766BN,Dobbe,12,,
-7766BN,Dobbe,8,,
-7766AD,Europaweg,117,A,
-7766AD,Europaweg,137,,
-7766AD,Europaweg,131,,
-7766AE,Europaweg,143,,
-7766AE,Europaweg,141,,
-7766AE,Europaweg,151,A,
-7766AE,Europaweg,153,,
-7766AE,Europaweg,147,,
-7766AE,Europaweg,167,,
-7766AM,Europaweg,86,,
-7766AM,Europaweg,88,A,
-7766AM,Europaweg,92,,
-7766AM,Europaweg,114,,
-7766AM,Europaweg,90,A,
-7766AM,Europaweg,90,A,
-7766AM,Europaweg,96,,
-7766AM,Europaweg,90,,
-7766AM,Europaweg,102,,
-7766AP,Europaweg,124,,
-7766AP,Europaweg,128,,
-7766AP,Europaweg,158,,
-7766AP,Europaweg,132,,
-7766AP,Europaweg,132,,
-7766AP,Europaweg,150,,
-7766AP,Europaweg,152,,
-7766AP,Europaweg,154,,
-7766AP,Europaweg,134,,TRFO
-7766AP,Europaweg,134,,TR
-7766AP,Europaweg,118,,
-7766AP,Europaweg,126,,
-7766AP,Europaweg,130,,
-7766AP,Europaweg,160,,
-7766AR,Europaweg,174,,
-7766AR,Europaweg,182,,
-7766AR,Europaweg,196,A,
-7766AR,Europaweg,184,,
-7766AR,Europaweg,218,,
-7766BE,Huurdemanlaan,7,,
-7766BE,Huurdemanlaan,11,,
-7766BE,Huurdemanlaan,13,,
-7766BE,Huurdemanlaan,13,,
-7766BE,Huurdemanlaan,13,,
-7766BE,Huurdemanlaan,13,,
-7766BE,Huurdemanlaan,12,,
-7766BE,Huurdemanlaan,12,,
-7766BE,Huurdemanlaan,12,,
-7766AT,Kerkenweg,21,,
-7766AT,Kerkenweg,31,,
-7766AT,Kerkenweg,29,,
-7766AT,Kerkenweg,3,,
-7766AV,Kerkenweg,16,,
-7766AV,Kerkenweg,8,,
-7766BS,Krag,2,,
-7766BA,Molenaarslaan,5,,
-7766BB,Molenaarslaan,20,,
-7766BB,Molenaarslaan,16,A,
-7766BC,Van Eklaan,1,,
-7766BC,Van Eklaan,7,,
-7766BC,Van Eklaan,5,,
-7766BC,Van Eklaan,25,,
-7766BC,Van Eklaan,9,,
-7766BC,Van Eklaan,23,,
-7766BD,Van Eklaan,10,,
-7766BD,Van Eklaan,26,,
-7766BD,Van Eklaan,26,,
-7766BD,Van Eklaan,26,,
-7766BD,Van Eklaan,26,,
-7766BD,Van Eklaan,26,,
-7766BP,Veenmos,1,,
-7766BP,Veenmos,4,,
-7766AZ,Aalminksweg,5,,
-7766BH,Boschhof,2,,
-7766BG,Carboonlaan,7,,
-7766BG,Carboonlaan,3,,
-7766BG,Carboonlaan,29,,
-7766BG,Carboonlaan,4,,
-7766BM,Darg,1,,
-7766BM,Darg,13,,
-7766BJ,De Koele,2,,
-7766BL,De Vierakkers,23,,
-7766BL,De Vierakkers,13,,
-7766BN,Dobbe,15,,
-7766AD,Europaweg,121,,
-7766AE,Europaweg,151,,
-7766AE,Europaweg,151,,
-7766AE,Europaweg,149,,
-7766AE,Europaweg,163,,
-7766AM,Europaweg,90,,SCH
-7766AM,Europaweg,78,,
-7766AP,Europaweg,134,,
-7766AP,Europaweg,168,,
-7766AR,Europaweg,170,,
-7766AR,Europaweg,178,,
-7766AR,Europaweg,192,,
-7766AR,Europaweg,214,,
-7766BE,Huurdemanlaan,8,,
-7766BE,Huurdemanlaan,5,,
-7766AT,Kerkenweg,13,,
-7766AT,Kerkenweg,15,,
-7766AT,Kerkenweg,1,A,
-7766AT,Kerkenweg,23,,
-7766AT,Kerkenweg,27,,
-7766BS,Krag,4,,
-7766BS,Krag,6,,
-7766BA,Molenaarslaan,39,,
-7766BA,Molenaarslaan,37,,
-7766BA,Molenaarslaan,13,,
-7766BA,Molenaarslaan,15,,
-7766BB,Molenaarslaan,22,,
-7766BB,Molenaarslaan,18,,
-7766BB,Molenaarslaan,30,,
-7766BC,Van Eklaan,29,,
-7766BD,Van Eklaan,4,,
-7766BP,Veenmos,10,,
-7766BR,Bolster,6,,
-7766BV,De Waide,15,,
-7766BV,De Waide,15,,
-7766BV,De Waide,11,,
-7766BV,De Waide,11,,
-7766BV,De Waide,11,,
-7766BW,De Waide,30,,
-7766BW,De Waide,30,,
-7766BW,De Waide,40,,
-7766BW,De Waide,40,,
-7766BW,De Waide,40,,
-7766BW,De Waide,24,,
-7766BW,De Waide,24,,
-7766BW,De Waide,36,,
-7766BW,De Waide,36,,
-7766BW,De Waide,26,,
-7766BW,De Waide,26,,
-7766AE,Europaweg,141,,TOR
-7766AE,Europaweg,141,,
-7766AM,Europaweg,88,,
-7766AM,Europaweg,88,,
-7766AP,Europaweg,122,,
-7766AP,Europaweg,122,,
-7766AP,Europaweg,148,A,
-7766AP,Europaweg,136,,
-7766AP,Europaweg,134,,
-7766AP,Europaweg,136,,
-7766AP,Europaweg,136,,
-7766AP,Europaweg,136,,
-7766BS,Krag,7,,
-7766AE,Europaweg,189,A,
-7766AP,Europaweg,136,,
-7766AP,Europaweg,136,,
-7766AP,Europaweg,136,,
-7766AE,Oosterveldsestraat,124,,
-7766AE,Oosterveldsestraat,124,,
-7766AE,Oosterveldsestraat,124,,
-7766BH,Boschhof,1,,TR
-7766BH,Boschhof,1,,TR
-7766BV,De Waide,3,,
-7766BV,De Waide,3,,
-7766BV,De Waide,27,,
-7766BV,De Waide,27,,
-7766BV,De Waide,19,,
-7766BV,De Waide,19,,
-7766BV,De Waide,21,,
-7766BV,De Waide,21,,
-7766BV,De Waide,23,,
-7766BV,De Waide,23,,
-7766BV,De Waide,17,,
-7766BV,De Waide,17,,
-7766BV,De Waide,25,,
-7766BV,De Waide,12,,
-7766BV,De Waide,14,,
-7766BW,De Waide,32,,
-7766BW,De Waide,34,,
-7766BW,De Waide,12,,
-7766BW,De Waide,14,,
-7766BW,De Waide,16,,
-7766BW,De Waide,18,,
-7766BW,De Waide,44,,
-7766BW,De Waide,2,,
-7766BW,De Waide,22,,
-7766BW,De Waide,42,,
-7766BW,De Waide,42,,
-7766BW,De Waide,42,,
-7766BW,De Waide,8,,
-7766BW,De Waide,10,,
-7766BW,De Waide,22,,
-7766BN,Dobbe,19,,
-7766BN,Dobbe,19,,TR
-7766BN,Dobbe,19,,TR
-7766AD,Europaweg,139,A,
-7766AD,Europaweg,139,A,
-7766AD,Europaweg,139,B,
-7766AD,Europaweg,139,B,
-7766AD,Europaweg,139,C,
-7766AD,Europaweg,139,C,
-7766AD,Europaweg,139,D,
-7766AD,Europaweg,139,D,
-7766AD,Europaweg,139,E,
-7766AD,Europaweg,139,E,
-7766AD,Europaweg,139,F,
-7766AD,Europaweg,139,F,
-7766AD,Europaweg,139,G,
-7766AD,Europaweg,139,G,
-7766AD,Europaweg,139,H,
-7766AD,Europaweg,139,H,
-7766AD,Europaweg,139,J,
-7766AD,Europaweg,139,J,
-7766AD,Europaweg,139,K,
-7766AD,Europaweg,139,K,
-7766AD,Europaweg,139,L,
-7766AD,Europaweg,139,L,
-7766AD,Europaweg,121,,
-7766AD,Europaweg,121,,
-7766AE,Europaweg,163,A,
-7766AE,Europaweg,163,A,
-7766AE,Europaweg,143,A,
-7766AE,Europaweg,163,,
-7766AP,Europaweg,134,,
-7766AP,Europaweg,134,,
-7766AP,Europaweg,134,,
-7766AP,Europaweg,146,A,
-7766AP,Europaweg,132,A,
-7766AP,Europaweg,132,B,
-7766AP,Europaweg,132,C,
-7766AP,Europaweg,132,D,
-7766AP,Europaweg,132,E,
-7766AP,Europaweg,132,F,
-7766AP,Europaweg,132,G,
-7766AP,Europaweg,132,H,
-7766AP,Europaweg,132,J,
-7766AP,Europaweg,132,K,
-7766AP,Europaweg,132,L,
-7766AP,Europaweg,132,M,
-7766AP,Europaweg,132,N,
-7766AP,Europaweg,132,P,
-7766AP,Europaweg,132,R,
-7766AP,Europaweg,132,S,
-7766AP,Europaweg,132,T,
-7766AR,Europaweg,192,,
-7766AR,Europaweg,192,,
-7766AR,Europaweg,190,A,
-7766AR,Europaweg,190,A,
-7766BE,Huurdemanlaan,12,,
-7766BE,Huurdemanlaan,6,,
-7766BE,Huurdemanlaan,6,,
-7766BE,Huurdemanlaan,6,,
-7766BE,Huurdemanlaan,6,,
-7766BE,Huurdemanlaan,6,,
-7766BE,Huurdemanlaan,8,,
-7766BE,Huurdemanlaan,8,,
-7766BE,Huurdemanlaan,8,,
-7766BE,Huurdemanlaan,8,,
-7766BE,Huurdemanlaan,2,,
-7766BE,Huurdemanlaan,4,,
-7766BE,Huurdemanlaan,4,,
-7766BS,Krag,8,,
-7766BS,Krag,8,,
-7766BS,Krag,8,,
-7766BA,Molenaarslaan,1,,GV
-7766BA,Molenaarslaan,1,,GV
-7766BC,Van Eklaan,9,,
-7766BC,Van Eklaan,9,,
-7766BC,Van Eklaan,9,,
-7766BC,Van Eklaan,9,,
-7766BC,Van Eklaan,9,,
-7766BC,Van Eklaan,11,,
-7766BC,Van Eklaan,13,,
-7766BC,Van Eklaan,15,,
-7766BD,Van Eklaan,4,,
-7766BD,Van Eklaan,6,,
-7766BD,Van Eklaan,8,,
-7766BG,Ir. Biewengaweg,42,,50
-7766AP,Europaweg,122,A,
-7766AP,Europaweg,122,B,
-7766AP,Europaweg,122,C,
-7766AP,Europaweg,122,D,
-7766AR,Europaweg,192,,
-7766BV,De Waide,1,,
-7766BV,De Waide,29,,
-7766BV,De Waide,13,,
-7766BW,De Waide,1,,
-7766BW,De Waide,1,,
-7766BW,De Waide,1,,
-7766BW,De Waide,38,,
-7766BW,De Waide,4,,
-7766BW,De Waide,6,,
-7766BW,De Waide,6,,
-7766AE,Europaweg,148,A,
-7766AE,Europaweg,148,B,
-7766AE,Europaweg,148,C,
-7766AE,Europaweg,148,D,
-7766AM,Europaweg,90,,
-7766AP,Europaweg,148,A,
-7766AP,Europaweg,148,B,
-7766AP,Europaweg,148,C,
-7766AP,Europaweg,148,D,
-7766AR,Europaweg,198,,
-7766AR,Europaweg,186,A,
-7766AT,Kerkenweg,17,A,
-7766AT,Kerkenweg,17,A,
-7766AV,Kerkenweg,6,A,
-7766BC,Van Eklaan,31,,
-7766BC,Van Eklaan,31,,
-7766BC,Van Eklaan,33,,
-7766BC,Van Eklaan,33,,
-7766BC,Van Eklaan,29,,
-7766BC,Van Eklaan,31,,
-7766BC,Van Eklaan,33,,
-7766BC,Van Eklaan,35,,
-7766AE,Europaweg,148,A,
-7766AM,Europaweg,90,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Europaweg,111,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,113,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,115,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,117,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,117,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,117,B,"",7766AD,Nieuw-Schoonebeek
+Europaweg,119,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,121,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,121,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,121,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,121,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,123,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,125,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,127,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,129,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,131,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,131,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,131,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,131,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,133,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,135,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,135,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,137,"","",7766AD,Nieuw-Schoonebeek
+Europaweg,137,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,A,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,B,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,B,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,C,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,C,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,D,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,D,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,E,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,E,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,F,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,F,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,G,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,G,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,H,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,H,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,J,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,J,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,K,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,K,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,L,"",7766AD,Nieuw-Schoonebeek
+Europaweg,139,L,"",7766AD,Nieuw-Schoonebeek
+Oosterveldsestraat,124,"","",7766AE,Emmen
+Oosterveldsestraat,124,"","",7766AE,Emmen
+Oosterveldsestraat,124,"","",7766AE,Emmen
+Europaweg,141,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,141,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,141,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,141,"",TOR,7766AE,Nieuw-Schoonebeek
+Europaweg,143,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,143,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,143,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,145,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,147,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,148,A,"",7766AE,Schoonebeek
+Europaweg,148,A,"",7766AE,Schoonebeek
+Europaweg,148,B,"",7766AE,Nieuw-Schoonebeek
+Europaweg,148,C,"",7766AE,Nieuw-Schoonebeek
+Europaweg,148,D,"",7766AE,Nieuw-Schoonebeek
+Europaweg,149,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,151,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,151,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,151,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,151,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,153,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,155,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,155,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,157,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,157,"",TR,7766AE,Nieuw-Schoonebeek
+Europaweg,157,"",TRFO,7766AE,Nieuw-Schoonebeek
+Europaweg,159,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,161,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,163,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,163,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,163,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,163,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,163,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,163,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,163,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,165,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,167,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,169,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,169,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,171,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,171,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,173,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,173,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,175,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,177,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,179,"","",7766AE,Nieuw-Schoonebeek
+Europaweg,179,A,"",7766AE,Nieuw-Schoonebeek
+Europaweg,189,A,"",7766AE,Schoonebeek
+Europaweg,100,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,102,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,104,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,106,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,108,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,110,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,112,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,114,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,116,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,78,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,82,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,84,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,86,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,88,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,88,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,88,A,"",7766AM,Nieuw-Schoonebeek
+Europaweg,88,B,"",7766AM,Nieuw-Schoonebeek
+Europaweg,90,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,90,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,90,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,90,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,90,"",SCH,7766AM,Nieuw-Schoonebeek
+Europaweg,90,"",SCH,7766AM,Nieuw-Schoonebeek
+Europaweg,90,A,"",7766AM,Nieuw-Schoonebeek
+Europaweg,90,A,"",7766AM,Nieuw-Schoonebeek
+Europaweg,92,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,94,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,94,"",TR,7766AM,Nieuw-Schoonebeek
+Europaweg,94,"",TRFO,7766AM,Nieuw-Schoonebeek
+Europaweg,96,"","",7766AM,Nieuw-Schoonebeek
+Europaweg,98,"","",7766AM,Nieuw-Schoonebeek
+Aalminksweg,4,"","",7766AN,Nieuw-Schoonebeek
+Europaweg,118,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,120,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,122,"","",7766AP,Schoonebeek
+Europaweg,122,"","",7766AP,Schoonebeek
+Europaweg,122,"","",7766AP,Schoonebeek
+Europaweg,122,"","",7766AP,Schoonebeek
+Europaweg,122,A,"",7766AP,Schoonebeek
+Europaweg,122,B,"",7766AP,Schoonebeek
+Europaweg,122,C,"",7766AP,Schoonebeek
+Europaweg,122,D,"",7766AP,Schoonebeek
+Europaweg,124,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,126,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,128,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,130,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,130,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,132,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,132,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,B,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,C,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,D,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,E,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,F,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,G,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,H,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,J,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,K,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,L,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,M,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,N,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,P,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,R,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,S,"",7766AP,Nieuw-Schoonebeek
+Europaweg,132,T,"",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,134,"",TR,7766AP,Nieuw-Schoonebeek
+Europaweg,134,"",TRFO,7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,136,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,140,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,142,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,144,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,146,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,146,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,148,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,148,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,148,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,148,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,148,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,148,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,148,B,"",7766AP,Nieuw-Schoonebeek
+Europaweg,148,C,"",7766AP,Nieuw-Schoonebeek
+Europaweg,148,D,"",7766AP,Nieuw-Schoonebeek
+Europaweg,150,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,150,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,152,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,154,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,156,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,158,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,160,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,164,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,164,"",TR,7766AP,Nieuw-Schoonebeek
+Europaweg,164,"",TRFO,7766AP,Nieuw-Schoonebeek
+Europaweg,164,A,"",7766AP,Nieuw-Schoonebeek
+Europaweg,166,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,168,"","",7766AP,Nieuw-Schoonebeek
+Europaweg,170,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,172,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,174,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,176,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,178,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,180,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,180,A,"",7766AR,Nieuw-Schoonebeek
+Europaweg,182,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,184,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,186,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,186,A,"",7766AR,Nieuw-Schoonebeek
+Europaweg,190,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,190,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,190,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,190,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,190,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,190,A,"",7766AR,Nieuw-Schoonebeek
+Europaweg,190,A,"",7766AR,Nieuw-Schoonebeek
+Europaweg,192,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,192,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,192,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,192,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,192,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,194,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,196,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,196,A,"",7766AR,Nieuw-Schoonebeek
+Europaweg,198,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,198,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,198,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,214,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,214,A,"",7766AR,Nieuw-Schoonebeek
+Europaweg,216,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,218,"","",7766AR,Nieuw-Schoonebeek
+Europaweg,218,A,"",7766AR,Nieuw-Schoonebeek
+Kerkenweg,1,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,1,A,"",7766AT,Nieuw-Schoonebeek
+Kerkenweg,11,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,13,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,15,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,17,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,17,A,"",7766AT,Nieuw-Schoonebeek
+Kerkenweg,17,A,"",7766AT,Nieuw-Schoonebeek
+Kerkenweg,19,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,21,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,23,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,25,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,25,A,"",7766AT,Nieuw-Schoonebeek
+Kerkenweg,25,B,"",7766AT,Nieuw-Schoonebeek
+Kerkenweg,27,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,29,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,3,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,31,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,33,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,5,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,7,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,9,"","",7766AT,Nieuw-Schoonebeek
+Kerkenweg,10,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,14,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,16,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,18,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,22,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,22,"",TR,7766AV,Nieuw-Schoonebeek
+Kerkenweg,22,"",TRFO,7766AV,Nieuw-Schoonebeek
+Kerkenweg,24,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,26,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,28,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,30,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,32,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,34,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,6,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,6,A,"",7766AV,Nieuw-Schoonebeek
+Kerkenweg,8,"","",7766AV,Nieuw-Schoonebeek
+Kerkenweg,8,"","",7766AV,Nieuw-Schoonebeek
+Aalminksweg,3,"","",7766AZ,Nieuw-Schoonebeek
+Aalminksweg,5,"","",7766AZ,Nieuw-Schoonebeek
+Molenaarslaan,1,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,1,"",GV,7766BA,Nieuw-Schoonebeek
+Molenaarslaan,1,"",GV,7766BA,Nieuw-Schoonebeek
+Molenaarslaan,11,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,13,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,15,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,17,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,19,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,21,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,23,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,25,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,27,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,29,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,31,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,33,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,35,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,37,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,39,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,5,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,7,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,9,"","",7766BA,Nieuw-Schoonebeek
+Molenaarslaan,10,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,12,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,14,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,16,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,16,"",TR,7766BB,Nieuw-Schoonebeek
+Molenaarslaan,16,"",TRFO,7766BB,Nieuw-Schoonebeek
+Molenaarslaan,16,A,"",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,18,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,20,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,22,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,24,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,26,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,28,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,30,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,32,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,4,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,6,"","",7766BB,Nieuw-Schoonebeek
+Molenaarslaan,8,"","",7766BB,Nieuw-Schoonebeek
+Van Eklaan,1,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,11,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,11,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,11,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,13,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,13,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,13,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,15,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,15,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,15,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,17,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,17,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,19,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,19,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,21,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,23,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,25,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,27,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,29,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,29,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,29,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,3,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,31,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,31,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,31,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,31,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,31,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,33,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,33,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,33,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,33,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,33,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,35,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,35,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,35,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,37,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,5,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,7,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,9,"","",7766BC,Nieuw-Schoonebeek
+Van Eklaan,10,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,12,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,14,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,16,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,18,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,2,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,2,D,"",7766BD,Nieuw-Schoonebeek
+Van Eklaan,2,D,"",7766BD,Nieuw-Schoonebeek
+Van Eklaan,20,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,22,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,22,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,22,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,22,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,22,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,22,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,24,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,24,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,24,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,24,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,24,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,26,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,26,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,26,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,26,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,26,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,26,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,28,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,28,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,28,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,28,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,28,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,28,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,30,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,32,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,34,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,36,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,38,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,4,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,4,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,4,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,6,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,6,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,6,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,8,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,8,"","",7766BD,Nieuw-Schoonebeek
+Van Eklaan,8,"","",7766BD,Nieuw-Schoonebeek
+Huurdemanlaan,1,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,10,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,10,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,10,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,11,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,12,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,12,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,12,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,12,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,12,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,12,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,13,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,13,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,13,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,13,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,15,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,15,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,15,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,15,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,15,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,17,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,2,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,2,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,2,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,3,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,4,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,4,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,4,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,4,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,5,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,6,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,7,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,8,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,8,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,8,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,8,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,8,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,8,"","",7766BE,Nieuw-Schoonebeek
+Huurdemanlaan,9,"","",7766BE,Nieuw-Schoonebeek
+Carboonlaan,1,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,11,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,13,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,15,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,17,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,19,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,2,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,21,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,23,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,25,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,27,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,29,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,3,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,31,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,33,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,37,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,4,"","",7766BG,Nieuw-Schoonebeek
+Ir. Biewengaweg,42,"",50,7766BG,Weiteveen
+Carboonlaan,5,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,6,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,7,"","",7766BG,Nieuw-Schoonebeek
+Carboonlaan,9,"","",7766BG,Nieuw-Schoonebeek
+Boschhof,1,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,1,"",TR,7766BH,Nieuw-Schoonebeek
+Boschhof,1,"",TR,7766BH,Nieuw-Schoonebeek
+Boschhof,2,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,3,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,4,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,5,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,6,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,7,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,8,"","",7766BH,Nieuw-Schoonebeek
+Boschhof,9,"","",7766BH,Nieuw-Schoonebeek
+De Koele,10,"","",7766BJ,Nieuw-Schoonebeek
+De Koele,2,"","",7766BJ,Nieuw-Schoonebeek
+De Koele,4,"","",7766BJ,Nieuw-Schoonebeek
+De Koele,6,"","",7766BJ,Nieuw-Schoonebeek
+De Koele,8,"","",7766BJ,Nieuw-Schoonebeek
+De Smidse,10,"","",7766BK,Nieuw-Schoonebeek
+De Smidse,12,"","",7766BK,Nieuw-Schoonebeek
+De Smidse,14,"","",7766BK,Nieuw-Schoonebeek
+De Smidse,2,"","",7766BK,Nieuw-Schoonebeek
+De Smidse,4,"","",7766BK,Nieuw-Schoonebeek
+De Smidse,6,"","",7766BK,Nieuw-Schoonebeek
+De Smidse,8,"","",7766BK,Nieuw-Schoonebeek
+De Vierakkers,1,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,11,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,13,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,15,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,17,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,19,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,2,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,21,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,23,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,25,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,27,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,29,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,3,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,4,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,5,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,6,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,7,"","",7766BL,Nieuw-Schoonebeek
+De Vierakkers,9,"","",7766BL,Nieuw-Schoonebeek
+Darg,1,"","",7766BM,Nieuw-Schoonebeek
+Darg,10,"","",7766BM,Nieuw-Schoonebeek
+Darg,12,"","",7766BM,Nieuw-Schoonebeek
+Darg,13,"","",7766BM,Nieuw-Schoonebeek
+Darg,14,"","",7766BM,Nieuw-Schoonebeek
+Darg,15,"","",7766BM,Nieuw-Schoonebeek
+Darg,16,"","",7766BM,Nieuw-Schoonebeek
+Darg,17,"","",7766BM,Nieuw-Schoonebeek
+Darg,18,"","",7766BM,Nieuw-Schoonebeek
+Darg,19,"","",7766BM,Nieuw-Schoonebeek
+Darg,2,"","",7766BM,Nieuw-Schoonebeek
+Darg,20,"","",7766BM,Nieuw-Schoonebeek
+Darg,3,"","",7766BM,Nieuw-Schoonebeek
+Darg,4,"","",7766BM,Nieuw-Schoonebeek
+Darg,5,"","",7766BM,Nieuw-Schoonebeek
+Darg,6,"","",7766BM,Nieuw-Schoonebeek
+Darg,7,"","",7766BM,Nieuw-Schoonebeek
+Darg,8,"","",7766BM,Nieuw-Schoonebeek
+Darg,9,"","",7766BM,Nieuw-Schoonebeek
+Dobbe,1,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,10,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,11,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,12,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,13,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,14,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,15,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,16,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,17,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,19,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,19,"",TR,7766BN,Nieuw-Schoonebeek
+Dobbe,19,"",TR,7766BN,Nieuw-Schoonebeek
+Dobbe,2,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,4,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,6,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,8,"","",7766BN,Nieuw-Schoonebeek
+Dobbe,9,"","",7766BN,Nieuw-Schoonebeek
+Veenmos,1,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,10,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,12,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,2,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,3,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,4,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,6,"","",7766BP,Nieuw-Schoonebeek
+Veenmos,8,"","",7766BP,Nieuw-Schoonebeek
+Bolster,1,"","",7766BR,Nieuw-Schoonebeek
+Bolster,2,"","",7766BR,Nieuw-Schoonebeek
+Bolster,3,"","",7766BR,Nieuw-Schoonebeek
+Bolster,4,"","",7766BR,Nieuw-Schoonebeek
+Bolster,5,"","",7766BR,Nieuw-Schoonebeek
+Bolster,6,"","",7766BR,Nieuw-Schoonebeek
+Bolster,8,"","",7766BR,Nieuw-Schoonebeek
+Krag,1,"","",7766BS,Nieuw-Schoonebeek
+Krag,2,"","",7766BS,Nieuw-Schoonebeek
+Krag,3,"","",7766BS,Nieuw-Schoonebeek
+Krag,4,"","",7766BS,Nieuw-Schoonebeek
+Krag,5,"","",7766BS,Nieuw-Schoonebeek
+Krag,6,"","",7766BS,Nieuw-Schoonebeek
+Krag,7,"","",7766BS,Nieuw-Schoonebeek
+Krag,8,"","",7766BS,Nieuw-Schoonebeek
+Krag,8,"","",7766BS,Nieuw-Schoonebeek
+Krag,8,"","",7766BS,Nieuw-Schoonebeek
+De Waide,1,"","",7766BV,Nieuw-Schoonebeek
+De Waide,11,"","",7766BV,Nieuw-Schoonebeek
+De Waide,11,"","",7766BV,Nieuw-Schoonebeek
+De Waide,11,"","",7766BV,Nieuw-Schoonebeek
+De Waide,12,"","",7766BV,Nieuw-Schoonebeek
+De Waide,13,"","",7766BV,Nieuw-Schoonebeek
+De Waide,14,"","",7766BV,Nieuw-Schoonebeek
+De Waide,15,"","",7766BV,Nieuw-Schoonebeek
+De Waide,15,"","",7766BV,Nieuw-Schoonebeek
+De Waide,17,"","",7766BV,Nieuw-Schoonebeek
+De Waide,17,"","",7766BV,Nieuw-Schoonebeek
+De Waide,19,"","",7766BV,Nieuw-Schoonebeek
+De Waide,19,"","",7766BV,Nieuw-Schoonebeek
+De Waide,21,"","",7766BV,Nieuw-Schoonebeek
+De Waide,21,"","",7766BV,Nieuw-Schoonebeek
+De Waide,23,"","",7766BV,Nieuw-Schoonebeek
+De Waide,23,"","",7766BV,Nieuw-Schoonebeek
+De Waide,25,"","",7766BV,Nieuw-Schoonebeek
+De Waide,27,"","",7766BV,Nieuw-Schoonebeek
+De Waide,27,"","",7766BV,Nieuw-Schoonebeek
+De Waide,29,"","",7766BV,Nieuw-Schoonebeek
+De Waide,3,"","",7766BV,Nieuw-Schoonebeek
+De Waide,3,"","",7766BV,Nieuw-Schoonebeek
+De Waide,1,"","",7766BW,Nieuw-Schoonebeek
+De Waide,1,"","",7766BW,Nieuw-Schoonebeek
+De Waide,1,"","",7766BW,Nieuw-Schoonebeek
+De Waide,10,"","",7766BW,Nieuw-Schoonebeek
+De Waide,12,"","",7766BW,Nieuw-Schoonebeek
+De Waide,14,"","",7766BW,Nieuw-Schoonebeek
+De Waide,16,"","",7766BW,Nieuw-Schoonebeek
+De Waide,18,"","",7766BW,Nieuw-Schoonebeek
+De Waide,2,"","",7766BW,Nieuw-Schoonebeek
+De Waide,22,"","",7766BW,Nieuw-Schoonebeek
+De Waide,22,"","",7766BW,Nieuw-Schoonebeek
+De Waide,22,"","",7766BW,Nieuw-Schoonebeek
+De Waide,24,"","",7766BW,Nieuw-Schoonebeek
+De Waide,24,"","",7766BW,Nieuw-Schoonebeek
+De Waide,26,"","",7766BW,Nieuw-Schoonebeek
+De Waide,26,"","",7766BW,Nieuw-Schoonebeek
+De Waide,30,"","",7766BW,Nieuw-Schoonebeek
+De Waide,30,"","",7766BW,Nieuw-Schoonebeek
+De Waide,32,"","",7766BW,Nieuw-Schoonebeek
+De Waide,34,"","",7766BW,Nieuw-Schoonebeek
+De Waide,36,"","",7766BW,Nieuw-Schoonebeek
+De Waide,36,"","",7766BW,Nieuw-Schoonebeek
+De Waide,38,"","",7766BW,Nieuw-Schoonebeek
+De Waide,4,"","",7766BW,Nieuw-Schoonebeek
+De Waide,40,"","",7766BW,Nieuw-Schoonebeek
+De Waide,40,"","",7766BW,Nieuw-Schoonebeek
+De Waide,40,"","",7766BW,Nieuw-Schoonebeek
+De Waide,42,"","",7766BW,Nieuw-Schoonebeek
+De Waide,42,"","",7766BW,Nieuw-Schoonebeek
+De Waide,42,"","",7766BW,Nieuw-Schoonebeek
+De Waide,44,"","",7766BW,Nieuw-Schoonebeek
+De Waide,6,"","",7766BW,Nieuw-Schoonebeek
+De Waide,6,"","",7766BW,Nieuw-Schoonebeek
+De Waide,8,"","",7766BW,Nieuw-Schoonebeek

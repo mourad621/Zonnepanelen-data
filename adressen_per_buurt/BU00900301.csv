@@ -1,1280 +1,622 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9203RN",50,"",""
-"9203RN",40,"",""
-"9203RN",38,"",""
-"9203RN",42,"",""
-"9203RN",32,"",""
-"9203RN",46,"",""
-"9203RN",34,"",""
-"9203RN",28,"",""
-"9203RN",26,"",""
-"9203RN",48,"",""
-"9203RN",30,"",""
-"9203RN",44,"",""
-"9203RN",36,"",""
-"9203RP",86,"",""
-"9203RP",74,"",""
-"9203RP",84,"",""
-"9203RP",88,"",""
-"9203RP",58,"",""
-"9203RP",68,"",""
-"9203RP",70,"",""
-"9203RP",56,"",""
-"9203RP",82,"a",""
-"9203RP",76,"",""
-"9203RP",60,"",""
-"9203RP",80,"",""
-"9203RP",72,"",""
-"9203RP",78,"",""
-"9203RP",82,"",""
-"9203RP",66,"",""
-"9203RP",64,"",""
-"9203RR",102,"",""
-"9203RR",104,"",""
-"9203RR",96,"",""
-"9203RR",100,"",""
-"9203RR",90,"",""
-"9203RR",92,"",""
-"9203RR",98,"",""
-"9203RR",94,"",""
-"9203RS",112,"",""
-"9203RS",106,"",""
-"9203RS",118,"",""
-"9203RS",116,"",""
-"9203RS",114,"",""
-"9203RS",108,"",""
-"9203RS",120,"",""
-"9203RS",110,"",""
-"9203RZ",61,"",""
-"9203RZ",59,"",""
-"9203RZ",73,"",""
-"9203RZ",69,"",""
-"9203RZ",71,"",""
-"9203RZ",65,"",""
-"9203RZ",57,"",""
-"9203RZ",67,"",""
-"9203RZ",55,"",""
-"9203RZ",53,"",""
-"9203RZ",63,"",""
-"9203SH",42,"",""
-"9203SH",56,"",""
-"9203SH",50,"",""
-"9203SH",36,"",""
-"9203SH",58,"",""
-"9203SH",46,"",""
-"9203SH",48,"",""
-"9203SH",44,"",""
-"9203SH",40,"",""
-"9203SH",60,"",""
-"9203SH",54,"",""
-"9203SH",52,"",""
-"9203SH",38,"",""
-"9203SK",10,"",""
-"9203SK",4,"",""
-"9203SK",6,"",""
-"9203SK",16,"",""
-"9203SK",9,"",""
-"9203SK",11,"",""
-"9203SK",14,"",""
-"9203SK",18,"",""
-"9203SK",8,"",""
-"9203SK",12,"",""
-"9203SL",13,"",""
-"9203SL",13,"a",""
-"9203SL",29,"",""
-"9203SL",26,"",""
-"9203SL",17,"",""
-"9203SL",27,"",""
-"9203SL",28,"",""
-"9203SL",22,"",""
-"9203SL",15,"",""
-"9203SL",24,"",""
-"9203SL",20,"",""
-"9203SM",42,"","15"
-"9203SM",42,"","19"
-"9203SM",42,"","16"
-"9203SM",42,"","4"
-"9203SM",42,"","7"
-"9203SM",42,"","13"
-"9203SM",42,"","21"
-"9203SM",42,"","12"
-"9203SM",39,"",""
-"9203SM",40,"",""
-"9203SM",34,"",""
-"9203SM",42,"","31"
-"9203SM",42,"","11"
-"9203SM",42,"","22"
-"9203SM",42,"","17"
-"9203SM",42,"","10"
-"9203SM",42,"","20"
-"9203SM",42,"","14"
-"9203SM",38,"",""
-"9203SM",42,"","18"
-"9203SM",42,"","29"
-"9203SM",46,"",""
-"9203SM",42,"","1"
-"9203SM",33,"",""
-"9203SM",32,"",""
-"9203SM",42,"","3"
-"9203SM",42,"",""
-"9203SM",42,"","5"
-"9203SM",42,"","23"
-"9203SM",35,"",""
-"9203SM",42,"","9"
-"9203SM",36,"",""
-"9203SM",42,"","28"
-"9203SM",30,"",""
-"9203SM",42,"","30"
-"9203SM",42,"","8"
-"9203SM",42,"","27"
-"9203SM",42,"","6"
-"9203SM",42,"","26"
-"9203SM",31,"",""
-"9203SM",42,"","24"
-"9203SM",42,"","25"
-"9203SM",42,"","2"
-"9203SM",42,"","32"
-"9203SN",9,"",""
-"9203SN",7,"",""
-"9203SN",11,"",""
-"9203SN",8,"",""
-"9203SN",1,"",""
-"9203SN",6,"",""
-"9203SN",10,"",""
-"9203SN",12,"",""
-"9203SN",2,"",""
-"9203SN",5,"",""
-"9203SN",13,"",""
-"9203SN",15,"",""
-"9203SN",3,"",""
-"9203SN",4,"",""
-"9203SP",19,"",""
-"9203SP",29,"",""
-"9203SP",13,"",""
-"9203SP",15,"",""
-"9203SP",27,"",""
-"9203SP",25,"",""
-"9203SP",37,"",""
-"9203SP",1,"",""
-"9203SP",19,"a",""
-"9203SP",31,"",""
-"9203SP",23,"",""
-"9203SP",35,"",""
-"9203SP",21,"",""
-"9203SP",33,"",""
-"9203SP",17,"",""
-"9203SR",30,"",""
-"9203SR",36,"",""
-"9203SR",28,"",""
-"9203SR",26,"",""
-"9203SR",38,"",""
-"9203SR",8,"a",""
-"9203SR",6,"",""
-"9203SR",12,"",""
-"9203SR",6,"a",""
-"9203SR",10,"",""
-"9203SR",18,"",""
-"9203SR",20,"",""
-"9203SR",8,"",""
-"9203SR",32,"",""
-"9203SR",16,"",""
-"9203SR",40,"",""
-"9203SR",22,"",""
-"9203SR",14,"",""
-"9203SR",42,"",""
-"9203SR",4,"",""
-"9203SR",24,"",""
-"9203SR",2,"",""
-"9203SR",34,"",""
-"9203ST",5,"",""
-"9203ST",11,"",""
-"9203ST",5,"a",""
-"9203ST",35,"",""
-"9203ST",37,"",""
-"9203ST",5,"",""
-"9203ST",7,"",""
-"9203ST",33,"",""
-"9203ST",5,"a",""
-"9203ST",5,"",""
-"9203ST",23,"",""
-"9203ST",29,"",""
-"9203ST",27,"",""
-"9203ST",21,"",""
-"9203ST",1,"",""
-"9203ST",25,"",""
-"9203ST",31,"",""
-"9203ST",9,"",""
-"9203ST",5,"",""
-"9203ST",15,"",""
-"9203ST",13,"",""
-"9203ST",19,"",""
-"9203ST",39,"",""
-"9203ST",17,"",""
-"9203VA",86,"",""
-"9203VA",52,"",""
-"9203VA",68,"",""
-"9203VA",80,"",""
-"9203VA",74,"",""
-"9203VA",170,"",""
-"9203VA",50,"",""
-"9203VA",46,"",""
-"9203VA",90,"",""
-"9203VA",78,"",""
-"9203VA",166,"",""
-"9203VA",96,"",""
-"9203VA",48,"",""
-"9203VA",4,"",""
-"9203VA",92,"",""
-"9203VA",58,"",""
-"9203VA",60,"",""
-"9203VA",88,"",""
-"9203VA",72,"",""
-"9203VA",2,"",""
-"9203VA",10,"",""
-"9203VA",62,"",""
-"9203VA",42,"",""
-"9203VA",70,"",""
-"9203VA",6,"",""
-"9203VA",44,"",""
-"9203VA",168,"",""
-"9203VA",32,"",""
-"9203VA",28,"",""
-"9203VA",76,"",""
-"9203VA",34,"",""
-"9203VA",82,"",""
-"9203VA",66,"",""
-"9203VA",84,"",""
-"9203VA",160,"",""
-"9203VA",152,"",""
-"9203VA",16,"",""
-"9203VA",142,"",""
-"9203VA",8,"",""
-"9203VA",134,"",""
-"9203VA",136,"",""
-"9203VA",130,"",""
-"9203VA",24,"",""
-"9203VA",94,"",""
-"9203VA",150,"",""
-"9203VA",64,"",""
-"9203VA",158,"",""
-"9203VA",156,"",""
-"9203VA",154,"",""
-"9203VA",100,"",""
-"9203VA",102,"",""
-"9203VA",132,"",""
-"9203VA",128,"",""
-"9203VA",126,"",""
-"9203VA",120,"",""
-"9203VA",114,"",""
-"9203VA",98,"",""
-"9203VA",138,"",""
-"9203VA",38,"",""
-"9203VA",164,"",""
-"9203VA",148,"",""
-"9203VA",36,"",""
-"9203VA",124,"",""
-"9203VA",18,"",""
-"9203VA",112,"",""
-"9203VA",122,"",""
-"9203VA",14,"",""
-"9203VA",26,"",""
-"9203VA",162,"",""
-"9203VA",108,"",""
-"9203VA",110,"",""
-"9203VA",118,"",""
-"9203VA",116,"",""
-"9203VA",30,"",""
-"9203VA",12,"",""
-"9203VA",104,"",""
-"9203VA",20,"",""
-"9203VA",106,"",""
-"9203VA",22,"",""
-"9203VA",40,"",""
-"9203VA",140,"",""
-"9203VB",67,"",""
-"9203VB",59,"",""
-"9203VB",1,"",""
-"9203VB",65,"",""
-"9203VB",57,"",""
-"9203VB",151,"",""
-"9203VB",23,"",""
-"9203VB",9,"",""
-"9203VB",153,"",""
-"9203VB",35,"",""
-"9203VB",69,"",""
-"9203VB",3,"",""
-"9203VB",155,"",""
-"9203VB",71,"",""
-"9203VB",45,"",""
-"9203VB",201,"",""
-"9203VB",21,"",""
-"9203VB",61,"",""
-"9203VB",7,"",""
-"9203VB",5,"a",""
-"9203VB",147,"",""
-"9203VB",141,"",""
-"9203VB",49,"",""
-"9203VB",15,"",""
-"9203VB",63,"",""
-"9203VB",41,"",""
-"9203VB",33,"",""
-"9203VB",73,"",""
-"9203VB",83,"",""
-"9203VB",207,"",""
-"9203VB",75,"",""
-"9203VB",5,"",""
-"9203VB",149,"",""
-"9203VB",145,"",""
-"9203VB",55,"",""
-"9203VB",139,"",""
-"9203VB",51,"",""
-"9203VB",137,"",""
-"9203VB",205,"",""
-"9203VB",199,"",""
-"9203VB",43,"",""
-"9203VB",183,"",""
-"9203VB",85,"",""
-"9203VB",37,"",""
-"9203VB",17,"",""
-"9203VB",13,"",""
-"9203VB",11,"",""
-"9203VB",53,"",""
-"9203VB",165,"",""
-"9203VB",119,"",""
-"9203VB",161,"",""
-"9203VB",167,"",""
-"9203VB",193,"",""
-"9203VB",197,"",""
-"9203VB",185,"",""
-"9203VB",191,"",""
-"9203VB",81,"",""
-"9203VB",157,"",""
-"9203VB",77,"",""
-"9203VB",127,"",""
-"9203VB",79,"",""
-"9203VB",135,"",""
-"9203VB",129,"",""
-"9203VB",143,"",""
-"9203VB",175,"",""
-"9203VB",111,"",""
-"9203VB",203,"",""
-"9203VB",101,"",""
-"9203VB",131,"",""
-"9203VB",179,"",""
-"9203VB",177,"",""
-"9203VB",113,"",""
-"9203VB",89,"",""
-"9203VB",47,"",""
-"9203VB",159,"",""
-"9203VB",87,"",""
-"9203VB",107,"",""
-"9203VB",95,"",""
-"9203VB",187,"",""
-"9203VB",189,"",""
-"9203VB",31,"",""
-"9203VB",115,"",""
-"9203VB",117,"",""
-"9203VB",163,"",""
-"9203VB",29,"",""
-"9203VB",109,"",""
-"9203VB",105,"",""
-"9203VB",133,"",""
-"9203VB",195,"",""
-"9203VB",103,"",""
-"9203VB",181,"",""
-"9203VB",169,"",""
-"9203VB",39,"",""
-"9203VB",173,"",""
-"9203VB",99,"",""
-"9203VB",27,"",""
-"9203VB",91,"",""
-"9203VB",19,"",""
-"9203VB",25,"",""
-"9203VB",171,"",""
-"9203VB",93,"",""
-"9203VB",97,"",""
-"9203VC",21,"",""
-"9203VC",37,"",""
-"9203VC",27,"",""
-"9203VC",25,"",""
-"9203VC",29,"",""
-"9203VC",19,"",""
-"9203VC",35,"",""
-"9203VC",31,"",""
-"9203VC",33,"",""
-"9203VC",9,"",""
-"9203VC",15,"",""
-"9203VC",39,"",""
-"9203VC",23,"",""
-"9203VC",13,"",""
-"9203VC",7,"",""
-"9203VC",3,"",""
-"9203VC",1,"",""
-"9203VC",11,"",""
-"9203VC",5,"",""
-"9203VC",17,"",""
-"9203VC",12,"",""
-"9203VD",2,"",""
-"9203VD",42,"",""
-"9203VD",16,"",""
-"9203VD",30,"",""
-"9203VD",8,"",""
-"9203VD",6,"",""
-"9203VD",44,"",""
-"9203VD",40,"",""
-"9203VD",26,"",""
-"9203VD",4,"",""
-"9203VD",14,"",""
-"9203VD",46,"",""
-"9203VD",20,"",""
-"9203VD",28,"",""
-"9203VD",34,"",""
-"9203VD",12,"",""
-"9203VD",32,"",""
-"9203VD",10,"",""
-"9203VD",36,"",""
-"9203VD",18,"",""
-"9203VD",38,"",""
-"9203VE",15,"",""
-"9203VE",1,"",""
-"9203VE",23,"",""
-"9203VE",19,"",""
-"9203VE",7,"",""
-"9203VE",17,"",""
-"9203VE",21,"",""
-"9203VE",3,"",""
-"9203VE",9,"",""
-"9203VE",5,"",""
-"9203VE",11,"",""
-"9203VE",25,"","31"
-"9203VE",13,"",""
-"9203ZW",23,"",""
-"9203ZW",15,"",""
-"9203ZW",33,"",""
-"9203ZW",27,"",""
-"9203ZW",65,"a",""
-"9203ZW",29,"",""
-"9203ZW",27,"a",""
-"9203ZW",13,"",""
-"9203ZW",31,"",""
-"9203ZW",5,"b",""
-"9203ZW",15,"a",""
-"9203ZW",11,"",""
-"9203ZW",9,"",""
-"9203ZW",67,"",""
-"9203ZW",21,"",""
-"9203ZW",85,"a",""
-"9203ZW",69,"",""
-"9203ZW",25,"",""
-"9203ZW",77,"",""
-"9203ZW",13,"a",""
-"9203ZW",37,"",""
-"9203ZW",87,"",""
-"9203ZW",63,"",""
-"9203ZW",65,"",""
-"9203ZW",67,"a",""
-"9203ZW",69,"a",""
-"9203ZW",39,"",""
-"9203ZW",73,"",""
-"9203ZW",71,"b",""
-"9203ZW",85,"",""
-"9203ZW",5,"a",""
-"9203ZW",63,"",""
-"9203ZW",71,"a",""
-"9203ZW",7,"",""
-"9203ZW",63,"",""
-"9203ZW",71,"",""
-"9203ZW",63,"b",""
-"9203ZW",63,"a",""
-"9203ZW",59,"",""
-"9203ZW",71,"a",""
-"9203ZW",5,"",""
-"9203ZW",35,"",""
-"9203ZW",81,"",""
-"9203ZW",61,"",""
-"9203ZW",43,"",""
-"9203ZW",79,"",""
-"9203ZW",5,"",""
-"9203ZW",69,"b",""
-"9203ZW",45,"",""
-"9203ZW",63,"",""
-"9203ZW",3,"",""
-"9203ZW",41,"",""
-"9203ZW",5,"",""
-"9203ZW",49,"",""
-"9203ZW",47,"",""
-"9203ZX",95,"","5"
-"9203ZX",95,"","10"
-"9203ZX",95,"","15"
-"9203ZX",95,"","4"
-"9203ZX",95,"","11"
-"9203ZX",95,"","12"
-"9203ZX",95,"","4"
-"9203ZX",95,"","16"
-"9203ZX",95,"","11"
-"9203ZX",95,"","3"
-"9203ZX",111,"",""
-"9203ZX",95,"","16"
-"9203ZX",147,"",""
-"9203ZX",95,"","15"
-"9203ZX",151,"a",""
-"9203ZX",95,"","10"
-"9203ZX",95,"","3"
-"9203ZX",95,"","3"
-"9203ZX",95,"","16"
-"9203ZX",95,"",""
-"9203ZX",95,"","4"
-"9203ZX",95,"","19"
-"9203ZX",129,"",""
-"9203ZX",151,"",""
-"9203ZX",95,"","8"
-"9203ZX",95,"","5"
-"9203ZX",95,"","13"
-"9203ZX",95,"","13"
-"9203ZX",95,"","1"
-"9203ZX",95,"","10"
-"9203ZX",131,"",""
-"9203ZX",95,"","1"
-"9203ZX",95,"","2"
-"9203ZX",103,"",""
-"9203ZX",95,"","6"
-"9203ZX",133,"",""
-"9203ZX",95,"","15"
-"9203ZX",141,"",""
-"9203ZX",157,"",""
-"9203ZX",95,"","8"
-"9203ZX",95,"","13"
-"9203ZX",135,"",""
-"9203ZX",95,"","1"
-"9203ZX",95,"",""
-"9203ZX",125,"",""
-"9203ZX",95,"","18"
-"9203ZX",101,"",""
-"9203ZX",107,"",""
-"9203ZX",105,"",""
-"9203ZX",99,"",""
-"9203ZX",95,"","6"
-"9203ZX",155,"",""
-"9203ZX",95,"","2"
-"9203ZX",149,"",""
-"9203ZX",137,"",""
-"9203ZX",127,"",""
-"9203ZX",95,"","7"
-"9203ZX",109,"",""
-"9203ZX",95,"",""
-"9203ZX",95,"","2"
-"9203ZX",95,"","14"
-"9203ZX",95,"","17"
-"9203ZX",159,"",""
-"9203ZX",143,"",""
-"9203ZX",95,"","9"
-"9203ZX",95,"","12"
-"9203ZX",95,"","11"
-"9203ZX",95,"","5"
-"9203ZX",95,"","12"
-"9203ZX",95,"","17"
-"9203ZX",95,"","6"
-"9203ZX",95,"","17"
-"9203ZX",153,"",""
-"9203ZX",95,"","18"
-"9203ZX",95,"","19"
-"9203ZX",95,"","7"
-"9203ZX",95,"","9"
-"9203ZX",139,"",""
-"9203ZX",95,"",""
-"9203ZX",95,"",""
-"9203ZX",95,"","14"
-"9203ZX",95,"","9"
-"9203ZX",145,"",""
-"9203ZX",95,"","7"
-"9203ZX",95,"","19"
-"9203ZX",95,"","14"
-"9203ZX",97,"",""
-"9203ZX",95,"","18"
-"9203ZX",95,"","8"
-"9203ZZ",171,"",""
-"9203ZZ",185,"",""
-"9203ZZ",179,"",""
-"9203ZZ",165,"",""
-"9203ZZ",173,"",""
-"9203ZZ",189,"c",""
-"9203ZZ",175,"",""
-"9203ZZ",161,"",""
-"9203ZZ",177,"",""
-"9203ZZ",177,"a",""
-"9203ZZ",181,"",""
-"9203ZZ",193,"",""
-"9203ZZ",163,"",""
-"9203ZZ",191,"",""
-"9203ZZ",197,"",""
-"9203ZZ",189,"b",""
-"9203ZZ",189,"b",""
-"9203ZZ",189,"a",""
-"9203ZZ",183,"",""
-"9203ZZ",189,"d",""
-"9203ZZ",189,"",""
-"9203ZZ",189,"",""
-"9203ZZ",195,"",""
-"9203ZZ",189,"a",""
-"9203ZZ",189,"a",""
-"9203ZZ",189,"b",""
-"9203ZZ",189,"",""
-"9203ZZ",187,"",""
-9203VD,Houtzaagmolen,8,,
-9203VD,Houtzaagmolen,10,,
-9203VD,Houtzaagmolen,38,,
-9203VD,Houtzaagmolen,46,,
-9203VD,Houtzaagmolen,42,,
-9203VD,Houtzaagmolen,18,,
-9203VD,Houtzaagmolen,36,,
-9203VD,Houtzaagmolen,28,,
-9203VD,Houtzaagmolen,6,,
-9203VE,Houtzaagmolen,25,,31
-9203SK,J.M. Houwenstraat,14,,
-9203SK,J.M.Houwenstraat,14,,
-9203SL,J.M. Houwenstraat,17,,
-9203SL,J.M.Houwenstraat,17,,
-9203SL,J.M. Houwenstraat,28,,
-9203SL,J.M.Houwenstraat,28,,
-9203SL,J.M. Houwenstraat,24,,
-9203SL,J.M.Houwenstraat,24,,
-9203SL,J.M. Houwenstraat,22,,
-9203SL,J.M.Houwenstraat,22,,
-9203SM,J.M. Houwenstraat,39,,
-9203SM,J.M.Houwenstraat,39,,
-9203SM,J.M. Houwenstraat,42,,
-9203SM,J.M.Houwenstraat,42,,
-9203SM,J.M. Houwenstraat,38,,
-9203SM,J.M.Houwenstraat,38,,
-9203ZW,Moleneind ZZ,3,,
-9203ZW,Moleneind ZZ,45,,
-9203ZW,Moleneind ZZ,15,,
-9203ZW,Moleneind ZZ,15,a,
-9203ZW,Moleneind ZZ,23,,
-9203ZW,Moleneind ZZ,61,,
-9203ZW,Moleneind ZZ,63,,
-9203ZW,Moleneind ZZ,69,a,
-9203ZW,Moleneind ZZ,77,,
-9203ZW,Moleneind ZZ,79,,
-9203ZW,Moleneind ZZ,31,,
-9203ZW,Moleneind ZZ,39,,
-9203ZW,Moleneind ZZ,13,a,
-9203ZW,Moleneind ZZ,65,a,
-9203ZW,Moleneind ZZ,67,a,
-9203ZX,Moleneind ZZ,157,,
-9203ZX,Moleneind ZZ,155,,
-9203ZX,Moleneind ZZ,129,,
-9203ZX,Moleneind ZZ,149,,
-9203ZZ,Moleneind ZZ,177,,
-9203ZZ,Moleneind ZZ,163,,
-9203SH,Pier Panderstraat,52,,
-9203SH,Pier Panderstraat,48,,
-9203SH,Pier Panderstraat,38,,
-9203SP,Tjalling Wagenaarstraat,29,,
-9203SP,Tjalling Wagenaarstraat,25,,
-9203SP,Tjalling Wagenaarstraat,13,,
-9203SP,Tjalling Wagenaarstraat,19,a,
-9203SP,Tjalling Wagenaarstraat,19,,
-9203SP,Tjalling Wagenaarstraat,33,,
-9203SR,Tjalling Wagenaarstraat,6,,
-9203SR,Tjalling Wagenaarstraat,40,,
-9203SR,Tjalling Wagenaarstraat,26,,
-9203SR,Tjalling Wagenaarstraat,6,a,
-9203SR,Tjalling Wagenaarstraat,38,,
-9203VC,Watermolen,11,,
-9203VC,Watermolen,12,,
-9203VC,Watermolen,35,,
-9203VC,Watermolen,17,,
-9203VC,Watermolen,31,,
-9203ST,Zuiderhogeweg,27,,
-9203ST,Zuiderhogeweg,1,,
-9203ST,Zuiderhogeweg,11,,
-9203ST,Zuiderhogeweg,17,,
-9203ST,Zuiderhogeweg,21,,
-9203SN,Eize Bosstraat,1,,
-9203SN,Eize Bosstraat,7,,
-9203SN,Eize Bosstraat,9,,
-9203SN,Eize Bosstraat,15,,
-9203RN,Gauke Boelensstraat,26,,
-9203RN,Gauke Boelensstraat,46,,
-9203RN,Gauke Boelensstraat,32,,
-9203RN,Gauke Boelensstraat,42,,
-9203RP,Gauke Boelensstraat,64,,
-9203RP,Gauke Boelensstraat,70,,
-9203RP,Gauke Boelensstraat,58,,
-9203RP,Gauke Boelensstraat,60,,
-9203RP,Gauke Boelensstraat,82,,
-9203RR,Gauke Boelensstraat,96,,
-9203RR,Gauke Boelensstraat,92,,
-9203RR,Gauke Boelensstraat,100,,
-9203RS,Gauke Boelensstraat,106,,
-9203RZ,Bruinsslotstraat,67,,
-9203RZ,Bruinsslotstraat,55,,
-9203VA,Korenmolen,102,,
-9203VA,Korenmolen,80,,
-9203VA,Korenmolen,60,,
-9203VA,Korenmolen,106,,
-9203VA,Korenmolen,62,,
-9203VA,Korenmolen,70,,
-9203VA,Korenmolen,118,,
-9203VA,Korenmolen,98,,
-9203VA,Korenmolen,52,,
-9203VA,Korenmolen,170,,
-9203VA,Korenmolen,138,,
-9203VA,Korenmolen,38,,
-9203VA,Korenmolen,92,,
-9203VA,Korenmolen,10,,
-9203VA,Korenmolen,164,,
-9203VA,Korenmolen,14,,
-9203VA,Korenmolen,20,,
-9203VB,Korenmolen,37,,
-9203VB,Korenmolen,75,,
-9203VB,Korenmolen,175,,
-9203VB,Korenmolen,5,,
-9203VB,Korenmolen,53,,
-9203VB,Korenmolen,73,,
-9203VB,Korenmolen,145,,
-9203VB,Korenmolen,143,,
-9203VB,Korenmolen,141,,
-9203VB,Korenmolen,179,,
-9203VB,Korenmolen,107,,
-9203VB,Korenmolen,187,,
-9203VB,Korenmolen,169,,
-9203VB,Korenmolen,165,,
-9203VB,Korenmolen,11,,
-9203VB,Korenmolen,65,,
-9203VB,Korenmolen,157,,
-9203VB,Korenmolen,155,,
-9203VB,Korenmolen,39,,
-9203VB,Korenmolen,95,,
-9203VB,Korenmolen,77,,
-9203VB,Korenmolen,103,,
-9203VB,Korenmolen,71,,
-9203VB,Korenmolen,81,,
-9203VB,Korenmolen,105,,
-9203VB,Korenmolen,137,,
-9203VB,Korenmolen,181,,
-9203VB,Korenmolen,69,,
-9203VB,Korenmolen,61,,
-9203VD,Houtzaagmolen,40,,
-9203VD,Houtzaagmolen,14,,
-9203VD,Houtzaagmolen,30,,
-9203VD,Houtzaagmolen,4,,
-9203VD,Houtzaagmolen,44,,
-9203VD,Houtzaagmolen,2,,
-9203VD,Houtzaagmolen,16,,
-9203VD,Houtzaagmolen,32,,
-9203VD,Houtzaagmolen,12,,
-9203VE,Houtzaagmolen,21,,
-9203VE,Houtzaagmolen,1,,
-9203VE,Houtzaagmolen,7,,
-9203VE,Houtzaagmolen,11,,
-9203VE,Houtzaagmolen,3,,
-9203VE,Houtzaagmolen,5,,
-9203SK,J.M. Houwenstraat,18,,
-9203SK,J.M.Houwenstraat,18,,
-9203SK,J.M. Houwenstraat,8,,
-9203SK,J.M.Houwenstraat,8,,
-9203SK,J.M. Houwenstraat,12,,
-9203SK,J.M.Houwenstraat,12,,
-9203SL,J.M. Houwenstraat,13,,
-9203SL,J.M.Houwenstraat,13,,
-9203SL,J.M. Houwenstraat,29,,
-9203SL,J.M.Houwenstraat,29,,
-9203SL,J.M. Houwenstraat,26,,
-9203SL,J.M.Houwenstraat,26,,
-9203SL,J.M. Houwenstraat,15,,
-9203SL,J.M.Houwenstraat,15,,
-9203SL,J.M. Houwenstraat,27,,
-9203SL,J.M.Houwenstraat,27,,
-9203SM,J.M. Houwenstraat,35,,
-9203SM,J.M.Houwenstraat,35,,
-9203SM,J.M. Houwenstraat,33,,
-9203SM,J.M.Houwenstraat,33,,
-9203SM,J.M. Houwenstraat,30,,
-9203SM,J.M.Houwenstraat,30,,
-9203SM,J.M. Houwenstraat,31,,
-9203SM,J.M.Houwenstraat,31,,
-9203SM,J.M. Houwenstraat,36,,
-9203SM,J.M.Houwenstraat,36,,
-9203ZW,Moleneind ZZ,35,,
-9203ZW,Moleneind ZZ,33,,
-9203ZW,Moleneind ZZ,27,a,
-9203ZW,Moleneind ZZ,65,,
-9203ZW,Moleneind ZZ,47,,
-9203ZW,Moleneind ZZ,69,,
-9203ZW,Moleneind ZZ,85,,
-9203ZW,Moleneind ZZ,21,,
-9203ZX,Moleneind ZZ,141,,
-9203ZX,Moleneind ZZ,135,,
-9203ZX,Moleneind ZZ,159,,
-9203ZX,Moleneind ZZ,131,,
-9203ZX,Moleneind ZZ,139,,
-9203ZX,Moleneind ZZ,151,,
-9203ZX,Moleneind ZZ,143,,
-9203ZX,Moleneind ZZ,145,,
-9203ZZ,Moleneind ZZ,161,,
-9203ZZ,Moleneind ZZ,173,,
-9203ZZ,Moleneind ZZ,181,,
-9203ZZ,Moleneind ZZ,165,,
-9203ZZ,Moleneind ZZ,195,,
-9203ZZ,Moleneind ZZ,193,,
-9203ZZ,Moleneind ZZ,187,,
-9203ZZ,Moleneind ZZ,183,,
-9203ZZ,Moleneind ZZ,177,a,
-9203SH,Pier Panderstraat,36,,
-9203SH,Pier Panderstraat,60,,
-9203SH,Pier Panderstraat,44,,
-9203SP,Tjalling Wagenaarstraat,31,,
-9203SP,Tjalling Wagenaarstraat,15,,
-9203SP,Tjalling Wagenaarstraat,27,,
-9203SP,Tjalling Wagenaarstraat,23,,
-9203SP,Tjalling Wagenaarstraat,21,,
-9203SP,Tjalling Wagenaarstraat,37,,
-9203SR,Tjalling Wagenaarstraat,8,,
-9203SR,Tjalling Wagenaarstraat,14,,
-9203SR,Tjalling Wagenaarstraat,12,,
-9203SR,Tjalling Wagenaarstraat,34,,
-9203SR,Tjalling Wagenaarstraat,30,,
-9203SR,Tjalling Wagenaarstraat,2,,
-9203SR,Tjalling Wagenaarstraat,22,,
-9203SR,Tjalling Wagenaarstraat,10,,
-9203SR,Tjalling Wagenaarstraat,20,,
-9203SR,Tjalling Wagenaarstraat,28,,
-9203VC,Watermolen,19,,
-9203VC,Watermolen,33,,
-9203VC,Watermolen,7,,
-9203VC,Watermolen,9,,
-9203VC,Watermolen,1,,
-9203VC,Watermolen,25,,
-9203VC,Watermolen,21,,
-9203VC,Watermolen,5,,
-9203VC,Watermolen,29,,
-9203VC,Watermolen,3,,
-9203ST,Zuiderhogeweg,35,,
-9203ST,Zuiderhogeweg,23,,
-9203ST,Zuiderhogeweg,13,,
-9203ST,Zuiderhogeweg,7,,
-9203ST,Zuiderhogeweg,5,,
-9203ST,Zuiderhogeweg,39,,
-9203ST,Zuiderhogeweg,29,,
-9203ST,Zuiderhogeweg,37,,
-9203SN,Eize Bosstraat,11,,
-9203SN,Eize Bosstraat,12,,
-9203SN,Eize Bosstraat,4,,
-9203SN,Eize Bosstraat,6,,
-9203SN,Eize Bosstraat,5,,
-9203SN,Eize Bosstraat,2,,
-9203RN,Gauke Boelensstraat,40,,
-9203RN,Gauke Boelensstraat,48,,
-9203RN,Gauke Boelensstraat,38,,
-9203RN,Gauke Boelensstraat,30,,
-9203RP,Gauke Boelensstraat,84,,
-9203RP,Gauke Boelensstraat,66,,
-9203RP,Gauke Boelensstraat,78,,
-9203RP,Gauke Boelensstraat,56,,
-9203RP,Gauke Boelensstraat,88,,
-9203RP,Gauke Boelensstraat,80,,
-9203RP,Gauke Boelensstraat,74,,
-9203RP,Gauke Boelensstraat,76,,
-9203RP,Gauke Boelensstraat,68,,
-9203RP,Gauke Boelensstraat,86,,
-9203RR,Gauke Boelensstraat,102,,
-9203RR,Gauke Boelensstraat,98,,
-9203RS,Gauke Boelensstraat,118,,
-9203RS,Gauke Boelensstraat,114,,
-9203RS,Gauke Boelensstraat,120,,
-9203RS,Gauke Boelensstraat,108,,
-9203RS,Gauke Boelensstraat,112,,
-9203RZ,Bruinsslotstraat,57,,
-9203RZ,Bruinsslotstraat,71,,
-9203RZ,Bruinsslotstraat,53,,
-9203RZ,Bruinsslotstraat,73,,
-9203VA,Korenmolen,162,,
-9203VA,Korenmolen,12,,
-9203VA,Korenmolen,150,,
-9203VA,Korenmolen,66,,
-9203VA,Korenmolen,82,,
-9203VA,Korenmolen,152,,
-9203VA,Korenmolen,148,,
-9203VA,Korenmolen,26,,
-9203VA,Korenmolen,126,,
-9203VA,Korenmolen,154,,
-9203VA,Korenmolen,104,,
-9203VA,Korenmolen,114,,
-9203VA,Korenmolen,90,,
-9203VA,Korenmolen,78,,
-9203VA,Korenmolen,134,,
-9203VA,Korenmolen,28,,
-9203VA,Korenmolen,46,,
-9203VA,Korenmolen,44,,
-9203VA,Korenmolen,84,,
-9203VA,Korenmolen,64,,
-9203VA,Korenmolen,160,,
-9203VA,Korenmolen,2,,
-9203VA,Korenmolen,32,,
-9203VA,Korenmolen,40,,
-9203VA,Korenmolen,8,,
-9203VA,Korenmolen,132,,
-9203VA,Korenmolen,110,,
-9203VA,Korenmolen,120,,
-9203VA,Korenmolen,100,,
-9203VA,Korenmolen,168,,
-9203VA,Korenmolen,58,,
-9203VA,Korenmolen,128,,
-9203VA,Korenmolen,108,,
-9203VB,Korenmolen,163,,
-9203VB,Korenmolen,113,,
-9203VB,Korenmolen,171,,
-9203VB,Korenmolen,51,,
-9203VB,Korenmolen,29,,
-9203VB,Korenmolen,193,,
-9203VB,Korenmolen,167,,
-9203VB,Korenmolen,23,,
-9203VB,Korenmolen,109,,
-9203VB,Korenmolen,17,,
-9203VB,Korenmolen,13,,
-9203VB,Korenmolen,151,,
-9203VB,Korenmolen,149,,
-9203VB,Korenmolen,131,,
-9203VB,Korenmolen,31,,
-9203VB,Korenmolen,45,,
-9203VB,Korenmolen,7,,
-9203VB,Korenmolen,43,,
-9203VB,Korenmolen,57,,
-9203VB,Korenmolen,127,,
-9203VB,Korenmolen,129,,
-9203VB,Korenmolen,89,,
-9203VB,Korenmolen,27,,
-9203VB,Korenmolen,35,,
-9203VB,Korenmolen,49,,
-9203VB,Korenmolen,153,,
-9203VB,Korenmolen,85,,
-9203VB,Korenmolen,3,,
-9203VB,Korenmolen,139,,
-9203VB,Korenmolen,195,,
-9203VB,Korenmolen,117,,
-9203VB,Korenmolen,197,,
-9203VB,Korenmolen,111,,
-9203VB,Korenmolen,119,,
-9203VB,Korenmolen,83,,
-9203VD,Houtzaagmolen,34,,
-9203VD,Houtzaagmolen,26,,
-9203VE,Houtzaagmolen,13,,
-9203VE,Houtzaagmolen,23,,
-9203VE,Houtzaagmolen,19,,
-9203VE,Houtzaagmolen,15,,
-9203SK,J.M. Houwenstraat,11,,
-9203SK,J.M.Houwenstraat,11,,
-9203SK,J.M. Houwenstraat,6,,
-9203SK,J.M.Houwenstraat,6,,
-9203SK,J.M. Houwenstraat,4,,
-9203SK,J.M.Houwenstraat,4,,
-9203SK,J.M. Houwenstraat,9,,
-9203SK,J.M.Houwenstraat,9,,
-9203SL,J.M. Houwenstraat,20,,
-9203SL,J.M.Houwenstraat,20,,
-9203SL,J.M. Houwenstraat,13,a,
-9203SL,J.M.Houwenstraat,13,a,
-9203SM,J.M. Houwenstraat,42,,23
-9203SM,J.M.Houwenstraat,42,,23
-9203SM,J.M. Houwenstraat,42,,24
-9203SM,J.M.Houwenstraat,42,,24
-9203SM,J.M. Houwenstraat,42,,25
-9203SM,J.M.Houwenstraat,42,,25
-9203SM,J.M. Houwenstraat,42,,26
-9203SM,J.M.Houwenstraat,42,,26
-9203SM,J.M. Houwenstraat,42,,27
-9203SM,J.M.Houwenstraat,42,,27
-9203SM,J.M. Houwenstraat,42,,28
-9203SM,J.M.Houwenstraat,42,,28
-9203SM,J.M. Houwenstraat,42,,29
-9203SM,J.M.Houwenstraat,42,,29
-9203SM,J.M. Houwenstraat,42,,32
-9203SM,J.M.Houwenstraat,42,,32
-9203SM,J.M. Houwenstraat,32,,
-9203SM,J.M.Houwenstraat,32,,
-9203SM,J.M. Houwenstraat,34,,
-9203SM,J.M.Houwenstraat,34,,
-9203SM,J.M. Houwenstraat,42,,1
-9203SM,J.M.Houwenstraat,42,,1
-9203SM,J.M. Houwenstraat,42,,2
-9203SM,J.M.Houwenstraat,42,,2
-9203SM,J.M. Houwenstraat,42,,3
-9203SM,J.M.Houwenstraat,42,,3
-9203SM,J.M. Houwenstraat,42,,5
-9203SM,J.M.Houwenstraat,42,,5
-9203SM,J.M. Houwenstraat,42,,6
-9203SM,J.M.Houwenstraat,42,,6
-9203SM,J.M. Houwenstraat,42,,7
-9203SM,J.M.Houwenstraat,42,,7
-9203SM,J.M. Houwenstraat,42,,8
-9203SM,J.M.Houwenstraat,42,,8
-9203SM,J.M. Houwenstraat,42,,10
-9203SM,J.M.Houwenstraat,42,,10
-9203SM,J.M. Houwenstraat,42,,11
-9203SM,J.M.Houwenstraat,42,,11
-9203SM,J.M. Houwenstraat,42,,12
-9203SM,J.M.Houwenstraat,42,,12
-9203SM,J.M. Houwenstraat,42,,13
-9203SM,J.M.Houwenstraat,42,,13
-9203SM,J.M. Houwenstraat,42,,14
-9203SM,J.M.Houwenstraat,42,,14
-9203SM,J.M. Houwenstraat,42,,15
-9203SM,J.M.Houwenstraat,42,,15
-9203SM,J.M. Houwenstraat,42,,16
-9203SM,J.M.Houwenstraat,42,,16
-9203SM,J.M. Houwenstraat,42,,17
-9203SM,J.M.Houwenstraat,42,,17
-9203SM,J.M. Houwenstraat,42,,18
-9203SM,J.M.Houwenstraat,42,,18
-9203SM,J.M. Houwenstraat,42,,20
-9203SM,J.M.Houwenstraat,42,,20
-9203SM,J.M. Houwenstraat,42,,21
-9203SM,J.M.Houwenstraat,42,,21
-9203SM,J.M. Houwenstraat,42,,22
-9203SM,J.M.Houwenstraat,42,,22
-9203SM,J.M. Houwenstraat,40,,
-9203SM,J.M.Houwenstraat,40,,
-9203SM,J.M. Houwenstraat,46,,
-9203SM,J.M.Houwenstraat,46,,
-9203SM,J.M. Houwenstraat,42,,19
-9203SM,J.M.Houwenstraat,42,,19
-9203ZW,Moleneind ZZ,63,a,
-9203ZW,Moleneind ZZ,41,,
-9203ZW,Moleneind ZZ,5,,
-9203ZW,Moleneind ZZ,7,,
-9203ZW,Moleneind ZZ,11,,
-9203ZW,Moleneind ZZ,13,,
-9203ZW,Moleneind ZZ,25,,
-9203ZW,Moleneind ZZ,27,,
-9203ZW,Moleneind ZZ,29,,
-9203ZW,Moleneind ZZ,49,,
-9203ZW,Moleneind ZZ,59,,
-9203ZW,Moleneind ZZ,69,b,
-9203ZW,Moleneind ZZ,71,,
-9203ZW,Moleneind ZZ,81,,
-9203ZW,Moleneind ZZ,87,,
-9203ZW,Moleneind ZZ,9,,
-9203ZW,Moleneind ZZ,85,a,
-9203ZW,Moleneind ZZ,43,,
-9203ZW,Moleneind ZZ,37,,
-9203ZW,Moleneind ZZ,67,,
-9203ZX,Moleneind ZZ,125,,
-9203ZX,Moleneind ZZ,95,,
-9203ZX,Moleneind ZZ,137,,
-9203ZX,Moleneind ZZ,127,,
-9203ZX,Moleneind ZZ,147,,
-9203ZZ,Moleneind ZZ,171,,
-9203ZZ,Moleneind ZZ,189,,
-9203ZZ,Moleneind ZZ,185,,
-9203ZZ,Moleneind ZZ,191,,
-9203ZZ,Moleneind ZZ,175,,
-9203ZZ,Moleneind ZZ,197,,
-9203ZZ,Moleneind ZZ,189,a,
-9203ZZ,Moleneind ZZ,179,,
-9203SH,Pier Panderstraat,46,,
-9203SH,Pier Panderstraat,50,,
-9203SH,Pier Panderstraat,42,,
-9203SH,Pier Panderstraat,40,,
-9203SH,Pier Panderstraat,58,,
-9203SH,Pier Panderstraat,54,,
-9203SP,Tjalling Wagenaarstraat,17,,
-9203SP,Tjalling Wagenaarstraat,35,,
-9203SP,Tjalling Wagenaarstraat,1,,
-9203SR,Tjalling Wagenaarstraat,16,,
-9203SR,Tjalling Wagenaarstraat,4,,
-9203SR,Tjalling Wagenaarstraat,8,a,
-9203SR,Tjalling Wagenaarstraat,42,,
-9203SR,Tjalling Wagenaarstraat,36,,
-9203SR,Tjalling Wagenaarstraat,18,,
-9203VC,Watermolen,23,,
-9203VC,Watermolen,15,,
-9203VC,Watermolen,39,,
-9203VC,Watermolen,27,,
-9203VC,Watermolen,37,,
-9203ST,Zuiderhogeweg,31,,
-9203ST,Zuiderhogeweg,15,,
-9203ST,Zuiderhogeweg,9,,
-9203ST,Zuiderhogeweg,25,,
-9203ST,Zuiderhogeweg,33,,
-9203SN,Eize Bosstraat,13,,
-9203SN,Eize Bosstraat,8,,
-9203SN,Eize Bosstraat,10,,
-9203SN,Eize Bosstraat,3,,
-9203RN,Gauke Boelensstraat,36,,
-9203RN,Gauke Boelensstraat,28,,
-9203RN,Gauke Boelensstraat,50,,
-9203RN,Gauke Boelensstraat,34,,
-9203RN,Gauke Boelensstraat,44,,
-9203RP,Gauke Boelensstraat,82,a,
-9203RP,Gauke Boelensstraat,72,,
-9203RR,Gauke Boelensstraat,90,,
-9203RR,Gauke Boelensstraat,94,,
-9203RR,Gauke Boelensstraat,104,,
-9203RS,Gauke Boelensstraat,116,,
-9203RS,Gauke Boelensstraat,110,,
-9203RZ,Bruinsslotstraat,61,,
-9203RZ,Bruinsslotstraat,59,,
-9203RZ,Bruinsslotstraat,63,,
-9203RZ,Bruinsslotstraat,69,,
-9203VA,Korenmolen,74,,
-9203VA,Korenmolen,158,,
-9203VA,Korenmolen,116,,
-9203VA,Korenmolen,142,,
-9203VA,Korenmolen,72,,
-9203VA,Korenmolen,96,,
-9203VA,Korenmolen,76,,
-9203VA,Korenmolen,112,,
-9203VA,Korenmolen,68,,
-9203VA,Korenmolen,130,,
-9203VA,Korenmolen,124,,
-9203VA,Korenmolen,42,,
-9203VA,Korenmolen,94,,
-9203VA,Korenmolen,4,,
-9203VA,Korenmolen,136,,
-9203VA,Korenmolen,30,,
-9203VA,Korenmolen,6,,
-9203VA,Korenmolen,166,,
-9203VA,Korenmolen,22,,
-9203VA,Korenmolen,140,,
-9203VA,Korenmolen,18,,
-9203VA,Korenmolen,36,,
-9203VA,Korenmolen,122,,
-9203VA,Korenmolen,16,,
-9203VA,Korenmolen,48,,
-9203VB,Korenmolen,177,,
-9203VB,Korenmolen,185,,
-9203VB,Korenmolen,205,,
-9203VB,Korenmolen,135,,
-9203VB,Korenmolen,19,,
-9203VB,Korenmolen,97,,
-9203VB,Korenmolen,91,,
-9203VB,Korenmolen,5,a,
-9203VB,Korenmolen,63,,
-9203VB,Korenmolen,99,,
-9203VB,Korenmolen,183,,
-9203VB,Korenmolen,1,,
-9203VB,Korenmolen,161,,
-9203VB,Korenmolen,33,,
-9203VB,Korenmolen,207,,
-9203VB,Korenmolen,59,,
-9203VB,Korenmolen,147,,
-9203VB,Korenmolen,133,,
-9203VB,Korenmolen,189,,
-9203VB,Korenmolen,199,,
-9203VB,Korenmolen,203,,
-9203VB,Korenmolen,25,,
-9203VB,Korenmolen,191,,
-9203VB,Korenmolen,173,,
-9203VB,Korenmolen,41,,
-9203VB,Korenmolen,201,,
-9203VB,Korenmolen,159,,
-9203VB,Korenmolen,21,,
-9203VB,Korenmolen,55,,
-9203VB,Korenmolen,67,,
-9203VB,Korenmolen,47,,
-9203VD,Houtzaagmolen,20,,
-9203VE,Houtzaagmolen,9,,
-9203VE,Houtzaagmolen,17,,
-9203SK,J.M. Houwenstraat,16,,
-9203SK,J.M.Houwenstraat,16,,
-9203SK,J.M. Houwenstraat,10,,
-9203SK,J.M.Houwenstraat,10,,
-9203SM,J.M. Houwenstraat,42,,4
-9203SM,J.M.Houwenstraat,42,,4
-9203SM,J.M. Houwenstraat,42,,31
-9203SM,J.M.Houwenstraat,42,,31
-9203SM,J.M. Houwenstraat,42,,30
-9203SM,J.M.Houwenstraat,42,,30
-9203SM,J.M. Houwenstraat,42,,9
-9203SM,J.M.Houwenstraat,42,,9
-9203ZW,Moleneind ZZ,73,,
-9203ZW,Moleneind ZZ,63,,
-9203ZW,Moleneind ZZ,63,b,
-9203ZW,Moleneind ZZ,71,a,
-9203ZW,Moleneind ZZ,71,a,
-9203ZW,Moleneind ZZ,71,b,
-9203ZW,Moleneind ZZ,5,,
-9203ZW,Moleneind ZZ,5,a,
-9203ZW,Moleneind ZZ,5,b,
-9203ZX,Moleneind ZZ,153,,
-9203ZX,Moleneind ZZ,133,,
-9203ZX,Moleneind ZZ,151,a,
-9203ZX,Moleneind ZZ,111,,
-9203ZX,Moleneind ZZ,109,,
-9203ZX,Moleneind ZZ,107,,
-9203ZX,Moleneind ZZ,105,,
-9203ZX,Moleneind ZZ,103,,
-9203ZX,Moleneind ZZ,101,,
-9203ZX,Moleneind ZZ,97,,
-9203ZX,Moleneind ZZ,99,,
-9203ZX,Moleneind ZZ,95,,
-9203ZX,Moleneind ZZ,95,,1
-9203ZX,Moleneind ZZ,95,,2
-9203ZX,Moleneind ZZ,95,,3
-9203ZX,Moleneind ZZ,95,,4
-9203ZX,Moleneind ZZ,95,,5
-9203ZX,Moleneind ZZ,95,,6
-9203ZX,Moleneind ZZ,95,,7
-9203ZX,Moleneind ZZ,95,,8
-9203ZX,Moleneind ZZ,95,,9
-9203ZX,Moleneind ZZ,95,,10
-9203ZX,Moleneind ZZ,95,,11
-9203ZX,Moleneind ZZ,95,,12
-9203ZX,Moleneind ZZ,95,,13
-9203ZX,Moleneind ZZ,95,,14
-9203ZX,Moleneind ZZ,95,,15
-9203ZX,Moleneind ZZ,95,,16
-9203ZX,Moleneind ZZ,95,,17
-9203ZX,Moleneind ZZ,95,,18
-9203ZX,Moleneind ZZ,95,,19
-9203ZZ,Moleneind ZZ,189,b,
-9203ZZ,Moleneind ZZ,189,,
-9203ZZ,Moleneind ZZ,189,a,
-9203ZZ,Moleneind ZZ,189,b,
-9203ZZ,Moleneind ZZ,189,c,
-9203ZZ,Moleneind ZZ,189,d,
-9203SH,Pier Panderstraat,56,,
-9203SR,Tjalling Wagenaarstraat,32,,
-9203SR,Tjalling Wagenaarstraat,24,,
-9203VC,Watermolen,13,,
-9203ST,Zuiderhogeweg,19,,
-9203ST,Zuiderhogeweg,5,,
-9203ST,Zuiderhogeweg,5,,
-9203ST,Zuiderhogeweg,5,a,
-9203ST,Zuiderhogeweg,5,a,
-9203RZ,Bruinsslotstraat,65,,
-9203VA,Korenmolen,50,,
-9203VA,Korenmolen,88,,
-9203VA,Korenmolen,24,,
-9203VA,Korenmolen,34,,
-9203VA,Korenmolen,86,,
-9203VA,Korenmolen,156,,
-9203VB,Korenmolen,101,,
-9203VB,Korenmolen,15,,
-9203VB,Korenmolen,115,,
-9203VB,Korenmolen,87,,
-9203VB,Korenmolen,79,,
-9203VB,Korenmolen,93,,
-9203VB,Korenmolen,9,,
-9203ZX,Moleneind ZZ,95,,
-9203ZX,Moleneind ZZ,95,,1
-9203ZX,Moleneind ZZ,95,,2
-9203ZX,Moleneind ZZ,95,,3
-9203ZX,Moleneind ZZ,95,,4
-9203ZX,Moleneind ZZ,95,,5
-9203ZX,Moleneind ZZ,95,,6
-9203ZX,Moleneind ZZ,95,,7
-9203ZX,Moleneind ZZ,95,,8
-9203ZX,Moleneind ZZ,95,,9
-9203ZX,Moleneind ZZ,95,,10
-9203ZX,Moleneind ZZ,95,,11
-9203ZX,Moleneind ZZ,95,,12
-9203ZX,Moleneind ZZ,95,,13
-9203ZX,Moleneind ZZ,95,,14
-9203ZX,Moleneind ZZ,95,,15
-9203ZX,Moleneind ZZ,95,,16
-9203ZX,Moleneind ZZ,95,,17
-9203ZX,Moleneind ZZ,95,,18
-9203ZX,Moleneind ZZ,95,,19
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Gauke Boelensstraat,26,"","",9203RN,Drachten
+Gauke Boelensstraat,28,"","",9203RN,Drachten
+Gauke Boelensstraat,30,"","",9203RN,Drachten
+Gauke Boelensstraat,32,"","",9203RN,Drachten
+Gauke Boelensstraat,34,"","",9203RN,Drachten
+Gauke Boelensstraat,36,"","",9203RN,Drachten
+Gauke Boelensstraat,38,"","",9203RN,Drachten
+Gauke Boelensstraat,40,"","",9203RN,Drachten
+Gauke Boelensstraat,42,"","",9203RN,Drachten
+Gauke Boelensstraat,44,"","",9203RN,Drachten
+Gauke Boelensstraat,46,"","",9203RN,Drachten
+Gauke Boelensstraat,48,"","",9203RN,Drachten
+Gauke Boelensstraat,50,"","",9203RN,Drachten
+Gauke Boelensstraat,56,"","",9203RP,Drachten
+Gauke Boelensstraat,58,"","",9203RP,Drachten
+Gauke Boelensstraat,60,"","",9203RP,Drachten
+Gauke Boelensstraat,64,"","",9203RP,Drachten
+Gauke Boelensstraat,66,"","",9203RP,Drachten
+Gauke Boelensstraat,68,"","",9203RP,Drachten
+Gauke Boelensstraat,70,"","",9203RP,Drachten
+Gauke Boelensstraat,72,"","",9203RP,Drachten
+Gauke Boelensstraat,74,"","",9203RP,Drachten
+Gauke Boelensstraat,76,"","",9203RP,Drachten
+Gauke Boelensstraat,78,"","",9203RP,Drachten
+Gauke Boelensstraat,80,"","",9203RP,Drachten
+Gauke Boelensstraat,82,"","",9203RP,Drachten
+Gauke Boelensstraat,82,A,"",9203RP,Drachten
+Gauke Boelensstraat,84,"","",9203RP,Drachten
+Gauke Boelensstraat,86,"","",9203RP,Drachten
+Gauke Boelensstraat,88,"","",9203RP,Drachten
+Gauke Boelensstraat,100,"","",9203RR,Drachten
+Gauke Boelensstraat,102,"","",9203RR,Drachten
+Gauke Boelensstraat,104,"","",9203RR,Drachten
+Gauke Boelensstraat,90,"","",9203RR,Drachten
+Gauke Boelensstraat,92,"","",9203RR,Drachten
+Gauke Boelensstraat,94,"","",9203RR,Drachten
+Gauke Boelensstraat,96,"","",9203RR,Drachten
+Gauke Boelensstraat,98,"","",9203RR,Drachten
+Gauke Boelensstraat,106,"","",9203RS,Drachten
+Gauke Boelensstraat,108,"","",9203RS,Drachten
+Gauke Boelensstraat,110,"","",9203RS,Drachten
+Gauke Boelensstraat,112,"","",9203RS,Drachten
+Gauke Boelensstraat,114,"","",9203RS,Drachten
+Gauke Boelensstraat,116,"","",9203RS,Drachten
+Gauke Boelensstraat,118,"","",9203RS,Drachten
+Gauke Boelensstraat,120,"","",9203RS,Drachten
+Bruinsslotstraat,53,"","",9203RZ,Drachten
+Bruinsslotstraat,55,"","",9203RZ,Drachten
+Bruinsslotstraat,57,"","",9203RZ,Drachten
+Bruinsslotstraat,59,"","",9203RZ,Drachten
+Bruinsslotstraat,61,"","",9203RZ,Drachten
+Bruinsslotstraat,63,"","",9203RZ,Drachten
+Bruinsslotstraat,65,"","",9203RZ,Drachten
+Bruinsslotstraat,67,"","",9203RZ,Drachten
+Bruinsslotstraat,69,"","",9203RZ,Drachten
+Bruinsslotstraat,71,"","",9203RZ,Drachten
+Bruinsslotstraat,73,"","",9203RZ,Drachten
+Pier Panderstraat,36,"","",9203SH,Drachten
+Pier Panderstraat,38,"","",9203SH,Drachten
+Pier Panderstraat,40,"","",9203SH,Drachten
+Pier Panderstraat,42,"","",9203SH,Drachten
+Pier Panderstraat,44,"","",9203SH,Drachten
+Pier Panderstraat,46,"","",9203SH,Drachten
+Pier Panderstraat,48,"","",9203SH,Drachten
+Pier Panderstraat,50,"","",9203SH,Drachten
+Pier Panderstraat,52,"","",9203SH,Drachten
+Pier Panderstraat,54,"","",9203SH,Drachten
+Pier Panderstraat,56,"","",9203SH,Drachten
+Pier Panderstraat,58,"","",9203SH,Drachten
+Pier Panderstraat,60,"","",9203SH,Drachten
+J.M. Houwenstraat,10,"","",9203SK,Drachten
+J.M. Houwenstraat,11,"","",9203SK,Drachten
+J.M. Houwenstraat,12,"","",9203SK,Drachten
+J.M. Houwenstraat,14,"","",9203SK,Drachten
+J.M. Houwenstraat,16,"","",9203SK,Drachten
+J.M. Houwenstraat,18,"","",9203SK,Drachten
+J.M. Houwenstraat,4,"","",9203SK,Drachten
+J.M. Houwenstraat,6,"","",9203SK,Drachten
+J.M. Houwenstraat,8,"","",9203SK,Drachten
+J.M. Houwenstraat,9,"","",9203SK,Drachten
+J.M. Houwenstraat,13,"","",9203SL,Drachten
+J.M. Houwenstraat,13,A,"",9203SL,Drachten
+J.M. Houwenstraat,15,"","",9203SL,Drachten
+J.M. Houwenstraat,17,"","",9203SL,Drachten
+J.M. Houwenstraat,20,"","",9203SL,Drachten
+J.M. Houwenstraat,22,"","",9203SL,Drachten
+J.M. Houwenstraat,24,"","",9203SL,Drachten
+J.M. Houwenstraat,26,"","",9203SL,Drachten
+J.M. Houwenstraat,27,"","",9203SL,Drachten
+J.M. Houwenstraat,28,"","",9203SL,Drachten
+J.M. Houwenstraat,29,"","",9203SL,Drachten
+J.M. Houwenstraat,30,"","",9203SM,Drachten
+J.M. Houwenstraat,31,"","",9203SM,Drachten
+J.M. Houwenstraat,32,"","",9203SM,Drachten
+J.M. Houwenstraat,33,"","",9203SM,Drachten
+J.M. Houwenstraat,34,"","",9203SM,Drachten
+J.M. Houwenstraat,35,"","",9203SM,Drachten
+J.M. Houwenstraat,36,"","",9203SM,Drachten
+J.M. Houwenstraat,38,"","",9203SM,Drachten
+J.M. Houwenstraat,39,"","",9203SM,Drachten
+J.M. Houwenstraat,40,"","",9203SM,Drachten
+J.M. Houwenstraat,42,"","",9203SM,Drachten
+J.M. Houwenstraat,42,"",1,9203SM,Drachten
+J.M. Houwenstraat,42,"",10,9203SM,Drachten
+J.M. Houwenstraat,42,"",11,9203SM,Drachten
+J.M. Houwenstraat,42,"",12,9203SM,Drachten
+J.M. Houwenstraat,42,"",13,9203SM,Drachten
+J.M. Houwenstraat,42,"",14,9203SM,Drachten
+J.M. Houwenstraat,42,"",15,9203SM,Drachten
+J.M. Houwenstraat,42,"",16,9203SM,Drachten
+J.M. Houwenstraat,42,"",17,9203SM,Drachten
+J.M. Houwenstraat,42,"",18,9203SM,Drachten
+J.M. Houwenstraat,42,"",19,9203SM,Drachten
+J.M. Houwenstraat,42,"",2,9203SM,Drachten
+J.M. Houwenstraat,42,"",20,9203SM,Drachten
+J.M. Houwenstraat,42,"",21,9203SM,Drachten
+J.M. Houwenstraat,42,"",22,9203SM,Drachten
+J.M. Houwenstraat,42,"",23,9203SM,Drachten
+J.M. Houwenstraat,42,"",24,9203SM,Drachten
+J.M. Houwenstraat,42,"",25,9203SM,Drachten
+J.M. Houwenstraat,42,"",26,9203SM,Drachten
+J.M. Houwenstraat,42,"",27,9203SM,Drachten
+J.M. Houwenstraat,42,"",28,9203SM,Drachten
+J.M. Houwenstraat,42,"",29,9203SM,Drachten
+J.M. Houwenstraat,42,"",3,9203SM,Drachten
+J.M. Houwenstraat,42,"",30,9203SM,Drachten
+J.M. Houwenstraat,42,"",31,9203SM,Drachten
+J.M. Houwenstraat,42,"",32,9203SM,Drachten
+J.M. Houwenstraat,42,"",4,9203SM,Drachten
+J.M. Houwenstraat,42,"",5,9203SM,Drachten
+J.M. Houwenstraat,42,"",6,9203SM,Drachten
+J.M. Houwenstraat,42,"",7,9203SM,Drachten
+J.M. Houwenstraat,42,"",8,9203SM,Drachten
+J.M. Houwenstraat,42,"",9,9203SM,Drachten
+J.M. Houwenstraat,46,"","",9203SM,Drachten
+Eize Bosstraat,1,"","",9203SN,Drachten
+Eize Bosstraat,10,"","",9203SN,Drachten
+Eize Bosstraat,11,"","",9203SN,Drachten
+Eize Bosstraat,12,"","",9203SN,Drachten
+Eize Bosstraat,13,"","",9203SN,Drachten
+Eize Bosstraat,15,"","",9203SN,Drachten
+Eize Bosstraat,2,"","",9203SN,Drachten
+Eize Bosstraat,3,"","",9203SN,Drachten
+Eize Bosstraat,4,"","",9203SN,Drachten
+Eize Bosstraat,5,"","",9203SN,Drachten
+Eize Bosstraat,6,"","",9203SN,Drachten
+Eize Bosstraat,7,"","",9203SN,Drachten
+Eize Bosstraat,8,"","",9203SN,Drachten
+Eize Bosstraat,9,"","",9203SN,Drachten
+Tjalling Wagenaarstraat,1,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,13,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,15,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,17,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,19,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,19,A,"",9203SP,Drachten
+Tjalling Wagenaarstraat,21,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,23,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,25,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,27,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,29,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,31,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,33,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,35,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,37,"","",9203SP,Drachten
+Tjalling Wagenaarstraat,10,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,12,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,14,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,16,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,18,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,2,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,20,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,22,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,24,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,26,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,28,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,30,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,32,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,34,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,36,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,38,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,4,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,40,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,42,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,6,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,6,A,"",9203SR,Drachten
+Tjalling Wagenaarstraat,8,"","",9203SR,Drachten
+Tjalling Wagenaarstraat,8,A,"",9203SR,Drachten
+Zuiderhogeweg,1,"","",9203ST,Drachten
+Zuiderhogeweg,11,"","",9203ST,Drachten
+Zuiderhogeweg,13,"","",9203ST,Drachten
+Zuiderhogeweg,15,"","",9203ST,Drachten
+Zuiderhogeweg,17,"","",9203ST,Drachten
+Zuiderhogeweg,19,"","",9203ST,Drachten
+Zuiderhogeweg,21,"","",9203ST,Drachten
+Zuiderhogeweg,23,"","",9203ST,Drachten
+Zuiderhogeweg,25,"","",9203ST,Drachten
+Zuiderhogeweg,27,"","",9203ST,Drachten
+Zuiderhogeweg,29,"","",9203ST,Drachten
+Zuiderhogeweg,31,"","",9203ST,Drachten
+Zuiderhogeweg,33,"","",9203ST,Drachten
+Zuiderhogeweg,35,"","",9203ST,Drachten
+Zuiderhogeweg,37,"","",9203ST,Drachten
+Zuiderhogeweg,39,"","",9203ST,Drachten
+Zuiderhogeweg,5,"","",9203ST,Drachten
+Zuiderhogeweg,5,"","",9203ST,Drachten
+Zuiderhogeweg,5,"","",9203ST,Drachten
+Zuiderhogeweg,5,"","",9203ST,Drachten
+Zuiderhogeweg,5,A,"",9203ST,Drachten
+Zuiderhogeweg,5,A,"",9203ST,Drachten
+Zuiderhogeweg,7,"","",9203ST,Drachten
+Zuiderhogeweg,9,"","",9203ST,Drachten
+Korenmolen,10,"","",9203VA,Drachten
+Korenmolen,100,"","",9203VA,Drachten
+Korenmolen,102,"","",9203VA,Drachten
+Korenmolen,104,"","",9203VA,Drachten
+Korenmolen,106,"","",9203VA,Drachten
+Korenmolen,108,"","",9203VA,Drachten
+Korenmolen,110,"","",9203VA,Drachten
+Korenmolen,112,"","",9203VA,Drachten
+Korenmolen,114,"","",9203VA,Drachten
+Korenmolen,116,"","",9203VA,Drachten
+Korenmolen,118,"","",9203VA,Drachten
+Korenmolen,12,"","",9203VA,Drachten
+Korenmolen,120,"","",9203VA,Drachten
+Korenmolen,122,"","",9203VA,Drachten
+Korenmolen,124,"","",9203VA,Drachten
+Korenmolen,126,"","",9203VA,Drachten
+Korenmolen,128,"","",9203VA,Drachten
+Korenmolen,130,"","",9203VA,Drachten
+Korenmolen,132,"","",9203VA,Drachten
+Korenmolen,134,"","",9203VA,Drachten
+Korenmolen,136,"","",9203VA,Drachten
+Korenmolen,138,"","",9203VA,Drachten
+Korenmolen,14,"","",9203VA,Drachten
+Korenmolen,140,"","",9203VA,Drachten
+Korenmolen,142,"","",9203VA,Drachten
+Korenmolen,148,"","",9203VA,Drachten
+Korenmolen,150,"","",9203VA,Drachten
+Korenmolen,152,"","",9203VA,Drachten
+Korenmolen,154,"","",9203VA,Drachten
+Korenmolen,156,"","",9203VA,Drachten
+Korenmolen,158,"","",9203VA,Drachten
+Korenmolen,16,"","",9203VA,Drachten
+Korenmolen,160,"","",9203VA,Drachten
+Korenmolen,162,"","",9203VA,Drachten
+Korenmolen,164,"","",9203VA,Drachten
+Korenmolen,166,"","",9203VA,Drachten
+Korenmolen,168,"","",9203VA,Drachten
+Korenmolen,170,"","",9203VA,Drachten
+Korenmolen,18,"","",9203VA,Drachten
+Korenmolen,2,"","",9203VA,Drachten
+Korenmolen,20,"","",9203VA,Drachten
+Korenmolen,22,"","",9203VA,Drachten
+Korenmolen,24,"","",9203VA,Drachten
+Korenmolen,26,"","",9203VA,Drachten
+Korenmolen,28,"","",9203VA,Drachten
+Korenmolen,30,"","",9203VA,Drachten
+Korenmolen,32,"","",9203VA,Drachten
+Korenmolen,34,"","",9203VA,Drachten
+Korenmolen,36,"","",9203VA,Drachten
+Korenmolen,38,"","",9203VA,Drachten
+Korenmolen,4,"","",9203VA,Drachten
+Korenmolen,40,"","",9203VA,Drachten
+Korenmolen,42,"","",9203VA,Drachten
+Korenmolen,44,"","",9203VA,Drachten
+Korenmolen,46,"","",9203VA,Drachten
+Korenmolen,48,"","",9203VA,Drachten
+Korenmolen,50,"","",9203VA,Drachten
+Korenmolen,52,"","",9203VA,Drachten
+Korenmolen,58,"","",9203VA,Drachten
+Korenmolen,6,"","",9203VA,Drachten
+Korenmolen,60,"","",9203VA,Drachten
+Korenmolen,62,"","",9203VA,Drachten
+Korenmolen,64,"","",9203VA,Drachten
+Korenmolen,66,"","",9203VA,Drachten
+Korenmolen,68,"","",9203VA,Drachten
+Korenmolen,70,"","",9203VA,Drachten
+Korenmolen,72,"","",9203VA,Drachten
+Korenmolen,74,"","",9203VA,Drachten
+Korenmolen,76,"","",9203VA,Drachten
+Korenmolen,78,"","",9203VA,Drachten
+Korenmolen,8,"","",9203VA,Drachten
+Korenmolen,80,"","",9203VA,Drachten
+Korenmolen,82,"","",9203VA,Drachten
+Korenmolen,84,"","",9203VA,Drachten
+Korenmolen,86,"","",9203VA,Drachten
+Korenmolen,88,"","",9203VA,Drachten
+Korenmolen,90,"","",9203VA,Drachten
+Korenmolen,92,"","",9203VA,Drachten
+Korenmolen,94,"","",9203VA,Drachten
+Korenmolen,96,"","",9203VA,Drachten
+Korenmolen,98,"","",9203VA,Drachten
+Korenmolen,1,"","",9203VB,Drachten
+Korenmolen,101,"","",9203VB,Drachten
+Korenmolen,103,"","",9203VB,Drachten
+Korenmolen,105,"","",9203VB,Drachten
+Korenmolen,107,"","",9203VB,Drachten
+Korenmolen,109,"","",9203VB,Drachten
+Korenmolen,11,"","",9203VB,Drachten
+Korenmolen,111,"","",9203VB,Drachten
+Korenmolen,113,"","",9203VB,Drachten
+Korenmolen,115,"","",9203VB,Drachten
+Korenmolen,117,"","",9203VB,Drachten
+Korenmolen,119,"","",9203VB,Drachten
+Korenmolen,127,"","",9203VB,Drachten
+Korenmolen,129,"","",9203VB,Drachten
+Korenmolen,13,"","",9203VB,Drachten
+Korenmolen,131,"","",9203VB,Drachten
+Korenmolen,133,"","",9203VB,Drachten
+Korenmolen,135,"","",9203VB,Drachten
+Korenmolen,137,"","",9203VB,Drachten
+Korenmolen,139,"","",9203VB,Drachten
+Korenmolen,141,"","",9203VB,Drachten
+Korenmolen,143,"","",9203VB,Drachten
+Korenmolen,145,"","",9203VB,Drachten
+Korenmolen,147,"","",9203VB,Drachten
+Korenmolen,149,"","",9203VB,Drachten
+Korenmolen,15,"","",9203VB,Drachten
+Korenmolen,151,"","",9203VB,Drachten
+Korenmolen,153,"","",9203VB,Drachten
+Korenmolen,155,"","",9203VB,Drachten
+Korenmolen,157,"","",9203VB,Drachten
+Korenmolen,159,"","",9203VB,Drachten
+Korenmolen,161,"","",9203VB,Drachten
+Korenmolen,163,"","",9203VB,Drachten
+Korenmolen,165,"","",9203VB,Drachten
+Korenmolen,167,"","",9203VB,Drachten
+Korenmolen,169,"","",9203VB,Drachten
+Korenmolen,17,"","",9203VB,Drachten
+Korenmolen,171,"","",9203VB,Drachten
+Korenmolen,173,"","",9203VB,Drachten
+Korenmolen,175,"","",9203VB,Drachten
+Korenmolen,177,"","",9203VB,Drachten
+Korenmolen,179,"","",9203VB,Drachten
+Korenmolen,181,"","",9203VB,Drachten
+Korenmolen,183,"","",9203VB,Drachten
+Korenmolen,185,"","",9203VB,Drachten
+Korenmolen,187,"","",9203VB,Drachten
+Korenmolen,189,"","",9203VB,Drachten
+Korenmolen,19,"","",9203VB,Drachten
+Korenmolen,191,"","",9203VB,Drachten
+Korenmolen,193,"","",9203VB,Drachten
+Korenmolen,195,"","",9203VB,Drachten
+Korenmolen,197,"","",9203VB,Drachten
+Korenmolen,199,"","",9203VB,Drachten
+Korenmolen,201,"","",9203VB,Drachten
+Korenmolen,203,"","",9203VB,Drachten
+Korenmolen,205,"","",9203VB,Drachten
+Korenmolen,207,"","",9203VB,Drachten
+Korenmolen,21,"","",9203VB,Drachten
+Korenmolen,23,"","",9203VB,Drachten
+Korenmolen,25,"","",9203VB,Drachten
+Korenmolen,27,"","",9203VB,Drachten
+Korenmolen,29,"","",9203VB,Drachten
+Korenmolen,3,"","",9203VB,Drachten
+Korenmolen,31,"","",9203VB,Drachten
+Korenmolen,33,"","",9203VB,Drachten
+Korenmolen,35,"","",9203VB,Drachten
+Korenmolen,37,"","",9203VB,Drachten
+Korenmolen,39,"","",9203VB,Drachten
+Korenmolen,41,"","",9203VB,Drachten
+Korenmolen,43,"","",9203VB,Drachten
+Korenmolen,45,"","",9203VB,Drachten
+Korenmolen,47,"","",9203VB,Drachten
+Korenmolen,49,"","",9203VB,Drachten
+Korenmolen,5,"","",9203VB,Drachten
+Korenmolen,5,A,"",9203VB,Drachten
+Korenmolen,51,"","",9203VB,Drachten
+Korenmolen,53,"","",9203VB,Drachten
+Korenmolen,55,"","",9203VB,Drachten
+Korenmolen,57,"","",9203VB,Drachten
+Korenmolen,59,"","",9203VB,Drachten
+Korenmolen,61,"","",9203VB,Drachten
+Korenmolen,63,"","",9203VB,Drachten
+Korenmolen,65,"","",9203VB,Drachten
+Korenmolen,67,"","",9203VB,Drachten
+Korenmolen,69,"","",9203VB,Drachten
+Korenmolen,7,"","",9203VB,Drachten
+Korenmolen,71,"","",9203VB,Drachten
+Korenmolen,73,"","",9203VB,Drachten
+Korenmolen,75,"","",9203VB,Drachten
+Korenmolen,77,"","",9203VB,Drachten
+Korenmolen,79,"","",9203VB,Drachten
+Korenmolen,81,"","",9203VB,Drachten
+Korenmolen,83,"","",9203VB,Drachten
+Korenmolen,85,"","",9203VB,Drachten
+Korenmolen,87,"","",9203VB,Drachten
+Korenmolen,89,"","",9203VB,Drachten
+Korenmolen,9,"","",9203VB,Drachten
+Korenmolen,91,"","",9203VB,Drachten
+Korenmolen,93,"","",9203VB,Drachten
+Korenmolen,95,"","",9203VB,Drachten
+Korenmolen,97,"","",9203VB,Drachten
+Korenmolen,99,"","",9203VB,Drachten
+Watermolen,1,"","",9203VC,Drachten
+Watermolen,11,"","",9203VC,Drachten
+Watermolen,12,"","",9203VC,Drachten
+Watermolen,13,"","",9203VC,Drachten
+Watermolen,15,"","",9203VC,Drachten
+Watermolen,17,"","",9203VC,Drachten
+Watermolen,19,"","",9203VC,Drachten
+Watermolen,21,"","",9203VC,Drachten
+Watermolen,23,"","",9203VC,Drachten
+Watermolen,25,"","",9203VC,Drachten
+Watermolen,27,"","",9203VC,Drachten
+Watermolen,29,"","",9203VC,Drachten
+Watermolen,3,"","",9203VC,Drachten
+Watermolen,31,"","",9203VC,Drachten
+Watermolen,33,"","",9203VC,Drachten
+Watermolen,35,"","",9203VC,Drachten
+Watermolen,37,"","",9203VC,Drachten
+Watermolen,39,"","",9203VC,Drachten
+Watermolen,5,"","",9203VC,Drachten
+Watermolen,7,"","",9203VC,Drachten
+Watermolen,9,"","",9203VC,Drachten
+Houtzaagmolen,10,"","",9203VD,Drachten
+Houtzaagmolen,12,"","",9203VD,Drachten
+Houtzaagmolen,14,"","",9203VD,Drachten
+Houtzaagmolen,16,"","",9203VD,Drachten
+Houtzaagmolen,18,"","",9203VD,Drachten
+Houtzaagmolen,2,"","",9203VD,Drachten
+Houtzaagmolen,20,"","",9203VD,Drachten
+Houtzaagmolen,26,"","",9203VD,Drachten
+Houtzaagmolen,28,"","",9203VD,Drachten
+Houtzaagmolen,30,"","",9203VD,Drachten
+Houtzaagmolen,32,"","",9203VD,Drachten
+Houtzaagmolen,34,"","",9203VD,Drachten
+Houtzaagmolen,36,"","",9203VD,Drachten
+Houtzaagmolen,38,"","",9203VD,Drachten
+Houtzaagmolen,4,"","",9203VD,Drachten
+Houtzaagmolen,40,"","",9203VD,Drachten
+Houtzaagmolen,42,"","",9203VD,Drachten
+Houtzaagmolen,44,"","",9203VD,Drachten
+Houtzaagmolen,46,"","",9203VD,Drachten
+Houtzaagmolen,6,"","",9203VD,Drachten
+Houtzaagmolen,8,"","",9203VD,Drachten
+Houtzaagmolen,1,"","",9203VE,Drachten
+Houtzaagmolen,11,"","",9203VE,Drachten
+Houtzaagmolen,13,"","",9203VE,Drachten
+Houtzaagmolen,15,"","",9203VE,Drachten
+Houtzaagmolen,17,"","",9203VE,Drachten
+Houtzaagmolen,19,"","",9203VE,Drachten
+Houtzaagmolen,21,"","",9203VE,Drachten
+Houtzaagmolen,23,"","",9203VE,Drachten
+Houtzaagmolen,25,"",31,9203VE,Drachten
+Houtzaagmolen,3,"","",9203VE,Drachten
+Houtzaagmolen,5,"","",9203VE,Drachten
+Houtzaagmolen,7,"","",9203VE,Drachten
+Houtzaagmolen,9,"","",9203VE,Drachten
+Moleneind ZZ,11,"","",9203ZW,Drachten
+Moleneind ZZ,13,"","",9203ZW,Drachten
+Moleneind ZZ,13,A,"",9203ZW,Drachten
+Moleneind ZZ,15,"","",9203ZW,Drachten
+Moleneind ZZ,15,A,"",9203ZW,Drachten
+Moleneind ZZ,21,"","",9203ZW,Drachten
+Moleneind ZZ,23,"","",9203ZW,Drachten
+Moleneind ZZ,25,"","",9203ZW,Drachten
+Moleneind ZZ,27,"","",9203ZW,Drachten
+Moleneind ZZ,27,A,"",9203ZW,Drachten
+Moleneind ZZ,29,"","",9203ZW,Drachten
+Moleneind ZZ,3,"","",9203ZW,Drachten
+Moleneind ZZ,31,"","",9203ZW,Drachten
+Moleneind ZZ,33,"","",9203ZW,Drachten
+Moleneind ZZ,35,"","",9203ZW,Drachten
+Moleneind ZZ,37,"","",9203ZW,Drachten
+Moleneind ZZ,39,"","",9203ZW,Drachten
+Moleneind ZZ,41,"","",9203ZW,Drachten
+Moleneind ZZ,43,"","",9203ZW,Drachten
+Moleneind ZZ,45,"","",9203ZW,Drachten
+Moleneind ZZ,47,"","",9203ZW,Drachten
+Moleneind ZZ,49,"","",9203ZW,Drachten
+Moleneind ZZ,5,"","",9203ZW,Drachten
+Moleneind ZZ,5,"","",9203ZW,Drachten
+Moleneind ZZ,5,"","",9203ZW,Drachten
+Moleneind ZZ,5,A,"",9203ZW,Drachten
+Moleneind ZZ,5,B,"",9203ZW,Drachten
+Moleneind ZZ,59,"","",9203ZW,Drachten
+Moleneind ZZ,61,"","",9203ZW,Drachten
+Moleneind ZZ,63,"","",9203ZW,Drachten
+Moleneind ZZ,63,"","",9203ZW,Drachten
+Moleneind ZZ,63,"","",9203ZW,Drachten
+Moleneind ZZ,63,"","",9203ZW,Drachten
+Moleneind ZZ,63,A,"",9203ZW,Drachten
+Moleneind ZZ,63,B,"",9203ZW,Drachten
+Moleneind ZZ,65,"","",9203ZW,Drachten
+Moleneind ZZ,65,A,"",9203ZW,Drachten
+Moleneind ZZ,67,"","",9203ZW,Drachten
+Moleneind ZZ,67,A,"",9203ZW,Drachten
+Moleneind ZZ,69,"","",9203ZW,Drachten
+Moleneind ZZ,69,A,"",9203ZW,Drachten
+Moleneind ZZ,69,B,"",9203ZW,Drachten
+Moleneind ZZ,7,"","",9203ZW,Drachten
+Moleneind ZZ,71,"","",9203ZW,Drachten
+Moleneind ZZ,71,A,"",9203ZW,Drachten
+Moleneind ZZ,71,A,"",9203ZW,Drachten
+Moleneind ZZ,71,B,"",9203ZW,Drachten
+Moleneind ZZ,73,"","",9203ZW,Drachten
+Moleneind ZZ,77,"","",9203ZW,Drachten
+Moleneind ZZ,79,"","",9203ZW,Drachten
+Moleneind ZZ,81,"","",9203ZW,Drachten
+Moleneind ZZ,85,"","",9203ZW,Drachten
+Moleneind ZZ,85,A,"",9203ZW,Drachten
+Moleneind ZZ,87,"","",9203ZW,Drachten
+Moleneind ZZ,9,"","",9203ZW,Drachten
+Moleneind ZZ,101,"","",9203ZX,Drachten
+Moleneind ZZ,103,"","",9203ZX,Drachten
+Moleneind ZZ,105,"","",9203ZX,Drachten
+Moleneind ZZ,107,"","",9203ZX,Drachten
+Moleneind ZZ,109,"","",9203ZX,Drachten
+Moleneind ZZ,111,"","",9203ZX,Drachten
+Moleneind ZZ,125,"","",9203ZX,Drachten
+Moleneind ZZ,127,"","",9203ZX,Drachten
+Moleneind ZZ,129,"","",9203ZX,Drachten
+Moleneind ZZ,131,"","",9203ZX,Drachten
+Moleneind ZZ,133,"","",9203ZX,Drachten
+Moleneind ZZ,135,"","",9203ZX,Drachten
+Moleneind ZZ,137,"","",9203ZX,Drachten
+Moleneind ZZ,139,"","",9203ZX,Drachten
+Moleneind ZZ,141,"","",9203ZX,Drachten
+Moleneind ZZ,143,"","",9203ZX,Drachten
+Moleneind ZZ,145,"","",9203ZX,Drachten
+Moleneind ZZ,147,"","",9203ZX,Drachten
+Moleneind ZZ,149,"","",9203ZX,Drachten
+Moleneind ZZ,151,"","",9203ZX,Drachten
+Moleneind ZZ,151,A,"",9203ZX,Drachten
+Moleneind ZZ,153,"","",9203ZX,Drachten
+Moleneind ZZ,155,"","",9203ZX,Drachten
+Moleneind ZZ,157,"","",9203ZX,Drachten
+Moleneind ZZ,159,"","",9203ZX,Drachten
+Moleneind ZZ,95,"","",9203ZX,Drachten
+Moleneind ZZ,95,"","",9203ZX,Drachten
+Moleneind ZZ,95,"","",9203ZX,Drachten
+Moleneind ZZ,95,"","",9203ZX,Drachten
+Moleneind ZZ,95,"","",9203ZX,Drachten
+Moleneind ZZ,95,"",1,9203ZX,Drachten
+Moleneind ZZ,95,"",1,9203ZX,Drachten
+Moleneind ZZ,95,"",1,9203ZX,Drachten
+Moleneind ZZ,95,"",10,9203ZX,Drachten
+Moleneind ZZ,95,"",10,9203ZX,Drachten
+Moleneind ZZ,95,"",10,9203ZX,Drachten
+Moleneind ZZ,95,"",11,9203ZX,Drachten
+Moleneind ZZ,95,"",11,9203ZX,Drachten
+Moleneind ZZ,95,"",11,9203ZX,Drachten
+Moleneind ZZ,95,"",12,9203ZX,Drachten
+Moleneind ZZ,95,"",12,9203ZX,Drachten
+Moleneind ZZ,95,"",12,9203ZX,Drachten
+Moleneind ZZ,95,"",13,9203ZX,Drachten
+Moleneind ZZ,95,"",13,9203ZX,Drachten
+Moleneind ZZ,95,"",13,9203ZX,Drachten
+Moleneind ZZ,95,"",14,9203ZX,Drachten
+Moleneind ZZ,95,"",14,9203ZX,Drachten
+Moleneind ZZ,95,"",14,9203ZX,Drachten
+Moleneind ZZ,95,"",15,9203ZX,Drachten
+Moleneind ZZ,95,"",15,9203ZX,Drachten
+Moleneind ZZ,95,"",15,9203ZX,Drachten
+Moleneind ZZ,95,"",16,9203ZX,Drachten
+Moleneind ZZ,95,"",16,9203ZX,Drachten
+Moleneind ZZ,95,"",16,9203ZX,Drachten
+Moleneind ZZ,95,"",17,9203ZX,Drachten
+Moleneind ZZ,95,"",17,9203ZX,Drachten
+Moleneind ZZ,95,"",17,9203ZX,Drachten
+Moleneind ZZ,95,"",18,9203ZX,Drachten
+Moleneind ZZ,95,"",18,9203ZX,Drachten
+Moleneind ZZ,95,"",18,9203ZX,Drachten
+Moleneind ZZ,95,"",19,9203ZX,Drachten
+Moleneind ZZ,95,"",19,9203ZX,Drachten
+Moleneind ZZ,95,"",19,9203ZX,Drachten
+Moleneind ZZ,95,"",2,9203ZX,Drachten
+Moleneind ZZ,95,"",2,9203ZX,Drachten
+Moleneind ZZ,95,"",2,9203ZX,Drachten
+Moleneind ZZ,95,"",3,9203ZX,Drachten
+Moleneind ZZ,95,"",3,9203ZX,Drachten
+Moleneind ZZ,95,"",3,9203ZX,Drachten
+Moleneind ZZ,95,"",4,9203ZX,Drachten
+Moleneind ZZ,95,"",4,9203ZX,Drachten
+Moleneind ZZ,95,"",4,9203ZX,Drachten
+Moleneind ZZ,95,"",5,9203ZX,Drachten
+Moleneind ZZ,95,"",5,9203ZX,Drachten
+Moleneind ZZ,95,"",5,9203ZX,Drachten
+Moleneind ZZ,95,"",6,9203ZX,Drachten
+Moleneind ZZ,95,"",6,9203ZX,Drachten
+Moleneind ZZ,95,"",6,9203ZX,Drachten
+Moleneind ZZ,95,"",7,9203ZX,Drachten
+Moleneind ZZ,95,"",7,9203ZX,Drachten
+Moleneind ZZ,95,"",7,9203ZX,Drachten
+Moleneind ZZ,95,"",8,9203ZX,Drachten
+Moleneind ZZ,95,"",8,9203ZX,Drachten
+Moleneind ZZ,95,"",8,9203ZX,Drachten
+Moleneind ZZ,95,"",9,9203ZX,Drachten
+Moleneind ZZ,95,"",9,9203ZX,Drachten
+Moleneind ZZ,95,"",9,9203ZX,Drachten
+Moleneind ZZ,97,"","",9203ZX,Drachten
+Moleneind ZZ,99,"","",9203ZX,Drachten
+Moleneind ZZ,161,"","",9203ZZ,Drachten
+Moleneind ZZ,163,"","",9203ZZ,Drachten
+Moleneind ZZ,165,"","",9203ZZ,Drachten
+Moleneind ZZ,171,"","",9203ZZ,Drachten
+Moleneind ZZ,173,"","",9203ZZ,Drachten
+Moleneind ZZ,175,"","",9203ZZ,Drachten
+Moleneind ZZ,177,"","",9203ZZ,Drachten
+Moleneind ZZ,177,A,"",9203ZZ,Drachten
+Moleneind ZZ,179,"","",9203ZZ,Drachten
+Moleneind ZZ,181,"","",9203ZZ,Drachten
+Moleneind ZZ,183,"","",9203ZZ,Drachten
+Moleneind ZZ,185,"","",9203ZZ,Drachten
+Moleneind ZZ,187,"","",9203ZZ,Drachten
+Moleneind ZZ,189,"","",9203ZZ,Drachten
+Moleneind ZZ,189,"","",9203ZZ,Drachten
+Moleneind ZZ,189,"","",9203ZZ,Drachten
+Moleneind ZZ,189,A,"",9203ZZ,Drachten
+Moleneind ZZ,189,A,"",9203ZZ,Drachten
+Moleneind ZZ,189,A,"",9203ZZ,Drachten
+Moleneind ZZ,189,B,"",9203ZZ,Drachten
+Moleneind ZZ,189,B,"",9203ZZ,Drachten
+Moleneind ZZ,189,B,"",9203ZZ,Drachten
+Moleneind ZZ,189,C,"",9203ZZ,Drachten
+Moleneind ZZ,189,D,"",9203ZZ,Drachten
+Moleneind ZZ,191,"","",9203ZZ,Drachten
+Moleneind ZZ,193,"","",9203ZZ,Drachten
+Moleneind ZZ,195,"","",9203ZZ,Drachten
+Moleneind ZZ,197,"","",9203ZZ,Drachten

@@ -1,244 +1,121 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9828PA",213,"",""
-"9828PA",205,"",""
-"9828PA",195,"",""
-"9828PA",199,"a",""
-"9828PA",197,"",""
-"9828PA",197,"a",""
-"9828PA",199,"",""
-"9828PA",201,"",""
-"9828PA",199,"b",""
-"9828PA",203,"",""
-"9828PA",201,"","I"
-"9828PA",207,"",""
-"9828PA",211,"",""
-"9828PA",209,"",""
-"9828PC",267,"",""
-"9828PC",247,"",""
-"9828PC",249,"",""
-"9828PC",265,"a",""
-"9828PC",261,"","II"
-"9828PC",251,"",""
-"9828PC",253,"",""
-"9828PC",245,"",""
-"9828PC",263,"",""
-"9828PC",261,"","3"
-"9828PC",239,"",""
-"9828PC",259,"","2"
-"9828PC",261,"","I"
-"9828PC",259,"","3"
-"9828PC",259,"","4"
-"9828PC",265,"",""
-"9828PC",261,"",""
-"9828PC",243,"",""
-"9828PC",255,"",""
-"9828PC",241,"",""
-"9828PC",257,"",""
-"9828PC",259,"","1"
-"9828PD",242,"",""
-"9828PD",240,"",""
-"9828PD",244,"",""
-"9828PD",250,"","BEGR"
-"9828PD",250,"",""
-"9828PD",250,"","IV"
-"9828PD",232,"",""
-"9828PD",220,"",""
-"9828PD",252,"",""
-"9828PD",250,"","I"
-"9828PD",228,"e",""
-"9828PD",250,"","IACH"
-"9828PD",248,"",""
-"9828PD",246,"",""
-"9828PD",234,"",""
-"9828PD",238,"",""
-"9828PD",250,"","IACH"
-"9828PD",250,"","III"
-"9828PD",216,"",""
-"9828PD",222,"",""
-"9828PD",226,"",""
-"9828PD",250,"","II"
-"9828PD",250,"","IV"
-"9828PD",236,"",""
-"9828PD",224,"",""
-"9828PD",228,"",""
-"9828PE",270,"",""
-"9828PE",254,"",""
-"9828PE",268,"",""
-"9828PE",254,"","I"
-"9828PE",266,"",""
-"9828PE",262,"",""
-"9828PE",270,"a",""
-"9828PE",270,"d",""
-"9828PE",272,"",""
-"9828PE",270,"a",""
-"9828PE",256,"",""
-"9828PE",270,"d",""
-"9828PE",270,"c",""
-"9828PE",270,"c",""
-"9828PE",260,"",""
-"9828PE",264,"",""
-"9828PE",270,"b",""
-"9828PE",270,"b",""
-"9828PE",254,"","II"
-"9828PE",270,"d",""
-"9828PE",258,"",""
-"9828PR",6,"",""
-"9828PR",9,"",""
-"9828PR",1,"",""
-"9828PR",2,"",""
-"9828PR",1,"b",""
-"9828PR",3,"",""
-"9828PR",2,"","I"
-"9828PR",8,"",""
-"9828PR",5,"",""
-"9828PR",1,"a",""
-"9828PR",4,"",""
-"9828TA",1,"",""
-"9828TA",4,"",""
-"9828TA",3,"",""
-"9828TA",3,"a",""
-"9828TA",3,"",""
-"9828TA",5,"",""
-"9828TC",36,"",""
-"9828TC",36,"",""
-"9828TC",32,"",""
-"9828TC",50,"",""
-"9828TC",48,"","by"
-"9828TC",34,"",""
-"9828TC",38,"",""
-"9828TC",36,"",""
-"9828TC",28,"",""
-"9828TC",46,"",""
-"9828TC",36,"",""
-"9828TC",36,"",""
-"9828TC",48,"",""
-"9828TC",28,"",""
-"9828TC",40,"","I"
-"9828TC",40,"",""
-"9828TC",42,"",""
-"9828TC",36,"",""
-"9828TC",36,"",""
-"9828TC",44,"",""
-9828TA,E,3,a,
-9828TA,E,3,,
-9828TA,E,1,,
-9828TA,E,4,,
-9828TA,E,5,,
-9828TC,Hoendiep ZZ,40,,I
-9828TC,Hoendiep ZZ,48,,by
-9828TC,Hoendiep ZZ,28,,
-9828TC,Hoendiep ZZ,32,,
-9828TC,Hoendiep ZZ,34,,
-9828TC,Hoendiep ZZ,36,,
-9828TC,Hoendiep ZZ,38,,
-9828TC,Hoendiep ZZ,40,,
-9828TC,Hoendiep ZZ,42,,
-9828TC,Hoendiep ZZ,44,,
-9828TC,Hoendiep ZZ,46,,
-9828TC,Hoendiep ZZ,48,,
-9828TC,Hoendiep ZZ,50,,
-9828PA,Hoofdstraat,197,a,
-9828PA,Hoofdstraat,199,a,
-9828PA,Hoofdstraat,201,,I
-9828PA,Hoofdstraat,199,b,
-9828PA,Hoofdstraat,195,,
-9828PA,Hoofdstraat,197,,
-9828PA,Hoofdstraat,199,,
-9828PA,Hoofdstraat,201,,
-9828PA,Hoofdstraat,203,,
-9828PA,Hoofdstraat,205,,
-9828PA,Hoofdstraat,207,,
-9828PA,Hoofdstraat,209,,
-9828PA,Hoofdstraat,211,,
-9828PA,Hoofdstraat,213,,
-9828PC,Hoofdstraat,259,,3
-9828PC,Hoofdstraat,259,,1
-9828PC,Hoofdstraat,259,,4
-9828PC,Hoofdstraat,259,,2
-9828PC,Hoofdstraat,261,,II
-9828PC,Hoofdstraat,261,,I
-9828PC,Hoofdstraat,261,,3
-9828PC,Hoofdstraat,265,a,
-9828PC,Hoofdstraat,243,,
-9828PC,Hoofdstraat,239,,
-9828PC,Hoofdstraat,241,,
-9828PC,Hoofdstraat,245,,
-9828PC,Hoofdstraat,247,,
-9828PC,Hoofdstraat,249,,
-9828PC,Hoofdstraat,251,,
-9828PC,Hoofdstraat,253,,
-9828PC,Hoofdstraat,255,,
-9828PC,Hoofdstraat,257,,
-9828PC,Hoofdstraat,261,,
-9828PC,Hoofdstraat,263,,
-9828PC,Hoofdstraat,265,,
-9828PC,Hoofdstraat,267,,
-9828PD,Hoofdstraat,228,e,
-9828PD,Hoofdstraat,232,,
-9828PD,Hoofdstraat,250,,BEGR
-9828PD,Hoofdstraat,250,,III
-9828PD,Hoofdstraat,250,,I
-9828PD,Hoofdstraat,250,,IACH
-9828PD,Hoofdstraat,250,,IV
-9828PD,Hoofdstraat,250,,II
-9828PD,Hoofdstraat,216,,
-9828PD,Hoofdstraat,220,,
-9828PD,Hoofdstraat,222,,
-9828PD,Hoofdstraat,224,,
-9828PD,Hoofdstraat,226,,
-9828PD,Hoofdstraat,228,,
-9828PD,Hoofdstraat,234,,
-9828PD,Hoofdstraat,236,,
-9828PD,Hoofdstraat,238,,
-9828PD,Hoofdstraat,240,,
-9828PD,Hoofdstraat,244,,
-9828PD,Hoofdstraat,246,,
-9828PD,Hoofdstraat,248,,
-9828PD,Hoofdstraat,250,,
-9828PD,Hoofdstraat,252,,
-9828PE,Hoofdstraat,270,a,
-9828PE,Hoofdstraat,270,a,
-9828PE,Hoofdstraat,270,b,
-9828PE,Hoofdstraat,270,b,
-9828PE,Hoofdstraat,270,c,
-9828PE,Hoofdstraat,270,c,
-9828PE,Hoofdstraat,270,d,
-9828PE,Hoofdstraat,270,d,
-9828PE,Hoofdstraat,254,,II
-9828PE,Hoofdstraat,254,,I
-9828PE,Hoofdstraat,254,,
-9828PE,Hoofdstraat,256,,
-9828PE,Hoofdstraat,258,,
-9828PE,Hoofdstraat,260,,
-9828PE,Hoofdstraat,262,,
-9828PE,Hoofdstraat,264,,
-9828PE,Hoofdstraat,266,,
-9828PE,Hoofdstraat,268,,
-9828PE,Hoofdstraat,270,,
-9828PE,Hoofdstraat,272,,
-9828PR,Kerkeweg,1,a,
-9828PR,Kerkeweg,2,,I
-9828PR,Kerkeweg,1,b,
-9828PR,Kerkeweg,5,,
-9828PR,Kerkeweg,6,,
-9828PR,Kerkeweg,8,,
-9828PR,Kerkeweg,9,,
-9828TC,Hoendiep ZZ,36,,
-9828TC,Hoendiep ZZ,36,,
-9828TC,Hoendiep ZZ,36,,
-9828PD,Hoofdstraat,242,,
-9828PR,Kerkeweg,1,,
-9828PR,Kerkeweg,2,,
-9828PR,Kerkeweg,3,,
-9828PR,Kerkeweg,4,,
-9828TA,E,3,,
-9828TA,E,3,,
-9828TA,E,3,,
-9828TA,E,1,A,
-9828TC,Hoendiep ZZ,28,,
-9828TC,Hoendiep ZZ,28,,
-9828TC,Hoendiep ZZ,26,,
-9828PC,Hoofdstraat,261,,
-9828PC,Hoofdstraat,261,,
-9828PE,Hoofdstraat,270,a,1
-9828PE,Hoofdstraat,270,d,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hoofdstraat,195,"","",9828PA,Oostwold
+Hoofdstraat,197,"","",9828PA,Oostwold
+Hoofdstraat,197,A,"",9828PA,Oostwold
+Hoofdstraat,199,"","",9828PA,Oostwold
+Hoofdstraat,199,A,"",9828PA,Oostwold
+Hoofdstraat,199,B,"",9828PA,Oostwold
+Hoofdstraat,201,"","",9828PA,Oostwold
+Hoofdstraat,201,"",I,9828PA,Oostwold
+Hoofdstraat,203,"","",9828PA,Oostwold
+Hoofdstraat,205,"","",9828PA,Oostwold
+Hoofdstraat,207,"","",9828PA,Oostwold
+Hoofdstraat,209,"","",9828PA,Oostwold
+Hoofdstraat,211,"","",9828PA,Oostwold
+Hoofdstraat,213,"","",9828PA,Oostwold
+Hoofdstraat,239,"","",9828PC,Oostwold
+Hoofdstraat,241,"","",9828PC,Oostwold
+Hoofdstraat,243,"","",9828PC,Oostwold
+Hoofdstraat,245,"","",9828PC,Oostwold
+Hoofdstraat,247,"","",9828PC,Oostwold
+Hoofdstraat,249,"","",9828PC,Oostwold
+Hoofdstraat,251,"","",9828PC,Oostwold
+Hoofdstraat,253,"","",9828PC,Oostwold
+Hoofdstraat,255,"","",9828PC,Oostwold
+Hoofdstraat,257,"","",9828PC,Oostwold
+Hoofdstraat,259,"",1,9828PC,Oostwold
+Hoofdstraat,259,"",2,9828PC,Oostwold
+Hoofdstraat,259,"",3,9828PC,Oostwold
+Hoofdstraat,259,"",4,9828PC,Oostwold
+Hoofdstraat,261,"","",9828PC,Oostwold
+Hoofdstraat,261,"",3,9828PC,Oostwold
+Hoofdstraat,261,"",I,9828PC,Oostwold
+Hoofdstraat,261,"",II,9828PC,Oostwold
+Hoofdstraat,263,"","",9828PC,Oostwold
+Hoofdstraat,265,"","",9828PC,Oostwold
+Hoofdstraat,265,A,"",9828PC,Oostwold
+Hoofdstraat,267,"","",9828PC,Oostwold
+Hoofdstraat,216,"","",9828PD,Oostwold
+Hoofdstraat,220,"","",9828PD,Oostwold
+Hoofdstraat,222,"","",9828PD,Oostwold
+Hoofdstraat,224,"","",9828PD,Oostwold
+Hoofdstraat,226,"","",9828PD,Oostwold
+Hoofdstraat,228,"","",9828PD,Oostwold
+Hoofdstraat,228,E,"",9828PD,Oostwold
+Hoofdstraat,232,"","",9828PD,Oostwold
+Hoofdstraat,234,"","",9828PD,Oostwold
+Hoofdstraat,236,"","",9828PD,Oostwold
+Hoofdstraat,238,"","",9828PD,Oostwold
+Hoofdstraat,240,"","",9828PD,Oostwold
+Hoofdstraat,242,"","",9828PD,Oostwold
+Hoofdstraat,244,"","",9828PD,Oostwold
+Hoofdstraat,246,"","",9828PD,Oostwold
+Hoofdstraat,248,"","",9828PD,Oostwold
+Hoofdstraat,250,"","",9828PD,Oostwold
+Hoofdstraat,250,"",BEGR,9828PD,Oostwold
+Hoofdstraat,250,"",I,9828PD,Oostwold
+Hoofdstraat,250,"",IACH,9828PD,Oostwold
+Hoofdstraat,250,"",IACH,9828PD,Oostwold
+Hoofdstraat,250,"",II,9828PD,Oostwold
+Hoofdstraat,250,"",III,9828PD,Oostwold
+Hoofdstraat,250,"",IV,9828PD,Oostwold
+Hoofdstraat,250,"",IV,9828PD,Oostwold
+Hoofdstraat,252,"","",9828PD,Oostwold
+Hoofdstraat,254,"","",9828PE,Oostwold
+Hoofdstraat,254,"",I,9828PE,Oostwold
+Hoofdstraat,254,"",II,9828PE,Oostwold
+Hoofdstraat,256,"","",9828PE,Oostwold
+Hoofdstraat,258,"","",9828PE,Oostwold
+Hoofdstraat,260,"","",9828PE,Oostwold
+Hoofdstraat,262,"","",9828PE,Oostwold
+Hoofdstraat,264,"","",9828PE,Oostwold
+Hoofdstraat,266,"","",9828PE,Oostwold
+Hoofdstraat,268,"","",9828PE,Oostwold
+Hoofdstraat,270,"","",9828PE,Oostwold
+Hoofdstraat,270,A,"",9828PE,Oostwold
+Hoofdstraat,270,A,"",9828PE,Oostwold
+Hoofdstraat,270,B,"",9828PE,Oostwold
+Hoofdstraat,270,B,"",9828PE,Oostwold
+Hoofdstraat,270,C,"",9828PE,Oostwold
+Hoofdstraat,270,C,"",9828PE,Oostwold
+Hoofdstraat,270,D,"",9828PE,Oostwold
+Hoofdstraat,270,D,"",9828PE,Oostwold
+Hoofdstraat,270,D,"",9828PE,Oostwold
+Hoofdstraat,272,"","",9828PE,Oostwold
+Kerkeweg,1,"","",9828PR,Oostwold
+Kerkeweg,1,A,"",9828PR,Oostwold
+Kerkeweg,1,B,"",9828PR,Oostwold
+Kerkeweg,2,"","",9828PR,Oostwold
+Kerkeweg,2,"",I,9828PR,Oostwold
+Kerkeweg,3,"","",9828PR,Oostwold
+Kerkeweg,4,"","",9828PR,Oostwold
+Kerkeweg,5,"","",9828PR,Oostwold
+Kerkeweg,6,"","",9828PR,Oostwold
+Kerkeweg,8,"","",9828PR,Oostwold
+Kerkeweg,9,"","",9828PR,Oostwold
+E,1,"","",9828TA,Oostwold
+E,3,"","",9828TA,Oostwold
+E,3,"","",9828TA,Oostwold
+E,3,A,"",9828TA,Oostwold
+E,4,"","",9828TA,Oostwold
+E,5,"","",9828TA,Oostwold
+Hoendiep ZZ,28,"","",9828TC,Oostwold
+Hoendiep ZZ,28,"","",9828TC,Oostwold
+Hoendiep ZZ,32,"","",9828TC,Oostwold
+Hoendiep ZZ,34,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,36,"","",9828TC,Oostwold
+Hoendiep ZZ,38,"","",9828TC,Oostwold
+Hoendiep ZZ,40,"","",9828TC,Oostwold
+Hoendiep ZZ,40,"",I,9828TC,Oostwold
+Hoendiep ZZ,42,"","",9828TC,Oostwold
+Hoendiep ZZ,44,"","",9828TC,Oostwold
+Hoendiep ZZ,46,"","",9828TC,Oostwold
+Hoendiep ZZ,48,"","",9828TC,Oostwold
+Hoendiep ZZ,48,"",BY,9828TC,Oostwold
+Hoendiep ZZ,50,"","",9828TC,Oostwold

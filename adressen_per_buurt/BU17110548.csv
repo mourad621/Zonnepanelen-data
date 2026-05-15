@@ -1,20 +1,20 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6101AB,Havenweg,18,,
-6101AB,Havenweg,3,,
-6101AB,Havenweg,4,,
-6101AB,Havenweg,6,,
-6101AB,Havenweg,8,,
-6101AB,Havenweg,30,,
-6101AB,Havenweg,30,A,
-6101AA,Oude Lakerweg,30,,
-6101AA,Oude Lakerweg,4,,
-6101AB,Havenweg,8,A,
-6101AB,Havenweg,40,,
-6101AB,Havenweg,42,,
-6101AB,Havenweg,44,,
-6101AB,Havenweg,46,,
-6101AB,Havenweg,48,,
-6101AB,Havenweg,50,,
-6101AA,Oude Lakerweg,2,,
-6101AA,Oude Lakerweg,26,,
-6101AB,Kerkstraat,103,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oude Lakerweg,2,"","",6101AA,Echt
+Oude Lakerweg,26,"","",6101AA,Echt
+Oude Lakerweg,30,"","",6101AA,Echt
+Oude Lakerweg,4,"","",6101AA,Echt
+Kerkstraat,103,"","",6101AB,Koningsbosch
+Havenweg,18,"","",6101AB,Echt
+Havenweg,3,"","",6101AB,Echt
+Havenweg,30,"","",6101AB,Echt
+Havenweg,30,A,"",6101AB,Echt
+Havenweg,4,"","",6101AB,Echt
+Havenweg,40,"","",6101AB,Echt
+Havenweg,42,"","",6101AB,Echt
+Havenweg,44,"","",6101AB,Echt
+Havenweg,46,"","",6101AB,Echt
+Havenweg,48,"","",6101AB,Echt
+Havenweg,50,"","",6101AB,Echt
+Havenweg,6,"","",6101AB,Echt
+Havenweg,8,"","",6101AB,Echt
+Havenweg,8,A,"",6101AB,Echt

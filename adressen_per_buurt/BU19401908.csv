@@ -1,408 +1,192 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8501CP",66,"",""
-"8501CP",74,"",""
-"8501CP",76,"a",""
-"8501CP",70,"",""
-"8501CP",68,"",""
-"8501CP",76,"",""
-"8501CP",72,"",""
-"8501CP",64,"",""
-"8501CP",78,"",""
-"8501CP",76,"a",""
-"8501XC",9,"a",""
-"8501XC",2,"a",""
-"8501XC",2,"",""
-"8501XC",9,"",""
-"8501XC",6,"",""
-"8501XC",1,"",""
-"8501XC",25,"",""
-"8501XC",31,"",""
-"8501XC",27,"",""
-"8501XC",4,"",""
-"8501XC",29,"",""
-"8501XC",9,"b",""
-"8501XC",10,"",""
-"8501XC",13,"",""
-"8501XC",8,"",""
-"8501XC",10,"",""
-"8501XC",11,"",""
-"8501XE",2,"b",""
-"8501XE",2,"a",""
-"8501XE",2,"d",""
-"8501XE",4,"a",""
-"8501XE",2,"b",""
-"8501XE",2,"c",""
-"8501XE",2,"d",""
-"8501XE",4,"",""
-"8501XE",6,"",""
-"8501XE",2,"",""
-"8501XE",2,"f",""
-"8501XE",8,"",""
-"8501XE",2,"e",""
-"8501XE",3,"a",""
-"8501XE",2,"",""
-"8501XE",3,"",""
-"8501XE",2,"c",""
-"8501XE",2,"f",""
-"8501XE",2,"e",""
-"8501XG",7,"",""
-"8501XG",5,"",""
-"8501XG",1,"",""
-"8501XG",9,"",""
-"8501XG",3,"",""
-"8501XG",1,"a",""
-"8501XH",8,"",""
-"8501XH",23,"",""
-"8501XH",11,"",""
-"8501XH",21,"a",""
-"8501XH",5,"","IV"
-"8501XH",5,"","0001"
-"8501XH",17,"",""
-"8501XH",15,"",""
-"8501XH",5,"","III"
-"8501XH",5,"","I"
-"8501XH",8,"a",""
-"8501XH",5,"",""
-"8501XH",5,"","II"
-"8501XH",2,"",""
-"8501XH",21,"",""
-"8501XH",7,"",""
-"8501XH",10,"",""
-"8501XH",19,"",""
-"8501XH",5,"","I"
-"8501XH",9,"",""
-"8501XH",13,"",""
-"8501XH",5,"","III"
-"8501XH",1,"a",""
-"8501XH",21,"",""
-"8501XH",1,"",""
-"8501XH",6,"",""
-"8501XH",5,"","IV"
-"8501XH",4,"b",""
-"8501XH",4,"a",""
-"8501XH",6,"a",""
-"8501XH",5,"",""
-"8501XH",4,"",""
-"8501XH",5,"","0003"
-"8501XH",5,"","0002"
-"8501XH",5,"","0004"
-"8501XK",2,"d",""
-"8501XK",1,"",""
-"8501XK",2,"c",""
-"8501XK",2,"B",""
-"8501XK",2,"b",""
-"8501XK",2,"","0001"
-"8501XK",2,"",""
-"8501XK",2,"D",""
-"8501XK",2,"C",""
-"8501XK",2,"","0002"
-"8501XM",4,"a",""
-"8501XM",4,"",""
-"8501XM",4,"b",""
-"8501XM",2,"",""
-"8501XM",4,"f",""
-"8501XM",5,"",""
-"8501XM",24,"",""
-"8501XM",16,"",""
-"8501XM",1,"",""
-"8501XM",18,"",""
-"8501XM",20,"",""
-"8501XM",4,"a",""
-"8501XM",7,"",""
-"8501XM",14,"",""
-"8501XM",22,"",""
-"8501XM",5,"a",""
-"8501XM",8,"b",""
-"8501XM",4,"c",""
-"8501XM",12,"",""
-"8501XM",8,"",""
-"8501XM",4,"e",""
-"8501XM",4,"c",""
-"8501XM",4,"e",""
-"8501XM",16,"","0001"
-"8501XM",3,"",""
-"8501XM",4,"d",""
-"8501XM",11,"",""
-"8501XM",4,"b",""
-"8501XM",6,"",""
-"8501XM",10,"",""
-"8501XM",4,"f",""
-"8501XM",18,"",""
-"8501XM",4,"d",""
-"8501XM",9,"",""
-"8501XP",2,"",""
-"8501XP",5,"",""
-"8501XP",1,"",""
-"8501XP",3,"",""
-"8501XP",7,"",""
-"8501XP",8,"",""
-"8501XP",6,"",""
-"8501XP",4,"",""
-"8501XP",6,"",""
-"8503AA",3,"a",""
-"8503AA",8,"",""
-"8503AA",2,"",""
-"8503AA",6,"",""
-"8503AA",3,"",""
-"8503AA",8,"",""
-"8503AA",1,"",""
-"8503AA",4,"",""
-"8503AB",5,"",""
-"8503AB",16,"",""
-"8503AB",24,"",""
-"8503AB",2,"",""
-"8503AB",14,"",""
-"8503AB",10,"",""
-"8503AB",1,"",""
-"8503AB",6,"",""
-"8503AB",16,"",""
-"8503AB",4,"a",""
-"8503AB",16,"",""
-"8503AB",4,"",""
-"8503AB",12,"",""
-"8503AB",3,"",""
-"8503AC",1,"c",""
-"8503AC",11,"",""
-"8503AC",8,"",""
-"8503AC",7,"",""
-"8503AC",9,"",""
-"8503AC",1,"",""
-"8503AC",10,"",""
-"8503AC",5,"",""
-"8503AC",2,"",""
-"8503AC",5,"",""
-"8503AC",3,"",""
-"8503AC",7,"",""
-"8503AD",2,"",""
-"8503AD",12,"",""
-"8503AD",8,"",""
-"8503AE",2,"",""
-"8503AG",1,"",""
-"8503AH",11,"",""
-"8503BA",9,"",""
-"8503BA",14,"",""
-"8503BA",14,"",""
-"8503BA",10,"",""
-"8503BA",7,"",""
-"8503BA",11,"",""
-"8503BA",5,"a",""
-"8503BA",10,"a",""
-"8503BA",13,"",""
-"8503BA",5,"",""
-"8503BA",12,"",""
-8501XE,Albert Einsteinweg,8,,
-8501XE,Albert Einsteinweg,6,,
-8501XE,Albert Einsteinweg,3,,
-8501XE,Albert Einsteinweg,4,a,
-8501XK,Mercatorweg,2,,
-8501XK,Mercatorweg,1,,
-8501XM,Marconiweg,2,,
-8501XM,Marconiweg,4,b,
-8501XM,Marconiweg,4,c,
-8501XM,Marconiweg,4,d,
-8501XM,Marconiweg,4,f,
-8501XM,Marconiweg,6,,
-8501XM,Marconiweg,8,b,
-8501XM,Marconiweg,3,,
-8501XM,Marconiweg,5,,
-8501XM,Marconiweg,14,,
-8501XM,Marconiweg,7,,
-8501XM,Marconiweg,9,,
-8501XM,Marconiweg,24,,
-8503AD,Morseweg,12,,
-8501CP,Harddraversweg,76,,
-8501CP,Harddraversweg,78,,
-8501CP,Harddraversweg,74,,
-8501CP,Harddraversweg,72,,
-8501CP,Harddraversweg,70,,
-8501CP,Harddraversweg,68,,
-8501CP,Harddraversweg,66,,
-8501XG,Edisonweg,1,a,
-8501XG,Edisonweg,3,,
-8501XG,Edisonweg,9,,
-8501XG,Edisonweg,5,,
-8503AB,Pasteurweg,5,,
-8503AB,Pasteurweg,3,,
-8503AB,Pasteurweg,2,,
-8503AB,Pasteurweg,16,,
-8503AB,Pasteurweg,1,,
-8501XE,Albert Einsteinweg,2,c,
-8501XE,Albert Einsteinweg,2,d,
-8501XP,Voltahof,6,,
-8501XP,Voltahof,8,,
-8501XP,Voltahof,7,,
-8501XP,Voltahof,3,,
-8501XP,Voltahof,1,,
-8501XP,Voltahof,2,,
-8503AA,Woudfennen,1,,
-8503AA,Woudfennen,3,,
-8503AA,Woudfennen,3,a,
-8503AA,Woudfennen,4,,
-8503AA,Woudfennen,6,,
-8503AA,Woudfennen,8,,
-8503BA,Woudfennen,11,,
-8503BA,Woudfennen,13,,
-8503BA,Woudfennen,5,,
-8503BA,Woudfennen,7,,
-8503BA,Woudfennen,12,,
-8503BA,Woudfennen,14,,
-8503BA,Woudfennen,10,,
-8503BA,Woudfennen,10,a,
-8503BA,Woudfennen,9,,
-8501XC,Madame Curieweg,1,,
-8501XC,Madame Curieweg,31,,
-8501XC,Madame Curieweg,29,,
-8501XC,Madame Curieweg,9,a,
-8501XC,Madame Curieweg,9,b,
-8501XC,Madame Curieweg,11,,
-8501XC,Madame Curieweg,6,,
-8501XC,Madame Curieweg,8,,
-8501XC,Madame Curieweg,9,,
-8501XC,Madame Curieweg,13,,
-8501XH,Nipkowweg,21,,
-8501XH,Nipkowweg,23,,
-8501XH,Nipkowweg,13,,
-8501XH,Nipkowweg,9,,
-8501XH,Nipkowweg,7,,
-8501XH,Nipkowweg,1,,
-8501XH,Nipkowweg,2,,
-8501XH,Nipkowweg,4,b,
-8501XH,Nipkowweg,8,,
-8501XH,Nipkowweg,6,,
-8501XH,Nipkowweg,10,,
-8501XH,Nipkowweg,5,,
-8501XH,Nipkowweg,17,,
-8501XH,Nipkowweg,11,,
-8501XH,Nipkowweg,1,a,
-8501XH,Nipkowweg,19,,
-8501XH,Nipkowweg,4,,
-8501XM,Marconiweg,18,,
-8501XM,Marconiweg,18,,
-8501XM,Marconiweg,20,,
-8501XM,Marconiweg,4,a,
-8501XM,Marconiweg,4,e,
-8501XM,Marconiweg,1,,
-8501XM,Marconiweg,12,,
-8501XM,Marconiweg,22,,
-8501XM,Marconiweg,5,a,
-8501XM,Marconiweg,8,,
-8501XM,Marconiweg,10,,
-8501XM,Marconiweg,16,,
-8501XM,Marconiweg,16,,0001
-8501XM,Marconiweg,11,,
-8501XM,Marconiweg,4,,
-8503AD,Morseweg,2,,
-8503AD,Morseweg,8,,
-8503AH,Morseweg,11,,
-8501CP,Harddraversweg,64,,
-8501CP,Harddraversweg,76,a,
-8501CP,Harddraversweg,76,a,
-8501XG,Edisonweg,1,,
-8501XG,Edisonweg,7,,
-8503AE,Fahrenheitweg,2,,
-8503AB,Pasteurweg,10,,
-8503AB,Pasteurweg,6,,
-8503AB,Pasteurweg,16,,
-8503AB,Pasteurweg,14,,
-8503AB,Pasteurweg,4,,
-8503AB,Pasteurweg,12,,
-8503AB,Pasteurweg,24,,
-8503AB,Pasteurweg,4,a,
-8501XE,Albert Einsteinweg,2,a,
-8501XE,Albert Einsteinweg,4,,
-8501XE,Albert Einsteinweg,3,a,
-8501XE,Albert Einsteinweg,2,f,
-8501XE,Albert Einsteinweg,2,,
-8501XE,Albert Einsteinweg,2,b,
-8501XE,Albert Einsteinweg,2,e,
-8503AG,Röntgenweg,1,,
-8501XP,Voltahof,4,,
-8501XP,Voltahof,5,,
-8503AA,Woudfennen,2,,
-8503BA,Woudfennen,5,a,
-8501XC,Madame Curieweg,4,,
-8501XC,Madame Curieweg,25,,
-8501XC,Madame Curieweg,27,,
-8501XC,Madame Curieweg,2,,
-8501XC,Madame Curieweg,10,,
-8501XC,Madame Curieweg,2,a,
-8501XK,Mercatorweg,2,,0001
-8501XK,Mercatorweg,2,,0002
-8501XK,Mercatorweg,2,B,
-8501XK,Mercatorweg,2,b,
-8501XK,Mercatorweg,2,C,
-8501XK,Mercatorweg,2,c,
-8501XK,Mercatorweg,2,D,
-8501XK,Mercatorweg,2,d,
-8503AC,Celsiusweg,1,,
-8503AC,Celsiusweg,7,,
-8503AC,Celsiusweg,11,,
-8503AC,Celsiusweg,5,,
-8503AC,Celsiusweg,3,,
-8503AC,Celsiusweg,1,c,
-8503AC,Celsiusweg,2,,
-8503AC,Celsiusweg,8,,
-8503AC,Celsiusweg,10,,
-8501XH,Nipkowweg,15,,
-8501XH,Nipkowweg,6,a,
-8501XH,Nipkowweg,5,,0002
-8501XH,Nipkowweg,5,,II
-8501XH,Nipkowweg,5,,0003
-8501XH,Nipkowweg,5,,III
-8501XH,Nipkowweg,5,,0004
-8501XH,Nipkowweg,5,,IV
-8501XH,Nipkowweg,5,,0001
-8501XH,Nipkowweg,5,,I
-8501XH,Nipkowweg,4,a,
-8501XH,Nipkowweg,8,a,
-8501XH,Nipkowweg,21,a,
-8503AE,Fahrenheitweg,6,,
-8503AC,Celsiusweg,13,,
-8501XM,Marconiweg,13,,
-8501XM,Marconiweg,8,A,
-8503AD,Morseweg,16,,
-8503AD,Morseweg,14,,
-8503AD,Morseweg,10,,
-8503AD,Morseweg,10,A,
-8503AD,Morseweg,10,B,
-8503AH,Morseweg,17,,
-8503AH,Morseweg,1,,
-8503AH,Morseweg,9,,
-8503AH,Morseweg,13,,
-8503AE,Fahrenheitweg,19,,
-8503AE,Fahrenheitweg,13,,
-8503AE,Fahrenheitweg,3,,
-8503AE,Fahrenheitweg,15,,
-8503AE,Fahrenheitweg,5,,
-8503AE,Fahrenheitweg,5,A,
-8501XE,Albert Einsteinweg,4,b,
-8501XE,Albert Einsteinweg,2,c,
-8501XE,Albert Einsteinweg,2,d,
-8501XE,Albert Einsteinweg,2,f,
-8503AG,Röntgenweg,2,,
-8503AG,Röntgenweg,8,,
-8503AG,Röntgenweg,2,,
-8503AG,Röntgenweg,10,,
-8503AG,Röntgenweg,4,,
-8503BA,Woudfennen,14,,
-8501XC,Madame Curieweg,10,A,
-8501XC,Madame Curieweg,10,,
-8501XK,Mercatorweg,2,e,
-8501XK,Mercatorweg,2,,0003
-8501XK,Mercatorweg,1,A,
-8503AC,Celsiusweg,9,,
-8503AC,Celsiusweg,12,,
-8503AC,Celsiusweg,14,,
-8503AC,Celsiusweg,4,,
-8501XH,Nipkowweg,19,A,
-8501XH,Nipkowweg,21,b,
-8501XH,Nipkowweg,23,,0001
-8501XH,Nipkowweg,23,,0002
-8501XH,Nipkowweg,23,,0003
-8501XH,Nipkowweg,23,,0004
-8501XH,Nipkowweg,23,,0005
-8501XH,Nipkowweg,23,,0006
-8501XH,Nipkowweg,23,,0007
-8501XH,Nipkowweg,23,,0008
-8501XH,Nipkowweg,23,,0009
-8501XH,Nipkowweg,23,,0010
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Harddraversweg,64,"","",8501CP,Joure
+Harddraversweg,66,"","",8501CP,Joure
+Harddraversweg,68,"","",8501CP,Joure
+Harddraversweg,70,"","",8501CP,Joure
+Harddraversweg,72,"","",8501CP,Joure
+Harddraversweg,74,"","",8501CP,Joure
+Harddraversweg,76,"","",8501CP,Joure
+Harddraversweg,76,A,"",8501CP,Joure
+Harddraversweg,76,A,"",8501CP,Joure
+Harddraversweg,78,"","",8501CP,Joure
+Madame Curieweg,1,"","",8501XC,Joure
+Madame Curieweg,10,"","",8501XC,Joure
+Madame Curieweg,10,"","",8501XC,Joure
+Madame Curieweg,11,"","",8501XC,Joure
+Madame Curieweg,13,"","",8501XC,Joure
+Madame Curieweg,2,"","",8501XC,Joure
+Madame Curieweg,2,A,"",8501XC,Joure
+Madame Curieweg,25,"","",8501XC,Joure
+Madame Curieweg,27,"","",8501XC,Joure
+Madame Curieweg,29,"","",8501XC,Joure
+Madame Curieweg,31,"","",8501XC,Joure
+Madame Curieweg,4,"","",8501XC,Joure
+Madame Curieweg,6,"","",8501XC,Joure
+Madame Curieweg,8,"","",8501XC,Joure
+Madame Curieweg,9,"","",8501XC,Joure
+Madame Curieweg,9,A,"",8501XC,Joure
+Madame Curieweg,9,B,"",8501XC,Joure
+Albert Einsteinweg,2,"","",8501XE,Joure
+Albert Einsteinweg,2,"","",8501XE,Joure
+Albert Einsteinweg,2,A,"",8501XE,Joure
+Albert Einsteinweg,2,B,"",8501XE,Joure
+Albert Einsteinweg,2,B,"",8501XE,Joure
+Albert Einsteinweg,2,C,"",8501XE,Joure
+Albert Einsteinweg,2,C,"",8501XE,Joure
+Albert Einsteinweg,2,D,"",8501XE,Joure
+Albert Einsteinweg,2,D,"",8501XE,Joure
+Albert Einsteinweg,2,E,"",8501XE,Joure
+Albert Einsteinweg,2,E,"",8501XE,Joure
+Albert Einsteinweg,2,F,"",8501XE,Joure
+Albert Einsteinweg,2,F,"",8501XE,Joure
+Albert Einsteinweg,3,"","",8501XE,Joure
+Albert Einsteinweg,3,A,"",8501XE,Joure
+Albert Einsteinweg,4,"","",8501XE,Joure
+Albert Einsteinweg,4,A,"",8501XE,Joure
+Albert Einsteinweg,6,"","",8501XE,Joure
+Albert Einsteinweg,8,"","",8501XE,Joure
+Edisonweg,1,"","",8501XG,Joure
+Edisonweg,1,A,"",8501XG,Joure
+Edisonweg,3,"","",8501XG,Joure
+Edisonweg,5,"","",8501XG,Joure
+Edisonweg,7,"","",8501XG,Joure
+Edisonweg,9,"","",8501XG,Joure
+Nipkowweg,1,"","",8501XH,Joure
+Nipkowweg,1,A,"",8501XH,Joure
+Nipkowweg,10,"","",8501XH,Joure
+Nipkowweg,11,"","",8501XH,Joure
+Nipkowweg,13,"","",8501XH,Joure
+Nipkowweg,15,"","",8501XH,Joure
+Nipkowweg,17,"","",8501XH,Joure
+Nipkowweg,19,"","",8501XH,Joure
+Nipkowweg,2,"","",8501XH,Joure
+Nipkowweg,21,"","",8501XH,Joure
+Nipkowweg,21,"","",8501XH,Joure
+Nipkowweg,21,A,"",8501XH,Joure
+Nipkowweg,23,"","",8501XH,Joure
+Nipkowweg,4,"","",8501XH,Joure
+Nipkowweg,4,A,"",8501XH,Joure
+Nipkowweg,4,B,"",8501XH,Joure
+Nipkowweg,5,"","",8501XH,Joure
+Nipkowweg,5,"","",8501XH,Joure
+Nipkowweg,5,"",0001,8501XH,Joure
+Nipkowweg,5,"",0002,8501XH,Joure
+Nipkowweg,5,"",0003,8501XH,Joure
+Nipkowweg,5,"",0004,8501XH,Joure
+Nipkowweg,5,"",I,8501XH,Joure
+Nipkowweg,5,"",I,8501XH,Joure
+Nipkowweg,5,"",II,8501XH,Joure
+Nipkowweg,5,"",III,8501XH,Joure
+Nipkowweg,5,"",III,8501XH,Joure
+Nipkowweg,5,"",IV,8501XH,Joure
+Nipkowweg,5,"",IV,8501XH,Joure
+Nipkowweg,6,"","",8501XH,Joure
+Nipkowweg,6,A,"",8501XH,Joure
+Nipkowweg,7,"","",8501XH,Joure
+Nipkowweg,8,"","",8501XH,Joure
+Nipkowweg,8,A,"",8501XH,Joure
+Nipkowweg,9,"","",8501XH,Joure
+Mercatorweg,1,"","",8501XK,Joure
+Mercatorweg,2,"","",8501XK,Joure
+Mercatorweg,2,"",0001,8501XK,Joure
+Mercatorweg,2,"",0002,8501XK,Joure
+Mercatorweg,2,B,"",8501XK,Joure
+Mercatorweg,2,B,"",8501XK,Joure
+Mercatorweg,2,C,"",8501XK,Joure
+Mercatorweg,2,C,"",8501XK,Joure
+Mercatorweg,2,D,"",8501XK,Joure
+Mercatorweg,2,D,"",8501XK,Joure
+Marconiweg,1,"","",8501XM,Joure
+Marconiweg,10,"","",8501XM,Joure
+Marconiweg,11,"","",8501XM,Joure
+Marconiweg,12,"","",8501XM,Joure
+Marconiweg,14,"","",8501XM,Joure
+Marconiweg,16,"","",8501XM,Joure
+Marconiweg,16,"",0001,8501XM,Joure
+Marconiweg,18,"","",8501XM,Joure
+Marconiweg,18,"","",8501XM,Joure
+Marconiweg,2,"","",8501XM,Joure
+Marconiweg,20,"","",8501XM,Joure
+Marconiweg,22,"","",8501XM,Joure
+Marconiweg,24,"","",8501XM,Joure
+Marconiweg,3,"","",8501XM,Joure
+Marconiweg,4,"","",8501XM,Joure
+Marconiweg,4,A,"",8501XM,Joure
+Marconiweg,4,A,"",8501XM,Joure
+Marconiweg,4,B,"",8501XM,Joure
+Marconiweg,4,B,"",8501XM,Joure
+Marconiweg,4,C,"",8501XM,Joure
+Marconiweg,4,C,"",8501XM,Joure
+Marconiweg,4,D,"",8501XM,Joure
+Marconiweg,4,D,"",8501XM,Joure
+Marconiweg,4,E,"",8501XM,Joure
+Marconiweg,4,E,"",8501XM,Joure
+Marconiweg,4,F,"",8501XM,Joure
+Marconiweg,4,F,"",8501XM,Joure
+Marconiweg,5,"","",8501XM,Joure
+Marconiweg,5,A,"",8501XM,Joure
+Marconiweg,6,"","",8501XM,Joure
+Marconiweg,7,"","",8501XM,Joure
+Marconiweg,8,"","",8501XM,Joure
+Marconiweg,8,B,"",8501XM,Joure
+Marconiweg,9,"","",8501XM,Joure
+Voltahof,1,"","",8501XP,Joure
+Voltahof,2,"","",8501XP,Joure
+Voltahof,3,"","",8501XP,Joure
+Voltahof,4,"","",8501XP,Joure
+Voltahof,5,"","",8501XP,Joure
+Voltahof,6,"","",8501XP,Joure
+Voltahof,6,"","",8501XP,Joure
+Voltahof,7,"","",8501XP,Joure
+Voltahof,8,"","",8501XP,Joure
+Woudfennen,1,"","",8503AA,Joure
+Woudfennen,2,"","",8503AA,Joure
+Woudfennen,3,"","",8503AA,Joure
+Woudfennen,3,A,"",8503AA,Joure
+Woudfennen,4,"","",8503AA,Joure
+Woudfennen,6,"","",8503AA,Joure
+Woudfennen,8,"","",8503AA,Joure
+Woudfennen,8,"","",8503AA,Joure
+Pasteurweg,1,"","",8503AB,Joure
+Pasteurweg,10,"","",8503AB,Joure
+Pasteurweg,12,"","",8503AB,Joure
+Pasteurweg,14,"","",8503AB,Joure
+Pasteurweg,16,"","",8503AB,Joure
+Pasteurweg,16,"","",8503AB,Joure
+Pasteurweg,16,"","",8503AB,Joure
+Pasteurweg,2,"","",8503AB,Joure
+Pasteurweg,24,"","",8503AB,Joure
+Pasteurweg,3,"","",8503AB,Joure
+Pasteurweg,4,"","",8503AB,Joure
+Pasteurweg,4,A,"",8503AB,Joure
+Pasteurweg,5,"","",8503AB,Joure
+Pasteurweg,6,"","",8503AB,Joure
+Celsiusweg,1,"","",8503AC,Joure
+Celsiusweg,1,C,"",8503AC,Joure
+Celsiusweg,10,"","",8503AC,Joure
+Celsiusweg,11,"","",8503AC,Joure
+Celsiusweg,2,"","",8503AC,Joure
+Celsiusweg,3,"","",8503AC,Joure
+Celsiusweg,5,"","",8503AC,Joure
+Celsiusweg,5,"","",8503AC,Joure
+Celsiusweg,7,"","",8503AC,Joure
+Celsiusweg,7,"","",8503AC,Joure
+Celsiusweg,8,"","",8503AC,Joure
+Celsiusweg,9,"","",8503AC,Joure
+Morseweg,12,"","",8503AD,Joure
+Morseweg,2,"","",8503AD,Joure
+Morseweg,8,"","",8503AD,Joure
+Fahrenheitweg,2,"","",8503AE,Joure
+Röntgenweg,1,"","",8503AG,Joure
+Morseweg,11,"","",8503AH,Joure
+Woudfennen,10,"","",8503BA,Joure
+Woudfennen,10,A,"",8503BA,Joure
+Woudfennen,11,"","",8503BA,Joure
+Woudfennen,12,"","",8503BA,Joure
+Woudfennen,13,"","",8503BA,Joure
+Woudfennen,14,"","",8503BA,Joure
+Woudfennen,14,"","",8503BA,Joure
+Woudfennen,5,"","",8503BA,Joure
+Woudfennen,5,A,"",8503BA,Joure
+Woudfennen,7,"","",8503BA,Joure
+Woudfennen,9,"","",8503BA,Joure

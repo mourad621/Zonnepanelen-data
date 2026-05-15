@@ -1,109 +1,110 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"1358CA",7,"",""
-"1358CC",1,"",""
-"1358CC",3,"",""
-"1358CD",56,"",""
-"1358CD",12,"",""
-"1358CD",14,"",""
-"1358CD",6,"",""
-"1358CD",4,"",""
-"1358CD",10,"",""
-"1358CD",21,"",""
-"1358CD",16,"",""
-"1358CD",54,"",""
-"1358CD",50,"",""
-"1358CD",15,"",""
-"1358CD",1,"",""
-"1358CD",2,"",""
-"1358CD",15,"A",""
-"1358CD",32,"",""
-"1358CD",6,"",""
-"1358CD",18,"",""
-"1358CE",1,"",""
-"1358CE",3,"",""
-"1358CE",2,"",""
-"1358CE",2,"",""
-"1358CE",2,"",""
-"1358CE",6,"",""
-"1358CG",7,"",""
-"1358CG",8,"",""
-"1358CG",10,"",""
-"1358CG",14,"",""
-"1358CG",6,"",""
-"1358CG",3,"",""
-"1358CG",12,"",""
-"1358CG",5,"",""
-"1358CG",22,"",""
-"1358CG",20,"",""
-"1358CH",11,"",""
-"1358DA",7,"",""
-"1358DA",4,"",""
-"1358DA",5,"",""
-"1358DB",18,"",""
-"1358DB",8,"",""
-"1358DB",14,"",""
-"1358DB",20,"",""
-"1358DB",10,"",""
-"1358DB",6,"",""
-"1358DB",12,"",""
-"1358DB",16,"",""
-"1358DB",1,"",""
-"1358DC",2,"",""
-"1358DC",1,"",""
-"1358DD",4,"",""
-"1358DD",5,"",""
-"1358DD",6,"",""
-1358CA,Lijsterweg,7,,
-1358CC,Catharijne,1,,
-1358CD,Wittevrouwen,2,,
-1358CD,Wittevrouwen,4,,
-1358CD,Wittevrouwen,56,,
-1358CD,Wittevrouwen,15,,
-1358DA,Fort Ruigenhoek,7,,
-1358CD,Wittevrouwen,21,,
-1358CD,Wittevrouwen,50,,
-1358CD,Wittevrouwen,6,,
-1358CD,Wittevrouwen,54,,
-1358DB,Fort Blauwkapel,1,,
-1358CD,Wittevrouwen,15,A,
-1358CD,Wittevrouwen,10,,
-1358DC,Fort de Gagel,1,,
-1358DA,Fort Ruigenhoek,5,,
-1358DA,Fort Ruigenhoek,4,,
-1358CD,Wittevrouwen,1,,
-1358CD,Wittevrouwen,12,,
-1358CD,Wittevrouwen,14,,
-1358CD,Wittevrouwen,16,,
-1358CD,Wittevrouwen,18,,
-1358CE,Brigitten,1,,
-1358CE,Brigitten,2,,
-1358CE,Brigitten,3,,
-1358DD,Rhijnauwen,4,,
-1358DD,Rhijnauwen,6,,
-1358DD,Rhijnauwen,5,,
-1358DB,Fort Blauwkapel,6,,
-1358DB,Fort Blauwkapel,8,,
-1358DB,Fort Blauwkapel,10,,
-1358DB,Fort Blauwkapel,12,,
-1358DB,Fort Blauwkapel,14,,
-1358DB,Fort Blauwkapel,16,,
-1358DB,Fort Blauwkapel,18,,
-1358DB,Fort Blauwkapel,20,,
-1358DC,Fort de Gagel,2,,
-1358CG,Sterkenburg,6,,
-1358CG,Sterkenburg,8,,
-1358CG,Sterkenburg,10,,
-1358CG,Sterkenburg,12,,
-1358CG,Sterkenburg,14,,
-1358CG,Sterkenburg,3,,
-1358CG,Sterkenburg,5,,
-1358CG,Sterkenburg,7,,
-1358CC,Catharijne,3,,
-1358CC,Catharijne,5,,
-1358CC,Catharijne,5,,
-1358CD,Wittevrouwen,32,,
-1358CE,Brigitten,6,,
-1358CE,Brigitten,2,,
-1358CG,Sterkenburg,20,,
-1358CG,Sterkenburg,22,,
-1358CH,Mariëndaal,11,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+7,"","","",1358CA,
+Lijsterweg,7,"","",1358CA,Almere
+1,"","","",1358CC,
+3,"","","",1358CC,
+Catharijne,1,"","",1358CC,Almere
+Catharijne,3,"","",1358CC,Almere
+Catharijne,5,"","",1358CC,Almere
+Catharijne,5,"","",1358CC,Almere
+56,"","","",1358CD,
+12,"","","",1358CD,
+14,"","","",1358CD,
+6,"","","",1358CD,
+4,"","","",1358CD,
+10,"","","",1358CD,
+21,"","","",1358CD,
+16,"","","",1358CD,
+54,"","","",1358CD,
+50,"","","",1358CD,
+15,"","","",1358CD,
+1,"","","",1358CD,
+2,"","","",1358CD,
+32,"","","",1358CD,
+6,"","","",1358CD,
+18,"","","",1358CD,
+Wittevrouwen,1,"","",1358CD,Almere
+Wittevrouwen,10,"","",1358CD,Almere
+Wittevrouwen,12,"","",1358CD,Almere
+Wittevrouwen,14,"","",1358CD,Almere
+Wittevrouwen,15,"","",1358CD,Almere
+Wittevrouwen,15,A,"",1358CD,Almere
+Wittevrouwen,16,"","",1358CD,Almere
+Wittevrouwen,18,"","",1358CD,Almere
+Wittevrouwen,2,"","",1358CD,Almere
+Wittevrouwen,21,"","",1358CD,Almere
+Wittevrouwen,32,"","",1358CD,Almere
+Wittevrouwen,4,"","",1358CD,Almere
+Wittevrouwen,50,"","",1358CD,Almere
+Wittevrouwen,54,"","",1358CD,Almere
+Wittevrouwen,56,"","",1358CD,Almere
+Wittevrouwen,6,"","",1358CD,Almere
+15,A,"","",1358CD,
+1,"","","",1358CE,
+3,"","","",1358CE,
+2,"","","",1358CE,
+2,"","","",1358CE,
+2,"","","",1358CE,
+6,"","","",1358CE,
+Brigitten,1,"","",1358CE,Almere
+Brigitten,2,"","",1358CE,Almere
+Brigitten,2,"","",1358CE,Almere
+Brigitten,3,"","",1358CE,Almere
+Brigitten,6,"","",1358CE,Almere
+7,"","","",1358CG,
+8,"","","",1358CG,
+10,"","","",1358CG,
+14,"","","",1358CG,
+6,"","","",1358CG,
+3,"","","",1358CG,
+12,"","","",1358CG,
+5,"","","",1358CG,
+22,"","","",1358CG,
+20,"","","",1358CG,
+Sterkenburg,10,"","",1358CG,Almere
+Sterkenburg,12,"","",1358CG,Almere
+Sterkenburg,14,"","",1358CG,Almere
+Sterkenburg,20,"","",1358CG,Almere
+Sterkenburg,22,"","",1358CG,Almere
+Sterkenburg,3,"","",1358CG,Almere
+Sterkenburg,5,"","",1358CG,Almere
+Sterkenburg,6,"","",1358CG,Almere
+Sterkenburg,7,"","",1358CG,Almere
+Sterkenburg,8,"","",1358CG,Almere
+11,"","","",1358CH,
+Mariëndaal,11,"","",1358CH,Almere
+7,"","","",1358DA,
+4,"","","",1358DA,
+5,"","","",1358DA,
+Fort Ruigenhoek,4,"","",1358DA,Almere
+Fort Ruigenhoek,5,"","",1358DA,Almere
+Fort Ruigenhoek,7,"","",1358DA,Almere
+18,"","","",1358DB,
+8,"","","",1358DB,
+14,"","","",1358DB,
+20,"","","",1358DB,
+10,"","","",1358DB,
+6,"","","",1358DB,
+12,"","","",1358DB,
+16,"","","",1358DB,
+1,"","","",1358DB,
+Fort Blauwkapel,1,"","",1358DB,Almere
+Fort Blauwkapel,10,"","",1358DB,Almere
+Fort Blauwkapel,12,"","",1358DB,Almere
+Fort Blauwkapel,14,"","",1358DB,Almere
+Fort Blauwkapel,16,"","",1358DB,Almere
+Fort Blauwkapel,18,"","",1358DB,Almere
+Fort Blauwkapel,20,"","",1358DB,Almere
+Fort Blauwkapel,6,"","",1358DB,Almere
+Fort Blauwkapel,8,"","",1358DB,Almere
+2,"","","",1358DC,
+1,"","","",1358DC,
+Fort de Gagel,1,"","",1358DC,Almere
+Fort de Gagel,2,"","",1358DC,Almere
+4,"","","",1358DD,
+5,"","","",1358DD,
+6,"","","",1358DD,
+Rhijnauwen,4,"","",1358DD,Almere
+Rhijnauwen,5,"","",1358DD,Almere
+Rhijnauwen,6,"","",1358DD,Almere
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

@@ -1,41 +1,41 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1251SV,Dr. Albert Schweitzerweg,4,,
-1251SV,Dr Albert Schweitzerweg,4,,
-1251SV,Dr Albert Schweitzerweg,4,,
-1251EW,Hilversumseweg,29,,
-1251EW,Hilversumseweg,31,,
-1251EW,Hilversumseweg,33,,
-1251EW,Hilversumseweg,35,,
-1251EW,Hilversumseweg,37,,
-1251EW,Hilversumseweg,43,,
-1251EW,Hilversumseweg,45,,
-1251EW,Hilversumseweg,49,,
-1251EW,Hilversumseweg,49,a,
-1251EW,Hilversumseweg,51,,
-1251EW,Hilversumseweg,51,,nst
-1251EW,Hilversumseweg,51,a,
-1251EW,Hilversumseweg,51,b,
-1251EW,Hilversumseweg,53,,
-1251EW,Hilversumseweg,57,,nst
-1251EW,Hilversumseweg,59,,
-1251EZ,Hilversumseweg,22,,
-1251EZ,Hilversumseweg,24,,
-1251EZ,Hilversumseweg,26,,
-1251EZ,Hilversumseweg,28,,
-1251EZ,Hilversumseweg,32,,
-1251EZ,Hilversumseweg,32,a,
-1251EZ,Hilversumseweg,34,,
-1251EZ,Hilversumseweg,36,,
-1251EZ,Hilversumseweg,38,,
-1251EZ,Hilversumseweg,44,,
-1251EZ,Hilversumseweg,44,,GED
-1251AV,Amersfoortsestraatweg,113,,
-1251SE,Zuiderheide,2,,
-1251AV,Amersfoortsestraatweg,115,,
-1251AV,Amersfoortsestraatweg,117,,
-1251AV,Amersfoortsestraatweg,111,,
-1251AV,Amersfoortsestraatweg,111,,
-1251AV,Amersfoortsestraatweg,117,,
-1251ST,Oude Postweg,1,,
-1251ST,Oude Postweg,1,,
-1251SW,Weg over Anna's Hoeve,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Amersfoortsestraatweg,111,"","",1251AV,Laren
+Amersfoortsestraatweg,111,"","",1251AV,Laren
+Amersfoortsestraatweg,113,"","",1251AV,Laren
+Amersfoortsestraatweg,115,"","",1251AV,Laren
+Amersfoortsestraatweg,117,"","",1251AV,Laren
+Amersfoortsestraatweg,117,"","",1251AV,Laren
+Hilversumseweg,29,"","",1251EW,Laren
+Hilversumseweg,31,"","",1251EW,Laren
+Hilversumseweg,33,"","",1251EW,Laren
+Hilversumseweg,35,"","",1251EW,Laren
+Hilversumseweg,37,"","",1251EW,Laren
+Hilversumseweg,43,"","",1251EW,Laren
+Hilversumseweg,45,"","",1251EW,Laren
+Hilversumseweg,49,"","",1251EW,Laren
+Hilversumseweg,49,A,"",1251EW,Laren
+Hilversumseweg,51,"","",1251EW,Laren
+Hilversumseweg,51,"",NST,1251EW,Laren
+Hilversumseweg,51,A,"",1251EW,Laren
+Hilversumseweg,51,B,"",1251EW,Laren
+Hilversumseweg,53,"","",1251EW,Laren
+Hilversumseweg,57,"",NST,1251EW,Laren
+Hilversumseweg,59,"","",1251EW,Laren
+Hilversumseweg,22,"","",1251EZ,Laren
+Hilversumseweg,24,"","",1251EZ,Laren
+Hilversumseweg,26,"","",1251EZ,Laren
+Hilversumseweg,28,"","",1251EZ,Laren
+Hilversumseweg,32,"","",1251EZ,Laren
+Hilversumseweg,32,A,"",1251EZ,Laren
+Hilversumseweg,34,"","",1251EZ,Laren
+Hilversumseweg,36,"","",1251EZ,Laren
+Hilversumseweg,38,"","",1251EZ,Laren
+Hilversumseweg,44,"","",1251EZ,Laren
+Hilversumseweg,44,"",GED,1251EZ,Laren
+Zuiderheide,2,"","",1251SE,Laren
+Oude Postweg,1,"","",1251ST,Laren
+Oude Postweg,1,"","",1251ST,Laren
+Dr Albert Schweitzerweg,4,"","",1251SV,Laren
+Dr Albert Schweitzerweg,4,"","",1251SV,Laren
+Dr Albert Schweitzerweg,4,"","",1251SV,Laren
+Weg over Anna's Hoeve,1,"","",1251SW,Laren

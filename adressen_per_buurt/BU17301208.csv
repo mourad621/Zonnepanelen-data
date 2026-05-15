@@ -1,36 +1,37 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9493TA",107,"A",""
-9493TA,Asserstraat,107,A,
-9493TA,Groningerstraat,104,,
-9493TA,Groningerstraat,116,,
-9493TA,Groningerstraat,112,,
-9493TB,Groningerstraat,122,,
-9493TB,Groningerstraat,128,,
-9493TD,Ydermade,4,,
-9493TD,Ydermade,5,,
-9493TD,Ydermade,2,a,
-9493TD,Ydermade,2,,
-9493TD,Ydermade,3,,
-9493TG,Verlengde Kampstukkenweg,2,,
-9493TH,Okkenveen,1,,
-9493TH,Okkenveen,3,,
-9493TH,Okkenveen,4,,
-9493TH,Okkenveen,2,,
-9493TH,Okkenveen,6,,
-9493TH,Okkenveen,5,,
-9493TA,Groningerstraat,102,,
-9493TA,Groningerstraat,120,,
-9493TA,Groningerstraat,118,a,
-9493TA,Groningerstraat,118,,
-9493TB,Groningerstraat,126,,
-9493TD,Ydermade,1,,
-9493TD,Ydermade,1,a,
-9493TD,Ydermade,5,a,
-9493TD,Ydermade,3,a,
-9493TH,Okkenveen,5,,
-9493TH,Okkenveen,5,,
-9493TA,Groningerstraat,118,a,
-9493TA,Groningerstraat,118,,
-9493TA,Groningerstraat,118,a,
-9493TD,Ydermade,1,,
-9493TD,Ydermade,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Groningerstraat,102,"","",9493TA,De Punt
+Groningerstraat,104,"","",9493TA,De Punt
+Asserstraat,107,A,"",9493TA,Ubbena
+Groningerstraat,112,"","",9493TA,De Punt
+Groningerstraat,116,"","",9493TA,De Punt
+Groningerstraat,118,"","",9493TA,De Punt
+Groningerstraat,118,"","",9493TA,De Punt
+Groningerstraat,118,A,"",9493TA,De Punt
+Groningerstraat,118,A,"",9493TA,De Punt
+Groningerstraat,118,A,"",9493TA,De Punt
+Groningerstraat,120,"","",9493TA,De Punt
+107,A,"","",9493TA,
+Groningerstraat,122,"","",9493TB,De Punt
+Groningerstraat,126,"","",9493TB,De Punt
+Groningerstraat,128,"","",9493TB,De Punt
+Ydermade,1,"","",9493TD,De Punt
+Ydermade,1,"","",9493TD,De Punt
+Ydermade,1,"","",9493TD,De Punt
+Ydermade,1,A,"",9493TD,De Punt
+Ydermade,2,"","",9493TD,De Punt
+Ydermade,2,A,"",9493TD,De Punt
+Ydermade,3,"","",9493TD,De Punt
+Ydermade,3,A,"",9493TD,De Punt
+Ydermade,4,"","",9493TD,De Punt
+Ydermade,5,"","",9493TD,De Punt
+Ydermade,5,A,"",9493TD,De Punt
+Verlengde Kampstukkenweg,2,"","",9493TG,De Punt
+Okkenveen,1,"","",9493TH,De Punt
+Okkenveen,2,"","",9493TH,De Punt
+Okkenveen,3,"","",9493TH,De Punt
+Okkenveen,4,"","",9493TH,De Punt
+Okkenveen,5,"","",9493TH,De Punt
+Okkenveen,5,"","",9493TH,De Punt
+Okkenveen,5,"","",9493TH,De Punt
+Okkenveen,6,"","",9493TH,De Punt
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

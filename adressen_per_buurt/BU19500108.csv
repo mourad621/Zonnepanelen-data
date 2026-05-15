@@ -1,115 +1,115 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9695HR",1,"",""
-"9695HR",2,"",""
-"9695HR",3,"",""
-"9695HR",6,"",""
-"9695HR",4,"",""
-"9695VB",8,"",""
-"9695VB",9,"",""
-"9695VB",10,"",""
-"9695VB",7,"",""
-"9695VB",15,"",""
-"9695VB",2,"",""
-"9695VB",14,"",""
-"9695VB",4,"",""
-"9695VB",5,"",""
-"9695VB",1,"",""
-"9695VB",3,"",""
-"9695VB",16,"",""
-"9695VB",6,"",""
-"9695VB",12,"",""
-"9695VB",17,"",""
-"9695VB",11,"",""
-"9695VC",19,"",""
-"9695VC",23,"",""
-"9695VC",18,"",""
-"9695VC",19,"",""
-"9695VC",24,"",""
-"9695VC",26,"",""
-"9695VD",1,"",""
-"9695VE",5,"",""
-"9695VE",1,"",""
-"9695VG",5,"",""
-"9695VG",6,"",""
-"9695VG",2,"",""
-"9695VG",3,"",""
-"9695VG",3,"",""
-"9695VG",7,"",""
-"9695VG",3,"",""
-"9695VG",4,"",""
-"9695VH",1,"",""
-"9695VP",10,"",""
-"9695VP",15,"",""
-"9695VP",16,"",""
-"9695VP",7,"",""
-"9695VP",14,"",""
-"9695VP",12,"",""
-"9695VP",11,"",""
-"9695VP",17,"",""
-"9695VP",5,"",""
-"9695VP",13,"",""
-"9695VP",8,"",""
-"9695VP",9,"",""
-"9695VR",2,"",""
-"9695VR",3,"",""
-"9695VR",5,"",""
-"9695VR",1,"",""
-"9695VS",2,"",""
-9695VE,1e Grenslaan,1,,
-9695VE,1e Grenslaan,5,,
-9695VH,Kortelaan,1,,
-9695VD,Lyskemeerweg,1,,
-9695HR,Oudelaan,1,,
-9695HR,Oudelaan,2,,
-9695HR,Oudelaan,3,,
-9695HR,Oudelaan,4,,
-9695HR,Oudelaan,6,,
-9695VP,Oudelaan,5,,
-9695VP,Oudelaan,7,,
-9695VP,Oudelaan,8,,
-9695VP,Oudelaan,9,,
-9695VP,Oudelaan,10,,
-9695VP,Oudelaan,11,,
-9695VP,Oudelaan,13,,
-9695VP,Oudelaan,14,,
-9695VP,Oudelaan,15,,
-9695VP,Oudelaan,16,,
-9695VP,Oudelaan,17,,
-9695VP,Oudelaan,12,,
-9695VG,Veendijk,2,,
-9695VG,Veendijk,3,,
-9695VG,Veendijk,4,,
-9695VG,Veendijk,5,,
-9695VG,Veendijk,6,,
-9695VG,Veendijk,7,,
-9695VG,Veendijk,3,,
-9695VR,Werkhuislaan,1,,
-9695VR,Werkhuislaan,2,,
-9695VR,Werkhuislaan,3,,
-9695VR,Werkhuislaan,5,,
-9695VS,Batterijweg,2,,
-9695VB,Kanaaldijk O.Z.,1,,
-9695VB,Kanaaldijk O.Z.,2,,
-9695VB,Kanaaldijk O.Z.,3,,
-9695VB,Kanaaldijk O.Z.,4,,
-9695VB,Kanaaldijk O.Z.,5,,
-9695VB,Kanaaldijk O.Z.,6,,
-9695VB,Kanaaldijk O.Z.,7,,
-9695VB,Kanaaldijk O.Z.,8,,
-9695VB,Kanaaldijk O.Z.,9,,
-9695VB,Kanaaldijk O.Z.,10,,
-9695VB,Kanaaldijk O.Z.,11,,
-9695VB,Kanaaldijk O.Z.,12,,
-9695VB,Kanaaldijk O.Z.,14,,
-9695VB,Kanaaldijk O.Z.,15,,
-9695VB,Kanaaldijk O.Z.,16,,
-9695VB,Kanaaldijk O.Z.,17,,
-9695VC,Kanaaldijk O.Z.,18,,
-9695VC,Kanaaldijk O.Z.,19,,
-9695VC,Kanaaldijk O.Z.,23,,
-9695VC,Kanaaldijk O.Z.,24,,
-9695VC,Kanaaldijk O.Z.,26,,
-9695VG,Veendijk,4,,ZON
-9695VC,Kanaaldijk O.Z.,19,,
-9695VC,Kanaaldijk O.Z.,19,,
-9695VH,Kortelaan,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oudelaan,1,"","",9695HR,Bellingwolde
+Oudelaan,2,"","",9695HR,Bellingwolde
+Oudelaan,3,"","",9695HR,Bellingwolde
+Oudelaan,4,"","",9695HR,Bellingwolde
+Oudelaan,6,"","",9695HR,Bellingwolde
+"",OUDELAAN,1,"",9695HR,
+"",OUDELAAN,2,"",9695HR,
+"",OUDELAAN,3,"",9695HR,
+"",OUDELAAN,4,"",9695HR,
+"",OUDELAAN,6,"",9695HR,
+Kanaaldijk O.Z.,1,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,10,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,11,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,12,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,14,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,15,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,16,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,17,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,2,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,3,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,4,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,5,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,6,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,7,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,8,"","",9695VB,Bellingwolde
+Kanaaldijk O.Z.,9,"","",9695VB,Bellingwolde
+"",KANAALDIJK O.Z.,1,"",9695VB,
+"",KANAALDIJK O.Z.,10,"",9695VB,
+"",KANAALDIJK O.Z.,11,"",9695VB,
+"",KANAALDIJK O.Z.,12,"",9695VB,
+"",KANAALDIJK O.Z.,14,"",9695VB,
+"",KANAALDIJK O.Z.,15,"",9695VB,
+"",KANAALDIJK O.Z.,16,"",9695VB,
+"",KANAALDIJK O.Z.,17,"",9695VB,
+"",KANAALDIJK O.Z.,2,"",9695VB,
+"",KANAALDIJK O.Z.,3,"",9695VB,
+"",KANAALDIJK O.Z.,4,"",9695VB,
+"",KANAALDIJK O.Z.,5,"",9695VB,
+"",KANAALDIJK O.Z.,6,"",9695VB,
+"",KANAALDIJK O.Z.,7,"",9695VB,
+"",KANAALDIJK O.Z.,8,"",9695VB,
+"",KANAALDIJK O.Z.,9,"",9695VB,
+Kanaaldijk O.Z.,18,"","",9695VC,Bellingwolde
+Kanaaldijk O.Z.,19,"","",9695VC,Bellingwolde
+Kanaaldijk O.Z.,19,"","",9695VC,Bellingwolde
+Kanaaldijk O.Z.,23,"","",9695VC,Bellingwolde
+Kanaaldijk O.Z.,24,"","",9695VC,Bellingwolde
+Kanaaldijk O.Z.,26,"","",9695VC,Bellingwolde
+"",KANAALDIJK O.Z.,18,"",9695VC,
+"",KANAALDIJK O.Z.,19,"",9695VC,
+"",KANAALDIJK O.Z.,19,"",9695VC,
+"",KANAALDIJK O.Z.,19,"",9695VC,
+"",KANAALDIJK O.Z.,23,"",9695VC,
+"",KANAALDIJK O.Z.,24,"",9695VC,
+"",KANAALDIJK O.Z.,26,"",9695VC,
+Lyskemeerweg,1,"","",9695VD,Bellingwolde
+"",LYSKEMEERWEG,1,"",9695VD,
+1e Grenslaan,1,"","",9695VE,Bellingwolde
+"",1E GRENSLAAN,1,"",9695VE,
+"",1E GRENSLAAN,5,"",9695VE,
+1e Grenslaan,5,"","",9695VE,Bellingwolde
+Veendijk,2,"","",9695VG,Bellingwolde
+Veendijk,3,"","",9695VG,Bellingwolde
+Veendijk,3,"","",9695VG,Bellingwolde
+Veendijk,3,"","",9695VG,Bellingwolde
+Veendijk,4,"","",9695VG,Bellingwolde
+Veendijk,5,"","",9695VG,Bellingwolde
+Veendijk,6,"","",9695VG,Bellingwolde
+Veendijk,7,"","",9695VG,Bellingwolde
+"",VEENDIJK,2,"",9695VG,
+"",VEENDIJK,3,"",9695VG,
+"",VEENDIJK,3,"",9695VG,
+"",VEENDIJK,4,"",9695VG,
+"",VEENDIJK,4,"",9695VG,
+"",VEENDIJK,5,"",9695VG,
+"",VEENDIJK,6,"",9695VG,
+"",VEENDIJK,7,"",9695VG,
+Kortelaan,1,"","",9695VH,Bellingwolde
+"",KORTELAAN,1,"",9695VH,
+"",KORTELAAN,1,"",9695VH,
+Oudelaan,10,"","",9695VP,Bellingwolde
+Oudelaan,11,"","",9695VP,Bellingwolde
+Oudelaan,12,"","",9695VP,Bellingwolde
+Oudelaan,13,"","",9695VP,Bellingwolde
+Oudelaan,14,"","",9695VP,Bellingwolde
+Oudelaan,15,"","",9695VP,Bellingwolde
+Oudelaan,16,"","",9695VP,Bellingwolde
+Oudelaan,17,"","",9695VP,Bellingwolde
+Oudelaan,5,"","",9695VP,Bellingwolde
+Oudelaan,7,"","",9695VP,Bellingwolde
+Oudelaan,8,"","",9695VP,Bellingwolde
+Oudelaan,9,"","",9695VP,Bellingwolde
+"",OUDELAAN,10,"",9695VP,
+"",OUDELAAN,11,"",9695VP,
+"",OUDELAAN,12,"",9695VP,
+"",OUDELAAN,13,"",9695VP,
+"",OUDELAAN,14,"",9695VP,
+"",OUDELAAN,15,"",9695VP,
+"",OUDELAAN,16,"",9695VP,
+"",OUDELAAN,17,"",9695VP,
+"",OUDELAAN,5,"",9695VP,
+"",OUDELAAN,7,"",9695VP,
+"",OUDELAAN,8,"",9695VP,
+"",OUDELAAN,9,"",9695VP,
+Werkhuislaan,1,"","",9695VR,Bellingwolde
+Werkhuislaan,2,"","",9695VR,Bellingwolde
+Werkhuislaan,3,"","",9695VR,Bellingwolde
+Werkhuislaan,5,"","",9695VR,Bellingwolde
+"",WERKHUISLAAN,1,"",9695VR,
+"",WERKHUISLAAN,2,"",9695VR,
+"",WERKHUISLAAN,3,"",9695VR,
+"",WERKHUISLAAN,5,"",9695VR,
+Batterijweg,2,"","",9695VS,Bellingwolde
+"",BATTERIJWEG,2,"",9695VS,

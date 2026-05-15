@@ -1,31 +1,31 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3231ND,Staaldiepseweg,5,,
-3231ND,Staaldiepseweg,13,,
-3231ND,Staaldiepseweg,8,,
-3231ND,Staaldiepseweg,14,,
-3231ND,Staaldiepseweg,6,,
-3231NE,Visserijweg,15,,
-3231NE,Visserijweg,7,,
-3231NE,Visserijweg,11,,
-3231NA,Brielse Veerweg,3,,
-3231NA,Brielse Veerweg,1,,
-3231NC,Oude Veerdam,14,,
-3231NC,Oude Veerdam,4,,
-3231NC,Oude Veerdam,12,,
-3231ND,Staaldiepseweg,10,,
-3231ND,Staaldiepseweg,12,,
-3231ND,Staaldiepseweg,11,,
-3231ND,Staaldiepseweg,4,,
-3231ND,Staaldiepseweg,4,,
-3231ND,Staaldiepseweg,9,,
-3231ND,Staaldiepseweg,20,,
-3231ND,Staaldiepseweg,7,,
-3231ND,Staaldiepseweg,15,,
-3231ND,Staaldiepseweg,10,,
-3231NE,Visserijweg,9,,
-3231NE,Visserijweg,13,,
-3231NE,Visserijweg,13,,
-3231NA,Brielse Veerweg,9,,
-3231NA,Brielse Veerweg,11,,
-3231NC,Oude Veerdam,14,A,
-3231NC,Oude Veerdam,14,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Brielse Veerweg,1,"","",3231NA,Brielle
+Brielse Veerweg,11,"","",3231NA,Brielle
+Brielse Veerweg,3,"","",3231NA,Brielle
+Brielse Veerweg,9,"","",3231NA,Brielle
+Oude Veerdam,12,"","",3231NC,Brielle
+Oude Veerdam,14,"","",3231NC,Brielle
+Oude Veerdam,14,A,"",3231NC,Brielle
+Oude Veerdam,14,A,"",3231NC,Brielle
+Oude Veerdam,4,"","",3231NC,Brielle
+Staaldiepseweg,10,"","",3231ND,Brielle
+Staaldiepseweg,10,"","",3231ND,Brielle
+Staaldiepseweg,11,"","",3231ND,Brielle
+Staaldiepseweg,12,"","",3231ND,Brielle
+Staaldiepseweg,13,"","",3231ND,Brielle
+Staaldiepseweg,14,"","",3231ND,Brielle
+Staaldiepseweg,15,"","",3231ND,Brielle
+Staaldiepseweg,20,"","",3231ND,Brielle
+Staaldiepseweg,4,"","",3231ND,Brielle
+Staaldiepseweg,4,"","",3231ND,Brielle
+Staaldiepseweg,5,"","",3231ND,Brielle
+Staaldiepseweg,6,"","",3231ND,Brielle
+Staaldiepseweg,7,"","",3231ND,Brielle
+Staaldiepseweg,8,"","",3231ND,Brielle
+Staaldiepseweg,9,"","",3231ND,Brielle
+Visserijweg,11,"","",3231NE,Brielle
+Visserijweg,13,"","",3231NE,Brielle
+Visserijweg,13,"","",3231NE,Brielle
+Visserijweg,15,"","",3231NE,Brielle
+Visserijweg,7,"","",3231NE,Brielle
+Visserijweg,9,"","",3231NE,Brielle

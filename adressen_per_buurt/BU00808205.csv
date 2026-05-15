@@ -1,111 +1,112 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9009XC",9,"",""
-"9009XC",7,"",""
-"9009XC",12,"a",""
-"9009XC",11,"",""
-"9009XC",5,"",""
-"9009XC",4,"",""
-"9009XC",15,"",""
-"9009XC",9,"",""
-"9009XC",9,"",""
-"9009XC",2,"",""
-"9009XC",10,"",""
-"9009XC",13,"",""
-"9009XC",12,"",""
-"9009XC",8,"",""
-"9009XC",12,"d",""
-"9009XC",5,"",""
-"9009XC",3,"",""
-"9009XC",5,"",""
-"9009XC",6,"",""
-"9009XC",1,"",""
-"9009XC",12,"b",""
-"9009XC",12,"A",""
-"9009XC",12,"c",""
-"9009XC",14,"",""
-"9009XC",12,"B",""
-"9009XC",12,"D",""
-"9009XC",5,"a",""
-"9009XC",5,"",""
-"9009XC",12,"C",""
-"9009XD",2,"a",""
-"9009XD",5,"",""
-"9009XD",1,"",""
-"9009XD",10,"a",""
-"9009XD",14,"",""
-"9009XD",2,"A",""
-"9009XD",12,"",""
-"9009XD",7,"",""
-"9009XD",10,"",""
-"9009XD",6,"",""
-"9009XD",4,"A",""
-"9009XD",2,"",""
-"9009XD",10,"A",""
-"9009XD",4,"a",""
-"9009XD",9,"",""
-"9009XD",4,"",""
-"9009XD",8,"",""
-"9009XD",3,"",""
-"9009XE",1,"A",""
-"9009XE",1,"",""
-"9009XE",1,"b",""
-"9009XE",3,"",""
-"9009XE",1,"B",""
-"9009XE",1,"a",""
-9009XC,Beslingadyk,3,,
-9009XC,Beslingadyk,13,,
-9009XC,Beslingadyk,15,,
-9009XC,Beslingadyk,1,,
-9009XC,Beslingadyk,4,,
-9009XC,Beslingadyk,14,,
-9009XC,Beslingadyk,12,C,
-9009XC,Beslingadyk,12,c,
-9009XC,Beslingadyk,6,,
-9009XC,Beslingadyk,5,,
-9009XC,Beslingadyk,5,,
-9009XC,Beslingadyk,12,A,
-9009XC,Beslingadyk,12,a,
-9009XC,Beslingadyk,2,,
-9009XC,Beslingadyk,8,,
-9009XC,Beslingadyk,12,B,
-9009XC,Beslingadyk,12,b,
-9009XC,Beslingadyk,10,,
-9009XE,Op'e Syl,3,,
-9009XE,Op 'e Syl,3,,
-9009XE,Op'e Syl,1,,
-9009XE,Op 'e Syl,1,,
-9009XD,Van Sytzamawei,7,,
-9009XD,Van Sytzamawei,14,,
-9009XD,Van Sytzamawei,5,,
-9009XD,Van Sytzamawei,9,,
-9009XD,Van Sytzamawei,12,,
-9009XD,Van Sytzamawei,1,,
-9009XD,Van Sytzamawei,4,,
-9009XD,Van Sytzamawei,4,A,
-9009XD,Van Sytzamawei,4,a,
-9009XD,Van Sytzamawei,2,A,
-9009XD,Van Sytzamawei,2,a,
-9009XD,Van Sytzamawei,10,,
-9009XD,Van Sytzamawei,3,,
-9009XD,Van Sytzamawei,10,A,
-9009XD,Van Sytzamawei,10,a,
-9009XD,Van Sytzamawei,2,,
-9009XC,Beslingadyk,12,,
-9009XC,Beslingadyk,11,,
-9009XC,Beslingadyk,7,,
-9009XC,Beslingadyk,9,,
-9009XC,Beslingadyk,12,D,
-9009XC,Beslingadyk,12,d,
-9009XE,Op'e Syl,1,B,
-9009XE,Op 'e Syl,1,B,
-9009XE,Op'e Syl,1,b,
-9009XE,Op 'e Syl,1,b,
-9009XE,Op'e Syl,1,A,
-9009XE,Op 'e Syl,1,A,
-9009XE,Op'e Syl,1,a,
-9009XE,Op 'e Syl,1,a,
-9009XD,Van Sytzamawei,8,,
-9009XD,Van Sytzamawei,6,,
-9009XC,Beslingadyk,5,a,
-9009XC,Beslingadyk,5,,
-9009XC,Beslingadyk,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+9,"","","",9009XC,
+7,"","","",9009XC,
+11,"","","",9009XC,
+5,"","","",9009XC,
+4,"","","",9009XC,
+15,"","","",9009XC,
+9,"","","",9009XC,
+9,"","","",9009XC,
+2,"","","",9009XC,
+10,"","","",9009XC,
+13,"","","",9009XC,
+12,"","","",9009XC,
+8,"","","",9009XC,
+5,"","","",9009XC,
+3,"","","",9009XC,
+5,"","","",9009XC,
+6,"","","",9009XC,
+1,"","","",9009XC,
+14,"","","",9009XC,
+5,"","","",9009XC,
+Beslingadyk,1,"","",9009XC,Friens
+Beslingadyk,10,"","",9009XC,Friens
+Beslingadyk,11,"","",9009XC,Friens
+Beslingadyk,12,"","",9009XC,Friens
+Beslingadyk,12,A,"",9009XC,Friens
+Beslingadyk,12,A,"",9009XC,Friens
+Beslingadyk,12,B,"",9009XC,Friens
+Beslingadyk,12,B,"",9009XC,Friens
+Beslingadyk,12,C,"",9009XC,Friens
+Beslingadyk,12,C,"",9009XC,Friens
+Beslingadyk,12,D,"",9009XC,Friens
+Beslingadyk,12,D,"",9009XC,Friens
+Beslingadyk,13,"","",9009XC,Friens
+Beslingadyk,14,"","",9009XC,Friens
+Beslingadyk,15,"","",9009XC,Friens
+Beslingadyk,2,"","",9009XC,Friens
+Beslingadyk,3,"","",9009XC,Friens
+Beslingadyk,4,"","",9009XC,Friens
+Beslingadyk,5,"","",9009XC,Friens
+Beslingadyk,5,"","",9009XC,Friens
+Beslingadyk,5,"","",9009XC,Friens
+Beslingadyk,5,A,"",9009XC,Friens
+Beslingadyk,6,"","",9009XC,Friens
+Beslingadyk,7,"","",9009XC,Friens
+Beslingadyk,8,"","",9009XC,Friens
+Beslingadyk,9,"","",9009XC,Friens
+Beslingadyk,9,"","",9009XC,Friens
+12,A,"","",9009XC,
+12,A,"","",9009XC,
+5,A,"","",9009XC,
+12,B,"","",9009XC,
+12,B,"","",9009XC,
+12,C,"","",9009XC,
+12,C,"","",9009XC,
+12,D,"","",9009XC,
+12,D,"","",9009XC,
+5,"","","",9009XD,
+1,"","","",9009XD,
+14,"","","",9009XD,
+12,"","","",9009XD,
+7,"","","",9009XD,
+10,"","","",9009XD,
+6,"","","",9009XD,
+2,"","","",9009XD,
+9,"","","",9009XD,
+4,"","","",9009XD,
+8,"","","",9009XD,
+3,"","","",9009XD,
+Van Sytzamawei,1,"","",9009XD,Friens
+Van Sytzamawei,10,"","",9009XD,Friens
+Van Sytzamawei,10,A,"",9009XD,Friens
+Van Sytzamawei,10,A,"",9009XD,Friens
+Van Sytzamawei,12,"","",9009XD,Friens
+Van Sytzamawei,14,"","",9009XD,Friens
+Van Sytzamawei,2,"","",9009XD,Friens
+Van Sytzamawei,2,A,"",9009XD,Friens
+Van Sytzamawei,2,A,"",9009XD,Friens
+Van Sytzamawei,3,"","",9009XD,Friens
+Van Sytzamawei,4,"","",9009XD,Friens
+Van Sytzamawei,4,A,"",9009XD,Friens
+Van Sytzamawei,4,A,"",9009XD,Friens
+Van Sytzamawei,5,"","",9009XD,Friens
+Van Sytzamawei,6,"","",9009XD,Friens
+Van Sytzamawei,7,"","",9009XD,Friens
+Van Sytzamawei,8,"","",9009XD,Friens
+Van Sytzamawei,9,"","",9009XD,Friens
+2,A,"","",9009XD,
+10,A,"","",9009XD,
+2,A,"","",9009XD,
+4,A,"","",9009XD,
+10,A,"","",9009XD,
+4,A,"","",9009XD,
+1,"","","",9009XE,
+3,"","","",9009XE,
+Op'e Syl,1,"","",9009XE,Friens
+Op'e Syl,1,"","",9009XE,Friens
+Op'e Syl,1,A,"",9009XE,Friens
+Op'e Syl,1,A,"",9009XE,Friens
+Op'e Syl,1,A,"",9009XE,Friens
+Op'e Syl,1,A,"",9009XE,Friens
+Op'e Syl,1,B,"",9009XE,Friens
+Op'e Syl,1,B,"",9009XE,Friens
+Op'e Syl,1,B,"",9009XE,Friens
+Op'e Syl,1,B,"",9009XE,Friens
+Op'e Syl,3,"","",9009XE,Friens
+Op'e Syl,3,"","",9009XE,Friens
+1,A,"","",9009XE,
+1,A,"","",9009XE,
+1,B,"","",9009XE,
+1,B,"","",9009XE,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

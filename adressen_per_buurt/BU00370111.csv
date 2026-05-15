@@ -1,931 +1,479 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9501GG",5,"",""
-"9501GG",9,"",""
-"9501GG",7,"",""
-"9501GG",1,"",""
-"9501LC",1,"C",""
-"9501LC",8,"",""
-"9501LC",1,"A",""
-"9501LC",1,"B",""
-"9501LC",5,"",""
-"9501LC",7,"",""
-"9501LC",4,"",""
-"9501LC",3,"",""
-"9501LC",6,"",""
-"9501LC",12,"",""
-"9501LC",1,"",""
-"9501LC",2,"",""
-"9501LC",20,"",""
-"9501LC",3,"",""
-"9501LC",10,"",""
-"9501LC",3,"",""
-"9501LC",14,"",""
-"9501LC",9,"",""
-"9501LC",11,"",""
-"9501LC",16,"",""
-"9501LC",2,"C",""
-"9501LC",9,"A",""
-"9501LC",2,"D",""
-"9501LC",30,"",""
-"9501LC",26,"",""
-"9501LC",24,"",""
-"9501LC",18,"",""
-"9501LD",2,"",""
-"9501LD",1,"",""
-"9501LD",3,"",""
-"9501LD",100,"",""
-"9501LD",2,"",""
-"9501LD",13,"A",""
-"9501LD",13,"",""
-"9501LD",7,"",""
-"9501LD",2,"",""
-"9501LD",100,"",""
-"9501LD",8,"",""
-"9501LD",13,"A",""
-"9501LD",3,"",""
-"9501LD",4,"",""
-"9501LD",3,"",""
-"9501LD",8,"A",""
-"9501LD",12,"",""
-"9501LJ",7,"",""
-"9501LJ",5,"",""
-"9501LJ",1,"",""
-"9501LJ",9,"",""
-"9501LJ",3,"",""
-"9501LK",6,"",""
-"9501LK",4,"",""
-"9501LK",2,"",""
-"9501ND",6,"",""
-"9501ND",8,"",""
-"9501ND",20,"",""
-"9501ND",4,"",""
-"9501ND",9,"",""
-"9501ND",15,"",""
-"9501ND",11,"",""
-"9501ND",19,"",""
-"9501ND",20,"A",""
-"9501ND",18,"",""
-"9501ND",16,"",""
-"9501ND",10,"",""
-"9501ND",5,"",""
-"9501ND",20,"B",""
-"9501ND",24,"",""
-"9501ND",17,"",""
-"9501ND",21,"",""
-"9501ND",13,"",""
-"9501ND",14,"",""
-"9501ND",23,"",""
-"9501ND",22,"A",""
-"9501ND",22,"",""
-"9501NE",39,"",""
-"9501NE",32,"",""
-"9501NE",25,"",""
-"9501NE",44,"",""
-"9501NE",40,"",""
-"9501NE",38,"",""
-"9501NE",31,"",""
-"9501NE",37,"",""
-"9501NE",29,"",""
-"9501NE",43,"",""
-"9501NE",42,"",""
-"9501NE",46,"",""
-"9501NE",28,"",""
-"9501NE",48,"",""
-"9501NE",35,"",""
-"9501NE",34,"",""
-"9501NE",31,"",""
-"9501NE",27,"",""
-"9501NE",47,"",""
-"9501NE",31,"",""
-"9501NE",36,"",""
-"9501NG",56,"",""
-"9501NG",70,"",""
-"9501NG",74,"",""
-"9501NG",54,"",""
-"9501NG",73,"",""
-"9501NG",59,"",""
-"9501NG",65,"",""
-"9501NG",57,"",""
-"9501NG",53,"",""
-"9501NG",58,"",""
-"9501NG",59,"A",""
-"9501NG",52,"",""
-"9501NG",64,"",""
-"9501NG",61,"",""
-"9501NG",71,"",""
-"9501NG",72,"",""
-"9501NG",66,"",""
-"9501NG",55,"",""
-"9501NG",62,"",""
-"9501NG",60,"",""
-"9501NG",51,"",""
-"9501NG",50,"",""
-"9501NG",69,"",""
-"9501NH",82,"",""
-"9501NH",97,"",""
-"9501NH",95,"",""
-"9501NH",93,"A",""
-"9501NH",88,"",""
-"9501NH",83,"",""
-"9501NH",98,"",""
-"9501NH",96,"",""
-"9501NH",77,"",""
-"9501NH",75,"",""
-"9501NH",86,"",""
-"9501NH",93,"A",""
-"9501NH",87,"",""
-"9501NH",76,"",""
-"9501NH",78,"",""
-"9501NH",92,"",""
-"9501NH",81,"",""
-"9501NH",93,"",""
-"9501NH",82,"C",""
-"9501NH",82,"F",""
-"9501NH",82,"A",""
-"9501NH",82,"D",""
-"9501NH",82,"E",""
-"9501NH",82,"B",""
-"9501NH",93,"A",""
-"9501NH",99,"",""
-"9501NH",82,"G",""
-"9501NH",91,"",""
-"9501NH",90,"",""
-"9501NH",93,"A",""
-"9501NJ",110,"D","1"
-"9501NJ",109,"","20G"
-"9501NJ",110,"B","1"
-"9501NJ",109,"","19"
-"9501NJ",124,"",""
-"9501NJ",109,"","14"
-"9501NJ",109,"","16G"
-"9501NJ",111,"",""
-"9501NJ",109,"","18G"
-"9501NJ",109,"","19G"
-"9501NJ",109,"","18"
-"9501NJ",109,"","17G"
-"9501NJ",109,"","17"
-"9501NJ",110,"A","6"
-"9501NJ",109,"","18G"
-"9501NJ",116,"",""
-"9501NJ",107,"T",""
-"9501NJ",123,"",""
-"9501NJ",106,"",""
-"9501NJ",113,"",""
-"9501NJ",109,"",""
-"9501NJ",124,"A",""
-"9501NJ",122,"",""
-"9501NJ",120,"",""
-"9501NJ",109,"","17G"
-"9501NJ",110,"",""
-"9501NJ",110,"","2"
-"9501NJ",109,"","21G"
-"9501NJ",109,"","15G"
-"9501NJ",119,"",""
-"9501NJ",110,"A","5"
-"9501NJ",121,"",""
-"9501NJ",101,"",""
-"9501NJ",109,"","20"
-"9501NJ",110,"C","1"
-"9501NJ",109,"","21"
-"9501NJ",109,"","20G"
-"9501NJ",110,"A","1"
-"9501NJ",105,"",""
-"9501NJ",110,"","9"
-"9501NJ",110,"",""
-"9501NJ",109,"","23"
-"9501NJ",109,"","16G"
-"9501NJ",118,"",""
-"9501NJ",115,"",""
-"9501NJ",110,"","12"
-"9501NJ",109,"","16"
-"9501NJ",100,"",""
-"9501NJ",109,"","19G"
-"9501NJ",104,"",""
-"9501NJ",110,"","8"
-"9501NJ",110,"","10"
-"9501NJ",110,"","7"
-"9501NJ",109,"","13"
-"9501NJ",110,"","1"
-"9501NJ",110,"","3"
-"9501NJ",114,"",""
-"9501NJ",109,"","22"
-"9501NJ",109,"","22G"
-"9501NJ",103,"",""
-"9501NJ",110,"","6"
-"9501NJ",110,"","5"
-"9501NJ",109,"","15G"
-"9501NJ",109,"","21G"
-"9501NJ",110,"","4"
-"9501NJ",109,"",""
-"9501NJ",109,"","22G"
-"9501NK",130,"",""
-"9501NK",125,"",""
-"9501NK",135,"",""
-"9501NK",126,"",""
-"9501NK",128,"",""
-"9501NK",132,"",""
-"9501NK",129,"",""
-"9501NK",136,"",""
-"9501NK",134,"",""
-"9501NK",127,"",""
-"9501NK",137,"",""
-"9501NK",131,"",""
-"9501NN",7,"",""
-"9501NN",8,"",""
-"9501NN",12,"",""
-"9501NN",4,"",""
-"9501NN",9,"",""
-"9501NN",3,"",""
-"9501NN",2,"",""
-"9501NN",11,"",""
-"9501NN",5,"",""
-"9501NN",18,"",""
-"9501NN",15,"",""
-"9501NN",6,"",""
-"9501NN",10,"",""
-"9501NN",16,"",""
-"9501NN",13,"",""
-"9501NN",14,"",""
-"9501NN",1,"",""
-"9501NP",13,"",""
-"9501NP",22,"",""
-"9501NP",15,"",""
-"9501NP",21,"",""
-"9501NP",7,"",""
-"9501NP",24,"",""
-"9501NP",6,"",""
-"9501NP",9,"",""
-"9501NP",12,"",""
-"9501NP",10,"",""
-"9501NP",20,"",""
-"9501NP",19,"",""
-"9501NP",5,"",""
-"9501NP",18,"",""
-"9501NP",16,"",""
-"9501NP",4,"",""
-"9501NP",17,"",""
-"9501NR",27,"D",""
-"9501NR",29,"",""
-"9501NR",42,"",""
-"9501NR",30,"",""
-"9501NR",25,"",""
-"9501NR",27,"",""
-"9501NR",32,"",""
-"9501NR",27,"B",""
-"9501NR",36,"",""
-"9501NR",44,"",""
-"9501NR",28,"",""
-"9501NR",41,"",""
-"9501NR",35,"",""
-"9501NR",43,"",""
-"9501NR",31,"",""
-"9501NR",26,"",""
-"9501NR",38,"",""
-"9501NR",27,"C",""
-"9501NR",23,"T",""
-"9501NR",33,"",""
-"9501NR",34,"",""
-"9501NR",40,"",""
-"9501NR",27,"A",""
-"9501NS",64,"",""
-"9501NS",50,"",""
-"9501NS",51,"",""
-"9501NS",62,"",""
-"9501NS",48,"",""
-"9501NS",45,"",""
-"9501NS",53,"",""
-"9501NS",46,"",""
-"9501NS",57,"",""
-"9501NS",46,"",""
-"9501NS",59,"",""
-"9501NS",63,"",""
-"9501NS",61,"",""
-"9501NS",58,"",""
-"9501NS",54,"",""
-"9501NS",47,"",""
-"9501NT",71,"",""
-"9501NT",65,"",""
-"9501NT",65,"",""
-"9501NT",65,"",""
-"9501NT",67,"",""
-"9501NT",66,"",""
-"9501XA",1,"A",""
-"9501XA",29,"",""
-"9501XA",33,"",""
-"9501XA",19,"",""
-"9501XA",35,"",""
-"9501XA",31,"",""
-"9501XA",21,"",""
-"9501XA",9,"",""
-"9501XA",4,"B",""
-"9501XA",37,"",""
-"9501XA",25,"",""
-"9501XA",21,"",""
-"9501XA",1,"",""
-"9501XA",13,"",""
-"9501XA",1,"B",""
-"9501XA",11,"",""
-"9501XA",17,"",""
-"9501XA",15,"",""
-"9501XA",23,"A",""
-"9501XA",5,"",""
-"9501XA",1,"C",""
-"9501XA",3,"",""
-"9501XA",23,"",""
-"9501XA",27,"",""
-"9501XB",49,"",""
-"9501XB",47,"A",""
-"9501XB",53,"",""
-"9501XB",55,"",""
-"9501XB",47,"",""
-"9501XB",39,"",""
-"9501XB",49,"",""
-"9501XB",39,"",""
-"9501XB",45,"",""
-"9501XB",51,"",""
-"9501XB",47,"A",""
-"9501XC",2,"","1"
-"9501XC",8,"",""
-"9501XC",2,"",""
-"9501XC",6,"A",""
-"9501XC",4,"C",""
-"9501XC",2,"A",""
-"9501XC",2,"A",""
-"9501XC",2,"A",""
-"9501XC",10,"",""
-"9501XC",22,"",""
-"9501XC",4,"B",""
-"9501XC",2,"",""
-"9501XC",6,"",""
-"9501XC",12,"",""
-"9501XC",24,"",""
-"9501XC",4,"",""
-"9501XC",18,"",""
-"9501XC",16,"",""
-"9501XC",2,"B",""
-"9501XC",6,"",""
-"9501XC",4,"B",""
-"9501XC",14,"",""
-"9501XC",4,"A",""
-"9501XC",30,"",""
-"9501XD",24,"",""
-"9501XD",73,"T",""
-"9501XD",22,"",""
-"9501XD",17,"",""
-"9501XD",13,"",""
-"9501XD",15,"",""
-"9501XD",1,"",""
-"9501XD",14,"",""
-"9501XD",8,"",""
-"9501XD",2,"",""
-"9501XD",9,"",""
-"9501XD",7,"",""
-"9501XD",8,"A",""
-"9501XD",2,"B",""
-"9501XD",6,"",""
-"9501XD",12,"",""
-"9501XD",11,"",""
-"9501XD",10,"",""
-"9501XD",21,"",""
-"9501XD",2,"A",""
-"9501XD",1,"",""
-"9501XD",18,"",""
-"9501XD",4,"",""
-"9501XD",5,"",""
-"9501XD",3,"",""
-"9501XE",33,"",""
-"9501XE",43,"A",""
-"9501XE",37,"",""
-"9501XE",43,"",""
-"9501XE",46,"",""
-"9501XE",27,"",""
-"9501XE",44,"",""
-"9501XE",32,"T",""
-"9501XE",45,"",""
-"9501XE",30,"",""
-"9501XE",42,"A",""
-"9501XE",42,"",""
-"9501XE",29,"",""
-"9501XE",47,"",""
-"9501XE",36,"",""
-"9501XE",38,"",""
-"9501XE",35,"",""
-"9501XE",39,"",""
-"9501XE",40,"",""
-"9501XE",41,"",""
-"9501XE",26,"",""
-"9501XE",48,"",""
-"9501XE",32,"T",""
-"9501XE",32,"",""
-"9501XE",34,"",""
-"9501XG",57,"",""
-"9501XG",58,"",""
-"9501XG",59,"",""
-"9501XG",51,"",""
-"9501XG",53,"",""
-"9501XG",63,"",""
-"9501XG",71,"",""
-"9501XG",55,"",""
-"9501XG",68,"",""
-"9501XG",64,"",""
-"9501XG",56,"",""
-"9501XG",60,"",""
-"9501XG",52,"",""
-"9501XG",54,"",""
-"9501XG",70,"",""
-"9501XG",72,"",""
-"9501XG",65,"",""
-"9501XG",74,"",""
-"9501XG",73,"",""
-"9501XG",50,"",""
-"9501XG",62,"",""
-"9501XG",66,"",""
-"9501XH",87,"",""
-"9501XH",95,"",""
-"9501XH",75,"",""
-"9501XH",93,"",""
-"9501XH",76,"",""
-"9501XH",77,"",""
-"9501XH",89,"",""
-"9501XH",78,"",""
-"9501XH",97,"",""
-"9501XH",80,"",""
-"9501XH",85,"",""
-"9501XH",94,"",""
-"9501XH",83,"",""
-"9501XH",91,"",""
-"9501XH",82,"",""
-"9501XH",81,"",""
-"9501XH",96,"",""
-"9501XH",84,"",""
-"9501XH",86,"",""
-"9501XJ",101,"",""
-"9501XJ",104,"",""
-"9501XJ",102,"",""
-"9501XJ",106,"",""
-"9501XJ",98,"",""
-"9501XJ",111,"",""
-"9501XJ",100,"",""
-"9501XJ",110,"",""
-"9501XJ",103,"",""
-"9501XJ",108,"",""
-"9501XJ",105,"",""
-"9501XJ",107,"",""
-"9501XJ",106,"A",""
-"9501XJ",109,"",""
-"9501XX",3,"",""
-"9501XX",1,"",""
-"9501XX",1,"",""
-"9501XX",1,"",""
-9501NN,Badstraat,1,,
-9501NN,Badstraat,2,,
-9501NN,Badstraat,3,,
-9501NN,Badstraat,4,,
-9501NN,Badstraat,5,,
-9501NN,Badstraat,6,,
-9501NN,Badstraat,7,,
-9501NN,Badstraat,8,,
-9501NN,Badstraat,9,,
-9501NN,Badstraat,10,,
-9501NN,Badstraat,11,,
-9501NN,Badstraat,12,,
-9501NN,Badstraat,13,,
-9501NN,Badstraat,14,,
-9501NN,Badstraat,15,,
-9501NN,Badstraat,16,,
-9501NN,Badstraat,18,,
-9501LD,Dalweg,1,,
-9501LD,Dalweg,2,,
-9501LD,Dalweg,3,,
-9501LD,Dalweg,4,,
-9501LD,Dalweg,7,,
-9501LD,Dalweg,8,A,
-9501LD,Dalweg,8,,
-9501LD,Dalweg,12,,
-9501LD,Dalweg,13,,
-9501LD,Dalweg,13,A,
-9501GG,Esdoornstraat,1,,
-9501GG,Esdoornstraat,5,,
-9501GG,Esdoornstraat,7,,
-9501GG,Esdoornstraat,9,,
-9501ND,H.J. Kniggestraat,4,,
-9501ND,H.J. Kniggestraat,5,,
-9501ND,H.J. Kniggestraat,6,,
-9501ND,H.J. Kniggestraat,8,,
-9501ND,H.J. Kniggestraat,9,,
-9501ND,H.J. Kniggestraat,10,,
-9501ND,H.J. Kniggestraat,11,,
-9501ND,H.J. Kniggestraat,13,,
-9501ND,H.J. Kniggestraat,14,,
-9501ND,H.J. Kniggestraat,15,,
-9501ND,H.J. Kniggestraat,16,,
-9501ND,H.J. Kniggestraat,17,,
-9501ND,H.J. Kniggestraat,18,,
-9501ND,H.J. Kniggestraat,19,,
-9501ND,H.J. Kniggestraat,20,,
-9501ND,H.J. Kniggestraat,21,,
-9501ND,H.J. Kniggestraat,22,,
-9501ND,H.J. Kniggestraat,22,A,
-9501ND,H.J. Kniggestraat,23,,
-9501ND,H.J. Kniggestraat,24,,
-9501NE,H.J. Kniggestraat,25,,
-9501NE,H.J. Kniggestraat,27,,
-9501NE,H.J. Kniggestraat,28,,
-9501NE,H.J. Kniggestraat,29,,
-9501NE,H.J. Kniggestraat,31,,
-9501NE,H.J. Kniggestraat,32,,
-9501NE,H.J. Kniggestraat,34,,
-9501NE,H.J. Kniggestraat,35,,
-9501NE,H.J. Kniggestraat,36,,
-9501NE,H.J. Kniggestraat,37,,
-9501NE,H.J. Kniggestraat,38,,
-9501NE,H.J. Kniggestraat,39,,
-9501NE,H.J. Kniggestraat,40,,
-9501NE,H.J. Kniggestraat,42,,
-9501NE,H.J. Kniggestraat,43,,
-9501NE,H.J. Kniggestraat,44,,
-9501NE,H.J. Kniggestraat,46,,
-9501NE,H.J. Kniggestraat,47,,
-9501NE,H.J. Kniggestraat,48,,
-9501NG,H.J. Kniggestraat,50,,
-9501NG,H.J. Kniggestraat,51,,
-9501NG,H.J. Kniggestraat,52,,
-9501NG,H.J. Kniggestraat,53,,
-9501NG,H.J. Kniggestraat,54,,
-9501NG,H.J. Kniggestraat,55,,
-9501NG,H.J. Kniggestraat,56,,
-9501NG,H.J. Kniggestraat,57,,
-9501NG,H.J. Kniggestraat,58,,
-9501NG,H.J. Kniggestraat,59,,
-9501NG,H.J. Kniggestraat,60,,
-9501NG,H.J. Kniggestraat,61,,
-9501NG,H.J. Kniggestraat,62,,
-9501NG,H.J. Kniggestraat,64,,
-9501NG,H.J. Kniggestraat,65,,
-9501NG,H.J. Kniggestraat,66,,
-9501NG,H.J. Kniggestraat,69,,
-9501NG,H.J. Kniggestraat,70,,
-9501NG,H.J. Kniggestraat,71,,
-9501NG,H.J. Kniggestraat,72,,
-9501NG,H.J. Kniggestraat,73,,
-9501NG,H.J. Kniggestraat,74,,
-9501NH,H.J. Kniggestraat,75,,
-9501NH,H.J. Kniggestraat,76,,
-9501NH,H.J. Kniggestraat,77,,
-9501NH,H.J. Kniggestraat,78,,
-9501NH,H.J. Kniggestraat,81,,
-9501NH,H.J. Kniggestraat,82,,
-9501NH,H.J. Kniggestraat,83,,
-9501NH,H.J. Kniggestraat,86,,
-9501NH,H.J. Kniggestraat,87,,
-9501NH,H.J. Kniggestraat,88,,
-9501NH,H.J. Kniggestraat,90,,
-9501NH,H.J. Kniggestraat,91,,
-9501NH,H.J. Kniggestraat,92,,
-9501NH,H.J. Kniggestraat,93,,
-9501NH,H.J. Kniggestraat,95,,
-9501NH,H.J. Kniggestraat,96,,
-9501NH,H.J. Kniggestraat,97,,
-9501NH,H.J. Kniggestraat,98,,
-9501NH,H.J. Kniggestraat,99,,
-9501NJ,H.J. Kniggestraat,100,,
-9501NJ,H.J. Kniggestraat,101,,
-9501NJ,H.J. Kniggestraat,103,,
-9501NJ,H.J. Kniggestraat,104,,
-9501NJ,H.J. Kniggestraat,105,,
-9501NJ,H.J. Kniggestraat,106,,
-9501NJ,H.J. Kniggestraat,107,T,
-9501XA,Noorderdiep,1,A,
-9501XA,Noorderdiep,1,B,
-9501XA,Noorderdiep,1,,
-9501XA,Noorderdiep,1,C,
-9501XA,Noorderdiep,3,,
-9501XA,Noorderdiep,5,,
-9501XA,Noorderdiep,9,,
-9501XA,Noorderdiep,11,,
-9501XA,Noorderdiep,13,,
-9501XA,Noorderdiep,15,,
-9501XA,Noorderdiep,17,,
-9501XA,Noorderdiep,19,,
-9501XA,Noorderdiep,21,,
-9501XA,Noorderdiep,23,,
-9501XA,Noorderdiep,25,,
-9501XA,Noorderdiep,27,,
-9501XA,Noorderdiep,29,,
-9501XA,Noorderdiep,31,,
-9501XA,Noorderdiep,33,,
-9501XA,Noorderdiep,35,,
-9501XA,Noorderdiep,4,B,
-9501XA,Noorderdiep,37,,
-9501XA,Noorderdiep,23,A,
-9501XB,Noorderdiep,39,,
-9501XB,Noorderdiep,39,,
-9501XB,Noorderdiep,45,,
-9501XB,Noorderdiep,47,A,
-9501XB,Noorderdiep,47,,
-9501XB,Noorderdiep,49,,
-9501XB,Noorderdiep,51,,
-9501XB,Noorderdiep,53,,
-9501XB,Noorderdiep,55,,
-9501XC,Noorderdiep,2,A,
-9501XC,Noorderdiep,2,B,
-9501XC,Noorderdiep,2,,
-9501XC,Noorderdiep,2,A,
-9501XC,Noorderdiep,2,A,
-9501XC,Noorderdiep,4,A,
-9501XC,Noorderdiep,4,,
-9501XC,Noorderdiep,6,,
-9501XC,Noorderdiep,8,,
-9501XC,Noorderdiep,10,,
-9501XC,Noorderdiep,12,,
-9501XC,Noorderdiep,14,,
-9501XC,Noorderdiep,16,,
-9501XC,Noorderdiep,18,,
-9501XC,Noorderdiep,22,,
-9501XC,Noorderdiep,24,,
-9501XC,Noorderdiep,30,,
-9501XC,Noorderdiep,4,B,
-9501XC,Noorderdiep,4,C,
-9501XC,Noorderdiep,6,A,
-9501XC,Noorderdiep,2,,1
-9501XC,Noorderdiep,2,,
-9501LJ,Paardentram,1,,
-9501LJ,Paardentram,3,,
-9501LJ,Paardentram,5,,
-9501LJ,Paardentram,7,,
-9501LJ,Paardentram,9,,
-9501LC,Pekelderstraat,1,A,
-9501LC,Pekelderstraat,1,B,
-9501LC,Pekelderstraat,1,C,
-9501LC,Pekelderstraat,1,,
-9501LC,Pekelderstraat,2,C,
-9501LC,Pekelderstraat,2,D,
-9501LC,Pekelderstraat,2,,
-9501LC,Pekelderstraat,3,,
-9501LC,Pekelderstraat,4,,
-9501LC,Pekelderstraat,5,,
-9501LC,Pekelderstraat,6,,
-9501LC,Pekelderstraat,7,,
-9501LC,Pekelderstraat,8,,
-9501LC,Pekelderstraat,9,A,
-9501LC,Pekelderstraat,9,,
-9501LC,Pekelderstraat,10,,
-9501LC,Pekelderstraat,11,,
-9501LC,Pekelderstraat,12,,
-9501LC,Pekelderstraat,14,,
-9501LC,Pekelderstraat,16,,
-9501LC,Pekelderstraat,18,,
-9501LC,Pekelderstraat,20,,
-9501LC,Pekelderstraat,24,,
-9501LC,Pekelderstraat,26,,
-9501LC,Pekelderstraat,30,,
-9501LK,Remise,2,,
-9501LK,Remise,4,,
-9501LK,Remise,6,,
-9501NP,Scheepswerfstraat,4,,
-9501NP,Scheepswerfstraat,5,,
-9501NP,Scheepswerfstraat,6,,
-9501NP,Scheepswerfstraat,7,,
-9501NP,Scheepswerfstraat,9,,
-9501NP,Scheepswerfstraat,10,,
-9501NP,Scheepswerfstraat,12,,
-9501NP,Scheepswerfstraat,13,,
-9501NP,Scheepswerfstraat,15,,
-9501NP,Scheepswerfstraat,16,,
-9501NP,Scheepswerfstraat,17,,
-9501NP,Scheepswerfstraat,18,,
-9501NP,Scheepswerfstraat,19,,
-9501NP,Scheepswerfstraat,20,,
-9501NP,Scheepswerfstraat,21,,
-9501NP,Scheepswerfstraat,22,,
-9501NP,Scheepswerfstraat,24,,
-9501NR,Scheepswerfstraat,23,T,
-9501NR,Scheepswerfstraat,25,,
-9501NR,Scheepswerfstraat,26,,
-9501NR,Scheepswerfstraat,27,A,
-9501NR,Scheepswerfstraat,27,B,
-9501NR,Scheepswerfstraat,27,C,
-9501NR,Scheepswerfstraat,27,D,
-9501NR,Scheepswerfstraat,27,,
-9501NR,Scheepswerfstraat,28,,
-9501NR,Scheepswerfstraat,29,,
-9501NR,Scheepswerfstraat,30,,
-9501NR,Scheepswerfstraat,31,,
-9501NR,Scheepswerfstraat,32,,
-9501NR,Scheepswerfstraat,33,,
-9501NR,Scheepswerfstraat,34,,
-9501NR,Scheepswerfstraat,35,,
-9501NR,Scheepswerfstraat,36,,
-9501NR,Scheepswerfstraat,38,,
-9501NR,Scheepswerfstraat,40,,
-9501NR,Scheepswerfstraat,41,,
-9501NR,Scheepswerfstraat,42,,
-9501NR,Scheepswerfstraat,43,,
-9501NR,Scheepswerfstraat,44,,
-9501NS,Scheepswerfstraat,45,,
-9501NS,Scheepswerfstraat,46,,
-9501NS,Scheepswerfstraat,47,,
-9501NS,Scheepswerfstraat,48,,
-9501NS,Scheepswerfstraat,50,,
-9501NS,Scheepswerfstraat,51,,
-9501NS,Scheepswerfstraat,53,,
-9501NS,Scheepswerfstraat,54,,
-9501NS,Scheepswerfstraat,57,,
-9501NS,Scheepswerfstraat,58,,
-9501NS,Scheepswerfstraat,59,,
-9501NS,Scheepswerfstraat,61,,
-9501NS,Scheepswerfstraat,62,,
-9501NS,Scheepswerfstraat,63,,
-9501NS,Scheepswerfstraat,64,,
-9501NT,Scheepswerfstraat,71,,
-9501NT,Scheepswerfstraat,65,,
-9501NT,Scheepswerfstraat,66,,
-9501NT,Scheepswerfstraat,67,,
-9501NT,Scheepswerfstraat,65,,
-9501LD,Dalweg,100,,
-9501LD,Dalweg,2,,
-9501LD,Dalweg,3,,
-9501ND,H.J. Kniggestraat,20,A,
-9501ND,H.J. Kniggestraat,20,B,
-9501NG,H.J. Kniggestraat,59,A,
-9501NH,H.J. Kniggestraat,93,A,
-9501NH,H.J. Kniggestraat,93,A,
-9501NH,H.J. Kniggestraat,93,A,
-9501NH,H.J. Kniggestraat,82,G,
-9501NH,H.J. Kniggestraat,82,F,
-9501NH,H.J. Kniggestraat,82,E,
-9501NH,H.J. Kniggestraat,82,A,
-9501NH,H.J. Kniggestraat,82,C,
-9501NH,H.J. Kniggestraat,82,B,
-9501NH,H.J. Kniggestraat,82,D,
-9501NJ,H.J. Kniggestraat,109,,
-9501NJ,H.J. Kniggestraat,109,,18G
-9501NJ,H.J. Kniggestraat,109,,19G
-9501NJ,H.J. Kniggestraat,109,,20G
-9501NJ,H.J. Kniggestraat,109,,21G
-9501NJ,H.J. Kniggestraat,109,,22G
-9501NJ,H.J. Kniggestraat,109,,15G
-9501NJ,H.J. Kniggestraat,109,,16G
-9501NJ,H.J. Kniggestraat,109,,17G
-9501NJ,H.J. Kniggestraat,110,,
-9501NJ,H.J. Kniggestraat,111,,
-9501NJ,H.J. Kniggestraat,113,,
-9501NJ,H.J. Kniggestraat,114,,
-9501NJ,H.J. Kniggestraat,115,,
-9501NJ,H.J. Kniggestraat,116,,
-9501NJ,H.J. Kniggestraat,118,,
-9501NJ,H.J. Kniggestraat,119,,
-9501NJ,H.J. Kniggestraat,120,,
-9501NJ,H.J. Kniggestraat,121,,
-9501NJ,H.J. Kniggestraat,122,,
-9501NJ,H.J. Kniggestraat,123,,
-9501NJ,H.J. Kniggestraat,124,,
-9501NJ,H.J. Kniggestraat,124,A,
-9501NJ,H.J. Kniggestraat,109,,16
-9501NJ,H.J. Kniggestraat,109,,17
-9501NJ,H.J. Kniggestraat,109,,18
-9501NJ,H.J. Kniggestraat,109,,19
-9501NJ,H.J. Kniggestraat,109,,20
-9501NJ,H.J. Kniggestraat,109,,21
-9501NJ,H.J. Kniggestraat,109,,22
-9501NJ,H.J. Kniggestraat,109,,23
-9501NJ,H.J. Kniggestraat,109,,13
-9501NJ,H.J. Kniggestraat,109,,14
-9501NJ,H.J. Kniggestraat,110,,12
-9501NJ,H.J. Kniggestraat,110,,1
-9501NJ,H.J. Kniggestraat,110,A,1
-9501NJ,H.J. Kniggestraat,110,B,1
-9501NJ,H.J. Kniggestraat,110,C,1
-9501NJ,H.J. Kniggestraat,110,D,1
-9501NJ,H.J. Kniggestraat,110,,2
-9501NJ,H.J. Kniggestraat,110,,3
-9501NJ,H.J. Kniggestraat,110,,4
-9501NJ,H.J. Kniggestraat,110,,5
-9501NJ,H.J. Kniggestraat,110,A,5
-9501NJ,H.J. Kniggestraat,110,,6
-9501NK,H.J. Kniggestraat,125,,
-9501NK,H.J. Kniggestraat,126,,
-9501NK,H.J. Kniggestraat,127,,
-9501NK,H.J. Kniggestraat,128,,
-9501NK,H.J. Kniggestraat,129,,
-9501NK,H.J. Kniggestraat,130,,
-9501NK,H.J. Kniggestraat,131,,
-9501NK,H.J. Kniggestraat,132,,
-9501NK,H.J. Kniggestraat,134,,
-9501NK,H.J. Kniggestraat,135,,
-9501NK,H.J. Kniggestraat,136,,
-9501NK,H.J. Kniggestraat,137,,
-9501XC,Tros,6,,
-9501XD,Unikenstraat,1,,
-9501XD,Unikenstraat,2,A,
-9501XD,Unikenstraat,2,B,
-9501XD,Unikenstraat,2,,
-9501XD,Unikenstraat,3,,
-9501XD,Unikenstraat,4,,
-9501XD,Unikenstraat,5,,
-9501XD,Unikenstraat,6,,
-9501XD,Unikenstraat,7,,
-9501XD,Unikenstraat,8,A,
-9501XD,Unikenstraat,8,,
-9501XD,Unikenstraat,9,,
-9501XD,Unikenstraat,10,,
-9501XD,Unikenstraat,11,,
-9501XD,Unikenstraat,12,,
-9501XD,Unikenstraat,13,,
-9501XD,Unikenstraat,14,,
-9501XD,Unikenstraat,15,,
-9501XD,Unikenstraat,17,,
-9501XD,Unikenstraat,18,,
-9501XD,Unikenstraat,21,,
-9501XD,Unikenstraat,22,,
-9501XD,Unikenstraat,73,T,
-9501XD,Unikenstraat,24,,
-9501XE,Unikenstraat,26,,
-9501XE,Unikenstraat,27,,
-9501XE,Unikenstraat,29,,
-9501XE,Unikenstraat,30,,
-9501XE,Unikenstraat,32,,
-9501XE,Unikenstraat,32,T,
-9501XE,Unikenstraat,33,,
-9501XE,Unikenstraat,34,,
-9501XE,Unikenstraat,35,,
-9501XE,Unikenstraat,36,,
-9501XE,Unikenstraat,37,,
-9501XE,Unikenstraat,38,,
-9501XE,Unikenstraat,39,,
-9501XE,Unikenstraat,40,,
-9501XE,Unikenstraat,41,,
-9501XE,Unikenstraat,42,A,
-9501XE,Unikenstraat,42,,
-9501XE,Unikenstraat,43,A,
-9501XE,Unikenstraat,43,,
-9501XE,Unikenstraat,44,,
-9501XE,Unikenstraat,45,,
-9501XE,Unikenstraat,46,,
-9501XE,Unikenstraat,47,,
-9501XE,Unikenstraat,48,,
-9501XG,Unikenstraat,50,,
-9501XG,Unikenstraat,51,,
-9501XG,Unikenstraat,52,,
-9501XG,Unikenstraat,53,,
-9501XG,Unikenstraat,54,,
-9501XG,Unikenstraat,55,,
-9501XG,Unikenstraat,56,,
-9501XG,Unikenstraat,57,,
-9501XG,Unikenstraat,58,,
-9501XG,Unikenstraat,59,,
-9501XG,Unikenstraat,60,,
-9501XG,Unikenstraat,62,,
-9501XG,Unikenstraat,63,,
-9501XG,Unikenstraat,64,,
-9501XG,Unikenstraat,65,,
-9501XG,Unikenstraat,66,,
-9501XG,Unikenstraat,68,,
-9501XG,Unikenstraat,70,,
-9501XG,Unikenstraat,71,,
-9501XG,Unikenstraat,72,,
-9501XG,Unikenstraat,73,,
-9501XG,Unikenstraat,74,,
-9501XH,Unikenstraat,75,,
-9501XH,Unikenstraat,76,,
-9501XH,Unikenstraat,77,,
-9501XH,Unikenstraat,78,,
-9501XH,Unikenstraat,80,,
-9501XH,Unikenstraat,81,,
-9501XH,Unikenstraat,82,,
-9501XH,Unikenstraat,83,,
-9501XH,Unikenstraat,84,,
-9501XH,Unikenstraat,85,,
-9501XH,Unikenstraat,86,,
-9501XH,Unikenstraat,87,,
-9501XH,Unikenstraat,89,,
-9501XH,Unikenstraat,91,,
-9501XH,Unikenstraat,93,,
-9501XH,Unikenstraat,94,,
-9501XH,Unikenstraat,95,,
-9501XH,Unikenstraat,96,,
-9501XH,Unikenstraat,97,,
-9501XJ,Unikenstraat,98,,
-9501XJ,Unikenstraat,100,,
-9501XJ,Unikenstraat,101,,
-9501XJ,Unikenstraat,102,,
-9501XJ,Unikenstraat,103,,
-9501XJ,Unikenstraat,104,,
-9501XJ,Unikenstraat,105,,
-9501XJ,Unikenstraat,106,,
-9501XJ,Unikenstraat,107,,
-9501XJ,Unikenstraat,108,,
-9501XJ,Unikenstraat,109,,
-9501XJ,Unikenstraat,110,,
-9501XJ,Unikenstraat,111,,
-9501XJ,Unikenstraat,106,A,
-9501XX,Wildeplaats,1,,
-9501XX,Wildeplaats,3,,
-9501XX,Wildeplaats,1,,
-9501LC,Pekelderstraat,3,,
-9501NE,H.J. Kniggestraat,31,,
-9501NJ,H.J. Kniggestraat,110,A,6
-9501NJ,H.J. Kniggestraat,110,,7
-9501NJ,H.J. Kniggestraat,110,,8
-9501NJ,H.J. Kniggestraat,110,,9
-9501NJ,H.J. Kniggestraat,110,,10
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Esdoornstraat,1,"","",9501GG,Stadskanaal
+Esdoornstraat,5,"","",9501GG,Stadskanaal
+Esdoornstraat,7,"","",9501GG,Stadskanaal
+Esdoornstraat,9,"","",9501GG,Stadskanaal
+Pekelderstraat,1,"","",9501LC,Stadskanaal
+Pekelderstraat,1,A,"",9501LC,Stadskanaal
+Pekelderstraat,1,B,"",9501LC,Stadskanaal
+Pekelderstraat,1,C,"",9501LC,Stadskanaal
+Pekelderstraat,10,"","",9501LC,Stadskanaal
+Pekelderstraat,11,"","",9501LC,Stadskanaal
+Pekelderstraat,12,"","",9501LC,Stadskanaal
+Pekelderstraat,14,"","",9501LC,Stadskanaal
+Pekelderstraat,16,"","",9501LC,Stadskanaal
+Pekelderstraat,18,"","",9501LC,Stadskanaal
+Pekelderstraat,2,"","",9501LC,Stadskanaal
+Pekelderstraat,2,C,"",9501LC,Stadskanaal
+Pekelderstraat,2,D,"",9501LC,Stadskanaal
+Pekelderstraat,20,"","",9501LC,Stadskanaal
+Pekelderstraat,24,"","",9501LC,Stadskanaal
+Pekelderstraat,26,"","",9501LC,Stadskanaal
+Pekelderstraat,3,"","",9501LC,Stadskanaal
+Pekelderstraat,3,"","",9501LC,Stadskanaal
+Pekelderstraat,3,"","",9501LC,Stadskanaal
+Pekelderstraat,30,"","",9501LC,Stadskanaal
+Pekelderstraat,4,"","",9501LC,Stadskanaal
+Pekelderstraat,5,"","",9501LC,Stadskanaal
+Pekelderstraat,6,"","",9501LC,Stadskanaal
+Pekelderstraat,7,"","",9501LC,Stadskanaal
+Pekelderstraat,8,"","",9501LC,Stadskanaal
+Pekelderstraat,9,"","",9501LC,Stadskanaal
+Pekelderstraat,9,A,"",9501LC,Stadskanaal
+Dalweg,1,"","",9501LD,Stadskanaal
+Dalweg,100,"","",9501LD,Stadskanaal
+Dalweg,100,"","",9501LD,Stadskanaal
+Dalweg,12,"","",9501LD,Stadskanaal
+Dalweg,13,"","",9501LD,Stadskanaal
+Dalweg,13,A,"",9501LD,Stadskanaal
+Dalweg,13,A,"",9501LD,Stadskanaal
+Dalweg,2,"","",9501LD,Stadskanaal
+Dalweg,2,"","",9501LD,Stadskanaal
+Dalweg,2,"","",9501LD,Stadskanaal
+Dalweg,3,"","",9501LD,Stadskanaal
+Dalweg,3,"","",9501LD,Stadskanaal
+Dalweg,3,"","",9501LD,Stadskanaal
+Dalweg,4,"","",9501LD,Stadskanaal
+Dalweg,7,"","",9501LD,Stadskanaal
+Dalweg,8,"","",9501LD,Stadskanaal
+Dalweg,8,A,"",9501LD,Stadskanaal
+Paardentram,1,"","",9501LJ,Stadskanaal
+Paardentram,3,"","",9501LJ,Stadskanaal
+Paardentram,5,"","",9501LJ,Stadskanaal
+Paardentram,7,"","",9501LJ,Stadskanaal
+Paardentram,9,"","",9501LJ,Stadskanaal
+Remise,2,"","",9501LK,Stadskanaal
+Remise,4,"","",9501LK,Stadskanaal
+Remise,6,"","",9501LK,Stadskanaal
+H.J. Kniggestraat,10,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,11,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,13,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,14,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,15,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,16,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,17,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,18,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,19,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,20,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,20,A,"",9501ND,Stadskanaal
+H.J. Kniggestraat,20,B,"",9501ND,Stadskanaal
+H.J. Kniggestraat,21,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,22,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,22,A,"",9501ND,Stadskanaal
+H.J. Kniggestraat,23,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,24,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,4,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,5,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,6,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,8,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,9,"","",9501ND,Stadskanaal
+H.J. Kniggestraat,25,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,27,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,28,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,29,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,31,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,31,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,31,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,32,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,34,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,35,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,36,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,37,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,38,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,39,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,40,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,42,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,43,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,44,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,46,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,47,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,48,"","",9501NE,Stadskanaal
+H.J. Kniggestraat,50,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,51,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,52,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,53,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,54,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,55,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,56,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,57,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,58,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,59,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,59,A,"",9501NG,Stadskanaal
+H.J. Kniggestraat,60,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,61,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,62,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,64,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,65,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,66,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,69,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,70,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,71,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,72,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,73,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,74,"","",9501NG,Stadskanaal
+H.J. Kniggestraat,75,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,76,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,77,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,78,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,81,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,82,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,82,A,"",9501NH,Stadskanaal
+H.J. Kniggestraat,82,B,"",9501NH,Stadskanaal
+H.J. Kniggestraat,82,C,"",9501NH,Stadskanaal
+H.J. Kniggestraat,82,D,"",9501NH,Stadskanaal
+H.J. Kniggestraat,82,E,"",9501NH,Stadskanaal
+H.J. Kniggestraat,82,F,"",9501NH,Stadskanaal
+H.J. Kniggestraat,82,G,"",9501NH,Stadskanaal
+H.J. Kniggestraat,83,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,86,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,87,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,88,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,90,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,91,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,92,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,93,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,93,A,"",9501NH,Stadskanaal
+H.J. Kniggestraat,93,A,"",9501NH,Stadskanaal
+H.J. Kniggestraat,93,A,"",9501NH,Stadskanaal
+H.J. Kniggestraat,93,A,"",9501NH,Stadskanaal
+H.J. Kniggestraat,95,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,96,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,97,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,98,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,99,"","",9501NH,Stadskanaal
+H.J. Kniggestraat,100,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,101,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,103,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,104,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,105,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,106,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,107,T,"",9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",13,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",14,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",15G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",15G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",16,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",16G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",16G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",17,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",17G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",17G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",18,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",18G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",18G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",19,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",19G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",19G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",20,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",20G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",20G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",21,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",21G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",21G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",22,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",22G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",22G,9501NJ,Stadskanaal
+H.J. Kniggestraat,109,"",23,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",1,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",10,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",12,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",2,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",3,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",4,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",5,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",6,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",7,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",8,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,"",9,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,A,1,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,A,5,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,A,6,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,B,1,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,C,1,9501NJ,Stadskanaal
+H.J. Kniggestraat,110,D,1,9501NJ,Stadskanaal
+H.J. Kniggestraat,111,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,113,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,114,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,115,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,116,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,118,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,119,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,120,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,121,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,122,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,123,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,124,"","",9501NJ,Stadskanaal
+H.J. Kniggestraat,124,A,"",9501NJ,Stadskanaal
+H.J. Kniggestraat,125,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,126,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,127,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,128,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,129,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,130,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,131,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,132,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,134,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,135,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,136,"","",9501NK,Stadskanaal
+H.J. Kniggestraat,137,"","",9501NK,Stadskanaal
+Badstraat,1,"","",9501NN,Stadskanaal
+Badstraat,10,"","",9501NN,Stadskanaal
+Badstraat,11,"","",9501NN,Stadskanaal
+Badstraat,12,"","",9501NN,Stadskanaal
+Badstraat,13,"","",9501NN,Stadskanaal
+Badstraat,14,"","",9501NN,Stadskanaal
+Badstraat,15,"","",9501NN,Stadskanaal
+Badstraat,16,"","",9501NN,Stadskanaal
+Badstraat,18,"","",9501NN,Stadskanaal
+Badstraat,2,"","",9501NN,Stadskanaal
+Badstraat,3,"","",9501NN,Stadskanaal
+Badstraat,4,"","",9501NN,Stadskanaal
+Badstraat,5,"","",9501NN,Stadskanaal
+Badstraat,6,"","",9501NN,Stadskanaal
+Badstraat,7,"","",9501NN,Stadskanaal
+Badstraat,8,"","",9501NN,Stadskanaal
+Badstraat,9,"","",9501NN,Stadskanaal
+Scheepswerfstraat,10,"","",9501NP,Stadskanaal
+Scheepswerfstraat,12,"","",9501NP,Stadskanaal
+Scheepswerfstraat,13,"","",9501NP,Stadskanaal
+Scheepswerfstraat,15,"","",9501NP,Stadskanaal
+Scheepswerfstraat,16,"","",9501NP,Stadskanaal
+Scheepswerfstraat,17,"","",9501NP,Stadskanaal
+Scheepswerfstraat,18,"","",9501NP,Stadskanaal
+Scheepswerfstraat,19,"","",9501NP,Stadskanaal
+Scheepswerfstraat,20,"","",9501NP,Stadskanaal
+Scheepswerfstraat,21,"","",9501NP,Stadskanaal
+Scheepswerfstraat,22,"","",9501NP,Stadskanaal
+Scheepswerfstraat,24,"","",9501NP,Stadskanaal
+Scheepswerfstraat,4,"","",9501NP,Stadskanaal
+Scheepswerfstraat,5,"","",9501NP,Stadskanaal
+Scheepswerfstraat,6,"","",9501NP,Stadskanaal
+Scheepswerfstraat,7,"","",9501NP,Stadskanaal
+Scheepswerfstraat,9,"","",9501NP,Stadskanaal
+Scheepswerfstraat,23,T,"",9501NR,Stadskanaal
+Scheepswerfstraat,25,"","",9501NR,Stadskanaal
+Scheepswerfstraat,26,"","",9501NR,Stadskanaal
+Scheepswerfstraat,27,"","",9501NR,Stadskanaal
+Scheepswerfstraat,27,A,"",9501NR,Stadskanaal
+Scheepswerfstraat,27,B,"",9501NR,Stadskanaal
+Scheepswerfstraat,27,C,"",9501NR,Stadskanaal
+Scheepswerfstraat,27,D,"",9501NR,Stadskanaal
+Scheepswerfstraat,28,"","",9501NR,Stadskanaal
+Scheepswerfstraat,29,"","",9501NR,Stadskanaal
+Scheepswerfstraat,30,"","",9501NR,Stadskanaal
+Scheepswerfstraat,31,"","",9501NR,Stadskanaal
+Scheepswerfstraat,32,"","",9501NR,Stadskanaal
+Scheepswerfstraat,33,"","",9501NR,Stadskanaal
+Scheepswerfstraat,34,"","",9501NR,Stadskanaal
+Scheepswerfstraat,35,"","",9501NR,Stadskanaal
+Scheepswerfstraat,36,"","",9501NR,Stadskanaal
+Scheepswerfstraat,38,"","",9501NR,Stadskanaal
+Scheepswerfstraat,40,"","",9501NR,Stadskanaal
+Scheepswerfstraat,41,"","",9501NR,Stadskanaal
+Scheepswerfstraat,42,"","",9501NR,Stadskanaal
+Scheepswerfstraat,43,"","",9501NR,Stadskanaal
+Scheepswerfstraat,44,"","",9501NR,Stadskanaal
+Scheepswerfstraat,45,"","",9501NS,Stadskanaal
+Scheepswerfstraat,46,"","",9501NS,Stadskanaal
+Scheepswerfstraat,46,"","",9501NS,Stadskanaal
+Scheepswerfstraat,47,"","",9501NS,Stadskanaal
+Scheepswerfstraat,48,"","",9501NS,Stadskanaal
+Scheepswerfstraat,50,"","",9501NS,Stadskanaal
+Scheepswerfstraat,51,"","",9501NS,Stadskanaal
+Scheepswerfstraat,53,"","",9501NS,Stadskanaal
+Scheepswerfstraat,54,"","",9501NS,Stadskanaal
+Scheepswerfstraat,57,"","",9501NS,Stadskanaal
+Scheepswerfstraat,58,"","",9501NS,Stadskanaal
+Scheepswerfstraat,59,"","",9501NS,Stadskanaal
+Scheepswerfstraat,61,"","",9501NS,Stadskanaal
+Scheepswerfstraat,62,"","",9501NS,Stadskanaal
+Scheepswerfstraat,63,"","",9501NS,Stadskanaal
+Scheepswerfstraat,64,"","",9501NS,Stadskanaal
+Scheepswerfstraat,65,"","",9501NT,Stadskanaal
+Scheepswerfstraat,65,"","",9501NT,Stadskanaal
+Scheepswerfstraat,65,"","",9501NT,Stadskanaal
+Scheepswerfstraat,66,"","",9501NT,Stadskanaal
+Scheepswerfstraat,67,"","",9501NT,Stadskanaal
+Scheepswerfstraat,71,"","",9501NT,Stadskanaal
+Noorderdiep,1,"","",9501XA,Stadskanaal
+Noorderdiep,1,A,"",9501XA,Stadskanaal
+Noorderdiep,1,B,"",9501XA,Stadskanaal
+Noorderdiep,1,C,"",9501XA,Stadskanaal
+Noorderdiep,11,"","",9501XA,Stadskanaal
+Noorderdiep,13,"","",9501XA,Stadskanaal
+Noorderdiep,15,"","",9501XA,Stadskanaal
+Noorderdiep,17,"","",9501XA,Stadskanaal
+Noorderdiep,19,"","",9501XA,Stadskanaal
+Noorderdiep,21,"","",9501XA,Stadskanaal
+Noorderdiep,21,"","",9501XA,Stadskanaal
+Noorderdiep,23,"","",9501XA,Stadskanaal
+Noorderdiep,23,A,"",9501XA,Stadskanaal
+Noorderdiep,25,"","",9501XA,Stadskanaal
+Noorderdiep,27,"","",9501XA,Stadskanaal
+Noorderdiep,29,"","",9501XA,Stadskanaal
+Noorderdiep,3,"","",9501XA,Stadskanaal
+Noorderdiep,31,"","",9501XA,Stadskanaal
+Noorderdiep,33,"","",9501XA,Stadskanaal
+Noorderdiep,35,"","",9501XA,Stadskanaal
+Noorderdiep,37,"","",9501XA,Stadskanaal
+Noorderdiep,4,B,"",9501XA,Stadskanaal
+Noorderdiep,5,"","",9501XA,Stadskanaal
+Noorderdiep,9,"","",9501XA,Stadskanaal
+Noorderdiep,39,"","",9501XB,Stadskanaal
+Noorderdiep,39,"","",9501XB,Stadskanaal
+Noorderdiep,45,"","",9501XB,Stadskanaal
+Noorderdiep,47,"","",9501XB,Stadskanaal
+Noorderdiep,47,A,"",9501XB,Stadskanaal
+Noorderdiep,47,A,"",9501XB,Stadskanaal
+Noorderdiep,49,"","",9501XB,Stadskanaal
+Noorderdiep,49,"","",9501XB,Stadskanaal
+Noorderdiep,51,"","",9501XB,Stadskanaal
+Noorderdiep,53,"","",9501XB,Stadskanaal
+Noorderdiep,55,"","",9501XB,Stadskanaal
+Noorderdiep,10,"","",9501XC,Stadskanaal
+Noorderdiep,12,"","",9501XC,Stadskanaal
+Noorderdiep,14,"","",9501XC,Stadskanaal
+Noorderdiep,16,"","",9501XC,Stadskanaal
+Noorderdiep,18,"","",9501XC,Stadskanaal
+Noorderdiep,2,"","",9501XC,Stadskanaal
+Noorderdiep,2,"","",9501XC,Stadskanaal
+Noorderdiep,2,"",1,9501XC,Stadskanaal
+Noorderdiep,2,A,"",9501XC,Stadskanaal
+Noorderdiep,2,A,"",9501XC,Stadskanaal
+Noorderdiep,2,A,"",9501XC,Stadskanaal
+Noorderdiep,2,B,"",9501XC,Stadskanaal
+Noorderdiep,22,"","",9501XC,Stadskanaal
+Noorderdiep,24,"","",9501XC,Stadskanaal
+Noorderdiep,30,"","",9501XC,Stadskanaal
+Noorderdiep,4,"","",9501XC,Stadskanaal
+Noorderdiep,4,A,"",9501XC,Stadskanaal
+Noorderdiep,4,B,"",9501XC,Stadskanaal
+Noorderdiep,4,B,"",9501XC,Stadskanaal
+Noorderdiep,4,C,"",9501XC,Stadskanaal
+Noorderdiep,6,"","",9501XC,Stadskanaal
+Noorderdiep,6,"","",9501XC,Stadskanaal
+Noorderdiep,6,A,"",9501XC,Stadskanaal
+Noorderdiep,8,"","",9501XC,Stadskanaal
+Unikenstraat,1,"","",9501XD,Stadskanaal
+Unikenstraat,1,"","",9501XD,Stadskanaal
+Unikenstraat,10,"","",9501XD,Stadskanaal
+Unikenstraat,11,"","",9501XD,Stadskanaal
+Unikenstraat,12,"","",9501XD,Stadskanaal
+Unikenstraat,13,"","",9501XD,Stadskanaal
+Unikenstraat,14,"","",9501XD,Stadskanaal
+Unikenstraat,15,"","",9501XD,Stadskanaal
+Unikenstraat,17,"","",9501XD,Stadskanaal
+Unikenstraat,18,"","",9501XD,Stadskanaal
+Unikenstraat,2,"","",9501XD,Stadskanaal
+Unikenstraat,2,A,"",9501XD,Stadskanaal
+Unikenstraat,2,B,"",9501XD,Stadskanaal
+Unikenstraat,21,"","",9501XD,Stadskanaal
+Unikenstraat,22,"","",9501XD,Stadskanaal
+Unikenstraat,24,"","",9501XD,Stadskanaal
+Unikenstraat,3,"","",9501XD,Stadskanaal
+Unikenstraat,4,"","",9501XD,Stadskanaal
+Unikenstraat,5,"","",9501XD,Stadskanaal
+Unikenstraat,6,"","",9501XD,Stadskanaal
+Unikenstraat,7,"","",9501XD,Stadskanaal
+Unikenstraat,73,T,"",9501XD,Stadskanaal
+Unikenstraat,8,"","",9501XD,Stadskanaal
+Unikenstraat,8,A,"",9501XD,Stadskanaal
+Unikenstraat,9,"","",9501XD,Stadskanaal
+Unikenstraat,26,"","",9501XE,Stadskanaal
+Unikenstraat,27,"","",9501XE,Stadskanaal
+Unikenstraat,29,"","",9501XE,Stadskanaal
+Unikenstraat,30,"","",9501XE,Stadskanaal
+Unikenstraat,32,"","",9501XE,Stadskanaal
+Unikenstraat,32,T,"",9501XE,Stadskanaal
+Unikenstraat,32,T,"",9501XE,Stadskanaal
+Unikenstraat,33,"","",9501XE,Stadskanaal
+Unikenstraat,34,"","",9501XE,Stadskanaal
+Unikenstraat,35,"","",9501XE,Stadskanaal
+Unikenstraat,36,"","",9501XE,Stadskanaal
+Unikenstraat,37,"","",9501XE,Stadskanaal
+Unikenstraat,38,"","",9501XE,Stadskanaal
+Unikenstraat,39,"","",9501XE,Stadskanaal
+Unikenstraat,40,"","",9501XE,Stadskanaal
+Unikenstraat,41,"","",9501XE,Stadskanaal
+Unikenstraat,42,"","",9501XE,Stadskanaal
+Unikenstraat,42,A,"",9501XE,Stadskanaal
+Unikenstraat,43,"","",9501XE,Stadskanaal
+Unikenstraat,43,A,"",9501XE,Stadskanaal
+Unikenstraat,44,"","",9501XE,Stadskanaal
+Unikenstraat,45,"","",9501XE,Stadskanaal
+Unikenstraat,46,"","",9501XE,Stadskanaal
+Unikenstraat,47,"","",9501XE,Stadskanaal
+Unikenstraat,48,"","",9501XE,Stadskanaal
+Unikenstraat,50,"","",9501XG,Stadskanaal
+Unikenstraat,51,"","",9501XG,Stadskanaal
+Unikenstraat,52,"","",9501XG,Stadskanaal
+Unikenstraat,53,"","",9501XG,Stadskanaal
+Unikenstraat,54,"","",9501XG,Stadskanaal
+Unikenstraat,55,"","",9501XG,Stadskanaal
+Unikenstraat,56,"","",9501XG,Stadskanaal
+Unikenstraat,57,"","",9501XG,Stadskanaal
+Unikenstraat,58,"","",9501XG,Stadskanaal
+Unikenstraat,59,"","",9501XG,Stadskanaal
+Unikenstraat,60,"","",9501XG,Stadskanaal
+Unikenstraat,62,"","",9501XG,Stadskanaal
+Unikenstraat,63,"","",9501XG,Stadskanaal
+Unikenstraat,64,"","",9501XG,Stadskanaal
+Unikenstraat,65,"","",9501XG,Stadskanaal
+Unikenstraat,66,"","",9501XG,Stadskanaal
+Unikenstraat,68,"","",9501XG,Stadskanaal
+Unikenstraat,70,"","",9501XG,Stadskanaal
+Unikenstraat,71,"","",9501XG,Stadskanaal
+Unikenstraat,72,"","",9501XG,Stadskanaal
+Unikenstraat,73,"","",9501XG,Stadskanaal
+Unikenstraat,74,"","",9501XG,Stadskanaal
+Unikenstraat,75,"","",9501XH,Stadskanaal
+Unikenstraat,76,"","",9501XH,Stadskanaal
+Unikenstraat,77,"","",9501XH,Stadskanaal
+Unikenstraat,78,"","",9501XH,Stadskanaal
+Unikenstraat,80,"","",9501XH,Stadskanaal
+Unikenstraat,81,"","",9501XH,Stadskanaal
+Unikenstraat,82,"","",9501XH,Stadskanaal
+Unikenstraat,83,"","",9501XH,Stadskanaal
+Unikenstraat,84,"","",9501XH,Stadskanaal
+Unikenstraat,85,"","",9501XH,Stadskanaal
+Unikenstraat,86,"","",9501XH,Stadskanaal
+Unikenstraat,87,"","",9501XH,Stadskanaal
+Unikenstraat,89,"","",9501XH,Stadskanaal
+Unikenstraat,91,"","",9501XH,Stadskanaal
+Unikenstraat,93,"","",9501XH,Stadskanaal
+Unikenstraat,94,"","",9501XH,Stadskanaal
+Unikenstraat,95,"","",9501XH,Stadskanaal
+Unikenstraat,96,"","",9501XH,Stadskanaal
+Unikenstraat,97,"","",9501XH,Stadskanaal
+Unikenstraat,100,"","",9501XJ,Stadskanaal
+Unikenstraat,101,"","",9501XJ,Stadskanaal
+Unikenstraat,102,"","",9501XJ,Stadskanaal
+Unikenstraat,103,"","",9501XJ,Stadskanaal
+Unikenstraat,104,"","",9501XJ,Stadskanaal
+Unikenstraat,105,"","",9501XJ,Stadskanaal
+Unikenstraat,106,"","",9501XJ,Stadskanaal
+Unikenstraat,106,A,"",9501XJ,Stadskanaal
+Unikenstraat,107,"","",9501XJ,Stadskanaal
+Unikenstraat,108,"","",9501XJ,Stadskanaal
+Unikenstraat,109,"","",9501XJ,Stadskanaal
+Unikenstraat,110,"","",9501XJ,Stadskanaal
+Unikenstraat,111,"","",9501XJ,Stadskanaal
+Unikenstraat,98,"","",9501XJ,Stadskanaal
+Wildeplaats,1,"","",9501XX,Stadskanaal
+Wildeplaats,1,"","",9501XX,Stadskanaal
+Wildeplaats,1,"","",9501XX,Stadskanaal
+Wildeplaats,3,"","",9501XX,Stadskanaal

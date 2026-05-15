@@ -1,859 +1,438 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8308PA",16,"","TR"
-"8308PA",20,"","TR"
-"8308PA",33,"",""
-"8308PA",20,"",""
-"8308PB",8,"",""
-"8308PB",9,"",""
-"8308PB",15,"A",""
-"8308PB",11,"A",""
-"8308PB",9,"","TR"
-"8308PB",13,"",""
-"8308PB",7,"",""
-"8308PB",11,"",""
-"8308PB",13,"",""
-"8308PB",11,"C",""
-"8308PB",15,"D",""
-"8308PB",16,"",""
-"8308PB",11,"B",""
-"8308PB",7,"","1"
-"8308PB",15,"C",""
-"8308PB",13,"",""
-"8308PB",12,"",""
-"8308PB",18,"",""
-"8308PB",15,"",""
-"8308PB",8,"",""
-"8308PB",8,"",""
-"8308PB",15,"B",""
-"8308PC",7,"","TR"
-"8308PC",5,"","1"
-"8308PC",15,"","TR"
-"8308PC",15,"",""
-"8308PC",7,"","1"
-"8308PC",9,"","TR"
-"8308PC",5,"","2"
-"8308PC",13,"",""
-"8308PC",5,"","3"
-"8308PC",3,"","2"
-"8308PC",3,"","1"
-"8308PC",15,"",""
-"8308PC",7,"","2"
-"8308PC",9,"",""
-"8308PC",7,"","1A"
-"8308PD",4,"","TR"
-"8308PD",4,"",""
-"8308PD",6,"","1"
-"8308PD",14,"",""
-"8308PD",16,"",""
-"8308PD",8,"","1"
-"8308PD",6,"","2"
-"8308PD",8,"","2"
-"8308PD",10,"",""
-"8308PE",17,"",""
-"8308PE",15,"",""
-"8308PE",12,"",""
-"8308PE",11,"",""
-"8308PE",12,"","TR"
-"8308PE",8,"","TR"
-"8308PE",8,"",""
-"8308PE",9,"",""
-"8308PG",14,"",""
-"8308PG",1,"",""
-"8308PG",14,"",""
-"8308PG",3,"","TR"
-"8308PG",9,"",""
-"8308PG",16,"C",""
-"8308PG",16,"B",""
-"8308PG",16,"",""
-"8308PG",11,"",""
-"8308PG",13,"",""
-"8308PG",11,"","1"
-"8308PG",16,"D",""
-"8308PG",11,"",""
-"8308PG",13,"","TR"
-"8308PG",16,"A",""
-"8308PG",11,"",""
-"8308PH",9,"C",""
-"8308PH",13,"",""
-"8308PH",13,"","TR"
-"8308PH",3,"",""
-"8308PH",9,"B",""
-"8308PH",9,"D",""
-"8308PH",7,"",""
-"8308PH",3,"","TR"
-"8308PH",9,"A",""
-"8308PH",1,"A",""
-"8308PH",1,"B",""
-"8308PH",11,"",""
-"8308PJ",15,"D",""
-"8308PJ",21,"B",""
-"8308PJ",15,"C",""
-"8308PJ",21,"",""
-"8308PJ",21,"D",""
-"8308PJ",15,"B",""
-"8308PJ",21,"A",""
-"8308PJ",17,"",""
-"8308PJ",15,"A",""
-"8308PJ",17,"","TR"
-"8308PK",14,"",""
-"8308PK",18,"",""
-"8308PK",12,"",""
-"8308PK",6,"",""
-"8308PK",10,"","TR"
-"8308PK",2,"",""
-"8308PK",10,"",""
-"8308PK",14,"","1"
-"8308PK",14,"","2"
-"8308PK",16,"",""
-"8308PK",14,"",""
-"8308PK",16,"",""
-"8308PK",16,"",""
-"8308PK",14,"",""
-"8308PK",6,"","TR"
-"8308PL",3,"A",""
-"8308PL",1,"","TR"
-"8308PL",3,"D",""
-"8308PL",5,"",""
-"8308PL",1,"",""
-"8308PL",7,"A",""
-"8308PL",3,"B",""
-"8308PL",7,"B",""
-"8308PL",7,"",""
-"8308PL",3,"C",""
-"8308PL",7,"D",""
-"8308PL",7,"C",""
-"8308PM",13,"",""
-"8308PM",11,"B",""
-"8308PM",13,"B",""
-"8308PM",13,"A",""
-"8308PM",11,"C",""
-"8308PM",11,"",""
-"8308PM",13,"C",""
-"8308PM",11,"A",""
-"8308PM",9,"",""
-"8308PN",4,"",""
-"8308PN",14,"",""
-"8308PN",8,"",""
-"8308PN",2,"",""
-"8308PN",10,"",""
-"8308PP",11,"",""
-"8308PP",13,"A",""
-"8308PP",5,"","2A"
-"8308PP",5,"","1"
-"8308PP",13,"A",""
-"8308PP",13,"",""
-"8308PP",7,"",""
-"8308PP",13,"","TR"
-"8308PP",11,"","TR"
-"8308PP",5,"","2"
-"8308PR",15,"B",""
-"8308PR",15,"D",""
-"8308PR",21,"",""
-"8308PR",15,"A",""
-"8308PR",15,"",""
-"8308PR",15,"C",""
-"8308PR",21,"","TR"
-"8308PR",17,"",""
-"8308PS",2,"","1"
-"8308PS",4,"","1"
-"8308PS",4,"","2"
-"8308PS",6,"","2"
-"8308PS",2,"","2"
-"8308PS",4,"","TR"
-"8308PS",6,"","1"
-"8308PS",2,"","TR"
-"8308PT",6,"A",""
-"8308PT",8,"",""
-"8308PT",10,"",""
-"8308PT",14,"",""
-"8308PT",12,"",""
-"8308PT",6,"D",""
-"8308PT",2,"","TR"
-"8308PT",8,"","TR"
-"8308PT",6,"B",""
-"8308PT",6,"E",""
-"8308PT",4,"",""
-"8308PT",6,"C",""
-"8308PT",2,"",""
-"8308PT",6,"",""
-"8308PT",12,"","TR"
-"8308PV",1,"",""
-"8308PV",5,"",""
-"8308PV",3,"",""
-"8308PV",1,"",""
-"8308PV",1,"",""
-"8308PW",17,"",""
-"8308PW",21,"",""
-"8308PW",23,"B",""
-"8308PW",22,"",""
-"8308PW",17,"","TR"
-"8308PW",19,"",""
-"8308PW",18,"",""
-"8308PW",23,"A",""
-"8308PW",22,"","TR"
-"8308PW",19,"","TR"
-"8308PX",22,"",""
-"8308PX",19,"",""
-"8308PX",53,"",""
-"8308PX",21,"",""
-"8308PX",23,"",""
-"8308PX",17,"",""
-"8308PX",20,"",""
-"8308PX",15,"",""
-"8308PX",26,"",""
-"8308PX",28,"",""
-"8308PX",18,"",""
-"8308PX",10,"",""
-"8308PX",13,"",""
-"8308PX",11,"",""
-"8308PX",8,"",""
-"8308PX",33,"","TR"
-"8308PX",14,"",""
-"8308PX",12,"",""
-"8308PX",54,"",""
-"8308PX",29,"",""
-"8308PX",36,"",""
-"8308PX",25,"",""
-"8308PX",16,"",""
-"8308PX",9,"",""
-"8308PX",40,"",""
-"8308PX",3,"",""
-"8308PX",52,"",""
-"8308PX",4,"",""
-"8308PX",50,"",""
-"8308PX",30,"",""
-"8308PX",24,"",""
-"8308PX",41,"",""
-"8308PX",47,"",""
-"8308PX",7,"",""
-"8308PX",27,"",""
-"8308PX",37,"",""
-"8308PX",2,"",""
-"8308PX",35,"",""
-"8308PX",49,"",""
-"8308PX",51,"",""
-"8308PX",43,"",""
-"8308PX",31,"",""
-"8308PX",6,"",""
-"8308PX",5,"",""
-"8308PX",44,"",""
-"8308PX",1,"",""
-"8308PX",39,"",""
-"8308PX",38,"",""
-"8308PX",48,"",""
-"8308PX",45,"",""
-"8308PX",46,"",""
-"8308PX",42,"",""
-"8308PX",34,"",""
-"8308PZ",31,"",""
-"8308PZ",45,"","TR"
-"8308PZ",37,"",""
-"8308PZ",39,"",""
-"8308PZ",14,"B",""
-"8308PZ",43,"",""
-"8308PZ",45,"",""
-"8308PZ",14,"C",""
-"8308PZ",33,"",""
-"8308PZ",43,"B",""
-"8308PZ",16,"","TR"
-"8308PZ",16,"",""
-"8308PZ",43,"A",""
-"8308PZ",14,"D",""
-"8308PZ",31,"",""
-"8308PZ",39,"","TR"
-"8308PZ",14,"A",""
-"8308PZ",39,"","TR"
-"8308PZ",31,"",""
-"8308PZ",45,"","TR2"
-"8308PZ",45,"","TR2"
-"8308RA",1,"F",""
-"8308RA",1,"E",""
-"8308RA",1,"",""
-"8308RA",1,"C",""
-"8308RA",1,"D",""
-"8308RA",3,"",""
-"8308RA",1,"A",""
-"8308RA",1,"B",""
-"8308RB",13,"",""
-"8308RB",17,"",""
-"8308RB",5,"",""
-"8308RB",11,"","TR"
-"8308RB",11,"",""
-"8308RB",23,"","TR"
-"8308RB",25,"",""
-"8308RB",23,"",""
-"8308RB",25,"","TR"
-"8308RB",27,"",""
-"8308RC",9,"",""
-"8308RC",3,"",""
-"8308RC",7,"D",""
-"8308RC",7,"B",""
-"8308RC",7,"A",""
-"8308RC",5,"",""
-"8308RC",7,"",""
-"8308RC",7,"C",""
-"8308RD",13,"","TR"
-"8308RD",17,"",""
-"8308RD",11,"B",""
-"8308RD",13,"",""
-"8308RD",13,"","TR"
-"8308RD",11,"C",""
-"8308RD",15,"",""
-"8308RD",11,"A",""
-"8308RE",18,"","TR"
-"8308RE",20,"",""
-"8308RE",10,"",""
-"8308RE",18,"",""
-"8308RE",6,"","TR"
-"8308RE",10,"","TR"
-"8308RE",8,"",""
-"8308RE",16,"",""
-"8308RE",4,"",""
-"8308RE",6,"",""
-"8308RE",12,"",""
-"8308RE",12,"","TR"
-"8308RG",11,"",""
-"8308RG",3,"",""
-"8308RG",7,"",""
-"8308RG",5,"",""
-"8308RG",9,"",""
-"8308RH",6,"","TR"
-"8308RH",8,"","2"
-"8308RH",8,"","1"
-"8308RH",4,"C",""
-"8308RH",6,"",""
-"8308RH",4,"",""
-"8308RH",4,"A",""
-"8308RH",2,"",""
-"8308RH",4,"B",""
-"8308RH",2,"","TR"
-"8308RH",8,"","TR"
-"8308RJ",12,"C",""
-"8308RJ",10,"",""
-"8308RJ",12,"B",""
-"8308RJ",14,"",""
-"8308RJ",12,"A",""
-"8308RJ",24,"",""
-"8308RJ",20,"",""
-"8308RJ",24,"",""
-"8308RJ",24,"",""
-"8308RJ",14,"","TR"
-"8308RJ",24,"","2"
-"8308RJ",12,"D",""
-"8308RJ",24,"","1"
-"8308RJ",22,"",""
-"8308RK",3,"",""
-"8308RK",7,"",""
-"8308RL",4,"","TR"
-"8308RL",4,"A",""
-"8308RL",4,"",""
-"8308RL",8,"B",""
-"8308RL",8,"",""
-"8308RL",4,"C",""
-"8308RL",4,"B",""
-"8308RL",8,"A",""
-"8308RL",4,"","TR"
-"8308RL",6,"",""
-"8308RL",4,"D",""
-"8308RM",12,"","TR"
-"8308RM",10,"F",""
-"8308RM",10,"D",""
-"8308RM",12,"",""
-"8308RM",10,"A",""
-"8308RM",10,"C",""
-"8308RM",10,"E",""
-"8308RM",10,"B",""
-"8308RN",9,"",""
-"8308RN",3,"",""
-"8308RN",11,"B",""
-"8308RN",7,"",""
-"8308RN",11,"A",""
-"8308RN",5,"A",""
-"8308RN",11,"","TR"
-"8308RN",11,"",""
-"8308RN",11,"A",""
-"8308RN",11,"B",""
-"8308RN",11,"A",""
-"8308RN",11,"C",""
-"8308RP",15,"",""
-"8308RP",15,"A",""
-"8308RP",17,"C",""
-"8308RP",17,"","TR"
-"8308RP",17,"",""
-"8308RP",17,"B",""
-"8308RP",15,"D",""
-"8308RP",17,"","1"
-"8308RP",17,"A",""
-"8308RP",15,"B",""
-"8308RP",15,"C",""
-"8308RR",16,"",""
-"8308RR",10,"",""
-"8308RR",18,"",""
-"8308RR",16,"",""
-"8308RR",16,"",""
-"8308RS",9,"","1"
-"8308RS",5,"","2"
-"8308RS",3,"","1"
-"8308RS",5,"","1"
-"8308RS",1,"",""
-"8308RS",3,"","2"
-"8308RS",11,"","2"
-"8308RS",7,"","2"
-"8308RS",9,"","2"
-"8308RS",7,"","1"
-"8308RS",11,"","1"
-"8308RT",15,"A",""
-"8308RT",17,"A",""
-"8308RT",13,"","1"
-"8308RT",17,"",""
-"8308RT",13,"",""
-"8308RT",15,"B",""
-"8308RT",13,"",""
-"8308RT",15,"C",""
-"8308RT",13,"",""
-"8308RV",18,"A",""
-"8308RV",2,"",""
-"8308RV",2,"","TR"
-"8308RV",10,"","TR"
-"8308RV",12,"",""
-"8308RV",18,"","TR"
-"8308RV",18,"",""
-"8308RV",18,"B",""
-"8308RV",4,"A",""
-"8308RV",12,"",""
-"8308RV",10,"",""
-"8308RV",6,"",""
-"8308RV",4,"B",""
-"8308RV",6,"","TR"
-"8308TA",4,"",""
-"8308TA",3,"",""
-"8309PJ",8,"",""
-"8309PJ",8,"","TR"
-"8309PJ",1,"A",""
-"8309PJ",4,"",""
-"8309PJ",3,"",""
-"8309PJ",5,"",""
-"8309PJ",6,"",""
-"8309PJ",5,"",""
-"8309PJ",5,"",""
-8308RA,Ketelmeerweg,1,,
-8308RA,Ketelmeerweg,1,A,
-8308RA,Ketelmeerweg,1,B,
-8308RA,Ketelmeerweg,1,C,
-8308RA,Ketelmeerweg,1,D,
-8308RA,Ketelmeerweg,1,E,
-8308RA,Ketelmeerweg,1,F,
-8308RA,Ketelmeerweg,3,,
-8308RB,Ketelmeerweg,5,,
-8308RB,Ketelmeerweg,11,,
-8308RB,Ketelmeerweg,17,,
-8308RB,Ketelmeerweg,23,,
-8308RB,Ketelmeerweg,25,,
-8308RB,Ketelmeerweg,27,,
-8308RN,Abtsweg,3,,
-8308RN,Abtsweg,5,A,
-8308RN,Abtsweg,7,,
-8308RN,Abtsweg,9,,
-8308RN,Abtsweg,11,,
-8308RN,Abtsweg,11,A,
-8308RN,Abtsweg,11,B,
-8308RN,Abtsweg,11,C,
-8308RP,Abtsweg,15,,
-8308RP,Abtsweg,15,A,
-8308RP,Abtsweg,15,B,
-8308RP,Abtsweg,15,C,
-8308RP,Abtsweg,15,D,
-8308RP,Abtsweg,17,A,
-8308RP,Abtsweg,17,B,
-8308RP,Abtsweg,17,C,
-8308RR,Abtsweg,10,,
-8308RR,Abtsweg,16,,
-8308RR,Abtsweg,18,,
-8308PG,Domineesweg,1,,
-8308PG,Domineesweg,9,,
-8308PG,Domineesweg,11,,
-8308PG,Domineesweg,13,,
-8308PG,Domineesweg,16,,
-8308PG,Domineesweg,16,A,
-8308PG,Domineesweg,16,B,
-8308PG,Domineesweg,16,C,
-8308PG,Domineesweg,16,D,
-8308PE,Han Stijkelweg,9,,
-8308PE,Han Stijkelweg,11,,
-8308PE,Han Stijkelweg,12,,
-8308PE,Han Stijkelweg,17,,
-8308RG,Havenweg,3,,
-8308RG,Havenweg,5,,
-8308RG,Havenweg,7,,
-8308RG,Havenweg,9,,
-8308RG,Havenweg,11,,
-8308RH,Havenweg,2,,
-8308RH,Havenweg,4,A,
-8308RH,Havenweg,4,B,
-8308RH,Havenweg,4,C,
-8308RJ,Havenweg,10,,
-8308RJ,Havenweg,12,A,
-8308RJ,Havenweg,12,B,
-8308RJ,Havenweg,12,C,
-8308RJ,Havenweg,12,D,
-8308RJ,Havenweg,14,,
-8308RJ,Havenweg,20,,
-8308PB,Johannes Postweg,8,,
-8308PB,Johannes Postweg,11,,
-8308PB,Johannes Postweg,11,A,
-8308PB,Johannes Postweg,11,B,
-8308PB,Johannes Postweg,11,C,
-8308PB,Johannes Postweg,12,,
-8308PB,Johannes Postweg,13,,
-8308PB,Johannes Postweg,15,,
-8308PB,Johannes Postweg,15,A,
-8308PB,Johannes Postweg,15,B,
-8308PB,Johannes Postweg,15,C,
-8308PB,Johannes Postweg,15,D,
-8308PB,Johannes Postweg,16,,
-8308PB,Johannes Postweg,18,,
-8308RB,Ketelmeerweg,11,,TR
-8308RB,Ketelmeerweg,13,,
-8308RB,Ketelmeerweg,23,,TR
-8308RB,Ketelmeerweg,25,,TR
-8308RN,Abtsweg,11,,TR
-8308RP,Abtsweg,17,,TR
-8308RP,Abtsweg,17,,
-8308PG,Domineesweg,13,,TR
-8308PE,Han Stijkelweg,8,,TR
-8308PE,Han Stijkelweg,8,,
-8308PE,Han Stijkelweg,12,,TR
-8308PE,Han Stijkelweg,15,,
-8309PJ,Han Stijkelweg,1,A,
-8309PJ,Han Stijkelweg,3,,
-8309PJ,Han Stijkelweg,4,,
-8309PJ,Han Stijkelweg,6,,
-8309PJ,Han Stijkelweg,5,,
-8309PJ,Han Stijkelweg,8,,TR
-8309PJ,Han Stijkelweg,8,,
-8308RH,Havenweg,2,,TR
-8308RH,Havenweg,4,,
-8308RH,Havenweg,6,,TR
-8308RH,Havenweg,6,,
-8308RH,Havenweg,8,,1
-8308RH,Havenweg,8,,TR
-8308RH,Havenweg,8,,2
-8308RJ,Havenweg,14,,TR
-8308RJ,Havenweg,22,,
-8308PB,Johannes Postweg,7,,
-8308PB,Johannes Postweg,9,,TR
-8308PB,Johannes Postweg,9,,
-8308PZ,Zuidermeerweg,14,A,
-8308PZ,Zuidermeerweg,14,B,
-8308PZ,Zuidermeerweg,14,C,
-8308PZ,Zuidermeerweg,14,D,
-8308PZ,Zuidermeerweg,16,,
-8308PZ,Zuidermeerweg,31,,
-8308PZ,Zuidermeerweg,33,,
-8308PZ,Zuidermeerweg,37,,
-8308PZ,Zuidermeerweg,39,,
-8308PZ,Zuidermeerweg,43,,
-8308PZ,Zuidermeerweg,45,,
-8308PZ,Zuidermeerweg,16,,TR
-8308PZ,Zuidermeerweg,39,,TR
-8308PZ,Zuidermeerweg,45,,TR
-8308PZ,Zuidermeerweg,45,,TR2
-8308PC,Zuidwesterringweg,9,,
-8308PC,Zuidwesterringweg,13,,
-8308PC,Zuidwesterringweg,15,,
-8308PC,Zuidwesterringweg,3,,1
-8308PC,Zuidwesterringweg,3,,2
-8308PC,Zuidwesterringweg,5,,1
-8308PC,Zuidwesterringweg,5,,2
-8308PC,Zuidwesterringweg,7,,1
-8308PC,Zuidwesterringweg,7,,TR
-8308PC,Zuidwesterringweg,7,,1A
-8308PC,Zuidwesterringweg,7,,2
-8308PC,Zuidwesterringweg,9,,TR
-8308PC,Zuidwesterringweg,15,,TR
-8308PD,Zuidwesterringweg,4,,
-8308PD,Zuidwesterringweg,10,,
-8308PD,Zuidwesterringweg,14,,
-8308PD,Zuidwesterringweg,16,,
-8308PD,Zuidwesterringweg,4,,TR
-8308PD,Zuidwesterringweg,6,,1
-8308PD,Zuidwesterringweg,6,,2
-8308PD,Zuidwesterringweg,8,,1
-8308PD,Zuidwesterringweg,8,,2
-8308RK,Monnikenweg,7,,
-8308RK,Monnikenweg,3,,
-8308RL,Monnikenweg,4,,
-8308RL,Monnikenweg,4,A,
-8308RL,Monnikenweg,4,B,
-8308RL,Monnikenweg,4,C,
-8308RL,Monnikenweg,4,D,
-8308RL,Monnikenweg,6,,
-8308RL,Monnikenweg,8,,
-8308RL,Monnikenweg,8,A,
-8308RL,Monnikenweg,8,B,
-8308RL,Monnikenweg,4,,TR
-8308RM,Monnikenweg,10,A,
-8308RM,Monnikenweg,10,B,
-8308RM,Monnikenweg,10,C,
-8308RM,Monnikenweg,10,D,
-8308RM,Monnikenweg,10,E,
-8308RM,Monnikenweg,10,F,
-8308RM,Monnikenweg,12,,
-8308RM,Monnikenweg,12,,TR
-8308PA,Nagelerweg,16,,TR
-8308PA,Nagelerweg,20,,
-8308PA,Nagelerweg,33,,
-8308PA,Nagelerweg,20,,TR
-8308PH,Oud Emmeloorderweg,1,A,
-8308PH,Oud Emmeloorderweg,1,B,
-8308PH,Oud Emmeloorderweg,3,,
-8308PH,Oud Emmeloorderweg,7,,
-8308PH,Oud Emmeloorderweg,9,A,
-8308PH,Oud Emmeloorderweg,9,B,
-8308PH,Oud Emmeloorderweg,9,C,
-8308PH,Oud Emmeloorderweg,9,D,
-8308PH,Oud Emmeloorderweg,11,,
-8308PH,Oud Emmeloorderweg,13,,
-8308PH,Oud Emmeloorderweg,3,,TR
-8308PH,Oud Emmeloorderweg,13,,TR
-8308PJ,Oud Emmeloorderweg,15,A,
-8308PJ,Oud Emmeloorderweg,15,B,
-8308PJ,Oud Emmeloorderweg,15,C,
-8308PJ,Oud Emmeloorderweg,15,D,
-8308PJ,Oud Emmeloorderweg,17,,
-8308PJ,Oud Emmeloorderweg,21,,
-8308PJ,Oud Emmeloorderweg,21,A,
-8308PJ,Oud Emmeloorderweg,21,B,
-8308PJ,Oud Emmeloorderweg,21,D,
-8308PJ,Oud Emmeloorderweg,17,,TR
-8308PK,Oud Emmeloorderweg,2,,
-8308PK,Oud Emmeloorderweg,10,,
-8308PK,Oud Emmeloorderweg,14,,
-8308PK,Oud Emmeloorderweg,16,,
-8308PK,Oud Emmeloorderweg,18,,
-8308PK,Oud Emmeloorderweg,6,,TR
-8308PK,Oud Emmeloorderweg,6,,
-8308PK,Oud Emmeloorderweg,10,,TR
-8308PK,Oud Emmeloorderweg,12,,
-8308PT,Palenweg,2,,
-8308PT,Palenweg,4,,
-8308PT,Palenweg,6,,
-8308PT,Palenweg,6,A,
-8308PT,Palenweg,6,B,
-8308PT,Palenweg,6,C,
-8308PT,Palenweg,6,D,
-8308PT,Palenweg,6,E,
-8308PT,Palenweg,8,,
-8308PT,Palenweg,10,,
-8308PT,Palenweg,12,,
-8308PT,Palenweg,14,,
-8308PT,Palenweg,2,,TR
-8308PT,Palenweg,8,,TR
-8308PT,Palenweg,12,,TR
-8308PV,Palenweg,3,,
-8308PV,Palenweg,5,,
-8308RS,Professor Brandsmaweg,1,,
-8308RS,Professor Brandsmaweg,3,,1
-8308RS,Professor Brandsmaweg,3,,2
-8308RS,Professor Brandsmaweg,5,,1
-8308RS,Professor Brandsmaweg,5,,2
-8308RS,Professor Brandsmaweg,7,,1
-8308RS,Professor Brandsmaweg,7,,2
-8308RS,Professor Brandsmaweg,9,,1
-8308RS,Professor Brandsmaweg,9,,2
-8308RS,Professor Brandsmaweg,11,,1
-8308RS,Professor Brandsmaweg,11,,2
-8308RT,Professor Brandsmaweg,13,,
-8308RT,Professor Brandsmaweg,15,A,
-8308RT,Professor Brandsmaweg,15,B,
-8308RT,Professor Brandsmaweg,15,C,
-8308RT,Professor Brandsmaweg,17,,
-8308RT,Professor Brandsmaweg,17,A,
-8308RV,Professor Brandsmaweg,2,,
-8308RV,Professor Brandsmaweg,4,A,
-8308RV,Professor Brandsmaweg,4,B,
-8308RV,Professor Brandsmaweg,6,,
-8308RV,Professor Brandsmaweg,10,,
-8308RV,Professor Brandsmaweg,18,,
-8308RV,Professor Brandsmaweg,18,A,
-8308RV,Professor Brandsmaweg,18,B,
-8308RV,Professor Brandsmaweg,2,,TR
-8308RV,Professor Brandsmaweg,6,,TR
-8308RV,Professor Brandsmaweg,10,,TR
-8308RV,Professor Brandsmaweg,12,,
-8308RV,Professor Brandsmaweg,18,,TR
-8308PW,Ramsweg,17,,
-8308PW,Ramsweg,19,,
-8308PW,Ramsweg,21,,
-8308PW,Ramsweg,22,,
-8308PW,Ramsweg,23,A,
-8308PW,Ramsweg,23,B,
-8308PW,Ramsweg,17,,TR
-8308PW,Ramsweg,18,,
-8308PW,Ramsweg,19,,TR
-8308PW,Ramsweg,22,,TR
-8308TA,Rijksweg A6,3,,
-8308TA,Rijksweg A6,4,,
-8308PX,Schokkerhaven,1,,
-8308PX,Schokkerhaven,2,,
-8308PX,Schokkerhaven,3,,
-8308PX,Schokkerhaven,4,,
-8308PX,Schokkerhaven,5,,
-8308PX,Schokkerhaven,6,,
-8308PX,Schokkerhaven,7,,
-8308PX,Schokkerhaven,8,,
-8308PX,Schokkerhaven,9,,
-8308PX,Schokkerhaven,10,,
-8308PX,Schokkerhaven,11,,
-8308PX,Schokkerhaven,12,,
-8308PX,Schokkerhaven,13,,
-8308PX,Schokkerhaven,14,,
-8308PX,Schokkerhaven,15,,
-8308PX,Schokkerhaven,16,,
-8308PX,Schokkerhaven,17,,
-8308PX,Schokkerhaven,18,,
-8308PX,Schokkerhaven,19,,
-8308PX,Schokkerhaven,20,,
-8308PX,Schokkerhaven,21,,
-8308PX,Schokkerhaven,22,,
-8308PX,Schokkerhaven,23,,
-8308PX,Schokkerhaven,24,,
-8308PX,Schokkerhaven,25,,
-8308PX,Schokkerhaven,26,,
-8308PX,Schokkerhaven,27,,
-8308PX,Schokkerhaven,28,,
-8308PX,Schokkerhaven,29,,
-8308PX,Schokkerhaven,30,,
-8308PX,Schokkerhaven,31,,
-8308PX,Schokkerhaven,34,,
-8308PX,Schokkerhaven,35,,
-8308PX,Schokkerhaven,36,,
-8308PX,Schokkerhaven,37,,
-8308PX,Schokkerhaven,38,,
-8308PX,Schokkerhaven,39,,
-8308PX,Schokkerhaven,40,,
-8308PX,Schokkerhaven,41,,
-8308PX,Schokkerhaven,42,,
-8308PX,Schokkerhaven,43,,
-8308PX,Schokkerhaven,44,,
-8308PX,Schokkerhaven,45,,
-8308PX,Schokkerhaven,46,,
-8308PX,Schokkerhaven,47,,
-8308PX,Schokkerhaven,48,,
-8308PX,Schokkerhaven,49,,
-8308PX,Schokkerhaven,50,,
-8308PX,Schokkerhaven,51,,
-8308PX,Schokkerhaven,52,,
-8308PX,Schokkerhaven,53,,
-8308PX,Schokkerhaven,54,,
-8308PX,Schokkerhaven,33,,TR
-8308PP,Schokkerringweg,7,,
-8308PP,Schokkerringweg,11,,
-8308PP,Schokkerringweg,5,,1
-8308PP,Schokkerringweg,5,,2
-8308PP,Schokkerringweg,5,,2A
-8308PP,Schokkerringweg,11,,TR
-8308PP,Schokkerringweg,13,A,
-8308PP,Schokkerringweg,13,A,
-8308PP,Schokkerringweg,13,,TR
-8308PP,Schokkerringweg,13,,
-8308PR,Schokkerringweg,15,,
-8308PR,Schokkerringweg,15,A,
-8308PR,Schokkerringweg,15,B,
-8308PR,Schokkerringweg,15,C,
-8308PR,Schokkerringweg,15,D,
-8308PR,Schokkerringweg,17,,
-8308PR,Schokkerringweg,21,,
-8308PR,Schokkerringweg,21,,TR
-8308PS,Schokkerringweg,2,,1
-8308PS,Schokkerringweg,2,,TR
-8308PS,Schokkerringweg,2,,2
-8308PS,Schokkerringweg,4,,1
-8308PS,Schokkerringweg,4,,TR
-8308PS,Schokkerringweg,4,,2
-8308PS,Schokkerringweg,6,,1
-8308PS,Schokkerringweg,6,,2
-8308RC,Sluitgatweg,3,,
-8308RC,Sluitgatweg,5,,
-8308RC,Sluitgatweg,7,,
-8308RC,Sluitgatweg,7,A,
-8308RC,Sluitgatweg,7,B,
-8308RC,Sluitgatweg,7,C,
-8308RC,Sluitgatweg,7,D,
-8308RC,Sluitgatweg,9,,
-8308RD,Sluitgatweg,11,A,
-8308RD,Sluitgatweg,11,B,
-8308RD,Sluitgatweg,11,C,
-8308RD,Sluitgatweg,13,,
-8308RD,Sluitgatweg,15,,
-8308RD,Sluitgatweg,17,,
-8308RD,Sluitgatweg,13,,TR
-8308RE,Sluitgatweg,6,,
-8308RE,Sluitgatweg,8,,
-8308RE,Sluitgatweg,10,,
-8308RE,Sluitgatweg,12,,
-8308RE,Sluitgatweg,16,,
-8308RE,Sluitgatweg,18,,
-8308RE,Sluitgatweg,20,,
-8308RE,Sluitgatweg,4,,
-8308RE,Sluitgatweg,6,,TR
-8308RE,Sluitgatweg,10,,TR
-8308RE,Sluitgatweg,12,,TR
-8308RE,Sluitgatweg,18,,TR
-8308PL,Vliegtuigweg,1,,
-8308PL,Vliegtuigweg,3,A,
-8308PL,Vliegtuigweg,3,B,
-8308PL,Vliegtuigweg,3,C,
-8308PL,Vliegtuigweg,3,D,
-8308PL,Vliegtuigweg,5,,
-8308PL,Vliegtuigweg,7,,
-8308PL,Vliegtuigweg,7,A,
-8308PL,Vliegtuigweg,7,B,
-8308PL,Vliegtuigweg,7,C,
-8308PL,Vliegtuigweg,7,D,
-8308PL,Vliegtuigweg,1,,TR
-8308PM,Vliegtuigweg,9,,
-8308PM,Vliegtuigweg,11,,
-8308PM,Vliegtuigweg,11,A,
-8308PM,Vliegtuigweg,11,B,
-8308PM,Vliegtuigweg,11,C,
-8308PM,Vliegtuigweg,13,,
-8308PM,Vliegtuigweg,13,A,
-8308PM,Vliegtuigweg,13,B,
-8308PM,Vliegtuigweg,13,C,
-8308PN,Vliegtuigweg,2,,
-8308PN,Vliegtuigweg,4,,
-8308PN,Vliegtuigweg,8,,
-8308PN,Vliegtuigweg,10,,
-8308PN,Vliegtuigweg,14,,
-8308RN,Abtsweg,11,A,
-8308RP,Abtsweg,17,,1
-8308RR,Abtsweg,16,,
-8308PG,Domineesweg,14,,
-8308PG,Domineesweg,11,,
-8308PG,Domineesweg,11,,1
-8308PG,Domineesweg,3,,TR
-8309PJ,Han Stijkelweg,5,,
-8308RH,Havenweg,8,,1A
-8308RJ,Havenweg,24,,
-8308RJ,Havenweg,24,,1
-8308RJ,Havenweg,24,,2
-8308RJ,Havenweg,24,,
-8308PB,Johannes Postweg,13,,
-8308PB,Johannes Postweg,8,,
-8308PB,Johannes Postweg,7,,1
-8308PZ,Zuidermeerweg,31,,
-8308PZ,Zuidermeerweg,43,A,
-8308PZ,Zuidermeerweg,43,B,
-8308PC,Zuidwesterringweg,5,,3
-8308PC,Zuidwesterringweg,15,,
-8308PK,Oud Emmeloorderweg,14,,1
-8308PK,Oud Emmeloorderweg,14,,
-8308PK,Oud Emmeloorderweg,16,,
-8308PK,Oud Emmeloorderweg,14,,2
-8308PV,Palenweg,1,,
-8308PV,Palenweg,1,,
-8308RT,Professor Brandsmaweg,13,,1
-8308RT,Professor Brandsmaweg,13,,
-8308RV,Professor Brandsmaweg,12,,
-8308PZ,Zuidermeerweg,43,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nagelerweg,16,"",TR,8308PA,Emmeloord
+Nagelerweg,20,"","",8308PA,Nagele
+Nagelerweg,20,"",TR,8308PA,Nagele
+Nagelerweg,33,"","",8308PA,Nagele
+Johannes Postweg,11,"","",8308PB,Nagele
+Johannes Postweg,11,A,"",8308PB,Nagele
+Johannes Postweg,11,B,"",8308PB,Nagele
+Johannes Postweg,11,C,"",8308PB,Nagele
+Johannes Postweg,12,"","",8308PB,Nagele
+Johannes Postweg,13,"","",8308PB,Nagele
+Johannes Postweg,13,"","",8308PB,Nagele
+Johannes Postweg,13,"","",8308PB,Nagele
+Johannes Postweg,15,"","",8308PB,Nagele
+Johannes Postweg,15,A,"",8308PB,Nagele
+Johannes Postweg,15,B,"",8308PB,Nagele
+Johannes Postweg,15,C,"",8308PB,Nagele
+Johannes Postweg,15,D,"",8308PB,Nagele
+Johannes Postweg,16,"","",8308PB,Nagele
+Johannes Postweg,18,"","",8308PB,Nagele
+Johannes Postweg,7,"","",8308PB,Nagele
+Johannes Postweg,7,"",1,8308PB,Nagele
+Johannes Postweg,8,"","",8308PB,Nagele
+Johannes Postweg,8,"","",8308PB,Nagele
+Johannes Postweg,8,"","",8308PB,Nagele
+Johannes Postweg,9,"","",8308PB,Nagele
+Johannes Postweg,9,"",TR,8308PB,Nagele
+Zuidwesterringweg,13,"","",8308PC,Nagele
+Zuidwesterringweg,15,"","",8308PC,Nagele
+Zuidwesterringweg,15,"","",8308PC,Nagele
+Zuidwesterringweg,15,"",TR,8308PC,Nagele
+Zuidwesterringweg,3,"",1,8308PC,Nagele
+Zuidwesterringweg,3,"",2,8308PC,Nagele
+Zuidwesterringweg,5,"",1,8308PC,Nagele
+Zuidwesterringweg,5,"",2,8308PC,Nagele
+Zuidwesterringweg,5,"",3,8308PC,Nagele
+Zuidwesterringweg,7,"",1,8308PC,Nagele
+Zuidwesterringweg,7,"",1A,8308PC,Nagele
+Zuidwesterringweg,7,"",2,8308PC,Nagele
+Zuidwesterringweg,7,"",TR,8308PC,Nagele
+Zuidwesterringweg,9,"","",8308PC,Nagele
+Zuidwesterringweg,9,"",TR,8308PC,Nagele
+Zuidwesterringweg,10,"","",8308PD,Nagele
+Zuidwesterringweg,14,"","",8308PD,Nagele
+Zuidwesterringweg,16,"","",8308PD,Nagele
+Zuidwesterringweg,4,"","",8308PD,Nagele
+Zuidwesterringweg,4,"",TR,8308PD,Nagele
+Zuidwesterringweg,6,"",1,8308PD,Nagele
+Zuidwesterringweg,6,"",2,8308PD,Nagele
+Zuidwesterringweg,8,"",1,8308PD,Nagele
+Zuidwesterringweg,8,"",2,8308PD,Nagele
+Han Stijkelweg,11,"","",8308PE,Nagele
+Han Stijkelweg,12,"","",8308PE,Nagele
+Han Stijkelweg,12,"",TR,8308PE,Nagele
+Han Stijkelweg,15,"","",8308PE,Nagele
+Han Stijkelweg,17,"","",8308PE,Nagele
+Han Stijkelweg,8,"","",8308PE,Nagele
+Han Stijkelweg,8,"",TR,8308PE,Nagele
+Han Stijkelweg,9,"","",8308PE,Nagele
+Domineesweg,1,"","",8308PG,Nagele
+Domineesweg,11,"","",8308PG,Nagele
+Domineesweg,11,"","",8308PG,Nagele
+Domineesweg,11,"","",8308PG,Nagele
+Domineesweg,11,"",1,8308PG,Nagele
+Domineesweg,13,"","",8308PG,Nagele
+Domineesweg,13,"",TR,8308PG,Nagele
+Domineesweg,14,"","",8308PG,Nagele
+Domineesweg,14,"","",8308PG,Nagele
+Domineesweg,16,"","",8308PG,Nagele
+Domineesweg,16,A,"",8308PG,Nagele
+Domineesweg,16,B,"",8308PG,Nagele
+Domineesweg,16,C,"",8308PG,Nagele
+Domineesweg,16,D,"",8308PG,Nagele
+Domineesweg,3,"",TR,8308PG,Nagele
+Domineesweg,9,"","",8308PG,Nagele
+Oud Emmeloorderweg,1,A,"",8308PH,Nagele
+Oud Emmeloorderweg,1,B,"",8308PH,Nagele
+Oud Emmeloorderweg,11,"","",8308PH,Nagele
+Oud Emmeloorderweg,13,"","",8308PH,Nagele
+Oud Emmeloorderweg,13,"",TR,8308PH,Nagele
+Oud Emmeloorderweg,3,"","",8308PH,Nagele
+Oud Emmeloorderweg,3,"",TR,8308PH,Nagele
+Oud Emmeloorderweg,7,"","",8308PH,Nagele
+Oud Emmeloorderweg,9,A,"",8308PH,Nagele
+Oud Emmeloorderweg,9,B,"",8308PH,Nagele
+Oud Emmeloorderweg,9,C,"",8308PH,Nagele
+Oud Emmeloorderweg,9,D,"",8308PH,Nagele
+Oud Emmeloorderweg,15,A,"",8308PJ,Nagele
+Oud Emmeloorderweg,15,B,"",8308PJ,Nagele
+Oud Emmeloorderweg,15,C,"",8308PJ,Nagele
+Oud Emmeloorderweg,15,D,"",8308PJ,Nagele
+Oud Emmeloorderweg,17,"","",8308PJ,Nagele
+Oud Emmeloorderweg,17,"",TR,8308PJ,Nagele
+Oud Emmeloorderweg,21,"","",8308PJ,Nagele
+Oud Emmeloorderweg,21,A,"",8308PJ,Nagele
+Oud Emmeloorderweg,21,B,"",8308PJ,Nagele
+Oud Emmeloorderweg,21,D,"",8308PJ,Nagele
+Oud Emmeloorderweg,10,"","",8308PK,Nagele
+Oud Emmeloorderweg,10,"",TR,8308PK,Nagele
+Oud Emmeloorderweg,12,"","",8308PK,Nagele
+Oud Emmeloorderweg,14,"","",8308PK,Nagele
+Oud Emmeloorderweg,14,"","",8308PK,Nagele
+Oud Emmeloorderweg,14,"","",8308PK,Nagele
+Oud Emmeloorderweg,14,"",1,8308PK,Nagele
+Oud Emmeloorderweg,14,"",2,8308PK,Nagele
+Oud Emmeloorderweg,16,"","",8308PK,Nagele
+Oud Emmeloorderweg,16,"","",8308PK,Nagele
+Oud Emmeloorderweg,16,"","",8308PK,Nagele
+Oud Emmeloorderweg,18,"","",8308PK,Nagele
+Oud Emmeloorderweg,2,"","",8308PK,Nagele
+Oud Emmeloorderweg,6,"","",8308PK,Nagele
+Oud Emmeloorderweg,6,"",TR,8308PK,Nagele
+Vliegtuigweg,1,"","",8308PL,Nagele
+Vliegtuigweg,1,"",TR,8308PL,Nagele
+Vliegtuigweg,3,A,"",8308PL,Nagele
+Vliegtuigweg,3,B,"",8308PL,Nagele
+Vliegtuigweg,3,C,"",8308PL,Nagele
+Vliegtuigweg,3,D,"",8308PL,Nagele
+Vliegtuigweg,5,"","",8308PL,Nagele
+Vliegtuigweg,7,"","",8308PL,Nagele
+Vliegtuigweg,7,A,"",8308PL,Nagele
+Vliegtuigweg,7,B,"",8308PL,Nagele
+Vliegtuigweg,7,C,"",8308PL,Nagele
+Vliegtuigweg,7,D,"",8308PL,Nagele
+Vliegtuigweg,11,"","",8308PM,Nagele
+Vliegtuigweg,11,A,"",8308PM,Nagele
+Vliegtuigweg,11,B,"",8308PM,Nagele
+Vliegtuigweg,11,C,"",8308PM,Nagele
+Vliegtuigweg,13,"","",8308PM,Nagele
+Vliegtuigweg,13,A,"",8308PM,Nagele
+Vliegtuigweg,13,B,"",8308PM,Nagele
+Vliegtuigweg,13,C,"",8308PM,Nagele
+Vliegtuigweg,9,"","",8308PM,Nagele
+Vliegtuigweg,10,"","",8308PN,Nagele
+Vliegtuigweg,14,"","",8308PN,Nagele
+Vliegtuigweg,2,"","",8308PN,Nagele
+Vliegtuigweg,4,"","",8308PN,Nagele
+Vliegtuigweg,8,"","",8308PN,Nagele
+Schokkerringweg,11,"","",8308PP,Nagele
+Schokkerringweg,11,"",TR,8308PP,Nagele
+Schokkerringweg,13,"","",8308PP,Nagele
+Schokkerringweg,13,"",TR,8308PP,Nagele
+Schokkerringweg,13,A,"",8308PP,Nagele
+Schokkerringweg,13,A,"",8308PP,Nagele
+Schokkerringweg,5,"",1,8308PP,Nagele
+Schokkerringweg,5,"",2,8308PP,Nagele
+Schokkerringweg,5,"",2A,8308PP,Nagele
+Schokkerringweg,7,"","",8308PP,Nagele
+Schokkerringweg,15,"","",8308PR,Nagele
+Schokkerringweg,15,A,"",8308PR,Nagele
+Schokkerringweg,15,B,"",8308PR,Nagele
+Schokkerringweg,15,C,"",8308PR,Nagele
+Schokkerringweg,15,D,"",8308PR,Nagele
+Schokkerringweg,17,"","",8308PR,Nagele
+Schokkerringweg,21,"","",8308PR,Nagele
+Schokkerringweg,21,"",TR,8308PR,Nagele
+Schokkerringweg,2,"",1,8308PS,Nagele
+Schokkerringweg,2,"",2,8308PS,Nagele
+Schokkerringweg,2,"",TR,8308PS,Nagele
+Schokkerringweg,4,"",1,8308PS,Nagele
+Schokkerringweg,4,"",2,8308PS,Nagele
+Schokkerringweg,4,"",TR,8308PS,Nagele
+Schokkerringweg,6,"",1,8308PS,Nagele
+Schokkerringweg,6,"",2,8308PS,Nagele
+Palenweg,10,"","",8308PT,Nagele
+Palenweg,12,"","",8308PT,Nagele
+Palenweg,12,"",TR,8308PT,Nagele
+Palenweg,14,"","",8308PT,Nagele
+Palenweg,2,"","",8308PT,Nagele
+Palenweg,2,"",TR,8308PT,Nagele
+Palenweg,4,"","",8308PT,Nagele
+Palenweg,6,"","",8308PT,Nagele
+Palenweg,6,A,"",8308PT,Nagele
+Palenweg,6,B,"",8308PT,Nagele
+Palenweg,6,C,"",8308PT,Nagele
+Palenweg,6,D,"",8308PT,Nagele
+Palenweg,6,E,"",8308PT,Nagele
+Palenweg,8,"","",8308PT,Nagele
+Palenweg,8,"",TR,8308PT,Nagele
+Palenweg,1,"","",8308PV,Nagele
+Palenweg,1,"","",8308PV,Nagele
+Palenweg,1,"","",8308PV,Nagele
+Palenweg,3,"","",8308PV,Nagele
+Palenweg,5,"","",8308PV,Nagele
+Ramsweg,17,"","",8308PW,Nagele
+Ramsweg,17,"",TR,8308PW,Nagele
+Ramsweg,18,"","",8308PW,Nagele
+Ramsweg,19,"","",8308PW,Nagele
+Ramsweg,19,"",TR,8308PW,Nagele
+Ramsweg,21,"","",8308PW,Nagele
+Ramsweg,22,"","",8308PW,Nagele
+Ramsweg,22,"",TR,8308PW,Nagele
+Ramsweg,23,A,"",8308PW,Nagele
+Ramsweg,23,B,"",8308PW,Nagele
+Schokkerhaven,1,"","",8308PX,Nagele
+Schokkerhaven,10,"","",8308PX,Nagele
+Schokkerhaven,11,"","",8308PX,Nagele
+Schokkerhaven,12,"","",8308PX,Nagele
+Schokkerhaven,13,"","",8308PX,Nagele
+Schokkerhaven,14,"","",8308PX,Nagele
+Schokkerhaven,15,"","",8308PX,Nagele
+Schokkerhaven,16,"","",8308PX,Nagele
+Schokkerhaven,17,"","",8308PX,Nagele
+Schokkerhaven,18,"","",8308PX,Nagele
+Schokkerhaven,19,"","",8308PX,Nagele
+Schokkerhaven,2,"","",8308PX,Nagele
+Schokkerhaven,20,"","",8308PX,Nagele
+Schokkerhaven,21,"","",8308PX,Nagele
+Schokkerhaven,22,"","",8308PX,Nagele
+Schokkerhaven,23,"","",8308PX,Nagele
+Schokkerhaven,24,"","",8308PX,Nagele
+Schokkerhaven,25,"","",8308PX,Nagele
+Schokkerhaven,26,"","",8308PX,Nagele
+Schokkerhaven,27,"","",8308PX,Nagele
+Schokkerhaven,28,"","",8308PX,Nagele
+Schokkerhaven,29,"","",8308PX,Nagele
+Schokkerhaven,3,"","",8308PX,Nagele
+Schokkerhaven,30,"","",8308PX,Nagele
+Schokkerhaven,31,"","",8308PX,Nagele
+Schokkerhaven,33,"",TR,8308PX,Nagele
+Schokkerhaven,34,"","",8308PX,Nagele
+Schokkerhaven,35,"","",8308PX,Nagele
+Schokkerhaven,36,"","",8308PX,Nagele
+Schokkerhaven,37,"","",8308PX,Nagele
+Schokkerhaven,38,"","",8308PX,Nagele
+Schokkerhaven,39,"","",8308PX,Nagele
+Schokkerhaven,4,"","",8308PX,Nagele
+Schokkerhaven,40,"","",8308PX,Nagele
+Schokkerhaven,41,"","",8308PX,Nagele
+Schokkerhaven,42,"","",8308PX,Nagele
+Schokkerhaven,43,"","",8308PX,Nagele
+Schokkerhaven,44,"","",8308PX,Nagele
+Schokkerhaven,45,"","",8308PX,Nagele
+Schokkerhaven,46,"","",8308PX,Nagele
+Schokkerhaven,47,"","",8308PX,Nagele
+Schokkerhaven,48,"","",8308PX,Nagele
+Schokkerhaven,49,"","",8308PX,Nagele
+Schokkerhaven,5,"","",8308PX,Nagele
+Schokkerhaven,50,"","",8308PX,Nagele
+Schokkerhaven,51,"","",8308PX,Nagele
+Schokkerhaven,52,"","",8308PX,Nagele
+Schokkerhaven,53,"","",8308PX,Nagele
+Schokkerhaven,54,"","",8308PX,Nagele
+Schokkerhaven,6,"","",8308PX,Nagele
+Schokkerhaven,7,"","",8308PX,Nagele
+Schokkerhaven,8,"","",8308PX,Nagele
+Schokkerhaven,9,"","",8308PX,Nagele
+Zuidermeerweg,14,A,"",8308PZ,Nagele
+Zuidermeerweg,14,B,"",8308PZ,Nagele
+Zuidermeerweg,14,C,"",8308PZ,Nagele
+Zuidermeerweg,14,D,"",8308PZ,Nagele
+Zuidermeerweg,16,"","",8308PZ,Nagele
+Zuidermeerweg,16,"",TR,8308PZ,Nagele
+Zuidermeerweg,31,"","",8308PZ,Nagele
+Zuidermeerweg,31,"","",8308PZ,Nagele
+Zuidermeerweg,31,"","",8308PZ,Nagele
+Zuidermeerweg,33,"","",8308PZ,Nagele
+Zuidermeerweg,37,"","",8308PZ,Nagele
+Zuidermeerweg,39,"","",8308PZ,Nagele
+Zuidermeerweg,39,"",TR,8308PZ,Nagele
+Zuidermeerweg,39,"",TR,8308PZ,Nagele
+Zuidermeerweg,43,"","",8308PZ,Nagele
+Zuidermeerweg,43,A,"",8308PZ,Nagele
+Zuidermeerweg,43,B,"",8308PZ,Nagele
+Zuidermeerweg,45,"","",8308PZ,Nagele
+Zuidermeerweg,45,"",TR,8308PZ,Nagele
+Zuidermeerweg,45,"",TR2,8308PZ,Nagele
+Zuidermeerweg,45,"",TR2,8308PZ,Nagele
+Ketelmeerweg,1,"","",8308RA,Nagele
+Ketelmeerweg,1,A,"",8308RA,Nagele
+Ketelmeerweg,1,B,"",8308RA,Nagele
+Ketelmeerweg,1,C,"",8308RA,Nagele
+Ketelmeerweg,1,D,"",8308RA,Nagele
+Ketelmeerweg,1,E,"",8308RA,Nagele
+Ketelmeerweg,1,F,"",8308RA,Nagele
+Ketelmeerweg,3,"","",8308RA,Nagele
+Ketelmeerweg,11,"","",8308RB,Nagele
+Ketelmeerweg,11,"",TR,8308RB,Nagele
+Ketelmeerweg,13,"","",8308RB,Nagele
+Ketelmeerweg,17,"","",8308RB,Nagele
+Ketelmeerweg,23,"","",8308RB,Nagele
+Ketelmeerweg,23,"",TR,8308RB,Nagele
+Ketelmeerweg,25,"","",8308RB,Nagele
+Ketelmeerweg,25,"",TR,8308RB,Nagele
+Ketelmeerweg,27,"","",8308RB,Nagele
+Ketelmeerweg,5,"","",8308RB,Nagele
+Sluitgatweg,3,"","",8308RC,Nagele
+Sluitgatweg,5,"","",8308RC,Nagele
+Sluitgatweg,7,"","",8308RC,Nagele
+Sluitgatweg,7,A,"",8308RC,Nagele
+Sluitgatweg,7,B,"",8308RC,Nagele
+Sluitgatweg,7,C,"",8308RC,Nagele
+Sluitgatweg,7,D,"",8308RC,Nagele
+Sluitgatweg,9,"","",8308RC,Nagele
+Sluitgatweg,11,A,"",8308RD,Nagele
+Sluitgatweg,11,B,"",8308RD,Nagele
+Sluitgatweg,11,C,"",8308RD,Nagele
+Sluitgatweg,13,"","",8308RD,Nagele
+Sluitgatweg,13,"",TR,8308RD,Nagele
+Sluitgatweg,13,"",TR,8308RD,Nagele
+Sluitgatweg,15,"","",8308RD,Nagele
+Sluitgatweg,17,"","",8308RD,Nagele
+Sluitgatweg,10,"","",8308RE,Nagele
+Sluitgatweg,10,"",TR,8308RE,Nagele
+Sluitgatweg,12,"","",8308RE,Nagele
+Sluitgatweg,12,"",TR,8308RE,Nagele
+Sluitgatweg,16,"","",8308RE,Nagele
+Sluitgatweg,18,"","",8308RE,Nagele
+Sluitgatweg,18,"",TR,8308RE,Nagele
+Sluitgatweg,20,"","",8308RE,Nagele
+Sluitgatweg,4,"","",8308RE,Nagele
+Sluitgatweg,6,"","",8308RE,Nagele
+Sluitgatweg,6,"",TR,8308RE,Nagele
+Sluitgatweg,8,"","",8308RE,Nagele
+Havenweg,11,"","",8308RG,Nagele
+Havenweg,3,"","",8308RG,Nagele
+Havenweg,5,"","",8308RG,Nagele
+Havenweg,7,"","",8308RG,Nagele
+Havenweg,9,"","",8308RG,Nagele
+Havenweg,2,"","",8308RH,Nagele
+Havenweg,2,"",TR,8308RH,Nagele
+Havenweg,4,"","",8308RH,Nagele
+Havenweg,4,A,"",8308RH,Nagele
+Havenweg,4,B,"",8308RH,Nagele
+Havenweg,4,C,"",8308RH,Nagele
+Havenweg,6,"","",8308RH,Nagele
+Havenweg,6,"",TR,8308RH,Nagele
+Havenweg,8,"",1,8308RH,Nagele
+Havenweg,8,"",2,8308RH,Nagele
+Havenweg,8,"",TR,8308RH,Nagele
+Havenweg,10,"","",8308RJ,Nagele
+Havenweg,12,A,"",8308RJ,Nagele
+Havenweg,12,B,"",8308RJ,Nagele
+Havenweg,12,C,"",8308RJ,Nagele
+Havenweg,12,D,"",8308RJ,Nagele
+Havenweg,14,"","",8308RJ,Nagele
+Havenweg,14,"",TR,8308RJ,Nagele
+Havenweg,20,"","",8308RJ,Nagele
+Havenweg,22,"","",8308RJ,Nagele
+Havenweg,24,"","",8308RJ,Nagele
+Havenweg,24,"","",8308RJ,Nagele
+Havenweg,24,"","",8308RJ,Nagele
+Havenweg,24,"",1,8308RJ,Nagele
+Havenweg,24,"",2,8308RJ,Nagele
+Monnikenweg,3,"","",8308RK,Nagele
+Monnikenweg,7,"","",8308RK,Nagele
+Monnikenweg,4,"","",8308RL,Nagele
+Monnikenweg,4,"",TR,8308RL,Nagele
+Monnikenweg,4,"",TR,8308RL,Nagele
+Monnikenweg,4,A,"",8308RL,Nagele
+Monnikenweg,4,B,"",8308RL,Nagele
+Monnikenweg,4,C,"",8308RL,Nagele
+Monnikenweg,4,D,"",8308RL,Nagele
+Monnikenweg,6,"","",8308RL,Nagele
+Monnikenweg,8,"","",8308RL,Nagele
+Monnikenweg,8,A,"",8308RL,Nagele
+Monnikenweg,8,B,"",8308RL,Nagele
+Monnikenweg,10,A,"",8308RM,Nagele
+Monnikenweg,10,B,"",8308RM,Nagele
+Monnikenweg,10,C,"",8308RM,Nagele
+Monnikenweg,10,D,"",8308RM,Nagele
+Monnikenweg,10,E,"",8308RM,Nagele
+Monnikenweg,10,F,"",8308RM,Nagele
+Monnikenweg,12,"","",8308RM,Nagele
+Monnikenweg,12,"",TR,8308RM,Nagele
+Abtsweg,11,"","",8308RN,Nagele
+Abtsweg,11,"",TR,8308RN,Nagele
+Abtsweg,11,A,"",8308RN,Nagele
+Abtsweg,11,A,"",8308RN,Nagele
+Abtsweg,11,A,"",8308RN,Nagele
+Abtsweg,11,B,"",8308RN,Nagele
+Abtsweg,11,B,"",8308RN,Nagele
+Abtsweg,11,C,"",8308RN,Nagele
+Abtsweg,3,"","",8308RN,Nagele
+Abtsweg,5,A,"",8308RN,Nagele
+Abtsweg,7,"","",8308RN,Nagele
+Abtsweg,9,"","",8308RN,Nagele
+Abtsweg,15,"","",8308RP,Nagele
+Abtsweg,15,A,"",8308RP,Nagele
+Abtsweg,15,B,"",8308RP,Nagele
+Abtsweg,15,C,"",8308RP,Nagele
+Abtsweg,15,D,"",8308RP,Nagele
+Abtsweg,17,"","",8308RP,Nagele
+Abtsweg,17,"",1,8308RP,Nagele
+Abtsweg,17,"",TR,8308RP,Nagele
+Abtsweg,17,A,"",8308RP,Nagele
+Abtsweg,17,B,"",8308RP,Nagele
+Abtsweg,17,C,"",8308RP,Nagele
+Abtsweg,10,"","",8308RR,Nagele
+Abtsweg,16,"","",8308RR,Nagele
+Abtsweg,16,"","",8308RR,Nagele
+Abtsweg,16,"","",8308RR,Nagele
+Abtsweg,18,"","",8308RR,Nagele
+Professor Brandsmaweg,1,"","",8308RS,Nagele
+Professor Brandsmaweg,11,"",1,8308RS,Nagele
+Professor Brandsmaweg,11,"",2,8308RS,Nagele
+Professor Brandsmaweg,3,"",1,8308RS,Nagele
+Professor Brandsmaweg,3,"",2,8308RS,Nagele
+Professor Brandsmaweg,5,"",1,8308RS,Nagele
+Professor Brandsmaweg,5,"",2,8308RS,Nagele
+Professor Brandsmaweg,7,"",1,8308RS,Nagele
+Professor Brandsmaweg,7,"",2,8308RS,Nagele
+Professor Brandsmaweg,9,"",1,8308RS,Nagele
+Professor Brandsmaweg,9,"",2,8308RS,Nagele
+Professor Brandsmaweg,13,"","",8308RT,Nagele
+Professor Brandsmaweg,13,"","",8308RT,Nagele
+Professor Brandsmaweg,13,"","",8308RT,Nagele
+Professor Brandsmaweg,13,"",1,8308RT,Nagele
+Professor Brandsmaweg,15,A,"",8308RT,Nagele
+Professor Brandsmaweg,15,B,"",8308RT,Nagele
+Professor Brandsmaweg,15,C,"",8308RT,Nagele
+Professor Brandsmaweg,17,"","",8308RT,Nagele
+Professor Brandsmaweg,17,A,"",8308RT,Nagele
+Professor Brandsmaweg,10,"","",8308RV,Nagele
+Professor Brandsmaweg,10,"",TR,8308RV,Nagele
+Professor Brandsmaweg,12,"","",8308RV,Nagele
+Professor Brandsmaweg,12,"","",8308RV,Nagele
+Professor Brandsmaweg,18,"","",8308RV,Nagele
+Professor Brandsmaweg,18,"",TR,8308RV,Nagele
+Professor Brandsmaweg,18,A,"",8308RV,Nagele
+Professor Brandsmaweg,18,B,"",8308RV,Nagele
+Professor Brandsmaweg,2,"","",8308RV,Nagele
+Professor Brandsmaweg,2,"",TR,8308RV,Nagele
+Professor Brandsmaweg,4,A,"",8308RV,Nagele
+Professor Brandsmaweg,4,B,"",8308RV,Nagele
+Professor Brandsmaweg,6,"","",8308RV,Nagele
+Professor Brandsmaweg,6,"",TR,8308RV,Nagele
+Rijksweg A6,3,"","",8308TA,Nagele
+Rijksweg A6,4,"","",8308TA,Nagele
+Han Stijkelweg,1,A,"",8309PJ,Tollebeek
+Han Stijkelweg,3,"","",8309PJ,Tollebeek
+Han Stijkelweg,4,"","",8309PJ,Tollebeek
+Han Stijkelweg,5,"","",8309PJ,Tollebeek
+Han Stijkelweg,5,"","",8309PJ,Tollebeek
+Han Stijkelweg,5,"","",8309PJ,Tollebeek
+Han Stijkelweg,6,"","",8309PJ,Tollebeek
+Han Stijkelweg,8,"","",8309PJ,Tollebeek
+Han Stijkelweg,8,"",TR,8309PJ,Tollebeek

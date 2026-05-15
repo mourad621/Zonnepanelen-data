@@ -1,48 +1,48 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2971XA,Hofwegen,1,,
-2971XA,Hofwegen,2,,
-2971XA,Hofwegen,3,,
-2971XA,Hofwegen,4,,
-2971XA,Hofwegen,5,,
-2971XA,Hofwegen,6,,
-2971XA,Hofwegen,7,,
-2971XA,Hofwegen,8,,
-2971XA,Hofwegen,9,,
-2971XA,Hofwegen,10,,
-2971XA,Hofwegen,11,,
-2971XA,Hofwegen,12,,
-2971XA,Hofwegen,14,,
-2971XA,Hofwegen,15,a,
-2971XA,Hofwegen,15,,
-2971XA,Hofwegen,18,,
-2971XA,Hofwegen,20,,
-2971XA,Hofwegen,21,,
-2971XA,Hofwegen,22,,
-2971XA,Hofwegen,23,,
-2971XA,Hofwegen,23,a,
-2971XA,Hofwegen,15,b,Cons
-2971XA,Hofwegen,15,b,CONS
-2971XA,Hofwegen,15,b,
-2971XA,Hofwegen,16,,
-2971XC,Meulenbroek,1,,
-2971XC,Meulenbroek,2,,
-2971XC,Meulenbroek,3,,
-2971XC,Meulenbroek,4,,
-2971XC,Meulenbroek,6,,
-2971XC,Meulenbroek,7,,
-2971XC,Meulenbroek,8,,
-2971XC,Meulenbroek,9,,
-2971XC,Meulenbroek,10,,
-2971XC,Meulenbroek,13,,
-2971XC,Meulenbroek,13,a,
-2971XC,Meulenbroek,5,,Cons
-2971XC,Meulenbroek,5,,CONS
-2971XC,Meulenbroek,5,,CONS
-2971XC,Meulenbroek,5,,
-2971XC,Meulenbroek,12,,
-2971XC,Meulenbroek,2,a,CONS
-2971XC,Meulenbroek,2,a,CONS
-2971XC,Meulenbroek,2,a,CONS
-2971XC,Meulenbroek,2,A,
-2971XA,Hofwegen,5,,
-2971XA,Hofwegen,5,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hofwegen,1,"","",2971XA,Bleskensgraaf ca
+Hofwegen,10,"","",2971XA,Bleskensgraaf ca
+Hofwegen,11,"","",2971XA,Bleskensgraaf ca
+Hofwegen,12,"","",2971XA,Bleskensgraaf ca
+Hofwegen,14,"","",2971XA,Bleskensgraaf ca
+Hofwegen,15,"","",2971XA,Bleskensgraaf ca
+Hofwegen,15,A,"",2971XA,Bleskensgraaf ca
+Hofwegen,15,B,"",2971XA,Bleskensgraaf ca
+Hofwegen,15,B,CONS,2971XA,Bleskensgraaf ca
+Hofwegen,15,B,CONS,2971XA,Bleskensgraaf ca
+Hofwegen,16,"","",2971XA,Bleskensgraaf ca
+Hofwegen,18,"","",2971XA,Bleskensgraaf ca
+Hofwegen,2,"","",2971XA,Bleskensgraaf ca
+Hofwegen,20,"","",2971XA,Bleskensgraaf ca
+Hofwegen,21,"","",2971XA,Bleskensgraaf ca
+Hofwegen,22,"","",2971XA,Bleskensgraaf ca
+Hofwegen,23,"","",2971XA,Bleskensgraaf ca
+Hofwegen,23,A,"",2971XA,Bleskensgraaf ca
+Hofwegen,3,"","",2971XA,Bleskensgraaf ca
+Hofwegen,4,"","",2971XA,Bleskensgraaf ca
+Hofwegen,5,"","",2971XA,Bleskensgraaf ca
+Hofwegen,5,"","",2971XA,Bleskensgraaf ca
+Hofwegen,5,A,"",2971XA,Bleskensgraaf ca
+Hofwegen,6,"","",2971XA,Bleskensgraaf ca
+Hofwegen,7,"","",2971XA,Bleskensgraaf ca
+Hofwegen,8,"","",2971XA,Bleskensgraaf ca
+Hofwegen,9,"","",2971XA,Bleskensgraaf ca
+Meulenbroek,1,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,10,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,12,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,13,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,13,A,"",2971XC,Bleskensgraaf ca
+Meulenbroek,2,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,2,A,"",2971XC,Bleskensgraaf ca
+Meulenbroek,2,A,CONS,2971XC,Bleskensgraaf ca
+Meulenbroek,2,A,CONS,2971XC,Bleskensgraaf ca
+Meulenbroek,2,A,CONS,2971XC,Bleskensgraaf ca
+Meulenbroek,3,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,4,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,5,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,5,"",CONS,2971XC,Bleskensgraaf ca
+Meulenbroek,5,"",CONS,2971XC,Bleskensgraaf ca
+Meulenbroek,5,"",CONS,2971XC,Bleskensgraaf ca
+Meulenbroek,6,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,7,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,8,"","",2971XC,Bleskensgraaf ca
+Meulenbroek,9,"","",2971XC,Bleskensgraaf ca

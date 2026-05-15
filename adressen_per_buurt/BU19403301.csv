@@ -1,72 +1,73 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8514CA",22,"",""
-"8514CA",10,"",""
-"8514CA",14,"",""
-"8514CA",12,"",""
-"8514CA",8,"",""
-"8514CA",18,"",""
-"8514CN",86,"",""
-"8514CN",81,"a",""
-"8514CN",83,"",""
-"8514CN",88,"",""
-"8514CN",63,"",""
-"8514CN",71,"a",""
-"8514CN",95,"",""
-"8514CN",87,"",""
-"8514CN",59,"",""
-"8514CN",69,"",""
-"8514CN",84,"",""
-"8514CN",67,"a","lds"
-"8514CN",89,"",""
-"8514CN",99,"",""
-"8514CN",87,"",""
-"8514CN",67,"",""
-"8514CN",97,"",""
-"8514CN",65,"",""
-"8514CN",78,"",""
-"8514CN",91,"",""
-"8514CN",90,"",""
-"8514CN",93,"",""
-"8514CN",71,"",""
-"8514CN",81,"",""
-"8514CN",79,"",""
-8514CA,Meerweg,8,,
-8514CN,Jetze Veldstraweg,65,,
-8514CN,Jetze Veldstraweg,71,,
-8514CN,Jetze Veldstraweg,78,,
-8514CN,Jetze Veldstraweg,79,,
-8514CN,Jetze Veldstraweg,81,,
-8514CN,Jetze Veldstraweg,81,a,
-8514CN,Jetze Veldstraweg,84,,
-8514CN,Jetze Veldstraweg,86,,
-8514CN,Jetze Veldstraweg,87,,
-8514CN,Jetze Veldstraweg,89,,
-8514CN,Jetze Veldstraweg,90,,
-8514CN,Jetze Veldstraweg,91,,
-8514CN,Jetze Veldstraweg,93,,
-8514CN,Jetze Veldstraweg,95,,
-8514CN,Jetze Veldstraweg,97,,
-8514CN,Jetze Veldstraweg,99,,
-8514CN,Jetze Veldstraweg,59,,
-8514CN,Jetze Veldstraweg,63,,
-8514CN,Jetze Veldstraweg,67,,
-8514CN,Jetze Veldstraweg,83,,
-8514CN,Jetze Veldstraweg,88,,
-8514CN,Jetze Veldstraweg,67,a,lds
-8514CN,Jetze Veldstraweg,71,a,
-8514CN,Jetze Veldstraweg,69,,
-8514CA,Meerweg,10,,
-8514CA,Meerweg,12,,
-8514CA,Meerweg,14,,
-8514CA,Meerweg,18,,
-8514CA,Meerweg,22,,
-8514CN,Jetze Veldstraweg,89,,0001
-8514CN,Jetze Veldstraweg,89,,0002
-8514CN,Jetze Veldstraweg,89,,0003
-8514CN,Jetze Veldstraweg,89,,0004
-8514CN,Jetze Veldstraweg,89,,0005
-8514CN,Jetze Veldstraweg,87,,
-8514CN,Jetze Veldstraweg,90,A,
-8514CA,Meerweg,14,,BY
-8514CA,Meerweg,14,,
-8514CA,Meerweg,12,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+22,"","","",8514CA,
+10,"","","",8514CA,
+14,"","","",8514CA,
+12,"","","",8514CA,
+8,"","","",8514CA,
+18,"","","",8514CA,
+Meerweg,10,"","",8514CA,Ouwster-Nijega
+Meerweg,12,"","",8514CA,Ouwster-Nijega
+Meerweg,12,A,"",8514CA,Ouwster-Nijega
+Meerweg,14,"","",8514CA,Ouwster-Nijega
+Meerweg,14,"","",8514CA,Ouwster-Nijega
+Meerweg,14,"",BY,8514CA,Ouwster-Nijega
+Meerweg,18,"","",8514CA,Ouwster-Nijega
+Meerweg,22,"","",8514CA,Ouwster-Nijega
+Meerweg,8,"","",8514CA,Ouwster-Nijega
+86,"","","",8514CN,
+83,"","","",8514CN,
+88,"","","",8514CN,
+63,"","","",8514CN,
+95,"","","",8514CN,
+87,"","","",8514CN,
+59,"","","",8514CN,
+69,"","","",8514CN,
+84,"","","",8514CN,
+89,"","","",8514CN,
+99,"","","",8514CN,
+87,"","","",8514CN,
+67,"","","",8514CN,
+97,"","","",8514CN,
+65,"","","",8514CN,
+78,"","","",8514CN,
+91,"","","",8514CN,
+90,"","","",8514CN,
+93,"","","",8514CN,
+71,"","","",8514CN,
+81,"","","",8514CN,
+79,"","","",8514CN,
+Jetze Veldstraweg,59,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,63,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,65,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,67,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,67,A,LDS,8514CN,Ouwster-Nijega
+Jetze Veldstraweg,69,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,71,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,71,A,"",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,78,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,79,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,81,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,81,A,"",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,83,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,84,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,86,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,87,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,87,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,88,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,89,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,89,"",0001,8514CN,Ouwster-Nijega
+Jetze Veldstraweg,89,"",0002,8514CN,Ouwster-Nijega
+Jetze Veldstraweg,89,"",0003,8514CN,Ouwster-Nijega
+Jetze Veldstraweg,89,"",0004,8514CN,Ouwster-Nijega
+Jetze Veldstraweg,89,"",0005,8514CN,Ouwster-Nijega
+Jetze Veldstraweg,90,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,90,A,"",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,91,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,93,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,95,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,97,"","",8514CN,Ouwster-Nijega
+Jetze Veldstraweg,99,"","",8514CN,Ouwster-Nijega
+81,A,"","",8514CN,
+71,A,"","",8514CN,
+67,A,LDS,"",8514CN,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

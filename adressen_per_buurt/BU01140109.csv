@@ -1,258 +1,135 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7831GT",60,"",""
-"7831GT",44,"",""
-"7831GT",34,"",""
-"7831GT",60,"",""
-"7831GT",54,"",""
-"7831GT",36,"",""
-"7831GV",35,"",""
-"7831GV",1,"",""
-"7831GV",35,"",""
-"7831GX",4,"",""
-"7831JB",40,"",""
-"7831JB",12,"",""
-"7831JB",8,"",""
-"7831JB",40,"",""
-"7831JB",40,"B",""
-"7831JB",18,"",""
-"7831JB",40,"A",""
-"7831JB",16,"",""
-"7831JB",40,"B",""
-"7831JB",6,"",""
-"7831JB",14,"",""
-"7831JB",2,"",""
-"7831JB",10,"",""
-"7831TN",48,"",""
-"7831TN",84,"",""
-"7831TN",109,"",""
-"7831TN",47,"",""
-"7831TN",68,"",""
-"7831TN",50,"",""
-"7831TN",47,"",""
-"7831TN",55,"",""
-"7831TN",48,"","BY"
-"7831TN",47,"",""
-"7831TN",48,"",""
-"7831TN",47,"",""
-"7831TN",47,"",""
-"7831TN",48,"",""
-"7831TN",47,"",""
-"7831TN",47,"",""
-"7831TN",48,"",""
-"7831TN",48,"",""
-"7831TP",1,"",""
-"7831TR",2,"",""
-"7831TR",3,"",""
-"7831TR",2,"",""
-"7831TR",2,"",""
-"7831TR",2,"",""
-"7831TS",14,"",""
-"7831TS",25,"",""
-"7831TS",22,"",""
-"7831TS",20,"",""
-"7831TS",30,"",""
-"7831TS",24,"",""
-"7831TS",16,"",""
-"7831TS",16,"",""
-"7831TS",28,"",""
-"7831TT",72,"",""
-"7831TT",73,"",""
-"7831TT",94,"",""
-"7831TT",73,"A",""
-"7831TT",94,"",""
-"7831TT",88,"",""
-"7831TX",41,"",""
-"7831TX",43,"",""
-"7831TX",67,"",""
-"7831TX",49,"",""
-"7831TX",43,"",""
-"7831TX",51,"",""
-"7831TX",43,"",""
-"7831TX",65,"",""
-"7831TX",47,"",""
-"7831TX",87,"",""
-"7831TX",37,"",""
-"7831TX",55,"",""
-"7831TX",53,"",""
-"7831TX",57,"",""
-"7831TX",43,"",""
-"7831TX",39,"",""
-"7831TX",85,"",""
-"7831TX",69,"",""
-"7831VA",100,"",""
-"7831VA",100,"",""
-"7831VA",80,"",""
-"7831VA",72,"",""
-"7831VA",9999,"","A"
-"7831VA",72,"",""
-"7831VA",72,"",""
-"7831VA",80,"",""
-"7831VA",100,"",""
-"7831VA",38,"",""
-"7831VA",44,"",""
-"7831VA",72,"",""
-"7831VA",9999,"","A"
-"7831VA",44,"",""
-"7831VA",28,"",""
-"7831VA",28,"",""
-"7831VA",72,"",""
-"7831VA",28,"",""
-"7831VA",44,"",""
-"7831VA",44,"",""
-"7831VA",72,"",""
-"7831VA",24,"",""
-"7831VA",72,"",""
-"7831VA",72,"",""
-"7831VA",38,"",""
-"7831VA",27,"",""
-"7831VA",28,"",""
-"7831VB",20,"",""
-"7831VC",11,"",""
-"7831VC",5,"",""
-"7831VC",19,"",""
-"7831VE",15,"",""
-"7831VE",12,"",""
-"7831VE",12,"",""
-"7831VG",9999,"A",""
-"7831VG",8,"",""
-"7831VG",5,"",""
-"7831VG",16,"",""
-"7831VG",10,"",""
-"7831VG",12,"",""
-"7831VG",16,"",""
-"7831VH",4,"",""
-"7831VH",26,"",""
-"7831VH",28,"",""
-"7831VH",7932,"","2"
-"7831VH",32,"",""
-"7831VH",10,"",""
-"7831VH",24,"",""
-"7831VH",26,"",""
-"7831VH",34,"",""
-"7831VH",2,"",""
-"7831VH",34,"","TR"
-"7831VH",2,"",""
-"7831VH",34,"","TR"
-7831VA,Vledders,28,,
-7831JB,Drentse Mondenweg,14,,
-7831TN,Noordveenkanaal ZZ,48,,
-7831TN,Noordveenkanaal ZZ,55,,
-7831VB,Pottendijk WZ,20,,
-7831TX,Vledderdiep,67,,
-7831TX,Vledderdiep,39,,
-7831TX,Vledderdiep,43,,
-7831TX,Vledderdiep,51,,
-7831VA,Vledders,27,,
-7831VE,Weerdinger-Erfscheidenveen,15,,
-7831VH,Weerdingermarke,4,,
-7831TS,Herenlandweg,20,,
-7831TS,Herenlandweg,28,,
-7831VG,Meijersmarke,5,,
-7831VG,Meijersmarke,9999,A,
-7831VA,Vledders,72,,
-7831VE,Weerdinger-Erfscheidenveen,12,,
-7831VE,Weerdinger-Erfscheidenveen,12,,
-7831VH,Weerdingermarke,24,,
-7831VH,Weerdingermarke,28,,
-7831VH,Weerdingermarke,34,,
-7831VH,Weerdingermarke,32,,
-7831VH,Weerdingermarke,2,,
-7831VH,Weerdingermarke,2,,
-7831JB,Drentse Mondenweg,2,,
-7831JB,Drentse Mondenweg,40,,
-7831JB,Drentse Mondenweg,40,A,
-7831JB,Drentse Mondenweg,10,,
-7831JB,Drentse Mondenweg,6,,
-7831TS,Herenlandweg,22,,
-7831TS,Herenlandweg,24,,
-7831TS,Herenlandweg,25,,
-7831VG,Meijersmarke,10,,
-7831TN,Noordveenkanaal NZ,47,,
-7831TN,Noordveenkanaal NZ,47,,
-7831TT,Noordveenkanaal NZ,73,,
-7831TT,Noordveenkanaal NZ,72,,
-7831TN,Noordveenkanaal ZZ,47,,
-7831TN,Noordveenkanaal ZZ,84,,
-7831GT,Oudedijk,60,,
-7831GT,Oudedijk,60,,
-7831TX,Vledderdiep,57,,
-7831TX,Vledderdiep,37,,
-7831TX,Vledderdiep,49,,
-7831VA,Vledders,44,,
-7831VC,Weerdingermarke,19,,
-7831VH,Weerdingermarke,10,,
-7831VH,Weerdingermarke,7932,,2
-7831VH,Weerdingermarke,34,,TR
-7831VH,Weerdingermarke,34,,TR
-7831GV,Woldweg,1,,
-7831JB,Drentse Mondenweg,8,,
-7831TS,Herenlandweg,16,,
-7831TS,Herenlandweg,16,,
-7831TN,Noordveenkanaal ZZ,109,,
-7831GT,Oudedijk,36,,
-7831TX,Vledderdiep,41,,
-7831TX,Vledderdiep,53,,
-7831VA,Vledders,9999,,A
-7831JB,Drentse Mondenweg,12,,
-7831TS,Herenlandweg,14,,
-7831TS,Herenlandweg,30,,
-7831TX,Vledderdiep,55,,
-7831VA,Vledders,24,,
-7831VA,Vledders,38,,
-7831VA,Vledders,38,,
-7831VC,Weerdingermarke,5,,
-7831GV,Woldweg,35,,
-7831GV,Woldweg,35,,
-7831GX,Derde Kruisdiep WZ,4,,
-7831JB,Drentse Mondenweg,18,,
-7831JB,Drentse Mondenweg,16,,
-7831VG,Meijersmarke,12,,
-7831TN,Noordveenkanaal ZZ,68,,
-7831TN,Noordveenkanaal ZZ,48,,BY
-7831TN,Noordveenkanaal ZZ,50,,
-7831GT,Oudedijk,34,,
-7831TX,Vledderdiep,65,,
-7831TR,Grenssloot,3,,
-7831TR,Grenssloot,2,,
-7831TP,Langhietsveen,1,,
-7831VG,Meijersmarke,8,,
-7831VG,Meijersmarke,16,,
-7831VG,Meijersmarke,16,,
-7831TN,Noordveenkanaal NZ,48,,
-7831TN,Noordveenkanaal NZ,47,,
-7831TT,Noordveenkanaal NZ,88,,
-7831TN,Noordveenkanaal ZZ,48,,
-7831TN,Noordveenkanaal ZZ,48,,
-7831TN,Noordveenkanaal ZZ,47,,
-7831TN,Noordveenkanaal ZZ,47,,
-7831GT,Oudedijk,44,,
-7831GT,Oudedijk,54,,
-7831TX,Vledderdiep,69,,
-7831TX,Vledderdiep,87,,
-7831TX,Vledderdiep,85,,
-7831TX,Vledderdiep,47,,
-7831TX,Vledderdiep,43,,
-7831TX,Vledderdiep,43,,
-7831VA,Vledders,100,,
-7831VA,Vledders,72,,
-7831VA,Vledders,72,,
-7831VA,Vledders,72,,
-7831VA,Vledders,72,,
-7831VA,Vledders,72,,
-7831VA,Vledders,72,,
-7831VA,Vledders,28,,
-7831VA,Vledders,28,,
-7831VA,Vledders,44,,
-7831VA,Vledders,44,,
-7831VC,Weerdingermarke,11,,
-7831VH,Weerdingermarke,26,,
-7831JB,Drentse Mondenweg,40,,
-7831TR,Grenssloot,2,,
-7831TR,Grenssloot,2,,
-7831TT,Noordveenkanaal NZ,73,A,
-7831TT,Noordveenkanaal NZ,94,,
-7831TT,Noordveenkanaal NZ,94,,
-7831VA,Vledders,80,,
-7831VA,Vledders,80,,
-7831JB,Drentse Mondenweg,40,B,
-7831JB,Drentse Mondenweg,40,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oudedijk,34,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,36,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,44,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,54,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,60,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,60,"","",7831GT,Nieuw-Weerdinge
+Woldweg,1,"","",7831GV,Nieuw-Weerdinge
+Woldweg,35,"","",7831GV,Nieuw-Weerdinge
+Woldweg,35,"","",7831GV,Nieuw-Weerdinge
+Derde Kruisdiep WZ,4,"","",7831GX,Nieuw-Weerdinge
+Drentse Mondenweg,10,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,12,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,14,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,16,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,18,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,2,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,40,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,40,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,40,A,"",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,40,B,"",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,40,B,"",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,6,"","",7831JB,Nieuw-Weerdinge
+Drentse Mondenweg,8,"","",7831JB,Nieuw-Weerdinge
+Noordveenkanaal ZZ,109,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,47,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,48,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,48,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,48,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,48,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,48,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,48,"",BY,7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,50,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,55,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,68,"","",7831TN,Nieuw-Weerdinge
+Noordveenkanaal ZZ,84,"","",7831TN,Nieuw-Weerdinge
+Langhietsveen,1,"","",7831TP,Nieuw-Weerdinge
+Grenssloot,2,"","",7831TR,Nieuw-Weerdinge
+Grenssloot,2,"","",7831TR,Nieuw-Weerdinge
+Grenssloot,2,"","",7831TR,Nieuw-Weerdinge
+Grenssloot,2,"","",7831TR,Nieuw-Weerdinge
+Grenssloot,3,"","",7831TR,Nieuw-Weerdinge
+Herenlandweg,14,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,16,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,16,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,20,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,22,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,24,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,25,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,28,"","",7831TS,Nieuw-Weerdinge
+Herenlandweg,30,"","",7831TS,Nieuw-Weerdinge
+Noordveenkanaal NZ,72,"","",7831TT,Nieuw-Weerdinge
+Noordveenkanaal NZ,73,"","",7831TT,Nieuw-Weerdinge
+Noordveenkanaal NZ,73,A,"",7831TT,Nieuw-Weerdinge
+Noordveenkanaal NZ,88,"","",7831TT,Nieuw-Weerdinge
+Noordveenkanaal NZ,94,"","",7831TT,Nieuw-Weerdinge
+Noordveenkanaal NZ,94,"","",7831TT,Nieuw-Weerdinge
+Vledderdiep,37,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,39,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,41,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,47,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,49,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,51,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,53,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,55,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,57,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,65,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,67,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,69,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,85,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,87,"","",7831TX,Nieuw-Weerdinge
+Vledders,100,"","",7831VA,Nieuw-Weerdinge
+Vledders,100,"","",7831VA,Nieuw-Weerdinge
+Vledders,100,"","",7831VA,Nieuw-Weerdinge
+Vledders,24,"","",7831VA,Nieuw-Weerdinge
+Vledders,27,"","",7831VA,Nieuw-Weerdinge
+Vledders,28,"","",7831VA,Nieuw-Weerdinge
+Vledders,28,"","",7831VA,Nieuw-Weerdinge
+Vledders,28,"","",7831VA,Nieuw-Weerdinge
+Vledders,28,"","",7831VA,Nieuw-Weerdinge
+Vledders,38,"","",7831VA,Nieuw-Weerdinge
+Vledders,38,"","",7831VA,Nieuw-Weerdinge
+Vledders,44,"","",7831VA,Nieuw-Weerdinge
+Vledders,44,"","",7831VA,Nieuw-Weerdinge
+Vledders,44,"","",7831VA,Nieuw-Weerdinge
+Vledders,44,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,72,"","",7831VA,Nieuw-Weerdinge
+Vledders,80,"","",7831VA,Nieuw-Weerdinge
+Vledders,80,"","",7831VA,Nieuw-Weerdinge
+Vledders,9999,"",A,7831VA,Nieuw-Weerdinge
+Vledders,9999,"",A,7831VA,Nieuw-Weerdinge
+Pottendijk WZ,20,"","",7831VB,Nieuw-Weerdinge
+Weerdingermarke,11,"","",7831VC,Nieuw-Weerdinge
+Weerdingermarke,19,"","",7831VC,Nieuw-Weerdinge
+Weerdingermarke,5,"","",7831VC,Nieuw-Weerdinge
+Weerdinger-Erfscheidenveen,12,"","",7831VE,Nieuw-Weerdinge
+Weerdinger-Erfscheidenveen,12,"","",7831VE,Nieuw-Weerdinge
+Weerdinger-Erfscheidenveen,15,"","",7831VE,Nieuw-Weerdinge
+Meijersmarke,10,"","",7831VG,Nieuw-Weerdinge
+Meijersmarke,12,"","",7831VG,Nieuw-Weerdinge
+Meijersmarke,16,"","",7831VG,Nieuw-Weerdinge
+Meijersmarke,16,"","",7831VG,Nieuw-Weerdinge
+Meijersmarke,5,"","",7831VG,Nieuw-Weerdinge
+Meijersmarke,8,"","",7831VG,Nieuw-Weerdinge
+Meijersmarke,9999,A,"",7831VG,Nieuw-Weerdinge
+Weerdingermarke,10,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,2,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,2,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,24,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,26,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,26,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,28,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,32,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,34,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,34,"",TR,7831VH,Nieuw-Weerdinge
+Weerdingermarke,34,"",TR,7831VH,Nieuw-Weerdinge
+Weerdingermarke,4,"","",7831VH,Nieuw-Weerdinge
+Weerdingermarke,7932,"",2,7831VH,Nieuw-Weerdinge

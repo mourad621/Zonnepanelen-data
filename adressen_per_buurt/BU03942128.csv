@@ -1,27 +1,27 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2065AE,Haarlemmerstraatweg,179,,ws
-2065AE,Haarlemmerstraatweg,179,a,
-2065AE,Haarlemmerstraatweg,179,,
-2065AE,Haarlemmerstraatweg,181,,
-2065AE,Haarlemmerstraatweg,183,,
-2065AE,Haarlemmerstraatweg,183,b,
-2065AA,Oude Notweg,1,,
-2065AA,Oude Notweg,2,,
-2065AG,Rottewegje,1,,
-2065AG,Rottewegje,2,,
-2065AG,Rottewegje,2,a,
-2065AG,Rottewegje,2,b,
-2065AG,Rottewegje,2,b,
-2065AG,Rottewegje,2,,ws
-2065AG,Rottewegje,2,,a
-2065AG,Rottewegje,2,a,
-2065AG,Rottewegje,3,,
-2065AG,Rottewegje,5,,
-2065AG,Rottewegje,3,a,
-2065AG,Rottewegje,3,,ws
-2065AG,Rottewegje,3,,a
-2065AG,Rottewegje,3,a,
-2065AE,Haarlemmerstraatweg,173,,
-2065AE,Haarlemmerstraatweg,175,,
-2065AE,Haarlemmerstraatweg,177,,
-2065AG,Rottewegje,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Oude Notweg,1,"","",2065AA,Haarlemmerliede
+Oude Notweg,2,"","",2065AA,Haarlemmerliede
+Haarlemmerstraatweg,173,"","",2065AE,Halfweg
+Haarlemmerstraatweg,175,"","",2065AE,Halfweg
+Haarlemmerstraatweg,177,"","",2065AE,Halfweg
+Haarlemmerstraatweg,179,"","",2065AE,Haarlemmerliede
+Haarlemmerstraatweg,179,"",WS,2065AE,Haarlemmerliede
+Haarlemmerstraatweg,179,A,"",2065AE,Haarlemmerliede
+Haarlemmerstraatweg,181,"","",2065AE,Haarlemmerliede
+Haarlemmerstraatweg,183,"","",2065AE,Haarlemmerliede
+Haarlemmerstraatweg,183,B,"",2065AE,Haarlemmerliede
+Rottewegje,1,"","",2065AG,Haarlemmerliede
+Rottewegje,2,"","",2065AG,Haarlemmerliede
+Rottewegje,2,"",A,2065AG,Haarlemmerliede
+Rottewegje,2,"",WS,2065AG,Haarlemmerliede
+Rottewegje,2,A,"",2065AG,Haarlemmerliede
+Rottewegje,2,A,"",2065AG,Haarlemmerliede
+Rottewegje,2,B,"",2065AG,Haarlemmerliede
+Rottewegje,2,B,"",2065AG,Haarlemmerliede
+Rottewegje,3,"","",2065AG,Haarlemmerliede
+Rottewegje,3,"",A,2065AG,Haarlemmerliede
+Rottewegje,3,"",WS,2065AG,Haarlemmerliede
+Rottewegje,3,A,"",2065AG,Haarlemmerliede
+Rottewegje,3,A,"",2065AG,Haarlemmerliede
+Rottewegje,4,"","",2065AG,Haarlemmerliede
+Rottewegje,5,"","",2065AG,Haarlemmerliede

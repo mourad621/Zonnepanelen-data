@@ -1,295 +1,155 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7641RJ",2,"b",""
-"7641RJ",4,"",""
-"7641RJ",2,"a",""
-"7641RK",1,"",""
-"7641RL",4,"","SCHR"
-"7641RL",6,"",""
-"7641RL",7,"",""
-"7641RL",4,"","SCHR"
-"7641RL",3,"",""
-"7641RL",5,"",""
-"7641RL",1,"a",""
-"7641RL",3,"",""
-"7641RL",1,"",""
-"7641RL",3,"",""
-"7641RL",8,"",""
-"7641RL",2,"",""
-"7641RL",5,"",""
-"7641RN",8,"",""
-"7641RN",2,"",""
-"7641RN",5,"a",""
-"7641RN",1,"",""
-"7641RN",1,"",""
-"7641RN",8,"","ZH02"
-"7641RN",8,"","ZH01"
-"7641RN",3,"",""
-"7641RN",5,"",""
-"7641RN",2,"",""
-"7641RN",6,"",""
-"7641RN",5,"",""
-"7641RN",1,"a",""
-"7641RN",4,"",""
-"7641RN",2,"",""
-"7641RN",5,"","inwo"
-"7641RP",2,"",""
-"7641RP",3,"","inwo"
-"7641RP",2,"",""
-"7641RP",3,"",""
-"7641RP",3,"",""
-"7641RP",3,"","inwo"
-"7641RP",2,"a",""
-"7641RP",2,"",""
-"7641RR",3,"b",""
-"7641RR",3,"",""
-"7641RR",3,"b",""
-"7641RR",2,"",""
-"7641RR",1,"",""
-"7641RR",5,"",""
-"7641RR",4,"",""
-"7641RR",4,"",""
-"7641RR",3,"b",""
-"7641RR",4,"",""
-"7641RR",7,"",""
-"7641RR",3,"a",""
-"7641RR",4,"a",""
-"7641RR",2,"a",""
-"7641RR",4,"","traf"
-"7641RS",10,"",""
-"7641RS",16,"",""
-"7641RS",14,"",""
-"7641RS",14,"a",""
-"7641RS",12,"",""
-"7641RS",6,"a",""
-"7641RS",14,"",""
-"7641RS",14,"",""
-"7641RS",1,"",""
-"7641RS",18,"",""
-"7641RS",4,"a",""
-"7641RS",6,"",""
-"7641RS",4,"",""
-"7641RS",12,"","inwo"
-"7641RS",4,"b",""
-"7641RS",2,"",""
-"7641RS",8,"",""
-"7641RT",1,"b","traf"
-"7641RT",4,"",""
-"7641RT",3,"",""
-"7641RT",6,"","inwo"
-"7641RT",2,"a",""
-"7641RT",7,"",""
-"7641RT",1,"",""
-"7641RT",7,"",""
-"7641RT",7,"",""
-"7641RT",1,"b",""
-"7641RT",2,"",""
-"7641RT",3,"",""
-"7641RT",6,"a",""
-"7641RT",4,"",""
-"7641RT",4,"a",""
-"7641RT",5,"",""
-"7641RT",6,"",""
-"7641RT",1,"a",""
-"7641RT",3,"",""
-"7641RT",2,"b",""
-"7641RT",4,"",""
-"7641RV",3,"",""
-"7641RV",1,"a",""
-"7641RV",5,"",""
-"7641RV",21,"","inwo"
-"7641RV",5,"","inwo"
-"7641RV",5,"","inwo"
-"7641RV",13,"a",""
-"7641RV",5,"a",""
-"7641RV",15,"",""
-"7641RV",9,"",""
-"7641RV",4,"",""
-"7641RV",11,"",""
-"7641RV",1,"","traf"
-"7641RV",13,"",""
-"7641RV",2,"",""
-"7641RV",1,"",""
-"7641RV",8,"",""
-"7641RV",13,"",""
-"7641RV",13,"",""
-"7641RV",19,"",""
-"7641RV",17,"",""
-"7641RV",7,"",""
-"7641RV",21,"",""
-"7641RV",6,"",""
-"7641RW",2,"",""
-"7641RW",2,"a",""
-"7641RW",2,"",""
-"7641RW",1,"",""
-"7641RW",2,"",""
-"7641RX",3,"",""
-"7641RX",13,"",""
-"7641RX",9,"",""
-"7641RX",5,"",""
-"7641RX",11,"",""
-"7641RX",15,"",""
-"7641RX",25,"",""
-"7641RX",17,"",""
-"7641RX",17,"",""
-"7641RX",35,"",""
-"7641RX",39,"",""
-"7641RX",23,"",""
-"7641RX",1,"",""
-"7641RX",19,"",""
-"7641RX",21,"",""
-"7641RX",27,"",""
-"7641RX",31,"",""
-"7641RX",33,"",""
-"7641RX",17,"",""
-"7641RX",37,"",""
-"7641RX",29,"",""
-"7641RX",1,"","traf"
-"7641RX",7,"",""
-"7641RZ",14,"",""
-"7641RZ",12,"",""
-"7641RZ",16,"",""
-"7641RZ",2,"",""
-"7641RZ",8,"",""
-"7641RZ",10,"",""
-"7641RZ",4,"",""
-"7641RZ",6,"",""
-7641RK,Bolder Pad,1,,
-7641RL,Dwarsdijk,1,,
-7641RL,Dwarsdijk,2,,
-7641RL,Dwarsdijk,3,,
-7641RL,Dwarsdijk,5,,
-7641RL,Dwarsdijk,6,,
-7641RL,Dwarsdijk,7,,
-7641RL,Dwarsdijk,8,,
-7641RT,Erve Meijerinksweg,1,,
-7641RT,Erve Meijerinksweg,1,a,
-7641RT,Erve Meijerinksweg,1,b,
-7641RT,Erve Meijerinksweg,2,,
-7641RT,Erve Meijerinksweg,2,a,
-7641RT,Erve Meijerinksweg,2,b,
-7641RT,Erve Meijerinksweg,3,,
-7641RT,Erve Meijerinksweg,4,,
-7641RT,Erve Meijerinksweg,6,,
-7641RT,Erve Meijerinksweg,6,,inwo
-7641RT,Erve Meijerinksweg,6,a,
-7641RN,Heerdinksschotweg,1,,
-7641RN,Heerdinksschotweg,1,a,
-7641RN,Heerdinksschotweg,2,,
-7641RN,Heerdinksschotweg,3,,
-7641RN,Heerdinksschotweg,4,,
-7641RN,Heerdinksschotweg,5,,
-7641RN,Heerdinksschotweg,6,,
-7641RN,Heerdinksschotweg,8,,
-7641RL,Dwarsdijk,4,,SCHR
-7641RL,Dwarsdijk,1,a,
-7641RT,Erve Meijerinksweg,1,b,traf
-7641RT,Erve Meijerinksweg,5,,
-7641RT,Erve Meijerinksweg,7,,
-7641RT,Erve Meijerinksweg,4,,
-7641RT,Erve Meijerinksweg,4,a,
-7641RT,Erve Meijerinksweg,3,,
-7641RT,Erve Meijerinksweg,7,,
-7641RN,Gildenweg,5,,
-7641RN,Heerdinksschotweg,8,,ZH01
-7641RN,Heerdinksschotweg,8,,ZH02
-7641RN,Heerdinksschotweg,5,,inwo
-7641RN,Heerdinksschotweg,5,a,
-7641RN,Heerdinksschotweg,2,,
-7641RN,Heerdinksschotweg,1,,
-7641RX,Meijerinksberg,1,,
-7641RX,Meijerinksberg,3,,
-7641RX,Meijerinksberg,5,,
-7641RX,Meijerinksberg,7,,
-7641RX,Meijerinksberg,9,,
-7641RX,Meijerinksberg,11,,
-7641RX,Meijerinksberg,13,,
-7641RX,Meijerinksberg,15,,
-7641RX,Meijerinksberg,17,,
-7641RX,Meijerinksberg,19,,
-7641RX,Meijerinksberg,21,,
-7641RX,Meijerinksberg,23,,
-7641RX,Meijerinksberg,25,,
-7641RX,Meijerinksberg,27,,
-7641RX,Meijerinksberg,29,,
-7641RX,Meijerinksberg,31,,
-7641RX,Meijerinksberg,33,,
-7641RX,Meijerinksberg,35,,
-7641RX,Meijerinksberg,37,,
-7641RX,Meijerinksberg,39,,
-7641RX,Meijerinksberg,1,,traf
-7641RX,Meijerinksberg,17,,
-7641RZ,Meijerinksberg,2,,
-7641RZ,Meijerinksberg,4,,
-7641RZ,Meijerinksberg,6,,
-7641RZ,Meijerinksberg,8,,
-7641RZ,Meijerinksberg,10,,
-7641RZ,Meijerinksberg,12,,
-7641RZ,Meijerinksberg,14,,
-7641RZ,Meijerinksberg,16,,
-7641RS,Schietbaanweg,2,,
-7641RS,Schietbaanweg,4,,
-7641RS,Schietbaanweg,4,a,
-7641RS,Schietbaanweg,4,b,
-7641RS,Schietbaanweg,6,,
-7641RS,Schietbaanweg,6,a,
-7641RS,Schietbaanweg,8,,
-7641RS,Schietbaanweg,10,,
-7641RS,Schietbaanweg,12,,
-7641RS,Schietbaanweg,12,,inwo
-7641RS,Schietbaanweg,14,,
-7641RS,Schietbaanweg,16,,
-7641RS,Schietbaanweg,18,,
-7641RS,Schietbaanweg,14,a,
-7641RS,Schietbaanweg,14,,
-7641RR,Vossenbosweg,1,,
-7641RR,Vossenbosweg,2,,
-7641RR,Vossenbosweg,2,a,
-7641RR,Vossenbosweg,3,,
-7641RR,Vossenbosweg,3,a,
-7641RR,Vossenbosweg,3,b,
-7641RR,Vossenbosweg,4,,
-7641RR,Vossenbosweg,5,,
-7641RR,Vossenbosweg,7,,
-7641RR,Vossenbosweg,4,,traf
-7641RR,Vossenbosweg,3,b,
-7641RR,Vossenbosweg,4,,
-7641RR,Vossenbosweg,4,a,
-7641RP,Westerveenweg,2,,
-7641RP,Westerveenweg,3,,
-7641RP,Westerveenweg,3,,inwo
-7641RP,Westerveenweg,2,,
-7641RP,Westerveenweg,2,a,
-7641RS,Zanddijk,1,,
-7641RV,1e Meijerinkshoekweg,1,,
-7641RV,1e Meijerinkshoekweg,1,a,
-7641RV,1e Meijerinkshoekweg,3,,
-7641RV,1e Meijerinkshoekweg,4,,
-7641RV,1e Meijerinkshoekweg,5,,
-7641RV,1e Meijerinkshoekweg,6,,
-7641RV,1e Meijerinkshoekweg,7,,
-7641RV,1e Meijerinkshoekweg,9,,
-7641RV,1e Meijerinkshoekweg,11,,
-7641RV,1e Meijerinkshoekweg,13,,
-7641RV,1e Meijerinkshoekweg,15,,
-7641RV,1e Meijerinkshoekweg,17,,
-7641RV,1e Meijerinkshoekweg,19,,
-7641RV,1e Meijerinkshoekweg,21,,
-7641RV,1e Meijerinkshoekweg,21,,inwo
-7641RV,1e Meijerinkshoekweg,2,,
-7641RV,1e Meijerinkshoekweg,1,,traf
-7641RV,1e Meijerinkshoekweg,5,,inwo
-7641RV,1e Meijerinkshoekweg,5,a,
-7641RV,1e Meijerinkshoekweg,8,,
-7641RV,1e Meijerinkshoekweg,13,,
-7641RV,1e Meijerinkshoekweg,13,a,
-7641RW,2e Meijerinkshoekweg,1,,
-7641RW,2e Meijerinkshoekweg,2,,
-7641RW,2e Meijerinkshoekweg,2,,
-7641RW,2e Meijerinkshoekweg,2,a,
-7641RJ,veenweg,2,a,
-7641RJ,Veenweg,2,a,
-7641RJ,veenweg,2,b,
-7641RJ,Veenweg,2,b,
-7641RJ,veenweg,4,,
-7641RJ,Veenweg,4,,
-7641RL,Dwarsdijk,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+veenweg,2,A,"",7641RJ,Wierden
+veenweg,2,B,"",7641RJ,Wierden
+veenweg,4,"","",7641RJ,Wierden
+Bolder Pad,1,"","",7641RK,Wierden
+Dwarsdijk,1,"","",7641RL,Wierden
+Dwarsdijk,1,A,"",7641RL,Wierden
+Dwarsdijk,2,"","",7641RL,Wierden
+Dwarsdijk,3,"","",7641RL,Wierden
+Dwarsdijk,3,"","",7641RL,Wierden
+Dwarsdijk,3,"","",7641RL,Wierden
+Dwarsdijk,4,"",SCHR,7641RL,Wierden
+Dwarsdijk,4,"",SCHR,7641RL,Wierden
+Dwarsdijk,5,"","",7641RL,Wierden
+Dwarsdijk,5,"","",7641RL,Wierden
+Dwarsdijk,6,"","",7641RL,Wierden
+Dwarsdijk,7,"","",7641RL,Wierden
+Dwarsdijk,8,"","",7641RL,Wierden
+Heerdinksschotweg,1,"","",7641RN,Wierden
+Heerdinksschotweg,1,"","",7641RN,Wierden
+Heerdinksschotweg,1,A,"",7641RN,Wierden
+Heerdinksschotweg,2,"","",7641RN,Wierden
+Heerdinksschotweg,2,"","",7641RN,Wierden
+Heerdinksschotweg,2,"","",7641RN,Wierden
+Heerdinksschotweg,3,"","",7641RN,Wierden
+Heerdinksschotweg,4,"","",7641RN,Wierden
+Heerdinksschotweg,5,"","",7641RN,Wierden
+Heerdinksschotweg,5,"","",7641RN,Wierden
+Heerdinksschotweg,5,"",INWO,7641RN,Wierden
+Heerdinksschotweg,5,A,"",7641RN,Wierden
+Heerdinksschotweg,6,"","",7641RN,Wierden
+Heerdinksschotweg,8,"","",7641RN,Wierden
+Heerdinksschotweg,8,"",ZH01,7641RN,Wierden
+Heerdinksschotweg,8,"",ZH02,7641RN,Wierden
+Westerveenweg,2,"","",7641RP,Wierden
+Westerveenweg,2,"","",7641RP,Wierden
+Westerveenweg,2,"","",7641RP,Wierden
+Westerveenweg,2,A,"",7641RP,Wierden
+Westerveenweg,3,"","",7641RP,Wierden
+Westerveenweg,3,"","",7641RP,Wierden
+Westerveenweg,3,"",INWO,7641RP,Wierden
+Westerveenweg,3,"",INWO,7641RP,Wierden
+Vossenbosweg,1,"","",7641RR,Wierden
+Vossenbosweg,2,"","",7641RR,Wierden
+Vossenbosweg,2,A,"",7641RR,Wierden
+Vossenbosweg,3,"","",7641RR,Wierden
+Vossenbosweg,3,A,"",7641RR,Wierden
+Vossenbosweg,3,B,"",7641RR,Wierden
+Vossenbosweg,3,B,"",7641RR,Wierden
+Vossenbosweg,3,B,"",7641RR,Wierden
+Vossenbosweg,4,"","",7641RR,Wierden
+Vossenbosweg,4,"","",7641RR,Wierden
+Vossenbosweg,4,"","",7641RR,Wierden
+Vossenbosweg,4,"",TRAF,7641RR,Wierden
+Vossenbosweg,4,A,"",7641RR,Wierden
+Vossenbosweg,5,"","",7641RR,Wierden
+Vossenbosweg,7,"","",7641RR,Wierden
+Zanddijk,1,"","",7641RS,Wierden
+Schietbaanweg,10,"","",7641RS,Wierden
+Schietbaanweg,12,"","",7641RS,Wierden
+Schietbaanweg,12,"",INWO,7641RS,Wierden
+Schietbaanweg,14,"","",7641RS,Wierden
+Schietbaanweg,14,"","",7641RS,Wierden
+Schietbaanweg,14,"","",7641RS,Wierden
+Schietbaanweg,14,A,"",7641RS,Wierden
+Schietbaanweg,16,"","",7641RS,Wierden
+Schietbaanweg,18,"","",7641RS,Wierden
+Schietbaanweg,2,"","",7641RS,Wierden
+Schietbaanweg,4,"","",7641RS,Wierden
+Schietbaanweg,4,A,"",7641RS,Wierden
+Schietbaanweg,4,B,"",7641RS,Wierden
+Schietbaanweg,6,"","",7641RS,Wierden
+Schietbaanweg,6,A,"",7641RS,Wierden
+Schietbaanweg,8,"","",7641RS,Wierden
+Erve Meijerinksweg,1,"","",7641RT,Wierden
+Erve Meijerinksweg,1,A,"",7641RT,Wierden
+Erve Meijerinksweg,1,B,"",7641RT,Wierden
+Erve Meijerinksweg,1,B,TRAF,7641RT,Wierden
+Erve Meijerinksweg,2,"","",7641RT,Wierden
+Erve Meijerinksweg,2,A,"",7641RT,Wierden
+Erve Meijerinksweg,2,B,"",7641RT,Wierden
+Erve Meijerinksweg,3,"","",7641RT,Wierden
+Erve Meijerinksweg,3,"","",7641RT,Wierden
+Erve Meijerinksweg,3,"","",7641RT,Wierden
+Erve Meijerinksweg,4,"","",7641RT,Wierden
+Erve Meijerinksweg,4,"","",7641RT,Wierden
+Erve Meijerinksweg,4,"","",7641RT,Wierden
+Erve Meijerinksweg,4,A,"",7641RT,Wierden
+Erve Meijerinksweg,5,"","",7641RT,Wierden
+Erve Meijerinksweg,6,"","",7641RT,Wierden
+Erve Meijerinksweg,6,"",INWO,7641RT,Wierden
+Erve Meijerinksweg,6,A,"",7641RT,Wierden
+Erve Meijerinksweg,7,"","",7641RT,Wierden
+Erve Meijerinksweg,7,"","",7641RT,Wierden
+Erve Meijerinksweg,7,"","",7641RT,Wierden
+1e Meijerinkshoekweg,1,"","",7641RV,Wierden
+1e Meijerinkshoekweg,1,"",TRAF,7641RV,Wierden
+1e Meijerinkshoekweg,1,A,"",7641RV,Wierden
+1e Meijerinkshoekweg,11,"","",7641RV,Wierden
+1e Meijerinkshoekweg,13,"","",7641RV,Wierden
+1e Meijerinkshoekweg,13,"","",7641RV,Wierden
+1e Meijerinkshoekweg,13,"","",7641RV,Wierden
+1e Meijerinkshoekweg,13,A,"",7641RV,Wierden
+1e Meijerinkshoekweg,15,"","",7641RV,Wierden
+1e Meijerinkshoekweg,17,"","",7641RV,Wierden
+1e Meijerinkshoekweg,19,"","",7641RV,Wierden
+1e Meijerinkshoekweg,2,"","",7641RV,Wierden
+1e Meijerinkshoekweg,21,"","",7641RV,Wierden
+1e Meijerinkshoekweg,21,"",INWO,7641RV,Wierden
+1e Meijerinkshoekweg,3,"","",7641RV,Wierden
+1e Meijerinkshoekweg,4,"","",7641RV,Wierden
+1e Meijerinkshoekweg,5,"","",7641RV,Wierden
+1e Meijerinkshoekweg,5,"",INWO,7641RV,Wierden
+1e Meijerinkshoekweg,5,"",INWO,7641RV,Wierden
+1e Meijerinkshoekweg,5,A,"",7641RV,Wierden
+1e Meijerinkshoekweg,6,"","",7641RV,Wierden
+1e Meijerinkshoekweg,7,"","",7641RV,Wierden
+1e Meijerinkshoekweg,8,"","",7641RV,Wierden
+1e Meijerinkshoekweg,9,"","",7641RV,Wierden
+2e Meijerinkshoekweg,1,"","",7641RW,Wierden
+2e Meijerinkshoekweg,2,"","",7641RW,Wierden
+2e Meijerinkshoekweg,2,"","",7641RW,Wierden
+2e Meijerinkshoekweg,2,"","",7641RW,Wierden
+2e Meijerinkshoekweg,2,A,"",7641RW,Wierden
+Meijerinksberg,1,"","",7641RX,Wierden
+Meijerinksberg,1,"",TRAF,7641RX,Wierden
+Meijerinksberg,11,"","",7641RX,Wierden
+Meijerinksberg,13,"","",7641RX,Wierden
+Meijerinksberg,15,"","",7641RX,Wierden
+Meijerinksberg,17,"","",7641RX,Wierden
+Meijerinksberg,17,"","",7641RX,Wierden
+Meijerinksberg,17,"","",7641RX,Wierden
+Meijerinksberg,19,"","",7641RX,Wierden
+Meijerinksberg,21,"","",7641RX,Wierden
+Meijerinksberg,23,"","",7641RX,Wierden
+Meijerinksberg,25,"","",7641RX,Wierden
+Meijerinksberg,27,"","",7641RX,Wierden
+Meijerinksberg,29,"","",7641RX,Wierden
+Meijerinksberg,3,"","",7641RX,Wierden
+Meijerinksberg,31,"","",7641RX,Wierden
+Meijerinksberg,33,"","",7641RX,Wierden
+Meijerinksberg,35,"","",7641RX,Wierden
+Meijerinksberg,37,"","",7641RX,Wierden
+Meijerinksberg,39,"","",7641RX,Wierden
+Meijerinksberg,5,"","",7641RX,Wierden
+Meijerinksberg,7,"","",7641RX,Wierden
+Meijerinksberg,9,"","",7641RX,Wierden
+Meijerinksberg,10,"","",7641RZ,Wierden
+Meijerinksberg,12,"","",7641RZ,Wierden
+Meijerinksberg,14,"","",7641RZ,Wierden
+Meijerinksberg,16,"","",7641RZ,Wierden
+Meijerinksberg,2,"","",7641RZ,Wierden
+Meijerinksberg,4,"","",7641RZ,Wierden
+Meijerinksberg,6,"","",7641RZ,Wierden
+Meijerinksberg,8,"","",7641RZ,Wierden

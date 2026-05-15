@@ -1,876 +1,467 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7831AA",12,"",""
-"7831AA",3,"",""
-"7831AA",15,"",""
-"7831AA",11,"",""
-"7831AA",16,"",""
-"7831AA",17,"",""
-"7831AA",1,"D",""
-"7831AA",14,"",""
-"7831AA",13,"",""
-"7831AA",20,"",""
-"7831AA",9,"",""
-"7831AA",6,"",""
-"7831AA",18,"",""
-"7831AA",3,"A",""
-"7831AA",2,"",""
-"7831AA",1,"B",""
-"7831AA",1,"C",""
-"7831AA",18,"",""
-"7831AA",17,"",""
-"7831AA",4,"",""
-"7831AA",1,"",""
-"7831AA",5,"",""
-"7831AA",10,"",""
-"7831AA",1,"A",""
-"7831AA",1,"A",""
-"7831AB",29,"",""
-"7831AB",28,"",""
-"7831AB",28,"A",""
-"7831AB",28,"",""
-"7831AB",30,"",""
-"7831AB",29,"",""
-"7831AB",24,"",""
-"7831AB",24,"",""
-"7831AB",24,"",""
-"7831AB",24,"",""
-"7831AB",29,"",""
-"7831AB",28,"",""
-"7831AB",36,"",""
-"7831AB",29,"",""
-"7831AB",29,"",""
-"7831AB",35,"",""
-"7831AB",35,"",""
-"7831AB",23,"",""
-"7831AB",38,"",""
-"7831AB",28,"",""
-"7831AB",28,"",""
-"7831AB",24,"",""
-"7831AB",21,"",""
-"7831AB",36,"",""
-"7831AB",24,"",""
-"7831AB",37,"",""
-"7831AB",33,"",""
-"7831AB",28,"C",""
-"7831AB",35,"",""
-"7831AB",36,"",""
-"7831AB",28,"B",""
-"7831AB",35,"",""
-"7831AB",31,"",""
-"7831AB",35,"",""
-"7831AB",35,"",""
-"7831AB",25,"",""
-"7831AB",36,"",""
-"7831AB",34,"",""
-"7831AS",3,"",""
-"7831AS",9,"",""
-"7831AS",4,"",""
-"7831AS",3,"",""
-"7831AS",12,"",""
-"7831AS",5,"",""
-"7831AS",1,"B",""
-"7831AS",1,"",""
-"7831AS",2,"A",""
-"7831AS",2,"A",""
-"7831AS",2,"A",""
-"7831AS",1,"A",""
-"7831AS",1,"A",""
-"7831AS",20,"",""
-"7831AS",2,"",""
-"7831AS",3,"",""
-"7831AS",1,"",""
-"7831AS",7,"",""
-"7831AS",21,"",""
-"7831AS",1,"",""
-"7831AS",6,"",""
-"7831AS",1,"",""
-"7831AS",3,"",""
-"7831AS",3,"",""
-"7831AS",2,"A",""
-"7831AT",35,"",""
-"7831AT",33,"",""
-"7831AT",32,"",""
-"7831AT",25,"",""
-"7831AT",41,"",""
-"7831AT",27,"",""
-"7831AT",22,"",""
-"7831AT",41,"",""
-"7831AT",41,"",""
-"7831AT",29,"",""
-"7831AT",41,"",""
-"7831AT",25,"",""
-"7831AT",25,"",""
-"7831AT",32,"","TR"
-"7831AT",30,"",""
-"7831AT",32,"","TR"
-"7831AT",23,"",""
-"7831AT",32,"","TR"
-"7831AT",36,"",""
-"7831AT",25,"",""
-"7831AV",2,"",""
-"7831AV",6,"",""
-"7831AV",8,"",""
-"7831AV",1,"",""
-"7831AV",7,"",""
-"7831AV",1,"",""
-"7831AV",5,"",""
-"7831AV",11,"",""
-"7831AV",14,"",""
-"7831AV",1,"",""
-"7831AV",9,"",""
-"7831AV",9,"",""
-"7831AV",14,"",""
-"7831AV",3,"",""
-"7831AV",1,"",""
-"7831AV",14,"",""
-"7831AV",4,"",""
-"7831AV",1,"",""
-"7831AV",13,"",""
-"7831AV",9,"",""
-"7831AV",9,"",""
-"7831AV",14,"",""
-"7831AW",24,"",""
-"7831AW",21,"",""
-"7831AW",26,"",""
-"7831AW",21,"",""
-"7831AW",17,"",""
-"7831AW",20,"",""
-"7831AW",31,"",""
-"7831AW",16,"",""
-"7831AW",19,"",""
-"7831AW",21,"",""
-"7831AW",28,"",""
-"7831AW",23,"",""
-"7831AW",21,"",""
-"7831AW",20,"",""
-"7831AW",16,"",""
-"7831AW",27,"",""
-"7831AW",28,"",""
-"7831AW",25,"",""
-"7831AW",16,"",""
-"7831AW",16,"",""
-"7831AW",20,"",""
-"7831AW",28,"",""
-"7831AW",29,"",""
-"7831AW",16,"",""
-"7831AW",20,"",""
-"7831AW",30,"",""
-"7831AX",38,"",""
-"7831AX",40,"",""
-"7831AX",41,"",""
-"7831AX",32,"",""
-"7831AX",33,"",""
-"7831AX",35,"",""
-"7831AX",42,"",""
-"7831AX",43,"",""
-"7831AX",36,"",""
-"7831AX",44,"",""
-"7831AX",1,"",""
-"7831AX",39,"",""
-"7831AX",45,"",""
-"7831AX",34,"",""
-"7831AZ",45,"",""
-"7831AZ",25,"",""
-"7831AZ",43,"",""
-"7831AZ",37,"",""
-"7831AZ",39,"",""
-"7831AZ",41,"",""
-"7831GB",25,"",""
-"7831GB",1,"A",""
-"7831GD",35,"",""
-"7831GD",39,"",""
-"7831GD",40,"",""
-"7831GD",34,"",""
-"7831GD",38,"",""
-"7831GD",35,"",""
-"7831GD",34,"",""
-"7831GD",34,"",""
-"7831GD",34,"",""
-"7831GD",41,"",""
-"7831GD",37,"",""
-"7831GD",35,"",""
-"7831GD",46,"",""
-"7831GD",45,"",""
-"7831GD",44,"",""
-"7831GD",43,"",""
-"7831GD",35,"",""
-"7831GD",44,"",""
-"7831GD",45,"A",""
-"7831GE",53,"",""
-"7831GE",53,"",""
-"7831GE",50,"",""
-"7831GE",52,"",""
-"7831GE",53,"",""
-"7831GE",53,"",""
-"7831GE",50,"",""
-"7831GE",52,"",""
-"7831GE",50,"",""
-"7831GE",53,"",""
-"7831GE",48,"",""
-"7831GE",51,"",""
-"7831GE",53,"",""
-"7831GE",52,"",""
-"7831GE",49,"",""
-"7831GE",50,"",""
-"7831GE",47,"",""
-"7831GE",52,"",""
-"7831GR",151,"",""
-"7831GR",155,"",""
-"7831GR",154,"",""
-"7831GR",151,"",""
-"7831GR",162,"",""
-"7831GR",151,"",""
-"7831GR",157,"",""
-"7831GR",150,"",""
-"7831GR",152,"",""
-"7831GR",153,"",""
-"7831GR",158,"",""
-"7831GR",156,"",""
-"7831GR",161,"",""
-"7831GR",159,"",""
-"7831GR",152,"",""
-"7831GR",163,"",""
-"7831GR",148,"",""
-"7831GR",162,"",""
-"7831GR",160,"",""
-"7831GR",151,"",""
-"7831GR",157,"A",""
-"7831GR",164,"",""
-"7831GR",162,"",""
-"7831GR",152,"",""
-"7831GR",162,"",""
-"7831GS",166,"A",""
-"7831GS",167,"",""
-"7831GS",166,"I",""
-"7831GS",169,"",""
-"7831GS",173,"",""
-"7831GS",171,"",""
-"7831GS",168,"",""
-"7831GS",7985,"",""
-"7831GS",166,"",""
-"7831GS",172,"",""
-"7831GT",60,"",""
-"7831GT",44,"",""
-"7831GT",34,"",""
-"7831GT",60,"",""
-"7831GT",54,"",""
-"7831GT",36,"",""
-"7831GW",40,"",""
-"7831GW",38,"",""
-"7831GW",40,"",""
-"7831GW",42,"",""
-"7831GW",38,"",""
-"7831HA",3,"",""
-"7831HA",5,"",""
-"7831HA",6,"",""
-"7831HA",7,"A",""
-"7831HA",7,"",""
-"7831HA",4,"",""
-"7831HA",1,"",""
-"7831HB",17,"",""
-"7831HB",12,"",""
-"7831HB",19,"",""
-"7831HB",13,"",""
-"7831HB",20,"",""
-"7831HB",20,"",""
-"7831HB",11,"",""
-"7831HB",24,"",""
-"7831HB",20,"",""
-"7831HB",14,"",""
-"7831HB",16,"",""
-"7831HB",20,"",""
-"7831HB",18,"",""
-"7831HB",23,"",""
-"7831HB",9,"",""
-"7831HB",12,"",""
-"7831HB",8,"",""
-"7831HB",24,"",""
-"7831HB",22,"",""
-"7831HB",14,"",""
-"7831HB",12,"",""
-"7831HB",14,"",""
-"7831HB",15,"",""
-"7831HB",22,"",""
-"7831HB",24,"",""
-"7831HB",10,"",""
-"7831HB",12,"",""
-"7831HB",24,"",""
-"7831HB",14,"",""
-"7831HC",29,"",""
-"7831HC",32,"",""
-"7831HC",46,"",""
-"7831HC",29,"",""
-"7831HC",29,"",""
-"7831HC",42,"",""
-"7831HC",31,"",""
-"7831HC",43,"",""
-"7831HC",44,"",""
-"7831HC",35,"",""
-"7831HC",32,"",""
-"7831HC",28,"",""
-"7831HC",30,"",""
-"7831HC",40,"",""
-"7831HC",26,"",""
-"7831HC",25,"",""
-"7831HC",32,"",""
-"7831HC",29,"",""
-"7831HC",35,"",""
-"7831HC",46,"",""
-"7831HC",45,"",""
-"7831HC",45,"",""
-"7831HC",43,"",""
-"7831HC",44,"",""
-"7831HC",36,"",""
-"7831HC",42,"",""
-"7831HC",42,"B",""
-"7831HC",43,"",""
-"7831HC",43,"",""
-"7831HC",32,"",""
-"7831HC",27,"",""
-"7831HC",39,"",""
-"7831HC",32,"",""
-"7831HC",45,"",""
-"7831HC",45,"",""
-"7831HC",45,"",""
-"7831HC",33,"",""
-"7831HC",43,"",""
-"7831HC",42,"",""
-"7831HC",35,"",""
-"7831HC",34,"",""
-"7831HC",41,"",""
-"7831HC",34,"",""
-"7831HC",35,"",""
-"7831HC",34,"",""
-"7831HC",42,"",""
-"7831HC",46,"",""
-"7831HC",44,"",""
-"7831HC",42,"A",""
-"7831HC",34,"",""
-"7831HD",48,"",""
-"7831HD",52,"",""
-"7831HD",48,"",""
-"7831HD",52,"",""
-"7831HD",51,"",""
-"7831HD",48,"",""
-"7831HD",52,"",""
-"7831HD",49,"",""
-"7831HD",47,"A",""
-"7831HD",50,"",""
-"7831HD",56,"",""
-"7831HD",59,"",""
-"7831HD",52,"A",""
-"7831HD",52,"A",""
-"7831HD",51,"",""
-"7831HD",52,"",""
-"7831HD",52,"A",""
-"7831HD",52,"A",""
-"7831HD",64,"",""
-"7831HD",60,"A",""
-"7831HD",56,"",""
-"7831HD",63,"",""
-"7831HD",56,"",""
-"7831HD",47,"B",""
-"7831HD",51,"",""
-"7831HD",64,"",""
-"7831HD",51,"",""
-"7831HD",51,"",""
-"7831HD",64,"",""
-"7831HD",48,"",""
-"7831HD",60,"",""
-"7831HD",60,"A",""
-"7831HD",53,"",""
-"7831HD",55,"",""
-"7831HD",62,"",""
-"7831HD",52,"",""
-"7831HD",52,"",""
-"7831HD",52,"",""
-"7831HD",58,"",""
-"7831HD",52,"A",""
-"7831HD",52,"A",""
-"7831HD",52,"",""
-"7831TW",13,"",""
-"7831TW",3,"",""
-"7831TW",15,"",""
-"7831TW",13,"",""
-"7831TW",7,"",""
-"7831TW",15,"",""
-"7831TW",29,"",""
-"7831TW",19,"",""
-"7831TW",27,"",""
-"7831TW",13,"",""
-"7831TW",31,"",""
-"7831TW",1,"",""
-"7831TW",15,"",""
-"7831TW",31,"",""
-"7831TW",31,"",""
-"7831TW",25,"",""
-"7831TW",33,"",""
-"7831TW",9,"",""
-"7831TW",23,"",""
-"7831TW",31,"",""
-"7831TW",11,"",""
-"7831TW",15,"",""
-"7831TW",17,"",""
-"7831TW",5,"",""
-"7831TW",21,"",""
-"7831TW",35,"",""
-"7831TX",41,"",""
-"7831TX",43,"",""
-"7831TX",67,"",""
-"7831TX",49,"",""
-"7831TX",43,"",""
-"7831TX",51,"",""
-"7831TX",43,"",""
-"7831TX",65,"",""
-"7831TX",47,"",""
-"7831TX",87,"",""
-"7831TX",37,"",""
-"7831TX",55,"",""
-"7831TX",53,"",""
-"7831TX",57,"",""
-"7831TX",43,"",""
-"7831TX",39,"",""
-"7831TX",85,"",""
-"7831TX",69,"",""
-"7831TZ",22,"",""
-"7831TZ",26,"",""
-"7831TZ",28,"",""
-"7831TZ",32,"",""
-"7831TZ",18,"",""
-"7831TZ",52,"",""
-"7831TZ",16,"",""
-"7831TZ",50,"A",""
-"7831TZ",42,"",""
-"7831TZ",24,"",""
-"7831TZ",2,"",""
-"7831TZ",56,"",""
-"7831TZ",34,"",""
-"7831TZ",4,"",""
-"7831TZ",52,"",""
-"7831TZ",34,"",""
-"7831TZ",64,"",""
-"7831TZ",52,"",""
-"7831TZ",14,"",""
-"7831TZ",36,"",""
-"7831TZ",50,"",""
-"7831TZ",62,"",""
-"7831TZ",34,"",""
-"7831TZ",12,"",""
-"7831TZ",54,"",""
-"7831TZ",48,"",""
-"7831TZ",20,"",""
-"7831TZ",52,"",""
-"7831TZ",46,"",""
-"7831TZ",58,"",""
-"7831TZ",34,"",""
-"7831TZ",60,"",""
-"7831TZ",44,"",""
-7831GB,Derde Kruisdiep WZ,25,,
-7831AV,Noordveenkanaal NZ,13,,
-7831AV,Noordveenkanaal NZ,6,,
-7831AW,Noordveenkanaal NZ,30,,
-7831AW,Noordveenkanaal NZ,31,,
-7831AW,Noordveenkanaal NZ,28,,
-7831AW,Noordveenkanaal NZ,28,,
-7831AW,Noordveenkanaal NZ,28,,
-7831AX,Noordveenkanaal NZ,42,,
-7831AX,Noordveenkanaal NZ,40,,
-7831AX,Noordveenkanaal NZ,36,,
-7831AS,Noordveenkanaal ZZ,1,,
-7831AS,Noordveenkanaal ZZ,2,,
-7831AT,Noordveenkanaal ZZ,22,,
-7831AZ,Oude Weerdingerdijk,43,,
-7831GD,Tramwijk NZ,37,,
-7831GE,Tramwijk NZ,48,,
-7831GE,Tramwijk NZ,47,,
-7831GE,Tramwijk NZ,50,,
-7831GR,Tramwijk ZZ,153,,
-7831GR,Tramwijk ZZ,152,,
-7831GR,Tramwijk ZZ,152,,
-7831GR,Tramwijk ZZ,152,,
-7831GR,Tramwijk ZZ,156,,
-7831GR,Tramwijk ZZ,158,,
-7831GR,Tramwijk ZZ,162,,
-7831GS,Tramwijk ZZ,173,,
-7831GS,Tramwijk ZZ,171,,
-7831TW,Vledderdiep,3,,
-7831TW,Vledderdiep,31,,
-7831TW,Vledderdiep,15,,
-7831TW,Vledderdiep,21,,
-7831TW,Vledderdiep,33,,
-7831TX,Vledderdiep,67,,
-7831TX,Vledderdiep,39,,
-7831TX,Vledderdiep,43,,
-7831TX,Vledderdiep,51,,
-7831TZ,Vledderdiep,14,,
-7831TZ,Vledderdiep,42,,
-7831TZ,Vledderdiep,50,,
-7831TZ,Vledderdiep,54,,
-7831HA,Weerdingerkanaal NZ,4,,
-7831HA,Weerdingerkanaal NZ,3,,
-7831HB,Weerdingerkanaal NZ,23,,
-7831HB,Weerdingerkanaal NZ,8,,
-7831HB,Weerdingerkanaal NZ,10,,
-7831HB,Weerdingerkanaal NZ,14,,
-7831HB,Weerdingerkanaal NZ,19,,
-7831HB,Weerdingerkanaal NZ,16,,
-7831HC,Weerdingerkanaal NZ,35,,
-7831HC,Weerdingerkanaal NZ,40,,
-7831HC,Weerdingerkanaal NZ,46,,
-7831HC,Weerdingerkanaal NZ,46,,
-7831HC,Weerdingerkanaal NZ,46,,
-7831HC,Weerdingerkanaal NZ,45,,
-7831HC,Weerdingerkanaal NZ,45,,
-7831HC,Weerdingerkanaal NZ,44,,
-7831HC,Weerdingerkanaal NZ,44,,
-7831HC,Weerdingerkanaal NZ,44,,
-7831HC,Weerdingerkanaal NZ,42,,
-7831HC,Weerdingerkanaal NZ,41,,
-7831HD,Weerdingerkanaal NZ,49,,
-7831HD,Weerdingerkanaal NZ,50,,
-7831HD,Weerdingerkanaal NZ,60,A,
-7831HD,Weerdingerkanaal NZ,56,,
-7831HD,Weerdingerkanaal NZ,59,,
-7831HD,Weerdingerkanaal NZ,58,,
-7831AA,Weerdingerkanaal ZZ,14,,
-7831AA,Weerdingerkanaal ZZ,2,,
-7831AA,Weerdingerkanaal ZZ,1,,
-7831AA,Weerdingerkanaal ZZ,3,A,
-7831AB,Weerdingerkanaal ZZ,28,A,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,34,,
-7831AB,Weerdingerkanaal ZZ,38,,
-7831AB,Weerdingerkanaal ZZ,28,B,
-7831AB,Weerdingerkanaal ZZ,30,,
-7831GB,Derde Kruisdiep WZ,1,A,
-7831AV,Noordveenkanaal NZ,2,,
-7831AW,Noordveenkanaal NZ,24,,
-7831AS,Noordveenkanaal ZZ,9,,
-7831AS,Noordveenkanaal ZZ,6,,
-7831AT,Noordveenkanaal ZZ,29,,
-7831AT,Noordveenkanaal ZZ,25,,
-7831GD,Tramwijk NZ,41,,
-7831GD,Tramwijk NZ,39,,
-7831GD,Tramwijk NZ,43,,
-7831GE,Tramwijk NZ,51,,
-7831GR,Tramwijk ZZ,163,,
-7831HA,Weerdingerkanaal NZ,5,,
-7831HA,Weerdingerkanaal NZ,7,,
-7831HB,Weerdingerkanaal NZ,9,,
-7831HC,Weerdingerkanaal NZ,26,,
-7831HC,Weerdingerkanaal NZ,28,,
-7831AA,Weerdingerkanaal ZZ,16,,
-7831AA,Weerdingerkanaal ZZ,15,,
-7831AA,Weerdingerkanaal ZZ,4,,
-7831AB,Weerdingerkanaal ZZ,35,,
-7831AV,Noordveenkanaal NZ,7,,
-7831AW,Noordveenkanaal NZ,16,,
-7831AW,Noordveenkanaal NZ,21,,
-7831AX,Noordveenkanaal NZ,35,,
-7831AS,Noordveenkanaal ZZ,3,,
-7831AS,Noordveenkanaal ZZ,21,,
-7831AS,Noordveenkanaal ZZ,12,,
-7831AT,Noordveenkanaal ZZ,41,,
-7831AZ,Oude Weerdingerdijk,39,,
-7831AZ,Oude Weerdingerdijk,45,,
-7831GT,Oudedijk,60,,
-7831GT,Oudedijk,60,,
-7831GW,Paardeweide,38,,
-7831GE,Tramwijk NZ,53,,
-7831GR,Tramwijk ZZ,155,,
-7831GR,Tramwijk ZZ,157,,
-7831GR,Tramwijk ZZ,164,,
-7831GR,Tramwijk ZZ,161,,
-7831GR,Tramwijk ZZ,157,A,
-7831GS,Tramwijk ZZ,168,,
-7831TW,Vledderdiep,11,,
-7831TW,Vledderdiep,9,,
-7831TW,Vledderdiep,29,,
-7831TX,Vledderdiep,57,,
-7831TX,Vledderdiep,37,,
-7831TX,Vledderdiep,49,,
-7831TZ,Vledderdiep,24,,
-7831TZ,Vledderdiep,52,,
-7831TZ,Vledderdiep,4,,
-7831TZ,Vledderdiep,18,,
-7831TZ,Vledderdiep,16,,
-7831TZ,Vledderdiep,34,,
-7831TZ,Vledderdiep,44,,
-7831TZ,Vledderdiep,36,,
-7831HA,Weerdingerkanaal NZ,6,,
-7831HB,Weerdingerkanaal NZ,18,,
-7831HB,Weerdingerkanaal NZ,11,,
-7831HB,Weerdingerkanaal NZ,20,,
-7831HC,Weerdingerkanaal NZ,34,,
-7831HC,Weerdingerkanaal NZ,42,A,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HD,Weerdingerkanaal NZ,47,A,
-7831HD,Weerdingerkanaal NZ,63,,
-7831AA,Weerdingerkanaal ZZ,20,,
-7831AA,Weerdingerkanaal ZZ,1,A,
-7831AW,Noordveenkanaal NZ,20,,
-7831AX,Noordveenkanaal NZ,41,,
-7831AX,Noordveenkanaal NZ,45,,
-7831AS,Noordveenkanaal ZZ,2,A,
-7831AT,Noordveenkanaal ZZ,27,,
-7831AT,Noordveenkanaal ZZ,35,,
-7831GT,Oudedijk,36,,
-7831GW,Paardeweide,40,,
-7831GD,Tramwijk NZ,35,,
-7831GR,Tramwijk ZZ,159,,
-7831TW,Vledderdiep,13,,
-7831TX,Vledderdiep,41,,
-7831TX,Vledderdiep,53,,
-7831TZ,Vledderdiep,32,,
-7831TZ,Vledderdiep,26,,
-7831TZ,Vledderdiep,48,,
-7831TZ,Vledderdiep,58,,
-7831HB,Weerdingerkanaal NZ,17,,
-7831HC,Weerdingerkanaal NZ,29,,
-7831HC,Weerdingerkanaal NZ,25,,
-7831HC,Weerdingerkanaal NZ,39,,
-7831HC,Weerdingerkanaal NZ,32,,
-7831HC,Weerdingerkanaal NZ,42,B,
-7831HD,Weerdingerkanaal NZ,62,,
-7831AA,Weerdingerkanaal ZZ,12,,
-7831AA,Weerdingerkanaal ZZ,9,,
-7831AB,Weerdingerkanaal ZZ,25,,
-7831AB,Weerdingerkanaal ZZ,23,,
-7831AV,Noordveenkanaal NZ,3,,
-7831AW,Noordveenkanaal NZ,29,,
-7831AW,Noordveenkanaal NZ,19,,
-7831AW,Noordveenkanaal NZ,23,,
-7831AX,Noordveenkanaal NZ,38,,
-7831AX,Noordveenkanaal NZ,43,,
-7831AS,Noordveenkanaal ZZ,5,,
-7831AT,Noordveenkanaal ZZ,32,,
-7831GW,Paardeweide,42,,
-7831GD,Tramwijk NZ,38,,
-7831GD,Tramwijk NZ,40,,
-7831GR,Tramwijk ZZ,150,,
-7831GR,Tramwijk ZZ,160,,
-7831GS,Tramwijk ZZ,172,,
-7831GS,Tramwijk ZZ,169,,
-7831TW,Vledderdiep,7,,
-7831TW,Vledderdiep,17,,
-7831TW,Vledderdiep,27,,
-7831TX,Vledderdiep,55,,
-7831TZ,Vledderdiep,2,,
-7831TZ,Vledderdiep,50,A,
-7831HB,Weerdingerkanaal NZ,13,,
-7831HB,Weerdingerkanaal NZ,15,,
-7831HC,Weerdingerkanaal NZ,30,,
-7831HD,Weerdingerkanaal NZ,53,,
-7831HD,Weerdingerkanaal NZ,60,,
-7831HD,Weerdingerkanaal NZ,64,,
-7831HD,Weerdingerkanaal NZ,55,,
-7831HD,Weerdingerkanaal NZ,52,A,
-7831AA,Weerdingerkanaal ZZ,10,,
-7831AA,Weerdingerkanaal ZZ,13,,
-7831AA,Weerdingerkanaal ZZ,3,,
-7831AB,Weerdingerkanaal ZZ,21,,
-7831AB,Weerdingerkanaal ZZ,37,,
-7831AB,Weerdingerkanaal ZZ,36,,
-7831AB,Weerdingerkanaal ZZ,33,,
-7831AV,Noordveenkanaal NZ,5,,
-7831AV,Noordveenkanaal NZ,9,,
-7831AV,Noordveenkanaal NZ,11,,
-7831AW,Noordveenkanaal NZ,26,,
-7831AW,Noordveenkanaal NZ,17,,
-7831AX,Noordveenkanaal NZ,32,,
-7831AS,Noordveenkanaal ZZ,4,,
-7831AS,Noordveenkanaal ZZ,20,,
-7831AS,Noordveenkanaal ZZ,1,B,
-7831AT,Noordveenkanaal ZZ,23,,
-7831AT,Noordveenkanaal ZZ,36,,
-7831AZ,Oude Weerdingerdijk,25,,
-7831GT,Oudedijk,34,,
-7831GD,Tramwijk NZ,44,,
-7831GD,Tramwijk NZ,44,,
-7831GE,Tramwijk NZ,49,,
-7831GR,Tramwijk ZZ,154,,
-7831GS,Tramwijk ZZ,167,,
-7831TW,Vledderdiep,19,,
-7831TW,Vledderdiep,23,,
-7831TW,Vledderdiep,35,,
-7831TX,Vledderdiep,65,,
-7831TZ,Vledderdiep,22,,
-7831TZ,Vledderdiep,28,,
-7831TZ,Vledderdiep,46,,
-7831TZ,Vledderdiep,64,,
-7831TZ,Vledderdiep,56,,
-7831TZ,Vledderdiep,60,,
-7831HA,Weerdingerkanaal NZ,7,A,
-7831HB,Weerdingerkanaal NZ,22,,
-7831HB,Weerdingerkanaal NZ,22,,
-7831HC,Weerdingerkanaal NZ,27,,
-7831HC,Weerdingerkanaal NZ,31,,
-7831HC,Weerdingerkanaal NZ,33,,
-7831HD,Weerdingerkanaal NZ,48,,
-7831AA,Weerdingerkanaal ZZ,5,,
-7831AA,Weerdingerkanaal ZZ,6,,
-7831AA,Weerdingerkanaal ZZ,11,,
-7831AB,Weerdingerkanaal ZZ,31,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AX,Langhietsveen,1,,
-7831AV,Noordveenkanaal NZ,14,,
-7831AV,Noordveenkanaal NZ,1,,
-7831AV,Noordveenkanaal NZ,4,,
-7831AV,Noordveenkanaal NZ,8,,
-7831AV,Noordveenkanaal NZ,14,,
-7831AV,Noordveenkanaal NZ,14,,
-7831AV,Noordveenkanaal NZ,1,,
-7831AV,Noordveenkanaal NZ,9,,
-7831AV,Noordveenkanaal NZ,9,,
-7831AV,Noordveenkanaal NZ,1,,
-7831AV,Noordveenkanaal NZ,1,,
-7831AW,Noordveenkanaal NZ,25,,
-7831AW,Noordveenkanaal NZ,27,,
-7831AW,Noordveenkanaal NZ,20,,
-7831AW,Noordveenkanaal NZ,20,,
-7831AW,Noordveenkanaal NZ,21,,
-7831AW,Noordveenkanaal NZ,21,,
-7831AW,Noordveenkanaal NZ,16,,
-7831AW,Noordveenkanaal NZ,16,,
-7831AW,Noordveenkanaal NZ,16,,
-7831AX,Noordveenkanaal NZ,34,,
-7831AX,Noordveenkanaal NZ,39,,
-7831AX,Noordveenkanaal NZ,33,,
-7831AX,Noordveenkanaal NZ,44,,
-7831AS,Noordveenkanaal ZZ,7,,
-7831AS,Noordveenkanaal ZZ,1,,
-7831AS,Noordveenkanaal ZZ,1,,
-7831AS,Noordveenkanaal ZZ,2,A,
-7831AS,Noordveenkanaal ZZ,2,A,
-7831AS,Noordveenkanaal ZZ,3,,
-7831AS,Noordveenkanaal ZZ,3,,
-7831AS,Noordveenkanaal ZZ,3,,
-7831AT,Noordveenkanaal ZZ,30,,
-7831AT,Noordveenkanaal ZZ,33,,
-7831AT,Noordveenkanaal ZZ,41,,
-7831AT,Noordveenkanaal ZZ,41,,
-7831AT,Noordveenkanaal ZZ,25,,
-7831AT,Noordveenkanaal ZZ,25,,
-7831AZ,Oude Weerdingerdijk,37,,
-7831AZ,Oude Weerdingerdijk,41,,
-7831GT,Oudedijk,44,,
-7831GT,Oudedijk,54,,
-7831GD,Tramwijk NZ,45,,
-7831GD,Tramwijk NZ,46,,
-7831GD,Tramwijk NZ,35,,
-7831GD,Tramwijk NZ,35,,
-7831GE,Tramwijk NZ,52,,
-7831GE,Tramwijk NZ,53,,
-7831GE,Tramwijk NZ,50,,
-7831GE,Tramwijk NZ,50,,
-7831GE,Tramwijk NZ,53,,
-7831GE,Tramwijk NZ,53,,
-7831GE,Tramwijk NZ,52,,
-7831GE,Tramwijk NZ,52,,
-7831GR,Tramwijk ZZ,148,,
-7831GR,Tramwijk ZZ,151,,
-7831GR,Tramwijk ZZ,151,,
-7831GR,Tramwijk ZZ,151,,
-7831GR,Tramwijk ZZ,151,,
-7831GR,Tramwijk ZZ,162,,
-7831GR,Tramwijk ZZ,162,,
-7831GS,Tramwijk ZZ,166,,
-7831GS,Tramwijk ZZ,166,I,
-7831GS,Tramwijk ZZ,166,A,
-7831GS,Tramwijk ZZ,7985,,
-7831TW,Vledderdiep,1,,
-7831TW,Vledderdiep,5,,
-7831TW,Vledderdiep,25,,
-7831TW,Vledderdiep,13,,
-7831TW,Vledderdiep,15,,
-7831TW,Vledderdiep,15,,
-7831TW,Vledderdiep,31,,
-7831TW,Vledderdiep,31,,
-7831TX,Vledderdiep,69,,
-7831TX,Vledderdiep,87,,
-7831TX,Vledderdiep,85,,
-7831TX,Vledderdiep,47,,
-7831TX,Vledderdiep,43,,
-7831TX,Vledderdiep,43,,
-7831TZ,Vledderdiep,20,,
-7831TZ,Vledderdiep,12,,
-7831TZ,Vledderdiep,62,,
-7831TZ,Vledderdiep,34,,
-7831TZ,Vledderdiep,34,,
-7831TZ,Vledderdiep,52,,
-7831TZ,Vledderdiep,52,,
-7831AB,Weerdingerkanaal,28,,
-7831AB,Weerdingerkanaal NZ,24,,
-7831HA,Weerdingerkanaal NZ,1,,
-7831HB,Weerdingerkanaal NZ,24,,
-7831HB,Weerdingerkanaal NZ,12,,
-7831HB,Weerdingerkanaal NZ,24,,
-7831HB,Weerdingerkanaal NZ,24,,
-7831HB,Weerdingerkanaal NZ,20,,
-7831HB,Weerdingerkanaal NZ,20,,
-7831HB,Weerdingerkanaal NZ,14,,
-7831HB,Weerdingerkanaal NZ,14,,
-7831HB,Weerdingerkanaal NZ,12,,
-7831HB,Weerdingerkanaal NZ,12,,
-7831HC,Weerdingerkanaal NZ,36,,
-7831HC,Weerdingerkanaal NZ,43,,
-7831HC,Weerdingerkanaal NZ,43,,
-7831HC,Weerdingerkanaal NZ,45,,
-7831HC,Weerdingerkanaal NZ,45,,
-7831HC,Weerdingerkanaal NZ,43,,
-7831HC,Weerdingerkanaal NZ,43,,
-7831HC,Weerdingerkanaal NZ,42,,
-7831HC,Weerdingerkanaal NZ,42,,
-7831HC,Weerdingerkanaal NZ,32,,
-7831HC,Weerdingerkanaal NZ,32,,
-7831HC,Weerdingerkanaal NZ,32,,
-7831HC,Weerdingerkanaal NZ,34,,
-7831HC,Weerdingerkanaal NZ,34,,
-7831HC,Weerdingerkanaal NZ,35,,
-7831HC,Weerdingerkanaal NZ,35,,
-7831HC,Weerdingerkanaal NZ,29,,
-7831HC,Weerdingerkanaal NZ,29,,
-7831HD,Weerdingerkanaal NZ,47,B,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,56,,
-7831HD,Weerdingerkanaal NZ,64,,
-7831HD,Weerdingerkanaal NZ,48,,
-7831HD,Weerdingerkanaal NZ,48,,
-7831HD,Weerdingerkanaal NZ,52,A,
-7831HD,Weerdingerkanaal NZ,52,A,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831AA,Weerdingerkanaal ZZ,17,,
-7831AA,Weerdingerkanaal ZZ,17,,
-7831AA,Weerdingerkanaal ZZ,18,,
-7831AA,Weerdingerkanaal ZZ,18,,
-7831AB,Weerdingerkanaal ZZ,28,,
-7831AB,Weerdingerkanaal ZZ,28,C,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,36,,
-7831AB,Weerdingerkanaal ZZ,36,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AB,Weerdingerkanaal ZZ,28,,
-7831AB,Weerdingerkanaal ZZ,28,,
-7831AS,Noordveenkanaal ZZ,1,A,
-7831AT,Noordveenkanaal ZZ,32,,TR
-7831AT,Noordveenkanaal ZZ,32,,TR
-7831AT,Noordveenkanaal ZZ,32,,TR
-7831GD,Tramwijk NZ,34,,
-7831GD,Tramwijk NZ,34,,
-7831GD,Tramwijk NZ,45,A,
-7831AA,Weerdingerkanaal ZZ,1,A,
-7831AA,Weerdingerkanaal ZZ,1,B,
-7831AA,Weerdingerkanaal ZZ,1,C,
-7831AA,Weerdingerkanaal ZZ,1,D,
-7831AB,Weerdingerkanaal ZZ,35,,
-7831AB,Weerdingerkanaal ZZ,35,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Weerdingerkanaal ZZ,1,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,1,A,"",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,1,A,"",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,1,B,"",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,1,C,"",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,1,D,"",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,10,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,11,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,12,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,13,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,14,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,15,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,16,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,17,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,17,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,18,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,18,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,2,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,20,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,3,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,3,A,"",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,4,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,5,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,6,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,9,"","",7831AA,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,21,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,23,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,25,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,A,"",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,B,"",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,C,"",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,30,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,31,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,33,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,34,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,37,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,38,"","",7831AB,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,A,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,A,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,1,B,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,12,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,2,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,2,A,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,2,A,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,2,A,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,2,A,"",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,20,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,21,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,3,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,3,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,3,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,3,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,3,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,4,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,5,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,6,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,7,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,9,"","",7831AS,Nieuw-Weerdinge
+Noordveenkanaal ZZ,22,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,23,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,25,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,25,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,25,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,25,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,27,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,29,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,30,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,32,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,32,"",TR,7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,32,"",TR,7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,32,"",TR,7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,33,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,35,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,36,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,41,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,41,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,41,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal ZZ,41,"","",7831AT,Nieuw-Weerdinge
+Noordveenkanaal NZ,1,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,1,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,1,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,1,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,1,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,11,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,13,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,14,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,14,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,14,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,14,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,2,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,3,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,4,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,5,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,6,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,7,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,8,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,9,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,9,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,9,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,9,"","",7831AV,Nieuw-Weerdinge
+Noordveenkanaal NZ,16,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,16,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,16,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,16,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,16,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,17,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,19,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,20,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,20,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,20,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,20,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,21,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,21,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,21,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,21,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,23,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,24,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,25,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,26,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,27,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,28,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,28,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,28,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,29,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,30,"","",7831AW,Nieuw-Weerdinge
+Noordveenkanaal NZ,31,"","",7831AW,Nieuw-Weerdinge
+Langhietsveen,1,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,32,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,33,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,34,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,35,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,36,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,38,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,39,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,40,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,41,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,42,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,43,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,44,"","",7831AX,Nieuw-Weerdinge
+Noordveenkanaal NZ,45,"","",7831AX,Nieuw-Weerdinge
+Oude Weerdingerdijk,25,"","",7831AZ,Nieuw-Weerdinge
+Oude Weerdingerdijk,37,"","",7831AZ,Nieuw-Weerdinge
+Oude Weerdingerdijk,39,"","",7831AZ,Nieuw-Weerdinge
+Oude Weerdingerdijk,41,"","",7831AZ,Nieuw-Weerdinge
+Oude Weerdingerdijk,43,"","",7831AZ,Nieuw-Weerdinge
+Oude Weerdingerdijk,45,"","",7831AZ,Nieuw-Weerdinge
+Derde Kruisdiep WZ,1,A,"",7831GB,Nieuw-Weerdinge
+Derde Kruisdiep WZ,25,"","",7831GB,Nieuw-Weerdinge
+Tramwijk NZ,34,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,34,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,34,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,34,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,35,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,35,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,35,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,35,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,37,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,38,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,39,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,40,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,41,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,43,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,44,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,44,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,45,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,45,A,"",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,46,"","",7831GD,Nieuw-Weerdinge
+Tramwijk NZ,47,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,48,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,49,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,50,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,50,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,50,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,50,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,51,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,52,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,52,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,52,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,52,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,53,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,53,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,53,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,53,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,53,"","",7831GE,Nieuw-Weerdinge
+Tramwijk NZ,53,"","",7831GE,Nieuw-Weerdinge
+Tramwijk ZZ,148,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,150,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,151,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,151,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,151,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,151,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,152,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,152,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,152,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,153,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,154,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,155,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,156,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,157,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,157,A,"",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,158,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,159,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,160,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,161,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,162,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,162,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,162,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,162,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,163,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,164,"","",7831GR,Nieuw-Weerdinge
+Tramwijk ZZ,166,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,166,A,"",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,166,I,"",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,167,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,168,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,169,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,171,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,172,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,173,"","",7831GS,Nieuw-Weerdinge
+Tramwijk ZZ,7985,"","",7831GS,Nieuw-Weerdinge
+Oudedijk,34,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,36,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,44,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,54,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,60,"","",7831GT,Nieuw-Weerdinge
+Oudedijk,60,"","",7831GT,Nieuw-Weerdinge
+Paardeweide,38,"","",7831GW,Nieuw-Weerdinge
+Paardeweide,38,"","",7831GW,Nieuw-Weerdinge
+Paardeweide,40,"","",7831GW,Nieuw-Weerdinge
+Paardeweide,40,"","",7831GW,Nieuw-Weerdinge
+Paardeweide,42,"","",7831GW,Nieuw-Weerdinge
+Weerdingerkanaal NZ,1,"","",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,3,"","",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,4,"","",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,5,"","",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,6,"","",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,7,"","",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,7,A,"",7831HA,Nieuw-Weerdinge
+Weerdingerkanaal NZ,10,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,11,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,12,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,12,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,12,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,12,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,13,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,14,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,14,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,14,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,14,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,15,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,16,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,17,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,18,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,19,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,20,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,20,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,20,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,20,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,22,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,22,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,23,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,24,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,24,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,24,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,24,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,8,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,9,"","",7831HB,Nieuw-Weerdinge
+Weerdingerkanaal NZ,25,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,26,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,27,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,28,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,29,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,29,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,29,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,29,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,30,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,31,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,32,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,32,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,32,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,32,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,32,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,33,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,34,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,34,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,34,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,34,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,35,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,35,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,35,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,35,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,36,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,39,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,40,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,41,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,42,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,42,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,42,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,42,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,42,A,"",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,42,B,"",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,43,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,43,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,43,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,43,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,43,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,44,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,44,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,44,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,45,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,45,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,45,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,45,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,45,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,46,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,46,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,46,"","",7831HC,Nieuw-Weerdinge
+Weerdingerkanaal NZ,47,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,47,B,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,49,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,50,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,53,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,55,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,56,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,56,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,56,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,58,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,59,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,60,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,60,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,60,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,62,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,63,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HD,Nieuw-Weerdinge
+Vledderdiep,1,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,11,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,13,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,13,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,13,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,15,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,15,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,15,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,15,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,17,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,19,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,21,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,23,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,25,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,27,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,29,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,3,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,31,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,31,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,31,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,31,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,33,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,35,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,5,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,7,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,9,"","",7831TW,Nieuw-Weerdinge
+Vledderdiep,37,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,39,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,41,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,43,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,47,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,49,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,51,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,53,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,55,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,57,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,65,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,67,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,69,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,85,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,87,"","",7831TX,Nieuw-Weerdinge
+Vledderdiep,12,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,14,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,16,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,18,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,2,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,20,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,22,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,24,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,26,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,28,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,32,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,34,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,34,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,34,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,34,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,36,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,4,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,42,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,44,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,46,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,48,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,50,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,50,A,"",7831TZ,Nieuw-Weerdinge
+Vledderdiep,52,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,52,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,52,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,52,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,54,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,56,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,58,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,60,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,62,"","",7831TZ,Nieuw-Weerdinge
+Vledderdiep,64,"","",7831TZ,Nieuw-Weerdinge

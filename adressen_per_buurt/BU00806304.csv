@@ -1,47 +1,47 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9053LM",2,"",""
-"9053LM",1,"",""
-"9053LN",1,"",""
-"9053LN",2,"",""
-"9053LN",1,"",""
-"9053LN",3,"",""
-"9053LN",1,"",""
-"9053LP",4,"",""
-"9053LP",2,"",""
-"9053LR",2,"",""
-"9053LR",12,"",""
-"9053LR",12,"",""
-"9053LR",12,"",""
-"9053LR",1,"",""
-"9053LR",8,"",""
-"9053LR",10,"",""
-"9053LS",16,"",""
-"9053LS",14,"",""
-"9053LS",3,"",""
-"9053LS",12,"",""
-"9053LS",2,"",""
-"9053LS",1,"",""
-"9053LS",6,"",""
-"9053LS",10,"",""
-9053LN,Poelhúzen,1,,
-9053LN,Poelhúzen,3,,
-9053LP,Brédyk,4,,
-9053LP,Brédyk,2,,
-9053LR,Hege Hearewei,12,,
-9053LR,Hege Hearewei,10,,
-9053LR,Hege Hearewei,8,,
-9053LR,Hege Hearewei,2,,
-9053LR,Hege Hearewei,1,,
-9053LR,Hege Hearewei,12,,
-9053LS,Iestdyk,16,,
-9053LS,Iestdyk,14,,
-9053LS,Iestdyk,12,,
-9053LS,Iestdyk,10,,
-9053LS,Iestdyk,6,,
-9053LS,Iestdyk,3,,
-9053LS,Iestdyk,2,,
-9053LS,Iestdyk,1,,
-9053LM,Poeldyk,2,,
-9053LM,Poeldyk,1,,
-9053LN,Poelhúzen,2,,
-9053LN,Poelhúzen,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Poeldyk,1,"","",9053LM,Feinsum
+Poeldyk,2,"","",9053LM,Feinsum
+"",POELDYK,1,"",9053LM,
+"",POELDYK,2,"",9053LM,
+Poelhúzen,1,"","",9053LN,Feinsum
+Poelhúzen,1,"","",9053LN,Feinsum
+Poelhúzen,1,"","",9053LN,Feinsum
+Poelhúzen,2,"","",9053LN,Feinsum
+Poelhúzen,3,"","",9053LN,Feinsum
+"",POELHÚZEN,1,"",9053LN,
+"",POELHÚZEN,1,"",9053LN,
+"",POELHÚZEN,2,"",9053LN,
+"",POELHÚZEN,3,"",9053LN,
+Brédyk,2,"","",9053LP,Feinsum
+Brédyk,4,"","",9053LP,Feinsum
+"",BRÉDYK,2,"",9053LP,
+"",BRÉDYK,4,"",9053LP,
+Hege Hearewei,1,"","",9053LR,Feinsum
+Hege Hearewei,10,"","",9053LR,Feinsum
+Hege Hearewei,12,"","",9053LR,Feinsum
+Hege Hearewei,12,"","",9053LR,Feinsum
+Hege Hearewei,12,"","",9053LR,Feinsum
+Hege Hearewei,2,"","",9053LR,Feinsum
+Hege Hearewei,8,"","",9053LR,Feinsum
+"",HEGE HEAREWEI,1,"",9053LR,
+"",HEGE HEAREWEI,10,"",9053LR,
+"",HEGE HEAREWEI,12,"",9053LR,
+"",HEGE HEAREWEI,12,"",9053LR,
+"",HEGE HEAREWEI,2,"",9053LR,
+"",HEGE HEAREWEI,8,"",9053LR,
+Iestdyk,1,"","",9053LS,Feinsum
+Iestdyk,10,"","",9053LS,Feinsum
+Iestdyk,12,"","",9053LS,Feinsum
+Iestdyk,14,"","",9053LS,Feinsum
+Iestdyk,16,"","",9053LS,Feinsum
+Iestdyk,2,"","",9053LS,Feinsum
+Iestdyk,3,"","",9053LS,Feinsum
+Iestdyk,6,"","",9053LS,Feinsum
+"",IESTDYK,1,"",9053LS,
+"",IESTDYK,10,"",9053LS,
+"",IESTDYK,12,"",9053LS,
+"",IESTDYK,14,"",9053LS,
+"",IESTDYK,16,"",9053LS,
+"",IESTDYK,2,"",9053LS,
+"",IESTDYK,3,"",9053LS,
+"",IESTDYK,6,"",9053LS,

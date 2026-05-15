@@ -1,90 +1,90 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4251LB,Weerenweg,2,,
-4251LB,Weerenweg,3,,
-4251LB,Weerenweg,4,,
-4251NV,Grote Waardweg,1,,
-4251NV,Grote Waardweg,10,,
-4251NV,Grote Waardweg,2,,
-4251NV,Grote Waardweg,3,,
-4251NV,Grote Waardweg,5,,
-4251NV,Grote Waardweg,7,,
-4251NV,Grote Waardweg,8,,
-4251PT,Schans,1,,
-4251PT,Schans,10,,
-4251PT,Schans,11,,
-4251PT,Schans,12,,
-4251PT,Schans,13,,
-4251PT,Schans,14,a,
-4251PT,Schans,1,a,
-4251PT,Schans,1,b,
-4251PT,Schans,1,c,
-4251PT,Schans,2,,
-4251PT,Schans,4,,
-4251PT,Schans,4,a,
-4251PT,Schans,4,b,
-4251PT,Schans,5,,
-4251PT,Schans,5,a,
-4251PT,Schans,5,b,
-4251PT,Schans,6,,
-4251PT,Schans,6,a,
-4251PT,Schans,7,,
-4251PT,Schans,7,a,
-4251PT,Schans,8,,
-4251PT,Schans,9,,
-4251PV,Schans,15,,
-4251PV,Schans,16,,
-4251PV,Schans,17,a,
-4251PV,Schans,18,,
-4251PV,Schans,19,,
-4251PV,Schans,19,a,
-4251PV,Schans,20,,
-4251PV,Schans,21,,
-4251PV,Schans,22,,
-4251PV,Schans,22,a,
-4251PV,Schans,23,,
-4251PW,Schans,24,,
-4251PW,Schans,24,a,
-4251PW,Schans,25,,
-4251PW,Schans,26,,
-4251PW,Schans,26,a,
-4251PW,Schans,27,,
-4251PW,Schans,27,a,
-4251PW,Schans,29,,
-4251PW,Schans,30,,
-4251PW,Schans,31,,
-4251PW,Schans,32,,
-4251PW,Schans,33,,
-4251PW,Schans,34,,
-4251PW,Schans,35,,
-4251PW,Schans,36,,
-4251PW,Schans,37,,
-4251PW,Schans,38,,
-4251PW,Schans,40,,
-4251PW,Schans,41,,
-4251PW,Schans,41,a,
-4251PW,Schans,41,b,
-4251PW,Schans,41,c,
-4251PW,Schans,42,,
-4251PW,Schans,43,,
-4251PX,Tol,11,,
-4251PX,Tol,12,,
-4251PX,Tol,14,,
-4251PX,Tol,14,a,
-4251PX,Tol,8,,
-4251PZ,Gantelweg,18,,
-4251PW,Schans,37,a,
-4251PW,Schans,44,,
-4251PW,Schans,26,a,
-4251PW,Schans,26,,
-4251NV,Grote Waardweg,1,,
-4251NV,Grote Waardweg,1,a,
-4251PT,Schans,7,b,
-4251PT,Schans,7,a,
-4251PT,Schans,3,A,1
-4251PT,Schans,3,a,
-4251PT,Schans,3,b,
-4251PW,Schans,37,a,
-4251PW,Schans,33,,
-4251PW,Schans,29,a,
-4251PW,Schans,27,a,
-4251PW,Schans,41,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Weerenweg,2,"","",4251LB,Werkendam
+Weerenweg,3,"","",4251LB,Werkendam
+Weerenweg,4,"","",4251LB,Werkendam
+Grote Waardweg,1,"","",4251NV,Werkendam
+Grote Waardweg,1,"","",4251NV,Werkendam
+Grote Waardweg,1,A,"",4251NV,Werkendam
+Grote Waardweg,10,"","",4251NV,Werkendam
+Grote Waardweg,2,"","",4251NV,Werkendam
+Grote Waardweg,3,"","",4251NV,Werkendam
+Grote Waardweg,5,"","",4251NV,Werkendam
+Grote Waardweg,7,"","",4251NV,Werkendam
+Grote Waardweg,8,"","",4251NV,Werkendam
+Schans,1,"","",4251PT,Werkendam
+Schans,1,A,"",4251PT,Werkendam
+Schans,1,B,"",4251PT,Werkendam
+Schans,1,C,"",4251PT,Werkendam
+Schans,10,"","",4251PT,Werkendam
+Schans,11,"","",4251PT,Werkendam
+Schans,12,"","",4251PT,Werkendam
+Schans,13,"","",4251PT,Werkendam
+Schans,14,A,"",4251PT,Werkendam
+Schans,2,"","",4251PT,Werkendam
+Schans,3,A,"",4251PT,Werkendam
+Schans,3,A,1,4251PT,Werkendam
+Schans,3,B,"",4251PT,Werkendam
+Schans,4,"","",4251PT,Werkendam
+Schans,4,A,"",4251PT,Werkendam
+Schans,4,B,"",4251PT,Werkendam
+Schans,5,"","",4251PT,Werkendam
+Schans,5,A,"",4251PT,Werkendam
+Schans,5,B,"",4251PT,Werkendam
+Schans,6,"","",4251PT,Werkendam
+Schans,6,A,"",4251PT,Werkendam
+Schans,7,"","",4251PT,Werkendam
+Schans,7,A,"",4251PT,Werkendam
+Schans,7,A,"",4251PT,Werkendam
+Schans,7,B,"",4251PT,Werkendam
+Schans,8,"","",4251PT,Werkendam
+Schans,9,"","",4251PT,Werkendam
+Schans,15,"","",4251PV,Werkendam
+Schans,16,"","",4251PV,Werkendam
+Schans,17,A,"",4251PV,Werkendam
+Schans,18,"","",4251PV,Werkendam
+Schans,19,"","",4251PV,Werkendam
+Schans,19,A,"",4251PV,Werkendam
+Schans,20,"","",4251PV,Werkendam
+Schans,21,"","",4251PV,Werkendam
+Schans,22,"","",4251PV,Werkendam
+Schans,22,A,"",4251PV,Werkendam
+Schans,23,"","",4251PV,Werkendam
+Schans,24,"","",4251PW,Werkendam
+Schans,24,A,"",4251PW,Werkendam
+Schans,25,"","",4251PW,Werkendam
+Schans,26,"","",4251PW,Werkendam
+Schans,26,"","",4251PW,Werkendam
+Schans,26,A,"",4251PW,Werkendam
+Schans,26,A,"",4251PW,Werkendam
+Schans,27,"","",4251PW,Werkendam
+Schans,27,A,"",4251PW,Werkendam
+Schans,27,A,"",4251PW,Werkendam
+Schans,29,"","",4251PW,Werkendam
+Schans,29,A,"",4251PW,Werkendam
+Schans,30,"","",4251PW,Werkendam
+Schans,31,"","",4251PW,Werkendam
+Schans,32,"","",4251PW,Werkendam
+Schans,33,"","",4251PW,Werkendam
+Schans,33,"","",4251PW,Werkendam
+Schans,34,"","",4251PW,Werkendam
+Schans,35,"","",4251PW,Werkendam
+Schans,36,"","",4251PW,Werkendam
+Schans,37,"","",4251PW,Werkendam
+Schans,37,A,"",4251PW,Werkendam
+Schans,37,A,"",4251PW,Werkendam
+Schans,38,"","",4251PW,Werkendam
+Schans,40,"","",4251PW,Werkendam
+Schans,41,"","",4251PW,Werkendam
+Schans,41,"","",4251PW,Werkendam
+Schans,41,A,"",4251PW,Werkendam
+Schans,41,B,"",4251PW,Werkendam
+Schans,41,C,"",4251PW,Werkendam
+Schans,42,"","",4251PW,Werkendam
+Schans,43,"","",4251PW,Werkendam
+Schans,44,"","",4251PW,Werkendam
+Tol,11,"","",4251PX,Werkendam
+Tol,12,"","",4251PX,Werkendam
+Tol,14,"","",4251PX,Werkendam
+Tol,14,A,"",4251PX,Werkendam
+Tol,8,"","",4251PX,Werkendam
+Gantelweg,18,"","",4251PZ,Werkendam

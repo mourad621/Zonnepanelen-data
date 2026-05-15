@@ -1,824 +1,413 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9753HP",37,"",""
-"9753HP",31,"",""
-"9753HP",35,"",""
-"9753HP",53,"",""
-"9753HP",33,"",""
-"9753HP",1,"",""
-"9753HP",57,"",""
-"9753HP",29,"",""
-"9753HP",47,"",""
-"9753HP",55,"",""
-"9753HP",45,"",""
-"9753HP",27,"",""
-"9753HP",43,"",""
-"9753HP",13,"a",""
-"9753HP",25,"",""
-"9753HP",17,"",""
-"9753HP",49,"",""
-"9753HP",13,"A",""
-"9753HP",51,"",""
-"9753HP",41,"",""
-"9753HP",13,"B",""
-"9753HP",15,"",""
-"9753HP",13,"",""
-"9753HP",23,"",""
-"9753HP",39,"",""
-"9753HP",11,"",""
-"9753HP",3,"",""
-"9753HP",13,"b",""
-"9753HP",21,"",""
-"9753HP",5,"",""
-"9753HP",65,"",""
-"9753HP",59,"",""
-"9753HP",19,"",""
-"9753HP",7,"",""
-"9753HP",61,"",""
-"9753HP",9,"",""
-"9753HP",19,"a",""
-"9753HP",63,"",""
-"9753HP",19,"A",""
-"9753HV",7,"",""
-"9753HV",5,"",""
-"9753HV",6,"",""
-"9753HV",23,"",""
-"9753HV",11,"",""
-"9753HV",9,"",""
-"9753HV",29,"",""
-"9753HV",21,"",""
-"9753HV",27,"",""
-"9753HV",8,"",""
-"9753HV",31,"",""
-"9753HV",4,"",""
-"9753HV",19,"",""
-"9753HV",13,"",""
-"9753HV",17,"",""
-"9753HV",15,"",""
-"9753HV",2,"",""
-"9753HV",25,"",""
-"9753HV",3,"",""
-"9753HV",1,"",""
-"9753HW",3,"",""
-"9753HW",1,"",""
-"9753HW",4,"",""
-"9753HW",2,"",""
-"9753HX",7,"",""
-"9753HX",19,"",""
-"9753HX",9,"",""
-"9753HX",6,"",""
-"9753HX",17,"",""
-"9753HX",12,"",""
-"9753HX",4,"",""
-"9753HX",1,"",""
-"9753HX",5,"",""
-"9753HX",2,"",""
-"9753HX",10,"",""
-"9753HX",15,"",""
-"9753HX",8,"",""
-"9753HX",11,"",""
-"9753HX",13,"",""
-"9753HX",3,"",""
-"9753HZ",2,"",""
-"9753HZ",12,"",""
-"9753HZ",10,"",""
-"9753HZ",8,"",""
-"9753HZ",6,"",""
-"9753HZ",4,"",""
-"9753JA",1,"C",""
-"9753JA",1,"E",""
-"9753JA",1,"G",""
-"9753JA",1,"D",""
-"9753JA",1,"d",""
-"9753JA",1,"A",""
-"9753JA",1,"a",""
-"9753JA",1,"F",""
-"9753JA",7,"",""
-"9753JA",1,"B",""
-"9753JA",1,"",""
-"9753JA",3,"",""
-"9753JA",9,"",""
-"9753JA",1,"g",""
-"9753JA",5,"",""
-"9753JA",1,"b",""
-"9753JA",1,"e",""
-"9753JA",1,"c",""
-"9753JA",1,"f",""
-"9753JB",41,"",""
-"9753JB",15,"",""
-"9753JB",33,"",""
-"9753JB",37,"",""
-"9753JB",39,"",""
-"9753JB",17,"",""
-"9753JB",25,"",""
-"9753JB",29,"",""
-"9753JB",19,"",""
-"9753JB",27,"",""
-"9753JB",31,"",""
-"9753JB",35,"",""
-"9753JB",13,"",""
-"9753JB",11,"",""
-"9753JB",23,"",""
-"9753JB",21,"",""
-"9753JC",59,"",""
-"9753JC",49,"",""
-"9753JC",51,"",""
-"9753JC",61,"",""
-"9753JC",57,"",""
-"9753JC",63,"",""
-"9753JC",53,"",""
-"9753JC",65,"",""
-"9753JC",47,"",""
-"9753JC",55,"",""
-"9753JD",22,"",""
-"9753JD",32,"",""
-"9753JD",14,"",""
-"9753JD",10,"",""
-"9753JD",12,"",""
-"9753JD",18,"",""
-"9753JD",36,"",""
-"9753JD",38,"",""
-"9753JD",34,"",""
-"9753JD",8,"",""
-"9753JD",28,"",""
-"9753JD",30,"",""
-"9753JD",6,"",""
-"9753JD",16,"",""
-"9753JD",4,"",""
-"9753JD",26,"",""
-"9753JD",2,"",""
-"9753JD",20,"",""
-"9753JD",24,"",""
-"9753JE",11,"",""
-"9753JE",7,"",""
-"9753JE",23,"",""
-"9753JE",21,"",""
-"9753JE",13,"",""
-"9753JE",15,"",""
-"9753JE",9,"",""
-"9753JE",17,"",""
-"9753JE",19,"",""
-"9753JE",1,"",""
-"9753JE",3,"",""
-"9753JE",5,"",""
-"9753JG",33,"",""
-"9753JG",39,"",""
-"9753JG",41,"",""
-"9753JG",37,"",""
-"9753JG",35,"",""
-"9753JG",43,"",""
-"9753JG",29,"",""
-"9753JG",47,"",""
-"9753JG",45,"",""
-"9753JG",27,"",""
-"9753JG",31,"",""
-"9753JG",25,"",""
-"9753JH",20,"",""
-"9753JH",16,"",""
-"9753JH",12,"",""
-"9753JH",14,"",""
-"9753JH",6,"",""
-"9753JH",18,"",""
-"9753JH",32,"",""
-"9753JH",22,"",""
-"9753JH",2,"",""
-"9753JH",10,"",""
-"9753JH",8,"",""
-"9753JH",30,"",""
-"9753JH",26,"",""
-"9753JH",24,"",""
-"9753JH",28,"",""
-"9753JH",4,"",""
-"9753JJ",58,"",""
-"9753JJ",54,"",""
-"9753JJ",38,"",""
-"9753JJ",42,"",""
-"9753JJ",64,"",""
-"9753JJ",40,"",""
-"9753JJ",44,"",""
-"9753JJ",66,"",""
-"9753JJ",52,"",""
-"9753JJ",50,"",""
-"9753JJ",48,"",""
-"9753JJ",56,"",""
-"9753JJ",36,"",""
-"9753JJ",34,"",""
-"9753JJ",62,"",""
-"9753JJ",46,"",""
-"9753JJ",60,"",""
-"9753JK",10,"",""
-"9753JK",1,"",""
-"9753JK",11,"",""
-"9753JK",9,"",""
-"9753JK",7,"",""
-"9753JK",6,"",""
-"9753JK",3,"",""
-"9753JK",2,"",""
-"9753JK",4,"",""
-"9753JK",5,"",""
-"9753JK",8,"",""
-"9753JK",12,"",""
-"9753JL",11,"",""
-"9753JL",9,"",""
-"9753JL",14,"",""
-"9753JL",10,"",""
-"9753JL",4,"",""
-"9753JL",7,"",""
-"9753JL",5,"",""
-"9753JL",22,"",""
-"9753JL",2,"",""
-"9753JL",8,"",""
-"9753JL",6,"",""
-"9753JL",12,"",""
-"9753JL",20,"",""
-"9753JL",18,"",""
-"9753JL",16,"",""
-"9753JM",13,"",""
-"9753JM",15,"",""
-"9753JM",19,"",""
-"9753JM",29,"",""
-"9753JM",1,"",""
-"9753JM",9,"",""
-"9753JM",31,"",""
-"9753JM",5,"",""
-"9753JM",25,"",""
-"9753JM",35,"",""
-"9753JM",27,"",""
-"9753JM",33,"",""
-"9753JM",11,"",""
-"9753JM",3,"",""
-"9753JM",7,"",""
-"9753JM",17,"",""
-"9753JN",39,"",""
-"9753JN",43,"",""
-"9753JN",45,"",""
-"9753JN",59,"",""
-"9753JN",37,"",""
-"9753JN",55,"",""
-"9753JN",53,"",""
-"9753JN",49,"",""
-"9753JN",41,"",""
-"9753JN",61,"",""
-"9753JN",47,"",""
-"9753JN",51,"",""
-"9753JN",63,"",""
-"9753JN",57,"",""
-"9753JP",69,"",""
-"9753JP",71,"",""
-"9753JP",77,"",""
-"9753JP",79,"",""
-"9753JP",81,"",""
-"9753JP",65,"",""
-"9753JP",85,"",""
-"9753JP",83,"",""
-"9753JP",67,"",""
-"9753JP",75,"",""
-"9753JP",73,"",""
-"9753JP",87,"",""
-"9753JR",117,"",""
-"9753JR",119,"",""
-"9753JR",109,"",""
-"9753JR",115,"",""
-"9753JR",111,"",""
-"9753JR",113,"",""
-"9753JR",125,"",""
-"9753JR",121,"",""
-"9753JR",107,"",""
-"9753JR",123,"",""
-"9753JR",105,"",""
-"9753JR",127,"",""
-"9753JR",103,"",""
-"9753JR",89,"",""
-"9753JR",101,"",""
-"9753JS",10,"",""
-"9753JS",6,"",""
-"9753JS",8,"",""
-"9753JS",16,"",""
-"9753JS",12,"",""
-"9753JS",36,"",""
-"9753JS",2,"",""
-"9753JS",4,"",""
-"9753JS",14,"",""
-"9753JS",34,"",""
-"9753JS",20,"",""
-"9753JS",18,"",""
-"9753JT",42,"",""
-"9753JT",62,"",""
-"9753JT",44,"",""
-"9753JT",68,"",""
-"9753JT",50,"",""
-"9753JT",48,"",""
-"9753JT",52,"",""
-"9753JT",38,"",""
-"9753JT",66,"",""
-"9753JT",58,"",""
-"9753JT",54,"",""
-"9753JT",40,"",""
-"9753JT",56,"",""
-"9753JT",46,"",""
-"9753JT",64,"",""
-"9753JT",60,"",""
-"9753JV",70,"",""
-"9753JV",70,"",""
-"9753JV",88,"a",""
-"9753JV",88,"",""
-"9753JV",86,"",""
-"9753JV",70,"",""
-"9753JV",88,"A",""
-"9753JV",76,"",""
-"9753JV",72,"",""
-"9753JV",74,"",""
-"9753JW",98,"",""
-"9753JW",94,"",""
-"9753JW",96,"",""
-"9753JW",118,"",""
-"9753JW",116,"",""
-"9753JW",102,"",""
-"9753JW",100,"",""
-"9753JW",92,"",""
-"9753JW",120,"",""
-"9753JW",90,"",""
-"9753JW",104,"",""
-"9753JW",114,"",""
-"9753JZ",2,"",""
-"9753JZ",9,"",""
-"9753JZ",5,"",""
-"9753JZ",6,"",""
-"9753JZ",3,"",""
-"9753JZ",1,"",""
-"9753JZ",8,"A",""
-"9753JZ",4,"",""
-"9753JZ",8,"a",""
-"9753JZ",8,"",""
-"9753JZ",7,"",""
-"9753JZ",13,"",""
-"9753JZ",11,"",""
-"9753JZ",15,"",""
-"9753KA",4,"",""
-"9753KA",20,"",""
-"9753KA",22,"a",""
-"9753KA",22,"c",""
-"9753KA",16,"",""
-"9753KA",22,"B",""
-"9753KA",12,"",""
-"9753KA",22,"C",""
-"9753KA",22,"A",""
-"9753KA",10,"",""
-"9753KA",18,"",""
-"9753KA",6,"",""
-"9753KA",22,"",""
-"9753KA",14,"",""
-"9753KA",22,"b",""
-"9753KA",2,"",""
-"9753KA",8,"",""
-"9753KB",30,"","G04"
-"9753KB",50,"",""
-"9753KB",30,"","G01"
-"9753KB",24,"",""
-"9753KB",30,"","G03"
-"9753KB",34,"",""
-"9753KB",44,"",""
-"9753KB",40,"",""
-"9753KB",30,"","G05"
-"9753KB",26,"",""
-"9753KB",32,"",""
-"9753KB",28,"",""
-"9753KB",38,"",""
-"9753KB",48,"",""
-"9753KB",58,"",""
-"9753KB",30,"",""
-"9753KB",46,"",""
-"9753KB",30,"","G02"
-"9753KB",42,"",""
-"9753KB",36,"",""
-"9753KB",56,"",""
-"9753KB",52,"",""
-"9753KB",54,"",""
-"9753KC",90,"",""
-"9753KC",80,"",""
-"9753KC",70,"",""
-"9753KC",94,"",""
-"9753KC",82,"",""
-"9753KC",72,"",""
-"9753KC",92,"",""
-"9753KC",68,"",""
-"9753KC",64,"",""
-"9753KC",86,"",""
-"9753KC",78,"",""
-"9753KC",66,"",""
-"9753KC",84,"",""
-"9753KC",60,"",""
-"9753KC",74,"",""
-"9753KC",88,"",""
-"9753KC",62,"",""
-"9753KC",76,"",""
-9753JM,Blekenweg,1,,
-9753JM,Blekenweg,3,,
-9753JM,Blekenweg,5,,
-9753JM,Blekenweg,7,,
-9753JM,Blekenweg,9,,
-9753JM,Blekenweg,11,,
-9753JM,Blekenweg,13,,
-9753JM,Blekenweg,15,,
-9753JM,Blekenweg,17,,
-9753JM,Blekenweg,19,,
-9753JM,Blekenweg,25,,
-9753JM,Blekenweg,27,,
-9753JM,Blekenweg,29,,
-9753JM,Blekenweg,31,,
-9753JM,Blekenweg,33,,
-9753JM,Blekenweg,35,,
-9753JN,Blekenweg,37,,
-9753JN,Blekenweg,39,,
-9753JN,Blekenweg,41,,
-9753JN,Blekenweg,43,,
-9753JN,Blekenweg,45,,
-9753JN,Blekenweg,47,,
-9753JN,Blekenweg,49,,
-9753JN,Blekenweg,51,,
-9753JN,Blekenweg,53,,
-9753JN,Blekenweg,55,,
-9753JN,Blekenweg,57,,
-9753JN,Blekenweg,59,,
-9753JN,Blekenweg,61,,
-9753JN,Blekenweg,63,,
-9753JP,Blekenweg,65,,
-9753JP,Blekenweg,67,,
-9753JP,Blekenweg,69,,
-9753JP,Blekenweg,71,,
-9753JP,Blekenweg,73,,
-9753JP,Blekenweg,75,,
-9753JP,Blekenweg,77,,
-9753JP,Blekenweg,79,,
-9753JP,Blekenweg,81,,
-9753JP,Blekenweg,83,,
-9753JP,Blekenweg,85,,
-9753JP,Blekenweg,87,,
-9753JR,Blekenweg,89,,
-9753JR,Blekenweg,101,,
-9753JR,Blekenweg,103,,
-9753JR,Blekenweg,105,,
-9753JR,Blekenweg,107,,
-9753JR,Blekenweg,109,,
-9753JR,Blekenweg,111,,
-9753JR,Blekenweg,113,,
-9753JR,Blekenweg,115,,
-9753JR,Blekenweg,117,,
-9753JR,Blekenweg,119,,
-9753JR,Blekenweg,121,,
-9753JR,Blekenweg,123,,
-9753JR,Blekenweg,125,,
-9753JR,Blekenweg,127,,
-9753JS,Blekenweg,2,,
-9753JS,Blekenweg,4,,
-9753JS,Blekenweg,6,,
-9753JS,Blekenweg,8,,
-9753JS,Blekenweg,10,,
-9753JS,Blekenweg,12,,
-9753JS,Blekenweg,14,,
-9753JS,Blekenweg,16,,
-9753JS,Blekenweg,18,,
-9753JS,Blekenweg,20,,
-9753JS,Blekenweg,34,,
-9753JS,Blekenweg,36,,
-9753JT,Blekenweg,38,,
-9753JT,Blekenweg,40,,
-9753JT,Blekenweg,42,,
-9753JT,Blekenweg,44,,
-9753JT,Blekenweg,46,,
-9753JT,Blekenweg,48,,
-9753JT,Blekenweg,50,,
-9753JT,Blekenweg,52,,
-9753JT,Blekenweg,54,,
-9753JT,Blekenweg,56,,
-9753JT,Blekenweg,58,,
-9753JT,Blekenweg,60,,
-9753JT,Blekenweg,62,,
-9753JT,Blekenweg,64,,
-9753JT,Blekenweg,66,,
-9753JT,Blekenweg,68,,
-9753JV,Blekenweg,70,,
-9753JV,Blekenweg,72,,
-9753JV,Blekenweg,74,,
-9753JV,Blekenweg,76,,
-9753JV,Blekenweg,86,,
-9753JV,Blekenweg,88,,
-9753JV,Blekenweg,88,A,
-9753JV,Blekenweg,88,a,
-9753JW,Blekenweg,90,,
-9753JW,Blekenweg,92,,
-9753JW,Blekenweg,94,,
-9753JW,Blekenweg,96,,
-9753JW,Blekenweg,98,,
-9753JW,Blekenweg,100,,
-9753JW,Blekenweg,102,,
-9753JW,Blekenweg,104,,
-9753JW,Blekenweg,114,,
-9753JW,Blekenweg,116,,
-9753JW,Blekenweg,118,,
-9753JW,Blekenweg,120,,
-9753JK,Dotterhof,1,,
-9753JK,Dotterhof,2,,
-9753JK,Dotterhof,3,,
-9753JK,Dotterhof,4,,
-9753JK,Dotterhof,5,,
-9753JK,Dotterhof,6,,
-9753JK,Dotterhof,7,,
-9753JK,Dotterhof,8,,
-9753JK,Dotterhof,9,,
-9753JK,Dotterhof,10,,
-9753JK,Dotterhof,11,,
-9753JK,Dotterhof,12,,
-9753JZ,Gagelweg,1,,
-9753JZ,Gagelweg,2,,
-9753JZ,Gagelweg,3,,
-9753JZ,Gagelweg,4,,
-9753JZ,Gagelweg,5,,
-9753JZ,Gagelweg,6,,
-9753JZ,Gagelweg,7,,
-9753JZ,Gagelweg,8,,
-9753JZ,Gagelweg,9,,
-9753JZ,Gagelweg,11,,
-9753JZ,Gagelweg,13,,
-9753JZ,Gagelweg,15,,
-9753KA,Laagveld,2,,
-9753KA,Laagveld,4,,
-9753KA,Laagveld,6,,
-9753KA,Laagveld,8,,
-9753KA,Laagveld,10,,
-9753KA,Laagveld,12,,
-9753KA,Laagveld,14,,
-9753KA,Laagveld,16,,
-9753KA,Laagveld,18,,
-9753KA,Laagveld,20,,
-9753KA,Laagveld,22,,
-9753KB,Laagveld,24,,
-9753KB,Laagveld,26,,
-9753KB,Laagveld,28,,
-9753KB,Laagveld,30,,
-9753KB,Laagveld,32,,
-9753KB,Laagveld,34,,
-9753KB,Laagveld,36,,
-9753KB,Laagveld,38,,
-9753KB,Laagveld,40,,
-9753KB,Laagveld,42,,
-9753KB,Laagveld,44,,
-9753KB,Laagveld,46,,
-9753KB,Laagveld,48,,
-9753KB,Laagveld,50,,
-9753KB,Laagveld,52,,
-9753KB,Laagveld,54,,
-9753KB,Laagveld,56,,
-9753KB,Laagveld,58,,
-9753KC,Laagveld,60,,
-9753KC,Laagveld,62,,
-9753KC,Laagveld,64,,
-9753KC,Laagveld,66,,
-9753KC,Laagveld,68,,
-9753KC,Laagveld,70,,
-9753KC,Laagveld,72,,
-9753KC,Laagveld,74,,
-9753KC,Laagveld,76,,
-9753KC,Laagveld,78,,
-9753KC,Laagveld,80,,
-9753KC,Laagveld,82,,
-9753KC,Laagveld,84,,
-9753KC,Laagveld,86,,
-9753KC,Laagveld,88,,
-9753KC,Laagveld,90,,
-9753KC,Laagveld,92,,
-9753KC,Laagveld,94,,
-9753HZ,Lijsterweg,2,,
-9753HZ,Lijsterweg,4,,
-9753HZ,Lijsterweg,6,,
-9753HZ,Lijsterweg,8,,
-9753HZ,Lijsterweg,10,,
-9753HZ,Lijsterweg,12,,
-9753HX,Mezenlaan,1,,
-9753HX,Mezenlaan,2,,
-9753HX,Mezenlaan,3,,
-9753HX,Mezenlaan,4,,
-9753HX,Mezenlaan,5,,
-9753HX,Mezenlaan,6,,
-9753HX,Mezenlaan,7,,
-9753HX,Mezenlaan,8,,
-9753HX,Mezenlaan,9,,
-9753HX,Mezenlaan,10,,
-9753HX,Mezenlaan,11,,
-9753HX,Mezenlaan,12,,
-9753HX,Mezenlaan,13,,
-9753HX,Mezenlaan,15,,
-9753HX,Mezenlaan,17,,
-9753HX,Mezenlaan,19,,
-9753HW,Middenpad,1,,
-9753HW,Middenpad,2,,
-9753HW,Middenpad,3,,
-9753HW,Middenpad,4,,
-9753JV,Blekenweg,70,,
-9753JZ,Gagelweg,8,A,
-9753JZ,Gagelweg,8,a,
-9753KA,Laagveld,22,A,
-9753KA,Laagveld,22,a,
-9753KA,Laagveld,22,B,
-9753KA,Laagveld,22,b,
-9753KA,Laagveld,22,C,
-9753KA,Laagveld,22,c,
-9753KB,Laagveld,30,,G01
-9753KB,Laagveld,30,,G02
-9753KB,Laagveld,30,,G03
-9753KB,Laagveld,30,,G04
-9753KB,Laagveld,30,,G05
-9753HV,Spoorlaan,1,,
-9753HV,Spoorlaan,2,,
-9753HV,Spoorlaan,3,,
-9753HV,Spoorlaan,4,,
-9753HV,Spoorlaan,5,,
-9753HV,Spoorlaan,6,,
-9753HV,Spoorlaan,7,,
-9753HV,Spoorlaan,8,,
-9753HV,Spoorlaan,9,,
-9753HV,Spoorlaan,11,,
-9753HV,Spoorlaan,13,,
-9753HV,Spoorlaan,15,,
-9753HV,Spoorlaan,17,,
-9753HV,Spoorlaan,19,,
-9753HV,Spoorlaan,21,,
-9753HV,Spoorlaan,23,,
-9753HV,Spoorlaan,25,,
-9753HV,Spoorlaan,27,,
-9753HV,Spoorlaan,29,,
-9753HV,Spoorlaan,31,,
-9753JA,Tuindorpweg,1,,
-9753JA,Tuindorpweg,1,A,
-9753JA,Tuindorpweg,1,a,
-9753JA,Tuindorpweg,1,B,
-9753JA,Tuindorpweg,1,b,
-9753JA,Tuindorpweg,1,C,
-9753JA,Tuindorpweg,1,c,
-9753JA,Tuindorpweg,1,D,
-9753JA,Tuindorpweg,1,d,
-9753JA,Tuindorpweg,1,E,
-9753JA,Tuindorpweg,1,e,
-9753JA,Tuindorpweg,1,F,
-9753JA,Tuindorpweg,1,f,
-9753JA,Tuindorpweg,1,G,
-9753JA,Tuindorpweg,1,g,
-9753JA,Tuindorpweg,3,,
-9753JA,Tuindorpweg,5,,
-9753JA,Tuindorpweg,7,,
-9753JA,Tuindorpweg,9,,
-9753JB,Tuindorpweg,11,,
-9753JB,Tuindorpweg,13,,
-9753JB,Tuindorpweg,15,,
-9753JB,Tuindorpweg,17,,
-9753JB,Tuindorpweg,19,,
-9753JB,Tuindorpweg,21,,
-9753JB,Tuindorpweg,23,,
-9753JB,Tuindorpweg,25,,
-9753JB,Tuindorpweg,27,,
-9753JB,Tuindorpweg,29,,
-9753JB,Tuindorpweg,31,,
-9753JB,Tuindorpweg,33,,
-9753JB,Tuindorpweg,35,,
-9753JB,Tuindorpweg,37,,
-9753JB,Tuindorpweg,39,,
-9753JB,Tuindorpweg,41,,
-9753JC,Tuindorpweg,47,,
-9753JC,Tuindorpweg,49,,
-9753JC,Tuindorpweg,51,,
-9753JC,Tuindorpweg,53,,
-9753JC,Tuindorpweg,55,,
-9753JC,Tuindorpweg,57,,
-9753JC,Tuindorpweg,59,,
-9753JC,Tuindorpweg,61,,
-9753JC,Tuindorpweg,63,,
-9753JC,Tuindorpweg,65,,
-9753JD,Tuindorpweg,2,,
-9753JD,Tuindorpweg,4,,
-9753JD,Tuindorpweg,6,,
-9753JD,Tuindorpweg,8,,
-9753JD,Tuindorpweg,10,,
-9753JD,Tuindorpweg,12,,
-9753JD,Tuindorpweg,14,,
-9753JD,Tuindorpweg,16,,
-9753JD,Tuindorpweg,18,,
-9753JD,Tuindorpweg,20,,
-9753JD,Tuindorpweg,22,,
-9753JD,Tuindorpweg,24,,
-9753JD,Tuindorpweg,26,,
-9753JD,Tuindorpweg,28,,
-9753JD,Tuindorpweg,30,,
-9753JD,Tuindorpweg,32,,
-9753JD,Tuindorpweg,34,,
-9753JD,Tuindorpweg,36,,
-9753JD,Tuindorpweg,38,,
-9753JL,Vijverpad,2,,
-9753JL,Vijverpad,4,,
-9753JL,Vijverpad,5,,
-9753JL,Vijverpad,6,,
-9753JL,Vijverpad,7,,
-9753JL,Vijverpad,8,,
-9753JL,Vijverpad,9,,
-9753JL,Vijverpad,10,,
-9753JL,Vijverpad,11,,
-9753JL,Vijverpad,12,,
-9753JL,Vijverpad,14,,
-9753JL,Vijverpad,16,,
-9753JL,Vijverpad,18,,
-9753JL,Vijverpad,20,,
-9753JL,Vijverpad,22,,
-9753HP,Waterhuizerweg,1,,
-9753HP,Waterhuizerweg,3,,
-9753HP,Waterhuizerweg,5,,
-9753HP,Waterhuizerweg,7,,
-9753HP,Waterhuizerweg,9,,
-9753HP,Waterhuizerweg,11,,
-9753HP,Waterhuizerweg,13,,
-9753HP,Waterhuizerweg,13,A,
-9753HP,Waterhuizerweg,13,a,
-9753HP,Waterhuizerweg,13,B,
-9753HP,Waterhuizerweg,13,b,
-9753HP,Waterhuizerweg,15,,
-9753HP,Waterhuizerweg,17,,
-9753HP,Waterhuizerweg,19,,
-9753HP,Waterhuizerweg,19,A,
-9753HP,Waterhuizerweg,19,a,
-9753HP,Waterhuizerweg,21,,
-9753HP,Waterhuizerweg,23,,
-9753HP,Waterhuizerweg,25,,
-9753HP,Waterhuizerweg,27,,
-9753HP,Waterhuizerweg,29,,
-9753HP,Waterhuizerweg,31,,
-9753HP,Waterhuizerweg,33,,
-9753HP,Waterhuizerweg,35,,
-9753HP,Waterhuizerweg,37,,
-9753HP,Waterhuizerweg,39,,
-9753HP,Waterhuizerweg,41,,
-9753HP,Waterhuizerweg,43,,
-9753HP,Waterhuizerweg,45,,
-9753HP,Waterhuizerweg,47,,
-9753HP,Waterhuizerweg,49,,
-9753HP,Waterhuizerweg,51,,
-9753HP,Waterhuizerweg,53,,
-9753HP,Waterhuizerweg,55,,
-9753HP,Waterhuizerweg,57,,
-9753HP,Waterhuizerweg,59,,
-9753HP,Waterhuizerweg,61,,
-9753HP,Waterhuizerweg,63,,
-9753HP,Waterhuizerweg,65,,
-9753JE,Zwanebloemweg,1,,
-9753JE,Zwanebloemweg,3,,
-9753JE,Zwanebloemweg,5,,
-9753JE,Zwanebloemweg,7,,
-9753JE,Zwanebloemweg,9,,
-9753JE,Zwanebloemweg,11,,
-9753JE,Zwanebloemweg,13,,
-9753JE,Zwanebloemweg,15,,
-9753JE,Zwanebloemweg,17,,
-9753JE,Zwanebloemweg,19,,
-9753JE,Zwanebloemweg,21,,
-9753JE,Zwanebloemweg,23,,
-9753JG,Zwanebloemweg,25,,
-9753JG,Zwanebloemweg,27,,
-9753JG,Zwanebloemweg,29,,
-9753JG,Zwanebloemweg,31,,
-9753JG,Zwanebloemweg,33,,
-9753JG,Zwanebloemweg,35,,
-9753JG,Zwanebloemweg,37,,
-9753JG,Zwanebloemweg,39,,
-9753JG,Zwanebloemweg,41,,
-9753JG,Zwanebloemweg,43,,
-9753JG,Zwanebloemweg,45,,
-9753JG,Zwanebloemweg,47,,
-9753JH,Zwanebloemweg,2,,
-9753JH,Zwanebloemweg,4,,
-9753JH,Zwanebloemweg,6,,
-9753JH,Zwanebloemweg,8,,
-9753JH,Zwanebloemweg,10,,
-9753JH,Zwanebloemweg,12,,
-9753JH,Zwanebloemweg,14,,
-9753JH,Zwanebloemweg,16,,
-9753JH,Zwanebloemweg,18,,
-9753JH,Zwanebloemweg,20,,
-9753JH,Zwanebloemweg,22,,
-9753JH,Zwanebloemweg,24,,
-9753JH,Zwanebloemweg,26,,
-9753JH,Zwanebloemweg,28,,
-9753JH,Zwanebloemweg,30,,
-9753JH,Zwanebloemweg,32,,
-9753JJ,Zwanebloemweg,34,,
-9753JJ,Zwanebloemweg,36,,
-9753JJ,Zwanebloemweg,38,,
-9753JJ,Zwanebloemweg,40,,
-9753JJ,Zwanebloemweg,42,,
-9753JJ,Zwanebloemweg,44,,
-9753JJ,Zwanebloemweg,46,,
-9753JJ,Zwanebloemweg,48,,
-9753JJ,Zwanebloemweg,50,,
-9753JJ,Zwanebloemweg,52,,
-9753JJ,Zwanebloemweg,54,,
-9753JJ,Zwanebloemweg,56,,
-9753JJ,Zwanebloemweg,58,,
-9753JJ,Zwanebloemweg,60,,
-9753JJ,Zwanebloemweg,62,,
-9753JJ,Zwanebloemweg,64,,
-9753JJ,Zwanebloemweg,66,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Waterhuizerweg,1,"","",9753HP,Haren Gn
+Waterhuizerweg,11,"","",9753HP,Haren Gn
+Waterhuizerweg,13,"","",9753HP,Haren Gn
+Waterhuizerweg,13,A,"",9753HP,Haren Gn
+Waterhuizerweg,13,A,"",9753HP,Haren Gn
+Waterhuizerweg,13,B,"",9753HP,Haren Gn
+Waterhuizerweg,13,B,"",9753HP,Haren Gn
+Waterhuizerweg,15,"","",9753HP,Haren Gn
+Waterhuizerweg,17,"","",9753HP,Haren Gn
+Waterhuizerweg,19,"","",9753HP,Haren Gn
+Waterhuizerweg,19,A,"",9753HP,Haren Gn
+Waterhuizerweg,19,A,"",9753HP,Haren Gn
+Waterhuizerweg,21,"","",9753HP,Haren Gn
+Waterhuizerweg,23,"","",9753HP,Haren Gn
+Waterhuizerweg,25,"","",9753HP,Haren Gn
+Waterhuizerweg,27,"","",9753HP,Haren Gn
+Waterhuizerweg,29,"","",9753HP,Haren Gn
+Waterhuizerweg,3,"","",9753HP,Haren Gn
+Waterhuizerweg,31,"","",9753HP,Haren Gn
+Waterhuizerweg,33,"","",9753HP,Haren Gn
+Waterhuizerweg,35,"","",9753HP,Haren Gn
+Waterhuizerweg,37,"","",9753HP,Haren Gn
+Waterhuizerweg,39,"","",9753HP,Haren Gn
+Waterhuizerweg,41,"","",9753HP,Haren Gn
+Waterhuizerweg,43,"","",9753HP,Haren Gn
+Waterhuizerweg,45,"","",9753HP,Haren Gn
+Waterhuizerweg,47,"","",9753HP,Haren Gn
+Waterhuizerweg,49,"","",9753HP,Haren Gn
+Waterhuizerweg,5,"","",9753HP,Haren Gn
+Waterhuizerweg,51,"","",9753HP,Haren Gn
+Waterhuizerweg,53,"","",9753HP,Haren Gn
+Waterhuizerweg,55,"","",9753HP,Haren Gn
+Waterhuizerweg,57,"","",9753HP,Haren Gn
+Waterhuizerweg,59,"","",9753HP,Haren Gn
+Waterhuizerweg,61,"","",9753HP,Haren Gn
+Waterhuizerweg,63,"","",9753HP,Haren Gn
+Waterhuizerweg,65,"","",9753HP,Haren Gn
+Waterhuizerweg,7,"","",9753HP,Haren Gn
+Waterhuizerweg,9,"","",9753HP,Haren Gn
+Spoorlaan,1,"","",9753HV,Haren Gn
+Spoorlaan,11,"","",9753HV,Haren Gn
+Spoorlaan,13,"","",9753HV,Haren Gn
+Spoorlaan,15,"","",9753HV,Haren Gn
+Spoorlaan,17,"","",9753HV,Haren Gn
+Spoorlaan,19,"","",9753HV,Haren Gn
+Spoorlaan,2,"","",9753HV,Haren Gn
+Spoorlaan,21,"","",9753HV,Haren Gn
+Spoorlaan,23,"","",9753HV,Haren Gn
+Spoorlaan,25,"","",9753HV,Haren Gn
+Spoorlaan,27,"","",9753HV,Haren Gn
+Spoorlaan,29,"","",9753HV,Haren Gn
+Spoorlaan,3,"","",9753HV,Haren Gn
+Spoorlaan,31,"","",9753HV,Haren Gn
+Spoorlaan,4,"","",9753HV,Haren Gn
+Spoorlaan,5,"","",9753HV,Haren Gn
+Spoorlaan,6,"","",9753HV,Haren Gn
+Spoorlaan,7,"","",9753HV,Haren Gn
+Spoorlaan,8,"","",9753HV,Haren Gn
+Spoorlaan,9,"","",9753HV,Haren Gn
+Middenpad,1,"","",9753HW,Haren Gn
+Middenpad,2,"","",9753HW,Haren Gn
+Middenpad,3,"","",9753HW,Haren Gn
+Middenpad,4,"","",9753HW,Haren Gn
+Mezenlaan,1,"","",9753HX,Haren Gn
+Mezenlaan,10,"","",9753HX,Haren Gn
+Mezenlaan,11,"","",9753HX,Haren Gn
+Mezenlaan,12,"","",9753HX,Haren Gn
+Mezenlaan,13,"","",9753HX,Haren Gn
+Mezenlaan,15,"","",9753HX,Haren Gn
+Mezenlaan,17,"","",9753HX,Haren Gn
+Mezenlaan,19,"","",9753HX,Haren Gn
+Mezenlaan,2,"","",9753HX,Haren Gn
+Mezenlaan,3,"","",9753HX,Haren Gn
+Mezenlaan,4,"","",9753HX,Haren Gn
+Mezenlaan,5,"","",9753HX,Haren Gn
+Mezenlaan,6,"","",9753HX,Haren Gn
+Mezenlaan,7,"","",9753HX,Haren Gn
+Mezenlaan,8,"","",9753HX,Haren Gn
+Mezenlaan,9,"","",9753HX,Haren Gn
+Lijsterweg,10,"","",9753HZ,Haren Gn
+Lijsterweg,12,"","",9753HZ,Haren Gn
+Lijsterweg,2,"","",9753HZ,Haren Gn
+Lijsterweg,4,"","",9753HZ,Haren Gn
+Lijsterweg,6,"","",9753HZ,Haren Gn
+Lijsterweg,8,"","",9753HZ,Haren Gn
+Tuindorpweg,1,"","",9753JA,Haren Gn
+Tuindorpweg,1,A,"",9753JA,Haren Gn
+Tuindorpweg,1,A,"",9753JA,Haren Gn
+Tuindorpweg,1,B,"",9753JA,Haren Gn
+Tuindorpweg,1,B,"",9753JA,Haren Gn
+Tuindorpweg,1,C,"",9753JA,Haren Gn
+Tuindorpweg,1,C,"",9753JA,Haren Gn
+Tuindorpweg,1,D,"",9753JA,Haren Gn
+Tuindorpweg,1,D,"",9753JA,Haren Gn
+Tuindorpweg,1,E,"",9753JA,Haren Gn
+Tuindorpweg,1,E,"",9753JA,Haren Gn
+Tuindorpweg,1,F,"",9753JA,Haren Gn
+Tuindorpweg,1,F,"",9753JA,Haren Gn
+Tuindorpweg,1,G,"",9753JA,Haren Gn
+Tuindorpweg,1,G,"",9753JA,Haren Gn
+Tuindorpweg,3,"","",9753JA,Haren Gn
+Tuindorpweg,5,"","",9753JA,Haren Gn
+Tuindorpweg,7,"","",9753JA,Haren Gn
+Tuindorpweg,9,"","",9753JA,Haren Gn
+Tuindorpweg,11,"","",9753JB,Haren Gn
+Tuindorpweg,13,"","",9753JB,Haren Gn
+Tuindorpweg,15,"","",9753JB,Haren Gn
+Tuindorpweg,17,"","",9753JB,Haren Gn
+Tuindorpweg,19,"","",9753JB,Haren Gn
+Tuindorpweg,21,"","",9753JB,Haren Gn
+Tuindorpweg,23,"","",9753JB,Haren Gn
+Tuindorpweg,25,"","",9753JB,Haren Gn
+Tuindorpweg,27,"","",9753JB,Haren Gn
+Tuindorpweg,29,"","",9753JB,Haren Gn
+Tuindorpweg,31,"","",9753JB,Haren Gn
+Tuindorpweg,33,"","",9753JB,Haren Gn
+Tuindorpweg,35,"","",9753JB,Haren Gn
+Tuindorpweg,37,"","",9753JB,Haren Gn
+Tuindorpweg,39,"","",9753JB,Haren Gn
+Tuindorpweg,41,"","",9753JB,Haren Gn
+Tuindorpweg,47,"","",9753JC,Haren Gn
+Tuindorpweg,49,"","",9753JC,Haren Gn
+Tuindorpweg,51,"","",9753JC,Haren Gn
+Tuindorpweg,53,"","",9753JC,Haren Gn
+Tuindorpweg,55,"","",9753JC,Haren Gn
+Tuindorpweg,57,"","",9753JC,Haren Gn
+Tuindorpweg,59,"","",9753JC,Haren Gn
+Tuindorpweg,61,"","",9753JC,Haren Gn
+Tuindorpweg,63,"","",9753JC,Haren Gn
+Tuindorpweg,65,"","",9753JC,Haren Gn
+Tuindorpweg,10,"","",9753JD,Haren Gn
+Tuindorpweg,12,"","",9753JD,Haren Gn
+Tuindorpweg,14,"","",9753JD,Haren Gn
+Tuindorpweg,16,"","",9753JD,Haren Gn
+Tuindorpweg,18,"","",9753JD,Haren Gn
+Tuindorpweg,2,"","",9753JD,Haren Gn
+Tuindorpweg,20,"","",9753JD,Haren Gn
+Tuindorpweg,22,"","",9753JD,Haren Gn
+Tuindorpweg,24,"","",9753JD,Haren Gn
+Tuindorpweg,26,"","",9753JD,Haren Gn
+Tuindorpweg,28,"","",9753JD,Haren Gn
+Tuindorpweg,30,"","",9753JD,Haren Gn
+Tuindorpweg,32,"","",9753JD,Haren Gn
+Tuindorpweg,34,"","",9753JD,Haren Gn
+Tuindorpweg,36,"","",9753JD,Haren Gn
+Tuindorpweg,38,"","",9753JD,Haren Gn
+Tuindorpweg,4,"","",9753JD,Haren Gn
+Tuindorpweg,6,"","",9753JD,Haren Gn
+Tuindorpweg,8,"","",9753JD,Haren Gn
+Zwanebloemweg,1,"","",9753JE,Haren Gn
+Zwanebloemweg,11,"","",9753JE,Haren Gn
+Zwanebloemweg,13,"","",9753JE,Haren Gn
+Zwanebloemweg,15,"","",9753JE,Haren Gn
+Zwanebloemweg,17,"","",9753JE,Haren Gn
+Zwanebloemweg,19,"","",9753JE,Haren Gn
+Zwanebloemweg,21,"","",9753JE,Haren Gn
+Zwanebloemweg,23,"","",9753JE,Haren Gn
+Zwanebloemweg,3,"","",9753JE,Haren Gn
+Zwanebloemweg,5,"","",9753JE,Haren Gn
+Zwanebloemweg,7,"","",9753JE,Haren Gn
+Zwanebloemweg,9,"","",9753JE,Haren Gn
+Zwanebloemweg,25,"","",9753JG,Haren Gn
+Zwanebloemweg,27,"","",9753JG,Haren Gn
+Zwanebloemweg,29,"","",9753JG,Haren Gn
+Zwanebloemweg,31,"","",9753JG,Haren Gn
+Zwanebloemweg,33,"","",9753JG,Haren Gn
+Zwanebloemweg,35,"","",9753JG,Haren Gn
+Zwanebloemweg,37,"","",9753JG,Haren Gn
+Zwanebloemweg,39,"","",9753JG,Haren Gn
+Zwanebloemweg,41,"","",9753JG,Haren Gn
+Zwanebloemweg,43,"","",9753JG,Haren Gn
+Zwanebloemweg,45,"","",9753JG,Haren Gn
+Zwanebloemweg,47,"","",9753JG,Haren Gn
+Zwanebloemweg,10,"","",9753JH,Haren Gn
+Zwanebloemweg,12,"","",9753JH,Haren Gn
+Zwanebloemweg,14,"","",9753JH,Haren Gn
+Zwanebloemweg,16,"","",9753JH,Haren Gn
+Zwanebloemweg,18,"","",9753JH,Haren Gn
+Zwanebloemweg,2,"","",9753JH,Haren Gn
+Zwanebloemweg,20,"","",9753JH,Haren Gn
+Zwanebloemweg,22,"","",9753JH,Haren Gn
+Zwanebloemweg,24,"","",9753JH,Haren Gn
+Zwanebloemweg,26,"","",9753JH,Haren Gn
+Zwanebloemweg,28,"","",9753JH,Haren Gn
+Zwanebloemweg,30,"","",9753JH,Haren Gn
+Zwanebloemweg,32,"","",9753JH,Haren Gn
+Zwanebloemweg,4,"","",9753JH,Haren Gn
+Zwanebloemweg,6,"","",9753JH,Haren Gn
+Zwanebloemweg,8,"","",9753JH,Haren Gn
+Zwanebloemweg,34,"","",9753JJ,Haren Gn
+Zwanebloemweg,36,"","",9753JJ,Haren Gn
+Zwanebloemweg,38,"","",9753JJ,Haren Gn
+Zwanebloemweg,40,"","",9753JJ,Haren Gn
+Zwanebloemweg,42,"","",9753JJ,Haren Gn
+Zwanebloemweg,44,"","",9753JJ,Haren Gn
+Zwanebloemweg,46,"","",9753JJ,Haren Gn
+Zwanebloemweg,48,"","",9753JJ,Haren Gn
+Zwanebloemweg,50,"","",9753JJ,Haren Gn
+Zwanebloemweg,52,"","",9753JJ,Haren Gn
+Zwanebloemweg,54,"","",9753JJ,Haren Gn
+Zwanebloemweg,56,"","",9753JJ,Haren Gn
+Zwanebloemweg,58,"","",9753JJ,Haren Gn
+Zwanebloemweg,60,"","",9753JJ,Haren Gn
+Zwanebloemweg,62,"","",9753JJ,Haren Gn
+Zwanebloemweg,64,"","",9753JJ,Haren Gn
+Zwanebloemweg,66,"","",9753JJ,Haren Gn
+Dotterhof,1,"","",9753JK,Haren Gn
+Dotterhof,10,"","",9753JK,Haren Gn
+Dotterhof,11,"","",9753JK,Haren Gn
+Dotterhof,12,"","",9753JK,Haren Gn
+Dotterhof,2,"","",9753JK,Haren Gn
+Dotterhof,3,"","",9753JK,Haren Gn
+Dotterhof,4,"","",9753JK,Haren Gn
+Dotterhof,5,"","",9753JK,Haren Gn
+Dotterhof,6,"","",9753JK,Haren Gn
+Dotterhof,7,"","",9753JK,Haren Gn
+Dotterhof,8,"","",9753JK,Haren Gn
+Dotterhof,9,"","",9753JK,Haren Gn
+Vijverpad,10,"","",9753JL,Haren Gn
+Vijverpad,11,"","",9753JL,Haren Gn
+Vijverpad,12,"","",9753JL,Haren Gn
+Vijverpad,14,"","",9753JL,Haren Gn
+Vijverpad,16,"","",9753JL,Haren Gn
+Vijverpad,18,"","",9753JL,Haren Gn
+Vijverpad,2,"","",9753JL,Haren Gn
+Vijverpad,20,"","",9753JL,Haren Gn
+Vijverpad,22,"","",9753JL,Haren Gn
+Vijverpad,4,"","",9753JL,Haren Gn
+Vijverpad,5,"","",9753JL,Haren Gn
+Vijverpad,6,"","",9753JL,Haren Gn
+Vijverpad,7,"","",9753JL,Haren Gn
+Vijverpad,8,"","",9753JL,Haren Gn
+Vijverpad,9,"","",9753JL,Haren Gn
+Blekenweg,1,"","",9753JM,Haren Gn
+Blekenweg,11,"","",9753JM,Haren Gn
+Blekenweg,13,"","",9753JM,Haren Gn
+Blekenweg,15,"","",9753JM,Haren Gn
+Blekenweg,17,"","",9753JM,Haren Gn
+Blekenweg,19,"","",9753JM,Haren Gn
+Blekenweg,25,"","",9753JM,Haren Gn
+Blekenweg,27,"","",9753JM,Haren Gn
+Blekenweg,29,"","",9753JM,Haren Gn
+Blekenweg,3,"","",9753JM,Haren Gn
+Blekenweg,31,"","",9753JM,Haren Gn
+Blekenweg,33,"","",9753JM,Haren Gn
+Blekenweg,35,"","",9753JM,Haren Gn
+Blekenweg,5,"","",9753JM,Haren Gn
+Blekenweg,7,"","",9753JM,Haren Gn
+Blekenweg,9,"","",9753JM,Haren Gn
+Blekenweg,37,"","",9753JN,Haren Gn
+Blekenweg,39,"","",9753JN,Haren Gn
+Blekenweg,41,"","",9753JN,Haren Gn
+Blekenweg,43,"","",9753JN,Haren Gn
+Blekenweg,45,"","",9753JN,Haren Gn
+Blekenweg,47,"","",9753JN,Haren Gn
+Blekenweg,49,"","",9753JN,Haren Gn
+Blekenweg,51,"","",9753JN,Haren Gn
+Blekenweg,53,"","",9753JN,Haren Gn
+Blekenweg,55,"","",9753JN,Haren Gn
+Blekenweg,57,"","",9753JN,Haren Gn
+Blekenweg,59,"","",9753JN,Haren Gn
+Blekenweg,61,"","",9753JN,Haren Gn
+Blekenweg,63,"","",9753JN,Haren Gn
+Blekenweg,65,"","",9753JP,Haren Gn
+Blekenweg,67,"","",9753JP,Haren Gn
+Blekenweg,69,"","",9753JP,Haren Gn
+Blekenweg,71,"","",9753JP,Haren Gn
+Blekenweg,73,"","",9753JP,Haren Gn
+Blekenweg,75,"","",9753JP,Haren Gn
+Blekenweg,77,"","",9753JP,Haren Gn
+Blekenweg,79,"","",9753JP,Haren Gn
+Blekenweg,81,"","",9753JP,Haren Gn
+Blekenweg,83,"","",9753JP,Haren Gn
+Blekenweg,85,"","",9753JP,Haren Gn
+Blekenweg,87,"","",9753JP,Haren Gn
+Blekenweg,101,"","",9753JR,Haren Gn
+Blekenweg,103,"","",9753JR,Haren Gn
+Blekenweg,105,"","",9753JR,Haren Gn
+Blekenweg,107,"","",9753JR,Haren Gn
+Blekenweg,109,"","",9753JR,Haren Gn
+Blekenweg,111,"","",9753JR,Haren Gn
+Blekenweg,113,"","",9753JR,Haren Gn
+Blekenweg,115,"","",9753JR,Haren Gn
+Blekenweg,117,"","",9753JR,Haren Gn
+Blekenweg,119,"","",9753JR,Haren Gn
+Blekenweg,121,"","",9753JR,Haren Gn
+Blekenweg,123,"","",9753JR,Haren Gn
+Blekenweg,125,"","",9753JR,Haren Gn
+Blekenweg,127,"","",9753JR,Haren Gn
+Blekenweg,89,"","",9753JR,Haren Gn
+Blekenweg,10,"","",9753JS,Haren Gn
+Blekenweg,12,"","",9753JS,Haren Gn
+Blekenweg,14,"","",9753JS,Haren Gn
+Blekenweg,16,"","",9753JS,Haren Gn
+Blekenweg,18,"","",9753JS,Haren Gn
+Blekenweg,2,"","",9753JS,Haren Gn
+Blekenweg,20,"","",9753JS,Haren Gn
+Blekenweg,34,"","",9753JS,Haren Gn
+Blekenweg,36,"","",9753JS,Haren Gn
+Blekenweg,4,"","",9753JS,Haren Gn
+Blekenweg,6,"","",9753JS,Haren Gn
+Blekenweg,8,"","",9753JS,Haren Gn
+Blekenweg,38,"","",9753JT,Haren Gn
+Blekenweg,40,"","",9753JT,Haren Gn
+Blekenweg,42,"","",9753JT,Haren Gn
+Blekenweg,44,"","",9753JT,Haren Gn
+Blekenweg,46,"","",9753JT,Haren Gn
+Blekenweg,48,"","",9753JT,Haren Gn
+Blekenweg,50,"","",9753JT,Haren Gn
+Blekenweg,52,"","",9753JT,Haren Gn
+Blekenweg,54,"","",9753JT,Haren Gn
+Blekenweg,56,"","",9753JT,Haren Gn
+Blekenweg,58,"","",9753JT,Haren Gn
+Blekenweg,60,"","",9753JT,Haren Gn
+Blekenweg,62,"","",9753JT,Haren Gn
+Blekenweg,64,"","",9753JT,Haren Gn
+Blekenweg,66,"","",9753JT,Haren Gn
+Blekenweg,68,"","",9753JT,Haren Gn
+Blekenweg,70,"","",9753JV,Haren Gn
+Blekenweg,70,"","",9753JV,Haren Gn
+Blekenweg,70,"","",9753JV,Haren Gn
+Blekenweg,72,"","",9753JV,Haren Gn
+Blekenweg,74,"","",9753JV,Haren Gn
+Blekenweg,76,"","",9753JV,Haren Gn
+Blekenweg,86,"","",9753JV,Haren Gn
+Blekenweg,88,"","",9753JV,Haren Gn
+Blekenweg,88,A,"",9753JV,Haren Gn
+Blekenweg,88,A,"",9753JV,Haren Gn
+Blekenweg,100,"","",9753JW,Haren Gn
+Blekenweg,102,"","",9753JW,Haren Gn
+Blekenweg,104,"","",9753JW,Haren Gn
+Blekenweg,114,"","",9753JW,Haren Gn
+Blekenweg,116,"","",9753JW,Haren Gn
+Blekenweg,118,"","",9753JW,Haren Gn
+Blekenweg,120,"","",9753JW,Haren Gn
+Blekenweg,90,"","",9753JW,Haren Gn
+Blekenweg,92,"","",9753JW,Haren Gn
+Blekenweg,94,"","",9753JW,Haren Gn
+Blekenweg,96,"","",9753JW,Haren Gn
+Blekenweg,98,"","",9753JW,Haren Gn
+Gagelweg,1,"","",9753JZ,Haren Gn
+Gagelweg,11,"","",9753JZ,Haren Gn
+Gagelweg,13,"","",9753JZ,Haren Gn
+Gagelweg,15,"","",9753JZ,Haren Gn
+Gagelweg,2,"","",9753JZ,Haren Gn
+Gagelweg,3,"","",9753JZ,Haren Gn
+Gagelweg,4,"","",9753JZ,Haren Gn
+Gagelweg,5,"","",9753JZ,Haren Gn
+Gagelweg,6,"","",9753JZ,Haren Gn
+Gagelweg,7,"","",9753JZ,Haren Gn
+Gagelweg,8,"","",9753JZ,Haren Gn
+Gagelweg,8,A,"",9753JZ,Haren Gn
+Gagelweg,8,A,"",9753JZ,Haren Gn
+Gagelweg,9,"","",9753JZ,Haren Gn
+Laagveld,10,"","",9753KA,Haren Gn
+Laagveld,12,"","",9753KA,Haren Gn
+Laagveld,14,"","",9753KA,Haren Gn
+Laagveld,16,"","",9753KA,Haren Gn
+Laagveld,18,"","",9753KA,Haren Gn
+Laagveld,2,"","",9753KA,Haren Gn
+Laagveld,20,"","",9753KA,Haren Gn
+Laagveld,22,"","",9753KA,Haren Gn
+Laagveld,22,A,"",9753KA,Haren Gn
+Laagveld,22,A,"",9753KA,Haren Gn
+Laagveld,22,B,"",9753KA,Haren Gn
+Laagveld,22,B,"",9753KA,Haren Gn
+Laagveld,22,C,"",9753KA,Haren Gn
+Laagveld,22,C,"",9753KA,Haren Gn
+Laagveld,4,"","",9753KA,Haren Gn
+Laagveld,6,"","",9753KA,Haren Gn
+Laagveld,8,"","",9753KA,Haren Gn
+Laagveld,24,"","",9753KB,Haren Gn
+Laagveld,26,"","",9753KB,Haren Gn
+Laagveld,28,"","",9753KB,Haren Gn
+Laagveld,30,"","",9753KB,Haren Gn
+Laagveld,30,"",G01,9753KB,Haren Gn
+Laagveld,30,"",G02,9753KB,Haren Gn
+Laagveld,30,"",G03,9753KB,Haren Gn
+Laagveld,30,"",G04,9753KB,Haren Gn
+Laagveld,30,"",G05,9753KB,Haren Gn
+Laagveld,32,"","",9753KB,Haren Gn
+Laagveld,34,"","",9753KB,Haren Gn
+Laagveld,36,"","",9753KB,Haren Gn
+Laagveld,38,"","",9753KB,Haren Gn
+Laagveld,40,"","",9753KB,Haren Gn
+Laagveld,42,"","",9753KB,Haren Gn
+Laagveld,44,"","",9753KB,Haren Gn
+Laagveld,46,"","",9753KB,Haren Gn
+Laagveld,48,"","",9753KB,Haren Gn
+Laagveld,50,"","",9753KB,Haren Gn
+Laagveld,52,"","",9753KB,Haren Gn
+Laagveld,54,"","",9753KB,Haren Gn
+Laagveld,56,"","",9753KB,Haren Gn
+Laagveld,58,"","",9753KB,Haren Gn
+Laagveld,60,"","",9753KC,Haren Gn
+Laagveld,62,"","",9753KC,Haren Gn
+Laagveld,64,"","",9753KC,Haren Gn
+Laagveld,66,"","",9753KC,Haren Gn
+Laagveld,68,"","",9753KC,Haren Gn
+Laagveld,70,"","",9753KC,Haren Gn
+Laagveld,72,"","",9753KC,Haren Gn
+Laagveld,74,"","",9753KC,Haren Gn
+Laagveld,76,"","",9753KC,Haren Gn
+Laagveld,78,"","",9753KC,Haren Gn
+Laagveld,80,"","",9753KC,Haren Gn
+Laagveld,82,"","",9753KC,Haren Gn
+Laagveld,84,"","",9753KC,Haren Gn
+Laagveld,86,"","",9753KC,Haren Gn
+Laagveld,88,"","",9753KC,Haren Gn
+Laagveld,90,"","",9753KC,Haren Gn
+Laagveld,92,"","",9753KC,Haren Gn
+Laagveld,94,"","",9753KC,Haren Gn

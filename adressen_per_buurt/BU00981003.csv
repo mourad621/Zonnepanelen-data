@@ -1,957 +1,495 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8391AB",11,"",""
-"8391AB",13,"",""
-"8391AB",15,"",""
-"8391AB",5,"A",""
-"8391AB",17,"",""
-"8391AB",1,"",""
-"8391AB",9,"",""
-"8391AB",7,"",""
-"8391AB",3,"",""
-"8391AB",5,"",""
-"8391AC",59,"",""
-"8391AC",51,"",""
-"8391AC",23,"",""
-"8391AC",43,"",""
-"8391AC",57,"B",""
-"8391AC",21,"",""
-"8391AC",65,"A",""
-"8391AC",47,"",""
-"8391AC",61,"",""
-"8391AC",29,"",""
-"8391AC",41,"",""
-"8391AC",25,"",""
-"8391AC",65,"",""
-"8391AC",35,"",""
-"8391AC",19,"",""
-"8391AC",57,"A",""
-"8391AC",57,"",""
-"8391AC",49,"",""
-"8391AC",55,"",""
-"8391AC",63,"",""
-"8391AC",53,"",""
-"8391AC",27,"",""
-"8391AC",37,"",""
-"8391AC",33,"",""
-"8391AE",6,"",""
-"8391AE",15,"",""
-"8391AE",17,"",""
-"8391AE",13,"A",""
-"8391AE",2,"",""
-"8391AE",11,"",""
-"8391AE",17,"A",""
-"8391AE",17,"A",""
-"8391AE",2,"",""
-"8391AE",18,"",""
-"8391AE",17,"A",""
-"8391AE",17,"D",""
-"8391AE",9,"",""
-"8391AE",8,"",""
-"8391AE",17,"B",""
-"8391AE",19,"",""
-"8391AE",5,"",""
-"8391AE",3,"",""
-"8391AE",2,"",""
-"8391AE",15,"","KANT"
-"8391AE",14,"",""
-"8391AE",7,"",""
-"8391AE",1,"",""
-"8391AE",17,"C",""
-"8391AE",10,"",""
-"8391AE",4,"",""
-"8391AE",12,"",""
-"8391AG",8,"",""
-"8391AG",5,"",""
-"8391AG",16,"",""
-"8391AG",16,"",""
-"8391AG",21,"",""
-"8391AG",18,"",""
-"8391AG",16,"",""
-"8391AG",14,"",""
-"8391AG",29,"",""
-"8391AG",6,"",""
-"8391AG",1,"",""
-"8391AG",22,"",""
-"8391AG",9,"",""
-"8391AG",12,"",""
-"8391AG",1,"","TR01"
-"8391AG",27,"",""
-"8391AG",3,"",""
-"8391AG",7,"",""
-"8391AG",25,"",""
-"8391AG",2,"",""
-"8391AG",11,"",""
-"8391AG",1,"B",""
-"8391AG",10,"",""
-"8391AK",11,"",""
-"8391AK",11,"A",""
-"8391AK",7,"","WINK"
-"8391AK",9,"",""
-"8391AK",7,"",""
-"8391AK",15,"","BEDR"
-"8391AK",11,"A",""
-"8391AK",1,"",""
-"8391AK",1,"","WINK"
-"8391AK",1,"",""
-"8391AK",15,"","BEDR"
-"8391AK",3,"",""
-"8391AK",13,"",""
-"8391AK",5,"",""
-"8391AK",11,"",""
-"8391AK",1,"A",""
-"8391AK",11,"",""
-"8391AK",15,"",""
-"8391AL",19,"",""
-"8391AL",19,"A",""
-"8391AL",19,"B",""
-"8391AL",29,"A",""
-"8391AL",31,"",""
-"8391AL",43,"",""
-"8391AL",37,"",""
-"8391AL",31,"",""
-"8391AL",19,"",""
-"8391AL",33,"",""
-"8391AL",19,"",""
-"8391AL",35,"",""
-"8391AL",41,"",""
-"8391AL",29,"",""
-"8391AL",49,"",""
-"8391AL",17,"",""
-"8391AL",29,"",""
-"8391AL",47,"",""
-"8391AL",51,"",""
-"8391AL",39,"",""
-"8391AL",19,"D",""
-"8391AL",19,"C",""
-"8391AL",49,"",""
-"8391AL",29,"",""
-"8391AL",23,"",""
-"8391AM",63,"",""
-"8391AM",53,"",""
-"8391AM",71,"","TR01"
-"8391AM",69,"",""
-"8391AM",65,"",""
-"8391AM",67,"",""
-"8391AM",55,"",""
-"8391AM",73,"",""
-"8391AM",61,"",""
-"8391AM",57,"",""
-"8391AM",59,"",""
-"8391AM",77,"",""
-"8391AM",71,"",""
-"8391AM",75,"",""
-"8391AM",55,"A",""
-"8391AM",73,"",""
-"8391AM",73,"",""
-"8391AM",73,"A",""
-"8391AN",4,"",""
-"8391AN",14,"",""
-"8391AN",4,"",""
-"8391AN",28,"",""
-"8391AN",8,"A",""
-"8391AN",4,"",""
-"8391AN",10,"",""
-"8391AN",10,"",""
-"8391AN",6,"",""
-"8391AN",8,"",""
-"8391AN",31,"",""
-"8391AN",30,"",""
-"8391AN",4,"B",""
-"8391AN",10,"",""
-"8391AN",10,"B",""
-"8391AN",10,"A",""
-"8391AN",24,"",""
-"8391AN",12,"",""
-"8391AN",18,"",""
-"8391AN",20,"A",""
-"8391AN",16,"",""
-"8391AN",26,"",""
-"8391AN",20,"",""
-"8391AN",4,"A",""
-"8391AN",22,"",""
-"8391AP",42,"",""
-"8391AP",38,"",""
-"8391AP",44,"",""
-"8391AP",32,"",""
-"8391AP",40,"",""
-"8391AP",48,"B",""
-"8391AP",50,"",""
-"8391AP",50,"B",""
-"8391AP",36,"",""
-"8391AP",50,"","BEDR"
-"8391AP",48,"A",""
-"8391AP",42,"A",""
-"8391AP",48,"",""
-"8391AP",54,"",""
-"8391AP",46,"",""
-"8391AP",52,"",""
-"8391AR",66,"",""
-"8391AR",70,"",""
-"8391AR",56,"",""
-"8391AR",58,"",""
-"8391AR",85,"",""
-"8391AR",64,"",""
-"8391AR",62,"",""
-"8391AR",60,"",""
-"8391AR",56,"A",""
-"8391AS",1,"A",""
-"8391AS",5,"A",""
-"8391AS",7,"",""
-"8391AS",5,"",""
-"8391AS",17,"A",""
-"8391AS",15,"",""
-"8391AS",13,"",""
-"8391AS",11,"",""
-"8391AS",1,"",""
-"8391AS",1,"",""
-"8391AS",23,"",""
-"8391AS",17,"",""
-"8391AS",7,"",""
-"8391AS",1,"",""
-"8391AS",19,"","WINK"
-"8391AS",19,"",""
-"8391AT",41,"A",""
-"8391AT",49,"",""
-"8391AT",55,"",""
-"8391AT",45,"B",""
-"8391AT",41,"B",""
-"8391AT",37,"",""
-"8391AT",45,"C",""
-"8391AT",47,"B",""
-"8391AT",33,"",""
-"8391AT",51,"",""
-"8391AT",29,"",""
-"8391AT",41,"",""
-"8391AT",45,"A",""
-"8391AT",37,"A",""
-"8391AT",53,"",""
-"8391AT",45,"",""
-"8391AT",35,"",""
-"8391AT",57,"",""
-"8391AT",39,"",""
-"8391AT",47,"A",""
-"8391AT",43,"",""
-"8391AT",47,"",""
-"8391AV",16,"",""
-"8391AV",18,"","BEDR"
-"8391AV",20,"",""
-"8391AV",4,"",""
-"8391AV",18,"",""
-"8391AV",10,"E",""
-"8391AV",16,"",""
-"8391AV",10,"F",""
-"8391AV",10,"C",""
-"8391AV",14,"C",""
-"8391AV",4,"B",""
-"8391AV",14,"B",""
-"8391AV",12,"C",""
-"8391AV",16,"",""
-"8391AV",14,"",""
-"8391AV",14,"B",""
-"8391AV",4,"",""
-"8391AV",12,"",""
-"8391AV",16,"A",""
-"8391AV",10,"A",""
-"8391AV",10,"G",""
-"8391AV",2,"",""
-"8391AV",14,"C",""
-"8391AV",4,"",""
-"8391AV",4,"C",""
-"8391AV",8,"A",""
-"8391AV",10,"I",""
-"8391AV",20,"A",""
-"8391AV",14,"A",""
-"8391AV",14,"B",""
-"8391AV",12,"B",""
-"8391AV",4,"A",""
-"8391AV",10,"B",""
-"8391AV",10,"H",""
-"8391AV",12,"A",""
-"8391AV",16,"A",""
-"8391AV",4,"C",""
-"8391AV",14,"",""
-"8391AV",12,"D",""
-"8391AV",10,"D",""
-"8391AV",14,"",""
-"8391AV",10,"",""
-"8391AV",14,"A",""
-"8391AV",4,"B",""
-"8391AW",36,"",""
-"8391AW",48,"",""
-"8391AW",44,"A",""
-"8391AW",42,"",""
-"8391AW",38,"",""
-"8391AW",46,"",""
-"8391AW",44,"",""
-"8391AW",52,"",""
-"8391AW",50,"",""
-"8391AX",60,"",""
-"8391AX",62,"",""
-"8391AZ",72,"D",""
-"8391AZ",68,"",""
-"8391AZ",72,"C",""
-"8391AZ",72,"B",""
-"8391AZ",64,"",""
-"8391AZ",74,"",""
-"8391AZ",66,"",""
-"8391AZ",72,"A",""
-"8391AZ",70,"",""
-"8391BE",6,"",""
-"8391BE",12,"",""
-"8391BE",7,"",""
-"8391BE",8,"",""
-"8391BE",3,"",""
-"8391BE",1,"",""
-"8391BE",2,"",""
-"8391BE",13,"",""
-"8391BE",4,"",""
-"8391BE",5,"",""
-"8391BE",16,"",""
-"8391BE",15,"",""
-"8391BE",14,"",""
-"8391BE",18,"",""
-"8391BG",37,"",""
-"8391BG",41,"",""
-"8391BG",47,"",""
-"8391BG",9,"",""
-"8391BG",53,"",""
-"8391BG",23,"",""
-"8391BG",55,"",""
-"8391BG",83,"",""
-"8391BG",19,"",""
-"8391BG",7,"",""
-"8391BG",59,"",""
-"8391BG",5,"",""
-"8391BG",85,"",""
-"8391BG",17,"",""
-"8391BG",45,"",""
-"8391BG",71,"",""
-"8391BG",39,"",""
-"8391BG",93,"",""
-"8391BG",91,"",""
-"8391BG",69,"",""
-"8391BG",29,"",""
-"8391BG",33,"",""
-"8391BG",27,"",""
-"8391BG",77,"",""
-"8391BG",21,"",""
-"8391BG",81,"",""
-"8391BG",67,"",""
-"8391BG",89,"",""
-"8391BG",3,"",""
-"8391BG",15,"",""
-"8391BG",11,"",""
-"8391BG",35,"",""
-"8391BG",65,"",""
-"8391BG",95,"",""
-"8391BG",9,"",""
-"8391BG",13,"","CAF"
-"8391BG",49,"",""
-"8391BG",57,"",""
-"8391BG",43,"",""
-"8391BG",25,"",""
-"8391BG",13,"","CAF"
-"8391BG",73,"",""
-"8391BG",75,"",""
-"8391BG",11,"",""
-"8391BG",13,"",""
-"8391BG",19,"",""
-"8391BG",87,"",""
-"8391BG",79,"",""
-"8391BG",31,"",""
-"8391BG",63,"",""
-"8391BG",61,"",""
-"8391BG",51,"",""
-"8391BT",17,"",""
-"8391BT",9,"",""
-"8391BT",5,"",""
-"8391BT",1,"",""
-"8391BT",13,"",""
-"8391BT",15,"",""
-"8391BT",3,"",""
-"8391BT",11,"",""
-"8391BT",7,"",""
-"8391BV",19,"",""
-"8391BZ",20,"",""
-"8391BZ",24,"",""
-"8391BZ",22,"",""
-"8391BZ",24,"",""
-"8391BZ",1,"",""
-"8391BZ",22,"",""
-"8391BZ",14,"",""
-"8391BZ",32,"",""
-"8391BZ",18,"",""
-"8391BZ",30,"",""
-"8391BZ",18,"",""
-"8391BZ",14,"",""
-"8391BZ",12,"",""
-"8391CP",7,"",""
-"8391CP",23,"",""
-"8391CP",5,"","TR01"
-"8391CP",9,"",""
-"8391CP",19,"",""
-"8391CP",3,"",""
-"8391CP",5,"",""
-"8391CP",13,"",""
-"8391CP",21,"",""
-"8391CP",17,"",""
-"8391CP",15,"",""
-"8391CP",11,"",""
-"8391CS",28,"",""
-"8391CS",32,"",""
-"8391CS",22,"",""
-"8391CS",40,"",""
-"8391CS",36,"",""
-"8391CS",10,"",""
-"8391CS",4,"B",""
-"8391CS",20,"",""
-"8391CS",34,"",""
-"8391CS",12,"",""
-"8391CS",2,"",""
-"8391CS",6,"",""
-"8391CS",38,"",""
-"8391CS",18,"",""
-"8391CS",16,"",""
-"8391CS",4,"A",""
-"8391CS",4,"",""
-"8391CS",26,"",""
-"8391CS",24,"",""
-"8391CS",30,"",""
-"8391CS",8,"",""
-"8391CS",14,"",""
-"8391HM",2,"",""
-"8391HM",9,"",""
-"8391HM",8,"",""
-"8391HM",5,"",""
-"8391HM",3,"",""
-"8391HM",1,"",""
-"8391HM",6,"",""
-"8391HM",4,"",""
-"8391HR",1,"",""
-"8391HR",2,"",""
-"8391HR",13,"A",""
-"8391HR",14,"",""
-"8391HR",2,"",""
-"8391HR",2,"",""
-"8391HR",13,"",""
-"8391HR",1,"",""
-"8391HR",3,"",""
-"8391HR",9,"",""
-"8391HR",2,"A",""
-"8391HR",1,"",""
-"8391HR",3,"",""
-"8391HR",3,"A",""
-"8391HR",8,"",""
-"8391HR",12,"",""
-"8391HR",10,"",""
-"8391HR",6,"",""
-"8391HR",12,"","TR01"
-"8391HR",3,"",""
-"8391HR",7,"",""
-"8391HR",5,"",""
-"8391HR",4,"",""
-"8391HR",5,"A",""
-"8391LK",28,"",""
-"8391LK",29,"",""
-"8391LK",2,"E",""
-"8391LK",31,"",""
-"8391LK",20,"",""
-"8391LK",6,"B",""
-"8391LK",2,"D",""
-"8391LK",2,"A",""
-"8391LK",33,"",""
-"8391LK",2,"B",""
-"8391LK",14,"",""
-"8391LK",4,"C",""
-"8391LK",10,"","TR01"
-"8391LK",35,"",""
-"8391LK",12,"",""
-"8391LK",4,"",""
-"8391LK",27,"",""
-"8391LK",26,"",""
-"8391LK",1,"",""
-"8391LK",10,"A",""
-"8391LK",22,"",""
-"8391LK",2,"",""
-"8391LK",6,"C",""
-"8391LK",30,"",""
-"8391LK",4,"A",""
-"8391LK",2,"C",""
-"8391LK",24,"",""
-"8391LK",6,"A",""
-"8391LK",18,"",""
-"8391LK",6,"",""
-"8391LK",16,"",""
-"8391LK",4,"B",""
-"8391VJ",4,"","TR01"
-"8391VJ",4,"",""
-"8391VJ",10,"",""
-"8391VJ",8,"",""
-"8391VJ",2,"",""
-"8391VJ",6,"",""
-"8391VJ",14,"",""
-"8391VJ",6,"",""
-"8391VJ",6,"",""
-"8391VJ",12,"",""
-8391HM,Bovenstreek,1,,
-8391HM,Bovenstreek,2,,
-8391HM,Bovenstreek,3,,
-8391HM,Bovenstreek,4,,
-8391HM,Bovenstreek,5,,
-8391HM,Bovenstreek,6,,
-8391HM,Bovenstreek,8,,
-8391HM,Bovenstreek,9,,
-8391HR,Dr.Mulderstraat,1,,
-8391HR,Dr.Mulderstraat,10,,
-8391HR,Dr.Mulderstraat,12,,
-8391HR,Dr.Mulderstraat,13,,
-8391HR,Dr.Mulderstraat,13,A,
-8391HR,Dr.Mulderstraat,14,,
-8391HR,Dr.Mulderstraat,2,,
-8391HR,Dr.Mulderstraat,3,,
-8391HR,Dr.Mulderstraat,5,,
-8391HR,Dr.Mulderstraat,6,,
-8391HR,Dr.Mulderstraat,7,,
-8391HR,Dr.Mulderstraat,8,,
-8391HR,Dr.Mulderstraat,9,,
-8391BT,Ds. Reitsmastraat,1,,
-8391BT,Ds. Reitsmastraat,11,,
-8391BT,Ds. Reitsmastraat,13,,
-8391BT,Ds. Reitsmastraat,15,,
-8391BT,Ds. Reitsmastraat,17,,
-8391BT,Ds. Reitsmastraat,3,,
-8391BT,Ds. Reitsmastraat,5,,
-8391BT,Ds. Reitsmastraat,7,,
-8391BT,Ds. Reitsmastraat,9,,
-8391BV,Ds. Reitsmastraat,19,,
-8391LK,Gelde,1,,
-8391LK,Gelde,10,,TR01
-8391LK,Gelde,10,A,
-8391LK,Gelde,12,,
-8391LK,Gelde,14,,
-8391LK,Gelde,16,,
-8391LK,Gelde,18,,
-8391LK,Gelde,2,,
-8391LK,Gelde,2,A,
-8391LK,Gelde,2,B,
-8391LK,Gelde,2,C,
-8391LK,Gelde,2,D,
-8391LK,Gelde,2,E,
-8391LK,Gelde,20,,
-8391LK,Gelde,22,,
-8391LK,Gelde,24,,
-8391LK,Gelde,26,,
-8391LK,Gelde,27,,
-8391LK,Gelde,28,,
-8391LK,Gelde,29,,
-8391LK,Gelde,30,,
-8391LK,Gelde,31,,
-8391LK,Gelde,33,,
-8391LK,Gelde,35,,
-8391LK,Gelde,4,,
-8391LK,Gelde,4,A,
-8391LK,Gelde,4,B,
-8391LK,Gelde,4,C,
-8391LK,Gelde,6,,
-8391LK,Gelde,6,A,
-8391LK,Gelde,6,B,
-8391LK,Gelde,6,C,
-8391AB,Hellingstraat,1,,
-8391AB,Hellingstraat,11,,
-8391AB,Hellingstraat,13,,
-8391AB,Hellingstraat,15,,
-8391AB,Hellingstraat,17,,
-8391AB,Hellingstraat,3,,
-8391AB,Hellingstraat,5,,
-8391AB,Hellingstraat,5,A,
-8391AB,Hellingstraat,7,,
-8391AB,Hellingstraat,9,,
-8391AC,Hellingstraat,19,,
-8391AC,Hellingstraat,21,,
-8391AC,Hellingstraat,23,,
-8391AC,Hellingstraat,25,,
-8391AC,Hellingstraat,27,,
-8391AC,Hellingstraat,29,,
-8391AC,Hellingstraat,33,,
-8391AC,Hellingstraat,35,,
-8391AC,Hellingstraat,37,,
-8391AC,Hellingstraat,41,,
-8391AC,Hellingstraat,47,,
-8391AC,Hellingstraat,49,,
-8391AC,Hellingstraat,51,,
-8391AC,Hellingstraat,53,,
-8391AC,Hellingstraat,55,,
-8391AC,Hellingstraat,57,,
-8391AC,Hellingstraat,57,A,
-8391AC,Hellingstraat,57,B,
-8391AC,Hellingstraat,59,,
-8391AC,Hellingstraat,61,,
-8391AC,Hellingstraat,63,,
-8391AC,Hellingstraat,65,,
-8391AS,Hoofdstraat Oost,1,,
-8391AS,Hoofdstraat Oost,11,,
-8391AS,Hoofdstraat Oost,13,,
-8391AS,Hoofdstraat Oost,15,,
-8391AS,Hoofdstraat Oost,17,,
-8391AS,Hoofdstraat Oost,19,,
-8391AS,Hoofdstraat Oost,23,,
-8391AS,Hoofdstraat Oost,5,,
-8391AS,Hoofdstraat Oost,7,,
-8391AT,Hoofdstraat Oost,29,,
-8391AT,Hoofdstraat Oost,33,,
-8391AT,Hoofdstraat Oost,35,,
-8391AT,Hoofdstraat Oost,37,,
-8391AT,Hoofdstraat Oost,37,A,
-8391AT,Hoofdstraat Oost,39,,
-8391AT,Hoofdstraat Oost,41,,
-8391AT,Hoofdstraat Oost,41,A,
-8391AT,Hoofdstraat Oost,41,B,
-8391AT,Hoofdstraat Oost,43,,
-8391AT,Hoofdstraat Oost,45,,
-8391AT,Hoofdstraat Oost,45,A,
-8391AT,Hoofdstraat Oost,45,B,
-8391AT,Hoofdstraat Oost,45,C,
-8391AT,Hoofdstraat Oost,47,,
-8391AT,Hoofdstraat Oost,47,A,
-8391AT,Hoofdstraat Oost,47,B,
-8391AT,Hoofdstraat Oost,49,,
-8391AT,Hoofdstraat Oost,51,,
-8391AT,Hoofdstraat Oost,53,,
-8391AT,Hoofdstraat Oost,55,,
-8391AT,Hoofdstraat Oost,57,,
-8391AV,Hoofdstraat Oost,10,,
-8391AV,Hoofdstraat Oost,10,A,
-8391AV,Hoofdstraat Oost,10,B,
-8391AV,Hoofdstraat Oost,10,C,
-8391AV,Hoofdstraat Oost,10,D,
-8391AV,Hoofdstraat Oost,10,E,
-8391AV,Hoofdstraat Oost,10,F,
-8391AV,Hoofdstraat Oost,10,G,
-8391AV,Hoofdstraat Oost,10,H,
-8391AV,Hoofdstraat Oost,10,I,
-8391AV,Hoofdstraat Oost,12,,
-8391AV,Hoofdstraat Oost,12,A,
-8391AV,Hoofdstraat Oost,12,B,
-8391AV,Hoofdstraat Oost,12,C,
-8391AV,Hoofdstraat Oost,12,D,
-8391AV,Hoofdstraat Oost,14,,
-8391AV,Hoofdstraat Oost,16,,
-8391AV,Hoofdstraat Oost,18,,
-8391AV,Hoofdstraat Oost,18,,BEDR
-8391AV,Hoofdstraat Oost,2,,
-8391AV,Hoofdstraat Oost,20,,
-8391AV,Hoofdstraat Oost,8,A,
-8391AW,Hoofdstraat Oost,36,,
-8391AW,Hoofdstraat Oost,38,,
-8391AW,Hoofdstraat Oost,42,,
-8391AW,Hoofdstraat Oost,44,,
-8391AW,Hoofdstraat Oost,44,A,
-8391AW,Hoofdstraat Oost,46,,
-8391AW,Hoofdstraat Oost,48,,
-8391AW,Hoofdstraat Oost,50,,
-8391AW,Hoofdstraat Oost,52,,
-8391AX,Hoofdstraat Oost,60,,
-8391AX,Hoofdstraat Oost,62,,
-8391AZ,Hoofdstraat Oost,64,,
-8391AZ,Hoofdstraat Oost,66,,
-8391AZ,Hoofdstraat Oost,68,,
-8391AZ,Hoofdstraat Oost,70,,
-8391AZ,Hoofdstraat Oost,72,A,
-8391AZ,Hoofdstraat Oost,72,B,
-8391AZ,Hoofdstraat Oost,72,C,
-8391AZ,Hoofdstraat Oost,72,D,
-8391AZ,Hoofdstraat Oost,74,,
-8391AK,Hoofdstraat West,1,,
-8391AK,Hoofdstraat West,1,A,
-8391AK,Hoofdstraat West,11,,
-8391AK,Hoofdstraat West,13,,
-8391AK,Hoofdstraat West,15,,
-8391AK,Hoofdstraat West,3,,
-8391AK,Hoofdstraat West,5,,
-8391AK,Hoofdstraat West,7,,
-8391AK,Hoofdstraat West,9,,
-8391AL,Hoofdstraat West,17,,
-8391AL,Hoofdstraat West,19,,
-8391AL,Hoofdstraat West,23,,
-8391AL,Hoofdstraat West,29,,
-8391AL,Hoofdstraat West,31,,
-8391AL,Hoofdstraat West,33,,
-8391AL,Hoofdstraat West,35,,
-8391AL,Hoofdstraat West,37,,
-8391AL,Hoofdstraat West,39,,
-8391AL,Hoofdstraat West,41,,
-8391AL,Hoofdstraat West,43,,
-8391AL,Hoofdstraat West,47,,
-8391AL,Hoofdstraat West,49,,
-8391AL,Hoofdstraat West,51,,
-8391AM,Hoofdstraat West,53,,
-8391AM,Hoofdstraat West,55,,
-8391AM,Hoofdstraat West,55,A,
-8391AM,Hoofdstraat West,57,,
-8391AM,Hoofdstraat West,59,,
-8391AM,Hoofdstraat West,61,,
-8391AM,Hoofdstraat West,63,,
-8391AM,Hoofdstraat West,65,,
-8391AM,Hoofdstraat West,67,,
-8391AM,Hoofdstraat West,69,,
-8391AM,Hoofdstraat West,71,,
-8391AM,Hoofdstraat West,71,,TR01
-8391AM,Hoofdstraat West,73,,
-8391AM,Hoofdstraat West,75,,
-8391AM,Hoofdstraat West,77,,
-8391AN,Hoofdstraat West,10,,
-8391AN,Hoofdstraat West,12,,
-8391AN,Hoofdstraat West,14,,
-8391AN,Hoofdstraat West,16,,
-8391AN,Hoofdstraat West,18,,
-8391AN,Hoofdstraat West,20,,
-8391AN,Hoofdstraat West,20,A,
-8391AN,Hoofdstraat West,22,,
-8391AN,Hoofdstraat West,24,,
-8391AN,Hoofdstraat West,26,,
-8391AN,Hoofdstraat West,28,,
-8391AN,Hoofdstraat West,30,,
-8391AN,Hoofdstraat West,4,,
-8391AN,Hoofdstraat West,4,A,
-8391AN,Hoofdstraat West,6,,
-8391AP,Hoofdstraat West,32,,
-8391AP,Hoofdstraat West,36,,
-8391AP,Hoofdstraat West,38,,
-8391AP,Hoofdstraat West,40,,
-8391AP,Hoofdstraat West,42,,
-8391AP,Hoofdstraat West,42,A,
-8391AP,Hoofdstraat West,44,,
-8391AP,Hoofdstraat West,46,,
-8391AP,Hoofdstraat West,48,,
-8391AP,Hoofdstraat West,48,A,
-8391AP,Hoofdstraat West,48,B,
-8391AP,Hoofdstraat West,50,,
-8391AP,Hoofdstraat West,50,,BEDR
-8391AP,Hoofdstraat West,52,,
-8391AP,Hoofdstraat West,54,,
-8391AR,Hoofdstraat West,56,,
-8391AR,Hoofdstraat West,58,,
-8391AR,Hoofdstraat West,60,,
-8391AR,Hoofdstraat West,62,,
-8391AR,Hoofdstraat West,64,,
-8391AR,Hoofdstraat West,66,,
-8391AR,Hoofdstraat West,70,,
-8391AG,Industriestraat,1,,
-8391AG,Industriestraat,1,,TR01
-8391AG,Industriestraat,1,B,
-8391AG,Industriestraat,10,,
-8391AG,Industriestraat,11,,
-8391AG,Industriestraat,12,,
-8391AG,Industriestraat,14,,
-8391AG,Industriestraat,16,,
-8391AG,Industriestraat,18,,
-8391AG,Industriestraat,2,,
-8391AG,Industriestraat,21,,
-8391AG,Industriestraat,22,,
-8391AG,Industriestraat,25,,
-8391AG,Industriestraat,27,,
-8391AG,Industriestraat,29,,
-8391AG,Industriestraat,3,,
-8391AG,Industriestraat,5,,
-8391AG,Industriestraat,6,,
-8391AG,Industriestraat,7,,
-8391AG,Industriestraat,8,,
-8391AG,Industriestraat,9,,
-8391BZ,Manauplein,1,,
-8391BZ,Manauplein,14,,
-8391BZ,Manauplein,18,,
-8391BZ,Manauplein,20,,
-8391BZ,Manauplein,22,,
-8391BZ,Manauplein,24,,
-8391BZ,Manauplein,30,,
-8391BZ,Manauplein,32,,
-8391BG,Mandehof,11,,
-8391BG,Mandehof,13,,
-8391BG,Mandehof,15,,
-8391BG,Mandehof,17,,
-8391BG,Mandehof,21,,
-8391BG,Mandehof,23,,
-8391BG,Mandehof,25,,
-8391BG,Mandehof,27,,
-8391BG,Mandehof,29,,
-8391BG,Mandehof,3,,
-8391BG,Mandehof,31,,
-8391BG,Mandehof,33,,
-8391BG,Mandehof,35,,
-8391BG,Mandehof,37,,
-8391BG,Mandehof,39,,
-8391BG,Mandehof,41,,
-8391BG,Mandehof,43,,
-8391BG,Mandehof,45,,
-8391BG,Mandehof,47,,
-8391BG,Mandehof,49,,
-8391BG,Mandehof,5,,
-8391BG,Mandehof,51,,
-8391BG,Mandehof,53,,
-8391BG,Mandehof,55,,
-8391BG,Mandehof,57,,
-8391BG,Mandehof,59,,
-8391BG,Mandehof,61,,
-8391BG,Mandehof,63,,
-8391BG,Mandehof,65,,
-8391BG,Mandehof,67,,
-8391BG,Mandehof,69,,
-8391BG,Mandehof,7,,
-8391BG,Mandehof,71,,
-8391BG,Mandehof,73,,
-8391BG,Mandehof,75,,
-8391BG,Mandehof,77,,
-8391BG,Mandehof,79,,
-8391BG,Mandehof,81,,
-8391BG,Mandehof,83,,
-8391BG,Mandehof,85,,
-8391BG,Mandehof,87,,
-8391BG,Mandehof,89,,
-8391BG,Mandehof,9,,
-8391BG,Mandehof,91,,
-8391BG,Mandehof,93,,
-8391BG,Mandehof,95,,
-8391VJ,Molenburen,10,,
-8391VJ,Molenburen,12,,
-8391VJ,Molenburen,14,,
-8391VJ,Molenburen,2,,
-8391VJ,Molenburen,4,,
-8391VJ,Molenburen,6,,
-8391VJ,Molenburen,8,,
-8391AN,Nijverheidsstraat,31,,
-8391BE,Rietvlechtstraat,1,,
-8391BE,Rietvlechtstraat,12,,
-8391BE,Rietvlechtstraat,13,,
-8391BE,Rietvlechtstraat,14,,
-8391BE,Rietvlechtstraat,15,,
-8391BE,Rietvlechtstraat,16,,
-8391BE,Rietvlechtstraat,18,,
-8391BE,Rietvlechtstraat,2,,
-8391BE,Rietvlechtstraat,3,,
-8391BE,Rietvlechtstraat,4,,
-8391BE,Rietvlechtstraat,5,,
-8391BE,Rietvlechtstraat,6,,
-8391BE,Rietvlechtstraat,7,,
-8391BE,Rietvlechtstraat,8,,
-8391CP,Rotanstraat,11,,
-8391CP,Rotanstraat,13,,
-8391CP,Rotanstraat,15,,
-8391CP,Rotanstraat,17,,
-8391CP,Rotanstraat,19,,
-8391CP,Rotanstraat,21,,
-8391CP,Rotanstraat,23,,
-8391CP,Rotanstraat,3,,
-8391CP,Rotanstraat,5,,
-8391CP,Rotanstraat,7,,
-8391CP,Rotanstraat,9,,
-8391CS,Rotanstraat,10,,
-8391CS,Rotanstraat,12,,
-8391CS,Rotanstraat,14,,
-8391CS,Rotanstraat,16,,
-8391CS,Rotanstraat,18,,
-8391CS,Rotanstraat,20,,
-8391CS,Rotanstraat,22,,
-8391CS,Rotanstraat,24,,
-8391CS,Rotanstraat,26,,
-8391CS,Rotanstraat,28,,
-8391CS,Rotanstraat,30,,
-8391CS,Rotanstraat,32,,
-8391CS,Rotanstraat,34,,
-8391CS,Rotanstraat,36,,
-8391CS,Rotanstraat,38,,
-8391CS,Rotanstraat,4,A,
-8391CS,Rotanstraat,4,B,
-8391CS,Rotanstraat,40,,
-8391CS,Rotanstraat,6,,
-8391CS,Rotanstraat,8,,
-8391AE,Weemstraat,1,,
-8391AE,Weemstraat,10,,
-8391AE,Weemstraat,11,,
-8391AE,Weemstraat,12,,
-8391AE,Weemstraat,13,A,
-8391AE,Weemstraat,14,,
-8391AE,Weemstraat,15,,
-8391AE,Weemstraat,15,,KANT
-8391AE,Weemstraat,16,,
-8391AE,Weemstraat,17,,
-8391AE,Weemstraat,17,A,
-8391AE,Weemstraat,17,B,
-8391AE,Weemstraat,18,,
-8391AE,Weemstraat,19,,
-8391AE,Weemstraat,2,,
-8391AE,Weemstraat,3,,
-8391AE,Weemstraat,4,,
-8391AE,Weemstraat,5,,
-8391AE,Weemstraat,6,,
-8391AE,Weemstraat,7,,
-8391AE,Weemstraat,8,,
-8391AE,Weemstraat,9,,
-8391HR,Dr.Mulderstraat,12,,TR01
-8391HR,Dr.Mulderstraat,5,A,
-8391HR,Dr.Mulderstraat,1,,
-8391HR,Dr.Mulderstraat,3,,
-8391HR,Dr.Mulderstraat,4,,
-8391HR,Dr.Mulderstraat,2,,
-8391HR,Dr.Mulderstraat,2,A,
-8391HR,Dr.Mulderstraat,3,A,
-8391AB,Hellingstraat,3,,
-8391AB,Hellingstraat,3,A,
-8391AC,Hellingstraat,65,A,
-8391AC,Hellingstraat,43,,
-8391AS,Hoofdstraat Oost,17,A,
-8391AS,Hoofdstraat Oost,19,,WINK
-8391AS,Hoofdstraat Oost,5,A,
-8391AS,Hoofdstraat Oost,1,,
-8391AS,Hoofdstraat Oost,1,A,
-8391AS,Hoofdstraat Oost,19,,
-8391AV,Hoofdstraat Oost,4,,
-8391AV,Hoofdstraat Oost,20,A,
-8391AV,Hoofdstraat Oost,4,,
-8391AV,Hoofdstraat Oost,4,A,
-8391AV,Hoofdstraat Oost,4,B,
-8391AV,Hoofdstraat Oost,4,C,
-8391AV,Hoofdstraat Oost,14,,
-8391AV,Hoofdstraat Oost,14,A,
-8391AV,Hoofdstraat Oost,14,B,
-8391AV,Hoofdstraat Oost,14,C,
-8391AV,Hoofdstraat Oost,16,,
-8391AV,Hoofdstraat Oost,16,A,
-8391AV,Hoofdstraat Oost,14,B,
-8391AK,Hoofdstraat West,1,,WINK
-8391AK,Hoofdstraat West,1,,
-8391AK,Hoofdstraat West,7,,WINK
-8391AK,Hoofdstraat West,15,,BEDR
-8391AK,Hoofdstraat West,11,A,
-8391AK,Hoofdstraat West,11,,
-8391AL,Hoofdstraat West,19,,
-8391AL,Hoofdstraat West,19,A,
-8391AL,Hoofdstraat West,19,B,
-8391AL,Hoofdstraat West,19,C,
-8391AL,Hoofdstraat West,19,D,
-8391AL,Hoofdstraat West,29,,
-8391AL,Hoofdstraat West,29,A,
-8391AM,Hoofdstraat West,73,,
-8391AM,Hoofdstraat West,73,A,
-8391AN,Hoofdstraat West,8,,
-8391AN,Hoofdstraat West,8,A,
-8391AN,Hoofdstraat West,10,,
-8391AN,Hoofdstraat West,10,A,
-8391AN,Hoofdstraat West,10,B,
-8391AN,Hoofdstraat West,4,,
-8391AN,Hoofdstraat West,4,B,
-8391AP,Hoofdstraat West,50,B,
-8391AR,Hoofdstraat West,56,A,
-8391AR,Hoofdstraat West,85,,
-8391AG,Industriestraat,16,,
-8391BZ,Manauplein,12,,
-8391BG,Mandehof,13,,CAF
-8391BG,Mandehof,19,,
-8391VJ,Molenburen,6,,
-8391VJ,Molenburen,4,,TR01
-8391CP,Rotanstraat,5,,TR01
-8391CS,Rotanstraat,4,,
-8391CS,Rotanstraat,2,,
-8391AE,Weemstraat,17,A,
-8391AE,Weemstraat,17,C,
-8391AE,Weemstraat,17,D,
-8391AE,Weemstraat,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hellingstraat,1,"","",8391AB,Noordwolde
+Hellingstraat,11,"","",8391AB,Noordwolde
+Hellingstraat,13,"","",8391AB,Noordwolde
+Hellingstraat,15,"","",8391AB,Noordwolde
+Hellingstraat,17,"","",8391AB,Noordwolde
+Hellingstraat,3,"","",8391AB,Noordwolde
+Hellingstraat,5,"","",8391AB,Noordwolde
+Hellingstraat,5,A,"",8391AB,Noordwolde
+Hellingstraat,7,"","",8391AB,Noordwolde
+Hellingstraat,9,"","",8391AB,Noordwolde
+Hellingstraat,19,"","",8391AC,Noordwolde
+Hellingstraat,21,"","",8391AC,Noordwolde
+Hellingstraat,23,"","",8391AC,Noordwolde
+Hellingstraat,25,"","",8391AC,Noordwolde
+Hellingstraat,27,"","",8391AC,Noordwolde
+Hellingstraat,29,"","",8391AC,Noordwolde
+Hellingstraat,33,"","",8391AC,Noordwolde
+Hellingstraat,35,"","",8391AC,Noordwolde
+Hellingstraat,37,"","",8391AC,Noordwolde
+Hellingstraat,41,"","",8391AC,Noordwolde
+Hellingstraat,43,"","",8391AC,Noordwolde
+Hellingstraat,47,"","",8391AC,Noordwolde
+Hellingstraat,49,"","",8391AC,Noordwolde
+Hellingstraat,51,"","",8391AC,Noordwolde
+Hellingstraat,53,"","",8391AC,Noordwolde
+Hellingstraat,55,"","",8391AC,Noordwolde
+Hellingstraat,57,"","",8391AC,Noordwolde
+Hellingstraat,57,A,"",8391AC,Noordwolde
+Hellingstraat,57,B,"",8391AC,Noordwolde
+Hellingstraat,59,"","",8391AC,Noordwolde
+Hellingstraat,61,"","",8391AC,Noordwolde
+Hellingstraat,63,"","",8391AC,Noordwolde
+Hellingstraat,65,"","",8391AC,Noordwolde
+Hellingstraat,65,A,"",8391AC,Noordwolde
+Weemstraat,1,"","",8391AE,Noordwolde
+Weemstraat,10,"","",8391AE,Noordwolde
+Weemstraat,11,"","",8391AE,Noordwolde
+Weemstraat,12,"","",8391AE,Noordwolde
+Weemstraat,13,A,"",8391AE,Noordwolde
+Weemstraat,14,"","",8391AE,Noordwolde
+Weemstraat,15,"","",8391AE,Noordwolde
+Weemstraat,15,"",KANT,8391AE,Noordwolde
+Weemstraat,17,"","",8391AE,Noordwolde
+Weemstraat,17,A,"",8391AE,Noordwolde
+Weemstraat,17,A,"",8391AE,Noordwolde
+Weemstraat,17,A,"",8391AE,Noordwolde
+Weemstraat,17,B,"",8391AE,Noordwolde
+Weemstraat,17,C,"",8391AE,Noordwolde
+Weemstraat,17,D,"",8391AE,Noordwolde
+Weemstraat,18,"","",8391AE,Noordwolde
+Weemstraat,19,"","",8391AE,Noordwolde
+Weemstraat,2,"","",8391AE,Noordwolde
+Weemstraat,2,"","",8391AE,Noordwolde
+Weemstraat,2,"","",8391AE,Noordwolde
+Weemstraat,3,"","",8391AE,Noordwolde
+Weemstraat,4,"","",8391AE,Noordwolde
+Weemstraat,5,"","",8391AE,Noordwolde
+Weemstraat,6,"","",8391AE,Noordwolde
+Weemstraat,7,"","",8391AE,Noordwolde
+Weemstraat,8,"","",8391AE,Noordwolde
+Weemstraat,9,"","",8391AE,Noordwolde
+Industriestraat,1,"","",8391AG,Noordwolde
+Industriestraat,1,"",TR01,8391AG,Noordwolde
+Industriestraat,1,B,"",8391AG,Noordwolde
+Industriestraat,10,"","",8391AG,Noordwolde
+Industriestraat,11,"","",8391AG,Noordwolde
+Industriestraat,12,"","",8391AG,Noordwolde
+Industriestraat,14,"","",8391AG,Noordwolde
+Industriestraat,16,"","",8391AG,Noordwolde
+Industriestraat,16,"","",8391AG,Noordwolde
+Industriestraat,16,"","",8391AG,Noordwolde
+Industriestraat,18,"","",8391AG,Noordwolde
+Industriestraat,2,"","",8391AG,Noordwolde
+Industriestraat,21,"","",8391AG,Noordwolde
+Industriestraat,22,"","",8391AG,Noordwolde
+Industriestraat,25,"","",8391AG,Noordwolde
+Industriestraat,27,"","",8391AG,Noordwolde
+Industriestraat,29,"","",8391AG,Noordwolde
+Industriestraat,3,"","",8391AG,Noordwolde
+Industriestraat,5,"","",8391AG,Noordwolde
+Industriestraat,6,"","",8391AG,Noordwolde
+Industriestraat,7,"","",8391AG,Noordwolde
+Industriestraat,8,"","",8391AG,Noordwolde
+Industriestraat,9,"","",8391AG,Noordwolde
+Hoofdstraat West,1,"","",8391AK,Noordwolde
+Hoofdstraat West,1,"","",8391AK,Noordwolde
+Hoofdstraat West,1,"",WINK,8391AK,Noordwolde
+Hoofdstraat West,1,A,"",8391AK,Noordwolde
+Hoofdstraat West,11,"","",8391AK,Noordwolde
+Hoofdstraat West,11,"","",8391AK,Noordwolde
+Hoofdstraat West,11,"","",8391AK,Noordwolde
+Hoofdstraat West,11,A,"",8391AK,Noordwolde
+Hoofdstraat West,11,A,"",8391AK,Noordwolde
+Hoofdstraat West,13,"","",8391AK,Noordwolde
+Hoofdstraat West,15,"","",8391AK,Noordwolde
+Hoofdstraat West,15,"",BEDR,8391AK,Noordwolde
+Hoofdstraat West,15,"",BEDR,8391AK,Noordwolde
+Hoofdstraat West,3,"","",8391AK,Noordwolde
+Hoofdstraat West,5,"","",8391AK,Noordwolde
+Hoofdstraat West,7,"","",8391AK,Noordwolde
+Hoofdstraat West,7,"",WINK,8391AK,Noordwolde
+Hoofdstraat West,9,"","",8391AK,Noordwolde
+Hoofdstraat West,17,"","",8391AL,Noordwolde
+Hoofdstraat West,19,"","",8391AL,Noordwolde
+Hoofdstraat West,19,"","",8391AL,Noordwolde
+Hoofdstraat West,19,"","",8391AL,Noordwolde
+Hoofdstraat West,19,A,"",8391AL,Noordwolde
+Hoofdstraat West,19,B,"",8391AL,Noordwolde
+Hoofdstraat West,19,C,"",8391AL,Noordwolde
+Hoofdstraat West,19,D,"",8391AL,Noordwolde
+Hoofdstraat West,23,"","",8391AL,Noordwolde
+Hoofdstraat West,29,"","",8391AL,Noordwolde
+Hoofdstraat West,29,"","",8391AL,Noordwolde
+Hoofdstraat West,29,"","",8391AL,Noordwolde
+Hoofdstraat West,29,A,"",8391AL,Noordwolde
+Hoofdstraat West,31,"","",8391AL,Noordwolde
+Hoofdstraat West,31,"","",8391AL,Noordwolde
+Hoofdstraat West,33,"","",8391AL,Noordwolde
+Hoofdstraat West,35,"","",8391AL,Noordwolde
+Hoofdstraat West,37,"","",8391AL,Noordwolde
+Hoofdstraat West,39,"","",8391AL,Noordwolde
+Hoofdstraat West,41,"","",8391AL,Noordwolde
+Hoofdstraat West,43,"","",8391AL,Noordwolde
+Hoofdstraat West,47,"","",8391AL,Noordwolde
+Hoofdstraat West,49,"","",8391AL,Noordwolde
+Hoofdstraat West,49,"","",8391AL,Noordwolde
+Hoofdstraat West,51,"","",8391AL,Noordwolde
+Hoofdstraat West,53,"","",8391AM,Noordwolde
+Hoofdstraat West,55,"","",8391AM,Noordwolde
+Hoofdstraat West,55,A,"",8391AM,Noordwolde
+Hoofdstraat West,57,"","",8391AM,Noordwolde
+Hoofdstraat West,59,"","",8391AM,Noordwolde
+Hoofdstraat West,61,"","",8391AM,Noordwolde
+Hoofdstraat West,63,"","",8391AM,Noordwolde
+Hoofdstraat West,65,"","",8391AM,Noordwolde
+Hoofdstraat West,67,"","",8391AM,Noordwolde
+Hoofdstraat West,69,"","",8391AM,Noordwolde
+Hoofdstraat West,71,"","",8391AM,Noordwolde
+Hoofdstraat West,71,"",TR01,8391AM,Noordwolde
+Hoofdstraat West,73,"","",8391AM,Noordwolde
+Hoofdstraat West,73,"","",8391AM,Noordwolde
+Hoofdstraat West,73,"","",8391AM,Noordwolde
+Hoofdstraat West,73,A,"",8391AM,Noordwolde
+Hoofdstraat West,75,"","",8391AM,Noordwolde
+Hoofdstraat West,77,"","",8391AM,Noordwolde
+Hoofdstraat West,10,"","",8391AN,Noordwolde
+Hoofdstraat West,10,"","",8391AN,Noordwolde
+Hoofdstraat West,10,"","",8391AN,Noordwolde
+Hoofdstraat West,10,A,"",8391AN,Noordwolde
+Hoofdstraat West,10,B,"",8391AN,Noordwolde
+Hoofdstraat West,12,"","",8391AN,Noordwolde
+Hoofdstraat West,14,"","",8391AN,Noordwolde
+Hoofdstraat West,16,"","",8391AN,Noordwolde
+Hoofdstraat West,18,"","",8391AN,Noordwolde
+Hoofdstraat West,20,"","",8391AN,Noordwolde
+Hoofdstraat West,20,A,"",8391AN,Noordwolde
+Hoofdstraat West,22,"","",8391AN,Noordwolde
+Hoofdstraat West,24,"","",8391AN,Noordwolde
+Hoofdstraat West,26,"","",8391AN,Noordwolde
+Hoofdstraat West,28,"","",8391AN,Noordwolde
+Hoofdstraat West,30,"","",8391AN,Noordwolde
+Nijverheidsstraat,31,"","",8391AN,Noordwolde
+Hoofdstraat West,4,"","",8391AN,Noordwolde
+Hoofdstraat West,4,"","",8391AN,Noordwolde
+Hoofdstraat West,4,"","",8391AN,Noordwolde
+Hoofdstraat West,4,A,"",8391AN,Noordwolde
+Hoofdstraat West,4,B,"",8391AN,Noordwolde
+Hoofdstraat West,6,"","",8391AN,Noordwolde
+Hoofdstraat West,8,"","",8391AN,Noordwolde
+Hoofdstraat West,8,A,"",8391AN,Noordwolde
+Hoofdstraat West,32,"","",8391AP,Noordwolde
+Hoofdstraat West,36,"","",8391AP,Noordwolde
+Hoofdstraat West,38,"","",8391AP,Noordwolde
+Hoofdstraat West,40,"","",8391AP,Noordwolde
+Hoofdstraat West,42,"","",8391AP,Noordwolde
+Hoofdstraat West,42,A,"",8391AP,Noordwolde
+Hoofdstraat West,44,"","",8391AP,Noordwolde
+Hoofdstraat West,46,"","",8391AP,Noordwolde
+Hoofdstraat West,48,"","",8391AP,Noordwolde
+Hoofdstraat West,48,A,"",8391AP,Noordwolde
+Hoofdstraat West,48,B,"",8391AP,Noordwolde
+Hoofdstraat West,50,"","",8391AP,Noordwolde
+Hoofdstraat West,50,"",BEDR,8391AP,Noordwolde
+Hoofdstraat West,50,B,"",8391AP,Noordwolde
+Hoofdstraat West,52,"","",8391AP,Noordwolde
+Hoofdstraat West,54,"","",8391AP,Noordwolde
+Hoofdstraat West,56,"","",8391AR,Noordwolde
+Hoofdstraat West,56,A,"",8391AR,Noordwolde
+Hoofdstraat West,58,"","",8391AR,Noordwolde
+Hoofdstraat West,60,"","",8391AR,Noordwolde
+Hoofdstraat West,62,"","",8391AR,Noordwolde
+Hoofdstraat West,64,"","",8391AR,Noordwolde
+Hoofdstraat West,66,"","",8391AR,Noordwolde
+Hoofdstraat West,70,"","",8391AR,Noordwolde
+Hoofdstraat West,85,"","",8391AR,Noordwolde
+Hoofdstraat Oost,1,"","",8391AS,Noordwolde
+Hoofdstraat Oost,1,"","",8391AS,Noordwolde
+Hoofdstraat Oost,1,"","",8391AS,Noordwolde
+Hoofdstraat Oost,1,A,"",8391AS,Noordwolde
+Hoofdstraat Oost,11,"","",8391AS,Noordwolde
+Hoofdstraat Oost,13,"","",8391AS,Noordwolde
+Hoofdstraat Oost,15,"","",8391AS,Noordwolde
+Hoofdstraat Oost,17,"","",8391AS,Noordwolde
+Hoofdstraat Oost,17,A,"",8391AS,Noordwolde
+Hoofdstraat Oost,19,"","",8391AS,Noordwolde
+Hoofdstraat Oost,19,"",WINK,8391AS,Noordwolde
+Hoofdstraat Oost,23,"","",8391AS,Noordwolde
+Hoofdstraat Oost,5,"","",8391AS,Noordwolde
+Hoofdstraat Oost,5,A,"",8391AS,Noordwolde
+Hoofdstraat Oost,7,"","",8391AS,Noordwolde
+Hoofdstraat Oost,7,"","",8391AS,Noordwolde
+Hoofdstraat Oost,29,"","",8391AT,Noordwolde
+Hoofdstraat Oost,33,"","",8391AT,Noordwolde
+Hoofdstraat Oost,35,"","",8391AT,Noordwolde
+Hoofdstraat Oost,37,"","",8391AT,Noordwolde
+Hoofdstraat Oost,37,A,"",8391AT,Noordwolde
+Hoofdstraat Oost,39,"","",8391AT,Noordwolde
+Hoofdstraat Oost,41,"","",8391AT,Noordwolde
+Hoofdstraat Oost,41,A,"",8391AT,Noordwolde
+Hoofdstraat Oost,41,B,"",8391AT,Noordwolde
+Hoofdstraat Oost,43,"","",8391AT,Noordwolde
+Hoofdstraat Oost,45,"","",8391AT,Noordwolde
+Hoofdstraat Oost,45,A,"",8391AT,Noordwolde
+Hoofdstraat Oost,45,B,"",8391AT,Noordwolde
+Hoofdstraat Oost,45,C,"",8391AT,Noordwolde
+Hoofdstraat Oost,47,"","",8391AT,Noordwolde
+Hoofdstraat Oost,47,A,"",8391AT,Noordwolde
+Hoofdstraat Oost,47,B,"",8391AT,Noordwolde
+Hoofdstraat Oost,49,"","",8391AT,Noordwolde
+Hoofdstraat Oost,51,"","",8391AT,Noordwolde
+Hoofdstraat Oost,53,"","",8391AT,Noordwolde
+Hoofdstraat Oost,55,"","",8391AT,Noordwolde
+Hoofdstraat Oost,57,"","",8391AT,Noordwolde
+Hoofdstraat Oost,10,"","",8391AV,Noordwolde
+Hoofdstraat Oost,10,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,C,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,D,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,E,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,F,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,G,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,H,"",8391AV,Noordwolde
+Hoofdstraat Oost,10,I,"",8391AV,Noordwolde
+Hoofdstraat Oost,12,"","",8391AV,Noordwolde
+Hoofdstraat Oost,12,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,12,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,12,C,"",8391AV,Noordwolde
+Hoofdstraat Oost,12,D,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,"","",8391AV,Noordwolde
+Hoofdstraat Oost,14,"","",8391AV,Noordwolde
+Hoofdstraat Oost,14,"","",8391AV,Noordwolde
+Hoofdstraat Oost,14,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,C,"",8391AV,Noordwolde
+Hoofdstraat Oost,14,C,"",8391AV,Noordwolde
+Hoofdstraat Oost,16,"","",8391AV,Noordwolde
+Hoofdstraat Oost,16,"","",8391AV,Noordwolde
+Hoofdstraat Oost,16,"","",8391AV,Noordwolde
+Hoofdstraat Oost,16,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,16,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,18,"","",8391AV,Noordwolde
+Hoofdstraat Oost,18,"",BEDR,8391AV,Noordwolde
+Hoofdstraat Oost,2,"","",8391AV,Noordwolde
+Hoofdstraat Oost,20,"","",8391AV,Noordwolde
+Hoofdstraat Oost,20,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,4,"","",8391AV,Noordwolde
+Hoofdstraat Oost,4,"","",8391AV,Noordwolde
+Hoofdstraat Oost,4,"","",8391AV,Noordwolde
+Hoofdstraat Oost,4,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,4,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,4,B,"",8391AV,Noordwolde
+Hoofdstraat Oost,4,C,"",8391AV,Noordwolde
+Hoofdstraat Oost,4,C,"",8391AV,Noordwolde
+Hoofdstraat Oost,8,A,"",8391AV,Noordwolde
+Hoofdstraat Oost,36,"","",8391AW,Noordwolde
+Hoofdstraat Oost,38,"","",8391AW,Noordwolde
+Hoofdstraat Oost,42,"","",8391AW,Noordwolde
+Hoofdstraat Oost,44,"","",8391AW,Noordwolde
+Hoofdstraat Oost,44,A,"",8391AW,Noordwolde
+Hoofdstraat Oost,46,"","",8391AW,Noordwolde
+Hoofdstraat Oost,48,"","",8391AW,Noordwolde
+Hoofdstraat Oost,50,"","",8391AW,Noordwolde
+Hoofdstraat Oost,52,"","",8391AW,Noordwolde
+Hoofdstraat Oost,60,"","",8391AX,Noordwolde
+Hoofdstraat Oost,62,"","",8391AX,Noordwolde
+Hoofdstraat Oost,64,"","",8391AZ,Noordwolde
+Hoofdstraat Oost,66,"","",8391AZ,Noordwolde
+Hoofdstraat Oost,68,"","",8391AZ,Noordwolde
+Hoofdstraat Oost,70,"","",8391AZ,Noordwolde
+Hoofdstraat Oost,72,A,"",8391AZ,Noordwolde
+Hoofdstraat Oost,72,B,"",8391AZ,Noordwolde
+Hoofdstraat Oost,72,C,"",8391AZ,Noordwolde
+Hoofdstraat Oost,72,D,"",8391AZ,Noordwolde
+Hoofdstraat Oost,74,"","",8391AZ,Noordwolde
+Rietvlechtstraat,1,"","",8391BE,Noordwolde
+Rietvlechtstraat,12,"","",8391BE,Noordwolde
+Rietvlechtstraat,13,"","",8391BE,Noordwolde
+Rietvlechtstraat,14,"","",8391BE,Noordwolde
+Rietvlechtstraat,15,"","",8391BE,Noordwolde
+Rietvlechtstraat,16,"","",8391BE,Noordwolde
+Rietvlechtstraat,18,"","",8391BE,Noordwolde
+Rietvlechtstraat,2,"","",8391BE,Noordwolde
+Rietvlechtstraat,3,"","",8391BE,Noordwolde
+Rietvlechtstraat,4,"","",8391BE,Noordwolde
+Rietvlechtstraat,5,"","",8391BE,Noordwolde
+Rietvlechtstraat,6,"","",8391BE,Noordwolde
+Rietvlechtstraat,7,"","",8391BE,Noordwolde
+Rietvlechtstraat,8,"","",8391BE,Noordwolde
+Mandehof,11,"","",8391BG,Noordwolde
+Mandehof,11,"","",8391BG,Noordwolde
+Mandehof,13,"","",8391BG,Noordwolde
+Mandehof,13,"",CAF,8391BG,Noordwolde
+Mandehof,13,"",CAF,8391BG,Noordwolde
+Mandehof,15,"","",8391BG,Noordwolde
+Mandehof,17,"","",8391BG,Noordwolde
+Mandehof,19,"","",8391BG,Noordwolde
+Mandehof,19,"","",8391BG,Noordwolde
+Mandehof,21,"","",8391BG,Noordwolde
+Mandehof,23,"","",8391BG,Noordwolde
+Mandehof,25,"","",8391BG,Noordwolde
+Mandehof,27,"","",8391BG,Noordwolde
+Mandehof,29,"","",8391BG,Noordwolde
+Mandehof,3,"","",8391BG,Noordwolde
+Mandehof,31,"","",8391BG,Noordwolde
+Mandehof,33,"","",8391BG,Noordwolde
+Mandehof,35,"","",8391BG,Noordwolde
+Mandehof,37,"","",8391BG,Noordwolde
+Mandehof,39,"","",8391BG,Noordwolde
+Mandehof,41,"","",8391BG,Noordwolde
+Mandehof,43,"","",8391BG,Noordwolde
+Mandehof,45,"","",8391BG,Noordwolde
+Mandehof,47,"","",8391BG,Noordwolde
+Mandehof,49,"","",8391BG,Noordwolde
+Mandehof,5,"","",8391BG,Noordwolde
+Mandehof,51,"","",8391BG,Noordwolde
+Mandehof,53,"","",8391BG,Noordwolde
+Mandehof,55,"","",8391BG,Noordwolde
+Mandehof,57,"","",8391BG,Noordwolde
+Mandehof,59,"","",8391BG,Noordwolde
+Mandehof,61,"","",8391BG,Noordwolde
+Mandehof,63,"","",8391BG,Noordwolde
+Mandehof,65,"","",8391BG,Noordwolde
+Mandehof,67,"","",8391BG,Noordwolde
+Mandehof,69,"","",8391BG,Noordwolde
+Mandehof,7,"","",8391BG,Noordwolde
+Mandehof,71,"","",8391BG,Noordwolde
+Mandehof,73,"","",8391BG,Noordwolde
+Mandehof,75,"","",8391BG,Noordwolde
+Mandehof,77,"","",8391BG,Noordwolde
+Mandehof,79,"","",8391BG,Noordwolde
+Mandehof,81,"","",8391BG,Noordwolde
+Mandehof,83,"","",8391BG,Noordwolde
+Mandehof,85,"","",8391BG,Noordwolde
+Mandehof,87,"","",8391BG,Noordwolde
+Mandehof,89,"","",8391BG,Noordwolde
+Mandehof,9,"","",8391BG,Noordwolde
+Mandehof,9,"","",8391BG,Noordwolde
+Mandehof,91,"","",8391BG,Noordwolde
+Mandehof,93,"","",8391BG,Noordwolde
+Mandehof,95,"","",8391BG,Noordwolde
+Ds. Reitsmastraat,1,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,11,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,13,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,15,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,17,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,3,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,5,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,7,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,9,"","",8391BT,Noordwolde
+Ds. Reitsmastraat,19,"","",8391BV,Noordwolde
+Manauplein,1,"","",8391BZ,Noordwolde
+Manauplein,12,"","",8391BZ,Noordwolde
+Manauplein,14,"","",8391BZ,Noordwolde
+Manauplein,14,"","",8391BZ,Noordwolde
+Manauplein,18,"","",8391BZ,Noordwolde
+Manauplein,18,"","",8391BZ,Noordwolde
+Manauplein,20,"","",8391BZ,Noordwolde
+Manauplein,22,"","",8391BZ,Noordwolde
+Manauplein,22,"","",8391BZ,Noordwolde
+Manauplein,24,"","",8391BZ,Noordwolde
+Manauplein,24,"","",8391BZ,Noordwolde
+Manauplein,30,"","",8391BZ,Noordwolde
+Manauplein,32,"","",8391BZ,Noordwolde
+Rotanstraat,11,"","",8391CP,Noordwolde
+Rotanstraat,13,"","",8391CP,Noordwolde
+Rotanstraat,15,"","",8391CP,Noordwolde
+Rotanstraat,17,"","",8391CP,Noordwolde
+Rotanstraat,19,"","",8391CP,Noordwolde
+Rotanstraat,21,"","",8391CP,Noordwolde
+Rotanstraat,23,"","",8391CP,Noordwolde
+Rotanstraat,3,"","",8391CP,Noordwolde
+Rotanstraat,5,"","",8391CP,Noordwolde
+Rotanstraat,5,"",TR01,8391CP,Noordwolde
+Rotanstraat,7,"","",8391CP,Noordwolde
+Rotanstraat,9,"","",8391CP,Noordwolde
+Rotanstraat,10,"","",8391CS,Noordwolde
+Rotanstraat,12,"","",8391CS,Noordwolde
+Rotanstraat,14,"","",8391CS,Noordwolde
+Rotanstraat,16,"","",8391CS,Noordwolde
+Rotanstraat,18,"","",8391CS,Noordwolde
+Rotanstraat,2,"","",8391CS,Noordwolde
+Rotanstraat,20,"","",8391CS,Noordwolde
+Rotanstraat,22,"","",8391CS,Noordwolde
+Rotanstraat,24,"","",8391CS,Noordwolde
+Rotanstraat,26,"","",8391CS,Noordwolde
+Rotanstraat,28,"","",8391CS,Noordwolde
+Rotanstraat,30,"","",8391CS,Noordwolde
+Rotanstraat,32,"","",8391CS,Noordwolde
+Rotanstraat,34,"","",8391CS,Noordwolde
+Rotanstraat,36,"","",8391CS,Noordwolde
+Rotanstraat,38,"","",8391CS,Noordwolde
+Rotanstraat,4,"","",8391CS,Noordwolde
+Rotanstraat,4,A,"",8391CS,Noordwolde
+Rotanstraat,4,B,"",8391CS,Noordwolde
+Rotanstraat,40,"","",8391CS,Noordwolde
+Rotanstraat,6,"","",8391CS,Noordwolde
+Rotanstraat,8,"","",8391CS,Noordwolde
+Bovenstreek,1,"","",8391HM,Noordwolde
+Bovenstreek,2,"","",8391HM,Noordwolde
+Bovenstreek,3,"","",8391HM,Noordwolde
+Bovenstreek,4,"","",8391HM,Noordwolde
+Bovenstreek,5,"","",8391HM,Noordwolde
+Bovenstreek,6,"","",8391HM,Noordwolde
+Bovenstreek,8,"","",8391HM,Noordwolde
+Bovenstreek,9,"","",8391HM,Noordwolde
+Dr.Mulderstraat,1,"","",8391HR,Noordwolde
+Dr.Mulderstraat,1,"","",8391HR,Noordwolde
+Dr.Mulderstraat,1,"","",8391HR,Noordwolde
+Dr.Mulderstraat,10,"","",8391HR,Noordwolde
+Dr.Mulderstraat,12,"","",8391HR,Noordwolde
+Dr.Mulderstraat,12,"",TR01,8391HR,Noordwolde
+Dr.Mulderstraat,13,"","",8391HR,Noordwolde
+Dr.Mulderstraat,13,A,"",8391HR,Noordwolde
+Dr.Mulderstraat,14,"","",8391HR,Noordwolde
+Dr.Mulderstraat,2,"","",8391HR,Noordwolde
+Dr.Mulderstraat,2,"","",8391HR,Noordwolde
+Dr.Mulderstraat,2,"","",8391HR,Noordwolde
+Dr.Mulderstraat,2,A,"",8391HR,Noordwolde
+Dr.Mulderstraat,3,"","",8391HR,Noordwolde
+Dr.Mulderstraat,3,"","",8391HR,Noordwolde
+Dr.Mulderstraat,3,"","",8391HR,Noordwolde
+Dr.Mulderstraat,3,A,"",8391HR,Noordwolde
+Dr.Mulderstraat,4,"","",8391HR,Noordwolde
+Dr.Mulderstraat,5,"","",8391HR,Noordwolde
+Dr.Mulderstraat,5,A,"",8391HR,Noordwolde
+Dr.Mulderstraat,6,"","",8391HR,Noordwolde
+Dr.Mulderstraat,7,"","",8391HR,Noordwolde
+Dr.Mulderstraat,8,"","",8391HR,Noordwolde
+Dr.Mulderstraat,9,"","",8391HR,Noordwolde
+Gelde,1,"","",8391LK,Noordwolde
+Gelde,10,"",TR01,8391LK,Noordwolde
+Gelde,10,A,"",8391LK,Noordwolde
+Gelde,12,"","",8391LK,Noordwolde
+Gelde,14,"","",8391LK,Noordwolde
+Gelde,16,"","",8391LK,Noordwolde
+Gelde,18,"","",8391LK,Noordwolde
+Gelde,2,"","",8391LK,Noordwolde
+Gelde,2,A,"",8391LK,Noordwolde
+Gelde,2,B,"",8391LK,Noordwolde
+Gelde,2,C,"",8391LK,Noordwolde
+Gelde,2,D,"",8391LK,Noordwolde
+Gelde,2,E,"",8391LK,Noordwolde
+Gelde,20,"","",8391LK,Noordwolde
+Gelde,22,"","",8391LK,Noordwolde
+Gelde,24,"","",8391LK,Noordwolde
+Gelde,26,"","",8391LK,Noordwolde
+Gelde,27,"","",8391LK,Noordwolde
+Gelde,28,"","",8391LK,Noordwolde
+Gelde,29,"","",8391LK,Noordwolde
+Gelde,30,"","",8391LK,Noordwolde
+Gelde,31,"","",8391LK,Noordwolde
+Gelde,33,"","",8391LK,Noordwolde
+Gelde,35,"","",8391LK,Noordwolde
+Gelde,4,"","",8391LK,Noordwolde
+Gelde,4,A,"",8391LK,Noordwolde
+Gelde,4,B,"",8391LK,Noordwolde
+Gelde,4,C,"",8391LK,Noordwolde
+Gelde,6,"","",8391LK,Noordwolde
+Gelde,6,A,"",8391LK,Noordwolde
+Gelde,6,B,"",8391LK,Noordwolde
+Gelde,6,C,"",8391LK,Noordwolde
+Molenburen,10,"","",8391VJ,Noordwolde
+Molenburen,12,"","",8391VJ,Noordwolde
+Molenburen,14,"","",8391VJ,Noordwolde
+Molenburen,2,"","",8391VJ,Noordwolde
+Molenburen,4,"","",8391VJ,Noordwolde
+Molenburen,4,"",TR01,8391VJ,Noordwolde
+Molenburen,6,"","",8391VJ,Noordwolde
+Molenburen,6,"","",8391VJ,Noordwolde
+Molenburen,6,"","",8391VJ,Noordwolde
+Molenburen,8,"","",8391VJ,Noordwolde

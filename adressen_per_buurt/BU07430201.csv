@@ -1,99 +1,99 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5721RV,Buizerdweg,9,,
-5721RV,Buizerdweg,11,,
-5721RV,Buizerdweg,16,,
-5721RV,Buizerdweg,18,,
-5721RV,Buizerdweg,4,,
-5721RV,Buizerdweg,4,,
-5721RV,Buizerdweg,18,,
-5721SH,Ericaweg,3,,
-5721PT,Gruttoweg,17,,
-5721PT,Gruttoweg,19,,
-5721PT,Gruttoweg,21,,
-5721PT,Gruttoweg,17,a,
-5721PT,Gruttoweg,17,a,
-5721SL,Hutten,2,,
-5721SL,Hutten,9,,
-5721SL,Hutten,10,,
-5721SL,Hutten,10,,
-5721SL,Hutten,11,,
-5721SL,Hutten,13,,
-5721SL,Hutten,12,,
-5721SL,Hutten,15,,
-5721SL,Hutten,15,,
-5721SB,Kleine Heitrak,1,A,
-5721SB,Kleine Heitrak,1,a,
-5721SB,Kleine Heitrak,1,a,
-5721SB,Kleine Heitrak,1,,
-5721SB,Kleine Heitrak,3,A,
-5721SB,Kleine Heitrak,3,a,
-5721SB,Kleine Heitrak,3,a,
-5721SB,Kleine Heitrak,3,,
-5721SB,Kleine Heitrak,5,,
-5721SB,Kleine Heitrak,7,,
-5721SB,Kleine Heitrak,15,,
-5721SB,Kleine Heitrak,19,,
-5721SB,Kleine Heitrak,21,,
-5721SB,Kleine Heitrak,25,A,
-5721SB,Kleine Heitrak,25,a,
-5721SB,Kleine Heitrak,25,a,
-5721SB,Kleine Heitrak,25,,
-5721SB,Kleine Heitrak,33,,
-5721SB,Kleine Heitrak,37,,
-5721SB,Kleine Heitrak,41,,
-5721SB,Kleine Heitrak,47,,
-5721SB,Kleine Heitrak,5,a,
-5721SB,Kleine Heitrak,13,,
-5721SB,Kleine Heitrak,17,,
-5721SB,Kleine Heitrak,19,a,
-5721SB,Kleine Heitrak,17,,
-5721SB,Kleine Heitrak,7,a,
-5721SB,Kleine Heitrak,7,,
-5721SC,Kleine Heitrak,8,,
-5721SC,Kleine Heitrak,10,A,
-5721SC,Kleine Heitrak,10,a,
-5721SC,Kleine Heitrak,10,a,
-5721SC,Kleine Heitrak,12,,
-5721SC,Kleine Heitrak,20,,
-5721SC,Kleine Heitrak,22,,
-5721SC,Kleine Heitrak,30,,
-5721SC,Kleine Heitrak,34,,
-5721SC,Kleine Heitrak,36,,
-5721SC,Kleine Heitrak,38,,
-5721SC,Kleine Heitrak,4,,
-5721SC,Kleine Heitrak,10,,
-5721SC,Kleine Heitrak,40,,
-5721SC,Kleine Heitrak,42,,
-5721SC,Kleine Heitrak,44,,
-5721SC,Kleine Heitrak,36,a,
-5721SC,Kleine Heitrak,8,a,
-5721SC,Kleine Heitrak,36,b,
-5721SC,Kleine Heitrak,36,,
-5721SC,Kleine Heitrak,34,z,
-5721PV,Meerkoetweg,14,,
-5721PV,Meerkoetweg,15,,
-5721PV,Meerkoetweg,9,,
-5721PV,Meerkoetweg,12,,
-5721PV,Meerkoetweg,9,a,
-5721SK,Pijlstaartweg,14,,
-5721SK,Pijlstaartweg,18,,
-5721SK,Pijlstaartweg,19,,
-5721SK,Pijlstaartweg,5,,
-5721SK,Pijlstaartweg,10,,
-5721SK,Pijlstaartweg,13,,
-5721SK,Pijlstaartweg,17,,
-5721SK,Pijlstaartweg,13,a,
-5721SK,Pijlstaartweg,16,,
-5721SK,Pijlstaartweg,17,,
-5721RZ,Tureluurweg,7,,
-5721RZ,Tureluurweg,3,,
-5721RZ,Tureluurweg,5,,
-5721RZ,Tureluurweg,2,,
-5721PT,Gruttoweg,17,a,
-5721PT,Gruttoweg,17,,
-5721PT,Gruttoweg,19,,
-5721PT,Gruttoweg,21,,
-5721PW,Sperwerstraat,6,,
-5721PW,Sperwerstraat,10,,
-5721PW,Sperwerstraat,10,,
-5721PS,Vlosbergweg,15,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vlosbergweg,15,"","",5721PS,Asten
+Gruttoweg,17,"","",5721PT,Heusden
+Gruttoweg,17,"","",5721PT,Heusden
+Gruttoweg,17,A,"",5721PT,Heusden
+Gruttoweg,17,A,"",5721PT,Heusden
+Gruttoweg,17,A,"",5721PT,Heusden
+Gruttoweg,19,"","",5721PT,Heusden
+Gruttoweg,19,"","",5721PT,Heusden
+Gruttoweg,21,"","",5721PT,Heusden
+Gruttoweg,21,"","",5721PT,Heusden
+Meerkoetweg,12,"","",5721PV,Asten
+Meerkoetweg,14,"","",5721PV,Asten
+Meerkoetweg,15,"","",5721PV,Asten
+Meerkoetweg,9,"","",5721PV,Asten
+Meerkoetweg,9,A,"",5721PV,Asten
+Sperwerstraat,10,"","",5721PW,Asten
+Sperwerstraat,10,"","",5721PW,Asten
+Sperwerstraat,6,"","",5721PW,Asten
+Buizerdweg,11,"","",5721RV,Asten
+Buizerdweg,16,"","",5721RV,Asten
+Buizerdweg,18,"","",5721RV,Asten
+Buizerdweg,18,"","",5721RV,Asten
+Buizerdweg,4,"","",5721RV,Asten
+Buizerdweg,4,"","",5721RV,Asten
+Buizerdweg,9,"","",5721RV,Asten
+Tureluurweg,2,"","",5721RZ,Asten
+Tureluurweg,3,"","",5721RZ,Asten
+Tureluurweg,5,"","",5721RZ,Asten
+Tureluurweg,7,"","",5721RZ,Asten
+Kleine Heitrak,1,"","",5721SB,Asten
+Kleine Heitrak,1,A,"",5721SB,Asten
+Kleine Heitrak,1,A,"",5721SB,Asten
+Kleine Heitrak,1,A,"",5721SB,Asten
+Kleine Heitrak,13,"","",5721SB,Asten
+Kleine Heitrak,15,"","",5721SB,Asten
+Kleine Heitrak,17,"","",5721SB,Asten
+Kleine Heitrak,17,"","",5721SB,Asten
+Kleine Heitrak,19,"","",5721SB,Asten
+Kleine Heitrak,19,A,"",5721SB,Asten
+Kleine Heitrak,21,"","",5721SB,Asten
+Kleine Heitrak,25,"","",5721SB,Asten
+Kleine Heitrak,25,A,"",5721SB,Asten
+Kleine Heitrak,25,A,"",5721SB,Asten
+Kleine Heitrak,25,A,"",5721SB,Asten
+Kleine Heitrak,3,"","",5721SB,Asten
+Kleine Heitrak,3,A,"",5721SB,Asten
+Kleine Heitrak,3,A,"",5721SB,Asten
+Kleine Heitrak,3,A,"",5721SB,Asten
+Kleine Heitrak,33,"","",5721SB,Asten
+Kleine Heitrak,37,"","",5721SB,Asten
+Kleine Heitrak,41,"","",5721SB,Asten
+Kleine Heitrak,47,"","",5721SB,Asten
+Kleine Heitrak,5,"","",5721SB,Asten
+Kleine Heitrak,5,A,"",5721SB,Asten
+Kleine Heitrak,7,"","",5721SB,Asten
+Kleine Heitrak,7,"","",5721SB,Asten
+Kleine Heitrak,7,A,"",5721SB,Asten
+Kleine Heitrak,10,"","",5721SC,Asten
+Kleine Heitrak,10,A,"",5721SC,Asten
+Kleine Heitrak,10,A,"",5721SC,Asten
+Kleine Heitrak,10,A,"",5721SC,Asten
+Kleine Heitrak,12,"","",5721SC,Asten
+Kleine Heitrak,20,"","",5721SC,Asten
+Kleine Heitrak,22,"","",5721SC,Asten
+Kleine Heitrak,30,"","",5721SC,Asten
+Kleine Heitrak,34,"","",5721SC,Asten
+Kleine Heitrak,34,Z,"",5721SC,Asten
+Kleine Heitrak,36,"","",5721SC,Asten
+Kleine Heitrak,36,"","",5721SC,Asten
+Kleine Heitrak,36,A,"",5721SC,Asten
+Kleine Heitrak,36,B,"",5721SC,Asten
+Kleine Heitrak,38,"","",5721SC,Asten
+Kleine Heitrak,4,"","",5721SC,Asten
+Kleine Heitrak,40,"","",5721SC,Asten
+Kleine Heitrak,42,"","",5721SC,Asten
+Kleine Heitrak,44,"","",5721SC,Asten
+Kleine Heitrak,8,"","",5721SC,Asten
+Kleine Heitrak,8,A,"",5721SC,Asten
+Ericaweg,3,"","",5721SH,Asten
+Pijlstaartweg,10,"","",5721SK,Asten
+Pijlstaartweg,13,"","",5721SK,Asten
+Pijlstaartweg,13,A,"",5721SK,Asten
+Pijlstaartweg,14,"","",5721SK,Asten
+Pijlstaartweg,16,"","",5721SK,Asten
+Pijlstaartweg,17,"","",5721SK,Asten
+Pijlstaartweg,17,"","",5721SK,Asten
+Pijlstaartweg,18,"","",5721SK,Asten
+Pijlstaartweg,19,"","",5721SK,Asten
+Pijlstaartweg,5,"","",5721SK,Asten
+Hutten,10,"","",5721SL,Asten
+Hutten,10,"","",5721SL,Asten
+Hutten,11,"","",5721SL,Asten
+Hutten,12,"","",5721SL,Asten
+Hutten,13,"","",5721SL,Asten
+Hutten,15,"","",5721SL,Asten
+Hutten,15,"","",5721SL,Asten
+Hutten,2,"","",5721SL,Asten
+Hutten,9,"","",5721SL,Asten

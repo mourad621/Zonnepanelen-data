@@ -1,730 +1,337 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9951HV",1,"",""
-"9951HV",2,"A",""
-"9951HV",2,"A",""
-"9951HV",2,"",""
-"9951HX",41,"",""
-"9951HX",39,"",""
-"9951HX",47,"",""
-"9951HX",35,"",""
-"9951HX",37,"",""
-"9951HX",45,"",""
-"9951HX",49,"",""
-"9951HX",51,"",""
-"9951HX",63,"",""
-"9951HX",43,"",""
-"9951SB",14,"A",""
-"9951SB",13,"",""
-"9951SB",14,"",""
-"9951SB",11,"",""
-"9951SB",12,"",""
-"9951SB",14,"",""
-"9951SB",2,"A",""
-"9951SB",2,"a",""
-"9951SB",4,"",""
-"9951SB",2,"",""
-"9951SB",5,"",""
-"9951SB",5,"",""
-"9951SB",6,"",""
-"9951SB",7,"",""
-"9951SB",9,"",""
-"9951SB",10,"",""
-"9951SB",14,"a",""
-"9951SB",1,"",""
-"9951SB",5,"",""
-"9951SB",14,"A",""
-"9951SB",8,"",""
-"9951SE",27,"",""
-"9951SE",50,"",""
-"9951SE",49,"",""
-"9951SE",49,"T",""
-"9951SE",26,"",""
-"9951SE",27,"",""
-"9951SE",50,"T",""
-"9951SE",44,"",""
-"9951SE",27,"",""
-"9951SE",28,"",""
-"9951SE",29,"",""
-"9951SE",47,"",""
-"9951SE",48,"",""
-"9951SE",48,"",""
-"9951SE",49,"",""
-"9951SE",31,"",""
-"9951SE",49,"T",""
-"9951SE",32,"",""
-"9951SE",32,"T",""
-"9951SE",43,"",""
-"9951SE",27,"",""
-"9951SE",45,"",""
-"9951SE",45,"",""
-"9951SE",46,"",""
-"9951SE",29,"",""
-"9951SE",29,"",""
-"9951SE",30,"",""
-"9951SE",30,"a",""
-"9951SE",32,"",""
-"9951SE",47,"",""
-"9951SE",46,"",""
-"9951SG",1,"b",""
-"9951SG",4,"",""
-"9951SG",5,"",""
-"9951SG",3,"",""
-"9951SG",1,"A",""
-"9951SG",1,"B",""
-"9951SG",1,"",""
-"9951SG",1,"C",""
-"9951SG",1,"C",""
-"9951SG",1,"a",""
-"9951SG",2,"",""
-"9951SH",2,"",""
-"9951SH",4,"T",""
-"9951SH",3,"",""
-"9951SH",4,"",""
-"9951SH",7,"",""
-"9951SH",1,"",""
-"9951SH",5,"",""
-"9951SH",6,"",""
-"9951SH",4,"T",""
-"9951TA",2,"",""
-"9951TA",6,"",""
-"9951TA",1,"T",""
-"9951TA",1,"T",""
-"9951TA",3,"",""
-"9951TA",1,"",""
-"9951TA",8,"",""
-"9951TA",9,"",""
-"9951TA",7,"",""
-"9951TB",4,"",""
-"9951TB",2,"T",""
-"9951TB",1,"",""
-"9951TB",2,"",""
-"9951TB",55,"",""
-"9951TB",3,"",""
-"9951TB",6,"",""
-"9951TB",2,"T",""
-"9951TC",1,"T",""
-"9951TC",1,"T",""
-"9951TC",1,"",""
-"9951TD",34,"",""
-"9951TD",33,"b",""
-"9951TD",34,"C",""
-"9951TD",34,"a",""
-"9951TD",34,"b",""
-"9951TD",34,"B",""
-"9951TD",32,"",""
-"9951TD",32,"",""
-"9951TD",33,"",""
-"9951TD",33,"B",""
-"9951TD",33,"b",""
-"9951TD",33,"b",""
-"9951TD",37,"",""
-"9951TD",34,"A",""
-"9951TD",39,"",""
-"9951TD",40,"",""
-"9951TD",41,"",""
-"9951TD",42,"",""
-"9951TD",32,"",""
-"9951TD",34,"c",""
-"9951TD",35,"",""
-"9951TD",36,"",""
-"9951TD",36,"a",""
-"9951TD",45,"",""
-"9951TD",46,"",""
-"9951TD",47,"",""
-"9951TD",49,"",""
-"9951TD",49,"",""
-"9951TD",49,"a",""
-"9951TD",49,"a",""
-"9951TD",51,"",""
-"9951TD",51,"T",""
-"9951TD",43,"A",""
-"9951TD",43,"a",""
-"9951TD",44,"",""
-"9951TD",44,"",""
-"9951TD",38,"",""
-"9951TD",36,"b",""
-"9951TD",36,"c",""
-"9951TD",53,"",""
-"9951TD",54,"",""
-"9951TD",51,"T",""
-"9951TD",52,"",""
-"9951TD",43,"",""
-"9951TG",6,"a","03"
-"9951TG",6,"A",""
-"9951TG",6,"a","02"
-"9951TG",6,"A","03"
-"9951TG",6,"a",""
-"9951TG",6,"a","01"
-"9951TG",2,"",""
-"9951TG",2,"A",""
-"9951TG",2,"a",""
-"9951TG",1,"",""
-"9951TG",3,"A",""
-"9951TG",3,"A",""
-"9951TG",4,"",""
-"9951TG",6,"A",""
-"9951TG",6,"A","01"
-"9951TG",6,"A","02"
-"9951TG",11,"Q","11"
-"9951TG",6,"A","03"
-"9951TG",11,"b",""
-"9951TG",11,"d",""
-"9951TG",11,"e",""
-"9951TG",11,"f",""
-"9951TG",3,"",""
-"9951TG",8,"A",""
-"9951TG",8,"a",""
-"9951TG",9,"",""
-"9951TG",5,"",""
-"9951TG",6,"",""
-"9951TG",11,"Q","10"
-"9951TG",11,"A",""
-"9951TG",11,"a",""
-"9951TG",11,"C",""
-"9951TG",11,"C",""
-"9951TG",11,"D",""
-"9951TG",11,"E",""
-"9951TG",11,"g",""
-"9951TG",11,"G",""
-"9951TG",11,"H",""
-"9951TG",11,"I",""
-"9951TG",11,"J",""
-"9951TG",11,"K",""
-"9951TG",11,"L",""
-"9951TG",11,"M",""
-"9951TG",11,"N",""
-"9951TG",11,"O",""
-"9951TG",11,"P",""
-"9951TG",11,"Q","01"
-"9951TG",11,"Q","02"
-"9951TG",11,"Q","03"
-"9951TG",11,"Q","04"
-"9951TG",11,"Q","05"
-"9951TG",11,"Q","06"
-"9951TG",11,"Q","07"
-"9951TG",11,"Q","08"
-"9951TG",11,"Q","09"
-"9951TG",11,"",""
-"9951TG",11,"k",""
-"9951TG",11,"B",""
-"9951TG",11,"l",""
-"9951TG",11,"m",""
-"9951TG",11,"m",""
-"9951TG",11,"n",""
-"9951TG",11,"F",""
-"9951TG",11,"h",""
-"9951TG",11,"i",""
-"9951TG",11,"i",""
-"9951TG",11,"j",""
-"9951TG",10,"",""
-"9951TG",11,"q","02"
-"9951TG",11,"q","03"
-"9951TG",11,"q","04"
-"9951TG",11,"q","05"
-"9951TG",11,"q","06"
-"9951TG",11,"q","07"
-"9951TG",11,"q","08"
-"9951TG",11,"q","09"
-"9951TG",11,"o",""
-"9951TG",11,"o",""
-"9951TG",11,"p",""
-"9951TG",11,"p",""
-"9951TG",11,"q","01"
-"9951TG",13,"",""
-"9951TG",11,"k",""
-"9951TG",12,"",""
-"9951TG",11,"l",""
-"9951TG",11,"q","10"
-"9951TG",11,"q","11"
-"9951TG",11,"n",""
-"9951TG",12,"A",""
-"9951TG",12,"a",""
-"9951TG",11,"j",""
-"9951TH",1,"a",""
-"9951TH",4,"",""
-"9951TH",2,"T",""
-"9951TH",2,"T",""
-"9951TH",3,"",""
-"9951TH",7,"A",""
-"9951TH",2,"",""
-"9951TH",7,"",""
-"9951TH",1,"A",""
-"9951TH",7,"A",""
-"9951TH",5,"",""
-"9951TH",1,"",""
-"9951TJ",1,"",""
-"9951TJ",2,"",""
-"9951TK",3,"",""
-"9951TK",2,"T",""
-"9951TK",2,"T",""
-"9951TK",7,"",""
-"9951TK",4,"",""
-"9951TK",5,"",""
-"9951TK",1,"",""
-"9951TK",8,"",""
-"9951TK",2,"",""
-"9951TK",8,"",""
-"9951TK",8,"",""
-"9951TK",6,"",""
-"9951TK",11,"",""
-"9951TN",3,"",""
-"9951TN",1,"T",""
-"9951TN",1,"T",""
-"9951TN",6,"T",""
-"9951TN",1,"",""
-"9951TN",4,"",""
-"9951TN",6,"",""
-"9951TN",2,"",""
-"9951TN",7,"",""
-"9951TN",8,"",""
-"9951TN",6,"T",""
-"9951TP",2,"",""
-"9951TP",2,"B",""
-"9951TP",2,"A",""
-"9951TP",2,"B",""
-"9951TP",9,"",""
-"9951TP",4,"",""
-"9951TP",2,"A",""
-"9951TP",2,"b",""
-"9951TP",3,"",""
-"9951TP",1,"",""
-"9951TP",2,"a",""
-"9951TP",7,"",""
-"9951TP",8,"",""
-"9951TP",5,"",""
-"9951TP",6,"",""
-"9951TR",1,"",""
-"9951TR",3,"",""
-"9951TR",3,"T",""
-"9951TR",7,"",""
-"9951TR",2,"",""
-"9951TR",3,"T",""
-"9951TR",10,"",""
-"9951TR",11,"",""
-"9951TR",4,"",""
-"9951TR",9,"",""
-"9951TR",4,"",""
-"9951TR",4,"",""
-"9951TR",5,"",""
-"9951TR",6,"",""
-"9951TR",6,"T",""
-"9951TR",6,"T",""
-"9951TR",8,"",""
-"9951TT",1,"",""
-"9951TT",1,"A",""
-"9951TT",1,"A",""
-"9951TV",1,"",""
-"9951TV",3,"",""
-"9951TW",2,"",""
-"9951TW",2,"T",""
-"9951TW",3,"",""
-"9951TW",4,"",""
-"9951TW",4,"A",""
-"9951TW",7,"",""
-"9951TW",1,"A",""
-"9951TW",1,"a",""
-"9951TW",4,"b",""
-"9951TW",2,"T",""
-"9951TW",4,"B",""
-"9951TW",4,"a",""
-"9951TW",5,"",""
-"9951TW",1,"",""
-"9951TW",6,"",""
-"9951TX",51,"",""
-"9951TX",50,"",""
-"9951TX",53,"",""
-"9951TX",49,"",""
-"9951TX",52,"",""
-9951TX,Eenrumerweg,49,,
-9951TX,Eenrumerweg,50,,
-9951TX,Eenrumerweg,51,,
-9951TX,Eenrumerweg,52,,
-9951TX,Eenrumerweg,53,,
-9951TP,Garnwerderweg,1,,
-9951TP,Garnwerderweg,2,,
-9951TP,Garnwerderweg,2,B,
-9951TP,Garnwerderweg,2,a,
-9951TP,Garnwerderweg,2,A,
-9951TP,Garnwerderweg,3,,
-9951TP,Garnwerderweg,4,,
-9951TP,Garnwerderweg,5,,
-9951TP,Garnwerderweg,6,,
-9951TP,Garnwerderweg,7,,
-9951TP,Garnwerderweg,8,,
-9951TP,Garnwerderweg,9,,
-9951TR,Klein Garnwerd,1,,
-9951TR,Klein Garnwerd,2,,
-9951TR,Klein Garnwerd,3,,
-9951TR,Klein Garnwerd,3,T,
-9951TR,Klein Garnwerd,3,T,
-9951TR,Klein Garnwerd,4,,
-9951TR,Klein Garnwerd,5,,
-9951TR,Klein Garnwerd,6,,
-9951TR,Klein Garnwerd,6,T,
-9951TR,Klein Garnwerd,6,T,
-9951TR,Klein Garnwerd,7,,
-9951TR,Klein Garnwerd,8,,
-9951TR,Klein Garnwerd,9,,
-9951TR,Klein Garnwerd,10,,
-9951TR,Klein Garnwerd,11,,
-9951TB,Maarhuizen,1,,
-9951TB,Maarhuizen,2,,
-9951TB,Maarhuizen,3,,
-9951TB,Maarhuizen,4,,
-9951TB,Maarhuizen,6,,
-9951HX,Meeden,35,,
-9951HX,Meeden,37,,
-9951HX,Meeden,39,,
-9951HX,Meeden,41,,
-9951HX,Meeden,43,,
-9951HX,Meeden,45,,
-9951HX,Meeden,47,,
-9951HX,Meeden,49,,
-9951HX,Meeden,51,,
-9951HX,Meeden,63,,
-9951HV,Medenerlaan,1,,
-9951HV,Medenerlaan,2,,
-9951SG,Netlaan,1,,
-9951SG,Netlaan,1,C,
-9951SG,Netlaan,1,C,
-9951SG,Netlaan,1,a,
-9951SG,Netlaan,1,A,
-9951SG,Netlaan,1,b,
-9951SG,Netlaan,1,B,
-9951SG,Netlaan,2,,
-9951SG,Netlaan,3,,
-9951SG,Netlaan,4,,
-9951TD,Onderdendamsterweg,32,,
-9951TD,Onderdendamsterweg,33,,
-9951TD,Onderdendamsterweg,33,b,
-9951TD,Onderdendamsterweg,34,,
-9951TD,Onderdendamsterweg,35,,
-9951TD,Onderdendamsterweg,36,,
-9951TD,Onderdendamsterweg,36,a,
-9951TD,Onderdendamsterweg,34,a,
-9951TD,Onderdendamsterweg,34,A,
-9951TD,Onderdendamsterweg,36,b,
-9951TD,Onderdendamsterweg,34,b,
-9951TD,Onderdendamsterweg,34,B,
-9951TD,Onderdendamsterweg,36,c,
-9951TD,Onderdendamsterweg,34,c,
-9951TD,Onderdendamsterweg,34,C,
-9951TD,Onderdendamsterweg,37,,
-9951TD,Onderdendamsterweg,38,,
-9951TD,Onderdendamsterweg,39,,
-9951TD,Onderdendamsterweg,40,,
-9951TD,Onderdendamsterweg,41,,
-9951TD,Onderdendamsterweg,42,,
-9951TD,Onderdendamsterweg,43,,
-9951TD,Onderdendamsterweg,44,,
-9951TD,Onderdendamsterweg,45,,
-9951TD,Onderdendamsterweg,46,,
-9951TD,Onderdendamsterweg,47,,
-9951TD,Onderdendamsterweg,49,,
-9951TD,Onderdendamsterweg,49,a,
-9951TD,Onderdendamsterweg,51,T,
-9951TD,Onderdendamsterweg,51,T,
-9951TD,Onderdendamsterweg,52,,
-9951TD,Onderdendamsterweg,53,,
-9951TD,Onderdendamsterweg,54,,
-9951TP,Garnwerderweg,2,A,
-9951TP,Garnwerderweg,2,b,
-9951TP,Garnwerderweg,2,B,
-9951TR,Klein Garnwerd,4,,
-9951SE,Lombok,27,,
-9951SE,Lombok,27,,
-9951TB,Maarhuizen,2,T,
-9951TB,Maarhuizen,2,T,
-9951TB,Maarhuizen,55,,
-9951HV,Medenerlaan,2,A,
-9951HV,Medenerlaan,2,A,
-9951SG,Netlaan,5,,
-9951TD,Onderdendamsterweg,43,a,
-9951TD,Onderdendamsterweg,43,A,
-9951TD,Onderdendamsterweg,51,,
-9951TD,Onderdendamsterweg,33,b,
-9951TD,Onderdendamsterweg,33,B,
-9951TD,Onderdendamsterweg,32,,
-9951SH,Oude AE,1,,
-9951SH,Oude AE,2,,
-9951SH,Oude AE,3,,
-9951SH,Oude AE,4,,
-9951SH,Oude AE,5,,
-9951SH,Oude AE,6,,
-9951SH,Oude AE,7,,
-9951SH,Oude AE,4,T,
-9951SH,Oude AE,4,T,
-9951TA,Ranum,1,,
-9951TA,Ranum,2,,
-9951TA,Ranum,3,,
-9951TA,Ranum,6,,
-9951TA,Ranum,7,,
-9951TA,Ranum,8,,
-9951TA,Ranum,9,,
-9951TA,Ranum,1,T,
-9951TA,Ranum,1,T,
-9951SB,Ringoven,2,,
-9951SB,Ringoven,4,,
-9951SB,Ringoven,5,,
-9951SB,Ringoven,14,,
-9951SB,Ringoven,7,,
-9951SB,Ringoven,8,,
-9951SB,Ringoven,11,,
-9951SB,Ringoven,12,,
-9951SB,Ringoven,2,a,
-9951SB,Ringoven,2,A,
-9951SB,Ringoven,6,,
-9951SB,Ringoven,9,,
-9951SB,Ringoven,10,,
-9951SB,Ringoven,13,,
-9951SB,Ringoven,14,a,
-9951SB,Ringoven,14,A,
-9951SB,Ringoven,1,,
-9951SB,Ringoven,5,,
-9951TW,Schaphalsterzijl,1,,
-9951TW,Schaphalsterzijl,2,,
-9951TW,Schaphalsterzijl,3,,
-9951TW,Schaphalsterzijl,4,,
-9951TW,Schaphalsterzijl,5,,
-9951TW,Schaphalsterzijl,6,,
-9951TW,Schaphalsterzijl,7,,
-9951TW,Schaphalsterzijl,1,a,
-9951TW,Schaphalsterzijl,1,A,
-9951TW,Schaphalsterzijl,2,T,
-9951TW,Schaphalsterzijl,2,T,
-9951TW,Schaphalsterzijl,4,a,
-9951TW,Schaphalsterzijl,4,A,
-9951TW,Schaphalsterzijl,4,b,
-9951TW,Schaphalsterzijl,4,B,
-9951TN,Schilligeham,1,,
-9951TN,Schilligeham,2,,
-9951TN,Schilligeham,3,,
-9951TN,Schilligeham,4,,
-9951TN,Schilligeham,6,,
-9951TN,Schilligeham,7,,
-9951TN,Schilligeham,8,,
-9951TN,Schilligeham,1,T,
-9951TN,Schilligeham,1,T,
-9951TN,Schilligeham,6,T,
-9951TN,Schilligeham,6,T,
-9951TG,Schouwerzijlsterweg,1,,
-9951TG,Schouwerzijlsterweg,2,,
-9951TG,Schouwerzijlsterweg,2,a,
-9951TG,Schouwerzijlsterweg,2,A,
-9951TG,Schouwerzijlsterweg,3,,
-9951TG,Schouwerzijlsterweg,3,A,
-9951TG,Schouwerzijlsterweg,3,A,
-9951TG,Schouwerzijlsterweg,4,,
-9951TG,Schouwerzijlsterweg,5,,
-9951TG,Schouwerzijlsterweg,6,,
-9951TG,Schouwerzijlsterweg,8,a,
-9951TG,Schouwerzijlsterweg,8,A,
-9951TG,Schouwerzijlsterweg,9,,
-9951TG,Schouwerzijlsterweg,10,,
-9951TG,Schouwerzijlsterweg,11,C,
-9951TG,Schouwerzijlsterweg,11,C,
-9951TG,Schouwerzijlsterweg,11,b,
-9951TG,Schouwerzijlsterweg,11,B,
-9951TG,Schouwerzijlsterweg,12,,
-9951TG,Schouwerzijlsterweg,13,,
-9951TG,Schouwerzijlsterweg,6,a,
-9951TG,Schouwerzijlsterweg,6,A,
-9951TG,Schouwerzijlsterweg,11,a,
-9951TG,Schouwerzijlsterweg,11,A,
-9951TG,Schouwerzijlsterweg,12,a,
-9951TG,Schouwerzijlsterweg,12,A,
-9951TG,Schouwerzijlsterweg,11,,
-9951TG,Schouwerzijlsterweg,11,d,
-9951TG,Schouwerzijlsterweg,11,D,
-9951TG,Schouwerzijlsterweg,11,e,
-9951TG,Schouwerzijlsterweg,11,E,
-9951TG,Schouwerzijlsterweg,11,f,
-9951TG,Schouwerzijlsterweg,11,F,
-9951TG,Schouwerzijlsterweg,11,g,
-9951TG,Schouwerzijlsterweg,11,G,
-9951TG,Schouwerzijlsterweg,11,h,
-9951TG,Schouwerzijlsterweg,11,H,
-9951TG,Schouwerzijlsterweg,11,i,
-9951TG,Schouwerzijlsterweg,11,i,
-9951TG,Schouwerzijlsterweg,11,I,
-9951TG,Schouwerzijlsterweg,11,j,
-9951TG,Schouwerzijlsterweg,11,j,
-9951TG,Schouwerzijlsterweg,11,J,
-9951TG,Schouwerzijlsterweg,11,k,
-9951TG,Schouwerzijlsterweg,11,k,
-9951TG,Schouwerzijlsterweg,11,K,
-9951TG,Schouwerzijlsterweg,11,l,
-9951TG,Schouwerzijlsterweg,11,l,
-9951TG,Schouwerzijlsterweg,11,L,
-9951TG,Schouwerzijlsterweg,11,m,
-9951TG,Schouwerzijlsterweg,11,m,
-9951TG,Schouwerzijlsterweg,11,M,
-9951TG,Schouwerzijlsterweg,11,n,
-9951TG,Schouwerzijlsterweg,11,n,
-9951TG,Schouwerzijlsterweg,11,N,
-9951TG,Schouwerzijlsterweg,11,o,
-9951TG,Schouwerzijlsterweg,11,o,
-9951TG,Schouwerzijlsterweg,11,O,
-9951TG,Schouwerzijlsterweg,11,p,
-9951TG,Schouwerzijlsterweg,11,p,
-9951TG,Schouwerzijlsterweg,11,P,
-9951TG,Schouwerzijlsterweg,11,q,01
-9951TG,Schouwerzijlsterweg,11,Q,01
-9951TG,Schouwerzijlsterweg,11,q,02
-9951TG,Schouwerzijlsterweg,11,Q,02
-9951TG,Schouwerzijlsterweg,11,q,03
-9951TG,Schouwerzijlsterweg,11,Q,03
-9951TG,Schouwerzijlsterweg,11,q,04
-9951TG,Schouwerzijlsterweg,11,Q,04
-9951TG,Schouwerzijlsterweg,11,q,05
-9951TG,Schouwerzijlsterweg,11,Q,05
-9951TG,Schouwerzijlsterweg,11,q,06
-9951TG,Schouwerzijlsterweg,11,Q,06
-9951TG,Schouwerzijlsterweg,11,q,07
-9951TG,Schouwerzijlsterweg,11,Q,07
-9951TG,Schouwerzijlsterweg,11,q,08
-9951TG,Schouwerzijlsterweg,11,Q,08
-9951TG,Schouwerzijlsterweg,11,q,09
-9951TG,Schouwerzijlsterweg,11,Q,09
-9951TG,Schouwerzijlsterweg,11,q,10
-9951TG,Schouwerzijlsterweg,11,Q,10
-9951TG,Schouwerzijlsterweg,11,q,11
-9951TG,Schouwerzijlsterweg,11,Q,11
-9951TG,Schouwerzijlsterweg,6,a,01
-9951TG,Schouwerzijlsterweg,6,A,01
-9951TG,Schouwerzijlsterweg,6,a,02
-9951TG,Schouwerzijlsterweg,6,A,02
-9951TG,Schouwerzijlsterweg,6,a,03
-9951TG,Schouwerzijlsterweg,6,A,03
-9951TC,Takkebosserweg,1,,
-9951TC,Takkebosserweg,1,T,
-9951TC,Takkebosserweg,1,T,
-9951TT,Tinallingerweg,1,,
-9951TT,Tinallingerweg,1,A,
-9951TT,Tinallingerweg,1,A,
-9951SE,Trekweg naar Onderdendam,26,,
-9951SE,Trekweg naar Onderdendam,43,,
-9951SE,Trekweg naar Onderdendam,27,,
-9951SE,Trekweg naar Onderdendam,44,,
-9951SE,Trekweg naar Onderdendam,28,,
-9951SE,Trekweg naar Onderdendam,45,,
-9951SE,Trekweg naar Onderdendam,29,,
-9951SE,Trekweg naar Onderdendam,30,,
-9951SE,Trekweg naar Onderdendam,46,,
-9951SE,Trekweg naar Onderdendam,47,,
-9951SE,Trekweg naar Onderdendam,31,,
-9951SE,Trekweg naar Onderdendam,48,,
-9951SE,Trekweg naar Onderdendam,49,,
-9951SE,Trekweg naar Onderdendam,32,,
-9951SE,Trekweg naar Onderdendam,32,,
-9951SE,Trekweg naar Onderdendam,49,,
-9951SE,Trekweg naar Onderdendam,50,,
-9951SE,Trekweg naar Onderdendam,30,a,
-9951SE,Trekweg naar Onderdendam,47,,
-9951SE,Trekweg naar Onderdendam,48,,
-9951SE,Trekweg naar Onderdendam,32,T,
-9951SE,Trekweg naar Onderdendam,49,T,
-9951SE,Trekweg naar Onderdendam,49,T,
-9951SE,Trekweg naar Onderdendam,50,T,
-9951SE,Trekweg naar Onderdendam,29,,
-9951SE,Trekweg naar Onderdendam,45,,
-9951SE,Trekweg naar Onderdendam,46,,
-9951SE,Trekweg naar Onderdendam,27,,
-9951TJ,Voslaan,1,,
-9951TJ,Voslaan,2,,
-9951TV,Wildeveldseweg,1,,
-9951TV,Wildeveldseweg,3,,
-9951TH,Winsumermeeden,1,,
-9951TH,Winsumermeeden,2,,
-9951TH,Winsumermeeden,3,,
-9951TH,Winsumermeeden,4,,
-9951TH,Winsumermeeden,5,,
-9951TH,Winsumermeeden,7,,
-9951TH,Winsumermeeden,1,a,
-9951TH,Winsumermeeden,1,A,
-9951TH,Winsumermeeden,7,A,
-9951TH,Winsumermeeden,2,T,
-9951TH,Winsumermeeden,2,T,
-9951TK,Winsumerstraatweg,1,,
-9951TK,Winsumerstraatweg,2,,
-9951TK,Winsumerstraatweg,2,T,
-9951TK,Winsumerstraatweg,2,T,
-9951TK,Winsumerstraatweg,3,,
-9951TK,Winsumerstraatweg,4,,
-9951TK,Winsumerstraatweg,5,,
-9951TK,Winsumerstraatweg,7,,
-9951TK,Winsumerstraatweg,8,,
-9951TK,Winsumerstraatweg,11,,
-9951TK,Winsumerstraatweg,6,,
-9951TK,Winsumerstraatweg,8,,
-9951TP,Garnwerderweg,2,M,
-9951TB,Maarhuizen,3,V,1
-9951TB,Maarhuizen,3,V,2
-9951TB,Maarhuizen,3,V,3
-9951TB,Maarhuizen,3,V,4
-9951TB,Maarhuizen,3,A,
-9951TB,Maarhuizen,2003,V,1
-9951TB,Maarhuizen,2003,V,2
-9951HV,Medenerlaan,2002,,
-9951HV,Medenerlaan,2,B,
-9951SG,Netlaan,13,,
-9951SG,Netlaan,7,,
-9951SG,Netlaan,9,,
-9951SG,Netlaan,11,,
-9951SG,Netlaan,1,A,01
-9951SG,Netlaan,1,A,02
-9951SG,Netlaan,15,,
-9951SG,Netlaan,17,,
-9951SG,Netlaan,3,,
-9951SG,Netlaan,21,,
-9951SG,Netlaan,23,,
-9951SG,Netlaan,19,,
-9951TD,Onderdendamsterweg,49,A,
-9951TD,Onderdendamsterweg,49,,
-9951SH,Oude AE,4,,
-9951SB,Ringoven,14,,
-9951SB,Ringoven,14,,
-9951SB,Ringoven,14,A,
-9951SB,Ringoven,14,B,
-9951TN,Schilligeham,1,A,
-9951TG,Schouwerzijlsterweg,11,B,1
-9951TG,Schouwerzijlsterweg,7,,
-9951TG,Schouwerzijlsterweg,7,A,
-9951TG,Schouwerzijlsterweg,7,B,
-9951TG,Schouwerzijlsterweg,7,B,1
-9951TG,Schouwerzijlsterweg,7,C,
-9951TG,Schouwerzijlsterweg,7,C,1
-9951TG,Schouwerzijlsterweg,7,D,
-9951TG,Schouwerzijlsterweg,7,D,1
-9951TG,Schouwerzijlsterweg,4,E,
-9951TG,Schouwerzijlsterweg,7,E,
-9951TG,Schouwerzijlsterweg,4,E,1
-9951TG,Schouwerzijlsterweg,7,E,1
-9951TG,Schouwerzijlsterweg,4,C,
-9951TG,Schouwerzijlsterweg,4,D,
-9951SE,Trekweg naar Onderdendam,34,,
-9951SE,Trekweg naar Onderdendam,35,,
-9951SE,Trekweg naar Onderdendam,36,,
-9951SE,Trekweg naar Onderdendam,37,,
-9951SE,Trekweg naar Onderdendam,38,,
-9951SE,Trekweg naar Onderdendam,39,,
-9951SE,Trekweg naar Onderdendam,40,,
-9951SE,Trekweg naar Onderdendam,41,,
-9951SE,Trekweg naar Onderdendam,42,,
-9951SE,Trekweg naar Onderdendam,42,C,
-9951SE,Trekweg naar Onderdendam,28,,
-9951SE,Trekweg naar Onderdendam,29,,
-9951SE,Trekweg naar Onderdendam,32,,
-9951SE,Trekweg naar Onderdendam,30,,
-9951SE,Trekweg naar Onderdendam,31,,
-9951SE,Trekweg naar Onderdendam,33,,
-9951SE,Trekweg naar Onderdendam,33,,
-9951SE,Trekweg naar Onderdendam,42,A,
-9951SE,Trekweg naar Onderdendam,42,B,
-9951SE,Trekweg naar Onderdendam,42,D,
-9951SE,Trekweg naar Onderdendam,42,E,
-9951SE,Trekweg naar Onderdendam,42,F,
-9951TB,Maarhuizerweg,3,V,1
-9951SE,Steenwerf,30,,
-9951SE,Steenwerf,31,,
-9951SE,Steenwerf,33,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Medenerlaan,1,"","",9951HV,Winsum
+Medenerlaan,2,"","",9951HV,Winsum
+Medenerlaan,2,A,"",9951HV,Winsum
+Medenerlaan,2,A,"",9951HV,Winsum
+Meeden,35,"","",9951HX,Winsum
+Meeden,37,"","",9951HX,Winsum
+Meeden,39,"","",9951HX,Winsum
+Meeden,41,"","",9951HX,Winsum
+Meeden,43,"","",9951HX,Winsum
+Meeden,45,"","",9951HX,Winsum
+Meeden,47,"","",9951HX,Winsum
+Meeden,49,"","",9951HX,Winsum
+Meeden,51,"","",9951HX,Winsum
+Meeden,63,"","",9951HX,Winsum
+Ringoven,1,"","",9951SB,Winsum
+Ringoven,10,"","",9951SB,Winsum
+Ringoven,11,"","",9951SB,Winsum
+Ringoven,12,"","",9951SB,Winsum
+Ringoven,13,"","",9951SB,Winsum
+Ringoven,14,"","",9951SB,Winsum
+Ringoven,14,"","",9951SB,Winsum
+Ringoven,14,A,"",9951SB,Winsum
+Ringoven,14,A,"",9951SB,Winsum
+Ringoven,14,A,"",9951SB,Winsum
+Ringoven,2,"","",9951SB,Winsum
+Ringoven,2,A,"",9951SB,Winsum
+Ringoven,2,A,"",9951SB,Winsum
+Ringoven,4,"","",9951SB,Winsum
+Ringoven,5,"","",9951SB,Winsum
+Ringoven,5,"","",9951SB,Winsum
+Ringoven,5,"","",9951SB,Winsum
+Ringoven,6,"","",9951SB,Winsum
+Ringoven,7,"","",9951SB,Winsum
+Ringoven,8,"","",9951SB,Winsum
+Ringoven,9,"","",9951SB,Winsum
+Trekweg naar Onderdendam,26,"","",9951SE,Winsum
+Trekweg naar Onderdendam,27,"","",9951SE,Winsum
+Trekweg naar Onderdendam,27,"","",9951SE,Winsum
+Trekweg naar Onderdendam,27,"","",9951SE,Winsum
+Trekweg naar Onderdendam,27,"","",9951SE,Winsum
+Trekweg naar Onderdendam,28,"","",9951SE,Winsum
+Trekweg naar Onderdendam,29,"","",9951SE,Winsum
+Trekweg naar Onderdendam,29,"","",9951SE,Winsum
+Trekweg naar Onderdendam,29,"","",9951SE,Winsum
+Trekweg naar Onderdendam,30,"","",9951SE,Winsum
+Trekweg naar Onderdendam,30,A,"",9951SE,Winsum
+Trekweg naar Onderdendam,31,"","",9951SE,Winsum
+Trekweg naar Onderdendam,32,"","",9951SE,Winsum
+Trekweg naar Onderdendam,32,"","",9951SE,Winsum
+Trekweg naar Onderdendam,32,T,"",9951SE,Winsum
+Trekweg naar Onderdendam,43,"","",9951SE,Winsum
+Trekweg naar Onderdendam,44,"","",9951SE,Winsum
+Trekweg naar Onderdendam,45,"","",9951SE,Winsum
+Trekweg naar Onderdendam,45,"","",9951SE,Winsum
+Trekweg naar Onderdendam,46,"","",9951SE,Winsum
+Trekweg naar Onderdendam,46,"","",9951SE,Winsum
+Trekweg naar Onderdendam,47,"","",9951SE,Winsum
+Trekweg naar Onderdendam,47,"","",9951SE,Winsum
+Trekweg naar Onderdendam,48,"","",9951SE,Winsum
+Trekweg naar Onderdendam,48,"","",9951SE,Winsum
+Trekweg naar Onderdendam,49,"","",9951SE,Winsum
+Trekweg naar Onderdendam,49,"","",9951SE,Winsum
+Trekweg naar Onderdendam,49,T,"",9951SE,Winsum
+Trekweg naar Onderdendam,49,T,"",9951SE,Winsum
+Trekweg naar Onderdendam,50,"","",9951SE,Winsum
+Trekweg naar Onderdendam,50,T,"",9951SE,Winsum
+Netlaan,1,"","",9951SG,Winsum
+Netlaan,1,A,"",9951SG,Winsum
+Netlaan,1,A,"",9951SG,Winsum
+Netlaan,1,B,"",9951SG,Winsum
+Netlaan,1,B,"",9951SG,Winsum
+Netlaan,1,C,"",9951SG,Winsum
+Netlaan,1,C,"",9951SG,Winsum
+Netlaan,2,"","",9951SG,Winsum
+Netlaan,3,"","",9951SG,Winsum
+Netlaan,4,"","",9951SG,Winsum
+Netlaan,5,"","",9951SG,Winsum
+Oude AE,1,"","",9951SH,Winsum
+Oude AE,2,"","",9951SH,Winsum
+Oude AE,3,"","",9951SH,Winsum
+Oude AE,4,"","",9951SH,Winsum
+Oude AE,4,T,"",9951SH,Winsum
+Oude AE,4,T,"",9951SH,Winsum
+Oude AE,5,"","",9951SH,Winsum
+Oude AE,6,"","",9951SH,Winsum
+Oude AE,7,"","",9951SH,Winsum
+Ranum,1,"","",9951TA,Winsum
+Ranum,1,T,"",9951TA,Winsum
+Ranum,1,T,"",9951TA,Winsum
+Ranum,2,"","",9951TA,Winsum
+Ranum,3,"","",9951TA,Winsum
+Ranum,6,"","",9951TA,Winsum
+Ranum,7,"","",9951TA,Winsum
+Ranum,8,"","",9951TA,Winsum
+Ranum,9,"","",9951TA,Winsum
+Maarhuizen,1,"","",9951TB,Winsum
+Maarhuizen,2,"","",9951TB,Winsum
+Maarhuizen,2,T,"",9951TB,Winsum
+Maarhuizen,2,T,"",9951TB,Winsum
+Maarhuizen,3,"","",9951TB,Winsum
+Maarhuizen,4,"","",9951TB,Winsum
+Maarhuizen,55,"","",9951TB,Winsum
+Maarhuizen,6,"","",9951TB,Winsum
+Takkebosserweg,1,"","",9951TC,Winsum
+Takkebosserweg,1,T,"",9951TC,Winsum
+Takkebosserweg,1,T,"",9951TC,Winsum
+Onderdendamsterweg,32,"","",9951TD,Winsum
+Onderdendamsterweg,32,"","",9951TD,Winsum
+Onderdendamsterweg,32,"","",9951TD,Winsum
+Onderdendamsterweg,33,"","",9951TD,Winsum
+Onderdendamsterweg,33,B,"",9951TD,Winsum
+Onderdendamsterweg,33,B,"",9951TD,Winsum
+Onderdendamsterweg,33,B,"",9951TD,Winsum
+Onderdendamsterweg,33,B,"",9951TD,Winsum
+Onderdendamsterweg,34,"","",9951TD,Winsum
+Onderdendamsterweg,34,A,"",9951TD,Winsum
+Onderdendamsterweg,34,A,"",9951TD,Winsum
+Onderdendamsterweg,34,B,"",9951TD,Winsum
+Onderdendamsterweg,34,B,"",9951TD,Winsum
+Onderdendamsterweg,34,C,"",9951TD,Winsum
+Onderdendamsterweg,34,C,"",9951TD,Winsum
+Onderdendamsterweg,35,"","",9951TD,Winsum
+Onderdendamsterweg,36,"","",9951TD,Winsum
+Onderdendamsterweg,36,A,"",9951TD,Winsum
+Onderdendamsterweg,36,B,"",9951TD,Winsum
+Onderdendamsterweg,36,C,"",9951TD,Winsum
+Onderdendamsterweg,37,"","",9951TD,Winsum
+Onderdendamsterweg,38,"","",9951TD,Winsum
+Onderdendamsterweg,39,"","",9951TD,Winsum
+Onderdendamsterweg,40,"","",9951TD,Winsum
+Onderdendamsterweg,41,"","",9951TD,Winsum
+Onderdendamsterweg,42,"","",9951TD,Winsum
+Onderdendamsterweg,43,"","",9951TD,Winsum
+Onderdendamsterweg,43,A,"",9951TD,Winsum
+Onderdendamsterweg,43,A,"",9951TD,Winsum
+Onderdendamsterweg,44,"","",9951TD,Winsum
+Onderdendamsterweg,44,"","",9951TD,Winsum
+Onderdendamsterweg,45,"","",9951TD,Winsum
+Onderdendamsterweg,46,"","",9951TD,Winsum
+Onderdendamsterweg,47,"","",9951TD,Winsum
+Onderdendamsterweg,49,"","",9951TD,Winsum
+Onderdendamsterweg,49,"","",9951TD,Winsum
+Onderdendamsterweg,49,A,"",9951TD,Winsum
+Onderdendamsterweg,49,A,"",9951TD,Winsum
+Onderdendamsterweg,51,"","",9951TD,Winsum
+Onderdendamsterweg,51,T,"",9951TD,Winsum
+Onderdendamsterweg,51,T,"",9951TD,Winsum
+Onderdendamsterweg,52,"","",9951TD,Winsum
+Onderdendamsterweg,53,"","",9951TD,Winsum
+Onderdendamsterweg,54,"","",9951TD,Winsum
+Schouwerzijlsterweg,1,"","",9951TG,Winsum
+Schouwerzijlsterweg,10,"","",9951TG,Winsum
+Schouwerzijlsterweg,11,"","",9951TG,Winsum
+Schouwerzijlsterweg,11,A,"",9951TG,Winsum
+Schouwerzijlsterweg,11,A,"",9951TG,Winsum
+Schouwerzijlsterweg,11,B,"",9951TG,Winsum
+Schouwerzijlsterweg,11,B,"",9951TG,Winsum
+Schouwerzijlsterweg,11,C,"",9951TG,Winsum
+Schouwerzijlsterweg,11,C,"",9951TG,Winsum
+Schouwerzijlsterweg,11,D,"",9951TG,Winsum
+Schouwerzijlsterweg,11,D,"",9951TG,Winsum
+Schouwerzijlsterweg,11,E,"",9951TG,Winsum
+Schouwerzijlsterweg,11,E,"",9951TG,Winsum
+Schouwerzijlsterweg,11,F,"",9951TG,Winsum
+Schouwerzijlsterweg,11,F,"",9951TG,Winsum
+Schouwerzijlsterweg,11,G,"",9951TG,Winsum
+Schouwerzijlsterweg,11,G,"",9951TG,Winsum
+Schouwerzijlsterweg,11,H,"",9951TG,Winsum
+Schouwerzijlsterweg,11,H,"",9951TG,Winsum
+Schouwerzijlsterweg,11,I,"",9951TG,Winsum
+Schouwerzijlsterweg,11,I,"",9951TG,Winsum
+Schouwerzijlsterweg,11,I,"",9951TG,Winsum
+Schouwerzijlsterweg,11,J,"",9951TG,Winsum
+Schouwerzijlsterweg,11,J,"",9951TG,Winsum
+Schouwerzijlsterweg,11,J,"",9951TG,Winsum
+Schouwerzijlsterweg,11,K,"",9951TG,Winsum
+Schouwerzijlsterweg,11,K,"",9951TG,Winsum
+Schouwerzijlsterweg,11,K,"",9951TG,Winsum
+Schouwerzijlsterweg,11,L,"",9951TG,Winsum
+Schouwerzijlsterweg,11,L,"",9951TG,Winsum
+Schouwerzijlsterweg,11,L,"",9951TG,Winsum
+Schouwerzijlsterweg,11,M,"",9951TG,Winsum
+Schouwerzijlsterweg,11,M,"",9951TG,Winsum
+Schouwerzijlsterweg,11,M,"",9951TG,Winsum
+Schouwerzijlsterweg,11,N,"",9951TG,Winsum
+Schouwerzijlsterweg,11,N,"",9951TG,Winsum
+Schouwerzijlsterweg,11,N,"",9951TG,Winsum
+Schouwerzijlsterweg,11,O,"",9951TG,Winsum
+Schouwerzijlsterweg,11,O,"",9951TG,Winsum
+Schouwerzijlsterweg,11,O,"",9951TG,Winsum
+Schouwerzijlsterweg,11,P,"",9951TG,Winsum
+Schouwerzijlsterweg,11,P,"",9951TG,Winsum
+Schouwerzijlsterweg,11,P,"",9951TG,Winsum
+Schouwerzijlsterweg,11,Q,01,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,01,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,02,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,02,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,03,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,03,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,04,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,04,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,05,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,05,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,06,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,06,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,07,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,07,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,08,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,08,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,09,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,09,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,10,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,10,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,11,9951TG,Winsum
+Schouwerzijlsterweg,11,Q,11,9951TG,Winsum
+Schouwerzijlsterweg,12,"","",9951TG,Winsum
+Schouwerzijlsterweg,12,A,"",9951TG,Winsum
+Schouwerzijlsterweg,12,A,"",9951TG,Winsum
+Schouwerzijlsterweg,13,"","",9951TG,Winsum
+Schouwerzijlsterweg,2,"","",9951TG,Winsum
+Schouwerzijlsterweg,2,A,"",9951TG,Winsum
+Schouwerzijlsterweg,2,A,"",9951TG,Winsum
+Schouwerzijlsterweg,3,"","",9951TG,Winsum
+Schouwerzijlsterweg,3,A,"",9951TG,Winsum
+Schouwerzijlsterweg,3,A,"",9951TG,Winsum
+Schouwerzijlsterweg,4,"","",9951TG,Winsum
+Schouwerzijlsterweg,5,"","",9951TG,Winsum
+Schouwerzijlsterweg,6,"","",9951TG,Winsum
+Schouwerzijlsterweg,6,A,"",9951TG,Winsum
+Schouwerzijlsterweg,6,A,"",9951TG,Winsum
+Schouwerzijlsterweg,6,A,"",9951TG,Winsum
+Schouwerzijlsterweg,6,A,01,9951TG,Winsum
+Schouwerzijlsterweg,6,A,01,9951TG,Winsum
+Schouwerzijlsterweg,6,A,02,9951TG,Winsum
+Schouwerzijlsterweg,6,A,02,9951TG,Winsum
+Schouwerzijlsterweg,6,A,03,9951TG,Winsum
+Schouwerzijlsterweg,6,A,03,9951TG,Winsum
+Schouwerzijlsterweg,6,A,03,9951TG,Winsum
+Schouwerzijlsterweg,8,A,"",9951TG,Winsum
+Schouwerzijlsterweg,8,A,"",9951TG,Winsum
+Schouwerzijlsterweg,9,"","",9951TG,Winsum
+Winsumermeeden,1,"","",9951TH,Winsum
+Winsumermeeden,1,A,"",9951TH,Winsum
+Winsumermeeden,1,A,"",9951TH,Winsum
+Winsumermeeden,2,"","",9951TH,Winsum
+Winsumermeeden,2,T,"",9951TH,Winsum
+Winsumermeeden,2,T,"",9951TH,Winsum
+Winsumermeeden,3,"","",9951TH,Winsum
+Winsumermeeden,4,"","",9951TH,Winsum
+Winsumermeeden,5,"","",9951TH,Winsum
+Winsumermeeden,7,"","",9951TH,Winsum
+Winsumermeeden,7,A,"",9951TH,Winsum
+Winsumermeeden,7,A,"",9951TH,Winsum
+Voslaan,1,"","",9951TJ,Winsum
+Voslaan,2,"","",9951TJ,Winsum
+Winsumerstraatweg,1,"","",9951TK,Winsum
+Winsumerstraatweg,11,"","",9951TK,Winsum
+Winsumerstraatweg,2,"","",9951TK,Winsum
+Winsumerstraatweg,2,T,"",9951TK,Winsum
+Winsumerstraatweg,2,T,"",9951TK,Winsum
+Winsumerstraatweg,3,"","",9951TK,Winsum
+Winsumerstraatweg,4,"","",9951TK,Winsum
+Winsumerstraatweg,5,"","",9951TK,Winsum
+Winsumerstraatweg,6,"","",9951TK,Winsum
+Winsumerstraatweg,7,"","",9951TK,Winsum
+Winsumerstraatweg,8,"","",9951TK,Winsum
+Winsumerstraatweg,8,"","",9951TK,Winsum
+Winsumerstraatweg,8,"","",9951TK,Winsum
+Schilligeham,1,"","",9951TN,Winsum
+Schilligeham,1,T,"",9951TN,Winsum
+Schilligeham,1,T,"",9951TN,Winsum
+Schilligeham,2,"","",9951TN,Winsum
+Schilligeham,3,"","",9951TN,Winsum
+Schilligeham,4,"","",9951TN,Winsum
+Schilligeham,6,"","",9951TN,Winsum
+Schilligeham,6,T,"",9951TN,Winsum
+Schilligeham,6,T,"",9951TN,Winsum
+Schilligeham,7,"","",9951TN,Winsum
+Schilligeham,8,"","",9951TN,Winsum
+Garnwerderweg,1,"","",9951TP,Winsum
+Garnwerderweg,2,"","",9951TP,Winsum
+Garnwerderweg,2,A,"",9951TP,Winsum
+Garnwerderweg,2,A,"",9951TP,Winsum
+Garnwerderweg,2,A,"",9951TP,Winsum
+Garnwerderweg,2,B,"",9951TP,Winsum
+Garnwerderweg,2,B,"",9951TP,Winsum
+Garnwerderweg,2,B,"",9951TP,Winsum
+Garnwerderweg,3,"","",9951TP,Winsum
+Garnwerderweg,4,"","",9951TP,Winsum
+Garnwerderweg,5,"","",9951TP,Winsum
+Garnwerderweg,6,"","",9951TP,Winsum
+Garnwerderweg,7,"","",9951TP,Winsum
+Garnwerderweg,8,"","",9951TP,Winsum
+Garnwerderweg,9,"","",9951TP,Winsum
+Klein Garnwerd,1,"","",9951TR,Winsum
+Klein Garnwerd,10,"","",9951TR,Winsum
+Klein Garnwerd,11,"","",9951TR,Winsum
+Klein Garnwerd,2,"","",9951TR,Winsum
+Klein Garnwerd,3,"","",9951TR,Winsum
+Klein Garnwerd,3,T,"",9951TR,Winsum
+Klein Garnwerd,3,T,"",9951TR,Winsum
+Klein Garnwerd,4,"","",9951TR,Winsum
+Klein Garnwerd,4,"","",9951TR,Winsum
+Klein Garnwerd,4,"","",9951TR,Winsum
+Klein Garnwerd,5,"","",9951TR,Winsum
+Klein Garnwerd,6,"","",9951TR,Winsum
+Klein Garnwerd,6,T,"",9951TR,Winsum
+Klein Garnwerd,6,T,"",9951TR,Winsum
+Klein Garnwerd,7,"","",9951TR,Winsum
+Klein Garnwerd,8,"","",9951TR,Winsum
+Klein Garnwerd,9,"","",9951TR,Winsum
+Tinallingerweg,1,"","",9951TT,Winsum
+Tinallingerweg,1,A,"",9951TT,Winsum
+Tinallingerweg,1,A,"",9951TT,Winsum
+Wildeveldseweg,1,"","",9951TV,Winsum
+Wildeveldseweg,3,"","",9951TV,Winsum
+Schaphalsterzijl,1,"","",9951TW,Winsum
+Schaphalsterzijl,1,A,"",9951TW,Winsum
+Schaphalsterzijl,1,A,"",9951TW,Winsum
+Schaphalsterzijl,2,"","",9951TW,Winsum
+Schaphalsterzijl,2,T,"",9951TW,Winsum
+Schaphalsterzijl,2,T,"",9951TW,Winsum
+Schaphalsterzijl,3,"","",9951TW,Winsum
+Schaphalsterzijl,4,"","",9951TW,Winsum
+Schaphalsterzijl,4,A,"",9951TW,Winsum
+Schaphalsterzijl,4,A,"",9951TW,Winsum
+Schaphalsterzijl,4,B,"",9951TW,Winsum
+Schaphalsterzijl,4,B,"",9951TW,Winsum
+Schaphalsterzijl,5,"","",9951TW,Winsum
+Schaphalsterzijl,6,"","",9951TW,Winsum
+Schaphalsterzijl,7,"","",9951TW,Winsum
+Eenrumerweg,49,"","",9951TX,Winsum
+Eenrumerweg,50,"","",9951TX,Winsum
+Eenrumerweg,51,"","",9951TX,Winsum
+Eenrumerweg,52,"","",9951TX,Winsum
+Eenrumerweg,53,"","",9951TX,Winsum

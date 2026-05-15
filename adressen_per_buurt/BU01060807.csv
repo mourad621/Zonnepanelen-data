@@ -1,631 +1,316 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9408EA",29,"",""
-"9408EA",39,"",""
-"9408EA",37,"",""
-"9408EA",1,"",""
-"9408EA",79,"",""
-"9408EA",51,"",""
-"9408EA",75,"",""
-"9408EA",45,"",""
-"9408EA",27,"",""
-"9408EA",43,"",""
-"9408EA",77,"",""
-"9408EA",19,"",""
-"9408EA",71,"",""
-"9408EA",21,"",""
-"9408EA",41,"",""
-"9408EA",73,"",""
-"9408EA",31,"",""
-"9408EA",33,"",""
-"9408EA",57,"",""
-"9408EA",3,"",""
-"9408EA",67,"",""
-"9408EA",61,"",""
-"9408EA",13,"",""
-"9408EA",11,"",""
-"9408EA",35,"",""
-"9408EA",65,"",""
-"9408EA",49,"",""
-"9408EA",53,"",""
-"9408EA",15,"",""
-"9408EA",9,"",""
-"9408EA",63,"",""
-"9408EA",17,"",""
-"9408EA",59,"",""
-"9408EA",47,"",""
-"9408EA",7,"",""
-"9408EA",25,"",""
-"9408EA",5,"",""
-"9408EA",23,"",""
-"9408EA",55,"",""
-"9408EA",69,"",""
-"9408EB",12,"",""
-"9408EB",24,"",""
-"9408EB",10,"",""
-"9408EB",32,"",""
-"9408EB",18,"",""
-"9408EB",2,"",""
-"9408EB",4,"",""
-"9408EB",16,"",""
-"9408EB",6,"",""
-"9408EB",28,"",""
-"9408EB",38,"",""
-"9408EB",20,"",""
-"9408EB",36,"",""
-"9408EB",14,"",""
-"9408EB",8,"",""
-"9408EB",30,"",""
-"9408EB",22,"",""
-"9408EB",26,"",""
-"9408EB",40,"",""
-"9408EB",34,"",""
-"9408EC",5,"",""
-"9408EC",1,"",""
-"9408EC",17,"",""
-"9408EC",13,"",""
-"9408EC",9,"",""
-"9408EC",15,"",""
-"9408EC",11,"",""
-"9408EC",23,"",""
-"9408EC",3,"",""
-"9408EC",21,"",""
-"9408EC",19,"",""
-"9408EC",27,"",""
-"9408EC",25,"",""
-"9408ED",23,"",""
-"9408ED",31,"",""
-"9408ED",21,"",""
-"9408ED",17,"",""
-"9408ED",25,"",""
-"9408ED",11,"",""
-"9408ED",19,"",""
-"9408ED",13,"",""
-"9408ED",27,"",""
-"9408ED",7,"",""
-"9408ED",9,"",""
-"9408ED",33,"",""
-"9408ED",5,"",""
-"9408ED",29,"",""
-"9408ED",1,"",""
-"9408ED",15,"",""
-"9408ED",35,"",""
-"9408ED",3,"",""
-"9408EE",26,"",""
-"9408EE",22,"",""
-"9408EE",24,"",""
-"9408EE",6,"",""
-"9408EE",20,"",""
-"9408EE",8,"",""
-"9408EE",2,"",""
-"9408EE",4,"",""
-"9408EE",10,"",""
-"9408EE",18,"",""
-"9408EE",30,"",""
-"9408EE",28,"",""
-"9408EE",16,"",""
-"9408EE",14,"",""
-"9408EE",12,"",""
-"9408EG",23,"",""
-"9408EG",1,"",""
-"9408EG",35,"",""
-"9408EG",29,"",""
-"9408EG",17,"",""
-"9408EG",19,"",""
-"9408EG",3,"",""
-"9408EG",31,"",""
-"9408EG",43,"",""
-"9408EG",27,"",""
-"9408EG",25,"",""
-"9408EG",5,"",""
-"9408EG",37,"",""
-"9408EG",39,"",""
-"9408EG",21,"",""
-"9408EG",41,"",""
-"9408EG",11,"",""
-"9408EG",15,"",""
-"9408EG",7,"",""
-"9408EG",13,"",""
-"9408EG",9,"",""
-"9408EG",33,"",""
-"9408EH",8,"",""
-"9408EH",12,"",""
-"9408EH",6,"",""
-"9408EH",24,"",""
-"9408EH",30,"",""
-"9408EH",18,"",""
-"9408EH",42,"",""
-"9408EH",32,"",""
-"9408EH",14,"",""
-"9408EH",28,"",""
-"9408EH",10,"",""
-"9408EH",34,"",""
-"9408EH",4,"",""
-"9408EH",44,"",""
-"9408EH",26,"",""
-"9408EH",16,"",""
-"9408EH",40,"",""
-"9408EH",38,"",""
-"9408EH",36,"",""
-"9408EH",2,"",""
-"9408EJ",23,"",""
-"9408EJ",9,"",""
-"9408EJ",19,"",""
-"9408EJ",29,"",""
-"9408EJ",11,"",""
-"9408EJ",7,"",""
-"9408EJ",25,"",""
-"9408EJ",15,"",""
-"9408EJ",21,"",""
-"9408EJ",17,"",""
-"9408EJ",33,"",""
-"9408EJ",5,"",""
-"9408EJ",13,"",""
-"9408EJ",31,"",""
-"9408EJ",27,"",""
-"9408EJ",1,"",""
-"9408EJ",3,"",""
-"9408EK",16,"",""
-"9408EK",22,"",""
-"9408EK",12,"",""
-"9408EK",30,"",""
-"9408EK",18,"",""
-"9408EK",24,"",""
-"9408EK",32,"",""
-"9408EK",6,"",""
-"9408EK",2,"",""
-"9408EK",26,"",""
-"9408EK",10,"",""
-"9408EK",14,"",""
-"9408EK",20,"",""
-"9408EK",28,"",""
-"9408EK",4,"",""
-"9408EK",8,"",""
-"9408EL",11,"",""
-"9408EL",9,"",""
-"9408EL",15,"",""
-"9408EL",1,"",""
-"9408EL",19,"",""
-"9408EL",5,"",""
-"9408EL",13,"",""
-"9408EL",17,"",""
-"9408EL",3,"",""
-"9408EL",7,"",""
-"9408EM",18,"",""
-"9408EM",30,"",""
-"9408EM",14,"",""
-"9408EM",4,"",""
-"9408EM",16,"",""
-"9408EM",12,"",""
-"9408EM",42,"",""
-"9408EM",22,"",""
-"9408EM",24,"",""
-"9408EM",28,"",""
-"9408EM",32,"",""
-"9408EM",38,"",""
-"9408EM",26,"",""
-"9408EM",46,"",""
-"9408EM",10,"",""
-"9408EM",40,"",""
-"9408EM",20,"",""
-"9408EM",6,"",""
-"9408EM",36,"",""
-"9408EM",44,"",""
-"9408EM",8,"",""
-"9408EM",2,"",""
-"9408EM",34,"",""
-"9408EN",43,"",""
-"9408EN",41,"",""
-"9408EN",45,"",""
-"9408EN",37,"",""
-"9408EN",47,"",""
-"9408EN",25,"",""
-"9408EN",33,"",""
-"9408EN",23,"",""
-"9408EN",17,"",""
-"9408EN",9,"",""
-"9408EN",27,"",""
-"9408EN",31,"",""
-"9408EN",35,"",""
-"9408EN",3,"",""
-"9408EN",1,"",""
-"9408EN",11,"",""
-"9408EN",15,"",""
-"9408EN",39,"",""
-"9408EN",5,"",""
-"9408EN",29,"",""
-"9408EN",19,"",""
-"9408EN",13,"",""
-"9408EN",7,"",""
-"9408EN",21,"",""
-"9408EP",8,"",""
-"9408EP",2,"",""
-"9408EP",14,"",""
-"9408EP",18,"",""
-"9408EP",10,"",""
-"9408EP",20,"",""
-"9408EP",12,"",""
-"9408EP",6,"",""
-"9408EP",16,"",""
-"9408EP",4,"",""
-"9408ER",7,"",""
-"9408ER",37,"",""
-"9408ER",27,"",""
-"9408ER",1,"",""
-"9408ER",35,"",""
-"9408ER",5,"",""
-"9408ER",21,"",""
-"9408ER",11,"",""
-"9408ER",17,"",""
-"9408ER",9,"",""
-"9408ER",33,"",""
-"9408ER",23,"",""
-"9408ER",13,"",""
-"9408ER",15,"",""
-"9408ER",19,"",""
-"9408ER",25,"",""
-"9408ER",29,"",""
-"9408ER",3,"",""
-"9408ER",31,"",""
-"9408ES",18,"",""
-"9408ES",8,"",""
-"9408ES",2,"",""
-"9408ES",22,"",""
-"9408ES",20,"",""
-"9408ES",12,"",""
-"9408ES",6,"",""
-"9408ES",32,"",""
-"9408ES",28,"",""
-"9408ES",10,"",""
-"9408ES",14,"",""
-"9408ES",4,"",""
-"9408ES",26,"",""
-"9408ES",24,"",""
-"9408ES",30,"",""
-"9408ES",16,"",""
-"9408EV",22,"",""
-"9408EV",6,"",""
-"9408EV",60,"",""
-"9408EV",34,"",""
-"9408EV",24,"",""
-"9408EV",20,"",""
-"9408EV",32,"",""
-"9408EV",58,"",""
-"9408EV",12,"",""
-"9408EV",30,"",""
-"9408EV",4,"",""
-"9408EV",16,"",""
-"9408EV",26,"",""
-"9408EV",44,"",""
-"9408EV",36,"",""
-"9408EV",64,"",""
-"9408EV",56,"",""
-"9408EV",46,"",""
-"9408EV",50,"",""
-"9408EV",54,"",""
-"9408EV",62,"",""
-"9408EV",10,"",""
-"9408EV",18,"",""
-"9408EV",8,"",""
-"9408EV",2,"",""
-"9408EV",14,"",""
-"9408EV",28,"",""
-"9408EV",40,"",""
-"9408EV",42,"",""
-"9408EV",52,"",""
-"9408EV",48,"",""
-"9408EV",38,"",""
-9408EA,Aletta Jacobsweg,1,,
-9408EA,Aletta Jacobsweg,3,,
-9408EA,Aletta Jacobsweg,5,,
-9408EA,Aletta Jacobsweg,7,,
-9408EA,Aletta Jacobsweg,9,,
-9408EA,Aletta Jacobsweg,11,,
-9408EA,Aletta Jacobsweg,13,,
-9408EA,Aletta Jacobsweg,15,,
-9408EA,Aletta Jacobsweg,17,,
-9408EA,Aletta Jacobsweg,19,,
-9408EA,Aletta Jacobsweg,21,,
-9408EA,Aletta Jacobsweg,23,,
-9408EA,Aletta Jacobsweg,25,,
-9408EA,Aletta Jacobsweg,27,,
-9408EA,Aletta Jacobsweg,29,,
-9408EA,Aletta Jacobsweg,31,,
-9408EA,Aletta Jacobsweg,33,,
-9408EA,Aletta Jacobsweg,35,,
-9408EA,Aletta Jacobsweg,37,,
-9408EA,Aletta Jacobsweg,39,,
-9408EA,Aletta Jacobsweg,41,,
-9408EA,Aletta Jacobsweg,43,,
-9408EA,Aletta Jacobsweg,45,,
-9408EN,Berberishage,1,,
-9408EN,Berberishage,3,,
-9408EN,Berberishage,5,,
-9408EN,Berberishage,7,,
-9408EN,Berberishage,9,,
-9408EN,Berberishage,11,,
-9408EN,Berberishage,13,,
-9408EN,Berberishage,15,,
-9408EN,Berberishage,17,,
-9408EN,Berberishage,19,,
-9408EN,Berberishage,21,,
-9408EN,Berberishage,23,,
-9408EN,Berberishage,25,,
-9408EN,Berberishage,27,,
-9408EN,Berberishage,29,,
-9408EN,Berberishage,31,,
-9408EN,Berberishage,33,,
-9408EN,Berberishage,35,,
-9408EN,Berberishage,37,,
-9408EN,Berberishage,39,,
-9408EN,Berberishage,41,,
-9408EN,Berberishage,43,,
-9408EN,Berberishage,45,,
-9408EN,Berberishage,47,,
-9408EP,Berberishage,2,,
-9408EP,Berberishage,4,,
-9408EP,Berberishage,6,,
-9408EP,Berberishage,8,,
-9408EP,Berberishage,10,,
-9408EP,Berberishage,12,,
-9408EP,Berberishage,14,,
-9408EP,Berberishage,16,,
-9408EP,Berberishage,18,,
-9408EP,Berberishage,20,,
-9408ED,Buxushage,15,,
-9408ED,Buxushage,17,,
-9408ED,Buxushage,19,,
-9408ED,Buxushage,21,,
-9408ED,Buxushage,23,,
-9408ED,Buxushage,25,,
-9408ED,Buxushage,27,,
-9408ED,Buxushage,29,,
-9408ED,Buxushage,31,,
-9408ED,Buxushage,33,,
-9408ED,Buxushage,35,,
-9408ED,Buxushage,1,,
-9408ED,Buxushage,3,,
-9408ED,Buxushage,5,,
-9408ED,Buxushage,7,,
-9408ED,Buxushage,9,,
-9408ED,Buxushage,11,,
-9408ED,Buxushage,13,,
-9408EE,Buxushage,16,,
-9408EE,Buxushage,18,,
-9408EE,Buxushage,20,,
-9408EE,Buxushage,22,,
-9408EE,Buxushage,24,,
-9408EE,Buxushage,26,,
-9408EE,Buxushage,28,,
-9408EE,Buxushage,30,,
-9408EE,Buxushage,2,,
-9408EE,Buxushage,4,,
-9408EE,Buxushage,6,,
-9408EE,Buxushage,8,,
-9408EE,Buxushage,10,,
-9408EE,Buxushage,12,,
-9408EE,Buxushage,14,,
-9408EG,Hulsthage,1,,
-9408EG,Hulsthage,3,,
-9408EG,Hulsthage,5,,
-9408EG,Hulsthage,7,,
-9408EG,Hulsthage,9,,
-9408EG,Hulsthage,11,,
-9408EG,Hulsthage,13,,
-9408EG,Hulsthage,15,,
-9408EG,Hulsthage,17,,
-9408EG,Hulsthage,19,,
-9408EG,Hulsthage,21,,
-9408EG,Hulsthage,23,,
-9408EG,Hulsthage,25,,
-9408EG,Hulsthage,27,,
-9408EG,Hulsthage,29,,
-9408EG,Hulsthage,31,,
-9408EG,Hulsthage,33,,
-9408EG,Hulsthage,35,,
-9408EG,Hulsthage,37,,
-9408EG,Hulsthage,39,,
-9408EG,Hulsthage,41,,
-9408EG,Hulsthage,43,,
-9408EH,Hulsthage,2,,
-9408EH,Hulsthage,4,,
-9408EH,Hulsthage,6,,
-9408EH,Hulsthage,8,,
-9408EH,Hulsthage,10,,
-9408EH,Hulsthage,12,,
-9408EH,Hulsthage,14,,
-9408EH,Hulsthage,16,,
-9408EH,Hulsthage,18,,
-9408EH,Hulsthage,24,,
-9408EH,Hulsthage,26,,
-9408EH,Hulsthage,28,,
-9408EH,Hulsthage,30,,
-9408EH,Hulsthage,32,,
-9408EH,Hulsthage,34,,
-9408EH,Hulsthage,36,,
-9408EH,Hulsthage,38,,
-9408EH,Hulsthage,40,,
-9408EH,Hulsthage,42,,
-9408EH,Hulsthage,44,,
-9408EJ,Ligusterhage,1,,
-9408EJ,Ligusterhage,3,,
-9408EJ,Ligusterhage,5,,
-9408EJ,Ligusterhage,7,,
-9408EJ,Ligusterhage,9,,
-9408EJ,Ligusterhage,11,,
-9408EJ,Ligusterhage,13,,
-9408EJ,Ligusterhage,15,,
-9408EJ,Ligusterhage,17,,
-9408EJ,Ligusterhage,19,,
-9408EJ,Ligusterhage,21,,
-9408EJ,Ligusterhage,23,,
-9408EJ,Ligusterhage,25,,
-9408EJ,Ligusterhage,27,,
-9408EJ,Ligusterhage,29,,
-9408EJ,Ligusterhage,31,,
-9408EJ,Ligusterhage,33,,
-9408EK,Ligusterhage,2,,
-9408EK,Ligusterhage,4,,
-9408EK,Ligusterhage,6,,
-9408EK,Ligusterhage,8,,
-9408EK,Ligusterhage,10,,
-9408EK,Ligusterhage,12,,
-9408EK,Ligusterhage,14,,
-9408EK,Ligusterhage,16,,
-9408EK,Ligusterhage,18,,
-9408EK,Ligusterhage,20,,
-9408EK,Ligusterhage,22,,
-9408EK,Ligusterhage,24,,
-9408EK,Ligusterhage,26,,
-9408EK,Ligusterhage,28,,
-9408EK,Ligusterhage,30,,
-9408EK,Ligusterhage,32,,
-9408EL,Oleanderhage,1,,
-9408EL,Oleanderhage,3,,
-9408EL,Oleanderhage,5,,
-9408EL,Oleanderhage,7,,
-9408EL,Oleanderhage,9,,
-9408EL,Oleanderhage,11,,
-9408EL,Oleanderhage,13,,
-9408EL,Oleanderhage,15,,
-9408EL,Oleanderhage,17,,
-9408EL,Oleanderhage,19,,
-9408EM,Oleanderhage,2,,
-9408EM,Oleanderhage,4,,
-9408EM,Oleanderhage,6,,
-9408EM,Oleanderhage,8,,
-9408EM,Oleanderhage,10,,
-9408EM,Oleanderhage,12,,
-9408EM,Oleanderhage,14,,
-9408EM,Oleanderhage,16,,
-9408EM,Oleanderhage,18,,
-9408EM,Oleanderhage,20,,
-9408EM,Oleanderhage,22,,
-9408EM,Oleanderhage,24,,
-9408EM,Oleanderhage,26,,
-9408EM,Oleanderhage,28,,
-9408EM,Oleanderhage,30,,
-9408EM,Oleanderhage,32,,
-9408EM,Oleanderhage,34,,
-9408EM,Oleanderhage,36,,
-9408EM,Oleanderhage,38,,
-9408EM,Oleanderhage,40,,
-9408EM,Oleanderhage,42,,
-9408EM,Oleanderhage,44,,
-9408EM,Oleanderhage,46,,
-9408ER,Prunushage,1,,
-9408ER,Prunushage,3,,
-9408ER,Prunushage,5,,
-9408ER,Prunushage,7,,
-9408ER,Prunushage,9,,
-9408ER,Prunushage,11,,
-9408ER,Prunushage,13,,
-9408ER,Prunushage,15,,
-9408ER,Prunushage,17,,
-9408ER,Prunushage,19,,
-9408ER,Prunushage,21,,
-9408ER,Prunushage,23,,
-9408ER,Prunushage,25,,
-9408ER,Prunushage,27,,
-9408ER,Prunushage,29,,
-9408ER,Prunushage,31,,
-9408ER,Prunushage,33,,
-9408ER,Prunushage,35,,
-9408ER,Prunushage,37,,
-9408ES,Prunushage,2,,
-9408ES,Prunushage,4,,
-9408ES,Prunushage,6,,
-9408ES,Prunushage,8,,
-9408ES,Prunushage,10,,
-9408ES,Prunushage,12,,
-9408ES,Prunushage,14,,
-9408ES,Prunushage,16,,
-9408ES,Prunushage,18,,
-9408ES,Prunushage,20,,
-9408ES,Prunushage,22,,
-9408ES,Prunushage,24,,
-9408ES,Prunushage,26,,
-9408ES,Prunushage,28,,
-9408ES,Prunushage,30,,
-9408ES,Prunushage,32,,
-9408EB,Ribeshage,2,,
-9408EB,Ribeshage,4,,
-9408EB,Ribeshage,6,,
-9408EB,Ribeshage,8,,
-9408EB,Ribeshage,10,,
-9408EB,Ribeshage,12,,
-9408EB,Ribeshage,14,,
-9408EB,Ribeshage,16,,
-9408EB,Ribeshage,18,,
-9408EB,Ribeshage,20,,
-9408EB,Ribeshage,22,,
-9408EB,Ribeshage,24,,
-9408EB,Ribeshage,26,,
-9408EB,Ribeshage,28,,
-9408EB,Ribeshage,30,,
-9408EB,Ribeshage,32,,
-9408EB,Ribeshage,34,,
-9408EB,Ribeshage,36,,
-9408EB,Ribeshage,38,,
-9408EB,Ribeshage,40,,
-9408EC,Ribeshage,1,,
-9408EC,Ribeshage,3,,
-9408EC,Ribeshage,5,,
-9408EC,Ribeshage,9,,
-9408EC,Ribeshage,11,,
-9408EC,Ribeshage,13,,
-9408EC,Ribeshage,15,,
-9408EC,Ribeshage,17,,
-9408EC,Ribeshage,19,,
-9408EC,Ribeshage,21,,
-9408EC,Ribeshage,23,,
-9408EC,Ribeshage,25,,
-9408EC,Ribeshage,27,,
-9408EV,Rosa Spierweg,2,,
-9408EV,Rosa Spierweg,4,,
-9408EV,Rosa Spierweg,6,,
-9408EV,Rosa Spierweg,8,,
-9408EV,Rosa Spierweg,10,,
-9408EV,Rosa Spierweg,12,,
-9408EV,Rosa Spierweg,14,,
-9408EV,Rosa Spierweg,16,,
-9408EV,Rosa Spierweg,18,,
-9408EV,Rosa Spierweg,20,,
-9408EV,Rosa Spierweg,22,,
-9408EV,Rosa Spierweg,24,,
-9408EV,Rosa Spierweg,26,,
-9408EV,Rosa Spierweg,28,,
-9408EV,Rosa Spierweg,30,,
-9408EV,Rosa Spierweg,32,,
-9408EV,Rosa Spierweg,34,,
-9408EV,Rosa Spierweg,36,,
-9408EV,Rosa Spierweg,38,,
-9408EV,Rosa Spierweg,40,,
-9408EV,Rosa Spierweg,42,,
-9408EV,Rosa Spierweg,44,,
-9408EV,Rosa Spierweg,46,,
-9408EV,Rosa Spierweg,48,,
-9408EA,Aletta Jacobsweg,49,,
-9408EA,Aletta Jacobsweg,51,,
-9408EA,Aletta Jacobsweg,53,,
-9408EA,Aletta Jacobsweg,55,,
-9408EA,Aletta Jacobsweg,57,,
-9408EA,Aletta Jacobsweg,59,,
-9408EA,Aletta Jacobsweg,61,,
-9408EA,Aletta Jacobsweg,63,,
-9408EA,Aletta Jacobsweg,67,,
-9408EA,Aletta Jacobsweg,69,,
-9408EA,Aletta Jacobsweg,71,,
-9408EA,Aletta Jacobsweg,73,,
-9408EA,Aletta Jacobsweg,75,,
-9408EA,Aletta Jacobsweg,77,,
-9408EA,Aletta Jacobsweg,79,,
-9408EA,Aletta Jacobsweg,47,,
-9408EA,Aletta Jacobsweg,65,,
-9408EV,Rosa Spierweg,50,,
-9408EV,Rosa Spierweg,52,,
-9408EV,Rosa Spierweg,58,,
-9408EV,Rosa Spierweg,60,,
-9408EV,Rosa Spierweg,64,,
-9408EV,Rosa Spierweg,62,,
-9408EV,Rosa Spierweg,56,,
-9408EV,Rosa Spierweg,54,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Aletta Jacobsweg,1,"","",9408EA,Assen
+Aletta Jacobsweg,11,"","",9408EA,Assen
+Aletta Jacobsweg,13,"","",9408EA,Assen
+Aletta Jacobsweg,15,"","",9408EA,Assen
+Aletta Jacobsweg,17,"","",9408EA,Assen
+Aletta Jacobsweg,19,"","",9408EA,Assen
+Aletta Jacobsweg,21,"","",9408EA,Assen
+Aletta Jacobsweg,23,"","",9408EA,Assen
+Aletta Jacobsweg,25,"","",9408EA,Assen
+Aletta Jacobsweg,27,"","",9408EA,Assen
+Aletta Jacobsweg,29,"","",9408EA,Assen
+Aletta Jacobsweg,3,"","",9408EA,Assen
+Aletta Jacobsweg,31,"","",9408EA,Assen
+Aletta Jacobsweg,33,"","",9408EA,Assen
+Aletta Jacobsweg,35,"","",9408EA,Assen
+Aletta Jacobsweg,37,"","",9408EA,Assen
+Aletta Jacobsweg,39,"","",9408EA,Assen
+Aletta Jacobsweg,41,"","",9408EA,Assen
+Aletta Jacobsweg,43,"","",9408EA,Assen
+Aletta Jacobsweg,45,"","",9408EA,Assen
+Aletta Jacobsweg,47,"","",9408EA,Assen
+Aletta Jacobsweg,49,"","",9408EA,Assen
+Aletta Jacobsweg,5,"","",9408EA,Assen
+Aletta Jacobsweg,51,"","",9408EA,Assen
+Aletta Jacobsweg,53,"","",9408EA,Assen
+Aletta Jacobsweg,55,"","",9408EA,Assen
+Aletta Jacobsweg,57,"","",9408EA,Assen
+Aletta Jacobsweg,59,"","",9408EA,Assen
+Aletta Jacobsweg,61,"","",9408EA,Assen
+Aletta Jacobsweg,63,"","",9408EA,Assen
+Aletta Jacobsweg,65,"","",9408EA,Assen
+Aletta Jacobsweg,67,"","",9408EA,Assen
+Aletta Jacobsweg,69,"","",9408EA,Assen
+Aletta Jacobsweg,7,"","",9408EA,Assen
+Aletta Jacobsweg,71,"","",9408EA,Assen
+Aletta Jacobsweg,73,"","",9408EA,Assen
+Aletta Jacobsweg,75,"","",9408EA,Assen
+Aletta Jacobsweg,77,"","",9408EA,Assen
+Aletta Jacobsweg,79,"","",9408EA,Assen
+Aletta Jacobsweg,9,"","",9408EA,Assen
+Ribeshage,10,"","",9408EB,Assen
+Ribeshage,12,"","",9408EB,Assen
+Ribeshage,14,"","",9408EB,Assen
+Ribeshage,16,"","",9408EB,Assen
+Ribeshage,18,"","",9408EB,Assen
+Ribeshage,2,"","",9408EB,Assen
+Ribeshage,20,"","",9408EB,Assen
+Ribeshage,22,"","",9408EB,Assen
+Ribeshage,24,"","",9408EB,Assen
+Ribeshage,26,"","",9408EB,Assen
+Ribeshage,28,"","",9408EB,Assen
+Ribeshage,30,"","",9408EB,Assen
+Ribeshage,32,"","",9408EB,Assen
+Ribeshage,34,"","",9408EB,Assen
+Ribeshage,36,"","",9408EB,Assen
+Ribeshage,38,"","",9408EB,Assen
+Ribeshage,4,"","",9408EB,Assen
+Ribeshage,40,"","",9408EB,Assen
+Ribeshage,6,"","",9408EB,Assen
+Ribeshage,8,"","",9408EB,Assen
+Ribeshage,1,"","",9408EC,Assen
+Ribeshage,11,"","",9408EC,Assen
+Ribeshage,13,"","",9408EC,Assen
+Ribeshage,15,"","",9408EC,Assen
+Ribeshage,17,"","",9408EC,Assen
+Ribeshage,19,"","",9408EC,Assen
+Ribeshage,21,"","",9408EC,Assen
+Ribeshage,23,"","",9408EC,Assen
+Ribeshage,25,"","",9408EC,Assen
+Ribeshage,27,"","",9408EC,Assen
+Ribeshage,3,"","",9408EC,Assen
+Ribeshage,5,"","",9408EC,Assen
+Ribeshage,9,"","",9408EC,Assen
+Buxushage,1,"","",9408ED,Assen
+Buxushage,11,"","",9408ED,Assen
+Buxushage,13,"","",9408ED,Assen
+Buxushage,15,"","",9408ED,Assen
+Buxushage,17,"","",9408ED,Assen
+Buxushage,19,"","",9408ED,Assen
+Buxushage,21,"","",9408ED,Assen
+Buxushage,23,"","",9408ED,Assen
+Buxushage,25,"","",9408ED,Assen
+Buxushage,27,"","",9408ED,Assen
+Buxushage,29,"","",9408ED,Assen
+Buxushage,3,"","",9408ED,Assen
+Buxushage,31,"","",9408ED,Assen
+Buxushage,33,"","",9408ED,Assen
+Buxushage,35,"","",9408ED,Assen
+Buxushage,5,"","",9408ED,Assen
+Buxushage,7,"","",9408ED,Assen
+Buxushage,9,"","",9408ED,Assen
+Buxushage,10,"","",9408EE,Assen
+Buxushage,12,"","",9408EE,Assen
+Buxushage,14,"","",9408EE,Assen
+Buxushage,16,"","",9408EE,Assen
+Buxushage,18,"","",9408EE,Assen
+Buxushage,2,"","",9408EE,Assen
+Buxushage,20,"","",9408EE,Assen
+Buxushage,22,"","",9408EE,Assen
+Buxushage,24,"","",9408EE,Assen
+Buxushage,26,"","",9408EE,Assen
+Buxushage,28,"","",9408EE,Assen
+Buxushage,30,"","",9408EE,Assen
+Buxushage,4,"","",9408EE,Assen
+Buxushage,6,"","",9408EE,Assen
+Buxushage,8,"","",9408EE,Assen
+Hulsthage,1,"","",9408EG,Assen
+Hulsthage,11,"","",9408EG,Assen
+Hulsthage,13,"","",9408EG,Assen
+Hulsthage,15,"","",9408EG,Assen
+Hulsthage,17,"","",9408EG,Assen
+Hulsthage,19,"","",9408EG,Assen
+Hulsthage,21,"","",9408EG,Assen
+Hulsthage,23,"","",9408EG,Assen
+Hulsthage,25,"","",9408EG,Assen
+Hulsthage,27,"","",9408EG,Assen
+Hulsthage,29,"","",9408EG,Assen
+Hulsthage,3,"","",9408EG,Assen
+Hulsthage,31,"","",9408EG,Assen
+Hulsthage,33,"","",9408EG,Assen
+Hulsthage,35,"","",9408EG,Assen
+Hulsthage,37,"","",9408EG,Assen
+Hulsthage,39,"","",9408EG,Assen
+Hulsthage,41,"","",9408EG,Assen
+Hulsthage,43,"","",9408EG,Assen
+Hulsthage,5,"","",9408EG,Assen
+Hulsthage,7,"","",9408EG,Assen
+Hulsthage,9,"","",9408EG,Assen
+Hulsthage,10,"","",9408EH,Assen
+Hulsthage,12,"","",9408EH,Assen
+Hulsthage,14,"","",9408EH,Assen
+Hulsthage,16,"","",9408EH,Assen
+Hulsthage,18,"","",9408EH,Assen
+Hulsthage,2,"","",9408EH,Assen
+Hulsthage,24,"","",9408EH,Assen
+Hulsthage,26,"","",9408EH,Assen
+Hulsthage,28,"","",9408EH,Assen
+Hulsthage,30,"","",9408EH,Assen
+Hulsthage,32,"","",9408EH,Assen
+Hulsthage,34,"","",9408EH,Assen
+Hulsthage,36,"","",9408EH,Assen
+Hulsthage,38,"","",9408EH,Assen
+Hulsthage,4,"","",9408EH,Assen
+Hulsthage,40,"","",9408EH,Assen
+Hulsthage,42,"","",9408EH,Assen
+Hulsthage,44,"","",9408EH,Assen
+Hulsthage,6,"","",9408EH,Assen
+Hulsthage,8,"","",9408EH,Assen
+Ligusterhage,1,"","",9408EJ,Assen
+Ligusterhage,11,"","",9408EJ,Assen
+Ligusterhage,13,"","",9408EJ,Assen
+Ligusterhage,15,"","",9408EJ,Assen
+Ligusterhage,17,"","",9408EJ,Assen
+Ligusterhage,19,"","",9408EJ,Assen
+Ligusterhage,21,"","",9408EJ,Assen
+Ligusterhage,23,"","",9408EJ,Assen
+Ligusterhage,25,"","",9408EJ,Assen
+Ligusterhage,27,"","",9408EJ,Assen
+Ligusterhage,29,"","",9408EJ,Assen
+Ligusterhage,3,"","",9408EJ,Assen
+Ligusterhage,31,"","",9408EJ,Assen
+Ligusterhage,33,"","",9408EJ,Assen
+Ligusterhage,5,"","",9408EJ,Assen
+Ligusterhage,7,"","",9408EJ,Assen
+Ligusterhage,9,"","",9408EJ,Assen
+Ligusterhage,10,"","",9408EK,Assen
+Ligusterhage,12,"","",9408EK,Assen
+Ligusterhage,14,"","",9408EK,Assen
+Ligusterhage,16,"","",9408EK,Assen
+Ligusterhage,18,"","",9408EK,Assen
+Ligusterhage,2,"","",9408EK,Assen
+Ligusterhage,20,"","",9408EK,Assen
+Ligusterhage,22,"","",9408EK,Assen
+Ligusterhage,24,"","",9408EK,Assen
+Ligusterhage,26,"","",9408EK,Assen
+Ligusterhage,28,"","",9408EK,Assen
+Ligusterhage,30,"","",9408EK,Assen
+Ligusterhage,32,"","",9408EK,Assen
+Ligusterhage,4,"","",9408EK,Assen
+Ligusterhage,6,"","",9408EK,Assen
+Ligusterhage,8,"","",9408EK,Assen
+Oleanderhage,1,"","",9408EL,Assen
+Oleanderhage,11,"","",9408EL,Assen
+Oleanderhage,13,"","",9408EL,Assen
+Oleanderhage,15,"","",9408EL,Assen
+Oleanderhage,17,"","",9408EL,Assen
+Oleanderhage,19,"","",9408EL,Assen
+Oleanderhage,3,"","",9408EL,Assen
+Oleanderhage,5,"","",9408EL,Assen
+Oleanderhage,7,"","",9408EL,Assen
+Oleanderhage,9,"","",9408EL,Assen
+Oleanderhage,10,"","",9408EM,Assen
+Oleanderhage,12,"","",9408EM,Assen
+Oleanderhage,14,"","",9408EM,Assen
+Oleanderhage,16,"","",9408EM,Assen
+Oleanderhage,18,"","",9408EM,Assen
+Oleanderhage,2,"","",9408EM,Assen
+Oleanderhage,20,"","",9408EM,Assen
+Oleanderhage,22,"","",9408EM,Assen
+Oleanderhage,24,"","",9408EM,Assen
+Oleanderhage,26,"","",9408EM,Assen
+Oleanderhage,28,"","",9408EM,Assen
+Oleanderhage,30,"","",9408EM,Assen
+Oleanderhage,32,"","",9408EM,Assen
+Oleanderhage,34,"","",9408EM,Assen
+Oleanderhage,36,"","",9408EM,Assen
+Oleanderhage,38,"","",9408EM,Assen
+Oleanderhage,4,"","",9408EM,Assen
+Oleanderhage,40,"","",9408EM,Assen
+Oleanderhage,42,"","",9408EM,Assen
+Oleanderhage,44,"","",9408EM,Assen
+Oleanderhage,46,"","",9408EM,Assen
+Oleanderhage,6,"","",9408EM,Assen
+Oleanderhage,8,"","",9408EM,Assen
+Berberishage,1,"","",9408EN,Assen
+Berberishage,11,"","",9408EN,Assen
+Berberishage,13,"","",9408EN,Assen
+Berberishage,15,"","",9408EN,Assen
+Berberishage,17,"","",9408EN,Assen
+Berberishage,19,"","",9408EN,Assen
+Berberishage,21,"","",9408EN,Assen
+Berberishage,23,"","",9408EN,Assen
+Berberishage,25,"","",9408EN,Assen
+Berberishage,27,"","",9408EN,Assen
+Berberishage,29,"","",9408EN,Assen
+Berberishage,3,"","",9408EN,Assen
+Berberishage,31,"","",9408EN,Assen
+Berberishage,33,"","",9408EN,Assen
+Berberishage,35,"","",9408EN,Assen
+Berberishage,37,"","",9408EN,Assen
+Berberishage,39,"","",9408EN,Assen
+Berberishage,41,"","",9408EN,Assen
+Berberishage,43,"","",9408EN,Assen
+Berberishage,45,"","",9408EN,Assen
+Berberishage,47,"","",9408EN,Assen
+Berberishage,5,"","",9408EN,Assen
+Berberishage,7,"","",9408EN,Assen
+Berberishage,9,"","",9408EN,Assen
+Berberishage,10,"","",9408EP,Assen
+Berberishage,12,"","",9408EP,Assen
+Berberishage,14,"","",9408EP,Assen
+Berberishage,16,"","",9408EP,Assen
+Berberishage,18,"","",9408EP,Assen
+Berberishage,2,"","",9408EP,Assen
+Berberishage,20,"","",9408EP,Assen
+Berberishage,4,"","",9408EP,Assen
+Berberishage,6,"","",9408EP,Assen
+Berberishage,8,"","",9408EP,Assen
+Prunushage,1,"","",9408ER,Assen
+Prunushage,11,"","",9408ER,Assen
+Prunushage,13,"","",9408ER,Assen
+Prunushage,15,"","",9408ER,Assen
+Prunushage,17,"","",9408ER,Assen
+Prunushage,19,"","",9408ER,Assen
+Prunushage,21,"","",9408ER,Assen
+Prunushage,23,"","",9408ER,Assen
+Prunushage,25,"","",9408ER,Assen
+Prunushage,27,"","",9408ER,Assen
+Prunushage,29,"","",9408ER,Assen
+Prunushage,3,"","",9408ER,Assen
+Prunushage,31,"","",9408ER,Assen
+Prunushage,33,"","",9408ER,Assen
+Prunushage,35,"","",9408ER,Assen
+Prunushage,37,"","",9408ER,Assen
+Prunushage,5,"","",9408ER,Assen
+Prunushage,7,"","",9408ER,Assen
+Prunushage,9,"","",9408ER,Assen
+Prunushage,10,"","",9408ES,Assen
+Prunushage,12,"","",9408ES,Assen
+Prunushage,14,"","",9408ES,Assen
+Prunushage,16,"","",9408ES,Assen
+Prunushage,18,"","",9408ES,Assen
+Prunushage,2,"","",9408ES,Assen
+Prunushage,20,"","",9408ES,Assen
+Prunushage,22,"","",9408ES,Assen
+Prunushage,24,"","",9408ES,Assen
+Prunushage,26,"","",9408ES,Assen
+Prunushage,28,"","",9408ES,Assen
+Prunushage,30,"","",9408ES,Assen
+Prunushage,32,"","",9408ES,Assen
+Prunushage,4,"","",9408ES,Assen
+Prunushage,6,"","",9408ES,Assen
+Prunushage,8,"","",9408ES,Assen
+Rosa Spierweg,10,"","",9408EV,Assen
+Rosa Spierweg,12,"","",9408EV,Assen
+Rosa Spierweg,14,"","",9408EV,Assen
+Rosa Spierweg,16,"","",9408EV,Assen
+Rosa Spierweg,18,"","",9408EV,Assen
+Rosa Spierweg,2,"","",9408EV,Assen
+Rosa Spierweg,20,"","",9408EV,Assen
+Rosa Spierweg,22,"","",9408EV,Assen
+Rosa Spierweg,24,"","",9408EV,Assen
+Rosa Spierweg,26,"","",9408EV,Assen
+Rosa Spierweg,28,"","",9408EV,Assen
+Rosa Spierweg,30,"","",9408EV,Assen
+Rosa Spierweg,32,"","",9408EV,Assen
+Rosa Spierweg,34,"","",9408EV,Assen
+Rosa Spierweg,36,"","",9408EV,Assen
+Rosa Spierweg,38,"","",9408EV,Assen
+Rosa Spierweg,4,"","",9408EV,Assen
+Rosa Spierweg,40,"","",9408EV,Assen
+Rosa Spierweg,42,"","",9408EV,Assen
+Rosa Spierweg,44,"","",9408EV,Assen
+Rosa Spierweg,46,"","",9408EV,Assen
+Rosa Spierweg,48,"","",9408EV,Assen
+Rosa Spierweg,50,"","",9408EV,Assen
+Rosa Spierweg,52,"","",9408EV,Assen
+Rosa Spierweg,54,"","",9408EV,Assen
+Rosa Spierweg,56,"","",9408EV,Assen
+Rosa Spierweg,58,"","",9408EV,Assen
+Rosa Spierweg,6,"","",9408EV,Assen
+Rosa Spierweg,60,"","",9408EV,Assen
+Rosa Spierweg,62,"","",9408EV,Assen
+Rosa Spierweg,64,"","",9408EV,Assen
+Rosa Spierweg,8,"","",9408EV,Assen

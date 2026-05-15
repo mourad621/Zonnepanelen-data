@@ -1,100 +1,100 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1067SM,Dokter Meurerlaan,4,,
-1067SM,Dokter Meurerlaan,6,,
-1067SN,Herman Bonpad,1,,
-1067SN,Herman Bonpad,4,,
-1067SN,Herman Bonpad,6,,
-1067SL,Willinklaan,1,,
-1067SL,Willinklaan,3,,
-1067SL,Willinklaan,5,,
-1067SL,Willinklaan,7,,
-1067BB,Han Hollanderlaan,1,,
-1067BB,Han Hollanderlaan,3,,
-1067BB,Han Hollanderlaan,2,,
-1067BB,Han Hollanderlaan,4,,
-1067SM,Dokter Meurerlaan,1,,
-1067SM,Dokter Meurerlaan,3,,
-1067SM,Dokter Meurerlaan,5,,
-1067SN,Herman Bonpad,7,,
-1067SL,Willinklaan,4,,
-1067SN,Herman Bonpad,5,,
-1067MV,Troelstralaan,1,G,
-1067BB,Han Hollanderlaan,4,A,
-1067MV,Abe Lenstralaan,6,,
-1067MV,Abe Lenstralaan,8,,
-1067MV,Abe Lenstralaan,10,,
-1067MV,Abe Lenstralaan,14,,
-1067SM,Dokter Meurerlaan,8,,
-1067SM,Dokter Meurerlaan,10,,
-1068ZX,Ookmeerweg,2,,
-1067SM,Dokter Meurerlaan,12,,
-1068ZX,Ookmeerweg,3,,
-1068ZX,Ookmeerweg,4,,
-1068ZX,Ookmeerweg,12,,
-1068ZX,Ookmeerweg,13,,
-1068ZX,Ookmeerweg,13,A,
-1068ZX,Ookmeerweg,13,B,
-1068ZX,Ookmeerweg,14,A,
-1068ZX,Ookmeerweg,14,B,
-1068ZX,Ookmeerweg,14,C,
-1068ZX,Ookmeerweg,15,A,
-1068ZX,Ookmeerweg,15,B,
-1068ZX,Ookmeerweg,15,C,
-1068ZX,Ookmeerweg,15,D,
-1068ZX,Ookmeerweg,16,A,
-1068ZX,Ookmeerweg,16,B,
-1068ZX,Ookmeerweg,16,C,
-1068ZX,Ookmeerweg,16,D,
-1068ZX,Ookmeerweg,17,A,
-1068ZX,Ookmeerweg,17,B,
-1068ZX,Ookmeerweg,17,C,
-1068ZX,Ookmeerweg,17,D,
-1068ZX,Ookmeerweg,18,A,
-1068ZX,Ookmeerweg,18,B,
-1068ZX,Ookmeerweg,18,C,
-1068ZX,Ookmeerweg,18,D,
-1068ZX,Ookmeerweg,19,A,
-1068ZX,Ookmeerweg,19,B,
-1068ZX,Ookmeerweg,19,C,
-1068ZX,Ookmeerweg,19,D,
-1068ZX,Ookmeerweg,4,A,
-1068ZX,Ookmeerweg,4,B,
-1068ZX,Ookmeerweg,5,A,
-1068ZX,Ookmeerweg,5,B,
-1068ZX,Ookmeerweg,5,C,
-1068ZX,Ookmeerweg,21,,
-1068ZX,Ookmeerweg,20,A,
-1068ZX,Ookmeerweg,20,B,
-1068ZX,Ookmeerweg,20,C,
-1068ZX,Ookmeerweg,6,A,
-1068ZX,Ookmeerweg,6,B,
-1068ZX,Ookmeerweg,6,C,
-1068ZX,Ookmeerweg,6,D,
-1068ZX,Ookmeerweg,8,A,
-1068ZX,Ookmeerweg,8,B,
-1068ZX,Ookmeerweg,8,C,
-1068ZX,Ookmeerweg,8,D,
-1068ZX,Ookmeerweg,10,A,
-1068ZX,Ookmeerweg,10,B,
-1068ZX,Ookmeerweg,10,C,
-1068ZX,Ookmeerweg,10,D,
-1068ZX,Ookmeerweg,11,A,
-1068ZX,Ookmeerweg,11,B,
-1068ZX,Ookmeerweg,11,C,
-1068ZX,Ookmeerweg,7,A,
-1068ZX,Ookmeerweg,7,B,
-1068ZX,Ookmeerweg,7,C,
-1068ZX,Ookmeerweg,7,D,
-1068ZX,Ookmeerweg,9,A,
-1068ZX,Ookmeerweg,9,B,
-1068ZX,Ookmeerweg,9,C,
-1068ZX,Ookmeerweg,9,D,
-1067BB,Han Hollanderlaan,1,Z,99
-1067SM,Dokter Meurerlaan,7,,
-1067BB,Han Hollanderlaan,1,,
-1067SL,Willinklaan,7,A,
-1067BB,Han Hollanderlaan,4,A,
-1067SM,Dokter Meurerlaan,8,A,
-1067SM,Dokter Meurerlaan,9,,
-1067SL,Willinklaan,3,A,
-1067SL,Willinklaan,7,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Han Hollanderlaan,1,"","",1067BB,Amsterdam
+Han Hollanderlaan,1,"","",1067BB,Amsterdam
+Han Hollanderlaan,1,Z,99,1067BB,Amsterdam
+Han Hollanderlaan,2,"","",1067BB,Amsterdam
+Han Hollanderlaan,3,"","",1067BB,Amsterdam
+Han Hollanderlaan,4,"","",1067BB,Amsterdam
+Han Hollanderlaan,4,A,"",1067BB,Amsterdam
+Han Hollanderlaan,4,A,"",1067BB,Amsterdam
+Troelstralaan,1,G,"",1067MV,Amsterdam
+Abe Lenstralaan,10,"","",1067MV,Amsterdam
+Abe Lenstralaan,14,"","",1067MV,Amsterdam
+Abe Lenstralaan,6,"","",1067MV,Amsterdam
+Abe Lenstralaan,8,"","",1067MV,Amsterdam
+Willinklaan,1,"","",1067SL,Amsterdam
+Willinklaan,3,"","",1067SL,Amsterdam
+Willinklaan,3,A,"",1067SL,Amsterdam
+Willinklaan,4,"","",1067SL,Amsterdam
+Willinklaan,5,"","",1067SL,Amsterdam
+Willinklaan,7,"","",1067SL,Amsterdam
+Willinklaan,7,A,"",1067SL,Amsterdam
+Willinklaan,7,C,"",1067SL,Amsterdam
+Dokter Meurerlaan,1,"","",1067SM,Amsterdam
+Dokter Meurerlaan,10,"","",1067SM,Amsterdam
+Dokter Meurerlaan,12,"","",1067SM,Amsterdam
+Dokter Meurerlaan,3,"","",1067SM,Amsterdam
+Dokter Meurerlaan,4,"","",1067SM,Amsterdam
+Dokter Meurerlaan,5,"","",1067SM,Amsterdam
+Dokter Meurerlaan,6,"","",1067SM,Amsterdam
+Dokter Meurerlaan,7,"","",1067SM,Amsterdam
+Dokter Meurerlaan,8,"","",1067SM,Amsterdam
+Dokter Meurerlaan,8,A,"",1067SM,Amsterdam
+Dokter Meurerlaan,9,"","",1067SM,Amsterdam
+Herman Bonpad,1,"","",1067SN,Amsterdam
+Herman Bonpad,4,"","",1067SN,Amsterdam
+Herman Bonpad,5,"","",1067SN,Amsterdam
+Herman Bonpad,6,"","",1067SN,Amsterdam
+Herman Bonpad,7,"","",1067SN,Amsterdam
+Ookmeerweg,10,A,"",1068ZX,Amsterdam
+Ookmeerweg,10,B,"",1068ZX,Amsterdam
+Ookmeerweg,10,C,"",1068ZX,Amsterdam
+Ookmeerweg,10,D,"",1068ZX,Amsterdam
+Ookmeerweg,11,A,"",1068ZX,Amsterdam
+Ookmeerweg,11,B,"",1068ZX,Amsterdam
+Ookmeerweg,11,C,"",1068ZX,Amsterdam
+Ookmeerweg,12,"","",1068ZX,Amsterdam
+Ookmeerweg,13,"","",1068ZX,Amsterdam
+Ookmeerweg,13,A,"",1068ZX,Amsterdam
+Ookmeerweg,13,B,"",1068ZX,Amsterdam
+Ookmeerweg,14,A,"",1068ZX,Amsterdam
+Ookmeerweg,14,B,"",1068ZX,Amsterdam
+Ookmeerweg,14,C,"",1068ZX,Amsterdam
+Ookmeerweg,15,A,"",1068ZX,Amsterdam
+Ookmeerweg,15,B,"",1068ZX,Amsterdam
+Ookmeerweg,15,C,"",1068ZX,Amsterdam
+Ookmeerweg,15,D,"",1068ZX,Amsterdam
+Ookmeerweg,16,A,"",1068ZX,Amsterdam
+Ookmeerweg,16,B,"",1068ZX,Amsterdam
+Ookmeerweg,16,C,"",1068ZX,Amsterdam
+Ookmeerweg,16,D,"",1068ZX,Amsterdam
+Ookmeerweg,17,A,"",1068ZX,Amsterdam
+Ookmeerweg,17,B,"",1068ZX,Amsterdam
+Ookmeerweg,17,C,"",1068ZX,Amsterdam
+Ookmeerweg,17,D,"",1068ZX,Amsterdam
+Ookmeerweg,18,A,"",1068ZX,Amsterdam
+Ookmeerweg,18,B,"",1068ZX,Amsterdam
+Ookmeerweg,18,C,"",1068ZX,Amsterdam
+Ookmeerweg,18,D,"",1068ZX,Amsterdam
+Ookmeerweg,19,A,"",1068ZX,Amsterdam
+Ookmeerweg,19,B,"",1068ZX,Amsterdam
+Ookmeerweg,19,C,"",1068ZX,Amsterdam
+Ookmeerweg,19,D,"",1068ZX,Amsterdam
+Ookmeerweg,2,"","",1068ZX,Amsterdam
+Ookmeerweg,20,A,"",1068ZX,Amsterdam
+Ookmeerweg,20,B,"",1068ZX,Amsterdam
+Ookmeerweg,20,C,"",1068ZX,Amsterdam
+Ookmeerweg,21,"","",1068ZX,Amsterdam
+Ookmeerweg,3,"","",1068ZX,Amsterdam
+Ookmeerweg,4,"","",1068ZX,Amsterdam
+Ookmeerweg,4,A,"",1068ZX,Amsterdam
+Ookmeerweg,4,B,"",1068ZX,Amsterdam
+Ookmeerweg,5,A,"",1068ZX,Amsterdam
+Ookmeerweg,5,B,"",1068ZX,Amsterdam
+Ookmeerweg,5,C,"",1068ZX,Amsterdam
+Ookmeerweg,6,A,"",1068ZX,Amsterdam
+Ookmeerweg,6,B,"",1068ZX,Amsterdam
+Ookmeerweg,6,C,"",1068ZX,Amsterdam
+Ookmeerweg,6,D,"",1068ZX,Amsterdam
+Ookmeerweg,7,A,"",1068ZX,Amsterdam
+Ookmeerweg,7,B,"",1068ZX,Amsterdam
+Ookmeerweg,7,C,"",1068ZX,Amsterdam
+Ookmeerweg,7,D,"",1068ZX,Amsterdam
+Ookmeerweg,8,A,"",1068ZX,Amsterdam
+Ookmeerweg,8,B,"",1068ZX,Amsterdam
+Ookmeerweg,8,C,"",1068ZX,Amsterdam
+Ookmeerweg,8,D,"",1068ZX,Amsterdam
+Ookmeerweg,9,A,"",1068ZX,Amsterdam
+Ookmeerweg,9,B,"",1068ZX,Amsterdam
+Ookmeerweg,9,C,"",1068ZX,Amsterdam
+Ookmeerweg,9,D,"",1068ZX,Amsterdam

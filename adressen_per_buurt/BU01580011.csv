@@ -1,645 +1,331 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7482SE",45,"",""
-"7482SE",64,"",""
-"7482SE",17,"",""
-"7482SE",93,"",""
-"7482SE",93,"a",""
-"7482SE",37,"",""
-"7482SE",56,"",""
-"7482SE",10,"",""
-"7482SE",40,"",""
-"7482SE",8,"",""
-"7482SE",18,"",""
-"7482SE",12,"",""
-"7482SE",15,"",""
-"7482SE",99,"a",""
-"7482SE",37,"a",""
-"7482SE",52,"a",""
-"7482SE",47,"",""
-"7482SE",11,"",""
-"7482SE",9,"",""
-"7482SE",53,"",""
-"7482SE",14,"",""
-"7482SE",72,"",""
-"7482SE",28,"",""
-"7482SE",34,"",""
-"7482SE",52,"",""
-"7482SE",22,"",""
-"7482SE",58,"",""
-"7482SE",20,"",""
-"7482SE",53,"",""
-"7482SE",47,"",""
-"7482SE",85,"",""
-"7482SE",30,"",""
-"7482SE",34,"a",""
-"7482SE",7,"",""
-"7482SE",99,"",""
-"7482SE",70,"",""
-"7482SE",32,"",""
-"7482SE",64,"",""
-"7482SE",34,"",""
-"7482SE",60,"",""
-"7482SE",26,"",""
-"7482SE",34,"b",""
-"7482SE",70,"",""
-"7482SE",24,"",""
-"7482SE",76,"a",""
-"7482SE",50,"",""
-"7482SE",76,"",""
-"7482SE",28,"",""
-"7482SE",64,"",""
-"7482SE",72,"",""
-"7482SE",85,"",""
-"7482SE",88,"",""
-"7482SH",113,"",""
-"7482SH",121,"",""
-"7482SH",113,"",""
-"7482SH",115,"",""
-"7482SH",99,"",""
-"7482SH",113,"a",""
-"7482SH",115,"",""
-"7482SH",95,"",""
-"7482SH",97,"",""
-"7482SH",105,"a",""
-"7482SH",121,"",""
-"7482SH",104,"",""
-"7482SH",97,"",""
-"7482SH",104,"",""
-"7482SH",99,"",""
-"7482SH",105,"",""
-"7482SH",97,"a",""
-"7482SH",105,"",""
-"7482SH",106,"",""
-"7482SH",99,"",""
-"7482SH",97,"",""
-"7482SH",95,"",""
-"7482SH",112,"",""
-"7482SH",121,"",""
-"7482SH",119,"",""
-"7482SH",123,"",""
-"7482SH",117,"",""
-"7482SH",106,"",""
-"7482SH",117,"",""
-"7482SH",97,"",""
-"7482SH",102,"",""
-"7482SH",119,"",""
-"7482SH",113,"",""
-"7482SH",113,"",""
-"7482SH",102,"",""
-"7482SH",109,"",""
-"7482SH",112,"",""
-"7482SH",97,"",""
-"7482SH",99,"",""
-"7482SH",105,"a",""
-"7482SH",114,"",""
-"7482SH",109,"",""
-"7482SP",25,"",""
-"7482SP",88,"",""
-"7482SP",11,"",""
-"7482SP",88,"",""
-"7482SP",23,"",""
-"7482SP",23,"",""
-"7482SP",19,"",""
-"7482SP",17,"",""
-"7482SP",15,"",""
-"7482SP",23,"",""
-"7482SP",17,"",""
-"7482SP",21,"",""
-"7482SP",1,"",""
-"7482SP",17,"",""
-"7482TA",3,"",""
-"7482TA",23,"b",""
-"7482TA",39,"",""
-"7482TA",41,"",""
-"7482TA",23,"",""
-"7482TA",23,"b",""
-"7482TA",23,"",""
-"7482TA",35,"",""
-"7482TA",23,"a",""
-"7482TA",5,"",""
-"7482TA",23,"",""
-"7482TA",37,"",""
-"7482TA",5,"",""
-"7482TA",33,"",""
-"7482TA",23,"a",""
-"7482TA",3,"",""
-"7482WB",23,"",""
-"7482WB",27,"",""
-"7482WB",3,"",""
-"7482WB",11,"",""
-"7482WB",9,"",""
-"7482WB",15,"",""
-"7482WB",21,"",""
-"7482WB",31,"",""
-"7482WB",2,"",""
-"7482WB",1,"",""
-"7482WB",16,"",""
-"7482WB",25,"",""
-"7482WB",33,"",""
-"7482WB",13,"",""
-"7482WB",29,"",""
-"7482WB",17,"",""
-"7482WB",24,"",""
-"7482WB",5,"",""
-"7482WB",14,"",""
-"7482WB",7,"",""
-"7482WB",4,"",""
-"7482WB",19,"",""
-"7482WB",6,"",""
-"7482WC",22,"",""
-"7482WC",13,"",""
-"7482WC",12,"",""
-"7482WC",18,"",""
-"7482WC",4,"",""
-"7482WC",9,"",""
-"7482WC",11,"",""
-"7482WC",10,"",""
-"7482WC",5,"",""
-"7482WC",2,"",""
-"7482WC",24,"",""
-"7482WC",15,"",""
-"7482WC",14,"",""
-"7482WC",20,"",""
-"7482WC",3,"",""
-"7482WC",16,"",""
-"7482WC",17,"",""
-"7482WC",6,"",""
-"7482WC",1,"",""
-"7482WC",7,"",""
-"7482WD",18,"",""
-"7482WD",9,"",""
-"7482WD",11,"",""
-"7482WD",10,"",""
-"7482WD",12,"",""
-"7482WD",2,"",""
-"7482WD",8,"",""
-"7482WD",4,"",""
-"7482WD",6,"",""
-"7482WD",7,"",""
-"7482WD",5,"",""
-"7482WD",16,"",""
-"7482WD",1,"",""
-"7482WD",14,"",""
-"7482WD",3,"",""
-"7482WE",2,"",""
-"7482WE",17,"",""
-"7482WE",4,"",""
-"7482WE",20,"",""
-"7482WE",1,"",""
-"7482WE",47,"",""
-"7482WE",31,"",""
-"7482WE",19,"",""
-"7482WE",10,"",""
-"7482WE",16,"",""
-"7482WE",25,"",""
-"7482WE",5,"",""
-"7482WE",11,"",""
-"7482WE",7,"",""
-"7482WE",3,"",""
-"7482WE",41,"",""
-"7482WE",45,"",""
-"7482WE",18,"",""
-"7482WE",15,"",""
-"7482WE",13,"",""
-"7482WE",33,"",""
-"7482WE",9,"",""
-"7482WE",43,"",""
-"7482WE",22,"",""
-"7482WE",23,"",""
-"7482WE",8,"",""
-"7482WE",49,"",""
-"7482WE",27,"",""
-"7482WE",21,"",""
-"7482WE",14,"",""
-"7482WE",6,"",""
-"7482WE",39,"",""
-"7482WE",29,"",""
-"7482WE",35,"",""
-"7482WE",37,"",""
-"7482WG",1,"",""
-"7482WG",32,"",""
-"7482WG",45,"",""
-"7482WG",25,"",""
-"7482WG",7,"",""
-"7482WG",33,"",""
-"7482WG",37,"",""
-"7482WG",45,"",""
-"7482WG",48,"",""
-"7482WG",43,"",""
-"7482WG",31,"",""
-"7482WG",6,"",""
-"7482WG",39,"",""
-"7482WG",32,"",""
-"7482WG",48,"",""
-"7482WG",34,"",""
-"7482WG",11,"",""
-"7482WG",24,"",""
-"7482WG",48,"",""
-"7482WG",35,"",""
-"7482WG",9,"",""
-"7482WG",18,"",""
-"7482WG",28,"",""
-"7482WG",3,"",""
-"7482WG",44,"",""
-"7482WG",41,"",""
-"7482WG",43,"",""
-"7482WG",49,"",""
-"7482WG",40,"",""
-"7482WG",19,"",""
-"7482WG",37,"",""
-"7482WG",50,"",""
-"7482WG",34,"",""
-"7482WG",23,"",""
-"7482WG",50,"",""
-"7482WG",46,"",""
-"7482WG",4,"",""
-"7482WG",2,"",""
-"7482WG",47,"",""
-"7482WG",15,"",""
-"7482WG",42,"",""
-"7482WG",36,"",""
-"7482WG",22,"",""
-"7482WG",26,"",""
-"7482WG",21,"",""
-"7482WG",38,"",""
-"7482WG",49,"",""
-"7482WG",27,"",""
-"7482WG",17,"",""
-"7482WG",42,"",""
-"7482WG",39,"",""
-"7482WG",20,"",""
-"7482WG",30,"",""
-"7482WG",8,"",""
-"7482WG",30,"",""
-"7482WG",29,"",""
-"7482WG",30,"",""
-"7482WG",48,"",""
-"7482WH",5,"",""
-"7482WH",3,"",""
-"7482WH",12,"",""
-"7482WH",14,"",""
-"7482WH",2,"",""
-"7482WH",10,"",""
-"7482WH",4,"",""
-"7482WH",7,"",""
-"7482WH",6,"",""
-"7482WH",4,"",""
-"7482WH",1,"",""
-"7482WJ",23,"",""
-"7482WJ",10,"",""
-"7482WJ",17,"",""
-"7482WJ",2,"",""
-"7482WJ",1,"",""
-"7482WJ",31,"",""
-"7482WJ",7,"",""
-"7482WJ",3,"",""
-"7482WJ",5,"",""
-"7482WJ",9,"",""
-"7482WJ",25,"",""
-"7482WJ",12,"",""
-"7482WJ",19,"",""
-"7482WJ",4,"",""
-"7482WJ",15,"",""
-"7482WJ",21,"",""
-"7482WJ",27,"",""
-"7482WJ",29,"",""
-"7482WJ",13,"",""
-"7482WK",32,"",""
-"7482WK",8,"",""
-"7482WK",14,"",""
-"7482WK",1,"",""
-"7482WK",20,"",""
-"7482WK",28,"",""
-"7482WK",17,"",""
-"7482WK",3,"",""
-"7482WK",30,"",""
-"7482WK",26,"",""
-"7482WK",11,"",""
-"7482WK",24,"",""
-"7482WK",10,"",""
-"7482WK",16,"",""
-"7482WK",15,"",""
-"7482WK",18,"",""
-"7482WK",2,"",""
-"7482WK",22,"",""
-"7482WK",9,"",""
-"7482WK",13,"",""
-"7482WK",7,"",""
-"7482WK",6,"",""
-"7482WK",5,"",""
-"7482WK",12,"",""
-"7482WK",4,"",""
-7482WD,de Berk,10,,
-7482WD,de Berk,11,,
-7482WD,de Berk,12,,
-7482WD,de Berk,14,,
-7482WD,de Berk,16,,
-7482WD,de Berk,18,,
-7482WD,de Berk,1,,
-7482WD,de Berk,2,,
-7482WD,de Berk,3,,
-7482WD,de Berk,4,,
-7482WD,de Berk,5,,
-7482WD,de Berk,6,,
-7482WD,de Berk,7,,
-7482WD,de Berk,8,,
-7482WD,de Berk,9,,
-7482WB,de Eik,11,,
-7482WB,de Eik,13,,
-7482WB,de Eik,14,,
-7482WB,de Eik,15,,
-7482WB,de Eik,16,,
-7482WB,de Eik,17,,
-7482WB,de Eik,19,,
-7482WB,de Eik,1,,
-7482WB,de Eik,21,,
-7482WB,de Eik,23,,
-7482WB,de Eik,24,,
-7482WB,de Eik,25,,
-7482WB,de Eik,27,,
-7482WB,de Eik,29,,
-7482WB,de Eik,2,,
-7482WB,de Eik,31,,
-7482WB,de Eik,33,,
-7482WB,de Eik,3,,
-7482WB,de Eik,4,,
-7482WB,de Eik,5,,
-7482WB,de Eik,6,,
-7482WB,de Eik,7,,
-7482WB,de Eik,9,,
-7482WH,Esdoorn,12,,
-7482WH,Esdoorn,14,,
-7482WH,Esdoorn,1,,
-7482WH,Esdoorn,2,,
-7482WH,Esdoorn,3,,
-7482WH,Esdoorn,5,,
-7482WH,Esdoorn,7,,
-7482WC,Goudenregen,10,,
-7482WC,Goudenregen,11,,
-7482WC,Goudenregen,12,,
-7482WC,Goudenregen,13,,
-7482WC,Goudenregen,14,,
-7482WC,Goudenregen,15,,
-7482WC,Goudenregen,16,,
-7482WC,Goudenregen,17,,
-7482WC,Goudenregen,18,,
-7482WC,Goudenregen,1,,
-7482WC,Goudenregen,20,,
-7482WC,Goudenregen,24,,
-7482WC,Goudenregen,2,,
-7482WC,Goudenregen,3,,
-7482WC,Goudenregen,4,,
-7482WC,Goudenregen,5,,
-7482WC,Goudenregen,6,,
-7482WC,Goudenregen,7,,
-7482WC,Goudenregen,9,,
-7482WE,de Iep,10,,
-7482WE,de Iep,11,,
-7482WE,de Iep,13,,
-7482WE,de Iep,14,,
-7482WE,de Iep,15,,
-7482WE,de Iep,16,,
-7482WE,de Iep,17,,
-7482WE,de Iep,18,,
-7482WE,de Iep,19,,
-7482WE,de Iep,1,,
-7482WE,de Iep,20,,
-7482WE,de Iep,21,,
-7482WE,de Iep,22,,
-7482WE,de Iep,23,,
-7482WE,de Iep,25,,
-7482WE,de Iep,27,,
-7482WE,de Iep,29,,
-7482WE,de Iep,2,,
-7482WE,de Iep,31,,
-7482WE,de Iep,33,,
-7482WE,de Iep,35,,
-7482WE,de Iep,37,,
-7482WE,de Iep,39,,
-7482WE,de Iep,3,,
-7482WE,de Iep,41,,
-7482WE,de Iep,43,,
-7482WE,de Iep,45,,
-7482WE,de Iep,47,,
-7482WE,de Iep,49,,
-7482WE,de Iep,4,,
-7482WE,de Iep,5,,
-7482WE,de Iep,6,,
-7482WE,de Iep,7,,
-7482WE,de Iep,8,,
-7482WE,de Iep,9,,
-7482SE,Kolenbranderweg,93,a,
-7482SE,Kolenbranderweg,93,,
-7482SE,Kolenbranderweg,99,,
-7482SE,Kolenbranderweg,9,,
-7482SE,Kolenbranderweg,10,,
-7482SE,Kolenbranderweg,11,,
-7482SE,Kolenbranderweg,12,,
-7482SE,Kolenbranderweg,15,,
-7482SE,Kolenbranderweg,17,,
-7482SE,Kolenbranderweg,18,,
-7482SE,Kolenbranderweg,20,,
-7482SE,Kolenbranderweg,22,,
-7482SE,Kolenbranderweg,37,a,
-7482SE,Kolenbranderweg,37,,
-7482SE,Kolenbranderweg,40,,
-7482SE,Kolenbranderweg,45,,
-7482SE,Kolenbranderweg,47,,
-7482SE,Kolenbranderweg,52,a,
-7482SE,Kolenbranderweg,50,,
-7482SE,Kolenbranderweg,52,,
-7482SE,Kolenbranderweg,53,,
-7482SE,Kolenbranderweg,60,,
-7482SE,Kolenbranderweg,64,,
-7482SE,Kolenbranderweg,70,,
-7482SE,Kolenbranderweg,72,,
-7482SE,Kolenbranderweg,76,,
-7482SE,Kolenbranderweg,7,,
-7482SE,Kolenbranderweg,85,,
-7482SE,Kolenbranderweg,88,,
-7482SE,Kolenbranderweg,8,,
-7482WG,Lijsterbes,11,,
-7482WG,Lijsterbes,15,,
-7482WG,Lijsterbes,17,,
-7482WG,Lijsterbes,18,,
-7482WG,Lijsterbes,19,,
-7482WG,Lijsterbes,1,,
-7482WG,Lijsterbes,20,,
-7482WG,Lijsterbes,21,,
-7482WG,Lijsterbes,22,,
-7482WG,Lijsterbes,23,,
-7482WG,Lijsterbes,24,,
-7482WG,Lijsterbes,25,,
-7482WG,Lijsterbes,26,,
-7482WG,Lijsterbes,27,,
-7482WG,Lijsterbes,29,,
-7482WG,Lijsterbes,2,,
-7482WG,Lijsterbes,3,,
-7482WG,Lijsterbes,4,,
-7482WG,Lijsterbes,6,,
-7482WG,Lijsterbes,7,,
-7482WG,Lijsterbes,8,,
-7482WG,Lijsterbes,9,,
-7482SP,Maatweg,11,,
-7482SP,Maatweg,15,,
-7482SP,Maatweg,19,,
-7482SP,Maatweg,1,,
-7482SP,Maatweg,21,,
-7482SP,Maatweg,23,,
-7482WJ,Meidoorn,10,,
-7482WJ,Meidoorn,12,,
-7482WJ,Meidoorn,13,,
-7482WJ,Meidoorn,15,,
-7482WJ,Meidoorn,17,,
-7482WJ,Meidoorn,19,,
-7482WJ,Meidoorn,1,,
-7482WJ,Meidoorn,21,,
-7482WJ,Meidoorn,23,,
-7482WJ,Meidoorn,25,,
-7482WJ,Meidoorn,27,,
-7482WJ,Meidoorn,29,,
-7482WJ,Meidoorn,2,,
-7482WJ,Meidoorn,31,,
-7482WJ,Meidoorn,3,,
-7482WJ,Meidoorn,4,,
-7482WJ,Meidoorn,5,,
-7482WJ,Meidoorn,7,,
-7482WJ,Meidoorn,9,,
-7482SH,Oude Boekeloseweg,113,,
-7482SH,Oude Boekeloseweg,102,,
-7482SH,Oude Boekeloseweg,104,,
-7482SH,Oude Boekeloseweg,105,a,
-7482SH,Oude Boekeloseweg,105,,
-7482SH,Oude Boekeloseweg,106,,
-7482SH,Oude Boekeloseweg,109,,
-7482SH,Oude Boekeloseweg,112,,
-7482SH,Oude Boekeloseweg,114,,
-7482SH,Oude Boekeloseweg,115,,
-7482SH,Oude Boekeloseweg,117,,
-7482SH,Oude Boekeloseweg,119,,
-7482SH,Oude Boekeloseweg,121,,
-7482SH,Oude Boekeloseweg,123,,
-7482TA,Veldmaterstraat,5,,
-7482TA,Veldmaterstraat,23,a,
-7482TA,Veldmaterstraat,23,b,
-7482TA,Veldmaterstraat,23,,
-7482TA,Veldmaterstraat,33,,
-7482TA,Veldmaterstraat,35,,
-7482TA,Veldmaterstraat,37,,
-7482TA,Veldmaterstraat,39,,
-7482TA,Veldmaterstraat,3,,
-7482TA,Veldmaterstraat,41,,
-7482SP,Piepersbosweg,88,,
-7482SH,Oude Boekeloseweg,113,,
-7482SH,Oude Boekeloseweg,102,,
-7482SH,Oude Boekeloseweg,104,,
-7482SH,Oude Boekeloseweg,105,a,
-7482SH,Oude Boekeloseweg,105,,
-7482SH,Oude Boekeloseweg,106,,
-7482SH,Oude Boekeloseweg,109,,
-7482SH,Oude Boekeloseweg,112,,
-7482SH,Oude Boekeloseweg,115,,
-7482SH,Oude Boekeloseweg,117,,
-7482SH,Oude Boekeloseweg,119,,
-7482SH,Oude Boekeloseweg,121,,
-7482WH,Esdoorn,4,,
-7482WH,Esdoorn,4,,
-7482WH,Esdoorn,6,,
-7482WH,Esdoorn,10,,
-7482WC,Goudenregen,22,,
-7482SE,Kolenbranderweg,76,a,
-7482SE,Kolenbranderweg,28,,
-7482SE,Kolenbranderweg,28,,
-7482SE,Kolenbranderweg,26,,
-7482SE,Kolenbranderweg,34,a,
-7482SE,Kolenbranderweg,34,,
-7482SE,Kolenbranderweg,34,,
-7482SE,Kolenbranderweg,32,,
-7482SE,Kolenbranderweg,58,,
-7482SE,Kolenbranderweg,56,,
-7482SE,Kolenbranderweg,34,b,
-7482SE,Kolenbranderweg,30,,
-7482SE,Kolenbranderweg,99,a,
-7482SE,Kolenbranderweg,64,,
-7482SE,Kolenbranderweg,14,,
-7482SE,Kolenbranderweg,24,,
-7482WG,Lijsterbes,49,,
-7482WG,Lijsterbes,49,,
-7482WG,Lijsterbes,37,,
-7482WG,Lijsterbes,37,,
-7482WG,Lijsterbes,42,,
-7482WG,Lijsterbes,42,,
-7482WG,Lijsterbes,39,,
-7482WG,Lijsterbes,39,,
-7482WG,Lijsterbes,50,,
-7482WG,Lijsterbes,50,,
-7482WG,Lijsterbes,32,,
-7482WG,Lijsterbes,32,,
-7482WG,Lijsterbes,34,,
-7482WG,Lijsterbes,34,,
-7482WG,Lijsterbes,43,,
-7482WG,Lijsterbes,43,,
-7482WG,Lijsterbes,45,,
-7482WG,Lijsterbes,45,,
-7482WG,Lijsterbes,30,,
-7482WG,Lijsterbes,30,,
-7482WG,Lijsterbes,30,,
-7482WG,Lijsterbes,28,,
-7482WG,Lijsterbes,38,,
-7482WG,Lijsterbes,31,,
-7482WG,Lijsterbes,48,,
-7482WG,Lijsterbes,48,,
-7482WG,Lijsterbes,48,,
-7482WG,Lijsterbes,48,,
-7482WG,Lijsterbes,47,,
-7482WG,Lijsterbes,36,,
-7482WG,Lijsterbes,46,,
-7482WG,Lijsterbes,44,,
-7482WG,Lijsterbes,40,,
-7482WG,Lijsterbes,41,,
-7482WG,Lijsterbes,33,,
-7482WG,Lijsterbes,35,,
-7482SP,Maatweg,25,,
-7482SP,Maatweg,17,,
-7482SP,Maatweg,17,,
-7482SP,Maatweg,23,,
-7482SH,Oude Boekeloseweg,95,,
-7482SH,Oude Boekeloseweg,97,,
-7482SH,Oude Boekeloseweg,99,,
-7482SH,Oude Boekeloseweg,97,,
-7482SH,Oude Boekeloseweg,99,,
-7482TA,Veldmaterstraat,23,,
-7482SP,Piepersbosweg,88,,
-7482SH,Oude Boekeloseweg,95,,
-7482SH,Oude Boekeloseweg,97,,
-7482SH,Oude Boekeloseweg,97,,
-7482SH,Oude Boekeloseweg,99,,
-7482SH,Oude Boekeloseweg,113,,
-7482SH,Oude Boekeloseweg,113,a,
-7482SH,Oude Boekeloseweg,121,,
-7482SH,Oude Boekeloseweg,97,a,
-7482WK,Hazelaar,1,,
-7482WK,Hazelaar,3,,
-7482WK,Hazelaar,5,,
-7482WK,Hazelaar,7,,
-7482WK,Hazelaar,9,,
-7482WK,Hazelaar,11,,
-7482WK,Hazelaar,13,,
-7482WK,Hazelaar,15,,
-7482WK,Hazelaar,17,,
-7482WK,Hazelaar,2,,
-7482WK,Hazelaar,4,,
-7482WK,Hazelaar,6,,
-7482WK,Hazelaar,8,,
-7482WK,Hazelaar,10,,
-7482WK,Hazelaar,12,,
-7482WK,Hazelaar,14,,
-7482WK,Hazelaar,16,,
-7482WK,Hazelaar,18,,
-7482WK,Hazelaar,20,,
-7482WK,Hazelaar,22,,
-7482WK,Hazelaar,24,,
-7482WK,Hazelaar,26,,
-7482WK,Hazelaar,28,,
-7482WK,Hazelaar,30,,
-7482WK,Hazelaar,32,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kolenbranderweg,10,"","",7482SE,Haaksbergen
+Kolenbranderweg,11,"","",7482SE,Haaksbergen
+Kolenbranderweg,12,"","",7482SE,Haaksbergen
+Kolenbranderweg,14,"","",7482SE,Haaksbergen
+Kolenbranderweg,15,"","",7482SE,Haaksbergen
+Kolenbranderweg,17,"","",7482SE,Haaksbergen
+Kolenbranderweg,18,"","",7482SE,Haaksbergen
+Kolenbranderweg,20,"","",7482SE,Haaksbergen
+Kolenbranderweg,22,"","",7482SE,Haaksbergen
+Kolenbranderweg,24,"","",7482SE,Haaksbergen
+Kolenbranderweg,26,"","",7482SE,Haaksbergen
+Kolenbranderweg,28,"","",7482SE,Haaksbergen
+Kolenbranderweg,28,"","",7482SE,Haaksbergen
+Kolenbranderweg,30,"","",7482SE,Haaksbergen
+Kolenbranderweg,32,"","",7482SE,Haaksbergen
+Kolenbranderweg,34,"","",7482SE,Haaksbergen
+Kolenbranderweg,34,"","",7482SE,Haaksbergen
+Kolenbranderweg,34,A,"",7482SE,Haaksbergen
+Kolenbranderweg,34,B,"",7482SE,Haaksbergen
+Kolenbranderweg,37,"","",7482SE,Haaksbergen
+Kolenbranderweg,37,A,"",7482SE,Haaksbergen
+Kolenbranderweg,40,"","",7482SE,Haaksbergen
+Kolenbranderweg,45,"","",7482SE,Haaksbergen
+Kolenbranderweg,47,"","",7482SE,Haaksbergen
+Kolenbranderweg,47,"","",7482SE,Haaksbergen
+Kolenbranderweg,50,"","",7482SE,Haaksbergen
+Kolenbranderweg,52,"","",7482SE,Haaksbergen
+Kolenbranderweg,52,A,"",7482SE,Haaksbergen
+Kolenbranderweg,53,"","",7482SE,Haaksbergen
+Kolenbranderweg,53,"","",7482SE,Haaksbergen
+Kolenbranderweg,56,"","",7482SE,Haaksbergen
+Kolenbranderweg,58,"","",7482SE,Haaksbergen
+Kolenbranderweg,60,"","",7482SE,Haaksbergen
+Kolenbranderweg,64,"","",7482SE,Haaksbergen
+Kolenbranderweg,64,"","",7482SE,Haaksbergen
+Kolenbranderweg,64,"","",7482SE,Haaksbergen
+Kolenbranderweg,7,"","",7482SE,Haaksbergen
+Kolenbranderweg,70,"","",7482SE,Haaksbergen
+Kolenbranderweg,70,"","",7482SE,Haaksbergen
+Kolenbranderweg,72,"","",7482SE,Haaksbergen
+Kolenbranderweg,72,"","",7482SE,Haaksbergen
+Kolenbranderweg,76,"","",7482SE,Haaksbergen
+Kolenbranderweg,76,A,"",7482SE,Haaksbergen
+Kolenbranderweg,8,"","",7482SE,Haaksbergen
+Kolenbranderweg,85,"","",7482SE,Haaksbergen
+Kolenbranderweg,85,"","",7482SE,Haaksbergen
+Kolenbranderweg,88,"","",7482SE,Haaksbergen
+Kolenbranderweg,9,"","",7482SE,Haaksbergen
+Kolenbranderweg,93,"","",7482SE,Haaksbergen
+Kolenbranderweg,93,A,"",7482SE,Haaksbergen
+Kolenbranderweg,99,"","",7482SE,Haaksbergen
+Kolenbranderweg,99,A,"",7482SE,Haaksbergen
+Oude Boekeloseweg,102,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,102,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,104,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,104,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,105,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,105,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,105,A,"",7482SH,Haaksbergen
+Oude Boekeloseweg,105,A,"",7482SH,Haaksbergen
+Oude Boekeloseweg,106,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,106,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,109,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,109,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,112,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,112,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,113,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,113,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,113,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,113,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,113,A,"",7482SH,Haaksbergen
+Oude Boekeloseweg,114,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,115,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,115,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,117,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,117,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,119,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,119,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,121,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,121,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,121,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,123,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,95,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,95,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,97,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,97,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,97,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,97,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,97,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,97,A,"",7482SH,Haaksbergen
+Oude Boekeloseweg,99,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,99,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,99,"","",7482SH,Haaksbergen
+Oude Boekeloseweg,99,"","",7482SH,Haaksbergen
+Maatweg,1,"","",7482SP,Haaksbergen
+Maatweg,11,"","",7482SP,Haaksbergen
+Maatweg,15,"","",7482SP,Haaksbergen
+Maatweg,17,"","",7482SP,Haaksbergen
+Maatweg,17,"","",7482SP,Haaksbergen
+Maatweg,17,"","",7482SP,Haaksbergen
+Maatweg,19,"","",7482SP,Haaksbergen
+Maatweg,21,"","",7482SP,Haaksbergen
+Maatweg,23,"","",7482SP,Haaksbergen
+Maatweg,23,"","",7482SP,Haaksbergen
+Maatweg,23,"","",7482SP,Haaksbergen
+Maatweg,25,"","",7482SP,Haaksbergen
+Piepersbosweg,88,"","",7482SP,Haaksbergen
+Piepersbosweg,88,"","",7482SP,Haaksbergen
+Veldmaterstraat,23,"","",7482TA,Haaksbergen
+Veldmaterstraat,23,"","",7482TA,Haaksbergen
+Veldmaterstraat,23,"","",7482TA,Haaksbergen
+Veldmaterstraat,23,A,"",7482TA,Haaksbergen
+Veldmaterstraat,23,A,"",7482TA,Haaksbergen
+Veldmaterstraat,23,B,"",7482TA,Haaksbergen
+Veldmaterstraat,23,B,"",7482TA,Haaksbergen
+Veldmaterstraat,3,"","",7482TA,Haaksbergen
+Veldmaterstraat,3,"","",7482TA,Haaksbergen
+Veldmaterstraat,33,"","",7482TA,Haaksbergen
+Veldmaterstraat,35,"","",7482TA,Haaksbergen
+Veldmaterstraat,37,"","",7482TA,Haaksbergen
+Veldmaterstraat,39,"","",7482TA,Haaksbergen
+Veldmaterstraat,41,"","",7482TA,Haaksbergen
+Veldmaterstraat,5,"","",7482TA,Haaksbergen
+Veldmaterstraat,5,"","",7482TA,Haaksbergen
+de Eik,1,"","",7482WB,Haaksbergen
+de Eik,11,"","",7482WB,Haaksbergen
+de Eik,13,"","",7482WB,Haaksbergen
+de Eik,14,"","",7482WB,Haaksbergen
+de Eik,15,"","",7482WB,Haaksbergen
+de Eik,16,"","",7482WB,Haaksbergen
+de Eik,17,"","",7482WB,Haaksbergen
+de Eik,19,"","",7482WB,Haaksbergen
+de Eik,2,"","",7482WB,Haaksbergen
+de Eik,21,"","",7482WB,Haaksbergen
+de Eik,23,"","",7482WB,Haaksbergen
+de Eik,24,"","",7482WB,Haaksbergen
+de Eik,25,"","",7482WB,Haaksbergen
+de Eik,27,"","",7482WB,Haaksbergen
+de Eik,29,"","",7482WB,Haaksbergen
+de Eik,3,"","",7482WB,Haaksbergen
+de Eik,31,"","",7482WB,Haaksbergen
+de Eik,33,"","",7482WB,Haaksbergen
+de Eik,4,"","",7482WB,Haaksbergen
+de Eik,5,"","",7482WB,Haaksbergen
+de Eik,6,"","",7482WB,Haaksbergen
+de Eik,7,"","",7482WB,Haaksbergen
+de Eik,9,"","",7482WB,Haaksbergen
+Goudenregen,1,"","",7482WC,Haaksbergen
+Goudenregen,10,"","",7482WC,Haaksbergen
+Goudenregen,11,"","",7482WC,Haaksbergen
+Goudenregen,12,"","",7482WC,Haaksbergen
+Goudenregen,13,"","",7482WC,Haaksbergen
+Goudenregen,14,"","",7482WC,Haaksbergen
+Goudenregen,15,"","",7482WC,Haaksbergen
+Goudenregen,16,"","",7482WC,Haaksbergen
+Goudenregen,17,"","",7482WC,Haaksbergen
+Goudenregen,18,"","",7482WC,Haaksbergen
+Goudenregen,2,"","",7482WC,Haaksbergen
+Goudenregen,20,"","",7482WC,Haaksbergen
+Goudenregen,22,"","",7482WC,Haaksbergen
+Goudenregen,24,"","",7482WC,Haaksbergen
+Goudenregen,3,"","",7482WC,Haaksbergen
+Goudenregen,4,"","",7482WC,Haaksbergen
+Goudenregen,5,"","",7482WC,Haaksbergen
+Goudenregen,6,"","",7482WC,Haaksbergen
+Goudenregen,7,"","",7482WC,Haaksbergen
+Goudenregen,9,"","",7482WC,Haaksbergen
+de Berk,1,"","",7482WD,Haaksbergen
+de Berk,10,"","",7482WD,Haaksbergen
+de Berk,11,"","",7482WD,Haaksbergen
+de Berk,12,"","",7482WD,Haaksbergen
+de Berk,14,"","",7482WD,Haaksbergen
+de Berk,16,"","",7482WD,Haaksbergen
+de Berk,18,"","",7482WD,Haaksbergen
+de Berk,2,"","",7482WD,Haaksbergen
+de Berk,3,"","",7482WD,Haaksbergen
+de Berk,4,"","",7482WD,Haaksbergen
+de Berk,5,"","",7482WD,Haaksbergen
+de Berk,6,"","",7482WD,Haaksbergen
+de Berk,7,"","",7482WD,Haaksbergen
+de Berk,8,"","",7482WD,Haaksbergen
+de Berk,9,"","",7482WD,Haaksbergen
+de Iep,1,"","",7482WE,Haaksbergen
+de Iep,10,"","",7482WE,Haaksbergen
+de Iep,11,"","",7482WE,Haaksbergen
+de Iep,13,"","",7482WE,Haaksbergen
+de Iep,14,"","",7482WE,Haaksbergen
+de Iep,15,"","",7482WE,Haaksbergen
+de Iep,16,"","",7482WE,Haaksbergen
+de Iep,17,"","",7482WE,Haaksbergen
+de Iep,18,"","",7482WE,Haaksbergen
+de Iep,19,"","",7482WE,Haaksbergen
+de Iep,2,"","",7482WE,Haaksbergen
+de Iep,20,"","",7482WE,Haaksbergen
+de Iep,21,"","",7482WE,Haaksbergen
+de Iep,22,"","",7482WE,Haaksbergen
+de Iep,23,"","",7482WE,Haaksbergen
+de Iep,25,"","",7482WE,Haaksbergen
+de Iep,27,"","",7482WE,Haaksbergen
+de Iep,29,"","",7482WE,Haaksbergen
+de Iep,3,"","",7482WE,Haaksbergen
+de Iep,31,"","",7482WE,Haaksbergen
+de Iep,33,"","",7482WE,Haaksbergen
+de Iep,35,"","",7482WE,Haaksbergen
+de Iep,37,"","",7482WE,Haaksbergen
+de Iep,39,"","",7482WE,Haaksbergen
+de Iep,4,"","",7482WE,Haaksbergen
+de Iep,41,"","",7482WE,Haaksbergen
+de Iep,43,"","",7482WE,Haaksbergen
+de Iep,45,"","",7482WE,Haaksbergen
+de Iep,47,"","",7482WE,Haaksbergen
+de Iep,49,"","",7482WE,Haaksbergen
+de Iep,5,"","",7482WE,Haaksbergen
+de Iep,6,"","",7482WE,Haaksbergen
+de Iep,7,"","",7482WE,Haaksbergen
+de Iep,8,"","",7482WE,Haaksbergen
+de Iep,9,"","",7482WE,Haaksbergen
+Lijsterbes,1,"","",7482WG,Haaksbergen
+Lijsterbes,11,"","",7482WG,Haaksbergen
+Lijsterbes,15,"","",7482WG,Haaksbergen
+Lijsterbes,17,"","",7482WG,Haaksbergen
+Lijsterbes,18,"","",7482WG,Haaksbergen
+Lijsterbes,19,"","",7482WG,Haaksbergen
+Lijsterbes,2,"","",7482WG,Haaksbergen
+Lijsterbes,20,"","",7482WG,Haaksbergen
+Lijsterbes,21,"","",7482WG,Haaksbergen
+Lijsterbes,22,"","",7482WG,Haaksbergen
+Lijsterbes,23,"","",7482WG,Haaksbergen
+Lijsterbes,24,"","",7482WG,Haaksbergen
+Lijsterbes,25,"","",7482WG,Haaksbergen
+Lijsterbes,26,"","",7482WG,Haaksbergen
+Lijsterbes,27,"","",7482WG,Haaksbergen
+Lijsterbes,28,"","",7482WG,Haaksbergen
+Lijsterbes,29,"","",7482WG,Haaksbergen
+Lijsterbes,3,"","",7482WG,Haaksbergen
+Lijsterbes,30,"","",7482WG,Haaksbergen
+Lijsterbes,30,"","",7482WG,Haaksbergen
+Lijsterbes,30,"","",7482WG,Haaksbergen
+Lijsterbes,31,"","",7482WG,Haaksbergen
+Lijsterbes,32,"","",7482WG,Haaksbergen
+Lijsterbes,32,"","",7482WG,Haaksbergen
+Lijsterbes,33,"","",7482WG,Haaksbergen
+Lijsterbes,34,"","",7482WG,Haaksbergen
+Lijsterbes,34,"","",7482WG,Haaksbergen
+Lijsterbes,35,"","",7482WG,Haaksbergen
+Lijsterbes,36,"","",7482WG,Haaksbergen
+Lijsterbes,37,"","",7482WG,Haaksbergen
+Lijsterbes,37,"","",7482WG,Haaksbergen
+Lijsterbes,38,"","",7482WG,Haaksbergen
+Lijsterbes,39,"","",7482WG,Haaksbergen
+Lijsterbes,39,"","",7482WG,Haaksbergen
+Lijsterbes,4,"","",7482WG,Haaksbergen
+Lijsterbes,40,"","",7482WG,Haaksbergen
+Lijsterbes,41,"","",7482WG,Haaksbergen
+Lijsterbes,42,"","",7482WG,Haaksbergen
+Lijsterbes,42,"","",7482WG,Haaksbergen
+Lijsterbes,43,"","",7482WG,Haaksbergen
+Lijsterbes,43,"","",7482WG,Haaksbergen
+Lijsterbes,44,"","",7482WG,Haaksbergen
+Lijsterbes,45,"","",7482WG,Haaksbergen
+Lijsterbes,45,"","",7482WG,Haaksbergen
+Lijsterbes,46,"","",7482WG,Haaksbergen
+Lijsterbes,47,"","",7482WG,Haaksbergen
+Lijsterbes,48,"","",7482WG,Haaksbergen
+Lijsterbes,48,"","",7482WG,Haaksbergen
+Lijsterbes,48,"","",7482WG,Haaksbergen
+Lijsterbes,48,"","",7482WG,Haaksbergen
+Lijsterbes,49,"","",7482WG,Haaksbergen
+Lijsterbes,49,"","",7482WG,Haaksbergen
+Lijsterbes,50,"","",7482WG,Haaksbergen
+Lijsterbes,50,"","",7482WG,Haaksbergen
+Lijsterbes,6,"","",7482WG,Haaksbergen
+Lijsterbes,7,"","",7482WG,Haaksbergen
+Lijsterbes,8,"","",7482WG,Haaksbergen
+Lijsterbes,9,"","",7482WG,Haaksbergen
+Esdoorn,1,"","",7482WH,Haaksbergen
+Esdoorn,10,"","",7482WH,Haaksbergen
+Esdoorn,12,"","",7482WH,Haaksbergen
+Esdoorn,14,"","",7482WH,Haaksbergen
+Esdoorn,2,"","",7482WH,Haaksbergen
+Esdoorn,3,"","",7482WH,Haaksbergen
+Esdoorn,4,"","",7482WH,Haaksbergen
+Esdoorn,4,"","",7482WH,Haaksbergen
+Esdoorn,5,"","",7482WH,Haaksbergen
+Esdoorn,6,"","",7482WH,Haaksbergen
+Esdoorn,7,"","",7482WH,Haaksbergen
+Meidoorn,1,"","",7482WJ,Haaksbergen
+Meidoorn,10,"","",7482WJ,Haaksbergen
+Meidoorn,12,"","",7482WJ,Haaksbergen
+Meidoorn,13,"","",7482WJ,Haaksbergen
+Meidoorn,15,"","",7482WJ,Haaksbergen
+Meidoorn,17,"","",7482WJ,Haaksbergen
+Meidoorn,19,"","",7482WJ,Haaksbergen
+Meidoorn,2,"","",7482WJ,Haaksbergen
+Meidoorn,21,"","",7482WJ,Haaksbergen
+Meidoorn,23,"","",7482WJ,Haaksbergen
+Meidoorn,25,"","",7482WJ,Haaksbergen
+Meidoorn,27,"","",7482WJ,Haaksbergen
+Meidoorn,29,"","",7482WJ,Haaksbergen
+Meidoorn,3,"","",7482WJ,Haaksbergen
+Meidoorn,31,"","",7482WJ,Haaksbergen
+Meidoorn,4,"","",7482WJ,Haaksbergen
+Meidoorn,5,"","",7482WJ,Haaksbergen
+Meidoorn,7,"","",7482WJ,Haaksbergen
+Meidoorn,9,"","",7482WJ,Haaksbergen
+Hazelaar,1,"","",7482WK,Haaksbergen
+Hazelaar,10,"","",7482WK,Haaksbergen
+Hazelaar,11,"","",7482WK,Haaksbergen
+Hazelaar,12,"","",7482WK,Haaksbergen
+Hazelaar,13,"","",7482WK,Haaksbergen
+Hazelaar,14,"","",7482WK,Haaksbergen
+Hazelaar,15,"","",7482WK,Haaksbergen
+Hazelaar,16,"","",7482WK,Haaksbergen
+Hazelaar,17,"","",7482WK,Haaksbergen
+Hazelaar,18,"","",7482WK,Haaksbergen
+Hazelaar,2,"","",7482WK,Haaksbergen
+Hazelaar,20,"","",7482WK,Haaksbergen
+Hazelaar,22,"","",7482WK,Haaksbergen
+Hazelaar,24,"","",7482WK,Haaksbergen
+Hazelaar,26,"","",7482WK,Haaksbergen
+Hazelaar,28,"","",7482WK,Haaksbergen
+Hazelaar,3,"","",7482WK,Haaksbergen
+Hazelaar,30,"","",7482WK,Haaksbergen
+Hazelaar,32,"","",7482WK,Haaksbergen
+Hazelaar,4,"","",7482WK,Haaksbergen
+Hazelaar,5,"","",7482WK,Haaksbergen
+Hazelaar,6,"","",7482WK,Haaksbergen
+Hazelaar,7,"","",7482WK,Haaksbergen
+Hazelaar,8,"","",7482WK,Haaksbergen
+Hazelaar,9,"","",7482WK,Haaksbergen

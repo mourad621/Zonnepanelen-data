@@ -1,564 +1,287 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9861TA",2,"",""
-"9861TA",3,"A",""
-"9861TA",3,"A",""
-"9861TA",3,"",""
-"9861TA",1,"",""
-"9861TA",2,"A",""
-"9862TK",1,"",""
-"9862TK",6,"",""
-"9862TK",7,"",""
-"9862TK",7,"A",""
-"9862TK",4,"",""
-"9862TK",8,"",""
-"9862TL",9,"",""
-"9862TL",12,"",""
-"9862TL",10,"",""
-"9862TL",11,"",""
-"9862TM",19,"",""
-"9862TM",11,"",""
-"9862TM",9,"",""
-"9862TM",21,"",""
-"9862TM",11,"",""
-"9862TM",3,"",""
-"9862TM",17,"",""
-"9862TM",13,"A",""
-"9862TM",15,"",""
-"9862TM",13,"",""
-"9862TM",5,"",""
-"9862TM",7,"",""
-"9862TM",11,"",""
-"9862TM",1,"",""
-"9862TN",6,"",""
-"9862TN",24,"",""
-"9862TN",6,"",""
-"9862TN",16,"",""
-"9862TN",12,"",""
-"9862TN",28,"",""
-"9862TN",28,"",""
-"9862TN",6,"",""
-"9862TN",28,"",""
-"9862TN",20,"",""
-"9862TN",18,"",""
-"9862TN",10,"",""
-"9862TN",14,"",""
-"9862TN",2,"",""
-"9862TN",26,"",""
-"9862TN",6,"",""
-"9862TN",8,"",""
-"9862TN",4,"",""
-"9862TN",6,"",""
-"9862TN",20,"A",""
-"9862TN",22,"",""
-"9862TP",2,"A",""
-"9862TP",3,"",""
-"9862TP",2,"A",""
-"9862TP",5,"",""
-"9862TP",2,"A",""
-"9862TP",4,"",""
-"9862TP",6,"A",""
-"9862TP",2,"",""
-"9862TP",6,"",""
-"9862TP",2,"B",""
-"9862TP",1,"",""
-"9863TA",17,"",""
-"9863TA",15,"",""
-"9863TA",9,"",""
-"9863TA",21,"",""
-"9863TA",11,"",""
-"9863TA",17,"","A"
-"9863TA",13,"",""
-"9863TA",3,"",""
-"9863TA",1,"",""
-"9863TA",5,"",""
-"9863TA",19,"",""
-"9863TA",7,"",""
-"9863TA",17,"A",""
-"9863TB",16,"",""
-"9863TB",2,"",""
-"9863TB",4,"",""
-"9863TB",6,"",""
-"9863TB",24,"",""
-"9863TB",2,"",""
-"9863TB",14,"A",""
-"9863TB",14,"",""
-"9863TB",18,"",""
-"9863TB",6,"",""
-"9863TB",22,"",""
-"9863TB",8,"",""
-"9863TB",26,"",""
-"9863TB",20,"",""
-"9863TB",28,"",""
-"9863TB",10,"",""
-"9863TB",12,"",""
-"9863TC",40,"",""
-"9863TC",34,"",""
-"9863TC",30,"",""
-"9863TC",44,"",""
-"9863TC",32,"",""
-"9863TC",38,"",""
-"9863TC",48,"",""
-"9863TC",50,"",""
-"9863TC",36,"",""
-"9863TC",42,"",""
-"9863TC",46,"",""
-"9863TC",50,"A",""
-"9863TC",48,"",""
-"9863TC",48,"A",""
-"9863TC",48,"",""
-"9863TD",8,"",""
-"9863TD",8,"A",""
-"9863TD",2,"",""
-"9863TD",6,"",""
-"9863TD",1,"",""
-"9863TD",3,"",""
-"9863TD",4,"",""
-"9863TE",3,"",""
-"9863TE",17,"",""
-"9863TE",5,"",""
-"9863TE",15,"A",""
-"9863TE",7,"",""
-"9863TE",1,"",""
-"9863TE",9,"",""
-"9863TE",15,"",""
-"9863TE",7,"A",""
-"9863TE",13,"",""
-"9866AG",6,"A",""
-"9866AG",1,"A",""
-"9866AG",2,"",""
-"9866AG",6,"",""
-"9866AG",1,"",""
-"9866AG",4,"A",""
-"9866AG",3,"",""
-"9866AG",4,"",""
-"9866AG",5,"A",""
-"9866AG",5,"",""
-"9866AG",1,"A",""
-"9866AG",4,"I",""
-"9866AV",24,"",""
-"9866AV",4,"",""
-"9866AV",2,"D",""
-"9866AV",26,"",""
-"9866AV",2,"B",""
-"9866AV",12,"",""
-"9866AV",14,"",""
-"9866AV",22,"",""
-"9866AV",16,"",""
-"9866AV",2,"A",""
-"9866AV",2,"",""
-"9866AV",10,"",""
-"9866AV",2,"C",""
-"9866AV",6,"",""
-"9866AV",20,"A",""
-"9866AV",8,"",""
-"9866AV",18,"",""
-"9866AV",20,"",""
-"9866TA",1,"A",""
-"9866TA",1,"A",""
-"9866TA",5,"",""
-"9866TA",13,"",""
-"9866TA",1,"I",""
-"9866TA",9,"",""
-"9866TA",15,"",""
-"9866TA",17,"",""
-"9866TA",1,"",""
-"9866TA",1,"A",""
-"9866TA",21,"",""
-"9866TA",3,"",""
-"9866TA",25,"",""
-"9866TA",7,"",""
-"9866TA",19,"",""
-"9866TA",7,"",""
-"9866TA",7,"",""
-"9866TA",23,"",""
-"9866TC",2,"A",""
-"9866TC",16,"",""
-"9866TC",2,"A",""
-"9866TC",4,"",""
-"9866TC",2,"",""
-"9866TC",8,"",""
-"9866TC",8,"A",""
-"9866TC",18,"",""
-"9866TC",14,"",""
-"9866TC",6,"",""
-"9866TC",10,"",""
-"9866TC",12,"",""
-"9866TE",7,"A",""
-"9866TE",7,"",""
-"9866TE",7,"B",""
-"9866TE",7,"B",""
-"9866TG",1,"A",""
-"9866TG",8,"",""
-"9866TG",5,"",""
-"9866TG",3,"",""
-"9866TG",2,"",""
-"9866TG",1,"A",""
-"9866TG",1,"A",""
-"9866TG",6,"A",""
-"9866TG",1,"",""
-"9866TG",7,"",""
-"9866TG",4,"",""
-"9866TG",1,"",""
-"9866TG",1,"",""
-"9866TG",6,"",""
-"9866TH",10,"A",""
-"9866TH",10,"",""
-"9866TH",6,"",""
-"9866TH",11,"",""
-"9866TH",4,"",""
-"9866TH",2,"",""
-"9866TH",12,"",""
-"9866TH",3,"",""
-"9866TH",8,"",""
-"9866TH",1,"",""
-"9866TJ",19,"",""
-"9866TJ",21,"",""
-"9866TJ",36,"",""
-"9866TJ",25,"A",""
-"9866TJ",21,"A",""
-"9866TJ",32,"",""
-"9866TJ",27,"",""
-"9866TJ",38,"",""
-"9866TJ",34,"",""
-"9866TJ",40,"A",""
-"9866TJ",40,"",""
-"9866TJ",23,"",""
-"9866TJ",25,"",""
-"9866TJ",34,"A",""
-"9866TK",2,"",""
-"9866TK",3,"",""
-"9866TK",3,"",""
-"9866TK",4,"",""
-"9866TK",2,"",""
-"9866TK",5,"",""
-"9866TK",3,"",""
-"9866TK",8,"",""
-"9866TK",7,"",""
-"9866TK",2,"",""
-"9866TK",9,"",""
-"9866TL",9,"",""
-"9866TL",9,"",""
-"9866TL",23,"",""
-"9866TL",13,"",""
-"9866TL",5,"",""
-"9866TL",15,"",""
-"9866TL",9,"",""
-"9866TL",13,"",""
-"9866TL",1,"",""
-"9866TL",17,"",""
-"9866TL",11,"",""
-"9866TL",3,"",""
-"9866TL",9,"",""
-"9866TM",12,"A",""
-"9866TM",12,"",""
-"9866TM",14,"",""
-"9866TM",20,"",""
-"9866TM",6,"",""
-"9866TM",24,"",""
-"9866TM",2,"",""
-"9866TM",8,"",""
-"9866TM",12,"A",""
-"9866TM",18,"",""
-"9866TM",16,"",""
-"9866TN",69,"",""
-"9866TN",75,"I",""
-"9866TN",75,"A",""
-"9866TN",67,"",""
-"9866TN",77,"",""
-"9866TN",57,"",""
-"9866TN",59,"",""
-"9866TN",71,"",""
-"9866TN",59,"A",""
-"9866TN",75,"",""
-"9866TN",73,"",""
-"9866TN",79,"",""
-"9866TN",79,"A",""
-"9866TN",63,"",""
-"9866TP",50,"",""
-"9866TP",54,"",""
-"9866TP",52,"",""
-"9866TR",14,"",""
-"9866TR",10,"",""
-"9866TR",16,"",""
-"9866TR",14,"",""
-"9866TR",14,"",""
-"9866TR",9,"",""
-"9866TR",5,"",""
-"9866TR",7,"",""
-9863TD,Bombay,1,,
-9863TD,Bombay,2,,
-9863TD,Bombay,3,,
-9863TD,Bombay,4,,
-9863TD,Bombay,6,,
-9863TD,Bombay,8,A,
-9863TD,Bombay,8,,
-9862TP,Buikstede,1,,
-9862TP,Buikstede,2,A,
-9862TP,Buikstede,2,,
-9862TP,Buikstede,3,,
-9862TP,Buikstede,4,,
-9862TP,Buikstede,5,,
-9862TP,Buikstede,6,,
-9861TA,Caspar Roblesdijk,1,,
-9861TA,Caspar Roblesdijk,3,,
-9863TE,Doezumertocht,1,,
-9863TE,Doezumertocht,3,,
-9863TE,Doezumertocht,5,,
-9863TE,Doezumertocht,7,,
-9863TE,Doezumertocht,7,A,
-9863TE,Doezumertocht,9,,
-9863TE,Doezumertocht,13,,
-9863TE,Doezumertocht,15,,
-9863TE,Doezumertocht,17,,
-9863TA,Eesterweg,1,,
-9863TA,Eesterweg,5,,
-9863TA,Eesterweg,7,,
-9863TA,Eesterweg,9,,
-9863TA,Eesterweg,11,,
-9863TA,Eesterweg,13,,
-9863TA,Eesterweg,15,,
-9863TA,Eesterweg,17,,
-9863TA,Eesterweg,19,,
-9863TA,Eesterweg,21,,
-9863TB,Eesterweg,2,,
-9863TB,Eesterweg,2,,
-9863TB,Eesterweg,4,,
-9863TB,Eesterweg,6,,
-9863TB,Eesterweg,6,,
-9863TB,Eesterweg,8,,
-9863TB,Eesterweg,10,,
-9863TB,Eesterweg,12,,
-9863TB,Eesterweg,14,,
-9863TB,Eesterweg,16,,
-9863TB,Eesterweg,18,,
-9863TB,Eesterweg,20,,
-9863TB,Eesterweg,22,,
-9863TB,Eesterweg,24,,
-9863TB,Eesterweg,26,,
-9863TB,Eesterweg,28,,
-9863TC,Eesterweg,30,,
-9863TC,Eesterweg,32,,
-9863TC,Eesterweg,34,,
-9863TC,Eesterweg,36,,
-9863TC,Eesterweg,38,,
-9863TC,Eesterweg,40,,
-9863TC,Eesterweg,42,,
-9863TC,Eesterweg,44,,
-9863TC,Eesterweg,46,,
-9863TC,Eesterweg,48,,
-9863TC,Eesterweg,50,,
-9863TC,Eesterweg,50,A,
-9862TM,Westerzand,1,,
-9862TM,Westerzand,3,,
-9862TM,Westerzand,5,,
-9862TM,Westerzand,7,,
-9862TM,Westerzand,9,,
-9862TM,Westerzand,11,,
-9862TM,Westerzand,15,,
-9862TM,Westerzand,17,,
-9862TM,Westerzand,19,,
-9862TM,Westerzand,21,,
-9862TN,Westerzand,2,,
-9862TN,Westerzand,4,,
-9862TN,Westerzand,6,,
-9862TN,Westerzand,8,,
-9862TN,Westerzand,10,,
-9862TN,Westerzand,12,,
-9862TN,Westerzand,14,,
-9862TN,Westerzand,16,,
-9862TN,Westerzand,18,,
-9862TN,Westerzand,20,,
-9862TN,Westerzand,22,,
-9862TN,Westerzand,24,,
-9862TN,Westerzand,26,,
-9862TN,Westerzand,28,,
-9862TK,Woldweg,1,,
-9862TK,Woldweg,4,,
-9862TK,Woldweg,6,,
-9862TK,Woldweg,7,,
-9862TK,Woldweg,8,,
-9862TL,Woldweg,9,,
-9862TL,Woldweg,10,,
-9862TL,Woldweg,11,,
-9862TL,Woldweg,12,,
-9866TA,Abel Tasmanweg,1,,
-9866TA,Abel Tasmanweg,3,,
-9866TA,Abel Tasmanweg,5,,
-9866TA,Abel Tasmanweg,7,,
-9866TA,Abel Tasmanweg,9,,
-9866TA,Abel Tasmanweg,13,,
-9866TA,Abel Tasmanweg,15,,
-9866TA,Abel Tasmanweg,17,,
-9866TA,Abel Tasmanweg,19,,
-9866TA,Abel Tasmanweg,21,,
-9866TA,Abel Tasmanweg,23,,
-9866TA,Abel Tasmanweg,25,,
-9866TA,Abel Tasmanweg,1,I,
-9866TA,Abel Tasmanweg,1,A,
-9866TA,Abel Tasmanweg,1,A,
-9866TA,Abel Tasmanweg,7,,
-9866TC,Abel Tasmanweg,2,,
-9866TC,Abel Tasmanweg,4,,
-9866TC,Abel Tasmanweg,6,,
-9866TC,Abel Tasmanweg,8,A,
-9866TC,Abel Tasmanweg,10,,
-9866TC,Abel Tasmanweg,12,,
-9866TC,Abel Tasmanweg,14,,
-9866TC,Abel Tasmanweg,16,,
-9866TC,Abel Tasmanweg,18,,
-9866TC,Abel Tasmanweg,8,,
-9866TC,Abel Tasmanweg,2,A,
-9866TR,Bombay,5,,
-9866TR,Bombay,9,,
-9866TR,Bombay,10,,
-9866TR,Bombay,14,,
-9866TR,Bombay,16,,
-9866TR,Bombay,7,,
-9866TR,Bombay,14,,
-9862TP,Buikstede,6,A,
-9862TP,Buikstede,2,A,
-9862TP,Buikstede,2,B,
-9861TA,Caspar Roblesdijk,3,A,
-9861TA,Caspar Roblesdijk,2,A,
-9861TA,Caspar Roblesdijk,2,,
-9866TN,De Wieren,57,,
-9866TN,De Wieren,59,,
-9866TN,De Wieren,63,,
-9866TN,De Wieren,67,,
-9866TN,De Wieren,69,,
-9866TN,De Wieren,71,,
-9866TN,De Wieren,73,,
-9866TN,De Wieren,75,,
-9866TN,De Wieren,77,,
-9866TN,De Wieren,79,,
-9866TN,De Wieren,75,I,
-9866TN,De Wieren,75,A,
-9866TN,De Wieren,59,A,
-9866TN,De Wieren,79,A,
-9866TP,De Wieren,50,,
-9866TP,De Wieren,52,,
-9866TP,De Wieren,54,,
-9863TE,Doezumertocht,15,A,
-9866TG,Dorpsterweg,1,,
-9866TG,Dorpsterweg,2,,
-9866TG,Dorpsterweg,3,,
-9866TG,Dorpsterweg,4,,
-9866TG,Dorpsterweg,5,,
-9866TG,Dorpsterweg,6,,
-9866TG,Dorpsterweg,7,,
-9866TG,Dorpsterweg,8,,
-9866TG,Dorpsterweg,6,A,
-9866TG,Dorpsterweg,1,,
-9866TG,Dorpsterweg,1,A,
-9866TG,Dorpsterweg,1,A,
-9863TA,Eesterweg,3,,
-9863TA,Eesterweg,17,,A
-9863TA,Eesterweg,17,A,
-9863TB,Eesterweg,14,A,
-9863TC,Eesterweg,48,A,
-9863TC,Eesterweg,48,,
-9866TH,Eibersburen,1,,
-9866TH,Eibersburen,2,,
-9866TH,Eibersburen,3,,
-9866TH,Eibersburen,4,,
-9866TH,Eibersburen,6,,
-9866TH,Eibersburen,8,,
-9866TH,Eibersburen,10,,
-9866TH,Eibersburen,11,,
-9866TH,Eibersburen,12,,
-9866TH,Eibersburen,10,A,
-9866TK,Hilmahuisterweg,2,,
-9866TK,Hilmahuisterweg,3,,
-9866TK,Hilmahuisterweg,4,,
-9866TK,Hilmahuisterweg,5,,
-9866TK,Hilmahuisterweg,7,,
-9866TK,Hilmahuisterweg,8,,
-9866TK,Hilmahuisterweg,9,,
-9866TK,Hilmahuisterweg,2,,
-9866TK,Hilmahuisterweg,3,,
-9866TL,Mieden,1,,
-9866TL,Mieden,3,,
-9866TL,Mieden,5,,
-9866TL,Mieden,9,,
-9866TL,Mieden,11,,
-9866TL,Mieden,13,,
-9866TL,Mieden,15,,
-9866TL,Mieden,17,,
-9866TL,Mieden,23,,
-9866TL,Mieden,9,,
-9866TL,Mieden,9,,
-9866TM,Mieden,2,,
-9866TM,Mieden,6,,
-9866TM,Mieden,8,,
-9866TM,Mieden,12,,
-9866TM,Mieden,14,,
-9866TM,Mieden,16,,
-9866TM,Mieden,18,,
-9866TM,Mieden,20,,
-9866TM,Mieden,24,,
-9866TM,Mieden,12,A,
-9866AG,Stationsweg,1,,
-9866AG,Stationsweg,2,,
-9866AG,Stationsweg,3,,
-9866AG,Stationsweg,4,,
-9866AG,Stationsweg,4,I,
-9866AG,Stationsweg,4,A,
-9866AG,Stationsweg,5,,
-9866AG,Stationsweg,6,,
-9866AG,Stationsweg,5,A,
-9866AG,Stationsweg,6,A,
-9866AG,Stationsweg,1,A,
-9866TE,Stationsweg,7,,
-9866TE,Stationsweg,7,A,
-9866TE,Stationsweg,7,B,
-9866TJ,Westerhornerweg,19,,
-9866TJ,Westerhornerweg,21,A,
-9866TJ,Westerhornerweg,21,,
-9866TJ,Westerhornerweg,23,,
-9866TJ,Westerhornerweg,25,,
-9866TJ,Westerhornerweg,27,,
-9866TJ,Westerhornerweg,32,,
-9866TJ,Westerhornerweg,34,,
-9866TJ,Westerhornerweg,36,,
-9866TJ,Westerhornerweg,38,,
-9866TJ,Westerhornerweg,40,A,
-9866TJ,Westerhornerweg,40,,
-9866TJ,Westerhornerweg,25,A,
-9866TJ,Westerhornerweg,34,A,
-9862TM,Westerzand,11,,
-9862TM,Westerzand,13,,
-9862TM,Westerzand,13,A,
-9862TN,Westerzand,20,A,
-9862TN,Westerzand,28,,
-9862TN,Westerzand,6,,
-9862TN,Westerzand,6,,
-9862TN,Westerzand,6,,
-9862TK,Woldweg,7,A,
-9866AV,Zeehaanstraat,2,D,
-9866AV,Zeehaanstraat,2,A,
-9866AV,Zeehaanstraat,2,C,
-9866AV,Zeehaanstraat,2,,
-9866AV,Zeehaanstraat,2,B,
-9866AV,Zeehaanstraat,4,,
-9866AV,Zeehaanstraat,6,,
-9866AV,Zeehaanstraat,8,,
-9866AV,Zeehaanstraat,10,,
-9866AV,Zeehaanstraat,12,,
-9866AV,Zeehaanstraat,14,,
-9866AV,Zeehaanstraat,16,,
-9866AV,Zeehaanstraat,18,,
-9866AV,Zeehaanstraat,20,,
-9866AV,Zeehaanstraat,20,A,
-9866AV,Zeehaanstraat,22,,
-9866AV,Zeehaanstraat,24,,
-9866AV,Zeehaanstraat,26,,
-9866TA,Abel Tasmanweg,13,A,
-9863TE,Doezumertocht,15,B,
-9866TG,Dorpsterweg,7,A,
-9866TG,Dorpsterweg,6,,
-9863TA,Eesterweg,11,,
-9863TC,Eesterweg,40,,
-9866TL,Mieden,13,,
-9866TL,Mieden,13,,
-9866AG,Stationsweg,1,B,
-9866TJ,Westerhornerweg,25,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Caspar Roblesdijk,1,"","",9861TA,Grootegast
+Caspar Roblesdijk,2,"","",9861TA,Grootegast
+Caspar Roblesdijk,2,A,"",9861TA,Grootegast
+Caspar Roblesdijk,3,"","",9861TA,Grootegast
+Caspar Roblesdijk,3,A,"",9861TA,Grootegast
+Caspar Roblesdijk,3,A,"",9861TA,Grootegast
+Woldweg,1,"","",9862TK,Sebaldeburen
+Woldweg,4,"","",9862TK,Sebaldeburen
+Woldweg,6,"","",9862TK,Sebaldeburen
+Woldweg,7,"","",9862TK,Sebaldeburen
+Woldweg,7,A,"",9862TK,Sebaldeburen
+Woldweg,8,"","",9862TK,Sebaldeburen
+Woldweg,10,"","",9862TL,Sebaldeburen
+Woldweg,11,"","",9862TL,Sebaldeburen
+Woldweg,12,"","",9862TL,Sebaldeburen
+Woldweg,9,"","",9862TL,Sebaldeburen
+Westerzand,1,"","",9862TM,Sebaldeburen
+Westerzand,11,"","",9862TM,Sebaldeburen
+Westerzand,11,"","",9862TM,Sebaldeburen
+Westerzand,11,"","",9862TM,Sebaldeburen
+Westerzand,13,"","",9862TM,Sebaldeburen
+Westerzand,13,A,"",9862TM,Sebaldeburen
+Westerzand,15,"","",9862TM,Sebaldeburen
+Westerzand,17,"","",9862TM,Sebaldeburen
+Westerzand,19,"","",9862TM,Sebaldeburen
+Westerzand,21,"","",9862TM,Sebaldeburen
+Westerzand,3,"","",9862TM,Sebaldeburen
+Westerzand,5,"","",9862TM,Sebaldeburen
+Westerzand,7,"","",9862TM,Sebaldeburen
+Westerzand,9,"","",9862TM,Sebaldeburen
+Westerzand,10,"","",9862TN,Sebaldeburen
+Westerzand,12,"","",9862TN,Sebaldeburen
+Westerzand,14,"","",9862TN,Sebaldeburen
+Westerzand,16,"","",9862TN,Sebaldeburen
+Westerzand,18,"","",9862TN,Sebaldeburen
+Westerzand,2,"","",9862TN,Sebaldeburen
+Westerzand,20,"","",9862TN,Sebaldeburen
+Westerzand,20,A,"",9862TN,Sebaldeburen
+Westerzand,22,"","",9862TN,Sebaldeburen
+Westerzand,24,"","",9862TN,Sebaldeburen
+Westerzand,26,"","",9862TN,Sebaldeburen
+Westerzand,28,"","",9862TN,Sebaldeburen
+Westerzand,28,"","",9862TN,Sebaldeburen
+Westerzand,28,"","",9862TN,Sebaldeburen
+Westerzand,4,"","",9862TN,Sebaldeburen
+Westerzand,6,"","",9862TN,Sebaldeburen
+Westerzand,6,"","",9862TN,Sebaldeburen
+Westerzand,6,"","",9862TN,Sebaldeburen
+Westerzand,6,"","",9862TN,Sebaldeburen
+Westerzand,6,"","",9862TN,Sebaldeburen
+Westerzand,8,"","",9862TN,Sebaldeburen
+Buikstede,1,"","",9862TP,Sebaldeburen
+Buikstede,2,"","",9862TP,Sebaldeburen
+Buikstede,2,A,"",9862TP,Sebaldeburen
+Buikstede,2,A,"",9862TP,Sebaldeburen
+Buikstede,2,A,"",9862TP,Sebaldeburen
+Buikstede,2,B,"",9862TP,Sebaldeburen
+Buikstede,3,"","",9862TP,Sebaldeburen
+Buikstede,4,"","",9862TP,Sebaldeburen
+Buikstede,5,"","",9862TP,Sebaldeburen
+Buikstede,6,"","",9862TP,Sebaldeburen
+Buikstede,6,A,"",9862TP,Sebaldeburen
+Eesterweg,1,"","",9863TA,Doezum
+Eesterweg,11,"","",9863TA,Doezum
+Eesterweg,13,"","",9863TA,Doezum
+Eesterweg,15,"","",9863TA,Doezum
+Eesterweg,17,"","",9863TA,Doezum
+Eesterweg,17,"",A,9863TA,Doezum
+Eesterweg,17,A,"",9863TA,Doezum
+Eesterweg,19,"","",9863TA,Doezum
+Eesterweg,21,"","",9863TA,Doezum
+Eesterweg,3,"","",9863TA,Doezum
+Eesterweg,5,"","",9863TA,Doezum
+Eesterweg,7,"","",9863TA,Doezum
+Eesterweg,9,"","",9863TA,Doezum
+Eesterweg,10,"","",9863TB,Doezum
+Eesterweg,12,"","",9863TB,Doezum
+Eesterweg,14,"","",9863TB,Doezum
+Eesterweg,14,A,"",9863TB,Doezum
+Eesterweg,16,"","",9863TB,Doezum
+Eesterweg,18,"","",9863TB,Doezum
+Eesterweg,2,"","",9863TB,Doezum
+Eesterweg,2,"","",9863TB,Doezum
+Eesterweg,20,"","",9863TB,Doezum
+Eesterweg,22,"","",9863TB,Doezum
+Eesterweg,24,"","",9863TB,Doezum
+Eesterweg,26,"","",9863TB,Doezum
+Eesterweg,28,"","",9863TB,Doezum
+Eesterweg,4,"","",9863TB,Doezum
+Eesterweg,6,"","",9863TB,Doezum
+Eesterweg,6,"","",9863TB,Doezum
+Eesterweg,8,"","",9863TB,Doezum
+Eesterweg,30,"","",9863TC,Doezum
+Eesterweg,32,"","",9863TC,Doezum
+Eesterweg,34,"","",9863TC,Doezum
+Eesterweg,36,"","",9863TC,Doezum
+Eesterweg,38,"","",9863TC,Doezum
+Eesterweg,40,"","",9863TC,Doezum
+Eesterweg,42,"","",9863TC,Doezum
+Eesterweg,44,"","",9863TC,Doezum
+Eesterweg,46,"","",9863TC,Doezum
+Eesterweg,48,"","",9863TC,Doezum
+Eesterweg,48,"","",9863TC,Doezum
+Eesterweg,48,"","",9863TC,Doezum
+Eesterweg,48,A,"",9863TC,Doezum
+Eesterweg,50,"","",9863TC,Doezum
+Eesterweg,50,A,"",9863TC,Doezum
+Bombay,1,"","",9863TD,Doezum
+Bombay,2,"","",9863TD,Doezum
+Bombay,3,"","",9863TD,Doezum
+Bombay,4,"","",9863TD,Doezum
+Bombay,6,"","",9863TD,Doezum
+Bombay,8,"","",9863TD,Doezum
+Bombay,8,A,"",9863TD,Doezum
+Doezumertocht,1,"","",9863TE,Doezum
+Doezumertocht,13,"","",9863TE,Doezum
+Doezumertocht,15,"","",9863TE,Doezum
+Doezumertocht,15,A,"",9863TE,Doezum
+Doezumertocht,17,"","",9863TE,Doezum
+Doezumertocht,3,"","",9863TE,Doezum
+Doezumertocht,5,"","",9863TE,Doezum
+Doezumertocht,7,"","",9863TE,Doezum
+Doezumertocht,7,A,"",9863TE,Doezum
+Doezumertocht,9,"","",9863TE,Doezum
+Stationsweg,1,"","",9866AG,Lutjegast
+Stationsweg,1,A,"",9866AG,Lutjegast
+Stationsweg,1,A,"",9866AG,Lutjegast
+Stationsweg,2,"","",9866AG,Lutjegast
+Stationsweg,3,"","",9866AG,Lutjegast
+Stationsweg,4,"","",9866AG,Lutjegast
+Stationsweg,4,A,"",9866AG,Lutjegast
+Stationsweg,4,I,"",9866AG,Lutjegast
+Stationsweg,5,"","",9866AG,Lutjegast
+Stationsweg,5,A,"",9866AG,Lutjegast
+Stationsweg,6,"","",9866AG,Lutjegast
+Stationsweg,6,A,"",9866AG,Lutjegast
+Zeehaanstraat,10,"","",9866AV,Lutjegast
+Zeehaanstraat,12,"","",9866AV,Lutjegast
+Zeehaanstraat,14,"","",9866AV,Lutjegast
+Zeehaanstraat,16,"","",9866AV,Lutjegast
+Zeehaanstraat,18,"","",9866AV,Lutjegast
+Zeehaanstraat,2,"","",9866AV,Lutjegast
+Zeehaanstraat,2,A,"",9866AV,Lutjegast
+Zeehaanstraat,2,B,"",9866AV,Lutjegast
+Zeehaanstraat,2,C,"",9866AV,Lutjegast
+Zeehaanstraat,2,D,"",9866AV,Lutjegast
+Zeehaanstraat,20,"","",9866AV,Lutjegast
+Zeehaanstraat,20,A,"",9866AV,Lutjegast
+Zeehaanstraat,22,"","",9866AV,Lutjegast
+Zeehaanstraat,24,"","",9866AV,Lutjegast
+Zeehaanstraat,26,"","",9866AV,Lutjegast
+Zeehaanstraat,4,"","",9866AV,Lutjegast
+Zeehaanstraat,6,"","",9866AV,Lutjegast
+Zeehaanstraat,8,"","",9866AV,Lutjegast
+Abel Tasmanweg,1,"","",9866TA,Lutjegast
+Abel Tasmanweg,1,A,"",9866TA,Lutjegast
+Abel Tasmanweg,1,A,"",9866TA,Lutjegast
+Abel Tasmanweg,1,A,"",9866TA,Lutjegast
+Abel Tasmanweg,1,I,"",9866TA,Lutjegast
+Abel Tasmanweg,13,"","",9866TA,Lutjegast
+Abel Tasmanweg,15,"","",9866TA,Lutjegast
+Abel Tasmanweg,17,"","",9866TA,Lutjegast
+Abel Tasmanweg,19,"","",9866TA,Lutjegast
+Abel Tasmanweg,21,"","",9866TA,Lutjegast
+Abel Tasmanweg,23,"","",9866TA,Lutjegast
+Abel Tasmanweg,25,"","",9866TA,Lutjegast
+Abel Tasmanweg,3,"","",9866TA,Lutjegast
+Abel Tasmanweg,5,"","",9866TA,Lutjegast
+Abel Tasmanweg,7,"","",9866TA,Lutjegast
+Abel Tasmanweg,7,"","",9866TA,Lutjegast
+Abel Tasmanweg,7,"","",9866TA,Lutjegast
+Abel Tasmanweg,9,"","",9866TA,Lutjegast
+Abel Tasmanweg,10,"","",9866TC,Lutjegast
+Abel Tasmanweg,12,"","",9866TC,Lutjegast
+Abel Tasmanweg,14,"","",9866TC,Lutjegast
+Abel Tasmanweg,16,"","",9866TC,Lutjegast
+Abel Tasmanweg,18,"","",9866TC,Lutjegast
+Abel Tasmanweg,2,"","",9866TC,Lutjegast
+Abel Tasmanweg,2,A,"",9866TC,Lutjegast
+Abel Tasmanweg,2,A,"",9866TC,Lutjegast
+Abel Tasmanweg,4,"","",9866TC,Lutjegast
+Abel Tasmanweg,6,"","",9866TC,Lutjegast
+Abel Tasmanweg,8,"","",9866TC,Lutjegast
+Abel Tasmanweg,8,A,"",9866TC,Lutjegast
+Stationsweg,7,"","",9866TE,Lutjegast
+Stationsweg,7,A,"",9866TE,Lutjegast
+Stationsweg,7,B,"",9866TE,Lutjegast
+Stationsweg,7,B,"",9866TE,Lutjegast
+Dorpsterweg,1,"","",9866TG,Lutjegast
+Dorpsterweg,1,"","",9866TG,Lutjegast
+Dorpsterweg,1,"","",9866TG,Lutjegast
+Dorpsterweg,1,A,"",9866TG,Lutjegast
+Dorpsterweg,1,A,"",9866TG,Lutjegast
+Dorpsterweg,1,A,"",9866TG,Lutjegast
+Dorpsterweg,2,"","",9866TG,Lutjegast
+Dorpsterweg,3,"","",9866TG,Lutjegast
+Dorpsterweg,4,"","",9866TG,Lutjegast
+Dorpsterweg,5,"","",9866TG,Lutjegast
+Dorpsterweg,6,"","",9866TG,Lutjegast
+Dorpsterweg,6,A,"",9866TG,Lutjegast
+Dorpsterweg,7,"","",9866TG,Lutjegast
+Dorpsterweg,8,"","",9866TG,Lutjegast
+Eibersburen,1,"","",9866TH,Lutjegast
+Eibersburen,10,"","",9866TH,Lutjegast
+Eibersburen,10,A,"",9866TH,Lutjegast
+Eibersburen,11,"","",9866TH,Lutjegast
+Eibersburen,12,"","",9866TH,Lutjegast
+Eibersburen,2,"","",9866TH,Lutjegast
+Eibersburen,3,"","",9866TH,Lutjegast
+Eibersburen,4,"","",9866TH,Lutjegast
+Eibersburen,6,"","",9866TH,Lutjegast
+Eibersburen,8,"","",9866TH,Lutjegast
+Westerhornerweg,19,"","",9866TJ,Lutjegast
+Westerhornerweg,21,"","",9866TJ,Lutjegast
+Westerhornerweg,21,A,"",9866TJ,Lutjegast
+Westerhornerweg,23,"","",9866TJ,Lutjegast
+Westerhornerweg,25,"","",9866TJ,Lutjegast
+Westerhornerweg,25,A,"",9866TJ,Lutjegast
+Westerhornerweg,27,"","",9866TJ,Lutjegast
+Westerhornerweg,32,"","",9866TJ,Lutjegast
+Westerhornerweg,34,"","",9866TJ,Lutjegast
+Westerhornerweg,34,A,"",9866TJ,Lutjegast
+Westerhornerweg,36,"","",9866TJ,Lutjegast
+Westerhornerweg,38,"","",9866TJ,Lutjegast
+Westerhornerweg,40,"","",9866TJ,Lutjegast
+Westerhornerweg,40,A,"",9866TJ,Lutjegast
+Hilmahuisterweg,2,"","",9866TK,Lutjegast
+Hilmahuisterweg,2,"","",9866TK,Lutjegast
+Hilmahuisterweg,2,"","",9866TK,Lutjegast
+Hilmahuisterweg,3,"","",9866TK,Lutjegast
+Hilmahuisterweg,3,"","",9866TK,Lutjegast
+Hilmahuisterweg,3,"","",9866TK,Lutjegast
+Hilmahuisterweg,4,"","",9866TK,Lutjegast
+Hilmahuisterweg,5,"","",9866TK,Lutjegast
+Hilmahuisterweg,7,"","",9866TK,Lutjegast
+Hilmahuisterweg,8,"","",9866TK,Lutjegast
+Hilmahuisterweg,9,"","",9866TK,Lutjegast
+Mieden,1,"","",9866TL,Lutjegast
+Mieden,11,"","",9866TL,Lutjegast
+Mieden,13,"","",9866TL,Lutjegast
+Mieden,13,"","",9866TL,Lutjegast
+Mieden,15,"","",9866TL,Lutjegast
+Mieden,17,"","",9866TL,Lutjegast
+Mieden,23,"","",9866TL,Lutjegast
+Mieden,3,"","",9866TL,Lutjegast
+Mieden,5,"","",9866TL,Lutjegast
+Mieden,9,"","",9866TL,Lutjegast
+Mieden,9,"","",9866TL,Lutjegast
+Mieden,9,"","",9866TL,Lutjegast
+Mieden,9,"","",9866TL,Lutjegast
+Mieden,12,"","",9866TM,Lutjegast
+Mieden,12,A,"",9866TM,Lutjegast
+Mieden,12,A,"",9866TM,Lutjegast
+Mieden,14,"","",9866TM,Lutjegast
+Mieden,16,"","",9866TM,Lutjegast
+Mieden,18,"","",9866TM,Lutjegast
+Mieden,2,"","",9866TM,Lutjegast
+Mieden,20,"","",9866TM,Lutjegast
+Mieden,24,"","",9866TM,Lutjegast
+Mieden,6,"","",9866TM,Lutjegast
+Mieden,8,"","",9866TM,Lutjegast
+De Wieren,57,"","",9866TN,Lutjegast
+De Wieren,59,"","",9866TN,Lutjegast
+De Wieren,59,A,"",9866TN,Lutjegast
+De Wieren,63,"","",9866TN,Lutjegast
+De Wieren,67,"","",9866TN,Lutjegast
+De Wieren,69,"","",9866TN,Lutjegast
+De Wieren,71,"","",9866TN,Lutjegast
+De Wieren,73,"","",9866TN,Lutjegast
+De Wieren,75,"","",9866TN,Lutjegast
+De Wieren,75,A,"",9866TN,Lutjegast
+De Wieren,75,I,"",9866TN,Lutjegast
+De Wieren,77,"","",9866TN,Lutjegast
+De Wieren,79,"","",9866TN,Lutjegast
+De Wieren,79,A,"",9866TN,Lutjegast
+De Wieren,50,"","",9866TP,Lutjegast
+De Wieren,52,"","",9866TP,Lutjegast
+De Wieren,54,"","",9866TP,Lutjegast
+Bombay,10,"","",9866TR,Lutjegast
+Bombay,14,"","",9866TR,Lutjegast
+Bombay,14,"","",9866TR,Lutjegast
+Bombay,14,"","",9866TR,Lutjegast
+Bombay,16,"","",9866TR,Lutjegast
+Bombay,5,"","",9866TR,Lutjegast
+Bombay,7,"","",9866TR,Lutjegast
+Bombay,9,"","",9866TR,Lutjegast

@@ -1,424 +1,183 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9932GA",21,"",""
-"9932GA",21,"",""
-"9932GA",21,"",""
-"9932GA",5,"",""
-"9932GA",19,"",""
-"9932GA",1,"",""
-"9932GA",4,"",""
-"9932GA",21,"",""
-"9932GA",19,"",""
-"9932GA",19,"",""
-"9932GA",19,"",""
-"9932GA",3,"",""
-"9932GA",7,"B",""
-"9932GA",19,"",""
-"9932GA",5,"",""
-"9932GA",5,"",""
-"9932GA",2,"",""
-"9932GA",15,"",""
-"9932GB",9,"",""
-"9932GB",5,"",""
-"9932GB",25,"",""
-"9932GB",17,"",""
-"9932GB",23,"",""
-"9932GB",11,"",""
-"9932GB",15,"",""
-"9932GB",7,"",""
-"9932GB",27,"",""
-"9932GB",3,"",""
-"9932GB",21,"",""
-"9932GB",13,"",""
-"9932GB",1,"",""
-"9932GD",6,"",""
-"9932GD",14,"",""
-"9932GD",18,"",""
-"9932GD",8,"",""
-"9932GD",2,"",""
-"9932GD",4,"",""
-"9932GD",16,"",""
-"9932GD",10,"",""
-"9932GD",12,"",""
-"9932GD",20,"",""
-"9932GE",14,"",""
-"9932GE",14,"",""
-"9932GE",2,"",""
-"9932GE",1,"",""
-"9932GE",12,"",""
-"9932GE",5,"",""
-"9932GE",14,"",""
-"9932GE",3,"",""
-"9932GE",7,"",""
-"9932GE",13,"",""
-"9932GE",9,"",""
-"9932GE",6,"",""
-"9932GE",10,"",""
-"9932GE",8,"",""
-"9932GE",4,"",""
-"9932GE",11,"",""
-"9932GG",6,"",""
-"9932GG",4,"",""
-"9932GG",2,"",""
-"9932GG",1,"",""
-"9932GG",3,"",""
-"9932GJ",31,"",""
-"9932GJ",29,"",""
-"9932GJ",23,"",""
-"9932GJ",27,"",""
-"9932GJ",21,"",""
-"9932GJ",5,"",""
-"9932GJ",11,"",""
-"9932GJ",25,"",""
-"9932GJ",19,"",""
-"9932GJ",3,"",""
-"9932GJ",1,"",""
-"9932GJ",15,"",""
-"9932GJ",9,"",""
-"9932GJ",13,"",""
-"9932GJ",17,"",""
-"9932GJ",7,"",""
-"9932GK",57,"",""
-"9932GK",55,"",""
-"9932GK",43,"",""
-"9932GK",51,"",""
-"9932GK",39,"",""
-"9932GK",59,"",""
-"9932GK",41,"",""
-"9932GK",37,"",""
-"9932GK",57,"A",""
-"9932GK",49,"",""
-"9932GK",53,"",""
-"9932GK",61,"",""
-"9932GK",35,"",""
-"9932GK",47,"",""
-"9932GK",33,"",""
-"9932GK",45,"",""
-"9932GL",8,"",""
-"9932GL",18,"",""
-"9932GL",20,"",""
-"9932GL",26,"",""
-"9932GL",16,"",""
-"9932GL",12,"",""
-"9932GL",14,"",""
-"9932GL",24,"",""
-"9932GL",30,"",""
-"9932GL",4,"",""
-"9932GL",6,"",""
-"9932GL",22,"",""
-"9932GL",28,"",""
-"9932GL",10,"",""
-"9932GL",2,"",""
-"9932GM",10,"",""
-"9932GM",9,"",""
-"9932GM",7,"",""
-"9932GM",2,"",""
-"9932GM",3,"",""
-"9932GM",6,"",""
-"9932GM",15,"",""
-"9932GM",1,"",""
-"9932GM",8,"",""
-"9932GM",18,"",""
-"9932GM",20,"",""
-"9932GM",4,"",""
-"9932GM",14,"",""
-"9932GM",12,"",""
-"9932GM",13,"",""
-"9932GM",5,"",""
-"9932GM",16,"",""
-"9932GM",11,"",""
-"9932GN",9,"",""
-"9932GN",13,"",""
-"9932GN",3,"",""
-"9932GN",5,"",""
-"9932GN",11,"",""
-"9932GN",29,"",""
-"9932GN",1,"",""
-"9932GN",19,"",""
-"9932GN",15,"",""
-"9932GN",17,"",""
-"9932GN",7,"",""
-"9932GN",21,"",""
-"9932GN",25,"",""
-"9932GN",27,"",""
-"9932GN",23,"",""
-"9932GP",35,"",""
-"9932GP",49,"",""
-"9932GP",31,"",""
-"9932GP",61,"",""
-"9932GP",59,"",""
-"9932GP",57,"",""
-"9932GP",39,"",""
-"9932GP",33,"",""
-"9932GP",41,"",""
-"9932GP",43,"",""
-"9932GP",37,"",""
-"9932GP",51,"",""
-"9932GP",55,"",""
-"9932GP",45,"",""
-"9932GP",53,"",""
-"9932GP",47,"",""
-"9932GR",8,"",""
-"9932GR",6,"",""
-"9932GR",18,"",""
-"9932GR",14,"",""
-"9932GR",4,"",""
-"9932GR",10,"",""
-"9932GR",20,"",""
-"9932GR",22,"",""
-"9932GR",24,"",""
-"9932GR",12,"",""
-"9932GR",16,"",""
-"9932GS",38,"",""
-"9932GS",36,"",""
-"9932GS",32,"",""
-"9932GS",26,"",""
-"9932GS",34,"",""
-"9932GS",46,"",""
-"9932GS",28,"",""
-"9932GS",40,"",""
-"9932GS",30,"",""
-"9932GS",42,"",""
-"9932GS",48,"A",""
-"9932GS",48,"",""
-"9932GS",44,"",""
-9932GN,Hoefsmederij,15,,
-9932GN,Hoefsmederij,13,,
-9932GN,Hoefsmederij,9,,
-9932GN,Hoefsmederij,7,,
-9932GN,Hoefsmederij,11,,
-9932GN,Hoefsmederij,5,,
-9932GN,Hoefsmederij,3,,
-9932GN,Hoefsmederij,1,,
-9932GN,Hoefsmederij,17,,
-9932GN,Hoefsmederij,19,,
-9932GN,Hoefsmederij,21,,
-9932GN,Hoefsmederij,23,,
-9932GN,Hoefsmederij,25,,
-9932GN,Hoefsmederij,27,,
-9932GN,Hoefsmederij,29,,
-9932GP,Hoefsmederij,61,,
-9932GP,Hoefsmederij,59,,
-9932GP,Hoefsmederij,31,,
-9932GP,Hoefsmederij,33,,
-9932GP,Hoefsmederij,35,,
-9932GP,Hoefsmederij,37,,
-9932GP,Hoefsmederij,39,,
-9932GP,Hoefsmederij,41,,
-9932GP,Hoefsmederij,43,,
-9932GP,Hoefsmederij,45,,
-9932GP,Hoefsmederij,47,,
-9932GP,Hoefsmederij,49,,
-9932GP,Hoefsmederij,51,,
-9932GP,Hoefsmederij,53,,
-9932GP,Hoefsmederij,55,,
-9932GP,Hoefsmederij,57,,
-9932GR,Hoefsmederij,24,,
-9932GR,Hoefsmederij,22,,
-9932GR,Hoefsmederij,6,,
-9932GR,Hoefsmederij,8,,
-9932GR,Hoefsmederij,10,,
-9932GR,Hoefsmederij,4,,
-9932GR,Hoefsmederij,20,,
-9932GR,Hoefsmederij,18,,
-9932GR,Hoefsmederij,16,,
-9932GR,Hoefsmederij,14,,
-9932GR,Hoefsmederij,12,,
-9932GS,Hoefsmederij,26,,
-9932GS,Hoefsmederij,48,A,
-9932GS,Hoefsmederij,34,,
-9932GS,Hoefsmederij,32,,
-9932GS,Hoefsmederij,36,,
-9932GS,Hoefsmederij,48,,
-9932GS,Hoefsmederij,46,,
-9932GS,Hoefsmederij,44,,
-9932GS,Hoefsmederij,42,,
-9932GS,Hoefsmederij,40,,
-9932GS,Hoefsmederij,38,,
-9932GS,Hoefsmederij,28,,
-9932GS,Hoefsmederij,30,,
-9932GE,Kuiperij,1,,
-9932GE,Kuiperij,13,,
-9932GE,Kuiperij,2,,
-9932GE,Kuiperij,3,,
-9932GE,Kuiperij,5,,
-9932GE,Kuiperij,7,,
-9932GE,Kuiperij,9,,
-9932GE,Kuiperij,11,,
-9932GE,Kuiperij,4,,
-9932GE,Kuiperij,6,,
-9932GE,Kuiperij,8,,
-9932GE,Kuiperij,10,,
-9932GE,Kuiperij,12,,
-9932GE,Kuiperij,14,,
-9932GG,Pellerij,4,,
-9932GG,Pellerij,2,,
-9932GG,Pellerij,3,,
-9932GG,Pellerij,1,,
-9932GG,Pellerij,6,,
-9932GJ,Stelmakerij,25,,
-9932GJ,Stelmakerij,23,,
-9932GJ,Stelmakerij,21,,
-9932GJ,Stelmakerij,19,,
-9932GJ,Stelmakerij,17,,
-9932GJ,Stelmakerij,15,,
-9932GJ,Stelmakerij,13,,
-9932GJ,Stelmakerij,11,,
-9932GJ,Stelmakerij,9,,
-9932GJ,Stelmakerij,7,,
-9932GJ,Stelmakerij,5,,
-9932GJ,Stelmakerij,3,,
-9932GJ,Stelmakerij,1,,
-9932GJ,Stelmakerij,31,,
-9932GJ,Stelmakerij,29,,
-9932GJ,Stelmakerij,27,,
-9932GK,Stelmakerij,57,A,
-9932GK,Stelmakerij,57,,
-9932GK,Stelmakerij,55,,
-9932GK,Stelmakerij,53,,
-9932GK,Stelmakerij,45,,
-9932GK,Stelmakerij,43,,
-9932GK,Stelmakerij,41,,
-9932GK,Stelmakerij,39,,
-9932GK,Stelmakerij,37,,
-9932GK,Stelmakerij,35,,
-9932GK,Stelmakerij,33,,
-9932GK,Stelmakerij,61,,
-9932GK,Stelmakerij,59,,
-9932GK,Stelmakerij,51,,
-9932GK,Stelmakerij,49,,
-9932GK,Stelmakerij,47,,
-9932GL,Stelmakerij,8,,
-9932GL,Stelmakerij,6,,
-9932GL,Stelmakerij,4,,
-9932GL,Stelmakerij,2,,
-9932GL,Stelmakerij,22,,
-9932GL,Stelmakerij,12,,
-9932GL,Stelmakerij,10,,
-9932GL,Stelmakerij,20,,
-9932GL,Stelmakerij,18,,
-9932GL,Stelmakerij,16,,
-9932GL,Stelmakerij,14,,
-9932GL,Stelmakerij,24,,
-9932GL,Stelmakerij,26,,
-9932GL,Stelmakerij,28,,
-9932GL,Stelmakerij,30,,
-9932GB,Wagenmakerij,5,,
-9932GB,Wagenmakerij,3,,
-9932GB,Wagenmakerij,1,,
-9932GB,Wagenmakerij,17,,
-9932GB,Wagenmakerij,15,,
-9932GB,Wagenmakerij,9,,
-9932GB,Wagenmakerij,23,,
-9932GB,Wagenmakerij,25,,
-9932GB,Wagenmakerij,27,,
-9932GB,Wagenmakerij,11,,
-9932GB,Wagenmakerij,13,,
-9932GB,Wagenmakerij,21,,
-9932GB,Wagenmakerij,7,,
-9932GD,Wagenmakerij,20,,
-9932GD,Wagenmakerij,10,,
-9932GD,Wagenmakerij,8,,
-9932GD,Wagenmakerij,2,,
-9932GD,Wagenmakerij,16,,
-9932GD,Wagenmakerij,14,,
-9932GD,Wagenmakerij,12,,
-9932GD,Wagenmakerij,6,,
-9932GD,Wagenmakerij,4,,
-9932GD,Wagenmakerij,18,,
-9932GA,Weg naar den Dam,2,,
-9932GA,Weg naar den Dam,7,B,
-9932GA,Weg naar den Dam,3,,
-9932GA,Weg naar den Dam,5,,
-9932GA,Weg naar den Dam,5,,
-9932GA,Weg naar den Dam,1,,
-9932GA,Weg naar den Dam,4,,
-9932GM,Zadelmakerij,1,,
-9932GM,Zadelmakerij,3,,
-9932GM,Zadelmakerij,5,,
-9932GM,Zadelmakerij,7,,
-9932GM,Zadelmakerij,13,,
-9932GM,Zadelmakerij,15,,
-9932GM,Zadelmakerij,9,,
-9932GM,Zadelmakerij,11,,
-9932GM,Zadelmakerij,20,,
-9932GM,Zadelmakerij,18,,
-9932GM,Zadelmakerij,16,,
-9932GM,Zadelmakerij,14,,
-9932GM,Zadelmakerij,12,,
-9932GM,Zadelmakerij,10,,
-9932GM,Zadelmakerij,8,,
-9932GM,Zadelmakerij,6,,
-9932GM,Zadelmakerij,4,,
-9932GM,Zadelmakerij,2,,
-9932GE,Kuiperij,14,,
-9932GA,Weg naar den Dam,15,,
-9932GA,Weg naar den Dam,19,,
-9932GA,Weg naar den Dam,21,,
-9932GA,Weg naar den Dam,19,,
-9932GA,Weg naar den Dam,21,,
-9932GA,Weg naar den Dam,19,,
-9932GA,Weg naar den Dam,6,,
-9932GA,Weg naar den Dam,6,a,
-9932GA,Weg naar den Dam,6,c,
-9932GA,Weg naar den Dam,6,d,
-9932GA,Weg naar den Dam,6,f,
-9932GA,Weg naar den Dam,6,e,
-9932GA,Weg naar den Dam,6,b,
-9932GA,Weg naar den Dam,8,,
-9932GA,Weg naar den Dam,8,b,
-9932GA,Weg naar den Dam,8,c,
-9932GA,Weg naar den Dam,10,h,
-9932GA,Weg naar den Dam,10,b,
-9932GA,Weg naar den Dam,10,d,
-9932GA,Weg naar den Dam,10,,
-9932GA,Weg naar den Dam,10,a,
-9932GA,Weg naar den Dam,8,m,
-9932GA,Weg naar den Dam,8,d,
-9932GA,Weg naar den Dam,10,c,
-9932GA,Weg naar den Dam,8,g,
-9932GA,Weg naar den Dam,8,h,
-9932GA,Weg naar den Dam,8,n,
-9932GA,Weg naar den Dam,10,k,
-9932GA,Weg naar den Dam,8,a,
-9932GA,Weg naar den Dam,10,e,
-9932GA,Weg naar den Dam,8,e,
-9932GA,Weg naar den Dam,8,f,
-9932GA,Weg naar den Dam,8,k,
-9932GA,Weg naar den Dam,10,g,
-9932GA,Weg naar den Dam,10,f,
-9932GA,Weg naar den Dam,14,d,
-9932GA,Weg naar den Dam,14,a,
-9932GA,Weg naar den Dam,14,b,
-9932GA,Weg naar den Dam,14,g,
-9932GA,Weg naar den Dam,14,f,
-9932GA,Weg naar den Dam,14,h,
-9932GA,Weg naar den Dam,14,k,
-9932GA,Weg naar den Dam,14,c,
-9932GA,Weg naar den Dam,14,,
-9932GA,Weg naar den Dam,16,d,
-9932GA,Weg naar den Dam,16,b,
-9932GA,Weg naar den Dam,16,f,
-9932GA,Weg naar den Dam,16,k,
-9932GA,Weg naar den Dam,16,n,
-9932GA,Weg naar den Dam,16,a,
-9932GA,Weg naar den Dam,16,e,
-9932GA,Weg naar den Dam,16,g,
-9932GA,Weg naar den Dam,16,m,
-9932GA,Weg naar den Dam,16,c,
-9932GA,Weg naar den Dam,16,,
-9932GA,Weg naar den Dam,16,h,
-9932GA,Weg naar den Dam,12,d,
-9932GA,Weg naar den Dam,12,g,
-9932GA,Weg naar den Dam,12,f,
-9932GA,Weg naar den Dam,12,,
-9932GA,Weg naar den Dam,12,k,
-9932GA,Weg naar den Dam,12,c,
-9932GA,Weg naar den Dam,12,b,
-9932GA,Weg naar den Dam,12,h,
-9932GA,Weg naar den Dam,12,a,
-9932GA,Weg naar den Dam,12,e,
-9932GA,Weg naar den Dam,14,e,
-9932GR,Hoefsmederij,4,,
-9932GR,Hoefsmederij,10,,
-9932GR,Hoefsmederij,6,,
-9932GR,Hoefsmederij,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Weg naar den Dam,1,"","",9932GA,Delfzijl
+Weg naar den Dam,15,"","",9932GA,Delfzijl
+Weg naar den Dam,19,"","",9932GA,Delfzijl
+Weg naar den Dam,19,"","",9932GA,Delfzijl
+Weg naar den Dam,19,"","",9932GA,Delfzijl
+Weg naar den Dam,19,"","",9932GA,Delfzijl
+Weg naar den Dam,19,"","",9932GA,Delfzijl
+Weg naar den Dam,2,"","",9932GA,Delfzijl
+Weg naar den Dam,21,"","",9932GA,Delfzijl
+Weg naar den Dam,21,"","",9932GA,Delfzijl
+Weg naar den Dam,21,"","",9932GA,Delfzijl
+Weg naar den Dam,21,"","",9932GA,Delfzijl
+Weg naar den Dam,3,"","",9932GA,Delfzijl
+Weg naar den Dam,4,"","",9932GA,Delfzijl
+Weg naar den Dam,5,"","",9932GA,Delfzijl
+Weg naar den Dam,5,"","",9932GA,Delfzijl
+Weg naar den Dam,5,"","",9932GA,Delfzijl
+Weg naar den Dam,7,B,"",9932GA,Delfzijl
+Wagenmakerij,1,"","",9932GB,Delfzijl
+Wagenmakerij,11,"","",9932GB,Delfzijl
+Wagenmakerij,13,"","",9932GB,Delfzijl
+Wagenmakerij,15,"","",9932GB,Delfzijl
+Wagenmakerij,17,"","",9932GB,Delfzijl
+Wagenmakerij,21,"","",9932GB,Delfzijl
+Wagenmakerij,23,"","",9932GB,Delfzijl
+Wagenmakerij,25,"","",9932GB,Delfzijl
+Wagenmakerij,27,"","",9932GB,Delfzijl
+Wagenmakerij,3,"","",9932GB,Delfzijl
+Wagenmakerij,5,"","",9932GB,Delfzijl
+Wagenmakerij,7,"","",9932GB,Delfzijl
+Wagenmakerij,9,"","",9932GB,Delfzijl
+Wagenmakerij,10,"","",9932GD,Delfzijl
+Wagenmakerij,12,"","",9932GD,Delfzijl
+Wagenmakerij,14,"","",9932GD,Delfzijl
+Wagenmakerij,16,"","",9932GD,Delfzijl
+Wagenmakerij,18,"","",9932GD,Delfzijl
+Wagenmakerij,2,"","",9932GD,Delfzijl
+Wagenmakerij,20,"","",9932GD,Delfzijl
+Wagenmakerij,4,"","",9932GD,Delfzijl
+Wagenmakerij,6,"","",9932GD,Delfzijl
+Wagenmakerij,8,"","",9932GD,Delfzijl
+Kuiperij,1,"","",9932GE,Delfzijl
+Kuiperij,10,"","",9932GE,Delfzijl
+Kuiperij,11,"","",9932GE,Delfzijl
+Kuiperij,12,"","",9932GE,Delfzijl
+Kuiperij,13,"","",9932GE,Delfzijl
+Kuiperij,14,"","",9932GE,Delfzijl
+Kuiperij,14,"","",9932GE,Delfzijl
+Kuiperij,14,"","",9932GE,Delfzijl
+Kuiperij,2,"","",9932GE,Delfzijl
+Kuiperij,3,"","",9932GE,Delfzijl
+Kuiperij,4,"","",9932GE,Delfzijl
+Kuiperij,5,"","",9932GE,Delfzijl
+Kuiperij,6,"","",9932GE,Delfzijl
+Kuiperij,7,"","",9932GE,Delfzijl
+Kuiperij,8,"","",9932GE,Delfzijl
+Kuiperij,9,"","",9932GE,Delfzijl
+Pellerij,1,"","",9932GG,Delfzijl
+Pellerij,2,"","",9932GG,Delfzijl
+Pellerij,3,"","",9932GG,Delfzijl
+Pellerij,4,"","",9932GG,Delfzijl
+Pellerij,6,"","",9932GG,Delfzijl
+Stelmakerij,1,"","",9932GJ,Delfzijl
+Stelmakerij,11,"","",9932GJ,Delfzijl
+Stelmakerij,13,"","",9932GJ,Delfzijl
+Stelmakerij,15,"","",9932GJ,Delfzijl
+Stelmakerij,17,"","",9932GJ,Delfzijl
+Stelmakerij,19,"","",9932GJ,Delfzijl
+Stelmakerij,21,"","",9932GJ,Delfzijl
+Stelmakerij,23,"","",9932GJ,Delfzijl
+Stelmakerij,25,"","",9932GJ,Delfzijl
+Stelmakerij,27,"","",9932GJ,Delfzijl
+Stelmakerij,29,"","",9932GJ,Delfzijl
+Stelmakerij,3,"","",9932GJ,Delfzijl
+Stelmakerij,31,"","",9932GJ,Delfzijl
+Stelmakerij,5,"","",9932GJ,Delfzijl
+Stelmakerij,7,"","",9932GJ,Delfzijl
+Stelmakerij,9,"","",9932GJ,Delfzijl
+Stelmakerij,33,"","",9932GK,Delfzijl
+Stelmakerij,35,"","",9932GK,Delfzijl
+Stelmakerij,37,"","",9932GK,Delfzijl
+Stelmakerij,39,"","",9932GK,Delfzijl
+Stelmakerij,41,"","",9932GK,Delfzijl
+Stelmakerij,43,"","",9932GK,Delfzijl
+Stelmakerij,45,"","",9932GK,Delfzijl
+Stelmakerij,47,"","",9932GK,Delfzijl
+Stelmakerij,49,"","",9932GK,Delfzijl
+Stelmakerij,51,"","",9932GK,Delfzijl
+Stelmakerij,53,"","",9932GK,Delfzijl
+Stelmakerij,55,"","",9932GK,Delfzijl
+Stelmakerij,57,"","",9932GK,Delfzijl
+Stelmakerij,57,A,"",9932GK,Delfzijl
+Stelmakerij,59,"","",9932GK,Delfzijl
+Stelmakerij,61,"","",9932GK,Delfzijl
+Stelmakerij,10,"","",9932GL,Delfzijl
+Stelmakerij,12,"","",9932GL,Delfzijl
+Stelmakerij,14,"","",9932GL,Delfzijl
+Stelmakerij,16,"","",9932GL,Delfzijl
+Stelmakerij,18,"","",9932GL,Delfzijl
+Stelmakerij,2,"","",9932GL,Delfzijl
+Stelmakerij,20,"","",9932GL,Delfzijl
+Stelmakerij,22,"","",9932GL,Delfzijl
+Stelmakerij,24,"","",9932GL,Delfzijl
+Stelmakerij,26,"","",9932GL,Delfzijl
+Stelmakerij,28,"","",9932GL,Delfzijl
+Stelmakerij,30,"","",9932GL,Delfzijl
+Stelmakerij,4,"","",9932GL,Delfzijl
+Stelmakerij,6,"","",9932GL,Delfzijl
+Stelmakerij,8,"","",9932GL,Delfzijl
+Zadelmakerij,1,"","",9932GM,Delfzijl
+Zadelmakerij,10,"","",9932GM,Delfzijl
+Zadelmakerij,11,"","",9932GM,Delfzijl
+Zadelmakerij,12,"","",9932GM,Delfzijl
+Zadelmakerij,13,"","",9932GM,Delfzijl
+Zadelmakerij,14,"","",9932GM,Delfzijl
+Zadelmakerij,15,"","",9932GM,Delfzijl
+Zadelmakerij,16,"","",9932GM,Delfzijl
+Zadelmakerij,18,"","",9932GM,Delfzijl
+Zadelmakerij,2,"","",9932GM,Delfzijl
+Zadelmakerij,20,"","",9932GM,Delfzijl
+Zadelmakerij,3,"","",9932GM,Delfzijl
+Zadelmakerij,4,"","",9932GM,Delfzijl
+Zadelmakerij,5,"","",9932GM,Delfzijl
+Zadelmakerij,6,"","",9932GM,Delfzijl
+Zadelmakerij,7,"","",9932GM,Delfzijl
+Zadelmakerij,8,"","",9932GM,Delfzijl
+Zadelmakerij,9,"","",9932GM,Delfzijl
+Hoefsmederij,1,"","",9932GN,Delfzijl
+Hoefsmederij,11,"","",9932GN,Delfzijl
+Hoefsmederij,13,"","",9932GN,Delfzijl
+Hoefsmederij,15,"","",9932GN,Delfzijl
+Hoefsmederij,17,"","",9932GN,Delfzijl
+Hoefsmederij,19,"","",9932GN,Delfzijl
+Hoefsmederij,21,"","",9932GN,Delfzijl
+Hoefsmederij,23,"","",9932GN,Delfzijl
+Hoefsmederij,25,"","",9932GN,Delfzijl
+Hoefsmederij,27,"","",9932GN,Delfzijl
+Hoefsmederij,29,"","",9932GN,Delfzijl
+Hoefsmederij,3,"","",9932GN,Delfzijl
+Hoefsmederij,5,"","",9932GN,Delfzijl
+Hoefsmederij,7,"","",9932GN,Delfzijl
+Hoefsmederij,9,"","",9932GN,Delfzijl
+Hoefsmederij,31,"","",9932GP,Delfzijl
+Hoefsmederij,33,"","",9932GP,Delfzijl
+Hoefsmederij,35,"","",9932GP,Delfzijl
+Hoefsmederij,37,"","",9932GP,Delfzijl
+Hoefsmederij,39,"","",9932GP,Delfzijl
+Hoefsmederij,41,"","",9932GP,Delfzijl
+Hoefsmederij,43,"","",9932GP,Delfzijl
+Hoefsmederij,45,"","",9932GP,Delfzijl
+Hoefsmederij,47,"","",9932GP,Delfzijl
+Hoefsmederij,49,"","",9932GP,Delfzijl
+Hoefsmederij,51,"","",9932GP,Delfzijl
+Hoefsmederij,53,"","",9932GP,Delfzijl
+Hoefsmederij,55,"","",9932GP,Delfzijl
+Hoefsmederij,57,"","",9932GP,Delfzijl
+Hoefsmederij,59,"","",9932GP,Delfzijl
+Hoefsmederij,61,"","",9932GP,Delfzijl
+Hoefsmederij,10,"","",9932GR,Delfzijl
+Hoefsmederij,12,"","",9932GR,Delfzijl
+Hoefsmederij,14,"","",9932GR,Delfzijl
+Hoefsmederij,16,"","",9932GR,Delfzijl
+Hoefsmederij,18,"","",9932GR,Delfzijl
+Hoefsmederij,20,"","",9932GR,Delfzijl
+Hoefsmederij,22,"","",9932GR,Delfzijl
+Hoefsmederij,24,"","",9932GR,Delfzijl
+Hoefsmederij,4,"","",9932GR,Delfzijl
+Hoefsmederij,6,"","",9932GR,Delfzijl
+Hoefsmederij,8,"","",9932GR,Delfzijl
+Hoefsmederij,26,"","",9932GS,Delfzijl
+Hoefsmederij,28,"","",9932GS,Delfzijl
+Hoefsmederij,30,"","",9932GS,Delfzijl
+Hoefsmederij,32,"","",9932GS,Delfzijl
+Hoefsmederij,34,"","",9932GS,Delfzijl
+Hoefsmederij,36,"","",9932GS,Delfzijl
+Hoefsmederij,38,"","",9932GS,Delfzijl
+Hoefsmederij,40,"","",9932GS,Delfzijl
+Hoefsmederij,42,"","",9932GS,Delfzijl
+Hoefsmederij,44,"","",9932GS,Delfzijl
+Hoefsmederij,46,"","",9932GS,Delfzijl
+Hoefsmederij,48,"","",9932GS,Delfzijl
+Hoefsmederij,48,A,"",9932GS,Delfzijl

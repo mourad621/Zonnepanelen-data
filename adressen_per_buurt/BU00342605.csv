@@ -1,774 +1,386 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"1313NA",6,"",""
-"1313NA",1,"",""
-"1313NA",5,"",""
-"1313NA",4,"",""
-"1313NA",3,"",""
-"1313NA",7,"",""
-"1313NA",2,"",""
-"1313NB",10,"",""
-"1313NB",13,"",""
-"1313NB",15,"",""
-"1313NB",18,"",""
-"1313NB",8,"",""
-"1313NB",9,"",""
-"1313NB",17,"",""
-"1313NB",12,"",""
-"1313NB",14,"",""
-"1313NB",11,"",""
-"1313NB",16,"",""
-"1313NC",28,"",""
-"1313NC",24,"",""
-"1313NC",23,"",""
-"1313NC",26,"",""
-"1313NC",25,"",""
-"1313NC",29,"",""
-"1313NC",21,"",""
-"1313NC",19,"",""
-"1313NC",27,"",""
-"1313NC",22,"",""
-"1313NC",20,"",""
-"1313NE",35,"",""
-"1313NE",30,"",""
-"1313NE",33,"",""
-"1313NE",34,"",""
-"1313NE",32,"",""
-"1313NE",31,"",""
-"1313NG",47,"",""
-"1313NG",49,"",""
-"1313NG",50,"",""
-"1313NG",46,"",""
-"1313NG",40,"",""
-"1313NG",38,"",""
-"1313NG",39,"",""
-"1313NG",45,"",""
-"1313NG",37,"",""
-"1313NG",44,"",""
-"1313NG",48,"",""
-"1313NG",36,"",""
-"1313NG",43,"",""
-"1313NG",41,"",""
-"1313NH",56,"",""
-"1313NH",63,"",""
-"1313NH",64,"",""
-"1313NH",54,"",""
-"1313NH",55,"",""
-"1313NH",51,"",""
-"1313NH",65,"",""
-"1313NH",53,"",""
-"1313NH",66,"",""
-"1313NH",52,"",""
-"1313NH",62,"",""
-"1313NH",61,"",""
-"1313NH",59,"",""
-"1313NH",60,"",""
-"1313NJ",69,"",""
-"1313NJ",71,"",""
-"1313NJ",67,"",""
-"1313NJ",72,"",""
-"1313NJ",70,"",""
-"1313NJ",68,"",""
-"1314CD",9,"",""
-"1314CD",7,"",""
-"1314CD",1,"",""
-"1314CD",5,"",""
-"1314CD",11,"",""
-"1314CD",3,"",""
-"1314CE",123,"",""
-"1314CE",111,"",""
-"1314CE",125,"",""
-"1314CE",107,"",""
-"1314CE",59,"",""
-"1314CE",101,"",""
-"1314CE",81,"",""
-"1314CE",71,"",""
-"1314CE",127,"",""
-"1314CE",61,"",""
-"1314CE",99,"",""
-"1314CE",53,"",""
-"1314CE",115,"",""
-"1314CE",77,"",""
-"1314CE",65,"",""
-"1314CE",67,"",""
-"1314CE",119,"",""
-"1314CE",105,"",""
-"1314CE",121,"",""
-"1314CE",87,"",""
-"1314CE",73,"",""
-"1314CE",109,"",""
-"1314CE",85,"",""
-"1314CE",97,"",""
-"1314CE",95,"",""
-"1314CE",79,"",""
-"1314CE",69,"",""
-"1314CE",129,"",""
-"1314CE",91,"",""
-"1314CE",63,"",""
-"1314CE",75,"",""
-"1314CE",57,"",""
-"1314CE",103,"",""
-"1314CE",89,"",""
-"1314CE",55,"",""
-"1314CE",83,"",""
-"1314CE",113,"",""
-"1314CE",93,"",""
-"1314JA",5,"",""
-"1314JA",11,"",""
-"1314JA",9,"",""
-"1314JA",6,"",""
-"1314JA",4,"",""
-"1314JA",3,"",""
-"1314JA",13,"",""
-"1314JA",7,"",""
-"1314JA",20,"",""
-"1314JA",14,"",""
-"1314JA",19,"",""
-"1314JA",16,"",""
-"1314JA",17,"",""
-"1314JA",18,"",""
-"1314JA",10,"",""
-"1314JA",15,"",""
-"1314JA",1,"",""
-"1314JA",12,"",""
-"1314JA",2,"",""
-"1314JA",8,"",""
-"1314JB",18,"",""
-"1314JB",3,"",""
-"1314JB",6,"",""
-"1314JB",1,"",""
-"1314JB",2,"",""
-"1314JB",17,"",""
-"1314JB",12,"",""
-"1314JB",7,"",""
-"1314JB",16,"",""
-"1314JB",14,"",""
-"1314JB",4,"",""
-"1314JB",13,"",""
-"1314JB",11,"",""
-"1314JB",5,"",""
-"1314JB",20,"",""
-"1314JB",15,"",""
-"1314JB",9,"",""
-"1314JB",10,"",""
-"1314JB",19,"",""
-"1314JB",8,"",""
-"1314JC",9,"",""
-"1314JC",6,"",""
-"1314JC",2,"",""
-"1314JC",11,"",""
-"1314JC",7,"",""
-"1314JC",3,"",""
-"1314JC",18,"",""
-"1314JC",16,"",""
-"1314JC",8,"",""
-"1314JC",17,"",""
-"1314JC",10,"",""
-"1314JC",13,"",""
-"1314JC",5,"",""
-"1314JC",4,"",""
-"1314JC",14,"",""
-"1314JC",20,"",""
-"1314JC",1,"",""
-"1314JC",15,"",""
-"1314JC",12,"",""
-"1314JD",14,"",""
-"1314JD",11,"",""
-"1314JD",1,"",""
-"1314JD",3,"",""
-"1314JD",17,"",""
-"1314JD",15,"",""
-"1314JD",4,"",""
-"1314JD",6,"",""
-"1314JD",13,"",""
-"1314JD",18,"",""
-"1314JD",16,"",""
-"1314JD",10,"",""
-"1314JD",9,"",""
-"1314JD",7,"",""
-"1314JD",5,"",""
-"1314JD",12,"",""
-"1314JD",8,"",""
-"1314JD",2,"",""
-"1314JE",8,"",""
-"1314JE",14,"",""
-"1314JE",2,"",""
-"1314JE",11,"",""
-"1314JE",12,"",""
-"1314JE",5,"",""
-"1314JE",4,"",""
-"1314JE",7,"",""
-"1314JE",1,"",""
-"1314JE",3,"",""
-"1314JE",13,"",""
-"1314JE",10,"",""
-"1314JE",6,"",""
-"1314JE",9,"",""
-"1314JE",17,"",""
-"1314JE",18,"",""
-"1314JE",16,"",""
-"1314JE",15,"",""
-"1314JG",14,"",""
-"1314JG",4,"",""
-"1314JG",12,"",""
-"1314JG",10,"",""
-"1314JG",18,"",""
-"1314JG",2,"",""
-"1314JG",8,"",""
-"1314JG",6,"",""
-"1314JG",16,"",""
-"1314JH",5,"",""
-"1314JH",9,"",""
-"1314JH",7,"",""
-"1314JJ",24,"",""
-"1314JJ",12,"",""
-"1314JJ",8,"B",""
-"1314JJ",8,"A",""
-"1314JJ",8,"C",""
-"1314JJ",26,"",""
-"1314JJ",22,"",""
-"1314JJ",28,"",""
-"1314JJ",14,"",""
-"1314JJ",20,"",""
-"1314JJ",16,"",""
-"1314JJ",10,"B",""
-"1314JJ",30,"",""
-"1314JJ",10,"C",""
-"1314JJ",10,"A",""
-"1314JJ",18,"",""
-"1314JK",41,"",""
-"1314JK",29,"",""
-"1314JK",35,"",""
-"1314JK",9,"",""
-"1314JK",37,"",""
-"1314JK",23,"",""
-"1314JK",33,"",""
-"1314JK",31,"",""
-"1314JK",39,"",""
-"1314JK",11,"",""
-"1314JK",27,"",""
-"1314JK",7,"",""
-"1314JK",21,"",""
-"1314JK",3,"",""
-"1314JK",1,"",""
-"1314JK",15,"",""
-"1314JK",17,"",""
-"1314JK",5,"",""
-"1314JK",13,"",""
-"1314JK",19,"",""
-"1314JK",25,"",""
-"1314JL",22,"",""
-"1314JL",20,"",""
-"1314JL",36,"",""
-"1314JL",2,"",""
-"1314JL",12,"",""
-"1314JL",18,"",""
-"1314JL",26,"",""
-"1314JL",24,"",""
-"1314JL",36,"",""
-"1314JL",6,"",""
-"1314JL",8,"",""
-"1314JL",28,"",""
-"1314JL",14,"",""
-"1314JL",32,"",""
-"1314JL",16,"",""
-"1314JL",30,"",""
-"1314JL",4,"",""
-"1314JL",10,"",""
-"1314JM",9,"",""
-"1314JM",15,"",""
-"1314JM",11,"",""
-"1314JM",1,"",""
-"1314JM",5,"",""
-"1314JM",17,"",""
-"1314JM",7,"",""
-"1314JM",19,"",""
-"1314JM",3,"",""
-"1314JM",13,"",""
-"1314JN",8,"",""
-"1314JN",10,"",""
-"1314JN",4,"",""
-"1314JN",6,"",""
-"1314JN",28,"",""
-"1314JN",2,"",""
-"1314JN",12,"",""
-"1314JN",14,"",""
-"1314JN",18,"",""
-"1314JN",40,"",""
-"1314JN",30,"",""
-"1314JN",36,"",""
-"1314JN",16,"",""
-"1314JN",34,"",""
-"1314JN",32,"",""
-"1314JN",20,"",""
-"1314JN",24,"",""
-"1314JN",42,"",""
-"1314JN",26,"",""
-"1314JN",22,"",""
-"1314JN",38,"",""
-"1314JP",27,"",""
-"1314JP",14,"",""
-"1314JP",7,"",""
-"1314JP",12,"",""
-"1314JP",2,"",""
-"1314JP",20,"",""
-"1314JP",10,"",""
-"1314JP",15,"",""
-"1314JP",21,"",""
-"1314JP",1,"",""
-"1314JP",17,"",""
-"1314JP",16,"",""
-"1314JP",23,"",""
-"1314JP",9,"",""
-"1314JP",18,"",""
-"1314JP",8,"",""
-"1314JP",3,"",""
-"1314JP",13,"",""
-"1314JP",25,"",""
-"1314JP",19,"",""
-"1314JP",5,"",""
-"1314JP",6,"",""
-"1314JP",11,"",""
-"1314JP",4,"",""
-"1314KN",25,"",""
-"1314KN",27,"",""
-"1314KN",35,"",""
-"1314KN",37,"",""
-"1314KN",31,"",""
-"1314KN",19,"",""
-"1314KN",33,"",""
-"1314KN",21,"",""
-"1314KN",23,"",""
-"1314KN",29,"",""
-"1314KR",20,"",""
-"1314KR",22,"",""
-"1314KR",28,"",""
-"1314KR",38,"",""
-"1314KR",34,"",""
-"1314KR",36,"",""
-"1314KR",24,"",""
-"1314KR",26,"",""
-"1314KR",30,"",""
-"1314KR",32,"",""
-"1314SZ",5,"",""
-"1314SZ",29,"",""
-"1314SZ",17,"",""
-"1314SZ",9,"",""
-"1314SZ",19,"",""
-"1314SZ",1,"",""
-"1314SZ",33,"",""
-"1314SZ",23,"",""
-"1314SZ",7,"",""
-"1314SZ",11,"",""
-"1314SZ",9,"",""
-"1314SZ",31,"",""
-"1314SZ",5,"",""
-"1314SZ",15,"",""
-"1314SZ",23,"",""
-"1314SZ",35,"",""
-"1314SZ",15,"",""
-"1314SZ",7,"",""
-"1314SZ",11,"",""
-"1314SZ",31,"",""
-"1314SZ",27,"",""
-"1314SZ",19,"",""
-"1314SZ",17,"",""
-"1314SZ",13,"",""
-"1314SZ",25,"",""
-"1314SZ",29,"",""
-"1314SZ",27,"",""
-"1314SZ",3,"",""
-"1314SZ",13,"",""
-"1314SZ",25,"",""
-"1314SZ",3,"",""
-"1314SZ",21,"",""
-"1314SZ",33,"",""
-"1314SZ",35,"",""
-"1314SZ",21,"",""
-1314JB,Bieslookstraat,1,,
-1314JB,Bieslookstraat,2,,
-1314JB,Bieslookstraat,3,,
-1314JB,Bieslookstraat,4,,
-1314JB,Bieslookstraat,5,,
-1314JB,Bieslookstraat,6,,
-1314JB,Bieslookstraat,7,,
-1314JB,Bieslookstraat,8,,
-1314JB,Bieslookstraat,9,,
-1314JB,Bieslookstraat,10,,
-1314JB,Bieslookstraat,11,,
-1314JB,Bieslookstraat,12,,
-1314JB,Bieslookstraat,13,,
-1314JB,Bieslookstraat,14,,
-1314JB,Bieslookstraat,15,,
-1314JB,Bieslookstraat,16,,
-1314JB,Bieslookstraat,17,,
-1314JB,Bieslookstraat,18,,
-1314JB,Bieslookstraat,19,,
-1314JB,Bieslookstraat,20,,
-1314JA,Anijsstraat,1,,
-1314JA,Anijsstraat,2,,
-1314JA,Anijsstraat,3,,
-1314JA,Anijsstraat,4,,
-1314JA,Anijsstraat,5,,
-1314JA,Anijsstraat,6,,
-1314JA,Anijsstraat,7,,
-1314JA,Anijsstraat,8,,
-1314JA,Anijsstraat,9,,
-1314JA,Anijsstraat,10,,
-1314JA,Anijsstraat,11,,
-1314JA,Anijsstraat,12,,
-1314JA,Anijsstraat,13,,
-1314JA,Anijsstraat,14,,
-1314JA,Anijsstraat,15,,
-1314JA,Anijsstraat,16,,
-1314JA,Anijsstraat,17,,
-1314JA,Anijsstraat,18,,
-1314JA,Anijsstraat,19,,
-1314JA,Anijsstraat,20,,
-1314JC,Dragonstraat,1,,
-1314JC,Dragonstraat,2,,
-1314JC,Dragonstraat,3,,
-1314JC,Dragonstraat,4,,
-1314JC,Dragonstraat,5,,
-1314JC,Dragonstraat,6,,
-1314JC,Dragonstraat,7,,
-1314JC,Dragonstraat,8,,
-1314JC,Dragonstraat,9,,
-1314JC,Dragonstraat,10,,
-1314JC,Dragonstraat,11,,
-1314JC,Dragonstraat,12,,
-1314JC,Dragonstraat,13,,
-1314JC,Dragonstraat,14,,
-1314JC,Dragonstraat,15,,
-1314JC,Dragonstraat,16,,
-1314JC,Dragonstraat,17,,
-1314JC,Dragonstraat,18,,
-1314JC,Dragonstraat,20,,
-1314JM,Peterseliestraat,1,,
-1314JM,Peterseliestraat,3,,
-1314JM,Peterseliestraat,5,,
-1314JM,Peterseliestraat,7,,
-1314JM,Peterseliestraat,9,,
-1314JM,Peterseliestraat,11,,
-1314JM,Peterseliestraat,13,,
-1314JM,Peterseliestraat,15,,
-1314JM,Peterseliestraat,17,,
-1314JM,Peterseliestraat,19,,
-1314JN,Peterseliestraat,2,,
-1314JN,Peterseliestraat,4,,
-1314JN,Peterseliestraat,6,,
-1314JN,Peterseliestraat,8,,
-1314JN,Peterseliestraat,10,,
-1314JN,Peterseliestraat,12,,
-1314JN,Peterseliestraat,14,,
-1314JN,Peterseliestraat,16,,
-1314JN,Peterseliestraat,18,,
-1314JN,Peterseliestraat,20,,
-1314JN,Peterseliestraat,22,,
-1314JN,Peterseliestraat,24,,
-1314JN,Peterseliestraat,26,,
-1314JN,Peterseliestraat,28,,
-1314JN,Peterseliestraat,30,,
-1314JN,Peterseliestraat,32,,
-1314JN,Peterseliestraat,34,,
-1314JN,Peterseliestraat,36,,
-1314JN,Peterseliestraat,38,,
-1314JN,Peterseliestraat,40,,
-1314JN,Peterseliestraat,42,,
-1314JG,Pepermuntstraat,2,,
-1314JG,Pepermuntstraat,4,,
-1314JG,Pepermuntstraat,6,,
-1314JG,Pepermuntstraat,8,,
-1314JG,Pepermuntstraat,10,,
-1314JG,Pepermuntstraat,12,,
-1314JG,Pepermuntstraat,14,,
-1314JG,Pepermuntstraat,16,,
-1314JG,Pepermuntstraat,18,,
-1314SZ,Pepermuntstraat,1,,
-1314SZ,Pepermuntstraat,3,,
-1314JK,Pimpernelstraat,1,,
-1314JK,Pimpernelstraat,3,,
-1314JK,Pimpernelstraat,11,,
-1314JK,Pimpernelstraat,13,,
-1314JK,Pimpernelstraat,15,,
-1314JK,Pimpernelstraat,17,,
-1314JK,Pimpernelstraat,19,,
-1314JK,Pimpernelstraat,21,,
-1314JK,Pimpernelstraat,23,,
-1314JK,Pimpernelstraat,25,,
-1314JK,Pimpernelstraat,27,,
-1314JK,Pimpernelstraat,29,,
-1314JK,Pimpernelstraat,31,,
-1314JK,Pimpernelstraat,33,,
-1314JK,Pimpernelstraat,35,,
-1314JK,Pimpernelstraat,37,,
-1314JK,Pimpernelstraat,39,,
-1314JK,Pimpernelstraat,41,,
-1314JL,Pimpernelstraat,2,,
-1314JL,Pimpernelstraat,4,,
-1314JL,Pimpernelstraat,6,,
-1314JL,Pimpernelstraat,8,,
-1314JL,Pimpernelstraat,10,,
-1314JL,Pimpernelstraat,12,,
-1314JL,Pimpernelstraat,14,,
-1314JL,Pimpernelstraat,16,,
-1314JL,Pimpernelstraat,18,,
-1314JL,Pimpernelstraat,20,,
-1314JL,Pimpernelstraat,22,,
-1314JL,Pimpernelstraat,24,,
-1314JL,Pimpernelstraat,26,,
-1314JL,Pimpernelstraat,28,,
-1314JL,Pimpernelstraat,30,,
-1314JL,Pimpernelstraat,32,,
-1314JL,Pimpernelstraat,36,,
-1314JP,Marjoleinstraat,1,,
-1314JP,Marjoleinstraat,2,,
-1314JP,Marjoleinstraat,3,,
-1314JP,Marjoleinstraat,4,,
-1314JP,Marjoleinstraat,5,,
-1314JP,Marjoleinstraat,6,,
-1314JP,Marjoleinstraat,7,,
-1314JP,Marjoleinstraat,8,,
-1314JP,Marjoleinstraat,9,,
-1314JP,Marjoleinstraat,10,,
-1314JP,Marjoleinstraat,11,,
-1314JP,Marjoleinstraat,12,,
-1314JP,Marjoleinstraat,13,,
-1314JP,Marjoleinstraat,14,,
-1314JP,Marjoleinstraat,15,,
-1314JP,Marjoleinstraat,16,,
-1314JP,Marjoleinstraat,17,,
-1314JP,Marjoleinstraat,18,,
-1314JP,Marjoleinstraat,19,,
-1314JP,Marjoleinstraat,20,,
-1314JP,Marjoleinstraat,21,,
-1314JP,Marjoleinstraat,23,,
-1314JP,Marjoleinstraat,25,,
-1314JP,Marjoleinstraat,27,,
-1314JE,Kruizemuntstraat,1,,
-1314JE,Kruizemuntstraat,2,,
-1314JE,Kruizemuntstraat,3,,
-1314JE,Kruizemuntstraat,4,,
-1314JE,Kruizemuntstraat,5,,
-1314JE,Kruizemuntstraat,6,,
-1314JE,Kruizemuntstraat,7,,
-1314JE,Kruizemuntstraat,8,,
-1314JE,Kruizemuntstraat,9,,
-1314JE,Kruizemuntstraat,10,,
-1314JE,Kruizemuntstraat,11,,
-1314JE,Kruizemuntstraat,12,,
-1314JE,Kruizemuntstraat,13,,
-1314JE,Kruizemuntstraat,14,,
-1314JE,Kruizemuntstraat,15,,
-1314JE,Kruizemuntstraat,16,,
-1314JE,Kruizemuntstraat,17,,
-1314JE,Kruizemuntstraat,18,,
-1314JJ,Korianderweg,12,,
-1314JJ,Korianderweg,14,,
-1314JJ,Korianderweg,16,,
-1314JJ,Korianderweg,18,,
-1314JJ,Korianderweg,20,,
-1314JJ,Korianderweg,22,,
-1314JJ,Korianderweg,24,,
-1314JJ,Korianderweg,26,,
-1314JJ,Korianderweg,28,,
-1314JJ,Korianderweg,30,,
-1314JD,Kervelstraat,1,,
-1314JD,Kervelstraat,2,,
-1314JD,Kervelstraat,3,,
-1314JD,Kervelstraat,4,,
-1314JD,Kervelstraat,5,,
-1314JD,Kervelstraat,6,,
-1314JD,Kervelstraat,7,,
-1314JD,Kervelstraat,8,,
-1314JD,Kervelstraat,9,,
-1314JD,Kervelstraat,10,,
-1314JD,Kervelstraat,11,,
-1314JD,Kervelstraat,12,,
-1314JD,Kervelstraat,13,,
-1314JD,Kervelstraat,14,,
-1314JD,Kervelstraat,15,,
-1314JD,Kervelstraat,16,,
-1314JD,Kervelstraat,17,,
-1314JD,Kervelstraat,18,,
-1314KN,Rozemarijnstraat,19,,
-1314KN,Rozemarijnstraat,21,,
-1314KN,Rozemarijnstraat,23,,
-1314KN,Rozemarijnstraat,25,,
-1314KN,Rozemarijnstraat,27,,
-1314KN,Rozemarijnstraat,29,,
-1314KN,Rozemarijnstraat,31,,
-1314KN,Rozemarijnstraat,33,,
-1314KN,Rozemarijnstraat,35,,
-1314KN,Rozemarijnstraat,37,,
-1314KR,Rozemarijnstraat,20,,
-1314KR,Rozemarijnstraat,22,,
-1314KR,Rozemarijnstraat,24,,
-1314KR,Rozemarijnstraat,26,,
-1314KR,Rozemarijnstraat,28,,
-1314KR,Rozemarijnstraat,30,,
-1314KR,Rozemarijnstraat,32,,
-1314KR,Rozemarijnstraat,34,,
-1314KR,Rozemarijnstraat,36,,
-1314KR,Rozemarijnstraat,38,,
-1313NA,De Specerij,1,,
-1313NA,De Specerij,2,,
-1313NA,De Specerij,3,,
-1313NA,De Specerij,4,,
-1313NA,De Specerij,5,,
-1313NA,De Specerij,6,,
-1313NA,De Specerij,7,,
-1313NB,De Specerij,8,,
-1313NB,De Specerij,9,,
-1313NB,De Specerij,10,,
-1313NB,De Specerij,11,,
-1313NB,De Specerij,12,,
-1313NB,De Specerij,13,,
-1313NB,De Specerij,14,,
-1313NB,De Specerij,15,,
-1313NB,De Specerij,16,,
-1313NB,De Specerij,17,,
-1313NB,De Specerij,18,,
-1313NC,De Specerij,19,,
-1313NC,De Specerij,20,,
-1313NC,De Specerij,21,,
-1313NC,De Specerij,22,,
-1313NC,De Specerij,23,,
-1313NC,De Specerij,24,,
-1313NC,De Specerij,25,,
-1313NC,De Specerij,26,,
-1313NC,De Specerij,27,,
-1313NC,De Specerij,28,,
-1313NC,De Specerij,29,,
-1313NE,De Specerij,30,,
-1313NE,De Specerij,31,,
-1313NE,De Specerij,32,,
-1313NE,De Specerij,33,,
-1313NE,De Specerij,34,,
-1313NE,De Specerij,35,,
-1313NG,De Specerij,36,,
-1313NG,De Specerij,37,,
-1313NG,De Specerij,38,,
-1313NG,De Specerij,39,,
-1313NG,De Specerij,40,,
-1313NG,De Specerij,41,,
-1313NG,De Specerij,44,,
-1313NG,De Specerij,45,,
-1313NG,De Specerij,46,,
-1313NG,De Specerij,47,,
-1313NG,De Specerij,48,,
-1313NG,De Specerij,49,,
-1313NG,De Specerij,50,,
-1313NH,De Specerij,51,,
-1313NH,De Specerij,52,,
-1313NH,De Specerij,55,,
-1313NH,De Specerij,56,,
-1313NH,De Specerij,59,,
-1313NH,De Specerij,60,,
-1313NJ,De Specerij,67,,
-1313NJ,De Specerij,68,,
-1313NJ,De Specerij,69,,
-1313NJ,De Specerij,70,,
-1313NJ,De Specerij,71,,
-1314JK,Pimpernelstraat,5,,
-1314JK,Pimpernelstraat,7,,
-1314JK,Pimpernelstraat,9,,
-1314JH,Korianderweg,5,,
-1314JH,Korianderweg,7,,
-1314JH,Korianderweg,9,,
-1313NG,De Specerij,43,,
-1313NH,De Specerij,53,,
-1313NH,De Specerij,54,,
-1313NH,De Specerij,61,,
-1313NH,De Specerij,62,,
-1313NH,De Specerij,63,,
-1313NH,De Specerij,64,,
-1313NH,De Specerij,65,,
-1313NH,De Specerij,66,,
-1313NJ,De Specerij,72,,
-1314SZ,Pepermuntstraat,5,,
-1314SZ,Pepermuntstraat,5,,
-1314SZ,Pepermuntstraat,7,,
-1314SZ,Pepermuntstraat,7,,
-1314SZ,Pepermuntstraat,9,,
-1314SZ,Pepermuntstraat,9,,
-1314SZ,Pepermuntstraat,11,,
-1314SZ,Pepermuntstraat,11,,
-1314SZ,Pepermuntstraat,13,,
-1314SZ,Pepermuntstraat,13,,
-1314SZ,Pepermuntstraat,15,,
-1314SZ,Pepermuntstraat,15,,
-1314SZ,Pepermuntstraat,17,,
-1314SZ,Pepermuntstraat,17,,
-1314SZ,Pepermuntstraat,19,,
-1314SZ,Pepermuntstraat,19,,
-1314SZ,Pepermuntstraat,21,,
-1314SZ,Pepermuntstraat,21,,
-1314SZ,Pepermuntstraat,23,,
-1314SZ,Pepermuntstraat,23,,
-1314SZ,Pepermuntstraat,25,,
-1314SZ,Pepermuntstraat,25,,
-1314SZ,Pepermuntstraat,27,,
-1314SZ,Pepermuntstraat,27,,
-1314SZ,Pepermuntstraat,29,,
-1314SZ,Pepermuntstraat,29,,
-1314SZ,Pepermuntstraat,31,,
-1314SZ,Pepermuntstraat,31,,
-1314SZ,Pepermuntstraat,33,,
-1314SZ,Pepermuntstraat,33,,
-1314SZ,Pepermuntstraat,35,,
-1314SZ,Pepermuntstraat,35,,
-1314JJ,Korianderweg,8,A,
-1314JJ,Korianderweg,8,B,
-1314JJ,Korianderweg,8,C,
-1314JJ,Korianderweg,10,A,
-1314JJ,Korianderweg,10,B,
-1314JJ,Korianderweg,10,C,
-1314CE,Gemberpad,53,,
-1314CE,Gemberpad,55,,
-1314CE,Gemberpad,57,,
-1314CE,Gemberpad,59,,
-1314CE,Gemberpad,61,,
-1314CE,Gemberpad,63,,
-1314CE,Gemberpad,65,,
-1314CE,Gemberpad,67,,
-1314CE,Gemberpad,69,,
-1314CE,Gemberpad,71,,
-1314CE,Gemberpad,73,,
-1314CE,Gemberpad,75,,
-1314CE,Gemberpad,77,,
-1314CE,Gemberpad,79,,
-1314CE,Gemberpad,81,,
-1314CE,Gemberpad,83,,
-1314CE,Gemberpad,85,,
-1314CE,Gemberpad,87,,
-1314CE,Gemberpad,89,,
-1314CE,Gemberpad,91,,
-1314CE,Gemberpad,93,,
-1314CE,Gemberpad,95,,
-1314CE,Gemberpad,97,,
-1314CE,Gemberpad,99,,
-1314CE,Gemberpad,101,,
-1314CE,Gemberpad,103,,
-1314CE,Gemberpad,105,,
-1314CE,Gemberpad,107,,
-1314CE,Gemberpad,109,,
-1314CE,Gemberpad,111,,
-1314CE,Gemberpad,113,,
-1314CE,Gemberpad,115,,
-1314CE,Gemberpad,119,,
-1314CE,Gemberpad,121,,
-1314CE,Gemberpad,123,,
-1314CE,Gemberpad,125,,
-1314CE,Gemberpad,127,,
-1314CE,Gemberpad,129,,
-1314CD,Korianderhof,1,,
-1314CD,Korianderhof,3,,
-1314CD,Korianderhof,5,,
-1314CD,Korianderhof,7,,
-1314CD,Korianderhof,9,,
-1314CD,Korianderhof,11,,
-1314CE,Gemberpad,12,,
-1314CE,Gemberpad,16,,
-1314CE,Gemberpad,10,,
-1314CE,Gemberpad,4,,
-1314CE,Gemberpad,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Specerij,1,"","",1313NA,Almere
+De Specerij,2,"","",1313NA,Almere
+De Specerij,3,"","",1313NA,Almere
+De Specerij,4,"","",1313NA,Almere
+De Specerij,5,"","",1313NA,Almere
+De Specerij,6,"","",1313NA,Almere
+De Specerij,7,"","",1313NA,Almere
+De Specerij,10,"","",1313NB,Almere
+De Specerij,11,"","",1313NB,Almere
+De Specerij,12,"","",1313NB,Almere
+De Specerij,13,"","",1313NB,Almere
+De Specerij,14,"","",1313NB,Almere
+De Specerij,15,"","",1313NB,Almere
+De Specerij,16,"","",1313NB,Almere
+De Specerij,17,"","",1313NB,Almere
+De Specerij,18,"","",1313NB,Almere
+De Specerij,8,"","",1313NB,Almere
+De Specerij,9,"","",1313NB,Almere
+De Specerij,19,"","",1313NC,Almere
+De Specerij,20,"","",1313NC,Almere
+De Specerij,21,"","",1313NC,Almere
+De Specerij,22,"","",1313NC,Almere
+De Specerij,23,"","",1313NC,Almere
+De Specerij,24,"","",1313NC,Almere
+De Specerij,25,"","",1313NC,Almere
+De Specerij,26,"","",1313NC,Almere
+De Specerij,27,"","",1313NC,Almere
+De Specerij,28,"","",1313NC,Almere
+De Specerij,29,"","",1313NC,Almere
+De Specerij,30,"","",1313NE,Almere
+De Specerij,31,"","",1313NE,Almere
+De Specerij,32,"","",1313NE,Almere
+De Specerij,33,"","",1313NE,Almere
+De Specerij,34,"","",1313NE,Almere
+De Specerij,35,"","",1313NE,Almere
+De Specerij,36,"","",1313NG,Almere
+De Specerij,37,"","",1313NG,Almere
+De Specerij,38,"","",1313NG,Almere
+De Specerij,39,"","",1313NG,Almere
+De Specerij,40,"","",1313NG,Almere
+De Specerij,41,"","",1313NG,Almere
+De Specerij,43,"","",1313NG,Almere
+De Specerij,44,"","",1313NG,Almere
+De Specerij,45,"","",1313NG,Almere
+De Specerij,46,"","",1313NG,Almere
+De Specerij,47,"","",1313NG,Almere
+De Specerij,48,"","",1313NG,Almere
+De Specerij,49,"","",1313NG,Almere
+De Specerij,50,"","",1313NG,Almere
+De Specerij,51,"","",1313NH,Almere
+De Specerij,52,"","",1313NH,Almere
+De Specerij,53,"","",1313NH,Almere
+De Specerij,54,"","",1313NH,Almere
+De Specerij,55,"","",1313NH,Almere
+De Specerij,56,"","",1313NH,Almere
+De Specerij,59,"","",1313NH,Almere
+De Specerij,60,"","",1313NH,Almere
+De Specerij,61,"","",1313NH,Almere
+De Specerij,62,"","",1313NH,Almere
+De Specerij,63,"","",1313NH,Almere
+De Specerij,64,"","",1313NH,Almere
+De Specerij,65,"","",1313NH,Almere
+De Specerij,66,"","",1313NH,Almere
+De Specerij,67,"","",1313NJ,Almere
+De Specerij,68,"","",1313NJ,Almere
+De Specerij,69,"","",1313NJ,Almere
+De Specerij,70,"","",1313NJ,Almere
+De Specerij,71,"","",1313NJ,Almere
+De Specerij,72,"","",1313NJ,Almere
+Korianderhof,1,"","",1314CD,Almere
+Korianderhof,11,"","",1314CD,Almere
+Korianderhof,3,"","",1314CD,Almere
+Korianderhof,5,"","",1314CD,Almere
+Korianderhof,7,"","",1314CD,Almere
+Korianderhof,9,"","",1314CD,Almere
+Gemberpad,101,"","",1314CE,Almere
+Gemberpad,103,"","",1314CE,Almere
+Gemberpad,105,"","",1314CE,Almere
+Gemberpad,107,"","",1314CE,Almere
+Gemberpad,109,"","",1314CE,Almere
+Gemberpad,111,"","",1314CE,Almere
+Gemberpad,113,"","",1314CE,Almere
+Gemberpad,115,"","",1314CE,Almere
+Gemberpad,119,"","",1314CE,Almere
+Gemberpad,121,"","",1314CE,Almere
+Gemberpad,123,"","",1314CE,Almere
+Gemberpad,125,"","",1314CE,Almere
+Gemberpad,127,"","",1314CE,Almere
+Gemberpad,129,"","",1314CE,Almere
+Gemberpad,53,"","",1314CE,Almere
+Gemberpad,55,"","",1314CE,Almere
+Gemberpad,57,"","",1314CE,Almere
+Gemberpad,59,"","",1314CE,Almere
+Gemberpad,61,"","",1314CE,Almere
+Gemberpad,63,"","",1314CE,Almere
+Gemberpad,65,"","",1314CE,Almere
+Gemberpad,67,"","",1314CE,Almere
+Gemberpad,69,"","",1314CE,Almere
+Gemberpad,71,"","",1314CE,Almere
+Gemberpad,73,"","",1314CE,Almere
+Gemberpad,75,"","",1314CE,Almere
+Gemberpad,77,"","",1314CE,Almere
+Gemberpad,79,"","",1314CE,Almere
+Gemberpad,81,"","",1314CE,Almere
+Gemberpad,83,"","",1314CE,Almere
+Gemberpad,85,"","",1314CE,Almere
+Gemberpad,87,"","",1314CE,Almere
+Gemberpad,89,"","",1314CE,Almere
+Gemberpad,91,"","",1314CE,Almere
+Gemberpad,93,"","",1314CE,Almere
+Gemberpad,95,"","",1314CE,Almere
+Gemberpad,97,"","",1314CE,Almere
+Gemberpad,99,"","",1314CE,Almere
+Anijsstraat,1,"","",1314JA,Almere
+Anijsstraat,10,"","",1314JA,Almere
+Anijsstraat,11,"","",1314JA,Almere
+Anijsstraat,12,"","",1314JA,Almere
+Anijsstraat,13,"","",1314JA,Almere
+Anijsstraat,14,"","",1314JA,Almere
+Anijsstraat,15,"","",1314JA,Almere
+Anijsstraat,16,"","",1314JA,Almere
+Anijsstraat,17,"","",1314JA,Almere
+Anijsstraat,18,"","",1314JA,Almere
+Anijsstraat,19,"","",1314JA,Almere
+Anijsstraat,2,"","",1314JA,Almere
+Anijsstraat,20,"","",1314JA,Almere
+Anijsstraat,3,"","",1314JA,Almere
+Anijsstraat,4,"","",1314JA,Almere
+Anijsstraat,5,"","",1314JA,Almere
+Anijsstraat,6,"","",1314JA,Almere
+Anijsstraat,7,"","",1314JA,Almere
+Anijsstraat,8,"","",1314JA,Almere
+Anijsstraat,9,"","",1314JA,Almere
+Bieslookstraat,1,"","",1314JB,Almere
+Bieslookstraat,10,"","",1314JB,Almere
+Bieslookstraat,11,"","",1314JB,Almere
+Bieslookstraat,12,"","",1314JB,Almere
+Bieslookstraat,13,"","",1314JB,Almere
+Bieslookstraat,14,"","",1314JB,Almere
+Bieslookstraat,15,"","",1314JB,Almere
+Bieslookstraat,16,"","",1314JB,Almere
+Bieslookstraat,17,"","",1314JB,Almere
+Bieslookstraat,18,"","",1314JB,Almere
+Bieslookstraat,19,"","",1314JB,Almere
+Bieslookstraat,2,"","",1314JB,Almere
+Bieslookstraat,20,"","",1314JB,Almere
+Bieslookstraat,3,"","",1314JB,Almere
+Bieslookstraat,4,"","",1314JB,Almere
+Bieslookstraat,5,"","",1314JB,Almere
+Bieslookstraat,6,"","",1314JB,Almere
+Bieslookstraat,7,"","",1314JB,Almere
+Bieslookstraat,8,"","",1314JB,Almere
+Bieslookstraat,9,"","",1314JB,Almere
+Dragonstraat,1,"","",1314JC,Almere
+Dragonstraat,10,"","",1314JC,Almere
+Dragonstraat,11,"","",1314JC,Almere
+Dragonstraat,12,"","",1314JC,Almere
+Dragonstraat,13,"","",1314JC,Almere
+Dragonstraat,14,"","",1314JC,Almere
+Dragonstraat,15,"","",1314JC,Almere
+Dragonstraat,16,"","",1314JC,Almere
+Dragonstraat,17,"","",1314JC,Almere
+Dragonstraat,18,"","",1314JC,Almere
+Dragonstraat,2,"","",1314JC,Almere
+Dragonstraat,20,"","",1314JC,Almere
+Dragonstraat,3,"","",1314JC,Almere
+Dragonstraat,4,"","",1314JC,Almere
+Dragonstraat,5,"","",1314JC,Almere
+Dragonstraat,6,"","",1314JC,Almere
+Dragonstraat,7,"","",1314JC,Almere
+Dragonstraat,8,"","",1314JC,Almere
+Dragonstraat,9,"","",1314JC,Almere
+Kervelstraat,1,"","",1314JD,Almere
+Kervelstraat,10,"","",1314JD,Almere
+Kervelstraat,11,"","",1314JD,Almere
+Kervelstraat,12,"","",1314JD,Almere
+Kervelstraat,13,"","",1314JD,Almere
+Kervelstraat,14,"","",1314JD,Almere
+Kervelstraat,15,"","",1314JD,Almere
+Kervelstraat,16,"","",1314JD,Almere
+Kervelstraat,17,"","",1314JD,Almere
+Kervelstraat,18,"","",1314JD,Almere
+Kervelstraat,2,"","",1314JD,Almere
+Kervelstraat,3,"","",1314JD,Almere
+Kervelstraat,4,"","",1314JD,Almere
+Kervelstraat,5,"","",1314JD,Almere
+Kervelstraat,6,"","",1314JD,Almere
+Kervelstraat,7,"","",1314JD,Almere
+Kervelstraat,8,"","",1314JD,Almere
+Kervelstraat,9,"","",1314JD,Almere
+Kruizemuntstraat,1,"","",1314JE,Almere
+Kruizemuntstraat,10,"","",1314JE,Almere
+Kruizemuntstraat,11,"","",1314JE,Almere
+Kruizemuntstraat,12,"","",1314JE,Almere
+Kruizemuntstraat,13,"","",1314JE,Almere
+Kruizemuntstraat,14,"","",1314JE,Almere
+Kruizemuntstraat,15,"","",1314JE,Almere
+Kruizemuntstraat,16,"","",1314JE,Almere
+Kruizemuntstraat,17,"","",1314JE,Almere
+Kruizemuntstraat,18,"","",1314JE,Almere
+Kruizemuntstraat,2,"","",1314JE,Almere
+Kruizemuntstraat,3,"","",1314JE,Almere
+Kruizemuntstraat,4,"","",1314JE,Almere
+Kruizemuntstraat,5,"","",1314JE,Almere
+Kruizemuntstraat,6,"","",1314JE,Almere
+Kruizemuntstraat,7,"","",1314JE,Almere
+Kruizemuntstraat,8,"","",1314JE,Almere
+Kruizemuntstraat,9,"","",1314JE,Almere
+Pepermuntstraat,10,"","",1314JG,Almere
+Pepermuntstraat,12,"","",1314JG,Almere
+Pepermuntstraat,14,"","",1314JG,Almere
+Pepermuntstraat,16,"","",1314JG,Almere
+Pepermuntstraat,18,"","",1314JG,Almere
+Pepermuntstraat,2,"","",1314JG,Almere
+Pepermuntstraat,4,"","",1314JG,Almere
+Pepermuntstraat,6,"","",1314JG,Almere
+Pepermuntstraat,8,"","",1314JG,Almere
+Korianderweg,5,"","",1314JH,Almere
+Korianderweg,7,"","",1314JH,Almere
+Korianderweg,9,"","",1314JH,Almere
+Korianderweg,10,A,"",1314JJ,Almere
+Korianderweg,10,B,"",1314JJ,Almere
+Korianderweg,10,C,"",1314JJ,Almere
+Korianderweg,12,"","",1314JJ,Almere
+Korianderweg,14,"","",1314JJ,Almere
+Korianderweg,16,"","",1314JJ,Almere
+Korianderweg,18,"","",1314JJ,Almere
+Korianderweg,20,"","",1314JJ,Almere
+Korianderweg,22,"","",1314JJ,Almere
+Korianderweg,24,"","",1314JJ,Almere
+Korianderweg,26,"","",1314JJ,Almere
+Korianderweg,28,"","",1314JJ,Almere
+Korianderweg,30,"","",1314JJ,Almere
+Korianderweg,8,A,"",1314JJ,Almere
+Korianderweg,8,B,"",1314JJ,Almere
+Korianderweg,8,C,"",1314JJ,Almere
+Pimpernelstraat,1,"","",1314JK,Almere
+Pimpernelstraat,11,"","",1314JK,Almere
+Pimpernelstraat,13,"","",1314JK,Almere
+Pimpernelstraat,15,"","",1314JK,Almere
+Pimpernelstraat,17,"","",1314JK,Almere
+Pimpernelstraat,19,"","",1314JK,Almere
+Pimpernelstraat,21,"","",1314JK,Almere
+Pimpernelstraat,23,"","",1314JK,Almere
+Pimpernelstraat,25,"","",1314JK,Almere
+Pimpernelstraat,27,"","",1314JK,Almere
+Pimpernelstraat,29,"","",1314JK,Almere
+Pimpernelstraat,3,"","",1314JK,Almere
+Pimpernelstraat,31,"","",1314JK,Almere
+Pimpernelstraat,33,"","",1314JK,Almere
+Pimpernelstraat,35,"","",1314JK,Almere
+Pimpernelstraat,37,"","",1314JK,Almere
+Pimpernelstraat,39,"","",1314JK,Almere
+Pimpernelstraat,41,"","",1314JK,Almere
+Pimpernelstraat,5,"","",1314JK,Almere
+Pimpernelstraat,7,"","",1314JK,Almere
+Pimpernelstraat,9,"","",1314JK,Almere
+Pimpernelstraat,10,"","",1314JL,Almere
+Pimpernelstraat,12,"","",1314JL,Almere
+Pimpernelstraat,14,"","",1314JL,Almere
+Pimpernelstraat,16,"","",1314JL,Almere
+Pimpernelstraat,18,"","",1314JL,Almere
+Pimpernelstraat,2,"","",1314JL,Almere
+Pimpernelstraat,20,"","",1314JL,Almere
+Pimpernelstraat,22,"","",1314JL,Almere
+Pimpernelstraat,24,"","",1314JL,Almere
+Pimpernelstraat,26,"","",1314JL,Almere
+Pimpernelstraat,28,"","",1314JL,Almere
+Pimpernelstraat,30,"","",1314JL,Almere
+Pimpernelstraat,32,"","",1314JL,Almere
+Pimpernelstraat,36,"","",1314JL,Almere
+Pimpernelstraat,36,"","",1314JL,Almere
+Pimpernelstraat,4,"","",1314JL,Almere
+Pimpernelstraat,6,"","",1314JL,Almere
+Pimpernelstraat,8,"","",1314JL,Almere
+Peterseliestraat,1,"","",1314JM,Almere
+Peterseliestraat,11,"","",1314JM,Almere
+Peterseliestraat,13,"","",1314JM,Almere
+Peterseliestraat,15,"","",1314JM,Almere
+Peterseliestraat,17,"","",1314JM,Almere
+Peterseliestraat,19,"","",1314JM,Almere
+Peterseliestraat,3,"","",1314JM,Almere
+Peterseliestraat,5,"","",1314JM,Almere
+Peterseliestraat,7,"","",1314JM,Almere
+Peterseliestraat,9,"","",1314JM,Almere
+Peterseliestraat,10,"","",1314JN,Almere
+Peterseliestraat,12,"","",1314JN,Almere
+Peterseliestraat,14,"","",1314JN,Almere
+Peterseliestraat,16,"","",1314JN,Almere
+Peterseliestraat,18,"","",1314JN,Almere
+Peterseliestraat,2,"","",1314JN,Almere
+Peterseliestraat,20,"","",1314JN,Almere
+Peterseliestraat,22,"","",1314JN,Almere
+Peterseliestraat,24,"","",1314JN,Almere
+Peterseliestraat,26,"","",1314JN,Almere
+Peterseliestraat,28,"","",1314JN,Almere
+Peterseliestraat,30,"","",1314JN,Almere
+Peterseliestraat,32,"","",1314JN,Almere
+Peterseliestraat,34,"","",1314JN,Almere
+Peterseliestraat,36,"","",1314JN,Almere
+Peterseliestraat,38,"","",1314JN,Almere
+Peterseliestraat,4,"","",1314JN,Almere
+Peterseliestraat,40,"","",1314JN,Almere
+Peterseliestraat,42,"","",1314JN,Almere
+Peterseliestraat,6,"","",1314JN,Almere
+Peterseliestraat,8,"","",1314JN,Almere
+Marjoleinstraat,1,"","",1314JP,Almere
+Marjoleinstraat,10,"","",1314JP,Almere
+Marjoleinstraat,11,"","",1314JP,Almere
+Marjoleinstraat,12,"","",1314JP,Almere
+Marjoleinstraat,13,"","",1314JP,Almere
+Marjoleinstraat,14,"","",1314JP,Almere
+Marjoleinstraat,15,"","",1314JP,Almere
+Marjoleinstraat,16,"","",1314JP,Almere
+Marjoleinstraat,17,"","",1314JP,Almere
+Marjoleinstraat,18,"","",1314JP,Almere
+Marjoleinstraat,19,"","",1314JP,Almere
+Marjoleinstraat,2,"","",1314JP,Almere
+Marjoleinstraat,20,"","",1314JP,Almere
+Marjoleinstraat,21,"","",1314JP,Almere
+Marjoleinstraat,23,"","",1314JP,Almere
+Marjoleinstraat,25,"","",1314JP,Almere
+Marjoleinstraat,27,"","",1314JP,Almere
+Marjoleinstraat,3,"","",1314JP,Almere
+Marjoleinstraat,4,"","",1314JP,Almere
+Marjoleinstraat,5,"","",1314JP,Almere
+Marjoleinstraat,6,"","",1314JP,Almere
+Marjoleinstraat,7,"","",1314JP,Almere
+Marjoleinstraat,8,"","",1314JP,Almere
+Marjoleinstraat,9,"","",1314JP,Almere
+Rozemarijnstraat,19,"","",1314KN,Almere
+Rozemarijnstraat,21,"","",1314KN,Almere
+Rozemarijnstraat,23,"","",1314KN,Almere
+Rozemarijnstraat,25,"","",1314KN,Almere
+Rozemarijnstraat,27,"","",1314KN,Almere
+Rozemarijnstraat,29,"","",1314KN,Almere
+Rozemarijnstraat,31,"","",1314KN,Almere
+Rozemarijnstraat,33,"","",1314KN,Almere
+Rozemarijnstraat,35,"","",1314KN,Almere
+Rozemarijnstraat,37,"","",1314KN,Almere
+Rozemarijnstraat,20,"","",1314KR,Almere
+Rozemarijnstraat,22,"","",1314KR,Almere
+Rozemarijnstraat,24,"","",1314KR,Almere
+Rozemarijnstraat,26,"","",1314KR,Almere
+Rozemarijnstraat,28,"","",1314KR,Almere
+Rozemarijnstraat,30,"","",1314KR,Almere
+Rozemarijnstraat,32,"","",1314KR,Almere
+Rozemarijnstraat,34,"","",1314KR,Almere
+Rozemarijnstraat,36,"","",1314KR,Almere
+Rozemarijnstraat,38,"","",1314KR,Almere
+Pepermuntstraat,1,"","",1314SZ,Almere
+Pepermuntstraat,11,"","",1314SZ,Almere
+Pepermuntstraat,11,"","",1314SZ,Almere
+Pepermuntstraat,13,"","",1314SZ,Almere
+Pepermuntstraat,13,"","",1314SZ,Almere
+Pepermuntstraat,15,"","",1314SZ,Almere
+Pepermuntstraat,15,"","",1314SZ,Almere
+Pepermuntstraat,17,"","",1314SZ,Almere
+Pepermuntstraat,17,"","",1314SZ,Almere
+Pepermuntstraat,19,"","",1314SZ,Almere
+Pepermuntstraat,19,"","",1314SZ,Almere
+Pepermuntstraat,21,"","",1314SZ,Almere
+Pepermuntstraat,21,"","",1314SZ,Almere
+Pepermuntstraat,23,"","",1314SZ,Almere
+Pepermuntstraat,23,"","",1314SZ,Almere
+Pepermuntstraat,25,"","",1314SZ,Almere
+Pepermuntstraat,25,"","",1314SZ,Almere
+Pepermuntstraat,27,"","",1314SZ,Almere
+Pepermuntstraat,27,"","",1314SZ,Almere
+Pepermuntstraat,29,"","",1314SZ,Almere
+Pepermuntstraat,29,"","",1314SZ,Almere
+Pepermuntstraat,3,"","",1314SZ,Almere
+Pepermuntstraat,3,"","",1314SZ,Almere
+Pepermuntstraat,31,"","",1314SZ,Almere
+Pepermuntstraat,31,"","",1314SZ,Almere
+Pepermuntstraat,33,"","",1314SZ,Almere
+Pepermuntstraat,33,"","",1314SZ,Almere
+Pepermuntstraat,35,"","",1314SZ,Almere
+Pepermuntstraat,35,"","",1314SZ,Almere
+Pepermuntstraat,5,"","",1314SZ,Almere
+Pepermuntstraat,5,"","",1314SZ,Almere
+Pepermuntstraat,7,"","",1314SZ,Almere
+Pepermuntstraat,7,"","",1314SZ,Almere
+Pepermuntstraat,9,"","",1314SZ,Almere
+Pepermuntstraat,9,"","",1314SZ,Almere

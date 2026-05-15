@@ -1,8 +1,8 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4539PJ,Brondijk,2,,
-4539PK,Brondijk,1,,
-4539PG,Graaf Jansdijk,17,,
-4539PG,Graaf Jansdijk,19,,
-4539PG,Graaf Jansdijk,23,,
-4539PG,Graaf Jansdijk,23,a,
-4539PG,Graaf Jansdijk,23,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Graaf Jansdijk,17,"","",4539PG,Spui
+Graaf Jansdijk,19,"","",4539PG,Spui
+Graaf Jansdijk,23,"","",4539PG,Spui
+Graaf Jansdijk,23,A,"",4539PG,Spui
+Graaf Jansdijk,23,B,"",4539PG,Spui
+Brondijk,2,"","",4539PJ,Spui
+Brondijk,1,"","",4539PK,Spui

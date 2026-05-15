@@ -1,98 +1,98 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7555PV",70,"",""
-"7555PV",71,"",""
-"7555PV",85,"",""
-"7555PV",81,"",""
-"7555PV",73,"",""
-"7555PV",30,"",""
-"7555PV",72,"",""
-"7555PV",71,"",""
-"7555PV",73,"",""
-"7555PV",72,"",""
-"7555PX",41,"",""
-"7555PX",1,"",""
-"7555PX",20,"",""
-"7555PX",11,"",""
-"7555PX",10,"",""
-"7559PE",3,"",""
-"7559SR",60,"",""
-"7559SR",18,"",""
-"7559SR",110,"",""
-"7559SR",10,"",""
-"7559SR",22,"",""
-"7559SR",20,"",""
-"7559SR",30,"",""
-"7559SR",32,"",""
-"7559SR",24,"",""
-"7559SR",100,"",""
-"7559SR",30,"",""
-"7559SR",14,"",""
-"7559SR",24,"",""
-"7559SR",10,"",""
-"7559SR",18,"",""
-"7559SR",22,"",""
-"7559SR",32,"",""
-"7559SR",130,"",""
-"7559SR",78,"",""
-"7559SR",14,"",""
-"7559SR",150,"",""
-"7559SR",50,"",""
-"7559SR",190,"",""
-"7559SR",20,"",""
-"7559SR",180,"",""
-"7559SR",200,"",""
-"7559SR",80,"",""
-"7559SR",70,"",""
-"7559SR",10,"",""
-"7559SR",90,"",""
-7555PV,Burenweg,70,,
-7555PV,Burenweg,71,,
-7555PV,Burenweg,72,,
-7555PV,Burenweg,73,,
-7555PV,Burenweg,81,,
-7555PV,Burenweg,85,,
-7555PV,Woolderbroekweg,30,,
-7559SR,Het Plein,50,,
-7559SR,Het Plein,100,,
-7559SR,Het Plein,60,,
-7559SR,Het Plein,70,,
-7559SR,Het Plein,90,,
-7559SR,Het Plein,80,,
-7559SR,Het Plein,180,,
-7559SR,Het Plein,200,,
-7559SR,Het Plein,110,,
-7559SR,Het Plein,130,,
-7559SR,Het Plein,150,,
-7559SR,Het Plein,10,,
-7559SR,Het Plein,14,,
-7559SR,Het Plein,18,,
-7559SR,Het Plein,20,,
-7559SR,Het Plein,22,,
-7559SR,Het Plein,24,,
-7559SR,Het Plein,30,,
-7559SR,Het Plein,32,,
-7559PE,Rondweg,3,,
-7555PX,Lemerij,11,,
-7555PX,Lemerij,1,,
-7559SR,Het Plein,78,,
-7559SR,Het Plein,10,,
-7559SR,Het Plein,190,,
-7555PX,Lemerij,41,,
-7555PX,Lemerij,10,,
-7555PX,Lemerij,20,,
-7555PX,Lemerij,4,A,
-7555PX,Lemerij,4,B,
-7555PX,Lemerij,4,C,
-7555PX,Lemerij,4,D,
-7555PX,Lemerij,4,E,
-7555PX,Lemerij,4,F,
-7555PX,Lemerij,4,G,
-7555PX,Lemerij,4,H,
-7555PX,Lemerij,4,K,
-7555PX,Lemerij,4,L,
-7555PX,Lemerij,4,M,
-7555PX,Lemerij,4,N,
-7555PX,Lemerij,4,P,
-7555PX,Lemerij,4,R,
-7555PX,Lemerij,4,S,
-7555PX,Lemerij,4,T,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Woolderbroekweg,30,"","",7555PV,Hengelo
+Burenweg,70,"","",7555PV,Hengelo
+Burenweg,71,"","",7555PV,Hengelo
+Burenweg,71,"","",7555PV,Hengelo
+Burenweg,72,"","",7555PV,Hengelo
+Burenweg,72,"","",7555PV,Hengelo
+Burenweg,73,"","",7555PV,Hengelo
+Burenweg,73,"","",7555PV,Hengelo
+Burenweg,81,"","",7555PV,Hengelo
+Burenweg,85,"","",7555PV,Hengelo
+"",BURENWEG,70,"",7555PV,
+"",BURENWEG,71,"",7555PV,
+"",BURENWEG,72,"",7555PV,
+"",BURENWEG,73,"",7555PV,
+"",BURENWEG,81,"",7555PV,
+"",BURENWEG,85,"",7555PV,
+"",WOOLDERBROEKWEG,30,"",7555PV,
+Lemerij,1,"","",7555PX,Hengelo
+Lemerij,10,"","",7555PX,Hengelo
+Lemerij,11,"","",7555PX,Hengelo
+Lemerij,20,"","",7555PX,Hengelo
+Lemerij,41,"","",7555PX,Hengelo
+"",LEMERIJ,1,"",7555PX,
+"",LEMERIJ,10,"",7555PX,
+"",LEMERIJ,11,"",7555PX,
+"",LEMERIJ,20,"",7555PX,
+"",LEMERIJ,4,A,7555PX,
+"",LEMERIJ,4,B,7555PX,
+"",LEMERIJ,4,C,7555PX,
+"",LEMERIJ,4,D,7555PX,
+"",LEMERIJ,4,E,7555PX,
+"",LEMERIJ,4,F,7555PX,
+"",LEMERIJ,4,G,7555PX,
+"",LEMERIJ,4,H,7555PX,
+"",LEMERIJ,4,K,7555PX,
+"",LEMERIJ,4,L,7555PX,
+"",LEMERIJ,4,M,7555PX,
+"",LEMERIJ,4,N,7555PX,
+"",LEMERIJ,4,P,7555PX,
+"",LEMERIJ,4,R,7555PX,
+"",LEMERIJ,4,S,7555PX,
+"",LEMERIJ,4,T,7555PX,
+"",LEMERIJ,41,"",7555PX,
+Rondweg,3,"","",7559PE,Hengelo
+"",RONDWEG,3,"",7559PE,
+Het Plein,10,"","",7559SR,Hengelo
+Het Plein,10,"","",7559SR,Hengelo
+Het Plein,10,"","",7559SR,Hengelo
+Het Plein,100,"","",7559SR,Hengelo
+Het Plein,110,"","",7559SR,Hengelo
+Het Plein,130,"","",7559SR,Hengelo
+Het Plein,14,"","",7559SR,Hengelo
+Het Plein,14,"","",7559SR,Hengelo
+Het Plein,150,"","",7559SR,Hengelo
+Het Plein,18,"","",7559SR,Hengelo
+Het Plein,18,"","",7559SR,Hengelo
+Het Plein,180,"","",7559SR,Hengelo
+Het Plein,190,"","",7559SR,Hengelo
+Het Plein,20,"","",7559SR,Hengelo
+Het Plein,20,"","",7559SR,Hengelo
+Het Plein,200,"","",7559SR,Hengelo
+Het Plein,22,"","",7559SR,Hengelo
+Het Plein,22,"","",7559SR,Hengelo
+Het Plein,24,"","",7559SR,Hengelo
+Het Plein,24,"","",7559SR,Hengelo
+Het Plein,30,"","",7559SR,Hengelo
+Het Plein,30,"","",7559SR,Hengelo
+Het Plein,32,"","",7559SR,Hengelo
+Het Plein,32,"","",7559SR,Hengelo
+Het Plein,50,"","",7559SR,Hengelo
+Het Plein,60,"","",7559SR,Hengelo
+Het Plein,70,"","",7559SR,Hengelo
+Het Plein,78,"","",7559SR,Hengelo
+Het Plein,80,"","",7559SR,Hengelo
+Het Plein,90,"","",7559SR,Hengelo
+"",HET PLEIN,10,"",7559SR,
+"",HET PLEIN,10,"",7559SR,
+"",HET PLEIN,100,"",7559SR,
+"",HET PLEIN,110,"",7559SR,
+"",HET PLEIN,130,"",7559SR,
+"",HET PLEIN,14,"",7559SR,
+"",HET PLEIN,150,"",7559SR,
+"",HET PLEIN,18,"",7559SR,
+"",HET PLEIN,180,"",7559SR,
+"",HET PLEIN,190,"",7559SR,
+"",HET PLEIN,20,"",7559SR,
+"",HET PLEIN,200,"",7559SR,
+"",HET PLEIN,22,"",7559SR,
+"",HET PLEIN,24,"",7559SR,
+"",HET PLEIN,30,"",7559SR,
+"",HET PLEIN,32,"",7559SR,
+"",HET PLEIN,50,"",7559SR,
+"",HET PLEIN,60,"",7559SR,
+"",HET PLEIN,70,"",7559SR,
+"",HET PLEIN,78,"",7559SR,
+"",HET PLEIN,80,"",7559SR,
+"",HET PLEIN,90,"",7559SR,

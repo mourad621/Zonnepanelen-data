@@ -1,831 +1,419 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8431KE",28,"",""
-"8431KE",32,"",""
-"8431KE",3,"","TR01"
-"8431KE",18,"",""
-"8431KE",16,"",""
-"8431KE",14,"",""
-"8431KE",2,"",""
-"8431KE",4,"",""
-"8431KE",5,"",""
-"8431KE",24,"",""
-"8431KE",11,"",""
-"8431KE",13,"",""
-"8431KE",6,"",""
-"8431KE",15,"",""
-"8431KE",36,"",""
-"8431KE",30,"",""
-"8431KE",20,"",""
-"8431KE",34,"",""
-"8431KE",3,"",""
-"8431KE",38,"",""
-"8431KE",22,"",""
-"8431KE",9,"",""
-"8431KE",42,"",""
-"8431KE",7,"",""
-"8431KE",40,"",""
-"8431KG",37,"",""
-"8431KG",31,"B",""
-"8431KG",29,"A",""
-"8431KG",29,"",""
-"8431KG",27,"B",""
-"8431KG",39,"",""
-"8431KG",27,"A",""
-"8431KG",43,"",""
-"8431KG",21,"B",""
-"8431KG",23,"B",""
-"8431KG",29,"B",""
-"8431KG",21,"A",""
-"8431KG",23,"",""
-"8431KG",21,"",""
-"8431KG",31,"A",""
-"8431KG",19,"","B001"
-"8431KG",41,"",""
-"8431KG",27,"",""
-"8431KG",23,"A",""
-"8431KG",19,"","B004"
-"8431KG",25,"",""
-"8431KG",25,"A",""
-"8431KG",19,"","B005"
-"8431KG",19,"","B002"
-"8431KG",31,"",""
-"8431KG",25,"B",""
-"8431KG",19,"",""
-"8431KG",19,"","B003"
-"8431KH",43,"",""
-"8431KH",47,"",""
-"8431KH",49,"",""
-"8431KH",61,"",""
-"8431KH",57,"",""
-"8431KH",65,"",""
-"8431KH",45,"",""
-"8431KH",59,"",""
-"8431KH",67,"",""
-"8431KH",51,"",""
-"8431KH",3,"D",""
-"8431KH",55,"",""
-"8431KH",53,"",""
-"8431KH",63,"",""
-"8431KH",69,"",""
-"8431KK",105,"",""
-"8431KK",99,"C",""
-"8431KK",115,"",""
-"8431KK",107,"",""
-"8431KK",123,"",""
-"8431KK",121,"",""
-"8431KK",109,"",""
-"8431KK",119,"",""
-"8431KK",103,"",""
-"8431KK",111,"",""
-"8431KK",115,"","TR01"
-"8431KK",113,"",""
-"8431KK",99,"",""
-"8431KK",101,"",""
-"8431KK",117,"",""
-"8431KK",99,"B",""
-"8431KK",99,"D",""
-"8431KK",99,"B","TR01"
-"8431KL",19,"",""
-"8431KL",3,"",""
-"8431KL",11,"",""
-"8431KL",20,"",""
-"8431KL",1,"",""
-"8431KL",5,"",""
-"8431KL",22,"",""
-"8431KL",15,"",""
-"8431KL",31,"",""
-"8431KL",35,"",""
-"8431KL",21,"",""
-"8431KL",49,"",""
-"8431KL",45,"",""
-"8431KL",27,"",""
-"8431KL",29,"",""
-"8431KL",43,"",""
-"8431KL",17,"",""
-"8431KL",47,"",""
-"8431KL",23,"",""
-"8431KL",37,"",""
-"8431KL",9,"",""
-"8431KL",7,"",""
-"8431KL",18,"",""
-"8431KL",39,"",""
-"8431KL",41,"",""
-"8431KL",33,"",""
-"8431KL",25,"",""
-"8431KL",13,"",""
-"8431KR",2,"",""
-"8431KR",14,"",""
-"8431KR",18,"",""
-"8431KR",4,"",""
-"8431KR",1,"",""
-"8431KR",15,"",""
-"8431KR",5,"",""
-"8431KR",16,"",""
-"8431KR",19,"",""
-"8431KR",22,"",""
-"8431KR",17,"",""
-"8431KR",10,"",""
-"8431KR",11,"",""
-"8431KR",12,"",""
-"8431KR",24,"",""
-"8431KR",3,"",""
-"8431KR",26,"",""
-"8431KR",13,"",""
-"8431KR",6,"",""
-"8431KR",9,"",""
-"8431KR",20,"",""
-"8431KR",7,"",""
-"8431KR",8,"",""
-"8431KT",2,"",""
-"8431KT",1,"",""
-"8431KT",4,"",""
-"8431KT",9,"",""
-"8431KT",18,"",""
-"8431KT",14,"",""
-"8431KT",7,"",""
-"8431KT",3,"",""
-"8431KT",12,"",""
-"8431KT",10,"",""
-"8431KT",5,"",""
-"8431KT",15,"",""
-"8431KT",8,"",""
-"8431KT",16,"",""
-"8431KT",11,"",""
-"8431KT",6,"",""
-"8431KT",13,"",""
-"8431KT",17,"",""
-"8431KV",2,"B",""
-"8431KV",2,"D",""
-"8431KV",5,"",""
-"8431KV",2,"C",""
-"8431KV",3,"",""
-"8431KV",7,"",""
-"8431KV",9,"",""
-"8431KV",1,"",""
-"8431KV",2,"A",""
-"8431KV",15,"",""
-"8431KV",25,"",""
-"8431KV",27,"",""
-"8431KV",11,"",""
-"8431KV",13,"",""
-"8431KV",19,"",""
-"8431KV",17,"",""
-"8431KW",2,"",""
-"8431KW",2,"C",""
-"8431KW",2,"D",""
-"8431KW",18,"",""
-"8431KW",6,"",""
-"8431KW",2,"A",""
-"8431KW",24,"",""
-"8431KW",20,"",""
-"8431KW",16,"",""
-"8431KW",2,"B",""
-"8431KW",4,"",""
-"8431KW",22,"",""
-"8431KW",12,"",""
-"8431KW",10,"",""
-"8431KW",26,"",""
-"8431KW",8,"",""
-"8431KW",14,"",""
-"8431KX",9,"",""
-"8431KX",6,"",""
-"8431KX",3,"",""
-"8431KX",5,"",""
-"8431KX",11,"",""
-"8431KX",2,"",""
-"8431KX",7,"",""
-"8431KX",8,"",""
-"8431KX",1,"",""
-"8431KX",12,"",""
-"8431KX",10,"",""
-"8431KX",4,"",""
-"8431KZ",16,"",""
-"8431KZ",14,"",""
-"8431KZ",4,"",""
-"8431KZ",10,"",""
-"8431KZ",13,"",""
-"8431KZ",15,"",""
-"8431KZ",12,"",""
-"8431KZ",6,"",""
-"8431KZ",8,"",""
-"8431KZ",3,"",""
-"8431KZ",5,"",""
-"8431KZ",20,"",""
-"8431KZ",1,"",""
-"8431KZ",2,"",""
-"8431KZ",1,"","TR01"
-"8431KZ",22,"",""
-"8431KZ",7,"",""
-"8431KZ",1,"A",""
-"8431KZ",24,"",""
-"8431KZ",18,"",""
-"8431KZ",1,"A",""
-"8431LA",5,"",""
-"8431LA",9,"",""
-"8431LA",1,"","ZO01"
-"8431LA",3,"",""
-"8431LA",1,"",""
-"8431LA",7,"",""
-"8431LA",13,"",""
-"8431LA",11,"",""
-"8431LB",14,"",""
-"8431LB",40,"",""
-"8431LB",36,"",""
-"8431LB",34,"",""
-"8431LB",6,"",""
-"8431LB",28,"",""
-"8431LB",2,"",""
-"8431LB",38,"",""
-"8431LB",32,"",""
-"8431LB",18,"",""
-"8431LB",42,"",""
-"8431LB",10,"",""
-"8431LB",16,"",""
-"8431LB",8,"",""
-"8431LB",26,"",""
-"8431LB",12,"",""
-"8431LB",44,"",""
-"8431LB",30,"",""
-"8431LB",4,"",""
-"8431LB",20,"",""
-"8431LB",22,"",""
-"8431LB",24,"",""
-"8431LD",1,"","111"
-"8431LD",35,"",""
-"8431LD",39,"",""
-"8431LD",37,"",""
-"8431LD",25,"",""
-"8431LD",1,"","105"
-"8431LD",1,"",""
-"8431LD",24,"",""
-"8431LD",8,"",""
-"8431LD",13,"",""
-"8431LD",33,"",""
-"8431LD",29,"",""
-"8431LD",1,"","100"
-"8431LD",1,"","104"
-"8431LD",1,"","108"
-"8431LD",1,"","106"
-"8431LD",15,"",""
-"8431LD",11,"",""
-"8431LD",16,"",""
-"8431LD",14,"",""
-"8431LD",27,"",""
-"8431LD",4,"D",""
-"8431LD",18,"",""
-"8431LD",1,"","101"
-"8431LD",12,"",""
-"8431LD",10,"",""
-"8431LD",1,"","114"
-"8431LD",1,"","130"
-"8431LD",6,"",""
-"8431LD",5,"",""
-"8431LD",22,"",""
-"8431LD",1,"","127"
-"8431LD",7,"",""
-"8431LD",1,"","123"
-"8431LD",31,"",""
-"8431LD",21,"",""
-"8431LD",1,"","112"
-"8431LD",4,"C",""
-"8431LD",41,"",""
-"8431LD",4,"E",""
-"8431LD",1,"","113"
-"8431LD",1,"","120"
-"8431LD",3,"A",""
-"8431LD",9,"",""
-"8431LD",1,"","103"
-"8431LD",4,"A",""
-"8431LD",3,"",""
-"8431LD",1,"","121"
-"8431LD",1,"","102"
-"8431LD",1,"","122"
-"8431LD",1,"","132"
-"8431LD",26,"",""
-"8431LD",1,"","131"
-"8431LD",23,"",""
-"8431LD",20,"",""
-"8431LD",4,"",""
-"8431LD",4,"B",""
-"8431LD",17,"",""
-"8431LD",19,"",""
-"8431LD",4,"",""
-"8431LD",4,"",""
-"8431LJ",24,"A",""
-"8431LJ",14,"",""
-"8431LJ",12,"",""
-"8431LJ",8,"B",""
-"8431LJ",8,"A",""
-"8431LJ",8,"",""
-"8431LJ",4,"",""
-"8431LJ",10,"",""
-"8431LJ",8,"",""
-"8431LJ",24,"",""
-"8431LJ",16,"",""
-"8431LJ",20,"",""
-"8431LJ",18,"",""
-"8431LJ",26,"",""
-"8431LJ",22,"",""
-"8431LK",44,"",""
-"8431LK",52,"",""
-"8431LK",48,"",""
-"8431LK",50,"",""
-"8431LK",46,"",""
-"8431LK",56,"",""
-"8431LL",60,"",""
-"8431LL",64,"",""
-"8431LL",60,"B",""
-"8431LL",60,"E",""
-"8431LL",60,"",""
-"8431LL",60,"A",""
-"8431LL",58,"",""
-"8431LL",60,"",""
-"8431LL",66,"",""
-"8431LL",68,"",""
-"8431LL",60,"D",""
-"8431LL",60,"C",""
-"8431LL",70,"",""
-"8431NK",14,"",""
-"8431NK",10,"",""
-"8431NK",16,"",""
-"8431NK",17,"",""
-"8431NK",20,"",""
-"8431NK",13,"",""
-"8431NK",21,"",""
-"8431NK",9,"",""
-"8431NK",8,"",""
-"8431NK",11,"",""
-"8431NK",19,"",""
-"8431NK",12,"",""
-"8431NK",15,"",""
-"8431NK",18,"",""
-"8431NK",5,"",""
-"8431NK",22,"",""
-"8431NK",9,"",""
-"8431NK",25,"",""
-"8431NK",3,"",""
-"8431NK",7,"",""
-"8431NK",24,"",""
-"8431NK",6,"",""
-"8431NK",4,"",""
-"8431NK",1,"",""
-"8431NK",23,"",""
-"8431NK",8,"",""
-"8431NK",7,"",""
-"8431NL",39,"",""
-"8431NL",46,"",""
-"8431NL",38,"",""
-"8431NL",49,"",""
-"8431NL",27,"",""
-"8431NL",33,"",""
-"8431NL",28,"",""
-"8431NL",29,"",""
-"8431NL",47,"",""
-"8431NL",48,"",""
-"8431NL",45,"",""
-"8431NL",42,"",""
-"8431NL",41,"",""
-"8431NL",32,"",""
-"8431NL",30,"",""
-"8431NL",34,"",""
-"8431NL",44,"",""
-"8431NL",35,"",""
-"8431NL",37,"",""
-"8431NL",40,"",""
-"8431NL",43,"",""
-"8431NL",31,"",""
-"8431NL",36,"",""
-"8431RA",3,"",""
-"8431RA",9,"D",""
-"8431RA",1,"",""
-"8431RA",15,"",""
-"8431RA",17,"",""
-"8431RA",6,"",""
-"8431RA",9,"",""
-"8431RA",19,"",""
-"8431RA",11,"",""
-"8431RA",9,"B",""
-"8431RA",4,"",""
-"8431RA",7,"",""
-"8431RA",21,"",""
-"8431RA",8,"",""
-"8431RA",2,"",""
-"8431RA",14,"",""
-"8431RA",5,"",""
-"8431RA",10,"",""
-"8431RA",12,"",""
-"8431RA",9,"C",""
-"8431RA",9,"A",""
-"8431RA",13,"",""
-8431LD,Brink,11,,
-8431LD,Brink,13,,
-8431LD,Brink,15,,
-8431LD,Brink,17,,
-8431LD,Brink,19,,
-8431LD,Brink,21,,
-8431LD,Brink,23,,
-8431LD,Brink,25,,
-8431LD,Brink,27,,
-8431LD,Brink,29,,
-8431LD,Brink,3,,
-8431LD,Brink,31,,
-8431LD,Brink,33,,
-8431LD,Brink,35,,
-8431LD,Brink,39,,
-8431LD,Brink,4,,
-8431LD,Brink,41,,
-8431LD,Brink,7,,
-8431LD,Brink,9,,
-8431KZ,Butjeskamp,1,,
-8431KZ,Butjeskamp,10,,
-8431KZ,Butjeskamp,12,,
-8431KZ,Butjeskamp,13,,
-8431KZ,Butjeskamp,14,,
-8431KZ,Butjeskamp,15,,
-8431KZ,Butjeskamp,16,,
-8431KZ,Butjeskamp,18,,
-8431KZ,Butjeskamp,2,,
-8431KZ,Butjeskamp,20,,
-8431KZ,Butjeskamp,22,,
-8431KZ,Butjeskamp,24,,
-8431KZ,Butjeskamp,3,,
-8431KZ,Butjeskamp,4,,
-8431KZ,Butjeskamp,5,,
-8431KZ,Butjeskamp,6,,
-8431KZ,Butjeskamp,7,,
-8431KZ,Butjeskamp,8,,
-8431KZ,Butjeskamp,1,A,
-8431KZ,Butjeskamp,1,,TR01
-8431KR,De Logten,1,,
-8431KR,De Logten,10,,
-8431KR,De Logten,11,,
-8431KR,De Logten,12,,
-8431KR,De Logten,13,,
-8431KR,De Logten,14,,
-8431KR,De Logten,15,,
-8431KR,De Logten,16,,
-8431KR,De Logten,17,,
-8431KR,De Logten,18,,
-8431KR,De Logten,19,,
-8431KR,De Logten,2,,
-8431KR,De Logten,20,,
-8431KR,De Logten,22,,
-8431KR,De Logten,24,,
-8431KR,De Logten,26,,
-8431KR,De Logten,3,,
-8431KR,De Logten,4,,
-8431KR,De Logten,5,,
-8431KR,De Logten,6,,
-8431KR,De Logten,7,,
-8431KR,De Logten,8,,
-8431KR,De Logten,9,,
-8431KX,Elsjeshof,10,,
-8431KX,Elsjeshof,12,,
-8431KX,Elsjeshof,2,,
-8431KX,Elsjeshof,4,,
-8431KX,Elsjeshof,6,,
-8431KX,Elsjeshof,8,,
-8431KE,Het Hoge Stuk,2,,
-8431KE,Het Hoge Stuk,28,,
-8431KE,Het Hoge Stuk,30,,
-8431KE,Het Hoge Stuk,32,,
-8431KE,Het Hoge Stuk,34,,
-8431KE,Het Hoge Stuk,36,,
-8431KE,Het Hoge Stuk,38,,
-8431KE,Het Hoge Stuk,4,,
-8431KE,Het Hoge Stuk,40,,
-8431KE,Het Hoge Stuk,42,,
-8431KE,Het Hoge Stuk,6,,
-8431KL,Het Hoge Stuk,1,,
-8431KL,Het Hoge Stuk,11,,
-8431KL,Het Hoge Stuk,13,,
-8431KL,Het Hoge Stuk,15,,
-8431KL,Het Hoge Stuk,17,,
-8431KL,Het Hoge Stuk,19,,
-8431KL,Het Hoge Stuk,21,,
-8431KL,Het Hoge Stuk,23,,
-8431KL,Het Hoge Stuk,25,,
-8431KL,Het Hoge Stuk,27,,
-8431KL,Het Hoge Stuk,29,,
-8431KL,Het Hoge Stuk,3,,
-8431KL,Het Hoge Stuk,31,,
-8431KL,Het Hoge Stuk,33,,
-8431KL,Het Hoge Stuk,35,,
-8431KL,Het Hoge Stuk,37,,
-8431KL,Het Hoge Stuk,39,,
-8431KL,Het Hoge Stuk,41,,
-8431KL,Het Hoge Stuk,43,,
-8431KL,Het Hoge Stuk,45,,
-8431KL,Het Hoge Stuk,47,,
-8431KL,Het Hoge Stuk,49,,
-8431KL,Het Hoge Stuk,5,,
-8431KL,Het Hoge Stuk,7,,
-8431KL,Het Hoge Stuk,9,,
-8431LJ,'t Oost,12,,
-8431LJ,'t Oost,14,,
-8431LJ,'t Oost,16,,
-8431LJ,'t Oost,18,,
-8431LJ,'t Oost,20,,
-8431LJ,'t Oost,22,,
-8431LJ,'t Oost,24,,
-8431LJ,'t Oost,8,,
-8431LJ,'t Oost,4,,
-8431LJ,'t Oost,24,A,
-8431LJ,'t Oost,26,,
-8431LJ,'t Oost,8,,
-8431LJ,'t Oost,8,A,
-8431LJ,'t Oost,8,B,
-8431LJ,'t Oost,10,,
-8431LK,'t Oost,44,,
-8431LK,'t Oost,48,,
-8431LK,'t Oost,50,,
-8431LK,'t Oost,52,,
-8431LK,'t Oost,56,,
-8431LK,'t Oost,46,,
-8431LL,'t Oost,58,,
-8431LL,'t Oost,60,,
-8431LL,'t Oost,64,,
-8431LL,'t Oost,66,,
-8431LL,'t Oost,68,,
-8431LL,'t Oost,70,,
-8431LL,'t Oost,60,,
-8431LL,'t Oost,60,A,
-8431LL,'t Oost,60,B,
-8431LL,'t Oost,60,C,
-8431LL,'t Oost,60,D,
-8431LL,'t Oost,60,E,
-8431LD,Brink,1,,
-8431LD,Brink,1,,100
-8431LD,Brink,1,,101
-8431LD,Brink,1,,102
-8431LD,Brink,1,,103
-8431LD,Brink,1,,104
-8431LD,Brink,1,,105
-8431LD,Brink,1,,106
-8431LD,Brink,1,,108
-8431LD,Brink,1,,111
-8431LD,Brink,1,,112
-8431LD,Brink,1,,113
-8431LD,Brink,1,,114
-8431LD,Brink,1,,120
-8431LD,Brink,1,,121
-8431LD,Brink,1,,122
-8431LD,Brink,1,,123
-8431LD,Brink,1,,130
-8431LD,Brink,1,,131
-8431LD,Brink,1,,132
-8431LD,Brink,1,,127
-8431LD,Brink,3,A,
-8431LD,Brink,5,,
-8431LD,Brink,37,,
-8431LD,Brink,6,,
-8431LD,Brink,8,,
-8431LD,Brink,12,,
-8431LD,Brink,14,,
-8431LD,Brink,16,,
-8431LD,Brink,10,,
-8431LD,Brink,18,,
-8431LD,Brink,20,,
-8431LD,Brink,22,,
-8431LD,Brink,24,,
-8431LD,Brink,26,,
-8431LD,Brink,4,,
-8431LD,Brink,4,A,
-8431LD,Brink,4,B,
-8431LD,Brink,4,C,
-8431LD,Brink,4,D,
-8431LD,Brink,4,E,
-8431KX,Elsjeshof,1,,
-8431KX,Elsjeshof,3,,
-8431KX,Elsjeshof,5,,
-8431KX,Elsjeshof,7,,
-8431KX,Elsjeshof,9,,
-8431KX,Elsjeshof,11,,
-8431KE,Het Hoge Stuk,14,,
-8431KE,Het Hoge Stuk,16,,
-8431KE,Het Hoge Stuk,18,,
-8431KE,Het Hoge Stuk,20,,
-8431KE,Het Hoge Stuk,22,,
-8431KE,Het Hoge Stuk,24,,
-8431NK,Oostenburg,1,,
-8431NK,Oostenburg,10,,
-8431NK,Oostenburg,11,,
-8431NK,Oostenburg,12,,
-8431NK,Oostenburg,13,,
-8431NK,Oostenburg,14,,
-8431NK,Oostenburg,15,,
-8431NK,Oostenburg,16,,
-8431NK,Oostenburg,17,,
-8431NK,Oostenburg,18,,
-8431NK,Oostenburg,19,,
-8431NK,Oostenburg,20,,
-8431NK,Oostenburg,21,,
-8431NK,Oostenburg,22,,
-8431NK,Oostenburg,23,,
-8431NK,Oostenburg,24,,
-8431NK,Oostenburg,25,,
-8431NK,Oostenburg,3,,
-8431NK,Oostenburg,4,,
-8431NK,Oostenburg,5,,
-8431NK,Oostenburg,6,,
-8431NK,Oostenburg,7,,
-8431NK,Oostenburg,8,,
-8431NK,Oostenburg,9,,
-8431NL,Oostenburg,27,,
-8431NL,Oostenburg,28,,
-8431NL,Oostenburg,29,,
-8431NL,Oostenburg,30,,
-8431NL,Oostenburg,31,,
-8431NL,Oostenburg,32,,
-8431NL,Oostenburg,33,,
-8431NL,Oostenburg,34,,
-8431NL,Oostenburg,35,,
-8431NL,Oostenburg,36,,
-8431NL,Oostenburg,37,,
-8431NL,Oostenburg,38,,
-8431NL,Oostenburg,39,,
-8431NL,Oostenburg,40,,
-8431NL,Oostenburg,41,,
-8431NL,Oostenburg,42,,
-8431NL,Oostenburg,43,,
-8431NL,Oostenburg,44,,
-8431NL,Oostenburg,45,,
-8431NL,Oostenburg,46,,
-8431NL,Oostenburg,47,,
-8431NL,Oostenburg,48,,
-8431NL,Oostenburg,49,,
-8431RA,Oosterbrink,1,,
-8431RA,Oosterbrink,10,,
-8431RA,Oosterbrink,11,,
-8431RA,Oosterbrink,12,,
-8431RA,Oosterbrink,13,,
-8431RA,Oosterbrink,14,,
-8431RA,Oosterbrink,15,,
-8431RA,Oosterbrink,17,,
-8431RA,Oosterbrink,19,,
-8431RA,Oosterbrink,2,,
-8431RA,Oosterbrink,21,,
-8431RA,Oosterbrink,3,,
-8431RA,Oosterbrink,6,,
-8431RA,Oosterbrink,7,,
-8431RA,Oosterbrink,8,,
-8431RA,Oosterbrink,9,,
-8431RA,Oosterbrink,9,A,
-8431RA,Oosterbrink,9,C,
-8431RA,Oosterbrink,4,,
-8431RA,Oosterbrink,5,,
-8431RA,Oosterbrink,9,B,
-8431RA,Oosterbrink,9,D,
-8431KT,Poorthof,1,,
-8431KT,Poorthof,10,,
-8431KT,Poorthof,11,,
-8431KT,Poorthof,12,,
-8431KT,Poorthof,13,,
-8431KT,Poorthof,14,,
-8431KT,Poorthof,15,,
-8431KT,Poorthof,16,,
-8431KT,Poorthof,17,,
-8431KT,Poorthof,18,,
-8431KT,Poorthof,2,,
-8431KT,Poorthof,3,,
-8431KT,Poorthof,4,,
-8431KT,Poorthof,5,,
-8431KT,Poorthof,6,,
-8431KT,Poorthof,7,,
-8431KT,Poorthof,8,,
-8431KT,Poorthof,9,,
-8431LA,Prinsenstraat,1,,
-8431LA,Prinsenstraat,11,,
-8431LA,Prinsenstraat,13,,
-8431LA,Prinsenstraat,5,,
-8431LA,Prinsenstraat,7,,
-8431LA,Prinsenstraat,9,,
-8431LA,Prinsenstraat,3,,
-8431LA,Prinsenstraat,1,,ZO01
-8431LB,Prinsenstraat,10,,
-8431LB,Prinsenstraat,12,,
-8431LB,Prinsenstraat,14,,
-8431LB,Prinsenstraat,16,,
-8431LB,Prinsenstraat,18,,
-8431LB,Prinsenstraat,2,,
-8431LB,Prinsenstraat,20,,
-8431LB,Prinsenstraat,22,,
-8431LB,Prinsenstraat,24,,
-8431LB,Prinsenstraat,26,,
-8431LB,Prinsenstraat,28,,
-8431LB,Prinsenstraat,30,,
-8431LB,Prinsenstraat,32,,
-8431LB,Prinsenstraat,34,,
-8431LB,Prinsenstraat,36,,
-8431LB,Prinsenstraat,38,,
-8431LB,Prinsenstraat,4,,
-8431LB,Prinsenstraat,40,,
-8431LB,Prinsenstraat,42,,
-8431LB,Prinsenstraat,44,,
-8431LB,Prinsenstraat,6,,
-8431LB,Prinsenstraat,8,,
-8431KE,Rijweg,11,,
-8431KE,Rijweg,13,,
-8431KE,Rijweg,15,,
-8431KE,Rijweg,3,,
-8431KE,Rijweg,5,,
-8431KE,Rijweg,7,,
-8431KE,Rijweg,9,,
-8431KE,Rijweg,3,,TR01
-8431KG,Rijweg,19,,
-8431KG,Rijweg,37,,
-8431KG,Rijweg,39,,
-8431KG,Rijweg,43,,
-8431KG,Rijweg,19,,B001
-8431KG,Rijweg,19,,B002
-8431KG,Rijweg,19,,B003
-8431KG,Rijweg,19,,B004
-8431KG,Rijweg,19,,B005
-8431KG,Rijweg,21,,
-8431KG,Rijweg,21,A,
-8431KG,Rijweg,21,B,
-8431KG,Rijweg,23,,
-8431KG,Rijweg,23,A,
-8431KG,Rijweg,23,B,
-8431KG,Rijweg,25,,
-8431KG,Rijweg,25,A,
-8431KG,Rijweg,25,B,
-8431KG,Rijweg,27,,
-8431KG,Rijweg,27,A,
-8431KG,Rijweg,27,B,
-8431KG,Rijweg,29,,
-8431KG,Rijweg,29,A,
-8431KG,Rijweg,29,B,
-8431KG,Rijweg,31,,
-8431KG,Rijweg,31,A,
-8431KG,Rijweg,31,B,
-8431KG,Rijweg,41,,
-8431KH,Rijweg,43,,
-8431KH,Rijweg,45,,
-8431KH,Rijweg,47,,
-8431KH,Rijweg,49,,
-8431KH,Rijweg,51,,
-8431KH,Rijweg,53,,
-8431KH,Rijweg,55,,
-8431KH,Rijweg,57,,
-8431KH,Rijweg,59,,
-8431KH,Rijweg,61,,
-8431KH,Rijweg,63,,
-8431KH,Rijweg,65,,
-8431KH,Rijweg,67,,
-8431KH,Rijweg,69,,
-8431KK,Rijweg,101,,
-8431KK,Rijweg,103,,
-8431KK,Rijweg,105,,
-8431KK,Rijweg,107,,
-8431KK,Rijweg,109,,
-8431KK,Rijweg,111,,
-8431KK,Rijweg,113,,
-8431KK,Rijweg,115,,
-8431KK,Rijweg,117,,
-8431KK,Rijweg,119,,
-8431KK,Rijweg,121,,
-8431KK,Rijweg,123,,
-8431KK,Rijweg,99,,
-8431KK,Rijweg,99,B,
-8431KK,Rijweg,99,C,
-8431KK,Rijweg,99,D,
-8431KK,Rijweg,99,B,TR01
-8431KK,Rijweg,115,,TR01
-8431KL,Rijweg,18,,
-8431KL,Rijweg,20,,
-8431KL,Rijweg,22,,
-8431KV,Tussen de Hoven,1,,
-8431KV,Tussen de Hoven,11,,
-8431KV,Tussen de Hoven,13,,
-8431KV,Tussen de Hoven,15,,
-8431KV,Tussen de Hoven,17,,
-8431KV,Tussen de Hoven,19,,
-8431KV,Tussen de Hoven,25,,
-8431KV,Tussen de Hoven,27,,
-8431KV,Tussen de Hoven,3,,
-8431KV,Tussen de Hoven,5,,
-8431KV,Tussen de Hoven,7,,
-8431KV,Tussen de Hoven,9,,
-8431KV,Tussen de Hoven,2,A,
-8431KV,Tussen de Hoven,2,B,
-8431KV,Tussen de Hoven,2,C,
-8431KV,Tussen de Hoven,2,D,
-8431KW,Tussen de Hoven,10,,
-8431KW,Tussen de Hoven,12,,
-8431KW,Tussen de Hoven,14,,
-8431KW,Tussen de Hoven,16,,
-8431KW,Tussen de Hoven,18,,
-8431KW,Tussen de Hoven,2,,
-8431KW,Tussen de Hoven,20,,
-8431KW,Tussen de Hoven,22,,
-8431KW,Tussen de Hoven,24,,
-8431KW,Tussen de Hoven,26,,
-8431KW,Tussen de Hoven,4,,
-8431KW,Tussen de Hoven,6,,
-8431KW,Tussen de Hoven,8,,
-8431KW,Tussen de Hoven,2,A,
-8431KW,Tussen de Hoven,2,B,
-8431KW,Tussen de Hoven,2,C,
-8431KW,Tussen de Hoven,2,D,
-8431KH,Lindedijk,3,D,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rijweg,11,"","",8431KE,Oosterwolde
+Rijweg,13,"","",8431KE,Oosterwolde
+Het Hoge Stuk,14,"","",8431KE,Oosterwolde
+Rijweg,15,"","",8431KE,Oosterwolde
+Het Hoge Stuk,16,"","",8431KE,Oosterwolde
+Het Hoge Stuk,18,"","",8431KE,Oosterwolde
+Het Hoge Stuk,2,"","",8431KE,Oosterwolde
+Het Hoge Stuk,20,"","",8431KE,Oosterwolde
+Het Hoge Stuk,22,"","",8431KE,Oosterwolde
+Het Hoge Stuk,24,"","",8431KE,Oosterwolde
+Het Hoge Stuk,28,"","",8431KE,Oosterwolde
+Rijweg,3,"","",8431KE,Oosterwolde
+Rijweg,3,"",TR01,8431KE,Oosterwolde
+Het Hoge Stuk,30,"","",8431KE,Oosterwolde
+Het Hoge Stuk,32,"","",8431KE,Oosterwolde
+Het Hoge Stuk,34,"","",8431KE,Oosterwolde
+Het Hoge Stuk,36,"","",8431KE,Oosterwolde
+Het Hoge Stuk,38,"","",8431KE,Oosterwolde
+Het Hoge Stuk,4,"","",8431KE,Oosterwolde
+Het Hoge Stuk,40,"","",8431KE,Oosterwolde
+Het Hoge Stuk,42,"","",8431KE,Oosterwolde
+Rijweg,5,"","",8431KE,Oosterwolde
+Het Hoge Stuk,6,"","",8431KE,Oosterwolde
+Rijweg,7,"","",8431KE,Oosterwolde
+Rijweg,9,"","",8431KE,Oosterwolde
+Rijweg,19,"","",8431KG,Oosterwolde
+Rijweg,19,"",B001,8431KG,Oosterwolde
+Rijweg,19,"",B002,8431KG,Oosterwolde
+Rijweg,19,"",B003,8431KG,Oosterwolde
+Rijweg,19,"",B004,8431KG,Oosterwolde
+Rijweg,19,"",B005,8431KG,Oosterwolde
+Rijweg,21,"","",8431KG,Oosterwolde
+Rijweg,21,A,"",8431KG,Oosterwolde
+Rijweg,21,B,"",8431KG,Oosterwolde
+Rijweg,23,"","",8431KG,Oosterwolde
+Rijweg,23,A,"",8431KG,Oosterwolde
+Rijweg,23,B,"",8431KG,Oosterwolde
+Rijweg,25,"","",8431KG,Oosterwolde
+Rijweg,25,A,"",8431KG,Oosterwolde
+Rijweg,25,B,"",8431KG,Oosterwolde
+Rijweg,27,"","",8431KG,Oosterwolde
+Rijweg,27,A,"",8431KG,Oosterwolde
+Rijweg,27,B,"",8431KG,Oosterwolde
+Rijweg,29,"","",8431KG,Oosterwolde
+Rijweg,29,A,"",8431KG,Oosterwolde
+Rijweg,29,B,"",8431KG,Oosterwolde
+Rijweg,31,"","",8431KG,Oosterwolde
+Rijweg,31,A,"",8431KG,Oosterwolde
+Rijweg,31,B,"",8431KG,Oosterwolde
+Rijweg,37,"","",8431KG,Oosterwolde
+Rijweg,39,"","",8431KG,Oosterwolde
+Rijweg,41,"","",8431KG,Oosterwolde
+Rijweg,43,"","",8431KG,Oosterwolde
+Lindedijk,3,D,"",8431KH,Nijetrijne
+Rijweg,43,"","",8431KH,Oosterwolde
+Rijweg,45,"","",8431KH,Oosterwolde
+Rijweg,47,"","",8431KH,Oosterwolde
+Rijweg,49,"","",8431KH,Oosterwolde
+Rijweg,51,"","",8431KH,Oosterwolde
+Rijweg,53,"","",8431KH,Oosterwolde
+Rijweg,55,"","",8431KH,Oosterwolde
+Rijweg,57,"","",8431KH,Oosterwolde
+Rijweg,59,"","",8431KH,Oosterwolde
+Rijweg,61,"","",8431KH,Oosterwolde
+Rijweg,63,"","",8431KH,Oosterwolde
+Rijweg,65,"","",8431KH,Oosterwolde
+Rijweg,67,"","",8431KH,Oosterwolde
+Rijweg,69,"","",8431KH,Oosterwolde
+Rijweg,101,"","",8431KK,Oosterwolde
+Rijweg,103,"","",8431KK,Oosterwolde
+Rijweg,105,"","",8431KK,Oosterwolde
+Rijweg,107,"","",8431KK,Oosterwolde
+Rijweg,109,"","",8431KK,Oosterwolde
+Rijweg,111,"","",8431KK,Oosterwolde
+Rijweg,113,"","",8431KK,Oosterwolde
+Rijweg,115,"","",8431KK,Oosterwolde
+Rijweg,115,"",TR01,8431KK,Oosterwolde
+Rijweg,117,"","",8431KK,Oosterwolde
+Rijweg,119,"","",8431KK,Oosterwolde
+Rijweg,121,"","",8431KK,Oosterwolde
+Rijweg,123,"","",8431KK,Oosterwolde
+Rijweg,99,"","",8431KK,Oosterwolde
+Rijweg,99,B,"",8431KK,Oosterwolde
+Rijweg,99,B,TR01,8431KK,Oosterwolde
+Rijweg,99,C,"",8431KK,Oosterwolde
+Rijweg,99,D,"",8431KK,Oosterwolde
+Het Hoge Stuk,1,"","",8431KL,Oosterwolde
+Het Hoge Stuk,11,"","",8431KL,Oosterwolde
+Het Hoge Stuk,13,"","",8431KL,Oosterwolde
+Het Hoge Stuk,15,"","",8431KL,Oosterwolde
+Het Hoge Stuk,17,"","",8431KL,Oosterwolde
+Rijweg,18,"","",8431KL,Oosterwolde
+Het Hoge Stuk,19,"","",8431KL,Oosterwolde
+Rijweg,20,"","",8431KL,Oosterwolde
+Het Hoge Stuk,21,"","",8431KL,Oosterwolde
+Rijweg,22,"","",8431KL,Oosterwolde
+Het Hoge Stuk,23,"","",8431KL,Oosterwolde
+Het Hoge Stuk,25,"","",8431KL,Oosterwolde
+Het Hoge Stuk,27,"","",8431KL,Oosterwolde
+Het Hoge Stuk,29,"","",8431KL,Oosterwolde
+Het Hoge Stuk,3,"","",8431KL,Oosterwolde
+Het Hoge Stuk,31,"","",8431KL,Oosterwolde
+Het Hoge Stuk,33,"","",8431KL,Oosterwolde
+Het Hoge Stuk,35,"","",8431KL,Oosterwolde
+Het Hoge Stuk,37,"","",8431KL,Oosterwolde
+Het Hoge Stuk,39,"","",8431KL,Oosterwolde
+Het Hoge Stuk,41,"","",8431KL,Oosterwolde
+Het Hoge Stuk,43,"","",8431KL,Oosterwolde
+Het Hoge Stuk,45,"","",8431KL,Oosterwolde
+Het Hoge Stuk,47,"","",8431KL,Oosterwolde
+Het Hoge Stuk,49,"","",8431KL,Oosterwolde
+Het Hoge Stuk,5,"","",8431KL,Oosterwolde
+Het Hoge Stuk,7,"","",8431KL,Oosterwolde
+Het Hoge Stuk,9,"","",8431KL,Oosterwolde
+De Logten,1,"","",8431KR,Oosterwolde
+De Logten,10,"","",8431KR,Oosterwolde
+De Logten,11,"","",8431KR,Oosterwolde
+De Logten,12,"","",8431KR,Oosterwolde
+De Logten,13,"","",8431KR,Oosterwolde
+De Logten,14,"","",8431KR,Oosterwolde
+De Logten,15,"","",8431KR,Oosterwolde
+De Logten,16,"","",8431KR,Oosterwolde
+De Logten,17,"","",8431KR,Oosterwolde
+De Logten,18,"","",8431KR,Oosterwolde
+De Logten,19,"","",8431KR,Oosterwolde
+De Logten,2,"","",8431KR,Oosterwolde
+De Logten,20,"","",8431KR,Oosterwolde
+De Logten,22,"","",8431KR,Oosterwolde
+De Logten,24,"","",8431KR,Oosterwolde
+De Logten,26,"","",8431KR,Oosterwolde
+De Logten,3,"","",8431KR,Oosterwolde
+De Logten,4,"","",8431KR,Oosterwolde
+De Logten,5,"","",8431KR,Oosterwolde
+De Logten,6,"","",8431KR,Oosterwolde
+De Logten,7,"","",8431KR,Oosterwolde
+De Logten,8,"","",8431KR,Oosterwolde
+De Logten,9,"","",8431KR,Oosterwolde
+Poorthof,1,"","",8431KT,Oosterwolde
+Poorthof,10,"","",8431KT,Oosterwolde
+Poorthof,11,"","",8431KT,Oosterwolde
+Poorthof,12,"","",8431KT,Oosterwolde
+Poorthof,13,"","",8431KT,Oosterwolde
+Poorthof,14,"","",8431KT,Oosterwolde
+Poorthof,15,"","",8431KT,Oosterwolde
+Poorthof,16,"","",8431KT,Oosterwolde
+Poorthof,17,"","",8431KT,Oosterwolde
+Poorthof,18,"","",8431KT,Oosterwolde
+Poorthof,2,"","",8431KT,Oosterwolde
+Poorthof,3,"","",8431KT,Oosterwolde
+Poorthof,4,"","",8431KT,Oosterwolde
+Poorthof,5,"","",8431KT,Oosterwolde
+Poorthof,6,"","",8431KT,Oosterwolde
+Poorthof,7,"","",8431KT,Oosterwolde
+Poorthof,8,"","",8431KT,Oosterwolde
+Poorthof,9,"","",8431KT,Oosterwolde
+Tussen de Hoven,1,"","",8431KV,Oosterwolde
+Tussen de Hoven,11,"","",8431KV,Oosterwolde
+Tussen de Hoven,13,"","",8431KV,Oosterwolde
+Tussen de Hoven,15,"","",8431KV,Oosterwolde
+Tussen de Hoven,17,"","",8431KV,Oosterwolde
+Tussen de Hoven,19,"","",8431KV,Oosterwolde
+Tussen de Hoven,2,A,"",8431KV,Oosterwolde
+Tussen de Hoven,2,B,"",8431KV,Oosterwolde
+Tussen de Hoven,2,C,"",8431KV,Oosterwolde
+Tussen de Hoven,2,D,"",8431KV,Oosterwolde
+Tussen de Hoven,25,"","",8431KV,Oosterwolde
+Tussen de Hoven,27,"","",8431KV,Oosterwolde
+Tussen de Hoven,3,"","",8431KV,Oosterwolde
+Tussen de Hoven,5,"","",8431KV,Oosterwolde
+Tussen de Hoven,7,"","",8431KV,Oosterwolde
+Tussen de Hoven,9,"","",8431KV,Oosterwolde
+Tussen de Hoven,10,"","",8431KW,Oosterwolde
+Tussen de Hoven,12,"","",8431KW,Oosterwolde
+Tussen de Hoven,14,"","",8431KW,Oosterwolde
+Tussen de Hoven,16,"","",8431KW,Oosterwolde
+Tussen de Hoven,18,"","",8431KW,Oosterwolde
+Tussen de Hoven,2,"","",8431KW,Oosterwolde
+Tussen de Hoven,2,A,"",8431KW,Oosterwolde
+Tussen de Hoven,2,B,"",8431KW,Oosterwolde
+Tussen de Hoven,2,C,"",8431KW,Oosterwolde
+Tussen de Hoven,2,D,"",8431KW,Oosterwolde
+Tussen de Hoven,20,"","",8431KW,Oosterwolde
+Tussen de Hoven,22,"","",8431KW,Oosterwolde
+Tussen de Hoven,24,"","",8431KW,Oosterwolde
+Tussen de Hoven,26,"","",8431KW,Oosterwolde
+Tussen de Hoven,4,"","",8431KW,Oosterwolde
+Tussen de Hoven,6,"","",8431KW,Oosterwolde
+Tussen de Hoven,8,"","",8431KW,Oosterwolde
+Elsjeshof,1,"","",8431KX,Oosterwolde
+Elsjeshof,10,"","",8431KX,Oosterwolde
+Elsjeshof,11,"","",8431KX,Oosterwolde
+Elsjeshof,12,"","",8431KX,Oosterwolde
+Elsjeshof,2,"","",8431KX,Oosterwolde
+Elsjeshof,3,"","",8431KX,Oosterwolde
+Elsjeshof,4,"","",8431KX,Oosterwolde
+Elsjeshof,5,"","",8431KX,Oosterwolde
+Elsjeshof,6,"","",8431KX,Oosterwolde
+Elsjeshof,7,"","",8431KX,Oosterwolde
+Elsjeshof,8,"","",8431KX,Oosterwolde
+Elsjeshof,9,"","",8431KX,Oosterwolde
+Butjeskamp,1,"","",8431KZ,Oosterwolde
+Butjeskamp,1,"",TR01,8431KZ,Oosterwolde
+Butjeskamp,1,A,"",8431KZ,Oosterwolde
+Butjeskamp,1,A,"",8431KZ,Oosterwolde
+Butjeskamp,10,"","",8431KZ,Oosterwolde
+Butjeskamp,12,"","",8431KZ,Oosterwolde
+Butjeskamp,13,"","",8431KZ,Oosterwolde
+Butjeskamp,14,"","",8431KZ,Oosterwolde
+Butjeskamp,15,"","",8431KZ,Oosterwolde
+Butjeskamp,16,"","",8431KZ,Oosterwolde
+Butjeskamp,18,"","",8431KZ,Oosterwolde
+Butjeskamp,2,"","",8431KZ,Oosterwolde
+Butjeskamp,20,"","",8431KZ,Oosterwolde
+Butjeskamp,22,"","",8431KZ,Oosterwolde
+Butjeskamp,24,"","",8431KZ,Oosterwolde
+Butjeskamp,3,"","",8431KZ,Oosterwolde
+Butjeskamp,4,"","",8431KZ,Oosterwolde
+Butjeskamp,5,"","",8431KZ,Oosterwolde
+Butjeskamp,6,"","",8431KZ,Oosterwolde
+Butjeskamp,7,"","",8431KZ,Oosterwolde
+Butjeskamp,8,"","",8431KZ,Oosterwolde
+Prinsenstraat,1,"","",8431LA,Oosterwolde
+Prinsenstraat,1,"",ZO01,8431LA,Oosterwolde
+Prinsenstraat,11,"","",8431LA,Oosterwolde
+Prinsenstraat,13,"","",8431LA,Oosterwolde
+Prinsenstraat,3,"","",8431LA,Oosterwolde
+Prinsenstraat,5,"","",8431LA,Oosterwolde
+Prinsenstraat,7,"","",8431LA,Oosterwolde
+Prinsenstraat,9,"","",8431LA,Oosterwolde
+Prinsenstraat,10,"","",8431LB,Oosterwolde
+Prinsenstraat,12,"","",8431LB,Oosterwolde
+Prinsenstraat,14,"","",8431LB,Oosterwolde
+Prinsenstraat,16,"","",8431LB,Oosterwolde
+Prinsenstraat,18,"","",8431LB,Oosterwolde
+Prinsenstraat,2,"","",8431LB,Oosterwolde
+Prinsenstraat,20,"","",8431LB,Oosterwolde
+Prinsenstraat,22,"","",8431LB,Oosterwolde
+Prinsenstraat,24,"","",8431LB,Oosterwolde
+Prinsenstraat,26,"","",8431LB,Oosterwolde
+Prinsenstraat,28,"","",8431LB,Oosterwolde
+Prinsenstraat,30,"","",8431LB,Oosterwolde
+Prinsenstraat,32,"","",8431LB,Oosterwolde
+Prinsenstraat,34,"","",8431LB,Oosterwolde
+Prinsenstraat,36,"","",8431LB,Oosterwolde
+Prinsenstraat,38,"","",8431LB,Oosterwolde
+Prinsenstraat,4,"","",8431LB,Oosterwolde
+Prinsenstraat,40,"","",8431LB,Oosterwolde
+Prinsenstraat,42,"","",8431LB,Oosterwolde
+Prinsenstraat,44,"","",8431LB,Oosterwolde
+Prinsenstraat,6,"","",8431LB,Oosterwolde
+Prinsenstraat,8,"","",8431LB,Oosterwolde
+Brink,1,"","",8431LD,Oosterwolde
+Brink,1,"",100,8431LD,Oosterwolde
+Brink,1,"",101,8431LD,Oosterwolde
+Brink,1,"",102,8431LD,Oosterwolde
+Brink,1,"",103,8431LD,Oosterwolde
+Brink,1,"",104,8431LD,Oosterwolde
+Brink,1,"",105,8431LD,Oosterwolde
+Brink,1,"",106,8431LD,Oosterwolde
+Brink,1,"",108,8431LD,Oosterwolde
+Brink,1,"",111,8431LD,Oosterwolde
+Brink,1,"",112,8431LD,Oosterwolde
+Brink,1,"",113,8431LD,Oosterwolde
+Brink,1,"",114,8431LD,Oosterwolde
+Brink,1,"",120,8431LD,Oosterwolde
+Brink,1,"",121,8431LD,Oosterwolde
+Brink,1,"",122,8431LD,Oosterwolde
+Brink,1,"",123,8431LD,Oosterwolde
+Brink,1,"",127,8431LD,Oosterwolde
+Brink,1,"",130,8431LD,Oosterwolde
+Brink,1,"",131,8431LD,Oosterwolde
+Brink,1,"",132,8431LD,Oosterwolde
+Brink,10,"","",8431LD,Oosterwolde
+Brink,11,"","",8431LD,Oosterwolde
+Brink,12,"","",8431LD,Oosterwolde
+Brink,13,"","",8431LD,Oosterwolde
+Brink,14,"","",8431LD,Oosterwolde
+Brink,15,"","",8431LD,Oosterwolde
+Brink,16,"","",8431LD,Oosterwolde
+Brink,17,"","",8431LD,Oosterwolde
+Brink,18,"","",8431LD,Oosterwolde
+Brink,19,"","",8431LD,Oosterwolde
+Brink,20,"","",8431LD,Oosterwolde
+Brink,21,"","",8431LD,Oosterwolde
+Brink,22,"","",8431LD,Oosterwolde
+Brink,23,"","",8431LD,Oosterwolde
+Brink,24,"","",8431LD,Oosterwolde
+Brink,25,"","",8431LD,Oosterwolde
+Brink,26,"","",8431LD,Oosterwolde
+Brink,27,"","",8431LD,Oosterwolde
+Brink,29,"","",8431LD,Oosterwolde
+Brink,3,"","",8431LD,Oosterwolde
+Brink,3,A,"",8431LD,Oosterwolde
+Brink,31,"","",8431LD,Oosterwolde
+Brink,33,"","",8431LD,Oosterwolde
+Brink,35,"","",8431LD,Oosterwolde
+Brink,37,"","",8431LD,Oosterwolde
+Brink,39,"","",8431LD,Oosterwolde
+Brink,4,"","",8431LD,Oosterwolde
+Brink,4,"","",8431LD,Oosterwolde
+Brink,4,"","",8431LD,Oosterwolde
+Brink,4,A,"",8431LD,Oosterwolde
+Brink,4,B,"",8431LD,Oosterwolde
+Brink,4,C,"",8431LD,Oosterwolde
+Brink,4,D,"",8431LD,Oosterwolde
+Brink,4,E,"",8431LD,Oosterwolde
+Brink,41,"","",8431LD,Oosterwolde
+Brink,5,"","",8431LD,Oosterwolde
+Brink,6,"","",8431LD,Oosterwolde
+Brink,7,"","",8431LD,Oosterwolde
+Brink,8,"","",8431LD,Oosterwolde
+Brink,9,"","",8431LD,Oosterwolde
+'t Oost,10,"","",8431LJ,Oosterwolde
+'t Oost,12,"","",8431LJ,Oosterwolde
+'t Oost,14,"","",8431LJ,Oosterwolde
+'t Oost,16,"","",8431LJ,Oosterwolde
+'t Oost,18,"","",8431LJ,Oosterwolde
+'t Oost,20,"","",8431LJ,Oosterwolde
+'t Oost,22,"","",8431LJ,Oosterwolde
+'t Oost,24,"","",8431LJ,Oosterwolde
+'t Oost,24,A,"",8431LJ,Oosterwolde
+'t Oost,26,"","",8431LJ,Oosterwolde
+'t Oost,4,"","",8431LJ,Oosterwolde
+'t Oost,8,"","",8431LJ,Oosterwolde
+'t Oost,8,"","",8431LJ,Oosterwolde
+'t Oost,8,A,"",8431LJ,Oosterwolde
+'t Oost,8,B,"",8431LJ,Oosterwolde
+'t Oost,44,"","",8431LK,Oosterwolde
+'t Oost,46,"","",8431LK,Oosterwolde
+'t Oost,48,"","",8431LK,Oosterwolde
+'t Oost,50,"","",8431LK,Oosterwolde
+'t Oost,52,"","",8431LK,Oosterwolde
+'t Oost,56,"","",8431LK,Oosterwolde
+'t Oost,58,"","",8431LL,Oosterwolde
+'t Oost,60,"","",8431LL,Oosterwolde
+'t Oost,60,"","",8431LL,Oosterwolde
+'t Oost,60,"","",8431LL,Oosterwolde
+'t Oost,60,A,"",8431LL,Oosterwolde
+'t Oost,60,B,"",8431LL,Oosterwolde
+'t Oost,60,C,"",8431LL,Oosterwolde
+'t Oost,60,D,"",8431LL,Oosterwolde
+'t Oost,60,E,"",8431LL,Oosterwolde
+'t Oost,64,"","",8431LL,Oosterwolde
+'t Oost,66,"","",8431LL,Oosterwolde
+'t Oost,68,"","",8431LL,Oosterwolde
+'t Oost,70,"","",8431LL,Oosterwolde
+Oostenburg,1,"","",8431NK,Oosterwolde
+Oostenburg,10,"","",8431NK,Oosterwolde
+Oostenburg,11,"","",8431NK,Oosterwolde
+Oostenburg,12,"","",8431NK,Oosterwolde
+Oostenburg,13,"","",8431NK,Oosterwolde
+Oostenburg,14,"","",8431NK,Oosterwolde
+Oostenburg,15,"","",8431NK,Oosterwolde
+Oostenburg,16,"","",8431NK,Oosterwolde
+Oostenburg,17,"","",8431NK,Oosterwolde
+Oostenburg,18,"","",8431NK,Oosterwolde
+Oostenburg,19,"","",8431NK,Oosterwolde
+Oostenburg,20,"","",8431NK,Oosterwolde
+Oostenburg,21,"","",8431NK,Oosterwolde
+Oostenburg,22,"","",8431NK,Oosterwolde
+Oostenburg,23,"","",8431NK,Oosterwolde
+Oostenburg,24,"","",8431NK,Oosterwolde
+Oostenburg,25,"","",8431NK,Oosterwolde
+Oostenburg,3,"","",8431NK,Oosterwolde
+Oostenburg,4,"","",8431NK,Oosterwolde
+Oostenburg,5,"","",8431NK,Oosterwolde
+Oostenburg,6,"","",8431NK,Oosterwolde
+Oostenburg,7,"","",8431NK,Oosterwolde
+Oostenburg,7,"","",8431NK,Oosterwolde
+Oostenburg,8,"","",8431NK,Oosterwolde
+Oostenburg,8,"","",8431NK,Oosterwolde
+Oostenburg,9,"","",8431NK,Oosterwolde
+Oostenburg,9,"","",8431NK,Oosterwolde
+Oostenburg,27,"","",8431NL,Oosterwolde
+Oostenburg,28,"","",8431NL,Oosterwolde
+Oostenburg,29,"","",8431NL,Oosterwolde
+Oostenburg,30,"","",8431NL,Oosterwolde
+Oostenburg,31,"","",8431NL,Oosterwolde
+Oostenburg,32,"","",8431NL,Oosterwolde
+Oostenburg,33,"","",8431NL,Oosterwolde
+Oostenburg,34,"","",8431NL,Oosterwolde
+Oostenburg,35,"","",8431NL,Oosterwolde
+Oostenburg,36,"","",8431NL,Oosterwolde
+Oostenburg,37,"","",8431NL,Oosterwolde
+Oostenburg,38,"","",8431NL,Oosterwolde
+Oostenburg,39,"","",8431NL,Oosterwolde
+Oostenburg,40,"","",8431NL,Oosterwolde
+Oostenburg,41,"","",8431NL,Oosterwolde
+Oostenburg,42,"","",8431NL,Oosterwolde
+Oostenburg,43,"","",8431NL,Oosterwolde
+Oostenburg,44,"","",8431NL,Oosterwolde
+Oostenburg,45,"","",8431NL,Oosterwolde
+Oostenburg,46,"","",8431NL,Oosterwolde
+Oostenburg,47,"","",8431NL,Oosterwolde
+Oostenburg,48,"","",8431NL,Oosterwolde
+Oostenburg,49,"","",8431NL,Oosterwolde
+Oosterbrink,1,"","",8431RA,Oosterwolde
+Oosterbrink,10,"","",8431RA,Oosterwolde
+Oosterbrink,11,"","",8431RA,Oosterwolde
+Oosterbrink,12,"","",8431RA,Oosterwolde
+Oosterbrink,13,"","",8431RA,Oosterwolde
+Oosterbrink,14,"","",8431RA,Oosterwolde
+Oosterbrink,15,"","",8431RA,Oosterwolde
+Oosterbrink,17,"","",8431RA,Oosterwolde
+Oosterbrink,19,"","",8431RA,Oosterwolde
+Oosterbrink,2,"","",8431RA,Oosterwolde
+Oosterbrink,21,"","",8431RA,Oosterwolde
+Oosterbrink,3,"","",8431RA,Oosterwolde
+Oosterbrink,4,"","",8431RA,Oosterwolde
+Oosterbrink,5,"","",8431RA,Oosterwolde
+Oosterbrink,6,"","",8431RA,Oosterwolde
+Oosterbrink,7,"","",8431RA,Oosterwolde
+Oosterbrink,8,"","",8431RA,Oosterwolde
+Oosterbrink,9,"","",8431RA,Oosterwolde
+Oosterbrink,9,A,"",8431RA,Oosterwolde
+Oosterbrink,9,B,"",8431RA,Oosterwolde
+Oosterbrink,9,C,"",8431RA,Oosterwolde
+Oosterbrink,9,D,"",8431RA,Oosterwolde

@@ -1,20 +1,20 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1272JJ,Blaricummerstraat,32,,
-1272ET,Crailoseweg,117,,
-1272JD,Lage Laarderweg,106,,
-1272JD,Lage Laarderweg,110,,
-1272JD,Lage Laarderweg,102,,
-1272JD,Lage Laarderweg,100,,
-1272JD,Lage Laarderweg,92,,
-1272JJ,Blaricummerstraat,34,,
-1272ES,Crailoseweg,61,,
-1272ET,Crailoseweg,115,,
-1272ET,Crailoseweg,119,,
-1272JD,Lage Laarderweg,94,,
-1272JD,Lage Laarderweg,104,,
-1272JD,Lage Laarderweg,108,,
-1272JD,Lage Laarderweg,90,,
-1272JD,Lage Laarderweg,104,a,
-1272JD,Oude Blaricummerweg,1,,
-1272JD,Lage Laarderweg,104,a,
-1272DE,Weg door Parrewijn,12,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Weg door Parrewijn,12,"","",1272DE,Huizen
+Crailoseweg,61,"","",1272ES,Huizen
+Crailoseweg,115,"","",1272ET,Huizen
+Crailoseweg,117,"","",1272ET,Huizen
+Crailoseweg,119,"","",1272ET,Huizen
+Oude Blaricummerweg,1,"","",1272JD,Huizen
+Lage Laarderweg,100,"","",1272JD,Huizen
+Lage Laarderweg,102,"","",1272JD,Huizen
+Lage Laarderweg,104,"","",1272JD,Huizen
+Lage Laarderweg,104,A,"",1272JD,Huizen
+Lage Laarderweg,104,A,"",1272JD,Huizen
+Lage Laarderweg,106,"","",1272JD,Huizen
+Lage Laarderweg,108,"","",1272JD,Huizen
+Lage Laarderweg,110,"","",1272JD,Huizen
+Lage Laarderweg,90,"","",1272JD,Huizen
+Lage Laarderweg,92,"","",1272JD,Huizen
+Lage Laarderweg,94,"","",1272JD,Huizen
+Blaricummerstraat,32,"","",1272JJ,Huizen
+Blaricummerstraat,34,"","",1272JJ,Huizen

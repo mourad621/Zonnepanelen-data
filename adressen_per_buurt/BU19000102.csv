@@ -1,1315 +1,617 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8601DA",1,"",""
-"8601EN",36,"",""
-"8601EN",37,"",""
-"8601EN",31,"",""
-"8601EN",42,"",""
-"8601EN",35,"",""
-"8601EN",39,"",""
-"8601EN",38,"",""
-"8601EN",34,"","1"
-"8601EN",42,"","2"
-"8601EN",34,"","2"
-"8601EN",42,"","1"
-"8601EN",41,"",""
-"8601EN",34,"","1"
-"8601EN",34,"","2"
-"8601EN",32,"",""
-"8601EN",40,"",""
-"8601EN",33,"",""
-"8601EP",52,"",""
-"8601EP",45,"",""
-"8601EP",51,"",""
-"8601EP",44,"",""
-"8601EP",56,"",""
-"8601EP",70,"",""
-"8601EP",46,"",""
-"8601EP",69,"",""
-"8601EP",59,"",""
-"8601EP",47,"",""
-"8601EP",55,"",""
-"8601EP",58,"",""
-"8601EP",62,"",""
-"8601EP",57,"",""
-"8601EP",64,"",""
-"8601EP",68,"",""
-"8601EP",63,"",""
-"8601EP",61,"",""
-"8601ER",12,"","012"
-"8601ER",12,"","009"
-"8601ER",12,"","005"
-"8601ER",12,"","006"
-"8601ER",10,"",""
-"8601ER",12,"","001"
-"8601ER",12,"","007"
-"8601ER",21,"",""
-"8601ER",12,"","003"
-"8601ER",12,"","002"
-"8601ER",12,"","008"
-"8601ER",7,"",""
-"8601ER",19,"",""
-"8601ER",19,"",""
-"8601ER",16,"",""
-"8601ER",12,"","011"
-"8601ER",22,"",""
-"8601ER",12,"","014"
-"8601ER",8,"",""
-"8601ER",12,"","013"
-"8601ER",12,"","016"
-"8601ER",12,"","015"
-"8601ER",45,"",""
-"8601ER",20,"",""
-"8601ER",12,"","010"
-"8601ER",9,"",""
-"8601ER",3,"",""
-"8601ER",3,"a",""
-"8601ER",46,"",""
-"8601ER",4,"",""
-"8601ER",15,"",""
-"8601ER",6,"",""
-"8601ER",5,"",""
-"8601ER",12,"","004"
-"8601ES",47,"",""
-"8601ES",49,"",""
-"8601ES",56,"",""
-"8601ES",51,"",""
-"8601ES",61,"",""
-"8601ES",53,"",""
-"8601ES",54,"",""
-"8601ES",48,"",""
-"8601ES",61,"",""
-"8601ES",50,"",""
-"8601ES",52,"",""
-"8601ET",1,"a",""
-"8601ET",6,"",""
-"8601ET",7,"",""
-"8601ET",4,"","1"
-"8601ET",2,"b",""
-"8601ET",5,"",""
-"8601ET",2,"a",""
-"8601ET",2,"",""
-"8601ET",4,"","1"
-"8601ET",10,"",""
-"8601ET",8,"",""
-"8601ET",11,"",""
-"8601ET",2,"c",""
-"8601ET",4,"",""
-"8601ET",2,"d",""
-"8601ET",3,"",""
-"8601EV",11,"",""
-"8601EV",5,"","9"
-"8601EV",5,"","8"
-"8601EV",5,"","3"
-"8601EV",10,"",""
-"8601EV",12,"",""
-"8601EV",5,"","5"
-"8601EV",5,"","5"
-"8601EV",5,"","16"
-"8601EV",5,"","9"
-"8601EV",5,"","20"
-"8601EV",5,"","3"
-"8601EV",9,"",""
-"8601EV",5,"","7"
-"8601EV",5,"","4"
-"8601EV",5,"","6"
-"8601EV",5,"","19"
-"8601EV",5,"","12"
-"8601EV",5,"","8"
-"8601EV",5,"","4"
-"8601EV",5,"","1"
-"8601EV",5,"","6"
-"8601EV",5,"","7"
-"8601EV",5,"","10"
-"8601EV",5,"","2"
-"8601EV",5,"","2"
-"8601EV",5,"","21"
-"8601EV",5,"","15"
-"8601EV",5,"","11"
-"8601EV",5,"","13"
-"8601EV",5,"","11"
-"8601EV",1,"",""
-"8601EV",2,"",""
-"8601EV",5,"","19"
-"8601EV",8,"",""
-"8601EV",5,"","16"
-"8601EV",5,"","15"
-"8601EV",5,"","14"
-"8601EV",5,"","12"
-"8601EV",5,"","13"
-"8601EV",5,"","20"
-"8601EV",5,"","17"
-"8601EV",5,"","1"
-"8601EV",5,"","17"
-"8601EV",5,"",""
-"8601EV",5,"","21"
-"8601EV",5,"","14"
-"8601EV",2,"",""
-"8601EV",5,"","18"
-"8601EV",1,"",""
-"8601EV",5,"","10"
-"8601EV",5,"","18"
-"8601EW",12,"",""
-"8601EW",2,"",""
-"8601EW",14,"",""
-"8601EW",6,"",""
-"8601EW",8,"",""
-"8601EW",5,"",""
-"8601EW",10,"",""
-"8601EW",1,"",""
-"8601EW",4,"",""
-"8601EW",16,"",""
-"8601EW",20,"",""
-"8601EX",6,"",""
-"8601EX",3,"",""
-"8601EX",5,"",""
-"8601EX",1,"",""
-"8601EX",5,"",""
-"8601EX",6,"",""
-"8601GA",3,"",""
-"8601GA",8,"",""
-"8601GA",4,"",""
-"8601GA",5,"",""
-"8601GA",9,"",""
-"8601GA",10,"",""
-"8601GA",7,"",""
-"8601GB",9,"",""
-"8601GB",13,"",""
-"8601GB",1,"",""
-"8601GB",1,"a",""
-"8601GB",11,"",""
-"8601GB",3,"",""
-"8601GB",5,"",""
-"8601GB",5,"",""
-"8601GB",7,"",""
-"8601GC",23,"",""
-"8601GC",19,"",""
-"8601GC",15,"",""
-"8601GC",17,"",""
-"8601GC",27,"",""
-"8601GC",25,"",""
-"8601GC",25,"",""
-"8601GC",21,"",""
-"8601GD",4,"",""
-"8601GD",16,"",""
-"8601GD",2,"",""
-"8601GD",16,"a",""
-"8601GD",10,"",""
-"8601GD",8,"",""
-"8601GD",14,"",""
-"8601GD",16,"B",""
-"8601GE",30,"",""
-"8601GE",34,"",""
-"8601GE",32,"",""
-"8601GE",30,"",""
-"8601GE",42,"",""
-"8601GE",40,"",""
-"8601GE",26,"",""
-"8601GE",22,"",""
-"8601GE",28,"",""
-"8601GE",36,"",""
-"8601GE",20,"",""
-"8601GE",38,"",""
-"8601GE",28,"",""
-"8601GE",18,"",""
-"8601GE",24,"",""
-"8601GG",58,"",""
-"8601GG",50,"",""
-"8601GG",66,"",""
-"8601GG",46,"",""
-"8601GG",44,"",""
-"8601GG",64,"",""
-"8601GG",48,"",""
-"8601GG",52,"",""
-"8601GG",64,"",""
-"8601GG",54,"",""
-"8601GG",60,"",""
-"8601GG",66,"",""
-"8601GH",5,"",""
-"8601GH",7,"",""
-"8601GH",15,"",""
-"8601GH",1,"A",""
-"8601GH",10,"",""
-"8601GH",1,"","003"
-"8601GH",1,"","001"
-"8601GH",12,"",""
-"8601GH",10,"",""
-"8601GH",24,"",""
-"8601GH",2,"a",""
-"8601GH",14,"",""
-"8601GH",20,"",""
-"8601GH",9,"",""
-"8601GH",3,"",""
-"8601GH",11,"",""
-"8601GH",1,"","001"
-"8601GH",13,"",""
-"8601GH",2,"",""
-"8601GH",28,"",""
-"8601GH",26,"",""
-"8601GH",1,"",""
-"8601GH",30,"",""
-"8601GH",22,"",""
-"8601GH",16,"",""
-"8601GH",18,"",""
-"8601GH",21,"",""
-"8601GH",17,"",""
-"8601GJ",13,"",""
-"8601GJ",10,"",""
-"8601GJ",15,"",""
-"8601GJ",7,"",""
-"8601GJ",12,"",""
-"8601GJ",17,"",""
-"8601GJ",4,"",""
-"8601GJ",8,"",""
-"8601GJ",17,"",""
-"8601GJ",9,"",""
-"8601GJ",16,"",""
-"8601GJ",2,"",""
-"8601GJ",3,"",""
-"8601GJ",7,"",""
-"8601GJ",8,"",""
-"8601GJ",5,"",""
-"8601GJ",1,"",""
-"8601GK",1,"",""
-"8601GK",9,"",""
-"8601GK",35,"",""
-"8601GK",19,"",""
-"8601GK",5,"",""
-"8601GK",13,"",""
-"8601GK",15,"",""
-"8601GK",7,"",""
-"8601GK",29,"",""
-"8601GK",11,"",""
-"8601GK",21,"",""
-"8601GK",23,"",""
-"8601GK",33,"",""
-"8601GK",3,"",""
-"8601GL",4,"",""
-"8601GL",2,"",""
-"8601GL",18,"",""
-"8601GL",26,"",""
-"8601GL",22,"",""
-"8601GL",24,"",""
-"8601GL",10,"",""
-"8601GL",12,"",""
-"8601GL",20,"",""
-"8601GL",28,"",""
-"8601GL",50,"",""
-"8601GL",30,"",""
-"8601GL",32,"",""
-"8601GL",44,"",""
-"8601GL",48,"",""
-"8601GL",34,"",""
-"8601GL",16,"",""
-"8601GL",46,"",""
-"8601GL",42,"",""
-"8601GL",40,"",""
-"8601GL",36,"",""
-"8601GL",14,"",""
-"8601GL",8,"",""
-"8601GL",38,"",""
-"8601GL",6,"",""
-"8601GM",19,"",""
-"8601GM",19,"",""
-"8601GM",19,"","2"
-"8601GM",18,"",""
-"8601GM",17,"b",""
-"8601GM",19,"","1"
-"8601GM",14,"",""
-"8601GM",19,"","2"
-"8601GM",15,"",""
-"8601GM",16,"",""
-"8601GM",10,"",""
-"8601GM",19,"","1"
-"8601GM",17,"a",""
-"8601GM",5,"",""
-"8601GM",8,"",""
-"8601GM",4,"",""
-"8601GM",6,"",""
-"8601GM",17,"",""
-"8601GM",9,"",""
-"8601GM",12,"",""
-"8601GM",13,"",""
-"8601GN",1,"",""
-"8601GN",1,"",""
-"8601GN",5,"",""
-"8601GN",7,"",""
-"8601GN",3,"",""
-"8601GP",34,"",""
-"8601GP",33,"",""
-"8601GP",31,"",""
-"8601GP",38,"",""
-"8601GP",32,"",""
-"8601GP",41,"",""
-"8601GP",28,"",""
-"8601GP",40,"",""
-"8601GP",36,"",""
-"8601GP",26,"",""
-"8601GP",8,"",""
-"8601GP",5,"",""
-"8601GP",3,"",""
-"8601GP",39,"",""
-"8601GP",30,"",""
-"8601GP",69,"",""
-"8601GP",6,"",""
-"8601GP",42,"",""
-"8601GP",29,"",""
-"8601GP",63,"",""
-"8601GP",43,"",""
-"8601GP",47,"",""
-"8601GP",35,"",""
-"8601GP",45,"",""
-"8601GP",49,"",""
-"8601GP",18,"",""
-"8601GP",71,"",""
-"8601GP",37,"",""
-"8601GP",19,"",""
-"8601GP",24,"",""
-"8601GP",73,"",""
-"8601GP",46,"",""
-"8601GP",51,"",""
-"8601GP",67,"",""
-"8601GP",22,"",""
-"8601GP",10,"",""
-"8601GP",20,"",""
-"8601GP",73,"",""
-"8601GP",53,"",""
-"8601GP",44,"",""
-"8601GP",63,"",""
-"8601GP",4,"",""
-"8601GP",71,"",""
-"8601GR",27,"",""
-"8601GR",28,"",""
-"8601GR",30,"",""
-"8601GR",28,"",""
-"8601GS",14,"",""
-"8601GS",6,"",""
-"8601GS",20,"",""
-"8601GS",2,"",""
-"8601GS",1,"",""
-"8601GS",18,"",""
-"8601GS",22,"",""
-"8601GS",10,"",""
-"8601GS",16,"",""
-"8601GS",6,"","1"
-"8601GS",12,"",""
-"8601GS",8,"",""
-"8601GV",1,"",""
-"8601GV",8,"",""
-"8601GV",13,"",""
-"8601GV",11,"",""
-"8601GV",15,"",""
-"8601GV",14,"",""
-"8601GW",49,"",""
-"8601GW",5,"",""
-"8601GW",43,"",""
-"8601GW",13,"",""
-"8601GW",1,"a",""
-"8601GW",45,"",""
-"8601GW",7,"",""
-"8601GW",9,"",""
-"8601GW",17,"",""
-"8601GW",23,"",""
-"8601GW",2,"",""
-"8601GW",47,"",""
-"8601GW",11,"",""
-"8601GW",1,"",""
-"8601GW",21,"",""
-"8601GW",3,"",""
-"8601GW",25,"",""
-"8601GW",15,"",""
-"8601GW",33,"",""
-"8601GW",39,"",""
-"8601GW",35,"",""
-"8601GW",29,"",""
-"8601GW",27,"",""
-"8601GW",41,"",""
-"8601GW",19,"",""
-"8601GW",31,"",""
-"8601GX",38,"",""
-"8601GX",28,"",""
-"8601GX",40,"",""
-"8601GX",44,"",""
-"8601GX",42,"",""
-"8601GX",46,"",""
-"8601GX",24,"",""
-"8601GX",36,"",""
-"8601GX",52,"",""
-"8601GX",32,"",""
-"8601GX",48,"",""
-"8601GX",54,"",""
-"8601GX",58,"",""
-"8601GX",50,"",""
-"8601GX",26,"",""
-"8601GX",34,"",""
-"8601GX",56,"",""
-"8601GX",60,"",""
-"8601GX",30,"",""
-"8601GZ",57,"",""
-"8601GZ",67,"",""
-"8601GZ",65,"",""
-"8601GZ",55,"",""
-"8601GZ",63,"",""
-"8601GZ",53,"",""
-"8601GZ",81,"",""
-"8601GZ",79,"",""
-"8601GZ",61,"",""
-"8601GZ",51,"",""
-"8601GZ",59,"",""
-"8601GZ",77,"",""
-"8601GZ",73,"",""
-"8601GZ",69,"",""
-"8601GZ",75,"",""
-"8601GZ",71,"",""
-"8601HA",15,"",""
-"8601HA",37,"",""
-"8601HA",19,"",""
-"8601HA",3,"",""
-"8601HA",17,"",""
-"8601HA",23,"",""
-"8601HA",9,"",""
-"8601HA",29,"",""
-"8601HA",35,"",""
-"8601HA",13,"",""
-"8601HA",5,"",""
-"8601HA",31,"",""
-"8601HA",21,"",""
-"8601HA",1,"",""
-"8601HA",7,"",""
-"8601HA",27,"",""
-"8601HA",25,"",""
-"8601HA",11,"",""
-"8601HA",33,"",""
-"8601HB",55,"",""
-"8601HB",69,"",""
-"8601HB",41,"",""
-"8601HB",53,"",""
-"8601HB",67,"",""
-"8601HB",71,"",""
-"8601HB",65,"",""
-"8601HB",51,"",""
-"8601HB",63,"",""
-"8601HB",57,"",""
-"8601HB",43,"",""
-"8601HB",45,"",""
-"8601HB",47,"",""
-"8601HB",49,"",""
-"8601HB",59,"",""
-"8601HB",39,"",""
-"8601HB",61,"",""
-"8601HC",4,"",""
-"8601HC",8,"",""
-"8601HC",22,"",""
-"8601HC",20,"",""
-"8601HC",6,"",""
-"8601HC",12,"",""
-"8601HC",14,"",""
-"8601HC",16,"",""
-"8601HC",10,"",""
-"8601HC",2,"",""
-"8601HC",18,"",""
-"8601HE",1,"",""
-"8601HE",6,"",""
-"8601HE",4,"",""
-"8601HE",3,"",""
-"8601HE",7,"",""
-"8601HE",2,"",""
-"8601HE",5,"",""
-"8601HG",2,"","1"
-"8601HG",7,"",""
-"8601HG",7,"",""
-"8601HG",2,"",""
-"8601HH",14,"",""
-"8601HH",26,"",""
-"8601HH",22,"",""
-"8601HH",18,"",""
-"8601HH",8,"",""
-"8601HH",16,"",""
-"8601HH",4,"",""
-"8601HH",6,"",""
-"8601HH",12,"",""
-"8601HH",20,"",""
-"8601HH",2,"",""
-"8601HH",24,"",""
-"8601HH",10,"",""
-"8601HJ",5,"","2"
-"8601HJ",27,"",""
-"8601HJ",21,"",""
-"8601HJ",19,"",""
-"8601HJ",23,"",""
-"8601HJ",26,"",""
-"8601HJ",20,"",""
-"8601HJ",22,"",""
-"8601HJ",25,"",""
-"8601HJ",5,"","3"
-"8601HJ",15,"",""
-"8601HJ",24,"",""
-"8601HJ",2,"",""
-"8601HJ",18,"",""
-"8601HJ",14,"",""
-"8601HJ",16,"",""
-"8601HJ",2,"","002"
-"8601HJ",17,"",""
-"8601HK",43,"",""
-"8601HK",28,"",""
-"8601HK",46,"",""
-"8601HK",37,"",""
-"8601HK",34,"",""
-"8601HK",41,"",""
-"8601HK",50,"",""
-"8601HK",47,"",""
-"8601HK",32,"",""
-"8601HK",48,"",""
-"8601HK",51,"",""
-"8601HK",35,"",""
-"8601HK",33,"",""
-"8601HK",30,"",""
-"8601HK",38,"",""
-"8601HK",40,"",""
-"8601HK",44,"",""
-"8601HK",39,"",""
-"8601HK",45,"",""
-"8601HK",49,"",""
-"8601HK",52,"",""
-"8601HL",3,"",""
-"8601HL",3,"a",""
-"8601HL",5,"a",""
-"8601HL",4,"",""
-"8601HL",4,"a",""
-"8601HL",5,"",""
-"8601HL",2,"a",""
-"8601HL",1,"",""
-"8601HL",2,"",""
-"8601HL",1,"a",""
-"8603XX",17,"",""
-"8603XX",25,"",""
-"8603XX",19,"",""
-"8603XX",41,"g",""
-"8603XX",14,"",""
-"8603XX",39,"",""
-"8603XX",37,"",""
-"8603XX",29,"",""
-"8603XX",27,"",""
-"8603XX",21,"",""
-"8603XX",23,"",""
-"8603XX",41,"f",""
-"8603XX",35,"",""
-"8603XX",41,"",""
-"8603XX",11,"",""
-"8603XX",41,"a",""
-"8603XX",31,"",""
-"8603XX",2,"",""
-"8603XX",8,"",""
-"8603XX",15,"",""
-"8603XX",13,"",""
-"8603XX",5,"",""
-"8603XX",33,"",""
-"8603XX",6,"",""
-"8603XX",4,"",""
-"8603XX",41,"d",""
-"8603XX",41,"c",""
-"8603XX",12,"",""
-"8603XX",9,"",""
-"8603XX",3,"",""
-"8603XX",7,"",""
-"8603XX",1,"",""
-"8603XX",41,"e",""
-"8603XX",10,"",""
-"8603XX",41,"b",""
-8601EN,Westersingel,34,,1
-8601EN,Westersingel,42,,1
-8601EN,Westersingel,34,,2
-8601EN,Westersingel,42,,2
-8601EP,Westersingel,68,,
-8601EP,Westersingel,69,,
-8601EP,Westersingel,64,,
-8601EP,Westersingel,57,,
-8601EP,Westersingel,58,,
-8601EP,Westersingel,55,,
-8601EP,Westersingel,56,,
-8601EP,Westersingel,61,,
-8601EP,Westersingel,62,,
-8601ER,Geeuwkade,12,,016
-8601ER,Geeuwkade,12,,015
-8601ER,Geeuwkade,12,,014
-8601ER,Geeuwkade,12,,013
-8601ER,Geeuwkade,12,,012
-8601ER,Geeuwkade,12,,011
-8601ER,Geeuwkade,12,,010
-8601ER,Geeuwkade,12,,009
-8601ER,Geeuwkade,12,,008
-8601ER,Geeuwkade,12,,007
-8601ER,Geeuwkade,12,,006
-8601ER,Geeuwkade,12,,005
-8601ER,Geeuwkade,12,,004
-8601ER,Geeuwkade,12,,003
-8601ER,Geeuwkade,12,,002
-8601ER,Geeuwkade,12,,001
-8601ER,Geeuwkade,5,,
-8601ER,Geeuwkade,6,,
-8601ER,Geeuwkade,7,,
-8601ER,Geeuwkade,8,,
-8601ER,Geeuwkade,9,,
-8601ER,Geeuwkade,10,,
-8601ES,Geeuwkade,51,,
-8601ET,Lange Veemarktstraat,4,,1
-8601EV,Korte Veemarktstraat,5,,1
-8601EV,Korte Veemarktstraat,5,,1
-8601EV,Korte Veemarktstraat,5,,2
-8601EV,Korte Veemarktstraat,5,,2
-8601EV,Korte Veemarktstraat,5,,3
-8601EV,Korte Veemarktstraat,5,,3
-8601EV,Korte Veemarktstraat,5,,4
-8601EV,Korte Veemarktstraat,5,,4
-8601EV,Korte Veemarktstraat,5,,5
-8601EV,Korte Veemarktstraat,5,,5
-8601EV,Korte Veemarktstraat,5,,6
-8601EV,Korte Veemarktstraat,5,,6
-8601EV,Korte Veemarktstraat,5,,7
-8601EV,Korte Veemarktstraat,5,,7
-8601EV,Korte Veemarktstraat,5,,8
-8601EV,Korte Veemarktstraat,5,,8
-8601EV,Korte Veemarktstraat,5,,9
-8601EV,Korte Veemarktstraat,5,,9
-8601EV,Korte Veemarktstraat,5,,10
-8601EV,Korte Veemarktstraat,5,,10
-8601EV,Korte Veemarktstraat,5,,11
-8601EV,Korte Veemarktstraat,5,,11
-8601EV,Korte Veemarktstraat,5,,12
-8601EV,Korte Veemarktstraat,5,,12
-8601EV,Korte Veemarktstraat,5,,13
-8601EV,Korte Veemarktstraat,5,,13
-8601EV,Korte Veemarktstraat,5,,14
-8601EV,Korte Veemarktstraat,5,,14
-8601EV,Korte Veemarktstraat,5,,15
-8601EV,Korte Veemarktstraat,5,,15
-8601EV,Korte Veemarktstraat,5,,16
-8601EV,Korte Veemarktstraat,5,,16
-8601EV,Korte Veemarktstraat,5,,18
-8601EV,Korte Veemarktstraat,5,,18
-8601EV,Korte Veemarktstraat,5,,19
-8601EV,Korte Veemarktstraat,5,,19
-8601EV,Korte Veemarktstraat,5,,20
-8601EV,Korte Veemarktstraat,5,,20
-8601EV,Korte Veemarktstraat,5,,21
-8601EV,Korte Veemarktstraat,5,,21
-8601EV,Korte Veemarktstraat,5,,
-8601EV,Korte Veemarktstraat,5,,17
-8601EV,Korte Veemarktstraat,5,,17
-8601EV,Korte Veemarktstraat,1,,
-8601EV,Korte Veemarktstraat,2,,
-8601EV,Korte Veemarktstraat,8,,
-8601EV,Korte Veemarktstraat,11,,
-8601EV,Korte Veemarktstraat,12,,
-8601EV,Korte Veemarktstraat,9,,
-8601EV,Korte Veemarktstraat,10,,
-8601GA,Kanaalstraat,5,,
-8601GH,Willemstraat,1,,001
-8601GH,Willemstraat,1,,003
-8601GH,Willemstraat,1,A,
-8601GH,Willemstraat,5,,
-8601GJ,Prinses Julianapark,17,,
-8601GK,Emmastraat,29,,
-8601GM,Dr. Boumaweg,19,,1
-8601GM,Dr. Boumaweg,19,,2
-8601GP,Julianastraat,71,,
-8601GP,Julianastraat,71,,
-8601GP,Julianastraat,19,,
-8601GP,Julianastraat,29,,
-8601GP,Julianastraat,31,,
-8601GP,Julianastraat,33,,
-8601GP,Julianastraat,35,,
-8601GP,Julianastraat,37,,
-8601GP,Julianastraat,39,,
-8601GP,Julianastraat,41,,
-8601GP,Julianastraat,43,,
-8601GP,Julianastraat,45,,
-8601GP,Julianastraat,47,,
-8601GP,Julianastraat,49,,
-8601GP,Julianastraat,51,,
-8601GP,Julianastraat,53,,
-8601GP,Julianastraat,73,,
-8601GP,Julianastraat,73,,
-8601GS,Parkstraat,6,,1
-8601GS,Parkstraat,20,,
-8601GS,Parkstraat,22,,
-8601GX,Parkstraat,38,,
-8601GX,Parkstraat,40,,
-8601GX,Parkstraat,42,,
-8601GX,Parkstraat,44,,
-8601GX,Parkstraat,46,,
-8601GX,Parkstraat,48,,
-8601GX,Parkstraat,50,,
-8601GX,Parkstraat,52,,
-8601GX,Parkstraat,54,,
-8601GX,Parkstraat,56,,
-8601GX,Parkstraat,58,,
-8601GX,Parkstraat,60,,
-8601GX,Parkstraat,24,,
-8601GX,Parkstraat,26,,
-8601GX,Parkstraat,28,,
-8601GX,Parkstraat,30,,
-8601GX,Parkstraat,32,,
-8601GX,Parkstraat,34,,
-8601GX,Parkstraat,36,,
-8601GV,Badhuisgracht,15,,
-8601GV,Badhuisgracht,14,,
-8601GV,Badhuisgracht,8,,
-8601GV,Badhuisgracht,11,,
-8601HA,Noorderpoort,3,,
-8601HC,Noorderpoort,22,,
-8601HC,Noorderpoort,20,,
-8601HC,Noorderpoort,18,,
-8601HC,Noorderpoort,16,,
-8601HC,Noorderpoort,14,,
-8601HC,Noorderpoort,12,,
-8601HC,Noorderpoort,10,,
-8601HC,Noorderpoort,8,,
-8601HC,Noorderpoort,6,,
-8601HC,Noorderpoort,2,,
-8601HC,Noorderpoort,4,,
-8601HG,Zuidwesthoekweg,2,,1
-8601HJ,Sint Antoniusplein,5,,2
-8601HJ,Sint Antoniusplein,2,,002
-8601HJ,Sint Antoniusplein,5,,3
-8601HJ,Sint Antoniusplein,14,,
-8601HJ,Sint Antoniusplein,15,,
-8601HJ,Sint Antoniusplein,16,,
-8601HJ,Sint Antoniusplein,17,,
-8601HJ,Sint Antoniusplein,18,,
-8601HJ,Sint Antoniusplein,19,,
-8601HJ,Sint Antoniusplein,20,,
-8601HJ,Sint Antoniusplein,21,,
-8601HJ,Sint Antoniusplein,22,,
-8601HJ,Sint Antoniusplein,23,,
-8601HJ,Sint Antoniusplein,24,,
-8601HJ,Sint Antoniusplein,25,,
-8601HJ,Sint Antoniusplein,26,,
-8601HJ,Sint Antoniusplein,27,,
-8601HJ,Sint Antoniusplein,2,,
-8601HK,Sint Antoniusplein,28,,
-8601HK,Sint Antoniusplein,30,,
-8601HK,Sint Antoniusplein,32,,
-8601HK,Sint Antoniusplein,33,,
-8601HK,Sint Antoniusplein,34,,
-8601HK,Sint Antoniusplein,35,,
-8601HK,Sint Antoniusplein,37,,
-8601HK,Sint Antoniusplein,38,,
-8601HK,Sint Antoniusplein,39,,
-8601HK,Sint Antoniusplein,40,,
-8601HK,Sint Antoniusplein,41,,
-8601HK,Sint Antoniusplein,43,,
-8601HK,Sint Antoniusplein,44,,
-8601HK,Sint Antoniusplein,45,,
-8601HK,Sint Antoniusplein,46,,
-8601HK,Sint Antoniusplein,47,,
-8601HK,Sint Antoniusplein,48,,
-8601HK,Sint Antoniusplein,49,,
-8601HK,Sint Antoniusplein,50,,
-8601HK,Sint Antoniusplein,51,,
-8601HK,Sint Antoniusplein,52,,
-8601HL,Smidsbuurt,1,a,
-8601HL,Smidsbuurt,1,,
-8601HL,Smidsbuurt,2,a,
-8601HL,Smidsbuurt,2,,
-8601HL,Smidsbuurt,3,a,
-8601HL,Smidsbuurt,3,,
-8601HL,Smidsbuurt,4,,
-8601HL,Smidsbuurt,5,a,
-8601HL,Smidsbuurt,4,a,
-8601HL,Smidsbuurt,5,,
-8603XX,Tulpstraat,3,,
-8603XX,Tulpstraat,1,,
-8603XX,Tulpstraat,19,,
-8603XX,Tulpstraat,21,,
-8603XX,Tulpstraat,23,,
-8603XX,Tulpstraat,25,,
-8603XX,Tulpstraat,29,,
-8603XX,Tulpstraat,31,,
-8603XX,Tulpstraat,33,,
-8603XX,Tulpstraat,35,,
-8603XX,Tulpstraat,37,,
-8603XX,Tulpstraat,39,,
-8603XX,Tulpstraat,41,,
-8603XX,Tulpstraat,5,,
-8603XX,Tulpstraat,9,,
-8603XX,Tulpstraat,11,,
-8603XX,Tulpstraat,15,,
-8603XX,Tulpstraat,17,,
-8603XX,Tulpstraat,2,,
-8603XX,Tulpstraat,6,,
-8603XX,Tulpstraat,4,,
-8603XX,Tulpstraat,10,,
-8603XX,Tulpstraat,14,,
-8601EN,Westersingel,40,,
-8601EN,Westersingel,36,,
-8601EN,Westersingel,32,,
-8601EN,Westersingel,31,,
-8601EN,Westersingel,39,,
-8601EN,Westersingel,37,,
-8601EN,Westersingel,41,,
-8601EN,Westersingel,38,,
-8601EN,Westersingel,35,,
-8601EN,Westersingel,33,,
-8601EN,Westersingel,42,,
-8601EP,Westersingel,45,,
-8601EP,Westersingel,46,,
-8601EP,Westersingel,70,,
-8601EP,Westersingel,44,,
-8601EP,Westersingel,52,,
-8601EP,Westersingel,47,,
-8601EP,Westersingel,63,,
-8601EP,Westersingel,59,,
-8601EP,Westersingel,51,,
-8601GR,Westersingel,28,,
-8601GR,Westersingel,28,,
-8601GR,Westersingel,30,,
-8601GR,Westersingel,27,,
-8601ER,Geeuwkade,15,,
-8601ER,Geeuwkade,20,,
-8601ER,Geeuwkade,21,,
-8601ER,Geeuwkade,45,,
-8601ER,Geeuwkade,46,,
-8601ER,Geeuwkade,3,a,
-8601ER,Geeuwkade,3,,
-8601ER,Geeuwkade,19,,
-8601ER,Geeuwkade,16,,
-8601ER,Geeuwkade,4,,
-8601ER,Geeuwkade,22,,
-8601ES,Geeuwkade,47,,
-8601ES,Geeuwkade,48,,
-8601ES,Geeuwkade,49,,
-8601ES,Geeuwkade,50,,
-8601ES,Geeuwkade,61,,
-8601ES,Geeuwkade,54,,
-8601ES,Geeuwkade,53,,
-8601ES,Geeuwkade,56,,
-8601ES,Geeuwkade,52,,
-8601ET,Lange Veemarktstraat,1,a,
-8601ET,Lange Veemarktstraat,7,,
-8601ET,Lange Veemarktstraat,8,,
-8601ET,Lange Veemarktstraat,10,,
-8601ET,Lange Veemarktstraat,11,,
-8601ET,Lange Veemarktstraat,2,,
-8601ET,Lange Veemarktstraat,3,,
-8601ET,Lange Veemarktstraat,4,,
-8601ET,Lange Veemarktstraat,5,,
-8601ET,Lange Veemarktstraat,6,,
-8601EW,Almastraat,12,,
-8601EW,Almastraat,10,,
-8601EW,Almastraat,1,,
-8601EW,Almastraat,6,,
-8601EW,Almastraat,4,,
-8601EW,Almastraat,14,,
-8601EW,Almastraat,8,,
-8601EW,Almastraat,2,,
-8601EW,Almastraat,20,,
-8601EW,Almastraat,16,,
-8601EW,Almastraat,5,,
-8601EX,van Giffenstraat,5,,
-8601EX,van Giffenstraat,5,,
-8601EX,van Giffenstraat,6,,
-8601EX,van Giffenstraat,3,,
-8601EX,van Giffenstraat,1,,
-8601GA,Kanaalstraat,4,,
-8601GA,Kanaalstraat,3,,
-8601GA,Kanaalstraat,9,,
-8601GA,Kanaalstraat,10,,
-8601GA,Kanaalstraat,7,,
-8601GA,Kanaalstraat,8,,
-8601GB,Stationsstraat,1,a,
-8601GB,Stationsstraat,11,,
-8601GB,Stationsstraat,9,,
-8601GB,Stationsstraat,5,,
-8601GB,Stationsstraat,1,,
-8601GB,Stationsstraat,3,,
-8601GB,Stationsstraat,13,,
-8601GB,Stationsstraat,7,,
-8601GC,Stationsstraat,15,,
-8601GC,Stationsstraat,21,,
-8601GC,Stationsstraat,25,,
-8601GC,Stationsstraat,27,,
-8601GC,Stationsstraat,23,,
-8601GC,Stationsstraat,19,,
-8601GC,Stationsstraat,17,,
-8601GD,Stationsstraat,10,,
-8601GD,Stationsstraat,8,,
-8601GD,Stationsstraat,14,,
-8601GD,Stationsstraat,16,a,
-8601GD,Stationsstraat,16,B,
-8601GD,Stationsstraat,16,,
-8601GD,Stationsstraat,2,,
-8601GD,Stationsstraat,4,,
-8601GE,Stationsstraat,18,,
-8601GE,Stationsstraat,20,,
-8601GE,Stationsstraat,22,,
-8601GE,Stationsstraat,26,,
-8601GE,Stationsstraat,30,,
-8601GE,Stationsstraat,30,,
-8601GE,Stationsstraat,36,,
-8601GE,Stationsstraat,38,,
-8601GE,Stationsstraat,40,,
-8601GE,Stationsstraat,42,,
-8601GE,Stationsstraat,28,,
-8601GE,Stationsstraat,32,,
-8601GE,Stationsstraat,34,,
-8601GE,Stationsstraat,24,,
-8601GG,Stationsstraat,50,,
-8601GG,Stationsstraat,48,,
-8601GG,Stationsstraat,44,,
-8601GG,Stationsstraat,46,,
-8601GG,Stationsstraat,60,,
-8601GG,Stationsstraat,58,,
-8601GG,Stationsstraat,64,,
-8601GG,Stationsstraat,66,,
-8601GG,Stationsstraat,54,,
-8601GG,Stationsstraat,52,,
-8601GH,Willemstraat,14,,
-8601GH,Willemstraat,24,,
-8601GH,Willemstraat,3,,
-8601GH,Willemstraat,18,,
-8601GH,Willemstraat,20,,
-8601GH,Willemstraat,22,,
-8601GH,Willemstraat,7,,
-8601GH,Willemstraat,26,,
-8601GH,Willemstraat,13,,
-8601GH,Willemstraat,15,,
-8601GH,Willemstraat,17,,
-8601GH,Willemstraat,11,,
-8601GH,Willemstraat,16,,
-8601GH,Willemstraat,28,,
-8601GH,Willemstraat,21,,
-8601GH,Willemstraat,1,,
-8601GH,Willemstraat,12,,
-8601GH,Willemstraat,30,,
-8601GH,Willemstraat,2,,
-8601GH,Willemstraat,9,,
-8601GH,Willemstraat,2,a,
-8601GH,Willemstraat,10,,
-8601GJ,Prinses Julianapark,15,,
-8601GJ,Prinses Julianapark,16,,
-8601GJ,Prinses Julianapark,13,,
-8601GJ,Prinses Julianapark,12,,
-8601GJ,Prinses Julianapark,10,,
-8601GJ,Prinses Julianapark,9,,
-8601GJ,Prinses Julianapark,7,,
-8601GJ,Prinses Julianapark,8,,
-8601GJ,Prinses Julianapark,4,,
-8601GJ,Prinses Julianapark,3,,
-8601GJ,Prinses Julianapark,2,,
-8601GJ,Prinses Julianapark,1,,
-8601GJ,Prinses Julianapark,5,,
-8601GK,Emmastraat,35,,
-8601GK,Emmastraat,33,,
-8601GK,Emmastraat,23,,
-8601GK,Emmastraat,21,,
-8601GK,Emmastraat,19,,
-8601GK,Emmastraat,13,,
-8601GK,Emmastraat,11,,
-8601GK,Emmastraat,7,,
-8601GK,Emmastraat,5,,
-8601GK,Emmastraat,1,,
-8601GK,Emmastraat,9,,
-8601GK,Emmastraat,3,,
-8601GK,Emmastraat,15,,
-8601GL,Emmastraat,32,,
-8601GL,Emmastraat,30,,
-8601GL,Emmastraat,28,,
-8601GL,Emmastraat,26,,
-8601GL,Emmastraat,22,,
-8601GL,Emmastraat,20,,
-8601GL,Emmastraat,18,,
-8601GL,Emmastraat,14,,
-8601GL,Emmastraat,16,,
-8601GL,Emmastraat,12,,
-8601GL,Emmastraat,10,,
-8601GL,Emmastraat,8,,
-8601GL,Emmastraat,6,,
-8601GL,Emmastraat,2,,
-8601GL,Emmastraat,4,,
-8601GL,Emmastraat,24,,
-8601GL,Emmastraat,34,,
-8601GL,Emmastraat,36,,
-8601GL,Emmastraat,38,,
-8601GL,Emmastraat,40,,
-8601GL,Emmastraat,42,,
-8601GL,Emmastraat,44,,
-8601GL,Emmastraat,46,,
-8601GL,Emmastraat,48,,
-8601GL,Emmastraat,50,,
-8601GM,Dr. Boumaweg,5,,
-8601GM,Dr. Boumaweg,10,,
-8601GM,Dr. Boumaweg,6,,
-8601GM,Dr. Boumaweg,8,,
-8601GM,Dr. Boumaweg,9,,
-8601GM,Dr. Boumaweg,12,,
-8601GM,Dr. Boumaweg,14,,
-8601GM,Dr. Boumaweg,13,,
-8601GM,Dr. Boumaweg,16,,
-8601GM,Dr. Boumaweg,15,,
-8601GM,Dr. Boumaweg,17,a,
-8601GM,Dr. Boumaweg,17,b,
-8601GM,Dr. Boumaweg,17,,
-8601GM,Dr. Boumaweg,18,,
-8601GM,Dr. Boumaweg,4,,
-8601GM,Dr. Boumaweg,19,,
-8601GN,Sophiastraat,3,,
-8601GN,Sophiastraat,5,,
-8601GN,Sophiastraat,1,,
-8601GN,Sophiastraat,7,,
-8601GP,Julianastraat,30,,
-8601GP,Julianastraat,28,,
-8601GP,Julianastraat,26,,
-8601GP,Julianastraat,18,,
-8601GP,Julianastraat,63,,
-8601GP,Julianastraat,63,,
-8601GP,Julianastraat,6,,
-8601GP,Julianastraat,4,,
-8601GP,Julianastraat,8,,
-8601GP,Julianastraat,10,,
-8601GP,Julianastraat,20,,
-8601GP,Julianastraat,22,,
-8601GP,Julianastraat,24,,
-8601GP,Julianastraat,32,,
-8601GP,Julianastraat,34,,
-8601GP,Julianastraat,36,,
-8601GP,Julianastraat,38,,
-8601GP,Julianastraat,40,,
-8601GP,Julianastraat,42,,
-8601GP,Julianastraat,44,,
-8601GP,Julianastraat,46,,
-8601GP,Julianastraat,5,,
-8601GP,Julianastraat,3,,
-8601GP,Julianastraat,67,,
-8601GP,Julianastraat,69,,
-8601GS,Parkstraat,2,,
-8601GS,Parkstraat,6,,
-8601GS,Parkstraat,10,,
-8601GS,Parkstraat,8,,
-8601GS,Parkstraat,12,,
-8601GS,Parkstraat,18,,
-8601GS,Parkstraat,14,,
-8601GS,Parkstraat,16,,
-8601GS,Parkstraat,1,,
-8601GV,Badhuisgracht,1,,
-8601GV,Badhuisgracht,13,,
-8601GW,Malta,3,,
-8601GW,Malta,9,,
-8601GW,Malta,7,,
-8601GW,Malta,5,,
-8601GW,Malta,17,,
-8601GW,Malta,15,,
-8601GW,Malta,19,,
-8601GW,Malta,23,,
-8601GW,Malta,29,,
-8601GW,Malta,27,,
-8601GW,Malta,31,,
-8601GW,Malta,39,,
-8601GW,Malta,41,,
-8601GW,Malta,43,,
-8601GW,Malta,45,,
-8601GW,Malta,49,,
-8601GW,Malta,2,,
-8601GW,Malta,21,,
-8601GW,Malta,25,,
-8601GW,Malta,13,,
-8601GW,Malta,11,,
-8601GW,Malta,33,,
-8601GW,Malta,35,,
-8601GW,Malta,47,,
-8601GW,Malta,1,a,
-8601GW,Malta,1,,
-8601GZ,Malta,51,,
-8601GZ,Malta,59,,
-8601GZ,Malta,61,,
-8601GZ,Malta,57,,
-8601GZ,Malta,67,,
-8601GZ,Malta,55,,
-8601GZ,Malta,65,,
-8601GZ,Malta,63,,
-8601GZ,Malta,69,,
-8601GZ,Malta,71,,
-8601GZ,Malta,75,,
-8601GZ,Malta,73,,
-8601GZ,Malta,81,,
-8601GZ,Malta,79,,
-8601GZ,Malta,77,,
-8601GZ,Malta,53,,
-8601HA,Noorderpoort,1,,
-8601HA,Noorderpoort,11,,
-8601HA,Noorderpoort,13,,
-8601HA,Noorderpoort,15,,
-8601HA,Noorderpoort,17,,
-8601HA,Noorderpoort,19,,
-8601HA,Noorderpoort,21,,
-8601HA,Noorderpoort,23,,
-8601HA,Noorderpoort,25,,
-8601HA,Noorderpoort,27,,
-8601HA,Noorderpoort,29,,
-8601HA,Noorderpoort,31,,
-8601HA,Noorderpoort,33,,
-8601HA,Noorderpoort,35,,
-8601HA,Noorderpoort,37,,
-8601HA,Noorderpoort,5,,
-8601HA,Noorderpoort,7,,
-8601HA,Noorderpoort,9,,
-8601HB,Noorderpoort,39,,
-8601HB,Noorderpoort,41,,
-8601HB,Noorderpoort,43,,
-8601HB,Noorderpoort,45,,
-8601HB,Noorderpoort,47,,
-8601HB,Noorderpoort,49,,
-8601HB,Noorderpoort,51,,
-8601HB,Noorderpoort,53,,
-8601HB,Noorderpoort,55,,
-8601HB,Noorderpoort,57,,
-8601HB,Noorderpoort,59,,
-8601HB,Noorderpoort,61,,
-8601HB,Noorderpoort,63,,
-8601HB,Noorderpoort,65,,
-8601HB,Noorderpoort,67,,
-8601HB,Noorderpoort,69,,
-8601HB,Noorderpoort,71,,
-8601HE,Zoutkeet,3,,
-8601HE,Zoutkeet,4,,
-8601HE,Zoutkeet,5,,
-8601HE,Zoutkeet,2,,
-8601HE,Zoutkeet,7,,
-8601HE,Zoutkeet,6,,
-8601HE,Zoutkeet,1,,
-8601HG,Zuidwesthoekweg,2,,
-8601HG,Zuidwesthoekweg,7,,
-8601HH,Beatrixstraat,10,,
-8601HH,Beatrixstraat,8,,
-8601HH,Beatrixstraat,2,,
-8601HH,Beatrixstraat,6,,
-8601HH,Beatrixstraat,12,,
-8601HH,Beatrixstraat,14,,
-8601HH,Beatrixstraat,16,,
-8601HH,Beatrixstraat,18,,
-8601HH,Beatrixstraat,20,,
-8601HH,Beatrixstraat,22,,
-8601HH,Beatrixstraat,24,,
-8601HH,Beatrixstraat,26,,
-8601HH,Beatrixstraat,4,,
-8603XX,Tulpstraat,7,,
-8603XX,Tulpstraat,12,,
-8603XX,Tulpstraat,8,,
-8603XX,Tulpstraat,41,a,
-8603XX,Tulpstraat,27,,
-8603XX,Tulpstraat,13,,
-8603XX,Tulpstraat,41,e,
-8603XX,Tulpstraat,41,c,
-8603XX,Tulpstraat,41,b,
-8603XX,Tulpstraat,41,f,
-8603XX,Tulpstraat,41,d,
-8603XX,Tulpstraat,41,g,
-8601DA,Veemarktplein,1,,
-8601ET,Lange Veemarktstraat,2,a,
-8601ET,Lange Veemarktstraat,2,b,
-8601ET,Lange Veemarktstraat,2,c,
-8601ET,Lange Veemarktstraat,2,d,
-8601EN,Westersingel,34,,
-8601GR,Westersingel,29,,
-8601ET,Lange Veemarktstraat,2,e,
-8601EX,van Giffenstraat,6,,
-8601EX,van Giffenstraat,6,A,
-8601GA,Kanaalstraat,22,a,
-8601GA,Kanaalstraat,1,A,
-8601GA,Kanaalstraat,1,A,
-8601GA,Kanaalstraat,1,B,
-8601GA,Kanaalstraat,1,B,
-8601GA,Kanaalstraat,1,C,
-8601GA,Kanaalstraat,1,C,
-8601GA,Kanaalstraat,1,D,
-8601GA,Kanaalstraat,1,E,
-8601GA,Kanaalstraat,1,E,
-8601GA,Kanaalstraat,1,F,
-8601GA,Kanaalstraat,1,F,
-8601GB,Stationsstraat,5,,001
-8601GB,Stationsstraat,5,,002
-8601GB,Stationsstraat,5,,003
-8601GB,Stationsstraat,5,,004
-8601GB,Stationsstraat,5,,101
-8601GB,Stationsstraat,5,,102
-8601GB,Stationsstraat,5,,103
-8601GB,Stationsstraat,5,,104
-8601GB,Stationsstraat,5,,
-8601GB,Stationsstraat,5,A,
-8601GB,Stationsstraat,5,B,
-8601GB,Stationsstraat,5,C,
-8601GB,Stationsstraat,5,D,
-8601GB,Stationsstraat,5,E,
-8601GB,Stationsstraat,5,F,
-8601GE,Stationsstraat,28,,
-8601GE,Stationsstraat,28,A,
-8601GE,Stationsstraat,28,,
-8601GG,Stationsstraat,66,,
-8601GH,Willemstraat,2,b,
-8601GH,Willemstraat,10,A,
-8601GH,Willemstraat,10,B,
-8601GH,Willemstraat,10,C,
-8601GH,Willemstraat,10,D,
-8601GH,Willemstraat,10,E,
-8601GH,Willemstraat,10,F,
-8601GH,Willemstraat,30,,
-8601GH,Willemstraat,2,a,
-8601GJ,Prinses Julianapark,17,,
-8601GJ,Prinses Julianapark,18,,
-8601GJ,Prinses Julianapark,7,,
-8601GM,Dr. Boumaweg,11,,
-8601GM,Dr. Boumaweg,11,,
-8601GM,Dr. Boumaweg,11,,
-8601GN,Sophiastraat,1,A,
-8601GN,Sophiastraat,1,B,
-8601GN,Sophiastraat,1,C,
-8601GN,Sophiastraat,1,D,
-8601GN,Sophiastraat,9,,
-8601GP,Julianastraat,57,,
-8601GP,Julianastraat,55,,
-8601GP,Julianastraat,61,,
-8601GP,Julianastraat,7,,
-8601GP,Julianastraat,9,,
-8601GP,Julianastraat,11,,
-8601GP,Julianastraat,13,,
-8601GP,Julianastraat,15,,
-8601GP,Julianastraat,17,,
-8601GP,Julianastraat,5,,
-8601HG,Zuidwesthoekweg,4,,
-8601HG,Zuidwesthoekweg,4,,
-8601HG,Zuidwesthoekweg,7,,
-8601HG,Zuidwesthoekweg,9,,
-8601HG,Zuidwesthoekweg,11,,
-8601HG,Zuidwesthoekweg,13,,
-8601HG,Zuidwesthoekweg,15,,
-8601HG,Zuidwesthoekweg,17,,
-8601HG,Zuidwesthoekweg,19,,
-8601HG,Zuidwesthoekweg,21,,
-8601HG,Zuidwesthoekweg,21,A,
-8601HG,Zuidwesthoekweg,21,B,
-8601HG,Zuidwesthoekweg,21,C,
-8601HJ,Sint Antoniusplein,1,,
-8601HJ,Sint Antoniusplein,1,,
-8601HJ,Sint Antoniusplein,3,,
-8601DA,Veemarktplein,2,,
-8601DA,Veemarktplein,2,,
-8601ER,Geeuwkade,19,,
-8601ES,Geeuwkade,61,,
-8601ET,Lange Veemarktstraat,2,P,001
-8601ET,Lange Veemarktstraat,2,P,002
-8601ET,Lange Veemarktstraat,2,P,101
-8601ET,Lange Veemarktstraat,2,P,102
-8601ET,Lange Veemarktstraat,2,P,103
-8601ET,Lange Veemarktstraat,2,P,201
-8601ET,Lange Veemarktstraat,2,P,202
-8601EX,van Giffenstraat,4,,
-8601GC,Stationsstraat,25,,
-8601GC,Stationsstraat,25,A,
-8601GH,Willemstraat,2,C,
-8601GH,Willemstraat,2,D,
-8601GM,Dr. Boumaweg,6,A,
-8601GM,Dr. Boumaweg,7,,
-8601GM,Dr. Boumaweg,6,B,
-8601GM,Dr. Boumaweg,6,,
-8601DA,Veemarktplein,9,,
-8601DA,Veemarktplein,11,,
-8601DA,Veemarktplein,13,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Veemarktplein,1,"","",8601DA,Sneek
+Westersingel,31,"","",8601EN,Sneek
+Westersingel,32,"","",8601EN,Sneek
+Westersingel,33,"","",8601EN,Sneek
+Westersingel,34,"",1,8601EN,Sneek
+Westersingel,34,"",1,8601EN,Sneek
+Westersingel,34,"",2,8601EN,Sneek
+Westersingel,34,"",2,8601EN,Sneek
+Westersingel,35,"","",8601EN,Sneek
+Westersingel,36,"","",8601EN,Sneek
+Westersingel,37,"","",8601EN,Sneek
+Westersingel,38,"","",8601EN,Sneek
+Westersingel,39,"","",8601EN,Sneek
+Westersingel,40,"","",8601EN,Sneek
+Westersingel,41,"","",8601EN,Sneek
+Westersingel,42,"","",8601EN,Sneek
+Westersingel,42,"",1,8601EN,Sneek
+Westersingel,42,"",2,8601EN,Sneek
+Westersingel,44,"","",8601EP,Sneek
+Westersingel,45,"","",8601EP,Sneek
+Westersingel,46,"","",8601EP,Sneek
+Westersingel,47,"","",8601EP,Sneek
+Westersingel,51,"","",8601EP,Sneek
+Westersingel,52,"","",8601EP,Sneek
+Westersingel,55,"","",8601EP,Sneek
+Westersingel,56,"","",8601EP,Sneek
+Westersingel,57,"","",8601EP,Sneek
+Westersingel,58,"","",8601EP,Sneek
+Westersingel,59,"","",8601EP,Sneek
+Westersingel,61,"","",8601EP,Sneek
+Westersingel,62,"","",8601EP,Sneek
+Westersingel,63,"","",8601EP,Sneek
+Westersingel,64,"","",8601EP,Sneek
+Westersingel,68,"","",8601EP,Sneek
+Westersingel,69,"","",8601EP,Sneek
+Westersingel,70,"","",8601EP,Sneek
+Geeuwkade,10,"","",8601ER,Sneek
+Geeuwkade,12,"",001,8601ER,Sneek
+Geeuwkade,12,"",002,8601ER,Sneek
+Geeuwkade,12,"",003,8601ER,Sneek
+Geeuwkade,12,"",004,8601ER,Sneek
+Geeuwkade,12,"",005,8601ER,Sneek
+Geeuwkade,12,"",006,8601ER,Sneek
+Geeuwkade,12,"",007,8601ER,Sneek
+Geeuwkade,12,"",008,8601ER,Sneek
+Geeuwkade,12,"",009,8601ER,Sneek
+Geeuwkade,12,"",010,8601ER,Sneek
+Geeuwkade,12,"",011,8601ER,Sneek
+Geeuwkade,12,"",012,8601ER,Sneek
+Geeuwkade,12,"",013,8601ER,Sneek
+Geeuwkade,12,"",014,8601ER,Sneek
+Geeuwkade,12,"",015,8601ER,Sneek
+Geeuwkade,12,"",016,8601ER,Sneek
+Geeuwkade,15,"","",8601ER,Sneek
+Geeuwkade,16,"","",8601ER,Sneek
+Geeuwkade,19,"","",8601ER,Sneek
+Geeuwkade,19,"","",8601ER,Sneek
+Geeuwkade,20,"","",8601ER,Sneek
+Geeuwkade,21,"","",8601ER,Sneek
+Geeuwkade,22,"","",8601ER,Sneek
+Geeuwkade,3,"","",8601ER,Sneek
+Geeuwkade,3,A,"",8601ER,Sneek
+Geeuwkade,4,"","",8601ER,Sneek
+Geeuwkade,45,"","",8601ER,Sneek
+Geeuwkade,46,"","",8601ER,Sneek
+Geeuwkade,5,"","",8601ER,Sneek
+Geeuwkade,6,"","",8601ER,Sneek
+Geeuwkade,7,"","",8601ER,Sneek
+Geeuwkade,8,"","",8601ER,Sneek
+Geeuwkade,9,"","",8601ER,Sneek
+Geeuwkade,47,"","",8601ES,Sneek
+Geeuwkade,48,"","",8601ES,Sneek
+Geeuwkade,49,"","",8601ES,Sneek
+Geeuwkade,50,"","",8601ES,Sneek
+Geeuwkade,51,"","",8601ES,Sneek
+Geeuwkade,52,"","",8601ES,Sneek
+Geeuwkade,53,"","",8601ES,Sneek
+Geeuwkade,54,"","",8601ES,Sneek
+Geeuwkade,56,"","",8601ES,Sneek
+Geeuwkade,61,"","",8601ES,Sneek
+Geeuwkade,61,"","",8601ES,Sneek
+Lange Veemarktstraat,1,A,"",8601ET,Sneek
+Lange Veemarktstraat,10,"","",8601ET,Sneek
+Lange Veemarktstraat,11,"","",8601ET,Sneek
+Lange Veemarktstraat,2,"","",8601ET,Sneek
+Lange Veemarktstraat,2,A,"",8601ET,Sneek
+Lange Veemarktstraat,2,B,"",8601ET,Sneek
+Lange Veemarktstraat,2,C,"",8601ET,Sneek
+Lange Veemarktstraat,2,D,"",8601ET,Sneek
+Lange Veemarktstraat,3,"","",8601ET,Sneek
+Lange Veemarktstraat,4,"","",8601ET,Sneek
+Lange Veemarktstraat,4,"",1,8601ET,Sneek
+Lange Veemarktstraat,4,"",1,8601ET,Sneek
+Lange Veemarktstraat,5,"","",8601ET,Sneek
+Lange Veemarktstraat,6,"","",8601ET,Sneek
+Lange Veemarktstraat,7,"","",8601ET,Sneek
+Lange Veemarktstraat,8,"","",8601ET,Sneek
+Korte Veemarktstraat,1,"","",8601EV,Sneek
+Korte Veemarktstraat,1,"","",8601EV,Sneek
+Korte Veemarktstraat,10,"","",8601EV,Sneek
+Korte Veemarktstraat,11,"","",8601EV,Sneek
+Korte Veemarktstraat,12,"","",8601EV,Sneek
+Korte Veemarktstraat,2,"","",8601EV,Sneek
+Korte Veemarktstraat,2,"","",8601EV,Sneek
+Korte Veemarktstraat,5,"","",8601EV,Sneek
+Korte Veemarktstraat,5,"",1,8601EV,Sneek
+Korte Veemarktstraat,5,"",1,8601EV,Sneek
+Korte Veemarktstraat,5,"",10,8601EV,Sneek
+Korte Veemarktstraat,5,"",10,8601EV,Sneek
+Korte Veemarktstraat,5,"",11,8601EV,Sneek
+Korte Veemarktstraat,5,"",11,8601EV,Sneek
+Korte Veemarktstraat,5,"",12,8601EV,Sneek
+Korte Veemarktstraat,5,"",12,8601EV,Sneek
+Korte Veemarktstraat,5,"",13,8601EV,Sneek
+Korte Veemarktstraat,5,"",13,8601EV,Sneek
+Korte Veemarktstraat,5,"",14,8601EV,Sneek
+Korte Veemarktstraat,5,"",14,8601EV,Sneek
+Korte Veemarktstraat,5,"",15,8601EV,Sneek
+Korte Veemarktstraat,5,"",15,8601EV,Sneek
+Korte Veemarktstraat,5,"",16,8601EV,Sneek
+Korte Veemarktstraat,5,"",16,8601EV,Sneek
+Korte Veemarktstraat,5,"",17,8601EV,Sneek
+Korte Veemarktstraat,5,"",17,8601EV,Sneek
+Korte Veemarktstraat,5,"",18,8601EV,Sneek
+Korte Veemarktstraat,5,"",18,8601EV,Sneek
+Korte Veemarktstraat,5,"",19,8601EV,Sneek
+Korte Veemarktstraat,5,"",19,8601EV,Sneek
+Korte Veemarktstraat,5,"",2,8601EV,Sneek
+Korte Veemarktstraat,5,"",2,8601EV,Sneek
+Korte Veemarktstraat,5,"",20,8601EV,Sneek
+Korte Veemarktstraat,5,"",20,8601EV,Sneek
+Korte Veemarktstraat,5,"",21,8601EV,Sneek
+Korte Veemarktstraat,5,"",21,8601EV,Sneek
+Korte Veemarktstraat,5,"",3,8601EV,Sneek
+Korte Veemarktstraat,5,"",3,8601EV,Sneek
+Korte Veemarktstraat,5,"",4,8601EV,Sneek
+Korte Veemarktstraat,5,"",4,8601EV,Sneek
+Korte Veemarktstraat,5,"",5,8601EV,Sneek
+Korte Veemarktstraat,5,"",5,8601EV,Sneek
+Korte Veemarktstraat,5,"",6,8601EV,Sneek
+Korte Veemarktstraat,5,"",6,8601EV,Sneek
+Korte Veemarktstraat,5,"",7,8601EV,Sneek
+Korte Veemarktstraat,5,"",7,8601EV,Sneek
+Korte Veemarktstraat,5,"",8,8601EV,Sneek
+Korte Veemarktstraat,5,"",8,8601EV,Sneek
+Korte Veemarktstraat,5,"",9,8601EV,Sneek
+Korte Veemarktstraat,5,"",9,8601EV,Sneek
+Korte Veemarktstraat,8,"","",8601EV,Sneek
+Korte Veemarktstraat,9,"","",8601EV,Sneek
+Almastraat,1,"","",8601EW,Sneek
+Almastraat,10,"","",8601EW,Sneek
+Almastraat,12,"","",8601EW,Sneek
+Almastraat,14,"","",8601EW,Sneek
+Almastraat,16,"","",8601EW,Sneek
+Almastraat,2,"","",8601EW,Sneek
+Almastraat,20,"","",8601EW,Sneek
+Almastraat,4,"","",8601EW,Sneek
+Almastraat,5,"","",8601EW,Sneek
+Almastraat,6,"","",8601EW,Sneek
+Almastraat,8,"","",8601EW,Sneek
+van Giffenstraat,1,"","",8601EX,Sneek
+van Giffenstraat,3,"","",8601EX,Sneek
+van Giffenstraat,5,"","",8601EX,Sneek
+van Giffenstraat,5,"","",8601EX,Sneek
+van Giffenstraat,6,"","",8601EX,Sneek
+van Giffenstraat,6,"","",8601EX,Sneek
+Kanaalstraat,10,"","",8601GA,Sneek
+Kanaalstraat,3,"","",8601GA,Sneek
+Kanaalstraat,4,"","",8601GA,Sneek
+Kanaalstraat,5,"","",8601GA,Sneek
+Kanaalstraat,7,"","",8601GA,Sneek
+Kanaalstraat,8,"","",8601GA,Sneek
+Kanaalstraat,9,"","",8601GA,Sneek
+Stationsstraat,1,"","",8601GB,Sneek
+Stationsstraat,1,A,"",8601GB,Sneek
+Stationsstraat,11,"","",8601GB,Sneek
+Stationsstraat,13,"","",8601GB,Sneek
+Stationsstraat,3,"","",8601GB,Sneek
+Stationsstraat,5,"","",8601GB,Sneek
+Stationsstraat,5,"","",8601GB,Sneek
+Stationsstraat,7,"","",8601GB,Sneek
+Stationsstraat,9,"","",8601GB,Sneek
+Stationsstraat,15,"","",8601GC,Sneek
+Stationsstraat,17,"","",8601GC,Sneek
+Stationsstraat,19,"","",8601GC,Sneek
+Stationsstraat,21,"","",8601GC,Sneek
+Stationsstraat,23,"","",8601GC,Sneek
+Stationsstraat,25,"","",8601GC,Sneek
+Stationsstraat,25,"","",8601GC,Sneek
+Stationsstraat,27,"","",8601GC,Sneek
+Stationsstraat,10,"","",8601GD,Sneek
+Stationsstraat,14,"","",8601GD,Sneek
+Stationsstraat,16,"","",8601GD,Sneek
+Stationsstraat,16,A,"",8601GD,Sneek
+Stationsstraat,16,B,"",8601GD,Sneek
+Stationsstraat,2,"","",8601GD,Sneek
+Stationsstraat,4,"","",8601GD,Sneek
+Stationsstraat,8,"","",8601GD,Sneek
+Stationsstraat,18,"","",8601GE,Sneek
+Stationsstraat,20,"","",8601GE,Sneek
+Stationsstraat,22,"","",8601GE,Sneek
+Stationsstraat,24,"","",8601GE,Sneek
+Stationsstraat,26,"","",8601GE,Sneek
+Stationsstraat,28,"","",8601GE,Sneek
+Stationsstraat,28,"","",8601GE,Sneek
+Stationsstraat,30,"","",8601GE,Sneek
+Stationsstraat,30,"","",8601GE,Sneek
+Stationsstraat,32,"","",8601GE,Sneek
+Stationsstraat,34,"","",8601GE,Sneek
+Stationsstraat,36,"","",8601GE,Sneek
+Stationsstraat,38,"","",8601GE,Sneek
+Stationsstraat,40,"","",8601GE,Sneek
+Stationsstraat,42,"","",8601GE,Sneek
+Stationsstraat,44,"","",8601GG,Sneek
+Stationsstraat,46,"","",8601GG,Sneek
+Stationsstraat,48,"","",8601GG,Sneek
+Stationsstraat,50,"","",8601GG,Sneek
+Stationsstraat,52,"","",8601GG,Sneek
+Stationsstraat,54,"","",8601GG,Sneek
+Stationsstraat,58,"","",8601GG,Sneek
+Stationsstraat,60,"","",8601GG,Sneek
+Stationsstraat,64,"","",8601GG,Sneek
+Stationsstraat,64,"","",8601GG,Sneek
+Stationsstraat,66,"","",8601GG,Sneek
+Stationsstraat,66,"","",8601GG,Sneek
+Willemstraat,1,"","",8601GH,Sneek
+Willemstraat,1,"",001,8601GH,Sneek
+Willemstraat,1,"",001,8601GH,Sneek
+Willemstraat,1,"",003,8601GH,Sneek
+Willemstraat,1,A,"",8601GH,Sneek
+Willemstraat,10,"","",8601GH,Sneek
+Willemstraat,10,"","",8601GH,Sneek
+Willemstraat,11,"","",8601GH,Sneek
+Willemstraat,12,"","",8601GH,Sneek
+Willemstraat,13,"","",8601GH,Sneek
+Willemstraat,14,"","",8601GH,Sneek
+Willemstraat,15,"","",8601GH,Sneek
+Willemstraat,16,"","",8601GH,Sneek
+Willemstraat,17,"","",8601GH,Sneek
+Willemstraat,18,"","",8601GH,Sneek
+Willemstraat,2,"","",8601GH,Sneek
+Willemstraat,2,A,"",8601GH,Sneek
+Willemstraat,20,"","",8601GH,Sneek
+Willemstraat,21,"","",8601GH,Sneek
+Willemstraat,22,"","",8601GH,Sneek
+Willemstraat,24,"","",8601GH,Sneek
+Willemstraat,26,"","",8601GH,Sneek
+Willemstraat,28,"","",8601GH,Sneek
+Willemstraat,3,"","",8601GH,Sneek
+Willemstraat,30,"","",8601GH,Sneek
+Willemstraat,5,"","",8601GH,Sneek
+Willemstraat,7,"","",8601GH,Sneek
+Willemstraat,9,"","",8601GH,Sneek
+Prinses Julianapark,1,"","",8601GJ,Sneek
+Prinses Julianapark,10,"","",8601GJ,Sneek
+Prinses Julianapark,12,"","",8601GJ,Sneek
+Prinses Julianapark,13,"","",8601GJ,Sneek
+Prinses Julianapark,15,"","",8601GJ,Sneek
+Prinses Julianapark,16,"","",8601GJ,Sneek
+Prinses Julianapark,17,"","",8601GJ,Sneek
+Prinses Julianapark,17,"","",8601GJ,Sneek
+Prinses Julianapark,2,"","",8601GJ,Sneek
+Prinses Julianapark,3,"","",8601GJ,Sneek
+Prinses Julianapark,4,"","",8601GJ,Sneek
+Prinses Julianapark,5,"","",8601GJ,Sneek
+Prinses Julianapark,7,"","",8601GJ,Sneek
+Prinses Julianapark,7,"","",8601GJ,Sneek
+Prinses Julianapark,8,"","",8601GJ,Sneek
+Prinses Julianapark,8,"","",8601GJ,Sneek
+Prinses Julianapark,9,"","",8601GJ,Sneek
+Emmastraat,1,"","",8601GK,Sneek
+Emmastraat,11,"","",8601GK,Sneek
+Emmastraat,13,"","",8601GK,Sneek
+Emmastraat,15,"","",8601GK,Sneek
+Emmastraat,19,"","",8601GK,Sneek
+Emmastraat,21,"","",8601GK,Sneek
+Emmastraat,23,"","",8601GK,Sneek
+Emmastraat,29,"","",8601GK,Sneek
+Emmastraat,3,"","",8601GK,Sneek
+Emmastraat,33,"","",8601GK,Sneek
+Emmastraat,35,"","",8601GK,Sneek
+Emmastraat,5,"","",8601GK,Sneek
+Emmastraat,7,"","",8601GK,Sneek
+Emmastraat,9,"","",8601GK,Sneek
+Emmastraat,10,"","",8601GL,Sneek
+Emmastraat,12,"","",8601GL,Sneek
+Emmastraat,14,"","",8601GL,Sneek
+Emmastraat,16,"","",8601GL,Sneek
+Emmastraat,18,"","",8601GL,Sneek
+Emmastraat,2,"","",8601GL,Sneek
+Emmastraat,20,"","",8601GL,Sneek
+Emmastraat,22,"","",8601GL,Sneek
+Emmastraat,24,"","",8601GL,Sneek
+Emmastraat,26,"","",8601GL,Sneek
+Emmastraat,28,"","",8601GL,Sneek
+Emmastraat,30,"","",8601GL,Sneek
+Emmastraat,32,"","",8601GL,Sneek
+Emmastraat,34,"","",8601GL,Sneek
+Emmastraat,36,"","",8601GL,Sneek
+Emmastraat,38,"","",8601GL,Sneek
+Emmastraat,4,"","",8601GL,Sneek
+Emmastraat,40,"","",8601GL,Sneek
+Emmastraat,42,"","",8601GL,Sneek
+Emmastraat,44,"","",8601GL,Sneek
+Emmastraat,46,"","",8601GL,Sneek
+Emmastraat,48,"","",8601GL,Sneek
+Emmastraat,50,"","",8601GL,Sneek
+Emmastraat,6,"","",8601GL,Sneek
+Emmastraat,8,"","",8601GL,Sneek
+Dr. Boumaweg,10,"","",8601GM,Sneek
+Dr. Boumaweg,12,"","",8601GM,Sneek
+Dr. Boumaweg,13,"","",8601GM,Sneek
+Dr. Boumaweg,14,"","",8601GM,Sneek
+Dr. Boumaweg,15,"","",8601GM,Sneek
+Dr. Boumaweg,16,"","",8601GM,Sneek
+Dr. Boumaweg,17,"","",8601GM,Sneek
+Dr. Boumaweg,17,A,"",8601GM,Sneek
+Dr. Boumaweg,17,B,"",8601GM,Sneek
+Dr. Boumaweg,18,"","",8601GM,Sneek
+Dr. Boumaweg,19,"","",8601GM,Sneek
+Dr. Boumaweg,19,"","",8601GM,Sneek
+Dr. Boumaweg,19,"",1,8601GM,Sneek
+Dr. Boumaweg,19,"",1,8601GM,Sneek
+Dr. Boumaweg,19,"",2,8601GM,Sneek
+Dr. Boumaweg,19,"",2,8601GM,Sneek
+Dr. Boumaweg,4,"","",8601GM,Sneek
+Dr. Boumaweg,5,"","",8601GM,Sneek
+Dr. Boumaweg,6,"","",8601GM,Sneek
+Dr. Boumaweg,8,"","",8601GM,Sneek
+Dr. Boumaweg,9,"","",8601GM,Sneek
+Sophiastraat,1,"","",8601GN,Sneek
+Sophiastraat,1,"","",8601GN,Sneek
+Sophiastraat,3,"","",8601GN,Sneek
+Sophiastraat,5,"","",8601GN,Sneek
+Sophiastraat,7,"","",8601GN,Sneek
+Julianastraat,10,"","",8601GP,Sneek
+Julianastraat,18,"","",8601GP,Sneek
+Julianastraat,19,"","",8601GP,Sneek
+Julianastraat,20,"","",8601GP,Sneek
+Julianastraat,22,"","",8601GP,Sneek
+Julianastraat,24,"","",8601GP,Sneek
+Julianastraat,26,"","",8601GP,Sneek
+Julianastraat,28,"","",8601GP,Sneek
+Julianastraat,29,"","",8601GP,Sneek
+Julianastraat,3,"","",8601GP,Sneek
+Julianastraat,30,"","",8601GP,Sneek
+Julianastraat,31,"","",8601GP,Sneek
+Julianastraat,32,"","",8601GP,Sneek
+Julianastraat,33,"","",8601GP,Sneek
+Julianastraat,34,"","",8601GP,Sneek
+Julianastraat,35,"","",8601GP,Sneek
+Julianastraat,36,"","",8601GP,Sneek
+Julianastraat,37,"","",8601GP,Sneek
+Julianastraat,38,"","",8601GP,Sneek
+Julianastraat,39,"","",8601GP,Sneek
+Julianastraat,4,"","",8601GP,Sneek
+Julianastraat,40,"","",8601GP,Sneek
+Julianastraat,41,"","",8601GP,Sneek
+Julianastraat,42,"","",8601GP,Sneek
+Julianastraat,43,"","",8601GP,Sneek
+Julianastraat,44,"","",8601GP,Sneek
+Julianastraat,45,"","",8601GP,Sneek
+Julianastraat,46,"","",8601GP,Sneek
+Julianastraat,47,"","",8601GP,Sneek
+Julianastraat,49,"","",8601GP,Sneek
+Julianastraat,5,"","",8601GP,Sneek
+Julianastraat,51,"","",8601GP,Sneek
+Julianastraat,53,"","",8601GP,Sneek
+Julianastraat,6,"","",8601GP,Sneek
+Julianastraat,63,"","",8601GP,Sneek
+Julianastraat,63,"","",8601GP,Sneek
+Julianastraat,67,"","",8601GP,Sneek
+Julianastraat,69,"","",8601GP,Sneek
+Julianastraat,71,"","",8601GP,Sneek
+Julianastraat,71,"","",8601GP,Sneek
+Julianastraat,73,"","",8601GP,Sneek
+Julianastraat,73,"","",8601GP,Sneek
+Julianastraat,8,"","",8601GP,Sneek
+Westersingel,27,"","",8601GR,Sneek
+Westersingel,28,"","",8601GR,Sneek
+Westersingel,28,"","",8601GR,Sneek
+Westersingel,30,"","",8601GR,Sneek
+Parkstraat,1,"","",8601GS,Sneek
+Parkstraat,10,"","",8601GS,Sneek
+Parkstraat,12,"","",8601GS,Sneek
+Parkstraat,14,"","",8601GS,Sneek
+Parkstraat,16,"","",8601GS,Sneek
+Parkstraat,18,"","",8601GS,Sneek
+Parkstraat,2,"","",8601GS,Sneek
+Parkstraat,20,"","",8601GS,Sneek
+Parkstraat,22,"","",8601GS,Sneek
+Parkstraat,6,"","",8601GS,Sneek
+Parkstraat,6,"",1,8601GS,Sneek
+Parkstraat,8,"","",8601GS,Sneek
+Badhuisgracht,1,"","",8601GV,Sneek
+Badhuisgracht,11,"","",8601GV,Sneek
+Badhuisgracht,13,"","",8601GV,Sneek
+Badhuisgracht,14,"","",8601GV,Sneek
+Badhuisgracht,15,"","",8601GV,Sneek
+Badhuisgracht,8,"","",8601GV,Sneek
+Malta,1,"","",8601GW,Sneek
+Malta,1,A,"",8601GW,Sneek
+Malta,11,"","",8601GW,Sneek
+Malta,13,"","",8601GW,Sneek
+Malta,15,"","",8601GW,Sneek
+Malta,17,"","",8601GW,Sneek
+Malta,19,"","",8601GW,Sneek
+Malta,2,"","",8601GW,Sneek
+Malta,21,"","",8601GW,Sneek
+Malta,23,"","",8601GW,Sneek
+Malta,25,"","",8601GW,Sneek
+Malta,27,"","",8601GW,Sneek
+Malta,29,"","",8601GW,Sneek
+Malta,3,"","",8601GW,Sneek
+Malta,31,"","",8601GW,Sneek
+Malta,33,"","",8601GW,Sneek
+Malta,35,"","",8601GW,Sneek
+Malta,39,"","",8601GW,Sneek
+Malta,41,"","",8601GW,Sneek
+Malta,43,"","",8601GW,Sneek
+Malta,45,"","",8601GW,Sneek
+Malta,47,"","",8601GW,Sneek
+Malta,49,"","",8601GW,Sneek
+Malta,5,"","",8601GW,Sneek
+Malta,7,"","",8601GW,Sneek
+Malta,9,"","",8601GW,Sneek
+Parkstraat,24,"","",8601GX,Sneek
+Parkstraat,26,"","",8601GX,Sneek
+Parkstraat,28,"","",8601GX,Sneek
+Parkstraat,30,"","",8601GX,Sneek
+Parkstraat,32,"","",8601GX,Sneek
+Parkstraat,34,"","",8601GX,Sneek
+Parkstraat,36,"","",8601GX,Sneek
+Parkstraat,38,"","",8601GX,Sneek
+Parkstraat,40,"","",8601GX,Sneek
+Parkstraat,42,"","",8601GX,Sneek
+Parkstraat,44,"","",8601GX,Sneek
+Parkstraat,46,"","",8601GX,Sneek
+Parkstraat,48,"","",8601GX,Sneek
+Parkstraat,50,"","",8601GX,Sneek
+Parkstraat,52,"","",8601GX,Sneek
+Parkstraat,54,"","",8601GX,Sneek
+Parkstraat,56,"","",8601GX,Sneek
+Parkstraat,58,"","",8601GX,Sneek
+Parkstraat,60,"","",8601GX,Sneek
+Malta,51,"","",8601GZ,Sneek
+Malta,53,"","",8601GZ,Sneek
+Malta,55,"","",8601GZ,Sneek
+Malta,57,"","",8601GZ,Sneek
+Malta,59,"","",8601GZ,Sneek
+Malta,61,"","",8601GZ,Sneek
+Malta,63,"","",8601GZ,Sneek
+Malta,65,"","",8601GZ,Sneek
+Malta,67,"","",8601GZ,Sneek
+Malta,69,"","",8601GZ,Sneek
+Malta,71,"","",8601GZ,Sneek
+Malta,73,"","",8601GZ,Sneek
+Malta,75,"","",8601GZ,Sneek
+Malta,77,"","",8601GZ,Sneek
+Malta,79,"","",8601GZ,Sneek
+Malta,81,"","",8601GZ,Sneek
+Noorderpoort,1,"","",8601HA,Sneek
+Noorderpoort,11,"","",8601HA,Sneek
+Noorderpoort,13,"","",8601HA,Sneek
+Noorderpoort,15,"","",8601HA,Sneek
+Noorderpoort,17,"","",8601HA,Sneek
+Noorderpoort,19,"","",8601HA,Sneek
+Noorderpoort,21,"","",8601HA,Sneek
+Noorderpoort,23,"","",8601HA,Sneek
+Noorderpoort,25,"","",8601HA,Sneek
+Noorderpoort,27,"","",8601HA,Sneek
+Noorderpoort,29,"","",8601HA,Sneek
+Noorderpoort,3,"","",8601HA,Sneek
+Noorderpoort,31,"","",8601HA,Sneek
+Noorderpoort,33,"","",8601HA,Sneek
+Noorderpoort,35,"","",8601HA,Sneek
+Noorderpoort,37,"","",8601HA,Sneek
+Noorderpoort,5,"","",8601HA,Sneek
+Noorderpoort,7,"","",8601HA,Sneek
+Noorderpoort,9,"","",8601HA,Sneek
+Noorderpoort,39,"","",8601HB,Sneek
+Noorderpoort,41,"","",8601HB,Sneek
+Noorderpoort,43,"","",8601HB,Sneek
+Noorderpoort,45,"","",8601HB,Sneek
+Noorderpoort,47,"","",8601HB,Sneek
+Noorderpoort,49,"","",8601HB,Sneek
+Noorderpoort,51,"","",8601HB,Sneek
+Noorderpoort,53,"","",8601HB,Sneek
+Noorderpoort,55,"","",8601HB,Sneek
+Noorderpoort,57,"","",8601HB,Sneek
+Noorderpoort,59,"","",8601HB,Sneek
+Noorderpoort,61,"","",8601HB,Sneek
+Noorderpoort,63,"","",8601HB,Sneek
+Noorderpoort,65,"","",8601HB,Sneek
+Noorderpoort,67,"","",8601HB,Sneek
+Noorderpoort,69,"","",8601HB,Sneek
+Noorderpoort,71,"","",8601HB,Sneek
+Noorderpoort,10,"","",8601HC,Sneek
+Noorderpoort,12,"","",8601HC,Sneek
+Noorderpoort,14,"","",8601HC,Sneek
+Noorderpoort,16,"","",8601HC,Sneek
+Noorderpoort,18,"","",8601HC,Sneek
+Noorderpoort,2,"","",8601HC,Sneek
+Noorderpoort,20,"","",8601HC,Sneek
+Noorderpoort,22,"","",8601HC,Sneek
+Noorderpoort,4,"","",8601HC,Sneek
+Noorderpoort,6,"","",8601HC,Sneek
+Noorderpoort,8,"","",8601HC,Sneek
+Zoutkeet,1,"","",8601HE,Sneek
+Zoutkeet,2,"","",8601HE,Sneek
+Zoutkeet,3,"","",8601HE,Sneek
+Zoutkeet,4,"","",8601HE,Sneek
+Zoutkeet,5,"","",8601HE,Sneek
+Zoutkeet,6,"","",8601HE,Sneek
+Zoutkeet,7,"","",8601HE,Sneek
+Zuidwesthoekweg,2,"","",8601HG,Sneek
+Zuidwesthoekweg,2,"",1,8601HG,Sneek
+Zuidwesthoekweg,7,"","",8601HG,Sneek
+Zuidwesthoekweg,7,"","",8601HG,Sneek
+Beatrixstraat,10,"","",8601HH,Sneek
+Beatrixstraat,12,"","",8601HH,Sneek
+Beatrixstraat,14,"","",8601HH,Sneek
+Beatrixstraat,16,"","",8601HH,Sneek
+Beatrixstraat,18,"","",8601HH,Sneek
+Beatrixstraat,2,"","",8601HH,Sneek
+Beatrixstraat,20,"","",8601HH,Sneek
+Beatrixstraat,22,"","",8601HH,Sneek
+Beatrixstraat,24,"","",8601HH,Sneek
+Beatrixstraat,26,"","",8601HH,Sneek
+Beatrixstraat,4,"","",8601HH,Sneek
+Beatrixstraat,6,"","",8601HH,Sneek
+Beatrixstraat,8,"","",8601HH,Sneek
+Sint Antoniusplein,14,"","",8601HJ,Sneek
+Sint Antoniusplein,15,"","",8601HJ,Sneek
+Sint Antoniusplein,16,"","",8601HJ,Sneek
+Sint Antoniusplein,17,"","",8601HJ,Sneek
+Sint Antoniusplein,18,"","",8601HJ,Sneek
+Sint Antoniusplein,19,"","",8601HJ,Sneek
+Sint Antoniusplein,2,"","",8601HJ,Sneek
+Sint Antoniusplein,2,"",002,8601HJ,Sneek
+Sint Antoniusplein,20,"","",8601HJ,Sneek
+Sint Antoniusplein,21,"","",8601HJ,Sneek
+Sint Antoniusplein,22,"","",8601HJ,Sneek
+Sint Antoniusplein,23,"","",8601HJ,Sneek
+Sint Antoniusplein,24,"","",8601HJ,Sneek
+Sint Antoniusplein,25,"","",8601HJ,Sneek
+Sint Antoniusplein,26,"","",8601HJ,Sneek
+Sint Antoniusplein,27,"","",8601HJ,Sneek
+Sint Antoniusplein,5,"",2,8601HJ,Sneek
+Sint Antoniusplein,5,"",3,8601HJ,Sneek
+Sint Antoniusplein,28,"","",8601HK,Sneek
+Sint Antoniusplein,30,"","",8601HK,Sneek
+Sint Antoniusplein,32,"","",8601HK,Sneek
+Sint Antoniusplein,33,"","",8601HK,Sneek
+Sint Antoniusplein,34,"","",8601HK,Sneek
+Sint Antoniusplein,35,"","",8601HK,Sneek
+Sint Antoniusplein,37,"","",8601HK,Sneek
+Sint Antoniusplein,38,"","",8601HK,Sneek
+Sint Antoniusplein,39,"","",8601HK,Sneek
+Sint Antoniusplein,40,"","",8601HK,Sneek
+Sint Antoniusplein,41,"","",8601HK,Sneek
+Sint Antoniusplein,43,"","",8601HK,Sneek
+Sint Antoniusplein,44,"","",8601HK,Sneek
+Sint Antoniusplein,45,"","",8601HK,Sneek
+Sint Antoniusplein,46,"","",8601HK,Sneek
+Sint Antoniusplein,47,"","",8601HK,Sneek
+Sint Antoniusplein,48,"","",8601HK,Sneek
+Sint Antoniusplein,49,"","",8601HK,Sneek
+Sint Antoniusplein,50,"","",8601HK,Sneek
+Sint Antoniusplein,51,"","",8601HK,Sneek
+Sint Antoniusplein,52,"","",8601HK,Sneek
+Smidsbuurt,1,"","",8601HL,Sneek
+Smidsbuurt,1,A,"",8601HL,Sneek
+Smidsbuurt,2,"","",8601HL,Sneek
+Smidsbuurt,2,A,"",8601HL,Sneek
+Smidsbuurt,3,"","",8601HL,Sneek
+Smidsbuurt,3,A,"",8601HL,Sneek
+Smidsbuurt,4,"","",8601HL,Sneek
+Smidsbuurt,4,A,"",8601HL,Sneek
+Smidsbuurt,5,"","",8601HL,Sneek
+Smidsbuurt,5,A,"",8601HL,Sneek
+Tulpstraat,1,"","",8603XX,Sneek
+Tulpstraat,10,"","",8603XX,Sneek
+Tulpstraat,11,"","",8603XX,Sneek
+Tulpstraat,12,"","",8603XX,Sneek
+Tulpstraat,13,"","",8603XX,Sneek
+Tulpstraat,14,"","",8603XX,Sneek
+Tulpstraat,15,"","",8603XX,Sneek
+Tulpstraat,17,"","",8603XX,Sneek
+Tulpstraat,19,"","",8603XX,Sneek
+Tulpstraat,2,"","",8603XX,Sneek
+Tulpstraat,21,"","",8603XX,Sneek
+Tulpstraat,23,"","",8603XX,Sneek
+Tulpstraat,25,"","",8603XX,Sneek
+Tulpstraat,27,"","",8603XX,Sneek
+Tulpstraat,29,"","",8603XX,Sneek
+Tulpstraat,3,"","",8603XX,Sneek
+Tulpstraat,31,"","",8603XX,Sneek
+Tulpstraat,33,"","",8603XX,Sneek
+Tulpstraat,35,"","",8603XX,Sneek
+Tulpstraat,37,"","",8603XX,Sneek
+Tulpstraat,39,"","",8603XX,Sneek
+Tulpstraat,4,"","",8603XX,Sneek
+Tulpstraat,41,"","",8603XX,Sneek
+Tulpstraat,41,A,"",8603XX,Sneek
+Tulpstraat,41,B,"",8603XX,Sneek
+Tulpstraat,41,C,"",8603XX,Sneek
+Tulpstraat,41,D,"",8603XX,Sneek
+Tulpstraat,41,E,"",8603XX,Sneek
+Tulpstraat,41,F,"",8603XX,Sneek
+Tulpstraat,41,G,"",8603XX,Sneek
+Tulpstraat,5,"","",8603XX,Sneek
+Tulpstraat,6,"","",8603XX,Sneek
+Tulpstraat,7,"","",8603XX,Sneek
+Tulpstraat,8,"","",8603XX,Sneek
+Tulpstraat,9,"","",8603XX,Sneek

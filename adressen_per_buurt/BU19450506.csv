@@ -1,66 +1,66 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6562JG,Hulsbroek,1,,
-6562JG,Hulsbroek,15,,
-6562JG,Hulsbroek,15,a,
-6562JG,Hulsbroek,17,a,
-6562JG,Hulsbroek,17,,
-6562KX,Koningin Wilhelminaweg,1,,
-6562KX,Koningin Wilhelminaweg,1,a,
-6562KX,Koningin Wilhelminaweg,3,,
-6562KX,Koningin Wilhelminaweg,5,,
-6562KX,Koningin Wilhelminaweg,7,,
-6562KX,Koningin Wilhelminaweg,9,,
-6562KX,Koningin Wilhelminaweg,17,,
-6562KX,Koningin Wilhelminaweg,21,,
-6562KX,Koningin Wilhelminaweg,21,a,
-6562KX,Koningin Wilhelminaweg,21,b,
-6562KX,Koningin Wilhelminaweg,21,c,
-6562KX,Koningin Wilhelminaweg,23,,
-6562KX,Koningin Wilhelminaweg,25,,
-6562KX,Koningin Wilhelminaweg,31,,
-6562KX,Koningin Wilhelminaweg,33,,
-6562KX,Koningin Wilhelminaweg,33,,
-6562KX,Koningin Wilhelminaweg,37,,
-6562KX,Koningin Wilhelminaweg,37,,KAS
-6562KX,Koningin Wilhelminaweg,39,,
-6562KX,Koningin Wilhelminaweg,41,,
-6562KX,Koningin Wilhelminaweg,41,a,
-6562KX,Koningin Wilhelminaweg,43,,
-6562KX,Koningin Wilhelminaweg,45,,
-6562KX,Koningin Wilhelminaweg,47,,
-6562KX,Koningin Wilhelminaweg,47,a,
-6562KX,Koningin Wilhelminaweg,43,a,
-6562LZ,Mies,1,,
-6562LZ,Mies,1,a,
-6562LZ,Mies,1,a,
-6562LZ,Mies,1,b,
-6562LZ,Mies,3,,
-6562LZ,Mies,3,a,
-6562LZ,Mies,6,,
-6562LZ,Mies,17,,
-6562LZ,Mies,2,,
-6562JG,Hulsbroek,3,,
-6562JG,Hulsbroek,7,,
-6562JG,Hulsbroek,17,b,
-6562JG,Hulsbroek,17,c,
-6562JG,Hulsbroek,17,d,
-6562JG,Hulsbroek,17,e,
-6562JG,Hulsbroek,17,f,
-6562JG,Hulsbroek,17,g,
-6562KX,Koningin Wilhelminaweg,7,a,
-6562KX,Koningin Wilhelminaweg,41,b,
-6562KX,Koningin Wilhelminaweg,41,c,
-6562KX,Koningin Wilhelminaweg,31,a,
-6562KX,Koningin Wilhelminaweg,31,a,
-6562LZ,Mies,4,,
-6562LZ,Mies,6,,
-6562LZ,Mies,6,a,
-6562LZ,Mies,6,b,
-6562LZ,Mies,6,c,
-6562LZ,Mies,8,,
-6562LZ,Mies,10,,
-6562LZ,Mies,12,,
-6562LZ,Mies,14,,
-6562LZ,Mies,16,,
-6562LZ,Mies,4,,
-6562LZ,Mies,4,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hulsbroek,1,"","",6562JG,Groesbeek
+Hulsbroek,15,"","",6562JG,Groesbeek
+Hulsbroek,15,A,"",6562JG,Groesbeek
+Hulsbroek,17,"","",6562JG,Groesbeek
+Hulsbroek,17,A,"",6562JG,Groesbeek
+Hulsbroek,17,B,"",6562JG,Groesbeek
+Hulsbroek,17,C,"",6562JG,Groesbeek
+Hulsbroek,17,D,"",6562JG,Groesbeek
+Hulsbroek,17,E,"",6562JG,Groesbeek
+Hulsbroek,17,F,"",6562JG,Groesbeek
+Hulsbroek,17,G,"",6562JG,Groesbeek
+Hulsbroek,3,"","",6562JG,Groesbeek
+Hulsbroek,7,"","",6562JG,Groesbeek
+Koningin Wilhelminaweg,1,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,1,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,17,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,21,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,21,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,21,B,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,21,C,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,23,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,25,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,3,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,31,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,31,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,31,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,33,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,33,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,37,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,37,"",KAS,6562KX,Groesbeek
+Koningin Wilhelminaweg,39,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,41,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,41,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,41,B,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,41,C,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,43,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,43,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,45,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,47,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,47,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,5,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,7,"","",6562KX,Groesbeek
+Koningin Wilhelminaweg,7,A,"",6562KX,Groesbeek
+Koningin Wilhelminaweg,9,"","",6562KX,Groesbeek
+Mies,1,"","",6562LZ,Groesbeek
+Mies,1,A,"",6562LZ,Groesbeek
+Mies,1,A,"",6562LZ,Groesbeek
+Mies,1,B,"",6562LZ,Groesbeek
+Mies,10,"","",6562LZ,Groesbeek
+Mies,12,"","",6562LZ,Groesbeek
+Mies,14,"","",6562LZ,Groesbeek
+Mies,16,"","",6562LZ,Groesbeek
+Mies,17,"","",6562LZ,Groesbeek
+Mies,2,"","",6562LZ,Groesbeek
+Mies,3,"","",6562LZ,Groesbeek
+Mies,3,A,"",6562LZ,Groesbeek
+Mies,4,"","",6562LZ,Groesbeek
+Mies,4,"","",6562LZ,Groesbeek
+Mies,4,A,"",6562LZ,Groesbeek
+Mies,6,"","",6562LZ,Groesbeek
+Mies,6,"","",6562LZ,Groesbeek
+Mies,6,A,"",6562LZ,Groesbeek
+Mies,6,B,"",6562LZ,Groesbeek
+Mies,6,C,"",6562LZ,Groesbeek
+Mies,8,"","",6562LZ,Groesbeek

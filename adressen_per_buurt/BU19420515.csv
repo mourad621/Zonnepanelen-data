@@ -1,49 +1,49 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1411JN,Brediusweg,81,,
-1411JN,Brediusweg,83,,
-1411JN,Brediusweg,85,,
-1411JN,Brediusweg,80,,
-1411JN,Brediusweg,82,,
-1411JN,Brediusweg,84,,
-1411JN,Brediusweg,86,,
-1411JN,Brediusweg,88,,
-1411JN,Brediusweg,92,,
-1411JN,Brediusweg,94,,
-1411JP,Hinlopenlaan,1,,
-1411JP,Hinlopenlaan,3,,
-1411JP,Hinlopenlaan,5,,
-1411JP,Hinlopenlaan,7,,
-1411JP,Hinlopenlaan,4,,
-1411JP,Hinlopenlaan,6,,
-1411JP,Hinlopenlaan,8,,
-1411JP,Hinlopenlaan,10,,
-1411JP,Hinlopenlaan,12,,
-1411JP,Hinlopenlaan,14,,
-1411JP,Hinlopenlaan,16,,
-1411JP,Hinlopenlaan,18,,
-1411HK,Amersfoortsestraatweg,130,,
-1411HK,Amersfoortsestraatweg,132,,
-1411HK,Amersfoortsestraatweg,134,,
-1411HK,Amersfoortsestraatweg,136,,
-1411HK,Amersfoortsestraatweg,138,,
-1411HK,Amersfoortsestraatweg,140,,
-1411HK,Amersfoortsestraatweg,142,,
-1411JN,Oud Blaricumerweg,3,A,
-1411JR,Oud Blaricumerweg,3,A,
-1411JR,Oud Blaricumerweg,1,,
-1411JR,Oud Blaricumerweg,3,,
-1411JR,Oud Blaricumerweg,5,,
-1411JR,Oud Blaricumerweg,5,A,
-1411JR,Oud Blaricumerweg,7,,
-1411JM,Paulus van Loolaan,1,,
-1411JM,Paulus van Loolaan,3,,
-1411JM,Paulus van Loolaan,5,,
-1411JM,Paulus van Loolaan,7,,
-1411JM,Paulus van Loolaan,9,,
-1411JM,Paulus van Loolaan,11,,
-1411JM,Paulus van Loolaan,13,,
-1411JM,Paulus van Loolaan,15,,
-1411JM,Paulus van Loolaan,17,,
-1411JM,Paulus van Loolaan,19,,
-1411JM,Paulus van Loolaan,21,,
-1411JR,Oud Blaricumerweg,7,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Amersfoortsestraatweg,130,"","",1411HK,Naarden
+Amersfoortsestraatweg,132,"","",1411HK,Naarden
+Amersfoortsestraatweg,134,"","",1411HK,Naarden
+Amersfoortsestraatweg,136,"","",1411HK,Naarden
+Amersfoortsestraatweg,138,"","",1411HK,Naarden
+Amersfoortsestraatweg,140,"","",1411HK,Naarden
+Amersfoortsestraatweg,142,"","",1411HK,Naarden
+Paulus van Loolaan,1,"","",1411JM,Naarden
+Paulus van Loolaan,11,"","",1411JM,Naarden
+Paulus van Loolaan,13,"","",1411JM,Naarden
+Paulus van Loolaan,15,"","",1411JM,Naarden
+Paulus van Loolaan,17,"","",1411JM,Naarden
+Paulus van Loolaan,19,"","",1411JM,Naarden
+Paulus van Loolaan,21,"","",1411JM,Naarden
+Paulus van Loolaan,3,"","",1411JM,Naarden
+Paulus van Loolaan,5,"","",1411JM,Naarden
+Paulus van Loolaan,7,"","",1411JM,Naarden
+Paulus van Loolaan,9,"","",1411JM,Naarden
+Oud Blaricumerweg,3,A,"",1411JN,Naarden
+Brediusweg,80,"","",1411JN,Naarden
+Brediusweg,81,"","",1411JN,Naarden
+Brediusweg,82,"","",1411JN,Naarden
+Brediusweg,83,"","",1411JN,Naarden
+Brediusweg,84,"","",1411JN,Naarden
+Brediusweg,85,"","",1411JN,Naarden
+Brediusweg,86,"","",1411JN,Naarden
+Brediusweg,88,"","",1411JN,Naarden
+Brediusweg,92,"","",1411JN,Naarden
+Brediusweg,94,"","",1411JN,Naarden
+Hinlopenlaan,1,"","",1411JP,Naarden
+Hinlopenlaan,10,"","",1411JP,Naarden
+Hinlopenlaan,12,"","",1411JP,Naarden
+Hinlopenlaan,14,"","",1411JP,Naarden
+Hinlopenlaan,16,"","",1411JP,Naarden
+Hinlopenlaan,18,"","",1411JP,Naarden
+Hinlopenlaan,3,"","",1411JP,Naarden
+Hinlopenlaan,4,"","",1411JP,Naarden
+Hinlopenlaan,5,"","",1411JP,Naarden
+Hinlopenlaan,6,"","",1411JP,Naarden
+Hinlopenlaan,7,"","",1411JP,Naarden
+Hinlopenlaan,8,"","",1411JP,Naarden
+Oud Blaricumerweg,1,"","",1411JR,Naarden
+Oud Blaricumerweg,3,"","",1411JR,Naarden
+Oud Blaricumerweg,3,A,"",1411JR,Naarden
+Oud Blaricumerweg,5,"","",1411JR,Naarden
+Oud Blaricumerweg,5,A,"",1411JR,Naarden
+Oud Blaricumerweg,7,"","",1411JR,Naarden
+Oud Blaricumerweg,7,A,"",1411JR,Naarden

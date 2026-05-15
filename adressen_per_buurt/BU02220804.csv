@@ -1,81 +1,81 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7008AD,Henk Luesinkweg,3,,
-7008AD,Henk Luesinkweg,4,,
-7008AD,Henk Luesinkweg,6,,
-7008AD,Henk Luesinkweg,7,,
-7008BC,Keppelseweg,285,A,
-7008BC,Keppelseweg,285,B,
-7008AD,Henk Luesinkweg,8,,
-7008AD,Henk Luesinkweg,9,,
-7008AD,Henk Luesinkweg,10,,
-7008AD,Henk Luesinkweg,11,,
-7008AD,Henk Luesinkweg,12,,
-7008AD,Henk Luesinkweg,13,,
-7008AD,Henk Luesinkweg,14,,
-7008AD,Henk Luesinkweg,16,,
-7008AZ,Nederbergweg,1,,
-7008AZ,Nederbergweg,1,A,
-7008AZ,Nederbergweg,2,,
-7008AZ,Nederbergweg,3,,
-7008AZ,Nederbergweg,4,A,
-7008AZ,Nederbergweg,5,A,
-7008AZ,Nederbergweg,6,,
-7008AZ,Nederbergweg,7,,
-7008AZ,Nederbergweg,8,,
-7008AZ,Nederbergweg,9,,
-7008BC,Keppelseweg,261,,
-7008BC,Keppelseweg,267,,
-7008BC,Keppelseweg,279,,
-7008BC,Keppelseweg,281,,
-7008BC,Keppelseweg,283,,
-7008BC,Keppelseweg,285,,
-7008BC,Keppelseweg,285,,
-7008BC,Keppelseweg,341,,
-7008BC,Keppelseweg,347,,
-7008BD,Keppelseweg,367,,
-7008BD,Keppelseweg,359,,
-7008BD,Keppelseweg,365,,
-7008BD,Keppelseweg,369,,
-7008BD,Keppelseweg,377,,
-7008BD,Keppelseweg,381,,
-7008BD,Keppelseweg,383,,
-7008BD,Keppelseweg,385,,
-7008BD,Keppelseweg,387,,
-7008BE,Keppelseweg,391,,
-7008BE,Keppelseweg,393,,
-7008BE,Keppelseweg,397,,
-7008BE,Keppelseweg,399,,
-7008BE,Keppelseweg,401,,
-7008BE,Keppelseweg,407,,
-7008BE,Keppelseweg,409,,
-7008BE,Keppelseweg,411,,
-7008BE,Keppelseweg,413,,
-7008BE,Keppelseweg,415,,
-7008BE,Keppelseweg,419,,
-7008BE,Keppelseweg,421,,
-7008AZ,Nederbergweg,4,,
-7008AZ,Nederbergweg,5,,
-7008BE,Keppelseweg,395,,
-7008BE,Keppelseweg,403,,
-7008AD,Henk Luesinkweg,18,,
-7008AD,Henk Luesinkweg,5,,
-7008AD,Henk Luesinkweg,16,,
-7008AD,Henk Luesinkweg,5,,
-7008AD,Henk Luesinkweg,9,,
-7008AD,Henk Luesinkweg,3,,
-7008AD,Henk Luesinkweg,7,,
-7008AD,Henk Luesinkweg,18,,
-7008AZ,Nederbergweg,2,A,
-7008AZ,Nederbergweg,3,,
-7008AZ,Nederbergweg,2,,
-7008AZ,Nederbergweg,2,,
-7008AZ,Nederbergweg,2,,01
-7008BC,Keppelseweg,337,,
-7008BC,Keppelseweg,339,,
-7008BD,Keppelseweg,361,,
-7008BD,Keppelseweg,363,,
-7008BD,Keppelseweg,371,,
-7008BD,Keppelseweg,377,A,
-7008BD,Keppelseweg,389,,
-7008BD,Keppelseweg,389,,
-7008BD,Keppelseweg,387,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Henk Luesinkweg,10,"","",7008AD,Doetinchem
+Henk Luesinkweg,11,"","",7008AD,Doetinchem
+Henk Luesinkweg,12,"","",7008AD,Doetinchem
+Henk Luesinkweg,13,"","",7008AD,Doetinchem
+Henk Luesinkweg,14,"","",7008AD,Doetinchem
+Henk Luesinkweg,16,"","",7008AD,Doetinchem
+Henk Luesinkweg,16,"","",7008AD,Doetinchem
+Henk Luesinkweg,18,"","",7008AD,Doetinchem
+Henk Luesinkweg,18,"","",7008AD,Doetinchem
+Henk Luesinkweg,3,"","",7008AD,Doetinchem
+Henk Luesinkweg,3,"","",7008AD,Doetinchem
+Henk Luesinkweg,4,"","",7008AD,Doetinchem
+Henk Luesinkweg,5,"","",7008AD,Doetinchem
+Henk Luesinkweg,5,"","",7008AD,Doetinchem
+Henk Luesinkweg,6,"","",7008AD,Doetinchem
+Henk Luesinkweg,7,"","",7008AD,Doetinchem
+Henk Luesinkweg,7,"","",7008AD,Doetinchem
+Henk Luesinkweg,8,"","",7008AD,Doetinchem
+Henk Luesinkweg,9,"","",7008AD,Doetinchem
+Henk Luesinkweg,9,"","",7008AD,Doetinchem
+Nederbergweg,1,"","",7008AZ,Doetinchem
+Nederbergweg,1,A,"",7008AZ,Doetinchem
+Nederbergweg,2,"","",7008AZ,Doetinchem
+Nederbergweg,2,"","",7008AZ,Doetinchem
+Nederbergweg,2,"","",7008AZ,Doetinchem
+Nederbergweg,2,"",01,7008AZ,Doetinchem
+Nederbergweg,2,A,"",7008AZ,Doetinchem
+Nederbergweg,3,"","",7008AZ,Doetinchem
+Nederbergweg,3,"","",7008AZ,Doetinchem
+Nederbergweg,4,"","",7008AZ,Doetinchem
+Nederbergweg,4,A,"",7008AZ,Doetinchem
+Nederbergweg,5,"","",7008AZ,Doetinchem
+Nederbergweg,5,A,"",7008AZ,Doetinchem
+Nederbergweg,6,"","",7008AZ,Doetinchem
+Nederbergweg,7,"","",7008AZ,Doetinchem
+Nederbergweg,8,"","",7008AZ,Doetinchem
+Nederbergweg,9,"","",7008AZ,Doetinchem
+Keppelseweg,261,"","",7008BC,Doetinchem
+Keppelseweg,267,"","",7008BC,Doetinchem
+Keppelseweg,279,"","",7008BC,Doetinchem
+Keppelseweg,281,"","",7008BC,Doetinchem
+Keppelseweg,283,"","",7008BC,Doetinchem
+Keppelseweg,285,"","",7008BC,Doetinchem
+Keppelseweg,285,"","",7008BC,Doetinchem
+Keppelseweg,285,A,"",7008BC,Doetinchem
+Keppelseweg,285,B,"",7008BC,Doetinchem
+Keppelseweg,337,"","",7008BC,Doetinchem
+Keppelseweg,339,"","",7008BC,Doetinchem
+Keppelseweg,341,"","",7008BC,Doetinchem
+Keppelseweg,347,"","",7008BC,Doetinchem
+Keppelseweg,359,"","",7008BD,Doetinchem
+Keppelseweg,361,"","",7008BD,Doetinchem
+Keppelseweg,363,"","",7008BD,Doetinchem
+Keppelseweg,365,"","",7008BD,Doetinchem
+Keppelseweg,367,"","",7008BD,Doetinchem
+Keppelseweg,369,"","",7008BD,Doetinchem
+Keppelseweg,371,"","",7008BD,Doetinchem
+Keppelseweg,377,"","",7008BD,Doetinchem
+Keppelseweg,377,A,"",7008BD,Doetinchem
+Keppelseweg,381,"","",7008BD,Doetinchem
+Keppelseweg,383,"","",7008BD,Doetinchem
+Keppelseweg,385,"","",7008BD,Doetinchem
+Keppelseweg,387,"","",7008BD,Doetinchem
+Keppelseweg,387,"","",7008BD,Doetinchem
+Keppelseweg,389,"","",7008BD,Doetinchem
+Keppelseweg,389,"","",7008BD,Doetinchem
+Keppelseweg,391,"","",7008BE,Doetinchem
+Keppelseweg,393,"","",7008BE,Doetinchem
+Keppelseweg,395,"","",7008BE,Doetinchem
+Keppelseweg,397,"","",7008BE,Doetinchem
+Keppelseweg,399,"","",7008BE,Doetinchem
+Keppelseweg,401,"","",7008BE,Doetinchem
+Keppelseweg,403,"","",7008BE,Doetinchem
+Keppelseweg,407,"","",7008BE,Doetinchem
+Keppelseweg,409,"","",7008BE,Doetinchem
+Keppelseweg,411,"","",7008BE,Doetinchem
+Keppelseweg,413,"","",7008BE,Doetinchem
+Keppelseweg,415,"","",7008BE,Doetinchem
+Keppelseweg,419,"","",7008BE,Doetinchem
+Keppelseweg,421,"","",7008BE,Doetinchem

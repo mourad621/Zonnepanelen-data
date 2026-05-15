@@ -1,445 +1,238 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9402LT",340,"",""
-"9402LT",352,"",""
-"9402LT",336,"",""
-"9402LT",322,"",""
-"9402LT",330,"",""
-"9402LT",332,"",""
-"9402LT",350,"A",""
-"9402LT",350,"",""
-"9402LT",350,"A",""
-"9402LT",338,"",""
-"9402LT",334,"",""
-"9402LT",324,"",""
-"9402LT",320,"",""
-"9402LT",350,"A",""
-"9402LT",328,"",""
-"9402LT",326,"",""
-"9402NP",19,"",""
-"9402NP",9,"",""
-"9402NP",3,"",""
-"9402NP",17,"",""
-"9402NP",7,"",""
-"9402NP",21,"",""
-"9402NP",11,"",""
-"9402NP",19,"",""
-"9402NP",9,"",""
-"9402NP",9,"",""
-"9402NP",5,"",""
-"9402NP",21,"",""
-"9402NP",19,"",""
-"9402NP",1,"D",""
-"9402NP",1,"B",""
-"9402NP",1,"B",""
-"9402NP",1,"",""
-"9402NP",7,"",""
-"9402NP",7,"",""
-"9402NP",19,"",""
-"9402NP",1,"B",""
-"9402NP",15,"",""
-"9402NP",1,"C",""
-"9402NP",5,"A",""
-"9402NP",19,"",""
-"9402NP",1,"A",""
-"9402NP",1,"",""
-"9402NP",19,"",""
-"9402NP",1,"B",""
-"9402NP",19,"A",""
-"9402NP",21,"",""
-"9402NP",1,"A",""
-"9402NP",1,"",""
-"9402NR",1,"",""
-"9402NR",3,"",""
-"9402NR",3,"",""
-"9402NR",4,"",""
-"9402NR",6,"",""
-"9402NR",1,"A",""
-"9402NR",5,"",""
-"9403AB",38,"",""
-"9403AB",38,"",""
-"9403AB",46,"",""
-"9403AB",24,"",""
-"9403AB",30,"",""
-"9403AB",38,"",""
-"9403AB",30,"C",""
-"9403AB",36,"A",""
-"9403AB",24,"",""
-"9403AB",32,"A",""
-"9403AB",40,"",""
-"9403AB",24,"",""
-"9403AB",38,"A",""
-"9403AB",28,"",""
-"9403AB",34,"A",""
-"9403AB",30,"C",""
-"9403AB",38,"",""
-"9403AB",46,"",""
-"9403AB",44,"A",""
-"9403AB",44,"",""
-"9403AB",30,"B",""
-"9403AB",46,"A",""
-"9403AB",38,"B",""
-"9403AB",34,"",""
-"9403AB",26,"A",""
-"9403AB",24,"A",""
-"9403AB",36,"C",""
-"9403AB",46,"",""
-"9403AB",38,"",""
-"9403AB",28,"A",""
-"9403AB",30,"A",""
-"9403AB",42,"",""
-"9403AB",36,"",""
-"9403AB",26,"",""
-"9403AB",26,"",""
-"9403AB",32,"",""
-"9403AB",30,"B",""
-"9403AB",30,"",""
-"9403AB",38,"A","1"
-"9403AB",26,"",""
-"9403AB",24,"",""
-"9403AB",24,"A",""
-"9403AB",30,"A",""
-"9403AB",30,"",""
-"9403AJ",9,"F",""
-"9403AJ",13,"",""
-"9403AJ",9,"I",""
-"9403AJ",3,"",""
-"9403AJ",3,"A",""
-"9403AJ",3,"E",""
-"9403AJ",9,"H",""
-"9403AJ",9,"C",""
-"9403AJ",27,"",""
-"9403AJ",19,"",""
-"9403AJ",9,"H",""
-"9403AJ",3,"",""
-"9403AJ",3,"F",""
-"9403AJ",3,"",""
-"9403AJ",25,"",""
-"9403AJ",9,"E",""
-"9403AJ",9,"G",""
-"9403AJ",3,"G",""
-"9403AJ",3,"H",""
-"9403AJ",11,"",""
-"9403AJ",15,"",""
-"9403AJ",3,"B",""
-"9403AJ",3,"C",""
-"9403AJ",3,"C",""
-"9403AJ",9,"D",""
-"9403AJ",29,"",""
-"9403AJ",21,"",""
-"9403AJ",3,"K",""
-"9403AJ",23,"",""
-"9403AJ",17,"",""
-"9403AJ",13,"",""
-"9403AJ",9,"A",""
-"9403AJ",9,"J",""
-"9403AJ",3,"G",""
-"9403AJ",7,"C",""
-"9403AJ",15,"A",""
-"9403AJ",7,"",""
-"9403AJ",9,"",""
-"9403AJ",3,"M",""
-"9403AJ",7,"B",""
-"9403AJ",9,"B",""
-"9403AM",5,"B",""
-"9403AM",1,"",""
-"9403AM",3,"",""
-"9403AM",7,"B",""
-"9403AM",7,"G",""
-"9403AM",7,"F",""
-"9403AM",7,"",""
-"9403AM",7,"D",""
-"9403AM",7,"C",""
-"9403AM",7,"A",""
-"9403AM",5,"A",""
-"9403AM",5,"",""
-"9403AM",3,"",""
-"9403AM",7,"H",""
-"9403AM",7,"",""
-"9403AM",7,"D",""
-"9403AM",7,"H",""
-"9403AM",7,"F",""
-"9403AM",7,"E",""
-"9403AM",9,"",""
-"9403AM",7,"G",""
-"9403AM",7,"E",""
-"9403AM",7,"B",""
-"9403AM",7,"C",""
-"9403AM",9,"",""
-"9403AM",7,"A",""
-"9403AM",5,"C",""
-"9403AM",7,"A",""
-"9403AR",27,"",""
-"9403AR",13,"",""
-"9403AR",3,"B",""
-"9403AR",3,"A",""
-"9403AR",27,"",""
-"9403AR",17,"",""
-"9403AR",13,"",""
-"9403AR",3,"C",""
-"9403AR",27,"",""
-"9403AR",9,"",""
-"9403AR",21,"",""
-"9403AR",5,"",""
-"9403AR",3,"",""
-"9403AR",39,"",""
-"9403AR",5,"",""
-"9403AR",31,"",""
-"9403AR",17,"",""
-"9403AR",33,"",""
-"9403AR",5,"",""
-"9403AR",19,"",""
-"9403AR",23,"",""
-"9403AR",37,"",""
-"9403AR",35,"",""
-"9403AR",25,"",""
-"9403AR",11,"",""
-"9403AR",29,"",""
-"9403AR",9,"",""
-"9403AS",24,"",""
-"9403AS",4,"",""
-"9403AS",18,"",""
-"9403AS",20,"A",""
-"9403AS",4,"A",""
-"9403AS",24,"A",""
-"9403AS",22,"",""
-"9403AS",24,"",""
-"9403AS",6,"",""
-"9403AS",16,"",""
-"9403AS",6,"A",""
-"9403AS",12,"",""
-"9403AS",10,"",""
-"9403AS",2,"B",""
-"9403AS",24,"B",""
-"9403AS",20,"",""
-"9403AS",14,"",""
-"9403AS",12,"",""
-"9403AS",6,"A",""
-"9403AS",24,"",""
-"9403AS",24,"B",""
-"9403AS",30,"A",""
-"9403AS",30,"",""
-"9403AS",34,"",""
-"9403AS",24,"",""
-"9403AS",2,"B",""
-"9403AS",2,"",""
-"9403AS",8,"",""
-"9403AS",32,"",""
-"9403AS",12,"",""
-"9403AS",24,"A",""
-"9403AS",4,"A",""
-"9403AT",1,"",""
-"9403AT",2,"",""
-"9403AT",5,"",""
-"9403AT",7,"",""
-"9403AT",3,"",""
-"9403BA",1,"A",""
-"9403BA",2,"",""
-"9403BA",1,"",""
-"9403BA",2,"",""
-9403AM,A.H.G. Fokkerstraat,5,A,
-9403AM,A.H.G. Fokkerstraat,5,,
-9403AM,A.H.G. Fokkerstraat,7,,
-9403BA,Claes van Gorcumstraat,1,A,
-9403BA,Claes van Gorcumstraat,1,,
-9403AM,A.H.G. Fokkerstraat,1,,
-9402LT,Groningerstraat,320,,
-9402LT,Groningerstraat,322,,
-9402LT,Groningerstraat,324,,
-9402LT,Groningerstraat,326,,
-9402LT,Groningerstraat,328,,
-9402LT,Groningerstraat,330,,
-9402LT,Groningerstraat,332,,
-9402LT,Groningerstraat,334,,
-9402LT,Groningerstraat,336,,
-9402LT,Groningerstraat,338,,
-9402LT,Groningerstraat,340,,
-9402LT,Groningerstraat,350,A,
-9402LT,Groningerstraat,352,,
-9402NP,Industrieweg,3,,
-9402NP,Industrieweg,5,A,
-9402NP,Industrieweg,5,,
-9402NP,Industrieweg,7,,
-9402NP,Industrieweg,9,,
-9402NP,Industrieweg,15,,
-9402NP,Industrieweg,17,,
-9402NP,Industrieweg,19,,
-9403AB,Industrieweg,24,A,
-9403AB,Industrieweg,24,,
-9403AB,Industrieweg,26,A,
-9403AB,Industrieweg,26,,
-9403AB,Industrieweg,28,A,
-9403AB,Industrieweg,28,,
-9403AB,Industrieweg,30,B,
-9403AB,Industrieweg,30,C,
-9403AB,Industrieweg,30,,
-9403AB,Industrieweg,32,A,
-9403AB,Industrieweg,32,,
-9403AB,Industrieweg,34,A,
-9403AB,Industrieweg,34,,
-9403AB,Industrieweg,36,A,
-9403AB,Industrieweg,36,C,
-9403AB,Industrieweg,36,,
-9403AB,Industrieweg,38,A,
-9403AB,Industrieweg,38,,
-9403AB,Industrieweg,38,,
-9403AB,Industrieweg,40,,
-9403AB,Industrieweg,42,,
-9403AB,Industrieweg,44,,
-9403AB,Industrieweg,46,A,
-9403AB,Industrieweg,46,,
-9403AR,J.C. van Markenstraat,3,A,
-9403AR,J.C. van Markenstraat,3,,
-9403AR,J.C. van Markenstraat,5,,
-9403AR,J.C. van Markenstraat,9,,
-9403AR,J.C. van Markenstraat,11,,
-9403AR,J.C. van Markenstraat,19,,
-9403AR,J.C. van Markenstraat,21,,
-9403AR,J.C. van Markenstraat,23,,
-9403AR,J.C. van Markenstraat,25,,
-9403AR,J.C. van Markenstraat,27,,
-9403AS,J.C. van Markenstraat,2,,
-9403AS,J.C. van Markenstraat,4,A,
-9403AS,J.C. van Markenstraat,4,,
-9403AS,J.C. van Markenstraat,6,,
-9403AS,J.C. van Markenstraat,8,,
-9403AS,J.C. van Markenstraat,12,,
-9403AS,J.C. van Markenstraat,14,,
-9403AS,J.C. van Markenstraat,16,,
-9403AS,J.C. van Markenstraat,18,,
-9403AS,J.C. van Markenstraat,20,A,
-9403AS,J.C. van Markenstraat,20,,
-9403AS,J.C. van Markenstraat,22,,
-9403AS,J.C. van Markenstraat,30,A,
-9403AS,J.C. van Markenstraat,30,,
-9403AS,J.C. van Markenstraat,32,,
-9403AS,J.C. van Markenstraat,34,,
-9402NR,Jan Bommerstraat,1,A,
-9402NR,Jan Bommerstraat,1,,
-9402NR,Jan Bommerstraat,4,,
-9402NR,Jan Bommerstraat,5,,
-9402NR,Jan Bommerstraat,6,,
-9402NP,Industrieweg,1,,
-9402NP,Industrieweg,1,A,
-9402NP,Industrieweg,1,B,
-9402NP,Industrieweg,1,D,
-9403AM,A.H.G. Fokkerstraat,3,,
-9403AS,J.C. van Markenstraat,2,B,
-9403AT,van Heekstraat,1,,
-9403AT,van Heekstraat,2,,
-9403AT,van Heekstraat,3,,
-9403AT,van Heekstraat,5,,
-9403AT,van Heekstraat,7,,
-9403AJ,W.A. Scholtenstraat,3,B,
-9403AJ,W.A. Scholtenstraat,3,C,
-9403AJ,W.A. Scholtenstraat,3,E,
-9403AJ,W.A. Scholtenstraat,3,F,
-9403AJ,W.A. Scholtenstraat,3,G,
-9403AJ,W.A. Scholtenstraat,3,H,
-9403AJ,W.A. Scholtenstraat,3,K,
-9403AJ,W.A. Scholtenstraat,3,M,
-9403AJ,W.A. Scholtenstraat,7,,
-9403AJ,W.A. Scholtenstraat,9,A,
-9403AJ,W.A. Scholtenstraat,9,B,
-9403AJ,W.A. Scholtenstraat,9,C,
-9403AJ,W.A. Scholtenstraat,9,D,
-9403AJ,W.A. Scholtenstraat,9,E,
-9403AJ,W.A. Scholtenstraat,9,F,
-9403AJ,W.A. Scholtenstraat,9,G,
-9403AJ,W.A. Scholtenstraat,9,H,
-9403AJ,W.A. Scholtenstraat,9,H,
-9403AJ,W.A. Scholtenstraat,9,I,
-9403AJ,W.A. Scholtenstraat,9,J,
-9403AJ,W.A. Scholtenstraat,9,,
-9403AJ,W.A. Scholtenstraat,11,,
-9403AJ,W.A. Scholtenstraat,15,A,
-9403AJ,W.A. Scholtenstraat,15,,
-9403AJ,W.A. Scholtenstraat,17,,
-9403AJ,W.A. Scholtenstraat,19,,
-9403AJ,W.A. Scholtenstraat,21,,
-9403AJ,W.A. Scholtenstraat,23,,
-9403AJ,W.A. Scholtenstraat,25,,
-9403AJ,W.A. Scholtenstraat,29,,
-9403AM,A.H.G. Fokkerstraat,9,,
-9403AM,A.H.G. Fokkerstraat,5,B,
-9403BA,Claes van Gorcumstraat,2,,
-9402LT,Groningerstraat,350,A,
-9402LT,Groningerstraat,350,,
-9402NP,Industrieweg,21,,
-9402NP,Industrieweg,1,B,
-9402NP,Industrieweg,1,C,
-9402NP,Industrieweg,19,,
-9402NP,Industrieweg,21,,
-9402NP,Industrieweg,19,A,
-9402NP,Industrieweg,19,,
-9402NP,Industrieweg,19,,
-9402NP,Industrieweg,9,,
-9402NP,Industrieweg,11,,
-9402NP,Industrieweg,1,,
-9402NP,Industrieweg,7,,
-9403AB,Industrieweg,30,A,
-9403AB,Industrieweg,38,B,
-9403AB,Industrieweg,24,,
-9403AB,Industrieweg,44,A,
-9403AB,Industrieweg,46,,
-9403AB,Industrieweg,38,,
-9403AB,Industrieweg,38,A,1
-9403AB,Industrieweg,30,,
-9403AB,Industrieweg,26,,
-9403AR,J.C. van Markenstraat,17,,
-9403AR,J.C. van Markenstraat,13,,
-9403AR,J.C. van Markenstraat,27,,
-9403AR,J.C. van Markenstraat,29,,
-9403AR,J.C. van Markenstraat,31,,
-9403AR,J.C. van Markenstraat,33,,
-9403AR,J.C. van Markenstraat,35,,
-9403AR,J.C. van Markenstraat,37,,
-9403AR,J.C. van Markenstraat,39,,
-9403AR,J.C. van Markenstraat,5,,
-9403AR,J.C. van Markenstraat,3,B,
-9403AR,J.C. van Markenstraat,3,C,
-9403AS,J.C. van Markenstraat,6,A,
-9403AS,J.C. van Markenstraat,24,B,
-9403AS,J.C. van Markenstraat,24,A,
-9403AS,J.C. van Markenstraat,24,,
-9403AS,J.C. van Markenstraat,10,,
-9403AS,J.C. van Markenstraat,12,,
-9403AS,J.C. van Markenstraat,24,,
-9403AS,J.C. van Markenstraat,24,,
-9402NR,Jan Bommerstraat,3,,
-9403AJ,W.A. Scholtenstraat,13,,
-9403AJ,W.A. Scholtenstraat,27,,
-9403AJ,W.A. Scholtenstraat,3,,
-9403AJ,W.A. Scholtenstraat,3,A,
-9403AJ,W.A. Scholtenstraat,3,,
-9403AM,A.H.G. Fokkerstraat,5,C,
-9403AM,A.H.G. Fokkerstraat,7,A,
-9403AM,A.H.G. Fokkerstraat,7,B,
-9403AM,A.H.G. Fokkerstraat,7,C,
-9403AM,A.H.G. Fokkerstraat,7,D,
-9403AM,A.H.G. Fokkerstraat,7,E,
-9403AM,A.H.G. Fokkerstraat,7,F,
-9403AM,A.H.G. Fokkerstraat,7,G,
-9403AM,A.H.G. Fokkerstraat,7,H,
-9403AM,A.H.G. Fokkerstraat,7,,
-9403AM,A.H.G. Fokkerstraat,7,A,
-9403AR,J.C. van Markenstraat,11,,
-9403AR,J.C. van Markenstraat,11,A,
-9403AR,J.C. van Markenstraat,11,B,
-9403AR,J.C. van Markenstraat,11,C,
-9403AR,J.C. van Markenstraat,11,D,
-9403AR,J.C. van Markenstraat,11,E,
-9403AR,J.C. van Markenstraat,11,F,
-9403AR,J.C. van Markenstraat,11,G,
-9403AR,J.C. van Markenstraat,11,H,
-9403AR,J.C. van Markenstraat,11,J,
-9403AR,J.C. van Markenstraat,11,K,
-9403AR,J.C. van Markenstraat,11,L,
-9403AR,J.C. van Markenstraat,11,M,
-9403AR,J.C. van Markenstraat,11,N,
-9403AR,J.C. van Markenstraat,11,P,
-9403AR,J.C. van Markenstraat,11,R,
-9403AR,J.C. van Markenstraat,11,S,
-9403AR,J.C. van Markenstraat,11,T,
-9403AR,J.C. van Markenstraat,11,U,
-9403AJ,W.A. Scholtenstraat,7,B,
-9403AJ,W.A. Scholtenstraat,7,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Groningerstraat,320,"","",9402LT,Assen
+Groningerstraat,322,"","",9402LT,Assen
+Groningerstraat,324,"","",9402LT,Assen
+Groningerstraat,326,"","",9402LT,Assen
+Groningerstraat,328,"","",9402LT,Assen
+Groningerstraat,330,"","",9402LT,Assen
+Groningerstraat,332,"","",9402LT,Assen
+Groningerstraat,334,"","",9402LT,Assen
+Groningerstraat,336,"","",9402LT,Assen
+Groningerstraat,338,"","",9402LT,Assen
+Groningerstraat,340,"","",9402LT,Assen
+Groningerstraat,350,"","",9402LT,Assen
+Groningerstraat,350,A,"",9402LT,Assen
+Groningerstraat,350,A,"",9402LT,Assen
+Groningerstraat,350,A,"",9402LT,Assen
+Groningerstraat,352,"","",9402LT,Assen
+Industrieweg,1,"","",9402NP,Assen
+Industrieweg,1,"","",9402NP,Assen
+Industrieweg,1,"","",9402NP,Assen
+Industrieweg,1,A,"",9402NP,Assen
+Industrieweg,1,A,"",9402NP,Assen
+Industrieweg,1,B,"",9402NP,Assen
+Industrieweg,1,B,"",9402NP,Assen
+Industrieweg,1,B,"",9402NP,Assen
+Industrieweg,1,B,"",9402NP,Assen
+Industrieweg,1,C,"",9402NP,Assen
+Industrieweg,1,D,"",9402NP,Assen
+Industrieweg,11,"","",9402NP,Assen
+Industrieweg,15,"","",9402NP,Assen
+Industrieweg,17,"","",9402NP,Assen
+Industrieweg,19,"","",9402NP,Assen
+Industrieweg,19,"","",9402NP,Assen
+Industrieweg,19,"","",9402NP,Assen
+Industrieweg,19,"","",9402NP,Assen
+Industrieweg,19,"","",9402NP,Assen
+Industrieweg,19,"","",9402NP,Assen
+Industrieweg,19,A,"",9402NP,Assen
+Industrieweg,21,"","",9402NP,Assen
+Industrieweg,21,"","",9402NP,Assen
+Industrieweg,21,"","",9402NP,Assen
+Industrieweg,3,"","",9402NP,Assen
+Industrieweg,5,"","",9402NP,Assen
+Industrieweg,5,A,"",9402NP,Assen
+Industrieweg,7,"","",9402NP,Assen
+Industrieweg,7,"","",9402NP,Assen
+Industrieweg,7,"","",9402NP,Assen
+Industrieweg,9,"","",9402NP,Assen
+Industrieweg,9,"","",9402NP,Assen
+Industrieweg,9,"","",9402NP,Assen
+Jan Bommerstraat,1,"","",9402NR,Assen
+Jan Bommerstraat,1,A,"",9402NR,Assen
+Jan Bommerstraat,3,"","",9402NR,Assen
+Jan Bommerstraat,3,"","",9402NR,Assen
+Jan Bommerstraat,4,"","",9402NR,Assen
+Jan Bommerstraat,5,"","",9402NR,Assen
+Jan Bommerstraat,6,"","",9402NR,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,"","",9403AB,Assen
+Industrieweg,24,A,"",9403AB,Assen
+Industrieweg,24,A,"",9403AB,Assen
+Industrieweg,26,"","",9403AB,Assen
+Industrieweg,26,"","",9403AB,Assen
+Industrieweg,26,"","",9403AB,Assen
+Industrieweg,26,A,"",9403AB,Assen
+Industrieweg,28,"","",9403AB,Assen
+Industrieweg,28,A,"",9403AB,Assen
+Industrieweg,30,"","",9403AB,Assen
+Industrieweg,30,"","",9403AB,Assen
+Industrieweg,30,"","",9403AB,Assen
+Industrieweg,30,A,"",9403AB,Assen
+Industrieweg,30,A,"",9403AB,Assen
+Industrieweg,30,B,"",9403AB,Assen
+Industrieweg,30,B,"",9403AB,Assen
+Industrieweg,30,C,"",9403AB,Assen
+Industrieweg,30,C,"",9403AB,Assen
+Industrieweg,32,"","",9403AB,Assen
+Industrieweg,32,A,"",9403AB,Assen
+Industrieweg,34,"","",9403AB,Assen
+Industrieweg,34,A,"",9403AB,Assen
+Industrieweg,36,"","",9403AB,Assen
+Industrieweg,36,A,"",9403AB,Assen
+Industrieweg,36,C,"",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,"","",9403AB,Assen
+Industrieweg,38,A,"",9403AB,Assen
+Industrieweg,38,A,1,9403AB,Assen
+Industrieweg,38,B,"",9403AB,Assen
+Industrieweg,40,"","",9403AB,Assen
+Industrieweg,42,"","",9403AB,Assen
+Industrieweg,44,"","",9403AB,Assen
+Industrieweg,44,A,"",9403AB,Assen
+Industrieweg,46,"","",9403AB,Assen
+Industrieweg,46,"","",9403AB,Assen
+Industrieweg,46,"","",9403AB,Assen
+Industrieweg,46,A,"",9403AB,Assen
+W.A. Scholtenstraat,11,"","",9403AJ,Assen
+W.A. Scholtenstraat,13,"","",9403AJ,Assen
+W.A. Scholtenstraat,13,"","",9403AJ,Assen
+W.A. Scholtenstraat,15,"","",9403AJ,Assen
+W.A. Scholtenstraat,15,A,"",9403AJ,Assen
+W.A. Scholtenstraat,17,"","",9403AJ,Assen
+W.A. Scholtenstraat,19,"","",9403AJ,Assen
+W.A. Scholtenstraat,21,"","",9403AJ,Assen
+W.A. Scholtenstraat,23,"","",9403AJ,Assen
+W.A. Scholtenstraat,25,"","",9403AJ,Assen
+W.A. Scholtenstraat,27,"","",9403AJ,Assen
+W.A. Scholtenstraat,29,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,"","",9403AJ,Assen
+W.A. Scholtenstraat,3,A,"",9403AJ,Assen
+W.A. Scholtenstraat,3,B,"",9403AJ,Assen
+W.A. Scholtenstraat,3,C,"",9403AJ,Assen
+W.A. Scholtenstraat,3,C,"",9403AJ,Assen
+W.A. Scholtenstraat,3,E,"",9403AJ,Assen
+W.A. Scholtenstraat,3,F,"",9403AJ,Assen
+W.A. Scholtenstraat,3,G,"",9403AJ,Assen
+W.A. Scholtenstraat,3,G,"",9403AJ,Assen
+W.A. Scholtenstraat,3,H,"",9403AJ,Assen
+W.A. Scholtenstraat,3,K,"",9403AJ,Assen
+W.A. Scholtenstraat,3,M,"",9403AJ,Assen
+W.A. Scholtenstraat,7,"","",9403AJ,Assen
+W.A. Scholtenstraat,7,B,"",9403AJ,Assen
+W.A. Scholtenstraat,7,C,"",9403AJ,Assen
+W.A. Scholtenstraat,9,"","",9403AJ,Assen
+W.A. Scholtenstraat,9,A,"",9403AJ,Assen
+W.A. Scholtenstraat,9,B,"",9403AJ,Assen
+W.A. Scholtenstraat,9,C,"",9403AJ,Assen
+W.A. Scholtenstraat,9,D,"",9403AJ,Assen
+W.A. Scholtenstraat,9,E,"",9403AJ,Assen
+W.A. Scholtenstraat,9,F,"",9403AJ,Assen
+W.A. Scholtenstraat,9,G,"",9403AJ,Assen
+W.A. Scholtenstraat,9,H,"",9403AJ,Assen
+W.A. Scholtenstraat,9,H,"",9403AJ,Assen
+W.A. Scholtenstraat,9,I,"",9403AJ,Assen
+W.A. Scholtenstraat,9,J,"",9403AJ,Assen
+A.H.G. Fokkerstraat,1,"","",9403AM,Assen
+A.H.G. Fokkerstraat,3,"","",9403AM,Assen
+A.H.G. Fokkerstraat,3,"","",9403AM,Assen
+A.H.G. Fokkerstraat,5,"","",9403AM,Assen
+A.H.G. Fokkerstraat,5,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,5,B,"",9403AM,Assen
+A.H.G. Fokkerstraat,5,C,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,"","",9403AM,Assen
+A.H.G. Fokkerstraat,7,"","",9403AM,Assen
+A.H.G. Fokkerstraat,7,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,B,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,B,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,C,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,C,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,D,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,D,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,E,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,E,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,F,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,F,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,G,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,G,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,H,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,H,"",9403AM,Assen
+A.H.G. Fokkerstraat,9,"","",9403AM,Assen
+A.H.G. Fokkerstraat,9,"","",9403AM,Assen
+J.C. van Markenstraat,11,"","",9403AR,Assen
+J.C. van Markenstraat,13,"","",9403AR,Assen
+J.C. van Markenstraat,13,"","",9403AR,Assen
+J.C. van Markenstraat,17,"","",9403AR,Assen
+J.C. van Markenstraat,17,"","",9403AR,Assen
+J.C. van Markenstraat,19,"","",9403AR,Assen
+J.C. van Markenstraat,21,"","",9403AR,Assen
+J.C. van Markenstraat,23,"","",9403AR,Assen
+J.C. van Markenstraat,25,"","",9403AR,Assen
+J.C. van Markenstraat,27,"","",9403AR,Assen
+J.C. van Markenstraat,27,"","",9403AR,Assen
+J.C. van Markenstraat,27,"","",9403AR,Assen
+J.C. van Markenstraat,29,"","",9403AR,Assen
+J.C. van Markenstraat,3,"","",9403AR,Assen
+J.C. van Markenstraat,3,A,"",9403AR,Assen
+J.C. van Markenstraat,3,B,"",9403AR,Assen
+J.C. van Markenstraat,3,C,"",9403AR,Assen
+J.C. van Markenstraat,31,"","",9403AR,Assen
+J.C. van Markenstraat,33,"","",9403AR,Assen
+J.C. van Markenstraat,35,"","",9403AR,Assen
+J.C. van Markenstraat,37,"","",9403AR,Assen
+J.C. van Markenstraat,39,"","",9403AR,Assen
+J.C. van Markenstraat,5,"","",9403AR,Assen
+J.C. van Markenstraat,5,"","",9403AR,Assen
+J.C. van Markenstraat,5,"","",9403AR,Assen
+J.C. van Markenstraat,9,"","",9403AR,Assen
+J.C. van Markenstraat,9,"","",9403AR,Assen
+J.C. van Markenstraat,10,"","",9403AS,Assen
+J.C. van Markenstraat,12,"","",9403AS,Assen
+J.C. van Markenstraat,12,"","",9403AS,Assen
+J.C. van Markenstraat,12,"","",9403AS,Assen
+J.C. van Markenstraat,14,"","",9403AS,Assen
+J.C. van Markenstraat,16,"","",9403AS,Assen
+J.C. van Markenstraat,18,"","",9403AS,Assen
+J.C. van Markenstraat,2,"","",9403AS,Assen
+J.C. van Markenstraat,2,B,"",9403AS,Assen
+J.C. van Markenstraat,2,B,"",9403AS,Assen
+J.C. van Markenstraat,20,"","",9403AS,Assen
+J.C. van Markenstraat,20,A,"",9403AS,Assen
+J.C. van Markenstraat,22,"","",9403AS,Assen
+J.C. van Markenstraat,24,"","",9403AS,Assen
+J.C. van Markenstraat,24,"","",9403AS,Assen
+J.C. van Markenstraat,24,"","",9403AS,Assen
+J.C. van Markenstraat,24,"","",9403AS,Assen
+J.C. van Markenstraat,24,A,"",9403AS,Assen
+J.C. van Markenstraat,24,A,"",9403AS,Assen
+J.C. van Markenstraat,24,B,"",9403AS,Assen
+J.C. van Markenstraat,24,B,"",9403AS,Assen
+J.C. van Markenstraat,30,"","",9403AS,Assen
+J.C. van Markenstraat,30,A,"",9403AS,Assen
+J.C. van Markenstraat,32,"","",9403AS,Assen
+J.C. van Markenstraat,34,"","",9403AS,Assen
+J.C. van Markenstraat,4,"","",9403AS,Assen
+J.C. van Markenstraat,4,A,"",9403AS,Assen
+J.C. van Markenstraat,4,A,"",9403AS,Assen
+J.C. van Markenstraat,6,"","",9403AS,Assen
+J.C. van Markenstraat,6,A,"",9403AS,Assen
+J.C. van Markenstraat,6,A,"",9403AS,Assen
+J.C. van Markenstraat,8,"","",9403AS,Assen
+van Heekstraat,1,"","",9403AT,Assen
+van Heekstraat,2,"","",9403AT,Assen
+van Heekstraat,3,"","",9403AT,Assen
+van Heekstraat,5,"","",9403AT,Assen
+van Heekstraat,7,"","",9403AT,Assen
+Claes van Gorcumstraat,1,"","",9403BA,Assen
+Claes van Gorcumstraat,1,A,"",9403BA,Assen
+Claes van Gorcumstraat,2,"","",9403BA,Assen
+Claes van Gorcumstraat,2,"","",9403BA,Assen

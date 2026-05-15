@@ -1,866 +1,451 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7341AA",5,"",""
-"7341AA",6,"",""
-"7341AA",2,"",""
-"7341AB",32,"",""
-"7341AB",19,"",""
-"7341AB",20,"",""
-"7341AB",25,"",""
-"7341AB",18,"",""
-"7341AB",33,"",""
-"7341AB",15,"",""
-"7341AB",38,"",""
-"7341AB",20,"",""
-"7341AB",10,"",""
-"7341AB",10,"",""
-"7341AB",15,"",""
-"7341AB",21,"",""
-"7341AB",26,"",""
-"7341AB",36,"",""
-"7341AB",10,"A",""
-"7341AB",31,"",""
-"7341AB",20,"",""
-"7341AB",44,"",""
-"7341AB",10,"",""
-"7341AB",48,"",""
-"7341AB",7,"",""
-"7341AB",14,"",""
-"7341AB",34,"",""
-"7341AB",48,"B",""
-"7341AC",13,"",""
-"7341AC",10,"",""
-"7341AC",4,"",""
-"7341AC",20,"",""
-"7341AC",4,"A",""
-"7341AC",9,"",""
-"7341AK",44,"",""
-"7341AK",41,"",""
-"7341AK",40,"",""
-"7341AK",42,"",""
-"7341AK",39,"",""
-"7341PA",8,"",""
-"7341PA",450,"",""
-"7341PA",456,"",""
-"7341PA",20,"",""
-"7341PA",436,"A",""
-"7341PA",6,"A",""
-"7341PA",446,"",""
-"7341PA",456,"",""
-"7341PA",18,"",""
-"7341PA",410,"",""
-"7341PA",430,"",""
-"7341PA",7,"",""
-"7341PA",454,"",""
-"7341PA",22,"",""
-"7341PA",420,"",""
-"7341PA",414,"",""
-"7341PA",1,"B",""
-"7341PA",430,"B",""
-"7341PA",436,"",""
-"7341PA",1,"A",""
-"7341PA",410,"A",""
-"7341PA",430,"",""
-"7341PA",6,"A",""
-"7341PA",430,"",""
-"7341PA",6,"",""
-"7341PA",6,"A",""
-"7341PC",6,"A",""
-"7341PC",59,"",""
-"7341PC",35,"B",""
-"7341PC",38,"",""
-"7341PC",35,"A",""
-"7341PC",42,"",""
-"7341PC",49,"",""
-"7341PC",57,"",""
-"7341PC",44,"",""
-"7341PC",35,"D",""
-"7341PC",52,"",""
-"7341PC",35,"C",""
-"7341PC",37,"",""
-"7341PC",43,"",""
-"7341PC",36,"",""
-"7341PC",52,"",""
-"7341PC",33,"",""
-"7341PC",44,"",""
-"7341PC",4,"",""
-"7341PC",45,"",""
-"7341PC",10,"",""
-"7341PC",6,"",""
-"7341PC",2,"",""
-"7341PC",34,"",""
-"7341PC",2,"","2"
-"7341PC",31,"",""
-"7341PC",50,"",""
-"7341PD",56,"",""
-"7341PD",93,"",""
-"7341PD",74,"",""
-"7341PD",63,"",""
-"7341PD",72,"G",""
-"7341PD",73,"",""
-"7341PD",72,"A",""
-"7341PD",69,"",""
-"7341PD",68,"",""
-"7341PD",75,"",""
-"7341PD",70,"",""
-"7341PD",75,"B",""
-"7341PD",73,"B",""
-"7341PD",70,"C",""
-"7341PD",75,"A",""
-"7341PD",56,"A",""
-"7341PD",56,"",""
-"7341PD",79,"",""
-"7341PD",72,"","2"
-"7341PD",56,"B",""
-"7341PD",56,"",""
-"7341PD",72,"G",""
-"7341PD",90,"A",""
-"7341PD",83,"",""
-"7341PD",82,"B",""
-"7341PD",90,"B",""
-"7341PD",58,"",""
-"7341PD",93,"",""
-"7341PD",96,"",""
-"7341PD",72,"G",""
-"7341PD",66,"",""
-"7341PD",82,"",""
-"7341PD",79,"",""
-"7341PD",92,"",""
-"7341PD",72,"C",""
-"7341PD",67,"",""
-"7341PD",61,"A",""
-"7341PD",73,"A",""
-"7341PD",77,"",""
-"7341PD",82,"A",""
-"7341PD",76,"",""
-"7341PD",61,"A",""
-"7341PD",86,"",""
-"7341PD",61,"",""
-"7341PD",72,"",""
-"7341PD",82,"B",""
-"7341PD",79,"",""
-"7341PD",62,"",""
-"7341PD",77,"",""
-"7341PD",88,"",""
-"7341PD",91,"",""
-"7341PD",84,"",""
-"7341PE",15,"",""
-"7341PE",7,"",""
-"7341PE",16,"A",""
-"7341PE",10,"A",""
-"7341PE",16,"",""
-"7341PE",16,"",""
-"7341PE",10,"B",""
-"7341PE",14,"A",""
-"7341PE",15,"",""
-"7341PE",6,"B",""
-"7341PE",16,"U",""
-"7341PE",6,"B",""
-"7341PE",6,"A",""
-"7341PE",6,"A",""
-"7341PE",16,"F",""
-"7341PE",16,"B",""
-"7341PE",15,"",""
-"7341PE",9,"",""
-"7341PE",16,"D",""
-"7341PE",25,"",""
-"7341PE",14,"B",""
-"7341PE",13,"",""
-"7341PE",9,"",""
-"7341PE",16,"E",""
-"7341PE",6,"A",""
-"7341PE",9,"",""
-"7341PG",30,"",""
-"7341PG",20,"",""
-"7341PG",14,"",""
-"7341PG",26,"",""
-"7341PG",10,"",""
-"7341PG",20,"",""
-"7341PG",12,"",""
-"7341PG",22,"",""
-"7341PG",35,"",""
-"7341PG",20,"",""
-"7341PG",32,"",""
-"7341PH",6,"B",""
-"7341PH",1,"",""
-"7341PH",476,"A",""
-"7341PH",5,"",""
-"7341PH",482,"",""
-"7341PH",4,"",""
-"7341PH",484,"",""
-"7341PH",476,"",""
-"7341PH",466,"",""
-"7341PH",480,"",""
-"7341PJ",7,"",""
-"7341PJ",12,"",""
-"7341PJ",8,"B",""
-"7341PJ",18,"",""
-"7341PJ",9,"A",""
-"7341PJ",8,"",""
-"7341PJ",24,"",""
-"7341PJ",8,"",""
-"7341PJ",9,"",""
-"7341PJ",16,"",""
-"7341PJ",8,"A",""
-"7341PJ",24,"",""
-"7341PK",21,"",""
-"7341PK",2,"",""
-"7341PK",14,"",""
-"7341PK",23,"",""
-"7341PK",11,"",""
-"7341PK",13,"",""
-"7341PK",9,"",""
-"7341PK",17,"",""
-"7341PK",19,"",""
-"7341PL",7,"",""
-"7341PL",8,"",""
-"7341PL",40,"",""
-"7341PL",37,"",""
-"7341PL",30,"",""
-"7341PL",3,"",""
-"7341PL",5,"",""
-"7341PL",4,"",""
-"7341PL",9,"",""
-"7341PL",41,"",""
-"7341PL",1,"",""
-"7341PM",7,"",""
-"7341PM",3,"",""
-"7341PM",3,"A",""
-"7341PM",8,"",""
-"7341PM",49,"",""
-"7341PM",2,"A",""
-"7341PM",50,"",""
-"7341PM",3,"",""
-"7341PM",66,"A",""
-"7341PM",70,"",""
-"7341PM",3,"",""
-"7341PM",51,"",""
-"7341PM",9,"",""
-"7341PM",45,"",""
-"7341PM",74,"",""
-"7341PM",55,"",""
-"7341PM",70,"A",""
-"7341PM",52,"",""
-"7341PM",57,"",""
-"7341PM",48,"",""
-"7341PM",4,"",""
-"7341PM",58,"",""
-"7341PM",2,"",""
-"7341PM",56,"",""
-"7341PM",5,"",""
-"7341PM",48,"",""
-"7341PM",5,"A",""
-"7341PM",53,"A",""
-"7341PM",5,"A",""
-"7341PM",64,"",""
-"7341PM",53,"",""
-"7341PM",66,"",""
-"7341PN",76,"D",""
-"7341PN",73,"",""
-"7341PN",78,"",""
-"7341PN",69,"",""
-"7341PN",80,"",""
-"7341PN",76,"",""
-"7341PN",77,"A",""
-"7341PN",84,"",""
-"7341PN",83,"",""
-"7341PN",82,"",""
-"7341PN",65,"",""
-"7341PN",81,"",""
-"7341PN",69,"",""
-"7341PN",91,"",""
-"7341PN",79,"",""
-"7341PN",67,"",""
-"7341PN",63,"",""
-"7341PN",93,"",""
-"7341PN",77,"",""
-"7341PN",71,"",""
-"7341PN",82,"",""
-"7341PN",76,"C",""
-"7341PN",82,"",""
-"7341PN",69,"",""
-"7341PN",75,"",""
-"7341PP",8,"",""
-"7341PP",2,"",""
-"7341PP",7,"",""
-"7341PP",5,"",""
-"7341PP",5,"",""
-"7341PP",8,"A",""
-"7341PP",3,"",""
-"7341PP",5,"A",""
-"7341PP",4,"",""
-"7341PP",6,"A",""
-"7341PP",6,"",""
-"7341PP",6,"A",""
-"7341PP",5,"",""
-"7341PP",5,"A",""
-"7341PR",13,"",""
-"7341PR",14,"",""
-"7341PR",26,"A",""
-"7341PR",26,"",""
-"7341PR",13,"",""
-"7341PR",12,"",""
-"7341PR",40,"",""
-"7341PR",20,"A",""
-"7341PR",28,"",""
-"7341PR",20,"A",""
-"7341PR",31,"",""
-"7341PR",21,"",""
-"7341PR",13,"B",""
-"7341PR",20,"",""
-"7341PR",13,"",""
-"7341PR",20,"",""
-"7341PS",15,"A",""
-"7341PS",15,"A",""
-"7341PS",19,"",""
-"7341PS",19,"A",""
-"7341PS",17,"B",""
-"7341PS",16,"","2"
-"7341PS",19,"A",""
-"7341PS",15,"",""
-"7341PS",7,"B",""
-"7341PS",16,"",""
-"7341PS",18,"",""
-"7341PS",12,"",""
-"7341PS",7,"A",""
-"7341PS",14,"","2"
-"7341PS",7,"",""
-"7341PS",6,"",""
-"7341PS",13,"",""
-"7341PS",8,"",""
-"7341PS",15,"A",""
-"7341PS",14,"",""
-"7341PS",7,"",""
-"7341PS",5,"",""
-"7341PS",10,"",""
-"7341PT",29,"",""
-"7341PT",28,"",""
-"7341PT",28,"",""
-"7341PT",24,"",""
-"7341PT",27,"",""
-"7341PT",30,"",""
-"7341PT",22,"",""
-"7341PT",20,"",""
-"7341PT",31,"",""
-"7341PT",25,"",""
-"7341PT",38,"",""
-"7341PW",10,"B",""
-"7341PW",12,"",""
-"7341PW",4,"",""
-"7341PW",10,"A",""
-"7341PW",10,"C",""
-"7341PW",18,"",""
-"7341PW",14,"",""
-"7341PW",22,"",""
-"7341PW",20,"",""
-"7341PW",16,"",""
-"7341PW",6,"",""
-"7341SB",557,"",""
-"7341SB",651,"",""
-"7341SB",565,"",""
-"7341SB",497,"",""
-"7341SB",649,"",""
-"7341SB",581,"",""
-"7341SB",633,"",""
-"7341SB",517,"",""
-"7341SB",581,"",""
-"7341SB",503,"",""
-"7341SB",573,"",""
-"7341SB",557,"A",""
-"7341SB",601,"",""
-"7341SB",567,"",""
-"7341SB",581,"",""
-"7341SB",617,"",""
-"7341SB",559,"",""
-"7341SB",539,"",""
-"7341SB",503,"",""
-"7341SB",561,"",""
-"7341SB",503,"",""
-"7341SE",135,"",""
-"7341SE",144,"",""
-"7341SE",165,"",""
-"7341SE",144,"",""
-"7341SE",144,"",""
-"7341SE",151,"",""
-"7341SE",142,"",""
-"7341SG",6,"",""
-"7341SG",2,"",""
-"7341SG",21,"",""
-"7341SG",9,"",""
-"7341SG",8,"",""
-"7341SG",13,"",""
-"7341SG",18,"",""
-"7341SG",7,"",""
-"7341SG",4,"",""
-"7341SG",1,"",""
-"7341SH",30,"",""
-"7341SH",68,"",""
-"7341SH",37,"",""
-"7341SH",60,"",""
-"7341SH",71,"",""
-"7341SH",28,"",""
-"7341SH",34,"",""
-"7341SH",59,"",""
-"7341SH",64,"A",""
-"7341SH",74,"",""
-"7341SH",36,"",""
-"7341SH",46,"B","1"
-"7341SH",53,"",""
-"7341SH",61,"",""
-"7341SH",46,"A",""
-"7341SH",46,"",""
-"7341SH",40,"",""
-"7341SH",61,"",""
-"7341SH",57,"",""
-"7341SH",67,"",""
-"7341SH",69,"A",""
-"7341SH",46,"A","1"
-"7341SH",52,"",""
-"7341SH",80,"",""
-"7341SH",58,"",""
-"7341SH",49,"",""
-"7341SH",59,"",""
-"7341SH",68,"",""
-"7341SH",46,"A","1"
-"7341SH",46,"C","1"
-"7341SH",46,"C","1"
-"7341SH",46,"B","1"
-"7341SH",61,"",""
-"7341SH",32,"",""
-"7341SH",58,"",""
-"7341SH",46,"C",""
-"7341SH",58,"",""
-"7341SH",70,"",""
-"7341SH",46,"B",""
-"7341SH",47,"",""
-"7341SH",64,"",""
-"7341SH",69,"B",""
-"7341SJ",5,"",""
-"7341SJ",8,"D",""
-"7341SJ",12,"A",""
-"7341SJ",3,"",""
-"7341SJ",24,"",""
-"7341SJ",12,"A",""
-"7341SJ",18,"",""
-"7341SJ",8,"",""
-"7341SJ",22,"",""
-"7341SJ",3,"","T"
-"7341SJ",12,"",""
-"7341SJ",3,"","T"
-"7341SJ",8,"C",""
-"7341SJ",8,"B",""
-"7341SJ",14,"",""
-7341PG,Achterbroek,10,,
-7341PG,Achterbroek,14,,
-7341PC,Beemterweg,31,,
-7341PC,Beemterweg,33,,
-7341PC,Beemterweg,34,,
-7341PC,Beemterweg,35,C,
-7341PC,Beemterweg,36,,
-7341PC,Beemterweg,37,,
-7341PC,Beemterweg,38,,
-7341PC,Beemterweg,42,,
-7341PC,Beemterweg,43,,
-7341PC,Beemterweg,44,,
-7341PC,Beemterweg,45,,
-7341PC,Beemterweg,49,,
-7341PC,Beemterweg,50,,
-7341PC,Beemterweg,57,,
-7341PC,Beemterweg,59,,
-7341PD,Beemterweg,56,,
-7341PD,Beemterweg,58,,
-7341PD,Beemterweg,61,,
-7341PD,Beemterweg,62,,
-7341PD,Beemterweg,63,,
-7341PD,Beemterweg,67,,
-7341PD,Beemterweg,69,,
-7341PD,Beemterweg,70,,
-7341PD,Beemterweg,72,,
-7341PD,Beemterweg,72,,2
-7341PD,Beemterweg,73,,
-7341PD,Beemterweg,73,A,
-7341PD,Beemterweg,74,,
-7341PD,Beemterweg,75,,
-7341PD,Beemterweg,76,,
-7341PD,Beemterweg,82,,
-7341PD,Beemterweg,83,,
-7341PD,Beemterweg,84,,
-7341PD,Beemterweg,86,,
-7341PD,Beemterweg,88,,
-7341PD,Beemterweg,92,,
-7341PD,Beemterweg,96,,
-7341PE,Bellertstraat,9,,
-7341PE,Bellertstraat,13,,
-7341PE,Bellertstraat,15,,
-7341PE,Bellertstraat,16,,
-7341PE,Bellertstraat,25,,
-7341PG,Bellertstraat,22,,
-7341PG,Bellertstraat,30,,
-7341PG,Bellertstraat,32,,
-7341PG,Bellertstraat,35,,
-7341PP,Bloemenkamp,2,,
-7341PP,Bloemenkamp,3,,
-7341PP,Bloemenkamp,4,,
-7341PP,Bloemenkamp,5,,
-7341PP,Bloemenkamp,6,,
-7341PP,Bloemenkamp,7,,
-7341PP,Bloemenkamp,8,,
-7341PH,Broeklanderweg,1,,
-7341PH,Broeklanderweg,4,,
-7341PH,Broeklanderweg,5,,
-7341PJ,Broeklanderweg,7,,
-7341PJ,Broeklanderweg,8,,
-7341PJ,Broeklanderweg,9,,
-7341PJ,Broeklanderweg,12,,
-7341PJ,Broeklanderweg,16,,
-7341PJ,Broeklanderweg,18,,
-7341PJ,Broeklanderweg,24,,
-7341PK,Broeklanderweg,17,,
-7341PK,Broeklanderweg,19,,
-7341PK,Broeklanderweg,21,,
-7341PK,Broeklanderweg,23,,
-7341PL,Broeklanderweg,37,,
-7341PL,Broeklanderweg,40,,
-7341PL,Broeklanderweg,41,,
-7341PM,Broeklanderweg,45,,
-7341PM,Broeklanderweg,48,,
-7341PM,Broeklanderweg,49,,
-7341PM,Broeklanderweg,50,,
-7341PM,Broeklanderweg,52,,
-7341PM,Broeklanderweg,51,,
-7341PM,Broeklanderweg,53,,
-7341PM,Broeklanderweg,55,,
-7341PM,Broeklanderweg,56,,
-7341PM,Broeklanderweg,57,,
-7341PM,Broeklanderweg,58,,
-7341PM,Broeklanderweg,64,,
-7341PM,Broeklanderweg,66,,
-7341PM,Broeklanderweg,70,,
-7341PM,Broeklanderweg,74,,
-7341PN,Broeklanderweg,63,,
-7341PN,Broeklanderweg,65,,
-7341PN,Broeklanderweg,67,,
-7341PN,Broeklanderweg,69,,
-7341PN,Broeklanderweg,71,,
-7341PN,Broeklanderweg,73,,
-7341PN,Broeklanderweg,75,,
-7341PN,Broeklanderweg,76,,
-7341PN,Broeklanderweg,77,,
-7341PN,Broeklanderweg,77,A,
-7341PN,Broeklanderweg,78,,
-7341PN,Broeklanderweg,80,,
-7341PN,Broeklanderweg,82,,
-7341PN,Broeklanderweg,83,,
-7341PN,Broeklanderweg,91,,
-7341PM,De Gaete,2,,
-7341PM,De Gaete,3,,
-7341PM,De Gaete,4,,
-7341PM,De Gaete,5,,
-7341PM,De Gaete,8,,
-7341SG,Drostendijk,2,,
-7341SG,Drostendijk,4,,
-7341SG,Drostendijk,6,,
-7341SG,Drostendijk,18,,
-7341SH,Drostendijk,30,,
-7341SH,Drostendijk,32,,
-7341SH,Drostendijk,36,,
-7341SH,Drostendijk,37,,
-7341SH,Drostendijk,40,,
-7341SH,Drostendijk,46,,
-7341SH,Drostendijk,47,,
-7341SH,Drostendijk,49,,
-7341SH,Drostendijk,52,,
-7341SH,Drostendijk,53,,
-7341SH,Drostendijk,58,,
-7341SH,Drostendijk,60,,
-7341SH,Drostendijk,61,,
-7341SH,Drostendijk,64,,
-7341SH,Drostendijk,67,,
-7341SH,Drostendijk,74,,
-7341SH,Drostendijk,80,,
-7341PK,Goorland,13,,
-7341PK,Goorland,14,,
-7341AC,Holhorstweg,4,,
-7341AC,Holhorstweg,9,,
-7341AC,Holhorstweg,10,,
-7341AC,Holhorstweg,13,,
-7341AC,Holhorstweg,20,,
-7341PA,Kanaal Noord,410,,
-7341PA,Kanaal Noord,430,,
-7341PA,Kanaal Noord,436,,
-7341PA,Kanaal Noord,446,,
-7341PA,Kanaal Noord,450,,
-7341PA,Kanaal Noord,454,,
-7341PA,Kanaal Noord,456,,
-7341PH,Kanaal Noord,476,,
-7341PH,Kanaal Noord,480,,
-7341PH,Kanaal Noord,482,,
-7341PH,Kanaal Noord,484,,
-7341PC,Kluinweg,2,,
-7341PC,Kluinweg,2,,2
-7341PC,Kluinweg,4,,
-7341PC,Kluinweg,6,,
-7341PC,Kluinweg,6,A,
-7341PC,Kluinweg,10,,
-7341AA,Korlerweg,2,,
-7341AA,Korlerweg,5,,
-7341AA,Korlerweg,6,,
-7341PS,Kraaienjagersweg,6,,
-7341PS,Kraaienjagersweg,7,,
-7341PS,Kraaienjagersweg,8,,
-7341PS,Kraaienjagersweg,10,,
-7341PS,Kraaienjagersweg,12,,
-7341PS,Kraaienjagersweg,13,,
-7341PS,Kraaienjagersweg,14,,
-7341PS,Kraaienjagersweg,14,,2
-7341PS,Kraaienjagersweg,16,,
-7341PS,Kraaienjagersweg,16,,2
-7341PS,Kraaienjagersweg,18,,
-7341PS,Kraaienjagersweg,19,,
-7341PT,Kraaienjagersweg,20,,
-7341PT,Kraaienjagersweg,22,,
-7341PT,Kraaienjagersweg,24,,
-7341PT,Kraaienjagersweg,25,,
-7341PT,Kraaienjagersweg,27,,
-7341PT,Kraaienjagersweg,29,,
-7341PT,Kraaienjagersweg,31,,
-7341PT,Kraaienjagersweg,38,,
-7341PR,Nieuwe Wetering,12,,
-7341PR,Nieuwe Wetering,13,,
-7341PR,Nieuwe Wetering,14,,
-7341PR,Nieuwe Wetering,20,,
-7341PR,Nieuwe Wetering,20,A,
-7341PR,Nieuwe Wetering,21,,
-7341PR,Nieuwe Wetering,26,,
-7341PR,Nieuwe Wetering,28,,
-7341PR,Nieuwe Wetering,31,,
-7341PR,Nieuwe Wetering,40,,
-7341PA,Oude Beemterweg,6,,
-7341PA,Oude Beemterweg,7,,
-7341PA,Oude Beemterweg,8,,
-7341PA,Oude Beemterweg,18,,
-7341SE,Terwoldseweg,135,,
-7341SE,Terwoldseweg,144,,
-7341SE,Terwoldseweg,151,,
-7341SE,Terwoldseweg,165,,
-7341AB,Vellertweg,7,,
-7341AB,Vellertweg,10,,
-7341AB,Vellertweg,14,,
-7341AB,Vellertweg,15,,
-7341AB,Vellertweg,18,,
-7341AB,Vellertweg,19,,
-7341AB,Vellertweg,21,,
-7341AB,Vellertweg,25,,
-7341AB,Vellertweg,31,,
-7341AB,Vellertweg,32,,
-7341AB,Vellertweg,33,,
-7341AB,Vellertweg,36,,
-7341AB,Vellertweg,38,,
-7341AB,Vellertweg,44,,
-7341AB,Vellertweg,48,,
-7341PC,Beemterweg,35,A,
-7341PC,Beemterweg,35,B,
-7341PC,Beemterweg,35,D,
-7341PN,Broeklanderweg,93,,
-7341PA,Kanaal Noord,420,,
-7341PH,Kanaal Noord,466,,
-7341AB,Vellertweg,26,,
-7341SJ,Waterweg,8,,
-7341SJ,Waterweg,12,,
-7341SJ,Waterweg,18,,
-7341SJ,Waterweg,3,,
-7341SJ,Waterweg,24,,
-7341SJ,Waterweg,22,,
-7341PL,Werler,1,,
-7341PL,Werler,3,,
-7341PL,Werler,4,,
-7341PL,Werler,5,,
-7341PL,Werler,7,,
-7341PL,Werler,8,,
-7341AK,Zuidbroeksweg,39,,
-7341AK,Zuidbroeksweg,41,,
-7341AK,Zuidbroeksweg,44,,
-7341PG,Achterbroek,12,,
-7341PD,Beemterweg,79,,
-7341PD,Beemterweg,77,,
-7341PD,Beemterweg,79,,
-7341PD,Beemterweg,77,,
-7341PD,Beemterweg,75,A,
-7341PD,Beemterweg,75,B,
-7341PD,Beemterweg,90,B,
-7341PE,Bellertstraat,14,A,
-7341PE,Bellertstraat,14,B,
-7341PE,Bellertstraat,10,A,
-7341PE,Bellertstraat,10,B,
-7341PG,Bellertstraat,20,,
-7341PG,Bellertstraat,26,,
-7341PN,Broeklanderweg,76,C,
-7341PN,Broeklanderweg,76,D,
-7341PN,Broeklanderweg,81,,
-7341PN,Broeklanderweg,79,,
-7341PM,De Gaete,7,,
-7341PM,De Gaete,9,,
-7341SG,Drostendijk,8,,
-7341SG,Drostendijk,21,,
-7341SG,Drostendijk,13,,
-7341SH,Drostendijk,68,,
-7341SH,Drostendijk,70,,
-7341SH,Drostendijk,71,,
-7341SH,Drostendijk,34,,
-7341PS,Kraaienjagersweg,15,A,
-7341PS,Kraaienjagersweg,15,,
-7341PT,Kraaienjagersweg,28,,
-7341PT,Kraaienjagersweg,30,,
-7341PA,Oude Beemterweg,20,,
-7341PA,Oude Beemterweg,22,,
-7341PA,Oude Beemterweg,1,A,
-7341PA,Oude Beemterweg,1,B,
-7341AB,Vellertweg,20,,
-7341PL,Werler,9,,
-7341AK,Zuidbroeksweg,42,,
-7341AK,Zuidbroeksweg,40,,
-7341PC,Beemterweg,52,,
-7341PD,Beemterweg,66,,
-7341PD,Beemterweg,68,,
-7341PD,Beemterweg,93,,
-7341PD,Beemterweg,91,,
-7341PD,Beemterweg,90,A,
-7341PD,Beemterweg,70,C,
-7341PD,Beemterweg,72,C,
-7341PE,Bellertstraat,6,A,
-7341PE,Bellertstraat,6,A,
-7341PE,Bellertstraat,6,A,
-7341PH,Broeklanderweg,6,B,
-7341PL,Broeklanderweg,30,,
-7341PM,De Gaete,5,A,
-7341SB,Deventerstraat,497,,
-7341SB,Deventerstraat,503,,
-7341SB,Deventerstraat,517,,
-7341SB,Deventerstraat,539,,
-7341SB,Deventerstraat,557,,
-7341SB,Deventerstraat,559,,
-7341SB,Deventerstraat,561,,
-7341SB,Deventerstraat,565,,
-7341SB,Deventerstraat,567,,
-7341SB,Deventerstraat,573,,
-7341SB,Deventerstraat,581,,
-7341SB,Deventerstraat,601,,
-7341SB,Deventerstraat,617,,
-7341SB,Deventerstraat,633,,
-7341SB,Deventerstraat,649,,
-7341SB,Deventerstraat,651,,
-7341SG,Drostendijk,7,,
-7341SG,Drostendijk,9,,
-7341SH,Drostendijk,28,,
-7341PK,Goorland,11,,
-7341PS,Kraaienjagersweg,5,,
-7341PS,Kraaienjagersweg,17,B,
-7341PD,Beemterweg,56,A,
-7341PD,Beemterweg,56,B,
-7341PD,Beemterweg,72,G,
-7341PD,Beemterweg,72,G,
-7341PE,Bellertstraat,6,B,
-7341PE,Bellertstraat,6,B,
-7341PE,Bellertstraat,7,,
-7341PE,Bellertstraat,9,,
-7341PE,Bellertstraat,15,,
-7341PG,Bellertstraat,20,,
-7341PN,Broeklanderweg,82,,
-7341PN,Broeklanderweg,84,,
-7341PM,De Gaete,3,A,
-7341PM,De Gaete,3,,
-7341SH,Drostendijk,58,,
-7341PK,Goorland,2,,
-7341PA,Kanaal Noord,430,,
-7341PA,Kanaal Noord,410,A,
-7341SE,Terwoldseweg,144,,
-7341SE,Terwoldseweg,142,,
-7341SJ,Waterweg,14,,
-7341PD,Beemterweg,61,A,
-7341PD,Beemterweg,61,A,
-7341PE,Bellertstraat,16,B,
-7341PE,Bellertstraat,16,A,
-7341PE,Bellertstraat,16,D,
-7341PE,Bellertstraat,16,E,
-7341PE,Bellertstraat,16,F,
-7341PE,Bellertstraat,16,U,
-7341PP,Bloemenkamp,8,A,
-7341PP,Bloemenkamp,5,A,
-7341PJ,Broeklanderweg,8,A,
-7341PJ,Broeklanderweg,8,B,
-7341PJ,Broeklanderweg,9,A,
-7341PN,Broeklanderweg,69,,
-7341SB,Deventerstraat,503,,
-7341SH,Drostendijk,61,,
-7341PK,Goorland,9,,
-7341PA,Kanaal Noord,414,,
-7341PA,Kanaal Noord,430,B,
-7341PH,Kanaal Noord,476,A,
-7341PS,Kraaienjagersweg,15,A,
-7341PS,Kraaienjagersweg,7,A,
-7341PS,Kraaienjagersweg,7,B,
-7341PR,Nieuwe Wetering,20,A,
-7341PR,Nieuwe Wetering,20,,
-7341PR,Nieuwe Wetering,13,B,
-7341PR,Nieuwe Wetering,13,,
-7341AB,Vellertweg,20,,
-7341AB,Vellertweg,48,B,
-7341AB,Vellertweg,15,,
-7341SJ,Waterweg,8,C,
-7341SJ,Waterweg,8,B,
-7341SJ,Waterweg,8,D,
-7341PW,Bellerthof,4,,
-7341PW,Bellerthof,6,,
-7341PW,Bellerthof,10,A,
-7341PW,Bellerthof,10,B,
-7341PW,Bellerthof,10,C,
-7341PW,Bellerthof,22,,
-7341PW,Bellerthof,14,,
-7341PW,Bellerthof,20,,
-7341PW,Bellerthof,18,,
-7341PW,Bellerthof,16,,
-7341PW,Bellerthof,12,,
-7341PD,Beemterweg,72,A,
-7341PD,Beemterweg,73,B,
-7341PD,Beemterweg,56,,
-7341PD,Beemterweg,82,A,
-7341PD,Beemterweg,82,B,
-7341PD,Beemterweg,82,B,
-7341PP,Bloemenkamp,5,,
-7341PP,Bloemenkamp,6,A,
-7341PJ,Broeklanderweg,24,,
-7341PM,Broeklanderweg,70,A,
-7341PM,Broeklanderweg,53,A,
-7341PM,Broeklanderweg,66,A,
-7341PM,Broeklanderweg,48,,
-7341PM,De Gaete,2,A,
-7341SB,Deventerstraat,557,A,
-7341SB,Deventerstraat,581,,
-7341SG,Drostendijk,1,,
-7341SH,Drostendijk,46,A,1
-7341SH,Drostendijk,46,B,1
-7341SH,Drostendijk,46,C,1
-7341SH,Drostendijk,46,A,
-7341SH,Drostendijk,46,B,
-7341SH,Drostendijk,46,C,
-7341SH,Drostendijk,57,,
-7341SH,Drostendijk,69,A,
-7341SH,Drostendijk,69,B,
-7341SH,Drostendijk,59,,
-7341SH,Drostendijk,59,,
-7341SH,Drostendijk,64,A,
-7341AC,Holhorstweg,4,A,
-7341PA,Kanaal Noord,436,A,
-7341PS,Kraaienjagersweg,19,A,
-7341PR,Nieuwe Wetering,26,A,
-7341PA,Oude Beemterweg,6,A,
-7341PA,Oude Beemterweg,6,A,
-7341AB,Vellertweg,10,A,
-7341AB,Vellertweg,10,,
-7341AB,Vellertweg,34,,
-7341SJ,Waterweg,12,A,
-7341SJ,Waterweg,12,A,
-7341SJ,Waterweg,3,,T
-7341SJ,Waterweg,5,,
-7341AB,Vellertweg,15,A,
-7341AB,Vellertweg,15,B,
-7341AB,Vellertweg,15,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Korlerweg,2,"","",7341AA,Beemte Broekland
+Korlerweg,5,"","",7341AA,Beemte Broekland
+Korlerweg,6,"","",7341AA,Beemte Broekland
+Vellertweg,10,"","",7341AB,Beemte Broekland
+Vellertweg,10,"","",7341AB,Beemte Broekland
+Vellertweg,10,"","",7341AB,Beemte Broekland
+Vellertweg,10,A,"",7341AB,Beemte Broekland
+Vellertweg,14,"","",7341AB,Beemte Broekland
+Vellertweg,15,"","",7341AB,Beemte Broekland
+Vellertweg,15,"","",7341AB,Beemte Broekland
+Vellertweg,18,"","",7341AB,Beemte Broekland
+Vellertweg,19,"","",7341AB,Beemte Broekland
+Vellertweg,20,"","",7341AB,Beemte Broekland
+Vellertweg,20,"","",7341AB,Beemte Broekland
+Vellertweg,20,"","",7341AB,Beemte Broekland
+Vellertweg,21,"","",7341AB,Beemte Broekland
+Vellertweg,25,"","",7341AB,Beemte Broekland
+Vellertweg,26,"","",7341AB,Beemte Broekland
+Vellertweg,31,"","",7341AB,Beemte Broekland
+Vellertweg,32,"","",7341AB,Beemte Broekland
+Vellertweg,33,"","",7341AB,Beemte Broekland
+Vellertweg,34,"","",7341AB,Beemte Broekland
+Vellertweg,36,"","",7341AB,Beemte Broekland
+Vellertweg,38,"","",7341AB,Beemte Broekland
+Vellertweg,44,"","",7341AB,Beemte Broekland
+Vellertweg,48,"","",7341AB,Beemte Broekland
+Vellertweg,48,B,"",7341AB,Beemte Broekland
+Vellertweg,7,"","",7341AB,Beemte Broekland
+Holhorstweg,10,"","",7341AC,Beemte Broekland
+Holhorstweg,13,"","",7341AC,Beemte Broekland
+Holhorstweg,20,"","",7341AC,Beemte Broekland
+Holhorstweg,4,"","",7341AC,Beemte Broekland
+Holhorstweg,4,A,"",7341AC,Beemte Broekland
+Holhorstweg,9,"","",7341AC,Beemte Broekland
+Zuidbroeksweg,39,"","",7341AK,Beemte Broekland
+Zuidbroeksweg,40,"","",7341AK,Beemte Broekland
+Zuidbroeksweg,41,"","",7341AK,Beemte Broekland
+Zuidbroeksweg,42,"","",7341AK,Beemte Broekland
+Zuidbroeksweg,44,"","",7341AK,Beemte Broekland
+Oude Beemterweg,1,A,"",7341PA,Beemte Broekland
+Oude Beemterweg,1,B,"",7341PA,Beemte Broekland
+Oude Beemterweg,18,"","",7341PA,Beemte Broekland
+Oude Beemterweg,20,"","",7341PA,Beemte Broekland
+Oude Beemterweg,22,"","",7341PA,Beemte Broekland
+Kanaal Noord,410,"","",7341PA,Beemte Broekland
+Kanaal Noord,410,A,"",7341PA,Beemte Broekland
+Kanaal Noord,414,"","",7341PA,Beemte Broekland
+Kanaal Noord,420,"","",7341PA,Beemte Broekland
+Kanaal Noord,430,"","",7341PA,Beemte Broekland
+Kanaal Noord,430,"","",7341PA,Beemte Broekland
+Kanaal Noord,430,"","",7341PA,Beemte Broekland
+Kanaal Noord,430,B,"",7341PA,Beemte Broekland
+Kanaal Noord,436,"","",7341PA,Beemte Broekland
+Kanaal Noord,436,A,"",7341PA,Beemte Broekland
+Kanaal Noord,446,"","",7341PA,Beemte Broekland
+Kanaal Noord,450,"","",7341PA,Beemte Broekland
+Kanaal Noord,454,"","",7341PA,Beemte Broekland
+Kanaal Noord,456,"","",7341PA,Beemte Broekland
+Kanaal Noord,456,"","",7341PA,Beemte Broekland
+Oude Beemterweg,6,"","",7341PA,Beemte Broekland
+Oude Beemterweg,6,A,"",7341PA,Beemte Broekland
+Oude Beemterweg,6,A,"",7341PA,Beemte Broekland
+Oude Beemterweg,6,A,"",7341PA,Beemte Broekland
+Oude Beemterweg,7,"","",7341PA,Beemte Broekland
+Oude Beemterweg,8,"","",7341PA,Beemte Broekland
+Kluinweg,10,"","",7341PC,Beemte Broekland
+Kluinweg,2,"","",7341PC,Beemte Broekland
+Kluinweg,2,"",2,7341PC,Beemte Broekland
+Beemterweg,31,"","",7341PC,Beemte Broekland
+Beemterweg,33,"","",7341PC,Beemte Broekland
+Beemterweg,34,"","",7341PC,Beemte Broekland
+Beemterweg,35,A,"",7341PC,Beemte Broekland
+Beemterweg,35,B,"",7341PC,Beemte Broekland
+Beemterweg,35,C,"",7341PC,Beemte Broekland
+Beemterweg,35,D,"",7341PC,Beemte Broekland
+Beemterweg,36,"","",7341PC,Beemte Broekland
+Beemterweg,37,"","",7341PC,Beemte Broekland
+Beemterweg,38,"","",7341PC,Beemte Broekland
+Kluinweg,4,"","",7341PC,Beemte Broekland
+Beemterweg,42,"","",7341PC,Beemte Broekland
+Beemterweg,43,"","",7341PC,Beemte Broekland
+Beemterweg,44,"","",7341PC,Beemte Broekland
+Beemterweg,44,"","",7341PC,Beemte Broekland
+Beemterweg,45,"","",7341PC,Beemte Broekland
+Beemterweg,49,"","",7341PC,Beemte Broekland
+Beemterweg,50,"","",7341PC,Beemte Broekland
+Beemterweg,52,"","",7341PC,Beemte Broekland
+Beemterweg,52,"","",7341PC,Beemte Broekland
+Beemterweg,57,"","",7341PC,Beemte Broekland
+Beemterweg,59,"","",7341PC,Beemte Broekland
+Kluinweg,6,"","",7341PC,Beemte Broekland
+Kluinweg,6,A,"",7341PC,Beemte Broekland
+Beemterweg,56,"","",7341PD,Beemte Broekland
+Beemterweg,56,"","",7341PD,Beemte Broekland
+Beemterweg,56,"","",7341PD,Beemte Broekland
+Beemterweg,56,A,"",7341PD,Beemte Broekland
+Beemterweg,56,B,"",7341PD,Beemte Broekland
+Beemterweg,58,"","",7341PD,Beemte Broekland
+Beemterweg,61,"","",7341PD,Beemte Broekland
+Beemterweg,61,A,"",7341PD,Beemte Broekland
+Beemterweg,61,A,"",7341PD,Beemte Broekland
+Beemterweg,62,"","",7341PD,Beemte Broekland
+Beemterweg,63,"","",7341PD,Beemte Broekland
+Beemterweg,66,"","",7341PD,Beemte Broekland
+Beemterweg,67,"","",7341PD,Beemte Broekland
+Beemterweg,68,"","",7341PD,Beemte Broekland
+Beemterweg,69,"","",7341PD,Beemte Broekland
+Beemterweg,70,"","",7341PD,Beemte Broekland
+Beemterweg,70,C,"",7341PD,Beemte Broekland
+Beemterweg,72,"","",7341PD,Beemte Broekland
+Beemterweg,72,"",2,7341PD,Beemte Broekland
+Beemterweg,72,A,"",7341PD,Beemte Broekland
+Beemterweg,72,C,"",7341PD,Beemte Broekland
+Beemterweg,72,G,"",7341PD,Beemte Broekland
+Beemterweg,72,G,"",7341PD,Beemte Broekland
+Beemterweg,72,G,"",7341PD,Beemte Broekland
+Beemterweg,73,"","",7341PD,Beemte Broekland
+Beemterweg,73,A,"",7341PD,Beemte Broekland
+Beemterweg,73,B,"",7341PD,Beemte Broekland
+Beemterweg,74,"","",7341PD,Beemte Broekland
+Beemterweg,75,"","",7341PD,Beemte Broekland
+Beemterweg,75,A,"",7341PD,Beemte Broekland
+Beemterweg,75,B,"",7341PD,Beemte Broekland
+Beemterweg,76,"","",7341PD,Beemte Broekland
+Beemterweg,77,"","",7341PD,Beemte Broekland
+Beemterweg,77,"","",7341PD,Beemte Broekland
+Beemterweg,79,"","",7341PD,Beemte Broekland
+Beemterweg,79,"","",7341PD,Beemte Broekland
+Beemterweg,79,"","",7341PD,Beemte Broekland
+Beemterweg,82,"","",7341PD,Beemte Broekland
+Beemterweg,82,A,"",7341PD,Beemte Broekland
+Beemterweg,82,B,"",7341PD,Beemte Broekland
+Beemterweg,82,B,"",7341PD,Beemte Broekland
+Beemterweg,83,"","",7341PD,Beemte Broekland
+Beemterweg,84,"","",7341PD,Beemte Broekland
+Beemterweg,86,"","",7341PD,Beemte Broekland
+Beemterweg,88,"","",7341PD,Beemte Broekland
+Beemterweg,90,A,"",7341PD,Beemte Broekland
+Beemterweg,90,B,"",7341PD,Beemte Broekland
+Beemterweg,91,"","",7341PD,Beemte Broekland
+Beemterweg,92,"","",7341PD,Beemte Broekland
+Beemterweg,93,"","",7341PD,Beemte Broekland
+Beemterweg,93,"","",7341PD,Beemte Broekland
+Beemterweg,96,"","",7341PD,Beemte Broekland
+Bellertstraat,10,A,"",7341PE,Beemte Broekland
+Bellertstraat,10,B,"",7341PE,Beemte Broekland
+Bellertstraat,13,"","",7341PE,Beemte Broekland
+Bellertstraat,14,A,"",7341PE,Beemte Broekland
+Bellertstraat,14,B,"",7341PE,Beemte Broekland
+Bellertstraat,15,"","",7341PE,Beemte Broekland
+Bellertstraat,15,"","",7341PE,Beemte Broekland
+Bellertstraat,15,"","",7341PE,Beemte Broekland
+Bellertstraat,16,"","",7341PE,Beemte Broekland
+Bellertstraat,16,"","",7341PE,Beemte Broekland
+Bellertstraat,16,A,"",7341PE,Beemte Broekland
+Bellertstraat,16,B,"",7341PE,Beemte Broekland
+Bellertstraat,16,D,"",7341PE,Beemte Broekland
+Bellertstraat,16,E,"",7341PE,Beemte Broekland
+Bellertstraat,16,F,"",7341PE,Beemte Broekland
+Bellertstraat,16,U,"",7341PE,Beemte Broekland
+Bellertstraat,25,"","",7341PE,Beemte Broekland
+Bellertstraat,6,A,"",7341PE,Beemte Broekland
+Bellertstraat,6,A,"",7341PE,Beemte Broekland
+Bellertstraat,6,A,"",7341PE,Beemte Broekland
+Bellertstraat,6,B,"",7341PE,Beemte Broekland
+Bellertstraat,6,B,"",7341PE,Beemte Broekland
+Bellertstraat,7,"","",7341PE,Beemte Broekland
+Bellertstraat,9,"","",7341PE,Beemte Broekland
+Bellertstraat,9,"","",7341PE,Beemte Broekland
+Bellertstraat,9,"","",7341PE,Beemte Broekland
+Achterbroek,10,"","",7341PG,Beemte Broekland
+Achterbroek,12,"","",7341PG,Beemte Broekland
+Achterbroek,14,"","",7341PG,Beemte Broekland
+Bellertstraat,20,"","",7341PG,Beemte Broekland
+Bellertstraat,20,"","",7341PG,Beemte Broekland
+Bellertstraat,20,"","",7341PG,Beemte Broekland
+Bellertstraat,22,"","",7341PG,Beemte Broekland
+Bellertstraat,26,"","",7341PG,Beemte Broekland
+Bellertstraat,30,"","",7341PG,Beemte Broekland
+Bellertstraat,32,"","",7341PG,Beemte Broekland
+Bellertstraat,35,"","",7341PG,Beemte Broekland
+Broeklanderweg,1,"","",7341PH,Beemte Broekland
+Broeklanderweg,4,"","",7341PH,Beemte Broekland
+Kanaal Noord,466,"","",7341PH,Beemte Broekland
+Kanaal Noord,476,"","",7341PH,Beemte Broekland
+Kanaal Noord,476,A,"",7341PH,Beemte Broekland
+Kanaal Noord,480,"","",7341PH,Beemte Broekland
+Kanaal Noord,482,"","",7341PH,Beemte Broekland
+Kanaal Noord,484,"","",7341PH,Beemte Broekland
+Broeklanderweg,5,"","",7341PH,Beemte Broekland
+Broeklanderweg,6,B,"",7341PH,Beemte Broekland
+Broeklanderweg,12,"","",7341PJ,Beemte Broekland
+Broeklanderweg,16,"","",7341PJ,Beemte Broekland
+Broeklanderweg,18,"","",7341PJ,Beemte Broekland
+Broeklanderweg,24,"","",7341PJ,Beemte Broekland
+Broeklanderweg,24,"","",7341PJ,Beemte Broekland
+Broeklanderweg,7,"","",7341PJ,Beemte Broekland
+Broeklanderweg,8,"","",7341PJ,Beemte Broekland
+Broeklanderweg,8,"","",7341PJ,Beemte Broekland
+Broeklanderweg,8,A,"",7341PJ,Beemte Broekland
+Broeklanderweg,8,B,"",7341PJ,Beemte Broekland
+Broeklanderweg,9,"","",7341PJ,Beemte Broekland
+Broeklanderweg,9,A,"",7341PJ,Beemte Broekland
+Goorland,11,"","",7341PK,Beemte Broekland
+Goorland,13,"","",7341PK,Beemte Broekland
+Goorland,14,"","",7341PK,Beemte Broekland
+Broeklanderweg,17,"","",7341PK,Beemte Broekland
+Broeklanderweg,19,"","",7341PK,Beemte Broekland
+Goorland,2,"","",7341PK,Beemte Broekland
+Broeklanderweg,21,"","",7341PK,Beemte Broekland
+Broeklanderweg,23,"","",7341PK,Beemte Broekland
+Goorland,9,"","",7341PK,Beemte Broekland
+Werler,1,"","",7341PL,Beemte Broekland
+Werler,3,"","",7341PL,Beemte Broekland
+Broeklanderweg,30,"","",7341PL,Beemte Broekland
+Broeklanderweg,37,"","",7341PL,Beemte Broekland
+Werler,4,"","",7341PL,Beemte Broekland
+Broeklanderweg,40,"","",7341PL,Beemte Broekland
+Broeklanderweg,41,"","",7341PL,Beemte Broekland
+Werler,5,"","",7341PL,Beemte Broekland
+Werler,7,"","",7341PL,Beemte Broekland
+Werler,8,"","",7341PL,Beemte Broekland
+Werler,9,"","",7341PL,Beemte Broekland
+De Gaete,2,"","",7341PM,Beemte Broekland
+De Gaete,2,A,"",7341PM,Beemte Broekland
+De Gaete,3,"","",7341PM,Beemte Broekland
+De Gaete,3,"","",7341PM,Beemte Broekland
+De Gaete,3,"","",7341PM,Beemte Broekland
+De Gaete,3,A,"",7341PM,Beemte Broekland
+De Gaete,4,"","",7341PM,Beemte Broekland
+Broeklanderweg,45,"","",7341PM,Beemte Broekland
+Broeklanderweg,48,"","",7341PM,Beemte Broekland
+Broeklanderweg,48,"","",7341PM,Beemte Broekland
+Broeklanderweg,49,"","",7341PM,Beemte Broekland
+De Gaete,5,"","",7341PM,Beemte Broekland
+De Gaete,5,A,"",7341PM,Beemte Broekland
+De Gaete,5,A,"",7341PM,Beemte Broekland
+Broeklanderweg,50,"","",7341PM,Beemte Broekland
+Broeklanderweg,51,"","",7341PM,Beemte Broekland
+Broeklanderweg,52,"","",7341PM,Beemte Broekland
+Broeklanderweg,53,"","",7341PM,Beemte Broekland
+Broeklanderweg,53,A,"",7341PM,Beemte Broekland
+Broeklanderweg,55,"","",7341PM,Beemte Broekland
+Broeklanderweg,56,"","",7341PM,Beemte Broekland
+Broeklanderweg,57,"","",7341PM,Beemte Broekland
+Broeklanderweg,58,"","",7341PM,Beemte Broekland
+Broeklanderweg,64,"","",7341PM,Beemte Broekland
+Broeklanderweg,66,"","",7341PM,Beemte Broekland
+Broeklanderweg,66,A,"",7341PM,Beemte Broekland
+De Gaete,7,"","",7341PM,Beemte Broekland
+Broeklanderweg,70,"","",7341PM,Beemte Broekland
+Broeklanderweg,70,A,"",7341PM,Beemte Broekland
+Broeklanderweg,74,"","",7341PM,Beemte Broekland
+De Gaete,8,"","",7341PM,Beemte Broekland
+De Gaete,9,"","",7341PM,Beemte Broekland
+Broeklanderweg,63,"","",7341PN,Beemte Broekland
+Broeklanderweg,65,"","",7341PN,Beemte Broekland
+Broeklanderweg,67,"","",7341PN,Beemte Broekland
+Broeklanderweg,69,"","",7341PN,Beemte Broekland
+Broeklanderweg,69,"","",7341PN,Beemte Broekland
+Broeklanderweg,69,"","",7341PN,Beemte Broekland
+Broeklanderweg,71,"","",7341PN,Beemte Broekland
+Broeklanderweg,73,"","",7341PN,Beemte Broekland
+Broeklanderweg,75,"","",7341PN,Beemte Broekland
+Broeklanderweg,76,"","",7341PN,Beemte Broekland
+Broeklanderweg,76,C,"",7341PN,Beemte Broekland
+Broeklanderweg,76,D,"",7341PN,Beemte Broekland
+Broeklanderweg,77,"","",7341PN,Beemte Broekland
+Broeklanderweg,77,A,"",7341PN,Beemte Broekland
+Broeklanderweg,78,"","",7341PN,Beemte Broekland
+Broeklanderweg,79,"","",7341PN,Beemte Broekland
+Broeklanderweg,80,"","",7341PN,Beemte Broekland
+Broeklanderweg,81,"","",7341PN,Beemte Broekland
+Broeklanderweg,82,"","",7341PN,Beemte Broekland
+Broeklanderweg,82,"","",7341PN,Beemte Broekland
+Broeklanderweg,82,"","",7341PN,Beemte Broekland
+Broeklanderweg,83,"","",7341PN,Beemte Broekland
+Broeklanderweg,84,"","",7341PN,Beemte Broekland
+Broeklanderweg,91,"","",7341PN,Beemte Broekland
+Broeklanderweg,93,"","",7341PN,Beemte Broekland
+Bloemenkamp,2,"","",7341PP,Beemte Broekland
+Bloemenkamp,3,"","",7341PP,Beemte Broekland
+Bloemenkamp,4,"","",7341PP,Beemte Broekland
+Bloemenkamp,5,"","",7341PP,Beemte Broekland
+Bloemenkamp,5,"","",7341PP,Beemte Broekland
+Bloemenkamp,5,"","",7341PP,Beemte Broekland
+Bloemenkamp,5,A,"",7341PP,Beemte Broekland
+Bloemenkamp,5,A,"",7341PP,Beemte Broekland
+Bloemenkamp,6,"","",7341PP,Beemte Broekland
+Bloemenkamp,6,A,"",7341PP,Beemte Broekland
+Bloemenkamp,6,A,"",7341PP,Beemte Broekland
+Bloemenkamp,7,"","",7341PP,Beemte Broekland
+Bloemenkamp,8,"","",7341PP,Beemte Broekland
+Bloemenkamp,8,A,"",7341PP,Beemte Broekland
+Nieuwe Wetering,12,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,13,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,13,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,13,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,13,B,"",7341PR,Beemte Broekland
+Nieuwe Wetering,14,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,20,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,20,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,20,A,"",7341PR,Beemte Broekland
+Nieuwe Wetering,20,A,"",7341PR,Beemte Broekland
+Nieuwe Wetering,21,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,26,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,26,A,"",7341PR,Beemte Broekland
+Nieuwe Wetering,28,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,31,"","",7341PR,Beemte Broekland
+Nieuwe Wetering,40,"","",7341PR,Beemte Broekland
+Kraaienjagersweg,10,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,12,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,13,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,14,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,14,"",2,7341PS,Beemte Broekland
+Kraaienjagersweg,15,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,15,A,"",7341PS,Beemte Broekland
+Kraaienjagersweg,15,A,"",7341PS,Beemte Broekland
+Kraaienjagersweg,15,A,"",7341PS,Beemte Broekland
+Kraaienjagersweg,16,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,16,"",2,7341PS,Beemte Broekland
+Kraaienjagersweg,17,B,"",7341PS,Beemte Broekland
+Kraaienjagersweg,18,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,19,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,19,A,"",7341PS,Beemte Broekland
+Kraaienjagersweg,19,A,"",7341PS,Beemte Broekland
+Kraaienjagersweg,5,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,6,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,7,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,7,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,7,A,"",7341PS,Beemte Broekland
+Kraaienjagersweg,7,B,"",7341PS,Beemte Broekland
+Kraaienjagersweg,8,"","",7341PS,Beemte Broekland
+Kraaienjagersweg,20,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,22,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,24,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,25,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,27,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,28,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,28,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,29,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,30,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,31,"","",7341PT,Beemte Broekland
+Kraaienjagersweg,38,"","",7341PT,Beemte Broekland
+Bellerthof,10,A,"",7341PW,Beemte Broekland
+Bellerthof,10,B,"",7341PW,Beemte Broekland
+Bellerthof,10,C,"",7341PW,Beemte Broekland
+Bellerthof,12,"","",7341PW,Beemte Broekland
+Bellerthof,14,"","",7341PW,Beemte Broekland
+Bellerthof,16,"","",7341PW,Beemte Broekland
+Bellerthof,18,"","",7341PW,Beemte Broekland
+Bellerthof,20,"","",7341PW,Beemte Broekland
+Bellerthof,22,"","",7341PW,Beemte Broekland
+Bellerthof,4,"","",7341PW,Beemte Broekland
+Bellerthof,6,"","",7341PW,Beemte Broekland
+Deventerstraat,497,"","",7341SB,Beemte Broekland
+Deventerstraat,503,"","",7341SB,Beemte Broekland
+Deventerstraat,503,"","",7341SB,Beemte Broekland
+Deventerstraat,503,"","",7341SB,Beemte Broekland
+Deventerstraat,517,"","",7341SB,Beemte Broekland
+Deventerstraat,539,"","",7341SB,Beemte Broekland
+Deventerstraat,557,"","",7341SB,Beemte Broekland
+Deventerstraat,557,A,"",7341SB,Beemte Broekland
+Deventerstraat,559,"","",7341SB,Beemte Broekland
+Deventerstraat,561,"","",7341SB,Beemte Broekland
+Deventerstraat,565,"","",7341SB,Beemte Broekland
+Deventerstraat,567,"","",7341SB,Beemte Broekland
+Deventerstraat,573,"","",7341SB,Beemte Broekland
+Deventerstraat,581,"","",7341SB,Beemte Broekland
+Deventerstraat,581,"","",7341SB,Beemte Broekland
+Deventerstraat,581,"","",7341SB,Beemte Broekland
+Deventerstraat,601,"","",7341SB,Beemte Broekland
+Deventerstraat,617,"","",7341SB,Beemte Broekland
+Deventerstraat,633,"","",7341SB,Beemte Broekland
+Deventerstraat,649,"","",7341SB,Beemte Broekland
+Deventerstraat,651,"","",7341SB,Beemte Broekland
+Terwoldseweg,135,"","",7341SE,Beemte Broekland
+Terwoldseweg,142,"","",7341SE,Beemte Broekland
+Terwoldseweg,144,"","",7341SE,Beemte Broekland
+Terwoldseweg,144,"","",7341SE,Beemte Broekland
+Terwoldseweg,144,"","",7341SE,Beemte Broekland
+Terwoldseweg,151,"","",7341SE,Beemte Broekland
+Terwoldseweg,165,"","",7341SE,Beemte Broekland
+Drostendijk,1,"","",7341SG,Beemte Broekland
+Drostendijk,13,"","",7341SG,Beemte Broekland
+Drostendijk,18,"","",7341SG,Beemte Broekland
+Drostendijk,2,"","",7341SG,Beemte Broekland
+Drostendijk,21,"","",7341SG,Beemte Broekland
+Drostendijk,4,"","",7341SG,Beemte Broekland
+Drostendijk,6,"","",7341SG,Beemte Broekland
+Drostendijk,7,"","",7341SG,Beemte Broekland
+Drostendijk,8,"","",7341SG,Beemte Broekland
+Drostendijk,9,"","",7341SG,Beemte Broekland
+Drostendijk,28,"","",7341SH,Beemte Broekland
+Drostendijk,30,"","",7341SH,Beemte Broekland
+Drostendijk,32,"","",7341SH,Beemte Broekland
+Drostendijk,34,"","",7341SH,Beemte Broekland
+Drostendijk,36,"","",7341SH,Beemte Broekland
+Drostendijk,37,"","",7341SH,Beemte Broekland
+Drostendijk,40,"","",7341SH,Beemte Broekland
+Drostendijk,46,"","",7341SH,Beemte Broekland
+Drostendijk,46,A,"",7341SH,Beemte Broekland
+Drostendijk,46,A,1,7341SH,Beemte Broekland
+Drostendijk,46,A,1,7341SH,Beemte Broekland
+Drostendijk,46,B,"",7341SH,Beemte Broekland
+Drostendijk,46,B,1,7341SH,Beemte Broekland
+Drostendijk,46,B,1,7341SH,Beemte Broekland
+Drostendijk,46,C,"",7341SH,Beemte Broekland
+Drostendijk,46,C,1,7341SH,Beemte Broekland
+Drostendijk,46,C,1,7341SH,Beemte Broekland
+Drostendijk,47,"","",7341SH,Beemte Broekland
+Drostendijk,49,"","",7341SH,Beemte Broekland
+Drostendijk,52,"","",7341SH,Beemte Broekland
+Drostendijk,53,"","",7341SH,Beemte Broekland
+Drostendijk,57,"","",7341SH,Beemte Broekland
+Drostendijk,58,"","",7341SH,Beemte Broekland
+Drostendijk,58,"","",7341SH,Beemte Broekland
+Drostendijk,58,"","",7341SH,Beemte Broekland
+Drostendijk,59,"","",7341SH,Beemte Broekland
+Drostendijk,59,"","",7341SH,Beemte Broekland
+Drostendijk,60,"","",7341SH,Beemte Broekland
+Drostendijk,61,"","",7341SH,Beemte Broekland
+Drostendijk,61,"","",7341SH,Beemte Broekland
+Drostendijk,61,"","",7341SH,Beemte Broekland
+Drostendijk,64,"","",7341SH,Beemte Broekland
+Drostendijk,64,A,"",7341SH,Beemte Broekland
+Drostendijk,67,"","",7341SH,Beemte Broekland
+Drostendijk,68,"","",7341SH,Beemte Broekland
+Drostendijk,68,"","",7341SH,Beemte Broekland
+Drostendijk,69,A,"",7341SH,Beemte Broekland
+Drostendijk,69,B,"",7341SH,Beemte Broekland
+Drostendijk,70,"","",7341SH,Beemte Broekland
+Drostendijk,71,"","",7341SH,Beemte Broekland
+Drostendijk,74,"","",7341SH,Beemte Broekland
+Drostendijk,80,"","",7341SH,Beemte Broekland
+Waterweg,12,"","",7341SJ,Beemte Broekland
+Waterweg,12,A,"",7341SJ,Beemte Broekland
+Waterweg,12,A,"",7341SJ,Beemte Broekland
+Waterweg,14,"","",7341SJ,Beemte Broekland
+Waterweg,18,"","",7341SJ,Beemte Broekland
+Waterweg,22,"","",7341SJ,Beemte Broekland
+Waterweg,24,"","",7341SJ,Beemte Broekland
+Waterweg,3,"","",7341SJ,Beemte Broekland
+Waterweg,3,"",T,7341SJ,Beemte Broekland
+Waterweg,3,"",T,7341SJ,Beemte Broekland
+Waterweg,5,"","",7341SJ,Beemte Broekland
+Waterweg,8,"","",7341SJ,Beemte Broekland
+Waterweg,8,B,"",7341SJ,Beemte Broekland
+Waterweg,8,C,"",7341SJ,Beemte Broekland
+Waterweg,8,D,"",7341SJ,Beemte Broekland

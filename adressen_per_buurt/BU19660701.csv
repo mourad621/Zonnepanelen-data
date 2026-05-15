@@ -1,634 +1,320 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9953PA",1,"A",""
-"9953PA",1,"",""
-"9953PA",1,"A",""
-"9953PA",2,"A",""
-"9953PA",1,"",""
-"9953PA",1,"a",""
-"9953PA",2,"",""
-"9953PA",7,"",""
-"9953PA",2,"A",""
-"9953PA",3,"",""
-"9953PA",5,"",""
-"9953RV",5,"",""
-"9953RV",2,"",""
-"9953RV",3,"",""
-"9953RV",4,"",""
-"9953RV",6,"",""
-"9953RV",1,"",""
-"9953RV",6,"",""
-"9953RV",6,"",""
-"9953RV",15,"",""
-"9953RV",9,"",""
-"9953RV",11,"",""
-"9953RV",13,"",""
-"9953TB",1,"a",""
-"9953TB",5,"",""
-"9953TB",1,"",""
-"9953TB",1,"A",""
-"9953TB",1,"A",""
-"9953TB",3,"",""
-"9953TB",3,"T",""
-"9953TB",2,"",""
-"9953TB",3,"T",""
-"9953TB",4,"",""
-"9953TD",14,"I",""
-"9953TD",14,"G",""
-"9953TD",14,"H",""
-"9953TD",14,"D",""
-"9953TD",14,"F",""
-"9953TD",2,"",""
-"9953TD",2,"A",""
-"9953TD",2,"a",""
-"9953TD",4,"",""
-"9953TD",8,"",""
-"9953TD",12,"",""
-"9953TD",14,"",""
-"9953TD",14,"",""
-"9953TD",14,"A",""
-"9953TD",14,"B",""
-"9953TD",14,"C",""
-"9953TD",48,"",""
-"9953TD",14,"E",""
-"9953TD",14,"d",""
-"9953TD",14,"e",""
-"9953TD",14,"e",""
-"9953TD",14,"f",""
-"9953TD",14,"g",""
-"9953TD",14,"I",""
-"9953TD",14,"J",""
-"9953TD",14,"K",""
-"9953TD",14,"L",""
-"9953TD",14,"A",""
-"9953TD",46,"",""
-"9953TD",14,"b",""
-"9953TD",22,"",""
-"9953TD",24,"",""
-"9953TD",26,"",""
-"9953TD",28,"",""
-"9953TD",30,"",""
-"9953TD",32,"",""
-"9953TD",14,"h",""
-"9953TD",14,"i",""
-"9953TD",14,"j",""
-"9953TD",14,"k",""
-"9953TD",14,"l",""
-"9953TD",14,"m",""
-"9953TD",20,"",""
-"9953TD",38,"",""
-"9953TD",14,"c",""
-"9953TD",34,"",""
-"9953TD",36,"",""
-"9953TD",14,"a",""
-"9953TD",40,"",""
-"9953TD",42,"",""
-"9953TD",44,"",""
-"9953TD",14,"M",""
-"9954TP",1,"",""
-"9954TR",1,"",""
-"9954TR",6,"",""
-"9954TR",7,"A",""
-"9954TR",7,"a",""
-"9954TR",8,"",""
-"9954TR",9,"",""
-"9954TR",9,"",""
-"9954TR",9,"",""
-"9954TR",1,"A",""
-"9954TR",1,"B",""
-"9954TR",1,"B",""
-"9954TR",1,"a",""
-"9954TR",7,"",""
-"9954TR",2,"",""
-"9954TR",3,"",""
-"9954TR",11,"",""
-"9954TR",9,"A",""
-"9954TR",9,"a",""
-"9954TS",18,"",""
-"9954TS",6,"",""
-"9954TS",11,"",""
-"9954TS",8,"",""
-"9954TS",9,"",""
-"9954TS",10,"",""
-"9954TS",1,"",""
-"9954TS",2,"",""
-"9954TS",3,"",""
-"9954TS",4,"",""
-"9954TS",14,"",""
-"9954TS",7,"",""
-"9954TS",12,"",""
-"9954TS",13,"",""
-"9954TS",15,"",""
-"9954TS",16,"",""
-"9954TS",17,"",""
-"9954TT",6,"",""
-"9954TT",4,"",""
-"9954TT",3,"T",""
-"9954TT",3,"T",""
-"9954TV",4,"",""
-"9954TV",8,"",""
-"9954TV",14,"",""
-"9954TV",1,"",""
-"9954TV",10,"",""
-"9954TV",20,"",""
-"9954TW",1,"",""
-"9954TW",2,"",""
-"9954TX",3,"",""
-"9954TX",1,"",""
-"9954TX",1,"a",""
-"9954TX",1,"A",""
-"9954TX",4,"",""
-"9954TX",5,"",""
-"9954TX",2,"",""
-"9955VA",3,"",""
-"9955VA",2,"",""
-"9955VA",4,"",""
-"9955VA",3,"",""
-"9955VA",3,"",""
-"9955VA",5,"",""
-"9955VA",6,"",""
-"9955VA",6,"",""
-"9955VB",3,"",""
-"9955VB",2,"",""
-"9955VB",3,"",""
-"9955VB",4,"",""
-"9955VB",3,"",""
-"9955VN",2,"",""
-"9955VN",1,"",""
-"9955VP",4,"a",""
-"9955VP",10,"",""
-"9955VP",6,"",""
-"9955VP",9,"",""
-"9955VP",2,"",""
-"9955VP",10,"",""
-"9955VP",8,"",""
-"9955VP",3,"",""
-"9955VP",4,"A",""
-"9955VP",5,"",""
-"9955VR",2,"",""
-"9956PA",33,"",""
-"9956PA",43,"",""
-"9956PA",11,"",""
-"9956PA",39,"",""
-"9956PA",41,"",""
-"9956PA",31,"",""
-"9956PA",5,"",""
-"9956PA",37,"",""
-"9956PA",9,"",""
-"9956PA",9,"T",""
-"9956PA",9,"T",""
-"9956PA",21,"",""
-"9956PA",15,"",""
-"9956PA",17,"",""
-"9956PA",19,"",""
-"9956PA",23,"",""
-"9956PA",27,"",""
-"9956PA",1,"",""
-"9956PA",7,"",""
-"9956PA",25,"",""
-"9956PC",2,"",""
-"9956PC",36,"",""
-"9956PC",20,"A",""
-"9956PC",22,"",""
-"9956PC",26,"",""
-"9956PC",26,"A",""
-"9956PC",8,"",""
-"9956PC",8,"",""
-"9956PC",8,"",""
-"9956PC",10,"",""
-"9956PC",12,"",""
-"9956PC",30,"",""
-"9956PC",32,"",""
-"9956PC",20,"",""
-"9956PC",38,"",""
-"9956PC",26,"A",""
-"9956PC",26,"A",""
-"9956PC",28,"",""
-"9956PC",30,"",""
-"9956PC",30,"",""
-"9956PC",16,"",""
-"9956PC",18,"",""
-"9956PC",20,"A",""
-"9956PC",30,"",""
-"9956PG",7,"",""
-"9956PG",11,"",""
-"9956PG",13,"",""
-"9956PG",15,"",""
-"9956PG",17,"",""
-"9956PG",1,"",""
-"9956PG",3,"",""
-"9956PG",5,"",""
-"9956PG",9,"",""
-"9956PH",18,"A",""
-"9956PH",18,"C",""
-"9956PH",18,"a",""
-"9956PH",18,"b",""
-"9956PH",18,"c",""
-"9956PH",2,"",""
-"9956PH",4,"",""
-"9956PH",6,"",""
-"9956PH",8,"",""
-"9956PH",14,"",""
-"9956PH",16,"",""
-"9956PH",18,"",""
-"9956PH",24,"",""
-"9956PH",18,"B",""
-"9956PH",28,"",""
-"9956PH",20,"",""
-"9956PH",22,"",""
-"9956PH",22,"",""
-"9956PH",10,"",""
-"9956PH",12,"",""
-"9956PH",22,"",""
-"9956PH",26,"",""
-"9956PL",1,"",""
-"9956PL",7,"",""
-"9956PL",4,"",""
-"9956PL",2,"",""
-"9956PL",3,"",""
-"9956PL",8,"",""
-"9956PL",4,"",""
-"9956PL",5,"",""
-"9956PM",4,"",""
-"9956PM",1,"",""
-"9956PM",3,"",""
-"9956PM",2,"",""
-"9956TA",1,"",""
-"9956TA",2,"",""
-"9956TA",3,"",""
-"9956TB",7,"",""
-"9956TB",1,"",""
-"9956TB",9,"",""
-"9956TB",5,"",""
-"9956TB",13,"",""
-"9956TB",2,"",""
-"9956TB",10,"",""
-"9956TB",4,"",""
-"9956TB",6,"",""
-"9956TC",2,"",""
-"9956TC",7,"",""
-"9956TC",9,"",""
-"9956TC",9,"A",""
-"9956TC",9,"A",""
-"9956TC",10,"",""
-"9956TC",3,"",""
-"9956TC",4,"",""
-"9956TC",4,"T",""
-"9956TC",4,"T",""
-"9956TC",6,"",""
-"9956TC",6,"A",""
-"9956TC",6,"a",""
-"9956TC",13,"T",""
-"9956TC",8,"",""
-"9956TC",12,"",""
-"9956TC",13,"",""
-"9956TC",16,"",""
-"9956TC",13,"T",""
-"9956TC",14,"",""
-"9956TC",16,"",""
-"9956TD",1,"",""
-"9956TD",1,"",""
-"9956TD",1,"",""
-"9956TD",1,"",""
-"9956TD",1,"",""
-"9957NB",4,"",""
-"9957NB",6,"",""
-"9957NB",10,"",""
-"9957NB",5,"",""
-"9957NB",1,"",""
-"9957NB",3,"T",""
-"9957NB",3,"T",""
-"9957ND",7,"",""
-"9957ND",2,"",""
-"9957ND",4,"",""
-"9957ND",5,"",""
-"9957ND",1,"",""
-"9957ND",11,"",""
-"9957NE",2,"",""
-"9957NE",1,"",""
-"9957NG",1,"",""
-"9957NG",2,"",""
-"9957NG",4,"",""
-"9957NH",4,"",""
-"9957NH",13,"",""
-"9957NH",15,"",""
-"9957NH",7,"",""
-"9957NH",11,"",""
-"9957NH",2,"",""
-"9957NH",21,"",""
-"9957NH",5,"",""
-"9957NH",17,"",""
-"9957NH",19,"",""
-9954TX,Abbeweersterweg,1,,
-9954TX,Abbeweersterweg,2,,
-9954TX,Abbeweersterweg,3,,
-9954TX,Abbeweersterweg,4,,
-9956PL,Adrianiweg,1,,
-9956PL,Adrianiweg,3,,
-9956PL,Adrianiweg,4,,
-9956PL,Adrianiweg,4,,
-9956PL,Adrianiweg,5,,
-9956PL,Adrianiweg,7,,
-9956PL,Adrianiweg,8,,
-9955VN,Andelsterweg,1,,
-9957NB,Dikemaweg,1,,
-9957NB,Dikemaweg,4,,
-9957NB,Dikemaweg,6,,
-9957NB,Dikemaweg,10,,
-9957ND,Dorpsstraat,1,,
-9957ND,Dorpsstraat,2,,
-9957ND,Dorpsstraat,4,,
-9957ND,Dorpsstraat,5,,
-9957ND,Dorpsstraat,7,,
-9957ND,Dorpsstraat,11,,
-9953TD,Eenrumerweg,2,,
-9953TD,Eenrumerweg,4,,
-9953TD,Eenrumerweg,12,,
-9953TD,Eenrumerweg,22,,
-9953TD,Eenrumerweg,24,,
-9953TD,Eenrumerweg,26,,
-9953TD,Eenrumerweg,28,,
-9953TD,Eenrumerweg,30,,
-9953TD,Eenrumerweg,32,,
-9953TD,Eenrumerweg,34,,
-9953TD,Eenrumerweg,36,,
-9953TD,Eenrumerweg,38,,
-9953TD,Eenrumerweg,40,,
-9953TD,Eenrumerweg,42,,
-9953TD,Eenrumerweg,44,,
-9953TD,Eenrumerweg,46,,
-9953TD,Eenrumerweg,48,,
-9956PM,Groene Laan,1,,
-9956PM,Groene Laan,2,,
-9956PM,Groene Laan,3,,
-9956PM,Groene Laan,4,,
-9954TW,Gruijsweg,1,,
-9954TW,Gruijsweg,2,,
-9955VB,Hammelandsterweg,2,,
-9955VB,Hammelandsterweg,3,,
-9955VB,Hammelandsterweg,4,,
-9956TA,Hiddingezijlsterweg,1,,
-9956TA,Hiddingezijlsterweg,2,,
-9956TA,Hiddingezijlsterweg,3,,
-9957NE,Hornsterweg,1,,
-9957NE,Hornsterweg,2,,
-9954TT,Kerkpad,4,,
-9954TT,Kerkpad,6,,
-9955VA,Kievesterweg,2,,
-9955VA,Kievesterweg,3,,
-9955VA,Kievesterweg,4,,
-9955VA,Kievesterweg,5,,
-9953TB,Maarhuizerweg,1,,
-9953TB,Maarhuizerweg,1,a,
-9953TB,Maarhuizerweg,1,A,
-9953TB,Maarhuizerweg,2,,
-9953TB,Maarhuizerweg,3,,
-9953TB,Maarhuizerweg,3,T,
-9953TB,Maarhuizerweg,3,T,
-9953TB,Maarhuizerweg,4,,
-9953TB,Maarhuizerweg,5,,
-9954TP,Molenweg,1,,
-9957NG,Nienhuisweg,1,,
-9957NG,Nienhuisweg,2,,
-9957NG,Nienhuisweg,4,,
-9956TB,Noordpolderweg,1,,
-9956TB,Noordpolderweg,2,,
-9956TB,Noordpolderweg,4,,
-9956TB,Noordpolderweg,5,,
-9956TB,Noordpolderweg,6,,
-9956TB,Noordpolderweg,7,,
-9956TB,Noordpolderweg,9,,
-9956TB,Noordpolderweg,10,,
-9956PG,Oosterweg,1,,
-9956PG,Oosterweg,3,,
-9956PG,Oosterweg,5,,
-9956PG,Oosterweg,7,,
-9956PG,Oosterweg,9,,
-9956PG,Oosterweg,11,,
-9956PG,Oosterweg,13,,
-9956PG,Oosterweg,15,,
-9956PG,Oosterweg,17,,
-9956PH,Oosterweg,2,,
-9956PH,Oosterweg,4,,
-9956PH,Oosterweg,6,,
-9956PH,Oosterweg,8,,
-9956PH,Oosterweg,10,,
-9956PH,Oosterweg,12,,
-9956PH,Oosterweg,14,,
-9956PH,Oosterweg,16,,
-9956PH,Oosterweg,18,,
-9956PH,Oosterweg,18,a,
-9956PH,Oosterweg,18,A,
-9956PH,Oosterweg,18,b,
-9956PH,Oosterweg,18,B,
-9956PH,Oosterweg,18,c,
-9956PH,Oosterweg,18,C,
-9956PH,Oosterweg,20,,
-9956PH,Oosterweg,24,,
-9956PH,Oosterweg,26,,
-9956PH,Oosterweg,28,,
-9956TC,M D Teenstraweg,2,,
-9956TC,M D Teenstraweg,3,,
-9956TC,M D Teenstraweg,4,,
-9956TC,M D Teenstraweg,4,T,
-9956TC,M D Teenstraweg,4,T,
-9956TC,M D Teenstraweg,6,,
-9956TC,M D Teenstraweg,7,,
-9956TC,M D Teenstraweg,8,,
-9956TC,M D Teenstraweg,9,,
-9956TC,M D Teenstraweg,9,A,
-9956TC,M D Teenstraweg,9,A,
-9956TC,M D Teenstraweg,10,,
-9956TC,M D Teenstraweg,12,,
-9956TC,M D Teenstraweg,13,,
-9956TC,M D Teenstraweg,13,T,
-9956TC,M D Teenstraweg,13,T,
-9956TC,M D Teenstraweg,14,,
-9956TC,M D Teenstraweg,16,,
-9954TR,De Vennenweg,1,,
-9954TR,De Vennenweg,1,B,
-9954TR,De Vennenweg,1,B,
-9954TR,De Vennenweg,1,a,
-9954TR,De Vennenweg,1,A,
-9954TR,De Vennenweg,2,,
-9954TR,De Vennenweg,3,,
-9954TR,De Vennenweg,6,,
-9954TR,De Vennenweg,7,,
-9954TR,De Vennenweg,7,a,
-9954TR,De Vennenweg,7,A,
-9954TR,De Vennenweg,8,,
-9954TR,De Vennenweg,9,,
-9954TR,De Vennenweg,11,,
-9956TD,Tammesweg,1,,
-9956TD,Tammesweg,1,,
-9954TX,Abbeweersterweg,1,a,
-9954TX,Abbeweersterweg,1,A,
-9954TX,Abbeweersterweg,5,,
-9956PL,Adrianiweg,2,,
-9955VN,Andelsterweg,2,,
-9957NB,Dikemaweg,5,,
-9957NB,Dikemaweg,3,T,
-9957NB,Dikemaweg,3,T,
-9953TD,Eenrumerweg,8,,
-9953TD,Eenrumerweg,14,,
-9953TD,Eenrumerweg,14,e,
-9953TD,Eenrumerweg,14,e,
-9953TD,Eenrumerweg,14,E,
-9953TD,Eenrumerweg,20,,
-9953TD,Eenrumerweg,14,,
-9953TD,Eenrumerweg,14,a,
-9953TD,Eenrumerweg,14,A,
-9953TD,Eenrumerweg,14,A,
-9953TD,Eenrumerweg,14,b,
-9953TD,Eenrumerweg,14,B,
-9953TD,Eenrumerweg,14,c,
-9953TD,Eenrumerweg,14,C,
-9953TD,Eenrumerweg,14,d,
-9953TD,Eenrumerweg,14,D,
-9953TD,Eenrumerweg,14,f,
-9953TD,Eenrumerweg,14,F,
-9953TD,Eenrumerweg,14,g,
-9953TD,Eenrumerweg,14,G,
-9953TD,Eenrumerweg,14,h,
-9953TD,Eenrumerweg,14,H,
-9953TD,Eenrumerweg,14,i,
-9953TD,Eenrumerweg,14,I,
-9953TD,Eenrumerweg,14,I,
-9953TD,Eenrumerweg,14,j,
-9953TD,Eenrumerweg,14,J,
-9953TD,Eenrumerweg,14,k,
-9953TD,Eenrumerweg,14,K,
-9953TD,Eenrumerweg,14,l,
-9953TD,Eenrumerweg,14,L,
-9953TD,Eenrumerweg,14,m,
-9953TD,Eenrumerweg,14,M,
-9953TD,Eenrumerweg,2,a,
-9953TD,Eenrumerweg,2,A,
-9955VB,Hammelandsterweg,3,,
-9954TT,Kerkpad,3,T,
-9954TT,Kerkpad,3,T,
-9955VA,Kievesterweg,6,,
-9955VA,Kievesterweg,6,,
-9955VA,Kievesterweg,3,,
-9956TB,Noordpolderweg,13,,
-9956PH,Oosterweg,22,,
-9956PH,Oosterweg,22,,
-9956PA,Oude Dijk,1,,
-9956PA,Oude Dijk,5,,
-9956PA,Oude Dijk,7,,
-9956PA,Oude Dijk,9,,
-9956PA,Oude Dijk,11,,
-9956PA,Oude Dijk,15,,
-9956PA,Oude Dijk,17,,
-9956PA,Oude Dijk,19,,
-9956PA,Oude Dijk,21,,
-9956PA,Oude Dijk,23,,
-9956PA,Oude Dijk,25,,
-9956PA,Oude Dijk,27,,
-9956PA,Oude Dijk,31,,
-9956PA,Oude Dijk,33,,
-9956PA,Oude Dijk,37,,
-9956PA,Oude Dijk,39,,
-9956PA,Oude Dijk,41,,
-9956PA,Oude Dijk,43,,
-9956PA,Oude Dijk,9,T,
-9956PC,Oude Dijk,2,,
-9956PC,Oude Dijk,8,,
-9956PC,Oude Dijk,10,,
-9956PC,Oude Dijk,12,,
-9956PC,Oude Dijk,16,,
-9956PC,Oude Dijk,18,,
-9956PC,Oude Dijk,20,,
-9956PC,Oude Dijk,20,A,
-9956PC,Oude Dijk,20,A,
-9956PC,Oude Dijk,22,,
-9956PC,Oude Dijk,30,,
-9956PC,Oude Dijk,32,,
-9956PC,Oude Dijk,36,,
-9956PC,Oude Dijk,38,,
-9956PC,Oude Dijk,26,A,
-9956PC,Oude Dijk,26,A,
-9956PC,Oude Dijk,26,A,
-9956PC,Oude Dijk,26,,
-9956PC,Oude Dijk,28,,
-9956PC,Oude Dijk,30,,
-9956PC,Oude Dijk,30,,
-9956PC,Oude Dijk,8,,
-9955VR,Oude Weersterweg,2,,
-9954TV,Roordaweg,1,,
-9954TV,Roordaweg,4,,
-9954TV,Roordaweg,8,,
-9954TV,Roordaweg,10,,
-9954TV,Roordaweg,14,,
-9954TV,Roordaweg,20,,
-9957NH,Saaxumhuizerweg,2,,
-9957NH,Saaxumhuizerweg,4,,
-9957NH,Saaxumhuizerweg,5,,
-9957NH,Saaxumhuizerweg,7,,
-9957NH,Saaxumhuizerweg,11,,
-9957NH,Saaxumhuizerweg,13,,
-9957NH,Saaxumhuizerweg,15,,
-9957NH,Saaxumhuizerweg,17,,
-9957NH,Saaxumhuizerweg,19,,
-9957NH,Saaxumhuizerweg,21,,
-9953RV,Sasmaweg,1,,
-9953RV,Sasmaweg,2,,
-9953RV,Sasmaweg,3,,
-9953RV,Sasmaweg,4,,
-9953RV,Sasmaweg,5,,
-9953RV,Sasmaweg,6,,
-9953RV,Sasmaweg,9,,
-9953RV,Sasmaweg,11,,
-9953RV,Sasmaweg,13,,
-9953RV,Sasmaweg,15,,
-9953RV,Sasmaweg,6,,
-9954TS,Tjarda van Starkenborghweg,1,,
-9954TS,Tjarda van Starkenborghweg,2,,
-9954TS,Tjarda van Starkenborghweg,3,,
-9954TS,Tjarda van Starkenborghweg,4,,
-9954TS,Tjarda van Starkenborghweg,6,,
-9954TS,Tjarda van Starkenborghweg,7,,
-9954TS,Tjarda van Starkenborghweg,8,,
-9954TS,Tjarda van Starkenborghweg,9,,
-9954TS,Tjarda van Starkenborghweg,10,,
-9954TS,Tjarda van Starkenborghweg,11,,
-9954TS,Tjarda van Starkenborghweg,12,,
-9954TS,Tjarda van Starkenborghweg,13,,
-9954TS,Tjarda van Starkenborghweg,14,,
-9954TS,Tjarda van Starkenborghweg,15,,
-9954TS,Tjarda van Starkenborghweg,16,,
-9954TS,Tjarda van Starkenborghweg,17,,
-9954TS,Tjarda van Starkenborghweg,18,,
-9956TC,M D Teenstraweg,6,a,
-9956TC,M D Teenstraweg,6,A,
-9954TR,De Vennenweg,9,,
-9954TR,De Vennenweg,9,a,
-9954TR,De Vennenweg,9,A,
-9955VP,Warffumerweg,2,,
-9955VP,Warffumerweg,3,,
-9955VP,Warffumerweg,5,,
-9955VP,Warffumerweg,6,,
-9955VP,Warffumerweg,8,,
-9955VP,Warffumerweg,9,,
-9955VP,Warffumerweg,10,,
-9955VP,Warffumerweg,10,,
-9955VP,Warffumerweg,4,a,
-9955VP,Warffumerweg,4,A,
-9953PA,Winsumerweg,1,,
-9953PA,Winsumerweg,1,a,
-9953PA,Winsumerweg,1,A,
-9953PA,Winsumerweg,2,,
-9953PA,Winsumerweg,3,,
-9953PA,Winsumerweg,5,,
-9953PA,Winsumerweg,7,,
-9953PA,Winsumerweg,2,A,
-9953PA,Winsumerweg,2,A,
-9956TD,Tammesweg,1,,
-9956TD,Tammensweg,1,,
-9953TD,Eenrumerweg,2,B,
-9953TD,Eenrumerweg,6,,
-9954TT,Kerkpad,1,,
-9953TB,Maarhuizerweg,1,A,
-9954TV,Roordaweg,2,,
-9956TC,M D Teenstraweg,16,,
-9954TR,De Vennenweg,8,A,
-9953PA,Winsumerweg,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Winsumerweg,1,"","",9953PA,Baflo
+Winsumerweg,1,"","",9953PA,Baflo
+Winsumerweg,1,A,"",9953PA,Baflo
+Winsumerweg,1,A,"",9953PA,Baflo
+Winsumerweg,1,A,"",9953PA,Baflo
+Winsumerweg,2,"","",9953PA,Baflo
+Winsumerweg,2,A,"",9953PA,Baflo
+Winsumerweg,2,A,"",9953PA,Baflo
+Winsumerweg,3,"","",9953PA,Baflo
+Winsumerweg,5,"","",9953PA,Baflo
+Winsumerweg,7,"","",9953PA,Baflo
+Sasmaweg,1,"","",9953RV,Baflo
+Sasmaweg,11,"","",9953RV,Baflo
+Sasmaweg,13,"","",9953RV,Baflo
+Sasmaweg,15,"","",9953RV,Baflo
+Sasmaweg,2,"","",9953RV,Baflo
+Sasmaweg,3,"","",9953RV,Baflo
+Sasmaweg,4,"","",9953RV,Baflo
+Sasmaweg,5,"","",9953RV,Baflo
+Sasmaweg,6,"","",9953RV,Baflo
+Sasmaweg,6,"","",9953RV,Baflo
+Sasmaweg,6,"","",9953RV,Baflo
+Sasmaweg,9,"","",9953RV,Baflo
+Maarhuizerweg,1,"","",9953TB,Baflo
+Maarhuizerweg,1,A,"",9953TB,Baflo
+Maarhuizerweg,1,A,"",9953TB,Baflo
+Maarhuizerweg,1,A,"",9953TB,Baflo
+Maarhuizerweg,2,"","",9953TB,Baflo
+Maarhuizerweg,3,"","",9953TB,Baflo
+Maarhuizerweg,3,T,"",9953TB,Baflo
+Maarhuizerweg,3,T,"",9953TB,Baflo
+Maarhuizerweg,4,"","",9953TB,Baflo
+Maarhuizerweg,5,"","",9953TB,Baflo
+Eenrumerweg,12,"","",9953TD,Baflo
+Eenrumerweg,14,"","",9953TD,Baflo
+Eenrumerweg,14,"","",9953TD,Baflo
+Eenrumerweg,14,A,"",9953TD,Baflo
+Eenrumerweg,14,A,"",9953TD,Baflo
+Eenrumerweg,14,A,"",9953TD,Baflo
+Eenrumerweg,14,B,"",9953TD,Baflo
+Eenrumerweg,14,B,"",9953TD,Baflo
+Eenrumerweg,14,C,"",9953TD,Baflo
+Eenrumerweg,14,C,"",9953TD,Baflo
+Eenrumerweg,14,D,"",9953TD,Baflo
+Eenrumerweg,14,D,"",9953TD,Baflo
+Eenrumerweg,14,E,"",9953TD,Baflo
+Eenrumerweg,14,E,"",9953TD,Baflo
+Eenrumerweg,14,E,"",9953TD,Baflo
+Eenrumerweg,14,F,"",9953TD,Baflo
+Eenrumerweg,14,F,"",9953TD,Baflo
+Eenrumerweg,14,G,"",9953TD,Baflo
+Eenrumerweg,14,G,"",9953TD,Baflo
+Eenrumerweg,14,H,"",9953TD,Baflo
+Eenrumerweg,14,H,"",9953TD,Baflo
+Eenrumerweg,14,I,"",9953TD,Baflo
+Eenrumerweg,14,I,"",9953TD,Baflo
+Eenrumerweg,14,I,"",9953TD,Baflo
+Eenrumerweg,14,J,"",9953TD,Baflo
+Eenrumerweg,14,J,"",9953TD,Baflo
+Eenrumerweg,14,K,"",9953TD,Baflo
+Eenrumerweg,14,K,"",9953TD,Baflo
+Eenrumerweg,14,L,"",9953TD,Baflo
+Eenrumerweg,14,L,"",9953TD,Baflo
+Eenrumerweg,14,M,"",9953TD,Baflo
+Eenrumerweg,14,M,"",9953TD,Baflo
+Eenrumerweg,2,"","",9953TD,Baflo
+Eenrumerweg,2,A,"",9953TD,Baflo
+Eenrumerweg,2,A,"",9953TD,Baflo
+Eenrumerweg,20,"","",9953TD,Baflo
+Eenrumerweg,22,"","",9953TD,Baflo
+Eenrumerweg,24,"","",9953TD,Baflo
+Eenrumerweg,26,"","",9953TD,Baflo
+Eenrumerweg,28,"","",9953TD,Baflo
+Eenrumerweg,30,"","",9953TD,Baflo
+Eenrumerweg,32,"","",9953TD,Baflo
+Eenrumerweg,34,"","",9953TD,Baflo
+Eenrumerweg,36,"","",9953TD,Baflo
+Eenrumerweg,38,"","",9953TD,Baflo
+Eenrumerweg,4,"","",9953TD,Baflo
+Eenrumerweg,40,"","",9953TD,Baflo
+Eenrumerweg,42,"","",9953TD,Baflo
+Eenrumerweg,44,"","",9953TD,Baflo
+Eenrumerweg,46,"","",9953TD,Baflo
+Eenrumerweg,48,"","",9953TD,Baflo
+Eenrumerweg,8,"","",9953TD,Baflo
+Molenweg,1,"","",9954TP,Tinallinge
+De Vennenweg,1,"","",9954TR,Tinallinge
+De Vennenweg,1,A,"",9954TR,Tinallinge
+De Vennenweg,1,A,"",9954TR,Tinallinge
+De Vennenweg,1,B,"",9954TR,Tinallinge
+De Vennenweg,1,B,"",9954TR,Tinallinge
+De Vennenweg,11,"","",9954TR,Tinallinge
+De Vennenweg,2,"","",9954TR,Tinallinge
+De Vennenweg,3,"","",9954TR,Tinallinge
+De Vennenweg,6,"","",9954TR,Tinallinge
+De Vennenweg,7,"","",9954TR,Tinallinge
+De Vennenweg,7,A,"",9954TR,Tinallinge
+De Vennenweg,7,A,"",9954TR,Tinallinge
+De Vennenweg,8,"","",9954TR,Tinallinge
+De Vennenweg,9,"","",9954TR,Tinallinge
+De Vennenweg,9,"","",9954TR,Tinallinge
+De Vennenweg,9,"","",9954TR,Tinallinge
+De Vennenweg,9,A,"",9954TR,Tinallinge
+De Vennenweg,9,A,"",9954TR,Tinallinge
+Tjarda van Starkenborghweg,1,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,10,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,11,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,12,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,13,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,14,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,15,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,16,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,17,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,18,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,2,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,3,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,4,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,6,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,7,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,8,"","",9954TS,Tinallinge
+Tjarda van Starkenborghweg,9,"","",9954TS,Tinallinge
+Kerkpad,3,T,"",9954TT,Tinallinge
+Kerkpad,3,T,"",9954TT,Tinallinge
+Kerkpad,4,"","",9954TT,Tinallinge
+Kerkpad,6,"","",9954TT,Tinallinge
+Roordaweg,1,"","",9954TV,Tinallinge
+Roordaweg,10,"","",9954TV,Tinallinge
+Roordaweg,14,"","",9954TV,Tinallinge
+Roordaweg,20,"","",9954TV,Tinallinge
+Roordaweg,4,"","",9954TV,Tinallinge
+Roordaweg,8,"","",9954TV,Tinallinge
+Gruijsweg,1,"","",9954TW,Tinallinge
+Gruijsweg,2,"","",9954TW,Tinallinge
+Abbeweersterweg,1,"","",9954TX,Tinallinge
+Abbeweersterweg,1,A,"",9954TX,Tinallinge
+Abbeweersterweg,1,A,"",9954TX,Tinallinge
+Abbeweersterweg,2,"","",9954TX,Tinallinge
+Abbeweersterweg,3,"","",9954TX,Tinallinge
+Abbeweersterweg,4,"","",9954TX,Tinallinge
+Abbeweersterweg,5,"","",9954TX,Tinallinge
+Kievesterweg,2,"","",9955VA,Rasquert
+Kievesterweg,3,"","",9955VA,Rasquert
+Kievesterweg,3,"","",9955VA,Rasquert
+Kievesterweg,3,"","",9955VA,Rasquert
+Kievesterweg,4,"","",9955VA,Rasquert
+Kievesterweg,5,"","",9955VA,Rasquert
+Kievesterweg,6,"","",9955VA,Rasquert
+Kievesterweg,6,"","",9955VA,Rasquert
+Hammelandsterweg,2,"","",9955VB,Rasquert
+Hammelandsterweg,3,"","",9955VB,Rasquert
+Hammelandsterweg,3,"","",9955VB,Rasquert
+Hammelandsterweg,3,"","",9955VB,Rasquert
+Hammelandsterweg,4,"","",9955VB,Rasquert
+Andelsterweg,1,"","",9955VN,Rasquert
+Andelsterweg,2,"","",9955VN,Rasquert
+Warffumerweg,10,"","",9955VP,Rasquert
+Warffumerweg,10,"","",9955VP,Rasquert
+Warffumerweg,2,"","",9955VP,Rasquert
+Warffumerweg,3,"","",9955VP,Rasquert
+Warffumerweg,4,A,"",9955VP,Rasquert
+Warffumerweg,4,A,"",9955VP,Rasquert
+Warffumerweg,5,"","",9955VP,Rasquert
+Warffumerweg,6,"","",9955VP,Rasquert
+Warffumerweg,8,"","",9955VP,Rasquert
+Warffumerweg,9,"","",9955VP,Rasquert
+Oude Weersterweg,2,"","",9955VR,Rasquert
+Oude Dijk,1,"","",9956PA,Den Andel
+Oude Dijk,11,"","",9956PA,Den Andel
+Oude Dijk,15,"","",9956PA,Den Andel
+Oude Dijk,17,"","",9956PA,Den Andel
+Oude Dijk,19,"","",9956PA,Den Andel
+Oude Dijk,21,"","",9956PA,Den Andel
+Oude Dijk,23,"","",9956PA,Den Andel
+Oude Dijk,25,"","",9956PA,Den Andel
+Oude Dijk,27,"","",9956PA,Den Andel
+Oude Dijk,31,"","",9956PA,Den Andel
+Oude Dijk,33,"","",9956PA,Den Andel
+Oude Dijk,37,"","",9956PA,Den Andel
+Oude Dijk,39,"","",9956PA,Den Andel
+Oude Dijk,41,"","",9956PA,Den Andel
+Oude Dijk,43,"","",9956PA,Den Andel
+Oude Dijk,5,"","",9956PA,Den Andel
+Oude Dijk,7,"","",9956PA,Den Andel
+Oude Dijk,9,"","",9956PA,Den Andel
+Oude Dijk,9,T,"",9956PA,Den Andel
+Oude Dijk,9,T,"",9956PA,Den Andel
+Oude Dijk,10,"","",9956PC,Den Andel
+Oude Dijk,12,"","",9956PC,Den Andel
+Oude Dijk,16,"","",9956PC,Den Andel
+Oude Dijk,18,"","",9956PC,Den Andel
+Oude Dijk,2,"","",9956PC,Den Andel
+Oude Dijk,20,"","",9956PC,Den Andel
+Oude Dijk,20,A,"",9956PC,Den Andel
+Oude Dijk,20,A,"",9956PC,Den Andel
+Oude Dijk,22,"","",9956PC,Den Andel
+Oude Dijk,26,"","",9956PC,Den Andel
+Oude Dijk,26,A,"",9956PC,Den Andel
+Oude Dijk,26,A,"",9956PC,Den Andel
+Oude Dijk,26,A,"",9956PC,Den Andel
+Oude Dijk,28,"","",9956PC,Den Andel
+Oude Dijk,30,"","",9956PC,Den Andel
+Oude Dijk,30,"","",9956PC,Den Andel
+Oude Dijk,30,"","",9956PC,Den Andel
+Oude Dijk,30,"","",9956PC,Den Andel
+Oude Dijk,32,"","",9956PC,Den Andel
+Oude Dijk,36,"","",9956PC,Den Andel
+Oude Dijk,38,"","",9956PC,Den Andel
+Oude Dijk,8,"","",9956PC,Den Andel
+Oude Dijk,8,"","",9956PC,Den Andel
+Oude Dijk,8,"","",9956PC,Den Andel
+Oosterweg,1,"","",9956PG,Den Andel
+Oosterweg,11,"","",9956PG,Den Andel
+Oosterweg,13,"","",9956PG,Den Andel
+Oosterweg,15,"","",9956PG,Den Andel
+Oosterweg,17,"","",9956PG,Den Andel
+Oosterweg,3,"","",9956PG,Den Andel
+Oosterweg,5,"","",9956PG,Den Andel
+Oosterweg,7,"","",9956PG,Den Andel
+Oosterweg,9,"","",9956PG,Den Andel
+Oosterweg,10,"","",9956PH,Den Andel
+Oosterweg,12,"","",9956PH,Den Andel
+Oosterweg,14,"","",9956PH,Den Andel
+Oosterweg,16,"","",9956PH,Den Andel
+Oosterweg,18,"","",9956PH,Den Andel
+Oosterweg,18,A,"",9956PH,Den Andel
+Oosterweg,18,A,"",9956PH,Den Andel
+Oosterweg,18,B,"",9956PH,Den Andel
+Oosterweg,18,B,"",9956PH,Den Andel
+Oosterweg,18,C,"",9956PH,Den Andel
+Oosterweg,18,C,"",9956PH,Den Andel
+Oosterweg,2,"","",9956PH,Den Andel
+Oosterweg,20,"","",9956PH,Den Andel
+Oosterweg,22,"","",9956PH,Den Andel
+Oosterweg,22,"","",9956PH,Den Andel
+Oosterweg,22,"","",9956PH,Den Andel
+Oosterweg,24,"","",9956PH,Den Andel
+Oosterweg,26,"","",9956PH,Den Andel
+Oosterweg,28,"","",9956PH,Den Andel
+Oosterweg,4,"","",9956PH,Den Andel
+Oosterweg,6,"","",9956PH,Den Andel
+Oosterweg,8,"","",9956PH,Den Andel
+Adrianiweg,1,"","",9956PL,Den Andel
+Adrianiweg,2,"","",9956PL,Den Andel
+Adrianiweg,3,"","",9956PL,Den Andel
+Adrianiweg,4,"","",9956PL,Den Andel
+Adrianiweg,4,"","",9956PL,Den Andel
+Adrianiweg,5,"","",9956PL,Den Andel
+Adrianiweg,7,"","",9956PL,Den Andel
+Adrianiweg,8,"","",9956PL,Den Andel
+Groene Laan,1,"","",9956PM,Den Andel
+Groene Laan,2,"","",9956PM,Den Andel
+Groene Laan,3,"","",9956PM,Den Andel
+Groene Laan,4,"","",9956PM,Den Andel
+Hiddingezijlsterweg,1,"","",9956TA,Den Andel
+Hiddingezijlsterweg,2,"","",9956TA,Den Andel
+Hiddingezijlsterweg,3,"","",9956TA,Den Andel
+Noordpolderweg,1,"","",9956TB,Den Andel
+Noordpolderweg,10,"","",9956TB,Den Andel
+Noordpolderweg,13,"","",9956TB,Den Andel
+Noordpolderweg,2,"","",9956TB,Den Andel
+Noordpolderweg,4,"","",9956TB,Den Andel
+Noordpolderweg,5,"","",9956TB,Den Andel
+Noordpolderweg,6,"","",9956TB,Den Andel
+Noordpolderweg,7,"","",9956TB,Den Andel
+Noordpolderweg,9,"","",9956TB,Den Andel
+M D Teenstraweg,10,"","",9956TC,Den Andel
+M D Teenstraweg,12,"","",9956TC,Den Andel
+M D Teenstraweg,13,"","",9956TC,Den Andel
+M D Teenstraweg,13,T,"",9956TC,Den Andel
+M D Teenstraweg,13,T,"",9956TC,Den Andel
+M D Teenstraweg,14,"","",9956TC,Den Andel
+M D Teenstraweg,16,"","",9956TC,Den Andel
+M D Teenstraweg,16,"","",9956TC,Den Andel
+M D Teenstraweg,2,"","",9956TC,Den Andel
+M D Teenstraweg,3,"","",9956TC,Den Andel
+M D Teenstraweg,4,"","",9956TC,Den Andel
+M D Teenstraweg,4,T,"",9956TC,Den Andel
+M D Teenstraweg,4,T,"",9956TC,Den Andel
+M D Teenstraweg,6,"","",9956TC,Den Andel
+M D Teenstraweg,6,A,"",9956TC,Den Andel
+M D Teenstraweg,6,A,"",9956TC,Den Andel
+M D Teenstraweg,7,"","",9956TC,Den Andel
+M D Teenstraweg,8,"","",9956TC,Den Andel
+M D Teenstraweg,9,"","",9956TC,Den Andel
+M D Teenstraweg,9,A,"",9956TC,Den Andel
+M D Teenstraweg,9,A,"",9956TC,Den Andel
+Tammesweg,1,"","",9956TD,Den Andel
+Tammesweg,1,"","",9956TD,Den Andel
+Tammesweg,1,"","",9956TD,Den Andel
+Tammesweg,1,"","",9956TD,Den Andel
+Tammesweg,1,"","",9956TD,Den Andel
+Dikemaweg,1,"","",9957NB,Saaxumhuizen
+Dikemaweg,10,"","",9957NB,Saaxumhuizen
+Dikemaweg,3,T,"",9957NB,Saaxumhuizen
+Dikemaweg,3,T,"",9957NB,Saaxumhuizen
+Dikemaweg,4,"","",9957NB,Saaxumhuizen
+Dikemaweg,5,"","",9957NB,Saaxumhuizen
+Dikemaweg,6,"","",9957NB,Saaxumhuizen
+Dorpsstraat,1,"","",9957ND,Saaxumhuizen
+Dorpsstraat,11,"","",9957ND,Saaxumhuizen
+Dorpsstraat,2,"","",9957ND,Saaxumhuizen
+Dorpsstraat,4,"","",9957ND,Saaxumhuizen
+Dorpsstraat,5,"","",9957ND,Saaxumhuizen
+Dorpsstraat,7,"","",9957ND,Saaxumhuizen
+Hornsterweg,1,"","",9957NE,Saaxumhuizen
+Hornsterweg,2,"","",9957NE,Saaxumhuizen
+Nienhuisweg,1,"","",9957NG,Saaxumhuizen
+Nienhuisweg,2,"","",9957NG,Saaxumhuizen
+Nienhuisweg,4,"","",9957NG,Saaxumhuizen
+Saaxumhuizerweg,11,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,13,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,15,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,17,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,19,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,2,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,21,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,4,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,5,"","",9957NH,Saaxumhuizen
+Saaxumhuizerweg,7,"","",9957NH,Saaxumhuizen

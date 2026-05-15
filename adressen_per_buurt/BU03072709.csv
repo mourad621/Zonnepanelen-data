@@ -1,38 +1,38 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3828AP,De Schans,25,,
-3828AP,De Schans,26,,
-3828AP,De Schans,34,,
-3828AP,De Schans,42,,
-3828AP,De Schans,42,A,
-3828AP,De Schans,44,A,
-3828AP,De Schans,38,,
-3828AP,De Schans,36,,
-3828AP,De Schans,44,,
-3828AP,De Schans,40,,
-3828AP,De Schans,19,,
-3813TW,De Schans,22,,
-3828AP,De Schans,46,,
-3813TW,De Schans,18,,
-3828AP,De Schans,48,,
-3828AP,De Schans,21,,
-3813TW,De Schans,20,A,
-3813TW,De Schans,20,B,
-3813TW,De Schans,20,,
-3813TW,De Schans,20,B,
-3813TW,De Schans,4,,
-3813TW,De Schans,6,,
-3813TW,De Schans,8,,
-3813TW,De Schans,10,,
-3813TW,De Schans,12,,
-3813TW,De Schans,14,,
-3813TW,De Schans,20,C,
-3813TW,De Schans,20,B,
-3813TZ,Maatweg,3,,
-3813TW,De Schans,20,A,1
-3813TZ,Maatweg,3,,
-3813TE,Bernard de Roijstraat,1,,
-3813TE,Bernard de Roijstraat,3,,
-3813TE,Bernard de Roijstraat,5,,
-3813TE,Bernard de Roijstraat,7,,
-3813TE,Bernard de Roijstraat,11,,
-3813TZ,Maatweg,11,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bernard de Roijstraat,1,"","",3813TE,Amersfoort
+Bernard de Roijstraat,11,"","",3813TE,Amersfoort
+Bernard de Roijstraat,3,"","",3813TE,Amersfoort
+Bernard de Roijstraat,5,"","",3813TE,Amersfoort
+Bernard de Roijstraat,7,"","",3813TE,Amersfoort
+De Schans,10,"","",3813TW,Amersfoort
+De Schans,12,"","",3813TW,Amersfoort
+De Schans,14,"","",3813TW,Amersfoort
+De Schans,18,"","",3813TW,Amersfoort
+De Schans,20,"","",3813TW,Amersfoort
+De Schans,20,A,"",3813TW,Amersfoort
+De Schans,20,A,1,3813TW,Amersfoort
+De Schans,20,B,"",3813TW,Amersfoort
+De Schans,20,B,"",3813TW,Amersfoort
+De Schans,20,B,"",3813TW,Amersfoort
+De Schans,20,C,"",3813TW,Amersfoort
+De Schans,22,"","",3813TW,Amersfoort
+De Schans,4,"","",3813TW,Amersfoort
+De Schans,6,"","",3813TW,Amersfoort
+De Schans,8,"","",3813TW,Amersfoort
+Maatweg,11,"","",3813TZ,Hoogland
+Maatweg,3,"","",3813TZ,Hoogland
+Maatweg,3,"","",3813TZ,Hoogland
+De Schans,19,"","",3828AP,Hoogland
+De Schans,21,"","",3828AP,Hoogland
+De Schans,25,"","",3828AP,Hoogland
+De Schans,26,"","",3828AP,Hoogland
+De Schans,34,"","",3828AP,Hoogland
+De Schans,36,"","",3828AP,Hoogland
+De Schans,38,"","",3828AP,Hoogland
+De Schans,40,"","",3828AP,Hoogland
+De Schans,42,"","",3828AP,Hoogland
+De Schans,42,A,"",3828AP,Hoogland
+De Schans,44,"","",3828AP,Hoogland
+De Schans,44,A,"",3828AP,Hoogland
+De Schans,46,"","",3828AP,Hoogland
+De Schans,48,"","",3828AP,Hoogland

@@ -1,88 +1,88 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5721TA,Hazeldonk,1,a,
-5721TA,Hazeldonk,2,,
-5721TA,Hazeldonk,4,,
-5721TA,Hazeldonk,8,,
-5721TA,Hazeldonk,10,,
-5721TA,Hazeldonk,18,,
-5721TA,Hazeldonk,24,,
-5721TA,Hazeldonk,3,a,
-5721TA,Hazeldonk,3,,
-5721TA,Hazeldonk,5,A,
-5721TA,Hazeldonk,5,a,
-5721TA,Hazeldonk,5,b,
-5721TA,Hazeldonk,5,,
-5721TA,Hazeldonk,5,,
-5721TA,Hazeldonk,6,,
-5721TA,Hazeldonk,7,,
-5721TA,Hazeldonk,9,,
-5721TA,Hazeldonk,11,,
-5721TA,Hazeldonk,12,,
-5721TA,Hazeldonk,13,,
-5721TA,Hazeldonk,14,,
-5721TA,Hazeldonk,6,,
-5721TA,Hazeldonk,12,a,
-5721TA,Hazeldonk,12,a,
-5721KM,Heesakkerweg,5,,
-5721KM,Heesakkerweg,9,A,
-5721KM,Heesakkerweg,9,a,
-5721KM,Heesakkerweg,9,a,
-5721KM,Heesakkerweg,9,,
-5721KM,Heesakkerweg,1,,
-5721KM,Heesakkerweg,7,,
-5721KM,Heesakkerweg,11,,
-5721KM,Heesakkerweg,19,,
-5721KM,Heesakkerweg,13,,
-5721KM,Heesakkerweg,15,,
-5721KM,Heesakkerweg,17,,
-5721KM,Heesakkerweg,5,a,
-5721KN,Heesakkerweg,25,,
-5721KN,Heesakkerweg,27,,
-5721KN,Heesakkerweg,33,,
-5721KN,Heesakkerweg,35,,
-5721KN,Heesakkerweg,43,,
-5721KN,Heesakkerweg,45,,
-5721KN,Heesakkerweg,47,,
-5721KN,Heesakkerweg,49,,
-5721KN,Heesakkerweg,51,,
-5721KN,Heesakkerweg,53,,
-5721KN,Heesakkerweg,59,,
-5721KN,Heesakkerweg,63,,
-5721KN,Heesakkerweg,67,,
-5721KN,Heesakkerweg,39,,
-5721KN,Heesakkerweg,55,,
-5721KN,Heesakkerweg,57,,
-5721KN,Heesakkerweg,57,,
-5721KN,Heesakkerweg,41,,
-5721KN,Heesakkerweg,41,a,
-5721KN,Heesakkerweg,69,,
-5721KN,Heesakkerweg,71,,
-5721KN,Heesakkerweg,55,,
-5721KN,Heesakkerweg,59,a,
-5721KN,Heesakkerweg,59,b,
-5721KN,Heesakkerweg,59,c,
-5721KN,Heesakkerweg,59,d,
-5721KN,Heesakkerweg,57,,
-5721TB,Van Kuppenveldweg,7,,
-5721TB,Van Kuppenveldweg,12,,
-5721TB,Van Kuppenveldweg,3,,
-5721TB,Van Kuppenveldweg,5,,
-5721TB,Van Kuppenveldweg,6,,
-5721TB,Van Kuppenveldweg,8,,
-5721TB,Van Kuppenveldweg,9,,
-5721TB,Van Kuppenveldweg,13,,
-5721TB,Van Kuppenveldweg,14,,
-5721TB,Van Kuppenveldweg,4,,
-5721TB,Van Kuppenveldweg,10,,
-5721TB,Van Kuppenveldweg,13,a,
-5721TC,Waardjesweg,11,,
-5721TC,Waardjesweg,50,,
-5721TC,Waardjesweg,4,,
-5721TC,Waardjesweg,9,,
-5721TC,Waardjesweg,11,,
-5721TC,Waardjesweg,50,,
-5721TC,Waardjesweg,3,,
-5721TC,Waardjesweg,4,,
-5721TC,Waardjesweg,9,,
-5721TC,Waardjesweg,15,,
-5721TC,Waardjesweg,51,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heesakkerweg,1,"","",5721KM,Asten
+Heesakkerweg,11,"","",5721KM,Asten
+Heesakkerweg,13,"","",5721KM,Asten
+Heesakkerweg,15,"","",5721KM,Asten
+Heesakkerweg,17,"","",5721KM,Asten
+Heesakkerweg,19,"","",5721KM,Asten
+Heesakkerweg,5,"","",5721KM,Asten
+Heesakkerweg,5,A,"",5721KM,Asten
+Heesakkerweg,7,"","",5721KM,Asten
+Heesakkerweg,9,"","",5721KM,Asten
+Heesakkerweg,9,A,"",5721KM,Asten
+Heesakkerweg,9,A,"",5721KM,Asten
+Heesakkerweg,9,A,"",5721KM,Asten
+Heesakkerweg,25,"","",5721KN,Asten
+Heesakkerweg,27,"","",5721KN,Asten
+Heesakkerweg,33,"","",5721KN,Asten
+Heesakkerweg,35,"","",5721KN,Asten
+Heesakkerweg,39,"","",5721KN,Asten
+Heesakkerweg,41,"","",5721KN,Asten
+Heesakkerweg,41,A,"",5721KN,Asten
+Heesakkerweg,43,"","",5721KN,Asten
+Heesakkerweg,45,"","",5721KN,Asten
+Heesakkerweg,47,"","",5721KN,Asten
+Heesakkerweg,49,"","",5721KN,Asten
+Heesakkerweg,51,"","",5721KN,Asten
+Heesakkerweg,53,"","",5721KN,Asten
+Heesakkerweg,55,"","",5721KN,Asten
+Heesakkerweg,55,"","",5721KN,Asten
+Heesakkerweg,57,"","",5721KN,Asten
+Heesakkerweg,57,"","",5721KN,Asten
+Heesakkerweg,57,"","",5721KN,Asten
+Heesakkerweg,59,"","",5721KN,Asten
+Heesakkerweg,59,A,"",5721KN,Asten
+Heesakkerweg,59,B,"",5721KN,Asten
+Heesakkerweg,59,C,"",5721KN,Asten
+Heesakkerweg,59,D,"",5721KN,Asten
+Heesakkerweg,63,"","",5721KN,Asten
+Heesakkerweg,67,"","",5721KN,Asten
+Heesakkerweg,69,"","",5721KN,Asten
+Heesakkerweg,71,"","",5721KN,Asten
+Hazeldonk,1,A,"",5721TA,Asten
+Hazeldonk,10,"","",5721TA,Asten
+Hazeldonk,11,"","",5721TA,Asten
+Hazeldonk,12,"","",5721TA,Asten
+Hazeldonk,12,A,"",5721TA,Asten
+Hazeldonk,12,A,"",5721TA,Asten
+Hazeldonk,13,"","",5721TA,Asten
+Hazeldonk,14,"","",5721TA,Asten
+Hazeldonk,18,"","",5721TA,Asten
+Hazeldonk,2,"","",5721TA,Asten
+Hazeldonk,24,"","",5721TA,Asten
+Hazeldonk,3,"","",5721TA,Asten
+Hazeldonk,3,A,"",5721TA,Asten
+Hazeldonk,4,"","",5721TA,Asten
+Hazeldonk,5,"","",5721TA,Asten
+Hazeldonk,5,"","",5721TA,Asten
+Hazeldonk,5,A,"",5721TA,Asten
+Hazeldonk,5,A,"",5721TA,Asten
+Hazeldonk,5,B,"",5721TA,Asten
+Hazeldonk,6,"","",5721TA,Asten
+Hazeldonk,6,"","",5721TA,Asten
+Hazeldonk,7,"","",5721TA,Asten
+Hazeldonk,8,"","",5721TA,Asten
+Hazeldonk,9,"","",5721TA,Asten
+Van Kuppenveldweg,10,"","",5721TB,Asten
+Van Kuppenveldweg,12,"","",5721TB,Asten
+Van Kuppenveldweg,13,"","",5721TB,Asten
+Van Kuppenveldweg,13,A,"",5721TB,Asten
+Van Kuppenveldweg,14,"","",5721TB,Asten
+Van Kuppenveldweg,3,"","",5721TB,Asten
+Van Kuppenveldweg,4,"","",5721TB,Asten
+Van Kuppenveldweg,5,"","",5721TB,Asten
+Van Kuppenveldweg,6,"","",5721TB,Asten
+Van Kuppenveldweg,7,"","",5721TB,Asten
+Van Kuppenveldweg,8,"","",5721TB,Asten
+Van Kuppenveldweg,9,"","",5721TB,Asten
+Waardjesweg,11,"","",5721TC,Heusden
+Waardjesweg,11,"","",5721TC,Heusden
+Waardjesweg,15,"","",5721TC,Asten
+Waardjesweg,3,"","",5721TC,Asten
+Waardjesweg,4,"","",5721TC,Heusden
+Waardjesweg,4,"","",5721TC,Heusden
+Waardjesweg,50,"","",5721TC,Heusden
+Waardjesweg,50,"","",5721TC,Heusden
+Waardjesweg,51,"","",5721TC,Asten
+Waardjesweg,9,"","",5721TC,Heusden
+Waardjesweg,9,"","",5721TC,Heusden

@@ -1,18 +1,18 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1043BG,Seineweg,10,,
-1043AA,Sportpark Spieringhorn,1,,
-1043AA,Sportpark Spieringhorn,5,,
-1043AA,Sportpark Spieringhorn,7,,
-1043AA,Sportpark Spieringhorn,9,,
-1043AA,Sportpark Spieringhorn,11,,
-1043BH,Seineweg,16,,
-1043BE,Seineweg,1,,
-1043BG,Seineweg,10,A,
-1043BE,Seineweg,1,A,
-1043AA,Sportpark Spieringhorn,10,,
-1043BG,Seineweg,2,,
-1043BG,Seineweg,4,,
-1043BE,Seineweg,1,B,
-1043BE,Seineweg,1,C,
-1043AA,Sportpark Spieringhorn,3,,
-1043AA,Sportpark Spieringhorn,3,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Sportpark Spieringhorn,1,"","",1043AA,Amsterdam
+Sportpark Spieringhorn,10,"","",1043AA,Amsterdam
+Sportpark Spieringhorn,11,"","",1043AA,Amsterdam
+Sportpark Spieringhorn,3,"","",1043AA,Amsterdam
+Sportpark Spieringhorn,3,A,"",1043AA,Amsterdam
+Sportpark Spieringhorn,5,"","",1043AA,Amsterdam
+Sportpark Spieringhorn,7,"","",1043AA,Amsterdam
+Sportpark Spieringhorn,9,"","",1043AA,Amsterdam
+Seineweg,1,"","",1043BE,Amsterdam
+Seineweg,1,A,"",1043BE,Amsterdam
+Seineweg,1,B,"",1043BE,Amsterdam
+Seineweg,1,C,"",1043BE,Amsterdam
+Seineweg,10,"","",1043BG,Amsterdam
+Seineweg,10,A,"",1043BG,Amsterdam
+Seineweg,2,"","",1043BG,Amsterdam
+Seineweg,4,"","",1043BG,Amsterdam
+Seineweg,16,"","",1043BH,Amsterdam

@@ -1,11 +1,11 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5307TG,Loevestein,1,,
-5307TG,Loevestein,1,a,
-5307TG,Loevestein,1,c,
-5307TG,Loevestein,3,,
-5307TE,Munnikenlandse Maaskade,2,,
-5307TE,Munnikenlandse Maaskade,2,a,
-5307TE,Munnikenlandse Maaskade,4,,
-5307TH,Munnikenlandse Waalkade,1,,
-5307TH,Munnikenlandse Waalkade,1,a,
-5307TH,Munnikenlandse Waalkade,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Munnikenlandse Maaskade,2,"","",5307TE,Poederoijen
+Munnikenlandse Maaskade,2,A,"",5307TE,Poederoijen
+Munnikenlandse Maaskade,4,"","",5307TE,Poederoijen
+Loevestein,1,"","",5307TG,Poederoijen
+Loevestein,1,A,"",5307TG,Poederoijen
+Loevestein,1,C,"",5307TG,Poederoijen
+Loevestein,3,"","",5307TG,Poederoijen
+Munnikenlandse Waalkade,1,"","",5307TH,Poederoijen
+Munnikenlandse Waalkade,1,A,"",5307TH,Poederoijen
+Munnikenlandse Waalkade,2,"","",5307TH,Poederoijen

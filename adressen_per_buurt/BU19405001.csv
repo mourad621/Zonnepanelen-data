@@ -1,369 +1,178 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8467SB",12,"a",""
-"8467SB",8,"",""
-"8467SB",5,"",""
-"8467SB",4,"",""
-"8467SB",1,"",""
-"8467SB",6,"",""
-"8467SB",10,"a",""
-"8467SB",14,"",""
-"8467SB",7,"",""
-"8467SB",3,"a",""
-"8467SB",3,"",""
-"8467SB",3,"b",""
-"8467SC",37,"",""
-"8467SC",39,"",""
-"8467SC",25,"",""
-"8467SC",16,"",""
-"8467SC",35,"",""
-"8467SC",31,"",""
-"8467SC",14,"",""
-"8467SC",27,"",""
-"8467SC",29,"",""
-"8467SC",18,"",""
-"8467SC",10,"",""
-"8467SC",23,"",""
-"8467SC",12,"",""
-"8467SE",29,"",""
-"8467SE",11,"",""
-"8467SE",2,"",""
-"8467SE",26,"",""
-"8467SE",24,"",""
-"8467SE",10,"",""
-"8467SE",31,"",""
-"8467SE",27,"",""
-"8467SE",28,"",""
-"8467SE",30,"",""
-"8467SE",32,"",""
-"8467SE",18,"",""
-"8467SE",16,"",""
-"8467SE",7,"",""
-"8467SE",8,"",""
-"8467SE",20,"",""
-"8467SE",3,"",""
-"8467SE",4,"",""
-"8467SE",23,"",""
-"8467SE",1,"",""
-"8467SE",9,"",""
-"8467SE",6,"",""
-"8467SE",25,"",""
-"8467SE",23,"",""
-"8467SE",22,"",""
-"8467SE",1,"a",""
-"8467SE",12,"",""
-"8467SE",14,"",""
-"8467SE",13,"",""
-"8467SG",53,"",""
-"8467SG",45,"",""
-"8467SG",41,"",""
-"8467SG",39,"",""
-"8467SG",2,"",""
-"8467SG",1,"",""
-"8467SG",38,"",""
-"8467SG",47,"a",""
-"8467SG",63,"",""
-"8467SG",57,"",""
-"8467SG",57,"",""
-"8467SG",57,"",""
-"8467SG",49,"",""
-"8467SG",47,"",""
-"8467SG",51,"",""
-"8467SG",34,"",""
-"8467SG",33,"",""
-"8467SG",65,"",""
-"8467SG",43,"",""
-"8467SG",57,"a",""
-"8467SG",53,"",""
-"8467SG",36,"",""
-"8467SG",57,"",""
-"8467SG",55,"",""
-"8467SG",61,"",""
-"8467SG",55,"a",""
-"8467SG",57,"a",""
-"8467SG",55,"b",""
-"8467SG",59,"",""
-"8467SG",61,"a",""
-"8467SH",1,"",""
-"8467SH",6,"",""
-"8467SH",3,"",""
-"8467SJ",7,"",""
-"8467SJ",10,"",""
-"8467SJ",8,"",""
-"8467SJ",4,"",""
-"8467SJ",3,"",""
-"8467SJ",5,"",""
-"8467SJ",6,"",""
-"8467SJ",1,"",""
-"8467SJ",2,"",""
-"8467SK",4,"a",""
-"8467SK",6,"",""
-"8467SK",8,"",""
-"8467SK",10,"a",""
-"8467SK",9,"",""
-"8467SK",6,"",""
-"8467SK",4,"",""
-"8467SK",3,"",""
-"8467SK",7,"",""
-"8467SK",3,"a",""
-"8467SK",10,"",""
-"8467SK",2,"b",""
-"8467SK",1,"",""
-"8467SK",2,"",""
-"8467SK",11,"",""
-"8467SK",2,"a",""
-"8467SK",2,"b",""
-"8467SL",2,"",""
-"8467SL",1,"",""
-"8467SL",4,"",""
-"8467SL",3,"",""
-"8467SL",3,"a",""
-"8467SM",2,"",""
-"8467SM",1,"",""
-"8467SN",29,"",""
-"8467SN",27,"",""
-"8467SN",33,"",""
-"8467SN",29,"",""
-"8467SN",29,"",""
-"8467SN",46,"",""
-"8467SN",46,"a",""
-"8467SN",31,"",""
-"8467SN",42,"",""
-"8467SN",44,"",""
-"8467SN",29,"",""
-"8467SN",29,"",""
-"8467SN",48,"",""
-"8467SP",3,"",""
-"8467SP",1,"",""
-"8467SR",6,"b",""
-"8467SR",4,"",""
-"8467SR",6,"",""
-"8467SR",6,"a",""
-"8467SR",2,"",""
-"8467SR",1,"",""
-"8467ST",3,"b",""
-"8467ST",2,"",""
-"8467ST",5,"",""
-"8467ST",3,"a",""
-"8467ST",1,"",""
-"8467ST",3,"",""
-"8467SV",3,"",""
-"8467SV",4,"",""
-"8467SV",2,"",""
-"8467SV",1,"",""
-"8467SV",1,"a",""
-"8467SV",4,"a",""
-"8467SV",5,"",""
-"8467SV",6,"",""
-"8467SW",2,"",""
-"8467SW",1,"",""
-"8467SW",1,"a",""
-"8467SX",4,"",""
-"8467SX",6,"",""
-"8467SX",2,"",""
-"8467SX",8,"",""
-"8467SZ",17,"",""
-"8467SZ",5,"",""
-"8467SZ",15,"",""
-"8467SZ",7,"",""
-"8467SZ",8,"",""
-"8467SZ",3,"",""
-"8467SZ",11,"",""
-"8467SZ",13,"",""
-"8467SZ",1,"",""
-"8467SZ",9,"",""
-"8467SZ",6,"",""
-"8467SZ",2,"",""
-"8467TA",4,"",""
-"8467TA",6,"",""
-"8467TA",2,"",""
-8467SR,De Traen,1,,
-8467SR,De Traen,2,,
-8467SR,De Traen,6,,
-8467SR,De Traen,6,a,
-8467SK,Grevenweg,1,,
-8467SK,Grevenweg,2,,
-8467SK,Grevenweg,2,a,
-8467SK,Grevenweg,6,,
-8467SK,Grevenweg,7,,
-8467SK,Grevenweg,8,,
-8467SK,Grevenweg,10,,
-8467SK,Grevenweg,10,a,
-8467SK,Grevenweg,11,,
-8467SM,Hornstermeerweg,1,,
-8467TA,It Nije Paad,2,,
-8467TA,It Nije Paad,4,,
-8467TA,It Nije Paad,6,,
-8467SG,It Rak,1,,
-8467SG,It Rak,2,,
-8467SC,Meenscharweg,12,,
-8467SC,Meenscharweg,14,,
-8467SC,Meenscharweg,16,,
-8467SC,Meenscharweg,23,,
-8467SC,Meenscharweg,25,,
-8467SC,Meenscharweg,27,,
-8467SC,Meenscharweg,31,,
-8467SC,Meenscharweg,35,,
-8467SC,Meenscharweg,37,,
-8467SV,Middenweg,1,,
-8467SV,Middenweg,1,a,
-8467SV,Middenweg,2,,
-8467SV,Middenweg,4,,
-8467SV,Middenweg,4,a,
-8467SP,Muontserak,1,,
-8467SP,Muontserak,3,,
-8467ST,Nije Kampen,1,,
-8467ST,Nije Kampen,2,,
-8467ST,Nije Kampen,5,,
-8467SH,Ontginning,1,,
-8467SH,Ontginning,3,,
-8467SH,Ontginning,6,,
-8467SZ,Snilen,1,,
-8467SZ,Snilen,2,,
-8467SZ,Snilen,3,,
-8467SZ,Snilen,5,,
-8467SZ,Snilen,6,,
-8467SZ,Snilen,7,,
-8467SZ,Snilen,8,,
-8467SZ,Snilen,9,,
-8467SZ,Snilen,11,,
-8467SZ,Snilen,13,,
-8467SZ,Snilen,15,,
-8467SZ,Snilen,17,,
-8467SW,Tweehuis,1,,
-8467SW,Tweehuis,2,,
-8467SN,Vegelinsweg,29,,
-8467SN,Vegelinsweg,31,,
-8467SN,Vegelinsweg,42,,
-8467SN,Vegelinsweg,46,,
-8467SN,Vegelinsweg,46,a,
-8467SB,Welleweg,1,,
-8467SB,Welleweg,3,a,
-8467SB,Welleweg,4,,
-8467SB,Welleweg,5,,
-8467SB,Welleweg,6,,
-8467SB,Welleweg,7,,
-8467SB,Welleweg,10,a,
-8467SB,Welleweg,12,a,
-8467SB,Welleweg,14,,
-8467SL,Deelswal,1,,
-8467SL,Deelswal,2,,
-8467SL,Deelswal,3,,
-8467SJ,Geeuwweg,1,,
-8467SJ,Geeuwweg,2,,
-8467SJ,Geeuwweg,3,,
-8467SJ,Geeuwweg,4,,
-8467SJ,Geeuwweg,5,,
-8467SJ,Geeuwweg,6,,
-8467SJ,Geeuwweg,7,,
-8467SJ,Geeuwweg,8,,
-8467SX,Rusken,2,,
-8467SX,Rusken,4,,
-8467SX,Rusken,8,,
-8467SE,Zwarte Weg,32,,
-8467SE,Zwarte Weg,1,,
-8467SE,Zwarte Weg,1,a,
-8467SE,Zwarte Weg,2,,
-8467SE,Zwarte Weg,4,,
-8467SE,Zwarte Weg,6,,
-8467SE,Zwarte Weg,7,,
-8467SE,Zwarte Weg,8,,
-8467SE,Zwarte Weg,9,,
-8467SE,Zwarte Weg,10,,
-8467SE,Zwarte Weg,11,,
-8467SE,Zwarte Weg,12,,
-8467SE,Zwarte Weg,13,,
-8467SE,Zwarte Weg,16,,
-8467SE,Zwarte Weg,18,,
-8467SE,Zwarte Weg,20,,
-8467SE,Zwarte Weg,23,,
-8467SE,Zwarte Weg,24,,
-8467SE,Zwarte Weg,25,,
-8467SE,Zwarte Weg,28,,
-8467SE,Zwarte Weg,29,,
-8467SE,Zwarte Weg,30,,
-8467SG,Zwarte Weg,39,,
-8467SG,Zwarte Weg,49,,
-8467SG,Zwarte Weg,57,,
-8467SG,Zwarte Weg,33,,
-8467SG,Zwarte Weg,34,,
-8467SG,Zwarte Weg,36,,
-8467SG,Zwarte Weg,41,,
-8467SG,Zwarte Weg,43,,
-8467SG,Zwarte Weg,45,,
-8467SG,Zwarte Weg,47,a,
-8467SG,Zwarte Weg,51,,
-8467SG,Zwarte Weg,55,,
-8467SG,Zwarte Weg,55,a,
-8467SG,Zwarte Weg,59,,
-8467SG,Zwarte Weg,61,,
-8467SG,Zwarte Weg,61,a,
-8467SG,Zwarte Weg,65,,
-8467SR,De Traen,6,b,
-8467SR,De Traen,4,,
-8467SK,Grevenweg,4,,
-8467SK,Grevenweg,9,,
-8467SK,Grevenweg,3,a,
-8467SK,Grevenweg,2,b,
-8467SK,Grevenweg,3,,
-8467SK,Grevenweg,4,a,
-8467SM,Hornstermeerweg,2,,
-8467SC,Meenscharweg,10,,
-8467SC,Meenscharweg,18,,
-8467SC,Meenscharweg,29,,
-8467SC,Meenscharweg,39,,
-8467SV,Middenweg,5,,
-8467SV,Middenweg,3,,
-8467SV,Middenweg,6,,
-8467ST,Nije Kampen,3,,
-8467ST,Nije Kampen,3,a,
-8467ST,Nije Kampen,3,b,
-8467SW,Tweehuis,1,a,
-8467SN,Vegelinsweg,33,,
-8467SN,Vegelinsweg,48,,
-8467SN,Vegelinsweg,27,,
-8467SN,Vegelinsweg,44,,
-8467SN,Vegelinsweg,29,,
-8467SN,Vegelinsweg,29,,
-8467SB,Welleweg,3,,
-8467SB,Welleweg,8,,
-8467SB,Welleweg,3,b,
-8467SL,Deelswal,4,,
-8467SL,Deelswal,3,a,
-8467SJ,Geeuwweg,10,,
-8467SX,Rusken,6,,
-8467SE,Zwarte Weg,27,,
-8467SE,Zwarte Weg,14,,
-8467SE,Zwarte Weg,22,,
-8467SE,Zwarte Weg,26,,
-8467SE,Zwarte Weg,31,,
-8467SE,Zwarte Weg,3,,
-8467SG,Zwarte Weg,38,,
-8467SG,Zwarte Weg,47,,
-8467SG,Zwarte Weg,55,b,
-8467SG,Zwarte Weg,63,,
-8467SG,Zwarte Weg,53,,
-8467SG,Zwarte Weg,57,,
-8467SG,Zwarte Weg,57,a,
-8467SK,Grevenweg,4,a,
-8467SP,Muontserak,1,a,
-8467SE,Zwarte Weg,2,A,
-8467SG,Zwarte Weg,53,,
-8467SK,Grevenweg,6,,
-8467SK,Grevenweg,10,,WM1
-8467SK,Grevenweg,7,,BY
-8467SC,Meenscharweg,12,,WM1
-8467SL,Deelswal,2,M,
-8467SE,Zwarte Weg,2,A,
-8467SE,Zwarte Weg,2,H,
-8467SE,Zwarte Weg,2,I,
-8467SE,Zwarte Weg,2,M,
-8467SE,Zwarte Weg,2,J,
-8467SE,Zwarte Weg,2,K,
-8467SE,Zwarte Weg,2,B,
-8467SE,Zwarte Weg,2,C,
-8467SE,Zwarte Weg,2,D,
-8467SE,Zwarte Weg,2,E,
-8467SE,Zwarte Weg,23,,
-8467SE,Zwarte Weg,15,,
-8467SE,Zwarte Weg,2,F,
-8467SG,Zwarte Weg,57,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Welleweg,1,"","",8467SB,Vegelinsoord
+Welleweg,10,A,"",8467SB,Vegelinsoord
+Welleweg,12,A,"",8467SB,Vegelinsoord
+Welleweg,14,"","",8467SB,Vegelinsoord
+Welleweg,3,"","",8467SB,Vegelinsoord
+Welleweg,3,A,"",8467SB,Vegelinsoord
+Welleweg,3,B,"",8467SB,Vegelinsoord
+Welleweg,4,"","",8467SB,Vegelinsoord
+Welleweg,5,"","",8467SB,Vegelinsoord
+Welleweg,6,"","",8467SB,Vegelinsoord
+Welleweg,7,"","",8467SB,Vegelinsoord
+Welleweg,8,"","",8467SB,Vegelinsoord
+Meenscharweg,10,"","",8467SC,Vegelinsoord
+Meenscharweg,12,"","",8467SC,Vegelinsoord
+Meenscharweg,14,"","",8467SC,Vegelinsoord
+Meenscharweg,16,"","",8467SC,Vegelinsoord
+Meenscharweg,18,"","",8467SC,Vegelinsoord
+Meenscharweg,23,"","",8467SC,Vegelinsoord
+Meenscharweg,25,"","",8467SC,Vegelinsoord
+Meenscharweg,27,"","",8467SC,Vegelinsoord
+Meenscharweg,29,"","",8467SC,Vegelinsoord
+Meenscharweg,31,"","",8467SC,Vegelinsoord
+Meenscharweg,35,"","",8467SC,Vegelinsoord
+Meenscharweg,37,"","",8467SC,Vegelinsoord
+Meenscharweg,39,"","",8467SC,Vegelinsoord
+Zwarte Weg,1,"","",8467SE,Vegelinsoord
+Zwarte Weg,1,A,"",8467SE,Vegelinsoord
+Zwarte Weg,10,"","",8467SE,Vegelinsoord
+Zwarte Weg,11,"","",8467SE,Vegelinsoord
+Zwarte Weg,12,"","",8467SE,Vegelinsoord
+Zwarte Weg,13,"","",8467SE,Vegelinsoord
+Zwarte Weg,14,"","",8467SE,Vegelinsoord
+Zwarte Weg,16,"","",8467SE,Vegelinsoord
+Zwarte Weg,18,"","",8467SE,Vegelinsoord
+Zwarte Weg,2,"","",8467SE,Vegelinsoord
+Zwarte Weg,20,"","",8467SE,Vegelinsoord
+Zwarte Weg,22,"","",8467SE,Vegelinsoord
+Zwarte Weg,23,"","",8467SE,Vegelinsoord
+Zwarte Weg,23,"","",8467SE,Vegelinsoord
+Zwarte Weg,24,"","",8467SE,Vegelinsoord
+Zwarte Weg,25,"","",8467SE,Vegelinsoord
+Zwarte Weg,26,"","",8467SE,Vegelinsoord
+Zwarte Weg,27,"","",8467SE,Vegelinsoord
+Zwarte Weg,28,"","",8467SE,Vegelinsoord
+Zwarte Weg,29,"","",8467SE,Vegelinsoord
+Zwarte Weg,3,"","",8467SE,Vegelinsoord
+Zwarte Weg,30,"","",8467SE,Vegelinsoord
+Zwarte Weg,31,"","",8467SE,Vegelinsoord
+Zwarte Weg,32,"","",8467SE,Vegelinsoord
+Zwarte Weg,4,"","",8467SE,Vegelinsoord
+Zwarte Weg,6,"","",8467SE,Vegelinsoord
+Zwarte Weg,7,"","",8467SE,Vegelinsoord
+Zwarte Weg,8,"","",8467SE,Vegelinsoord
+Zwarte Weg,9,"","",8467SE,Vegelinsoord
+It Rak,1,"","",8467SG,Vegelinsoord
+It Rak,2,"","",8467SG,Vegelinsoord
+Zwarte Weg,33,"","",8467SG,Vegelinsoord
+Zwarte Weg,34,"","",8467SG,Vegelinsoord
+Zwarte Weg,36,"","",8467SG,Vegelinsoord
+Zwarte Weg,38,"","",8467SG,Vegelinsoord
+Zwarte Weg,39,"","",8467SG,Vegelinsoord
+Zwarte Weg,41,"","",8467SG,Vegelinsoord
+Zwarte Weg,43,"","",8467SG,Vegelinsoord
+Zwarte Weg,45,"","",8467SG,Vegelinsoord
+Zwarte Weg,47,"","",8467SG,Vegelinsoord
+Zwarte Weg,47,A,"",8467SG,Vegelinsoord
+Zwarte Weg,49,"","",8467SG,Vegelinsoord
+Zwarte Weg,51,"","",8467SG,Vegelinsoord
+Zwarte Weg,53,"","",8467SG,Vegelinsoord
+Zwarte Weg,53,"","",8467SG,Vegelinsoord
+Zwarte Weg,55,"","",8467SG,Vegelinsoord
+Zwarte Weg,55,A,"",8467SG,Vegelinsoord
+Zwarte Weg,55,B,"",8467SG,Vegelinsoord
+Zwarte Weg,57,"","",8467SG,Vegelinsoord
+Zwarte Weg,57,"","",8467SG,Vegelinsoord
+Zwarte Weg,57,"","",8467SG,Vegelinsoord
+Zwarte Weg,57,"","",8467SG,Vegelinsoord
+Zwarte Weg,57,A,"",8467SG,Vegelinsoord
+Zwarte Weg,57,A,"",8467SG,Vegelinsoord
+Zwarte Weg,59,"","",8467SG,Vegelinsoord
+Zwarte Weg,61,"","",8467SG,Vegelinsoord
+Zwarte Weg,61,A,"",8467SG,Vegelinsoord
+Zwarte Weg,63,"","",8467SG,Vegelinsoord
+Zwarte Weg,65,"","",8467SG,Vegelinsoord
+Ontginning,1,"","",8467SH,Vegelinsoord
+Ontginning,3,"","",8467SH,Vegelinsoord
+Ontginning,6,"","",8467SH,Vegelinsoord
+Geeuwweg,1,"","",8467SJ,Vegelinsoord
+Geeuwweg,10,"","",8467SJ,Vegelinsoord
+Geeuwweg,2,"","",8467SJ,Vegelinsoord
+Geeuwweg,3,"","",8467SJ,Vegelinsoord
+Geeuwweg,4,"","",8467SJ,Vegelinsoord
+Geeuwweg,5,"","",8467SJ,Vegelinsoord
+Geeuwweg,6,"","",8467SJ,Vegelinsoord
+Geeuwweg,7,"","",8467SJ,Vegelinsoord
+Geeuwweg,8,"","",8467SJ,Vegelinsoord
+Grevenweg,1,"","",8467SK,Vegelinsoord
+Grevenweg,10,"","",8467SK,Vegelinsoord
+Grevenweg,10,A,"",8467SK,Vegelinsoord
+Grevenweg,11,"","",8467SK,Vegelinsoord
+Grevenweg,2,"","",8467SK,Vegelinsoord
+Grevenweg,2,A,"",8467SK,Vegelinsoord
+Grevenweg,2,B,"",8467SK,Vegelinsoord
+Grevenweg,2,B,"",8467SK,Vegelinsoord
+Grevenweg,3,"","",8467SK,Vegelinsoord
+Grevenweg,3,A,"",8467SK,Vegelinsoord
+Grevenweg,4,"","",8467SK,Vegelinsoord
+Grevenweg,4,A,"",8467SK,Vegelinsoord
+Grevenweg,6,"","",8467SK,Vegelinsoord
+Grevenweg,6,"","",8467SK,Vegelinsoord
+Grevenweg,7,"","",8467SK,Vegelinsoord
+Grevenweg,8,"","",8467SK,Vegelinsoord
+Grevenweg,9,"","",8467SK,Vegelinsoord
+Deelswal,1,"","",8467SL,Vegelinsoord
+Deelswal,2,"","",8467SL,Vegelinsoord
+Deelswal,3,"","",8467SL,Vegelinsoord
+Deelswal,3,A,"",8467SL,Vegelinsoord
+Deelswal,4,"","",8467SL,Vegelinsoord
+Hornstermeerweg,1,"","",8467SM,Vegelinsoord
+Hornstermeerweg,2,"","",8467SM,Vegelinsoord
+Vegelinsweg,27,"","",8467SN,Vegelinsoord
+Vegelinsweg,29,"","",8467SN,Vegelinsoord
+Vegelinsweg,29,"","",8467SN,Vegelinsoord
+Vegelinsweg,29,"","",8467SN,Vegelinsoord
+Vegelinsweg,29,"","",8467SN,Vegelinsoord
+Vegelinsweg,29,"","",8467SN,Vegelinsoord
+Vegelinsweg,31,"","",8467SN,Vegelinsoord
+Vegelinsweg,33,"","",8467SN,Vegelinsoord
+Vegelinsweg,42,"","",8467SN,Vegelinsoord
+Vegelinsweg,44,"","",8467SN,Vegelinsoord
+Vegelinsweg,46,"","",8467SN,Vegelinsoord
+Vegelinsweg,46,A,"",8467SN,Vegelinsoord
+Vegelinsweg,48,"","",8467SN,Vegelinsoord
+Muontserak,1,"","",8467SP,Vegelinsoord
+Muontserak,3,"","",8467SP,Vegelinsoord
+De Traen,1,"","",8467SR,Vegelinsoord
+De Traen,2,"","",8467SR,Vegelinsoord
+De Traen,4,"","",8467SR,Vegelinsoord
+De Traen,6,"","",8467SR,Vegelinsoord
+De Traen,6,A,"",8467SR,Vegelinsoord
+De Traen,6,B,"",8467SR,Vegelinsoord
+Nije Kampen,1,"","",8467ST,Vegelinsoord
+Nije Kampen,2,"","",8467ST,Vegelinsoord
+Nije Kampen,3,"","",8467ST,Vegelinsoord
+Nije Kampen,3,A,"",8467ST,Vegelinsoord
+Nije Kampen,3,B,"",8467ST,Vegelinsoord
+Nije Kampen,5,"","",8467ST,Vegelinsoord
+Middenweg,1,"","",8467SV,Vegelinsoord
+Middenweg,1,A,"",8467SV,Vegelinsoord
+Middenweg,2,"","",8467SV,Vegelinsoord
+Middenweg,3,"","",8467SV,Vegelinsoord
+Middenweg,4,"","",8467SV,Vegelinsoord
+Middenweg,4,A,"",8467SV,Vegelinsoord
+Middenweg,5,"","",8467SV,Vegelinsoord
+Middenweg,6,"","",8467SV,Vegelinsoord
+Tweehuis,1,"","",8467SW,Vegelinsoord
+Tweehuis,1,A,"",8467SW,Vegelinsoord
+Tweehuis,2,"","",8467SW,Vegelinsoord
+Rusken,2,"","",8467SX,Vegelinsoord
+Rusken,4,"","",8467SX,Vegelinsoord
+Rusken,6,"","",8467SX,Vegelinsoord
+Rusken,8,"","",8467SX,Vegelinsoord
+Snilen,1,"","",8467SZ,Vegelinsoord
+Snilen,11,"","",8467SZ,Vegelinsoord
+Snilen,13,"","",8467SZ,Vegelinsoord
+Snilen,15,"","",8467SZ,Vegelinsoord
+Snilen,17,"","",8467SZ,Vegelinsoord
+Snilen,2,"","",8467SZ,Vegelinsoord
+Snilen,3,"","",8467SZ,Vegelinsoord
+Snilen,5,"","",8467SZ,Vegelinsoord
+Snilen,6,"","",8467SZ,Vegelinsoord
+Snilen,7,"","",8467SZ,Vegelinsoord
+Snilen,8,"","",8467SZ,Vegelinsoord
+Snilen,9,"","",8467SZ,Vegelinsoord
+It Nije Paad,2,"","",8467TA,Vegelinsoord
+It Nije Paad,4,"","",8467TA,Vegelinsoord
+It Nije Paad,6,"","",8467TA,Vegelinsoord

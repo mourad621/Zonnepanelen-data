@@ -1,44 +1,44 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2977LA,De Hoogt,1,,
-2977LA,De Hoogt,1,a,
-2977LA,De Hoogt,2,b,
-2977LA,De Hoogt,2,,
-2977LA,De Hoogt,3,,
-2977LA,De Hoogt,5,,
-2977LA,De Hoogt,6,,
-2977LA,De Hoogt,7,,
-2977LA,De Hoogt,8,,
-2977LA,De Hoogt,10,,
-2977LA,De Hoogt,14,,
-2977LA,De Hoogt,18,,
-2977LA,De Hoogt,2,a,
-2977LA,De Hoogt,14,a,Cons
-2977LA,De Hoogt,14,a,CONS
-2977LA,De Hoogt,14,a,
-2977AP,Nieuwpoortseweg,12,,
-2977AP,Nieuwpoortseweg,12,,
-2977AP,Nieuwpoortseweg,1,a,
-2977AG,Postkade,170,,
-2977AG,Postkade,171,,
-2977AG,Postkade,172,,
-2977AG,Postkade,172,a,
-2977AG,Postkade,173,c,
-2977AG,Postkade,173,,
-2977AG,Postkade,173,a,
-2977AG,Postkade,173,b,
-2977AG,Postkade,173,d,
-2977AG,Postkade,174,,
-2977AG,Postkade,175,a,
-2977AG,Postkade,175,,
-2977AG,Postkade,173,e,
-2977AG,Postkade,172,,
-2977AR,Smoutjesweg,1,,
-2977AR,Smoutjesweg,1,a,
-2977AR,Smoutjesweg,2,,
-2977AR,Smoutjesweg,3,,
-2977AR,Smoutjesweg,4,,
-2977AR,Smoutjesweg,6,,
-2977AR,Smoutjesweg,8,,
-2977LA,De Hoogt,4,,
-2977LA,De Hoogt,1,b,
-2977AG,Postkade,171,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Postkade,170,"","",2977AG,Goudriaan
+Postkade,171,"","",2977AG,Goudriaan
+Postkade,171,"","",2977AG,Goudriaan
+Postkade,172,"","",2977AG,Goudriaan
+Postkade,172,"","",2977AG,Goudriaan
+Postkade,172,A,"",2977AG,Goudriaan
+Postkade,173,"","",2977AG,Goudriaan
+Postkade,173,A,"",2977AG,Goudriaan
+Postkade,173,B,"",2977AG,Goudriaan
+Postkade,173,C,"",2977AG,Goudriaan
+Postkade,173,D,"",2977AG,Goudriaan
+Postkade,173,E,"",2977AG,Goudriaan
+Postkade,174,"","",2977AG,Goudriaan
+Postkade,175,"","",2977AG,Goudriaan
+Postkade,175,A,"",2977AG,Goudriaan
+Nieuwpoortseweg,1,A,"",2977AP,Goudriaan
+Nieuwpoortseweg,12,"","",2977AP,Goudriaan
+Nieuwpoortseweg,12,"","",2977AP,Goudriaan
+Smoutjesweg,1,"","",2977AR,Goudriaan
+Smoutjesweg,1,A,"",2977AR,Goudriaan
+Smoutjesweg,2,"","",2977AR,Goudriaan
+Smoutjesweg,3,"","",2977AR,Goudriaan
+Smoutjesweg,4,"","",2977AR,Goudriaan
+Smoutjesweg,6,"","",2977AR,Goudriaan
+Smoutjesweg,8,"","",2977AR,Goudriaan
+De Hoogt,1,"","",2977LA,Goudriaan
+De Hoogt,1,A,"",2977LA,Goudriaan
+De Hoogt,1,B,"",2977LA,Goudriaan
+De Hoogt,10,"","",2977LA,Goudriaan
+De Hoogt,14,"","",2977LA,Goudriaan
+De Hoogt,14,A,"",2977LA,Goudriaan
+De Hoogt,14,A,CONS,2977LA,Goudriaan
+De Hoogt,14,A,CONS,2977LA,Goudriaan
+De Hoogt,18,"","",2977LA,Goudriaan
+De Hoogt,2,"","",2977LA,Goudriaan
+De Hoogt,2,A,"",2977LA,Goudriaan
+De Hoogt,2,B,"",2977LA,Goudriaan
+De Hoogt,3,"","",2977LA,Goudriaan
+De Hoogt,4,"","",2977LA,Goudriaan
+De Hoogt,5,"","",2977LA,Goudriaan
+De Hoogt,6,"","",2977LA,Goudriaan
+De Hoogt,7,"","",2977LA,Goudriaan
+De Hoogt,8,"","",2977LA,Goudriaan

@@ -1,109 +1,110 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9406XK",46,"",""
-"9406XK",22,"",""
-"9406XK",40,"",""
-"9406XK",52,"",""
-"9406XK",44,"",""
-"9406XK",38,"",""
-"9406XK",48,"A",""
-"9406XK",20,"",""
-"9406XK",26,"",""
-"9406XK",46,"",""
-"9406XK",40,"",""
-"9406XK",40,"B",""
-"9406XK",50,"",""
-"9406XK",28,"",""
-"9406XK",48,"",""
-"9406XK",54,"",""
-"9406XK",20,"A",""
-"9406XK",34,"A",""
-"9406XK",32,"",""
-"9406XK",34,"",""
-"9406XK",24,"",""
-"9406XK",36,"",""
-"9406XK",38,"",""
-"9406XK",42,"",""
-"9406XK",52,"A",""
-"9406XK",40,"",""
-"9406XK",32,"",""
-"9406ZZ",2,"",""
-"9406ZZ",2,"",""
-"9489TH",3,"",""
-"9489TH",3,"",""
-"9489TH",1,"",""
-"9489TH",17,"",""
-"9489TH",15,"",""
-"9489TH",3,"",""
-"9489TH",11,"",""
-"9489TH",3,"",""
-"9489TH",1,"A",""
-"9489TH",13,"",""
-"9489TH",1,"A",""
-"9489TH",3,"",""
-"9489TJ",2,"",""
-"9489TJ",4,"",""
-"9489TJ",1,"",""
-"9489TK",2,"",""
-"9489TK",1,"",""
-"9489TK",3,"",""
-"9489TK",2,"",""
-"9489TK",2,"A",""
-"9489TK",2,"A",""
-"9489TL",1,"",""
-"9489TL",4,"",""
-"9489TL",6,"",""
-"9489TL",4,"B",""
-"9489TL",1,"A",""
-"9489TL",4,"C",""
-"9489TL",2,"",""
-"9489TL",4,"A",""
-9406XK,Asserwijk,20,A,
-9406XK,Asserwijk,20,,
-9406XK,Asserwijk,22,,
-9406XK,Asserwijk,24,,
-9406XK,Asserwijk,26,,
-9406XK,Asserwijk,28,,
-9406XK,Asserwijk,34,A,
-9406XK,Asserwijk,34,,
-9406XK,Asserwijk,36,,
-9406XK,Asserwijk,38,,
-9406XK,Asserwijk,40,B,
-9406XK,Asserwijk,40,,
-9406XK,Asserwijk,42,,
-9406XK,Asserwijk,44,,
-9406XK,Asserwijk,48,,
-9406XK,Asserwijk,50,,
-9406XK,Asserwijk,52,,
-9406XK,Asserwijk,54,,
-9489TJ,Jan Wittestraat,1,,
-9489TJ,Jan Wittestraat,2,,
-9489TJ,Jan Wittestraat,4,,
-9406XK,Asserwijk,32,,
-9406XK,Asserwijk,46,,
-9489TL,Pitteloseweg,1,A,
-9489TL,Pitteloseweg,1,,
-9489TL,Pitteloseweg,2,,
-9489TL,Pitteloseweg,4,A,
-9489TL,Pitteloseweg,4,B,
-9489TL,Pitteloseweg,4,C,
-9489TL,Pitteloseweg,4,,
-9489TL,Pitteloseweg,6,,
-9489TH,ten Oeverstraat,1,,
-9489TH,ten Oeverstraat,3,,
-9489TH,ten Oeverstraat,11,,
-9489TH,ten Oeverstraat,13,,
-9489TH,ten Oeverstraat,15,,
-9406ZZ,verzorgingsplaats Zeijerveen,2,,
-9406ZZ,verzorgingsplaats Zeijerveen,2,,
-9489TK,Zwarteweg,1,,
-9489TK,Zwarteweg,2,,
-9406XK,Asserwijk,40,,
-9406XK,Asserwijk,52,A,
-9406XK,Asserwijk,48,A,
-9489TH,ten Oeverstraat,17,,
-9489TH,ten Oeverstraat,1,A,
-9489TH,ten Oeverstraat,3,,
-9489TH,ten Oeverstraat,3,,
-9489TK,Zwarteweg,2,A,
-9489TK,Zwarteweg,2,,
-9489TK,Zwarteweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+46,"","","",9406XK,
+22,"","","",9406XK,
+40,"","","",9406XK,
+52,"","","",9406XK,
+44,"","","",9406XK,
+38,"","","",9406XK,
+20,"","","",9406XK,
+26,"","","",9406XK,
+46,"","","",9406XK,
+40,"","","",9406XK,
+50,"","","",9406XK,
+28,"","","",9406XK,
+48,"","","",9406XK,
+54,"","","",9406XK,
+32,"","","",9406XK,
+34,"","","",9406XK,
+24,"","","",9406XK,
+36,"","","",9406XK,
+38,"","","",9406XK,
+42,"","","",9406XK,
+40,"","","",9406XK,
+32,"","","",9406XK,
+Asserwijk,20,"","",9406XK,Assen
+Asserwijk,20,A,"",9406XK,Assen
+Asserwijk,22,"","",9406XK,Assen
+Asserwijk,24,"","",9406XK,Assen
+Asserwijk,26,"","",9406XK,Assen
+Asserwijk,28,"","",9406XK,Assen
+Asserwijk,32,"","",9406XK,Assen
+Asserwijk,34,"","",9406XK,Assen
+Asserwijk,34,A,"",9406XK,Assen
+Asserwijk,36,"","",9406XK,Assen
+Asserwijk,38,"","",9406XK,Assen
+Asserwijk,40,"","",9406XK,Assen
+Asserwijk,40,"","",9406XK,Assen
+Asserwijk,40,B,"",9406XK,Assen
+Asserwijk,42,"","",9406XK,Assen
+Asserwijk,44,"","",9406XK,Assen
+Asserwijk,46,"","",9406XK,Assen
+Asserwijk,48,"","",9406XK,Assen
+Asserwijk,48,A,"",9406XK,Assen
+Asserwijk,50,"","",9406XK,Assen
+Asserwijk,52,"","",9406XK,Assen
+Asserwijk,52,A,"",9406XK,Assen
+Asserwijk,54,"","",9406XK,Assen
+48,A,"","",9406XK,
+20,A,"","",9406XK,
+34,A,"","",9406XK,
+52,A,"","",9406XK,
+40,B,"","",9406XK,
+2,"","","",9406ZZ,
+2,"","","",9406ZZ,
+verzorgingsplaats Zeijerveen,2,"","",9406ZZ,Assen
+verzorgingsplaats Zeijerveen,2,"","",9406ZZ,Assen
+3,"","","",9489TH,
+3,"","","",9489TH,
+1,"","","",9489TH,
+17,"","","",9489TH,
+15,"","","",9489TH,
+3,"","","",9489TH,
+11,"","","",9489TH,
+3,"","","",9489TH,
+13,"","","",9489TH,
+3,"","","",9489TH,
+ten Oeverstraat,1,"","",9489TH,Zeijerveen
+ten Oeverstraat,1,A,"",9489TH,Zeijerveen
+ten Oeverstraat,11,"","",9489TH,Zeijerveen
+ten Oeverstraat,13,"","",9489TH,Zeijerveen
+ten Oeverstraat,15,"","",9489TH,Zeijerveen
+ten Oeverstraat,17,"","",9489TH,Zeijerveen
+ten Oeverstraat,3,"","",9489TH,Zeijerveen
+ten Oeverstraat,3,"","",9489TH,Zeijerveen
+ten Oeverstraat,3,"","",9489TH,Zeijerveen
+1,A,"","",9489TH,
+1,A,"","",9489TH,
+2,"","","",9489TJ,
+4,"","","",9489TJ,
+1,"","","",9489TJ,
+Jan Wittestraat,1,"","",9489TJ,Zeijerveen
+Jan Wittestraat,2,"","",9489TJ,Zeijerveen
+Jan Wittestraat,4,"","",9489TJ,Zeijerveen
+2,"","","",9489TK,
+1,"","","",9489TK,
+3,"","","",9489TK,
+2,"","","",9489TK,
+Zwarteweg,1,"","",9489TK,Zeijerveen
+Zwarteweg,2,"","",9489TK,Zeijerveen
+Zwarteweg,2,"","",9489TK,Zeijerveen
+Zwarteweg,2,A,"",9489TK,Zeijerveen
+Zwarteweg,3,"","",9489TK,Zeijerveen
+2,A,"","",9489TK,
+2,A,"","",9489TK,
+1,"","","",9489TL,
+4,"","","",9489TL,
+6,"","","",9489TL,
+2,"","","",9489TL,
+Pitteloseweg,1,"","",9489TL,Zeijerveen
+Pitteloseweg,1,A,"",9489TL,Zeijerveen
+Pitteloseweg,2,"","",9489TL,Zeijerveen
+Pitteloseweg,4,"","",9489TL,Zeijerveen
+Pitteloseweg,4,A,"",9489TL,Zeijerveen
+Pitteloseweg,4,B,"",9489TL,Zeijerveen
+Pitteloseweg,4,C,"",9489TL,Zeijerveen
+Pitteloseweg,6,"","",9489TL,Zeijerveen
+1,A,"","",9489TL,
+4,A,"","",9489TL,
+4,B,"","",9489TL,
+4,C,"","",9489TL,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

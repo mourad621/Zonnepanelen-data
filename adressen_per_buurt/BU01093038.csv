@@ -1,921 +1,468 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7917PA",9,"",""
-"7917PA",7,"",""
-"7917PA",11,"b",""
-"7917PA",5,"a",""
-"7917PA",19,"",""
-"7917PA",17,"",""
-"7917PA",13,"",""
-"7917PA",15,"",""
-"7917PA",11,"a",""
-"7917PA",3,"",""
-"7917PA",5,"",""
-"7917PA",1,"",""
-"7917PB",8,"b",""
-"7917PB",8,"c",""
-"7917PB",33,"",""
-"7917PB",4,"",""
-"7917PB",18,"",""
-"7917PB",2,"",""
-"7917PB",8,"",""
-"7917PB",31,"",""
-"7917PB",16,"",""
-"7917PB",12,"",""
-"7917PB",41,"",""
-"7917PB",8,"a",""
-"7917PB",37,"",""
-"7917PB",35,"",""
-"7917PB",45,"",""
-"7917PB",14,"",""
-"7917PB",8,"",""
-"7917PB",20,"",""
-"7917PB",6,"",""
-"7917PB",27,"",""
-"7917PB",25,"",""
-"7917PB",21,"",""
-"7917PB",8,"",""
-"7917PB",23,"",""
-"7917PB",29,"",""
-"7917PC",1,"","BOX"
-"7917PC",21,"",""
-"7917PC",7,"",""
-"7917PC",29,"",""
-"7917PC",23,"",""
-"7917PC",13,"","BOX"
-"7917PC",17,"",""
-"7917PC",25,"",""
-"7917PC",5,"",""
-"7917PC",27,"",""
-"7917PC",5,"","BOX"
-"7917PC",7,"","BOX"
-"7917PC",19,"",""
-"7917PC",11,"",""
-"7917PC",1,"",""
-"7917PC",3,"",""
-"7917PC",31,"",""
-"7917PC",11,"","BOX"
-"7917PC",9,"","BOX"
-"7917PC",3,"","BOX"
-"7917PC",9,"",""
-"7917PD",6,"",""
-"7917PD",36,"",""
-"7917PD",10,"","BOX"
-"7917PD",16,"",""
-"7917PD",18,"",""
-"7917PD",4,"",""
-"7917PD",8,"",""
-"7917PD",32,"",""
-"7917PD",12,"","BOX"
-"7917PD",12,"",""
-"7917PD",38,"",""
-"7917PD",34,"",""
-"7917PD",14,"","BOX"
-"7917PD",10,"",""
-"7917PD",14,"",""
-"7917PD",4,"","BOX"
-"7917PD",6,"","BOX"
-"7917PD",28,"",""
-"7917PD",22,"",""
-"7917PD",2,"",""
-"7917PD",8,"","BOX"
-"7917PD",2,"","BOX"
-"7917PD",24,"",""
-"7917PD",26,"",""
-"7917PD",30,"",""
-"7917PD",20,"",""
-"7917PE",12,"",""
-"7917PE",22,"",""
-"7917PE",11,"",""
-"7917PE",10,"",""
-"7917PE",17,"",""
-"7917PE",14,"",""
-"7917PE",18,"",""
-"7917PE",4,"",""
-"7917PE",20,"",""
-"7917PE",10,"",""
-"7917PE",13,"",""
-"7917PE",19,"",""
-"7917PE",9,"",""
-"7917PE",33,"",""
-"7917PE",31,"",""
-"7917PE",8,"",""
-"7917PE",35,"",""
-"7917PE",2,"",""
-"7917PE",27,"",""
-"7917PE",16,"",""
-"7917PE",15,"",""
-"7917PE",6,"",""
-"7917PE",23,"",""
-"7917PE",29,"",""
-"7917PE",21,"",""
-"7917PE",25,"",""
-"7917PG",1,"",""
-"7917PG",12,"",""
-"7917PG",10,"",""
-"7917PG",4,"",""
-"7917PG",3,"",""
-"7917PG",8,"",""
-"7917PG",2,"",""
-"7917PG",6,"",""
-"7917PH",45,"",""
-"7917PH",25,"",""
-"7917PH",7,"",""
-"7917PH",35,"",""
-"7917PH",47,"",""
-"7917PH",31,"",""
-"7917PH",17,"",""
-"7917PH",39,"",""
-"7917PH",1,"",""
-"7917PH",37,"",""
-"7917PH",5,"",""
-"7917PH",3,"",""
-"7917PH",27,"",""
-"7917PH",43,"",""
-"7917PH",49,"",""
-"7917PH",41,"",""
-"7917PH",11,"",""
-"7917PH",9,"",""
-"7917PH",33,"",""
-"7917PH",13,"",""
-"7917PH",21,"",""
-"7917PH",19,"",""
-"7917PH",15,"",""
-"7917PH",29,"",""
-"7917PH",23,"",""
-"7917PJ",12,"",""
-"7917PJ",14,"",""
-"7917PJ",8,"",""
-"7917PJ",2,"",""
-"7917PJ",16,"",""
-"7917PJ",4,"",""
-"7917PJ",10,"",""
-"7917PJ",6,"",""
-"7917PK",11,"",""
-"7917PK",7,"",""
-"7917PK",13,"",""
-"7917PK",23,"",""
-"7917PK",9,"",""
-"7917PK",3,"",""
-"7917PK",5,"",""
-"7917PK",35,"",""
-"7917PK",29,"",""
-"7917PK",31,"",""
-"7917PK",25,"",""
-"7917PK",27,"",""
-"7917PK",17,"",""
-"7917PK",21,"",""
-"7917PK",15,"",""
-"7917PK",19,"",""
-"7917PK",37,"",""
-"7917PK",41,"",""
-"7917PK",47,"",""
-"7917PK",49,"",""
-"7917PK",39,"",""
-"7917PK",33,"",""
-"7917PL",22,"",""
-"7917PL",20,"",""
-"7917PL",4,"",""
-"7917PL",24,"",""
-"7917PL",2,"",""
-"7917PL",26,"",""
-"7917PL",14,"",""
-"7917PL",12,"",""
-"7917PL",16,"",""
-"7917PL",18,"",""
-"7917PM",16,"",""
-"7917PM",4,"",""
-"7917PM",7,"",""
-"7917PM",24,"",""
-"7917PM",1,"",""
-"7917PM",5,"",""
-"7917PM",8,"",""
-"7917PM",18,"",""
-"7917PM",6,"",""
-"7917PM",10,"",""
-"7917PM",3,"",""
-"7917PM",20,"",""
-"7917PM",12,"",""
-"7917PM",22,"",""
-"7917PM",14,"",""
-"7917PM",2,"",""
-"7917PN",16,"",""
-"7917PN",22,"",""
-"7917PN",10,"",""
-"7917PN",20,"",""
-"7917PN",4,"",""
-"7917PN",8,"",""
-"7917PN",14,"",""
-"7917PN",2,"",""
-"7917PN",18,"",""
-"7917PN",12,"",""
-"7917PN",6,"",""
-"7917PP",13,"",""
-"7917PP",35,"",""
-"7917PP",5,"",""
-"7917PP",31,"c","1"
-"7917PP",1,"",""
-"7917PP",33,"",""
-"7917PP",11,"",""
-"7917PP",29,"",""
-"7917PP",9,"",""
-"7917PP",39,"",""
-"7917PP",31,"c","2"
-"7917PP",31,"c","3"
-"7917PP",21,"",""
-"7917PP",31,"a","BEDR"
-"7917PP",31,"a","5"
-"7917PP",31,"c",""
-"7917PP",41,"",""
-"7917PP",5,"a",""
-"7917PP",31,"c",""
-"7917PP",31,"a","4"
-"7917PP",25,"a",""
-"7917PP",27,"",""
-"7917PP",31,"a","05"
-"7917PP",17,"",""
-"7917PP",31,"d",""
-"7917PP",31,"c",""
-"7917PP",21,"a",""
-"7917PP",3,"",""
-"7917PP",7,"",""
-"7917PP",31,"b",""
-"7917PP",25,"",""
-"7917PP",23,"",""
-"7917PP",17,"a",""
-"7917PP",31,"c","1"
-"7917PP",19,"",""
-"7917PP",31,"",""
-"7917PP",31,"a","04"
-"7917PP",31,"",""
-"7917PP",31,"a",""
-"7917PP",25,"A",""
-"7917PP",31,"",""
-"7917PP",21,"a",""
-"7917PP",21,"a",""
-"7917PR",24,"a",""
-"7917PR",8,"",""
-"7917PR",30,"",""
-"7917PR",24,"",""
-"7917PR",18,"",""
-"7917PR",10,"",""
-"7917PR",36,"",""
-"7917PR",14,"a",""
-"7917PR",12,"",""
-"7917PR",22,"",""
-"7917PR",14,"b",""
-"7917PR",34,"",""
-"7917PR",14,"",""
-"7917PR",32,"",""
-"7917PR",38,"",""
-"7917PR",36,"a",""
-"7917PR",34,"a",""
-"7917PR",26,"",""
-"7917PR",16,"",""
-"7917PR",20,"",""
-"7917PR",6,"",""
-"7917PR",18,"","BY"
-"7917PT",81,"a","03"
-"7917PT",95,"",""
-"7917PT",81,"a",""
-"7917PT",81,"",""
-"7917PT",99,"",""
-"7917PT",81,"a","01"
-"7917PT",97,"",""
-"7917PT",97,"a",""
-"7917PT",81,"a","02"
-"7917PT",95,"a",""
-"7917PT",99,"a",""
-"7917PT",81,"",""
-"7917PT",91,"a",""
-"7917PT",81,"a","02"
-"7917PT",81,"a","08"
-"7917PT",81,"a","10"
-"7917PT",81,"a","08"
-"7917PT",81,"a","12"
-"7917PT",101,"",""
-"7917PT",87,"",""
-"7917PT",91,"",""
-"7917PT",81,"a","01"
-"7917PT",81,"a","07"
-"7917PT",81,"a","05"
-"7917PT",81,"a","04"
-"7917PT",81,"a","03"
-"7917PT",81,"a","07"
-"7917PT",81,"a","13"
-"7917PT",85,"",""
-"7917PT",81,"a","11"
-"7917PT",89,"",""
-"7917PT",81,"a","07"
-"7917PT",83,"a",""
-"7917PT",81,"",""
-"7917PT",81,"a","06"
-"7917PT",83,"",""
-"7917PT",93,"a",""
-"7917PT",91,"b",""
-"7917PT",93,"",""
-"7917PT",81,"a","08"
-"7917PT",81,"a","09"
-"7917PV",114,"",""
-"7917PV",106,"A",""
-"7917PV",116,"","BEDR"
-"7917PV",116,"",""
-"7917PV",106,"",""
-"7917PV",110,"",""
-"7917PV",106,"a",""
-"7917PV",108,"",""
-"7917PW",7,"",""
-"7917PW",5,"",""
-"7917PW",9,"",""
-"7917PW",6,"",""
-"7917PW",1,"",""
-"7917PW",4,"",""
-"7917PW",3,"",""
-"7917PW",8,"",""
-"7917PW",18,"",""
-"7917PW",15,"",""
-"7917PW",11,"",""
-"7917PW",10,"",""
-"7917PW",16,"",""
-"7917PW",13,"",""
-"7917RD",3,"",""
-"7917RD",4,"",""
-"7917RD",5,"a",""
-"7917RD",2,"",""
-"7917RD",5,"",""
-"7917RD",8,"",""
-"7917RD",1,"",""
-"7917RD",6,"",""
-"7917RD",10,"",""
-"7917RE",34,"",""
-"7917RE",26,"",""
-"7917RE",42,"",""
-"7917RE",34,"",""
-"7917RE",30,"",""
-"7917RE",34,"",""
-"7917RE",48,"",""
-"7917RE",25,"",""
-"7917RE",46,"",""
-"7917RE",30,"",""
-"7917RE",36,"",""
-"7917RE",30,"",""
-"7917RE",25,"",""
-"7917RE",20,"",""
-"7917RE",34,"",""
-"7917RE",28,"",""
-"7917RE",32,"",""
-"7917RE",22,"",""
-"7917RE",23,"",""
-"7917RE",6,"",""
-"7917RE",18,"",""
-"7917RE",17,"",""
-"7917RE",10,"",""
-"7917RE",38,"",""
-"7917RE",25,"",""
-"7917RE",3,"",""
-"7917RE",24,"",""
-"7917RE",14,"",""
-"7917RE",11,"",""
-"7917RE",1,"",""
-"7917RE",8,"",""
-"7917RE",4,"",""
-"7917RE",5,"",""
-"7917RE",13,"",""
-"7917RE",12,"",""
-"7917RE",2,"",""
-"7917RE",30,"",""
-"7917RE",21,"",""
-"7917RE",25,"",""
-"7917RE",16,"",""
-"7917RE",7,"",""
-"7917RE",9,"",""
-"7917RE",44,"",""
-"7917RE",15,"",""
-"7917TB",36,"",""
-"7917TB",22,"",""
-"7917TB",6,"",""
-"7917TB",34,"",""
-"7917TB",8,"",""
-"7917TB",14,"",""
-"7917TB",18,"",""
-"7917TB",30,"",""
-"7917TB",38,"",""
-"7917TB",20,"a",""
-"7917TB",42,"",""
-"7917TB",2,"",""
-"7917TB",16,"",""
-"7917TB",12,"",""
-"7917TB",10,"",""
-"7917TB",20,"",""
-"7917TB",32,"",""
-"7917TB",4,"",""
-"7917TB",40,"",""
-"7917TC",60,"",""
-"7917TC",50,"",""
-"7917TC",58,"",""
-"7917TC",52,"",""
-"7917TC",48,"",""
-"7917TC",46,"",""
-"7917TC",54,"",""
-"7917TC",60,"a",""
-"7917TC",44,"",""
-"7917TD",107,"",""
-"7917TD",113,"",""
-"7917TD",125,"",""
-"7917TD",103,"",""
-"7917TD",129,"",""
-"7917TD",109,"",""
-"7917TD",107,"",""
-"7917TD",107,"a",""
-"7917TD",107,"",""
-"7917TD",115,"",""
-"7917TD",139,"",""
-"7917TD",105,"",""
-"7917TD",133,"",""
-"7917TD",131,"",""
-"7917TD",107,"a",""
-"7917TG",136,"",""
-"7917TG",152,"",""
-"7917TG",118,"",""
-"7917TG",150,"",""
-"7917TG",152,"a",""
-"7917TG",156,"",""
-"7917TG",154,"",""
-"7917TG",138,"",""
-"7917TG",148,"",""
-"7917TG",128,"",""
-"7917TG",142,"",""
-"7917TG",130,"",""
-"7917TG",144,"",""
-"7917TG",122,"",""
-"7917TG",140,"",""
-"7917TG",124,"",""
-"7917TG",126,"",""
-"7917TG",130,"","SCHU"
-"7917TG",146,"",""
-"7917TG",156,"a",""
-"7917TG",134,"",""
-"7917TG",120,"",""
-"7917TG",132,"",""
-"7917TJ",14,"",""
-"7917TJ",5,"",""
-"7917TJ",16,"",""
-"7917TJ",3,"",""
-"7917TJ",10,"",""
-"7917TJ",8,"",""
-"7917TJ",12,"",""
-"7917TJ",7,"",""
-"7917TJ",2,"",""
-"7917TJ",1,"",""
-7917PA,Berkenlaan,1,,
-7917PA,Berkenlaan,3,,
-7917PA,Berkenlaan,5,a,
-7917PA,Berkenlaan,5,,
-7917PA,Berkenlaan,7,,
-7917PA,Berkenlaan,9,,
-7917PA,Berkenlaan,11,a,
-7917PA,Berkenlaan,11,b,
-7917PA,Berkenlaan,13,,
-7917PA,Berkenlaan,15,,
-7917PA,Berkenlaan,17,,
-7917PA,Berkenlaan,19,,
-7917PB,Berkenlaan,2,,
-7917PB,Berkenlaan,4,,
-7917PB,Berkenlaan,6,,
-7917PB,Berkenlaan,8,,
-7917PB,Berkenlaan,12,,
-7917PB,Berkenlaan,14,,
-7917PB,Berkenlaan,16,,
-7917PB,Berkenlaan,18,,
-7917PB,Berkenlaan,20,,
-7917PB,Berkenlaan,21,,
-7917PB,Berkenlaan,23,,
-7917PB,Berkenlaan,25,,
-7917PB,Berkenlaan,27,,
-7917PB,Berkenlaan,29,,
-7917PB,Berkenlaan,31,,
-7917PB,Berkenlaan,33,,
-7917PB,Berkenlaan,35,,
-7917PB,Berkenlaan,37,,
-7917PB,Berkenlaan,41,,
-7917PB,Berkenlaan,45,,
-7917PK,Beukenlaan,3,,
-7917PK,Beukenlaan,5,,
-7917PK,Beukenlaan,7,,
-7917PK,Beukenlaan,9,,
-7917PK,Beukenlaan,11,,
-7917PK,Beukenlaan,13,,
-7917PK,Beukenlaan,15,,
-7917PK,Beukenlaan,17,,
-7917PK,Beukenlaan,19,,
-7917PK,Beukenlaan,21,,
-7917PK,Beukenlaan,23,,
-7917PK,Beukenlaan,25,,
-7917PK,Beukenlaan,27,,
-7917PK,Beukenlaan,29,,
-7917PK,Beukenlaan,31,,
-7917PK,Beukenlaan,33,,
-7917PK,Beukenlaan,35,,
-7917PK,Beukenlaan,37,,
-7917PK,Beukenlaan,39,,
-7917PK,Beukenlaan,41,,
-7917PK,Beukenlaan,47,,
-7917PK,Beukenlaan,49,,
-7917PL,Beukenlaan,2,,
-7917PL,Beukenlaan,4,,
-7917PL,Beukenlaan,12,,
-7917PL,Beukenlaan,14,,
-7917PL,Beukenlaan,16,,
-7917PL,Beukenlaan,18,,
-7917PL,Beukenlaan,20,,
-7917PL,Beukenlaan,22,,
-7917PL,Beukenlaan,24,,
-7917PL,Beukenlaan,26,,
-7917RE,Boslaan,1,,
-7917RE,Boslaan,2,,
-7917RE,Boslaan,3,,
-7917RE,Boslaan,4,,
-7917RE,Boslaan,5,,
-7917RE,Boslaan,6,,
-7917RE,Boslaan,7,,
-7917RE,Boslaan,8,,
-7917RE,Boslaan,9,,
-7917RE,Boslaan,10,,
-7917RE,Boslaan,11,,
-7917RE,Boslaan,12,,
-7917RE,Boslaan,14,,
-7917PP,Coevorderstraatweg,1,,
-7917PP,Coevorderstraatweg,3,,
-7917PP,Coevorderstraatweg,5,a,
-7917PP,Coevorderstraatweg,5,,
-7917PP,Coevorderstraatweg,7,,
-7917PP,Coevorderstraatweg,9,,
-7917PP,Coevorderstraatweg,11,,
-7917PP,Coevorderstraatweg,13,,
-7917PP,Coevorderstraatweg,17,a,
-7917PP,Coevorderstraatweg,17,,
-7917PP,Coevorderstraatweg,19,,
-7917PP,Coevorderstraatweg,21,a,
-7917PP,Coevorderstraatweg,21,,
-7917PP,Coevorderstraatweg,23,,
-7917PP,Coevorderstraatweg,25,A,
-7917PP,Coevorderstraatweg,25,a,
-7917PP,Coevorderstraatweg,25,,
-7917PP,Coevorderstraatweg,27,,
-7917PP,Coevorderstraatweg,29,,
-7917PP,Coevorderstraatweg,31,a,4
-7917PP,Coevorderstraatweg,31,a,04
-7917PP,Coevorderstraatweg,31,a,5
-7917PP,Coevorderstraatweg,31,a,05
-7917PP,Coevorderstraatweg,31,a,BEDR
-7917PP,Coevorderstraatweg,31,a,
-7917PP,Coevorderstraatweg,31,b,
-7917PP,Coevorderstraatweg,31,c,
-7917PP,Coevorderstraatweg,31,d,
-7917PP,Coevorderstraatweg,31,,
-7917PP,Coevorderstraatweg,31,,
-7917PP,Coevorderstraatweg,33,,
-7917PP,Coevorderstraatweg,35,,
-7917PP,Coevorderstraatweg,39,,
-7917PP,Coevorderstraatweg,41,,
-7917PR,Coevorderstraatweg,6,,
-7917PR,Coevorderstraatweg,8,,
-7917PR,Coevorderstraatweg,10,,
-7917PR,Coevorderstraatweg,12,,
-7917PR,Coevorderstraatweg,14,a,
-7917PR,Coevorderstraatweg,14,b,
-7917PR,Coevorderstraatweg,14,,
-7917PR,Coevorderstraatweg,16,,
-7917PR,Coevorderstraatweg,18,,BY
-7917PR,Coevorderstraatweg,18,,
-7917PR,Coevorderstraatweg,20,,
-7917PR,Coevorderstraatweg,22,,
-7917PR,Coevorderstraatweg,24,,
-7917PR,Coevorderstraatweg,26,,
-7917PR,Coevorderstraatweg,30,,
-7917PR,Coevorderstraatweg,32,,
-7917PR,Coevorderstraatweg,34,a,
-7917PR,Coevorderstraatweg,34,,
-7917PR,Coevorderstraatweg,36,a,
-7917PR,Coevorderstraatweg,36,,
-7917PR,Coevorderstraatweg,38,,
-7917PN,Eikenlaan,2,,
-7917PN,Eikenlaan,4,,
-7917PN,Eikenlaan,6,,
-7917PN,Eikenlaan,8,,
-7917PN,Eikenlaan,10,,
-7917PN,Eikenlaan,12,,
-7917PN,Eikenlaan,14,,
-7917PN,Eikenlaan,16,,
-7917PN,Eikenlaan,18,,
-7917PN,Eikenlaan,20,,
-7917PN,Eikenlaan,22,,
-7917PH,Elslaan,1,,
-7917PH,Elslaan,3,,
-7917PH,Elslaan,5,,
-7917PH,Elslaan,7,,
-7917PH,Elslaan,9,,
-7917PH,Elslaan,11,,
-7917PH,Elslaan,13,,
-7917PH,Elslaan,15,,
-7917PH,Elslaan,17,,
-7917PH,Elslaan,19,,
-7917PH,Elslaan,21,,
-7917PH,Elslaan,23,,
-7917PH,Elslaan,25,,
-7917PH,Elslaan,27,,
-7917PH,Elslaan,29,,
-7917PH,Elslaan,31,,
-7917PH,Elslaan,33,,
-7917PH,Elslaan,35,,
-7917PH,Elslaan,37,,
-7917PH,Elslaan,39,,
-7917PH,Elslaan,41,,
-7917PH,Elslaan,43,,
-7917PH,Elslaan,45,,
-7917PH,Elslaan,47,,
-7917PH,Elslaan,49,,
-7917PJ,Elslaan,2,,
-7917PJ,Elslaan,4,,
-7917PJ,Elslaan,6,,
-7917PJ,Elslaan,8,,
-7917PJ,Elslaan,10,,
-7917PJ,Elslaan,12,,
-7917PJ,Elslaan,14,,
-7917PJ,Elslaan,16,,
-7917PM,Esdoornlaan,1,,
-7917PM,Esdoornlaan,2,,
-7917PM,Esdoornlaan,3,,
-7917PM,Esdoornlaan,4,,
-7917PM,Esdoornlaan,5,,
-7917PM,Esdoornlaan,6,,
-7917PM,Esdoornlaan,7,,
-7917PM,Esdoornlaan,8,,
-7917PM,Esdoornlaan,10,,
-7917PM,Esdoornlaan,12,,
-7917PM,Esdoornlaan,14,,
-7917PM,Esdoornlaan,16,,
-7917PM,Esdoornlaan,18,,
-7917PM,Esdoornlaan,20,,
-7917PM,Esdoornlaan,22,,
-7917PM,Esdoornlaan,24,,
-7917RD,Heidelaan,1,,
-7917RD,Heidelaan,2,,
-7917RD,Heidelaan,3,,
-7917RD,Heidelaan,4,,
-7917RD,Heidelaan,5,a,
-7917RD,Heidelaan,5,,
-7917RD,Heidelaan,6,,
-7917RD,Heidelaan,8,,
-7917RD,Heidelaan,10,,
-7917PW,Iepenlaan,1,,
-7917PW,Iepenlaan,3,,
-7917PW,Iepenlaan,4,,
-7917PW,Iepenlaan,5,,
-7917PW,Iepenlaan,6,,
-7917PW,Iepenlaan,7,,
-7917PW,Iepenlaan,8,,
-7917PW,Iepenlaan,9,,
-7917PW,Iepenlaan,10,,
-7917PW,Iepenlaan,11,,
-7917PW,Iepenlaan,13,,
-7917PW,Iepenlaan,15,,
-7917PW,Iepenlaan,16,,
-7917PW,Iepenlaan,18,,
-7917TB,Kanaalweg,2,,
-7917TB,Kanaalweg,4,,
-7917TB,Kanaalweg,6,,
-7917TB,Kanaalweg,8,,
-7917TB,Kanaalweg,10,,
-7917TB,Kanaalweg,12,,
-7917TB,Kanaalweg,14,,
-7917TB,Kanaalweg,16,,
-7917TB,Kanaalweg,18,,
-7917TB,Kanaalweg,20,a,
-7917TB,Kanaalweg,20,,
-7917TB,Kanaalweg,22,,
-7917TB,Kanaalweg,30,,
-7917TB,Kanaalweg,32,,
-7917TB,Kanaalweg,34,,
-7917TB,Kanaalweg,36,,
-7917TB,Kanaalweg,38,,
-7917TB,Kanaalweg,40,,
-7917TB,Kanaalweg,42,,
-7917TC,Kanaalweg,44,,
-7917TC,Kanaalweg,46,,
-7917TC,Kanaalweg,48,,
-7917TC,Kanaalweg,50,,
-7917TC,Kanaalweg,52,,
-7917TC,Kanaalweg,58,,
-7917TC,Kanaalweg,60,a,
-7917TC,Kanaalweg,54,,
-7917TC,Kanaalweg,60,,
-7917TJ,Lantschapsweg,1,,
-7917TJ,Lantschapsweg,2,,
-7917TJ,Lantschapsweg,3,,
-7917TJ,Lantschapsweg,5,,
-7917TJ,Lantschapsweg,7,,
-7917TJ,Lantschapsweg,8,,
-7917TJ,Lantschapsweg,10,,
-7917TJ,Lantschapsweg,12,,
-7917TJ,Lantschapsweg,14,,
-7917TJ,Lantschapsweg,16,,
-7917PG,Lijsterbeslaan,1,,
-7917PG,Lijsterbeslaan,2,,
-7917PG,Lijsterbeslaan,3,,
-7917PG,Lijsterbeslaan,4,,
-7917PG,Lijsterbeslaan,6,,
-7917PG,Lijsterbeslaan,8,,
-7917PG,Lijsterbeslaan,10,,
-7917PG,Lijsterbeslaan,12,,
-7917PE,Lindenlaan,2,,
-7917PE,Lindenlaan,4,,
-7917PE,Lindenlaan,6,,
-7917PE,Lindenlaan,8,,
-7917PE,Lindenlaan,9,,
-7917PE,Lindenlaan,10,,
-7917PE,Lindenlaan,10,,
-7917PE,Lindenlaan,11,,
-7917PE,Lindenlaan,12,,
-7917PE,Lindenlaan,13,,
-7917PE,Lindenlaan,14,,
-7917PE,Lindenlaan,15,,
-7917PE,Lindenlaan,16,,
-7917PE,Lindenlaan,17,,
-7917PE,Lindenlaan,18,,
-7917PE,Lindenlaan,19,,
-7917PE,Lindenlaan,20,,
-7917PE,Lindenlaan,21,,
-7917PE,Lindenlaan,22,,
-7917PE,Lindenlaan,23,,
-7917PE,Lindenlaan,25,,
-7917PE,Lindenlaan,27,,
-7917PE,Lindenlaan,29,,
-7917PE,Lindenlaan,31,,
-7917PE,Lindenlaan,33,,
-7917PE,Lindenlaan,35,,
-7917PC,Meidoornlaan,1,,BOX
-7917PC,Meidoornlaan,1,,
-7917PC,Meidoornlaan,3,,BOX
-7917PC,Meidoornlaan,3,,
-7917PC,Meidoornlaan,5,,BOX
-7917PC,Meidoornlaan,5,,
-7917PC,Meidoornlaan,7,,BOX
-7917PC,Meidoornlaan,7,,
-7917PC,Meidoornlaan,9,,BOX
-7917PC,Meidoornlaan,9,,
-7917PC,Meidoornlaan,11,,BOX
-7917PC,Meidoornlaan,11,,
-7917PC,Meidoornlaan,13,,BOX
-7917PC,Meidoornlaan,17,,
-7917PC,Meidoornlaan,19,,
-7917PC,Meidoornlaan,21,,
-7917PC,Meidoornlaan,23,,
-7917PC,Meidoornlaan,25,,
-7917PC,Meidoornlaan,27,,
-7917PC,Meidoornlaan,29,,
-7917PC,Meidoornlaan,31,,
-7917PD,Meidoornlaan,2,,BOX
-7917PD,Meidoornlaan,2,,
-7917PD,Meidoornlaan,4,,BOX
-7917PD,Meidoornlaan,4,,
-7917PD,Meidoornlaan,6,,BOX
-7917PD,Meidoornlaan,6,,
-7917PD,Meidoornlaan,8,,BOX
-7917PD,Meidoornlaan,8,,
-7917PD,Meidoornlaan,10,,BOX
-7917PD,Meidoornlaan,10,,
-7917PD,Meidoornlaan,12,,BOX
-7917PD,Meidoornlaan,12,,
-7917PD,Meidoornlaan,14,,BOX
-7917PD,Meidoornlaan,14,,
-7917PD,Meidoornlaan,16,,
-7917PD,Meidoornlaan,18,,
-7917PD,Meidoornlaan,20,,
-7917PD,Meidoornlaan,22,,
-7917PD,Meidoornlaan,24,,
-7917PD,Meidoornlaan,26,,
-7917PD,Meidoornlaan,28,,
-7917PD,Meidoornlaan,30,,
-7917PD,Meidoornlaan,32,,
-7917PD,Meidoornlaan,34,,
-7917PD,Meidoornlaan,36,,
-7917PD,Meidoornlaan,38,,
-7917PT,Verl Hoogeveense Vaart,81,,
-7917PT,Verl Hoogeveense Vaart,83,a,
-7917PT,Verl Hoogeveense Vaart,83,,
-7917PT,Verl Hoogeveense Vaart,85,,
-7917PT,Verl Hoogeveense Vaart,87,,
-7917PT,Verl Hoogeveense Vaart,89,,
-7917PT,Verl Hoogeveense Vaart,91,a,
-7917PT,Verl Hoogeveense Vaart,91,b,
-7917PT,Verl Hoogeveense Vaart,91,,
-7917PT,Verl Hoogeveense Vaart,93,a,
-7917PT,Verl Hoogeveense Vaart,93,,
-7917PT,Verl Hoogeveense Vaart,95,a,
-7917PT,Verl Hoogeveense Vaart,95,,
-7917PT,Verl Hoogeveense Vaart,97,a,
-7917PT,Verl Hoogeveense Vaart,97,,
-7917PT,Verl Hoogeveense Vaart,99,a,
-7917PT,Verl Hoogeveense Vaart,99,,
-7917PT,Verl Hoogeveense Vaart,101,,
-7917PV,Verl Hoogeveense Vaart,106,A,
-7917PV,Verl Hoogeveense Vaart,106,a,
-7917PV,Verl Hoogeveense Vaart,106,,
-7917PV,Verl Hoogeveense Vaart,108,,
-7917PV,Verl Hoogeveense Vaart,110,,
-7917PV,Verl Hoogeveense Vaart,114,,
-7917PV,Verl Hoogeveense Vaart,116,,BEDR
-7917PV,Verl Hoogeveense Vaart,116,,
-7917TD,Verl Hoogeveense Vaart,103,,
-7917TD,Verl Hoogeveense Vaart,105,,
-7917TD,Verl Hoogeveense Vaart,107,a,
-7917TD,Verl Hoogeveense Vaart,107,,
-7917TD,Verl Hoogeveense Vaart,109,,
-7917TD,Verl Hoogeveense Vaart,113,,
-7917TD,Verl Hoogeveense Vaart,115,,
-7917TD,Verl Hoogeveense Vaart,125,,
-7917TD,Verl Hoogeveense Vaart,129,,
-7917TD,Verl Hoogeveense Vaart,131,,
-7917TD,Verl Hoogeveense Vaart,133,,
-7917TD,Verl Hoogeveense Vaart,139,,
-7917TG,Verl Hoogeveense Vaart,118,,
-7917TG,Verl Hoogeveense Vaart,120,,
-7917TG,Verl Hoogeveense Vaart,122,,
-7917TG,Verl Hoogeveense Vaart,124,,
-7917TG,Verl Hoogeveense Vaart,126,,
-7917TG,Verl Hoogeveense Vaart,128,,
-7917TG,Verl Hoogeveense Vaart,130,,SCHU
-7917TG,Verl Hoogeveense Vaart,130,,
-7917TG,Verl Hoogeveense Vaart,132,,
-7917TG,Verl Hoogeveense Vaart,134,,
-7917TG,Verl Hoogeveense Vaart,136,,
-7917TG,Verl Hoogeveense Vaart,138,,
-7917TG,Verl Hoogeveense Vaart,140,,
-7917TG,Verl Hoogeveense Vaart,142,,
-7917TG,Verl Hoogeveense Vaart,144,,
-7917TG,Verl Hoogeveense Vaart,146,,
-7917TG,Verl Hoogeveense Vaart,148,,
-7917TG,Verl Hoogeveense Vaart,150,,
-7917TG,Verl Hoogeveense Vaart,152,a,
-7917TG,Verl Hoogeveense Vaart,152,,
-7917TG,Verl Hoogeveense Vaart,154,,
-7917TG,Verl Hoogeveense Vaart,156,a,
-7917TG,Verl Hoogeveense Vaart,156,,
-7917PB,Berkenlaan,8,,
-7917PB,Berkenlaan,8,a,
-7917PB,Berkenlaan,8,b,
-7917PB,Berkenlaan,8,c,
-7917RE,Boslaan,16,,
-7917RE,Boslaan,18,,
-7917RE,Boslaan,20,,
-7917RE,Boslaan,22,,
-7917RE,Boslaan,26,,
-7917RE,Boslaan,24,,
-7917RE,Boslaan,28,,
-7917RE,Boslaan,13,,
-7917RE,Boslaan,48,,
-7917RE,Boslaan,25,,
-7917RE,Boslaan,25,,
-7917RE,Boslaan,25,,
-7917RE,Boslaan,30,,
-7917RE,Boslaan,30,,
-7917RE,Boslaan,32,,
-7917RE,Boslaan,30,,
-7917RE,Boslaan,17,,
-7917RE,Boslaan,15,,
-7917RE,Boslaan,38,,
-7917RE,Boslaan,23,,
-7917RE,Boslaan,21,,
-7917RE,Boslaan,44,,
-7917RE,Boslaan,46,,
-7917RE,Boslaan,42,,
-7917RE,Boslaan,34,,
-7917RE,Boslaan,36,,
-7917RE,Boslaan,34,,
-7917RE,Boslaan,34,,
-7917PP,Coevorderstraatweg,31,c,2
-7917PP,Coevorderstraatweg,31,c,
-7917PP,Coevorderstraatweg,31,c,1
-7917PP,Coevorderstraatweg,31,c,1
-7917PP,Coevorderstraatweg,31,c,3
-7917PP,Coevorderstraatweg,21,a,
-7917PR,Coevorderstraatweg,24,a,
-7917PT,Verl Hoogeveense Vaart,81,a,08
-7917PT,Verl Hoogeveense Vaart,81,a,08
-7917PT,Verl Hoogeveense Vaart,81,a,08
-7917PT,Verl Hoogeveense Vaart,81,a,07
-7917PT,Verl Hoogeveense Vaart,81,a,06
-7917PT,Verl Hoogeveense Vaart,81,a,09
-7917PT,Verl Hoogeveense Vaart,81,a,12
-7917PT,Verl Hoogeveense Vaart,81,a,11
-7917PT,Verl Hoogeveense Vaart,81,a,10
-7917PT,Verl Hoogeveense Vaart,81,a,01
-7917PT,Verl Hoogeveense Vaart,81,a,
-7917PT,Verl Hoogeveense Vaart,81,,
-7917PT,Verl Hoogeveense Vaart,81,a,02
-7917PT,Verl Hoogeveense Vaart,81,a,05
-7917PT,Verl Hoogeveense Vaart,81,a,04
-7917PT,Verl Hoogeveense Vaart,81,a,03
-7917PT,Verl Hoogeveense Vaart,81,a,13
-7917PT,Verl Hoogeveense Vaart,81,a,07
-7917TD,Verl Hoogeveense Vaart,107,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Berkenlaan,1,"","",7917PA,Geesbrug
+Berkenlaan,11,A,"",7917PA,Geesbrug
+Berkenlaan,11,B,"",7917PA,Geesbrug
+Berkenlaan,13,"","",7917PA,Geesbrug
+Berkenlaan,15,"","",7917PA,Geesbrug
+Berkenlaan,17,"","",7917PA,Geesbrug
+Berkenlaan,19,"","",7917PA,Geesbrug
+Berkenlaan,3,"","",7917PA,Geesbrug
+Berkenlaan,5,"","",7917PA,Geesbrug
+Berkenlaan,5,A,"",7917PA,Geesbrug
+Berkenlaan,7,"","",7917PA,Geesbrug
+Berkenlaan,9,"","",7917PA,Geesbrug
+Berkenlaan,12,"","",7917PB,Geesbrug
+Berkenlaan,14,"","",7917PB,Geesbrug
+Berkenlaan,16,"","",7917PB,Geesbrug
+Berkenlaan,18,"","",7917PB,Geesbrug
+Berkenlaan,2,"","",7917PB,Geesbrug
+Berkenlaan,20,"","",7917PB,Geesbrug
+Berkenlaan,21,"","",7917PB,Geesbrug
+Berkenlaan,23,"","",7917PB,Geesbrug
+Berkenlaan,25,"","",7917PB,Geesbrug
+Berkenlaan,27,"","",7917PB,Geesbrug
+Berkenlaan,29,"","",7917PB,Geesbrug
+Berkenlaan,31,"","",7917PB,Geesbrug
+Berkenlaan,33,"","",7917PB,Geesbrug
+Berkenlaan,35,"","",7917PB,Geesbrug
+Berkenlaan,37,"","",7917PB,Geesbrug
+Berkenlaan,4,"","",7917PB,Geesbrug
+Berkenlaan,41,"","",7917PB,Geesbrug
+Berkenlaan,45,"","",7917PB,Geesbrug
+Berkenlaan,6,"","",7917PB,Geesbrug
+Berkenlaan,8,"","",7917PB,Geesbrug
+Berkenlaan,8,"","",7917PB,Geesbrug
+Berkenlaan,8,"","",7917PB,Geesbrug
+Berkenlaan,8,A,"",7917PB,Geesbrug
+Berkenlaan,8,B,"",7917PB,Geesbrug
+Berkenlaan,8,C,"",7917PB,Geesbrug
+Meidoornlaan,1,"","",7917PC,Geesbrug
+Meidoornlaan,1,"",BOX,7917PC,Geesbrug
+Meidoornlaan,11,"","",7917PC,Geesbrug
+Meidoornlaan,11,"",BOX,7917PC,Geesbrug
+Meidoornlaan,13,"",BOX,7917PC,Geesbrug
+Meidoornlaan,17,"","",7917PC,Geesbrug
+Meidoornlaan,19,"","",7917PC,Geesbrug
+Meidoornlaan,21,"","",7917PC,Geesbrug
+Meidoornlaan,23,"","",7917PC,Geesbrug
+Meidoornlaan,25,"","",7917PC,Geesbrug
+Meidoornlaan,27,"","",7917PC,Geesbrug
+Meidoornlaan,29,"","",7917PC,Geesbrug
+Meidoornlaan,3,"","",7917PC,Geesbrug
+Meidoornlaan,3,"",BOX,7917PC,Geesbrug
+Meidoornlaan,31,"","",7917PC,Geesbrug
+Meidoornlaan,5,"","",7917PC,Geesbrug
+Meidoornlaan,5,"",BOX,7917PC,Geesbrug
+Meidoornlaan,7,"","",7917PC,Geesbrug
+Meidoornlaan,7,"",BOX,7917PC,Geesbrug
+Meidoornlaan,9,"","",7917PC,Geesbrug
+Meidoornlaan,9,"",BOX,7917PC,Geesbrug
+Meidoornlaan,10,"","",7917PD,Geesbrug
+Meidoornlaan,10,"",BOX,7917PD,Geesbrug
+Meidoornlaan,12,"","",7917PD,Geesbrug
+Meidoornlaan,12,"",BOX,7917PD,Geesbrug
+Meidoornlaan,14,"","",7917PD,Geesbrug
+Meidoornlaan,14,"",BOX,7917PD,Geesbrug
+Meidoornlaan,16,"","",7917PD,Geesbrug
+Meidoornlaan,18,"","",7917PD,Geesbrug
+Meidoornlaan,2,"","",7917PD,Geesbrug
+Meidoornlaan,2,"",BOX,7917PD,Geesbrug
+Meidoornlaan,20,"","",7917PD,Geesbrug
+Meidoornlaan,22,"","",7917PD,Geesbrug
+Meidoornlaan,24,"","",7917PD,Geesbrug
+Meidoornlaan,26,"","",7917PD,Geesbrug
+Meidoornlaan,28,"","",7917PD,Geesbrug
+Meidoornlaan,30,"","",7917PD,Geesbrug
+Meidoornlaan,32,"","",7917PD,Geesbrug
+Meidoornlaan,34,"","",7917PD,Geesbrug
+Meidoornlaan,36,"","",7917PD,Geesbrug
+Meidoornlaan,38,"","",7917PD,Geesbrug
+Meidoornlaan,4,"","",7917PD,Geesbrug
+Meidoornlaan,4,"",BOX,7917PD,Geesbrug
+Meidoornlaan,6,"","",7917PD,Geesbrug
+Meidoornlaan,6,"",BOX,7917PD,Geesbrug
+Meidoornlaan,8,"","",7917PD,Geesbrug
+Meidoornlaan,8,"",BOX,7917PD,Geesbrug
+Lindenlaan,10,"","",7917PE,Geesbrug
+Lindenlaan,10,"","",7917PE,Geesbrug
+Lindenlaan,11,"","",7917PE,Geesbrug
+Lindenlaan,12,"","",7917PE,Geesbrug
+Lindenlaan,13,"","",7917PE,Geesbrug
+Lindenlaan,14,"","",7917PE,Geesbrug
+Lindenlaan,15,"","",7917PE,Geesbrug
+Lindenlaan,16,"","",7917PE,Geesbrug
+Lindenlaan,17,"","",7917PE,Geesbrug
+Lindenlaan,18,"","",7917PE,Geesbrug
+Lindenlaan,19,"","",7917PE,Geesbrug
+Lindenlaan,2,"","",7917PE,Geesbrug
+Lindenlaan,20,"","",7917PE,Geesbrug
+Lindenlaan,21,"","",7917PE,Geesbrug
+Lindenlaan,22,"","",7917PE,Geesbrug
+Lindenlaan,23,"","",7917PE,Geesbrug
+Lindenlaan,25,"","",7917PE,Geesbrug
+Lindenlaan,27,"","",7917PE,Geesbrug
+Lindenlaan,29,"","",7917PE,Geesbrug
+Lindenlaan,31,"","",7917PE,Geesbrug
+Lindenlaan,33,"","",7917PE,Geesbrug
+Lindenlaan,35,"","",7917PE,Geesbrug
+Lindenlaan,4,"","",7917PE,Geesbrug
+Lindenlaan,6,"","",7917PE,Geesbrug
+Lindenlaan,8,"","",7917PE,Geesbrug
+Lindenlaan,9,"","",7917PE,Geesbrug
+Lijsterbeslaan,1,"","",7917PG,Geesbrug
+Lijsterbeslaan,10,"","",7917PG,Geesbrug
+Lijsterbeslaan,12,"","",7917PG,Geesbrug
+Lijsterbeslaan,2,"","",7917PG,Geesbrug
+Lijsterbeslaan,3,"","",7917PG,Geesbrug
+Lijsterbeslaan,4,"","",7917PG,Geesbrug
+Lijsterbeslaan,6,"","",7917PG,Geesbrug
+Lijsterbeslaan,8,"","",7917PG,Geesbrug
+Elslaan,1,"","",7917PH,Geesbrug
+Elslaan,11,"","",7917PH,Geesbrug
+Elslaan,13,"","",7917PH,Geesbrug
+Elslaan,15,"","",7917PH,Geesbrug
+Elslaan,17,"","",7917PH,Geesbrug
+Elslaan,19,"","",7917PH,Geesbrug
+Elslaan,21,"","",7917PH,Geesbrug
+Elslaan,23,"","",7917PH,Geesbrug
+Elslaan,25,"","",7917PH,Geesbrug
+Elslaan,27,"","",7917PH,Geesbrug
+Elslaan,29,"","",7917PH,Geesbrug
+Elslaan,3,"","",7917PH,Geesbrug
+Elslaan,31,"","",7917PH,Geesbrug
+Elslaan,33,"","",7917PH,Geesbrug
+Elslaan,35,"","",7917PH,Geesbrug
+Elslaan,37,"","",7917PH,Geesbrug
+Elslaan,39,"","",7917PH,Geesbrug
+Elslaan,41,"","",7917PH,Geesbrug
+Elslaan,43,"","",7917PH,Geesbrug
+Elslaan,45,"","",7917PH,Geesbrug
+Elslaan,47,"","",7917PH,Geesbrug
+Elslaan,49,"","",7917PH,Geesbrug
+Elslaan,5,"","",7917PH,Geesbrug
+Elslaan,7,"","",7917PH,Geesbrug
+Elslaan,9,"","",7917PH,Geesbrug
+Elslaan,10,"","",7917PJ,Geesbrug
+Elslaan,12,"","",7917PJ,Geesbrug
+Elslaan,14,"","",7917PJ,Geesbrug
+Elslaan,16,"","",7917PJ,Geesbrug
+Elslaan,2,"","",7917PJ,Geesbrug
+Elslaan,4,"","",7917PJ,Geesbrug
+Elslaan,6,"","",7917PJ,Geesbrug
+Elslaan,8,"","",7917PJ,Geesbrug
+Beukenlaan,11,"","",7917PK,Geesbrug
+Beukenlaan,13,"","",7917PK,Geesbrug
+Beukenlaan,15,"","",7917PK,Geesbrug
+Beukenlaan,17,"","",7917PK,Geesbrug
+Beukenlaan,19,"","",7917PK,Geesbrug
+Beukenlaan,21,"","",7917PK,Geesbrug
+Beukenlaan,23,"","",7917PK,Geesbrug
+Beukenlaan,25,"","",7917PK,Geesbrug
+Beukenlaan,27,"","",7917PK,Geesbrug
+Beukenlaan,29,"","",7917PK,Geesbrug
+Beukenlaan,3,"","",7917PK,Geesbrug
+Beukenlaan,31,"","",7917PK,Geesbrug
+Beukenlaan,33,"","",7917PK,Geesbrug
+Beukenlaan,35,"","",7917PK,Geesbrug
+Beukenlaan,37,"","",7917PK,Geesbrug
+Beukenlaan,39,"","",7917PK,Geesbrug
+Beukenlaan,41,"","",7917PK,Geesbrug
+Beukenlaan,47,"","",7917PK,Geesbrug
+Beukenlaan,49,"","",7917PK,Geesbrug
+Beukenlaan,5,"","",7917PK,Geesbrug
+Beukenlaan,7,"","",7917PK,Geesbrug
+Beukenlaan,9,"","",7917PK,Geesbrug
+Beukenlaan,12,"","",7917PL,Geesbrug
+Beukenlaan,14,"","",7917PL,Geesbrug
+Beukenlaan,16,"","",7917PL,Geesbrug
+Beukenlaan,18,"","",7917PL,Geesbrug
+Beukenlaan,2,"","",7917PL,Geesbrug
+Beukenlaan,20,"","",7917PL,Geesbrug
+Beukenlaan,22,"","",7917PL,Geesbrug
+Beukenlaan,24,"","",7917PL,Geesbrug
+Beukenlaan,26,"","",7917PL,Geesbrug
+Beukenlaan,4,"","",7917PL,Geesbrug
+Esdoornlaan,1,"","",7917PM,Geesbrug
+Esdoornlaan,10,"","",7917PM,Geesbrug
+Esdoornlaan,12,"","",7917PM,Geesbrug
+Esdoornlaan,14,"","",7917PM,Geesbrug
+Esdoornlaan,16,"","",7917PM,Geesbrug
+Esdoornlaan,18,"","",7917PM,Geesbrug
+Esdoornlaan,2,"","",7917PM,Geesbrug
+Esdoornlaan,20,"","",7917PM,Geesbrug
+Esdoornlaan,22,"","",7917PM,Geesbrug
+Esdoornlaan,24,"","",7917PM,Geesbrug
+Esdoornlaan,3,"","",7917PM,Geesbrug
+Esdoornlaan,4,"","",7917PM,Geesbrug
+Esdoornlaan,5,"","",7917PM,Geesbrug
+Esdoornlaan,6,"","",7917PM,Geesbrug
+Esdoornlaan,7,"","",7917PM,Geesbrug
+Esdoornlaan,8,"","",7917PM,Geesbrug
+Eikenlaan,10,"","",7917PN,Geesbrug
+Eikenlaan,12,"","",7917PN,Geesbrug
+Eikenlaan,14,"","",7917PN,Geesbrug
+Eikenlaan,16,"","",7917PN,Geesbrug
+Eikenlaan,18,"","",7917PN,Geesbrug
+Eikenlaan,2,"","",7917PN,Geesbrug
+Eikenlaan,20,"","",7917PN,Geesbrug
+Eikenlaan,22,"","",7917PN,Geesbrug
+Eikenlaan,4,"","",7917PN,Geesbrug
+Eikenlaan,6,"","",7917PN,Geesbrug
+Eikenlaan,8,"","",7917PN,Geesbrug
+Coevorderstraatweg,1,"","",7917PP,Geesbrug
+Coevorderstraatweg,11,"","",7917PP,Geesbrug
+Coevorderstraatweg,13,"","",7917PP,Geesbrug
+Coevorderstraatweg,17,"","",7917PP,Geesbrug
+Coevorderstraatweg,17,A,"",7917PP,Geesbrug
+Coevorderstraatweg,19,"","",7917PP,Geesbrug
+Coevorderstraatweg,21,"","",7917PP,Geesbrug
+Coevorderstraatweg,21,A,"",7917PP,Geesbrug
+Coevorderstraatweg,21,A,"",7917PP,Geesbrug
+Coevorderstraatweg,21,A,"",7917PP,Geesbrug
+Coevorderstraatweg,23,"","",7917PP,Geesbrug
+Coevorderstraatweg,25,"","",7917PP,Geesbrug
+Coevorderstraatweg,25,A,"",7917PP,Geesbrug
+Coevorderstraatweg,25,A,"",7917PP,Geesbrug
+Coevorderstraatweg,27,"","",7917PP,Geesbrug
+Coevorderstraatweg,29,"","",7917PP,Geesbrug
+Coevorderstraatweg,3,"","",7917PP,Geesbrug
+Coevorderstraatweg,31,"","",7917PP,Geesbrug
+Coevorderstraatweg,31,"","",7917PP,Geesbrug
+Coevorderstraatweg,31,"","",7917PP,Geesbrug
+Coevorderstraatweg,31,A,"",7917PP,Geesbrug
+Coevorderstraatweg,31,A,04,7917PP,Geesbrug
+Coevorderstraatweg,31,A,05,7917PP,Geesbrug
+Coevorderstraatweg,31,A,4,7917PP,Geesbrug
+Coevorderstraatweg,31,A,5,7917PP,Geesbrug
+Coevorderstraatweg,31,A,BEDR,7917PP,Geesbrug
+Coevorderstraatweg,31,B,"",7917PP,Geesbrug
+Coevorderstraatweg,31,C,"",7917PP,Geesbrug
+Coevorderstraatweg,31,C,"",7917PP,Geesbrug
+Coevorderstraatweg,31,C,"",7917PP,Geesbrug
+Coevorderstraatweg,31,C,1,7917PP,Geesbrug
+Coevorderstraatweg,31,C,1,7917PP,Geesbrug
+Coevorderstraatweg,31,C,2,7917PP,Geesbrug
+Coevorderstraatweg,31,C,3,7917PP,Geesbrug
+Coevorderstraatweg,31,D,"",7917PP,Geesbrug
+Coevorderstraatweg,33,"","",7917PP,Geesbrug
+Coevorderstraatweg,35,"","",7917PP,Geesbrug
+Coevorderstraatweg,39,"","",7917PP,Geesbrug
+Coevorderstraatweg,41,"","",7917PP,Geesbrug
+Coevorderstraatweg,5,"","",7917PP,Geesbrug
+Coevorderstraatweg,5,A,"",7917PP,Geesbrug
+Coevorderstraatweg,7,"","",7917PP,Geesbrug
+Coevorderstraatweg,9,"","",7917PP,Geesbrug
+Coevorderstraatweg,10,"","",7917PR,Geesbrug
+Coevorderstraatweg,12,"","",7917PR,Geesbrug
+Coevorderstraatweg,14,"","",7917PR,Geesbrug
+Coevorderstraatweg,14,A,"",7917PR,Geesbrug
+Coevorderstraatweg,14,B,"",7917PR,Geesbrug
+Coevorderstraatweg,16,"","",7917PR,Geesbrug
+Coevorderstraatweg,18,"","",7917PR,Geesbrug
+Coevorderstraatweg,18,"",BY,7917PR,Geesbrug
+Coevorderstraatweg,20,"","",7917PR,Geesbrug
+Coevorderstraatweg,22,"","",7917PR,Geesbrug
+Coevorderstraatweg,24,"","",7917PR,Geesbrug
+Coevorderstraatweg,24,A,"",7917PR,Geesbrug
+Coevorderstraatweg,26,"","",7917PR,Geesbrug
+Coevorderstraatweg,30,"","",7917PR,Geesbrug
+Coevorderstraatweg,32,"","",7917PR,Geesbrug
+Coevorderstraatweg,34,"","",7917PR,Geesbrug
+Coevorderstraatweg,34,A,"",7917PR,Geesbrug
+Coevorderstraatweg,36,"","",7917PR,Geesbrug
+Coevorderstraatweg,36,A,"",7917PR,Geesbrug
+Coevorderstraatweg,38,"","",7917PR,Geesbrug
+Coevorderstraatweg,6,"","",7917PR,Geesbrug
+Coevorderstraatweg,8,"","",7917PR,Geesbrug
+Verl Hoogeveense Vaart,101,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,01,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,01,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,02,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,02,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,03,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,03,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,04,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,05,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,06,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,07,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,07,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,07,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,08,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,08,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,08,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,09,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,10,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,11,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,12,7917PT,Geesbrug
+Verl Hoogeveense Vaart,81,A,13,7917PT,Geesbrug
+Verl Hoogeveense Vaart,83,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,83,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,85,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,87,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,89,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,91,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,91,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,91,B,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,93,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,93,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,95,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,95,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,97,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,97,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,99,"","",7917PT,Geesbrug
+Verl Hoogeveense Vaart,99,A,"",7917PT,Geesbrug
+Verl Hoogeveense Vaart,106,"","",7917PV,Geesbrug
+Verl Hoogeveense Vaart,106,A,"",7917PV,Geesbrug
+Verl Hoogeveense Vaart,106,A,"",7917PV,Geesbrug
+Verl Hoogeveense Vaart,108,"","",7917PV,Geesbrug
+Verl Hoogeveense Vaart,110,"","",7917PV,Geesbrug
+Verl Hoogeveense Vaart,114,"","",7917PV,Geesbrug
+Verl Hoogeveense Vaart,116,"","",7917PV,Geesbrug
+Verl Hoogeveense Vaart,116,"",BEDR,7917PV,Geesbrug
+Iepenlaan,1,"","",7917PW,Geesbrug
+Iepenlaan,10,"","",7917PW,Geesbrug
+Iepenlaan,11,"","",7917PW,Geesbrug
+Iepenlaan,13,"","",7917PW,Geesbrug
+Iepenlaan,15,"","",7917PW,Geesbrug
+Iepenlaan,16,"","",7917PW,Geesbrug
+Iepenlaan,18,"","",7917PW,Geesbrug
+Iepenlaan,3,"","",7917PW,Geesbrug
+Iepenlaan,4,"","",7917PW,Geesbrug
+Iepenlaan,5,"","",7917PW,Geesbrug
+Iepenlaan,6,"","",7917PW,Geesbrug
+Iepenlaan,7,"","",7917PW,Geesbrug
+Iepenlaan,8,"","",7917PW,Geesbrug
+Iepenlaan,9,"","",7917PW,Geesbrug
+Heidelaan,1,"","",7917RD,Geesbrug
+Heidelaan,10,"","",7917RD,Geesbrug
+Heidelaan,2,"","",7917RD,Geesbrug
+Heidelaan,3,"","",7917RD,Geesbrug
+Heidelaan,4,"","",7917RD,Geesbrug
+Heidelaan,5,"","",7917RD,Geesbrug
+Heidelaan,5,A,"",7917RD,Geesbrug
+Heidelaan,6,"","",7917RD,Geesbrug
+Heidelaan,8,"","",7917RD,Geesbrug
+Boslaan,1,"","",7917RE,Geesbrug
+Boslaan,10,"","",7917RE,Geesbrug
+Boslaan,11,"","",7917RE,Geesbrug
+Boslaan,12,"","",7917RE,Geesbrug
+Boslaan,13,"","",7917RE,Geesbrug
+Boslaan,14,"","",7917RE,Geesbrug
+Boslaan,15,"","",7917RE,Geesbrug
+Boslaan,16,"","",7917RE,Geesbrug
+Boslaan,17,"","",7917RE,Geesbrug
+Boslaan,18,"","",7917RE,Geesbrug
+Boslaan,2,"","",7917RE,Geesbrug
+Boslaan,20,"","",7917RE,Geesbrug
+Boslaan,21,"","",7917RE,Geesbrug
+Boslaan,22,"","",7917RE,Geesbrug
+Boslaan,23,"","",7917RE,Geesbrug
+Boslaan,24,"","",7917RE,Geesbrug
+Boslaan,25,"","",7917RE,Geesbrug
+Boslaan,25,"","",7917RE,Geesbrug
+Boslaan,25,"","",7917RE,Geesbrug
+Boslaan,25,"","",7917RE,Geesbrug
+Boslaan,26,"","",7917RE,Geesbrug
+Boslaan,28,"","",7917RE,Geesbrug
+Boslaan,3,"","",7917RE,Geesbrug
+Boslaan,30,"","",7917RE,Geesbrug
+Boslaan,30,"","",7917RE,Geesbrug
+Boslaan,30,"","",7917RE,Geesbrug
+Boslaan,30,"","",7917RE,Geesbrug
+Boslaan,32,"","",7917RE,Geesbrug
+Boslaan,34,"","",7917RE,Geesbrug
+Boslaan,34,"","",7917RE,Geesbrug
+Boslaan,34,"","",7917RE,Geesbrug
+Boslaan,34,"","",7917RE,Geesbrug
+Boslaan,36,"","",7917RE,Geesbrug
+Boslaan,38,"","",7917RE,Geesbrug
+Boslaan,4,"","",7917RE,Geesbrug
+Boslaan,42,"","",7917RE,Geesbrug
+Boslaan,44,"","",7917RE,Geesbrug
+Boslaan,46,"","",7917RE,Geesbrug
+Boslaan,48,"","",7917RE,Geesbrug
+Boslaan,5,"","",7917RE,Geesbrug
+Boslaan,6,"","",7917RE,Geesbrug
+Boslaan,7,"","",7917RE,Geesbrug
+Boslaan,8,"","",7917RE,Geesbrug
+Boslaan,9,"","",7917RE,Geesbrug
+Kanaalweg,10,"","",7917TB,Geesbrug
+Kanaalweg,12,"","",7917TB,Geesbrug
+Kanaalweg,14,"","",7917TB,Geesbrug
+Kanaalweg,16,"","",7917TB,Geesbrug
+Kanaalweg,18,"","",7917TB,Geesbrug
+Kanaalweg,2,"","",7917TB,Geesbrug
+Kanaalweg,20,"","",7917TB,Geesbrug
+Kanaalweg,20,A,"",7917TB,Geesbrug
+Kanaalweg,22,"","",7917TB,Geesbrug
+Kanaalweg,30,"","",7917TB,Geesbrug
+Kanaalweg,32,"","",7917TB,Geesbrug
+Kanaalweg,34,"","",7917TB,Geesbrug
+Kanaalweg,36,"","",7917TB,Geesbrug
+Kanaalweg,38,"","",7917TB,Geesbrug
+Kanaalweg,4,"","",7917TB,Geesbrug
+Kanaalweg,40,"","",7917TB,Geesbrug
+Kanaalweg,42,"","",7917TB,Geesbrug
+Kanaalweg,6,"","",7917TB,Geesbrug
+Kanaalweg,8,"","",7917TB,Geesbrug
+Kanaalweg,44,"","",7917TC,Geesbrug
+Kanaalweg,46,"","",7917TC,Geesbrug
+Kanaalweg,48,"","",7917TC,Geesbrug
+Kanaalweg,50,"","",7917TC,Geesbrug
+Kanaalweg,52,"","",7917TC,Geesbrug
+Kanaalweg,54,"","",7917TC,Geesbrug
+Kanaalweg,58,"","",7917TC,Geesbrug
+Kanaalweg,60,"","",7917TC,Geesbrug
+Kanaalweg,60,A,"",7917TC,Geesbrug
+Verl Hoogeveense Vaart,103,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,105,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,107,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,107,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,107,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,107,A,"",7917TD,Geesbrug
+Verl Hoogeveense Vaart,107,A,"",7917TD,Geesbrug
+Verl Hoogeveense Vaart,109,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,113,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,115,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,125,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,129,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,131,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,133,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,139,"","",7917TD,Geesbrug
+Verl Hoogeveense Vaart,118,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,120,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,122,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,124,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,126,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,128,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,130,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,130,"",SCHU,7917TG,Geesbrug
+Verl Hoogeveense Vaart,132,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,134,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,136,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,138,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,140,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,142,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,144,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,146,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,148,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,150,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,152,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,152,A,"",7917TG,Geesbrug
+Verl Hoogeveense Vaart,154,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,156,"","",7917TG,Geesbrug
+Verl Hoogeveense Vaart,156,A,"",7917TG,Geesbrug
+Lantschapsweg,1,"","",7917TJ,Geesbrug
+Lantschapsweg,10,"","",7917TJ,Geesbrug
+Lantschapsweg,12,"","",7917TJ,Geesbrug
+Lantschapsweg,14,"","",7917TJ,Geesbrug
+Lantschapsweg,16,"","",7917TJ,Geesbrug
+Lantschapsweg,2,"","",7917TJ,Geesbrug
+Lantschapsweg,3,"","",7917TJ,Geesbrug
+Lantschapsweg,5,"","",7917TJ,Geesbrug
+Lantschapsweg,7,"","",7917TJ,Geesbrug
+Lantschapsweg,8,"","",7917TJ,Geesbrug

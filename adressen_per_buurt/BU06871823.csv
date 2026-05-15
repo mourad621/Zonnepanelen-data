@@ -1,19 +1,19 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4334SJ,Walcherseweg,254,,
-4334SJ,Walcherseweg,256,A,
-4334SJ,Walcherseweg,256,,
-4334SJ,Walcherseweg,258,,
-4334SJ,Walcherseweg,252,,
-4334SJ,Walcherseweg,256,B,
-4334SJ,Walcherseweg,258,A,
-4334SJ,Walcherseweg,258,B,
-4334SJ,Walcherseweg,256,C,
-4334SJ,Walcherseweg,256,,
-4334SJ,Walcherseweg,254,A,
-4334SJ,Walcherseweg,254,B,
-4334TA,Stenen Kruisweg,2,,
-4334TA,Stenen Kruisweg,2,,
-4334TA,Stenen Kruisweg,4,,
-4334TA,Stenen Kruisweg,4,,
-4334SJ,Walcherseweg,254,M,
-4334TA,Stenen Kruisweg,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Walcherseweg,252,"","",4334SJ,Middelburg
+Walcherseweg,254,"","",4334SJ,Middelburg
+Walcherseweg,254,A,"",4334SJ,Middelburg
+Walcherseweg,254,B,"",4334SJ,Middelburg
+Walcherseweg,254,M,"",4334SJ,Middelburg
+Walcherseweg,256,"","",4334SJ,Middelburg
+Walcherseweg,256,"","",4334SJ,Middelburg
+Walcherseweg,256,A,"",4334SJ,Middelburg
+Walcherseweg,256,B,"",4334SJ,Middelburg
+Walcherseweg,256,C,"",4334SJ,Middelburg
+Walcherseweg,258,"","",4334SJ,Middelburg
+Walcherseweg,258,A,"",4334SJ,Middelburg
+Walcherseweg,258,B,"",4334SJ,Middelburg
+Stenen Kruisweg,2,"","",4334TA,Grijpskerke
+Stenen Kruisweg,2,"","",4334TA,Grijpskerke
+Stenen Kruisweg,4,"","",4334TA,Grijpskerke
+Stenen Kruisweg,4,"","",4334TA,Grijpskerke
+Stenen Kruisweg,6,"","",4334TA,Grijpskerke

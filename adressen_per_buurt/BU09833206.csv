@@ -1,40 +1,40 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5932NA,Ulingsheide,1,,
-5932NC,Egypte,3,,
-5932NC,Egypte,6,,
-5932NC,Egypte,2,,
-5932NC,Egypte,5,,
-5932NC,Egypte,8,,
-5932NC,Egypte,7,,
-5932NC,Egypte,1,A,
-5932NC,Egypte,9,,
-5932NC,Egypte,4,,
-5932ND,Trappistenweg,50,,
-5932NA,Ulingsheide,3,,
-5932ND,Verlengde Trappistenweg,50,,
-5932NC,Egypte,37,,
-5932NC,Egypte,28,,
-5932ND,Trappistenweg,35,,
-5932ND,Trappistenweg,47,,
-5932ND,Trappistenweg,51,,
-5932NA,Ulingsheide,1,A,
-5932ND,Verlengde Trappistenweg,35,,
-5932ND,Verlengde Trappistenweg,47,,
-5932ND,Verlengde Trappistenweg,47,,
-5932ND,Verlengde Trappistenweg,51,,
-5932ND,Verlengde Trappistenweg,51,,
-5932NC,Egypte,3,,
-5932ND,Trappistenweg,35,A,
-5932ND,Trappistenweg,35,B,
-5932ND,Trappistenweg,35,C,
-5932NA,Ulingsheide,7,,
-5932NA,Ulingsheide,7,A,
-5932NA,Ulingsheide,3,A,
-5932ND,Verlengde Trappistenweg,35,A,
-5932ND,Verlengde Trappistenweg,35,B,
-5932ND,Verlengde Trappistenweg,35,C,
-5932NA,Ulingsheide,3,B,
-5932NA,Ulingsheide,3,C,
-5932NA,Ulingsheide,3,D,
-5932NA,Ulingsheide,1,B,
-5932NA,Ulingsheide,5,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ulingsheide,1,"","",5932NA,Tegelen
+Ulingsheide,1,A,"",5932NA,Tegelen
+Ulingsheide,1,B,"",5932NA,Tegelen
+Ulingsheide,3,"","",5932NA,Tegelen
+Ulingsheide,3,A,"",5932NA,Tegelen
+Ulingsheide,3,B,"",5932NA,Tegelen
+Ulingsheide,3,C,"",5932NA,Tegelen
+Ulingsheide,3,D,"",5932NA,Tegelen
+Ulingsheide,5,A,"",5932NA,Tegelen
+Ulingsheide,7,"","",5932NA,Tegelen
+Ulingsheide,7,A,"",5932NA,Tegelen
+Egypte,1,A,"",5932NC,Tegelen
+Egypte,2,"","",5932NC,Tegelen
+Egypte,28,"","",5932NC,Tegelen
+Egypte,3,"","",5932NC,Tegelen
+Egypte,3,"","",5932NC,Tegelen
+Egypte,37,"","",5932NC,Tegelen
+Egypte,4,"","",5932NC,Tegelen
+Egypte,5,"","",5932NC,Tegelen
+Egypte,6,"","",5932NC,Tegelen
+Egypte,7,"","",5932NC,Tegelen
+Egypte,8,"","",5932NC,Tegelen
+Egypte,9,"","",5932NC,Tegelen
+Trappistenweg,35,"","",5932ND,Tegelen
+Trappistenweg,35,"","",5932ND,Tegelen
+Trappistenweg,35,A,"",5932ND,Tegelen
+Trappistenweg,35,A,"",5932ND,Tegelen
+Trappistenweg,35,B,"",5932ND,Tegelen
+Trappistenweg,35,B,"",5932ND,Tegelen
+Trappistenweg,35,C,"",5932ND,Tegelen
+Trappistenweg,35,C,"",5932ND,Tegelen
+Trappistenweg,47,"","",5932ND,Tegelen
+Trappistenweg,47,"","",5932ND,Tegelen
+Trappistenweg,47,"","",5932ND,Tegelen
+Trappistenweg,50,"","",5932ND,Tegelen
+Trappistenweg,50,"","",5932ND,Tegelen
+Trappistenweg,51,"","",5932ND,Tegelen
+Trappistenweg,51,"","",5932ND,Tegelen
+Trappistenweg,51,"","",5932ND,Tegelen

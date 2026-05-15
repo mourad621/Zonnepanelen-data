@@ -1,88 +1,88 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3852PL,De Beek,125,,
-3852PL,De Beek,129,,
-3852PL,De Beek,131,,
-3852PL,De Beek,101,,57
-3852PL,De Beek,101,,50
-3852PL,De Beek,119,,
-3852PL,De Beek,151,A,
-3852PL,De Beek,145,,
-3852PL,De Beek,149,,
-3852PL,De Beek,157,,
-3852PL,De Beek,151,,
-3852PL,De Beek,89,,
-3852PL,De Beek,135,B,
-3852PL,De Beek,135,C,
-3852PL,De Beek,137,A,
-3852PL,De Beek,137,,
-3852PL,De Beek,135,A,
-3852PL,De Beek,101,,11
-3852PL,De Beek,75,,
-3852PL,De Beek,91,,
-3852PL,De Beek,73,,
-3852PL,De Beek,71,,
-3852PL,De Beek,77,,
-3852PL,De Beek,101,,
-3852PL,De Beek,101,,53
-3852PL,De Beek,101,,12
-3852PL,De Beek,101,,14
-3852PL,De Beek,101,,32
-3852PL,De Beek,101,,43
-3852NB,Garderenseweg,202,A,
-3852NB,Koningsweg,200,,
-3852NB,Koningsweg,202,,
-3852NB,Koningsweg,201,,
-3852NB,Koningsweg,202,A,1
-3852NB,Koningsweg,202,A,
-3852NB,Koningsweg,203,,
-3852NB,Koningsweg,199,,
-3852NB,Koningsweg,5,,
-3852NB,Koningsweg,7,,
-3852NB,Koningsweg,196,,
-3852NB,Koningsweg,188,,
-3852NB,Koningsweg,9,,
-3852PL,De Beek,101,,59
-3852PL,De Beek,101,,60
-3852PL,De Beek,101,,61
-3852PL,De Beek,103,,
-3852PL,De Beek,125,,
-3852PL,De Beek,109,,
-3852NN,Paleisweg,209,,
-3852NN,Paleisweg,207,,
-3852NN,Paleisweg,205,,
-3852NN,Paleisweg,191,,
-3852NN,Paleisweg,193,,
-3852NN,Paleisweg,195,,
-3852NN,Paleisweg,197,,
-3852NN,Paleisweg,199,,
-3852NN,Paleisweg,203,,
-3852NN,Paleisweg,201,,
-3852NN,Paleisweg,205,,
-3852NP,Paleisweg,214,,
-3852NP,Paleisweg,210,,
-3852NR,Uddelermeer,5,,
-3852NS,Uddelermeerweg,299,,
-3852NS,Uddelermeerweg,275,,
-3852NT,Uddelermeerweg,90,,
-3852NT,Uddelermeerweg,38,,
-3852NT,Uddelermeerweg,2,A,
-3852NT,Uddelermeerweg,26,,
-3852NT,Uddelermeerweg,10,,
-3852NT,Uddelermeerweg,2,,
-3852NT,Uddelermeerweg,32,,
-3852NT,Uddelermeerweg,242,,
-3852NT,Uddelermeerweg,2,,
-3852PL,De Beek,127,,
-3852PL,De Beek,105,,
-3852PL,De Beek,75,,
-3852PL,De Beek,125,,1
-3852PL,De Beek,125,,2
-3852PL,De Beek,149,M,
-3852PL,De Beek,79,,
-3852PL,De Beek,81,,
-3852PL,De Beek,83,,
-3852NB,Koningsweg,9,,
-3852NB,Koningsweg,202,a,
-3852NB,Koningsweg,2,,
-3852NB,Koningsweg,199,a,
-3852NB,Koningsweg,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Koningsweg,188,"","",3852NB,Ermelo
+Koningsweg,196,"","",3852NB,Ermelo
+Koningsweg,199,"","",3852NB,Ermelo
+Koningsweg,199,A,"",3852NB,Ermelo
+Koningsweg,2,"","",3852NB,Ermelo
+Koningsweg,200,"","",3852NB,Ermelo
+Koningsweg,201,"","",3852NB,Ermelo
+Koningsweg,202,"","",3852NB,Ermelo
+Garderenseweg,202,A,"",3852NB,Ermelo
+Garderenseweg,202,A,"",3852NB,Ermelo
+Garderenseweg,202,A,"",3852NB,Ermelo
+Koningsweg,202,A,1,3852NB,Ermelo
+Koningsweg,203,"","",3852NB,Ermelo
+Koningsweg,5,"","",3852NB,Ermelo
+Koningsweg,7,"","",3852NB,Ermelo
+Koningsweg,8,"","",3852NB,Ermelo
+Koningsweg,9,"","",3852NB,Ermelo
+Koningsweg,9,"","",3852NB,Ermelo
+Paleisweg,191,"","",3852NN,Ermelo
+Paleisweg,193,"","",3852NN,Ermelo
+Paleisweg,195,"","",3852NN,Ermelo
+Paleisweg,197,"","",3852NN,Ermelo
+Paleisweg,199,"","",3852NN,Ermelo
+Paleisweg,201,"","",3852NN,Ermelo
+Paleisweg,203,"","",3852NN,Ermelo
+Paleisweg,205,"","",3852NN,Ermelo
+Paleisweg,205,"","",3852NN,Ermelo
+Paleisweg,207,"","",3852NN,Ermelo
+Paleisweg,209,"","",3852NN,Ermelo
+Paleisweg,210,"","",3852NP,Ermelo
+Paleisweg,214,"","",3852NP,Ermelo
+Uddelermeer,5,"","",3852NR,Ermelo
+Uddelermeerweg,275,"","",3852NS,Ermelo
+Uddelermeerweg,299,"","",3852NS,Ermelo
+Uddelermeerweg,10,"","",3852NT,Ermelo
+Uddelermeerweg,2,"","",3852NT,Ermelo
+Uddelermeerweg,2,"","",3852NT,Ermelo
+Uddelermeerweg,2,A,"",3852NT,Ermelo
+Uddelermeerweg,242,"","",3852NT,Ermelo
+Uddelermeerweg,26,"","",3852NT,Ermelo
+Uddelermeerweg,32,"","",3852NT,Ermelo
+Uddelermeerweg,38,"","",3852NT,Ermelo
+Uddelermeerweg,90,"","",3852NT,Ermelo
+De Beek,101,"","",3852PL,Ermelo
+De Beek,101,"",11,3852PL,Ermelo
+De Beek,101,"",12,3852PL,Ermelo
+De Beek,101,"",14,3852PL,Ermelo
+De Beek,101,"",32,3852PL,Ermelo
+De Beek,101,"",43,3852PL,Ermelo
+De Beek,101,"",50,3852PL,Ermelo
+De Beek,101,"",53,3852PL,Ermelo
+De Beek,101,"",57,3852PL,Ermelo
+De Beek,101,"",59,3852PL,Ermelo
+De Beek,101,"",60,3852PL,Ermelo
+De Beek,101,"",61,3852PL,Ermelo
+De Beek,103,"","",3852PL,Ermelo
+De Beek,105,"","",3852PL,Ermelo
+De Beek,109,"","",3852PL,Ermelo
+De Beek,119,"","",3852PL,Ermelo
+De Beek,125,"","",3852PL,Ermelo
+De Beek,125,"","",3852PL,Ermelo
+De Beek,125,"",1,3852PL,Ermelo
+De Beek,125,"",2,3852PL,Ermelo
+De Beek,127,"","",3852PL,Ermelo
+De Beek,129,"","",3852PL,Ermelo
+De Beek,131,"","",3852PL,Ermelo
+De Beek,135,A,"",3852PL,Ermelo
+De Beek,135,B,"",3852PL,Ermelo
+De Beek,135,C,"",3852PL,Ermelo
+De Beek,137,"","",3852PL,Ermelo
+De Beek,137,A,"",3852PL,Ermelo
+De Beek,145,"","",3852PL,Ermelo
+De Beek,149,"","",3852PL,Ermelo
+De Beek,149,M,"",3852PL,Ermelo
+De Beek,151,"","",3852PL,Ermelo
+De Beek,151,A,"",3852PL,Ermelo
+De Beek,157,"","",3852PL,Ermelo
+De Beek,71,"","",3852PL,Ermelo
+De Beek,73,"","",3852PL,Ermelo
+De Beek,75,"","",3852PL,Ermelo
+De Beek,75,"","",3852PL,Ermelo
+De Beek,77,"","",3852PL,Ermelo
+De Beek,79,"","",3852PL,Ermelo
+De Beek,81,"","",3852PL,Ermelo
+De Beek,83,"","",3852PL,Ermelo
+De Beek,89,"","",3852PL,Ermelo
+De Beek,91,"","",3852PL,Ermelo

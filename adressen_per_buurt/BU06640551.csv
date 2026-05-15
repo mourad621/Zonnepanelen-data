@@ -1,71 +1,71 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4458NE,Dwarsweg,8,,
-4458NE,Dwarsweg,2,,
-4458NK,Nieuwe Kraaijertsedijk,27,,
-4458NK,Nieuwe Kraaijertsedijk,21,,
-4458NK,Nieuwe Kraaijertsedijk,17,,
-4458NK,Nieuwe Kraaijertsedijk,1,,
-4458NK,Nieuwe Kraaijertsedijk,17,A,
-4458NL,Nieuwe Kraaijertsedijk,6,,
-4458NH,Meerkoetweg,12,,
-4458NH,Meerkoetweg,11,,
-4471RE,Sluis De Piet,11,,
-4458NG,Noordweg,3,,
-4458NJ,Noord Kraaijertsedijk,2,,
-4458NM,Oranjeplaatweg,1,A,
-4458ND,Vlaamseweg,1,,
-4458NE,Dwarsweg,5,,
-4458NK,Nieuwe Kraaijertsedijk,29,,
-4458NK,Nieuwe Kraaijertsedijk,25,,
-4458NK,Nieuwe Kraaijertsedijk,15,,
-4458NK,Nieuwe Kraaijertsedijk,9,,
-4458NK,Nieuwe Kraaijertsedijk,23,,
-4458NK,Nieuwe Kraaijertsedijk,11,,
-4458NK,Nieuwe Kraaijertsedijk,19,,
-4458NK,Nieuwe Kraaijertsedijk,35,,
-4458NK,Nieuwe Kraaijertsedijk,13,,
-4458NL,Nieuwe Kraaijertsedijk,4,,
-4458NL,Nieuwe Kraaijertsedijk,8,,
-4458NH,Meerkoetweg,17,,
-4458NH,Meerkoetweg,15,,
-4458NH,Meerkoetweg,5,,
-4458NH,Meerkoetweg,7,,
-4458NH,Meerkoetweg,6,,
-4471RE,Sluis De Piet,9,,
-4471RE,Sluis De Piet,5,,
-4471RE,Sluis De Piet,3,,
-4471RE,Sluis De Piet,13,,
-4458NG,Noordweg,1,,
-4458NM,Oranjeplaatweg,1,,
-4458NM,Oranjeplaatweg,2,A,
-4458ND,Kromme Weide,6,,
-4458NN,Toldijk,1,,
-4458ND,Vlaamseweg,3,,
-4458ND,Vlaamseweg,9,,
-4458ND,Vlaamseweg,5,,
-4458NE,Dwarsweg,1,,
-4458NE,Dwarsweg,4,,
-4458NE,Dwarsweg,3,,
-4458NK,Nieuwe Kraaijertsedijk,7,,
-4458NK,Nieuwe Kraaijertsedijk,5,,
-4458NK,Nieuwe Kraaijertsedijk,37,,
-4458NL,Nieuwe Kraaijertsedijk,2,,
-4458NL,Nieuwe Kraaijertsedijk,10,,
-4458NH,Meerkoetweg,2,,
-4458NH,Meerkoetweg,4,,
-4458NH,Meerkoetweg,8,,
-4458NH,Meerkoetweg,10,,
-4458NH,Meerkoetweg,13,,
-4458NH,Meerkoetweg,14,,
-4458NH,Meerkoetweg,19,,
-4458NH,Meerkoetweg,7,A,
-4471RE,Sluis De Piet,1,,
-4458NM,Oranjeplaatweg,4,A,
-4458NM,Oranjeplaatweg,1,B,
-4458NM,Oranjeplaatweg,4,,
-4458NN,Toldijk,3,,
-4458ND,Vlaamseweg,7,,
-4458NH,Meerkoetweg,5,A,
-4458NH,Meerkoetweg,5,A,
-4458NH,Meerkoetweg,12,,
-4458NN,Toldijk,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vlaamseweg,1,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,3,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,5,"","",4458ND,'s-Heer Arendskerke
+Kromme Weide,6,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,7,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,9,"","",4458ND,'s-Heer Arendskerke
+Dwarsweg,1,"","",4458NE,'s-Heer Arendskerke
+Dwarsweg,2,"","",4458NE,'s-Heer Arendskerke
+Dwarsweg,3,"","",4458NE,'s-Heer Arendskerke
+Dwarsweg,4,"","",4458NE,'s-Heer Arendskerke
+Dwarsweg,5,"","",4458NE,'s-Heer Arendskerke
+Dwarsweg,8,"","",4458NE,'s-Heer Arendskerke
+Noordweg,1,"","",4458NG,'s-Heer Arendskerke
+Noordweg,3,"","",4458NG,'s-Heer Arendskerke
+Meerkoetweg,10,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,11,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,12,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,12,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,13,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,14,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,15,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,17,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,19,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,2,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,4,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,5,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,5,A,"",4458NH,'s-Heer Arendskerke
+Meerkoetweg,5,A,"",4458NH,'s-Heer Arendskerke
+Meerkoetweg,6,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,7,"","",4458NH,'s-Heer Arendskerke
+Meerkoetweg,7,A,"",4458NH,'s-Heer Arendskerke
+Meerkoetweg,8,"","",4458NH,'s-Heer Arendskerke
+Noord Kraaijertsedijk,2,"","",4458NJ,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,1,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,11,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,13,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,15,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,17,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,17,A,"",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,19,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,21,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,23,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,25,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,27,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,29,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,35,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,37,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,5,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,7,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,9,"","",4458NK,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,10,"","",4458NL,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,2,"","",4458NL,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,4,"","",4458NL,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,6,"","",4458NL,'s-Heer Arendskerke
+Nieuwe Kraaijertsedijk,8,"","",4458NL,'s-Heer Arendskerke
+Oranjeplaatweg,1,"","",4458NM,'s-Heer Arendskerke
+Oranjeplaatweg,1,A,"",4458NM,'s-Heer Arendskerke
+Oranjeplaatweg,1,B,"",4458NM,'s-Heer Arendskerke
+Oranjeplaatweg,2,A,"",4458NM,'s-Heer Arendskerke
+Oranjeplaatweg,4,"","",4458NM,'s-Heer Arendskerke
+Oranjeplaatweg,4,A,"",4458NM,'s-Heer Arendskerke
+Toldijk,1,"","",4458NN,'s-Heer Arendskerke
+Toldijk,3,"","",4458NN,'s-Heer Arendskerke
+Toldijk,3,"","",4458NN,'s-Heer Arendskerke
+Sluis De Piet,1,"","",4471RE,Wolphaartsdijk
+Sluis De Piet,11,"","",4471RE,Wolphaartsdijk
+Sluis De Piet,13,"","",4471RE,Wolphaartsdijk
+Sluis De Piet,3,"","",4471RE,Wolphaartsdijk
+Sluis De Piet,5,"","",4471RE,Wolphaartsdijk
+Sluis De Piet,9,"","",4471RE,Wolphaartsdijk

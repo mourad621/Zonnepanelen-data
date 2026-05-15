@@ -1,91 +1,91 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5122CK,Jo van Ammersstraat,2,,
-5122CK,Jo van Ammersstraat,2,B,
-5122CK,Jo van Ammersstraat,3,,
-5122CK,Jo van Ammersstraat,4,,
-5122CE,Mary Zeldenrustlaan,18,A,
-5122CE,Mary Zeldenrustlaan,18,,
-5122CE,Mary Zeldenrustlaan,20,A,
-5122CE,Mary Zeldenrustlaan,20,,
-5122CE,Mary Zeldenrustlaan,22,,
-5122CE,Mary Zeldenrustlaan,24,,
-5122CE,Mary Zeldenrustlaan,26,,
-5122CE,Mary Zeldenrustlaan,28,,
-5122CE,Mary Zeldenrustlaan,30,,
-5122CE,Mary Zeldenrustlaan,32,,
-5122CE,Mary Zeldenrustlaan,34,,
-5122CE,Mary Zeldenrustlaan,36,,
-5122CE,Mary Zeldenrustlaan,42,,
-5122CE,Mary Zeldenrustlaan,44,,
-5122CE,Mary Zeldenrustlaan,46,,
-5122CE,Mary Zeldenrustlaan,48,,
-5122CE,Mary Zeldenrustlaan,50,,
-5122CE,Mary Zeldenrustlaan,52,,
-5122CE,Mary Zeldenrustlaan,54,,
-5122CE,Mary Zeldenrustlaan,56,,
-5122CE,Mary Zeldenrustlaan,58,,
-5122CE,Mary Zeldenrustlaan,60,,
-5122CE,Mary Zeldenrustlaan,62,,
-5122CE,Mary Zeldenrustlaan,62,A,
-5122CK,Jo van Ammersstraat,6,,
-5122CK,Jo van Ammersstraat,2,A,
-5122CK,Jo van Ammersstraat,2,B,
-5122CK,Jo van Ammersstraat,2,,
-5122CK,Jo van Ammersstraat,1,,
-5122CK,Jo van Ammersstraat,1,A,
-5122CK,Jo van Ammersstraat,1,B,
-5122CK,Jo van Ammersstraat,1,C,
-5122CK,Jo van Ammersstraat,1,D,
-5122CK,Jo van Ammersstraat,1,E,
-5122CK,Jo van Ammersstraat,1,F,
-5122CE,Mary Zeldenrustlaan,62,A,
-5122CE,Mary Zeldenrustlaan,62,,
-5122CE,Mary Zeldenrustlaan,28,A,
-5122CE,Mary Zeldenrustlaan,34,A,
-5122CM,Trees Kinstraat,1,,
-5122CM,Trees Kinstraat,11,,
-5122CM,Trees Kinstraat,11,A,
-5122CM,Trees Kinstraat,19,,
-5122CM,Trees Kinstraat,3,,
-5122CM,Trees Kinstraat,5,,
-5122CM,Trees Kinstraat,9,,
-5122CM,Trees Kinstraat,17,,
-5122CM,Trees Kinstraat,7,,
-5122CM,Trees Kinstraat,21,,
-5122CM,Trees Kinstraat,6,,
-5122CM,Trees Kinstraat,6,,
-5122CM,Trees Kinstraat,4,,
-5122CM,Trees Kinstraat,21,A,
-5122CM,Trees Kinstraat,5,A,
-5122CM,Trees Kinstraat,5,A,
-5122CM,Trees Kinstraat,11,,
-5122CM,Trees Kinstraat,13,,
-5122CM,Trees Kinstraat,13,A,
-5121RA,Venneweg,10,,
-5121RA,Venneweg,10,A,
-5121RA,Venneweg,12,,
-5121RA,Venneweg,12,A,
-5121RA,Venneweg,14,,
-5121RA,Venneweg,14,A,
-5121RA,Venneweg,16,,
-5121RA,Venneweg,18,,
-5121RA,Venneweg,20,,
-5121RA,Venneweg,22,,
-5121RA,Venneweg,24,,
-5121RA,Venneweg,28,,
-5121RA,Venneweg,4,,
-5121RA,Venneweg,8,,
-5121RA,Venneweg,10,E,
-5122CK,Jo van Ammersstraat,1,G,
-5122CK,Jo van Ammersstraat,1,H,
-5122CK,Jo van Ammersstraat,1,J,
-5122CK,Jo van Ammersstraat,1,K,
-5122CK,Jo van Ammersstraat,1,L,
-5122CK,Jo van Ammersstraat,1,M,
-5122CK,Jo van Ammersstraat,1,N,
-5122CK,Jo van Ammersstraat,1,P,
-5122CK,Jo van Ammersstraat,1,R,
-5122CK,Jo van Ammersstraat,1,S,
-5122CE,Mary Zeldenrustlaan,18,A,
-5122CM,Trees Kinstraat,23,,
-5122CM,Trees Kinstraat,23,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Venneweg,10,"","",5121RA,Rijen
+Venneweg,10,A,"",5121RA,Rijen
+Venneweg,10,E,"",5121RA,Rijen
+Venneweg,12,"","",5121RA,Rijen
+Venneweg,12,A,"",5121RA,Rijen
+Venneweg,14,"","",5121RA,Rijen
+Venneweg,14,A,"",5121RA,Rijen
+Venneweg,16,"","",5121RA,Rijen
+Venneweg,18,"","",5121RA,Rijen
+Venneweg,20,"","",5121RA,Rijen
+Venneweg,22,"","",5121RA,Rijen
+Venneweg,24,"","",5121RA,Rijen
+Venneweg,28,"","",5121RA,Rijen
+Venneweg,4,"","",5121RA,Rijen
+Venneweg,8,"","",5121RA,Rijen
+Mary Zeldenrustlaan,18,"","",5122CE,Rijen
+Mary Zeldenrustlaan,18,A,"",5122CE,Rijen
+Mary Zeldenrustlaan,18,A,"",5122CE,Rijen
+Mary Zeldenrustlaan,20,"","",5122CE,Rijen
+Mary Zeldenrustlaan,20,A,"",5122CE,Rijen
+Mary Zeldenrustlaan,22,"","",5122CE,Rijen
+Mary Zeldenrustlaan,24,"","",5122CE,Rijen
+Mary Zeldenrustlaan,26,"","",5122CE,Rijen
+Mary Zeldenrustlaan,28,"","",5122CE,Rijen
+Mary Zeldenrustlaan,28,A,"",5122CE,Rijen
+Mary Zeldenrustlaan,30,"","",5122CE,Rijen
+Mary Zeldenrustlaan,32,"","",5122CE,Rijen
+Mary Zeldenrustlaan,34,"","",5122CE,Rijen
+Mary Zeldenrustlaan,34,A,"",5122CE,Rijen
+Mary Zeldenrustlaan,36,"","",5122CE,Rijen
+Mary Zeldenrustlaan,42,"","",5122CE,Rijen
+Mary Zeldenrustlaan,44,"","",5122CE,Rijen
+Mary Zeldenrustlaan,46,"","",5122CE,Rijen
+Mary Zeldenrustlaan,48,"","",5122CE,Rijen
+Mary Zeldenrustlaan,50,"","",5122CE,Rijen
+Mary Zeldenrustlaan,52,"","",5122CE,Rijen
+Mary Zeldenrustlaan,54,"","",5122CE,Rijen
+Mary Zeldenrustlaan,56,"","",5122CE,Rijen
+Mary Zeldenrustlaan,58,"","",5122CE,Rijen
+Mary Zeldenrustlaan,60,"","",5122CE,Rijen
+Mary Zeldenrustlaan,62,"","",5122CE,Rijen
+Mary Zeldenrustlaan,62,"","",5122CE,Rijen
+Mary Zeldenrustlaan,62,A,"",5122CE,Rijen
+Mary Zeldenrustlaan,62,A,"",5122CE,Rijen
+Jo van Ammersstraat,1,"","",5122CK,Rijen
+Jo van Ammersstraat,1,A,"",5122CK,Rijen
+Jo van Ammersstraat,1,B,"",5122CK,Rijen
+Jo van Ammersstraat,1,C,"",5122CK,Rijen
+Jo van Ammersstraat,1,D,"",5122CK,Rijen
+Jo van Ammersstraat,1,E,"",5122CK,Rijen
+Jo van Ammersstraat,1,F,"",5122CK,Rijen
+Jo van Ammersstraat,1,G,"",5122CK,Rijen
+Jo van Ammersstraat,1,H,"",5122CK,Rijen
+Jo van Ammersstraat,1,J,"",5122CK,Rijen
+Jo van Ammersstraat,1,K,"",5122CK,Rijen
+Jo van Ammersstraat,1,L,"",5122CK,Rijen
+Jo van Ammersstraat,1,M,"",5122CK,Rijen
+Jo van Ammersstraat,1,N,"",5122CK,Rijen
+Jo van Ammersstraat,1,P,"",5122CK,Rijen
+Jo van Ammersstraat,1,R,"",5122CK,Rijen
+Jo van Ammersstraat,1,S,"",5122CK,Rijen
+Jo van Ammersstraat,2,"","",5122CK,Rijen
+Jo van Ammersstraat,2,"","",5122CK,Rijen
+Jo van Ammersstraat,2,A,"",5122CK,Rijen
+Jo van Ammersstraat,2,B,"",5122CK,Rijen
+Jo van Ammersstraat,2,B,"",5122CK,Rijen
+Jo van Ammersstraat,3,"","",5122CK,Rijen
+Jo van Ammersstraat,4,"","",5122CK,Rijen
+Jo van Ammersstraat,6,"","",5122CK,Rijen
+Trees Kinstraat,1,"","",5122CM,Rijen
+Trees Kinstraat,11,"","",5122CM,Rijen
+Trees Kinstraat,11,"","",5122CM,Rijen
+Trees Kinstraat,11,A,"",5122CM,Rijen
+Trees Kinstraat,13,"","",5122CM,Rijen
+Trees Kinstraat,13,A,"",5122CM,Rijen
+Trees Kinstraat,17,"","",5122CM,Rijen
+Trees Kinstraat,19,"","",5122CM,Rijen
+Trees Kinstraat,21,"","",5122CM,Rijen
+Trees Kinstraat,21,A,"",5122CM,Rijen
+Trees Kinstraat,23,"","",5122CM,Rijen
+Trees Kinstraat,23,A,"",5122CM,Rijen
+Trees Kinstraat,3,"","",5122CM,Rijen
+Trees Kinstraat,4,"","",5122CM,Rijen
+Trees Kinstraat,5,"","",5122CM,Rijen
+Trees Kinstraat,5,A,"",5122CM,Rijen
+Trees Kinstraat,5,A,"",5122CM,Rijen
+Trees Kinstraat,6,"","",5122CM,Rijen
+Trees Kinstraat,6,"","",5122CM,Rijen
+Trees Kinstraat,7,"","",5122CM,Rijen
+Trees Kinstraat,9,"","",5122CM,Rijen

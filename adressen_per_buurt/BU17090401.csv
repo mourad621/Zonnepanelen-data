@@ -1,32 +1,32 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4782PR,'t Gors,2,,
-4782PR,'t Gors,6,,
-4782PR,'t Gors,8,,
-4782PR,'t Gors,10,,
-4782PR,'t Gors,10,,
-4782RB,Roodevaart,11,,
-4782RB,Roodevaart,13,a,
-4782RC,Roodevaart,20,,
-4782RC,Roodevaart,23,,
-4782RC,Roodevaart,34,,
-4782RC,Roodevaart,34,,
-4782RC,Roodevaart,36,,
-4782RC,Roodevaart,37,,
-4782RC,Roodevaart,38,,
-4782RC,Roodevaart,38,,
-4782RC,Roodevaart,39,,
-4782RC,Roodevaart,40,,
-4782RC,Roodevaart,40,,
-4782RC,Roodevaart,41,,
-4782RC,Roodevaart,41,,
-4782RC,Roodevaart,42,,
-4782RC,Roodevaart,44,b,
-4782PT,Sluisweg,1,,
-4782PT,Sluisweg,1,a,
-4782PT,Sluisweg,2,,
-4782PT,Sluisweg,3,,
-4782PT,Sluisweg,4,,
-4782PR,'t Gors,6,,
-4782RB,Roodevaart,15,,
-4782RC,Roodevaart,45,,
-4782PT,Sluisweg,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+'t Gors,10,"","",4782PR,Moerdijk
+'t Gors,10,"","",4782PR,Moerdijk
+'t Gors,2,"","",4782PR,Moerdijk
+'t Gors,6,"","",4782PR,Moerdijk
+'t Gors,6,"","",4782PR,Moerdijk
+'t Gors,8,"","",4782PR,Moerdijk
+Sluisweg,1,"","",4782PT,Moerdijk
+Sluisweg,1,A,"",4782PT,Moerdijk
+Sluisweg,2,"","",4782PT,Moerdijk
+Sluisweg,3,"","",4782PT,Moerdijk
+Sluisweg,4,"","",4782PT,Moerdijk
+Sluisweg,5,"","",4782PT,Moerdijk
+Roodevaart,11,"","",4782RB,Moerdijk
+Roodevaart,13,A,"",4782RB,Moerdijk
+Roodevaart,15,"","",4782RB,Moerdijk
+Roodevaart,20,"","",4782RC,Moerdijk
+Roodevaart,23,"","",4782RC,Moerdijk
+Roodevaart,34,"","",4782RC,Moerdijk
+Roodevaart,34,"","",4782RC,Moerdijk
+Roodevaart,36,"","",4782RC,Moerdijk
+Roodevaart,37,"","",4782RC,Moerdijk
+Roodevaart,38,"","",4782RC,Moerdijk
+Roodevaart,38,"","",4782RC,Moerdijk
+Roodevaart,39,"","",4782RC,Moerdijk
+Roodevaart,40,"","",4782RC,Moerdijk
+Roodevaart,40,"","",4782RC,Moerdijk
+Roodevaart,41,"","",4782RC,Moerdijk
+Roodevaart,41,"","",4782RC,Moerdijk
+Roodevaart,42,"","",4782RC,Moerdijk
+Roodevaart,44,B,"",4782RC,Moerdijk
+Roodevaart,45,"","",4782RC,Moerdijk

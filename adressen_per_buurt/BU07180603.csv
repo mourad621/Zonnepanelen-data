@@ -1,20 +1,20 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4389TA,Deinsvlietweg,1,,
-4389TA,Deinsvlietweg,2,,
-4389TA,Deinsvlietweg,3,,
-4389TA,Deinsvlietweg,4,,
-4389WB,Marie Curieweg,1,,
-4389WB,Marie Curieweg,3,,
-4389WB,Marie Curieweg,5,,
-4389WB,Marie Curieweg,9,,
-4389WB,Marie Curieweg,11,,
-4389WB,Marie Curieweg,13,,
-4389WB,Marie Curieweg,15,,
-4389TA,Deinsvlietweg,3,a,
-4389TA,Deinsvlietweg,3,,
-4389WB,Marie Curieweg,25,,
-4389WB,Marie Curieweg,3,a,
-4389WB,Marie Curieweg,3,b,
-4389WB,Marie Curieweg,5,a,
-4389WB,Marie Curieweg,1,a,
-4389WB,Marie Curieweg,27,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Deinsvlietweg,1,"","",4389TA,Ritthem
+Deinsvlietweg,2,"","",4389TA,Ritthem
+Deinsvlietweg,3,"","",4389TA,Ritthem
+Deinsvlietweg,3,"","",4389TA,Ritthem
+Deinsvlietweg,3,A,"",4389TA,Ritthem
+Deinsvlietweg,4,"","",4389TA,Ritthem
+Marie Curieweg,1,"","",4389WB,Ritthem
+Marie Curieweg,1,A,"",4389WB,Ritthem
+Marie Curieweg,11,"","",4389WB,Ritthem
+Marie Curieweg,13,"","",4389WB,Ritthem
+Marie Curieweg,15,"","",4389WB,Ritthem
+Marie Curieweg,25,"","",4389WB,Ritthem
+Marie Curieweg,27,"","",4389WB,Ritthem
+Marie Curieweg,3,"","",4389WB,Ritthem
+Marie Curieweg,3,A,"",4389WB,Ritthem
+Marie Curieweg,3,B,"",4389WB,Ritthem
+Marie Curieweg,5,"","",4389WB,Ritthem
+Marie Curieweg,5,A,"",4389WB,Ritthem
+Marie Curieweg,9,"","",4389WB,Ritthem

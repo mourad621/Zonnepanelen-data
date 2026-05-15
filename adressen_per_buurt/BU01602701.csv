@@ -1,84 +1,85 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7792VA",16,"",""
-"7792VA",18,"",""
-"7792VA",16,"",""
-"7792VB",8,"",""
-"7792VB",4,"",""
-"7792VB",2,"a",""
-"7792VB",10,"",""
-"7792VB",10,"i",""
-"7792VB",12,"",""
-"7792VB",6,"",""
-"7792VC",1,"",""
-"7792VC",3,"",""
-"7792VC",5,"",""
-"7792VD",58,"",""
-"7792VD",60,"",""
-"7792VD",56,"",""
-"7792VD",62,"",""
-"7792VE",61,"",""
-"7792VE",59,"",""
-"7792VE",63,"",""
-"7792VE",67,"",""
-"7792VE",65,"",""
-"7792VE",65,"a",""
-"7792VE",55,"",""
-"7792VE",57,"",""
-"7792VE",59,"a",""
-"7792VG",3,"",""
-"7792VG",1,"a",""
-"7792VG",1,"",""
-"7792VG",3,"a",""
-"7792VG",1,"b",""
-"7792VH",1,"",""
-"7792VH",2,"",""
-"7792VH",1,"i",""
-"7792VJ",1,"",""
-"7792VJ",5,"",""
-"7792VJ",3,"",""
-"7792VJ",4,"",""
-"7792VJ",2,"",""
-"7792VK",3,"",""
-"7792VK",1,"",""
-7792VA,Emtenbroekerdijk,16,,
-7792VA,Emtenbroekerdijk,18,,
-7792VK,Groeneveldweg,1,,
-7792VK,Groeneveldweg,3,,
-7792VC,Grote Kattendijk,1,,
-7792VC,Grote Kattendijk,3,,
-7792VC,Grote Kattendijk,5,,
-7792VB,Hardenbergerveldweg,2,a,
-7792VB,Hardenbergerveldweg,4,,
-7792VB,Hardenbergerveldweg,6,,
-7792VB,Hardenbergerveldweg,8,,
-7792VB,Hardenbergerveldweg,10,,
-7792VB,Hardenbergerveldweg,10,i,
-7792VD,Hoogenweg,56,,
-7792VD,Hoogenweg,58,,
-7792VD,Hoogenweg,60,,
-7792VD,Hoogenweg,62,,
-7792VE,Hoogenweg,55,,
-7792VE,Hoogenweg,57,,
-7792VE,Hoogenweg,59,,
-7792VE,Hoogenweg,59,a,
-7792VE,Hoogenweg,61,,
-7792VE,Hoogenweg,63,,
-7792VE,Hoogenweg,65,,
-7792VE,Hoogenweg,67,,
-7792VH,Nieuwe Landweg,1,,
-7792VH,Nieuwe Landweg,1,i,
-7792VH,Nieuwe Landweg,2,,
-7792VJ,Oude Veenweg,1,,
-7792VJ,Oude Veenweg,2,,
-7792VJ,Oude Veenweg,3,,
-7792VJ,Oude Veenweg,4,,
-7792VJ,Oude Veenweg,5,,
-7792VG,Stobbenhaarweg,1,,
-7792VG,Stobbenhaarweg,1,a,
-7792VG,Stobbenhaarweg,1,b,
-7792VG,Stobbenhaarweg,3,,
-7792VG,Stobbenhaarweg,3,a,
-7792VE,Hoogenweg,65,a,
-7792VB,Hardenbergerveldweg,12,,
-7792VE,Hoogenweg,63,,
-7792VG,Stobbenhaarweg,1,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+16,"","","",7792VA,
+18,"","","",7792VA,
+16,"","","",7792VA,
+Emtenbroekerdijk,16,"","",7792VA,Venebrugge
+Emtenbroekerdijk,18,"","",7792VA,Venebrugge
+8,"","","",7792VB,
+4,"","","",7792VB,
+10,"","","",7792VB,
+12,"","","",7792VB,
+6,"","","",7792VB,
+Hardenbergerveldweg,10,"","",7792VB,Venebrugge
+Hardenbergerveldweg,10,I,"",7792VB,Venebrugge
+Hardenbergerveldweg,12,"","",7792VB,Venebrugge
+Hardenbergerveldweg,2,A,"",7792VB,Hoogenweg
+Hardenbergerveldweg,4,"","",7792VB,Venebrugge
+Hardenbergerveldweg,6,"","",7792VB,Venebrugge
+Hardenbergerveldweg,8,"","",7792VB,Venebrugge
+2,A,"","",7792VB,
+10,I,"","",7792VB,
+1,"","","",7792VC,
+3,"","","",7792VC,
+5,"","","",7792VC,
+Grote Kattendijk,1,"","",7792VC,Venebrugge
+Grote Kattendijk,3,"","",7792VC,Venebrugge
+Grote Kattendijk,5,"","",7792VC,Venebrugge
+58,"","","",7792VD,
+60,"","","",7792VD,
+56,"","","",7792VD,
+62,"","","",7792VD,
+Hoogenweg,56,"","",7792VD,Venebrugge
+Hoogenweg,58,"","",7792VD,Venebrugge
+Hoogenweg,60,"","",7792VD,Venebrugge
+Hoogenweg,62,"","",7792VD,Venebrugge
+61,"","","",7792VE,
+59,"","","",7792VE,
+63,"","","",7792VE,
+67,"","","",7792VE,
+65,"","","",7792VE,
+55,"","","",7792VE,
+57,"","","",7792VE,
+Hoogenweg,55,"","",7792VE,Venebrugge
+Hoogenweg,57,"","",7792VE,Venebrugge
+Hoogenweg,59,"","",7792VE,Venebrugge
+Hoogenweg,59,A,"",7792VE,Venebrugge
+Hoogenweg,61,"","",7792VE,Venebrugge
+Hoogenweg,63,"","",7792VE,Venebrugge
+Hoogenweg,63,"","",7792VE,Venebrugge
+Hoogenweg,65,"","",7792VE,Venebrugge
+Hoogenweg,65,A,"",7792VE,Venebrugge
+Hoogenweg,67,"","",7792VE,Venebrugge
+65,A,"","",7792VE,
+59,A,"","",7792VE,
+3,"","","",7792VG,
+1,"","","",7792VG,
+Stobbenhaarweg,1,"","",7792VG,Venebrugge
+Stobbenhaarweg,1,A,"",7792VG,Venebrugge
+Stobbenhaarweg,1,B,"",7792VG,Venebrugge
+Stobbenhaarweg,1,B,"",7792VG,Venebrugge
+Stobbenhaarweg,3,"","",7792VG,Venebrugge
+Stobbenhaarweg,3,A,"",7792VG,Venebrugge
+1,A,"","",7792VG,
+3,A,"","",7792VG,
+1,B,"","",7792VG,
+1,"","","",7792VH,
+2,"","","",7792VH,
+Nieuwe Landweg,1,"","",7792VH,Venebrugge
+Nieuwe Landweg,1,I,"",7792VH,Venebrugge
+Nieuwe Landweg,2,"","",7792VH,Venebrugge
+1,I,"","",7792VH,
+1,"","","",7792VJ,
+5,"","","",7792VJ,
+3,"","","",7792VJ,
+4,"","","",7792VJ,
+2,"","","",7792VJ,
+Oude Veenweg,1,"","",7792VJ,Venebrugge
+Oude Veenweg,2,"","",7792VJ,Venebrugge
+Oude Veenweg,3,"","",7792VJ,Venebrugge
+Oude Veenweg,4,"","",7792VJ,Venebrugge
+Oude Veenweg,5,"","",7792VJ,Venebrugge
+3,"","","",7792VK,
+1,"","","",7792VK,
+Groeneveldweg,1,"","",7792VK,Venebrugge
+Groeneveldweg,3,"","",7792VK,Venebrugge
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

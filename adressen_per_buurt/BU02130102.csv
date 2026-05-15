@@ -1,53 +1,53 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7399RB,Dovenkampweg,1,,
-7399RB,Dovenkampweg,2,,
-7399RB,Dovenkampweg,3,,
-7399RB,Dovenkampweg,4,,
-7399RB,Dovenkampweg,5,,
-7399RB,Dovenkampweg,6,,
-7399RB,Dovenkampweg,8,,
-7399RB,Dovenkampweg,8,A,
-7399RB,Dovenkampweg,10,,
-7399RB,Dovenkampweg,12,,
-7399RA,Gelders Hoofd,2,,
-7399RA,Gelders Hoofd,5,,
-7399RA,Gelders Hoofd,6,,
-7399RA,Gelders Hoofd,7,,
-7399RC,IJsselstraat,1,,
-7399RC,IJsselstraat,1,A,
-7399RC,IJsselstraat,2,,
-7399RC,IJsselstraat,3,,
-7399RC,IJsselstraat,4,,
-7399RC,IJsselstraat,5,,
-7399RC,IJsselstraat,6,,
-7399RC,IJsselstraat,7,,
-7399RC,IJsselstraat,8,,
-7399RC,IJsselstraat,8,A,
-7399RC,IJsselstraat,9,,
-7399RC,IJsselstraat,9,A,
-7399RC,IJsselstraat,10,,
-7399RC,IJsselstraat,11,,
-7399RC,IJsselstraat,13,,
-7399AR,Korte Breestraat,15,,
-7399AR,Korte Breestraat,15,,
-7399AR,Korte Breestraat,11,,
-7399AR,Korte Breestraat,11,,
-7399AC,Rijksweg,37,,
-7399AC,Rijksweg,39,,
-7399AC,Rijksweg,41,,
-7399AC,Rijksweg,43,,
-7399AC,Rijksweg,43,A,
-7399AC,Rijksweg,45,,
-7399AC,Rijksweg,45,,
-7399AC,Rijksweg,47,,
-7399AC,Rijksweg,49,,
-7399AC,Rijksweg,51,,
-7399AC,Rijksweg,53,,
-7399AC,Rijksweg,55,,
-7399AC,Rijksweg,55,,
-7399AC,Rijksweg,55,A,
-7399RB,Dovenkampweg,10,A,
-7399RC,IJsselstraat,1,B,
-7399RC,IJsselstraat,10,,
-7399RC,IJsselstraat,6,A,
-7399RC,IJsselstraat,6,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rijksweg,37,"","",7399AC,Empe
+Rijksweg,39,"","",7399AC,Empe
+Rijksweg,41,"","",7399AC,Empe
+Rijksweg,43,"","",7399AC,Empe
+Rijksweg,43,A,"",7399AC,Empe
+Rijksweg,45,"","",7399AC,Empe
+Rijksweg,45,"","",7399AC,Empe
+Rijksweg,47,"","",7399AC,Empe
+Rijksweg,49,"","",7399AC,Empe
+Rijksweg,51,"","",7399AC,Empe
+Rijksweg,53,"","",7399AC,Empe
+Rijksweg,55,"","",7399AC,Empe
+Rijksweg,55,"","",7399AC,Empe
+Rijksweg,55,A,"",7399AC,Empe
+Korte Breestraat,11,"","",7399AR,Empe
+Korte Breestraat,11,"","",7399AR,Empe
+Korte Breestraat,15,"","",7399AR,Empe
+Korte Breestraat,15,"","",7399AR,Empe
+Gelders Hoofd,2,"","",7399RA,Empe
+Gelders Hoofd,5,"","",7399RA,Empe
+Gelders Hoofd,6,"","",7399RA,Empe
+Gelders Hoofd,7,"","",7399RA,Empe
+Dovenkampweg,1,"","",7399RB,Empe
+Dovenkampweg,10,"","",7399RB,Empe
+Dovenkampweg,10,A,"",7399RB,Empe
+Dovenkampweg,12,"","",7399RB,Empe
+Dovenkampweg,2,"","",7399RB,Empe
+Dovenkampweg,3,"","",7399RB,Empe
+Dovenkampweg,4,"","",7399RB,Empe
+Dovenkampweg,5,"","",7399RB,Empe
+Dovenkampweg,6,"","",7399RB,Empe
+Dovenkampweg,8,"","",7399RB,Empe
+Dovenkampweg,8,A,"",7399RB,Empe
+IJsselstraat,1,"","",7399RC,Empe
+IJsselstraat,1,A,"",7399RC,Empe
+IJsselstraat,1,B,"",7399RC,Empe
+IJsselstraat,10,"","",7399RC,Empe
+IJsselstraat,10,"","",7399RC,Empe
+IJsselstraat,11,"","",7399RC,Empe
+IJsselstraat,13,"","",7399RC,Empe
+IJsselstraat,2,"","",7399RC,Empe
+IJsselstraat,3,"","",7399RC,Empe
+IJsselstraat,4,"","",7399RC,Empe
+IJsselstraat,5,"","",7399RC,Empe
+IJsselstraat,6,"","",7399RC,Empe
+IJsselstraat,6,A,"",7399RC,Empe
+IJsselstraat,6,B,"",7399RC,Empe
+IJsselstraat,7,"","",7399RC,Empe
+IJsselstraat,8,"","",7399RC,Empe
+IJsselstraat,8,A,"",7399RC,Empe
+IJsselstraat,9,"","",7399RC,Empe
+IJsselstraat,9,A,"",7399RC,Empe

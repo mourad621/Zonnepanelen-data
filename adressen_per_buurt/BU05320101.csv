@@ -1,39 +1,39 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1614MA,Kadijkweg,51,,
-1614MA,Kadijkweg,53,,
-1614MA,Kadijkweg,55,,
-1614MA,Kadijkweg,56,,
-1614MA,Kadijkweg,57,,
-1614MA,Kadijkweg,58,,
-1614MA,Kadijkweg,65,,
-1614MA,Kadijkweg,67,,
-1614LX,Kerspelweg,2,,
-1614LX,Kerspelweg,14,,
-1614MB,De Gouw,53,,
-1614MB,De Gouw,57,,
-1614MB,De Gouw,57,a,
-1614MB,De Gouw,59,,
-1614MB,De Gouw,61,,
-1614MA,Kadijkweg,65,a,
-1614MA,Kadijkweg,65,a,
-1614MA,Kadijkweg,55,a,
-1614LX,Kerspelweg,14,a,
-1614LX,Kerspelweg,14,b,
-1614LX,Kerspelweg,14,c,
-1614LX,Kerspelweg,14,d,
-1614LX,Kerspelweg,14,e,
-1614LX,Kerspelweg,14,f,
-1614LX,Kerspelweg,14,g,
-1614LX,Kerspelweg,14,h,
-1614LX,Kerspelweg,14,j,
-1614LX,Kerspelweg,14,k,
-1614MB,De Gouw,55,,
-1614MB,De Gouw,53,a,
-1614MB,De Gouw,59,a,
-1614MB,De Gouw,59,a,
-1614MB,De Gouw,55,a,
-1614MB,De Gouw,55,a,
-1614MB,De Gouw,55,b,
-1614MB,De Gouw,55,b,
-1614MB,De Gouw,55,c,
-1614MB,De Gouw,55,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kerspelweg,14,"","",1614LX,Lutjebroek
+Kerspelweg,14,A,"",1614LX,Lutjebroek
+Kerspelweg,14,B,"",1614LX,Lutjebroek
+Kerspelweg,14,C,"",1614LX,Lutjebroek
+Kerspelweg,14,D,"",1614LX,Lutjebroek
+Kerspelweg,14,E,"",1614LX,Lutjebroek
+Kerspelweg,14,F,"",1614LX,Lutjebroek
+Kerspelweg,14,G,"",1614LX,Lutjebroek
+Kerspelweg,14,H,"",1614LX,Lutjebroek
+Kerspelweg,14,J,"",1614LX,Lutjebroek
+Kerspelweg,14,K,"",1614LX,Lutjebroek
+Kerspelweg,2,"","",1614LX,Lutjebroek
+Kadijkweg,51,"","",1614MA,Lutjebroek
+Kadijkweg,53,"","",1614MA,Lutjebroek
+Kadijkweg,55,"","",1614MA,Lutjebroek
+Kadijkweg,55,A,"",1614MA,Lutjebroek
+Kadijkweg,56,"","",1614MA,Lutjebroek
+Kadijkweg,57,"","",1614MA,Lutjebroek
+Kadijkweg,58,"","",1614MA,Lutjebroek
+Kadijkweg,65,"","",1614MA,Lutjebroek
+Kadijkweg,65,A,"",1614MA,Lutjebroek
+Kadijkweg,65,A,"",1614MA,Lutjebroek
+Kadijkweg,67,"","",1614MA,Lutjebroek
+De Gouw,53,"","",1614MB,Grootebroek
+De Gouw,53,A,"",1614MB,Lutjebroek
+De Gouw,55,"","",1614MB,Lutjebroek
+De Gouw,55,A,"",1614MB,Lutjebroek
+De Gouw,55,A,"",1614MB,Lutjebroek
+De Gouw,55,B,"",1614MB,Lutjebroek
+De Gouw,55,B,"",1614MB,Lutjebroek
+De Gouw,55,C,"",1614MB,Lutjebroek
+De Gouw,55,C,"",1614MB,Lutjebroek
+De Gouw,57,"","",1614MB,Lutjebroek
+De Gouw,57,A,"",1614MB,Lutjebroek
+De Gouw,59,"","",1614MB,Lutjebroek
+De Gouw,59,A,"",1614MB,Lutjebroek
+De Gouw,59,A,"",1614MB,Lutjebroek
+De Gouw,61,"","",1614MB,Lutjebroek

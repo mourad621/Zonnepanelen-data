@@ -1,31 +1,31 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4458RB,Stelledijk,1,,
-4458RC,Nieuwe Rijksweg,34,,
-4458RC,Nieuwe Rijksweg,38,,
-4458RD,Baalsewegje,2,,
-4458NB,Ankervere,4,,
-4458NB,Ankervere,3,,
-4458ND,Vlaamseweg,1,,
-4458NC,Oude Kraaijertsedijk,4,,
-4458RB,Stelledijk,4,,
-4458RB,Stelledijk,3,,
-4458RB,Stelledijk,2,,
-4458RE,Stelledijk,42,,
-4458RC,Nieuwe Rijksweg,55,,
-4458RC,Nieuwe Rijksweg,36,,
-4458RC,Nieuwe Rijksweg,34,A,
-4458NB,Ankervere,1,,
-4458ND,Kromme Weide,6,,
-4458RA,Noordzakweg,24,,
-4458RA,Noordzakweg,22,,
-4458RA,Noordzakweg,21,,
-4458ND,Vlaamseweg,3,,
-4458ND,Vlaamseweg,9,,
-4458ND,Vlaamseweg,5,,
-4458NC,Oude Kraaijertsedijk,2,,
-4458RB,Stelledijk,7,,
-4458RE,Stelledijk,40,,
-4458RA,Noordzakweg,40,,
-4458ND,Vlaamseweg,7,,
-4458NC,Oude Kraaijertsedijk,2,,
-4458SN,Rijksweg,99,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ankervere,1,"","",4458NB,'s-Heer Arendskerke
+Ankervere,3,"","",4458NB,'s-Heer Arendskerke
+Ankervere,4,"","",4458NB,'s-Heer Arendskerke
+Oude Kraaijertsedijk,2,"","",4458NC,'s-Heer Arendskerke
+Oude Kraaijertsedijk,2,"","",4458NC,'s-Heer Arendskerke
+Oude Kraaijertsedijk,4,"","",4458NC,'s-Heer Arendskerke
+Vlaamseweg,1,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,3,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,5,"","",4458ND,'s-Heer Arendskerke
+Kromme Weide,6,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,7,"","",4458ND,'s-Heer Arendskerke
+Vlaamseweg,9,"","",4458ND,'s-Heer Arendskerke
+Noordzakweg,21,"","",4458RA,'s-Heer Arendskerke
+Noordzakweg,22,"","",4458RA,'s-Heer Arendskerke
+Noordzakweg,24,"","",4458RA,'s-Heer Arendskerke
+Noordzakweg,40,"","",4458RA,'s-Heer Arendskerke
+Stelledijk,1,"","",4458RB,'s-Heer Arendskerke
+Stelledijk,2,"","",4458RB,'s-Heer Arendskerke
+Stelledijk,3,"","",4458RB,'s-Heer Arendskerke
+Stelledijk,4,"","",4458RB,'s-Heer Arendskerke
+Stelledijk,7,"","",4458RB,'s-Heer Arendskerke
+Nieuwe Rijksweg,34,"","",4458RC,'s-Heer Arendskerke
+Nieuwe Rijksweg,34,A,"",4458RC,'s-Heer Arendskerke
+Nieuwe Rijksweg,36,"","",4458RC,'s-Heer Arendskerke
+Nieuwe Rijksweg,38,"","",4458RC,'s-Heer Arendskerke
+Nieuwe Rijksweg,55,"","",4458RC,'s-Heer Arendskerke
+Baalsewegje,2,"","",4458RD,'s-Heer Arendskerke
+Stelledijk,40,"","",4458RE,'s-Heer Arendskerke
+Stelledijk,42,"","",4458RE,'s-Heer Arendskerke
+Rijksweg,99,"","",4458SN,'s-Heer Arendskerke

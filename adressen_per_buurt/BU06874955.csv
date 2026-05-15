@@ -1,44 +1,44 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4339PK,Binnendijk,1,,
-4339PK,Binnendijk,2,,
-4339PK,Binnendijk,3,,
-4339PK,Binnendijk,5,,
-4339PN,Boomdijk,1,,
-4339PN,Boomdijk,2,,
-4339PN,Boomdijk,6,,
-4339PN,Boomdijk,8,,
-4339PL,Mortierepolder,2,,
-4339PP,Trekdijk,126,,
-4339PL,Mortierepolder,1,A,
-4339PL,Mortierepolder,1,,
-4339AE,Molendijk,70,A,
-4339AE,Molendijk,70,,
-4339AE,Molendijk,72,,
-4339AE,Molendijk,74,,
-4339AE,Molendijk,56,,
-4339AE,Molendijk,58,,
-4339AE,Molendijk,60,,
-4339AE,Molendijk,62,,
-4339AE,Molendijk,64,,
-4339AE,Molendijk,66,,
-4339AE,Molendijk,68,,
-4339AE,Molendijk,50,,
-4339AE,Molendijk,54,,
-4339PV,Oude Schroeweg,124,,
-4339PK,Binnendijk,6,,
-4339PK,Binnendijk,10,,
-4339PK,Binnendijk,12,,
-4339PK,Binnendijk,14,,
-4339PL,Mortierepolder,1,B,
-4339AE,Molendijk,80,,
-4339AE,Molendijk,52,,
-4339PK,Binnendijk,12,A,
-4339PK,Binnendijk,12,B,
-4339PK,Binnendijk,2,A,
-4339PK,Binnendijk,2,X,
-4339PK,Binnendijk,2,X,
-4339PN,Boomdijk,1,A,
-4339PN,Boomdijk,1,,
-4339PL,Mortierepolder,2,A,
-4339AE,Molendijk,52,,
-4339AE,Molendijk,54,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Molendijk,50,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,52,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,52,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,54,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,54,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,56,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,58,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,60,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,62,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,64,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,66,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,68,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,70,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,70,A,"",4339AE,Nieuw- en Sint Joosland
+Molendijk,72,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,74,"","",4339AE,Nieuw- en Sint Joosland
+Molendijk,80,"","",4339AE,Nieuw- en Sint Joosland
+Binnendijk,1,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,10,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,A,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,B,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,14,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,A,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,X,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,X,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,3,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,5,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,6,"","",4339PK,Nieuw- en Sint Joosland
+Mortierepolder,1,"","",4339PL,Nieuw- en Sint Joosland
+Mortierepolder,1,A,"",4339PL,Nieuw- en Sint Joosland
+Mortierepolder,1,B,"",4339PL,Nieuw- en Sint Joosland
+Mortierepolder,2,"","",4339PL,Nieuw- en Sint Joosland
+Mortierepolder,2,A,"",4339PL,Nieuw- en Sint Joosland
+Boomdijk,1,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,1,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,1,A,"",4339PN,Nieuw- en Sint Joosland
+Boomdijk,2,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,6,"","",4339PN,Nieuw- en Sint Joosland
+Boomdijk,8,"","",4339PN,Nieuw- en Sint Joosland
+Trekdijk,126,"","",4339PP,Nieuw- en Sint Joosland
+Oude Schroeweg,124,"","",4339PV,Nieuw- en Sint Joosland

@@ -1,69 +1,69 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8529MJ,Nr,1,,
-8529MJ,Nr,2,,
-8529MJ,Nr,3,,
-8529MJ,Nr,3,,
-8529MJ,Nr,7,,
-8529MJ,Nr,8,,
-8529MJ,Nr,9,,
-8529MJ,Nr,10,,
-8529MJ,Nr,10,,
-8529MJ,Nr,11,,
-8529MJ,Nr,11,,
-8529MJ,Nr,12,,
-8529MJ,Nr,13,,
-8529MJ,Nr,14,,
-8529MJ,Nr,16,,
-8529MJ,Nr,17,,
-8529MJ,Nr,19,,
-8529MK,Nr,25,,
-8529MK,Nr,27,,
-8529MK,Nr,29,,
-8529MK,Nr,33,,
-8529MK,Nr,35,,
-8529MK,Nr,37,,
-8529MK,Nr,39,,
-8529MK,Nr,41,,
-8529MK,Nr,43,,
-8529MK,Nr,47,,
-8529MK,Nr,49,,
-8529MK,Nr,20,,
-8529MK,Nr,21,,
-8529MK,Nr,23,,
-8529MK,Nr,24,,
-8529MK,Nr,51,,
-8529MK,Nr,53,,
-8529MK,Nr,55,,
-8529MK,Nr,57,,
-8551RK,De Zwaan,24,,
-8551RK,De Zwaan,10,,
-8551RK,De Zwaan,2,,
-8551RK,De Zwaan,4,,
-8551RK,De Zwaan,6,,
-8551RK,De Zwaan,8,,
-8551RK,De Zwaan,12,,
-8551RK,De Zwaan,14,,
-8551RK,De Zwaan,16,,
-8551RK,De Zwaan,22,,
-8551RK,De Zwaan,26,,
-8551RK,De Zwaan,28,,
-8551RK,De Zwaan,20,,
-8529MJ,Nr,1,A,
-8529MK,Nr,59,,
-8529MK,Nr,22,,
-8529MK,Nr,45,,
-8529MK,Nr,55,A,
-8529MK,Nr,51,,
-8551RK,De Zwaan,34,,
-8551RK,De Zwaan,18,,
-8551RK,De Zwaan,18,A,
-8551RK,De Zwaan,18,B,
-8551RK,De Zwaan,18,C,
-8551RK,De Zwaan,18,D,
-8551RK,De Zwaan,18,E,
-8551RK,De Zwaan,18,F,
-8551RK,De Zwaan,18,G,
-8551RK,De Zwaan,18,H,
-8551RK,De Zwaan,26,A,
-8529MJ,Nr,11,,
-8529MK,Nr,45,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nr,1,"","",8529MJ,Koufurderrige
+Nr,1,A,"",8529MJ,Koufurderrige
+Nr,10,"","",8529MJ,Koufurderrige
+Nr,10,"","",8529MJ,Koufurderrige
+Nr,11,"","",8529MJ,Koufurderrige
+Nr,11,"","",8529MJ,Koufurderrige
+Nr,11,"","",8529MJ,Koufurderrige
+Nr,12,"","",8529MJ,Koufurderrige
+Nr,13,"","",8529MJ,Koufurderrige
+Nr,14,"","",8529MJ,Koufurderrige
+Nr,16,"","",8529MJ,Koufurderrige
+Nr,17,"","",8529MJ,Koufurderrige
+Nr,19,"","",8529MJ,Koufurderrige
+Nr,2,"","",8529MJ,Koufurderrige
+Nr,3,"","",8529MJ,Koufurderrige
+Nr,3,"","",8529MJ,Koufurderrige
+Nr,7,"","",8529MJ,Koufurderrige
+Nr,8,"","",8529MJ,Koufurderrige
+Nr,9,"","",8529MJ,Koufurderrige
+Nr,20,"","",8529MK,Koufurderrige
+Nr,21,"","",8529MK,Koufurderrige
+Nr,22,"","",8529MK,Koufurderrige
+Nr,23,"","",8529MK,Koufurderrige
+Nr,24,"","",8529MK,Koufurderrige
+Nr,25,"","",8529MK,Koufurderrige
+Nr,27,"","",8529MK,Koufurderrige
+Nr,29,"","",8529MK,Koufurderrige
+Nr,33,"","",8529MK,Koufurderrige
+Nr,35,"","",8529MK,Koufurderrige
+Nr,37,"","",8529MK,Koufurderrige
+Nr,39,"","",8529MK,Koufurderrige
+Nr,41,"","",8529MK,Koufurderrige
+Nr,43,"","",8529MK,Koufurderrige
+Nr,45,"","",8529MK,Koufurderrige
+Nr,45,"","",8529MK,Koufurderrige
+Nr,47,"","",8529MK,Koufurderrige
+Nr,49,"","",8529MK,Koufurderrige
+Nr,51,"","",8529MK,Koufurderrige
+Nr,51,"","",8529MK,Koufurderrige
+Nr,53,"","",8529MK,Koufurderrige
+Nr,55,"","",8529MK,Koufurderrige
+Nr,55,A,"",8529MK,Koufurderrige
+Nr,57,"","",8529MK,Koufurderrige
+Nr,59,"","",8529MK,Koufurderrige
+De Zwaan,10,"","",8551RK,Woudsend
+De Zwaan,12,"","",8551RK,Woudsend
+De Zwaan,14,"","",8551RK,Woudsend
+De Zwaan,16,"","",8551RK,Woudsend
+De Zwaan,18,"","",8551RK,Woudsend
+De Zwaan,18,A,"",8551RK,Woudsend
+De Zwaan,18,B,"",8551RK,Woudsend
+De Zwaan,18,C,"",8551RK,Woudsend
+De Zwaan,18,D,"",8551RK,Woudsend
+De Zwaan,18,E,"",8551RK,Woudsend
+De Zwaan,18,F,"",8551RK,Woudsend
+De Zwaan,18,G,"",8551RK,Woudsend
+De Zwaan,18,H,"",8551RK,Woudsend
+De Zwaan,2,"","",8551RK,Woudsend
+De Zwaan,20,"","",8551RK,Woudsend
+De Zwaan,22,"","",8551RK,Woudsend
+De Zwaan,24,"","",8551RK,Woudsend
+De Zwaan,26,"","",8551RK,Woudsend
+De Zwaan,26,A,"",8551RK,Woudsend
+De Zwaan,28,"","",8551RK,Woudsend
+De Zwaan,34,"","",8551RK,Woudsend
+De Zwaan,4,"","",8551RK,Woudsend
+De Zwaan,6,"","",8551RK,Woudsend
+De Zwaan,8,"","",8551RK,Woudsend

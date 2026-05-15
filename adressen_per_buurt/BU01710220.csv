@@ -1,88 +1,89 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8314PV",58,"","TR"
-"8314PV",46,"",""
-"8314PV",62,"",""
-"8314PV",46,"B",""
-"8314PV",70,"",""
-"8314PV",64,"",""
-"8314PV",68,"","2"
-"8314PV",62,"","TR"
-"8314PV",46,"C",""
-"8314PV",58,"",""
-"8314PV",68,"",""
-"8314PV",46,"A",""
-"8314PV",60,"",""
-"8314PV",56,"",""
-"8314RC",15,"",""
-"8314RC",19,"",""
-"8314RC",1,"A",""
-"8314RC",7,"",""
-"8314RC",19,"",""
-"8314RC",1,"",""
-"8314RC",5,"",""
-"8314RC",11,"",""
-"8314RC",4,"G","TR"
-"8314RC",13,"",""
-"8314RD",2,"",""
-"8314RD",1,"",""
-"8314RD",20,"",""
-"8314RD",2,"B",""
-"8314RD",18,"",""
-"8314RD",3,"A",""
-"8314RD",3,"",""
-"8314RD",18,"A",""
-"8314RD",5,"",""
-"8314RD",8,"B",""
-"8314RD",6,"",""
-"8314RD",11,"",""
-"8314RD",10,"B",""
-"8314RD",10,"A",""
-"8314RD",16,"",""
-"8314RD",12,"",""
-"8314RD",8,"A",""
-"8314RD",14,"",""
-"8314RD",4,"",""
-8314RC,Banterkade,1,A,
-8314RC,Banterkade,5,,
-8314RC,Banterkade,11,,
-8314RC,Banterkade,13,,
-8314RC,Banterkade,15,,
-8314RC,Banterkade,19,,
-8314RC,Banterkade,19,,
-8314RC,Banterkade,1,,
-8314RC,Banterkade,4,G,TR
-8314RD,het Rister,1,,
-8314RD,het Rister,2,,
-8314RD,het Rister,3,,
-8314RD,het Rister,6,,
-8314RD,het Rister,8,B,
-8314RD,het Rister,10,B,
-8314RD,het Rister,11,,
-8314RD,het Rister,12,,
-8314RD,het Rister,14,,
-8314RD,het Rister,16,,
-8314RD,het Rister,20,,
-8314RD,het Rister,10,A,
-8314RD,het Rister,8,A,
-8314RD,het Rister,3,A,
-8314PV,Oosterringweg,46,,
-8314PV,Oosterringweg,46,A,
-8314PV,Oosterringweg,46,B,
-8314PV,Oosterringweg,46,C,
-8314PV,Oosterringweg,58,,
-8314PV,Oosterringweg,60,,
-8314PV,Oosterringweg,62,,
-8314PV,Oosterringweg,64,,
-8314PV,Oosterringweg,56,,
-8314PV,Oosterringweg,58,,TR
-8314PV,Oosterringweg,62,,TR
-8314PV,Oosterringweg,68,,2
-8314PV,Oosterringweg,68,,
-8314PV,Oosterringweg,70,,
-8314RC,Banterkade,7,,
-8314RD,het Rister,18,,
-8314RD,het Rister,5,,
-8314RD,het Rister,4,,
-8314RD,het Rister,2,B,
-8314RD,het Rister,18,A,
-8314RD,het Rister,7,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+46,"","","",8314PV,
+62,"","","",8314PV,
+70,"","","",8314PV,
+64,"","","",8314PV,
+58,"","","",8314PV,
+68,"","","",8314PV,
+60,"","","",8314PV,
+56,"","","",8314PV,
+68,"",2,"",8314PV,
+58,"",TR,"",8314PV,
+62,"",TR,"",8314PV,
+Oosterringweg,46,"","",8314PV,Bant
+Oosterringweg,46,A,"",8314PV,Bant
+Oosterringweg,46,B,"",8314PV,Bant
+Oosterringweg,46,C,"",8314PV,Bant
+Oosterringweg,56,"","",8314PV,Bant
+Oosterringweg,58,"","",8314PV,Bant
+Oosterringweg,58,"",TR,8314PV,Bant
+Oosterringweg,60,"","",8314PV,Bant
+Oosterringweg,62,"","",8314PV,Bant
+Oosterringweg,62,"",TR,8314PV,Bant
+Oosterringweg,64,"","",8314PV,Bant
+Oosterringweg,68,"","",8314PV,Bant
+Oosterringweg,68,"",2,8314PV,Bant
+Oosterringweg,70,"","",8314PV,Bant
+46,A,"","",8314PV,
+46,B,"","",8314PV,
+46,C,"","",8314PV,
+15,"","","",8314RC,
+19,"","","",8314RC,
+7,"","","",8314RC,
+19,"","","",8314RC,
+1,"","","",8314RC,
+5,"","","",8314RC,
+11,"","","",8314RC,
+13,"","","",8314RC,
+Banterkade,1,"","",8314RC,Bant
+Banterkade,1,A,"",8314RC,Bant
+Banterkade,11,"","",8314RC,Bant
+Banterkade,13,"","",8314RC,Bant
+Banterkade,15,"","",8314RC,Bant
+Banterkade,19,"","",8314RC,Bant
+Banterkade,19,"","",8314RC,Bant
+Banterkade,4,G,TR,8314RC,Bant
+Banterkade,5,"","",8314RC,Bant
+Banterkade,7,"","",8314RC,Bant
+1,A,"","",8314RC,
+4,G,TR,"",8314RC,
+2,"","","",8314RD,
+1,"","","",8314RD,
+20,"","","",8314RD,
+18,"","","",8314RD,
+3,"","","",8314RD,
+5,"","","",8314RD,
+6,"","","",8314RD,
+11,"","","",8314RD,
+16,"","","",8314RD,
+12,"","","",8314RD,
+14,"","","",8314RD,
+4,"","","",8314RD,
+het Rister,1,"","",8314RD,Bant
+het Rister,10,A,"",8314RD,Bant
+het Rister,10,B,"",8314RD,Bant
+het Rister,11,"","",8314RD,Bant
+het Rister,12,"","",8314RD,Bant
+het Rister,14,"","",8314RD,Bant
+het Rister,16,"","",8314RD,Bant
+het Rister,18,"","",8314RD,Bant
+het Rister,18,A,"",8314RD,Bant
+het Rister,2,"","",8314RD,Bant
+het Rister,2,B,"",8314RD,Bant
+het Rister,20,"","",8314RD,Bant
+het Rister,3,"","",8314RD,Bant
+het Rister,3,A,"",8314RD,Bant
+het Rister,4,"","",8314RD,Bant
+het Rister,5,"","",8314RD,Bant
+het Rister,6,"","",8314RD,Bant
+het Rister,7,B,"",8314RD,Bant
+het Rister,8,A,"",8314RD,Bant
+het Rister,8,B,"",8314RD,Bant
+3,A,"","",8314RD,
+18,A,"","",8314RD,
+10,A,"","",8314RD,
+8,A,"","",8314RD,
+2,B,"","",8314RD,
+8,B,"","",8314RD,
+10,B,"","",8314RD,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

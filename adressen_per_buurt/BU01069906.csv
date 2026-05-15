@@ -1,74 +1,75 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9486TD",203,"",""
-"9486TD",203,"A",""
-"9486TD",201,"B",""
-"9486TD",201,"",""
-"9486TD",201,"A",""
-"9486TD",207,"",""
-"9486TD",203,"A",""
-"9486TD",205,"",""
-"9486TE",202,"A",""
-"9486TE",206,"",""
-"9486TE",204,"",""
-"9486TE",208,"",""
-"9486TE",200,"",""
-"9486TE",202,"",""
-"9486TE",202,"",""
-"9486TE",202,"",""
-"9486TE",200,"",""
-"9486TE",200,"",""
-"9486TE",200,"A",""
-"9486TE",204,"A",""
-"9486TG",10,"",""
-"9486TG",10,"",""
-"9486TG",2,"",""
-"9486TG",10,"A",""
-"9486TG",1,"",""
-"9486TG",10,"",""
-"9486TG",2,"A",""
-"9486TG",8,"",""
-"9486TG",6,"",""
-"9486TG",8,"",""
-"9486TG",10,"",""
-"9486TG",10,"",""
-"9486TG",4,"",""
-"9486TG",10,"A",""
-"9486TH",2,"",""
-"9486TH",4,"A",""
-"9486TH",4,"",""
-"9486TH",1,"",""
-"9486TH",4,"A",""
-9486TD,Asserstraat,201,A,
-9486TD,Asserstraat,201,B,
-9486TD,Asserstraat,201,,
-9486TD,Asserstraat,203,,
-9486TD,Asserstraat,205,,
-9486TD,Asserstraat,207,,
-9486TE,Asserstraat,200,,
-9486TE,Asserstraat,202,A,
-9486TE,Asserstraat,202,,
-9486TE,Asserstraat,204,A,
-9486TE,Asserstraat,204,,
-9486TE,Asserstraat,206,,
-9486TE,Asserstraat,208,,
-9486TG,Dr. Johan Picardtweg,1,,
-9486TG,Dr. Johan Picardtweg,2,A,
-9486TG,Dr. Johan Picardtweg,2,,
-9486TG,Dr. Johan Picardtweg,6,,
-9486TG,Dr. Johan Picardtweg,10,,
-9486TH,Messchenweg,1,,
-9486TH,Messchenweg,2,,
-9486TH,Messchenweg,4,,
-9486TD,Asserstraat,203,A,
-9486TE,Asserstraat,200,,
-9486TE,Asserstraat,200,A,
-9486TE,Asserstraat,202,,
-9486TG,Dr. Johan Picardtweg,8,,
-9486TG,Dr. Johan Picardtweg,8,,
-9486TG,Dr. Johan Picardtweg,10,,
-9486TG,Dr. Johan Picardtweg,10,A,
-9486TG,Dr. Johan Picardtweg,10,,
-9486TG,Dr. Johan Picardtweg,4,,
-9486TE,Asserstraat,200,,
-9486TH,Messchenweg,4,A,
-9486TH,Messchenweg,4,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+203,"","","",9486TD,
+201,"","","",9486TD,
+207,"","","",9486TD,
+205,"","","",9486TD,
+Asserstraat,201,"","",9486TD,Rhee
+Asserstraat,201,A,"",9486TD,Rhee
+Asserstraat,201,B,"",9486TD,Rhee
+Asserstraat,203,"","",9486TD,Rhee
+Asserstraat,203,A,"",9486TD,Rhee
+Asserstraat,205,"","",9486TD,Rhee
+Asserstraat,207,"","",9486TD,Rhee
+203,A,"","",9486TD,
+201,A,"","",9486TD,
+203,A,"","",9486TD,
+201,B,"","",9486TD,
+206,"","","",9486TE,
+204,"","","",9486TE,
+208,"","","",9486TE,
+200,"","","",9486TE,
+202,"","","",9486TE,
+202,"","","",9486TE,
+202,"","","",9486TE,
+200,"","","",9486TE,
+200,"","","",9486TE,
+Asserstraat,200,"","",9486TE,Rhee
+Asserstraat,200,"","",9486TE,Rhee
+Asserstraat,200,"","",9486TE,Rhee
+Asserstraat,200,A,"",9486TE,Rhee
+Asserstraat,202,"","",9486TE,Rhee
+Asserstraat,202,"","",9486TE,Rhee
+Asserstraat,202,A,"",9486TE,Rhee
+Asserstraat,204,"","",9486TE,Rhee
+Asserstraat,204,A,"",9486TE,Rhee
+Asserstraat,206,"","",9486TE,Rhee
+Asserstraat,208,"","",9486TE,Rhee
+202,A,"","",9486TE,
+200,A,"","",9486TE,
+204,A,"","",9486TE,
+10,"","","",9486TG,
+10,"","","",9486TG,
+2,"","","",9486TG,
+1,"","","",9486TG,
+10,"","","",9486TG,
+8,"","","",9486TG,
+6,"","","",9486TG,
+8,"","","",9486TG,
+10,"","","",9486TG,
+10,"","","",9486TG,
+4,"","","",9486TG,
+Dr. Johan Picardtweg,1,"","",9486TG,Rhee
+Dr. Johan Picardtweg,10,"","",9486TG,Rhee
+Dr. Johan Picardtweg,10,"","",9486TG,Rhee
+Dr. Johan Picardtweg,10,"","",9486TG,Rhee
+Dr. Johan Picardtweg,10,A,"",9486TG,Rhee
+Dr. Johan Picardtweg,2,"","",9486TG,Rhee
+Dr. Johan Picardtweg,2,A,"",9486TG,Rhee
+Dr. Johan Picardtweg,4,"","",9486TG,Rhee
+Dr. Johan Picardtweg,6,"","",9486TG,Rhee
+Dr. Johan Picardtweg,8,"","",9486TG,Rhee
+Dr. Johan Picardtweg,8,"","",9486TG,Rhee
+10,A,"","",9486TG,
+2,A,"","",9486TG,
+10,A,"","",9486TG,
+2,"","","",9486TH,
+4,"","","",9486TH,
+1,"","","",9486TH,
+Messchenweg,1,"","",9486TH,Rhee
+Messchenweg,2,"","",9486TH,Rhee
+Messchenweg,4,"","",9486TH,Rhee
+Messchenweg,4,A,"",9486TH,Rhee
+Messchenweg,4,A,"",9486TH,Rhee
+4,A,"","",9486TH,
+4,A,"","",9486TH,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

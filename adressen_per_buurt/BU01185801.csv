@@ -1,509 +1,253 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7914TB",29,"",""
-"7914TB",37,"",""
-"7914TB",29,"",""
-"7914TB",25,"",""
-"7914TB",29,"a",""
-"7914TB",27,"",""
-"7914TB",29,"a",""
-"7914TB",29,"",""
-"7914TB",35,"",""
-"7914TB",35,"",""
-"7914TB",29,"",""
-"7914TB",37,"",""
-"7914TB",35,"",""
-"7936PB",2,"",""
-"7936PB",4,"",""
-"7936PB",30,"T",""
-"7936PB",4,"c",""
-"7936PB",6,"",""
-"7936PB",4,"b",""
-"7936PB",32,"a",""
-"7936PB",6,"",""
-"7936PB",42,"",""
-"7936PB",16,"",""
-"7936PB",24,"",""
-"7936PB",28,"",""
-"7936PB",10,"a",""
-"7936PB",10,"",""
-"7936PB",8,"g",""
-"7936PB",30,"a",""
-"7936PB",8,"b",""
-"7936PB",30,"T",""
-"7936PB",2,"",""
-"7936PB",8,"h",""
-"7936PB",12,"",""
-"7936PB",8,"a",""
-"7936PB",22,"",""
-"7936PB",10,"b",""
-"7936PB",6,"a",""
-"7936PB",8,"f",""
-"7936PB",6,"a",""
-"7936PB",18,"",""
-"7936PB",20,"",""
-"7936PB",26,"",""
-"7936PB",8,"",""
-"7936PB",4,"a",""
-"7936PB",40,"",""
-"7936PB",16,"",""
-"7936PB",8,"d",""
-"7936PB",6,"",""
-"7936PB",16,"",""
-"7936PB",8,"c",""
-"7936PB",8,"a",""
-"7936PB",8,"a",""
-"7936PB",14,"",""
-"7936PB",8,"a","1"
-"7936PB",30,"",""
-"7936PB",32,"",""
-"7936PB",8,"a","1"
-"7936TA",3,"",""
-"7936TA",5,"",""
-"7936TA",8,"",""
-"7936TA",4,"",""
-"7936TA",2,"",""
-"7936TA",1,"",""
-"7936TA",3,"a",""
-"7936TA",2,"",""
-"7936TA",6,"",""
-"7936TA",7,"",""
-"7936TA",1,"b",""
-"7936TB",9,"",""
-"7936TB",11,"",""
-"7936TG",27,"",""
-"7936TG",29,"",""
-"7936TG",41,"",""
-"7936TG",29,"a",""
-"7936TG",29,"",""
-"7936TG",29,"",""
-"7936TG",29,"",""
-"7936TG",37,"",""
-"7936TG",33,"",""
-"7936TG",29,"a",""
-"7936TG",25,"",""
-"7936TG",37,"a",""
-"7936TG",29,"",""
-"7936TG",31,"",""
-"7936TG",39,"",""
-"7936TG",29,"a",""
-"7936TH",9,"",""
-"7936TJ",51,"",""
-"7936TJ",53,"",""
-"7936TJ",2,"",""
-"7936TJ",6,"",""
-"7936TJ",57,"",""
-"7936TJ",47,"T",""
-"7936TJ",49,"",""
-"7936TJ",8,"",""
-"7936TJ",45,"a",""
-"7936TJ",8,"a",""
-"7936TJ",51,"a",""
-"7936TJ",4,"",""
-"7936TJ",41,"",""
-"7936TJ",51,"b",""
-"7936TJ",61,"",""
-"7936TJ",14,"",""
-"7936TJ",59,"",""
-"7936TJ",47,"T",""
-"7936TJ",47,"",""
-"7936TJ",12,"",""
-"7936TJ",55,"",""
-"7936TJ",45,"",""
-"7936TJ",43,"",""
-"7936TJ",10,"",""
-"7936TJ",57,"a",""
-"7936TJ",43,"a",""
-"7936TK",38,"",""
-"7936TK",32,"",""
-"7936TK",30,"a",""
-"7936TK",20,"",""
-"7936TK",42,"",""
-"7936TK",30,"",""
-"7936TK",22,"",""
-"7936TK",18,"",""
-"7936TK",34,"",""
-"7936TK",40,"",""
-"7936TK",20,"a",""
-"7936TK",28,"",""
-"7936TK",16,"",""
-"7936TK",36,"",""
-"7936TK",24,"",""
-"7936TK",44,"",""
-"7936TK",26,"",""
-"7936TL",10,"",""
-"7936TL",26,"",""
-"7936TL",6,"",""
-"7936TL",20,"",""
-"7936TL",4,"a",""
-"7936TL",18,"",""
-"7936TL",14,"",""
-"7936TL",12,"",""
-"7936TL",22,"T",""
-"7936TL",24,"",""
-"7936TL",22,"T",""
-"7936TL",16,"",""
-"7936TL",22,"",""
-"7936TL",4,"T",""
-"7936TL",28,"",""
-"7936TL",4,"",""
-"7936TN",39,"",""
-"7936TN",29,"",""
-"7936TN",7,"",""
-"7936TN",49,"",""
-"7936TN",29,"a",""
-"7936TN",57,"",""
-"7936TN",59,"",""
-"7936TN",27,"",""
-"7936TN",53,"",""
-"7936TN",11,"",""
-"7936TN",51,"",""
-"7936TN",25,"",""
-"7936TN",23,"",""
-"7936TN",21,"",""
-"7936TN",15,"",""
-"7936TN",7,"",""
-"7936TN",3,"",""
-"7936TN",9,"",""
-"7936TN",7,"",""
-"7936TN",5,"",""
-"7936TP",7,"",""
-"7936TP",11,"",""
-"7936TP",15,"",""
-"7936TP",12,"b",""
-"7936TP",15,"b","11"
-"7936TP",9,"",""
-"7936TP",12,"",""
-"7936TP",15,"b","27"
-"7936TP",14,"",""
-"7936TP",10,"",""
-"7936TP",15,"b","29"
-"7936TP",12,"a",""
-"7936TP",15,"b","5"
-"7936TP",15,"b","10"
-"7936TP",14,"",""
-"7936TP",15,"b","28"
-"7936TP",15,"b","17"
-"7936TP",22,"",""
-"7936TP",10,"a",""
-"7936TP",14,"",""
-"7936TP",8,"",""
-"7936TP",15,"",""
-"7936TP",15,"b","9"
-"7936TP",15,"b","15"
-"7936TP",15,"",""
-"7936TP",15,"b","18"
-"7936TP",5,"",""
-"7936TP",15,"b","1"
-"7936TP",15,"b","3"
-"7936TP",15,"a",""
-"7936TP",3,"",""
-"7936TP",17,"",""
-"7936TP",8,"a",""
-"7936TP",15,"b","25"
-"7936TP",15,"b","26"
-"7936TP",3,"a",""
-"7936TP",4,"",""
-"7936TP",15,"b","8"
-"7936TP",18,"",""
-"7936TP",15,"b","7"
-"7936TP",15,"b","12"
-"7936TP",6,"",""
-"7936TP",15,"b","20"
-"7936TP",15,"b","6"
-"7936TP",15,"b","21"
-"7936TP",15,"c",""
-"7936TP",15,"b","20"
-"7936TP",15,"b","4"
-"7936TP",15,"b","23"
-"7936TP",15,"b","14"
-"7936TP",15,"b","20"
-"7936TP",16,"",""
-"7936TP",15,"b","24"
-"7936TP",15,"b","2"
-"7936TP",15,"b","13"
-"7936TP",15,"b","16"
-"7936TP",15,"b","22"
-"7936TP",15,"b","19"
-"7936TR",3,"",""
-"7936TR",6,"a",""
-"7936TR",6,"a",""
-"7936TR",6,"",""
-"7936TR",10,"",""
-"7936TR",5,"",""
-"7936TR",2,"",""
-"7936TR",4,"b",""
-"7936TR",4,"",""
-"7936TR",7,"",""
-"7936TR",16,"",""
-"7936TR",4,"",""
-"7936TR",4,"a",""
-"7936TR",12,"",""
-"7936TR",4,"",""
-"7936TS",8,"a",""
-"7936TS",7,"",""
-"7936TS",9,"",""
-"7936TS",7,"b",""
-"7936TS",6,"",""
-"7936TS",7,"a",""
-"7936TS",8,"",""
-"7936TS",10,"",""
-"7936TS",2,"a",""
-"7936TS",1,"",""
-"7936TS",2,"",""
-"7936TS",4,"",""
-7936TR,Gosem Engelsstraat,16,,
-7914TB,Europaweg,25,,
-7914TB,Europaweg,27,,
-7914TB,Europaweg,29,,
-7914TB,Europaweg,35,,
-7914TB,Europaweg,37,,
-7914TB,Europaweg,37,,
-7914TB,Europaweg,35,,
-7914TB,Europaweg,29,,
-7914TB,Europaweg,29,,
-7914TB,Europaweg,29,a,
-7914TB,Europaweg,29,a,
-7936TP,Haarweg,3,,
-7936TP,Haarweg,4,,
-7936TP,Haarweg,5,,
-7936TP,Haarweg,6,,
-7936TP,Haarweg,7,,
-7936TP,Haarweg,8,,
-7936TP,Haarweg,8,a,
-7936TP,Haarweg,9,,
-7936TP,Haarweg,10,,
-7936TP,Haarweg,10,a,
-7936TP,Haarweg,11,,
-7936TP,Haarweg,12,,
-7936TP,Haarweg,12,a,
-7936TP,Haarweg,14,,
-7936TP,Haarweg,15,,
-7936TP,Haarweg,15,a,
-7936TP,Haarweg,15,b,1
-7936TP,Haarweg,15,b,10
-7936TP,Haarweg,15,b,11
-7936TP,Haarweg,15,b,12
-7936TP,Haarweg,15,b,13
-7936TP,Haarweg,15,b,14
-7936TP,Haarweg,15,b,15
-7936TP,Haarweg,15,b,16
-7936TP,Haarweg,15,b,17
-7936TP,Haarweg,15,b,18
-7936TP,Haarweg,15,b,19
-7936TP,Haarweg,15,b,2
-7936TP,Haarweg,15,b,20
-7936TP,Haarweg,15,b,21
-7936TP,Haarweg,15,b,22
-7936TP,Haarweg,15,b,23
-7936TP,Haarweg,15,b,24
-7936TP,Haarweg,15,b,25
-7936TP,Haarweg,15,b,26
-7936TP,Haarweg,15,b,27
-7936TP,Haarweg,15,b,28
-7936TP,Haarweg,15,b,29
-7936TP,Haarweg,15,b,3
-7936TP,Haarweg,15,b,4
-7936TP,Haarweg,15,b,5
-7936TP,Haarweg,15,b,6
-7936TP,Haarweg,15,b,7
-7936TP,Haarweg,15,b,8
-7936TP,Haarweg,15,b,9
-7936TP,Haarweg,16,,
-7936TP,Haarweg,17,,
-7936TP,Haarweg,18,,
-7936TP,Haarweg,22,,
-7936TP,Haarweg,3,a,
-7936TP,Haarweg,12,b,
-7936TP,Haarweg,15,c,
-7936TS,Hoogeveenseweg,1,,
-7936TS,Hoogeveenseweg,2,,
-7936TS,Hoogeveenseweg,2,a,
-7936TS,Hoogeveenseweg,4,,
-7936TS,Hoogeveenseweg,6,,
-7936TS,Hoogeveenseweg,7,,
-7936TS,Hoogeveenseweg,8,,
-7936TS,Hoogeveenseweg,9,,
-7936TS,Hoogeveenseweg,10,,
-7936TS,Hoogeveenseweg,7,a,
-7936TS,Hoogeveenseweg,7,b,
-7936TN,Kanaal O.Z.,3,,
-7936TN,Kanaal O.Z.,5,,
-7936TN,Kanaal O.Z.,7,,
-7936TN,Kanaal O.Z.,9,,
-7936TN,Kanaal O.Z.,11,,
-7936TN,Kanaal O.Z.,15,,
-7936TN,Kanaal O.Z.,21,,
-7936TN,Kanaal O.Z.,23,,
-7936TN,Kanaal O.Z.,25,,
-7936TN,Kanaal O.Z.,27,,
-7936TN,Kanaal O.Z.,29,,
-7936TN,Kanaal O.Z.,29,a,
-7936TN,Kanaal O.Z.,39,,
-7936TN,Kanaal O.Z.,49,,
-7936TN,Kanaal O.Z.,51,,
-7936TN,Kanaal O.Z.,53,,
-7936TN,Kanaal O.Z.,57,,
-7936TN,Kanaal O.Z.,59,,
-7936TN,Kanaal O.Z.,7,,
-7936TL,Kanaal W.Z.,4,,
-7936TL,Kanaal W.Z.,4,a,
-7936TL,Kanaal W.Z.,6,,
-7936TL,Kanaal W.Z.,10,,
-7936TL,Kanaal W.Z.,12,,
-7936TL,Kanaal W.Z.,14,,
-7936TL,Kanaal W.Z.,16,,
-7936TL,Kanaal W.Z.,18,,
-7936TL,Kanaal W.Z.,20,,
-7936TL,Kanaal W.Z.,22,,
-7936TL,Kanaal W.Z.,24,,
-7936TL,Kanaal W.Z.,26,,
-7936TL,Kanaal W.Z.,28,,
-7936TL,Kanaal W.Z.,22,T,
-7936TL,Kanaal W.Z.,22,T,
-7936TL,Kanaal W.Z.,4,T,
-7936TJ,Kerkweg,2,,
-7936TJ,Kerkweg,4,,
-7936TJ,Kerkweg,6,,
-7936TJ,Kerkweg,8,,
-7936TJ,Kerkweg,8,a,
-7936TJ,Kerkweg,10,,
-7936TJ,Kerkweg,12,,
-7936TJ,Kerkweg,14,,
-7936TJ,Kerkweg,41,,
-7936TJ,Kerkweg,43,,
-7936TJ,Kerkweg,45,,
-7936TJ,Kerkweg,45,a,
-7936TJ,Kerkweg,47,,
-7936TJ,Kerkweg,49,,
-7936TJ,Kerkweg,51,,
-7936TJ,Kerkweg,51,a,
-7936TJ,Kerkweg,51,b,
-7936TJ,Kerkweg,53,,
-7936TJ,Kerkweg,55,,
-7936TJ,Kerkweg,57,,
-7936TJ,Kerkweg,57,a,
-7936TJ,Kerkweg,59,,
-7936TJ,Kerkweg,61,,
-7936TJ,Kerkweg,47,T,
-7936TJ,Kerkweg,47,T,
-7936TJ,Kerkweg,43,a,
-7936TK,Kerkweg,16,,
-7936TK,Kerkweg,18,,
-7936TK,Kerkweg,20,,
-7936TK,Kerkweg,22,,
-7936TK,Kerkweg,24,,
-7936TK,Kerkweg,26,,
-7936TK,Kerkweg,28,,
-7936TK,Kerkweg,30,,
-7936TK,Kerkweg,30,a,
-7936TK,Kerkweg,32,,
-7936TK,Kerkweg,34,,
-7936TK,Kerkweg,36,,
-7936TK,Kerkweg,38,,
-7936TK,Kerkweg,42,,
-7936TK,Kerkweg,44,,
-7936TK,Kerkweg,20,a,
-7936TB,Kremboong,9,,
-7936TB,Kremboong,11,,
-7936PB,Molenweg,4,,
-7936PB,Molenweg,2,,
-7936PB,Molenweg,2,,
-7936PB,Molenweg,6,,
-7936PB,Molenweg,8,,
-7936PB,Molenweg,8,a,
-7936PB,Molenweg,8,a,1
-7936PB,Molenweg,8,a,1
-7936PB,Molenweg,8,b,
-7936PB,Molenweg,8,c,
-7936PB,Molenweg,8,d,
-7936PB,Molenweg,8,f,
-7936PB,Molenweg,8,g,
-7936PB,Molenweg,8,h,
-7936PB,Molenweg,10,,
-7936PB,Molenweg,12,,
-7936PB,Molenweg,14,,
-7936PB,Molenweg,16,,
-7936PB,Molenweg,18,,
-7936PB,Molenweg,20,,
-7936PB,Molenweg,22,,
-7936PB,Molenweg,24,,
-7936PB,Molenweg,26,,
-7936PB,Molenweg,28,,
-7936PB,Molenweg,30,,
-7936PB,Molenweg,30,a,
-7936PB,Molenweg,32,,
-7936PB,Molenweg,32,a,
-7936PB,Molenweg,40,,
-7936PB,Molenweg,42,,
-7936PB,Molenweg,30,T,
-7936PB,Molenweg,30,T,
-7936PB,Molenweg,10,a,
-7936PB,Molenweg,4,a,
-7936PB,Molenweg,4,b,
-7936PB,Molenweg,4,c,
-7936PB,Molenweg,8,a,
-7936PB,Molenweg,8,a,
-7936PB,Molenweg,6,,
-7936PB,Molenweg,6,,
-7936PB,Molenweg,6,a,
-7936PB,Molenweg,6,a,
-7936PB,Molenweg,16,,
-7936TG,Molenweg,25,,
-7936TG,Molenweg,27,,
-7936TG,Molenweg,29,,
-7936TG,Molenweg,31,,
-7936TG,Molenweg,33,,
-7936TG,Molenweg,37,,
-7936TG,Molenweg,39,,
-7936TG,Molenweg,41,,
-7936TG,Molenweg,37,a,
-7936TG,Molenweg,29,,
-7936TG,Molenweg,29,,
-7936TG,Molenweg,29,,
-7936TG,Molenweg,29,a,
-7936TG,Molenweg,29,a,
-7936TG,Molenweg,29,a,
-7936TR,Noorderweg,2,,
-7936TR,Noorderweg,3,,
-7936TR,Noorderweg,4,,
-7936TR,Noorderweg,4,a,
-7936TR,Noorderweg,5,,
-7936TR,Noorderweg,6,,
-7936TR,Noorderweg,7,,
-7936TR,Noorderweg,12,,
-7936TR,Noorderweg,10,,
-7936TR,Noorderweg,6,a,
-7936TR,Noorderweg,6,a,
-7936TR,Noorderweg,4,b,
-7936TA,Siberië,1,,
-7936TA,Siberië,1,b,
-7936TA,Siberië,3,,
-7936TA,Siberië,3,a,
-7936TA,Siberië,4,,
-7936TA,Siberië,5,,
-7936TA,Siberië,6,,
-7936TA,Siberië,7,,
-7936TA,Siberië,8,,
-7936TA,Siberië,2,,
-7936TA,Siberië,2,,
-7936TH,Siberië,9,,
-7936TP,Haarweg,15,,
-7936TP,Haarweg,14,,
-7936TP,Haarweg,15,b,20
-7936TP,Haarweg,10,b,
-7936TS,Hoogeveenseweg,8,a,
-7936TK,Kerkweg,40,,
-7936PB,Molenweg,10,b,
-7936TG,Molenweg,33,,
-7936TG,Molenweg,33,a,
-7936TR,Noorderweg,4,,
-7936TL,Kanaal W.Z.,2,,
-7936TL,Kanaal W.Z.,2,A,
-7936TB,Kremboong,2,,
-7936TB,Kremboong,4,,
-7936TB,Kremboong,6,,
-7936TB,Kremboong,8,,
-7936TB,Kremboong,10,,
-7936TB,Kremboong,12,,
-7936TB,Kremboong,14,,
-7936TB,Kremboong,2,T,1
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Europaweg,25,"","",7914TB,Noordscheschut
+Europaweg,27,"","",7914TB,Noordscheschut
+Europaweg,29,"","",7914TB,Noordscheschut
+Europaweg,29,"","",7914TB,Noordscheschut
+Europaweg,29,"","",7914TB,Noordscheschut
+Europaweg,29,"","",7914TB,Noordscheschut
+Europaweg,29,A,"",7914TB,Noordscheschut
+Europaweg,29,A,"",7914TB,Noordscheschut
+Europaweg,35,"","",7914TB,Noordscheschut
+Europaweg,35,"","",7914TB,Noordscheschut
+Europaweg,35,"","",7914TB,Noordscheschut
+Europaweg,37,"","",7914TB,Noordscheschut
+Europaweg,37,"","",7914TB,Noordscheschut
+Molenweg,10,"","",7936PB,Tiendeveen
+Molenweg,10,A,"",7936PB,Tiendeveen
+Molenweg,10,B,"",7936PB,Tiendeveen
+Molenweg,12,"","",7936PB,Tiendeveen
+Molenweg,14,"","",7936PB,Tiendeveen
+Molenweg,16,"","",7936PB,Tiendeveen
+Molenweg,16,"","",7936PB,Tiendeveen
+Molenweg,16,"","",7936PB,Tiendeveen
+Molenweg,18,"","",7936PB,Tiendeveen
+Molenweg,2,"","",7936PB,Tiendeveen
+Molenweg,2,"","",7936PB,Tiendeveen
+Molenweg,20,"","",7936PB,Tiendeveen
+Molenweg,22,"","",7936PB,Tiendeveen
+Molenweg,24,"","",7936PB,Tiendeveen
+Molenweg,26,"","",7936PB,Tiendeveen
+Molenweg,28,"","",7936PB,Tiendeveen
+Molenweg,30,"","",7936PB,Tiendeveen
+Molenweg,30,A,"",7936PB,Tiendeveen
+Molenweg,30,T,"",7936PB,Tiendeveen
+Molenweg,30,T,"",7936PB,Tiendeveen
+Molenweg,32,"","",7936PB,Tiendeveen
+Molenweg,32,A,"",7936PB,Tiendeveen
+Molenweg,4,"","",7936PB,Tiendeveen
+Molenweg,4,A,"",7936PB,Tiendeveen
+Molenweg,4,B,"",7936PB,Tiendeveen
+Molenweg,4,C,"",7936PB,Tiendeveen
+Molenweg,40,"","",7936PB,Tiendeveen
+Molenweg,42,"","",7936PB,Tiendeveen
+Molenweg,6,"","",7936PB,Tiendeveen
+Molenweg,6,"","",7936PB,Tiendeveen
+Molenweg,6,"","",7936PB,Tiendeveen
+Molenweg,6,A,"",7936PB,Tiendeveen
+Molenweg,6,A,"",7936PB,Tiendeveen
+Molenweg,8,"","",7936PB,Tiendeveen
+Molenweg,8,A,"",7936PB,Tiendeveen
+Molenweg,8,A,"",7936PB,Tiendeveen
+Molenweg,8,A,"",7936PB,Tiendeveen
+Molenweg,8,A,1,7936PB,Tiendeveen
+Molenweg,8,A,1,7936PB,Tiendeveen
+Molenweg,8,B,"",7936PB,Tiendeveen
+Molenweg,8,C,"",7936PB,Tiendeveen
+Molenweg,8,D,"",7936PB,Tiendeveen
+Molenweg,8,F,"",7936PB,Tiendeveen
+Molenweg,8,G,"",7936PB,Tiendeveen
+Molenweg,8,H,"",7936PB,Tiendeveen
+Siberië,1,"","",7936TA,Tiendeveen
+Siberië,1,B,"",7936TA,Tiendeveen
+Siberië,2,"","",7936TA,Tiendeveen
+Siberië,2,"","",7936TA,Tiendeveen
+Siberië,3,"","",7936TA,Tiendeveen
+Siberië,3,A,"",7936TA,Tiendeveen
+Siberië,4,"","",7936TA,Tiendeveen
+Siberië,5,"","",7936TA,Tiendeveen
+Siberië,6,"","",7936TA,Tiendeveen
+Siberië,7,"","",7936TA,Tiendeveen
+Siberië,8,"","",7936TA,Tiendeveen
+Kremboong,11,"","",7936TB,Tiendeveen
+Kremboong,9,"","",7936TB,Tiendeveen
+Molenweg,25,"","",7936TG,Tiendeveen
+Molenweg,27,"","",7936TG,Tiendeveen
+Molenweg,29,"","",7936TG,Tiendeveen
+Molenweg,29,"","",7936TG,Tiendeveen
+Molenweg,29,"","",7936TG,Tiendeveen
+Molenweg,29,"","",7936TG,Tiendeveen
+Molenweg,29,"","",7936TG,Tiendeveen
+Molenweg,29,A,"",7936TG,Tiendeveen
+Molenweg,29,A,"",7936TG,Tiendeveen
+Molenweg,29,A,"",7936TG,Tiendeveen
+Molenweg,31,"","",7936TG,Tiendeveen
+Molenweg,33,"","",7936TG,Tiendeveen
+Molenweg,37,"","",7936TG,Tiendeveen
+Molenweg,37,A,"",7936TG,Tiendeveen
+Molenweg,39,"","",7936TG,Tiendeveen
+Molenweg,41,"","",7936TG,Tiendeveen
+Siberië,9,"","",7936TH,Tiendeveen
+Kerkweg,10,"","",7936TJ,Tiendeveen
+Kerkweg,12,"","",7936TJ,Tiendeveen
+Kerkweg,14,"","",7936TJ,Tiendeveen
+Kerkweg,2,"","",7936TJ,Tiendeveen
+Kerkweg,4,"","",7936TJ,Tiendeveen
+Kerkweg,41,"","",7936TJ,Tiendeveen
+Kerkweg,43,"","",7936TJ,Tiendeveen
+Kerkweg,43,A,"",7936TJ,Tiendeveen
+Kerkweg,45,"","",7936TJ,Tiendeveen
+Kerkweg,45,A,"",7936TJ,Tiendeveen
+Kerkweg,47,"","",7936TJ,Tiendeveen
+Kerkweg,47,T,"",7936TJ,Tiendeveen
+Kerkweg,47,T,"",7936TJ,Tiendeveen
+Kerkweg,49,"","",7936TJ,Tiendeveen
+Kerkweg,51,"","",7936TJ,Tiendeveen
+Kerkweg,51,A,"",7936TJ,Tiendeveen
+Kerkweg,51,B,"",7936TJ,Tiendeveen
+Kerkweg,53,"","",7936TJ,Tiendeveen
+Kerkweg,55,"","",7936TJ,Tiendeveen
+Kerkweg,57,"","",7936TJ,Tiendeveen
+Kerkweg,57,A,"",7936TJ,Tiendeveen
+Kerkweg,59,"","",7936TJ,Tiendeveen
+Kerkweg,6,"","",7936TJ,Tiendeveen
+Kerkweg,61,"","",7936TJ,Tiendeveen
+Kerkweg,8,"","",7936TJ,Tiendeveen
+Kerkweg,8,A,"",7936TJ,Tiendeveen
+Kerkweg,16,"","",7936TK,Tiendeveen
+Kerkweg,18,"","",7936TK,Tiendeveen
+Kerkweg,20,"","",7936TK,Tiendeveen
+Kerkweg,20,A,"",7936TK,Tiendeveen
+Kerkweg,22,"","",7936TK,Tiendeveen
+Kerkweg,24,"","",7936TK,Tiendeveen
+Kerkweg,26,"","",7936TK,Tiendeveen
+Kerkweg,28,"","",7936TK,Tiendeveen
+Kerkweg,30,"","",7936TK,Tiendeveen
+Kerkweg,30,A,"",7936TK,Tiendeveen
+Kerkweg,32,"","",7936TK,Tiendeveen
+Kerkweg,34,"","",7936TK,Tiendeveen
+Kerkweg,36,"","",7936TK,Tiendeveen
+Kerkweg,38,"","",7936TK,Tiendeveen
+Kerkweg,40,"","",7936TK,Tiendeveen
+Kerkweg,42,"","",7936TK,Tiendeveen
+Kerkweg,44,"","",7936TK,Tiendeveen
+Kanaal W.Z.,10,"","",7936TL,Tiendeveen
+Kanaal W.Z.,12,"","",7936TL,Tiendeveen
+Kanaal W.Z.,14,"","",7936TL,Tiendeveen
+Kanaal W.Z.,16,"","",7936TL,Tiendeveen
+Kanaal W.Z.,18,"","",7936TL,Tiendeveen
+Kanaal W.Z.,20,"","",7936TL,Tiendeveen
+Kanaal W.Z.,22,"","",7936TL,Tiendeveen
+Kanaal W.Z.,22,T,"",7936TL,Tiendeveen
+Kanaal W.Z.,22,T,"",7936TL,Tiendeveen
+Kanaal W.Z.,24,"","",7936TL,Tiendeveen
+Kanaal W.Z.,26,"","",7936TL,Tiendeveen
+Kanaal W.Z.,28,"","",7936TL,Tiendeveen
+Kanaal W.Z.,4,"","",7936TL,Tiendeveen
+Kanaal W.Z.,4,A,"",7936TL,Tiendeveen
+Kanaal W.Z.,4,T,"",7936TL,Tiendeveen
+Kanaal W.Z.,6,"","",7936TL,Tiendeveen
+Kanaal O.Z.,11,"","",7936TN,Tiendeveen
+Kanaal O.Z.,15,"","",7936TN,Tiendeveen
+Kanaal O.Z.,21,"","",7936TN,Tiendeveen
+Kanaal O.Z.,23,"","",7936TN,Tiendeveen
+Kanaal O.Z.,25,"","",7936TN,Tiendeveen
+Kanaal O.Z.,27,"","",7936TN,Tiendeveen
+Kanaal O.Z.,29,"","",7936TN,Tiendeveen
+Kanaal O.Z.,29,A,"",7936TN,Tiendeveen
+Kanaal O.Z.,3,"","",7936TN,Tiendeveen
+Kanaal O.Z.,39,"","",7936TN,Tiendeveen
+Kanaal O.Z.,49,"","",7936TN,Tiendeveen
+Kanaal O.Z.,5,"","",7936TN,Tiendeveen
+Kanaal O.Z.,51,"","",7936TN,Tiendeveen
+Kanaal O.Z.,53,"","",7936TN,Tiendeveen
+Kanaal O.Z.,57,"","",7936TN,Tiendeveen
+Kanaal O.Z.,59,"","",7936TN,Tiendeveen
+Kanaal O.Z.,7,"","",7936TN,Tiendeveen
+Kanaal O.Z.,7,"","",7936TN,Tiendeveen
+Kanaal O.Z.,7,"","",7936TN,Tiendeveen
+Kanaal O.Z.,9,"","",7936TN,Tiendeveen
+Haarweg,10,"","",7936TP,Tiendeveen
+Haarweg,10,A,"",7936TP,Tiendeveen
+Haarweg,11,"","",7936TP,Tiendeveen
+Haarweg,12,"","",7936TP,Tiendeveen
+Haarweg,12,A,"",7936TP,Tiendeveen
+Haarweg,12,B,"",7936TP,Tiendeveen
+Haarweg,14,"","",7936TP,Tiendeveen
+Haarweg,14,"","",7936TP,Tiendeveen
+Haarweg,14,"","",7936TP,Tiendeveen
+Haarweg,15,"","",7936TP,Tiendeveen
+Haarweg,15,"","",7936TP,Tiendeveen
+Haarweg,15,"","",7936TP,Tiendeveen
+Haarweg,15,A,"",7936TP,Tiendeveen
+Haarweg,15,B,1,7936TP,Tiendeveen
+Haarweg,15,B,10,7936TP,Tiendeveen
+Haarweg,15,B,11,7936TP,Tiendeveen
+Haarweg,15,B,12,7936TP,Tiendeveen
+Haarweg,15,B,13,7936TP,Tiendeveen
+Haarweg,15,B,14,7936TP,Tiendeveen
+Haarweg,15,B,15,7936TP,Tiendeveen
+Haarweg,15,B,16,7936TP,Tiendeveen
+Haarweg,15,B,17,7936TP,Tiendeveen
+Haarweg,15,B,18,7936TP,Tiendeveen
+Haarweg,15,B,19,7936TP,Tiendeveen
+Haarweg,15,B,2,7936TP,Tiendeveen
+Haarweg,15,B,20,7936TP,Tiendeveen
+Haarweg,15,B,20,7936TP,Tiendeveen
+Haarweg,15,B,20,7936TP,Tiendeveen
+Haarweg,15,B,21,7936TP,Tiendeveen
+Haarweg,15,B,22,7936TP,Tiendeveen
+Haarweg,15,B,23,7936TP,Tiendeveen
+Haarweg,15,B,24,7936TP,Tiendeveen
+Haarweg,15,B,25,7936TP,Tiendeveen
+Haarweg,15,B,26,7936TP,Tiendeveen
+Haarweg,15,B,27,7936TP,Tiendeveen
+Haarweg,15,B,28,7936TP,Tiendeveen
+Haarweg,15,B,29,7936TP,Tiendeveen
+Haarweg,15,B,3,7936TP,Tiendeveen
+Haarweg,15,B,4,7936TP,Tiendeveen
+Haarweg,15,B,5,7936TP,Tiendeveen
+Haarweg,15,B,6,7936TP,Tiendeveen
+Haarweg,15,B,7,7936TP,Tiendeveen
+Haarweg,15,B,8,7936TP,Tiendeveen
+Haarweg,15,B,9,7936TP,Tiendeveen
+Haarweg,15,C,"",7936TP,Tiendeveen
+Haarweg,16,"","",7936TP,Tiendeveen
+Haarweg,17,"","",7936TP,Tiendeveen
+Haarweg,18,"","",7936TP,Tiendeveen
+Haarweg,22,"","",7936TP,Tiendeveen
+Haarweg,3,"","",7936TP,Tiendeveen
+Haarweg,3,A,"",7936TP,Tiendeveen
+Haarweg,4,"","",7936TP,Tiendeveen
+Haarweg,5,"","",7936TP,Tiendeveen
+Haarweg,6,"","",7936TP,Tiendeveen
+Haarweg,7,"","",7936TP,Tiendeveen
+Haarweg,8,"","",7936TP,Tiendeveen
+Haarweg,8,A,"",7936TP,Tiendeveen
+Haarweg,9,"","",7936TP,Tiendeveen
+Noorderweg,10,"","",7936TR,Tiendeveen
+Noorderweg,12,"","",7936TR,Tiendeveen
+Gosem Engelsstraat,16,"","",7936TR,Elim
+Noorderweg,2,"","",7936TR,Tiendeveen
+Noorderweg,3,"","",7936TR,Tiendeveen
+Noorderweg,4,"","",7936TR,Tiendeveen
+Noorderweg,4,"","",7936TR,Tiendeveen
+Noorderweg,4,"","",7936TR,Tiendeveen
+Noorderweg,4,A,"",7936TR,Tiendeveen
+Noorderweg,4,B,"",7936TR,Tiendeveen
+Noorderweg,5,"","",7936TR,Tiendeveen
+Noorderweg,6,"","",7936TR,Tiendeveen
+Noorderweg,6,A,"",7936TR,Tiendeveen
+Noorderweg,6,A,"",7936TR,Tiendeveen
+Noorderweg,7,"","",7936TR,Tiendeveen
+Hoogeveenseweg,1,"","",7936TS,Tiendeveen
+Hoogeveenseweg,10,"","",7936TS,Tiendeveen
+Hoogeveenseweg,2,"","",7936TS,Tiendeveen
+Hoogeveenseweg,2,A,"",7936TS,Tiendeveen
+Hoogeveenseweg,4,"","",7936TS,Tiendeveen
+Hoogeveenseweg,6,"","",7936TS,Tiendeveen
+Hoogeveenseweg,7,"","",7936TS,Tiendeveen
+Hoogeveenseweg,7,A,"",7936TS,Tiendeveen
+Hoogeveenseweg,7,B,"",7936TS,Tiendeveen
+Hoogeveenseweg,8,"","",7936TS,Tiendeveen
+Hoogeveenseweg,8,A,"",7936TS,Tiendeveen
+Hoogeveenseweg,9,"","",7936TS,Tiendeveen

@@ -1,62 +1,62 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9178GH,Bartlehiem F,75,,
-9178GH,Bartlehiem F,73,,
-9178GH,Bartlehiem F,71,,
-9178GH,Bartlehiem F,69,,
-9178GH,Bartlehiem F,67,,
-9178GH,Bartlehiem F,65,,
-9178GH,Bartlehiem F,63,,
-9178GH,Bartlehiem F,61,,
-9178GK,Goslingawei,13,,
-9178GK,Goslingawei,11,,
-9178GK,Goslingawei,9,,
-9178GK,Goslingawei,8,,
-9178GK,Goslingawei,7,,
-9178GK,Goslingawei,6,,
-9178GK,Goslingawei,5,,
-9178GK,Goslingawei,4,,
-9178GK,Goslingawei,3,,
-9178GK,Goslingawei,2,,
-9178GK,Goslingawei,1,,
-9178GM,Joastereed,4,,
-9178GM,Joastereed,1,,
-9178GC,Kleasterdyk,3,,
-9178GC,Kleasterdyk,1,A,
-9178GC,Kleasterdyk,1,,
-9178GE,Skettersdyk,9,,
-9178GE,Skettersdyk,7,,
-9178GE,Skettersdyk,6,,
-9178GE,Skettersdyk,5,,
-9178GE,Skettersdyk,4,,
-9178GE,Skettersdyk,3,,
-9178GE,Skettersdyk,1,A,
-9178GE,Skettersdyk,1,,
-9178GG,Tergrêft,27,,
-9178GG,Tergrêft,25,,
-9178GG,Tergrêft,23,,
-9178GG,Tergrêft,21,,
-9178GG,Tergrêft,19,,
-9178GG,Tergrêft,17,,
-9178GG,Tergrêft,15,,
-9178GG,Tergrêft,13,,
-9178GG,Tergrêft,11,,
-9178GG,Tergrêft,9,,
-9178GD,Wirdsterterp,8,,
-9178GD,Wirdsterterp,6,,
-9178GD,Wirdsterterp,4,,
-9178GD,Wirdsterterp,2,,
-9178GD,Wirdsterterp,1,,
-9178GV,Patroanswei,4,,
-9178GV,Patroanswei,3,,
-9178GV,Patroanswei,2,,
-9178GJ,Iedyk,10,,
-9178GD,Wirdsterterp,1,,
-9178GJ,Iedyk,7,,
-9178GJ,Iedyk,5,,
-9178GJ,Iedyk,3,,
-9178GJ,Iedyk,1,,
-9178GJ,Iedyk,1,,
-9178GJ,Iedyk,1,,
-9178GH,Bartlehiem F,67,A,
-9178GE,Skettersdyk,4,,
-9178GV,Patroanswei,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kleasterdyk,1,"","",9178GC,Wânswert
+Kleasterdyk,1,A,"",9178GC,Wânswert
+Kleasterdyk,3,"","",9178GC,Wânswert
+Wirdsterterp,1,"","",9178GD,Wânswert
+Wirdsterterp,1,"","",9178GD,Wânswert
+Wirdsterterp,2,"","",9178GD,Wânswert
+Wirdsterterp,4,"","",9178GD,Wânswert
+Wirdsterterp,6,"","",9178GD,Wânswert
+Wirdsterterp,8,"","",9178GD,Wânswert
+Skettersdyk,1,"","",9178GE,Wânswert
+Skettersdyk,1,A,"",9178GE,Wânswert
+Skettersdyk,3,"","",9178GE,Wânswert
+Skettersdyk,4,"","",9178GE,Wânswert
+Skettersdyk,4,"","",9178GE,Wânswert
+Skettersdyk,5,"","",9178GE,Wânswert
+Skettersdyk,6,"","",9178GE,Wânswert
+Skettersdyk,7,"","",9178GE,Wânswert
+Skettersdyk,9,"","",9178GE,Wânswert
+Tergrêft,11,"","",9178GG,Wânswert
+Tergrêft,13,"","",9178GG,Wânswert
+Tergrêft,15,"","",9178GG,Wânswert
+Tergrêft,17,"","",9178GG,Wânswert
+Tergrêft,19,"","",9178GG,Wânswert
+Tergrêft,21,"","",9178GG,Wânswert
+Tergrêft,23,"","",9178GG,Wânswert
+Tergrêft,25,"","",9178GG,Wânswert
+Tergrêft,27,"","",9178GG,Wânswert
+Tergrêft,9,"","",9178GG,Wânswert
+Bartlehiem F,61,"","",9178GH,Wânswert
+Bartlehiem F,63,"","",9178GH,Wânswert
+Bartlehiem F,65,"","",9178GH,Wânswert
+Bartlehiem F,67,"","",9178GH,Wânswert
+Bartlehiem F,67,A,"",9178GH,Wânswert
+Bartlehiem F,69,"","",9178GH,Wânswert
+Bartlehiem F,71,"","",9178GH,Wânswert
+Bartlehiem F,73,"","",9178GH,Wânswert
+Bartlehiem F,75,"","",9178GH,Wânswert
+Iedyk,1,"","",9178GJ,Wânswert
+Iedyk,1,"","",9178GJ,Wânswert
+Iedyk,1,"","",9178GJ,Wânswert
+Iedyk,10,"","",9178GJ,Wânswert
+Iedyk,3,"","",9178GJ,Wânswert
+Iedyk,5,"","",9178GJ,Wânswert
+Iedyk,7,"","",9178GJ,Wânswert
+Goslingawei,1,"","",9178GK,Wânswert
+Goslingawei,11,"","",9178GK,Wânswert
+Goslingawei,13,"","",9178GK,Wânswert
+Goslingawei,2,"","",9178GK,Wânswert
+Goslingawei,3,"","",9178GK,Wânswert
+Goslingawei,4,"","",9178GK,Wânswert
+Goslingawei,5,"","",9178GK,Wânswert
+Goslingawei,6,"","",9178GK,Wânswert
+Goslingawei,7,"","",9178GK,Wânswert
+Goslingawei,8,"","",9178GK,Wânswert
+Goslingawei,9,"","",9178GK,Wânswert
+Joastereed,1,"","",9178GM,Wânswert
+Joastereed,4,"","",9178GM,Wânswert
+Patroanswei,2,"","",9178GV,Wânswert
+Patroanswei,3,"","",9178GV,Wânswert
+Patroanswei,4,"","",9178GV,Wânswert
+Patroanswei,6,"","",9178GV,Wânswert

@@ -1,39 +1,40 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9087CC",1,"",""
-"9087CD",5,"",""
-"9087CD",10,"",""
-"9087CD",3,"",""
-"9087CD",1,"",""
-"9087CD",7,"",""
-"9087CD",2,"",""
-"9087CD",4,"",""
-"9087CD",4,"a",""
-"9087CD",6,"",""
-"9087CE",11,"",""
-"9087CE",1,"",""
-"9087CE",10,"",""
-"9087CE",2,"",""
-"9087CE",13,"",""
-"9087CE",11,"k",""
-"9087CE",4,"",""
-"9087CE",7,"",""
-"9087CE",6,"",""
-9087CD,Ayttadyk,1,,
-9087CD,Ayttadyk,3,,
-9087CD,Ayttadyk,5,,
-9087CE,Om 'e Tsjerke,1,,
-9087CE,Om 'e Tsjerke,2,,
-9087CE,Om 'e Tsjerke,4,,
-9087CC,Moskoureed,1,,
-9087CE,Moskoureed,7,,
-9087CE,Moskoureed,11,,
-9087CE,Moskoureed,13,,
-9087CE,Moskoureed,11,k,
-9087CD,Ayttadyk,4,,
-9087CD,Ayttadyk,6,,
-9087CD,Ayttadyk,10,,
-9087CD,Ayttadyk,7,,
-9087CE,Om 'e Tsjerke,10,,
-9087CD,Ayttadyk,2,,
-9087CD,Ayttadyk,4,a,
-9087CE,Om 'e Tsjerke,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+1,"","","",9087CC,
+Moskoureed,1,"","",9087CC,Swichum
+5,"","","",9087CD,
+10,"","","",9087CD,
+3,"","","",9087CD,
+1,"","","",9087CD,
+7,"","","",9087CD,
+2,"","","",9087CD,
+4,"","","",9087CD,
+6,"","","",9087CD,
+Ayttadyk,1,"","",9087CD,Swichum
+Ayttadyk,10,"","",9087CD,Swichum
+Ayttadyk,2,"","",9087CD,Swichum
+Ayttadyk,3,"","",9087CD,Swichum
+Ayttadyk,4,"","",9087CD,Swichum
+Ayttadyk,4,A,"",9087CD,Swichum
+Ayttadyk,5,"","",9087CD,Swichum
+Ayttadyk,6,"","",9087CD,Swichum
+Ayttadyk,7,"","",9087CD,Swichum
+4,A,"","",9087CD,
+11,"","","",9087CE,
+1,"","","",9087CE,
+10,"","","",9087CE,
+2,"","","",9087CE,
+13,"","","",9087CE,
+4,"","","",9087CE,
+7,"","","",9087CE,
+6,"","","",9087CE,
+Om 'e Tsjerke,1,"","",9087CE,Swichum
+Om 'e Tsjerke,10,"","",9087CE,Swichum
+Moskoureed,11,"","",9087CE,Swichum
+Moskoureed,11,K,"",9087CE,Swichum
+Moskoureed,13,"","",9087CE,Swichum
+Om 'e Tsjerke,2,"","",9087CE,Swichum
+Om 'e Tsjerke,4,"","",9087CE,Swichum
+Om 'e Tsjerke,6,"","",9087CE,Swichum
+Moskoureed,7,"","",9087CE,Swichum
+11,K,"","",9087CE,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

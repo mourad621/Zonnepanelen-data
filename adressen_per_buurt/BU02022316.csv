@@ -1,1678 +1,363 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"6836AA",26,"A",""
-"6836AA",28,"",""
-"6836AC",23,"",""
-"6836AC",25,"A",""
-"6836AC",21,"A",""
-"6836AC",11,"",""
-"6836AC",15,"",""
-"6836AC",19,"A",""
-"6836AC",9,"",""
-"6836AC",13,"",""
-"6836AC",11,"",""
-"6836AL",152,"",""
-"6836AL",172,"",""
-"6836AL",192,"",""
-"6836AL",156,"",""
-"6836AL",158,"",""
-"6836AL",178,"",""
-"6836AL",154,"",""
-"6836AL",162,"",""
-"6836AM",222,"",""
-"6836AM",224,"",""
-"6836KJ",83,"",""
-"6836KJ",49,"",""
-"6836KJ",85,"",""
-"6836KJ",97,"",""
-"6836KJ",71,"",""
-"6836KJ",91,"",""
-"6836KJ",65,"",""
-"6836KJ",57,"",""
-"6836KJ",55,"",""
-"6836LJ",7,"",""
-"6836LJ",45,"",""
-"6836LJ",31,"",""
-"6836LJ",3,"",""
-"6836LJ",1,"",""
-"6836LJ",47,"A",""
-"6836LJ",25,"",""
-"6836LK",87,"",""
-"6836LK",51,"",""
-"6836LK",97,"",""
-"6836LK",49,"",""
-"6836MX",43,"",""
-"6836MX",7,"",""
-"6836MX",103,"",""
-"6836MX",85,"",""
-"6836MX",75,"",""
-"6836MX",55,"",""
-"6836MX",81,"",""
-"6836MX",15,"",""
-"6836MX",101,"",""
-"6836MX",39,"",""
-"6836MX",89,"",""
-"6836MX",19,"",""
-"6836MX",1,"",""
-"6836MX",83,"",""
-"6836MX",41,"",""
-"6836MX",49,"",""
-"6836MX",5,"",""
-"6836MX",45,"A",""
-"6836MX",53,"",""
-"6836MX",47,"",""
-"6836MX",13,"",""
-"6836MX",9,"",""
-"6836SB",37,"",""
-"6836SB",23,"",""
-"6836SB",39,"",""
-"6836SB",35,"",""
-"6836SC",3,"",""
-"6836SC",4,"",""
-"6836SC",16,"",""
-"6836SC",15,"",""
-"6836SC",11,"",""
-"6836SE",8,"",""
-"6836SE",13,"",""
-"6836SE",6,"",""
-"6836SE",7,"",""
-"6836SG",10,"",""
-"6836SG",16,"",""
-"6836SH",13,"",""
-"6836SH",7,"",""
-"6836SH",9,"",""
-"6836SH",1,"",""
-"6836SH",11,"",""
-"6836SJ",8,"",""
-"6836SJ",7,"",""
-"6836SJ",6,"",""
-"6836SJ",3,"",""
-"6836SJ",15,"",""
-"6836SJ",13,"",""
-"6836SJ",12,"",""
-"6836SK",12,"",""
-"6836SK",14,"",""
-"6836SK",10,"",""
-"6836SK",8,"",""
-"6836SL",319,"",""
-"6836SL",323,"",""
-"6836SM",50,"",""
-"6836SM",68,"",""
-"6836SM",30,"",""
-"6836SM",44,"",""
-"6836SM",56,"",""
-"6836SM",72,"",""
-"6836SN",42,"",""
-"6836SN",52,"",""
-"6836SN",16,"",""
-"6836SN",4,"",""
-"6836SN",22,"",""
-"6836SN",56,"",""
-"6836SN",50,"",""
-"6836SN",44,"",""
-"6836SP",110,"",""
-"6836SP",106,"",""
-"6836SP",58,"",""
-"6836SP",104,"",""
-"6836SP",82,"",""
-"6836SP",72,"",""
-"6836SP",100,"",""
-"6836SP",78,"",""
-"6836SP",90,"",""
-"6836SP",112,"",""
-"6836SP",80,"",""
-"6836SP",86,"",""
-"6836SP",94,"",""
-"6836SR",9,"",""
-"6836SR",5,"",""
-"6836SR",21,"",""
-"6836SR",14,"",""
-"6836SR",11,"",""
-"6836SR",17,"",""
-"6836SR",4,"",""
-"6836SR",20,"",""
-"6836ST",1,"",""
-"6836ST",23,"",""
-"6836ST",17,"",""
-"6836ST",13,"",""
-"6836ST",10,"",""
-"6836ST",16,"",""
-"6836SV",2,"",""
-"6836SW",19,"",""
-"6836SW",7,"",""
-"6836SW",23,"",""
-"6836SW",17,"",""
-"6836SW",9,"",""
-"6836SW",11,"",""
-"6836SW",3,"",""
-"6836SX",13,"",""
-"6836SX",7,"",""
-"6836SX",1,"",""
-"6836SX",12,"",""
-"6836SX",18,"",""
-"6836SX",23,"",""
-"6836SX",10,"",""
-"6836SZ",12,"",""
-"6836SZ",18,"",""
-"6836SZ",6,"",""
-"6836SZ",10,"",""
-"6836TA",38,"",""
-"6836TA",4,"",""
-"6836TA",8,"",""
-"6836TA",2,"",""
-"6836TA",24,"",""
-"6836TA",40,"",""
-"6836TA",18,"",""
-"6836TA",36,"",""
-"6836TB",3,"",""
-"6836TB",15,"",""
-"6836TB",13,"",""
-"6836TC",1,"",""
-"6836TC",3,"",""
-"6836TC",16,"",""
-"6836TC",11,"",""
-"6836TC",10,"",""
-"6836TC",15,"",""
-"6836TD",9,"",""
-"6836TD",1,"",""
-"6836TD",5,"",""
-"6836TD",13,"",""
-"6836TE",14,"",""
-"6836TE",6,"",""
-"6836TE",8,"",""
-"6836TG",13,"",""
-"6836TG",4,"",""
-"6836TH",14,"",""
-"6836TH",1,"",""
-"6836TH",13,"",""
-"6836TJ",13,"",""
-"6836TJ",19,"",""
-"6836TJ",25,"",""
-"6836TJ",51,"",""
-"6836TJ",37,"",""
-"6836TJ",11,"",""
-"6836TJ",53,"",""
-"6836TK",91,"",""
-"6836TK",61,"",""
-"6836TK",93,"",""
-"6836TK",99,"",""
-"6836TK",59,"",""
-"6836TK",101,"",""
-"6836TL",12,"",""
-"6836TL",10,"",""
-"6836TL",6,"",""
-"6836TL",24,"",""
-"6836TL",19,"",""
-"6836TL",16,"",""
-"6836TM",3,"",""
-"6836TM",1,"",""
-"6836TM",2,"",""
-"6836TM",20,"",""
-"6836TM",6,"",""
-"6836TM",23,"",""
-"6836TM",10,"",""
-"6836TM",7,"",""
-"6836TM",11,"",""
-"6836TN",19,"",""
-"6836TP",10,"",""
-"6836TP",4,"",""
-"6836TP",24,"",""
-"6836TP",22,"",""
-"6836TP",18,"",""
-"6836TP",8,"",""
-"6836TR",37,"",""
-"6836TR",1,"",""
-"6836TR",53,"",""
-"6836TR",59,"",""
-"6836TR",47,"",""
-"6836TR",43,"",""
-"6836TR",25,"",""
-"6836TR",21,"",""
-"6836TR",13,"",""
-"6836TR",73,"",""
-"6836TR",19,"",""
-"6836TV",33,"",""
-"6836TV",53,"",""
-"6836TV",35,"",""
-"6836TV",57,"",""
-"6836TV",37,"",""
-"6836TV",59,"",""
-"6836TV",11,"",""
-"6836TV",61,"",""
-"6836TV",75,"",""
-"6836TV",73,"",""
-"6836TV",3,"",""
-"6836TV",13,"",""
-"6836TV",55,"",""
-"6836TV",21,"",""
-"6836TV",65,"",""
-"6836TW",62,"",""
-"6836TW",54,"",""
-"6836TW",58,"",""
-"6836TW",56,"",""
-"6836TW",68,"",""
-"6836TW",78,"",""
-"6836TW",80,"",""
-"6836TW",66,"",""
-"6836TW",50,"",""
-"6836TX",84,"",""
-"6836TX",92,"",""
-"6836TX",124,"",""
-"6836TX",116,"",""
-"6836TX",104,"",""
-"6836TX",110,"",""
-"6836TX",112,"",""
-"6836TX",90,"",""
-"6836TZ",210,"",""
-"6836TZ",216,"",""
-"6836VA",53,"",""
-"6836VA",77,"",""
-"6836VA",93,"",""
-"6836VA",73,"",""
-"6836VA",111,"",""
-"6836VA",79,"",""
-"6836VA",67,"",""
-"6836VA",59,"",""
-"6836VA",89,"",""
-"6836VA",81,"",""
-"6836VB",121,"",""
-"6836VB",113,"",""
-"6836VB",123,"",""
-"6836VB",147,"",""
-"6836VB",143,"",""
-"6836VB",117,"",""
-"6836VC",52,"",""
-"6836VC",26,"",""
-"6836VC",20,"",""
-"6836VC",58,"",""
-"6836VC",38,"",""
-"6836VC",42,"",""
-"6836VC",28,"",""
-"6836VD",104,"",""
-"6836VD",64,"",""
-"6836VD",94,"",""
-"6836VD",80,"",""
-"6836VD",96,"",""
-"6836VD",74,"",""
-"6836VD",84,"",""
-"6836VE",54,"",""
-"6836VE",6,"",""
-"6836VE",34,"",""
-"6836VE",52,"",""
-"6836VE",18,"",""
-"6836VE",22,"",""
-"6836VE",32,"",""
-"6836VE",16,"",""
-"6836VE",24,"",""
-"6836VE",10,"",""
-"6836VE",28,"",""
-"6836VE",50,"",""
-"6836VE",62,"",""
-"6836VG",96,"",""
-"6836VG",78,"",""
-"6836VG",102,"",""
-"6836VG",76,"",""
-"6836VG",94,"",""
-"6836VG",108,"",""
-"6836VG",90,"",""
-"6836VG",72,"",""
-"6836VG",100,"",""
-"6836VG",104,"",""
-"6836VH",151,"",""
-"6836VH",123,"",""
-"6836VH",115,"",""
-"6836VH",107,"",""
-"6836VH",143,"",""
-"6836VH",129,"",""
-"6836VH",133,"",""
-"6836VH",139,"",""
-"6836VH",91,"",""
-"6836VH",137,"",""
-"6836VH",127,"",""
-"6836VJ",167,"",""
-"6836VJ",217,"",""
-"6836VJ",241,"",""
-"6836VJ",221,"",""
-"6836VJ",251,"",""
-"6836VJ",233,"",""
-"6836VJ",175,"",""
-"6836VJ",177,"",""
-"6836VJ",237,"",""
-"6836VJ",239,"",""
-"6836VJ",249,"",""
-"6836VJ",191,"",""
-"6836VJ",171,"",""
-"6836VJ",213,"",""
-"6836WB",13,"",""
-"6836WB",7,"",""
-"6836WB",27,"",""
-"6836WB",17,"",""
-"6836WC",31,"",""
-"6836WC",53,"",""
-"6836WC",37,"",""
-"6836WC",29,"",""
-"6836WC",39,"",""
-"6836WC",59,"",""
-"6836WC",35,"",""
-"6836WC",61,"",""
-"6836WG",7,"",""
-"6836WH",8,"",""
-"6836WH",4,"",""
-"6836WJ",11,"",""
-"6836WJ",12,"",""
-"6836WJ",2,"",""
-"6836WJ",4,"",""
-6836KJ,Erasmussingel,57,,
-6836SN,W.F. Hermansstraat,50,,
-6836SN,W.F. Hermansstraat,52,,
-6836SP,W.F. Hermansstraat,80,,
-6836SP,W.F. Hermansstraat,86,,
-6836TJ,Ernest Hemingwaystraat,13,,
-6836TJ,Ernest Hemingwaystraat,37,,
-6836TK,Ernest Hemingwaystraat,93,,
-6836TK,Ernest Hemingwaystraat,99,,
-6836TL,George Orwellhof,6,,
-6836TL,George Orwellhof,12,,
-6836TM,Mark Twainhof,10,,
-6836TM,Mark Twainhof,2,,
-6836TM,Mark Twainhof,1,,
-6836TP,Jane Austenpad,8,,
-6836TP,Jane Austenpad,10,,
-6836TP,Jane Austenpad,4,,
-6836TP,Jane Austenpad,24,,
-6836SZ,Jan Menshof,12,,
-6836SX,Willem Elsschothof,12,,
-6836SX,Willem Elsschothof,7,,
-6836SW,Louis Paul Boonpad,17,,
-6836SW,Louis Paul Boonpad,19,,
-6836SW,Louis Paul Boonpad,9,,
-6836SW,Louis Paul Boonpad,11,,
-6836SV,Anton Koolhaaspad,2,,
-6836ST,F. Bordewijkhof,17,,
-6836ST,F. Bordewijkhof,23,,
-6836SR,Theo Thijssenhof,20,,
-6836SR,Theo Thijssenhof,21,,
-6836SR,Theo Thijssenhof,9,,
-6836SR,Theo Thijssenhof,11,,
-6836TR,Charles Dickensstraat,47,,
-6836TR,Charles Dickensstraat,53,,
-6836TR,Charles Dickensstraat,19,,
-6836VE,Ida Gerhardtstraat,10,,
-6836VE,Ida Gerhardtstraat,22,,
-6836VE,Ida Gerhardtstraat,62,,
-6836VG,Ida Gerhardtstraat,94,,
-6836VG,Ida Gerhardtstraat,96,,
-6836SL,Marga Klompélaan,319,,
-6836SM,Marga Klompélaan,30,,
-6836SM,Marga Klompélaan,44,,
-6836AC,Mooieweg,19,A,
-6836AC,Mooieweg,15,,
-6836AC,Mooieweg,11,,
-6836AL,Mooieweg,152,,
-6836AL,Mooieweg,154,,
-6836AL,Mooieweg,162,,
-6836AM,Mooieweg,222,,
-6836LJ,Mahatma Gandhiweg,7,,
-6836LJ,Mahatma Gandhiweg,1,,
-6836LJ,Mahatma Gandhiweg,25,,
-6836LJ,Mahatma Gandhiweg,31,,
-6836LK,Mahatma Gandhiweg,87,,
-6836MX,Albert van Dalsumlaan,39,,
-6836MX,Albert van Dalsumlaan,53,,
-6836MX,Albert van Dalsumlaan,83,,
-6836MX,Albert van Dalsumlaan,103,,
-6836MX,Albert van Dalsumlaan,45,A,
-6836MX,Albert van Dalsumlaan,1,,
-6836MX,Albert van Dalsumlaan,13,,
-6836MX,Albert van Dalsumlaan,7,,
-6836MX,Albert van Dalsumlaan,9,,
-6836MX,Albert van Dalsumlaan,43,,
-6836AA,Huissensedijk,26,A,
-6836TA,Emily Brontësingel,36,,
-6836TA,Emily Brontësingel,24,,
-6836TA,Emily Brontësingel,38,,
-6836TA,Emily Brontësingel,8,,
-6836TV,Emily Brontësingel,59,,
-6836TV,Emily Brontësingel,61,,
-6836TV,Emily Brontësingel,73,,
-6836TV,Emily Brontësingel,75,,
-6836TV,Emily Brontësingel,3,,
-6836TW,Emily Brontësingel,50,,
-6836TX,Emily Brontësingel,112,,
-6836TX,Emily Brontësingel,116,,
-6836TZ,Emily Brontësingel,216,,
-6836VH,Emily Brontësingel,129,,
-6836VH,Emily Brontësingel,107,,
-6836VH,Emily Brontësingel,123,,
-6836VH,Emily Brontësingel,133,,
-6836VH,Emily Brontësingel,137,,
-6836VJ,Emily Brontësingel,217,,
-6836VJ,Emily Brontësingel,233,,
-6836VJ,Emily Brontësingel,239,,
-6836VJ,Emily Brontësingel,167,,
-6836TD,Hector Malotpad,9,,
-6836TG,Thomas Mannhof,4,,
-6836TH,Heinrich Böllhof,1,,
-6836TH,Heinrich Böllhof,13,,
-6836TE,Erich Kästnerpad,14,,
-6836TE,Erich Kästnerpad,8,,
-6836SJ,Multatulihof,8,,
-6836SJ,Multatulihof,12,,
-6836SJ,Multatulihof,6,,
-6836SH,Lucebertpad,1,,
-6836SH,Lucebertpad,13,,
-6836SB,Simon Vestdijksingel,23,,
-6836VA,Simon Vestdijksingel,73,,
-6836VA,Simon Vestdijksingel,67,,
-6836VA,Simon Vestdijksingel,53,,
-6836VA,Simon Vestdijksingel,77,,
-6836VA,Simon Vestdijksingel,81,,
-6836VA,Simon Vestdijksingel,111,,
-6836VB,Simon Vestdijksingel,117,,
-6836VB,Simon Vestdijksingel,143,,
-6836VC,Simon Vestdijksingel,28,,
-6836VC,Simon Vestdijksingel,20,,
-6836VC,Simon Vestdijksingel,58,,
-6836VD,Simon Vestdijksingel,80,,
-6836VD,Simon Vestdijksingel,104,,
-6836SE,Annie M.G. Schmidthof,7,,
-6836SC,Simon Carmiggelthof,15,,
-6836SC,Simon Carmiggelthof,4,,
-6836SC,Simon Carmiggelthof,16,,
-6836SG,Renate Rubinsteinpad,16,,
-6836SG,Renate Rubinsteinpad,10,,
-6836WB,Wessel Couzijnhof,17,,
-6836WC,Wessel Couzijnhof,61,,
-6836WJ,John Grosmanstraat,2,,
-6836WJ,John Grosmanstraat,12,,
-6836WH,Eka Thoden van Velzenstraat,8,,
-6836KJ,Erasmussingel,71,,
-6836KJ,Erasmussingel,97,,
-6836SN,W.F. Hermansstraat,22,,
-6836SN,W.F. Hermansstraat,4,,
-6836SN,W.F. Hermansstraat,44,,
-6836SP,W.F. Hermansstraat,94,,
-6836SP,W.F. Hermansstraat,58,,
-6836SP,W.F. Hermansstraat,72,,
-6836SP,W.F. Hermansstraat,106,,
-6836SP,W.F. Hermansstraat,112,,
-6836TJ,Ernest Hemingwaystraat,51,,
-6836TJ,Ernest Hemingwaystraat,19,,
-6836TJ,Ernest Hemingwaystraat,53,,
-6836TK,Ernest Hemingwaystraat,59,,
-6836TL,George Orwellhof,16,,
-6836TL,George Orwellhof,24,,
-6836TL,George Orwellhof,10,,
-6836TM,Mark Twainhof,3,,
-6836TM,Mark Twainhof,7,,
-6836TP,Jane Austenpad,18,,
-6836TP,Jane Austenpad,22,,
-6836SZ,Jan Menshof,10,,
-6836SZ,Jan Menshof,6,,
-6836SX,Willem Elsschothof,23,,
-6836SX,Willem Elsschothof,10,,
-6836SW,Louis Paul Boonpad,3,,
-6836ST,F. Bordewijkhof,1,,
-6836ST,F. Bordewijkhof,10,,
-6836SR,Theo Thijssenhof,4,,
-6836SR,Theo Thijssenhof,5,,
-6836SR,Theo Thijssenhof,14,,
-6836TR,Charles Dickensstraat,25,,
-6836VE,Ida Gerhardtstraat,54,,
-6836VE,Ida Gerhardtstraat,18,,
-6836VE,Ida Gerhardtstraat,24,,
-6836VE,Ida Gerhardtstraat,28,,
-6836VE,Ida Gerhardtstraat,32,,
-6836VE,Ida Gerhardtstraat,50,,
-6836VE,Ida Gerhardtstraat,52,,
-6836VE,Ida Gerhardtstraat,16,,
-6836VG,Ida Gerhardtstraat,90,,
-6836VG,Ida Gerhardtstraat,72,,
-6836VG,Ida Gerhardtstraat,76,,
-6836VG,Ida Gerhardtstraat,100,,
-6836SM,Marga Klompélaan,72,,
-6836AC,Mooieweg,23,,
-6836AC,Mooieweg,25,A,
-6836AC,Mooieweg,9,,
-6836AC,Mooieweg,13,,
-6836AL,Mooieweg,156,,
-6836AL,Mooieweg,158,,
-6836LJ,Mahatma Gandhiweg,3,,
-6836LJ,Mahatma Gandhiweg,45,,
-6836LK,Mahatma Gandhiweg,49,,
-6836LK,Mahatma Gandhiweg,51,,
-6836LK,Mahatma Gandhiweg,97,,
-6836MX,Albert van Dalsumlaan,15,,
-6836MX,Albert van Dalsumlaan,55,,
-6836MX,Albert van Dalsumlaan,81,,
-6836MX,Albert van Dalsumlaan,85,,
-6836MX,Albert van Dalsumlaan,5,,
-6836MX,Albert van Dalsumlaan,47,,
-6836MX,Albert van Dalsumlaan,75,,
-6836MX,Albert van Dalsumlaan,19,,
-6836MX,Albert van Dalsumlaan,89,,
-6836MX,Albert van Dalsumlaan,101,,
-6836TA,Emily Brontësingel,4,,
-6836TA,Emily Brontësingel,40,,
-6836TA,Emily Brontësingel,2,,
-6836TV,Emily Brontësingel,37,,
-6836TV,Emily Brontësingel,53,,
-6836TV,Emily Brontësingel,13,,
-6836TV,Emily Brontësingel,55,,
-6836TW,Emily Brontësingel,68,,
-6836TW,Emily Brontësingel,62,,
-6836TX,Emily Brontësingel,84,,
-6836TX,Emily Brontësingel,92,,
-6836TX,Emily Brontësingel,104,,
-6836TX,Emily Brontësingel,110,,
-6836TZ,Emily Brontësingel,210,,
-6836VH,Emily Brontësingel,115,,
-6836VH,Emily Brontësingel,127,,
-6836VJ,Emily Brontësingel,249,,
-6836VJ,Emily Brontësingel,251,,
-6836TB,Jules Vernehof,3,,
-6836TB,Jules Vernehof,13,,
-6836TB,Jules Vernehof,15,,
-6836TC,Emile Zolahof,10,,
-6836TC,Emile Zolahof,3,,
-6836TC,Emile Zolahof,1,,
-6836TC,Emile Zolahof,15,,
-6836TC,Emile Zolahof,16,,
-6836TD,Hector Malotpad,13,,
-6836TD,Hector Malotpad,1,,
-6836TG,Thomas Mannhof,13,,
-6836TH,Heinrich Böllhof,14,,
-6836TE,Erich Kästnerpad,6,,
-6836SK,Nesciohof,10,,
-6836SK,Nesciohof,8,,
-6836SK,Nesciohof,12,,
-6836SK,Nesciohof,14,,
-6836SJ,Multatulihof,3,,
-6836SJ,Multatulihof,7,,
-6836SJ,Multatulihof,13,,
-6836SJ,Multatulihof,15,,
-6836SH,Lucebertpad,7,,
-6836SH,Lucebertpad,11,,
-6836SB,Simon Vestdijksingel,39,,
-6836VA,Simon Vestdijksingel,93,,
-6836VB,Simon Vestdijksingel,121,,
-6836VC,Simon Vestdijksingel,38,,
-6836VC,Simon Vestdijksingel,26,,
-6836VD,Simon Vestdijksingel,74,,
-6836VD,Simon Vestdijksingel,94,,
-6836SE,Annie M.G. Schmidthof,8,,
-6836SE,Annie M.G. Schmidthof,13,,
-6836SE,Annie M.G. Schmidthof,6,,
-6836SC,Simon Carmiggelthof,3,,
-6836SC,Simon Carmiggelthof,11,,
-6836WB,Wessel Couzijnhof,7,,
-6836WC,Wessel Couzijnhof,31,,
-6836WC,Wessel Couzijnhof,37,,
-6836WC,Wessel Couzijnhof,59,,
-6836WG,Frida Heilstraat,7,,
-6836WH,Eka Thoden van Velzenstraat,4,,
-6836KJ,Erasmussingel,91,,
-6836KJ,Erasmussingel,83,,
-6836KJ,Erasmussingel,85,,
-6836KJ,Erasmussingel,49,,
-6836KJ,Erasmussingel,55,,
-6836KJ,Erasmussingel,65,,
-6836SN,W.F. Hermansstraat,56,,
-6836SN,W.F. Hermansstraat,16,,
-6836SN,W.F. Hermansstraat,42,,
-6836SP,W.F. Hermansstraat,104,,
-6836SP,W.F. Hermansstraat,78,,
-6836SP,W.F. Hermansstraat,90,,
-6836SP,W.F. Hermansstraat,82,,
-6836SP,W.F. Hermansstraat,100,,
-6836SP,W.F. Hermansstraat,110,,
-6836TJ,Ernest Hemingwaystraat,11,,
-6836TJ,Ernest Hemingwaystraat,25,,
-6836TK,Ernest Hemingwaystraat,101,,
-6836TK,Ernest Hemingwaystraat,61,,
-6836TK,Ernest Hemingwaystraat,91,,
-6836TK,Ernest Hemingwaystraat,111,,
-6836TL,George Orwellhof,19,,
-6836TL,George Orwellhof,18,,
-6836TM,Mark Twainhof,6,,
-6836TM,Mark Twainhof,20,,
-6836TM,Mark Twainhof,23,,
-6836TM,Mark Twainhof,11,,
-6836TM,Mark Twainhof,18,,
-6836TN,Roald Dahlpad,19,,
-6836TN,Roald Dahlpad,15,,
-6836SZ,Jan Menshof,18,,
-6836SZ,Jan Menshof,13,,
-6836SZ,Jan Menshof,22,,
-6836SX,Willem Elsschothof,18,,
-6836SX,Willem Elsschothof,1,,
-6836SX,Willem Elsschothof,13,,
-6836SX,Willem Elsschothof,4,,
-6836SX,Willem Elsschothof,19,,
-6836SW,Louis Paul Boonpad,23,,
-6836SW,Louis Paul Boonpad,7,,
-6836SW,Louis Paul Boonpad,21,,
-6836ST,F. Bordewijkhof,16,,
-6836ST,F. Bordewijkhof,13,,
-6836SR,Theo Thijssenhof,17,,
-6836TR,Charles Dickensstraat,1,,
-6836TR,Charles Dickensstraat,73,,
-6836TR,Charles Dickensstraat,43,,
-6836TR,Charles Dickensstraat,13,,
-6836TR,Charles Dickensstraat,21,,
-6836TR,Charles Dickensstraat,37,,
-6836TR,Charles Dickensstraat,59,,
-6836VE,Ida Gerhardtstraat,6,,
-6836VE,Ida Gerhardtstraat,34,,
-6836VG,Ida Gerhardtstraat,78,,
-6836VG,Ida Gerhardtstraat,102,,
-6836VG,Ida Gerhardtstraat,104,,
-6836VG,Ida Gerhardtstraat,108,,
-6836SL,Marga Klompélaan,323,,
-6836SM,Marga Klompélaan,68,,
-6836SM,Marga Klompélaan,56,,
-6836SM,Marga Klompélaan,50,,
-6836SM,Marga Klompélaan,42,,
-6836SM,Marga Klompélaan,58,,
-6836AC,Mooieweg,21,A,
-6836AC,Mooieweg,13,B,
-6836AL,Mooieweg,172,,
-6836AL,Mooieweg,178,,
-6836AL,Mooieweg,192,,
-6836AL,Mooieweg,210,,
-6836AM,Mooieweg,224,,
-6836LJ,Mahatma Gandhiweg,47,A,
-6836LJ,Mahatma Gandhiweg,41,,
-6836LK,Mahatma Gandhiweg,95,,
-6836MX,Albert van Dalsumlaan,41,,
-6836MX,Albert van Dalsumlaan,49,,
-6836MX,Albert van Dalsumlaan,11,,
-6836MX,Albert van Dalsumlaan,31,,
-6836MX,Albert van Dalsumlaan,3,,
-6836MX,Albert van Dalsumlaan,57,,
-6836MX,Albert van Dalsumlaan,93,,
-6836AA,Huissensedijk,28,,
-6836TA,Emily Brontësingel,18,,
-6836TA,Emily Brontësingel,46,,
-6836TV,Emily Brontësingel,11,,
-6836TV,Emily Brontësingel,57,,
-6836TV,Emily Brontësingel,35,,
-6836TV,Emily Brontësingel,65,,
-6836TV,Emily Brontësingel,21,,
-6836TV,Emily Brontësingel,33,,
-6836TW,Emily Brontësingel,54,,
-6836TW,Emily Brontësingel,58,,
-6836TW,Emily Brontësingel,78,,
-6836TW,Emily Brontësingel,80,,
-6836TW,Emily Brontësingel,56,,
-6836TW,Emily Brontësingel,66,,
-6836TX,Emily Brontësingel,90,,
-6836TX,Emily Brontësingel,124,,
-6836TZ,Emily Brontësingel,222,,
-6836VH,Emily Brontësingel,91,,
-6836VH,Emily Brontësingel,143,,
-6836VH,Emily Brontësingel,139,,
-6836VH,Emily Brontësingel,151,,
-6836VJ,Emily Brontësingel,213,,
-6836VJ,Emily Brontësingel,221,,
-6836VJ,Emily Brontësingel,237,,
-6836VJ,Emily Brontësingel,171,,
-6836VJ,Emily Brontësingel,175,,
-6836VJ,Emily Brontësingel,177,,
-6836VJ,Emily Brontësingel,191,,
-6836VJ,Emily Brontësingel,241,,
-6836TB,Jules Vernehof,9,,
-6836TC,Emile Zolahof,11,,
-6836TD,Hector Malotpad,5,,
-6836SK,Nesciohof,9,,
-6836SJ,Multatulihof,9,,
-6836SJ,Multatulihof,11,,
-6836SH,Lucebertpad,9,,
-6836SB,Simon Vestdijksingel,35,,
-6836SB,Simon Vestdijksingel,37,,
-6836SB,Simon Vestdijksingel,9,,
-6836SB,Simon Vestdijksingel,29,,
-6836VA,Simon Vestdijksingel,89,,
-6836VA,Simon Vestdijksingel,59,,
-6836VA,Simon Vestdijksingel,79,,
-6836VA,Simon Vestdijksingel,61,,
-6836VB,Simon Vestdijksingel,123,,
-6836VB,Simon Vestdijksingel,113,,
-6836VB,Simon Vestdijksingel,147,,
-6836VC,Simon Vestdijksingel,52,,
-6836VC,Simon Vestdijksingel,42,,
-6836VD,Simon Vestdijksingel,96,,
-6836VD,Simon Vestdijksingel,84,,
-6836VD,Simon Vestdijksingel,64,,
-6836SE,Annie M.G. Schmidthof,10,,
-6836SC,Simon Carmiggelthof,7,,
-6836SC,Simon Carmiggelthof,14,,
-6836WB,Wessel Couzijnhof,13,,
-6836WB,Wessel Couzijnhof,27,,
-6836WC,Wessel Couzijnhof,29,,
-6836WC,Wessel Couzijnhof,35,,
-6836WC,Wessel Couzijnhof,53,,
-6836WC,Wessel Couzijnhof,39,,
-6836WJ,John Grosmanstraat,4,,
-6836WJ,John Grosmanstraat,11,,
-6836KJ,Erasmussingel,93,,
-6836KJ,Erasmussingel,51,,
-6836KJ,Erasmussingel,73,,
-6836KJ,Erasmussingel,69,,
-6836SN,W.F. Hermansstraat,2,,
-6836SN,W.F. Hermansstraat,14,,
-6836SN,W.F. Hermansstraat,28,,
-6836SN,W.F. Hermansstraat,34,,
-6836SP,W.F. Hermansstraat,68,,
-6836TJ,Ernest Hemingwaystraat,45,,
-6836TK,Ernest Hemingwaystraat,79,,
-6836TK,Ernest Hemingwaystraat,89,,
-6836TL,George Orwellhof,20,,
-6836TL,George Orwellhof,4,,
-6836TL,George Orwellhof,9,,
-6836TL,George Orwellhof,1,,
-6836TL,George Orwellhof,15,,
-6836TL,George Orwellhof,11,,
-6836TM,Mark Twainhof,21,,
-6836TM,Mark Twainhof,16,,
-6836TM,Mark Twainhof,8,,
-6836TN,Roald Dahlpad,13,,
-6836SZ,Jan Menshof,23,,
-6836SZ,Jan Menshof,21,,
-6836SZ,Jan Menshof,17,,
-6836SX,Willem Elsschothof,11,,
-6836SX,Willem Elsschothof,2,,
-6836SX,Willem Elsschothof,14,,
-6836SX,Willem Elsschothof,5,,
-6836SX,Willem Elsschothof,9,,
-6836SW,Louis Paul Boonpad,13,,
-6836SV,Anton Koolhaaspad,16,,
-6836SV,Anton Koolhaaspad,18,,
-6836SV,Anton Koolhaaspad,14,,
-6836ST,F. Bordewijkhof,15,,
-6836ST,F. Bordewijkhof,2,,
-6836ST,F. Bordewijkhof,7,,
-6836TR,Charles Dickensstraat,11,,
-6836TR,Charles Dickensstraat,31,,
-6836TR,Charles Dickensstraat,69,,
-6836TR,Charles Dickensstraat,51,,
-6836TR,Charles Dickensstraat,65,,
-6836TR,Charles Dickensstraat,45,,
-6836VE,Ida Gerhardtstraat,38,,
-6836VE,Ida Gerhardtstraat,2,,
-6836VE,Ida Gerhardtstraat,8,,
-6836VE,Ida Gerhardtstraat,40,,
-6836VE,Ida Gerhardtstraat,42,,
-6836SM,Marga Klompélaan,46,,
-6836SM,Marga Klompélaan,48,,
-6836SM,Marga Klompélaan,36,,
-6836AC,Mooieweg,27,,
-6836AC,Mooieweg,31,,
-6836AL,Mooieweg,170,,
-6836AL,Mooieweg,168,,
-6836AL,Mooieweg,176,,
-6836AL,Mooieweg,186,,
-6836AM,Mooieweg,228,,
-6836AM,Mooieweg,220,,
-6836LJ,Mahatma Gandhiweg,33,,
-6836LJ,Mahatma Gandhiweg,15,,
-6836LJ,Mahatma Gandhiweg,37,,
-6836LK,Mahatma Gandhiweg,65,,
-6836MX,Albert van Dalsumlaan,21,,
-6836MX,Albert van Dalsumlaan,35,,
-6836MX,Albert van Dalsumlaan,27,,
-6836AA,Huissensedijk,24,,
-6836TA,Emily Brontësingel,44,,
-6836TA,Emily Brontësingel,48,,
-6836TV,Emily Brontësingel,1,A,
-6836TV,Emily Brontësingel,9,,
-6836TV,Emily Brontësingel,47,,
-6836TV,Emily Brontësingel,39,,
-6836TV,Emily Brontësingel,71,,
-6836TW,Emily Brontësingel,52,,
-6836TW,Emily Brontësingel,70,,
-6836TX,Emily Brontësingel,118,,
-6836TX,Emily Brontësingel,126,,
-6836TZ,Emily Brontësingel,204,,
-6836TZ,Emily Brontësingel,212,,
-6836TZ,Emily Brontësingel,220,,
-6836VH,Emily Brontësingel,95,,
-6836VH,Emily Brontësingel,147,,
-6836VH,Emily Brontësingel,131,,
-6836VH,Emily Brontësingel,79,,
-6836VH,Emily Brontësingel,121,,
-6836VJ,Emily Brontësingel,203,,
-6836VJ,Emily Brontësingel,209,,
-6836VJ,Emily Brontësingel,201,,
-6836VJ,Emily Brontësingel,219,,
-6836VJ,Emily Brontësingel,223,,
-6836VJ,Emily Brontësingel,231,,
-6836VJ,Emily Brontësingel,165,,
-6836VJ,Emily Brontësingel,163,,
-6836VJ,Emily Brontësingel,243,,
-6836VJ,Emily Brontësingel,183,,
-6836TB,Jules Vernehof,1,,
-6836TG,Thomas Mannhof,5,,
-6836TG,Thomas Mannhof,15,,
-6836TH,Heinrich Böllhof,4,,
-6836TH,Heinrich Böllhof,11,,
-6836SK,Nesciohof,4,,
-6836SK,Nesciohof,5,,
-6836SB,Simon Vestdijksingel,25,,
-6836SB,Simon Vestdijksingel,7,,
-6836SB,Simon Vestdijksingel,33,,
-6836VA,Simon Vestdijksingel,97,,
-6836VA,Simon Vestdijksingel,107,,
-6836VA,Simon Vestdijksingel,63,,
-6836VA,Simon Vestdijksingel,109,,
-6836VB,Simon Vestdijksingel,141,,
-6836VB,Simon Vestdijksingel,131,,
-6836VB,Simon Vestdijksingel,145,,
-6836VC,Simon Vestdijksingel,8,,
-6836VC,Simon Vestdijksingel,56,,
-6836VC,Simon Vestdijksingel,24,,
-6836VC,Simon Vestdijksingel,12,,
-6836VC,Simon Vestdijksingel,34,,
-6836VC,Simon Vestdijksingel,44,,
-6836VD,Simon Vestdijksingel,106,,
-6836VD,Simon Vestdijksingel,68,,
-6836VD,Simon Vestdijksingel,108,,
-6836VD,Simon Vestdijksingel,112,,
-6836SE,Annie M.G. Schmidthof,3,,
-6836SE,Annie M.G. Schmidthof,5,,
-6836SC,Simon Carmiggelthof,8,,
-6836WB,Wessel Couzijnhof,3,,
-6836WC,Wessel Couzijnhof,45,,
-6836WC,Wessel Couzijnhof,41,,
-6836WC,Wessel Couzijnhof,65,,
-6836WG,Frida Heilstraat,3,,
-6836WG,Frida Heilstraat,5,,
-6836KJ,Erasmussingel,59,,
-6836SN,W.F. Hermansstraat,30,,
-6836SN,W.F. Hermansstraat,54,,
-6836SP,W.F. Hermansstraat,92,,
-6836TJ,Ernest Hemingwaystraat,7,,
-6836TK,Ernest Hemingwaystraat,103,,
-6836TL,George Orwellhof,14,,
-6836TM,Mark Twainhof,13,,
-6836TM,Mark Twainhof,22,,
-6836TM,Mark Twainhof,24,,
-6836TM,Mark Twainhof,5,,
-6836TN,Roald Dahlpad,17,,
-6836TN,Roald Dahlpad,11,,
-6836SZ,Jan Menshof,16,,
-6836SZ,Jan Menshof,24,,
-6836SX,Willem Elsschothof,15,,
-6836SV,Anton Koolhaaspad,12,,
-6836ST,F. Bordewijkhof,22,,
-6836SR,Theo Thijssenhof,16,,
-6836TR,Charles Dickensstraat,49,,
-6836TR,Charles Dickensstraat,57,,
-6836TR,Charles Dickensstraat,27,,
-6836TR,Charles Dickensstraat,71,,
-6836TR,Charles Dickensstraat,9,,
-6836TR,Charles Dickensstraat,57,A,
-6836VE,Ida Gerhardtstraat,20,,
-6836VE,Ida Gerhardtstraat,60,,
-6836VG,Ida Gerhardtstraat,86,,
-6836VG,Ida Gerhardtstraat,106,,
-6836SL,Marga Klompélaan,325,,
-6836SL,Marga Klompélaan,313,,
-6836SM,Marga Klompélaan,32,,
-6836SM,Marga Klompélaan,60,,
-6836SM,Marga Klompélaan,78,,
-6836AL,Mooieweg,194,,
-6836AL,Mooieweg,188,,
-6836AL,Mooieweg,180,,
-6836AM,Mooieweg,238,,
-6836LJ,Mahatma Gandhiweg,21,,
-6836LK,Mahatma Gandhiweg,79,,
-6836LK,Mahatma Gandhiweg,55,,
-6836LK,Mahatma Gandhiweg,61,,
-6836MX,Albert van Dalsumlaan,95,,
-6836MX,Albert van Dalsumlaan,69,,
-6836MX,Albert van Dalsumlaan,71,,
-6836MX,Albert van Dalsumlaan,73,,
-6836AA,Huissensedijk,26,,
-6836AA,Huissensedijk,30,A,
-6836TA,Emily Brontësingel,14,,
-6836TV,Emily Brontësingel,69,,
-6836TV,Emily Brontësingel,51,,
-6836TV,Emily Brontësingel,19,,
-6836TW,Emily Brontësingel,60,,
-6836TX,Emily Brontësingel,106,,
-6836VH,Emily Brontësingel,93,,
-6836VJ,Emily Brontësingel,205,,
-6836VJ,Emily Brontësingel,189,,
-6836VJ,Emily Brontësingel,245,,
-6836TB,Jules Vernehof,5,,
-6836TC,Emile Zolahof,4,,
-6836TC,Emile Zolahof,13,,
-6836TC,Emile Zolahof,14,,
-6836TG,Thomas Mannhof,9,,
-6836TG,Thomas Mannhof,16,,
-6836TG,Thomas Mannhof,3,,
-6836TH,Heinrich Böllhof,6,,
-6836TH,Heinrich Böllhof,8,,
-6836TH,Heinrich Böllhof,9,,
-6836TH,Heinrich Böllhof,12,,
-6836TH,Heinrich Böllhof,15,,
-6836TH,Heinrich Böllhof,3,,
-6836TH,Heinrich Böllhof,16,,
-6836TE,Erich Kästnerpad,10,,
-6836SK,Nesciohof,3,,
-6836SJ,Multatulihof,2,,
-6836SH,Lucebertpad,15,,
-6836SB,Simon Vestdijksingel,21,,
-6836SB,Simon Vestdijksingel,13,,
-6836SB,Simon Vestdijksingel,3,,
-6836SB,Simon Vestdijksingel,43,,
-6836VA,Simon Vestdijksingel,71,,
-6836VA,Simon Vestdijksingel,91,,
-6836VA,Simon Vestdijksingel,99,,
-6836VA,Simon Vestdijksingel,101,,
-6836VA,Simon Vestdijksingel,103,,
-6836VB,Simon Vestdijksingel,133,,
-6836VB,Simon Vestdijksingel,153,,
-6836VB,Simon Vestdijksingel,135,,
-6836VB,Simon Vestdijksingel,137,,
-6836VB,Simon Vestdijksingel,155,,
-6836VC,Simon Vestdijksingel,62,,
-6836VC,Simon Vestdijksingel,40,,
-6836VD,Simon Vestdijksingel,70,,
-6836VD,Simon Vestdijksingel,86,,
-6836SC,Simon Carmiggelthof,2,,
-6836SC,Simon Carmiggelthof,10,,
-6836SG,Renate Rubinsteinpad,8,,
-6836WB,Wessel Couzijnhof,11,,
-6836WC,Wessel Couzijnhof,51,,
-6836WG,Frida Heilstraat,2,,
-6836WG,Frida Heilstraat,10,,
-6836WH,Eka Thoden van Velzenstraat,2,,
-6836KJ,Erasmussingel,63,,
-6836KJ,Erasmussingel,95,,
-6836SN,W.F. Hermansstraat,38,,
-6836SN,W.F. Hermansstraat,46,,
-6836SN,W.F. Hermansstraat,32,,
-6836SN,W.F. Hermansstraat,24,,
-6836SP,W.F. Hermansstraat,102,,
-6836SP,W.F. Hermansstraat,64,,
-6836TJ,Ernest Hemingwaystraat,3,,
-6836TJ,Ernest Hemingwaystraat,2,,
-6836TJ,Ernest Hemingwaystraat,9,,
-6836TJ,Ernest Hemingwaystraat,41,,
-6836TJ,Ernest Hemingwaystraat,47,,
-6836TJ,Ernest Hemingwaystraat,5,,
-6836TK,Ernest Hemingwaystraat,77,,
-6836TK,Ernest Hemingwaystraat,69,,
-6836TK,Ernest Hemingwaystraat,109,,
-6836TL,George Orwellhof,8,,
-6836TL,George Orwellhof,5,,
-6836TM,Mark Twainhof,14,,
-6836TM,Mark Twainhof,12,,
-6836TN,Roald Dahlpad,21,,
-6836TN,Roald Dahlpad,3,,
-6836TN,Roald Dahlpad,9,,
-6836TP,Jane Austenpad,12,,
-6836TP,Jane Austenpad,2,,
-6836TP,Jane Austenpad,20,,
-6836SZ,Jan Menshof,3,,
-6836SZ,Jan Menshof,8,,
-6836SZ,Jan Menshof,5,,
-6836SZ,Jan Menshof,19,,
-6836SX,Willem Elsschothof,16,,
-6836SX,Willem Elsschothof,20,,
-6836SX,Willem Elsschothof,22,,
-6836SX,Willem Elsschothof,3,,
-6836SX,Willem Elsschothof,21,,
-6836SW,Louis Paul Boonpad,5,,
-6836ST,F. Bordewijkhof,4,,
-6836ST,F. Bordewijkhof,6,,
-6836ST,F. Bordewijkhof,11,,
-6836ST,F. Bordewijkhof,20,,
-6836SR,Theo Thijssenhof,22,,
-6836SR,Theo Thijssenhof,23,,
-6836SR,Theo Thijssenhof,10,,
-6836SR,Theo Thijssenhof,3,,
-6836SR,Theo Thijssenhof,15,,
-6836SR,Theo Thijssenhof,24,,
-6836TR,Charles Dickensstraat,17,,
-6836TR,Charles Dickensstraat,35,,
-6836TR,Charles Dickensstraat,7,,
-6836VE,Ida Gerhardtstraat,36,,
-6836VE,Ida Gerhardtstraat,44,,
-6836VE,Ida Gerhardtstraat,56,,
-6836VE,Ida Gerhardtstraat,58,,
-6836VG,Ida Gerhardtstraat,84,,
-6836VG,Ida Gerhardtstraat,66,,
-6836VG,Ida Gerhardtstraat,74,,
-6836SL,Marga Klompélaan,321,,
-6836SM,Marga Klompélaan,74,,
-6836SM,Marga Klompélaan,38,,
-6836SM,Marga Klompélaan,52,,
-6836AC,Mooieweg,31,B,
-6836AC,Mooieweg,13,C,
-6836AC,Mooieweg,17,,
-6836AC,Mooieweg,19,,
-6836AC,Mooieweg,33,,
-6836AL,Mooieweg,174,,
-6836AL,Mooieweg,166,,
-6836AL,Mooieweg,182,,
-6836AL,Mooieweg,164,,
-6836AM,Mooieweg,232,,
-6836AM,Mooieweg,236,,
-6836LJ,Mahatma Gandhiweg,29,,
-6836LJ,Mahatma Gandhiweg,5,,
-6836LJ,Mahatma Gandhiweg,11,,
-6836LJ,Mahatma Gandhiweg,17,,
-6836LJ,Mahatma Gandhiweg,47,,
-6836LK,Mahatma Gandhiweg,53,,
-6836LK,Mahatma Gandhiweg,59,,
-6836LK,Mahatma Gandhiweg,75,,
-6836LK,Mahatma Gandhiweg,81,,
-6836LK,Mahatma Gandhiweg,67,,
-6836MX,Albert van Dalsumlaan,51,,
-6836MX,Albert van Dalsumlaan,79,,
-6836MX,Albert van Dalsumlaan,61,,
-6836MX,Albert van Dalsumlaan,67,,
-6836MX,Albert van Dalsumlaan,87,,
-6836AA,Huissensedijk,30,,
-6836AA,Huissensedijk,32,,
-6836TA,Emily Brontësingel,16,,
-6836TA,Emily Brontësingel,30,,
-6836TA,Emily Brontësingel,20,,
-6836TA,Emily Brontësingel,22,,
-6836TV,Emily Brontësingel,7,,
-6836TV,Emily Brontësingel,25,,
-6836TV,Emily Brontësingel,43,,
-6836TV,Emily Brontësingel,49,,
-6836TV,Emily Brontësingel,23,,
-6836TV,Emily Brontësingel,17,,
-6836TV,Emily Brontësingel,5,,
-6836TW,Emily Brontësingel,64,,
-6836TW,Emily Brontësingel,76,,
-6836TX,Emily Brontësingel,122,,
-6836TX,Emily Brontësingel,86,,
-6836TX,Emily Brontësingel,88,,
-6836TX,Emily Brontësingel,120,,
-6836TZ,Emily Brontësingel,214,,
-6836VH,Emily Brontësingel,87,,
-6836VH,Emily Brontësingel,89,,
-6836VH,Emily Brontësingel,149,,
-6836VH,Emily Brontësingel,105,,
-6836VH,Emily Brontësingel,117,,
-6836VH,Emily Brontësingel,119,,
-6836VH,Emily Brontësingel,141,,
-6836VH,Emily Brontësingel,153,,
-6836VH,Emily Brontësingel,145,,
-6836VH,Emily Brontësingel,97,,
-6836VJ,Emily Brontësingel,181,,
-6836VJ,Emily Brontësingel,161,,
-6836VJ,Emily Brontësingel,211,,
-6836VJ,Emily Brontësingel,227,,
-6836VJ,Emily Brontësingel,215,,
-6836TB,Jules Vernehof,8,,
-6836TB,Jules Vernehof,16,,
-6836TB,Jules Vernehof,11,,
-6836TC,Emile Zolahof,8,,
-6836TC,Emile Zolahof,7,,
-6836TD,Hector Malotpad,7,,
-6836TD,Hector Malotpad,11,,
-6836TD,Hector Malotpad,3,,
-6836TG,Thomas Mannhof,1,,
-6836TH,Heinrich Böllhof,10,,
-6836SK,Nesciohof,2,,
-6836SK,Nesciohof,11,,
-6836SK,Nesciohof,6,,
-6836SJ,Multatulihof,10,,
-6836SH,Lucebertpad,5,,
-6836SB,Simon Vestdijksingel,5,,
-6836SB,Simon Vestdijksingel,11,,
-6836VA,Simon Vestdijksingel,95,,
-6836VA,Simon Vestdijksingel,87,,
-6836VB,Simon Vestdijksingel,159,,
-6836VB,Simon Vestdijksingel,115,,
-6836VC,Simon Vestdijksingel,46,,
-6836VC,Simon Vestdijksingel,50,,
-6836VC,Simon Vestdijksingel,54,,
-6836VC,Simon Vestdijksingel,14,,
-6836VC,Simon Vestdijksingel,2,,
-6836VD,Simon Vestdijksingel,102,,
-6836VD,Simon Vestdijksingel,72,,
-6836VD,Simon Vestdijksingel,66,,
-6836VD,Simon Vestdijksingel,76,,
-6836SE,Annie M.G. Schmidthof,11,,
-6836SE,Annie M.G. Schmidthof,4,,
-6836SE,Annie M.G. Schmidthof,16,,
-6836SC,Simon Carmiggelthof,6,,
-6836SG,Renate Rubinsteinpad,14,,
-6836SG,Renate Rubinsteinpad,2,,
-6836WB,Wessel Couzijnhof,25,,
-6836WC,Wessel Couzijnhof,49,,
-6836WJ,John Grosmanstraat,6,,
-6836WG,Frida Heilstraat,8,,
-6836WG,Frida Heilstraat,1,,
-6836KJ,Erasmussingel,81,,
-6836SN,W.F. Hermansstraat,8,,
-6836SN,W.F. Hermansstraat,12,,
-6836SN,W.F. Hermansstraat,26,,
-6836SN,W.F. Hermansstraat,48,,
-6836SP,W.F. Hermansstraat,60,,
-6836SP,W.F. Hermansstraat,88,,
-6836SP,W.F. Hermansstraat,62,,
-6836TJ,Ernest Hemingwaystraat,23,,
-6836TJ,Ernest Hemingwaystraat,43,,
-6836TJ,Ernest Hemingwaystraat,17,,
-6836TJ,Ernest Hemingwaystraat,49,,
-6836TJ,Ernest Hemingwaystraat,31,,
-6836TJ,Ernest Hemingwaystraat,55,,
-6836TK,Ernest Hemingwaystraat,81,,
-6836TK,Ernest Hemingwaystraat,97,,
-6836TK,Ernest Hemingwaystraat,107,,
-6836TK,Ernest Hemingwaystraat,71,,
-6836TK,Ernest Hemingwaystraat,83,,
-6836TK,Ernest Hemingwaystraat,85,,
-6836TL,George Orwellhof,17,,
-6836TM,Mark Twainhof,4,,
-6836TM,Mark Twainhof,19,,
-6836TN,Roald Dahlpad,1,,
-6836TN,Roald Dahlpad,23,,
-6836SZ,Jan Menshof,1,,
-6836SZ,Jan Menshof,15,,
-6836SX,Willem Elsschothof,17,,
-6836SW,Louis Paul Boonpad,1,,
-6836SV,Anton Koolhaaspad,4,,
-6836SV,Anton Koolhaaspad,8,,
-6836SV,Anton Koolhaaspad,10,,
-6836ST,F. Bordewijkhof,12,,
-6836ST,F. Bordewijkhof,19,,
-6836ST,F. Bordewijkhof,24,,
-6836SR,Theo Thijssenhof,7,,
-6836SR,Theo Thijssenhof,8,,
-6836SR,Theo Thijssenhof,12,,
-6836TR,Charles Dickensstraat,3,,
-6836TR,Charles Dickensstraat,39,,
-6836TR,Charles Dickensstraat,33,,
-6836TR,Charles Dickensstraat,41,,
-6836TR,Charles Dickensstraat,29,,
-6836TR,Charles Dickensstraat,55,,
-6836TR,Charles Dickensstraat,63,,
-6836VE,Ida Gerhardtstraat,24,A,
-6836VE,Ida Gerhardtstraat,46,,
-6836VE,Ida Gerhardtstraat,14,,
-6836VE,Ida Gerhardtstraat,4,,
-6836VE,Ida Gerhardtstraat,12,,
-6836VE,Ida Gerhardtstraat,48,,
-6836VE,Ida Gerhardtstraat,64,,
-6836VG,Ida Gerhardtstraat,98,,
-6836VG,Ida Gerhardtstraat,110,,
-6836VG,Ida Gerhardtstraat,116,,
-6836VG,Ida Gerhardtstraat,68,,
-6836VG,Ida Gerhardtstraat,88,,
-6836VG,Ida Gerhardtstraat,92,,
-6836VG,Ida Gerhardtstraat,70,,
-6836SL,Marga Klompélaan,307,,
-6836SL,Marga Klompélaan,317,,
-6836SL,Marga Klompélaan,315,,
-6836SM,Marga Klompélaan,76,,
-6836SM,Marga Klompélaan,64,,
-6836SM,Marga Klompélaan,62,,
-6836SM,Marga Klompélaan,80,,
-6836AC,Mooieweg,13,A,
-6836AC,Mooieweg,21,B,
-6836AC,Mooieweg,19,C,
-6836AM,Mooieweg,226,,
-6836LJ,Mahatma Gandhiweg,39,,
-6836LJ,Mahatma Gandhiweg,47,B,
-6836LJ,Mahatma Gandhiweg,23,,
-6836LK,Mahatma Gandhiweg,85,,
-6836LK,Mahatma Gandhiweg,63,,
-6836MX,Albert van Dalsumlaan,33,,
-6836MX,Albert van Dalsumlaan,99,,
-6836MX,Albert van Dalsumlaan,23,,
-6836MX,Albert van Dalsumlaan,37,,
-6836TV,Emily Brontësingel,63,,
-6836TV,Emily Brontësingel,67,,
-6836TV,Emily Brontësingel,41,,
-6836TV,Emily Brontësingel,27,,
-6836TW,Emily Brontësingel,74,,
-6836TX,Emily Brontësingel,96,,
-6836TX,Emily Brontësingel,98,,
-6836TX,Emily Brontësingel,108,,
-6836TX,Emily Brontësingel,114,,
-6836TX,Emily Brontësingel,94,,
-6836TZ,Emily Brontësingel,218,,
-6836TZ,Emily Brontësingel,200,,
-6836VH,Emily Brontësingel,99,,
-6836VH,Emily Brontësingel,101,,
-6836VH,Emily Brontësingel,125,,
-6836VH,Emily Brontësingel,81,,
-6836VH,Emily Brontësingel,103,,
-6836VJ,Emily Brontësingel,157,,
-6836VJ,Emily Brontësingel,159,,
-6836VJ,Emily Brontësingel,173,,
-6836VJ,Emily Brontësingel,179,,
-6836VJ,Emily Brontësingel,169,,
-6836VJ,Emily Brontësingel,197,,
-6836TB,Jules Vernehof,6,,
-6836TB,Jules Vernehof,4,,
-6836TB,Jules Vernehof,12,,
-6836TC,Emile Zolahof,9,,
-6836TG,Thomas Mannhof,6,,
-6836TG,Thomas Mannhof,2,,
-6836TG,Thomas Mannhof,10,,
-6836TH,Heinrich Böllhof,7,,
-6836TE,Erich Kästnerpad,16,,
-6836SK,Nesciohof,1,,
-6836SK,Nesciohof,16,,
-6836SJ,Multatulihof,4,,
-6836SB,Simon Vestdijksingel,17,,
-6836SB,Simon Vestdijksingel,41,,
-6836SB,Simon Vestdijksingel,27,,
-6836SB,Simon Vestdijksingel,31,,
-6836SB,Simon Vestdijksingel,1,,
-6836VA,Simon Vestdijksingel,49,,
-6836VA,Simon Vestdijksingel,83,,
-6836VA,Simon Vestdijksingel,85,,
-6836VB,Simon Vestdijksingel,119,,
-6836VB,Simon Vestdijksingel,151,,
-6836VB,Simon Vestdijksingel,149,,
-6836VB,Simon Vestdijksingel,157,,
-6836VB,Simon Vestdijksingel,125,,
-6836VB,Simon Vestdijksingel,129,,
-6836VB,Simon Vestdijksingel,139,,
-6836VC,Simon Vestdijksingel,22,,
-6836VC,Simon Vestdijksingel,18,,
-6836VC,Simon Vestdijksingel,32,,
-6836VD,Simon Vestdijksingel,98,,
-6836VD,Simon Vestdijksingel,88,,
-6836VD,Simon Vestdijksingel,92,,
-6836VD,Simon Vestdijksingel,100,,
-6836SG,Renate Rubinsteinpad,12,,
-6836WB,Wessel Couzijnhof,19,,
-6836WB,Wessel Couzijnhof,5,,
-6836WB,Wessel Couzijnhof,1,,
-6836WC,Wessel Couzijnhof,43,,
-6836WC,Wessel Couzijnhof,57,,
-6836WJ,John Grosmanstraat,3,,
-6836WE,Johan van Zwedenstraat,1,,
-6836WE,Johan van Zwedenstraat,5,,
-6836KJ,Erasmussingel,47,,
-6836KJ,Erasmussingel,61,,
-6836KJ,Erasmussingel,67,,
-6836KJ,Erasmussingel,53,,
-6836SN,W.F. Hermansstraat,18,,
-6836SN,W.F. Hermansstraat,6,,
-6836SN,W.F. Hermansstraat,20,,
-6836SP,W.F. Hermansstraat,98,,
-6836SP,W.F. Hermansstraat,108,,
-6836SP,W.F. Hermansstraat,70,,
-6836SP,W.F. Hermansstraat,76,,
-6836SP,W.F. Hermansstraat,84,,
-6836SP,W.F. Hermansstraat,74,,
-6836TJ,Ernest Hemingwaystraat,39,,
-6836TJ,Ernest Hemingwaystraat,15,,
-6836TJ,Ernest Hemingwaystraat,21,,
-6836TJ,Ernest Hemingwaystraat,29,,
-6836TJ,Ernest Hemingwaystraat,1,,
-6836TJ,Ernest Hemingwaystraat,27,,
-6836TK,Ernest Hemingwaystraat,75,,
-6836TK,Ernest Hemingwaystraat,63,,
-6836TK,Ernest Hemingwaystraat,65,,
-6836TK,Ernest Hemingwaystraat,57,,
-6836TK,Ernest Hemingwaystraat,67,,
-6836TK,Ernest Hemingwaystraat,73,,
-6836TK,Ernest Hemingwaystraat,105,,
-6836TL,George Orwellhof,7,,
-6836TL,George Orwellhof,2,,
-6836TL,George Orwellhof,13,,
-6836TL,George Orwellhof,3,,
-6836TL,George Orwellhof,21,,
-6836TL,George Orwellhof,22,,
-6836TM,Mark Twainhof,15,,
-6836TM,Mark Twainhof,17,,
-6836TM,Mark Twainhof,9,,
-6836TN,Roald Dahlpad,7,,
-6836TP,Jane Austenpad,14,,
-6836SZ,Jan Menshof,7,,
-6836SZ,Jan Menshof,14,,
-6836SZ,Jan Menshof,20,,
-6836SZ,Jan Menshof,11,,
-6836SZ,Jan Menshof,4,,
-6836SX,Willem Elsschothof,24,,
-6836SX,Willem Elsschothof,8,,
-6836SX,Willem Elsschothof,6,,
-6836SW,Louis Paul Boonpad,15,,
-6836SV,Anton Koolhaaspad,22,,
-6836SV,Anton Koolhaaspad,6,,
-6836SV,Anton Koolhaaspad,24,,
-6836SV,Anton Koolhaaspad,20,,
-6836ST,F. Bordewijkhof,21,,
-6836ST,F. Bordewijkhof,9,,
-6836ST,F. Bordewijkhof,5,,
-6836SR,Theo Thijssenhof,1,,
-6836SR,Theo Thijssenhof,13,,
-6836SR,Theo Thijssenhof,18,,
-6836SR,Theo Thijssenhof,2,,
-6836TR,Charles Dickensstraat,5,,
-6836TR,Charles Dickensstraat,15,,
-6836TR,Charles Dickensstraat,61,,
-6836VE,Ida Gerhardtstraat,26,,
-6836VE,Ida Gerhardtstraat,30,,
-6836VG,Ida Gerhardtstraat,118,,
-6836VG,Ida Gerhardtstraat,114,,
-6836SL,Marga Klompélaan,329,,
-6836SL,Marga Klompélaan,327,,
-6836SM,Marga Klompélaan,66,,
-6836SM,Marga Klompélaan,34,,
-6836SM,Marga Klompélaan,40,,
-6836SM,Marga Klompélaan,54,,
-6836AC,Mooieweg,21,,
-6836AC,Mooieweg,11,A,
-6836AC,Mooieweg,19,B,
-6836AL,Mooieweg,184,,
-6836AL,Mooieweg,190,,
-6836AL,Mooieweg,160,,
-6836AM,Mooieweg,230,,
-6836LJ,Mahatma Gandhiweg,9,,
-6836LJ,Mahatma Gandhiweg,43,,
-6836LK,Mahatma Gandhiweg,69,,
-6836LK,Mahatma Gandhiweg,77,,
-6836LK,Mahatma Gandhiweg,93,,
-6836MX,Albert van Dalsumlaan,63,,
-6836MX,Albert van Dalsumlaan,25,,
-6836MX,Albert van Dalsumlaan,65,,
-6836MX,Albert van Dalsumlaan,29,,
-6836TA,Emily Brontësingel,42,,
-6836TA,Emily Brontësingel,32,,
-6836TA,Emily Brontësingel,10,,
-6836TA,Emily Brontësingel,28,,
-6836TA,Emily Brontësingel,26,,
-6836TV,Emily Brontësingel,1,,
-6836TX,Emily Brontësingel,82,,
-6836TX,Emily Brontësingel,102,,
-6836TZ,Emily Brontësingel,206,,
-6836VH,Emily Brontësingel,109,,
-6836VH,Emily Brontësingel,155,,
-6836VJ,Emily Brontësingel,229,,
-6836VJ,Emily Brontësingel,187,,
-6836VJ,Emily Brontësingel,225,,
-6836VJ,Emily Brontësingel,247,,
-6836VJ,Emily Brontësingel,185,,
-6836VJ,Emily Brontësingel,193,,
-6836TB,Jules Vernehof,7,,
-6836TB,Jules Vernehof,10,,
-6836TB,Jules Vernehof,14,,
-6836TC,Emile Zolahof,12,,
-6836TG,Thomas Mannhof,7,,
-6836TH,Heinrich Böllhof,2,,
-6836TE,Erich Kästnerpad,4,,
-6836SK,Nesciohof,7,,
-6836SJ,Multatulihof,14,,
-6836SJ,Multatulihof,5,,
-6836SJ,Multatulihof,16,,
-6836SB,Simon Vestdijksingel,45,,
-6836VA,Simon Vestdijksingel,51,,
-6836VA,Simon Vestdijksingel,57,,
-6836VC,Simon Vestdijksingel,4,,
-6836VC,Simon Vestdijksingel,16,,
-6836VC,Simon Vestdijksingel,10,,
-6836VC,Simon Vestdijksingel,30,,
-6836VC,Simon Vestdijksingel,48,,
-6836VD,Simon Vestdijksingel,78,,
-6836VD,Simon Vestdijksingel,90,,
-6836VD,Simon Vestdijksingel,110,,
-6836VD,Simon Vestdijksingel,82,,
-6836SE,Annie M.G. Schmidthof,1,,
-6836SE,Annie M.G. Schmidthof,9,,
-6836SE,Annie M.G. Schmidthof,14,,
-6836SE,Annie M.G. Schmidthof,12,,
-6836SC,Simon Carmiggelthof,9,,
-6836WB,Wessel Couzijnhof,15,,
-6836WB,Wessel Couzijnhof,23,,
-6836WC,Wessel Couzijnhof,47,,
-6836WC,Wessel Couzijnhof,55,,
-6836WC,Wessel Couzijnhof,63,,
-6836WC,Wessel Couzijnhof,33,,
-6836WC,Wessel Couzijnhof,67,,
-6836WJ,John Grosmanstraat,5,,
-6836WJ,John Grosmanstraat,10,,
-6836KJ,Erasmussingel,87,,
-6836KJ,Erasmussingel,89,,
-6836KJ,Erasmussingel,11,,
-6836KJ,Erasmussingel,13,,
-6836KJ,Erasmussingel,15,,
-6836KJ,Erasmussingel,17,,
-6836KJ,Erasmussingel,19,,
-6836KJ,Erasmussingel,21,,
-6836KJ,Erasmussingel,23,,
-6836KJ,Erasmussingel,25,,
-6836KJ,Erasmussingel,27,,
-6836KJ,Erasmussingel,29,,
-6836KJ,Erasmussingel,31,,
-6836KJ,Erasmussingel,33,,
-6836KJ,Erasmussingel,35,,
-6836KJ,Erasmussingel,37,,
-6836KJ,Erasmussingel,39,,
-6836SN,W.F. Hermansstraat,10,,
-6836SN,W.F. Hermansstraat,36,,
-6836SN,W.F. Hermansstraat,40,,
-6836SP,W.F. Hermansstraat,66,,
-6836SP,W.F. Hermansstraat,96,,
-6836TJ,Ernest Hemingwaystraat,33,,
-6836TJ,Ernest Hemingwaystraat,35,,
-6836TK,Ernest Hemingwaystraat,87,,
-6836TK,Ernest Hemingwaystraat,95,,
-6836TL,George Orwellhof,23,,
-6836TN,Roald Dahlpad,5,,
-6836TP,Jane Austenpad,16,,
-6836TP,Jane Austenpad,6,,
-6836SZ,Jan Menshof,2,,
-6836SZ,Jan Menshof,9,,
-6836ST,F. Bordewijkhof,3,,
-6836ST,F. Bordewijkhof,8,,
-6836ST,F. Bordewijkhof,18,,
-6836ST,F. Bordewijkhof,14,,
-6836SR,Theo Thijssenhof,6,,
-6836SR,Theo Thijssenhof,19,,
-6836TR,Charles Dickensstraat,23,,
-6836TR,Charles Dickensstraat,67,,
-6836VG,Ida Gerhardtstraat,112,,
-6836VG,Ida Gerhardtstraat,80,,
-6836VG,Ida Gerhardtstraat,82,,
-6836SL,Marga Klompélaan,311,,
-6836SL,Marga Klompélaan,309,,
-6836SM,Marga Klompélaan,70,,
-6836AC,Mooieweg,31,A,
-6836AC,Mooieweg,25,,
-6836AL,Mooieweg,218,,
-6836AM,Mooieweg,234,,
-6836LJ,Mahatma Gandhiweg,13,,
-6836LJ,Mahatma Gandhiweg,35,,
-6836LJ,Mahatma Gandhiweg,19,,
-6836LJ,Mahatma Gandhiweg,27,,
-6836LK,Mahatma Gandhiweg,73,,
-6836LK,Mahatma Gandhiweg,89,,
-6836LK,Mahatma Gandhiweg,57,,
-6836LK,Mahatma Gandhiweg,71,,
-6836LK,Mahatma Gandhiweg,91,,
-6836LK,Mahatma Gandhiweg,83,,
-6836MX,Albert van Dalsumlaan,77,,
-6836MX,Albert van Dalsumlaan,45,,
-6836MX,Albert van Dalsumlaan,17,,
-6836MX,Albert van Dalsumlaan,59,,
-6836MX,Albert van Dalsumlaan,91,,
-6836MX,Albert van Dalsumlaan,97,,
-6836WK,Mari Andriessenstraat,2,,
-6836WK,Mari Andriessenstraat,4,,
-6836WK,Mari Andriessenstraat,6,,
-6836WK,Mari Andriessenstraat,8,,
-6836AA,Huissensedijk,24,A,
-6836AA,Huissensedijk,24,B,
-6836AA,Huissensedijk,24,C,
-6836AA,Huissensedijk,24,E,
-6836AA,Huissensedijk,24,F,
-6836AA,Huissensedijk,24,D,
-6836TA,Emily Brontësingel,12,,
-6836TA,Emily Brontësingel,6,,
-6836TA,Emily Brontësingel,34,,
-6836TV,Emily Brontësingel,31,,
-6836TV,Emily Brontësingel,15,,
-6836TV,Emily Brontësingel,29,,
-6836TV,Emily Brontësingel,45,,
-6836TW,Emily Brontësingel,72,,
-6836TX,Emily Brontësingel,100,,
-6836TZ,Emily Brontësingel,202,,
-6836TZ,Emily Brontësingel,208,,
-6836VH,Emily Brontësingel,83,,
-6836VH,Emily Brontësingel,111,,
-6836VH,Emily Brontësingel,135,,
-6836VH,Emily Brontësingel,85,,
-6836VH,Emily Brontësingel,77,,
-6836VH,Emily Brontësingel,113,,
-6836VJ,Emily Brontësingel,199,,
-6836VJ,Emily Brontësingel,235,,
-6836VJ,Emily Brontësingel,195,,
-6836VJ,Emily Brontësingel,207,,
-6836TB,Jules Vernehof,2,,
-6836TC,Emile Zolahof,5,,
-6836TC,Emile Zolahof,2,,
-6836TC,Emile Zolahof,6,,
-6836TD,Hector Malotpad,15,,
-6836TG,Thomas Mannhof,11,,
-6836TG,Thomas Mannhof,14,,
-6836TG,Thomas Mannhof,12,,
-6836TG,Thomas Mannhof,8,,
-6836TH,Heinrich Böllhof,5,,
-6836TE,Erich Kästnerpad,12,,
-6836TE,Erich Kästnerpad,2,,
-6836SK,Nesciohof,15,,
-6836SK,Nesciohof,13,,
-6836SJ,Multatulihof,1,,
-6836SH,Lucebertpad,3,,
-6836SB,Simon Vestdijksingel,47,,
-6836SB,Simon Vestdijksingel,19,,
-6836SB,Simon Vestdijksingel,15,,
-6836VA,Simon Vestdijksingel,55,,
-6836VA,Simon Vestdijksingel,65,,
-6836VA,Simon Vestdijksingel,75,,
-6836VA,Simon Vestdijksingel,69,,
-6836VA,Simon Vestdijksingel,105,,
-6836VB,Simon Vestdijksingel,161,,
-6836VB,Simon Vestdijksingel,127,,
-6836VC,Simon Vestdijksingel,6,,
-6836VC,Simon Vestdijksingel,36,,
-6836VC,Simon Vestdijksingel,60,,
-6836SE,Annie M.G. Schmidthof,15,,
-6836SE,Annie M.G. Schmidthof,2,,
-6836SC,Simon Carmiggelthof,5,,
-6836SC,Simon Carmiggelthof,12,,
-6836SC,Simon Carmiggelthof,13,,
-6836SC,Simon Carmiggelthof,1,,
-6836SG,Renate Rubinsteinpad,6,,
-6836SG,Renate Rubinsteinpad,4,,
-6836WB,Wessel Couzijnhof,9,,
-6836WB,Wessel Couzijnhof,21,,
-6836WD,Nel Klaassenstraat,4,,
-6836WD,Nel Klaassenstraat,6,,
-6836WD,Nel Klaassenstraat,8,,
-6836WD,Nel Klaassenstraat,10,,
-6836WD,Nel Klaassenstraat,12,,
-6836WD,Nel Klaassenstraat,14,,
-6836WJ,John Grosmanstraat,9,,
-6836WJ,John Grosmanstraat,8,,
-6836WJ,John Grosmanstraat,7,,
-6836WJ,John Grosmanstraat,1,,
-6836WE,Johan van Zwedenstraat,10,,
-6836WE,Johan van Zwedenstraat,12,,
-6836WE,Johan van Zwedenstraat,14,,
-6836SM,Marga Klompélaan,62,A,
-6836AC,Mooieweg,13,B,1
-6836AC,Mooieweg,13,B,2
-6836AC,Mooieweg,13,B,3
-6836AC,Mooieweg,13,B,4
-6836AC,Mooieweg,13,B,5
-6836AC,Mooieweg,13,B,6
-6836AC,Mooieweg,13,B,7
-6836AC,Mooieweg,13,B,8
-6836AC,Mooieweg,13,B,9
-6836AC,Mooieweg,31,,
-6836AC,Mooieweg,17,,
-6836AC,Mooieweg,17,,
-6836AC,Mooieweg,17,,
-6836AL,Mooieweg,218,A,
-6836AL,Mooieweg,218,B,
-6836AL,Mooieweg,218,B,
-6836AA,Huissensedijk,30,B,
-6836AA,Huissensedijk,30,C,
-6836WD,Nel Klaassenstraat,2,,
-6836WD,Nel Klaassenstraat,10,,
-6836WK,Nel Klaassenstraat,10,,
-6836WD,Marius van Beeklaan,5,,
-6836WG,Frida Heilstraat,4,,
-6836AC,Mooieweg,29,,
-6836AL,Mooieweg,218,,
-6836AA,Huissensedijk,44,,
-6836AA,Huissensedijk,46,,
-6836AA,Huissensedijk,48,,
-6836AA,Huissensedijk,50,,
-6836AA,Huissensedijk,52,,
-6836AA,Huissensedijk,54,,
-6836AA,Huissensedijk,56,,
-6836AA,Huissensedijk,58,,
-6836AA,Huissensedijk,60,,
-6836AA,Huissensedijk,24,,
-6836AA,Huissensedijk,24,,
-6836AA,Huissensedijk,32,,
-6836AA,Huissensedijk,36,,
-6836AA,Huissensedijk,34,,
-6836AA,Huissensedijk,38,,
-6836AA,Huissensedijk,40,,
-6836AA,Huissensedijk,42,,
-6836AA,Huissensedijk,62,,
-6836AC,Mooieweg,11,,1
-6836AC,Mooieweg,11,,2
-6836AC,Mooieweg,11,,3
-6836AC,Mooieweg,11,,4
-6836AC,Mooieweg,11,,5
-6836AC,Mooieweg,11,,6
-6836AC,Mooieweg,11,,7
-6836AC,Mooieweg,11,,8
-6836AC,Mooieweg,17,A,
-6836AC,Mooieweg,17,A,
-6836AC,Mooieweg,9,A,
-6836AC,Mooieweg,21,C,
-6836WK,Nel Klaassenstraat,20,,
-6836WK,Nel Klaassenstraat,18,,
-6836WK,Nel Klaassenstraat,14,,
-6836WK,Nel Klaassenstraat,11,,
-6836WK,Nel Klaassenstraat,22,,
-6836WK,Nel Klaassenstraat,1,,
-6836WK,Nel Klaassenstraat,12,,
-6836WK,Nel Klaassenstraat,19,,
-6836WK,Nel Klaassenstraat,9,,
-6836WJ,John Grosmanstraat,1,,
-6836WE,Johan van Zwedenstraat,3,,
-6836WE,Johan van Zwedenstraat,14,,
-6836WE,Johan van Zwedenstraat,10,,
-6836WE,Johan van Zwedenstraat,12,,
-6836WE,Johan van Zwedenstraat,6,,
-6836WE,Johan van Zwedenstraat,8,,
-6836WE,Johan van Zwedenstraat,4,,
-6836WE,Johan van Zwedenstraat,22,,
-6836WE,Johan van Zwedenstraat,24,,
-6836WE,Johan van Zwedenstraat,18,,
-6836WE,Johan van Zwedenstraat,18,A,
-6836WE,Johan van Zwedenstraat,2,,
-6836WG,Frida Heilstraat,14,,
-6836WG,Frida Heilstraat,16,,
-6836WG,Frida Heilstraat,12,,
-6836WG,Frida Heilstraat,11,,
-6836WH,Eka Thoden van Velzenstraat,6,,
-6836WH,Eka Thoden van Velzenstraat,5,,
-6836WH,Eka Thoden van Velzenstraat,1,,
-6836WH,Eka Thoden van Velzenstraat,3,,
-6836WK,Nel Klaassenstraat,21,,
-6836WK,Nel Klaassenstraat,23,,
-6836WK,Nel Klaassenstraat,17,,
-6836WE,Johan van Zwedenstraat,16,,
-6836WE,Johan van Zwedenstraat,16,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Huissensedijk,26,A,"",6836AA,Arnhem
+Huissensedijk,28,"","",6836AA,Arnhem
+Mooieweg,11,"","",6836AC,Arnhem
+Mooieweg,11,"","",6836AC,Arnhem
+Mooieweg,13,"","",6836AC,Arnhem
+Mooieweg,15,"","",6836AC,Arnhem
+Mooieweg,19,A,"",6836AC,Arnhem
+Mooieweg,21,A,"",6836AC,Arnhem
+Mooieweg,23,"","",6836AC,Arnhem
+Mooieweg,25,A,"",6836AC,Arnhem
+Mooieweg,9,"","",6836AC,Arnhem
+Mooieweg,152,"","",6836AL,Arnhem
+Mooieweg,154,"","",6836AL,Arnhem
+Mooieweg,156,"","",6836AL,Arnhem
+Mooieweg,158,"","",6836AL,Arnhem
+Mooieweg,162,"","",6836AL,Arnhem
+Mooieweg,172,"","",6836AL,Arnhem
+Mooieweg,178,"","",6836AL,Arnhem
+Mooieweg,192,"","",6836AL,Arnhem
+Mooieweg,222,"","",6836AM,Arnhem
+Mooieweg,224,"","",6836AM,Arnhem
+Erasmussingel,49,"","",6836KJ,Arnhem
+Erasmussingel,55,"","",6836KJ,Arnhem
+Erasmussingel,57,"","",6836KJ,Arnhem
+Erasmussingel,65,"","",6836KJ,Arnhem
+Erasmussingel,71,"","",6836KJ,Arnhem
+Erasmussingel,83,"","",6836KJ,Arnhem
+Erasmussingel,85,"","",6836KJ,Arnhem
+Erasmussingel,91,"","",6836KJ,Arnhem
+Erasmussingel,97,"","",6836KJ,Arnhem
+Mahatma Gandhiweg,1,"","",6836LJ,Arnhem
+Mahatma Gandhiweg,25,"","",6836LJ,Arnhem
+Mahatma Gandhiweg,3,"","",6836LJ,Arnhem
+Mahatma Gandhiweg,31,"","",6836LJ,Arnhem
+Mahatma Gandhiweg,45,"","",6836LJ,Arnhem
+Mahatma Gandhiweg,47,A,"",6836LJ,Arnhem
+Mahatma Gandhiweg,7,"","",6836LJ,Arnhem
+Mahatma Gandhiweg,49,"","",6836LK,Arnhem
+Mahatma Gandhiweg,51,"","",6836LK,Arnhem
+Mahatma Gandhiweg,87,"","",6836LK,Arnhem
+Mahatma Gandhiweg,97,"","",6836LK,Arnhem
+Albert van Dalsumlaan,1,"","",6836MX,Arnhem
+Albert van Dalsumlaan,101,"","",6836MX,Arnhem
+Albert van Dalsumlaan,103,"","",6836MX,Arnhem
+Albert van Dalsumlaan,13,"","",6836MX,Arnhem
+Albert van Dalsumlaan,15,"","",6836MX,Arnhem
+Albert van Dalsumlaan,19,"","",6836MX,Arnhem
+Albert van Dalsumlaan,39,"","",6836MX,Arnhem
+Albert van Dalsumlaan,41,"","",6836MX,Arnhem
+Albert van Dalsumlaan,43,"","",6836MX,Arnhem
+Albert van Dalsumlaan,45,A,"",6836MX,Arnhem
+Albert van Dalsumlaan,47,"","",6836MX,Arnhem
+Albert van Dalsumlaan,49,"","",6836MX,Arnhem
+Albert van Dalsumlaan,5,"","",6836MX,Arnhem
+Albert van Dalsumlaan,53,"","",6836MX,Arnhem
+Albert van Dalsumlaan,55,"","",6836MX,Arnhem
+Albert van Dalsumlaan,7,"","",6836MX,Arnhem
+Albert van Dalsumlaan,75,"","",6836MX,Arnhem
+Albert van Dalsumlaan,81,"","",6836MX,Arnhem
+Albert van Dalsumlaan,83,"","",6836MX,Arnhem
+Albert van Dalsumlaan,85,"","",6836MX,Arnhem
+Albert van Dalsumlaan,89,"","",6836MX,Arnhem
+Albert van Dalsumlaan,9,"","",6836MX,Arnhem
+Simon Vestdijksingel,23,"","",6836SB,Arnhem
+Simon Vestdijksingel,35,"","",6836SB,Arnhem
+Simon Vestdijksingel,37,"","",6836SB,Arnhem
+Simon Vestdijksingel,39,"","",6836SB,Arnhem
+Simon Carmiggelthof,11,"","",6836SC,Arnhem
+Simon Carmiggelthof,15,"","",6836SC,Arnhem
+Simon Carmiggelthof,16,"","",6836SC,Arnhem
+Simon Carmiggelthof,3,"","",6836SC,Arnhem
+Simon Carmiggelthof,4,"","",6836SC,Arnhem
+Annie M.G. Schmidthof,13,"","",6836SE,Arnhem
+Annie M.G. Schmidthof,6,"","",6836SE,Arnhem
+Annie M.G. Schmidthof,7,"","",6836SE,Arnhem
+Annie M.G. Schmidthof,8,"","",6836SE,Arnhem
+Renate Rubinsteinpad,10,"","",6836SG,Arnhem
+Renate Rubinsteinpad,16,"","",6836SG,Arnhem
+Lucebertpad,1,"","",6836SH,Arnhem
+Lucebertpad,11,"","",6836SH,Arnhem
+Lucebertpad,13,"","",6836SH,Arnhem
+Lucebertpad,7,"","",6836SH,Arnhem
+Lucebertpad,9,"","",6836SH,Arnhem
+Multatulihof,12,"","",6836SJ,Arnhem
+Multatulihof,13,"","",6836SJ,Arnhem
+Multatulihof,15,"","",6836SJ,Arnhem
+Multatulihof,3,"","",6836SJ,Arnhem
+Multatulihof,6,"","",6836SJ,Arnhem
+Multatulihof,7,"","",6836SJ,Arnhem
+Multatulihof,8,"","",6836SJ,Arnhem
+Nesciohof,10,"","",6836SK,Arnhem
+Nesciohof,12,"","",6836SK,Arnhem
+Nesciohof,14,"","",6836SK,Arnhem
+Nesciohof,8,"","",6836SK,Arnhem
+Marga Klompélaan,319,"","",6836SL,Arnhem
+Marga Klompélaan,323,"","",6836SL,Arnhem
+Marga Klompélaan,30,"","",6836SM,Arnhem
+Marga Klompélaan,44,"","",6836SM,Arnhem
+Marga Klompélaan,50,"","",6836SM,Arnhem
+Marga Klompélaan,56,"","",6836SM,Arnhem
+Marga Klompélaan,68,"","",6836SM,Arnhem
+Marga Klompélaan,72,"","",6836SM,Arnhem
+W.F. Hermansstraat,16,"","",6836SN,Arnhem
+W.F. Hermansstraat,22,"","",6836SN,Arnhem
+W.F. Hermansstraat,4,"","",6836SN,Arnhem
+W.F. Hermansstraat,42,"","",6836SN,Arnhem
+W.F. Hermansstraat,44,"","",6836SN,Arnhem
+W.F. Hermansstraat,50,"","",6836SN,Arnhem
+W.F. Hermansstraat,52,"","",6836SN,Arnhem
+W.F. Hermansstraat,56,"","",6836SN,Arnhem
+W.F. Hermansstraat,100,"","",6836SP,Arnhem
+W.F. Hermansstraat,104,"","",6836SP,Arnhem
+W.F. Hermansstraat,106,"","",6836SP,Arnhem
+W.F. Hermansstraat,110,"","",6836SP,Arnhem
+W.F. Hermansstraat,112,"","",6836SP,Arnhem
+W.F. Hermansstraat,58,"","",6836SP,Arnhem
+W.F. Hermansstraat,72,"","",6836SP,Arnhem
+W.F. Hermansstraat,78,"","",6836SP,Arnhem
+W.F. Hermansstraat,80,"","",6836SP,Arnhem
+W.F. Hermansstraat,82,"","",6836SP,Arnhem
+W.F. Hermansstraat,86,"","",6836SP,Arnhem
+W.F. Hermansstraat,90,"","",6836SP,Arnhem
+W.F. Hermansstraat,94,"","",6836SP,Arnhem
+Theo Thijssenhof,11,"","",6836SR,Arnhem
+Theo Thijssenhof,14,"","",6836SR,Arnhem
+Theo Thijssenhof,17,"","",6836SR,Arnhem
+Theo Thijssenhof,20,"","",6836SR,Arnhem
+Theo Thijssenhof,21,"","",6836SR,Arnhem
+Theo Thijssenhof,4,"","",6836SR,Arnhem
+Theo Thijssenhof,5,"","",6836SR,Arnhem
+Theo Thijssenhof,9,"","",6836SR,Arnhem
+F. Bordewijkhof,1,"","",6836ST,Arnhem
+F. Bordewijkhof,10,"","",6836ST,Arnhem
+F. Bordewijkhof,13,"","",6836ST,Arnhem
+F. Bordewijkhof,16,"","",6836ST,Arnhem
+F. Bordewijkhof,17,"","",6836ST,Arnhem
+F. Bordewijkhof,23,"","",6836ST,Arnhem
+Anton Koolhaaspad,2,"","",6836SV,Arnhem
+Louis Paul Boonpad,11,"","",6836SW,Arnhem
+Louis Paul Boonpad,17,"","",6836SW,Arnhem
+Louis Paul Boonpad,19,"","",6836SW,Arnhem
+Louis Paul Boonpad,23,"","",6836SW,Arnhem
+Louis Paul Boonpad,3,"","",6836SW,Arnhem
+Louis Paul Boonpad,7,"","",6836SW,Arnhem
+Louis Paul Boonpad,9,"","",6836SW,Arnhem
+Willem Elsschothof,1,"","",6836SX,Arnhem
+Willem Elsschothof,10,"","",6836SX,Arnhem
+Willem Elsschothof,12,"","",6836SX,Arnhem
+Willem Elsschothof,13,"","",6836SX,Arnhem
+Willem Elsschothof,18,"","",6836SX,Arnhem
+Willem Elsschothof,23,"","",6836SX,Arnhem
+Willem Elsschothof,7,"","",6836SX,Arnhem
+Jan Menshof,10,"","",6836SZ,Arnhem
+Jan Menshof,12,"","",6836SZ,Arnhem
+Jan Menshof,18,"","",6836SZ,Arnhem
+Jan Menshof,6,"","",6836SZ,Arnhem
+Emily Brontësingel,18,"","",6836TA,Arnhem
+Emily Brontësingel,2,"","",6836TA,Arnhem
+Emily Brontësingel,24,"","",6836TA,Arnhem
+Emily Brontësingel,36,"","",6836TA,Arnhem
+Emily Brontësingel,38,"","",6836TA,Arnhem
+Emily Brontësingel,4,"","",6836TA,Arnhem
+Emily Brontësingel,40,"","",6836TA,Arnhem
+Emily Brontësingel,8,"","",6836TA,Arnhem
+Jules Vernehof,13,"","",6836TB,Arnhem
+Jules Vernehof,15,"","",6836TB,Arnhem
+Jules Vernehof,3,"","",6836TB,Arnhem
+Emile Zolahof,1,"","",6836TC,Arnhem
+Emile Zolahof,10,"","",6836TC,Arnhem
+Emile Zolahof,11,"","",6836TC,Arnhem
+Emile Zolahof,15,"","",6836TC,Arnhem
+Emile Zolahof,16,"","",6836TC,Arnhem
+Emile Zolahof,3,"","",6836TC,Arnhem
+Hector Malotpad,1,"","",6836TD,Arnhem
+Hector Malotpad,13,"","",6836TD,Arnhem
+Hector Malotpad,5,"","",6836TD,Arnhem
+Hector Malotpad,9,"","",6836TD,Arnhem
+Erich Kästnerpad,14,"","",6836TE,Arnhem
+Erich Kästnerpad,6,"","",6836TE,Arnhem
+Erich Kästnerpad,8,"","",6836TE,Arnhem
+Thomas Mannhof,13,"","",6836TG,Arnhem
+Thomas Mannhof,4,"","",6836TG,Arnhem
+Heinrich Böllhof,1,"","",6836TH,Arnhem
+Heinrich Böllhof,13,"","",6836TH,Arnhem
+Heinrich Böllhof,14,"","",6836TH,Arnhem
+Ernest Hemingwaystraat,11,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,13,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,19,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,25,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,37,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,51,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,53,"","",6836TJ,Arnhem
+Ernest Hemingwaystraat,101,"","",6836TK,Arnhem
+Ernest Hemingwaystraat,59,"","",6836TK,Arnhem
+Ernest Hemingwaystraat,61,"","",6836TK,Arnhem
+Ernest Hemingwaystraat,91,"","",6836TK,Arnhem
+Ernest Hemingwaystraat,93,"","",6836TK,Arnhem
+Ernest Hemingwaystraat,99,"","",6836TK,Arnhem
+George Orwellhof,10,"","",6836TL,Arnhem
+George Orwellhof,12,"","",6836TL,Arnhem
+George Orwellhof,16,"","",6836TL,Arnhem
+George Orwellhof,19,"","",6836TL,Arnhem
+George Orwellhof,24,"","",6836TL,Arnhem
+George Orwellhof,6,"","",6836TL,Arnhem
+Mark Twainhof,1,"","",6836TM,Arnhem
+Mark Twainhof,10,"","",6836TM,Arnhem
+Mark Twainhof,11,"","",6836TM,Arnhem
+Mark Twainhof,2,"","",6836TM,Arnhem
+Mark Twainhof,20,"","",6836TM,Arnhem
+Mark Twainhof,23,"","",6836TM,Arnhem
+Mark Twainhof,3,"","",6836TM,Arnhem
+Mark Twainhof,6,"","",6836TM,Arnhem
+Mark Twainhof,7,"","",6836TM,Arnhem
+Roald Dahlpad,19,"","",6836TN,Arnhem
+Jane Austenpad,10,"","",6836TP,Arnhem
+Jane Austenpad,18,"","",6836TP,Arnhem
+Jane Austenpad,22,"","",6836TP,Arnhem
+Jane Austenpad,24,"","",6836TP,Arnhem
+Jane Austenpad,4,"","",6836TP,Arnhem
+Jane Austenpad,8,"","",6836TP,Arnhem
+Charles Dickensstraat,1,"","",6836TR,Arnhem
+Charles Dickensstraat,13,"","",6836TR,Arnhem
+Charles Dickensstraat,19,"","",6836TR,Arnhem
+Charles Dickensstraat,21,"","",6836TR,Arnhem
+Charles Dickensstraat,25,"","",6836TR,Arnhem
+Charles Dickensstraat,37,"","",6836TR,Arnhem
+Charles Dickensstraat,43,"","",6836TR,Arnhem
+Charles Dickensstraat,47,"","",6836TR,Arnhem
+Charles Dickensstraat,53,"","",6836TR,Arnhem
+Charles Dickensstraat,59,"","",6836TR,Arnhem
+Charles Dickensstraat,73,"","",6836TR,Arnhem
+Emily Brontësingel,11,"","",6836TV,Arnhem
+Emily Brontësingel,13,"","",6836TV,Arnhem
+Emily Brontësingel,21,"","",6836TV,Arnhem
+Emily Brontësingel,3,"","",6836TV,Arnhem
+Emily Brontësingel,33,"","",6836TV,Arnhem
+Emily Brontësingel,35,"","",6836TV,Arnhem
+Emily Brontësingel,37,"","",6836TV,Arnhem
+Emily Brontësingel,53,"","",6836TV,Arnhem
+Emily Brontësingel,55,"","",6836TV,Arnhem
+Emily Brontësingel,57,"","",6836TV,Arnhem
+Emily Brontësingel,59,"","",6836TV,Arnhem
+Emily Brontësingel,61,"","",6836TV,Arnhem
+Emily Brontësingel,65,"","",6836TV,Arnhem
+Emily Brontësingel,73,"","",6836TV,Arnhem
+Emily Brontësingel,75,"","",6836TV,Arnhem
+Emily Brontësingel,50,"","",6836TW,Arnhem
+Emily Brontësingel,54,"","",6836TW,Arnhem
+Emily Brontësingel,56,"","",6836TW,Arnhem
+Emily Brontësingel,58,"","",6836TW,Arnhem
+Emily Brontësingel,62,"","",6836TW,Arnhem
+Emily Brontësingel,66,"","",6836TW,Arnhem
+Emily Brontësingel,68,"","",6836TW,Arnhem
+Emily Brontësingel,78,"","",6836TW,Arnhem
+Emily Brontësingel,80,"","",6836TW,Arnhem
+Emily Brontësingel,104,"","",6836TX,Arnhem
+Emily Brontësingel,110,"","",6836TX,Arnhem
+Emily Brontësingel,112,"","",6836TX,Arnhem
+Emily Brontësingel,116,"","",6836TX,Arnhem
+Emily Brontësingel,124,"","",6836TX,Arnhem
+Emily Brontësingel,84,"","",6836TX,Arnhem
+Emily Brontësingel,90,"","",6836TX,Arnhem
+Emily Brontësingel,92,"","",6836TX,Arnhem
+Emily Brontësingel,210,"","",6836TZ,Arnhem
+Emily Brontësingel,216,"","",6836TZ,Arnhem
+Simon Vestdijksingel,111,"","",6836VA,Arnhem
+Simon Vestdijksingel,53,"","",6836VA,Arnhem
+Simon Vestdijksingel,59,"","",6836VA,Arnhem
+Simon Vestdijksingel,67,"","",6836VA,Arnhem
+Simon Vestdijksingel,73,"","",6836VA,Arnhem
+Simon Vestdijksingel,77,"","",6836VA,Arnhem
+Simon Vestdijksingel,79,"","",6836VA,Arnhem
+Simon Vestdijksingel,81,"","",6836VA,Arnhem
+Simon Vestdijksingel,89,"","",6836VA,Arnhem
+Simon Vestdijksingel,93,"","",6836VA,Arnhem
+Simon Vestdijksingel,113,"","",6836VB,Arnhem
+Simon Vestdijksingel,117,"","",6836VB,Arnhem
+Simon Vestdijksingel,121,"","",6836VB,Arnhem
+Simon Vestdijksingel,123,"","",6836VB,Arnhem
+Simon Vestdijksingel,143,"","",6836VB,Arnhem
+Simon Vestdijksingel,147,"","",6836VB,Arnhem
+Simon Vestdijksingel,20,"","",6836VC,Arnhem
+Simon Vestdijksingel,26,"","",6836VC,Arnhem
+Simon Vestdijksingel,28,"","",6836VC,Arnhem
+Simon Vestdijksingel,38,"","",6836VC,Arnhem
+Simon Vestdijksingel,42,"","",6836VC,Arnhem
+Simon Vestdijksingel,52,"","",6836VC,Arnhem
+Simon Vestdijksingel,58,"","",6836VC,Arnhem
+Simon Vestdijksingel,104,"","",6836VD,Arnhem
+Simon Vestdijksingel,64,"","",6836VD,Arnhem
+Simon Vestdijksingel,74,"","",6836VD,Arnhem
+Simon Vestdijksingel,80,"","",6836VD,Arnhem
+Simon Vestdijksingel,84,"","",6836VD,Arnhem
+Simon Vestdijksingel,94,"","",6836VD,Arnhem
+Simon Vestdijksingel,96,"","",6836VD,Arnhem
+Ida Gerhardtstraat,10,"","",6836VE,Arnhem
+Ida Gerhardtstraat,16,"","",6836VE,Arnhem
+Ida Gerhardtstraat,18,"","",6836VE,Arnhem
+Ida Gerhardtstraat,22,"","",6836VE,Arnhem
+Ida Gerhardtstraat,24,"","",6836VE,Arnhem
+Ida Gerhardtstraat,28,"","",6836VE,Arnhem
+Ida Gerhardtstraat,32,"","",6836VE,Arnhem
+Ida Gerhardtstraat,34,"","",6836VE,Arnhem
+Ida Gerhardtstraat,50,"","",6836VE,Arnhem
+Ida Gerhardtstraat,52,"","",6836VE,Arnhem
+Ida Gerhardtstraat,54,"","",6836VE,Arnhem
+Ida Gerhardtstraat,6,"","",6836VE,Arnhem
+Ida Gerhardtstraat,62,"","",6836VE,Arnhem
+Ida Gerhardtstraat,100,"","",6836VG,Arnhem
+Ida Gerhardtstraat,102,"","",6836VG,Arnhem
+Ida Gerhardtstraat,104,"","",6836VG,Arnhem
+Ida Gerhardtstraat,108,"","",6836VG,Arnhem
+Ida Gerhardtstraat,72,"","",6836VG,Arnhem
+Ida Gerhardtstraat,76,"","",6836VG,Arnhem
+Ida Gerhardtstraat,78,"","",6836VG,Arnhem
+Ida Gerhardtstraat,90,"","",6836VG,Arnhem
+Ida Gerhardtstraat,94,"","",6836VG,Arnhem
+Ida Gerhardtstraat,96,"","",6836VG,Arnhem
+Emily Brontësingel,107,"","",6836VH,Arnhem
+Emily Brontësingel,115,"","",6836VH,Arnhem
+Emily Brontësingel,123,"","",6836VH,Arnhem
+Emily Brontësingel,127,"","",6836VH,Arnhem
+Emily Brontësingel,129,"","",6836VH,Arnhem
+Emily Brontësingel,133,"","",6836VH,Arnhem
+Emily Brontësingel,137,"","",6836VH,Arnhem
+Emily Brontësingel,139,"","",6836VH,Arnhem
+Emily Brontësingel,143,"","",6836VH,Arnhem
+Emily Brontësingel,151,"","",6836VH,Arnhem
+Emily Brontësingel,91,"","",6836VH,Arnhem
+Emily Brontësingel,167,"","",6836VJ,Arnhem
+Emily Brontësingel,171,"","",6836VJ,Arnhem
+Emily Brontësingel,175,"","",6836VJ,Arnhem
+Emily Brontësingel,177,"","",6836VJ,Arnhem
+Emily Brontësingel,191,"","",6836VJ,Arnhem
+Emily Brontësingel,213,"","",6836VJ,Arnhem
+Emily Brontësingel,217,"","",6836VJ,Arnhem
+Emily Brontësingel,221,"","",6836VJ,Arnhem
+Emily Brontësingel,233,"","",6836VJ,Arnhem
+Emily Brontësingel,237,"","",6836VJ,Arnhem
+Emily Brontësingel,239,"","",6836VJ,Arnhem
+Emily Brontësingel,241,"","",6836VJ,Arnhem
+Emily Brontësingel,249,"","",6836VJ,Arnhem
+Emily Brontësingel,251,"","",6836VJ,Arnhem
+Wessel Couzijnhof,13,"","",6836WB,Arnhem
+Wessel Couzijnhof,17,"","",6836WB,Arnhem
+Wessel Couzijnhof,27,"","",6836WB,Arnhem
+Wessel Couzijnhof,7,"","",6836WB,Arnhem
+Wessel Couzijnhof,29,"","",6836WC,Arnhem
+Wessel Couzijnhof,31,"","",6836WC,Arnhem
+Wessel Couzijnhof,35,"","",6836WC,Arnhem
+Wessel Couzijnhof,37,"","",6836WC,Arnhem
+Wessel Couzijnhof,39,"","",6836WC,Arnhem
+Wessel Couzijnhof,53,"","",6836WC,Arnhem
+Wessel Couzijnhof,59,"","",6836WC,Arnhem
+Wessel Couzijnhof,61,"","",6836WC,Arnhem
+Frida Heilstraat,7,"","",6836WG,Arnhem
+Eka Thoden van Velzenstraat,4,"","",6836WH,Arnhem
+Eka Thoden van Velzenstraat,8,"","",6836WH,Arnhem
+John Grosmanstraat,11,"","",6836WJ,Arnhem
+John Grosmanstraat,12,"","",6836WJ,Arnhem
+John Grosmanstraat,2,"","",6836WJ,Arnhem
+John Grosmanstraat,4,"","",6836WJ,Arnhem

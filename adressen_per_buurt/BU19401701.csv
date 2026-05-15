@@ -1,458 +1,226 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8502VC",4,"",""
-"8506AA",2,"",""
-"8506AC",6,"",""
-"8506AC",3,"",""
-"8506AC",5,"",""
-"8506AC",7,"",""
-"8506AC",7,"a",""
-"8506AC",3,"a",""
-"8506AC",4,"",""
-"8506AC",2,"",""
-"8506AE",3,"",""
-"8506AE",1,"",""
-"8506AE",5,"",""
-"8506AG",2,"",""
-"8506AG",4,"",""
-"8506AG",1,"a",""
-"8506AG",3,"",""
-"8506AG",1,"",""
-"8506AG",5,"",""
-"8506AG",6,"a",""
-"8506AG",2,"a",""
-"8506AG",7,"",""
-"8506AG",6,"",""
-"8506BA",2,"",""
-"8506BA",6,"",""
-"8506BA",1,"",""
-"8506BA",7,"",""
-"8506BA",3,"",""
-"8506BA",1,"a",""
-"8506BA",5,"b",""
-"8506BA",9,"",""
-"8506BA",10,"",""
-"8506BA",8,"",""
-"8506BA",5,"",""
-"8506BA",4,"",""
-"8506BB",4,"",""
-"8506BB",2,"",""
-"8506BB",10,"",""
-"8506BB",8,"",""
-"8506BB",6,"",""
-"8506BB",12,"",""
-"8506BB",6,"a",""
-"8506BC",12,"",""
-"8506BC",14,"",""
-"8506BC",16,"",""
-"8506BD",32,"",""
-"8506BD",36,"",""
-"8506BD",20,"",""
-"8506BD",28,"",""
-"8506BD",34,"",""
-"8506BD",18,"",""
-"8506BD",40,"",""
-"8506BD",14,"",""
-"8506BD",24,"",""
-"8506BD",42,"",""
-"8506BD",30,"",""
-"8506BD",22,"",""
-"8506BD",16,"",""
-"8506BD",12,"",""
-"8506BE",9,"",""
-"8506BE",19,"",""
-"8506BE",15,"",""
-"8506BE",25,"a",""
-"8506BE",17,"",""
-"8506BE",25,"c",""
-"8506BE",1,"",""
-"8506BE",23,"",""
-"8506BE",21,"",""
-"8506BE",25,"b",""
-"8506BE",7,"",""
-"8506BE",13,"",""
-"8506BE",25,"",""
-"8506BE",11,"",""
-"8506BG",45,"",""
-"8506BG",33,"",""
-"8506BG",43,"",""
-"8506BG",33,"",""
-"8506BG",35,"",""
-"8506BG",31,"",""
-"8506BG",37,"",""
-"8506BG",37,"b",""
-"8506BG",37,"a",""
-"8506BG",39,"",""
-"8506BG",41,"",""
-"8506BG",29,"",""
-"8506BG",47,"",""
-"8506BG",27,"",""
-"8506BG",35,"a",""
-"8506BH",45,"",""
-"8506BH",27,"",""
-"8506BH",23,"",""
-"8506BH",43,"",""
-"8506BH",39,"",""
-"8506BH",29,"",""
-"8506BH",1,"",""
-"8506BH",37,"",""
-"8506BH",25,"",""
-"8506BH",15,"",""
-"8506BH",17,"",""
-"8506BH",47,"",""
-"8506BH",7,"",""
-"8506BH",11,"",""
-"8506BH",3,"",""
-"8506BH",41,"",""
-"8506BH",33,"",""
-"8506BH",21,"",""
-"8506BH",5,"",""
-"8506BH",35,"",""
-"8506BH",9,"",""
-"8506BH",13,"",""
-"8506BJ",30,"",""
-"8506BJ",28,"",""
-"8506BJ",4,"a",""
-"8506BJ",12,"",""
-"8506BJ",20,"",""
-"8506BJ",26,"",""
-"8506BJ",2,"a",""
-"8506BJ",2,"",""
-"8506BJ",4,"",""
-"8506BJ",10,"",""
-"8506BJ",32,"",""
-"8506BJ",16,"",""
-"8506BJ",14,"",""
-"8506BJ",8,"",""
-"8506BJ",24,"",""
-"8506BJ",6,"",""
-"8506BJ",22,"",""
-"8506BK",9,"",""
-"8506BK",11,"",""
-"8506BK",7,"",""
-"8506BK",1,"",""
-"8506BK",30,"",""
-"8506BK",22,"",""
-"8506BK",10,"",""
-"8506BK",12,"",""
-"8506BK",2,"",""
-"8506BK",4,"",""
-"8506BK",14,"",""
-"8506BK",20,"",""
-"8506BK",36,"",""
-"8506BK",8,"",""
-"8506BK",16,"",""
-"8506BK",5,"",""
-"8506BK",13,"",""
-"8506BK",15,"",""
-"8506BK",3,"",""
-"8506BK",6,"",""
-"8506BK",24,"",""
-"8506BK",26,"",""
-"8506BK",18,"",""
-"8506BK",32,"",""
-"8506BK",28,"",""
-"8506BL",30,"",""
-"8506BL",32,"",""
-"8506BL",2,"",""
-"8506BL",36,"",""
-"8506BL",26,"",""
-"8506BL",8,"",""
-"8506BL",4,"",""
-"8506BL",6,"",""
-"8506BL",34,"",""
-"8506BL",16,"",""
-"8506BL",12,"",""
-"8506BL",24,"",""
-"8506BL",28,"",""
-"8506BL",10,"",""
-"8506BL",18,"",""
-"8506BL",22,"",""
-"8506BL",20,"",""
-"8506BL",14,"",""
-"8506BM",3,"",""
-"8506BM",2,"",""
-"8506BM",1,"",""
-"8506BN",9,"",""
-"8506BN",11,"",""
-"8506BN",7,"",""
-"8506BN",1,"",""
-"8506BN",23,"",""
-"8506BN",3,"",""
-"8506BN",25,"",""
-"8506BN",19,"",""
-"8506BN",13,"a",""
-"8506BN",5,"",""
-"8506BN",15,"",""
-"8506BN",29,"",""
-"8506BN",17,"",""
-"8506BN",21,"",""
-"8506BN",31,"",""
-"8506BN",33,"",""
-"8506BN",27,"",""
-"8506BN",13,"",""
-"8506BP",16,"",""
-"8506BP",11,"",""
-"8506BP",10,"",""
-"8506BP",5,"",""
-"8506BP",4,"",""
-"8506BP",12,"",""
-"8506BP",9,"",""
-"8506BP",14,"",""
-"8506BP",1,"",""
-"8506BP",18,"",""
-"8506BP",13,"",""
-"8506BP",3,"",""
-"8506BP",6,"",""
-"8506BP",2,"",""
-"8506BP",8,"",""
-"8506CA",1,"",""
-"8506CA",40,"",""
-"8506CA",48,"",""
-"8506CA",42,"",""
-"8506CA",54,"",""
-"8506CA",49,"",""
-"8506CA",56,"",""
-"8506CA",59,"",""
-"8506CA",63,"",""
-"8506CA",55,"",""
-"8506CA",58,"",""
-"8506CA",46,"",""
-"8506CA",61,"",""
-"8506CA",44,"",""
-"8506CA",50,"",""
-"8506CA",53,"",""
-"8506CA",57,"",""
-"8506CA",52,"",""
-"8506CA",65,"",""
-8506CA,Bosweg,1,,
-8506AE,Flueskamp,1,,
-8506AE,Flueskamp,5,,
-8506BM,Gravinnesingel,1,,
-8506BM,Gravinnesingel,3,,
-8506BH,Haulsterweg,1,,
-8506BH,Haulsterweg,3,,
-8506BH,Haulsterweg,5,,
-8506BH,Haulsterweg,7,,
-8506BH,Haulsterweg,11,,
-8506BH,Haulsterweg,15,,
-8506BH,Haulsterweg,21,,
-8506BH,Haulsterweg,25,,
-8506BH,Haulsterweg,29,,
-8506BH,Haulsterweg,35,,
-8506BH,Haulsterweg,37,,
-8506BH,Haulsterweg,39,,
-8506BH,Haulsterweg,41,,
-8506BH,Haulsterweg,43,,
-8506BH,Haulsterweg,45,,
-8506BH,Haulsterweg,47,,
-8506BJ,Haulsterweg,2,,
-8506BJ,Haulsterweg,4,,
-8506BJ,Haulsterweg,8,,
-8506BJ,Haulsterweg,10,,
-8506BJ,Haulsterweg,12,,
-8506BJ,Haulsterweg,14,,
-8506BJ,Haulsterweg,16,,
-8506BJ,Haulsterweg,20,,
-8506BJ,Haulsterweg,22,,
-8506BJ,Haulsterweg,24,,
-8506BJ,Haulsterweg,26,,
-8506BJ,Haulsterweg,28,,
-8506BJ,Haulsterweg,30,,
-8506BJ,Haulsterweg,32,,
-8506BJ,Haulsterweg,2,a,
-8506BJ,Haulsterweg,6,,
-8506CA,Haulsterweg,56,,
-8506CA,Haulsterweg,57,,
-8506CA,Haulsterweg,58,,
-8506CA,Haulsterweg,59,,
-8506CA,Haulsterweg,61,,
-8506CA,Haulsterweg,63,,
-8506CA,Haulsterweg,65,,
-8506CA,Haulsterweg,42,,
-8506CA,Haulsterweg,46,,
-8506CA,Haulsterweg,49,,
-8506CA,Haulsterweg,50,,
-8506CA,Haulsterweg,52,,
-8506CA,Haulsterweg,54,,
-8506CA,Haulsterweg,55,,
-8506BP,Biesterboschstrjitte,1,,
-8506BP,Biesterboschstrjitte,2,,
-8506BP,Biesterboschstrjitte,4,,
-8506BP,Biesterboschstrjitte,6,,
-8506BP,Biesterboschstrjitte,8,,
-8506BP,Biesterboschstrjitte,10,,
-8506BP,Biesterboschstrjitte,12,,
-8506BP,Biesterboschstrjitte,13,,
-8506BP,Biesterboschstrjitte,16,,
-8506BP,Biesterboschstrjitte,18,,
-8506BK,Hotze Brouwerstrjitte,1,,
-8506BK,Hotze Brouwerstrjitte,3,,
-8506BK,Hotze Brouwerstrjitte,4,,
-8506BK,Hotze Brouwerstrjitte,5,,
-8506BK,Hotze Brouwerstrjitte,7,,
-8506BK,Hotze Brouwerstrjitte,8,,
-8506BK,Hotze Brouwerstrjitte,9,,
-8506BK,Hotze Brouwerstrjitte,11,,
-8506BK,Hotze Brouwerstrjitte,12,,
-8506BK,Hotze Brouwerstrjitte,13,,
-8506BK,Hotze Brouwerstrjitte,15,,
-8506BK,Hotze Brouwerstrjitte,16,,
-8506BK,Hotze Brouwerstrjitte,18,,
-8506BK,Hotze Brouwerstrjitte,20,,
-8506BK,Hotze Brouwerstrjitte,22,,
-8506BK,Hotze Brouwerstrjitte,24,,
-8506BK,Hotze Brouwerstrjitte,26,,
-8506BK,Hotze Brouwerstrjitte,28,,
-8506BK,Hotze Brouwerstrjitte,30,,
-8506BK,Hotze Brouwerstrjitte,32,,
-8506BK,Hotze Brouwerstrjitte,36,,
-8506BB,Jousterweg,4,,
-8506BB,Jousterweg,6,a,
-8506BB,Jousterweg,10,,
-8506BB,Jousterweg,6,,
-8506BD,Jousterweg,16,,
-8506BD,Jousterweg,14,,
-8506BE,Jousterweg,15,,
-8506BE,Jousterweg,17,,
-8506BE,Jousterweg,19,,
-8506BE,Jousterweg,21,,
-8506BE,Jousterweg,23,,
-8506BE,Jousterweg,25,,
-8506BE,Jousterweg,25,a,
-8506BE,Jousterweg,25,b,
-8506BE,Jousterweg,25,c,
-8506BE,Jousterweg,1,,
-8506BE,Jousterweg,7,,
-8506BE,Jousterweg,11,,
-8506BE,Jousterweg,9,,
-8506BG,Jousterweg,27,,
-8506BG,Jousterweg,29,,
-8506BG,Jousterweg,31,,
-8506BG,Jousterweg,33,,
-8506BG,Jousterweg,33,,
-8506BG,Jousterweg,35,,
-8506BG,Jousterweg,35,a,
-8506BG,Jousterweg,37,,
-8506BG,Jousterweg,37,b,
-8506BG,Jousterweg,39,,
-8506BG,Jousterweg,41,,
-8506BG,Jousterweg,43,,
-8506BG,Jousterweg,45,,
-8506BG,Jousterweg,47,,
-8506BA,Kerkpad,1,a,
-8506BA,Kerkpad,3,,
-8506BA,Kerkpad,4,,
-8506BA,Kerkpad,5,,
-8506BA,Kerkpad,5,b,
-8506BA,Kerkpad,7,,
-8506BA,Kerkpad,8,,
-8506BA,Kerkpad,9,,
-8506BA,Kerkpad,10,,
-8506BC,Kerkpad,14,,
-8506BC,Kerkpad,16,,
-8506BD,Kerkpad,20,,
-8506BD,Kerkpad,22,,
-8506BD,Kerkpad,24,,
-8506BD,Kerkpad,30,,
-8506BD,Kerkpad,32,,
-8506BD,Kerkpad,34,,
-8506BD,Kerkpad,40,,
-8506BD,Kerkpad,42,,
-8506AG,Lange Ekers,1,,
-8506AG,Lange Ekers,1,a,
-8506AG,Lange Ekers,2,,
-8506AG,Lange Ekers,3,,
-8506AG,Lange Ekers,4,,
-8506AG,Lange Ekers,5,,
-8506AG,Lange Ekers,6,,
-8506BL,Van Claerbergenstrjitte,2,,
-8506BL,Van Claerbergenstrjitte,6,,
-8506BL,Van Claerbergenstrjitte,10,,
-8506BL,Van Claerbergenstrjitte,14,,
-8506BL,Van Claerbergenstrjitte,16,,
-8506BL,Van Claerbergenstrjitte,18,,
-8506BL,Van Claerbergenstrjitte,20,,
-8506BL,Van Claerbergenstrjitte,22,,
-8506BL,Van Claerbergenstrjitte,24,,
-8506BL,Van Claerbergenstrjitte,26,,
-8506BL,Van Claerbergenstrjitte,28,,
-8506BL,Van Claerbergenstrjitte,30,,
-8506BL,Van Claerbergenstrjitte,32,,
-8506BL,Van Claerbergenstrjitte,34,,
-8506BL,Van Claerbergenstrjitte,36,,
-8506BN,Van Claerbergenstrjitte,1,,
-8506BN,Van Claerbergenstrjitte,3,,
-8506BN,Van Claerbergenstrjitte,5,,
-8506BN,Van Claerbergenstrjitte,7,,
-8506BN,Van Claerbergenstrjitte,9,,
-8506BN,Van Claerbergenstrjitte,11,,
-8506BN,Van Claerbergenstrjitte,13,,
-8506BN,Van Claerbergenstrjitte,13,a,
-8506BN,Van Claerbergenstrjitte,15,,
-8506BN,Van Claerbergenstrjitte,17,,
-8506BN,Van Claerbergenstrjitte,19,,
-8506BN,Van Claerbergenstrjitte,21,,
-8506BN,Van Claerbergenstrjitte,23,,
-8506BN,Van Claerbergenstrjitte,25,,
-8506BN,Van Claerbergenstrjitte,27,,
-8506BN,Van Claerbergenstrjitte,29,,
-8506BN,Van Claerbergenstrjitte,31,,
-8506BN,Van Claerbergenstrjitte,33,,
-8506AC,Wildehornstersingel,2,,
-8506AC,Wildehornstersingel,3,,
-8506AC,Wildehornstersingel,3,a,
-8506AC,Wildehornstersingel,4,,
-8506AC,Wildehornstersingel,6,,
-8506AC,Wildehornstersingel,7,,
-8506AC,Wildehornstersingel,7,a,
-8506AC,Wildehornstersingel,5,,
-8506AE,Flueskamp,3,,
-8506BM,Gravinnesingel,2,,
-8506BH,Haulsterweg,9,,
-8506BH,Haulsterweg,13,,
-8506BH,Haulsterweg,17,,
-8506BH,Haulsterweg,23,,
-8506BH,Haulsterweg,27,,
-8506BH,Haulsterweg,33,,
-8506BJ,Haulsterweg,4,a,
-8506CA,Haulsterweg,40,,
-8506CA,Haulsterweg,44,,
-8506CA,Haulsterweg,48,,
-8506CA,Haulsterweg,53,,
-8506BP,Biesterboschstrjitte,5,,
-8506BP,Biesterboschstrjitte,3,,
-8506BP,Biesterboschstrjitte,9,,
-8506BP,Biesterboschstrjitte,14,,
-8506BP,Biesterboschstrjitte,11,,
-8506BK,Hotze Brouwerstrjitte,2,,
-8506BK,Hotze Brouwerstrjitte,6,,
-8506BK,Hotze Brouwerstrjitte,10,,
-8506BK,Hotze Brouwerstrjitte,14,,
-8506BB,Jousterweg,2,,
-8506BB,Jousterweg,8,,
-8506BB,Jousterweg,12,,
-8506BD,Jousterweg,12,,
-8506BE,Jousterweg,13,,
-8506BG,Jousterweg,37,a,
-8506BA,Kerkpad,6,,
-8506BA,Kerkpad,1,,
-8506BA,Kerkpad,2,,
-8506BC,Kerkpad,12,,
-8506BD,Kerkpad,18,,
-8506BD,Kerkpad,28,,
-8506BD,Kerkpad,36,,
-8506AG,Lange Ekers,2,a,
-8506AG,Lange Ekers,7,,
-8506AG,Lange Ekers,6,a,
-8506AA,Rijksweg,2,,
-8506BL,Van Claerbergenstrjitte,4,,
-8506BL,Van Claerbergenstrjitte,8,,
-8506BL,Van Claerbergenstrjitte,12,,
-8502VC,Anewiel,4,,
-8506BJ,Haulsterweg,34,,
-8506BJ,Haulsterweg,36,,
-8506CA,Haulsterweg,40,A,
-8506BG,Jousterweg,37,,0001
-8506BA,Kerkpad,7,A,
-8506BD,Kerkpad,40,A,
-8502VC,Anewiel,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Anewiel,4,"","",8502VC,Joure
+Rijksweg,2,"","",8506AA,Haskerhorne
+Wildehornstersingel,2,"","",8506AC,Haskerhorne
+Wildehornstersingel,3,"","",8506AC,Haskerhorne
+Wildehornstersingel,3,A,"",8506AC,Haskerhorne
+Wildehornstersingel,4,"","",8506AC,Haskerhorne
+Wildehornstersingel,5,"","",8506AC,Haskerhorne
+Wildehornstersingel,6,"","",8506AC,Haskerhorne
+Wildehornstersingel,7,"","",8506AC,Haskerhorne
+Wildehornstersingel,7,A,"",8506AC,Haskerhorne
+Flueskamp,1,"","",8506AE,Haskerhorne
+Flueskamp,3,"","",8506AE,Haskerhorne
+Flueskamp,5,"","",8506AE,Haskerhorne
+Lange Ekers,1,"","",8506AG,Haskerhorne
+Lange Ekers,1,A,"",8506AG,Haskerhorne
+Lange Ekers,2,"","",8506AG,Haskerhorne
+Lange Ekers,2,A,"",8506AG,Haskerhorne
+Lange Ekers,3,"","",8506AG,Haskerhorne
+Lange Ekers,4,"","",8506AG,Haskerhorne
+Lange Ekers,5,"","",8506AG,Haskerhorne
+Lange Ekers,6,"","",8506AG,Haskerhorne
+Lange Ekers,6,A,"",8506AG,Haskerhorne
+Lange Ekers,7,"","",8506AG,Haskerhorne
+Kerkpad,1,"","",8506BA,Haskerhorne
+Kerkpad,1,A,"",8506BA,Haskerhorne
+Kerkpad,10,"","",8506BA,Haskerhorne
+Kerkpad,2,"","",8506BA,Haskerhorne
+Kerkpad,3,"","",8506BA,Haskerhorne
+Kerkpad,4,"","",8506BA,Haskerhorne
+Kerkpad,5,"","",8506BA,Haskerhorne
+Kerkpad,5,B,"",8506BA,Haskerhorne
+Kerkpad,6,"","",8506BA,Haskerhorne
+Kerkpad,7,"","",8506BA,Haskerhorne
+Kerkpad,8,"","",8506BA,Haskerhorne
+Kerkpad,9,"","",8506BA,Haskerhorne
+Jousterweg,10,"","",8506BB,Haskerhorne
+Jousterweg,12,"","",8506BB,Haskerhorne
+Jousterweg,2,"","",8506BB,Haskerhorne
+Jousterweg,4,"","",8506BB,Haskerhorne
+Jousterweg,6,"","",8506BB,Haskerhorne
+Jousterweg,6,A,"",8506BB,Haskerhorne
+Jousterweg,8,"","",8506BB,Haskerhorne
+Kerkpad,12,"","",8506BC,Haskerhorne
+Kerkpad,14,"","",8506BC,Haskerhorne
+Kerkpad,16,"","",8506BC,Haskerhorne
+Jousterweg,12,"","",8506BD,Haskerhorne
+Jousterweg,14,"","",8506BD,Haskerhorne
+Jousterweg,16,"","",8506BD,Haskerhorne
+Kerkpad,18,"","",8506BD,Haskerhorne
+Kerkpad,20,"","",8506BD,Haskerhorne
+Kerkpad,22,"","",8506BD,Haskerhorne
+Kerkpad,24,"","",8506BD,Haskerhorne
+Kerkpad,28,"","",8506BD,Haskerhorne
+Kerkpad,30,"","",8506BD,Haskerhorne
+Kerkpad,32,"","",8506BD,Haskerhorne
+Kerkpad,34,"","",8506BD,Haskerhorne
+Kerkpad,36,"","",8506BD,Haskerhorne
+Kerkpad,40,"","",8506BD,Haskerhorne
+Kerkpad,42,"","",8506BD,Haskerhorne
+Jousterweg,1,"","",8506BE,Haskerhorne
+Jousterweg,11,"","",8506BE,Haskerhorne
+Jousterweg,13,"","",8506BE,Haskerhorne
+Jousterweg,15,"","",8506BE,Haskerhorne
+Jousterweg,17,"","",8506BE,Haskerhorne
+Jousterweg,19,"","",8506BE,Haskerhorne
+Jousterweg,21,"","",8506BE,Haskerhorne
+Jousterweg,23,"","",8506BE,Haskerhorne
+Jousterweg,25,"","",8506BE,Haskerhorne
+Jousterweg,25,A,"",8506BE,Haskerhorne
+Jousterweg,25,B,"",8506BE,Haskerhorne
+Jousterweg,25,C,"",8506BE,Haskerhorne
+Jousterweg,7,"","",8506BE,Haskerhorne
+Jousterweg,9,"","",8506BE,Haskerhorne
+Jousterweg,27,"","",8506BG,Haskerhorne
+Jousterweg,29,"","",8506BG,Haskerhorne
+Jousterweg,31,"","",8506BG,Haskerhorne
+Jousterweg,33,"","",8506BG,Haskerhorne
+Jousterweg,33,"","",8506BG,Haskerhorne
+Jousterweg,35,"","",8506BG,Haskerhorne
+Jousterweg,35,A,"",8506BG,Haskerhorne
+Jousterweg,37,"","",8506BG,Haskerhorne
+Jousterweg,37,A,"",8506BG,Haskerhorne
+Jousterweg,37,B,"",8506BG,Haskerhorne
+Jousterweg,39,"","",8506BG,Haskerhorne
+Jousterweg,41,"","",8506BG,Haskerhorne
+Jousterweg,43,"","",8506BG,Haskerhorne
+Jousterweg,45,"","",8506BG,Haskerhorne
+Jousterweg,47,"","",8506BG,Haskerhorne
+Haulsterweg,1,"","",8506BH,Haskerhorne
+Haulsterweg,11,"","",8506BH,Haskerhorne
+Haulsterweg,13,"","",8506BH,Haskerhorne
+Haulsterweg,15,"","",8506BH,Haskerhorne
+Haulsterweg,17,"","",8506BH,Haskerhorne
+Haulsterweg,21,"","",8506BH,Haskerhorne
+Haulsterweg,23,"","",8506BH,Haskerhorne
+Haulsterweg,25,"","",8506BH,Haskerhorne
+Haulsterweg,27,"","",8506BH,Haskerhorne
+Haulsterweg,29,"","",8506BH,Haskerhorne
+Haulsterweg,3,"","",8506BH,Haskerhorne
+Haulsterweg,33,"","",8506BH,Haskerhorne
+Haulsterweg,35,"","",8506BH,Haskerhorne
+Haulsterweg,37,"","",8506BH,Haskerhorne
+Haulsterweg,39,"","",8506BH,Haskerhorne
+Haulsterweg,41,"","",8506BH,Haskerhorne
+Haulsterweg,43,"","",8506BH,Haskerhorne
+Haulsterweg,45,"","",8506BH,Haskerhorne
+Haulsterweg,47,"","",8506BH,Haskerhorne
+Haulsterweg,5,"","",8506BH,Haskerhorne
+Haulsterweg,7,"","",8506BH,Haskerhorne
+Haulsterweg,9,"","",8506BH,Haskerhorne
+Haulsterweg,10,"","",8506BJ,Haskerhorne
+Haulsterweg,12,"","",8506BJ,Haskerhorne
+Haulsterweg,14,"","",8506BJ,Haskerhorne
+Haulsterweg,16,"","",8506BJ,Haskerhorne
+Haulsterweg,2,"","",8506BJ,Haskerhorne
+Haulsterweg,2,A,"",8506BJ,Haskerhorne
+Haulsterweg,20,"","",8506BJ,Haskerhorne
+Haulsterweg,22,"","",8506BJ,Haskerhorne
+Haulsterweg,24,"","",8506BJ,Haskerhorne
+Haulsterweg,26,"","",8506BJ,Haskerhorne
+Haulsterweg,28,"","",8506BJ,Haskerhorne
+Haulsterweg,30,"","",8506BJ,Haskerhorne
+Haulsterweg,32,"","",8506BJ,Haskerhorne
+Haulsterweg,4,"","",8506BJ,Haskerhorne
+Haulsterweg,4,A,"",8506BJ,Haskerhorne
+Haulsterweg,6,"","",8506BJ,Haskerhorne
+Haulsterweg,8,"","",8506BJ,Haskerhorne
+Hotze Brouwerstrjitte,1,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,10,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,11,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,12,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,13,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,14,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,15,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,16,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,18,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,2,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,20,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,22,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,24,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,26,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,28,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,3,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,30,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,32,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,36,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,4,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,5,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,6,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,7,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,8,"","",8506BK,Haskerhorne
+Hotze Brouwerstrjitte,9,"","",8506BK,Haskerhorne
+Van Claerbergenstrjitte,10,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,12,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,14,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,16,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,18,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,2,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,20,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,22,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,24,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,26,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,28,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,30,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,32,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,34,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,36,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,4,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,6,"","",8506BL,Haskerhorne
+Van Claerbergenstrjitte,8,"","",8506BL,Haskerhorne
+Gravinnesingel,1,"","",8506BM,Haskerhorne
+Gravinnesingel,2,"","",8506BM,Haskerhorne
+Gravinnesingel,3,"","",8506BM,Haskerhorne
+Van Claerbergenstrjitte,1,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,11,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,13,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,13,A,"",8506BN,Haskerhorne
+Van Claerbergenstrjitte,15,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,17,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,19,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,21,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,23,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,25,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,27,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,29,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,3,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,31,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,33,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,5,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,7,"","",8506BN,Haskerhorne
+Van Claerbergenstrjitte,9,"","",8506BN,Haskerhorne
+Biesterboschstrjitte,1,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,10,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,11,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,12,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,13,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,14,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,16,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,18,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,2,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,3,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,4,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,5,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,6,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,8,"","",8506BP,Haskerhorne
+Biesterboschstrjitte,9,"","",8506BP,Haskerhorne
+Bosweg,1,"","",8506CA,Haskerhorne
+Haulsterweg,40,"","",8506CA,Haskerhorne
+Haulsterweg,42,"","",8506CA,Haskerhorne
+Haulsterweg,44,"","",8506CA,Haskerhorne
+Haulsterweg,46,"","",8506CA,Haskerhorne
+Haulsterweg,48,"","",8506CA,Haskerhorne
+Haulsterweg,49,"","",8506CA,Haskerhorne
+Haulsterweg,50,"","",8506CA,Haskerhorne
+Haulsterweg,52,"","",8506CA,Haskerhorne
+Haulsterweg,53,"","",8506CA,Haskerhorne
+Haulsterweg,54,"","",8506CA,Haskerhorne
+Haulsterweg,55,"","",8506CA,Haskerhorne
+Haulsterweg,56,"","",8506CA,Haskerhorne
+Haulsterweg,57,"","",8506CA,Haskerhorne
+Haulsterweg,58,"","",8506CA,Haskerhorne
+Haulsterweg,59,"","",8506CA,Haskerhorne
+Haulsterweg,61,"","",8506CA,Haskerhorne
+Haulsterweg,63,"","",8506CA,Haskerhorne
+Haulsterweg,65,"","",8506CA,Haskerhorne

@@ -1,88 +1,89 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9696TA",2,"A",""
-"9696TA",1,"",""
-"9696XP",8,"",""
-"9696XP",3,"",""
-"9696XP",4,"",""
-"9696XP",6,"",""
-"9696XP",5,"",""
-"9696XP",1,"",""
-"9696XP",2,"",""
-"9696XP",2,"A",""
-"9696XP",9,"",""
-"9696XP",2,"a",""
-"9696XS",7,"",""
-"9696XS",3,"",""
-"9696XS",9,"",""
-"9696XS",11,"",""
-"9696XS",5,"",""
-"9696XT",3,"",""
-"9696XT",2,"",""
-"9696XT",1,"",""
-"9696XT",3,"",""
-"9696XV",4,"",""
-"9696XV",22,"",""
-"9696XV",18,"",""
-"9696XV",10,"",""
-"9696XV",14,"",""
-"9696XV",13,"",""
-"9696XV",28,"",""
-"9696XV",4,"",""
-"9696XV",13,"",""
-"9696XV",1,"",""
-"9696XV",26,"",""
-"9696XV",11,"",""
-"9696XV",5,"",""
-"9696XV",7,"",""
-"9696XV",24,"",""
-"9696XV",12,"",""
-"9696XV",2,"",""
-"9696XV",6,"",""
-"9696XV",8,"",""
-9696XT,Ae Dijk,1,,
-9696XT,Ae Dijk,2,,
-9696XT,Ae Dijk,3,,
-9696TA,Hamdijksterweg,1,,
-9696TA,Hamdijksterweg,2,A,
-9696XP,Koudehoek,2,,
-9696XP,Koudehoek,2,A,
-9696XP,Koudehoek,2,a,
-9696XP,Koudehoek,3,,
-9696XP,Koudehoek,4,,
-9696XP,Koudehoek,5,,
-9696XP,Koudehoek,6,,
-9696XP,Koudehoek,8,,
-9696XP,Koudehoek,9,,
-9696XP,Koudehoek,1,,
-9696XV,Ulsderweg,1,,
-9696XV,Ulsderweg,2,,
-9696XV,Ulsderweg,4,,
-9696XV,Ulsderweg,5,,
-9696XV,Ulsderweg,6,,
-9696XV,Ulsderweg,7,,
-9696XV,Ulsderweg,8,,
-9696XV,Ulsderweg,10,,
-9696XV,Ulsderweg,11,,
-9696XV,Ulsderweg,12,,
-9696XV,Ulsderweg,13,,
-9696XV,Ulsderweg,14,,
-9696XV,Ulsderweg,18,,
-9696XV,Ulsderweg,22,,
-9696XV,Ulsderweg,24,,
-9696XV,Ulsderweg,26,,
-9696XV,Ulsderweg,28,,
-9696XS,'t Molenlaantje,3,,
-9696XS,'t Molenlaantje,5,,
-9696XS,'t Molenlaantje,7,,
-9696XS,'t Molenlaantje,9,,
-9696XS,'t Molenlaantje,11,,
-9696XV,Ulsderweg,13,,
-9696XV,Ulsderweg,4,,
-9696XV,Ulsderweg,4,,
-9696XV,Ulsderweg,4,a,
-9696XV,Ulsderweg,4,a,
-9696XV,Ulsderweg,20,,
-9696XP,Koudehoek,4,,
-9696XP,Koudehoek,4,a,
-9696XP,Koudehoek,4,b,
-9696XV,Ulsderweg,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+1,"","","",9696TA,
+Hamdijksterweg,1,"","",9696TA,Oudeschans
+Hamdijksterweg,2,A,"",9696TA,Oudeschans
+2,A,"","",9696TA,
+8,"","","",9696XP,
+3,"","","",9696XP,
+4,"","","",9696XP,
+6,"","","",9696XP,
+5,"","","",9696XP,
+1,"","","",9696XP,
+2,"","","",9696XP,
+9,"","","",9696XP,
+Koudehoek,1,"","",9696XP,Oudeschans
+Koudehoek,2,"","",9696XP,Oudeschans
+Koudehoek,2,A,"",9696XP,Oudeschans
+Koudehoek,2,A,"",9696XP,Oudeschans
+Koudehoek,3,"","",9696XP,Oudeschans
+Koudehoek,4,"","",9696XP,Oudeschans
+Koudehoek,4,"","",9696XP,Oudeschans
+Koudehoek,4,A,"",9696XP,Oudeschans
+Koudehoek,4,B,"",9696XP,Oudeschans
+Koudehoek,5,"","",9696XP,Oudeschans
+Koudehoek,6,"","",9696XP,Oudeschans
+Koudehoek,8,"","",9696XP,Oudeschans
+Koudehoek,9,"","",9696XP,Oudeschans
+2,A,"","",9696XP,
+2,A,"","",9696XP,
+7,"","","",9696XS,
+3,"","","",9696XS,
+9,"","","",9696XS,
+11,"","","",9696XS,
+5,"","","",9696XS,
+'t Molenlaantje,11,"","",9696XS,Oudeschans
+'t Molenlaantje,3,"","",9696XS,Oudeschans
+'t Molenlaantje,5,"","",9696XS,Oudeschans
+'t Molenlaantje,7,"","",9696XS,Oudeschans
+'t Molenlaantje,9,"","",9696XS,Oudeschans
+3,"","","",9696XT,
+2,"","","",9696XT,
+1,"","","",9696XT,
+3,"","","",9696XT,
+Ae Dijk,1,"","",9696XT,Oudeschans
+Ae Dijk,2,"","",9696XT,Oudeschans
+Ae Dijk,3,"","",9696XT,Oudeschans
+4,"","","",9696XV,
+22,"","","",9696XV,
+18,"","","",9696XV,
+10,"","","",9696XV,
+14,"","","",9696XV,
+13,"","","",9696XV,
+28,"","","",9696XV,
+4,"","","",9696XV,
+13,"","","",9696XV,
+1,"","","",9696XV,
+26,"","","",9696XV,
+11,"","","",9696XV,
+5,"","","",9696XV,
+7,"","","",9696XV,
+24,"","","",9696XV,
+12,"","","",9696XV,
+2,"","","",9696XV,
+6,"","","",9696XV,
+8,"","","",9696XV,
+Ulsderweg,1,"","",9696XV,Oudeschans
+Ulsderweg,10,"","",9696XV,Oudeschans
+Ulsderweg,11,"","",9696XV,Oudeschans
+Ulsderweg,12,"","",9696XV,Oudeschans
+Ulsderweg,13,"","",9696XV,Oudeschans
+Ulsderweg,13,"","",9696XV,Oudeschans
+Ulsderweg,14,"","",9696XV,Oudeschans
+Ulsderweg,18,"","",9696XV,Oudeschans
+Ulsderweg,2,"","",9696XV,Oudeschans
+Ulsderweg,20,"","",9696XV,Oudeschans
+Ulsderweg,22,"","",9696XV,Oudeschans
+Ulsderweg,24,"","",9696XV,Oudeschans
+Ulsderweg,26,"","",9696XV,Oudeschans
+Ulsderweg,28,"","",9696XV,Oudeschans
+Ulsderweg,4,"","",9696XV,Oudeschans
+Ulsderweg,4,"","",9696XV,Oudeschans
+Ulsderweg,4,"","",9696XV,Oudeschans
+Ulsderweg,4,A,"",9696XV,Oudeschans
+Ulsderweg,4,A,"",9696XV,Oudeschans
+Ulsderweg,5,"","",9696XV,Oudeschans
+Ulsderweg,6,"","",9696XV,Oudeschans
+Ulsderweg,7,"","",9696XV,Oudeschans
+Ulsderweg,8,"","",9696XV,Oudeschans
+Ulsderweg,9,"","",9696XV,Oudeschans
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

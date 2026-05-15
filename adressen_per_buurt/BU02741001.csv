@@ -1,88 +1,88 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6862BX,Sandersweg,4,,
-6862AZ,Utrechtseweg,220,,
-6862AZ,Utrechtseweg,220,A,
-6862BZ,J.J.Talsmalaan,11,,
-6862WH,Benedendorpsweg,163,,
-6862WH,Benedendorpsweg,165,,
-6862WH,Benedendorpsweg,167,,
-6862WH,Benedendorpsweg,171,,
-6862WH,Benedendorpsweg,191,,
-6862WH,Benedendorpsweg,197,,
-6862BT,Pietersbergseweg,19,,
-6862BT,Pietersbergseweg,9,,
-6862BT,Pietersbergseweg,11,,
-6862BT,Pietersbergseweg,13,,
-6862BT,Pietersbergseweg,15,,
-6862BH,van Borsselenweg,21,,
-6862BH,van Borsselenweg,23,,
-6862BH,van Borsselenweg,21,,
-6862BH,van Borsselenweg,25,,
-6862BH,van Borsselenweg,27,,
-6862BH,van Borsselenweg,29,,
-6862BH,van Borsselenweg,31,,
-6862BH,van Borsselenweg,39,,
-6862BH,van Borsselenweg,41,,
-6862BJ,van Borsselenweg,10,,
-6862BJ,van Borsselenweg,32,A,
-6862BJ,van Borsselenweg,32,B,
-6862BJ,van Borsselenweg,32,,
-6862BJ,van Borsselenweg,2,A,
-6862BJ,van Borsselenweg,2,,
-6862BJ,van Borsselenweg,4,,
-6862BJ,van Borsselenweg,6,,
-6862BJ,van Borsselenweg,8,,
-6862BJ,van Borsselenweg,6,A,
-6862BJ,van Borsselenweg,12,,
-6862BJ,van Borsselenweg,14,,
-6862BJ,van Borsselenweg,34,,
-6862BJ,van Borsselenweg,36,,
-6862BM,Hoofdlaan,1,,
-6862BM,Hoofdlaan,3,,
-6862BM,Hoofdlaan,4,,
-6862BX,Sandersweg,1,,
-6862BX,Sandersweg,3,,
-6862BX,Sandersweg,6,,
-6862BX,Sandersweg,8,,
-6862BN,Hemelseberg,2,,
-6862BN,Hemelseberg,3,,
-6862AZ,Utrechtseweg,218,,
-6862AZ,Utrechtseweg,226,,
-6862AZ,Utrechtseweg,230,,
-6862AZ,Utrechtseweg,232,,
-6862BZ,J.J.Talsmalaan,1,,
-6862BZ,J.J.Talsmalaan,6,,
-6862BZ,J.J.Talsmalaan,8,,
-6862BZ,J.J.Talsmalaan,9,,
-6862BZ,J.J.Talsmalaan,10,,
-6862BZ,J.J.Talsmalaan,12,,
-6862BZ,J.J.Talsmalaan,14,,
-6862BZ,J.J.Talsmalaan,16,,
-6862BZ,J.J.Talsmalaan,18,,
-6862BZ,J.J.Talsmalaan,13,,
-6862BP,Kneppelhoutweg,1,,
-6862BP,Kneppelhoutweg,6,,
-6862BP,Kneppelhoutweg,8,,
-6862BP,Kneppelhoutweg,10,,
-6862BP,Kneppelhoutweg,10,,
-6862BP,Kneppelhoutweg,12,,
-6862BP,Kneppelhoutweg,14,A,
-6862BP,Kneppelhoutweg,14,,
-6862BP,Kneppelhoutweg,18,A,
-6862BP,Kneppelhoutweg,18,,
-6862BP,Kneppelhoutweg,20,,
-6862BP,Kneppelhoutweg,22,,
-6862BP,Kneppelhoutweg,16,,
-6862BT,Pietersbergseweg,5,,
-6862BT,Pietersbergseweg,7,,
-6862BH,van Borsselenweg,43,,
-6862BH,van Borsselenweg,39,,
-6862BH,van Borsselenweg,41,,
-6862BJ,van Borsselenweg,4,A,
-6862BN,Hemelseberg,2,A,
-6862BP,Kneppelhoutweg,10,A,
-6862BP,Kneppelhoutweg,10,,
-6862WH,Benedendorpsweg,191,A,
-6862BH,van Borsselenweg,29,,
-6862BJ,van Borsselenweg,34,,
-6862BJ,van Borsselenweg,32,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Utrechtseweg,218,"","",6862AZ,Oosterbeek
+Utrechtseweg,220,"","",6862AZ,Oosterbeek
+Utrechtseweg,220,A,"",6862AZ,Oosterbeek
+Utrechtseweg,226,"","",6862AZ,Oosterbeek
+Utrechtseweg,230,"","",6862AZ,Oosterbeek
+Utrechtseweg,232,"","",6862AZ,Oosterbeek
+van Borsselenweg,21,"","",6862BH,Oosterbeek
+van Borsselenweg,21,"","",6862BH,Oosterbeek
+van Borsselenweg,23,"","",6862BH,Oosterbeek
+van Borsselenweg,25,"","",6862BH,Oosterbeek
+van Borsselenweg,27,"","",6862BH,Oosterbeek
+van Borsselenweg,29,"","",6862BH,Oosterbeek
+van Borsselenweg,29,"","",6862BH,Oosterbeek
+van Borsselenweg,31,"","",6862BH,Oosterbeek
+van Borsselenweg,39,"","",6862BH,Oosterbeek
+van Borsselenweg,39,"","",6862BH,Oosterbeek
+van Borsselenweg,41,"","",6862BH,Oosterbeek
+van Borsselenweg,41,"","",6862BH,Oosterbeek
+van Borsselenweg,43,"","",6862BH,Oosterbeek
+van Borsselenweg,10,"","",6862BJ,Oosterbeek
+van Borsselenweg,12,"","",6862BJ,Oosterbeek
+van Borsselenweg,14,"","",6862BJ,Oosterbeek
+van Borsselenweg,2,"","",6862BJ,Oosterbeek
+van Borsselenweg,2,A,"",6862BJ,Oosterbeek
+van Borsselenweg,32,"","",6862BJ,Oosterbeek
+van Borsselenweg,32,"","",6862BJ,Oosterbeek
+van Borsselenweg,32,A,"",6862BJ,Oosterbeek
+van Borsselenweg,32,B,"",6862BJ,Oosterbeek
+van Borsselenweg,34,"","",6862BJ,Oosterbeek
+van Borsselenweg,34,"","",6862BJ,Oosterbeek
+van Borsselenweg,36,"","",6862BJ,Oosterbeek
+van Borsselenweg,4,"","",6862BJ,Oosterbeek
+van Borsselenweg,4,A,"",6862BJ,Oosterbeek
+van Borsselenweg,6,"","",6862BJ,Oosterbeek
+van Borsselenweg,6,A,"",6862BJ,Oosterbeek
+van Borsselenweg,8,"","",6862BJ,Oosterbeek
+Hoofdlaan,1,"","",6862BM,Oosterbeek
+Hoofdlaan,3,"","",6862BM,Oosterbeek
+Hoofdlaan,4,"","",6862BM,Oosterbeek
+Hemelseberg,2,"","",6862BN,Oosterbeek
+Hemelseberg,2,A,"",6862BN,Oosterbeek
+Hemelseberg,3,"","",6862BN,Oosterbeek
+Kneppelhoutweg,1,"","",6862BP,Oosterbeek
+Kneppelhoutweg,10,"","",6862BP,Oosterbeek
+Kneppelhoutweg,10,"","",6862BP,Oosterbeek
+Kneppelhoutweg,10,"","",6862BP,Oosterbeek
+Kneppelhoutweg,10,A,"",6862BP,Oosterbeek
+Kneppelhoutweg,12,"","",6862BP,Oosterbeek
+Kneppelhoutweg,14,"","",6862BP,Oosterbeek
+Kneppelhoutweg,14,A,"",6862BP,Oosterbeek
+Kneppelhoutweg,16,"","",6862BP,Oosterbeek
+Kneppelhoutweg,18,"","",6862BP,Oosterbeek
+Kneppelhoutweg,18,A,"",6862BP,Oosterbeek
+Kneppelhoutweg,20,"","",6862BP,Oosterbeek
+Kneppelhoutweg,22,"","",6862BP,Oosterbeek
+Kneppelhoutweg,6,"","",6862BP,Oosterbeek
+Kneppelhoutweg,8,"","",6862BP,Oosterbeek
+Pietersbergseweg,11,"","",6862BT,Oosterbeek
+Pietersbergseweg,13,"","",6862BT,Oosterbeek
+Pietersbergseweg,15,"","",6862BT,Oosterbeek
+Pietersbergseweg,19,"","",6862BT,Oosterbeek
+Pietersbergseweg,5,"","",6862BT,Oosterbeek
+Pietersbergseweg,7,"","",6862BT,Oosterbeek
+Pietersbergseweg,9,"","",6862BT,Oosterbeek
+Sandersweg,1,"","",6862BX,Oosterbeek
+Sandersweg,3,"","",6862BX,Oosterbeek
+Sandersweg,4,"","",6862BX,Oosterbeek
+Sandersweg,6,"","",6862BX,Oosterbeek
+Sandersweg,8,"","",6862BX,Oosterbeek
+J.J.Talsmalaan,1,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,10,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,11,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,12,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,13,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,14,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,16,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,18,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,6,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,8,"","",6862BZ,Oosterbeek
+J.J.Talsmalaan,9,"","",6862BZ,Oosterbeek
+Benedendorpsweg,163,"","",6862WH,Oosterbeek
+Benedendorpsweg,165,"","",6862WH,Oosterbeek
+Benedendorpsweg,167,"","",6862WH,Oosterbeek
+Benedendorpsweg,171,"","",6862WH,Oosterbeek
+Benedendorpsweg,191,"","",6862WH,Oosterbeek
+Benedendorpsweg,191,A,"",6862WH,Oosterbeek
+Benedendorpsweg,197,"","",6862WH,Oosterbeek

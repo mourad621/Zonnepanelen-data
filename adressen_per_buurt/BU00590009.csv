@@ -1,144 +1,145 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9871PA",14,"",""
-"9871PA",10,"",""
-"9871PA",11,"",""
-"9871PA",15,"A",""
-"9871PA",9,"A",""
-"9871PA",12,"",""
-"9871PA",8,"",""
-"9871PA",15,"A",""
-"9871PA",3,"",""
-"9871PA",16,"",""
-"9871PA",15,"",""
-"9871PA",9,"",""
-"9871PA",15,"",""
-"9871PA",3,"A",""
-"9871PA",7,"",""
-"9871PA",15,"",""
-"9871PA",5,"B",""
-"9871PA",5,"",""
-"9871PA",4,"",""
-"9871PA",15,"",""
-"9871PA",6,"",""
-"9872PS",4,"",""
-"9872PS",7,"",""
-"9872PS",8,"",""
-"9872PS",9,"",""
-"9872PS",1,"",""
-"9872PS",6,"",""
-"9872PS",3,"",""
-"9872PS",2,"",""
-"9873TA",2,"",""
-"9873TA",6,"",""
-"9873TA",1,"",""
-"9873TA",4,"",""
-"9873TB",3,"",""
-"9873TB",7,"",""
-"9873TB",9,"",""
-"9873TB",5,"",""
-"9873TC",1,"",""
-"9873TC",2,"",""
-"9873TD",5,"",""
-"9873TD",3,"A",""
-"9873TD",3,"",""
-"9873TD",2,"",""
-"9873TE",4,"",""
-"9873TG",8,"",""
-"9873TG",4,"",""
-"9873TG",3,"",""
-"9873TG",12,"",""
-"9873TG",10,"",""
-"9873TG",2,"",""
-"9873TG",1,"",""
-"9873TG",5,"",""
-"9873TH",21,"A",""
-"9873TH",13,"",""
-"9873TH",25,"",""
-"9873TH",9,"A",""
-"9873TH",21,"",""
-"9873TH",19,"",""
-"9873TH",2,"",""
-"9873TH",2,"",""
-"9873TH",11,"",""
-"9873TH",15,"",""
-"9873TH",17,"",""
-"9873TH",25,"A",""
-"9873TH",9,"B",""
-"9873TH",19,"A",""
-"9873TJ",8,"B",""
-"9873TJ",8,"A",""
-"9873TJ",10,"",""
-"9873TJ",12,"",""
-"9873TJ",6,"",""
-"9873TJ",4,"",""
-"9873TJ",8,"",""
-9873TD,Dykhuzen,3,,
-9873TG,Oosterboeren,4,,
-9873TG,Oosterboeren,1,,
-9873TG,Oosterboeren,3,,
-9873TH,Sarabos,9,A,
-9873TH,Sarabos,11,,
-9873TH,Sarabos,15,,
-9873TH,Sarabos,17,,
-9873TH,Sarabos,19,A,
-9873TH,Sarabos,19,,
-9873TH,Sarabos,25,A,
-9871PA,Hoendiep N.Z.,15,A,
-9871PA,Hoendiep N.Z.,3,,
-9871PA,Hoendiep N.Z.,4,,
-9871PA,Hoendiep N.Z.,12,,
-9871PA,Hoendiep N.Z.,16,,
-9871PA,Hoendiep N.Z.,15,,
-9871PA,Hoendiep N.Z.,14,,
-9873TA,Izermieden,4,,
-9873TB,Dokkumertrekwei,3,,
-9873TC,Monnikeweg,2,,
-9873TC,Monnikeweg,1,,
-9873TE,Spriensma's Reed,4,,
-9872PS,Sarabos,2,,
-9872PS,Sarabos,7,,
-9873TJ,Kolonelsdiep,4,,
-9873TD,Dykhuzen,2,,
-9873TD,Dykhuzen,5,,
-9873TG,Oosterboeren,2,,
-9873TG,Oosterboeren,10,,
-9873TG,Oosterboeren,12,,
-9873TG,Oosterboeren,5,,
-9873TH,Sarabos,2,,
-9873TH,Sarabos,21,A,
-9873TH,Sarabos,21,,
-9873TH,Sarabos,13,,
-9873TH,Sarabos,25,,
-9871PA,Hoendiep N.Z.,11,,
-9871PA,Hoendiep N.Z.,5,,
-9871PA,Hoendiep N.Z.,9,A,
-9871PA,Hoendiep N.Z.,10,,
-9871PA,Hoendiep N.Z.,9,,
-9871PA,Hoendiep N.Z.,3,A,
-9871PA,Hoendiep N.Z.,7,,
-9871PA,Hoendiep N.Z.,8,,
-9873TA,Izermieden,6,,
-9873TA,Izermieden,2,,
-9873TB,Dokkumertrekwei,9,,
-9873TB,Dokkumertrekwei,7,,
-9872PS,Sarabos,4,,
-9872PS,Sarabos,6,,
-9872PS,Sarabos,1,,
-9872PS,Sarabos,3,,
-9872PS,Sarabos,9,,
-9873TJ,Kolonelsdiep,12,,
-9873TJ,Kolonelsdiep,8,,
-9873TJ,Kolonelsdiep,10,,
-9873TJ,Kolonelsdiep,6,,
-9873TD,Dykhuzen,3,A,
-9873TG,Oosterboeren,8,,
-9873TH,Sarabos,9,B,
-9871PA,Hoendiep N.Z.,6,,
-9871PA,Hoendiep N.Z.,5,B,
-9871PA,Hoendiep N.Z.,15,,
-9871PA,Hoendiep N.Z.,15,,
-9873TA,Izermieden,1,,
-9873TB,Dokkumertrekwei,5,,
-9872PS,Sarabos,8,,
-9873TJ,Kolonelsdiep,8,B,
-9873TJ,Kolonelsdiep,8,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+14,"","","",9871PA,
+10,"","","",9871PA,
+11,"","","",9871PA,
+12,"","","",9871PA,
+8,"","","",9871PA,
+3,"","","",9871PA,
+16,"","","",9871PA,
+15,"","","",9871PA,
+9,"","","",9871PA,
+15,"","","",9871PA,
+7,"","","",9871PA,
+15,"","","",9871PA,
+5,"","","",9871PA,
+4,"","","",9871PA,
+15,"","","",9871PA,
+6,"","","",9871PA,
+Hoendiep N.Z.,10,"","",9871PA,Stroobos
+Hoendiep N.Z.,11,"","",9871PA,Stroobos
+Hoendiep N.Z.,12,"","",9871PA,Stroobos
+Hoendiep N.Z.,14,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,A,"",9871PA,Stroobos
+Hoendiep N.Z.,16,"","",9871PA,Stroobos
+Hoendiep N.Z.,3,"","",9871PA,Stroobos
+Hoendiep N.Z.,3,A,"",9871PA,Stroobos
+Hoendiep N.Z.,4,"","",9871PA,Stroobos
+Hoendiep N.Z.,5,"","",9871PA,Stroobos
+Hoendiep N.Z.,5,B,"",9871PA,Stroobos
+Hoendiep N.Z.,6,"","",9871PA,Stroobos
+Hoendiep N.Z.,7,"","",9871PA,Stroobos
+Hoendiep N.Z.,8,"","",9871PA,Stroobos
+Hoendiep N.Z.,9,"","",9871PA,Stroobos
+Hoendiep N.Z.,9,A,"",9871PA,Stroobos
+15,A,"","",9871PA,
+9,A,"","",9871PA,
+15,A,"","",9871PA,
+3,A,"","",9871PA,
+5,B,"","",9871PA,
+4,"","","",9872PS,
+7,"","","",9872PS,
+8,"","","",9872PS,
+9,"","","",9872PS,
+1,"","","",9872PS,
+6,"","","",9872PS,
+3,"","","",9872PS,
+2,"","","",9872PS,
+Sarabos,1,"","",9872PS,Stroobos
+Sarabos,2,"","",9872PS,Stroobos
+Sarabos,3,"","",9872PS,Stroobos
+Sarabos,4,"","",9872PS,Stroobos
+Sarabos,6,"","",9872PS,Stroobos
+Sarabos,7,"","",9872PS,Stroobos
+Sarabos,8,"","",9872PS,Stroobos
+Sarabos,9,"","",9872PS,Stroobos
+2,"","","",9873TA,
+6,"","","",9873TA,
+1,"","","",9873TA,
+4,"","","",9873TA,
+Izermieden,1,"","",9873TA,Gerkesklooster
+Izermieden,2,"","",9873TA,Gerkesklooster
+Izermieden,4,"","",9873TA,Gerkesklooster
+Izermieden,6,"","",9873TA,Gerkesklooster
+3,"","","",9873TB,
+7,"","","",9873TB,
+9,"","","",9873TB,
+5,"","","",9873TB,
+Dokkumertrekwei,3,"","",9873TB,Gerkesklooster
+Dokkumertrekwei,5,"","",9873TB,Gerkesklooster
+Dokkumertrekwei,7,"","",9873TB,Gerkesklooster
+Dokkumertrekwei,9,"","",9873TB,Gerkesklooster
+1,"","","",9873TC,
+2,"","","",9873TC,
+Monnikeweg,1,"","",9873TC,Gerkesklooster
+Monnikeweg,2,"","",9873TC,Gerkesklooster
+5,"","","",9873TD,
+3,"","","",9873TD,
+2,"","","",9873TD,
+Dykhuzen,2,"","",9873TD,Gerkesklooster
+Dykhuzen,3,"","",9873TD,Gerkesklooster
+Dykhuzen,3,A,"",9873TD,Gerkesklooster
+Dykhuzen,5,"","",9873TD,Gerkesklooster
+3,A,"","",9873TD,
+4,"","","",9873TE,
+Spriensma's Reed,4,"","",9873TE,Gerkesklooster
+8,"","","",9873TG,
+4,"","","",9873TG,
+3,"","","",9873TG,
+12,"","","",9873TG,
+10,"","","",9873TG,
+2,"","","",9873TG,
+1,"","","",9873TG,
+5,"","","",9873TG,
+Oosterboeren,1,"","",9873TG,Gerkesklooster
+Oosterboeren,10,"","",9873TG,Gerkesklooster
+Oosterboeren,12,"","",9873TG,Gerkesklooster
+Oosterboeren,2,"","",9873TG,Gerkesklooster
+Oosterboeren,3,"","",9873TG,Gerkesklooster
+Oosterboeren,4,"","",9873TG,Gerkesklooster
+Oosterboeren,5,"","",9873TG,Gerkesklooster
+Oosterboeren,8,"","",9873TG,Gerkesklooster
+13,"","","",9873TH,
+25,"","","",9873TH,
+21,"","","",9873TH,
+19,"","","",9873TH,
+2,"","","",9873TH,
+2,"","","",9873TH,
+11,"","","",9873TH,
+15,"","","",9873TH,
+17,"","","",9873TH,
+Sarabos,11,"","",9873TH,Gerkesklooster
+Sarabos,13,"","",9873TH,Gerkesklooster
+Sarabos,15,"","",9873TH,Gerkesklooster
+Sarabos,17,"","",9873TH,Gerkesklooster
+Sarabos,19,"","",9873TH,Gerkesklooster
+Sarabos,19,A,"",9873TH,Gerkesklooster
+Sarabos,2,"","",9873TH,Gerkesklooster
+Sarabos,21,"","",9873TH,Gerkesklooster
+Sarabos,21,A,"",9873TH,Gerkesklooster
+Sarabos,25,"","",9873TH,Gerkesklooster
+Sarabos,25,A,"",9873TH,Gerkesklooster
+Sarabos,9,A,"",9873TH,Gerkesklooster
+Sarabos,9,B,"",9873TH,Gerkesklooster
+21,A,"","",9873TH,
+9,A,"","",9873TH,
+25,A,"","",9873TH,
+19,A,"","",9873TH,
+9,B,"","",9873TH,
+10,"","","",9873TJ,
+12,"","","",9873TJ,
+6,"","","",9873TJ,
+4,"","","",9873TJ,
+8,"","","",9873TJ,
+Kolonelsdiep,10,"","",9873TJ,Gerkesklooster
+Kolonelsdiep,12,"","",9873TJ,Gerkesklooster
+Kolonelsdiep,4,"","",9873TJ,Gerkesklooster
+Kolonelsdiep,6,"","",9873TJ,Gerkesklooster
+Kolonelsdiep,8,"","",9873TJ,Gerkesklooster
+Kolonelsdiep,8,A,"",9873TJ,Gerkesklooster
+Kolonelsdiep,8,B,"",9873TJ,Gerkesklooster
+8,A,"","",9873TJ,
+8,B,"","",9873TJ,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

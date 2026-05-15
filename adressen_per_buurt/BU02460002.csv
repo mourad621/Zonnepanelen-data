@@ -1,65 +1,65 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8193KJ,Kerkweg,1,,
-8193KJ,Kerkweg,11,,
-8193KJ,Kerkweg,11,a,
-8193KJ,Kerkweg,13,,
-8193KJ,Kerkweg,15,,
-8193KJ,Kerkweg,17,,
-8193KJ,Kerkweg,19,,
-8193KJ,Kerkweg,19,a,
-8193KJ,Kerkweg,19,b,
-8193KJ,Kerkweg,21,,
-8193KJ,Kerkweg,21,a,
-8193KJ,Kerkweg,23,,
-8193KJ,Kerkweg,25,,
-8193KJ,Kerkweg,3,,
-8193KJ,Kerkweg,5,,
-8193KJ,Kerkweg,7,,
-8193KJ,Kerkweg,9,,
-8193KJ,Kerkweg,19,a,
-8193KJ,Kerkweg,11,,
-8193KK,Kerkweg,10,,
-8193KK,Kerkweg,10,a,
-8193KK,Kerkweg,12,,
-8193KK,Kerkweg,14,,
-8193KK,Kerkweg,16,,
-8193KK,Kerkweg,18,,
-8193KK,Kerkweg,18,a,
-8193KK,Kerkweg,18,b,
-8193KK,Kerkweg,2,,
-8193KK,Kerkweg,2,a,
-8193KK,Kerkweg,2,b,
-8193KK,Kerkweg,20,,
-8193KK,Kerkweg,20,a,
-8193KK,Kerkweg,22,,
-8193KK,Kerkweg,24,,
-8193KK,Kerkweg,28,,
-8193KK,Kerkweg,4,,
-8193KK,Kerkweg,6,,
-8193KK,Kerkweg,8,,
-8193KK,Kerkweg,8,a,
-8193KK,Kerkweg,8,b,
-8193KK,Kerkweg,8,b,
-8193KK,Kerkweg,8,c,
-8193KK,Kerkweg,8,d,
-8193KP,Meester Van Voorstweg,10,,
-8193KP,Meester van Voorstweg,10,,
-8193KP,Meester Van Voorstweg,12,,
-8193KP,Meester van Voorstweg,12,,
-8193KP,Meester Van Voorstweg,2,,
-8193KP,Meester van Voorstweg,2,,
-8193KP,Meester Van Voorstweg,4,,
-8193KP,Meester van Voorstweg,4,,
-8193KP,Meester Van Voorstweg,6,,
-8193KP,Meester van Voorstweg,6,,
-8193KP,Meester Van Voorstweg,8,,
-8193KP,Meester van Voorstweg,8,,
-8193KH,Papelandseweg,1,,
-8193KH,Papelandseweg,11,,
-8193KH,Papelandseweg,2,,
-8193KH,Papelandseweg,3,,
-8193KH,Papelandseweg,4,,
-8193KH,Papelandseweg,5,,
-8193KH,Papelandseweg,6,,
-8193KH,Papelandseweg,7,,
-8193KH,Papelandseweg,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Papelandseweg,1,"","",8193KH,Vorchten
+Papelandseweg,11,"","",8193KH,Vorchten
+Papelandseweg,2,"","",8193KH,Vorchten
+Papelandseweg,2,"","",8193KH,Vorchten
+Papelandseweg,3,"","",8193KH,Vorchten
+Papelandseweg,4,"","",8193KH,Vorchten
+Papelandseweg,5,"","",8193KH,Vorchten
+Papelandseweg,6,"","",8193KH,Vorchten
+Papelandseweg,7,"","",8193KH,Vorchten
+Kerkweg,1,"","",8193KJ,Vorchten
+Kerkweg,11,"","",8193KJ,Vorchten
+Kerkweg,11,"","",8193KJ,Vorchten
+Kerkweg,11,A,"",8193KJ,Vorchten
+Kerkweg,13,"","",8193KJ,Vorchten
+Kerkweg,15,"","",8193KJ,Vorchten
+Kerkweg,17,"","",8193KJ,Vorchten
+Kerkweg,19,"","",8193KJ,Vorchten
+Kerkweg,19,A,"",8193KJ,Vorchten
+Kerkweg,19,A,"",8193KJ,Vorchten
+Kerkweg,19,B,"",8193KJ,Vorchten
+Kerkweg,21,"","",8193KJ,Vorchten
+Kerkweg,21,A,"",8193KJ,Vorchten
+Kerkweg,23,"","",8193KJ,Vorchten
+Kerkweg,25,"","",8193KJ,Vorchten
+Kerkweg,3,"","",8193KJ,Vorchten
+Kerkweg,5,"","",8193KJ,Vorchten
+Kerkweg,7,"","",8193KJ,Vorchten
+Kerkweg,9,"","",8193KJ,Vorchten
+Kerkweg,10,"","",8193KK,Vorchten
+Kerkweg,10,A,"",8193KK,Vorchten
+Kerkweg,12,"","",8193KK,Vorchten
+Kerkweg,14,"","",8193KK,Vorchten
+Kerkweg,16,"","",8193KK,Vorchten
+Kerkweg,18,"","",8193KK,Vorchten
+Kerkweg,18,A,"",8193KK,Vorchten
+Kerkweg,18,B,"",8193KK,Vorchten
+Kerkweg,2,"","",8193KK,Vorchten
+Kerkweg,2,A,"",8193KK,Vorchten
+Kerkweg,2,B,"",8193KK,Vorchten
+Kerkweg,20,"","",8193KK,Vorchten
+Kerkweg,20,A,"",8193KK,Vorchten
+Kerkweg,22,"","",8193KK,Vorchten
+Kerkweg,24,"","",8193KK,Vorchten
+Kerkweg,28,"","",8193KK,Vorchten
+Kerkweg,4,"","",8193KK,Vorchten
+Kerkweg,6,"","",8193KK,Vorchten
+Kerkweg,8,"","",8193KK,Vorchten
+Kerkweg,8,A,"",8193KK,Vorchten
+Kerkweg,8,B,"",8193KK,Vorchten
+Kerkweg,8,B,"",8193KK,Vorchten
+Kerkweg,8,C,"",8193KK,Vorchten
+Kerkweg,8,D,"",8193KK,Vorchten
+Meester Van Voorstweg,10,"","",8193KP,Vorchten
+Meester Van Voorstweg,10,"","",8193KP,Vorchten
+Meester Van Voorstweg,12,"","",8193KP,Vorchten
+Meester Van Voorstweg,12,"","",8193KP,Vorchten
+Meester Van Voorstweg,2,"","",8193KP,Vorchten
+Meester Van Voorstweg,2,"","",8193KP,Vorchten
+Meester Van Voorstweg,4,"","",8193KP,Vorchten
+Meester Van Voorstweg,4,"","",8193KP,Vorchten
+Meester Van Voorstweg,6,"","",8193KP,Vorchten
+Meester Van Voorstweg,6,"","",8193KP,Vorchten
+Meester Van Voorstweg,8,"","",8193KP,Vorchten
+Meester Van Voorstweg,8,"","",8193KP,Vorchten

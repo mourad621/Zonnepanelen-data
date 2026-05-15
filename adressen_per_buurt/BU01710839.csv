@@ -1,530 +1,271 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8309PA",22,"A",""
-"8309PA",24,"",""
-"8309PA",22,"C",""
-"8309PA",28,"","TR"
-"8309PA",28,"",""
-"8309PA",26,"",""
-"8309PA",22,"",""
-"8309PA",22,"B",""
-"8309PA",22,"","TR"
-"8309PB",32,"",""
-"8309PB",32,"B",""
-"8309PB",38,"","TR"
-"8309PB",32,"A",""
-"8309PB",32,"C",""
-"8309PB",38,"",""
-"8309PB",32,"","TR"
-"8309PB",32,"",""
-"8309PB",32,"",""
-"8309PB",34,"",""
-"8309PC",46,"",""
-"8309PC",54,"","TR"
-"8309PC",48,"","TR"
-"8309PC",56,"","TR"
-"8309PC",54,"","1"
-"8309PC",44,"",""
-"8309PC",44,"B","TR"
-"8309PC",44,"","TR"
-"8309PC",44,"B",""
-"8309PC",56,"",""
-"8309PC",52,"",""
-"8309PC",58,"",""
-"8309PC",44,"B","TR"
-"8309PC",54,"",""
-"8309PC",48,"",""
-"8309PD",60,"A",""
-"8309PD",27,"",""
-"8309PD",60,"D",""
-"8309PD",33,"",""
-"8309PD",60,"C",""
-"8309PD",60,"F",""
-"8309PD",29,"",""
-"8309PD",60,"E",""
-"8309PD",60,"B",""
-"8309PD",60,"",""
-"8309PE",5,"A",""
-"8309PE",5,"D",""
-"8309PE",4,"",""
-"8309PE",5,"",""
-"8309PE",5,"C",""
-"8309PE",5,"B",""
-"8309PE",1,"",""
-"8309PE",1,"","TR"
-"8309PE",3,"",""
-"8309PE",6,"",""
-"8309PE",1,"",""
-"8309PE",6,"A",""
-"8309PE",1,"",""
-"8309PG",27,"",""
-"8309PG",19,"","TR"
-"8309PG",25,"",""
-"8309PG",24,"","TR"
-"8309PG",33,"",""
-"8309PG",21,"",""
-"8309PG",31,"","TR"
-"8309PG",25,"","TR"
-"8309PG",19,"",""
-"8309PG",29,"","TR"
-"8309PG",35,"",""
-"8309PH",20,"",""
-"8309PH",38,"",""
-"8309PH",36,"",""
-"8309PH",22,"",""
-"8309PH",38,"","TR"
-"8309PH",24,"A",""
-"8309PH",36,"","TR"
-"8309PH",30,"",""
-"8309PH",28,"A",""
-"8309PH",28,"A",""
-"8309PH",26,"B",""
-"8309PH",34,"B",""
-"8309PH",34,"A",""
-"8309PH",30,"",""
-"8309PH",30,"",""
-"8309PH",24,"B",""
-"8309PH",28,"A",""
-"8309PH",26,"A",""
-"8309PJ",8,"",""
-"8309PJ",8,"","TR"
-"8309PJ",1,"A",""
-"8309PJ",4,"",""
-"8309PJ",3,"",""
-"8309PJ",5,"",""
-"8309PJ",6,"",""
-"8309PJ",5,"",""
-"8309PJ",5,"",""
-"8309PK",27,"",""
-"8309PK",29,"",""
-"8309PK",31,"",""
-"8309PK",23,"","TR"
-"8309PK",23,"",""
-"8309PK",19,"","TR"
-"8309PK",15,"",""
-"8309PK",23,"",""
-"8309PK",27,"","TR"
-"8309PK",27,"","TR"
-"8309PK",21,"",""
-"8309PK",23,"",""
-"8309PK",19,"",""
-"8309PL",20,"A",""
-"8309PM",4,"",""
-"8309PM",1,"",""
-"8309PM",2,"",""
-"8309PP",36,"",""
-"8309PP",36,"",""
-"8309PP",34,"A","TR"
-"8309PP",34,"","1"
-"8309PP",22,"","TR"
-"8309PP",30,"",""
-"8309PP",32,"",""
-"8309PP",22,"",""
-"8309PP",36,"",""
-"8309PP",34,"","2"
-"8309PP",44,"",""
-"8309PP",36,"","1"
-"8309PP",26,"",""
-"8309PP",34,"",""
-"8309PR",46,"",""
-"8309PR",48,"",""
-"8309PS",8,"C",""
-"8309PS",10,"",""
-"8309PS",8,"B",""
-"8309PS",8,"",""
-"8309PS",8,"A",""
-"8309PS",6,"","TR"
-"8309PS",2,"",""
-"8309PS",6,"",""
-"8309PS",4,"",""
-"8309PT",1,"",""
-"8309PT",3,"","TR"
-"8309PT",3,"",""
-"8309PV",6,"A",""
-"8309PV",4,"",""
-"8309PV",2,"","TR"
-"8309PV",6,"",""
-"8309PV",2,"",""
-"8309PV",6,"C",""
-"8309PV",4,"","TR"
-"8309PV",6,"","TR"
-"8309PV",6,"B",""
-"8309PW",14,"C",""
-"8309PW",14,"","TR"
-"8309PW",14,"B",""
-"8309PW",14,"A",""
-"8309PW",8,"",""
-"8309PW",14,"D",""
-"8309PW",14,"",""
-"8309PW",16,"",""
-"8309PW",12,"",""
-"8309PW",10,"",""
-"8309PW",12,"A",""
-"8309PW",12,"A",""
-"8309PW",10,"","TR"
-"8309PX",3,"","TR"
-"8309PX",13,"","TR"
-"8309PX",5,"",""
-"8309PX",7,"",""
-"8309PX",5,"B",""
-"8309PX",5,"C",""
-"8309PX",7,"","TR"
-"8309PX",3,"",""
-"8309PX",13,"",""
-"8309PX",5,"A",""
-"8309PZ",15,"",""
-"8309PZ",15,"B",""
-"8309PZ",17,"",""
-"8309PZ",17,"","TR"
-"8309PZ",15,"C",""
-"8309PZ",15,"A",""
-"8309PZ",15,"","TR"
-"8309PZ",15,"D",""
-"8309RA",13,"",""
-"8309RA",7,"",""
-"8309RA",1,"",""
-"8309RA",15,"",""
-"8309RA",3,"",""
-"8309RA",9,"",""
-"8309RA",5,"",""
-"8309RA",11,"",""
-"8309RB",4,"A",""
-"8309RB",4,"B",""
-"8309RB",2,"",""
-"8309RB",2,"","TR"
-"8309RB",2,"A",""
-"8309RB",2,"D",""
-"8309RB",2,"B",""
-"8309RB",4,"",""
-"8309RB",2,"C",""
-"8309RB",6,"",""
-"8309RC",8,"","TR"
-"8309RC",10,"",""
-"8309RC",8,"C",""
-"8309RC",8,"A",""
-"8309RC",12,"B",""
-"8309RC",12,"C",""
-"8309RC",12,"",""
-"8309RC",12,"A",""
-"8309RC",8,"",""
-"8309RC",12,"","TR"
-"8309RC",12,"D",""
-"8309RC",8,"B",""
-"8309RD",16,"D",""
-"8309RD",16,"B",""
-"8309RD",14,"",""
-"8309RD",16,"C",""
-"8309RD",16,"","TR"
-"8309RD",16,"",""
-"8309RD",16,"A",""
-"8309RE",11,"","TR"
-"8309RE",17,"",""
-"8309RE",13,"",""
-"8309RE",11,"","TR2"
-"8309RE",19,"",""
-"8309RE",13,"","TR"
-"8309RE",15,"","TR"
-"8309RE",15,"",""
-"8309RE",11,"",""
-"8309RG",19,"","1"
-"8309RG",21,"","TR"
-"8309RG",13,"",""
-"8309RG",21,"","2"
-"8309RG",13,"",""
-"8309RG",21,"","1"
-"8309RG",15,"",""
-"8309RG",13,"","TR"
-"8309RG",17,"","TR"
-"8309RG",17,"","1"
-"8309RG",13,"",""
-"8309RG",17,"","2"
-"8309RG",19,"","2"
-"8309RG",13,"",""
-"8309RH",16,"",""
-"8309RH",18,"A",""
-"8309RH",14,"",""
-"8309RH",22,"",""
-"8309RH",20,"",""
-"8309RH",18,"",""
-"8309RH",16,"","TR"
-"8309RJ",19,"",""
-"8309RJ",21,"",""
-"8309RJ",25,"","TR"
-"8309RJ",11,"","TR"
-"8309RJ",13,"A",""
-"8309RJ",11,"",""
-"8309RJ",17,"",""
-"8309RJ",23,"",""
-"8309RJ",13,"A",""
-"8309RJ",13,"",""
-"8309RJ",13,"A",""
-"8309RJ",15,"",""
-"8309RK",18,"","2"
-"8309RK",22,"B","TR"
-"8309RK",22,"",""
-"8309RK",20,"","1"
-"8309RK",20,"","1"
-"8309RK",18,"","1"
-"8309RK",22,"B","TR"
-"8309RK",20,"","1"
-"8309RK",20,"","2"
-"8309RK",16,"",""
-"8309RK",12,"",""
-8309PA,Karel Doormanweg,22,,
-8309PA,Karel Doormanweg,22,A,
-8309PA,Karel Doormanweg,22,B,
-8309PA,Karel Doormanweg,22,C,
-8309PA,Karel Doormanweg,22,,TR
-8309PA,Karel Doormanweg,24,,
-8309PA,Karel Doormanweg,26,,
-8309PA,Karel Doormanweg,28,,TR
-8309PA,Karel Doormanweg,28,,
-8309PB,Karel Doormanweg,32,,
-8309PB,Karel Doormanweg,32,,
-8309PB,Karel Doormanweg,32,,
-8309PB,Karel Doormanweg,32,A,
-8309PB,Karel Doormanweg,32,B,
-8309PB,Karel Doormanweg,32,C,
-8309PB,Karel Doormanweg,34,,
-8309PB,Karel Doormanweg,38,,
-8309PB,Karel Doormanweg,32,,TR
-8309PB,Karel Doormanweg,38,,TR
-8309PC,Karel Doormanweg,44,,
-8309PC,Karel Doormanweg,46,,
-8309PC,Karel Doormanweg,48,,
-8309PC,Karel Doormanweg,52,,
-8309PC,Karel Doormanweg,56,,
-8309PC,Karel Doormanweg,58,,
-8309PC,Karel Doormanweg,44,,TR
-8309PC,Karel Doormanweg,44,B,TR
-8309PC,Karel Doormanweg,44,B,
-8309PC,Karel Doormanweg,48,,TR
-8309PC,Karel Doormanweg,54,,TR
-8309PC,Karel Doormanweg,54,,
-8309PC,Karel Doormanweg,56,,TR
-8309PD,Karel Doormanweg,27,,
-8309PD,Karel Doormanweg,29,,
-8309PD,Karel Doormanweg,33,,
-8309PD,Karel Doormanweg,60,,
-8309PD,Karel Doormanweg,60,A,
-8309PD,Karel Doormanweg,60,B,
-8309PD,Karel Doormanweg,60,C,
-8309PD,Karel Doormanweg,60,D,
-8309PD,Karel Doormanweg,60,E,
-8309PD,Karel Doormanweg,60,F,
-8309PK,Domineesweg,15,,
-8309PK,Domineesweg,19,,
-8309PK,Domineesweg,21,,
-8309PK,Domineesweg,23,,
-8309PK,Domineesweg,23,,
-8309PK,Domineesweg,23,,
-8309PK,Domineesweg,19,,TR
-8309PK,Domineesweg,23,,TR
-8309PK,Domineesweg,27,,TR
-8309PL,Domineesweg,20,A,
-8309RE,Espelerringweg,11,,
-8309RE,Espelerringweg,13,,
-8309RE,Espelerringweg,15,,
-8309RE,Espelerringweg,17,,
-8309RE,Espelerringweg,19,,
-8309RE,Espelerringweg,11,,TR
-8309RE,Espelerringweg,11,,TR2
-8309RE,Espelerringweg,13,,TR
-8309RE,Espelerringweg,15,,TR
-8309PJ,Han Stijkelweg,1,A,
-8309PJ,Han Stijkelweg,3,,
-8309PJ,Han Stijkelweg,4,,
-8309PJ,Han Stijkelweg,6,,
-8309PJ,Han Stijkelweg,5,,
-8309PJ,Han Stijkelweg,8,,TR
-8309PJ,Han Stijkelweg,8,,
-8309PE,Johannes Postweg,1,,
-8309PE,Johannes Postweg,4,,
-8309PE,Johannes Postweg,5,,
-8309PE,Johannes Postweg,5,A,
-8309PE,Johannes Postweg,5,B,
-8309PE,Johannes Postweg,5,C,
-8309PE,Johannes Postweg,5,D,
-8309PE,Johannes Postweg,6,,
-8309PE,Johannes Postweg,6,A,
-8309PE,Johannes Postweg,1,,TR
-8309PE,Johannes Postweg,3,,
-8309RG,Zuidermiddenweg,13,,
-8309RG,Zuidermiddenweg,15,,
-8309RG,Zuidermiddenweg,13,,TR
-8309RG,Zuidermiddenweg,17,,1
-8309RG,Zuidermiddenweg,17,,TR
-8309RG,Zuidermiddenweg,17,,2
-8309RG,Zuidermiddenweg,19,,1
-8309RG,Zuidermiddenweg,19,,2
-8309RG,Zuidermiddenweg,21,,1
-8309RG,Zuidermiddenweg,21,,TR
-8309RG,Zuidermiddenweg,21,,2
-8309RH,Zuidermiddenweg,14,,
-8309RH,Zuidermiddenweg,16,,
-8309RH,Zuidermiddenweg,18,,
-8309RH,Zuidermiddenweg,20,,
-8309RH,Zuidermiddenweg,22,,
-8309RH,Zuidermiddenweg,16,,TR
-8309PG,Zuidwesterringweg,19,,
-8309PG,Zuidwesterringweg,21,,
-8309PG,Zuidwesterringweg,25,,
-8309PG,Zuidwesterringweg,35,,
-8309PG,Zuidwesterringweg,19,,TR
-8309PG,Zuidwesterringweg,25,,TR
-8309PG,Zuidwesterringweg,29,,TR
-8309PG,Zuidwesterringweg,27,,
-8309PH,Zuidwesterringweg,20,,
-8309PH,Zuidwesterringweg,22,,
-8309PH,Zuidwesterringweg,24,A,
-8309PH,Zuidwesterringweg,24,B,
-8309PH,Zuidwesterringweg,26,A,
-8309PH,Zuidwesterringweg,26,B,
-8309PH,Zuidwesterringweg,30,,
-8309PH,Zuidwesterringweg,34,A,
-8309PH,Zuidwesterringweg,34,B,
-8309PH,Zuidwesterringweg,36,,
-8309PH,Zuidwesterringweg,38,,
-8309PH,Zuidwesterringweg,28,A,
-8309PH,Zuidwesterringweg,36,,TR
-8309PH,Zuidwesterringweg,38,,TR
-8309PM,Schapenpad,1,,
-8309PM,Schapenpad,2,,
-8309PM,Schapenpad,4,,
-8309PT,Staartweg,1,,
-8309PT,Staartweg,3,,
-8309PT,Staartweg,3,,TR
-8309RA,Steenbankpad,1,,
-8309RA,Steenbankpad,3,,
-8309RA,Steenbankpad,5,,
-8309RA,Steenbankpad,7,,
-8309RA,Steenbankpad,9,,
-8309RA,Steenbankpad,11,,
-8309RA,Steenbankpad,15,,
-8309RA,Steenbankpad,13,,
-8309RB,Steenbankpad,2,,
-8309RB,Steenbankpad,2,A,
-8309RB,Steenbankpad,2,B,
-8309RB,Steenbankpad,2,C,
-8309RB,Steenbankpad,2,D,
-8309RB,Steenbankpad,4,,
-8309RB,Steenbankpad,4,A,
-8309RB,Steenbankpad,4,B,
-8309RB,Steenbankpad,6,,
-8309RB,Steenbankpad,2,,TR
-8309RC,Steenbankpad,8,,
-8309RC,Steenbankpad,8,A,
-8309RC,Steenbankpad,8,B,
-8309RC,Steenbankpad,8,C,
-8309RC,Steenbankpad,10,,
-8309RC,Steenbankpad,12,,
-8309RC,Steenbankpad,12,A,
-8309RC,Steenbankpad,12,B,
-8309RC,Steenbankpad,12,C,
-8309RC,Steenbankpad,12,D,
-8309RC,Steenbankpad,8,,TR
-8309RC,Steenbankpad,12,,TR
-8309RD,Steenbankpad,14,,
-8309RD,Steenbankpad,16,,
-8309RD,Steenbankpad,16,A,
-8309RD,Steenbankpad,16,B,
-8309RD,Steenbankpad,16,C,
-8309RD,Steenbankpad,16,D,
-8309RD,Steenbankpad,16,,TR
-8309RJ,Tollebekerweg,11,,
-8309RJ,Tollebekerweg,13,,
-8309RJ,Tollebekerweg,15,,
-8309RJ,Tollebekerweg,19,,
-8309RJ,Tollebekerweg,11,,TR
-8309RJ,Tollebekerweg,13,A,
-8309RJ,Tollebekerweg,17,,
-8309RJ,Tollebekerweg,25,,TR
-8309RK,Tollebekerweg,12,,
-8309RK,Tollebekerweg,22,,
-8309RK,Tollebekerweg,16,,
-8309RK,Tollebekerweg,20,,1
-8309RK,Tollebekerweg,20,,2
-8309RK,Tollebekerweg,18,,1
-8309RK,Tollebekerweg,18,,2
-8309RK,Tollebekerweg,22,B,TR
-8309PS,Urkerdwarspad,2,,
-8309PS,Urkerdwarspad,4,,
-8309PS,Urkerdwarspad,6,,
-8309PS,Urkerdwarspad,8,,
-8309PS,Urkerdwarspad,8,A,
-8309PS,Urkerdwarspad,8,B,
-8309PS,Urkerdwarspad,8,C,
-8309PS,Urkerdwarspad,10,,
-8309PS,Urkerdwarspad,6,,TR
-8309PP,Urkerweg,22,,
-8309PP,Urkerweg,26,,
-8309PP,Urkerweg,30,,
-8309PP,Urkerweg,32,,
-8309PP,Urkerweg,36,,
-8309PP,Urkerweg,44,,
-8309PP,Urkerweg,22,,TR
-8309PP,Urkerweg,34,A,TR
-8309PP,Urkerweg,34,,
-8309PR,Urkerweg,48,,
-8309PR,Urkerweg,46,,
-8309PV,Vormtweg,2,,
-8309PV,Vormtweg,4,,
-8309PV,Vormtweg,6,,
-8309PV,Vormtweg,6,A,
-8309PV,Vormtweg,6,B,
-8309PV,Vormtweg,6,C,
-8309PV,Vormtweg,2,,TR
-8309PV,Vormtweg,4,,TR
-8309PV,Vormtweg,6,,TR
-8309PW,Vormtweg,8,,
-8309PW,Vormtweg,10,,
-8309PW,Vormtweg,12,,
-8309PW,Vormtweg,14,,
-8309PW,Vormtweg,14,A,
-8309PW,Vormtweg,14,B,
-8309PW,Vormtweg,14,C,
-8309PW,Vormtweg,14,D,
-8309PW,Vormtweg,16,,
-8309PW,Vormtweg,10,,TR
-8309PW,Vormtweg,14,,TR
-8309PX,Westermeerweg,3,,
-8309PX,Westermeerweg,5,,
-8309PX,Westermeerweg,5,A,
-8309PX,Westermeerweg,5,B,
-8309PX,Westermeerweg,5,C,
-8309PX,Westermeerweg,7,,
-8309PX,Westermeerweg,13,,
-8309PX,Westermeerweg,3,,TR
-8309PX,Westermeerweg,7,,TR
-8309PX,Westermeerweg,13,,TR
-8309PZ,Westermeerweg,15,,
-8309PZ,Westermeerweg,15,A,
-8309PZ,Westermeerweg,15,B,
-8309PZ,Westermeerweg,15,C,
-8309PZ,Westermeerweg,15,D,
-8309PZ,Westermeerweg,17,,
-8309PZ,Westermeerweg,15,,TR
-8309PZ,Westermeerweg,17,,TR
-8309PK,Domineesweg,27,,
-8309PK,Domineesweg,29,,
-8309PK,Domineesweg,31,,
-8309PC,Karel Doormanweg,44,B,TR
-8309PC,Karel Doormanweg,54,,1
-8309PJ,Han Stijkelweg,5,,
-8309PE,Johannes Postweg,1,,
-8309PG,Kalenbergerweg,24,,TR
-8309RG,Zuidermiddenweg,13,,
-8309RG,Zuidermiddenweg,13,,
-8309RH,Zuidermiddenweg,18,A,
-8309PG,Zuidwesterringweg,31,,TR
-8309PG,Zuidwesterringweg,33,,
-8309PH,Zuidwesterringweg,30,,
-8309PH,Zuidwesterringweg,28,A,
-8309RJ,Tollebekerweg,13,A,
-8309RJ,Tollebekerweg,21,,
-8309RJ,Tollebekerweg,23,,
-8309RK,Tollebekerweg,20,,1
-8309PP,Urkerweg,36,,1
-8309PP,Urkerweg,34,,1
-8309PP,Urkerweg,36,,
-8309PP,Urkerweg,34,,2
-8309PW,Vormtweg,12,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Karel Doormanweg,22,"","",8309PA,Tollebeek
+Karel Doormanweg,22,"",TR,8309PA,Tollebeek
+Karel Doormanweg,22,A,"",8309PA,Tollebeek
+Karel Doormanweg,22,B,"",8309PA,Tollebeek
+Karel Doormanweg,22,C,"",8309PA,Tollebeek
+Karel Doormanweg,24,"","",8309PA,Tollebeek
+Karel Doormanweg,26,"","",8309PA,Tollebeek
+Karel Doormanweg,28,"","",8309PA,Tollebeek
+Karel Doormanweg,28,"",TR,8309PA,Tollebeek
+Karel Doormanweg,32,"","",8309PB,Tollebeek
+Karel Doormanweg,32,"","",8309PB,Tollebeek
+Karel Doormanweg,32,"","",8309PB,Tollebeek
+Karel Doormanweg,32,"",TR,8309PB,Tollebeek
+Karel Doormanweg,32,A,"",8309PB,Tollebeek
+Karel Doormanweg,32,B,"",8309PB,Tollebeek
+Karel Doormanweg,32,C,"",8309PB,Tollebeek
+Karel Doormanweg,34,"","",8309PB,Tollebeek
+Karel Doormanweg,38,"","",8309PB,Tollebeek
+Karel Doormanweg,38,"",TR,8309PB,Tollebeek
+Karel Doormanweg,44,"","",8309PC,Tollebeek
+Karel Doormanweg,44,"",TR,8309PC,Tollebeek
+Karel Doormanweg,44,B,"",8309PC,Tollebeek
+Karel Doormanweg,44,B,TR,8309PC,Tollebeek
+Karel Doormanweg,44,B,TR,8309PC,Tollebeek
+Karel Doormanweg,46,"","",8309PC,Tollebeek
+Karel Doormanweg,48,"","",8309PC,Tollebeek
+Karel Doormanweg,48,"",TR,8309PC,Tollebeek
+Karel Doormanweg,52,"","",8309PC,Tollebeek
+Karel Doormanweg,54,"","",8309PC,Tollebeek
+Karel Doormanweg,54,"",1,8309PC,Tollebeek
+Karel Doormanweg,54,"",TR,8309PC,Tollebeek
+Karel Doormanweg,56,"","",8309PC,Tollebeek
+Karel Doormanweg,56,"",TR,8309PC,Tollebeek
+Karel Doormanweg,58,"","",8309PC,Tollebeek
+Karel Doormanweg,27,"","",8309PD,Tollebeek
+Karel Doormanweg,29,"","",8309PD,Tollebeek
+Karel Doormanweg,33,"","",8309PD,Tollebeek
+Karel Doormanweg,60,"","",8309PD,Tollebeek
+Karel Doormanweg,60,A,"",8309PD,Tollebeek
+Karel Doormanweg,60,B,"",8309PD,Tollebeek
+Karel Doormanweg,60,C,"",8309PD,Tollebeek
+Karel Doormanweg,60,D,"",8309PD,Tollebeek
+Karel Doormanweg,60,E,"",8309PD,Tollebeek
+Karel Doormanweg,60,F,"",8309PD,Tollebeek
+Johannes Postweg,1,"","",8309PE,Tollebeek
+Johannes Postweg,1,"","",8309PE,Tollebeek
+Johannes Postweg,1,"","",8309PE,Tollebeek
+Johannes Postweg,1,"",TR,8309PE,Tollebeek
+Johannes Postweg,3,"","",8309PE,Tollebeek
+Johannes Postweg,4,"","",8309PE,Tollebeek
+Johannes Postweg,5,"","",8309PE,Tollebeek
+Johannes Postweg,5,A,"",8309PE,Tollebeek
+Johannes Postweg,5,B,"",8309PE,Tollebeek
+Johannes Postweg,5,C,"",8309PE,Tollebeek
+Johannes Postweg,5,D,"",8309PE,Tollebeek
+Johannes Postweg,6,"","",8309PE,Tollebeek
+Johannes Postweg,6,A,"",8309PE,Tollebeek
+Zuidwesterringweg,19,"","",8309PG,Tollebeek
+Zuidwesterringweg,19,"",TR,8309PG,Tollebeek
+Zuidwesterringweg,21,"","",8309PG,Tollebeek
+Kalenbergerweg,24,"",TR,8309PG,Luttelgeest
+Zuidwesterringweg,25,"","",8309PG,Tollebeek
+Zuidwesterringweg,25,"",TR,8309PG,Tollebeek
+Zuidwesterringweg,27,"","",8309PG,Tollebeek
+Zuidwesterringweg,29,"",TR,8309PG,Tollebeek
+Zuidwesterringweg,31,"",TR,8309PG,Tollebeek
+Zuidwesterringweg,33,"","",8309PG,Tollebeek
+Zuidwesterringweg,35,"","",8309PG,Tollebeek
+Zuidwesterringweg,20,"","",8309PH,Tollebeek
+Zuidwesterringweg,22,"","",8309PH,Tollebeek
+Zuidwesterringweg,24,A,"",8309PH,Tollebeek
+Zuidwesterringweg,24,B,"",8309PH,Tollebeek
+Zuidwesterringweg,26,A,"",8309PH,Tollebeek
+Zuidwesterringweg,26,B,"",8309PH,Tollebeek
+Zuidwesterringweg,28,A,"",8309PH,Tollebeek
+Zuidwesterringweg,28,A,"",8309PH,Tollebeek
+Zuidwesterringweg,28,A,"",8309PH,Tollebeek
+Zuidwesterringweg,30,"","",8309PH,Tollebeek
+Zuidwesterringweg,30,"","",8309PH,Tollebeek
+Zuidwesterringweg,30,"","",8309PH,Tollebeek
+Zuidwesterringweg,34,A,"",8309PH,Tollebeek
+Zuidwesterringweg,34,B,"",8309PH,Tollebeek
+Zuidwesterringweg,36,"","",8309PH,Tollebeek
+Zuidwesterringweg,36,"",TR,8309PH,Tollebeek
+Zuidwesterringweg,38,"","",8309PH,Tollebeek
+Zuidwesterringweg,38,"",TR,8309PH,Tollebeek
+Han Stijkelweg,1,A,"",8309PJ,Tollebeek
+Han Stijkelweg,3,"","",8309PJ,Tollebeek
+Han Stijkelweg,4,"","",8309PJ,Tollebeek
+Han Stijkelweg,5,"","",8309PJ,Tollebeek
+Han Stijkelweg,5,"","",8309PJ,Tollebeek
+Han Stijkelweg,5,"","",8309PJ,Tollebeek
+Han Stijkelweg,6,"","",8309PJ,Tollebeek
+Han Stijkelweg,8,"","",8309PJ,Tollebeek
+Han Stijkelweg,8,"",TR,8309PJ,Tollebeek
+Domineesweg,15,"","",8309PK,Tollebeek
+Domineesweg,19,"","",8309PK,Tollebeek
+Domineesweg,19,"",TR,8309PK,Tollebeek
+Domineesweg,21,"","",8309PK,Tollebeek
+Domineesweg,23,"","",8309PK,Tollebeek
+Domineesweg,23,"","",8309PK,Tollebeek
+Domineesweg,23,"","",8309PK,Tollebeek
+Domineesweg,23,"",TR,8309PK,Tollebeek
+Domineesweg,27,"","",8309PK,Urk
+Domineesweg,27,"",TR,8309PK,Tollebeek
+Domineesweg,27,"",TR,8309PK,Tollebeek
+Domineesweg,29,"","",8309PK,Urk
+Domineesweg,31,"","",8309PK,Urk
+Domineesweg,20,A,"",8309PL,Tollebeek
+Schapenpad,1,"","",8309PM,Tollebeek
+Schapenpad,2,"","",8309PM,Tollebeek
+Schapenpad,4,"","",8309PM,Tollebeek
+Urkerweg,22,"","",8309PP,Tollebeek
+Urkerweg,22,"",TR,8309PP,Tollebeek
+Urkerweg,26,"","",8309PP,Tollebeek
+Urkerweg,30,"","",8309PP,Tollebeek
+Urkerweg,32,"","",8309PP,Tollebeek
+Urkerweg,34,"","",8309PP,Tollebeek
+Urkerweg,34,"",1,8309PP,Tollebeek
+Urkerweg,34,"",2,8309PP,Tollebeek
+Urkerweg,34,A,TR,8309PP,Tollebeek
+Urkerweg,36,"","",8309PP,Tollebeek
+Urkerweg,36,"","",8309PP,Tollebeek
+Urkerweg,36,"","",8309PP,Tollebeek
+Urkerweg,36,"",1,8309PP,Tollebeek
+Urkerweg,44,"","",8309PP,Tollebeek
+Urkerweg,46,"","",8309PR,Tollebeek
+Urkerweg,48,"","",8309PR,Tollebeek
+Urkerdwarspad,10,"","",8309PS,Tollebeek
+Urkerdwarspad,2,"","",8309PS,Tollebeek
+Urkerdwarspad,4,"","",8309PS,Tollebeek
+Urkerdwarspad,6,"","",8309PS,Tollebeek
+Urkerdwarspad,6,"",TR,8309PS,Tollebeek
+Urkerdwarspad,8,"","",8309PS,Tollebeek
+Urkerdwarspad,8,A,"",8309PS,Tollebeek
+Urkerdwarspad,8,B,"",8309PS,Tollebeek
+Urkerdwarspad,8,C,"",8309PS,Tollebeek
+Staartweg,1,"","",8309PT,Tollebeek
+Staartweg,3,"","",8309PT,Tollebeek
+Staartweg,3,"",TR,8309PT,Tollebeek
+Vormtweg,2,"","",8309PV,Tollebeek
+Vormtweg,2,"",TR,8309PV,Tollebeek
+Vormtweg,4,"","",8309PV,Tollebeek
+Vormtweg,4,"",TR,8309PV,Tollebeek
+Vormtweg,6,"","",8309PV,Tollebeek
+Vormtweg,6,"",TR,8309PV,Tollebeek
+Vormtweg,6,A,"",8309PV,Tollebeek
+Vormtweg,6,B,"",8309PV,Tollebeek
+Vormtweg,6,C,"",8309PV,Tollebeek
+Vormtweg,10,"","",8309PW,Tollebeek
+Vormtweg,10,"",TR,8309PW,Tollebeek
+Vormtweg,12,"","",8309PW,Tollebeek
+Vormtweg,12,A,"",8309PW,Tollebeek
+Vormtweg,12,A,"",8309PW,Tollebeek
+Vormtweg,14,"","",8309PW,Tollebeek
+Vormtweg,14,"",TR,8309PW,Tollebeek
+Vormtweg,14,A,"",8309PW,Tollebeek
+Vormtweg,14,B,"",8309PW,Tollebeek
+Vormtweg,14,C,"",8309PW,Tollebeek
+Vormtweg,14,D,"",8309PW,Tollebeek
+Vormtweg,16,"","",8309PW,Tollebeek
+Vormtweg,8,"","",8309PW,Tollebeek
+Westermeerweg,13,"","",8309PX,Tollebeek
+Westermeerweg,13,"",TR,8309PX,Tollebeek
+Westermeerweg,3,"","",8309PX,Tollebeek
+Westermeerweg,3,"",TR,8309PX,Tollebeek
+Westermeerweg,5,"","",8309PX,Tollebeek
+Westermeerweg,5,A,"",8309PX,Tollebeek
+Westermeerweg,5,B,"",8309PX,Tollebeek
+Westermeerweg,5,C,"",8309PX,Tollebeek
+Westermeerweg,7,"","",8309PX,Tollebeek
+Westermeerweg,7,"",TR,8309PX,Tollebeek
+Westermeerweg,15,"","",8309PZ,Tollebeek
+Westermeerweg,15,"",TR,8309PZ,Tollebeek
+Westermeerweg,15,A,"",8309PZ,Tollebeek
+Westermeerweg,15,B,"",8309PZ,Tollebeek
+Westermeerweg,15,C,"",8309PZ,Tollebeek
+Westermeerweg,15,D,"",8309PZ,Tollebeek
+Westermeerweg,17,"","",8309PZ,Tollebeek
+Westermeerweg,17,"",TR,8309PZ,Tollebeek
+Steenbankpad,1,"","",8309RA,Tollebeek
+Steenbankpad,11,"","",8309RA,Tollebeek
+Steenbankpad,13,"","",8309RA,Tollebeek
+Steenbankpad,15,"","",8309RA,Tollebeek
+Steenbankpad,3,"","",8309RA,Tollebeek
+Steenbankpad,5,"","",8309RA,Tollebeek
+Steenbankpad,7,"","",8309RA,Tollebeek
+Steenbankpad,9,"","",8309RA,Tollebeek
+Steenbankpad,2,"","",8309RB,Tollebeek
+Steenbankpad,2,"",TR,8309RB,Tollebeek
+Steenbankpad,2,A,"",8309RB,Tollebeek
+Steenbankpad,2,B,"",8309RB,Tollebeek
+Steenbankpad,2,C,"",8309RB,Tollebeek
+Steenbankpad,2,D,"",8309RB,Tollebeek
+Steenbankpad,4,"","",8309RB,Tollebeek
+Steenbankpad,4,A,"",8309RB,Tollebeek
+Steenbankpad,4,B,"",8309RB,Tollebeek
+Steenbankpad,6,"","",8309RB,Tollebeek
+Steenbankpad,10,"","",8309RC,Tollebeek
+Steenbankpad,12,"","",8309RC,Tollebeek
+Steenbankpad,12,"",TR,8309RC,Tollebeek
+Steenbankpad,12,A,"",8309RC,Tollebeek
+Steenbankpad,12,B,"",8309RC,Tollebeek
+Steenbankpad,12,C,"",8309RC,Tollebeek
+Steenbankpad,12,D,"",8309RC,Tollebeek
+Steenbankpad,8,"","",8309RC,Tollebeek
+Steenbankpad,8,"",TR,8309RC,Tollebeek
+Steenbankpad,8,A,"",8309RC,Tollebeek
+Steenbankpad,8,B,"",8309RC,Tollebeek
+Steenbankpad,8,C,"",8309RC,Tollebeek
+Steenbankpad,14,"","",8309RD,Tollebeek
+Steenbankpad,16,"","",8309RD,Tollebeek
+Steenbankpad,16,"",TR,8309RD,Tollebeek
+Steenbankpad,16,A,"",8309RD,Tollebeek
+Steenbankpad,16,B,"",8309RD,Tollebeek
+Steenbankpad,16,C,"",8309RD,Tollebeek
+Steenbankpad,16,D,"",8309RD,Tollebeek
+Espelerringweg,11,"","",8309RE,Tollebeek
+Espelerringweg,11,"",TR,8309RE,Tollebeek
+Espelerringweg,11,"",TR2,8309RE,Tollebeek
+Espelerringweg,13,"","",8309RE,Tollebeek
+Espelerringweg,13,"",TR,8309RE,Tollebeek
+Espelerringweg,15,"","",8309RE,Tollebeek
+Espelerringweg,15,"",TR,8309RE,Tollebeek
+Espelerringweg,17,"","",8309RE,Tollebeek
+Espelerringweg,19,"","",8309RE,Tollebeek
+Zuidermiddenweg,13,"","",8309RG,Tollebeek
+Zuidermiddenweg,13,"","",8309RG,Tollebeek
+Zuidermiddenweg,13,"","",8309RG,Tollebeek
+Zuidermiddenweg,13,"","",8309RG,Tollebeek
+Zuidermiddenweg,13,"",TR,8309RG,Tollebeek
+Zuidermiddenweg,15,"","",8309RG,Tollebeek
+Zuidermiddenweg,17,"",1,8309RG,Tollebeek
+Zuidermiddenweg,17,"",2,8309RG,Tollebeek
+Zuidermiddenweg,17,"",TR,8309RG,Tollebeek
+Zuidermiddenweg,19,"",1,8309RG,Tollebeek
+Zuidermiddenweg,19,"",2,8309RG,Tollebeek
+Zuidermiddenweg,21,"",1,8309RG,Tollebeek
+Zuidermiddenweg,21,"",2,8309RG,Tollebeek
+Zuidermiddenweg,21,"",TR,8309RG,Tollebeek
+Zuidermiddenweg,14,"","",8309RH,Tollebeek
+Zuidermiddenweg,16,"","",8309RH,Tollebeek
+Zuidermiddenweg,16,"",TR,8309RH,Tollebeek
+Zuidermiddenweg,18,"","",8309RH,Tollebeek
+Zuidermiddenweg,18,A,"",8309RH,Tollebeek
+Zuidermiddenweg,20,"","",8309RH,Tollebeek
+Zuidermiddenweg,22,"","",8309RH,Tollebeek
+Tollebekerweg,11,"","",8309RJ,Tollebeek
+Tollebekerweg,11,"",TR,8309RJ,Tollebeek
+Tollebekerweg,13,"","",8309RJ,Tollebeek
+Tollebekerweg,13,A,"",8309RJ,Tollebeek
+Tollebekerweg,13,A,"",8309RJ,Tollebeek
+Tollebekerweg,13,A,"",8309RJ,Tollebeek
+Tollebekerweg,15,"","",8309RJ,Tollebeek
+Tollebekerweg,17,"","",8309RJ,Tollebeek
+Tollebekerweg,19,"","",8309RJ,Tollebeek
+Tollebekerweg,21,"","",8309RJ,Tollebeek
+Tollebekerweg,23,"","",8309RJ,Tollebeek
+Tollebekerweg,25,"",TR,8309RJ,Tollebeek
+Tollebekerweg,12,"","",8309RK,Tollebeek
+Tollebekerweg,16,"","",8309RK,Tollebeek
+Tollebekerweg,18,"",1,8309RK,Tollebeek
+Tollebekerweg,18,"",2,8309RK,Tollebeek
+Tollebekerweg,20,"",1,8309RK,Tollebeek
+Tollebekerweg,20,"",1,8309RK,Tollebeek
+Tollebekerweg,20,"",1,8309RK,Tollebeek
+Tollebekerweg,20,"",2,8309RK,Tollebeek
+Tollebekerweg,22,"","",8309RK,Tollebeek
+Tollebekerweg,22,B,TR,8309RK,Tollebeek
+Tollebekerweg,22,B,TR,8309RK,Tollebeek

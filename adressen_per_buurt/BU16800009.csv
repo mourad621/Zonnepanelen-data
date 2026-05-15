@@ -1,116 +1,116 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9468CN,Anlooërweg,1,,
-9468CN,Anlooërweg,2,,
-9468CN,Anlooërweg,4,,
-9468CN,Anlooërweg,6,,
-9468CN,Anlooërweg,8,,
-9468TC,Annermoeras,1,,
-9468TC,Annermoeras,6,,
-9468TC,Annermoeras,8,,
-9468TC,Annermoeras,10,,
-9468TD,De Bulten,2,,
-9468TD,De Bulten,2,a,
-9468TD,De Bulten,3,,
-9468TD,De Bulten,4,,
-9468TD,De Bulten,6,,
-9468TD,De Bulten,8,,
-9468TD,De Bulten,10,,
-9468TD,De Bulten,12,,
-9468TD,De Bulten,14,,
-9468TD,De Bulten,16,,
-9468CP,De Haven,1,,
-9468CP,De Haven,2,,
-9468CP,De Haven,3,,
-9468CP,De Haven,4,,
-9468CP,De Haven,5,,
-9468CP,De Haven,6,,
-9468CP,De Haven,7,,
-9468CP,De Haven,8,,
-9468CP,De Haven,9,,
-9468CP,De Haven,10,,
-9468CP,De Haven,11,,
-9468CP,De Haven,12,,
-9468CP,De Haven,14,,
-9468TE,De Hullen,1,,
-9468TE,De Hullen,1,a,
-9468TE,De Hullen,2,,
-9468TE,De Hullen,2,a,
-9468TE,De Hullen,3,,
-9468TE,De Hullen,4,,
-9468TE,De Hullen,6,,
-9468TE,De Hullen,8,,
-9468TE,De Hullen,8,a,
-9468TE,De Hullen,10,,
-9468TE,De Hullen,12,,
-9468TE,De Hullen,14,,
-9468TE,De Hullen,16,,
-9468TE,De Hullen,16,a,
-9468TE,De Hullen,18,,
-9468TG,Eexterweg,1,,
-9468TG,Eexterweg,3,,
-9468TG,Eexterweg,5,,
-9468TG,Eexterweg,7,,
-9468TG,Eexterweg,9,,
-9468TG,Eexterweg,11,,
-9468TG,Eexterweg,13,,
-9468TG,Eexterweg,15,,
-9468TH,Eexterweg,2,,
-9468TH,Eexterweg,2,a,
-9468TH,Eexterweg,2,b,
-9468TH,Eexterweg,4,,
-9468TH,Eexterweg,6,,
-9468TH,Eexterweg,8,,
-9468TH,Eexterweg,8,a,
-9468TH,Eexterweg,10,,
-9468TH,Eexterweg,12,,
-9468TH,Eexterweg,14,,
-9468TH,Eexterweg,16,,
-9468TH,Eexterweg,18,,
-9468TJ,Grootblok,2,,
-9468TJ,Grootblok,4,,
-9468CH,Havenstraat,1,,
-9468CH,Havenstraat,1,a,
-9468CH,Havenstraat,2,,
-9468CH,Havenstraat,3,,
-9468CH,Havenstraat,4,,
-9468CH,Havenstraat,5,,
-9468CH,Havenstraat,5,a,
-9468CH,Havenstraat,6,,
-9468CH,Havenstraat,7,,
-9468CH,Havenstraat,7,a,
-9468CH,Havenstraat,8,,
-9468CH,Havenstraat,9,,
-9468CH,Havenstraat,11,,
-9468CH,Havenstraat,12,,
-9468CH,Havenstraat,13,,
-9468CH,Havenstraat,14,,
-9468CH,Havenstraat,16,,
-9468AT,Nije Dijk,1,,
-9468AT,Nije Dijk,2,,
-9468AT,Nije Dijk,2,a,
-9468AT,Nije Dijk,3,,
-9468AT,Nije Dijk,4,,
-9468TB,Spijkerboorsdijk,7,,
-9468TB,Spijkerboorsdijk,7,a,
-9468TB,Spijkerboorsdijk,8,,
-9468TB,Spijkerboorsdijk,9,,
-9468TB,Spijkerboorsdijk,10,,
-9468TB,Spijkerboorsdijk,11,,
-9468TB,Spijkerboorsdijk,12,,
-9468TB,Spijkerboorsdijk,14,,
-9468CN,Anlooërweg,1,E,
-9468TC,Annermoeras,1,E,
-9468TC,Annermoeras,6,,a
-9468TC,Annermoeras,6,a,
-9468TD,De Bulten,12,E,
-9468TE,De Hullen,1,b,
-9468TE,De Hullen,1,c,
-9468TE,De Hullen,1,d,
-9468TE,De Hullen,1,e,
-9468TE,De Hullen,1,f,
-9468TH,Eexterweg,12,E,
-9468TH,Eexterweg,14,,
-9468TH,Eexterweg,12,a,
-9468CH,Havenstraat,14,E,
-9468AT,Nije Dijk,2,b,
-9468AT,Nije Dijk,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nije Dijk,1,"","",9468AT,Annen
+Nije Dijk,2,"","",9468AT,Annen
+Nije Dijk,2,A,"",9468AT,Annen
+Nije Dijk,2,B,"",9468AT,Annen
+Nije Dijk,3,"","",9468AT,Annen
+Nije Dijk,3,"","",9468AT,Annen
+Nije Dijk,4,"","",9468AT,Annen
+Havenstraat,1,"","",9468CH,Annen
+Havenstraat,1,A,"",9468CH,Annen
+Havenstraat,11,"","",9468CH,Annen
+Havenstraat,12,"","",9468CH,Annen
+Havenstraat,13,"","",9468CH,Annen
+Havenstraat,14,"","",9468CH,Annen
+Havenstraat,14,E,"",9468CH,Annen
+Havenstraat,16,"","",9468CH,Annen
+Havenstraat,2,"","",9468CH,Annen
+Havenstraat,3,"","",9468CH,Annen
+Havenstraat,4,"","",9468CH,Annen
+Havenstraat,5,"","",9468CH,Annen
+Havenstraat,5,A,"",9468CH,Annen
+Havenstraat,6,"","",9468CH,Annen
+Havenstraat,7,"","",9468CH,Annen
+Havenstraat,7,A,"",9468CH,Annen
+Havenstraat,8,"","",9468CH,Annen
+Havenstraat,9,"","",9468CH,Annen
+Anlooërweg,1,"","",9468CN,Annen
+Anlooërweg,1,E,"",9468CN,Annen
+Anlooërweg,2,"","",9468CN,Annen
+Anlooërweg,4,"","",9468CN,Annen
+Anlooërweg,6,"","",9468CN,Annen
+Anlooërweg,8,"","",9468CN,Annen
+De Haven,1,"","",9468CP,Annen
+De Haven,10,"","",9468CP,Annen
+De Haven,11,"","",9468CP,Annen
+De Haven,12,"","",9468CP,Annen
+De Haven,14,"","",9468CP,Annen
+De Haven,2,"","",9468CP,Annen
+De Haven,3,"","",9468CP,Annen
+De Haven,4,"","",9468CP,Annen
+De Haven,5,"","",9468CP,Annen
+De Haven,6,"","",9468CP,Annen
+De Haven,7,"","",9468CP,Annen
+De Haven,8,"","",9468CP,Annen
+De Haven,9,"","",9468CP,Annen
+Spijkerboorsdijk,10,"","",9468TB,Annen
+Spijkerboorsdijk,11,"","",9468TB,Annen
+Spijkerboorsdijk,12,"","",9468TB,Annen
+Spijkerboorsdijk,14,"","",9468TB,Annen
+Spijkerboorsdijk,7,"","",9468TB,Annen
+Spijkerboorsdijk,7,A,"",9468TB,Annen
+Spijkerboorsdijk,8,"","",9468TB,Annen
+Spijkerboorsdijk,9,"","",9468TB,Annen
+Annermoeras,1,"","",9468TC,Annen
+Annermoeras,1,E,"",9468TC,Annen
+Annermoeras,10,"","",9468TC,Annen
+Annermoeras,6,"","",9468TC,Annen
+Annermoeras,6,"",A,9468TC,Annen
+Annermoeras,6,A,"",9468TC,Annen
+Annermoeras,8,"","",9468TC,Annen
+De Bulten,10,"","",9468TD,Annen
+De Bulten,12,"","",9468TD,Annen
+De Bulten,12,E,"",9468TD,Annen
+De Bulten,14,"","",9468TD,Annen
+De Bulten,16,"","",9468TD,Annen
+De Bulten,2,"","",9468TD,Annen
+De Bulten,2,A,"",9468TD,Annen
+De Bulten,3,"","",9468TD,Annen
+De Bulten,4,"","",9468TD,Annen
+De Bulten,6,"","",9468TD,Annen
+De Bulten,8,"","",9468TD,Annen
+De Hullen,1,"","",9468TE,Annen
+De Hullen,1,A,"",9468TE,Annen
+De Hullen,1,B,"",9468TE,Annen
+De Hullen,1,C,"",9468TE,Annen
+De Hullen,1,D,"",9468TE,Annen
+De Hullen,1,E,"",9468TE,Annen
+De Hullen,1,F,"",9468TE,Annen
+De Hullen,10,"","",9468TE,Annen
+De Hullen,12,"","",9468TE,Annen
+De Hullen,14,"","",9468TE,Annen
+De Hullen,16,"","",9468TE,Annen
+De Hullen,16,A,"",9468TE,Annen
+De Hullen,18,"","",9468TE,Annen
+De Hullen,2,"","",9468TE,Annen
+De Hullen,2,A,"",9468TE,Annen
+De Hullen,3,"","",9468TE,Annen
+De Hullen,4,"","",9468TE,Annen
+De Hullen,6,"","",9468TE,Annen
+De Hullen,8,"","",9468TE,Annen
+De Hullen,8,A,"",9468TE,Annen
+Eexterweg,1,"","",9468TG,Annen
+Eexterweg,11,"","",9468TG,Annen
+Eexterweg,13,"","",9468TG,Annen
+Eexterweg,15,"","",9468TG,Annen
+Eexterweg,3,"","",9468TG,Annen
+Eexterweg,5,"","",9468TG,Annen
+Eexterweg,7,"","",9468TG,Annen
+Eexterweg,9,"","",9468TG,Annen
+Eexterweg,10,"","",9468TH,Annen
+Eexterweg,12,"","",9468TH,Annen
+Eexterweg,12,A,"",9468TH,Annen
+Eexterweg,12,E,"",9468TH,Annen
+Eexterweg,14,"","",9468TH,Annen
+Eexterweg,14,"","",9468TH,Annen
+Eexterweg,16,"","",9468TH,Annen
+Eexterweg,18,"","",9468TH,Annen
+Eexterweg,2,"","",9468TH,Annen
+Eexterweg,2,A,"",9468TH,Annen
+Eexterweg,2,B,"",9468TH,Annen
+Eexterweg,4,"","",9468TH,Annen
+Eexterweg,6,"","",9468TH,Annen
+Eexterweg,8,"","",9468TH,Annen
+Eexterweg,8,A,"",9468TH,Annen
+Grootblok,2,"","",9468TJ,Annen
+Grootblok,4,"","",9468TJ,Annen

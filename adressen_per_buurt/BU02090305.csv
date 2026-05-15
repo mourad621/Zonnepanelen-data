@@ -1,48 +1,48 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6551ZA,Scharsestraat,1,,
-6551ZA,Scharsestraat,3,,
-6551ZA,Scharsestraat,9,,
-6551ZA,Scharsestraat,11,R,
-6551ZA,Scharsestraat,13,,
-6551ZA,Scharsestraat,15,,
-6551ZA,Scharsestraat,17,,
-6551ZA,Scharsestraat,19,,
-6551ZA,Scharsestraat,25,,
-6551ZB,Scharsestraat,2,,
-6551ZB,Scharsestraat,2,T,
-6551ZB,Scharsestraat,4,,
-6551ZB,Scharsestraat,6,,
-6551DM,van Heemstraweg,6,,
-6551DM,van Heemstraweg,8,,
-6551DM,van Heemstraweg,10,,
-6551DM,van Heemstraweg,12,,
-6551DM,van Heemstraweg,14,,
-6551DM,van Heemstraweg,14,a,
-6551DM,van Heemstraweg,14,a,
-6551DM,van Heemstraweg,16,,
-6551ZE,Bonenkampstraat,2,,
-6551ZE,Bonenkampstraat,4,,
-6551ZE,Bonenkampstraat,6,,
-6551ZE,Bonenkampstraat,8,,
-6551ZE,Bonenkampstraat,10,,
-6551ZE,Bonenkampstraat,14,,
-6551ZE,Bonenkampstraat,16,,
-6551ZE,Bonenkampstraat,18,,
-6551ZE,Bonenkampstraat,20,,
-6551ZE,Bonenkampstraat,32,,
-6551ZE,Bonenkampstraat,34,,
-6551ZE,Bonenkampstraat,36,,
-6551ZC,Dijk,3,,
-6551ZC,Dijk,5,,
-6551ZC,Dijk,11,,
-6551ZC,Dijk,13,,
-6551ZC,Dijk,15,,
-6551ZA,Scharsestraat,13,a,
-6551ZB,Scharsestraat,2,a,
-6551ZB,Scharsestraat,4,a,
-6551ZB,Scharsestraat,4,b,
-6551ZB,Scharsestraat,4,a,
-6551DM,van Heemstraweg,6,a,
-6551DM,van Heemstraweg,6,b,
-6551DM,van Heemstraweg,6,c,
-6551DM,van Heemstraweg,14,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+van Heemstraweg,10,"","",6551DM,Weurt
+van Heemstraweg,12,"","",6551DM,Weurt
+van Heemstraweg,14,"","",6551DM,Weurt
+van Heemstraweg,14,A,"",6551DM,Weurt
+van Heemstraweg,14,A,"",6551DM,Weurt
+van Heemstraweg,14,B,"",6551DM,Weurt
+van Heemstraweg,16,"","",6551DM,Weurt
+van Heemstraweg,6,"","",6551DM,Weurt
+van Heemstraweg,6,A,"",6551DM,Weurt
+van Heemstraweg,6,B,"",6551DM,Weurt
+van Heemstraweg,6,C,"",6551DM,Weurt
+van Heemstraweg,8,"","",6551DM,Weurt
+Scharsestraat,1,"","",6551ZA,Weurt
+Scharsestraat,11,R,"",6551ZA,Weurt
+Scharsestraat,13,"","",6551ZA,Weurt
+Scharsestraat,13,A,"",6551ZA,Weurt
+Scharsestraat,15,"","",6551ZA,Weurt
+Scharsestraat,17,"","",6551ZA,Weurt
+Scharsestraat,19,"","",6551ZA,Weurt
+Scharsestraat,25,"","",6551ZA,Weurt
+Scharsestraat,3,"","",6551ZA,Weurt
+Scharsestraat,9,"","",6551ZA,Weurt
+Scharsestraat,2,"","",6551ZB,Weurt
+Scharsestraat,2,A,"",6551ZB,Weurt
+Scharsestraat,2,T,"",6551ZB,Weurt
+Scharsestraat,4,"","",6551ZB,Weurt
+Scharsestraat,4,A,"",6551ZB,Weurt
+Scharsestraat,4,A,"",6551ZB,Weurt
+Scharsestraat,4,B,"",6551ZB,Weurt
+Scharsestraat,6,"","",6551ZB,Weurt
+Dijk,11,"","",6551ZC,Weurt
+Dijk,13,"","",6551ZC,Weurt
+Dijk,15,"","",6551ZC,Weurt
+Dijk,3,"","",6551ZC,Weurt
+Dijk,5,"","",6551ZC,Weurt
+Bonenkampstraat,10,"","",6551ZE,Weurt
+Bonenkampstraat,14,"","",6551ZE,Weurt
+Bonenkampstraat,16,"","",6551ZE,Weurt
+Bonenkampstraat,18,"","",6551ZE,Weurt
+Bonenkampstraat,2,"","",6551ZE,Weurt
+Bonenkampstraat,20,"","",6551ZE,Weurt
+Bonenkampstraat,32,"","",6551ZE,Weurt
+Bonenkampstraat,34,"","",6551ZE,Weurt
+Bonenkampstraat,36,"","",6551ZE,Weurt
+Bonenkampstraat,4,"","",6551ZE,Weurt
+Bonenkampstraat,6,"","",6551ZE,Weurt
+Bonenkampstraat,8,"","",6551ZE,Weurt

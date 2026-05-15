@@ -1,51 +1,51 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7011BV,Over de Beek,12,A,
-7011BV,Over de Beek,12,,
-7011KA,Kerkstraat,1,,
-7011KA,Kerkstraat,7,,
-7011KA,Kerkstraat,11,,
-7011KA,Kerkstraat,11,A,
-7011KA,Kerkstraat,13,,
-7011KB,Kerkstraat,8,A,
-7011KB,Kerkstraat,8,,
-7011KB,Kerkstraat,20,,
-7011JA,Vreeltstraat,1,A,
-7011JA,Vreeltstraat,2,,
-7011JA,Vreeltstraat,2,A,
-7011JA,Vreeltstraat,3,,
-7011JA,Vreeltstraat,4,,
-7011JA,Vreeltstraat,6,,
-7011JA,Vreeltstraat,11,,
-7011JA,Vreeltstraat,13,,
-7011JA,Vreeltstraat,15,,
-7011JA,Vreeltstraat,15,A,
-7011JA,Vreeltstraat,16,,
-7011JA,Vreeltstraat,18,,
-7011JA,Vreeltstraat,27,,
-7011JA,Vreeltstraat,27,,
-7011JA,Vreeltstraat,27,A,
-7011JA,Vreeltstraat,33,,
-7011BV,Noordeind,1,,
-7011BV,Noordeind,5,,
-7011BV,Noordeind,7,,
-7011BV,Noordeind,9,,
-7011BV,Noordeind,11,,
-7011BV,Over de Beek,14,,
-7011KA,Kerkstraat,5,A,
-7011KA,Kerkstraat,5,,
-7011JA,Vreeltstraat,17,,
-7011BV,Noordeind,3,,
-7011KA,Kerkstraat,5,B,
-7011KA,Kerkstraat,5,B,
-7011KB,Kerkstraat,22,,
-7011JA,Vreeltstraat,5,,
-7011JA,Vreeltstraat,8,,
-7011JA,Vreeltstraat,34,,
-7011JA,Vreeltstraat,13,A,
-7011JA,Vreeltstraat,13,A,
-7011BV,Over de Beek,10,,
-7011BV,Over de Beek,8,,
-7011BV,Over de Beek,8,,
-7011BV,Over de Beek,12,,
-7011BV,Over de Beek,12,A,
-7011KB,Kerkstraat,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Noordeind,1,"","",7011BV,Gaanderen
+Over de Beek,10,"","",7011BV,Gaanderen
+Noordeind,11,"","",7011BV,Gaanderen
+Over de Beek,12,"","",7011BV,Gaanderen
+Over de Beek,12,"","",7011BV,Gaanderen
+Over de Beek,12,A,"",7011BV,Gaanderen
+Over de Beek,12,A,"",7011BV,Gaanderen
+Over de Beek,14,"","",7011BV,Gaanderen
+Noordeind,3,"","",7011BV,Gaanderen
+Noordeind,5,"","",7011BV,Gaanderen
+Noordeind,7,"","",7011BV,Gaanderen
+Over de Beek,8,"","",7011BV,Gaanderen
+Over de Beek,8,"","",7011BV,Gaanderen
+Noordeind,9,"","",7011BV,Gaanderen
+Vreeltstraat,1,A,"",7011JA,Gaanderen
+Vreeltstraat,11,"","",7011JA,Gaanderen
+Vreeltstraat,13,"","",7011JA,Gaanderen
+Vreeltstraat,13,A,"",7011JA,Gaanderen
+Vreeltstraat,13,A,"",7011JA,Gaanderen
+Vreeltstraat,15,"","",7011JA,Gaanderen
+Vreeltstraat,15,A,"",7011JA,Gaanderen
+Vreeltstraat,16,"","",7011JA,Gaanderen
+Vreeltstraat,17,"","",7011JA,Gaanderen
+Vreeltstraat,18,"","",7011JA,Gaanderen
+Vreeltstraat,2,"","",7011JA,Gaanderen
+Vreeltstraat,2,A,"",7011JA,Gaanderen
+Vreeltstraat,27,"","",7011JA,Gaanderen
+Vreeltstraat,27,"","",7011JA,Gaanderen
+Vreeltstraat,27,A,"",7011JA,Gaanderen
+Vreeltstraat,3,"","",7011JA,Gaanderen
+Vreeltstraat,33,"","",7011JA,Gaanderen
+Vreeltstraat,34,"","",7011JA,Gaanderen
+Vreeltstraat,4,"","",7011JA,Gaanderen
+Vreeltstraat,5,"","",7011JA,Gaanderen
+Vreeltstraat,6,"","",7011JA,Gaanderen
+Vreeltstraat,8,"","",7011JA,Gaanderen
+Kerkstraat,1,"","",7011KA,Gaanderen
+Kerkstraat,11,"","",7011KA,Gaanderen
+Kerkstraat,11,A,"",7011KA,Gaanderen
+Kerkstraat,13,"","",7011KA,Gaanderen
+Kerkstraat,5,"","",7011KA,Gaanderen
+Kerkstraat,5,A,"",7011KA,Gaanderen
+Kerkstraat,5,B,"",7011KA,Gaanderen
+Kerkstraat,5,B,"",7011KA,Gaanderen
+Kerkstraat,7,"","",7011KA,Gaanderen
+Kerkstraat,10,"","",7011KB,Gaanderen
+Kerkstraat,20,"","",7011KB,Gaanderen
+Kerkstraat,22,"","",7011KB,Gaanderen
+Kerkstraat,8,"","",7011KB,Gaanderen
+Kerkstraat,8,A,"",7011KB,Gaanderen

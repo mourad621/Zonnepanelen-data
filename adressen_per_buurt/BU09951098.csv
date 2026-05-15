@@ -1,12 +1,12 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8218PX,RW A6 de Lepelaar,4,,
-8218PX,RW A6 de Lepelaar,1,,
-8218PW,RW A6 de Aalscholver,1,,
-8218AA,Kitsweg,1,,
-8218AA,Kitsweg,1,,
-8218PW,RW A6 de Aalscholver,2,,
-8218PW,RW A6 de Aalscholver,3,,
-8218AA,Kitsweg,1,,
-8218PZ,Knardijk,198,,
-8218PX,RW A6 de Lepelaar,5,,
-8218AA,Kitsweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kitsweg,1,"","",8218AA,Lelystad
+Kitsweg,1,"","",8218AA,Lelystad
+Kitsweg,1,"","",8218AA,Lelystad
+Kitsweg,3,"","",8218AA,Lelystad
+RW A6 de Aalscholver,1,"","",8218PW,Lelystad
+RW A6 de Aalscholver,2,"","",8218PW,Lelystad
+RW A6 de Aalscholver,3,"","",8218PW,Lelystad
+RW A6 de Lepelaar,1,"","",8218PX,Lelystad
+RW A6 de Lepelaar,4,"","",8218PX,Lelystad
+RW A6 de Lepelaar,5,"","",8218PX,Lelystad
+Knardijk,198,"","",8218PZ,Lelystad

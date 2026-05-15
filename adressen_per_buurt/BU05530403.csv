@@ -1,91 +1,91 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2161DC,Heereweg,449,,
-2161DC,Heereweg,451,,
-2161DC,Heereweg,453,,
-2161DC,Heereweg,455,A,
-2161DC,Heereweg,457,,
-2161DC,Heereweg,459,A,
-2161DC,Heereweg,459,,
-2161DC,Heereweg,461,A,
-2161DC,Heereweg,461,,
-2161DC,Heereweg,455,,
-2161DC,Heereweg,467,,
-2161DC,Heereweg,471,A,
-2161DC,Heereweg,473,,
-2161DC,Heereweg,455,B,
-2161DC,Heereweg,455,C,
-2161NA,Ter Beek,1,,
-2161NA,Ter Beek,3,,
-2161NA,Ter Beek,5,,
-2161NA,Ter Beek,7,,
-2161NA,Ter Beek,9,,
-2161NA,Ter Beek,11,,
-2161NA,Ter Beek,13,,
-2161NA,Ter Beek,15,,
-2161NA,Ter Beek,17,,
-2161NA,Ter Beek,19,,
-2161NA,Ter Beek,21,,
-2161NA,Ter Beek,23,,
-2161NA,Ter Beek,25,,
-2161NA,Ter Beek,27,,
-2161NA,Ter Beek,29,,
-2161NA,Ter Beek,31,,
-2161NA,Ter Beek,33,,
-2161NA,Ter Beek,35,,
-2161NA,Ter Beek,37,,
-2161NA,Ter Beek,39,,
-2161NA,Ter Beek,41,,
-2161NA,Ter Beek,43,,
-2161NA,Ter Beek,45,,
-2161NA,Ter Beek,47,,
-2161NB,Ter Beek,49,,
-2161NB,Ter Beek,51,,
-2161NB,Ter Beek,53,,
-2161NB,Ter Beek,57,,
-2161NB,Ter Beek,59,,
-2161NB,Ter Beek,61,,
-2161NB,Ter Beek,63,,
-2161NB,Ter Beek,65,,
-2161NB,Ter Beek,67,,
-2161NB,Ter Beek,69,,
-2161NB,Ter Beek,71,,
-2161NB,Ter Beek,55,,
-2161NC,Ter Beek,73,,
-2161NC,Ter Beek,75,,
-2161NC,Ter Beek,77,,
-2161NC,Ter Beek,79,,
-2161NC,Ter Beek,81,,
-2161NC,Ter Beek,83,,
-2161NC,Ter Beek,85,,
-2161NC,Ter Beek,87,,
-2161NC,Ter Beek,89,,
-2161NC,Ter Beek,91,,
-2161NC,Ter Beek,93,,
-2161NC,Ter Beek,95,,
-2161NC,Ter Beek,97,,
-2161NC,Ter Beek,99,,
-2161NC,Ter Beek,101,,
-2161NC,Ter Beek,103,,
-2161NC,Ter Beek,105,,
-2161NC,Ter Beek,107,,
-2161NC,Ter Beek,109,,
-2161NC,Ter Beek,111,,
-2161ND,Ter Beek,2,,
-2161ND,Ter Beek,4,,
-2161ND,Ter Beek,6,,
-2161ND,Ter Beek,8,,
-2161ND,Ter Beek,10,,
-2161ND,Ter Beek,12,,
-2161ND,Ter Beek,14,,
-2161ND,Ter Beek,16,,
-2161ND,Ter Beek,18,,
-2161ND,Ter Beek,20,,
-2161ND,Ter Beek,22,,
-2161ND,Ter Beek,24,,
-2161ND,Ter Beek,26,,
-2161ND,Ter Beek,28,,
-2161ND,Ter Beek,24,A,
-2161ND,Ter Beek,24,B,
-2161ND,Ter Beek,24,C,
-2161ND,Ter Beek,24,D,
-2161ND,Ter Beek,24,F,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heereweg,449,"","",2161DC,Lisse
+Heereweg,451,"","",2161DC,Lisse
+Heereweg,453,"","",2161DC,Lisse
+Heereweg,455,"","",2161DC,Lisse
+Heereweg,455,A,"",2161DC,Lisse
+Heereweg,455,B,"",2161DC,Lisse
+Heereweg,455,C,"",2161DC,Lisse
+Heereweg,457,"","",2161DC,Lisse
+Heereweg,459,"","",2161DC,Lisse
+Heereweg,459,A,"",2161DC,Lisse
+Heereweg,461,"","",2161DC,Lisse
+Heereweg,461,A,"",2161DC,Lisse
+Heereweg,467,"","",2161DC,Lisse
+Heereweg,471,A,"",2161DC,Lisse
+Heereweg,473,"","",2161DC,Lisse
+Ter Beek,1,"","",2161NA,Lisse
+Ter Beek,11,"","",2161NA,Lisse
+Ter Beek,13,"","",2161NA,Lisse
+Ter Beek,15,"","",2161NA,Lisse
+Ter Beek,17,"","",2161NA,Lisse
+Ter Beek,19,"","",2161NA,Lisse
+Ter Beek,21,"","",2161NA,Lisse
+Ter Beek,23,"","",2161NA,Lisse
+Ter Beek,25,"","",2161NA,Lisse
+Ter Beek,27,"","",2161NA,Lisse
+Ter Beek,29,"","",2161NA,Lisse
+Ter Beek,3,"","",2161NA,Lisse
+Ter Beek,31,"","",2161NA,Lisse
+Ter Beek,33,"","",2161NA,Lisse
+Ter Beek,35,"","",2161NA,Lisse
+Ter Beek,37,"","",2161NA,Lisse
+Ter Beek,39,"","",2161NA,Lisse
+Ter Beek,41,"","",2161NA,Lisse
+Ter Beek,43,"","",2161NA,Lisse
+Ter Beek,45,"","",2161NA,Lisse
+Ter Beek,47,"","",2161NA,Lisse
+Ter Beek,5,"","",2161NA,Lisse
+Ter Beek,7,"","",2161NA,Lisse
+Ter Beek,9,"","",2161NA,Lisse
+Ter Beek,49,"","",2161NB,Lisse
+Ter Beek,51,"","",2161NB,Lisse
+Ter Beek,53,"","",2161NB,Lisse
+Ter Beek,55,"","",2161NB,Lisse
+Ter Beek,57,"","",2161NB,Lisse
+Ter Beek,59,"","",2161NB,Lisse
+Ter Beek,61,"","",2161NB,Lisse
+Ter Beek,63,"","",2161NB,Lisse
+Ter Beek,65,"","",2161NB,Lisse
+Ter Beek,67,"","",2161NB,Lisse
+Ter Beek,69,"","",2161NB,Lisse
+Ter Beek,71,"","",2161NB,Lisse
+Ter Beek,101,"","",2161NC,Lisse
+Ter Beek,103,"","",2161NC,Lisse
+Ter Beek,105,"","",2161NC,Lisse
+Ter Beek,107,"","",2161NC,Lisse
+Ter Beek,109,"","",2161NC,Lisse
+Ter Beek,111,"","",2161NC,Lisse
+Ter Beek,73,"","",2161NC,Lisse
+Ter Beek,75,"","",2161NC,Lisse
+Ter Beek,77,"","",2161NC,Lisse
+Ter Beek,79,"","",2161NC,Lisse
+Ter Beek,81,"","",2161NC,Lisse
+Ter Beek,83,"","",2161NC,Lisse
+Ter Beek,85,"","",2161NC,Lisse
+Ter Beek,87,"","",2161NC,Lisse
+Ter Beek,89,"","",2161NC,Lisse
+Ter Beek,91,"","",2161NC,Lisse
+Ter Beek,93,"","",2161NC,Lisse
+Ter Beek,95,"","",2161NC,Lisse
+Ter Beek,97,"","",2161NC,Lisse
+Ter Beek,99,"","",2161NC,Lisse
+Ter Beek,10,"","",2161ND,Lisse
+Ter Beek,12,"","",2161ND,Lisse
+Ter Beek,14,"","",2161ND,Lisse
+Ter Beek,16,"","",2161ND,Lisse
+Ter Beek,18,"","",2161ND,Lisse
+Ter Beek,2,"","",2161ND,Lisse
+Ter Beek,20,"","",2161ND,Lisse
+Ter Beek,22,"","",2161ND,Lisse
+Ter Beek,24,"","",2161ND,Lisse
+Ter Beek,24,A,"",2161ND,Lisse
+Ter Beek,24,B,"",2161ND,Lisse
+Ter Beek,24,C,"",2161ND,Lisse
+Ter Beek,24,D,"",2161ND,Lisse
+Ter Beek,24,F,"",2161ND,Lisse
+Ter Beek,26,"","",2161ND,Lisse
+Ter Beek,28,"","",2161ND,Lisse
+Ter Beek,4,"","",2161ND,Lisse
+Ter Beek,6,"","",2161ND,Lisse
+Ter Beek,8,"","",2161ND,Lisse

@@ -1,65 +1,65 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7226LH,Boterstraat,1,,
-7226LH,Boterstraat,1,A,
-7226LH,Boterstraat,3,,
-7226LH,Boterstraat,4,,
-7226LH,Boterstraat,5,,
-7226LH,Boterstraat,6,,
-7226LH,Boterstraat,7,,
-7226LH,Boterstraat,8,,
-7226LM,Bovenstraat,1,,
-7226LM,Bovenstraat,2,,
-7226LM,Bovenstraat,3,,
-7226LM,Bovenstraat,4,,
-7226LM,Bovenstraat,6,,
-7226LM,Bovenstraat,8,,
-7226LN,Bovenstraat,5,,
-7226LN,Bovenstraat,10,,
-7226LN,Bovenstraat,12,,
-7226LN,Bovenstraat,14,,
-7226LN,Bovenstraat,16,,
-7226LN,Bovenstraat,18,,
-7226LN,Bovenstraat,20,,
-7226LJ,Gijsbertplein 1344,1,,
-7226LL,Kapelstraat,1,,
-7226LL,Kapelstraat,2,,
-7226LK,Kasteelweg,1,,
-7226LK,Kasteelweg,2,,
-7226LK,Kasteelweg,3,,
-7226LK,Kasteelweg,5,,
-7226LA,Molenstraat,1,,
-7226LA,Molenstraat,11,,
-7226LB,Onderstraat,1,,
-7226LB,Onderstraat,3,,
-7226LB,Onderstraat,5,,
-7226LB,Onderstraat,7,,
-7226LC,Onderstraat,9,,
-7226LC,Onderstraat,13,,
-7226LD,Onderstraat,2,,
-7226LD,Onderstraat,4,,
-7226LD,Onderstraat,6,,
-7226LD,Onderstraat,8,,
-7226LD,Onderstraat,8,A,
-7226LD,Onderstraat,8,B,
-7226LD,Onderstraat,10,,
-7226LE,Onderstraat,12,,
-7226LE,Onderstraat,14,,
-7226LG,'t Hof,1,,
-7226LG,'t Hof,2,,
-7226LG,'t Hof,3,,
-7226LG,'t Hof,5,,
-7226LG,'t Hof,6,,
-7226LG,'t Hof,7,,
-7226LG,'t Hof,8,,
-7226LG,'t Hof,10,,
-7226LG,'t Hof,12,,
-7226LG,'t Hof,14,,
-7226LG,'t Hof,16,,
-7226LG,'t Hof,18,,
-7226LG,'t Hof,20,,
-7226LN,Uilenhoek,1,,
-7226LN,Uilenhoek,2,,
-7226LN,Uilenhoek,4,,
-7226LC,Onderstraat,13,,
-7226LC,Onderstraat,13,A,
-7226LC,Onderstraat,13,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Molenstraat,1,"","",7226LA,Bronkhorst
+Molenstraat,11,"","",7226LA,Bronkhorst
+Onderstraat,1,"","",7226LB,Bronkhorst
+Onderstraat,3,"","",7226LB,Bronkhorst
+Onderstraat,5,"","",7226LB,Bronkhorst
+Onderstraat,7,"","",7226LB,Bronkhorst
+Onderstraat,13,"","",7226LC,Bronkhorst
+Onderstraat,13,"","",7226LC,Bronkhorst
+Onderstraat,13,"","",7226LC,Bronkhorst
+Onderstraat,13,A,"",7226LC,Bronkhorst
+Onderstraat,9,"","",7226LC,Bronkhorst
+Onderstraat,10,"","",7226LD,Bronkhorst
+Onderstraat,2,"","",7226LD,Bronkhorst
+Onderstraat,4,"","",7226LD,Bronkhorst
+Onderstraat,6,"","",7226LD,Bronkhorst
+Onderstraat,8,"","",7226LD,Bronkhorst
+Onderstraat,8,A,"",7226LD,Bronkhorst
+Onderstraat,8,B,"",7226LD,Bronkhorst
+Onderstraat,12,"","",7226LE,Bronkhorst
+Onderstraat,14,"","",7226LE,Bronkhorst
+'t Hof,1,"","",7226LG,Bronkhorst
+'t Hof,10,"","",7226LG,Bronkhorst
+'t Hof,12,"","",7226LG,Bronkhorst
+'t Hof,14,"","",7226LG,Bronkhorst
+'t Hof,16,"","",7226LG,Bronkhorst
+'t Hof,18,"","",7226LG,Bronkhorst
+'t Hof,2,"","",7226LG,Bronkhorst
+'t Hof,20,"","",7226LG,Bronkhorst
+'t Hof,3,"","",7226LG,Bronkhorst
+'t Hof,5,"","",7226LG,Bronkhorst
+'t Hof,6,"","",7226LG,Bronkhorst
+'t Hof,7,"","",7226LG,Bronkhorst
+'t Hof,8,"","",7226LG,Bronkhorst
+Boterstraat,1,"","",7226LH,Bronkhorst
+Boterstraat,1,A,"",7226LH,Bronkhorst
+Boterstraat,3,"","",7226LH,Bronkhorst
+Boterstraat,4,"","",7226LH,Bronkhorst
+Boterstraat,5,"","",7226LH,Bronkhorst
+Boterstraat,6,"","",7226LH,Bronkhorst
+Boterstraat,7,"","",7226LH,Bronkhorst
+Boterstraat,8,"","",7226LH,Bronkhorst
+Gijsbertplein 1344,1,"","",7226LJ,Bronkhorst
+Kasteelweg,1,"","",7226LK,Bronkhorst
+Kasteelweg,2,"","",7226LK,Bronkhorst
+Kasteelweg,3,"","",7226LK,Bronkhorst
+Kasteelweg,5,"","",7226LK,Bronkhorst
+Kapelstraat,1,"","",7226LL,Bronkhorst
+Kapelstraat,2,"","",7226LL,Bronkhorst
+Bovenstraat,1,"","",7226LM,Bronkhorst
+Bovenstraat,2,"","",7226LM,Bronkhorst
+Bovenstraat,3,"","",7226LM,Bronkhorst
+Bovenstraat,4,"","",7226LM,Bronkhorst
+Bovenstraat,6,"","",7226LM,Bronkhorst
+Bovenstraat,8,"","",7226LM,Bronkhorst
+Uilenhoek,1,"","",7226LN,Bronkhorst
+Bovenstraat,10,"","",7226LN,Bronkhorst
+Bovenstraat,12,"","",7226LN,Bronkhorst
+Bovenstraat,14,"","",7226LN,Bronkhorst
+Bovenstraat,16,"","",7226LN,Bronkhorst
+Bovenstraat,18,"","",7226LN,Bronkhorst
+Uilenhoek,2,"","",7226LN,Bronkhorst
+Bovenstraat,20,"","",7226LN,Bronkhorst
+Uilenhoek,4,"","",7226LN,Bronkhorst
+Bovenstraat,5,"","",7226LN,Bronkhorst

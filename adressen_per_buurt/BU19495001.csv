@@ -1,632 +1,318 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9077PL",15,"",""
-"9077PL",8,"",""
-"9077PL",17,"",""
-"9077PL",16,"",""
-"9077PL",14,"",""
-"9077PL",2,"",""
-"9077PL",18,"A",""
-"9077PL",18,"B",""
-"9077PL",18,"",""
-"9077PL",13,"",""
-"9077PL",21,"",""
-"9077PL",26,"",""
-"9077PL",17,"A",""
-"9077PL",4,"",""
-"9077PL",6,"",""
-"9077PL",11,"",""
-"9077PM",14,"",""
-"9077PM",9,"",""
-"9077PM",15,"",""
-"9077PM",21,"",""
-"9077PM",23,"",""
-"9077PM",12,"",""
-"9077PM",11,"",""
-"9077PM",17,"",""
-"9077PM",13,"",""
-"9077PM",10,"",""
-"9077PM",27,"",""
-"9077RA",3,"",""
-"9077RA",1,"",""
-"9077RB",3,"",""
-"9077RB",1,"",""
-"9077RC",6,"",""
-"9077RC",18,"",""
-"9077RC",4,"",""
-"9077RC",2,"",""
-"9077RC",12,"",""
-"9077RC",1,"",""
-"9077RC",5,"",""
-"9077RC",20,"",""
-"9077RC",3,"",""
-"9077RC",16,"",""
-"9077RC",8,"",""
-"9077RC",14,"",""
-"9077RC",10,"",""
-"9077SB",36,"",""
-"9077SB",30,"A",""
-"9077SB",34,"",""
-"9077SB",30,"",""
-"9077SB",31,"",""
-"9077SB",30,"A",""
-"9077SB",35,"",""
-"9077SB",33,"",""
-"9077SC",2,"",""
-"9077SC",14,"",""
-"9077SC",8,"",""
-"9077SC",18,"",""
-"9077SC",4,"",""
-"9077SC",16,"",""
-"9077SC",1,"",""
-"9077SC",3,"",""
-"9077SC",20,"",""
-"9077SC",6,"",""
-"9077SC",10,"",""
-"9077SC",5,"",""
-"9077SC",12,"",""
-"9077SC",7,"",""
-"9077SE",27,"",""
-"9077SE",25,"",""
-"9077SE",23,"",""
-"9077SE",17,"",""
-"9077SE",23,"",""
-"9077SE",23,"",""
-"9077SE",31,"",""
-"9077SE",27,"",""
-"9077SE",25,"",""
-"9077SE",21,"",""
-"9077SE",19,"",""
-"9077SE",21,"",""
-"9077SE",29,"",""
-"9077SE",15,"",""
-"9077SE",3,"",""
-"9077SE",17,"",""
-"9077SE",19,"",""
-"9077SE",9,"",""
-"9077SE",13,"",""
-"9077SE",19,"",""
-"9077SE",11,"",""
-"9077SE",17,"",""
-"9077SE",1,"",""
-"9077SE",21,"",""
-"9077SE",5,"",""
-"9077SE",7,"",""
-"9077SG",63,"",""
-"9077SG",35,"",""
-"9077SG",47,"",""
-"9077SG",41,"",""
-"9077SG",43,"",""
-"9077SG",33,"",""
-"9077SG",39,"",""
-"9077SG",53,"",""
-"9077SG",49,"",""
-"9077SG",65,"",""
-"9077SG",45,"",""
-"9077SG",37,"",""
-"9077SG",55,"",""
-"9077SG",61,"",""
-"9077SG",51,"",""
-"9077SG",57,"",""
-"9077SG",67,"",""
-"9077SH",22,"",""
-"9077SH",24,"",""
-"9077SH",20,"",""
-"9077SH",12,"",""
-"9077SH",16,"",""
-"9077SH",14,"",""
-"9077SH",2,"",""
-"9077SH",10,"",""
-"9077SH",8,"",""
-"9077SH",6,"",""
-"9077SH",18,"",""
-"9077SH",4,"",""
-"9077SH",28,"",""
-"9077SH",4,"",""
-"9077SH",4,"",""
-"9077SH",2,"",""
-"9077SH",8,"",""
-"9077SH",6,"",""
-"9077SH",26,"",""
-"9077SH",2,"",""
-"9077SJ",48,"",""
-"9077SJ",46,"",""
-"9077SJ",38,"",""
-"9077SJ",42,"",""
-"9077SJ",50,"",""
-"9077SJ",44,"",""
-"9077SJ",58,"",""
-"9077SJ",62,"",""
-"9077SJ",34,"",""
-"9077SJ",30,"",""
-"9077SJ",54,"",""
-"9077SJ",36,"",""
-"9077SJ",32,"",""
-"9077SJ",60,"",""
-"9077SJ",64,"",""
-"9077SJ",56,"",""
-"9077SJ",66,"",""
-"9077SJ",52,"",""
-"9077SK",15,"",""
-"9077SK",14,"",""
-"9077SK",23,"",""
-"9077SK",8,"",""
-"9077SK",20,"",""
-"9077SK",22,"",""
-"9077SK",27,"",""
-"9077SK",2,"",""
-"9077SK",16,"",""
-"9077SK",18,"",""
-"9077SK",17,"",""
-"9077SK",29,"",""
-"9077SK",12,"",""
-"9077SK",25,"",""
-"9077SK",9,"",""
-"9077SK",19,"",""
-"9077SK",10,"",""
-"9077SK",11,"",""
-"9077SK",13,"",""
-"9077SK",21,"",""
-"9077SK",5,"",""
-"9077SK",6,"",""
-"9077SK",7,"",""
-"9077SK",4,"",""
-"9077SK",3,"",""
-"9077SL",62,"",""
-"9077SL",36,"",""
-"9077SL",34,"",""
-"9077SL",38,"",""
-"9077SL",44,"",""
-"9077SL",60,"",""
-"9077SL",46,"",""
-"9077SL",64,"",""
-"9077SL",40,"",""
-"9077SL",42,"",""
-"9077SM",66,"",""
-"9077SM",84,"",""
-"9077SM",80,"",""
-"9077SM",76,"",""
-"9077SM",78,"",""
-"9077SM",68,"",""
-"9077SM",82,"",""
-"9077SM",74,"",""
-"9077SM",70,"",""
-"9077SN",2,"",""
-"9077SN",32,"",""
-"9077SN",4,"",""
-"9077SN",18,"",""
-"9077SN",3,"",""
-"9077SN",14,"",""
-"9077SN",17,"",""
-"9077SN",10,"",""
-"9077SN",20,"",""
-"9077SN",12,"",""
-"9077SN",9,"",""
-"9077SN",11,"",""
-"9077SN",4,"",""
-"9077SN",16,"",""
-"9077SN",7,"",""
-"9077SN",30,"",""
-"9077SP",49,"",""
-"9077SP",51,"",""
-"9077SP",44,"",""
-"9077SP",48,"",""
-"9077SP",39,"",""
-"9077SP",51,"",""
-"9077SP",35,"",""
-"9077SP",40,"",""
-"9077SP",43,"",""
-"9077SP",38,"",""
-"9077SP",33,"",""
-"9077SP",43,"A",""
-"9077SP",31,"",""
-"9077SP",42,"",""
-"9077SP",57,"",""
-"9077SP",25,"",""
-"9077SP",46,"",""
-"9077SP",23,"",""
-"9077SP",51,"A",""
-"9077SP",45,"",""
-"9077SP",55,"",""
-"9077SP",21,"",""
-"9077SP",53,"",""
-"9077SP",51,"",""
-"9077SP",29,"",""
-"9077SP",37,"",""
-"9077SP",53,"",""
-"9077SR",78,"A",""
-"9077SR",78,"D",""
-"9077SR",71,"",""
-"9077SR",72,"",""
-"9077SR",78,"E",""
-"9077SR",54,"",""
-"9077SR",69,"",""
-"9077SR",78,"C",""
-"9077SR",66,"",""
-"9077SR",78,"F",""
-"9077SR",77,"",""
-"9077SR",78,"B",""
-"9077SR",78,"",""
-"9077SR",78,"",""
-"9077SR",73,"",""
-"9077SR",56,"",""
-"9077SR",67,"",""
-"9077SR",78,"G",""
-"9077SR",58,"",""
-"9077SR",88,"",""
-"9077SR",86,"",""
-"9077SR",70,"",""
-"9077SR",61,"",""
-"9077SR",68,"",""
-"9077SR",65,"",""
-"9077SR",64,"",""
-"9077SR",59,"",""
-"9077SR",62,"",""
-"9077SR",60,"",""
-"9077ST",113,"",""
-"9077ST",89,"",""
-"9077ST",119,"",""
-"9077ST",95,"",""
-"9077ST",121,"",""
-"9077ST",115,"",""
-"9077ST",99,"",""
-"9077ST",81,"",""
-"9077ST",123,"",""
-"9077ST",97,"A",""
-"9077ST",93,"",""
-"9077ST",91,"",""
-"9077ST",111,"",""
-"9077ST",105,"",""
-"9077ST",97,"",""
-"9077ST",97,"B",""
-"9077ST",107,"",""
-"9077ST",97,"C",""
-"9077ST",109,"",""
-"9077ST",101,"",""
-"9077SV",2,"",""
-"9077SV",7,"",""
-"9077SV",1,"",""
-"9077SV",5,"",""
-"9077SV",4,"",""
-"9077SW",16,"",""
-"9077SW",2,"",""
-"9077SW",14,"",""
-"9077SW",3,"",""
-"9077SW",9,"",""
-"9077SW",1,"",""
-"9077SW",17,"",""
-"9077SW",12,"",""
-"9077SW",17,"",""
-"9077SW",22,"",""
-"9077SW",8,"",""
-"9077SW",5,"",""
-"9077SW",6,"",""
-"9077SW",18,"",""
-"9077SW",20,"",""
-"9077SZ",10,"",""
-"9077SZ",1,"",""
-"9077SZ",7,"",""
-"9077SZ",6,"",""
-"9077SZ",16,"",""
-"9077SZ",14,"",""
-"9077SZ",12,"",""
-"9077SZ",5,"",""
-"9077SZ",11,"",""
-"9077SZ",9,"",""
-"9077SZ",8,"",""
-"9077SZ",2,"",""
-"9077SZ",4,"",""
-"9077SZ",3,"",""
-9077PM,Hamerenweg,27,,
-9077PM,Hamerenweg,23,,
-9077PM,Hamerenweg,21,,
-9077PM,Hamerenweg,17,,
-9077PM,Hamerenweg,15,,
-9077PM,Hamerenweg,14,,
-9077PM,Hamerenweg,13,,
-9077PM,Hamerenweg,12,,
-9077PM,Hamerenweg,11,,
-9077PM,Hamerenweg,10,,
-9077PM,Hamerenweg,9,,
-9077SK,J.P. van der Bildtstraat,29,,
-9077SK,J.P. van der Bildtstraat,27,,
-9077SK,J.P. van der Bildtstraat,25,,
-9077SK,J.P. van der Bildtstraat,23,,
-9077SK,J.P. van der Bildtstraat,22,,
-9077SK,J.P. van der Bildtstraat,21,,
-9077SK,J.P. van der Bildtstraat,20,,
-9077SK,J.P. van der Bildtstraat,19,,
-9077SK,J.P. van der Bildtstraat,18,,
-9077SK,J.P. van der Bildtstraat,17,,
-9077SK,J.P. van der Bildtstraat,16,,
-9077SK,J.P. van der Bildtstraat,15,,
-9077SK,J.P. van der Bildtstraat,14,,
-9077SK,J.P. van der Bildtstraat,13,,
-9077SK,J.P. van der Bildtstraat,12,,
-9077SK,J.P. van der Bildtstraat,11,,
-9077SK,J.P. van der Bildtstraat,10,,
-9077SK,J.P. van der Bildtstraat,9,,
-9077SK,J.P. van der Bildtstraat,8,,
-9077SK,J.P. van der Bildtstraat,7,,
-9077SK,J.P. van der Bildtstraat,6,,
-9077SK,J.P. van der Bildtstraat,5,,
-9077SK,J.P. van der Bildtstraat,4,,
-9077SK,J.P. van der Bildtstraat,3,,
-9077SK,J.P. van der Bildtstraat,2,,
-9077SL,J.P. van der Bildtstraat,64,,
-9077SL,J.P. van der Bildtstraat,62,,
-9077SL,J.P. van der Bildtstraat,60,,
-9077SL,J.P. van der Bildtstraat,46,,
-9077SL,J.P. van der Bildtstraat,44,,
-9077SL,J.P. van der Bildtstraat,42,,
-9077SL,J.P. van der Bildtstraat,40,,
-9077SL,J.P. van der Bildtstraat,38,,
-9077SL,J.P. van der Bildtstraat,36,,
-9077SL,J.P. van der Bildtstraat,34,,
-9077SM,J.P. van der Bildtstraat,84,,
-9077SM,J.P. van der Bildtstraat,82,,
-9077SM,J.P. van der Bildtstraat,80,,
-9077SM,J.P. van der Bildtstraat,78,,
-9077SM,J.P. van der Bildtstraat,76,,
-9077SM,J.P. van der Bildtstraat,74,,
-9077SM,J.P. van der Bildtstraat,70,,
-9077SM,J.P. van der Bildtstraat,68,,
-9077SM,J.P. van der Bildtstraat,66,,
-9077SV,Kerkplein,7,,
-9077SV,Kerkplein,5,,
-9077SV,Kerkplein,4,,
-9077SV,Kerkplein,2,,
-9077SV,Kerkplein,1,,
-9077RA,Klaine-Izakstraat,3,,
-9077RA,Klaine-Izakstraat,1,,
-9077SE,Mathijs Beckstraat,31,,
-9077SE,Mathijs Beckstraat,29,,
-9077SE,Mathijs Beckstraat,27,,
-9077SE,Mathijs Beckstraat,25,,
-9077SE,Mathijs Beckstraat,23,,
-9077SE,Mathijs Beckstraat,21,,
-9077SE,Mathijs Beckstraat,19,,
-9077SE,Mathijs Beckstraat,17,,
-9077SE,Mathijs Beckstraat,15,,
-9077SE,Mathijs Beckstraat,13,,
-9077SE,Mathijs Beckstraat,11,,
-9077SE,Mathijs Beckstraat,9,,
-9077SE,Mathijs Beckstraat,7,,
-9077SE,Mathijs Beckstraat,5,,
-9077SE,Mathijs Beckstraat,3,,
-9077SE,Mathijs Beckstraat,1,,
-9077SE,Mathijs Beckstraat,17,,
-9077SE,Mathijs Beckstraat,19,,
-9077SE,Mathijs Beckstraat,21,,
-9077SE,Mathijs Beckstraat,23,,
-9077SG,Mathijs Beckstraat,67,,
-9077SG,Mathijs Beckstraat,65,,
-9077SG,Mathijs Beckstraat,63,,
-9077SG,Mathijs Beckstraat,61,,
-9077SG,Mathijs Beckstraat,57,,
-9077SG,Mathijs Beckstraat,55,,
-9077SG,Mathijs Beckstraat,53,,
-9077SG,Mathijs Beckstraat,51,,
-9077SG,Mathijs Beckstraat,49,,
-9077SG,Mathijs Beckstraat,47,,
-9077SG,Mathijs Beckstraat,45,,
-9077SG,Mathijs Beckstraat,43,,
-9077SG,Mathijs Beckstraat,41,,
-9077SG,Mathijs Beckstraat,39,,
-9077SG,Mathijs Beckstraat,37,,
-9077SG,Mathijs Beckstraat,35,,
-9077SG,Mathijs Beckstraat,33,,
-9077SH,Mathijs Beckstraat,28,,
-9077SH,Mathijs Beckstraat,26,,
-9077SH,Mathijs Beckstraat,24,,
-9077SH,Mathijs Beckstraat,22,,
-9077SH,Mathijs Beckstraat,20,,
-9077SH,Mathijs Beckstraat,18,,
-9077SH,Mathijs Beckstraat,16,,
-9077SH,Mathijs Beckstraat,14,,
-9077SH,Mathijs Beckstraat,12,,
-9077SH,Mathijs Beckstraat,10,,
-9077SH,Mathijs Beckstraat,8,,
-9077SH,Mathijs Beckstraat,6,,
-9077SH,Mathijs Beckstraat,4,,
-9077SH,Mathijs Beckstraat,2,,
-9077SH,Mathijs Beckstraat,2,,
-9077SH,Mathijs Beckstraat,4,,
-9077SJ,Mathijs Beckstraat,66,,
-9077SJ,Mathijs Beckstraat,64,,
-9077SJ,Mathijs Beckstraat,62,,
-9077SJ,Mathijs Beckstraat,60,,
-9077SJ,Mathijs Beckstraat,58,,
-9077SJ,Mathijs Beckstraat,56,,
-9077SJ,Mathijs Beckstraat,54,,
-9077SJ,Mathijs Beckstraat,52,,
-9077SJ,Mathijs Beckstraat,50,,
-9077SJ,Mathijs Beckstraat,48,,
-9077SJ,Mathijs Beckstraat,46,,
-9077SJ,Mathijs Beckstraat,44,,
-9077SJ,Mathijs Beckstraat,42,,
-9077SJ,Mathijs Beckstraat,38,,
-9077SJ,Mathijs Beckstraat,36,,
-9077SJ,Mathijs Beckstraat,34,,
-9077SJ,Mathijs Beckstraat,32,,
-9077SJ,Mathijs Beckstraat,30,,
-9077SZ,Netaris Brungerstraat,16,,
-9077SZ,Netaris Brungerstraat,14,,
-9077SZ,Netaris Brungerstraat,12,,
-9077SZ,Netaris Brungerstraat,11,,
-9077SZ,Netaris Brungerstraat,10,,
-9077SZ,Netaris Brungerstraat,9,,
-9077SZ,Netaris Brungerstraat,8,,
-9077SZ,Netaris Brungerstraat,7,,
-9077SZ,Netaris Brungerstraat,6,,
-9077SZ,Netaris Brungerstraat,5,,
-9077SZ,Netaris Brungerstraat,4,,
-9077SZ,Netaris Brungerstraat,3,,
-9077SZ,Netaris Brungerstraat,2,,
-9077SZ,Netaris Brungerstraat,1,,
-9077SC,Ouwe Griepstraat,20,,
-9077SC,Ouwe Griepstraat,18,,
-9077SC,Ouwe Griepstraat,16,,
-9077SC,Ouwe Griepstraat,14,,
-9077SC,Ouwe Griepstraat,12,,
-9077SC,Ouwe Griepstraat,10,,
-9077SC,Ouwe Griepstraat,8,,
-9077SC,Ouwe Griepstraat,7,,
-9077SC,Ouwe Griepstraat,6,,
-9077SC,Ouwe Griepstraat,5,,
-9077SC,Ouwe Griepstraat,4,,
-9077SC,Ouwe Griepstraat,3,,
-9077SC,Ouwe Griepstraat,2,,
-9077SC,Ouwe Griepstraat,1,,
-9077SW,Vrouwbuurtstermolen,22,,
-9077SW,Vrouwbuurtstermolen,20,,
-9077SW,Vrouwbuurtstermolen,18,,
-9077SW,Vrouwbuurtstermolen,17,,
-9077SW,Vrouwbuurtstermolen,16,,
-9077SW,Vrouwbuurtstermolen,14,,
-9077SW,Vrouwbuurtstermolen,12,,
-9077SW,Vrouwbuurtstermolen,9,,
-9077SW,Vrouwbuurtstermolen,8,,
-9077SW,Vrouwbuurtstermolen,5,,
-9077SW,Vrouwbuurtstermolen,3,,
-9077SW,Vrouwbuurtstermolen,2,,
-9077SW,Vrouwbuurtstermolen,1,,
-9077SW,Vrouwbuurtstermolen,17,,
-9077SW,Vrouwbuurtstermolen,6,,
-9077SN,Waling Dykstrastraat,32,,
-9077SN,Waling Dykstrastraat,30,,
-9077SN,Waling Dykstrastraat,20,,
-9077SN,Waling Dykstrastraat,18,,
-9077SN,Waling Dykstrastraat,17,,
-9077SN,Waling Dykstrastraat,16,,
-9077SN,Waling Dykstrastraat,14,,
-9077SN,Waling Dykstrastraat,12,,
-9077SN,Waling Dykstrastraat,11,,
-9077SN,Waling Dykstrastraat,10,,
-9077SN,Waling Dykstrastraat,9,,
-9077SN,Waling Dykstrastraat,7,,
-9077SN,Waling Dykstrastraat,4,,
-9077SN,Waling Dykstrastraat,3,,
-9077SN,Waling Dykstrastraat,2,,
-9077SP,Waling Dykstrastraat,57,,
-9077SP,Waling Dykstrastraat,55,,
-9077SP,Waling Dykstrastraat,53,,
-9077SP,Waling Dykstrastraat,51,,
-9077SP,Waling Dykstrastraat,49,,
-9077SP,Waling Dykstrastraat,48,,
-9077SP,Waling Dykstrastraat,46,,
-9077SP,Waling Dykstrastraat,45,,
-9077SP,Waling Dykstrastraat,44,,
-9077SP,Waling Dykstrastraat,43,,
-9077SP,Waling Dykstrastraat,43,A,
-9077SP,Waling Dykstrastraat,42,,
-9077SP,Waling Dykstrastraat,40,,
-9077SP,Waling Dykstrastraat,39,,
-9077SP,Waling Dykstrastraat,38,,
-9077SP,Waling Dykstrastraat,37,,
-9077SP,Waling Dykstrastraat,35,,
-9077SP,Waling Dykstrastraat,33,,
-9077SP,Waling Dykstrastraat,31,,
-9077SP,Waling Dykstrastraat,29,,
-9077SP,Waling Dykstrastraat,25,,
-9077SP,Waling Dykstrastraat,23,,
-9077SP,Waling Dykstrastraat,21,,
-9077SP,Waling Dykstrastraat,51,A,
-9077SP,Waling Dykstrastraat,51,,
-9077SR,Waling Dykstrastraat,88,,
-9077SR,Waling Dykstrastraat,86,,
-9077SR,Waling Dykstrastraat,78,,
-9077SR,Waling Dykstrastraat,77,,
-9077SR,Waling Dykstrastraat,73,,
-9077SR,Waling Dykstrastraat,72,,
-9077SR,Waling Dykstrastraat,71,,
-9077SR,Waling Dykstrastraat,70,,
-9077SR,Waling Dykstrastraat,69,,
-9077SR,Waling Dykstrastraat,68,,
-9077SR,Waling Dykstrastraat,67,,
-9077SR,Waling Dykstrastraat,66,,
-9077SR,Waling Dykstrastraat,65,,
-9077SR,Waling Dykstrastraat,64,,
-9077SR,Waling Dykstrastraat,62,,
-9077SR,Waling Dykstrastraat,61,,
-9077SR,Waling Dykstrastraat,60,,
-9077SR,Waling Dykstrastraat,59,,
-9077SR,Waling Dykstrastraat,58,,
-9077SR,Waling Dykstrastraat,56,,
-9077SR,Waling Dykstrastraat,54,,
-9077SR,Waling Dykstrastraat,78,A,
-9077SR,Waling Dykstrastraat,78,B,
-9077SR,Waling Dykstrastraat,78,C,
-9077SR,Waling Dykstrastraat,78,D,
-9077SR,Waling Dykstrastraat,78,E,
-9077SR,Waling Dykstrastraat,78,F,
-9077SR,Waling Dykstrastraat,78,G,
-9077ST,Waling Dykstrastraat,91,,
-9077ST,Waling Dykstrastraat,89,,
-9077ST,Waling Dykstrastraat,81,,
-9077ST,Waling Dykstrastraat,123,,
-9077ST,Waling Dykstrastraat,121,,
-9077ST,Waling Dykstrastraat,119,,
-9077ST,Waling Dykstrastraat,115,,
-9077ST,Waling Dykstrastraat,113,,
-9077ST,Waling Dykstrastraat,111,,
-9077ST,Waling Dykstrastraat,109,,
-9077ST,Waling Dykstrastraat,107,,
-9077ST,Waling Dykstrastraat,105,,
-9077ST,Waling Dykstrastraat,101,,
-9077ST,Waling Dykstrastraat,99,,
-9077ST,Waling Dykstrastraat,97,A,
-9077ST,Waling Dykstrastraat,97,B,
-9077ST,Waling Dykstrastraat,97,C,
-9077ST,Waling Dykstrastraat,97,,
-9077ST,Waling Dykstrastraat,95,,
-9077ST,Waling Dykstrastraat,93,,
-9077RB,Steertster,3,,
-9077RB,Steertster,1,,
-9077RC,'t eerste Môrn,20,,
-9077RC,'t eerste Môrn,18,,
-9077RC,'t eerste Môrn,16,,
-9077RC,'t eerste Môrn,14,,
-9077RC,'t eerste Môrn,12,,
-9077RC,'t eerste Môrn,10,,
-9077RC,'t eerste Môrn,8,,
-9077RC,'t eerste Môrn,6,,
-9077RC,'t eerste Môrn,5,,
-9077RC,'t eerste Môrn,4,,
-9077RC,'t eerste Môrn,3,,
-9077RC,'t eerste Môrn,2,,
-9077RC,'t eerste Môrn,1,,
-9077PL,Attesweg,26,,
-9077PL,Attesweg,21,,
-9077PL,Attesweg,18,B,
-9077PL,Attesweg,18,A,
-9077PL,Attesweg,18,,
-9077PL,Attesweg,17,A,
-9077PL,Attesweg,17,,
-9077PL,Attesweg,16,,
-9077PL,Attesweg,15,,
-9077PL,Attesweg,14,,
-9077PL,Attesweg,13,,
-9077PL,Attesweg,11,,
-9077PL,Attesweg,8,,
-9077PL,Attesweg,6,,
-9077PL,Attesweg,4,,
-9077PL,Attesweg,2,,
-9077SB,Middelweg-Oost,36,,
-9077SB,Middelweg-Oost,35,,
-9077SB,Middelweg-Oost,34,,
-9077SB,Middelweg-Oost,33,,
-9077SB,Middelweg-Oost,31,,
-9077SB,Middelweg-Oost,30,,
-9077SB,Middelweg-Oost,30,A,
-9077PM,Hamerenweg,11,A,
-9077SH,Mathijs Beckstraat,6,,
-9077SH,Mathijs Beckstraat,8,,
-9077SN,Waling Dykstrastraat,4,,
-9077SN,Waling Dykstrastraat,4,A,
-9077SN,Waling Dykstrastraat,6,,
-9077SN,Waling Dykstrastraat,8,,
-9077SP,Waling Dykstrastraat,53,,
-9077RC,'t eerste Môrn,7,,
-9077PL,Attesweg,22,,
-9077PL,Attesweg,20,,
-9077PL,Attesweg,24,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Attesweg,11,"","",9077PL,Vrouwenparochie
+Attesweg,13,"","",9077PL,Vrouwenparochie
+Attesweg,14,"","",9077PL,Vrouwenparochie
+Attesweg,15,"","",9077PL,Vrouwenparochie
+Attesweg,16,"","",9077PL,Vrouwenparochie
+Attesweg,17,"","",9077PL,Vrouwenparochie
+Attesweg,17,A,"",9077PL,Vrouwenparochie
+Attesweg,18,"","",9077PL,Vrouwenparochie
+Attesweg,18,A,"",9077PL,Vrouwenparochie
+Attesweg,18,B,"",9077PL,Vrouwenparochie
+Attesweg,2,"","",9077PL,Vrouwenparochie
+Attesweg,21,"","",9077PL,Vrouwenparochie
+Attesweg,26,"","",9077PL,Vrouwenparochie
+Attesweg,4,"","",9077PL,Vrouwenparochie
+Attesweg,6,"","",9077PL,Vrouwenparochie
+Attesweg,8,"","",9077PL,Vrouwenparochie
+Hamerenweg,10,"","",9077PM,Vrouwenparochie
+Hamerenweg,11,"","",9077PM,Vrouwenparochie
+Hamerenweg,12,"","",9077PM,Vrouwenparochie
+Hamerenweg,13,"","",9077PM,Vrouwenparochie
+Hamerenweg,14,"","",9077PM,Vrouwenparochie
+Hamerenweg,15,"","",9077PM,Vrouwenparochie
+Hamerenweg,17,"","",9077PM,Vrouwenparochie
+Hamerenweg,21,"","",9077PM,Vrouwenparochie
+Hamerenweg,23,"","",9077PM,Vrouwenparochie
+Hamerenweg,27,"","",9077PM,Vrouwenparochie
+Hamerenweg,9,"","",9077PM,Vrouwenparochie
+Klaine-Izakstraat,1,"","",9077RA,Vrouwenparochie
+Klaine-Izakstraat,3,"","",9077RA,Vrouwenparochie
+Steertster,1,"","",9077RB,Vrouwenparochie
+Steertster,3,"","",9077RB,Vrouwenparochie
+'t eerste Môrn,1,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,10,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,12,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,14,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,16,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,18,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,2,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,20,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,3,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,4,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,5,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,6,"","",9077RC,Vrouwenparochie
+'t eerste Môrn,8,"","",9077RC,Vrouwenparochie
+Middelweg-Oost,30,"","",9077SB,Vrouwenparochie
+Middelweg-Oost,30,A,"",9077SB,Vrouwenparochie
+Middelweg-Oost,30,A,"",9077SB,Vrouwenparochie
+Middelweg-Oost,31,"","",9077SB,Vrouwenparochie
+Middelweg-Oost,33,"","",9077SB,Vrouwenparochie
+Middelweg-Oost,34,"","",9077SB,Vrouwenparochie
+Middelweg-Oost,35,"","",9077SB,Vrouwenparochie
+Middelweg-Oost,36,"","",9077SB,Vrouwenparochie
+Ouwe Griepstraat,1,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,10,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,12,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,14,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,16,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,18,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,2,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,20,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,3,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,4,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,5,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,6,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,7,"","",9077SC,Vrouwenparochie
+Ouwe Griepstraat,8,"","",9077SC,Vrouwenparochie
+Mathijs Beckstraat,1,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,11,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,13,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,15,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,17,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,17,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,17,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,19,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,19,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,19,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,21,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,21,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,21,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,23,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,23,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,23,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,25,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,25,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,27,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,27,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,29,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,3,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,31,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,5,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,7,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,9,"","",9077SE,Vrouwenparochie
+Mathijs Beckstraat,33,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,35,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,37,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,39,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,41,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,43,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,45,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,47,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,49,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,51,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,53,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,55,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,57,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,61,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,63,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,65,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,67,"","",9077SG,Vrouwenparochie
+Mathijs Beckstraat,10,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,12,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,14,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,16,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,18,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,2,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,2,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,2,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,20,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,22,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,24,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,26,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,28,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,4,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,4,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,4,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,6,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,6,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,8,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,8,"","",9077SH,Vrouwenparochie
+Mathijs Beckstraat,30,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,32,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,34,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,36,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,38,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,42,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,44,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,46,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,48,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,50,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,52,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,54,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,56,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,58,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,60,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,62,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,64,"","",9077SJ,Vrouwenparochie
+Mathijs Beckstraat,66,"","",9077SJ,Vrouwenparochie
+J.P. van der Bildtstraat,10,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,11,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,12,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,13,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,14,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,15,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,16,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,17,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,18,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,19,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,2,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,20,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,21,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,22,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,23,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,25,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,27,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,29,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,3,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,4,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,5,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,6,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,7,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,8,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,9,"","",9077SK,Vrouwenparochie
+J.P. van der Bildtstraat,34,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,36,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,38,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,40,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,42,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,44,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,46,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,60,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,62,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,64,"","",9077SL,Vrouwenparochie
+J.P. van der Bildtstraat,66,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,68,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,70,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,74,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,76,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,78,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,80,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,82,"","",9077SM,Vrouwenparochie
+J.P. van der Bildtstraat,84,"","",9077SM,Vrouwenparochie
+Waling Dykstrastraat,10,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,11,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,12,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,14,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,16,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,17,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,18,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,2,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,20,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,3,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,30,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,32,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,4,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,4,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,7,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,9,"","",9077SN,Vrouwenparochie
+Waling Dykstrastraat,21,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,23,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,25,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,29,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,31,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,33,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,35,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,37,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,38,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,39,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,40,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,42,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,43,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,43,A,"",9077SP,Vrouwenparochie
+Waling Dykstrastraat,44,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,45,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,46,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,48,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,49,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,51,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,51,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,51,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,51,A,"",9077SP,Vrouwenparochie
+Waling Dykstrastraat,53,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,53,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,55,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,57,"","",9077SP,Vrouwenparochie
+Waling Dykstrastraat,54,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,56,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,58,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,59,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,60,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,61,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,62,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,64,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,65,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,66,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,67,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,68,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,69,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,70,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,71,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,72,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,73,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,77,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,A,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,B,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,C,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,D,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,E,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,F,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,78,G,"",9077SR,Vrouwenparochie
+Waling Dykstrastraat,86,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,88,"","",9077SR,Vrouwenparochie
+Waling Dykstrastraat,101,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,105,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,107,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,109,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,111,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,113,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,115,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,119,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,121,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,123,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,81,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,89,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,91,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,93,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,95,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,97,"","",9077ST,Vrouwenparochie
+Waling Dykstrastraat,97,A,"",9077ST,Vrouwenparochie
+Waling Dykstrastraat,97,B,"",9077ST,Vrouwenparochie
+Waling Dykstrastraat,97,C,"",9077ST,Vrouwenparochie
+Waling Dykstrastraat,99,"","",9077ST,Vrouwenparochie
+Kerkplein,1,"","",9077SV,Vrouwenparochie
+Kerkplein,2,"","",9077SV,Vrouwenparochie
+Kerkplein,4,"","",9077SV,Vrouwenparochie
+Kerkplein,5,"","",9077SV,Vrouwenparochie
+Kerkplein,7,"","",9077SV,Vrouwenparochie
+Vrouwbuurtstermolen,1,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,12,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,14,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,16,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,17,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,17,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,18,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,2,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,20,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,22,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,3,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,5,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,6,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,8,"","",9077SW,Vrouwenparochie
+Vrouwbuurtstermolen,9,"","",9077SW,Vrouwenparochie
+Netaris Brungerstraat,1,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,10,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,11,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,12,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,14,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,16,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,2,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,3,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,4,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,5,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,6,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,7,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,8,"","",9077SZ,Vrouwenparochie
+Netaris Brungerstraat,9,"","",9077SZ,Vrouwenparochie

@@ -1,54 +1,54 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7009ZC,Boeninksteeg,16,B,
-7009ZC,Boeninksteeg,14,,
-7009ZC,Boeninksteeg,14,A,
-7009ZC,Boeninksteeg,14,B,
-7009ZC,Boeninksteeg,16,,
-7009ZB,Broekstraat,24,B,
-7009ZB,Broekstraat,10,B,
-7009ZB,Broekstraat,26,B,
-7009ZB,Broekstraat,8,,
-7009ZB,Broekstraat,10,,
-7009ZB,Broekstraat,10,A,
-7009ZB,Broekstraat,11,,
-7009ZB,Broekstraat,11,A,
-7009ZB,Broekstraat,12,,
-7009ZB,Broekstraat,13,,
-7009ZB,Broekstraat,14,,
-7009ZB,Broekstraat,15,,
-7009ZB,Broekstraat,16,,
-7009ZB,Broekstraat,18,,
-7009ZB,Broekstraat,22,,
-7009ZB,Broekstraat,24,,
-7009ZB,Broekstraat,26,,
-7009ZB,Broekstraat,26,A,
-7009ZB,Broekstraat,28,,
-7009ZE,Nieuw Steeg,7,,
-7009ZE,Nieuw Steeg,7,A,
-7009ZE,Nieuw Steeg,8,A,
-7009ZE,Nieuw Steeg,9,,
-7009ZE,Nieuw Steeg,10,,
-7009ZD,Wassinkbrinkweg,16,,
-7009ZB,Broekstraat,16,A,
-7009ZB,Broekstraat,20,,
-7009ZB,Broekstraat,24,A,
-7009ZC,Boeninksteeg,16,A,
-7009ZB,Broekstraat,17,,
-7009ZB,Broekstraat,22,A,
-7009ZB,Broekstraat,24,B,
-7009ZB,Broekstraat,24,C,
-7009ZB,Broekstraat,22,B,
-7009ZB,Broekstraat,24,A,01
-7009ZE,Nieuw Steeg,5,,
-7009ZE,Nieuw Steeg,8,,
-7009ZE,Nieuw Steeg,6,,
-7009ZE,Nieuw Steeg,8,B,
-7009ZE,Nieuw Steeg,6,A,
-7009ZE,Nieuw Steeg,6,,
-7009ZE,Nieuw Steeg,8,B,
-7009ZE,Nieuw Steeg,6,A,
-7009ZD,Wassinkbrinkweg,12,,
-7009ZD,Wassinkbrinkweg,18,,
-7009ZD,Wassinkbrinkweg,14,,
-7009ZC,Boeninksteeg,18,,
-7009ZC,Boeninksteeg,20,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Broekstraat,10,"","",7009ZB,Doetinchem
+Broekstraat,10,A,"",7009ZB,Doetinchem
+Broekstraat,10,B,"",7009ZB,Doetinchem
+Broekstraat,11,"","",7009ZB,Doetinchem
+Broekstraat,11,A,"",7009ZB,Doetinchem
+Broekstraat,12,"","",7009ZB,Doetinchem
+Broekstraat,13,"","",7009ZB,Doetinchem
+Broekstraat,14,"","",7009ZB,Doetinchem
+Broekstraat,15,"","",7009ZB,Doetinchem
+Broekstraat,16,"","",7009ZB,Doetinchem
+Broekstraat,16,A,"",7009ZB,Doetinchem
+Broekstraat,17,"","",7009ZB,Doetinchem
+Broekstraat,18,"","",7009ZB,Doetinchem
+Broekstraat,20,"","",7009ZB,Doetinchem
+Broekstraat,22,"","",7009ZB,Doetinchem
+Broekstraat,22,A,"",7009ZB,Doetinchem
+Broekstraat,22,B,"",7009ZB,Doetinchem
+Broekstraat,24,"","",7009ZB,Doetinchem
+Broekstraat,24,A,"",7009ZB,Doetinchem
+Broekstraat,24,A,01,7009ZB,Doetinchem
+Broekstraat,24,B,"",7009ZB,Doetinchem
+Broekstraat,24,B,"",7009ZB,Doetinchem
+Broekstraat,24,C,"",7009ZB,Doetinchem
+Broekstraat,26,"","",7009ZB,Doetinchem
+Broekstraat,26,A,"",7009ZB,Doetinchem
+Broekstraat,26,B,"",7009ZB,Doetinchem
+Broekstraat,28,"","",7009ZB,Doetinchem
+Broekstraat,8,"","",7009ZB,Doetinchem
+Boeninksteeg,14,"","",7009ZC,Doetinchem
+Boeninksteeg,14,A,"",7009ZC,Doetinchem
+Boeninksteeg,14,B,"",7009ZC,Doetinchem
+Boeninksteeg,16,"","",7009ZC,Doetinchem
+Boeninksteeg,16,A,"",7009ZC,Doetinchem
+Boeninksteeg,16,B,"",7009ZC,Doetinchem
+Boeninksteeg,18,"","",7009ZC,Doetinchem
+Boeninksteeg,20,"","",7009ZC,Doetinchem
+Wassinkbrinkweg,12,"","",7009ZD,Doetinchem
+Wassinkbrinkweg,14,"","",7009ZD,Doetinchem
+Wassinkbrinkweg,16,"","",7009ZD,Doetinchem
+Wassinkbrinkweg,18,"","",7009ZD,Doetinchem
+Nieuw Steeg,10,"","",7009ZE,Doetinchem
+Nieuw Steeg,5,"","",7009ZE,Doetinchem
+Nieuw Steeg,6,"","",7009ZE,Doetinchem
+Nieuw Steeg,6,"","",7009ZE,Doetinchem
+Nieuw Steeg,6,A,"",7009ZE,Doetinchem
+Nieuw Steeg,6,A,"",7009ZE,Doetinchem
+Nieuw Steeg,7,"","",7009ZE,Doetinchem
+Nieuw Steeg,7,A,"",7009ZE,Doetinchem
+Nieuw Steeg,8,"","",7009ZE,Doetinchem
+Nieuw Steeg,8,A,"",7009ZE,Doetinchem
+Nieuw Steeg,8,B,"",7009ZE,Doetinchem
+Nieuw Steeg,8,B,"",7009ZE,Doetinchem
+Nieuw Steeg,9,"","",7009ZE,Doetinchem

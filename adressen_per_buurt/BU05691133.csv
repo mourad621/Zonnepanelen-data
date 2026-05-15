@@ -1,19 +1,19 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2461NA,Nieuwveenseweg,103,,
-2461NA,Nieuwveenseweg,105,,
-2461NA,Nieuwveenseweg,107,,
-2461NC,Achttienkavelseweg,21,,
-2461NC,Achttienkavelseweg,22,,
-2461NA,Nieuwveenseweg,101,,
-2461NA,Nieuwveenseweg,105,A,
-2461NB,Zevenhovenseweg,10,,
-2461NB,Zevenhovenseweg,13,,
-2461NB,Zevenhovenseweg,15,,
-2461NB,Zevenhovenseweg,2,A,
-2461NB,Zevenhovenseweg,4,,
-2461NB,Zevenhovenseweg,8,,
-2461NB,Zevenhovenseweg,2,,
-2461NB,Zevenhovenseweg,2,B,
-2461NB,Zevenhovenseweg,13,A,
-2461NB,Zevenhovenseweg,4,,
-2461NB,Zevenhovenseweg,15,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuwveenseweg,101,"","",2461NA,Ter Aar
+Nieuwveenseweg,103,"","",2461NA,Ter Aar
+Nieuwveenseweg,105,"","",2461NA,Ter Aar
+Nieuwveenseweg,105,A,"",2461NA,Ter Aar
+Nieuwveenseweg,107,"","",2461NA,Ter Aar
+Zevenhovenseweg,10,"","",2461NB,Ter Aar
+Zevenhovenseweg,13,"","",2461NB,Ter Aar
+Zevenhovenseweg,13,A,"",2461NB,Ter Aar
+Zevenhovenseweg,15,"","",2461NB,Ter Aar
+Zevenhovenseweg,15,"","",2461NB,Ter Aar
+Zevenhovenseweg,2,"","",2461NB,Ter Aar
+Zevenhovenseweg,2,A,"",2461NB,Ter Aar
+Zevenhovenseweg,2,B,"",2461NB,Ter Aar
+Zevenhovenseweg,4,"","",2461NB,Ter Aar
+Zevenhovenseweg,4,"","",2461NB,Ter Aar
+Zevenhovenseweg,8,"","",2461NB,Ter Aar
+Achttienkavelseweg,21,"","",2461NC,Ter Aar
+Achttienkavelseweg,22,"","",2461NC,Ter Aar

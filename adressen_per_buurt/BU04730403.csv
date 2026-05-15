@@ -1,60 +1,60 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2042XD,Zandvoortselaan,19,a,
-2042BN,Ir G Friedhoffplein,1,,
-2042BN,Ir G Friedhoffplein,2,,
-2042BN,Ir G Friedhoffplein,3,,
-2042BN,Ir G Friedhoffplein,4,,
-2042BN,Ir G Friedhoffplein,5,,
-2042BN,Ir G Friedhoffplein,6,,
-2042BN,Ir G Friedhoffplein,7,,
-2042BN,Ir G Friedhoffplein,7,a,
-2042BN,Ir G Friedhoffplein,8,,
-2042BN,Ir G Friedhoffplein,9,,
-2042BN,Ir G Friedhoffplein,10,,
-2042BN,Ir G Friedhoffplein,11,,
-2042BN,Ir G Friedhoffplein,12,,
-2042BN,Ir G Friedhoffplein,13,,
-2042BN,Ir G Friedhoffplein,15,,
-2042XC,Zandvoortselaan,60,,
-2042XC,Zandvoortselaan,62,,
-2042XC,Zandvoortselaan,64,,
-2042XC,Zandvoortselaan,64,a,
-2042XC,Zandvoortselaan,66,,
-2042XC,Zandvoortselaan,68,,
-2042XC,Zandvoortselaan,78,,
-2042XC,Zandvoortselaan,80,,
-2042XC,Zandvoortselaan,86,,
-2042XC,Zandvoortselaan,110,,
-2042XC,Zandvoortselaan,126,,
-2042XC,Zandvoortselaan,130,,
-2042XC,Zandvoortselaan,130,a,
-2042XC,Zandvoortselaan,140,,
-2042XC,Zandvoortselaan,142,,
-2042XD,Zandvoortselaan,1,b,
-2042XD,Zandvoortselaan,1,,
-2042XD,Zandvoortselaan,160,,
-2042XD,Zandvoortselaan,1,a,
-2042XD,Zandvoortselaan,3,a,
-2042XD,Zandvoortselaan,155,a,
-2042XD,Zandvoortselaan,3,,
-2042XD,Zandvoortselaan,5,,
-2042XD,Zandvoortselaan,7,a,
-2042XD,Zandvoortselaan,7,,
-2042XD,Zandvoortselaan,9,c,
-2042XD,Zandvoortselaan,9,b,
-2042XD,Zandvoortselaan,9,d,
-2042XD,Zandvoortselaan,9,a,
-2042XD,Zandvoortselaan,9,f,
-2042XD,Zandvoortselaan,9,,
-2042XD,Zandvoortselaan,9,e,
-2042XD,Zandvoortselaan,11,,
-2042XD,Zandvoortselaan,13,,
-2042XD,Zandvoortselaan,15,,
-2042XD,Zandvoortselaan,17,,
-2042XD,Zandvoortselaan,19,b,
-2042XD,Zandvoortselaan,19,a,
-2042XD,Zandvoortselaan,19,,
-2042XD,Zandvoortselaan,21,,
-2042XD,Zandvoortselaan,23,a,
-2042XD,Zandvoortselaan,23,,
-2042XD,Zandvoortselaan,19,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ir G Friedhoffplein,1,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,10,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,11,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,12,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,13,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,15,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,2,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,3,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,4,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,5,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,6,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,7,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,7,A,"",2042BN,Zandvoort
+Ir G Friedhoffplein,8,"","",2042BN,Zandvoort
+Ir G Friedhoffplein,9,"","",2042BN,Zandvoort
+Zandvoortselaan,110,"","",2042XC,Zandvoort
+Zandvoortselaan,126,"","",2042XC,Zandvoort
+Zandvoortselaan,130,"","",2042XC,Zandvoort
+Zandvoortselaan,130,A,"",2042XC,Zandvoort
+Zandvoortselaan,140,"","",2042XC,Zandvoort
+Zandvoortselaan,142,"","",2042XC,Zandvoort
+Zandvoortselaan,60,"","",2042XC,Zandvoort
+Zandvoortselaan,62,"","",2042XC,Zandvoort
+Zandvoortselaan,64,"","",2042XC,Zandvoort
+Zandvoortselaan,64,A,"",2042XC,Zandvoort
+Zandvoortselaan,66,"","",2042XC,Zandvoort
+Zandvoortselaan,68,"","",2042XC,Zandvoort
+Zandvoortselaan,78,"","",2042XC,Zandvoort
+Zandvoortselaan,80,"","",2042XC,Zandvoort
+Zandvoortselaan,86,"","",2042XC,Zandvoort
+Zandvoortselaan,1,"","",2042XD,Zandvoort
+Zandvoortselaan,1,A,"",2042XD,Zandvoort
+Zandvoortselaan,1,B,"",2042XD,Zandvoort
+Zandvoortselaan,11,"","",2042XD,Zandvoort
+Zandvoortselaan,13,"","",2042XD,Zandvoort
+Zandvoortselaan,15,"","",2042XD,Zandvoort
+Zandvoortselaan,155,A,"",2042XD,Zandvoort
+Zandvoortselaan,160,"","",2042XD,Zandvoort
+Zandvoortselaan,17,"","",2042XD,Zandvoort
+Zandvoortselaan,19,"","",2042XD,Zandvoort
+Zandvoortselaan,19,A,"",2042XD,Zandvoort
+Zandvoortselaan,19,A,"",2042XD,Zandvoort
+Zandvoortselaan,19,A,"",2042XD,Zandvoort
+Zandvoortselaan,19,B,"",2042XD,Zandvoort
+Zandvoortselaan,21,"","",2042XD,Zandvoort
+Zandvoortselaan,23,"","",2042XD,Zandvoort
+Zandvoortselaan,23,A,"",2042XD,Zandvoort
+Zandvoortselaan,3,"","",2042XD,Zandvoort
+Zandvoortselaan,3,A,"",2042XD,Zandvoort
+Zandvoortselaan,5,"","",2042XD,Zandvoort
+Zandvoortselaan,7,"","",2042XD,Zandvoort
+Zandvoortselaan,7,A,"",2042XD,Zandvoort
+Zandvoortselaan,9,"","",2042XD,Zandvoort
+Zandvoortselaan,9,A,"",2042XD,Zandvoort
+Zandvoortselaan,9,B,"",2042XD,Zandvoort
+Zandvoortselaan,9,C,"",2042XD,Zandvoort
+Zandvoortselaan,9,D,"",2042XD,Zandvoort
+Zandvoortselaan,9,E,"",2042XD,Zandvoort
+Zandvoortselaan,9,F,"",2042XD,Zandvoort

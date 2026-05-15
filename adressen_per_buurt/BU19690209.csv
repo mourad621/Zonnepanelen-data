@@ -1,1197 +1,573 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9864PD",4,"",""
-"9864PD",22,"",""
-"9864PD",24,"",""
-"9864PD",32,"",""
-"9864PD",26,"",""
-"9864PD",16,"",""
-"9864PD",28,"",""
-"9864PD",4,"",""
-"9864PD",18,"",""
-"9864PD",20,"",""
-"9864PD",4,"",""
-"9864PD",10,"",""
-"9864PD",8,"A",""
-"9864PD",32,"A",""
-"9864PD",2,"",""
-"9864PD",8,"",""
-"9864PD",6,"",""
-"9864PD",34,"",""
-"9864PD",14,"",""
-"9864PD",12,"",""
-"9864PD",8,"A",""
-"9864TA",3,"",""
-"9864TA",5,"",""
-"9864TA",2,"A",""
-"9864TA",10,"",""
-"9864TA",4,"",""
-"9864TA",2,"",""
-"9864TA",7,"",""
-"9864TA",1,"B",""
-"9864TA",1,"",""
-"9864TA",1,"A",""
-"9864TA",6,"",""
-"9865AR",5,"",""
-"9865AR",3,"",""
-"9865AR",2,"",""
-"9865AR",4,"",""
-"9865AR",1,"",""
-"9865CA",16,"",""
-"9865CA",22,"",""
-"9865CA",24,"",""
-"9865CA",6,"",""
-"9865CA",2,"",""
-"9865CA",16,"",""
-"9865CA",20,"",""
-"9865CA",14,"",""
-"9865CA",26,"",""
-"9865CA",12,"",""
-"9865CA",16,"",""
-"9865CA",12,"",""
-"9865CA",8,"",""
-"9865CA",14,"",""
-"9865CA",4,"",""
-"9865CA",20,"",""
-"9865CA",14,"",""
-"9865CA",18,"",""
-"9865CA",10,"",""
-"9865CA",18,"",""
-"9865CB",2,"",""
-"9865CB",3,"",""
-"9865CB",4,"",""
-"9865CB",5,"",""
-"9865CB",1,"",""
-"9865CB",6,"",""
-"9865CB",7,"",""
-"9865CB",19,"",""
-"9865CB",21,"",""
-"9865CB",17,"",""
-"9865CB",13,"",""
-"9865CB",15,"",""
-"9865CB",11,"",""
-"9865CB",9,"",""
-"9865CC",5,"",""
-"9865CC",3,"",""
-"9865CC",2,"A",""
-"9865CC",15,"",""
-"9865CC",11,"",""
-"9865CC",2,"A",""
-"9865CC",2,"A",""
-"9865CC",2,"",""
-"9865CC",6,"",""
-"9865CC",4,"",""
-"9865CC",8,"",""
-"9865CC",7,"",""
-"9865CC",9,"",""
-"9865CC",1,"",""
-"9865CC",13,"",""
-"9865CD",1,"",""
-"9865CD",4,"",""
-"9865CD",2,"",""
-"9865CD",3,"",""
-"9865CE",2,"",""
-"9865CE",6,"",""
-"9865CE",3,"",""
-"9865CE",1,"",""
-"9865CE",4,"",""
-"9865CE",8,"",""
-"9865CG",5,"",""
-"9865CG",11,"",""
-"9865CG",3,"",""
-"9865CG",7,"",""
-"9865CG",7,"",""
-"9865CG",7,"",""
-"9865CG",9,"",""
-"9865CH",11,"",""
-"9865CH",22,"",""
-"9865CH",4,"",""
-"9865CH",18,"",""
-"9865CH",11,"",""
-"9865CH",2,"",""
-"9865CH",6,"",""
-"9865CH",5,"",""
-"9865CH",22,"",""
-"9865CH",20,"",""
-"9865CH",15,"",""
-"9865CH",24,"",""
-"9865CH",4,"",""
-"9865CH",8,"",""
-"9865CH",9,"",""
-"9865CH",13,"",""
-"9865CH",14,"",""
-"9865CH",4,"",""
-"9865CH",7,"",""
-"9865CH",5,"A",""
-"9865CH",10,"",""
-"9865CH",12,"",""
-"9865CH",20,"",""
-"9865CH",8,"",""
-"9865CH",9,"",""
-"9865CH",9,"",""
-"9865CH",22,"",""
-"9865CH",20,"",""
-"9865CH",8,"",""
-"9865CH",6,"",""
-"9865CH",6,"",""
-"9865CH",20,"",""
-"9865CH",16,"",""
-"9865VA",5,"",""
-"9865VA",19,"",""
-"9865VA",9,"",""
-"9865VA",13,"",""
-"9865VA",13,"A",""
-"9865VA",27,"",""
-"9865VA",3,"",""
-"9865VA",7,"",""
-"9865VA",7,"",""
-"9865VA",21,"",""
-"9865VA",25,"",""
-"9865VA",1,"",""
-"9865VA",1,"",""
-"9865VA",7,"A",""
-"9865VA",9,"",""
-"9865VA",25,"",""
-"9865VA",25,"",""
-"9865VA",13,"",""
-"9865VA",29,"",""
-"9865VA",23,"",""
-"9865VA",7,"A",""
-"9865VA",17,"",""
-"9865VB",43,"B",""
-"9865VB",55,"",""
-"9865VB",45,"",""
-"9865VB",43,"C",""
-"9865VB",53,"",""
-"9865VB",51,"",""
-"9865VB",47,"",""
-"9865VB",61,"",""
-"9865VB",33,"",""
-"9865VB",59,"",""
-"9865VB",37,"",""
-"9865VB",49,"",""
-"9865VB",43,"",""
-"9865VB",35,"",""
-"9865VB",59,"A",""
-"9865VB",43,"B",""
-"9865VB",43,"B",""
-"9865VB",41,"",""
-"9865VB",43,"C",""
-"9865VB",43,"A",""
-"9865VB",39,"",""
-"9865VB",43,"A",""
-"9865VB",43,"",""
-"9865VB",31,"",""
-"9865VC",2,"",""
-"9865VC",17,"",""
-"9865VC",5,"",""
-"9865VC",27,"",""
-"9865VC",29,"",""
-"9865VC",3,"",""
-"9865VC",14,"",""
-"9865VC",20,"",""
-"9865VC",20,"",""
-"9865VC",17,"",""
-"9865VC",4,"",""
-"9865VC",22,"",""
-"9865VC",17,"",""
-"9865VC",17,"",""
-"9865VC",17,"",""
-"9865VC",15,"",""
-"9865VC",20,"",""
-"9865VC",11,"",""
-"9865VC",17,"",""
-"9865VC",1,"",""
-"9865VD",11,"",""
-"9865VD",9,"",""
-"9865VD",6,"",""
-"9865VD",19,"",""
-"9865VD",31,"",""
-"9865VD",7,"",""
-"9865VD",27,"",""
-"9865VD",14,"",""
-"9865VD",8,"",""
-"9865VD",25,"",""
-"9865VD",16,"",""
-"9865VD",4,"",""
-"9865VD",10,"",""
-"9865VD",27,"",""
-"9865VD",18,"",""
-"9865VD",21,"",""
-"9865VD",3,"",""
-"9865VD",5,"",""
-"9865VD",1,"",""
-"9865VD",27,"",""
-"9865VD",15,"",""
-"9865VD",23,"",""
-"9865VD",17,"",""
-"9865VD",2,"",""
-"9865VD",29,"",""
-"9865VD",12,"",""
-"9865VD",13,"",""
-"9865VE",13,"",""
-"9865VE",11,"",""
-"9865VE",35,"",""
-"9865VE",23,"",""
-"9865VE",27,"",""
-"9865VE",17,"",""
-"9865VE",29,"",""
-"9865VE",33,"",""
-"9865VE",31,"",""
-"9865VE",37,"",""
-"9865VE",21,"",""
-"9865VE",39,"",""
-"9865VE",39,"",""
-"9865VE",19,"",""
-"9865VE",25,"",""
-"9865VE",15,"",""
-"9865VE",41,"",""
-"9865VE",39,"",""
-"9865VG",47,"",""
-"9865VG",45,"",""
-"9865VG",53,"",""
-"9865VG",75,"",""
-"9865VG",61,"",""
-"9865VG",51,"",""
-"9865VG",73,"",""
-"9865VG",57,"",""
-"9865VG",55,"",""
-"9865VG",49,"",""
-"9865VG",63,"",""
-"9865VG",69,"",""
-"9865VG",65,"",""
-"9865VG",79,"A",""
-"9865VG",71,"",""
-"9865VG",67,"",""
-"9865VG",79,"",""
-"9865VG",45,"",""
-"9865VG",77,"",""
-"9865VG",43,"",""
-"9865VH",18,"",""
-"9865VH",28,"",""
-"9865VH",32,"",""
-"9865VH",38,"",""
-"9865VH",36,"",""
-"9865VH",20,"",""
-"9865VH",24,"",""
-"9865VH",16,"",""
-"9865VH",22,"",""
-"9865VH",34,"",""
-"9865VH",26,"",""
-"9865VH",30,"",""
-"9865VJ",86,"",""
-"9865VJ",78,"A",""
-"9865VJ",70,"",""
-"9865VJ",68,"",""
-"9865VJ",78,"",""
-"9865VJ",98,"",""
-"9865VJ",44,"A",""
-"9865VJ",72,"",""
-"9865VJ",66,"",""
-"9865VJ",76,"",""
-"9865VJ",74,"",""
-"9865VJ",56,"",""
-"9865VJ",82,"",""
-"9865VJ",84,"",""
-"9865VJ",94,"",""
-"9865VJ",42,"",""
-"9865VJ",54,"",""
-"9865VJ",90,"",""
-"9865VJ",88,"",""
-"9865VJ",90,"",""
-"9865VJ",96,"",""
-"9865VJ",78,"A",""
-"9865VJ",80,"",""
-"9865VJ",64,"",""
-"9865VJ",92,"",""
-"9865VJ",40,"",""
-"9865VJ",44,"",""
-"9865VJ",50,"",""
-"9865VJ",90,"",""
-"9865VJ",58,"",""
-"9865VJ",48,"",""
-"9865VJ",60,"",""
-"9865VJ",98,"",""
-"9865VJ",62,"",""
-"9865VJ",90,"",""
-"9865VJ",64,"",""
-"9865VJ",64,"",""
-"9865VJ",46,"",""
-"9865VJ",52,"",""
-"9865VK",14,"",""
-"9865VK",12,"",""
-"9865VK",16,"",""
-"9865VK",9,"A",""
-"9865VK",1,"A",""
-"9865VK",8,"",""
-"9865VK",15,"",""
-"9865VK",7,"",""
-"9865VK",10,"",""
-"9865VK",16,"A",""
-"9865VK",18,"",""
-"9865VK",4,"",""
-"9865VK",11,"",""
-"9865VK",1,"",""
-"9865VK",9,"",""
-"9865VK",3,"",""
-"9865VK",2,"",""
-"9865VK",13,"",""
-"9865VK",2,"",""
-"9865VK",6,"",""
-"9865VK",4,"",""
-"9865VK",4,"",""
-"9865VL",2,"A",""
-"9865VL",2,"",""
-"9865VL",2,"B",""
-"9865VL",8,"",""
-"9865VL",4,"",""
-"9865VL",6,"",""
-"9865VL",2,"F",""
-"9865VL",2,"F",""
-"9865VL",2,"D",""
-"9865VL",2,"B",""
-"9865VL",2,"D",""
-"9865VL",1,"",""
-"9865VL",10,"",""
-"9865VL",2,"E",""
-"9865VL",12,"",""
-"9865VL",3,"",""
-"9865VL",2,"C",""
-"9865VL",2,"C",""
-"9865VL",2,"A",""
-"9865VL",2,"E",""
-"9865VM",15,"",""
-"9865VM",4,"",""
-"9865VM",6,"",""
-"9865VM",6,"",""
-"9865VM",6,"",""
-"9865VN",7,"",""
-"9865VN",11,"",""
-"9865VN",13,"",""
-"9865VN",9,"",""
-"9865VN",3,"",""
-"9865VN",25,"",""
-"9865VN",9,"A",""
-"9865VN",5,"",""
-"9865VN",5,"A",""
-"9865VN",23,"",""
-"9865VN",17,"",""
-"9865VN",15,"",""
-"9865VN",27,"",""
-"9865VN",21,"",""
-"9865VN",7,"A",""
-"9865VN",19,"",""
-"9865VN",1,"",""
-"9865VP",8,"",""
-"9865VP",18,"",""
-"9865VP",2,"A",""
-"9865VP",16,"",""
-"9865VP",6,"",""
-"9865VP",18,"",""
-"9865VP",2,"",""
-"9865VP",14,"",""
-"9865VP",10,"",""
-"9865VP",4,"",""
-"9865VP",12,"",""
-"9865VP",2,"B",""
-"9865VP",2,"C",""
-"9865VR",6,"A",""
-"9865VR",7,"",""
-"9865VR",6,"",""
-"9865VR",3,"A",""
-"9865VR",4,"",""
-"9865VR",5,"",""
-"9865VR",2,"",""
-"9865VR",1,"",""
-"9865VS",10,"",""
-"9865VS",3,"",""
-"9865VS",4,"",""
-"9865VS",5,"",""
-"9865VS",4,"",""
-"9865VS",11,"",""
-"9865VS",2,"",""
-"9865VS",3,"",""
-"9865VS",8,"",""
-"9865VS",7,"",""
-"9865VS",3,"",""
-"9865VS",6,"",""
-"9865VT",1,"B",""
-"9865VT",9,"",""
-"9865VT",7,"",""
-"9865VT",3,"",""
-"9865VT",11,"",""
-"9865VT",1,"",""
-"9865VT",17,"",""
-"9865VT",1,"A",""
-"9865VT",13,"",""
-"9865VT",5,"",""
-"9865VT",15,"",""
-"9865VV",4,"",""
-"9865VV",2,"",""
-"9865VV",1,"",""
-"9865VV",3,"",""
-"9865VW",8,"",""
-"9865VW",13,"",""
-"9865VW",7,"",""
-"9865VW",12,"",""
-"9865VW",10,"",""
-"9865VW",14,"",""
-"9865VW",4,"",""
-"9865VW",3,"",""
-"9865VW",15,"",""
-"9865VW",5,"",""
-"9865VW",11,"",""
-"9865VW",2,"",""
-"9865VW",9,"",""
-"9865VW",1,"",""
-"9865VW",6,"",""
-"9865VX",15,"",""
-"9865VX",13,"",""
-"9865VX",7,"",""
-"9865VX",17,"",""
-"9865VX",11,"",""
-"9865VX",9,"",""
-"9865VX",19,"A",""
-"9865VX",7,"A",""
-"9865VX",21,"B",""
-"9865VX",23,"",""
-"9865VX",1,"",""
-"9865VX",19,"",""
-"9865VX",21,"",""
-"9865VX",23,"",""
-"9865VX",25,"",""
-"9865VX",5,"",""
-"9865VX",21,"A",""
-"9865VX",21,"B",""
-"9865VX",23,"",""
-"9865VX",3,"",""
-"9865VZ",24,"",""
-"9865VZ",22,"",""
-"9865VZ",14,"",""
-"9865VZ",20,"",""
-"9865VZ",8,"A",""
-"9865VZ",8,"",""
-"9865VZ",6,"",""
-"9865VZ",24,"",""
-"9865VZ",24,"A",""
-"9865VZ",4,"",""
-"9865VZ",12,"",""
-"9865VZ",26,"A",""
-"9865VZ",10,"",""
-"9865VZ",24,"",""
-"9865VZ",18,"",""
-"9865VZ",24,"A",""
-"9865VZ",16,"",""
-"9865VZ",20,"A",""
-"9865VZ",20,"A",""
-"9865VZ",24,"A",""
-"9865VZ",26,"",""
-"9865VZ",24,"A",""
-"9865XA",9,"",""
-"9865XA",13,"",""
-"9865XA",7,"",""
-"9865XA",11,"",""
-"9865XA",5,"",""
-"9865XA",3,"",""
-"9865XA",1,"",""
-"9865XB",13,"",""
-"9865XB",19,"",""
-"9865XB",15,"",""
-"9865XB",9,"",""
-"9865XB",3,"",""
-"9865XB",5,"",""
-"9865XB",11,"",""
-"9865XB",7,"",""
-"9865XB",1,"",""
-"9865XB",21,"",""
-"9865XB",17,"",""
-"9865XC",6,"",""
-"9865XC",2,"",""
-"9865XC",4,"",""
-"9865XC",2,"",""
-"9865XC",24,"",""
-"9865XD",7,"",""
-"9865XD",1,"",""
-"9865XD",5,"A",""
-"9865XD",9,"",""
-"9865XD",3,"",""
-"9865XD",5,"",""
-"9865XE",18,"",""
-"9865XE",30,"",""
-"9865XE",32,"A",""
-"9865XE",20,"",""
-"9865XE",22,"",""
-"9865XE",14,"",""
-"9865XE",26,"A",""
-"9865XE",4,"",""
-"9865XE",32,"",""
-"9865XE",6,"",""
-"9865XE",16,"",""
-"9865XE",28,"",""
-"9865XE",10,"",""
-"9865XE",26,"A",""
-"9865XE",18,"A",""
-"9865XE",8,"",""
-"9865XE",12,"",""
-"9865XE",26,"",""
-"9865XE",26,"",""
-"9865XE",2,"",""
-"9865XE",24,"",""
-"9865XG",5,"",""
-"9865XG",13,"",""
-"9865XG",17,"",""
-"9865XG",7,"A",""
-"9865XG",3,"",""
-"9865XG",8,"",""
-"9865XG",10,"",""
-"9865XG",9,"",""
-"9865XG",2,"",""
-"9865XG",1,"",""
-"9865XG",4,"",""
-"9865XG",6,"",""
-"9865XG",16,"",""
-"9865XG",14,"",""
-"9865XG",7,"",""
-"9865XG",15,"",""
-"9865XG",7,"",""
-"9865XG",12,"",""
-"9865XG",18,"",""
-"9865XG",14,"A",""
-"9865XG",7,"",""
-"9865XH",1,"",""
-"9865XH",3,"",""
-"9865XH",2,"",""
-"9865XH",6,"A",""
-"9865XH",6,"",""
-"9865XJ",2,"",""
-"9865XJ",6,"",""
-"9865XJ",4,"",""
-"9865XJ",1,"",""
-"9865XJ",5,"",""
-"9865XJ",3,"",""
-"9865XJ",7,"",""
-"9865XJ",6,"",""
-"9865XJ",6,"",""
-9864PD,Provincialeweg,2,,
-9864PD,Provincialeweg,4,,
-9864PD,Provincialeweg,6,,
-9864PD,Provincialeweg,8,,
-9864PD,Provincialeweg,10,,
-9864PD,Provincialeweg,12,,
-9864PD,Provincialeweg,14,,
-9864PD,Provincialeweg,16,,
-9864PD,Provincialeweg,18,,
-9864PD,Provincialeweg,20,,
-9864PD,Provincialeweg,22,,
-9864PD,Provincialeweg,24,,
-9864PD,Provincialeweg,26,,
-9864PD,Provincialeweg,32,,
-9864PD,Provincialeweg,34,,
-9865VL,Bossingel,1,,
-9865VL,Bossingel,2,,
-9865VL,Bossingel,3,,
-9865VL,Bossingel,4,,
-9865VL,Bossingel,6,,
-9865VL,Bossingel,8,,
-9865VL,Bossingel,10,,
-9865VL,Bossingel,12,,
-9865VL,Bossingel,2,A,
-9865VL,Bossingel,2,F,
-9865VL,Bossingel,2,B,
-9865VL,Bossingel,2,E,
-9865VL,Bossingel,2,C,
-9865VL,Bossingel,2,D,
-9865VL,Bossingel,2,D,
-9865VL,Bossingel,2,C,
-9865VL,Bossingel,2,E,
-9865VL,Bossingel,2,B,
-9865VL,Bossingel,2,F,
-9865VL,Bossingel,2,A,
-9865XB,Bosweg,1,,
-9865XB,Bosweg,3,,
-9865XB,Bosweg,5,,
-9865XB,Bosweg,7,,
-9865XB,Bosweg,9,,
-9865XB,Bosweg,11,,
-9865XB,Bosweg,13,,
-9865XB,Bosweg,15,,
-9865XB,Bosweg,17,,
-9865XB,Bosweg,19,,
-9865XB,Bosweg,21,,
-9865XC,Bosweg,2,,
-9865XC,Bosweg,4,,
-9865XC,Bosweg,6,,
-9865XC,Bosweg,24,,
-9865XH,Broersma's reed,1,,
-9865XH,Broersma's reed,2,,
-9865XH,Broersma's reed,3,,
-9865XH,Broersma's reed,6,,
-9865XH,Broersma's reed,6,A,
-9865VW,De Oude Trambaan,7,,
-9865VW,De Oude Trambaan,1,,
-9865VW,De Oude Trambaan,2,,
-9865VW,De Oude Trambaan,3,,
-9865VW,De Oude Trambaan,4,,
-9865VW,De Oude Trambaan,5,,
-9865VW,De Oude Trambaan,6,,
-9865VW,De Oude Trambaan,10,,
-9865VW,De Oude Trambaan,9,,
-9865VW,De Oude Trambaan,8,,
-9865VW,De Oude Trambaan,11,,
-9865VW,De Oude Trambaan,12,,
-9865VW,De Oude Trambaan,13,,
-9865VW,De Oude Trambaan,14,,
-9865VW,De Oude Trambaan,15,,
-9865VC,De Wending,3,,
-9865VC,De Wending,2,,
-9865VC,De Wending,5,,
-9865VC,De Wending,17,,
-9865VC,De Wending,17,,
-9865VC,De Wending,20,,
-9865VC,De Wending,15,,
-9865VC,De Wending,1,,
-9865VC,De Wending,17,,
-9865VC,De Wending,20,,
-9865VC,De Wending,22,,
-9865VC,De Wending,29,,
-9865VC,De Wending,27,,
-9865VC,De Wending,14,,
-9865VC,De Wending,4,,
-9865VC,De Wending,11,,
-9865VC,De Wending,17,,
-9864TA,de Wit's reed,1,A,
-9864TA,de Wit's reed,1,,
-9864TA,de Wit's reed,2,A,
-9864TA,de Wit's reed,2,,
-9864TA,de Wit's reed,3,,
-9864TA,de Wit's reed,4,,
-9864TA,de Wit's reed,5,,
-9864TA,de Wit's reed,6,,
-9864TA,de Wit's reed,7,,
-9864TA,de Wit's reed,10,,
-9864TA,de Wit's reed,1,B,
-9865VE,Drachtsterweg,11,,
-9865VE,Drachtsterweg,13,,
-9865VE,Drachtsterweg,15,,
-9865VE,Drachtsterweg,17,,
-9865VE,Drachtsterweg,23,,
-9865VE,Drachtsterweg,39,,
-9865VE,Drachtsterweg,41,,
-9865VE,Drachtsterweg,25,,
-9865VE,Drachtsterweg,27,,
-9865VE,Drachtsterweg,29,,
-9865VE,Drachtsterweg,31,,
-9865VE,Drachtsterweg,33,,
-9865VE,Drachtsterweg,35,,
-9865VE,Drachtsterweg,37,,
-9865VE,Drachtsterweg,19,,
-9865VE,Drachtsterweg,21,,
-9865VE,Drachtsterweg,39,,
-9865VG,Drachtsterweg,43,,
-9865VG,Drachtsterweg,45,,
-9865VG,Drachtsterweg,45,,
-9865VG,Drachtsterweg,47,,
-9865VG,Drachtsterweg,49,,
-9865VG,Drachtsterweg,51,,
-9865VG,Drachtsterweg,53,,
-9865VG,Drachtsterweg,55,,
-9865VG,Drachtsterweg,57,,
-9865VG,Drachtsterweg,61,,
-9865VG,Drachtsterweg,63,,
-9865VG,Drachtsterweg,65,,
-9865VG,Drachtsterweg,67,,
-9865VG,Drachtsterweg,69,,
-9865VG,Drachtsterweg,71,,
-9865VG,Drachtsterweg,73,,
-9865VG,Drachtsterweg,75,,
-9865VG,Drachtsterweg,77,,
-9865VG,Drachtsterweg,79,,
-9865VG,Drachtsterweg,79,A,
-9865VH,Drachtsterweg,20,,
-9865VH,Drachtsterweg,22,,
-9865VH,Drachtsterweg,24,,
-9865VH,Drachtsterweg,26,,
-9865VH,Drachtsterweg,28,,
-9865VH,Drachtsterweg,32,,
-9865VH,Drachtsterweg,34,,
-9865VH,Drachtsterweg,36,,
-9865VH,Drachtsterweg,38,,
-9865VH,Drachtsterweg,16,,
-9865VH,Drachtsterweg,30,,
-9865VH,Drachtsterweg,18,,
-9865VJ,Drachtsterweg,40,,
-9865VJ,Drachtsterweg,42,,
-9865VJ,Drachtsterweg,44,,
-9865VJ,Drachtsterweg,58,,
-9865VJ,Drachtsterweg,60,,
-9865VJ,Drachtsterweg,62,,
-9865VJ,Drachtsterweg,64,,
-9865VJ,Drachtsterweg,68,,
-9865VJ,Drachtsterweg,70,,
-9865VJ,Drachtsterweg,72,,
-9865VJ,Drachtsterweg,74,,
-9865VJ,Drachtsterweg,76,,
-9865VJ,Drachtsterweg,78,,
-9865VJ,Drachtsterweg,80,,
-9865VJ,Drachtsterweg,82,,
-9865VJ,Drachtsterweg,84,,
-9865VJ,Drachtsterweg,86,,
-9865VJ,Drachtsterweg,88,,
-9865VJ,Drachtsterweg,90,,
-9865VJ,Drachtsterweg,92,,
-9865VJ,Drachtsterweg,94,,
-9865VJ,Drachtsterweg,96,,
-9865VJ,Drachtsterweg,98,,
-9865VJ,Drachtsterweg,46,,
-9865VJ,Drachtsterweg,48,,
-9865VJ,Drachtsterweg,56,,
-9865VJ,Drachtsterweg,66,,
-9865VJ,Drachtsterweg,50,,
-9865VJ,Drachtsterweg,52,,
-9865VJ,Drachtsterweg,54,,
-9865VJ,Drachtsterweg,44,A,
-9865VJ,Drachtsterweg,78,A,
-9865VJ,Drachtsterweg,64,,
-9865VJ,Drachtsterweg,90,,
-9865VJ,Drachtsterweg,90,,
-9865CC,Fossemastraat,1,,
-9865CC,Fossemastraat,3,,
-9865CC,Fossemastraat,5,,
-9865CC,Fossemastraat,7,,
-9865CC,Fossemastraat,9,,
-9865CC,Fossemastraat,11,,
-9865CC,Fossemastraat,13,,
-9865CC,Fossemastraat,15,,
-9865CC,Fossemastraat,4,,
-9865CC,Fossemastraat,6,,
-9865CC,Fossemastraat,8,,
-9865CC,Fossemastraat,2,A,
-9865CC,Fossemastraat,2,A,
-9865CC,Fossemastraat,2,,
-9865CA,Gaykemastraat,10,,
-9865CA,Gaykemastraat,2,,
-9865CA,Gaykemastraat,4,,
-9865CA,Gaykemastraat,6,,
-9865CA,Gaykemastraat,8,,
-9865CA,Gaykemastraat,14,,
-9865CA,Gaykemastraat,16,,
-9865CA,Gaykemastraat,18,,
-9865CA,Gaykemastraat,20,,
-9865CA,Gaykemastraat,22,,
-9865CA,Gaykemastraat,24,,
-9865CA,Gaykemastraat,12,,
-9865CA,Gaykemastraat,12,,
-9865CA,Gaykemastraat,26,,
-9865CA,Gaykemastraat,14,,
-9865CA,Gaykemastraat,16,,
-9865CD,Iwemastraat,1,,
-9865CD,Iwemastraat,2,,
-9865CD,Iwemastraat,4,,
-9865CD,Iwemastraat,3,,
-9865CB,Jelsmastraat,1,,
-9865CB,Jelsmastraat,17,,
-9865CB,Jelsmastraat,15,,
-9865CB,Jelsmastraat,13,,
-9865CB,Jelsmastraat,11,,
-9865CB,Jelsmastraat,3,,
-9865CB,Jelsmastraat,9,,
-9865CB,Jelsmastraat,7,,
-9865CB,Jelsmastraat,5,,
-9865CB,Jelsmastraat,2,,
-9865CB,Jelsmastraat,4,,
-9865CB,Jelsmastraat,19,,
-9865CB,Jelsmastraat,6,,
-9865CB,Jelsmastraat,21,,
-9865VM,Julianabuurt,4,,
-9865VM,Julianabuurt,6,,
-9865VM,Julianabuurt,15,,
-9865VM,Julianabuurt,6,,
-9865VX,Kolonieweg,1,,
-9865VX,Kolonieweg,3,,
-9865VX,Kolonieweg,5,,
-9865VX,Kolonieweg,7,,
-9865VX,Kolonieweg,9,,
-9865VX,Kolonieweg,11,,
-9865VX,Kolonieweg,13,,
-9865VX,Kolonieweg,15,,
-9865VX,Kolonieweg,17,,
-9865VX,Kolonieweg,19,,
-9865VX,Kolonieweg,21,,
-9865VX,Kolonieweg,23,,
-9865VX,Kolonieweg,25,,
-9865VX,Kolonieweg,7,A,
-9865VX,Kolonieweg,19,A,
-9865VX,Kolonieweg,21,B,
-9865VX,Kolonieweg,21,A,
-9865VX,Kolonieweg,23,,
-9865VZ,Kolonieweg,4,,
-9865VZ,Kolonieweg,6,,
-9865VZ,Kolonieweg,8,A,
-9865VZ,Kolonieweg,8,,
-9865VZ,Kolonieweg,10,,
-9865VZ,Kolonieweg,12,,
-9865VZ,Kolonieweg,14,,
-9865VZ,Kolonieweg,16,,
-9865VZ,Kolonieweg,20,,
-9865VZ,Kolonieweg,22,,
-9865VZ,Kolonieweg,24,,
-9865VZ,Kolonieweg,26,,
-9865VZ,Kolonieweg,26,A,
-9865VZ,Kolonieweg,18,,
-9865VZ,Kolonieweg,20,A,
-9865VZ,Kolonieweg,24,A,
-9865VZ,Kolonieweg,24,A,
-9865VZ,Kolonieweg,24,,
-9865VT,Leidijk,1,,
-9865VT,Leidijk,1,A,
-9865VT,Leidijk,3,,
-9865VT,Leidijk,5,,
-9865VT,Leidijk,7,,
-9865VT,Leidijk,11,,
-9865VT,Leidijk,13,,
-9865VT,Leidijk,15,,
-9865VT,Leidijk,17,,
-9865VT,Leidijk,9,,
-9865VT,Leidijk,1,B,
-9865VS,Leidijkreed,2,,
-9865VS,Leidijkreed,3,,
-9865VS,Leidijkreed,4,,
-9865VS,Leidijkreed,5,,
-9865VS,Leidijkreed,6,,
-9865VS,Leidijkreed,7,,
-9865VS,Leidijkreed,8,,
-9865VS,Leidijkreed,10,,
-9865VS,Leidijkreed,11,,
-9865VS,Leidijkreed,3,,
-9865XA,Ontginningsweg,1,,
-9865XA,Ontginningsweg,3,,
-9865XA,Ontginningsweg,5,,
-9865XA,Ontginningsweg,7,,
-9865XA,Ontginningsweg,9,,
-9865XA,Ontginningsweg,11,,
-9865XA,Ontginningsweg,13,,
-9865XD,Openderweg,1,,
-9865XD,Openderweg,3,,
-9865XD,Openderweg,5,,
-9865XD,Openderweg,5,A,
-9865XD,Openderweg,7,,
-9865XD,Openderweg,9,,
-9865XE,Openderweg,2,,
-9865XE,Openderweg,4,,
-9865XE,Openderweg,6,,
-9865XE,Openderweg,8,,
-9865XE,Openderweg,10,,
-9865XE,Openderweg,12,,
-9865XE,Openderweg,14,,
-9865XE,Openderweg,16,,
-9865XE,Openderweg,18,,
-9865XE,Openderweg,22,,
-9865XE,Openderweg,24,,
-9865XE,Openderweg,26,,
-9865XE,Openderweg,28,,
-9865XE,Openderweg,30,,
-9865XE,Openderweg,32,,
-9865XE,Openderweg,20,,
-9865XE,Openderweg,18,A,
-9865XE,Openderweg,32,A,
-9865XE,Openderweg,26,,
-9865XE,Openderweg,26,A,
-9865XE,Openderweg,26,A,
-9865XJ,Oude Dijk,1,,
-9865XJ,Oude Dijk,2,,
-9865XJ,Oude Dijk,3,,
-9865XJ,Oude Dijk,4,,
-9865XJ,Oude Dijk,5,,
-9865XJ,Oude Dijk,6,,
-9865XJ,Oude Dijk,7,,
-9865XJ,Oude Dijk,6,,
-9865VR,Parksterdwarsweg,1,,
-9865VR,Parksterdwarsweg,2,,
-9865VR,Parksterdwarsweg,4,,
-9865VR,Parksterdwarsweg,5,,
-9865VR,Parksterdwarsweg,6,,
-9865VR,Parksterdwarsweg,7,,
-9865VR,Parksterdwarsweg,6,A,
-9865VR,Parksterdwarsweg,3,A,
-9865VN,Parkweg,1,,
-9865VN,Parkweg,3,,
-9865VN,Parkweg,5,A,
-9865VN,Parkweg,5,,
-9865VN,Parkweg,7,,
-9865VN,Parkweg,7,A,
-9865VN,Parkweg,9,,
-9865VN,Parkweg,9,A,
-9865VN,Parkweg,11,,
-9865VN,Parkweg,13,,
-9865VN,Parkweg,15,,
-9865VN,Parkweg,17,,
-9865VN,Parkweg,19,,
-9865VN,Parkweg,21,,
-9865VN,Parkweg,23,,
-9865VN,Parkweg,25,,
-9865VN,Parkweg,27,,
-9865VP,Parkweg,2,B,
-9865VP,Parkweg,4,,
-9865VP,Parkweg,8,,
-9865VP,Parkweg,10,,
-9865VP,Parkweg,12,,
-9865VP,Parkweg,14,,
-9865VP,Parkweg,16,,
-9865VP,Parkweg,18,,
-9865VP,Parkweg,2,A,
-9865VP,Parkweg,6,,
-9865VP,Parkweg,2,,
-9865VP,Parkweg,2,C,
-9865VP,Parkweg,18,,
-9865VK,Poelbuurt,1,,
-9865VK,Poelbuurt,1,A,
-9865VK,Poelbuurt,2,,
-9865VK,Poelbuurt,3,,
-9865VK,Poelbuurt,4,,
-9865VK,Poelbuurt,6,,
-9865VK,Poelbuurt,7,,
-9865VK,Poelbuurt,8,,
-9865VK,Poelbuurt,9,,
-9865VK,Poelbuurt,9,A,
-9865VK,Poelbuurt,10,,
-9865VK,Poelbuurt,11,,
-9865VK,Poelbuurt,12,,
-9865VK,Poelbuurt,13,,
-9865VK,Poelbuurt,14,,
-9865VK,Poelbuurt,15,,
-9865VK,Poelbuurt,16,,
-9865VK,Poelbuurt,18,,
-9865VK,Poelbuurt,16,A,
-9865VK,Poelbuurt,4,,
-9865VV,Postdijk,1,,
-9865VV,Postdijk,2,,
-9865VV,Postdijk,3,,
-9865VV,Postdijk,4,,
-9864PD,Provincialeweg,28,,
-9864PD,Provincialeweg,8,A,
-9864PD,Provincialeweg,32,A,
-9864PD,Provincialeweg,4,,
-9865VA,Scheiding,1,,
-9865VA,Scheiding,3,,
-9865VA,Scheiding,5,,
-9865VA,Scheiding,7,,
-9865VA,Scheiding,9,,
-9865VA,Scheiding,13,,
-9865VA,Scheiding,17,,
-9865VA,Scheiding,19,,
-9865VA,Scheiding,21,,
-9865VA,Scheiding,23,,
-9865VA,Scheiding,25,,
-9865VA,Scheiding,25,,
-9865VA,Scheiding,27,,
-9865VA,Scheiding,29,,
-9865VA,Scheiding,13,A,
-9865VA,Scheiding,7,A,
-9865VB,Scheiding,31,,
-9865VB,Scheiding,33,,
-9865VB,Scheiding,35,,
-9865VB,Scheiding,37,,
-9865VB,Scheiding,39,,
-9865VB,Scheiding,41,,
-9865VB,Scheiding,43,,
-9865VB,Scheiding,43,A,
-9865VB,Scheiding,45,,
-9865VB,Scheiding,49,,
-9865VB,Scheiding,51,,
-9865VB,Scheiding,53,,
-9865VB,Scheiding,55,,
-9865VB,Scheiding,59,,
-9865VB,Scheiding,61,,
-9865VB,Scheiding,59,A,
-9865VB,Scheiding,43,C,
-9865VB,Scheiding,43,B,
-9865VB,Scheiding,47,,
-9865VB,Scheiding,43,B,
-9865VD,Topweer,2,,
-9865VD,Topweer,4,,
-9865VD,Topweer,6,,
-9865VD,Topweer,8,,
-9865VD,Topweer,10,,
-9865VD,Topweer,12,,
-9865VD,Topweer,14,,
-9865VD,Topweer,16,,
-9865VD,Topweer,18,,
-9865VD,Topweer,17,,
-9865VD,Topweer,15,,
-9865VD,Topweer,13,,
-9865VD,Topweer,11,,
-9865VD,Topweer,9,,
-9865VD,Topweer,7,,
-9865VD,Topweer,5,,
-9865VD,Topweer,3,,
-9865VD,Topweer,1,,
-9865VD,Topweer,25,,
-9865VD,Topweer,23,,
-9865VD,Topweer,27,,
-9865VD,Topweer,19,,
-9865VD,Topweer,21,,
-9865VD,Topweer,29,,
-9865VD,Topweer,31,,
-9865VD,Topweer,27,,
-9865AR,Zuiderdwarsreed,1,,
-9865AR,Zuiderdwarsreed,2,,
-9865AR,Zuiderdwarsreed,3,,
-9865AR,Zuiderdwarsreed,4,,
-9865AR,Zuiderdwarsreed,5,,
-9865XG,Zuiderweg,1,,
-9865XG,Zuiderweg,2,,
-9865XG,Zuiderweg,3,,
-9865XG,Zuiderweg,4,,
-9865XG,Zuiderweg,5,,
-9865XG,Zuiderweg,6,,
-9865XG,Zuiderweg,7,,
-9865XG,Zuiderweg,8,,
-9865XG,Zuiderweg,9,,
-9865XG,Zuiderweg,12,,
-9865XG,Zuiderweg,13,,
-9865XG,Zuiderweg,14,,
-9865XG,Zuiderweg,15,,
-9865XG,Zuiderweg,16,,
-9865XG,Zuiderweg,17,,
-9865XG,Zuiderweg,18,,
-9865XG,Zuiderweg,14,A,
-9865XG,Zuiderweg,7,A,
-9865XG,Zuiderweg,10,,
-9865XG,Zuiderweg,7,,
-9865CE,Westerstraat,8,,
-9865CE,Westerstraat,4,,
-9865CE,Westerstraat,2,,
-9865CE,Westerstraat,1,,
-9865CE,Westerstraat,6,,
-9865CE,Westerstraat,3,,
-9865CG,Hemkesstraat,3,,
-9865CG,Hemkesstraat,9,,
-9865CG,Hemkesstraat,5,,
-9865CG,Hemkesstraat,7,,
-9865CG,Hemkesstraat,11,,
-9865CG,Hemkesstraat,7,,
-9865CH,Tiengastraat,9,,
-9865CH,Tiengastraat,9,,
-9865CH,Tiengastraat,11,,
-9865CH,Tiengastraat,11,,
-9865CH,Tiengastraat,16,,
-9865CH,Tiengastraat,18,,
-9865CH,Tiengastraat,20,,
-9865CH,Tiengastraat,22,,
-9865CH,Tiengastraat,7,,
-9865CH,Tiengastraat,15,,
-9865CH,Tiengastraat,13,,
-9865CH,Tiengastraat,5,,
-9865CH,Tiengastraat,5,A,
-9865CH,Tiengastraat,4,,
-9865CH,Tiengastraat,6,,
-9865CH,Tiengastraat,8,,
-9865CH,Tiengastraat,10,,
-9865CH,Tiengastraat,12,,
-9865CH,Tiengastraat,14,,
-9865CH,Tiengastraat,4,,
-9865CH,Tiengastraat,6,,
-9865CH,Tiengastraat,8,,
-9865CH,Tiengastraat,24,,
-9865CH,Tiengastraat,2,,
-9865CH,Tiengastraat,20,,
-9865CH,Tiengastraat,20,,
-9865CH,Tiengastraat,22,,
-9865XC,Bosweg,2,,
-9865VC,De Wending,19,,
-9865VC,De Wending,25,,
-9865VC,De Wending,21,,
-9865VC,De Wending,6,,
-9865VC,De Wending,6,,
-9865VC,De Wending,6,A,
-9865VC,De Wending,6,A,
-9865VC,De Wending,6,B,
-9865VC,De Wending,6,B,
-9865VC,De Wending,6,C,
-9865VC,De Wending,6,C,
-9865VC,De Wending,8,,
-9865VC,De Wending,8,,
-9865VC,De Wending,8,A,
-9865VC,De Wending,8,A,
-9865VC,De Wending,8,B,
-9865VC,De Wending,8,B,
-9865VC,De Wending,10,,
-9865VC,De Wending,10,,
-9865VC,De Wending,10,B,
-9865VC,De Wending,10,B,
-9865VC,De Wending,10,C,
-9865VC,De Wending,10,C,
-9865VC,De Wending,10,D,
-9865VC,De Wending,10,D,
-9865VC,De Wending,6,D,
-9865VC,De Wending,10,A,
-9865VC,De Wending,10,F,
-9865VC,De Wending,10,G,
-9865VC,De Wending,10,E,
-9865VC,De Wending,6,B,
-9865VC,De Wending,6,D,
-9865VC,De Wending,6,E,
-9865VC,De Wending,6,F,
-9865VC,De Wending,6,G,
-9865VC,De Wending,6,H,
-9865VC,De Wending,8,,
-9865VC,De Wending,8,A,
-9865VC,De Wending,8,B,
-9865VC,De Wending,8,D,
-9865VC,De Wending,10,B,
-9865VC,De Wending,10,D,
-9865VC,De Wending,10,F,
-9865VC,De Wending,10,J,
-9865VC,De Wending,10,L,
-9865VC,De Wending,10,N,
-9865VC,De Wending,12,,
-9865VC,De Wending,12,A,
-9865VC,De Wending,12,B,
-9865VC,De Wending,12,C,
-9865VC,De Wending,12,D,
-9865VC,De Wending,12,E,
-9865VC,De Wending,7,,
-9865VC,De Wending,12,,
-9865VC,De Wending,12,A,
-9865VC,De Wending,12,B,
-9865VC,De Wending,12,C,
-9865VC,De Wending,12,D,
-9865VC,De Wending,12,E,
-9865VC,De Wending,12,F,
-9865VC,De Wending,12,H,
-9865VC,De Wending,12,K,
-9864TA,de Wit's reed,2,B,
-9864TA,de Wit's reed,2,D,
-9864TA,de Wit's reed,2,C,
-9865VE,Drachtsterweg,23,C,
-9865VE,Drachtsterweg,23,B,
-9865VE,Drachtsterweg,23,A,
-9865VE,Drachtsterweg,23,,
-9865VH,Drachtsterweg,28,A,
-9865VH,Drachtsterweg,28,B,
-9865VH,Drachtsterweg,28,C,
-9865VH,Drachtsterweg,28,D,
-9865VJ,Drachtsterweg,98,,
-9865VJ,Drachtsterweg,92,A,
-9865VJ,Drachtsterweg,64,A,
-9865VS,Leidijkreed,4,,
-9865VS,Leidijkreed,5,,
-9865XA,Ontginningsweg,13,,
-9865VK,Poelbuurt,2,A,
-9865VK,Poelbuurt,2,,
-9865VK,Poelbuurt,7,A,
-9864PD,Provincialeweg,8,A,
-9865VA,Scheiding,13,,
-9865VA,Scheiding,9,,
-9865VA,Scheiding,9,,
-9865VA,Scheiding,7,,
-9865VA,Scheiding,7,A,
-9865VA,Scheiding,7,A,
-9865VA,Scheiding,25,A,
-9865VA,Scheiding,25,B,
-9865VB,Scheiding,43,,
-9865VB,Scheiding,43,,
-9865VB,Scheiding,43,A,
-9865VD,Topweer,2,,
-9865VD,Topweer,18,,
-9865CH,Tiengastraat,13,A,
-9865CH,Tiengastraat,14,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Provincialeweg,10,"","",9864PD,Kornhorn
+Provincialeweg,12,"","",9864PD,Kornhorn
+Provincialeweg,14,"","",9864PD,Kornhorn
+Provincialeweg,16,"","",9864PD,Kornhorn
+Provincialeweg,18,"","",9864PD,Kornhorn
+Provincialeweg,2,"","",9864PD,Kornhorn
+Provincialeweg,20,"","",9864PD,Kornhorn
+Provincialeweg,22,"","",9864PD,Kornhorn
+Provincialeweg,24,"","",9864PD,Kornhorn
+Provincialeweg,26,"","",9864PD,Kornhorn
+Provincialeweg,28,"","",9864PD,Kornhorn
+Provincialeweg,32,"","",9864PD,Kornhorn
+Provincialeweg,32,A,"",9864PD,Kornhorn
+Provincialeweg,34,"","",9864PD,Kornhorn
+Provincialeweg,4,"","",9864PD,Kornhorn
+Provincialeweg,4,"","",9864PD,Kornhorn
+Provincialeweg,4,"","",9864PD,Kornhorn
+Provincialeweg,6,"","",9864PD,Kornhorn
+Provincialeweg,8,"","",9864PD,Kornhorn
+Provincialeweg,8,A,"",9864PD,Kornhorn
+Provincialeweg,8,A,"",9864PD,Kornhorn
+de Wit's reed,1,"","",9864TA,Kornhorn
+de Wit's reed,1,A,"",9864TA,Kornhorn
+de Wit's reed,1,B,"",9864TA,Kornhorn
+de Wit's reed,10,"","",9864TA,Kornhorn
+de Wit's reed,2,"","",9864TA,Kornhorn
+de Wit's reed,2,A,"",9864TA,Kornhorn
+de Wit's reed,3,"","",9864TA,Kornhorn
+de Wit's reed,4,"","",9864TA,Kornhorn
+de Wit's reed,5,"","",9864TA,Kornhorn
+de Wit's reed,6,"","",9864TA,Kornhorn
+de Wit's reed,7,"","",9864TA,Kornhorn
+Zuiderdwarsreed,1,"","",9865AR,Opende
+Zuiderdwarsreed,2,"","",9865AR,Opende
+Zuiderdwarsreed,3,"","",9865AR,Opende
+Zuiderdwarsreed,4,"","",9865AR,Opende
+Zuiderdwarsreed,5,"","",9865AR,Opende
+Gaykemastraat,10,"","",9865CA,Opende
+Gaykemastraat,12,"","",9865CA,Opende
+Gaykemastraat,12,"","",9865CA,Opende
+Gaykemastraat,14,"","",9865CA,Opende
+Gaykemastraat,14,"","",9865CA,Opende
+Gaykemastraat,14,"","",9865CA,Opende
+Gaykemastraat,16,"","",9865CA,Opende
+Gaykemastraat,16,"","",9865CA,Opende
+Gaykemastraat,16,"","",9865CA,Opende
+Gaykemastraat,18,"","",9865CA,Opende
+Gaykemastraat,18,"","",9865CA,Opende
+Gaykemastraat,2,"","",9865CA,Opende
+Gaykemastraat,20,"","",9865CA,Opende
+Gaykemastraat,20,"","",9865CA,Opende
+Gaykemastraat,22,"","",9865CA,Opende
+Gaykemastraat,24,"","",9865CA,Opende
+Gaykemastraat,26,"","",9865CA,Opende
+Gaykemastraat,4,"","",9865CA,Opende
+Gaykemastraat,6,"","",9865CA,Opende
+Gaykemastraat,8,"","",9865CA,Opende
+Jelsmastraat,1,"","",9865CB,Opende
+Jelsmastraat,11,"","",9865CB,Opende
+Jelsmastraat,13,"","",9865CB,Opende
+Jelsmastraat,15,"","",9865CB,Opende
+Jelsmastraat,17,"","",9865CB,Opende
+Jelsmastraat,19,"","",9865CB,Opende
+Jelsmastraat,2,"","",9865CB,Opende
+Jelsmastraat,21,"","",9865CB,Opende
+Jelsmastraat,3,"","",9865CB,Opende
+Jelsmastraat,4,"","",9865CB,Opende
+Jelsmastraat,5,"","",9865CB,Opende
+Jelsmastraat,6,"","",9865CB,Opende
+Jelsmastraat,7,"","",9865CB,Opende
+Jelsmastraat,9,"","",9865CB,Opende
+Fossemastraat,1,"","",9865CC,Opende
+Fossemastraat,11,"","",9865CC,Opende
+Fossemastraat,13,"","",9865CC,Opende
+Fossemastraat,15,"","",9865CC,Opende
+Fossemastraat,2,"","",9865CC,Opende
+Fossemastraat,2,A,"",9865CC,Opende
+Fossemastraat,2,A,"",9865CC,Opende
+Fossemastraat,2,A,"",9865CC,Opende
+Fossemastraat,3,"","",9865CC,Opende
+Fossemastraat,4,"","",9865CC,Opende
+Fossemastraat,5,"","",9865CC,Opende
+Fossemastraat,6,"","",9865CC,Opende
+Fossemastraat,7,"","",9865CC,Opende
+Fossemastraat,8,"","",9865CC,Opende
+Fossemastraat,9,"","",9865CC,Opende
+Iwemastraat,1,"","",9865CD,Opende
+Iwemastraat,2,"","",9865CD,Opende
+Iwemastraat,3,"","",9865CD,Opende
+Iwemastraat,4,"","",9865CD,Opende
+Westerstraat,1,"","",9865CE,Opende
+Westerstraat,2,"","",9865CE,Opende
+Westerstraat,3,"","",9865CE,Opende
+Westerstraat,4,"","",9865CE,Opende
+Westerstraat,6,"","",9865CE,Opende
+Westerstraat,8,"","",9865CE,Opende
+Hemkesstraat,11,"","",9865CG,Opende
+Hemkesstraat,3,"","",9865CG,Opende
+Hemkesstraat,5,"","",9865CG,Opende
+Hemkesstraat,7,"","",9865CG,Opende
+Hemkesstraat,7,"","",9865CG,Opende
+Hemkesstraat,7,"","",9865CG,Opende
+Hemkesstraat,9,"","",9865CG,Opende
+Tiengastraat,10,"","",9865CH,Opende
+Tiengastraat,11,"","",9865CH,Opende
+Tiengastraat,11,"","",9865CH,Opende
+Tiengastraat,12,"","",9865CH,Opende
+Tiengastraat,13,"","",9865CH,Opende
+Tiengastraat,14,"","",9865CH,Opende
+Tiengastraat,15,"","",9865CH,Opende
+Tiengastraat,16,"","",9865CH,Opende
+Tiengastraat,18,"","",9865CH,Opende
+Tiengastraat,2,"","",9865CH,Opende
+Tiengastraat,20,"","",9865CH,Opende
+Tiengastraat,20,"","",9865CH,Opende
+Tiengastraat,20,"","",9865CH,Opende
+Tiengastraat,20,"","",9865CH,Opende
+Tiengastraat,22,"","",9865CH,Opende
+Tiengastraat,22,"","",9865CH,Opende
+Tiengastraat,22,"","",9865CH,Opende
+Tiengastraat,24,"","",9865CH,Opende
+Tiengastraat,4,"","",9865CH,Opende
+Tiengastraat,4,"","",9865CH,Opende
+Tiengastraat,4,"","",9865CH,Opende
+Tiengastraat,5,"","",9865CH,Opende
+Tiengastraat,5,A,"",9865CH,Opende
+Tiengastraat,6,"","",9865CH,Opende
+Tiengastraat,6,"","",9865CH,Opende
+Tiengastraat,6,"","",9865CH,Opende
+Tiengastraat,7,"","",9865CH,Opende
+Tiengastraat,8,"","",9865CH,Opende
+Tiengastraat,8,"","",9865CH,Opende
+Tiengastraat,8,"","",9865CH,Opende
+Tiengastraat,9,"","",9865CH,Opende
+Tiengastraat,9,"","",9865CH,Opende
+Tiengastraat,9,"","",9865CH,Opende
+Scheiding,1,"","",9865VA,Opende
+Scheiding,1,"","",9865VA,Opende
+Scheiding,13,"","",9865VA,Opende
+Scheiding,13,"","",9865VA,Opende
+Scheiding,13,A,"",9865VA,Opende
+Scheiding,17,"","",9865VA,Opende
+Scheiding,19,"","",9865VA,Opende
+Scheiding,21,"","",9865VA,Opende
+Scheiding,23,"","",9865VA,Opende
+Scheiding,25,"","",9865VA,Opende
+Scheiding,25,"","",9865VA,Opende
+Scheiding,25,"","",9865VA,Opende
+Scheiding,27,"","",9865VA,Opende
+Scheiding,29,"","",9865VA,Opende
+Scheiding,3,"","",9865VA,Opende
+Scheiding,5,"","",9865VA,Opende
+Scheiding,7,"","",9865VA,Opende
+Scheiding,7,"","",9865VA,Opende
+Scheiding,7,A,"",9865VA,Opende
+Scheiding,7,A,"",9865VA,Opende
+Scheiding,9,"","",9865VA,Opende
+Scheiding,9,"","",9865VA,Opende
+Scheiding,31,"","",9865VB,Opende
+Scheiding,33,"","",9865VB,Opende
+Scheiding,35,"","",9865VB,Opende
+Scheiding,37,"","",9865VB,Opende
+Scheiding,39,"","",9865VB,Opende
+Scheiding,41,"","",9865VB,Opende
+Scheiding,43,"","",9865VB,Opende
+Scheiding,43,"","",9865VB,Opende
+Scheiding,43,A,"",9865VB,Opende
+Scheiding,43,A,"",9865VB,Opende
+Scheiding,43,B,"",9865VB,Opende
+Scheiding,43,B,"",9865VB,Opende
+Scheiding,43,B,"",9865VB,Opende
+Scheiding,43,C,"",9865VB,Opende
+Scheiding,43,C,"",9865VB,Opende
+Scheiding,45,"","",9865VB,Opende
+Scheiding,47,"","",9865VB,Opende
+Scheiding,49,"","",9865VB,Opende
+Scheiding,51,"","",9865VB,Opende
+Scheiding,53,"","",9865VB,Opende
+Scheiding,55,"","",9865VB,Opende
+Scheiding,59,"","",9865VB,Opende
+Scheiding,59,A,"",9865VB,Opende
+Scheiding,61,"","",9865VB,Opende
+De Wending,1,"","",9865VC,Opende
+De Wending,11,"","",9865VC,Opende
+De Wending,14,"","",9865VC,Opende
+De Wending,15,"","",9865VC,Opende
+De Wending,17,"","",9865VC,Opende
+De Wending,17,"","",9865VC,Opende
+De Wending,17,"","",9865VC,Opende
+De Wending,17,"","",9865VC,Opende
+De Wending,17,"","",9865VC,Opende
+De Wending,17,"","",9865VC,Opende
+De Wending,2,"","",9865VC,Opende
+De Wending,20,"","",9865VC,Opende
+De Wending,20,"","",9865VC,Opende
+De Wending,20,"","",9865VC,Opende
+De Wending,22,"","",9865VC,Opende
+De Wending,27,"","",9865VC,Opende
+De Wending,29,"","",9865VC,Opende
+De Wending,3,"","",9865VC,Opende
+De Wending,4,"","",9865VC,Opende
+De Wending,5,"","",9865VC,Opende
+Topweer,1,"","",9865VD,Opende
+Topweer,10,"","",9865VD,Opende
+Topweer,11,"","",9865VD,Opende
+Topweer,12,"","",9865VD,Opende
+Topweer,13,"","",9865VD,Opende
+Topweer,14,"","",9865VD,Opende
+Topweer,15,"","",9865VD,Opende
+Topweer,16,"","",9865VD,Opende
+Topweer,17,"","",9865VD,Opende
+Topweer,18,"","",9865VD,Opende
+Topweer,19,"","",9865VD,Opende
+Topweer,2,"","",9865VD,Opende
+Topweer,21,"","",9865VD,Opende
+Topweer,23,"","",9865VD,Opende
+Topweer,25,"","",9865VD,Opende
+Topweer,27,"","",9865VD,Opende
+Topweer,27,"","",9865VD,Opende
+Topweer,27,"","",9865VD,Opende
+Topweer,29,"","",9865VD,Opende
+Topweer,3,"","",9865VD,Opende
+Topweer,31,"","",9865VD,Opende
+Topweer,4,"","",9865VD,Opende
+Topweer,5,"","",9865VD,Opende
+Topweer,6,"","",9865VD,Opende
+Topweer,7,"","",9865VD,Opende
+Topweer,8,"","",9865VD,Opende
+Topweer,9,"","",9865VD,Opende
+Drachtsterweg,11,"","",9865VE,Opende
+Drachtsterweg,13,"","",9865VE,Opende
+Drachtsterweg,15,"","",9865VE,Opende
+Drachtsterweg,17,"","",9865VE,Opende
+Drachtsterweg,19,"","",9865VE,Opende
+Drachtsterweg,21,"","",9865VE,Opende
+Drachtsterweg,23,"","",9865VE,Opende
+Drachtsterweg,25,"","",9865VE,Opende
+Drachtsterweg,27,"","",9865VE,Opende
+Drachtsterweg,29,"","",9865VE,Opende
+Drachtsterweg,31,"","",9865VE,Opende
+Drachtsterweg,33,"","",9865VE,Opende
+Drachtsterweg,35,"","",9865VE,Opende
+Drachtsterweg,37,"","",9865VE,Opende
+Drachtsterweg,39,"","",9865VE,Opende
+Drachtsterweg,39,"","",9865VE,Opende
+Drachtsterweg,39,"","",9865VE,Opende
+Drachtsterweg,41,"","",9865VE,Opende
+Drachtsterweg,43,"","",9865VG,Opende
+Drachtsterweg,45,"","",9865VG,Opende
+Drachtsterweg,45,"","",9865VG,Opende
+Drachtsterweg,47,"","",9865VG,Opende
+Drachtsterweg,49,"","",9865VG,Opende
+Drachtsterweg,51,"","",9865VG,Opende
+Drachtsterweg,53,"","",9865VG,Opende
+Drachtsterweg,55,"","",9865VG,Opende
+Drachtsterweg,57,"","",9865VG,Opende
+Drachtsterweg,61,"","",9865VG,Opende
+Drachtsterweg,63,"","",9865VG,Opende
+Drachtsterweg,65,"","",9865VG,Opende
+Drachtsterweg,67,"","",9865VG,Opende
+Drachtsterweg,69,"","",9865VG,Opende
+Drachtsterweg,71,"","",9865VG,Opende
+Drachtsterweg,73,"","",9865VG,Opende
+Drachtsterweg,75,"","",9865VG,Opende
+Drachtsterweg,77,"","",9865VG,Opende
+Drachtsterweg,79,"","",9865VG,Opende
+Drachtsterweg,79,A,"",9865VG,Opende
+Drachtsterweg,16,"","",9865VH,Opende
+Drachtsterweg,18,"","",9865VH,Opende
+Drachtsterweg,20,"","",9865VH,Opende
+Drachtsterweg,22,"","",9865VH,Opende
+Drachtsterweg,24,"","",9865VH,Opende
+Drachtsterweg,26,"","",9865VH,Opende
+Drachtsterweg,28,"","",9865VH,Opende
+Drachtsterweg,30,"","",9865VH,Opende
+Drachtsterweg,32,"","",9865VH,Opende
+Drachtsterweg,34,"","",9865VH,Opende
+Drachtsterweg,36,"","",9865VH,Opende
+Drachtsterweg,38,"","",9865VH,Opende
+Drachtsterweg,40,"","",9865VJ,Opende
+Drachtsterweg,42,"","",9865VJ,Opende
+Drachtsterweg,44,"","",9865VJ,Opende
+Drachtsterweg,44,A,"",9865VJ,Opende
+Drachtsterweg,46,"","",9865VJ,Opende
+Drachtsterweg,48,"","",9865VJ,Opende
+Drachtsterweg,50,"","",9865VJ,Opende
+Drachtsterweg,52,"","",9865VJ,Opende
+Drachtsterweg,54,"","",9865VJ,Opende
+Drachtsterweg,56,"","",9865VJ,Opende
+Drachtsterweg,58,"","",9865VJ,Opende
+Drachtsterweg,60,"","",9865VJ,Opende
+Drachtsterweg,62,"","",9865VJ,Opende
+Drachtsterweg,64,"","",9865VJ,Opende
+Drachtsterweg,64,"","",9865VJ,Opende
+Drachtsterweg,64,"","",9865VJ,Opende
+Drachtsterweg,66,"","",9865VJ,Opende
+Drachtsterweg,68,"","",9865VJ,Opende
+Drachtsterweg,70,"","",9865VJ,Opende
+Drachtsterweg,72,"","",9865VJ,Opende
+Drachtsterweg,74,"","",9865VJ,Opende
+Drachtsterweg,76,"","",9865VJ,Opende
+Drachtsterweg,78,"","",9865VJ,Opende
+Drachtsterweg,78,A,"",9865VJ,Opende
+Drachtsterweg,78,A,"",9865VJ,Opende
+Drachtsterweg,80,"","",9865VJ,Opende
+Drachtsterweg,82,"","",9865VJ,Opende
+Drachtsterweg,84,"","",9865VJ,Opende
+Drachtsterweg,86,"","",9865VJ,Opende
+Drachtsterweg,88,"","",9865VJ,Opende
+Drachtsterweg,90,"","",9865VJ,Opende
+Drachtsterweg,90,"","",9865VJ,Opende
+Drachtsterweg,90,"","",9865VJ,Opende
+Drachtsterweg,90,"","",9865VJ,Opende
+Drachtsterweg,92,"","",9865VJ,Opende
+Drachtsterweg,94,"","",9865VJ,Opende
+Drachtsterweg,96,"","",9865VJ,Opende
+Drachtsterweg,98,"","",9865VJ,Opende
+Drachtsterweg,98,"","",9865VJ,Opende
+Poelbuurt,1,"","",9865VK,Opende
+Poelbuurt,1,A,"",9865VK,Opende
+Poelbuurt,10,"","",9865VK,Opende
+Poelbuurt,11,"","",9865VK,Opende
+Poelbuurt,12,"","",9865VK,Opende
+Poelbuurt,13,"","",9865VK,Opende
+Poelbuurt,14,"","",9865VK,Opende
+Poelbuurt,15,"","",9865VK,Opende
+Poelbuurt,16,"","",9865VK,Opende
+Poelbuurt,16,A,"",9865VK,Opende
+Poelbuurt,18,"","",9865VK,Opende
+Poelbuurt,2,"","",9865VK,Opende
+Poelbuurt,2,"","",9865VK,Opende
+Poelbuurt,3,"","",9865VK,Opende
+Poelbuurt,4,"","",9865VK,Opende
+Poelbuurt,4,"","",9865VK,Opende
+Poelbuurt,4,"","",9865VK,Opende
+Poelbuurt,6,"","",9865VK,Opende
+Poelbuurt,7,"","",9865VK,Opende
+Poelbuurt,8,"","",9865VK,Opende
+Poelbuurt,9,"","",9865VK,Opende
+Poelbuurt,9,A,"",9865VK,Opende
+Bossingel,1,"","",9865VL,Opende
+Bossingel,10,"","",9865VL,Opende
+Bossingel,12,"","",9865VL,Opende
+Bossingel,2,"","",9865VL,Opende
+Bossingel,2,A,"",9865VL,Opende
+Bossingel,2,A,"",9865VL,Opende
+Bossingel,2,B,"",9865VL,Opende
+Bossingel,2,B,"",9865VL,Opende
+Bossingel,2,C,"",9865VL,Opende
+Bossingel,2,C,"",9865VL,Opende
+Bossingel,2,D,"",9865VL,Opende
+Bossingel,2,D,"",9865VL,Opende
+Bossingel,2,E,"",9865VL,Opende
+Bossingel,2,E,"",9865VL,Opende
+Bossingel,2,F,"",9865VL,Opende
+Bossingel,2,F,"",9865VL,Opende
+Bossingel,3,"","",9865VL,Opende
+Bossingel,4,"","",9865VL,Opende
+Bossingel,6,"","",9865VL,Opende
+Bossingel,8,"","",9865VL,Opende
+Julianabuurt,15,"","",9865VM,Opende
+Julianabuurt,4,"","",9865VM,Opende
+Julianabuurt,6,"","",9865VM,Opende
+Julianabuurt,6,"","",9865VM,Opende
+Julianabuurt,6,"","",9865VM,Opende
+Parkweg,1,"","",9865VN,Opende
+Parkweg,11,"","",9865VN,Opende
+Parkweg,13,"","",9865VN,Opende
+Parkweg,15,"","",9865VN,Opende
+Parkweg,17,"","",9865VN,Opende
+Parkweg,19,"","",9865VN,Opende
+Parkweg,21,"","",9865VN,Opende
+Parkweg,23,"","",9865VN,Opende
+Parkweg,25,"","",9865VN,Opende
+Parkweg,27,"","",9865VN,Opende
+Parkweg,3,"","",9865VN,Opende
+Parkweg,5,"","",9865VN,Opende
+Parkweg,5,A,"",9865VN,Opende
+Parkweg,7,"","",9865VN,Opende
+Parkweg,7,A,"",9865VN,Opende
+Parkweg,9,"","",9865VN,Opende
+Parkweg,9,A,"",9865VN,Opende
+Parkweg,10,"","",9865VP,Opende
+Parkweg,12,"","",9865VP,Opende
+Parkweg,14,"","",9865VP,Opende
+Parkweg,16,"","",9865VP,Opende
+Parkweg,18,"","",9865VP,Opende
+Parkweg,18,"","",9865VP,Opende
+Parkweg,2,"","",9865VP,Opende
+Parkweg,2,A,"",9865VP,Opende
+Parkweg,2,B,"",9865VP,Opende
+Parkweg,2,C,"",9865VP,Opende
+Parkweg,4,"","",9865VP,Opende
+Parkweg,6,"","",9865VP,Opende
+Parkweg,8,"","",9865VP,Opende
+Parksterdwarsweg,1,"","",9865VR,Opende
+Parksterdwarsweg,2,"","",9865VR,Opende
+Parksterdwarsweg,3,A,"",9865VR,Opende
+Parksterdwarsweg,4,"","",9865VR,Opende
+Parksterdwarsweg,5,"","",9865VR,Opende
+Parksterdwarsweg,6,"","",9865VR,Opende
+Parksterdwarsweg,6,A,"",9865VR,Opende
+Parksterdwarsweg,7,"","",9865VR,Opende
+Leidijkreed,10,"","",9865VS,Opende
+Leidijkreed,11,"","",9865VS,Opende
+Leidijkreed,2,"","",9865VS,Opende
+Leidijkreed,3,"","",9865VS,Opende
+Leidijkreed,3,"","",9865VS,Opende
+Leidijkreed,3,"","",9865VS,Opende
+Leidijkreed,4,"","",9865VS,Opende
+Leidijkreed,4,"","",9865VS,Opende
+Leidijkreed,5,"","",9865VS,Opende
+Leidijkreed,6,"","",9865VS,Opende
+Leidijkreed,7,"","",9865VS,Opende
+Leidijkreed,8,"","",9865VS,Opende
+Leidijk,1,"","",9865VT,Opende
+Leidijk,1,A,"",9865VT,Opende
+Leidijk,1,B,"",9865VT,Opende
+Leidijk,11,"","",9865VT,Opende
+Leidijk,13,"","",9865VT,Opende
+Leidijk,15,"","",9865VT,Opende
+Leidijk,17,"","",9865VT,Opende
+Leidijk,3,"","",9865VT,Opende
+Leidijk,5,"","",9865VT,Opende
+Leidijk,7,"","",9865VT,Opende
+Leidijk,9,"","",9865VT,Opende
+Postdijk,1,"","",9865VV,Opende
+Postdijk,2,"","",9865VV,Opende
+Postdijk,3,"","",9865VV,Opende
+Postdijk,4,"","",9865VV,Opende
+De Oude Trambaan,1,"","",9865VW,Opende
+De Oude Trambaan,10,"","",9865VW,Opende
+De Oude Trambaan,11,"","",9865VW,Opende
+De Oude Trambaan,12,"","",9865VW,Opende
+De Oude Trambaan,13,"","",9865VW,Opende
+De Oude Trambaan,14,"","",9865VW,Opende
+De Oude Trambaan,15,"","",9865VW,Opende
+De Oude Trambaan,2,"","",9865VW,Opende
+De Oude Trambaan,3,"","",9865VW,Opende
+De Oude Trambaan,4,"","",9865VW,Opende
+De Oude Trambaan,5,"","",9865VW,Opende
+De Oude Trambaan,6,"","",9865VW,Opende
+De Oude Trambaan,7,"","",9865VW,Opende
+De Oude Trambaan,8,"","",9865VW,Opende
+De Oude Trambaan,9,"","",9865VW,Opende
+Kolonieweg,1,"","",9865VX,Opende
+Kolonieweg,11,"","",9865VX,Opende
+Kolonieweg,13,"","",9865VX,Opende
+Kolonieweg,15,"","",9865VX,Opende
+Kolonieweg,17,"","",9865VX,Opende
+Kolonieweg,19,"","",9865VX,Opende
+Kolonieweg,19,A,"",9865VX,Opende
+Kolonieweg,21,"","",9865VX,Opende
+Kolonieweg,21,A,"",9865VX,Opende
+Kolonieweg,21,B,"",9865VX,Opende
+Kolonieweg,21,B,"",9865VX,Opende
+Kolonieweg,23,"","",9865VX,Opende
+Kolonieweg,23,"","",9865VX,Opende
+Kolonieweg,23,"","",9865VX,Opende
+Kolonieweg,25,"","",9865VX,Opende
+Kolonieweg,3,"","",9865VX,Opende
+Kolonieweg,5,"","",9865VX,Opende
+Kolonieweg,7,"","",9865VX,Opende
+Kolonieweg,7,A,"",9865VX,Opende
+Kolonieweg,9,"","",9865VX,Opende
+Kolonieweg,10,"","",9865VZ,Opende
+Kolonieweg,12,"","",9865VZ,Opende
+Kolonieweg,14,"","",9865VZ,Opende
+Kolonieweg,16,"","",9865VZ,Opende
+Kolonieweg,18,"","",9865VZ,Opende
+Kolonieweg,20,"","",9865VZ,Opende
+Kolonieweg,20,A,"",9865VZ,Opende
+Kolonieweg,20,A,"",9865VZ,Opende
+Kolonieweg,22,"","",9865VZ,Opende
+Kolonieweg,24,"","",9865VZ,Opende
+Kolonieweg,24,"","",9865VZ,Opende
+Kolonieweg,24,"","",9865VZ,Opende
+Kolonieweg,24,A,"",9865VZ,Opende
+Kolonieweg,24,A,"",9865VZ,Opende
+Kolonieweg,24,A,"",9865VZ,Opende
+Kolonieweg,24,A,"",9865VZ,Opende
+Kolonieweg,26,"","",9865VZ,Opende
+Kolonieweg,26,A,"",9865VZ,Opende
+Kolonieweg,4,"","",9865VZ,Opende
+Kolonieweg,6,"","",9865VZ,Opende
+Kolonieweg,8,"","",9865VZ,Opende
+Kolonieweg,8,A,"",9865VZ,Opende
+Ontginningsweg,1,"","",9865XA,Opende
+Ontginningsweg,11,"","",9865XA,Opende
+Ontginningsweg,13,"","",9865XA,Opende
+Ontginningsweg,3,"","",9865XA,Opende
+Ontginningsweg,5,"","",9865XA,Opende
+Ontginningsweg,7,"","",9865XA,Opende
+Ontginningsweg,9,"","",9865XA,Opende
+Bosweg,1,"","",9865XB,Opende
+Bosweg,11,"","",9865XB,Opende
+Bosweg,13,"","",9865XB,Opende
+Bosweg,15,"","",9865XB,Opende
+Bosweg,17,"","",9865XB,Opende
+Bosweg,19,"","",9865XB,Opende
+Bosweg,21,"","",9865XB,Opende
+Bosweg,3,"","",9865XB,Opende
+Bosweg,5,"","",9865XB,Opende
+Bosweg,7,"","",9865XB,Opende
+Bosweg,9,"","",9865XB,Opende
+Bosweg,2,"","",9865XC,Opende
+Bosweg,2,"","",9865XC,Opende
+Bosweg,24,"","",9865XC,Opende
+Bosweg,4,"","",9865XC,Opende
+Bosweg,6,"","",9865XC,Opende
+Openderweg,1,"","",9865XD,Opende
+Openderweg,3,"","",9865XD,Opende
+Openderweg,5,"","",9865XD,Opende
+Openderweg,5,A,"",9865XD,Opende
+Openderweg,7,"","",9865XD,Opende
+Openderweg,9,"","",9865XD,Opende
+Openderweg,10,"","",9865XE,Opende
+Openderweg,12,"","",9865XE,Opende
+Openderweg,14,"","",9865XE,Opende
+Openderweg,16,"","",9865XE,Opende
+Openderweg,18,"","",9865XE,Opende
+Openderweg,18,A,"",9865XE,Opende
+Openderweg,2,"","",9865XE,Opende
+Openderweg,20,"","",9865XE,Opende
+Openderweg,22,"","",9865XE,Opende
+Openderweg,24,"","",9865XE,Opende
+Openderweg,26,"","",9865XE,Opende
+Openderweg,26,"","",9865XE,Opende
+Openderweg,26,A,"",9865XE,Opende
+Openderweg,26,A,"",9865XE,Opende
+Openderweg,28,"","",9865XE,Opende
+Openderweg,30,"","",9865XE,Opende
+Openderweg,32,"","",9865XE,Opende
+Openderweg,32,A,"",9865XE,Opende
+Openderweg,4,"","",9865XE,Opende
+Openderweg,6,"","",9865XE,Opende
+Openderweg,8,"","",9865XE,Opende
+Zuiderweg,1,"","",9865XG,Opende
+Zuiderweg,10,"","",9865XG,Opende
+Zuiderweg,12,"","",9865XG,Opende
+Zuiderweg,13,"","",9865XG,Opende
+Zuiderweg,14,"","",9865XG,Opende
+Zuiderweg,14,A,"",9865XG,Opende
+Zuiderweg,15,"","",9865XG,Opende
+Zuiderweg,16,"","",9865XG,Opende
+Zuiderweg,17,"","",9865XG,Opende
+Zuiderweg,18,"","",9865XG,Opende
+Zuiderweg,2,"","",9865XG,Opende
+Zuiderweg,3,"","",9865XG,Opende
+Zuiderweg,4,"","",9865XG,Opende
+Zuiderweg,5,"","",9865XG,Opende
+Zuiderweg,6,"","",9865XG,Opende
+Zuiderweg,7,"","",9865XG,Opende
+Zuiderweg,7,"","",9865XG,Opende
+Zuiderweg,7,"","",9865XG,Opende
+Zuiderweg,7,A,"",9865XG,Opende
+Zuiderweg,8,"","",9865XG,Opende
+Zuiderweg,9,"","",9865XG,Opende
+Broersma's reed,1,"","",9865XH,Opende
+Broersma's reed,2,"","",9865XH,Opende
+Broersma's reed,3,"","",9865XH,Opende
+Broersma's reed,6,"","",9865XH,Opende
+Broersma's reed,6,A,"",9865XH,Opende
+Oude Dijk,1,"","",9865XJ,Opende
+Oude Dijk,2,"","",9865XJ,Opende
+Oude Dijk,3,"","",9865XJ,Opende
+Oude Dijk,4,"","",9865XJ,Opende
+Oude Dijk,5,"","",9865XJ,Opende
+Oude Dijk,6,"","",9865XJ,Opende
+Oude Dijk,6,"","",9865XJ,Opende
+Oude Dijk,6,"","",9865XJ,Opende
+Oude Dijk,7,"","",9865XJ,Opende

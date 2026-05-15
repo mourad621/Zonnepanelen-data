@@ -1,369 +1,189 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9871PA",14,"",""
-"9871PA",10,"",""
-"9871PA",11,"",""
-"9871PA",15,"A",""
-"9871PA",9,"A",""
-"9871PA",12,"",""
-"9871PA",8,"",""
-"9871PA",15,"A",""
-"9871PA",3,"",""
-"9871PA",16,"",""
-"9871PA",15,"",""
-"9871PA",9,"",""
-"9871PA",15,"",""
-"9871PA",3,"A",""
-"9871PA",7,"",""
-"9871PA",15,"",""
-"9871PA",5,"B",""
-"9871PA",5,"",""
-"9871PA",4,"",""
-"9871PA",15,"",""
-"9871PA",6,"",""
-"9871PB",5,"",""
-"9871PB",7,"",""
-"9871PB",23,"",""
-"9871PB",3,"",""
-"9871PB",1,"",""
-"9871PB",21,"",""
-"9871PB",17,"",""
-"9871PB",19,"",""
-"9871PB",11,"",""
-"9871PB",9,"",""
-"9871PB",15,"",""
-"9871PB",13,"",""
-"9871PC",30,"",""
-"9871PC",22,"",""
-"9871PC",4,"",""
-"9871PC",2,"",""
-"9871PC",28,"",""
-"9871PC",40,"",""
-"9871PC",20,"",""
-"9871PC",24,"",""
-"9871PC",26,"",""
-"9871PC",12,"",""
-"9871PC",42,"",""
-"9871PC",16,"",""
-"9871PC",32,"",""
-"9871PC",6,"",""
-"9871PC",34,"",""
-"9871PC",18,"",""
-"9871PC",36,"",""
-"9871PC",38,"",""
-"9871PC",14,"",""
-"9871PC",8,"",""
-"9871PC",10,"",""
-"9871PE",12,"",""
-"9871PE",10,"",""
-"9871PE",5,"",""
-"9871PE",7,"",""
-"9871PE",13,"",""
-"9871PE",14,"",""
-"9871PE",2,"",""
-"9871PE",9,"",""
-"9871PE",4,"",""
-"9871PE",17,"",""
-"9871PE",16,"",""
-"9871PE",11,"",""
-"9871PE",6,"",""
-"9871PE",3,"",""
-"9871PE",15,"",""
-"9871PG",35,"B",""
-"9871PG",35,"A",""
-"9871PG",35,"B",""
-"9871PG",36,"A",""
-"9871PG",35,"A",""
-"9871PG",35,"C",""
-"9871PG",35,"A",""
-"9871PG",35,"A",""
-"9871PG",30,"",""
-"9871PG",35,"E",""
-"9871PG",36,"",""
-"9871PG",35,"D",""
-"9871PG",30,"",""
-"9871PG",26,"",""
-"9871PG",35,"B",""
-"9871PG",36,"",""
-"9871PG",35,"F",""
-"9871PG",28,"",""
-"9871PG",35,"F",""
-"9871PG",35,"C",""
-"9871PG",35,"F",""
-"9871PG",34,"E",""
-"9871PG",35,"E",""
-"9871PG",35,"A",""
-"9871PG",32,"",""
-"9871PG",35,"F",""
-"9871PG",25,"",""
-"9871PG",35,"D",""
-"9871PG",34,"B",""
-"9871PG",34,"D",""
-"9871PG",35,"",""
-"9871PG",20,"",""
-"9871PG",30,"",""
-"9871PG",34,"C",""
-"9871PG",34,"A",""
-"9871PG",33,"",""
-"9872PP",11,"",""
-"9872PP",29,"",""
-"9872PP",29,"A",""
-"9872PP",37,"",""
-"9872PP",21,"",""
-"9872PP",29,"",""
-"9872PP",29,"",""
-"9872PP",29,"A",""
-"9872PP",19,"",""
-"9872PP",15,"",""
-"9872PP",39,"",""
-"9872PP",35,"",""
-"9872PP",33,"",""
-"9872PP",19,"",""
-"9872PP",13,"",""
-"9872PP",27,"",""
-"9872PP",19,"",""
-"9872PP",23,"",""
-"9872PP",25,"",""
-"9872PP",31,"",""
-"9872PP",29,"B",""
-"9872PP",19,"",""
-"9872PR",6,"",""
-"9872PR",5,"",""
-"9872PR",4,"",""
-"9872PR",3,"",""
-"9872PR",5,"A",""
-"9872PR",5,"",""
-"9872PR",8,"",""
-"9872PR",14,"",""
-"9872PR",5,"",""
-"9872PR",12,"",""
-"9872PR",5,"B",""
-"9872PR",5,"B",""
-"9872PR",16,"",""
-"9872PR",10,"",""
-"9872PR",5,"",""
-"9872PR",5,"A",""
-"9872PS",4,"",""
-"9872PS",7,"",""
-"9872PS",8,"",""
-"9872PS",9,"",""
-"9872PS",1,"",""
-"9872PS",6,"",""
-"9872PS",3,"",""
-"9872PS",2,"",""
-"9872PT",11,"",""
-"9872PT",3,"",""
-"9872PT",10,"",""
-"9872PT",9,"",""
-"9872PT",20,"",""
-"9872PT",18,"",""
-"9872PT",15,"",""
-"9872TA",9,"",""
-"9872TJ",6,"",""
-"9872TJ",6,"",""
-"9872TJ",8,"",""
-"9872TJ",10,"",""
-"9872TJ",11,"",""
-"9872TJ",19,"",""
-"9872TJ",16,"",""
-"9872TJ",17,"",""
-"9872TJ",13,"",""
-"9872TJ",9,"",""
-"9872TJ",29,"",""
-"9872TJ",12,"",""
-"9872TJ",5,"",""
-"9872TJ",27,"",""
-"9872TJ",23,"",""
-"9872TJ",4,"",""
-"9872TJ",7,"",""
-"9872TJ",14,"",""
-"9872TJ",6,"",""
-"9872TJ",15,"A",""
-"9872TJ",21,"",""
-"9872TJ",1,"",""
-"9872TJ",1,"B",""
-"9872TJ",2,"A",""
-"9872TJ",15,"",""
-"9872TJ",25,"",""
-"9872TJ",3,"",""
-"9872TJ",1,"B",""
-"9872TJ",2,"",""
-9871PE,Groningerstreek,2,,
-9871PE,Groningerstreek,14,,
-9871PE,Groningerstreek,5,,
-9871PE,Groningerstreek,12,,
-9871PE,Groningerstreek,6,,
-9871PE,Groningerstreek,3,,
-9871PE,Groningerstreek,4,,
-9871PE,Groningerstreek,9,,
-9871PG,Groningerstreek,35,,
-9871PG,Groningerstreek,35,A,
-9871PG,Groningerstreek,20,,
-9871PG,Groningerstreek,33,,
-9871PA,Hoendiep N.Z.,15,A,
-9871PA,Hoendiep N.Z.,3,,
-9871PA,Hoendiep N.Z.,4,,
-9871PA,Hoendiep N.Z.,12,,
-9871PA,Hoendiep N.Z.,16,,
-9871PA,Hoendiep N.Z.,15,,
-9871PA,Hoendiep N.Z.,14,,
-9872TJ,Miedweg,6,,
-9872TJ,Miedweg,5,,
-9872TJ,Miedweg,7,,
-9872TJ,Miedweg,29,,
-9872TJ,Miedweg,6,,
-9872TJ,Miedweg,8,,
-9872PP,Friese Streek,19,,
-9872PP,Friese Streek,19,,
-9872PP,Friese Streek,29,,
-9872PP,Friese Streek,13,,
-9872PP,Friese Streek,11,,
-9872PP,Friese Streek,19,,
-9872PP,Friese Streek,35,,
-9872PP,Friese Streek,39,,
-9872PR,Het Breed,12,,
-9872PR,Het Breed,6,,
-9872PR,Het Breed,3,,
-9872PR,Het Breed,14,,
-9872PS,Sarabos,2,,
-9872PS,Sarabos,7,,
-9871PC,Zw.Kooistraat,4,,
-9871PC,Zw.Kooistraat,6,,
-9871PC,Zw.Kooistraat,8,,
-9872TA,Dorpsterweg,9,,
-9871PE,Groningerstreek,16,,
-9871PE,Groningerstreek,11,,
-9871PE,Groningerstreek,10,,
-9871PE,Groningerstreek,13,,
-9871PE,Groningerstreek,15,,
-9871PE,Groningerstreek,17,,
-9871PE,Groningerstreek,7,,
-9871PG,Groningerstreek,36,,
-9871PG,Groningerstreek,36,,
-9871PG,Groningerstreek,26,,
-9871PG,Groningerstreek,25,,
-9871PG,Groningerstreek,28,,
-9871PG,Groningerstreek,30,,
-9871PA,Hoendiep N.Z.,11,,
-9871PA,Hoendiep N.Z.,5,,
-9871PA,Hoendiep N.Z.,9,A,
-9871PA,Hoendiep N.Z.,10,,
-9871PA,Hoendiep N.Z.,9,,
-9871PA,Hoendiep N.Z.,3,A,
-9871PA,Hoendiep N.Z.,7,,
-9871PA,Hoendiep N.Z.,8,,
-9872TJ,Miedweg,21,,
-9872TJ,Miedweg,4,,
-9872TJ,Miedweg,9,,
-9872TJ,Miedweg,17,,
-9872TJ,Miedweg,19,,
-9872TJ,Miedweg,2,,
-9872TJ,Miedweg,14,,
-9872TJ,Miedweg,3,,
-9872TJ,Miedweg,15,,
-9872TJ,Miedweg,11,,
-9872TJ,Miedweg,13,,
-9872TJ,Miedweg,1,,
-9872TJ,Miedweg,25,,
-9872TJ,Miedweg,12,,
-9872TJ,Miedweg,27,,
-9872TJ,Miedweg,23,,
-9872TJ,Miedweg,15,A,
-9872TJ,Miedweg,2,A,
-9872PP,Friese Streek,37,,
-9872PP,Friese Streek,21,,
-9872PP,Friese Streek,27,,
-9872PP,Friese Streek,31,,
-9872PP,Friese Streek,15,,
-9872PP,Friese Streek,29,A,
-9872PP,Friese Streek,29,B,
-9872PP,Friese Streek,25,,
-9872PP,Friese Streek,23,,
-9872PP,Friese Streek,33,,
-9872PT,Hellingstraat,10,,
-9872PT,Hellingstraat,9,,
-9872PT,Hellingstraat,15,,
-9872PT,Hellingstraat,3,,
-9872PT,Hellingstraat,18,,
-9872PT,Hellingstraat,20,,
-9872PT,Hellingstraat,11,,
-9872PR,Het Breed,4,,
-9872PR,Het Breed,16,,
-9872PR,Het Breed,5,,
-9872PR,Het Breed,8,,
-9872PR,Het Breed,10,,
-9872PS,Sarabos,4,,
-9872PS,Sarabos,6,,
-9872PS,Sarabos,1,,
-9872PS,Sarabos,3,,
-9872PS,Sarabos,9,,
-9871PB,Zw.Kooistraat,1,,
-9871PB,Zw.Kooistraat,3,,
-9871PB,Zw.Kooistraat,5,,
-9871PB,Zw.Kooistraat,7,,
-9871PB,Zw.Kooistraat,9,,
-9871PB,Zw.Kooistraat,11,,
-9871PB,Zw.Kooistraat,23,,
-9871PB,Zw.Kooistraat,15,,
-9871PB,Zw.Kooistraat,17,,
-9871PB,Zw.Kooistraat,19,,
-9871PC,Zw.Kooistraat,2,,
-9871PC,Zw.Kooistraat,38,,
-9871PC,Zw.Kooistraat,40,,
-9871PC,Zw.Kooistraat,42,,
-9871PC,Zw.Kooistraat,24,,
-9871PC,Zw.Kooistraat,26,,
-9871PC,Zw.Kooistraat,28,,
-9871PC,Zw.Kooistraat,30,,
-9871PC,Zw.Kooistraat,32,,
-9871PC,Zw.Kooistraat,34,,
-9871PC,Zw.Kooistraat,36,,
-9871PC,Zw.Kooistraat,10,,
-9871PC,Zw.Kooistraat,12,,
-9871PC,Zw.Kooistraat,14,,
-9871PC,Zw.Kooistraat,16,,
-9871PC,Zw.Kooistraat,18,,
-9871PC,Zw.Kooistraat,20,,
-9871PC,Zw.Kooistraat,22,,
-9871PG,Groningerstreek,36,A,
-9871PG,Groningerstreek,30,,
-9871PG,Groningerstreek,30,,
-9871PG,Groningerstreek,32,,
-9871PG,Groningerstreek,35,A,
-9871PG,Groningerstreek,35,A,
-9871PG,Groningerstreek,35,A,
-9871PG,Groningerstreek,35,B,
-9871PG,Groningerstreek,35,B,
-9871PG,Groningerstreek,35,B,
-9871PG,Groningerstreek,35,F,
-9871PG,Groningerstreek,35,F,
-9871PG,Groningerstreek,35,F,
-9871PG,Groningerstreek,35,F,
-9871PG,Groningerstreek,34,B,
-9871PG,Groningerstreek,34,C,
-9871PG,Groningerstreek,34,D,
-9871PG,Groningerstreek,34,E,
-9871PG,Groningerstreek,35,C,
-9871PG,Groningerstreek,35,C,
-9871PG,Groningerstreek,35,D,
-9871PG,Groningerstreek,35,D,
-9871PG,Groningerstreek,35,E,
-9871PG,Groningerstreek,35,E,
-9871PG,Groningerstreek,34,A,
-9871PA,Hoendiep N.Z.,6,,
-9871PA,Hoendiep N.Z.,5,B,
-9871PA,Hoendiep N.Z.,15,,
-9871PA,Hoendiep N.Z.,15,,
-9872TJ,Miedweg,16,,
-9872TJ,Miedweg,10,,
-9872TJ,Miedweg,1,B,
-9872TJ,Miedweg,1,B,
-9872PP,Friese Streek,29,,
-9872PR,Het Breed,5,,
-9872PR,Het Breed,5,,
-9872PR,Het Breed,5,A,
-9872PR,Het Breed,5,A,
-9872PR,Het Breed,5,B,
-9872PR,Het Breed,5,B,
-9872PS,Sarabos,8,,
-9871PB,Zw.Kooistraat,21,,
-9871PB,Zw.Kooistraat,13,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hoendiep N.Z.,10,"","",9871PA,Stroobos
+Hoendiep N.Z.,11,"","",9871PA,Stroobos
+Hoendiep N.Z.,12,"","",9871PA,Stroobos
+Hoendiep N.Z.,14,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,"","",9871PA,Stroobos
+Hoendiep N.Z.,15,A,"",9871PA,Stroobos
+Hoendiep N.Z.,15,A,"",9871PA,Stroobos
+Hoendiep N.Z.,16,"","",9871PA,Stroobos
+Hoendiep N.Z.,3,"","",9871PA,Stroobos
+Hoendiep N.Z.,3,A,"",9871PA,Stroobos
+Hoendiep N.Z.,4,"","",9871PA,Stroobos
+Hoendiep N.Z.,5,"","",9871PA,Stroobos
+Hoendiep N.Z.,5,B,"",9871PA,Stroobos
+Hoendiep N.Z.,6,"","",9871PA,Stroobos
+Hoendiep N.Z.,7,"","",9871PA,Stroobos
+Hoendiep N.Z.,8,"","",9871PA,Stroobos
+Hoendiep N.Z.,9,"","",9871PA,Stroobos
+Hoendiep N.Z.,9,A,"",9871PA,Stroobos
+Zw.Kooistraat,1,"","",9871PB,Stroobos
+Zw.Kooistraat,11,"","",9871PB,Stroobos
+Zw.Kooistraat,13,"","",9871PB,Stroobos
+Zw.Kooistraat,15,"","",9871PB,Stroobos
+Zw.Kooistraat,17,"","",9871PB,Stroobos
+Zw.Kooistraat,19,"","",9871PB,Stroobos
+Zw.Kooistraat,21,"","",9871PB,Stroobos
+Zw.Kooistraat,23,"","",9871PB,Stroobos
+Zw.Kooistraat,3,"","",9871PB,Stroobos
+Zw.Kooistraat,5,"","",9871PB,Stroobos
+Zw.Kooistraat,7,"","",9871PB,Stroobos
+Zw.Kooistraat,9,"","",9871PB,Stroobos
+Zw.Kooistraat,10,"","",9871PC,Stroobos
+Zw.Kooistraat,12,"","",9871PC,Stroobos
+Zw.Kooistraat,14,"","",9871PC,Stroobos
+Zw.Kooistraat,16,"","",9871PC,Stroobos
+Zw.Kooistraat,18,"","",9871PC,Stroobos
+Zw.Kooistraat,2,"","",9871PC,Stroobos
+Zw.Kooistraat,20,"","",9871PC,Stroobos
+Zw.Kooistraat,22,"","",9871PC,Stroobos
+Zw.Kooistraat,24,"","",9871PC,Stroobos
+Zw.Kooistraat,26,"","",9871PC,Stroobos
+Zw.Kooistraat,28,"","",9871PC,Stroobos
+Zw.Kooistraat,30,"","",9871PC,Stroobos
+Zw.Kooistraat,32,"","",9871PC,Stroobos
+Zw.Kooistraat,34,"","",9871PC,Stroobos
+Zw.Kooistraat,36,"","",9871PC,Stroobos
+Zw.Kooistraat,38,"","",9871PC,Stroobos
+Zw.Kooistraat,4,"","",9871PC,Stroobos
+Zw.Kooistraat,40,"","",9871PC,Stroobos
+Zw.Kooistraat,42,"","",9871PC,Stroobos
+Zw.Kooistraat,6,"","",9871PC,Stroobos
+Zw.Kooistraat,8,"","",9871PC,Stroobos
+Groningerstreek,10,"","",9871PE,Stroobos
+Groningerstreek,11,"","",9871PE,Stroobos
+Groningerstreek,12,"","",9871PE,Stroobos
+Groningerstreek,13,"","",9871PE,Stroobos
+Groningerstreek,14,"","",9871PE,Stroobos
+Groningerstreek,15,"","",9871PE,Stroobos
+Groningerstreek,16,"","",9871PE,Stroobos
+Groningerstreek,17,"","",9871PE,Stroobos
+Groningerstreek,2,"","",9871PE,Stroobos
+Groningerstreek,3,"","",9871PE,Stroobos
+Groningerstreek,4,"","",9871PE,Stroobos
+Groningerstreek,5,"","",9871PE,Stroobos
+Groningerstreek,6,"","",9871PE,Stroobos
+Groningerstreek,7,"","",9871PE,Stroobos
+Groningerstreek,9,"","",9871PE,Stroobos
+Groningerstreek,20,"","",9871PG,Stroobos
+Groningerstreek,25,"","",9871PG,Stroobos
+Groningerstreek,26,"","",9871PG,Stroobos
+Groningerstreek,28,"","",9871PG,Stroobos
+Groningerstreek,30,"","",9871PG,Stroobos
+Groningerstreek,30,"","",9871PG,Stroobos
+Groningerstreek,30,"","",9871PG,Stroobos
+Groningerstreek,32,"","",9871PG,Stroobos
+Groningerstreek,33,"","",9871PG,Stroobos
+Groningerstreek,34,A,"",9871PG,Stroobos
+Groningerstreek,34,B,"",9871PG,Stroobos
+Groningerstreek,34,C,"",9871PG,Stroobos
+Groningerstreek,34,D,"",9871PG,Stroobos
+Groningerstreek,34,E,"",9871PG,Stroobos
+Groningerstreek,35,"","",9871PG,Stroobos
+Groningerstreek,35,A,"",9871PG,Stroobos
+Groningerstreek,35,A,"",9871PG,Stroobos
+Groningerstreek,35,A,"",9871PG,Stroobos
+Groningerstreek,35,A,"",9871PG,Stroobos
+Groningerstreek,35,A,"",9871PG,Stroobos
+Groningerstreek,35,B,"",9871PG,Stroobos
+Groningerstreek,35,B,"",9871PG,Stroobos
+Groningerstreek,35,B,"",9871PG,Stroobos
+Groningerstreek,35,C,"",9871PG,Stroobos
+Groningerstreek,35,C,"",9871PG,Stroobos
+Groningerstreek,35,D,"",9871PG,Stroobos
+Groningerstreek,35,D,"",9871PG,Stroobos
+Groningerstreek,35,E,"",9871PG,Stroobos
+Groningerstreek,35,E,"",9871PG,Stroobos
+Groningerstreek,35,F,"",9871PG,Stroobos
+Groningerstreek,35,F,"",9871PG,Stroobos
+Groningerstreek,35,F,"",9871PG,Stroobos
+Groningerstreek,35,F,"",9871PG,Stroobos
+Groningerstreek,36,"","",9871PG,Stroobos
+Groningerstreek,36,"","",9871PG,Stroobos
+Groningerstreek,36,A,"",9871PG,Stroobos
+Friese Streek,11,"","",9872PP,Stroobos
+Friese Streek,13,"","",9872PP,Stroobos
+Friese Streek,15,"","",9872PP,Stroobos
+Friese Streek,19,"","",9872PP,Stroobos
+Friese Streek,19,"","",9872PP,Stroobos
+Friese Streek,19,"","",9872PP,Stroobos
+Friese Streek,19,"","",9872PP,Stroobos
+Friese Streek,21,"","",9872PP,Stroobos
+Friese Streek,23,"","",9872PP,Stroobos
+Friese Streek,25,"","",9872PP,Stroobos
+Friese Streek,27,"","",9872PP,Stroobos
+Friese Streek,29,"","",9872PP,Stroobos
+Friese Streek,29,"","",9872PP,Stroobos
+Friese Streek,29,"","",9872PP,Stroobos
+Friese Streek,29,A,"",9872PP,Stroobos
+Friese Streek,29,A,"",9872PP,Stroobos
+Friese Streek,29,B,"",9872PP,Stroobos
+Friese Streek,31,"","",9872PP,Stroobos
+Friese Streek,33,"","",9872PP,Stroobos
+Friese Streek,35,"","",9872PP,Stroobos
+Friese Streek,37,"","",9872PP,Stroobos
+Friese Streek,39,"","",9872PP,Stroobos
+Het Breed,10,"","",9872PR,Stroobos
+Het Breed,12,"","",9872PR,Stroobos
+Het Breed,14,"","",9872PR,Stroobos
+Het Breed,16,"","",9872PR,Stroobos
+Het Breed,3,"","",9872PR,Stroobos
+Het Breed,4,"","",9872PR,Stroobos
+Het Breed,5,"","",9872PR,Stroobos
+Het Breed,5,"","",9872PR,Stroobos
+Het Breed,5,"","",9872PR,Stroobos
+Het Breed,5,"","",9872PR,Stroobos
+Het Breed,5,A,"",9872PR,Stroobos
+Het Breed,5,A,"",9872PR,Stroobos
+Het Breed,5,B,"",9872PR,Stroobos
+Het Breed,5,B,"",9872PR,Stroobos
+Het Breed,6,"","",9872PR,Stroobos
+Het Breed,8,"","",9872PR,Stroobos
+Sarabos,1,"","",9872PS,Stroobos
+Sarabos,2,"","",9872PS,Stroobos
+Sarabos,3,"","",9872PS,Stroobos
+Sarabos,4,"","",9872PS,Stroobos
+Sarabos,6,"","",9872PS,Stroobos
+Sarabos,7,"","",9872PS,Stroobos
+Sarabos,8,"","",9872PS,Stroobos
+Sarabos,9,"","",9872PS,Stroobos
+Hellingstraat,10,"","",9872PT,Stroobos
+Hellingstraat,11,"","",9872PT,Stroobos
+Hellingstraat,15,"","",9872PT,Stroobos
+Hellingstraat,18,"","",9872PT,Stroobos
+Hellingstraat,20,"","",9872PT,Stroobos
+Hellingstraat,3,"","",9872PT,Stroobos
+Hellingstraat,9,"","",9872PT,Stroobos
+Dorpsterweg,9,"","",9872TA,Stroobos
+Miedweg,1,"","",9872TJ,Stroobos
+Miedweg,1,B,"",9872TJ,Stroobos
+Miedweg,1,B,"",9872TJ,Stroobos
+Miedweg,10,"","",9872TJ,Stroobos
+Miedweg,11,"","",9872TJ,Stroobos
+Miedweg,12,"","",9872TJ,Stroobos
+Miedweg,13,"","",9872TJ,Stroobos
+Miedweg,14,"","",9872TJ,Stroobos
+Miedweg,15,"","",9872TJ,Stroobos
+Miedweg,15,A,"",9872TJ,Stroobos
+Miedweg,16,"","",9872TJ,Stroobos
+Miedweg,17,"","",9872TJ,Stroobos
+Miedweg,19,"","",9872TJ,Stroobos
+Miedweg,2,"","",9872TJ,Stroobos
+Miedweg,2,A,"",9872TJ,Stroobos
+Miedweg,21,"","",9872TJ,Stroobos
+Miedweg,23,"","",9872TJ,Stroobos
+Miedweg,25,"","",9872TJ,Stroobos
+Miedweg,27,"","",9872TJ,Stroobos
+Miedweg,29,"","",9872TJ,Stroobos
+Miedweg,3,"","",9872TJ,Stroobos
+Miedweg,4,"","",9872TJ,Stroobos
+Miedweg,5,"","",9872TJ,Stroobos
+Miedweg,6,"","",9872TJ,Stroobos
+Miedweg,6,"","",9872TJ,Stroobos
+Miedweg,6,"","",9872TJ,Stroobos
+Miedweg,7,"","",9872TJ,Stroobos
+Miedweg,8,"","",9872TJ,Stroobos
+Miedweg,9,"","",9872TJ,Stroobos

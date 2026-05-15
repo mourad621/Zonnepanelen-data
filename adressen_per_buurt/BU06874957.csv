@@ -1,23 +1,23 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4339PK,Binnendijk,1,,
-4339PK,Binnendijk,2,,
-4339PK,Binnendijk,3,,
-4339PK,Binnendijk,5,,
-4339PB,Boomdijk,14,,
-4339PB,Boomdijk,18,,
-4339PC,Derde Weg,2,,
-4339PC,Derde Weg,1,,
-4339PG,Tweede Weg,5,,
-4339PG,Tweede Weg,2,,
-4339PK,Binnendijk,6,,
-4339PK,Binnendijk,10,,
-4339PK,Binnendijk,12,,
-4339PK,Binnendijk,14,,
-4339PK,Binnendijk,12,A,
-4339PK,Binnendijk,12,B,
-4339PK,Binnendijk,2,A,
-4339PK,Binnendijk,2,X,
-4339PK,Binnendijk,2,X,
-4339PC,Derde Weg,1,A,
-4339PC,Derde Weg,1,,
-4339PG,Tweede Weg,5,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Boomdijk,14,"","",4339PB,Nieuw- en Sint Joosland
+Boomdijk,18,"","",4339PB,Nieuw- en Sint Joosland
+Derde Weg,1,"","",4339PC,Nieuw- en Sint Joosland
+Derde Weg,1,"","",4339PC,Nieuw- en Sint Joosland
+Derde Weg,1,A,"",4339PC,Nieuw- en Sint Joosland
+Derde Weg,2,"","",4339PC,Nieuw- en Sint Joosland
+Tweede Weg,2,"","",4339PG,Nieuw- en Sint Joosland
+Tweede Weg,5,"","",4339PG,Nieuw- en Sint Joosland
+Tweede Weg,5,A,"",4339PG,Nieuw- en Sint Joosland
+Binnendijk,1,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,10,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,A,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,12,B,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,14,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,A,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,X,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,2,X,"",4339PK,Nieuw- en Sint Joosland
+Binnendijk,3,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,5,"","",4339PK,Nieuw- en Sint Joosland
+Binnendijk,6,"","",4339PK,Nieuw- en Sint Joosland

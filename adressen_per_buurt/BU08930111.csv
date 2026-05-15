@@ -1,51 +1,51 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5854PL,Aijerdijk,2,,
-5854PL,Aijerdijk,3,,
-5854PL,Aijerdijk,6,,
-5854PL,Aijerdijk,4,,
-5854PL,Aijerdijk,8,,
-5854PM,Holshaeg,4,,
-5854PM,Holshaeg,5,,
-5854PM,Holshaeg,6,,
-5854PM,Holshaeg,1,,
-5854PM,Holshaeg,2,,
-5854RC,Sintelenberg,1,,
-5854RC,Sintelenberg,5,,
-5854PS,Aijenseweg,7,,
-5854PS,Aijenseweg,9,,
-5854PS,Aijenseweg,1,,
-5854PS,Aijenseweg,1,a,
-5854PS,Aijenseweg,11,,
-5854PS,Aijenseweg,1,c,
-5854PS,Aijenseweg,13,,
-5854PS,Aijenseweg,1,b,
-5854PS,Aijenseweg,3,,
-5854RD,Kampweg,3,,
-5854RD,Kampweg,1,,
-5854RD,Kampweg,2,,
-5854PL,Aijerdijk,1,,
-5854PL,Aijerdijk,2,,Zorg
-5854PM,Holshaeg,3,,
-5854PM,Holshaeg,8,,
-5854PM,Holshaeg,8,a,
-5854PM,Holshaeg,2,a,
-5854PM,Holshaeg,1,,
-5854PM,Holshaeg,6,,
-5854PM,Holshaeg,6,,Unit
-5854PS,Aijenseweg,5,,
-5854PS,Aijenseweg,9,a,
-5854PS,Aijenseweg,15,,
-5854PS,Aijenseweg,9,b,
-5854PS,Aijenseweg,7,c,
-5854PS,Aijenseweg,7,c,
-5854PS,Aijenseweg,7,b,
-5854PS,Aijenseweg,7,b,
-5854PS,Aijenseweg,7,a,
-5854PS,Aijenseweg,7,a,
-5854PS,Aijenseweg,9,c,
-5854PS,Aijenseweg,9,c,
-5854PS,Aijenseweg,19,,
-5854RD,Kampweg,8,a,
-5854RD,Kampweg,1,a,
-5854RD,Kampweg,2,a,
-5854RB,Aijerbroek,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Aijerdijk,1,"","",5854PL,Bergen L
+Aijerdijk,2,"","",5854PL,Bergen L
+Aijerdijk,2,"",ZORG,5854PL,Bergen L
+Aijerdijk,3,"","",5854PL,Bergen L
+Aijerdijk,4,"","",5854PL,Bergen L
+Aijerdijk,6,"","",5854PL,Bergen L
+Aijerdijk,8,"","",5854PL,Bergen L
+Holshaeg,1,"","",5854PM,Bergen L
+Holshaeg,1,"","",5854PM,Bergen L
+Holshaeg,2,"","",5854PM,Bergen L
+Holshaeg,2,A,"",5854PM,Bergen L
+Holshaeg,3,"","",5854PM,Bergen L
+Holshaeg,4,"","",5854PM,Bergen L
+Holshaeg,5,"","",5854PM,Bergen L
+Holshaeg,6,"","",5854PM,Bergen L
+Holshaeg,6,"","",5854PM,Bergen L
+Holshaeg,6,"",UNIT,5854PM,Bergen L
+Holshaeg,8,"","",5854PM,Bergen L
+Holshaeg,8,A,"",5854PM,Bergen L
+Aijenseweg,1,"","",5854PS,Bergen L
+Aijenseweg,1,A,"",5854PS,Bergen L
+Aijenseweg,1,B,"",5854PS,Bergen L
+Aijenseweg,1,C,"",5854PS,Bergen L
+Aijenseweg,11,"","",5854PS,Bergen L
+Aijenseweg,13,"","",5854PS,Bergen L
+Aijenseweg,15,"","",5854PS,Bergen L
+Aijenseweg,19,"","",5854PS,Bergen L
+Aijenseweg,3,"","",5854PS,Bergen L
+Aijenseweg,5,"","",5854PS,Bergen L
+Aijenseweg,7,"","",5854PS,Bergen L
+Aijenseweg,7,A,"",5854PS,Bergen L
+Aijenseweg,7,A,"",5854PS,Bergen L
+Aijenseweg,7,B,"",5854PS,Bergen L
+Aijenseweg,7,B,"",5854PS,Bergen L
+Aijenseweg,7,C,"",5854PS,Bergen L
+Aijenseweg,7,C,"",5854PS,Bergen L
+Aijenseweg,9,"","",5854PS,Bergen L
+Aijenseweg,9,A,"",5854PS,Bergen L
+Aijenseweg,9,B,"",5854PS,Bergen L
+Aijenseweg,9,C,"",5854PS,Bergen L
+Aijenseweg,9,C,"",5854PS,Bergen L
+Aijerbroek,1,"","",5854RB,Bergen L
+Sintelenberg,1,"","",5854RC,Bergen L
+Sintelenberg,5,"","",5854RC,Bergen L
+Kampweg,1,"","",5854RD,Bergen L
+Kampweg,1,A,"",5854RD,Bergen L
+Kampweg,2,"","",5854RD,Bergen L
+Kampweg,2,A,"",5854RD,Bergen L
+Kampweg,3,"","",5854RD,Bergen L
+Kampweg,8,A,"",5854RD,Bergen L

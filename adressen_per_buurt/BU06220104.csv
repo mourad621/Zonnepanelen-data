@@ -1,68 +1,68 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3131HZ,Broekkade,1,,
-3131HZ,Broekkade,2,,
-3131HZ,Broekkade,2,A,
-3131KZ,Gerard Burgerlaan,29,,
-3131KZ,Gerard Burgerlaan,33,,
-3131KZ,Gerard Burgerlaan,1,,
-3131KZ,Gerard Burgerlaan,5,,
-3131KZ,Gerard Burgerlaan,7,,
-3131KZ,Gerard Burgerlaan,9,,
-3131KZ,Gerard Burgerlaan,21,,
-3131KZ,Gerard Burgerlaan,2,,
-3131KZ,Gerard Burgerlaan,4,,
-3131KZ,Gerard Burgerlaan,12,,
-3131KZ,Gerard Burgerlaan,16,,
-3131KZ,Gerard Burgerlaan,18,,
-3131KZ,Gerard Burgerlaan,20,,
-3131KZ,Gerard Burgerlaan,30,,
-3131KZ,Gerard Burgerlaan,32,,
-3131KZ,Gerard Burgerlaan,10,,
-3131KZ,Gerard Burgerlaan,2,A,
-3131KZ,Gerard Burgerlaan,8,,
-3131KZ,Gerard Burgerlaan,14,,
-3131KX,Hoogstad,703,,
-3131KX,Hoogstad,705,,
-3131KX,Hoogstad,707,,
-3131KX,Hoogstad,51,,
-3131KX,Hoogstad,151,,
-3131KX,Hoogstad,251,,
-3131KX,Hoogstad,203,,
-3131KX,Hoogstad,205,,
-3131KX,Hoogstad,207,,
-3131KX,Hoogstad,209,,
-3131KX,Hoogstad,751,,
-3131KX,Hoogstad,601,,
-3131KX,Hoogstad,253,,
-3131KX,Hoogstad,255,,
-3131KX,Hoogstad,257,,
-3131KX,Hoogstad,259,,
-3131KX,Hoogstad,701,,
-3131KX,Hoogstad,1,,
-3131KX,Hoogstad,101,,
-3131KX,Hoogstad,201,,
-3131KX,Hoogstad,401,,
-3131KX,Hoogstad,501,,
-3131KX,Hoogstad,265,,
-3131KX,Hoogstad,269,,
-3131KX,Hoogstad,277,,
-3131KX,Hoogstad,279,,
-3131KX,Hoogstad,281,,
-3131KX,Hoogstad,283,,
-3131HX,Westlandseweg,250,,
-3131HX,Westlandseweg,252,,
-3131HX,Westlandseweg,254,,
-3131HX,Westlandseweg,256,,
-3131HX,Westlandseweg,260,,
-3131HX,Westlandseweg,262,,
-3131HX,Westlandseweg,270,,
-3131HX,Westlandseweg,258,,
-3131HX,Westlandseweg,280,,
-3131HX,Westlandseweg,190,,
-3131HX,Westlandseweg,200,,
-3131HX,Westlandseweg,202,,
-3131KZ,Gerard Burgerlaan,1,,
-3131KZ,Gerard Burgerlaan,3,,
-3131KZ,Gerard Burgerlaan,7,A,
-3131KZ,Gerard Burgerlaan,7,B,
-3131HX,Westlandseweg,254,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Westlandseweg,190,"","",3131HX,Vlaardingen
+Westlandseweg,200,"","",3131HX,Vlaardingen
+Westlandseweg,202,"","",3131HX,Vlaardingen
+Westlandseweg,250,"","",3131HX,Vlaardingen
+Westlandseweg,252,"","",3131HX,Vlaardingen
+Westlandseweg,254,"","",3131HX,Vlaardingen
+Westlandseweg,254,"","",3131HX,Vlaardingen
+Westlandseweg,256,"","",3131HX,Vlaardingen
+Westlandseweg,258,"","",3131HX,Vlaardingen
+Westlandseweg,260,"","",3131HX,Vlaardingen
+Westlandseweg,262,"","",3131HX,Vlaardingen
+Westlandseweg,270,"","",3131HX,Vlaardingen
+Westlandseweg,280,"","",3131HX,Vlaardingen
+Broekkade,1,"","",3131HZ,Vlaardingen
+Broekkade,2,"","",3131HZ,Vlaardingen
+Broekkade,2,A,"",3131HZ,Vlaardingen
+Hoogstad,1,"","",3131KX,Vlaardingen
+Hoogstad,101,"","",3131KX,Vlaardingen
+Hoogstad,151,"","",3131KX,Vlaardingen
+Hoogstad,201,"","",3131KX,Vlaardingen
+Hoogstad,203,"","",3131KX,Vlaardingen
+Hoogstad,205,"","",3131KX,Vlaardingen
+Hoogstad,207,"","",3131KX,Vlaardingen
+Hoogstad,209,"","",3131KX,Vlaardingen
+Hoogstad,251,"","",3131KX,Vlaardingen
+Hoogstad,253,"","",3131KX,Vlaardingen
+Hoogstad,255,"","",3131KX,Vlaardingen
+Hoogstad,257,"","",3131KX,Vlaardingen
+Hoogstad,259,"","",3131KX,Vlaardingen
+Hoogstad,265,"","",3131KX,Vlaardingen
+Hoogstad,269,"","",3131KX,Vlaardingen
+Hoogstad,277,"","",3131KX,Vlaardingen
+Hoogstad,279,"","",3131KX,Vlaardingen
+Hoogstad,281,"","",3131KX,Vlaardingen
+Hoogstad,283,"","",3131KX,Vlaardingen
+Hoogstad,401,"","",3131KX,Vlaardingen
+Hoogstad,501,"","",3131KX,Vlaardingen
+Hoogstad,51,"","",3131KX,Vlaardingen
+Hoogstad,601,"","",3131KX,Vlaardingen
+Hoogstad,701,"","",3131KX,Vlaardingen
+Hoogstad,703,"","",3131KX,Vlaardingen
+Hoogstad,705,"","",3131KX,Vlaardingen
+Hoogstad,707,"","",3131KX,Vlaardingen
+Hoogstad,751,"","",3131KX,Vlaardingen
+Gerard Burgerlaan,1,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,1,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,10,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,12,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,14,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,16,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,18,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,2,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,2,A,"",3131KZ,Vlaardingen
+Gerard Burgerlaan,20,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,21,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,29,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,3,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,30,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,32,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,33,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,4,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,5,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,7,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,7,A,"",3131KZ,Vlaardingen
+Gerard Burgerlaan,7,B,"",3131KZ,Vlaardingen
+Gerard Burgerlaan,8,"","",3131KZ,Vlaardingen
+Gerard Burgerlaan,9,"","",3131KZ,Vlaardingen

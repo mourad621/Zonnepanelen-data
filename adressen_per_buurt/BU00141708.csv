@@ -1,458 +1,235 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9751AR",9,"",""
-"9751AR",6,"",""
-"9751AR",2,"",""
-"9751AR",7,"",""
-"9751AR",18,"",""
-"9751AR",5,"",""
-"9751AR",1,"",""
-"9751AR",15,"",""
-"9751AR",3,"",""
-"9751AR",16,"",""
-"9751AR",10,"",""
-"9751AR",4,"",""
-"9751AR",12,"",""
-"9751AR",13,"",""
-"9751AR",11,"",""
-"9751AR",14,"",""
-"9751AR",8,"",""
-"9751HN",11,"",""
-"9751HN",21,"",""
-"9751HN",3,"",""
-"9751HN",1,"",""
-"9751HN",17,"",""
-"9751HN",9,"",""
-"9751HN",5,"",""
-"9751HN",23,"",""
-"9751HN",15,"",""
-"9751HN",13,"",""
-"9751HN",7,"",""
-"9751HN",19,"",""
-"9751HN",25,"",""
-"9751HP",45,"",""
-"9751HP",47,"",""
-"9751HP",57,"",""
-"9751HP",29,"",""
-"9751HP",31,"",""
-"9751HP",43,"",""
-"9751HP",37,"",""
-"9751HP",39,"",""
-"9751HP",33,"",""
-"9751HP",35,"",""
-"9751HP",41,"",""
-"9751HR",6,"",""
-"9751HR",4,"",""
-"9751HR",2,"",""
-"9751HR",18,"",""
-"9751HR",8,"",""
-"9751HR",10,"",""
-"9751HR",20,"",""
-"9751HR",26,"",""
-"9751HR",16,"",""
-"9751HR",12,"",""
-"9751HR",24,"",""
-"9751HR",22,"",""
-"9751HS",50,"",""
-"9751HS",34,"",""
-"9751HS",44,"",""
-"9751HS",30,"",""
-"9751HS",46,"",""
-"9751HS",52,"",""
-"9751HS",56,"",""
-"9751HS",54,"",""
-"9751HS",40,"",""
-"9751HS",36,"",""
-"9751HS",28,"",""
-"9751HS",42,"",""
-"9751HS",32,"",""
-"9751HT",17,"",""
-"9751HT",19,"",""
-"9751HT",11,"",""
-"9751HT",1,"",""
-"9751HT",15,"",""
-"9751HT",3,"",""
-"9751HT",21,"",""
-"9751HT",13,"",""
-"9751HT",9,"",""
-"9751HV",37,"",""
-"9751HV",41,"",""
-"9751HV",35,"",""
-"9751HV",29,"",""
-"9751HV",43,"",""
-"9751HV",39,"",""
-"9751HV",23,"",""
-"9751HW",16,"a",""
-"9751HW",16,"",""
-"9751HW",18,"",""
-"9751HW",12,"",""
-"9751HW",14,"",""
-"9752CG",331,"",""
-"9752CG",331,"A",""
-"9752CG",321,"",""
-"9752CG",335,"a",""
-"9752CG",331,"a",""
-"9752CG",327,"",""
-"9752CG",325,"",""
-"9752CG",317,"",""
-"9752CG",333,"",""
-"9752CG",323,"",""
-"9752CG",319,"",""
-"9752CG",335,"A",""
-"9752CG",335,"",""
-"9752CH",373,"",""
-"9752CH",339,"",""
-"9752CH",357,"A",""
-"9752CH",353,"",""
-"9752CH",347,"",""
-"9752CH",339,"",""
-"9752CH",339,"",""
-"9752CH",359,"",""
-"9752CH",363,"a",""
-"9752CH",361,"B",""
-"9752CH",361,"",""
-"9752CH",361,"a",""
-"9752CH",377,"",""
-"9752CH",357,"",""
-"9752CH",357,"a",""
-"9752CH",375,"",""
-"9752CH",379,"",""
-"9752CH",363,"A",""
-"9752CH",363,"",""
-"9752CH",337,"",""
-"9752CH",361,"",""
-"9752CH",381,"",""
-"9752CH",361,"A",""
-"9752CH",361,"",""
-"9752CH",361,"B",""
-"9752CN",330,"",""
-"9752CN",324,"",""
-"9752CN",334,"",""
-"9752CN",318,"",""
-"9752CN",328,"",""
-"9752CN",322,"a",""
-"9752CN",322,"",""
-"9752CN",324,"",""
-"9752CN",326,"",""
-"9752CN",316,"",""
-"9752CN",316,"",""
-"9752CN",316,"a",""
-"9752CN",324,"",""
-"9752CN",322,"A",""
-"9752CN",320,"",""
-"9752CN",2,"",""
-"9752CN",314,"a",""
-"9752CN",316,"A",""
-"9752CN",314,"A",""
-"9752CN",314,"",""
-"9752CN",332,"",""
-"9752CN",316,"A",""
-"9752CN",316,"",""
-"9752CP",342,"",""
-"9752CP",340,"",""
-"9752CP",336,"",""
-"9752CP",348,"",""
-"9752CP",354,"",""
-"9752CP",358,"",""
-"9752CP",346,"",""
-"9752CP",344,"",""
-"9752CP",338,"",""
-"9752CP",352,"",""
-"9752CP",350,"",""
-"9752CP",356,"",""
-"9752CR",364,"",""
-"9752CR",368,"",""
-"9752CR",380,"",""
-"9752CR",366,"",""
-"9752CR",384,"",""
-"9752CR",382,"",""
-"9752CR",360,"",""
-"9752CR",363,"A",""
-"9752CR",362,"",""
-"9752CR",376,"",""
-"9752VT",45,"",""
-"9752VT",47,"",""
-"9752VT",43,"a",""
-"9752VT",43,"",""
-"9752VT",73,"",""
-"9752VT",69,"",""
-"9752VT",47,"A",""
-"9752VT",47,"b",""
-"9752VT",47,"C",""
-"9752VT",47,"C",""
-"9752VT",47,"D",""
-"9752VT",47,"c",""
-"9752VT",67,"a",""
-"9752VT",61,"",""
-"9752VT",67,"A",""
-"9752VT",47,"a",""
-"9752VT",47,"B",""
-"9752VT",71,"",""
-"9752VT",47,"b",""
-"9752VT",47,"B",""
-"9752VT",51,"",""
-"9752VT",43,"A",""
-"9752VT",47,"c",""
-"9752VT",67,"",""
-"9752VT",47,"d",""
-"9752VT",47,"c",""
-"9752VT",55,"",""
-"9752VT",47,"b",""
-"9752VT",63,"",""
-"9752VT",41,"",""
-"9752VT",53,"",""
-"9752VX",66,"",""
-"9752VX",98,"",""
-"9752VX",62,"",""
-"9752VX",74,"",""
-"9752VX",60,"A",""
-"9752VX",68,"",""
-"9752VX",60,"",""
-"9752VX",60,"a",""
-"9752VX",74,"a",""
-"9752VX",64,"",""
-"9752VX",56,"",""
-"9752VZ",3,"",""
-"9752VZ",4,"",""
-"9752VZ",9,"",""
-"9752VZ",5,"",""
-"9752VZ",3,"",""
-"9752VZ",4,"",""
-"9752VZ",3,"A",""
-"9752VZ",20,"",""
-"9752VZ",4,"",""
-"9752VZ",13,"",""
-"9752VZ",8,"",""
-"9752VZ",2,"",""
-"9752VZ",18,"",""
-"9752VZ",3,"",""
-"9752VZ",6,"",""
-"9752VZ",6,"",""
-"9752VZ",14,"",""
-"9752VZ",12,"",""
-"9752VZ",9,"",""
-"9752VZ",3,"a",""
-"9752VZ",6,"",""
-"9752VZ",9,"",""
-9752VX,Lutsborgsweg,74,a,
-9752CN,Rijksstraatweg,316,,
-9752CN,Rijksstraatweg,316,a,
-9752VT,Lutsborgsweg,55,,
-9751HW,Westerveen,16,a,
-9752VZ,Boerlaan,2,,
-9752VZ,Boerlaan,3,,
-9752VZ,Boerlaan,4,,
-9752VZ,Boerlaan,5,,
-9752VZ,Boerlaan,6,,
-9752VZ,Boerlaan,8,,
-9752VZ,Boerlaan,9,,
-9752VZ,Boerlaan,12,,
-9752VZ,Boerlaan,13,,
-9752VZ,Boerlaan,14,,
-9752VZ,Boerlaan,18,,
-9752VZ,Boerlaan,20,,
-9751AR,Doorrid,1,,
-9751AR,Doorrid,2,,
-9751AR,Doorrid,3,,
-9751AR,Doorrid,4,,
-9751AR,Doorrid,5,,
-9751AR,Doorrid,6,,
-9751AR,Doorrid,7,,
-9751AR,Doorrid,8,,
-9751AR,Doorrid,9,,
-9751AR,Doorrid,10,,
-9751AR,Doorrid,11,,
-9751AR,Doorrid,12,,
-9751AR,Doorrid,13,,
-9751AR,Doorrid,14,,
-9751AR,Doorrid,15,,
-9751AR,Doorrid,16,,
-9751AR,Doorrid,18,,
-9752VT,Lutsborgsweg,41,,
-9752VT,Lutsborgsweg,43,,
-9752VT,Lutsborgsweg,43,A,
-9752VT,Lutsborgsweg,43,a,
-9752VT,Lutsborgsweg,45,,
-9752VT,Lutsborgsweg,47,,
-9752VT,Lutsborgsweg,47,A,
-9752VT,Lutsborgsweg,47,a,
-9752VT,Lutsborgsweg,47,B,
-9752VT,Lutsborgsweg,47,b,
-9752VT,Lutsborgsweg,47,C,
-9752VT,Lutsborgsweg,47,c,
-9752VT,Lutsborgsweg,47,D,
-9752VT,Lutsborgsweg,47,d,
-9752VT,Lutsborgsweg,53,,
-9752VT,Lutsborgsweg,61,,
-9752VT,Lutsborgsweg,63,,
-9752VT,Lutsborgsweg,67,,
-9752VT,Lutsborgsweg,67,A,
-9752VT,Lutsborgsweg,67,a,
-9752VT,Lutsborgsweg,69,,
-9752VT,Lutsborgsweg,71,,
-9752VT,Lutsborgsweg,73,,
-9752VX,Lutsborgsweg,56,,
-9752VX,Lutsborgsweg,60,,
-9752VX,Lutsborgsweg,62,,
-9752VX,Lutsborgsweg,64,,
-9752VX,Lutsborgsweg,66,,
-9752VX,Lutsborgsweg,68,,
-9752VX,Lutsborgsweg,74,,
-9752VX,Lutsborgsweg,98,,
-9752CN,P. Wierengaweg,2,,
-9752VZ,Boerlaan,4,,
-9752VZ,Boerlaan,6,,
-9752VZ,Boerlaan,3,,
-9752VZ,Boerlaan,3,A,
-9752VZ,Boerlaan,3,a,
-9752VZ,Boerlaan,9,,
-9752VT,Lutsborgsweg,51,,
-9752VT,Lutsborgsweg,47,B,
-9752VT,Lutsborgsweg,47,b,
-9752VT,Lutsborgsweg,47,C,
-9752VT,Lutsborgsweg,47,c,
-9752VX,Lutsborgsweg,60,A,
-9752VX,Lutsborgsweg,60,a,
-9752CG,Rijksstraatweg,317,,
-9752CG,Rijksstraatweg,319,,
-9752CG,Rijksstraatweg,321,,
-9752CG,Rijksstraatweg,323,,
-9752CG,Rijksstraatweg,325,,
-9752CG,Rijksstraatweg,327,,
-9752CG,Rijksstraatweg,331,,
-9752CG,Rijksstraatweg,333,,
-9752CG,Rijksstraatweg,335,,
-9752CG,Rijksstraatweg,335,A,
-9752CG,Rijksstraatweg,335,a,
-9752CG,Rijksstraatweg,331,A,
-9752CG,Rijksstraatweg,331,a,
-9752CH,Rijksstraatweg,337,,
-9752CH,Rijksstraatweg,339,,
-9752CH,Rijksstraatweg,347,,
-9752CH,Rijksstraatweg,353,,
-9752CH,Rijksstraatweg,357,,
-9752CH,Rijksstraatweg,359,,
-9752CH,Rijksstraatweg,361,,
-9752CH,Rijksstraatweg,363,,
-9752CH,Rijksstraatweg,363,A,
-9752CH,Rijksstraatweg,363,a,
-9752CH,Rijksstraatweg,373,,
-9752CH,Rijksstraatweg,375,,
-9752CH,Rijksstraatweg,377,,
-9752CH,Rijksstraatweg,379,,
-9752CH,Rijksstraatweg,381,,
-9752CH,Rijksstraatweg,361,B,
-9752CH,Rijksstraatweg,357,A,
-9752CH,Rijksstraatweg,357,a,
-9752CH,Rijksstraatweg,339,,
-9752CH,Rijksstraatweg,361,,
-9752CH,Rijksstraatweg,361,A,
-9752CH,Rijksstraatweg,361,a,
-9752CN,Rijksstraatweg,314,,
-9752CN,Rijksstraatweg,314,A,
-9752CN,Rijksstraatweg,314,a,
-9752CN,Rijksstraatweg,316,,
-9752CN,Rijksstraatweg,316,A,
-9752CN,Rijksstraatweg,318,,
-9752CN,Rijksstraatweg,320,,
-9752CN,Rijksstraatweg,322,,
-9752CN,Rijksstraatweg,322,A,
-9752CN,Rijksstraatweg,322,a,
-9752CN,Rijksstraatweg,324,,
-9752CN,Rijksstraatweg,326,,
-9752CN,Rijksstraatweg,328,,
-9752CN,Rijksstraatweg,330,,
-9752CN,Rijksstraatweg,332,,
-9752CN,Rijksstraatweg,334,,
-9752CN,Rijksstraatweg,324,,
-9752CP,Rijksstraatweg,336,,
-9752CP,Rijksstraatweg,338,,
-9752CP,Rijksstraatweg,340,,
-9752CP,Rijksstraatweg,342,,
-9752CP,Rijksstraatweg,344,,
-9752CP,Rijksstraatweg,346,,
-9752CP,Rijksstraatweg,348,,
-9752CP,Rijksstraatweg,350,,
-9752CP,Rijksstraatweg,352,,
-9752CP,Rijksstraatweg,354,,
-9752CP,Rijksstraatweg,356,,
-9752CP,Rijksstraatweg,358,,
-9752CR,Rijksstraatweg,360,,
-9752CR,Rijksstraatweg,362,,
-9752CR,Rijksstraatweg,363,A,
-9752CR,Rijksstraatweg,364,,
-9752CR,Rijksstraatweg,366,,
-9752CR,Rijksstraatweg,368,,
-9752CR,Rijksstraatweg,376,,
-9752CR,Rijksstraatweg,380,,
-9752CR,Rijksstraatweg,382,,
-9752CR,Rijksstraatweg,384,,
-9751HN,Viaductweg,1,,
-9751HN,Viaductweg,3,,
-9751HN,Viaductweg,5,,
-9751HN,Viaductweg,7,,
-9751HN,Viaductweg,9,,
-9751HN,Viaductweg,11,,
-9751HN,Viaductweg,13,,
-9751HN,Viaductweg,15,,
-9751HN,Viaductweg,17,,
-9751HN,Viaductweg,19,,
-9751HN,Viaductweg,21,,
-9751HN,Viaductweg,23,,
-9751HN,Viaductweg,25,,
-9751HP,Viaductweg,29,,
-9751HP,Viaductweg,31,,
-9751HP,Viaductweg,33,,
-9751HP,Viaductweg,35,,
-9751HP,Viaductweg,37,,
-9751HP,Viaductweg,39,,
-9751HP,Viaductweg,41,,
-9751HP,Viaductweg,43,,
-9751HP,Viaductweg,45,,
-9751HP,Viaductweg,47,,
-9751HP,Viaductweg,57,,
-9751HR,Viaductweg,2,,
-9751HR,Viaductweg,4,,
-9751HR,Viaductweg,6,,
-9751HR,Viaductweg,8,,
-9751HR,Viaductweg,10,,
-9751HR,Viaductweg,12,,
-9751HR,Viaductweg,16,,
-9751HR,Viaductweg,18,,
-9751HR,Viaductweg,20,,
-9751HR,Viaductweg,22,,
-9751HR,Viaductweg,24,,
-9751HR,Viaductweg,26,,
-9751HS,Viaductweg,28,,
-9751HS,Viaductweg,30,,
-9751HS,Viaductweg,32,,
-9751HS,Viaductweg,34,,
-9751HS,Viaductweg,36,,
-9751HS,Viaductweg,40,,
-9751HS,Viaductweg,42,,
-9751HS,Viaductweg,44,,
-9751HS,Viaductweg,46,,
-9751HS,Viaductweg,50,,
-9751HS,Viaductweg,52,,
-9751HS,Viaductweg,54,,
-9751HS,Viaductweg,56,,
-9751HT,Westerveen,1,,
-9751HT,Westerveen,3,,
-9751HT,Westerveen,9,,
-9751HT,Westerveen,11,,
-9751HT,Westerveen,13,,
-9751HT,Westerveen,15,,
-9751HT,Westerveen,17,,
-9751HT,Westerveen,19,,
-9751HT,Westerveen,21,,
-9751HV,Westerveen,23,,
-9751HV,Westerveen,29,,
-9751HV,Westerveen,35,,
-9751HV,Westerveen,37,,
-9751HV,Westerveen,39,,
-9751HV,Westerveen,41,,
-9751HV,Westerveen,43,,
-9751HW,Westerveen,12,,
-9751HW,Westerveen,14,,
-9751HW,Westerveen,16,,
-9751HW,Westerveen,18,,
-9751HN,Ter Laan,8,K,5
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Doorrid,1,"","",9751AR,Haren Gn
+Doorrid,10,"","",9751AR,Haren Gn
+Doorrid,11,"","",9751AR,Haren Gn
+Doorrid,12,"","",9751AR,Haren Gn
+Doorrid,13,"","",9751AR,Haren Gn
+Doorrid,14,"","",9751AR,Haren Gn
+Doorrid,15,"","",9751AR,Haren Gn
+Doorrid,16,"","",9751AR,Haren Gn
+Doorrid,18,"","",9751AR,Haren Gn
+Doorrid,2,"","",9751AR,Haren Gn
+Doorrid,3,"","",9751AR,Haren Gn
+Doorrid,4,"","",9751AR,Haren Gn
+Doorrid,5,"","",9751AR,Haren Gn
+Doorrid,6,"","",9751AR,Haren Gn
+Doorrid,7,"","",9751AR,Haren Gn
+Doorrid,8,"","",9751AR,Haren Gn
+Doorrid,9,"","",9751AR,Haren Gn
+Viaductweg,1,"","",9751HN,Haren Gn
+Viaductweg,11,"","",9751HN,Haren Gn
+Viaductweg,13,"","",9751HN,Haren Gn
+Viaductweg,15,"","",9751HN,Haren Gn
+Viaductweg,17,"","",9751HN,Haren Gn
+Viaductweg,19,"","",9751HN,Haren Gn
+Viaductweg,21,"","",9751HN,Haren Gn
+Viaductweg,23,"","",9751HN,Haren Gn
+Viaductweg,25,"","",9751HN,Haren Gn
+Viaductweg,3,"","",9751HN,Haren Gn
+Viaductweg,5,"","",9751HN,Haren Gn
+Viaductweg,7,"","",9751HN,Haren Gn
+Viaductweg,9,"","",9751HN,Haren Gn
+Viaductweg,29,"","",9751HP,Haren Gn
+Viaductweg,31,"","",9751HP,Haren Gn
+Viaductweg,33,"","",9751HP,Haren Gn
+Viaductweg,35,"","",9751HP,Haren Gn
+Viaductweg,37,"","",9751HP,Haren Gn
+Viaductweg,39,"","",9751HP,Haren Gn
+Viaductweg,41,"","",9751HP,Haren Gn
+Viaductweg,43,"","",9751HP,Haren Gn
+Viaductweg,45,"","",9751HP,Haren Gn
+Viaductweg,47,"","",9751HP,Haren Gn
+Viaductweg,57,"","",9751HP,Haren Gn
+Viaductweg,10,"","",9751HR,Haren Gn
+Viaductweg,12,"","",9751HR,Haren Gn
+Viaductweg,16,"","",9751HR,Haren Gn
+Viaductweg,18,"","",9751HR,Haren Gn
+Viaductweg,2,"","",9751HR,Haren Gn
+Viaductweg,20,"","",9751HR,Haren Gn
+Viaductweg,22,"","",9751HR,Haren Gn
+Viaductweg,24,"","",9751HR,Haren Gn
+Viaductweg,26,"","",9751HR,Haren Gn
+Viaductweg,4,"","",9751HR,Haren Gn
+Viaductweg,6,"","",9751HR,Haren Gn
+Viaductweg,8,"","",9751HR,Haren Gn
+Viaductweg,28,"","",9751HS,Haren Gn
+Viaductweg,30,"","",9751HS,Haren Gn
+Viaductweg,32,"","",9751HS,Haren Gn
+Viaductweg,34,"","",9751HS,Haren Gn
+Viaductweg,36,"","",9751HS,Haren Gn
+Viaductweg,40,"","",9751HS,Haren Gn
+Viaductweg,42,"","",9751HS,Haren Gn
+Viaductweg,44,"","",9751HS,Haren Gn
+Viaductweg,46,"","",9751HS,Haren Gn
+Viaductweg,50,"","",9751HS,Haren Gn
+Viaductweg,52,"","",9751HS,Haren Gn
+Viaductweg,54,"","",9751HS,Haren Gn
+Viaductweg,56,"","",9751HS,Haren Gn
+Westerveen,1,"","",9751HT,Haren Gn
+Westerveen,11,"","",9751HT,Haren Gn
+Westerveen,13,"","",9751HT,Haren Gn
+Westerveen,15,"","",9751HT,Haren Gn
+Westerveen,17,"","",9751HT,Haren Gn
+Westerveen,19,"","",9751HT,Haren Gn
+Westerveen,21,"","",9751HT,Haren Gn
+Westerveen,3,"","",9751HT,Haren Gn
+Westerveen,9,"","",9751HT,Haren Gn
+Westerveen,23,"","",9751HV,Haren Gn
+Westerveen,29,"","",9751HV,Haren Gn
+Westerveen,35,"","",9751HV,Haren Gn
+Westerveen,37,"","",9751HV,Haren Gn
+Westerveen,39,"","",9751HV,Haren Gn
+Westerveen,41,"","",9751HV,Haren Gn
+Westerveen,43,"","",9751HV,Haren Gn
+Westerveen,12,"","",9751HW,Haren Gn
+Westerveen,14,"","",9751HW,Haren Gn
+Westerveen,16,"","",9751HW,Haren Gn
+Westerveen,16,A,"",9751HW,Haren Gn
+Westerveen,18,"","",9751HW,Haren Gn
+Rijksstraatweg,317,"","",9752CG,Haren Gn
+Rijksstraatweg,319,"","",9752CG,Haren Gn
+Rijksstraatweg,321,"","",9752CG,Haren Gn
+Rijksstraatweg,323,"","",9752CG,Haren Gn
+Rijksstraatweg,325,"","",9752CG,Haren Gn
+Rijksstraatweg,327,"","",9752CG,Haren Gn
+Rijksstraatweg,331,"","",9752CG,Haren Gn
+Rijksstraatweg,331,A,"",9752CG,Haren Gn
+Rijksstraatweg,331,A,"",9752CG,Haren Gn
+Rijksstraatweg,333,"","",9752CG,Haren Gn
+Rijksstraatweg,335,"","",9752CG,Haren Gn
+Rijksstraatweg,335,A,"",9752CG,Haren Gn
+Rijksstraatweg,335,A,"",9752CG,Haren Gn
+Rijksstraatweg,337,"","",9752CH,Haren Gn
+Rijksstraatweg,339,"","",9752CH,Haren Gn
+Rijksstraatweg,339,"","",9752CH,Haren Gn
+Rijksstraatweg,339,"","",9752CH,Haren Gn
+Rijksstraatweg,347,"","",9752CH,Haren Gn
+Rijksstraatweg,353,"","",9752CH,Haren Gn
+Rijksstraatweg,357,"","",9752CH,Haren Gn
+Rijksstraatweg,357,A,"",9752CH,Haren Gn
+Rijksstraatweg,357,A,"",9752CH,Haren Gn
+Rijksstraatweg,359,"","",9752CH,Haren Gn
+Rijksstraatweg,361,"","",9752CH,Haren Gn
+Rijksstraatweg,361,"","",9752CH,Haren Gn
+Rijksstraatweg,361,"","",9752CH,Haren Gn
+Rijksstraatweg,361,A,"",9752CH,Haren Gn
+Rijksstraatweg,361,A,"",9752CH,Haren Gn
+Rijksstraatweg,361,B,"",9752CH,Haren Gn
+Rijksstraatweg,361,B,"",9752CH,Haren Gn
+Rijksstraatweg,363,"","",9752CH,Haren Gn
+Rijksstraatweg,363,A,"",9752CH,Haren Gn
+Rijksstraatweg,363,A,"",9752CH,Haren Gn
+Rijksstraatweg,373,"","",9752CH,Haren Gn
+Rijksstraatweg,375,"","",9752CH,Haren Gn
+Rijksstraatweg,377,"","",9752CH,Haren Gn
+Rijksstraatweg,379,"","",9752CH,Haren Gn
+Rijksstraatweg,381,"","",9752CH,Haren Gn
+P. Wierengaweg,2,"","",9752CN,Haren Gn
+Rijksstraatweg,314,"","",9752CN,Haren Gn
+Rijksstraatweg,314,A,"",9752CN,Haren Gn
+Rijksstraatweg,314,A,"",9752CN,Haren Gn
+Rijksstraatweg,316,"","",9752CN,Haren Gn
+Rijksstraatweg,316,"","",9752CN,Haren Gn
+Rijksstraatweg,316,"","",9752CN,Haren Gn
+Rijksstraatweg,316,A,"",9752CN,Haren Gn
+Rijksstraatweg,316,A,"",9752CN,Haren Gn
+Rijksstraatweg,316,A,"",9752CN,Haren Gn
+Rijksstraatweg,318,"","",9752CN,Haren Gn
+Rijksstraatweg,320,"","",9752CN,Haren Gn
+Rijksstraatweg,322,"","",9752CN,Haren Gn
+Rijksstraatweg,322,A,"",9752CN,Haren Gn
+Rijksstraatweg,322,A,"",9752CN,Haren Gn
+Rijksstraatweg,324,"","",9752CN,Haren Gn
+Rijksstraatweg,324,"","",9752CN,Haren Gn
+Rijksstraatweg,324,"","",9752CN,Haren Gn
+Rijksstraatweg,326,"","",9752CN,Haren Gn
+Rijksstraatweg,328,"","",9752CN,Haren Gn
+Rijksstraatweg,330,"","",9752CN,Haren Gn
+Rijksstraatweg,332,"","",9752CN,Haren Gn
+Rijksstraatweg,334,"","",9752CN,Haren Gn
+Rijksstraatweg,336,"","",9752CP,Haren Gn
+Rijksstraatweg,338,"","",9752CP,Haren Gn
+Rijksstraatweg,340,"","",9752CP,Haren Gn
+Rijksstraatweg,342,"","",9752CP,Haren Gn
+Rijksstraatweg,344,"","",9752CP,Haren Gn
+Rijksstraatweg,346,"","",9752CP,Haren Gn
+Rijksstraatweg,348,"","",9752CP,Haren Gn
+Rijksstraatweg,350,"","",9752CP,Haren Gn
+Rijksstraatweg,352,"","",9752CP,Haren Gn
+Rijksstraatweg,354,"","",9752CP,Haren Gn
+Rijksstraatweg,356,"","",9752CP,Haren Gn
+Rijksstraatweg,358,"","",9752CP,Haren Gn
+Rijksstraatweg,360,"","",9752CR,Haren Gn
+Rijksstraatweg,362,"","",9752CR,Haren Gn
+Rijksstraatweg,363,A,"",9752CR,Haren Gn
+Rijksstraatweg,364,"","",9752CR,Haren Gn
+Rijksstraatweg,366,"","",9752CR,Haren Gn
+Rijksstraatweg,368,"","",9752CR,Haren Gn
+Rijksstraatweg,376,"","",9752CR,Haren Gn
+Rijksstraatweg,380,"","",9752CR,Haren Gn
+Rijksstraatweg,382,"","",9752CR,Haren Gn
+Rijksstraatweg,384,"","",9752CR,Haren Gn
+Lutsborgsweg,41,"","",9752VT,Haren Gn
+Lutsborgsweg,43,"","",9752VT,Haren Gn
+Lutsborgsweg,43,A,"",9752VT,Haren Gn
+Lutsborgsweg,43,A,"",9752VT,Haren Gn
+Lutsborgsweg,45,"","",9752VT,Haren Gn
+Lutsborgsweg,47,"","",9752VT,Haren Gn
+Lutsborgsweg,47,A,"",9752VT,Haren Gn
+Lutsborgsweg,47,A,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,B,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,C,"",9752VT,Haren Gn
+Lutsborgsweg,47,D,"",9752VT,Haren Gn
+Lutsborgsweg,47,D,"",9752VT,Haren Gn
+Lutsborgsweg,51,"","",9752VT,Haren Gn
+Lutsborgsweg,53,"","",9752VT,Haren Gn
+Lutsborgsweg,55,"","",9752VT,Haren Gn
+Lutsborgsweg,61,"","",9752VT,Haren Gn
+Lutsborgsweg,63,"","",9752VT,Haren Gn
+Lutsborgsweg,67,"","",9752VT,Haren Gn
+Lutsborgsweg,67,A,"",9752VT,Haren Gn
+Lutsborgsweg,67,A,"",9752VT,Haren Gn
+Lutsborgsweg,69,"","",9752VT,Haren Gn
+Lutsborgsweg,71,"","",9752VT,Haren Gn
+Lutsborgsweg,73,"","",9752VT,Haren Gn
+Lutsborgsweg,56,"","",9752VX,Haren Gn
+Lutsborgsweg,60,"","",9752VX,Haren Gn
+Lutsborgsweg,60,A,"",9752VX,Haren Gn
+Lutsborgsweg,60,A,"",9752VX,Haren Gn
+Lutsborgsweg,62,"","",9752VX,Haren Gn
+Lutsborgsweg,64,"","",9752VX,Haren Gn
+Lutsborgsweg,66,"","",9752VX,Haren Gn
+Lutsborgsweg,68,"","",9752VX,Haren Gn
+Lutsborgsweg,74,"","",9752VX,Haren Gn
+Lutsborgsweg,74,A,"",9752VX,Haren Gn
+Lutsborgsweg,98,"","",9752VX,Haren Gn
+Boerlaan,12,"","",9752VZ,Haren Gn
+Boerlaan,13,"","",9752VZ,Haren Gn
+Boerlaan,14,"","",9752VZ,Haren Gn
+Boerlaan,18,"","",9752VZ,Haren Gn
+Boerlaan,2,"","",9752VZ,Haren Gn
+Boerlaan,20,"","",9752VZ,Haren Gn
+Boerlaan,3,"","",9752VZ,Haren Gn
+Boerlaan,3,"","",9752VZ,Haren Gn
+Boerlaan,3,"","",9752VZ,Haren Gn
+Boerlaan,3,A,"",9752VZ,Haren Gn
+Boerlaan,3,A,"",9752VZ,Haren Gn
+Boerlaan,4,"","",9752VZ,Haren Gn
+Boerlaan,4,"","",9752VZ,Haren Gn
+Boerlaan,4,"","",9752VZ,Haren Gn
+Boerlaan,5,"","",9752VZ,Haren Gn
+Boerlaan,6,"","",9752VZ,Haren Gn
+Boerlaan,6,"","",9752VZ,Haren Gn
+Boerlaan,6,"","",9752VZ,Haren Gn
+Boerlaan,8,"","",9752VZ,Haren Gn
+Boerlaan,9,"","",9752VZ,Haren Gn
+Boerlaan,9,"","",9752VZ,Haren Gn
+Boerlaan,9,"","",9752VZ,Haren Gn

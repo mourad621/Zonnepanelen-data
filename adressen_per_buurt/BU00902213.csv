@@ -1,128 +1,129 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8497NH",9,"a",""
-"8497NH",9,"",""
-"8497NH",20,"",""
-"8497NH",15,"",""
-"8497NH",10,"",""
-"8497NH",8,"",""
-"8497NH",9,"c",""
-"8497NH",11,"",""
-"8497NH",12,"",""
-"8497NH",6,"",""
-"8497NH",24,"",""
-"8497NJ",5,"","1"
-"8497NJ",5,"","1"
-"8497NJ",5,"",""
-"8497NJ",5,"","3"
-"8497NJ",1,"",""
-"8497NJ",5,"","6"
-"8497NJ",5,"","8"
-"8497NJ",5,"a",""
-"8497NJ",5,"","2"
-"8497NJ",5,"","7"
-"8497NJ",5,"","3"
-"8497NJ",5,"","6"
-"8497NJ",5,"","4"
-"8497NJ",5,"","2"
-"8497NJ",5,"","8"
-"8497NJ",5,"a",""
-"8497NJ",5,"","5"
-"8497NJ",5,"","7"
-"8497NJ",5,"","4"
-"8497NJ",5,"","5"
-"8497NK",7,"",""
-"8497NK",7,"",""
-"8497NK",6,"","4"
-"8497NK",6,"","5"
-"8497NK",6,"a",""
-"8497NK",6,"","5"
-"8497NK",6,"","5"
-"8497NK",6,"","5"
-"8497NK",6,"b",""
-"8497NK",6,"","2"
-"8497NK",6,"","3"
-"8497NK",7,"",""
-"8497NK",6,"","4"
-"8497NK",5,"a",""
-"8497NK",5,"a",""
-"8497NK",6,"","1"
-"8497NK",6,"",""
-"8497NK",6,"",""
-"8497NK",3,"a",""
-"8497NK",6,"","3"
-"8497NK",6,"","1"
-"8497NK",2,"",""
-"8497NK",1,"",""
-"8497NK",3,"",""
-"8497NK",7,"a",""
-"8497NK",6,"","2"
-"8497NK",2,"a",""
-"8497NK",5,"",""
-"8497NL",7,"",""
-"8497NL",4,"",""
-"8497NL",10,"a",""
-"8497NL",6,"",""
-"8497NL",10,"",""
-"8497NL",18,"",""
-"8497NL",18,"a",""
-"8497NL",10,"b",""
-"8497NL",12,"",""
-"8497NL",12,"",""
-"8497NL",12,"",""
-8497NK,It Eilân,3,,
-8497NK,It Eilân,1,,
-8497NK,It Eilân,3,a,
-8497NK,It Eilân,6,,
-8497NL,Peansterdyk,7,,
-8497NL,Peansterdyk,10,,
-8497NL,Peansterdyk,4,,
-8497NH,Swettewei,24,,
-8497NH,Swettewei,12,,
-8497NH,Swettewei,6,,
-8497NK,It Eilân,2,,
-8497NJ,Kobbewei,5,,
-8497NL,Peansterdyk,18,,
-8497NH,Swettewei,10,,
-8497NH,Swettewei,15,,
-8497NH,Swettewei,20,,
-8497NK,It Eilân,6,a,
-8497NK,It Eilân,7,,
-8497NK,It Eilân,5,,
-8497NK,It Eilân,2,a,
-8497NK,It Eilân,6,,5
-8497NJ,Kobbewei,1,,
-8497NJ,Kobbewei,5,a,
-8497NJ,Kobbewei,5,,1
-8497NJ,Kobbewei,5,,2
-8497NJ,Kobbewei,5,,3
-8497NJ,Kobbewei,5,,5
-8497NJ,Kobbewei,5,,7
-8497NJ,Kobbewei,5,,6
-8497NL,Peansterdyk,6,,
-8497NH,Swettewei,8,,
-8497NH,Swettewei,11,,
-8497NH,Swettewei,9,c,
-8497NH,Swettewei,9,,
-8497NK,It Eilân,6,,1
-8497NK,It Eilân,6,,1
-8497NK,It Eilân,6,,2
-8497NK,It Eilân,6,,2
-8497NK,It Eilân,6,,3
-8497NK,It Eilân,6,,3
-8497NK,It Eilân,6,,4
-8497NK,It Eilân,6,,4
-8497NK,It Eilân,6,,5
-8497NK,It Eilân,6,,5
-8497NK,It Eilân,6,b,
-8497NK,It Eilân,7,,
-8497NK,It Eilân,7,a,
-8497NK,It Eilân,5,a,
-8497NK,It Eilân,5,a,
-8497NJ,Kobbewei,5,,4
-8497NJ,Kobbewei,5,,8
-8497NL,Peansterdyk,12,,
-8497NL,Peansterdyk,18,a,
-8497NL,Peansterdyk,10,a,
-8497NL,Peansterdyk,10,b,
-8497NL,Peansterdyk,12,,
-8497NH,Swettewei,9,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+9,"","","",8497NH,
+20,"","","",8497NH,
+15,"","","",8497NH,
+10,"","","",8497NH,
+8,"","","",8497NH,
+11,"","","",8497NH,
+12,"","","",8497NH,
+6,"","","",8497NH,
+24,"","","",8497NH,
+Swettewei,10,"","",8497NH,Goëngahuizen
+Swettewei,11,"","",8497NH,Goëngahuizen
+Swettewei,12,"","",8497NH,Goëngahuizen
+Swettewei,15,"","",8497NH,Goëngahuizen
+Swettewei,20,"","",8497NH,Goëngahuizen
+Swettewei,24,"","",8497NH,Goëngahuizen
+Swettewei,6,"","",8497NH,Goëngahuizen
+Swettewei,8,"","",8497NH,Goëngahuizen
+Swettewei,9,"","",8497NH,Goëngahuizen
+Swettewei,9,A,"",8497NH,Goëngahuizen
+Swettewei,9,C,"",8497NH,Goëngahuizen
+9,A,"","",8497NH,
+9,C,"","",8497NH,
+5,"","","",8497NJ,
+1,"","","",8497NJ,
+5,"",1,"",8497NJ,
+5,"",1,"",8497NJ,
+5,"",2,"",8497NJ,
+5,"",2,"",8497NJ,
+5,"",3,"",8497NJ,
+5,"",3,"",8497NJ,
+5,"",4,"",8497NJ,
+5,"",4,"",8497NJ,
+5,"",5,"",8497NJ,
+5,"",5,"",8497NJ,
+5,"",6,"",8497NJ,
+5,"",6,"",8497NJ,
+5,"",7,"",8497NJ,
+5,"",7,"",8497NJ,
+5,"",8,"",8497NJ,
+5,"",8,"",8497NJ,
+Kobbewei,1,"","",8497NJ,Goëngahuizen
+Kobbewei,5,"","",8497NJ,Goëngahuizen
+Kobbewei,5,"",1,8497NJ,Goëngahuizen
+Kobbewei,5,"",2,8497NJ,Goëngahuizen
+Kobbewei,5,"",3,8497NJ,Goëngahuizen
+Kobbewei,5,"",4,8497NJ,Goëngahuizen
+Kobbewei,5,"",5,8497NJ,Goëngahuizen
+Kobbewei,5,"",6,8497NJ,Goëngahuizen
+Kobbewei,5,"",7,8497NJ,Goëngahuizen
+Kobbewei,5,"",8,8497NJ,Goëngahuizen
+Kobbewei,5,A,"",8497NJ,Goëngahuizen
+5,A,"","",8497NJ,
+5,A,"","",8497NJ,
+7,"","","",8497NK,
+7,"","","",8497NK,
+7,"","","",8497NK,
+6,"","","",8497NK,
+6,"","","",8497NK,
+2,"","","",8497NK,
+1,"","","",8497NK,
+3,"","","",8497NK,
+5,"","","",8497NK,
+6,"",1,"",8497NK,
+6,"",1,"",8497NK,
+6,"",2,"",8497NK,
+6,"",2,"",8497NK,
+6,"",3,"",8497NK,
+6,"",3,"",8497NK,
+6,"",4,"",8497NK,
+6,"",4,"",8497NK,
+6,"",5,"",8497NK,
+6,"",5,"",8497NK,
+6,"",5,"",8497NK,
+6,"",5,"",8497NK,
+It Eilân,1,"","",8497NK,Goëngahuizen
+It Eilân,2,"","",8497NK,Goëngahuizen
+It Eilân,2,A,"",8497NK,Goëngahuizen
+It Eilân,3,"","",8497NK,Goëngahuizen
+It Eilân,3,A,"",8497NK,Goëngahuizen
+It Eilân,5,"","",8497NK,Goëngahuizen
+It Eilân,5,A,"",8497NK,Goëngahuizen
+It Eilân,5,A,"",8497NK,Goëngahuizen
+It Eilân,6,"","",8497NK,Goëngahuizen
+It Eilân,6,"",1,8497NK,Goëngahuizen
+It Eilân,6,"",1,8497NK,Goëngahuizen
+It Eilân,6,"",2,8497NK,Goëngahuizen
+It Eilân,6,"",2,8497NK,Goëngahuizen
+It Eilân,6,"",3,8497NK,Goëngahuizen
+It Eilân,6,"",3,8497NK,Goëngahuizen
+It Eilân,6,"",4,8497NK,Goëngahuizen
+It Eilân,6,"",4,8497NK,Goëngahuizen
+It Eilân,6,"",5,8497NK,Goëngahuizen
+It Eilân,6,"",5,8497NK,Goëngahuizen
+It Eilân,6,"",5,8497NK,Goëngahuizen
+It Eilân,6,A,"",8497NK,Goëngahuizen
+It Eilân,6,B,"",8497NK,Goëngahuizen
+It Eilân,7,"","",8497NK,Goëngahuizen
+It Eilân,7,"","",8497NK,Goëngahuizen
+It Eilân,7,A,"",8497NK,Goëngahuizen
+6,A,"","",8497NK,
+5,A,"","",8497NK,
+5,A,"","",8497NK,
+3,A,"","",8497NK,
+7,A,"","",8497NK,
+2,A,"","",8497NK,
+6,B,"","",8497NK,
+7,"","","",8497NL,
+4,"","","",8497NL,
+6,"","","",8497NL,
+10,"","","",8497NL,
+18,"","","",8497NL,
+12,"","","",8497NL,
+12,"","","",8497NL,
+12,"","","",8497NL,
+Peansterdyk,10,"","",8497NL,Goëngahuizen
+Peansterdyk,10,A,"",8497NL,Goëngahuizen
+Peansterdyk,10,B,"",8497NL,Goëngahuizen
+Peansterdyk,12,"","",8497NL,Goëngahuizen
+Peansterdyk,12,"","",8497NL,Goëngahuizen
+Peansterdyk,18,"","",8497NL,Goëngahuizen
+Peansterdyk,18,A,"",8497NL,Goëngahuizen
+Peansterdyk,4,"","",8497NL,Goëngahuizen
+Peansterdyk,6,"","",8497NL,Goëngahuizen
+Peansterdyk,7,"","",8497NL,Goëngahuizen
+10,A,"","",8497NL,
+18,A,"","",8497NL,
+10,B,"","",8497NL,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

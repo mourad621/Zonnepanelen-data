@@ -1,20 +1,20 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6866ND,de Kamp,4,B,
-6866ND,de Kamp,7,,
-6866ND,de Kamp,7,R,
-6866ND,de Kamp,8,,
-6866ND,de Kamp,6,,
-6866ND,de Kamp,5,,
-6866ND,de Kamp,4,,
-6866ND,de Kamp,2,,
-6866NE,Kabeljauw,9,A,
-6866NE,Kabeljauw,9,B,
-6866NE,Kabeljauw,11,,
-6866NE,Kabeljauw,9,,
-6866NE,Kabeljauw,8,,
-6866NE,Kabeljauw,6,,
-6866NE,Kabeljauw,5,,
-6866NE,Kabeljauw,2,,
-6866NE,Kabeljauw,1,,
-6866ND,de Kamp,3,,
-6866ND,de Kamp,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+de Kamp,1,"","",6866ND,Heelsum
+de Kamp,2,"","",6866ND,Heelsum
+de Kamp,3,"","",6866ND,Heelsum
+de Kamp,4,"","",6866ND,Heelsum
+de Kamp,4,B,"",6866ND,Heelsum
+de Kamp,5,"","",6866ND,Heelsum
+de Kamp,6,"","",6866ND,Heelsum
+de Kamp,7,"","",6866ND,Heelsum
+de Kamp,7,R,"",6866ND,Heelsum
+de Kamp,8,"","",6866ND,Heelsum
+Kabeljauw,1,"","",6866NE,Heelsum
+Kabeljauw,11,"","",6866NE,Heelsum
+Kabeljauw,2,"","",6866NE,Heelsum
+Kabeljauw,5,"","",6866NE,Heelsum
+Kabeljauw,6,"","",6866NE,Heelsum
+Kabeljauw,8,"","",6866NE,Heelsum
+Kabeljauw,9,"","",6866NE,Heelsum
+Kabeljauw,9,A,"",6866NE,Heelsum
+Kabeljauw,9,B,"",6866NE,Heelsum

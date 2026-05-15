@@ -1,101 +1,101 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1566NX,Communicatieweg West,26,,
-1566NX,Communicatieweg West,24,A,
-1566NX,Communicatieweg West,24,,
-1566NC,Kagerweg,3,A,
-1566NC,Kagerweg,7,,
-1566NV,Groenedijk,20,,
-1566NE,Zeedijk,7,,
-1566NE,Zeedijk,11,,
-1566NE,Zeedijk,13,,
-1566NC,Kagerweg,6,,
-1566NC,Kagerweg,2,,
-1566NC,Kagerweg,5,C,
-1566NC,Kagerweg,5,,
-1566NC,Kagerweg,3,A,BOV
-1566NC,Kagerweg,11,,
-1566NC,Kagerweg,10,,
-1566ND,Zeedijk,4,,
-1566ND,Zeedijk,3,,
-1566ND,Zeedijk,2,A,2
-1566ND,Zeedijk,2,,
-1566ND,Zeedijk,2,A,1
-1566NX,Communicatieweg West,25,A,
-1566NC,Kagerweg,14,,
-1566NC,Kagerweg,3,B,
-1566NC,Kagerweg,8,,
-1566NC,Kagerweg,12,,
-1566NC,Kagerweg,1,,
-1566ND,Zeedijk,2,B,
-1566ND,Zeedijk,4,B,
-1566NE,Zeedijk,10,,
-1566NE,Zeedijk,8,,VO
-1566NG,Vonderweg,1,,
-1566NX,Communicatieweg West,23,A,
-1566NC,Kagerweg,9,,
-1566NC,Kagerweg,2,A,
-1566NC,Kagerweg,5,A,
-1566NV,Groenedijk,10,A,
-1566NV,Groenedijk,4,,
-1566NV,Groenedijk,10,,
-1566NV,Groenedijk,14,,
-1566NT,Groeneweg,3,A,
-1566ND,Zeedijk,2,A,
-1566ND,Zeedijk,1,,
-1566ND,Zeedijk,4,B,NA01
-1566ND,Zeedijk,4,B,NA02
-1566ND,Zeedijk,4,B,TO
-1566NE,Zeedijk,11,B,
-1566NE,Zeedijk,9,A,
-1566NE,Zeedijk,9,B,
-1566NE,Zeedijk,11,C,AC
-1566NE,Zeedijk,6,,
-1566NE,Zeedijk,8,,
-1566NE,Zeedijk,9,,
-1566NE,Zeedijk,11,C,
-1566NE,Zeedijk,11,A,
-1566NN,Zeven Maat,1,,
-1566NH,Zuiderweg,2,A,
-1566NH,Zuiderweg,3,,
-1566NH,Zuiderweg,4,,
-1566NH,Zuiderweg,2,,
-1566NG,Vonderweg,2,,
-1566NC,Kagerweg,4,,
-1566NC,Kagerweg,13,,
-1566NT,Groeneweg,3,,
-1566ND,Zeedijk,5,A,
-1566NE,Zeedijk,12,,
-1566NX,Communicatieweg West,23,,
-1566NC,Kagerweg,15,,
-1566NC,Kagerweg,2,B,
-1566ND,Zeedijk,5,,
-1566NE,Zeedijk,8,A,
-1566NG,Vonderweg,1,,NA
-1566NV,Groenedijk,16,,
-1566NE,Zeedijk,7,A,
-1566NE,Zeedijk,7,A,
-1566NE,Zeedijk,7,A,
-1566NH,Zuiderweg,1,,
-1566NX,Communicatieweg West,25,,
-1566NX,Communicatieweg West,27,,
-1566NV,Groenedijk,18,,
-1566NN,Zeven Maat,3,,
-1566NN,Zeven Maat,3,,
-1566NN,Zeven Maat,3,,
-1566ND,Zeedijk,5,,
-1566NE,Zeedijk,13,,
-1566NE,Zeedijk,15,,
-1566NC,Kagerweg,3,C,
-1566NC,Kagerweg,3,C,
-1566NC,Kagerweg,10,,
-1566NC,Kagerweg,10,,
-1566ND,Zeedijk,4,B,NA01
-1566ND,Zeedijk,4,A,
-1566ND,Zeedijk,4,A,1
-1566ND,Zeedijk,2,A,3
-1566NH,Zuiderweg,2,B,
-1566ND,Zeedijk,5,B,
-1566ND,Zeedijk,5,B,
-1566NX,Communicatieweg West,23,A,
-1566NC,Kagerweg,7,A,
-1566NC,Kagerweg,5,D,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kagerweg,1,"","",1566NC,Assendelft
+Kagerweg,10,"","",1566NC,Assendelft
+Kagerweg,10,"","",1566NC,Assendelft
+Kagerweg,10,"","",1566NC,Assendelft
+Kagerweg,11,"","",1566NC,Assendelft
+Kagerweg,12,"","",1566NC,Assendelft
+Kagerweg,13,"","",1566NC,Assendelft
+Kagerweg,14,"","",1566NC,Assendelft
+Kagerweg,15,"","",1566NC,Assendelft
+Kagerweg,2,"","",1566NC,Assendelft
+Kagerweg,2,A,"",1566NC,Assendelft
+Kagerweg,2,B,"",1566NC,Assendelft
+Kagerweg,3,A,"",1566NC,Assendelft
+Kagerweg,3,A,BOV,1566NC,Assendelft
+Kagerweg,3,B,"",1566NC,Assendelft
+Kagerweg,3,C,"",1566NC,Assendelft
+Kagerweg,3,C,"",1566NC,Assendelft
+Kagerweg,4,"","",1566NC,Assendelft
+Kagerweg,5,"","",1566NC,Assendelft
+Kagerweg,5,A,"",1566NC,Assendelft
+Kagerweg,5,C,"",1566NC,Assendelft
+Kagerweg,5,D,"",1566NC,Assendelft
+Kagerweg,6,"","",1566NC,Assendelft
+Kagerweg,7,"","",1566NC,Assendelft
+Kagerweg,7,A,"",1566NC,Assendelft
+Kagerweg,8,"","",1566NC,Assendelft
+Kagerweg,9,"","",1566NC,Assendelft
+Zeedijk,1,"","",1566ND,Assendelft
+Zeedijk,2,"","",1566ND,Assendelft
+Zeedijk,2,A,"",1566ND,Assendelft
+Zeedijk,2,A,1,1566ND,Assendelft
+Zeedijk,2,A,2,1566ND,Assendelft
+Zeedijk,2,A,3,1566ND,Assendelft
+Zeedijk,2,B,"",1566ND,Assendelft
+Zeedijk,3,"","",1566ND,Assendelft
+Zeedijk,4,"","",1566ND,Assendelft
+Zeedijk,4,A,"",1566ND,Assendelft
+Zeedijk,4,A,1,1566ND,Assendelft
+Zeedijk,4,B,"",1566ND,Assendelft
+Zeedijk,4,B,NA01,1566ND,Assendelft
+Zeedijk,4,B,NA01,1566ND,Assendelft
+Zeedijk,4,B,NA02,1566ND,Assendelft
+Zeedijk,4,B,TO,1566ND,Assendelft
+Zeedijk,5,"","",1566ND,Assendelft
+Zeedijk,5,"","",1566ND,Assendelft
+Zeedijk,5,A,"",1566ND,Assendelft
+Zeedijk,5,B,"",1566ND,Assendelft
+Zeedijk,5,B,"",1566ND,Assendelft
+Zeedijk,10,"","",1566NE,Assendelft
+Zeedijk,11,"","",1566NE,Assendelft
+Zeedijk,11,A,"",1566NE,Assendelft
+Zeedijk,11,B,"",1566NE,Assendelft
+Zeedijk,11,C,"",1566NE,Assendelft
+Zeedijk,11,C,AC,1566NE,Assendelft
+Zeedijk,12,"","",1566NE,Assendelft
+Zeedijk,13,"","",1566NE,Assendelft
+Zeedijk,13,"","",1566NE,Assendelft
+Zeedijk,15,"","",1566NE,Assendelft
+Zeedijk,6,"","",1566NE,Assendelft
+Zeedijk,7,"","",1566NE,Assendelft
+Zeedijk,7,A,"",1566NE,Assendelft
+Zeedijk,7,A,"",1566NE,Assendelft
+Zeedijk,7,A,"",1566NE,Assendelft
+Zeedijk,8,"","",1566NE,Assendelft
+Zeedijk,8,"",VO,1566NE,Assendelft
+Zeedijk,8,A,"",1566NE,Assendelft
+Zeedijk,9,"","",1566NE,Assendelft
+Zeedijk,9,A,"",1566NE,Assendelft
+Zeedijk,9,B,"",1566NE,Assendelft
+Vonderweg,1,"","",1566NG,Assendelft
+Vonderweg,1,"","",1566NG,Assendelft
+Vonderweg,2,"","",1566NG,Assendelft
+Zuiderweg,1,"","",1566NH,Assendelft
+Zuiderweg,2,"","",1566NH,Assendelft
+Zuiderweg,2,A,"",1566NH,Assendelft
+Zuiderweg,2,B,"",1566NH,Assendelft
+Zuiderweg,3,"","",1566NH,Assendelft
+Zuiderweg,4,"","",1566NH,Assendelft
+Zeven Maat,1,"","",1566NN,Assendelft
+Zeven Maat,3,"","",1566NN,Assendelft
+Zeven Maat,3,"","",1566NN,Assendelft
+Zeven Maat,3,"","",1566NN,Assendelft
+Groeneweg,3,"","",1566NT,Assendelft
+Groeneweg,3,A,"",1566NT,Assendelft
+Groenedijk,10,"","",1566NV,Assendelft
+Groenedijk,10,A,"",1566NV,Assendelft
+Groenedijk,14,"","",1566NV,Assendelft
+Groenedijk,16,"","",1566NV,Assendelft
+Groenedijk,18,"","",1566NV,Assendelft
+Groenedijk,20,"","",1566NV,Assendelft
+Groenedijk,4,"","",1566NV,Assendelft
+Communicatieweg West,23,"","",1566NX,Assendelft
+Communicatieweg West,23,A,"",1566NX,Assendelft
+Communicatieweg West,23,A,"",1566NX,Assendelft
+Communicatieweg West,24,"","",1566NX,Assendelft
+Communicatieweg West,24,A,"",1566NX,Assendelft
+Communicatieweg West,25,"","",1566NX,Assendelft
+Communicatieweg West,25,A,"",1566NX,Assendelft
+Communicatieweg West,26,"","",1566NX,Assendelft
+Communicatieweg West,27,"","",1566NX,Assendelft

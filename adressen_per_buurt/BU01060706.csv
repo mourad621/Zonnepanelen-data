@@ -1,822 +1,423 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9403PA",52,"",""
-"9403PA",46,"",""
-"9403PA",22,"",""
-"9403PA",12,"",""
-"9403PA",11,"D",""
-"9403PA",30,"",""
-"9403PA",6,"",""
-"9403PA",32,"",""
-"9403PA",24,"",""
-"9403PA",11,"D",""
-"9403PA",10,"",""
-"9403PA",54,"",""
-"9403PA",26,"",""
-"9403PA",11,"D",""
-"9403PA",50,"",""
-"9403PA",28,"",""
-"9403PA",16,"",""
-"9403PA",20,"",""
-"9403PA",18,"",""
-"9403PA",11,"A",""
-"9403PA",11,"A",""
-"9403PA",1,"A",""
-"9403PA",11,"D",""
-"9403PA",3,"",""
-"9403PA",11,"A",""
-"9403PA",11,"",""
-"9403PA",11,"A",""
-"9403PA",11,"A",""
-"9403PA",15,"",""
-"9403PA",14,"",""
-"9403PA",1,"",""
-"9403PA",11,"D",""
-"9403PB",21,"",""
-"9403PB",14,"",""
-"9403PB",3,"",""
-"9403PB",23,"",""
-"9403PB",4,"",""
-"9403PB",9,"",""
-"9403PB",25,"",""
-"9403PB",10,"",""
-"9403PB",1,"",""
-"9403PB",13,"",""
-"9403PB",12,"",""
-"9403PB",11,"",""
-"9403PB",19,"",""
-"9403PB",6,"",""
-"9403PB",8,"",""
-"9403PB",7,"",""
-"9403PB",2,"",""
-"9403PB",16,"",""
-"9403PB",5,"",""
-"9403PB",27,"",""
-"9403PB",15,"",""
-"9403PC",16,"",""
-"9403PC",18,"",""
-"9403PC",14,"",""
-"9403PC",28,"",""
-"9403PC",20,"",""
-"9403PC",12,"",""
-"9403PC",6,"",""
-"9403PC",24,"",""
-"9403PC",26,"",""
-"9403PC",8,"",""
-"9403PC",10,"",""
-"9403PC",42,"",""
-"9403PC",30,"",""
-"9403PC",38,"",""
-"9403PC",36,"",""
-"9403PC",44,"",""
-"9403PC",40,"",""
-"9403PC",46,"",""
-"9403PC",4,"",""
-"9403PC",32,"",""
-"9403PC",34,"",""
-"9403PC",22,"",""
-"9403PD",13,"",""
-"9403PD",19,"",""
-"9403PD",35,"",""
-"9403PD",37,"",""
-"9403PD",39,"",""
-"9403PD",31,"",""
-"9403PD",23,"",""
-"9403PD",15,"",""
-"9403PD",5,"",""
-"9403PD",1,"",""
-"9403PD",33,"",""
-"9403PD",21,"",""
-"9403PD",17,"",""
-"9403PD",9,"",""
-"9403PD",7,"",""
-"9403PD",49,"",""
-"9403PD",11,"",""
-"9403PD",25,"",""
-"9403PD",47,"",""
-"9403PD",51,"",""
-"9403PD",29,"",""
-"9403PD",27,"",""
-"9403PD",43,"",""
-"9403PD",3,"",""
-"9403PD",45,"",""
-"9403PD",41,"",""
-"9403PE",2,"",""
-"9403PE",18,"",""
-"9403PE",14,"",""
-"9403PE",38,"",""
-"9403PE",16,"",""
-"9403PE",24,"",""
-"9403PE",40,"",""
-"9403PE",32,"",""
-"9403PE",12,"",""
-"9403PE",4,"",""
-"9403PE",8,"",""
-"9403PE",20,"",""
-"9403PE",6,"",""
-"9403PE",28,"",""
-"9403PE",30,"",""
-"9403PE",22,"",""
-"9403PE",36,"",""
-"9403PE",34,"",""
-"9403PE",10,"",""
-"9403PE",42,"",""
-"9403PE",26,"",""
-"9403PG",3,"",""
-"9403PG",13,"A",""
-"9403PG",1,"",""
-"9403PG",11,"",""
-"9403PG",5,"",""
-"9403PG",9,"",""
-"9403PG",19,"",""
-"9403PG",17,"",""
-"9403PG",13,"",""
-"9403PG",7,"",""
-"9403PG",15,"",""
-"9403PH",24,"",""
-"9403PH",26,"",""
-"9403PH",6,"",""
-"9403PH",14,"",""
-"9403PH",28,"",""
-"9403PH",12,"",""
-"9403PH",16,"",""
-"9403PH",18,"",""
-"9403PH",30,"",""
-"9403PH",8,"",""
-"9403PH",22,"",""
-"9403PH",10,"",""
-"9403PH",20,"",""
-"9403PH",2,"",""
-"9403PH",4,"",""
-"9403PJ",4,"",""
-"9403PJ",46,"",""
-"9403PJ",6,"",""
-"9403PJ",32,"",""
-"9403PJ",28,"",""
-"9403PJ",12,"",""
-"9403PJ",26,"",""
-"9403PJ",34,"",""
-"9403PJ",2,"",""
-"9403PJ",10,"",""
-"9403PJ",20,"",""
-"9403PJ",24,"",""
-"9403PJ",8,"",""
-"9403PJ",40,"",""
-"9403PJ",36,"",""
-"9403PJ",42,"",""
-"9403PJ",14,"",""
-"9403PJ",22,"",""
-"9403PJ",44,"",""
-"9403PJ",38,"",""
-"9403PJ",16,"",""
-"9403PJ",18,"",""
-"9403PJ",30,"",""
-"9403PK",15,"",""
-"9403PK",19,"",""
-"9403PK",3,"",""
-"9403PK",9,"",""
-"9403PK",11,"",""
-"9403PK",13,"",""
-"9403PK",5,"",""
-"9403PK",7,"",""
-"9403PK",17,"",""
-"9403PK",1,"",""
-"9403PL",9,"",""
-"9403PL",11,"",""
-"9403PL",12,"",""
-"9403PL",20,"",""
-"9403PL",13,"",""
-"9403PL",16,"",""
-"9403PL",4,"",""
-"9403PL",14,"",""
-"9403PL",1,"",""
-"9403PL",7,"",""
-"9403PL",18,"",""
-"9403PL",10,"",""
-"9403PL",8,"",""
-"9403PL",2,"",""
-"9403PL",6,"",""
-"9403PL",5,"",""
-"9403PL",3,"",""
-"9403PL",15,"",""
-"9403PM",28,"",""
-"9403PM",2,"",""
-"9403PM",20,"",""
-"9403PM",26,"",""
-"9403PM",12,"",""
-"9403PM",8,"",""
-"9403PM",30,"",""
-"9403PM",22,"",""
-"9403PM",6,"",""
-"9403PM",4,"",""
-"9403PM",14,"",""
-"9403PM",16,"",""
-"9403PM",18,"",""
-"9403PM",10,"",""
-"9403PM",24,"",""
-"9403PN",13,"",""
-"9403PN",11,"",""
-"9403PN",22,"",""
-"9403PN",12,"",""
-"9403PN",40,"",""
-"9403PN",10,"",""
-"9403PN",44,"",""
-"9403PN",38,"",""
-"9403PN",26,"",""
-"9403PN",5,"",""
-"9403PN",7,"",""
-"9403PN",9,"",""
-"9403PN",46,"",""
-"9403PN",8,"",""
-"9403PN",2,"",""
-"9403PN",50,"",""
-"9403PN",14,"",""
-"9403PN",48,"",""
-"9403PN",36,"",""
-"9403PN",1,"",""
-"9403PN",56,"",""
-"9403PN",17,"",""
-"9403PN",52,"",""
-"9403PN",25,"",""
-"9403PN",18,"",""
-"9403PN",19,"",""
-"9403PN",24,"",""
-"9403PN",34,"",""
-"9403PN",54,"",""
-"9403PN",21,"",""
-"9403PN",16,"",""
-"9403PN",42,"",""
-"9403PN",20,"",""
-"9403PN",27,"",""
-"9403PN",15,"",""
-"9403PN",28,"",""
-"9403PN",3,"",""
-"9403PN",30,"",""
-"9403PN",23,"",""
-"9403PN",6,"",""
-"9403PN",32,"",""
-"9403PN",4,"",""
-"9403PP",36,"",""
-"9403PP",22,"",""
-"9403PP",16,"",""
-"9403PP",18,"",""
-"9403PP",14,"",""
-"9403PP",34,"",""
-"9403PP",24,"",""
-"9403PP",20,"",""
-"9403PP",38,"",""
-"9403PP",12,"",""
-"9403PP",30,"",""
-"9403PP",26,"",""
-"9403PP",28,"",""
-"9403PP",4,"",""
-"9403PP",6,"",""
-"9403PP",2,"",""
-"9403PP",10,"",""
-"9403PP",32,"",""
-"9403PP",8,"",""
-"9403PR",19,"",""
-"9403PR",23,"",""
-"9403PR",5,"",""
-"9403PR",17,"",""
-"9403PR",25,"",""
-"9403PR",15,"",""
-"9403PR",11,"",""
-"9403PR",9,"",""
-"9403PR",37,"",""
-"9403PR",13,"",""
-"9403PR",29,"",""
-"9403PR",31,"",""
-"9403PR",7,"",""
-"9403PR",3,"",""
-"9403PR",35,"",""
-"9403PR",33,"",""
-"9403PR",21,"",""
-"9403PR",41,"",""
-"9403PR",27,"",""
-"9403PR",39,"",""
-"9403PR",1,"",""
-"9403PS",35,"",""
-"9403PS",33,"",""
-"9403PS",37,"",""
-"9403PS",45,"",""
-"9403PS",39,"",""
-"9403PS",43,"",""
-"9403PS",47,"",""
-"9403PS",29,"",""
-"9403PS",31,"",""
-"9403PS",41,"",""
-"9403PT",26,"",""
-"9403PT",7,"",""
-"9403PT",14,"",""
-"9403PT",24,"",""
-"9403PT",22,"",""
-"9403PT",11,"",""
-"9403PT",6,"",""
-"9403PT",16,"",""
-"9403PT",5,"",""
-"9403PT",1,"",""
-"9403PT",4,"",""
-"9403PT",18,"",""
-"9403PT",20,"",""
-"9403PT",8,"",""
-"9403PT",2,"",""
-"9403PT",12,"",""
-"9403PT",10,"",""
-"9403PT",9,"",""
-"9403PT",3,"",""
-"9403PV",23,"",""
-"9403PV",50,"",""
-"9403PV",46,"",""
-"9403PV",39,"",""
-"9403PV",33,"",""
-"9403PV",17,"",""
-"9403PV",44,"",""
-"9403PV",25,"",""
-"9403PV",34,"",""
-"9403PV",37,"",""
-"9403PV",24,"",""
-"9403PV",47,"",""
-"9403PV",31,"",""
-"9403PV",35,"",""
-"9403PV",19,"",""
-"9403PV",30,"",""
-"9403PV",40,"",""
-"9403PV",48,"",""
-"9403PV",22,"",""
-"9403PV",21,"",""
-"9403PV",42,"",""
-"9403PV",58,"",""
-"9403PV",43,"",""
-"9403PV",26,"",""
-"9403PV",45,"",""
-"9403PV",36,"",""
-"9403PV",32,"",""
-"9403PV",29,"",""
-"9403PV",56,"",""
-"9403PV",52,"",""
-"9403PV",28,"",""
-"9403PV",54,"",""
-"9403PV",38,"",""
-"9403PV",41,"",""
-"9403PV",27,"",""
-"9403PW",90,"",""
-"9403PW",64,"",""
-"9403PW",88,"",""
-"9403PW",80,"",""
-"9403PW",80,"",""
-"9403PW",58,"",""
-"9403PW",62,"",""
-"9403PW",82,"",""
-"9403PW",80,"",""
-"9403PW",92,"",""
-"9403PW",86,"",""
-"9403PW",86,"",""
-"9403PW",84,"",""
-"9403PW",78,"",""
-"9403PW",90,"",""
-"9403PW",94,"",""
-"9403PW",70,"",""
-"9403PW",86,"",""
-"9403PW",64,"",""
-"9403PW",62,"",""
-"9403PW",84,"",""
-"9403PW",84,"",""
-"9403PW",62,"",""
-"9403PW",56,"",""
-"9403PW",56,"",""
-"9403PW",90,"",""
-"9403PW",88,"",""
-"9403PW",74,"",""
-"9403PW",92,"",""
-"9403PW",58,"",""
-"9403PW",92,"",""
-"9403PW",76,"",""
-"9403PW",78,"",""
-"9403PW",58,"",""
-"9403PW",76,"",""
-"9403PW",78,"",""
-"9403PW",74,"",""
-"9403PW",88,"",""
-"9403PW",72,"",""
-"9403PW",56,"",""
-"9403PW",70,"",""
-"9403PW",64,"",""
-"9403PW",68,"",""
-"9403PW",74,"",""
-"9403PW",66,"",""
-"9403PW",94,"",""
-"9403PW",76,"",""
-"9403PW",66,"",""
-"9403PW",72,"",""
-"9403PW",94,"",""
-"9403PW",68,"",""
-"9403PW",70,"",""
-"9403PW",72,"",""
-"9403PW",60,"",""
-"9403PW",68,"",""
-"9403PW",66,"",""
-"9403TT",14,"A",""
-"9403TT",5,"",""
-"9403TT",21,"",""
-"9403TT",19,"",""
-"9403TT",14,"A",""
-"9403TT",12,"",""
-9403PC,Derkingehof,4,,
-9403PC,Derkingehof,6,,
-9403PC,Derkingehof,8,,
-9403PC,Derkingehof,10,,
-9403PC,Derkingehof,12,,
-9403PC,Derkingehof,14,,
-9403PC,Derkingehof,16,,
-9403PC,Derkingehof,18,,
-9403PC,Derkingehof,20,,
-9403PC,Derkingehof,22,,
-9403PC,Derkingehof,24,,
-9403PC,Derkingehof,26,,
-9403PC,Derkingehof,28,,
-9403PC,Derkingehof,30,,
-9403PC,Derkingehof,32,,
-9403PC,Derkingehof,34,,
-9403PC,Derkingehof,36,,
-9403PC,Derkingehof,38,,
-9403PC,Derkingehof,40,,
-9403PC,Derkingehof,42,,
-9403PC,Derkingehof,44,,
-9403PC,Derkingehof,46,,
-9403PD,Derkingehof,1,,
-9403PD,Derkingehof,3,,
-9403PD,Derkingehof,5,,
-9403PD,Derkingehof,7,,
-9403PD,Derkingehof,9,,
-9403PD,Derkingehof,11,,
-9403PD,Derkingehof,13,,
-9403PD,Derkingehof,15,,
-9403PD,Derkingehof,17,,
-9403PD,Derkingehof,19,,
-9403PD,Derkingehof,21,,
-9403PD,Derkingehof,23,,
-9403PD,Derkingehof,25,,
-9403PD,Derkingehof,27,,
-9403PD,Derkingehof,29,,
-9403PD,Derkingehof,31,,
-9403PD,Derkingehof,33,,
-9403PD,Derkingehof,35,,
-9403PD,Derkingehof,37,,
-9403PD,Derkingehof,39,,
-9403PD,Derkingehof,41,,
-9403PD,Derkingehof,43,,
-9403PD,Derkingehof,45,,
-9403PD,Derkingehof,47,,
-9403PD,Derkingehof,49,,
-9403PD,Derkingehof,51,,
-9403PL,Huisingehof,1,,
-9403PL,Huisingehof,2,,
-9403PL,Huisingehof,3,,
-9403PL,Huisingehof,4,,
-9403PL,Huisingehof,5,,
-9403PL,Huisingehof,6,,
-9403PL,Huisingehof,7,,
-9403PL,Huisingehof,8,,
-9403PL,Huisingehof,9,,
-9403PL,Huisingehof,10,,
-9403PL,Huisingehof,11,,
-9403PL,Huisingehof,12,,
-9403PL,Huisingehof,13,,
-9403PL,Huisingehof,14,,
-9403PL,Huisingehof,15,,
-9403PL,Huisingehof,16,,
-9403PL,Huisingehof,18,,
-9403PL,Huisingehof,20,,
-9403PV,Huisingehof,17,,
-9403PV,Huisingehof,19,,
-9403PV,Huisingehof,21,,
-9403PV,Huisingehof,22,,
-9403PV,Huisingehof,23,,
-9403PV,Huisingehof,24,,
-9403PV,Huisingehof,25,,
-9403PV,Huisingehof,26,,
-9403PV,Huisingehof,27,,
-9403PV,Huisingehof,28,,
-9403PV,Huisingehof,29,,
-9403PV,Huisingehof,30,,
-9403PV,Huisingehof,31,,
-9403PV,Huisingehof,32,,
-9403PV,Huisingehof,33,,
-9403PV,Huisingehof,34,,
-9403PV,Huisingehof,35,,
-9403PV,Huisingehof,36,,
-9403PV,Huisingehof,37,,
-9403PV,Huisingehof,38,,
-9403PV,Huisingehof,39,,
-9403PV,Huisingehof,40,,
-9403PV,Huisingehof,41,,
-9403PV,Huisingehof,42,,
-9403PV,Huisingehof,43,,
-9403PV,Huisingehof,44,,
-9403PV,Huisingehof,45,,
-9403PV,Huisingehof,46,,
-9403PV,Huisingehof,47,,
-9403PV,Huisingehof,48,,
-9403PV,Huisingehof,50,,
-9403PV,Huisingehof,52,,
-9403PV,Huisingehof,54,,
-9403PV,Huisingehof,56,,
-9403PV,Huisingehof,58,,
-9403PM,Huningahof,2,,
-9403PM,Huningahof,4,,
-9403PM,Huningahof,6,,
-9403PM,Huningahof,8,,
-9403PM,Huningahof,10,,
-9403PM,Huningahof,12,,
-9403PM,Huningahof,14,,
-9403PM,Huningahof,16,,
-9403PM,Huningahof,18,,
-9403PM,Huningahof,20,,
-9403PM,Huningahof,22,,
-9403PM,Huningahof,24,,
-9403PM,Huningahof,26,,
-9403PM,Huningahof,28,,
-9403PM,Huningahof,30,,
-9403PP,Kymmelhof,2,,
-9403PP,Kymmelhof,4,,
-9403PP,Kymmelhof,6,,
-9403PP,Kymmelhof,8,,
-9403PP,Kymmelhof,10,,
-9403PP,Kymmelhof,12,,
-9403PP,Kymmelhof,14,,
-9403PP,Kymmelhof,16,,
-9403PP,Kymmelhof,18,,
-9403PP,Kymmelhof,20,,
-9403PP,Kymmelhof,22,,
-9403PP,Kymmelhof,24,,
-9403PP,Kymmelhof,26,,
-9403PP,Kymmelhof,28,,
-9403PP,Kymmelhof,30,,
-9403PP,Kymmelhof,32,,
-9403PP,Kymmelhof,34,,
-9403PP,Kymmelhof,36,,
-9403PP,Kymmelhof,38,,
-9403PR,Kymmelhof,1,,
-9403PR,Kymmelhof,3,,
-9403PR,Kymmelhof,5,,
-9403PR,Kymmelhof,7,,
-9403PR,Kymmelhof,9,,
-9403PR,Kymmelhof,11,,
-9403PR,Kymmelhof,13,,
-9403PR,Kymmelhof,15,,
-9403PR,Kymmelhof,17,,
-9403PR,Kymmelhof,19,,
-9403PR,Kymmelhof,21,,
-9403PR,Kymmelhof,23,,
-9403PR,Kymmelhof,25,,
-9403PR,Kymmelhof,27,,
-9403PR,Kymmelhof,29,,
-9403PR,Kymmelhof,31,,
-9403PR,Kymmelhof,33,,
-9403PR,Kymmelhof,35,,
-9403PR,Kymmelhof,37,,
-9403PR,Kymmelhof,39,,
-9403PR,Kymmelhof,41,,
-9403PE,Lantingehof,2,,
-9403PE,Lantingehof,4,,
-9403PE,Lantingehof,6,,
-9403PE,Lantingehof,8,,
-9403PE,Lantingehof,10,,
-9403PE,Lantingehof,12,,
-9403PE,Lantingehof,14,,
-9403PE,Lantingehof,16,,
-9403PE,Lantingehof,18,,
-9403PE,Lantingehof,20,,
-9403PE,Lantingehof,22,,
-9403PE,Lantingehof,24,,
-9403PE,Lantingehof,26,,
-9403PE,Lantingehof,28,,
-9403PE,Lantingehof,30,,
-9403PE,Lantingehof,32,,
-9403PE,Lantingehof,34,,
-9403PE,Lantingehof,36,,
-9403PE,Lantingehof,38,,
-9403PE,Lantingehof,40,,
-9403PE,Lantingehof,42,,
-9403PG,Lantingehof,1,,
-9403PG,Lantingehof,3,,
-9403PG,Lantingehof,5,,
-9403PG,Lantingehof,7,,
-9403PG,Lantingehof,9,,
-9403PG,Lantingehof,11,,
-9403PG,Lantingehof,13,A,
-9403PG,Lantingehof,13,,
-9403PG,Lantingehof,15,,
-9403PG,Lantingehof,17,,
-9403PG,Lantingehof,19,,
-9403TT,Marsdijk,5,,
-9403TT,Marsdijk,12,,
-9403TT,Marsdijk,19,,
-9403TT,Marsdijk,21,,
-9403PH,Manningahof,2,,
-9403PH,Manningahof,4,,
-9403PH,Manningahof,6,,
-9403PH,Manningahof,8,,
-9403PH,Manningahof,10,,
-9403PH,Manningahof,12,,
-9403PH,Manningahof,14,,
-9403PH,Manningahof,16,,
-9403PH,Manningahof,18,,
-9403PH,Manningahof,20,,
-9403PH,Manningahof,22,,
-9403PH,Manningahof,24,,
-9403PH,Manningahof,26,,
-9403PH,Manningahof,28,,
-9403PH,Manningahof,30,,
-9403PA,Martin Luther Kingweg,1,A,
-9403PA,Martin Luther Kingweg,1,,
-9403PA,Martin Luther Kingweg,3,,
-9403PA,Martin Luther Kingweg,6,,
-9403PA,Martin Luther Kingweg,10,,
-9403PA,Martin Luther Kingweg,11,A,
-9403PA,Martin Luther Kingweg,11,D,
-9403PA,Martin Luther Kingweg,11,,
-9403PA,Martin Luther Kingweg,12,,
-9403PA,Martin Luther Kingweg,14,,
-9403PA,Martin Luther Kingweg,15,,
-9403PA,Martin Luther Kingweg,16,,
-9403PA,Martin Luther Kingweg,18,,
-9403PA,Martin Luther Kingweg,20,,
-9403PA,Martin Luther Kingweg,22,,
-9403PA,Martin Luther Kingweg,24,,
-9403PA,Martin Luther Kingweg,26,,
-9403PA,Martin Luther Kingweg,28,,
-9403PA,Martin Luther Kingweg,30,,
-9403PA,Martin Luther Kingweg,32,,
-9403PA,Martin Luther Kingweg,46,,
-9403PA,Martin Luther Kingweg,50,,
-9403PA,Martin Luther Kingweg,52,,
-9403PA,Martin Luther Kingweg,54,,
-9403PW,Martin Luther Kingweg,56,,
-9403PW,Martin Luther Kingweg,60,,
-9403PW,Martin Luther Kingweg,82,,
-9403PN,Onstahof,1,,
-9403PN,Onstahof,2,,
-9403PN,Onstahof,3,,
-9403PN,Onstahof,4,,
-9403PN,Onstahof,5,,
-9403PN,Onstahof,6,,
-9403PN,Onstahof,7,,
-9403PN,Onstahof,8,,
-9403PN,Onstahof,9,,
-9403PN,Onstahof,10,,
-9403PN,Onstahof,11,,
-9403PN,Onstahof,12,,
-9403PN,Onstahof,13,,
-9403PN,Onstahof,14,,
-9403PN,Onstahof,15,,
-9403PN,Onstahof,16,,
-9403PN,Onstahof,17,,
-9403PN,Onstahof,18,,
-9403PN,Onstahof,19,,
-9403PN,Onstahof,20,,
-9403PN,Onstahof,21,,
-9403PN,Onstahof,22,,
-9403PN,Onstahof,23,,
-9403PN,Onstahof,24,,
-9403PN,Onstahof,25,,
-9403PN,Onstahof,26,,
-9403PN,Onstahof,27,,
-9403PN,Onstahof,28,,
-9403PN,Onstahof,30,,
-9403PN,Onstahof,32,,
-9403PN,Onstahof,34,,
-9403PN,Onstahof,36,,
-9403PN,Onstahof,38,,
-9403PN,Onstahof,40,,
-9403PN,Onstahof,42,,
-9403PN,Onstahof,44,,
-9403PN,Onstahof,46,,
-9403PN,Onstahof,48,,
-9403PN,Onstahof,50,,
-9403PN,Onstahof,52,,
-9403PN,Onstahof,54,,
-9403PN,Onstahof,56,,
-9403PS,Onstahof,29,,
-9403PS,Onstahof,31,,
-9403PS,Onstahof,33,,
-9403PS,Onstahof,35,,
-9403PS,Onstahof,37,,
-9403PS,Onstahof,39,,
-9403PS,Onstahof,41,,
-9403PS,Onstahof,43,,
-9403PS,Onstahof,45,,
-9403PS,Onstahof,47,,
-9403PT,Steeginghof,1,,
-9403PT,Steeginghof,2,,
-9403PT,Steeginghof,3,,
-9403PT,Steeginghof,4,,
-9403PT,Steeginghof,5,,
-9403PT,Steeginghof,6,,
-9403PT,Steeginghof,7,,
-9403PT,Steeginghof,8,,
-9403PT,Steeginghof,9,,
-9403PT,Steeginghof,10,,
-9403PT,Steeginghof,11,,
-9403PT,Steeginghof,12,,
-9403PT,Steeginghof,14,,
-9403PT,Steeginghof,16,,
-9403PT,Steeginghof,18,,
-9403PT,Steeginghof,20,,
-9403PT,Steeginghof,22,,
-9403PT,Steeginghof,24,,
-9403PT,Steeginghof,26,,
-9403PB,Tesingehof,1,,
-9403PB,Tesingehof,2,,
-9403PB,Tesingehof,3,,
-9403PB,Tesingehof,4,,
-9403PB,Tesingehof,5,,
-9403PB,Tesingehof,6,,
-9403PB,Tesingehof,7,,
-9403PB,Tesingehof,8,,
-9403PB,Tesingehof,9,,
-9403PB,Tesingehof,10,,
-9403PB,Tesingehof,11,,
-9403PB,Tesingehof,12,,
-9403PB,Tesingehof,13,,
-9403PB,Tesingehof,14,,
-9403PB,Tesingehof,15,,
-9403PB,Tesingehof,16,,
-9403PB,Tesingehof,19,,
-9403PB,Tesingehof,21,,
-9403PB,Tesingehof,23,,
-9403PB,Tesingehof,25,,
-9403PB,Tesingehof,27,,
-9403PJ,Tymanshof,2,,
-9403PJ,Tymanshof,4,,
-9403PJ,Tymanshof,6,,
-9403PJ,Tymanshof,8,,
-9403PJ,Tymanshof,10,,
-9403PJ,Tymanshof,12,,
-9403PJ,Tymanshof,14,,
-9403PJ,Tymanshof,16,,
-9403PJ,Tymanshof,18,,
-9403PJ,Tymanshof,20,,
-9403PJ,Tymanshof,22,,
-9403PJ,Tymanshof,24,,
-9403PJ,Tymanshof,26,,
-9403PJ,Tymanshof,28,,
-9403PJ,Tymanshof,30,,
-9403PJ,Tymanshof,32,,
-9403PJ,Tymanshof,34,,
-9403PJ,Tymanshof,36,,
-9403PJ,Tymanshof,38,,
-9403PJ,Tymanshof,40,,
-9403PJ,Tymanshof,42,,
-9403PJ,Tymanshof,44,,
-9403PJ,Tymanshof,46,,
-9403PK,Tymanshof,1,,
-9403PK,Tymanshof,3,,
-9403PK,Tymanshof,5,,
-9403PK,Tymanshof,7,,
-9403PK,Tymanshof,9,,
-9403PK,Tymanshof,11,,
-9403PK,Tymanshof,13,,
-9403PK,Tymanshof,15,,
-9403PK,Tymanshof,17,,
-9403PK,Tymanshof,19,,
-9403TT,Marsdijk,14,A,
-9403PA,Martin Luther Kingweg,11,D,
-9403PA,Martin Luther Kingweg,11,A,
-9403PA,Martin Luther Kingweg,11,A,
-9403PA,Martin Luther Kingweg,11,D,
-9403PW,Martin Luther Kingweg,94,,
-9403PW,Martin Luther Kingweg,92,,
-9403PW,Martin Luther Kingweg,90,,
-9403PW,Martin Luther Kingweg,88,,
-9403PW,Martin Luther Kingweg,86,,
-9403PW,Martin Luther Kingweg,84,,
-9403PW,Martin Luther Kingweg,80,,
-9403PW,Martin Luther Kingweg,78,,
-9403PW,Martin Luther Kingweg,76,,
-9403PW,Martin Luther Kingweg,74,,
-9403PW,Martin Luther Kingweg,72,,
-9403PW,Martin Luther Kingweg,70,,
-9403PW,Martin Luther Kingweg,68,,
-9403PW,Martin Luther Kingweg,66,,
-9403PW,Martin Luther Kingweg,64,,
-9403PW,Martin Luther Kingweg,62,,
-9403PW,Martin Luther Kingweg,58,,
-9403PW,Martin Luther Kingweg,56,,
-9403PW,Martin Luther Kingweg,58,,
-9403PW,Martin Luther Kingweg,62,,
-9403PW,Martin Luther Kingweg,64,,
-9403PW,Martin Luther Kingweg,66,,
-9403PW,Martin Luther Kingweg,68,,
-9403PW,Martin Luther Kingweg,70,,
-9403PW,Martin Luther Kingweg,72,,
-9403PW,Martin Luther Kingweg,74,,
-9403PW,Martin Luther Kingweg,76,,
-9403PW,Martin Luther Kingweg,78,,
-9403PW,Martin Luther Kingweg,84,,
-9403PW,Martin Luther Kingweg,86,,
-9403PW,Martin Luther Kingweg,88,,
-9403PW,Martin Luther Kingweg,90,,
-9403PW,Martin Luther Kingweg,92,,
-9403PW,Martin Luther Kingweg,94,,
-9403PW,Martin Luther Kingweg,80,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Martin Luther Kingweg,1,"","",9403PA,Assen
+Martin Luther Kingweg,1,A,"",9403PA,Assen
+Martin Luther Kingweg,10,"","",9403PA,Assen
+Martin Luther Kingweg,11,"","",9403PA,Assen
+Martin Luther Kingweg,11,A,"",9403PA,Assen
+Martin Luther Kingweg,11,A,"",9403PA,Assen
+Martin Luther Kingweg,11,A,"",9403PA,Assen
+Martin Luther Kingweg,11,A,"",9403PA,Assen
+Martin Luther Kingweg,11,A,"",9403PA,Assen
+Martin Luther Kingweg,11,D,"",9403PA,Assen
+Martin Luther Kingweg,11,D,"",9403PA,Assen
+Martin Luther Kingweg,11,D,"",9403PA,Assen
+Martin Luther Kingweg,11,D,"",9403PA,Assen
+Martin Luther Kingweg,11,D,"",9403PA,Assen
+Martin Luther Kingweg,12,"","",9403PA,Assen
+Martin Luther Kingweg,14,"","",9403PA,Assen
+Martin Luther Kingweg,15,"","",9403PA,Assen
+Martin Luther Kingweg,16,"","",9403PA,Assen
+Martin Luther Kingweg,18,"","",9403PA,Assen
+Martin Luther Kingweg,20,"","",9403PA,Assen
+Martin Luther Kingweg,22,"","",9403PA,Assen
+Martin Luther Kingweg,24,"","",9403PA,Assen
+Martin Luther Kingweg,26,"","",9403PA,Assen
+Martin Luther Kingweg,28,"","",9403PA,Assen
+Martin Luther Kingweg,3,"","",9403PA,Assen
+Martin Luther Kingweg,30,"","",9403PA,Assen
+Martin Luther Kingweg,32,"","",9403PA,Assen
+Martin Luther Kingweg,46,"","",9403PA,Assen
+Martin Luther Kingweg,50,"","",9403PA,Assen
+Martin Luther Kingweg,52,"","",9403PA,Assen
+Martin Luther Kingweg,54,"","",9403PA,Assen
+Martin Luther Kingweg,6,"","",9403PA,Assen
+Tesingehof,1,"","",9403PB,Assen
+Tesingehof,10,"","",9403PB,Assen
+Tesingehof,11,"","",9403PB,Assen
+Tesingehof,12,"","",9403PB,Assen
+Tesingehof,13,"","",9403PB,Assen
+Tesingehof,14,"","",9403PB,Assen
+Tesingehof,15,"","",9403PB,Assen
+Tesingehof,16,"","",9403PB,Assen
+Tesingehof,19,"","",9403PB,Assen
+Tesingehof,2,"","",9403PB,Assen
+Tesingehof,21,"","",9403PB,Assen
+Tesingehof,23,"","",9403PB,Assen
+Tesingehof,25,"","",9403PB,Assen
+Tesingehof,27,"","",9403PB,Assen
+Tesingehof,3,"","",9403PB,Assen
+Tesingehof,4,"","",9403PB,Assen
+Tesingehof,5,"","",9403PB,Assen
+Tesingehof,6,"","",9403PB,Assen
+Tesingehof,7,"","",9403PB,Assen
+Tesingehof,8,"","",9403PB,Assen
+Tesingehof,9,"","",9403PB,Assen
+Derkingehof,10,"","",9403PC,Assen
+Derkingehof,12,"","",9403PC,Assen
+Derkingehof,14,"","",9403PC,Assen
+Derkingehof,16,"","",9403PC,Assen
+Derkingehof,18,"","",9403PC,Assen
+Derkingehof,20,"","",9403PC,Assen
+Derkingehof,22,"","",9403PC,Assen
+Derkingehof,24,"","",9403PC,Assen
+Derkingehof,26,"","",9403PC,Assen
+Derkingehof,28,"","",9403PC,Assen
+Derkingehof,30,"","",9403PC,Assen
+Derkingehof,32,"","",9403PC,Assen
+Derkingehof,34,"","",9403PC,Assen
+Derkingehof,36,"","",9403PC,Assen
+Derkingehof,38,"","",9403PC,Assen
+Derkingehof,4,"","",9403PC,Assen
+Derkingehof,40,"","",9403PC,Assen
+Derkingehof,42,"","",9403PC,Assen
+Derkingehof,44,"","",9403PC,Assen
+Derkingehof,46,"","",9403PC,Assen
+Derkingehof,6,"","",9403PC,Assen
+Derkingehof,8,"","",9403PC,Assen
+Derkingehof,1,"","",9403PD,Assen
+Derkingehof,11,"","",9403PD,Assen
+Derkingehof,13,"","",9403PD,Assen
+Derkingehof,15,"","",9403PD,Assen
+Derkingehof,17,"","",9403PD,Assen
+Derkingehof,19,"","",9403PD,Assen
+Derkingehof,21,"","",9403PD,Assen
+Derkingehof,23,"","",9403PD,Assen
+Derkingehof,25,"","",9403PD,Assen
+Derkingehof,27,"","",9403PD,Assen
+Derkingehof,29,"","",9403PD,Assen
+Derkingehof,3,"","",9403PD,Assen
+Derkingehof,31,"","",9403PD,Assen
+Derkingehof,33,"","",9403PD,Assen
+Derkingehof,35,"","",9403PD,Assen
+Derkingehof,37,"","",9403PD,Assen
+Derkingehof,39,"","",9403PD,Assen
+Derkingehof,41,"","",9403PD,Assen
+Derkingehof,43,"","",9403PD,Assen
+Derkingehof,45,"","",9403PD,Assen
+Derkingehof,47,"","",9403PD,Assen
+Derkingehof,49,"","",9403PD,Assen
+Derkingehof,5,"","",9403PD,Assen
+Derkingehof,51,"","",9403PD,Assen
+Derkingehof,7,"","",9403PD,Assen
+Derkingehof,9,"","",9403PD,Assen
+Lantingehof,10,"","",9403PE,Assen
+Lantingehof,12,"","",9403PE,Assen
+Lantingehof,14,"","",9403PE,Assen
+Lantingehof,16,"","",9403PE,Assen
+Lantingehof,18,"","",9403PE,Assen
+Lantingehof,2,"","",9403PE,Assen
+Lantingehof,20,"","",9403PE,Assen
+Lantingehof,22,"","",9403PE,Assen
+Lantingehof,24,"","",9403PE,Assen
+Lantingehof,26,"","",9403PE,Assen
+Lantingehof,28,"","",9403PE,Assen
+Lantingehof,30,"","",9403PE,Assen
+Lantingehof,32,"","",9403PE,Assen
+Lantingehof,34,"","",9403PE,Assen
+Lantingehof,36,"","",9403PE,Assen
+Lantingehof,38,"","",9403PE,Assen
+Lantingehof,4,"","",9403PE,Assen
+Lantingehof,40,"","",9403PE,Assen
+Lantingehof,42,"","",9403PE,Assen
+Lantingehof,6,"","",9403PE,Assen
+Lantingehof,8,"","",9403PE,Assen
+Lantingehof,1,"","",9403PG,Assen
+Lantingehof,11,"","",9403PG,Assen
+Lantingehof,13,"","",9403PG,Assen
+Lantingehof,13,A,"",9403PG,Assen
+Lantingehof,15,"","",9403PG,Assen
+Lantingehof,17,"","",9403PG,Assen
+Lantingehof,19,"","",9403PG,Assen
+Lantingehof,3,"","",9403PG,Assen
+Lantingehof,5,"","",9403PG,Assen
+Lantingehof,7,"","",9403PG,Assen
+Lantingehof,9,"","",9403PG,Assen
+Manningahof,10,"","",9403PH,Assen
+Manningahof,12,"","",9403PH,Assen
+Manningahof,14,"","",9403PH,Assen
+Manningahof,16,"","",9403PH,Assen
+Manningahof,18,"","",9403PH,Assen
+Manningahof,2,"","",9403PH,Assen
+Manningahof,20,"","",9403PH,Assen
+Manningahof,22,"","",9403PH,Assen
+Manningahof,24,"","",9403PH,Assen
+Manningahof,26,"","",9403PH,Assen
+Manningahof,28,"","",9403PH,Assen
+Manningahof,30,"","",9403PH,Assen
+Manningahof,4,"","",9403PH,Assen
+Manningahof,6,"","",9403PH,Assen
+Manningahof,8,"","",9403PH,Assen
+Tymanshof,10,"","",9403PJ,Assen
+Tymanshof,12,"","",9403PJ,Assen
+Tymanshof,14,"","",9403PJ,Assen
+Tymanshof,16,"","",9403PJ,Assen
+Tymanshof,18,"","",9403PJ,Assen
+Tymanshof,2,"","",9403PJ,Assen
+Tymanshof,20,"","",9403PJ,Assen
+Tymanshof,22,"","",9403PJ,Assen
+Tymanshof,24,"","",9403PJ,Assen
+Tymanshof,26,"","",9403PJ,Assen
+Tymanshof,28,"","",9403PJ,Assen
+Tymanshof,30,"","",9403PJ,Assen
+Tymanshof,32,"","",9403PJ,Assen
+Tymanshof,34,"","",9403PJ,Assen
+Tymanshof,36,"","",9403PJ,Assen
+Tymanshof,38,"","",9403PJ,Assen
+Tymanshof,4,"","",9403PJ,Assen
+Tymanshof,40,"","",9403PJ,Assen
+Tymanshof,42,"","",9403PJ,Assen
+Tymanshof,44,"","",9403PJ,Assen
+Tymanshof,46,"","",9403PJ,Assen
+Tymanshof,6,"","",9403PJ,Assen
+Tymanshof,8,"","",9403PJ,Assen
+Tymanshof,1,"","",9403PK,Assen
+Tymanshof,11,"","",9403PK,Assen
+Tymanshof,13,"","",9403PK,Assen
+Tymanshof,15,"","",9403PK,Assen
+Tymanshof,17,"","",9403PK,Assen
+Tymanshof,19,"","",9403PK,Assen
+Tymanshof,3,"","",9403PK,Assen
+Tymanshof,5,"","",9403PK,Assen
+Tymanshof,7,"","",9403PK,Assen
+Tymanshof,9,"","",9403PK,Assen
+Huisingehof,1,"","",9403PL,Assen
+Huisingehof,10,"","",9403PL,Assen
+Huisingehof,11,"","",9403PL,Assen
+Huisingehof,12,"","",9403PL,Assen
+Huisingehof,13,"","",9403PL,Assen
+Huisingehof,14,"","",9403PL,Assen
+Huisingehof,15,"","",9403PL,Assen
+Huisingehof,16,"","",9403PL,Assen
+Huisingehof,18,"","",9403PL,Assen
+Huisingehof,2,"","",9403PL,Assen
+Huisingehof,20,"","",9403PL,Assen
+Huisingehof,3,"","",9403PL,Assen
+Huisingehof,4,"","",9403PL,Assen
+Huisingehof,5,"","",9403PL,Assen
+Huisingehof,6,"","",9403PL,Assen
+Huisingehof,7,"","",9403PL,Assen
+Huisingehof,8,"","",9403PL,Assen
+Huisingehof,9,"","",9403PL,Assen
+Huningahof,10,"","",9403PM,Assen
+Huningahof,12,"","",9403PM,Assen
+Huningahof,14,"","",9403PM,Assen
+Huningahof,16,"","",9403PM,Assen
+Huningahof,18,"","",9403PM,Assen
+Huningahof,2,"","",9403PM,Assen
+Huningahof,20,"","",9403PM,Assen
+Huningahof,22,"","",9403PM,Assen
+Huningahof,24,"","",9403PM,Assen
+Huningahof,26,"","",9403PM,Assen
+Huningahof,28,"","",9403PM,Assen
+Huningahof,30,"","",9403PM,Assen
+Huningahof,4,"","",9403PM,Assen
+Huningahof,6,"","",9403PM,Assen
+Huningahof,8,"","",9403PM,Assen
+Onstahof,1,"","",9403PN,Assen
+Onstahof,10,"","",9403PN,Assen
+Onstahof,11,"","",9403PN,Assen
+Onstahof,12,"","",9403PN,Assen
+Onstahof,13,"","",9403PN,Assen
+Onstahof,14,"","",9403PN,Assen
+Onstahof,15,"","",9403PN,Assen
+Onstahof,16,"","",9403PN,Assen
+Onstahof,17,"","",9403PN,Assen
+Onstahof,18,"","",9403PN,Assen
+Onstahof,19,"","",9403PN,Assen
+Onstahof,2,"","",9403PN,Assen
+Onstahof,20,"","",9403PN,Assen
+Onstahof,21,"","",9403PN,Assen
+Onstahof,22,"","",9403PN,Assen
+Onstahof,23,"","",9403PN,Assen
+Onstahof,24,"","",9403PN,Assen
+Onstahof,25,"","",9403PN,Assen
+Onstahof,26,"","",9403PN,Assen
+Onstahof,27,"","",9403PN,Assen
+Onstahof,28,"","",9403PN,Assen
+Onstahof,3,"","",9403PN,Assen
+Onstahof,30,"","",9403PN,Assen
+Onstahof,32,"","",9403PN,Assen
+Onstahof,34,"","",9403PN,Assen
+Onstahof,36,"","",9403PN,Assen
+Onstahof,38,"","",9403PN,Assen
+Onstahof,4,"","",9403PN,Assen
+Onstahof,40,"","",9403PN,Assen
+Onstahof,42,"","",9403PN,Assen
+Onstahof,44,"","",9403PN,Assen
+Onstahof,46,"","",9403PN,Assen
+Onstahof,48,"","",9403PN,Assen
+Onstahof,5,"","",9403PN,Assen
+Onstahof,50,"","",9403PN,Assen
+Onstahof,52,"","",9403PN,Assen
+Onstahof,54,"","",9403PN,Assen
+Onstahof,56,"","",9403PN,Assen
+Onstahof,6,"","",9403PN,Assen
+Onstahof,7,"","",9403PN,Assen
+Onstahof,8,"","",9403PN,Assen
+Onstahof,9,"","",9403PN,Assen
+Kymmelhof,10,"","",9403PP,Assen
+Kymmelhof,12,"","",9403PP,Assen
+Kymmelhof,14,"","",9403PP,Assen
+Kymmelhof,16,"","",9403PP,Assen
+Kymmelhof,18,"","",9403PP,Assen
+Kymmelhof,2,"","",9403PP,Assen
+Kymmelhof,20,"","",9403PP,Assen
+Kymmelhof,22,"","",9403PP,Assen
+Kymmelhof,24,"","",9403PP,Assen
+Kymmelhof,26,"","",9403PP,Assen
+Kymmelhof,28,"","",9403PP,Assen
+Kymmelhof,30,"","",9403PP,Assen
+Kymmelhof,32,"","",9403PP,Assen
+Kymmelhof,34,"","",9403PP,Assen
+Kymmelhof,36,"","",9403PP,Assen
+Kymmelhof,38,"","",9403PP,Assen
+Kymmelhof,4,"","",9403PP,Assen
+Kymmelhof,6,"","",9403PP,Assen
+Kymmelhof,8,"","",9403PP,Assen
+Kymmelhof,1,"","",9403PR,Assen
+Kymmelhof,11,"","",9403PR,Assen
+Kymmelhof,13,"","",9403PR,Assen
+Kymmelhof,15,"","",9403PR,Assen
+Kymmelhof,17,"","",9403PR,Assen
+Kymmelhof,19,"","",9403PR,Assen
+Kymmelhof,21,"","",9403PR,Assen
+Kymmelhof,23,"","",9403PR,Assen
+Kymmelhof,25,"","",9403PR,Assen
+Kymmelhof,27,"","",9403PR,Assen
+Kymmelhof,29,"","",9403PR,Assen
+Kymmelhof,3,"","",9403PR,Assen
+Kymmelhof,31,"","",9403PR,Assen
+Kymmelhof,33,"","",9403PR,Assen
+Kymmelhof,35,"","",9403PR,Assen
+Kymmelhof,37,"","",9403PR,Assen
+Kymmelhof,39,"","",9403PR,Assen
+Kymmelhof,41,"","",9403PR,Assen
+Kymmelhof,5,"","",9403PR,Assen
+Kymmelhof,7,"","",9403PR,Assen
+Kymmelhof,9,"","",9403PR,Assen
+Onstahof,29,"","",9403PS,Assen
+Onstahof,31,"","",9403PS,Assen
+Onstahof,33,"","",9403PS,Assen
+Onstahof,35,"","",9403PS,Assen
+Onstahof,37,"","",9403PS,Assen
+Onstahof,39,"","",9403PS,Assen
+Onstahof,41,"","",9403PS,Assen
+Onstahof,43,"","",9403PS,Assen
+Onstahof,45,"","",9403PS,Assen
+Onstahof,47,"","",9403PS,Assen
+Steeginghof,1,"","",9403PT,Assen
+Steeginghof,10,"","",9403PT,Assen
+Steeginghof,11,"","",9403PT,Assen
+Steeginghof,12,"","",9403PT,Assen
+Steeginghof,14,"","",9403PT,Assen
+Steeginghof,16,"","",9403PT,Assen
+Steeginghof,18,"","",9403PT,Assen
+Steeginghof,2,"","",9403PT,Assen
+Steeginghof,20,"","",9403PT,Assen
+Steeginghof,22,"","",9403PT,Assen
+Steeginghof,24,"","",9403PT,Assen
+Steeginghof,26,"","",9403PT,Assen
+Steeginghof,3,"","",9403PT,Assen
+Steeginghof,4,"","",9403PT,Assen
+Steeginghof,5,"","",9403PT,Assen
+Steeginghof,6,"","",9403PT,Assen
+Steeginghof,7,"","",9403PT,Assen
+Steeginghof,8,"","",9403PT,Assen
+Steeginghof,9,"","",9403PT,Assen
+Huisingehof,17,"","",9403PV,Assen
+Huisingehof,19,"","",9403PV,Assen
+Huisingehof,21,"","",9403PV,Assen
+Huisingehof,22,"","",9403PV,Assen
+Huisingehof,23,"","",9403PV,Assen
+Huisingehof,24,"","",9403PV,Assen
+Huisingehof,25,"","",9403PV,Assen
+Huisingehof,26,"","",9403PV,Assen
+Huisingehof,27,"","",9403PV,Assen
+Huisingehof,28,"","",9403PV,Assen
+Huisingehof,29,"","",9403PV,Assen
+Huisingehof,30,"","",9403PV,Assen
+Huisingehof,31,"","",9403PV,Assen
+Huisingehof,32,"","",9403PV,Assen
+Huisingehof,33,"","",9403PV,Assen
+Huisingehof,34,"","",9403PV,Assen
+Huisingehof,35,"","",9403PV,Assen
+Huisingehof,36,"","",9403PV,Assen
+Huisingehof,37,"","",9403PV,Assen
+Huisingehof,38,"","",9403PV,Assen
+Huisingehof,39,"","",9403PV,Assen
+Huisingehof,40,"","",9403PV,Assen
+Huisingehof,41,"","",9403PV,Assen
+Huisingehof,42,"","",9403PV,Assen
+Huisingehof,43,"","",9403PV,Assen
+Huisingehof,44,"","",9403PV,Assen
+Huisingehof,45,"","",9403PV,Assen
+Huisingehof,46,"","",9403PV,Assen
+Huisingehof,47,"","",9403PV,Assen
+Huisingehof,48,"","",9403PV,Assen
+Huisingehof,50,"","",9403PV,Assen
+Huisingehof,52,"","",9403PV,Assen
+Huisingehof,54,"","",9403PV,Assen
+Huisingehof,56,"","",9403PV,Assen
+Huisingehof,58,"","",9403PV,Assen
+Martin Luther Kingweg,56,"","",9403PW,Assen
+Martin Luther Kingweg,56,"","",9403PW,Assen
+Martin Luther Kingweg,56,"","",9403PW,Assen
+Martin Luther Kingweg,58,"","",9403PW,Assen
+Martin Luther Kingweg,58,"","",9403PW,Assen
+Martin Luther Kingweg,58,"","",9403PW,Assen
+Martin Luther Kingweg,60,"","",9403PW,Assen
+Martin Luther Kingweg,62,"","",9403PW,Assen
+Martin Luther Kingweg,62,"","",9403PW,Assen
+Martin Luther Kingweg,62,"","",9403PW,Assen
+Martin Luther Kingweg,64,"","",9403PW,Assen
+Martin Luther Kingweg,64,"","",9403PW,Assen
+Martin Luther Kingweg,64,"","",9403PW,Assen
+Martin Luther Kingweg,66,"","",9403PW,Assen
+Martin Luther Kingweg,66,"","",9403PW,Assen
+Martin Luther Kingweg,66,"","",9403PW,Assen
+Martin Luther Kingweg,68,"","",9403PW,Assen
+Martin Luther Kingweg,68,"","",9403PW,Assen
+Martin Luther Kingweg,68,"","",9403PW,Assen
+Martin Luther Kingweg,70,"","",9403PW,Assen
+Martin Luther Kingweg,70,"","",9403PW,Assen
+Martin Luther Kingweg,70,"","",9403PW,Assen
+Martin Luther Kingweg,72,"","",9403PW,Assen
+Martin Luther Kingweg,72,"","",9403PW,Assen
+Martin Luther Kingweg,72,"","",9403PW,Assen
+Martin Luther Kingweg,74,"","",9403PW,Assen
+Martin Luther Kingweg,74,"","",9403PW,Assen
+Martin Luther Kingweg,74,"","",9403PW,Assen
+Martin Luther Kingweg,76,"","",9403PW,Assen
+Martin Luther Kingweg,76,"","",9403PW,Assen
+Martin Luther Kingweg,76,"","",9403PW,Assen
+Martin Luther Kingweg,78,"","",9403PW,Assen
+Martin Luther Kingweg,78,"","",9403PW,Assen
+Martin Luther Kingweg,78,"","",9403PW,Assen
+Martin Luther Kingweg,80,"","",9403PW,Assen
+Martin Luther Kingweg,80,"","",9403PW,Assen
+Martin Luther Kingweg,80,"","",9403PW,Assen
+Martin Luther Kingweg,82,"","",9403PW,Assen
+Martin Luther Kingweg,84,"","",9403PW,Assen
+Martin Luther Kingweg,84,"","",9403PW,Assen
+Martin Luther Kingweg,84,"","",9403PW,Assen
+Martin Luther Kingweg,86,"","",9403PW,Assen
+Martin Luther Kingweg,86,"","",9403PW,Assen
+Martin Luther Kingweg,86,"","",9403PW,Assen
+Martin Luther Kingweg,88,"","",9403PW,Assen
+Martin Luther Kingweg,88,"","",9403PW,Assen
+Martin Luther Kingweg,88,"","",9403PW,Assen
+Martin Luther Kingweg,90,"","",9403PW,Assen
+Martin Luther Kingweg,90,"","",9403PW,Assen
+Martin Luther Kingweg,90,"","",9403PW,Assen
+Martin Luther Kingweg,92,"","",9403PW,Assen
+Martin Luther Kingweg,92,"","",9403PW,Assen
+Martin Luther Kingweg,92,"","",9403PW,Assen
+Martin Luther Kingweg,94,"","",9403PW,Assen
+Martin Luther Kingweg,94,"","",9403PW,Assen
+Martin Luther Kingweg,94,"","",9403PW,Assen
+Marsdijk,12,"","",9403TT,Assen
+Marsdijk,14,A,"",9403TT,Assen
+Marsdijk,14,A,"",9403TT,Assen
+Marsdijk,19,"","",9403TT,Assen
+Marsdijk,21,"","",9403TT,Assen
+Marsdijk,5,"","",9403TT,Assen

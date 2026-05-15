@@ -1,532 +1,269 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9801LC",22,"",""
-"9801LC",10,"",""
-"9801LC",30,"",""
-"9801LC",26,"",""
-"9801LC",6,"",""
-"9801LC",38,"",""
-"9801LC",24,"",""
-"9801LC",32,"",""
-"9801LC",28,"",""
-"9801LC",9,"",""
-"9801LC",15,"",""
-"9801LC",4,"",""
-"9801LC",36,"",""
-"9801LC",5,"",""
-"9801LC",34,"",""
-"9801LC",20,"",""
-"9801LC",3,"",""
-"9801LC",18,"",""
-"9801LC",8,"",""
-"9801LC",17,"",""
-"9801LC",12,"",""
-"9801LC",7,"",""
-"9801LC",1,"",""
-"9801LC",2,"",""
-"9801LC",11,"",""
-"9801LC",13,"",""
-"9801LC",40,"",""
-"9801LS",1,"",""
-"9801LS",16,"",""
-"9801LS",2,"",""
-"9801LS",18,"",""
-"9801LS",10,"",""
-"9801LS",8,"",""
-"9801LS",24,"t",""
-"9801LS",14,"",""
-"9801LS",24,"",""
-"9801LS",6,"",""
-"9801LS",4,"",""
-"9801LS",20,"",""
-"9801LS",22,"",""
-"9801LS",12,"",""
-"9801LZ",15,"c",""
-"9801LZ",73,"",""
-"9801LZ",77,"",""
-"9801LZ",75,"",""
-"9801LZ",45,"t",""
-"9801LZ",15,"f",""
-"9801LZ",15,"a",""
-"9801LZ",55,"",""
-"9801LZ",61,"",""
-"9801LZ",49,"",""
-"9801LZ",15,"e",""
-"9801LZ",63,"",""
-"9801LZ",53,"",""
-"9801LZ",71,"",""
-"9801LZ",69,"",""
-"9801LZ",51,"",""
-"9801LZ",15,"b",""
-"9801LZ",15,"g",""
-"9801LZ",59,"",""
-"9801LZ",65,"",""
-"9801LZ",57,"",""
-"9801LZ",67,"",""
-"9801LZ",15,"d",""
-"9801MX",10,"",""
-"9801MX",7,"",""
-"9801MX",21,"",""
-"9801MX",2,"",""
-"9801MX",22,"",""
-"9801MX",20,"",""
-"9801MX",26,"",""
-"9801MX",3,"",""
-"9801MX",13,"",""
-"9801MX",28,"",""
-"9801MX",9,"",""
-"9801MX",8,"",""
-"9801MX",6,"",""
-"9801MX",5,"",""
-"9801MX",14,"",""
-"9801MX",12,"",""
-"9801MX",4,"",""
-"9801MX",1,"",""
-"9801MX",11,"",""
-"9801MX",18,"",""
-"9801MX",16,"",""
-"9801MX",17,"",""
-"9801MX",19,"",""
-"9801MX",23,"",""
-"9801MX",24,"",""
-"9801MX",15,"",""
-"9801MZ",14,"",""
-"9801MZ",16,"",""
-"9801MZ",6,"",""
-"9801MZ",2,"",""
-"9801MZ",4,"",""
-"9801MZ",10,"",""
-"9801MZ",3,"",""
-"9801MZ",8,"",""
-"9801MZ",12,"",""
-"9801MZ",1,"",""
-"9801MZ",18,"",""
-"9805TA",13,"",""
-"9805TA",17,"",""
-"9805TA",3,"a",""
-"9805TA",3,"",""
-"9805TA",19,"",""
-"9805TA",1,"",""
-"9805TA",5,"",""
-"9805TA",13,"a",""
-"9805TA",1,"t",""
-"9805TA",9,"",""
-"9805TA",21,"",""
-"9805TA",7,"",""
-"9805TA",11,"",""
-"9805TA",15,"",""
-"9805TB",45,"t",""
-"9805TB",27,"",""
-"9805TB",47,"",""
-"9805TB",37,"",""
-"9805TB",33,"",""
-"9805TB",35,"",""
-"9805TB",25,"",""
-"9805TB",43,"",""
-"9805TB",29,"",""
-"9805TB",31,"",""
-"9805TB",37,"a",""
-"9805TB",45,"",""
-"9805TB",41,"a",""
-"9805TB",41,"",""
-"9805TB",39,"",""
-"9805TB",23,"",""
-"9805TD",58,"",""
-"9805TD",48,"",""
-"9805TD",40,"",""
-"9805TD",52,"",""
-"9805TD",54,"",""
-"9805TD",40,"",""
-"9805TD",46,"",""
-"9805TD",56,"",""
-"9805TD",42,"",""
-"9805TD",44,"",""
-"9805TD",50,"",""
-"9805TE",24,"d",""
-"9805TE",46,"",""
-"9805TE",52,"",""
-"9805TE",54,"",""
-"9805TE",24,"c",""
-"9805TE",50,"",""
-"9805TE",34,"",""
-"9805TE",24,"d",""
-"9805TE",24,"a",""
-"9805TE",40,"",""
-"9805TE",30,"",""
-"9805TE",24,"",""
-"9805TE",24,"d",""
-"9805TE",24,"c",""
-"9805TE",44,"b",""
-"9805TE",24,"e",""
-"9805TE",24,"e",""
-"9805TE",32,"",""
-"9805TE",24,"b",""
-"9805TE",44,"a",""
-"9805TE",24,"f",""
-"9805TE",24,"c",""
-"9805TE",42,"",""
-"9805TE",28,"",""
-"9805TE",26,"",""
-"9805TE",44,"",""
-"9805TE",24,"e",""
-"9805TG",9,"",""
-"9805TG",13,"",""
-"9805TG",7,"t",""
-"9805TG",19,"",""
-"9805TG",5,"",""
-"9805TG",2,"",""
-"9805TG",11,"",""
-"9805TG",1,"",""
-"9805TG",7,"",""
-"9805TG",17,"",""
-"9805TG",6,"",""
-"9805TG",7,"b",""
-"9805TG",15,"",""
-"9805TG",17,"",""
-"9805TG",17,"",""
-"9805TG",4,"",""
-"9805TG",7,"a",""
-"9805TG",15,"t",""
-"9805TG",21,"",""
-"9805TH",8,"",""
-"9805TH",1,"b",""
-"9805TH",1,"a",""
-"9805TH",1,"b",""
-"9805TH",14,"",""
-"9805TH",12,"a",""
-"9805TH",1001,"",""
-"9805TH",16,"",""
-"9805TH",4,"",""
-"9805TH",10,"",""
-"9805TH",2,"",""
-"9805TH",1,"",""
-"9805TH",6,"",""
-"9805TL",58,"",""
-"9805TL",60,"",""
-"9805TL",22,"",""
-"9805TL",59,"",""
-"9805TL",63,"",""
-"9805TL",42,"",""
-"9805TL",53,"",""
-"9805TL",14,"",""
-"9805TL",54,"",""
-"9805TL",31,"",""
-"9805TL",13,"a",""
-"9805TL",62,"",""
-"9805TL",20,"",""
-"9805TL",13,"c",""
-"9805TL",21,"",""
-"9805TL",52,"",""
-"9805TL",30,"",""
-"9805TL",55,"",""
-"9805TL",26,"",""
-"9805TL",40,"",""
-"9805TL",3,"",""
-"9805TL",61,"",""
-"9805TL",29,"",""
-"9805TL",18,"",""
-"9805TL",38,"",""
-"9805TL",56,"",""
-"9805TL",32,"",""
-"9805TL",64,"",""
-"9805TL",23,"",""
-"9805TL",10,"",""
-"9805TL",28,"",""
-"9805TL",41,"",""
-"9805TL",50,"",""
-"9805TL",48,"",""
-"9805TL",24,"",""
-"9805TL",4,"",""
-"9805TL",5,"",""
-"9805TL",19,"",""
-"9805TL",57,"",""
-"9805TL",8,"",""
-"9805TL",47,"",""
-"9805TL",25,"",""
-"9805TL",49,"",""
-"9805TL",39,"",""
-"9805TL",13,"b",""
-"9805TL",11,"",""
-"9805TL",17,"",""
-"9805TL",16,"",""
-"9805TL",15,"",""
-"9805TL",2,"",""
-"9805TL",45,"",""
-"9805TL",27,"",""
-"9805TL",13,"",""
-"9805TL",46,"",""
-"9805TL",44,"",""
-"9805TL",34,"",""
-"9805TL",33,"",""
-"9805TL",51,"",""
-"9805TL",36,"",""
-"9805TL",12,"",""
-"9805TL",35,"",""
-"9805TL",7,"",""
-"9805TL",43,"",""
-"9805TL",1,"",""
-"9805TL",37,"",""
-"9805TL",9,"",""
-"9805TL",6,"",""
-9801MX,Brik,1,,
-9801MX,Brik,2,,
-9801MX,Brik,3,,
-9801MX,Brik,4,,
-9801MX,Brik,5,,
-9801MX,Brik,6,,
-9801MX,Brik,7,,
-9801MX,Brik,8,,
-9801MX,Brik,9,,
-9801MX,Brik,10,,
-9801MX,Brik,11,,
-9801MX,Brik,12,,
-9801MX,Brik,13,,
-9801MX,Brik,14,,
-9801MX,Brik,15,,
-9801MX,Brik,16,,
-9801MX,Brik,17,,
-9801MX,Brik,18,,
-9801MX,Brik,19,,
-9801MX,Brik,20,,
-9801MX,Brik,21,,
-9801MX,Brik,22,,
-9801MX,Brik,23,,
-9801MX,Brik,24,,
-9801MX,Brik,26,,
-9801MX,Brik,28,,
-9805TE,Brilweg,24,,
-9805TE,Brilweg,24,a,
-9805TE,Brilweg,26,,
-9805TE,Brilweg,28,,
-9805TE,Brilweg,30,,
-9805TE,Brilweg,32,,
-9805TE,Brilweg,34,,
-9805TE,Brilweg,40,,
-9805TE,Brilweg,42,,
-9805TE,Brilweg,44,,
-9805TE,Brilweg,44,a,
-9805TE,Brilweg,44,b,
-9805TE,Brilweg,50,,
-9805TE,Brilweg,52,,
-9805TE,Brilweg,54,,
-9805TE,Brilweg,46,,
-9805TE,Brilweg,24,b,
-9805TE,Brilweg,24,c,
-9805TE,Brilweg,24,d,
-9805TE,Brilweg,24,e,
-9805TE,Brilweg,24,c,
-9805TE,Brilweg,24,d,
-9805TE,Brilweg,24,e,
-9805TE,Brilweg,24,f,
-9801LS,Dotterbloem,1,,
-9801LS,Dotterbloem,2,,
-9801LS,Dotterbloem,4,,
-9801LS,Dotterbloem,6,,
-9801LS,Dotterbloem,8,,
-9801LS,Dotterbloem,10,,
-9801LS,Dotterbloem,12,,
-9801LS,Dotterbloem,14,,
-9801LS,Dotterbloem,16,,
-9801LS,Dotterbloem,18,,
-9801LS,Dotterbloem,20,,
-9801LS,Dotterbloem,22,,
-9801LS,Dotterbloem,24,,
-9801LS,Dotterbloem,24,t,
-9801MZ,Galjoen,1,,
-9801MZ,Galjoen,2,,
-9801MZ,Galjoen,3,,
-9801MZ,Galjoen,4,,
-9801MZ,Galjoen,6,,
-9801MZ,Galjoen,8,,
-9801MZ,Galjoen,10,,
-9801MZ,Galjoen,12,,
-9801MZ,Galjoen,14,,
-9801MZ,Galjoen,16,,
-9801MZ,Galjoen,18,,
-9805TH,Hellingweg,1,,
-9805TH,Hellingweg,1,b,
-9805TH,Hellingweg,2,,
-9805TH,Hellingweg,4,,
-9805TH,Hellingweg,6,,
-9805TH,Hellingweg,8,,
-9805TH,Hellingweg,10,,
-9805TH,Hellingweg,12,a,
-9805TH,Hellingweg,14,,
-9805TH,Hellingweg,16,,
-9805TH,Hellingweg,1,a,
-9801LZ,Hoendiep Oostzijde,15,a,
-9801LZ,Hoendiep Oostzijde,15,b,
-9801LZ,Hoendiep Oostzijde,15,c,
-9801LZ,Hoendiep Oostzijde,15,d,
-9801LZ,Hoendiep Oostzijde,15,e,
-9801LZ,Hoendiep Oostzijde,15,f,
-9801LZ,Hoendiep Oostzijde,15,g,
-9801LZ,Hoendiep Oostzijde,49,,
-9801LZ,Hoendiep Oostzijde,51,,
-9801LZ,Hoendiep Oostzijde,53,,
-9801LZ,Hoendiep Oostzijde,55,,
-9801LZ,Hoendiep Oostzijde,57,,
-9801LZ,Hoendiep Oostzijde,59,,
-9801LZ,Hoendiep Oostzijde,61,,
-9801LZ,Hoendiep Oostzijde,63,,
-9801LZ,Hoendiep Oostzijde,65,,
-9801LZ,Hoendiep Oostzijde,67,,
-9801LZ,Hoendiep Oostzijde,69,,
-9801LZ,Hoendiep Oostzijde,71,,
-9801LZ,Hoendiep Oostzijde,73,,
-9801LZ,Hoendiep Oostzijde,75,,
-9801LZ,Hoendiep Oostzijde,77,,
-9801LZ,Hoendiep Oostzijde,45,t,
-9805TA,Hoendiep Oostzijde,1,,
-9805TA,Hoendiep Oostzijde,3,,
-9805TA,Hoendiep Oostzijde,3,a,
-9805TA,Hoendiep Oostzijde,5,,
-9805TA,Hoendiep Oostzijde,7,,
-9805TA,Hoendiep Oostzijde,9,,
-9805TA,Hoendiep Oostzijde,11,,
-9805TA,Hoendiep Oostzijde,13,,
-9805TA,Hoendiep Oostzijde,13,a,
-9805TA,Hoendiep Oostzijde,15,,
-9805TA,Hoendiep Oostzijde,17,,
-9805TA,Hoendiep Oostzijde,19,,
-9805TA,Hoendiep Oostzijde,21,,
-9805TA,Hoendiep Oostzijde,1,t,
-9805TB,Hoendiep Oostzijde,23,,
-9805TB,Hoendiep Oostzijde,25,,
-9805TB,Hoendiep Oostzijde,27,,
-9805TB,Hoendiep Oostzijde,29,,
-9805TB,Hoendiep Oostzijde,31,,
-9805TB,Hoendiep Oostzijde,33,,
-9805TB,Hoendiep Oostzijde,35,,
-9805TB,Hoendiep Oostzijde,37,,
-9805TB,Hoendiep Oostzijde,37,a,
-9805TB,Hoendiep Oostzijde,39,,
-9805TB,Hoendiep Oostzijde,41,,
-9805TB,Hoendiep Oostzijde,41,a,
-9805TB,Hoendiep Oostzijde,43,,
-9805TB,Hoendiep Oostzijde,45,,
-9805TB,Hoendiep Oostzijde,47,,
-9805TB,Hoendiep Oostzijde,45,t,
-9805TD,Hoendiep Westzijde,40,,
-9805TD,Hoendiep Westzijde,42,,
-9805TD,Hoendiep Westzijde,44,,
-9805TD,Hoendiep Westzijde,46,,
-9805TD,Hoendiep Westzijde,48,,
-9805TD,Hoendiep Westzijde,50,,
-9805TD,Hoendiep Westzijde,52,,
-9805TD,Hoendiep Westzijde,54,,
-9805TD,Hoendiep Westzijde,56,,
-9805TD,Hoendiep Westzijde,58,,
-9805TG,Niekerkerdiep Noordzijde,1,,
-9805TG,Niekerkerdiep Noordzijde,5,,
-9805TG,Niekerkerdiep Noordzijde,7,,
-9805TG,Niekerkerdiep Noordzijde,9,,
-9805TG,Niekerkerdiep Noordzijde,11,,
-9805TG,Niekerkerdiep Noordzijde,13,,
-9805TG,Niekerkerdiep Noordzijde,15,,
-9805TG,Niekerkerdiep Noordzijde,17,,
-9805TG,Niekerkerdiep Noordzijde,19,,
-9805TG,Niekerkerdiep Noordzijde,21,,
-9805TG,Niekerkerdiep Noordzijde,7,t,
-9805TG,Niekerkerdiep Noordzijde,15,t,
-9805TG,Niekerkerdiep Noordzijde,7,a,
-9805TG,Niekerkerdiep Noordzijde,7,b,
-9805TG,Niekerkerdiep Zuidzijde,2,,
-9805TG,Niekerkerdiep Zuidzijde,4,,
-9805TG,Niekerkerdiep Zuidzijde,6,,
-9805TL,Noordstar,1,,
-9805TL,Noordstar,2,,
-9805TL,Noordstar,3,,
-9805TL,Noordstar,4,,
-9805TL,Noordstar,5,,
-9805TL,Noordstar,6,,
-9805TL,Noordstar,7,,
-9805TL,Noordstar,8,,
-9805TL,Noordstar,9,,
-9805TL,Noordstar,10,,
-9805TL,Noordstar,11,,
-9805TL,Noordstar,12,,
-9805TL,Noordstar,13,,
-9805TL,Noordstar,14,,
-9805TL,Noordstar,15,,
-9805TL,Noordstar,16,,
-9805TL,Noordstar,17,,
-9805TL,Noordstar,18,,
-9805TL,Noordstar,19,,
-9805TL,Noordstar,20,,
-9805TL,Noordstar,21,,
-9805TL,Noordstar,22,,
-9805TL,Noordstar,23,,
-9805TL,Noordstar,24,,
-9805TL,Noordstar,25,,
-9805TL,Noordstar,26,,
-9805TL,Noordstar,27,,
-9805TL,Noordstar,28,,
-9805TL,Noordstar,29,,
-9805TL,Noordstar,30,,
-9805TL,Noordstar,31,,
-9805TL,Noordstar,32,,
-9805TL,Noordstar,33,,
-9805TL,Noordstar,34,,
-9805TL,Noordstar,35,,
-9805TL,Noordstar,36,,
-9805TL,Noordstar,37,,
-9805TL,Noordstar,38,,
-9805TL,Noordstar,39,,
-9805TL,Noordstar,40,,
-9805TL,Noordstar,41,,
-9805TL,Noordstar,42,,
-9805TL,Noordstar,43,,
-9805TL,Noordstar,44,,
-9805TL,Noordstar,45,,
-9805TL,Noordstar,46,,
-9805TL,Noordstar,47,,
-9805TL,Noordstar,48,,
-9805TL,Noordstar,49,,
-9805TL,Noordstar,50,,
-9805TL,Noordstar,51,,
-9805TL,Noordstar,52,,
-9805TL,Noordstar,53,,
-9805TL,Noordstar,54,,
-9805TL,Noordstar,55,,
-9805TL,Noordstar,56,,
-9805TL,Noordstar,57,,
-9805TL,Noordstar,58,,
-9805TL,Noordstar,59,,
-9805TL,Noordstar,60,,
-9805TL,Noordstar,61,,
-9805TL,Noordstar,62,,
-9805TL,Noordstar,63,,
-9805TL,Noordstar,64,,
-9805TL,Noordstar,13,a,
-9805TL,Noordstar,13,b,
-9805TL,Noordstar,13,c,
-9801LC,Zwanebloem,1,,
-9801LC,Zwanebloem,2,,
-9801LC,Zwanebloem,3,,
-9801LC,Zwanebloem,4,,
-9801LC,Zwanebloem,5,,
-9801LC,Zwanebloem,6,,
-9801LC,Zwanebloem,7,,
-9801LC,Zwanebloem,8,,
-9801LC,Zwanebloem,9,,
-9801LC,Zwanebloem,10,,
-9801LC,Zwanebloem,11,,
-9801LC,Zwanebloem,12,,
-9801LC,Zwanebloem,13,,
-9801LC,Zwanebloem,15,,
-9801LC,Zwanebloem,17,,
-9801LC,Zwanebloem,18,,
-9801LC,Zwanebloem,20,,
-9801LC,Zwanebloem,22,,
-9801LC,Zwanebloem,24,,
-9801LC,Zwanebloem,26,,
-9801LC,Zwanebloem,28,,
-9801LC,Zwanebloem,30,,
-9801LC,Zwanebloem,32,,
-9801LC,Zwanebloem,34,,
-9801LC,Zwanebloem,36,,
-9801LC,Zwanebloem,38,,
-9801LC,Zwanebloem,40,,
-9805TH,Hellingweg,1001,,
-9805TG,Niekerkerdiep Noordzijde,17,,
-9805TD,Hoendiep Westzijde,40,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zwanebloem,1,"","",9801LC,Zuidhorn
+Zwanebloem,10,"","",9801LC,Zuidhorn
+Zwanebloem,11,"","",9801LC,Zuidhorn
+Zwanebloem,12,"","",9801LC,Zuidhorn
+Zwanebloem,13,"","",9801LC,Zuidhorn
+Zwanebloem,15,"","",9801LC,Zuidhorn
+Zwanebloem,17,"","",9801LC,Zuidhorn
+Zwanebloem,18,"","",9801LC,Zuidhorn
+Zwanebloem,2,"","",9801LC,Zuidhorn
+Zwanebloem,20,"","",9801LC,Zuidhorn
+Zwanebloem,22,"","",9801LC,Zuidhorn
+Zwanebloem,24,"","",9801LC,Zuidhorn
+Zwanebloem,26,"","",9801LC,Zuidhorn
+Zwanebloem,28,"","",9801LC,Zuidhorn
+Zwanebloem,3,"","",9801LC,Zuidhorn
+Zwanebloem,30,"","",9801LC,Zuidhorn
+Zwanebloem,32,"","",9801LC,Zuidhorn
+Zwanebloem,34,"","",9801LC,Zuidhorn
+Zwanebloem,36,"","",9801LC,Zuidhorn
+Zwanebloem,38,"","",9801LC,Zuidhorn
+Zwanebloem,4,"","",9801LC,Zuidhorn
+Zwanebloem,40,"","",9801LC,Zuidhorn
+Zwanebloem,5,"","",9801LC,Zuidhorn
+Zwanebloem,6,"","",9801LC,Zuidhorn
+Zwanebloem,7,"","",9801LC,Zuidhorn
+Zwanebloem,8,"","",9801LC,Zuidhorn
+Zwanebloem,9,"","",9801LC,Zuidhorn
+Dotterbloem,1,"","",9801LS,Zuidhorn
+Dotterbloem,10,"","",9801LS,Zuidhorn
+Dotterbloem,12,"","",9801LS,Zuidhorn
+Dotterbloem,14,"","",9801LS,Zuidhorn
+Dotterbloem,16,"","",9801LS,Zuidhorn
+Dotterbloem,18,"","",9801LS,Zuidhorn
+Dotterbloem,2,"","",9801LS,Zuidhorn
+Dotterbloem,20,"","",9801LS,Zuidhorn
+Dotterbloem,22,"","",9801LS,Zuidhorn
+Dotterbloem,24,"","",9801LS,Zuidhorn
+Dotterbloem,24,T,"",9801LS,Zuidhorn
+Dotterbloem,4,"","",9801LS,Zuidhorn
+Dotterbloem,6,"","",9801LS,Zuidhorn
+Dotterbloem,8,"","",9801LS,Zuidhorn
+Hoendiep Oostzijde,15,A,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,15,B,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,15,C,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,15,D,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,15,E,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,15,F,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,15,G,"",9801LZ,Zuidhorn
+Hoendiep Oostzijde,45,T,"",9801LZ,Briltil
+Hoendiep Oostzijde,49,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,51,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,53,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,55,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,57,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,59,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,61,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,63,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,65,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,67,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,69,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,71,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,73,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,75,"","",9801LZ,Zuidhorn
+Hoendiep Oostzijde,77,"","",9801LZ,Zuidhorn
+Brik,1,"","",9801MX,Zuidhorn
+Brik,10,"","",9801MX,Zuidhorn
+Brik,11,"","",9801MX,Zuidhorn
+Brik,12,"","",9801MX,Zuidhorn
+Brik,13,"","",9801MX,Zuidhorn
+Brik,14,"","",9801MX,Zuidhorn
+Brik,15,"","",9801MX,Zuidhorn
+Brik,16,"","",9801MX,Zuidhorn
+Brik,17,"","",9801MX,Zuidhorn
+Brik,18,"","",9801MX,Zuidhorn
+Brik,19,"","",9801MX,Zuidhorn
+Brik,2,"","",9801MX,Zuidhorn
+Brik,20,"","",9801MX,Zuidhorn
+Brik,21,"","",9801MX,Zuidhorn
+Brik,22,"","",9801MX,Zuidhorn
+Brik,23,"","",9801MX,Zuidhorn
+Brik,24,"","",9801MX,Zuidhorn
+Brik,26,"","",9801MX,Zuidhorn
+Brik,28,"","",9801MX,Zuidhorn
+Brik,3,"","",9801MX,Zuidhorn
+Brik,4,"","",9801MX,Zuidhorn
+Brik,5,"","",9801MX,Zuidhorn
+Brik,6,"","",9801MX,Zuidhorn
+Brik,7,"","",9801MX,Zuidhorn
+Brik,8,"","",9801MX,Zuidhorn
+Brik,9,"","",9801MX,Zuidhorn
+Galjoen,1,"","",9801MZ,Zuidhorn
+Galjoen,10,"","",9801MZ,Zuidhorn
+Galjoen,12,"","",9801MZ,Zuidhorn
+Galjoen,14,"","",9801MZ,Zuidhorn
+Galjoen,16,"","",9801MZ,Zuidhorn
+Galjoen,18,"","",9801MZ,Zuidhorn
+Galjoen,2,"","",9801MZ,Zuidhorn
+Galjoen,3,"","",9801MZ,Zuidhorn
+Galjoen,4,"","",9801MZ,Zuidhorn
+Galjoen,6,"","",9801MZ,Zuidhorn
+Galjoen,8,"","",9801MZ,Zuidhorn
+Hoendiep Oostzijde,1,"","",9805TA,Briltil
+Hoendiep Oostzijde,1,T,"",9805TA,Briltil
+Hoendiep Oostzijde,11,"","",9805TA,Briltil
+Hoendiep Oostzijde,13,"","",9805TA,Briltil
+Hoendiep Oostzijde,13,A,"",9805TA,Briltil
+Hoendiep Oostzijde,15,"","",9805TA,Briltil
+Hoendiep Oostzijde,17,"","",9805TA,Briltil
+Hoendiep Oostzijde,19,"","",9805TA,Briltil
+Hoendiep Oostzijde,21,"","",9805TA,Briltil
+Hoendiep Oostzijde,3,"","",9805TA,Briltil
+Hoendiep Oostzijde,3,A,"",9805TA,Briltil
+Hoendiep Oostzijde,5,"","",9805TA,Briltil
+Hoendiep Oostzijde,7,"","",9805TA,Briltil
+Hoendiep Oostzijde,9,"","",9805TA,Briltil
+Hoendiep Oostzijde,23,"","",9805TB,Briltil
+Hoendiep Oostzijde,25,"","",9805TB,Briltil
+Hoendiep Oostzijde,27,"","",9805TB,Briltil
+Hoendiep Oostzijde,29,"","",9805TB,Briltil
+Hoendiep Oostzijde,31,"","",9805TB,Briltil
+Hoendiep Oostzijde,33,"","",9805TB,Briltil
+Hoendiep Oostzijde,35,"","",9805TB,Briltil
+Hoendiep Oostzijde,37,"","",9805TB,Briltil
+Hoendiep Oostzijde,37,A,"",9805TB,Briltil
+Hoendiep Oostzijde,39,"","",9805TB,Briltil
+Hoendiep Oostzijde,41,"","",9805TB,Briltil
+Hoendiep Oostzijde,41,A,"",9805TB,Briltil
+Hoendiep Oostzijde,43,"","",9805TB,Briltil
+Hoendiep Oostzijde,45,"","",9805TB,Briltil
+Hoendiep Oostzijde,45,T,"",9805TB,Briltil
+Hoendiep Oostzijde,47,"","",9805TB,Briltil
+Hoendiep Westzijde,40,"","",9805TD,Briltil
+Hoendiep Westzijde,40,"","",9805TD,Briltil
+Hoendiep Westzijde,42,"","",9805TD,Briltil
+Hoendiep Westzijde,44,"","",9805TD,Briltil
+Hoendiep Westzijde,46,"","",9805TD,Briltil
+Hoendiep Westzijde,48,"","",9805TD,Briltil
+Hoendiep Westzijde,50,"","",9805TD,Briltil
+Hoendiep Westzijde,52,"","",9805TD,Briltil
+Hoendiep Westzijde,54,"","",9805TD,Briltil
+Hoendiep Westzijde,56,"","",9805TD,Briltil
+Hoendiep Westzijde,58,"","",9805TD,Briltil
+Brilweg,24,"","",9805TE,Briltil
+Brilweg,24,A,"",9805TE,Briltil
+Brilweg,24,B,"",9805TE,Briltil
+Brilweg,24,C,"",9805TE,Briltil
+Brilweg,24,C,"",9805TE,Briltil
+Brilweg,24,C,"",9805TE,Briltil
+Brilweg,24,D,"",9805TE,Briltil
+Brilweg,24,D,"",9805TE,Briltil
+Brilweg,24,D,"",9805TE,Briltil
+Brilweg,24,E,"",9805TE,Briltil
+Brilweg,24,E,"",9805TE,Briltil
+Brilweg,24,E,"",9805TE,Briltil
+Brilweg,24,F,"",9805TE,Briltil
+Brilweg,26,"","",9805TE,Briltil
+Brilweg,28,"","",9805TE,Briltil
+Brilweg,30,"","",9805TE,Briltil
+Brilweg,32,"","",9805TE,Briltil
+Brilweg,34,"","",9805TE,Briltil
+Brilweg,40,"","",9805TE,Briltil
+Brilweg,42,"","",9805TE,Briltil
+Brilweg,44,"","",9805TE,Briltil
+Brilweg,44,A,"",9805TE,Briltil
+Brilweg,44,B,"",9805TE,Briltil
+Brilweg,46,"","",9805TE,Briltil
+Brilweg,50,"","",9805TE,Briltil
+Brilweg,52,"","",9805TE,Briltil
+Brilweg,54,"","",9805TE,Briltil
+Niekerkerdiep Noordzijde,1,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,11,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,13,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,15,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,15,T,"",9805TG,Briltil
+Niekerkerdiep Noordzijde,17,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,17,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,17,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,19,"","",9805TG,Briltil
+Niekerkerdiep Zuidzijde,2,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,21,"","",9805TG,Briltil
+Niekerkerdiep Zuidzijde,4,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,5,"","",9805TG,Briltil
+Niekerkerdiep Zuidzijde,6,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,7,"","",9805TG,Briltil
+Niekerkerdiep Noordzijde,7,A,"",9805TG,Briltil
+Niekerkerdiep Noordzijde,7,B,"",9805TG,Briltil
+Niekerkerdiep Noordzijde,7,T,"",9805TG,Briltil
+Niekerkerdiep Noordzijde,9,"","",9805TG,Briltil
+Hellingweg,1,"","",9805TH,Briltil
+Hellingweg,1,A,"",9805TH,Briltil
+Hellingweg,1,B,"",9805TH,Briltil
+Hellingweg,1,B,"",9805TH,Briltil
+Hellingweg,10,"","",9805TH,Briltil
+Hellingweg,1001,"","",9805TH,Briltil
+Hellingweg,12,A,"",9805TH,Briltil
+Hellingweg,14,"","",9805TH,Briltil
+Hellingweg,16,"","",9805TH,Briltil
+Hellingweg,2,"","",9805TH,Briltil
+Hellingweg,4,"","",9805TH,Briltil
+Hellingweg,6,"","",9805TH,Briltil
+Hellingweg,8,"","",9805TH,Briltil
+Noordstar,1,"","",9805TL,Briltil
+Noordstar,10,"","",9805TL,Briltil
+Noordstar,11,"","",9805TL,Briltil
+Noordstar,12,"","",9805TL,Briltil
+Noordstar,13,"","",9805TL,Briltil
+Noordstar,13,A,"",9805TL,Briltil
+Noordstar,13,B,"",9805TL,Briltil
+Noordstar,13,C,"",9805TL,Briltil
+Noordstar,14,"","",9805TL,Briltil
+Noordstar,15,"","",9805TL,Briltil
+Noordstar,16,"","",9805TL,Briltil
+Noordstar,17,"","",9805TL,Briltil
+Noordstar,18,"","",9805TL,Briltil
+Noordstar,19,"","",9805TL,Briltil
+Noordstar,2,"","",9805TL,Briltil
+Noordstar,20,"","",9805TL,Briltil
+Noordstar,21,"","",9805TL,Briltil
+Noordstar,22,"","",9805TL,Briltil
+Noordstar,23,"","",9805TL,Briltil
+Noordstar,24,"","",9805TL,Briltil
+Noordstar,25,"","",9805TL,Briltil
+Noordstar,26,"","",9805TL,Briltil
+Noordstar,27,"","",9805TL,Briltil
+Noordstar,28,"","",9805TL,Briltil
+Noordstar,29,"","",9805TL,Briltil
+Noordstar,3,"","",9805TL,Briltil
+Noordstar,30,"","",9805TL,Briltil
+Noordstar,31,"","",9805TL,Briltil
+Noordstar,32,"","",9805TL,Briltil
+Noordstar,33,"","",9805TL,Briltil
+Noordstar,34,"","",9805TL,Briltil
+Noordstar,35,"","",9805TL,Briltil
+Noordstar,36,"","",9805TL,Briltil
+Noordstar,37,"","",9805TL,Briltil
+Noordstar,38,"","",9805TL,Briltil
+Noordstar,39,"","",9805TL,Briltil
+Noordstar,4,"","",9805TL,Briltil
+Noordstar,40,"","",9805TL,Briltil
+Noordstar,41,"","",9805TL,Briltil
+Noordstar,42,"","",9805TL,Briltil
+Noordstar,43,"","",9805TL,Briltil
+Noordstar,44,"","",9805TL,Briltil
+Noordstar,45,"","",9805TL,Briltil
+Noordstar,46,"","",9805TL,Briltil
+Noordstar,47,"","",9805TL,Briltil
+Noordstar,48,"","",9805TL,Briltil
+Noordstar,49,"","",9805TL,Briltil
+Noordstar,5,"","",9805TL,Briltil
+Noordstar,50,"","",9805TL,Briltil
+Noordstar,51,"","",9805TL,Briltil
+Noordstar,52,"","",9805TL,Briltil
+Noordstar,53,"","",9805TL,Briltil
+Noordstar,54,"","",9805TL,Briltil
+Noordstar,55,"","",9805TL,Briltil
+Noordstar,56,"","",9805TL,Briltil
+Noordstar,57,"","",9805TL,Briltil
+Noordstar,58,"","",9805TL,Briltil
+Noordstar,59,"","",9805TL,Briltil
+Noordstar,6,"","",9805TL,Briltil
+Noordstar,60,"","",9805TL,Briltil
+Noordstar,61,"","",9805TL,Briltil
+Noordstar,62,"","",9805TL,Briltil
+Noordstar,63,"","",9805TL,Briltil
+Noordstar,64,"","",9805TL,Briltil
+Noordstar,7,"","",9805TL,Briltil
+Noordstar,8,"","",9805TL,Briltil
+Noordstar,9,"","",9805TL,Briltil

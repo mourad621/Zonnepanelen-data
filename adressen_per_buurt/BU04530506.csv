@@ -1,23 +1,23 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1951JZ,Wenckebachstraat,1,,
-1951JR,Noordersluisweg,75,,
-1951JR,Noordersluisweg,75,,
-1951JR,Pontweg,1,J,
-1951JR,Pontweg,1,D,
-1951JR,Pontweg,1,E,
-1951JR,Pontweg,1,F,
-1951JR,Pontweg,1,H,
-1951JR,Pontweg,1,K,
-1951JR,Pontweg,100,,
-1951HL,Witte Hekweg,68,,
-1951HL,Witte Hekweg,34,,
-1951HL,Witte Hekweg,88,,
-1951HL,Witte Hekweg,4,,
-1951HL,Witte Hekweg,50,,
-1951HL,Witte Hekweg,52,,
-1951JR,Noordersluisweg,75,B,
-1951JR,Noordersluisweg,75,A,
-1951HL,Witte Hekweg,34,,
-1951HL,Witte Hekweg,34,B,
-1951HL,Witte Hekweg,34,A,
-1951JR,Pontweg,1,D,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Witte Hekweg,34,"","",1951HL,Velsen-Noord
+Witte Hekweg,34,"","",1951HL,Velsen-Noord
+Witte Hekweg,34,A,"",1951HL,Velsen-Noord
+Witte Hekweg,34,B,"",1951HL,Velsen-Noord
+Witte Hekweg,4,"","",1951HL,Velsen-Noord
+Witte Hekweg,50,"","",1951HL,Velsen-Noord
+Witte Hekweg,52,"","",1951HL,Velsen-Noord
+Witte Hekweg,68,"","",1951HL,Velsen-Noord
+Witte Hekweg,88,"","",1951HL,Velsen-Noord
+Pontweg,1,D,"",1951JR,Velsen-Noord
+Pontweg,1,D,"",1951JR,Velsen-Noord
+Pontweg,1,E,"",1951JR,Velsen-Noord
+Pontweg,1,F,"",1951JR,Velsen-Noord
+Pontweg,1,H,"",1951JR,Velsen-Noord
+Pontweg,1,J,"",1951JR,Velsen-Noord
+Pontweg,1,K,"",1951JR,Velsen-Noord
+Pontweg,100,"","",1951JR,Velsen-Noord
+Noordersluisweg,75,"","",1951JR,Velsen-Noord
+Noordersluisweg,75,"","",1951JR,Velsen-Noord
+Noordersluisweg,75,A,"",1951JR,IJmuiden
+Noordersluisweg,75,B,"",1951JR,IJmuiden
+Wenckebachstraat,1,"","",1951JZ,Velsen-Noord

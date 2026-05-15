@@ -1,574 +1,296 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9401CA",6,"A",""
-"9401CA",6,"A",""
-"9401CA",10,"",""
-"9401CA",6,"",""
-"9401CA",16,"",""
-"9401CA",18,"C",""
-"9401CA",4,"B",""
-"9401CA",6,"",""
-"9401CA",18,"D",""
-"9401CA",6,"",""
-"9401CA",6,"A",""
-"9401CA",18,"A",""
-"9401CA",18,"",""
-"9401CA",14,"",""
-"9401CA",8,"",""
-"9401CA",4,"",""
-"9401CA",4,"A",""
-"9401CA",8,"A",""
-"9401CA",12,"",""
-"9401ES",10,"",""
-"9401ES",22,"",""
-"9401ES",20,"",""
-"9401ES",4,"C",""
-"9401ES",32,"",""
-"9401ES",24,"",""
-"9401ES",34,"",""
-"9401ES",6,"",""
-"9401ES",46,"",""
-"9401ES",42,"",""
-"9401ES",44,"",""
-"9401ES",40,"",""
-"9401ES",30,"",""
-"9401ES",8,"",""
-"9401ES",4,"B",""
-"9401ES",54,"",""
-"9401ES",4,"B",""
-"9401ES",28,"",""
-"9401ES",4,"C",""
-"9401ES",18,"",""
-"9401ES",4,"B",""
-"9401ES",4,"B",""
-"9401ES",26,"",""
-"9401ES",38,"",""
-"9401ES",36,"",""
-"9401ES",50,"",""
-"9401ES",52,"",""
-"9401ES",4,"B",""
-"9401ES",4,"A",""
-"9401ES",4,"B",""
-"9401ES",48,"",""
-"9401ES",12,"",""
-"9401ES",16,"",""
-"9401ES",14,"",""
-"9401ET",1,"E",""
-"9401ET",45,"",""
-"9401ET",59,"",""
-"9401ET",1,"C",""
-"9401ET",1,"B",""
-"9401ET",41,"",""
-"9401ET",35,"",""
-"9401ET",1,"D",""
-"9401ET",3,"",""
-"9401ET",1,"",""
-"9401ET",57,"",""
-"9401ET",1,"F",""
-"9401ET",43,"",""
-"9401ET",55,"",""
-"9401ET",1,"A",""
-"9401ET",53,"",""
-"9401ET",51,"",""
-"9401ET",47,"",""
-"9401ET",49,"",""
-"9401EW",3,"",""
-"9401EW",28,"",""
-"9401EW",3,"C",""
-"9401EW",36,"",""
-"9401EW",16,"",""
-"9401EW",14,"",""
-"9401EW",26,"",""
-"9401EW",38,"",""
-"9401EW",32,"",""
-"9401EW",3,"",""
-"9401EW",20,"",""
-"9401EW",3,"D",""
-"9401EW",3,"E",""
-"9401EW",3,"A",""
-"9401EW",2,"",""
-"9401EW",40,"",""
-"9401EW",44,"",""
-"9401EW",22,"",""
-"9401EW",6,"",""
-"9401EW",4,"",""
-"9401EW",42,"",""
-"9401EW",30,"",""
-"9401EW",24,"",""
-"9401EW",12,"",""
-"9401EW",3,"B",""
-"9401EW",18,"",""
-"9401EW",3,"",""
-"9401EW",10,"",""
-"9401EW",34,"",""
-"9401EW",8,"",""
-"9401EX",58,"",""
-"9401EX",52,"",""
-"9401EX",60,"",""
-"9401EX",48,"",""
-"9401EX",72,"",""
-"9401EX",62,"",""
-"9401EX",50,"",""
-"9401EX",64,"",""
-"9401EX",70,"",""
-"9401EX",54,"",""
-"9401EX",56,"",""
-"9401EX",46,"",""
-"9401EX",68,"",""
-"9401EX",66,"",""
-"9401EZ",75,"",""
-"9401EZ",71,"",""
-"9401EZ",83,"",""
-"9401EZ",69,"",""
-"9401EZ",79,"",""
-"9401EZ",77,"",""
-"9401EZ",73,"",""
-"9401EZ",67,"",""
-"9401EZ",61,"",""
-"9401EZ",65,"",""
-"9401EZ",33,"",""
-"9401EZ",81,"",""
-"9401EZ",63,"",""
-"9401GA",43,"A",""
-"9401GA",7,"M",""
-"9401GA",7,"K",""
-"9401GA",9,"L",""
-"9401GA",9,"G",""
-"9401GA",43,"",""
-"9401GA",35,"",""
-"9401GA",9,"A",""
-"9401GA",9,"K",""
-"9401GA",7,"J",""
-"9401GA",39,"",""
-"9401GA",15,"",""
-"9401GA",13,"",""
-"9401GA",9,"J",""
-"9401GA",33,"",""
-"9401GA",9,"H",""
-"9401GA",41,"",""
-"9401GA",7,"L",""
-"9401GA",1,"D",""
-"9401GA",7,"G",""
-"9401GA",7,"E",""
-"9401GA",31,"A",""
-"9401GA",7,"H",""
-"9401GA",31,"",""
-"9401GA",9,"M",""
-"9401GA",9,"N",""
-"9401GA",7,"D",""
-"9401GA",5,"B",""
-"9401GA",1,"C",""
-"9401GA",37,"",""
-"9401GA",1,"A",""
-"9401GA",29,"",""
-"9401GA",7,"C",""
-"9401GA",7,"F",""
-"9401GA",7,"B",""
-"9401GA",9,"C",""
-"9401GA",45,"",""
-"9401GA",11,"",""
-"9401GA",1,"B",""
-"9401GA",3,"E",""
-"9401GA",7,"A",""
-"9401GA",5,"E",""
-"9401GA",5,"D",""
-"9401GA",9,"D",""
-"9401GA",9,"E",""
-"9401GA",41,"A",""
-"9401GA",9,"F",""
-"9401GA",3,"C",""
-"9401GA",3,"B",""
-"9401GA",5,"C",""
-"9401GA",5,"A",""
-"9401GA",3,"A",""
-"9401GA",1,"E",""
-"9401GA",3,"D",""
-"9401GA",9,"B",""
-"9401GA",7,"N",""
-"9401GB",63,"",""
-"9401GB",61,"",""
-"9401GB",53,"",""
-"9401GB",55,"",""
-"9401GB",67,"",""
-"9401GB",59,"",""
-"9401GB",57,"",""
-"9401GB",65,"",""
-"9401GB",51,"",""
-"9401GB",49,"",""
-"9401GB",61,"A",""
-"9401GB",47,"",""
-"9401GD",76,"",""
-"9401GD",94,"",""
-"9401GD",72,"",""
-"9401GD",86,"",""
-"9401GD",104,"",""
-"9401GD",96,"",""
-"9401GD",74,"",""
-"9401GD",90,"",""
-"9401GD",80,"",""
-"9401GD",92,"",""
-"9401GD",98,"",""
-"9401GD",84,"",""
-"9401GD",82,"",""
-"9401GM",18,"",""
-"9401GM",2,"",""
-"9401GM",18,"",""
-"9401GM",4,"",""
-"9401GM",14,"",""
-"9401GM",14,"",""
-"9401GM",16,"",""
-"9401GM",10,"",""
-"9401GM",18,"A",""
-"9401GM",1,"",""
-"9401GM",12,"",""
-"9401GM",16,"",""
-"9401GM",8,"",""
-"9401GM",18,"",""
-"9401GM",14,"",""
-"9401GM",12,"",""
-"9401GM",12,"",""
-"9401GM",16,"",""
-"9401GM",6,"",""
-"9401GN",48,"",""
-"9401GN",50,"",""
-"9401GN",34,"",""
-"9401GN",34,"",""
-"9401GN",34,"",""
-"9401GN",30,"B",""
-"9401GN",30,"A",""
-"9401GN",30,"A",""
-"9401GN",30,"A",""
-"9401GN",30,"B",""
-"9401GN",48,"",""
-"9401GN",40,"",""
-"9401GN",30,"A",""
-"9401GN",42,"",""
-"9401GN",38,"",""
-"9401GN",54,"",""
-"9401GN",30,"A",""
-"9401GN",36,"",""
-"9401GN",22,"",""
-"9401GN",34,"",""
-"9401GN",50,"",""
-"9401GN",28,"",""
-"9401GN",30,"",""
-"9401GN",26,"",""
-"9401GN",48,"",""
-"9401GN",44,"",""
-"9401GN",50,"",""
-"9401GN",46,"",""
-"9401GN",30,"A",""
-"9401GN",52,"",""
-"9401GN",52,"A",""
-"9401GN",20,"",""
-"9401GN",24,"",""
-"9401GN",46,"A",""
-"9401GP",58,"E",""
-"9401GP",58,"",""
-"9401GP",64,"",""
-"9401GP",66,"",""
-"9401GP",66,"A",""
-"9401GP",58,"B",""
-"9401GP",62,"",""
-"9401GP",66,"B",""
-"9401GP",58,"A",""
-"9401GP",60,"",""
-"9401GP",58,"C",""
-"9401GP",58,"D",""
-"9401GR",74,"C",""
-"9401GR",74,"M",""
-"9401GR",74,"I",""
-"9401GR",74,"B",""
-"9401GR",74,"N",""
-"9401GR",74,"",""
-"9401GR",74,"L",""
-"9401GR",74,"G",""
-"9401GR",74,"A",""
-"9401GR",74,"J",""
-"9401GR",74,"E",""
-"9401GR",74,"F",""
-"9401GR",74,"D",""
-"9401GR",72,"",""
-"9401GR",74,"H",""
-"9401GR",68,"B",""
-"9401GR",70,"",""
-"9401GR",74,"K",""
-"9401GR",68,"",""
-"9401GR",68,"A",""
-9401GA,Alteveerstraat,29,,
-9401GA,Alteveerstraat,31,A,
-9401GA,Alteveerstraat,31,,
-9401GA,Alteveerstraat,33,,
-9401GA,Alteveerstraat,35,,
-9401GA,Alteveerstraat,37,,
-9401GA,Alteveerstraat,39,,
-9401GA,Alteveerstraat,41,A,
-9401GA,Alteveerstraat,41,,
-9401GA,Alteveerstraat,43,A,
-9401GA,Alteveerstraat,43,,
-9401GA,Alteveerstraat,45,,
-9401GB,Alteveerstraat,47,,
-9401GB,Alteveerstraat,49,,
-9401GB,Alteveerstraat,51,,
-9401GB,Alteveerstraat,53,,
-9401GB,Alteveerstraat,55,,
-9401GB,Alteveerstraat,57,,
-9401GB,Alteveerstraat,59,,
-9401GB,Alteveerstraat,61,A,
-9401GB,Alteveerstraat,61,,
-9401GB,Alteveerstraat,63,,
-9401GB,Alteveerstraat,65,,
-9401GB,Alteveerstraat,67,,
-9401GD,Alteveerstraat,72,,
-9401GD,Alteveerstraat,74,,
-9401GD,Alteveerstraat,76,,
-9401GD,Alteveerstraat,80,,
-9401GD,Alteveerstraat,82,,
-9401GD,Alteveerstraat,84,,
-9401GD,Alteveerstraat,86,,
-9401GD,Alteveerstraat,90,,
-9401GD,Alteveerstraat,92,,
-9401GD,Alteveerstraat,94,,
-9401GD,Alteveerstraat,96,,
-9401GD,Alteveerstraat,98,,
-9401GD,Alteveerstraat,104,,
-9401EW,Burgemeester Agterstraat,2,,
-9401EW,Burgemeester Agterstraat,3,,
-9401EW,Burgemeester Agterstraat,4,,
-9401EW,Burgemeester Agterstraat,6,,
-9401EW,Burgemeester Agterstraat,8,,
-9401EW,Burgemeester Agterstraat,10,,
-9401EW,Burgemeester Agterstraat,12,,
-9401EW,Burgemeester Agterstraat,14,,
-9401EW,Burgemeester Agterstraat,16,,
-9401EW,Burgemeester Agterstraat,18,,
-9401EW,Burgemeester Agterstraat,20,,
-9401EW,Burgemeester Agterstraat,22,,
-9401EW,Burgemeester Agterstraat,24,,
-9401EW,Burgemeester Agterstraat,26,,
-9401EW,Burgemeester Agterstraat,28,,
-9401EW,Burgemeester Agterstraat,30,,
-9401EW,Burgemeester Agterstraat,32,,
-9401EW,Burgemeester Agterstraat,34,,
-9401EW,Burgemeester Agterstraat,36,,
-9401EW,Burgemeester Agterstraat,38,,
-9401EW,Burgemeester Agterstraat,40,,
-9401EW,Burgemeester Agterstraat,42,,
-9401EW,Burgemeester Agterstraat,44,,
-9401EX,Burgemeester Agterstraat,46,,
-9401EX,Burgemeester Agterstraat,48,,
-9401EX,Burgemeester Agterstraat,50,,
-9401EX,Burgemeester Agterstraat,52,,
-9401EX,Burgemeester Agterstraat,54,,
-9401EX,Burgemeester Agterstraat,56,,
-9401EX,Burgemeester Agterstraat,58,,
-9401EX,Burgemeester Agterstraat,60,,
-9401EX,Burgemeester Agterstraat,62,,
-9401EX,Burgemeester Agterstraat,64,,
-9401EX,Burgemeester Agterstraat,66,,
-9401EX,Burgemeester Agterstraat,68,,
-9401EX,Burgemeester Agterstraat,70,,
-9401EX,Burgemeester Agterstraat,72,,
-9401CA,het Kanaal,4,B,
-9401CA,het Kanaal,4,,
-9401CA,het Kanaal,6,A,
-9401CA,het Kanaal,6,,
-9401CA,het Kanaal,8,A,
-9401CA,het Kanaal,8,,
-9401CA,het Kanaal,10,,
-9401CA,het Kanaal,12,,
-9401CA,het Kanaal,14,,
-9401CA,het Kanaal,16,,
-9401CA,het Kanaal,18,A,
-9401CA,het Kanaal,18,C,
-9401CA,het Kanaal,18,D,
-9401CA,het Kanaal,18,,
-9401CA,het Kanaal,4,A,
-9401GM,Vaart N.Z.,2,,
-9401GM,Vaart N.Z.,6,,
-9401GM,Vaart N.Z.,8,,
-9401GM,Vaart N.Z.,10,,
-9401GM,Vaart N.Z.,12,,
-9401GM,Vaart N.Z.,14,,
-9401GM,Vaart N.Z.,16,,
-9401GM,Vaart N.Z.,18,,
-9401GN,Vaart N.Z.,20,,
-9401GN,Vaart N.Z.,22,,
-9401GN,Vaart N.Z.,24,,
-9401GN,Vaart N.Z.,26,,
-9401GN,Vaart N.Z.,28,,
-9401GN,Vaart N.Z.,30,A,
-9401GN,Vaart N.Z.,30,,
-9401GN,Vaart N.Z.,34,,
-9401GN,Vaart N.Z.,34,,
-9401GN,Vaart N.Z.,36,,
-9401GN,Vaart N.Z.,38,,
-9401GN,Vaart N.Z.,40,,
-9401GN,Vaart N.Z.,42,,
-9401GN,Vaart N.Z.,44,,
-9401GN,Vaart N.Z.,46,A,
-9401GN,Vaart N.Z.,46,,
-9401GN,Vaart N.Z.,48,,
-9401GN,Vaart N.Z.,52,A,
-9401GN,Vaart N.Z.,52,,
-9401GN,Vaart N.Z.,54,,
-9401GP,Vaart N.Z.,58,A,
-9401GP,Vaart N.Z.,58,B,
-9401GP,Vaart N.Z.,58,C,
-9401GP,Vaart N.Z.,58,D,
-9401GP,Vaart N.Z.,58,E,
-9401GP,Vaart N.Z.,58,,
-9401GP,Vaart N.Z.,60,,
-9401GP,Vaart N.Z.,62,,
-9401GP,Vaart N.Z.,64,,
-9401GP,Vaart N.Z.,66,A,
-9401GP,Vaart N.Z.,66,B,
-9401GP,Vaart N.Z.,66,,
-9401GR,Vaart N.Z.,74,C,
-9401GR,Vaart N.Z.,74,D,
-9401GR,Vaart N.Z.,74,E,
-9401GR,Vaart N.Z.,74,F,
-9401GR,Vaart N.Z.,74,G,
-9401GR,Vaart N.Z.,74,H,
-9401GR,Vaart N.Z.,74,I,
-9401GR,Vaart N.Z.,74,J,
-9401GR,Vaart N.Z.,74,K,
-9401GR,Vaart N.Z.,74,L,
-9401GR,Vaart N.Z.,74,M,
-9401GR,Vaart N.Z.,74,N,
-9401GR,Vaart N.Z.,74,,
-9401GR,Vaart N.Z.,68,A,
-9401GR,Vaart N.Z.,68,B,
-9401GR,Vaart N.Z.,68,,
-9401GR,Vaart N.Z.,70,,
-9401GR,Vaart N.Z.,72,,
-9401GR,Vaart N.Z.,74,A,
-9401GR,Vaart N.Z.,74,B,
-9401ET,Weiersstraat,41,,
-9401ET,Weiersstraat,43,,
-9401ET,Weiersstraat,45,,
-9401ET,Weiersstraat,47,,
-9401ET,Weiersstraat,49,,
-9401ET,Weiersstraat,51,,
-9401ET,Weiersstraat,53,,
-9401ET,Weiersstraat,55,,
-9401ET,Weiersstraat,57,,
-9401ET,Weiersstraat,59,,
-9401EZ,Weiersstraat,81,,
-9401EZ,Weiersstraat,61,,
-9401EZ,Weiersstraat,63,,
-9401EZ,Weiersstraat,65,,
-9401EZ,Weiersstraat,67,,
-9401EZ,Weiersstraat,69,,
-9401EZ,Weiersstraat,71,,
-9401EZ,Weiersstraat,73,,
-9401EZ,Weiersstraat,75,,
-9401EZ,Weiersstraat,77,,
-9401EZ,Weiersstraat,79,,
-9401GA,Alteveerstraat,9,E,
-9401GA,Alteveerstraat,7,E,
-9401GA,Alteveerstraat,5,E,
-9401GA,Alteveerstraat,3,E,
-9401GA,Alteveerstraat,1,E,
-9401GA,Alteveerstraat,9,D,
-9401GA,Alteveerstraat,7,D,
-9401GA,Alteveerstraat,5,D,
-9401GA,Alteveerstraat,3,D,
-9401GA,Alteveerstraat,1,D,
-9401GA,Alteveerstraat,9,C,
-9401GA,Alteveerstraat,7,C,
-9401GA,Alteveerstraat,5,C,
-9401GA,Alteveerstraat,3,C,
-9401GA,Alteveerstraat,1,C,
-9401GA,Alteveerstraat,9,B,
-9401GA,Alteveerstraat,7,B,
-9401GA,Alteveerstraat,5,B,
-9401GA,Alteveerstraat,3,B,
-9401GA,Alteveerstraat,1,B,
-9401GA,Alteveerstraat,9,A,
-9401GA,Alteveerstraat,7,A,
-9401GA,Alteveerstraat,5,A,
-9401GA,Alteveerstraat,3,A,
-9401GA,Alteveerstraat,1,A,
-9401GA,Alteveerstraat,7,F,
-9401GA,Alteveerstraat,9,F,
-9401GA,Alteveerstraat,7,G,
-9401GA,Alteveerstraat,9,G,
-9401GA,Alteveerstraat,7,H,
-9401GA,Alteveerstraat,9,H,
-9401GA,Alteveerstraat,7,J,
-9401GA,Alteveerstraat,9,J,
-9401GA,Alteveerstraat,7,K,
-9401GA,Alteveerstraat,9,K,
-9401GA,Alteveerstraat,7,L,
-9401GA,Alteveerstraat,9,L,
-9401GA,Alteveerstraat,7,M,
-9401GA,Alteveerstraat,9,M,
-9401GA,Alteveerstraat,7,N,
-9401GA,Alteveerstraat,9,N,
-9401GA,Alteveerstraat,15,,
-9401GA,Alteveerstraat,13,,
-9401GA,Alteveerstraat,11,,
-9401EW,Burgemeester Agterstraat,3,,
-9401EW,Burgemeester Agterstraat,3,A,
-9401EW,Burgemeester Agterstraat,3,B,
-9401EW,Burgemeester Agterstraat,3,C,
-9401EW,Burgemeester Agterstraat,3,D,
-9401EW,Burgemeester Agterstraat,3,E,
-9401ET,Collardslaan,35,,
-9401CA,het Kanaal,6,A,
-9401CA,het Kanaal,6,,
-9401EZ,Narcisstraat,33,,
-9401GM,Vaart N.Z.,4,,
-9401GM,Vaart N.Z.,1,,
-9401GM,Vaart N.Z.,12,,
-9401GM,Vaart N.Z.,14,,
-9401GM,Vaart N.Z.,16,,
-9401GM,Vaart N.Z.,18,,
-9401GM,Vaart N.Z.,18,A,
-9401GN,Vaart N.Z.,50,,
-9401GN,Vaart N.Z.,30,A,
-9401GN,Vaart N.Z.,30,B,
-9401GN,Vaart N.Z.,30,A,
-9401GN,Vaart N.Z.,48,,
-9401GN,Vaart N.Z.,50,,
-9401GN,Vaart N.Z.,34,,
-9401ET,Weiersstraat,3,,
-9401ET,Weiersstraat,1,E,
-9401ET,Weiersstraat,1,C,
-9401ET,Weiersstraat,1,A,
-9401ET,Weiersstraat,1,,
-9401ET,Weiersstraat,1,B,
-9401ET,Weiersstraat,1,F,
-9401ET,Weiersstraat,1,D,
-9401EZ,Weiersstraat,83,,
-9401ES,Keerweer,4,A,
-9401ES,Keerweer,4,B,
-9401ES,Keerweer,54,,
-9401ES,Keerweer,6,,
-9401ES,Keerweer,8,,
-9401ES,Keerweer,10,,
-9401ES,Keerweer,12,,
-9401ES,Keerweer,14,,
-9401ES,Keerweer,16,,
-9401ES,Keerweer,18,,
-9401ES,Keerweer,20,,
-9401ES,Keerweer,22,,
-9401ES,Keerweer,24,,
-9401ES,Keerweer,26,,
-9401ES,Keerweer,28,,
-9401ES,Keerweer,30,,
-9401ES,Keerweer,32,,
-9401ES,Keerweer,34,,
-9401ES,Keerweer,36,,
-9401ES,Keerweer,38,,
-9401ES,Keerweer,40,,
-9401ES,Keerweer,42,,
-9401ES,Keerweer,44,,
-9401ES,Keerweer,46,,
-9401ES,Keerweer,48,,
-9401ES,Keerweer,50,,
-9401ES,Keerweer,52,,
-9401ES,Keerweer,4,B,
-9401ES,Keerweer,4,C,
-9401ES,Keerweer,4,B,
-9401ES,Keerweer,4,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+het Kanaal,10,"","",9401CA,Assen
+het Kanaal,12,"","",9401CA,Assen
+het Kanaal,14,"","",9401CA,Assen
+het Kanaal,16,"","",9401CA,Assen
+het Kanaal,18,"","",9401CA,Assen
+het Kanaal,18,A,"",9401CA,Assen
+het Kanaal,18,C,"",9401CA,Assen
+het Kanaal,18,D,"",9401CA,Assen
+het Kanaal,4,"","",9401CA,Assen
+het Kanaal,4,A,"",9401CA,Assen
+het Kanaal,4,B,"",9401CA,Assen
+het Kanaal,6,"","",9401CA,Assen
+het Kanaal,6,"","",9401CA,Assen
+het Kanaal,6,"","",9401CA,Assen
+het Kanaal,6,A,"",9401CA,Assen
+het Kanaal,6,A,"",9401CA,Assen
+het Kanaal,6,A,"",9401CA,Assen
+het Kanaal,8,"","",9401CA,Assen
+het Kanaal,8,A,"",9401CA,Assen
+Keerweer,10,"","",9401ES,Assen
+Keerweer,12,"","",9401ES,Assen
+Keerweer,14,"","",9401ES,Assen
+Keerweer,16,"","",9401ES,Assen
+Keerweer,18,"","",9401ES,Assen
+Keerweer,20,"","",9401ES,Assen
+Keerweer,22,"","",9401ES,Assen
+Keerweer,24,"","",9401ES,Assen
+Keerweer,26,"","",9401ES,Assen
+Keerweer,28,"","",9401ES,Assen
+Keerweer,30,"","",9401ES,Assen
+Keerweer,32,"","",9401ES,Assen
+Keerweer,34,"","",9401ES,Assen
+Keerweer,36,"","",9401ES,Assen
+Keerweer,38,"","",9401ES,Assen
+Keerweer,4,A,"",9401ES,Assen
+Keerweer,4,B,"",9401ES,Assen
+Keerweer,4,B,"",9401ES,Assen
+Keerweer,4,B,"",9401ES,Assen
+Keerweer,4,B,"",9401ES,Assen
+Keerweer,4,B,"",9401ES,Assen
+Keerweer,4,B,"",9401ES,Assen
+Keerweer,4,C,"",9401ES,Assen
+Keerweer,4,C,"",9401ES,Assen
+Keerweer,40,"","",9401ES,Assen
+Keerweer,42,"","",9401ES,Assen
+Keerweer,44,"","",9401ES,Assen
+Keerweer,46,"","",9401ES,Assen
+Keerweer,48,"","",9401ES,Assen
+Keerweer,50,"","",9401ES,Assen
+Keerweer,52,"","",9401ES,Assen
+Keerweer,54,"","",9401ES,Assen
+Keerweer,6,"","",9401ES,Assen
+Keerweer,8,"","",9401ES,Assen
+Weiersstraat,1,"","",9401ET,Assen
+Weiersstraat,1,A,"",9401ET,Assen
+Weiersstraat,1,B,"",9401ET,Assen
+Weiersstraat,1,C,"",9401ET,Assen
+Weiersstraat,1,D,"",9401ET,Assen
+Weiersstraat,1,E,"",9401ET,Assen
+Weiersstraat,1,F,"",9401ET,Assen
+Weiersstraat,3,"","",9401ET,Assen
+Collardslaan,35,"","",9401ET,Assen
+Weiersstraat,41,"","",9401ET,Assen
+Weiersstraat,43,"","",9401ET,Assen
+Weiersstraat,45,"","",9401ET,Assen
+Weiersstraat,47,"","",9401ET,Assen
+Weiersstraat,49,"","",9401ET,Assen
+Weiersstraat,51,"","",9401ET,Assen
+Weiersstraat,53,"","",9401ET,Assen
+Weiersstraat,55,"","",9401ET,Assen
+Weiersstraat,57,"","",9401ET,Assen
+Weiersstraat,59,"","",9401ET,Assen
+Burgemeester Agterstraat,10,"","",9401EW,Assen
+Burgemeester Agterstraat,12,"","",9401EW,Assen
+Burgemeester Agterstraat,14,"","",9401EW,Assen
+Burgemeester Agterstraat,16,"","",9401EW,Assen
+Burgemeester Agterstraat,18,"","",9401EW,Assen
+Burgemeester Agterstraat,2,"","",9401EW,Assen
+Burgemeester Agterstraat,20,"","",9401EW,Assen
+Burgemeester Agterstraat,22,"","",9401EW,Assen
+Burgemeester Agterstraat,24,"","",9401EW,Assen
+Burgemeester Agterstraat,26,"","",9401EW,Assen
+Burgemeester Agterstraat,28,"","",9401EW,Assen
+Burgemeester Agterstraat,3,"","",9401EW,Assen
+Burgemeester Agterstraat,3,"","",9401EW,Assen
+Burgemeester Agterstraat,3,"","",9401EW,Assen
+Burgemeester Agterstraat,3,A,"",9401EW,Assen
+Burgemeester Agterstraat,3,B,"",9401EW,Assen
+Burgemeester Agterstraat,3,C,"",9401EW,Assen
+Burgemeester Agterstraat,3,D,"",9401EW,Assen
+Burgemeester Agterstraat,3,E,"",9401EW,Assen
+Burgemeester Agterstraat,30,"","",9401EW,Assen
+Burgemeester Agterstraat,32,"","",9401EW,Assen
+Burgemeester Agterstraat,34,"","",9401EW,Assen
+Burgemeester Agterstraat,36,"","",9401EW,Assen
+Burgemeester Agterstraat,38,"","",9401EW,Assen
+Burgemeester Agterstraat,4,"","",9401EW,Assen
+Burgemeester Agterstraat,40,"","",9401EW,Assen
+Burgemeester Agterstraat,42,"","",9401EW,Assen
+Burgemeester Agterstraat,44,"","",9401EW,Assen
+Burgemeester Agterstraat,6,"","",9401EW,Assen
+Burgemeester Agterstraat,8,"","",9401EW,Assen
+Burgemeester Agterstraat,46,"","",9401EX,Assen
+Burgemeester Agterstraat,48,"","",9401EX,Assen
+Burgemeester Agterstraat,50,"","",9401EX,Assen
+Burgemeester Agterstraat,52,"","",9401EX,Assen
+Burgemeester Agterstraat,54,"","",9401EX,Assen
+Burgemeester Agterstraat,56,"","",9401EX,Assen
+Burgemeester Agterstraat,58,"","",9401EX,Assen
+Burgemeester Agterstraat,60,"","",9401EX,Assen
+Burgemeester Agterstraat,62,"","",9401EX,Assen
+Burgemeester Agterstraat,64,"","",9401EX,Assen
+Burgemeester Agterstraat,66,"","",9401EX,Assen
+Burgemeester Agterstraat,68,"","",9401EX,Assen
+Burgemeester Agterstraat,70,"","",9401EX,Assen
+Burgemeester Agterstraat,72,"","",9401EX,Assen
+Narcisstraat,33,"","",9401EZ,Assen
+Weiersstraat,61,"","",9401EZ,Assen
+Weiersstraat,63,"","",9401EZ,Assen
+Weiersstraat,65,"","",9401EZ,Assen
+Weiersstraat,67,"","",9401EZ,Assen
+Weiersstraat,69,"","",9401EZ,Assen
+Weiersstraat,71,"","",9401EZ,Assen
+Weiersstraat,73,"","",9401EZ,Assen
+Weiersstraat,75,"","",9401EZ,Assen
+Weiersstraat,77,"","",9401EZ,Assen
+Weiersstraat,79,"","",9401EZ,Assen
+Weiersstraat,81,"","",9401EZ,Assen
+Weiersstraat,83,"","",9401EZ,Assen
+Alteveerstraat,1,A,"",9401GA,Assen
+Alteveerstraat,1,B,"",9401GA,Assen
+Alteveerstraat,1,C,"",9401GA,Assen
+Alteveerstraat,1,D,"",9401GA,Assen
+Alteveerstraat,1,E,"",9401GA,Assen
+Alteveerstraat,11,"","",9401GA,Assen
+Alteveerstraat,13,"","",9401GA,Assen
+Alteveerstraat,15,"","",9401GA,Assen
+Alteveerstraat,29,"","",9401GA,Assen
+Alteveerstraat,3,A,"",9401GA,Assen
+Alteveerstraat,3,B,"",9401GA,Assen
+Alteveerstraat,3,C,"",9401GA,Assen
+Alteveerstraat,3,D,"",9401GA,Assen
+Alteveerstraat,3,E,"",9401GA,Assen
+Alteveerstraat,31,"","",9401GA,Assen
+Alteveerstraat,31,A,"",9401GA,Assen
+Alteveerstraat,33,"","",9401GA,Assen
+Alteveerstraat,35,"","",9401GA,Assen
+Alteveerstraat,37,"","",9401GA,Assen
+Alteveerstraat,39,"","",9401GA,Assen
+Alteveerstraat,41,"","",9401GA,Assen
+Alteveerstraat,41,A,"",9401GA,Assen
+Alteveerstraat,43,"","",9401GA,Assen
+Alteveerstraat,43,A,"",9401GA,Assen
+Alteveerstraat,45,"","",9401GA,Assen
+Alteveerstraat,5,A,"",9401GA,Assen
+Alteveerstraat,5,B,"",9401GA,Assen
+Alteveerstraat,5,C,"",9401GA,Assen
+Alteveerstraat,5,D,"",9401GA,Assen
+Alteveerstraat,5,E,"",9401GA,Assen
+Alteveerstraat,7,A,"",9401GA,Assen
+Alteveerstraat,7,B,"",9401GA,Assen
+Alteveerstraat,7,C,"",9401GA,Assen
+Alteveerstraat,7,D,"",9401GA,Assen
+Alteveerstraat,7,E,"",9401GA,Assen
+Alteveerstraat,7,F,"",9401GA,Assen
+Alteveerstraat,7,G,"",9401GA,Assen
+Alteveerstraat,7,H,"",9401GA,Assen
+Alteveerstraat,7,J,"",9401GA,Assen
+Alteveerstraat,7,K,"",9401GA,Assen
+Alteveerstraat,7,L,"",9401GA,Assen
+Alteveerstraat,7,M,"",9401GA,Assen
+Alteveerstraat,7,N,"",9401GA,Assen
+Alteveerstraat,9,A,"",9401GA,Assen
+Alteveerstraat,9,B,"",9401GA,Assen
+Alteveerstraat,9,C,"",9401GA,Assen
+Alteveerstraat,9,D,"",9401GA,Assen
+Alteveerstraat,9,E,"",9401GA,Assen
+Alteveerstraat,9,F,"",9401GA,Assen
+Alteveerstraat,9,G,"",9401GA,Assen
+Alteveerstraat,9,H,"",9401GA,Assen
+Alteveerstraat,9,J,"",9401GA,Assen
+Alteveerstraat,9,K,"",9401GA,Assen
+Alteveerstraat,9,L,"",9401GA,Assen
+Alteveerstraat,9,M,"",9401GA,Assen
+Alteveerstraat,9,N,"",9401GA,Assen
+Alteveerstraat,47,"","",9401GB,Assen
+Alteveerstraat,49,"","",9401GB,Assen
+Alteveerstraat,51,"","",9401GB,Assen
+Alteveerstraat,53,"","",9401GB,Assen
+Alteveerstraat,55,"","",9401GB,Assen
+Alteveerstraat,57,"","",9401GB,Assen
+Alteveerstraat,59,"","",9401GB,Assen
+Alteveerstraat,61,"","",9401GB,Assen
+Alteveerstraat,61,A,"",9401GB,Assen
+Alteveerstraat,63,"","",9401GB,Assen
+Alteveerstraat,65,"","",9401GB,Assen
+Alteveerstraat,67,"","",9401GB,Assen
+Alteveerstraat,104,"","",9401GD,Assen
+Alteveerstraat,72,"","",9401GD,Assen
+Alteveerstraat,74,"","",9401GD,Assen
+Alteveerstraat,76,"","",9401GD,Assen
+Alteveerstraat,80,"","",9401GD,Assen
+Alteveerstraat,82,"","",9401GD,Assen
+Alteveerstraat,84,"","",9401GD,Assen
+Alteveerstraat,86,"","",9401GD,Assen
+Alteveerstraat,90,"","",9401GD,Assen
+Alteveerstraat,92,"","",9401GD,Assen
+Alteveerstraat,94,"","",9401GD,Assen
+Alteveerstraat,96,"","",9401GD,Assen
+Alteveerstraat,98,"","",9401GD,Assen
+Vaart N.Z.,1,"","",9401GM,Assen
+Vaart N.Z.,10,"","",9401GM,Assen
+Vaart N.Z.,12,"","",9401GM,Assen
+Vaart N.Z.,12,"","",9401GM,Assen
+Vaart N.Z.,12,"","",9401GM,Assen
+Vaart N.Z.,14,"","",9401GM,Assen
+Vaart N.Z.,14,"","",9401GM,Assen
+Vaart N.Z.,14,"","",9401GM,Assen
+Vaart N.Z.,16,"","",9401GM,Assen
+Vaart N.Z.,16,"","",9401GM,Assen
+Vaart N.Z.,16,"","",9401GM,Assen
+Vaart N.Z.,18,"","",9401GM,Assen
+Vaart N.Z.,18,"","",9401GM,Assen
+Vaart N.Z.,18,"","",9401GM,Assen
+Vaart N.Z.,18,A,"",9401GM,Assen
+Vaart N.Z.,2,"","",9401GM,Assen
+Vaart N.Z.,4,"","",9401GM,Assen
+Vaart N.Z.,6,"","",9401GM,Assen
+Vaart N.Z.,8,"","",9401GM,Assen
+Vaart N.Z.,20,"","",9401GN,Assen
+Vaart N.Z.,22,"","",9401GN,Assen
+Vaart N.Z.,24,"","",9401GN,Assen
+Vaart N.Z.,26,"","",9401GN,Assen
+Vaart N.Z.,28,"","",9401GN,Assen
+Vaart N.Z.,30,"","",9401GN,Assen
+Vaart N.Z.,30,A,"",9401GN,Assen
+Vaart N.Z.,30,A,"",9401GN,Assen
+Vaart N.Z.,30,A,"",9401GN,Assen
+Vaart N.Z.,30,A,"",9401GN,Assen
+Vaart N.Z.,30,A,"",9401GN,Assen
+Vaart N.Z.,30,A,"",9401GN,Assen
+Vaart N.Z.,30,B,"",9401GN,Assen
+Vaart N.Z.,30,B,"",9401GN,Assen
+Vaart N.Z.,34,"","",9401GN,Assen
+Vaart N.Z.,34,"","",9401GN,Assen
+Vaart N.Z.,34,"","",9401GN,Assen
+Vaart N.Z.,34,"","",9401GN,Assen
+Vaart N.Z.,36,"","",9401GN,Assen
+Vaart N.Z.,38,"","",9401GN,Assen
+Vaart N.Z.,40,"","",9401GN,Assen
+Vaart N.Z.,42,"","",9401GN,Assen
+Vaart N.Z.,44,"","",9401GN,Assen
+Vaart N.Z.,46,"","",9401GN,Assen
+Vaart N.Z.,46,A,"",9401GN,Assen
+Vaart N.Z.,48,"","",9401GN,Assen
+Vaart N.Z.,48,"","",9401GN,Assen
+Vaart N.Z.,48,"","",9401GN,Assen
+Vaart N.Z.,50,"","",9401GN,Assen
+Vaart N.Z.,50,"","",9401GN,Assen
+Vaart N.Z.,50,"","",9401GN,Assen
+Vaart N.Z.,52,"","",9401GN,Assen
+Vaart N.Z.,52,A,"",9401GN,Assen
+Vaart N.Z.,54,"","",9401GN,Assen
+Vaart N.Z.,58,"","",9401GP,Assen
+Vaart N.Z.,58,A,"",9401GP,Assen
+Vaart N.Z.,58,B,"",9401GP,Assen
+Vaart N.Z.,58,C,"",9401GP,Assen
+Vaart N.Z.,58,D,"",9401GP,Assen
+Vaart N.Z.,58,E,"",9401GP,Assen
+Vaart N.Z.,60,"","",9401GP,Assen
+Vaart N.Z.,62,"","",9401GP,Assen
+Vaart N.Z.,64,"","",9401GP,Assen
+Vaart N.Z.,66,"","",9401GP,Assen
+Vaart N.Z.,66,A,"",9401GP,Assen
+Vaart N.Z.,66,B,"",9401GP,Assen
+Vaart N.Z.,68,"","",9401GR,Assen
+Vaart N.Z.,68,A,"",9401GR,Assen
+Vaart N.Z.,68,B,"",9401GR,Assen
+Vaart N.Z.,70,"","",9401GR,Assen
+Vaart N.Z.,72,"","",9401GR,Assen
+Vaart N.Z.,74,"","",9401GR,Assen
+Vaart N.Z.,74,A,"",9401GR,Assen
+Vaart N.Z.,74,B,"",9401GR,Assen
+Vaart N.Z.,74,C,"",9401GR,Assen
+Vaart N.Z.,74,D,"",9401GR,Assen
+Vaart N.Z.,74,E,"",9401GR,Assen
+Vaart N.Z.,74,F,"",9401GR,Assen
+Vaart N.Z.,74,G,"",9401GR,Assen
+Vaart N.Z.,74,H,"",9401GR,Assen
+Vaart N.Z.,74,I,"",9401GR,Assen
+Vaart N.Z.,74,J,"",9401GR,Assen
+Vaart N.Z.,74,K,"",9401GR,Assen
+Vaart N.Z.,74,L,"",9401GR,Assen
+Vaart N.Z.,74,M,"",9401GR,Assen
+Vaart N.Z.,74,N,"",9401GR,Assen

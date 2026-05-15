@@ -1,902 +1,473 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9294JA",1,"",""
-"9294JA",5,"",""
-"9294JA",9,"",""
-"9294JA",7,"",""
-"9294JA",11,"",""
-"9294JA",3,"",""
-"9294KA",22,"",""
-"9294KA",32,"",""
-"9294KA",26,"",""
-"9294KA",4,"",""
-"9294KA",24,"",""
-"9294KA",18,"",""
-"9294KA",14,"",""
-"9294KA",8,"",""
-"9294KA",10,"",""
-"9294KA",28,"",""
-"9294KA",30,"",""
-"9294KA",2,"",""
-"9294KA",12,"",""
-"9294KA",6,"",""
-"9294KA",16,"",""
-"9294KA",20,"",""
-"9294KB",1,"",""
-"9294KB",19,"",""
-"9294KB",13,"",""
-"9294KB",7,"",""
-"9294KB",11,"",""
-"9294KB",15,"",""
-"9294KB",27,"",""
-"9294KB",35,"",""
-"9294KB",37,"",""
-"9294KB",23,"",""
-"9294KB",33,"",""
-"9294KB",31,"",""
-"9294KB",45,"",""
-"9294KB",21,"",""
-"9294KB",9,"",""
-"9294KB",29,"",""
-"9294KB",25,"",""
-"9294KB",17,"",""
-"9294KC",21,"","16"
-"9294KC",21,"","59"
-"9294KC",21,"","73"
-"9294KC",21,"","17"
-"9294KC",21,"","15"
-"9294KC",21,"","34"
-"9294KC",21,"","76a"
-"9294KC",21,"","80"
-"9294KC",21,"","34"
-"9294KC",21,"","11"
-"9294KC",21,"","15"
-"9294KC",21,"","72"
-"9294KC",19,"",""
-"9294KC",15,"",""
-"9294KC",21,"","59"
-"9294KC",21,"","14"
-"9294KC",21,"","72"
-"9294KC",21,"","11"
-"9294KC",35,"",""
-"9294KC",11,"",""
-"9294KC",21,"","14"
-"9294KC",21,"","58"
-"9294KC",21,"","15"
-"9294KC",21,"","35"
-"9294KC",21,"","73"
-"9294KC",21,"","29"
-"9294KC",13,"",""
-"9294KC",5,"",""
-"9294KC",21,"","16"
-"9294KC",21,"","8"
-"9294KC",21,"","10"
-"9294KC",21,"","28"
-"9294KC",23,"",""
-"9294KC",21,"","77"
-"9294KC",21,"","14"
-"9294KC",21,"","76"
-"9294KC",21,"","56"
-"9294KC",17,"",""
-"9294KC",21,"","8"
-"9294KC",21,"","75"
-"9294KC",37,"",""
-"9294KC",21,"","12"
-"9294KC",21,"","7"
-"9294KC",21,"","70"
-"9294KC",21,"","27"
-"9294KC",21,"","91"
-"9294KC",21,"","60"
-"9294KC",21,"","12"
-"9294KC",21,"","76a"
-"9294KC",21,"","60"
-"9294KC",21,"","78"
-"9294KC",21,"","75"
-"9294KC",3,"",""
-"9294KC",21,"","91"
-"9294KC",21,"","31"
-"9294KC",21,"","69"
-"9294KC",21,"","69"
-"9294KC",21,"","10"
-"9294KC",21,"","28"
-"9294KC",21,"","29"
-"9294KC",21,"","61"
-"9294KC",21,"","13"
-"9294KC",21,"","81"
-"9294KC",21,"","79"
-"9294KC",7,"",""
-"9294KC",31,"",""
-"9294KC",21,"","54"
-"9294KC",21,"","68"
-"9294KC",21,"","68"
-"9294KC",21,"","38a"
-"9294KC",9,"",""
-"9294KC",21,"","53"
-"9294KC",21,"","96"
-"9294KC",21,"","71"
-"9294KC",21,"","83"
-"9294KC",21,"","76"
-"9294KC",21,"","32"
-"9294KC",21,"","32"
-"9294KC",21,"","82"
-"9294KC",21,"","33"
-"9294KC",21,"","65"
-"9294KC",21,"","65"
-"9294KC",21,"","67"
-"9294KC",21,"","84"
-"9294KC",21,"","26"
-"9294KC",21,"","25"
-"9294KC",21,"","27"
-"9294KC",21,"","74"
-"9294KC",21,"","13"
-"9294KC",21,"","33"
-"9294KC",21,"","24"
-"9294KC",1,"",""
-"9294KC",21,"","66"
-"9294KC",21,"","54"
-"9294KC",21,"","64"
-"9294KC",21,"","63"
-"9294KC",21,"","90"
-"9294KC",21,"","71"
-"9294KC",21,"","52"
-"9294KC",21,"","53"
-"9294KC",21,"","6"
-"9294KC",21,"","74"
-"9294KC",21,"","83"
-"9294KC",21,"","57"
-"9294KC",21,"","3"
-"9294KC",21,"","55"
-"9294KC",21,"","66"
-"9294KC",21,"","63"
-"9294KC",21,"","64"
-"9294KC",21,"","67"
-"9294KC",21,"","38a"
-"9294KC",21,"","70"
-"9294KC",21,"","51"
-"9294KC",21,"","55"
-"9294KC",21,"","36"
-"9294KC",21,"","25"
-"9294KC",21,"","36"
-"9294KC",1,"A",""
-"9294KC",21,"","5"
-"9294KC",21,"","84"
-"9294KC",21,"","85"
-"9294KC",21,"","62"
-"9294KC",21,"","4"
-"9294KC",21,"","31"
-"9294KC",21,"","19"
-"9294KC",21,"","94"
-"9294KC",21,"","26"
-"9294KC",21,"","88"
-"9294KC",21,"","57"
-"9294KC",21,"","21"
-"9294KC",21,"","56"
-"9294KC",21,"","61"
-"9294KC",21,"","85"
-"9294KC",21,"","87"
-"9294KC",21,"","44"
-"9294KC",21,"","95"
-"9294KC",23,"",""
-"9294KC",21,"","6"
-"9294KC",21,"","90"
-"9294KC",21,"","24"
-"9294KC",21,"","9"
-"9294KC",21,"","9"
-"9294KC",21,"","30"
-"9294KC",21,"","20"
-"9294KC",21,"","92"
-"9294KC",21,"","93"
-"9294KC",21,"","19"
-"9294KC",21,"","38a"
-"9294KC",21,"","89"
-"9294KC",21,"","24"
-"9294KC",21,"","30"
-"9294KC",21,"","35"
-"9294KC",21,"","38a"
-"9294KC",21,"","23"
-"9294KC",21,"","48"
-"9294KC",21,"","93"
-"9294KC",21,"","24"
-"9294KC",21,"","92"
-"9294KC",21,"","50"
-"9294KC",21,"","62"
-"9294KC",21,"","51"
-"9294KC",21,"","50"
-"9294KC",21,"","5"
-"9294KC",21,"","52"
-"9294KC",21,"","49"
-"9294KC",21,"","43"
-"9294KC",21,"","17"
-"9294KC",21,"","4"
-"9294KC",21,"","17"
-"9294KD",22,"",""
-"9294KD",4,"a",""
-"9294KD",2,"A",""
-"9294KD",24,"",""
-"9294KD",2,"a",""
-"9294KD",8,"",""
-"9294KD",6,"",""
-"9294KD",14,"",""
-"9294KD",26,"",""
-"9294KD",18,"",""
-"9294KD",28,"",""
-"9294KD",4,"",""
-"9294KD",12,"",""
-"9294KD",2,"",""
-"9294KD",16,"",""
-"9294KD",10,"",""
-"9294KD",20,"",""
-"9294KE",39,"",""
-"9294KE",41,"G",""
-"9294KE",41,"F",""
-"9294KE",41,"E",""
-"9294KE",32,"",""
-"9294KE",30,"",""
-"9294KE",40,"",""
-"9294KE",46,"",""
-"9294KE",41,"A",""
-"9294KE",38,"",""
-"9294KE",34,"",""
-"9294KE",47,"",""
-"9294KE",41,"H",""
-"9294KE",34,"",""
-"9294KE",48,"",""
-"9294KE",41,"",""
-"9294KE",47,"",""
-"9294KE",36,"",""
-"9294KE",45,"",""
-"9294KE",43,"",""
-"9294KE",42,"",""
-"9294KG",1,"",""
-"9294KG",4,"",""
-"9294KG",3,"",""
-"9294KG",6,"",""
-"9294KG",2,"",""
-"9294KH",4,"",""
-"9294KH",1,"H",""
-"9294KH",1,"B",""
-"9294KH",1,"G",""
-"9294KH",1,"C",""
-"9294KH",1,"",""
-"9294KH",8,"",""
-"9294KH",1,"F",""
-"9294KH",2,"",""
-"9294KH",1,"A",""
-"9294KH",1,"D",""
-"9294KH",1,"E",""
-"9294KJ",35,"",""
-"9294KJ",39,"",""
-"9294KJ",17,"",""
-"9294KJ",37,"",""
-"9294KJ",16,"",""
-"9294KJ",5,"",""
-"9294KJ",20,"",""
-"9294KJ",23,"",""
-"9294KJ",15,"",""
-"9294KJ",11,"",""
-"9294KJ",12,"",""
-"9294KJ",14,"A",""
-"9294KJ",14,"A",""
-"9294KJ",18,"",""
-"9294KJ",21,"",""
-"9294KJ",14,"a",""
-"9294KJ",19,"",""
-"9294KJ",14,"",""
-"9294KJ",13,"",""
-"9294KJ",3,"",""
-"9294KJ",14,"",""
-"9294KJ",9,"",""
-"9294KJ",10,"",""
-"9294KK",49,"a",""
-"9294KK",44,"",""
-"9294KK",40,"",""
-"9294KK",38,"",""
-"9294KK",42,"",""
-"9294KK",47,"",""
-"9294KK",44,"",""
-"9294KK",41,"",""
-"9294KK",42,"",""
-"9294KK",40,"",""
-"9294KK",50,"",""
-"9294KK",49,"",""
-"9294KK",36,"",""
-"9294KK",48,"",""
-"9294KK",32,"",""
-"9294KK",32,"",""
-"9294KK",28,"",""
-"9294KK",30,"",""
-"9294KK",34,"",""
-"9294KK",36,"",""
-"9294KK",46,"",""
-"9294KK",34,"",""
-"9294KK",50,"",""
-"9294KK",51,"",""
-"9294KK",24,"",""
-"9294KK",32,"",""
-"9294KK",22,"",""
-"9294KK",47,"",""
-"9294KK",47,"",""
-"9294KK",46,"",""
-"9294KK",43,"",""
-"9294KK",45,"",""
-"9294KK",48,"",""
-"9294KK",38,"",""
-"9294KK",49,"A",""
-"9294KK",34,"",""
-"9294KK",26,"",""
-"9294KL",14,"",""
-"9294KL",6,"",""
-"9294KL",8,"",""
-"9294KL",2,"",""
-"9294KL",12,"",""
-"9294KL",10,"",""
-"9294KL",16,"",""
-"9294KL",4,"",""
-"9294KM",5,"",""
-"9294KM",4,"",""
-"9294KM",1,"",""
-"9294KM",46,"",""
-"9294KM",18,"",""
-"9294KM",48,"",""
-"9294KM",28,"",""
-"9294KM",40,"",""
-"9294KM",22,"",""
-"9294KM",10,"",""
-"9294KM",7,"",""
-"9294KM",5,"",""
-"9294KM",1,"",""
-"9294KM",3,"",""
-"9294KM",1,"",""
-"9294KM",14,"",""
-"9294KM",16,"",""
-"9294KM",34,"",""
-"9294KM",32,"",""
-"9294KM",24,"",""
-"9294KM",42,"",""
-"9294KM",3,"",""
-"9294KM",20,"",""
-"9294KM",7,"",""
-"9294KM",12,"",""
-"9294KM",38,"",""
-"9294KM",2,"",""
-"9294KM",26,"",""
-"9294KM",5,"",""
-"9294KM",44,"",""
-"9294KM",30,"",""
-"9294KM",8,"",""
-"9294KM",6,"",""
-"9294KM",3,"",""
-"9294KM",9,"",""
-"9294KM",7,"",""
-"9294KM",36,"",""
-"9294KN",4,"",""
-"9294KN",6,"",""
-"9294KN",3,"",""
-"9294KN",13,"",""
-"9294KN",7,"",""
-"9294KN",2,"",""
-"9294KN",8,"",""
-"9294KN",1,"",""
-"9294KN",5,"",""
-"9294KN",10,"",""
-"9294KN",9,"",""
-"9294KN",11,"",""
-"9294KN",19,"",""
-"9294KN",15,"",""
-"9294KN",17,"",""
-"9294KP",35,"",""
-"9294KP",30,"",""
-"9294KP",25,"",""
-"9294KP",24,"A",""
-"9294KP",16,"",""
-"9294KP",28,"",""
-"9294KP",24,"",""
-"9294KP",29,"",""
-"9294KP",21,"",""
-"9294KP",37,"A",""
-"9294KP",31,"",""
-"9294KP",12,"",""
-"9294KP",22,"A",""
-"9294KP",27,"",""
-"9294KP",37,"",""
-"9294KP",22,"",""
-"9294KP",26,"",""
-"9294KP",23,"",""
-"9294KP",14,"",""
-"9294KP",33,"",""
-"9294KR",41,"",""
-"9294KR",49,"",""
-"9294KR",34,"",""
-"9294KR",38,"A",""
-"9294KR",57,"",""
-"9294KR",38,"",""
-"9294KR",32,"",""
-"9294KR",53,"",""
-"9294KR",36,"",""
-"9294KR",42,"",""
-"9294KR",55,"",""
-"9294KR",38,"A",""
-"9294KR",51,"",""
-"9294KR",44,"",""
-"9294KR",43,"",""
-"9294KR",47,"",""
-"9294KR",40,"",""
-"9294KR",65,"",""
-"9294KR",45,"",""
-"9294KR",39,"",""
-"9294KR",46,"",""
-"9294KR",67,"",""
-"9294KR",59,"",""
-"9294KR",63,"",""
-"9294KR",61,"",""
-"9294KS",9,"",""
-"9294KS",4,"",""
-"9294KS",8,"",""
-"9294KS",5,"",""
-"9294KS",3,"",""
-"9294KS",11,"",""
-"9294KS",6,"",""
-"9294KS",2,"",""
-"9294KS",1,"a",""
-"9294KS",1,"",""
-"9294KS",6,"",""
-"9294KS",4,"A",""
-"9294KS",1,"a",""
-"9294KS",7,"",""
-"9294KS",6,"",""
-"9294KT",4,"",""
-"9294KT",2,"",""
-"9294KT",7,"",""
-"9294KT",5,"",""
-"9294KT",10,"",""
-"9294KT",3,"",""
-"9294KT",1,"",""
-"9294KT",7,"",""
-"9294KT",6,"",""
-"9294KT",9,"",""
-"9294KT",8,"",""
-"9294KX",1,"",""
-"9294KX",5,"",""
-"9294KX",7,"",""
-"9294KX",3,"",""
-"9294KX",9,"",""
-"9294KZ",11,"",""
-"9294KZ",9,"",""
-"9294KZ",4,"",""
-"9294KZ",17,"",""
-"9294KZ",3,"",""
-"9294KZ",5,"",""
-"9294KZ",2,"",""
-"9294KZ",15,"",""
-"9294KZ",7,"",""
-"9294KZ",13,"",""
-"9294KZ",1,"",""
-"9294KZ",19,"",""
-9294KC,Foarwei,1,,
-9294KC,Foarwei,1,A,
-9294KC,Foarwei,3,,
-9294KC,Foarwei,5,,
-9294KC,Foarwei,7,,
-9294KC,Foarwei,9,,
-9294KC,Foarwei,11,,
-9294KC,Foarwei,13,,
-9294KC,Foarwei,15,,
-9294KC,Foarwei,17,,
-9294KC,Foarwei,19,,
-9294KC,Foarwei,21,,3
-9294KC,Foarwei,21,,4
-9294KC,Foarwei,21,,5
-9294KC,Foarwei,21,,6
-9294KC,Foarwei,21,,8
-9294KC,Foarwei,21,,9
-9294KC,Foarwei,21,,10
-9294KC,Foarwei,21,,11
-9294KC,Foarwei,21,,12
-9294KC,Foarwei,21,,14
-9294KC,Foarwei,21,,14
-9294KC,Foarwei,21,,15
-9294KC,Foarwei,21,,16
-9294KC,Foarwei,21,,17
-9294KC,Foarwei,21,,20
-9294KC,Foarwei,21,,21
-9294KC,Foarwei,21,,23
-9294KC,Foarwei,21,,24
-9294KC,Foarwei,21,,26
-9294KC,Foarwei,21,,27
-9294KC,Foarwei,21,,28
-9294KC,Foarwei,21,,29
-9294KC,Foarwei,21,,30
-9294KC,Foarwei,21,,32
-9294KC,Foarwei,21,,33
-9294KC,Foarwei,21,,34
-9294KC,Foarwei,21,,35
-9294KC,Foarwei,21,,43
-9294KC,Foarwei,21,,44
-9294KC,Foarwei,21,,49
-9294KC,Foarwei,21,,50
-9294KC,Foarwei,21,,52
-9294KC,Foarwei,21,,53
-9294KC,Foarwei,21,,54
-9294KC,Foarwei,21,,55
-9294KC,Foarwei,21,,56
-9294KC,Foarwei,21,,57
-9294KC,Foarwei,21,,58
-9294KC,Foarwei,21,,59
-9294KC,Foarwei,21,,60
-9294KC,Foarwei,21,,61
-9294KC,Foarwei,21,,62
-9294KC,Foarwei,21,,63
-9294KC,Foarwei,21,,64
-9294KC,Foarwei,21,,65
-9294KC,Foarwei,21,,66
-9294KC,Foarwei,21,,67
-9294KC,Foarwei,21,,68
-9294KC,Foarwei,21,,69
-9294KC,Foarwei,21,,70
-9294KC,Foarwei,21,,71
-9294KC,Foarwei,21,,72
-9294KC,Foarwei,21,,73
-9294KC,Foarwei,21,,74
-9294KC,Foarwei,21,,75
-9294KC,Foarwei,21,,76
-9294KC,Foarwei,21,,77
-9294KC,Foarwei,21,,78
-9294KC,Foarwei,21,,79
-9294KC,Foarwei,21,,80
-9294KC,Foarwei,21,,81
-9294KC,Foarwei,21,,82
-9294KC,Foarwei,21,,83
-9294KC,Foarwei,21,,84
-9294KC,Foarwei,21,,85
-9294KC,Foarwei,21,,87
-9294KC,Foarwei,21,,88
-9294KC,Foarwei,21,,89
-9294KC,Foarwei,21,,90
-9294KC,Foarwei,21,,91
-9294KC,Foarwei,21,,92
-9294KC,Foarwei,21,,93
-9294KC,Foarwei,21,,94
-9294KC,Foarwei,21,,95
-9294KC,Foarwei,21,,96
-9294KC,Foarwei,21,,76a
-9294KC,Foarwei,23,,
-9294KC,Foarwei,31,,
-9294KC,Foarwei,37,,
-9294KC,Foarwei,21,,7
-9294KC,Foarwei,21,,13
-9294KC,Foarwei,21,,19
-9294KC,Foarwei,21,,25
-9294KC,Foarwei,21,,25
-9294KC,Foarwei,21,,31
-9294KC,Foarwei,21,,36
-9294KC,Foarwei,21,,51
-9294KC,Foarwei,35,,
-9294KC,Foarwei,21,,17
-9294KC,Foarwei,21,,15
-9294KC,Foarwei,21,,24
-9294KC,Foarwei,21,,48
-9294KC,Foarwei,21,,38a
-9294KC,Foarwei,21,,38a
-9294KD,Foarwei,2,,
-9294KD,Foarwei,2,a,
-9294KD,Foarwei,2,A,
-9294KD,Foarwei,4,,
-9294KD,Foarwei,4,a,
-9294KD,Foarwei,6,,
-9294KD,Foarwei,8,,
-9294KD,Foarwei,10,,
-9294KD,Foarwei,12,,
-9294KD,Foarwei,14,,
-9294KD,Foarwei,16,,
-9294KD,Foarwei,18,,
-9294KD,Foarwei,20,,
-9294KD,Foarwei,22,,
-9294KD,Foarwei,24,,
-9294KD,Foarwei,26,,
-9294KD,Foarwei,28,,
-9294KE,Foarwei,30,,
-9294KE,Foarwei,32,,
-9294KE,Foarwei,34,,
-9294KE,Foarwei,36,,
-9294KE,Foarwei,38,,
-9294KE,Foarwei,39,,
-9294KE,Foarwei,41,,
-9294KE,Foarwei,41,A,
-9294KE,Foarwei,41,E,
-9294KE,Foarwei,41,F,
-9294KE,Foarwei,41,G,
-9294KE,Foarwei,43,,
-9294KE,Foarwei,45,,
-9294KE,Foarwei,47,,
-9294KE,Foarwei,46,,
-9294KE,Foarwei,41,H,
-9294KE,Foarwei,40,,
-9294KE,Foarwei,42,,
-9294KE,Foarwei,48,,
-9294KL,Heine de Bruinstrjitte,2,,
-9294KL,Heine de Bruinstrjitte,4,,
-9294KL,Heine de Bruinstrjitte,6,,
-9294KL,Heine de Bruinstrjitte,8,,
-9294KL,Heine de Bruinstrjitte,10,,
-9294KL,Heine de Bruinstrjitte,14,,
-9294KL,Heine de Bruinstrjitte,16,,
-9294KL,Heine de Bruinstrjitte,12,,
-9294KH,Jan Binneswei,1,A,
-9294KH,Jan Binneswei,1,B,
-9294KH,Jan Binneswei,1,C,
-9294KH,Jan Binneswei,1,D,
-9294KH,Jan Binneswei,1,E,
-9294KH,Jan Binneswei,1,F,
-9294KH,Jan Binneswei,1,G,
-9294KH,Jan Binneswei,1,H,
-9294KH,Jan Binneswei,2,,
-9294KH,Jan Binneswei,4,,
-9294KH,Jan Binneswei,8,,
-9294KH,Jan Binneswei,1,,
-9294KJ,Jan Binneswei,3,,
-9294KJ,Jan Binneswei,5,,
-9294KJ,Jan Binneswei,9,,
-9294KJ,Jan Binneswei,10,,
-9294KJ,Jan Binneswei,11,,
-9294KJ,Jan Binneswei,12,,
-9294KJ,Jan Binneswei,13,,
-9294KJ,Jan Binneswei,14,,
-9294KJ,Jan Binneswei,14,a,
-9294KJ,Jan Binneswei,14,A,
-9294KJ,Jan Binneswei,15,,
-9294KJ,Jan Binneswei,16,,
-9294KJ,Jan Binneswei,17,,
-9294KJ,Jan Binneswei,18,,
-9294KJ,Jan Binneswei,19,,
-9294KJ,Jan Binneswei,20,,
-9294KJ,Jan Binneswei,21,,
-9294KJ,Jan Binneswei,23,,
-9294KJ,Jan Binneswei,35,,
-9294KJ,Jan Binneswei,37,,
-9294KJ,Jan Binneswei,39,,
-9294KK,Jan Binneswei,22,,
-9294KK,Jan Binneswei,24,,
-9294KK,Jan Binneswei,26,,
-9294KK,Jan Binneswei,32,,
-9294KK,Jan Binneswei,34,,
-9294KK,Jan Binneswei,36,,
-9294KK,Jan Binneswei,38,,
-9294KK,Jan Binneswei,40,,
-9294KK,Jan Binneswei,41,,
-9294KK,Jan Binneswei,42,,
-9294KK,Jan Binneswei,43,,
-9294KK,Jan Binneswei,44,,
-9294KK,Jan Binneswei,45,,
-9294KK,Jan Binneswei,46,,
-9294KK,Jan Binneswei,47,,
-9294KK,Jan Binneswei,48,,
-9294KK,Jan Binneswei,49,,
-9294KK,Jan Binneswei,49,a,
-9294KK,Jan Binneswei,49,A,
-9294KK,Jan Binneswei,50,,
-9294KK,Jan Binneswei,51,,
-9294KK,Jan Binneswei,34,,
-9294KK,Jan Binneswei,30,,
-9294KK,Jan Binneswei,28,,
-9294KK,Jan Binneswei,32,,
-9294KK,Jan Binneswei,47,,
-9294JA,Jasmyn,1,,
-9294JA,Jasmyn,3,,
-9294JA,Jasmyn,5,,
-9294JA,Jasmyn,7,,
-9294JA,Jasmyn,11,,
-9294JA,Jasmyn,9,,
-9294KG,Lange-ikker,1,,
-9294KG,Lange-ikker,2,,
-9294KG,Lange-ikker,3,,
-9294KG,Lange-ikker,6,,
-9294KG,Lange-ikker,4,,
-9294KT,Allemawei,1,,
-9294KT,Allemawei,2,,
-9294KT,Allemawei,3,,
-9294KT,Allemawei,4,,
-9294KT,Allemawei,5,,
-9294KT,Allemawei,7,,
-9294KT,Allemawei,8,,
-9294KT,Allemawei,9,,
-9294KT,Allemawei,10,,
-9294KT,Allemawei,6,,
-9294KN,de Wygeast,1,,
-9294KN,de Wygeast,3,,
-9294KN,de Wygeast,4,,
-9294KN,de Wygeast,5,,
-9294KN,de Wygeast,6,,
-9294KN,de Wygeast,7,,
-9294KN,de Wygeast,9,,
-9294KN,de Wygeast,10,,
-9294KN,de Wygeast,11,,
-9294KN,de Wygeast,15,,
-9294KN,de Wygeast,17,,
-9294KN,de Wygeast,19,,
-9294KN,de Wygeast,2,,
-9294KN,de Wygeast,8,,
-9294KN,de Wygeast,13,,
-9294KP,de Wygeast,12,,
-9294KP,de Wygeast,14,,
-9294KP,de Wygeast,16,,
-9294KP,de Wygeast,21,,
-9294KP,de Wygeast,22,,
-9294KP,de Wygeast,22,A,
-9294KP,de Wygeast,23,,
-9294KP,de Wygeast,24,,
-9294KP,de Wygeast,24,A,
-9294KP,de Wygeast,25,,
-9294KP,de Wygeast,26,,
-9294KP,de Wygeast,27,,
-9294KP,de Wygeast,28,,
-9294KP,de Wygeast,29,,
-9294KP,de Wygeast,30,,
-9294KP,de Wygeast,31,,
-9294KP,de Wygeast,33,,
-9294KP,de Wygeast,35,,
-9294KP,de Wygeast,37,,
-9294KP,de Wygeast,37,A,
-9294KR,de Wygeast,32,,
-9294KR,de Wygeast,34,,
-9294KR,de Wygeast,36,,
-9294KR,de Wygeast,38,,
-9294KR,de Wygeast,38,A,
-9294KR,de Wygeast,39,,
-9294KR,de Wygeast,40,,
-9294KR,de Wygeast,41,,
-9294KR,de Wygeast,42,,
-9294KR,de Wygeast,43,,
-9294KR,de Wygeast,45,,
-9294KR,de Wygeast,46,,
-9294KR,de Wygeast,47,,
-9294KR,de Wygeast,49,,
-9294KR,de Wygeast,51,,
-9294KR,de Wygeast,53,,
-9294KR,de Wygeast,55,,
-9294KR,de Wygeast,57,,
-9294KR,de Wygeast,59,,
-9294KR,de Wygeast,61,,
-9294KR,de Wygeast,63,,
-9294KR,de Wygeast,65,,
-9294KR,de Wygeast,67,,
-9294KR,de Wygeast,44,,
-9294KM,Eysmastrjitte,1,,
-9294KM,Eysmastrjitte,2,,
-9294KM,Eysmastrjitte,3,,
-9294KM,Eysmastrjitte,4,,
-9294KM,Eysmastrjitte,5,,
-9294KM,Eysmastrjitte,6,,
-9294KM,Eysmastrjitte,7,,
-9294KM,Eysmastrjitte,10,,
-9294KM,Eysmastrjitte,12,,
-9294KM,Eysmastrjitte,14,,
-9294KM,Eysmastrjitte,16,,
-9294KM,Eysmastrjitte,20,,
-9294KM,Eysmastrjitte,22,,
-9294KM,Eysmastrjitte,24,,
-9294KM,Eysmastrjitte,26,,
-9294KM,Eysmastrjitte,28,,
-9294KM,Eysmastrjitte,32,,
-9294KM,Eysmastrjitte,34,,
-9294KM,Eysmastrjitte,36,,
-9294KM,Eysmastrjitte,38,,
-9294KM,Eysmastrjitte,42,,
-9294KM,Eysmastrjitte,44,,
-9294KM,Eysmastrjitte,46,,
-9294KM,Eysmastrjitte,48,,
-9294KM,Eysmastrjitte,8,,
-9294KM,Eysmastrjitte,18,,
-9294KM,Eysmastrjitte,30,,
-9294KM,Eysmastrjitte,40,,
-9294KM,Eysmastrjitte,1,,
-9294KM,Eysmastrjitte,3,,
-9294KM,Eysmastrjitte,5,,
-9294KM,Eysmastrjitte,7,,
-9294KM,Eysmastrjitte,9,,
-9294KA,Pastorijehôf,2,,
-9294KA,Pastorijehôf,4,,
-9294KA,Pastorijehôf,8,,
-9294KA,Pastorijehôf,10,,
-9294KA,Pastorijehôf,12,,
-9294KA,Pastorijehôf,14,,
-9294KA,Pastorijehôf,18,,
-9294KA,Pastorijehôf,20,,
-9294KA,Pastorijehôf,24,,
-9294KA,Pastorijehôf,26,,
-9294KA,Pastorijehôf,28,,
-9294KA,Pastorijehôf,30,,
-9294KA,Pastorijehôf,32,,
-9294KA,Pastorijehôf,6,,
-9294KA,Pastorijehôf,16,,
-9294KA,Pastorijehôf,22,,
-9294KB,Pastorijehôf,1,,
-9294KB,Pastorijehôf,7,,
-9294KB,Pastorijehôf,9,,
-9294KB,Pastorijehôf,13,,
-9294KB,Pastorijehôf,15,,
-9294KB,Pastorijehôf,17,,
-9294KB,Pastorijehôf,19,,
-9294KB,Pastorijehôf,21,,
-9294KB,Pastorijehôf,23,,
-9294KB,Pastorijehôf,25,,
-9294KB,Pastorijehôf,29,,
-9294KB,Pastorijehôf,31,,
-9294KB,Pastorijehôf,33,,
-9294KB,Pastorijehôf,35,,
-9294KB,Pastorijehôf,37,,
-9294KB,Pastorijehôf,45,,
-9294KB,Pastorijehôf,11,,
-9294KB,Pastorijehôf,27,,
-9294KX,Prunus,1,,
-9294KX,Prunus,3,,
-9294KX,Prunus,5,,
-9294KX,Prunus,7,,
-9294KX,Prunus,9,,
-9294KZ,Ribes,1,,
-9294KZ,Ribes,2,,
-9294KZ,Ribes,3,,
-9294KZ,Ribes,4,,
-9294KZ,Ribes,5,,
-9294KZ,Ribes,7,,
-9294KZ,Ribes,9,,
-9294KZ,Ribes,11,,
-9294KZ,Ribes,13,,
-9294KZ,Ribes,15,,
-9294KZ,Ribes,17,,
-9294KZ,Ribes,19,,
-9294KS,Swartewei,1,,
-9294KS,Swartewei,1,a,
-9294KS,Swartewei,2,,
-9294KS,Swartewei,3,,
-9294KS,Swartewei,4,,
-9294KS,Swartewei,4,A,
-9294KS,Swartewei,5,,
-9294KS,Swartewei,6,,
-9294KS,Swartewei,7,,
-9294KS,Swartewei,9,,
-9294KS,Swartewei,11,,
-9294KS,Swartewei,8,,
-9294KS,Swartewei,6,,
-9294KC,Foarwei,21,,45
-9294KC,Foarwei,21,,26
-9294KC,Foarwei,23,,
-9294KC,Foarwei,23,A,
-9294KC,Foarwei,21,,47
-9294KC,Foarwei,21,,33
-9294KC,Foarwei,21,,35
-9294KC,Foarwei,21,,29
-9294KC,Foarwei,21,,38A
-9294KC,Foarwei,21,,27
-9294KC,Foarwei,21,,50
-9294KC,Foarwei,21,,32
-9294KC,Foarwei,21,,5
-9294KC,Foarwei,21,,31
-9294KC,Foarwei,21,,40
-9294KC,Foarwei,21,,55
-9294KC,Foarwei,21,,4
-9294KC,Foarwei,21,,86
-9294KC,Foarwei,21,,8
-9294KC,Foarwei,21,,9
-9294KC,Foarwei,21,,10
-9294KC,Foarwei,21,,11
-9294KC,Foarwei,21,,4A
-9294KC,Foarwei,21,,12
-9294KC,Foarwei,21,,24
-9294KC,Foarwei,21,,51
-9294KC,Foarwei,21,,54
-9294KC,Foarwei,21,,52
-9294KC,Foarwei,21,,39
-9294KC,Foarwei,21,,53
-9294KC,Foarwei,21,,30
-9294KC,Foarwei,21,,28
-9294KC,Foarwei,21,,36
-9294KC,Foarwei,21,,14
-9294KC,Foarwei,21,,37
-9294KC,Foarwei,21,,38
-9294KC,Foarwei,21,,6
-9294KE,Foarwei,34,,
-9294KE,Foarwei,34,A,
-9294KE,Foarwei,47,,
-9294KE,Foarwei,32,A,
-9294KJ,Jan Binneswei,14,,
-9294KJ,Jan Binneswei,20,A,
-9294KT,Allemawei,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Jasmyn,1,"","",9294JA,Oudwoude
+Jasmyn,11,"","",9294JA,Oudwoude
+Jasmyn,3,"","",9294JA,Oudwoude
+Jasmyn,5,"","",9294JA,Oudwoude
+Jasmyn,7,"","",9294JA,Oudwoude
+Jasmyn,9,"","",9294JA,Oudwoude
+Pastorijehôf,10,"","",9294KA,Oudwoude
+Pastorijehôf,12,"","",9294KA,Oudwoude
+Pastorijehôf,14,"","",9294KA,Oudwoude
+Pastorijehôf,16,"","",9294KA,Oudwoude
+Pastorijehôf,18,"","",9294KA,Oudwoude
+Pastorijehôf,2,"","",9294KA,Oudwoude
+Pastorijehôf,20,"","",9294KA,Oudwoude
+Pastorijehôf,22,"","",9294KA,Oudwoude
+Pastorijehôf,24,"","",9294KA,Oudwoude
+Pastorijehôf,26,"","",9294KA,Oudwoude
+Pastorijehôf,28,"","",9294KA,Oudwoude
+Pastorijehôf,30,"","",9294KA,Oudwoude
+Pastorijehôf,32,"","",9294KA,Oudwoude
+Pastorijehôf,4,"","",9294KA,Oudwoude
+Pastorijehôf,6,"","",9294KA,Oudwoude
+Pastorijehôf,8,"","",9294KA,Oudwoude
+Pastorijehôf,1,"","",9294KB,Oudwoude
+Pastorijehôf,11,"","",9294KB,Oudwoude
+Pastorijehôf,13,"","",9294KB,Oudwoude
+Pastorijehôf,15,"","",9294KB,Oudwoude
+Pastorijehôf,17,"","",9294KB,Oudwoude
+Pastorijehôf,19,"","",9294KB,Oudwoude
+Pastorijehôf,21,"","",9294KB,Oudwoude
+Pastorijehôf,23,"","",9294KB,Oudwoude
+Pastorijehôf,25,"","",9294KB,Oudwoude
+Pastorijehôf,27,"","",9294KB,Oudwoude
+Pastorijehôf,29,"","",9294KB,Oudwoude
+Pastorijehôf,31,"","",9294KB,Oudwoude
+Pastorijehôf,33,"","",9294KB,Oudwoude
+Pastorijehôf,35,"","",9294KB,Oudwoude
+Pastorijehôf,37,"","",9294KB,Oudwoude
+Pastorijehôf,45,"","",9294KB,Oudwoude
+Pastorijehôf,7,"","",9294KB,Oudwoude
+Pastorijehôf,9,"","",9294KB,Oudwoude
+Foarwei,1,"","",9294KC,Oudwoude
+Foarwei,1,A,"",9294KC,Oudwoude
+Foarwei,11,"","",9294KC,Oudwoude
+Foarwei,13,"","",9294KC,Oudwoude
+Foarwei,15,"","",9294KC,Oudwoude
+Foarwei,17,"","",9294KC,Oudwoude
+Foarwei,19,"","",9294KC,Oudwoude
+Foarwei,21,"",10,9294KC,Oudwoude
+Foarwei,21,"",10,9294KC,Oudwoude
+Foarwei,21,"",11,9294KC,Oudwoude
+Foarwei,21,"",11,9294KC,Oudwoude
+Foarwei,21,"",12,9294KC,Oudwoude
+Foarwei,21,"",12,9294KC,Oudwoude
+Foarwei,21,"",13,9294KC,Oudwoude
+Foarwei,21,"",13,9294KC,Oudwoude
+Foarwei,21,"",14,9294KC,Oudwoude
+Foarwei,21,"",14,9294KC,Oudwoude
+Foarwei,21,"",14,9294KC,Oudwoude
+Foarwei,21,"",15,9294KC,Oudwoude
+Foarwei,21,"",15,9294KC,Oudwoude
+Foarwei,21,"",15,9294KC,Oudwoude
+Foarwei,21,"",16,9294KC,Oudwoude
+Foarwei,21,"",16,9294KC,Oudwoude
+Foarwei,21,"",17,9294KC,Oudwoude
+Foarwei,21,"",17,9294KC,Oudwoude
+Foarwei,21,"",17,9294KC,Oudwoude
+Foarwei,21,"",19,9294KC,Oudwoude
+Foarwei,21,"",19,9294KC,Oudwoude
+Foarwei,21,"",20,9294KC,Oudwoude
+Foarwei,21,"",21,9294KC,Oudwoude
+Foarwei,21,"",23,9294KC,Oudwoude
+Foarwei,21,"",24,9294KC,Oudwoude
+Foarwei,21,"",24,9294KC,Oudwoude
+Foarwei,21,"",24,9294KC,Oudwoude
+Foarwei,21,"",24,9294KC,Oudwoude
+Foarwei,21,"",25,9294KC,Oudwoude
+Foarwei,21,"",25,9294KC,Oudwoude
+Foarwei,21,"",26,9294KC,Oudwoude
+Foarwei,21,"",26,9294KC,Oudwoude
+Foarwei,21,"",27,9294KC,Oudwoude
+Foarwei,21,"",27,9294KC,Oudwoude
+Foarwei,21,"",28,9294KC,Oudwoude
+Foarwei,21,"",28,9294KC,Oudwoude
+Foarwei,21,"",29,9294KC,Oudwoude
+Foarwei,21,"",29,9294KC,Oudwoude
+Foarwei,21,"",3,9294KC,Oudwoude
+Foarwei,21,"",30,9294KC,Oudwoude
+Foarwei,21,"",30,9294KC,Oudwoude
+Foarwei,21,"",31,9294KC,Oudwoude
+Foarwei,21,"",31,9294KC,Oudwoude
+Foarwei,21,"",32,9294KC,Oudwoude
+Foarwei,21,"",32,9294KC,Oudwoude
+Foarwei,21,"",33,9294KC,Oudwoude
+Foarwei,21,"",33,9294KC,Oudwoude
+Foarwei,21,"",34,9294KC,Oudwoude
+Foarwei,21,"",34,9294KC,Oudwoude
+Foarwei,21,"",35,9294KC,Oudwoude
+Foarwei,21,"",35,9294KC,Oudwoude
+Foarwei,21,"",36,9294KC,Oudwoude
+Foarwei,21,"",36,9294KC,Oudwoude
+Foarwei,21,"",38A,9294KC,Oudwoude
+Foarwei,21,"",38A,9294KC,Oudwoude
+Foarwei,21,"",38A,9294KC,Oudwoude
+Foarwei,21,"",38A,9294KC,Oudwoude
+Foarwei,21,"",4,9294KC,Oudwoude
+Foarwei,21,"",4,9294KC,Oudwoude
+Foarwei,21,"",43,9294KC,Oudwoude
+Foarwei,21,"",44,9294KC,Oudwoude
+Foarwei,21,"",48,9294KC,Oudwoude
+Foarwei,21,"",49,9294KC,Oudwoude
+Foarwei,21,"",5,9294KC,Oudwoude
+Foarwei,21,"",5,9294KC,Oudwoude
+Foarwei,21,"",50,9294KC,Oudwoude
+Foarwei,21,"",50,9294KC,Oudwoude
+Foarwei,21,"",51,9294KC,Oudwoude
+Foarwei,21,"",51,9294KC,Oudwoude
+Foarwei,21,"",52,9294KC,Oudwoude
+Foarwei,21,"",52,9294KC,Oudwoude
+Foarwei,21,"",53,9294KC,Oudwoude
+Foarwei,21,"",53,9294KC,Oudwoude
+Foarwei,21,"",54,9294KC,Oudwoude
+Foarwei,21,"",54,9294KC,Oudwoude
+Foarwei,21,"",55,9294KC,Oudwoude
+Foarwei,21,"",55,9294KC,Oudwoude
+Foarwei,21,"",56,9294KC,Oudwoude
+Foarwei,21,"",56,9294KC,Oudwoude
+Foarwei,21,"",57,9294KC,Oudwoude
+Foarwei,21,"",57,9294KC,Oudwoude
+Foarwei,21,"",58,9294KC,Oudwoude
+Foarwei,21,"",59,9294KC,Oudwoude
+Foarwei,21,"",59,9294KC,Oudwoude
+Foarwei,21,"",6,9294KC,Oudwoude
+Foarwei,21,"",6,9294KC,Oudwoude
+Foarwei,21,"",60,9294KC,Oudwoude
+Foarwei,21,"",60,9294KC,Oudwoude
+Foarwei,21,"",61,9294KC,Oudwoude
+Foarwei,21,"",61,9294KC,Oudwoude
+Foarwei,21,"",62,9294KC,Oudwoude
+Foarwei,21,"",62,9294KC,Oudwoude
+Foarwei,21,"",63,9294KC,Oudwoude
+Foarwei,21,"",63,9294KC,Oudwoude
+Foarwei,21,"",64,9294KC,Oudwoude
+Foarwei,21,"",64,9294KC,Oudwoude
+Foarwei,21,"",65,9294KC,Oudwoude
+Foarwei,21,"",65,9294KC,Oudwoude
+Foarwei,21,"",66,9294KC,Oudwoude
+Foarwei,21,"",66,9294KC,Oudwoude
+Foarwei,21,"",67,9294KC,Oudwoude
+Foarwei,21,"",67,9294KC,Oudwoude
+Foarwei,21,"",68,9294KC,Oudwoude
+Foarwei,21,"",68,9294KC,Oudwoude
+Foarwei,21,"",69,9294KC,Oudwoude
+Foarwei,21,"",69,9294KC,Oudwoude
+Foarwei,21,"",7,9294KC,Oudwoude
+Foarwei,21,"",70,9294KC,Oudwoude
+Foarwei,21,"",70,9294KC,Oudwoude
+Foarwei,21,"",71,9294KC,Oudwoude
+Foarwei,21,"",71,9294KC,Oudwoude
+Foarwei,21,"",72,9294KC,Oudwoude
+Foarwei,21,"",72,9294KC,Oudwoude
+Foarwei,21,"",73,9294KC,Oudwoude
+Foarwei,21,"",73,9294KC,Oudwoude
+Foarwei,21,"",74,9294KC,Oudwoude
+Foarwei,21,"",74,9294KC,Oudwoude
+Foarwei,21,"",75,9294KC,Oudwoude
+Foarwei,21,"",75,9294KC,Oudwoude
+Foarwei,21,"",76,9294KC,Oudwoude
+Foarwei,21,"",76,9294KC,Oudwoude
+Foarwei,21,"",76A,9294KC,Oudwoude
+Foarwei,21,"",76A,9294KC,Oudwoude
+Foarwei,21,"",77,9294KC,Oudwoude
+Foarwei,21,"",78,9294KC,Oudwoude
+Foarwei,21,"",79,9294KC,Oudwoude
+Foarwei,21,"",8,9294KC,Oudwoude
+Foarwei,21,"",8,9294KC,Oudwoude
+Foarwei,21,"",80,9294KC,Oudwoude
+Foarwei,21,"",81,9294KC,Oudwoude
+Foarwei,21,"",82,9294KC,Oudwoude
+Foarwei,21,"",83,9294KC,Oudwoude
+Foarwei,21,"",83,9294KC,Oudwoude
+Foarwei,21,"",84,9294KC,Oudwoude
+Foarwei,21,"",84,9294KC,Oudwoude
+Foarwei,21,"",85,9294KC,Oudwoude
+Foarwei,21,"",85,9294KC,Oudwoude
+Foarwei,21,"",87,9294KC,Oudwoude
+Foarwei,21,"",88,9294KC,Oudwoude
+Foarwei,21,"",89,9294KC,Oudwoude
+Foarwei,21,"",9,9294KC,Oudwoude
+Foarwei,21,"",9,9294KC,Oudwoude
+Foarwei,21,"",90,9294KC,Oudwoude
+Foarwei,21,"",90,9294KC,Oudwoude
+Foarwei,21,"",91,9294KC,Oudwoude
+Foarwei,21,"",91,9294KC,Oudwoude
+Foarwei,21,"",92,9294KC,Oudwoude
+Foarwei,21,"",92,9294KC,Oudwoude
+Foarwei,21,"",93,9294KC,Oudwoude
+Foarwei,21,"",93,9294KC,Oudwoude
+Foarwei,21,"",94,9294KC,Oudwoude
+Foarwei,21,"",95,9294KC,Oudwoude
+Foarwei,21,"",96,9294KC,Oudwoude
+Foarwei,23,"","",9294KC,Oudwoude
+Foarwei,23,"","",9294KC,Oudwoude
+Foarwei,3,"","",9294KC,Oudwoude
+Foarwei,31,"","",9294KC,Oudwoude
+Foarwei,35,"","",9294KC,Oudwoude
+Foarwei,37,"","",9294KC,Oudwoude
+Foarwei,5,"","",9294KC,Oudwoude
+Foarwei,7,"","",9294KC,Oudwoude
+Foarwei,9,"","",9294KC,Oudwoude
+Foarwei,10,"","",9294KD,Oudwoude
+Foarwei,12,"","",9294KD,Oudwoude
+Foarwei,14,"","",9294KD,Oudwoude
+Foarwei,16,"","",9294KD,Oudwoude
+Foarwei,18,"","",9294KD,Oudwoude
+Foarwei,2,"","",9294KD,Oudwoude
+Foarwei,2,A,"",9294KD,Oudwoude
+Foarwei,2,A,"",9294KD,Oudwoude
+Foarwei,20,"","",9294KD,Oudwoude
+Foarwei,22,"","",9294KD,Oudwoude
+Foarwei,24,"","",9294KD,Oudwoude
+Foarwei,26,"","",9294KD,Oudwoude
+Foarwei,28,"","",9294KD,Oudwoude
+Foarwei,4,"","",9294KD,Oudwoude
+Foarwei,4,A,"",9294KD,Oudwoude
+Foarwei,6,"","",9294KD,Oudwoude
+Foarwei,8,"","",9294KD,Oudwoude
+Foarwei,30,"","",9294KE,Oudwoude
+Foarwei,32,"","",9294KE,Oudwoude
+Foarwei,34,"","",9294KE,Oudwoude
+Foarwei,34,"","",9294KE,Oudwoude
+Foarwei,36,"","",9294KE,Oudwoude
+Foarwei,38,"","",9294KE,Oudwoude
+Foarwei,39,"","",9294KE,Oudwoude
+Foarwei,40,"","",9294KE,Oudwoude
+Foarwei,41,"","",9294KE,Oudwoude
+Foarwei,41,A,"",9294KE,Oudwoude
+Foarwei,41,E,"",9294KE,Oudwoude
+Foarwei,41,F,"",9294KE,Oudwoude
+Foarwei,41,G,"",9294KE,Oudwoude
+Foarwei,41,H,"",9294KE,Oudwoude
+Foarwei,42,"","",9294KE,Oudwoude
+Foarwei,43,"","",9294KE,Oudwoude
+Foarwei,45,"","",9294KE,Oudwoude
+Foarwei,46,"","",9294KE,Oudwoude
+Foarwei,47,"","",9294KE,Oudwoude
+Foarwei,47,"","",9294KE,Oudwoude
+Foarwei,48,"","",9294KE,Oudwoude
+Lange-ikker,1,"","",9294KG,Oudwoude
+Lange-ikker,2,"","",9294KG,Oudwoude
+Lange-ikker,3,"","",9294KG,Oudwoude
+Lange-ikker,4,"","",9294KG,Oudwoude
+Lange-ikker,6,"","",9294KG,Oudwoude
+Jan Binneswei,1,"","",9294KH,Oudwoude
+Jan Binneswei,1,A,"",9294KH,Oudwoude
+Jan Binneswei,1,B,"",9294KH,Oudwoude
+Jan Binneswei,1,C,"",9294KH,Oudwoude
+Jan Binneswei,1,D,"",9294KH,Oudwoude
+Jan Binneswei,1,E,"",9294KH,Oudwoude
+Jan Binneswei,1,F,"",9294KH,Oudwoude
+Jan Binneswei,1,G,"",9294KH,Oudwoude
+Jan Binneswei,1,H,"",9294KH,Oudwoude
+Jan Binneswei,2,"","",9294KH,Oudwoude
+Jan Binneswei,4,"","",9294KH,Oudwoude
+Jan Binneswei,8,"","",9294KH,Oudwoude
+Jan Binneswei,10,"","",9294KJ,Oudwoude
+Jan Binneswei,11,"","",9294KJ,Oudwoude
+Jan Binneswei,12,"","",9294KJ,Oudwoude
+Jan Binneswei,13,"","",9294KJ,Oudwoude
+Jan Binneswei,14,"","",9294KJ,Oudwoude
+Jan Binneswei,14,"","",9294KJ,Oudwoude
+Jan Binneswei,14,A,"",9294KJ,Oudwoude
+Jan Binneswei,14,A,"",9294KJ,Oudwoude
+Jan Binneswei,14,A,"",9294KJ,Oudwoude
+Jan Binneswei,15,"","",9294KJ,Oudwoude
+Jan Binneswei,16,"","",9294KJ,Oudwoude
+Jan Binneswei,17,"","",9294KJ,Oudwoude
+Jan Binneswei,18,"","",9294KJ,Oudwoude
+Jan Binneswei,19,"","",9294KJ,Oudwoude
+Jan Binneswei,20,"","",9294KJ,Oudwoude
+Jan Binneswei,21,"","",9294KJ,Oudwoude
+Jan Binneswei,23,"","",9294KJ,Oudwoude
+Jan Binneswei,3,"","",9294KJ,Oudwoude
+Jan Binneswei,35,"","",9294KJ,Oudwoude
+Jan Binneswei,37,"","",9294KJ,Oudwoude
+Jan Binneswei,39,"","",9294KJ,Oudwoude
+Jan Binneswei,5,"","",9294KJ,Oudwoude
+Jan Binneswei,9,"","",9294KJ,Oudwoude
+Jan Binneswei,22,"","",9294KK,Oudwoude
+Jan Binneswei,24,"","",9294KK,Oudwoude
+Jan Binneswei,26,"","",9294KK,Oudwoude
+Jan Binneswei,28,"","",9294KK,Oudwoude
+Jan Binneswei,30,"","",9294KK,Oudwoude
+Jan Binneswei,32,"","",9294KK,Oudwoude
+Jan Binneswei,32,"","",9294KK,Oudwoude
+Jan Binneswei,32,"","",9294KK,Oudwoude
+Jan Binneswei,34,"","",9294KK,Oudwoude
+Jan Binneswei,34,"","",9294KK,Oudwoude
+Jan Binneswei,34,"","",9294KK,Oudwoude
+Jan Binneswei,36,"","",9294KK,Oudwoude
+Jan Binneswei,36,"","",9294KK,Oudwoude
+Jan Binneswei,38,"","",9294KK,Oudwoude
+Jan Binneswei,38,"","",9294KK,Oudwoude
+Jan Binneswei,40,"","",9294KK,Oudwoude
+Jan Binneswei,40,"","",9294KK,Oudwoude
+Jan Binneswei,41,"","",9294KK,Oudwoude
+Jan Binneswei,42,"","",9294KK,Oudwoude
+Jan Binneswei,42,"","",9294KK,Oudwoude
+Jan Binneswei,43,"","",9294KK,Oudwoude
+Jan Binneswei,44,"","",9294KK,Oudwoude
+Jan Binneswei,44,"","",9294KK,Oudwoude
+Jan Binneswei,45,"","",9294KK,Oudwoude
+Jan Binneswei,46,"","",9294KK,Oudwoude
+Jan Binneswei,46,"","",9294KK,Oudwoude
+Jan Binneswei,47,"","",9294KK,Oudwoude
+Jan Binneswei,47,"","",9294KK,Oudwoude
+Jan Binneswei,47,"","",9294KK,Oudwoude
+Jan Binneswei,48,"","",9294KK,Oudwoude
+Jan Binneswei,48,"","",9294KK,Oudwoude
+Jan Binneswei,49,"","",9294KK,Oudwoude
+Jan Binneswei,49,A,"",9294KK,Oudwoude
+Jan Binneswei,49,A,"",9294KK,Oudwoude
+Jan Binneswei,50,"","",9294KK,Oudwoude
+Jan Binneswei,50,"","",9294KK,Oudwoude
+Jan Binneswei,51,"","",9294KK,Oudwoude
+Heine de Bruinstrjitte,10,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,12,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,14,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,16,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,2,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,4,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,6,"","",9294KL,Oudwoude
+Heine de Bruinstrjitte,8,"","",9294KL,Oudwoude
+Eysmastrjitte,1,"","",9294KM,Oudwoude
+Eysmastrjitte,1,"","",9294KM,Oudwoude
+Eysmastrjitte,1,"","",9294KM,Oudwoude
+Eysmastrjitte,10,"","",9294KM,Oudwoude
+Eysmastrjitte,12,"","",9294KM,Oudwoude
+Eysmastrjitte,14,"","",9294KM,Oudwoude
+Eysmastrjitte,16,"","",9294KM,Oudwoude
+Eysmastrjitte,18,"","",9294KM,Oudwoude
+Eysmastrjitte,2,"","",9294KM,Oudwoude
+Eysmastrjitte,20,"","",9294KM,Oudwoude
+Eysmastrjitte,22,"","",9294KM,Oudwoude
+Eysmastrjitte,24,"","",9294KM,Oudwoude
+Eysmastrjitte,26,"","",9294KM,Oudwoude
+Eysmastrjitte,28,"","",9294KM,Oudwoude
+Eysmastrjitte,3,"","",9294KM,Oudwoude
+Eysmastrjitte,3,"","",9294KM,Oudwoude
+Eysmastrjitte,3,"","",9294KM,Oudwoude
+Eysmastrjitte,30,"","",9294KM,Oudwoude
+Eysmastrjitte,32,"","",9294KM,Oudwoude
+Eysmastrjitte,34,"","",9294KM,Oudwoude
+Eysmastrjitte,36,"","",9294KM,Oudwoude
+Eysmastrjitte,38,"","",9294KM,Oudwoude
+Eysmastrjitte,4,"","",9294KM,Oudwoude
+Eysmastrjitte,40,"","",9294KM,Oudwoude
+Eysmastrjitte,42,"","",9294KM,Oudwoude
+Eysmastrjitte,44,"","",9294KM,Oudwoude
+Eysmastrjitte,46,"","",9294KM,Oudwoude
+Eysmastrjitte,48,"","",9294KM,Oudwoude
+Eysmastrjitte,5,"","",9294KM,Oudwoude
+Eysmastrjitte,5,"","",9294KM,Oudwoude
+Eysmastrjitte,5,"","",9294KM,Oudwoude
+Eysmastrjitte,6,"","",9294KM,Oudwoude
+Eysmastrjitte,7,"","",9294KM,Oudwoude
+Eysmastrjitte,7,"","",9294KM,Oudwoude
+Eysmastrjitte,7,"","",9294KM,Oudwoude
+Eysmastrjitte,8,"","",9294KM,Oudwoude
+Eysmastrjitte,9,"","",9294KM,Oudwoude
+de Wygeast,1,"","",9294KN,Oudwoude
+de Wygeast,10,"","",9294KN,Oudwoude
+de Wygeast,11,"","",9294KN,Oudwoude
+de Wygeast,13,"","",9294KN,Oudwoude
+de Wygeast,15,"","",9294KN,Oudwoude
+de Wygeast,17,"","",9294KN,Oudwoude
+de Wygeast,19,"","",9294KN,Oudwoude
+de Wygeast,2,"","",9294KN,Oudwoude
+de Wygeast,3,"","",9294KN,Oudwoude
+de Wygeast,4,"","",9294KN,Oudwoude
+de Wygeast,5,"","",9294KN,Oudwoude
+de Wygeast,6,"","",9294KN,Oudwoude
+de Wygeast,7,"","",9294KN,Oudwoude
+de Wygeast,8,"","",9294KN,Oudwoude
+de Wygeast,9,"","",9294KN,Oudwoude
+de Wygeast,12,"","",9294KP,Oudwoude
+de Wygeast,14,"","",9294KP,Oudwoude
+de Wygeast,16,"","",9294KP,Oudwoude
+de Wygeast,21,"","",9294KP,Oudwoude
+de Wygeast,22,"","",9294KP,Oudwoude
+de Wygeast,22,A,"",9294KP,Oudwoude
+de Wygeast,23,"","",9294KP,Oudwoude
+de Wygeast,24,"","",9294KP,Oudwoude
+de Wygeast,24,A,"",9294KP,Oudwoude
+de Wygeast,25,"","",9294KP,Oudwoude
+de Wygeast,26,"","",9294KP,Oudwoude
+de Wygeast,27,"","",9294KP,Oudwoude
+de Wygeast,28,"","",9294KP,Oudwoude
+de Wygeast,29,"","",9294KP,Oudwoude
+de Wygeast,30,"","",9294KP,Oudwoude
+de Wygeast,31,"","",9294KP,Oudwoude
+de Wygeast,33,"","",9294KP,Oudwoude
+de Wygeast,35,"","",9294KP,Oudwoude
+de Wygeast,37,"","",9294KP,Oudwoude
+de Wygeast,37,A,"",9294KP,Oudwoude
+de Wygeast,32,"","",9294KR,Oudwoude
+de Wygeast,34,"","",9294KR,Oudwoude
+de Wygeast,36,"","",9294KR,Oudwoude
+de Wygeast,38,"","",9294KR,Oudwoude
+de Wygeast,38,A,"",9294KR,Oudwoude
+de Wygeast,38,A,"",9294KR,Oudwoude
+de Wygeast,39,"","",9294KR,Oudwoude
+de Wygeast,40,"","",9294KR,Oudwoude
+de Wygeast,41,"","",9294KR,Oudwoude
+de Wygeast,42,"","",9294KR,Oudwoude
+de Wygeast,43,"","",9294KR,Oudwoude
+de Wygeast,44,"","",9294KR,Oudwoude
+de Wygeast,45,"","",9294KR,Oudwoude
+de Wygeast,46,"","",9294KR,Oudwoude
+de Wygeast,47,"","",9294KR,Oudwoude
+de Wygeast,49,"","",9294KR,Oudwoude
+de Wygeast,51,"","",9294KR,Oudwoude
+de Wygeast,53,"","",9294KR,Oudwoude
+de Wygeast,55,"","",9294KR,Oudwoude
+de Wygeast,57,"","",9294KR,Oudwoude
+de Wygeast,59,"","",9294KR,Oudwoude
+de Wygeast,61,"","",9294KR,Oudwoude
+de Wygeast,63,"","",9294KR,Oudwoude
+de Wygeast,65,"","",9294KR,Oudwoude
+de Wygeast,67,"","",9294KR,Oudwoude
+Swartewei,1,"","",9294KS,Oudwoude
+Swartewei,1,A,"",9294KS,Oudwoude
+Swartewei,1,A,"",9294KS,Oudwoude
+Swartewei,11,"","",9294KS,Oudwoude
+Swartewei,2,"","",9294KS,Oudwoude
+Swartewei,3,"","",9294KS,Oudwoude
+Swartewei,4,"","",9294KS,Oudwoude
+Swartewei,4,A,"",9294KS,Oudwoude
+Swartewei,5,"","",9294KS,Oudwoude
+Swartewei,6,"","",9294KS,Oudwoude
+Swartewei,6,"","",9294KS,Oudwoude
+Swartewei,6,"","",9294KS,Oudwoude
+Swartewei,7,"","",9294KS,Oudwoude
+Swartewei,8,"","",9294KS,Oudwoude
+Swartewei,9,"","",9294KS,Oudwoude
+Allemawei,1,"","",9294KT,Oudwoude
+Allemawei,10,"","",9294KT,Oudwoude
+Allemawei,2,"","",9294KT,Oudwoude
+Allemawei,3,"","",9294KT,Oudwoude
+Allemawei,4,"","",9294KT,Oudwoude
+Allemawei,5,"","",9294KT,Oudwoude
+Allemawei,6,"","",9294KT,Oudwoude
+Allemawei,7,"","",9294KT,Oudwoude
+Allemawei,7,"","",9294KT,Oudwoude
+Allemawei,8,"","",9294KT,Oudwoude
+Allemawei,9,"","",9294KT,Oudwoude
+Prunus,1,"","",9294KX,Oudwoude
+Prunus,3,"","",9294KX,Oudwoude
+Prunus,5,"","",9294KX,Oudwoude
+Prunus,7,"","",9294KX,Oudwoude
+Prunus,9,"","",9294KX,Oudwoude
+Ribes,1,"","",9294KZ,Oudwoude
+Ribes,11,"","",9294KZ,Oudwoude
+Ribes,13,"","",9294KZ,Oudwoude
+Ribes,15,"","",9294KZ,Oudwoude
+Ribes,17,"","",9294KZ,Oudwoude
+Ribes,19,"","",9294KZ,Oudwoude
+Ribes,2,"","",9294KZ,Oudwoude
+Ribes,3,"","",9294KZ,Oudwoude
+Ribes,4,"","",9294KZ,Oudwoude
+Ribes,5,"","",9294KZ,Oudwoude
+Ribes,7,"","",9294KZ,Oudwoude
+Ribes,9,"","",9294KZ,Oudwoude

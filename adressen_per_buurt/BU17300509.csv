@@ -1,84 +1,84 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9472TG,Zwetdijk,4,,
-9472TG,Zwetdijk,6,,
-9472TG,Zwetdijk,3,,
-9472TC,Oude Anloërweg,4,,
-9472TC,Oude Anloërweg,6,,
-9472TC,Oude Anloërweg,8,,
-9472TC,Oude Anloërweg,14,,
-9472TC,Oude Anloërweg,12,,
-9472TE,Lageweg,34,,
-9472TE,Lageweg,34,B,
-9472TE,Lageweg,28,,
-9472TE,Lageweg,40,,
-9472TE,Lageweg,18,,
-9472TE,Lageweg,12,,
-9472TE,Lageweg,4,,
-9472TK,Lageweg,101,,
-9472TK,Lageweg,73,,
-9472TK,Lageweg,79,,
-9472TK,Lageweg,71,,
-9472TK,Lageweg,87,,
-9472TK,Lageweg,85,,
-9472TK,Lageweg,95,,
-9472TK,Lageweg,63,,
-9472TK,Lageweg,81,,
-9472TK,Lageweg,75,,
-9472PC,Hogeweg,39,,
-9472PC,Hogeweg,42,,
-9472PC,Hogeweg,44,,
-9472PC,Hogeweg,38,,
-9472PC,Hogeweg,36,A,
-9472PC,Hogeweg,35,,
-9472PC,Hogeweg,37,,
-9472PC,Hogeweg,36,B,
-9472PC,Hogeweg,34,,
-9472PC,Hogeweg,43,,
-9472PC,Hogeweg,40,,
-9472TG,Zwetdijk,1,,
-9472TC,Oude Anloërweg,16,,
-9472TC,Oude Anloërweg,3,,
-9472TC,Oude Anloërweg,2,,
-9472TC,Oude Anloërweg,7,,
-9472TE,Lageweg,14,,
-9472TE,Lageweg,20,,
-9472TE,Lageweg,26,,
-9472TE,Lageweg,8,,
-9472TE,Lageweg,10,A,
-9472TE,Lageweg,38,,
-9472TE,Lageweg,32,,
-9472TE,Lageweg,24,,
-9472TE,Lageweg,10,,
-9472TE,Lageweg,30,,
-9472TK,Lageweg,69,,
-9472TK,Lageweg,103,,
-9472TK,Lageweg,67,,
-9472TK,Lageweg,77,,
-9472TK,Lageweg,93,,
-9472TK,Lageweg,89,,
-9472TK,Lageweg,83,,
-9472TK,Lageweg,107,,
-9472TK,Lageweg,65,,
-9472TK,Lageweg,105,,
-9472PC,Hogeweg,43,B,
-9472PC,Hogeweg,41,,
-9472TL,De Dijk,2,,
-9472TG,Zwetdijk,3,,
-9472TC,Oude Anloërweg,10,,
-9472TC,Oude Anloërweg,5,,
-9472TE,Lageweg,36,,
-9472TE,Lageweg,34,a,
-9472TE,Lageweg,16,,
-9472TE,Lageweg,6,,
-9472TE,Lageweg,34,,
-9472TE,Lageweg,34,,
-9472TK,Lageweg,91,A,
-9472TK,Lageweg,91,,
-9472TK,Lageweg,91,B,
-9472TK,Lageweg,105,,
-9472TK,Lageweg,107,,
-9472PC,Hogeweg,41,a,
-9472TG,Zwetdijk,4,A,
-9472TG,Zwetdijk,4,A,
-9472TC,Oude Anloërweg,7,A,
-9472TK,Lageweg,107,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hogeweg,34,"","",9472PC,Zuidlaren
+Hogeweg,35,"","",9472PC,Zuidlaren
+Hogeweg,36,A,"",9472PC,Zuidlaren
+Hogeweg,36,B,"",9472PC,Zuidlaren
+Hogeweg,37,"","",9472PC,Zuidlaren
+Hogeweg,38,"","",9472PC,Zuidlaren
+Hogeweg,39,"","",9472PC,Zuidlaren
+Hogeweg,40,"","",9472PC,Zuidlaren
+Hogeweg,41,"","",9472PC,Zuidlaren
+Hogeweg,41,A,"",9472PC,Zuidlaren
+Hogeweg,42,"","",9472PC,Zuidlaren
+Hogeweg,43,"","",9472PC,Zuidlaren
+Hogeweg,43,B,"",9472PC,Zuidlaren
+Hogeweg,44,"","",9472PC,Zuidlaren
+Oude Anloërweg,10,"","",9472TC,Zuidlaren
+Oude Anloërweg,12,"","",9472TC,Zuidlaren
+Oude Anloërweg,14,"","",9472TC,Zuidlaren
+Oude Anloërweg,16,"","",9472TC,Zuidlaren
+Oude Anloërweg,2,"","",9472TC,Zuidlaren
+Oude Anloërweg,3,"","",9472TC,Zuidlaren
+Oude Anloërweg,4,"","",9472TC,Zuidlaren
+Oude Anloërweg,5,"","",9472TC,Zuidlaren
+Oude Anloërweg,6,"","",9472TC,Zuidlaren
+Oude Anloërweg,7,"","",9472TC,Zuidlaren
+Oude Anloërweg,7,A,"",9472TC,Zuidlaren
+Oude Anloërweg,8,"","",9472TC,Zuidlaren
+Lageweg,10,"","",9472TE,Zuidlaren
+Lageweg,10,A,"",9472TE,Zuidlaren
+Lageweg,12,"","",9472TE,Zuidlaren
+Lageweg,14,"","",9472TE,Zuidlaren
+Lageweg,16,"","",9472TE,Zuidlaren
+Lageweg,18,"","",9472TE,Zuidlaren
+Lageweg,20,"","",9472TE,Zuidlaren
+Lageweg,24,"","",9472TE,Zuidlaren
+Lageweg,26,"","",9472TE,Zuidlaren
+Lageweg,28,"","",9472TE,Zuidlaren
+Lageweg,30,"","",9472TE,Zuidlaren
+Lageweg,32,"","",9472TE,Zuidlaren
+Lageweg,34,"","",9472TE,Zuidlaren
+Lageweg,34,"","",9472TE,Zuidlaren
+Lageweg,34,"","",9472TE,Zuidlaren
+Lageweg,34,A,"",9472TE,Zuidlaren
+Lageweg,34,B,"",9472TE,Zuidlaren
+Lageweg,36,"","",9472TE,Zuidlaren
+Lageweg,38,"","",9472TE,Zuidlaren
+Lageweg,4,"","",9472TE,Zuidlaren
+Lageweg,40,"","",9472TE,Zuidlaren
+Lageweg,6,"","",9472TE,Zuidlaren
+Lageweg,8,"","",9472TE,Zuidlaren
+Zwetdijk,1,"","",9472TG,Zuidlaren
+Zwetdijk,3,"","",9472TG,Zuidlaren
+Zwetdijk,3,"","",9472TG,Zuidlaren
+Zwetdijk,4,"","",9472TG,Zuidlaren
+Zwetdijk,4,A,"",9472TG,Zuidlaren
+Zwetdijk,4,A,"",9472TG,Zuidlaren
+Zwetdijk,6,"","",9472TG,Zuidlaren
+Lageweg,101,"","",9472TK,Zuidlaren
+Lageweg,103,"","",9472TK,Zuidlaren
+Lageweg,105,"","",9472TK,Zuidlaren
+Lageweg,105,"","",9472TK,Zuidlaren
+Lageweg,107,"","",9472TK,Zuidlaren
+Lageweg,107,"","",9472TK,Zuidlaren
+Lageweg,107,"","",9472TK,Zuidlaren
+Lageweg,63,"","",9472TK,Zuidlaren
+Lageweg,65,"","",9472TK,Zuidlaren
+Lageweg,67,"","",9472TK,Zuidlaren
+Lageweg,69,"","",9472TK,Zuidlaren
+Lageweg,71,"","",9472TK,Zuidlaren
+Lageweg,73,"","",9472TK,Zuidlaren
+Lageweg,75,"","",9472TK,Zuidlaren
+Lageweg,77,"","",9472TK,Zuidlaren
+Lageweg,79,"","",9472TK,Zuidlaren
+Lageweg,81,"","",9472TK,Zuidlaren
+Lageweg,83,"","",9472TK,Zuidlaren
+Lageweg,85,"","",9472TK,Zuidlaren
+Lageweg,87,"","",9472TK,Zuidlaren
+Lageweg,89,"","",9472TK,Zuidlaren
+Lageweg,91,"","",9472TK,Zuidlaren
+Lageweg,91,A,"",9472TK,Zuidlaren
+Lageweg,91,B,"",9472TK,Zuidlaren
+Lageweg,93,"","",9472TK,Zuidlaren
+Lageweg,95,"","",9472TK,Zuidlaren
+De Dijk,2,"","",9472TL,Zuidlaren

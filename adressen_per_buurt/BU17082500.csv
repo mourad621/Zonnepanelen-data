@@ -1,90 +1,90 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8337KS,De Pol,13,,
-8337KS,De Pol,15,,
-8337KS,De Pol,17,,
-8337KS,De Pol,2,,
-8337KS,De Pol,4,,
-8337KS,De Pol,6,,
-8337KS,De Pol,8,,
-8337KS,De Pol,10,,
-8337KS,De Pol,12,,
-8337KS,De Pol,14,,
-8337KS,De Pol,16,,
-8337KS,De Pol,3,,
-8337KS,De Pol,5,,
-8337KS,De Pol,7,,
-8337KS,De Pol,9,,
-8337KS,De Pol,11,,
-8337KS,De Pol,18,,
-8337KS,De Pol,18,B,
-8337KT,De Pol,35,,
-8337KT,De Pol,20,,
-8337KT,De Pol,22,,
-8337KT,De Pol,24,,
-8337KT,De Pol,26,,
-8337KT,De Pol,28,,
-8337KT,De Pol,30,,
-8337KT,De Pol,32,,
-8337KT,De Pol,34,,
-8337KT,De Pol,19,,
-8337KT,De Pol,19,A,
-8337KT,De Pol,21,,
-8337KT,De Pol,23,,
-8337KT,De Pol,25,,
-8337KT,De Pol,27,,
-8337KT,De Pol,29,,
-8337KT,De Pol,31,,
-8337KT,De Pol,33,,
-8337KH,Generaal van de Boschweg,3,,
-8337KH,Generaal van de Boschweg,2,,
-8337KV,Koloniepad,1,,
-8337KV,Koloniepad,3,,
-8337KV,Koloniepad,2,,
-8337KG,Löhnislaan,1,,
-8337KG,Löhnislaan,3,,
-8337KG,Löhnislaan,3,A,
-8337KG,Löhnislaan,5,,
-8337KG,Löhnislaan,7,,
-8337KG,Löhnislaan,7,A,
-8337KG,Löhnislaan,9,,
-8337KG,Löhnislaan,11,,
-8337KG,Löhnislaan,2,,
-8337KG,Löhnislaan,4,,
-8337KG,Löhnislaan,6,,
-8337KG,Löhnislaan,8,,
-8337KG,Löhnislaan,10,,
-8337KG,Löhnislaan,12,,
-8337KM,Prins Willem Alexanderlaan,1,,
-8337KM,Prins Willem Alexanderlaan,4,,
-8337KN,Woldweg,3,,
-8337KN,Woldweg,5,,
-8337KN,Woldweg,7,,
-8337KN,Woldweg,2,,
-8337KN,Woldweg,4,,
-8337KJ,Woudveld,2,,
-8337KT,De Pol,35,A,
-8337KT,De Pol,35,t,
-8337KG,Löhnislaan,12,t,
-8337KS,De Pol,3,,
-8337KT,De Pol,35,R,11
-8337KT,De Pol,35,R,66
-8337KT,De Pol,35,R,28
-8337KT,De Pol,35,R,114
-8337KT,De Pol,35,R,30
-8337KT,De Pol,35,R,35
-8337KT,De Pol,35,R,92
-8337KT,De Pol,35,R,88
-8337KT,De Pol,35,R,19
-8337KT,De Pol,35,R,1
-8337KT,De Pol,35,R,63
-8337KT,De Pol,35,R,80
-8337KT,De Pol,35,R,101
-8337KT,De Pol,35,R,106
-8337KT,De Pol,35,R,41
-8337KT,De Pol,35,R,62
-8337KT,De Pol,35,R,1
-8337KT,De Pol,35,R,57
-8337KT,De Pol,35,R,87
-8337KH,Generaal van de Boschweg,2,a,
-8337KH,Generaal van de Boschweg,7,,
-8337KN,Woldweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Löhnislaan,1,"","",8337KG,De Pol
+Löhnislaan,10,"","",8337KG,De Pol
+Löhnislaan,11,"","",8337KG,De Pol
+Löhnislaan,12,"","",8337KG,De Pol
+Löhnislaan,12,T,"",8337KG,De Pol
+Löhnislaan,2,"","",8337KG,De Pol
+Löhnislaan,3,"","",8337KG,De Pol
+Löhnislaan,3,A,"",8337KG,De Pol
+Löhnislaan,4,"","",8337KG,De Pol
+Löhnislaan,5,"","",8337KG,De Pol
+Löhnislaan,6,"","",8337KG,De Pol
+Löhnislaan,7,"","",8337KG,De Pol
+Löhnislaan,7,A,"",8337KG,De Pol
+Löhnislaan,8,"","",8337KG,De Pol
+Löhnislaan,9,"","",8337KG,De Pol
+Generaal van de Boschweg,2,"","",8337KH,De Pol
+Generaal van de Boschweg,2,A,"",8337KH,De Pol
+Generaal van de Boschweg,3,"","",8337KH,De Pol
+Generaal van de Boschweg,7,"","",8337KH,De Pol
+Woudveld,2,"","",8337KJ,De Pol
+Prins Willem Alexanderlaan,1,"","",8337KM,De Pol
+Prins Willem Alexanderlaan,4,"","",8337KM,De Pol
+Woldweg,2,"","",8337KN,De Pol
+Woldweg,3,"","",8337KN,De Pol
+Woldweg,3,"","",8337KN,De Pol
+Woldweg,4,"","",8337KN,De Pol
+Woldweg,5,"","",8337KN,De Pol
+Woldweg,7,"","",8337KN,De Pol
+De Pol,10,"","",8337KS,De Pol
+De Pol,11,"","",8337KS,De Pol
+De Pol,12,"","",8337KS,De Pol
+De Pol,13,"","",8337KS,De Pol
+De Pol,14,"","",8337KS,De Pol
+De Pol,15,"","",8337KS,De Pol
+De Pol,16,"","",8337KS,De Pol
+De Pol,17,"","",8337KS,De Pol
+De Pol,18,"","",8337KS,De Pol
+De Pol,18,B,"",8337KS,De Pol
+De Pol,2,"","",8337KS,De Pol
+De Pol,3,"","",8337KS,De Pol
+De Pol,3,"","",8337KS,De Pol
+De Pol,4,"","",8337KS,De Pol
+De Pol,5,"","",8337KS,De Pol
+De Pol,6,"","",8337KS,De Pol
+De Pol,7,"","",8337KS,De Pol
+De Pol,8,"","",8337KS,De Pol
+De Pol,9,"","",8337KS,De Pol
+De Pol,19,"","",8337KT,De Pol
+De Pol,19,A,"",8337KT,De Pol
+De Pol,20,"","",8337KT,De Pol
+De Pol,21,"","",8337KT,De Pol
+De Pol,22,"","",8337KT,De Pol
+De Pol,23,"","",8337KT,De Pol
+De Pol,24,"","",8337KT,De Pol
+De Pol,25,"","",8337KT,De Pol
+De Pol,26,"","",8337KT,De Pol
+De Pol,27,"","",8337KT,De Pol
+De Pol,28,"","",8337KT,De Pol
+De Pol,29,"","",8337KT,De Pol
+De Pol,30,"","",8337KT,De Pol
+De Pol,31,"","",8337KT,De Pol
+De Pol,32,"","",8337KT,De Pol
+De Pol,33,"","",8337KT,De Pol
+De Pol,34,"","",8337KT,De Pol
+De Pol,35,"","",8337KT,De Pol
+De Pol,35,A,"",8337KT,De Pol
+De Pol,35,R,1,8337KT,De Pol
+De Pol,35,R,1,8337KT,De Pol
+De Pol,35,R,101,8337KT,De Pol
+De Pol,35,R,106,8337KT,De Pol
+De Pol,35,R,11,8337KT,De Pol
+De Pol,35,R,114,8337KT,De Pol
+De Pol,35,R,19,8337KT,De Pol
+De Pol,35,R,28,8337KT,De Pol
+De Pol,35,R,30,8337KT,De Pol
+De Pol,35,R,35,8337KT,De Pol
+De Pol,35,R,41,8337KT,De Pol
+De Pol,35,R,57,8337KT,De Pol
+De Pol,35,R,62,8337KT,De Pol
+De Pol,35,R,63,8337KT,De Pol
+De Pol,35,R,66,8337KT,De Pol
+De Pol,35,R,80,8337KT,De Pol
+De Pol,35,R,87,8337KT,De Pol
+De Pol,35,R,88,8337KT,De Pol
+De Pol,35,R,92,8337KT,De Pol
+De Pol,35,T,"",8337KT,De Pol
+Koloniepad,1,"","",8337KV,De Pol
+Koloniepad,2,"","",8337KV,De Pol
+Koloniepad,3,"","",8337KV,De Pol

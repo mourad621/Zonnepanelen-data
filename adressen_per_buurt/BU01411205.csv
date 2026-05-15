@@ -1,880 +1,458 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7602KA",25,"",""
-"7602KA",15,"",""
-"7602KA",5,"",""
-"7602KA",15,"",""
-"7602KA",20,"",""
-"7602KA",4,"",""
-"7602KA",25,"",""
-"7602KA",3,"",""
-"7602KA",1,"",""
-"7602KA",17,"",""
-"7602KB",40,"",""
-"7602KB",30,"",""
-"7602KB",48,"",""
-"7602KB",44,"",""
-"7602KC",57,"",""
-"7602KC",47,"",""
-"7602KC",56,"",""
-"7602KC",52,"",""
-"7602KC",43,"",""
-"7602KC",62,"",""
-"7602KC",49,"a",""
-"7602KC",53,"",""
-"7602KC",54,"",""
-"7602KC",51,"",""
-"7602KC",49,"",""
-"7602KC",55,"",""
-"7602KD",80,"",""
-"7602KD",78,"",""
-"7602KD",99,"",""
-"7602KD",79,"",""
-"7602KD",96,"",""
-"7602KD",90,"",""
-"7602KD",98,"",""
-"7602KD",75,"",""
-"7602KD",82,"",""
-"7602KD",71,"",""
-"7602KD",100,"",""
-"7602KD",77,"",""
-"7602KE",138,"",""
-"7602KE",138,"a",""
-"7602KE",162,"",""
-"7602KE",138,"a",""
-"7602KE",147,"c",""
-"7602KE",146,"f",""
-"7602KE",165,"g",""
-"7602KE",112,"a","13"
-"7602KE",114,"c",""
-"7602KE",147,"i",""
-"7602KE",122,"",""
-"7602KE",127,"",""
-"7602KE",164,"h",""
-"7602KE",114,"b",""
-"7602KE",164,"b",""
-"7602KE",163,"",""
-"7602KE",129,"",""
-"7602KE",146,"d",""
-"7602KE",112,"a","21"
-"7602KE",112,"a","14"
-"7602KE",164,"i",""
-"7602KE",125,"",""
-"7602KE",115,"",""
-"7602KE",146,"e",""
-"7602KE",138,"a",""
-"7602KE",163,"a",""
-"7602KE",151,"",""
-"7602KE",163,"",""
-"7602KE",165,"c",""
-"7602KE",165,"e",""
-"7602KE",114,"",""
-"7602KE",164,"d",""
-"7602KE",112,"a","16"
-"7602KE",147,"b",""
-"7602KE",123,"",""
-"7602KE",129,"",""
-"7602KE",165,"d",""
-"7602KE",164,"",""
-"7602KE",164,"",""
-"7602KE",163,"",""
-"7602KE",164,"g",""
-"7602KE",148,"",""
-"7602KE",165,"b",""
-"7602KE",165,"k",""
-"7602KE",165,"a",""
-"7602KE",146,"b",""
-"7602KE",112,"a","2"
-"7602KE",146,"i",""
-"7602KE",138,"b",""
-"7602KE",112,"a","23"
-"7602KE",112,"a","29"
-"7602KE",164,"a",""
-"7602KE",112,"a","12"
-"7602KE",147,"d",""
-"7602KE",147,"p",""
-"7602KE",112,"a","4"
-"7602KE",144,"",""
-"7602KE",112,"a","15"
-"7602KE",165,"f",""
-"7602KE",165,"h",""
-"7602KE",146,"c",""
-"7602KE",146,"l",""
-"7602KE",147,"f",""
-"7602KE",146,"m",""
-"7602KE",164,"e",""
-"7602KE",164,"f",""
-"7602KE",112,"a","28"
-"7602KE",112,"a","20"
-"7602KE",112,"a","9"
-"7602KE",112,"a","31"
-"7602KE",145,"b",""
-"7602KE",112,"a","19"
-"7602KE",149,"a",""
-"7602KE",164,"c",""
-"7602KE",145,"g",""
-"7602KE",133,"",""
-"7602KE",146,"h",""
-"7602KE",112,"a","22"
-"7602KE",112,"a","26"
-"7602KE",165,"n",""
-"7602KE",112,"a","8"
-"7602KE",165,"p",""
-"7602KE",112,"a","27"
-"7602KE",112,"a","25"
-"7602KE",172,"",""
-"7602KE",112,"a","11"
-"7602KE",147,"n",""
-"7602KE",147,"l",""
-"7602KE",142,"",""
-"7602KE",147,"a",""
-"7602KE",146,"g",""
-"7602KE",146,"k",""
-"7602KE",112,"a","3"
-"7602KE",112,"a","7"
-"7602KE",114,"a",""
-"7602KE",112,"a","10"
-"7602KE",112,"a","5"
-"7602KE",165,"q",""
-"7602KE",112,"a","17"
-"7602KE",147,"o",""
-"7602KE",147,"q",""
-"7602KE",112,"a","24"
-"7602KE",147,"h",""
-"7602KE",165,"l",""
-"7602KE",147,"h",""
-"7602KE",108,"",""
-"7602KE",112,"a","6"
-"7602KE",165,"r",""
-"7602KE",101,"",""
-"7602KE",145,"a",""
-"7602KE",147,"m",""
-"7602KE",145,"e",""
-"7602KE",147,"k",""
-"7602KE",114,"",""
-"7602KE",145,"d",""
-"7602KE",145,"f",""
-"7602KE",165,"m",""
-"7602KE",112,"a","1"
-"7602KE",109,"",""
-"7602KE",147,"e",""
-"7602KE",102,"",""
-"7602KE",146,"a",""
-"7602KE",147,"g",""
-"7602KE",105,"",""
-"7602KE",149,"",""
-"7602KE",178,"",""
-"7602KE",170,"",""
-"7602KE",147,"i",""
-"7602KE",167,"",""
-"7602KE",112,"a","18"
-"7602KE",147,"h",""
-"7602KE",140,"",""
-"7602KE",112,"a","30"
-"7602KE",168,"",""
-"7602KE",165,"o",""
-"7602KE",174,"",""
-"7602KG",183,"",""
-"7602KG",185,"",""
-"7602KG",193,"",""
-"7602KG",197,"",""
-"7602KG",198,"",""
-"7602KG",187,"",""
-"7602KG",184,"",""
-"7602KG",199,"",""
-"7602KG",197,"",""
-"7602KJ",239,"",""
-"7602KJ",237,"",""
-"7602KJ",243,"",""
-"7602KK",294,"",""
-"7602KK",293,"",""
-"7602KK",299,"",""
-"7602KK",297,"",""
-"7602KK",299,"a",""
-"7602KK",296,"",""
-"7602KK",295,"",""
-"7602KK",298,"",""
-"7602KK",290,"",""
-"7602KK",300,"",""
-"7602KL",315,"D","PC07"
-"7602KL",315,"D","PC15"
-"7602KL",315,"D","A16"
-"7602KL",315,"D","PC09"
-"7602KL",315,"D","PC08"
-"7602KL",315,"D","PC15"
-"7602KL",315,"D","PC09"
-"7602KL",360,"",""
-"7602KL",315,"D","PC11"
-"7602KL",315,"D","PC11"
-"7602KL",315,"D","A09"
-"7602KL",315,"D","A13"
-"7602KL",325,"",""
-"7602KL",314,"",""
-"7602KL",315,"D","A14"
-"7602KL",315,"D","D3"
-"7602KL",315,"",""
-"7602KL",315,"D","E"
-"7602KL",315,"D","PC13"
-"7602KL",315,"D","BB4"
-"7602KL",350,"",""
-"7602KL",315,"D","PC06"
-"7602KL",315,"D","BB1"
-"7602KL",315,"D","PC08"
-"7602KL",315,"D","FS4"
-"7602KL",315,"D","A15"
-"7602KL",315,"D","A12"
-"7602KL",315,"D","A07"
-"7602KL",315,"D","C2"
-"7602KL",315,"D","D2"
-"7602KL",315,"D","D1"
-"7602KL",355,"",""
-"7602KL",315,"D","C1"
-"7602KL",326,"",""
-"7602KL",315,"D","PC06"
-"7602KL",344,"",""
-"7602KL",315,"D","PC04"
-"7602KL",315,"D","FS3"
-"7602KL",315,"D","A10"
-"7602KL",315,"D","A05"
-"7602KL",315,"D","FS1"
-"7602KL",312,"",""
-"7602KL",315,"D","PC13"
-"7602KL",315,"D","FS1"
-"7602KL",354,"","a"
-"7602KL",315,"D","PC07"
-"7602KL",303,"",""
-"7602KL",341,"",""
-"7602KL",343,"",""
-"7602KL",315,"D","PC10"
-"7602KL",315,"D","PC10"
-"7602KL",315,"D","PC5"
-"7602KL",315,"D","I"
-"7602KL",315,"D","A06"
-"7602KL",315,"D","D3"
-"7602KL",315,"D","A04"
-"7602KL",315,"D","FS3"
-"7602KL",315,"D","FS4"
-"7602KL",315,"D","BB3"
-"7602KL",322,"",""
-"7602KL",315,"D","PC7"
-"7602KL",315,"D","PC03"
-"7602KL",301,"",""
-"7602KL",315,"D","PC04"
-"7602KL",331,"",""
-"7602KL",315,"D","L"
-"7602KL",310,"",""
-"7602KL",315,"D","A08"
-"7602KL",315,"D","R"
-"7602KL",315,"D","H"
-"7602KL",354,"a",""
-"7602KL",315,"D","F"
-"7602KL",341,"",""
-"7602KL",315,"D","A03"
-"7602KL",316,"",""
-"7602KL",305,"",""
-"7602KL",315,"D","A11"
-"7602KL",315,"D","A01"
-"7602KL",315,"D","A02"
-"7602KL",315,"D","J"
-"7602KL",315,"D","FS2"
-"7602KL",316,"",""
-"7602KL",322,"d",""
-"7602KL",315,"D","AA"
-"7602KL",316,"",""
-"7602KL",328,"",""
-"7602KL",347,"",""
-"7602KL",322,"e",""
-"7602KL",315,"D","FS2"
-"7602KL",315,"D","H"
-"7602KL",322,"f",""
-"7602KL",315,"D","P"
-"7602KL",315,"D","PC5"
-"7602KL",315,"D","PC02"
-"7602KL",318,"",""
-"7602KL",315,"D","V"
-"7602KL",315,"D","PC02"
-"7602KL",322,"",""
-"7602KL",315,"D","PC16"
-"7602KL",315,"D","MM"
-"7602KL",322,"g",""
-"7602KL",315,"D","B"
-"7602KL",322,"e",""
-"7602KL",315,"D","BB2"
-"7602KL",322,"",""
-"7602KL",322,"e",""
-"7602KL",322,"",""
-"7602KL",315,"D","M"
-"7602KL",324,"",""
-"7602KL",315,"D","X"
-"7602KL",323,"",""
-"7602KL",322,"",""
-"7602KL",315,"D","PC7"
-"7602KL",341,"",""
-"7602KL",315,"D","NBC"
-"7602KL",322,"a",""
-"7602KL",315,"D","PC03"
-"7602KL",315,"D","PC16"
-"7602KM",427,"",""
-"7602KM",426,"",""
-"7602KM",442,"",""
-"7602KM",417,"a",""
-"7602KM",445,"",""
-"7602KM",442,"",""
-"7602KM",428,"a",""
-"7602KM",428,"",""
-"7602KM",428,"",""
-"7602KM",442,"",""
-"7602KM",440,"",""
-"7602KM",415,"",""
-"7602KM",429,"",""
-"7602KM",439,"",""
-"7602KM",417,"",""
-"7602KM",421,"",""
-"7602KM",416,"",""
-"7602KM",425,"a",""
-"7602KM",413,"",""
-"7602KM",411,"",""
-"7602KM",449,"",""
-"7602KM",432,"",""
-"7602KM",454,"",""
-"7602KM",423,"",""
-"7602KM",425,"b",""
-"7602KM",451,"",""
-"7602KM",448,"",""
-"7602KM",425,"",""
-"7602KM",412,"",""
-"7602KM",445,"",""
-"7602KM",416,"",""
-"7602KM",420,"",""
-"7602KM",446,"",""
-"7602KM",428,"a",""
-"7602KM",436,"",""
-"7602KM",431,"",""
-"7602KM",438,"",""
-"7602KM",441,"",""
-"7602KM",419,"",""
-"7602KM",445,"a",""
-"7602KM",438,"",""
-"7602KM",400,"",""
-"7602KM",445,"",""
-"7602KM",437,"",""
-"7602KM",430,"",""
-"7602KM",418,"",""
-"7602KR",48,"",""
-"7602KR",43,"",""
-"7602KR",38,"K",""
-"7602KR",38,"f",""
-"7602KR",38,"b",""
-"7602KR",38,"h",""
-"7602KR",37,"",""
-"7602KR",39,"",""
-"7602KR",38,"g",""
-"7602KR",38,"n",""
-"7602KR",38,"a",""
-"7602KR",18,"",""
-"7602KR",38,"l",""
-"7602KR",1,"",""
-"7602KR",38,"c",""
-"7602KR",18,"",""
-"7602KR",36,"",""
-"7602KR",38,"m",""
-"7602KR",38,"e",""
-"7602KR",25,"",""
-"7602KR",38,"d",""
-"7602KR",18,"",""
-"7602KR",38,"k",""
-"7602KS",104,"a","3"
-"7602KS",103,"a","18"
-"7602KS",103,"b","25"
-"7602KS",103,"b","4"
-"7602KS",103,"b","9"
-"7602KS",103,"b","11"
-"7602KS",103,"a","19"
-"7602KS",104,"a","6"
-"7602KS",104,"a","2"
-"7602KS",104,"a","4"
-"7602KS",103,"b","10"
-"7602KS",104,"a","5"
-"7602KS",103,"a","7"
-"7602KS",103,"a","9"
-"7602KS",103,"a","8"
-"7602KS",103,"b","17"
-"7602KS",105,"",""
-"7602KS",103,"b","7"
-"7602KS",104,"a","1"
-"7602KS",104,"a","9"
-"7602KS",103,"b","1"
-"7602KS",103,"b","16"
-"7602KS",104,"a","8"
-"7602KS",103,"a","5"
-"7602KS",103,"b","13"
-"7602KS",103,"b","2"
-"7602KS",103,"a","2"
-"7602KS",103,"b","14"
-"7602KS",103,"b","3"
-"7602KS",103,"a","23"
-"7602KS",104,"a","7"
-"7602KS",103,"b","8"
-"7602KS",103,"b","22"
-"7602KS",103,"a","6"
-"7602KS",103,"b","18"
-"7602KS",103,"b","6"
-"7602KS",103,"b","15"
-"7602KS",103,"a","21"
-"7602KS",103,"a","15"
-"7602KS",103,"a","4"
-"7602KS",54,"",""
-"7602KS",103,"a","3"
-"7602KS",103,"b","12"
-"7602KS",43,"",""
-"7602KS",103,"b","5"
-"7602KS",103,"b","23"
-"7602KS",59,"",""
-"7602KS",103,"b","21"
-"7602KS",103,"b","24"
-"7602KS",103,"b","20"
-"7602KS",55,"",""
-"7602KS",103,"a","13"
-"7602KS",103,"a","20"
-"7602KS",103,"b","19"
-"7602KS",61,"",""
-"7602KS",103,"b","13"
-"7602KS",103,"a","22"
-"7602KS",83,"",""
-"7602KS",89,"",""
-"7602KS",66,"",""
-"7602KS",103,"a","12"
-"7602KS",92,"",""
-"7602KS",57,"",""
-"7602KS",103,"a","1"
-"7602KS",85,"",""
-"7602KS",103,"a","17"
-"7602KS",96,"",""
-"7602KS",103,"a","11"
-"7602KS",103,"a","16"
-"7602KS",103,"a","14"
-"7602KS",97,"",""
-"7602KS",103,"a","10"
-"7602KS",95,"",""
-"7602KS",98,"",""
-7602KA,Bedrijvenpark Twente,1,,
-7602KA,Bedrijvenpark Twente,15,,
-7602KA,Bedrijvenpark Twente,17,,
-7602KA,Bedrijvenpark Twente,20,,
-7602KA,Bedrijvenpark Twente,25,,
-7602KA,Bedrijvenpark Twente,3,,
-7602KA,Bedrijvenpark Twente,4,,
-7602KA,Bedrijvenpark Twente,5,,
-7602KB,Bedrijvenpark Twente,30,,
-7602KB,Bedrijvenpark Twente,40,,
-7602KB,Bedrijvenpark Twente,44,,
-7602KB,Bedrijvenpark Twente,48,,
-7602KC,Bedrijvenpark Twente,43,,
-7602KC,Bedrijvenpark Twente,47,,
-7602KC,Bedrijvenpark Twente,49,,
-7602KC,Bedrijvenpark Twente,52,,
-7602KC,Bedrijvenpark Twente,53,,
-7602KC,Bedrijvenpark Twente,54,,
-7602KC,Bedrijvenpark Twente,55,,
-7602KC,Bedrijvenpark Twente,56,,
-7602KC,Bedrijvenpark Twente,57,,
-7602KC,Bedrijvenpark Twente,62,,
-7602KD,Bedrijvenpark Twente,100,,
-7602KD,Bedrijvenpark Twente,71,,
-7602KD,Bedrijvenpark Twente,75,,
-7602KD,Bedrijvenpark Twente,77,,
-7602KD,Bedrijvenpark Twente,79,,
-7602KD,Bedrijvenpark Twente,80,,
-7602KD,Bedrijvenpark Twente,82,,
-7602KD,Bedrijvenpark Twente,90,,
-7602KD,Bedrijvenpark Twente,96,,
-7602KD,Bedrijvenpark Twente,98,,
-7602KD,Bedrijvenpark Twente,99,,
-7602KE,Bedrijvenpark Twente,101,,
-7602KE,Bedrijvenpark Twente,102,,
-7602KE,Bedrijvenpark Twente,105,,
-7602KE,Bedrijvenpark Twente,108,,
-7602KE,Bedrijvenpark Twente,109,,
-7602KE,Bedrijvenpark Twente,114,,
-7602KE,Bedrijvenpark Twente,115,,
-7602KE,Bedrijvenpark Twente,122,,
-7602KE,Bedrijvenpark Twente,123,,
-7602KE,Bedrijvenpark Twente,125,,
-7602KE,Bedrijvenpark Twente,127,,
-7602KE,Bedrijvenpark Twente,129,,
-7602KE,Bedrijvenpark Twente,133,,
-7602KE,Bedrijvenpark Twente,138,,
-7602KE,Bedrijvenpark Twente,138,a,
-7602KE,Bedrijvenpark Twente,140,,
-7602KE,Bedrijvenpark Twente,142,,
-7602KE,Bedrijvenpark Twente,144,,
-7602KE,Bedrijvenpark Twente,145,a,
-7602KE,Bedrijvenpark Twente,145,b,
-7602KE,Bedrijvenpark Twente,145,d,
-7602KE,Bedrijvenpark Twente,145,e,
-7602KE,Bedrijvenpark Twente,145,f,
-7602KE,Bedrijvenpark Twente,145,g,
-7602KE,Bedrijvenpark Twente,146,a,
-7602KE,Bedrijvenpark Twente,146,b,
-7602KE,Bedrijvenpark Twente,146,c,
-7602KE,Bedrijvenpark Twente,146,d,
-7602KE,Bedrijvenpark Twente,146,e,
-7602KE,Bedrijvenpark Twente,146,f,
-7602KE,Bedrijvenpark Twente,146,g,
-7602KE,Bedrijvenpark Twente,146,h,
-7602KE,Bedrijvenpark Twente,146,i,
-7602KE,Bedrijvenpark Twente,146,k,
-7602KE,Bedrijvenpark Twente,146,l,
-7602KE,Bedrijvenpark Twente,146,m,
-7602KE,Bedrijvenpark Twente,147,a,
-7602KE,Bedrijvenpark Twente,147,b,
-7602KE,Bedrijvenpark Twente,147,c,
-7602KE,Bedrijvenpark Twente,147,d,
-7602KE,Bedrijvenpark Twente,147,e,
-7602KE,Bedrijvenpark Twente,147,f,
-7602KE,Bedrijvenpark Twente,147,g,
-7602KE,Bedrijvenpark Twente,147,h,
-7602KE,Bedrijvenpark Twente,147,i,
-7602KE,Bedrijvenpark Twente,147,k,
-7602KE,Bedrijvenpark Twente,147,l,
-7602KE,Bedrijvenpark Twente,147,m,
-7602KE,Bedrijvenpark Twente,147,n,
-7602KE,Bedrijvenpark Twente,147,o,
-7602KE,Bedrijvenpark Twente,147,p,
-7602KE,Bedrijvenpark Twente,147,q,
-7602KE,Bedrijvenpark Twente,148,,
-7602KE,Bedrijvenpark Twente,149,,
-7602KE,Bedrijvenpark Twente,149,a,
-7602KE,Bedrijvenpark Twente,151,,
-7602KE,Bedrijvenpark Twente,162,,
-7602KE,Bedrijvenpark Twente,163,,
-7602KE,Bedrijvenpark Twente,164,,
-7602KE,Bedrijvenpark Twente,165,a,
-7602KE,Bedrijvenpark Twente,165,b,
-7602KE,Bedrijvenpark Twente,165,c,
-7602KE,Bedrijvenpark Twente,165,d,
-7602KE,Bedrijvenpark Twente,165,e,
-7602KE,Bedrijvenpark Twente,165,f,
-7602KE,Bedrijvenpark Twente,165,g,
-7602KE,Bedrijvenpark Twente,165,h,
-7602KE,Bedrijvenpark Twente,165,k,
-7602KE,Bedrijvenpark Twente,165,l,
-7602KE,Bedrijvenpark Twente,165,m,
-7602KE,Bedrijvenpark Twente,165,n,
-7602KE,Bedrijvenpark Twente,165,o,
-7602KE,Bedrijvenpark Twente,165,p,
-7602KE,Bedrijvenpark Twente,165,q,
-7602KE,Bedrijvenpark Twente,165,r,
-7602KE,Bedrijvenpark Twente,167,,
-7602KE,Bedrijvenpark Twente,168,,
-7602KE,Bedrijvenpark Twente,170,,
-7602KE,Bedrijvenpark Twente,172,,
-7602KE,Bedrijvenpark Twente,174,,
-7602KE,Bedrijvenpark Twente,178,,
-7602KG,Bedrijvenpark Twente,183,,
-7602KG,Bedrijvenpark Twente,184,,
-7602KG,Bedrijvenpark Twente,185,,
-7602KG,Bedrijvenpark Twente,187,,
-7602KG,Bedrijvenpark Twente,193,,
-7602KG,Bedrijvenpark Twente,197,,
-7602KG,Bedrijvenpark Twente,198,,
-7602KG,Bedrijvenpark Twente,199,,
-7602KJ,Bedrijvenpark Twente,237,,
-7602KJ,Bedrijvenpark Twente,239,,
-7602KJ,Bedrijvenpark Twente,243,,
-7602KK,Bedrijvenpark Twente,290,,
-7602KK,Bedrijvenpark Twente,294,,
-7602KK,Bedrijvenpark Twente,295,,
-7602KK,Bedrijvenpark Twente,296,,
-7602KK,Bedrijvenpark Twente,297,,
-7602KK,Bedrijvenpark Twente,298,,
-7602KK,Bedrijvenpark Twente,299,,
-7602KK,Bedrijvenpark Twente,299,a,
-7602KK,Bedrijvenpark Twente,300,,
-7602KL,Bedrijvenpark Twente,315,D,A01
-7602KL,Bedrijvenpark Twente,315,D,A02
-7602KL,Bedrijvenpark Twente,315,D,A03
-7602KL,Bedrijvenpark Twente,315,D,A04
-7602KL,Bedrijvenpark Twente,315,D,A05
-7602KL,Bedrijvenpark Twente,315,D,A06
-7602KL,Bedrijvenpark Twente,315,D,A07
-7602KL,Bedrijvenpark Twente,315,D,A08
-7602KL,Bedrijvenpark Twente,315,D,A09
-7602KL,Bedrijvenpark Twente,315,D,A10
-7602KL,Bedrijvenpark Twente,315,D,A11
-7602KL,Bedrijvenpark Twente,315,D,A12
-7602KL,Bedrijvenpark Twente,315,D,A13
-7602KL,Bedrijvenpark Twente,315,D,A14
-7602KL,Bedrijvenpark Twente,315,D,A15
-7602KL,Bedrijvenpark Twente,315,D,A16
-7602KL,Bedrijvenpark Twente,315,D,AA
-7602KL,Bedrijvenpark Twente,315,D,B
-7602KL,Bedrijvenpark Twente,315,D,BB1
-7602KL,Bedrijvenpark Twente,315,D,BB2
-7602KL,Bedrijvenpark Twente,315,D,BB3
-7602KL,Bedrijvenpark Twente,315,D,BB4
-7602KL,Bedrijvenpark Twente,315,D,C1
-7602KL,Bedrijvenpark Twente,315,D,C2
-7602KL,Bedrijvenpark Twente,315,D,D1
-7602KL,Bedrijvenpark Twente,315,D,D2
-7602KL,Bedrijvenpark Twente,315,D,D3
-7602KL,Bedrijvenpark Twente,315,D,E
-7602KL,Bedrijvenpark Twente,315,D,F
-7602KL,Bedrijvenpark Twente,315,D,FS1
-7602KL,Bedrijvenpark Twente,315,D,FS2
-7602KL,Bedrijvenpark Twente,315,D,FS3
-7602KL,Bedrijvenpark Twente,315,D,FS4
-7602KL,Bedrijvenpark Twente,315,D,H
-7602KL,Bedrijvenpark Twente,315,D,I
-7602KL,Bedrijvenpark Twente,315,D,J
-7602KL,Bedrijvenpark Twente,315,D,L
-7602KL,Bedrijvenpark Twente,315,D,M
-7602KL,Bedrijvenpark Twente,315,D,MM
-7602KL,Bedrijvenpark Twente,315,D,NBC
-7602KL,Bedrijvenpark Twente,315,D,P
-7602KL,Bedrijvenpark Twente,315,D,PC02
-7602KL,Bedrijvenpark Twente,315,D,PC03
-7602KL,Bedrijvenpark Twente,315,D,PC04
-7602KL,Bedrijvenpark Twente,315,D,PC06
-7602KL,Bedrijvenpark Twente,315,D,PC07
-7602KL,Bedrijvenpark Twente,315,D,PC08
-7602KL,Bedrijvenpark Twente,315,D,PC09
-7602KL,Bedrijvenpark Twente,315,D,PC10
-7602KL,Bedrijvenpark Twente,315,D,PC11
-7602KL,Bedrijvenpark Twente,315,D,PC13
-7602KL,Bedrijvenpark Twente,315,D,PC15
-7602KL,Bedrijvenpark Twente,315,D,PC16
-7602KL,Bedrijvenpark Twente,315,D,PC5
-7602KL,Bedrijvenpark Twente,315,D,PC7
-7602KL,Bedrijvenpark Twente,315,D,R
-7602KL,Bedrijvenpark Twente,315,D,V
-7602KL,Bedrijvenpark Twente,315,D,X
-7602KL,Bedrijvenpark Twente,301,,
-7602KL,Bedrijvenpark Twente,303,,
-7602KL,Bedrijvenpark Twente,305,,
-7602KL,Bedrijvenpark Twente,310,,
-7602KL,Bedrijvenpark Twente,314,,
-7602KL,Bedrijvenpark Twente,315,,
-7602KL,Bedrijvenpark Twente,316,,
-7602KL,Bedrijvenpark Twente,322,,
-7602KL,Bedrijvenpark Twente,322,a,
-7602KL,Bedrijvenpark Twente,322,d,
-7602KL,Bedrijvenpark Twente,323,,
-7602KL,Bedrijvenpark Twente,324,,
-7602KL,Bedrijvenpark Twente,325,,
-7602KL,Bedrijvenpark Twente,326,,
-7602KL,Bedrijvenpark Twente,328,,
-7602KL,Bedrijvenpark Twente,331,,
-7602KL,Bedrijvenpark Twente,341,,
-7602KL,Bedrijvenpark Twente,343,,
-7602KL,Bedrijvenpark Twente,350,,
-7602KL,Bedrijvenpark Twente,360,,
-7602KM,Bedrijvenpark Twente,400,,
-7602KM,Bedrijvenpark Twente,411,,
-7602KM,Bedrijvenpark Twente,412,,
-7602KM,Bedrijvenpark Twente,413,,
-7602KM,Bedrijvenpark Twente,415,,
-7602KM,Bedrijvenpark Twente,418,,
-7602KM,Bedrijvenpark Twente,419,,
-7602KM,Bedrijvenpark Twente,420,,
-7602KM,Bedrijvenpark Twente,421,,
-7602KM,Bedrijvenpark Twente,423,,
-7602KM,Bedrijvenpark Twente,442,,
-7602KM,Bedrijvenpark Twente,445,,
-7602KM,Bedrijvenpark Twente,448,,
-7602KM,Bedrijvenpark Twente,449,,
-7602KC,Bedrijvenpark Twente,51,,
-7602KC,Bedrijvenpark Twente,49,a,
-7602KE,Bedrijvenpark Twente,138,a,
-7602KE,Bedrijvenpark Twente,138,b,
-7602KE,Bedrijvenpark Twente,164,a,
-7602KE,Bedrijvenpark Twente,164,b,
-7602KE,Bedrijvenpark Twente,164,c,
-7602KE,Bedrijvenpark Twente,164,d,
-7602KE,Bedrijvenpark Twente,164,e,
-7602KE,Bedrijvenpark Twente,164,f,
-7602KE,Bedrijvenpark Twente,164,g,
-7602KE,Bedrijvenpark Twente,164,h,
-7602KE,Bedrijvenpark Twente,164,i,
-7602KE,Bedrijvenpark Twente,114,a,
-7602KE,Bedrijvenpark Twente,114,b,
-7602KE,Bedrijvenpark Twente,114,c,
-7602KE,Bedrijvenpark Twente,163,,
-7602KE,Bedrijvenpark Twente,163,a,
-7602KE,Bedrijvenpark Twente,147,h,
-7602KL,Bedrijvenpark Twente,344,,
-7602KL,Bedrijvenpark Twente,322,,
-7602KL,Bedrijvenpark Twente,322,g,
-7602KL,Bedrijvenpark Twente,316,,
-7602KL,Bedrijvenpark Twente,318,,
-7602KL,Bedrijvenpark Twente,322,,
-7602KL,Bedrijvenpark Twente,322,e,
-7602KM,Bedrijvenpark Twente,416,,
-7602KM,Bedrijvenpark Twente,451,,
-7602KM,Bedrijvenpark Twente,430,,
-7602KM,Bedrijvenpark Twente,417,,
-7602KM,Bedrijvenpark Twente,417,a,
-7602KM,Bedrijvenpark Twente,454,,
-7602KM,Bedrijvenpark Twente,425,,
-7602KM,Bedrijvenpark Twente,426,,
-7602KM,Bedrijvenpark Twente,427,,
-7602KM,Bedrijvenpark Twente,428,,
-7602KM,Bedrijvenpark Twente,428,a,
-7602KM,Bedrijvenpark Twente,428,a,
-7602KM,Bedrijvenpark Twente,428,,
-7602KR,Bedrijvenpark Twente Noord,25,,
-7602KS,Bedrijvenpark Twente Noord,83,,
-7602KS,Bedrijvenpark Twente Noord,96,,
-7602KA,Bedrijvenpark Twente,15,,
-7602KD,Bedrijvenpark Twente,78,,
-7602KE,Bedrijvenpark Twente,112,a,22
-7602KE,Bedrijvenpark Twente,112,a,23
-7602KE,Bedrijvenpark Twente,112,a,13
-7602KE,Bedrijvenpark Twente,112,a,24
-7602KE,Bedrijvenpark Twente,112,a,15
-7602KE,Bedrijvenpark Twente,112,a,21
-7602KE,Bedrijvenpark Twente,112,a,1
-7602KE,Bedrijvenpark Twente,112,a,11
-7602KE,Bedrijvenpark Twente,112,a,8
-7602KE,Bedrijvenpark Twente,112,a,20
-7602KE,Bedrijvenpark Twente,112,a,28
-7602KE,Bedrijvenpark Twente,112,a,31
-7602KE,Bedrijvenpark Twente,112,a,25
-7602KE,Bedrijvenpark Twente,112,a,16
-7602KE,Bedrijvenpark Twente,112,a,6
-7602KE,Bedrijvenpark Twente,112,a,29
-7602KE,Bedrijvenpark Twente,112,a,30
-7602KE,Bedrijvenpark Twente,112,a,26
-7602KE,Bedrijvenpark Twente,112,a,27
-7602KE,Bedrijvenpark Twente,112,a,12
-7602KE,Bedrijvenpark Twente,112,a,10
-7602KE,Bedrijvenpark Twente,112,a,17
-7602KE,Bedrijvenpark Twente,112,a,3
-7602KE,Bedrijvenpark Twente,112,a,14
-7602KE,Bedrijvenpark Twente,112,a,7
-7602KE,Bedrijvenpark Twente,112,a,5
-7602KE,Bedrijvenpark Twente,112,a,4
-7602KE,Bedrijvenpark Twente,112,a,9
-7602KE,Bedrijvenpark Twente,112,a,18
-7602KE,Bedrijvenpark Twente,112,a,19
-7602KE,Bedrijvenpark Twente,112,a,2
-7602KK,Bedrijvenpark Twente,293,,
-7602KL,Bedrijvenpark Twente,312,,
-7602KL,Bedrijvenpark Twente,355,,
-7602KL,Bedrijvenpark Twente,322,e,
-7602KL,Bedrijvenpark Twente,322,f,
-7602KL,Bedrijvenpark Twente,354,,a
-7602KL,Bedrijvenpark Twente,354,a,
-7602KL,Bedrijvenpark Twente,347,,
-7602KL,Bedrijvenpark Twente,341,,
-7602KL,Bedrijvenpark Twente,354,,
-7602KM,Bedrijvenpark Twente,445,,
-7602KM,Bedrijvenpark Twente,445,a,
-7602KM,Bedrijvenpark Twente,429,,
-7602KM,Bedrijvenpark Twente,425,a,
-7602KM,Bedrijvenpark Twente,431,,
-7602KM,Bedrijvenpark Twente,425,b,
-7602KM,Bedrijvenpark Twente,432,,
-7602KM,Bedrijvenpark Twente,439,,
-7602KM,Bedrijvenpark Twente,438,,
-7602KM,Bedrijvenpark Twente,438,,
-7602KM,Bedrijvenpark Twente,437,,
-7602KM,Bedrijvenpark Twente,436,,
-7602KM,Bedrijvenpark Twente,446,,
-7602KM,Bedrijvenpark Twente,440,,
-7602KM,Bedrijvenpark Twente,441,,
-7602KM,Bedrijvenpark Twente,442,,
-7602KR,Bedrijvenpark Twente Noord,18,,
-7602KR,Bedrijvenpark Twente Noord,43,,
-7602KR,Bedrijvenpark Twente Noord,36,,
-7602KR,Bedrijvenpark Twente Noord,18,,
-7602KR,Bedrijvenpark Twente Noord,37,,
-7602KR,Bedrijvenpark Twente Noord,1,,
-7602KR,Bedrijvenpark Twente Noord,39,,
-7602KR,Bedrijvenpark Twente Noord,48,,
-7602KR,Bedrijvenpark Twente Noord,38,d,
-7602KR,Bedrijvenpark Twente Noord,38,c,
-7602KR,Bedrijvenpark Twente Noord,38,b,
-7602KR,Bedrijvenpark Twente Noord,38,a,
-7602KR,Bedrijvenpark Twente Noord,38,e,
-7602KR,Bedrijvenpark Twente Noord,38,f,
-7602KR,Bedrijvenpark Twente Noord,38,g,
-7602KR,Bedrijvenpark Twente Noord,38,h,
-7602KR,Bedrijvenpark Twente Noord,38,K,
-7602KR,Bedrijvenpark Twente Noord,38,k,
-7602KR,Bedrijvenpark Twente Noord,38,l,
-7602KR,Bedrijvenpark Twente Noord,38,m,
-7602KR,Bedrijvenpark Twente Noord,38,n,
-7602KR,Bedrijvenpark Twente Noord,4,,
-7602KR,Bedrijvenpark Twente Noord,50,,
-7602KS,Bedrijvenpark Twente Noord,66,,
-7602KS,Bedrijvenpark Twente Noord,95,,
-7602KS,Bedrijvenpark Twente Noord,92,,
-7602KS,Bedrijvenpark Twente Noord,98,,
-7602KS,Bedrijvenpark Twente Noord,85,,
-7602KS,Bedrijvenpark Twente Noord,43,,
-7602KS,Bedrijvenpark Twente Noord,89,,
-7602KS,Bedrijvenpark Twente Noord,55,,
-7602KS,Bedrijvenpark Twente Noord,61,,
-7602KS,Bedrijvenpark Twente Noord,97,,
-7602KS,Bedrijvenpark Twente Noord,105,,
-7602KS,Bedrijvenpark Twente Noord,104,a,1
-7602KS,Bedrijvenpark Twente Noord,104,a,2
-7602KS,Bedrijvenpark Twente Noord,104,a,3
-7602KS,Bedrijvenpark Twente Noord,104,a,4
-7602KS,Bedrijvenpark Twente Noord,104,a,5
-7602KS,Bedrijvenpark Twente Noord,104,a,6
-7602KS,Bedrijvenpark Twente Noord,104,a,7
-7602KS,Bedrijvenpark Twente Noord,104,a,8
-7602KS,Bedrijvenpark Twente Noord,104,a,9
-7602KS,Bedrijvenpark Twente Noord,54,,
-7602KS,Bedrijvenpark Twente Noord,59,,
-7602KS,Bedrijvenpark Twente Noord,103,b,3
-7602KS,Bedrijvenpark Twente Noord,103,b,24
-7602KS,Bedrijvenpark Twente Noord,103,b,23
-7602KS,Bedrijvenpark Twente Noord,103,b,12
-7602KS,Bedrijvenpark Twente Noord,103,a,6
-7602KS,Bedrijvenpark Twente Noord,103,a,10
-7602KS,Bedrijvenpark Twente Noord,103,b,21
-7602KS,Bedrijvenpark Twente Noord,103,a,2
-7602KS,Bedrijvenpark Twente Noord,103,a,3
-7602KS,Bedrijvenpark Twente Noord,103,a,22
-7602KS,Bedrijvenpark Twente Noord,103,a,12
-7602KS,Bedrijvenpark Twente Noord,103,b,4
-7602KS,Bedrijvenpark Twente Noord,103,b,6
-7602KS,Bedrijvenpark Twente Noord,103,b,18
-7602KS,Bedrijvenpark Twente Noord,103,b,16
-7602KS,Bedrijvenpark Twente Noord,103,b,17
-7602KS,Bedrijvenpark Twente Noord,103,a,23
-7602KS,Bedrijvenpark Twente Noord,103,a,9
-7602KS,Bedrijvenpark Twente Noord,103,b,25
-7602KS,Bedrijvenpark Twente Noord,103,b,5
-7602KS,Bedrijvenpark Twente Noord,103,b,11
-7602KS,Bedrijvenpark Twente Noord,103,b,13
-7602KS,Bedrijvenpark Twente Noord,103,a,1
-7602KS,Bedrijvenpark Twente Noord,103,a,4
-7602KS,Bedrijvenpark Twente Noord,103,a,21
-7602KS,Bedrijvenpark Twente Noord,103,a,18
-7602KS,Bedrijvenpark Twente Noord,103,a,11
-7602KS,Bedrijvenpark Twente Noord,103,b,1
-7602KS,Bedrijvenpark Twente Noord,103,b,20
-7602KS,Bedrijvenpark Twente Noord,103,b,13
-7602KS,Bedrijvenpark Twente Noord,103,b,14
-7602KS,Bedrijvenpark Twente Noord,103,a,20
-7602KS,Bedrijvenpark Twente Noord,103,b,7
-7602KS,Bedrijvenpark Twente Noord,103,b,15
-7602KS,Bedrijvenpark Twente Noord,103,a,5
-7602KS,Bedrijvenpark Twente Noord,103,a,17
-7602KS,Bedrijvenpark Twente Noord,103,b,2
-7602KS,Bedrijvenpark Twente Noord,103,a,7
-7602KS,Bedrijvenpark Twente Noord,103,a,8
-7602KS,Bedrijvenpark Twente Noord,103,a,19
-7602KS,Bedrijvenpark Twente Noord,103,a,16
-7602KS,Bedrijvenpark Twente Noord,103,b,22
-7602KS,Bedrijvenpark Twente Noord,103,b,8
-7602KS,Bedrijvenpark Twente Noord,103,b,9
-7602KS,Bedrijvenpark Twente Noord,103,b,10
-7602KS,Bedrijvenpark Twente Noord,103,b,19
-7602KS,Bedrijvenpark Twente Noord,103,a,13
-7602KS,Bedrijvenpark Twente Noord,103,a,15
-7602KS,Bedrijvenpark Twente Noord,103,a,14
-7602KS,Bedrijvenpark Twente Noord,57,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bedrijvenpark Twente,1,"","",7602KA,Almelo
+Bedrijvenpark Twente,15,"","",7602KA,Almelo
+Bedrijvenpark Twente,15,"","",7602KA,Almelo
+Bedrijvenpark Twente,17,"","",7602KA,Almelo
+Bedrijvenpark Twente,20,"","",7602KA,Almelo
+Bedrijvenpark Twente,25,"","",7602KA,Almelo
+Bedrijvenpark Twente,25,"","",7602KA,Almelo
+Bedrijvenpark Twente,3,"","",7602KA,Almelo
+Bedrijvenpark Twente,4,"","",7602KA,Almelo
+Bedrijvenpark Twente,5,"","",7602KA,Almelo
+Bedrijvenpark Twente,30,"","",7602KB,Almelo
+Bedrijvenpark Twente,40,"","",7602KB,Almelo
+Bedrijvenpark Twente,44,"","",7602KB,Almelo
+Bedrijvenpark Twente,48,"","",7602KB,Almelo
+Bedrijvenpark Twente,43,"","",7602KC,Almelo
+Bedrijvenpark Twente,47,"","",7602KC,Almelo
+Bedrijvenpark Twente,49,"","",7602KC,Almelo
+Bedrijvenpark Twente,49,A,"",7602KC,Almelo
+Bedrijvenpark Twente,51,"","",7602KC,Almelo
+Bedrijvenpark Twente,52,"","",7602KC,Almelo
+Bedrijvenpark Twente,53,"","",7602KC,Almelo
+Bedrijvenpark Twente,54,"","",7602KC,Almelo
+Bedrijvenpark Twente,55,"","",7602KC,Almelo
+Bedrijvenpark Twente,56,"","",7602KC,Almelo
+Bedrijvenpark Twente,57,"","",7602KC,Almelo
+Bedrijvenpark Twente,62,"","",7602KC,Almelo
+Bedrijvenpark Twente,100,"","",7602KD,Almelo
+Bedrijvenpark Twente,71,"","",7602KD,Almelo
+Bedrijvenpark Twente,75,"","",7602KD,Almelo
+Bedrijvenpark Twente,77,"","",7602KD,Almelo
+Bedrijvenpark Twente,78,"","",7602KD,Almelo
+Bedrijvenpark Twente,79,"","",7602KD,Almelo
+Bedrijvenpark Twente,80,"","",7602KD,Almelo
+Bedrijvenpark Twente,82,"","",7602KD,Almelo
+Bedrijvenpark Twente,90,"","",7602KD,Almelo
+Bedrijvenpark Twente,96,"","",7602KD,Almelo
+Bedrijvenpark Twente,98,"","",7602KD,Almelo
+Bedrijvenpark Twente,99,"","",7602KD,Almelo
+Bedrijvenpark Twente,101,"","",7602KE,Almelo
+Bedrijvenpark Twente,102,"","",7602KE,Almelo
+Bedrijvenpark Twente,105,"","",7602KE,Almelo
+Bedrijvenpark Twente,108,"","",7602KE,Almelo
+Bedrijvenpark Twente,109,"","",7602KE,Almelo
+Bedrijvenpark Twente,112,A,1,7602KE,Almelo
+Bedrijvenpark Twente,112,A,10,7602KE,Almelo
+Bedrijvenpark Twente,112,A,11,7602KE,Almelo
+Bedrijvenpark Twente,112,A,12,7602KE,Almelo
+Bedrijvenpark Twente,112,A,13,7602KE,Almelo
+Bedrijvenpark Twente,112,A,14,7602KE,Almelo
+Bedrijvenpark Twente,112,A,15,7602KE,Almelo
+Bedrijvenpark Twente,112,A,16,7602KE,Almelo
+Bedrijvenpark Twente,112,A,17,7602KE,Almelo
+Bedrijvenpark Twente,112,A,18,7602KE,Almelo
+Bedrijvenpark Twente,112,A,19,7602KE,Almelo
+Bedrijvenpark Twente,112,A,2,7602KE,Almelo
+Bedrijvenpark Twente,112,A,20,7602KE,Almelo
+Bedrijvenpark Twente,112,A,21,7602KE,Almelo
+Bedrijvenpark Twente,112,A,22,7602KE,Almelo
+Bedrijvenpark Twente,112,A,23,7602KE,Almelo
+Bedrijvenpark Twente,112,A,24,7602KE,Almelo
+Bedrijvenpark Twente,112,A,25,7602KE,Almelo
+Bedrijvenpark Twente,112,A,26,7602KE,Almelo
+Bedrijvenpark Twente,112,A,27,7602KE,Almelo
+Bedrijvenpark Twente,112,A,28,7602KE,Almelo
+Bedrijvenpark Twente,112,A,29,7602KE,Almelo
+Bedrijvenpark Twente,112,A,3,7602KE,Almelo
+Bedrijvenpark Twente,112,A,30,7602KE,Almelo
+Bedrijvenpark Twente,112,A,31,7602KE,Almelo
+Bedrijvenpark Twente,112,A,4,7602KE,Almelo
+Bedrijvenpark Twente,112,A,5,7602KE,Almelo
+Bedrijvenpark Twente,112,A,6,7602KE,Almelo
+Bedrijvenpark Twente,112,A,7,7602KE,Almelo
+Bedrijvenpark Twente,112,A,8,7602KE,Almelo
+Bedrijvenpark Twente,112,A,9,7602KE,Almelo
+Bedrijvenpark Twente,114,"","",7602KE,Almelo
+Bedrijvenpark Twente,114,"","",7602KE,Almelo
+Bedrijvenpark Twente,114,A,"",7602KE,Almelo
+Bedrijvenpark Twente,114,B,"",7602KE,Almelo
+Bedrijvenpark Twente,114,C,"",7602KE,Almelo
+Bedrijvenpark Twente,115,"","",7602KE,Almelo
+Bedrijvenpark Twente,122,"","",7602KE,Almelo
+Bedrijvenpark Twente,123,"","",7602KE,Almelo
+Bedrijvenpark Twente,125,"","",7602KE,Almelo
+Bedrijvenpark Twente,127,"","",7602KE,Almelo
+Bedrijvenpark Twente,129,"","",7602KE,Almelo
+Bedrijvenpark Twente,129,"","",7602KE,Almelo
+Bedrijvenpark Twente,133,"","",7602KE,Almelo
+Bedrijvenpark Twente,138,"","",7602KE,Almelo
+Bedrijvenpark Twente,138,A,"",7602KE,Almelo
+Bedrijvenpark Twente,138,A,"",7602KE,Almelo
+Bedrijvenpark Twente,138,A,"",7602KE,Almelo
+Bedrijvenpark Twente,138,B,"",7602KE,Almelo
+Bedrijvenpark Twente,140,"","",7602KE,Almelo
+Bedrijvenpark Twente,142,"","",7602KE,Almelo
+Bedrijvenpark Twente,144,"","",7602KE,Almelo
+Bedrijvenpark Twente,145,A,"",7602KE,Almelo
+Bedrijvenpark Twente,145,B,"",7602KE,Almelo
+Bedrijvenpark Twente,145,D,"",7602KE,Almelo
+Bedrijvenpark Twente,145,E,"",7602KE,Almelo
+Bedrijvenpark Twente,145,F,"",7602KE,Almelo
+Bedrijvenpark Twente,145,G,"",7602KE,Almelo
+Bedrijvenpark Twente,146,A,"",7602KE,Almelo
+Bedrijvenpark Twente,146,B,"",7602KE,Almelo
+Bedrijvenpark Twente,146,C,"",7602KE,Almelo
+Bedrijvenpark Twente,146,D,"",7602KE,Almelo
+Bedrijvenpark Twente,146,E,"",7602KE,Almelo
+Bedrijvenpark Twente,146,F,"",7602KE,Almelo
+Bedrijvenpark Twente,146,G,"",7602KE,Almelo
+Bedrijvenpark Twente,146,H,"",7602KE,Almelo
+Bedrijvenpark Twente,146,I,"",7602KE,Almelo
+Bedrijvenpark Twente,146,K,"",7602KE,Almelo
+Bedrijvenpark Twente,146,L,"",7602KE,Almelo
+Bedrijvenpark Twente,146,M,"",7602KE,Almelo
+Bedrijvenpark Twente,147,A,"",7602KE,Almelo
+Bedrijvenpark Twente,147,B,"",7602KE,Almelo
+Bedrijvenpark Twente,147,C,"",7602KE,Almelo
+Bedrijvenpark Twente,147,D,"",7602KE,Almelo
+Bedrijvenpark Twente,147,E,"",7602KE,Almelo
+Bedrijvenpark Twente,147,F,"",7602KE,Almelo
+Bedrijvenpark Twente,147,G,"",7602KE,Almelo
+Bedrijvenpark Twente,147,H,"",7602KE,Almelo
+Bedrijvenpark Twente,147,H,"",7602KE,Almelo
+Bedrijvenpark Twente,147,H,"",7602KE,Almelo
+Bedrijvenpark Twente,147,I,"",7602KE,Almelo
+Bedrijvenpark Twente,147,I,"",7602KE,Almelo
+Bedrijvenpark Twente,147,K,"",7602KE,Almelo
+Bedrijvenpark Twente,147,L,"",7602KE,Almelo
+Bedrijvenpark Twente,147,M,"",7602KE,Almelo
+Bedrijvenpark Twente,147,N,"",7602KE,Almelo
+Bedrijvenpark Twente,147,O,"",7602KE,Almelo
+Bedrijvenpark Twente,147,P,"",7602KE,Almelo
+Bedrijvenpark Twente,147,Q,"",7602KE,Almelo
+Bedrijvenpark Twente,148,"","",7602KE,Almelo
+Bedrijvenpark Twente,149,"","",7602KE,Almelo
+Bedrijvenpark Twente,149,A,"",7602KE,Almelo
+Bedrijvenpark Twente,151,"","",7602KE,Almelo
+Bedrijvenpark Twente,162,"","",7602KE,Almelo
+Bedrijvenpark Twente,163,"","",7602KE,Almelo
+Bedrijvenpark Twente,163,"","",7602KE,Almelo
+Bedrijvenpark Twente,163,"","",7602KE,Almelo
+Bedrijvenpark Twente,163,A,"",7602KE,Almelo
+Bedrijvenpark Twente,164,"","",7602KE,Almelo
+Bedrijvenpark Twente,164,"","",7602KE,Almelo
+Bedrijvenpark Twente,164,A,"",7602KE,Almelo
+Bedrijvenpark Twente,164,B,"",7602KE,Almelo
+Bedrijvenpark Twente,164,C,"",7602KE,Almelo
+Bedrijvenpark Twente,164,D,"",7602KE,Almelo
+Bedrijvenpark Twente,164,E,"",7602KE,Almelo
+Bedrijvenpark Twente,164,F,"",7602KE,Almelo
+Bedrijvenpark Twente,164,G,"",7602KE,Almelo
+Bedrijvenpark Twente,164,H,"",7602KE,Almelo
+Bedrijvenpark Twente,164,I,"",7602KE,Almelo
+Bedrijvenpark Twente,165,A,"",7602KE,Almelo
+Bedrijvenpark Twente,165,B,"",7602KE,Almelo
+Bedrijvenpark Twente,165,C,"",7602KE,Almelo
+Bedrijvenpark Twente,165,D,"",7602KE,Almelo
+Bedrijvenpark Twente,165,E,"",7602KE,Almelo
+Bedrijvenpark Twente,165,F,"",7602KE,Almelo
+Bedrijvenpark Twente,165,G,"",7602KE,Almelo
+Bedrijvenpark Twente,165,H,"",7602KE,Almelo
+Bedrijvenpark Twente,165,K,"",7602KE,Almelo
+Bedrijvenpark Twente,165,L,"",7602KE,Almelo
+Bedrijvenpark Twente,165,M,"",7602KE,Almelo
+Bedrijvenpark Twente,165,N,"",7602KE,Almelo
+Bedrijvenpark Twente,165,O,"",7602KE,Almelo
+Bedrijvenpark Twente,165,P,"",7602KE,Almelo
+Bedrijvenpark Twente,165,Q,"",7602KE,Almelo
+Bedrijvenpark Twente,165,R,"",7602KE,Almelo
+Bedrijvenpark Twente,167,"","",7602KE,Almelo
+Bedrijvenpark Twente,168,"","",7602KE,Almelo
+Bedrijvenpark Twente,170,"","",7602KE,Almelo
+Bedrijvenpark Twente,172,"","",7602KE,Almelo
+Bedrijvenpark Twente,174,"","",7602KE,Almelo
+Bedrijvenpark Twente,178,"","",7602KE,Almelo
+Bedrijvenpark Twente,183,"","",7602KG,Almelo
+Bedrijvenpark Twente,184,"","",7602KG,Almelo
+Bedrijvenpark Twente,185,"","",7602KG,Almelo
+Bedrijvenpark Twente,187,"","",7602KG,Almelo
+Bedrijvenpark Twente,193,"","",7602KG,Almelo
+Bedrijvenpark Twente,197,"","",7602KG,Almelo
+Bedrijvenpark Twente,197,"","",7602KG,Almelo
+Bedrijvenpark Twente,198,"","",7602KG,Almelo
+Bedrijvenpark Twente,199,"","",7602KG,Almelo
+Bedrijvenpark Twente,237,"","",7602KJ,Almelo
+Bedrijvenpark Twente,239,"","",7602KJ,Almelo
+Bedrijvenpark Twente,243,"","",7602KJ,Almelo
+Bedrijvenpark Twente,290,"","",7602KK,Almelo
+Bedrijvenpark Twente,293,"","",7602KK,Almelo
+Bedrijvenpark Twente,294,"","",7602KK,Almelo
+Bedrijvenpark Twente,295,"","",7602KK,Almelo
+Bedrijvenpark Twente,296,"","",7602KK,Almelo
+Bedrijvenpark Twente,297,"","",7602KK,Almelo
+Bedrijvenpark Twente,298,"","",7602KK,Almelo
+Bedrijvenpark Twente,299,"","",7602KK,Almelo
+Bedrijvenpark Twente,299,A,"",7602KK,Almelo
+Bedrijvenpark Twente,300,"","",7602KK,Almelo
+Bedrijvenpark Twente,301,"","",7602KL,Almelo
+Bedrijvenpark Twente,303,"","",7602KL,Almelo
+Bedrijvenpark Twente,305,"","",7602KL,Almelo
+Bedrijvenpark Twente,310,"","",7602KL,Almelo
+Bedrijvenpark Twente,312,"","",7602KL,Almelo
+Bedrijvenpark Twente,314,"","",7602KL,Almelo
+Bedrijvenpark Twente,315,"","",7602KL,Almelo
+Bedrijvenpark Twente,315,D,A01,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A02,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A03,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A04,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A05,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A06,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A07,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A08,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A09,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A10,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A11,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A12,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A13,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A14,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A15,7602KL,Almelo
+Bedrijvenpark Twente,315,D,A16,7602KL,Almelo
+Bedrijvenpark Twente,315,D,AA,7602KL,Almelo
+Bedrijvenpark Twente,315,D,B,7602KL,Almelo
+Bedrijvenpark Twente,315,D,BB1,7602KL,Almelo
+Bedrijvenpark Twente,315,D,BB2,7602KL,Almelo
+Bedrijvenpark Twente,315,D,BB3,7602KL,Almelo
+Bedrijvenpark Twente,315,D,BB4,7602KL,Almelo
+Bedrijvenpark Twente,315,D,C1,7602KL,Almelo
+Bedrijvenpark Twente,315,D,C2,7602KL,Almelo
+Bedrijvenpark Twente,315,D,D1,7602KL,Almelo
+Bedrijvenpark Twente,315,D,D2,7602KL,Almelo
+Bedrijvenpark Twente,315,D,D3,7602KL,Almelo
+Bedrijvenpark Twente,315,D,D3,7602KL,Almelo
+Bedrijvenpark Twente,315,D,E,7602KL,Almelo
+Bedrijvenpark Twente,315,D,F,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS1,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS1,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS2,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS2,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS3,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS3,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS4,7602KL,Almelo
+Bedrijvenpark Twente,315,D,FS4,7602KL,Almelo
+Bedrijvenpark Twente,315,D,H,7602KL,Almelo
+Bedrijvenpark Twente,315,D,H,7602KL,Almelo
+Bedrijvenpark Twente,315,D,I,7602KL,Almelo
+Bedrijvenpark Twente,315,D,J,7602KL,Almelo
+Bedrijvenpark Twente,315,D,L,7602KL,Almelo
+Bedrijvenpark Twente,315,D,M,7602KL,Almelo
+Bedrijvenpark Twente,315,D,MM,7602KL,Almelo
+Bedrijvenpark Twente,315,D,NBC,7602KL,Almelo
+Bedrijvenpark Twente,315,D,P,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC02,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC02,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC03,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC03,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC04,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC04,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC06,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC06,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC07,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC07,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC08,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC08,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC09,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC09,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC10,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC10,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC11,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC11,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC13,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC13,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC15,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC15,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC16,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC16,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC5,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC5,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC7,7602KL,Almelo
+Bedrijvenpark Twente,315,D,PC7,7602KL,Almelo
+Bedrijvenpark Twente,315,D,R,7602KL,Almelo
+Bedrijvenpark Twente,315,D,V,7602KL,Almelo
+Bedrijvenpark Twente,315,D,X,7602KL,Almelo
+Bedrijvenpark Twente,316,"","",7602KL,Almelo
+Bedrijvenpark Twente,316,"","",7602KL,Almelo
+Bedrijvenpark Twente,316,"","",7602KL,Almelo
+Bedrijvenpark Twente,318,"","",7602KL,Almelo
+Bedrijvenpark Twente,322,"","",7602KL,Almelo
+Bedrijvenpark Twente,322,"","",7602KL,Almelo
+Bedrijvenpark Twente,322,"","",7602KL,Almelo
+Bedrijvenpark Twente,322,"","",7602KL,Almelo
+Bedrijvenpark Twente,322,"","",7602KL,Almelo
+Bedrijvenpark Twente,322,A,"",7602KL,Almelo
+Bedrijvenpark Twente,322,D,"",7602KL,Almelo
+Bedrijvenpark Twente,322,E,"",7602KL,Almelo
+Bedrijvenpark Twente,322,E,"",7602KL,Almelo
+Bedrijvenpark Twente,322,E,"",7602KL,Almelo
+Bedrijvenpark Twente,322,F,"",7602KL,Almelo
+Bedrijvenpark Twente,322,G,"",7602KL,Almelo
+Bedrijvenpark Twente,323,"","",7602KL,Almelo
+Bedrijvenpark Twente,324,"","",7602KL,Almelo
+Bedrijvenpark Twente,325,"","",7602KL,Almelo
+Bedrijvenpark Twente,326,"","",7602KL,Almelo
+Bedrijvenpark Twente,328,"","",7602KL,Almelo
+Bedrijvenpark Twente,331,"","",7602KL,Almelo
+Bedrijvenpark Twente,341,"","",7602KL,Almelo
+Bedrijvenpark Twente,341,"","",7602KL,Almelo
+Bedrijvenpark Twente,341,"","",7602KL,Almelo
+Bedrijvenpark Twente,343,"","",7602KL,Almelo
+Bedrijvenpark Twente,344,"","",7602KL,Almelo
+Bedrijvenpark Twente,347,"","",7602KL,Almelo
+Bedrijvenpark Twente,350,"","",7602KL,Almelo
+Bedrijvenpark Twente,354,"",A,7602KL,Almelo
+Bedrijvenpark Twente,354,A,"",7602KL,Almelo
+Bedrijvenpark Twente,355,"","",7602KL,Almelo
+Bedrijvenpark Twente,360,"","",7602KL,Almelo
+Bedrijvenpark Twente,400,"","",7602KM,Almelo
+Bedrijvenpark Twente,411,"","",7602KM,Almelo
+Bedrijvenpark Twente,412,"","",7602KM,Almelo
+Bedrijvenpark Twente,413,"","",7602KM,Almelo
+Bedrijvenpark Twente,415,"","",7602KM,Almelo
+Bedrijvenpark Twente,416,"","",7602KM,Almelo
+Bedrijvenpark Twente,416,"","",7602KM,Almelo
+Bedrijvenpark Twente,417,"","",7602KM,Almelo
+Bedrijvenpark Twente,417,A,"",7602KM,Almelo
+Bedrijvenpark Twente,418,"","",7602KM,Almelo
+Bedrijvenpark Twente,419,"","",7602KM,Almelo
+Bedrijvenpark Twente,420,"","",7602KM,Almelo
+Bedrijvenpark Twente,421,"","",7602KM,Almelo
+Bedrijvenpark Twente,423,"","",7602KM,Almelo
+Bedrijvenpark Twente,425,"","",7602KM,Almelo
+Bedrijvenpark Twente,425,A,"",7602KM,Almelo
+Bedrijvenpark Twente,425,B,"",7602KM,Almelo
+Bedrijvenpark Twente,426,"","",7602KM,Almelo
+Bedrijvenpark Twente,427,"","",7602KM,Almelo
+Bedrijvenpark Twente,428,"","",7602KM,Almelo
+Bedrijvenpark Twente,428,"","",7602KM,Almelo
+Bedrijvenpark Twente,428,A,"",7602KM,Almelo
+Bedrijvenpark Twente,428,A,"",7602KM,Almelo
+Bedrijvenpark Twente,429,"","",7602KM,Almelo
+Bedrijvenpark Twente,430,"","",7602KM,Almelo
+Bedrijvenpark Twente,431,"","",7602KM,Almelo
+Bedrijvenpark Twente,432,"","",7602KM,Almelo
+Bedrijvenpark Twente,436,"","",7602KM,Almelo
+Bedrijvenpark Twente,437,"","",7602KM,Almelo
+Bedrijvenpark Twente,438,"","",7602KM,Almelo
+Bedrijvenpark Twente,438,"","",7602KM,Almelo
+Bedrijvenpark Twente,439,"","",7602KM,Almelo
+Bedrijvenpark Twente,440,"","",7602KM,Almelo
+Bedrijvenpark Twente,441,"","",7602KM,Almelo
+Bedrijvenpark Twente,442,"","",7602KM,Almelo
+Bedrijvenpark Twente,442,"","",7602KM,Almelo
+Bedrijvenpark Twente,442,"","",7602KM,Almelo
+Bedrijvenpark Twente,445,"","",7602KM,Almelo
+Bedrijvenpark Twente,445,"","",7602KM,Almelo
+Bedrijvenpark Twente,445,"","",7602KM,Almelo
+Bedrijvenpark Twente,445,A,"",7602KM,Almelo
+Bedrijvenpark Twente,446,"","",7602KM,Almelo
+Bedrijvenpark Twente,448,"","",7602KM,Almelo
+Bedrijvenpark Twente,449,"","",7602KM,Almelo
+Bedrijvenpark Twente,451,"","",7602KM,Almelo
+Bedrijvenpark Twente,454,"","",7602KM,Almelo
+Bedrijvenpark Twente Noord,1,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,18,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,18,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,18,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,25,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,36,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,37,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,A,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,B,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,C,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,D,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,E,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,F,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,G,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,H,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,K,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,K,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,L,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,M,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,38,N,"",7602KR,Almelo
+Bedrijvenpark Twente Noord,39,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,43,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,48,"","",7602KR,Almelo
+Bedrijvenpark Twente Noord,103,A,1,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,10,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,11,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,12,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,13,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,14,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,15,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,16,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,17,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,18,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,19,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,2,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,20,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,21,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,22,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,23,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,3,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,4,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,5,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,6,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,7,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,8,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,A,9,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,1,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,10,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,11,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,12,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,13,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,13,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,14,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,15,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,16,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,17,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,18,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,19,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,2,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,20,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,21,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,22,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,23,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,24,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,25,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,3,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,4,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,5,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,6,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,7,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,8,7602KS,Almelo
+Bedrijvenpark Twente Noord,103,B,9,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,1,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,2,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,3,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,4,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,5,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,6,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,7,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,8,7602KS,Almelo
+Bedrijvenpark Twente Noord,104,A,9,7602KS,Almelo
+Bedrijvenpark Twente Noord,105,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,43,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,54,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,55,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,57,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,59,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,61,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,66,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,83,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,85,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,89,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,92,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,95,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,96,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,97,"","",7602KS,Almelo
+Bedrijvenpark Twente Noord,98,"","",7602KS,Almelo

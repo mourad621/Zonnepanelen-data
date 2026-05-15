@@ -1,68 +1,68 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6416GK,Caumermolenweg,12,,
-6416GK,Caumermolenweg,14,,
-6416GK,Caumermolenweg,18,,
-6416CN,Kerkraderweg,152,,
-6416CN,Kerkraderweg,154,,
-6416CN,Kerkraderweg,156,,
-6416CN,Kerkraderweg,158,,
-6416CN,Kerkraderweg,160,,
-6416CN,Kerkraderweg,164,,
-6416CN,Kerkraderweg,166,,
-6416CN,Kerkraderweg,168,,
-6416CN,Kerkraderweg,170,,
-6416CN,Kerkraderweg,172,,
-6416CN,Kerkraderweg,176,,
-6416CN,Kerkraderweg,178,,
-6416CN,Kerkraderweg,180,,
-6416CN,Kerkraderweg,182,,
-6416CN,Kerkraderweg,184,,
-6416CN,Kerkraderweg,188,,
-6416CN,Kerkraderweg,190,,
-6416CN,Kerkraderweg,192,,
-6416CN,Kerkraderweg,194,,
-6416GM,Onderste Caumer,2,,
-6416GM,Onderste Caumer,3,,
-6416GM,Onderste Caumer,11,,
-6416GM,Onderste Caumer,13,,
-6416GM,Onderste Caumer,14,,
-6416GM,Onderste Caumer,15,,
-6416CP,Pieter Hooftstraat,10,,
-6416CR,Schiffeler,1,,
-6416CR,Schiffeler,2,A,
-6416CR,Schiffeler,2,C,
-6416CR,Schiffeler,2,D,
-6416CR,Schiffeler,3,,
-6416CR,Schiffeler,5,,
-6416CR,Schiffeler,6,,
-6416CR,Schiffeler,8,,
-6416CR,Schiffeler,9,,
-6416CR,Schiffeler,10,,
-6416CR,Schiffeler,11,,
-6416CR,Schiffeler,12,,
-6416CS,Stadionbaan,40,,
-6416GK,Caumermolenweg,16,,
-6416CN,Kerkraderweg,162,,
-6416CN,Kerkraderweg,174,,
-6416CN,Kerkraderweg,186,,
-6416CN,Kerkraderweg,196,,
-6416CN,Kerkraderweg,198,,
-6416CN,Kerkraderweg,200,,
-6416CN,Kerkraderweg,202,,
-6416CN,Kerkraderweg,204,,
-6416CN,Kerkraderweg,206,,
-6416GM,Onderste Caumer,10,,
-6416CP,Pieter Hooftstraat,16,,
-6416CR,Schiffeler,2,B,
-6416CR,Schiffeler,7,,
-6416CR,Schiffeler,13,,
-6416CS,Stadionbaan,50,,
-6416CS,Stadionbaan,52,,
-6416GM,Onderste Caumer,17,,
-6416GM,Onderste Caumer,16,,
-6416AB,Schiffelerweg,11,,
-6416AB,Schiffelerweg,10,,
-6416CS,Stadionbaan,11,,
-6416CS,Stadionbaan,38,,
-6416CS,Stadionbaan,50,,
-6416CS,Stadionbaan,50,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Schiffelerweg,10,"","",6416AB,Heerlen
+Schiffelerweg,11,"","",6416AB,Heerlen
+Kerkraderweg,152,"","",6416CN,Heerlen
+Kerkraderweg,154,"","",6416CN,Heerlen
+Kerkraderweg,156,"","",6416CN,Heerlen
+Kerkraderweg,158,"","",6416CN,Heerlen
+Kerkraderweg,160,"","",6416CN,Heerlen
+Kerkraderweg,162,"","",6416CN,Heerlen
+Kerkraderweg,164,"","",6416CN,Heerlen
+Kerkraderweg,166,"","",6416CN,Heerlen
+Kerkraderweg,168,"","",6416CN,Heerlen
+Kerkraderweg,170,"","",6416CN,Heerlen
+Kerkraderweg,172,"","",6416CN,Heerlen
+Kerkraderweg,174,"","",6416CN,Heerlen
+Kerkraderweg,176,"","",6416CN,Heerlen
+Kerkraderweg,178,"","",6416CN,Heerlen
+Kerkraderweg,180,"","",6416CN,Heerlen
+Kerkraderweg,182,"","",6416CN,Heerlen
+Kerkraderweg,184,"","",6416CN,Heerlen
+Kerkraderweg,186,"","",6416CN,Heerlen
+Kerkraderweg,188,"","",6416CN,Heerlen
+Kerkraderweg,190,"","",6416CN,Heerlen
+Kerkraderweg,192,"","",6416CN,Heerlen
+Kerkraderweg,194,"","",6416CN,Heerlen
+Kerkraderweg,196,"","",6416CN,Heerlen
+Kerkraderweg,198,"","",6416CN,Heerlen
+Kerkraderweg,200,"","",6416CN,Heerlen
+Kerkraderweg,202,"","",6416CN,Heerlen
+Kerkraderweg,204,"","",6416CN,Heerlen
+Kerkraderweg,206,"","",6416CN,Heerlen
+Pieter Hooftstraat,10,"","",6416CP,Heerlen
+Pieter Hooftstraat,16,"","",6416CP,Heerlen
+Schiffeler,1,"","",6416CR,Heerlen
+Schiffeler,10,"","",6416CR,Heerlen
+Schiffeler,11,"","",6416CR,Heerlen
+Schiffeler,12,"","",6416CR,Heerlen
+Schiffeler,13,"","",6416CR,Heerlen
+Schiffeler,2,A,"",6416CR,Heerlen
+Schiffeler,2,B,"",6416CR,Heerlen
+Schiffeler,2,C,"",6416CR,Heerlen
+Schiffeler,2,D,"",6416CR,Heerlen
+Schiffeler,3,"","",6416CR,Heerlen
+Schiffeler,5,"","",6416CR,Heerlen
+Schiffeler,6,"","",6416CR,Heerlen
+Schiffeler,7,"","",6416CR,Heerlen
+Schiffeler,8,"","",6416CR,Heerlen
+Schiffeler,9,"","",6416CR,Heerlen
+Stadionbaan,11,"","",6416CS,Heerlen
+Stadionbaan,38,"","",6416CS,Heerlen
+Stadionbaan,40,"","",6416CS,Heerlen
+Stadionbaan,50,"","",6416CS,Heerlen
+Stadionbaan,50,"","",6416CS,Heerlen
+Stadionbaan,50,A,"",6416CS,Heerlen
+Stadionbaan,52,"","",6416CS,Heerlen
+Caumermolenweg,12,"","",6416GK,Heerlen
+Caumermolenweg,14,"","",6416GK,Heerlen
+Caumermolenweg,16,"","",6416GK,Heerlen
+Caumermolenweg,18,"","",6416GK,Heerlen
+Onderste Caumer,10,"","",6416GM,Heerlen
+Onderste Caumer,11,"","",6416GM,Heerlen
+Onderste Caumer,13,"","",6416GM,Heerlen
+Onderste Caumer,14,"","",6416GM,Heerlen
+Onderste Caumer,15,"","",6416GM,Heerlen
+Onderste Caumer,16,"","",6416GM,Heerlen
+Onderste Caumer,17,"","",6416GM,Heerlen
+Onderste Caumer,2,"","",6416GM,Heerlen
+Onderste Caumer,3,"","",6416GM,Heerlen

@@ -1,659 +1,117 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"6814AA",1,"A",""
-"6814AA",3,"A",""
-"6814AA",4,"",""
-"6814AA",8,"",""
-"6814AA",13,"",""
-"6814AA",3,"",""
-"6814AA",4,"",""
-"6814AB",26,"","11"
-"6814AB",19,"","2"
-"6814AB",21,"","3"
-"6814AB",25,"","7"
-"6814AB",28,"","1"
-"6814AB",26,"","10"
-"6814AB",28,"","8"
-"6814AB",20,"","1"
-"6814AB",28,"","2"
-"6814AB",28,"","4"
-"6814AB",27,"","1"
-"6814AB",27,"","5"
-"6814AB",25,"","10"
-"6814AB",28,"","5"
-"6814AB",27,"","10"
-"6814AB",26,"","7"
-"6814AB",19,"","3"
-"6814AB",26,"","2"
-"6814AB",25,"","6"
-"6814AB",28,"","7"
-"6814AB",31,"",""
-"6814AB",25,"","9"
-"6814AB",17,"",""
-"6814AB",26,"","3"
-"6814AB",21,"","1"
-"6814AB",25,"","11"
-"6814AB",25,"","2"
-"6814AD",3,"","1"
-"6814AD",1,"","1"
-"6814AD",15,"",""
-"6814AD",13,"",""
-"6814AE",2,"",""
-"6814AE",4,"A",""
-"6814AG",1,"",""
-"6814AG",13,"A",""
-"6814AH",8,"",""
-"6814AH",6,"",""
-"6814AH",10,"",""
-"6814AJ",5,"",""
-"6814AK",17,"",""
-"6814AK",7,"",""
-"6814AK",13,"",""
-"6814AL",27,"",""
-"6814AL",29,"",""
-"6814AL",21,"",""
-"6814AL",33,"",""
-"6814AL",39,"",""
-"6814AM",4,"",""
-"6814AN",9,"",""
-"6814AN",5,"",""
-"6814AN",15,"",""
-"6814AP",22,"","2"
-"6814AP",16,"","3"
-"6814AP",16,"","2"
-"6814AP",12,"",""
-"6814AP",10,"",""
-"6814AP",10,"",""
-"6814AP",18,"","1"
-"6814AP",8,"",""
-"6814AP",20,"",""
-"6814AP",16,"","1"
-"6814AP",2,"",""
-"6814AR",25,"",""
-"6814AR",31,"",""
-"6814AR",1,"",""
-"6814AR",3,"",""
-"6814AR",35,"",""
-"6814AR",3,"",""
-"6814AR",29,"",""
-"6814AR",25,"",""
-"6814AR",1,"",""
-"6814AR",5,"",""
-"6814AR",37,"",""
-"6814AS",8,"",""
-"6814AT",14,"",""
-"6814AT",22,"",""
-"6814AT",26,"",""
-"6814BA",2,"",""
-"6814BB",14,"A","3"
-"6814BB",18,"","4"
-"6814BB",16,"","3"
-"6814BB",14,"","3"
-"6814BB",16,"","11"
-"6814BB",16,"","10"
-"6814BB",18,"","5"
-"6814BB",14,"A","1"
-"6814BB",16,"","6"
-"6814BB",14,"A","2"
-"6814BB",16,"","8"
-"6814BB",18,"","10"
-"6814BD",34,"",""
-"6814BD",38,"",""
-"6814BD",38,"",""
-"6814BE",42,"A","1"
-"6814BG",3,"",""
-"6814BH",37,"",""
-"6814BH",37,"",""
-"6814BH",29,"",""
-"6814BH",27,"",""
-"6814BJ",67,"",""
-"6814BJ",55,"","1"
-"6814BJ",49,"",""
-"6814BJ",65,"","2"
-"6814BJ",55,"",""
-"6814CK",4,"",""
-"6814CK",8,"",""
-"6814CK",2,"",""
-"6814CK",12,"",""
-"6814CK",6,"",""
-6814BA,Sonsbeekweg,2,,
-6814BB,Sonsbeekweg,14,A,1
-6814BB,Sonsbeekweg,14,A,3
-6814BB,Sonsbeekweg,16,,11
-6814AA,Sonsbeeksingel,3,,
-6814AA,Sonsbeeksingel,13,,
-6814AA,Sonsbeeksingel,1,A,
-6814AA,Sonsbeeksingel,8,,
-6814AA,Sonsbeeksingel,4,,
-6814AB,Sonsbeeksingel,17,,
-6814AB,Sonsbeeksingel,21,,3
-6814AB,Sonsbeeksingel,27,,10
-6814AB,Sonsbeeksingel,28,,1
-6814AB,Sonsbeeksingel,28,,2
-6814AB,Sonsbeeksingel,28,,5
-6814AB,Sonsbeeksingel,25,,11
-6814AB,Sonsbeeksingel,26,,10
-6814AB,Sonsbeeksingel,26,,7
-6814AB,Sonsbeeksingel,27,,1
-6814AB,Sonsbeeksingel,26,,3
-6814AB,Sonsbeeksingel,28,,4
-6814AB,Sonsbeeksingel,31,,
-6814AB,Sonsbeeksingel,19,,2
-6814AB,Sonsbeeksingel,25,,10
-6814BG,Apeldoornseweg,3,,
-6814BH,Apeldoornseweg,37,,
-6814BJ,Apeldoornseweg,67,,
-6814BJ,Apeldoornseweg,65,,2
-6814AR,Paul Krugerstraat,5,,
-6814AT,Paul Krugerstraat,22,,
-6814AN,De Wetstraat,15,,
-6814AP,De Wetstraat,16,,2
-6814AP,De Wetstraat,18,,1
-6814CK,Zijpendaalseweg,2,,
-6814CK,Zijpendaalseweg,6,,
-6814AD,De la Reijstraat,1,,1
-6814AH,Cronjéstraat,6,,
-6814AL,Steijnstraat,21,,
-6814AL,Steijnstraat,27,,
-6814AL,Steijnstraat,29,,
-6814BB,Sonsbeekweg,16,,10
-6814BB,Sonsbeekweg,16,,3
-6814BB,Sonsbeekweg,16,,8
-6814AB,Sonsbeeksingel,26,,11
-6814AB,Sonsbeeksingel,28,,7
-6814AB,Sonsbeeksingel,21,,1
-6814BH,Apeldoornseweg,29,,
-6814BJ,Apeldoornseweg,49,,
-6814BJ,Apeldoornseweg,55,,1
-6814AR,Paul Krugerstraat,3,,
-6814AR,Paul Krugerstraat,25,,
-6814AS,Paul Krugerstraat,8,,
-6814AT,Paul Krugerstraat,26,,
-6814AN,De Wetstraat,5,,
-6814AP,De Wetstraat,16,,3
-6814CK,Zijpendaalseweg,8,,
-6814AD,De la Reijstraat,15,,
-6814AD,De la Reijstraat,3,,1
-6814AE,De la Reijstraat,4,A,
-6814AH,Cronjéstraat,10,,
-6814AK,Steijnstraat,17,,
-6814BB,Sonsbeekweg,16,,6
-6814BB,Sonsbeekweg,14,,3
-6814BB,Sonsbeekweg,14,A,2
-6814BB,Sonsbeekweg,18,,4
-6814BB,Sonsbeekweg,18,,5
-6814BB,Sonsbeekweg,18,,10
-6814BD,Sonsbeekweg,34,,
-6814BD,Sonsbeekweg,38,,
-6814BE,Sonsbeekweg,42,A,1
-6814AA,Sonsbeeksingel,3,A,
-6814AB,Sonsbeeksingel,28,,8
-6814AB,Sonsbeeksingel,27,,5
-6814AB,Sonsbeeksingel,25,,6
-6814AB,Sonsbeeksingel,25,,7
-6814AB,Sonsbeeksingel,25,,9
-6814AB,Sonsbeeksingel,20,,1
-6814AB,Sonsbeeksingel,26,,2
-6814AB,Sonsbeeksingel,19,,3
-6814AB,Sonsbeeksingel,25,,2
-6814BH,Apeldoornseweg,27,,
-6814BJ,Apeldoornseweg,55,,
-6814AR,Paul Krugerstraat,37,,
-6814AR,Paul Krugerstraat,1,,
-6814AR,Paul Krugerstraat,35,,
-6814AR,Paul Krugerstraat,31,,
-6814AR,Paul Krugerstraat,29,,
-6814AT,Paul Krugerstraat,14,,
-6814AN,De Wetstraat,9,,
-6814AN,De Wetstraat,13,,
-6814AP,De Wetstraat,10,,
-6814AP,De Wetstraat,2,,
-6814AP,De Wetstraat,12,,
-6814AP,De Wetstraat,16,,1
-6814AP,De Wetstraat,20,,
-6814AP,De Wetstraat,8,,
-6814AP,De Wetstraat,22,,2
-6814CK,Zijpendaalseweg,4,,
-6814CK,Zijpendaalseweg,12,,
-6814AD,De la Reijstraat,13,,
-6814AE,De la Reijstraat,2,,
-6814AG,Cronjéstraat,1,,
-6814AG,Cronjéstraat,13,A,
-6814AG,Cronjéstraat,3,,
-6814AH,Cronjéstraat,8,,
-6814AJ,Bothaplein,5,,
-6814AK,Steijnstraat,7,,
-6814AK,Steijnstraat,13,,
-6814AL,Steijnstraat,33,,
-6814AL,Steijnstraat,39,,
-6814AM,Steijnstraat,4,,
-6814BA,Sonsbeekweg,12,,1
-6814BA,Sonsbeekweg,8,,
-6814BA,Sonsbeekweg,4,,2
-6814BB,Sonsbeekweg,18,,11
-6814BC,Sonsbeekweg,26,,
-6814AA,Sonsbeeksingel,7,,
-6814AB,Sonsbeeksingel,29,,
-6814AB,Sonsbeeksingel,25,,3
-6814AB,Sonsbeeksingel,27,,3
-6814BH,Apeldoornseweg,33,,
-6814BJ,Apeldoornseweg,61,,
-6814BJ,Apeldoornseweg,63,,1
-6814AR,Paul Krugerstraat,37,,2
-6814AR,Paul Krugerstraat,27,,
-6814AS,Paul Krugerstraat,2,B,
-6814AS,Paul Krugerstraat,10,,
-6814AT,Paul Krugerstraat,16,,2
-6814AN,De Wetstraat,7,,
-6814AP,De Wetstraat,22,,1
-6814AP,De Wetstraat,22,,3
-6814AP,De Wetstraat,6,,
-6814CK,Zijpendaalseweg,10,A,
-6814AD,De la Reijstraat,7,,
-6814AG,Cronjéstraat,7,,
-6814AJ,Bothaplein,6,,
-6814AL,Steijnstraat,19,,
-6814AL,Steijnstraat,41,,
-6814BA,Sonsbeekweg,6,,
-6814BB,Sonsbeekweg,14,,2
-6814BB,Sonsbeekweg,18,,6
-6814BB,Sonsbeekweg,16,,2
-6814BC,Sonsbeekweg,28,,
-6814BC,Sonsbeekweg,24,A,
-6814BE,Sonsbeekweg,44,,
-6814BE,Sonsbeekweg,42,A,2
-6814AA,Sonsbeeksingel,1,,
-6814AA,Sonsbeeksingel,2,B,2
-6814AA,Sonsbeeksingel,1,C,
-6814AA,Sonsbeeksingel,9,,
-6814AB,Sonsbeeksingel,20,,4
-6814AB,Sonsbeeksingel,26,,8
-6814AB,Sonsbeeksingel,27,,2
-6814AB,Sonsbeeksingel,26,,1
-6814AB,Sonsbeeksingel,26,,4
-6814AB,Sonsbeeksingel,30,,
-6814AB,Sonsbeeksingel,19,,1
-6814AB,Sonsbeeksingel,25,,8
-6814AB,Sonsbeeksingel,18,,4
-6814AB,Sonsbeeksingel,20,,2
-6814AB,Sonsbeeksingel,21,,2
-6814AB,Sonsbeeksingel,26,,6
-6814AB,Sonsbeeksingel,27,,6
-6814AB,Sonsbeeksingel,15,,
-6814AB,Sonsbeeksingel,27,,8
-6814AB,Sonsbeeksingel,27,,9
-6814BG,Apeldoornseweg,11,,
-6814BG,Apeldoornseweg,15,,
-6814BG,Apeldoornseweg,7,,
-6814AR,Paul Krugerstraat,33,,
-6814AR,Paul Krugerstraat,37,,1
-6814AS,Paul Krugerstraat,12,,
-6814AS,Paul Krugerstraat,12,,
-6814AT,Paul Krugerstraat,24,,
-6814AN,De Wetstraat,17,,
-6814AP,De Wetstraat,18,,2
-6814AP,De Wetstraat,18,,3
-6814AP,De Wetstraat,26,,
-6814AD,De la Reijstraat,3,,2
-6814AD,De la Reijstraat,9,,
-6814AD,De la Reijstraat,5,,
-6814AG,Cronjéstraat,5,,
-6814AH,Cronjéstraat,4,,2
-6814AJ,Bothaplein,4,,
-6814AJ,Bothaplein,8,,
-6814AK,Steijnstraat,9,,
-6814AK,Steijnstraat,15,,
-6814AL,Steijnstraat,35,,
-6814AL,Steijnstraat,23,,
-6814BA,Sonsbeekweg,12,,
-6814BB,Sonsbeekweg,16,,5
-6814BB,Sonsbeekweg,14,,4
-6814BB,Sonsbeekweg,18,,3
-6814BC,Sonsbeekweg,24,,
-6814BD,Sonsbeekweg,36,,2
-6814BE,Sonsbeekweg,46,,
-6814AB,Sonsbeeksingel,18,,3
-6814AB,Sonsbeeksingel,27,,7
-6814BG,Apeldoornseweg,13,,
-6814BG,Apeldoornseweg,1,B,
-6814BG,Apeldoornseweg,9,A,
-6814BH,Apeldoornseweg,23,,
-6814BH,Apeldoornseweg,25,,
-6814BH,Apeldoornseweg,35,,
-6814BH,Apeldoornseweg,41,,
-6814BH,Apeldoornseweg,31,,
-6814BJ,Apeldoornseweg,63,,3
-6814BJ,Apeldoornseweg,65,,3
-6814AS,Paul Krugerstraat,2,,
-6814AT,Paul Krugerstraat,16,,
-6814AT,Paul Krugerstraat,28,,
-6814AN,De Wetstraat,11,,
-6814AP,De Wetstraat,24,,
-6814AE,De la Reijstraat,14,,
-6814AE,De la Reijstraat,6,,
-6814AE,De la Reijstraat,12,,
-6814AG,Cronjéstraat,15,,
-6814AK,Steijnstraat,3,,
-6814AK,Steijnstraat,1,,
-6814AK,Steijnstraat,5,,
-6814AL,Steijnstraat,31,,
-6814AL,Steijnstraat,25,,
-6814AM,Steijnstraat,2,,2
-6814AM,Steijnstraat,8,,
-6814AM,Steijnstraat,12,,
-6814AM,Steijnstraat,10,,
-6814BA,Sonsbeekweg,4,,3
-6814BA,Sonsbeekweg,4,,
-6814BA,Sonsbeekweg,1,,
-6814BA,Sonsbeekweg,4,,1
-6814BB,Sonsbeekweg,14,,1
-6814BB,Sonsbeekweg,18,,7
-6814BB,Sonsbeekweg,20,,
-6814BB,Sonsbeekweg,14,A,4
-6814BB,Sonsbeekweg,16,,1
-6814BB,Sonsbeekweg,18,,9
-6814BC,Sonsbeekweg,30,,
-6814BD,Sonsbeekweg,32,,
-6814AA,Sonsbeeksingel,2,A,
-6814AA,Sonsbeeksingel,5,,
-6814AA,Sonsbeeksingel,14,,
-6814AB,Sonsbeeksingel,20,,3
-6814AB,Sonsbeeksingel,25,,5
-6814AB,Sonsbeeksingel,28,,3
-6814AB,Sonsbeeksingel,25,,1
-6814AB,Sonsbeeksingel,26,,9
-6814BG,Apeldoornseweg,21,,
-6814BH,Apeldoornseweg,39,,
-6814BH,Apeldoornseweg,41,A,
-6814BJ,Apeldoornseweg,59,,
-6814BJ,Apeldoornseweg,47,,
-6814BJ,Apeldoornseweg,63,,2
-6814BJ,Apeldoornseweg,75,,
-6814BJ,Apeldoornseweg,57,,
-6814AS,Paul Krugerstraat,8,A,
-6814AS,Paul Krugerstraat,8,B,
-6814AS,Paul Krugerstraat,6,,
-6814AT,Paul Krugerstraat,16,,1
-6814AT,Paul Krugerstraat,20,,
-6814AP,De Wetstraat,6,A,
-6814CK,Zijpendaalseweg,10,,
-6814AD,De la Reijstraat,11,,
-6814AE,De la Reijstraat,8,,
-6814AE,De la Reijstraat,10,,
-6814AG,Cronjéstraat,9,,
-6814AG,Cronjéstraat,13,,
-6814AH,Cronjéstraat,2,,
-6814AH,Cronjéstraat,4,,
-6814AJ,Bothaplein,2,,
-6814AJ,Bothaplein,7,,
-6814AK,Steijnstraat,11,,
-6814AM,Steijnstraat,6,,
-6814AM,Steijnstraat,2,,1
-6814BB,Sonsbeekweg,18,,2
-6814BC,Sonsbeekweg,22,,
-6814BE,Sonsbeekweg,42,,
-6814AA,Sonsbeeksingel,11,,
-6814AA,Sonsbeeksingel,2,B,1
-6814AA,Sonsbeeksingel,2,B,
-6814AA,Sonsbeeksingel,2,,
-6814AA,Sonsbeeksingel,12,,
-6814AA,Sonsbeeksingel,10,,
-6814AB,Sonsbeeksingel,25,,4
-6814AB,Sonsbeeksingel,18,,2
-6814AB,Sonsbeeksingel,19,,4
-6814AB,Sonsbeeksingel,32,,
-6814BG,Apeldoornseweg,19,,
-6814BJ,Apeldoornseweg,53,,
-6814AR,Paul Krugerstraat,3,,1
-6814AR,Paul Krugerstraat,3,,1
-6814AR,Paul Krugerstraat,23,,
-6814AT,Paul Krugerstraat,18,,
-6814AP,De Wetstraat,14,,
-6814AP,De Wetstraat,20,A,
-6814CK,Zijpendaalseweg,14,,
-6814AD,De la Reijstraat,9,A,
-6814AD,De la Reijstraat,3,,3
-6814AD,De la Reijstraat,1,,2
-6814AE,De la Reijstraat,4,,
-6814AJ,Bothaplein,9,,
-6814AL,Steijnstraat,37,,
-6814BA,Sonsbeekweg,10,,
-6814BB,Sonsbeekweg,16,,4
-6814BB,Sonsbeekweg,18,,8
-6814BB,Sonsbeekweg,16,,9
-6814BB,Sonsbeekweg,18,,1
-6814BB,Sonsbeekweg,16,,7
-6814BD,Sonsbeekweg,36,,
-6814BD,Sonsbeekweg,36,,1
-6814BD,Sonsbeekweg,40,,
-6814AA,Sonsbeeksingel,1,B,
-6814AA,Sonsbeeksingel,6,,
-6814AA,Sonsbeeksingel,1,C,
-6814AB,Sonsbeeksingel,16,,
-6814AB,Sonsbeeksingel,18,,1
-6814AB,Sonsbeeksingel,33,,
-6814AB,Sonsbeeksingel,21,,4
-6814AB,Sonsbeeksingel,26,,5
-6814AB,Sonsbeeksingel,27,,4
-6814AB,Sonsbeeksingel,28,,6
-6814BG,Apeldoornseweg,9,,
-6814BG,Apeldoornseweg,5,,
-6814BH,Apeldoornseweg,45,,
-6814BH,Apeldoornseweg,43,,
-6814BH,Apeldoornseweg,27,,1
-6814BJ,Apeldoornseweg,51,,
-6814BJ,Apeldoornseweg,65,,1
-6814AR,Paul Krugerstraat,3,,
-6814AS,Paul Krugerstraat,4,,
-6814AS,Paul Krugerstraat,2,A,
-6814AN,De Wetstraat,1,,
-6814AP,De Wetstraat,4,,
-6814AP,De Wetstraat,10,,
-6814AE,De la Reijstraat,14,,
-6814AG,Cronjéstraat,11,,
-6814AH,Cronjéstraat,4,,1
-6814AJ,Bothaplein,1,,
-6814BD,Sonsbeekweg,38,,
-6814BD,Sonsbeekweg,38,,
-6814BD,Sonsbeekweg,38,,1
-6814BD,Sonsbeekweg,38,,1
-6814BD,Sonsbeekweg,38,,2
-6814BD,Sonsbeekweg,38,,2
-6814BD,Sonsbeekweg,38,,3
-6814BD,Sonsbeekweg,38,,3
-6814BD,Sonsbeekweg,38,,4
-6814BD,Sonsbeekweg,38,,4
-6814BJ,Apeldoornseweg,73,,
-6814BJ,Apeldoornseweg,77,,
-6814BJ,Apeldoornseweg,79,,
-6814AR,Paul Krugerstraat,25,,1
-6814AR,Paul Krugerstraat,25,,2
-6814AS,Paul Krugerstraat,8,,1
-6814AS,Paul Krugerstraat,8,,2
-6814AS,Paul Krugerstraat,8,,3
-6814AP,De Wetstraat,10,,
-6814BC,Sonsbeekweg,28,,
-6814BC,Sonsbeekweg,28,,
-6814BC,Sonsbeekweg,28,,1
-6814BC,Sonsbeekweg,28,,1
-6814BC,Sonsbeekweg,28,,2
-6814BC,Sonsbeekweg,28,,2
-6814BD,Sonsbeekweg,34,,
-6814BD,Sonsbeekweg,34,,1
-6814BD,Sonsbeekweg,34,,2
-6814BD,Sonsbeekweg,40,,
-6814BD,Sonsbeekweg,40,,1
-6814BD,Sonsbeekweg,40,,2
-6814BH,Apeldoornseweg,23,,
-6814BH,Apeldoornseweg,33,,1
-6814BH,Apeldoornseweg,33,,2
-6814BH,Apeldoornseweg,33,,3
-6814BH,Apeldoornseweg,33,,3
-6814BH,Apeldoornseweg,33,,2
-6814BH,Apeldoornseweg,33,,4
-6814BH,Apeldoornseweg,33,,5
-6814BH,Apeldoornseweg,33,,5
-6814BH,Apeldoornseweg,33,,4
-6814BH,Apeldoornseweg,33,,6
-6814BH,Apeldoornseweg,35,,1
-6814BH,Apeldoornseweg,35,,2
-6814BH,Apeldoornseweg,35,,3
-6814BH,Apeldoornseweg,35,,4
-6814BH,Apeldoornseweg,35,,5
-6814BH,Apeldoornseweg,35,,5
-6814BH,Apeldoornseweg,35,,4
-6814BH,Apeldoornseweg,35,,6
-6814BH,Apeldoornseweg,37,,1
-6814BH,Apeldoornseweg,37,,2
-6814BH,Apeldoornseweg,37,,3
-6814BH,Apeldoornseweg,37,,3
-6814BH,Apeldoornseweg,37,,2
-6814BH,Apeldoornseweg,37,,4
-6814BH,Apeldoornseweg,37,,5
-6814BH,Apeldoornseweg,37,,5
-6814BH,Apeldoornseweg,37,,4
-6814BH,Apeldoornseweg,37,,6
-6814BJ,Apeldoornseweg,47,,1
-6814BJ,Apeldoornseweg,47,,1
-6814BJ,Apeldoornseweg,47,,2
-6814BJ,Apeldoornseweg,47,,2
-6814BJ,Apeldoornseweg,47,,3
-6814BJ,Apeldoornseweg,47,,3
-6814BJ,Apeldoornseweg,47,,3
-6814BJ,Apeldoornseweg,47,,2
-6814BJ,Apeldoornseweg,47,,4
-6814BJ,Apeldoornseweg,47,,4
-6814BJ,Apeldoornseweg,47,,5
-6814BJ,Apeldoornseweg,47,,5
-6814BJ,Apeldoornseweg,47,,5
-6814BJ,Apeldoornseweg,47,,4
-6814BJ,Apeldoornseweg,47,,6
-6814BJ,Apeldoornseweg,47,,6
-6814BJ,Apeldoornseweg,51,,1
-6814BJ,Apeldoornseweg,51,,2
-6814BJ,Apeldoornseweg,51,,3
-6814BJ,Apeldoornseweg,51,,4
-6814BJ,Apeldoornseweg,51,,3
-6814BJ,Apeldoornseweg,51,,4
-6814BJ,Apeldoornseweg,51,,5
-6814BJ,Apeldoornseweg,51,,4
-6814BJ,Apeldoornseweg,51,,3
-6814BJ,Apeldoornseweg,51,,6
-6814BJ,Apeldoornseweg,51,,5
-6814AR,Paul Krugerstraat,1,,
-6814AR,Paul Krugerstraat,1,,
-6814AR,Paul Krugerstraat,1,A,
-6814AR,Paul Krugerstraat,1,A,
-6814AR,Paul Krugerstraat,1,,1
-6814AR,Paul Krugerstraat,1,,1
-6814AR,Paul Krugerstraat,1,A,
-6814AR,Paul Krugerstraat,1,A,
-6814AR,Paul Krugerstraat,1,A,
-6814AR,Paul Krugerstraat,1,,2
-6814AR,Paul Krugerstraat,1,B,
-6814AR,Paul Krugerstraat,1,B,
-6814AR,Paul Krugerstraat,1,,3
-6814AS,Paul Krugerstraat,8,,10
-6814AS,Paul Krugerstraat,8,,11
-6814AS,Paul Krugerstraat,8,,12
-6814AS,Paul Krugerstraat,8,,13
-6814AS,Paul Krugerstraat,8,,14
-6814AS,Paul Krugerstraat,8,,15
-6814AS,Paul Krugerstraat,8,,16
-6814AS,Paul Krugerstraat,2,B,
-6814AS,Paul Krugerstraat,2,B,
-6814AS,Paul Krugerstraat,2,B,
-6814AS,Paul Krugerstraat,2,B,
-6814AS,Paul Krugerstraat,2,C,
-6814AS,Paul Krugerstraat,2,C,
-6814AS,Paul Krugerstraat,2,C,
-6814AS,Paul Krugerstraat,2,C,
-6814AS,Paul Krugerstraat,2,D,
-6814AS,Paul Krugerstraat,2,D,
-6814AS,Paul Krugerstraat,2,D,
-6814AS,Paul Krugerstraat,2,D,
-6814AS,Paul Krugerstraat,2,E,
-6814AS,Paul Krugerstraat,2,E,
-6814AS,Paul Krugerstraat,2,E,
-6814AS,Paul Krugerstraat,2,E,
-6814AH,Cronjéstraat,8,,
-6814AH,Cronjéstraat,8,,2
-6814AJ,Bothaplein,7,,
-6814AJ,Bothaplein,7,,
-6814AJ,Bothaplein,7,,1
-6814AJ,Bothaplein,7,,1
-6814AJ,Bothaplein,7,,2
-6814AJ,Bothaplein,7,,2
-6814AJ,Steijnstraat,12,,
-6814AJ,Steijnstraat,12,,1
-6814AJ,Steijnstraat,12,,2
-6814AM,Steijnstraat,12,,
-6814AM,Steijnstraat,12,,
-6814AM,Steijnstraat,12,,1
-6814AM,Steijnstraat,12,,1
-6814AM,Steijnstraat,12,,2
-6814AM,Steijnstraat,12,,2
-6814BA,Sonsbeekweg,8,A,
-6814BA,Sonsbeekweg,8,A,
-6814BA,Sonsbeekweg,8,,
-6814BA,Sonsbeekweg,8,,
-6814BA,Sonsbeekweg,8,,1
-6814BA,Sonsbeekweg,8,,1
-6814BA,Sonsbeekweg,8,,2
-6814BA,Sonsbeekweg,8,,2
-6814BA,Sonsbeekweg,8,,3
-6814BA,Sonsbeekweg,8,,3
-6814BA,Sonsbeekweg,8,,4
-6814BA,Sonsbeekweg,8,,4
-6814BA,Sonsbeekweg,8,,5
-6814BA,Sonsbeekweg,8,,5
-6814BA,Sonsbeekweg,6,,
-6814BA,Sonsbeekweg,6,,1
-6814AA,Sonsbeeksingel,2,,1
-6814AA,Sonsbeeksingel,10,,
-6814BH,Apeldoornseweg,45,,
-6814BH,Apeldoornseweg,45,,
-6814BH,Apeldoornseweg,45,,1
-6814BH,Apeldoornseweg,45,,1
-6814BH,Apeldoornseweg,45,,1
-6814BH,Apeldoornseweg,45,,2
-6814BH,Apeldoornseweg,45,,2
-6814BH,Apeldoornseweg,45,,2
-6814BH,Apeldoornseweg,45,,3
-6814BH,Apeldoornseweg,45,,3
-6814BH,Apeldoornseweg,45,,3
-6814BH,Apeldoornseweg,45,,4
-6814BH,Apeldoornseweg,45,,4
-6814BH,Apeldoornseweg,45,,4
-6814BH,Apeldoornseweg,45,,5
-6814BH,Apeldoornseweg,39,,
-6814BH,Apeldoornseweg,39,,
-6814BH,Apeldoornseweg,39,,1
-6814BH,Apeldoornseweg,39,,1
-6814BH,Apeldoornseweg,39,,2
-6814BH,Apeldoornseweg,39,,2
-6814BH,Apeldoornseweg,39,,3
-6814BH,Apeldoornseweg,39,,3
-6814BH,Apeldoornseweg,39,,2
-6814BH,Apeldoornseweg,39,,
-6814BH,Apeldoornseweg,39,,1
-6814BJ,Apeldoornseweg,51,,1
-6814BJ,Apeldoornseweg,51,,1
-6814BJ,Apeldoornseweg,51,,2
-6814BJ,Apeldoornseweg,53,,
-6814BJ,Apeldoornseweg,53,,
-6814BJ,Apeldoornseweg,53,,1
-6814BJ,Apeldoornseweg,53,,1
-6814BJ,Apeldoornseweg,53,,2
-6814BJ,Apeldoornseweg,53,,2
-6814AS,Paul Krugerstraat,12,,
-6814AS,Paul Krugerstraat,12,,
-6814AS,Paul Krugerstraat,12,,1
-6814AS,Paul Krugerstraat,12,,1
-6814AS,Paul Krugerstraat,12,,2
-6814AS,Paul Krugerstraat,12,,2
-6814AS,Paul Krugerstraat,12,,2
-6814AS,Paul Krugerstraat,12,,1
-6814AS,Paul Krugerstraat,12,,
-6814AD,De la Reijstraat,11,,
-6814AD,De la Reijstraat,11,,1
-6814AJ,Bothaplein,8,,1
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Sonsbeeksingel,1,A,"",6814AA,Arnhem
+Sonsbeeksingel,13,"","",6814AA,Arnhem
+Sonsbeeksingel,3,"","",6814AA,Arnhem
+Sonsbeeksingel,3,A,"",6814AA,Arnhem
+Sonsbeeksingel,4,"","",6814AA,Arnhem
+Sonsbeeksingel,4,"","",6814AA,Arnhem
+Sonsbeeksingel,8,"","",6814AA,Arnhem
+Sonsbeeksingel,17,"","",6814AB,Arnhem
+Sonsbeeksingel,19,"",2,6814AB,Arnhem
+Sonsbeeksingel,19,"",3,6814AB,Arnhem
+Sonsbeeksingel,20,"",1,6814AB,Arnhem
+Sonsbeeksingel,21,"",1,6814AB,Arnhem
+Sonsbeeksingel,21,"",3,6814AB,Arnhem
+Sonsbeeksingel,25,"",10,6814AB,Arnhem
+Sonsbeeksingel,25,"",11,6814AB,Arnhem
+Sonsbeeksingel,25,"",2,6814AB,Arnhem
+Sonsbeeksingel,25,"",6,6814AB,Arnhem
+Sonsbeeksingel,25,"",7,6814AB,Arnhem
+Sonsbeeksingel,25,"",9,6814AB,Arnhem
+Sonsbeeksingel,26,"",10,6814AB,Arnhem
+Sonsbeeksingel,26,"",11,6814AB,Arnhem
+Sonsbeeksingel,26,"",2,6814AB,Arnhem
+Sonsbeeksingel,26,"",3,6814AB,Arnhem
+Sonsbeeksingel,26,"",7,6814AB,Arnhem
+Sonsbeeksingel,27,"",1,6814AB,Arnhem
+Sonsbeeksingel,27,"",10,6814AB,Arnhem
+Sonsbeeksingel,27,"",5,6814AB,Arnhem
+Sonsbeeksingel,28,"",1,6814AB,Arnhem
+Sonsbeeksingel,28,"",2,6814AB,Arnhem
+Sonsbeeksingel,28,"",4,6814AB,Arnhem
+Sonsbeeksingel,28,"",5,6814AB,Arnhem
+Sonsbeeksingel,28,"",7,6814AB,Arnhem
+Sonsbeeksingel,28,"",8,6814AB,Arnhem
+Sonsbeeksingel,31,"","",6814AB,Arnhem
+De la Reijstraat,1,"",1,6814AD,Arnhem
+De la Reijstraat,13,"","",6814AD,Arnhem
+De la Reijstraat,15,"","",6814AD,Arnhem
+De la Reijstraat,3,"",1,6814AD,Arnhem
+De la Reijstraat,2,"","",6814AE,Arnhem
+De la Reijstraat,4,A,"",6814AE,Arnhem
+Cronjéstraat,1,"","",6814AG,Arnhem
+Cronjéstraat,13,A,"",6814AG,Arnhem
+Cronjéstraat,10,"","",6814AH,Arnhem
+Cronjéstraat,6,"","",6814AH,Arnhem
+Cronjéstraat,8,"","",6814AH,Arnhem
+Bothaplein,5,"","",6814AJ,Arnhem
+Steijnstraat,13,"","",6814AK,Arnhem
+Steijnstraat,17,"","",6814AK,Arnhem
+Steijnstraat,7,"","",6814AK,Arnhem
+Steijnstraat,21,"","",6814AL,Arnhem
+Steijnstraat,27,"","",6814AL,Arnhem
+Steijnstraat,29,"","",6814AL,Arnhem
+Steijnstraat,33,"","",6814AL,Arnhem
+Steijnstraat,39,"","",6814AL,Arnhem
+Steijnstraat,4,"","",6814AM,Arnhem
+De Wetstraat,15,"","",6814AN,Arnhem
+De Wetstraat,5,"","",6814AN,Arnhem
+De Wetstraat,9,"","",6814AN,Arnhem
+De Wetstraat,10,"","",6814AP,Arnhem
+De Wetstraat,10,"","",6814AP,Arnhem
+De Wetstraat,12,"","",6814AP,Arnhem
+De Wetstraat,16,"",1,6814AP,Arnhem
+De Wetstraat,16,"",2,6814AP,Arnhem
+De Wetstraat,16,"",3,6814AP,Arnhem
+De Wetstraat,18,"",1,6814AP,Arnhem
+De Wetstraat,2,"","",6814AP,Arnhem
+De Wetstraat,20,"","",6814AP,Arnhem
+De Wetstraat,22,"",2,6814AP,Arnhem
+De Wetstraat,8,"","",6814AP,Arnhem
+Paul Krugerstraat,1,"","",6814AR,Arnhem
+Paul Krugerstraat,1,"","",6814AR,Arnhem
+Paul Krugerstraat,25,"","",6814AR,Arnhem
+Paul Krugerstraat,25,"","",6814AR,Arnhem
+Paul Krugerstraat,29,"","",6814AR,Arnhem
+Paul Krugerstraat,3,"","",6814AR,Arnhem
+Paul Krugerstraat,3,"","",6814AR,Arnhem
+Paul Krugerstraat,31,"","",6814AR,Arnhem
+Paul Krugerstraat,35,"","",6814AR,Arnhem
+Paul Krugerstraat,37,"","",6814AR,Arnhem
+Paul Krugerstraat,5,"","",6814AR,Arnhem
+Paul Krugerstraat,8,"","",6814AS,Arnhem
+Paul Krugerstraat,14,"","",6814AT,Arnhem
+Paul Krugerstraat,22,"","",6814AT,Arnhem
+Paul Krugerstraat,26,"","",6814AT,Arnhem
+Sonsbeekweg,2,"","",6814BA,Arnhem
+Sonsbeekweg,14,"",3,6814BB,Arnhem
+Sonsbeekweg,14,A,1,6814BB,Arnhem
+Sonsbeekweg,14,A,2,6814BB,Arnhem
+Sonsbeekweg,14,A,3,6814BB,Arnhem
+Sonsbeekweg,16,"",10,6814BB,Arnhem
+Sonsbeekweg,16,"",11,6814BB,Arnhem
+Sonsbeekweg,16,"",3,6814BB,Arnhem
+Sonsbeekweg,16,"",6,6814BB,Arnhem
+Sonsbeekweg,16,"",8,6814BB,Arnhem
+Sonsbeekweg,18,"",10,6814BB,Arnhem
+Sonsbeekweg,18,"",4,6814BB,Arnhem
+Sonsbeekweg,18,"",5,6814BB,Arnhem
+Sonsbeekweg,34,"","",6814BD,Arnhem
+Sonsbeekweg,38,"","",6814BD,Arnhem
+Sonsbeekweg,38,"","",6814BD,Arnhem
+Sonsbeekweg,42,A,1,6814BE,Arnhem
+Apeldoornseweg,3,"","",6814BG,Arnhem
+Apeldoornseweg,27,"","",6814BH,Arnhem
+Apeldoornseweg,29,"","",6814BH,Arnhem
+Apeldoornseweg,37,"","",6814BH,Arnhem
+Apeldoornseweg,37,"","",6814BH,Arnhem
+Apeldoornseweg,49,"","",6814BJ,Arnhem
+Apeldoornseweg,55,"","",6814BJ,Arnhem
+Apeldoornseweg,55,"",1,6814BJ,Arnhem
+Apeldoornseweg,65,"",2,6814BJ,Arnhem
+Apeldoornseweg,67,"","",6814BJ,Arnhem
+Zijpendaalseweg,12,"","",6814CK,Arnhem
+Zijpendaalseweg,2,"","",6814CK,Arnhem
+Zijpendaalseweg,4,"","",6814CK,Arnhem
+Zijpendaalseweg,6,"","",6814CK,Arnhem
+Zijpendaalseweg,8,"","",6814CK,Arnhem

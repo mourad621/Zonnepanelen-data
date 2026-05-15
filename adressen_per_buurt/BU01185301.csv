@@ -1,355 +1,184 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7913TJ",49,"",""
-"7913TJ",69,"a",""
-"7913TJ",43,"",""
-"7913TJ",37,"",""
-"7913TJ",37,"a",""
-"7913TJ",53,"",""
-"7913TJ",35,"a",""
-"7913TJ",39,"",""
-"7913TJ",71,"",""
-"7913TJ",37,"b",""
-"7913TJ",71,"a",""
-"7913TJ",53,"a",""
-"7913TJ",55,"",""
-"7913TJ",53,"",""
-"7913TJ",61,"a",""
-"7913TJ",55,"b",""
-"7913TJ",61,"",""
-"7913TJ",57,"",""
-"7913TJ",55,"a",""
-"7913TJ",53,"a",""
-"7913TJ",67,"",""
-"7913TJ",47,"",""
-"7913TJ",69,"",""
-"7913TJ",53,"",""
-"7913TJ",41,"",""
-"7913TJ",59,"",""
-"7913TJ",63,"",""
-"7913TJ",51,"",""
-"7913TJ",61,"a",""
-"7913TJ",73,"",""
-"7913TJ",35,"",""
-"7913TJ",53,"",""
-"7913TJ",73,"a",""
-"7913TJ",75,"",""
-"7913TK",87,"",""
-"7913TK",93,"a",""
-"7913TK",85,"",""
-"7913TK",77,"",""
-"7913TK",89,"",""
-"7913TK",87,"",""
-"7913TK",85,"",""
-"7913TK",85,"",""
-"7913TK",111,"",""
-"7913TK",95,"b",""
-"7913TK",99,"",""
-"7913TK",95,"",""
-"7913TK",93,"",""
-"7913TK",99,"a",""
-"7913TK",91,"a",""
-"7913TK",89,"",""
-"7913TK",83,"",""
-"7913TK",87,"a",""
-"7913TK",79,"",""
-"7913TK",81,"",""
-"7913TK",97,"",""
-"7913TK",95,"a",""
-"7913TK",93,"",""
-"7913TK",93,"",""
-"7913TK",93,"a",""
-"7913TK",109,"",""
-"7913TK",93,"",""
-"7913TK",105,"",""
-"7913TK",101,"",""
-"7913TK",91,"",""
-"7913TK",87,"",""
-"7913TK",93,"",""
-"7913TK",95,"a",""
-"7913TK",93,"a",""
-"7913XH",2,"a",""
-"7913XH",5,"",""
-"7913XH",4,"",""
-"7913XH",5,"",""
-"7913XH",8,"",""
-"7913XH",5,"",""
-"7913XH",7,"a",""
-"7913XH",5,"",""
-"7913XH",3,"",""
-"7913XH",2,"",""
-"7913XH",6,"",""
-"7913XH",1,"c",""
-"7913XH",5,"a",""
-"7913XH",5,"a",""
-"7913XH",2,"a",""
-"7913XH",7,"",""
-"7913XH",1,"d",""
-"7913XH",10,"a",""
-"7913XH",2,"",""
-"7913XH",1,"a",""
-"7913XH",1,"",""
-"7913XH",2,"",""
-"7913XH",7,"a",""
-"7913XH",10,"",""
-"7913XH",8,"a",""
-"7913XH",2,"",""
-"7913XH",1,"b",""
-"7913XH",12,"",""
-"7913XH",9,"",""
-"7913XH",1,"a",""
-"7916RJ",25,"",""
-"7916RJ",9,"",""
-"7916RJ",41,"",""
-"7916RJ",37,"a",""
-"7916RJ",11,"",""
-"7916RJ",29,"",""
-"7916RJ",37,"",""
-"7916RJ",7,"a",""
-"7916RJ",15,"",""
-"7916RJ",21,"",""
-"7916RJ",1,"a",""
-"7916RJ",13,"",""
-"7916RJ",7,"",""
-"7916RJ",5,"",""
-"7916RJ",1,"",""
-"7916RJ",1,"c",""
-"7916RJ",23,"",""
-"7916RJ",1,"b",""
-"7916RJ",3,"",""
-"7916TT",3,"",""
-"7916TT",1,"",""
-"7916TT",4,"",""
-"7916TT",2,"",""
-"7916VA",106,"",""
-"7916VA",110,"",""
-"7916VA",122,"",""
-"7916VA",116,"",""
-"7916VA",108,"",""
-"7916VA",120,"",""
-"7916VA",116,"",""
-"7916VA",116,"",""
-"7916VA",104,"",""
-"7916VA",102,"",""
-"7916VA",124,"",""
-"7916VA",114,"",""
-"7916VB",113,"",""
-"7916VB",113,"a",""
-"7916VB",109,"b",""
-"7916VB",109,"",""
-"7916VB",103,"",""
-"7916VB",101,"",""
-"7916VB",103,"",""
-"7916VB",109,"a",""
-"7916VB",101,"",""
-"7916VB",101,"",""
-"7916VB",111,"",""
-"7916VB",109,"",""
-"7916VB",107,"",""
-"7916VB",102,"",""
-"7916VC",109,"",""
-"7916VC",103,"",""
-"7916VC",107,"",""
-"7916VC",105,"",""
-"7916VC",101,"",""
-"7916VD",104,"",""
-"7916VD",102,"",""
-"7916VD",100,"",""
-"7916VL",108,"",""
-"7916VL",102,"",""
-"7916VL",106,"",""
-"7916VL",106,"",""
-"7916VL",106,"",""
-"7916VL",100,"",""
-"7916VL",100,"a",""
-"7916VL",110,"",""
-"7916VL",104,"",""
-"7916VL",114,"",""
-"7916VM",4,"",""
-"7916VM",14,"",""
-"7916VM",12,"",""
-"7916VM",6,"",""
-"7916VM",4,"a",""
-"7916VM",16,"",""
-"7916VM",8,"",""
-"7916VM",2,"",""
-"7916VN",16,"",""
-"7916VP",5,"a",""
-"7916VP",5,"",""
-"7916VP",5,"",""
-"7916VP",5,"",""
-"7916VP",3,"",""
-"7916VP",5,"",""
-"7916VP",3,"",""
-"7916VP",1,"",""
-"7916VP",3,"",""
-7916VC,Bakkerswijk,101,,
-7916VC,Bakkerswijk,103,,
-7916VC,Bakkerswijk,105,,
-7916VC,Bakkerswijk,107,,
-7916VC,Bakkerswijk,109,,
-7916VB,Brouwerswijk,101,,
-7916VB,Brouwerswijk,102,,
-7916VB,Brouwerswijk,107,,
-7916VB,Brouwerswijk,109,,
-7916VB,Brouwerswijk,109,a,
-7916VB,Brouwerswijk,111,,
-7916VB,Brouwerswijk,113,,
-7916VD,Jan Kielswijk,100,,
-7916VD,Jan Kielswijk,102,,
-7916VD,Jan Kielswijk,104,,
-7916VA,Jufferswijk,102,,
-7916VA,Jufferswijk,104,,
-7916VA,Jufferswijk,106,,
-7916VA,Jufferswijk,108,,
-7916VA,Jufferswijk,110,,
-7916VA,Jufferswijk,114,,
-7916VA,Jufferswijk,116,,
-7916VA,Jufferswijk,120,,
-7916VA,Jufferswijk,122,,
-7916VA,Jufferswijk,124,,
-7916RJ,Marten Kuilerweg,1,,
-7916RJ,Marten Kuilerweg,1,a,
-7916RJ,Marten Kuilerweg,1,b,
-7916RJ,Marten Kuilerweg,1,c,
-7916RJ,Marten Kuilerweg,3,,
-7916RJ,Marten Kuilerweg,5,,
-7916RJ,Marten Kuilerweg,7,,
-7916RJ,Marten Kuilerweg,7,a,
-7916RJ,Marten Kuilerweg,9,,
-7916RJ,Marten Kuilerweg,11,,
-7916RJ,Marten Kuilerweg,13,,
-7916RJ,Marten Kuilerweg,15,,
-7916RJ,Marten Kuilerweg,21,,
-7916RJ,Marten Kuilerweg,23,,
-7916RJ,Marten Kuilerweg,25,,
-7916RJ,Marten Kuilerweg,29,,
-7916RJ,Marten Kuilerweg,37,,
-7916RJ,Marten Kuilerweg,37,a,
-7916RJ,Marten Kuilerweg,41,,
-7916VM,Marten Kuilerweg,2,,
-7916VM,Marten Kuilerweg,4,,
-7916VM,Marten Kuilerweg,4,a,
-7916VM,Marten Kuilerweg,6,,
-7916VM,Marten Kuilerweg,8,,
-7916VM,Marten Kuilerweg,12,,
-7916VM,Marten Kuilerweg,14,,
-7916VM,Marten Kuilerweg,16,,
-7916VN,Schoonhovenweg,16,,
-7913XH,Schoonhovenweg,7,,
-7913XH,Schoonhovenweg,1,,
-7913XH,Schoonhovenweg,1,a,
-7913XH,Schoonhovenweg,1,a,
-7913XH,Schoonhovenweg,2,,
-7913XH,Schoonhovenweg,3,,
-7913XH,Schoonhovenweg,4,,
-7913XH,Schoonhovenweg,5,,
-7913XH,Schoonhovenweg,6,,
-7913XH,Schoonhovenweg,8,,
-7913XH,Schoonhovenweg,9,,
-7913XH,Schoonhovenweg,10,,
-7913XH,Schoonhovenweg,10,a,
-7913XH,Schoonhovenweg,12,,
-7916TT,Schutwijk,1,,
-7916TT,Schutwijk,2,,
-7916TT,Schutwijk,3,,
-7916TT,Schutwijk,4,,
-7916VL,Schutwijk,100,,
-7916VL,Schutwijk,100,a,
-7916VL,Schutwijk,102,,
-7916VL,Schutwijk,104,,
-7916VL,Schutwijk,106,,
-7916VL,Schutwijk,108,,
-7916VL,Schutwijk,110,,
-7916VL,Schutwijk,114,,
-7916VP,Tuindersweg,1,,
-7916VP,Tuindersweg,3,,
-7916VP,Tuindersweg,5,,
-7913TJ,Zuideropgaande,35,,
-7913TJ,Zuideropgaande,35,a,
-7913TJ,Zuideropgaande,37,,
-7913TJ,Zuideropgaande,37,a,
-7913TJ,Zuideropgaande,37,b,
-7913TJ,Zuideropgaande,39,,
-7913TJ,Zuideropgaande,41,,
-7913TJ,Zuideropgaande,43,,
-7913TJ,Zuideropgaande,47,,
-7913TJ,Zuideropgaande,49,,
-7913TJ,Zuideropgaande,51,,
-7913TJ,Zuideropgaande,53,,
-7913TJ,Zuideropgaande,55,,
-7913TJ,Zuideropgaande,57,,
-7913TJ,Zuideropgaande,59,,
-7913TJ,Zuideropgaande,61,,
-7913TJ,Zuideropgaande,63,,
-7913TJ,Zuideropgaande,67,,
-7913TJ,Zuideropgaande,69,,
-7913TJ,Zuideropgaande,71,,
-7913TJ,Zuideropgaande,71,a,
-7913TJ,Zuideropgaande,73,,
-7913TJ,Zuideropgaande,75,,
-7913TK,Zuideropgaande,77,,
-7913TK,Zuideropgaande,81,,
-7913TK,Zuideropgaande,83,,
-7913TK,Zuideropgaande,85,,
-7913TK,Zuideropgaande,87,,
-7913TK,Zuideropgaande,89,,
-7913TK,Zuideropgaande,89,,
-7913TK,Zuideropgaande,91,,
-7913TK,Zuideropgaande,91,a,
-7913TK,Zuideropgaande,93,,
-7913TK,Zuideropgaande,95,,
-7913TK,Zuideropgaande,95,a,
-7913TK,Zuideropgaande,95,b,
-7913TK,Zuideropgaande,97,,
-7913TK,Zuideropgaande,99,,
-7913TK,Zuideropgaande,101,,
-7913TK,Zuideropgaande,105,,
-7913TK,Zuideropgaande,109,,
-7913TK,Zuideropgaande,111,,
-7916VB,Brouwerswijk,109,b,
-7916VA,Jufferswijk,116,,
-7913XH,Schoonhovenweg,7,a,
-7913XH,Schoonhovenweg,1,b,
-7913XH,Schoonhovenweg,1,d,
-7913XH,Schoonhovenweg,1,c,
-7913XH,Schoonhovenweg,8,a,
-7916VL,Schutwijk,106,,
-7916VP,Tuindersweg,3,,
-7916VP,Tuindersweg,5,,
-7916VP,Tuindersweg,5,,
-7913TJ,Zuideropgaande,73,a,
-7913TJ,Zuideropgaande,69,a,
-7913TJ,Zuideropgaande,61,a,
-7913TJ,Zuideropgaande,61,a,
-7913TJ,Zuideropgaande,55,a,
-7913TJ,Zuideropgaande,55,b,
-7913TJ,Zuideropgaande,53,,
-7913TJ,Zuideropgaande,53,,
-7913TJ,Zuideropgaande,53,a,
-7913TJ,Zuideropgaande,53,a,
-7913TK,Zuideropgaande,85,,
-7913TK,Zuideropgaande,87,,
-7913TK,Zuideropgaande,87,a,
-7913TK,Zuideropgaande,93,,
-7913TK,Zuideropgaande,93,a,
-7913TK,Zuideropgaande,93,a,
-7913TK,Zuideropgaande,93,,
-7916VB,Brouwerswijk,109,,
-7916VB,Brouwerswijk,101,,
-7916VB,Brouwerswijk,101,,
-7916VB,Brouwerswijk,103,,
-7916VB,Brouwerswijk,103,,
-7916VB,Brouwerswijk,113,a,
-7916VA,Jufferswijk,108,,
-7913XH,Schoonhovenweg,2,,
-7913XH,Schoonhovenweg,2,,
-7913XH,Schoonhovenweg,2,a,
-7913XH,Schoonhovenweg,2,a,
-7913XH,Schoonhovenweg,5,,
-7913XH,Schoonhovenweg,5,,
-7913XH,Schoonhovenweg,5,a,
-7913XH,Schoonhovenweg,5,a,
-7916VP,Tuindersweg,5,a,
-7913TJ,Zuideropgaande,127,a,
-7913TK,Zuideropgaande,99,a,
-7913TK,Zuideropgaande,79,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zuideropgaande,35,"","",7913TJ,Hollandscheveld
+Zuideropgaande,35,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,37,"","",7913TJ,Hollandscheveld
+Zuideropgaande,37,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,37,B,"",7913TJ,Hollandscheveld
+Zuideropgaande,39,"","",7913TJ,Hollandscheveld
+Zuideropgaande,41,"","",7913TJ,Hollandscheveld
+Zuideropgaande,43,"","",7913TJ,Hollandscheveld
+Zuideropgaande,47,"","",7913TJ,Hollandscheveld
+Zuideropgaande,49,"","",7913TJ,Hollandscheveld
+Zuideropgaande,51,"","",7913TJ,Hollandscheveld
+Zuideropgaande,53,"","",7913TJ,Hollandscheveld
+Zuideropgaande,53,"","",7913TJ,Hollandscheveld
+Zuideropgaande,53,"","",7913TJ,Hollandscheveld
+Zuideropgaande,53,"","",7913TJ,Hollandscheveld
+Zuideropgaande,53,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,53,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,55,"","",7913TJ,Hollandscheveld
+Zuideropgaande,55,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,55,B,"",7913TJ,Hollandscheveld
+Zuideropgaande,57,"","",7913TJ,Hollandscheveld
+Zuideropgaande,59,"","",7913TJ,Hollandscheveld
+Zuideropgaande,61,"","",7913TJ,Hollandscheveld
+Zuideropgaande,61,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,61,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,63,"","",7913TJ,Hollandscheveld
+Zuideropgaande,67,"","",7913TJ,Hollandscheveld
+Zuideropgaande,69,"","",7913TJ,Hollandscheveld
+Zuideropgaande,69,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,71,"","",7913TJ,Hollandscheveld
+Zuideropgaande,71,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,73,"","",7913TJ,Hollandscheveld
+Zuideropgaande,73,A,"",7913TJ,Hollandscheveld
+Zuideropgaande,75,"","",7913TJ,Hollandscheveld
+Zuideropgaande,101,"","",7913TK,Hollandscheveld
+Zuideropgaande,105,"","",7913TK,Hollandscheveld
+Zuideropgaande,109,"","",7913TK,Hollandscheveld
+Zuideropgaande,111,"","",7913TK,Hollandscheveld
+Zuideropgaande,77,"","",7913TK,Hollandscheveld
+Zuideropgaande,79,"","",7913TK,Hollandscheveld
+Zuideropgaande,81,"","",7913TK,Hollandscheveld
+Zuideropgaande,83,"","",7913TK,Hollandscheveld
+Zuideropgaande,85,"","",7913TK,Hollandscheveld
+Zuideropgaande,85,"","",7913TK,Hollandscheveld
+Zuideropgaande,85,"","",7913TK,Hollandscheveld
+Zuideropgaande,87,"","",7913TK,Hollandscheveld
+Zuideropgaande,87,"","",7913TK,Hollandscheveld
+Zuideropgaande,87,"","",7913TK,Hollandscheveld
+Zuideropgaande,87,A,"",7913TK,Hollandscheveld
+Zuideropgaande,89,"","",7913TK,Hollandscheveld
+Zuideropgaande,89,"","",7913TK,Hollandscheveld
+Zuideropgaande,91,"","",7913TK,Hollandscheveld
+Zuideropgaande,91,A,"",7913TK,Hollandscheveld
+Zuideropgaande,93,"","",7913TK,Hollandscheveld
+Zuideropgaande,93,"","",7913TK,Hollandscheveld
+Zuideropgaande,93,"","",7913TK,Hollandscheveld
+Zuideropgaande,93,"","",7913TK,Hollandscheveld
+Zuideropgaande,93,"","",7913TK,Hollandscheveld
+Zuideropgaande,93,A,"",7913TK,Hollandscheveld
+Zuideropgaande,93,A,"",7913TK,Hollandscheveld
+Zuideropgaande,93,A,"",7913TK,Hollandscheveld
+Zuideropgaande,95,"","",7913TK,Hollandscheveld
+Zuideropgaande,95,A,"",7913TK,Hollandscheveld
+Zuideropgaande,95,A,"",7913TK,Hollandscheveld
+Zuideropgaande,95,B,"",7913TK,Hollandscheveld
+Zuideropgaande,97,"","",7913TK,Hollandscheveld
+Zuideropgaande,99,"","",7913TK,Hollandscheveld
+Zuideropgaande,99,A,"",7913TK,Hollandscheveld
+Schoonhovenweg,1,"","",7913XH,Hollandscheveld
+Schoonhovenweg,1,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,1,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,1,B,"",7913XH,Hollandscheveld
+Schoonhovenweg,1,C,"",7913XH,Hollandscheveld
+Schoonhovenweg,1,D,"",7913XH,Hollandscheveld
+Schoonhovenweg,10,"","",7913XH,Hollandscheveld
+Schoonhovenweg,10,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,12,"","",7913XH,Hollandscheveld
+Schoonhovenweg,2,"","",7913XH,Hollandscheveld
+Schoonhovenweg,2,"","",7913XH,Hollandscheveld
+Schoonhovenweg,2,"","",7913XH,Hollandscheveld
+Schoonhovenweg,2,"","",7913XH,Hollandscheveld
+Schoonhovenweg,2,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,2,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,3,"","",7913XH,Hollandscheveld
+Schoonhovenweg,4,"","",7913XH,Hollandscheveld
+Schoonhovenweg,5,"","",7913XH,Hollandscheveld
+Schoonhovenweg,5,"","",7913XH,Hollandscheveld
+Schoonhovenweg,5,"","",7913XH,Hollandscheveld
+Schoonhovenweg,5,"","",7913XH,Hollandscheveld
+Schoonhovenweg,5,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,5,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,6,"","",7913XH,Hollandscheveld
+Schoonhovenweg,7,"","",7913XH,Hollandscheveld
+Schoonhovenweg,7,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,7,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,8,"","",7913XH,Hollandscheveld
+Schoonhovenweg,8,A,"",7913XH,Hollandscheveld
+Schoonhovenweg,9,"","",7913XH,Hollandscheveld
+Marten Kuilerweg,1,"","",7916RJ,Elim
+Marten Kuilerweg,1,A,"",7916RJ,Elim
+Marten Kuilerweg,1,B,"",7916RJ,Elim
+Marten Kuilerweg,1,C,"",7916RJ,Elim
+Marten Kuilerweg,11,"","",7916RJ,Elim
+Marten Kuilerweg,13,"","",7916RJ,Elim
+Marten Kuilerweg,15,"","",7916RJ,Elim
+Marten Kuilerweg,21,"","",7916RJ,Elim
+Marten Kuilerweg,23,"","",7916RJ,Elim
+Marten Kuilerweg,25,"","",7916RJ,Elim
+Marten Kuilerweg,29,"","",7916RJ,Elim
+Marten Kuilerweg,3,"","",7916RJ,Elim
+Marten Kuilerweg,37,"","",7916RJ,Elim
+Marten Kuilerweg,37,A,"",7916RJ,Elim
+Marten Kuilerweg,41,"","",7916RJ,Elim
+Marten Kuilerweg,5,"","",7916RJ,Elim
+Marten Kuilerweg,7,"","",7916RJ,Elim
+Marten Kuilerweg,7,A,"",7916RJ,Elim
+Marten Kuilerweg,9,"","",7916RJ,Elim
+Schutwijk,1,"","",7916TT,Elim
+Schutwijk,2,"","",7916TT,Elim
+Schutwijk,3,"","",7916TT,Elim
+Schutwijk,4,"","",7916TT,Elim
+Jufferswijk,102,"","",7916VA,Elim
+Jufferswijk,104,"","",7916VA,Elim
+Jufferswijk,106,"","",7916VA,Elim
+Jufferswijk,108,"","",7916VA,Elim
+Jufferswijk,110,"","",7916VA,Elim
+Jufferswijk,114,"","",7916VA,Elim
+Jufferswijk,116,"","",7916VA,Elim
+Jufferswijk,116,"","",7916VA,Elim
+Jufferswijk,116,"","",7916VA,Elim
+Jufferswijk,120,"","",7916VA,Elim
+Jufferswijk,122,"","",7916VA,Elim
+Jufferswijk,124,"","",7916VA,Elim
+Brouwerswijk,101,"","",7916VB,Elim
+Brouwerswijk,101,"","",7916VB,Elim
+Brouwerswijk,101,"","",7916VB,Elim
+Brouwerswijk,102,"","",7916VB,Elim
+Brouwerswijk,103,"","",7916VB,Elim
+Brouwerswijk,103,"","",7916VB,Elim
+Brouwerswijk,107,"","",7916VB,Elim
+Brouwerswijk,109,"","",7916VB,Elim
+Brouwerswijk,109,"","",7916VB,Elim
+Brouwerswijk,109,A,"",7916VB,Elim
+Brouwerswijk,109,B,"",7916VB,Elim
+Brouwerswijk,111,"","",7916VB,Elim
+Brouwerswijk,113,"","",7916VB,Elim
+Brouwerswijk,113,A,"",7916VB,Elim
+Bakkerswijk,101,"","",7916VC,Elim
+Bakkerswijk,103,"","",7916VC,Elim
+Bakkerswijk,105,"","",7916VC,Elim
+Bakkerswijk,107,"","",7916VC,Elim
+Bakkerswijk,109,"","",7916VC,Elim
+Jan Kielswijk,100,"","",7916VD,Elim
+Jan Kielswijk,102,"","",7916VD,Elim
+Jan Kielswijk,104,"","",7916VD,Elim
+Schutwijk,100,"","",7916VL,Elim
+Schutwijk,100,A,"",7916VL,Elim
+Schutwijk,102,"","",7916VL,Elim
+Schutwijk,104,"","",7916VL,Elim
+Schutwijk,106,"","",7916VL,Elim
+Schutwijk,106,"","",7916VL,Elim
+Schutwijk,106,"","",7916VL,Elim
+Schutwijk,108,"","",7916VL,Elim
+Schutwijk,110,"","",7916VL,Elim
+Schutwijk,114,"","",7916VL,Elim
+Marten Kuilerweg,12,"","",7916VM,Elim
+Marten Kuilerweg,14,"","",7916VM,Elim
+Marten Kuilerweg,16,"","",7916VM,Elim
+Marten Kuilerweg,2,"","",7916VM,Elim
+Marten Kuilerweg,4,"","",7916VM,Elim
+Marten Kuilerweg,4,A,"",7916VM,Elim
+Marten Kuilerweg,6,"","",7916VM,Elim
+Marten Kuilerweg,8,"","",7916VM,Elim
+Schoonhovenweg,16,"","",7916VN,Elim
+Tuindersweg,1,"","",7916VP,Elim
+Tuindersweg,3,"","",7916VP,Elim
+Tuindersweg,3,"","",7916VP,Elim
+Tuindersweg,3,"","",7916VP,Elim
+Tuindersweg,5,"","",7916VP,Elim
+Tuindersweg,5,"","",7916VP,Elim
+Tuindersweg,5,"","",7916VP,Elim
+Tuindersweg,5,"","",7916VP,Elim
+Tuindersweg,5,A,"",7916VP,Elim

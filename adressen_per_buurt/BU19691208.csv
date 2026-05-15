@@ -1,486 +1,248 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9364TC",12,"",""
-"9364TC",14,"",""
-"9364TC",5,"",""
-"9364TC",5,"",""
-"9364TC",5,"",""
-"9364TC",1,"A",""
-"9364TC",12,"",""
-"9364TC",5,"",""
-"9364TC",12,"",""
-"9364TC",1,"A",""
-"9364TC",8,"",""
-"9364TC",6,"",""
-"9364TC",10,"",""
-"9364TC",4,"",""
-"9364TC",5,"",""
-"9364TC",2,"",""
-"9364TC",12,"",""
-"9364TC",1,"",""
-"9364TC",3,"",""
-"9364TD",4,"",""
-"9364TD",5,"A",""
-"9364TD",7,"",""
-"9364TD",10,"",""
-"9364TD",2,"A",""
-"9364TD",6,"",""
-"9364TD",2,"",""
-"9364TD",6,"",""
-"9364TD",2,"A",""
-"9364TD",4,"",""
-"9364TD",2,"A",""
-"9364TD",4,"",""
-"9364TD",4,"",""
-"9364TD",11,"",""
-"9364TD",1,"",""
-"9364TD",2,"",""
-"9364TD",5,"A",""
-"9364TD",6,"A",""
-"9364TD",9,"",""
-"9364TD",8,"",""
-"9364TD",5,"",""
-"9364TD",12,"",""
-"9364TD",3,"",""
-"9365PK",4,"",""
-"9365PK",1,"",""
-"9365PK",2,"",""
-"9365PK",3,"",""
-"9365TA",1,"",""
-"9365TA",11,"B",""
-"9365TA",21,"",""
-"9365TA",27,"",""
-"9365TA",29,"",""
-"9365TA",3,"",""
-"9365TA",21,"",""
-"9365TA",25,"",""
-"9365TA",21,"",""
-"9365TA",21,"",""
-"9365TA",23,"",""
-"9365TA",4,"",""
-"9365TA",7,"",""
-"9365TA",11,"A",""
-"9365TA",13,"",""
-"9365TA",21,"",""
-"9365TA",15,"",""
-"9365TA",21,"",""
-"9365TA",6,"",""
-"9365TA",15,"A",""
-"9365TA",9,"",""
-"9365TA",2,"",""
-"9365TA",19,"",""
-"9365TA",17,"",""
-"9365TA",5,"",""
-"9365TA",8,"",""
-"9365TB",10,"",""
-"9365TB",9,"",""
-"9365TB",11,"",""
-"9365TB",2,"B",""
-"9365TB",10,"",""
-"9365TB",12,"",""
-"9365TB",4,"",""
-"9365TB",7,"",""
-"9365TB",6,"",""
-"9365TB",2,"B",""
-"9365TB",5,"",""
-"9365TB",10,"",""
-"9365TB",1,"",""
-"9365TB",3,"",""
-"9365TB",2,"A",""
-"9365TB",8,"",""
-"9365TB",1,"",""
-"9365TB",4,"A",""
-"9365TB",1,"",""
-"9365TB",2,"",""
-"9365TC",11,"",""
-"9365TC",1,"",""
-"9365TC",13,"A",""
-"9365TC",29,"",""
-"9365TC",3,"",""
-"9365TC",5,"",""
-"9365TC",13,"",""
-"9365TC",1,"",""
-"9365TC",11,"",""
-"9365TC",17,"",""
-"9365TC",25,"A",""
-"9365TC",11,"",""
-"9365TC",9,"",""
-"9365TC",19,"",""
-"9365TC",7,"",""
-"9365TC",23,"",""
-"9365TC",27,"",""
-"9365TC",25,"",""
-"9365TC",15,"",""
-"9365TC",21,"",""
-"9365TD",22,"A",""
-"9365TD",14,"",""
-"9365TD",26,"A",""
-"9365TD",2,"A",""
-"9365TD",28,"",""
-"9365TD",24,"",""
-"9365TD",12,"A",""
-"9365TD",18,"",""
-"9365TD",12,"",""
-"9365TD",22,"",""
-"9365TD",16,"",""
-"9365TD",20,"",""
-"9365TD",10,"",""
-"9365TD",8,"",""
-"9365TD",26,"",""
-"9365TD",4,"",""
-"9365TD",6,"",""
-"9365TE",13,"",""
-"9365TE",9,"",""
-"9365TE",4,"",""
-"9365TE",7,"",""
-"9365TE",13,"",""
-"9365TE",17,"",""
-"9365TE",3,"",""
-"9365TE",1,"",""
-"9365TE",6,"",""
-"9365TE",13,"",""
-"9365TE",4,"A",""
-"9365TE",15,"",""
-"9365TE",2,"",""
-"9365TE",4,"",""
-"9365TE",5,"",""
-"9365TE",11,"",""
-"9365TH",5,"",""
-"9365TH",3,"",""
-"9365TH",3,"",""
-"9365TH",7,"",""
-"9365TH",1,"",""
-"9365TH",3,"",""
-"9365TH",3,"",""
-"9365TH",1,"",""
-"9365TH",3,"",""
-"9366TC",30,"",""
-"9366TC",34,"",""
-"9366TC",28,"",""
-"9366TC",30,"",""
-"9366TC",28,"",""
-"9366TC",24,"B",""
-"9366TC",24,"A",""
-"9366TC",32,"",""
-"9366TC",30,"",""
-"9366TC",26,"A",""
-"9366TC",14,"",""
-"9366TC",28,"",""
-"9366TC",18,"B",""
-"9366TC",22,"A",""
-"9366TC",28,"",""
-"9366TC",40,"",""
-"9366TC",24,"",""
-"9366TC",22,"C",""
-"9366TC",18,"E",""
-"9366TC",20,"",""
-"9366TC",26,"",""
-"9366TC",26,"B",""
-"9366TC",28,"",""
-"9366TC",28,"",""
-"9366TC",22,"B",""
-"9366TC",18,"C",""
-"9366TC",18,"A",""
-"9366TC",42,"A",""
-"9366TC",30,"A",""
-"9366TC",20,"B",""
-"9366TC",20,"A",""
-"9366TC",36,"",""
-"9366TC",38,"",""
-"9366TC",42,"",""
-"9366TC",26,"C",""
-"9366TC",10,"",""
-"9366TC",42,"B",""
-"9366TC",18,"D",""
-"9366TC",18,"A",""
-"9366TC",20,"D",""
-"9366TC",38,"",""
-"9366TC",22,"",""
-"9366TC",20,"C",""
-"9366TC",18,"",""
-"9366TC",18,"A",""
-"9366TC",12,"",""
-"9366TC",16,"",""
-"9366TE",62,"",""
-"9366TE",66,"",""
-"9366TE",74,"",""
-"9366TE",50,"",""
-"9366TE",70,"",""
-"9366TE",72,"",""
-"9366TE",68,"",""
-"9366TE",60,"",""
-"9366TE",64,"",""
-"9366TE",54,"",""
-"9366TE",56,"",""
-"9366TE",58,"",""
-"9366TE",52,"",""
-"9366TE",44,"A",""
-"9366TE",48,"",""
-"9366TE",46,"",""
-"9366TG",104,"",""
-"9366TG",98,"",""
-"9366TG",76,"",""
-"9366TG",102,"",""
-"9366TG",102,"",""
-"9366TG",78,"",""
-"9366TG",100,"",""
-"9366TG",108,"",""
-"9366TG",90,"",""
-"9366TG",106,"",""
-"9366TG",82,"",""
-"9366TG",84,"",""
-"9366TG",92,"",""
-"9366TG",100,"",""
-"9366TG",90,"",""
-"9366TG",100,"",""
-"9366TG",96,"",""
-"9366TG",92,"",""
-"9366TG",106,"",""
-"9366TG",88,"",""
-"9366TG",106,"",""
-"9366TG",94,"",""
-"9366TG",80,"",""
-"9366TG",86,"",""
-"9366TJ",15,"",""
-"9366TJ",14,"",""
-"9366TJ",14,"",""
-"9366TK",18,"",""
-"9366TK",16,"",""
-"9366TK",16,"",""
-9365TA,'t Pad,1,,
-9365TA,'t Pad,2,,
-9365TA,'t Pad,3,,
-9365TA,'t Pad,4,,
-9365TA,'t Pad,5,,
-9365TA,'t Pad,6,,
-9365TA,'t Pad,7,,
-9365TA,'t Pad,8,,
-9365TA,'t Pad,9,,
-9365TA,'t Pad,11,A,
-9365TA,'t Pad,13,,
-9365TA,'t Pad,15,,
-9365TA,'t Pad,15,A,
-9365TA,'t Pad,17,,
-9365TA,'t Pad,19,,
-9365TA,'t Pad,21,,
-9365TA,'t Pad,23,,
-9365TA,'t Pad,25,,
-9365TA,'t Pad,27,,
-9365TA,'t Pad,29,,
-9366TC,Jonkersvaart,10,,
-9366TC,Jonkersvaart,12,,
-9366TC,Jonkersvaart,14,,
-9366TC,Jonkersvaart,16,,
-9366TC,Jonkersvaart,18,,
-9366TC,Jonkersvaart,20,,
-9366TC,Jonkersvaart,22,,
-9366TC,Jonkersvaart,22,A,
-9366TC,Jonkersvaart,22,B,
-9366TC,Jonkersvaart,22,C,
-9366TC,Jonkersvaart,24,,
-9366TC,Jonkersvaart,24,A,
-9366TC,Jonkersvaart,24,B,
-9366TC,Jonkersvaart,26,,
-9366TC,Jonkersvaart,26,A,
-9366TC,Jonkersvaart,26,B,
-9366TC,Jonkersvaart,26,C,
-9366TC,Jonkersvaart,28,,
-9366TC,Jonkersvaart,30,,
-9366TC,Jonkersvaart,32,,
-9366TC,Jonkersvaart,34,,
-9366TC,Jonkersvaart,36,,
-9366TC,Jonkersvaart,38,,
-9366TC,Jonkersvaart,38,,
-9366TC,Jonkersvaart,40,,
-9366TC,Jonkersvaart,42,,
-9366TC,Jonkersvaart,42,A,
-9366TC,Jonkersvaart,28,,
-9366TC,Jonkersvaart,28,,
-9366TC,Jonkersvaart,18,A,
-9366TC,Jonkersvaart,18,A,
-9366TC,Jonkersvaart,42,B,
-9366TC,Jonkersvaart,30,,
-9366TC,Jonkersvaart,30,A,
-9366TC,Jonkersvaart,18,B,
-9366TC,Jonkersvaart,18,C,
-9366TC,Jonkersvaart,18,D,
-9366TC,Jonkersvaart,18,E,
-9366TC,Jonkersvaart,20,A,
-9366TC,Jonkersvaart,20,B,
-9366TC,Jonkersvaart,20,C,
-9366TC,Jonkersvaart,20,D,
-9366TC,Jonkersvaart,28,,
-9366TE,Jonkersvaart,44,A,
-9366TE,Jonkersvaart,46,,
-9366TE,Jonkersvaart,48,,
-9366TE,Jonkersvaart,50,,
-9366TE,Jonkersvaart,52,,
-9366TE,Jonkersvaart,54,,
-9366TE,Jonkersvaart,56,,
-9366TE,Jonkersvaart,58,,
-9366TE,Jonkersvaart,60,,
-9366TE,Jonkersvaart,62,,
-9366TE,Jonkersvaart,64,,
-9366TE,Jonkersvaart,66,,
-9366TE,Jonkersvaart,68,,
-9366TE,Jonkersvaart,70,,
-9366TE,Jonkersvaart,72,,
-9366TE,Jonkersvaart,74,,
-9366TG,Jonkersvaart,76,,
-9366TG,Jonkersvaart,78,,
-9366TG,Jonkersvaart,80,,
-9366TG,Jonkersvaart,82,,
-9366TG,Jonkersvaart,84,,
-9366TG,Jonkersvaart,86,,
-9366TG,Jonkersvaart,88,,
-9366TG,Jonkersvaart,90,,
-9366TG,Jonkersvaart,92,,
-9366TG,Jonkersvaart,92,,
-9366TG,Jonkersvaart,94,,
-9366TG,Jonkersvaart,96,,
-9366TG,Jonkersvaart,98,,
-9366TG,Jonkersvaart,100,,
-9366TG,Jonkersvaart,102,,
-9366TG,Jonkersvaart,102,,
-9366TG,Jonkersvaart,104,,
-9366TG,Jonkersvaart,106,,
-9366TG,Jonkersvaart,106,,
-9366TG,Jonkersvaart,106,,
-9366TG,Jonkersvaart,108,,
-9366TG,Jonkersvaart,100,,
-9366TJ,Jonkersweg,14,,
-9366TJ,Jonkersweg,14,,
-9366TJ,Jonkersweg,15,,
-9366TK,Zuiderhoeksweg,16,,
-9366TK,Zuiderhoeksweg,16,,
-9366TK,Zuiderhoeksweg,18,,
-9365TA,'t Pad,21,,
-9365TA,'t Pad,21,,
-9365TA,'t Pad,21,,
-9365TA,'t Pad,11,B,
-9365TH,Boersree,1,,
-9365TH,Boersree,1,,
-9365TH,Boersree,3,,
-9365TH,Boersree,5,,
-9365TH,Boersree,7,,
-9365TH,Boersree,3,,
-9365TH,Boersree,3,,
-9365TC,Carolieweg,1,,
-9365TC,Carolieweg,1,,
-9365TC,Carolieweg,3,,
-9365TC,Carolieweg,5,,
-9365TC,Carolieweg,7,,
-9365TC,Carolieweg,9,,
-9365TC,Carolieweg,11,,
-9365TC,Carolieweg,13,,
-9365TC,Carolieweg,15,,
-9365TC,Carolieweg,17,,
-9365TC,Carolieweg,19,,
-9365TC,Carolieweg,21,,
-9365TC,Carolieweg,23,,
-9365TC,Carolieweg,25,,
-9365TC,Carolieweg,25,A,
-9365TC,Carolieweg,27,,
-9365TC,Carolieweg,29,,
-9365TC,Carolieweg,13,A,
-9365TC,Carolieweg,11,,
-9365TD,Carolieweg,2,A,
-9365TD,Carolieweg,4,,
-9365TD,Carolieweg,6,,
-9365TD,Carolieweg,8,,
-9365TD,Carolieweg,10,,
-9365TD,Carolieweg,12,,
-9365TD,Carolieweg,12,A,
-9365TD,Carolieweg,14,,
-9365TD,Carolieweg,16,,
-9365TD,Carolieweg,18,,
-9365TD,Carolieweg,20,,
-9365TD,Carolieweg,22,,
-9365TD,Carolieweg,22,A,
-9365TD,Carolieweg,24,,
-9365TD,Carolieweg,26,,
-9365TD,Carolieweg,26,A,
-9365TD,Carolieweg,28,,
-9365TE,Grouwweg,1,,
-9365TE,Grouwweg,2,,
-9365TE,Grouwweg,3,,
-9365TE,Grouwweg,4,,
-9365TE,Grouwweg,4,,
-9365TE,Grouwweg,4,A,
-9365TE,Grouwweg,5,,
-9365TE,Grouwweg,6,,
-9365TE,Grouwweg,7,,
-9365TE,Grouwweg,9,,
-9365TE,Grouwweg,11,,
-9365TE,Grouwweg,15,,
-9365TE,Grouwweg,17,,
-9365TE,Grouwweg,13,,
-9365TE,Grouwweg,13,,
-9365PK,Hagedoornsweg,1,,
-9365PK,Hagedoornsweg,2,,
-9365PK,Hagedoornsweg,3,,
-9365PK,Hagedoornsweg,4,,
-9365TB,Halbe Wiersemaweg,1,,
-9365TB,Halbe Wiersemaweg,2,,
-9365TB,Halbe Wiersemaweg,2,A,
-9365TB,Halbe Wiersemaweg,2,B,
-9365TB,Halbe Wiersemaweg,2,B,
-9365TB,Halbe Wiersemaweg,2,C,
-9365TB,Halbe Wiersemaweg,3,,
-9365TB,Halbe Wiersemaweg,4,,
-9365TB,Halbe Wiersemaweg,4,A,
-9365TB,Halbe Wiersemaweg,5,,
-9365TB,Halbe Wiersemaweg,6,,
-9365TB,Halbe Wiersemaweg,7,,
-9365TB,Halbe Wiersemaweg,8,,
-9365TB,Halbe Wiersemaweg,9,,
-9365TB,Halbe Wiersemaweg,10,,
-9365TB,Halbe Wiersemaweg,11,,
-9365TB,Halbe Wiersemaweg,12,,
-9365TB,Halbe Wiersemaweg,1,,
-9365TB,Halbe Wiersemaweg,10,,
-9364TD,Jonkersweg,1,,
-9364TD,Jonkersweg,2,,
-9364TD,Jonkersweg,2,,
-9364TD,Jonkersweg,2,A,
-9364TD,Jonkersweg,2,A,
-9364TD,Jonkersweg,3,,
-9364TD,Jonkersweg,4,,
-9364TD,Jonkersweg,5,,
-9364TD,Jonkersweg,6,,
-9364TD,Jonkersweg,7,,
-9364TD,Jonkersweg,8,,
-9364TD,Jonkersweg,9,,
-9364TD,Jonkersweg,10,,
-9364TD,Jonkersweg,11,,
-9364TD,Jonkersweg,12,,
-9364TD,Jonkersweg,6,A,
-9364TD,Jonkersweg,5,A,
-9364TD,Jonkersweg,4,,
-9364TD,Jonkersweg,4,,
-9364TD,Jonkersweg,6,,
-9364TC,Zuiderhoeksweg,1,A,
-9364TC,Zuiderhoeksweg,1,A,
-9364TC,Zuiderhoeksweg,1,,
-9364TC,Zuiderhoeksweg,2,,
-9364TC,Zuiderhoeksweg,3,,
-9364TC,Zuiderhoeksweg,4,,
-9364TC,Zuiderhoeksweg,5,,
-9364TC,Zuiderhoeksweg,6,,
-9364TC,Zuiderhoeksweg,8,,
-9364TC,Zuiderhoeksweg,10,,
-9364TC,Zuiderhoeksweg,12,,
-9364TC,Zuiderhoeksweg,14,,
-9364TC,Zuiderhoeksweg,12,,
-9364TC,Zuiderhoeksweg,12,,
-9364TC,Zuiderhoeksweg,5,,
-9364TC,Zuiderhoeksweg,5,,
-9366TG,Jonkersvaart,88,A,
-9366TG,Jonkersvaart,90,,
-9366TG,Jonkersvaart,90,A,
-9366TG,Jonkersvaart,80,,
-9365TA,'t Pad,11,,
-9365TA,'t Pad,5,,
-9365TB,Halbe Wiersemaweg,2,B,
-9364TD,Jonkersweg,1,A,
-9364TC,Zuiderhoeksweg,2,A,
-9364TC,Zuiderhoeksweg,14,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zuiderhoeksweg,1,"","",9364TC,Nuis
+Zuiderhoeksweg,1,A,"",9364TC,Nuis
+Zuiderhoeksweg,1,A,"",9364TC,Nuis
+Zuiderhoeksweg,10,"","",9364TC,Nuis
+Zuiderhoeksweg,12,"","",9364TC,Nuis
+Zuiderhoeksweg,12,"","",9364TC,Nuis
+Zuiderhoeksweg,12,"","",9364TC,Nuis
+Zuiderhoeksweg,12,"","",9364TC,Nuis
+Zuiderhoeksweg,14,"","",9364TC,Nuis
+Zuiderhoeksweg,2,"","",9364TC,Nuis
+Zuiderhoeksweg,3,"","",9364TC,Nuis
+Zuiderhoeksweg,4,"","",9364TC,Nuis
+Zuiderhoeksweg,5,"","",9364TC,Nuis
+Zuiderhoeksweg,5,"","",9364TC,Nuis
+Zuiderhoeksweg,5,"","",9364TC,Nuis
+Zuiderhoeksweg,5,"","",9364TC,Nuis
+Zuiderhoeksweg,5,"","",9364TC,Nuis
+Zuiderhoeksweg,6,"","",9364TC,Nuis
+Zuiderhoeksweg,8,"","",9364TC,Nuis
+Jonkersweg,1,"","",9364TD,Nuis
+Jonkersweg,10,"","",9364TD,Nuis
+Jonkersweg,11,"","",9364TD,Nuis
+Jonkersweg,12,"","",9364TD,Nuis
+Jonkersweg,2,"","",9364TD,Nuis
+Jonkersweg,2,"","",9364TD,Nuis
+Jonkersweg,2,A,"",9364TD,Nuis
+Jonkersweg,2,A,"",9364TD,Nuis
+Jonkersweg,2,A,"",9364TD,Nuis
+Jonkersweg,3,"","",9364TD,Nuis
+Jonkersweg,4,"","",9364TD,Nuis
+Jonkersweg,4,"","",9364TD,Nuis
+Jonkersweg,4,"","",9364TD,Nuis
+Jonkersweg,4,"","",9364TD,Nuis
+Jonkersweg,5,"","",9364TD,Nuis
+Jonkersweg,5,A,"",9364TD,Nuis
+Jonkersweg,5,A,"",9364TD,Nuis
+Jonkersweg,6,"","",9364TD,Nuis
+Jonkersweg,6,"","",9364TD,Nuis
+Jonkersweg,6,A,"",9364TD,Nuis
+Jonkersweg,7,"","",9364TD,Nuis
+Jonkersweg,8,"","",9364TD,Nuis
+Jonkersweg,9,"","",9364TD,Nuis
+Hagedoornsweg,1,"","",9365PK,Niebert
+Hagedoornsweg,2,"","",9365PK,Niebert
+Hagedoornsweg,3,"","",9365PK,Niebert
+Hagedoornsweg,4,"","",9365PK,Niebert
+'t Pad,1,"","",9365TA,Niebert
+'t Pad,11,A,"",9365TA,Niebert
+'t Pad,11,B,"",9365TA,Niebert
+'t Pad,13,"","",9365TA,Niebert
+'t Pad,15,"","",9365TA,Niebert
+'t Pad,15,A,"",9365TA,Niebert
+'t Pad,17,"","",9365TA,Niebert
+'t Pad,19,"","",9365TA,Niebert
+'t Pad,2,"","",9365TA,Niebert
+'t Pad,21,"","",9365TA,Niebert
+'t Pad,21,"","",9365TA,Niebert
+'t Pad,21,"","",9365TA,Niebert
+'t Pad,21,"","",9365TA,Niebert
+'t Pad,21,"","",9365TA,Niebert
+'t Pad,21,"","",9365TA,Niebert
+'t Pad,23,"","",9365TA,Niebert
+'t Pad,25,"","",9365TA,Niebert
+'t Pad,27,"","",9365TA,Niebert
+'t Pad,29,"","",9365TA,Niebert
+'t Pad,3,"","",9365TA,Niebert
+'t Pad,4,"","",9365TA,Niebert
+'t Pad,5,"","",9365TA,Niebert
+'t Pad,6,"","",9365TA,Niebert
+'t Pad,7,"","",9365TA,Niebert
+'t Pad,8,"","",9365TA,Niebert
+'t Pad,9,"","",9365TA,Niebert
+Halbe Wiersemaweg,1,"","",9365TB,Niebert
+Halbe Wiersemaweg,1,"","",9365TB,Niebert
+Halbe Wiersemaweg,1,"","",9365TB,Niebert
+Halbe Wiersemaweg,10,"","",9365TB,Niebert
+Halbe Wiersemaweg,10,"","",9365TB,Niebert
+Halbe Wiersemaweg,10,"","",9365TB,Niebert
+Halbe Wiersemaweg,11,"","",9365TB,Niebert
+Halbe Wiersemaweg,12,"","",9365TB,Niebert
+Halbe Wiersemaweg,2,"","",9365TB,Niebert
+Halbe Wiersemaweg,2,A,"",9365TB,Niebert
+Halbe Wiersemaweg,2,B,"",9365TB,Niebert
+Halbe Wiersemaweg,2,B,"",9365TB,Niebert
+Halbe Wiersemaweg,3,"","",9365TB,Niebert
+Halbe Wiersemaweg,4,"","",9365TB,Niebert
+Halbe Wiersemaweg,4,A,"",9365TB,Niebert
+Halbe Wiersemaweg,5,"","",9365TB,Niebert
+Halbe Wiersemaweg,6,"","",9365TB,Niebert
+Halbe Wiersemaweg,7,"","",9365TB,Niebert
+Halbe Wiersemaweg,8,"","",9365TB,Niebert
+Halbe Wiersemaweg,9,"","",9365TB,Niebert
+Carolieweg,1,"","",9365TC,Niebert
+Carolieweg,1,"","",9365TC,Niebert
+Carolieweg,11,"","",9365TC,Niebert
+Carolieweg,11,"","",9365TC,Niebert
+Carolieweg,11,"","",9365TC,Niebert
+Carolieweg,13,"","",9365TC,Niebert
+Carolieweg,13,A,"",9365TC,Niebert
+Carolieweg,15,"","",9365TC,Niebert
+Carolieweg,17,"","",9365TC,Niebert
+Carolieweg,19,"","",9365TC,Niebert
+Carolieweg,21,"","",9365TC,Niebert
+Carolieweg,23,"","",9365TC,Niebert
+Carolieweg,25,"","",9365TC,Niebert
+Carolieweg,25,A,"",9365TC,Niebert
+Carolieweg,27,"","",9365TC,Niebert
+Carolieweg,29,"","",9365TC,Niebert
+Carolieweg,3,"","",9365TC,Niebert
+Carolieweg,5,"","",9365TC,Niebert
+Carolieweg,7,"","",9365TC,Niebert
+Carolieweg,9,"","",9365TC,Niebert
+Carolieweg,10,"","",9365TD,Niebert
+Carolieweg,12,"","",9365TD,Niebert
+Carolieweg,12,A,"",9365TD,Niebert
+Carolieweg,14,"","",9365TD,Niebert
+Carolieweg,16,"","",9365TD,Niebert
+Carolieweg,18,"","",9365TD,Niebert
+Carolieweg,2,A,"",9365TD,Niebert
+Carolieweg,20,"","",9365TD,Niebert
+Carolieweg,22,"","",9365TD,Niebert
+Carolieweg,22,A,"",9365TD,Niebert
+Carolieweg,24,"","",9365TD,Niebert
+Carolieweg,26,"","",9365TD,Niebert
+Carolieweg,26,A,"",9365TD,Niebert
+Carolieweg,28,"","",9365TD,Niebert
+Carolieweg,4,"","",9365TD,Niebert
+Carolieweg,6,"","",9365TD,Niebert
+Carolieweg,8,"","",9365TD,Niebert
+Grouwweg,1,"","",9365TE,Niebert
+Grouwweg,11,"","",9365TE,Niebert
+Grouwweg,13,"","",9365TE,Niebert
+Grouwweg,13,"","",9365TE,Niebert
+Grouwweg,13,"","",9365TE,Niebert
+Grouwweg,15,"","",9365TE,Niebert
+Grouwweg,17,"","",9365TE,Niebert
+Grouwweg,2,"","",9365TE,Niebert
+Grouwweg,3,"","",9365TE,Niebert
+Grouwweg,4,"","",9365TE,Niebert
+Grouwweg,4,"","",9365TE,Niebert
+Grouwweg,4,A,"",9365TE,Niebert
+Grouwweg,5,"","",9365TE,Niebert
+Grouwweg,6,"","",9365TE,Niebert
+Grouwweg,7,"","",9365TE,Niebert
+Grouwweg,9,"","",9365TE,Niebert
+Boersree,1,"","",9365TH,Niebert
+Boersree,1,"","",9365TH,Niebert
+Boersree,3,"","",9365TH,Niebert
+Boersree,3,"","",9365TH,Niebert
+Boersree,3,"","",9365TH,Niebert
+Boersree,3,"","",9365TH,Niebert
+Boersree,3,"","",9365TH,Niebert
+Boersree,5,"","",9365TH,Niebert
+Boersree,7,"","",9365TH,Niebert
+Jonkersvaart,10,"","",9366TC,Jonkersvaart
+Jonkersvaart,12,"","",9366TC,Jonkersvaart
+Jonkersvaart,14,"","",9366TC,Jonkersvaart
+Jonkersvaart,16,"","",9366TC,Jonkersvaart
+Jonkersvaart,18,"","",9366TC,Jonkersvaart
+Jonkersvaart,18,A,"",9366TC,Jonkersvaart
+Jonkersvaart,18,A,"",9366TC,Jonkersvaart
+Jonkersvaart,18,A,"",9366TC,Jonkersvaart
+Jonkersvaart,18,B,"",9366TC,Jonkersvaart
+Jonkersvaart,18,C,"",9366TC,Jonkersvaart
+Jonkersvaart,18,D,"",9366TC,Jonkersvaart
+Jonkersvaart,18,E,"",9366TC,Jonkersvaart
+Jonkersvaart,20,"","",9366TC,Jonkersvaart
+Jonkersvaart,20,A,"",9366TC,Jonkersvaart
+Jonkersvaart,20,B,"",9366TC,Jonkersvaart
+Jonkersvaart,20,C,"",9366TC,Jonkersvaart
+Jonkersvaart,20,D,"",9366TC,Jonkersvaart
+Jonkersvaart,22,"","",9366TC,Jonkersvaart
+Jonkersvaart,22,A,"",9366TC,Jonkersvaart
+Jonkersvaart,22,B,"",9366TC,Jonkersvaart
+Jonkersvaart,22,C,"",9366TC,Jonkersvaart
+Jonkersvaart,24,"","",9366TC,Jonkersvaart
+Jonkersvaart,24,A,"",9366TC,Jonkersvaart
+Jonkersvaart,24,B,"",9366TC,Jonkersvaart
+Jonkersvaart,26,"","",9366TC,Jonkersvaart
+Jonkersvaart,26,A,"",9366TC,Jonkersvaart
+Jonkersvaart,26,B,"",9366TC,Jonkersvaart
+Jonkersvaart,26,C,"",9366TC,Jonkersvaart
+Jonkersvaart,28,"","",9366TC,Jonkersvaart
+Jonkersvaart,28,"","",9366TC,Jonkersvaart
+Jonkersvaart,28,"","",9366TC,Jonkersvaart
+Jonkersvaart,28,"","",9366TC,Jonkersvaart
+Jonkersvaart,28,"","",9366TC,Jonkersvaart
+Jonkersvaart,28,"","",9366TC,Jonkersvaart
+Jonkersvaart,30,"","",9366TC,Jonkersvaart
+Jonkersvaart,30,"","",9366TC,Jonkersvaart
+Jonkersvaart,30,"","",9366TC,Jonkersvaart
+Jonkersvaart,30,A,"",9366TC,Jonkersvaart
+Jonkersvaart,32,"","",9366TC,Jonkersvaart
+Jonkersvaart,34,"","",9366TC,Jonkersvaart
+Jonkersvaart,36,"","",9366TC,Jonkersvaart
+Jonkersvaart,38,"","",9366TC,Jonkersvaart
+Jonkersvaart,38,"","",9366TC,Jonkersvaart
+Jonkersvaart,40,"","",9366TC,Jonkersvaart
+Jonkersvaart,42,"","",9366TC,Jonkersvaart
+Jonkersvaart,42,A,"",9366TC,Jonkersvaart
+Jonkersvaart,42,B,"",9366TC,Jonkersvaart
+Jonkersvaart,44,A,"",9366TE,Jonkersvaart
+Jonkersvaart,46,"","",9366TE,Jonkersvaart
+Jonkersvaart,48,"","",9366TE,Jonkersvaart
+Jonkersvaart,50,"","",9366TE,Jonkersvaart
+Jonkersvaart,52,"","",9366TE,Jonkersvaart
+Jonkersvaart,54,"","",9366TE,Jonkersvaart
+Jonkersvaart,56,"","",9366TE,Jonkersvaart
+Jonkersvaart,58,"","",9366TE,Jonkersvaart
+Jonkersvaart,60,"","",9366TE,Jonkersvaart
+Jonkersvaart,62,"","",9366TE,Jonkersvaart
+Jonkersvaart,64,"","",9366TE,Jonkersvaart
+Jonkersvaart,66,"","",9366TE,Jonkersvaart
+Jonkersvaart,68,"","",9366TE,Jonkersvaart
+Jonkersvaart,70,"","",9366TE,Jonkersvaart
+Jonkersvaart,72,"","",9366TE,Jonkersvaart
+Jonkersvaart,74,"","",9366TE,Jonkersvaart
+Jonkersvaart,100,"","",9366TG,Jonkersvaart
+Jonkersvaart,100,"","",9366TG,Jonkersvaart
+Jonkersvaart,100,"","",9366TG,Jonkersvaart
+Jonkersvaart,102,"","",9366TG,Jonkersvaart
+Jonkersvaart,102,"","",9366TG,Jonkersvaart
+Jonkersvaart,104,"","",9366TG,Jonkersvaart
+Jonkersvaart,106,"","",9366TG,Jonkersvaart
+Jonkersvaart,106,"","",9366TG,Jonkersvaart
+Jonkersvaart,106,"","",9366TG,Jonkersvaart
+Jonkersvaart,108,"","",9366TG,Jonkersvaart
+Jonkersvaart,76,"","",9366TG,Jonkersvaart
+Jonkersvaart,78,"","",9366TG,Jonkersvaart
+Jonkersvaart,80,"","",9366TG,Jonkersvaart
+Jonkersvaart,82,"","",9366TG,Jonkersvaart
+Jonkersvaart,84,"","",9366TG,Jonkersvaart
+Jonkersvaart,86,"","",9366TG,Jonkersvaart
+Jonkersvaart,88,"","",9366TG,Jonkersvaart
+Jonkersvaart,90,"","",9366TG,Jonkersvaart
+Jonkersvaart,90,"","",9366TG,Jonkersvaart
+Jonkersvaart,92,"","",9366TG,Jonkersvaart
+Jonkersvaart,92,"","",9366TG,Jonkersvaart
+Jonkersvaart,94,"","",9366TG,Jonkersvaart
+Jonkersvaart,96,"","",9366TG,Jonkersvaart
+Jonkersvaart,98,"","",9366TG,Jonkersvaart
+Jonkersweg,14,"","",9366TJ,Jonkersvaart
+Jonkersweg,14,"","",9366TJ,Jonkersvaart
+Jonkersweg,15,"","",9366TJ,Jonkersvaart
+Zuiderhoeksweg,16,"","",9366TK,Jonkersvaart
+Zuiderhoeksweg,16,"","",9366TK,Jonkersvaart
+Zuiderhoeksweg,18,"","",9366TK,Jonkersvaart

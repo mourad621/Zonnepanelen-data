@@ -1,12 +1,12 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6877AC,Brinkhorsterweg,1,,
-6877AC,Brinkhorsterweg,3,,
-6877AE,Delenseweg,10,,
-6877AE,Delenseweg,85,,
-6877AB,Hoog Delenseweg,1,,
-6877AA,Lebretshoeveweg,1,,
-6877AA,Lebretshoeveweg,2,,
-6877AD,van Beeksweg,1,,
-6877AE,Delenseweg,10,A,
-6877AE,Delenseweg,20,,
-6877AE,Delenseweg,20,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Lebretshoeveweg,1,"","",6877AA,Deelen
+Lebretshoeveweg,2,"","",6877AA,Deelen
+Hoog Delenseweg,1,"","",6877AB,Deelen
+Brinkhorsterweg,1,"","",6877AC,Deelen
+Brinkhorsterweg,3,"","",6877AC,Deelen
+van Beeksweg,1,"","",6877AD,Deelen
+Delenseweg,10,"","",6877AE,Deelen
+Delenseweg,10,A,"",6877AE,Deelen
+Delenseweg,20,"","",6877AE,Deelen
+Delenseweg,20,"","",6877AE,Deelen
+Delenseweg,85,"","",6877AE,Deelen

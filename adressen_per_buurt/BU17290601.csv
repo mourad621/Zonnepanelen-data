@@ -1,92 +1,92 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6276PL,Rode Kruisweg,3,,
-6276PE,Kromsteeg,1,,
-6276PE,Kromsteeg,15,,
-6276PE,Kromsteeg,13,,
-6276PE,Kromsteeg,9,,
-6276PE,Kromsteeg,7,,
-6276PE,Kromsteeg,5,,
-6276PE,Kromsteeg,4,,
-6276PE,Kromsteeg,3,,
-6276PH,Landsraderweg,12,,
-6276PH,Landsraderweg,10,,
-6276PH,Landsraderweg,8,,
-6276PH,Landsraderweg,6,,
-6276PH,Landsraderweg,4,,
-6276PH,Landsraderweg,2,,
-6276PJ,Landsraderweg,9,,
-6276PJ,Landsraderweg,7,,
-6276PJ,Landsraderweg,5,,
-6276PJ,Landsraderweg,3,,
-6276PJ,Landsraderweg,1,,
-6276PG,Vaarzegel,15,,
-6276PG,Vaarzegel,13,,
-6276PG,Vaarzegel,11,,
-6276PG,Vaarzegel,9,,
-6276PG,Vaarzegel,7,,
-6276PG,Vaarzegel,3,,
-6276PG,Vaarzegel,2,,
-6276PG,Vaarzegel,1,,
-6276PA,Flabberweg,1,,
-6276PB,Givelderweg,4,,
-6276PB,Givelderweg,3,,
-6276PB,Givelderweg,2,,
-6276PB,Givelderweg,1,,
-6276PK,Grote Bosweg,12,,
-6276PK,Grote Bosweg,10,,
-6276PK,Grote Bosweg,4,,
-6276PK,Grote Bosweg,3,,
-6276PK,Grote Bosweg,2,,
-6276PK,Grote Bosweg,1,,
-6276PC,Heijenratherweg,22,,
-6276PC,Heijenratherweg,20,,
-6276PC,Heijenratherweg,16,,
-6276PC,Heijenratherweg,14,,
-6276PC,Heijenratherweg,12,,
-6276PC,Heijenratherweg,10,,
-6276PC,Heijenratherweg,8,,
-6276PC,Heijenratherweg,4,,
-6276PD,Heijenratherweg,31,,
-6276PD,Heijenratherweg,29,,
-6276PD,Heijenratherweg,23,,
-6276PD,Heijenratherweg,21,,
-6276PD,Heijenratherweg,19,,
-6276PD,Heijenratherweg,17,,
-6277NS,Rode Kruisweg,1,,
-6276PH,Landsraderweg,10,A,
-6276PE,Kromsteeg,11,,
-6276PE,Kromsteeg,2,,
-6276PH,Landsraderweg,10,A,
-6276PG,Vaarzegel,2,A,
-6276PG,Vaarzegel,17,,
-6276PG,Vaarzegel,5,,
-6276PB,Givelderweg,1,A,
-6276PB,Givelderweg,2,A,
-6276PB,Givelderweg,4,,
-6276PB,Givelderweg,4,A,
-6276PB,Givelderweg,4,,
-6276PB,Givelderweg,4,,1
-6276PB,Givelderweg,2,,1
-6276PK,Grote Bosweg,2,A,
-6276PK,Grote Bosweg,2,B,
-6276PK,Grote Bosweg,4,A,
-6276PK,Grote Bosweg,10,,
-6276PK,Grote Bosweg,6,,
-6276PK,Grote Bosweg,8,,
-6276PK,Grote Bosweg,2,,
-6276PK,Grote Bosweg,2,A,
-6276PK,Grote Bosweg,2,,1
-6276PK,Grote Bosweg,2,,2
-6276PC,Heijenratherweg,18,A,
-6276PC,Heijenratherweg,12,A,
-6276PD,Heijenratherweg,13,,
-6276PD,Heijenratherweg,15,,
-6276PD,Heijenratherweg,29,,
-6276PD,Heijenratherweg,29,,
-6277NT,Heijenratherweg,7,,
-6277NT,Heijenratherweg,2,,
-6277NT,Heijenratherweg,1,,
-6277NT,Heijenratherweg,7,,
-6277NT,Heijenratherweg,2,,
-6277NT,Heijenratherweg,1,,
-6277NS,Rode Kruisweg,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Flabberweg,1,"","",6276PA,Heijenrath
+Givelderweg,1,"","",6276PB,Heijenrath
+Givelderweg,1,A,"",6276PB,Heijenrath
+Givelderweg,2,"","",6276PB,Heijenrath
+Givelderweg,2,"",1,6276PB,Heijenrath
+Givelderweg,2,A,"",6276PB,Heijenrath
+Givelderweg,3,"","",6276PB,Heijenrath
+Givelderweg,4,"","",6276PB,Heijenrath
+Givelderweg,4,"","",6276PB,Heijenrath
+Givelderweg,4,"","",6276PB,Heijenrath
+Givelderweg,4,"",1,6276PB,Heijenrath
+Givelderweg,4,A,"",6276PB,Heijenrath
+Heijenratherweg,10,"","",6276PC,Heijenrath
+Heijenratherweg,12,"","",6276PC,Heijenrath
+Heijenratherweg,12,A,"",6276PC,Heijenrath
+Heijenratherweg,14,"","",6276PC,Heijenrath
+Heijenratherweg,16,"","",6276PC,Heijenrath
+Heijenratherweg,18,A,"",6276PC,Heijenrath
+Heijenratherweg,20,"","",6276PC,Heijenrath
+Heijenratherweg,22,"","",6276PC,Heijenrath
+Heijenratherweg,4,"","",6276PC,Heijenrath
+Heijenratherweg,8,"","",6276PC,Heijenrath
+Heijenratherweg,13,"","",6276PD,Heijenrath
+Heijenratherweg,15,"","",6276PD,Heijenrath
+Heijenratherweg,17,"","",6276PD,Heijenrath
+Heijenratherweg,19,"","",6276PD,Heijenrath
+Heijenratherweg,21,"","",6276PD,Heijenrath
+Heijenratherweg,23,"","",6276PD,Heijenrath
+Heijenratherweg,29,"","",6276PD,Heijenrath
+Heijenratherweg,29,"","",6276PD,Heijenrath
+Heijenratherweg,29,"","",6276PD,Heijenrath
+Heijenratherweg,31,"","",6276PD,Heijenrath
+Kromsteeg,1,"","",6276PE,Heijenrath
+Kromsteeg,11,"","",6276PE,Heijenrath
+Kromsteeg,13,"","",6276PE,Heijenrath
+Kromsteeg,15,"","",6276PE,Heijenrath
+Kromsteeg,2,"","",6276PE,Heijenrath
+Kromsteeg,3,"","",6276PE,Heijenrath
+Kromsteeg,4,"","",6276PE,Heijenrath
+Kromsteeg,5,"","",6276PE,Heijenrath
+Kromsteeg,7,"","",6276PE,Heijenrath
+Kromsteeg,9,"","",6276PE,Heijenrath
+Vaarzegel,1,"","",6276PG,Heijenrath
+Vaarzegel,11,"","",6276PG,Heijenrath
+Vaarzegel,13,"","",6276PG,Heijenrath
+Vaarzegel,15,"","",6276PG,Heijenrath
+Vaarzegel,17,"","",6276PG,Heijenrath
+Vaarzegel,2,"","",6276PG,Heijenrath
+Vaarzegel,2,A,"",6276PG,Heijenrath
+Vaarzegel,3,"","",6276PG,Heijenrath
+Vaarzegel,5,"","",6276PG,Heijenrath
+Vaarzegel,7,"","",6276PG,Heijenrath
+Vaarzegel,9,"","",6276PG,Heijenrath
+Landsraderweg,10,"","",6276PH,Heijenrath
+Landsraderweg,10,A,"",6276PH,Gulpen
+Landsraderweg,10,A,"",6276PH,Gulpen
+Landsraderweg,12,"","",6276PH,Heijenrath
+Landsraderweg,2,"","",6276PH,Heijenrath
+Landsraderweg,4,"","",6276PH,Heijenrath
+Landsraderweg,6,"","",6276PH,Heijenrath
+Landsraderweg,8,"","",6276PH,Heijenrath
+Landsraderweg,1,"","",6276PJ,Heijenrath
+Landsraderweg,3,"","",6276PJ,Heijenrath
+Landsraderweg,5,"","",6276PJ,Heijenrath
+Landsraderweg,7,"","",6276PJ,Heijenrath
+Landsraderweg,9,"","",6276PJ,Heijenrath
+Grote Bosweg,1,"","",6276PK,Heijenrath
+Grote Bosweg,10,"","",6276PK,Heijenrath
+Grote Bosweg,10,"","",6276PK,Heijenrath
+Grote Bosweg,12,"","",6276PK,Heijenrath
+Grote Bosweg,2,"","",6276PK,Heijenrath
+Grote Bosweg,2,"","",6276PK,Heijenrath
+Grote Bosweg,2,"",1,6276PK,Heijenrath
+Grote Bosweg,2,"",2,6276PK,Heijenrath
+Grote Bosweg,2,A,"",6276PK,Heijenrath
+Grote Bosweg,2,A,"",6276PK,Heijenrath
+Grote Bosweg,2,B,"",6276PK,Heijenrath
+Grote Bosweg,3,"","",6276PK,Heijenrath
+Grote Bosweg,4,"","",6276PK,Heijenrath
+Grote Bosweg,4,A,"",6276PK,Heijenrath
+Grote Bosweg,6,"","",6276PK,Heijenrath
+Grote Bosweg,8,"","",6276PK,Heijenrath
+Rode Kruisweg,3,"","",6276PL,Heijenrath
+Rode Kruisweg,1,"","",6277NS,Heijenrath
+Rode Kruisweg,1,"","",6277NS,Heijenrath
+Heijenratherweg,1,"","",6277NT,Heijenrath
+Heijenratherweg,1,"","",6277NT,Heijenrath
+Heijenratherweg,2,"","",6277NT,Heijenrath
+Heijenratherweg,2,"","",6277NT,Heijenrath
+Heijenratherweg,7,"","",6277NT,Heijenrath
+Heijenratherweg,7,"","",6277NT,Heijenrath

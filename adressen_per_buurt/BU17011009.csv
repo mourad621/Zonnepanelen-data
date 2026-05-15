@@ -1,78 +1,78 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8351GA,Bovenweg,2,,
-8351GB,Bovenweg,1,,
-8351GC,Butenweg,1,,
-8351GE,Lege Doakenweg,1,,
-8351HA,Oosteinde,1,,
-8351HA,Oosteinde,3,,
-8351HA,Oosteinde,5,,
-8351HA,Oosteinde,7,,
-8351HA,Oosteinde,9,,
-8351HA,Oosteinde,13,,
-8351HA,Oosteinde,15,,
-8351HA,Oosteinde,17,,
-8351HA,Oosteinde,19,a,
-8351HA,Oosteinde,19,,
-8351HA,Oosteinde,21,,
-8351HA,Oosteinde,25,,
-8351HA,Oosteinde,27,,
-8351HA,Oosteinde,31,,
-8351HA,Oosteinde,33,,
-8351HA,Oosteinde,35,,
-8351HA,Oosteinde,37,a,
-8351HA,Oosteinde,37,,
-8351HA,Oosteinde,39,,
-8351HA,Oosteinde,11,,
-8351HA,Oosteinde,23,,
-8351HA,Oosteinde,25,a,
-8351HH,Oosteinde,42,,
-8351HH,Oosteinde,44,a,
-8351HH,Oosteinde,48,,
-8351HH,Oosteinde,50,,
-8351HH,Oosteinde,52,,
-8351HH,Oosteinde,54,,
-8351HH,Oosteinde,56,,
-8351HH,Oosteinde,58,,
-8351HH,Oosteinde,62,,
-8351HH,Oosteinde,66,,
-8351HH,Oosteinde,68,,
-8351HH,Oosteinde,68,t,
-8351HH,Oosteinde,72,a,
-8351HH,Oosteinde,72,,
-8351HH,Oosteinde,44,,
-8351HH,Oosteinde,46,,
-8351HH,Oosteinde,70,,
-8351HH,Oosteinde,64,,
-8351HW,van Zijlweg,1,,
-8351HW,van Zijlweg,2,,
-8351HW,van Zijlweg,3,a,
-8351HW,van Zijlweg,3,b,
-8351HW,van Zijlweg,3,c,
-8351HW,van Zijlweg,3,,
-8351HW,van Zijlweg,5,,
-8351HA,Wapserouwenweg,2,,
-8351HT,van Helomaweg,1,b,
-8351HT,van Helomaweg,1,,
-8351HT,van Helomaweg,1,a,
-8351HT,van Helomaweg,4,,
-8351HT,van Helomaweg,6,,
-8351HT,van Helomaweg,2,,
-8351HT,van Helomaweg,2,a,
-8351HT,van Helomaweg,3,,
-8351GH,Oosterbutenweg,1,,
-8351GH,Oosterbutenweg,2,,
-8351GH,Oosterbutenweg,2,,
-8351GH,Oosterbutenweg,2,,
-8351HV,Schipslootweg,1,,
-8351HV,Schipslootweg,2,,
-8351HV,Schipslootweg,3,a,
-8351HV,Schipslootweg,3,b,
-8351HV,Schipslootweg,3,,
-8351HV,Schipslootweg,4,,
-8351HV,Schipslootweg,5,a,
-8351HV,Schipslootweg,5,,
-8351HV,Schipslootweg,5,b,
-8351HV,Schipslootweg,6,,
-8351HV,Schipslootweg,8,,
-8351HV,Schipslootweg,3,c,
-8351HV,Schipslootweg,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bovenweg,2,"","",8351GA,Wapserveen
+Bovenweg,1,"","",8351GB,Wapserveen
+Butenweg,1,"","",8351GC,Wapserveen
+Lege Doakenweg,1,"","",8351GE,Wapserveen
+Oosterbutenweg,1,"","",8351GH,Wapserveen
+Oosterbutenweg,2,"","",8351GH,Wapserveen
+Oosterbutenweg,2,"","",8351GH,Wapserveen
+Oosterbutenweg,2,"","",8351GH,Wapserveen
+Oosteinde,1,"","",8351HA,Wapserveen
+Oosteinde,11,"","",8351HA,Wapserveen
+Oosteinde,13,"","",8351HA,Wapserveen
+Oosteinde,15,"","",8351HA,Wapserveen
+Oosteinde,17,"","",8351HA,Wapserveen
+Oosteinde,19,"","",8351HA,Wapserveen
+Oosteinde,19,A,"",8351HA,Wapserveen
+Wapserouwenweg,2,"","",8351HA,Wapserveen
+Oosteinde,21,"","",8351HA,Wapserveen
+Oosteinde,23,"","",8351HA,Wapserveen
+Oosteinde,25,"","",8351HA,Wapserveen
+Oosteinde,25,A,"",8351HA,Wapserveen
+Oosteinde,27,"","",8351HA,Wapserveen
+Oosteinde,3,"","",8351HA,Wapserveen
+Oosteinde,31,"","",8351HA,Wapserveen
+Oosteinde,33,"","",8351HA,Wapserveen
+Oosteinde,35,"","",8351HA,Wapserveen
+Oosteinde,37,"","",8351HA,Wapserveen
+Oosteinde,37,A,"",8351HA,Wapserveen
+Oosteinde,39,"","",8351HA,Wapserveen
+Oosteinde,5,"","",8351HA,Wapserveen
+Oosteinde,7,"","",8351HA,Wapserveen
+Oosteinde,9,"","",8351HA,Wapserveen
+Oosteinde,42,"","",8351HH,Wapserveen
+Oosteinde,44,"","",8351HH,Wapserveen
+Oosteinde,44,A,"",8351HH,Wapserveen
+Oosteinde,46,"","",8351HH,Wapserveen
+Oosteinde,48,"","",8351HH,Wapserveen
+Oosteinde,50,"","",8351HH,Wapserveen
+Oosteinde,52,"","",8351HH,Wapserveen
+Oosteinde,54,"","",8351HH,Wapserveen
+Oosteinde,56,"","",8351HH,Wapserveen
+Oosteinde,58,"","",8351HH,Wapserveen
+Oosteinde,62,"","",8351HH,Wapserveen
+Oosteinde,64,"","",8351HH,Wapserveen
+Oosteinde,66,"","",8351HH,Wapserveen
+Oosteinde,68,"","",8351HH,Wapserveen
+Oosteinde,68,T,"",8351HH,Wapserveen
+Oosteinde,70,"","",8351HH,Wapserveen
+Oosteinde,72,"","",8351HH,Wapserveen
+Oosteinde,72,A,"",8351HH,Wapserveen
+van Helomaweg,1,"","",8351HT,Wapserveen
+van Helomaweg,1,A,"",8351HT,Wapserveen
+van Helomaweg,1,B,"",8351HT,Wapserveen
+van Helomaweg,2,"","",8351HT,Wapserveen
+van Helomaweg,2,A,"",8351HT,Wapserveen
+van Helomaweg,3,"","",8351HT,Wapserveen
+van Helomaweg,4,"","",8351HT,Wapserveen
+van Helomaweg,6,"","",8351HT,Wapserveen
+Schipslootweg,1,"","",8351HV,Wapserveen
+Schipslootweg,2,"","",8351HV,Wapserveen
+Schipslootweg,3,"","",8351HV,Wapserveen
+Schipslootweg,3,A,"",8351HV,Wapserveen
+Schipslootweg,3,B,"",8351HV,Wapserveen
+Schipslootweg,3,C,"",8351HV,Wapserveen
+Schipslootweg,4,"","",8351HV,Wapserveen
+Schipslootweg,5,"","",8351HV,Wapserveen
+Schipslootweg,5,A,"",8351HV,Wapserveen
+Schipslootweg,5,B,"",8351HV,Wapserveen
+Schipslootweg,6,"","",8351HV,Wapserveen
+Schipslootweg,7,"","",8351HV,Wapserveen
+Schipslootweg,8,"","",8351HV,Wapserveen
+van Zijlweg,1,"","",8351HW,Wapserveen
+van Zijlweg,2,"","",8351HW,Wapserveen
+van Zijlweg,3,"","",8351HW,Wapserveen
+van Zijlweg,3,A,"",8351HW,Wapserveen
+van Zijlweg,3,B,"",8351HW,Wapserveen
+van Zijlweg,3,C,"",8351HW,Wapserveen
+van Zijlweg,5,"","",8351HW,Wapserveen

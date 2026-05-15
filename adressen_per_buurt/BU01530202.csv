@@ -1,2359 +1,1188 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7513CA",1,"C",""
-"7513CA",1,"",""
-"7513CA",5,"",""
-"7513CA",1,"D",""
-"7513CA",7,"",""
-"7513CA",15,"",""
-"7513CA",1,"",""
-"7513CA",1,"F",""
-"7513CA",9,"",""
-"7513CA",21,"",""
-"7513CA",13,"",""
-"7513CA",1,"",""
-"7513CA",11,"",""
-"7513CA",25,"",""
-"7513CA",19,"",""
-"7513CA",1,"B",""
-"7513CA",1,"A",""
-"7513CA",3,"",""
-"7513CA",23,"",""
-"7513CA",17,"",""
-"7513CA",1,"E",""
-"7513CB",63,"",""
-"7513CB",43,"",""
-"7513CB",37,"",""
-"7513CB",51,"",""
-"7513CB",39,"",""
-"7513CB",41,"",""
-"7513CB",47,"",""
-"7513CB",57,"",""
-"7513CB",45,"",""
-"7513CB",55,"",""
-"7513CB",35,"",""
-"7513CB",61,"",""
-"7513CB",59,"",""
-"7513CB",53,"",""
-"7513CB",31,"",""
-"7513CB",33,"",""
-"7513CB",27,"",""
-"7513CB",29,"",""
-"7513CB",49,"",""
-"7513CB",65,"",""
-"7513CC",79,"",""
-"7513CC",109,"",""
-"7513CC",93,"",""
-"7513CC",95,"",""
-"7513CC",97,"",""
-"7513CC",111,"",""
-"7513CC",107,"",""
-"7513CC",101,"",""
-"7513CC",71,"",""
-"7513CC",87,"",""
-"7513CC",69,"",""
-"7513CC",103,"",""
-"7513CC",99,"",""
-"7513CC",75,"",""
-"7513CC",81,"",""
-"7513CC",105,"",""
-"7513CC",73,"",""
-"7513CC",67,"",""
-"7513CC",89,"",""
-"7513CC",77,"A",""
-"7513CC",85,"",""
-"7513CC",77,"",""
-"7513CC",83,"",""
-"7513CD",127,"",""
-"7513CD",131,"",""
-"7513CD",129,"",""
-"7513CD",133,"",""
-"7513CD",121,"",""
-"7513CD",125,"",""
-"7513CD",135,"",""
-"7513CD",137,"",""
-"7513CD",119,"",""
-"7513CD",115,"",""
-"7513CD",123,"",""
-"7513CD",113,"",""
-"7513CE",145,"",""
-"7513CE",155,"",""
-"7513CE",159,"",""
-"7513CE",157,"",""
-"7513CE",163,"",""
-"7513CE",165,"",""
-"7513CE",139,"",""
-"7513CE",161,"",""
-"7513CE",143,"",""
-"7513CE",153,"",""
-"7513CE",141,"",""
-"7513CE",149,"",""
-"7513CE",151,"",""
-"7513CE",147,"",""
-"7513CG",191,"",""
-"7513CG",173,"",""
-"7513CG",195,"",""
-"7513CG",175,"",""
-"7513CG",167,"",""
-"7513CG",197,"",""
-"7513CG",189,"",""
-"7513CG",199,"",""
-"7513CG",177,"",""
-"7513CG",201,"",""
-"7513CG",183,"",""
-"7513CG",187,"",""
-"7513CG",181,"",""
-"7513CG",169,"",""
-"7513CG",209,"",""
-"7513CG",171,"",""
-"7513CG",193,"",""
-"7513CG",207,"",""
-"7513CG",203,"",""
-"7513CG",205,"",""
-"7545GA",416,"",""
-"7545GA",384,"",""
-"7545GA",406,"",""
-"7545GA",378,"",""
-"7545GA",376,"",""
-"7545GA",404,"",""
-"7545GA",376,"",""
-"7545GA",376,"",""
-"7545GA",400,"",""
-"7545GA",410,"",""
-"7545GA",386,"",""
-"7545GA",390,"",""
-"7545GA",382,"",""
-"7545GA",392,"",""
-"7545GA",388,"",""
-"7545GA",380,"",""
-"7545GA",394,"",""
-"7545GA",402,"",""
-"7545GA",408,"",""
-"7545GA",410,"A",""
-"7545GA",412,"",""
-"7545GA",396,"",""
-"7545GA",402,"A",""
-"7545GA",398,"",""
-"7545GB",424,"",""
-"7545GB",426,"",""
-"7545GB",494,"",""
-"7545GB",430,"Q",""
-"7545GB",496,"A",""
-"7545GB",496,"",""
-"7545GB",500,"",""
-"7545GB",478,"B",""
-"7545GB",472,"K",""
-"7545GB",430,"R",""
-"7545GB",494,"B",""
-"7545GB",456,"",""
-"7545GB",480,"A",""
-"7545GB",468,"A",""
-"7545GB",474,"B",""
-"7545GB",430,"D",""
-"7545GB",430,"I",""
-"7545GB",490,"B",""
-"7545GB",420,"",""
-"7545GB",430,"K",""
-"7545GB",430,"Q",""
-"7545GB",474,"A",""
-"7545GB",476,"C",""
-"7545GB",492,"",""
-"7545GB",474,"",""
-"7545GB",490,"A",""
-"7545GB",492,"A",""
-"7545GB",472,"C",""
-"7545GB",430,"N",""
-"7545GB",430,"J",""
-"7545GB",430,"J",""
-"7545GB",430,"K",""
-"7545GB",478,"C",""
-"7545GB",430,"P",""
-"7545GB",430,"H",""
-"7545GB",472,"L",""
-"7545GB",472,"F",""
-"7545GB",472,"G",""
-"7545GB",494,"A",""
-"7545GB",482,"C",""
-"7545GB",458,"",""
-"7545GB",484,"B",""
-"7545GB",430,"M",""
-"7545GB",430,"M",""
-"7545GB",430,"L",""
-"7545GB",480,"",""
-"7545GB",480,"B",""
-"7545GB",464,"",""
-"7545GB",476,"B",""
-"7545GB",472,"D",""
-"7545GB",472,"B",""
-"7545GB",468,"A",""
-"7545GB",428,"",""
-"7545GB",492,"B",""
-"7545GB",490,"",""
-"7545GB",430,"L",""
-"7545GB",430,"O",""
-"7545GB",460,"",""
-"7545GB",430,"S",""
-"7545GB",468,"",""
-"7545GB",476,"A",""
-"7545GB",476,"",""
-"7545GB",472,"M",""
-"7545GB",472,"E",""
-"7545GB",472,"H",""
-"7545GB",430,"F",""
-"7545GB",430,"U",""
-"7545GB",480,"C",""
-"7545GB",484,"",""
-"7545GB",430,"S",""
-"7545GB",430,"R",""
-"7545GB",430,"B",""
-"7545GB",478,"A",""
-"7545GB",478,"",""
-"7545GB",482,"",""
-"7545GB",472,"I",""
-"7545GB",486,"B",""
-"7545GB",498,"",""
-"7545GB",418,"",""
-"7545GB",466,"",""
-"7545GB",430,"T",""
-"7545GB",430,"A",""
-"7545GB",488,"B",""
-"7545GB",430,"E",""
-"7545GB",486,"",""
-"7545GB",496,"B",""
-"7545GB",482,"A",""
-"7545GB",486,"C",""
-"7545GB",422,"",""
-"7545GB",430,"C",""
-"7545GB",474,"C",""
-"7545GB",484,"C",""
-"7545GB",472,"A",""
-"7545GB",472,"J",""
-"7545GB",462,"",""
-"7545GB",488,"C",""
-"7545GB",430,"G",""
-"7545GB",484,"A",""
-"7545GB",472,"",""
-"7545GB",486,"A",""
-"7545GB",482,"B",""
-"7545GB",488,"A",""
-"7545GB",488,"",""
-"7545LA",36,"",""
-"7545LA",18,"",""
-"7545LA",46,"",""
-"7545LA",4,"",""
-"7545LA",24,"",""
-"7545LA",40,"",""
-"7545LA",20,"",""
-"7545LA",50,"",""
-"7545LA",8,"",""
-"7545LA",10,"",""
-"7545LA",14,"",""
-"7545LA",44,"",""
-"7545LA",48,"",""
-"7545LA",16,"",""
-"7545LA",12,"",""
-"7545LA",38,"",""
-"7545LA",42,"",""
-"7545LA",2,"",""
-"7545LA",26,"",""
-"7545LA",22,"",""
-"7545LA",34,"",""
-"7545LA",6,"",""
-"7545MP",67,"",""
-"7545MP",55,"",""
-"7545MP",60,"",""
-"7545MP",81,"",""
-"7545MP",73,"",""
-"7545MP",59,"",""
-"7545MP",85,"",""
-"7545MP",83,"",""
-"7545MP",79,"",""
-"7545MP",77,"",""
-"7545MP",75,"",""
-"7545MP",61,"",""
-"7545MP",65,"",""
-"7545MP",63,"",""
-"7545MP",69,"",""
-"7545MP",51,"",""
-"7545MP",57,"",""
-"7545MP",53,"",""
-"7545MP",71,"",""
-"7545MP",50,"",""
-"7545SB",18,"",""
-"7545SB",16,"",""
-"7545SB",9,"",""
-"7545SB",14,"",""
-"7545SB",17,"",""
-"7545SB",11,"",""
-"7545SB",4,"",""
-"7545SB",2,"",""
-"7545SB",8,"",""
-"7545SB",3,"",""
-"7545SB",15,"",""
-"7545SB",7,"",""
-"7545SB",19,"",""
-"7545SB",12,"",""
-"7545SB",1,"",""
-"7545SB",5,"",""
-"7545SB",10,"",""
-"7545SB",20,"",""
-"7545SB",13,"",""
-"7545SB",6,"",""
-"7545SC",45,"",""
-"7545SC",23,"",""
-"7545SC",39,"",""
-"7545SC",43,"A",""
-"7545SC",39,"",""
-"7545SC",11,"",""
-"7545SC",3,"",""
-"7545SC",29,"",""
-"7545SC",41,"",""
-"7545SC",33,"",""
-"7545SC",45,"",""
-"7545SC",39,"",""
-"7545SC",43,"B",""
-"7545SC",43,"",""
-"7545SC",45,"",""
-"7545SC",39,"",""
-"7545SC",15,"",""
-"7545SC",43,"B",""
-"7545SC",43,"",""
-"7545SC",35,"",""
-"7545SC",37,"",""
-"7545SC",43,"",""
-"7545SC",47,"",""
-"7545SC",17,"",""
-"7545SC",43,"",""
-"7545SC",1,"",""
-"7545SC",9,"",""
-"7545SC",41,"",""
-"7545SC",7,"",""
-"7545SC",37,"",""
-"7545SC",43,"A",""
-"7545SC",13,"",""
-"7545SC",41,"",""
-"7545SC",5,"",""
-"7545SC",45,"",""
-"7545SC",47,"",""
-"7545SC",41,"",""
-"7545SE",61,"",""
-"7545SE",91,"",""
-"7545SE",63,"",""
-"7545SE",95,"",""
-"7545SE",57,"",""
-"7545SE",93,"",""
-"7545SE",53,"",""
-"7545SE",59,"",""
-"7545SE",83,"",""
-"7545SE",87,"",""
-"7545SE",85,"",""
-"7545SE",55,"",""
-"7545SE",49,"",""
-"7545SE",89,"",""
-"7545SG",8,"",""
-"7545SG",48,"",""
-"7545SG",4,"",""
-"7545SG",16,"",""
-"7545SG",2,"",""
-"7545SG",56,"",""
-"7545SG",54,"",""
-"7545SG",18,"",""
-"7545SG",6,"",""
-"7545SG",26,"A",""
-"7545SG",58,"",""
-"7545SG",20,"",""
-"7545SG",26,"B",""
-"7545SG",10,"",""
-"7545SG",30,"",""
-"7545SG",38,"",""
-"7545SG",36,"",""
-"7545SG",14,"",""
-"7545SG",40,"",""
-"7545SG",26,"",""
-"7545SG",12,"",""
-"7545SG",50,"",""
-"7545SG",44,"",""
-"7545SG",34,"",""
-"7545SG",42,"",""
-"7545SG",46,"",""
-"7545SG",26,"C",""
-"7545SG",52,"",""
-"7545SG",32,"",""
-"7545SH",66,"",""
-"7545SH",106,"",""
-"7545SH",102,"",""
-"7545SH",112,"",""
-"7545SH",68,"",""
-"7545SH",114,"",""
-"7545SH",70,"",""
-"7545SH",116,"",""
-"7545SH",72,"",""
-"7545SH",110,"",""
-"7545SH",62,"",""
-"7545SH",74,"",""
-"7545SH",76,"",""
-"7545SH",104,"",""
-"7545SH",108,"",""
-"7545SH",60,"",""
-"7545SH",64,"",""
-"7545SJ",29,"",""
-"7545SJ",31,"",""
-"7545SJ",19,"",""
-"7545SJ",13,"",""
-"7545SJ",17,"",""
-"7545SJ",15,"",""
-"7545SJ",25,"",""
-"7545SJ",5,"",""
-"7545SJ",7,"",""
-"7545SJ",27,"",""
-"7545SJ",33,"",""
-"7545SJ",23,"",""
-"7545SJ",35,"",""
-"7545SJ",3,"",""
-"7545SJ",21,"",""
-"7545SK",30,"",""
-"7545SK",24,"",""
-"7545SK",28,"",""
-"7545SK",20,"",""
-"7545SK",4,"",""
-"7545SK",26,"",""
-"7545SK",26,"",""
-"7545SK",18,"",""
-"7545SK",6,"",""
-"7545SK",14,"",""
-"7545SK",22,"",""
-"7545SK",12,"",""
-"7545SK",24,"",""
-"7545SK",8,"",""
-"7545SL",36,"",""
-"7545SL",4,"",""
-"7545SL",3,"",""
-"7545SL",40,"",""
-"7545SL",32,"",""
-"7545SL",42,"",""
-"7545SL",1,"",""
-"7545SL",34,"",""
-"7545SL",1,"",""
-"7545SL",38,"",""
-"7545SL",2,"",""
-"7545SL",44,"",""
-"7545SM",1,"",""
-"7545SM",23,"",""
-"7545SM",9,"",""
-"7545SM",25,"",""
-"7545SM",4,"",""
-"7545SM",3,"",""
-"7545SM",13,"",""
-"7545SM",21,"",""
-"7545SM",5,"",""
-"7545SM",7,"",""
-"7545SM",11,"",""
-"7545SM",19,"",""
-"7545SM",2,"",""
-"7545SM",15,"",""
-"7545SM",17,"",""
-"7545SN",17,"",""
-"7545SN",23,"",""
-"7545SN",35,"",""
-"7545SN",13,"",""
-"7545SN",49,"",""
-"7545SN",29,"",""
-"7545SN",1,"",""
-"7545SN",21,"",""
-"7545SN",45,"",""
-"7545SN",15,"",""
-"7545SN",19,"",""
-"7545SN",7,"",""
-"7545SN",39,"",""
-"7545SN",5,"",""
-"7545SN",41,"",""
-"7545SN",25,"",""
-"7545SN",47,"",""
-"7545SN",43,"",""
-"7545SN",33,"",""
-"7545SN",37,"",""
-"7545SN",31,"",""
-"7545SN",27,"",""
-"7545SP",6,"","11"
-"7545SP",8,"","11"
-"7545SP",6,"","25"
-"7545SP",4,"",""
-"7545SP",2,"",""
-"7545SP",6,"","14"
-"7545SP",6,"","15"
-"7545SP",8,"","12"
-"7545SP",6,"","24"
-"7545SP",6,"","12"
-"7545SP",8,"","23"
-"7545SP",8,"","13"
-"7545SP",6,"","13"
-"7545SP",6,"","22"
-"7545SP",6,"","16"
-"7545SP",30,"",""
-"7545SP",12,"",""
-"7545SP",14,"",""
-"7545SP",8,"","14"
-"7545SP",6,"","27"
-"7545SP",28,"",""
-"7545SP",6,"","32"
-"7545SP",6,"","31"
-"7545SP",10,"",""
-"7545SP",6,"","21"
-"7545SP",8,"","21"
-"7545SP",6,"","18"
-"7545SP",24,"",""
-"7545SP",22,"",""
-"7545SP",32,"",""
-"7545SP",6,"","28"
-"7545SP",26,"",""
-"7545SP",20,"",""
-"7545SP",6,"","17"
-"7545SP",6,"","23"
-"7545SP",6,"","26"
-"7545SP",6,"","19"
-"7545SR",17,"",""
-"7545SR",1,"",""
-"7545SR",13,"",""
-"7545SR",7,"",""
-"7545SR",9,"",""
-"7545SR",15,"",""
-"7545SR",11,"",""
-"7545SR",3,"",""
-"7545SR",19,"",""
-"7545SR",5,"",""
-"7545ST",8,"",""
-"7545ST",10,"",""
-"7545ST",12,"",""
-"7545ST",18,"",""
-"7545ST",14,"",""
-"7545ST",24,"",""
-"7545ST",16,"",""
-"7545ST",22,"",""
-"7545ST",2,"",""
-"7545ST",20,"",""
-"7545ST",4,"",""
-"7545ST",6,"",""
-"7545SV",7,"",""
-"7545SV",11,"",""
-"7545SV",3,"",""
-"7545SV",9,"",""
-"7545SV",15,"",""
-"7545SV",1,"",""
-"7545SV",5,"",""
-"7545SV",13,"",""
-"7545SV",17,"",""
-"7545SW",8,"",""
-"7545SW",16,"",""
-"7545SW",2,"",""
-"7545SW",12,"",""
-"7545SW",4,"",""
-"7545SW",6,"",""
-"7545SW",18,"",""
-"7545SW",14,"",""
-"7545SW",10,"",""
-"7545SX",59,"",""
-"7545SX",53,"",""
-"7545SX",57,"",""
-"7545SX",7,"",""
-"7545SX",55,"",""
-"7545SX",5,"",""
-"7545SX",51,"",""
-"7545SX",47,"",""
-"7545SX",11,"",""
-"7545SX",49,"",""
-"7545SX",31,"",""
-"7545SX",37,"",""
-"7545SX",15,"",""
-"7545SX",13,"",""
-"7545SX",45,"",""
-"7545SX",43,"",""
-"7545SX",27,"",""
-"7545SX",33,"",""
-"7545SX",3,"",""
-"7545SX",35,"",""
-"7545SX",17,"",""
-"7545SX",21,"",""
-"7545SX",25,"",""
-"7545SX",19,"",""
-"7545SX",39,"",""
-"7545SX",9,"",""
-"7545SX",23,"",""
-"7545SX",29,"",""
-"7545SX",41,"",""
-"7545SZ",30,"",""
-"7545SZ",4,"",""
-"7545SZ",28,"",""
-"7545SZ",20,"",""
-"7545SZ",6,"",""
-"7545SZ",8,"",""
-"7545SZ",10,"",""
-"7545SZ",24,"",""
-"7545SZ",16,"",""
-"7545SZ",26,"",""
-"7545SZ",22,"",""
-"7545SZ",18,"",""
-"7545TA",5,"",""
-"7545TA",1,"",""
-"7545TA",8,"",""
-"7545TA",7,"",""
-"7545TA",9,"",""
-"7545TA",6,"",""
-"7545TA",10,"",""
-"7545TA",13,"",""
-"7545TA",11,"",""
-"7545TA",4,"",""
-"7545TA",12,"",""
-"7545TB",19,"",""
-"7545TB",15,"",""
-"7545TB",13,"",""
-"7545TB",14,"",""
-"7545TB",16,"",""
-"7545TB",21,"",""
-"7545TB",11,"",""
-"7545TB",10,"",""
-"7545TB",12,"",""
-"7545TB",17,"",""
-"7545TB",8,"",""
-"7545TB",22,"",""
-"7545TB",20,"",""
-"7545TC",13,"",""
-"7545TC",1,"",""
-"7545TC",21,"",""
-"7545TC",23,"",""
-"7545TC",19,"",""
-"7545TC",15,"",""
-"7545TC",17,"",""
-"7545TC",11,"",""
-"7545TC",9,"",""
-"7545TC",7,"",""
-"7545TC",25,"",""
-"7545TC",3,"",""
-"7545TC",5,"",""
-"7545TD",14,"",""
-"7545TD",6,"",""
-"7545TD",12,"",""
-"7545TD",10,"",""
-"7545TD",4,"",""
-"7545TD",8,"",""
-"7545TD",16,"",""
-"7545TD",18,"",""
-"7545TD",2,"",""
-"7545TD",20,"",""
-"7545TE",11,"",""
-"7545TE",13,"",""
-"7545TE",9,"",""
-"7545TE",1,"",""
-"7545TE",21,"",""
-"7545TE",5,"",""
-"7545TE",19,"",""
-"7545TE",3,"",""
-"7545TE",15,"",""
-"7545TE",7,"",""
-"7545TE",17,"",""
-"7545TG",45,"",""
-"7545TG",27,"",""
-"7545TG",31,"",""
-"7545TG",41,"",""
-"7545TG",37,"",""
-"7545TG",39,"",""
-"7545TG",33,"",""
-"7545TG",49,"",""
-"7545TG",47,"",""
-"7545TG",29,"",""
-"7545TG",23,"",""
-"7545TG",43,"",""
-"7545TG",25,"",""
-"7545TG",35,"",""
-"7545TH",2,"",""
-"7545TH",16,"",""
-"7545TH",6,"",""
-"7545TH",8,"",""
-"7545TH",14,"",""
-"7545TH",4,"",""
-"7545TH",18,"",""
-"7545TH",28,"A",""
-"7545TH",20,"",""
-"7545TH",28,"",""
-"7545TH",28,"A",""
-"7545TH",10,"",""
-"7545TH",12,"",""
-"7545TH",24,"",""
-"7545TH",26,"",""
-"7545TH",22,"",""
-"7545TJ",35,"",""
-"7545TJ",3,"",""
-"7545TJ",7,"",""
-"7545TJ",21,"",""
-"7545TJ",43,"",""
-"7545TJ",9,"",""
-"7545TJ",27,"",""
-"7545TJ",45,"",""
-"7545TJ",47,"",""
-"7545TJ",19,"",""
-"7545TJ",11,"",""
-"7545TJ",17,"",""
-"7545TJ",37,"",""
-"7545TJ",15,"",""
-"7545TJ",27,"",""
-"7545TJ",23,"",""
-"7545TJ",13,"",""
-"7545TJ",25,"",""
-"7545TJ",1,"",""
-"7545TJ",39,"",""
-"7545TJ",41,"",""
-"7545TK",20,"",""
-"7545TK",6,"",""
-"7545TK",12,"",""
-"7545TK",22,"",""
-"7545TK",26,"",""
-"7545TK",24,"",""
-"7545TK",18,"",""
-"7545TK",28,"",""
-"7545TK",8,"",""
-"7545TK",10,"",""
-"7545TK",16,"",""
-"7545TK",4,"",""
-"7545TK",30,"",""
-"7545TK",2,"",""
-"7545TK",14,"",""
-"7545TL",64,"",""
-"7545TL",56,"",""
-"7545TL",62,"",""
-"7545TL",36,"",""
-"7545TL",40,"",""
-"7545TL",38,"",""
-"7545TL",58,"",""
-"7545TL",50,"",""
-"7545TL",54,"",""
-"7545TL",44,"",""
-"7545TL",34,"",""
-"7545TL",32,"",""
-"7545TL",52,"",""
-"7545TL",60,"",""
-"7545TL",48,"",""
-"7545TL",46,"",""
-"7545TL",42,"",""
-"7545TM",25,"",""
-"7545TM",17,"",""
-"7545TM",21,"",""
-"7545TM",19,"",""
-"7545TM",1,"",""
-"7545TM",39,"",""
-"7545TM",41,"",""
-"7545TM",15,"",""
-"7545TM",35,"",""
-"7545TM",13,"",""
-"7545TM",23,"",""
-"7545TM",3,"",""
-"7545TM",43,"",""
-"7545TM",37,"",""
-"7545TM",27,"",""
-"7545TM",5,"",""
-"7545TM",9,"",""
-"7545TM",31,"",""
-"7545TM",33,"",""
-"7545TM",7,"",""
-"7545TM",29,"",""
-"7545TM",11,"",""
-"7545TN",32,"",""
-"7545TN",14,"",""
-"7545TN",22,"",""
-"7545TN",30,"A",""
-"7545TN",6,"",""
-"7545TN",24,"",""
-"7545TN",8,"",""
-"7545TN",34,"",""
-"7545TN",16,"",""
-"7545TN",10,"",""
-"7545TN",12,"",""
-"7545TN",4,"",""
-"7545TN",18,"",""
-"7545TN",20,"",""
-"7545TN",26,"",""
-"7545TN",28,"",""
-"7545TN",30,"",""
-"7545TN",2,"",""
-"7545TP",35,"",""
-"7545TP",49,"",""
-"7545TP",27,"",""
-"7545TP",31,"A",""
-"7545TP",1,"",""
-"7545TP",47,"",""
-"7545TP",31,"A",""
-"7545TP",39,"",""
-"7545TP",31,"",""
-"7545TP",31,"",""
-"7545TP",3,"",""
-"7545TP",45,"",""
-"7545TP",27,"A",""
-"7545TP",33,"",""
-"7545TP",37,"",""
-"7545TP",43,"",""
-"7545TP",29,"A",""
-"7545TP",31,"",""
-"7545TP",31,"",""
-"7545TP",41,"",""
-"7545TP",29,"",""
-"7545TR",10,"A",""
-"7545TR",12,"",""
-"7545TR",2,"",""
-"7545TR",10,"",""
-"7545TR",12,"A",""
-"7545TR",20,"",""
-"7545TR",26,"",""
-"7545TR",14,"",""
-"7545TR",18,"",""
-"7545TR",24,"",""
-"7545TR",30,"",""
-"7545TR",8,"",""
-"7545TR",22,"",""
-"7545TR",6,"",""
-"7545TR",4,"",""
-"7545TR",28,"",""
-"7545TR",16,"",""
-"7545TS",32,"",""
-"7545TS",34,"",""
-"7545TS",56,"",""
-"7545TS",50,"",""
-"7545TS",40,"",""
-"7545TS",58,"",""
-"7545TS",44,"",""
-"7545TS",36,"",""
-"7545TS",48,"",""
-"7545TS",54,"",""
-"7545TS",52,"",""
-"7545TS",42,"",""
-"7545TS",38,"",""
-"7545TS",46,"",""
-"7545TT",4,"",""
-"7545TT",3,"",""
-"7545TT",9,"",""
-"7545TT",8,"",""
-"7545TT",10,"",""
-"7545TT",2,"",""
-"7545TT",11,"",""
-"7545TT",5,"",""
-"7545TT",1,"",""
-"7545TT",12,"",""
-"7545TT",7,"",""
-"7545TT",6,"",""
-"7545TV",12,"",""
-"7545TV",6,"A",""
-"7545TV",5,"",""
-"7545TV",11,"",""
-"7545TV",8,"",""
-"7545TV",4,"",""
-"7545TV",9,"",""
-"7545TV",1,"",""
-"7545TV",3,"",""
-"7545TV",10,"",""
-"7545TV",6,"",""
-"7545TV",7,"",""
-"7545TV",2,"",""
-"7545TW",9,"",""
-"7545TW",3,"",""
-"7545TW",33,"",""
-"7545TW",1,"",""
-"7545TW",29,"",""
-"7545TW",7,"",""
-"7545TW",5,"",""
-"7545TW",11,"",""
-"7545TW",23,"",""
-"7545TW",13,"",""
-"7545TW",25,"",""
-"7545TW",31,"",""
-"7545TW",17,"",""
-"7545TW",27,"",""
-"7545TW",19,"",""
-"7545TW",15,"",""
-"7545TW",21,"",""
-"7545TX",30,"",""
-"7545TX",18,"",""
-"7545TX",2,"",""
-"7545TX",10,"",""
-"7545TX",28,"",""
-"7545TX",22,"",""
-"7545TX",8,"",""
-"7545TX",4,"",""
-"7545TX",24,"",""
-"7545TX",20,"",""
-"7545TX",12,"",""
-"7545TX",6,"",""
-"7545TX",16,"",""
-"7545TX",26,"",""
-"7545TX",14,"",""
-"7545VA",27,"",""
-"7545VA",39,"",""
-"7545VA",37,"",""
-"7545VA",17,"",""
-"7545VA",11,"",""
-"7545VA",19,"",""
-"7545VA",13,"",""
-"7545VA",21,"",""
-"7545VA",15,"",""
-"7545VA",31,"",""
-"7545VA",35,"",""
-"7545VA",9,"",""
-"7545VA",23,"",""
-"7545VA",29,"",""
-"7545VA",5,"",""
-"7545VA",33,"",""
-"7545VA",3,"",""
-"7545VA",25,"",""
-"7545VA",7,"",""
-"7545VA",1,"",""
-"7545VB",41,"",""
-"7545VB",43,"",""
-"7545VB",49,"",""
-"7545VB",45,"",""
-"7545VB",51,"",""
-"7545VB",59,"",""
-"7545VB",47,"",""
-"7545VB",67,"",""
-"7545VB",63,"",""
-"7545VB",73,"",""
-"7545VB",55,"",""
-"7545VB",61,"",""
-"7545VB",57,"",""
-"7545VB",53,"",""
-"7545VB",65,"",""
-"7545VB",77,"",""
-"7545VB",69,"",""
-"7545VB",79,"",""
-"7545VB",71,"",""
-"7545VB",75,"",""
-"7545VB",81,"",""
-"7545VC",85,"",""
-"7545VC",99,"",""
-"7545VC",107,"",""
-"7545VC",125,"",""
-"7545VC",117,"",""
-"7545VC",83,"",""
-"7545VC",109,"",""
-"7545VC",91,"",""
-"7545VC",123,"",""
-"7545VC",115,"",""
-"7545VC",119,"",""
-"7545VC",129,"",""
-"7545VC",111,"",""
-"7545VC",101,"",""
-"7545VC",121,"",""
-"7545VC",89,"",""
-"7545VC",131,"",""
-"7545VC",105,"",""
-"7545VC",127,"",""
-"7545VC",87,"",""
-"7545VC",113,"",""
-"7545VC",95,"",""
-"7545VC",103,"",""
-"7545VC",93,"",""
-"7545VC",97,"",""
-"7545VD",20,"",""
-"7545VD",18,"",""
-"7545VD",6,"",""
-"7545VD",12,"",""
-"7545VD",24,"",""
-"7545VD",8,"",""
-"7545VD",4,"",""
-"7545VD",10,"",""
-"7545VD",16,"",""
-"7545VD",22,"",""
-"7545VD",2,"",""
-"7545VD",28,"",""
-"7545VD",26,"",""
-"7545VD",28,"",""
-"7545VD",14,"",""
-"7545VE",32,"",""
-"7545VE",30,"",""
-"7545VE",40,"",""
-"7545VE",42,"",""
-"7545VE",48,"",""
-"7545VE",68,"",""
-"7545VE",34,"",""
-"7545VE",46,"",""
-"7545VE",66,"",""
-"7545VE",60,"",""
-"7545VE",58,"",""
-"7545VE",44,"",""
-"7545VE",54,"",""
-"7545VE",50,"",""
-"7545VE",36,"",""
-"7545VE",38,"",""
-"7545VE",64,"",""
-"7545VE",70,"",""
-"7545VE",74,"",""
-"7545VE",56,"",""
-"7545VE",52,"",""
-"7545VE",62,"",""
-"7545VG",6,"",""
-"7545VG",5,"",""
-"7545VG",7,"",""
-"7545VG",4,"",""
-"7545VG",2,"",""
-"7545VG",11,"A",""
-"7545VG",3,"",""
-"7545VG",15,"",""
-"7545VG",1,"",""
-"7545VG",9,"",""
-"7545VG",11,"",""
-"7545VG",13,"",""
-"7545VG",10,"",""
-"7545VG",14,"",""
-"7545VG",11,"A",""
-"7545VG",16,"",""
-"7545VG",8,"",""
-"7545VG",12,"",""
-"7545VH",21,"",""
-"7545VH",18,"",""
-"7545VH",20,"",""
-"7545VH",25,"",""
-"7545VH",26,"",""
-"7545VH",19,"",""
-"7545VH",24,"",""
-"7545VH",22,"",""
-"7545VH",17,"",""
-"7545VH",23,"",""
-"7545VJ",9,"",""
-"7545VJ",3,"",""
-"7545VJ",21,"",""
-"7545VJ",19,"",""
-"7545VJ",27,"",""
-"7545VJ",1,"A",""
-"7545VJ",17,"",""
-"7545VJ",29,"",""
-"7545VJ",15,"",""
-"7545VJ",7,"",""
-"7545VJ",1,"",""
-"7545VJ",23,"",""
-"7545VJ",5,"",""
-"7545VJ",25,"",""
-"7545VJ",13,"",""
-"7545VJ",11,"",""
-"7545VK",51,"",""
-"7545VK",45,"",""
-"7545VK",49,"",""
-"7545VK",39,"",""
-"7545VK",59,"",""
-"7545VK",43,"",""
-"7545VK",47,"",""
-"7545VK",55,"",""
-"7545VK",57,"",""
-"7545VK",53,"",""
-"7545VK",41,"",""
-"7545VK",37,"",""
-"7545VK",31,"",""
-"7545VK",35,"",""
-"7545VK",33,"",""
-"7545VL",8,"",""
-"7545VL",14,"",""
-"7545VL",4,"",""
-"7545VL",2,"",""
-"7545VL",36,"",""
-"7545VL",26,"",""
-"7545VL",16,"",""
-"7545VL",34,"",""
-"7545VL",38,"",""
-"7545VL",6,"",""
-"7545VL",20,"",""
-"7545VL",12,"",""
-"7545VL",10,"",""
-"7545VL",32,"",""
-"7545VL",28,"",""
-"7545VL",40,"",""
-"7545VL",18,"",""
-"7545VL",22,"",""
-"7545VL",30,"",""
-"7545VM",52,"",""
-"7545VM",60,"",""
-"7545VM",44,"",""
-"7545VM",66,"",""
-"7545VM",54,"",""
-"7545VM",64,"",""
-"7545VM",50,"",""
-"7545VM",48,"",""
-"7545VM",42,"",""
-"7545VM",56,"",""
-"7545VM",68,"",""
-"7545VM",58,"",""
-"7545VM",62,"",""
-"7545VM",46,"",""
-"7545VM",74,"",""
-"7545VM",70,"",""
-"7545VM",72,"",""
-"7545WH",40,"",""
-"7545WH",42,"",""
-"7545WH",60,"",""
-"7545WH",52,"",""
-"7545WH",54,"",""
-"7545WH",58,"",""
-"7545WH",38,"",""
-"7545WH",30,"",""
-"7545WH",56,"",""
-"7545WH",28,"",""
-"7545WH",48,"",""
-"7545WH",62,"",""
-"7545WH",34,"",""
-"7545WH",50,"",""
-"7545WH",32,"",""
-"7545WH",46,"",""
-"7545WH",44,"",""
-"7545WH",36,"",""
-"7545WJ",88,"",""
-"7545WJ",98,"",""
-"7545WJ",100,"",""
-"7545WJ",94,"",""
-"7545WJ",76,"",""
-"7545WJ",84,"",""
-"7545WJ",92,"",""
-"7545WJ",72,"",""
-"7545WJ",90,"",""
-"7545WJ",78,"",""
-"7545WJ",96,"",""
-"7545WJ",86,"",""
-"7545WJ",82,"",""
-"7545WJ",80,"",""
-"7545WJ",74,"",""
-"7545WJ",68,"",""
-"7545WJ",70,"",""
-"7545WJ",66,"",""
-"7545WJ",64,"",""
-"7545WK",108,"",""
-"7545WK",148,"",""
-"7545WK",118,"",""
-"7545WK",150,"",""
-"7545WK",132,"",""
-"7545WK",126,"",""
-"7545WK",110,"",""
-"7545WK",116,"",""
-"7545WK",112,"",""
-"7545WK",102,"",""
-"7545WK",140,"",""
-"7545WK",138,"",""
-"7545WK",106,"",""
-"7545WK",120,"",""
-"7545WK",130,"",""
-"7545WK",146,"",""
-"7545WK",152,"",""
-"7545WK",128,"",""
-"7545WK",124,"",""
-"7545WK",136,"",""
-"7545WK",114,"",""
-"7545WK",134,"",""
-"7545WK",122,"",""
-"7545WK",104,"",""
-"7545WK",142,"",""
-"7545WL",170,"",""
-"7545WL",184,"",""
-"7545WL",154,"A",""
-"7545WL",154,"",""
-"7545WL",172,"D",""
-"7545WL",172,"E",""
-"7545WL",172,"H",""
-"7545WL",154,"",""
-"7545WL",158,"",""
-"7545WL",172,"",""
-"7545WL",154,"",""
-"7545WL",172,"I",""
-"7545WL",172,"G",""
-"7545WL",178,"",""
-"7545WL",168,"",""
-"7545WL",172,"A",""
-"7545WL",172,"J",""
-"7545WL",180,"",""
-"7545WL",172,"K",""
-"7545WL",172,"C",""
-"7545WL",160,"",""
-"7545WL",166,"",""
-"7545WL",162,"",""
-"7545WL",200,"",""
-"7545WL",172,"F",""
-"7545WL",182,"",""
-"7545WL",186,"",""
-"7545WL",172,"B",""
-"7545WN",224,"",""
-"7545WN",232,"",""
-"7545WN",220,"",""
-"7545WN",226,"",""
-"7545WN",214,"",""
-"7545WN",212,"",""
-"7545WN",208,"",""
-"7545WN",202,"",""
-"7545WN",218,"",""
-"7545WN",230,"",""
-"7545WN",206,"",""
-"7545WN",216,"",""
-"7545WN",234,"",""
-"7545WN",228,"",""
-"7545WN",204,"",""
-"7545WN",222,"",""
-"7545WN",210,"",""
-7545ST,Dr. Eekmanstraat,8,,
-7545TT,Pathmosplein,10,,
-7545SJ,Bloemendaalstraat,27,,
-7545SJ,Bloemendaalstraat,25,,
-7545TW,Bombazijnstraat,27,,
-7545TX,Bombazijnstraat,6,,
-7545SN,Buitenweg,37,,
-7545SP,Buitenweg,6,,17
-7545SP,Buitenweg,6,,11
-7545SP,Buitenweg,6,,23
-7545SP,Buitenweg,6,,21
-7545SZ,Eversstraat,22,,
-7545SM,Ruwerstraat,23,,
-7545VA,Willem de Clercqstraat,19,,
-7545VC,Willem de Clercqstraat,121,,
-7545VE,Willem de Clercqstraat,54,,
-7545WH,Dennenweg,42,,
-7545WJ,Dennenweg,72,,
-7545WK,Dennenweg,148,,
-7545WL,Dennenweg,172,H,
-7545VG,Drukkerstraat,15,,
-7545VG,Drukkerstraat,3,,
-7545VG,Drukkerstraat,11,A,
-7545MP,Tweede Emmastraat,67,,
-7513CD,Pathmossingel,119,,
-7513CG,Pathmossingel,205,,
-7513CG,Pathmossingel,167,,
-7513CG,Pathmossingel,189,,
-7545VK,Pathmosstraat,59,,
-7545VK,Pathmosstraat,39,,
-7545VM,Pathmosstraat,72,,
-7545TA,Goormaatweg,6,,
-7545GA,Haaksbergerstraat,396,,
-7545GB,Haaksbergerstraat,486,B,
-7545GB,Haaksbergerstraat,492,B,
-7545GB,Haaksbergerstraat,496,,
-7545GB,Haaksbergerstraat,466,,
-7545GB,Haaksbergerstraat,430,Q,
-7545GB,Haaksbergerstraat,430,Q,
-7545TD,Dr. Kostersstraat,8,,
-7545LA,B.W. ter Kuilestraat,38,,
-7545LA,B.W. ter Kuilestraat,24,,
-7545TM,Ververstraat,33,,
-7545TM,Ververstraat,27,,
-7545TN,Ververstraat,14,,
-7545TJ,Weverstraat,23,,
-7545TJ,Weverstraat,17,,
-7545TR,Spinnerstraat,2,,
-7545TS,Spinnerstraat,58,,
-7545SB,Vorstmanplantsoen,16,,
-7545SB,Vorstmanplantsoen,12,,
-7545TE,Sterkerstraat,15,,
-7545TE,Sterkerstraat,17,,
-7545TE,Sterkerstraat,11,,
-7545TG,Sterkerstraat,47,,
-7545TG,Sterkerstraat,43,,
-7545TG,Sterkerstraat,49,,
-7545SG,Usselerweg,2,,
-7545SH,Usselerweg,110,,
-7545SH,Usselerweg,74,,
-7545SR,Dr. Eekmanstraat,7,,
-7545SR,Dr. Eekmanstraat,11,,
-7545TV,Spinnerplein,7,,
-7545TV,Spinnerplein,2,,
-7545TV,Spinnerplein,10,,
-7545SJ,Bloemendaalstraat,17,,
-7545SJ,Bloemendaalstraat,5,,
-7545SJ,Bloemendaalstraat,3,,
-7545SL,Bloemendaalstraat,38,,
-7545SL,Bloemendaalstraat,34,,
-7545SN,Buitenweg,29,,
-7545SN,Buitenweg,19,,
-7545SN,Buitenweg,25,,
-7545SP,Buitenweg,8,,12
-7545SP,Buitenweg,24,,
-7545SX,Eversstraat,37,,
-7545SX,Eversstraat,17,,
-7545SX,Eversstraat,23,,
-7545SX,Eversstraat,31,,
-7545SX,Eversstraat,5,,
-7545SX,Eversstraat,3,,
-7545SZ,Eversstraat,18,,
-7545SZ,Eversstraat,26,,
-7545SM,Ruwerstraat,1,,
-7545VA,Willem de Clercqstraat,35,,
-7545VA,Willem de Clercqstraat,11,,
-7545VA,Willem de Clercqstraat,25,,
-7545VB,Willem de Clercqstraat,59,,
-7545VB,Willem de Clercqstraat,75,,
-7545VB,Willem de Clercqstraat,41,,
-7545VB,Willem de Clercqstraat,53,,
-7545VB,Willem de Clercqstraat,51,,
-7545VC,Willem de Clercqstraat,111,,
-7545VC,Willem de Clercqstraat,117,,
-7545VC,Willem de Clercqstraat,131,,
-7545VC,Willem de Clercqstraat,101,,
-7545VD,Willem de Clercqstraat,24,,
-7545VE,Willem de Clercqstraat,38,,
-7545VE,Willem de Clercqstraat,42,,
-7545VE,Willem de Clercqstraat,70,,
-7545VE,Willem de Clercqstraat,58,,
-7545VE,Willem de Clercqstraat,50,,
-7545SV,Van Coeverdenstraat,9,,
-7545WH,Dennenweg,62,,
-7545WH,Dennenweg,28,,
-7545WH,Dennenweg,48,,
-7545WJ,Dennenweg,86,,
-7545WJ,Dennenweg,82,,
-7545WJ,Dennenweg,88,,
-7545WK,Dennenweg,108,,
-7545WK,Dennenweg,136,,
-7545WK,Dennenweg,138,,
-7545WL,Dennenweg,162,,
-7545WL,Dennenweg,184,,
-7545WL,Dennenweg,178,,
-7545WN,Dennenweg,220,,
-7545WN,Dennenweg,216,,
-7545WN,Dennenweg,234,,
-7545VG,Drukkerstraat,13,,
-7545VG,Drukkerstraat,12,,
-7545VH,Drukkerstraat,19,,
-7545MP,Tweede Emmastraat,59,,
-7513CA,Pathmossingel,1,A,
-7513CA,Pathmossingel,13,,
-7513CB,Pathmossingel,33,,
-7513CB,Pathmossingel,53,,
-7513CC,Pathmossingel,67,,
-7513CC,Pathmossingel,93,,
-7513CC,Pathmossingel,79,,
-7513CC,Pathmossingel,81,,
-7513CD,Pathmossingel,125,,
-7513CG,Pathmossingel,195,,
-7545VJ,Pathmosstraat,3,,
-7545VJ,Pathmosstraat,13,,
-7545VK,Pathmosstraat,47,,
-7545VK,Pathmosstraat,43,,
-7545VK,Pathmosstraat,37,,
-7545VM,Pathmosstraat,50,,
-7545VM,Pathmosstraat,74,,
-7545TA,Goormaatweg,8,,
-7545TA,Goormaatweg,7,,
-7545GA,Haaksbergerstraat,402,A,
-7545GB,Haaksbergerstraat,456,,
-7545GB,Haaksbergerstraat,482,A,
-7545GB,Haaksbergerstraat,484,C,
-7545GB,Haaksbergerstraat,462,,
-7545GB,Haaksbergerstraat,494,B,
-7545GB,Haaksbergerstraat,478,C,
-7545GB,Haaksbergerstraat,476,A,
-7545GB,Haaksbergerstraat,500,,
-7545TC,Dr. Kostersstraat,23,,
-7545TC,Dr. Kostersstraat,17,,
-7545TC,Dr. Kostersstraat,9,,
-7545TD,Dr. Kostersstraat,18,,
-7545LA,B.W. ter Kuilestraat,2,,
-7545LA,B.W. ter Kuilestraat,36,,
-7545LA,B.W. ter Kuilestraat,50,,
-7545TN,Ververstraat,30,,
-7545TJ,Weverstraat,43,,
-7545TJ,Weverstraat,25,,
-7545TK,Weverstraat,4,,
-7545TK,Weverstraat,12,,
-7545TL,Weverstraat,42,,
-7545TL,Weverstraat,32,,
-7545TL,Weverstraat,50,,
-7545TP,Spinnerstraat,47,,
-7545TR,Spinnerstraat,14,,
-7545TR,Spinnerstraat,16,,
-7545TR,Spinnerstraat,26,,
-7545TS,Spinnerstraat,42,,
-7545SB,Vorstmanplantsoen,15,,
-7545SB,Vorstmanplantsoen,18,,
-7545SB,Vorstmanplantsoen,14,,
-7545SB,Vorstmanplantsoen,2,,
-7545TG,Sterkerstraat,27,,
-7545TG,Sterkerstraat,41,,
-7545TG,Sterkerstraat,29,,
-7545TG,Sterkerstraat,23,,
-7545TH,Sterkerstraat,6,,
-7545SC,Usselerweg,11,,
-7545SG,Usselerweg,20,,
-7545SG,Usselerweg,12,,
-7545SH,Usselerweg,102,,
-7545SR,Dr. Eekmanstraat,5,,
-7545TB,Goormaatdwarsweg,14,,
-7545TT,Pathmosplein,8,,
-7545TV,Spinnerplein,8,,
-7545SJ,Bloemendaalstraat,31,,
-7545SJ,Bloemendaalstraat,15,,
-7545SK,Bloemendaalstraat,12,,
-7545SK,Bloemendaalstraat,28,,
-7545SN,Buitenweg,31,,
-7545SZ,Eversstraat,28,,
-7545SM,Ruwerstraat,17,,
-7545SM,Ruwerstraat,7,,
-7545VA,Willem de Clercqstraat,33,,
-7545VA,Willem de Clercqstraat,1,,
-7545VB,Willem de Clercqstraat,49,,
-7545VC,Willem de Clercqstraat,87,,
-7545VC,Willem de Clercqstraat,107,,
-7545VC,Willem de Clercqstraat,85,,
-7545VC,Willem de Clercqstraat,115,,
-7545VD,Willem de Clercqstraat,2,,
-7545VE,Willem de Clercqstraat,74,,
-7545SV,Van Coeverdenstraat,7,,
-7545SV,Van Coeverdenstraat,3,,
-7545WH,Dennenweg,40,,
-7545WH,Dennenweg,60,,
-7545WH,Dennenweg,50,,
-7545WJ,Dennenweg,78,,
-7545WJ,Dennenweg,98,,
-7545WL,Dennenweg,172,E,
-7545WN,Dennenweg,214,,
-7545VG,Drukkerstraat,14,,
-7545VH,Drukkerstraat,20,,
-7545MP,Tweede Emmastraat,53,,
-7545MP,Tweede Emmastraat,85,,
-7545MP,Tweede Emmastraat,57,,
-7513CA,Pathmossingel,23,,
-7513CA,Pathmossingel,1,F,
-7513CA,Pathmossingel,1,D,
-7513CB,Pathmossingel,61,,
-7513CC,Pathmossingel,69,,
-7513CC,Pathmossingel,107,,
-7513CE,Pathmossingel,147,,
-7513CE,Pathmossingel,153,,
-7513CG,Pathmossingel,173,,
-7545VJ,Pathmosstraat,15,,
-7545VJ,Pathmosstraat,9,,
-7545VL,Pathmosstraat,18,,
-7545VL,Pathmosstraat,26,,
-7545VL,Pathmosstraat,38,,
-7545VL,Pathmosstraat,6,,
-7545GA,Haaksbergerstraat,378,,
-7545GA,Haaksbergerstraat,410,,
-7545GA,Haaksbergerstraat,416,,
-7545GA,Haaksbergerstraat,412,,
-7545GB,Haaksbergerstraat,472,B,
-7545GB,Haaksbergerstraat,430,C,
-7545GB,Haaksbergerstraat,430,J,
-7545GB,Haaksbergerstraat,430,J,
-7545GB,Haaksbergerstraat,476,B,
-7545GB,Haaksbergerstraat,474,,
-7545GB,Haaksbergerstraat,488,A,
-7545GB,Haaksbergerstraat,430,D,
-7545GB,Haaksbergerstraat,472,C,
-7545GB,Haaksbergerstraat,430,H,
-7545GB,Haaksbergerstraat,472,,
-7545GB,Haaksbergerstraat,472,L,
-7545GB,Haaksbergerstraat,430,R,
-7545GB,Haaksbergerstraat,430,R,
-7545GB,Haaksbergerstraat,472,D,
-7545GB,Haaksbergerstraat,468,,
-7545GB,Haaksbergerstraat,472,G,
-7545GB,Haaksbergerstraat,430,M,
-7545GB,Haaksbergerstraat,430,M,
-7545TJ,Weverstraat,19,,
-7545TK,Weverstraat,24,,
-7545TK,Weverstraat,6,,
-7545TL,Weverstraat,60,,
-7545TP,Spinnerstraat,29,A,
-7545TS,Spinnerstraat,50,,
-7545TS,Spinnerstraat,44,,
-7545TS,Spinnerstraat,48,,
-7545TE,Sterkerstraat,5,,
-7545TH,Sterkerstraat,12,,
-7545TH,Sterkerstraat,2,,
-7545TH,Sterkerstraat,28,,
-7545TH,Sterkerstraat,4,,
-7545SC,Usselerweg,43,B,
-7545SC,Usselerweg,23,,
-7545SG,Usselerweg,6,,
-7545SH,Usselerweg,68,,
-7545SH,Usselerweg,116,,
-7545SH,Usselerweg,112,,
-7545SH,Usselerweg,70,,
-7545ST,Dr. Eekmanstraat,10,,
-7545ST,Dr. Eekmanstraat,24,,
-7545ST,Dr. Eekmanstraat,4,,
-7545TB,Goormaatdwarsweg,10,,
-7545TB,Goormaatdwarsweg,22,,
-7545TT,Pathmosplein,2,,
-7545SJ,Bloemendaalstraat,13,,
-7545SK,Bloemendaalstraat,18,,
-7545SL,Bloemendaalstraat,36,,
-7545TW,Bombazijnstraat,1,,
-7545TW,Bombazijnstraat,19,,
-7545TX,Bombazijnstraat,26,,
-7545TX,Bombazijnstraat,30,,
-7545TX,Bombazijnstraat,8,,
-7545TX,Bombazijnstraat,14,,
-7545SN,Buitenweg,47,,
-7545SN,Buitenweg,1,,
-7545SN,Buitenweg,33,,
-7545SN,Buitenweg,23,,
-7545SN,Buitenweg,15,,
-7545SP,Buitenweg,6,,26
-7545SP,Buitenweg,6,,27
-7545SP,Buitenweg,8,,21
-7545SP,Buitenweg,22,,
-7545SP,Buitenweg,8,,14
-7545SP,Buitenweg,6,,14
-7545SX,Eversstraat,39,,
-7545SX,Eversstraat,45,,
-7545SZ,Eversstraat,30,,
-7545SM,Ruwerstraat,9,,
-7545SM,Ruwerstraat,25,,
-7545VA,Willem de Clercqstraat,13,,
-7545VA,Willem de Clercqstraat,23,,
-7545VB,Willem de Clercqstraat,61,,
-7545VB,Willem de Clercqstraat,47,,
-7545VC,Willem de Clercqstraat,123,,
-7545VC,Willem de Clercqstraat,93,,
-7545VE,Willem de Clercqstraat,56,,
-7545SW,Van Coeverdenstraat,2,,
-7545WH,Dennenweg,38,,
-7545WH,Dennenweg,52,,
-7545WH,Dennenweg,58,,
-7545WH,Dennenweg,34,,
-7545WJ,Dennenweg,92,,
-7545WJ,Dennenweg,68,,
-7545WK,Dennenweg,140,,
-7545WK,Dennenweg,128,,
-7545WK,Dennenweg,118,,
-7545WL,Dennenweg,186,,
-7545WL,Dennenweg,168,,
-7545WN,Dennenweg,228,,
-7545WN,Dennenweg,218,,
-7545VG,Drukkerstraat,6,,
-7545VG,Drukkerstraat,2,,
-7513CA,Pathmossingel,7,,
-7513CA,Pathmossingel,1,E,
-7513CC,Pathmossingel,105,,
-7513CC,Pathmossingel,87,,
-7513CE,Pathmossingel,149,,
-7513CE,Pathmossingel,165,,
-7513CG,Pathmossingel,197,,
-7513CG,Pathmossingel,207,,
-7545VJ,Pathmosstraat,19,,
-7545VL,Pathmosstraat,20,,
-7545VL,Pathmosstraat,28,,
-7545VL,Pathmosstraat,40,,
-7545VL,Pathmosstraat,4,,
-7545VL,Pathmosstraat,8,,
-7545VL,Pathmosstraat,16,,
-7545VM,Pathmosstraat,60,,
-7545VM,Pathmosstraat,56,,
-7545TA,Goormaatweg,1,,
-7545GA,Haaksbergerstraat,408,,
-7545GB,Haaksbergerstraat,460,,
-7545GB,Haaksbergerstraat,478,A,
-7545GB,Haaksbergerstraat,492,A,
-7545GB,Haaksbergerstraat,488,B,
-7545GB,Haaksbergerstraat,486,C,
-7545GB,Haaksbergerstraat,472,M,
-7545GB,Haaksbergerstraat,420,,
-7545GB,Haaksbergerstraat,480,A,
-7545GB,Haaksbergerstraat,430,L,
-7545GB,Haaksbergerstraat,430,L,
-7545GB,Haaksbergerstraat,430,P,
-7545GB,Haaksbergerstraat,496,A,
-7545TC,Dr. Kostersstraat,25,,
-7545TC,Dr. Kostersstraat,3,,
-7545TD,Dr. Kostersstraat,2,,
-7545TD,Dr. Kostersstraat,14,,
-7545LA,B.W. ter Kuilestraat,34,,
-7545LA,B.W. ter Kuilestraat,18,,
-7545TM,Ververstraat,29,,
-7545TM,Ververstraat,25,,
-7545TN,Ververstraat,24,,
-7545TN,Ververstraat,10,,
-7545TN,Ververstraat,22,,
-7545TN,Ververstraat,12,,
-7545TN,Ververstraat,34,,
-7545TJ,Weverstraat,35,,
-7545TJ,Weverstraat,37,,
-7545TJ,Weverstraat,7,,
-7545TJ,Weverstraat,3,,
-7545TK,Weverstraat,2,,
-7545TK,Weverstraat,10,,
-7545TL,Weverstraat,44,,
-7545TL,Weverstraat,52,,
-7545TS,Spinnerstraat,38,,
-7545SB,Vorstmanplantsoen,17,,
-7545TH,Sterkerstraat,24,,
-7545SL,Usselerplein,3,,
-7545SL,Usselerplein,2,,
-7545SC,Usselerweg,47,,
-7545SC,Usselerweg,29,,
-7545SE,Usselerweg,85,,
-7545SG,Usselerweg,58,,
-7545SG,Usselerweg,50,,
-7545SG,Usselerweg,4,,
-7545SH,Usselerweg,76,,
-7545SH,Usselerweg,106,,
-7545SR,Dr. Eekmanstraat,13,,
-7545SR,Dr. Eekmanstraat,19,,
-7545ST,Dr. Eekmanstraat,16,,
-7545ST,Dr. Eekmanstraat,6,,
-7545TB,Goormaatdwarsweg,13,,
-7545TT,Pathmosplein,11,,
-7545TV,Spinnerplein,1,,
-7545SJ,Bloemendaalstraat,29,,
-7545SK,Bloemendaalstraat,22,,
-7545TW,Bombazijnstraat,5,,
-7545TW,Bombazijnstraat,25,,
-7545TW,Bombazijnstraat,31,,
-7545TW,Bombazijnstraat,17,,
-7545TW,Bombazijnstraat,15,,
-7545TX,Bombazijnstraat,18,,
-7545SN,Buitenweg,43,,
-7545SN,Buitenweg,21,,
-7545SP,Buitenweg,14,,
-7545SP,Buitenweg,6,,13
-7545SP,Buitenweg,10,,
-7545SX,Eversstraat,43,,
-7545SX,Eversstraat,57,,
-7545SX,Eversstraat,33,,
-7545SM,Ruwerstraat,2,,
-7545VA,Willem de Clercqstraat,39,,
-7545VA,Willem de Clercqstraat,3,,
-7545VB,Willem de Clercqstraat,81,,
-7545VB,Willem de Clercqstraat,79,,
-7545VC,Willem de Clercqstraat,99,,
-7545VC,Willem de Clercqstraat,129,,
-7545VC,Willem de Clercqstraat,109,,
-7545VD,Willem de Clercqstraat,4,,
-7545VD,Willem de Clercqstraat,22,,
-7545VD,Willem de Clercqstraat,6,,
-7545VD,Willem de Clercqstraat,10,,
-7545VE,Willem de Clercqstraat,44,,
-7545SV,Van Coeverdenstraat,5,,
-7545SW,Van Coeverdenstraat,18,,
-7545WH,Dennenweg,46,,
-7545WJ,Dennenweg,66,,
-7545WK,Dennenweg,114,,
-7545WL,Dennenweg,170,,
-7545WL,Dennenweg,200,,
-7545WL,Dennenweg,172,B,
-7545WN,Dennenweg,210,,
-7545WN,Dennenweg,212,,
-7545VG,Drukkerstraat,5,,
-7545VG,Drukkerstraat,10,,
-7545VG,Drukkerstraat,8,,
-7545VH,Drukkerstraat,23,,
-7545VH,Drukkerstraat,18,,
-7545MP,Tweede Emmastraat,83,,
-7545MP,Tweede Emmastraat,50,,
-7513CA,Pathmossingel,9,,
-7513CB,Pathmossingel,27,,
-7513CB,Pathmossingel,37,,
-7513CB,Pathmossingel,35,,
-7513CB,Pathmossingel,65,,
-7513CB,Pathmossingel,59,,
-7513CB,Pathmossingel,29,,
-7513CC,Pathmossingel,111,,
-7513CC,Pathmossingel,101,,
-7513CD,Pathmossingel,113,,
-7513CD,Pathmossingel,127,,
-7513CD,Pathmossingel,137,,
-7513CD,Pathmossingel,123,,
-7513CD,Pathmossingel,115,,
-7513CE,Pathmossingel,141,,
-7513CG,Pathmossingel,175,,
-7513CG,Pathmossingel,187,,
-7545VJ,Pathmosstraat,17,,
-7545VJ,Pathmosstraat,29,,
-7545VK,Pathmosstraat,53,,
-7545VL,Pathmosstraat,36,,
-7545VL,Pathmosstraat,2,,
-7545VM,Pathmosstraat,68,,
-7545GA,Haaksbergerstraat,406,,
-7545GA,Haaksbergerstraat,410,A,
-7545GB,Haaksbergerstraat,484,B,
-7545GB,Haaksbergerstraat,484,A,
-7545GB,Haaksbergerstraat,498,,
-7545GB,Haaksbergerstraat,484,,
-7545GB,Haaksbergerstraat,424,,
-7545GB,Haaksbergerstraat,482,B,
-7545GB,Haaksbergerstraat,418,,
-7545GB,Haaksbergerstraat,430,I,
-7545TC,Dr. Kostersstraat,15,,
-7545TD,Dr. Kostersstraat,16,,
-7545LA,B.W. ter Kuilestraat,10,,
-7545LA,B.W. ter Kuilestraat,4,,
-7545LA,B.W. ter Kuilestraat,12,,
-7545TM,Ververstraat,43,,
-7545TM,Ververstraat,3,,
-7545TM,Ververstraat,37,,
-7545TM,Ververstraat,9,,
-7545TN,Ververstraat,28,,
-7545TJ,Weverstraat,39,,
-7545TJ,Weverstraat,1,,
-7545TJ,Weverstraat,21,,
-7545TL,Weverstraat,36,,
-7545TR,Spinnerstraat,10,,
-7545TR,Spinnerstraat,18,,
-7545TR,Spinnerstraat,8,,
-7545TS,Spinnerstraat,56,,
-7545SB,Vorstmanplantsoen,11,,
-7545SB,Vorstmanplantsoen,10,,
-7545SB,Vorstmanplantsoen,4,,
-7545TE,Sterkerstraat,13,,
-7545SE,Usselerweg,61,,
-7545SE,Usselerweg,83,,
-7545SG,Usselerweg,26,B,
-7545SG,Usselerweg,30,,
-7545SG,Usselerweg,38,,
-7545SH,Usselerweg,114,,
-7545SH,Usselerweg,108,,
-7545SR,Dr. Eekmanstraat,9,,
-7545SR,Dr. Eekmanstraat,3,,
-7545TT,Pathmosplein,7,,
-7545TV,Spinnerplein,4,,
-7545TV,Spinnerplein,11,,
-7545TV,Spinnerplein,6,A,
-7545SJ,Bloemendaalstraat,23,,
-7545SK,Bloemendaalstraat,26,,
-7545SK,Bloemendaalstraat,26,,
-7545SK,Bloemendaalstraat,4,,
-7545TW,Bombazijnstraat,23,,
-7545TX,Bombazijnstraat,20,,
-7545TX,Bombazijnstraat,12,,
-7545TX,Bombazijnstraat,28,,
-7545TX,Bombazijnstraat,16,,
-7545SN,Buitenweg,7,,
-7545SN,Buitenweg,35,,
-7545SP,Buitenweg,6,,19
-7545SP,Buitenweg,6,,31
-7545SP,Buitenweg,6,,28
-7545SP,Buitenweg,2,,
-7545SX,Eversstraat,25,,
-7545SX,Eversstraat,29,,
-7545SZ,Eversstraat,20,,
-7545SM,Ruwerstraat,3,,
-7545VA,Willem de Clercqstraat,29,,
-7545VB,Willem de Clercqstraat,73,,
-7545VC,Willem de Clercqstraat,119,,
-7545VD,Willem de Clercqstraat,16,,
-7545VD,Willem de Clercqstraat,12,,
-7545VE,Willem de Clercqstraat,62,,
-7545SV,Van Coeverdenstraat,13,,
-7545SV,Van Coeverdenstraat,17,,
-7545SW,Van Coeverdenstraat,4,,
-7545WH,Dennenweg,54,,
-7545WH,Dennenweg,30,,
-7545WK,Dennenweg,110,,
-7545WK,Dennenweg,142,,
-7545WK,Dennenweg,116,,
-7545WK,Dennenweg,104,,
-7545WL,Dennenweg,172,G,
-7545WL,Dennenweg,172,A,
-7545WL,Dennenweg,172,I,
-7545WN,Dennenweg,224,,
-7545WN,Dennenweg,206,,
-7545WN,Dennenweg,226,,
-7545WN,Dennenweg,230,,
-7545VG,Drukkerstraat,4,,
-7545VG,Drukkerstraat,7,,
-7545VG,Drukkerstraat,9,,
-7545VG,Drukkerstraat,1,,
-7545VH,Drukkerstraat,21,,
-7545VH,Drukkerstraat,24,,
-7545MP,Tweede Emmastraat,61,,
-7545MP,Tweede Emmastraat,63,,
-7545MP,Tweede Emmastraat,73,,
-7513CA,Pathmossingel,11,,
-7513CB,Pathmossingel,55,,
-7513CB,Pathmossingel,39,,
-7513CB,Pathmossingel,49,,
-7513CE,Pathmossingel,143,,
-7513CE,Pathmossingel,159,,
-7545VJ,Pathmosstraat,7,,
-7545VL,Pathmosstraat,32,,
-7545VL,Pathmosstraat,34,,
-7545VL,Pathmosstraat,30,,
-7545VM,Pathmosstraat,62,,
-7545TA,Goormaatweg,5,,
-7545TA,Goormaatweg,4,,
-7545TA,Goormaatweg,12,,
-7545GA,Haaksbergerstraat,394,,
-7545GA,Haaksbergerstraat,404,,
-7545GA,Haaksbergerstraat,380,,
-7545GB,Haaksbergerstraat,430,S,
-7545GB,Haaksbergerstraat,430,S,
-7545GB,Haaksbergerstraat,472,I,
-7545GB,Haaksbergerstraat,430,B,
-7545GB,Haaksbergerstraat,480,,
-7545GB,Haaksbergerstraat,490,,
-7545GB,Haaksbergerstraat,430,K,
-7545GB,Haaksbergerstraat,430,K,
-7545GB,Haaksbergerstraat,482,,
-7545GB,Haaksbergerstraat,482,C,
-7545GB,Haaksbergerstraat,430,A,
-7545GB,Haaksbergerstraat,486,,
-7545GB,Haaksbergerstraat,476,,
-7545TC,Dr. Kostersstraat,21,,
-7545TC,Dr. Kostersstraat,5,,
-7545TD,Dr. Kostersstraat,20,,
-7545LA,B.W. ter Kuilestraat,22,,
-7545LA,B.W. ter Kuilestraat,46,,
-7545TM,Ververstraat,7,,
-7545TM,Ververstraat,41,,
-7545TM,Ververstraat,31,,
-7545TM,Ververstraat,5,,
-7545TN,Ververstraat,4,,
-7545TJ,Weverstraat,13,,
-7545TJ,Weverstraat,41,,
-7545TK,Weverstraat,26,,
-7545TP,Spinnerstraat,39,,
-7545TP,Spinnerstraat,43,,
-7545TP,Spinnerstraat,27,,
-7545TR,Spinnerstraat,28,,
-7545TR,Spinnerstraat,10,A,
-7545TR,Spinnerstraat,30,,
-7545TR,Spinnerstraat,20,,
-7545TS,Spinnerstraat,54,,
-7545TS,Spinnerstraat,36,,
-7545SB,Vorstmanplantsoen,13,,
-7545SB,Vorstmanplantsoen,19,,
-7545SB,Vorstmanplantsoen,5,,
-7545SB,Vorstmanplantsoen,3,,
-7545TE,Sterkerstraat,1,,
-7545TG,Sterkerstraat,31,,
-7545TG,Sterkerstraat,39,,
-7545TG,Sterkerstraat,37,,
-7545TH,Sterkerstraat,18,,
-7545SL,Usselerplein,4,,
-7545SC,Usselerweg,39,,
-7545SC,Usselerweg,5,,
-7545SC,Usselerweg,1,,
-7545SC,Usselerweg,43,,
-7545SE,Usselerweg,93,,
-7545SE,Usselerweg,89,,
-7545SG,Usselerweg,46,,
-7545SG,Usselerweg,34,,
-7545SG,Usselerweg,8,,
-7545SG,Usselerweg,54,,
-7545SG,Usselerweg,52,,
-7545SG,Usselerweg,10,,
-7545SH,Usselerweg,60,,
-7545SR,Dr. Eekmanstraat,15,,
-7545SR,Dr. Eekmanstraat,1,,
-7545ST,Dr. Eekmanstraat,22,,
-7545ST,Dr. Eekmanstraat,12,,
-7545TB,Goormaatdwarsweg,17,,
-7545TB,Goormaatdwarsweg,15,,
-7545TT,Pathmosplein,5,,
-7545TT,Pathmosplein,3,,
-7545SJ,Bloemendaalstraat,7,,
-7545SK,Bloemendaalstraat,14,,
-7545SK,Bloemendaalstraat,24,,
-7545SK,Bloemendaalstraat,24,,
-7545TW,Bombazijnstraat,29,,
-7545TX,Bombazijnstraat,4,,
-7545TX,Bombazijnstraat,2,,
-7545SN,Buitenweg,39,,
-7545SN,Buitenweg,27,,
-7545SN,Buitenweg,5,,
-7545SN,Buitenweg,45,,
-7545SP,Buitenweg,6,,24
-7545SP,Buitenweg,20,,
-7545SP,Buitenweg,8,,23
-7545SP,Buitenweg,6,,22
-7545SP,Buitenweg,6,,32
-7545SP,Buitenweg,6,,15
-7545SX,Eversstraat,19,,
-7545SX,Eversstraat,11,,
-7545SZ,Eversstraat,10,,
-7545SZ,Eversstraat,8,,
-7545SZ,Eversstraat,24,,
-7545SM,Ruwerstraat,5,,
-7545SM,Ruwerstraat,19,,
-7545SM,Ruwerstraat,15,,
-7545VA,Willem de Clercqstraat,31,,
-7545VB,Willem de Clercqstraat,71,,
-7545VB,Willem de Clercqstraat,55,,
-7545VC,Willem de Clercqstraat,127,,
-7545VC,Willem de Clercqstraat,83,,
-7545VD,Willem de Clercqstraat,8,,
-7545VD,Willem de Clercqstraat,14,,
-7545VD,Willem de Clercqstraat,26,,
-7545VE,Willem de Clercqstraat,36,,
-7545VE,Willem de Clercqstraat,32,,
-7545VE,Willem de Clercqstraat,34,,
-7545SV,Van Coeverdenstraat,11,,
-7545SW,Van Coeverdenstraat,16,,
-7545SW,Van Coeverdenstraat,6,,
-7545WH,Dennenweg,44,,
-7545WJ,Dennenweg,96,,
-7545WJ,Dennenweg,80,,
-7545WJ,Dennenweg,90,,
-7545WJ,Dennenweg,70,,
-7545WJ,Dennenweg,74,,
-7545WL,Dennenweg,154,,
-7545WL,Dennenweg,172,,
-7545WN,Dennenweg,232,,
-7545VH,Drukkerstraat,25,,
-7545MP,Tweede Emmastraat,75,,
-7545MP,Tweede Emmastraat,79,,
-7545MP,Tweede Emmastraat,71,,
-7513CA,Pathmossingel,17,,
-7513CA,Pathmossingel,1,C,
-7513CA,Pathmossingel,1,B,
-7513CB,Pathmossingel,57,,
-7513CB,Pathmossingel,63,,
-7513CB,Pathmossingel,47,,
-7513CB,Pathmossingel,31,,
-7513CC,Pathmossingel,95,,
-7513CC,Pathmossingel,77,A,
-7513CE,Pathmossingel,145,,
-7513CE,Pathmossingel,157,,
-7513CG,Pathmossingel,169,,
-7513CG,Pathmossingel,193,,
-7513CG,Pathmossingel,177,,
-7545VJ,Pathmosstraat,1,,
-7545VK,Pathmosstraat,33,,
-7545VL,Pathmosstraat,12,,
-7545VL,Pathmosstraat,10,,
-7545VM,Pathmosstraat,64,,
-7545VM,Pathmosstraat,66,,
-7545VM,Pathmosstraat,58,,
-7545GA,Haaksbergerstraat,388,,
-7545GA,Haaksbergerstraat,390,,
-7545GA,Haaksbergerstraat,402,,
-7545GA,Haaksbergerstraat,382,,
-7545GB,Haaksbergerstraat,478,B,
-7545GB,Haaksbergerstraat,430,F,
-7545GB,Haaksbergerstraat,458,,
-7545GB,Haaksbergerstraat,472,K,
-7545GB,Haaksbergerstraat,430,O,
-7545GB,Haaksbergerstraat,478,,
-7545GB,Haaksbergerstraat,474,A,
-7545TC,Dr. Kostersstraat,19,,
-7545TD,Dr. Kostersstraat,12,,
-7545LA,B.W. ter Kuilestraat,20,,
-7545LA,B.W. ter Kuilestraat,42,,
-7545LA,B.W. ter Kuilestraat,14,,
-7545LA,B.W. ter Kuilestraat,40,,
-7545LA,B.W. ter Kuilestraat,26,,
-7545TM,Ververstraat,17,,
-7545TN,Ververstraat,2,,
-7545TN,Ververstraat,8,,
-7545TK,Weverstraat,20,,
-7545TL,Weverstraat,48,,
-7545TP,Spinnerstraat,3,,
-7545TP,Spinnerstraat,41,,
-7545TR,Spinnerstraat,12,A,
-7545TS,Spinnerstraat,32,,
-7545SB,Vorstmanplantsoen,1,,
-7545TE,Sterkerstraat,19,,
-7545TH,Sterkerstraat,8,,
-7545SC,Usselerweg,35,,
-7545SC,Usselerweg,33,,
-7545SC,Usselerweg,9,,
-7545SE,Usselerweg,49,,
-7545SG,Usselerweg,18,,
-7545SG,Usselerweg,36,,
-7545SH,Usselerweg,66,,
-7545SH,Usselerweg,62,,
-7545SH,Usselerweg,104,,
-7545TB,Goormaatdwarsweg,8,,
-7545TB,Goormaatdwarsweg,11,,
-7545TT,Pathmosplein,9,,
-7545TT,Pathmosplein,12,,
-7545TV,Spinnerplein,5,,
-7545TV,Spinnerplein,6,,
-7545TV,Spinnerplein,12,,
-7545SJ,Bloemendaalstraat,21,,
-7545SJ,Bloemendaalstraat,19,,
-7545SK,Bloemendaalstraat,30,,
-7545SL,Bloemendaalstraat,32,,
-7545SL,Bloemendaalstraat,40,,
-7545TW,Bombazijnstraat,13,,
-7545TW,Bombazijnstraat,7,,
-7545SN,Buitenweg,17,,
-7545SP,Buitenweg,6,,25
-7545SP,Buitenweg,26,,
-7545SP,Buitenweg,8,,11
-7545SP,Buitenweg,8,,13
-7545SP,Buitenweg,6,,16
-7545SP,Buitenweg,12,,
-7545SP,Buitenweg,4,,
-7545SX,Eversstraat,51,,
-7545SX,Eversstraat,59,,
-7545SX,Eversstraat,55,,
-7545SX,Eversstraat,7,,
-7545SX,Eversstraat,53,,
-7545SX,Eversstraat,41,,
-7545SX,Eversstraat,13,,
-7545SX,Eversstraat,21,,
-7545SZ,Eversstraat,4,,
-7545SZ,Eversstraat,16,,
-7545SM,Ruwerstraat,13,,
-7545VA,Willem de Clercqstraat,17,,
-7545VA,Willem de Clercqstraat,15,,
-7545VA,Willem de Clercqstraat,21,,
-7545VB,Willem de Clercqstraat,57,,
-7545VB,Willem de Clercqstraat,69,,
-7545VB,Willem de Clercqstraat,65,,
-7545VE,Willem de Clercqstraat,40,,
-7545SW,Van Coeverdenstraat,14,,
-7545WJ,Dennenweg,94,,
-7545WK,Dennenweg,112,,
-7545WK,Dennenweg,126,,
-7545WL,Dennenweg,172,K,
-7545WL,Dennenweg,172,J,
-7545WL,Dennenweg,160,,
-7545WL,Dennenweg,172,F,
-7545WN,Dennenweg,202,,
-7545WN,Dennenweg,204,,
-7545VG,Drukkerstraat,11,,
-7545VH,Drukkerstraat,26,,
-7545MP,Tweede Emmastraat,55,,
-7545MP,Tweede Emmastraat,77,,
-7513CA,Pathmossingel,21,,
-7513CA,Pathmossingel,15,,
-7513CA,Pathmossingel,3,,
-7513CB,Pathmossingel,45,,
-7513CC,Pathmossingel,103,,
-7513CC,Pathmossingel,85,,
-7513CC,Pathmossingel,99,,
-7513CC,Pathmossingel,73,,
-7513CC,Pathmossingel,77,,
-7513CG,Pathmossingel,201,,
-7545VK,Pathmosstraat,45,,
-7545VK,Pathmosstraat,41,,
-7545GA,Haaksbergerstraat,398,,
-7545GA,Haaksbergerstraat,392,,
-7545GB,Haaksbergerstraat,474,C,
-7545GB,Haaksbergerstraat,428,,
-7545GB,Haaksbergerstraat,474,B,
-7545GB,Haaksbergerstraat,496,B,
-7545GB,Haaksbergerstraat,480,C,
-7545GB,Haaksbergerstraat,430,N,
-7545GB,Haaksbergerstraat,472,H,
-7545GB,Haaksbergerstraat,494,,
-7545TC,Dr. Kostersstraat,13,,
-7545TC,Dr. Kostersstraat,1,,
-7545TD,Dr. Kostersstraat,6,,
-7545LA,B.W. ter Kuilestraat,16,,
-7545TM,Ververstraat,19,,
-7545TM,Ververstraat,13,,
-7545TM,Ververstraat,39,,
-7545TM,Ververstraat,35,,
-7545TM,Ververstraat,1,,
-7545TN,Ververstraat,30,A,
-7545TJ,Weverstraat,11,,
-7545TK,Weverstraat,28,,
-7545TK,Weverstraat,18,,
-7545TL,Weverstraat,56,,
-7545TR,Spinnerstraat,22,,
-7545TR,Spinnerstraat,12,,
-7545TR,Spinnerstraat,6,,
-7545TS,Spinnerstraat,40,,
-7545TS,Spinnerstraat,52,,
-7545TE,Sterkerstraat,9,,
-7545TG,Sterkerstraat,33,,
-7545TH,Sterkerstraat,20,,
-7545TH,Sterkerstraat,10,,
-7545SC,Usselerweg,15,,
-7545SC,Usselerweg,41,,
-7545SC,Usselerweg,3,,
-7545SE,Usselerweg,57,,
-7545SE,Usselerweg,59,,
-7545SE,Usselerweg,63,,
-7545SG,Usselerweg,48,,
-7545SG,Usselerweg,42,,
-7545SR,Dr. Eekmanstraat,17,,
-7545ST,Dr. Eekmanstraat,20,,
-7545ST,Dr. Eekmanstraat,18,,
-7545TB,Goormaatdwarsweg,12,,
-7545TB,Goormaatdwarsweg,20,,
-7545TB,Goormaatdwarsweg,16,,
-7545TT,Pathmosplein,4,,
-7545TV,Spinnerplein,9,,
-7545SJ,Bloemendaalstraat,35,,
-7545SJ,Bloemendaalstraat,33,,
-7545SL,Bloemendaalstraat,44,,
-7545TW,Bombazijnstraat,21,,
-7545TW,Bombazijnstraat,33,,
-7545TW,Bombazijnstraat,11,,
-7545TW,Bombazijnstraat,9,,
-7545SN,Buitenweg,41,,
-7545SN,Buitenweg,13,,
-7545SP,Buitenweg,32,,
-7545SP,Buitenweg,28,,
-7545SM,Ruwerstraat,4,,
-7545SM,Ruwerstraat,11,,
-7545VA,Willem de Clercqstraat,9,,
-7545VA,Willem de Clercqstraat,7,,
-7545VC,Willem de Clercqstraat,91,,
-7545VC,Willem de Clercqstraat,89,,
-7545VC,Willem de Clercqstraat,105,,
-7545VD,Willem de Clercqstraat,18,,
-7545VE,Willem de Clercqstraat,48,,
-7545VE,Willem de Clercqstraat,60,,
-7545SV,Van Coeverdenstraat,15,,
-7545SW,Van Coeverdenstraat,8,,
-7545SW,Van Coeverdenstraat,12,,
-7545SW,Van Coeverdenstraat,10,,
-7545WJ,Dennenweg,64,,
-7545WJ,Dennenweg,76,,
-7545WJ,Dennenweg,84,,
-7545WK,Dennenweg,124,,
-7545WK,Dennenweg,152,,
-7545WK,Dennenweg,102,,
-7545WK,Dennenweg,106,,
-7545WK,Dennenweg,120,,
-7545WK,Dennenweg,134,,
-7545WL,Dennenweg,182,,
-7545WL,Dennenweg,158,,
-7545VG,Drukkerstraat,16,,
-7545VH,Drukkerstraat,22,,
-7545VH,Drukkerstraat,17,,
-7545MP,Tweede Emmastraat,81,,
-7545MP,Tweede Emmastraat,51,,
-7545MP,Tweede Emmastraat,60,,
-7545MP,Tweede Emmastraat,69,,
-7545MP,Tweede Emmastraat,65,,
-7513CA,Pathmossingel,1,,
-7513CA,Pathmossingel,5,,
-7513CB,Pathmossingel,41,,
-7513CC,Pathmossingel,71,,
-7513CC,Pathmossingel,97,,
-7513CC,Pathmossingel,89,,
-7513CD,Pathmossingel,129,,
-7513CD,Pathmossingel,131,,
-7513CD,Pathmossingel,133,,
-7513CE,Pathmossingel,155,,
-7513CG,Pathmossingel,181,,
-7513CG,Pathmossingel,183,,
-7513CG,Pathmossingel,203,,
-7513CG,Pathmossingel,199,,
-7545VJ,Pathmosstraat,1,A,
-7545VJ,Pathmosstraat,11,,
-7545VJ,Pathmosstraat,25,,
-7545VK,Pathmosstraat,55,,
-7545VL,Pathmosstraat,14,,
-7545VM,Pathmosstraat,44,,
-7545VM,Pathmosstraat,46,,
-7545TA,Goormaatweg,13,,
-7545TA,Goormaatweg,11,,
-7545TA,Goormaatweg,9,,
-7545GA,Haaksbergerstraat,386,,
-7545GA,Haaksbergerstraat,384,,
-7545GB,Haaksbergerstraat,486,A,
-7545GB,Haaksbergerstraat,422,,
-7545GB,Haaksbergerstraat,494,A,
-7545GB,Haaksbergerstraat,476,C,
-7545GB,Haaksbergerstraat,488,,
-7545GB,Haaksbergerstraat,472,J,
-7545GB,Haaksbergerstraat,430,G,
-7545GB,Haaksbergerstraat,490,A,
-7545TC,Dr. Kostersstraat,11,,
-7545TC,Dr. Kostersstraat,7,,
-7545TD,Dr. Kostersstraat,10,,
-7545TD,Dr. Kostersstraat,4,,
-7545LA,B.W. ter Kuilestraat,44,,
-7545LA,B.W. ter Kuilestraat,8,,
-7545LA,B.W. ter Kuilestraat,48,,
-7545TM,Ververstraat,21,,
-7545TM,Ververstraat,23,,
-7545TN,Ververstraat,6,,
-7545TN,Ververstraat,32,,
-7545TK,Weverstraat,14,,
-7545TK,Weverstraat,16,,
-7545TL,Weverstraat,38,,
-7545TL,Weverstraat,34,,
-7545TP,Spinnerstraat,27,A,
-7545TR,Spinnerstraat,4,,
-7545TS,Spinnerstraat,34,,
-7545SB,Vorstmanplantsoen,9,,
-7545SB,Vorstmanplantsoen,6,,
-7545TE,Sterkerstraat,3,,
-7545TG,Sterkerstraat,25,,
-7545SL,Usselerplein,1,,
-7545SC,Usselerweg,13,,
-7545SC,Usselerweg,43,A,
-7545SC,Usselerweg,17,,
-7545SE,Usselerweg,91,,
-7545SE,Usselerweg,53,,
-7545SG,Usselerweg,26,C,
-7545SG,Usselerweg,40,,
-7545SH,Usselerweg,72,,
-7545TB,Goormaatdwarsweg,21,,
-7545TB,Goormaatdwarsweg,19,,
-7545TT,Pathmosplein,6,,
-7545TT,Pathmosplein,1,,
-7545SK,Bloemendaalstraat,20,,
-7545SK,Bloemendaalstraat,8,,
-7545SL,Bloemendaalstraat,42,,
-7545TW,Bombazijnstraat,3,,
-7545TX,Bombazijnstraat,10,,
-7545TX,Bombazijnstraat,22,,
-7545SN,Buitenweg,49,,
-7545SP,Buitenweg,30,,
-7545SP,Buitenweg,6,,18
-7545SX,Eversstraat,49,,
-7545SX,Eversstraat,27,,
-7545SX,Eversstraat,47,,
-7545SX,Eversstraat,9,,
-7545SX,Eversstraat,15,,
-7545VA,Willem de Clercqstraat,27,,
-7545VA,Willem de Clercqstraat,5,,
-7545VA,Willem de Clercqstraat,37,,
-7545VB,Willem de Clercqstraat,45,,
-7545VB,Willem de Clercqstraat,77,,
-7545VB,Willem de Clercqstraat,67,,
-7545VC,Willem de Clercqstraat,103,,
-7545VC,Willem de Clercqstraat,125,,
-7545VC,Willem de Clercqstraat,97,,
-7545VD,Willem de Clercqstraat,20,,
-7545VE,Willem de Clercqstraat,30,,
-7545VE,Willem de Clercqstraat,64,,
-7545VE,Willem de Clercqstraat,46,,
-7545VE,Willem de Clercqstraat,66,,
-7545VE,Willem de Clercqstraat,52,,
-7545SV,Van Coeverdenstraat,1,,
-7545WH,Dennenweg,56,,
-7545WH,Dennenweg,36,,
-7545WH,Dennenweg,32,,
-7545WK,Dennenweg,150,,
-7545WK,Dennenweg,132,,
-7545WL,Dennenweg,172,D,
-7545WL,Dennenweg,166,,
-7545WL,Dennenweg,180,,
-7513CA,Pathmossingel,19,,
-7513CC,Pathmossingel,109,,
-7513CC,Pathmossingel,83,,
-7513CC,Pathmossingel,75,,
-7513CD,Pathmossingel,121,,
-7513CD,Pathmossingel,135,,
-7513CE,Pathmossingel,139,,
-7513CE,Pathmossingel,151,,
-7513CE,Pathmossingel,161,,
-7513CG,Pathmossingel,209,,
-7545VJ,Pathmosstraat,21,,
-7545VJ,Pathmosstraat,5,,
-7545VJ,Pathmosstraat,27,,
-7545VK,Pathmosstraat,57,,
-7545VK,Pathmosstraat,49,,
-7545VK,Pathmosstraat,31,,
-7545VK,Pathmosstraat,51,,
-7545VL,Pathmosstraat,22,,
-7545VM,Pathmosstraat,52,,
-7545VM,Pathmosstraat,48,,
-7545VM,Pathmosstraat,70,,
-7545VM,Pathmosstraat,54,,
-7545TA,Goormaatweg,10,,
-7545GA,Haaksbergerstraat,400,,
-7545GA,Haaksbergerstraat,376,,
-7545GB,Haaksbergerstraat,492,,
-7545GB,Haaksbergerstraat,472,A,
-7545GB,Haaksbergerstraat,490,B,
-7545GB,Haaksbergerstraat,488,C,
-7545GB,Haaksbergerstraat,472,E,
-7545GB,Haaksbergerstraat,472,F,
-7545GB,Haaksbergerstraat,468,A,
-7545GB,Haaksbergerstraat,430,E,
-7545GB,Haaksbergerstraat,464,,
-7545LA,B.W. ter Kuilestraat,6,,
-7545TN,Ververstraat,18,,
-7545TN,Ververstraat,26,,
-7545TN,Ververstraat,16,,
-7545TN,Ververstraat,20,,
-7545TJ,Weverstraat,45,,
-7545TJ,Weverstraat,27,,
-7545TJ,Weverstraat,9,,
-7545TJ,Weverstraat,47,,
-7545TK,Weverstraat,8,,
-7545TK,Weverstraat,30,,
-7545TL,Weverstraat,46,,
-7545TL,Weverstraat,40,,
-7545TL,Weverstraat,62,,
-7545TL,Weverstraat,58,,
-7545TL,Weverstraat,64,,
-7545TP,Spinnerstraat,45,,
-7545TP,Spinnerstraat,37,,
-7545TP,Spinnerstraat,33,,
-7545TP,Spinnerstraat,35,,
-7545TP,Spinnerstraat,31,,
-7545TP,Spinnerstraat,1,,
-7545TR,Spinnerstraat,24,,
-7545SB,Vorstmanplantsoen,8,,
-7545SB,Vorstmanplantsoen,7,,
-7545SB,Vorstmanplantsoen,20,,
-7545TE,Sterkerstraat,21,,
-7545TG,Sterkerstraat,45,,
-7545TG,Sterkerstraat,35,,
-7545TH,Sterkerstraat,26,,
-7545TH,Sterkerstraat,28,A,
-7545TH,Sterkerstraat,16,,
-7545SC,Usselerweg,45,,
-7545SE,Usselerweg,95,,
-7545SE,Usselerweg,55,,
-7545SG,Usselerweg,26,A,
-7545SG,Usselerweg,16,,
-7545SG,Usselerweg,14,,
-7545SG,Usselerweg,44,,
-7545SG,Usselerweg,26,,
-7545SH,Usselerweg,64,,
-7545ST,Dr. Eekmanstraat,2,,
-7545ST,Dr. Eekmanstraat,14,,
-7545TV,Spinnerplein,3,,
-7545SK,Bloemendaalstraat,6,,
-7545TX,Bombazijnstraat,24,,
-7545SP,Buitenweg,6,,12
-7545SX,Eversstraat,35,,
-7545SZ,Eversstraat,6,,
-7545SM,Ruwerstraat,21,,
-7545VB,Willem de Clercqstraat,63,,
-7545VB,Willem de Clercqstraat,43,,
-7545VC,Willem de Clercqstraat,113,,
-7545VC,Willem de Clercqstraat,95,,
-7545VD,Willem de Clercqstraat,28,,
-7545VE,Willem de Clercqstraat,68,,
-7545WJ,Dennenweg,100,,
-7545WK,Dennenweg,130,,
-7545WK,Dennenweg,146,,
-7545WK,Dennenweg,122,,
-7545WL,Dennenweg,172,C,
-7545WN,Dennenweg,222,,
-7545WN,Dennenweg,208,,
-7513CA,Pathmossingel,25,,
-7513CB,Pathmossingel,51,,
-7513CB,Pathmossingel,43,,
-7513CE,Pathmossingel,163,,
-7513CG,Pathmossingel,171,,
-7513CG,Pathmossingel,191,,
-7545VJ,Pathmosstraat,23,,
-7545VK,Pathmosstraat,35,,
-7545VM,Pathmosstraat,42,,
-7545GB,Haaksbergerstraat,480,B,
-7545GB,Haaksbergerstraat,426,,
-7545TM,Ververstraat,11,,
-7545TM,Ververstraat,15,,
-7545TJ,Weverstraat,15,,
-7545TK,Weverstraat,22,,
-7545TL,Weverstraat,54,,
-7545TP,Spinnerstraat,49,,
-7545TP,Spinnerstraat,29,,
-7545TP,Spinnerstraat,31,,
-7545TP,Spinnerstraat,31,,
-7545TP,Spinnerstraat,31,A,
-7545TP,Spinnerstraat,31,A,
-7545TS,Spinnerstraat,46,,
-7545TE,Sterkerstraat,7,,
-7545TH,Sterkerstraat,14,,
-7545TH,Sterkerstraat,22,,
-7545SC,Usselerweg,7,,
-7545SE,Usselerweg,87,,
-7545SG,Usselerweg,32,,
-7545SG,Usselerweg,56,,
-7545SC,Usseleresweg,37,,
-7545SC,Usseleresweg,39,,
-7545SC,Usseleresweg,41,,
-7545SC,Usseleresweg,43,,
-7545SC,Usseleresweg,45,,
-7545WL,Dennenweg,154,,
-7545WL,Dennenweg,154,A,
-7513CA,Pathmossingel,1,,
-7545GA,Haaksbergerstraat,376,,
-7545GB,Haaksbergerstraat,430,T,
-7545GB,Haaksbergerstraat,430,U,
-7545SC,Usselerweg,37,,
-7545SC,Usselerweg,39,,
-7545SC,Usselerweg,41,,
-7545SC,Usselerweg,43,,
-7545SC,Usselerweg,45,,
-7545VJ,Oude Lochemseweg,10,b,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Pathmossingel,1,"","",7513CA,Enschede
+Pathmossingel,1,"","",7513CA,Enschede
+Pathmossingel,1,"","",7513CA,Enschede
+Pathmossingel,1,A,"",7513CA,Enschede
+Pathmossingel,1,B,"",7513CA,Enschede
+Pathmossingel,1,C,"",7513CA,Enschede
+Pathmossingel,1,D,"",7513CA,Enschede
+Pathmossingel,1,E,"",7513CA,Enschede
+Pathmossingel,1,F,"",7513CA,Enschede
+Pathmossingel,11,"","",7513CA,Enschede
+Pathmossingel,13,"","",7513CA,Enschede
+Pathmossingel,15,"","",7513CA,Enschede
+Pathmossingel,17,"","",7513CA,Enschede
+Pathmossingel,19,"","",7513CA,Enschede
+Pathmossingel,21,"","",7513CA,Enschede
+Pathmossingel,23,"","",7513CA,Enschede
+Pathmossingel,25,"","",7513CA,Enschede
+Pathmossingel,3,"","",7513CA,Enschede
+Pathmossingel,5,"","",7513CA,Enschede
+Pathmossingel,7,"","",7513CA,Enschede
+Pathmossingel,9,"","",7513CA,Enschede
+Pathmossingel,27,"","",7513CB,Enschede
+Pathmossingel,29,"","",7513CB,Enschede
+Pathmossingel,31,"","",7513CB,Enschede
+Pathmossingel,33,"","",7513CB,Enschede
+Pathmossingel,35,"","",7513CB,Enschede
+Pathmossingel,37,"","",7513CB,Enschede
+Pathmossingel,39,"","",7513CB,Enschede
+Pathmossingel,41,"","",7513CB,Enschede
+Pathmossingel,43,"","",7513CB,Enschede
+Pathmossingel,45,"","",7513CB,Enschede
+Pathmossingel,47,"","",7513CB,Enschede
+Pathmossingel,49,"","",7513CB,Enschede
+Pathmossingel,51,"","",7513CB,Enschede
+Pathmossingel,53,"","",7513CB,Enschede
+Pathmossingel,55,"","",7513CB,Enschede
+Pathmossingel,57,"","",7513CB,Enschede
+Pathmossingel,59,"","",7513CB,Enschede
+Pathmossingel,61,"","",7513CB,Enschede
+Pathmossingel,63,"","",7513CB,Enschede
+Pathmossingel,65,"","",7513CB,Enschede
+Pathmossingel,101,"","",7513CC,Enschede
+Pathmossingel,103,"","",7513CC,Enschede
+Pathmossingel,105,"","",7513CC,Enschede
+Pathmossingel,107,"","",7513CC,Enschede
+Pathmossingel,109,"","",7513CC,Enschede
+Pathmossingel,111,"","",7513CC,Enschede
+Pathmossingel,67,"","",7513CC,Enschede
+Pathmossingel,69,"","",7513CC,Enschede
+Pathmossingel,71,"","",7513CC,Enschede
+Pathmossingel,73,"","",7513CC,Enschede
+Pathmossingel,75,"","",7513CC,Enschede
+Pathmossingel,77,"","",7513CC,Enschede
+Pathmossingel,77,A,"",7513CC,Enschede
+Pathmossingel,79,"","",7513CC,Enschede
+Pathmossingel,81,"","",7513CC,Enschede
+Pathmossingel,83,"","",7513CC,Enschede
+Pathmossingel,85,"","",7513CC,Enschede
+Pathmossingel,87,"","",7513CC,Enschede
+Pathmossingel,89,"","",7513CC,Enschede
+Pathmossingel,93,"","",7513CC,Enschede
+Pathmossingel,95,"","",7513CC,Enschede
+Pathmossingel,97,"","",7513CC,Enschede
+Pathmossingel,99,"","",7513CC,Enschede
+Pathmossingel,113,"","",7513CD,Enschede
+Pathmossingel,115,"","",7513CD,Enschede
+Pathmossingel,119,"","",7513CD,Enschede
+Pathmossingel,121,"","",7513CD,Enschede
+Pathmossingel,123,"","",7513CD,Enschede
+Pathmossingel,125,"","",7513CD,Enschede
+Pathmossingel,127,"","",7513CD,Enschede
+Pathmossingel,129,"","",7513CD,Enschede
+Pathmossingel,131,"","",7513CD,Enschede
+Pathmossingel,133,"","",7513CD,Enschede
+Pathmossingel,135,"","",7513CD,Enschede
+Pathmossingel,137,"","",7513CD,Enschede
+Pathmossingel,139,"","",7513CE,Enschede
+Pathmossingel,141,"","",7513CE,Enschede
+Pathmossingel,143,"","",7513CE,Enschede
+Pathmossingel,145,"","",7513CE,Enschede
+Pathmossingel,147,"","",7513CE,Enschede
+Pathmossingel,149,"","",7513CE,Enschede
+Pathmossingel,151,"","",7513CE,Enschede
+Pathmossingel,153,"","",7513CE,Enschede
+Pathmossingel,155,"","",7513CE,Enschede
+Pathmossingel,157,"","",7513CE,Enschede
+Pathmossingel,159,"","",7513CE,Enschede
+Pathmossingel,161,"","",7513CE,Enschede
+Pathmossingel,163,"","",7513CE,Enschede
+Pathmossingel,165,"","",7513CE,Enschede
+Pathmossingel,167,"","",7513CG,Enschede
+Pathmossingel,169,"","",7513CG,Enschede
+Pathmossingel,171,"","",7513CG,Enschede
+Pathmossingel,173,"","",7513CG,Enschede
+Pathmossingel,175,"","",7513CG,Enschede
+Pathmossingel,177,"","",7513CG,Enschede
+Pathmossingel,181,"","",7513CG,Enschede
+Pathmossingel,183,"","",7513CG,Enschede
+Pathmossingel,187,"","",7513CG,Enschede
+Pathmossingel,189,"","",7513CG,Enschede
+Pathmossingel,191,"","",7513CG,Enschede
+Pathmossingel,193,"","",7513CG,Enschede
+Pathmossingel,195,"","",7513CG,Enschede
+Pathmossingel,197,"","",7513CG,Enschede
+Pathmossingel,199,"","",7513CG,Enschede
+Pathmossingel,201,"","",7513CG,Enschede
+Pathmossingel,203,"","",7513CG,Enschede
+Pathmossingel,205,"","",7513CG,Enschede
+Pathmossingel,207,"","",7513CG,Enschede
+Pathmossingel,209,"","",7513CG,Enschede
+Haaksbergerstraat,376,"","",7545GA,Enschede
+Haaksbergerstraat,376,"","",7545GA,Enschede
+Haaksbergerstraat,376,"","",7545GA,Enschede
+Haaksbergerstraat,378,"","",7545GA,Enschede
+Haaksbergerstraat,380,"","",7545GA,Enschede
+Haaksbergerstraat,382,"","",7545GA,Enschede
+Haaksbergerstraat,384,"","",7545GA,Enschede
+Haaksbergerstraat,386,"","",7545GA,Enschede
+Haaksbergerstraat,388,"","",7545GA,Enschede
+Haaksbergerstraat,390,"","",7545GA,Enschede
+Haaksbergerstraat,392,"","",7545GA,Enschede
+Haaksbergerstraat,394,"","",7545GA,Enschede
+Haaksbergerstraat,396,"","",7545GA,Enschede
+Haaksbergerstraat,398,"","",7545GA,Enschede
+Haaksbergerstraat,400,"","",7545GA,Enschede
+Haaksbergerstraat,402,"","",7545GA,Enschede
+Haaksbergerstraat,402,A,"",7545GA,Enschede
+Haaksbergerstraat,404,"","",7545GA,Enschede
+Haaksbergerstraat,406,"","",7545GA,Enschede
+Haaksbergerstraat,408,"","",7545GA,Enschede
+Haaksbergerstraat,410,"","",7545GA,Enschede
+Haaksbergerstraat,410,A,"",7545GA,Enschede
+Haaksbergerstraat,412,"","",7545GA,Enschede
+Haaksbergerstraat,416,"","",7545GA,Enschede
+Haaksbergerstraat,418,"","",7545GB,Enschede
+Haaksbergerstraat,420,"","",7545GB,Enschede
+Haaksbergerstraat,422,"","",7545GB,Enschede
+Haaksbergerstraat,424,"","",7545GB,Enschede
+Haaksbergerstraat,426,"","",7545GB,Enschede
+Haaksbergerstraat,428,"","",7545GB,Enschede
+Haaksbergerstraat,430,A,"",7545GB,Enschede
+Haaksbergerstraat,430,B,"",7545GB,Enschede
+Haaksbergerstraat,430,C,"",7545GB,Enschede
+Haaksbergerstraat,430,D,"",7545GB,Enschede
+Haaksbergerstraat,430,E,"",7545GB,Enschede
+Haaksbergerstraat,430,F,"",7545GB,Enschede
+Haaksbergerstraat,430,G,"",7545GB,Enschede
+Haaksbergerstraat,430,H,"",7545GB,Enschede
+Haaksbergerstraat,430,I,"",7545GB,Enschede
+Haaksbergerstraat,430,J,"",7545GB,Enschede
+Haaksbergerstraat,430,J,"",7545GB,Enschede
+Haaksbergerstraat,430,K,"",7545GB,Enschede
+Haaksbergerstraat,430,K,"",7545GB,Enschede
+Haaksbergerstraat,430,L,"",7545GB,Enschede
+Haaksbergerstraat,430,L,"",7545GB,Enschede
+Haaksbergerstraat,430,M,"",7545GB,Enschede
+Haaksbergerstraat,430,M,"",7545GB,Enschede
+Haaksbergerstraat,430,N,"",7545GB,Enschede
+Haaksbergerstraat,430,O,"",7545GB,Enschede
+Haaksbergerstraat,430,P,"",7545GB,Enschede
+Haaksbergerstraat,430,Q,"",7545GB,Enschede
+Haaksbergerstraat,430,Q,"",7545GB,Enschede
+Haaksbergerstraat,430,R,"",7545GB,Enschede
+Haaksbergerstraat,430,R,"",7545GB,Enschede
+Haaksbergerstraat,430,S,"",7545GB,Enschede
+Haaksbergerstraat,430,S,"",7545GB,Enschede
+Haaksbergerstraat,430,T,"",7545GB,Enschede
+Haaksbergerstraat,430,U,"",7545GB,Enschede
+Haaksbergerstraat,456,"","",7545GB,Enschede
+Haaksbergerstraat,458,"","",7545GB,Enschede
+Haaksbergerstraat,460,"","",7545GB,Enschede
+Haaksbergerstraat,462,"","",7545GB,Enschede
+Haaksbergerstraat,464,"","",7545GB,Enschede
+Haaksbergerstraat,466,"","",7545GB,Enschede
+Haaksbergerstraat,468,"","",7545GB,Enschede
+Haaksbergerstraat,468,A,"",7545GB,Enschede
+Haaksbergerstraat,468,A,"",7545GB,Enschede
+Haaksbergerstraat,472,"","",7545GB,Enschede
+Haaksbergerstraat,472,A,"",7545GB,Enschede
+Haaksbergerstraat,472,B,"",7545GB,Enschede
+Haaksbergerstraat,472,C,"",7545GB,Enschede
+Haaksbergerstraat,472,D,"",7545GB,Enschede
+Haaksbergerstraat,472,E,"",7545GB,Enschede
+Haaksbergerstraat,472,F,"",7545GB,Enschede
+Haaksbergerstraat,472,G,"",7545GB,Enschede
+Haaksbergerstraat,472,H,"",7545GB,Enschede
+Haaksbergerstraat,472,I,"",7545GB,Enschede
+Haaksbergerstraat,472,J,"",7545GB,Enschede
+Haaksbergerstraat,472,K,"",7545GB,Enschede
+Haaksbergerstraat,472,L,"",7545GB,Enschede
+Haaksbergerstraat,472,M,"",7545GB,Enschede
+Haaksbergerstraat,474,"","",7545GB,Enschede
+Haaksbergerstraat,474,A,"",7545GB,Enschede
+Haaksbergerstraat,474,B,"",7545GB,Enschede
+Haaksbergerstraat,474,C,"",7545GB,Enschede
+Haaksbergerstraat,476,"","",7545GB,Enschede
+Haaksbergerstraat,476,A,"",7545GB,Enschede
+Haaksbergerstraat,476,B,"",7545GB,Enschede
+Haaksbergerstraat,476,C,"",7545GB,Enschede
+Haaksbergerstraat,478,"","",7545GB,Enschede
+Haaksbergerstraat,478,A,"",7545GB,Enschede
+Haaksbergerstraat,478,B,"",7545GB,Enschede
+Haaksbergerstraat,478,C,"",7545GB,Enschede
+Haaksbergerstraat,480,"","",7545GB,Enschede
+Haaksbergerstraat,480,A,"",7545GB,Enschede
+Haaksbergerstraat,480,B,"",7545GB,Enschede
+Haaksbergerstraat,480,C,"",7545GB,Enschede
+Haaksbergerstraat,482,"","",7545GB,Enschede
+Haaksbergerstraat,482,A,"",7545GB,Enschede
+Haaksbergerstraat,482,B,"",7545GB,Enschede
+Haaksbergerstraat,482,C,"",7545GB,Enschede
+Haaksbergerstraat,484,"","",7545GB,Enschede
+Haaksbergerstraat,484,A,"",7545GB,Enschede
+Haaksbergerstraat,484,B,"",7545GB,Enschede
+Haaksbergerstraat,484,C,"",7545GB,Enschede
+Haaksbergerstraat,486,"","",7545GB,Enschede
+Haaksbergerstraat,486,A,"",7545GB,Enschede
+Haaksbergerstraat,486,B,"",7545GB,Enschede
+Haaksbergerstraat,486,C,"",7545GB,Enschede
+Haaksbergerstraat,488,"","",7545GB,Enschede
+Haaksbergerstraat,488,A,"",7545GB,Enschede
+Haaksbergerstraat,488,B,"",7545GB,Enschede
+Haaksbergerstraat,488,C,"",7545GB,Enschede
+Haaksbergerstraat,490,"","",7545GB,Enschede
+Haaksbergerstraat,490,A,"",7545GB,Enschede
+Haaksbergerstraat,490,B,"",7545GB,Enschede
+Haaksbergerstraat,492,"","",7545GB,Enschede
+Haaksbergerstraat,492,A,"",7545GB,Enschede
+Haaksbergerstraat,492,B,"",7545GB,Enschede
+Haaksbergerstraat,494,"","",7545GB,Enschede
+Haaksbergerstraat,494,A,"",7545GB,Enschede
+Haaksbergerstraat,494,B,"",7545GB,Enschede
+Haaksbergerstraat,496,"","",7545GB,Enschede
+Haaksbergerstraat,496,A,"",7545GB,Enschede
+Haaksbergerstraat,496,B,"",7545GB,Enschede
+Haaksbergerstraat,498,"","",7545GB,Enschede
+Haaksbergerstraat,500,"","",7545GB,Enschede
+B.W. ter Kuilestraat,10,"","",7545LA,Enschede
+B.W. ter Kuilestraat,12,"","",7545LA,Enschede
+B.W. ter Kuilestraat,14,"","",7545LA,Enschede
+B.W. ter Kuilestraat,16,"","",7545LA,Enschede
+B.W. ter Kuilestraat,18,"","",7545LA,Enschede
+B.W. ter Kuilestraat,2,"","",7545LA,Enschede
+B.W. ter Kuilestraat,20,"","",7545LA,Enschede
+B.W. ter Kuilestraat,22,"","",7545LA,Enschede
+B.W. ter Kuilestraat,24,"","",7545LA,Enschede
+B.W. ter Kuilestraat,26,"","",7545LA,Enschede
+B.W. ter Kuilestraat,34,"","",7545LA,Enschede
+B.W. ter Kuilestraat,36,"","",7545LA,Enschede
+B.W. ter Kuilestraat,38,"","",7545LA,Enschede
+B.W. ter Kuilestraat,4,"","",7545LA,Enschede
+B.W. ter Kuilestraat,40,"","",7545LA,Enschede
+B.W. ter Kuilestraat,42,"","",7545LA,Enschede
+B.W. ter Kuilestraat,44,"","",7545LA,Enschede
+B.W. ter Kuilestraat,46,"","",7545LA,Enschede
+B.W. ter Kuilestraat,48,"","",7545LA,Enschede
+B.W. ter Kuilestraat,50,"","",7545LA,Enschede
+B.W. ter Kuilestraat,6,"","",7545LA,Enschede
+B.W. ter Kuilestraat,8,"","",7545LA,Enschede
+Tweede Emmastraat,50,"","",7545MP,Enschede
+Tweede Emmastraat,51,"","",7545MP,Enschede
+Tweede Emmastraat,53,"","",7545MP,Enschede
+Tweede Emmastraat,55,"","",7545MP,Enschede
+Tweede Emmastraat,57,"","",7545MP,Enschede
+Tweede Emmastraat,59,"","",7545MP,Enschede
+Tweede Emmastraat,60,"","",7545MP,Enschede
+Tweede Emmastraat,61,"","",7545MP,Enschede
+Tweede Emmastraat,63,"","",7545MP,Enschede
+Tweede Emmastraat,65,"","",7545MP,Enschede
+Tweede Emmastraat,67,"","",7545MP,Enschede
+Tweede Emmastraat,69,"","",7545MP,Enschede
+Tweede Emmastraat,71,"","",7545MP,Enschede
+Tweede Emmastraat,73,"","",7545MP,Enschede
+Tweede Emmastraat,75,"","",7545MP,Enschede
+Tweede Emmastraat,77,"","",7545MP,Enschede
+Tweede Emmastraat,79,"","",7545MP,Enschede
+Tweede Emmastraat,81,"","",7545MP,Enschede
+Tweede Emmastraat,83,"","",7545MP,Enschede
+Tweede Emmastraat,85,"","",7545MP,Enschede
+Vorstmanplantsoen,1,"","",7545SB,Enschede
+Vorstmanplantsoen,10,"","",7545SB,Enschede
+Vorstmanplantsoen,11,"","",7545SB,Enschede
+Vorstmanplantsoen,12,"","",7545SB,Enschede
+Vorstmanplantsoen,13,"","",7545SB,Enschede
+Vorstmanplantsoen,14,"","",7545SB,Enschede
+Vorstmanplantsoen,15,"","",7545SB,Enschede
+Vorstmanplantsoen,16,"","",7545SB,Enschede
+Vorstmanplantsoen,17,"","",7545SB,Enschede
+Vorstmanplantsoen,18,"","",7545SB,Enschede
+Vorstmanplantsoen,19,"","",7545SB,Enschede
+Vorstmanplantsoen,2,"","",7545SB,Enschede
+Vorstmanplantsoen,20,"","",7545SB,Enschede
+Vorstmanplantsoen,3,"","",7545SB,Enschede
+Vorstmanplantsoen,4,"","",7545SB,Enschede
+Vorstmanplantsoen,5,"","",7545SB,Enschede
+Vorstmanplantsoen,6,"","",7545SB,Enschede
+Vorstmanplantsoen,7,"","",7545SB,Enschede
+Vorstmanplantsoen,8,"","",7545SB,Enschede
+Vorstmanplantsoen,9,"","",7545SB,Enschede
+Usselerweg,1,"","",7545SC,Enschede
+Usselerweg,11,"","",7545SC,Enschede
+Usselerweg,13,"","",7545SC,Enschede
+Usselerweg,15,"","",7545SC,Enschede
+Usselerweg,17,"","",7545SC,Enschede
+Usselerweg,23,"","",7545SC,Enschede
+Usselerweg,29,"","",7545SC,Enschede
+Usselerweg,3,"","",7545SC,Enschede
+Usselerweg,33,"","",7545SC,Enschede
+Usselerweg,35,"","",7545SC,Enschede
+Usseleresweg,37,"","",7545SC,Enschede
+Usseleresweg,37,"","",7545SC,Enschede
+Usselerweg,39,"","",7545SC,Enschede
+Usselerweg,39,"","",7545SC,Enschede
+Usselerweg,39,"","",7545SC,Enschede
+Usselerweg,39,"","",7545SC,Enschede
+Usselerweg,41,"","",7545SC,Enschede
+Usselerweg,41,"","",7545SC,Enschede
+Usselerweg,41,"","",7545SC,Enschede
+Usselerweg,41,"","",7545SC,Enschede
+Usselerweg,43,"","",7545SC,Enschede
+Usselerweg,43,"","",7545SC,Enschede
+Usselerweg,43,"","",7545SC,Enschede
+Usselerweg,43,"","",7545SC,Enschede
+Usselerweg,43,A,"",7545SC,Enschede
+Usselerweg,43,A,"",7545SC,Enschede
+Usselerweg,43,B,"",7545SC,Enschede
+Usselerweg,43,B,"",7545SC,Enschede
+Usselerweg,45,"","",7545SC,Enschede
+Usselerweg,45,"","",7545SC,Enschede
+Usselerweg,45,"","",7545SC,Enschede
+Usselerweg,45,"","",7545SC,Enschede
+Usselerweg,47,"","",7545SC,Enschede
+Usselerweg,47,"","",7545SC,Enschede
+Usselerweg,5,"","",7545SC,Enschede
+Usselerweg,7,"","",7545SC,Enschede
+Usselerweg,9,"","",7545SC,Enschede
+Usselerweg,49,"","",7545SE,Enschede
+Usselerweg,53,"","",7545SE,Enschede
+Usselerweg,55,"","",7545SE,Enschede
+Usselerweg,57,"","",7545SE,Enschede
+Usselerweg,59,"","",7545SE,Enschede
+Usselerweg,61,"","",7545SE,Enschede
+Usselerweg,63,"","",7545SE,Enschede
+Usselerweg,83,"","",7545SE,Enschede
+Usselerweg,85,"","",7545SE,Enschede
+Usselerweg,87,"","",7545SE,Enschede
+Usselerweg,89,"","",7545SE,Enschede
+Usselerweg,91,"","",7545SE,Enschede
+Usselerweg,93,"","",7545SE,Enschede
+Usselerweg,95,"","",7545SE,Enschede
+Usselerweg,10,"","",7545SG,Enschede
+Usselerweg,12,"","",7545SG,Enschede
+Usselerweg,14,"","",7545SG,Enschede
+Usselerweg,16,"","",7545SG,Enschede
+Usselerweg,18,"","",7545SG,Enschede
+Usselerweg,2,"","",7545SG,Enschede
+Usselerweg,20,"","",7545SG,Enschede
+Usselerweg,26,"","",7545SG,Enschede
+Usselerweg,26,A,"",7545SG,Enschede
+Usselerweg,26,B,"",7545SG,Enschede
+Usselerweg,26,C,"",7545SG,Enschede
+Usselerweg,30,"","",7545SG,Enschede
+Usselerweg,32,"","",7545SG,Enschede
+Usselerweg,34,"","",7545SG,Enschede
+Usselerweg,36,"","",7545SG,Enschede
+Usselerweg,38,"","",7545SG,Enschede
+Usselerweg,4,"","",7545SG,Enschede
+Usselerweg,40,"","",7545SG,Enschede
+Usselerweg,42,"","",7545SG,Enschede
+Usselerweg,44,"","",7545SG,Enschede
+Usselerweg,46,"","",7545SG,Enschede
+Usselerweg,48,"","",7545SG,Enschede
+Usselerweg,50,"","",7545SG,Enschede
+Usselerweg,52,"","",7545SG,Enschede
+Usselerweg,54,"","",7545SG,Enschede
+Usselerweg,56,"","",7545SG,Enschede
+Usselerweg,58,"","",7545SG,Enschede
+Usselerweg,6,"","",7545SG,Enschede
+Usselerweg,8,"","",7545SG,Enschede
+Usselerweg,102,"","",7545SH,Enschede
+Usselerweg,104,"","",7545SH,Enschede
+Usselerweg,106,"","",7545SH,Enschede
+Usselerweg,108,"","",7545SH,Enschede
+Usselerweg,110,"","",7545SH,Enschede
+Usselerweg,112,"","",7545SH,Enschede
+Usselerweg,114,"","",7545SH,Enschede
+Usselerweg,116,"","",7545SH,Enschede
+Usselerweg,60,"","",7545SH,Enschede
+Usselerweg,62,"","",7545SH,Enschede
+Usselerweg,64,"","",7545SH,Enschede
+Usselerweg,66,"","",7545SH,Enschede
+Usselerweg,68,"","",7545SH,Enschede
+Usselerweg,70,"","",7545SH,Enschede
+Usselerweg,72,"","",7545SH,Enschede
+Usselerweg,74,"","",7545SH,Enschede
+Usselerweg,76,"","",7545SH,Enschede
+Bloemendaalstraat,13,"","",7545SJ,Enschede
+Bloemendaalstraat,15,"","",7545SJ,Enschede
+Bloemendaalstraat,17,"","",7545SJ,Enschede
+Bloemendaalstraat,19,"","",7545SJ,Enschede
+Bloemendaalstraat,21,"","",7545SJ,Enschede
+Bloemendaalstraat,23,"","",7545SJ,Enschede
+Bloemendaalstraat,25,"","",7545SJ,Enschede
+Bloemendaalstraat,27,"","",7545SJ,Enschede
+Bloemendaalstraat,29,"","",7545SJ,Enschede
+Bloemendaalstraat,3,"","",7545SJ,Enschede
+Bloemendaalstraat,31,"","",7545SJ,Enschede
+Bloemendaalstraat,33,"","",7545SJ,Enschede
+Bloemendaalstraat,35,"","",7545SJ,Enschede
+Bloemendaalstraat,5,"","",7545SJ,Enschede
+Bloemendaalstraat,7,"","",7545SJ,Enschede
+Bloemendaalstraat,12,"","",7545SK,Enschede
+Bloemendaalstraat,14,"","",7545SK,Enschede
+Bloemendaalstraat,18,"","",7545SK,Enschede
+Bloemendaalstraat,20,"","",7545SK,Enschede
+Bloemendaalstraat,22,"","",7545SK,Enschede
+Bloemendaalstraat,24,"","",7545SK,Enschede
+Bloemendaalstraat,24,"","",7545SK,Enschede
+Bloemendaalstraat,26,"","",7545SK,Enschede
+Bloemendaalstraat,26,"","",7545SK,Enschede
+Bloemendaalstraat,28,"","",7545SK,Enschede
+Bloemendaalstraat,30,"","",7545SK,Enschede
+Bloemendaalstraat,4,"","",7545SK,Enschede
+Bloemendaalstraat,6,"","",7545SK,Enschede
+Bloemendaalstraat,8,"","",7545SK,Enschede
+Usselerplein,1,"","",7545SL,Enschede
+Usselerplein,1,"","",7545SL,Enschede
+Usselerplein,2,"","",7545SL,Enschede
+Usselerplein,3,"","",7545SL,Enschede
+Bloemendaalstraat,32,"","",7545SL,Enschede
+Bloemendaalstraat,34,"","",7545SL,Enschede
+Bloemendaalstraat,36,"","",7545SL,Enschede
+Bloemendaalstraat,38,"","",7545SL,Enschede
+Usselerplein,4,"","",7545SL,Enschede
+Bloemendaalstraat,40,"","",7545SL,Enschede
+Bloemendaalstraat,42,"","",7545SL,Enschede
+Bloemendaalstraat,44,"","",7545SL,Enschede
+Ruwerstraat,1,"","",7545SM,Enschede
+Ruwerstraat,11,"","",7545SM,Enschede
+Ruwerstraat,13,"","",7545SM,Enschede
+Ruwerstraat,15,"","",7545SM,Enschede
+Ruwerstraat,17,"","",7545SM,Enschede
+Ruwerstraat,19,"","",7545SM,Enschede
+Ruwerstraat,2,"","",7545SM,Enschede
+Ruwerstraat,21,"","",7545SM,Enschede
+Ruwerstraat,23,"","",7545SM,Enschede
+Ruwerstraat,25,"","",7545SM,Enschede
+Ruwerstraat,3,"","",7545SM,Enschede
+Ruwerstraat,4,"","",7545SM,Enschede
+Ruwerstraat,5,"","",7545SM,Enschede
+Ruwerstraat,7,"","",7545SM,Enschede
+Ruwerstraat,9,"","",7545SM,Enschede
+Buitenweg,1,"","",7545SN,Enschede
+Buitenweg,13,"","",7545SN,Enschede
+Buitenweg,15,"","",7545SN,Enschede
+Buitenweg,17,"","",7545SN,Enschede
+Buitenweg,19,"","",7545SN,Enschede
+Buitenweg,21,"","",7545SN,Enschede
+Buitenweg,23,"","",7545SN,Enschede
+Buitenweg,25,"","",7545SN,Enschede
+Buitenweg,27,"","",7545SN,Enschede
+Buitenweg,29,"","",7545SN,Enschede
+Buitenweg,31,"","",7545SN,Enschede
+Buitenweg,33,"","",7545SN,Enschede
+Buitenweg,35,"","",7545SN,Enschede
+Buitenweg,37,"","",7545SN,Enschede
+Buitenweg,39,"","",7545SN,Enschede
+Buitenweg,41,"","",7545SN,Enschede
+Buitenweg,43,"","",7545SN,Enschede
+Buitenweg,45,"","",7545SN,Enschede
+Buitenweg,47,"","",7545SN,Enschede
+Buitenweg,49,"","",7545SN,Enschede
+Buitenweg,5,"","",7545SN,Enschede
+Buitenweg,7,"","",7545SN,Enschede
+Buitenweg,10,"","",7545SP,Enschede
+Buitenweg,12,"","",7545SP,Enschede
+Buitenweg,14,"","",7545SP,Enschede
+Buitenweg,2,"","",7545SP,Enschede
+Buitenweg,20,"","",7545SP,Enschede
+Buitenweg,22,"","",7545SP,Enschede
+Buitenweg,24,"","",7545SP,Enschede
+Buitenweg,26,"","",7545SP,Enschede
+Buitenweg,28,"","",7545SP,Enschede
+Buitenweg,30,"","",7545SP,Enschede
+Buitenweg,32,"","",7545SP,Enschede
+Buitenweg,4,"","",7545SP,Enschede
+Buitenweg,6,"",11,7545SP,Enschede
+Buitenweg,6,"",12,7545SP,Enschede
+Buitenweg,6,"",13,7545SP,Enschede
+Buitenweg,6,"",14,7545SP,Enschede
+Buitenweg,6,"",15,7545SP,Enschede
+Buitenweg,6,"",16,7545SP,Enschede
+Buitenweg,6,"",17,7545SP,Enschede
+Buitenweg,6,"",18,7545SP,Enschede
+Buitenweg,6,"",19,7545SP,Enschede
+Buitenweg,6,"",21,7545SP,Enschede
+Buitenweg,6,"",22,7545SP,Enschede
+Buitenweg,6,"",23,7545SP,Enschede
+Buitenweg,6,"",24,7545SP,Enschede
+Buitenweg,6,"",25,7545SP,Enschede
+Buitenweg,6,"",26,7545SP,Enschede
+Buitenweg,6,"",27,7545SP,Enschede
+Buitenweg,6,"",28,7545SP,Enschede
+Buitenweg,6,"",31,7545SP,Enschede
+Buitenweg,6,"",32,7545SP,Enschede
+Buitenweg,8,"",11,7545SP,Enschede
+Buitenweg,8,"",12,7545SP,Enschede
+Buitenweg,8,"",13,7545SP,Enschede
+Buitenweg,8,"",14,7545SP,Enschede
+Buitenweg,8,"",21,7545SP,Enschede
+Buitenweg,8,"",23,7545SP,Enschede
+Dr. Eekmanstraat,1,"","",7545SR,Enschede
+Dr. Eekmanstraat,11,"","",7545SR,Enschede
+Dr. Eekmanstraat,13,"","",7545SR,Enschede
+Dr. Eekmanstraat,15,"","",7545SR,Enschede
+Dr. Eekmanstraat,17,"","",7545SR,Enschede
+Dr. Eekmanstraat,19,"","",7545SR,Enschede
+Dr. Eekmanstraat,3,"","",7545SR,Enschede
+Dr. Eekmanstraat,5,"","",7545SR,Enschede
+Dr. Eekmanstraat,7,"","",7545SR,Enschede
+Dr. Eekmanstraat,9,"","",7545SR,Enschede
+Dr. Eekmanstraat,10,"","",7545ST,Enschede
+Dr. Eekmanstraat,12,"","",7545ST,Enschede
+Dr. Eekmanstraat,14,"","",7545ST,Enschede
+Dr. Eekmanstraat,16,"","",7545ST,Enschede
+Dr. Eekmanstraat,18,"","",7545ST,Enschede
+Dr. Eekmanstraat,2,"","",7545ST,Enschede
+Dr. Eekmanstraat,20,"","",7545ST,Enschede
+Dr. Eekmanstraat,22,"","",7545ST,Enschede
+Dr. Eekmanstraat,24,"","",7545ST,Enschede
+Dr. Eekmanstraat,4,"","",7545ST,Enschede
+Dr. Eekmanstraat,6,"","",7545ST,Enschede
+Dr. Eekmanstraat,8,"","",7545ST,Enschede
+Van Coeverdenstraat,1,"","",7545SV,Enschede
+Van Coeverdenstraat,11,"","",7545SV,Enschede
+Van Coeverdenstraat,13,"","",7545SV,Enschede
+Van Coeverdenstraat,15,"","",7545SV,Enschede
+Van Coeverdenstraat,17,"","",7545SV,Enschede
+Van Coeverdenstraat,3,"","",7545SV,Enschede
+Van Coeverdenstraat,5,"","",7545SV,Enschede
+Van Coeverdenstraat,7,"","",7545SV,Enschede
+Van Coeverdenstraat,9,"","",7545SV,Enschede
+Van Coeverdenstraat,10,"","",7545SW,Enschede
+Van Coeverdenstraat,12,"","",7545SW,Enschede
+Van Coeverdenstraat,14,"","",7545SW,Enschede
+Van Coeverdenstraat,16,"","",7545SW,Enschede
+Van Coeverdenstraat,18,"","",7545SW,Enschede
+Van Coeverdenstraat,2,"","",7545SW,Enschede
+Van Coeverdenstraat,4,"","",7545SW,Enschede
+Van Coeverdenstraat,6,"","",7545SW,Enschede
+Van Coeverdenstraat,8,"","",7545SW,Enschede
+Eversstraat,11,"","",7545SX,Enschede
+Eversstraat,13,"","",7545SX,Enschede
+Eversstraat,15,"","",7545SX,Enschede
+Eversstraat,17,"","",7545SX,Enschede
+Eversstraat,19,"","",7545SX,Enschede
+Eversstraat,21,"","",7545SX,Enschede
+Eversstraat,23,"","",7545SX,Enschede
+Eversstraat,25,"","",7545SX,Enschede
+Eversstraat,27,"","",7545SX,Enschede
+Eversstraat,29,"","",7545SX,Enschede
+Eversstraat,3,"","",7545SX,Enschede
+Eversstraat,31,"","",7545SX,Enschede
+Eversstraat,33,"","",7545SX,Enschede
+Eversstraat,35,"","",7545SX,Enschede
+Eversstraat,37,"","",7545SX,Enschede
+Eversstraat,39,"","",7545SX,Enschede
+Eversstraat,41,"","",7545SX,Enschede
+Eversstraat,43,"","",7545SX,Enschede
+Eversstraat,45,"","",7545SX,Enschede
+Eversstraat,47,"","",7545SX,Enschede
+Eversstraat,49,"","",7545SX,Enschede
+Eversstraat,5,"","",7545SX,Enschede
+Eversstraat,51,"","",7545SX,Enschede
+Eversstraat,53,"","",7545SX,Enschede
+Eversstraat,55,"","",7545SX,Enschede
+Eversstraat,57,"","",7545SX,Enschede
+Eversstraat,59,"","",7545SX,Enschede
+Eversstraat,7,"","",7545SX,Enschede
+Eversstraat,9,"","",7545SX,Enschede
+Eversstraat,10,"","",7545SZ,Enschede
+Eversstraat,16,"","",7545SZ,Enschede
+Eversstraat,18,"","",7545SZ,Enschede
+Eversstraat,20,"","",7545SZ,Enschede
+Eversstraat,22,"","",7545SZ,Enschede
+Eversstraat,24,"","",7545SZ,Enschede
+Eversstraat,26,"","",7545SZ,Enschede
+Eversstraat,28,"","",7545SZ,Enschede
+Eversstraat,30,"","",7545SZ,Enschede
+Eversstraat,4,"","",7545SZ,Enschede
+Eversstraat,6,"","",7545SZ,Enschede
+Eversstraat,8,"","",7545SZ,Enschede
+Goormaatweg,1,"","",7545TA,Enschede
+Goormaatweg,10,"","",7545TA,Enschede
+Goormaatweg,11,"","",7545TA,Enschede
+Goormaatweg,12,"","",7545TA,Enschede
+Goormaatweg,13,"","",7545TA,Enschede
+Goormaatweg,4,"","",7545TA,Enschede
+Goormaatweg,5,"","",7545TA,Enschede
+Goormaatweg,6,"","",7545TA,Enschede
+Goormaatweg,7,"","",7545TA,Enschede
+Goormaatweg,8,"","",7545TA,Enschede
+Goormaatweg,9,"","",7545TA,Enschede
+Goormaatdwarsweg,10,"","",7545TB,Enschede
+Goormaatdwarsweg,11,"","",7545TB,Enschede
+Goormaatdwarsweg,12,"","",7545TB,Enschede
+Goormaatdwarsweg,13,"","",7545TB,Enschede
+Goormaatdwarsweg,14,"","",7545TB,Enschede
+Goormaatdwarsweg,15,"","",7545TB,Enschede
+Goormaatdwarsweg,16,"","",7545TB,Enschede
+Goormaatdwarsweg,17,"","",7545TB,Enschede
+Goormaatdwarsweg,19,"","",7545TB,Enschede
+Goormaatdwarsweg,20,"","",7545TB,Enschede
+Goormaatdwarsweg,21,"","",7545TB,Enschede
+Goormaatdwarsweg,22,"","",7545TB,Enschede
+Goormaatdwarsweg,8,"","",7545TB,Enschede
+Dr. Kostersstraat,1,"","",7545TC,Enschede
+Dr. Kostersstraat,11,"","",7545TC,Enschede
+Dr. Kostersstraat,13,"","",7545TC,Enschede
+Dr. Kostersstraat,15,"","",7545TC,Enschede
+Dr. Kostersstraat,17,"","",7545TC,Enschede
+Dr. Kostersstraat,19,"","",7545TC,Enschede
+Dr. Kostersstraat,21,"","",7545TC,Enschede
+Dr. Kostersstraat,23,"","",7545TC,Enschede
+Dr. Kostersstraat,25,"","",7545TC,Enschede
+Dr. Kostersstraat,3,"","",7545TC,Enschede
+Dr. Kostersstraat,5,"","",7545TC,Enschede
+Dr. Kostersstraat,7,"","",7545TC,Enschede
+Dr. Kostersstraat,9,"","",7545TC,Enschede
+Dr. Kostersstraat,10,"","",7545TD,Enschede
+Dr. Kostersstraat,12,"","",7545TD,Enschede
+Dr. Kostersstraat,14,"","",7545TD,Enschede
+Dr. Kostersstraat,16,"","",7545TD,Enschede
+Dr. Kostersstraat,18,"","",7545TD,Enschede
+Dr. Kostersstraat,2,"","",7545TD,Enschede
+Dr. Kostersstraat,20,"","",7545TD,Enschede
+Dr. Kostersstraat,4,"","",7545TD,Enschede
+Dr. Kostersstraat,6,"","",7545TD,Enschede
+Dr. Kostersstraat,8,"","",7545TD,Enschede
+Sterkerstraat,1,"","",7545TE,Enschede
+Sterkerstraat,11,"","",7545TE,Enschede
+Sterkerstraat,13,"","",7545TE,Enschede
+Sterkerstraat,15,"","",7545TE,Enschede
+Sterkerstraat,17,"","",7545TE,Enschede
+Sterkerstraat,19,"","",7545TE,Enschede
+Sterkerstraat,21,"","",7545TE,Enschede
+Sterkerstraat,3,"","",7545TE,Enschede
+Sterkerstraat,5,"","",7545TE,Enschede
+Sterkerstraat,7,"","",7545TE,Enschede
+Sterkerstraat,9,"","",7545TE,Enschede
+Sterkerstraat,23,"","",7545TG,Enschede
+Sterkerstraat,25,"","",7545TG,Enschede
+Sterkerstraat,27,"","",7545TG,Enschede
+Sterkerstraat,29,"","",7545TG,Enschede
+Sterkerstraat,31,"","",7545TG,Enschede
+Sterkerstraat,33,"","",7545TG,Enschede
+Sterkerstraat,35,"","",7545TG,Enschede
+Sterkerstraat,37,"","",7545TG,Enschede
+Sterkerstraat,39,"","",7545TG,Enschede
+Sterkerstraat,41,"","",7545TG,Enschede
+Sterkerstraat,43,"","",7545TG,Enschede
+Sterkerstraat,45,"","",7545TG,Enschede
+Sterkerstraat,47,"","",7545TG,Enschede
+Sterkerstraat,49,"","",7545TG,Enschede
+Sterkerstraat,10,"","",7545TH,Enschede
+Sterkerstraat,12,"","",7545TH,Enschede
+Sterkerstraat,14,"","",7545TH,Enschede
+Sterkerstraat,16,"","",7545TH,Enschede
+Sterkerstraat,18,"","",7545TH,Enschede
+Sterkerstraat,2,"","",7545TH,Enschede
+Sterkerstraat,20,"","",7545TH,Enschede
+Sterkerstraat,22,"","",7545TH,Enschede
+Sterkerstraat,24,"","",7545TH,Enschede
+Sterkerstraat,26,"","",7545TH,Enschede
+Sterkerstraat,28,"","",7545TH,Enschede
+Sterkerstraat,28,A,"",7545TH,Enschede
+Sterkerstraat,28,A,"",7545TH,Enschede
+Sterkerstraat,4,"","",7545TH,Enschede
+Sterkerstraat,6,"","",7545TH,Enschede
+Sterkerstraat,8,"","",7545TH,Enschede
+Weverstraat,1,"","",7545TJ,Enschede
+Weverstraat,11,"","",7545TJ,Enschede
+Weverstraat,13,"","",7545TJ,Enschede
+Weverstraat,15,"","",7545TJ,Enschede
+Weverstraat,17,"","",7545TJ,Enschede
+Weverstraat,19,"","",7545TJ,Enschede
+Weverstraat,21,"","",7545TJ,Enschede
+Weverstraat,23,"","",7545TJ,Enschede
+Weverstraat,25,"","",7545TJ,Enschede
+Weverstraat,27,"","",7545TJ,Enschede
+Weverstraat,27,"","",7545TJ,Enschede
+Weverstraat,3,"","",7545TJ,Enschede
+Weverstraat,35,"","",7545TJ,Enschede
+Weverstraat,37,"","",7545TJ,Enschede
+Weverstraat,39,"","",7545TJ,Enschede
+Weverstraat,41,"","",7545TJ,Enschede
+Weverstraat,43,"","",7545TJ,Enschede
+Weverstraat,45,"","",7545TJ,Enschede
+Weverstraat,47,"","",7545TJ,Enschede
+Weverstraat,7,"","",7545TJ,Enschede
+Weverstraat,9,"","",7545TJ,Enschede
+Weverstraat,10,"","",7545TK,Enschede
+Weverstraat,12,"","",7545TK,Enschede
+Weverstraat,14,"","",7545TK,Enschede
+Weverstraat,16,"","",7545TK,Enschede
+Weverstraat,18,"","",7545TK,Enschede
+Weverstraat,2,"","",7545TK,Enschede
+Weverstraat,20,"","",7545TK,Enschede
+Weverstraat,22,"","",7545TK,Enschede
+Weverstraat,24,"","",7545TK,Enschede
+Weverstraat,26,"","",7545TK,Enschede
+Weverstraat,28,"","",7545TK,Enschede
+Weverstraat,30,"","",7545TK,Enschede
+Weverstraat,4,"","",7545TK,Enschede
+Weverstraat,6,"","",7545TK,Enschede
+Weverstraat,8,"","",7545TK,Enschede
+Weverstraat,32,"","",7545TL,Enschede
+Weverstraat,34,"","",7545TL,Enschede
+Weverstraat,36,"","",7545TL,Enschede
+Weverstraat,38,"","",7545TL,Enschede
+Weverstraat,40,"","",7545TL,Enschede
+Weverstraat,42,"","",7545TL,Enschede
+Weverstraat,44,"","",7545TL,Enschede
+Weverstraat,46,"","",7545TL,Enschede
+Weverstraat,48,"","",7545TL,Enschede
+Weverstraat,50,"","",7545TL,Enschede
+Weverstraat,52,"","",7545TL,Enschede
+Weverstraat,54,"","",7545TL,Enschede
+Weverstraat,56,"","",7545TL,Enschede
+Weverstraat,58,"","",7545TL,Enschede
+Weverstraat,60,"","",7545TL,Enschede
+Weverstraat,62,"","",7545TL,Enschede
+Weverstraat,64,"","",7545TL,Enschede
+Ververstraat,1,"","",7545TM,Enschede
+Ververstraat,11,"","",7545TM,Enschede
+Ververstraat,13,"","",7545TM,Enschede
+Ververstraat,15,"","",7545TM,Enschede
+Ververstraat,17,"","",7545TM,Enschede
+Ververstraat,19,"","",7545TM,Enschede
+Ververstraat,21,"","",7545TM,Enschede
+Ververstraat,23,"","",7545TM,Enschede
+Ververstraat,25,"","",7545TM,Enschede
+Ververstraat,27,"","",7545TM,Enschede
+Ververstraat,29,"","",7545TM,Enschede
+Ververstraat,3,"","",7545TM,Enschede
+Ververstraat,31,"","",7545TM,Enschede
+Ververstraat,33,"","",7545TM,Enschede
+Ververstraat,35,"","",7545TM,Enschede
+Ververstraat,37,"","",7545TM,Enschede
+Ververstraat,39,"","",7545TM,Enschede
+Ververstraat,41,"","",7545TM,Enschede
+Ververstraat,43,"","",7545TM,Enschede
+Ververstraat,5,"","",7545TM,Enschede
+Ververstraat,7,"","",7545TM,Enschede
+Ververstraat,9,"","",7545TM,Enschede
+Ververstraat,10,"","",7545TN,Enschede
+Ververstraat,12,"","",7545TN,Enschede
+Ververstraat,14,"","",7545TN,Enschede
+Ververstraat,16,"","",7545TN,Enschede
+Ververstraat,18,"","",7545TN,Enschede
+Ververstraat,2,"","",7545TN,Enschede
+Ververstraat,20,"","",7545TN,Enschede
+Ververstraat,22,"","",7545TN,Enschede
+Ververstraat,24,"","",7545TN,Enschede
+Ververstraat,26,"","",7545TN,Enschede
+Ververstraat,28,"","",7545TN,Enschede
+Ververstraat,30,"","",7545TN,Enschede
+Ververstraat,30,A,"",7545TN,Enschede
+Ververstraat,32,"","",7545TN,Enschede
+Ververstraat,34,"","",7545TN,Enschede
+Ververstraat,4,"","",7545TN,Enschede
+Ververstraat,6,"","",7545TN,Enschede
+Ververstraat,8,"","",7545TN,Enschede
+Spinnerstraat,1,"","",7545TP,Enschede
+Spinnerstraat,27,"","",7545TP,Enschede
+Spinnerstraat,27,A,"",7545TP,Enschede
+Spinnerstraat,29,"","",7545TP,Enschede
+Spinnerstraat,29,A,"",7545TP,Enschede
+Spinnerstraat,3,"","",7545TP,Enschede
+Spinnerstraat,31,"","",7545TP,Enschede
+Spinnerstraat,31,"","",7545TP,Enschede
+Spinnerstraat,31,"","",7545TP,Enschede
+Spinnerstraat,31,"","",7545TP,Enschede
+Spinnerstraat,31,A,"",7545TP,Enschede
+Spinnerstraat,31,A,"",7545TP,Enschede
+Spinnerstraat,33,"","",7545TP,Enschede
+Spinnerstraat,35,"","",7545TP,Enschede
+Spinnerstraat,37,"","",7545TP,Enschede
+Spinnerstraat,39,"","",7545TP,Enschede
+Spinnerstraat,41,"","",7545TP,Enschede
+Spinnerstraat,43,"","",7545TP,Enschede
+Spinnerstraat,45,"","",7545TP,Enschede
+Spinnerstraat,47,"","",7545TP,Enschede
+Spinnerstraat,49,"","",7545TP,Enschede
+Spinnerstraat,10,"","",7545TR,Enschede
+Spinnerstraat,10,A,"",7545TR,Enschede
+Spinnerstraat,12,"","",7545TR,Enschede
+Spinnerstraat,12,A,"",7545TR,Enschede
+Spinnerstraat,14,"","",7545TR,Enschede
+Spinnerstraat,16,"","",7545TR,Enschede
+Spinnerstraat,18,"","",7545TR,Enschede
+Spinnerstraat,2,"","",7545TR,Enschede
+Spinnerstraat,20,"","",7545TR,Enschede
+Spinnerstraat,22,"","",7545TR,Enschede
+Spinnerstraat,24,"","",7545TR,Enschede
+Spinnerstraat,26,"","",7545TR,Enschede
+Spinnerstraat,28,"","",7545TR,Enschede
+Spinnerstraat,30,"","",7545TR,Enschede
+Spinnerstraat,4,"","",7545TR,Enschede
+Spinnerstraat,6,"","",7545TR,Enschede
+Spinnerstraat,8,"","",7545TR,Enschede
+Spinnerstraat,32,"","",7545TS,Enschede
+Spinnerstraat,34,"","",7545TS,Enschede
+Spinnerstraat,36,"","",7545TS,Enschede
+Spinnerstraat,38,"","",7545TS,Enschede
+Spinnerstraat,40,"","",7545TS,Enschede
+Spinnerstraat,42,"","",7545TS,Enschede
+Spinnerstraat,44,"","",7545TS,Enschede
+Spinnerstraat,46,"","",7545TS,Enschede
+Spinnerstraat,48,"","",7545TS,Enschede
+Spinnerstraat,50,"","",7545TS,Enschede
+Spinnerstraat,52,"","",7545TS,Enschede
+Spinnerstraat,54,"","",7545TS,Enschede
+Spinnerstraat,56,"","",7545TS,Enschede
+Spinnerstraat,58,"","",7545TS,Enschede
+Pathmosplein,1,"","",7545TT,Enschede
+Pathmosplein,10,"","",7545TT,Enschede
+Pathmosplein,11,"","",7545TT,Enschede
+Pathmosplein,12,"","",7545TT,Enschede
+Pathmosplein,2,"","",7545TT,Enschede
+Pathmosplein,3,"","",7545TT,Enschede
+Pathmosplein,4,"","",7545TT,Enschede
+Pathmosplein,5,"","",7545TT,Enschede
+Pathmosplein,6,"","",7545TT,Enschede
+Pathmosplein,7,"","",7545TT,Enschede
+Pathmosplein,8,"","",7545TT,Enschede
+Pathmosplein,9,"","",7545TT,Enschede
+Spinnerplein,1,"","",7545TV,Enschede
+Spinnerplein,10,"","",7545TV,Enschede
+Spinnerplein,11,"","",7545TV,Enschede
+Spinnerplein,12,"","",7545TV,Enschede
+Spinnerplein,2,"","",7545TV,Enschede
+Spinnerplein,3,"","",7545TV,Enschede
+Spinnerplein,4,"","",7545TV,Enschede
+Spinnerplein,5,"","",7545TV,Enschede
+Spinnerplein,6,"","",7545TV,Enschede
+Spinnerplein,6,A,"",7545TV,Enschede
+Spinnerplein,7,"","",7545TV,Enschede
+Spinnerplein,8,"","",7545TV,Enschede
+Spinnerplein,9,"","",7545TV,Enschede
+Bombazijnstraat,1,"","",7545TW,Enschede
+Bombazijnstraat,11,"","",7545TW,Enschede
+Bombazijnstraat,13,"","",7545TW,Enschede
+Bombazijnstraat,15,"","",7545TW,Enschede
+Bombazijnstraat,17,"","",7545TW,Enschede
+Bombazijnstraat,19,"","",7545TW,Enschede
+Bombazijnstraat,21,"","",7545TW,Enschede
+Bombazijnstraat,23,"","",7545TW,Enschede
+Bombazijnstraat,25,"","",7545TW,Enschede
+Bombazijnstraat,27,"","",7545TW,Enschede
+Bombazijnstraat,29,"","",7545TW,Enschede
+Bombazijnstraat,3,"","",7545TW,Enschede
+Bombazijnstraat,31,"","",7545TW,Enschede
+Bombazijnstraat,33,"","",7545TW,Enschede
+Bombazijnstraat,5,"","",7545TW,Enschede
+Bombazijnstraat,7,"","",7545TW,Enschede
+Bombazijnstraat,9,"","",7545TW,Enschede
+Bombazijnstraat,10,"","",7545TX,Enschede
+Bombazijnstraat,12,"","",7545TX,Enschede
+Bombazijnstraat,14,"","",7545TX,Enschede
+Bombazijnstraat,16,"","",7545TX,Enschede
+Bombazijnstraat,18,"","",7545TX,Enschede
+Bombazijnstraat,2,"","",7545TX,Enschede
+Bombazijnstraat,20,"","",7545TX,Enschede
+Bombazijnstraat,22,"","",7545TX,Enschede
+Bombazijnstraat,24,"","",7545TX,Enschede
+Bombazijnstraat,26,"","",7545TX,Enschede
+Bombazijnstraat,28,"","",7545TX,Enschede
+Bombazijnstraat,30,"","",7545TX,Enschede
+Bombazijnstraat,4,"","",7545TX,Enschede
+Bombazijnstraat,6,"","",7545TX,Enschede
+Bombazijnstraat,8,"","",7545TX,Enschede
+Willem de Clercqstraat,1,"","",7545VA,Enschede
+Willem de Clercqstraat,11,"","",7545VA,Enschede
+Willem de Clercqstraat,13,"","",7545VA,Enschede
+Willem de Clercqstraat,15,"","",7545VA,Enschede
+Willem de Clercqstraat,17,"","",7545VA,Enschede
+Willem de Clercqstraat,19,"","",7545VA,Enschede
+Willem de Clercqstraat,21,"","",7545VA,Enschede
+Willem de Clercqstraat,23,"","",7545VA,Enschede
+Willem de Clercqstraat,25,"","",7545VA,Enschede
+Willem de Clercqstraat,27,"","",7545VA,Enschede
+Willem de Clercqstraat,29,"","",7545VA,Enschede
+Willem de Clercqstraat,3,"","",7545VA,Enschede
+Willem de Clercqstraat,31,"","",7545VA,Enschede
+Willem de Clercqstraat,33,"","",7545VA,Enschede
+Willem de Clercqstraat,35,"","",7545VA,Enschede
+Willem de Clercqstraat,37,"","",7545VA,Enschede
+Willem de Clercqstraat,39,"","",7545VA,Enschede
+Willem de Clercqstraat,5,"","",7545VA,Enschede
+Willem de Clercqstraat,7,"","",7545VA,Enschede
+Willem de Clercqstraat,9,"","",7545VA,Enschede
+Willem de Clercqstraat,41,"","",7545VB,Enschede
+Willem de Clercqstraat,43,"","",7545VB,Enschede
+Willem de Clercqstraat,45,"","",7545VB,Enschede
+Willem de Clercqstraat,47,"","",7545VB,Enschede
+Willem de Clercqstraat,49,"","",7545VB,Enschede
+Willem de Clercqstraat,51,"","",7545VB,Enschede
+Willem de Clercqstraat,53,"","",7545VB,Enschede
+Willem de Clercqstraat,55,"","",7545VB,Enschede
+Willem de Clercqstraat,57,"","",7545VB,Enschede
+Willem de Clercqstraat,59,"","",7545VB,Enschede
+Willem de Clercqstraat,61,"","",7545VB,Enschede
+Willem de Clercqstraat,63,"","",7545VB,Enschede
+Willem de Clercqstraat,65,"","",7545VB,Enschede
+Willem de Clercqstraat,67,"","",7545VB,Enschede
+Willem de Clercqstraat,69,"","",7545VB,Enschede
+Willem de Clercqstraat,71,"","",7545VB,Enschede
+Willem de Clercqstraat,73,"","",7545VB,Enschede
+Willem de Clercqstraat,75,"","",7545VB,Enschede
+Willem de Clercqstraat,77,"","",7545VB,Enschede
+Willem de Clercqstraat,79,"","",7545VB,Enschede
+Willem de Clercqstraat,81,"","",7545VB,Enschede
+Willem de Clercqstraat,101,"","",7545VC,Enschede
+Willem de Clercqstraat,103,"","",7545VC,Enschede
+Willem de Clercqstraat,105,"","",7545VC,Enschede
+Willem de Clercqstraat,107,"","",7545VC,Enschede
+Willem de Clercqstraat,109,"","",7545VC,Enschede
+Willem de Clercqstraat,111,"","",7545VC,Enschede
+Willem de Clercqstraat,113,"","",7545VC,Enschede
+Willem de Clercqstraat,115,"","",7545VC,Enschede
+Willem de Clercqstraat,117,"","",7545VC,Enschede
+Willem de Clercqstraat,119,"","",7545VC,Enschede
+Willem de Clercqstraat,121,"","",7545VC,Enschede
+Willem de Clercqstraat,123,"","",7545VC,Enschede
+Willem de Clercqstraat,125,"","",7545VC,Enschede
+Willem de Clercqstraat,127,"","",7545VC,Enschede
+Willem de Clercqstraat,129,"","",7545VC,Enschede
+Willem de Clercqstraat,131,"","",7545VC,Enschede
+Willem de Clercqstraat,83,"","",7545VC,Enschede
+Willem de Clercqstraat,85,"","",7545VC,Enschede
+Willem de Clercqstraat,87,"","",7545VC,Enschede
+Willem de Clercqstraat,89,"","",7545VC,Enschede
+Willem de Clercqstraat,91,"","",7545VC,Enschede
+Willem de Clercqstraat,93,"","",7545VC,Enschede
+Willem de Clercqstraat,95,"","",7545VC,Enschede
+Willem de Clercqstraat,97,"","",7545VC,Enschede
+Willem de Clercqstraat,99,"","",7545VC,Enschede
+Willem de Clercqstraat,10,"","",7545VD,Enschede
+Willem de Clercqstraat,12,"","",7545VD,Enschede
+Willem de Clercqstraat,14,"","",7545VD,Enschede
+Willem de Clercqstraat,16,"","",7545VD,Enschede
+Willem de Clercqstraat,18,"","",7545VD,Enschede
+Willem de Clercqstraat,2,"","",7545VD,Enschede
+Willem de Clercqstraat,20,"","",7545VD,Enschede
+Willem de Clercqstraat,22,"","",7545VD,Enschede
+Willem de Clercqstraat,24,"","",7545VD,Enschede
+Willem de Clercqstraat,26,"","",7545VD,Enschede
+Willem de Clercqstraat,28,"","",7545VD,Enschede
+Willem de Clercqstraat,28,"","",7545VD,Enschede
+Willem de Clercqstraat,4,"","",7545VD,Enschede
+Willem de Clercqstraat,6,"","",7545VD,Enschede
+Willem de Clercqstraat,8,"","",7545VD,Enschede
+Willem de Clercqstraat,30,"","",7545VE,Enschede
+Willem de Clercqstraat,32,"","",7545VE,Enschede
+Willem de Clercqstraat,34,"","",7545VE,Enschede
+Willem de Clercqstraat,36,"","",7545VE,Enschede
+Willem de Clercqstraat,38,"","",7545VE,Enschede
+Willem de Clercqstraat,40,"","",7545VE,Enschede
+Willem de Clercqstraat,42,"","",7545VE,Enschede
+Willem de Clercqstraat,44,"","",7545VE,Enschede
+Willem de Clercqstraat,46,"","",7545VE,Enschede
+Willem de Clercqstraat,48,"","",7545VE,Enschede
+Willem de Clercqstraat,50,"","",7545VE,Enschede
+Willem de Clercqstraat,52,"","",7545VE,Enschede
+Willem de Clercqstraat,54,"","",7545VE,Enschede
+Willem de Clercqstraat,56,"","",7545VE,Enschede
+Willem de Clercqstraat,58,"","",7545VE,Enschede
+Willem de Clercqstraat,60,"","",7545VE,Enschede
+Willem de Clercqstraat,62,"","",7545VE,Enschede
+Willem de Clercqstraat,64,"","",7545VE,Enschede
+Willem de Clercqstraat,66,"","",7545VE,Enschede
+Willem de Clercqstraat,68,"","",7545VE,Enschede
+Willem de Clercqstraat,70,"","",7545VE,Enschede
+Willem de Clercqstraat,74,"","",7545VE,Enschede
+Drukkerstraat,1,"","",7545VG,Enschede
+Drukkerstraat,10,"","",7545VG,Enschede
+Drukkerstraat,11,"","",7545VG,Enschede
+Drukkerstraat,11,A,"",7545VG,Enschede
+Drukkerstraat,11,A,"",7545VG,Enschede
+Drukkerstraat,12,"","",7545VG,Enschede
+Drukkerstraat,13,"","",7545VG,Enschede
+Drukkerstraat,14,"","",7545VG,Enschede
+Drukkerstraat,15,"","",7545VG,Enschede
+Drukkerstraat,16,"","",7545VG,Enschede
+Drukkerstraat,2,"","",7545VG,Enschede
+Drukkerstraat,3,"","",7545VG,Enschede
+Drukkerstraat,4,"","",7545VG,Enschede
+Drukkerstraat,5,"","",7545VG,Enschede
+Drukkerstraat,6,"","",7545VG,Enschede
+Drukkerstraat,7,"","",7545VG,Enschede
+Drukkerstraat,8,"","",7545VG,Enschede
+Drukkerstraat,9,"","",7545VG,Enschede
+Drukkerstraat,17,"","",7545VH,Enschede
+Drukkerstraat,18,"","",7545VH,Enschede
+Drukkerstraat,19,"","",7545VH,Enschede
+Drukkerstraat,20,"","",7545VH,Enschede
+Drukkerstraat,21,"","",7545VH,Enschede
+Drukkerstraat,22,"","",7545VH,Enschede
+Drukkerstraat,23,"","",7545VH,Enschede
+Drukkerstraat,24,"","",7545VH,Enschede
+Drukkerstraat,25,"","",7545VH,Enschede
+Drukkerstraat,26,"","",7545VH,Enschede
+Pathmosstraat,1,"","",7545VJ,Enschede
+Pathmosstraat,1,A,"",7545VJ,Enschede
+Pathmosstraat,11,"","",7545VJ,Enschede
+Pathmosstraat,13,"","",7545VJ,Enschede
+Pathmosstraat,15,"","",7545VJ,Enschede
+Pathmosstraat,17,"","",7545VJ,Enschede
+Pathmosstraat,19,"","",7545VJ,Enschede
+Pathmosstraat,21,"","",7545VJ,Enschede
+Pathmosstraat,23,"","",7545VJ,Enschede
+Pathmosstraat,25,"","",7545VJ,Enschede
+Pathmosstraat,27,"","",7545VJ,Enschede
+Pathmosstraat,29,"","",7545VJ,Enschede
+Pathmosstraat,3,"","",7545VJ,Enschede
+Pathmosstraat,5,"","",7545VJ,Enschede
+Pathmosstraat,7,"","",7545VJ,Enschede
+Pathmosstraat,9,"","",7545VJ,Enschede
+Pathmosstraat,31,"","",7545VK,Enschede
+Pathmosstraat,33,"","",7545VK,Enschede
+Pathmosstraat,35,"","",7545VK,Enschede
+Pathmosstraat,37,"","",7545VK,Enschede
+Pathmosstraat,39,"","",7545VK,Enschede
+Pathmosstraat,41,"","",7545VK,Enschede
+Pathmosstraat,43,"","",7545VK,Enschede
+Pathmosstraat,45,"","",7545VK,Enschede
+Pathmosstraat,47,"","",7545VK,Enschede
+Pathmosstraat,49,"","",7545VK,Enschede
+Pathmosstraat,51,"","",7545VK,Enschede
+Pathmosstraat,53,"","",7545VK,Enschede
+Pathmosstraat,55,"","",7545VK,Enschede
+Pathmosstraat,57,"","",7545VK,Enschede
+Pathmosstraat,59,"","",7545VK,Enschede
+Pathmosstraat,10,"","",7545VL,Enschede
+Pathmosstraat,12,"","",7545VL,Enschede
+Pathmosstraat,14,"","",7545VL,Enschede
+Pathmosstraat,16,"","",7545VL,Enschede
+Pathmosstraat,18,"","",7545VL,Enschede
+Pathmosstraat,2,"","",7545VL,Enschede
+Pathmosstraat,20,"","",7545VL,Enschede
+Pathmosstraat,22,"","",7545VL,Enschede
+Pathmosstraat,26,"","",7545VL,Enschede
+Pathmosstraat,28,"","",7545VL,Enschede
+Pathmosstraat,30,"","",7545VL,Enschede
+Pathmosstraat,32,"","",7545VL,Enschede
+Pathmosstraat,34,"","",7545VL,Enschede
+Pathmosstraat,36,"","",7545VL,Enschede
+Pathmosstraat,38,"","",7545VL,Enschede
+Pathmosstraat,4,"","",7545VL,Enschede
+Pathmosstraat,40,"","",7545VL,Enschede
+Pathmosstraat,6,"","",7545VL,Enschede
+Pathmosstraat,8,"","",7545VL,Enschede
+Pathmosstraat,42,"","",7545VM,Enschede
+Pathmosstraat,44,"","",7545VM,Enschede
+Pathmosstraat,46,"","",7545VM,Enschede
+Pathmosstraat,48,"","",7545VM,Enschede
+Pathmosstraat,50,"","",7545VM,Enschede
+Pathmosstraat,52,"","",7545VM,Enschede
+Pathmosstraat,54,"","",7545VM,Enschede
+Pathmosstraat,56,"","",7545VM,Enschede
+Pathmosstraat,58,"","",7545VM,Enschede
+Pathmosstraat,60,"","",7545VM,Enschede
+Pathmosstraat,62,"","",7545VM,Enschede
+Pathmosstraat,64,"","",7545VM,Enschede
+Pathmosstraat,66,"","",7545VM,Enschede
+Pathmosstraat,68,"","",7545VM,Enschede
+Pathmosstraat,70,"","",7545VM,Enschede
+Pathmosstraat,72,"","",7545VM,Enschede
+Pathmosstraat,74,"","",7545VM,Enschede
+Dennenweg,28,"","",7545WH,Enschede
+Dennenweg,30,"","",7545WH,Enschede
+Dennenweg,32,"","",7545WH,Enschede
+Dennenweg,34,"","",7545WH,Enschede
+Dennenweg,36,"","",7545WH,Enschede
+Dennenweg,38,"","",7545WH,Enschede
+Dennenweg,40,"","",7545WH,Enschede
+Dennenweg,42,"","",7545WH,Enschede
+Dennenweg,44,"","",7545WH,Enschede
+Dennenweg,46,"","",7545WH,Enschede
+Dennenweg,48,"","",7545WH,Enschede
+Dennenweg,50,"","",7545WH,Enschede
+Dennenweg,52,"","",7545WH,Enschede
+Dennenweg,54,"","",7545WH,Enschede
+Dennenweg,56,"","",7545WH,Enschede
+Dennenweg,58,"","",7545WH,Enschede
+Dennenweg,60,"","",7545WH,Enschede
+Dennenweg,62,"","",7545WH,Enschede
+Dennenweg,100,"","",7545WJ,Enschede
+Dennenweg,64,"","",7545WJ,Enschede
+Dennenweg,66,"","",7545WJ,Enschede
+Dennenweg,68,"","",7545WJ,Enschede
+Dennenweg,70,"","",7545WJ,Enschede
+Dennenweg,72,"","",7545WJ,Enschede
+Dennenweg,74,"","",7545WJ,Enschede
+Dennenweg,76,"","",7545WJ,Enschede
+Dennenweg,78,"","",7545WJ,Enschede
+Dennenweg,80,"","",7545WJ,Enschede
+Dennenweg,82,"","",7545WJ,Enschede
+Dennenweg,84,"","",7545WJ,Enschede
+Dennenweg,86,"","",7545WJ,Enschede
+Dennenweg,88,"","",7545WJ,Enschede
+Dennenweg,90,"","",7545WJ,Enschede
+Dennenweg,92,"","",7545WJ,Enschede
+Dennenweg,94,"","",7545WJ,Enschede
+Dennenweg,96,"","",7545WJ,Enschede
+Dennenweg,98,"","",7545WJ,Enschede
+Dennenweg,102,"","",7545WK,Enschede
+Dennenweg,104,"","",7545WK,Enschede
+Dennenweg,106,"","",7545WK,Enschede
+Dennenweg,108,"","",7545WK,Enschede
+Dennenweg,110,"","",7545WK,Enschede
+Dennenweg,112,"","",7545WK,Enschede
+Dennenweg,114,"","",7545WK,Enschede
+Dennenweg,116,"","",7545WK,Enschede
+Dennenweg,118,"","",7545WK,Enschede
+Dennenweg,120,"","",7545WK,Enschede
+Dennenweg,122,"","",7545WK,Enschede
+Dennenweg,124,"","",7545WK,Enschede
+Dennenweg,126,"","",7545WK,Enschede
+Dennenweg,128,"","",7545WK,Enschede
+Dennenweg,130,"","",7545WK,Enschede
+Dennenweg,132,"","",7545WK,Enschede
+Dennenweg,134,"","",7545WK,Enschede
+Dennenweg,136,"","",7545WK,Enschede
+Dennenweg,138,"","",7545WK,Enschede
+Dennenweg,140,"","",7545WK,Enschede
+Dennenweg,142,"","",7545WK,Enschede
+Dennenweg,146,"","",7545WK,Enschede
+Dennenweg,148,"","",7545WK,Enschede
+Dennenweg,150,"","",7545WK,Enschede
+Dennenweg,152,"","",7545WK,Enschede
+Dennenweg,154,"","",7545WL,Enschede
+Dennenweg,154,"","",7545WL,Enschede
+Dennenweg,154,"","",7545WL,Enschede
+Dennenweg,154,A,"",7545WL,Enschede
+Dennenweg,158,"","",7545WL,Enschede
+Dennenweg,160,"","",7545WL,Enschede
+Dennenweg,162,"","",7545WL,Enschede
+Dennenweg,166,"","",7545WL,Enschede
+Dennenweg,168,"","",7545WL,Enschede
+Dennenweg,170,"","",7545WL,Enschede
+Dennenweg,172,"","",7545WL,Enschede
+Dennenweg,172,A,"",7545WL,Enschede
+Dennenweg,172,B,"",7545WL,Enschede
+Dennenweg,172,C,"",7545WL,Enschede
+Dennenweg,172,D,"",7545WL,Enschede
+Dennenweg,172,E,"",7545WL,Enschede
+Dennenweg,172,F,"",7545WL,Enschede
+Dennenweg,172,G,"",7545WL,Enschede
+Dennenweg,172,H,"",7545WL,Enschede
+Dennenweg,172,I,"",7545WL,Enschede
+Dennenweg,172,J,"",7545WL,Enschede
+Dennenweg,172,K,"",7545WL,Enschede
+Dennenweg,178,"","",7545WL,Enschede
+Dennenweg,180,"","",7545WL,Enschede
+Dennenweg,182,"","",7545WL,Enschede
+Dennenweg,184,"","",7545WL,Enschede
+Dennenweg,186,"","",7545WL,Enschede
+Dennenweg,200,"","",7545WL,Enschede
+Dennenweg,202,"","",7545WN,Enschede
+Dennenweg,204,"","",7545WN,Enschede
+Dennenweg,206,"","",7545WN,Enschede
+Dennenweg,208,"","",7545WN,Enschede
+Dennenweg,210,"","",7545WN,Enschede
+Dennenweg,212,"","",7545WN,Enschede
+Dennenweg,214,"","",7545WN,Enschede
+Dennenweg,216,"","",7545WN,Enschede
+Dennenweg,218,"","",7545WN,Enschede
+Dennenweg,220,"","",7545WN,Enschede
+Dennenweg,222,"","",7545WN,Enschede
+Dennenweg,224,"","",7545WN,Enschede
+Dennenweg,226,"","",7545WN,Enschede
+Dennenweg,228,"","",7545WN,Enschede
+Dennenweg,230,"","",7545WN,Enschede
+Dennenweg,232,"","",7545WN,Enschede
+Dennenweg,234,"","",7545WN,Enschede

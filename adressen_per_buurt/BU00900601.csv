@@ -1,823 +1,427 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9202HW",2,"","2"
-"9202HW",2,"","14"
-"9202HW",150,"",""
-"9202HW",2,"","16"
-"9202HW",166,"",""
-"9202HW",2,"","5"
-"9202HW",2,"","16"
-"9202HW",2,"","1"
-"9202HW",2,"","6"
-"9202HW",2,"","14"
-"9202HW",2,"","15"
-"9202HW",2,"","17"
-"9202HW",2,"",""
-"9202HW",170,"",""
-"9202HW",2,"","5"
-"9202HW",148,"",""
-"9202HW",154,"",""
-"9202HW",2,"","18"
-"9202HW",10,"",""
-"9202HW",2,"","18"
-"9202HW",2,"c",""
-"9202HW",146,"",""
-"9202HW",2,"a",""
-"9202HW",2,"a",""
-"9202HW",2,"","15"
-"9202HW",164,"",""
-"9202HW",168,"",""
-"9202HW",2,"","10"
-"9202HW",2,"","3"
-"9202HW",162,"",""
-"9202HW",4,"",""
-"9202HW",2,"c",""
-"9202HW",144,"",""
-"9202HW",2,"","11"
-"9202HW",156,"",""
-"9202HW",160,"",""
-"9202HW",2,"","13"
-"9202HW",2,"","1"
-"9202HW",2,"","3"
-"9202HW",152,"",""
-"9202HW",2,"","17"
-"9202HW",2,"","4"
-"9202HW",2,"","13"
-"9202HW",2,"b",""
-"9202HW",2,"","8"
-"9202HW",2,"b",""
-"9202HW",2,"",""
-"9202HW",2,"","6"
-"9202HW",158,"",""
-"9202HW",2,"","10"
-"9202HW",2,"","4"
-"9202HW",2,"","7"
-"9202HW",2,"","12"
-"9202HW",2,"","8"
-"9202HW",2,"","9"
-"9202HW",2,"","2"
-"9202HW",2,"","12"
-"9202HW",2,"","9"
-"9202HW",2,"","7"
-"9202HW",2,"","11"
-"9202HX",196,"",""
-"9202HX",198,"",""
-"9202HX",178,"",""
-"9202HX",182,"",""
-"9202HX",192,"",""
-"9202HX",174,"",""
-"9202HX",176,"",""
-"9202HX",194,"",""
-"9202HX",188,"",""
-"9202HX",200,"",""
-"9202HX",190,"",""
-"9202HX",172,"",""
-"9202HX",180,"",""
-"9202HX",184,"",""
-"9202HX",186,"",""
-"9202HX",200,"",""
-"9202LC",5,"",""
-"9202LC",2,"a",""
-"9202LC",21,"",""
-"9202LC",29,"",""
-"9202LC",21,"",""
-"9202LC",39,"",""
-"9202LC",33,"",""
-"9202LC",27,"",""
-"9202LC",21,"a",""
-"9202LC",9,"",""
-"9202LC",21,"",""
-"9202LC",23,"b",""
-"9202LC",21,"b",""
-"9202LC",23,"",""
-"9202LC",37,"",""
-"9202LC",2,"",""
-"9202LC",25,"",""
-"9202LC",41,"",""
-"9202LC",35,"",""
-"9202LC",4,"",""
-"9202LC",17,"",""
-"9202LC",19,"",""
-"9202LC",7,"",""
-"9202LC",31,"",""
-"9202LC",23,"a",""
-"9202LD",63,"a",""
-"9202LD",63,"",""
-"9202LD",51,"",""
-"9202LD",59,"",""
-"9202LD",65,"",""
-"9202LD",45,"",""
-"9202LD",53,"",""
-"9202LD",63,"a",""
-"9202LD",61,"",""
-"9202LD",63,"a",""
-"9202LD",55,"",""
-"9202LD",43,"",""
-"9202LD",47,"",""
-"9202LD",57,"",""
-"9202LD",49,"",""
-"9202LE",1,"",""
-"9202LE",20,"","3"
-"9202LE",20,"","1"
-"9202LE",20,"",""
-"9202LE",8,"",""
-"9202LE",20,"","4"
-"9202LE",16,"",""
-"9202LE",2,"",""
-"9202LE",14,"",""
-"9202LE",20,"","5"
-"9202LE",12,"",""
-"9202LE",18,"",""
-"9202LE",20,"","6"
-"9202LE",1,"",""
-"9202LE",6,"",""
-"9202LE",1,"",""
-"9202LE",20,"","2"
-"9202LE",4,"",""
-"9202LE",10,"",""
-"9202TE",6,"",""
-"9202TE",10,"",""
-"9202TE",16,"",""
-"9202TE",12,"",""
-"9202TE",2,"",""
-"9202TE",8,"",""
-"9202TE",14,"",""
-"9202TE",6,"",""
-"9202TE",20,"",""
-"9202TE",2,"",""
-"9202TE",6,"",""
-"9202TE",18,"",""
-"9202TK",33,"",""
-"9202TK",39,"",""
-"9202TK",23,"",""
-"9202TK",49,"",""
-"9202TK",53,"",""
-"9202TK",25,"",""
-"9202TK",57,"",""
-"9202TK",43,"",""
-"9202TK",31,"",""
-"9202TK",29,"",""
-"9202TK",41,"",""
-"9202TK",51,"",""
-"9202TK",47,"",""
-"9202TK",19,"",""
-"9202TK",17,"",""
-"9202TK",27,"",""
-"9202TK",57,"","12"
-"9202TK",35,"",""
-"9202TK",21,"",""
-"9202TK",57,"","15"
-"9202TK",57,"","14"
-"9202TK",37,"",""
-"9202TK",45,"",""
-"9202TK",57,"","17"
-"9202TK",55,"",""
-"9202TK",57,"","16"
-"9202TK",57,"","13"
-"9202TL",63,"",""
-"9202TL",73,"",""
-"9202TL",61,"",""
-"9202TL",77,"",""
-"9202TL",85,"",""
-"9202TL",69,"",""
-"9202TL",67,"",""
-"9202TL",59,"",""
-"9202TL",71,"",""
-"9202TL",83,"",""
-"9202TL",75,"",""
-"9202TL",81,"",""
-"9202TL",65,"",""
-"9202TL",79,"",""
-"9202TM",5,"",""
-"9202TM",11,"",""
-"9202TM",9,"a",""
-"9202TM",7,"",""
-"9202TM",3,"",""
-"9202TM",13,"",""
-"9202TM",15,"",""
-"9202TM",9,"",""
-"9202TN",35,"",""
-"9202TN",25,"",""
-"9202TN",39,"",""
-"9202TN",31,"",""
-"9202TN",37,"",""
-"9202TN",19,"",""
-"9202TN",5,"",""
-"9202TN",17,"",""
-"9202TN",29,"",""
-"9202TN",21,"",""
-"9202TN",23,"",""
-"9202TN",13,"",""
-"9202TN",15,"",""
-"9202TN",7,"",""
-"9202TN",3,"",""
-"9202TN",11,"",""
-"9202TN",33,"",""
-"9202TN",9,"",""
-"9202TN",1,"",""
-"9202TN",27,"",""
-"9202TP",67,"",""
-"9202TP",71,"",""
-"9202TP",59,"",""
-"9202TP",61,"",""
-"9202TP",41,"",""
-"9202TP",43,"",""
-"9202TP",47,"",""
-"9202TP",45,"",""
-"9202TP",53,"",""
-"9202TP",63,"",""
-"9202TP",81,"",""
-"9202TP",49,"",""
-"9202TP",65,"",""
-"9202TP",51,"",""
-"9202TP",79,"",""
-"9202TP",57,"",""
-"9202TP",73,"",""
-"9202TP",83,"",""
-"9202TP",55,"",""
-"9202TP",69,"",""
-"9202TP",77,"",""
-"9202TP",75,"",""
-"9202TR",30,"",""
-"9202TR",24,"",""
-"9202TR",26,"",""
-"9202TR",10,"",""
-"9202TR",12,"",""
-"9202TR",28,"",""
-"9202TR",16,"",""
-"9202TR",4,"",""
-"9202TR",18,"",""
-"9202TR",22,"",""
-"9202TR",14,"",""
-"9202TR",20,"",""
-"9202TR",8,"",""
-"9202TR",6,"",""
-"9202TR",2,"",""
-"9202TS",28,"",""
-"9202TS",10,"",""
-"9202TS",26,"",""
-"9202TS",26,"","7"
-"9202TS",26,"","5"
-"9202TS",4,"",""
-"9202TS",6,"",""
-"9202TS",14,"",""
-"9202TS",28,"","5"
-"9202TS",8,"",""
-"9202TS",12,"",""
-"9202TS",28,"","4"
-"9202TS",26,"","2"
-"9202TS",24,"",""
-"9202TS",26,"","1"
-"9202TS",16,"",""
-"9202TS",20,"",""
-"9202TS",28,"","6"
-"9202TS",26,"","8"
-"9202TS",28,"","8"
-"9202TS",26,"","6"
-"9202TS",28,"","7"
-"9202TS",22,"",""
-"9202TS",26,"","3"
-"9202TS",26,"","4"
-"9202TS",28,"","11"
-"9202TS",18,"",""
-"9202TS",2,"",""
-"9202TS",28,"","9"
-"9202TS",28,"","10"
-"9202TW",215,"",""
-"9202TW",49,"",""
-"9202TW",225,"",""
-"9202TW",231,"",""
-"9202TW",219,"",""
-"9202TW",229,"",""
-"9202TW",227,"",""
-"9202TW",213,"",""
-"9202TW",235,"",""
-"9202TW",221,"",""
-"9202TW",223,"",""
-"9202TW",233,"",""
-"9202TW",217,"",""
-"9202TZ",10,"","14"
-"9202TZ",24,"",""
-"9202TZ",10,"","27"
-"9202TZ",10,"","19"
-"9202TZ",10,"","29"
-"9202TZ",10,"","15"
-"9202TZ",10,"","23"
-"9202TZ",22,"",""
-"9202TZ",10,"","10"
-"9202TZ",10,"","20"
-"9202TZ",10,"","24"
-"9202TZ",10,"","28"
-"9202TZ",10,"","2"
-"9202TZ",6,"",""
-"9202TZ",10,"","3"
-"9202TZ",20,"",""
-"9202TZ",10,"","4"
-"9202TZ",10,"","21"
-"9202TZ",18,"",""
-"9202TZ",10,"","36"
-"9202TZ",10,"","34"
-"9202TZ",10,"","32"
-"9202TZ",10,"","9"
-"9202TZ",10,"","30"
-"9202TZ",10,"","8"
-"9202TZ",30,"",""
-"9202TZ",30,"",""
-"9202TZ",10,"","13"
-"9202TZ",10,"","31"
-"9202TZ",10,"","6"
-"9202TZ",10,"","12"
-"9202TZ",26,"",""
-"9202TZ",10,"","1"
-"9202TZ",10,"","22"
-"9202TZ",10,"","18"
-"9202TZ",10,"","5"
-"9202TZ",10,"","11"
-"9202TZ",10,"","7"
-"9202TZ",16,"",""
-"9202TZ",10,"","26"
-"9202TZ",28,"",""
-"9202TZ",10,"","35"
-"9202TZ",10,"","33"
-"9202TZ",30,"",""
-"9202TZ",10,"","25"
-"9202VA",38,"",""
-"9202VA",46,"",""
-"9202VA",34,"",""
-"9202VA",32,"",""
-"9202VA",36,"",""
-"9202VA",40,"",""
-"9202VA",48,"",""
-"9202VA",42,"",""
-"9202VA",50,"",""
-"9202VA",44,"",""
-"9202VB",70,"",""
-"9202VB",58,"",""
-"9202VB",52,"",""
-"9202VB",68,"",""
-"9202VB",74,"",""
-"9202VB",56,"",""
-"9202VB",60,"",""
-"9202VB",66,"",""
-"9202VB",72,"",""
-"9202VB",64,"",""
-"9202VB",54,"",""
-"9202VB",62,"",""
-"9202VB",76,"",""
-"9202VB",78,"",""
-"9202VC",108,"",""
-"9202VC",102,"",""
-"9202VC",94,"",""
-"9202VC",106,"",""
-"9202VC",104,"",""
-"9202VC",98,"",""
-"9202VC",100,"",""
-"9202VC",84,"",""
-"9202VC",92,"",""
-"9202VC",110,"",""
-"9202VC",90,"",""
-"9202VC",86,"",""
-"9202VC",80,"",""
-"9202VC",88,"",""
-"9202VC",82,"",""
-"9202VC",96,"",""
-"9202WC",8,"",""
-"9202WC",16,"",""
-"9202WC",12,"",""
-"9202WC",2,"",""
-"9202WC",10,"",""
-"9202WC",4,"",""
-"9202WC",14,"",""
-"9202WC",6,"",""
-"9202WD",1,"",""
-"9202WD",5,"",""
-"9202WD",11,"",""
-"9202WD",3,"",""
-"9202WD",7,"",""
-"9202WD",9,"",""
-"9203HV",13,"",""
-"9203HV",15,"",""
-"9203HV",17,"",""
-"9203HV",21,"",""
-"9203HV",13,"",""
-"9203HV",1,"",""
-"9203HV",19,"",""
-"9203HV",23,"",""
-"9203HV",3,"",""
-"9203HV",11,"",""
-"9203HV",13,"a",""
-"9203HV",13,"",""
-"9203HV",1,"",""
-"9203HV",3,"",""
-"9203HW",41,"",""
-"9203HW",25,"a",""
-"9203HW",27,"",""
-"9203HW",55,"",""
-"9203HW",33,"",""
-"9203HW",25,"",""
-"9203HW",31,"",""
-"9203HW",53,"",""
-"9203HW",29,"",""
-"9203HW",37,"",""
-"9203HW",45,"",""
-"9203HW",35,"",""
-"9203HW",47,"",""
-"9203HW",49,"",""
-"9203HW",39,"",""
-"9203HW",51,"",""
-"9203HW",43,"",""
-9202TN,Helling,13,,
-9202TN,Helling,17,,
-9202TN,Helling,35,,
-9202TN,Helling,25,,
-9202TP,Helling,65,,
-9202TP,Helling,69,,
-9202TP,Helling,41,,
-9202TP,Helling,79,,
-9202TR,Helling,28,,
-9202TR,Helling,4,,
-9202HW,Raai,160,,
-9202HW,Raai,166,,
-9202HW,Raai,10,,
-9202HX,Raai,198,,
-9202HX,Raai,186,,
-9202LC,Splitting,19,,
-9202LC,Splitting,5,,
-9202LC,Splitting,33,,
-9202LC,Splitting,41,,
-9202LC,Splitting,9,,
-9202LD,Splitting,55,,
-9202LD,Splitting,59,,
-9202LD,Splitting,57,,
-9202LE,Splitting,6,,
-9202LE,Splitting,10,,
-9202LE,Splitting,14,,
-9203HV,Zuiderdwarsvaart,23,,
-9203HV,Zuiderdwarsvaart,15,,
-9203HV,Zuiderdwarsvaart,11,,
-9203HW,Zuiderdwarsvaart,25,a,
-9203HW,Zuiderdwarsvaart,41,,
-9203HW,Zuiderdwarsvaart,49,,
-9203HW,Zuiderdwarsvaart,35,,
-9203HW,Zuiderdwarsvaart,53,,
-9202TS,De Foute,24,,
-9202TS,De Foute,4,,
-9202TS,De Foute,10,,
-9202WC,De Stok,10,,
-9202WC,De Stok,12,,
-9202TE,De Zwaai,2,,
-9202TE,De Zwaai,14,,
-9202TE,De Zwaai,16,,
-9202TE,De Zwaai,10,,
-9202TE,De Zwaai,20,,
-9202TK,De Zwaai,29,,
-9202TK,De Zwaai,19,,
-9202TK,De Zwaai,31,,
-9202TK,De Zwaai,43,,
-9202TK,De Zwaai,53,,
-9202TK,De Zwaai,41,,
-9202TK,De Zwaai,39,,
-9202TL,De Zwaai,73,,
-9202TL,De Zwaai,65,,
-9202TL,De Zwaai,85,,
-9202TL,De Zwaai,63,,
-9202TW,Leidijk,221,,
-9202TW,Leidijk,225,,
-9202TZ,Leidijk,6,,
-9202TZ,Leidijk,10,,15
-9202TZ,Leidijk,10,,18
-9202TZ,Leidijk,10,,22
-9202TZ,Leidijk,10,,4
-9202TZ,Leidijk,26,,
-9202TZ,Leidijk,20,,
-9202TZ,Leidijk,28,,
-9202VA,Leidijk,42,,
-9202VA,Leidijk,50,,
-9202VB,Leidijk,66,,
-9202VB,Leidijk,54,,
-9202VB,Leidijk,52,,
-9202VC,Leidijk,80,,
-9202VC,Leidijk,106,,
-9202VC,Leidijk,84,,
-9202VC,Leidijk,104,,
-9202VC,Leidijk,94,,
-9202VC,Leidijk,96,,
-9202TN,Helling,19,,
-9202TN,Helling,9,,
-9202TN,Helling,1,,
-9202TN,Helling,39,,
-9202TN,Helling,23,,
-9202TN,Helling,31,,
-9202TP,Helling,59,,
-9202TP,Helling,55,,
-9202TP,Helling,53,,
-9202TP,Helling,47,,
-9202TP,Helling,51,,
-9202TP,Helling,81,,
-9202TP,Helling,67,,
-9202TP,Helling,49,,
-9202TP,Helling,71,,
-9202TR,Helling,20,,
-9202TR,Helling,18,,
-9202TR,Helling,8,,
-9202TR,Helling,22,,
-9202TR,Helling,12,,
-9202HW,Raai,144,,
-9202HW,Raai,168,,
-9202HW,Raai,154,,
-9202HW,Raai,158,,
-9202HW,Raai,164,,
-9202HW,Raai,150,,
-9202HW,Raai,156,,
-9202HW,Raai,170,,
-9202HW,Raai,148,,
-9202HX,Raai,172,,
-9202HX,Raai,184,,
-9202HX,Raai,194,,
-9202HX,Raai,174,,
-9202HX,Raai,178,,
-9202HX,Raai,176,,
-9202HX,Raai,192,,
-9202HX,Raai,180,,
-9202HX,Raai,188,,
-9202LC,Splitting,25,,
-9202LC,Splitting,35,,
-9202LC,Splitting,29,,
-9202LC,Splitting,37,,
-9202LC,Splitting,39,,
-9202LD,Splitting,51,,
-9202LD,Splitting,49,,
-9202LD,Splitting,43,,
-9202LD,Splitting,47,,
-9202LD,Splitting,61,,
-9202LD,Splitting,45,,
-9202LE,Splitting,20,,
-9202LE,Splitting,4,,
-9202LE,Splitting,18,,
-9203HV,Zuiderdwarsvaart,17,,
-9203HV,Zuiderdwarsvaart,19,,
-9203HV,Zuiderdwarsvaart,3,,
-9203HW,Zuiderdwarsvaart,31,,
-9203HW,Zuiderdwarsvaart,33,,
-9203HW,Zuiderdwarsvaart,39,,
-9203HW,Zuiderdwarsvaart,25,,
-9203HW,Zuiderdwarsvaart,43,,
-9203HW,Zuiderdwarsvaart,47,,
-9202TS,De Foute,2,,
-9202TS,De Foute,28,,
-9202TS,De Foute,22,,
-9202TS,De Foute,20,,
-9202TS,De Foute,6,,
-9202TS,De Foute,26,,
-9202TS,De Foute,12,,
-9202TM,De Klim,13,,
-9202TM,De Klim,3,,
-9202WC,De Stok,16,,
-9202WC,De Stok,4,,
-9202WC,De Stok,2,,
-9202WC,De Stok,6,,
-9202WD,De Stok,1,,
-9202WD,De Stok,7,,
-9202WD,De Stok,3,,
-9202WD,De Stok,11,,
-9202TE,De Zwaai,12,,
-9202TE,De Zwaai,8,,
-9202TK,De Zwaai,17,,
-9202TK,De Zwaai,51,,
-9202TK,De Zwaai,21,,
-9202TK,De Zwaai,33,,
-9202TK,De Zwaai,57,,
-9202TK,De Zwaai,47,,
-9202TL,De Zwaai,59,,
-9202TL,De Zwaai,71,,
-9202TL,De Zwaai,77,,
-9202TL,De Zwaai,69,,
-9202TL,De Zwaai,61,,
-9202TL,De Zwaai,81,,
-9202TW,Leidijk,231,,
-9202TW,Leidijk,223,,
-9202TW,Leidijk,233,,
-9202TW,Leidijk,213,,
-9202TZ,Leidijk,24,,
-9202TZ,Leidijk,10,,23
-9202TZ,Leidijk,10,,31
-9202TZ,Leidijk,10,,29
-9202VA,Leidijk,48,,
-9202VA,Leidijk,32,,
-9202VA,Leidijk,44,,
-9202VA,Leidijk,36,,
-9202VA,Leidijk,40,,
-9202VA,Leidijk,46,,
-9202VB,Leidijk,56,,
-9202VB,Leidijk,72,,
-9202VC,Leidijk,98,,
-9202VC,Leidijk,108,,
-9202VC,Leidijk,110,,
-9202VC,Leidijk,86,,
-9202VC,Leidijk,100,,
-9202TN,Helling,33,,
-9202TN,Helling,3,,
-9202TN,Helling,27,,
-9202TN,Helling,11,,
-9202TN,Helling,5,,
-9202TN,Helling,37,,
-9202TN,Helling,15,,
-9202TN,Helling,29,,
-9202TP,Helling,43,,
-9202TP,Helling,45,,
-9202TP,Helling,63,,
-9202TP,Helling,61,,
-9202TP,Helling,75,,
-9202TP,Helling,73,,
-9202TP,Helling,83,,
-9202TP,Helling,57,,
-9202TP,Helling,77,,
-9202TR,Helling,16,,
-9202TR,Helling,10,,
-9202TR,Helling,26,,
-9202TR,Helling,6,,
-9202TR,Helling,24,,
-9202TR,Helling,14,,
-9202TR,Helling,30,,
-9202HW,Raai,152,,
-9202HW,Raai,162,,
-9202HW,Raai,146,,
-9202HX,Raai,190,,
-9202HX,Raai,182,,
-9202HX,Raai,200,,
-9202HX,Raai,200,,
-9202LC,Splitting,17,,
-9202LC,Splitting,27,,
-9202LC,Splitting,21,a,
-9202LC,Splitting,7,,
-9202LD,Splitting,53,,
-9202LD,Splitting,65,,
-9202LE,Splitting,20,,6
-9202LE,Splitting,2,,
-9202LE,Splitting,20,,5
-9202LE,Splitting,20,,2
-9202LE,Splitting,20,,3
-9202LE,Splitting,20,,4
-9202LE,Splitting,12,,
-9202LE,Splitting,16,,
-9203HV,Zuiderdwarsvaart,13,,
-9203HV,Zuiderdwarsvaart,21,,
-9203HW,Zuiderdwarsvaart,51,,
-9203HW,Zuiderdwarsvaart,29,,
-9203HW,Zuiderdwarsvaart,55,,
-9203HW,Zuiderdwarsvaart,37,,
-9203HW,Zuiderdwarsvaart,45,,
-9202TS,De Foute,16,,
-9202TS,De Foute,14,,
-9202TS,De Foute,26,,8
-9202TS,De Foute,28,,11
-9202TS,De Foute,28,,9
-9202TS,De Foute,28,,4
-9202TS,De Foute,28,,5
-9202TS,De Foute,28,,6
-9202TS,De Foute,28,,7
-9202TS,De Foute,28,,10
-9202TS,De Foute,28,,8
-9202TS,De Foute,26,,6
-9202TS,De Foute,26,,5
-9202TS,De Foute,26,,2
-9202TS,De Foute,26,,3
-9202TS,De Foute,26,,4
-9202TS,De Foute,26,,7
-9202TS,De Foute,8,,
-9202TS,De Foute,18,,
-9202TM,De Klim,7,,
-9202WC,De Stok,14,,
-9202WD,De Stok,5,,
-9202WD,De Stok,9,,
-9202TE,De Zwaai,6,,
-9202TK,De Zwaai,25,,
-9202TK,De Zwaai,37,,
-9202TK,De Zwaai,23,,
-9202TK,De Zwaai,57,,14
-9202TK,De Zwaai,57,,13
-9202TK,De Zwaai,57,,16
-9202TK,De Zwaai,57,,17
-9202TK,De Zwaai,57,,15
-9202TK,De Zwaai,27,,
-9202TK,De Zwaai,45,,
-9202TK,De Zwaai,55,,
-9202TK,De Zwaai,35,,
-9202TK,De Zwaai,49,,
-9202TL,De Zwaai,83,,
-9202TL,De Zwaai,75,,
-9202TL,De Zwaai,67,,
-9202TL,De Zwaai,79,,
-9202TW,Leidijk,49,,
-9202TW,Leidijk,215,,
-9202TW,Leidijk,235,,
-9202TW,Leidijk,217,,
-9202TW,Leidijk,229,,
-9202TZ,Leidijk,30,,
-9202TZ,Leidijk,16,,
-9202TZ,Leidijk,10,,11
-9202TZ,Leidijk,10,,27
-9202TZ,Leidijk,10,,20
-9202TZ,Leidijk,10,,5
-9202TZ,Leidijk,10,,9
-9202TZ,Leidijk,10,,10
-9202TZ,Leidijk,10,,19
-9202TZ,Leidijk,10,,1
-9202TZ,Leidijk,10,,34
-9202TZ,Leidijk,10,,12
-9202TZ,Leidijk,10,,33
-9202TZ,Leidijk,18,,
-9202TZ,Leidijk,10,,7
-9202TZ,Leidijk,10,,13
-9202TZ,Leidijk,10,,30
-9202TZ,Leidijk,10,,8
-9202TZ,Leidijk,10,,35
-9202TZ,Leidijk,10,,6
-9202TZ,Leidijk,10,,36
-9202TZ,Leidijk,10,,26
-9202TZ,Leidijk,10,,14
-9202TZ,Leidijk,22,,
-9202TZ,Leidijk,10,,21
-9202TZ,Leidijk,10,,32
-9202TZ,Leidijk,10,,25
-9202TZ,Leidijk,10,,24
-9202TZ,Leidijk,10,,3
-9202TZ,Leidijk,10,,28
-9202VA,Leidijk,38,,
-9202VB,Leidijk,62,,
-9202VB,Leidijk,60,,
-9202VB,Leidijk,58,,
-9202VB,Leidijk,74,,
-9202VB,Leidijk,68,,
-9202VB,Leidijk,78,,
-9202VB,Leidijk,70,,
-9202VB,Leidijk,76,,
-9202VB,Leidijk,64,,
-9202VC,Leidijk,92,,
-9202VC,Leidijk,90,,
-9202VC,Leidijk,102,,
-9202VC,Leidijk,88,,
-9202LC,Leerweg,4,,
-9202LE,Leerweg,1,,
-9202TN,Helling,21,,
-9202TN,Helling,7,,
-9202TR,Helling,2,,
-9202HW,Raai,4,,
-9202HW,Raai,2,,
-9202HW,Raai,2,a,
-9202HW,Raai,2,b,
-9202HW,Raai,2,c,
-9202HW,Raai,2,,1
-9202HW,Raai,2,,2
-9202HW,Raai,2,,3
-9202HW,Raai,2,,4
-9202HW,Raai,2,,5
-9202HW,Raai,2,,6
-9202HW,Raai,2,,7
-9202HW,Raai,2,,8
-9202HW,Raai,2,,9
-9202HW,Raai,2,,10
-9202HW,Raai,2,,11
-9202HW,Raai,2,,12
-9202HW,Raai,2,,13
-9202HW,Raai,2,,14
-9202HW,Raai,2,,15
-9202HW,Raai,2,,16
-9202HW,Raai,2,,17
-9202HW,Raai,2,,18
-9202HX,Raai,196,,
-9202LC,Splitting,21,,
-9202LC,Splitting,23,,
-9202LC,Splitting,31,,
-9202LC,Splitting,23,a,
-9202LC,Splitting,23,b,
-9202LC,Splitting,21,,
-9202LC,Splitting,21,b,
-9202LD,Splitting,63,,
-9202LD,Splitting,63,a,
-9202LD,Splitting,63,a,
-9202LE,Splitting,8,,
-9202LE,Splitting,20,,1
-9203HV,Zuiderdwarsvaart,1,,
-9203HV,Zuiderdwarsvaart,13,,
-9203HV,Zuiderdwarsvaart,13,a,
-9203HW,Zuiderdwarsvaart,27,,
-9202TS,De Foute,26,,1
-9202TM,De Klim,11,,
-9202TM,De Klim,15,,
-9202TM,De Klim,5,,
-9202TM,De Klim,9,,
-9202TM,De Klim,9,a,
-9202WC,De Stok,8,,
-9202TE,De Zwaai,18,,
-9202TE,De Zwaai,6,,
-9202TK,De Zwaai,57,,12
-9202TW,Leidijk,219,,
-9202TW,Leidijk,227,,
-9202TZ,Leidijk,10,,2
-9202TZ,Leidijk,30,,
-9202VA,Leidijk,34,,
-9202VC,Leidijk,82,,
-9202LC,Leerweg,2,,
-9202LC,Leerweg,2,a,
-9202LE,Leerweg,1,,
-9202LC,Splitting,21,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Raai,10,"","",9202HW,Drachten
+Raai,144,"","",9202HW,Drachten
+Raai,146,"","",9202HW,Drachten
+Raai,148,"","",9202HW,Drachten
+Raai,150,"","",9202HW,Drachten
+Raai,152,"","",9202HW,Drachten
+Raai,154,"","",9202HW,Drachten
+Raai,156,"","",9202HW,Drachten
+Raai,158,"","",9202HW,Drachten
+Raai,160,"","",9202HW,Drachten
+Raai,162,"","",9202HW,Drachten
+Raai,164,"","",9202HW,Drachten
+Raai,166,"","",9202HW,Drachten
+Raai,168,"","",9202HW,Drachten
+Raai,170,"","",9202HW,Drachten
+Raai,2,"","",9202HW,Drachten
+Raai,2,"","",9202HW,Drachten
+Raai,2,"",1,9202HW,Drachten
+Raai,2,"",1,9202HW,Drachten
+Raai,2,"",10,9202HW,Drachten
+Raai,2,"",10,9202HW,Drachten
+Raai,2,"",11,9202HW,Drachten
+Raai,2,"",11,9202HW,Drachten
+Raai,2,"",12,9202HW,Drachten
+Raai,2,"",12,9202HW,Drachten
+Raai,2,"",13,9202HW,Drachten
+Raai,2,"",13,9202HW,Drachten
+Raai,2,"",14,9202HW,Drachten
+Raai,2,"",14,9202HW,Drachten
+Raai,2,"",15,9202HW,Drachten
+Raai,2,"",15,9202HW,Drachten
+Raai,2,"",16,9202HW,Drachten
+Raai,2,"",16,9202HW,Drachten
+Raai,2,"",17,9202HW,Drachten
+Raai,2,"",17,9202HW,Drachten
+Raai,2,"",18,9202HW,Drachten
+Raai,2,"",18,9202HW,Drachten
+Raai,2,"",2,9202HW,Drachten
+Raai,2,"",2,9202HW,Drachten
+Raai,2,"",3,9202HW,Drachten
+Raai,2,"",3,9202HW,Drachten
+Raai,2,"",4,9202HW,Drachten
+Raai,2,"",4,9202HW,Drachten
+Raai,2,"",5,9202HW,Drachten
+Raai,2,"",5,9202HW,Drachten
+Raai,2,"",6,9202HW,Drachten
+Raai,2,"",6,9202HW,Drachten
+Raai,2,"",7,9202HW,Drachten
+Raai,2,"",7,9202HW,Drachten
+Raai,2,"",8,9202HW,Drachten
+Raai,2,"",8,9202HW,Drachten
+Raai,2,"",9,9202HW,Drachten
+Raai,2,"",9,9202HW,Drachten
+Raai,2,A,"",9202HW,Drachten
+Raai,2,A,"",9202HW,Drachten
+Raai,2,B,"",9202HW,Drachten
+Raai,2,B,"",9202HW,Drachten
+Raai,2,C,"",9202HW,Drachten
+Raai,2,C,"",9202HW,Drachten
+Raai,4,"","",9202HW,Drachten
+Raai,172,"","",9202HX,Drachten
+Raai,174,"","",9202HX,Drachten
+Raai,176,"","",9202HX,Drachten
+Raai,178,"","",9202HX,Drachten
+Raai,180,"","",9202HX,Drachten
+Raai,182,"","",9202HX,Drachten
+Raai,184,"","",9202HX,Drachten
+Raai,186,"","",9202HX,Drachten
+Raai,188,"","",9202HX,Drachten
+Raai,190,"","",9202HX,Drachten
+Raai,192,"","",9202HX,Drachten
+Raai,194,"","",9202HX,Drachten
+Raai,196,"","",9202HX,Drachten
+Raai,198,"","",9202HX,Drachten
+Raai,200,"","",9202HX,Drachten
+Raai,200,"","",9202HX,Drachten
+Splitting,17,"","",9202LC,Drachten
+Splitting,19,"","",9202LC,Drachten
+Leerweg,2,"","",9202LC,Drachten
+Leerweg,2,A,"",9202LC,Drachten
+Splitting,21,"","",9202LC,Drachten
+Splitting,21,"","",9202LC,Drachten
+Splitting,21,"","",9202LC,Drachten
+Splitting,21,A,"",9202LC,Drachten
+Splitting,21,B,"",9202LC,Drachten
+Splitting,23,"","",9202LC,Drachten
+Splitting,23,A,"",9202LC,Drachten
+Splitting,23,B,"",9202LC,Drachten
+Splitting,25,"","",9202LC,Drachten
+Splitting,27,"","",9202LC,Drachten
+Splitting,29,"","",9202LC,Drachten
+Splitting,31,"","",9202LC,Drachten
+Splitting,33,"","",9202LC,Drachten
+Splitting,35,"","",9202LC,Drachten
+Splitting,37,"","",9202LC,Drachten
+Splitting,39,"","",9202LC,Drachten
+Leerweg,4,"","",9202LC,Drachten
+Splitting,41,"","",9202LC,Drachten
+Splitting,5,"","",9202LC,Drachten
+Splitting,7,"","",9202LC,Drachten
+Splitting,9,"","",9202LC,Drachten
+Splitting,43,"","",9202LD,Drachten
+Splitting,45,"","",9202LD,Drachten
+Splitting,47,"","",9202LD,Drachten
+Splitting,49,"","",9202LD,Drachten
+Splitting,51,"","",9202LD,Drachten
+Splitting,53,"","",9202LD,Drachten
+Splitting,55,"","",9202LD,Drachten
+Splitting,57,"","",9202LD,Drachten
+Splitting,59,"","",9202LD,Drachten
+Splitting,61,"","",9202LD,Drachten
+Splitting,63,"","",9202LD,Drachten
+Splitting,63,A,"",9202LD,Drachten
+Splitting,63,A,"",9202LD,Drachten
+Splitting,63,A,"",9202LD,Drachten
+Splitting,65,"","",9202LD,Drachten
+Leerweg,1,"","",9202LE,Drachten
+Leerweg,1,"","",9202LE,Drachten
+Leerweg,1,"","",9202LE,Drachten
+Splitting,10,"","",9202LE,Drachten
+Splitting,12,"","",9202LE,Drachten
+Splitting,14,"","",9202LE,Drachten
+Splitting,16,"","",9202LE,Drachten
+Splitting,18,"","",9202LE,Drachten
+Splitting,2,"","",9202LE,Drachten
+Splitting,20,"","",9202LE,Drachten
+Splitting,20,"",1,9202LE,Drachten
+Splitting,20,"",2,9202LE,Drachten
+Splitting,20,"",3,9202LE,Drachten
+Splitting,20,"",4,9202LE,Drachten
+Splitting,20,"",5,9202LE,Drachten
+Splitting,20,"",6,9202LE,Drachten
+Splitting,4,"","",9202LE,Drachten
+Splitting,6,"","",9202LE,Drachten
+Splitting,8,"","",9202LE,Drachten
+De Zwaai,10,"","",9202TE,Drachten
+De Zwaai,12,"","",9202TE,Drachten
+De Zwaai,14,"","",9202TE,Drachten
+De Zwaai,16,"","",9202TE,Drachten
+De Zwaai,18,"","",9202TE,Drachten
+De Zwaai,2,"","",9202TE,Drachten
+De Zwaai,2,"","",9202TE,Drachten
+De Zwaai,20,"","",9202TE,Drachten
+De Zwaai,6,"","",9202TE,Drachten
+De Zwaai,6,"","",9202TE,Drachten
+De Zwaai,6,"","",9202TE,Drachten
+De Zwaai,8,"","",9202TE,Drachten
+De Zwaai,17,"","",9202TK,Drachten
+De Zwaai,19,"","",9202TK,Drachten
+De Zwaai,21,"","",9202TK,Drachten
+De Zwaai,23,"","",9202TK,Drachten
+De Zwaai,25,"","",9202TK,Drachten
+De Zwaai,27,"","",9202TK,Drachten
+De Zwaai,29,"","",9202TK,Drachten
+De Zwaai,31,"","",9202TK,Drachten
+De Zwaai,33,"","",9202TK,Drachten
+De Zwaai,35,"","",9202TK,Drachten
+De Zwaai,37,"","",9202TK,Drachten
+De Zwaai,39,"","",9202TK,Drachten
+De Zwaai,41,"","",9202TK,Drachten
+De Zwaai,43,"","",9202TK,Drachten
+De Zwaai,45,"","",9202TK,Drachten
+De Zwaai,47,"","",9202TK,Drachten
+De Zwaai,49,"","",9202TK,Drachten
+De Zwaai,51,"","",9202TK,Drachten
+De Zwaai,53,"","",9202TK,Drachten
+De Zwaai,55,"","",9202TK,Drachten
+De Zwaai,57,"","",9202TK,Drachten
+De Zwaai,57,"",12,9202TK,Drachten
+De Zwaai,57,"",13,9202TK,Drachten
+De Zwaai,57,"",14,9202TK,Drachten
+De Zwaai,57,"",15,9202TK,Drachten
+De Zwaai,57,"",16,9202TK,Drachten
+De Zwaai,57,"",17,9202TK,Drachten
+De Zwaai,59,"","",9202TL,Drachten
+De Zwaai,61,"","",9202TL,Drachten
+De Zwaai,63,"","",9202TL,Drachten
+De Zwaai,65,"","",9202TL,Drachten
+De Zwaai,67,"","",9202TL,Drachten
+De Zwaai,69,"","",9202TL,Drachten
+De Zwaai,71,"","",9202TL,Drachten
+De Zwaai,73,"","",9202TL,Drachten
+De Zwaai,75,"","",9202TL,Drachten
+De Zwaai,77,"","",9202TL,Drachten
+De Zwaai,79,"","",9202TL,Drachten
+De Zwaai,81,"","",9202TL,Drachten
+De Zwaai,83,"","",9202TL,Drachten
+De Zwaai,85,"","",9202TL,Drachten
+De Klim,11,"","",9202TM,Drachten
+De Klim,13,"","",9202TM,Drachten
+De Klim,15,"","",9202TM,Drachten
+De Klim,3,"","",9202TM,Drachten
+De Klim,5,"","",9202TM,Drachten
+De Klim,7,"","",9202TM,Drachten
+De Klim,9,"","",9202TM,Drachten
+De Klim,9,A,"",9202TM,Drachten
+Helling,1,"","",9202TN,Drachten
+Helling,11,"","",9202TN,Drachten
+Helling,13,"","",9202TN,Drachten
+Helling,15,"","",9202TN,Drachten
+Helling,17,"","",9202TN,Drachten
+Helling,19,"","",9202TN,Drachten
+Helling,21,"","",9202TN,Drachten
+Helling,23,"","",9202TN,Drachten
+Helling,25,"","",9202TN,Drachten
+Helling,27,"","",9202TN,Drachten
+Helling,29,"","",9202TN,Drachten
+Helling,3,"","",9202TN,Drachten
+Helling,31,"","",9202TN,Drachten
+Helling,33,"","",9202TN,Drachten
+Helling,35,"","",9202TN,Drachten
+Helling,37,"","",9202TN,Drachten
+Helling,39,"","",9202TN,Drachten
+Helling,5,"","",9202TN,Drachten
+Helling,7,"","",9202TN,Drachten
+Helling,9,"","",9202TN,Drachten
+Helling,41,"","",9202TP,Drachten
+Helling,43,"","",9202TP,Drachten
+Helling,45,"","",9202TP,Drachten
+Helling,47,"","",9202TP,Drachten
+Helling,49,"","",9202TP,Drachten
+Helling,51,"","",9202TP,Drachten
+Helling,53,"","",9202TP,Drachten
+Helling,55,"","",9202TP,Drachten
+Helling,57,"","",9202TP,Drachten
+Helling,59,"","",9202TP,Drachten
+Helling,61,"","",9202TP,Drachten
+Helling,63,"","",9202TP,Drachten
+Helling,65,"","",9202TP,Drachten
+Helling,67,"","",9202TP,Drachten
+Helling,69,"","",9202TP,Drachten
+Helling,71,"","",9202TP,Drachten
+Helling,73,"","",9202TP,Drachten
+Helling,75,"","",9202TP,Drachten
+Helling,77,"","",9202TP,Drachten
+Helling,79,"","",9202TP,Drachten
+Helling,81,"","",9202TP,Drachten
+Helling,83,"","",9202TP,Drachten
+Helling,10,"","",9202TR,Drachten
+Helling,12,"","",9202TR,Drachten
+Helling,14,"","",9202TR,Drachten
+Helling,16,"","",9202TR,Drachten
+Helling,18,"","",9202TR,Drachten
+Helling,2,"","",9202TR,Drachten
+Helling,20,"","",9202TR,Drachten
+Helling,22,"","",9202TR,Drachten
+Helling,24,"","",9202TR,Drachten
+Helling,26,"","",9202TR,Drachten
+Helling,28,"","",9202TR,Drachten
+Helling,30,"","",9202TR,Drachten
+Helling,4,"","",9202TR,Drachten
+Helling,6,"","",9202TR,Drachten
+Helling,8,"","",9202TR,Drachten
+De Foute,10,"","",9202TS,Drachten
+De Foute,12,"","",9202TS,Drachten
+De Foute,14,"","",9202TS,Drachten
+De Foute,16,"","",9202TS,Drachten
+De Foute,18,"","",9202TS,Drachten
+De Foute,2,"","",9202TS,Drachten
+De Foute,20,"","",9202TS,Drachten
+De Foute,22,"","",9202TS,Drachten
+De Foute,24,"","",9202TS,Drachten
+De Foute,26,"","",9202TS,Drachten
+De Foute,26,"",1,9202TS,Drachten
+De Foute,26,"",2,9202TS,Drachten
+De Foute,26,"",3,9202TS,Drachten
+De Foute,26,"",4,9202TS,Drachten
+De Foute,26,"",5,9202TS,Drachten
+De Foute,26,"",6,9202TS,Drachten
+De Foute,26,"",7,9202TS,Drachten
+De Foute,26,"",8,9202TS,Drachten
+De Foute,28,"","",9202TS,Drachten
+De Foute,28,"",10,9202TS,Drachten
+De Foute,28,"",11,9202TS,Drachten
+De Foute,28,"",4,9202TS,Drachten
+De Foute,28,"",5,9202TS,Drachten
+De Foute,28,"",6,9202TS,Drachten
+De Foute,28,"",7,9202TS,Drachten
+De Foute,28,"",8,9202TS,Drachten
+De Foute,28,"",9,9202TS,Drachten
+De Foute,4,"","",9202TS,Drachten
+De Foute,6,"","",9202TS,Drachten
+De Foute,8,"","",9202TS,Drachten
+Leidijk,213,"","",9202TW,Drachten
+Leidijk,215,"","",9202TW,Drachten
+Leidijk,217,"","",9202TW,Drachten
+Leidijk,219,"","",9202TW,Drachten
+Leidijk,221,"","",9202TW,Drachten
+Leidijk,223,"","",9202TW,Drachten
+Leidijk,225,"","",9202TW,Drachten
+Leidijk,227,"","",9202TW,Drachten
+Leidijk,229,"","",9202TW,Drachten
+Leidijk,231,"","",9202TW,Drachten
+Leidijk,233,"","",9202TW,Drachten
+Leidijk,235,"","",9202TW,Drachten
+Leidijk,49,"","",9202TW,Drachten
+Leidijk,10,"",1,9202TZ,Drachten
+Leidijk,10,"",10,9202TZ,Drachten
+Leidijk,10,"",11,9202TZ,Drachten
+Leidijk,10,"",12,9202TZ,Drachten
+Leidijk,10,"",13,9202TZ,Drachten
+Leidijk,10,"",14,9202TZ,Drachten
+Leidijk,10,"",15,9202TZ,Drachten
+Leidijk,10,"",18,9202TZ,Drachten
+Leidijk,10,"",19,9202TZ,Drachten
+Leidijk,10,"",2,9202TZ,Drachten
+Leidijk,10,"",20,9202TZ,Drachten
+Leidijk,10,"",21,9202TZ,Drachten
+Leidijk,10,"",22,9202TZ,Drachten
+Leidijk,10,"",23,9202TZ,Drachten
+Leidijk,10,"",24,9202TZ,Drachten
+Leidijk,10,"",25,9202TZ,Drachten
+Leidijk,10,"",26,9202TZ,Drachten
+Leidijk,10,"",27,9202TZ,Drachten
+Leidijk,10,"",28,9202TZ,Drachten
+Leidijk,10,"",29,9202TZ,Drachten
+Leidijk,10,"",3,9202TZ,Drachten
+Leidijk,10,"",30,9202TZ,Drachten
+Leidijk,10,"",31,9202TZ,Drachten
+Leidijk,10,"",32,9202TZ,Drachten
+Leidijk,10,"",33,9202TZ,Drachten
+Leidijk,10,"",34,9202TZ,Drachten
+Leidijk,10,"",35,9202TZ,Drachten
+Leidijk,10,"",36,9202TZ,Drachten
+Leidijk,10,"",4,9202TZ,Drachten
+Leidijk,10,"",5,9202TZ,Drachten
+Leidijk,10,"",6,9202TZ,Drachten
+Leidijk,10,"",7,9202TZ,Drachten
+Leidijk,10,"",8,9202TZ,Drachten
+Leidijk,10,"",9,9202TZ,Drachten
+Leidijk,16,"","",9202TZ,Drachten
+Leidijk,18,"","",9202TZ,Drachten
+Leidijk,20,"","",9202TZ,Drachten
+Leidijk,22,"","",9202TZ,Drachten
+Leidijk,24,"","",9202TZ,Drachten
+Leidijk,26,"","",9202TZ,Drachten
+Leidijk,28,"","",9202TZ,Drachten
+Leidijk,30,"","",9202TZ,Drachten
+Leidijk,30,"","",9202TZ,Drachten
+Leidijk,30,"","",9202TZ,Drachten
+Leidijk,6,"","",9202TZ,Drachten
+Leidijk,32,"","",9202VA,Drachten
+Leidijk,34,"","",9202VA,Drachten
+Leidijk,36,"","",9202VA,Drachten
+Leidijk,38,"","",9202VA,Drachten
+Leidijk,40,"","",9202VA,Drachten
+Leidijk,42,"","",9202VA,Drachten
+Leidijk,44,"","",9202VA,Drachten
+Leidijk,46,"","",9202VA,Drachten
+Leidijk,48,"","",9202VA,Drachten
+Leidijk,50,"","",9202VA,Drachten
+Leidijk,52,"","",9202VB,Drachten
+Leidijk,54,"","",9202VB,Drachten
+Leidijk,56,"","",9202VB,Drachten
+Leidijk,58,"","",9202VB,Drachten
+Leidijk,60,"","",9202VB,Drachten
+Leidijk,62,"","",9202VB,Drachten
+Leidijk,64,"","",9202VB,Drachten
+Leidijk,66,"","",9202VB,Drachten
+Leidijk,68,"","",9202VB,Drachten
+Leidijk,70,"","",9202VB,Drachten
+Leidijk,72,"","",9202VB,Drachten
+Leidijk,74,"","",9202VB,Drachten
+Leidijk,76,"","",9202VB,Drachten
+Leidijk,78,"","",9202VB,Drachten
+Leidijk,100,"","",9202VC,Drachten
+Leidijk,102,"","",9202VC,Drachten
+Leidijk,104,"","",9202VC,Drachten
+Leidijk,106,"","",9202VC,Drachten
+Leidijk,108,"","",9202VC,Drachten
+Leidijk,110,"","",9202VC,Drachten
+Leidijk,80,"","",9202VC,Drachten
+Leidijk,82,"","",9202VC,Drachten
+Leidijk,84,"","",9202VC,Drachten
+Leidijk,86,"","",9202VC,Drachten
+Leidijk,88,"","",9202VC,Drachten
+Leidijk,90,"","",9202VC,Drachten
+Leidijk,92,"","",9202VC,Drachten
+Leidijk,94,"","",9202VC,Drachten
+Leidijk,96,"","",9202VC,Drachten
+Leidijk,98,"","",9202VC,Drachten
+De Stok,10,"","",9202WC,Drachten
+De Stok,12,"","",9202WC,Drachten
+De Stok,14,"","",9202WC,Drachten
+De Stok,16,"","",9202WC,Drachten
+De Stok,2,"","",9202WC,Drachten
+De Stok,4,"","",9202WC,Drachten
+De Stok,6,"","",9202WC,Drachten
+De Stok,8,"","",9202WC,Drachten
+De Stok,1,"","",9202WD,Drachten
+De Stok,11,"","",9202WD,Drachten
+De Stok,3,"","",9202WD,Drachten
+De Stok,5,"","",9202WD,Drachten
+De Stok,7,"","",9202WD,Drachten
+De Stok,9,"","",9202WD,Drachten
+Zuiderdwarsvaart,1,"","",9203HV,Drachten
+Zuiderdwarsvaart,1,"","",9203HV,Drachten
+Zuiderdwarsvaart,11,"","",9203HV,Drachten
+Zuiderdwarsvaart,13,"","",9203HV,Drachten
+Zuiderdwarsvaart,13,"","",9203HV,Drachten
+Zuiderdwarsvaart,13,"","",9203HV,Drachten
+Zuiderdwarsvaart,13,A,"",9203HV,Drachten
+Zuiderdwarsvaart,15,"","",9203HV,Drachten
+Zuiderdwarsvaart,17,"","",9203HV,Drachten
+Zuiderdwarsvaart,19,"","",9203HV,Drachten
+Zuiderdwarsvaart,21,"","",9203HV,Drachten
+Zuiderdwarsvaart,23,"","",9203HV,Drachten
+Zuiderdwarsvaart,3,"","",9203HV,Drachten
+Zuiderdwarsvaart,3,"","",9203HV,Drachten
+Zuiderdwarsvaart,25,"","",9203HW,Drachten
+Zuiderdwarsvaart,25,A,"",9203HW,Drachten
+Zuiderdwarsvaart,27,"","",9203HW,Drachten
+Zuiderdwarsvaart,29,"","",9203HW,Drachten
+Zuiderdwarsvaart,31,"","",9203HW,Drachten
+Zuiderdwarsvaart,33,"","",9203HW,Drachten
+Zuiderdwarsvaart,35,"","",9203HW,Drachten
+Zuiderdwarsvaart,37,"","",9203HW,Drachten
+Zuiderdwarsvaart,39,"","",9203HW,Drachten
+Zuiderdwarsvaart,41,"","",9203HW,Drachten
+Zuiderdwarsvaart,43,"","",9203HW,Drachten
+Zuiderdwarsvaart,45,"","",9203HW,Drachten
+Zuiderdwarsvaart,47,"","",9203HW,Drachten
+Zuiderdwarsvaart,49,"","",9203HW,Drachten
+Zuiderdwarsvaart,51,"","",9203HW,Drachten
+Zuiderdwarsvaart,53,"","",9203HW,Drachten
+Zuiderdwarsvaart,55,"","",9203HW,Drachten

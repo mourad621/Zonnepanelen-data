@@ -1,80 +1,80 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6604KC,Achterloseweg,29,,
-6604KC,Achterloseweg,33,,
-6604KC,Achterloseweg,36,,
-6604KC,Achterloseweg,37,,
-6604KC,Achterloseweg,38,,
-6604KC,Achterloseweg,42,,
-6604KB,Hazenpad,8,,
-6604KE,Wezelseberg,4,,SCHR
-6604KH,Hoogvonderweg,2,,
-6604KH,Hoogvonderweg,13,,
-6604KH,Hoogvonderweg,15,,
-6604KH,Hoogvonderweg,17,,
-6604KH,Hoogvonderweg,19,,
-6604KH,Hoogvonderweg,23,,
-6604KD,Oud Woeziksestraat,29,,
-6604KN,Wezelseveldweg,50,,
-6604KA,Hazenpad,1,,
-6604KA,Hazenpad,11,,
-6604KA,Hazenpad,15,,
-6604KA,Hazenpad,17,,
-6604KA,Hazenpad,19,,
-6604KB,Hazenpad,4,,
-6604KB,Hazenpad,6,,
-6604KB,Hazenpad,14,,
-6604KE,Wezelseberg,1,,
-6604KE,Wezelseberg,4,,
-6604KE,Wezelseberg,5,,
-6604KE,Wezelseberg,6,,
-6604KE,Wezelseberg,7,,
-6604KG,Wezelsedijk,38,,
-6604KG,Wezelsedijk,2,,
-6604KG,Wezelsedijk,3,,
-6604KG,Wezelsedijk,7,,
-6604KG,Wezelsedijk,26,,
-6604KG,Wezelsedijk,29,,
-6604KG,Wezelsedijk,31,,
-6604KG,Wezelsedijk,34,,
-6604KG,Wezelsedijk,36,,
-6604KG,Wezelsedijk,51,,
-6604KG,Wezelsedijk,52,,
-6604KG,Wezelsedijk,53,,
-6604KG,Wezelsedijk,55,,
-6604KG,Wezelsedijk,58,,
-6604KK,Wilhelminalaan,60,,
-6604KH,Hoogvonderweg,19,A,
-6604KD,Oud Woeziksestraat,1,,
-6604KD,Oud Woeziksestraat,1,A,
-6604KD,Oud Woeziksestraat,2,,
-6604KD,Oud Woeziksestraat,3,,
-6604KD,Oud Woeziksestraat,4,,
-6604KD,Oud Woeziksestraat,5,,
-6604KD,Oud Woeziksestraat,7,,
-6604KD,Oud Woeziksestraat,8,,
-6604KD,Oud Woeziksestraat,10,,
-6604KD,Oud Woeziksestraat,15,,
-6604KD,Oud Woeziksestraat,19,,
-6604KD,Oud Woeziksestraat,5,,
-6604KD,Oud Woeziksestraat,5,B,
-6604KD,Oud Woeziksestraat,5,B,
-6604KD,Oud Woeziksestraat,5,A,
-6604KD,Oud Woeziksestraat,5,C,
-6604KC,Achterloseweg,37,A,
-6604KP,Bouwhofstraat,2,,
-6604KA,Hazenpad,15,,
-6604KA,Hazenpad,15,A,
-6604KE,Wezelseberg,7,A,
-6604KE,Wezelseberg,11,,
-6604KE,Wezelseberg,11,,
-6604KG,Wezelsedijk,34,,
-6604KG,Wezelsedijk,24,,
-6604KG,Wezelsedijk,24,,
-6604KG,Wezelsedijk,30,,
-6604KG,Wezelsedijk,30,,
-6604KG,Wezelsedijk,31,,
-6604KG,Wezelsedijk,31,A,
-6604KG,Wezelsedijk,34,A,
-6604KG,Wezelsedijk,34,,
-6604KG,Wezelsedijk,30,A,
-6604KG,Wezelsedijk,36,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hazenpad,1,"","",6604KA,Wijchen
+Hazenpad,11,"","",6604KA,Wijchen
+Hazenpad,15,"","",6604KA,Wijchen
+Hazenpad,15,"","",6604KA,Wijchen
+Hazenpad,15,A,"",6604KA,Wijchen
+Hazenpad,17,"","",6604KA,Wijchen
+Hazenpad,19,"","",6604KA,Wijchen
+Hazenpad,14,"","",6604KB,Wijchen
+Hazenpad,4,"","",6604KB,Wijchen
+Hazenpad,6,"","",6604KB,Wijchen
+Hazenpad,8,"","",6604KB,Wijchen
+Achterloseweg,29,"","",6604KC,Wijchen
+Achterloseweg,33,"","",6604KC,Wijchen
+Achterloseweg,36,"","",6604KC,Wijchen
+Achterloseweg,37,"","",6604KC,Wijchen
+Achterloseweg,37,A,"",6604KC,Wijchen
+Achterloseweg,38,"","",6604KC,Wijchen
+Achterloseweg,42,"","",6604KC,Wijchen
+Oud Woeziksestraat,1,"","",6604KD,Wijchen
+Oud Woeziksestraat,1,A,"",6604KD,Wijchen
+Oud Woeziksestraat,10,"","",6604KD,Wijchen
+Oud Woeziksestraat,15,"","",6604KD,Wijchen
+Oud Woeziksestraat,19,"","",6604KD,Wijchen
+Oud Woeziksestraat,2,"","",6604KD,Wijchen
+Oud Woeziksestraat,29,"","",6604KD,Wijchen
+Oud Woeziksestraat,3,"","",6604KD,Wijchen
+Oud Woeziksestraat,4,"","",6604KD,Wijchen
+Oud Woeziksestraat,5,"","",6604KD,Wijchen
+Oud Woeziksestraat,5,"","",6604KD,Wijchen
+Oud Woeziksestraat,5,A,"",6604KD,Wijchen
+Oud Woeziksestraat,5,B,"",6604KD,Wijchen
+Oud Woeziksestraat,5,B,"",6604KD,Wijchen
+Oud Woeziksestraat,5,C,"",6604KD,Wijchen
+Oud Woeziksestraat,7,"","",6604KD,Wijchen
+Oud Woeziksestraat,8,"","",6604KD,Wijchen
+Wezelseberg,1,"","",6604KE,Wijchen
+Wezelseberg,11,"","",6604KE,Wijchen
+Wezelseberg,11,"","",6604KE,Wijchen
+Wezelseberg,4,"","",6604KE,Wijchen
+Wezelseberg,4,"",SCHR,6604KE,Wijchen
+Wezelseberg,5,"","",6604KE,Wijchen
+Wezelseberg,6,"","",6604KE,Wijchen
+Wezelseberg,7,"","",6604KE,Wijchen
+Wezelseberg,7,A,"",6604KE,Wijchen
+Wezelsedijk,2,"","",6604KG,Wijchen
+Wezelsedijk,24,"","",6604KG,Wijchen
+Wezelsedijk,24,"","",6604KG,Wijchen
+Wezelsedijk,26,"","",6604KG,Wijchen
+Wezelsedijk,29,"","",6604KG,Wijchen
+Wezelsedijk,3,"","",6604KG,Wijchen
+Wezelsedijk,30,"","",6604KG,Wijchen
+Wezelsedijk,30,"","",6604KG,Wijchen
+Wezelsedijk,30,A,"",6604KG,Wijchen
+Wezelsedijk,31,"","",6604KG,Wijchen
+Wezelsedijk,31,"","",6604KG,Wijchen
+Wezelsedijk,31,A,"",6604KG,Wijchen
+Wezelsedijk,34,"","",6604KG,Wijchen
+Wezelsedijk,34,"","",6604KG,Wijchen
+Wezelsedijk,34,"","",6604KG,Wijchen
+Wezelsedijk,34,A,"",6604KG,Wijchen
+Wezelsedijk,36,"","",6604KG,Wijchen
+Wezelsedijk,36,A,"",6604KG,Wijchen
+Wezelsedijk,38,"","",6604KG,Wijchen
+Wezelsedijk,51,"","",6604KG,Wijchen
+Wezelsedijk,52,"","",6604KG,Wijchen
+Wezelsedijk,53,"","",6604KG,Wijchen
+Wezelsedijk,55,"","",6604KG,Wijchen
+Wezelsedijk,58,"","",6604KG,Wijchen
+Wezelsedijk,7,"","",6604KG,Wijchen
+Hoogvonderweg,13,"","",6604KH,Wijchen
+Hoogvonderweg,15,"","",6604KH,Wijchen
+Hoogvonderweg,17,"","",6604KH,Wijchen
+Hoogvonderweg,19,"","",6604KH,Wijchen
+Hoogvonderweg,19,A,"",6604KH,Wijchen
+Hoogvonderweg,2,"","",6604KH,Wijchen
+Hoogvonderweg,23,"","",6604KH,Wijchen
+Wilhelminalaan,60,"","",6604KK,Wijchen
+Wezelseveldweg,50,"","",6604KN,Wijchen
+Bouwhofstraat,2,"","",6604KP,Wijchen

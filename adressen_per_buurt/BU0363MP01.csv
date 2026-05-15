@@ -1,16 +1,16 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1097HK,Drie Burgpad,3,,
-1097HK,Drie Burgpad,5,,
-1097HK,Drie Burgpad,15,,
-1097EC,Kruislaan,5,,
-1097EC,Kruislaan,9,,
-1097HK,Rozenburglaan,2,,
-1097HK,Rozenburglaan,1,,
-1097HK,Drie Burgpad,6,,
-1097HK,Drie Burgpad,7,,
-1097HK,Drie Burgpad,9,,
-1097HK,Drie Burgpad,8,,
-1097EC,Kruislaan,4,,
-1097EC,Kruislaan,4,A,
-1097EC,Kruislaan,4,B,
-1097EC,Kruislaan,33,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kruislaan,33,"","",1097EC,Amsterdam
+Kruislaan,4,"","",1097EC,Amsterdam
+Kruislaan,4,A,"",1097EC,Amsterdam
+Kruislaan,4,B,"",1097EC,Amsterdam
+Kruislaan,5,"","",1097EC,Amsterdam
+Kruislaan,9,"","",1097EC,Amsterdam
+Rozenburglaan,1,"","",1097HK,Amsterdam
+Drie Burgpad,15,"","",1097HK,Amsterdam
+Rozenburglaan,2,"","",1097HK,Amsterdam
+Drie Burgpad,3,"","",1097HK,Amsterdam
+Drie Burgpad,5,"","",1097HK,Amsterdam
+Drie Burgpad,6,"","",1097HK,Amsterdam
+Drie Burgpad,7,"","",1097HK,Amsterdam
+Drie Burgpad,8,"","",1097HK,Amsterdam
+Drie Burgpad,9,"","",1097HK,Amsterdam

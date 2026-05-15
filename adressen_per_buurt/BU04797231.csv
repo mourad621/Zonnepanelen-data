@@ -1,57 +1,57 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1566NZ,Bus en Dam,3,,
-1566NZ,Bus en Dam,5,,
-1566DA,Communicatieweg West,20,,
-1566DA,Communicatieweg West,7,,
-1566DA,Communicatieweg West,16,,
-1566DA,Communicatieweg West,11,,
-1566DA,Communicatieweg West,15,,
-1566DA,Communicatieweg West,21,,
-1566DA,Communicatieweg West,22,,
-1566DA,Communicatieweg West,17,,
-1566DA,Communicatieweg West,18,,
-1566DA,Communicatieweg West,19,,
-1566DA,Communicatieweg West,9,,
-1566NX,Communicatieweg West,26,,
-1566NX,Communicatieweg West,24,A,
-1566NX,Communicatieweg West,24,,
-1566DA,Communicatieweg West,10,,
-1566DA,Communicatieweg West,14,A,
-1566NX,Communicatieweg West,25,A,
-1566NW,Noorderweg,2,,
-1566NW,Noorderweg,4,,
-1566NW,Noorderweg,6,,
-1566NZ,Bus en Dam,7,,
-1566NZ,Bus en Dam,2,A,
-1566NZ,Bus en Dam,2,,
-1566DA,Communicatieweg West,1,,
-1566DA,Communicatieweg West,22,A,
-1566DA,Communicatieweg West,8,,
-1566NX,Communicatieweg West,23,A,
-1566NX,Communicatieweg West,23,,
-1566NW,Noorderweg,1,,
-1566NZ,Bus en Dam,1,,
-1566DA,Communicatieweg West,1,A,
-1566NZ,Bus en Dam,9,,
-1566DA,Communicatieweg West,2,,
-1566DA,Communicatieweg West,5,,
-1566DA,Communicatieweg West,6,,
-1566DA,Communicatieweg West,3,,
-1566NX,Communicatieweg West,25,,
-1566NX,Communicatieweg West,27,,
-1566NZ,Bus en Dam,2,b,
-1566DA,Communicatieweg West,6,a,
-1566NZ,Bus en Dam,3,,
-1566NZ,Bus en Dam,3,A,
-1566DA,Communicatieweg West,3,,
-1566DA,Communicatieweg West,10,A,
-1566NW,Noorderweg,6,A,
-1567DA,Jaap Bootpad,1,,
-1567DA,Jaap Bootpad,2,,
-1567DA,Jaap Bootpad,4,,
-1566NZ,Bus en Dam,1,A,
-1566NZ,Bus en Dam,2,C,
-1566DA,Communicatieweg West,3,,
-1566DA,Communicatieweg West,3,A,
-1566DA,Communicatieweg West,11,,
-1566NX,Communicatieweg West,23,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Communicatieweg West,1,"","",1566DA,Assendelft
+Communicatieweg West,1,A,"",1566DA,Assendelft
+Communicatieweg West,10,"","",1566DA,Assendelft
+Communicatieweg West,10,A,"",1566DA,Assendelft
+Communicatieweg West,11,"","",1566DA,Assendelft
+Communicatieweg West,11,"","",1566DA,Assendelft
+Communicatieweg West,14,A,"",1566DA,Assendelft
+Communicatieweg West,15,"","",1566DA,Assendelft
+Communicatieweg West,16,"","",1566DA,Assendelft
+Communicatieweg West,17,"","",1566DA,Assendelft
+Communicatieweg West,18,"","",1566DA,Assendelft
+Communicatieweg West,19,"","",1566DA,Assendelft
+Communicatieweg West,2,"","",1566DA,Assendelft
+Communicatieweg West,20,"","",1566DA,Assendelft
+Communicatieweg West,21,"","",1566DA,Assendelft
+Communicatieweg West,22,"","",1566DA,Assendelft
+Communicatieweg West,22,A,"",1566DA,Assendelft
+Communicatieweg West,3,"","",1566DA,Assendelft
+Communicatieweg West,3,"","",1566DA,Assendelft
+Communicatieweg West,3,"","",1566DA,Assendelft
+Communicatieweg West,3,A,"",1566DA,Assendelft
+Communicatieweg West,5,"","",1566DA,Assendelft
+Communicatieweg West,6,"","",1566DA,Assendelft
+Communicatieweg West,6,A,"",1566DA,Assendelft
+Communicatieweg West,7,"","",1566DA,Assendelft
+Communicatieweg West,8,"","",1566DA,Assendelft
+Communicatieweg West,9,"","",1566DA,Assendelft
+Noorderweg,1,"","",1566NW,Assendelft
+Noorderweg,2,"","",1566NW,Assendelft
+Noorderweg,4,"","",1566NW,Assendelft
+Noorderweg,6,"","",1566NW,Assendelft
+Noorderweg,6,A,"",1566NW,Assendelft
+Communicatieweg West,23,"","",1566NX,Assendelft
+Communicatieweg West,23,A,"",1566NX,Assendelft
+Communicatieweg West,23,A,"",1566NX,Assendelft
+Communicatieweg West,24,"","",1566NX,Assendelft
+Communicatieweg West,24,A,"",1566NX,Assendelft
+Communicatieweg West,25,"","",1566NX,Assendelft
+Communicatieweg West,25,A,"",1566NX,Assendelft
+Communicatieweg West,26,"","",1566NX,Assendelft
+Communicatieweg West,27,"","",1566NX,Assendelft
+Bus en Dam,1,"","",1566NZ,Assendelft
+Bus en Dam,1,A,"",1566NZ,Assendelft
+Bus en Dam,2,"","",1566NZ,Assendelft
+Bus en Dam,2,A,"",1566NZ,Assendelft
+Bus en Dam,2,B,"",1566NZ,Assendelft
+Bus en Dam,2,C,"",1566NZ,Assendelft
+Bus en Dam,3,"","",1566NZ,Assendelft
+Bus en Dam,3,"","",1566NZ,Assendelft
+Bus en Dam,3,A,"",1566NZ,Assendelft
+Bus en Dam,5,"","",1566NZ,Assendelft
+Bus en Dam,7,"","",1566NZ,Assendelft
+Bus en Dam,9,"","",1566NZ,Assendelft
+Jaap Bootpad,1,"","",1567DA,Assendelft
+Jaap Bootpad,2,"","",1567DA,Assendelft
+Jaap Bootpad,4,"","",1567DA,Assendelft

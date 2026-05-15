@@ -1,64 +1,64 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4333RE,Van 't Hoffweg,5,,
-4333RE,Van 't Hoffweg,2,,
-4333RE,Van 't Hoffweg,7,,
-4333RE,Van 't Hoffweg,7,,
-4333RE,Van 't Hoffweg,4,,
-4333RK,Kasteelstraat,8,,
-4333RK,Kasteelstraat,10,,
-4333RK,Kasteelstraat,12,,
-4333RK,Kasteelstraat,14,,
-4333RK,Kasteelstraat,22,,
-4333RK,Kasteelstraat,9,,
-4333RK,Kasteelstraat,11,,
-4333RK,Kasteelstraat,13,,
-4333RK,Kasteelstraat,15,,
-4333RK,Kasteelstraat,17,,
-4333RK,Kasteelstraat,19,,
-4333RK,Kasteelstraat,21,,
-4333RK,Kasteelstraat,23,,
-4333RK,Kasteelstraat,16,,
-4333RK,Kasteelstraat,18,,
-4333RK,Kasteelstraat,20,,
-4333RJ,Singelweg,26,A,
-4333RJ,Singelweg,26,,
-4333RG,Wilgenhoekweg,38,,
-4333RG,Wilgenhoekweg,39,,
-4333RG,Wilgenhoekweg,40,,
-4333RG,Wilgenhoekweg,41,,
-4333RG,Wilgenhoekweg,42,,
-4333RG,Wilgenhoekweg,43,,
-4333RG,Wilgenhoekweg,44,,
-4333RG,Wilgenhoekweg,46,,
-4333RG,Wilgenhoekweg,48,,
-4333RG,Wilgenhoekweg,37,,
-4333RE,Van 't Hoffweg,2,A,
-4333RE,Van 't Hoffweg,7,A,
-4333RE,Van 't Hoffweg,5,A,M
-4333RJ,Singelweg,26,B,
-4333RJ,Singelweg,26,,
-4333RG,Wilgenhoekweg,39,A,
-4333RG,Wilgenhoekweg,40,B,
-4333RG,Wilgenhoekweg,40,A,
-4333RG,Wilgenhoekweg,40,,
-4333RG,Wilgenhoekweg,36,G,
-4333RH,Noorddorpsweg,1,,
-4333RH,Noorddorpsweg,1,,
-4333RH,Noorddorpsweg,3,,
-4333RH,Noorddorpsweg,3,,
-4333RH,Noorddorpsweg,5,,
-4333RH,Noorddorpsweg,5,,
-4333RG,Wilgenhoekweg,37,A,
-4333RG,Wilgenhoekweg,36,G,
-4333RG,Wilgenhoekweg,36,A,
-4333RG,Wilgenhoekweg,36,A,
-4333RG,Wilgenhoekweg,36,C,
-4333RG,Wilgenhoekweg,36,E,
-4333RG,Wilgenhoekweg,36,B,
-4333RL,Jacoba van Beierenlaan,7,,
-4333RL,Jacoba van Beierenlaan,11,,
-4333RL,Jacoba van Beierenlaan,15,,
-4333RL,Jacoba van Beierenlaan,17,,
-4333RL,Jacoba van Beierenlaan,19,,
-4333RL,Jacoba van Beierenlaan,13,,
-4333RL,Jacoba van Beierenlaan,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Van 't Hoffweg,2,"","",4333RE,Middelburg
+Van 't Hoffweg,2,A,"",4333RE,Middelburg
+Van 't Hoffweg,4,"","",4333RE,Middelburg
+Van 't Hoffweg,5,"","",4333RE,Middelburg
+Van 't Hoffweg,5,A,M,4333RE,Middelburg
+Van 't Hoffweg,7,"","",4333RE,Middelburg
+Van 't Hoffweg,7,"","",4333RE,Middelburg
+Van 't Hoffweg,7,A,"",4333RE,Middelburg
+Wilgenhoekweg,36,A,"",4333RG,Middelburg
+Wilgenhoekweg,36,A,"",4333RG,Middelburg
+Wilgenhoekweg,36,B,"",4333RG,Middelburg
+Wilgenhoekweg,36,C,"",4333RG,Middelburg
+Wilgenhoekweg,36,E,"",4333RG,Middelburg
+Wilgenhoekweg,36,G,"",4333RG,Middelburg
+Wilgenhoekweg,36,G,"",4333RG,Middelburg
+Wilgenhoekweg,37,"","",4333RG,Middelburg
+Wilgenhoekweg,37,A,"",4333RG,Middelburg
+Wilgenhoekweg,38,"","",4333RG,Middelburg
+Wilgenhoekweg,39,"","",4333RG,Middelburg
+Wilgenhoekweg,39,A,"",4333RG,Middelburg
+Wilgenhoekweg,40,"","",4333RG,Middelburg
+Wilgenhoekweg,40,"","",4333RG,Middelburg
+Wilgenhoekweg,40,A,"",4333RG,Middelburg
+Wilgenhoekweg,40,B,"",4333RG,Middelburg
+Wilgenhoekweg,41,"","",4333RG,Middelburg
+Wilgenhoekweg,42,"","",4333RG,Middelburg
+Wilgenhoekweg,43,"","",4333RG,Middelburg
+Wilgenhoekweg,44,"","",4333RG,Middelburg
+Wilgenhoekweg,46,"","",4333RG,Middelburg
+Wilgenhoekweg,48,"","",4333RG,Middelburg
+Noorddorpsweg,1,"","",4333RH,Serooskerke
+Noorddorpsweg,1,"","",4333RH,Serooskerke
+Noorddorpsweg,3,"","",4333RH,Serooskerke
+Noorddorpsweg,3,"","",4333RH,Serooskerke
+Noorddorpsweg,5,"","",4333RH,Serooskerke
+Noorddorpsweg,5,"","",4333RH,Serooskerke
+Singelweg,26,"","",4333RJ,Middelburg
+Singelweg,26,"","",4333RJ,Middelburg
+Singelweg,26,A,"",4333RJ,Middelburg
+Singelweg,26,B,"",4333RJ,Middelburg
+Kasteelstraat,10,"","",4333RK,Middelburg
+Kasteelstraat,11,"","",4333RK,Middelburg
+Kasteelstraat,12,"","",4333RK,Middelburg
+Kasteelstraat,13,"","",4333RK,Middelburg
+Kasteelstraat,14,"","",4333RK,Middelburg
+Kasteelstraat,15,"","",4333RK,Middelburg
+Kasteelstraat,16,"","",4333RK,Middelburg
+Kasteelstraat,17,"","",4333RK,Middelburg
+Kasteelstraat,18,"","",4333RK,Middelburg
+Kasteelstraat,19,"","",4333RK,Middelburg
+Kasteelstraat,20,"","",4333RK,Middelburg
+Kasteelstraat,21,"","",4333RK,Middelburg
+Kasteelstraat,22,"","",4333RK,Middelburg
+Kasteelstraat,23,"","",4333RK,Middelburg
+Kasteelstraat,8,"","",4333RK,Middelburg
+Kasteelstraat,9,"","",4333RK,Middelburg
+Jacoba van Beierenlaan,11,"","",4333RL,Middelburg
+Jacoba van Beierenlaan,13,"","",4333RL,Middelburg
+Jacoba van Beierenlaan,15,"","",4333RL,Middelburg
+Jacoba van Beierenlaan,17,"","",4333RL,Middelburg
+Jacoba van Beierenlaan,19,"","",4333RL,Middelburg
+Jacoba van Beierenlaan,7,"","",4333RL,Middelburg
+Jacoba van Beierenlaan,9,"","",4333RL,Middelburg

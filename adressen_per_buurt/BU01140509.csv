@@ -1,97 +1,98 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7885AW",121,"",""
-"7885AW",132,"",""
-"7885AW",121,"",""
-"7885AW",162,"",""
-"7885AW",131,"",""
-"7885AW",150,"",""
-"7885AW",121,"",""
-"7885TH",49,"",""
-"7885TH",23,"",""
-"7885TH",22,"",""
-"7885TH",22,"",""
-"7885TH",52,"",""
-"7885TH",25,"",""
-"7885TH",9,"",""
-"7885TH",49,"",""
-"7885TH",54,"",""
-"7885TH",49,"A",""
-"7885TH",24,"",""
-"7885TH",22,"A",""
-"7885TH",49,"B",""
-"7885TH",17,"",""
-"7885TH",49,"",""
-"7885TH",43,"B",""
-"7885TH",57,"",""
-"7885TH",38,"",""
-"7885TH",48,"",""
-"7885TH",49,"B",""
-"7885TH",5,"A",""
-"7885TH",5,"A",""
-"7885TH",5,"",""
-"7885TH",32,"",""
-"7885TH",29,"",""
-"7885TH",27,"",""
-"7885TH",7,"",""
-"7885TH",48,"A",""
-"7885TH",22,"",""
-"7885TH",10,"",""
-"7885TH",32,"",""
-"7885TH",43,"A",""
-"7885TH",19,"",""
-"7885TH",32,"",""
-"7885TH",36,"",""
-"7885TH",32,"",""
-"7885TH",43,"",""
-"7885TH",32,"",""
-7885TH,Bladderswijk WZ,48,,
-7885TH,Bladderswijk WZ,38,,
-7885TH,Bladderswijk WZ,43,,
-7885TH,Bladderswijk WZ,27,,
-7885TH,Bladderswijk WZ,23,,
-7885TH,Bladderswijk WZ,52,,
-7885TH,Bladderswijk WZ,7,,
-7885TH,Bladderswijk WZ,49,A,
-7885TH,Bladderswijk WZ,43,B,
-7885TH,Bladderswijk WZ,36,,
-7885TH,Bladderswijk WZ,5,,
-7885TH,Bladderswijk WZ,19,,
-7885TH,Bladderswijk WZ,25,,
-7885TH,Bladderswijk WZ,43,A,
-7885TH,Bladderswijk WZ,9,,
-7885TH,Bladderswijk WZ,24,,
-7885TH,Bladderswijk WZ,49,,
-7885AW,Veldweg,162,,
-7885TH,Bladderswijk WZ,57,,
-7885TH,Bladderswijk WZ,54,,
-7885TH,Bladderswijk WZ,10,,
-7885TH,Bladderswijk WZ,22,,
-7885TH,Bladderswijk WZ,17,,
-7885AW,Veldweg,131,,
-7885AW,Veldweg,132,,
-7885TH,Bladderswijk WZ,29,,
-7885TH,Bladderswijk WZ,32,,
-7885AW,Veldweg,121,,
-7885AW,Veldweg,150,,
-7885TH,Bladderswijk WZ,48,A,
-7885TH,Bladderswijk WZ,49,,
-7885TH,Bladderswijk WZ,49,B,
-7885TH,Bladderswijk WZ,49,B,
-7885TH,Bladderswijk WZ,5,A,
-7885TH,Bladderswijk WZ,5,A,
-7885TH,Bladderswijk WZ,22,A,
-7885TH,Bladderswijk WZ,22,,
-7885TH,Bladderswijk WZ,32,,
-7885TH,Bladderswijk WZ,32,,
-7885TH,Bladderswijk WZ,32,,
-7885AW,Veldweg,121,,
-7885TH,Bladderswijk WZ,26,A,
-7885TH,Bladderswijk WZ,26,B,
-7885TH,Bladderswijk WZ,26,C,
-7885TH,Bladderswijk WZ,26,E,
-7885TH,Bladderswijk WZ,26,D,
-7885TH,Bladderswijk WZ,26,F,
-7885TH,Bladderswijk WZ,26,G,
-7885TH,Bladderswijk WZ,26,H,
-7885TH,Bladderswijk WZ,26,K,
-7885TH,Bladderswijk WZ,26,J,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+121,"","","",7885AW,
+132,"","","",7885AW,
+121,"","","",7885AW,
+162,"","","",7885AW,
+131,"","","",7885AW,
+150,"","","",7885AW,
+121,"","","",7885AW,
+Veldweg,121,"","",7885AW,Nieuw-Dordrecht
+Veldweg,121,"","",7885AW,Nieuw-Dordrecht
+Veldweg,131,"","",7885AW,Nieuw-Dordrecht
+Veldweg,132,"","",7885AW,Nieuw-Dordrecht
+Veldweg,150,"","",7885AW,Nieuw-Dordrecht
+Veldweg,162,"","",7885AW,Nieuw-Dordrecht
+49,"","","",7885TH,
+23,"","","",7885TH,
+22,"","","",7885TH,
+22,"","","",7885TH,
+52,"","","",7885TH,
+25,"","","",7885TH,
+9,"","","",7885TH,
+49,"","","",7885TH,
+54,"","","",7885TH,
+24,"","","",7885TH,
+17,"","","",7885TH,
+49,"","","",7885TH,
+57,"","","",7885TH,
+38,"","","",7885TH,
+48,"","","",7885TH,
+5,"","","",7885TH,
+32,"","","",7885TH,
+29,"","","",7885TH,
+27,"","","",7885TH,
+7,"","","",7885TH,
+22,"","","",7885TH,
+10,"","","",7885TH,
+32,"","","",7885TH,
+19,"","","",7885TH,
+32,"","","",7885TH,
+36,"","","",7885TH,
+32,"","","",7885TH,
+43,"","","",7885TH,
+32,"","","",7885TH,
+Bladderswijk WZ,10,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,17,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,19,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,22,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,22,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,22,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,23,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,24,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,25,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,B,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,C,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,D,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,E,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,F,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,G,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,H,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,J,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,26,K,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,27,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,29,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,32,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,32,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,32,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,32,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,36,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,38,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,43,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,43,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,43,B,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,48,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,48,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,49,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,49,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,49,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,49,B,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,49,B,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,5,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,5,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,5,A,"",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,52,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,54,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,57,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,7,"","",7885TH,Nieuw-Dordrecht
+Bladderswijk WZ,9,"","",7885TH,Nieuw-Dordrecht
+49,A,"","",7885TH,
+22,A,"","",7885TH,
+5,A,"","",7885TH,
+5,A,"","",7885TH,
+48,A,"","",7885TH,
+43,A,"","",7885TH,
+49,B,"","",7885TH,
+43,B,"","",7885TH,
+49,B,"","",7885TH,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

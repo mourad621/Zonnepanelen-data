@@ -1,74 +1,74 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9942PA,Hoofdweg,1,,
-9942PA,Hoofdweg,3,,
-9942PA,Hoofdweg,5,,
-9942PA,Hoofdweg,7,,
-9942PA,Hoofdweg,9,,
-9942PA,Hoofdweg,11,,
-9942PA,Hoofdweg,13,,
-9942PA,Hoofdweg,15,,
-9942PA,Hoofdweg,17,,
-9942PA,Hoofdweg,21,,
-9942PB,Hoofdweg,29,,
-9942PB,Hoofdweg,39,,
-9942PB,Hoofdweg,41,,
-9942PB,Hoofdweg,43,,
-9942PB,Hoofdweg,45,,
-9942PB,Hoofdweg,47,,
-9942PB,Hoofdweg,49,,
-9942PB,Hoofdweg,57,,
-9942PB,Hoofdweg,59,,
-9942PB,Hoofdweg,63,,
-9942PB,Hoofdweg,65,,
-9942PB,Hoofdweg,77,,
-9942PB,Hoofdweg,79,,
-9942PC,Hoofdweg,105,,
-9942PC,Hoofdweg,87,,
-9942PC,Hoofdweg,89,,
-9942PC,Hoofdweg,95,,
-9942PC,Hoofdweg,99,,
-9942PC,Hoofdweg,101,,
-9942PC,Hoofdweg,103,,
-9942PC,Hoofdweg,81,,
-9942PC,Hoofdweg,85,,
-9942PC,Hoofdweg,107,,
-9942PD,Hoofdweg,2,,
-9942PD,Hoofdweg,4,,
-9942PD,Hoofdweg,10,,
-9942PD,Hoofdweg,12,,
-9942PD,Hoofdweg,16,,
-9942PD,Hoofdweg,18,,
-9942PD,Hoofdweg,20,,
-9942PE,Hoofdweg,38,,
-9942PE,Hoofdweg,22,,
-9942PE,Hoofdweg,28,,
-9942PE,Hoofdweg,30,,
-9942PE,Hoofdweg,32,,
-9942PE,Hoofdweg,34,,
-9942PE,Hoofdweg,36,,
-9942PE,Hoofdweg,40,,
-9942PE,Hoofdweg,42,,
-9942PE,Hoofdweg,44,,
-9942PE,Hoofdweg,46,,
-9942PE,Hoofdweg,48,,
-9942PE,Hoofdweg,50,,
-9942PE,Hoofdweg,24,,
-9942PG,Molenlaan,1,,
-9942PG,Molenlaan,2,,
-9942PG,Molenlaan,3,,
-9942PG,Molenlaan,4,,
-9942PG,Molenlaan,12,,
-9942PG,Molenlaan,14,,
-9943PM,Oude Diepje,20,,
-9943PM,Oude Diepje,2,,
-9943PM,Oude Diepje,4,,
-9943PM,Oude Diepje,6,,
-9943PM,Oude Diepje,8,,
-9943PM,Oude Diepje,10,,
-9943PM,Oude Diepje,12,,
-9943PM,Oude Diepje,14,,
-9943PM,Oude Diepje,16,,
-9943PM,Oude Diepje,18,,
-9942PA,Hoofdweg,11,A,
-9942PB,Hoofdweg,71,,
-9942PC,Hoofdweg,107,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hoofdweg,1,"","",9942PA,'t Waar
+Hoofdweg,11,"","",9942PA,'t Waar
+Hoofdweg,11,A,"",9942PA,'t Waar
+Hoofdweg,13,"","",9942PA,'t Waar
+Hoofdweg,15,"","",9942PA,'t Waar
+Hoofdweg,17,"","",9942PA,'t Waar
+Hoofdweg,21,"","",9942PA,'t Waar
+Hoofdweg,3,"","",9942PA,'t Waar
+Hoofdweg,5,"","",9942PA,'t Waar
+Hoofdweg,7,"","",9942PA,'t Waar
+Hoofdweg,9,"","",9942PA,'t Waar
+Hoofdweg,29,"","",9942PB,'t Waar
+Hoofdweg,39,"","",9942PB,'t Waar
+Hoofdweg,41,"","",9942PB,'t Waar
+Hoofdweg,43,"","",9942PB,'t Waar
+Hoofdweg,45,"","",9942PB,'t Waar
+Hoofdweg,47,"","",9942PB,'t Waar
+Hoofdweg,49,"","",9942PB,'t Waar
+Hoofdweg,57,"","",9942PB,'t Waar
+Hoofdweg,59,"","",9942PB,'t Waar
+Hoofdweg,63,"","",9942PB,'t Waar
+Hoofdweg,65,"","",9942PB,'t Waar
+Hoofdweg,71,"","",9942PB,'t Waar
+Hoofdweg,77,"","",9942PB,'t Waar
+Hoofdweg,79,"","",9942PB,'t Waar
+Hoofdweg,101,"","",9942PC,'t Waar
+Hoofdweg,103,"","",9942PC,'t Waar
+Hoofdweg,105,"","",9942PC,'t Waar
+Hoofdweg,107,"","",9942PC,'t Waar
+Hoofdweg,107,"","",9942PC,'t Waar
+Hoofdweg,81,"","",9942PC,'t Waar
+Hoofdweg,85,"","",9942PC,'t Waar
+Hoofdweg,87,"","",9942PC,'t Waar
+Hoofdweg,89,"","",9942PC,'t Waar
+Hoofdweg,95,"","",9942PC,'t Waar
+Hoofdweg,99,"","",9942PC,'t Waar
+Hoofdweg,10,"","",9942PD,'t Waar
+Hoofdweg,12,"","",9942PD,'t Waar
+Hoofdweg,16,"","",9942PD,'t Waar
+Hoofdweg,18,"","",9942PD,'t Waar
+Hoofdweg,2,"","",9942PD,'t Waar
+Hoofdweg,20,"","",9942PD,'t Waar
+Hoofdweg,4,"","",9942PD,'t Waar
+Hoofdweg,22,"","",9942PE,'t Waar
+Hoofdweg,24,"","",9942PE,'t Waar
+Hoofdweg,28,"","",9942PE,'t Waar
+Hoofdweg,30,"","",9942PE,'t Waar
+Hoofdweg,32,"","",9942PE,'t Waar
+Hoofdweg,34,"","",9942PE,'t Waar
+Hoofdweg,36,"","",9942PE,'t Waar
+Hoofdweg,38,"","",9942PE,'t Waar
+Hoofdweg,40,"","",9942PE,'t Waar
+Hoofdweg,42,"","",9942PE,'t Waar
+Hoofdweg,44,"","",9942PE,'t Waar
+Hoofdweg,46,"","",9942PE,'t Waar
+Hoofdweg,48,"","",9942PE,'t Waar
+Hoofdweg,50,"","",9942PE,'t Waar
+Molenlaan,1,"","",9942PG,'t Waar
+Molenlaan,12,"","",9942PG,'t Waar
+Molenlaan,14,"","",9942PG,'t Waar
+Molenlaan,2,"","",9942PG,'t Waar
+Molenlaan,3,"","",9942PG,'t Waar
+Molenlaan,4,"","",9942PG,'t Waar
+Oude Diepje,10,"","",9943PM,Nieuw Scheemda
+Oude Diepje,12,"","",9943PM,Nieuw Scheemda
+Oude Diepje,14,"","",9943PM,Nieuw Scheemda
+Oude Diepje,16,"","",9943PM,Nieuw Scheemda
+Oude Diepje,18,"","",9943PM,Nieuw Scheemda
+Oude Diepje,2,"","",9943PM,Nieuw Scheemda
+Oude Diepje,20,"","",9943PM,Nieuw Scheemda
+Oude Diepje,4,"","",9943PM,Nieuw Scheemda
+Oude Diepje,6,"","",9943PM,Nieuw Scheemda
+Oude Diepje,8,"","",9943PM,Nieuw Scheemda

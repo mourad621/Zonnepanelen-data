@@ -1,275 +1,141 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8857BA",6,"",""
-"8857BA",2,"",""
-"8857BA",8,"",""
-"8857BA",1,"",""
-"8857BC",1,"",""
-"8857BC",6,"",""
-"8857BC",4,"",""
-"8857BC",18,"",""
-"8857BC",2,"",""
-"8857BC",14,"",""
-"8857BC",12,"",""
-"8857BC",3,"",""
-"8857BC",20,"",""
-"8857BC",10,"",""
-"8857BC",16,"",""
-"8857BC",8,"",""
-"8857BC",22,"",""
-"8857BD",2,"",""
-"8857BD",4,"",""
-"8857BD",1,"",""
-"8857BD",7,"",""
-"8857BD",6,"",""
-"8857BH",24,"",""
-"8857BH",31,"",""
-"8857BH",25,"",""
-"8857BH",29,"",""
-"8857BH",18,"",""
-"8857BH",11,"",""
-"8857BH",3,"",""
-"8857BH",27,"",""
-"8857BH",7,"",""
-"8857BH",23,"",""
-"8857BH",9,"",""
-"8857BH",5,"",""
-"8857BH",15,"",""
-"8857BH",13,"",""
-"8857BH",10,"",""
-"8857BH",1,"",""
-"8857BP",14,"",""
-"8857BP",7,"",""
-"8857BP",2,"",""
-"8857BP",3,"",""
-"8857BP",9,"",""
-"8857BP",1,"",""
-"8857BP",11,"",""
-"8857BP",12,"",""
-"8857BP",4,"",""
-"8857BP",5,"",""
-"8857BP",6,"",""
-"8857BR",3,"",""
-"8857BR",5,"",""
-"8857RA",1,"",""
-"8857RA",1,"",""
-"8857RA",2,"",""
-"8857RA",3,"",""
-"8857RA",1,"",""
-"8857RA",1,"A",""
-"8857RA",1,"",""
-"8857RA",1,"",""
-"8857RA",1,"A",""
-"8857RB",3,"",""
-"8857RB",11,"",""
-"8857RB",8,"",""
-"8857RB",1,"",""
-"8857RB",11,"A",""
-"8857RC",22,"",""
-"8857RC",2,"",""
-"8857RC",17,"",""
-"8857RC",24,"",""
-"8857RC",7,"",""
-"8857RC",1,"",""
-"8857RC",9,"",""
-"8857RC",24,"A",""
-"8857RC",12,"",""
-"8857RC",14,"",""
-"8857RC",13,"A",""
-"8857RC",18,"",""
-"8857RC",16,"",""
-"8857RC",8,"",""
-"8857RC",15,"",""
-"8857RC",7,"A",""
-"8857RC",10,"",""
-"8857RC",11,"",""
-"8857RC",13,"",""
-"8857RD",4,"",""
-"8857RD",6,"",""
-"8857RD",8,"",""
-"8857RE",8,"",""
-"8857RE",2,"",""
-"8857RE",14,"",""
-"8857RE",1,"A",""
-"8857RE",5,"A",""
-"8857RE",13,"",""
-"8857RE",18,"",""
-"8857RE",16,"",""
-"8857RE",3,"",""
-"8857RE",1,"",""
-"8857RE",12,"",""
-"8857RE",17,"",""
-"8857RE",15,"",""
-"8857RE",24,"",""
-"8857RE",22,"",""
-"8857RE",5,"",""
-"8857RE",7,"",""
-"8857RE",21,"",""
-"8857RE",19,"",""
-"8857RE",1,"",""
-"8857RE",20,"",""
-"8861NS",35,"",""
-"8861NS",21,"",""
-"8861NS",19,"",""
-"8861NS",9,"",""
-"8861NS",13,"",""
-"8861NS",15,"",""
-"8861NS",19,"A",""
-"8861NS",25,"",""
-"8861NS",19,"",""
-"8861NS",17,"",""
-"8861NS",19,"",""
-"8861NW",11,"",""
-"8861NW",5,"",""
-"8861NW",58,"",""
-"8861NW",41,"",""
-"8861NW",41,"",""
-"8861NW",74,"",""
-"8861NW",14,"",""
-"8861NW",53,"",""
-"8861NW",36,"",""
-"8861NW",33,"",""
-"8861NW",28,"",""
-"8861NW",7,"",""
-"8861NW",1,"",""
-"8861NW",41,"",""
-"8861NW",15,"",""
-"8861NW",9,"",""
-"8861NW",61,"",""
-"8861NW",28,"",""
-"8861NW",63,"",""
-"8861NW",16,"",""
-"8861NW",60,"",""
-8857RA,Swingmaleane,3,,
-8857RC,Haulewei,1,,
-8857RB,Hoarnestreek,3,,
-8857BH,Readyk,29,,
-8857BH,Readyk,31,,
-8857BC,Winamerdyk,18,,
-8857BC,Winamerdyk,3,,
-8857BC,Winamerdyk,4,,
-8857RE,Foarryp,14,,
-8857BA,Siverdaleane,6,,
-8857BA,Siverdaleane,2,,
-8857BA,Siverdaleane,8,,
-8857BA,Siverdaleane,1,,
-8857RA,Swingmaleane,2,,
-8857RA,Swingmaleane,1,,
-8857RA,Swingmaleane,1,,
-8857RA,Swingmaleane,1,A,
-8857RA,Swingmaleane,1,,
-8857RC,Haulewei,10,,
-8857RC,Haulewei,13,,
-8857RC,Haulewei,15,,
-8857RC,Haulewei,7,,
-8857RC,Haulewei,17,,
-8857RC,Haulewei,11,,
-8857RC,Haulewei,18,,
-8857RC,Haulewei,24,A,
-8857RC,Haulewei,9,,
-8857RC,Haulewei,24,,
-8857RC,Haulewei,22,,
-8857RC,Haulewei,7,A,
-8857RC,Haulewei,12,,
-8857RC,Haulewei,14,,
-8857RC,Haulewei,16,,
-8857RC,Haulewei,8,,
-8857RC,Haulewei,2,,
-8857RC,Haulewei,13,A,
-8857RB,Hoarnestreek,11,,
-8857RB,Hoarnestreek,1,,
-8857RB,Hoarnestreek,8,,
-8857RB,Hoarnestreek,11,A,
-8861NS,Korte Lijnbaan,9,,
-8861NS,Korte Lijnbaan,19,,
-8861NS,Korte Lijnbaan,13,,
-8861NS,Korte Lijnbaan,15,,
-8861NS,Korte Lijnbaan,17,,
-8861NS,Korte Lijnbaan,25,,
-8861NS,Korte Lijnbaan,35,,
-8861NS,Korte Lijnbaan,19,A,
-8861NS,Korte Lijnbaan,19,,
-8861NS,Korte Lijnbaan,21,,
-8861NW,Lange Lijnbaan,63,,
-8861NW,Lange Lijnbaan,9,,
-8861NW,Lange Lijnbaan,11,,
-8861NW,Lange Lijnbaan,5,,
-8861NW,Lange Lijnbaan,1,,
-8861NW,Lange Lijnbaan,7,,
-8861NW,Lange Lijnbaan,36,,
-8861NW,Lange Lijnbaan,60,,
-8861NW,Lange Lijnbaan,15,,
-8861NW,Lange Lijnbaan,33,,
-8861NW,Lange Lijnbaan,16,,
-8861NW,Lange Lijnbaan,41,,
-8861NW,Lange Lijnbaan,14,,
-8861NW,Lange Lijnbaan,41,,
-8861NW,Lange Lijnbaan,58,,
-8861NW,Lange Lijnbaan,61,,
-8861NW,Lange Lijnbaan,28,,
-8861NW,Lange Lijnbaan,74,,
-8861NW,Lange Lijnbaan,53,,
-8857BP,Alde Leane,4,,
-8857BP,Alde Leane,3,,
-8857BP,Alde Leane,1,,
-8857BP,Alde Leane,7,,
-8857BP,Alde Leane,9,,
-8857BP,Alde Leane,12,,
-8857BP,Alde Leane,5,,
-8857BP,Alde Leane,2,,
-8857BP,Alde Leane,11,,
-8857BP,Alde Leane,14,,
-8857BP,Alde Leane,6,,
-8857BH,Readyk,3,,
-8857BH,Readyk,27,,
-8857BH,Readyk,24,,
-8857BH,Readyk,5,,
-8857BH,Readyk,13,,
-8857BH,Readyk,25,,
-8857BH,Readyk,18,,
-8857BH,Readyk,10,,
-8857BH,Readyk,23,,
-8857BH,Readyk,9,,
-8857BH,Readyk,7,,
-8857BH,Readyk,11,,
-8857BH,Readyk,1,,
-8857BH,Readyk,15,,
-8857RD,Sédyk,8,,
-8857RD,Sédyk,6,,
-8857RD,Sédyk,4,,
-8857BR,Terp,3,,
-8857BR,Terp,5,,
-8857BC,Winamerdyk,2,,
-8857BC,Winamerdyk,6,,
-8857BC,Winamerdyk,8,,
-8857BC,Winamerdyk,16,,
-8857BC,Winamerdyk,14,,
-8857BC,Winamerdyk,20,,
-8857BC,Winamerdyk,10,,
-8857BC,Winamerdyk,12,,
-8857BC,Winamerdyk,1,,
-8857BC,Winamerdyk,22,,
-8857BD,Fiskersbuorren,1,,
-8857BD,Fiskersbuorren,7,,
-8857BD,Fiskersbuorren,4,,
-8857BD,Fiskersbuorren,6,,
-8857BD,Fiskersbuorren,2,,
-8857RE,Foarryp,22,,
-8857RE,Foarryp,8,,
-8857RE,Foarryp,13,,
-8857RE,Foarryp,17,,
-8857RE,Foarryp,18,,
-8857RE,Foarryp,2,,
-8857RE,Foarryp,21,,
-8857RE,Foarryp,12,,
-8857RE,Foarryp,19,,
-8857RE,Foarryp,5,,
-8857RE,Foarryp,16,,
-8857RE,Foarryp,20,,
-8857RE,Foarryp,1,,
-8857RE,Foarryp,1,A,
-8857RE,Foarryp,15,,
-8857RE,Foarryp,7,,
-8857RE,Foarryp,3,,
-8857RE,Foarryp,5,A,
-8857RE,Foarryp,1,,
-8857RE,Foarryp,24,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Siverdaleane,1,"","",8857BA,Wijnaldum
+Siverdaleane,2,"","",8857BA,Wijnaldum
+Siverdaleane,6,"","",8857BA,Wijnaldum
+Siverdaleane,8,"","",8857BA,Wijnaldum
+Winamerdyk,1,"","",8857BC,Wijnaldum
+Winamerdyk,10,"","",8857BC,Wijnaldum
+Winamerdyk,12,"","",8857BC,Wijnaldum
+Winamerdyk,14,"","",8857BC,Wijnaldum
+Winamerdyk,16,"","",8857BC,Wijnaldum
+Winamerdyk,18,"","",8857BC,Wijnaldum
+Winamerdyk,2,"","",8857BC,Wijnaldum
+Winamerdyk,20,"","",8857BC,Wijnaldum
+Winamerdyk,22,"","",8857BC,Wijnaldum
+Winamerdyk,3,"","",8857BC,Wijnaldum
+Winamerdyk,4,"","",8857BC,Wijnaldum
+Winamerdyk,6,"","",8857BC,Wijnaldum
+Winamerdyk,8,"","",8857BC,Wijnaldum
+Fiskersbuorren,1,"","",8857BD,Wijnaldum
+Fiskersbuorren,2,"","",8857BD,Wijnaldum
+Fiskersbuorren,4,"","",8857BD,Wijnaldum
+Fiskersbuorren,6,"","",8857BD,Wijnaldum
+Fiskersbuorren,7,"","",8857BD,Wijnaldum
+Readyk,1,"","",8857BH,Wijnaldum
+Readyk,10,"","",8857BH,Wijnaldum
+Readyk,11,"","",8857BH,Wijnaldum
+Readyk,13,"","",8857BH,Wijnaldum
+Readyk,15,"","",8857BH,Wijnaldum
+Readyk,18,"","",8857BH,Wijnaldum
+Readyk,23,"","",8857BH,Wijnaldum
+Readyk,24,"","",8857BH,Wijnaldum
+Readyk,25,"","",8857BH,Wijnaldum
+Readyk,27,"","",8857BH,Wijnaldum
+Readyk,29,"","",8857BH,Wijnaldum
+Readyk,3,"","",8857BH,Wijnaldum
+Readyk,31,"","",8857BH,Wijnaldum
+Readyk,5,"","",8857BH,Wijnaldum
+Readyk,7,"","",8857BH,Wijnaldum
+Readyk,9,"","",8857BH,Wijnaldum
+Alde Leane,1,"","",8857BP,Wijnaldum
+Alde Leane,11,"","",8857BP,Wijnaldum
+Alde Leane,12,"","",8857BP,Wijnaldum
+Alde Leane,14,"","",8857BP,Wijnaldum
+Alde Leane,2,"","",8857BP,Wijnaldum
+Alde Leane,3,"","",8857BP,Wijnaldum
+Alde Leane,4,"","",8857BP,Wijnaldum
+Alde Leane,5,"","",8857BP,Wijnaldum
+Alde Leane,6,"","",8857BP,Wijnaldum
+Alde Leane,7,"","",8857BP,Wijnaldum
+Alde Leane,9,"","",8857BP,Wijnaldum
+Terp,3,"","",8857BR,Wijnaldum
+Terp,5,"","",8857BR,Wijnaldum
+Swingmaleane,1,"","",8857RA,Wijnaldum
+Swingmaleane,1,"","",8857RA,Wijnaldum
+Swingmaleane,1,"","",8857RA,Wijnaldum
+Swingmaleane,1,"","",8857RA,Wijnaldum
+Swingmaleane,1,"","",8857RA,Wijnaldum
+Swingmaleane,1,A,"",8857RA,Wijnaldum
+Swingmaleane,1,A,"",8857RA,Wijnaldum
+Swingmaleane,2,"","",8857RA,Wijnaldum
+Swingmaleane,3,"","",8857RA,Wijnaldum
+Hoarnestreek,1,"","",8857RB,Wijnaldum
+Hoarnestreek,11,"","",8857RB,Wijnaldum
+Hoarnestreek,11,A,"",8857RB,Wijnaldum
+Hoarnestreek,3,"","",8857RB,Wijnaldum
+Hoarnestreek,8,"","",8857RB,Wijnaldum
+Haulewei,1,"","",8857RC,Wijnaldum
+Haulewei,10,"","",8857RC,Wijnaldum
+Haulewei,11,"","",8857RC,Wijnaldum
+Haulewei,12,"","",8857RC,Wijnaldum
+Haulewei,13,"","",8857RC,Wijnaldum
+Haulewei,13,A,"",8857RC,Wijnaldum
+Haulewei,14,"","",8857RC,Wijnaldum
+Haulewei,15,"","",8857RC,Wijnaldum
+Haulewei,16,"","",8857RC,Wijnaldum
+Haulewei,17,"","",8857RC,Wijnaldum
+Haulewei,18,"","",8857RC,Wijnaldum
+Haulewei,2,"","",8857RC,Wijnaldum
+Haulewei,22,"","",8857RC,Wijnaldum
+Haulewei,24,"","",8857RC,Wijnaldum
+Haulewei,24,A,"",8857RC,Wijnaldum
+Haulewei,7,"","",8857RC,Wijnaldum
+Haulewei,7,A,"",8857RC,Wijnaldum
+Haulewei,8,"","",8857RC,Wijnaldum
+Haulewei,9,"","",8857RC,Wijnaldum
+Sédyk,4,"","",8857RD,Wijnaldum
+Sédyk,6,"","",8857RD,Wijnaldum
+Sédyk,8,"","",8857RD,Wijnaldum
+Foarryp,1,"","",8857RE,Wijnaldum
+Foarryp,1,"","",8857RE,Wijnaldum
+Foarryp,1,A,"",8857RE,Wijnaldum
+Foarryp,12,"","",8857RE,Wijnaldum
+Foarryp,13,"","",8857RE,Wijnaldum
+Foarryp,14,"","",8857RE,Wijnaldum
+Foarryp,15,"","",8857RE,Wijnaldum
+Foarryp,16,"","",8857RE,Wijnaldum
+Foarryp,17,"","",8857RE,Wijnaldum
+Foarryp,18,"","",8857RE,Wijnaldum
+Foarryp,19,"","",8857RE,Wijnaldum
+Foarryp,2,"","",8857RE,Wijnaldum
+Foarryp,20,"","",8857RE,Wijnaldum
+Foarryp,21,"","",8857RE,Wijnaldum
+Foarryp,22,"","",8857RE,Wijnaldum
+Foarryp,24,"","",8857RE,Wijnaldum
+Foarryp,3,"","",8857RE,Wijnaldum
+Foarryp,5,"","",8857RE,Wijnaldum
+Foarryp,5,A,"",8857RE,Wijnaldum
+Foarryp,7,"","",8857RE,Wijnaldum
+Foarryp,8,"","",8857RE,Wijnaldum
+Korte Lijnbaan,13,"","",8861NS,Harlingen
+Korte Lijnbaan,15,"","",8861NS,Harlingen
+Korte Lijnbaan,17,"","",8861NS,Harlingen
+Korte Lijnbaan,19,"","",8861NS,Harlingen
+Korte Lijnbaan,19,"","",8861NS,Harlingen
+Korte Lijnbaan,19,"","",8861NS,Harlingen
+Korte Lijnbaan,19,A,"",8861NS,Harlingen
+Korte Lijnbaan,21,"","",8861NS,Harlingen
+Korte Lijnbaan,25,"","",8861NS,Harlingen
+Korte Lijnbaan,35,"","",8861NS,Harlingen
+Korte Lijnbaan,9,"","",8861NS,Harlingen
+Lange Lijnbaan,1,"","",8861NW,Harlingen
+Lange Lijnbaan,11,"","",8861NW,Harlingen
+Lange Lijnbaan,14,"","",8861NW,Harlingen
+Lange Lijnbaan,15,"","",8861NW,Harlingen
+Lange Lijnbaan,16,"","",8861NW,Harlingen
+Lange Lijnbaan,28,"","",8861NW,Harlingen
+Lange Lijnbaan,28,"","",8861NW,Harlingen
+Lange Lijnbaan,33,"","",8861NW,Harlingen
+Lange Lijnbaan,36,"","",8861NW,Harlingen
+Lange Lijnbaan,41,"","",8861NW,Harlingen
+Lange Lijnbaan,41,"","",8861NW,Harlingen
+Lange Lijnbaan,41,"","",8861NW,Harlingen
+Lange Lijnbaan,5,"","",8861NW,Harlingen
+Lange Lijnbaan,53,"","",8861NW,Harlingen
+Lange Lijnbaan,58,"","",8861NW,Harlingen
+Lange Lijnbaan,60,"","",8861NW,Harlingen
+Lange Lijnbaan,61,"","",8861NW,Harlingen
+Lange Lijnbaan,63,"","",8861NW,Harlingen
+Lange Lijnbaan,7,"","",8861NW,Harlingen
+Lange Lijnbaan,74,"","",8861NW,Harlingen
+Lange Lijnbaan,9,"","",8861NW,Harlingen

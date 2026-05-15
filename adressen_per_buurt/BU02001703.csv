@@ -1,36 +1,37 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7345CR",65,"",""
-"7345CR",45,"",""
-"7345CR",51,"",""
-"7345CR",49,"",""
-"7345CR",70,"",""
-"7345CR",42,"",""
-"7345CR",52,"",""
-"7345CR",25,"",""
-"7345CR",22,"",""
-"7345CR",73,"",""
-"7345CR",36,"",""
-"7345CR",62,"",""
-"7345CR",26,"",""
-"7345CR",61,"",""
-"7345CR",38,"D",""
-"7345CR",38,"D",""
-"7345CR",29,"",""
-"7345KA",31,"",""
-7345CR,Greutelseweg,25,,
-7345CR,Greutelseweg,29,,
-7345CR,Greutelseweg,42,,
-7345CR,Greutelseweg,45,,
-7345CR,Greutelseweg,49,,
-7345CR,Greutelseweg,51,,
-7345CR,Greutelseweg,52,,
-7345CR,Greutelseweg,61,,
-7345CR,Greutelseweg,62,,
-7345CR,Greutelseweg,65,,
-7345CR,Greutelseweg,70,,
-7345CR,Greutelseweg,73,,
-7345CR,Greutelseweg,38,D,
-7345CR,Greutelseweg,26,,
-7345CR,Greutelseweg,36,,
-7345CR,Greutelseweg,22,,
-7345KA,Koninklijk Park,31,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+65,"","","",7345CR,
+45,"","","",7345CR,
+51,"","","",7345CR,
+49,"","","",7345CR,
+70,"","","",7345CR,
+42,"","","",7345CR,
+52,"","","",7345CR,
+25,"","","",7345CR,
+22,"","","",7345CR,
+73,"","","",7345CR,
+36,"","","",7345CR,
+62,"","","",7345CR,
+26,"","","",7345CR,
+61,"","","",7345CR,
+29,"","","",7345CR,
+Greutelseweg,22,"","",7345CR,Wenum Wiesel
+Greutelseweg,25,"","",7345CR,Wenum Wiesel
+Greutelseweg,26,"","",7345CR,Wenum Wiesel
+Greutelseweg,29,"","",7345CR,Wenum Wiesel
+Greutelseweg,36,"","",7345CR,Wenum Wiesel
+Greutelseweg,38,D,"",7345CR,Wenum Wiesel
+Greutelseweg,42,"","",7345CR,Wenum Wiesel
+Greutelseweg,45,"","",7345CR,Wenum Wiesel
+Greutelseweg,49,"","",7345CR,Wenum Wiesel
+Greutelseweg,51,"","",7345CR,Wenum Wiesel
+Greutelseweg,52,"","",7345CR,Wenum Wiesel
+Greutelseweg,61,"","",7345CR,Wenum Wiesel
+Greutelseweg,62,"","",7345CR,Wenum Wiesel
+Greutelseweg,65,"","",7345CR,Wenum Wiesel
+Greutelseweg,70,"","",7345CR,Wenum Wiesel
+Greutelseweg,73,"","",7345CR,Wenum Wiesel
+38,D,"","",7345CR,
+38,D,"","",7345CR,
+31,"","","",7345KA,
+Koninklijk Park,31,"","",7345KA,Wenum Wiesel
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

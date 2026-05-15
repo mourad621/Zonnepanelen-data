@@ -1,124 +1,124 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8291PW,Groenesteeg,1,a,
-8291PW,Groenesteeg,2,b,
-8291PW,Groenesteeg,8,,
-8291PW,Groenesteeg,6,,
-8291PW,Groenesteeg,2,,
-8291PW,Groenesteeg,2,a,
-8291PW,Groenesteeg,1,,
-8291PW,Groenesteeg,4,,
-8291PW,Groenesteeg,10,,
-8294PA,Oude Wetering,118,,
-8294PA,Oude Wetering,120,,
-8294PA,Oude Wetering,124,,
-8294PA,Oude Wetering,126,,
-8294PA,Oude Wetering,122,a,
-8294PA,Oude Wetering,122,,
-8294PA,Oude Wetering,124,a,
-8294PB,Oude Wetering,130,,
-8294PB,Oude Wetering,136,,
-8294PB,Oude Wetering,134,a,
-8294PB,Oude Wetering,134,,
-8294PB,Oude Wetering,144,,
-8294PB,Oude Wetering,144,a,
-8294PB,Oude Wetering,142,,
-8294PB,Oude Wetering,140,,
-8294PB,Oude Wetering,138,,
-8294PB,Oude Wetering,132,,
-8294PE,Kerkwetering,1,,
-8294PE,Kerkwetering,5,b,
-8294PE,Kerkwetering,8,,
-8294PE,Kerkwetering,7,,
-8294PE,Kerkwetering,5,a,
-8294PE,Kerkwetering,2,,
-8294PE,Kerkwetering,4,a,
-8294PE,Kerkwetering,4,,
-8294PE,Kerkwetering,5,,
-8294PE,Kerkwetering,3,,
-8294PC,Nieuwe Wetering,4,,
-8294PC,Nieuwe Wetering,6,,
-8294PC,Nieuwe Wetering,10,,
-8294PC,Nieuwe Wetering,30,,
-8294PC,Nieuwe Wetering,28,,
-8294PC,Nieuwe Wetering,26,,
-8294PC,Nieuwe Wetering,24,,
-8294PC,Nieuwe Wetering,22,,
-8294PC,Nieuwe Wetering,20,,1
-8294PC,Nieuwe Wetering,20,,a
-8294PC,Nieuwe Wetering,20,a,
-8294PC,Nieuwe Wetering,20,,
-8294PC,Nieuwe Wetering,18,,
-8294PC,Nieuwe Wetering,16,,
-8294PC,Nieuwe Wetering,8,a,
-8294PC,Nieuwe Wetering,14,,
-8294PC,Nieuwe Wetering,2,,
-8294PC,Nieuwe Wetering,4,a,
-8294PC,Nieuwe Wetering,4,b,
-8294PC,Nieuwe Wetering,12,,
-8294PC,Nieuwe Wetering,8,,
-8294PC,Nieuwe Wetering,12,a,
-8294PD,Nieuwe Wetering,25,b,
-8294PD,Nieuwe Wetering,25,,
-8294PD,Nieuwe Wetering,23,,
-8294PD,Nieuwe Wetering,21,,
-8294PD,Nieuwe Wetering,19,,
-8294PD,Nieuwe Wetering,17,,
-8294PD,Nieuwe Wetering,15,,2
-8294PD,Nieuwe Wetering,15,c,
-8294PD,Nieuwe Wetering,15,,1
-8294PD,Nieuwe Wetering,15,a,
-8294PD,Nieuwe Wetering,15,a,
-8294PD,Nieuwe Wetering,15,b,
-8294PD,Nieuwe Wetering,15,,
-8294PD,Nieuwe Wetering,27,a,
-8294PD,Nieuwe Wetering,35,,
-8294PD,Nieuwe Wetering,33,,
-8294PD,Nieuwe Wetering,31,,
-8294PD,Nieuwe Wetering,29,,
-8294PD,Nieuwe Wetering,27,,
-8294PD,Nieuwe Wetering,25,a,
-8294PD,Nieuwe Wetering,31,a,
-8294PD,Nieuwe Wetering,31,a,
-8291PW,Groene Steeg,12,,
-8291PW,Groene Steeg,2,,
-8291PW,Groene Steeg,14,,
-8291PW,Groene Steeg,14,,
-8291PW,Groene Steeg,14,,
-8291PW,Groene Steeg,14,,
-8291PW,Groene Steeg,4,,
-8291PW,Groene Steeg,6,,
-8291PW,Groene Steeg,8,,
-8294PA,Oude Wetering,126,,
-8294PA,Oude Wetering,126,a,
-8294PA,Oude Wetering,124,b,
-8294PA,Oude Wetering,124,c,
-8294PA,Oude Wetering,124,,
-8294PA,Oude Wetering,124,d,
-8294PA,Oude Wetering,124,e,
-8294PA,Oude Wetering,124,,W1
-8294PA,Oude Wetering,124,,W2
-8294PA,Oude Wetering,124,,W3
-8294PA,Oude Wetering,124,,W9
-8294PA,Oude Wetering,124,,W4
-8294PA,Oude Wetering,124,,W5
-8294PA,Oude Wetering,124,,W6
-8294PA,Oude Wetering,124,,W7
-8294PA,Oude Wetering,124,,W8
-8294PA,Oude Wetering,124,d,
-8294PA,Oude Wetering,124,a,
-8294PA,Oude Wetering,122,b,
-8294PA,Oude Wetering,122,b,
-8294PE,Kerkwetering,9,,
-8294PE,Kerkwetering,9,,
-8294PE,Kerkwetering,3,,
-8294PE,Kerkwetering,3,a,
-8294PC,Nieuwe Wetering,18,a,
-8294PC,Nieuwe Wetering,18,a,
-8294PC,Nieuwe Wetering,20,a,
-8294PC,Nieuwe Wetering,6,a,
-8294PC,Nieuwe Wetering,12,,
-8294PC,Nieuwe Wetering,4,a,
-8294PD,Nieuwe Wetering,19,a,
-8294PD,Nieuwe Wetering,19,a,
-8294PD,Nieuwe Wetering,29,,
-8294PD,Nieuwe Wetering,29,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Groenesteeg,1,"","",8291PW,Genemuiden
+Groenesteeg,1,A,"",8291PW,Genemuiden
+Groenesteeg,10,"","",8291PW,Genemuiden
+Groene Steeg,12,"","",8291PW,Mastenbroek
+Groene Steeg,14,"","",8291PW,Mastenbroek
+Groene Steeg,14,"","",8291PW,Mastenbroek
+Groene Steeg,14,"","",8291PW,Mastenbroek
+Groene Steeg,14,"","",8291PW,Mastenbroek
+Groenesteeg,2,"","",8291PW,Genemuiden
+Groenesteeg,2,"","",8291PW,Genemuiden
+Groenesteeg,2,A,"",8291PW,Genemuiden
+Groenesteeg,2,B,"",8291PW,Genemuiden
+Groenesteeg,4,"","",8291PW,Genemuiden
+Groenesteeg,4,"","",8291PW,Genemuiden
+Groenesteeg,6,"","",8291PW,Genemuiden
+Groenesteeg,6,"","",8291PW,Genemuiden
+Groenesteeg,8,"","",8291PW,Genemuiden
+Groenesteeg,8,"","",8291PW,Genemuiden
+Oude Wetering,118,"","",8294PA,Mastenbroek
+Oude Wetering,120,"","",8294PA,Mastenbroek
+Oude Wetering,122,"","",8294PA,Mastenbroek
+Oude Wetering,122,A,"",8294PA,Mastenbroek
+Oude Wetering,122,B,"",8294PA,Mastenbroek
+Oude Wetering,122,B,"",8294PA,Mastenbroek
+Oude Wetering,124,"","",8294PA,Mastenbroek
+Oude Wetering,124,"","",8294PA,Mastenbroek
+Oude Wetering,124,"",W1,8294PA,Mastenbroek
+Oude Wetering,124,"",W2,8294PA,Mastenbroek
+Oude Wetering,124,"",W3,8294PA,Mastenbroek
+Oude Wetering,124,"",W4,8294PA,Mastenbroek
+Oude Wetering,124,"",W5,8294PA,Mastenbroek
+Oude Wetering,124,"",W6,8294PA,Mastenbroek
+Oude Wetering,124,"",W7,8294PA,Mastenbroek
+Oude Wetering,124,"",W8,8294PA,Mastenbroek
+Oude Wetering,124,"",W9,8294PA,Mastenbroek
+Oude Wetering,124,A,"",8294PA,Mastenbroek
+Oude Wetering,124,A,"",8294PA,Mastenbroek
+Oude Wetering,124,B,"",8294PA,Mastenbroek
+Oude Wetering,124,C,"",8294PA,Mastenbroek
+Oude Wetering,124,D,"",8294PA,Mastenbroek
+Oude Wetering,124,D,"",8294PA,Mastenbroek
+Oude Wetering,124,E,"",8294PA,Mastenbroek
+Oude Wetering,126,"","",8294PA,Mastenbroek
+Oude Wetering,126,"","",8294PA,Mastenbroek
+Oude Wetering,126,A,"",8294PA,Mastenbroek
+Oude Wetering,130,"","",8294PB,Mastenbroek
+Oude Wetering,132,"","",8294PB,Mastenbroek
+Oude Wetering,134,"","",8294PB,Mastenbroek
+Oude Wetering,134,A,"",8294PB,Mastenbroek
+Oude Wetering,136,"","",8294PB,Mastenbroek
+Oude Wetering,138,"","",8294PB,Mastenbroek
+Oude Wetering,140,"","",8294PB,Mastenbroek
+Oude Wetering,142,"","",8294PB,Mastenbroek
+Oude Wetering,144,"","",8294PB,Mastenbroek
+Oude Wetering,144,A,"",8294PB,Mastenbroek
+Nieuwe Wetering,10,"","",8294PC,Mastenbroek
+Nieuwe Wetering,12,"","",8294PC,Mastenbroek
+Nieuwe Wetering,12,"","",8294PC,Mastenbroek
+Nieuwe Wetering,12,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,14,"","",8294PC,Mastenbroek
+Nieuwe Wetering,16,"","",8294PC,Mastenbroek
+Nieuwe Wetering,18,"","",8294PC,Mastenbroek
+Nieuwe Wetering,18,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,18,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,2,"","",8294PC,Mastenbroek
+Nieuwe Wetering,20,"","",8294PC,Mastenbroek
+Nieuwe Wetering,20,"",1,8294PC,Mastenbroek
+Nieuwe Wetering,20,"",A,8294PC,Mastenbroek
+Nieuwe Wetering,20,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,20,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,22,"","",8294PC,Mastenbroek
+Nieuwe Wetering,24,"","",8294PC,Mastenbroek
+Nieuwe Wetering,26,"","",8294PC,Mastenbroek
+Nieuwe Wetering,28,"","",8294PC,Mastenbroek
+Nieuwe Wetering,30,"","",8294PC,Mastenbroek
+Nieuwe Wetering,4,"","",8294PC,Mastenbroek
+Nieuwe Wetering,4,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,4,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,4,B,"",8294PC,Mastenbroek
+Nieuwe Wetering,6,"","",8294PC,Mastenbroek
+Nieuwe Wetering,6,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,8,"","",8294PC,Mastenbroek
+Nieuwe Wetering,8,A,"",8294PC,Mastenbroek
+Nieuwe Wetering,15,"","",8294PD,Mastenbroek
+Nieuwe Wetering,15,"",1,8294PD,Mastenbroek
+Nieuwe Wetering,15,"",2,8294PD,Mastenbroek
+Nieuwe Wetering,15,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,15,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,15,B,"",8294PD,Mastenbroek
+Nieuwe Wetering,15,C,"",8294PD,Mastenbroek
+Nieuwe Wetering,17,"","",8294PD,Mastenbroek
+Nieuwe Wetering,19,"","",8294PD,Mastenbroek
+Nieuwe Wetering,19,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,19,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,21,"","",8294PD,Mastenbroek
+Nieuwe Wetering,23,"","",8294PD,Mastenbroek
+Nieuwe Wetering,25,"","",8294PD,Mastenbroek
+Nieuwe Wetering,25,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,25,B,"",8294PD,Mastenbroek
+Nieuwe Wetering,27,"","",8294PD,Mastenbroek
+Nieuwe Wetering,27,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,29,"","",8294PD,Mastenbroek
+Nieuwe Wetering,29,"","",8294PD,Mastenbroek
+Nieuwe Wetering,29,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,31,"","",8294PD,Mastenbroek
+Nieuwe Wetering,31,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,31,A,"",8294PD,Mastenbroek
+Nieuwe Wetering,33,"","",8294PD,Mastenbroek
+Nieuwe Wetering,35,"","",8294PD,Mastenbroek
+Kerkwetering,1,"","",8294PE,Mastenbroek
+Kerkwetering,2,"","",8294PE,Mastenbroek
+Kerkwetering,3,"","",8294PE,Mastenbroek
+Kerkwetering,3,"","",8294PE,Mastenbroek
+Kerkwetering,3,A,"",8294PE,Mastenbroek
+Kerkwetering,4,"","",8294PE,Mastenbroek
+Kerkwetering,4,A,"",8294PE,Mastenbroek
+Kerkwetering,5,"","",8294PE,Mastenbroek
+Kerkwetering,5,A,"",8294PE,Mastenbroek
+Kerkwetering,5,B,"",8294PE,Mastenbroek
+Kerkwetering,7,"","",8294PE,Mastenbroek
+Kerkwetering,8,"","",8294PE,Mastenbroek
+Kerkwetering,9,"","",8294PE,Mastenbroek
+Kerkwetering,9,"","",8294PE,Mastenbroek

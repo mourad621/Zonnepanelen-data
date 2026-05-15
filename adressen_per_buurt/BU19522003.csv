@@ -1,47 +1,47 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9636EL,Botjesweg,1,A,
-9636EM,Burgemeester Omtaweg,1,,
-9636EL,Botjesweg,1,,
-9636EL,Botjesweg,1,,OPST
-9636EM,Burgemeester Omtaweg,2,,
-9636EM,Burgemeester Omtaweg,4,,
-9636EM,Burgemeester Omtaweg,6,,
-9636TA,Drostenlaan,1,,
-9636TA,Drostenlaan,2,,
-9636TA,Drostenlaan,3,,
-9636TA,Drostenlaan,5,,
-9636TA,Drostenlaan,6,,
-9636TA,Drostenlaan,7,,
-9636TE,Kostverloren,2,,
-9636TE,Kostverloren,3,,
-9636TE,Kostverloren,4,,
-9636TE,Kostverloren,1,,
-9636TB,Nieuweweg,1,,
-9636TB,Nieuweweg,2,,
-9636TB,Nieuweweg,3,,
-9636TB,Nieuweweg,5,,
-9636TB,Nieuweweg,7,,
-9636TB,Nieuweweg,8,,
-9636TB,Nieuweweg,9,,
-9636TB,Nieuweweg,4,A,
-9636TD,Spitsbergen,1,,
-9636TD,Spitsbergen,2,,
-9636TD,Spitsbergen,3,,
-9636TD,Spitsbergen,4,,
-9636TD,Spitsbergen,4,A,
-9636TD,Spitsbergen,5,,
-9636TD,Spitsbergen,1,A,
-9636TC,'t Veen,1,,
-9636TC,Het Veen,1,,
-9636TC,'t Veen,2,,
-9636TC,Het Veen,2,,
-9636TC,'t Veen,3,,
-9636TC,Het Veen,3,,
-9636TC,'t Veen,6,,
-9636TC,Het Veen,6,,
-9636TC,'t Veen,8,,
-9636TC,Het Veen,8,,
-9636TC,'t Veen,9,,
-9636TC,Het Veen,9,,
-9636EL,Botjesweg,2,,
-9636TE,Kostverloren,1,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Botjesweg,1,"","",9636EL,Zuidbroek
+Botjesweg,1,"",OPST,9636EL,Zuidbroek
+Botjesweg,1,A,"",9636EL,Zuidbroek
+Botjesweg,2,"","",9636EL,Zuidbroek
+Burgemeester Omtaweg,1,"","",9636EM,Zuidbroek
+Burgemeester Omtaweg,2,"","",9636EM,Zuidbroek
+Burgemeester Omtaweg,4,"","",9636EM,Zuidbroek
+Burgemeester Omtaweg,6,"","",9636EM,Zuidbroek
+Drostenlaan,1,"","",9636TA,Zuidbroek
+Drostenlaan,2,"","",9636TA,Zuidbroek
+Drostenlaan,3,"","",9636TA,Zuidbroek
+Drostenlaan,5,"","",9636TA,Zuidbroek
+Drostenlaan,6,"","",9636TA,Zuidbroek
+Drostenlaan,7,"","",9636TA,Zuidbroek
+Nieuweweg,1,"","",9636TB,Zuidbroek
+Nieuweweg,2,"","",9636TB,Zuidbroek
+Nieuweweg,3,"","",9636TB,Zuidbroek
+Nieuweweg,4,A,"",9636TB,Zuidbroek
+Nieuweweg,5,"","",9636TB,Zuidbroek
+Nieuweweg,7,"","",9636TB,Zuidbroek
+Nieuweweg,8,"","",9636TB,Zuidbroek
+Nieuweweg,9,"","",9636TB,Zuidbroek
+'t Veen,1,"","",9636TC,Zuidbroek
+'t Veen,1,"","",9636TC,Zuidbroek
+'t Veen,2,"","",9636TC,Zuidbroek
+'t Veen,2,"","",9636TC,Zuidbroek
+'t Veen,3,"","",9636TC,Zuidbroek
+'t Veen,3,"","",9636TC,Zuidbroek
+'t Veen,6,"","",9636TC,Zuidbroek
+'t Veen,6,"","",9636TC,Zuidbroek
+'t Veen,8,"","",9636TC,Zuidbroek
+'t Veen,8,"","",9636TC,Zuidbroek
+'t Veen,9,"","",9636TC,Zuidbroek
+'t Veen,9,"","",9636TC,Zuidbroek
+Spitsbergen,1,"","",9636TD,Zuidbroek
+Spitsbergen,1,A,"",9636TD,Zuidbroek
+Spitsbergen,2,"","",9636TD,Zuidbroek
+Spitsbergen,3,"","",9636TD,Zuidbroek
+Spitsbergen,4,"","",9636TD,Zuidbroek
+Spitsbergen,4,A,"",9636TD,Zuidbroek
+Spitsbergen,5,"","",9636TD,Zuidbroek
+Kostverloren,1,"","",9636TE,Zuidbroek
+Kostverloren,1,A,"",9636TE,Zuidbroek
+Kostverloren,2,"","",9636TE,Zuidbroek
+Kostverloren,3,"","",9636TE,Zuidbroek
+Kostverloren,4,"","",9636TE,Zuidbroek

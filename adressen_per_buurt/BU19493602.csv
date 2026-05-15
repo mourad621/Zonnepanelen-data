@@ -1,676 +1,328 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9047HG",21,"",""
-"9047HG",16,"",""
-"9047HG",17,"",""
-"9047HG",15,"",""
-"9047HG",11,"",""
-"9047HG",1,"",""
-"9047HG",5,"",""
-"9047HG",19,"",""
-"9047HG",9,"",""
-"9047HG",13,"",""
-"9047HG",3,"",""
-"9047HG",7,"",""
-"9047HH",12,"",""
-"9047HH",6,"",""
-"9047HH",4,"",""
-"9047HH",5,"",""
-"9047HH",9,"",""
-"9047HH",11,"",""
-"9047HH",10,"",""
-"9047HH",3,"",""
-"9047HH",8,"",""
-"9047HH",20,"",""
-"9047HH",7,"",""
-"9047HH",1,"",""
-"9047HH",17,"",""
-"9047HH",18,"",""
-"9047HH",19,"",""
-"9047HH",40,"",""
-"9047HH",40,"",""
-"9047HH",24,"",""
-"9047HH",14,"",""
-"9047HH",2,"",""
-"9047HH",15,"",""
-"9047HH",22,"",""
-"9047HH",13,"",""
-"9047HH",40,"",""
-"9047HH",16,"",""
-"9047HJ",27,"",""
-"9047HJ",25,"",""
-"9047HJ",17,"",""
-"9047HJ",19,"",""
-"9047HJ",23,"",""
-"9047HJ",21,"",""
-"9047HJ",33,"",""
-"9047HJ",9,"",""
-"9047HJ",29,"",""
-"9047HJ",7,"",""
-"9047HJ",31,"",""
-"9047HJ",11,"",""
-"9047HJ",35,"",""
-"9047HJ",1,"",""
-"9047HJ",31,"",""
-"9047HJ",31,"",""
-"9047HJ",33,"",""
-"9047HJ",15,"",""
-"9047HJ",13,"",""
-"9047HJ",3,"",""
-"9047HK",4,"",""
-"9047HK",6,"",""
-"9047HK",40,"",""
-"9047HK",38,"A",""
-"9047HK",18,"",""
-"9047HK",40,"",""
-"9047HK",16,"",""
-"9047HK",40,"",""
-"9047HK",14,"",""
-"9047HK",12,"",""
-"9047HL",12,"",""
-"9047HL",4,"",""
-"9047HL",10,"",""
-"9047HL",18,"",""
-"9047HL",9,"",""
-"9047HL",8,"",""
-"9047HL",5,"",""
-"9047HL",2,"",""
-"9047HL",8,"C",""
-"9047HL",8,"B",""
-"9047HL",8,"",""
-"9047HL",12,"A",""
-"9047HL",8,"",""
-"9047HL",8,"D",""
-"9047HL",11,"",""
-"9047HL",7,"",""
-"9047HL",13,"",""
-"9047HL",8,"A",""
-"9047HL",6,"",""
-"9047HL",15,"",""
-"9047HL",3,"",""
-"9047HL",21,"",""
-"9047HL",14,"",""
-"9047HL",23,"",""
-"9047HL",19,"",""
-"9047HL",1,"",""
-"9047HL",16,"",""
-"9047HL",12,"A",""
-"9047HM",8,"",""
-"9047HM",8,"",""
-"9047HM",2,"",""
-"9047HM",4,"",""
-"9047HM",7,"",""
-"9047HM",1,"",""
-"9047HN",8,"",""
-"9047HN",11,"",""
-"9047HN",9,"",""
-"9047HN",1,"A",""
-"9047HN",7,"",""
-"9047HN",10,"",""
-"9047HN",2,"",""
-"9047HN",4,"",""
-"9047HN",1,"B",""
-"9047HN",3,"",""
-"9047HN",5,"",""
-"9047HP",4,"",""
-"9047HP",1,"",""
-"9047HP",3,"",""
-"9047HP",2,"",""
-"9047HP",1,"A",""
-"9047HP",6,"",""
-"9047HR",21,"",""
-"9047HR",35,"",""
-"9047HR",45,"",""
-"9047HR",23,"",""
-"9047HR",13,"",""
-"9047HR",19,"",""
-"9047HR",17,"",""
-"9047HR",33,"",""
-"9047HR",3,"",""
-"9047HR",31,"",""
-"9047HR",1,"",""
-"9047HS",18,"",""
-"9047HS",8,"",""
-"9047HS",8,"A",""
-"9047HS",12,"A",""
-"9047HS",16,"",""
-"9047HS",24,"",""
-"9047HS",14,"",""
-"9047HS",12,"",""
-"9047HS",12,"A",""
-"9047HS",54,"",""
-"9047HS",38,"",""
-"9047HS",52,"",""
-"9047HT",12,"",""
-"9047HT",13,"",""
-"9047HT",11,"",""
-"9047HT",20,"",""
-"9047HT",8,"",""
-"9047HT",16,"",""
-"9047HT",3,"",""
-"9047HT",5,"",""
-"9047HT",6,"",""
-"9047HT",10,"",""
-"9047HT",18,"",""
-"9047HT",14,"",""
-"9047HT",1,"",""
-"9047HT",7,"",""
-"9047HT",2,"",""
-"9047HT",9,"",""
-"9047HT",4,"",""
-"9047HV",25,"",""
-"9047HV",19,"",""
-"9047HV",27,"",""
-"9047HV",29,"",""
-"9047HV",31,"",""
-"9047HV",21,"",""
-"9047HV",23,"",""
-"9047HW",63,"",""
-"9047HW",45,"",""
-"9047HW",51,"",""
-"9047HW",55,"",""
-"9047HW",47,"",""
-"9047HW",57,"",""
-"9047HW",59,"",""
-"9047HW",41,"",""
-"9047HW",35,"",""
-"9047HW",53,"",""
-"9047HW",39,"",""
-"9047HW",37,"",""
-"9047HW",33,"",""
-"9047HW",43,"",""
-"9047HW",49,"",""
-"9047HX",4,"",""
-"9047HX",6,"",""
-"9047HX",2,"",""
-"9047HZ",10,"",""
-"9047HZ",14,"",""
-"9047HZ",8,"",""
-"9047HZ",12,"",""
-"9047HZ",14,"",""
-"9047HZ",16,"I",""
-"9047HZ",16,"J",""
-"9047HZ",16,"D",""
-"9047HZ",8,"",""
-"9047HZ",16,"B",""
-"9047HZ",20,"",""
-"9047HZ",10,"",""
-"9047HZ",16,"E",""
-"9047HZ",42,"",""
-"9047HZ",18,"",""
-"9047HZ",16,"H",""
-"9047HZ",16,"K",""
-"9047HZ",28,"",""
-"9047HZ",16,"F",""
-"9047HZ",18,"",""
-"9047HZ",16,"A",""
-"9047HZ",22,"",""
-"9047HZ",32,"",""
-"9047HZ",16,"",""
-"9047HZ",22,"",""
-"9047HZ",24,"",""
-"9047HZ",16,"C",""
-"9047HZ",16,"G",""
-"9047HZ",20,"",""
-"9047HZ",26,"",""
-"9047HZ",24,"",""
-"9047HZ",16,"",""
-"9047HZ",30,"",""
-"9047HZ",28,"",""
-"9047HZ",26,"",""
-"9047JA",5,"",""
-"9047JA",9,"",""
-"9047JA",11,"",""
-"9047JA",13,"",""
-"9047JA",7,"",""
-"9047JA",3,"",""
-"9047JA",1,"",""
-"9047JB",49,"",""
-"9047JB",53,"",""
-"9047JB",57,"",""
-"9047JB",55,"",""
-"9047JB",61,"",""
-"9047JB",45,"",""
-"9047JB",31,"",""
-"9047JB",37,"",""
-"9047JB",43,"",""
-"9047JB",51,"",""
-"9047JB",67,"",""
-"9047JB",73,"",""
-"9047JB",59,"",""
-"9047JB",39,"",""
-"9047JB",27,"",""
-"9047JB",35,"",""
-"9047JB",33,"",""
-"9047JB",47,"",""
-"9047JB",63,"",""
-"9047JE",1,"",""
-"9047KB",22,"",""
-"9047KB",2,"",""
-"9047KB",24,"",""
-"9047KB",30,"",""
-"9047KB",6,"",""
-"9047KB",18,"",""
-"9047KB",26,"",""
-"9047KB",28,"",""
-"9047KB",4,"",""
-"9047KB",16,"",""
-"9047KB",20,"",""
-"9047KC",66,"",""
-"9047KC",62,"",""
-"9047KC",54,"",""
-"9047KC",64,"",""
-"9047KC",50,"",""
-"9047KC",42,"",""
-"9047KC",58,"",""
-"9047KC",40,"",""
-"9047KC",56,"",""
-"9047KC",46,"",""
-"9047KC",38,"",""
-"9047KC",32,"",""
-"9047KC",36,"",""
-"9047KC",44,"",""
-"9047KD",82,"",""
-"9047KD",78,"",""
-"9047KD",1,"",""
-"9047KD",5,"",""
-"9047KD",86,"",""
-"9047KD",84,"",""
-"9047KD",7,"",""
-"9047KD",80,"",""
-"9047KD",74,"",""
-"9047KD",76,"",""
-"9047KD",86,"",""
-"9047KD",3,"",""
-"9047KP",16,"",""
-"9047KP",30,"A",""
-"9047KP",32,"",""
-"9047KP",16,"",""
-"9047KP",36,"",""
-"9047KP",20,"",""
-"9047KP",26,"",""
-"9047KP",30,"B",""
-"9047KP",30,"",""
-"9047KP",12,"",""
-"9047KP",34,"",""
-"9047KP",38,"",""
-"9047KP",18,"",""
-"9047KP",16,"",""
-"9047KP",10,"",""
-"9047KP",2,"",""
-"9047KP",6,"",""
-"9047KP",18,"",""
-"9047KP",28,"",""
-"9047KR",3,"",""
-"9047KR",6,"",""
-"9047KR",8,"",""
-"9047KR",5,"",""
-"9047KR",4,"",""
-"9047KR",1,"",""
-"9047KR",2,"",""
-"9047VA",10,"",""
-"9047VA",11,"A",""
-"9047VA",8,"",""
-"9047VA",25,"",""
-"9047VA",6,"",""
-"9047VA",20,"",""
-"9047VA",2,"",""
-"9047VA",11,"B",""
-"9047VA",16,"",""
-"9047VA",26,"",""
-"9047VA",16,"",""
-"9047VA",11,"C",""
-"9047VA",16,"",""
-"9047VA",19,"",""
-"9047VA",15,"",""
-"9047VA",4,"",""
-"9047VA",13,"",""
-"9047VA",16,"",""
-"9047VA",23,"",""
-9047JE,Boskdykje,1,,
-9047HT,De Kamp,20,,
-9047HT,De Kamp,18,,
-9047HT,De Kamp,16,,
-9047HT,De Kamp,14,,
-9047HT,De Kamp,13,,
-9047HT,De Kamp,12,,
-9047HT,De Kamp,11,,
-9047HT,De Kamp,10,,
-9047HT,De Kamp,9,,
-9047HT,De Kamp,8,,
-9047HT,De Kamp,7,,
-9047HT,De Kamp,6,,
-9047HT,De Kamp,5,,
-9047HT,De Kamp,4,,
-9047HT,De Kamp,3,,
-9047HT,De Kamp,2,,
-9047HT,De Kamp,1,,
-9047KP,Ferniawei,38,,
-9047KP,Ferniawei,36,,
-9047KP,Ferniawei,34,,
-9047KP,Ferniawei,32,,
-9047KP,Ferniawei,30,B,
-9047KP,Ferniawei,30,,
-9047KP,Ferniawei,28,,
-9047KP,Ferniawei,26,,
-9047KP,Ferniawei,20,,
-9047KP,Ferniawei,16,,
-9047KP,Ferniawei,18,,
-9047KP,Ferniawei,12,,
-9047KP,Ferniawei,10,,
-9047KP,Ferniawei,6,,
-9047KP,Ferniawei,2,,
-9047KP,Ferniawei,18,,
-9047KP,Ferniawei,16,,
-9047KP,Ferniawei,16,,
-9047KP,Ferniawei,30,A,
-9047VA,Hearewei,13,,
-9047VA,Hearewei,26,,
-9047VA,Hearewei,25,,
-9047VA,Hearewei,23,,
-9047VA,Hearewei,20,,
-9047VA,Hearewei,19,,
-9047VA,Hearewei,16,,
-9047VA,Hearewei,15,,
-9047VA,Hearewei,11,B,
-9047VA,Hearewei,11,C,
-9047VA,Hearewei,11,A,
-9047VA,Hearewei,10,,
-9047VA,Hearewei,8,,
-9047VA,Hearewei,6,,
-9047VA,Hearewei,4,,
-9047VA,Hearewei,2,,
-9047VA,Hearewei,16,,
-9047HR,Hege Buorren,45,,
-9047HR,Hege Buorren,35,,
-9047HR,Hege Buorren,33,,
-9047HR,Hege Buorren,31,,
-9047HR,Hege Buorren,23,,
-9047HR,Hege Buorren,19,,
-9047HR,Hege Buorren,17,,
-9047HR,Hege Buorren,21,,
-9047HR,Hege Buorren,13,,
-9047HR,Hege Buorren,3,,
-9047HR,Hege Buorren,1,,
-9047HS,Hege Buorren,12,A,
-9047HS,Hege Buorren,54,,
-9047HS,Hege Buorren,52,,
-9047HS,Hege Buorren,38,,
-9047HS,Hege Buorren,24,,
-9047HS,Hege Buorren,18,,
-9047HS,Hege Buorren,16,,
-9047HS,Hege Buorren,14,,
-9047HS,Hege Buorren,12,,
-9047HS,Hege Buorren,8,,
-9047HS,Hege Buorren,8,A,
-9047JA,Hermanawei,13,,
-9047JA,Hermanawei,11,,
-9047JA,Hermanawei,9,,
-9047JA,Hermanawei,7,,
-9047JA,Hermanawei,5,,
-9047JA,Hermanawei,3,,
-9047JA,Hermanawei,1,,
-9047JB,Hermanawei,73,,
-9047JB,Hermanawei,67,,
-9047JB,Hermanawei,63,,
-9047JB,Hermanawei,61,,
-9047JB,Hermanawei,59,,
-9047JB,Hermanawei,57,,
-9047JB,Hermanawei,55,,
-9047JB,Hermanawei,53,,
-9047JB,Hermanawei,51,,
-9047JB,Hermanawei,49,,
-9047JB,Hermanawei,47,,
-9047JB,Hermanawei,45,,
-9047JB,Hermanawei,43,,
-9047JB,Hermanawei,39,,
-9047JB,Hermanawei,37,,
-9047JB,Hermanawei,35,,
-9047JB,Hermanawei,33,,
-9047JB,Hermanawei,31,,
-9047JB,Hermanawei,27,,
-9047VA,Hermanawei,16,,
-9047HJ,Lange Dyk,35,,
-9047HJ,Lange Dyk,33,,
-9047HJ,Lange Dyk,31,,
-9047HJ,Lange Dyk,29,,
-9047HJ,Lange Dyk,27,,
-9047HJ,Lange Dyk,25,,
-9047HJ,Lange Dyk,23,,
-9047HJ,Lange Dyk,21,,
-9047HJ,Lange Dyk,19,,
-9047HJ,Lange Dyk,17,,
-9047HJ,Lange Dyk,15,,
-9047HJ,Lange Dyk,13,,
-9047HJ,Lange Dyk,11,,
-9047HJ,Lange Dyk,9,,
-9047HJ,Lange Dyk,7,,
-9047HJ,Lange Dyk,3,,
-9047HJ,Lange Dyk,1,,
-9047HJ,Lange Dyk,31,,
-9047HK,Lange Dyk,40,,
-9047HK,Lange Dyk,38,A,
-9047HK,Lange Dyk,18,,
-9047HK,Lange Dyk,16,,
-9047HK,Lange Dyk,14,,
-9047HK,Lange Dyk,12,,
-9047HK,Lange Dyk,4,,
-9047HK,Lange Dyk,6,,
-9047HK,Lange Dyk,40,,
-9047KB,Meinardswei,22,,
-9047KB,Meinardswei,30,,
-9047KB,Meinardswei,28,,
-9047KB,Meinardswei,26,,
-9047KB,Meinardswei,24,,
-9047KB,Meinardswei,20,,
-9047KB,Meinardswei,18,,
-9047KB,Meinardswei,16,,
-9047KB,Meinardswei,6,,
-9047KB,Meinardswei,4,,
-9047KB,Meinardswei,2,,
-9047KC,Meinardswei,66,,
-9047KC,Meinardswei,64,,
-9047KC,Meinardswei,62,,
-9047KC,Meinardswei,58,,
-9047KC,Meinardswei,56,,
-9047KC,Meinardswei,54,,
-9047KC,Meinardswei,50,,
-9047KC,Meinardswei,46,,
-9047KC,Meinardswei,44,,
-9047KC,Meinardswei,42,,
-9047KC,Meinardswei,40,,
-9047KC,Meinardswei,38,,
-9047KC,Meinardswei,36,,
-9047KC,Meinardswei,32,,
-9047KD,Meinardswei,7,,
-9047KD,Meinardswei,5,,
-9047KD,Meinardswei,3,,
-9047KD,Meinardswei,86,,
-9047KD,Meinardswei,84,,
-9047KD,Meinardswei,82,,
-9047KD,Meinardswei,80,,
-9047KD,Meinardswei,78,,
-9047KD,Meinardswei,76,,
-9047KD,Meinardswei,74,,
-9047KD,Meinardswei,1,,
-9047HM,Moledyk,8,,
-9047HM,Moledyk,7,,
-9047HM,Moledyk,4,,
-9047HM,Moledyk,2,,
-9047HM,Moledyk,1,,
-9047HN,Rispinge,11,,
-9047HN,Rispinge,10,,
-9047HN,Rispinge,9,,
-9047HN,Rispinge,8,,
-9047HN,Rispinge,7,,
-9047HN,Rispinge,5,,
-9047HN,Rispinge,4,,
-9047HN,Rispinge,3,,
-9047HN,Rispinge,2,,
-9047HN,Rispinge,1,A,
-9047HN,Rispinge,1,B,
-9047KR,S.R. Faberstrjitte,8,,
-9047KR,S.R. Faberstrjitte,6,,
-9047KR,S.R. Faberstrjitte,5,,
-9047KR,S.R. Faberstrjitte,4,,
-9047KR,S.R. Faberstrjitte,3,,
-9047KR,S.R. Faberstrjitte,2,,
-9047KR,S.R. Faberstrjitte,1,,
-9047HL,Stasjonsstrjitte,23,,
-9047HL,Stasjonsstrjitte,21,,
-9047HL,Stasjonsstrjitte,19,,
-9047HL,Stasjonsstrjitte,18,,
-9047HL,Stasjonsstrjitte,16,,
-9047HL,Stasjonsstrjitte,15,,
-9047HL,Stasjonsstrjitte,14,,
-9047HL,Stasjonsstrjitte,13,,
-9047HL,Stasjonsstrjitte,12,A,
-9047HL,Stasjonsstrjitte,12,,
-9047HL,Stasjonsstrjitte,11,,
-9047HL,Stasjonsstrjitte,10,,
-9047HL,Stasjonsstrjitte,9,,
-9047HL,Stasjonsstrjitte,8,,
-9047HL,Stasjonsstrjitte,7,,
-9047HL,Stasjonsstrjitte,6,,
-9047HL,Stasjonsstrjitte,5,,
-9047HL,Stasjonsstrjitte,4,,
-9047HL,Stasjonsstrjitte,3,,
-9047HL,Stasjonsstrjitte,2,,
-9047HL,Stasjonsstrjitte,1,,
-9047HL,Stasjonsstrjitte,8,,
-9047HL,Stasjonsstrjitte,8,A,
-9047HL,Stasjonsstrjitte,8,B,
-9047HL,Stasjonsstrjitte,8,C,
-9047HL,Stasjonsstrjitte,8,D,
-9047HV,Vikarijbuorren,31,,
-9047HV,Vikarijbuorren,29,,
-9047HV,Vikarijbuorren,27,,
-9047HV,Vikarijbuorren,25,,
-9047HV,Vikarijbuorren,23,,
-9047HV,Vikarijbuorren,21,,
-9047HV,Vikarijbuorren,19,,
-9047HW,Vikarijbuorren,63,,
-9047HW,Vikarijbuorren,59,,
-9047HW,Vikarijbuorren,57,,
-9047HW,Vikarijbuorren,55,,
-9047HW,Vikarijbuorren,53,,
-9047HW,Vikarijbuorren,51,,
-9047HW,Vikarijbuorren,49,,
-9047HW,Vikarijbuorren,47,,
-9047HW,Vikarijbuorren,45,,
-9047HW,Vikarijbuorren,43,,
-9047HW,Vikarijbuorren,41,,
-9047HW,Vikarijbuorren,39,,
-9047HW,Vikarijbuorren,37,,
-9047HW,Vikarijbuorren,35,,
-9047HW,Vikarijbuorren,33,,
-9047HX,Vikarijbuorren,6,,
-9047HX,Vikarijbuorren,4,,
-9047HX,Vikarijbuorren,2,,
-9047HZ,Vikarijbuorren,16,I,
-9047HZ,Vikarijbuorren,16,H,
-9047HZ,Vikarijbuorren,16,F,
-9047HZ,Vikarijbuorren,16,D,
-9047HZ,Vikarijbuorren,16,B,
-9047HZ,Vikarijbuorren,16,A,
-9047HZ,Vikarijbuorren,16,C,
-9047HZ,Vikarijbuorren,16,G,
-9047HZ,Vikarijbuorren,16,,
-9047HZ,Vikarijbuorren,8,,
-9047HZ,Vikarijbuorren,14,,
-9047HZ,Vikarijbuorren,10,,
-9047HZ,Vikarijbuorren,12,,
-9047HZ,Vikarijbuorren,10,,
-9047HZ,Vikarijbuorren,14,,
-9047HZ,Vikarijbuorren,8,,
-9047HZ,Vikarijbuorren,16,,
-9047HZ,Vikarijbuorren,42,,
-9047HZ,Vikarijbuorren,32,,
-9047HZ,Vikarijbuorren,30,,
-9047HZ,Vikarijbuorren,28,,
-9047HZ,Vikarijbuorren,26,,
-9047HZ,Vikarijbuorren,24,,
-9047HZ,Vikarijbuorren,22,,
-9047HZ,Vikarijbuorren,20,,
-9047HZ,Vikarijbuorren,18,,
-9047HZ,Vikarijbuorren,16,E,
-9047HZ,Vikarijbuorren,16,J,
-9047HZ,Vikarijbuorren,16,K,
-9047HH,Stinzelân,24,,
-9047HH,Stinzelân,22,,
-9047HH,Stinzelân,20,,
-9047HH,Stinzelân,19,,
-9047HH,Stinzelân,18,,
-9047HH,Stinzelân,17,,
-9047HH,Stinzelân,16,,
-9047HH,Stinzelân,15,,
-9047HH,Stinzelân,14,,
-9047HH,Stinzelân,13,,
-9047HH,Stinzelân,12,,
-9047HH,Stinzelân,11,,
-9047HH,Stinzelân,10,,
-9047HH,Stinzelân,9,,
-9047HH,Stinzelân,8,,
-9047HH,Stinzelân,7,,
-9047HH,Stinzelân,6,,
-9047HH,Stinzelân,5,,
-9047HH,Stinzelân,4,,
-9047HH,Stinzelân,3,,
-9047HH,Stinzelân,2,,
-9047HH,Stinzelân,1,,
-9047HH,Stinzelân,40,,
-9047HH,Stinzelân,40,,
-9047HG,Almasingel,19,,
-9047HG,Almasingel,17,,
-9047HG,Almasingel,15,,
-9047HG,Almasingel,13,,
-9047HG,Almasingel,11,,
-9047HG,Almasingel,9,,
-9047HG,Almasingel,7,,
-9047HG,Almasingel,5,,
-9047HG,Almasingel,3,,
-9047HG,Almasingel,1,,
-9047HG,Almasingel,16,,
-9047HG,Almasingel,21,,
-9047HP,Scheltingawei,6,,
-9047HP,Scheltingawei,4,,
-9047HP,Scheltingawei,3,,
-9047HP,Scheltingawei,2,,
-9047HP,Scheltingawei,1,,
-9047HP,Scheltingawei,1,A,
-9047VA,Hearewei,15,,
-9047HS,Hege Buorren,8,B,
-9047KD,Meinardswei,86,,
-9047KD,Meinardswei,86,A,
-9047KD,Meinardswei,86,B,
-9047HL,Stasjonsstrjitte,12,A,
-9047HZ,Vikarijbuorren,26,,
-9047HZ,Vikarijbuorren,24,,
-9047HZ,Vikarijbuorren,22,,
-9047HZ,Vikarijbuorren,20,,
-9047HZ,Vikarijbuorren,18,,
-9047HH,Stinzelân,32,,
-9047HH,Stinzelân,34,,
-9047HH,Stinzelân,36,,
-9047HH,Stinzelân,38,,
-9047HH,Stinzelân,46,,
-9047HH,Stinzelân,44,,
-9047HH,Stinzelân,42,,
-9047HG,Almasingel,10,,
-9047HG,Almasingel,12,,
-9047HG,Almasingel,6,,
-9047HG,Almasingel,8,,
-9047HG,Almasingel,29,,
-9047HG,Almasingel,31,,
-9047HG,Almasingel,33,,
-9047HG,Almasingel,35,,
-9047HG,Almasingel,14,,
-9047HG,Almasingel,23,,
-9047HG,Almasingel,25,,
-9047HG,Almasingel,27,,
-9047HG,Almasingel,18,,
-9047HG,Almasingel,2,,
-9047HG,Almasingel,4,,
-9047HE,It Binnenpaad,2,,
-9047HE,It Binnenpaad,4,,
-9047HE,It Binnenpaad,6,,
-9047HE,It Binnenpaad,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Almasingel,1,"","",9047HG,Minnertsga
+Almasingel,11,"","",9047HG,Minnertsga
+Almasingel,13,"","",9047HG,Minnertsga
+Almasingel,15,"","",9047HG,Minnertsga
+Almasingel,16,"","",9047HG,Minnertsga
+Almasingel,17,"","",9047HG,Minnertsga
+Almasingel,19,"","",9047HG,Minnertsga
+Almasingel,21,"","",9047HG,Minnertsga
+Almasingel,3,"","",9047HG,Minnertsga
+Almasingel,5,"","",9047HG,Minnertsga
+Almasingel,7,"","",9047HG,Minnertsga
+Almasingel,9,"","",9047HG,Minnertsga
+Stinzelân,1,"","",9047HH,Minnertsga
+Stinzelân,10,"","",9047HH,Minnertsga
+Stinzelân,11,"","",9047HH,Minnertsga
+Stinzelân,12,"","",9047HH,Minnertsga
+Stinzelân,13,"","",9047HH,Minnertsga
+Stinzelân,14,"","",9047HH,Minnertsga
+Stinzelân,15,"","",9047HH,Minnertsga
+Stinzelân,16,"","",9047HH,Minnertsga
+Stinzelân,17,"","",9047HH,Minnertsga
+Stinzelân,18,"","",9047HH,Minnertsga
+Stinzelân,19,"","",9047HH,Minnertsga
+Stinzelân,2,"","",9047HH,Minnertsga
+Stinzelân,20,"","",9047HH,Minnertsga
+Stinzelân,22,"","",9047HH,Minnertsga
+Stinzelân,24,"","",9047HH,Minnertsga
+Stinzelân,3,"","",9047HH,Minnertsga
+Stinzelân,4,"","",9047HH,Minnertsga
+Stinzelân,40,"","",9047HH,Minnertsga
+Stinzelân,40,"","",9047HH,Minnertsga
+Stinzelân,40,"","",9047HH,Minnertsga
+Stinzelân,5,"","",9047HH,Minnertsga
+Stinzelân,6,"","",9047HH,Minnertsga
+Stinzelân,7,"","",9047HH,Minnertsga
+Stinzelân,8,"","",9047HH,Minnertsga
+Stinzelân,9,"","",9047HH,Minnertsga
+Lange Dyk,1,"","",9047HJ,Minnertsga
+Lange Dyk,11,"","",9047HJ,Minnertsga
+Lange Dyk,13,"","",9047HJ,Minnertsga
+Lange Dyk,15,"","",9047HJ,Minnertsga
+Lange Dyk,17,"","",9047HJ,Minnertsga
+Lange Dyk,19,"","",9047HJ,Minnertsga
+Lange Dyk,21,"","",9047HJ,Minnertsga
+Lange Dyk,23,"","",9047HJ,Minnertsga
+Lange Dyk,25,"","",9047HJ,Minnertsga
+Lange Dyk,27,"","",9047HJ,Minnertsga
+Lange Dyk,29,"","",9047HJ,Minnertsga
+Lange Dyk,3,"","",9047HJ,Minnertsga
+Lange Dyk,31,"","",9047HJ,Minnertsga
+Lange Dyk,31,"","",9047HJ,Minnertsga
+Lange Dyk,31,"","",9047HJ,Minnertsga
+Lange Dyk,33,"","",9047HJ,Minnertsga
+Lange Dyk,33,"","",9047HJ,Minnertsga
+Lange Dyk,35,"","",9047HJ,Minnertsga
+Lange Dyk,7,"","",9047HJ,Minnertsga
+Lange Dyk,9,"","",9047HJ,Minnertsga
+Lange Dyk,12,"","",9047HK,Minnertsga
+Lange Dyk,14,"","",9047HK,Minnertsga
+Lange Dyk,16,"","",9047HK,Minnertsga
+Lange Dyk,18,"","",9047HK,Minnertsga
+Lange Dyk,38,A,"",9047HK,Minnertsga
+Lange Dyk,4,"","",9047HK,Minnertsga
+Lange Dyk,40,"","",9047HK,Minnertsga
+Lange Dyk,40,"","",9047HK,Minnertsga
+Lange Dyk,40,"","",9047HK,Minnertsga
+Lange Dyk,6,"","",9047HK,Minnertsga
+Stasjonsstrjitte,1,"","",9047HL,Minnertsga
+Stasjonsstrjitte,10,"","",9047HL,Minnertsga
+Stasjonsstrjitte,11,"","",9047HL,Minnertsga
+Stasjonsstrjitte,12,"","",9047HL,Minnertsga
+Stasjonsstrjitte,12,A,"",9047HL,Minnertsga
+Stasjonsstrjitte,12,A,"",9047HL,Minnertsga
+Stasjonsstrjitte,13,"","",9047HL,Minnertsga
+Stasjonsstrjitte,14,"","",9047HL,Minnertsga
+Stasjonsstrjitte,15,"","",9047HL,Minnertsga
+Stasjonsstrjitte,16,"","",9047HL,Minnertsga
+Stasjonsstrjitte,18,"","",9047HL,Minnertsga
+Stasjonsstrjitte,19,"","",9047HL,Minnertsga
+Stasjonsstrjitte,2,"","",9047HL,Minnertsga
+Stasjonsstrjitte,21,"","",9047HL,Minnertsga
+Stasjonsstrjitte,23,"","",9047HL,Minnertsga
+Stasjonsstrjitte,3,"","",9047HL,Minnertsga
+Stasjonsstrjitte,4,"","",9047HL,Minnertsga
+Stasjonsstrjitte,5,"","",9047HL,Minnertsga
+Stasjonsstrjitte,6,"","",9047HL,Minnertsga
+Stasjonsstrjitte,7,"","",9047HL,Minnertsga
+Stasjonsstrjitte,8,"","",9047HL,Minnertsga
+Stasjonsstrjitte,8,"","",9047HL,Minnertsga
+Stasjonsstrjitte,8,"","",9047HL,Minnertsga
+Stasjonsstrjitte,8,A,"",9047HL,Minnertsga
+Stasjonsstrjitte,8,B,"",9047HL,Minnertsga
+Stasjonsstrjitte,8,C,"",9047HL,Minnertsga
+Stasjonsstrjitte,8,D,"",9047HL,Minnertsga
+Stasjonsstrjitte,9,"","",9047HL,Minnertsga
+Moledyk,1,"","",9047HM,Minnertsga
+Moledyk,2,"","",9047HM,Minnertsga
+Moledyk,4,"","",9047HM,Minnertsga
+Moledyk,7,"","",9047HM,Minnertsga
+Moledyk,8,"","",9047HM,Minnertsga
+Moledyk,8,"","",9047HM,Minnertsga
+Rispinge,1,A,"",9047HN,Minnertsga
+Rispinge,1,B,"",9047HN,Minnertsga
+Rispinge,10,"","",9047HN,Minnertsga
+Rispinge,11,"","",9047HN,Minnertsga
+Rispinge,2,"","",9047HN,Minnertsga
+Rispinge,3,"","",9047HN,Minnertsga
+Rispinge,4,"","",9047HN,Minnertsga
+Rispinge,5,"","",9047HN,Minnertsga
+Rispinge,7,"","",9047HN,Minnertsga
+Rispinge,8,"","",9047HN,Minnertsga
+Rispinge,9,"","",9047HN,Minnertsga
+Scheltingawei,1,"","",9047HP,Minnertsga
+Scheltingawei,1,A,"",9047HP,Minnertsga
+Scheltingawei,2,"","",9047HP,Minnertsga
+Scheltingawei,3,"","",9047HP,Minnertsga
+Scheltingawei,4,"","",9047HP,Minnertsga
+Scheltingawei,6,"","",9047HP,Minnertsga
+Hege Buorren,1,"","",9047HR,Minnertsga
+Hege Buorren,13,"","",9047HR,Minnertsga
+Hege Buorren,17,"","",9047HR,Minnertsga
+Hege Buorren,19,"","",9047HR,Minnertsga
+Hege Buorren,21,"","",9047HR,Minnertsga
+Hege Buorren,23,"","",9047HR,Minnertsga
+Hege Buorren,3,"","",9047HR,Minnertsga
+Hege Buorren,31,"","",9047HR,Minnertsga
+Hege Buorren,33,"","",9047HR,Minnertsga
+Hege Buorren,35,"","",9047HR,Minnertsga
+Hege Buorren,45,"","",9047HR,Minnertsga
+Hege Buorren,12,"","",9047HS,Minnertsga
+Hege Buorren,12,A,"",9047HS,Minnertsga
+Hege Buorren,12,A,"",9047HS,Minnertsga
+Hege Buorren,14,"","",9047HS,Minnertsga
+Hege Buorren,16,"","",9047HS,Minnertsga
+Hege Buorren,18,"","",9047HS,Minnertsga
+Hege Buorren,24,"","",9047HS,Minnertsga
+Hege Buorren,38,"","",9047HS,Minnertsga
+Hege Buorren,52,"","",9047HS,Minnertsga
+Hege Buorren,54,"","",9047HS,Minnertsga
+Hege Buorren,8,"","",9047HS,Minnertsga
+Hege Buorren,8,A,"",9047HS,Minnertsga
+De Kamp,1,"","",9047HT,Minnertsga
+De Kamp,10,"","",9047HT,Minnertsga
+De Kamp,11,"","",9047HT,Minnertsga
+De Kamp,12,"","",9047HT,Minnertsga
+De Kamp,13,"","",9047HT,Minnertsga
+De Kamp,14,"","",9047HT,Minnertsga
+De Kamp,16,"","",9047HT,Minnertsga
+De Kamp,18,"","",9047HT,Minnertsga
+De Kamp,2,"","",9047HT,Minnertsga
+De Kamp,20,"","",9047HT,Minnertsga
+De Kamp,3,"","",9047HT,Minnertsga
+De Kamp,4,"","",9047HT,Minnertsga
+De Kamp,5,"","",9047HT,Minnertsga
+De Kamp,6,"","",9047HT,Minnertsga
+De Kamp,7,"","",9047HT,Minnertsga
+De Kamp,8,"","",9047HT,Minnertsga
+De Kamp,9,"","",9047HT,Minnertsga
+Vikarijbuorren,19,"","",9047HV,Minnertsga
+Vikarijbuorren,21,"","",9047HV,Minnertsga
+Vikarijbuorren,23,"","",9047HV,Minnertsga
+Vikarijbuorren,25,"","",9047HV,Minnertsga
+Vikarijbuorren,27,"","",9047HV,Minnertsga
+Vikarijbuorren,29,"","",9047HV,Minnertsga
+Vikarijbuorren,31,"","",9047HV,Minnertsga
+Vikarijbuorren,33,"","",9047HW,Minnertsga
+Vikarijbuorren,35,"","",9047HW,Minnertsga
+Vikarijbuorren,37,"","",9047HW,Minnertsga
+Vikarijbuorren,39,"","",9047HW,Minnertsga
+Vikarijbuorren,41,"","",9047HW,Minnertsga
+Vikarijbuorren,43,"","",9047HW,Minnertsga
+Vikarijbuorren,45,"","",9047HW,Minnertsga
+Vikarijbuorren,47,"","",9047HW,Minnertsga
+Vikarijbuorren,49,"","",9047HW,Minnertsga
+Vikarijbuorren,51,"","",9047HW,Minnertsga
+Vikarijbuorren,53,"","",9047HW,Minnertsga
+Vikarijbuorren,55,"","",9047HW,Minnertsga
+Vikarijbuorren,57,"","",9047HW,Minnertsga
+Vikarijbuorren,59,"","",9047HW,Minnertsga
+Vikarijbuorren,63,"","",9047HW,Minnertsga
+Vikarijbuorren,2,"","",9047HX,Minnertsga
+Vikarijbuorren,4,"","",9047HX,Minnertsga
+Vikarijbuorren,6,"","",9047HX,Minnertsga
+Vikarijbuorren,10,"","",9047HZ,Minnertsga
+Vikarijbuorren,10,"","",9047HZ,Minnertsga
+Vikarijbuorren,12,"","",9047HZ,Minnertsga
+Vikarijbuorren,14,"","",9047HZ,Minnertsga
+Vikarijbuorren,14,"","",9047HZ,Minnertsga
+Vikarijbuorren,16,"","",9047HZ,Minnertsga
+Vikarijbuorren,16,"","",9047HZ,Minnertsga
+Vikarijbuorren,16,A,"",9047HZ,Minnertsga
+Vikarijbuorren,16,B,"",9047HZ,Minnertsga
+Vikarijbuorren,16,C,"",9047HZ,Minnertsga
+Vikarijbuorren,16,D,"",9047HZ,Minnertsga
+Vikarijbuorren,16,E,"",9047HZ,Minnertsga
+Vikarijbuorren,16,F,"",9047HZ,Minnertsga
+Vikarijbuorren,16,G,"",9047HZ,Minnertsga
+Vikarijbuorren,16,H,"",9047HZ,Minnertsga
+Vikarijbuorren,16,I,"",9047HZ,Minnertsga
+Vikarijbuorren,16,J,"",9047HZ,Minnertsga
+Vikarijbuorren,16,K,"",9047HZ,Minnertsga
+Vikarijbuorren,18,"","",9047HZ,Minnertsga
+Vikarijbuorren,18,"","",9047HZ,Minnertsga
+Vikarijbuorren,20,"","",9047HZ,Minnertsga
+Vikarijbuorren,20,"","",9047HZ,Minnertsga
+Vikarijbuorren,22,"","",9047HZ,Minnertsga
+Vikarijbuorren,22,"","",9047HZ,Minnertsga
+Vikarijbuorren,24,"","",9047HZ,Minnertsga
+Vikarijbuorren,24,"","",9047HZ,Minnertsga
+Vikarijbuorren,26,"","",9047HZ,Minnertsga
+Vikarijbuorren,26,"","",9047HZ,Minnertsga
+Vikarijbuorren,28,"","",9047HZ,Minnertsga
+Vikarijbuorren,28,"","",9047HZ,Minnertsga
+Vikarijbuorren,30,"","",9047HZ,Minnertsga
+Vikarijbuorren,32,"","",9047HZ,Minnertsga
+Vikarijbuorren,42,"","",9047HZ,Minnertsga
+Vikarijbuorren,8,"","",9047HZ,Minnertsga
+Vikarijbuorren,8,"","",9047HZ,Minnertsga
+Hermanawei,1,"","",9047JA,Minnertsga
+Hermanawei,11,"","",9047JA,Minnertsga
+Hermanawei,13,"","",9047JA,Minnertsga
+Hermanawei,3,"","",9047JA,Minnertsga
+Hermanawei,5,"","",9047JA,Minnertsga
+Hermanawei,7,"","",9047JA,Minnertsga
+Hermanawei,9,"","",9047JA,Minnertsga
+Hermanawei,27,"","",9047JB,Minnertsga
+Hermanawei,31,"","",9047JB,Minnertsga
+Hermanawei,33,"","",9047JB,Minnertsga
+Hermanawei,35,"","",9047JB,Minnertsga
+Hermanawei,37,"","",9047JB,Minnertsga
+Hermanawei,39,"","",9047JB,Minnertsga
+Hermanawei,43,"","",9047JB,Minnertsga
+Hermanawei,45,"","",9047JB,Minnertsga
+Hermanawei,47,"","",9047JB,Minnertsga
+Hermanawei,49,"","",9047JB,Minnertsga
+Hermanawei,51,"","",9047JB,Minnertsga
+Hermanawei,53,"","",9047JB,Minnertsga
+Hermanawei,55,"","",9047JB,Minnertsga
+Hermanawei,57,"","",9047JB,Minnertsga
+Hermanawei,59,"","",9047JB,Minnertsga
+Hermanawei,61,"","",9047JB,Minnertsga
+Hermanawei,63,"","",9047JB,Minnertsga
+Hermanawei,67,"","",9047JB,Minnertsga
+Hermanawei,73,"","",9047JB,Minnertsga
+Boskdykje,1,"","",9047JE,Minnertsga
+Meinardswei,16,"","",9047KB,Minnertsga
+Meinardswei,18,"","",9047KB,Minnertsga
+Meinardswei,2,"","",9047KB,Minnertsga
+Meinardswei,20,"","",9047KB,Minnertsga
+Meinardswei,22,"","",9047KB,Minnertsga
+Meinardswei,24,"","",9047KB,Minnertsga
+Meinardswei,26,"","",9047KB,Minnertsga
+Meinardswei,28,"","",9047KB,Minnertsga
+Meinardswei,30,"","",9047KB,Minnertsga
+Meinardswei,4,"","",9047KB,Minnertsga
+Meinardswei,6,"","",9047KB,Minnertsga
+Meinardswei,32,"","",9047KC,Minnertsga
+Meinardswei,36,"","",9047KC,Minnertsga
+Meinardswei,38,"","",9047KC,Minnertsga
+Meinardswei,40,"","",9047KC,Minnertsga
+Meinardswei,42,"","",9047KC,Minnertsga
+Meinardswei,44,"","",9047KC,Minnertsga
+Meinardswei,46,"","",9047KC,Minnertsga
+Meinardswei,50,"","",9047KC,Minnertsga
+Meinardswei,54,"","",9047KC,Minnertsga
+Meinardswei,56,"","",9047KC,Minnertsga
+Meinardswei,58,"","",9047KC,Minnertsga
+Meinardswei,62,"","",9047KC,Minnertsga
+Meinardswei,64,"","",9047KC,Minnertsga
+Meinardswei,66,"","",9047KC,Minnertsga
+Meinardswei,1,"","",9047KD,Minnertsga
+Meinardswei,3,"","",9047KD,Minnertsga
+Meinardswei,5,"","",9047KD,Minnertsga
+Meinardswei,7,"","",9047KD,Minnertsga
+Meinardswei,74,"","",9047KD,Minnertsga
+Meinardswei,76,"","",9047KD,Minnertsga
+Meinardswei,78,"","",9047KD,Minnertsga
+Meinardswei,80,"","",9047KD,Minnertsga
+Meinardswei,82,"","",9047KD,Minnertsga
+Meinardswei,84,"","",9047KD,Minnertsga
+Meinardswei,86,"","",9047KD,Minnertsga
+Meinardswei,86,"","",9047KD,Minnertsga
+Ferniawei,10,"","",9047KP,Minnertsga
+Ferniawei,12,"","",9047KP,Minnertsga
+Ferniawei,16,"","",9047KP,Minnertsga
+Ferniawei,16,"","",9047KP,Minnertsga
+Ferniawei,16,"","",9047KP,Minnertsga
+Ferniawei,18,"","",9047KP,Minnertsga
+Ferniawei,18,"","",9047KP,Minnertsga
+Ferniawei,2,"","",9047KP,Minnertsga
+Ferniawei,20,"","",9047KP,Minnertsga
+Ferniawei,26,"","",9047KP,Minnertsga
+Ferniawei,28,"","",9047KP,Minnertsga
+Ferniawei,30,"","",9047KP,Minnertsga
+Ferniawei,30,A,"",9047KP,Minnertsga
+Ferniawei,30,B,"",9047KP,Minnertsga
+Ferniawei,32,"","",9047KP,Minnertsga
+Ferniawei,34,"","",9047KP,Minnertsga
+Ferniawei,36,"","",9047KP,Minnertsga
+Ferniawei,38,"","",9047KP,Minnertsga
+Ferniawei,6,"","",9047KP,Minnertsga
+S.R. Faberstrjitte,1,"","",9047KR,Minnertsga
+S.R. Faberstrjitte,2,"","",9047KR,Minnertsga
+S.R. Faberstrjitte,3,"","",9047KR,Minnertsga
+S.R. Faberstrjitte,4,"","",9047KR,Minnertsga
+S.R. Faberstrjitte,5,"","",9047KR,Minnertsga
+S.R. Faberstrjitte,6,"","",9047KR,Minnertsga
+S.R. Faberstrjitte,8,"","",9047KR,Minnertsga
+Hearewei,10,"","",9047VA,Minnertsga
+Hearewei,11,A,"",9047VA,Minnertsga
+Hearewei,11,B,"",9047VA,Minnertsga
+Hearewei,11,C,"",9047VA,Minnertsga
+Hearewei,13,"","",9047VA,Minnertsga
+Hearewei,15,"","",9047VA,Minnertsga
+Hearewei,16,"","",9047VA,Minnertsga
+Hearewei,16,"","",9047VA,Minnertsga
+Hearewei,16,"","",9047VA,Minnertsga
+Hearewei,16,"","",9047VA,Minnertsga
+Hearewei,19,"","",9047VA,Minnertsga
+Hearewei,2,"","",9047VA,Minnertsga
+Hearewei,20,"","",9047VA,Minnertsga
+Hearewei,23,"","",9047VA,Minnertsga
+Hearewei,25,"","",9047VA,Minnertsga
+Hearewei,26,"","",9047VA,Minnertsga
+Hearewei,4,"","",9047VA,Minnertsga
+Hearewei,6,"","",9047VA,Minnertsga
+Hearewei,8,"","",9047VA,Minnertsga

@@ -1,934 +1,480 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9402AG",219,"",""
-"9402AG",217,"",""
-"9402AG",227,"",""
-"9402AG",221,"",""
-"9402AG",215,"",""
-"9402AG",225,"",""
-"9402AG",223,"",""
-"9402AG",213,"",""
-"9402AG",229,"",""
-"9402AG",211,"",""
-"9402AH",247,"",""
-"9402AH",237,"B",""
-"9402AH",247,"",""
-"9402AH",247,"",""
-"9402AH",247,"",""
-"9402AH",237,"A",""
-"9402AH",235,"",""
-"9402AH",237,"",""
-"9402AH",239,"A",""
-"9402AH",231,"",""
-"9402AH",241,"",""
-"9402AH",233,"",""
-"9402AH",239,"",""
-"9402AH",239,"A",""
-"9402AH",247,"A",""
-"9402AH",239,"A",""
-"9402AH",243,"",""
-"9402AH",245,"",""
-"9402AH",237,"B",""
-"9402AH",247,"A",""
-"9402LL",112,"",""
-"9402LL",102,"",""
-"9402LL",98,"",""
-"9402LL",96,"",""
-"9402LL",100,"",""
-"9402LL",108,"A",""
-"9402LL",106,"A",""
-"9402LL",108,"",""
-"9402LL",104,"",""
-"9402LL",110,"",""
-"9402LL",106,"",""
-"9402LM",156,"",""
-"9402LM",170,"",""
-"9402LM",164,"",""
-"9402LM",160,"",""
-"9402LM",154,"",""
-"9402LM",156,"A",""
-"9402LM",158,"",""
-"9402LM",152,"",""
-"9402LM",156,"D",""
-"9402LM",156,"F",""
-"9402LM",156,"C",""
-"9402LM",166,"",""
-"9402LM",144,"",""
-"9402LM",146,"",""
-"9402LM",168,"",""
-"9402LM",156,"B",""
-"9402LM",142,"",""
-"9402LM",156,"G",""
-"9402LM",162,"",""
-"9402LM",156,"E",""
-"9402LM",140,"",""
-"9402LM",138,"",""
-"9402LM",136,"",""
-"9402LM",156,"H",""
-"9402LN",176,"",""
-"9402LN",178,"",""
-"9402LN",184,"",""
-"9402LN",180,"",""
-"9402LN",194,"",""
-"9402LN",188,"",""
-"9402LN",180,"",""
-"9402LN",190,"",""
-"9402LN",182,"",""
-"9402LN",186,"",""
-"9402LN",192,"",""
-"9402LN",184,"A",""
-"9402LP",244,"",""
-"9402LP",240,"",""
-"9402LP",244,"",""
-"9402LP",230,"",""
-"9402LP",250,"",""
-"9402LP",248,"",""
-"9402LP",246,"",""
-"9402LP",230,"",""
-"9402LP",242,"",""
-"9402LP",222,"",""
-"9402LP",242,"",""
-"9402LP",242,"",""
-"9402LP",230,"",""
-"9402LP",230,"B",""
-"9402LP",230,"B",""
-"9402LP",230,"A",""
-"9402LP",238,"",""
-"9402LR",270,"",""
-"9402LR",268,"",""
-"9402LR",266,"",""
-"9402LR",284,"",""
-"9402LR",252,"",""
-"9402LR",282,"",""
-"9402LR",272,"",""
-"9402LR",264,"",""
-"9402LR",262,"",""
-"9402LR",274,"",""
-"9402LR",278,"",""
-"9402LR",288,"",""
-"9402LR",264,"",""
-"9402LR",258,"",""
-"9402LR",276,"",""
-"9402LR",286,"",""
-"9402LR",262,"",""
-"9402LR",260,"",""
-"9402LR",258,"A",""
-"9402LR",262,"",""
-"9402LS",304,"",""
-"9402LS",296,"",""
-"9402LS",308,"",""
-"9402LS",290,"",""
-"9402LS",312,"",""
-"9402LS",294,"",""
-"9402LS",306,"",""
-"9402LS",314,"",""
-"9402LS",302,"",""
-"9402LS",300,"",""
-"9402LS",292,"",""
-"9402LS",310,"",""
-"9402LS",318,"",""
-"9402LS",316,"",""
-"9402LT",340,"",""
-"9402LT",352,"",""
-"9402LT",336,"",""
-"9402LT",322,"",""
-"9402LT",330,"",""
-"9402LT",332,"",""
-"9402LT",350,"A",""
-"9402LT",350,"",""
-"9402LT",350,"A",""
-"9402LT",338,"",""
-"9402LT",334,"",""
-"9402LT",324,"",""
-"9402LT",320,"",""
-"9402LT",350,"A",""
-"9402LT",328,"",""
-"9402LT",326,"",""
-"9402NA",1,"",""
-"9402NA",29,"",""
-"9402NA",19,"",""
-"9402NA",3,"",""
-"9402NA",17,"",""
-"9402NA",25,"",""
-"9402NA",27,"",""
-"9402NA",23,"",""
-"9402NA",31,"",""
-"9402NA",21,"",""
-"9402NA",15,"",""
-"9402NA",9,"",""
-"9402NA",7,"",""
-"9402NA",13,"",""
-"9402NA",11,"",""
-"9402NA",5,"",""
-"9402NB",59,"",""
-"9402NB",33,"",""
-"9402NB",67,"",""
-"9402NB",61,"",""
-"9402NB",39,"",""
-"9402NB",33,"A",""
-"9402NB",57,"",""
-"9402NB",35,"",""
-"9402NB",55,"",""
-"9402NB",53,"",""
-"9402NB",47,"",""
-"9402NB",37,"",""
-"9402NB",49,"",""
-"9402NB",45,"",""
-"9402NB",63,"",""
-"9402NB",65,"",""
-"9402NB",43,"",""
-"9402NB",51,"",""
-"9402NB",69,"",""
-"9402NB",41,"",""
-"9402NB",71,"",""
-"9402NB",33,"A",""
-"9402NC",77,"",""
-"9402NC",81,"",""
-"9402NC",101,"",""
-"9402NC",73,"A",""
-"9402NC",87,"",""
-"9402NC",83,"",""
-"9402NC",97,"",""
-"9402NC",91,"",""
-"9402NC",89,"",""
-"9402NC",107,"",""
-"9402NC",75,"",""
-"9402NC",99,"",""
-"9402NC",79,"",""
-"9402NC",85,"",""
-"9402NC",73,"A",""
-"9402NC",93,"",""
-"9402NC",105,"",""
-"9402NC",73,"",""
-"9402NC",95,"",""
-"9402NC",103,"",""
-"9402ND",6,"",""
-"9402ND",16,"",""
-"9402ND",26,"",""
-"9402ND",24,"",""
-"9402ND",2,"",""
-"9402ND",4,"",""
-"9402ND",22,"",""
-"9402ND",10,"",""
-"9402ND",8,"",""
-"9402ND",14,"",""
-"9402ND",12,"",""
-"9402ND",18,"",""
-"9402ND",20,"",""
-"9402NG",11,"",""
-"9402NG",19,"",""
-"9402NG",7,"",""
-"9402NG",3,"",""
-"9402NG",13,"",""
-"9402NG",1,"",""
-"9402NG",21,"",""
-"9402NG",9,"",""
-"9402NG",15,"",""
-"9402NG",5,"",""
-"9402NG",17,"",""
-"9402NK",119,"",""
-"9402NK",125,"",""
-"9402NK",123,"",""
-"9402NK",129,"",""
-"9402NK",193,"",""
-"9402NK",195,"",""
-"9402NK",131,"",""
-"9402NK",133,"",""
-"9402NK",113,"",""
-"9402NK",121,"",""
-"9402NK",191,"",""
-"9402NK",189,"",""
-"9402NK",179,"",""
-"9402NK",187,"",""
-"9402NK",127,"",""
-"9402NK",177,"",""
-"9402NK",117,"",""
-"9402NK",135,"",""
-"9402NK",185,"",""
-"9402NK",145,"",""
-"9402NK",181,"",""
-"9402NK",167,"",""
-"9402NK",165,"",""
-"9402NK",169,"",""
-"9402NK",159,"",""
-"9402NK",115,"",""
-"9402NK",183,"",""
-"9402NK",149,"",""
-"9402NK",173,"",""
-"9402NK",109,"",""
-"9402NK",155,"",""
-"9402NK",147,"",""
-"9402NK",139,"",""
-"9402NK",171,"",""
-"9402NK",157,"",""
-"9402NK",161,"",""
-"9402NK",151,"",""
-"9402NK",175,"",""
-"9402NK",143,"",""
-"9402NK",153,"",""
-"9402NK",137,"",""
-"9402NK",111,"",""
-"9402NK",141,"",""
-"9402NK",163,"",""
-"9402NL",63,"",""
-"9402NL",39,"",""
-"9402NL",11,"",""
-"9402NL",19,"",""
-"9402NL",1,"",""
-"9402NL",33,"",""
-"9402NL",71,"",""
-"9402NL",7,"",""
-"9402NL",31,"",""
-"9402NL",51,"",""
-"9402NL",69,"",""
-"9402NL",25,"",""
-"9402NL",21,"",""
-"9402NL",39,"A",""
-"9402NL",17,"",""
-"9402NL",61,"",""
-"9402NL",59,"",""
-"9402NL",3,"",""
-"9402NL",37,"",""
-"9402NL",67,"",""
-"9402NL",23,"",""
-"9402NL",29,"",""
-"9402NL",5,"",""
-"9402NL",41,"",""
-"9402NL",65,"",""
-"9402NL",35,"",""
-"9402NL",9,"",""
-"9402NL",55,"",""
-"9402NL",27,"",""
-"9402NL",13,"",""
-"9402NL",57,"",""
-"9402NL",53,"",""
-"9402NL",15,"",""
-"9402NL",47,"",""
-"9402NL",49,"",""
-"9402NL",45,"",""
-"9402NL",43,"",""
-"9402NM",25,"",""
-"9402NM",15,"",""
-"9402NM",21,"",""
-"9402NM",5,"",""
-"9402NM",7,"",""
-"9402NM",23,"",""
-"9402NM",17,"",""
-"9402NM",13,"",""
-"9402NM",11,"",""
-"9402NM",9,"",""
-"9402NM",19,"",""
-"9402NM",3,"",""
-"9402NM",1,"",""
-"9402NN",8,"",""
-"9402NN",16,"",""
-"9402NN",4,"",""
-"9402NN",10,"",""
-"9402NN",20,"",""
-"9402NN",6,"",""
-"9402NN",18,"",""
-"9402NN",14,"",""
-"9402NN",22,"",""
-"9402NN",12,"",""
-"9402NN",2,"",""
-"9402NT",70,"",""
-"9402NT",70,"A",""
-"9402NT",70,"",""
-"9402NT",70,"",""
-"9402NT",70,"A",""
-"9402NV",2,"",""
-"9402NV",14,"",""
-"9402NV",10,"",""
-"9402NV",4,"",""
-"9402NV",36,"",""
-"9402NV",28,"A",""
-"9402NV",46,"",""
-"9402NV",42,"",""
-"9402NV",44,"",""
-"9402NV",34,"",""
-"9402NV",38,"",""
-"9402NV",24,"",""
-"9402NV",28,"A",""
-"9402NV",18,"",""
-"9402NV",30,"",""
-"9402NV",6,"",""
-"9402NV",40,"",""
-"9402NV",32,"",""
-"9402NV",12,"",""
-"9402NV",8,"",""
-"9402NV",26,"",""
-"9402NV",50,"",""
-"9402NV",20,"",""
-"9402NV",28,"",""
-"9402NV",48,"",""
-"9402NV",16,"",""
-"9402NV",22,"",""
-"9402NW",84,"",""
-"9402NW",92,"",""
-"9402NW",52,"",""
-"9402NW",94,"",""
-"9402NW",64,"",""
-"9402NW",66,"",""
-"9402NW",62,"",""
-"9402NW",76,"",""
-"9402NW",60,"",""
-"9402NW",56,"",""
-"9402NW",54,"",""
-"9402NW",58,"",""
-"9402NW",72,"",""
-"9402NW",90,"",""
-"9402NW",78,"",""
-"9402NW",74,"",""
-"9402NW",86,"",""
-"9402NW",96,"",""
-"9402NW",80,"",""
-"9402NW",82,"",""
-"9402NW",88,"",""
-"9402NW",68,"",""
-"9402NW",70,"",""
-"9402NX",146,"",""
-"9402NX",116,"",""
-"9402NX",126,"",""
-"9402NX",120,"",""
-"9402NX",136,"",""
-"9402NX",130,"",""
-"9402NX",132,"",""
-"9402NX",150,"",""
-"9402NX",148,"",""
-"9402NX",118,"",""
-"9402NX",154,"",""
-"9402NX",124,"",""
-"9402NX",134,"",""
-"9402NX",138,"",""
-"9402NX",100,"",""
-"9402NX",166,"",""
-"9402NX",98,"A",""
-"9402NX",112,"",""
-"9402NX",98,"",""
-"9402NX",114,"",""
-"9402NX",164,"",""
-"9402NX",158,"",""
-"9402NX",128,"",""
-"9402NX",162,"",""
-"9402NX",140,"",""
-"9402NX",110,"",""
-"9402NX",144,"",""
-"9402NX",102,"",""
-"9402NX",104,"",""
-"9402NX",98,"A",""
-"9402NX",152,"",""
-"9402NX",122,"",""
-"9402NX",108,"",""
-"9402NX",156,"",""
-"9402NX",142,"",""
-"9402NX",160,"",""
-"9402NX",106,"",""
-"9402NZ",11,"",""
-"9402NZ",3,"",""
-"9402NZ",7,"",""
-"9402NZ",41,"",""
-"9402NZ",43,"",""
-"9402NZ",51,"",""
-"9402NZ",19,"",""
-"9402NZ",5,"",""
-"9402NZ",45,"",""
-"9402NZ",33,"",""
-"9402NZ",25,"",""
-"9402NZ",47,"",""
-"9402NZ",39,"",""
-"9402NZ",55,"",""
-"9402NZ",27,"",""
-"9402NZ",53,"",""
-"9402NZ",23,"",""
-"9402NZ",37,"",""
-"9402NZ",13,"",""
-"9402NZ",29,"",""
-"9402NZ",49,"",""
-"9402NZ",15,"",""
-"9402NZ",35,"",""
-"9402NZ",21,"",""
-"9402NZ",17,"",""
-"9402NZ",9,"",""
-"9402NZ",31,"",""
-"9402NZ",1,"",""
-"9403AM",5,"B",""
-"9403AM",1,"",""
-"9403AM",3,"",""
-"9403AM",7,"B",""
-"9403AM",7,"G",""
-"9403AM",7,"F",""
-"9403AM",7,"",""
-"9403AM",7,"D",""
-"9403AM",7,"C",""
-"9403AM",7,"A",""
-"9403AM",5,"A",""
-"9403AM",5,"",""
-"9403AM",3,"",""
-"9403AM",7,"H",""
-"9403AM",7,"",""
-"9403AM",7,"D",""
-"9403AM",7,"H",""
-"9403AM",7,"F",""
-"9403AM",7,"E",""
-"9403AM",9,"",""
-"9403AM",7,"G",""
-"9403AM",7,"E",""
-"9403AM",7,"B",""
-"9403AM",7,"C",""
-"9403AM",9,"",""
-"9403AM",7,"A",""
-"9403AM",5,"C",""
-"9403AM",7,"A",""
-9403AM,A.H.G. Fokkerstraat,5,A,
-9403AM,A.H.G. Fokkerstraat,5,,
-9403AM,A.H.G. Fokkerstraat,7,,
-9402NT,Anne de Vriesstraat,70,A,
-9402NT,Anne de Vriesstraat,70,,
-9402NZ,Anne de Vriesstraat,1,,
-9402NZ,Anne de Vriesstraat,3,,
-9402NZ,Anne de Vriesstraat,5,,
-9402NZ,Anne de Vriesstraat,7,,
-9402NZ,Anne de Vriesstraat,9,,
-9402NZ,Anne de Vriesstraat,11,,
-9402NZ,Anne de Vriesstraat,13,,
-9402NZ,Anne de Vriesstraat,15,,
-9402NZ,Anne de Vriesstraat,17,,
-9402NZ,Anne de Vriesstraat,19,,
-9402NZ,Anne de Vriesstraat,21,,
-9402NZ,Anne de Vriesstraat,23,,
-9402NZ,Anne de Vriesstraat,25,,
-9402NZ,Anne de Vriesstraat,27,,
-9402NZ,Anne de Vriesstraat,29,,
-9402NZ,Anne de Vriesstraat,31,,
-9402NZ,Anne de Vriesstraat,33,,
-9402NZ,Anne de Vriesstraat,35,,
-9402NZ,Anne de Vriesstraat,37,,
-9402NZ,Anne de Vriesstraat,39,,
-9402NZ,Anne de Vriesstraat,41,,
-9402NZ,Anne de Vriesstraat,43,,
-9402NZ,Anne de Vriesstraat,45,,
-9402NZ,Anne de Vriesstraat,47,,
-9402NZ,Anne de Vriesstraat,49,,
-9402NZ,Anne de Vriesstraat,51,,
-9402NZ,Anne de Vriesstraat,53,,
-9402NZ,Anne de Vriesstraat,55,,
-9402ND,Bilderdijkplantsoen,2,,
-9402ND,Bilderdijkplantsoen,4,,
-9402ND,Bilderdijkplantsoen,6,,
-9402ND,Bilderdijkplantsoen,8,,
-9402ND,Bilderdijkplantsoen,10,,
-9402ND,Bilderdijkplantsoen,12,,
-9402ND,Bilderdijkplantsoen,14,,
-9402ND,Bilderdijkplantsoen,16,,
-9402ND,Bilderdijkplantsoen,18,,
-9402ND,Bilderdijkplantsoen,20,,
-9402ND,Bilderdijkplantsoen,22,,
-9402ND,Bilderdijkplantsoen,24,,
-9402ND,Bilderdijkplantsoen,26,,
-9402NG,Bilderdijkplantsoen,1,,
-9402NG,Bilderdijkplantsoen,3,,
-9402NG,Bilderdijkplantsoen,5,,
-9402NG,Bilderdijkplantsoen,7,,
-9402NG,Bilderdijkplantsoen,9,,
-9402NG,Bilderdijkplantsoen,11,,
-9402NG,Bilderdijkplantsoen,13,,
-9402NG,Bilderdijkplantsoen,15,,
-9402NG,Bilderdijkplantsoen,17,,
-9402NG,Bilderdijkplantsoen,19,,
-9402NG,Bilderdijkplantsoen,21,,
-9403AM,A.H.G. Fokkerstraat,1,,
-9402LL,Groningerstraat,96,,
-9402LL,Groningerstraat,98,,
-9402LL,Groningerstraat,100,,
-9402LL,Groningerstraat,102,,
-9402LL,Groningerstraat,104,,
-9402LL,Groningerstraat,106,A,
-9402LL,Groningerstraat,106,,
-9402LL,Groningerstraat,108,A,
-9402LL,Groningerstraat,108,,
-9402LL,Groningerstraat,110,,
-9402LL,Groningerstraat,112,,
-9402LM,Groningerstraat,136,,
-9402LM,Groningerstraat,138,,
-9402LM,Groningerstraat,140,,
-9402LM,Groningerstraat,142,,
-9402LM,Groningerstraat,144,,
-9402LM,Groningerstraat,146,,
-9402LM,Groningerstraat,152,,
-9402LM,Groningerstraat,154,,
-9402LM,Groningerstraat,156,A,
-9402LM,Groningerstraat,156,B,
-9402LM,Groningerstraat,156,C,
-9402LM,Groningerstraat,156,D,
-9402LM,Groningerstraat,156,E,
-9402LM,Groningerstraat,156,F,
-9402LM,Groningerstraat,156,G,
-9402LM,Groningerstraat,156,H,
-9402LM,Groningerstraat,156,,
-9402LM,Groningerstraat,158,,
-9402LM,Groningerstraat,160,,
-9402LM,Groningerstraat,162,,
-9402LM,Groningerstraat,164,,
-9402LM,Groningerstraat,166,,
-9402LM,Groningerstraat,168,,
-9402LM,Groningerstraat,170,,
-9402LN,Groningerstraat,176,,
-9402LN,Groningerstraat,178,,
-9402LN,Groningerstraat,182,,
-9402LN,Groningerstraat,184,A,
-9402LN,Groningerstraat,184,,
-9402LN,Groningerstraat,186,,
-9402LN,Groningerstraat,188,,
-9402LN,Groningerstraat,190,,
-9402LN,Groningerstraat,192,,
-9402LN,Groningerstraat,194,,
-9402LP,Groningerstraat,230,A,
-9402LP,Groningerstraat,230,B,
-9402LP,Groningerstraat,230,,
-9402LP,Groningerstraat,238,,
-9402LP,Groningerstraat,240,,
-9402LP,Groningerstraat,242,,
-9402LP,Groningerstraat,244,,
-9402LP,Groningerstraat,246,,
-9402LP,Groningerstraat,248,,
-9402LP,Groningerstraat,250,,
-9402LR,Groningerstraat,252,,
-9402LR,Groningerstraat,258,A,
-9402LR,Groningerstraat,258,,
-9402LR,Groningerstraat,260,,
-9402LR,Groningerstraat,262,,
-9402LR,Groningerstraat,264,,
-9402LR,Groningerstraat,266,,
-9402LR,Groningerstraat,268,,
-9402LR,Groningerstraat,270,,
-9402LR,Groningerstraat,272,,
-9402LR,Groningerstraat,274,,
-9402LR,Groningerstraat,276,,
-9402LR,Groningerstraat,278,,
-9402LR,Groningerstraat,282,,
-9402LR,Groningerstraat,284,,
-9402LR,Groningerstraat,286,,
-9402LR,Groningerstraat,288,,
-9402LS,Groningerstraat,290,,
-9402LS,Groningerstraat,292,,
-9402LS,Groningerstraat,294,,
-9402LS,Groningerstraat,296,,
-9402LS,Groningerstraat,300,,
-9402LS,Groningerstraat,302,,
-9402LS,Groningerstraat,304,,
-9402LS,Groningerstraat,306,,
-9402LS,Groningerstraat,308,,
-9402LS,Groningerstraat,310,,
-9402LS,Groningerstraat,312,,
-9402LS,Groningerstraat,314,,
-9402LS,Groningerstraat,316,,
-9402LS,Groningerstraat,318,,
-9402LT,Groningerstraat,320,,
-9402LT,Groningerstraat,322,,
-9402LT,Groningerstraat,324,,
-9402LT,Groningerstraat,326,,
-9402LT,Groningerstraat,328,,
-9402LT,Groningerstraat,330,,
-9402LT,Groningerstraat,332,,
-9402LT,Groningerstraat,334,,
-9402LT,Groningerstraat,336,,
-9402LT,Groningerstraat,338,,
-9402LT,Groningerstraat,340,,
-9402LT,Groningerstraat,350,A,
-9402LT,Groningerstraat,352,,
-9402AG,het Kanaal,211,,
-9402AG,het Kanaal,213,,
-9402AG,het Kanaal,215,,
-9402AG,het Kanaal,217,,
-9402AG,het Kanaal,219,,
-9402AG,het Kanaal,221,,
-9402AG,het Kanaal,223,,
-9402AG,het Kanaal,225,,
-9402AG,het Kanaal,227,,
-9402AG,het Kanaal,229,,
-9402AH,het Kanaal,231,,
-9402AH,het Kanaal,233,,
-9402AH,het Kanaal,235,,
-9402AH,het Kanaal,237,A,
-9402AH,het Kanaal,239,A,
-9402AH,het Kanaal,237,B,
-9402AH,het Kanaal,237,,
-9402AH,het Kanaal,239,,
-9402AH,het Kanaal,241,,
-9402AH,het Kanaal,243,,
-9402AH,het Kanaal,245,,
-9402AH,het Kanaal,247,,
-9402NL,Huygensstraat,1,,
-9402NL,Huygensstraat,3,,
-9402NL,Huygensstraat,5,,
-9402NL,Huygensstraat,7,,
-9402NL,Huygensstraat,9,,
-9402NL,Huygensstraat,11,,
-9402NL,Huygensstraat,13,,
-9402NL,Huygensstraat,15,,
-9402NL,Huygensstraat,17,,
-9402NL,Huygensstraat,19,,
-9402NL,Huygensstraat,21,,
-9402NL,Huygensstraat,23,,
-9402NL,Huygensstraat,25,,
-9402NL,Huygensstraat,27,,
-9402NL,Huygensstraat,29,,
-9402NL,Huygensstraat,31,,
-9402NL,Huygensstraat,33,,
-9402NL,Huygensstraat,35,,
-9402NL,Huygensstraat,37,,
-9402NL,Huygensstraat,39,A,
-9402NL,Huygensstraat,39,,
-9402NL,Huygensstraat,41,,
-9402NL,Huygensstraat,43,,
-9402NL,Huygensstraat,45,,
-9402NL,Huygensstraat,47,,
-9402NL,Huygensstraat,49,,
-9402NL,Huygensstraat,51,,
-9402NL,Huygensstraat,53,,
-9402NL,Huygensstraat,55,,
-9402NL,Huygensstraat,57,,
-9402NL,Huygensstraat,59,,
-9402NL,Huygensstraat,61,,
-9402NL,Huygensstraat,63,,
-9402NL,Huygensstraat,65,,
-9402NL,Huygensstraat,67,,
-9402NL,Huygensstraat,69,,
-9402NL,Huygensstraat,71,,
-9402NM,Jacob Catslaan,1,,
-9402NM,Jacob Catslaan,3,,
-9402NM,Jacob Catslaan,5,,
-9402NM,Jacob Catslaan,7,,
-9402NM,Jacob Catslaan,9,,
-9402NM,Jacob Catslaan,11,,
-9402NM,Jacob Catslaan,13,,
-9402NM,Jacob Catslaan,15,,
-9402NM,Jacob Catslaan,17,,
-9402NM,Jacob Catslaan,19,,
-9402NM,Jacob Catslaan,21,,
-9402NM,Jacob Catslaan,23,,
-9402NM,Jacob Catslaan,25,,
-9402NN,Jacob Catslaan,2,,
-9402NN,Jacob Catslaan,4,,
-9402NN,Jacob Catslaan,6,,
-9402NN,Jacob Catslaan,8,,
-9402NN,Jacob Catslaan,10,,
-9402NN,Jacob Catslaan,12,,
-9402NN,Jacob Catslaan,14,,
-9402NN,Jacob Catslaan,16,,
-9402NN,Jacob Catslaan,18,,
-9402NN,Jacob Catslaan,20,,
-9402NN,Jacob Catslaan,22,,
-9403AM,A.H.G. Fokkerstraat,3,,
-9402NA,Vondellaan,1,,
-9402NA,Vondellaan,3,,
-9402NA,Vondellaan,5,,
-9402NA,Vondellaan,7,,
-9402NA,Vondellaan,9,,
-9402NA,Vondellaan,11,,
-9402NA,Vondellaan,13,,
-9402NA,Vondellaan,15,,
-9402NA,Vondellaan,17,,
-9402NA,Vondellaan,19,,
-9402NA,Vondellaan,21,,
-9402NA,Vondellaan,23,,
-9402NA,Vondellaan,25,,
-9402NA,Vondellaan,27,,
-9402NA,Vondellaan,29,,
-9402NA,Vondellaan,31,,
-9402NB,Vondellaan,33,,
-9402NB,Vondellaan,35,,
-9402NB,Vondellaan,37,,
-9402NB,Vondellaan,39,,
-9402NB,Vondellaan,41,,
-9402NB,Vondellaan,43,,
-9402NB,Vondellaan,45,,
-9402NB,Vondellaan,47,,
-9402NB,Vondellaan,49,,
-9402NB,Vondellaan,51,,
-9402NB,Vondellaan,53,,
-9402NB,Vondellaan,55,,
-9402NB,Vondellaan,57,,
-9402NB,Vondellaan,59,,
-9402NB,Vondellaan,61,,
-9402NB,Vondellaan,63,,
-9402NB,Vondellaan,65,,
-9402NB,Vondellaan,67,,
-9402NB,Vondellaan,69,,
-9402NB,Vondellaan,71,,
-9402NC,Vondellaan,73,,
-9402NC,Vondellaan,75,,
-9402NC,Vondellaan,77,,
-9402NC,Vondellaan,79,,
-9402NC,Vondellaan,81,,
-9402NC,Vondellaan,83,,
-9402NC,Vondellaan,85,,
-9402NC,Vondellaan,87,,
-9402NC,Vondellaan,89,,
-9402NC,Vondellaan,91,,
-9402NC,Vondellaan,93,,
-9402NC,Vondellaan,95,,
-9402NC,Vondellaan,97,,
-9402NC,Vondellaan,99,,
-9402NC,Vondellaan,101,,
-9402NC,Vondellaan,103,,
-9402NC,Vondellaan,105,,
-9402NC,Vondellaan,107,,
-9402NK,Vondellaan,109,,
-9402NK,Vondellaan,111,,
-9402NK,Vondellaan,113,,
-9402NK,Vondellaan,115,,
-9402NK,Vondellaan,117,,
-9402NK,Vondellaan,119,,
-9402NK,Vondellaan,121,,
-9402NK,Vondellaan,123,,
-9402NK,Vondellaan,125,,
-9402NK,Vondellaan,127,,
-9402NK,Vondellaan,129,,
-9402NK,Vondellaan,131,,
-9402NK,Vondellaan,133,,
-9402NK,Vondellaan,135,,
-9402NK,Vondellaan,137,,
-9402NK,Vondellaan,139,,
-9402NK,Vondellaan,141,,
-9402NK,Vondellaan,143,,
-9402NK,Vondellaan,145,,
-9402NK,Vondellaan,147,,
-9402NK,Vondellaan,149,,
-9402NK,Vondellaan,151,,
-9402NK,Vondellaan,153,,
-9402NK,Vondellaan,155,,
-9402NK,Vondellaan,157,,
-9402NK,Vondellaan,159,,
-9402NK,Vondellaan,161,,
-9402NK,Vondellaan,163,,
-9402NK,Vondellaan,165,,
-9402NK,Vondellaan,167,,
-9402NK,Vondellaan,169,,
-9402NK,Vondellaan,171,,
-9402NK,Vondellaan,173,,
-9402NK,Vondellaan,175,,
-9402NK,Vondellaan,177,,
-9402NK,Vondellaan,179,,
-9402NK,Vondellaan,181,,
-9402NK,Vondellaan,183,,
-9402NK,Vondellaan,185,,
-9402NK,Vondellaan,187,,
-9402NK,Vondellaan,189,,
-9402NK,Vondellaan,191,,
-9402NK,Vondellaan,193,,
-9402NK,Vondellaan,195,,
-9402NV,Vondellaan,2,,
-9402NV,Vondellaan,4,,
-9402NV,Vondellaan,6,,
-9402NV,Vondellaan,8,,
-9402NV,Vondellaan,10,,
-9402NV,Vondellaan,12,,
-9402NV,Vondellaan,14,,
-9402NV,Vondellaan,16,,
-9402NV,Vondellaan,18,,
-9402NV,Vondellaan,20,,
-9402NV,Vondellaan,22,,
-9402NV,Vondellaan,24,,
-9402NV,Vondellaan,26,,
-9402NV,Vondellaan,28,,
-9402NV,Vondellaan,30,,
-9402NV,Vondellaan,32,,
-9402NV,Vondellaan,34,,
-9402NV,Vondellaan,36,,
-9402NV,Vondellaan,38,,
-9402NV,Vondellaan,40,,
-9402NV,Vondellaan,42,,
-9402NV,Vondellaan,44,,
-9402NV,Vondellaan,46,,
-9402NV,Vondellaan,48,,
-9402NV,Vondellaan,50,,
-9402NW,Vondellaan,52,,
-9402NW,Vondellaan,54,,
-9402NW,Vondellaan,56,,
-9402NW,Vondellaan,58,,
-9402NW,Vondellaan,60,,
-9402NW,Vondellaan,62,,
-9402NW,Vondellaan,64,,
-9402NW,Vondellaan,66,,
-9402NW,Vondellaan,68,,
-9402NW,Vondellaan,70,,
-9402NW,Vondellaan,72,,
-9402NW,Vondellaan,74,,
-9402NW,Vondellaan,76,,
-9402NW,Vondellaan,78,,
-9402NW,Vondellaan,80,,
-9402NW,Vondellaan,82,,
-9402NW,Vondellaan,84,,
-9402NW,Vondellaan,86,,
-9402NW,Vondellaan,88,,
-9402NW,Vondellaan,90,,
-9402NW,Vondellaan,92,,
-9402NW,Vondellaan,94,,
-9402NW,Vondellaan,96,,
-9402NX,Vondellaan,98,,
-9402NX,Vondellaan,100,,
-9402NX,Vondellaan,102,,
-9402NX,Vondellaan,104,,
-9402NX,Vondellaan,106,,
-9402NX,Vondellaan,108,,
-9402NX,Vondellaan,110,,
-9402NX,Vondellaan,112,,
-9402NX,Vondellaan,114,,
-9402NX,Vondellaan,116,,
-9402NX,Vondellaan,118,,
-9402NX,Vondellaan,120,,
-9402NX,Vondellaan,122,,
-9402NX,Vondellaan,124,,
-9402NX,Vondellaan,126,,
-9402NX,Vondellaan,128,,
-9402NX,Vondellaan,130,,
-9402NX,Vondellaan,132,,
-9402NX,Vondellaan,134,,
-9402NX,Vondellaan,136,,
-9402NX,Vondellaan,138,,
-9402NX,Vondellaan,140,,
-9402NX,Vondellaan,142,,
-9402NX,Vondellaan,144,,
-9402NX,Vondellaan,146,,
-9402NX,Vondellaan,148,,
-9402NX,Vondellaan,150,,
-9402NX,Vondellaan,152,,
-9402NX,Vondellaan,154,,
-9402NX,Vondellaan,156,,
-9402NX,Vondellaan,158,,
-9402NX,Vondellaan,160,,
-9402NX,Vondellaan,162,,
-9402NX,Vondellaan,164,,
-9402NX,Vondellaan,166,,
-9403AM,A.H.G. Fokkerstraat,9,,
-9403AM,A.H.G. Fokkerstraat,5,B,
-9402NT,Anne de Vriesstraat,70,,
-9402LN,Groningerstraat,180,,
-9402LP,Groningerstraat,242,,
-9402LP,Groningerstraat,230,,
-9402LP,Groningerstraat,222,,
-9402LR,Groningerstraat,262,,
-9402LT,Groningerstraat,350,A,
-9402LT,Groningerstraat,350,,
-9402AH,het Kanaal,239,A,
-9402AH,het Kanaal,247,,
-9402AH,het Kanaal,247,,
-9402AH,het Kanaal,247,A,
-9402AH,het Kanaal,247,A,
-9402NB,Vondellaan,33,A,
-9402NC,Vondellaan,73,A,
-9402NV,Vondellaan,28,A,
-9402NX,Vondellaan,98,A,
-9403AM,A.H.G. Fokkerstraat,5,C,
-9403AM,A.H.G. Fokkerstraat,7,A,
-9403AM,A.H.G. Fokkerstraat,7,B,
-9403AM,A.H.G. Fokkerstraat,7,C,
-9403AM,A.H.G. Fokkerstraat,7,D,
-9403AM,A.H.G. Fokkerstraat,7,E,
-9403AM,A.H.G. Fokkerstraat,7,F,
-9403AM,A.H.G. Fokkerstraat,7,G,
-9403AM,A.H.G. Fokkerstraat,7,H,
-9403AM,A.H.G. Fokkerstraat,7,,
-9403AM,A.H.G. Fokkerstraat,7,A,
-9402NL,Huygensstraat,41,,
-9402NL,Huygensstraat,41,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+het Kanaal,211,"","",9402AG,Assen
+het Kanaal,213,"","",9402AG,Assen
+het Kanaal,215,"","",9402AG,Assen
+het Kanaal,217,"","",9402AG,Assen
+het Kanaal,219,"","",9402AG,Assen
+het Kanaal,221,"","",9402AG,Assen
+het Kanaal,223,"","",9402AG,Assen
+het Kanaal,225,"","",9402AG,Assen
+het Kanaal,227,"","",9402AG,Assen
+het Kanaal,229,"","",9402AG,Assen
+het Kanaal,231,"","",9402AH,Assen
+het Kanaal,233,"","",9402AH,Assen
+het Kanaal,235,"","",9402AH,Assen
+het Kanaal,237,"","",9402AH,Assen
+het Kanaal,237,A,"",9402AH,Assen
+het Kanaal,237,B,"",9402AH,Assen
+het Kanaal,237,B,"",9402AH,Assen
+het Kanaal,239,"","",9402AH,Assen
+het Kanaal,239,A,"",9402AH,Assen
+het Kanaal,239,A,"",9402AH,Assen
+het Kanaal,239,A,"",9402AH,Assen
+het Kanaal,241,"","",9402AH,Assen
+het Kanaal,243,"","",9402AH,Assen
+het Kanaal,245,"","",9402AH,Assen
+het Kanaal,247,"","",9402AH,Assen
+het Kanaal,247,"","",9402AH,Assen
+het Kanaal,247,"","",9402AH,Assen
+het Kanaal,247,"","",9402AH,Assen
+het Kanaal,247,A,"",9402AH,Assen
+het Kanaal,247,A,"",9402AH,Assen
+Groningerstraat,100,"","",9402LL,Assen
+Groningerstraat,102,"","",9402LL,Assen
+Groningerstraat,104,"","",9402LL,Assen
+Groningerstraat,106,"","",9402LL,Assen
+Groningerstraat,106,A,"",9402LL,Assen
+Groningerstraat,108,"","",9402LL,Assen
+Groningerstraat,108,A,"",9402LL,Assen
+Groningerstraat,110,"","",9402LL,Assen
+Groningerstraat,112,"","",9402LL,Assen
+Groningerstraat,96,"","",9402LL,Assen
+Groningerstraat,98,"","",9402LL,Assen
+Groningerstraat,136,"","",9402LM,Assen
+Groningerstraat,138,"","",9402LM,Assen
+Groningerstraat,140,"","",9402LM,Assen
+Groningerstraat,142,"","",9402LM,Assen
+Groningerstraat,144,"","",9402LM,Assen
+Groningerstraat,146,"","",9402LM,Assen
+Groningerstraat,152,"","",9402LM,Assen
+Groningerstraat,154,"","",9402LM,Assen
+Groningerstraat,156,"","",9402LM,Assen
+Groningerstraat,156,A,"",9402LM,Assen
+Groningerstraat,156,B,"",9402LM,Assen
+Groningerstraat,156,C,"",9402LM,Assen
+Groningerstraat,156,D,"",9402LM,Assen
+Groningerstraat,156,E,"",9402LM,Assen
+Groningerstraat,156,F,"",9402LM,Assen
+Groningerstraat,156,G,"",9402LM,Assen
+Groningerstraat,156,H,"",9402LM,Assen
+Groningerstraat,158,"","",9402LM,Assen
+Groningerstraat,160,"","",9402LM,Assen
+Groningerstraat,162,"","",9402LM,Assen
+Groningerstraat,164,"","",9402LM,Assen
+Groningerstraat,166,"","",9402LM,Assen
+Groningerstraat,168,"","",9402LM,Assen
+Groningerstraat,170,"","",9402LM,Assen
+Groningerstraat,176,"","",9402LN,Assen
+Groningerstraat,178,"","",9402LN,Assen
+Groningerstraat,180,"","",9402LN,Assen
+Groningerstraat,180,"","",9402LN,Assen
+Groningerstraat,182,"","",9402LN,Assen
+Groningerstraat,184,"","",9402LN,Assen
+Groningerstraat,184,A,"",9402LN,Assen
+Groningerstraat,186,"","",9402LN,Assen
+Groningerstraat,188,"","",9402LN,Assen
+Groningerstraat,190,"","",9402LN,Assen
+Groningerstraat,192,"","",9402LN,Assen
+Groningerstraat,194,"","",9402LN,Assen
+Groningerstraat,222,"","",9402LP,Assen
+Groningerstraat,230,"","",9402LP,Assen
+Groningerstraat,230,"","",9402LP,Assen
+Groningerstraat,230,"","",9402LP,Assen
+Groningerstraat,230,A,"",9402LP,Assen
+Groningerstraat,230,B,"",9402LP,Assen
+Groningerstraat,230,B,"",9402LP,Assen
+Groningerstraat,238,"","",9402LP,Assen
+Groningerstraat,240,"","",9402LP,Assen
+Groningerstraat,242,"","",9402LP,Assen
+Groningerstraat,242,"","",9402LP,Assen
+Groningerstraat,242,"","",9402LP,Assen
+Groningerstraat,244,"","",9402LP,Assen
+Groningerstraat,244,"","",9402LP,Assen
+Groningerstraat,246,"","",9402LP,Assen
+Groningerstraat,248,"","",9402LP,Assen
+Groningerstraat,250,"","",9402LP,Assen
+Groningerstraat,252,"","",9402LR,Assen
+Groningerstraat,258,"","",9402LR,Assen
+Groningerstraat,258,A,"",9402LR,Assen
+Groningerstraat,260,"","",9402LR,Assen
+Groningerstraat,262,"","",9402LR,Assen
+Groningerstraat,262,"","",9402LR,Assen
+Groningerstraat,262,"","",9402LR,Assen
+Groningerstraat,264,"","",9402LR,Assen
+Groningerstraat,264,"","",9402LR,Assen
+Groningerstraat,266,"","",9402LR,Assen
+Groningerstraat,268,"","",9402LR,Assen
+Groningerstraat,270,"","",9402LR,Assen
+Groningerstraat,272,"","",9402LR,Assen
+Groningerstraat,274,"","",9402LR,Assen
+Groningerstraat,276,"","",9402LR,Assen
+Groningerstraat,278,"","",9402LR,Assen
+Groningerstraat,282,"","",9402LR,Assen
+Groningerstraat,284,"","",9402LR,Assen
+Groningerstraat,286,"","",9402LR,Assen
+Groningerstraat,288,"","",9402LR,Assen
+Groningerstraat,290,"","",9402LS,Assen
+Groningerstraat,292,"","",9402LS,Assen
+Groningerstraat,294,"","",9402LS,Assen
+Groningerstraat,296,"","",9402LS,Assen
+Groningerstraat,300,"","",9402LS,Assen
+Groningerstraat,302,"","",9402LS,Assen
+Groningerstraat,304,"","",9402LS,Assen
+Groningerstraat,306,"","",9402LS,Assen
+Groningerstraat,308,"","",9402LS,Assen
+Groningerstraat,310,"","",9402LS,Assen
+Groningerstraat,312,"","",9402LS,Assen
+Groningerstraat,314,"","",9402LS,Assen
+Groningerstraat,316,"","",9402LS,Assen
+Groningerstraat,318,"","",9402LS,Assen
+Groningerstraat,320,"","",9402LT,Assen
+Groningerstraat,322,"","",9402LT,Assen
+Groningerstraat,324,"","",9402LT,Assen
+Groningerstraat,326,"","",9402LT,Assen
+Groningerstraat,328,"","",9402LT,Assen
+Groningerstraat,330,"","",9402LT,Assen
+Groningerstraat,332,"","",9402LT,Assen
+Groningerstraat,334,"","",9402LT,Assen
+Groningerstraat,336,"","",9402LT,Assen
+Groningerstraat,338,"","",9402LT,Assen
+Groningerstraat,340,"","",9402LT,Assen
+Groningerstraat,350,"","",9402LT,Assen
+Groningerstraat,350,A,"",9402LT,Assen
+Groningerstraat,350,A,"",9402LT,Assen
+Groningerstraat,350,A,"",9402LT,Assen
+Groningerstraat,352,"","",9402LT,Assen
+Vondellaan,1,"","",9402NA,Assen
+Vondellaan,11,"","",9402NA,Assen
+Vondellaan,13,"","",9402NA,Assen
+Vondellaan,15,"","",9402NA,Assen
+Vondellaan,17,"","",9402NA,Assen
+Vondellaan,19,"","",9402NA,Assen
+Vondellaan,21,"","",9402NA,Assen
+Vondellaan,23,"","",9402NA,Assen
+Vondellaan,25,"","",9402NA,Assen
+Vondellaan,27,"","",9402NA,Assen
+Vondellaan,29,"","",9402NA,Assen
+Vondellaan,3,"","",9402NA,Assen
+Vondellaan,31,"","",9402NA,Assen
+Vondellaan,5,"","",9402NA,Assen
+Vondellaan,7,"","",9402NA,Assen
+Vondellaan,9,"","",9402NA,Assen
+Vondellaan,33,"","",9402NB,Assen
+Vondellaan,33,A,"",9402NB,Assen
+Vondellaan,33,A,"",9402NB,Assen
+Vondellaan,35,"","",9402NB,Assen
+Vondellaan,37,"","",9402NB,Assen
+Vondellaan,39,"","",9402NB,Assen
+Vondellaan,41,"","",9402NB,Assen
+Vondellaan,43,"","",9402NB,Assen
+Vondellaan,45,"","",9402NB,Assen
+Vondellaan,47,"","",9402NB,Assen
+Vondellaan,49,"","",9402NB,Assen
+Vondellaan,51,"","",9402NB,Assen
+Vondellaan,53,"","",9402NB,Assen
+Vondellaan,55,"","",9402NB,Assen
+Vondellaan,57,"","",9402NB,Assen
+Vondellaan,59,"","",9402NB,Assen
+Vondellaan,61,"","",9402NB,Assen
+Vondellaan,63,"","",9402NB,Assen
+Vondellaan,65,"","",9402NB,Assen
+Vondellaan,67,"","",9402NB,Assen
+Vondellaan,69,"","",9402NB,Assen
+Vondellaan,71,"","",9402NB,Assen
+Vondellaan,101,"","",9402NC,Assen
+Vondellaan,103,"","",9402NC,Assen
+Vondellaan,105,"","",9402NC,Assen
+Vondellaan,107,"","",9402NC,Assen
+Vondellaan,73,"","",9402NC,Assen
+Vondellaan,73,A,"",9402NC,Assen
+Vondellaan,73,A,"",9402NC,Assen
+Vondellaan,75,"","",9402NC,Assen
+Vondellaan,77,"","",9402NC,Assen
+Vondellaan,79,"","",9402NC,Assen
+Vondellaan,81,"","",9402NC,Assen
+Vondellaan,83,"","",9402NC,Assen
+Vondellaan,85,"","",9402NC,Assen
+Vondellaan,87,"","",9402NC,Assen
+Vondellaan,89,"","",9402NC,Assen
+Vondellaan,91,"","",9402NC,Assen
+Vondellaan,93,"","",9402NC,Assen
+Vondellaan,95,"","",9402NC,Assen
+Vondellaan,97,"","",9402NC,Assen
+Vondellaan,99,"","",9402NC,Assen
+Bilderdijkplantsoen,10,"","",9402ND,Assen
+Bilderdijkplantsoen,12,"","",9402ND,Assen
+Bilderdijkplantsoen,14,"","",9402ND,Assen
+Bilderdijkplantsoen,16,"","",9402ND,Assen
+Bilderdijkplantsoen,18,"","",9402ND,Assen
+Bilderdijkplantsoen,2,"","",9402ND,Assen
+Bilderdijkplantsoen,20,"","",9402ND,Assen
+Bilderdijkplantsoen,22,"","",9402ND,Assen
+Bilderdijkplantsoen,24,"","",9402ND,Assen
+Bilderdijkplantsoen,26,"","",9402ND,Assen
+Bilderdijkplantsoen,4,"","",9402ND,Assen
+Bilderdijkplantsoen,6,"","",9402ND,Assen
+Bilderdijkplantsoen,8,"","",9402ND,Assen
+Bilderdijkplantsoen,1,"","",9402NG,Assen
+Bilderdijkplantsoen,11,"","",9402NG,Assen
+Bilderdijkplantsoen,13,"","",9402NG,Assen
+Bilderdijkplantsoen,15,"","",9402NG,Assen
+Bilderdijkplantsoen,17,"","",9402NG,Assen
+Bilderdijkplantsoen,19,"","",9402NG,Assen
+Bilderdijkplantsoen,21,"","",9402NG,Assen
+Bilderdijkplantsoen,3,"","",9402NG,Assen
+Bilderdijkplantsoen,5,"","",9402NG,Assen
+Bilderdijkplantsoen,7,"","",9402NG,Assen
+Bilderdijkplantsoen,9,"","",9402NG,Assen
+Vondellaan,109,"","",9402NK,Assen
+Vondellaan,111,"","",9402NK,Assen
+Vondellaan,113,"","",9402NK,Assen
+Vondellaan,115,"","",9402NK,Assen
+Vondellaan,117,"","",9402NK,Assen
+Vondellaan,119,"","",9402NK,Assen
+Vondellaan,121,"","",9402NK,Assen
+Vondellaan,123,"","",9402NK,Assen
+Vondellaan,125,"","",9402NK,Assen
+Vondellaan,127,"","",9402NK,Assen
+Vondellaan,129,"","",9402NK,Assen
+Vondellaan,131,"","",9402NK,Assen
+Vondellaan,133,"","",9402NK,Assen
+Vondellaan,135,"","",9402NK,Assen
+Vondellaan,137,"","",9402NK,Assen
+Vondellaan,139,"","",9402NK,Assen
+Vondellaan,141,"","",9402NK,Assen
+Vondellaan,143,"","",9402NK,Assen
+Vondellaan,145,"","",9402NK,Assen
+Vondellaan,147,"","",9402NK,Assen
+Vondellaan,149,"","",9402NK,Assen
+Vondellaan,151,"","",9402NK,Assen
+Vondellaan,153,"","",9402NK,Assen
+Vondellaan,155,"","",9402NK,Assen
+Vondellaan,157,"","",9402NK,Assen
+Vondellaan,159,"","",9402NK,Assen
+Vondellaan,161,"","",9402NK,Assen
+Vondellaan,163,"","",9402NK,Assen
+Vondellaan,165,"","",9402NK,Assen
+Vondellaan,167,"","",9402NK,Assen
+Vondellaan,169,"","",9402NK,Assen
+Vondellaan,171,"","",9402NK,Assen
+Vondellaan,173,"","",9402NK,Assen
+Vondellaan,175,"","",9402NK,Assen
+Vondellaan,177,"","",9402NK,Assen
+Vondellaan,179,"","",9402NK,Assen
+Vondellaan,181,"","",9402NK,Assen
+Vondellaan,183,"","",9402NK,Assen
+Vondellaan,185,"","",9402NK,Assen
+Vondellaan,187,"","",9402NK,Assen
+Vondellaan,189,"","",9402NK,Assen
+Vondellaan,191,"","",9402NK,Assen
+Vondellaan,193,"","",9402NK,Assen
+Vondellaan,195,"","",9402NK,Assen
+Huygensstraat,1,"","",9402NL,Assen
+Huygensstraat,11,"","",9402NL,Assen
+Huygensstraat,13,"","",9402NL,Assen
+Huygensstraat,15,"","",9402NL,Assen
+Huygensstraat,17,"","",9402NL,Assen
+Huygensstraat,19,"","",9402NL,Assen
+Huygensstraat,21,"","",9402NL,Assen
+Huygensstraat,23,"","",9402NL,Assen
+Huygensstraat,25,"","",9402NL,Assen
+Huygensstraat,27,"","",9402NL,Assen
+Huygensstraat,29,"","",9402NL,Assen
+Huygensstraat,3,"","",9402NL,Assen
+Huygensstraat,31,"","",9402NL,Assen
+Huygensstraat,33,"","",9402NL,Assen
+Huygensstraat,35,"","",9402NL,Assen
+Huygensstraat,37,"","",9402NL,Assen
+Huygensstraat,39,"","",9402NL,Assen
+Huygensstraat,39,A,"",9402NL,Assen
+Huygensstraat,41,"","",9402NL,Assen
+Huygensstraat,43,"","",9402NL,Assen
+Huygensstraat,45,"","",9402NL,Assen
+Huygensstraat,47,"","",9402NL,Assen
+Huygensstraat,49,"","",9402NL,Assen
+Huygensstraat,5,"","",9402NL,Assen
+Huygensstraat,51,"","",9402NL,Assen
+Huygensstraat,53,"","",9402NL,Assen
+Huygensstraat,55,"","",9402NL,Assen
+Huygensstraat,57,"","",9402NL,Assen
+Huygensstraat,59,"","",9402NL,Assen
+Huygensstraat,61,"","",9402NL,Assen
+Huygensstraat,63,"","",9402NL,Assen
+Huygensstraat,65,"","",9402NL,Assen
+Huygensstraat,67,"","",9402NL,Assen
+Huygensstraat,69,"","",9402NL,Assen
+Huygensstraat,7,"","",9402NL,Assen
+Huygensstraat,71,"","",9402NL,Assen
+Huygensstraat,9,"","",9402NL,Assen
+Jacob Catslaan,1,"","",9402NM,Assen
+Jacob Catslaan,11,"","",9402NM,Assen
+Jacob Catslaan,13,"","",9402NM,Assen
+Jacob Catslaan,15,"","",9402NM,Assen
+Jacob Catslaan,17,"","",9402NM,Assen
+Jacob Catslaan,19,"","",9402NM,Assen
+Jacob Catslaan,21,"","",9402NM,Assen
+Jacob Catslaan,23,"","",9402NM,Assen
+Jacob Catslaan,25,"","",9402NM,Assen
+Jacob Catslaan,3,"","",9402NM,Assen
+Jacob Catslaan,5,"","",9402NM,Assen
+Jacob Catslaan,7,"","",9402NM,Assen
+Jacob Catslaan,9,"","",9402NM,Assen
+Jacob Catslaan,10,"","",9402NN,Assen
+Jacob Catslaan,12,"","",9402NN,Assen
+Jacob Catslaan,14,"","",9402NN,Assen
+Jacob Catslaan,16,"","",9402NN,Assen
+Jacob Catslaan,18,"","",9402NN,Assen
+Jacob Catslaan,2,"","",9402NN,Assen
+Jacob Catslaan,20,"","",9402NN,Assen
+Jacob Catslaan,22,"","",9402NN,Assen
+Jacob Catslaan,4,"","",9402NN,Assen
+Jacob Catslaan,6,"","",9402NN,Assen
+Jacob Catslaan,8,"","",9402NN,Assen
+Anne de Vriesstraat,70,"","",9402NT,Assen
+Anne de Vriesstraat,70,"","",9402NT,Assen
+Anne de Vriesstraat,70,"","",9402NT,Assen
+Anne de Vriesstraat,70,A,"",9402NT,Assen
+Anne de Vriesstraat,70,A,"",9402NT,Assen
+Vondellaan,10,"","",9402NV,Assen
+Vondellaan,12,"","",9402NV,Assen
+Vondellaan,14,"","",9402NV,Assen
+Vondellaan,16,"","",9402NV,Assen
+Vondellaan,18,"","",9402NV,Assen
+Vondellaan,2,"","",9402NV,Assen
+Vondellaan,20,"","",9402NV,Assen
+Vondellaan,22,"","",9402NV,Assen
+Vondellaan,24,"","",9402NV,Assen
+Vondellaan,26,"","",9402NV,Assen
+Vondellaan,28,"","",9402NV,Assen
+Vondellaan,28,A,"",9402NV,Assen
+Vondellaan,28,A,"",9402NV,Assen
+Vondellaan,30,"","",9402NV,Assen
+Vondellaan,32,"","",9402NV,Assen
+Vondellaan,34,"","",9402NV,Assen
+Vondellaan,36,"","",9402NV,Assen
+Vondellaan,38,"","",9402NV,Assen
+Vondellaan,4,"","",9402NV,Assen
+Vondellaan,40,"","",9402NV,Assen
+Vondellaan,42,"","",9402NV,Assen
+Vondellaan,44,"","",9402NV,Assen
+Vondellaan,46,"","",9402NV,Assen
+Vondellaan,48,"","",9402NV,Assen
+Vondellaan,50,"","",9402NV,Assen
+Vondellaan,6,"","",9402NV,Assen
+Vondellaan,8,"","",9402NV,Assen
+Vondellaan,52,"","",9402NW,Assen
+Vondellaan,54,"","",9402NW,Assen
+Vondellaan,56,"","",9402NW,Assen
+Vondellaan,58,"","",9402NW,Assen
+Vondellaan,60,"","",9402NW,Assen
+Vondellaan,62,"","",9402NW,Assen
+Vondellaan,64,"","",9402NW,Assen
+Vondellaan,66,"","",9402NW,Assen
+Vondellaan,68,"","",9402NW,Assen
+Vondellaan,70,"","",9402NW,Assen
+Vondellaan,72,"","",9402NW,Assen
+Vondellaan,74,"","",9402NW,Assen
+Vondellaan,76,"","",9402NW,Assen
+Vondellaan,78,"","",9402NW,Assen
+Vondellaan,80,"","",9402NW,Assen
+Vondellaan,82,"","",9402NW,Assen
+Vondellaan,84,"","",9402NW,Assen
+Vondellaan,86,"","",9402NW,Assen
+Vondellaan,88,"","",9402NW,Assen
+Vondellaan,90,"","",9402NW,Assen
+Vondellaan,92,"","",9402NW,Assen
+Vondellaan,94,"","",9402NW,Assen
+Vondellaan,96,"","",9402NW,Assen
+Vondellaan,100,"","",9402NX,Assen
+Vondellaan,102,"","",9402NX,Assen
+Vondellaan,104,"","",9402NX,Assen
+Vondellaan,106,"","",9402NX,Assen
+Vondellaan,108,"","",9402NX,Assen
+Vondellaan,110,"","",9402NX,Assen
+Vondellaan,112,"","",9402NX,Assen
+Vondellaan,114,"","",9402NX,Assen
+Vondellaan,116,"","",9402NX,Assen
+Vondellaan,118,"","",9402NX,Assen
+Vondellaan,120,"","",9402NX,Assen
+Vondellaan,122,"","",9402NX,Assen
+Vondellaan,124,"","",9402NX,Assen
+Vondellaan,126,"","",9402NX,Assen
+Vondellaan,128,"","",9402NX,Assen
+Vondellaan,130,"","",9402NX,Assen
+Vondellaan,132,"","",9402NX,Assen
+Vondellaan,134,"","",9402NX,Assen
+Vondellaan,136,"","",9402NX,Assen
+Vondellaan,138,"","",9402NX,Assen
+Vondellaan,140,"","",9402NX,Assen
+Vondellaan,142,"","",9402NX,Assen
+Vondellaan,144,"","",9402NX,Assen
+Vondellaan,146,"","",9402NX,Assen
+Vondellaan,148,"","",9402NX,Assen
+Vondellaan,150,"","",9402NX,Assen
+Vondellaan,152,"","",9402NX,Assen
+Vondellaan,154,"","",9402NX,Assen
+Vondellaan,156,"","",9402NX,Assen
+Vondellaan,158,"","",9402NX,Assen
+Vondellaan,160,"","",9402NX,Assen
+Vondellaan,162,"","",9402NX,Assen
+Vondellaan,164,"","",9402NX,Assen
+Vondellaan,166,"","",9402NX,Assen
+Vondellaan,98,"","",9402NX,Assen
+Vondellaan,98,A,"",9402NX,Assen
+Vondellaan,98,A,"",9402NX,Assen
+Anne de Vriesstraat,1,"","",9402NZ,Assen
+Anne de Vriesstraat,11,"","",9402NZ,Assen
+Anne de Vriesstraat,13,"","",9402NZ,Assen
+Anne de Vriesstraat,15,"","",9402NZ,Assen
+Anne de Vriesstraat,17,"","",9402NZ,Assen
+Anne de Vriesstraat,19,"","",9402NZ,Assen
+Anne de Vriesstraat,21,"","",9402NZ,Assen
+Anne de Vriesstraat,23,"","",9402NZ,Assen
+Anne de Vriesstraat,25,"","",9402NZ,Assen
+Anne de Vriesstraat,27,"","",9402NZ,Assen
+Anne de Vriesstraat,29,"","",9402NZ,Assen
+Anne de Vriesstraat,3,"","",9402NZ,Assen
+Anne de Vriesstraat,31,"","",9402NZ,Assen
+Anne de Vriesstraat,33,"","",9402NZ,Assen
+Anne de Vriesstraat,35,"","",9402NZ,Assen
+Anne de Vriesstraat,37,"","",9402NZ,Assen
+Anne de Vriesstraat,39,"","",9402NZ,Assen
+Anne de Vriesstraat,41,"","",9402NZ,Assen
+Anne de Vriesstraat,43,"","",9402NZ,Assen
+Anne de Vriesstraat,45,"","",9402NZ,Assen
+Anne de Vriesstraat,47,"","",9402NZ,Assen
+Anne de Vriesstraat,49,"","",9402NZ,Assen
+Anne de Vriesstraat,5,"","",9402NZ,Assen
+Anne de Vriesstraat,51,"","",9402NZ,Assen
+Anne de Vriesstraat,53,"","",9402NZ,Assen
+Anne de Vriesstraat,55,"","",9402NZ,Assen
+Anne de Vriesstraat,7,"","",9402NZ,Assen
+Anne de Vriesstraat,9,"","",9402NZ,Assen
+A.H.G. Fokkerstraat,1,"","",9403AM,Assen
+A.H.G. Fokkerstraat,3,"","",9403AM,Assen
+A.H.G. Fokkerstraat,3,"","",9403AM,Assen
+A.H.G. Fokkerstraat,5,"","",9403AM,Assen
+A.H.G. Fokkerstraat,5,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,5,B,"",9403AM,Assen
+A.H.G. Fokkerstraat,5,C,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,"","",9403AM,Assen
+A.H.G. Fokkerstraat,7,"","",9403AM,Assen
+A.H.G. Fokkerstraat,7,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,A,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,B,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,B,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,C,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,C,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,D,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,D,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,E,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,E,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,F,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,F,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,G,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,G,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,H,"",9403AM,Assen
+A.H.G. Fokkerstraat,7,H,"",9403AM,Assen
+A.H.G. Fokkerstraat,9,"","",9403AM,Assen
+A.H.G. Fokkerstraat,9,"","",9403AM,Assen

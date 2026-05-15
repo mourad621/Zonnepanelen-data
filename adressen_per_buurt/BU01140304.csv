@@ -1,135 +1,136 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7881AG",77,"",""
-"7881AG",115,"",""
-"7881AG",111,"",""
-"7881AG",7915,"","9"
-"7881AG",123,"",""
-"7881AG",122,"",""
-"7881AG",127,"",""
-"7881AG",120,"",""
-"7881AG",140,"",""
-"7881AG",110,"",""
-"7881AG",112,"",""
-"7881AG",141,"",""
-"7881AG",113,"",""
-"7881AG",113,"A",""
-"7881AG",150,"",""
-"7881AG",130,"",""
-"7881AG",113,"","TR"
-"7881AG",135,"",""
-"7881NZ",60,"",""
-"7881NZ",51,"",""
-"7881NZ",40,"",""
-"7881NZ",51,"",""
-"7881NZ",62,"",""
-"7881NZ",55,"",""
-"7881NZ",61,"",""
-"7881NZ",55,"",""
-"7881NZ",35,"",""
-"7881NZ",40,"A",""
-"7881NZ",63,"",""
-"7881NZ",48,"",""
-"7881NZ",55,"",""
-"7881NZ",7942,"","2"
-"7881NZ",51,"",""
-"7881VR",113,"",""
-"7881VR",121,"",""
-"7881VR",126,"",""
-"7881VR",125,"",""
-"7881VR",152,"",""
-"7881VR",7931,"",""
-"7881VR",150,"",""
-"7881VR",135,"",""
-"7881VR",105,"","TR"
-"7881VR",116,"",""
-"7881VR",7975,"",""
-"7881VR",146,"",""
-"7881VR",135,"","TR"
-"7881VR",135,"",""
-"7881VR",120,"",""
-"7881VR",154,"A",""
-"7881VR",109,"",""
-"7881VR",110,"",""
-"7881VR",134,"",""
-"7881VR",119,"",""
-"7881VR",105,"",""
-"7881VR",107,"",""
-"7881VR",105,"",""
-"7881VR",138,"",""
-"7881VR",107,"A",""
-"7881VR",152,"",""
-"7881VR",151,"",""
-"7881VR",148,"",""
-"7881VR",124,"",""
-"7881VR",125,"",""
-"7881VR",154,"",""
-"7881VR",114,"",""
-"7881VR",113,"","TR"
-"7881VR",122,"",""
-"7881VR",152,"",""
-7881VR,Hoofdkanaal OZ,107,A,
-7881AG,Hoofdkanaal WZ,7915,,9
-7881VR,Hoofdkanaal OZ,122,,
-7881VR,Hoofdkanaal OZ,134,,
-7881VR,Hoofdkanaal OZ,138,,
-7881VR,Hoofdkanaal OZ,152,,
-7881VR,Hoofdkanaal OZ,154,,
-7881VR,Hoofdkanaal OZ,109,,
-7881VR,Hoofdkanaal OZ,110,,
-7881VR,Hoofdkanaal OZ,105,,
-7881VR,Hoofdkanaal OZ,105,,
-7881VR,Hoofdkanaal OZ,121,,
-7881AG,Hoofdkanaal WZ,140,,
-7881AG,Hoofdkanaal WZ,111,,
-7881AG,Hoofdkanaal WZ,113,,
-7881NZ,Munsterseweg,35,,
-7881NZ,Munsterseweg,63,,
-7881VR,Hoofdkanaal OZ,124,,
-7881VR,Hoofdkanaal OZ,150,,
-7881VR,Hoofdkanaal OZ,148,,
-7881VR,Hoofdkanaal OZ,119,,
-7881AG,Hoofdkanaal WZ,123,,
-7881AG,Hoofdkanaal WZ,130,,
-7881AG,Hoofdkanaal WZ,141,,
-7881AG,Hoofdkanaal WZ,150,,
-7881AG,Hoofdkanaal WZ,110,,
-7881NZ,Munsterseweg,61,,
-7881NZ,Munsterseweg,40,,
-7881VR,Hoofdkanaal OZ,7975,,
-7881VR,Hoofdkanaal OZ,135,,TR
-7881VR,Hoofdkanaal OZ,135,,
-7881VR,Hoofdkanaal OZ,146,,
-7881VR,Hoofdkanaal OZ,107,,
-7881AG,Hoofdkanaal WZ,135,,
-7881AG,Hoofdkanaal WZ,115,,
-7881AG,Hoofdkanaal WZ,113,A,
-7881NZ,Munsterseweg,7942,,2
-7881NZ,Munsterseweg,62,,
-7881NZ,Munsterseweg,55,,
-7881NZ,Munsterseweg,55,,
-7881NZ,Munsterseweg,55,,
-7881VR,Hoofdkanaal OZ,7931,,
-7881VR,Hoofdkanaal OZ,105,,TR
-7881AG,Hoofdkanaal WZ,120,,
-7881NZ,Munsterseweg,48,,
-7881VR,Hoofdkanaal OZ,125,,
-7881VR,Hoofdkanaal OZ,125,,
-7881VR,Hoofdkanaal OZ,113,,
-7881VR,Hoofdkanaal OZ,114,,
-7881VR,Hoofdkanaal OZ,126,,
-7881VR,Hoofdkanaal OZ,151,,
-7881VR,Hoofdkanaal OZ,116,,
-7881AG,Hoofdkanaal WZ,122,,
-7881AG,Hoofdkanaal WZ,112,,
-7881NZ,Munsterseweg,60,,
-7881NZ,Munsterseweg,40,A,
-7881VR,Hoofdkanaal OZ,120,,
-7881VR,Hoofdkanaal OZ,154,A,
-7881NZ,Munsterseweg,51,,
-7881NZ,Munsterseweg,51,,
-7881NZ,Munsterseweg,51,,
-7881AG,Hoofdkanaal OZ,113,,TR
-7881VR,Hoofdkanaal OZ,113,,TR
-7881VR,Hoofdkanaal OZ,152,,
-7881AG,Hoofdkanaal WZ,127,,
-7881AG,Kalffstraat,77,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+77,"","","",7881AG,
+115,"","","",7881AG,
+111,"","","",7881AG,
+123,"","","",7881AG,
+122,"","","",7881AG,
+127,"","","",7881AG,
+120,"","","",7881AG,
+140,"","","",7881AG,
+110,"","","",7881AG,
+112,"","","",7881AG,
+141,"","","",7881AG,
+113,"","","",7881AG,
+150,"","","",7881AG,
+130,"","","",7881AG,
+135,"","","",7881AG,
+7915,"",9,"",7881AG,
+113,"",TR,"",7881AG,
+Hoofdkanaal WZ,110,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,111,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,112,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,113,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal OZ,113,"",TR,7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,113,A,"",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,115,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,120,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,122,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,123,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,127,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,130,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,135,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,140,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,141,"","",7881AG,Emmer-Compascuum
+Hoofdkanaal WZ,150,"","",7881AG,Emmer-Compascuum
+Kalffstraat,77,"","",7881AG,Erica
+Hoofdkanaal WZ,7915,"",9,7881AG,Emmer-Compascuum
+113,A,"","",7881AG,
+60,"","","",7881NZ,
+51,"","","",7881NZ,
+40,"","","",7881NZ,
+51,"","","",7881NZ,
+62,"","","",7881NZ,
+55,"","","",7881NZ,
+61,"","","",7881NZ,
+55,"","","",7881NZ,
+35,"","","",7881NZ,
+63,"","","",7881NZ,
+48,"","","",7881NZ,
+55,"","","",7881NZ,
+51,"","","",7881NZ,
+7942,"",2,"",7881NZ,
+Munsterseweg,35,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,40,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,40,A,"",7881NZ,Emmer-Compascuum
+Munsterseweg,48,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,51,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,51,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,51,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,55,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,55,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,55,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,60,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,61,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,62,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,63,"","",7881NZ,Emmer-Compascuum
+Munsterseweg,7942,"",2,7881NZ,Emmer-Compascuum
+40,A,"","",7881NZ,
+113,"","","",7881VR,
+121,"","","",7881VR,
+126,"","","",7881VR,
+125,"","","",7881VR,
+152,"","","",7881VR,
+7931,"","","",7881VR,
+150,"","","",7881VR,
+135,"","","",7881VR,
+116,"","","",7881VR,
+7975,"","","",7881VR,
+146,"","","",7881VR,
+135,"","","",7881VR,
+120,"","","",7881VR,
+109,"","","",7881VR,
+110,"","","",7881VR,
+134,"","","",7881VR,
+119,"","","",7881VR,
+105,"","","",7881VR,
+107,"","","",7881VR,
+105,"","","",7881VR,
+138,"","","",7881VR,
+152,"","","",7881VR,
+151,"","","",7881VR,
+148,"","","",7881VR,
+124,"","","",7881VR,
+125,"","","",7881VR,
+154,"","","",7881VR,
+114,"","","",7881VR,
+122,"","","",7881VR,
+152,"","","",7881VR,
+105,"",TR,"",7881VR,
+135,"",TR,"",7881VR,
+113,"",TR,"",7881VR,
+Hoofdkanaal OZ,105,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,105,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,105,"",TR,7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,107,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,107,A,"",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,109,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,110,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,113,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,113,"",TR,7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,114,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,116,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,119,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,120,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,121,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,122,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,124,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,125,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,125,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,126,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,134,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,135,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,135,"",TR,7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,138,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,146,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,148,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,150,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,151,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,152,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,152,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,154,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,154,A,"",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,7931,"","",7881VR,Emmer-Compascuum
+Hoofdkanaal OZ,7975,"","",7881VR,Emmer-Compascuum
+154,A,"","",7881VR,
+107,A,"","",7881VR,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

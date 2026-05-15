@@ -1,24 +1,24 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6612AN,Baron van Brakelstraat,1,,
-6612AN,Baron van Brakelstraat,2,,
-6612AN,Baron van Brakelstraat,3,,
-6612AN,Baron van Brakelstraat,3,A,
-6612AN,Baron van Brakelstraat,5,,
-6612AN,Baron van Brakelstraat,5,,T001
-6612AN,Baron van Brakelstraat,2,A,
-6612AN,Baron van Brakelstraat,2,B,
-6612AA,Broekstraat,1,,
-6612AA,Broekstraat,1,B,
-6612AA,Broekstraat,3,,
-6612AA,Broekstraat,3,A,
-6612AA,Broekstraat,5,,
-6612AA,Broekstraat,7,,
-6612AA,Broekstraat,7,A,
-6612AA,Broekstraat,9,,
-6612AA,Broekstraat,11,,
-6612AA,Broekstraat,13,,
-6612AA,Broekstraat,15,,
-6612AA,Broekstraat,17,,
-6612AA,Broekstraat,19,,
-6612AA,Broekstraat,21,,
-6612AA,Broekstraat,5,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Broekstraat,1,"","",6612AA,Nederasselt
+Broekstraat,1,B,"",6612AA,Nederasselt
+Broekstraat,11,"","",6612AA,Nederasselt
+Broekstraat,13,"","",6612AA,Nederasselt
+Broekstraat,15,"","",6612AA,Nederasselt
+Broekstraat,17,"","",6612AA,Nederasselt
+Broekstraat,19,"","",6612AA,Nederasselt
+Broekstraat,21,"","",6612AA,Nederasselt
+Broekstraat,3,"","",6612AA,Nederasselt
+Broekstraat,3,A,"",6612AA,Nederasselt
+Broekstraat,5,"","",6612AA,Nederasselt
+Broekstraat,5,A,"",6612AA,Nederasselt
+Broekstraat,7,"","",6612AA,Nederasselt
+Broekstraat,7,A,"",6612AA,Nederasselt
+Broekstraat,9,"","",6612AA,Nederasselt
+Baron van Brakelstraat,1,"","",6612AN,Nederasselt
+Baron van Brakelstraat,2,"","",6612AN,Nederasselt
+Baron van Brakelstraat,2,A,"",6612AN,Nederasselt
+Baron van Brakelstraat,2,B,"",6612AN,Nederasselt
+Baron van Brakelstraat,3,"","",6612AN,Nederasselt
+Baron van Brakelstraat,3,A,"",6612AN,Nederasselt
+Baron van Brakelstraat,5,"","",6612AN,Nederasselt
+Baron van Brakelstraat,5,"",T001,6612AN,Nederasselt

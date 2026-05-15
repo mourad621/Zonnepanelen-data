@@ -1,507 +1,254 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9406AM",389,"",""
-"9406AM",385,"",""
-"9406AM",383,"",""
-"9406AM",397,"",""
-"9406AM",387,"",""
-"9406AM",407,"",""
-"9406AM",375,"",""
-"9406AM",379,"",""
-"9406AM",391,"",""
-"9406AM",395,"",""
-"9406AM",405,"",""
-"9406AM",403,"",""
-"9406AM",381,"",""
-"9406AM",393,"",""
-"9406AM",369,"",""
-"9406AM",373,"",""
-"9406AM",377,"",""
-"9406AM",409,"",""
-"9406AM",367,"",""
-"9406AM",399,"",""
-"9406AM",371,"",""
-"9406AM",401,"",""
-"9406KN",108,"",""
-"9406KN",92,"",""
-"9406KN",110,"",""
-"9406KN",90,"",""
-"9406KN",96,"",""
-"9406KN",104,"",""
-"9406KN",106,"",""
-"9406KN",112,"",""
-"9406KN",88,"",""
-"9406KN",100,"",""
-"9406KN",94,"",""
-"9406KN",102,"",""
-"9406KN",98,"",""
-"9406KP",140,"",""
-"9406KP",148,"",""
-"9406KP",130,"",""
-"9406KP",144,"",""
-"9406KP",136,"",""
-"9406KP",120,"",""
-"9406KP",118,"",""
-"9406KP",132,"",""
-"9406KP",134,"",""
-"9406KP",126,"",""
-"9406KP",142,"",""
-"9406KP",124,"",""
-"9406KP",128,"",""
-"9406KP",138,"",""
-"9406KP",114,"",""
-"9406KP",146,"",""
-"9406KP",122,"",""
-"9406KP",116,"",""
-"9406KR",152,"",""
-"9406KR",164,"",""
-"9406KR",178,"",""
-"9406KR",166,"",""
-"9406KR",156,"",""
-"9406KR",168,"",""
-"9406KR",158,"",""
-"9406KR",154,"",""
-"9406KR",170,"",""
-"9406KR",162,"",""
-"9406KR",150,"",""
-"9406KR",176,"",""
-"9406KR",172,"",""
-"9406KR",174,"",""
-"9406KR",160,"",""
-"9406KS",11,"",""
-"9406KS",13,"",""
-"9406KS",9,"",""
-"9406KS",4,"",""
-"9406KS",3,"",""
-"9406KS",23,"",""
-"9406KS",17,"",""
-"9406KS",27,"",""
-"9406KS",21,"",""
-"9406KS",2,"",""
-"9406KS",1,"",""
-"9406KS",15,"",""
-"9406KS",8,"",""
-"9406KS",7,"",""
-"9406KS",6,"",""
-"9406KS",31,"",""
-"9406KS",5,"",""
-"9406KS",19,"",""
-"9406KS",29,"",""
-"9406KS",25,"",""
-"9406KT",71,"",""
-"9406KT",79,"",""
-"9406KT",57,"",""
-"9406KT",55,"",""
-"9406KT",65,"",""
-"9406KT",61,"",""
-"9406KT",73,"",""
-"9406KT",63,"",""
-"9406KT",77,"",""
-"9406KT",67,"",""
-"9406KT",75,"",""
-"9406KT",59,"",""
-"9406KT",69,"",""
-"9406KV",101,"",""
-"9406KV",103,"",""
-"9406KV",95,"",""
-"9406KV",99,"",""
-"9406KV",87,"",""
-"9406KV",109,"",""
-"9406KV",85,"",""
-"9406KV",105,"",""
-"9406KV",81,"",""
-"9406KV",89,"",""
-"9406KV",93,"",""
-"9406KV",107,"",""
-"9406KV",91,"",""
-"9406KV",97,"",""
-"9406KV",83,"",""
-"9406KW",52,"",""
-"9406KW",70,"",""
-"9406KW",54,"",""
-"9406KW",62,"",""
-"9406KW",66,"",""
-"9406KW",68,"",""
-"9406KW",64,"",""
-"9406KW",56,"",""
-"9406KW",60,"",""
-"9406KW",58,"",""
-"9406KW",50,"",""
-"9406KW",44,"",""
-"9406KW",48,"",""
-"9406KW",42,"",""
-"9406KW",46,"",""
-"9406KX",5,"",""
-"9406KX",3,"",""
-"9406KX",9,"",""
-"9406KX",7,"",""
-"9406KX",13,"",""
-"9406KX",1,"",""
-"9406KX",11,"",""
-"9406KZ",6,"",""
-"9406KZ",18,"",""
-"9406KZ",2,"",""
-"9406KZ",8,"",""
-"9406KZ",16,"",""
-"9406KZ",4,"",""
-"9406KZ",14,"",""
-"9406KZ",26,"",""
-"9406KZ",22,"",""
-"9406KZ",20,"",""
-"9406KZ",24,"",""
-"9406KZ",12,"",""
-"9406KZ",10,"",""
-"9406LA",15,"",""
-"9406LA",11,"",""
-"9406LA",23,"",""
-"9406LA",13,"",""
-"9406LA",17,"",""
-"9406LA",19,"",""
-"9406LA",21,"",""
-"9406LA",3,"",""
-"9406LA",9,"",""
-"9406LA",7,"",""
-"9406LA",5,"",""
-"9406LA",1,"",""
-"9406LA",25,"",""
-"9406LB",12,"",""
-"9406LB",16,"",""
-"9406LB",8,"",""
-"9406LB",10,"",""
-"9406LB",52,"",""
-"9406LB",28,"",""
-"9406LB",58,"",""
-"9406LB",62,"",""
-"9406LB",18,"",""
-"9406LB",26,"",""
-"9406LB",40,"",""
-"9406LB",14,"",""
-"9406LB",6,"",""
-"9406LB",22,"",""
-"9406LB",60,"",""
-"9406LB",56,"",""
-"9406LB",54,"",""
-"9406LB",44,"",""
-"9406LB",4,"",""
-"9406LB",24,"",""
-"9406LB",20,"",""
-"9406LB",36,"",""
-"9406LB",34,"",""
-"9406LB",68,"",""
-"9406LB",64,"",""
-"9406LB",42,"",""
-"9406LB",30,"",""
-"9406LB",38,"",""
-"9406LB",32,"",""
-"9406LB",46,"",""
-"9406LB",70,"",""
-"9406LB",2,"",""
-"9406LB",66,"",""
-"9406LB",48,"",""
-"9406LB",50,"",""
-"9406LC",16,"",""
-"9406LC",11,"",""
-"9406LC",18,"",""
-"9406LC",8,"",""
-"9406LC",6,"",""
-"9406LC",13,"",""
-"9406LC",5,"",""
-"9406LC",19,"",""
-"9406LC",12,"",""
-"9406LC",17,"",""
-"9406LC",14,"",""
-"9406LC",10,"",""
-"9406LC",9,"",""
-"9406LC",15,"",""
-"9406LC",3,"",""
-"9406LC",1,"",""
-"9406LC",7,"",""
-"9406LC",4,"",""
-"9406LC",2,"",""
-"9406LD",7,"",""
-"9406LD",3,"",""
-"9406LD",2,"",""
-"9406LD",5,"",""
-"9406LE",27,"",""
-"9406LE",17,"",""
-"9406LE",11,"",""
-"9406LE",29,"",""
-"9406LE",33,"",""
-"9406LE",9,"",""
-"9406LE",23,"",""
-"9406LE",35,"",""
-"9406LE",13,"",""
-"9406LE",19,"",""
-"9406LE",37,"",""
-"9406LE",21,"",""
-"9406LE",15,"",""
-"9406LE",25,"",""
-"9406LE",31,"",""
-"9406LG",39,"",""
-"9406LG",49,"",""
-"9406LG",51,"",""
-"9406LG",43,"",""
-"9406LG",61,"",""
-"9406LG",47,"",""
-"9406LG",65,"",""
-"9406LG",57,"",""
-"9406LG",67,"",""
-"9406LG",45,"",""
-"9406LG",55,"",""
-"9406LG",63,"",""
-"9406LG",41,"",""
-"9406LG",69,"",""
-"9406LG",59,"",""
-"9406LG",53,"",""
-9406KT,de Klenckestraat,55,,
-9406KT,de Klenckestraat,57,,
-9406KT,de Klenckestraat,59,,
-9406KT,de Klenckestraat,61,,
-9406KT,de Klenckestraat,63,,
-9406KT,de Klenckestraat,65,,
-9406KT,de Klenckestraat,67,,
-9406KT,de Klenckestraat,69,,
-9406KT,de Klenckestraat,71,,
-9406KT,de Klenckestraat,73,,
-9406KT,de Klenckestraat,75,,
-9406KT,de Klenckestraat,77,,
-9406KT,de Klenckestraat,79,,
-9406KV,de Klenckestraat,81,,
-9406KV,de Klenckestraat,83,,
-9406KV,de Klenckestraat,85,,
-9406KV,de Klenckestraat,87,,
-9406KV,de Klenckestraat,89,,
-9406KV,de Klenckestraat,91,,
-9406KV,de Klenckestraat,93,,
-9406KV,de Klenckestraat,95,,
-9406KV,de Klenckestraat,97,,
-9406KV,de Klenckestraat,99,,
-9406KV,de Klenckestraat,101,,
-9406KV,de Klenckestraat,103,,
-9406KV,de Klenckestraat,105,,
-9406KV,de Klenckestraat,107,,
-9406KV,de Klenckestraat,109,,
-9406KW,de Klenckestraat,42,,
-9406KW,de Klenckestraat,44,,
-9406KW,de Klenckestraat,46,,
-9406KW,de Klenckestraat,48,,
-9406KW,de Klenckestraat,50,,
-9406KW,de Klenckestraat,52,,
-9406KW,de Klenckestraat,54,,
-9406KW,de Klenckestraat,56,,
-9406KW,de Klenckestraat,58,,
-9406KW,de Klenckestraat,60,,
-9406KW,de Klenckestraat,62,,
-9406KW,de Klenckestraat,64,,
-9406KW,de Klenckestraat,66,,
-9406KW,de Klenckestraat,68,,
-9406KW,de Klenckestraat,70,,
-9406LA,Dingspelstraat,15,,
-9406LA,Dingspelstraat,17,,
-9406LA,Dingspelstraat,19,,
-9406LA,Dingspelstraat,21,,
-9406LA,Dingspelstraat,23,,
-9406LA,Dingspelstraat,25,,
-9406LA,Dingspelstraat,1,,
-9406LA,Dingspelstraat,3,,
-9406LA,Dingspelstraat,5,,
-9406LA,Dingspelstraat,7,,
-9406LA,Dingspelstraat,9,,
-9406LA,Dingspelstraat,11,,
-9406LA,Dingspelstraat,13,,
-9406LB,Dingspelstraat,14,,
-9406LB,Dingspelstraat,16,,
-9406LB,Dingspelstraat,18,,
-9406LB,Dingspelstraat,20,,
-9406LB,Dingspelstraat,22,,
-9406LB,Dingspelstraat,24,,
-9406LB,Dingspelstraat,26,,
-9406LB,Dingspelstraat,28,,
-9406LB,Dingspelstraat,30,,
-9406LB,Dingspelstraat,32,,
-9406LB,Dingspelstraat,34,,
-9406LB,Dingspelstraat,36,,
-9406LB,Dingspelstraat,38,,
-9406LB,Dingspelstraat,40,,
-9406LB,Dingspelstraat,42,,
-9406LB,Dingspelstraat,44,,
-9406LB,Dingspelstraat,46,,
-9406LB,Dingspelstraat,48,,
-9406LB,Dingspelstraat,50,,
-9406LB,Dingspelstraat,52,,
-9406LB,Dingspelstraat,54,,
-9406LB,Dingspelstraat,56,,
-9406LB,Dingspelstraat,58,,
-9406LB,Dingspelstraat,60,,
-9406LB,Dingspelstraat,62,,
-9406LB,Dingspelstraat,64,,
-9406LB,Dingspelstraat,66,,
-9406LB,Dingspelstraat,68,,
-9406LB,Dingspelstraat,70,,
-9406LB,Dingspelstraat,4,,
-9406LB,Dingspelstraat,6,,
-9406LB,Dingspelstraat,8,,
-9406LB,Dingspelstraat,10,,
-9406LB,Dingspelstraat,12,,
-9406KS,Hunebedstraat,1,,
-9406KS,Hunebedstraat,2,,
-9406KS,Hunebedstraat,3,,
-9406KS,Hunebedstraat,4,,
-9406KS,Hunebedstraat,5,,
-9406KS,Hunebedstraat,6,,
-9406KS,Hunebedstraat,7,,
-9406KS,Hunebedstraat,8,,
-9406KS,Hunebedstraat,9,,
-9406KS,Hunebedstraat,11,,
-9406KS,Hunebedstraat,13,,
-9406KS,Hunebedstraat,15,,
-9406KS,Hunebedstraat,17,,
-9406KS,Hunebedstraat,19,,
-9406KS,Hunebedstraat,21,,
-9406KS,Hunebedstraat,23,,
-9406KS,Hunebedstraat,25,,
-9406KS,Hunebedstraat,27,,
-9406KS,Hunebedstraat,29,,
-9406KS,Hunebedstraat,31,,
-9406LC,Landschapstraat,4,,
-9406LC,Landschapstraat,5,,
-9406LC,Landschapstraat,6,,
-9406LC,Landschapstraat,7,,
-9406LC,Landschapstraat,8,,
-9406LC,Landschapstraat,9,,
-9406LC,Landschapstraat,10,,
-9406LC,Landschapstraat,11,,
-9406LC,Landschapstraat,12,,
-9406LC,Landschapstraat,13,,
-9406LC,Landschapstraat,14,,
-9406LC,Landschapstraat,15,,
-9406LC,Landschapstraat,16,,
-9406LC,Landschapstraat,17,,
-9406LC,Landschapstraat,18,,
-9406LC,Landschapstraat,19,,
-9406LC,Landschapstraat,1,,
-9406LC,Landschapstraat,2,,
-9406LC,Landschapstraat,3,,
-9406AM,Nobellaan,367,,
-9406AM,Nobellaan,369,,
-9406AM,Nobellaan,371,,
-9406AM,Nobellaan,373,,
-9406AM,Nobellaan,375,,
-9406AM,Nobellaan,377,,
-9406AM,Nobellaan,379,,
-9406AM,Nobellaan,381,,
-9406AM,Nobellaan,383,,
-9406AM,Nobellaan,385,,
-9406AM,Nobellaan,387,,
-9406AM,Nobellaan,389,,
-9406AM,Nobellaan,391,,
-9406AM,Nobellaan,393,,
-9406AM,Nobellaan,395,,
-9406AM,Nobellaan,397,,
-9406AM,Nobellaan,399,,
-9406AM,Nobellaan,401,,
-9406AM,Nobellaan,403,,
-9406AM,Nobellaan,405,,
-9406AM,Nobellaan,407,,
-9406AM,Nobellaan,409,,
-9406LD,Oostermoer,2,,
-9406LD,Oostermoer,3,,
-9406LD,Oostermoer,5,,
-9406LD,Oostermoer,7,,
-9406LE,Oostermoer,9,,
-9406LE,Oostermoer,11,,
-9406LE,Oostermoer,13,,
-9406LE,Oostermoer,15,,
-9406LE,Oostermoer,17,,
-9406LE,Oostermoer,19,,
-9406LE,Oostermoer,21,,
-9406LE,Oostermoer,23,,
-9406LE,Oostermoer,25,,
-9406LE,Oostermoer,27,,
-9406LE,Oostermoer,29,,
-9406LE,Oostermoer,31,,
-9406LE,Oostermoer,33,,
-9406LE,Oostermoer,35,,
-9406LE,Oostermoer,37,,
-9406LG,Oostermoer,39,,
-9406LG,Oostermoer,41,,
-9406LG,Oostermoer,43,,
-9406LG,Oostermoer,45,,
-9406LG,Oostermoer,47,,
-9406LG,Oostermoer,49,,
-9406LG,Oostermoer,51,,
-9406LG,Oostermoer,53,,
-9406LG,Oostermoer,55,,
-9406LG,Oostermoer,57,,
-9406LG,Oostermoer,59,,
-9406LG,Oostermoer,61,,
-9406LG,Oostermoer,63,,
-9406LG,Oostermoer,65,,
-9406LG,Oostermoer,67,,
-9406LG,Oostermoer,69,,
-9406KN,Talmastraat,88,,
-9406KN,Talmastraat,90,,
-9406KN,Talmastraat,92,,
-9406KN,Talmastraat,94,,
-9406KN,Talmastraat,96,,
-9406KN,Talmastraat,98,,
-9406KN,Talmastraat,100,,
-9406KN,Talmastraat,102,,
-9406KN,Talmastraat,104,,
-9406KN,Talmastraat,106,,
-9406KN,Talmastraat,108,,
-9406KN,Talmastraat,110,,
-9406KN,Talmastraat,112,,
-9406KP,Talmastraat,114,,
-9406KP,Talmastraat,116,,
-9406KP,Talmastraat,118,,
-9406KP,Talmastraat,120,,
-9406KP,Talmastraat,122,,
-9406KP,Talmastraat,124,,
-9406KP,Talmastraat,126,,
-9406KP,Talmastraat,128,,
-9406KP,Talmastraat,130,,
-9406KP,Talmastraat,132,,
-9406KP,Talmastraat,134,,
-9406KP,Talmastraat,136,,
-9406KP,Talmastraat,138,,
-9406KP,Talmastraat,140,,
-9406KP,Talmastraat,142,,
-9406KP,Talmastraat,144,,
-9406KP,Talmastraat,146,,
-9406KP,Talmastraat,148,,
-9406KR,Talmastraat,150,,
-9406KR,Talmastraat,152,,
-9406KR,Talmastraat,154,,
-9406KR,Talmastraat,156,,
-9406KR,Talmastraat,158,,
-9406KR,Talmastraat,160,,
-9406KR,Talmastraat,162,,
-9406KR,Talmastraat,164,,
-9406KR,Talmastraat,166,,
-9406KR,Talmastraat,168,,
-9406KR,Talmastraat,170,,
-9406KR,Talmastraat,172,,
-9406KR,Talmastraat,174,,
-9406KR,Talmastraat,176,,
-9406KR,Talmastraat,178,,
-9406KX,Tumulusstraat,1,,
-9406KX,Tumulusstraat,3,,
-9406KX,Tumulusstraat,5,,
-9406KX,Tumulusstraat,7,,
-9406KX,Tumulusstraat,9,,
-9406KX,Tumulusstraat,11,,
-9406KX,Tumulusstraat,13,,
-9406KZ,Tumulusstraat,2,,
-9406KZ,Tumulusstraat,4,,
-9406KZ,Tumulusstraat,6,,
-9406KZ,Tumulusstraat,8,,
-9406KZ,Tumulusstraat,10,,
-9406KZ,Tumulusstraat,12,,
-9406KZ,Tumulusstraat,14,,
-9406KZ,Tumulusstraat,16,,
-9406KZ,Tumulusstraat,18,,
-9406KZ,Tumulusstraat,20,,
-9406KZ,Tumulusstraat,22,,
-9406KZ,Tumulusstraat,24,,
-9406KZ,Tumulusstraat,26,,
-9406LB,Dingspelstraat,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nobellaan,367,"","",9406AM,Assen
+Nobellaan,369,"","",9406AM,Assen
+Nobellaan,371,"","",9406AM,Assen
+Nobellaan,373,"","",9406AM,Assen
+Nobellaan,375,"","",9406AM,Assen
+Nobellaan,377,"","",9406AM,Assen
+Nobellaan,379,"","",9406AM,Assen
+Nobellaan,381,"","",9406AM,Assen
+Nobellaan,383,"","",9406AM,Assen
+Nobellaan,385,"","",9406AM,Assen
+Nobellaan,387,"","",9406AM,Assen
+Nobellaan,389,"","",9406AM,Assen
+Nobellaan,391,"","",9406AM,Assen
+Nobellaan,393,"","",9406AM,Assen
+Nobellaan,395,"","",9406AM,Assen
+Nobellaan,397,"","",9406AM,Assen
+Nobellaan,399,"","",9406AM,Assen
+Nobellaan,401,"","",9406AM,Assen
+Nobellaan,403,"","",9406AM,Assen
+Nobellaan,405,"","",9406AM,Assen
+Nobellaan,407,"","",9406AM,Assen
+Nobellaan,409,"","",9406AM,Assen
+Talmastraat,100,"","",9406KN,Assen
+Talmastraat,102,"","",9406KN,Assen
+Talmastraat,104,"","",9406KN,Assen
+Talmastraat,106,"","",9406KN,Assen
+Talmastraat,108,"","",9406KN,Assen
+Talmastraat,110,"","",9406KN,Assen
+Talmastraat,112,"","",9406KN,Assen
+Talmastraat,88,"","",9406KN,Assen
+Talmastraat,90,"","",9406KN,Assen
+Talmastraat,92,"","",9406KN,Assen
+Talmastraat,94,"","",9406KN,Assen
+Talmastraat,96,"","",9406KN,Assen
+Talmastraat,98,"","",9406KN,Assen
+Talmastraat,114,"","",9406KP,Assen
+Talmastraat,116,"","",9406KP,Assen
+Talmastraat,118,"","",9406KP,Assen
+Talmastraat,120,"","",9406KP,Assen
+Talmastraat,122,"","",9406KP,Assen
+Talmastraat,124,"","",9406KP,Assen
+Talmastraat,126,"","",9406KP,Assen
+Talmastraat,128,"","",9406KP,Assen
+Talmastraat,130,"","",9406KP,Assen
+Talmastraat,132,"","",9406KP,Assen
+Talmastraat,134,"","",9406KP,Assen
+Talmastraat,136,"","",9406KP,Assen
+Talmastraat,138,"","",9406KP,Assen
+Talmastraat,140,"","",9406KP,Assen
+Talmastraat,142,"","",9406KP,Assen
+Talmastraat,144,"","",9406KP,Assen
+Talmastraat,146,"","",9406KP,Assen
+Talmastraat,148,"","",9406KP,Assen
+Talmastraat,150,"","",9406KR,Assen
+Talmastraat,152,"","",9406KR,Assen
+Talmastraat,154,"","",9406KR,Assen
+Talmastraat,156,"","",9406KR,Assen
+Talmastraat,158,"","",9406KR,Assen
+Talmastraat,160,"","",9406KR,Assen
+Talmastraat,162,"","",9406KR,Assen
+Talmastraat,164,"","",9406KR,Assen
+Talmastraat,166,"","",9406KR,Assen
+Talmastraat,168,"","",9406KR,Assen
+Talmastraat,170,"","",9406KR,Assen
+Talmastraat,172,"","",9406KR,Assen
+Talmastraat,174,"","",9406KR,Assen
+Talmastraat,176,"","",9406KR,Assen
+Talmastraat,178,"","",9406KR,Assen
+Hunebedstraat,1,"","",9406KS,Assen
+Hunebedstraat,11,"","",9406KS,Assen
+Hunebedstraat,13,"","",9406KS,Assen
+Hunebedstraat,15,"","",9406KS,Assen
+Hunebedstraat,17,"","",9406KS,Assen
+Hunebedstraat,19,"","",9406KS,Assen
+Hunebedstraat,2,"","",9406KS,Assen
+Hunebedstraat,21,"","",9406KS,Assen
+Hunebedstraat,23,"","",9406KS,Assen
+Hunebedstraat,25,"","",9406KS,Assen
+Hunebedstraat,27,"","",9406KS,Assen
+Hunebedstraat,29,"","",9406KS,Assen
+Hunebedstraat,3,"","",9406KS,Assen
+Hunebedstraat,31,"","",9406KS,Assen
+Hunebedstraat,4,"","",9406KS,Assen
+Hunebedstraat,5,"","",9406KS,Assen
+Hunebedstraat,6,"","",9406KS,Assen
+Hunebedstraat,7,"","",9406KS,Assen
+Hunebedstraat,8,"","",9406KS,Assen
+Hunebedstraat,9,"","",9406KS,Assen
+de Klenckestraat,55,"","",9406KT,Assen
+de Klenckestraat,57,"","",9406KT,Assen
+de Klenckestraat,59,"","",9406KT,Assen
+de Klenckestraat,61,"","",9406KT,Assen
+de Klenckestraat,63,"","",9406KT,Assen
+de Klenckestraat,65,"","",9406KT,Assen
+de Klenckestraat,67,"","",9406KT,Assen
+de Klenckestraat,69,"","",9406KT,Assen
+de Klenckestraat,71,"","",9406KT,Assen
+de Klenckestraat,73,"","",9406KT,Assen
+de Klenckestraat,75,"","",9406KT,Assen
+de Klenckestraat,77,"","",9406KT,Assen
+de Klenckestraat,79,"","",9406KT,Assen
+de Klenckestraat,101,"","",9406KV,Assen
+de Klenckestraat,103,"","",9406KV,Assen
+de Klenckestraat,105,"","",9406KV,Assen
+de Klenckestraat,107,"","",9406KV,Assen
+de Klenckestraat,109,"","",9406KV,Assen
+de Klenckestraat,81,"","",9406KV,Assen
+de Klenckestraat,83,"","",9406KV,Assen
+de Klenckestraat,85,"","",9406KV,Assen
+de Klenckestraat,87,"","",9406KV,Assen
+de Klenckestraat,89,"","",9406KV,Assen
+de Klenckestraat,91,"","",9406KV,Assen
+de Klenckestraat,93,"","",9406KV,Assen
+de Klenckestraat,95,"","",9406KV,Assen
+de Klenckestraat,97,"","",9406KV,Assen
+de Klenckestraat,99,"","",9406KV,Assen
+de Klenckestraat,42,"","",9406KW,Assen
+de Klenckestraat,44,"","",9406KW,Assen
+de Klenckestraat,46,"","",9406KW,Assen
+de Klenckestraat,48,"","",9406KW,Assen
+de Klenckestraat,50,"","",9406KW,Assen
+de Klenckestraat,52,"","",9406KW,Assen
+de Klenckestraat,54,"","",9406KW,Assen
+de Klenckestraat,56,"","",9406KW,Assen
+de Klenckestraat,58,"","",9406KW,Assen
+de Klenckestraat,60,"","",9406KW,Assen
+de Klenckestraat,62,"","",9406KW,Assen
+de Klenckestraat,64,"","",9406KW,Assen
+de Klenckestraat,66,"","",9406KW,Assen
+de Klenckestraat,68,"","",9406KW,Assen
+de Klenckestraat,70,"","",9406KW,Assen
+Tumulusstraat,1,"","",9406KX,Assen
+Tumulusstraat,11,"","",9406KX,Assen
+Tumulusstraat,13,"","",9406KX,Assen
+Tumulusstraat,3,"","",9406KX,Assen
+Tumulusstraat,5,"","",9406KX,Assen
+Tumulusstraat,7,"","",9406KX,Assen
+Tumulusstraat,9,"","",9406KX,Assen
+Tumulusstraat,10,"","",9406KZ,Assen
+Tumulusstraat,12,"","",9406KZ,Assen
+Tumulusstraat,14,"","",9406KZ,Assen
+Tumulusstraat,16,"","",9406KZ,Assen
+Tumulusstraat,18,"","",9406KZ,Assen
+Tumulusstraat,2,"","",9406KZ,Assen
+Tumulusstraat,20,"","",9406KZ,Assen
+Tumulusstraat,22,"","",9406KZ,Assen
+Tumulusstraat,24,"","",9406KZ,Assen
+Tumulusstraat,26,"","",9406KZ,Assen
+Tumulusstraat,4,"","",9406KZ,Assen
+Tumulusstraat,6,"","",9406KZ,Assen
+Tumulusstraat,8,"","",9406KZ,Assen
+Dingspelstraat,1,"","",9406LA,Assen
+Dingspelstraat,11,"","",9406LA,Assen
+Dingspelstraat,13,"","",9406LA,Assen
+Dingspelstraat,15,"","",9406LA,Assen
+Dingspelstraat,17,"","",9406LA,Assen
+Dingspelstraat,19,"","",9406LA,Assen
+Dingspelstraat,21,"","",9406LA,Assen
+Dingspelstraat,23,"","",9406LA,Assen
+Dingspelstraat,25,"","",9406LA,Assen
+Dingspelstraat,3,"","",9406LA,Assen
+Dingspelstraat,5,"","",9406LA,Assen
+Dingspelstraat,7,"","",9406LA,Assen
+Dingspelstraat,9,"","",9406LA,Assen
+Dingspelstraat,10,"","",9406LB,Assen
+Dingspelstraat,12,"","",9406LB,Assen
+Dingspelstraat,14,"","",9406LB,Assen
+Dingspelstraat,16,"","",9406LB,Assen
+Dingspelstraat,18,"","",9406LB,Assen
+Dingspelstraat,2,"","",9406LB,Assen
+Dingspelstraat,20,"","",9406LB,Assen
+Dingspelstraat,22,"","",9406LB,Assen
+Dingspelstraat,24,"","",9406LB,Assen
+Dingspelstraat,26,"","",9406LB,Assen
+Dingspelstraat,28,"","",9406LB,Assen
+Dingspelstraat,30,"","",9406LB,Assen
+Dingspelstraat,32,"","",9406LB,Assen
+Dingspelstraat,34,"","",9406LB,Assen
+Dingspelstraat,36,"","",9406LB,Assen
+Dingspelstraat,38,"","",9406LB,Assen
+Dingspelstraat,4,"","",9406LB,Assen
+Dingspelstraat,40,"","",9406LB,Assen
+Dingspelstraat,42,"","",9406LB,Assen
+Dingspelstraat,44,"","",9406LB,Assen
+Dingspelstraat,46,"","",9406LB,Assen
+Dingspelstraat,48,"","",9406LB,Assen
+Dingspelstraat,50,"","",9406LB,Assen
+Dingspelstraat,52,"","",9406LB,Assen
+Dingspelstraat,54,"","",9406LB,Assen
+Dingspelstraat,56,"","",9406LB,Assen
+Dingspelstraat,58,"","",9406LB,Assen
+Dingspelstraat,6,"","",9406LB,Assen
+Dingspelstraat,60,"","",9406LB,Assen
+Dingspelstraat,62,"","",9406LB,Assen
+Dingspelstraat,64,"","",9406LB,Assen
+Dingspelstraat,66,"","",9406LB,Assen
+Dingspelstraat,68,"","",9406LB,Assen
+Dingspelstraat,70,"","",9406LB,Assen
+Dingspelstraat,8,"","",9406LB,Assen
+Landschapstraat,1,"","",9406LC,Assen
+Landschapstraat,10,"","",9406LC,Assen
+Landschapstraat,11,"","",9406LC,Assen
+Landschapstraat,12,"","",9406LC,Assen
+Landschapstraat,13,"","",9406LC,Assen
+Landschapstraat,14,"","",9406LC,Assen
+Landschapstraat,15,"","",9406LC,Assen
+Landschapstraat,16,"","",9406LC,Assen
+Landschapstraat,17,"","",9406LC,Assen
+Landschapstraat,18,"","",9406LC,Assen
+Landschapstraat,19,"","",9406LC,Assen
+Landschapstraat,2,"","",9406LC,Assen
+Landschapstraat,3,"","",9406LC,Assen
+Landschapstraat,4,"","",9406LC,Assen
+Landschapstraat,5,"","",9406LC,Assen
+Landschapstraat,6,"","",9406LC,Assen
+Landschapstraat,7,"","",9406LC,Assen
+Landschapstraat,8,"","",9406LC,Assen
+Landschapstraat,9,"","",9406LC,Assen
+Oostermoer,2,"","",9406LD,Assen
+Oostermoer,3,"","",9406LD,Assen
+Oostermoer,5,"","",9406LD,Assen
+Oostermoer,7,"","",9406LD,Assen
+Oostermoer,11,"","",9406LE,Assen
+Oostermoer,13,"","",9406LE,Assen
+Oostermoer,15,"","",9406LE,Assen
+Oostermoer,17,"","",9406LE,Assen
+Oostermoer,19,"","",9406LE,Assen
+Oostermoer,21,"","",9406LE,Assen
+Oostermoer,23,"","",9406LE,Assen
+Oostermoer,25,"","",9406LE,Assen
+Oostermoer,27,"","",9406LE,Assen
+Oostermoer,29,"","",9406LE,Assen
+Oostermoer,31,"","",9406LE,Assen
+Oostermoer,33,"","",9406LE,Assen
+Oostermoer,35,"","",9406LE,Assen
+Oostermoer,37,"","",9406LE,Assen
+Oostermoer,9,"","",9406LE,Assen
+Oostermoer,39,"","",9406LG,Assen
+Oostermoer,41,"","",9406LG,Assen
+Oostermoer,43,"","",9406LG,Assen
+Oostermoer,45,"","",9406LG,Assen
+Oostermoer,47,"","",9406LG,Assen
+Oostermoer,49,"","",9406LG,Assen
+Oostermoer,51,"","",9406LG,Assen
+Oostermoer,53,"","",9406LG,Assen
+Oostermoer,55,"","",9406LG,Assen
+Oostermoer,57,"","",9406LG,Assen
+Oostermoer,59,"","",9406LG,Assen
+Oostermoer,61,"","",9406LG,Assen
+Oostermoer,63,"","",9406LG,Assen
+Oostermoer,65,"","",9406LG,Assen
+Oostermoer,67,"","",9406LG,Assen
+Oostermoer,69,"","",9406LG,Assen

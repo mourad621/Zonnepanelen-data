@@ -1,129 +1,130 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8801JB",19,"",""
-"8801JB",10,"A",""
-"8801JB",3,"A",""
-"8801JB",15,"",""
-"8801JB",14,"",""
-"8801JB",18,"",""
-"8801JB",11,"A",""
-"8801JB",23,"",""
-"8801JB",14,"",""
-"8801JB",14,"",""
-"8801JB",15,"",""
-"8801JB",22,"",""
-"8801JB",1,"B",""
-"8801JB",14,"",""
-"8801JB",11,"",""
-"8801JB",16,"",""
-"8801JB",3,"",""
-"8801JB",18,"",""
-"8801JB",14,"",""
-"8801JB",14,"A",""
-"8801JB",5,"",""
-"8801JB",7,"",""
-"8801JB",16,"",""
-"8801JB",14,"",""
-"8801JB",12,"",""
-"8801JB",1,"E",""
-"8801JB",8,"",""
-"8801JB",13,"",""
-"8801JB",14,"A",""
-"8801JB",20,"",""
-"8801JB",1,"E",""
-"8801JB",1,"D",""
-"8801JB",1,"A",""
-"8801JB",1,"D",""
-"8801JB",20,"",""
-"8801JH",1,"",""
-"8801JK",10,"",""
-"8801JK",12,"A",""
-"8801JK",2,"B",""
-"8801JK",1,"",""
-"8801JK",2,"A",""
-"8801JK",3,"B",""
-"8801JK",3,"",""
-"8801JK",3,"A",""
-"8801JK",3,"C",""
-"8801JK",2,"",""
-"8801JK",2,"B",""
-"8801JK",2,"A",""
-"8801JK",3,"D",""
-"8801JK",2,"",""
-"8801JK",12,"",""
-"8801JK",12,"A",""
-"8801JL",1,"A",""
-"8801JL",3,"",""
-"8801JL",1,"",""
-"8801JL",2,"",""
-"8801JL",3,"",""
-"8801JL",1,"B",""
-"8801JL",1,"C",""
-"8801JL",6,"",""
-"8801JL",1,"C",""
-"8801JL",3,"A",""
-"8801JL",1,"B",""
-"8801JL",5,"",""
-"8801JL",6,"A",""
-"8801JL",3,"",""
-"8801JL",3,"",""
-"8801JL",8,"",""
-"8801JL",3,"A",""
-8801JL,Stationsweg,2,,
-8801JL,Stationsweg,6,,
-8801JL,Stationsweg,6,A,
-8801JL,Stationsweg,8,,
-8801JL,Stationsweg,1,,
-8801JL,Stationsweg,1,A,
-8801JL,Stationsweg,1,B,
-8801JL,Stationsweg,3,,
-8801JL,Stationsweg,5,,
-8801JB,Zuidelijke Industrieweg,5,,
-8801JB,Zuidelijke Industrieweg,8,,
-8801JB,Zuidelijke Industrieweg,10,A,
-8801JB,Zuidelijke Industrieweg,14,,
-8801JB,Zuidelijke Industrieweg,16,,
-8801JB,Zuidelijke Industrieweg,18,,
-8801JB,Zuidelijke Industrieweg,7,,
-8801JB,Zuidelijke Industrieweg,11,,
-8801JB,Zuidelijke Industrieweg,11,A,
-8801JB,Zuidelijke Industrieweg,13,,
-8801JB,Zuidelijke Industrieweg,15,,
-8801JB,Zuidelijke Industrieweg,23,,
-8801JK,Prins Hendrikkade,2,B,
-8801JK,Prins Hendrikkade,10,,
-8801JK,Prins Hendrikkade,12,,
-8801JK,Prins Hendrikkade,2,,
-8801JK,Prins Hendrikkade,12,A,
-8801JK,Prins Hendrikkade,1,,
-8801JK,Prins Hendrikkade,3,,
-8801JH,Julianastraat,1,,
-8801JL,Stationsweg,1,C,
-8801JL,Stationsweg,3,,
-8801JL,Stationsweg,3,,
-8801JL,Stationsweg,3,A,
-8801JL,Stationsweg,3,A,
-8801JB,Zuidelijke Industrieweg,3,A,
-8801JB,Zuidelijke Industrieweg,20,,
-8801JB,Zuidelijke Industrieweg,12,,
-8801JB,Zuidelijke Industrieweg,1,E,
-8801JB,Zuidelijke Industrieweg,1,D,
-8801JB,Zuidelijke Industrieweg,3,,
-8801JB,Zuidelijke Industrieweg,1,A,
-8801JB,Zuidelijke Industrieweg,19,,
-8801JB,Zuidelijke Industrieweg,1,B,
-8801JB,Zuidelijke Industrieweg,22,,
-8801JB,Zuidelijke Industrieweg,14,,
-8801JB,Zuidelijke Industrieweg,14,A,
-8801JB,Zuidelijke Industrieweg,14,,
-8801JB,Zuidelijke Industrieweg,14,,
-8801JK,Prins Hendrikkade,3,B,
-8801JK,Prins Hendrikkade,3,C,
-8801JK,Prins Hendrikkade,3,A,
-8801JK,Prins Hendrikkade,3,D,
-8801JK,Prins Hendrikkade,2,A,
-8801JB,Zuidelijke Industrieweg,18,,
-8801JB,Zuidelijke Industrieweg,16,,
-8801JB,Zuidelijke Industrieweg,15,,
-8801JB,Zuidelijke Industrieweg,16,,
-8801JB,Zuidelijke Industrieweg,20,,
-8801JK,Prins Hendrikkade,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+19,"","","",8801JB,
+15,"","","",8801JB,
+14,"","","",8801JB,
+18,"","","",8801JB,
+23,"","","",8801JB,
+14,"","","",8801JB,
+14,"","","",8801JB,
+15,"","","",8801JB,
+22,"","","",8801JB,
+14,"","","",8801JB,
+11,"","","",8801JB,
+16,"","","",8801JB,
+3,"","","",8801JB,
+18,"","","",8801JB,
+14,"","","",8801JB,
+5,"","","",8801JB,
+7,"","","",8801JB,
+16,"","","",8801JB,
+14,"","","",8801JB,
+12,"","","",8801JB,
+8,"","","",8801JB,
+13,"","","",8801JB,
+20,"","","",8801JB,
+20,"","","",8801JB,
+Zuidelijke Industrieweg,1,A,"",8801JB,Franeker
+Zuidelijke Industrieweg,1,B,"",8801JB,Franeker
+Zuidelijke Industrieweg,1,D,"",8801JB,Franeker
+Zuidelijke Industrieweg,1,E,"",8801JB,Franeker
+Zuidelijke Industrieweg,10,A,"",8801JB,Franeker
+Zuidelijke Industrieweg,11,"","",8801JB,Franeker
+Zuidelijke Industrieweg,11,A,"",8801JB,Franeker
+Zuidelijke Industrieweg,12,"","",8801JB,Franeker
+Zuidelijke Industrieweg,13,"","",8801JB,Franeker
+Zuidelijke Industrieweg,14,"","",8801JB,Franeker
+Zuidelijke Industrieweg,14,"","",8801JB,Franeker
+Zuidelijke Industrieweg,14,"","",8801JB,Franeker
+Zuidelijke Industrieweg,14,"","",8801JB,Franeker
+Zuidelijke Industrieweg,14,A,"",8801JB,Franeker
+Zuidelijke Industrieweg,15,"","",8801JB,Franeker
+Zuidelijke Industrieweg,15,"","",8801JB,Franeker
+Zuidelijke Industrieweg,16,"","",8801JB,Franeker
+Zuidelijke Industrieweg,16,"","",8801JB,Franeker
+Zuidelijke Industrieweg,16,"","",8801JB,Franeker
+Zuidelijke Industrieweg,18,"","",8801JB,Franeker
+Zuidelijke Industrieweg,18,"","",8801JB,Franeker
+Zuidelijke Industrieweg,19,"","",8801JB,Franeker
+Zuidelijke Industrieweg,20,"","",8801JB,Franeker
+Zuidelijke Industrieweg,20,"","",8801JB,Franeker
+Zuidelijke Industrieweg,22,"","",8801JB,Franeker
+Zuidelijke Industrieweg,23,"","",8801JB,Franeker
+Zuidelijke Industrieweg,3,"","",8801JB,Franeker
+Zuidelijke Industrieweg,3,A,"",8801JB,Franeker
+Zuidelijke Industrieweg,5,"","",8801JB,Franeker
+Zuidelijke Industrieweg,7,"","",8801JB,Franeker
+Zuidelijke Industrieweg,8,"","",8801JB,Franeker
+10,A,"","",8801JB,
+3,A,"","",8801JB,
+11,A,"","",8801JB,
+14,A,"","",8801JB,
+14,A,"","",8801JB,
+1,A,"","",8801JB,
+1,B,"","",8801JB,
+1,D,"","",8801JB,
+1,D,"","",8801JB,
+1,E,"","",8801JB,
+1,E,"","",8801JB,
+1,"","","",8801JH,
+Julianastraat,1,"","",8801JH,Franeker
+10,"","","",8801JK,
+1,"","","",8801JK,
+3,"","","",8801JK,
+2,"","","",8801JK,
+2,"","","",8801JK,
+12,"","","",8801JK,
+Prins Hendrikkade,1,"","",8801JK,Franeker
+Prins Hendrikkade,10,"","",8801JK,Franeker
+Prins Hendrikkade,12,"","",8801JK,Franeker
+Prins Hendrikkade,12,A,"",8801JK,Franeker
+Prins Hendrikkade,2,"","",8801JK,Franeker
+Prins Hendrikkade,2,"","",8801JK,Franeker
+Prins Hendrikkade,2,A,"",8801JK,Franeker
+Prins Hendrikkade,2,B,"",8801JK,Franeker
+Prins Hendrikkade,3,"","",8801JK,Franeker
+Prins Hendrikkade,3,A,"",8801JK,Franeker
+Prins Hendrikkade,3,B,"",8801JK,Franeker
+Prins Hendrikkade,3,C,"",8801JK,Franeker
+Prins Hendrikkade,3,D,"",8801JK,Franeker
+12,A,"","",8801JK,
+2,A,"","",8801JK,
+3,A,"","",8801JK,
+2,A,"","",8801JK,
+12,A,"","",8801JK,
+2,B,"","",8801JK,
+3,B,"","",8801JK,
+2,B,"","",8801JK,
+3,C,"","",8801JK,
+3,D,"","",8801JK,
+3,"","","",8801JL,
+1,"","","",8801JL,
+2,"","","",8801JL,
+3,"","","",8801JL,
+6,"","","",8801JL,
+5,"","","",8801JL,
+3,"","","",8801JL,
+3,"","","",8801JL,
+8,"","","",8801JL,
+Stationsweg,1,"","",8801JL,Franeker
+Stationsweg,1,A,"",8801JL,Franeker
+Stationsweg,1,B,"",8801JL,Franeker
+Stationsweg,1,C,"",8801JL,Franeker
+Stationsweg,2,"","",8801JL,Franeker
+Stationsweg,3,"","",8801JL,Franeker
+Stationsweg,3,"","",8801JL,Franeker
+Stationsweg,3,"","",8801JL,Franeker
+Stationsweg,3,A,"",8801JL,Franeker
+Stationsweg,3,A,"",8801JL,Franeker
+Stationsweg,5,"","",8801JL,Franeker
+Stationsweg,6,"","",8801JL,Franeker
+Stationsweg,6,A,"",8801JL,Franeker
+Stationsweg,8,"","",8801JL,Franeker
+1,A,"","",8801JL,
+3,A,"","",8801JL,
+6,A,"","",8801JL,
+3,A,"","",8801JL,
+1,B,"","",8801JL,
+1,B,"","",8801JL,
+1,C,"","",8801JL,
+1,C,"","",8801JL,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

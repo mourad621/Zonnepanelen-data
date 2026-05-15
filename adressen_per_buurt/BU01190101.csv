@@ -1,523 +1,267 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7941LX",84,"","25"
-"7941LX",88,"",""
-"7941LX",84,"","14"
-"7941LX",84,"","40"
-"7941LX",84,"","17"
-"7941LX",84,"","03"
-"7941LX",84,"","05"
-"7941LX",86,"",""
-"7941LX",84,"","19"
-"7941LX",84,"","04"
-"7941LX",84,"","12"
-"7941LX",94,"",""
-"7941LX",84,"","13"
-"7941LX",84,"","21"
-"7941LX",84,"","09"
-"7941LX",84,"","07"
-"7941LX",84,"","22"
-"7941LX",84,"","18"
-"7941LX",84,"","11"
-"7941LX",84,"","15"
-"7941LX",84,"","26"
-"7941LX",98,"",""
-"7941LX",102,"",""
-"7941LX",106,"",""
-"7941LX",84,"","38"
-"7941LX",84,"","24"
-"7941LX",84,"","20"
-"7941LX",84,"","08"
-"7941LX",84,"","01"
-"7941LX",84,"","39"
-"7941LX",84,"","06"
-"7941LX",84,"","23"
-"7941LX",100,"",""
-"7941LX",104,"",""
-"7941LX",84,"","30"
-"7941LX",90,"",""
-"7941LX",84,"","32"
-"7941LX",84,"","28"
-"7941LX",92,"",""
-"7941LX",84,"","37"
-"7941LX",84,"","41"
-"7941LX",84,"","31"
-"7941LX",84,"","35"
-"7941LX",84,"","16"
-"7941LX",96,"",""
-"7941LX",84,"","02"
-"7941LX",84,"","29"
-"7941LX",84,"","10"
-"7941LX",84,"","27"
-"7941LX",84,"","33"
-"7941LX",84,"","34"
-"7941LX",84,"","36"
-"7942GZ",3,"A",""
-"7942GZ",16,"",""
-"7942GZ",3,"B",""
-"7942GZ",40,"",""
-"7942GZ",10,"",""
-"7942GZ",38,"",""
-"7942GZ",44,"",""
-"7942GZ",20,"",""
-"7942GZ",50,"",""
-"7942GZ",36,"",""
-"7942GZ",24,"",""
-"7942GZ",34,"",""
-"7942GZ",30,"",""
-"7942GZ",22,"",""
-"7942GZ",52,"",""
-"7942GZ",18,"",""
-"7942GZ",3,"",""
-"7942GZ",6,"",""
-"7942GZ",26,"",""
-"7942GZ",48,"",""
-"7942GZ",42,"",""
-"7942GZ",46,"",""
-"7942GZ",28,"",""
-"7942GZ",14,"",""
-"7942GZ",8,"",""
-"7942GZ",12,"",""
-"7942GZ",5,"",""
-"7942GZ",32,"",""
-"7942HA",22,"",""
-"7942HA",1,"L",""
-"7942HA",36,"",""
-"7942HA",14,"",""
-"7942HA",1,"A",""
-"7942HA",30,"",""
-"7942HA",38,"",""
-"7942HA",10,"",""
-"7942HA",4,"B",""
-"7942HA",4,"A",""
-"7942HA",5,"",""
-"7942HA",44,"",""
-"7942HA",8,"",""
-"7942HA",32,"",""
-"7942HA",12,"",""
-"7942HA",24,"",""
-"7942HA",48,"",""
-"7942HA",1,"",""
-"7942HA",9,"",""
-"7942HA",1,"D",""
-"7942HA",20,"",""
-"7942HA",5,"A",""
-"7942HA",1,"F",""
-"7942HA",1,"G",""
-"7942HA",1,"F",""
-"7942HA",42,"",""
-"7942HA",46,"",""
-"7942HA",28,"",""
-"7942HA",26,"",""
-"7942HA",16,"",""
-"7942HA",9,"A",""
-"7942HA",40,"",""
-"7942HA",1,"M",""
-"7942HA",1,"D",""
-"7942HA",6,"",""
-"7942HA",1,"C",""
-"7942HA",18,"",""
-"7942HA",1,"C",""
-"7942HA",1,"K",""
-"7942HA",1,"E",""
-"7942HA",4,"",""
-"7942HA",7,"",""
-"7942HA",1,"E",""
-"7942HA",34,"",""
-"7942HA",50,"",""
-"7942HA",1,"H",""
-"7942HA",1,"B",""
-"7942HB",30,"",""
-"7942HB",42,"",""
-"7942HB",39,"",""
-"7942HB",22,"",""
-"7942HB",5,"",""
-"7942HB",24,"",""
-"7942HB",12,"A",""
-"7942HB",40,"",""
-"7942HB",41,"",""
-"7942HB",6,"",""
-"7942HB",5,"",""
-"7942HB",8,"",""
-"7942HB",9,"A",""
-"7942HB",7,"A",""
-"7942HB",2,"",""
-"7942HB",12,"",""
-"7942HB",26,"",""
-"7942HB",18,"",""
-"7942HB",11,"",""
-"7942HB",7,"",""
-"7942HB",10,"",""
-"7942HB",1,"",""
-"7942HB",20,"A",""
-"7942HB",9,"",""
-"7942HB",5,"",""
-"7942HB",16,"",""
-"7942HB",4,"",""
-"7942HB",6,"A",""
-"7942HB",14,"",""
-"7942HB",2,"A",""
-"7942HB",3,"",""
-"7942HB",21,"",""
-"7942HB",9,"A",""
-"7942HD",6,"A",""
-"7942HD",2,"",""
-"7942HD",2,"","F"
-"7942HD",2,"","I"
-"7942HD",2,"","J"
-"7942HD",4,"",""
-"7942HD",2,"","E"
-"7942HD",2,"","A"
-"7942HD",5,"",""
-"7942HD",2,"","B"
-"7942HD",2,"","D"
-"7942HD",6,"",""
-"7942HD",2,"",""
-"7942HD",2,"","C"
-"7942HD",6,"D",""
-"7942HD",1,"",""
-"7942HD",2,"",""
-"7942HD",9,"",""
-"7942HD",8,"A",""
-"7942HD",6,"B",""
-"7942HD",2,"","H"
-"7942HD",2,"","G"
-"7942HD",8,"",""
-"7942HD",6,"C",""
-"7942HD",13,"",""
-"7942HD",3,"",""
-"7942HD",7,"",""
-"7942HD",2,"","K"
-"7942HD",10,"B",""
-"7942HD",10,"A",""
-"7942HD",12,"",""
-"7942HD",10,"A",""
-"7942HG",2,"","1"
-"7942HG",63,"",""
-"7942HG",2,"","16"
-"7942HG",2,"","15"
-"7942HG",2,"","12"
-"7942HG",2,"","10"
-"7942HG",2,"",""
-"7942HG",61,"",""
-"7942HG",8,"",""
-"7942HG",12,"",""
-"7942HG",59,"",""
-"7942HG",4,"",""
-"7942HG",2,"","11"
-"7942HG",2,"","9"
-"7942HG",22,"",""
-"7942HG",2,"","14"
-"7942HG",10,"",""
-"7942HG",2,"","13"
-"7942HG",14,"",""
-"7942HG",28,"",""
-"7942HG",49,"",""
-"7942HG",2,"","6"
-"7942HG",2,"","3"
-"7942HG",26,"",""
-"7942HG",57,"",""
-"7942HG",2,"","2"
-"7942HG",16,"",""
-"7942HG",18,"",""
-"7942HG",53,"",""
-"7942HG",51,"",""
-"7942HG",2,"","7"
-"7942HG",2,"","8"
-"7942HG",20,"",""
-"7942HG",6,"",""
-"7942HG",24,"",""
-"7942HG",55,"",""
-"7942HG",2,"","5"
-"7942HG",2,"","4"
-"7942HK",6,"",""
-"7942HK",15,"",""
-"7942HK",3,"",""
-"7942HK",14,"",""
-"7942HK",1,"",""
-"7942HK",11,"",""
-"7942HK",8,"",""
-"7942HK",4,"",""
-"7942HK",10,"",""
-"7942HK",5,"",""
-"7942HK",7,"",""
-"7942HK",13,"",""
-"7942HK",12,"",""
-"7942HK",9,"",""
-"7942HK",2,"",""
-"7942HR",86,"B",""
-"7942HR",92,"",""
-"7942HR",80,"A",""
-"7942HR",80,"",""
-"7942HR",78,"",""
-"7942HR",78,"A",""
-"7942HR",98,"",""
-"7942HR",96,"",""
-"7942HR",38,"",""
-"7942HR",78,"",""
-"7942HR",96,"C",""
-"7942HR",100,"",""
-"7942HR",80,"A",""
-"7942HR",86,"",""
-"7942HR",88,"",""
-"7942HR",94,"",""
-"7942HR",86,"A",""
-"7942HR",78,"A",""
-"7942HR",92,"A",""
-"7942HR",98,"A",""
-"7942HR",96,"A",""
-7942GZ,J v Oldenbarneveltstraat,3,,
-7942HR,Steenwijkerstraatweg,96,A,
-7942HA,Hugo de Grootstraat,4,,
-7942HA,Hugo de Grootstraat,4,A,
-7942HA,Hugo de Grootstraat,6,,
-7942HA,Hugo de Grootstraat,8,,
-7942HA,Hugo de Grootstraat,5,,
-7942HA,Hugo de Grootstraat,5,A,
-7942HA,Hugo de Grootstraat,7,,
-7942HA,Hugo de Grootstraat,9,,
-7942HA,Hugo de Grootstraat,4,B,
-7941LX,Ceintuurbaan,86,,
-7941LX,Ceintuurbaan,88,,
-7941LX,Ceintuurbaan,90,,
-7941LX,Ceintuurbaan,92,,
-7941LX,Ceintuurbaan,94,,
-7941LX,Ceintuurbaan,96,,
-7941LX,Ceintuurbaan,98,,
-7941LX,Ceintuurbaan,100,,
-7941LX,Ceintuurbaan,102,,
-7941LX,Ceintuurbaan,104,,
-7941LX,Ceintuurbaan,106,,
-7942HG,Cornelis Houtmanstraat,22,,
-7942HG,Cornelis Houtmanstraat,24,,
-7942HG,Cornelis Houtmanstraat,26,,
-7942HG,Cornelis Houtmanstraat,28,,
-7942HG,Cornelis Houtmanstraat,49,,
-7942HG,Cornelis Houtmanstraat,51,,
-7942HG,Cornelis Houtmanstraat,53,,
-7942HG,Cornelis Houtmanstraat,55,,
-7942HG,Cornelis Houtmanstraat,57,,
-7942HG,Cornelis Houtmanstraat,59,,
-7942HG,Cornelis Houtmanstraat,61,,
-7942HG,Cornelis Houtmanstraat,63,,
-7942HG,Cornelis Houtmanstraat,2,,
-7942HG,Cornelis Houtmanstraat,4,,
-7942HG,Cornelis Houtmanstraat,6,,
-7942HG,Cornelis Houtmanstraat,8,,
-7942HG,Cornelis Houtmanstraat,10,,
-7942HG,Cornelis Houtmanstraat,12,,
-7942HG,Cornelis Houtmanstraat,14,,
-7942HG,Cornelis Houtmanstraat,16,,
-7942HG,Cornelis Houtmanstraat,18,,
-7942HG,Cornelis Houtmanstraat,20,,
-7942HD,Galgenkampsweg,2,,
-7942HD,Galgenkampsweg,4,,
-7942HD,Galgenkampsweg,6,,
-7942HD,Galgenkampsweg,8,,
-7942HD,Galgenkampsweg,8,A,
-7942HD,Galgenkampsweg,10,A,
-7942HD,Galgenkampsweg,10,B,
-7942HD,Galgenkampsweg,12,,
-7942HD,Galgenkampsweg,1,,
-7942HD,Galgenkampsweg,3,,
-7942HD,Galgenkampsweg,5,,
-7942HD,Galgenkampsweg,7,,
-7942HD,Galgenkampsweg,9,,
-7942HD,Galgenkampsweg,13,,
-7942HD,Galgenkampsweg,6,A,
-7942HD,Galgenkampsweg,6,B,
-7942HD,Galgenkampsweg,6,C,
-7942HD,Galgenkampsweg,6,D,
-7942HK,J H v Linschotenstraat,2,,
-7942HK,J H v Linschotenstraat,4,,
-7942HK,J H v Linschotenstraat,6,,
-7942HK,J H v Linschotenstraat,8,,
-7942HK,J H v Linschotenstraat,10,,
-7942HK,J H v Linschotenstraat,12,,
-7942HK,J H v Linschotenstraat,14,,
-7942HK,J H v Linschotenstraat,1,,
-7942HK,J H v Linschotenstraat,3,,
-7942HK,J H v Linschotenstraat,5,,
-7942HK,J H v Linschotenstraat,7,,
-7942HK,J H v Linschotenstraat,9,,
-7942HK,J H v Linschotenstraat,11,,
-7942HK,J H v Linschotenstraat,13,,
-7942GZ,J v Oldenbarneveltstraat,6,,
-7942GZ,J v Oldenbarneveltstraat,8,,
-7942GZ,J v Oldenbarneveltstraat,10,,
-7942GZ,J v Oldenbarneveltstraat,12,,
-7942GZ,J v Oldenbarneveltstraat,14,,
-7942GZ,J v Oldenbarneveltstraat,16,,
-7942GZ,J v Oldenbarneveltstraat,18,,
-7942GZ,J v Oldenbarneveltstraat,20,,
-7942GZ,J v Oldenbarneveltstraat,22,,
-7942GZ,J v Oldenbarneveltstraat,24,,
-7942GZ,J v Oldenbarneveltstraat,26,,
-7942GZ,J v Oldenbarneveltstraat,28,,
-7942GZ,J v Oldenbarneveltstraat,30,,
-7942GZ,J v Oldenbarneveltstraat,32,,
-7942GZ,J v Oldenbarneveltstraat,34,,
-7942GZ,J v Oldenbarneveltstraat,36,,
-7942GZ,J v Oldenbarneveltstraat,38,,
-7942GZ,J v Oldenbarneveltstraat,40,,
-7942GZ,J v Oldenbarneveltstraat,42,,
-7942GZ,J v Oldenbarneveltstraat,44,,
-7942GZ,J v Oldenbarneveltstraat,46,,
-7942GZ,J v Oldenbarneveltstraat,48,,
-7942GZ,J v Oldenbarneveltstraat,50,,
-7942GZ,J v Oldenbarneveltstraat,52,,
-7942GZ,J v Oldenbarneveltstraat,3,A,
-7942GZ,J v Oldenbarneveltstraat,3,B,
-7942HB,Paradijsweg,6,,
-7942HB,Paradijsweg,6,A,
-7942HB,Paradijsweg,8,,
-7942HB,Paradijsweg,9,,
-7942HB,Paradijsweg,5,,
-7942HB,Paradijsweg,7,,
-7942HB,Paradijsweg,7,A,
-7942HB,Paradijsweg,2,A,
-7942HB,Paradijsweg,4,,
-7942HB,Paradijsweg,9,A,
-7942HR,Steenwijkerstraatweg,38,,
-7942HR,Steenwijkerstraatweg,78,,
-7942HR,Steenwijkerstraatweg,80,,
-7942HR,Steenwijkerstraatweg,86,,
-7942HR,Steenwijkerstraatweg,88,,
-7942HR,Steenwijkerstraatweg,92,,
-7942HR,Steenwijkerstraatweg,96,,
-7942HR,Steenwijkerstraatweg,98,,
-7942HR,Steenwijkerstraatweg,100,,
-7942HA,Hugo de Grootstraat,1,A,
-7942HA,Hugo de Grootstraat,1,B,
-7942HA,Hugo de Grootstraat,1,C,
-7942HA,Hugo de Grootstraat,1,D,
-7942HA,Hugo de Grootstraat,1,E,
-7942HA,Hugo de Grootstraat,1,F,
-7942HA,Hugo de Grootstraat,1,G,
-7942HA,Hugo de Grootstraat,1,H,
-7942HA,Hugo de Grootstraat,1,K,
-7942HA,Hugo de Grootstraat,1,L,
-7942HA,Hugo de Grootstraat,1,M,
-7942HA,Hugo de Grootstraat,1,,
-7942HA,Hugo de Grootstraat,9,A,
-7942HA,Hugo de Grootstraat,18,,
-7942HA,Hugo de Grootstraat,20,,
-7942HA,Hugo de Grootstraat,22,,
-7942HA,Hugo de Grootstraat,24,,
-7942HA,Hugo de Grootstraat,26,,
-7942HA,Hugo de Grootstraat,28,,
-7942HA,Hugo de Grootstraat,30,,
-7942HA,Hugo de Grootstraat,32,,
-7942HA,Hugo de Grootstraat,34,,
-7942HA,Hugo de Grootstraat,36,,
-7942HA,Hugo de Grootstraat,38,,
-7942HA,Hugo de Grootstraat,40,,
-7942HA,Hugo de Grootstraat,42,,
-7942HA,Hugo de Grootstraat,44,,
-7942HA,Hugo de Grootstraat,46,,
-7942HA,Hugo de Grootstraat,48,,
-7942HA,Hugo de Grootstraat,50,,
-7942HA,Hugo de Grootstraat,10,,
-7942HA,Hugo de Grootstraat,12,,
-7942HA,Hugo de Grootstraat,14,,
-7942HA,Hugo de Grootstraat,16,,
-7941LX,Ceintuurbaan,84,,28
-7941LX,Ceintuurbaan,84,,27
-7941LX,Ceintuurbaan,84,,29
-7941LX,Ceintuurbaan,84,,31
-7941LX,Ceintuurbaan,84,,30
-7941LX,Ceintuurbaan,84,,23
-7941LX,Ceintuurbaan,84,,22
-7941LX,Ceintuurbaan,84,,24
-7941LX,Ceintuurbaan,84,,26
-7941LX,Ceintuurbaan,84,,25
-7941LX,Ceintuurbaan,84,,38
-7941LX,Ceintuurbaan,84,,37
-7941LX,Ceintuurbaan,84,,39
-7941LX,Ceintuurbaan,84,,41
-7941LX,Ceintuurbaan,84,,40
-7941LX,Ceintuurbaan,84,,33
-7941LX,Ceintuurbaan,84,,32
-7941LX,Ceintuurbaan,84,,34
-7941LX,Ceintuurbaan,84,,36
-7941LX,Ceintuurbaan,84,,35
-7941LX,Ceintuurbaan,84,,21
-7941LX,Ceintuurbaan,84,,07
-7941LX,Ceintuurbaan,84,,06
-7941LX,Ceintuurbaan,84,,08
-7941LX,Ceintuurbaan,84,,10
-7941LX,Ceintuurbaan,84,,09
-7941LX,Ceintuurbaan,84,,02
-7941LX,Ceintuurbaan,84,,01
-7941LX,Ceintuurbaan,84,,03
-7941LX,Ceintuurbaan,84,,05
-7941LX,Ceintuurbaan,84,,04
-7941LX,Ceintuurbaan,84,,17
-7941LX,Ceintuurbaan,84,,16
-7941LX,Ceintuurbaan,84,,18
-7941LX,Ceintuurbaan,84,,20
-7941LX,Ceintuurbaan,84,,19
-7941LX,Ceintuurbaan,84,,12
-7941LX,Ceintuurbaan,84,,11
-7941LX,Ceintuurbaan,84,,13
-7941LX,Ceintuurbaan,84,,15
-7941LX,Ceintuurbaan,84,,14
-7942HK,J H v Linschotenstraat,15,,
-7942GZ,J v Oldenbarneveltstraat,5,,
-7942HB,Paradijsweg,1,,
-7942HB,Paradijsweg,10,,
-7942HB,Paradijsweg,12,A,
-7942HB,Paradijsweg,24,,
-7942HB,Paradijsweg,26,,
-7942HB,Paradijsweg,11,,
-7942HB,Paradijsweg,2,,
-7942HB,Paradijsweg,12,,
-7942HB,Paradijsweg,14,,
-7942HB,Paradijsweg,16,,
-7942HB,Paradijsweg,18,,
-7942HB,Paradijsweg,20,A,
-7942HB,Paradijsweg,22,,
-7942HB,Paradijsweg,39,,
-7942HB,Paradijsweg,40,,
-7942HB,Paradijsweg,42,,
-7942HB,Paradijsweg,30,,
-7942HB,Paradijsweg,21,,
-7942HB,Paradijsweg,41,,
-7942HB,Paradijsweg,5,,
-7942HB,Paradijsweg,3,,
-7942HR,Steenwijkerstraatweg,98,A,
-7942HR,Steenwijkerstraatweg,94,,
-7942HR,Steenwijkerstraatweg,78,A,
-7942HR,Steenwijkerstraatweg,86,A,
-7942HR,Steenwijkerstraatweg,86,B,
-7942HR,Steenwijkerstraatweg,96,C,
-7942HR,Steenwijkerstraatweg,80,A,
-7942HR,Steenwijkerstraatweg,80,A,
-7942HR,Steenwijkerstraatweg,92,A,
-7942HG,Cornelis Houtmanstraat,2,,1
-7942HG,Cornelis Houtmanstraat,2,,2
-7942HG,Cornelis Houtmanstraat,2,,3
-7942HG,Cornelis Houtmanstraat,2,,4
-7942HG,Cornelis Houtmanstraat,2,,5
-7942HG,Cornelis Houtmanstraat,2,,6
-7942HG,Cornelis Houtmanstraat,2,,7
-7942HG,Cornelis Houtmanstraat,2,,8
-7942HG,Cornelis Houtmanstraat,2,,9
-7942HG,Cornelis Houtmanstraat,2,,10
-7942HG,Cornelis Houtmanstraat,2,,11
-7942HG,Cornelis Houtmanstraat,2,,12
-7942HG,Cornelis Houtmanstraat,2,,13
-7942HG,Cornelis Houtmanstraat,2,,14
-7942HG,Cornelis Houtmanstraat,2,,15
-7942HG,Cornelis Houtmanstraat,2,,16
-7942HD,Galgenkampsweg,2,,
-7942HD,Galgenkampsweg,2,,A
-7942HD,Galgenkampsweg,2,,B
-7942HD,Galgenkampsweg,2,,C
-7942HD,Galgenkampsweg,2,,D
-7942HD,Galgenkampsweg,2,,E
-7942HD,Galgenkampsweg,2,,F
-7942HD,Galgenkampsweg,2,,G
-7942HD,Galgenkampsweg,2,,H
-7942HD,Galgenkampsweg,2,,I
-7942HD,Galgenkampsweg,2,,J
-7942HD,Galgenkampsweg,2,,K
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ceintuurbaan,100,"","",7941LX,Meppel
+Ceintuurbaan,102,"","",7941LX,Meppel
+Ceintuurbaan,104,"","",7941LX,Meppel
+Ceintuurbaan,106,"","",7941LX,Meppel
+Ceintuurbaan,84,"",01,7941LX,Meppel
+Ceintuurbaan,84,"",02,7941LX,Meppel
+Ceintuurbaan,84,"",03,7941LX,Meppel
+Ceintuurbaan,84,"",04,7941LX,Meppel
+Ceintuurbaan,84,"",05,7941LX,Meppel
+Ceintuurbaan,84,"",06,7941LX,Meppel
+Ceintuurbaan,84,"",07,7941LX,Meppel
+Ceintuurbaan,84,"",08,7941LX,Meppel
+Ceintuurbaan,84,"",09,7941LX,Meppel
+Ceintuurbaan,84,"",10,7941LX,Meppel
+Ceintuurbaan,84,"",11,7941LX,Meppel
+Ceintuurbaan,84,"",12,7941LX,Meppel
+Ceintuurbaan,84,"",13,7941LX,Meppel
+Ceintuurbaan,84,"",14,7941LX,Meppel
+Ceintuurbaan,84,"",15,7941LX,Meppel
+Ceintuurbaan,84,"",16,7941LX,Meppel
+Ceintuurbaan,84,"",17,7941LX,Meppel
+Ceintuurbaan,84,"",18,7941LX,Meppel
+Ceintuurbaan,84,"",19,7941LX,Meppel
+Ceintuurbaan,84,"",20,7941LX,Meppel
+Ceintuurbaan,84,"",21,7941LX,Meppel
+Ceintuurbaan,84,"",22,7941LX,Meppel
+Ceintuurbaan,84,"",23,7941LX,Meppel
+Ceintuurbaan,84,"",24,7941LX,Meppel
+Ceintuurbaan,84,"",25,7941LX,Meppel
+Ceintuurbaan,84,"",26,7941LX,Meppel
+Ceintuurbaan,84,"",27,7941LX,Meppel
+Ceintuurbaan,84,"",28,7941LX,Meppel
+Ceintuurbaan,84,"",29,7941LX,Meppel
+Ceintuurbaan,84,"",30,7941LX,Meppel
+Ceintuurbaan,84,"",31,7941LX,Meppel
+Ceintuurbaan,84,"",32,7941LX,Meppel
+Ceintuurbaan,84,"",33,7941LX,Meppel
+Ceintuurbaan,84,"",34,7941LX,Meppel
+Ceintuurbaan,84,"",35,7941LX,Meppel
+Ceintuurbaan,84,"",36,7941LX,Meppel
+Ceintuurbaan,84,"",37,7941LX,Meppel
+Ceintuurbaan,84,"",38,7941LX,Meppel
+Ceintuurbaan,84,"",39,7941LX,Meppel
+Ceintuurbaan,84,"",40,7941LX,Meppel
+Ceintuurbaan,84,"",41,7941LX,Meppel
+Ceintuurbaan,86,"","",7941LX,Meppel
+Ceintuurbaan,88,"","",7941LX,Meppel
+Ceintuurbaan,90,"","",7941LX,Meppel
+Ceintuurbaan,92,"","",7941LX,Meppel
+Ceintuurbaan,94,"","",7941LX,Meppel
+Ceintuurbaan,96,"","",7941LX,Meppel
+Ceintuurbaan,98,"","",7941LX,Meppel
+J v Oldenbarneveltstraat,10,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,12,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,14,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,16,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,18,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,20,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,22,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,24,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,26,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,28,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,3,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,3,A,"",7942GZ,Meppel
+J v Oldenbarneveltstraat,3,B,"",7942GZ,Meppel
+J v Oldenbarneveltstraat,30,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,32,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,34,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,36,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,38,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,40,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,42,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,44,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,46,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,48,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,5,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,50,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,52,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,6,"","",7942GZ,Meppel
+J v Oldenbarneveltstraat,8,"","",7942GZ,Meppel
+Hugo de Grootstraat,1,"","",7942HA,Meppel
+Hugo de Grootstraat,1,A,"",7942HA,Meppel
+Hugo de Grootstraat,1,B,"",7942HA,Meppel
+Hugo de Grootstraat,1,C,"",7942HA,Meppel
+Hugo de Grootstraat,1,C,"",7942HA,Meppel
+Hugo de Grootstraat,1,D,"",7942HA,Meppel
+Hugo de Grootstraat,1,D,"",7942HA,Meppel
+Hugo de Grootstraat,1,E,"",7942HA,Meppel
+Hugo de Grootstraat,1,E,"",7942HA,Meppel
+Hugo de Grootstraat,1,F,"",7942HA,Meppel
+Hugo de Grootstraat,1,F,"",7942HA,Meppel
+Hugo de Grootstraat,1,G,"",7942HA,Meppel
+Hugo de Grootstraat,1,H,"",7942HA,Meppel
+Hugo de Grootstraat,1,K,"",7942HA,Meppel
+Hugo de Grootstraat,1,L,"",7942HA,Meppel
+Hugo de Grootstraat,1,M,"",7942HA,Meppel
+Hugo de Grootstraat,10,"","",7942HA,Meppel
+Hugo de Grootstraat,12,"","",7942HA,Meppel
+Hugo de Grootstraat,14,"","",7942HA,Meppel
+Hugo de Grootstraat,16,"","",7942HA,Meppel
+Hugo de Grootstraat,18,"","",7942HA,Meppel
+Hugo de Grootstraat,20,"","",7942HA,Meppel
+Hugo de Grootstraat,22,"","",7942HA,Meppel
+Hugo de Grootstraat,24,"","",7942HA,Meppel
+Hugo de Grootstraat,26,"","",7942HA,Meppel
+Hugo de Grootstraat,28,"","",7942HA,Meppel
+Hugo de Grootstraat,30,"","",7942HA,Meppel
+Hugo de Grootstraat,32,"","",7942HA,Meppel
+Hugo de Grootstraat,34,"","",7942HA,Meppel
+Hugo de Grootstraat,36,"","",7942HA,Meppel
+Hugo de Grootstraat,38,"","",7942HA,Meppel
+Hugo de Grootstraat,4,"","",7942HA,Meppel
+Hugo de Grootstraat,4,A,"",7942HA,Meppel
+Hugo de Grootstraat,4,B,"",7942HA,Meppel
+Hugo de Grootstraat,40,"","",7942HA,Meppel
+Hugo de Grootstraat,42,"","",7942HA,Meppel
+Hugo de Grootstraat,44,"","",7942HA,Meppel
+Hugo de Grootstraat,46,"","",7942HA,Meppel
+Hugo de Grootstraat,48,"","",7942HA,Meppel
+Hugo de Grootstraat,5,"","",7942HA,Meppel
+Hugo de Grootstraat,5,A,"",7942HA,Meppel
+Hugo de Grootstraat,50,"","",7942HA,Meppel
+Hugo de Grootstraat,6,"","",7942HA,Meppel
+Hugo de Grootstraat,7,"","",7942HA,Meppel
+Hugo de Grootstraat,8,"","",7942HA,Meppel
+Hugo de Grootstraat,9,"","",7942HA,Meppel
+Hugo de Grootstraat,9,A,"",7942HA,Meppel
+Paradijsweg,1,"","",7942HB,Meppel
+Paradijsweg,10,"","",7942HB,Meppel
+Paradijsweg,11,"","",7942HB,Meppel
+Paradijsweg,12,"","",7942HB,Meppel
+Paradijsweg,12,A,"",7942HB,Meppel
+Paradijsweg,14,"","",7942HB,Meppel
+Paradijsweg,16,"","",7942HB,Meppel
+Paradijsweg,18,"","",7942HB,Meppel
+Paradijsweg,2,"","",7942HB,Meppel
+Paradijsweg,2,A,"",7942HB,Meppel
+Paradijsweg,20,A,"",7942HB,Meppel
+Paradijsweg,21,"","",7942HB,Meppel
+Paradijsweg,22,"","",7942HB,Meppel
+Paradijsweg,24,"","",7942HB,Meppel
+Paradijsweg,26,"","",7942HB,Meppel
+Paradijsweg,3,"","",7942HB,Meppel
+Paradijsweg,30,"","",7942HB,Meppel
+Paradijsweg,39,"","",7942HB,Meppel
+Paradijsweg,4,"","",7942HB,Meppel
+Paradijsweg,40,"","",7942HB,Meppel
+Paradijsweg,41,"","",7942HB,Meppel
+Paradijsweg,42,"","",7942HB,Meppel
+Paradijsweg,5,"","",7942HB,Meppel
+Paradijsweg,5,"","",7942HB,Meppel
+Paradijsweg,5,"","",7942HB,Meppel
+Paradijsweg,6,"","",7942HB,Meppel
+Paradijsweg,6,A,"",7942HB,Meppel
+Paradijsweg,7,"","",7942HB,Meppel
+Paradijsweg,7,A,"",7942HB,Meppel
+Paradijsweg,8,"","",7942HB,Meppel
+Paradijsweg,9,"","",7942HB,Meppel
+Paradijsweg,9,A,"",7942HB,Meppel
+Paradijsweg,9,A,"",7942HB,Meppel
+Galgenkampsweg,1,"","",7942HD,Meppel
+Galgenkampsweg,10,A,"",7942HD,Meppel
+Galgenkampsweg,10,A,"",7942HD,Meppel
+Galgenkampsweg,10,B,"",7942HD,Meppel
+Galgenkampsweg,12,"","",7942HD,Meppel
+Galgenkampsweg,13,"","",7942HD,Meppel
+Galgenkampsweg,2,"","",7942HD,Meppel
+Galgenkampsweg,2,"","",7942HD,Meppel
+Galgenkampsweg,2,"","",7942HD,Meppel
+Galgenkampsweg,2,"",A,7942HD,Meppel
+Galgenkampsweg,2,"",B,7942HD,Meppel
+Galgenkampsweg,2,"",C,7942HD,Meppel
+Galgenkampsweg,2,"",D,7942HD,Meppel
+Galgenkampsweg,2,"",E,7942HD,Meppel
+Galgenkampsweg,2,"",F,7942HD,Meppel
+Galgenkampsweg,2,"",G,7942HD,Meppel
+Galgenkampsweg,2,"",H,7942HD,Meppel
+Galgenkampsweg,2,"",I,7942HD,Meppel
+Galgenkampsweg,2,"",J,7942HD,Meppel
+Galgenkampsweg,2,"",K,7942HD,Meppel
+Galgenkampsweg,3,"","",7942HD,Meppel
+Galgenkampsweg,4,"","",7942HD,Meppel
+Galgenkampsweg,5,"","",7942HD,Meppel
+Galgenkampsweg,6,"","",7942HD,Meppel
+Galgenkampsweg,6,A,"",7942HD,Meppel
+Galgenkampsweg,6,B,"",7942HD,Meppel
+Galgenkampsweg,6,C,"",7942HD,Meppel
+Galgenkampsweg,6,D,"",7942HD,Meppel
+Galgenkampsweg,7,"","",7942HD,Meppel
+Galgenkampsweg,8,"","",7942HD,Meppel
+Galgenkampsweg,8,A,"",7942HD,Meppel
+Galgenkampsweg,9,"","",7942HD,Meppel
+Cornelis Houtmanstraat,10,"","",7942HG,Meppel
+Cornelis Houtmanstraat,12,"","",7942HG,Meppel
+Cornelis Houtmanstraat,14,"","",7942HG,Meppel
+Cornelis Houtmanstraat,16,"","",7942HG,Meppel
+Cornelis Houtmanstraat,18,"","",7942HG,Meppel
+Cornelis Houtmanstraat,2,"","",7942HG,Meppel
+Cornelis Houtmanstraat,2,"",1,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",10,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",11,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",12,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",13,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",14,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",15,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",16,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",2,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",3,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",4,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",5,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",6,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",7,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",8,7942HG,Meppel
+Cornelis Houtmanstraat,2,"",9,7942HG,Meppel
+Cornelis Houtmanstraat,20,"","",7942HG,Meppel
+Cornelis Houtmanstraat,22,"","",7942HG,Meppel
+Cornelis Houtmanstraat,24,"","",7942HG,Meppel
+Cornelis Houtmanstraat,26,"","",7942HG,Meppel
+Cornelis Houtmanstraat,28,"","",7942HG,Meppel
+Cornelis Houtmanstraat,4,"","",7942HG,Meppel
+Cornelis Houtmanstraat,49,"","",7942HG,Meppel
+Cornelis Houtmanstraat,51,"","",7942HG,Meppel
+Cornelis Houtmanstraat,53,"","",7942HG,Meppel
+Cornelis Houtmanstraat,55,"","",7942HG,Meppel
+Cornelis Houtmanstraat,57,"","",7942HG,Meppel
+Cornelis Houtmanstraat,59,"","",7942HG,Meppel
+Cornelis Houtmanstraat,6,"","",7942HG,Meppel
+Cornelis Houtmanstraat,61,"","",7942HG,Meppel
+Cornelis Houtmanstraat,63,"","",7942HG,Meppel
+Cornelis Houtmanstraat,8,"","",7942HG,Meppel
+J H v Linschotenstraat,1,"","",7942HK,Meppel
+J H v Linschotenstraat,10,"","",7942HK,Meppel
+J H v Linschotenstraat,11,"","",7942HK,Meppel
+J H v Linschotenstraat,12,"","",7942HK,Meppel
+J H v Linschotenstraat,13,"","",7942HK,Meppel
+J H v Linschotenstraat,14,"","",7942HK,Meppel
+J H v Linschotenstraat,15,"","",7942HK,Meppel
+J H v Linschotenstraat,2,"","",7942HK,Meppel
+J H v Linschotenstraat,3,"","",7942HK,Meppel
+J H v Linschotenstraat,4,"","",7942HK,Meppel
+J H v Linschotenstraat,5,"","",7942HK,Meppel
+J H v Linschotenstraat,6,"","",7942HK,Meppel
+J H v Linschotenstraat,7,"","",7942HK,Meppel
+J H v Linschotenstraat,8,"","",7942HK,Meppel
+J H v Linschotenstraat,9,"","",7942HK,Meppel
+Steenwijkerstraatweg,100,"","",7942HR,Meppel
+Steenwijkerstraatweg,38,"","",7942HR,Meppel
+Steenwijkerstraatweg,78,"","",7942HR,Meppel
+Steenwijkerstraatweg,78,"","",7942HR,Meppel
+Steenwijkerstraatweg,78,A,"",7942HR,Meppel
+Steenwijkerstraatweg,78,A,"",7942HR,Meppel
+Steenwijkerstraatweg,80,"","",7942HR,Meppel
+Steenwijkerstraatweg,80,A,"",7942HR,Meppel
+Steenwijkerstraatweg,80,A,"",7942HR,Meppel
+Steenwijkerstraatweg,86,"","",7942HR,Meppel
+Steenwijkerstraatweg,86,A,"",7942HR,Meppel
+Steenwijkerstraatweg,86,B,"",7942HR,Meppel
+Steenwijkerstraatweg,88,"","",7942HR,Meppel
+Steenwijkerstraatweg,92,"","",7942HR,Meppel
+Steenwijkerstraatweg,92,A,"",7942HR,Meppel
+Steenwijkerstraatweg,94,"","",7942HR,Meppel
+Steenwijkerstraatweg,96,"","",7942HR,Meppel
+Steenwijkerstraatweg,96,A,"",7942HR,Meppel
+Steenwijkerstraatweg,96,C,"",7942HR,Meppel
+Steenwijkerstraatweg,98,"","",7942HR,Meppel
+Steenwijkerstraatweg,98,A,"",7942HR,Meppel

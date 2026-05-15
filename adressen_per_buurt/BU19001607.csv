@@ -1,77 +1,77 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8765LS,Baburen,3,,
-8765LS,Baburen,13,,
-8765LS,Baburen,1,,
-8765LS,Baburen,2,,
-8765LS,Baburen,9,,
-8765LS,Baburen,17,,
-8765LR,Bolswarderweg,1,,
-8765LR,Bolswarderweg,2,,
-8765LR,Bolswarderweg,4,,
-8765LR,Bolswarderweg,6,,
-8765LR,Bolswarderweg,1,B,
-8765LR,Bolswarderweg,3,,
-8765LT,Eemswouderlaan,4,A,
-8765LT,Eemswouderlaan,5,,
-8765LT,Eemswouderlaan,6,,
-8765LT,Eemswouderlaan,7,,
-8765LT,Eemswouderlaan,9,,
-8765LT,Eemswouderlaan,10,,
-8765LT,Eemswouderlaan,12,,
-8765LT,Eemswouderlaan,1,,
-8765LT,Eemswouderlaan,2,,
-8765LT,Eemswouderlaan,3,,
-8765LT,Eemswouderlaan,4,,
-8765LT,Eemswouderlaan,2,A,
-8765LT,Eemswouderlaan,3,A,
-8765PA,Hemdijk,2,,
-8765PA,Hemdijk,4,,
-8765PA,Hemdijk,4,,
-8765PA,Hemdijk,5,,
-8765PA,Hemdijk,7,,
-8765PA,Hemdijk,9,,
-8765PA,Hemdijk,21,,
-8765PA,Hemdijk,11,,
-8765PA,Hemdijk,17,,
-8765PD,Jousterperweg,4,,
-8765PD,Jousterperweg,2,A,
-8765PD,Jousterperweg,6,,
-8765LH,van Panhuysweg,1,B,
-8765LH,van Panhuysweg,3,,
-8765LH,van Panhuysweg,4,,
-8765LH,van Panhuysweg,12,,
-8765LH,van Panhuysweg,8,,
-8765LH,van Panhuysweg,1,A,
-8765LH,van Panhuysweg,2,,
-8765LH,van Panhuysweg,6,,
-8765LH,van Panhuysweg,10,,
-8765PC,Rytseterp,1,,
-8765PC,Rytseterp,2,,
-8765PC,Rytseterp,4,,
-8765PB,Arkum,2,,
-8765PB,Arkum,3,,
-8765PB,Arkum,1,,
-8765PB,Arkum,4,,
-8765PB,Arkum,2,A,
-8765LS,Baburen,7,,
-8765LS,Baburen,11,,
-8765LS,Baburen,5,,
-8765LR,Bolswarderweg,1,A,
-8765LR,Bolswarderweg,5,,
-8765LT,Eemswouderlaan,11,,
-8765PA,Hemdijk,19,,
-8765PA,Hemdijk,3,,
-8765PA,Hemdijk,15,,
-8765PA,Hemdijk,1,,
-8765PA,Hemdijk,13,,
-8765PD,Jousterperweg,2,,
-8765LS,Baburen,5,A,
-8765LR,Bolswarderweg,6,,
-8765PA,Hemdijk,23,,
-8765PD,Jousterperweg,8,,
-8765LS,Baburen,7,A,
-8765LS,Baburen,5,,
-8765LR,Bolswarderweg,4,A,
-8765LR,Bolswarderweg,4,B,
-8765LR,Bolswarderweg,4,C,
-8765LR,Bolswarderweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+van Panhuysweg,1,A,"",8765LH,Tjerkwerd
+van Panhuysweg,1,B,"",8765LH,Tjerkwerd
+van Panhuysweg,10,"","",8765LH,Tjerkwerd
+van Panhuysweg,12,"","",8765LH,Tjerkwerd
+van Panhuysweg,2,"","",8765LH,Tjerkwerd
+van Panhuysweg,3,"","",8765LH,Tjerkwerd
+van Panhuysweg,4,"","",8765LH,Tjerkwerd
+van Panhuysweg,6,"","",8765LH,Tjerkwerd
+van Panhuysweg,8,"","",8765LH,Tjerkwerd
+Bolswarderweg,1,"","",8765LR,Tjerkwerd
+Bolswarderweg,1,A,"",8765LR,Tjerkwerd
+Bolswarderweg,1,B,"",8765LR,Tjerkwerd
+Bolswarderweg,2,"","",8765LR,Tjerkwerd
+Bolswarderweg,3,"","",8765LR,Tjerkwerd
+Bolswarderweg,3,"","",8765LR,Tjerkwerd
+Bolswarderweg,4,"","",8765LR,Tjerkwerd
+Bolswarderweg,4,A,"",8765LR,Tjerkwerd
+Bolswarderweg,4,B,"",8765LR,Tjerkwerd
+Bolswarderweg,4,C,"",8765LR,Tjerkwerd
+Bolswarderweg,5,"","",8765LR,Tjerkwerd
+Bolswarderweg,6,"","",8765LR,Tjerkwerd
+Bolswarderweg,6,"","",8765LR,Tjerkwerd
+Baburen,1,"","",8765LS,Tjerkwerd
+Baburen,11,"","",8765LS,Tjerkwerd
+Baburen,13,"","",8765LS,Tjerkwerd
+Baburen,17,"","",8765LS,Tjerkwerd
+Baburen,2,"","",8765LS,Tjerkwerd
+Baburen,3,"","",8765LS,Tjerkwerd
+Baburen,5,"","",8765LS,Tjerkwerd
+Baburen,5,"","",8765LS,Tjerkwerd
+Baburen,5,A,"",8765LS,Tjerkwerd
+Baburen,7,"","",8765LS,Tjerkwerd
+Baburen,7,A,"",8765LS,Tjerkwerd
+Baburen,9,"","",8765LS,Tjerkwerd
+Eemswouderlaan,1,"","",8765LT,Tjerkwerd
+Eemswouderlaan,10,"","",8765LT,Tjerkwerd
+Eemswouderlaan,11,"","",8765LT,Tjerkwerd
+Eemswouderlaan,12,"","",8765LT,Tjerkwerd
+Eemswouderlaan,2,"","",8765LT,Tjerkwerd
+Eemswouderlaan,2,A,"",8765LT,Tjerkwerd
+Eemswouderlaan,3,"","",8765LT,Tjerkwerd
+Eemswouderlaan,3,A,"",8765LT,Tjerkwerd
+Eemswouderlaan,4,"","",8765LT,Tjerkwerd
+Eemswouderlaan,4,A,"",8765LT,Tjerkwerd
+Eemswouderlaan,5,"","",8765LT,Tjerkwerd
+Eemswouderlaan,6,"","",8765LT,Tjerkwerd
+Eemswouderlaan,7,"","",8765LT,Tjerkwerd
+Eemswouderlaan,9,"","",8765LT,Tjerkwerd
+Hemdijk,1,"","",8765PA,Tjerkwerd
+Hemdijk,11,"","",8765PA,Tjerkwerd
+Hemdijk,13,"","",8765PA,Tjerkwerd
+Hemdijk,15,"","",8765PA,Tjerkwerd
+Hemdijk,17,"","",8765PA,Tjerkwerd
+Hemdijk,19,"","",8765PA,Tjerkwerd
+Hemdijk,2,"","",8765PA,Tjerkwerd
+Hemdijk,21,"","",8765PA,Tjerkwerd
+Hemdijk,23,"","",8765PA,Tjerkwerd
+Hemdijk,3,"","",8765PA,Tjerkwerd
+Hemdijk,4,"","",8765PA,Tjerkwerd
+Hemdijk,4,"","",8765PA,Tjerkwerd
+Hemdijk,5,"","",8765PA,Tjerkwerd
+Hemdijk,7,"","",8765PA,Tjerkwerd
+Hemdijk,9,"","",8765PA,Tjerkwerd
+Arkum,1,"","",8765PB,Tjerkwerd
+Arkum,2,"","",8765PB,Tjerkwerd
+Arkum,2,A,"",8765PB,Tjerkwerd
+Arkum,3,"","",8765PB,Tjerkwerd
+Arkum,4,"","",8765PB,Tjerkwerd
+Rytseterp,1,"","",8765PC,Tjerkwerd
+Rytseterp,2,"","",8765PC,Tjerkwerd
+Rytseterp,4,"","",8765PC,Tjerkwerd
+Jousterperweg,2,"","",8765PD,Tjerkwerd
+Jousterperweg,2,A,"",8765PD,Tjerkwerd
+Jousterperweg,4,"","",8765PD,Tjerkwerd
+Jousterperweg,6,"","",8765PD,Tjerkwerd
+Jousterperweg,8,"","",8765PD,Tjerkwerd

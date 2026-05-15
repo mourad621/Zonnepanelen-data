@@ -1,950 +1,483 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7948AT",19,"",""
-"7948AT",21,"",""
-"7948AT",15,"",""
-"7948AT",17,"",""
-"7948AT",23,"",""
-"7948AT",5,"",""
-"7948AT",1,"B",""
-"7948AT",1,"C",""
-"7948AT",7,"",""
-"7948AT",1,"",""
-"7948AT",1,"A",""
-"7948AT",27,"",""
-"7948AT",3,"",""
-"7948AT",25,"",""
-"7948AT",9,"",""
-"7948AT",13,"",""
-"7948AT",11,"",""
-"7948AV",33,"",""
-"7948AV",53,"",""
-"7948AV",39,"",""
-"7948AV",49,"",""
-"7948AV",43,"",""
-"7948AV",37,"",""
-"7948AV",51,"",""
-"7948AV",35,"",""
-"7948AV",31,"",""
-"7948AV",47,"",""
-"7948AV",45,"",""
-"7948AV",55,"",""
-"7948AV",57,"",""
-"7948AV",29,"",""
-"7948AV",41,"",""
-"7948AV",59,"",""
-"7948AW",40,"",""
-"7948AW",4,"",""
-"7948AW",32,"",""
-"7948AW",12,"",""
-"7948AW",34,"",""
-"7948AW",16,"",""
-"7948AW",30,"",""
-"7948AW",20,"",""
-"7948AW",22,"",""
-"7948AW",28,"",""
-"7948AW",26,"",""
-"7948AW",10,"",""
-"7948AW",18,"",""
-"7948AW",38,"",""
-"7948AW",14,"",""
-"7948AW",2,"",""
-"7948AW",36,"",""
-"7948AW",24,"",""
-"7948AX",11,"",""
-"7948AX",5,"",""
-"7948AX",8,"",""
-"7948AX",6,"",""
-"7948AX",9,"",""
-"7948AX",14,"",""
-"7948AX",1,"",""
-"7948AX",4,"",""
-"7948AX",12,"",""
-"7948AX",7,"",""
-"7948AX",2,"",""
-"7948AX",10,"",""
-"7948AX",13,"",""
-"7948AX",3,"",""
-"7948BA",3,"",""
-"7948BA",1,"",""
-"7948BA",5,"",""
-"7948BA",7,"",""
-"7948BB",2,"",""
-"7948BB",36,"",""
-"7948BB",20,"",""
-"7948BB",34,"",""
-"7948BB",10,"",""
-"7948BB",32,"",""
-"7948BB",14,"",""
-"7948BB",30,"",""
-"7948BB",26,"",""
-"7948BB",22,"",""
-"7948BB",28,"",""
-"7948BB",16,"",""
-"7948BB",24,"",""
-"7948BB",18,"",""
-"7948BB",12,"",""
-"7948BB",4,"",""
-"7948BB",38,"",""
-"7948BB",8,"",""
-"7948BB",6,"",""
-"7948BC",4,"",""
-"7948BC",16,"",""
-"7948BC",14,"",""
-"7948BC",22,"",""
-"7948BC",2,"",""
-"7948BC",18,"",""
-"7948BC",6,"",""
-"7948BC",20,"",""
-"7948BC",8,"",""
-"7948BC",12,"",""
-"7948BC",10,"",""
-"7948BD",17,"",""
-"7948BD",11,"",""
-"7948BD",9,"",""
-"7948BD",21,"",""
-"7948BD",19,"",""
-"7948BD",1,"",""
-"7948BD",15,"",""
-"7948BD",3,"",""
-"7948BD",23,"",""
-"7948BD",13,"",""
-"7948BD",31,"",""
-"7948BD",5,"",""
-"7948BD",7,"",""
-"7948BD",27,"",""
-"7948BD",25,"",""
-"7948BD",29,"",""
-"7948BE",23,"",""
-"7948BE",5,"",""
-"7948BE",13,"",""
-"7948BE",1,"",""
-"7948BE",15,"",""
-"7948BE",7,"",""
-"7948BE",11,"",""
-"7948BE",25,"",""
-"7948BE",19,"",""
-"7948BE",9,"",""
-"7948BE",17,"",""
-"7948BE",3,"",""
-"7948BE",21,"",""
-"7948BG",16,"",""
-"7948BG",34,"",""
-"7948BG",28,"",""
-"7948BG",10,"",""
-"7948BG",2,"",""
-"7948BG",4,"",""
-"7948BG",24,"",""
-"7948BG",6,"",""
-"7948BG",22,"",""
-"7948BG",18,"",""
-"7948BG",14,"",""
-"7948BG",32,"",""
-"7948BG",38,"",""
-"7948BG",30,"",""
-"7948BG",26,"",""
-"7948BG",8,"",""
-"7948BG",20,"",""
-"7948BG",12,"",""
-"7948BG",36,"",""
-"7948BH",39,"",""
-"7948BH",19,"",""
-"7948BH",37,"",""
-"7948BH",29,"",""
-"7948BH",7,"",""
-"7948BH",5,"",""
-"7948BH",9,"",""
-"7948BH",11,"",""
-"7948BH",17,"",""
-"7948BH",25,"",""
-"7948BH",23,"",""
-"7948BH",13,"",""
-"7948BH",15,"",""
-"7948BH",35,"",""
-"7948BH",43,"",""
-"7948BH",41,"",""
-"7948BH",45,"",""
-"7948BH",47,"",""
-"7948BH",21,"",""
-"7948BH",27,"",""
-"7948BH",1,"",""
-"7948BH",33,"",""
-"7948BH",31,"",""
-"7948BH",3,"",""
-"7948BJ",2,"",""
-"7948BJ",14,"",""
-"7948BJ",22,"",""
-"7948BJ",24,"",""
-"7948BJ",10,"",""
-"7948BJ",30,"",""
-"7948BJ",20,"",""
-"7948BJ",6,"",""
-"7948BJ",16,"",""
-"7948BJ",28,"",""
-"7948BJ",12,"",""
-"7948BJ",18,"",""
-"7948BJ",8,"",""
-"7948BJ",26,"",""
-"7948BJ",4,"",""
-"7948BK",12,"","29"
-"7948BK",12,"","14"
-"7948BK",12,"","08"
-"7948BK",12,"","27"
-"7948BK",12,"","25"
-"7948BK",12,"","01"
-"7948BK",12,"","06"
-"7948BK",12,"","05"
-"7948BK",12,"","02"
-"7948BK",12,"","13"
-"7948BK",12,"","28"
-"7948BK",12,"","22"
-"7948BK",12,"","04"
-"7948BK",12,"","10"
-"7948BK",26,"",""
-"7948BK",12,"","09"
-"7948BK",34,"",""
-"7948BK",10,"",""
-"7948BK",12,"","07"
-"7948BK",18,"",""
-"7948BK",12,"",""
-"7948BK",12,"","15"
-"7948BK",11,"",""
-"7948BK",22,"",""
-"7948BK",32,"",""
-"7948BK",28,"",""
-"7948BK",12,"","21"
-"7948BK",12,"","11"
-"7948BK",12,"","03"
-"7948BK",12,"","23"
-"7948BK",12,"","12"
-"7948BK",12,"","26"
-"7948BK",12,"","30"
-"7948BK",30,"",""
-"7948BK",12,"","16"
-"7948BK",5,"",""
-"7948BK",24,"",""
-"7948BK",9,"",""
-"7948BK",4,"",""
-"7948BK",12,"","17"
-"7948BK",20,"",""
-"7948BK",12,"","24"
-"7948BK",12,"","18"
-"7948BK",7,"",""
-"7948BK",14,"",""
-"7948BK",3,"",""
-"7948BK",8,"",""
-"7948BK",6,"",""
-"7948BK",14,"",""
-"7948BK",2,"",""
-"7948BK",12,"","19"
-"7948BK",12,"","20"
-"7948BK",16,"",""
-"7948BK",14,"",""
-"7948BL",25,"D",""
-"7948BL",25,"F",""
-"7948BL",25,"H",""
-"7948BL",35,"",""
-"7948BL",27,"A",""
-"7948BL",25,"J",""
-"7948BL",25,"H",""
-"7948BL",23,"A",""
-"7948BL",25,"D",""
-"7948BL",25,"B",""
-"7948BL",25,"J",""
-"7948BL",25,"J",""
-"7948BL",25,"F",""
-"7948BL",25,"G",""
-"7948BL",25,"G",""
-"7948BL",25,"G",""
-"7948BL",23,"",""
-"7948BL",25,"A",""
-"7948BL",29,"",""
-"7948BL",25,"H",""
-"7948BL",27,"",""
-"7948BL",13,"",""
-"7948BL",25,"B",""
-"7948BL",25,"A",""
-"7948BL",3,"",""
-"7948BL",25,"E",""
-"7948BL",25,"E",""
-"7948BL",25,"E",""
-"7948BL",25,"K",""
-"7948BL",23,"",""
-"7948BL",37,"",""
-"7948BL",11,"",""
-"7948BL",25,"F",""
-"7948BL",31,"",""
-"7948BL",25,"",""
-"7948BL",23,"",""
-"7948BL",5,"",""
-"7948BL",23,"A",""
-"7948BL",39,"",""
-"7948BL",25,"C",""
-"7948BL",23,"",""
-"7948BL",25,"",""
-"7948BL",33,"",""
-"7948BL",7,"",""
-"7948BL",11,"",""
-"7948BL",41,"",""
-"7948BL",25,"A",""
-"7948BL",25,"B",""
-"7948BL",11,"",""
-"7948BL",25,"C",""
-"7948BL",9,"",""
-"7948BL",25,"C",""
-"7948BL",25,"D",""
-"7948DA",4,"M",""
-"7948DA",2,"B",""
-"7948DA",4,"R",""
-"7948DA",4,"P",""
-"7948DA",4,"J",""
-"7948DA",2,"C",""
-"7948DA",4,"B",""
-"7948DA",4,"E",""
-"7948DA",4,"F",""
-"7948DA",4,"C",""
-"7948DA",2,"A",""
-"7948DA",4,"K",""
-"7948DA",2,"",""
-"7948DA",36,"",""
-"7948DA",26,"",""
-"7948DA",4,"H",""
-"7948DA",22,"",""
-"7948DA",12,"",""
-"7948DA",4,"L",""
-"7948DA",14,"",""
-"7948DA",4,"D",""
-"7948DA",16,"",""
-"7948DA",4,"A",""
-"7948DA",30,"",""
-"7948DA",10,"",""
-"7948DA",38,"",""
-"7948DA",4,"S",""
-"7948DA",28,"",""
-"7948DA",4,"N",""
-"7948DA",34,"",""
-"7948DA",32,"",""
-"7948DA",4,"G",""
-"7948DA",24,"",""
-"7948DB",17,"",""
-"7948DB",9,"",""
-"7948DB",13,"",""
-"7948DB",31,"",""
-"7948DB",11,"",""
-"7948DB",3,"",""
-"7948DB",7,"",""
-"7948DB",25,"",""
-"7948DB",19,"",""
-"7948DB",23,"",""
-"7948DB",27,"",""
-"7948DB",1,"",""
-"7948DB",21,"",""
-"7948DB",5,"",""
-"7948DB",15,"",""
-"7948DB",29,"",""
-"7948DC",11,"",""
-"7948DC",5,"",""
-"7948DC",1,"",""
-"7948DC",17,"",""
-"7948DC",23,"",""
-"7948DC",15,"",""
-"7948DC",25,"",""
-"7948DC",27,"",""
-"7948DC",13,"",""
-"7948DC",3,"",""
-"7948DC",29,"",""
-"7948DC",31,"",""
-"7948DC",33,"",""
-"7948DC",9,"",""
-"7948DC",19,"",""
-"7948DC",21,"",""
-"7948DD",22,"",""
-"7948DD",12,"",""
-"7948DD",18,"",""
-"7948DD",16,"",""
-"7948DD",4,"",""
-"7948DD",24,"",""
-"7948DD",14,"",""
-"7948DD",20,"",""
-"7948DD",10,"",""
-"7948DD",2,"",""
-"7948DD",26,"",""
-"7948DD",8,"",""
-"7948DE",2,"B",""
-"7948DE",24,"",""
-"7948DE",2,"C",""
-"7948DE",2,"A",""
-"7948DE",2,"",""
-"7948DE",32,"",""
-"7948DE",22,"A",""
-"7948DE",20,"",""
-"7948DE",4,"",""
-"7948DE",34,"",""
-"7948DE",8,"",""
-"7948DE",10,"",""
-"7948DE",6,"",""
-"7948DE",38,"",""
-"7948DE",14,"",""
-"7948DE",26,"",""
-"7948DE",4,"A",""
-"7948DE",12,"",""
-"7948DE",28,"",""
-"7948DE",16,"",""
-"7948DE",22,"",""
-"7948DE",18,"",""
-"7948DE",36,"",""
-"7948DE",30,"",""
-"7948DG",9,"",""
-"7948DG",25,"",""
-"7948DG",13,"",""
-"7948DG",5,"A",""
-"7948DG",9,"A",""
-"7948DG",7,"A",""
-"7948DG",5,"",""
-"7948DG",23,"",""
-"7948DG",11,"",""
-"7948DG",17,"",""
-"7948DG",27,"",""
-"7948DG",15,"",""
-"7948DG",1,"",""
-"7948DG",7,"",""
-"7948DG",21,"",""
-"7948DG",3,"",""
-"7948DG",19,"",""
-"7948DH",18,"",""
-"7948DH",12,"A",""
-"7948DH",22,"",""
-"7948DH",6,"",""
-"7948DH",16,"",""
-"7948DH",14,"",""
-"7948DH",32,"",""
-"7948DH",16,"A",""
-"7948DH",20,"",""
-"7948DH",30,"",""
-"7948DH",2,"",""
-"7948DH",10,"A",""
-"7948DH",14,"A",""
-"7948DH",4,"",""
-"7948DH",12,"",""
-"7948DH",24,"",""
-"7948DH",26,"",""
-"7948DH",28,"",""
-"7948DH",8,"",""
-"7948DH",10,"",""
-"7948DJ",1,"",""
-"7948DJ",9,"",""
-"7948DJ",19,"A",""
-"7948DJ",11,"",""
-"7948DJ",7,"",""
-"7948DJ",21,"",""
-"7948DJ",19,"",""
-"7948DJ",13,"",""
-"7948DJ",29,"",""
-"7948DJ",5,"",""
-"7948DJ",23,"",""
-"7948DJ",1,"A",""
-"7948DJ",7,"A",""
-"7948DJ",17,"A",""
-"7948DJ",25,"",""
-"7948DJ",3,"",""
-"7948DJ",15,"A",""
-"7948DJ",27,"",""
-"7948DJ",17,"",""
-"7948DJ",15,"",""
-"7948DK",14,"",""
-"7948DK",7,"",""
-"7948DK",5,"",""
-"7948DK",4,"",""
-"7948DK",10,"",""
-"7948DK",8,"",""
-"7948DK",12,"",""
-"7948DK",3,"",""
-"7948DK",1,"",""
-"7948DK",2,"",""
-"7948DK",6,"",""
-"7948NM",1,"A",""
-"7948NM",3,"A",""
-"7948NM",3,"",""
-"7948NM",5,"",""
-"7948NM",3,"A",""
-"7948NM",4,"",""
-"7948NM",2,"",""
-"7948NM",3,"",""
-"7948NM",1,"",""
-"7948NM",6,"",""
-"7948NM",17,"",""
-"7948NM",1,"A",""
-"7948NM",3,"A",""
-"7948NM",7,"",""
-"7948NM",11,"",""
-"7948NM",9,"",""
-"7948NM",19,"",""
-"7948NM",13,"",""
-"7948NM",21,"",""
-"7948NM",15,"",""
-7948BC,Dr. van den Bergstraat,12,,
-7948BC,Dr. van den Bergstraat,14,,
-7948BC,Dr. van den Bergstraat,16,,
-7948BC,Dr. van den Bergstraat,18,,
-7948BC,Dr. van den Bergstraat,20,,
-7948BC,Dr. van den Bergstraat,22,,
-7948BC,Dr. van den Bergstraat,2,,
-7948BC,Dr. van den Bergstraat,4,,
-7948BC,Dr. van den Bergstraat,6,,
-7948BC,Dr. van den Bergstraat,8,,
-7948BC,Dr. van den Bergstraat,10,,
-7948AX,De berken,2,,
-7948AX,De berken,4,,
-7948AX,De berken,6,,
-7948AX,De berken,8,,
-7948AX,De berken,10,,
-7948AX,De berken,12,,
-7948AX,De berken,1,,
-7948AX,De berken,3,,
-7948AX,De berken,5,,
-7948AX,De berken,7,,
-7948AX,De berken,9,,
-7948AX,De berken,11,,
-7948DA,Binnenveen,2,,
-7948DA,Binnenveen,10,,
-7948DA,Binnenveen,12,,
-7948DA,Binnenveen,14,,
-7948DA,Binnenveen,16,,
-7948DA,Binnenveen,22,,
-7948DA,Binnenveen,24,,
-7948DA,Binnenveen,26,,
-7948DA,Binnenveen,28,,
-7948DA,Binnenveen,30,,
-7948DA,Binnenveen,32,,
-7948DA,Binnenveen,34,,
-7948DA,Binnenveen,36,,
-7948DA,Binnenveen,38,,
-7948DB,Binnenveen,1,,
-7948DB,Binnenveen,3,,
-7948DB,Binnenveen,5,,
-7948DB,Binnenveen,7,,
-7948DB,Binnenveen,9,,
-7948DB,Binnenveen,11,,
-7948DB,Binnenveen,13,,
-7948DB,Binnenveen,15,,
-7948DB,Binnenveen,17,,
-7948DB,Binnenveen,19,,
-7948DB,Binnenveen,21,,
-7948DB,Binnenveen,23,,
-7948DB,Binnenveen,25,,
-7948DB,Binnenveen,27,,
-7948DB,Binnenveen,29,,
-7948DB,Binnenveen,31,,
-7948BL,Dorpsstraat,3,,
-7948BL,Dorpsstraat,9,,
-7948BL,Dorpsstraat,11,,
-7948BL,Dorpsstraat,13,,
-7948BL,Dorpsstraat,23,,
-7948BL,Dorpsstraat,25,,
-7948BL,Dorpsstraat,27,,
-7948BL,Dorpsstraat,29,,
-7948BL,Dorpsstraat,31,,
-7948BL,Dorpsstraat,33,,
-7948BL,Dorpsstraat,35,,
-7948BL,Dorpsstraat,37,,
-7948BL,Dorpsstraat,39,,
-7948BL,Dorpsstraat,27,A,
-7948BK,Ds. van Halsemastraat,2,,
-7948BK,Ds. van Halsemastraat,4,,
-7948BK,Ds. van Halsemastraat,6,,
-7948BK,Ds. van Halsemastraat,8,,
-7948BK,Ds. van Halsemastraat,10,,
-7948BK,Ds. van Halsemastraat,3,,
-7948BK,Ds. van Halsemastraat,5,,
-7948BK,Ds. van Halsemastraat,7,,
-7948BK,Ds. van Halsemastraat,9,,
-7948BK,Ds. van Halsemastraat,11,,
-7948BK,Ds. van Halsemastraat,12,,
-7948BE,Karspelstraat,1,,
-7948BE,Karspelstraat,3,,
-7948BE,Karspelstraat,5,,
-7948BE,Karspelstraat,7,,
-7948BE,Karspelstraat,9,,
-7948BE,Karspelstraat,11,,
-7948BE,Karspelstraat,13,,
-7948BE,Karspelstraat,15,,
-7948BE,Karspelstraat,17,,
-7948BE,Karspelstraat,19,,
-7948BE,Karspelstraat,21,,
-7948BE,Karspelstraat,23,,
-7948BE,Karspelstraat,25,,
-7948BG,Karspelstraat,2,,
-7948BG,Karspelstraat,4,,
-7948BG,Karspelstraat,6,,
-7948BG,Karspelstraat,8,,
-7948BG,Karspelstraat,10,,
-7948BG,Karspelstraat,12,,
-7948BG,Karspelstraat,14,,
-7948BG,Karspelstraat,16,,
-7948BG,Karspelstraat,18,,
-7948BG,Karspelstraat,20,,
-7948BG,Karspelstraat,22,,
-7948BG,Karspelstraat,24,,
-7948BG,Karspelstraat,26,,
-7948BG,Karspelstraat,28,,
-7948BG,Karspelstraat,30,,
-7948BG,Karspelstraat,32,,
-7948BG,Karspelstraat,34,,
-7948BG,Karspelstraat,36,,
-7948BG,Karspelstraat,38,,
-7948DC,Leeuwerikstraat,1,,
-7948DC,Leeuwerikstraat,3,,
-7948DC,Leeuwerikstraat,5,,
-7948DC,Leeuwerikstraat,9,,
-7948DC,Leeuwerikstraat,11,,
-7948DC,Leeuwerikstraat,13,,
-7948DC,Leeuwerikstraat,15,,
-7948DC,Leeuwerikstraat,17,,
-7948DC,Leeuwerikstraat,19,,
-7948DC,Leeuwerikstraat,21,,
-7948DC,Leeuwerikstraat,23,,
-7948DC,Leeuwerikstraat,25,,
-7948DC,Leeuwerikstraat,27,,
-7948DC,Leeuwerikstraat,29,,
-7948DC,Leeuwerikstraat,31,,
-7948DC,Leeuwerikstraat,33,,
-7948DD,Leeuwerikstraat,2,,
-7948DD,Leeuwerikstraat,4,,
-7948DD,Leeuwerikstraat,8,,
-7948DD,Leeuwerikstraat,10,,
-7948DD,Leeuwerikstraat,12,,
-7948DD,Leeuwerikstraat,14,,
-7948DD,Leeuwerikstraat,16,,
-7948DD,Leeuwerikstraat,18,,
-7948DD,Leeuwerikstraat,20,,
-7948DD,Leeuwerikstraat,22,,
-7948DD,Leeuwerikstraat,24,,
-7948DD,Leeuwerikstraat,26,,
-7948DH,Lijsterstraat,32,,
-7948DH,Lijsterstraat,12,A,
-7948DH,Lijsterstraat,10,A,
-7948DH,Lijsterstraat,14,A,
-7948DH,Lijsterstraat,16,A,
-7948DH,Lijsterstraat,2,,
-7948DH,Lijsterstraat,4,,
-7948DH,Lijsterstraat,6,,
-7948DH,Lijsterstraat,8,,
-7948DH,Lijsterstraat,10,,
-7948DH,Lijsterstraat,12,,
-7948DH,Lijsterstraat,14,,
-7948DH,Lijsterstraat,16,,
-7948DH,Lijsterstraat,18,,
-7948DH,Lijsterstraat,20,,
-7948DH,Lijsterstraat,22,,
-7948DH,Lijsterstraat,24,,
-7948DH,Lijsterstraat,26,,
-7948DH,Lijsterstraat,28,,
-7948DH,Lijsterstraat,30,,
-7948DJ,Lijsterstraat,1,,
-7948DJ,Lijsterstraat,3,,
-7948DJ,Lijsterstraat,5,,
-7948DJ,Lijsterstraat,7,,
-7948DJ,Lijsterstraat,9,,
-7948DJ,Lijsterstraat,11,,
-7948DJ,Lijsterstraat,13,,
-7948DJ,Lijsterstraat,15,,
-7948DJ,Lijsterstraat,17,,
-7948DJ,Lijsterstraat,19,,
-7948DJ,Lijsterstraat,21,,
-7948DJ,Lijsterstraat,23,,
-7948DJ,Lijsterstraat,15,A,
-7948DJ,Lijsterstraat,19,A,
-7948DJ,Lijsterstraat,17,A,
-7948DJ,Lijsterstraat,7,A,
-7948DJ,Lijsterstraat,1,A,
-7948DJ,Lijsterstraat,25,,
-7948DJ,Lijsterstraat,27,,
-7948DJ,Lijsterstraat,29,,
-7948DE,Merelstraat,22,A,
-7948DE,Merelstraat,2,A,
-7948DE,Merelstraat,2,C,
-7948DE,Merelstraat,2,B,
-7948DE,Merelstraat,4,A,
-7948DE,Merelstraat,34,,
-7948DE,Merelstraat,2,,
-7948DE,Merelstraat,4,,
-7948DE,Merelstraat,6,,
-7948DE,Merelstraat,8,,
-7948DE,Merelstraat,10,,
-7948DE,Merelstraat,12,,
-7948DE,Merelstraat,14,,
-7948DE,Merelstraat,16,,
-7948DE,Merelstraat,18,,
-7948DE,Merelstraat,20,,
-7948DE,Merelstraat,22,,
-7948DE,Merelstraat,24,,
-7948DE,Merelstraat,26,,
-7948DE,Merelstraat,28,,
-7948DE,Merelstraat,30,,
-7948DE,Merelstraat,32,,
-7948DE,Merelstraat,36,,
-7948DE,Merelstraat,38,,
-7948DG,Merelstraat,17,,
-7948DG,Merelstraat,19,,
-7948DG,Merelstraat,21,,
-7948DG,Merelstraat,5,A,
-7948DG,Merelstraat,9,A,
-7948DG,Merelstraat,7,A,
-7948DG,Merelstraat,23,,
-7948DG,Merelstraat,1,,
-7948DG,Merelstraat,3,,
-7948DG,Merelstraat,5,,
-7948DG,Merelstraat,7,,
-7948DG,Merelstraat,9,,
-7948DG,Merelstraat,11,,
-7948DG,Merelstraat,13,,
-7948DG,Merelstraat,15,,
-7948DG,Merelstraat,25,,
-7948DG,Merelstraat,27,,
-7948BH,Polderstraat,1,,
-7948BH,Polderstraat,3,,
-7948BH,Polderstraat,5,,
-7948BH,Polderstraat,7,,
-7948BH,Polderstraat,9,,
-7948BH,Polderstraat,11,,
-7948BH,Polderstraat,13,,
-7948BH,Polderstraat,15,,
-7948BH,Polderstraat,17,,
-7948BH,Polderstraat,19,,
-7948BH,Polderstraat,21,,
-7948BH,Polderstraat,23,,
-7948BH,Polderstraat,25,,
-7948BH,Polderstraat,27,,
-7948BH,Polderstraat,29,,
-7948BH,Polderstraat,31,,
-7948BH,Polderstraat,33,,
-7948BH,Polderstraat,35,,
-7948BH,Polderstraat,37,,
-7948BH,Polderstraat,39,,
-7948BH,Polderstraat,41,,
-7948BH,Polderstraat,43,,
-7948BH,Polderstraat,45,,
-7948BH,Polderstraat,47,,
-7948BJ,Polderstraat,2,,
-7948BJ,Polderstraat,4,,
-7948BJ,Polderstraat,6,,
-7948BJ,Polderstraat,8,,
-7948BJ,Polderstraat,10,,
-7948BJ,Polderstraat,12,,
-7948BJ,Polderstraat,14,,
-7948BJ,Polderstraat,16,,
-7948BJ,Polderstraat,18,,
-7948BJ,Polderstraat,20,,
-7948BJ,Polderstraat,22,,
-7948BJ,Polderstraat,24,,
-7948BJ,Polderstraat,26,,
-7948BJ,Polderstraat,28,,
-7948BJ,Polderstraat,30,,
-7948AT,Rembrandtstraat,1,,
-7948AT,Rembrandtstraat,1,A,
-7948AT,Rembrandtstraat,1,B,
-7948AT,Rembrandtstraat,1,C,
-7948AT,Rembrandtstraat,3,,
-7948AT,Rembrandtstraat,5,,
-7948AT,Rembrandtstraat,7,,
-7948AT,Rembrandtstraat,9,,
-7948AT,Rembrandtstraat,11,,
-7948AT,Rembrandtstraat,13,,
-7948AT,Rembrandtstraat,15,,
-7948AT,Rembrandtstraat,17,,
-7948AT,Rembrandtstraat,19,,
-7948AT,Rembrandtstraat,21,,
-7948AT,Rembrandtstraat,23,,
-7948AT,Rembrandtstraat,25,,
-7948AT,Rembrandtstraat,27,,
-7948AV,Rembrandtstraat,57,,
-7948AV,Rembrandtstraat,59,,
-7948AV,Rembrandtstraat,29,,
-7948AV,Rembrandtstraat,31,,
-7948AV,Rembrandtstraat,33,,
-7948AV,Rembrandtstraat,35,,
-7948AV,Rembrandtstraat,37,,
-7948AV,Rembrandtstraat,39,,
-7948AV,Rembrandtstraat,41,,
-7948AV,Rembrandtstraat,43,,
-7948AV,Rembrandtstraat,45,,
-7948AV,Rembrandtstraat,47,,
-7948AV,Rembrandtstraat,49,,
-7948AV,Rembrandtstraat,51,,
-7948AV,Rembrandtstraat,53,,
-7948AV,Rembrandtstraat,55,,
-7948AW,Rembrandtstraat,2,,
-7948AW,Rembrandtstraat,30,,
-7948AW,Rembrandtstraat,32,,
-7948AW,Rembrandtstraat,34,,
-7948AW,Rembrandtstraat,36,,
-7948AW,Rembrandtstraat,38,,
-7948AW,Rembrandtstraat,40,,
-7948AW,Rembrandtstraat,4,,
-7948AW,Rembrandtstraat,10,,
-7948AW,Rembrandtstraat,12,,
-7948AW,Rembrandtstraat,14,,
-7948AW,Rembrandtstraat,16,,
-7948AW,Rembrandtstraat,18,,
-7948AW,Rembrandtstraat,20,,
-7948AW,Rembrandtstraat,22,,
-7948AW,Rembrandtstraat,24,,
-7948AW,Rembrandtstraat,26,,
-7948AW,Rembrandtstraat,28,,
-7948BD,Schoutstraat,1,,
-7948BD,Schoutstraat,3,,
-7948BD,Schoutstraat,5,,
-7948BD,Schoutstraat,7,,
-7948BD,Schoutstraat,9,,
-7948BD,Schoutstraat,11,,
-7948BD,Schoutstraat,13,,
-7948BD,Schoutstraat,15,,
-7948BD,Schoutstraat,17,,
-7948BD,Schoutstraat,19,,
-7948BD,Schoutstraat,21,,
-7948BD,Schoutstraat,23,,
-7948BD,Schoutstraat,25,,
-7948BD,Schoutstraat,27,,
-7948BD,Schoutstraat,29,,
-7948BD,Schoutstraat,31,,
-7948NM,Schuurmansweg,2,,
-7948NM,Schuurmansweg,4,,
-7948NM,Schuurmansweg,6,,
-7948NM,Schuurmansweg,1,,
-7948NM,Schuurmansweg,3,,
-7948NM,Schuurmansweg,21,,
-7948BA,De wilgen,1,,
-7948BA,De wilgen,3,,
-7948BA,De wilgen,5,,
-7948BA,De wilgen,7,,
-7948BB,De wilgen,2,,
-7948BB,De wilgen,4,,
-7948BB,De wilgen,6,,
-7948BB,De wilgen,8,,
-7948BB,De wilgen,10,,
-7948BB,De wilgen,12,,
-7948BB,De wilgen,14,,
-7948BB,De wilgen,16,,
-7948BB,De wilgen,18,,
-7948BB,De wilgen,20,,
-7948BB,De wilgen,22,,
-7948BB,De wilgen,24,,
-7948BB,De wilgen,26,,
-7948BB,De wilgen,28,,
-7948BB,De wilgen,30,,
-7948BB,De wilgen,32,,
-7948BB,De wilgen,34,,
-7948BB,De wilgen,36,,
-7948BB,De wilgen,38,,
-7948DK,Gruttostraat,2,,
-7948DK,Gruttostraat,4,,
-7948DK,Gruttostraat,6,,
-7948DK,Gruttostraat,8,,
-7948DK,Gruttostraat,10,,
-7948DK,Gruttostraat,12,,
-7948DK,Gruttostraat,14,,
-7948DK,Gruttostraat,1,,
-7948DK,Gruttostraat,3,,
-7948DK,Gruttostraat,5,,
-7948DK,Gruttostraat,7,,
-7948DA,Binnenveen,2,A,
-7948DA,Binnenveen,2,B,
-7948BL,Dorpsstraat,41,,
-7948BL,Dorpsstraat,5,,
-7948BL,Dorpsstraat,7,,
-7948BK,Ds. van Halsemastraat,14,,
-7948AX,De berken,13,,
-7948AX,De berken,14,,
-7948DA,Binnenveen,4,A,
-7948DA,Binnenveen,4,B,
-7948DA,Binnenveen,4,C,
-7948DA,Binnenveen,4,D,
-7948DA,Binnenveen,4,E,
-7948DA,Binnenveen,4,F,
-7948DA,Binnenveen,4,G,
-7948DA,Binnenveen,4,H,
-7948DA,Binnenveen,4,J,
-7948DA,Binnenveen,4,K,
-7948DA,Binnenveen,4,L,
-7948DA,Binnenveen,4,M,
-7948DA,Binnenveen,4,N,
-7948DA,Binnenveen,4,P,
-7948DA,Binnenveen,4,R,
-7948DA,Binnenveen,4,S,
-7948BL,Dorpsstraat,25,A,
-7948BL,Dorpsstraat,25,B,
-7948BL,Dorpsstraat,25,C,
-7948BL,Dorpsstraat,25,D,
-7948BL,Dorpsstraat,25,E,
-7948BL,Dorpsstraat,25,F,
-7948BL,Dorpsstraat,25,G,
-7948BL,Dorpsstraat,25,H,
-7948BL,Dorpsstraat,25,J,
-7948BL,Dorpsstraat,25,A,
-7948BL,Dorpsstraat,25,B,
-7948BL,Dorpsstraat,25,D,
-7948BL,Dorpsstraat,25,F,
-7948BL,Dorpsstraat,25,H,
-7948BL,Dorpsstraat,25,K,
-7948BL,Dorpsstraat,25,C,
-7948BL,Dorpsstraat,25,E,
-7948BL,Dorpsstraat,25,G,
-7948BL,Dorpsstraat,25,J,
-7948BL,Dorpsstraat,23,,
-7948BL,Dorpsstraat,23,,
-7948BL,Dorpsstraat,23,A,
-7948BL,Dorpsstraat,23,A,
-7948BL,Dorpsstraat,11,,
-7948BK,Ds. van Halsemastraat,12,,10
-7948BK,Ds. van Halsemastraat,12,,11
-7948BK,Ds. van Halsemastraat,12,,12
-7948BK,Ds. van Halsemastraat,12,,13
-7948BK,Ds. van Halsemastraat,12,,14
-7948BK,Ds. van Halsemastraat,12,,15
-7948BK,Ds. van Halsemastraat,12,,16
-7948BK,Ds. van Halsemastraat,12,,17
-7948BK,Ds. van Halsemastraat,12,,18
-7948BK,Ds. van Halsemastraat,12,,19
-7948BK,Ds. van Halsemastraat,12,,20
-7948BK,Ds. van Halsemastraat,12,,21
-7948BK,Ds. van Halsemastraat,12,,22
-7948BK,Ds. van Halsemastraat,12,,23
-7948BK,Ds. van Halsemastraat,12,,24
-7948BK,Ds. van Halsemastraat,12,,25
-7948BK,Ds. van Halsemastraat,12,,26
-7948BK,Ds. van Halsemastraat,12,,27
-7948BK,Ds. van Halsemastraat,12,,28
-7948BK,Ds. van Halsemastraat,12,,29
-7948BK,Ds. van Halsemastraat,12,,30
-7948BK,Ds. van Halsemastraat,12,,01
-7948BK,Ds. van Halsemastraat,12,,02
-7948BK,Ds. van Halsemastraat,12,,03
-7948BK,Ds. van Halsemastraat,12,,04
-7948BK,Ds. van Halsemastraat,12,,05
-7948BK,Ds. van Halsemastraat,12,,06
-7948BK,Ds. van Halsemastraat,12,,07
-7948BK,Ds. van Halsemastraat,12,,08
-7948BK,Ds. van Halsemastraat,12,,09
-7948BK,Ds. van Halsemastraat,14,,
-7948BK,Ds. van Halsemastraat,16,,
-7948BK,Ds. van Halsemastraat,18,,
-7948BK,Ds. van Halsemastraat,20,,
-7948BK,Ds. van Halsemastraat,22,,
-7948BK,Ds. van Halsemastraat,24,,
-7948BK,Ds. van Halsemastraat,26,,
-7948BK,Ds. van Halsemastraat,28,,
-7948BK,Ds. van Halsemastraat,30,,
-7948BK,Ds. van Halsemastraat,32,,
-7948BK,Ds. van Halsemastraat,34,,
-7948NM,Schuurmansweg,1,A,
-7948NM,Schuurmansweg,3,A,
-7948NM,Schuurmansweg,3,A,
-7948NM,Schuurmansweg,17,,
-7948NM,Schuurmansweg,3,,
-7948NM,Schuurmansweg,5,,
-7948NM,Schuurmansweg,7,,
-7948NM,Schuurmansweg,9,,
-7948NM,Schuurmansweg,11,,
-7948NM,Schuurmansweg,13,,
-7948NM,Schuurmansweg,15,,
-7948NM,Schuurmansweg,19,,
-7948DA,Binnenveen,2,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rembrandtstraat,1,"","",7948AT,Nijeveen
+Rembrandtstraat,1,A,"",7948AT,Nijeveen
+Rembrandtstraat,1,B,"",7948AT,Nijeveen
+Rembrandtstraat,1,C,"",7948AT,Nijeveen
+Rembrandtstraat,11,"","",7948AT,Nijeveen
+Rembrandtstraat,13,"","",7948AT,Nijeveen
+Rembrandtstraat,15,"","",7948AT,Nijeveen
+Rembrandtstraat,17,"","",7948AT,Nijeveen
+Rembrandtstraat,19,"","",7948AT,Nijeveen
+Rembrandtstraat,21,"","",7948AT,Nijeveen
+Rembrandtstraat,23,"","",7948AT,Nijeveen
+Rembrandtstraat,25,"","",7948AT,Nijeveen
+Rembrandtstraat,27,"","",7948AT,Nijeveen
+Rembrandtstraat,3,"","",7948AT,Nijeveen
+Rembrandtstraat,5,"","",7948AT,Nijeveen
+Rembrandtstraat,7,"","",7948AT,Nijeveen
+Rembrandtstraat,9,"","",7948AT,Nijeveen
+Rembrandtstraat,29,"","",7948AV,Nijeveen
+Rembrandtstraat,31,"","",7948AV,Nijeveen
+Rembrandtstraat,33,"","",7948AV,Nijeveen
+Rembrandtstraat,35,"","",7948AV,Nijeveen
+Rembrandtstraat,37,"","",7948AV,Nijeveen
+Rembrandtstraat,39,"","",7948AV,Nijeveen
+Rembrandtstraat,41,"","",7948AV,Nijeveen
+Rembrandtstraat,43,"","",7948AV,Nijeveen
+Rembrandtstraat,45,"","",7948AV,Nijeveen
+Rembrandtstraat,47,"","",7948AV,Nijeveen
+Rembrandtstraat,49,"","",7948AV,Nijeveen
+Rembrandtstraat,51,"","",7948AV,Nijeveen
+Rembrandtstraat,53,"","",7948AV,Nijeveen
+Rembrandtstraat,55,"","",7948AV,Nijeveen
+Rembrandtstraat,57,"","",7948AV,Nijeveen
+Rembrandtstraat,59,"","",7948AV,Nijeveen
+Rembrandtstraat,10,"","",7948AW,Nijeveen
+Rembrandtstraat,12,"","",7948AW,Nijeveen
+Rembrandtstraat,14,"","",7948AW,Nijeveen
+Rembrandtstraat,16,"","",7948AW,Nijeveen
+Rembrandtstraat,18,"","",7948AW,Nijeveen
+Rembrandtstraat,2,"","",7948AW,Nijeveen
+Rembrandtstraat,20,"","",7948AW,Nijeveen
+Rembrandtstraat,22,"","",7948AW,Nijeveen
+Rembrandtstraat,24,"","",7948AW,Nijeveen
+Rembrandtstraat,26,"","",7948AW,Nijeveen
+Rembrandtstraat,28,"","",7948AW,Nijeveen
+Rembrandtstraat,30,"","",7948AW,Nijeveen
+Rembrandtstraat,32,"","",7948AW,Nijeveen
+Rembrandtstraat,34,"","",7948AW,Nijeveen
+Rembrandtstraat,36,"","",7948AW,Nijeveen
+Rembrandtstraat,38,"","",7948AW,Nijeveen
+Rembrandtstraat,4,"","",7948AW,Nijeveen
+Rembrandtstraat,40,"","",7948AW,Nijeveen
+De berken,1,"","",7948AX,Nijeveen
+De berken,10,"","",7948AX,Nijeveen
+De berken,11,"","",7948AX,Nijeveen
+De berken,12,"","",7948AX,Nijeveen
+De berken,13,"","",7948AX,Nijeveen
+De berken,14,"","",7948AX,Nijeveen
+De berken,2,"","",7948AX,Nijeveen
+De berken,3,"","",7948AX,Nijeveen
+De berken,4,"","",7948AX,Nijeveen
+De berken,5,"","",7948AX,Nijeveen
+De berken,6,"","",7948AX,Nijeveen
+De berken,7,"","",7948AX,Nijeveen
+De berken,8,"","",7948AX,Nijeveen
+De berken,9,"","",7948AX,Nijeveen
+De wilgen,1,"","",7948BA,Nijeveen
+De wilgen,3,"","",7948BA,Nijeveen
+De wilgen,5,"","",7948BA,Nijeveen
+De wilgen,7,"","",7948BA,Nijeveen
+De wilgen,10,"","",7948BB,Nijeveen
+De wilgen,12,"","",7948BB,Nijeveen
+De wilgen,14,"","",7948BB,Nijeveen
+De wilgen,16,"","",7948BB,Nijeveen
+De wilgen,18,"","",7948BB,Nijeveen
+De wilgen,2,"","",7948BB,Nijeveen
+De wilgen,20,"","",7948BB,Nijeveen
+De wilgen,22,"","",7948BB,Nijeveen
+De wilgen,24,"","",7948BB,Nijeveen
+De wilgen,26,"","",7948BB,Nijeveen
+De wilgen,28,"","",7948BB,Nijeveen
+De wilgen,30,"","",7948BB,Nijeveen
+De wilgen,32,"","",7948BB,Nijeveen
+De wilgen,34,"","",7948BB,Nijeveen
+De wilgen,36,"","",7948BB,Nijeveen
+De wilgen,38,"","",7948BB,Nijeveen
+De wilgen,4,"","",7948BB,Nijeveen
+De wilgen,6,"","",7948BB,Nijeveen
+De wilgen,8,"","",7948BB,Nijeveen
+Dr. van den Bergstraat,10,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,12,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,14,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,16,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,18,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,2,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,20,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,22,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,4,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,6,"","",7948BC,Nijeveen
+Dr. van den Bergstraat,8,"","",7948BC,Nijeveen
+Schoutstraat,1,"","",7948BD,Nijeveen
+Schoutstraat,11,"","",7948BD,Nijeveen
+Schoutstraat,13,"","",7948BD,Nijeveen
+Schoutstraat,15,"","",7948BD,Nijeveen
+Schoutstraat,17,"","",7948BD,Nijeveen
+Schoutstraat,19,"","",7948BD,Nijeveen
+Schoutstraat,21,"","",7948BD,Nijeveen
+Schoutstraat,23,"","",7948BD,Nijeveen
+Schoutstraat,25,"","",7948BD,Nijeveen
+Schoutstraat,27,"","",7948BD,Nijeveen
+Schoutstraat,29,"","",7948BD,Nijeveen
+Schoutstraat,3,"","",7948BD,Nijeveen
+Schoutstraat,31,"","",7948BD,Nijeveen
+Schoutstraat,5,"","",7948BD,Nijeveen
+Schoutstraat,7,"","",7948BD,Nijeveen
+Schoutstraat,9,"","",7948BD,Nijeveen
+Karspelstraat,1,"","",7948BE,Nijeveen
+Karspelstraat,11,"","",7948BE,Nijeveen
+Karspelstraat,13,"","",7948BE,Nijeveen
+Karspelstraat,15,"","",7948BE,Nijeveen
+Karspelstraat,17,"","",7948BE,Nijeveen
+Karspelstraat,19,"","",7948BE,Nijeveen
+Karspelstraat,21,"","",7948BE,Nijeveen
+Karspelstraat,23,"","",7948BE,Nijeveen
+Karspelstraat,25,"","",7948BE,Nijeveen
+Karspelstraat,3,"","",7948BE,Nijeveen
+Karspelstraat,5,"","",7948BE,Nijeveen
+Karspelstraat,7,"","",7948BE,Nijeveen
+Karspelstraat,9,"","",7948BE,Nijeveen
+Karspelstraat,10,"","",7948BG,Nijeveen
+Karspelstraat,12,"","",7948BG,Nijeveen
+Karspelstraat,14,"","",7948BG,Nijeveen
+Karspelstraat,16,"","",7948BG,Nijeveen
+Karspelstraat,18,"","",7948BG,Nijeveen
+Karspelstraat,2,"","",7948BG,Nijeveen
+Karspelstraat,20,"","",7948BG,Nijeveen
+Karspelstraat,22,"","",7948BG,Nijeveen
+Karspelstraat,24,"","",7948BG,Nijeveen
+Karspelstraat,26,"","",7948BG,Nijeveen
+Karspelstraat,28,"","",7948BG,Nijeveen
+Karspelstraat,30,"","",7948BG,Nijeveen
+Karspelstraat,32,"","",7948BG,Nijeveen
+Karspelstraat,34,"","",7948BG,Nijeveen
+Karspelstraat,36,"","",7948BG,Nijeveen
+Karspelstraat,38,"","",7948BG,Nijeveen
+Karspelstraat,4,"","",7948BG,Nijeveen
+Karspelstraat,6,"","",7948BG,Nijeveen
+Karspelstraat,8,"","",7948BG,Nijeveen
+Polderstraat,1,"","",7948BH,Nijeveen
+Polderstraat,11,"","",7948BH,Nijeveen
+Polderstraat,13,"","",7948BH,Nijeveen
+Polderstraat,15,"","",7948BH,Nijeveen
+Polderstraat,17,"","",7948BH,Nijeveen
+Polderstraat,19,"","",7948BH,Nijeveen
+Polderstraat,21,"","",7948BH,Nijeveen
+Polderstraat,23,"","",7948BH,Nijeveen
+Polderstraat,25,"","",7948BH,Nijeveen
+Polderstraat,27,"","",7948BH,Nijeveen
+Polderstraat,29,"","",7948BH,Nijeveen
+Polderstraat,3,"","",7948BH,Nijeveen
+Polderstraat,31,"","",7948BH,Nijeveen
+Polderstraat,33,"","",7948BH,Nijeveen
+Polderstraat,35,"","",7948BH,Nijeveen
+Polderstraat,37,"","",7948BH,Nijeveen
+Polderstraat,39,"","",7948BH,Nijeveen
+Polderstraat,41,"","",7948BH,Nijeveen
+Polderstraat,43,"","",7948BH,Nijeveen
+Polderstraat,45,"","",7948BH,Nijeveen
+Polderstraat,47,"","",7948BH,Nijeveen
+Polderstraat,5,"","",7948BH,Nijeveen
+Polderstraat,7,"","",7948BH,Nijeveen
+Polderstraat,9,"","",7948BH,Nijeveen
+Polderstraat,10,"","",7948BJ,Nijeveen
+Polderstraat,12,"","",7948BJ,Nijeveen
+Polderstraat,14,"","",7948BJ,Nijeveen
+Polderstraat,16,"","",7948BJ,Nijeveen
+Polderstraat,18,"","",7948BJ,Nijeveen
+Polderstraat,2,"","",7948BJ,Nijeveen
+Polderstraat,20,"","",7948BJ,Nijeveen
+Polderstraat,22,"","",7948BJ,Nijeveen
+Polderstraat,24,"","",7948BJ,Nijeveen
+Polderstraat,26,"","",7948BJ,Nijeveen
+Polderstraat,28,"","",7948BJ,Nijeveen
+Polderstraat,30,"","",7948BJ,Nijeveen
+Polderstraat,4,"","",7948BJ,Nijeveen
+Polderstraat,6,"","",7948BJ,Nijeveen
+Polderstraat,8,"","",7948BJ,Nijeveen
+Ds. van Halsemastraat,10,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,11,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,12,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",01,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",02,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",03,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",04,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",05,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",06,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",07,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",08,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",09,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",10,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",11,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",12,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",13,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",14,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",15,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",16,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",17,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",18,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",19,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",20,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",21,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",22,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",23,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",24,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",25,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",26,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",27,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",28,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",29,7948BK,Nijeveen
+Ds. van Halsemastraat,12,"",30,7948BK,Nijeveen
+Ds. van Halsemastraat,14,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,14,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,14,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,16,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,18,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,2,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,20,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,22,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,24,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,26,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,28,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,3,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,30,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,32,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,34,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,4,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,5,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,6,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,7,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,8,"","",7948BK,Nijeveen
+Ds. van Halsemastraat,9,"","",7948BK,Nijeveen
+Dorpsstraat,11,"","",7948BL,Nijeveen
+Dorpsstraat,11,"","",7948BL,Nijeveen
+Dorpsstraat,11,"","",7948BL,Nijeveen
+Dorpsstraat,13,"","",7948BL,Nijeveen
+Dorpsstraat,23,"","",7948BL,Nijeveen
+Dorpsstraat,23,"","",7948BL,Nijeveen
+Dorpsstraat,23,"","",7948BL,Nijeveen
+Dorpsstraat,23,"","",7948BL,Nijeveen
+Dorpsstraat,23,A,"",7948BL,Nijeveen
+Dorpsstraat,23,A,"",7948BL,Nijeveen
+Dorpsstraat,25,"","",7948BL,Nijeveen
+Dorpsstraat,25,"","",7948BL,Nijeveen
+Dorpsstraat,25,A,"",7948BL,Nijeveen
+Dorpsstraat,25,A,"",7948BL,Nijeveen
+Dorpsstraat,25,A,"",7948BL,Nijeveen
+Dorpsstraat,25,B,"",7948BL,Nijeveen
+Dorpsstraat,25,B,"",7948BL,Nijeveen
+Dorpsstraat,25,B,"",7948BL,Nijeveen
+Dorpsstraat,25,C,"",7948BL,Nijeveen
+Dorpsstraat,25,C,"",7948BL,Nijeveen
+Dorpsstraat,25,C,"",7948BL,Nijeveen
+Dorpsstraat,25,D,"",7948BL,Nijeveen
+Dorpsstraat,25,D,"",7948BL,Nijeveen
+Dorpsstraat,25,D,"",7948BL,Nijeveen
+Dorpsstraat,25,E,"",7948BL,Nijeveen
+Dorpsstraat,25,E,"",7948BL,Nijeveen
+Dorpsstraat,25,E,"",7948BL,Nijeveen
+Dorpsstraat,25,F,"",7948BL,Nijeveen
+Dorpsstraat,25,F,"",7948BL,Nijeveen
+Dorpsstraat,25,F,"",7948BL,Nijeveen
+Dorpsstraat,25,G,"",7948BL,Nijeveen
+Dorpsstraat,25,G,"",7948BL,Nijeveen
+Dorpsstraat,25,G,"",7948BL,Nijeveen
+Dorpsstraat,25,H,"",7948BL,Nijeveen
+Dorpsstraat,25,H,"",7948BL,Nijeveen
+Dorpsstraat,25,H,"",7948BL,Nijeveen
+Dorpsstraat,25,J,"",7948BL,Nijeveen
+Dorpsstraat,25,J,"",7948BL,Nijeveen
+Dorpsstraat,25,J,"",7948BL,Nijeveen
+Dorpsstraat,25,K,"",7948BL,Nijeveen
+Dorpsstraat,27,"","",7948BL,Nijeveen
+Dorpsstraat,27,A,"",7948BL,Nijeveen
+Dorpsstraat,29,"","",7948BL,Nijeveen
+Dorpsstraat,3,"","",7948BL,Nijeveen
+Dorpsstraat,31,"","",7948BL,Nijeveen
+Dorpsstraat,33,"","",7948BL,Nijeveen
+Dorpsstraat,35,"","",7948BL,Nijeveen
+Dorpsstraat,37,"","",7948BL,Nijeveen
+Dorpsstraat,39,"","",7948BL,Nijeveen
+Dorpsstraat,41,"","",7948BL,Nijeveen
+Dorpsstraat,5,"","",7948BL,Nijeveen
+Dorpsstraat,7,"","",7948BL,Nijeveen
+Dorpsstraat,9,"","",7948BL,Nijeveen
+Binnenveen,10,"","",7948DA,Nijeveen
+Binnenveen,12,"","",7948DA,Nijeveen
+Binnenveen,14,"","",7948DA,Nijeveen
+Binnenveen,16,"","",7948DA,Nijeveen
+Binnenveen,2,"","",7948DA,Nijeveen
+Binnenveen,2,A,"",7948DA,Nijeveen
+Binnenveen,2,B,"",7948DA,Nijeveen
+Binnenveen,2,C,"",7948DA,Nijeveen
+Binnenveen,22,"","",7948DA,Nijeveen
+Binnenveen,24,"","",7948DA,Nijeveen
+Binnenveen,26,"","",7948DA,Nijeveen
+Binnenveen,28,"","",7948DA,Nijeveen
+Binnenveen,30,"","",7948DA,Nijeveen
+Binnenveen,32,"","",7948DA,Nijeveen
+Binnenveen,34,"","",7948DA,Nijeveen
+Binnenveen,36,"","",7948DA,Nijeveen
+Binnenveen,38,"","",7948DA,Nijeveen
+Binnenveen,4,A,"",7948DA,Nijeveen
+Binnenveen,4,B,"",7948DA,Nijeveen
+Binnenveen,4,C,"",7948DA,Nijeveen
+Binnenveen,4,D,"",7948DA,Nijeveen
+Binnenveen,4,E,"",7948DA,Nijeveen
+Binnenveen,4,F,"",7948DA,Nijeveen
+Binnenveen,4,G,"",7948DA,Nijeveen
+Binnenveen,4,H,"",7948DA,Nijeveen
+Binnenveen,4,J,"",7948DA,Nijeveen
+Binnenveen,4,K,"",7948DA,Nijeveen
+Binnenveen,4,L,"",7948DA,Nijeveen
+Binnenveen,4,M,"",7948DA,Nijeveen
+Binnenveen,4,N,"",7948DA,Nijeveen
+Binnenveen,4,P,"",7948DA,Nijeveen
+Binnenveen,4,R,"",7948DA,Nijeveen
+Binnenveen,4,S,"",7948DA,Nijeveen
+Binnenveen,1,"","",7948DB,Nijeveen
+Binnenveen,11,"","",7948DB,Nijeveen
+Binnenveen,13,"","",7948DB,Nijeveen
+Binnenveen,15,"","",7948DB,Nijeveen
+Binnenveen,17,"","",7948DB,Nijeveen
+Binnenveen,19,"","",7948DB,Nijeveen
+Binnenveen,21,"","",7948DB,Nijeveen
+Binnenveen,23,"","",7948DB,Nijeveen
+Binnenveen,25,"","",7948DB,Nijeveen
+Binnenveen,27,"","",7948DB,Nijeveen
+Binnenveen,29,"","",7948DB,Nijeveen
+Binnenveen,3,"","",7948DB,Nijeveen
+Binnenveen,31,"","",7948DB,Nijeveen
+Binnenveen,5,"","",7948DB,Nijeveen
+Binnenveen,7,"","",7948DB,Nijeveen
+Binnenveen,9,"","",7948DB,Nijeveen
+Leeuwerikstraat,1,"","",7948DC,Nijeveen
+Leeuwerikstraat,11,"","",7948DC,Nijeveen
+Leeuwerikstraat,13,"","",7948DC,Nijeveen
+Leeuwerikstraat,15,"","",7948DC,Nijeveen
+Leeuwerikstraat,17,"","",7948DC,Nijeveen
+Leeuwerikstraat,19,"","",7948DC,Nijeveen
+Leeuwerikstraat,21,"","",7948DC,Nijeveen
+Leeuwerikstraat,23,"","",7948DC,Nijeveen
+Leeuwerikstraat,25,"","",7948DC,Nijeveen
+Leeuwerikstraat,27,"","",7948DC,Nijeveen
+Leeuwerikstraat,29,"","",7948DC,Nijeveen
+Leeuwerikstraat,3,"","",7948DC,Nijeveen
+Leeuwerikstraat,31,"","",7948DC,Nijeveen
+Leeuwerikstraat,33,"","",7948DC,Nijeveen
+Leeuwerikstraat,5,"","",7948DC,Nijeveen
+Leeuwerikstraat,9,"","",7948DC,Nijeveen
+Leeuwerikstraat,10,"","",7948DD,Nijeveen
+Leeuwerikstraat,12,"","",7948DD,Nijeveen
+Leeuwerikstraat,14,"","",7948DD,Nijeveen
+Leeuwerikstraat,16,"","",7948DD,Nijeveen
+Leeuwerikstraat,18,"","",7948DD,Nijeveen
+Leeuwerikstraat,2,"","",7948DD,Nijeveen
+Leeuwerikstraat,20,"","",7948DD,Nijeveen
+Leeuwerikstraat,22,"","",7948DD,Nijeveen
+Leeuwerikstraat,24,"","",7948DD,Nijeveen
+Leeuwerikstraat,26,"","",7948DD,Nijeveen
+Leeuwerikstraat,4,"","",7948DD,Nijeveen
+Leeuwerikstraat,8,"","",7948DD,Nijeveen
+Merelstraat,10,"","",7948DE,Nijeveen
+Merelstraat,12,"","",7948DE,Nijeveen
+Merelstraat,14,"","",7948DE,Nijeveen
+Merelstraat,16,"","",7948DE,Nijeveen
+Merelstraat,18,"","",7948DE,Nijeveen
+Merelstraat,2,"","",7948DE,Nijeveen
+Merelstraat,2,A,"",7948DE,Nijeveen
+Merelstraat,2,B,"",7948DE,Nijeveen
+Merelstraat,2,C,"",7948DE,Nijeveen
+Merelstraat,20,"","",7948DE,Nijeveen
+Merelstraat,22,"","",7948DE,Nijeveen
+Merelstraat,22,A,"",7948DE,Nijeveen
+Merelstraat,24,"","",7948DE,Nijeveen
+Merelstraat,26,"","",7948DE,Nijeveen
+Merelstraat,28,"","",7948DE,Nijeveen
+Merelstraat,30,"","",7948DE,Nijeveen
+Merelstraat,32,"","",7948DE,Nijeveen
+Merelstraat,34,"","",7948DE,Nijeveen
+Merelstraat,36,"","",7948DE,Nijeveen
+Merelstraat,38,"","",7948DE,Nijeveen
+Merelstraat,4,"","",7948DE,Nijeveen
+Merelstraat,4,A,"",7948DE,Nijeveen
+Merelstraat,6,"","",7948DE,Nijeveen
+Merelstraat,8,"","",7948DE,Nijeveen
+Merelstraat,1,"","",7948DG,Nijeveen
+Merelstraat,11,"","",7948DG,Nijeveen
+Merelstraat,13,"","",7948DG,Nijeveen
+Merelstraat,15,"","",7948DG,Nijeveen
+Merelstraat,17,"","",7948DG,Nijeveen
+Merelstraat,19,"","",7948DG,Nijeveen
+Merelstraat,21,"","",7948DG,Nijeveen
+Merelstraat,23,"","",7948DG,Nijeveen
+Merelstraat,25,"","",7948DG,Nijeveen
+Merelstraat,27,"","",7948DG,Nijeveen
+Merelstraat,3,"","",7948DG,Nijeveen
+Merelstraat,5,"","",7948DG,Nijeveen
+Merelstraat,5,A,"",7948DG,Nijeveen
+Merelstraat,7,"","",7948DG,Nijeveen
+Merelstraat,7,A,"",7948DG,Nijeveen
+Merelstraat,9,"","",7948DG,Nijeveen
+Merelstraat,9,A,"",7948DG,Nijeveen
+Lijsterstraat,10,"","",7948DH,Nijeveen
+Lijsterstraat,10,A,"",7948DH,Nijeveen
+Lijsterstraat,12,"","",7948DH,Nijeveen
+Lijsterstraat,12,A,"",7948DH,Nijeveen
+Lijsterstraat,14,"","",7948DH,Nijeveen
+Lijsterstraat,14,A,"",7948DH,Nijeveen
+Lijsterstraat,16,"","",7948DH,Nijeveen
+Lijsterstraat,16,A,"",7948DH,Nijeveen
+Lijsterstraat,18,"","",7948DH,Nijeveen
+Lijsterstraat,2,"","",7948DH,Nijeveen
+Lijsterstraat,20,"","",7948DH,Nijeveen
+Lijsterstraat,22,"","",7948DH,Nijeveen
+Lijsterstraat,24,"","",7948DH,Nijeveen
+Lijsterstraat,26,"","",7948DH,Nijeveen
+Lijsterstraat,28,"","",7948DH,Nijeveen
+Lijsterstraat,30,"","",7948DH,Nijeveen
+Lijsterstraat,32,"","",7948DH,Nijeveen
+Lijsterstraat,4,"","",7948DH,Nijeveen
+Lijsterstraat,6,"","",7948DH,Nijeveen
+Lijsterstraat,8,"","",7948DH,Nijeveen
+Lijsterstraat,1,"","",7948DJ,Nijeveen
+Lijsterstraat,1,A,"",7948DJ,Nijeveen
+Lijsterstraat,11,"","",7948DJ,Nijeveen
+Lijsterstraat,13,"","",7948DJ,Nijeveen
+Lijsterstraat,15,"","",7948DJ,Nijeveen
+Lijsterstraat,15,A,"",7948DJ,Nijeveen
+Lijsterstraat,17,"","",7948DJ,Nijeveen
+Lijsterstraat,17,A,"",7948DJ,Nijeveen
+Lijsterstraat,19,"","",7948DJ,Nijeveen
+Lijsterstraat,19,A,"",7948DJ,Nijeveen
+Lijsterstraat,21,"","",7948DJ,Nijeveen
+Lijsterstraat,23,"","",7948DJ,Nijeveen
+Lijsterstraat,25,"","",7948DJ,Nijeveen
+Lijsterstraat,27,"","",7948DJ,Nijeveen
+Lijsterstraat,29,"","",7948DJ,Nijeveen
+Lijsterstraat,3,"","",7948DJ,Nijeveen
+Lijsterstraat,5,"","",7948DJ,Nijeveen
+Lijsterstraat,7,"","",7948DJ,Nijeveen
+Lijsterstraat,7,A,"",7948DJ,Nijeveen
+Lijsterstraat,9,"","",7948DJ,Nijeveen
+Gruttostraat,1,"","",7948DK,Nijeveen
+Gruttostraat,10,"","",7948DK,Nijeveen
+Gruttostraat,12,"","",7948DK,Nijeveen
+Gruttostraat,14,"","",7948DK,Nijeveen
+Gruttostraat,2,"","",7948DK,Nijeveen
+Gruttostraat,3,"","",7948DK,Nijeveen
+Gruttostraat,4,"","",7948DK,Nijeveen
+Gruttostraat,5,"","",7948DK,Nijeveen
+Gruttostraat,6,"","",7948DK,Nijeveen
+Gruttostraat,7,"","",7948DK,Nijeveen
+Gruttostraat,8,"","",7948DK,Nijeveen
+Schuurmansweg,1,"","",7948NM,Nijeveen
+Schuurmansweg,1,A,"",7948NM,Nijeveen
+Schuurmansweg,1,A,"",7948NM,Nijeveen
+Schuurmansweg,11,"","",7948NM,Nijeveen
+Schuurmansweg,13,"","",7948NM,Nijeveen
+Schuurmansweg,15,"","",7948NM,Nijeveen
+Schuurmansweg,17,"","",7948NM,Nijeveen
+Schuurmansweg,19,"","",7948NM,Nijeveen
+Schuurmansweg,2,"","",7948NM,Nijeveen
+Schuurmansweg,21,"","",7948NM,Nijeveen
+Schuurmansweg,3,"","",7948NM,Nijeveen
+Schuurmansweg,3,"","",7948NM,Nijeveen
+Schuurmansweg,3,A,"",7948NM,Nijeveen
+Schuurmansweg,3,A,"",7948NM,Nijeveen
+Schuurmansweg,3,A,"",7948NM,Nijeveen
+Schuurmansweg,4,"","",7948NM,Nijeveen
+Schuurmansweg,5,"","",7948NM,Nijeveen
+Schuurmansweg,6,"","",7948NM,Nijeveen
+Schuurmansweg,7,"","",7948NM,Nijeveen
+Schuurmansweg,9,"","",7948NM,Nijeveen

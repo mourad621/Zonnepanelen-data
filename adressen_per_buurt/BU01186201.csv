@@ -1,81 +1,82 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7901TA",21,"",""
-"7901TA",19,"T",""
-"7901TA",17,"",""
-"7901TA",17,"",""
-"7901TA",19,"b",""
-"7901TA",27,"",""
-"7901TA",11,"a",""
-"7901TA",23,"",""
-"7901TA",29,"",""
-"7901TA",9,"",""
-"7901TA",11,"",""
-"7901TA",5,"",""
-"7901TA",31,"",""
-"7901TA",25,"",""
-"7901TA",15,"",""
-"7901TA",7,"",""
-"7901TA",1,"a",""
-"7901TA",19,"c",""
-"7901TA",3,"",""
-"7901TA",1,"",""
-"7901TB",16,"",""
-"7901TB",14,"",""
-"7901TB",2,"",""
-"7901TB",16,"",""
-"7901TB",4,"",""
-"7901TB",18,"",""
-"7901TB",18,"",""
-"7901TE",6,"",""
-"7901TE",2,"",""
-"7901TE",8,"",""
-"7901TE",10,"",""
-"7901TE",18,"",""
-"7901TE",12,"",""
-"7901TE",14,"",""
-"7901TG",7,"T",""
-"7901TG",3,"",""
-"7901TG",7,"R",""
-"7901TG",1,"",""
-"7901TG",7,"T",""
-"7901TG",5,"",""
-7901TE,De Stroom,2,,
-7901TE,De Stroom,6,,
-7901TE,De Stroom,8,,
-7901TE,De Stroom,10,,
-7901TE,De Stroom,12,,
-7901TE,De Stroom,14,,
-7901TE,De Stroom,18,,
-7901TG,De Stroom,1,,
-7901TG,De Stroom,5,,
-7901TA,Toldijk,1,,
-7901TA,Toldijk,1,a,
-7901TA,Toldijk,3,,
-7901TA,Toldijk,5,,
-7901TA,Toldijk,7,,
-7901TA,Toldijk,9,,
-7901TA,Toldijk,11,,
-7901TA,Toldijk,15,,
-7901TA,Toldijk,19,b,
-7901TA,Toldijk,19,c,
-7901TA,Toldijk,19,T,
-7901TA,Toldijk,21,,
-7901TA,Toldijk,23,,
-7901TA,Toldijk,25,,
-7901TA,Toldijk,27,,
-7901TA,Toldijk,29,,
-7901TA,Toldijk,31,,
-7901TB,Toldijk,2,,
-7901TB,Toldijk,4,,
-7901TB,Toldijk,14,,
-7901TB,Toldijk,16,,
-7901TB,Toldijk,18,,
-7901TB,Toldijk,18,,
-7901TG,De Stroom,7,T,
-7901TG,De Stroom,7,T,
-7901TG,De Stroom,7,R,
-7901TG,De Stroom,3,,
-7901TA,Toldijk,17,,
-7901TA,Toldijk,17,,
-7901TA,Toldijk,11,a,
-7901TB,Toldijk,16,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+21,"","","",7901TA,
+17,"","","",7901TA,
+17,"","","",7901TA,
+27,"","","",7901TA,
+23,"","","",7901TA,
+29,"","","",7901TA,
+9,"","","",7901TA,
+11,"","","",7901TA,
+5,"","","",7901TA,
+31,"","","",7901TA,
+25,"","","",7901TA,
+15,"","","",7901TA,
+7,"","","",7901TA,
+3,"","","",7901TA,
+1,"","","",7901TA,
+Toldijk,1,"","",7901TA,Hoogeveen
+Toldijk,1,A,"",7901TA,Hoogeveen
+Toldijk,11,"","",7901TA,Hoogeveen
+Toldijk,11,A,"",7901TA,Hoogeveen
+Toldijk,15,"","",7901TA,Hoogeveen
+Toldijk,17,"","",7901TA,Hoogeveen
+Toldijk,17,"","",7901TA,Hoogeveen
+Toldijk,19,B,"",7901TA,Hoogeveen
+Toldijk,19,C,"",7901TA,Hoogeveen
+Toldijk,19,T,"",7901TA,Hoogeveen
+Toldijk,21,"","",7901TA,Hoogeveen
+Toldijk,23,"","",7901TA,Hoogeveen
+Toldijk,25,"","",7901TA,Hoogeveen
+Toldijk,27,"","",7901TA,Hoogeveen
+Toldijk,29,"","",7901TA,Hoogeveen
+Toldijk,3,"","",7901TA,Hoogeveen
+Toldijk,31,"","",7901TA,Hoogeveen
+Toldijk,5,"","",7901TA,Hoogeveen
+Toldijk,7,"","",7901TA,Hoogeveen
+Toldijk,9,"","",7901TA,Hoogeveen
+11,A,"","",7901TA,
+1,A,"","",7901TA,
+19,B,"","",7901TA,
+19,C,"","",7901TA,
+19,T,"","",7901TA,
+16,"","","",7901TB,
+14,"","","",7901TB,
+2,"","","",7901TB,
+16,"","","",7901TB,
+4,"","","",7901TB,
+18,"","","",7901TB,
+18,"","","",7901TB,
+Toldijk,14,"","",7901TB,Hoogeveen
+Toldijk,16,"","",7901TB,Hoogeveen
+Toldijk,16,"","",7901TB,Hoogeveen
+Toldijk,18,"","",7901TB,Hoogeveen
+Toldijk,18,"","",7901TB,Hoogeveen
+Toldijk,2,"","",7901TB,Hoogeveen
+Toldijk,4,"","",7901TB,Hoogeveen
+6,"","","",7901TE,
+2,"","","",7901TE,
+8,"","","",7901TE,
+10,"","","",7901TE,
+18,"","","",7901TE,
+12,"","","",7901TE,
+14,"","","",7901TE,
+De Stroom,10,"","",7901TE,Hoogeveen
+De Stroom,12,"","",7901TE,Hoogeveen
+De Stroom,14,"","",7901TE,Hoogeveen
+De Stroom,18,"","",7901TE,Hoogeveen
+De Stroom,2,"","",7901TE,Hoogeveen
+De Stroom,6,"","",7901TE,Hoogeveen
+De Stroom,8,"","",7901TE,Hoogeveen
+3,"","","",7901TG,
+1,"","","",7901TG,
+5,"","","",7901TG,
+De Stroom,1,"","",7901TG,Hoogeveen
+De Stroom,3,"","",7901TG,Hoogeveen
+De Stroom,5,"","",7901TG,Hoogeveen
+De Stroom,7,R,"",7901TG,Hoogeveen
+De Stroom,7,T,"",7901TG,Hoogeveen
+De Stroom,7,T,"",7901TG,Hoogeveen
+7,R,"","",7901TG,
+7,T,"","",7901TG,
+7,T,"","",7901TG,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

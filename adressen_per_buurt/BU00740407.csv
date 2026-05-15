@@ -1,770 +1,389 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8412CA",2,"A",""
-"8412CA",1,"",""
-"8412CA",2,"A",""
-"8412CA",3,"",""
-"8412CA",2,"",""
-"8412CB",6,"A",""
-"8412CB",4,"",""
-"8412CB",6,"",""
-"8412CB",2,"",""
-"8412CB",6,"",""
-"8412CB",6,"A",""
-"8412CB",8,"",""
-"8412CB",6,"",""
-"8412CC",8,"",""
-"8412CD",1,"",""
-"8412CD",3,"",""
-"8412CD",6,"",""
-"8412CD",5,"",""
-"8412CD",4,"",""
-"8412CE",20,"",""
-"8412CE",24,"",""
-"8412CE",22,"",""
-"8412CE",25,"",""
-"8412CG",7,"A","1"
-"8412CG",12,"",""
-"8412CG",6,"",""
-"8412CG",1,"",""
-"8412CG",7,"A",""
-"8412CG",11,"",""
-"8412CG",10,"",""
-"8412CG",7,"A","1"
-"8412CG",7,"B",""
-"8412CG",7,"",""
-"8412CG",5,"",""
-"8412CG",2,"",""
-"8412CG",9,"",""
-"8412CG",8,"",""
-"8412CG",3,"",""
-"8412SC",4,"",""
-"8412SC",4,"A",""
-"8412SC",4,"",""
-"8412SC",14,"",""
-"8412SC",1,"",""
-"8412SC",3,"",""
-"8412SC",5,"",""
-"8412SC",4,"",""
-"8412SC",6,"",""
-"8412SC",8,"",""
-"8412SC",12,"",""
-"8412SC",1,"",""
-"8412SC",2,"",""
-"8412SC",1,"",""
-"8412SE",7,"",""
-"8412SE",1,"",""
-"8412SE",5,"",""
-"8412SE",2,"",""
-"8412SE",10,"",""
-"8412SE",9,"",""
-"8412SG",43,"",""
-"8412SG",25,"",""
-"8412SG",43,"",""
-"8412SG",22,"",""
-"8412SG",26,"",""
-"8412SG",33,"",""
-"8412SG",31,"",""
-"8412SG",15,"",""
-"8412SG",37,"",""
-"8412SG",26,"",""
-"8412SG",26,"",""
-"8412SG",5,"",""
-"8412SG",18,"",""
-"8412SG",27,"",""
-"8412SG",23,"",""
-"8412SG",41,"",""
-"8412SG",15,"",""
-"8412SG",15,"",""
-"8412SG",13,"",""
-"8412SG",45,"",""
-"8412SG",11,"",""
-"8412SG",20,"",""
-"8412SG",24,"",""
-"8412SG",39,"",""
-"8412SG",43,"",""
-"8412SG",21,"",""
-"8412SG",17,"",""
-"8412SG",16,"",""
-"8412SH",30,"",""
-"8412SH",53,"",""
-"8412SH",44,"",""
-"8412SH",34,"",""
-"8412SH",55,"",""
-"8412SH",49,"",""
-"8412SH",51,"",""
-"8412SH",36,"",""
-"8412SH",63,"",""
-"8412SH",32,"",""
-"8412SH",61,"",""
-"8412SH",65,"",""
-"8412SH",47,"",""
-"8412SH",42,"",""
-"8412SH",65,"",""
-"8412SH",46,"",""
-"8412SH",28,"",""
-"8412SH",59,"",""
-"8412SJ",2,"",""
-"8412SJ",60,"",""
-"8412SJ",56,"",""
-"8412SJ",52,"",""
-"8412SJ",73,"A",""
-"8412SJ",48,"",""
-"8412SJ",81,"",""
-"8412SJ",87,"",""
-"8412SJ",85,"",""
-"8412SJ",50,"",""
-"8412SJ",83,"",""
-"8412SJ",75,"A",""
-"8412SJ",85,"A",""
-"8412SJ",71,"",""
-"8412SJ",73,"A",""
-"8412SJ",79,"",""
-"8412SJ",4,"",""
-"8412SJ",89,"",""
-"8412SJ",69,"",""
-"8412SJ",75,"",""
-"8412SJ",58,"",""
-"8412SJ",73,"",""
-"8412SJ",54,"",""
-"8412SK",141,"",""
-"8412SK",119,"",""
-"8412SK",115,"",""
-"8412SK",111,"",""
-"8412SK",66,"",""
-"8412SK",113,"",""
-"8412SK",2,"",""
-"8412SK",68,"",""
-"8412SK",139,"",""
-"8412SK",91,"",""
-"8412SK",64,"",""
-"8412SK",62,"",""
-"8412SK",72,"",""
-"8412SK",70,"",""
-"8412SK",117,"",""
-"8412SK",123,"",""
-"8412SL",4,"",""
-"8412SL",151,"",""
-"8412SL",155,"",""
-"8412SL",153,"",""
-"8412SL",80,"",""
-"8412SL",82,"",""
-"8412SL",2,"",""
-"8412SL",84,"",""
-"8412SL",74,"",""
-"8412SL",147,"",""
-"8412SL",84,"",""
-"8412SL",86,"",""
-"8412SL",76,"",""
-"8412SL",149,"",""
-"8412SL",74,"A",""
-"8412SL",163,"",""
-"8412SL",161,"",""
-"8412SL",78,"",""
-"8412SL",145,"",""
-"8412SM",2,"",""
-"8412SM",4,"",""
-"8412SM",16,"",""
-"8412SM",14,"B",""
-"8412SM",2,"A",""
-"8412SM",14,"A",""
-"8412SM",3,"",""
-"8412SM",12,"",""
-"8412SM",18,"",""
-"8412SM",10,"",""
-"8412SM",14,"",""
-"8412SM",8,"",""
-"8412SM",14,"B",""
-"8412SM",8,"A",""
-"8412SN",141,"",""
-"8412SN",104,"",""
-"8412SN",143,"",""
-"8412SN",4,"",""
-"8412SN",98,"",""
-"8412SN",12,"",""
-"8412SN",6,"",""
-"8412SN",8,"",""
-"8412SN",102,"",""
-"8412SN",139,"",""
-"8412SN",10,"",""
-"8412SN",2,"",""
-"8412SN",1,"",""
-"8412SP",133,"",""
-"8412SP",127,"",""
-"8412SP",115,"A",""
-"8412SP",125,"A",""
-"8412SP",117,"",""
-"8412SP",123,"",""
-"8412SP",2,"",""
-"8412SP",137,"A",""
-"8412SP",4,"",""
-"8412SP",125,"",""
-"8412SP",129,"",""
-"8412SP",137,"",""
-"8412SP",19,"",""
-"8412SP",121,"",""
-"8412SP",115,"",""
-"8412SP",131,"",""
-"8412SP",135,"",""
-"8412SP",11,"",""
-"8412SR",111,"",""
-"8412SR",93,"",""
-"8412SR",85,"",""
-"8412SR",89,"",""
-"8412SR",109,"",""
-"8412SR",91,"",""
-"8412SR",95,"",""
-"8412SR",99,"",""
-"8412SR",95,"A",""
-"8412SR",107,"",""
-"8412SR",113,"",""
-"8412SR",95,"A",""
-"8412SR",97,"",""
-"8412SR",101,"",""
-"8412SR",87,"",""
-"8412SR",103,"",""
-"8412SR",105,"",""
-"8412ST",73,"",""
-"8412ST",73,"A",""
-"8412ST",17,"",""
-"8412ST",7,"",""
-"8412ST",79,"A",""
-"8412ST",3,"",""
-"8412ST",19,"",""
-"8412ST",81,"",""
-"8412ST",83,"",""
-"8412ST",23,"",""
-"8412ST",9,"",""
-"8412ST",13,"",""
-"8412ST",5,"",""
-"8412ST",79,"",""
-"8412ST",75,"",""
-"8412ST",15,"",""
-"8412ST",77,"",""
-"8412SV",51,"",""
-"8412SV",59,"",""
-"8412SV",45,"",""
-"8412SV",67,"",""
-"8412SV",51,"A",""
-"8412SV",49,"",""
-"8412SV",65,"",""
-"8412SV",63,"",""
-"8412SV",57,"",""
-"8412SV",4,"",""
-"8412SV",71,"",""
-"8412SV",55,"",""
-"8412SV",2,"",""
-"8412SV",61,"",""
-"8412SV",53,"",""
-"8412SV",47,"",""
-"8412SV",6,"",""
-"8412SV",43,"",""
-"8412SW",35,"",""
-"8412SW",39,"A",""
-"8412SW",39,"",""
-"8412SW",2,"",""
-"8412SW",3,"",""
-"8412SW",41,"A",""
-"8412SW",33,"",""
-"8412SW",23,"",""
-"8412SW",31,"",""
-"8412SW",4,"",""
-"8412SW",23,"A",""
-"8412SW",37,"",""
-"8412SW",17,"",""
-"8412SW",2,"A",""
-"8412SW",25,"",""
-"8412SW",41,"",""
-"8412SW",19,"",""
-"8412SW",1,"",""
-"8412SW",21,"",""
-"8412SW",27,"",""
-"8412SX",9,"",""
-"8412SX",7,"",""
-"8412SX",13,"",""
-"8412SX",5,"",""
-"8412SX",15,"",""
-"8412SX",3,"",""
-"8412SX",11,"",""
-"8412SX",1,"",""
-"8412SZ",30,"",""
-"8412SZ",32,"",""
-"8412SZ",24,"",""
-"8412SZ",26,"",""
-"8412SZ",4,"",""
-"8412SZ",10,"",""
-"8412SZ",22,"",""
-"8412SZ",12,"",""
-"8412SZ",2,"",""
-"8412SZ",14,"A",""
-"8412SZ",14,"",""
-"8412SZ",18,"",""
-"8412SZ",20,"",""
-"8412SZ",28,"",""
-"8412SZ",8,"",""
-"8412TA",48,"",""
-"8412TA",54,"",""
-"8412TA",42,"",""
-"8412TA",56,"",""
-"8412TA",36,"",""
-"8412TA",50,"",""
-"8412TA",46,"A",""
-"8412TA",44,"",""
-"8412TA",48,"A",""
-"8412TA",46,"A",""
-"8412TA",40,"",""
-"8412TA",34,"",""
-"8412TA",36,"A",""
-"8412TA",48,"B",""
-"8412TA",38,"",""
-"8412TA",52,"",""
-"8412TA",60,"",""
-"8412TA",38,"A",""
-"8412TA",46,"",""
-"8412TB",92,"",""
-"8412TB",68,"",""
-"8412TB",78,"",""
-"8412TB",82,"",""
-"8412TB",64,"A",""
-"8412TB",90,"",""
-"8412TB",76,"A",""
-"8412TB",80,"",""
-"8412TB",86,"",""
-"8412TB",3,"",""
-"8412TB",64,"",""
-"8412TB",1,"",""
-"8412TB",94,"",""
-"8412TB",76,"",""
-"8412TB",66,"",""
-"8412TB",88,"",""
-"8412TB",96,"",""
-"8412TC",3,"",""
-"8412TC",4,"",""
-"8412TC",2,"",""
-"8412TC",2,"A",""
-"8412TD",12,"",""
-"8412TD",1,"",""
-"8412TD",8,"",""
-"8412TD",11,"",""
-"8412TD",11,"",""
-"8412TD",16,"",""
-"8412TD",20,"",""
-"8412TD",14,"",""
-"8412TD",1,"A",""
-"8412TD",10,"",""
-"8412TD",3,"",""
-"8412TD",3,"",""
-"8412TD",18,"",""
-"8412TD",4,"",""
-"8412TD",3,"",""
-"8412TE",1,"",""
-"8412TE",3,"",""
-"8412TE",2,"",""
-"8412TE",6,"",""
-"8412TE",8,"",""
-"8412TE",5,"",""
-"8412TE",7,"",""
-"8412TE",4,"",""
-"8412TG",4,"",""
-"8412TG",10,"",""
-"8412TG",7,"",""
-"8412TG",8,"",""
-"8412TG",5,"",""
-"8412TG",1,"",""
-"8412TH",5,"",""
-"8412TH",4,"",""
-"8412TH",4,"",""
-"8412TH",4,"",""
-"8412TJ",2,"A",""
-"8412TJ",2,"",""
-"8412TJ",10,"",""
-"8412TJ",4,"",""
-"8412TJ",8,"",""
-"8412TJ",3,"",""
-"8412TJ",1,"",""
-"8412TJ",1,"A",""
-"8412TJ",5,"",""
-"8412TJ",1,"A",""
-"8412TK",6,"",""
-"8412TK",8,"",""
-"8412TK",1,"",""
-8412CE,Tjongervallei,20,,
-8412CE,Tjongervallei,22,,
-8412CE,Tjongervallei,25,,
-8412SW,Aise Bruggenswei,2,,
-8412SW,Aise Bruggenswei,3,,
-8412SW,Aise Bruggenswei,4,,
-8412SC,Bij de Leijwei,1,,
-8412SC,Bij de Leijwei,2,,
-8412SC,Bij de Leijwei,3,,
-8412SC,Bij de Leijwei,5,,
-8412SC,Bij de Leijwei,6,,
-8412SC,Bij de Leijwei,8,,
-8412SE,Bij de Leijwei,9,,
-8412SE,Bij de Leijwei,10,,
-8412SG,Bij de Leijwei,11,,
-8412SG,Bij de Leijwei,15,,
-8412SG,Bij de Leijwei,16,,
-8412SG,Bij de Leijwei,18,,
-8412SG,Bij de Leijwei,21,,
-8412SG,Bij de Leijwei,22,,
-8412SG,Bij de Leijwei,23,,
-8412SG,Bij de Leijwei,25,,
-8412SG,Bij de Leijwei,26,,
-8412SG,Bij de Leijwei,27,,
-8412SG,Bij de Leijwei,31,,
-8412SG,Bij de Leijwei,37,,
-8412SG,Bij de Leijwei,39,,
-8412SG,Bij de Leijwei,41,,
-8412SG,Bij de Leijwei,45,,
-8412SH,Bij de Leijwei,28,,
-8412SH,Bij de Leijwei,30,,
-8412SH,Bij de Leijwei,34,,
-8412SH,Bij de Leijwei,36,,
-8412SH,Bij de Leijwei,42,,
-8412SH,Bij de Leijwei,47,,
-8412SH,Bij de Leijwei,51,,
-8412SH,Bij de Leijwei,53,,
-8412SH,Bij de Leijwei,55,,
-8412SH,Bij de Leijwei,61,,
-8412SH,Bij de Leijwei,63,,
-8412SH,Bij de Leijwei,65,,
-8412SH,Bij de Leijwei,65,,
-8412SJ,Bij de Leijwei,48,,
-8412SJ,Bij de Leijwei,50,,
-8412SJ,Bij de Leijwei,54,,
-8412SJ,Bij de Leijwei,58,,
-8412SJ,Bij de Leijwei,60,,
-8412SJ,Bij de Leijwei,69,,
-8412SJ,Bij de Leijwei,73,,
-8412SJ,Bij de Leijwei,73,A,
-8412SJ,Bij de Leijwei,73,A,
-8412SJ,Bij de Leijwei,75,,
-8412SJ,Bij de Leijwei,75,A,
-8412SJ,Bij de Leijwei,79,,
-8412SJ,Bij de Leijwei,85,,
-8412SJ,Bij de Leijwei,85,A,
-8412SJ,Bij de Leijwei,87,,
-8412SK,Bij de Leijwei,62,,
-8412SK,Bij de Leijwei,64,,
-8412SK,Bij de Leijwei,68,,
-8412SK,Bij de Leijwei,70,,
-8412SK,Bij de Leijwei,72,,
-8412SK,Bij de Leijwei,111,,
-8412SK,Bij de Leijwei,115,,
-8412SK,Bij de Leijwei,117,,
-8412SK,Bij de Leijwei,119,,
-8412SK,Bij de Leijwei,139,,
-8412SK,Bij de Leijwei,141,,
-8412SL,Bij de Leijwei,74,,
-8412SL,Bij de Leijwei,76,,
-8412SL,Bij de Leijwei,78,,
-8412SL,Bij de Leijwei,82,,
-8412SL,Bij de Leijwei,84,,
-8412SL,Bij de Leijwei,86,,
-8412SL,Bij de Leijwei,145,,
-8412SL,Bij de Leijwei,147,,
-8412SL,Bij de Leijwei,151,,
-8412SL,Bij de Leijwei,153,,
-8412SL,Bij de Leijwei,155,,
-8412SL,Bij de Leijwei,163,,
-8412TJ,Dekamawei,1,,
-8412TJ,Dekamawei,2,,
-8412TJ,Dekamawei,3,,
-8412TJ,Dekamawei,5,,
-8412TJ,Dekamawei,8,,
-8412TJ,Dekamawei,10,,
-8412TJ,Dekamawei,2,A,
-8412TC,Ds ten Catewei,2,,
-8412TD,Ds ten Catewei,1,,
-8412TD,Ds ten Catewei,3,,
-8412TD,Ds ten Catewei,4,,
-8412TD,Ds ten Catewei,8,,
-8412TD,Ds ten Catewei,1,A,
-8412TD,Ds ten Catewei,18,,
-8412TD,Ds ten Catewei,20,,
-8412TE,Ds ten Catewei,7,,
-8412CD,Freulewei,3,,
-8412CD,Freulewei,4,,
-8412CD,Freulewei,5,,
-8412SM,Kapellewei,2,,
-8412SM,Kapellewei,2,A,
-8412SM,Kapellewei,4,,
-8412SM,Kapellewei,8,,
-8412SM,Kapellewei,10,,
-8412SM,Kapellewei,12,,
-8412SM,Kapellewei,14,B,
-8412SM,Kapellewei,14,B,
-8412SM,Kapellewei,16,,
-8412SM,Kapellewei,18,,
-8412CG,Luxemburg,7,,
-8412CG,Luxemburg,7,A,
-8412CG,Luxemburg,9,,
-8412CB,Miedwei,2,,
-8412CB,Miedwei,4,,
-8412CB,Miedwei,6,,
-8412CA,Prikkedaem,1,,
-8412CA,Prikkedaem,2,,
-8412CA,Prikkedaem,2,A,
-8412CA,Prikkedaem,2,A,
-8412ST,Rogmonepaed,3,,
-8412CG,Sake Kromhoutswei,1,,
-8412CG,Sake Kromhoutswei,2,,
-8412CG,Sake Kromhoutswei,3,,
-8412CG,Sake Kromhoutswei,6,,
-8412CG,Sake Kromhoutswei,8,,
-8412CG,Sake Kromhoutswei,10,,
-8412CG,Sake Kromhoutswei,12,,
-8412TC,Sint Magnuswei,3,,
-8412SV,Skieppedrift,2,,
-8412SV,Skieppedrift,6,,
-8412TE,Skieppedrift,3,,
-8412ST,Tsjerkepaed,9,,
-8412ST,Tsjerkepaed,13,,
-8412ST,Tsjerkepaed,15,,
-8412ST,Tsjerkepaed,19,,
-8412TG,Tsjerkepaed,1,,
-8412TG,Tsjerkepaed,5,,
-8412TG,Tsjerkepaed,7,,
-8412TG,Tsjerkepaed,8,,
-8412SN,Wietze Mulderreed,2,,
-8412SN,Wietze Mulderreed,4,,
-8412SN,Wietze Mulderreed,6,,
-8412SN,Wietze Mulderreed,12,,
-8412TE,10e Wyk,2,,
-8412TE,10e Wyk,4,,
-8412TE,10e Wyk,6,,
-8412TE,10e Wyk,8,,
-8412SJ,13e Wyk,4,,
-8412TD,13e Wyk,11,,
-8412TD,13e Wyk,11,,
-8412SK,14e Wyk,2,,
-8412TB,18e Wyk,3,,
-8412SE,4e Wyk,1,,
-8412SG,5e Wyk,5,,
-8412SE,6e Wyk,2,,
-8412TH,6e Wyk,4,,
-8412TH,6e Wyk,5,,
-8412TK,7e Wyk,1,,
-8412TK,7e Wyk,6,,
-8412SN,Schoterlandseweg,102,,
-8412SN,Schoterlandseweg,104,,
-8412SN,Schoterlandseweg,141,,
-8412SN,Schoterlandseweg,143,,
-8412SP,Schoterlandseweg,115,,
-8412SP,Schoterlandseweg,115,A,
-8412SP,Schoterlandseweg,121,,
-8412SP,Schoterlandseweg,123,,
-8412SP,Schoterlandseweg,125,,
-8412SP,Schoterlandseweg,127,,
-8412SP,Schoterlandseweg,129,,
-8412SP,Schoterlandseweg,131,,
-8412SP,Schoterlandseweg,133,,
-8412SP,Schoterlandseweg,135,,
-8412SP,Schoterlandseweg,137,,
-8412SR,Schoterlandseweg,85,,
-8412SR,Schoterlandseweg,87,,
-8412SR,Schoterlandseweg,89,,
-8412SR,Schoterlandseweg,93,,
-8412SR,Schoterlandseweg,95,,
-8412SR,Schoterlandseweg,97,,
-8412SR,Schoterlandseweg,101,,
-8412SR,Schoterlandseweg,103,,
-8412SR,Schoterlandseweg,105,,
-8412SR,Schoterlandseweg,107,,
-8412SR,Schoterlandseweg,111,,
-8412SR,Schoterlandseweg,113,,
-8412ST,Schoterlandseweg,73,,
-8412ST,Schoterlandseweg,73,A,
-8412ST,Schoterlandseweg,75,,
-8412ST,Schoterlandseweg,79,,
-8412ST,Schoterlandseweg,81,,
-8412SV,Schoterlandseweg,43,,
-8412SV,Schoterlandseweg,47,,
-8412SV,Schoterlandseweg,49,,
-8412SV,Schoterlandseweg,51,A,
-8412SV,Schoterlandseweg,55,,
-8412SV,Schoterlandseweg,57,,
-8412SV,Schoterlandseweg,59,,
-8412SV,Schoterlandseweg,61,,
-8412SV,Schoterlandseweg,65,,
-8412SV,Schoterlandseweg,67,,
-8412SV,Schoterlandseweg,71,,
-8412SW,Schoterlandseweg,19,,
-8412SW,Schoterlandseweg,21,,
-8412SW,Schoterlandseweg,23,,
-8412SW,Schoterlandseweg,23,A,
-8412SW,Schoterlandseweg,27,,
-8412SW,Schoterlandseweg,31,,
-8412SW,Schoterlandseweg,35,,
-8412SW,Schoterlandseweg,39,,
-8412SW,Schoterlandseweg,39,A,
-8412SW,Schoterlandseweg,41,,
-8412SX,Schoterlandseweg,1,,
-8412SX,Schoterlandseweg,3,,
-8412SX,Schoterlandseweg,5,,
-8412SX,Schoterlandseweg,9,,
-8412SX,Schoterlandseweg,13,,
-8412SX,Schoterlandseweg,15,,
-8412SZ,Schoterlandseweg,2,,
-8412SZ,Schoterlandseweg,8,,
-8412SZ,Schoterlandseweg,10,,
-8412SZ,Schoterlandseweg,14,,
-8412SZ,Schoterlandseweg,14,A,
-8412SZ,Schoterlandseweg,20,,
-8412SZ,Schoterlandseweg,22,,
-8412SZ,Schoterlandseweg,24,,
-8412SZ,Schoterlandseweg,26,,
-8412SZ,Schoterlandseweg,30,,
-8412SZ,Schoterlandseweg,32,,
-8412TA,Schoterlandseweg,34,,
-8412TA,Schoterlandseweg,36,A,
-8412TA,Schoterlandseweg,38,,
-8412TA,Schoterlandseweg,38,A,
-8412TA,Schoterlandseweg,42,,
-8412TA,Schoterlandseweg,44,,
-8412TA,Schoterlandseweg,46,,
-8412TA,Schoterlandseweg,48,B,
-8412TA,Schoterlandseweg,50,,
-8412TA,Schoterlandseweg,54,,
-8412TA,Schoterlandseweg,60,,
-8412TB,Schoterlandseweg,64,A,
-8412TB,Schoterlandseweg,66,,
-8412TB,Schoterlandseweg,68,,
-8412TB,Schoterlandseweg,76,,
-8412TB,Schoterlandseweg,78,,
-8412TB,Schoterlandseweg,80,,
-8412TB,Schoterlandseweg,82,,
-8412TB,Schoterlandseweg,88,,
-8412TB,Schoterlandseweg,90,,
-8412TB,Schoterlandseweg,92,,
-8412TB,Schoterlandseweg,96,,
-8412SP,Jelle Heidawei,2,,
-8412SP,Jelle Heidawei,4,,
-8412SP,Jelle Heidawei,19,,
-8412CC,Twitelderreed,8,,
-8412SL,19e Wyk,2,,
-8412CG,Luxemburg,7,A,1
-8412CG,Luxemburg,7,A,1
-8412CB,Miedwei,6,A,
-8412CB,Miedwei,6,A,
-8412CE,Tjongervallei,24,,
-8412SW,Aise Bruggenswei,1,,
-8412SC,Bij de Leijwei,4,A,
-8412SC,Bij de Leijwei,14,,
-8412SC,Bij de Leijwei,12,,
-8412SC,Bij de Leijwei,4,,
-8412SC,Bij de Leijwei,4,,
-8412SE,Bij de Leijwei,7,,
-8412SG,Bij de Leijwei,13,,
-8412SG,Bij de Leijwei,20,,
-8412SG,Bij de Leijwei,24,,
-8412SG,Bij de Leijwei,33,,
-8412SG,Bij de Leijwei,43,,
-8412SG,Bij de Leijwei,17,,
-8412SG,Bij de Leijwei,26,,
-8412SH,Bij de Leijwei,32,,
-8412SH,Bij de Leijwei,49,,
-8412SH,Bij de Leijwei,59,,
-8412SH,Bij de Leijwei,46,,
-8412SH,Bij de Leijwei,44,,
-8412SJ,Bij de Leijwei,56,,
-8412SJ,Bij de Leijwei,71,,
-8412SJ,Bij de Leijwei,81,,
-8412SJ,Bij de Leijwei,83,,
-8412SJ,Bij de Leijwei,89,,
-8412SJ,Bij de Leijwei,52,,
-8412SK,Bij de Leijwei,66,,
-8412SK,Bij de Leijwei,113,,
-8412SK,Bij de Leijwei,123,,
-8412SK,Bij de Leijwei,91,,
-8412SL,Bij de Leijwei,80,,
-8412SL,Bij de Leijwei,149,,
-8412SL,Bij de Leijwei,161,,
-8412SL,Bij de Leijwei,74,A,
-8412TJ,Dekamawei,1,A,
-8412TJ,Dekamawei,1,A,
-8412TJ,Dekamawei,4,,
-8412TC,Ds ten Catewei,2,A,
-8412TD,Ds ten Catewei,10,,
-8412TD,Ds ten Catewei,12,,
-8412TD,Ds ten Catewei,16,,
-8412TD,Ds ten Catewei,14,,
-8412TD,Ds ten Catewei,3,,
-8412TE,Ds ten Catewei,5,,
-8412CD,Freulewei,1,,
-8412CD,Freulewei,6,,
-8412SM,Kapellewei,3,,
-8412SM,Kapellewei,14,A,
-8412SM,Kapellewei,14,,
-8412SM,Kapellewei,8,A,
-8412CG,Luxemburg,5,,
-8412CG,Luxemburg,7,B,
-8412CG,Luxemburg,11,,
-8412CB,Miedwei,8,,
-8412CB,Miedwei,6,,
-8412CA,Prikkedaem,3,,
-8412ST,Rogmonepaed,7,,
-8412ST,Rogmonepaed,5,,
-8412TC,Sint Magnuswei,4,,
-8412SV,Skieppedrift,4,,
-8412TE,Skieppedrift,1,,
-8412ST,Tsjerkepaed,17,,
-8412TG,Tsjerkepaed,4,,
-8412TG,Tsjerkepaed,10,,
-8412SN,Wietze Mulderreed,1,,
-8412SN,Wietze Mulderreed,8,,
-8412SN,Wietze Mulderreed,10,,
-8412SJ,13e Wyk,2,,
-8412TB,18e Wyk,1,,
-8412SE,4e Wyk,5,,
-8412TK,7e Wyk,8,,
-8412SN,Schoterlandseweg,139,,
-8412SN,Schoterlandseweg,98,,
-8412SP,Schoterlandseweg,117,,
-8412SP,Schoterlandseweg,125,A,
-8412SP,Schoterlandseweg,137,A,
-8412SR,Schoterlandseweg,91,,
-8412SR,Schoterlandseweg,99,,
-8412SR,Schoterlandseweg,109,,
-8412SR,Schoterlandseweg,95,A,
-8412SR,Schoterlandseweg,95,A,
-8412ST,Schoterlandseweg,77,,
-8412ST,Schoterlandseweg,83,,
-8412ST,Schoterlandseweg,79,A,
-8412SV,Schoterlandseweg,45,,
-8412SV,Schoterlandseweg,53,,
-8412SV,Schoterlandseweg,63,,
-8412SV,Schoterlandseweg,51,,
-8412SW,Schoterlandseweg,17,,
-8412SW,Schoterlandseweg,25,,
-8412SW,Schoterlandseweg,37,,
-8412SW,Schoterlandseweg,41,A,
-8412SW,Schoterlandseweg,33,,
-8412SX,Schoterlandseweg,11,,
-8412SX,Schoterlandseweg,7,,
-8412SZ,Schoterlandseweg,4,,
-8412SZ,Schoterlandseweg,18,,
-8412SZ,Schoterlandseweg,28,,
-8412SZ,Schoterlandseweg,12,,
-8412TA,Schoterlandseweg,36,,
-8412TA,Schoterlandseweg,40,,
-8412TA,Schoterlandseweg,48,A,
-8412TA,Schoterlandseweg,52,,
-8412TA,Schoterlandseweg,56,,
-8412TA,Schoterlandseweg,48,,
-8412TA,Schoterlandseweg,46,A,
-8412TA,Schoterlandseweg,46,A,
-8412TB,Schoterlandseweg,64,,
-8412TB,Schoterlandseweg,76,A,
-8412TB,Schoterlandseweg,86,,
-8412TB,Schoterlandseweg,94,,
-8412SP,Jelle Heidawei,11,,
-8412SL,19e Wyk,4,,
-8412SW,Aise Bruggenswei,2,A,
-8412SC,Bij de Leijwei,1,,
-8412SG,Bij de Leijwei,15,,
-8412SG,Bij de Leijwei,43,,
-8412SL,Bij de Leijwei,84,,
-8412TE,Skieppedrift,1,,
-8412ST,Tsjerkepaed,23,,
-8412TH,6e Wyk,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Prikkedaem,1,"","",8412CA,Hoornsterzwaag
+Prikkedaem,2,"","",8412CA,Hoornsterzwaag
+Prikkedaem,2,A,"",8412CA,Hoornsterzwaag
+Prikkedaem,2,A,"",8412CA,Hoornsterzwaag
+Prikkedaem,3,"","",8412CA,Hoornsterzwaag
+Miedwei,2,"","",8412CB,Hoornsterzwaag
+Miedwei,4,"","",8412CB,Hoornsterzwaag
+Miedwei,6,"","",8412CB,Hoornsterzwaag
+Miedwei,6,"","",8412CB,Hoornsterzwaag
+Miedwei,6,"","",8412CB,Hoornsterzwaag
+Miedwei,6,A,"",8412CB,Hoornsterzwaag
+Miedwei,6,A,"",8412CB,Hoornsterzwaag
+Miedwei,8,"","",8412CB,Hoornsterzwaag
+Twitelderreed,8,"","",8412CC,Hoornsterzwaag
+Freulewei,1,"","",8412CD,Hoornsterzwaag
+Freulewei,3,"","",8412CD,Hoornsterzwaag
+Freulewei,4,"","",8412CD,Hoornsterzwaag
+Freulewei,5,"","",8412CD,Hoornsterzwaag
+Freulewei,6,"","",8412CD,Hoornsterzwaag
+Tjongervallei,20,"","",8412CE,Hoornsterzwaag
+Tjongervallei,22,"","",8412CE,Hoornsterzwaag
+Tjongervallei,24,"","",8412CE,Hoornsterzwaag
+Tjongervallei,25,"","",8412CE,Hoornsterzwaag
+Sake Kromhoutswei,1,"","",8412CG,Hoornsterzwaag
+Sake Kromhoutswei,10,"","",8412CG,Hoornsterzwaag
+Luxemburg,11,"","",8412CG,Hoornsterzwaag
+Sake Kromhoutswei,12,"","",8412CG,Hoornsterzwaag
+Sake Kromhoutswei,2,"","",8412CG,Hoornsterzwaag
+Sake Kromhoutswei,3,"","",8412CG,Hoornsterzwaag
+Luxemburg,5,"","",8412CG,Hoornsterzwaag
+Sake Kromhoutswei,6,"","",8412CG,Hoornsterzwaag
+Luxemburg,7,"","",8412CG,Hoornsterzwaag
+Luxemburg,7,A,"",8412CG,Hoornsterzwaag
+Luxemburg,7,A,1,8412CG,Hoornsterzwaag
+Luxemburg,7,A,1,8412CG,Hoornsterzwaag
+Luxemburg,7,B,"",8412CG,Hoornsterzwaag
+Sake Kromhoutswei,8,"","",8412CG,Hoornsterzwaag
+Luxemburg,9,"","",8412CG,Hoornsterzwaag
+Bij de Leijwei,1,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,1,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,1,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,12,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,14,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,2,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,3,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,4,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,4,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,4,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,4,A,"",8412SC,Hoornsterzwaag
+Bij de Leijwei,5,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,6,"","",8412SC,Hoornsterzwaag
+Bij de Leijwei,8,"","",8412SC,Hoornsterzwaag
+4e Wyk,1,"","",8412SE,Hoornsterzwaag
+Bij de Leijwei,10,"","",8412SE,Hoornsterzwaag
+6e Wyk,2,"","",8412SE,Hoornsterzwaag
+4e Wyk,5,"","",8412SE,Hoornsterzwaag
+Bij de Leijwei,7,"","",8412SE,Hoornsterzwaag
+Bij de Leijwei,9,"","",8412SE,Hoornsterzwaag
+Bij de Leijwei,11,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,13,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,15,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,15,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,15,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,16,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,17,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,18,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,20,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,21,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,22,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,23,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,24,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,25,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,26,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,26,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,26,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,27,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,31,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,33,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,37,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,39,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,41,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,43,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,43,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,43,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,45,"","",8412SG,Hoornsterzwaag
+5e Wyk,5,"","",8412SG,Hoornsterzwaag
+Bij de Leijwei,28,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,30,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,32,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,34,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,36,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,42,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,44,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,46,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,47,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,49,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,51,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,53,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,55,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,59,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,61,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,63,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,65,"","",8412SH,Hoornsterzwaag
+Bij de Leijwei,65,"","",8412SH,Hoornsterzwaag
+13e Wyk,2,"","",8412SJ,Hoornsterzwaag
+13e Wyk,4,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,48,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,50,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,52,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,54,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,56,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,58,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,60,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,69,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,71,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,73,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,73,A,"",8412SJ,Hoornsterzwaag
+Bij de Leijwei,73,A,"",8412SJ,Hoornsterzwaag
+Bij de Leijwei,75,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,75,A,"",8412SJ,Hoornsterzwaag
+Bij de Leijwei,79,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,81,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,83,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,85,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,85,A,"",8412SJ,Hoornsterzwaag
+Bij de Leijwei,87,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,89,"","",8412SJ,Hoornsterzwaag
+Bij de Leijwei,111,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,113,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,115,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,117,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,119,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,123,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,139,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,141,"","",8412SK,Hoornsterzwaag
+14e Wyk,2,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,62,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,64,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,66,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,68,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,70,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,72,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,91,"","",8412SK,Hoornsterzwaag
+Bij de Leijwei,145,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,147,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,149,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,151,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,153,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,155,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,161,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,163,"","",8412SL,Hoornsterzwaag
+19e Wyk,2,"","",8412SL,Hoornsterzwaag
+19e Wyk,4,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,74,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,74,A,"",8412SL,Hoornsterzwaag
+Bij de Leijwei,76,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,78,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,80,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,82,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,84,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,84,"","",8412SL,Hoornsterzwaag
+Bij de Leijwei,86,"","",8412SL,Hoornsterzwaag
+Kapellewei,10,"","",8412SM,Hoornsterzwaag
+Kapellewei,12,"","",8412SM,Hoornsterzwaag
+Kapellewei,14,"","",8412SM,Hoornsterzwaag
+Kapellewei,14,A,"",8412SM,Hoornsterzwaag
+Kapellewei,14,B,"",8412SM,Hoornsterzwaag
+Kapellewei,14,B,"",8412SM,Hoornsterzwaag
+Kapellewei,16,"","",8412SM,Hoornsterzwaag
+Kapellewei,18,"","",8412SM,Hoornsterzwaag
+Kapellewei,2,"","",8412SM,Hoornsterzwaag
+Kapellewei,2,A,"",8412SM,Hoornsterzwaag
+Kapellewei,3,"","",8412SM,Hoornsterzwaag
+Kapellewei,4,"","",8412SM,Hoornsterzwaag
+Kapellewei,8,"","",8412SM,Hoornsterzwaag
+Kapellewei,8,A,"",8412SM,Hoornsterzwaag
+Wietze Mulderreed,1,"","",8412SN,Hoornsterzwaag
+Wietze Mulderreed,10,"","",8412SN,Hoornsterzwaag
+Schoterlandseweg,102,"","",8412SN,Hoornsterzwaag
+Schoterlandseweg,104,"","",8412SN,Hoornsterzwaag
+Wietze Mulderreed,12,"","",8412SN,Hoornsterzwaag
+Schoterlandseweg,139,"","",8412SN,Hoornsterzwaag
+Schoterlandseweg,141,"","",8412SN,Hoornsterzwaag
+Schoterlandseweg,143,"","",8412SN,Hoornsterzwaag
+Wietze Mulderreed,2,"","",8412SN,Hoornsterzwaag
+Wietze Mulderreed,4,"","",8412SN,Hoornsterzwaag
+Wietze Mulderreed,6,"","",8412SN,Hoornsterzwaag
+Wietze Mulderreed,8,"","",8412SN,Hoornsterzwaag
+Schoterlandseweg,98,"","",8412SN,Hoornsterzwaag
+Jelle Heidawei,11,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,115,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,115,A,"",8412SP,Hoornsterzwaag
+Schoterlandseweg,117,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,121,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,123,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,125,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,125,A,"",8412SP,Hoornsterzwaag
+Schoterlandseweg,127,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,129,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,131,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,133,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,135,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,137,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,137,A,"",8412SP,Hoornsterzwaag
+Jelle Heidawei,19,"","",8412SP,Hoornsterzwaag
+Jelle Heidawei,2,"","",8412SP,Hoornsterzwaag
+Jelle Heidawei,4,"","",8412SP,Hoornsterzwaag
+Schoterlandseweg,101,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,103,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,105,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,107,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,109,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,111,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,113,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,85,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,87,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,89,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,91,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,93,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,95,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,95,A,"",8412SR,Hoornsterzwaag
+Schoterlandseweg,95,A,"",8412SR,Hoornsterzwaag
+Schoterlandseweg,97,"","",8412SR,Hoornsterzwaag
+Schoterlandseweg,99,"","",8412SR,Hoornsterzwaag
+Tsjerkepaed,13,"","",8412ST,Hoornsterzwaag
+Tsjerkepaed,15,"","",8412ST,Hoornsterzwaag
+Tsjerkepaed,17,"","",8412ST,Hoornsterzwaag
+Tsjerkepaed,19,"","",8412ST,Hoornsterzwaag
+Tsjerkepaed,23,"","",8412ST,Hoornsterzwaag
+Rogmonepaed,3,"","",8412ST,Hoornsterzwaag
+Rogmonepaed,5,"","",8412ST,Hoornsterzwaag
+Rogmonepaed,7,"","",8412ST,Hoornsterzwaag
+Schoterlandseweg,73,"","",8412ST,Hoornsterzwaag
+Schoterlandseweg,73,A,"",8412ST,Hoornsterzwaag
+Schoterlandseweg,75,"","",8412ST,Hoornsterzwaag
+Schoterlandseweg,77,"","",8412ST,Hoornsterzwaag
+Schoterlandseweg,79,"","",8412ST,Hoornsterzwaag
+Schoterlandseweg,79,A,"",8412ST,Hoornsterzwaag
+Schoterlandseweg,81,"","",8412ST,Hoornsterzwaag
+Schoterlandseweg,83,"","",8412ST,Hoornsterzwaag
+Tsjerkepaed,9,"","",8412ST,Hoornsterzwaag
+Skieppedrift,2,"","",8412SV,Hoornsterzwaag
+Skieppedrift,4,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,43,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,45,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,47,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,49,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,51,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,51,A,"",8412SV,Hoornsterzwaag
+Schoterlandseweg,53,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,55,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,57,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,59,"","",8412SV,Hoornsterzwaag
+Skieppedrift,6,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,61,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,63,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,65,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,67,"","",8412SV,Hoornsterzwaag
+Schoterlandseweg,71,"","",8412SV,Hoornsterzwaag
+Aise Bruggenswei,1,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,17,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,19,"","",8412SW,Hoornsterzwaag
+Aise Bruggenswei,2,"","",8412SW,Hoornsterzwaag
+Aise Bruggenswei,2,A,"",8412SW,Hoornsterzwaag
+Schoterlandseweg,21,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,23,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,23,A,"",8412SW,Hoornsterzwaag
+Schoterlandseweg,25,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,27,"","",8412SW,Hoornsterzwaag
+Aise Bruggenswei,3,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,31,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,33,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,35,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,37,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,39,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,39,A,"",8412SW,Hoornsterzwaag
+Aise Bruggenswei,4,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,41,"","",8412SW,Hoornsterzwaag
+Schoterlandseweg,41,A,"",8412SW,Hoornsterzwaag
+Schoterlandseweg,1,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,11,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,13,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,15,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,3,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,5,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,7,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,9,"","",8412SX,Hoornsterzwaag
+Schoterlandseweg,10,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,12,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,14,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,14,A,"",8412SZ,Hoornsterzwaag
+Schoterlandseweg,18,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,2,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,20,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,22,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,24,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,26,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,28,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,30,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,32,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,4,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,8,"","",8412SZ,Hoornsterzwaag
+Schoterlandseweg,34,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,36,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,36,A,"",8412TA,Hoornsterzwaag
+Schoterlandseweg,38,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,38,A,"",8412TA,Hoornsterzwaag
+Schoterlandseweg,40,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,42,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,44,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,46,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,46,A,"",8412TA,Hoornsterzwaag
+Schoterlandseweg,46,A,"",8412TA,Hoornsterzwaag
+Schoterlandseweg,48,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,48,A,"",8412TA,Hoornsterzwaag
+Schoterlandseweg,48,B,"",8412TA,Hoornsterzwaag
+Schoterlandseweg,50,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,52,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,54,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,56,"","",8412TA,Hoornsterzwaag
+Schoterlandseweg,60,"","",8412TA,Hoornsterzwaag
+18e Wyk,1,"","",8412TB,Hoornsterzwaag
+18e Wyk,3,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,64,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,64,A,"",8412TB,Hoornsterzwaag
+Schoterlandseweg,66,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,68,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,76,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,76,A,"",8412TB,Hoornsterzwaag
+Schoterlandseweg,78,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,80,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,82,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,86,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,88,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,90,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,92,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,94,"","",8412TB,Hoornsterzwaag
+Schoterlandseweg,96,"","",8412TB,Hoornsterzwaag
+Ds ten Catewei,2,"","",8412TC,Hoornsterzwaag
+Ds ten Catewei,2,A,"",8412TC,Hoornsterzwaag
+Sint Magnuswei,3,"","",8412TC,Hoornsterzwaag
+Sint Magnuswei,4,"","",8412TC,Hoornsterzwaag
+Ds ten Catewei,1,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,1,A,"",8412TD,Hoornsterzwaag
+Ds ten Catewei,10,"","",8412TD,Hoornsterzwaag
+13e Wyk,11,"","",8412TD,Hoornsterzwaag
+13e Wyk,11,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,12,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,14,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,16,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,18,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,20,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,3,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,3,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,3,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,4,"","",8412TD,Hoornsterzwaag
+Ds ten Catewei,8,"","",8412TD,Hoornsterzwaag
+Skieppedrift,1,"","",8412TE,Hoornsterzwaag
+10e Wyk,2,"","",8412TE,Hoornsterzwaag
+Skieppedrift,3,"","",8412TE,Hoornsterzwaag
+10e Wyk,4,"","",8412TE,Hoornsterzwaag
+Ds ten Catewei,5,"","",8412TE,Hoornsterzwaag
+10e Wyk,6,"","",8412TE,Hoornsterzwaag
+Ds ten Catewei,7,"","",8412TE,Hoornsterzwaag
+10e Wyk,8,"","",8412TE,Hoornsterzwaag
+Tsjerkepaed,1,"","",8412TG,Hoornsterzwaag
+Tsjerkepaed,10,"","",8412TG,Hoornsterzwaag
+Tsjerkepaed,4,"","",8412TG,Hoornsterzwaag
+Tsjerkepaed,5,"","",8412TG,Hoornsterzwaag
+Tsjerkepaed,7,"","",8412TG,Hoornsterzwaag
+Tsjerkepaed,8,"","",8412TG,Hoornsterzwaag
+6e Wyk,4,"","",8412TH,Hoornsterzwaag
+6e Wyk,4,"","",8412TH,Hoornsterzwaag
+6e Wyk,4,"","",8412TH,Hoornsterzwaag
+6e Wyk,5,"","",8412TH,Hoornsterzwaag
+Dekamawei,1,"","",8412TJ,Hoornsterzwaag
+Dekamawei,1,A,"",8412TJ,Hoornsterzwaag
+Dekamawei,1,A,"",8412TJ,Hoornsterzwaag
+Dekamawei,10,"","",8412TJ,Hoornsterzwaag
+Dekamawei,2,"","",8412TJ,Hoornsterzwaag
+Dekamawei,2,A,"",8412TJ,Hoornsterzwaag
+Dekamawei,3,"","",8412TJ,Hoornsterzwaag
+Dekamawei,4,"","",8412TJ,Hoornsterzwaag
+Dekamawei,5,"","",8412TJ,Hoornsterzwaag
+Dekamawei,8,"","",8412TJ,Hoornsterzwaag
+7e Wyk,1,"","",8412TK,Hoornsterzwaag
+7e Wyk,6,"","",8412TK,Hoornsterzwaag
+7e Wyk,8,"","",8412TK,Hoornsterzwaag

@@ -1,1009 +1,505 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9103NA",7,"",""
-"9103NA",16,"",""
-"9103NA",15,"",""
-"9103NA",13,"",""
-"9103NA",5,"",""
-"9103NA",20,"",""
-"9103NA",17,"",""
-"9103NA",4,"",""
-"9103NA",9,"",""
-"9103NA",18,"",""
-"9103NA",19,"",""
-"9103NA",11,"",""
-"9103NA",10,"",""
-"9103NA",1,"",""
-"9103NA",8,"",""
-"9103NA",6,"",""
-"9103NA",14,"",""
-"9103NA",3,"",""
-"9103NA",12,"",""
-"9103NA",2,"",""
-"9103NA",22,"",""
-"9103NB",13,"",""
-"9103NB",17,"",""
-"9103NB",15,"",""
-"9103NB",21,"",""
-"9103NB",19,"",""
-"9103NB",35,"",""
-"9103NB",29,"",""
-"9103NB",41,"",""
-"9103NB",23,"",""
-"9103NB",7,"",""
-"9103NB",5,"",""
-"9103NB",37,"",""
-"9103NB",3,"",""
-"9103NB",43,"T",""
-"9103NB",25,"",""
-"9103NB",39,"",""
-"9103NB",9,"",""
-"9103NB",11,"",""
-"9103NB",33,"",""
-"9103NB",31,"",""
-"9103NB",27,"",""
-"9103NC",10,"",""
-"9103NC",12,"",""
-"9103NC",6,"",""
-"9103NC",14,"",""
-"9103NC",9,"",""
-"9103NC",4,"",""
-"9103NC",20,"",""
-"9103NC",8,"",""
-"9103NC",7,"",""
-"9103NC",5,"",""
-"9103NC",17,"",""
-"9103NC",18,"",""
-"9103NC",15,"",""
-"9103NC",11,"",""
-"9103NC",13,"",""
-"9103NC",3,"",""
-"9103NC",16,"",""
-"9103ND",31,"",""
-"9103ND",11,"",""
-"9103ND",3,"",""
-"9103ND",7,"",""
-"9103ND",15,"",""
-"9103ND",19,"",""
-"9103ND",35,"",""
-"9103ND",39,"",""
-"9103ND",9,"",""
-"9103ND",5,"",""
-"9103ND",17,"",""
-"9103ND",33,"",""
-"9103ND",41,"",""
-"9103ND",27,"",""
-"9103ND",37,"",""
-"9103ND",43,"",""
-"9103ND",25,"",""
-"9103ND",13,"",""
-"9103ND",21,"",""
-"9103ND",23,"",""
-"9103ND",29,"",""
-"9103NE",40,"",""
-"9103NE",12,"",""
-"9103NE",26,"",""
-"9103NE",18,"",""
-"9103NE",34,"",""
-"9103NE",28,"",""
-"9103NE",20,"",""
-"9103NE",32,"",""
-"9103NE",36,"",""
-"9103NE",10,"",""
-"9103NE",4,"",""
-"9103NE",24,"",""
-"9103NE",14,"",""
-"9103NE",42,"",""
-"9103NE",16,"",""
-"9103NE",38,"",""
-"9103NE",6,"",""
-"9103NE",22,"",""
-"9103NE",30,"",""
-"9103NE",8,"",""
-"9103NG",40,"",""
-"9103NG",62,"",""
-"9103NG",22,"",""
-"9103NG",64,"",""
-"9103NG",34,"",""
-"9103NG",38,"",""
-"9103NG",44,"",""
-"9103NG",30,"",""
-"9103NG",66,"",""
-"9103NG",32,"",""
-"9103NG",26,"",""
-"9103NG",46,"",""
-"9103NG",8,"",""
-"9103NG",36,"",""
-"9103NG",10,"",""
-"9103NG",24,"",""
-"9103NG",14,"",""
-"9103NG",48,"",""
-"9103NG",12,"",""
-"9103NG",58,"",""
-"9103NG",54,"",""
-"9103NG",20,"",""
-"9103NG",6,"",""
-"9103NG",28,"",""
-"9103NG",16,"",""
-"9103NG",50,"",""
-"9103NG",42,"",""
-"9103NG",60,"",""
-"9103NG",52,"",""
-"9103NG",6,"T",""
-"9103NG",56,"",""
-"9103NH",2,"",""
-"9103NH",4,"",""
-"9103NH",8,"",""
-"9103NH",6,"",""
-"9103NJ",26,"",""
-"9103NJ",19,"",""
-"9103NJ",30,"",""
-"9103NJ",24,"",""
-"9103NJ",28,"",""
-"9103NJ",5,"",""
-"9103NJ",4,"",""
-"9103NJ",13,"",""
-"9103NJ",2,"",""
-"9103NJ",1,"",""
-"9103NJ",9,"",""
-"9103NJ",22,"",""
-"9103NJ",15,"",""
-"9103NJ",23,"",""
-"9103NJ",16,"",""
-"9103NJ",3,"",""
-"9103NJ",20,"",""
-"9103NJ",17,"",""
-"9103NJ",11,"",""
-"9103NJ",21,"",""
-"9103NJ",7,"",""
-"9103NJ",12,"",""
-"9103NJ",8,"",""
-"9103NJ",10,"",""
-"9103NJ",6,"",""
-"9103NJ",18,"",""
-"9103NJ",14,"",""
-"9103NK",1,"",""
-"9103NK",19,"",""
-"9103NK",22,"",""
-"9103NK",15,"",""
-"9103NK",11,"",""
-"9103NK",6,"",""
-"9103NK",18,"",""
-"9103NK",4,"",""
-"9103NK",14,"",""
-"9103NK",12,"",""
-"9103NK",3,"",""
-"9103NK",30,"",""
-"9103NK",16,"",""
-"9103NK",20,"",""
-"9103NK",8,"",""
-"9103NK",7,"",""
-"9103NK",10,"",""
-"9103NK",13,"",""
-"9103NK",5,"",""
-"9103NK",24,"",""
-"9103NK",23,"",""
-"9103NK",2,"",""
-"9103NK",32,"",""
-"9103NK",34,"",""
-"9103NK",17,"",""
-"9103NK",26,"",""
-"9103NK",9,"",""
-"9103NK",28,"",""
-"9103NK",21,"",""
-"9103NL",12,"",""
-"9103NL",8,"",""
-"9103NL",10,"",""
-"9103NL",4,"",""
-"9103NL",6,"",""
-"9103NL",2,"",""
-"9103NL",14,"",""
-"9103NM",2,"",""
-"9103NM",26,"",""
-"9103NM",6,"",""
-"9103NM",24,"",""
-"9103NM",20,"",""
-"9103NM",28,"",""
-"9103NM",22,"",""
-"9103NM",17,"",""
-"9103NM",12,"",""
-"9103NM",8,"",""
-"9103NM",16,"",""
-"9103NM",11,"",""
-"9103NM",18,"",""
-"9103NM",13,"",""
-"9103NM",3,"",""
-"9103NM",7,"",""
-"9103NM",10,"",""
-"9103NM",14,"",""
-"9103NM",4,"",""
-"9103NM",5,"",""
-"9103NM",15,"",""
-"9103NM",9,"",""
-"9103NN",12,"",""
-"9103NN",20,"",""
-"9103NN",5,"",""
-"9103NN",9,"",""
-"9103NN",6,"",""
-"9103NN",2,"",""
-"9103NN",13,"",""
-"9103NN",15,"",""
-"9103NN",11,"",""
-"9103NN",10,"",""
-"9103NN",3,"",""
-"9103NN",14,"",""
-"9103NN",16,"",""
-"9103NN",4,"",""
-"9103NN",7,"",""
-"9103NN",8,"",""
-"9103NN",18,"",""
-"9103NN",1,"",""
-"9103NP",22,"",""
-"9103NP",20,"",""
-"9103NP",10,"",""
-"9103NP",16,"",""
-"9103NP",13,"",""
-"9103NP",1,"",""
-"9103NP",12,"",""
-"9103NP",14,"",""
-"9103NP",18,"",""
-"9103NP",8,"",""
-"9103NP",5,"",""
-"9103NP",11,"",""
-"9103NP",9,"",""
-"9103NP",7,"",""
-"9103NP",6,"",""
-"9103NP",4,"",""
-"9103NP",3,"",""
-"9103NR",3,"",""
-"9103NR",9,"",""
-"9103NR",4,"",""
-"9103NR",11,"",""
-"9103NR",5,"",""
-"9103NR",6,"",""
-"9103NR",15,"",""
-"9103NR",21,"",""
-"9103NR",8,"",""
-"9103NR",13,"",""
-"9103NR",1,"",""
-"9103NR",25,"",""
-"9103NR",23,"",""
-"9103NR",2,"",""
-"9103NR",19,"",""
-"9103NR",17,"",""
-"9103NR",7,"",""
-"9103NS",8,"",""
-"9103NS",2,"",""
-"9103NS",20,"",""
-"9103NS",14,"",""
-"9103NS",12,"",""
-"9103NS",26,"",""
-"9103NS",6,"",""
-"9103NS",18,"",""
-"9103NS",4,"",""
-"9103NS",22,"",""
-"9103NS",16,"",""
-"9103NS",10,"",""
-"9103NS",28,"",""
-"9103NS",24,"",""
-"9103PA",4,"",""
-"9103PA",6,"",""
-"9103PA",8,"",""
-"9103PA",1,"",""
-"9103PA",3,"",""
-"9103PA",5,"",""
-"9103PA",2,"",""
-"9103PA",7,"",""
-"9103PB",1,"",""
-"9103PB",2,"",""
-"9103PB",6,"",""
-"9103PB",4,"",""
-"9103PC",2,"",""
-"9103PC",4,"",""
-"9103PC",1,"",""
-"9103PC",3,"",""
-"9103PC",5,"",""
-"9103PC",8,"",""
-"9103PC",6,"",""
-"9103PC",7,"",""
-"9103PD",5,"",""
-"9103PD",1,"",""
-"9103PD",3,"",""
-"9103PD",7,"",""
-"9103PD",8,"",""
-"9103PD",4,"",""
-"9103PD",6,"",""
-"9103PD",2,"",""
-"9103PE",12,"",""
-"9103PE",17,"",""
-"9103PE",19,"",""
-"9103PE",3,"",""
-"9103PE",20,"",""
-"9103PE",9,"",""
-"9103PE",16,"",""
-"9103PE",10,"",""
-"9103PE",2,"C",""
-"9103PE",24,"",""
-"9103PE",11,"",""
-"9103PE",23,"",""
-"9103PE",7,"",""
-"9103PE",4,"",""
-"9103PE",34,"",""
-"9103PE",28,"",""
-"9103PE",15,"",""
-"9103PE",8,"",""
-"9103PE",1,"",""
-"9103PE",1,"B",""
-"9103PE",21,"",""
-"9103PE",6,"",""
-"9103PE",32,"",""
-"9103PE",30,"",""
-"9103PE",18,"",""
-"9103PE",1,"A",""
-"9103PE",5,"",""
-"9103PE",2,"",""
-"9103PE",13,"",""
-"9103PE",2,"A",""
-"9103PE",26,"",""
-"9103PE",2,"B",""
-"9103PE",22,"",""
-"9103PE",14,"",""
-"9103PG",4,"",""
-"9103PG",6,"",""
-"9103PG",9,"",""
-"9103PG",3,"",""
-"9103PG",8,"",""
-"9103PG",17,"",""
-"9103PG",11,"",""
-"9103PG",5,"",""
-"9103PG",7,"",""
-"9103PG",16,"",""
-"9103PG",12,"",""
-"9103PG",14,"",""
-"9103PG",10,"",""
-"9103PG",1,"",""
-"9103PG",13,"",""
-"9103PG",2,"",""
-"9103PG",15,"",""
-"9103PH",8,"",""
-"9103PH",16,"",""
-"9103PH",12,"",""
-"9103PH",1,"",""
-"9103PH",3,"",""
-"9103PH",18,"",""
-"9103PH",10,"",""
-"9103PH",6,"",""
-"9103PH",5,"",""
-"9103PH",14,"",""
-"9103PH",22,"",""
-"9103PH",4,"",""
-"9103PH",20,"",""
-"9103PJ",5,"",""
-"9103PJ",21,"",""
-"9103PJ",26,"",""
-"9103PJ",30,"",""
-"9103PJ",20,"",""
-"9103PJ",22,"",""
-"9103PJ",34,"",""
-"9103PJ",32,"",""
-"9103PJ",7,"",""
-"9103PJ",8,"",""
-"9103PJ",14,"",""
-"9103PJ",17,"",""
-"9103PJ",6,"",""
-"9103PJ",23,"",""
-"9103PJ",11,"",""
-"9103PJ",15,"",""
-"9103PJ",24,"",""
-"9103PJ",9,"",""
-"9103PJ",4,"",""
-"9103PJ",13,"",""
-"9103PJ",18,"",""
-"9103PJ",12,"",""
-"9103PJ",25,"",""
-"9103PJ",10,"",""
-"9103PJ",28,"",""
-"9103PJ",19,"",""
-"9103PJ",2,"",""
-"9103PK",1,"",""
-"9103PK",10,"",""
-"9103PK",16,"",""
-"9103PK",9,"",""
-"9103PK",12,"",""
-"9103PK",6,"",""
-"9103PK",4,"",""
-"9103PK",5,"",""
-"9103PK",14,"",""
-"9103PK",2,"",""
-"9103PK",3,"",""
-"9103PK",8,"",""
-"9103PK",11,"",""
-"9103PK",7,"",""
-"9103PL",1,"",""
-"9103PL",6,"",""
-"9103PL",8,"",""
-"9103PL",15,"",""
-"9103PL",3,"",""
-"9103PL",10,"",""
-"9103PL",5,"",""
-"9103PL",7,"",""
-"9103PL",4,"",""
-"9103PL",13,"",""
-"9103PL",12,"",""
-"9103PL",2,"",""
-"9103PL",16,"",""
-"9103PL",11,"",""
-"9103PL",18,"",""
-"9103PL",17,"",""
-"9103PL",9,"",""
-"9103PL",14,"",""
-"9103PM",3,"",""
-"9103PM",5,"",""
-"9103PM",4,"",""
-"9103PM",2,"",""
-"9103PM",6,"",""
-"9103PM",1,"",""
-"9103PN",9,"",""
-"9103PN",7,"",""
-"9103PN",3,"",""
-"9103PN",11,"",""
-"9103PN",5,"",""
-"9103PP",5,"",""
-"9103PP",6,"",""
-"9103PP",4,"",""
-"9103PP",3,"",""
-"9103PP",7,"",""
-"9103PP",2,"",""
-"9103PP",1,"",""
-"9103PR",80,"",""
-"9103PR",78,"",""
-"9103PR",82,"",""
-"9103PS",49,"",""
-"9103PS",27,"",""
-"9103PS",51,"",""
-"9103PS",40,"",""
-"9103PS",50,"",""
-"9103PS",48,"",""
-"9103PS",37,"",""
-"9103PS",45,"",""
-"9103PS",41,"",""
-"9103PS",38,"",""
-"9103PS",57,"",""
-"9103PS",43,"",""
-"9103PS",36,"",""
-"9103PS",39,"",""
-"9103PS",59,"",""
-"9103PS",35,"",""
-"9103PS",47,"",""
-"9103PS",29,"",""
-"9103PS",33,"",""
-"9103PS",44,"",""
-"9103PS",61,"",""
-"9103PS",52,"",""
-"9103PS",55,"",""
-"9103PS",42,"",""
-"9103PS",46,"",""
-"9103PS",31,"",""
-"9103PS",53,"",""
-"9103PS",54,"",""
-"9103PT",11,"",""
-"9103PT",10,"",""
-"9103PT",6,"",""
-"9103PT",5,"",""
-"9103PT",12,"",""
-"9103PT",20,"",""
-"9103PT",1,"",""
-"9103PT",16,"",""
-"9103PT",24,"",""
-"9103PT",8,"",""
-"9103PT",14,"",""
-"9103PT",18,"",""
-"9103PT",22,"",""
-"9103PT",3,"",""
-"9103PT",4,"",""
-"9103PT",7,"",""
-"9103PT",2,"",""
-"9103PT",9,"",""
-9103NH,I. Jousmastraat,2,,
-9103NH,I. Jousmastraat,4,,
-9103NH,I. Jousmastraat,6,,
-9103NH,I. Jousmastraat,8,,
-9103NN,J. Droststraat,4,,
-9103NN,J. Droststraat,5,,
-9103NN,J. Droststraat,6,,
-9103NN,J. Droststraat,7,,
-9103NN,J. Droststraat,11,,
-9103NN,J. Droststraat,12,,
-9103NN,J. Droststraat,13,,
-9103NN,J. Droststraat,14,,
-9103NN,J. Droststraat,15,,
-9103NN,J. Droststraat,16,,
-9103NN,J. Droststraat,18,,
-9103NN,J. Droststraat,20,,
-9103NN,J. Droststraat,8,,
-9103NN,J. Droststraat,9,,
-9103NN,J. Droststraat,10,,
-9103NN,J. Droststraat,2,,
-9103NN,J. Droststraat,3,,
-9103NN,J. Droststraat,1,,
-9103NA,J. Keuningstraat,20,,
-9103NA,J. Keuningstraat,22,,
-9103NA,J. Keuningstraat,15,,
-9103NA,J. Keuningstraat,16,,
-9103NA,J. Keuningstraat,18,,
-9103NA,J. Keuningstraat,19,,
-9103NA,J. Keuningstraat,1,,
-9103NA,J. Keuningstraat,2,,
-9103NA,J. Keuningstraat,3,,
-9103NA,J. Keuningstraat,4,,
-9103NA,J. Keuningstraat,5,,
-9103NA,J. Keuningstraat,6,,
-9103NA,J. Keuningstraat,7,,
-9103NA,J. Keuningstraat,8,,
-9103NA,J. Keuningstraat,9,,
-9103NA,J. Keuningstraat,10,,
-9103NA,J. Keuningstraat,11,,
-9103NA,J. Keuningstraat,12,,
-9103NA,J. Keuningstraat,13,,
-9103NA,J. Keuningstraat,14,,
-9103NJ,J. Wiemersstraat,1,,
-9103NJ,J. Wiemersstraat,2,,
-9103NJ,J. Wiemersstraat,3,,
-9103NJ,J. Wiemersstraat,4,,
-9103NJ,J. Wiemersstraat,5,,
-9103NJ,J. Wiemersstraat,6,,
-9103NJ,J. Wiemersstraat,7,,
-9103NJ,J. Wiemersstraat,8,,
-9103NJ,J. Wiemersstraat,9,,
-9103NJ,J. Wiemersstraat,10,,
-9103NJ,J. Wiemersstraat,11,,
-9103NJ,J. Wiemersstraat,12,,
-9103NJ,J. Wiemersstraat,13,,
-9103NJ,J. Wiemersstraat,14,,
-9103NJ,J. Wiemersstraat,15,,
-9103NJ,J. Wiemersstraat,16,,
-9103NJ,J. Wiemersstraat,17,,
-9103NJ,J. Wiemersstraat,18,,
-9103NJ,J. Wiemersstraat,19,,
-9103NJ,J. Wiemersstraat,20,,
-9103NJ,J. Wiemersstraat,21,,
-9103NJ,J. Wiemersstraat,22,,
-9103NJ,J. Wiemersstraat,23,,
-9103NJ,J. Wiemersstraat,24,,
-9103NJ,J. Wiemersstraat,26,,
-9103NJ,J. Wiemersstraat,28,,
-9103NJ,J. Wiemersstraat,30,,
-9103NC,J.G.M. Demesstraat,20,,
-9103NC,J.G.M. Demesstraat,3,,
-9103NC,J.G.M. Demesstraat,4,,
-9103NC,J.G.M. Demesstraat,5,,
-9103NC,J.G.M. Demesstraat,6,,
-9103NC,J.G.M. Demesstraat,7,,
-9103NC,J.G.M. Demesstraat,8,,
-9103NC,J.G.M. Demesstraat,9,,
-9103NC,J.G.M. Demesstraat,10,,
-9103NC,J.G.M. Demesstraat,11,,
-9103NC,J.G.M. Demesstraat,12,,
-9103NC,J.G.M. Demesstraat,13,,
-9103NC,J.G.M. Demesstraat,14,,
-9103NC,J.G.M. Demesstraat,15,,
-9103NC,J.G.M. Demesstraat,16,,
-9103NC,J.G.M. Demesstraat,17,,
-9103NC,J.G.M. Demesstraat,18,,
-9103NS,K. van Dijkstrjitte,24,,
-9103NS,K. van Dijkstrjitte,26,,
-9103NS,K. van Dijkstrjitte,28,,
-9103NS,K. van Dijkstrjitte,16,,
-9103NS,K. van Dijkstrjitte,18,,
-9103NS,K. van Dijkstrjitte,20,,
-9103NS,K. van Dijkstrjitte,22,,
-9103NS,K. van Dijkstrjitte,2,,
-9103NS,K. van Dijkstrjitte,4,,
-9103NS,K. van Dijkstrjitte,8,,
-9103NS,K. van Dijkstrjitte,10,,
-9103NS,K. van Dijkstrjitte,12,,
-9103NS,K. van Dijkstrjitte,14,,
-9103NL,Koaidobbe,2,,
-9103NL,Koaidobbe,4,,
-9103NL,Koaidobbe,8,,
-9103NL,Koaidobbe,10,,
-9103NL,Koaidobbe,12,,
-9103NL,Koaidobbe,14,,
-9103PE,Kouwe,1,,
-9103PE,Kouwe,16,,
-9103PE,Kouwe,17,,
-9103PE,Kouwe,18,,
-9103PE,Kouwe,20,,
-9103PE,Kouwe,21,,
-9103PE,Kouwe,22,,
-9103PE,Kouwe,23,,
-9103PE,Kouwe,26,,
-9103PE,Kouwe,28,,
-9103PE,Kouwe,15,,
-9103PE,Kouwe,30,,
-9103PE,Kouwe,7,,
-9103PE,Kouwe,8,,
-9103PE,Kouwe,9,,
-9103PE,Kouwe,10,,
-9103PE,Kouwe,11,,
-9103PE,Kouwe,12,,
-9103PE,Kouwe,13,,
-9103PE,Kouwe,14,,
-9103PE,Kouwe,32,,
-9103PE,Kouwe,34,,
-9103PE,Kouwe,2,,
-9103PE,Kouwe,2,A,
-9103PE,Kouwe,2,B,
-9103PE,Kouwe,2,C,
-9103PE,Kouwe,4,,
-9103PE,Kouwe,5,,
-9103PE,Kouwe,6,,
-9103PH,Flecht,1,,
-9103PH,Flecht,3,,
-9103PH,Flecht,5,,
-9103PH,Flecht,6,,
-9103PH,Flecht,8,,
-9103PH,Flecht,10,,
-9103PH,Flecht,14,,
-9103PH,Flecht,16,,
-9103PH,Flecht,18,,
-9103PH,Flecht,20,,
-9103NP,Gebr. Woudsmastraat,1,,
-9103NP,Gebr. Woudsmastraat,3,,
-9103NP,Gebr. Woudsmastraat,4,,
-9103NP,Gebr. Woudsmastraat,5,,
-9103NP,Gebr. Woudsmastraat,6,,
-9103NP,Gebr. Woudsmastraat,7,,
-9103NP,Gebr. Woudsmastraat,8,,
-9103NP,Gebr. Woudsmastraat,9,,
-9103NP,Gebr. Woudsmastraat,10,,
-9103NP,Gebr. Woudsmastraat,11,,
-9103NP,Gebr. Woudsmastraat,12,,
-9103NP,Gebr. Woudsmastraat,13,,
-9103NP,Gebr. Woudsmastraat,14,,
-9103NP,Gebr. Woudsmastraat,16,,
-9103NP,Gebr. Woudsmastraat,18,,
-9103NP,Gebr. Woudsmastraat,20,,
-9103NP,Gebr. Woudsmastraat,22,,
-9103NM,Gen. J.P. Gauthierlaan,2,,
-9103NM,Gen. J.P. Gauthierlaan,3,,
-9103NM,Gen. J.P. Gauthierlaan,4,,
-9103NM,Gen. J.P. Gauthierlaan,5,,
-9103NM,Gen. J.P. Gauthierlaan,7,,
-9103NM,Gen. J.P. Gauthierlaan,8,,
-9103NM,Gen. J.P. Gauthierlaan,9,,
-9103NM,Gen. J.P. Gauthierlaan,10,,
-9103NM,Gen. J.P. Gauthierlaan,12,,
-9103NM,Gen. J.P. Gauthierlaan,13,,
-9103NM,Gen. J.P. Gauthierlaan,14,,
-9103NM,Gen. J.P. Gauthierlaan,15,,
-9103NM,Gen. J.P. Gauthierlaan,17,,
-9103NM,Gen. J.P. Gauthierlaan,18,,
-9103NM,Gen. J.P. Gauthierlaan,20,,
-9103NM,Gen. J.P. Gauthierlaan,22,,
-9103NM,Gen. J.P. Gauthierlaan,24,,
-9103NM,Gen. J.P. Gauthierlaan,28,,
-9103PC,Leide,1,,
-9103PC,Leide,3,,
-9103PC,Leide,4,,
-9103PC,Leide,5,,
-9103PC,Leide,6,,
-9103PC,Leide,8,,
-9103NB,mr. J.P. Miedemastraat,43,T,
-9103NB,mr. J.P. Miedemastraat,5,,
-9103NB,mr. J.P. Miedemastraat,7,,
-9103NB,mr. J.P. Miedemastraat,9,,
-9103NB,mr. J.P. Miedemastraat,11,,
-9103NB,mr. J.P. Miedemastraat,13,,
-9103NB,mr. J.P. Miedemastraat,15,,
-9103NB,mr. J.P. Miedemastraat,17,,
-9103NB,mr. J.P. Miedemastraat,19,,
-9103NB,mr. J.P. Miedemastraat,21,,
-9103NB,mr. J.P. Miedemastraat,23,,
-9103NB,mr. J.P. Miedemastraat,25,,
-9103NB,mr. J.P. Miedemastraat,27,,
-9103NB,mr. J.P. Miedemastraat,29,,
-9103NB,mr. J.P. Miedemastraat,31,,
-9103NB,mr. J.P. Miedemastraat,33,,
-9103NB,mr. J.P. Miedemastraat,35,,
-9103NB,mr. J.P. Miedemastraat,37,,
-9103NB,mr. J.P. Miedemastraat,39,,
-9103NB,mr. J.P. Miedemastraat,41,,
-9103NG,mr. J.P. Miedemastraat,62,,
-9103NG,mr. J.P. Miedemastraat,64,,
-9103NG,mr. J.P. Miedemastraat,66,,
-9103NG,mr. J.P. Miedemastraat,46,,
-9103NG,mr. J.P. Miedemastraat,48,,
-9103NG,mr. J.P. Miedemastraat,6,,
-9103NG,mr. J.P. Miedemastraat,6,T,
-9103NG,mr. J.P. Miedemastraat,10,,
-9103NG,mr. J.P. Miedemastraat,52,,
-9103NG,mr. J.P. Miedemastraat,54,,
-9103NG,mr. J.P. Miedemastraat,56,,
-9103NG,mr. J.P. Miedemastraat,58,,
-9103NG,mr. J.P. Miedemastraat,60,,
-9103NG,mr. J.P. Miedemastraat,12,,
-9103NG,mr. J.P. Miedemastraat,16,,
-9103NG,mr. J.P. Miedemastraat,20,,
-9103NG,mr. J.P. Miedemastraat,22,,
-9103NG,mr. J.P. Miedemastraat,24,,
-9103NG,mr. J.P. Miedemastraat,26,,
-9103NG,mr. J.P. Miedemastraat,28,,
-9103NG,mr. J.P. Miedemastraat,30,,
-9103NG,mr. J.P. Miedemastraat,32,,
-9103NG,mr. J.P. Miedemastraat,34,,
-9103NG,mr. J.P. Miedemastraat,36,,
-9103NG,mr. J.P. Miedemastraat,38,,
-9103NG,mr. J.P. Miedemastraat,40,,
-9103NG,mr. J.P. Miedemastraat,42,,
-9103PN,P.G. Obermanstraat,5,,
-9103PN,P.G. Obermanstraat,7,,
-9103PN,P.G. Obermanstraat,9,,
-9103PN,P.G. Obermanstraat,11,,
-9103PN,P.G. Obermanstraat,3,,
-9103PK,P.O. Brouwerstraat,1,,
-9103PK,P.O. Brouwerstraat,2,,
-9103PK,P.O. Brouwerstraat,3,,
-9103PK,P.O. Brouwerstraat,4,,
-9103PK,P.O. Brouwerstraat,5,,
-9103PK,P.O. Brouwerstraat,6,,
-9103PK,P.O. Brouwerstraat,7,,
-9103PK,P.O. Brouwerstraat,8,,
-9103PK,P.O. Brouwerstraat,10,,
-9103PK,P.O. Brouwerstraat,11,,
-9103PK,P.O. Brouwerstraat,12,,
-9103PK,P.O. Brouwerstraat,14,,
-9103PR,Bonifatiuspolder,78,,
-9103PR,Bonifatiuspolder,80,,
-9103PR,Bonifatiuspolder,82,,
-9103NR,D. Hansmastrjitte,1,,
-9103NR,D. Hansmastrjitte,2,,
-9103NR,D. Hansmastrjitte,3,,
-9103NR,D. Hansmastrjitte,4,,
-9103NR,D. Hansmastrjitte,5,,
-9103NR,D. Hansmastrjitte,6,,
-9103NR,D. Hansmastrjitte,7,,
-9103NR,D. Hansmastrjitte,8,,
-9103NR,D. Hansmastrjitte,9,,
-9103NR,D. Hansmastrjitte,11,,
-9103NR,D. Hansmastrjitte,13,,
-9103NR,D. Hansmastrjitte,15,,
-9103NR,D. Hansmastrjitte,17,,
-9103NR,D. Hansmastrjitte,19,,
-9103NR,D. Hansmastrjitte,21,,
-9103NR,D. Hansmastrjitte,23,,
-9103NR,D. Hansmastrjitte,25,,
-9103ND,D. Huijser van Reenenstraat,37,,
-9103ND,D. Huijser van Reenenstraat,39,,
-9103ND,D. Huijser van Reenenstraat,41,,
-9103ND,D. Huijser van Reenenstraat,43,,
-9103ND,D. Huijser van Reenenstraat,23,,
-9103ND,D. Huijser van Reenenstraat,25,,
-9103ND,D. Huijser van Reenenstraat,27,,
-9103ND,D. Huijser van Reenenstraat,29,,
-9103ND,D. Huijser van Reenenstraat,31,,
-9103ND,D. Huijser van Reenenstraat,3,,
-9103ND,D. Huijser van Reenenstraat,5,,
-9103ND,D. Huijser van Reenenstraat,7,,
-9103ND,D. Huijser van Reenenstraat,9,,
-9103ND,D. Huijser van Reenenstraat,13,,
-9103ND,D. Huijser van Reenenstraat,15,,
-9103ND,D. Huijser van Reenenstraat,17,,
-9103ND,D. Huijser van Reenenstraat,19,,
-9103ND,D. Huijser van Reenenstraat,21,,
-9103ND,D. Huijser van Reenenstraat,35,,
-9103NE,D. Huijser van Reenenstraat,38,,
-9103NE,D. Huijser van Reenenstraat,40,,
-9103NE,D. Huijser van Reenenstraat,42,,
-9103NE,D. Huijser van Reenenstraat,22,,
-9103NE,D. Huijser van Reenenstraat,24,,
-9103NE,D. Huijser van Reenenstraat,28,,
-9103NE,D. Huijser van Reenenstraat,30,,
-9103NE,D. Huijser van Reenenstraat,4,,
-9103NE,D. Huijser van Reenenstraat,6,,
-9103NE,D. Huijser van Reenenstraat,8,,
-9103NE,D. Huijser van Reenenstraat,10,,
-9103NE,D. Huijser van Reenenstraat,12,,
-9103NE,D. Huijser van Reenenstraat,14,,
-9103NE,D. Huijser van Reenenstraat,18,,
-9103NE,D. Huijser van Reenenstraat,20,,
-9103NE,D. Huijser van Reenenstraat,34,,
-9103NE,D. Huijser van Reenenstraat,36,,
-9103PM,D.J. Kammingastrjitte,1,,
-9103PM,D.J. Kammingastrjitte,2,,
-9103PM,D.J. Kammingastrjitte,3,,
-9103PM,D.J. Kammingastrjitte,4,,
-9103PM,D.J. Kammingastrjitte,5,,
-9103PM,D.J. Kammingastrjitte,6,,
-9103NK,Da. A.M.L. Frevelstraat,1,,
-9103NK,Da. A.M.L. Frevelstraat,2,,
-9103NK,Da. A.M.L. Frevelstraat,3,,
-9103NK,Da. A.M.L. Frevelstraat,4,,
-9103NK,Da. A.M.L. Frevelstraat,5,,
-9103NK,Da. A.M.L. Frevelstraat,6,,
-9103NK,Da. A.M.L. Frevelstraat,7,,
-9103NK,Da. A.M.L. Frevelstraat,8,,
-9103NK,Da. A.M.L. Frevelstraat,10,,
-9103NK,Da. A.M.L. Frevelstraat,11,,
-9103NK,Da. A.M.L. Frevelstraat,12,,
-9103NK,Da. A.M.L. Frevelstraat,13,,
-9103NK,Da. A.M.L. Frevelstraat,15,,
-9103NK,Da. A.M.L. Frevelstraat,16,,
-9103NK,Da. A.M.L. Frevelstraat,17,,
-9103NK,Da. A.M.L. Frevelstraat,18,,
-9103NK,Da. A.M.L. Frevelstraat,19,,
-9103NK,Da. A.M.L. Frevelstraat,21,,
-9103NK,Da. A.M.L. Frevelstraat,22,,
-9103NK,Da. A.M.L. Frevelstraat,23,,
-9103NK,Da. A.M.L. Frevelstraat,24,,
-9103NK,Da. A.M.L. Frevelstraat,28,,
-9103NK,Da. A.M.L. Frevelstraat,30,,
-9103NK,Da. A.M.L. Frevelstraat,32,,
-9103NK,Da. A.M.L. Frevelstraat,34,,
-9103PJ,drs. S. van Tuinenleane,18,,
-9103PJ,drs. S. van Tuinenleane,19,,
-9103PJ,drs. S. van Tuinenleane,20,,
-9103PJ,drs. S. van Tuinenleane,21,,
-9103PJ,drs. S. van Tuinenleane,22,,
-9103PJ,drs. S. van Tuinenleane,23,,
-9103PJ,drs. S. van Tuinenleane,24,,
-9103PJ,drs. S. van Tuinenleane,25,,
-9103PJ,drs. S. van Tuinenleane,26,,
-9103PJ,drs. S. van Tuinenleane,28,,
-9103PJ,drs. S. van Tuinenleane,2,,
-9103PJ,drs. S. van Tuinenleane,4,,
-9103PJ,drs. S. van Tuinenleane,5,,
-9103PJ,drs. S. van Tuinenleane,6,,
-9103PJ,drs. S. van Tuinenleane,8,,
-9103PJ,drs. S. van Tuinenleane,9,,
-9103PJ,drs. S. van Tuinenleane,10,,
-9103PJ,drs. S. van Tuinenleane,11,,
-9103PJ,drs. S. van Tuinenleane,12,,
-9103PJ,drs. S. van Tuinenleane,14,,
-9103PJ,drs. S. van Tuinenleane,15,,
-9103PJ,drs. S. van Tuinenleane,17,,
-9103PJ,drs. S. van Tuinenleane,32,,
-9103PJ,drs. S. van Tuinenleane,34,,
-9103PS,drs. S. van Tuinenleane,27,,
-9103PS,drs. S. van Tuinenleane,29,,
-9103PS,drs. S. van Tuinenleane,31,,
-9103PS,drs. S. van Tuinenleane,33,,
-9103PS,drs. S. van Tuinenleane,36,,
-9103PS,drs. S. van Tuinenleane,37,,
-9103PS,drs. S. van Tuinenleane,38,,
-9103PS,drs. S. van Tuinenleane,39,,
-9103PS,drs. S. van Tuinenleane,40,,
-9103PS,drs. S. van Tuinenleane,42,,
-9103PS,drs. S. van Tuinenleane,43,,
-9103PS,drs. S. van Tuinenleane,44,,
-9103PS,drs. S. van Tuinenleane,45,,
-9103PS,drs. S. van Tuinenleane,46,,
-9103PS,drs. S. van Tuinenleane,47,,
-9103PS,drs. S. van Tuinenleane,48,,
-9103PS,drs. S. van Tuinenleane,49,,
-9103PS,drs. S. van Tuinenleane,50,,
-9103PS,drs. S. van Tuinenleane,51,,
-9103PS,drs. S. van Tuinenleane,52,,
-9103PS,drs. S. van Tuinenleane,53,,
-9103PS,drs. S. van Tuinenleane,54,,
-9103PS,drs. S. van Tuinenleane,55,,
-9103PS,drs. S. van Tuinenleane,57,,
-9103PS,drs. S. van Tuinenleane,59,,
-9103PS,drs. S. van Tuinenleane,61,,
-9103PT,Ds. J.W.B. Cohenstraat,2,,
-9103PT,Ds. J.W.B. Cohenstraat,3,,
-9103PT,Ds. J.W.B. Cohenstraat,4,,
-9103PT,Ds. J.W.B. Cohenstraat,5,,
-9103PT,Ds. J.W.B. Cohenstraat,6,,
-9103PT,Ds. J.W.B. Cohenstraat,7,,
-9103PT,Ds. J.W.B. Cohenstraat,8,,
-9103PT,Ds. J.W.B. Cohenstraat,9,,
-9103PT,Ds. J.W.B. Cohenstraat,10,,
-9103PT,Ds. J.W.B. Cohenstraat,11,,
-9103PT,Ds. J.W.B. Cohenstraat,12,,
-9103PT,Ds. J.W.B. Cohenstraat,14,,
-9103PT,Ds. J.W.B. Cohenstraat,1,,
-9103PT,Ds. J.W.B. Cohenstraat,16,,
-9103PT,Ds. J.W.B. Cohenstraat,18,,
-9103PT,Ds. J.W.B. Cohenstraat,20,,
-9103PT,Ds. J.W.B. Cohenstraat,22,,
-9103PT,Ds. J.W.B. Cohenstraat,24,,
-9103PG,Einekoer,9,,
-9103PG,Einekoer,10,,
-9103PG,Einekoer,11,,
-9103PG,Einekoer,12,,
-9103PG,Einekoer,13,,
-9103PG,Einekoer,14,,
-9103PG,Einekoer,15,,
-9103PG,Einekoer,16,,
-9103PG,Einekoer,17,,
-9103PG,Einekoer,8,,
-9103PG,Einekoer,3,,
-9103PG,Einekoer,4,,
-9103PG,Einekoer,5,,
-9103PG,Einekoer,6,,
-9103PG,Einekoer,7,,
-9103PG,Einekoer,1,,
-9103PG,Einekoer,2,,
-9103PL,S. van Stratenplein,2,,
-9103PL,S. van Stratenplein,3,,
-9103PL,S. van Stratenplein,4,,
-9103PL,S. van Stratenplein,5,,
-9103PL,S. van Stratenplein,6,,
-9103PL,S. van Stratenplein,7,,
-9103PL,S. van Stratenplein,8,,
-9103PL,S. van Stratenplein,9,,
-9103PL,S. van Stratenplein,10,,
-9103PL,S. van Stratenplein,11,,
-9103PA,Sitwâl,1,,
-9103PA,Sitwâl,6,,
-9103PA,Sitwâl,7,,
-9103PA,Sitwâl,8,,
-9103NA,J. Keuningstraat,17,,
-9103NS,K. van Dijkstrjitte,6,,
-9103NL,Koaidobbe,6,,
-9103PE,Kouwe,1,A,
-9103PE,Kouwe,19,,
-9103PE,Kouwe,24,,
-9103PE,Kouwe,1,B,
-9103PE,Kouwe,3,,
-9103PH,Flecht,4,,
-9103PH,Flecht,12,,
-9103PH,Flecht,22,,
-9103NM,Gen. J.P. Gauthierlaan,6,,
-9103NM,Gen. J.P. Gauthierlaan,11,,
-9103NM,Gen. J.P. Gauthierlaan,16,,
-9103NM,Gen. J.P. Gauthierlaan,26,,
-9103PC,Leide,2,,
-9103PC,Leide,7,,
-9103NB,mr. J.P. Miedemastraat,3,,
-9103NG,mr. J.P. Miedemastraat,14,,
-9103NG,mr. J.P. Miedemastraat,44,,
-9103NG,mr. J.P. Miedemastraat,8,,
-9103NG,mr. J.P. Miedemastraat,50,,
-9103PK,P.O. Brouwerstraat,9,,
-9103PK,P.O. Brouwerstraat,16,,
-9103ND,D. Huijser van Reenenstraat,11,,
-9103ND,D. Huijser van Reenenstraat,33,,
-9103NE,D. Huijser van Reenenstraat,16,,
-9103NE,D. Huijser van Reenenstraat,26,,
-9103NE,D. Huijser van Reenenstraat,32,,
-9103NK,Da. A.M.L. Frevelstraat,9,,
-9103NK,Da. A.M.L. Frevelstraat,14,,
-9103NK,Da. A.M.L. Frevelstraat,20,,
-9103NK,Da. A.M.L. Frevelstraat,26,,
-9103PJ,drs. S. van Tuinenleane,7,,
-9103PJ,drs. S. van Tuinenleane,13,,
-9103PJ,drs. S. van Tuinenleane,30,,
-9103PS,drs. S. van Tuinenleane,35,,
-9103PS,drs. S. van Tuinenleane,41,,
-9103PB,Rinbank,1,,
-9103PB,Rinbank,2,,
-9103PB,Rinbank,4,,
-9103PB,Rinbank,6,,
-9103PL,S. van Stratenplein,12,,
-9103PL,S. van Stratenplein,13,,
-9103PL,S. van Stratenplein,14,,
-9103PL,S. van Stratenplein,15,,
-9103PL,S. van Stratenplein,17,,
-9103PL,S. van Stratenplein,18,,
-9103PL,S. van Stratenplein,16,,
-9103PL,S. van Stratenplein,1,,
-9103PP,S.E. Wendelaar Bongastrjitte,1,,
-9103PP,S.E. Wendelaar Bongastrjitte,2,,
-9103PP,S.E. Wendelaar Bongastrjitte,4,,
-9103PP,S.E. Wendelaar Bongastrjitte,5,,
-9103PP,S.E. Wendelaar Bongastrjitte,6,,
-9103PP,S.E. Wendelaar Bongastrjitte,7,,
-9103PP,S.E. Wendelaar Bongastrjitte,3,,
-9103PA,Sitwâl,2,,
-9103PA,Sitwâl,3,,
-9103PA,Sitwâl,4,,
-9103PA,Sitwâl,5,,
-9103PD,Spegel,4,,
-9103PD,Spegel,5,,
-9103PD,Spegel,6,,
-9103PD,Spegel,8,,
-9103PD,Spegel,1,,
-9103PD,Spegel,2,,
-9103PD,Spegel,3,,
-9103PD,Spegel,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+J. Keuningstraat,1,"","",9103NA,Dokkum
+J. Keuningstraat,10,"","",9103NA,Dokkum
+J. Keuningstraat,11,"","",9103NA,Dokkum
+J. Keuningstraat,12,"","",9103NA,Dokkum
+J. Keuningstraat,13,"","",9103NA,Dokkum
+J. Keuningstraat,14,"","",9103NA,Dokkum
+J. Keuningstraat,15,"","",9103NA,Dokkum
+J. Keuningstraat,16,"","",9103NA,Dokkum
+J. Keuningstraat,17,"","",9103NA,Dokkum
+J. Keuningstraat,18,"","",9103NA,Dokkum
+J. Keuningstraat,19,"","",9103NA,Dokkum
+J. Keuningstraat,2,"","",9103NA,Dokkum
+J. Keuningstraat,20,"","",9103NA,Dokkum
+J. Keuningstraat,22,"","",9103NA,Dokkum
+J. Keuningstraat,3,"","",9103NA,Dokkum
+J. Keuningstraat,4,"","",9103NA,Dokkum
+J. Keuningstraat,5,"","",9103NA,Dokkum
+J. Keuningstraat,6,"","",9103NA,Dokkum
+J. Keuningstraat,7,"","",9103NA,Dokkum
+J. Keuningstraat,8,"","",9103NA,Dokkum
+J. Keuningstraat,9,"","",9103NA,Dokkum
+mr. J.P. Miedemastraat,11,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,13,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,15,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,17,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,19,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,21,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,23,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,25,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,27,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,29,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,3,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,31,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,33,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,35,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,37,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,39,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,41,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,43,T,"",9103NB,Dokkum
+mr. J.P. Miedemastraat,5,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,7,"","",9103NB,Dokkum
+mr. J.P. Miedemastraat,9,"","",9103NB,Dokkum
+J.G.M. Demesstraat,10,"","",9103NC,Dokkum
+J.G.M. Demesstraat,11,"","",9103NC,Dokkum
+J.G.M. Demesstraat,12,"","",9103NC,Dokkum
+J.G.M. Demesstraat,13,"","",9103NC,Dokkum
+J.G.M. Demesstraat,14,"","",9103NC,Dokkum
+J.G.M. Demesstraat,15,"","",9103NC,Dokkum
+J.G.M. Demesstraat,16,"","",9103NC,Dokkum
+J.G.M. Demesstraat,17,"","",9103NC,Dokkum
+J.G.M. Demesstraat,18,"","",9103NC,Dokkum
+J.G.M. Demesstraat,20,"","",9103NC,Dokkum
+J.G.M. Demesstraat,3,"","",9103NC,Dokkum
+J.G.M. Demesstraat,4,"","",9103NC,Dokkum
+J.G.M. Demesstraat,5,"","",9103NC,Dokkum
+J.G.M. Demesstraat,6,"","",9103NC,Dokkum
+J.G.M. Demesstraat,7,"","",9103NC,Dokkum
+J.G.M. Demesstraat,8,"","",9103NC,Dokkum
+J.G.M. Demesstraat,9,"","",9103NC,Dokkum
+D. Huijser van Reenenstraat,11,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,13,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,15,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,17,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,19,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,21,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,23,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,25,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,27,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,29,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,3,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,31,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,33,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,35,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,37,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,39,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,41,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,43,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,5,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,7,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,9,"","",9103ND,Dokkum
+D. Huijser van Reenenstraat,10,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,12,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,14,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,16,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,18,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,20,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,22,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,24,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,26,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,28,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,30,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,32,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,34,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,36,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,38,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,4,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,40,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,42,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,6,"","",9103NE,Dokkum
+D. Huijser van Reenenstraat,8,"","",9103NE,Dokkum
+mr. J.P. Miedemastraat,10,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,12,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,14,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,16,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,20,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,22,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,24,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,26,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,28,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,30,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,32,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,34,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,36,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,38,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,40,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,42,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,44,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,46,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,48,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,50,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,52,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,54,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,56,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,58,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,6,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,6,T,"",9103NG,Dokkum
+mr. J.P. Miedemastraat,60,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,62,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,64,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,66,"","",9103NG,Dokkum
+mr. J.P. Miedemastraat,8,"","",9103NG,Dokkum
+I. Jousmastraat,2,"","",9103NH,Dokkum
+I. Jousmastraat,4,"","",9103NH,Dokkum
+I. Jousmastraat,6,"","",9103NH,Dokkum
+I. Jousmastraat,8,"","",9103NH,Dokkum
+J. Wiemersstraat,1,"","",9103NJ,Dokkum
+J. Wiemersstraat,10,"","",9103NJ,Dokkum
+J. Wiemersstraat,11,"","",9103NJ,Dokkum
+J. Wiemersstraat,12,"","",9103NJ,Dokkum
+J. Wiemersstraat,13,"","",9103NJ,Dokkum
+J. Wiemersstraat,14,"","",9103NJ,Dokkum
+J. Wiemersstraat,15,"","",9103NJ,Dokkum
+J. Wiemersstraat,16,"","",9103NJ,Dokkum
+J. Wiemersstraat,17,"","",9103NJ,Dokkum
+J. Wiemersstraat,18,"","",9103NJ,Dokkum
+J. Wiemersstraat,19,"","",9103NJ,Dokkum
+J. Wiemersstraat,2,"","",9103NJ,Dokkum
+J. Wiemersstraat,20,"","",9103NJ,Dokkum
+J. Wiemersstraat,21,"","",9103NJ,Dokkum
+J. Wiemersstraat,22,"","",9103NJ,Dokkum
+J. Wiemersstraat,23,"","",9103NJ,Dokkum
+J. Wiemersstraat,24,"","",9103NJ,Dokkum
+J. Wiemersstraat,26,"","",9103NJ,Dokkum
+J. Wiemersstraat,28,"","",9103NJ,Dokkum
+J. Wiemersstraat,3,"","",9103NJ,Dokkum
+J. Wiemersstraat,30,"","",9103NJ,Dokkum
+J. Wiemersstraat,4,"","",9103NJ,Dokkum
+J. Wiemersstraat,5,"","",9103NJ,Dokkum
+J. Wiemersstraat,6,"","",9103NJ,Dokkum
+J. Wiemersstraat,7,"","",9103NJ,Dokkum
+J. Wiemersstraat,8,"","",9103NJ,Dokkum
+J. Wiemersstraat,9,"","",9103NJ,Dokkum
+Da. A.M.L. Frevelstraat,1,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,10,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,11,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,12,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,13,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,14,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,15,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,16,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,17,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,18,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,19,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,2,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,20,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,21,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,22,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,23,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,24,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,26,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,28,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,3,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,30,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,32,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,34,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,4,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,5,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,6,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,7,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,8,"","",9103NK,Dokkum
+Da. A.M.L. Frevelstraat,9,"","",9103NK,Dokkum
+Koaidobbe,10,"","",9103NL,Dokkum
+Koaidobbe,12,"","",9103NL,Dokkum
+Koaidobbe,14,"","",9103NL,Dokkum
+Koaidobbe,2,"","",9103NL,Dokkum
+Koaidobbe,4,"","",9103NL,Dokkum
+Koaidobbe,6,"","",9103NL,Dokkum
+Koaidobbe,8,"","",9103NL,Dokkum
+Gen. J.P. Gauthierlaan,10,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,11,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,12,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,13,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,14,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,15,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,16,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,17,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,18,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,2,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,20,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,22,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,24,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,26,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,28,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,3,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,4,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,5,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,6,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,7,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,8,"","",9103NM,Dokkum
+Gen. J.P. Gauthierlaan,9,"","",9103NM,Dokkum
+J. Droststraat,1,"","",9103NN,Dokkum
+J. Droststraat,10,"","",9103NN,Dokkum
+J. Droststraat,11,"","",9103NN,Dokkum
+J. Droststraat,12,"","",9103NN,Dokkum
+J. Droststraat,13,"","",9103NN,Dokkum
+J. Droststraat,14,"","",9103NN,Dokkum
+J. Droststraat,15,"","",9103NN,Dokkum
+J. Droststraat,16,"","",9103NN,Dokkum
+J. Droststraat,18,"","",9103NN,Dokkum
+J. Droststraat,2,"","",9103NN,Dokkum
+J. Droststraat,20,"","",9103NN,Dokkum
+J. Droststraat,3,"","",9103NN,Dokkum
+J. Droststraat,4,"","",9103NN,Dokkum
+J. Droststraat,5,"","",9103NN,Dokkum
+J. Droststraat,6,"","",9103NN,Dokkum
+J. Droststraat,7,"","",9103NN,Dokkum
+J. Droststraat,8,"","",9103NN,Dokkum
+J. Droststraat,9,"","",9103NN,Dokkum
+Gebr. Woudsmastraat,1,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,10,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,11,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,12,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,13,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,14,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,16,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,18,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,20,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,22,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,3,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,4,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,5,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,6,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,7,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,8,"","",9103NP,Dokkum
+Gebr. Woudsmastraat,9,"","",9103NP,Dokkum
+D. Hansmastrjitte,1,"","",9103NR,Dokkum
+D. Hansmastrjitte,11,"","",9103NR,Dokkum
+D. Hansmastrjitte,13,"","",9103NR,Dokkum
+D. Hansmastrjitte,15,"","",9103NR,Dokkum
+D. Hansmastrjitte,17,"","",9103NR,Dokkum
+D. Hansmastrjitte,19,"","",9103NR,Dokkum
+D. Hansmastrjitte,2,"","",9103NR,Dokkum
+D. Hansmastrjitte,21,"","",9103NR,Dokkum
+D. Hansmastrjitte,23,"","",9103NR,Dokkum
+D. Hansmastrjitte,25,"","",9103NR,Dokkum
+D. Hansmastrjitte,3,"","",9103NR,Dokkum
+D. Hansmastrjitte,4,"","",9103NR,Dokkum
+D. Hansmastrjitte,5,"","",9103NR,Dokkum
+D. Hansmastrjitte,6,"","",9103NR,Dokkum
+D. Hansmastrjitte,7,"","",9103NR,Dokkum
+D. Hansmastrjitte,8,"","",9103NR,Dokkum
+D. Hansmastrjitte,9,"","",9103NR,Dokkum
+K. van Dijkstrjitte,10,"","",9103NS,Dokkum
+K. van Dijkstrjitte,12,"","",9103NS,Dokkum
+K. van Dijkstrjitte,14,"","",9103NS,Dokkum
+K. van Dijkstrjitte,16,"","",9103NS,Dokkum
+K. van Dijkstrjitte,18,"","",9103NS,Dokkum
+K. van Dijkstrjitte,2,"","",9103NS,Dokkum
+K. van Dijkstrjitte,20,"","",9103NS,Dokkum
+K. van Dijkstrjitte,22,"","",9103NS,Dokkum
+K. van Dijkstrjitte,24,"","",9103NS,Dokkum
+K. van Dijkstrjitte,26,"","",9103NS,Dokkum
+K. van Dijkstrjitte,28,"","",9103NS,Dokkum
+K. van Dijkstrjitte,4,"","",9103NS,Dokkum
+K. van Dijkstrjitte,6,"","",9103NS,Dokkum
+K. van Dijkstrjitte,8,"","",9103NS,Dokkum
+Sitwâl,1,"","",9103PA,Dokkum
+Sitwâl,2,"","",9103PA,Dokkum
+Sitwâl,3,"","",9103PA,Dokkum
+Sitwâl,4,"","",9103PA,Dokkum
+Sitwâl,5,"","",9103PA,Dokkum
+Sitwâl,6,"","",9103PA,Dokkum
+Sitwâl,7,"","",9103PA,Dokkum
+Sitwâl,8,"","",9103PA,Dokkum
+Rinbank,1,"","",9103PB,Dokkum
+Rinbank,2,"","",9103PB,Dokkum
+Rinbank,4,"","",9103PB,Dokkum
+Rinbank,6,"","",9103PB,Dokkum
+Leide,1,"","",9103PC,Dokkum
+Leide,2,"","",9103PC,Dokkum
+Leide,3,"","",9103PC,Dokkum
+Leide,4,"","",9103PC,Dokkum
+Leide,5,"","",9103PC,Dokkum
+Leide,6,"","",9103PC,Dokkum
+Leide,7,"","",9103PC,Dokkum
+Leide,8,"","",9103PC,Dokkum
+Spegel,1,"","",9103PD,Dokkum
+Spegel,2,"","",9103PD,Dokkum
+Spegel,3,"","",9103PD,Dokkum
+Spegel,4,"","",9103PD,Dokkum
+Spegel,5,"","",9103PD,Dokkum
+Spegel,6,"","",9103PD,Dokkum
+Spegel,7,"","",9103PD,Dokkum
+Spegel,8,"","",9103PD,Dokkum
+Kouwe,1,"","",9103PE,Dokkum
+Kouwe,1,A,"",9103PE,Dokkum
+Kouwe,1,B,"",9103PE,Dokkum
+Kouwe,10,"","",9103PE,Dokkum
+Kouwe,11,"","",9103PE,Dokkum
+Kouwe,12,"","",9103PE,Dokkum
+Kouwe,13,"","",9103PE,Dokkum
+Kouwe,14,"","",9103PE,Dokkum
+Kouwe,15,"","",9103PE,Dokkum
+Kouwe,16,"","",9103PE,Dokkum
+Kouwe,17,"","",9103PE,Dokkum
+Kouwe,18,"","",9103PE,Dokkum
+Kouwe,19,"","",9103PE,Dokkum
+Kouwe,2,"","",9103PE,Dokkum
+Kouwe,2,A,"",9103PE,Dokkum
+Kouwe,2,B,"",9103PE,Dokkum
+Kouwe,2,C,"",9103PE,Dokkum
+Kouwe,20,"","",9103PE,Dokkum
+Kouwe,21,"","",9103PE,Dokkum
+Kouwe,22,"","",9103PE,Dokkum
+Kouwe,23,"","",9103PE,Dokkum
+Kouwe,24,"","",9103PE,Dokkum
+Kouwe,26,"","",9103PE,Dokkum
+Kouwe,28,"","",9103PE,Dokkum
+Kouwe,3,"","",9103PE,Dokkum
+Kouwe,30,"","",9103PE,Dokkum
+Kouwe,32,"","",9103PE,Dokkum
+Kouwe,34,"","",9103PE,Dokkum
+Kouwe,4,"","",9103PE,Dokkum
+Kouwe,5,"","",9103PE,Dokkum
+Kouwe,6,"","",9103PE,Dokkum
+Kouwe,7,"","",9103PE,Dokkum
+Kouwe,8,"","",9103PE,Dokkum
+Kouwe,9,"","",9103PE,Dokkum
+Einekoer,1,"","",9103PG,Dokkum
+Einekoer,10,"","",9103PG,Dokkum
+Einekoer,11,"","",9103PG,Dokkum
+Einekoer,12,"","",9103PG,Dokkum
+Einekoer,13,"","",9103PG,Dokkum
+Einekoer,14,"","",9103PG,Dokkum
+Einekoer,15,"","",9103PG,Dokkum
+Einekoer,16,"","",9103PG,Dokkum
+Einekoer,17,"","",9103PG,Dokkum
+Einekoer,2,"","",9103PG,Dokkum
+Einekoer,3,"","",9103PG,Dokkum
+Einekoer,4,"","",9103PG,Dokkum
+Einekoer,5,"","",9103PG,Dokkum
+Einekoer,6,"","",9103PG,Dokkum
+Einekoer,7,"","",9103PG,Dokkum
+Einekoer,8,"","",9103PG,Dokkum
+Einekoer,9,"","",9103PG,Dokkum
+Flecht,1,"","",9103PH,Dokkum
+Flecht,10,"","",9103PH,Dokkum
+Flecht,12,"","",9103PH,Dokkum
+Flecht,14,"","",9103PH,Dokkum
+Flecht,16,"","",9103PH,Dokkum
+Flecht,18,"","",9103PH,Dokkum
+Flecht,20,"","",9103PH,Dokkum
+Flecht,22,"","",9103PH,Dokkum
+Flecht,3,"","",9103PH,Dokkum
+Flecht,4,"","",9103PH,Dokkum
+Flecht,5,"","",9103PH,Dokkum
+Flecht,6,"","",9103PH,Dokkum
+Flecht,8,"","",9103PH,Dokkum
+drs. S. van Tuinenleane,10,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,11,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,12,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,13,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,14,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,15,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,17,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,18,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,19,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,2,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,20,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,21,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,22,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,23,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,24,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,25,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,26,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,28,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,30,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,32,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,34,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,4,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,5,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,6,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,7,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,8,"","",9103PJ,Dokkum
+drs. S. van Tuinenleane,9,"","",9103PJ,Dokkum
+P.O. Brouwerstraat,1,"","",9103PK,Dokkum
+P.O. Brouwerstraat,10,"","",9103PK,Dokkum
+P.O. Brouwerstraat,11,"","",9103PK,Dokkum
+P.O. Brouwerstraat,12,"","",9103PK,Dokkum
+P.O. Brouwerstraat,14,"","",9103PK,Dokkum
+P.O. Brouwerstraat,16,"","",9103PK,Dokkum
+P.O. Brouwerstraat,2,"","",9103PK,Dokkum
+P.O. Brouwerstraat,3,"","",9103PK,Dokkum
+P.O. Brouwerstraat,4,"","",9103PK,Dokkum
+P.O. Brouwerstraat,5,"","",9103PK,Dokkum
+P.O. Brouwerstraat,6,"","",9103PK,Dokkum
+P.O. Brouwerstraat,7,"","",9103PK,Dokkum
+P.O. Brouwerstraat,8,"","",9103PK,Dokkum
+P.O. Brouwerstraat,9,"","",9103PK,Dokkum
+S. van Stratenplein,1,"","",9103PL,Dokkum
+S. van Stratenplein,10,"","",9103PL,Dokkum
+S. van Stratenplein,11,"","",9103PL,Dokkum
+S. van Stratenplein,12,"","",9103PL,Dokkum
+S. van Stratenplein,13,"","",9103PL,Dokkum
+S. van Stratenplein,14,"","",9103PL,Dokkum
+S. van Stratenplein,15,"","",9103PL,Dokkum
+S. van Stratenplein,16,"","",9103PL,Dokkum
+S. van Stratenplein,17,"","",9103PL,Dokkum
+S. van Stratenplein,18,"","",9103PL,Dokkum
+S. van Stratenplein,2,"","",9103PL,Dokkum
+S. van Stratenplein,3,"","",9103PL,Dokkum
+S. van Stratenplein,4,"","",9103PL,Dokkum
+S. van Stratenplein,5,"","",9103PL,Dokkum
+S. van Stratenplein,6,"","",9103PL,Dokkum
+S. van Stratenplein,7,"","",9103PL,Dokkum
+S. van Stratenplein,8,"","",9103PL,Dokkum
+S. van Stratenplein,9,"","",9103PL,Dokkum
+D.J. Kammingastrjitte,1,"","",9103PM,Dokkum
+D.J. Kammingastrjitte,2,"","",9103PM,Dokkum
+D.J. Kammingastrjitte,3,"","",9103PM,Dokkum
+D.J. Kammingastrjitte,4,"","",9103PM,Dokkum
+D.J. Kammingastrjitte,5,"","",9103PM,Dokkum
+D.J. Kammingastrjitte,6,"","",9103PM,Dokkum
+P.G. Obermanstraat,11,"","",9103PN,Dokkum
+P.G. Obermanstraat,3,"","",9103PN,Dokkum
+P.G. Obermanstraat,5,"","",9103PN,Dokkum
+P.G. Obermanstraat,7,"","",9103PN,Dokkum
+P.G. Obermanstraat,9,"","",9103PN,Dokkum
+S.E. Wendelaar Bongastrjitte,1,"","",9103PP,Dokkum
+S.E. Wendelaar Bongastrjitte,2,"","",9103PP,Dokkum
+S.E. Wendelaar Bongastrjitte,3,"","",9103PP,Dokkum
+S.E. Wendelaar Bongastrjitte,4,"","",9103PP,Dokkum
+S.E. Wendelaar Bongastrjitte,5,"","",9103PP,Dokkum
+S.E. Wendelaar Bongastrjitte,6,"","",9103PP,Dokkum
+S.E. Wendelaar Bongastrjitte,7,"","",9103PP,Dokkum
+Bonifatiuspolder,78,"","",9103PR,Dokkum
+Bonifatiuspolder,80,"","",9103PR,Dokkum
+Bonifatiuspolder,82,"","",9103PR,Dokkum
+drs. S. van Tuinenleane,27,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,29,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,31,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,33,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,35,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,36,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,37,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,38,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,39,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,40,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,41,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,42,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,43,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,44,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,45,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,46,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,47,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,48,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,49,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,50,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,51,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,52,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,53,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,54,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,55,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,57,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,59,"","",9103PS,Dokkum
+drs. S. van Tuinenleane,61,"","",9103PS,Dokkum
+Ds. J.W.B. Cohenstraat,1,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,10,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,11,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,12,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,14,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,16,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,18,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,2,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,20,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,22,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,24,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,3,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,4,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,5,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,6,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,7,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,8,"","",9103PT,Dokkum
+Ds. J.W.B. Cohenstraat,9,"","",9103PT,Dokkum

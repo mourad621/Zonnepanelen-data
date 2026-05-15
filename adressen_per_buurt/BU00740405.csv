@@ -1,862 +1,446 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8413CS",17,"",""
-"8413CS",8,"A",""
-"8413CS",6,"A",""
-"8413CS",8,"B",""
-"8413CS",10,"",""
-"8413CS",10,"",""
-"8413CS",15,"",""
-"8413CS",10,"A",""
-"8413CS",11,"",""
-"8413CS",9,"",""
-"8413CS",8,"",""
-"8413CS",6,"",""
-"8413CS",13,"",""
-"8413CS",6,"",""
-"8413CS",5,"",""
-"8413CS",6,"",""
-"8413CS",4,"A",""
-"8413CS",7,"",""
-"8413CS",6,"A",""
-"8413CS",12,"A",""
-"8413CS",12,"",""
-"8413CT",1,"",""
-"8413CT",4,"",""
-"8413CT",4,"",""
-"8413CT",2,"",""
-"8413CT",6,"",""
-"8413CT",3,"",""
-"8413CT",4,"",""
-"8413CT",5,"",""
-"8413CV",5,"",""
-"8413CV",3,"",""
-"8413CV",7,"",""
-"8413CW",10,"A",""
-"8413CW",10,"",""
-"8413CW",10,"A",""
-"8413CW",2,"A",""
-"8413CW",10,"",""
-"8413CW",4,"",""
-"8413CW",6,"",""
-"8413CW",8,"",""
-"8413CW",2,"",""
-"8413CW",4,"A",""
-"8413CW",10,"",""
-"8413CW",8,"A",""
-"8413NA",6,"",""
-"8413NA",6,"C",""
-"8413NA",6,"B",""
-"8413NA",6,"B",""
-"8413NA",10,"",""
-"8413NA",16,"B",""
-"8413NA",2,"",""
-"8413NA",6,"C",""
-"8413NA",6,"C",""
-"8413NA",1,"C",""
-"8413NA",6,"B",""
-"8413NA",1,"D",""
-"8413NA",1,"C",""
-"8413NA",6,"A",""
-"8413NA",8,"",""
-"8413NA",8,"A",""
-"8413NA",1,"B",""
-"8413NA",20,"",""
-"8413NA",1,"A",""
-"8413NA",1,"B",""
-"8413NA",24,"B",""
-"8413NA",24,"",""
-"8413NA",24,"",""
-"8413NA",1,"C",""
-"8413NA",18,"",""
-"8413NA",24,"A",""
-"8413NA",12,"",""
-"8413NA",16,"",""
-"8413NA",1,"",""
-"8413NA",14,"",""
-"8413NA",16,"A",""
-"8413NA",24,"A",""
-"8413NA",1,"A",""
-"8413NA",24,"",""
-"8413NA",1,"B",""
-"8413NA",4,"",""
-"8413NA",28,"",""
-"8413NA",22,"",""
-"8413NB",30,"",""
-"8413NB",50,"A",""
-"8413NB",38,"",""
-"8413NB",54,"",""
-"8413NB",46,"",""
-"8413NB",48,"",""
-"8413NB",32,"",""
-"8413NB",34,"",""
-"8413NB",48,"B",""
-"8413NB",36,"",""
-"8413NB",50,"",""
-"8413NB",54,"",""
-"8413NB",42,"",""
-"8413NB",34,"A",""
-"8413NB",40,"",""
-"8413NB",32,"A",""
-"8413NB",54,"A",""
-"8413NB",52,"",""
-"8413NB",54,"",""
-"8413NB",42,"",""
-"8413NC",1,"A",""
-"8413NC",62,"",""
-"8413NC",60,"",""
-"8413NC",64,"",""
-"8413NC",1,"B",""
-"8413NC",2,"",""
-"8413NC",56,"",""
-"8413NC",66,"",""
-"8413NC",1,"",""
-"8413NC",58,"",""
-"8413NC",60,"A",""
-"8413NC",4,"",""
-"8413ND",72,"",""
-"8413ND",82,"",""
-"8413ND",84,"A",""
-"8413ND",84,"A",""
-"8413ND",84,"A",""
-"8413ND",74,"",""
-"8413ND",84,"",""
-"8413ND",76,"",""
-"8413ND",78,"",""
-"8413ND",88,"",""
-"8413ND",86,"",""
-"8413ND",70,"",""
-"8413ND",80,"",""
-"8413ND",68,"",""
-"8413ND",78,"A",""
-"8413ND",90,"",""
-"8413ND",1,"",""
-"8413NE",112,"A",""
-"8413NE",110,"A",""
-"8413NE",110,"",""
-"8413NE",112,"",""
-"8413NE",104,"",""
-"8413NE",94,"A",""
-"8413NE",96,"A",""
-"8413NE",108,"",""
-"8413NE",100,"",""
-"8413NE",94,"",""
-"8413NE",102,"",""
-"8413NE",92,"",""
-"8413NE",106,"",""
-"8413NE",96,"",""
-"8413NE",102,"",""
-"8413NE",104,"A",""
-"8413NE",98,"",""
-"8413NG",24,"",""
-"8413NG",20,"",""
-"8413NG",13,"",""
-"8413NG",9,"",""
-"8413NG",3,"",""
-"8413NG",22,"",""
-"8413NG",14,"",""
-"8413NG",26,"",""
-"8413NG",19,"",""
-"8413NG",12,"",""
-"8413NG",15,"A",""
-"8413NG",17,"",""
-"8413NG",21,"",""
-"8413NG",1,"",""
-"8413NG",28,"",""
-"8413NG",32,"",""
-"8413NG",10,"",""
-"8413NG",15,"",""
-"8413NG",2,"",""
-"8413NG",6,"",""
-"8413NG",34,"",""
-"8413NG",5,"",""
-"8413NG",7,"",""
-"8413NG",8,"",""
-"8413NG",18,"",""
-"8413NG",16,"",""
-"8413NG",4,"",""
-"8413NG",30,"",""
-"8413NH",151,"",""
-"8413NH",155,"A",""
-"8413NH",155,"A",""
-"8413NH",147,"",""
-"8413NH",153,"",""
-"8413NH",135,"",""
-"8413NH",147,"B",""
-"8413NH",155,"B",""
-"8413NH",135,"A",""
-"8413NH",155,"",""
-"8413NH",149,"",""
-"8413NH",155,"B",""
-"8413NH",129,"",""
-"8413NH",133,"A",""
-"8413NH",137,"",""
-"8413NH",133,"",""
-"8413NH",143,"",""
-"8413NH",145,"",""
-"8413NH",141,"",""
-"8413NH",127,"",""
-"8413NH",147,"A",""
-"8413NH",131,"",""
-"8413NJ",121,"",""
-"8413NJ",123,"",""
-"8413NJ",117,"",""
-"8413NJ",87,"",""
-"8413NJ",125,"",""
-"8413NJ",109,"",""
-"8413NJ",121,"",""
-"8413NJ",119,"",""
-"8413NJ",109,"",""
-"8413NJ",109,"",""
-"8413NJ",101,"",""
-"8413NJ",103,"",""
-"8413NJ",91,"",""
-"8413NJ",121,"",""
-"8413NJ",109,"A",""
-"8413NJ",115,"",""
-"8413NJ",97,"",""
-"8413NJ",113,"",""
-"8413NJ",109,"A",""
-"8413NJ",107,"",""
-"8413NJ",95,"",""
-"8413NJ",99,"",""
-"8413NJ",121,"",""
-"8413NK",69,"",""
-"8413NK",71,"",""
-"8413NK",67,"",""
-"8413NK",61,"",""
-"8413NK",79,"",""
-"8413NK",73,"",""
-"8413NK",63,"",""
-"8413NK",85,"A",""
-"8413NK",83,"",""
-"8413NK",81,"A",""
-"8413NK",85,"",""
-"8413NK",85,"A",""
-"8413NK",75,"",""
-"8413NK",77,"",""
-"8413NK",85,"",""
-"8413NK",65,"",""
-"8413NK",83,"A",""
-"8413NK",85,"",""
-"8413NK",81,"A",""
-"8413NK",81,"",""
-"8413NL",51,"",""
-"8413NL",37,"",""
-"8413NL",39,"",""
-"8413NL",35,"",""
-"8413NL",12,"",""
-"8413NL",33,"",""
-"8413NL",47,"",""
-"8413NL",41,"",""
-"8413NL",49,"",""
-"8413NL",43,"",""
-"8413NL",10,"",""
-"8413NL",53,"",""
-"8413NL",57,"",""
-"8413NL",59,"",""
-"8413NL",45,"",""
-"8413NM",13,"",""
-"8413NM",25,"",""
-"8413NM",15,"",""
-"8413NM",31,"",""
-"8413NM",29,"",""
-"8413NM",17,"",""
-"8413NM",8,"",""
-"8413NM",23,"",""
-"8413NM",8,"",""
-"8413NM",17,"B",""
-"8413NM",15,"A",""
-"8413NM",27,"",""
-"8413NM",15,"",""
-"8413NM",19,"",""
-"8413NM",17,"A",""
-"8413NM",9,"",""
-"8413NM",15,"",""
-"8413NM",2,"",""
-"8413NM",21,"",""
-"8413NM",11,"",""
-"8413NM",6,"",""
-"8413NM",15,"B",""
-"8413NM",7,"",""
-"8413NM",19,"A",""
-"8413NM",2,"A",""
-"8413NM",4,"",""
-"8413NM",23,"",""
-"8413NM",23,"",""
-"8413NM",8,"",""
-"8413NN",1,"",""
-"8413NN",30,"",""
-"8413NN",19,"",""
-"8413NN",4,"",""
-"8413NN",5,"",""
-"8413NN",21,"",""
-"8413NN",2,"",""
-"8413NN",2,"",""
-"8413NN",2,"",""
-"8413NN",3,"",""
-"8413NN",4,"",""
-"8413NN",6,"",""
-"8413NN",17,"",""
-"8413NN",7,"A",""
-"8413NN",30,"",""
-"8413NN",2,"",""
-"8413NN",30,"",""
-"8413NN",11,"",""
-"8413NN",30,"",""
-"8413NN",2,"",""
-"8413NN",37,"",""
-"8413NN",33,"A",""
-"8413NN",7,"",""
-"8413NN",31,"",""
-"8413NN",9,"",""
-"8413NN",30,"",""
-"8413NN",7,"A",""
-"8413NN",4,"",""
-"8413NN",35,"",""
-"8413NN",13,"",""
-"8413NN",15,"",""
-"8413NN",8,"",""
-"8413NN",33,"",""
-"8413NP",3,"",""
-"8413NP",2,"",""
-"8413NP",5,"",""
-"8413NP",1,"",""
-"8413NR",9,"",""
-"8413NR",7,"",""
-"8413NR",13,"",""
-"8413NR",9,"",""
-"8413NR",13,"",""
-"8413NR",11,"",""
-"8413NR",3,"",""
-"8413NR",5,"",""
-"8413NR",9,"",""
-"8413NS",4,"",""
-"8413NS",2,"",""
-"8413NS",3,"",""
-"8413NS",1,"",""
-"8413NS",7,"",""
-"8413NS",8,"",""
-"8413NS",6,"",""
-"8413NS",5,"",""
-"8413NT",1,"",""
-"8413NT",3,"",""
-"8413NT",2,"",""
-"8413NT",1,"",""
-"8413NT",1,"",""
-"8413NV",1,"",""
-"8413NV",2,"",""
-"8413NV",3,"",""
-"8413NW",6,"",""
-"8413NW",13,"",""
-"8413NW",15,"",""
-"8413NW",5,"",""
-"8413NW",11,"",""
-"8413NW",9,"",""
-"8413NW",2,"",""
-"8413NW",2,"",""
-"8413NW",3,"",""
-"8413NW",4,"",""
-"8413NW",1,"",""
-"8413NW",7,"",""
-"8413NW",2,"",""
-"8413NX",25,"",""
-"8413NX",14,"",""
-"8413NX",10,"",""
-"8413NX",17,"",""
-"8413NX",17,"",""
-"8413NX",18,"",""
-"8413NX",19,"",""
-"8413NX",8,"",""
-"8413NX",23,"A",""
-"8413NX",17,"",""
-"8413NX",16,"",""
-"8413NX",12,"",""
-"8413NX",21,"",""
-"8413NX",25,"",""
-"8413NX",23,"",""
-"8413NZ",56,"",""
-"8413NZ",70,"",""
-"8413NZ",50,"",""
-"8413NZ",64,"",""
-"8413NZ",62,"",""
-"8413NZ",56,"A",""
-"8413NZ",42,"",""
-"8413NZ",38,"",""
-"8413NZ",70,"",""
-"8413NZ",66,"",""
-"8413NZ",52,"",""
-"8413NZ",44,"",""
-"8413NZ",70,"B",""
-"8413NZ",48,"",""
-"8413NZ",54,"",""
-"8413NZ",70,"C",""
-"8413NZ",70,"A",""
-"8413NZ",36,"",""
-"8413NZ",60,"",""
-"8413NZ",46,"",""
-"8413NZ",70,"B",""
-"8413NZ",70,"A",""
-"8413NZ",70,"C",""
-"8413NZ",40,"",""
-"8413NZ",58,"",""
-"8413NZ",54,"A",""
-"8413RT",31,"",""
-"8413RT",31,"",""
-"8413RT",45,"",""
-"8413RT",43,"",""
-"8413RT",29,"",""
-"8413RT",39,"",""
-"8413RT",35,"",""
-"8413RT",27,"",""
-"8413RT",41,"",""
-"8413RT",47,"",""
-"8413RT",25,"",""
-"8413RT",49,"",""
-"8413RV",67,"",""
-"8413RV",55,"",""
-"8413RV",69,"",""
-"8413RV",71,"",""
-"8413RV",79,"",""
-"8413RV",51,"",""
-"8413RV",57,"",""
-"8413RV",73,"",""
-"8413RV",65,"",""
-"8413RV",77,"",""
-"8413RV",59,"",""
-"8413RV",75,"",""
-"8413RW",16,"",""
-"8413RW",30,"",""
-"8413RW",14,"",""
-"8413RW",18,"",""
-"8413RW",24,"",""
-"8413RW",22,"",""
-"8413RW",20,"",""
-"8413RW",12,"",""
-"8413RX",36,"",""
-"8413RX",36,"A",""
-"8413RX",34,"A",""
-"8413RX",32,"A",""
-"8413RX",32,"",""
-"8413RX",42,"A",""
-"8413RX",42,"",""
-"8413RX",38,"",""
-"8413RX",44,"",""
-"8413RX",40,"",""
-"8413RX",34,"",""
-"8413RX",38,"",""
-8413CS,Tjongervallei,6,,
-8413CS,Tjongervallei,6,A,
-8413CS,Tjongervallei,7,,
-8413CS,Tjongervallei,8,A,
-8413CS,Tjongervallei,8,B,
-8413CS,Tjongervallei,9,,
-8413CS,Tjongervallei,10,,
-8413CS,Tjongervallei,10,,
-8413CS,Tjongervallei,12,,
-8413CS,Tjongervallei,12,A,
-8413CS,Tjongervallei,13,,
-8413CS,Tjongervallei,15,,
-8413CS,Tjongervallei,17,,
-8413NW,Buitenweg,1,,
-8413NW,Buitenweg,3,,
-8413NW,Buitenweg,4,,
-8413NW,Buitenweg,6,,
-8413NW,Buitenweg,7,,
-8413NW,Buitenweg,9,,
-8413NW,Buitenweg,13,,
-8413NW,Buitenweg,15,,
-8413NX,Buitenweg,8,,
-8413NX,Buitenweg,10,,
-8413NX,Buitenweg,14,,
-8413NX,Buitenweg,17,,
-8413NX,Buitenweg,18,,
-8413NX,Buitenweg,19,,
-8413NX,Buitenweg,23,,
-8413NX,Buitenweg,23,A,
-8413NX,Buitenweg,25,,
-8413NM,8e Wijk,2,,
-8413NM,8e Wijk,4,,
-8413NM,8e Wijk,6,,
-8413NS,Eerste Stichtingspad,1,,
-8413NS,Eerste Stichtingspad,2,,
-8413NS,Eerste Stichtingspad,4,,
-8413NS,Eerste Stichtingspad,5,,
-8413NS,Eerste Stichtingspad,7,,
-8413NL,Eilewijksreed,10,,
-8413NN,Eilewijksreed,4,,
-8413NC,Jan K Bosmalaan,2,,
-8413NP,Jonkerslandreed,1,,
-8413NP,Jonkerslandreed,3,,
-8413NG,Oldeberkoperweg,1,,
-8413NG,Oldeberkoperweg,2,,
-8413NG,Oldeberkoperweg,4,,
-8413NG,Oldeberkoperweg,5,,
-8413NG,Oldeberkoperweg,6,,
-8413NG,Oldeberkoperweg,9,,
-8413NG,Oldeberkoperweg,10,,
-8413NG,Oldeberkoperweg,12,,
-8413NG,Oldeberkoperweg,13,,
-8413NG,Oldeberkoperweg,15,,
-8413NG,Oldeberkoperweg,15,A,
-8413NG,Oldeberkoperweg,16,,
-8413NG,Oldeberkoperweg,19,,
-8413NG,Oldeberkoperweg,20,,
-8413NG,Oldeberkoperweg,21,,
-8413NG,Oldeberkoperweg,24,,
-8413NG,Oldeberkoperweg,26,,
-8413NG,Oldeberkoperweg,28,,
-8413NG,Oldeberkoperweg,30,,
-8413NG,Oldeberkoperweg,34,,
-8413NZ,Oldeberkoperweg,36,,
-8413NZ,Oldeberkoperweg,40,,
-8413NZ,Oldeberkoperweg,42,,
-8413NZ,Oldeberkoperweg,44,,
-8413NZ,Oldeberkoperweg,48,,
-8413NZ,Oldeberkoperweg,50,,
-8413NZ,Oldeberkoperweg,52,,
-8413NZ,Oldeberkoperweg,56,A,
-8413NZ,Oldeberkoperweg,58,,
-8413NZ,Oldeberkoperweg,60,,
-8413NZ,Oldeberkoperweg,64,,
-8413NZ,Oldeberkoperweg,66,,
-8413NZ,Oldeberkoperweg,70,,
-8413NZ,Oldeberkoperweg,70,,
-8413CV,Sevenaerpad,3,,
-8413CV,Sevenaerpad,5,,
-8413CV,Sevenaerpad,7,,
-8413CT,Siebe Annesweg,2,,
-8413CT,Siebe Annesweg,3,,
-8413CT,Siebe Annesweg,4,,
-8413ND,Slotlaan,1,,
-8413NN,Tweede Sluisweg,1,,
-8413NN,Tweede Sluisweg,3,,
-8413NN,Tweede Sluisweg,5,,
-8413NN,Tweede Sluisweg,7,,
-8413NN,Tweede Sluisweg,7,A,
-8413NN,Tweede Sluisweg,7,A,
-8413NN,Tweede Sluisweg,11,,
-8413NN,Tweede Sluisweg,13,,
-8413NN,Tweede Sluisweg,15,,
-8413NN,Tweede Sluisweg,17,,
-8413NN,Tweede Sluisweg,21,,
-8413NN,Tweede Sluisweg,31,,
-8413NN,Tweede Sluisweg,33,,
-8413NN,Tweede Sluisweg,37,,
-8413NV,Tweede Stichtingspad,3,,
-8413NR,Zuster de Jongweg,3,,
-8413NR,Zuster de Jongweg,5,,
-8413NR,Zuster de Jongweg,7,,
-8413NR,Zuster de Jongweg,9,,
-8413NR,Zuster de Jongweg,13,,
-8413NA,Schoterlandseweg,2,,
-8413NA,Schoterlandseweg,4,,
-8413NA,Schoterlandseweg,6,,
-8413NA,Schoterlandseweg,6,B,
-8413NA,Schoterlandseweg,6,B,
-8413NA,Schoterlandseweg,8,,
-8413NA,Schoterlandseweg,8,A,
-8413NA,Schoterlandseweg,10,,
-8413NA,Schoterlandseweg,14,,
-8413NA,Schoterlandseweg,16,B,
-8413NA,Schoterlandseweg,20,,
-8413NA,Schoterlandseweg,22,,
-8413NA,Schoterlandseweg,24,,
-8413NB,Schoterlandseweg,30,,
-8413NB,Schoterlandseweg,32,A,
-8413NB,Schoterlandseweg,34,,
-8413NB,Schoterlandseweg,36,,
-8413NB,Schoterlandseweg,38,,
-8413NB,Schoterlandseweg,40,,
-8413NB,Schoterlandseweg,42,,
-8413NB,Schoterlandseweg,48,,
-8413NB,Schoterlandseweg,48,B,
-8413NB,Schoterlandseweg,50,,
-8413NB,Schoterlandseweg,52,,
-8413NB,Schoterlandseweg,54,,
-8413NB,Schoterlandseweg,54,A,
-8413NC,Schoterlandseweg,56,,
-8413NC,Schoterlandseweg,60,,
-8413NC,Schoterlandseweg,62,,
-8413NC,Schoterlandseweg,66,,
-8413ND,Schoterlandseweg,68,,
-8413ND,Schoterlandseweg,72,,
-8413ND,Schoterlandseweg,74,,
-8413ND,Schoterlandseweg,76,,
-8413ND,Schoterlandseweg,80,,
-8413ND,Schoterlandseweg,82,,
-8413ND,Schoterlandseweg,84,,
-8413ND,Schoterlandseweg,84,A,
-8413ND,Schoterlandseweg,88,,
-8413ND,Schoterlandseweg,90,,
-8413NE,Schoterlandseweg,100,,
-8413NE,Schoterlandseweg,102,,
-8413NE,Schoterlandseweg,102,,
-8413NE,Schoterlandseweg,104,A,
-8413NE,Schoterlandseweg,106,,
-8413NE,Schoterlandseweg,108,,
-8413NE,Schoterlandseweg,110,A,
-8413NE,Schoterlandseweg,112,A,
-8413NE,Schoterlandseweg,92,,
-8413NE,Schoterlandseweg,94,A,
-8413NE,Schoterlandseweg,96,,
-8413NE,Schoterlandseweg,98,,
-8413NH,Schoterlandseweg,145,,
-8413NH,Schoterlandseweg,147,,
-8413NH,Schoterlandseweg,147,A,
-8413NH,Schoterlandseweg,127,,
-8413NH,Schoterlandseweg,129,,
-8413NH,Schoterlandseweg,133,,
-8413NH,Schoterlandseweg,133,A,
-8413NH,Schoterlandseweg,135,,
-8413NH,Schoterlandseweg,147,B,
-8413NH,Schoterlandseweg,151,,
-8413NH,Schoterlandseweg,153,,
-8413NH,Schoterlandseweg,155,,
-8413NJ,Schoterlandseweg,87,,
-8413NJ,Schoterlandseweg,97,,
-8413NJ,Schoterlandseweg,99,,
-8413NJ,Schoterlandseweg,101,,
-8413NJ,Schoterlandseweg,107,,
-8413NJ,Schoterlandseweg,109,,
-8413NJ,Schoterlandseweg,113,,
-8413NJ,Schoterlandseweg,117,,
-8413NJ,Schoterlandseweg,119,,
-8413NJ,Schoterlandseweg,121,,
-8413NJ,Schoterlandseweg,123,,
-8413NK,Schoterlandseweg,61,,
-8413NK,Schoterlandseweg,63,,
-8413NK,Schoterlandseweg,65,,
-8413NK,Schoterlandseweg,69,,
-8413NK,Schoterlandseweg,71,,
-8413NK,Schoterlandseweg,73,,
-8413NK,Schoterlandseweg,77,,
-8413NK,Schoterlandseweg,79,,
-8413NK,Schoterlandseweg,81,,
-8413NK,Schoterlandseweg,83,A,
-8413NK,Schoterlandseweg,85,,
-8413NK,Schoterlandseweg,85,A,
-8413NK,Schoterlandseweg,85,A,
-8413NL,Schoterlandseweg,33,,
-8413NL,Schoterlandseweg,37,,
-8413NL,Schoterlandseweg,39,,
-8413NL,Schoterlandseweg,43,,
-8413NL,Schoterlandseweg,45,,
-8413NL,Schoterlandseweg,47,,
-8413NL,Schoterlandseweg,53,,
-8413NL,Schoterlandseweg,57,,
-8413NL,Schoterlandseweg,59,,
-8413NM,Schoterlandseweg,21,,
-8413NM,Schoterlandseweg,25,,
-8413NM,Schoterlandseweg,27,,
-8413NM,Schoterlandseweg,29,,
-8413NM,Schoterlandseweg,7,,
-8413NM,Schoterlandseweg,11,,
-8413NM,Schoterlandseweg,13,,
-8413NM,Schoterlandseweg,15,,
-8413NM,Schoterlandseweg,19,,
-8413NT,Oude Singel,1,,
-8413NT,Oude Singel,2,,
-8413NT,Oude Singel,3,,
-8413CW,Rozenbergswijk,2,A,
-8413CW,Rozenbergswijk,4,,
-8413CW,Rozenbergswijk,4,A,
-8413CW,Rozenbergswijk,6,,
-8413CW,Rozenbergswijk,8,A,
-8413CW,Rozenbergswijk,10,,
-8413CW,Rozenbergswijk,10,A,
-8413RT,Tweede Compagnonsweg,25,,
-8413RT,Tweede Compagnonsweg,29,,
-8413RT,Tweede Compagnonsweg,31,,
-8413RT,Tweede Compagnonsweg,31,,
-8413RT,Tweede Compagnonsweg,39,,
-8413RT,Tweede Compagnonsweg,43,,
-8413RT,Tweede Compagnonsweg,45,,
-8413RT,Tweede Compagnonsweg,47,,
-8413RV,Tweede Compagnonsweg,51,,
-8413RV,Tweede Compagnonsweg,55,,
-8413RV,Tweede Compagnonsweg,57,,
-8413RV,Tweede Compagnonsweg,59,,
-8413RV,Tweede Compagnonsweg,67,,
-8413RV,Tweede Compagnonsweg,71,,
-8413RV,Tweede Compagnonsweg,75,,
-8413RV,Tweede Compagnonsweg,77,,
-8413RV,Tweede Compagnonsweg,79,,
-8413RW,Tweede Compagnonsweg,12,,
-8413RW,Tweede Compagnonsweg,14,,
-8413RW,Tweede Compagnonsweg,16,,
-8413RW,Tweede Compagnonsweg,18,,
-8413RW,Tweede Compagnonsweg,22,,
-8413RW,Tweede Compagnonsweg,30,,
-8413RX,Tweede Compagnonsweg,32,,
-8413RX,Tweede Compagnonsweg,34,,
-8413RX,Tweede Compagnonsweg,34,A,
-8413RX,Tweede Compagnonsweg,36,,
-8413RX,Tweede Compagnonsweg,38,,
-8413RX,Tweede Compagnonsweg,38,,
-8413RX,Tweede Compagnonsweg,40,,
-8413RX,Tweede Compagnonsweg,42,,
-8413RX,Tweede Compagnonsweg,42,A,
-8413NZ,Oldeberkoperweg,46,,
-8413NZ,Oldeberkoperweg,56,,
-8413NZ,Oldeberkoperweg,62,,
-8413NZ,Oldeberkoperweg,38,,
-8413RT,Tweede Compagnonsweg,27,,
-8413RT,Tweede Compagnonsweg,41,,
-8413RT,Tweede Compagnonsweg,49,,
-8413RV,Tweede Compagnonsweg,65,,
-8413RV,Tweede Compagnonsweg,73,,
-8413RW,Tweede Compagnonsweg,20,,
-8413RX,Tweede Compagnonsweg,32,A,
-8413RX,Tweede Compagnonsweg,36,A,
-8413RX,Tweede Compagnonsweg,44,,
-8413CS,Tjongervallei,8,,
-8413CS,Tjongervallei,11,,
-8413CS,Tjongervallei,5,,
-8413CS,Tjongervallei,10,A,
-8413CS,Tjongervallei,6,,
-8413NW,Buitenweg,2,,
-8413NW,Buitenweg,5,,
-8413NW,Buitenweg,11,,
-8413NW,Buitenweg,2,,
-8413NX,Buitenweg,16,,
-8413NX,Buitenweg,21,,
-8413NX,Buitenweg,12,,
-8413NX,Buitenweg,17,,
-8413NM,8e Wijk,8,,
-8413NM,8e Wijk,2,A,
-8413NM,8e Wijk,8,,
-8413NM,8e Wijk,8,,
-8413NS,Eerste Stichtingspad,3,,
-8413NS,Eerste Stichtingspad,8,,
-8413NS,Eerste Stichtingspad,6,,
-8413NL,Eilewijksreed,12,,
-8413NN,Eilewijksreed,2,,
-8413NN,Eilewijksreed,6,,
-8413NN,Eilewijksreed,8,,
-8413NN,Eilewijksreed,2,,
-8413NN,Eilewijksreed,4,,
-8413NC,Jan K Bosmalaan,1,,
-8413NC,Jan K Bosmalaan,1,A,
-8413NP,Jonkerslandreed,5,,
-8413NG,Oldeberkoperweg,3,,
-8413NG,Oldeberkoperweg,7,,
-8413NG,Oldeberkoperweg,14,,
-8413NG,Oldeberkoperweg,18,,
-8413NG,Oldeberkoperweg,22,,
-8413NG,Oldeberkoperweg,32,,
-8413NG,Oldeberkoperweg,8,,
-8413NG,Oldeberkoperweg,17,,
-8413NZ,Oldeberkoperweg,54,,
-8413NZ,Oldeberkoperweg,70,A,
-8413NZ,Oldeberkoperweg,70,A,
-8413NZ,Oldeberkoperweg,70,B,
-8413NZ,Oldeberkoperweg,70,B,
-8413NZ,Oldeberkoperweg,70,C,
-8413NZ,Oldeberkoperweg,70,C,
-8413NA,Sevenaerpad,1,,
-8413NA,Sevenaerpad,1,A,
-8413NA,Sevenaerpad,1,A,
-8413CT,Siebe Annesweg,1,,
-8413CT,Siebe Annesweg,5,,
-8413CT,Siebe Annesweg,6,,
-8413NN,Tweede Sluisweg,9,,
-8413NN,Tweede Sluisweg,19,,
-8413NN,Tweede Sluisweg,35,,
-8413NV,Tweede Stichtingspad,2,,
-8413NV,Tweede Stichtingspad,1,,
-8413NR,Zuster de Jongweg,11,,
-8413NR,Zuster de Jongweg,9,,
-8413NA,Schoterlandseweg,6,C,
-8413NH,Schoterlandseweg,155,B,
-8413NK,Schoterlandseweg,81,A,
-8413NA,Schoterlandseweg,6,A,
-8413NA,Schoterlandseweg,12,,
-8413NA,Schoterlandseweg,18,,
-8413NA,Schoterlandseweg,28,,
-8413NA,Schoterlandseweg,16,A,
-8413NA,Schoterlandseweg,16,,
-8413NA,Schoterlandseweg,24,A,
-8413NA,Schoterlandseweg,24,A,
-8413NA,Schoterlandseweg,6,C,
-8413NB,Schoterlandseweg,32,,
-8413NB,Schoterlandseweg,34,A,
-8413NB,Schoterlandseweg,46,,
-8413NB,Schoterlandseweg,50,A,
-8413NC,Schoterlandseweg,64,,
-8413NC,Schoterlandseweg,60,A,
-8413NC,Schoterlandseweg,58,,
-8413ND,Schoterlandseweg,70,,
-8413ND,Schoterlandseweg,78,,
-8413ND,Schoterlandseweg,86,,
-8413ND,Schoterlandseweg,78,A,
-8413NE,Schoterlandseweg,94,,
-8413NE,Schoterlandseweg,104,,
-8413NE,Schoterlandseweg,112,,
-8413NE,Schoterlandseweg,110,,
-8413NH,Schoterlandseweg,141,,
-8413NH,Schoterlandseweg,149,,
-8413NH,Schoterlandseweg,131,,
-8413NH,Schoterlandseweg,135,A,
-8413NH,Schoterlandseweg,143,,
-8413NH,Schoterlandseweg,137,,
-8413NH,Schoterlandseweg,155,A,
-8413NH,Schoterlandseweg,155,A,
-8413NH,Schoterlandseweg,155,B,
-8413NJ,Schoterlandseweg,91,,
-8413NJ,Schoterlandseweg,103,,
-8413NJ,Schoterlandseweg,115,,
-8413NJ,Schoterlandseweg,125,,
-8413NJ,Schoterlandseweg,109,A,
-8413NJ,Schoterlandseweg,109,A,
-8413NJ,Schoterlandseweg,95,,
-8413NJ,Schoterlandseweg,109,,
-8413NK,Schoterlandseweg,67,,
-8413NK,Schoterlandseweg,75,,
-8413NK,Schoterlandseweg,83,,
-8413NK,Schoterlandseweg,81,A,
-8413NL,Schoterlandseweg,41,,
-8413NL,Schoterlandseweg,49,,
-8413NL,Schoterlandseweg,51,,
-8413NL,Schoterlandseweg,35,,
-8413NM,Schoterlandseweg,9,,
-8413NM,Schoterlandseweg,15,B,
-8413NM,Schoterlandseweg,23,,
-8413NM,Schoterlandseweg,31,,
-8413NM,Schoterlandseweg,19,A,
-8413NM,Schoterlandseweg,17,,
-8413NM,Schoterlandseweg,17,B,
-8413NM,Schoterlandseweg,15,A,
-8413NM,Schoterlandseweg,17,A,
-8413NM,Schoterlandseweg,15,,
-8413CW,Rozenbergswijk,2,,
-8413CW,Rozenbergswijk,8,,
-8413CS,Tjongervallei,4,A,
-8413RT,Tweede Compagnonsweg,35,,
-8413RV,Tweede Compagnonsweg,69,,
-8413RW,Tweede Compagnonsweg,24,,
-8413NX,Buitenweg,25,,
-8413NN,Eilewijksreed,2,,
-8413NC,Jan K Bosmalaan,1,B,
-8413NC,Jan K Bosmalaan,4,,
-8413NP,Jonkerslandreed,2,,
-8413NZ,Oldeberkoperweg,54,A,
-8413NA,Sevenaerpad,1,B,
-8413NA,Sevenaerpad,1,B,
-8413NA,Sevenaerpad,1,D,
-8413NA,Sevenaerpad,1,C,
-8413NA,Sevenaerpad,1,C,
-8413CT,Siebe Annesweg,4,,
-8413NN,Tweede Sluisweg,33,A,
-8413NN,Tweede Sluisweg,30,,
-8413NN,Tweede Sluisweg,30,,
-8413NN,Tweede Sluisweg,30,,
-8413NA,Schoterlandseweg,24,,
-8413NA,Schoterlandseweg,24,B,
-8413NB,Schoterlandseweg,54,,
-8413ND,Schoterlandseweg,84,A,
-8413NE,Schoterlandseweg,96,A,
-8413NJ,Schoterlandseweg,121,,
-8413NK,Schoterlandseweg,85,,
-8413NM,Schoterlandseweg,23,,
-8413NT,Oude Singel,1,,
-8413CW,Rozenbergswijk,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Tjongervallei,10,"","",8413CS,Oudehorne
+Tjongervallei,10,"","",8413CS,Oudehorne
+Tjongervallei,10,A,"",8413CS,Oudehorne
+Tjongervallei,11,"","",8413CS,Oudehorne
+Tjongervallei,12,"","",8413CS,Oudehorne
+Tjongervallei,12,A,"",8413CS,Oudehorne
+Tjongervallei,13,"","",8413CS,Oudehorne
+Tjongervallei,15,"","",8413CS,Oudehorne
+Tjongervallei,17,"","",8413CS,Oudehorne
+Tjongervallei,4,A,"",8413CS,Nieuwehorne
+Tjongervallei,5,"","",8413CS,Oudehorne
+Tjongervallei,6,"","",8413CS,Oudehorne
+Tjongervallei,6,"","",8413CS,Oudehorne
+Tjongervallei,6,"","",8413CS,Oudehorne
+Tjongervallei,6,A,"",8413CS,Oudehorne
+Tjongervallei,6,A,"",8413CS,Oudehorne
+Tjongervallei,7,"","",8413CS,Oudehorne
+Tjongervallei,8,"","",8413CS,Oudehorne
+Tjongervallei,8,A,"",8413CS,Oudehorne
+Tjongervallei,8,B,"",8413CS,Oudehorne
+Tjongervallei,9,"","",8413CS,Oudehorne
+Siebe Annesweg,1,"","",8413CT,Oudehorne
+Siebe Annesweg,2,"","",8413CT,Oudehorne
+Siebe Annesweg,3,"","",8413CT,Oudehorne
+Siebe Annesweg,4,"","",8413CT,Oudehorne
+Siebe Annesweg,4,"","",8413CT,Oudehorne
+Siebe Annesweg,4,"","",8413CT,Oudehorne
+Siebe Annesweg,5,"","",8413CT,Oudehorne
+Siebe Annesweg,6,"","",8413CT,Oudehorne
+Sevenaerpad,3,"","",8413CV,Oudehorne
+Sevenaerpad,5,"","",8413CV,Oudehorne
+Sevenaerpad,7,"","",8413CV,Oudehorne
+Rozenbergswijk,10,"","",8413CW,Oudehorne
+Rozenbergswijk,10,"","",8413CW,Oudehorne
+Rozenbergswijk,10,"","",8413CW,Oudehorne
+Rozenbergswijk,10,A,"",8413CW,Oudehorne
+Rozenbergswijk,10,A,"",8413CW,Oudehorne
+Rozenbergswijk,2,"","",8413CW,Oudehorne
+Rozenbergswijk,2,A,"",8413CW,Oudehorne
+Rozenbergswijk,4,"","",8413CW,Oudehorne
+Rozenbergswijk,4,A,"",8413CW,Oudehorne
+Rozenbergswijk,6,"","",8413CW,Oudehorne
+Rozenbergswijk,8,"","",8413CW,Oudehorne
+Rozenbergswijk,8,A,"",8413CW,Oudehorne
+Sevenaerpad,1,"","",8413NA,Oudehorne
+Sevenaerpad,1,A,"",8413NA,Oudehorne
+Sevenaerpad,1,A,"",8413NA,Oudehorne
+Sevenaerpad,1,B,"",8413NA,Oudehorne
+Sevenaerpad,1,B,"",8413NA,Oudehorne
+Sevenaerpad,1,B,"",8413NA,Oudehorne
+Sevenaerpad,1,C,"",8413NA,Oudehorne
+Sevenaerpad,1,C,"",8413NA,Oudehorne
+Sevenaerpad,1,C,"",8413NA,Oudehorne
+Sevenaerpad,1,D,"",8413NA,Oudehorne
+Schoterlandseweg,10,"","",8413NA,Oudehorne
+Schoterlandseweg,12,"","",8413NA,Oudehorne
+Schoterlandseweg,14,"","",8413NA,Oudehorne
+Schoterlandseweg,16,"","",8413NA,Oudehorne
+Schoterlandseweg,16,A,"",8413NA,Oudehorne
+Schoterlandseweg,16,B,"",8413NA,Oudehorne
+Schoterlandseweg,18,"","",8413NA,Oudehorne
+Schoterlandseweg,2,"","",8413NA,Oudehorne
+Schoterlandseweg,20,"","",8413NA,Oudehorne
+Schoterlandseweg,22,"","",8413NA,Oudehorne
+Schoterlandseweg,24,"","",8413NA,Oudehorne
+Schoterlandseweg,24,"","",8413NA,Oudehorne
+Schoterlandseweg,24,"","",8413NA,Oudehorne
+Schoterlandseweg,24,A,"",8413NA,Oudehorne
+Schoterlandseweg,24,A,"",8413NA,Oudehorne
+Schoterlandseweg,24,B,"",8413NA,Oudehorne
+Schoterlandseweg,28,"","",8413NA,Oudehorne
+Schoterlandseweg,4,"","",8413NA,Oudehorne
+Schoterlandseweg,6,"","",8413NA,Oudehorne
+Schoterlandseweg,6,A,"",8413NA,Oudehorne
+Schoterlandseweg,6,B,"",8413NA,Oudehorne
+Schoterlandseweg,6,B,"",8413NA,Oudehorne
+Schoterlandseweg,6,B,"",8413NA,Oudehorne
+Schoterlandseweg,6,C,"",8413NA,Hoornsterzwaag
+Schoterlandseweg,6,C,"",8413NA,Hoornsterzwaag
+Schoterlandseweg,6,C,"",8413NA,Hoornsterzwaag
+Schoterlandseweg,8,"","",8413NA,Oudehorne
+Schoterlandseweg,8,A,"",8413NA,Oudehorne
+Schoterlandseweg,30,"","",8413NB,Oudehorne
+Schoterlandseweg,32,"","",8413NB,Oudehorne
+Schoterlandseweg,32,A,"",8413NB,Oudehorne
+Schoterlandseweg,34,"","",8413NB,Oudehorne
+Schoterlandseweg,34,A,"",8413NB,Oudehorne
+Schoterlandseweg,36,"","",8413NB,Oudehorne
+Schoterlandseweg,38,"","",8413NB,Oudehorne
+Schoterlandseweg,40,"","",8413NB,Oudehorne
+Schoterlandseweg,42,"","",8413NB,Oudehorne
+Schoterlandseweg,42,"","",8413NB,Oudehorne
+Schoterlandseweg,46,"","",8413NB,Oudehorne
+Schoterlandseweg,48,"","",8413NB,Oudehorne
+Schoterlandseweg,48,B,"",8413NB,Oudehorne
+Schoterlandseweg,50,"","",8413NB,Oudehorne
+Schoterlandseweg,50,A,"",8413NB,Oudehorne
+Schoterlandseweg,52,"","",8413NB,Oudehorne
+Schoterlandseweg,54,"","",8413NB,Oudehorne
+Schoterlandseweg,54,"","",8413NB,Oudehorne
+Schoterlandseweg,54,"","",8413NB,Oudehorne
+Schoterlandseweg,54,A,"",8413NB,Oudehorne
+Jan K Bosmalaan,1,"","",8413NC,Oudehorne
+Jan K Bosmalaan,1,A,"",8413NC,Oudehorne
+Jan K Bosmalaan,1,B,"",8413NC,Oudehorne
+Jan K Bosmalaan,2,"","",8413NC,Oudehorne
+Jan K Bosmalaan,4,"","",8413NC,Oudehorne
+Schoterlandseweg,56,"","",8413NC,Oudehorne
+Schoterlandseweg,58,"","",8413NC,Oudehorne
+Schoterlandseweg,60,"","",8413NC,Oudehorne
+Schoterlandseweg,60,A,"",8413NC,Oudehorne
+Schoterlandseweg,62,"","",8413NC,Oudehorne
+Schoterlandseweg,64,"","",8413NC,Oudehorne
+Schoterlandseweg,66,"","",8413NC,Oudehorne
+Slotlaan,1,"","",8413ND,Oudehorne
+Schoterlandseweg,68,"","",8413ND,Oudehorne
+Schoterlandseweg,70,"","",8413ND,Oudehorne
+Schoterlandseweg,72,"","",8413ND,Oudehorne
+Schoterlandseweg,74,"","",8413ND,Oudehorne
+Schoterlandseweg,76,"","",8413ND,Oudehorne
+Schoterlandseweg,78,"","",8413ND,Oudehorne
+Schoterlandseweg,78,A,"",8413ND,Oudehorne
+Schoterlandseweg,80,"","",8413ND,Oudehorne
+Schoterlandseweg,82,"","",8413ND,Oudehorne
+Schoterlandseweg,84,"","",8413ND,Oudehorne
+Schoterlandseweg,84,A,"",8413ND,Oudehorne
+Schoterlandseweg,84,A,"",8413ND,Oudehorne
+Schoterlandseweg,84,A,"",8413ND,Oudehorne
+Schoterlandseweg,86,"","",8413ND,Oudehorne
+Schoterlandseweg,88,"","",8413ND,Oudehorne
+Schoterlandseweg,90,"","",8413ND,Oudehorne
+Schoterlandseweg,100,"","",8413NE,Oudehorne
+Schoterlandseweg,102,"","",8413NE,Oudehorne
+Schoterlandseweg,102,"","",8413NE,Oudehorne
+Schoterlandseweg,104,"","",8413NE,Oudehorne
+Schoterlandseweg,104,A,"",8413NE,Oudehorne
+Schoterlandseweg,106,"","",8413NE,Oudehorne
+Schoterlandseweg,108,"","",8413NE,Oudehorne
+Schoterlandseweg,110,"","",8413NE,Oudehorne
+Schoterlandseweg,110,A,"",8413NE,Oudehorne
+Schoterlandseweg,112,"","",8413NE,Oudehorne
+Schoterlandseweg,112,A,"",8413NE,Oudehorne
+Schoterlandseweg,92,"","",8413NE,Oudehorne
+Schoterlandseweg,94,"","",8413NE,Oudehorne
+Schoterlandseweg,94,A,"",8413NE,Oudehorne
+Schoterlandseweg,96,"","",8413NE,Oudehorne
+Schoterlandseweg,96,A,"",8413NE,Oudehorne
+Schoterlandseweg,98,"","",8413NE,Oudehorne
+Oldeberkoperweg,1,"","",8413NG,Oudehorne
+Oldeberkoperweg,10,"","",8413NG,Oudehorne
+Oldeberkoperweg,12,"","",8413NG,Oudehorne
+Oldeberkoperweg,13,"","",8413NG,Oudehorne
+Oldeberkoperweg,14,"","",8413NG,Oudehorne
+Oldeberkoperweg,15,"","",8413NG,Oudehorne
+Oldeberkoperweg,15,A,"",8413NG,Oudehorne
+Oldeberkoperweg,16,"","",8413NG,Oudehorne
+Oldeberkoperweg,17,"","",8413NG,Oudehorne
+Oldeberkoperweg,18,"","",8413NG,Oudehorne
+Oldeberkoperweg,19,"","",8413NG,Oudehorne
+Oldeberkoperweg,2,"","",8413NG,Oudehorne
+Oldeberkoperweg,20,"","",8413NG,Oudehorne
+Oldeberkoperweg,21,"","",8413NG,Oudehorne
+Oldeberkoperweg,22,"","",8413NG,Oudehorne
+Oldeberkoperweg,24,"","",8413NG,Oudehorne
+Oldeberkoperweg,26,"","",8413NG,Oudehorne
+Oldeberkoperweg,28,"","",8413NG,Oudehorne
+Oldeberkoperweg,3,"","",8413NG,Oudehorne
+Oldeberkoperweg,30,"","",8413NG,Oudehorne
+Oldeberkoperweg,32,"","",8413NG,Oudehorne
+Oldeberkoperweg,34,"","",8413NG,Oudehorne
+Oldeberkoperweg,4,"","",8413NG,Oudehorne
+Oldeberkoperweg,5,"","",8413NG,Oudehorne
+Oldeberkoperweg,6,"","",8413NG,Oudehorne
+Oldeberkoperweg,7,"","",8413NG,Oudehorne
+Oldeberkoperweg,8,"","",8413NG,Oudehorne
+Oldeberkoperweg,9,"","",8413NG,Oudehorne
+Schoterlandseweg,127,"","",8413NH,Oudehorne
+Schoterlandseweg,129,"","",8413NH,Oudehorne
+Schoterlandseweg,131,"","",8413NH,Oudehorne
+Schoterlandseweg,133,"","",8413NH,Oudehorne
+Schoterlandseweg,133,A,"",8413NH,Oudehorne
+Schoterlandseweg,135,"","",8413NH,Oudehorne
+Schoterlandseweg,135,A,"",8413NH,Oudehorne
+Schoterlandseweg,137,"","",8413NH,Oudehorne
+Schoterlandseweg,141,"","",8413NH,Oudehorne
+Schoterlandseweg,143,"","",8413NH,Oudehorne
+Schoterlandseweg,145,"","",8413NH,Oudehorne
+Schoterlandseweg,147,"","",8413NH,Oudehorne
+Schoterlandseweg,147,A,"",8413NH,Oudehorne
+Schoterlandseweg,147,B,"",8413NH,Oudehorne
+Schoterlandseweg,149,"","",8413NH,Oudehorne
+Schoterlandseweg,151,"","",8413NH,Oudehorne
+Schoterlandseweg,153,"","",8413NH,Oudehorne
+Schoterlandseweg,155,"","",8413NH,Oudehorne
+Schoterlandseweg,155,A,"",8413NH,Oudehorne
+Schoterlandseweg,155,A,"",8413NH,Oudehorne
+Schoterlandseweg,155,B,"",8413NH,Hoornsterzwaag
+Schoterlandseweg,155,B,"",8413NH,Hoornsterzwaag
+Schoterlandseweg,101,"","",8413NJ,Oudehorne
+Schoterlandseweg,103,"","",8413NJ,Oudehorne
+Schoterlandseweg,107,"","",8413NJ,Oudehorne
+Schoterlandseweg,109,"","",8413NJ,Oudehorne
+Schoterlandseweg,109,"","",8413NJ,Oudehorne
+Schoterlandseweg,109,"","",8413NJ,Oudehorne
+Schoterlandseweg,109,A,"",8413NJ,Oudehorne
+Schoterlandseweg,109,A,"",8413NJ,Oudehorne
+Schoterlandseweg,113,"","",8413NJ,Oudehorne
+Schoterlandseweg,115,"","",8413NJ,Oudehorne
+Schoterlandseweg,117,"","",8413NJ,Oudehorne
+Schoterlandseweg,119,"","",8413NJ,Oudehorne
+Schoterlandseweg,121,"","",8413NJ,Oudehorne
+Schoterlandseweg,121,"","",8413NJ,Oudehorne
+Schoterlandseweg,121,"","",8413NJ,Oudehorne
+Schoterlandseweg,121,"","",8413NJ,Oudehorne
+Schoterlandseweg,123,"","",8413NJ,Oudehorne
+Schoterlandseweg,125,"","",8413NJ,Oudehorne
+Schoterlandseweg,87,"","",8413NJ,Oudehorne
+Schoterlandseweg,91,"","",8413NJ,Oudehorne
+Schoterlandseweg,95,"","",8413NJ,Oudehorne
+Schoterlandseweg,97,"","",8413NJ,Oudehorne
+Schoterlandseweg,99,"","",8413NJ,Oudehorne
+Schoterlandseweg,61,"","",8413NK,Oudehorne
+Schoterlandseweg,63,"","",8413NK,Oudehorne
+Schoterlandseweg,65,"","",8413NK,Oudehorne
+Schoterlandseweg,67,"","",8413NK,Oudehorne
+Schoterlandseweg,69,"","",8413NK,Oudehorne
+Schoterlandseweg,71,"","",8413NK,Oudehorne
+Schoterlandseweg,73,"","",8413NK,Oudehorne
+Schoterlandseweg,75,"","",8413NK,Oudehorne
+Schoterlandseweg,77,"","",8413NK,Oudehorne
+Schoterlandseweg,79,"","",8413NK,Oudehorne
+Schoterlandseweg,81,"","",8413NK,Oudehorne
+Schoterlandseweg,81,A,"",8413NK,Hoornsterzwaag
+Schoterlandseweg,81,A,"",8413NK,Hoornsterzwaag
+Schoterlandseweg,83,"","",8413NK,Oudehorne
+Schoterlandseweg,83,A,"",8413NK,Oudehorne
+Schoterlandseweg,85,"","",8413NK,Oudehorne
+Schoterlandseweg,85,"","",8413NK,Oudehorne
+Schoterlandseweg,85,"","",8413NK,Oudehorne
+Schoterlandseweg,85,A,"",8413NK,Oudehorne
+Schoterlandseweg,85,A,"",8413NK,Oudehorne
+Eilewijksreed,10,"","",8413NL,Oudehorne
+Eilewijksreed,12,"","",8413NL,Oudehorne
+Schoterlandseweg,33,"","",8413NL,Oudehorne
+Schoterlandseweg,35,"","",8413NL,Oudehorne
+Schoterlandseweg,37,"","",8413NL,Oudehorne
+Schoterlandseweg,39,"","",8413NL,Oudehorne
+Schoterlandseweg,41,"","",8413NL,Oudehorne
+Schoterlandseweg,43,"","",8413NL,Oudehorne
+Schoterlandseweg,45,"","",8413NL,Oudehorne
+Schoterlandseweg,47,"","",8413NL,Oudehorne
+Schoterlandseweg,49,"","",8413NL,Oudehorne
+Schoterlandseweg,51,"","",8413NL,Oudehorne
+Schoterlandseweg,53,"","",8413NL,Oudehorne
+Schoterlandseweg,57,"","",8413NL,Oudehorne
+Schoterlandseweg,59,"","",8413NL,Oudehorne
+Schoterlandseweg,11,"","",8413NM,Oudehorne
+Schoterlandseweg,13,"","",8413NM,Oudehorne
+Schoterlandseweg,15,"","",8413NM,Oudehorne
+Schoterlandseweg,15,"","",8413NM,Oudehorne
+Schoterlandseweg,15,"","",8413NM,Oudehorne
+Schoterlandseweg,15,A,"",8413NM,Oudehorne
+Schoterlandseweg,15,B,"",8413NM,Oudehorne
+Schoterlandseweg,17,"","",8413NM,Oudehorne
+Schoterlandseweg,17,A,"",8413NM,Oudehorne
+Schoterlandseweg,17,B,"",8413NM,Oudehorne
+Schoterlandseweg,19,"","",8413NM,Oudehorne
+Schoterlandseweg,19,A,"",8413NM,Oudehorne
+8e Wijk,2,"","",8413NM,Oudehorne
+8e Wijk,2,A,"",8413NM,Oudehorne
+Schoterlandseweg,21,"","",8413NM,Oudehorne
+Schoterlandseweg,23,"","",8413NM,Oudehorne
+Schoterlandseweg,23,"","",8413NM,Oudehorne
+Schoterlandseweg,23,"","",8413NM,Oudehorne
+Schoterlandseweg,25,"","",8413NM,Oudehorne
+Schoterlandseweg,27,"","",8413NM,Oudehorne
+Schoterlandseweg,29,"","",8413NM,Oudehorne
+Schoterlandseweg,31,"","",8413NM,Oudehorne
+8e Wijk,4,"","",8413NM,Oudehorne
+8e Wijk,6,"","",8413NM,Oudehorne
+Schoterlandseweg,7,"","",8413NM,Oudehorne
+8e Wijk,8,"","",8413NM,Nieuwehorne
+8e Wijk,8,"","",8413NM,Nieuwehorne
+8e Wijk,8,"","",8413NM,Nieuwehorne
+Schoterlandseweg,9,"","",8413NM,Oudehorne
+Tweede Sluisweg,1,"","",8413NN,Oudehorne
+Tweede Sluisweg,11,"","",8413NN,Oudehorne
+Tweede Sluisweg,13,"","",8413NN,Oudehorne
+Tweede Sluisweg,15,"","",8413NN,Oudehorne
+Tweede Sluisweg,17,"","",8413NN,Oudehorne
+Tweede Sluisweg,19,"","",8413NN,Oudehorne
+Eilewijksreed,2,"","",8413NN,Oudehorne
+Eilewijksreed,2,"","",8413NN,Oudehorne
+Eilewijksreed,2,"","",8413NN,Oudehorne
+Eilewijksreed,2,"","",8413NN,Oudehorne
+Eilewijksreed,2,"","",8413NN,Oudehorne
+Tweede Sluisweg,21,"","",8413NN,Oudehorne
+Tweede Sluisweg,3,"","",8413NN,Oudehorne
+Tweede Sluisweg,30,"","",8413NN,Oudehorne
+Tweede Sluisweg,30,"","",8413NN,Oudehorne
+Tweede Sluisweg,30,"","",8413NN,Oudehorne
+Tweede Sluisweg,30,"","",8413NN,Oudehorne
+Tweede Sluisweg,30,"","",8413NN,Oudehorne
+Tweede Sluisweg,31,"","",8413NN,Oudehorne
+Tweede Sluisweg,33,"","",8413NN,Oudehorne
+Tweede Sluisweg,33,A,"",8413NN,Oudehorne
+Tweede Sluisweg,35,"","",8413NN,Oudehorne
+Tweede Sluisweg,37,"","",8413NN,Oudehorne
+Eilewijksreed,4,"","",8413NN,Oudehorne
+Eilewijksreed,4,"","",8413NN,Oudehorne
+Eilewijksreed,4,"","",8413NN,Oudehorne
+Tweede Sluisweg,5,"","",8413NN,Oudehorne
+Eilewijksreed,6,"","",8413NN,Oudehorne
+Tweede Sluisweg,7,"","",8413NN,Oudehorne
+Tweede Sluisweg,7,A,"",8413NN,Oudehorne
+Tweede Sluisweg,7,A,"",8413NN,Oudehorne
+Eilewijksreed,8,"","",8413NN,Oudehorne
+Tweede Sluisweg,9,"","",8413NN,Oudehorne
+Jonkerslandreed,1,"","",8413NP,Oudehorne
+Jonkerslandreed,2,"","",8413NP,Oudehorne
+Jonkerslandreed,3,"","",8413NP,Oudehorne
+Jonkerslandreed,5,"","",8413NP,Oudehorne
+Zuster de Jongweg,11,"","",8413NR,Oudehorne
+Zuster de Jongweg,13,"","",8413NR,Oudehorne
+Zuster de Jongweg,13,"","",8413NR,Oudehorne
+Zuster de Jongweg,3,"","",8413NR,Oudehorne
+Zuster de Jongweg,5,"","",8413NR,Oudehorne
+Zuster de Jongweg,7,"","",8413NR,Oudehorne
+Zuster de Jongweg,9,"","",8413NR,Oudehorne
+Zuster de Jongweg,9,"","",8413NR,Oudehorne
+Zuster de Jongweg,9,"","",8413NR,Oudehorne
+Eerste Stichtingspad,1,"","",8413NS,Oudehorne
+Eerste Stichtingspad,2,"","",8413NS,Oudehorne
+Eerste Stichtingspad,3,"","",8413NS,Oudehorne
+Eerste Stichtingspad,4,"","",8413NS,Oudehorne
+Eerste Stichtingspad,5,"","",8413NS,Oudehorne
+Eerste Stichtingspad,6,"","",8413NS,Oudehorne
+Eerste Stichtingspad,7,"","",8413NS,Oudehorne
+Eerste Stichtingspad,8,"","",8413NS,Oudehorne
+Oude Singel,1,"","",8413NT,Oudehorne
+Oude Singel,1,"","",8413NT,Oudehorne
+Oude Singel,1,"","",8413NT,Oudehorne
+Oude Singel,2,"","",8413NT,Oudehorne
+Oude Singel,3,"","",8413NT,Oudehorne
+Tweede Stichtingspad,1,"","",8413NV,Oudehorne
+Tweede Stichtingspad,2,"","",8413NV,Oudehorne
+Tweede Stichtingspad,3,"","",8413NV,Oudehorne
+Buitenweg,1,"","",8413NW,Oudehorne
+Buitenweg,11,"","",8413NW,Oudehorne
+Buitenweg,13,"","",8413NW,Oudehorne
+Buitenweg,15,"","",8413NW,Oudehorne
+Buitenweg,2,"","",8413NW,Oudehorne
+Buitenweg,2,"","",8413NW,Oudehorne
+Buitenweg,2,"","",8413NW,Oudehorne
+Buitenweg,3,"","",8413NW,Oudehorne
+Buitenweg,4,"","",8413NW,Oudehorne
+Buitenweg,5,"","",8413NW,Oudehorne
+Buitenweg,6,"","",8413NW,Oudehorne
+Buitenweg,7,"","",8413NW,Oudehorne
+Buitenweg,9,"","",8413NW,Oudehorne
+Buitenweg,10,"","",8413NX,Oudehorne
+Buitenweg,12,"","",8413NX,Oudehorne
+Buitenweg,14,"","",8413NX,Oudehorne
+Buitenweg,16,"","",8413NX,Oudehorne
+Buitenweg,17,"","",8413NX,Oudehorne
+Buitenweg,17,"","",8413NX,Oudehorne
+Buitenweg,17,"","",8413NX,Oudehorne
+Buitenweg,18,"","",8413NX,Oudehorne
+Buitenweg,19,"","",8413NX,Oudehorne
+Buitenweg,21,"","",8413NX,Oudehorne
+Buitenweg,23,"","",8413NX,Oudehorne
+Buitenweg,23,A,"",8413NX,Oudehorne
+Buitenweg,25,"","",8413NX,Oudehorne
+Buitenweg,25,"","",8413NX,Oudehorne
+Buitenweg,8,"","",8413NX,Oudehorne
+Oldeberkoperweg,36,"","",8413NZ,Oudehorne
+Oldeberkoperweg,38,"","",8413NZ,Oudehorne
+Oldeberkoperweg,40,"","",8413NZ,Oudehorne
+Oldeberkoperweg,42,"","",8413NZ,Oudehorne
+Oldeberkoperweg,44,"","",8413NZ,Oudehorne
+Oldeberkoperweg,46,"","",8413NZ,Oudehorne
+Oldeberkoperweg,48,"","",8413NZ,Oudehorne
+Oldeberkoperweg,50,"","",8413NZ,Oudehorne
+Oldeberkoperweg,52,"","",8413NZ,Oudehorne
+Oldeberkoperweg,54,"","",8413NZ,Oudehorne
+Oldeberkoperweg,54,A,"",8413NZ,Oudehorne
+Oldeberkoperweg,56,"","",8413NZ,Oudehorne
+Oldeberkoperweg,56,A,"",8413NZ,Oudehorne
+Oldeberkoperweg,58,"","",8413NZ,Oudehorne
+Oldeberkoperweg,60,"","",8413NZ,Oudehorne
+Oldeberkoperweg,62,"","",8413NZ,Oudehorne
+Oldeberkoperweg,64,"","",8413NZ,Oudehorne
+Oldeberkoperweg,66,"","",8413NZ,Oudehorne
+Oldeberkoperweg,70,"","",8413NZ,Oudehorne
+Oldeberkoperweg,70,"","",8413NZ,Oudehorne
+Oldeberkoperweg,70,A,"",8413NZ,Oudehorne
+Oldeberkoperweg,70,A,"",8413NZ,Oudehorne
+Oldeberkoperweg,70,B,"",8413NZ,Oudehorne
+Oldeberkoperweg,70,B,"",8413NZ,Oudehorne
+Oldeberkoperweg,70,C,"",8413NZ,Oudehorne
+Oldeberkoperweg,70,C,"",8413NZ,Oudehorne
+Tweede Compagnonsweg,25,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,27,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,29,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,31,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,31,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,35,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,39,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,41,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,43,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,45,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,47,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,49,"","",8413RT,Oudehorne
+Tweede Compagnonsweg,51,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,55,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,57,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,59,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,65,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,67,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,69,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,71,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,73,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,75,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,77,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,79,"","",8413RV,Oudehorne
+Tweede Compagnonsweg,12,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,14,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,16,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,18,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,20,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,22,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,24,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,30,"","",8413RW,Oudehorne
+Tweede Compagnonsweg,32,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,32,A,"",8413RX,Oudehorne
+Tweede Compagnonsweg,34,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,34,A,"",8413RX,Oudehorne
+Tweede Compagnonsweg,36,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,36,A,"",8413RX,Oudehorne
+Tweede Compagnonsweg,38,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,38,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,40,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,42,"","",8413RX,Oudehorne
+Tweede Compagnonsweg,42,A,"",8413RX,Oudehorne
+Tweede Compagnonsweg,44,"","",8413RX,Oudehorne

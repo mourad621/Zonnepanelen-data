@@ -1,91 +1,91 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5397LA,Hertog Janstraat,42,,
-5397LA,Hertog Janstraat,52,,
-5397LA,Hertog Janstraat,36,A,
-5397LA,Hertog Janstraat,36,B,
-5397LA,Hertog Janstraat,38,,
-5397LA,Hertog Janstraat,40,,
-5397LA,Hertog Janstraat,45,,
-5397LA,Hertog Janstraat,54,,
-5397LA,Hertog Janstraat,59,,
-5397LA,Hertog Janstraat,36,B,BEDR
-5397LA,Hertog Janstraat,46,,
-5397LA,Hertog Janstraat,36,,
-5397LG,Lithergraaf,2,,
-5397LG,Lithergraaf,10,,
-5397LG,Lithergraaf,12,,
-5397LG,Lithergraaf,1,,
-5397LG,Lithergraaf,9,,
-5397LG,Lithergraaf,14,,
-5397LG,Lithergraaf,14,,
-5397LG,Lithergraaf,4,,
-5397LL,Meester van Coothstraat,42,A,
-5397LL,Meester van Coothstraat,46,,
-5397LL,Meester van Coothstraat,49,A,
-5397LL,Meester van Coothstraat,52,,
-5397LL,Meester van Coothstraat,53,,
-5397LL,Meester van Coothstraat,57,,
-5397LL,Meester van Coothstraat,40,,
-5397LL,Meester van Coothstraat,45,,
-5397LL,Meester van Coothstraat,47,A,
-5397LL,Meester van Coothstraat,50,,
-5397LL,Meester van Coothstraat,51,B,
-5397LL,Meester van Coothstraat,53,A,
-5397LL,Meester van Coothstraat,57,B,
-5397LL,Meester van Coothstraat,61,,
-5397LL,Meester van Coothstraat,59,,
-5397LL,Meester van Coothstraat,36,,
-5397LL,Meester van Coothstraat,49,,
-5397LL,Meester van Coothstraat,59,,BEDR
-5397AZ,Kesselsegraaf,12,,
-5397AZ,Kesselsegraaf,12,,
-5397AZ,Kesselsegraaf,12,,
-5397AZ,Kesselsegraaf,4,,
-5397AZ,Kesselsegraaf,4,,
-5397AZ,Kesselsegraaf,4,,
-5397AZ,Kesselsegraaf,4,,
-5397LM,Platerstraat,4,,
-5397LM,Platerstraat,8,,
-5397LM,Platerstraat,3,,
-5397LM,Platerstraat,3,,
-5397LH,Tiendweg,23,,
-5397LN,Gewandeweg,4,,
-5397LN,Gewandeweg,4,,GED
-5397LN,Gewandeweg,4,,GED
-5397LP,Jan van Ingenstraat,7,,
-5397LD,Spapenhoefstraat,1,,
-5397LD,Spapenhoefstraat,1,,BEDR
-5397LA,Hertog Janstraat,36,,BY
-5397LM,Platerstraat,5,,
-5397LM,Platerstraat,5,,
-5397LA,Hertog Janstraat,34,,
-5397LA,Hertog Janstraat,53,,
-5397LA,Hertog Janstraat,57,,
-5397LG,Lithergraaf,11,,
-5397LG,Lithergraaf,8,,
-5397LL,Meester van Coothstraat,51,A,
-5397LL,Meester van Coothstraat,34,,
-5397LL,Meester van Coothstraat,47,,
-5397LL,Meester van Coothstraat,51,,
-5397LL,Meester van Coothstraat,55,,
-5397LM,Platerstraat,1,,
-5397LM,Platerstraat,1,,
-5397LM,Platerstraat,2,,
-5397LN,Gewandeweg,2,,
-5397LP,Jan van Ingenstraat,1,,
-5397LG,Lithergraaf,10,A,
-5397LL,Meester van Coothstraat,57,A,
-5397LB,Uitslagerstraat,2,,
-5397LA,Hertog Janstraat,47,,
-5397LA,Hertog Janstraat,59,,
-5397LG,Lithergraaf,3,,
-5397LL,Meester van Coothstraat,43,,
-5397LL,Meester van Coothstraat,53,,
-5397LL,Meester van Coothstraat,53,A,
-5397LL,Meester van Coothstraat,47,B,
-5397LL,Meester van Coothstraat,47,C,
-5397LL,Meester van Coothstraat,55,A,
-5397LL,Meester van Coothstraat,46,,MZ
-5397LM,Platerstraat,5,A,
-5397LP,Jan van Ingenstraat,1,,
-5397LH,Hoogveldsestraat,9,,ZHS
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kesselsegraaf,12,"","",5397AZ,Maren-Kessel
+Kesselsegraaf,12,"","",5397AZ,Maren-Kessel
+Kesselsegraaf,12,"","",5397AZ,Maren-Kessel
+Kesselsegraaf,4,"","",5397AZ,Maren-Kessel
+Kesselsegraaf,4,"","",5397AZ,Maren-Kessel
+Kesselsegraaf,4,"","",5397AZ,Maren-Kessel
+Kesselsegraaf,4,"","",5397AZ,Maren-Kessel
+Hertog Janstraat,34,"","",5397LA,Lith
+Hertog Janstraat,36,"","",5397LA,Lith
+Hertog Janstraat,36,"",BY,5397LA,Lith
+Hertog Janstraat,36,A,"",5397LA,Lith
+Hertog Janstraat,36,B,"",5397LA,Lith
+Hertog Janstraat,36,B,BEDR,5397LA,Lith
+Hertog Janstraat,38,"","",5397LA,Lith
+Hertog Janstraat,40,"","",5397LA,Lith
+Hertog Janstraat,42,"","",5397LA,Lith
+Hertog Janstraat,45,"","",5397LA,Lith
+Hertog Janstraat,46,"","",5397LA,Lith
+Hertog Janstraat,47,"","",5397LA,Lith
+Hertog Janstraat,52,"","",5397LA,Lith
+Hertog Janstraat,53,"","",5397LA,Lith
+Hertog Janstraat,54,"","",5397LA,Lith
+Hertog Janstraat,57,"","",5397LA,Lith
+Hertog Janstraat,59,"","",5397LA,Lith
+Hertog Janstraat,59,"","",5397LA,Lith
+Uitslagerstraat,2,"","",5397LB,Lith
+Spapenhoefstraat,1,"","",5397LD,Lith
+Spapenhoefstraat,1,"",BEDR,5397LD,Lith
+Lithergraaf,1,"","",5397LG,Lith
+Lithergraaf,10,"","",5397LG,Lith
+Lithergraaf,10,A,"",5397LG,Lith
+Lithergraaf,11,"","",5397LG,Lith
+Lithergraaf,12,"","",5397LG,Lith
+Lithergraaf,14,"","",5397LG,Lith
+Lithergraaf,14,"","",5397LG,Lith
+Lithergraaf,2,"","",5397LG,Lith
+Lithergraaf,3,"","",5397LG,Lith
+Lithergraaf,4,"","",5397LG,Lith
+Lithergraaf,8,"","",5397LG,Lith
+Lithergraaf,9,"","",5397LG,Lith
+Tiendweg,23,"","",5397LH,Lith
+Hoogveldsestraat,9,"",ZHS,5397LH,Oijen
+Meester van Coothstraat,34,"","",5397LL,Lith
+Meester van Coothstraat,36,"","",5397LL,Lith
+Meester van Coothstraat,40,"","",5397LL,Lith
+Meester van Coothstraat,42,A,"",5397LL,Lith
+Meester van Coothstraat,43,"","",5397LL,Lith
+Meester van Coothstraat,45,"","",5397LL,Lith
+Meester van Coothstraat,46,"","",5397LL,Lith
+Meester van Coothstraat,46,"",MZ,5397LL,Lith
+Meester van Coothstraat,47,"","",5397LL,Lith
+Meester van Coothstraat,47,A,"",5397LL,Lith
+Meester van Coothstraat,47,B,"",5397LL,Lith
+Meester van Coothstraat,47,C,"",5397LL,Lith
+Meester van Coothstraat,49,"","",5397LL,Lith
+Meester van Coothstraat,49,A,"",5397LL,Lith
+Meester van Coothstraat,50,"","",5397LL,Lith
+Meester van Coothstraat,51,"","",5397LL,Lith
+Meester van Coothstraat,51,A,"",5397LL,Lith
+Meester van Coothstraat,51,B,"",5397LL,Lith
+Meester van Coothstraat,52,"","",5397LL,Lith
+Meester van Coothstraat,53,"","",5397LL,Lith
+Meester van Coothstraat,53,"","",5397LL,Lith
+Meester van Coothstraat,53,A,"",5397LL,Lith
+Meester van Coothstraat,53,A,"",5397LL,Lith
+Meester van Coothstraat,55,"","",5397LL,Lith
+Meester van Coothstraat,55,A,"",5397LL,Lith
+Meester van Coothstraat,57,"","",5397LL,Lith
+Meester van Coothstraat,57,A,"",5397LL,Lith
+Meester van Coothstraat,57,B,"",5397LL,Lith
+Meester van Coothstraat,59,"","",5397LL,Lith
+Meester van Coothstraat,59,"",BEDR,5397LL,Lith
+Meester van Coothstraat,61,"","",5397LL,Lith
+Platerstraat,1,"","",5397LM,Lith
+Platerstraat,1,"","",5397LM,Lith
+Platerstraat,2,"","",5397LM,Lith
+Platerstraat,3,"","",5397LM,Lith
+Platerstraat,3,"","",5397LM,Lith
+Platerstraat,4,"","",5397LM,Lith
+Platerstraat,5,"","",5397LM,Lith
+Platerstraat,5,"","",5397LM,Lith
+Platerstraat,5,A,"",5397LM,Lith
+Platerstraat,8,"","",5397LM,Lith
+Gewandeweg,2,"","",5397LN,Lith
+Gewandeweg,4,"","",5397LN,Lith
+Gewandeweg,4,"",GED,5397LN,Lith
+Gewandeweg,4,"",GED,5397LN,Lith
+Jan van Ingenstraat,1,"","",5397LP,Lith
+Jan van Ingenstraat,1,"","",5397LP,Lith
+Jan van Ingenstraat,7,"","",5397LP,Lith

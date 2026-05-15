@@ -1,94 +1,95 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7966AA",28,"",""
-"7966AA",22,"",""
-"7966AA",30,"",""
-"7966AA",34,"",""
-"7966AA",26,"",""
-"7966AA",20,"",""
-"7966AB",17,"",""
-"7966AB",15,"",""
-"7966AB",27,"A",""
-"7966AB",15,"C",""
-"7966AB",33,"",""
-"7966AB",31,"",""
-"7966AB",15,"B",""
-"7966AB",29,"",""
-"7966AB",5,"",""
-"7966AB",13,"A",""
-"7966AB",9,"",""
-"7966AB",11,"",""
-"7966AB",7,"",""
-"7966AB",3,"",""
-"7966AB",27,"",""
-"7966AB",15,"A",""
-"7966AB",9,"A",""
-"7966AB",19,"",""
-"7966AB",15,"",""
-"7966AB",23,"",""
-"7966AB",15,"",""
-"7966AB",25,"",""
-"7966AB",13,"A",""
-"7966AC",6,"",""
-"7966AC",20,"",""
-"7966AC",12,"",""
-"7966AC",18,"",""
-"7966AC",24,"",""
-"7966AC",26,"",""
-"7966AC",6,"",""
-"7966AC",28,"A",""
-"7966AC",32,"",""
-"7966AC",6,"",""
-"7966AC",10,"",""
-"7966AC",32,"A",""
-"7966AC",8,"",""
-"7966AC",28,"",""
-"7966AC",16,"",""
-"7966AC",36,"",""
-"7966AC",34,"",""
-"7966AC",32,"B",""
-"7966AD",2,"",""
-7966AA,Hessenweg,20,,
-7966AA,Hessenweg,22,,
-7966AA,Hessenweg,26,,
-7966AA,Hessenweg,28,,
-7966AA,Hessenweg,30,,
-7966AA,Hessenweg,34,,
-7966AB,Schiphorsterweg,25,,
-7966AB,Schiphorsterweg,27,,
-7966AB,Schiphorsterweg,29,,
-7966AB,Schiphorsterweg,31,,
-7966AB,Schiphorsterweg,33,,
-7966AB,Schiphorsterweg,9,A,
-7966AB,Schiphorsterweg,3,,
-7966AB,Schiphorsterweg,5,,
-7966AB,Schiphorsterweg,7,,
-7966AB,Schiphorsterweg,9,,
-7966AB,Schiphorsterweg,11,,
-7966AB,Schiphorsterweg,13,A,
-7966AB,Schiphorsterweg,17,,
-7966AB,Schiphorsterweg,19,,
-7966AB,Schiphorsterweg,23,,
-7966AC,Schiphorsterweg,6,,
-7966AC,Schiphorsterweg,8,,
-7966AC,Schiphorsterweg,10,,
-7966AC,Schiphorsterweg,12,,
-7966AC,Schiphorsterweg,18,,
-7966AC,Schiphorsterweg,20,,
-7966AC,Schiphorsterweg,24,,
-7966AC,Schiphorsterweg,26,,
-7966AC,Schiphorsterweg,28,,
-7966AC,Schiphorsterweg,32,,
-7966AC,Schiphorsterweg,32,A,
-7966AC,Schiphorsterweg,32,B,
-7966AC,Schiphorsterweg,34,,
-7966AC,Schiphorsterweg,36,,
-7966AD,Staphorsterweg,2,,
-7966AB,Schiphorsterweg,15,,
-7966AB,Schiphorsterweg,15,,
-7966AC,Schiphorsterweg,16,,
-7966AB,Schiphorsterweg,27,A,
-7966AC,Schiphorsterweg,6,,
-7966AC,Schiphorsterweg,28,A,
-7966AB,Schiphorsterweg,15,A,
-7966AB,Schiphorsterweg,15,B,
-7966AB,Schiphorsterweg,15,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+28,"","","",7966AA,
+22,"","","",7966AA,
+30,"","","",7966AA,
+34,"","","",7966AA,
+26,"","","",7966AA,
+20,"","","",7966AA,
+Hessenweg,20,"","",7966AA,De Schiphorst
+Hessenweg,22,"","",7966AA,De Schiphorst
+Hessenweg,26,"","",7966AA,De Schiphorst
+Hessenweg,28,"","",7966AA,De Schiphorst
+Hessenweg,30,"","",7966AA,De Schiphorst
+Hessenweg,34,"","",7966AA,De Schiphorst
+17,"","","",7966AB,
+15,"","","",7966AB,
+33,"","","",7966AB,
+31,"","","",7966AB,
+29,"","","",7966AB,
+5,"","","",7966AB,
+9,"","","",7966AB,
+11,"","","",7966AB,
+7,"","","",7966AB,
+3,"","","",7966AB,
+27,"","","",7966AB,
+19,"","","",7966AB,
+15,"","","",7966AB,
+23,"","","",7966AB,
+15,"","","",7966AB,
+25,"","","",7966AB,
+Schiphorsterweg,11,"","",7966AB,De Schiphorst
+Schiphorsterweg,13,A,"",7966AB,De Schiphorst
+Schiphorsterweg,15,"","",7966AB,De Schiphorst
+Schiphorsterweg,15,"","",7966AB,De Schiphorst
+Schiphorsterweg,15,A,"",7966AB,De Schiphorst
+Schiphorsterweg,15,B,"",7966AB,De Schiphorst
+Schiphorsterweg,15,C,"",7966AB,De Schiphorst
+Schiphorsterweg,17,"","",7966AB,De Schiphorst
+Schiphorsterweg,19,"","",7966AB,De Schiphorst
+Schiphorsterweg,23,"","",7966AB,De Schiphorst
+Schiphorsterweg,25,"","",7966AB,De Schiphorst
+Schiphorsterweg,27,"","",7966AB,De Schiphorst
+Schiphorsterweg,27,A,"",7966AB,De Schiphorst
+Schiphorsterweg,29,"","",7966AB,De Schiphorst
+Schiphorsterweg,3,"","",7966AB,De Schiphorst
+Schiphorsterweg,31,"","",7966AB,De Schiphorst
+Schiphorsterweg,33,"","",7966AB,De Schiphorst
+Schiphorsterweg,5,"","",7966AB,De Schiphorst
+Schiphorsterweg,7,"","",7966AB,De Schiphorst
+Schiphorsterweg,9,"","",7966AB,De Schiphorst
+Schiphorsterweg,9,A,"",7966AB,De Schiphorst
+27,A,"","",7966AB,
+13,A,"","",7966AB,
+15,A,"","",7966AB,
+9,A,"","",7966AB,
+13,A,"","",7966AB,
+15,B,"","",7966AB,
+15,C,"","",7966AB,
+6,"","","",7966AC,
+20,"","","",7966AC,
+12,"","","",7966AC,
+18,"","","",7966AC,
+24,"","","",7966AC,
+26,"","","",7966AC,
+6,"","","",7966AC,
+32,"","","",7966AC,
+6,"","","",7966AC,
+10,"","","",7966AC,
+8,"","","",7966AC,
+28,"","","",7966AC,
+16,"","","",7966AC,
+36,"","","",7966AC,
+34,"","","",7966AC,
+Schiphorsterweg,10,"","",7966AC,De Schiphorst
+Schiphorsterweg,12,"","",7966AC,De Schiphorst
+Schiphorsterweg,16,"","",7966AC,De Schiphorst
+Schiphorsterweg,18,"","",7966AC,De Schiphorst
+Schiphorsterweg,20,"","",7966AC,De Schiphorst
+Schiphorsterweg,24,"","",7966AC,De Schiphorst
+Schiphorsterweg,26,"","",7966AC,De Schiphorst
+Schiphorsterweg,28,"","",7966AC,De Schiphorst
+Schiphorsterweg,28,A,"",7966AC,De Schiphorst
+Schiphorsterweg,32,"","",7966AC,De Schiphorst
+Schiphorsterweg,32,A,"",7966AC,De Schiphorst
+Schiphorsterweg,32,B,"",7966AC,De Schiphorst
+Schiphorsterweg,34,"","",7966AC,De Schiphorst
+Schiphorsterweg,36,"","",7966AC,De Schiphorst
+Schiphorsterweg,6,"","",7966AC,De Schiphorst
+Schiphorsterweg,6,"","",7966AC,De Schiphorst
+Schiphorsterweg,8,"","",7966AC,De Schiphorst
+28,A,"","",7966AC,
+32,A,"","",7966AC,
+32,B,"","",7966AC,
+2,"","","",7966AD,
+Staphorsterweg,2,"","",7966AD,De Schiphorst
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

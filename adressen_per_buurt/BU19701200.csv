@@ -1,566 +1,282 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9851AA",11,"",""
-"9851AA",7,"",""
-"9851AA",9,"",""
-"9851AA",17,"",""
-"9851AA",13,"",""
-"9851AA",15,"",""
-"9851AA",19,"",""
-"9851AA",1,"",""
-"9851AB",27,"",""
-"9851AB",45,"",""
-"9851AB",43,"",""
-"9851AB",29,"",""
-"9851AB",35,"",""
-"9851AB",37,"",""
-"9851AB",21,"",""
-"9851AB",47,"",""
-"9851AB",25,"",""
-"9851AB",47,"",""
-"9851AB",41,"",""
-"9851AC",4,"",""
-"9851AC",4,"",""
-"9851AC",36,"",""
-"9851AC",6,"",""
-"9851AC",2,"",""
-"9851AC",34,"",""
-"9851AC",20,"",""
-"9851AC",14,"",""
-"9851AC",8,"",""
-"9851AC",30,"",""
-"9851AC",26,"",""
-"9851AC",36,"B",""
-"9851AC",8,"",""
-"9851AC",36,"",""
-"9851AC",12,"",""
-"9851AC",18,"",""
-"9851AC",36,"A",""
-"9851AC",28,"",""
-"9851AC",10,"",""
-"9851AC",4,"A",""
-"9851AC",36,"",""
-"9851AD",58,"",""
-"9851AD",62,"",""
-"9851AD",70,"",""
-"9851AD",78,"",""
-"9851AD",68,"",""
-"9851AD",54,"",""
-"9851AD",64,"",""
-"9851AD",48,"",""
-"9851AD",42,"",""
-"9851AD",76,"",""
-"9851AD",52,"",""
-"9851AD",74,"",""
-"9851AD",54,"",""
-"9851AD",68,"b",""
-"9851AD",64,"",""
-"9851AD",46,"",""
-"9851AD",72,"",""
-"9851AD",54,"",""
-"9851AD",38,"",""
-"9851AD",66,"",""
-"9851AE",4,"",""
-"9851AE",6,"",""
-"9851AE",1,"",""
-"9851AG",3,"",""
-"9851AG",21,"",""
-"9851AG",15,"",""
-"9851AG",19,"",""
-"9851AG",1,"",""
-"9851AG",17,"",""
-"9851AH",9,"",""
-"9851AH",17,"",""
-"9851AH",11,"",""
-"9851AH",1,"",""
-"9851AH",15,"",""
-"9851AH",29,"",""
-"9851AH",19,"",""
-"9851AH",27,"",""
-"9851AH",23,"",""
-"9851AH",13,"",""
-"9851AH",5,"",""
-"9851AH",1,"a",""
-"9851AH",25,"",""
-"9851AH",7,"",""
-"9851AH",21,"",""
-"9851AH",3,"",""
-"9851AJ",6,"",""
-"9851AJ",2,"",""
-"9851AJ",4,"",""
-"9851AK",1,"",""
-"9851AK",2,"",""
-"9851AK",3,"",""
-"9851AK",5,"",""
-"9851AK",4,"",""
-"9851AK",7,"",""
-"9851AL",14,"",""
-"9851AL",12,"",""
-"9851AL",4,"",""
-"9851AL",2,"",""
-"9851AL",9,"",""
-"9851AL",11,"",""
-"9851AL",1,"",""
-"9851AM",16,"",""
-"9851AM",14,"",""
-"9851AM",7,"",""
-"9851AN",13,"",""
-"9851AN",3,"",""
-"9851AN",17,"",""
-"9851AN",9,"",""
-"9851AN",13,"A",""
-"9851AN",11,"",""
-"9851AN",15,"",""
-"9851AN",15,"B",""
-"9851AN",15,"A",""
-"9851AN",11,"A",""
-"9851AN",19,"",""
-"9851AN",5,"",""
-"9851AN",1,"",""
-"9851AP",28,"",""
-"9851AP",14,"",""
-"9851AP",12,"",""
-"9851AP",34,"",""
-"9851AP",20,"",""
-"9851AP",8,"",""
-"9851AP",6,"",""
-"9851AP",36,"",""
-"9851AP",22,"",""
-"9851AP",10,"",""
-"9851AP",26,"",""
-"9851AP",20,"",""
-"9851AP",30,"",""
-"9851AP",18,"",""
-"9851AP",24,"",""
-"9851AP",32,"",""
-"9851AP",16,"",""
-"9851AP",18,"",""
-"9851AP",4,"",""
-"9851AP",18,"",""
-"9851AR",20,"",""
-"9851AR",8,"",""
-"9851AR",6,"",""
-"9851AR",4,"",""
-"9851AR",18,"",""
-"9851AR",12,"",""
-"9851AR",2,"",""
-"9851AR",10,"",""
-"9851AR",16,"",""
-"9851AR",14,"",""
-"9851AS",1,"",""
-"9851AS",20,"",""
-"9851AS",9,"",""
-"9851AS",7,"",""
-"9851AS",23,"",""
-"9851AS",15,"",""
-"9851AS",21,"",""
-"9851AS",18,"",""
-"9851AS",6,"",""
-"9851AS",13,"",""
-"9851AS",22,"",""
-"9851AS",10,"",""
-"9851AS",17,"",""
-"9851AS",4,"",""
-"9851AT",1,"",""
-"9851AT",9,"",""
-"9851AT",11,"",""
-"9851AT",8,"",""
-"9851AT",10,"",""
-"9851AT",6,"",""
-"9851AT",4,"",""
-"9851AT",7,"",""
-"9851AT",12,"",""
-"9851AT",5,"",""
-"9851AT",2,"",""
-"9851AT",3,"",""
-"9851AV",4,"",""
-"9851AV",5,"",""
-"9851AV",1,"",""
-"9851AV",16,"",""
-"9851AV",2,"",""
-"9851AV",13,"",""
-"9851AV",7,"",""
-"9851AV",6,"",""
-"9851AV",15,"",""
-"9851AV",8,"",""
-"9851AW",3,"",""
-"9851AW",3,"a",""
-"9851AW",3,"A",""
-"9851AW",5,"",""
-"9851AW",7,"",""
-"9851AW",7,"",""
-"9851AW",7,"A",""
-"9851AW",7,"a",""
-"9851AW",1,"",""
-"9851AW",9,"",""
-"9851AW",7,"",""
-"9851BA",1,"",""
-"9851BB",5,"",""
-"9851BB",3,"",""
-"9851BB",15,"",""
-"9851BB",9,"",""
-"9851BB",1,"",""
-"9851BB",11,"",""
-"9851BB",7,"",""
-"9851BB",13,"",""
-"9851BC",8,"",""
-"9851BC",2,"",""
-"9851BC",4,"",""
-"9851BC",6,"",""
-"9851BD",2,"",""
-"9851BD",4,"",""
-"9851BD",8,"",""
-"9851BD",6,"",""
-"9851BE",4,"",""
-"9851BE",6,"",""
-"9851BE",2,"",""
-"9851BE",8,"",""
-"9851BG",2,"",""
-"9851BG",11,"",""
-"9851BG",4,"",""
-"9851BG",4,"a",""
-"9851BG",21,"",""
-"9851BG",1,"",""
-"9851BG",17,"",""
-"9851BG",6,"",""
-"9851BG",9,"",""
-"9851BG",3,"",""
-"9851BG",10,"",""
-"9851BG",7,"",""
-"9851BG",5,"",""
-"9851BG",23,"",""
-"9851BG",19,"",""
-"9851BG",15,"",""
-"9851BG",8,"",""
-"9851BG",13,"",""
-"9851TC",11,"",""
-"9851TC",1,"",""
-"9851TC",9,"",""
-"9851TC",3,"",""
-"9851TC",13,"",""
-"9851TC",5,"",""
-"9851TC",4,"",""
-"9851TC",2,"",""
-"9851TD",9,"D","98"
-"9851TD",13,"",""
-"9851TD",9,"D","98"
-"9851TD",9,"",""
-"9851TD",1,"",""
-"9851TD",11,"",""
-"9851TD",2,"",""
-"9851TD",9,"D","3"
-"9851TD",7,"",""
-"9851TD",3,"",""
-"9851TD",6,"",""
-"9851TD",5,"",""
-"9851TE",26,"",""
-"9851TE",26,"a",""
-"9851TE",32,"",""
-"9851TE",25,"",""
-"9851TE",31,"",""
-"9851TE",31,"",""
-"9851TE",28,"",""
-"9851TH",12,"",""
-"9851TH",8,"",""
-"9851TH",21,"",""
-"9851TH",7,"",""
-"9851TH",10,"",""
-"9851TH",9,"",""
-"9851TH",11,"",""
-"9851TH",25,"",""
-"9851TH",4,"",""
-"9851TH",2,"",""
-"9851TH",27,"",""
-"9851TH",33,"",""
-"9851TH",23,"",""
-"9851TH",31,"",""
-"9851TH",15,"",""
-"9851TH",3,"",""
-"9851TH",19,"",""
-"9851TH",13,"",""
-"9851TH",5,"",""
-"9851TH",29,"",""
-"9851TH",17,"",""
-9851AG,Fogelsanghstraat,1,,
-9851AG,Fogelsanghstraat,3,,
-9851AG,Fogelsanghstraat,15,,
-9851AG,Fogelsanghstraat,17,,
-9851AG,Fogelsanghstraat,19,,
-9851AG,Fogelsanghstraat,21,,
-9851AV,Harke Sipkesstraat,1,,
-9851AV,Harke Sipkesstraat,2,,
-9851AV,Harke Sipkesstraat,4,,
-9851AV,Harke Sipkesstraat,5,,
-9851AV,Harke Sipkesstraat,6,,
-9851AV,Harke Sipkesstraat,7,,
-9851AV,Harke Sipkesstraat,8,,
-9851AV,Harke Sipkesstraat,13,,
-9851AV,Harke Sipkesstraat,15,,
-9851AV,Harke Sipkesstraat,16,,
-9851BC,Havenstraat,2,,
-9851BC,Havenstraat,4,,
-9851BC,Havenstraat,6,,
-9851BC,Havenstraat,8,,
-9851AA,Herestraat,1,,
-9851AA,Herestraat,7,,
-9851AA,Herestraat,9,,
-9851AA,Herestraat,11,,
-9851AA,Herestraat,13,,
-9851AA,Herestraat,15,,
-9851AA,Herestraat,19,,
-9851AB,Herestraat,47,,
-9851AB,Herestraat,21,,
-9851AB,Herestraat,27,,
-9851AB,Herestraat,29,,
-9851AB,Herestraat,35,,
-9851AB,Herestraat,37,,
-9851AB,Herestraat,43,,
-9851AB,Herestraat,45,,
-9851AC,Herestraat,2,,
-9851AC,Herestraat,6,,
-9851AC,Herestraat,8,,
-9851AC,Herestraat,12,,
-9851AC,Herestraat,14,,
-9851AC,Herestraat,18,,
-9851AC,Herestraat,20,,
-9851AC,Herestraat,26,,
-9851AC,Herestraat,28,,
-9851AC,Herestraat,30,,
-9851AC,Herestraat,36,,
-9851AD,Herestraat,46,,
-9851AD,Herestraat,52,,
-9851AD,Herestraat,54,,
-9851AD,Herestraat,58,,
-9851AD,Herestraat,62,,
-9851AD,Herestraat,64,,
-9851AD,Herestraat,66,,
-9851AD,Herestraat,68,,
-9851AD,Herestraat,68,b,
-9851AD,Herestraat,70,,
-9851AD,Herestraat,72,,
-9851AD,Herestraat,74,,
-9851AD,Herestraat,76,,
-9851AD,Herestraat,78,,
-9851AD,Herestraat,38,,
-9851AD,Herestraat,42,,
-9851AR,Meihuizenstraat,2,,
-9851AR,Meihuizenstraat,4,,
-9851AR,Meihuizenstraat,8,,
-9851AR,Meihuizenstraat,10,,
-9851AR,Meihuizenstraat,12,,
-9851AR,Meihuizenstraat,14,,
-9851AR,Meihuizenstraat,18,,
-9851AR,Meihuizenstraat,20,,
-9851BG,de Meerpaal,15,,
-9851BG,de Meerpaal,17,,
-9851BG,de Meerpaal,19,,
-9851BG,de Meerpaal,23,,
-9851BG,de Meerpaal,1,,
-9851BG,de Meerpaal,2,,
-9851BG,de Meerpaal,3,,
-9851BG,de Meerpaal,4,,
-9851BG,de Meerpaal,6,,
-9851BG,de Meerpaal,7,,
-9851BG,de Meerpaal,8,,
-9851BG,de Meerpaal,9,,
-9851BG,de Meerpaal,10,,
-9851BG,de Meerpaal,13,,
-9851AM,Hoogstraat,7,,
-9851AM,Hoogstraat,14,,
-9851AM,Hoogstraat,16,,
-9851AS,Keegensterweg,1,,
-9851AS,Keegensterweg,4,,
-9851AS,Keegensterweg,6,,
-9851AS,Keegensterweg,7,,
-9851AS,Keegensterweg,9,,
-9851AS,Keegensterweg,10,,
-9851AS,Keegensterweg,13,,
-9851AS,Keegensterweg,15,,
-9851AS,Keegensterweg,17,,
-9851AS,Keegensterweg,18,,
-9851AS,Keegensterweg,20,,
-9851AS,Keegensterweg,21,,
-9851AS,Keegensterweg,22,,
-9851AS,Keegensterweg,23,,
-9851TE,Keegensterweg,25,,
-9851TE,Keegensterweg,26,,
-9851TE,Keegensterweg,26,a,
-9851TE,Keegensterweg,28,,
-9851TE,Keegensterweg,31,,
-9851TE,Keegensterweg,32,,
-9851TC,Kloosterweg,1,,
-9851TC,Kloosterweg,2,,
-9851TC,Kloosterweg,3,,
-9851TC,Kloosterweg,4,,
-9851TC,Kloosterweg,5,,
-9851TC,Kloosterweg,9,,
-9851TC,Kloosterweg,11,,
-9851TC,Kloosterweg,13,,
-9851AW,Lijkele Boonstraweg,1,,
-9851AW,Lijkele Boonstraweg,3,,
-9851AW,Lijkele Boonstraweg,3,a,
-9851AW,Lijkele Boonstraweg,3,A,
-9851AW,Lijkele Boonstraweg,5,,
-9851AW,Lijkele Boonstraweg,7,,
-9851AW,Lijkele Boonstraweg,9,,
-9851AT,Abele Reitzesstraat,1,,
-9851AT,Abele Reitzesstraat,2,,
-9851AT,Abele Reitzesstraat,3,,
-9851AT,Abele Reitzesstraat,4,,
-9851AT,Abele Reitzesstraat,5,,
-9851AT,Abele Reitzesstraat,6,,
-9851AT,Abele Reitzesstraat,7,,
-9851AT,Abele Reitzesstraat,8,,
-9851AT,Abele Reitzesstraat,9,,
-9851AT,Abele Reitzesstraat,10,,
-9851AT,Abele Reitzesstraat,11,,
-9851AT,Abele Reitzesstraat,12,,
-9851AK,Bionsmastraat,1,,
-9851AK,Bionsmastraat,2,,
-9851AK,Bionsmastraat,4,,
-9851AK,Bionsmastraat,5,,
-9851AK,Bionsmastraat,7,,
-9851AE,Blijensteinstraat,1,,
-9851AE,Blijensteinstraat,4,,
-9851BA,de Wendel,1,,
-9851TH,de Wendel,2,,
-9851TH,de Wendel,3,,
-9851TH,de Wendel,4,,
-9851TH,de Wendel,7,,
-9851TH,de Wendel,8,,
-9851TH,de Wendel,9,,
-9851TH,de Wendel,10,,
-9851TH,de Wendel,11,,
-9851TH,de Wendel,12,,
-9851TH,de Wendel,13,,
-9851TH,de Wendel,15,,
-9851TH,de Wendel,17,,
-9851TH,de Wendel,19,,
-9851TH,de Wendel,21,,
-9851TH,de Wendel,23,,
-9851TH,de Wendel,25,,
-9851TH,de Wendel,27,,
-9851TH,de Wendel,29,,
-9851TH,de Wendel,31,,
-9851TH,de Wendel,33,,
-9851AN,Rosemastraat,1,,
-9851AN,Rosemastraat,3,,
-9851AN,Rosemastraat,5,,
-9851AN,Rosemastraat,9,,
-9851AN,Rosemastraat,11,A,
-9851AN,Rosemastraat,13,,
-9851AN,Rosemastraat,13,A,
-9851AN,Rosemastraat,15,,
-9851AN,Rosemastraat,15,A,
-9851AN,Rosemastraat,15,B,
-9851AN,Rosemastraat,17,,
-9851AN,Rosemastraat,19,,
-9851AP,Rosemastraat,6,,
-9851AP,Rosemastraat,8,,
-9851AP,Rosemastraat,10,,
-9851AP,Rosemastraat,12,,
-9851AP,Rosemastraat,16,,
-9851AP,Rosemastraat,20,,
-9851AP,Rosemastraat,22,,
-9851AP,Rosemastraat,24,,
-9851AP,Rosemastraat,26,,
-9851AP,Rosemastraat,28,,
-9851AP,Rosemastraat,30,,
-9851AP,Rosemastraat,32,,
-9851AP,Rosemastraat,34,,
-9851AP,Rosemastraat,36,,
-9851BB,Schipsloot,1,,
-9851BB,Schipsloot,3,,
-9851BB,Schipsloot,5,,
-9851BB,Schipsloot,7,,
-9851BB,Schipsloot,9,,
-9851BB,Schipsloot,11,,
-9851BB,Schipsloot,13,,
-9851BB,Schipsloot,15,,
-9851BD,Schouwstraat,2,,
-9851BD,Schouwstraat,4,,
-9851BD,Schouwstraat,6,,
-9851BD,Schouwstraat,8,,
-9851BE,Tjalkstraat,2,,
-9851BE,Tjalkstraat,4,,
-9851BE,Tjalkstraat,6,,
-9851BE,Tjalkstraat,8,,
-9851AH,Toutenburgstraat,1,,
-9851AH,Toutenburgstraat,1,a,
-9851AH,Toutenburgstraat,3,,
-9851AH,Toutenburgstraat,5,,
-9851AH,Toutenburgstraat,7,,
-9851AH,Toutenburgstraat,9,,
-9851AH,Toutenburgstraat,11,,
-9851AH,Toutenburgstraat,13,,
-9851AH,Toutenburgstraat,15,,
-9851AH,Toutenburgstraat,17,,
-9851AH,Toutenburgstraat,19,,
-9851AH,Toutenburgstraat,21,,
-9851AH,Toutenburgstraat,23,,
-9851AH,Toutenburgstraat,25,,
-9851AH,Toutenburgstraat,27,,
-9851AH,Toutenburgstraat,29,,
-9851AJ,Toutenburgstraat,2,,
-9851AJ,Toutenburgstraat,4,,
-9851AJ,Toutenburgstraat,6,,
-9851AL,Uithof,1,,
-9851AL,Uithof,2,,
-9851AL,Uithof,4,,
-9851AL,Uithof,9,,
-9851AL,Uithof,11,,
-9851AL,Uithof,12,,
-9851AL,Uithof,14,,
-9851TD,Wytsmaweg,2,,
-9851TD,Wytsmaweg,3,,
-9851TD,Wytsmaweg,5,,
-9851TD,Wytsmaweg,6,,
-9851TD,Wytsmaweg,7,,
-9851TD,Wytsmaweg,11,,
-9851TD,Wytsmaweg,13,,
-9851AA,Herestraat,17,,
-9851AB,Herestraat,25,,
-9851AB,Herestraat,41,,
-9851AC,Herestraat,4,,
-9851AC,Herestraat,4,,
-9851AC,Herestraat,10,,
-9851AC,Herestraat,34,,
-9851AC,Herestraat,4,A,
-9851AC,Herestraat,36,,
-9851AC,Herestraat,36,A,
-9851AC,Herestraat,36,B,
-9851AD,Herestraat,48,,
-9851AD,Herestraat,54,,
-9851AR,Meihuizenstraat,6,,
-9851AR,Meihuizenstraat,16,,
-9851BG,de Meerpaal,5,,
-9851BG,de Meerpaal,11,,
-9851BG,de Meerpaal,21,,
-9851BG,de Meerpaal,4,a,
-9851AW,Lijkele Boonstraweg,7,,
-9851AW,Lijkele Boonstraweg,7,a,
-9851AW,Lijkele Boonstraweg,7,A,
-9851AK,Bionsmastraat,3,,
-9851AE,Blijensteinstraat,6,,
-9851TH,de Wendel,5,,
-9851AN,Rosemastraat,11,,
-9851AP,Rosemastraat,4,,
-9851AP,Rosemastraat,14,,
-9851AP,Rosemastraat,18,,
-9851AP,Rosemastraat,18,,
-9851TD,Wytsmaweg,1,,
-9851TD,Wytsmaweg,9,,
-9851TD,Wytsmaweg,9,D,3
-9851TD,Wytsmaweg,9,D,98
-9851AD,Herestraat,64,,
-9851AD,Herestraat,64,A,
-9851TE,Keegensterweg,31,,
-9851TD,Wytsmaweg,6,A,
-9851BH,De Buning,1,,
-9851BH,De Buning,3,,
-9851BH,De Buning,5,,
-9851BH,De Buning,7,,
-9851BH,De Buning,9,,
-9851BH,De Buning,2,,
-9851BH,De Buning,4,,
-9851BH,De Buning,6,,
-9851BH,De Buning,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Herestraat,1,"","",9851AA,Burum
+Herestraat,11,"","",9851AA,Burum
+Herestraat,13,"","",9851AA,Burum
+Herestraat,15,"","",9851AA,Burum
+Herestraat,17,"","",9851AA,Burum
+Herestraat,19,"","",9851AA,Burum
+Herestraat,7,"","",9851AA,Burum
+Herestraat,9,"","",9851AA,Burum
+Herestraat,21,"","",9851AB,Burum
+Herestraat,25,"","",9851AB,Burum
+Herestraat,27,"","",9851AB,Burum
+Herestraat,29,"","",9851AB,Burum
+Herestraat,35,"","",9851AB,Burum
+Herestraat,37,"","",9851AB,Burum
+Herestraat,41,"","",9851AB,Burum
+Herestraat,43,"","",9851AB,Burum
+Herestraat,45,"","",9851AB,Burum
+Herestraat,47,"","",9851AB,Burum
+Herestraat,47,"","",9851AB,Burum
+Herestraat,10,"","",9851AC,Burum
+Herestraat,12,"","",9851AC,Burum
+Herestraat,14,"","",9851AC,Burum
+Herestraat,18,"","",9851AC,Burum
+Herestraat,2,"","",9851AC,Burum
+Herestraat,20,"","",9851AC,Burum
+Herestraat,26,"","",9851AC,Burum
+Herestraat,28,"","",9851AC,Burum
+Herestraat,30,"","",9851AC,Burum
+Herestraat,34,"","",9851AC,Burum
+Herestraat,36,"","",9851AC,Burum
+Herestraat,36,"","",9851AC,Burum
+Herestraat,36,"","",9851AC,Burum
+Herestraat,36,A,"",9851AC,Burum
+Herestraat,36,B,"",9851AC,Burum
+Herestraat,4,"","",9851AC,Burum
+Herestraat,4,"","",9851AC,Burum
+Herestraat,4,A,"",9851AC,Burum
+Herestraat,6,"","",9851AC,Burum
+Herestraat,8,"","",9851AC,Burum
+Herestraat,8,"","",9851AC,Burum
+Herestraat,38,"","",9851AD,Burum
+Herestraat,42,"","",9851AD,Burum
+Herestraat,46,"","",9851AD,Burum
+Herestraat,48,"","",9851AD,Burum
+Herestraat,52,"","",9851AD,Burum
+Herestraat,54,"","",9851AD,Burum
+Herestraat,54,"","",9851AD,Burum
+Herestraat,54,"","",9851AD,Burum
+Herestraat,58,"","",9851AD,Burum
+Herestraat,62,"","",9851AD,Burum
+Herestraat,64,"","",9851AD,Burum
+Herestraat,64,"","",9851AD,Burum
+Herestraat,66,"","",9851AD,Burum
+Herestraat,68,"","",9851AD,Burum
+Herestraat,68,B,"",9851AD,Burum
+Herestraat,70,"","",9851AD,Burum
+Herestraat,72,"","",9851AD,Burum
+Herestraat,74,"","",9851AD,Burum
+Herestraat,76,"","",9851AD,Burum
+Herestraat,78,"","",9851AD,Burum
+Blijensteinstraat,1,"","",9851AE,Burum
+Blijensteinstraat,4,"","",9851AE,Burum
+Blijensteinstraat,6,"","",9851AE,Burum
+Fogelsanghstraat,1,"","",9851AG,Burum
+Fogelsanghstraat,15,"","",9851AG,Burum
+Fogelsanghstraat,17,"","",9851AG,Burum
+Fogelsanghstraat,19,"","",9851AG,Burum
+Fogelsanghstraat,21,"","",9851AG,Burum
+Fogelsanghstraat,3,"","",9851AG,Burum
+Toutenburgstraat,1,"","",9851AH,Burum
+Toutenburgstraat,1,A,"",9851AH,Burum
+Toutenburgstraat,11,"","",9851AH,Burum
+Toutenburgstraat,13,"","",9851AH,Burum
+Toutenburgstraat,15,"","",9851AH,Burum
+Toutenburgstraat,17,"","",9851AH,Burum
+Toutenburgstraat,19,"","",9851AH,Burum
+Toutenburgstraat,21,"","",9851AH,Burum
+Toutenburgstraat,23,"","",9851AH,Burum
+Toutenburgstraat,25,"","",9851AH,Burum
+Toutenburgstraat,27,"","",9851AH,Burum
+Toutenburgstraat,29,"","",9851AH,Burum
+Toutenburgstraat,3,"","",9851AH,Burum
+Toutenburgstraat,5,"","",9851AH,Burum
+Toutenburgstraat,7,"","",9851AH,Burum
+Toutenburgstraat,9,"","",9851AH,Burum
+Toutenburgstraat,2,"","",9851AJ,Burum
+Toutenburgstraat,4,"","",9851AJ,Burum
+Toutenburgstraat,6,"","",9851AJ,Burum
+Bionsmastraat,1,"","",9851AK,Burum
+Bionsmastraat,2,"","",9851AK,Burum
+Bionsmastraat,3,"","",9851AK,Burum
+Bionsmastraat,4,"","",9851AK,Burum
+Bionsmastraat,5,"","",9851AK,Burum
+Bionsmastraat,7,"","",9851AK,Burum
+Uithof,1,"","",9851AL,Burum
+Uithof,11,"","",9851AL,Burum
+Uithof,12,"","",9851AL,Burum
+Uithof,14,"","",9851AL,Burum
+Uithof,2,"","",9851AL,Burum
+Uithof,4,"","",9851AL,Burum
+Uithof,9,"","",9851AL,Burum
+Hoogstraat,14,"","",9851AM,Burum
+Hoogstraat,16,"","",9851AM,Burum
+Hoogstraat,7,"","",9851AM,Burum
+Rosemastraat,1,"","",9851AN,Burum
+Rosemastraat,11,"","",9851AN,Burum
+Rosemastraat,11,A,"",9851AN,Burum
+Rosemastraat,13,"","",9851AN,Burum
+Rosemastraat,13,A,"",9851AN,Burum
+Rosemastraat,15,"","",9851AN,Burum
+Rosemastraat,15,A,"",9851AN,Burum
+Rosemastraat,15,B,"",9851AN,Burum
+Rosemastraat,17,"","",9851AN,Burum
+Rosemastraat,19,"","",9851AN,Burum
+Rosemastraat,3,"","",9851AN,Burum
+Rosemastraat,5,"","",9851AN,Burum
+Rosemastraat,9,"","",9851AN,Burum
+Rosemastraat,10,"","",9851AP,Burum
+Rosemastraat,12,"","",9851AP,Burum
+Rosemastraat,14,"","",9851AP,Burum
+Rosemastraat,16,"","",9851AP,Burum
+Rosemastraat,18,"","",9851AP,Burum
+Rosemastraat,18,"","",9851AP,Burum
+Rosemastraat,18,"","",9851AP,Burum
+Rosemastraat,20,"","",9851AP,Burum
+Rosemastraat,20,"","",9851AP,Burum
+Rosemastraat,22,"","",9851AP,Burum
+Rosemastraat,24,"","",9851AP,Burum
+Rosemastraat,26,"","",9851AP,Burum
+Rosemastraat,28,"","",9851AP,Burum
+Rosemastraat,30,"","",9851AP,Burum
+Rosemastraat,32,"","",9851AP,Burum
+Rosemastraat,34,"","",9851AP,Burum
+Rosemastraat,36,"","",9851AP,Burum
+Rosemastraat,4,"","",9851AP,Burum
+Rosemastraat,6,"","",9851AP,Burum
+Rosemastraat,8,"","",9851AP,Burum
+Meihuizenstraat,10,"","",9851AR,Burum
+Meihuizenstraat,12,"","",9851AR,Burum
+Meihuizenstraat,14,"","",9851AR,Burum
+Meihuizenstraat,16,"","",9851AR,Burum
+Meihuizenstraat,18,"","",9851AR,Burum
+Meihuizenstraat,2,"","",9851AR,Burum
+Meihuizenstraat,20,"","",9851AR,Burum
+Meihuizenstraat,4,"","",9851AR,Burum
+Meihuizenstraat,6,"","",9851AR,Burum
+Meihuizenstraat,8,"","",9851AR,Burum
+Keegensterweg,1,"","",9851AS,Burum
+Keegensterweg,10,"","",9851AS,Burum
+Keegensterweg,13,"","",9851AS,Burum
+Keegensterweg,15,"","",9851AS,Burum
+Keegensterweg,17,"","",9851AS,Burum
+Keegensterweg,18,"","",9851AS,Burum
+Keegensterweg,20,"","",9851AS,Burum
+Keegensterweg,21,"","",9851AS,Burum
+Keegensterweg,22,"","",9851AS,Burum
+Keegensterweg,23,"","",9851AS,Burum
+Keegensterweg,4,"","",9851AS,Burum
+Keegensterweg,6,"","",9851AS,Burum
+Keegensterweg,7,"","",9851AS,Burum
+Keegensterweg,9,"","",9851AS,Burum
+Abele Reitzesstraat,1,"","",9851AT,Burum
+Abele Reitzesstraat,10,"","",9851AT,Burum
+Abele Reitzesstraat,11,"","",9851AT,Burum
+Abele Reitzesstraat,12,"","",9851AT,Burum
+Abele Reitzesstraat,2,"","",9851AT,Burum
+Abele Reitzesstraat,3,"","",9851AT,Burum
+Abele Reitzesstraat,4,"","",9851AT,Burum
+Abele Reitzesstraat,5,"","",9851AT,Burum
+Abele Reitzesstraat,6,"","",9851AT,Burum
+Abele Reitzesstraat,7,"","",9851AT,Burum
+Abele Reitzesstraat,8,"","",9851AT,Burum
+Abele Reitzesstraat,9,"","",9851AT,Burum
+Harke Sipkesstraat,1,"","",9851AV,Burum
+Harke Sipkesstraat,13,"","",9851AV,Burum
+Harke Sipkesstraat,15,"","",9851AV,Burum
+Harke Sipkesstraat,16,"","",9851AV,Burum
+Harke Sipkesstraat,2,"","",9851AV,Burum
+Harke Sipkesstraat,4,"","",9851AV,Burum
+Harke Sipkesstraat,5,"","",9851AV,Burum
+Harke Sipkesstraat,6,"","",9851AV,Burum
+Harke Sipkesstraat,7,"","",9851AV,Burum
+Harke Sipkesstraat,8,"","",9851AV,Burum
+Lijkele Boonstraweg,1,"","",9851AW,Burum
+Lijkele Boonstraweg,3,"","",9851AW,Burum
+Lijkele Boonstraweg,3,A,"",9851AW,Burum
+Lijkele Boonstraweg,3,A,"",9851AW,Burum
+Lijkele Boonstraweg,5,"","",9851AW,Burum
+Lijkele Boonstraweg,7,"","",9851AW,Burum
+Lijkele Boonstraweg,7,"","",9851AW,Burum
+Lijkele Boonstraweg,7,"","",9851AW,Burum
+Lijkele Boonstraweg,7,A,"",9851AW,Burum
+Lijkele Boonstraweg,7,A,"",9851AW,Burum
+Lijkele Boonstraweg,9,"","",9851AW,Burum
+de Wendel,1,"","",9851BA,Burum
+Schipsloot,1,"","",9851BB,Burum
+Schipsloot,11,"","",9851BB,Burum
+Schipsloot,13,"","",9851BB,Burum
+Schipsloot,15,"","",9851BB,Burum
+Schipsloot,3,"","",9851BB,Burum
+Schipsloot,5,"","",9851BB,Burum
+Schipsloot,7,"","",9851BB,Burum
+Schipsloot,9,"","",9851BB,Burum
+Havenstraat,2,"","",9851BC,Burum
+Havenstraat,4,"","",9851BC,Burum
+Havenstraat,6,"","",9851BC,Burum
+Havenstraat,8,"","",9851BC,Burum
+Schouwstraat,2,"","",9851BD,Burum
+Schouwstraat,4,"","",9851BD,Burum
+Schouwstraat,6,"","",9851BD,Burum
+Schouwstraat,8,"","",9851BD,Burum
+Tjalkstraat,2,"","",9851BE,Burum
+Tjalkstraat,4,"","",9851BE,Burum
+Tjalkstraat,6,"","",9851BE,Burum
+Tjalkstraat,8,"","",9851BE,Burum
+de Meerpaal,1,"","",9851BG,Burum
+de Meerpaal,10,"","",9851BG,Burum
+de Meerpaal,11,"","",9851BG,Burum
+de Meerpaal,13,"","",9851BG,Burum
+de Meerpaal,15,"","",9851BG,Burum
+de Meerpaal,17,"","",9851BG,Burum
+de Meerpaal,19,"","",9851BG,Burum
+de Meerpaal,2,"","",9851BG,Burum
+de Meerpaal,21,"","",9851BG,Burum
+de Meerpaal,23,"","",9851BG,Burum
+de Meerpaal,3,"","",9851BG,Burum
+de Meerpaal,4,"","",9851BG,Burum
+de Meerpaal,4,A,"",9851BG,Burum
+de Meerpaal,5,"","",9851BG,Burum
+de Meerpaal,6,"","",9851BG,Burum
+de Meerpaal,7,"","",9851BG,Burum
+de Meerpaal,8,"","",9851BG,Burum
+de Meerpaal,9,"","",9851BG,Burum
+Kloosterweg,1,"","",9851TC,Burum
+Kloosterweg,11,"","",9851TC,Burum
+Kloosterweg,13,"","",9851TC,Burum
+Kloosterweg,2,"","",9851TC,Burum
+Kloosterweg,3,"","",9851TC,Burum
+Kloosterweg,4,"","",9851TC,Burum
+Kloosterweg,5,"","",9851TC,Burum
+Kloosterweg,9,"","",9851TC,Burum
+Wytsmaweg,1,"","",9851TD,Burum
+Wytsmaweg,11,"","",9851TD,Burum
+Wytsmaweg,13,"","",9851TD,Burum
+Wytsmaweg,2,"","",9851TD,Burum
+Wytsmaweg,3,"","",9851TD,Burum
+Wytsmaweg,5,"","",9851TD,Burum
+Wytsmaweg,6,"","",9851TD,Burum
+Wytsmaweg,7,"","",9851TD,Burum
+Wytsmaweg,9,"","",9851TD,Burum
+Wytsmaweg,9,D,3,9851TD,Burum
+Wytsmaweg,9,D,98,9851TD,Burum
+Wytsmaweg,9,D,98,9851TD,Burum
+Keegensterweg,25,"","",9851TE,Burum
+Keegensterweg,26,"","",9851TE,Burum
+Keegensterweg,26,A,"",9851TE,Burum
+Keegensterweg,28,"","",9851TE,Burum
+Keegensterweg,31,"","",9851TE,Burum
+Keegensterweg,31,"","",9851TE,Burum
+Keegensterweg,32,"","",9851TE,Burum
+de Wendel,10,"","",9851TH,Burum
+de Wendel,11,"","",9851TH,Burum
+de Wendel,12,"","",9851TH,Burum
+de Wendel,13,"","",9851TH,Burum
+de Wendel,15,"","",9851TH,Burum
+de Wendel,17,"","",9851TH,Burum
+de Wendel,19,"","",9851TH,Burum
+de Wendel,2,"","",9851TH,Burum
+de Wendel,21,"","",9851TH,Burum
+de Wendel,23,"","",9851TH,Burum
+de Wendel,25,"","",9851TH,Burum
+de Wendel,27,"","",9851TH,Burum
+de Wendel,29,"","",9851TH,Burum
+de Wendel,3,"","",9851TH,Burum
+de Wendel,31,"","",9851TH,Burum
+de Wendel,33,"","",9851TH,Burum
+de Wendel,4,"","",9851TH,Burum
+de Wendel,5,"","",9851TH,Burum
+de Wendel,7,"","",9851TH,Burum
+de Wendel,8,"","",9851TH,Burum
+de Wendel,9,"","",9851TH,Burum

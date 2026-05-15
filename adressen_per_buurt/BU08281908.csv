@@ -1,45 +1,45 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5396PC,Beatrixweg,11,,
-5396PC,Beatrixweg,9,,
-5396PC,Beatrixweg,9,,BEDR
-5396NS,Leijgraafstraat,3,,
-5396ND,Lithoijense Dijk,33,,
-5396ND,Lithoijense Dijk,35,,
-5396NG,Lithoijense Dijk,46,,
-5396NG,Lithoijense Dijk,48,,
-5396NG,Lithoijense Dijk,48,A,
-5396NG,Lithoijense Dijk,48,A,
-5396NG,Lithoijense Dijk,46,,BEDR
-5396NG,Lithoijense Dijk,52,,
-5396PB,Lutterstraat,2,,
-5396PB,Lutterstraat,2,A,
-5396PB,Lutterstraat,6,,
-5396PB,Lutterstraat,8,,
-5396PB,Lutterstraat,1,,
-5396PB,Lutterstraat,1,,
-5396PB,Lutterstraat,15,,
-5396PB,Lutterstraat,2,,LDS2
-5396PB,Lutterstraat,13,,BEDR
-5396PB,Lutterstraat,1,,BEDR
-5396PB,Lutterstraat,1,,BEDR
-5396PB,Lutterstraat,4,,
-5396PB,Lutterstraat,2,A,GAR
-5396PB,Lutterstraat,2,A,B2
-5396PC,Beatrixweg,6,,
-5396NS,Leijgraafstraat,3,,BY
-5396NG,Lithoijense Dijk,50,,
-5396PB,Lutterstraat,13,,
-5396PB,Lutterstraat,2,A,B3
-5396PB,Lutterstraat,2,,LDS1
-5396PB,Lutterstraat,2,A,B1
-5396NS,Leijgraafstraat,7,,
-5396ND,Lithoijense Dijk,29,,
-5396NG,Lithoijense Dijk,46,A,
-5396NG,Lithoijense Dijk,46,B,
-5396NG,Lithoijense Dijk,46,C,
-5396NG,Lithoijense Dijk,46,D,
-5396NG,Lithoijense Dijk,16,B,
-5396NG,Lithoijense Dijk,16,C,
-5396PB,Lutterstraat,2,A,MZ
-5396PW,John F. Kennedybaan,18,,
-5396PB,Lutterstraat,2,,LDS2
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Lithoijense Dijk,29,"","",5396ND,Lithoijen
+Lithoijense Dijk,33,"","",5396ND,Lithoijen
+Lithoijense Dijk,35,"","",5396ND,Lithoijen
+Lithoijense Dijk,16,B,"",5396NG,Lithoijen
+Lithoijense Dijk,16,C,"",5396NG,Lithoijen
+Lithoijense Dijk,46,"","",5396NG,Lithoijen
+Lithoijense Dijk,46,"",BEDR,5396NG,Lithoijen
+Lithoijense Dijk,46,A,"",5396NG,Lithoijen
+Lithoijense Dijk,46,B,"",5396NG,Lithoijen
+Lithoijense Dijk,46,C,"",5396NG,Lithoijen
+Lithoijense Dijk,46,D,"",5396NG,Lithoijen
+Lithoijense Dijk,48,"","",5396NG,Lithoijen
+Lithoijense Dijk,48,A,"",5396NG,Lithoijen
+Lithoijense Dijk,48,A,"",5396NG,Lithoijen
+Lithoijense Dijk,50,"","",5396NG,Lithoijen
+Lithoijense Dijk,52,"","",5396NG,Lithoijen
+Leijgraafstraat,3,"","",5396NS,Lithoijen
+Leijgraafstraat,3,"",BY,5396NS,Lithoijen
+Leijgraafstraat,7,"","",5396NS,Lithoijen
+Lutterstraat,1,"","",5396PB,Lithoijen
+Lutterstraat,1,"","",5396PB,Lithoijen
+Lutterstraat,1,"",BEDR,5396PB,Lithoijen
+Lutterstraat,1,"",BEDR,5396PB,Lithoijen
+Lutterstraat,13,"","",5396PB,Lithoijen
+Lutterstraat,13,"",BEDR,5396PB,Lithoijen
+Lutterstraat,15,"","",5396PB,Lithoijen
+Lutterstraat,2,"","",5396PB,Lithoijen
+Lutterstraat,2,"",LDS1,5396PB,Lithoijen
+Lutterstraat,2,"",LDS2,5396PB,Lithoijen
+Lutterstraat,2,"",LDS2,5396PB,Lithoijen
+Lutterstraat,2,A,"",5396PB,Lithoijen
+Lutterstraat,2,A,B1,5396PB,Lithoijen
+Lutterstraat,2,A,B2,5396PB,Lithoijen
+Lutterstraat,2,A,B3,5396PB,Lithoijen
+Lutterstraat,2,A,GAR,5396PB,Lithoijen
+Lutterstraat,2,A,MZ,5396PB,Lithoijen
+Lutterstraat,4,"","",5396PB,Lithoijen
+Lutterstraat,6,"","",5396PB,Lithoijen
+Lutterstraat,8,"","",5396PB,Lithoijen
+Beatrixweg,11,"","",5396PC,Lithoijen
+Beatrixweg,6,"","",5396PC,Lithoijen
+Beatrixweg,9,"","",5396PC,Lithoijen
+Beatrixweg,9,"",BEDR,5396PC,Lithoijen
+John F. Kennedybaan,18,"","",5396PW,Lithoijen

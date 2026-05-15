@@ -1,2290 +1,1116 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7415AL",18,"A",""
-"7415AL",8,"F","1"
-"7415AL",18,"",""
-"7415AL",8,"F","2"
-"7415AL",8,"F","11"
-"7415AL",8,"F","10"
-"7415AL",8,"F","16"
-"7415AL",8,"F","13"
-"7415AL",18,"B",""
-"7415AL",2,"",""
-"7415AL",8,"T",""
-"7415AL",8,"F","14"
-"7415AL",8,"A",""
-"7415AL",4,"T",""
-"7415AL",14,"",""
-"7415AL",4,"",""
-"7415AL",8,"F","6"
-"7415AL",8,"F","12"
-"7415AL",8,"F","18"
-"7415AL",12,"",""
-"7415AL",10,"",""
-"7415AL",8,"F","15"
-"7415AL",8,"F","17"
-"7415AL",8,"F","3"
-"7415AL",8,"F","7"
-"7415AL",8,"F","8"
-"7415AL",8,"F","5"
-"7415AL",8,"F","9"
-"7415AL",8,"F","4"
-"7415AR",21,"",""
-"7415AR",19,"",""
-"7415AR",11,"",""
-"7415AR",9,"",""
-"7415AR",31,"",""
-"7415AR",13,"",""
-"7415AR",17,"",""
-"7415AR",27,"",""
-"7415AR",23,"",""
-"7415AR",25,"",""
-"7415AR",33,"",""
-"7415AR",35,"",""
-"7415AR",29,"",""
-"7415AR",1,"A",""
-"7415AR",5,"",""
-"7415AR",3,"",""
-"7415AR",1,"",""
-"7415AR",15,"",""
-"7415AR",37,"",""
-"7415AR",7,"",""
-"7415AS",73,"",""
-"7415AS",45,"",""
-"7415AS",39,"",""
-"7415AS",69,"",""
-"7415AS",43,"",""
-"7415AS",41,"",""
-"7415AS",65,"",""
-"7415AS",63,"",""
-"7415AS",51,"",""
-"7415AS",47,"",""
-"7415AS",49,"",""
-"7415AS",67,"",""
-"7415AS",57,"",""
-"7415AS",71,"",""
-"7415AS",61,"",""
-"7415AS",59,"",""
-"7415AS",53,"",""
-"7415AS",55,"",""
-"7415AT",79,"",""
-"7415AT",87,"",""
-"7415AT",97,"",""
-"7415AT",85,"",""
-"7415AT",93,"",""
-"7415AT",75,"",""
-"7415AT",81,"",""
-"7415AT",89,"",""
-"7415AT",91,"",""
-"7415AT",95,"",""
-"7415AT",83,"",""
-"7415AT",77,"",""
-"7415AV",6,"",""
-"7415AV",10,"",""
-"7415AV",18,"",""
-"7415AV",26,"",""
-"7415AV",2,"",""
-"7415AV",28,"",""
-"7415AV",20,"",""
-"7415AV",30,"",""
-"7415AV",24,"",""
-"7415AV",4,"",""
-"7415AV",14,"",""
-"7415AV",22,"",""
-"7415AV",16,"",""
-"7415AV",2,"T",""
-"7415AV",32,"",""
-"7415AV",2,"A",""
-"7415AV",12,"",""
-"7415AV",8,"",""
-"7415AW",62,"",""
-"7415AW",40,"",""
-"7415AW",36,"",""
-"7415AW",48,"",""
-"7415AW",72,"",""
-"7415AW",70,"",""
-"7415AW",52,"",""
-"7415AW",58,"",""
-"7415AW",34,"",""
-"7415AW",64,"",""
-"7415AW",44,"",""
-"7415AW",54,"",""
-"7415AW",68,"",""
-"7415AW",38,"",""
-"7415AW",66,"",""
-"7415AW",56,"",""
-"7415AW",60,"",""
-"7415AW",50,"",""
-"7415AW",42,"",""
-"7415AW",46,"",""
-"7415GA",145,"",""
-"7415GA",145,"",""
-"7415GA",145,"G",""
-"7415GA",147,"",""
-"7415GA",145,"A",""
-"7415GA",145,"M",""
-"7415GA",139,"",""
-"7415GA",145,"L",""
-"7415GA",145,"H",""
-"7415GA",137,"",""
-"7415GA",143,"C",""
-"7415GA",143,"B",""
-"7415GA",135,"",""
-"7415GA",145,"K",""
-"7415GA",143,"A",""
-"7415GA",159,"",""
-"7415GA",145,"",""
-"7415GA",131,"",""
-"7415GA",141,"",""
-"7415GA",127,"",""
-"7415GA",129,"",""
-"7415GA",151,"",""
-"7415GA",145,"E",""
-"7415GA",145,"B",""
-"7415GA",143,"D",""
-"7415GA",125,"",""
-"7415GA",155,"",""
-"7415GA",133,"",""
-"7415GA",153,"",""
-"7415GA",145,"",""
-"7415GA",145,"C",""
-"7415GA",157,"",""
-"7415GA",143,"",""
-"7415GA",145,"D",""
-"7415GA",149,"",""
-"7415GA",145,"F",""
-"7415GB",161,"",""
-"7415GB",163,"",""
-"7415GB",191,"",""
-"7415GB",169,"",""
-"7415GB",167,"",""
-"7415GB",193,"",""
-"7415GB",179,"",""
-"7415GB",177,"",""
-"7415GB",183,"",""
-"7415GB",165,"",""
-"7415GB",171,"",""
-"7415GB",185,"",""
-"7415GB",181,"",""
-"7415GB",187,"",""
-"7415GB",195,"",""
-"7415GB",175,"",""
-"7415GB",189,"",""
-"7415GB",173,"",""
-"7415GB",197,"",""
-"7415JN",9,"",""
-"7415JN",6,"",""
-"7415JN",11,"",""
-"7415JN",7,"",""
-"7415JN",8,"",""
-"7415JN",2,"",""
-"7415JN",5,"",""
-"7415JN",3,"",""
-"7415JN",10,"",""
-"7415JN",1,"",""
-"7415JN",4,"",""
-"7415JP",27,"",""
-"7415JP",37,"",""
-"7415JP",35,"",""
-"7415JP",19,"",""
-"7415JP",21,"",""
-"7415JP",3,"",""
-"7415JP",1,"G","1"
-"7415JP",23,"T",""
-"7415JP",5,"",""
-"7415JP",31,"",""
-"7415JP",17,"",""
-"7415JP",1,"G","3"
-"7415JP",9,"",""
-"7415JP",1,"G","4"
-"7415JP",29,"",""
-"7415JP",1,"G","5"
-"7415JP",1,"",""
-"7415JP",13,"",""
-"7415JP",1,"G","2"
-"7415JP",33,"",""
-"7415JP",15,"",""
-"7415JP",11,"",""
-"7415JP",7,"",""
-"7415JP",23,"",""
-"7415JR",71,"",""
-"7415JR",79,"",""
-"7415JR",81,"",""
-"7415JR",77,"",""
-"7415JR",67,"",""
-"7415JR",85,"",""
-"7415JR",73,"",""
-"7415JR",63,"",""
-"7415JR",61,"",""
-"7415JR",59,"",""
-"7415JR",69,"",""
-"7415JR",57,"",""
-"7415JR",49,"",""
-"7415JR",87,"",""
-"7415JR",83,"",""
-"7415JR",39,"",""
-"7415JR",45,"",""
-"7415JR",47,"",""
-"7415JR",51,"",""
-"7415JR",53,"",""
-"7415JR",65,"",""
-"7415JR",43,"",""
-"7415JR",55,"",""
-"7415JR",41,"",""
-"7415JS",95,"",""
-"7415JS",93,"",""
-"7415JS",89,"",""
-"7415JS",123,"",""
-"7415JS",97,"",""
-"7415JS",101,"",""
-"7415JS",119,"",""
-"7415JS",107,"",""
-"7415JS",99,"",""
-"7415JS",91,"",""
-"7415JS",113,"",""
-"7415JS",115,"",""
-"7415JS",103,"",""
-"7415JS",109,"",""
-"7415JS",105,"",""
-"7415JS",111,"",""
-"7415JS",121,"",""
-"7415JS",117,"",""
-"7415RM",9,"",""
-"7415RM",10,"",""
-"7415RM",7,"",""
-"7415RM",23,"",""
-"7415RM",15,"",""
-"7415RM",11,"",""
-"7415RM",8,"",""
-"7415RM",17,"",""
-"7415RM",18,"",""
-"7415RM",14,"",""
-"7415RM",2,"",""
-"7415RM",12,"",""
-"7415RM",19,"",""
-"7415RM",3,"",""
-"7415RM",5,"",""
-"7415RM",13,"",""
-"7415RM",20,"",""
-"7415RM",16,"",""
-"7415RM",4,"",""
-"7415RM",24,"",""
-"7415RM",22,"",""
-"7415RM",6,"",""
-"7415RM",1,"",""
-"7415RM",21,"",""
-"7415RN",40,"",""
-"7415RN",56,"",""
-"7415RN",60,"",""
-"7415RN",29,"",""
-"7415RN",34,"",""
-"7415RN",39,"",""
-"7415RN",25,"",""
-"7415RN",26,"",""
-"7415RN",28,"",""
-"7415RN",50,"",""
-"7415RN",30,"",""
-"7415RN",41,"",""
-"7415RN",53,"",""
-"7415RN",37,"",""
-"7415RN",31,"",""
-"7415RN",36,"",""
-"7415RN",43,"",""
-"7415RN",35,"",""
-"7415RN",38,"",""
-"7415RN",44,"",""
-"7415RN",33,"",""
-"7415RN",27,"",""
-"7415RN",47,"",""
-"7415RN",32,"",""
-"7415RN",57,"",""
-"7415RN",42,"",""
-"7415RN",52,"",""
-"7415RN",54,"",""
-"7415RN",45,"",""
-"7415RN",58,"",""
-"7415RN",46,"",""
-"7415RN",49,"",""
-"7415RN",59,"",""
-"7415RN",48,"",""
-"7415RN",51,"",""
-"7415RN",55,"",""
-"7415RP",1,"",""
-"7415RP",23,"",""
-"7415RP",5,"",""
-"7415RP",3,"",""
-"7415RP",21,"",""
-"7415RP",7,"",""
-"7415RP",27,"",""
-"7415RP",17,"",""
-"7415RP",29,"",""
-"7415RP",9,"",""
-"7415RP",31,"",""
-"7415RP",37,"",""
-"7415RP",11,"",""
-"7415RP",33,"",""
-"7415RP",25,"",""
-"7415RP",39,"",""
-"7415RP",19,"",""
-"7415RP",35,"",""
-"7415RP",13,"",""
-"7415RP",15,"",""
-"7415RR",12,"",""
-"7415RR",2,"",""
-"7415RR",8,"",""
-"7415RR",6,"",""
-"7415RR",10,"",""
-"7415RR",49,"",""
-"7415RR",4,"",""
-"7415RR",41,"",""
-"7415RR",45,"",""
-"7415RR",47,"",""
-"7415RR",43,"",""
-"7415RR",14,"",""
-"7415RS",9,"",""
-"7415RS",31,"",""
-"7415RS",19,"",""
-"7415RS",13,"",""
-"7415RS",3,"",""
-"7415RS",5,"",""
-"7415RS",21,"",""
-"7415RS",1,"",""
-"7415RS",7,"",""
-"7415RS",11,"",""
-"7415RS",15,"",""
-"7415RS",33,"",""
-"7415RS",37,"",""
-"7415RS",29,"",""
-"7415RS",17,"",""
-"7415RS",25,"",""
-"7415RS",35,"",""
-"7415RS",23,"",""
-"7415RS",27,"",""
-"7415RT",36,"",""
-"7415RT",12,"",""
-"7415RT",10,"",""
-"7415RT",34,"",""
-"7415RT",38,"",""
-"7415RT",40,"",""
-"7415RT",4,"",""
-"7415RT",48,"",""
-"7415RT",6,"",""
-"7415RT",26,"",""
-"7415RT",44,"",""
-"7415RT",22,"",""
-"7415RT",2,"",""
-"7415RT",20,"",""
-"7415RT",16,"",""
-"7415RT",50,"",""
-"7415RT",28,"",""
-"7415RT",30,"",""
-"7415RT",14,"",""
-"7415RT",42,"",""
-"7415RT",24,"",""
-"7415RT",8,"",""
-"7415RT",32,"",""
-"7415RT",46,"",""
-"7415RT",18,"",""
-"7415RW",5,"",""
-"7415RW",25,"",""
-"7415RW",15,"",""
-"7415RW",9,"",""
-"7415RW",13,"",""
-"7415RW",33,"",""
-"7415RW",11,"",""
-"7415RW",17,"",""
-"7415RW",3,"",""
-"7415RW",23,"",""
-"7415RW",7,"",""
-"7415RW",21,"",""
-"7415RW",1,"",""
-"7415RW",19,"",""
-"7415RW",29,"",""
-"7415RW",31,"",""
-"7415RW",35,"",""
-"7415RW",27,"",""
-"7415RX",28,"",""
-"7415RX",16,"",""
-"7415RX",30,"",""
-"7415RX",26,"",""
-"7415RX",8,"",""
-"7415RX",32,"",""
-"7415RX",24,"",""
-"7415RX",6,"",""
-"7415RX",22,"",""
-"7415RX",10,"",""
-"7415RX",2,"",""
-"7415RX",20,"",""
-"7415RX",12,"",""
-"7415RX",14,"",""
-"7415RX",18,"",""
-"7415RX",4,"",""
-"7415RZ",15,"",""
-"7415RZ",5,"",""
-"7415RZ",23,"",""
-"7415RZ",13,"",""
-"7415RZ",21,"",""
-"7415RZ",37,"",""
-"7415RZ",7,"",""
-"7415RZ",11,"",""
-"7415RZ",31,"",""
-"7415RZ",27,"",""
-"7415RZ",19,"",""
-"7415RZ",17,"",""
-"7415RZ",29,"",""
-"7415RZ",1,"",""
-"7415RZ",3,"",""
-"7415RZ",39,"",""
-"7415RZ",9,"",""
-"7415RZ",33,"",""
-"7415RZ",41,"",""
-"7415RZ",35,"",""
-"7415SB",2,"",""
-"7415SB",10,"",""
-"7415SB",14,"",""
-"7415SB",18,"",""
-"7415SB",28,"",""
-"7415SB",26,"",""
-"7415SB",6,"",""
-"7415SB",14,"",""
-"7415SB",20,"",""
-"7415SB",12,"",""
-"7415SB",4,"",""
-"7415SB",8,"",""
-"7415SB",14,"A",""
-"7415SB",16,"",""
-"7415SB",24,"",""
-"7415SB",22,"",""
-"7415SB",14,"a",""
-"7415SC",30,"",""
-"7415SC",52,"",""
-"7415SC",54,"",""
-"7415SC",34,"",""
-"7415SC",58,"",""
-"7415SC",48,"",""
-"7415SC",40,"",""
-"7415SC",44,"",""
-"7415SC",46,"",""
-"7415SC",42,"",""
-"7415SC",50,"",""
-"7415SC",38,"",""
-"7415SC",56,"",""
-"7415SC",32,"",""
-"7415SC",60,"",""
-"7415SC",36,"",""
-"7415SE",7,"",""
-"7415SE",9,"",""
-"7415SE",17,"",""
-"7415SE",13,"",""
-"7415SE",3,"",""
-"7415SE",31,"",""
-"7415SE",21,"",""
-"7415SE",5,"",""
-"7415SE",145,"L",""
-"7415SE",27,"",""
-"7415SE",25,"",""
-"7415SE",145,"K",""
-"7415SE",9,"",""
-"7415SE",19,"",""
-"7415SE",29,"",""
-"7415SE",9,"",""
-"7415SE",23,"",""
-"7415SE",11,"",""
-"7415SE",15,"",""
-"7415SE",7,"",""
-"7415SG",69,"",""
-"7415SG",67,"",""
-"7415SG",43,"",""
-"7415SG",61,"",""
-"7415SG",63,"",""
-"7415SG",65,"",""
-"7415SG",47,"",""
-"7415SG",35,"",""
-"7415SG",53,"",""
-"7415SG",49,"",""
-"7415SG",33,"",""
-"7415SG",59,"",""
-"7415SG",37,"",""
-"7415SG",41,"",""
-"7415SG",57,"",""
-"7415SG",51,"",""
-"7415SG",39,"",""
-"7415SG",55,"",""
-"7415SG",45,"",""
-"7415SH",85,"",""
-"7415SH",87,"",""
-"7415SH",71,"",""
-"7415SH",75,"",""
-"7415SH",83,"",""
-"7415SH",81,"",""
-"7415SH",77,"",""
-"7415SH",73,"",""
-"7415SH",79,"",""
-"7415SJ",8,"",""
-"7415SJ",30,"",""
-"7415SJ",24,"",""
-"7415SJ",22,"",""
-"7415SJ",6,"",""
-"7415SJ",32,"",""
-"7415SJ",26,"A",""
-"7415SJ",4,"",""
-"7415SJ",16,"",""
-"7415SJ",10,"",""
-"7415SJ",28,"",""
-"7415SJ",2,"",""
-"7415SJ",12,"",""
-"7415SJ",18,"",""
-"7415SJ",20,"",""
-"7415SJ",14,"",""
-"7415SJ",26,"",""
-"7415SJ",34,"",""
-"7415SK",46,"",""
-"7415SK",42,"",""
-"7415SK",44,"",""
-"7415SK",48,"",""
-"7415SK",36,"",""
-"7415SK",40,"",""
-"7415SK",38,"",""
-"7415SL",90,"",""
-"7415SL",88,"",""
-"7415SL",74,"",""
-"7415SL",62,"",""
-"7415SL",64,"",""
-"7415SL",96,"",""
-"7415SL",80,"",""
-"7415SL",98,"",""
-"7415SL",52,"",""
-"7415SL",100,"",""
-"7415SL",50,"",""
-"7415SL",76,"",""
-"7415SL",68,"",""
-"7415SL",84,"",""
-"7415SL",72,"",""
-"7415SL",94,"",""
-"7415SL",60,"",""
-"7415SL",56,"",""
-"7415SL",54,"",""
-"7415SL",92,"",""
-"7415SL",70,"",""
-"7415SL",58,"",""
-"7415SL",86,"",""
-"7415SL",82,"",""
-"7415SL",66,"",""
-"7415SL",78,"",""
-"7415SM",23,"",""
-"7415SM",9,"",""
-"7415SM",3,"",""
-"7415SM",15,"",""
-"7415SM",11,"",""
-"7415SM",41,"",""
-"7415SM",39,"",""
-"7415SM",13,"",""
-"7415SM",1,"",""
-"7415SM",31,"",""
-"7415SM",27,"",""
-"7415SM",43,"",""
-"7415SM",21,"G","2"
-"7415SM",29,"",""
-"7415SM",21,"",""
-"7415SM",21,"G","1"
-"7415SM",33,"",""
-"7415SM",49,"",""
-"7415SM",25,"",""
-"7415SM",47,"",""
-"7415SM",37,"",""
-"7415SM",35,"",""
-"7415SM",5,"",""
-"7415SM",19,"",""
-"7415SM",45,"",""
-"7415SM",17,"",""
-"7415SM",7,"",""
-"7415SN",26,"",""
-"7415SN",24,"",""
-"7415SN",6,"",""
-"7415SN",4,"",""
-"7415SN",20,"",""
-"7415SN",28,"",""
-"7415SN",8,"",""
-"7415SN",10,"",""
-"7415SN",2,"",""
-"7415SN",22,"",""
-"7415SN",16,"",""
-"7415SN",12,"",""
-"7415SN",18,"",""
-"7415SN",14,"",""
-"7415SP",52,"",""
-"7415SP",30,"",""
-"7415SP",36,"",""
-"7415SP",44,"",""
-"7415SP",48,"",""
-"7415SP",50,"",""
-"7415SP",40,"",""
-"7415SP",34,"",""
-"7415SP",32,"",""
-"7415SP",42,"",""
-"7415SP",38,"",""
-"7415SP",46,"",""
-"7415SR",35,"",""
-"7415SR",25,"",""
-"7415SR",3,"",""
-"7415SR",17,"",""
-"7415SR",33,"",""
-"7415SR",41,"",""
-"7415SR",19,"",""
-"7415SR",21,"",""
-"7415SR",7,"",""
-"7415SR",37,"",""
-"7415SR",23,"",""
-"7415SR",29,"",""
-"7415SR",31,"",""
-"7415SR",5,"",""
-"7415SR",9,"",""
-"7415SR",27,"",""
-"7415SR",39,"",""
-"7415SR",15,"",""
-"7415SR",11,"",""
-"7415SR",13,"",""
-"7415ST",71,"",""
-"7415ST",45,"",""
-"7415ST",47,"",""
-"7415ST",85,"",""
-"7415ST",49,"G","1"
-"7415ST",77,"",""
-"7415ST",73,"",""
-"7415ST",49,"G","3"
-"7415ST",79,"",""
-"7415ST",67,"",""
-"7415ST",61,"",""
-"7415ST",89,"",""
-"7415ST",91,"",""
-"7415ST",81,"",""
-"7415ST",43,"",""
-"7415ST",49,"G","5"
-"7415ST",49,"",""
-"7415ST",49,"G","2"
-"7415ST",65,"",""
-"7415ST",63,"",""
-"7415ST",87,"",""
-"7415ST",69,"",""
-"7415ST",83,"",""
-"7415ST",49,"G","4"
-"7415ST",75,"",""
-"7415SV",24,"",""
-"7415SV",10,"",""
-"7415SV",22,"",""
-"7415SV",16,"",""
-"7415SV",12,"",""
-"7415SV",18,"",""
-"7415SV",14,"",""
-"7415SV",6,"",""
-"7415SV",8,"",""
-"7415SV",20,"",""
-"7415SV",26,"",""
-"7415SW",8,"",""
-"7415SW",1,"",""
-"7415SW",24,"",""
-"7415SW",30,"",""
-"7415SW",18,"",""
-"7415SW",6,"",""
-"7415SW",14,"",""
-"7415SW",10,"",""
-"7415SW",4,"",""
-"7415SW",12,"",""
-"7415SW",2,"",""
-"7415SW",32,"",""
-"7415SW",28,"",""
-"7415SW",22,"",""
-"7415SW",16,"",""
-"7415SW",26,"",""
-"7415SW",20,"",""
-"7415SX",39,"G","5"
-"7415SX",39,"G","8"
-"7415SX",39,"G","11"
-"7415SX",37,"",""
-"7415SX",39,"G","10"
-"7415SX",11,"G","17"
-"7415SX",11,"G","14"
-"7415SX",67,"",""
-"7415SX",11,"G","15"
-"7415SX",69,"",""
-"7415SX",65,"",""
-"7415SX",39,"G","2"
-"7415SX",39,"",""
-"7415SX",39,"G","1"
-"7415SX",11,"G","3"
-"7415SX",31,"",""
-"7415SX",11,"G","7"
-"7415SX",75,"",""
-"7415SX",39,"G","3"
-"7415SX",39,"G","6"
-"7415SX",39,"G","7"
-"7415SX",11,"G","5"
-"7415SX",73,"",""
-"7415SX",71,"",""
-"7415SX",11,"G","1"
-"7415SX",39,"G","4"
-"7415SX",11,"G","6"
-"7415SX",63,"",""
-"7415SX",25,"",""
-"7415SX",11,"G","10"
-"7415SX",9,"",""
-"7415SX",7,"",""
-"7415SX",27,"",""
-"7415SX",33,"",""
-"7415SX",11,"G","16"
-"7415SX",11,"G","2"
-"7415SX",39,"G","9"
-"7415SX",11,"G","13"
-"7415SX",35,"",""
-"7415SX",1,"",""
-"7415SX",5,"",""
-"7415SX",11,"G","11"
-"7415SX",3,"",""
-"7415SX",11,"G","4"
-"7415SX",29,"",""
-"7415SX",11,"G","9"
-"7415SX",11,"G","12"
-"7415SX",11,"",""
-"7415SX",11,"G","8"
-"7415TA",45,"",""
-"7415TA",37,"",""
-"7415TA",73,"",""
-"7415TA",51,"",""
-"7415TA",41,"",""
-"7415TA",69,"",""
-"7415TA",43,"",""
-"7415TA",49,"",""
-"7415TA",75,"",""
-"7415TA",39,"",""
-"7415TA",47,"",""
-"7415TA",71,"",""
-"7415TB",89,"",""
-"7415TB",103,"",""
-"7415TB",97,"",""
-"7415TB",109,"",""
-"7415TB",85,"",""
-"7415TB",93,"",""
-"7415TB",81,"",""
-"7415TB",77,"",""
-"7415TB",91,"",""
-"7415TB",79,"",""
-"7415TB",113,"",""
-"7415TB",95,"",""
-"7415TB",117,"",""
-"7415TB",101,"",""
-"7415TB",107,"",""
-"7415TB",99,"",""
-"7415TB",119,"",""
-"7415TB",111,"",""
-"7415TB",83,"",""
-"7415TB",115,"",""
-"7415TB",87,"",""
-"7415TB",105,"",""
-"7415TC",147,"",""
-"7415TC",145,"",""
-"7415TC",143,"",""
-"7415TC",149,"",""
-"7415TC",155,"",""
-"7415TC",127,"",""
-"7415TC",123,"",""
-"7415TC",137,"",""
-"7415TC",157,"",""
-"7415TC",153,"",""
-"7415TC",121,"",""
-"7415TC",141,"",""
-"7415TC",151,"",""
-"7415TC",139,"",""
-"7415TC",125,"",""
-"7415TC",133,"",""
-"7415TC",131,"",""
-"7415TC",135,"",""
-"7415TC",129,"",""
-"7415TD",185,"",""
-"7415TD",177,"",""
-"7415TD",167,"",""
-"7415TD",195,"",""
-"7415TD",163,"",""
-"7415TD",161,"",""
-"7415TD",159,"",""
-"7415TD",175,"",""
-"7415TD",189,"",""
-"7415TD",169,"",""
-"7415TD",187,"",""
-"7415TD",173,"",""
-"7415TD",191,"",""
-"7415TD",193,"",""
-"7415TD",171,"",""
-"7415TD",197,"",""
-"7415TD",183,"",""
-"7415TD",181,"",""
-"7415TD",179,"",""
-"7415TD",165,"",""
-"7415TE",8,"",""
-"7415TE",4,"",""
-"7415TE",6,"",""
-"7415TE",48,"",""
-"7415TE",14,"",""
-"7415TE",16,"",""
-"7415TE",10,"",""
-"7415TE",18,"",""
-"7415TE",12,"",""
-"7415TE",46,"",""
-"7415TE",2,"",""
-"7415TE",20,"",""
-"7415TE",22,"",""
-"7415TG",52,"",""
-"7415TG",82,"",""
-"7415TG",58,"",""
-"7415TG",66,"",""
-"7415TG",68,"",""
-"7415TG",56,"",""
-"7415TG",62,"",""
-"7415TG",78,"",""
-"7415TG",70,"",""
-"7415TG",92,"",""
-"7415TG",90,"",""
-"7415TG",74,"",""
-"7415TG",60,"",""
-"7415TG",76,"",""
-"7415TG",64,"",""
-"7415TG",72,"",""
-"7415TG",54,"",""
-"7415TG",84,"",""
-"7415TG",88,"",""
-"7415TG",86,"",""
-"7415TG",80,"",""
-"7415TG",50,"",""
-"7415TH",100,"",""
-"7415TH",104,"",""
-"7415TH",98,"",""
-"7415TH",106,"",""
-"7415TH",108,"",""
-"7415TH",122,"",""
-"7415TH",126,"",""
-"7415TH",112,"",""
-"7415TH",102,"",""
-"7415TH",96,"",""
-"7415TH",94,"",""
-"7415TH",118,"",""
-"7415TH",124,"",""
-"7415TH",128,"",""
-"7415TH",110,"",""
-"7415TH",116,"",""
-"7415TH",120,"",""
-"7415TH",114,"",""
-"7415TJ",150,"G","4"
-"7415TJ",150,"G","3"
-"7415TJ",150,"G","6"
-"7415TJ",140,"",""
-"7415TJ",132,"",""
-"7415TJ",130,"",""
-"7415TJ",136,"",""
-"7415TJ",150,"",""
-"7415TJ",130,"G","4"
-"7415TJ",144,"",""
-"7415TJ",130,"G","2"
-"7415TJ",130,"G","3"
-"7415TJ",150,"G","5"
-"7415TJ",134,"",""
-"7415TJ",148,"",""
-"7415TJ",130,"G","1"
-"7415TJ",130,"G","5"
-"7415TJ",142,"",""
-"7415TJ",138,"",""
-"7415TJ",146,"",""
-"7415TJ",150,"G","2"
-"7415TJ",150,"G","1"
-"7415TK",1,"",""
-"7415TK",11,"",""
-"7415TK",13,"",""
-"7415TK",15,"",""
-"7415TK",9,"",""
-"7415TK",21,"",""
-"7415TK",25,"",""
-"7415TK",5,"",""
-"7415TK",19,"",""
-"7415TK",23,"",""
-"7415TK",3,"",""
-"7415TK",17,"",""
-"7415TK",7,"",""
-"7415TL",26,"",""
-"7415TL",24,"",""
-"7415TL",42,"",""
-"7415TL",38,"",""
-"7415TL",40,"",""
-"7415TL",14,"",""
-"7415TL",10,"",""
-"7415TL",6,"",""
-"7415TL",32,"",""
-"7415TL",30,"",""
-"7415TL",8,"",""
-"7415TL",20,"",""
-"7415TL",28,"",""
-"7415TL",34,"",""
-"7415TL",22,"",""
-"7415TL",36,"",""
-"7415TL",18,"",""
-"7415TL",12,"",""
-"7415TL",2,"",""
-"7415TL",16,"",""
-"7415TL",4,"",""
-"7415TM",27,"",""
-"7415TM",1,"A",""
-"7415TM",41,"",""
-"7415TM",31,"",""
-"7415TM",21,"",""
-"7415TM",35,"",""
-"7415TM",39,"",""
-"7415TM",9,"",""
-"7415TM",35,"",""
-"7415TM",35,"",""
-"7415TM",25,"",""
-"7415TM",19,"",""
-"7415TM",35,"A",""
-"7415TM",1,"",""
-"7415TM",29,"",""
-"7415TM",1,"B",""
-"7415TM",5,"",""
-"7415TM",15,"",""
-"7415TM",11,"",""
-"7415TM",33,"",""
-"7415TM",13,"",""
-"7415TM",35,"A",""
-"7415TM",35,"",""
-"7415TM",45,"",""
-"7415TM",47,"",""
-"7415TM",23,"",""
-"7415TM",43,"",""
-"7415TM",3,"",""
-"7415TM",7,"",""
-"7415TM",37,"",""
-"7415TM",35,"A",""
-"7415TM",37,"A",""
-"7415TM",17,"",""
-"7415TN",178,"",""
-"7415TN",178,"",""
-"7415TN",178,"",""
-"7415TN",156,"",""
-"7415TN",154,"",""
-"7415TN",168,"",""
-"7415TN",150,"",""
-"7415TN",152,"",""
-"7415TN",162,"",""
-"7415TN",158,"",""
-"7415TN",166,"",""
-"7415TN",164,"",""
-"7415TN",160,"",""
-"7415TN",170,"",""
-"7415TN",172,"",""
-"7415TP",10,"",""
-"7415TP",44,"",""
-"7415TP",36,"",""
-"7415TP",34,"",""
-"7415TP",12,"",""
-"7415TP",22,"",""
-"7415TP",28,"",""
-"7415TP",6,"",""
-"7415TP",14,"",""
-"7415TP",42,"",""
-"7415TP",32,"",""
-"7415TP",18,"",""
-"7415TP",16,"",""
-"7415TP",2,"",""
-"7415TP",4,"",""
-"7415TP",20,"",""
-"7415TP",30,"",""
-"7415TP",26,"",""
-"7415TP",38,"",""
-"7415TP",46,"",""
-"7415TP",40,"",""
-"7415TP",48,"",""
-"7415TP",24,"",""
-"7415TP",8,"",""
-"7415TR",58,"",""
-"7415TR",78,"",""
-"7415TR",66,"",""
-"7415TR",88,"",""
-"7415TR",86,"",""
-"7415TR",68,"",""
-"7415TR",50,"",""
-"7415TR",90,"",""
-"7415TR",60,"",""
-"7415TR",62,"",""
-"7415TR",82,"",""
-"7415TR",72,"",""
-"7415TR",54,"",""
-"7415TR",76,"",""
-"7415TR",74,"",""
-"7415TR",64,"",""
-"7415TR",84,"",""
-"7415TR",92,"",""
-"7415TR",94,"",""
-"7415TR",56,"",""
-"7415TR",52,"",""
-"7415TR",80,"",""
-"7415TR",70,"",""
-"7415TW",94,"",""
-"7415TW",72,"",""
-"7415TW",66,"",""
-"7415TW",92,"",""
-"7415TW",60,"",""
-"7415TW",80,"",""
-"7415TW",96,"",""
-"7415TW",88,"",""
-"7415TW",82,"",""
-"7415TW",74,"",""
-"7415TW",62,"",""
-"7415TW",64,"",""
-"7415TW",60,"T",""
-"7415TW",76,"",""
-"7415TW",70,"",""
-"7415TW",68,"",""
-"7415TW",86,"",""
-"7415TW",98,"C",""
-"7415TW",78,"",""
-"7415TW",98,"B",""
-"7415TW",98,"A",""
-"7415TW",90,"",""
-"7415TW",84,"",""
-"7415TX",104,"",""
-"7415TX",100,"",""
-"7415TX",146,"",""
-"7415TX",104,"A",""
-"7415TX",138,"",""
-"7415TX",148,"",""
-"7415TX",100,"A",""
-"7415TX",118,"",""
-"7415TX",102,"B",""
-"7415TX",122,"",""
-"7415TX",136,"",""
-"7415TX",104,"B",""
-"7415TX",102,"C",""
-"7415TX",102,"A",""
-"7415TX",124,"",""
-"7415TX",108,"",""
-"7415TX",132,"",""
-"7415TX",132,"",""
-"7415TX",100,"C",""
-"7415TX",130,"",""
-"7415TX",144,"",""
-"7415TX",116,"",""
-"7415TX",114,"",""
-"7415TX",102,"",""
-"7415TX",134,"",""
-"7415TX",120,"",""
-"7415TX",128,"",""
-"7415TX",126,"",""
-"7415TX",104,"C",""
-"7415TX",140,"",""
-"7415TX",100,"B",""
-"7415TX",142,"",""
-"7415TX",132,"",""
-"7415TZ",186,"",""
-"7415TZ",222,"",""
-"7415TZ",232,"",""
-"7415TZ",196,"",""
-"7415TZ",206,"",""
-"7415TZ",234,"",""
-"7415TZ",198,"",""
-"7415TZ",216,"",""
-"7415TZ",202,"",""
-"7415TZ",208,"",""
-"7415TZ",226,"",""
-"7415TZ",210,"",""
-"7415TZ",220,"",""
-"7415TZ",184,"",""
-"7415TZ",194,"G","3"
-"7415TZ",200,"",""
-"7415TZ",194,"G","4"
-"7415TZ",188,"",""
-"7415TZ",190,"",""
-"7415TZ",240,"",""
-"7415TZ",236,"",""
-"7415TZ",224,"",""
-"7415TZ",182,"",""
-"7415TZ",194,"",""
-"7415TZ",218,"",""
-"7415TZ",230,"",""
-"7415TZ",180,"",""
-"7415TZ",204,"",""
-"7415TZ",228,"",""
-"7415TZ",214,"",""
-"7415TZ",194,"G","2"
-"7415TZ",194,"G","1"
-"7415TZ",192,"",""
-"7415TZ",212,"",""
-"7415TZ",238,"",""
-"7415TZ",242,"",""
-7415AL,Ceintuurbaan,2,,
-7415AL,Ceintuurbaan,4,T,
-7415AL,Ceintuurbaan,4,,
-7415AL,Ceintuurbaan,8,A,
-7415AL,Ceintuurbaan,8,F,1
-7415AL,Ceintuurbaan,8,F,2
-7415AL,Ceintuurbaan,8,F,3
-7415AL,Ceintuurbaan,8,F,4
-7415AL,Ceintuurbaan,8,F,5
-7415AL,Ceintuurbaan,8,F,6
-7415AL,Ceintuurbaan,8,F,7
-7415AL,Ceintuurbaan,8,F,8
-7415AL,Ceintuurbaan,8,F,9
-7415AL,Ceintuurbaan,8,F,10
-7415AL,Ceintuurbaan,8,F,11
-7415AL,Ceintuurbaan,8,F,12
-7415AL,Ceintuurbaan,8,F,13
-7415AL,Ceintuurbaan,8,F,14
-7415AL,Ceintuurbaan,8,F,15
-7415AL,Ceintuurbaan,8,F,16
-7415AL,Ceintuurbaan,8,F,17
-7415AL,Ceintuurbaan,8,F,18
-7415AL,Ceintuurbaan,8,T,
-7415AL,Ceintuurbaan,10,,
-7415AL,Ceintuurbaan,12,,
-7415AL,Ceintuurbaan,14,,
-7415AL,Ceintuurbaan,18,A,
-7415AL,Ceintuurbaan,18,B,
-7415AL,Ceintuurbaan,18,,
-7415SE,Dapperstraat,7,,
-7415SE,Dapperstraat,9,,
-7415SE,Dapperstraat,11,,
-7415SE,Dapperstraat,13,,
-7415SE,Dapperstraat,15,,
-7415SE,Dapperstraat,17,,
-7415SE,Dapperstraat,19,,
-7415SE,Dapperstraat,21,,
-7415SE,Dapperstraat,23,,
-7415SE,Dapperstraat,25,,
-7415SE,Dapperstraat,27,,
-7415SE,Dapperstraat,29,,
-7415SE,Dapperstraat,31,,
-7415SG,Dapperstraat,33,,
-7415SG,Dapperstraat,35,,
-7415SG,Dapperstraat,37,,
-7415SG,Dapperstraat,39,,
-7415SG,Dapperstraat,41,,
-7415SG,Dapperstraat,43,,
-7415SG,Dapperstraat,45,,
-7415SG,Dapperstraat,47,,
-7415SG,Dapperstraat,49,,
-7415SG,Dapperstraat,51,,
-7415SG,Dapperstraat,53,,
-7415SG,Dapperstraat,55,,
-7415SG,Dapperstraat,57,,
-7415SG,Dapperstraat,59,,
-7415SG,Dapperstraat,61,,
-7415SG,Dapperstraat,63,,
-7415SG,Dapperstraat,65,,
-7415SG,Dapperstraat,67,,
-7415SG,Dapperstraat,69,,
-7415SH,Dapperstraat,71,,
-7415SH,Dapperstraat,73,,
-7415SH,Dapperstraat,75,,
-7415SH,Dapperstraat,77,,
-7415SH,Dapperstraat,79,,
-7415SH,Dapperstraat,81,,
-7415SH,Dapperstraat,83,,
-7415SH,Dapperstraat,85,,
-7415SH,Dapperstraat,87,,
-7415SJ,Dapperstraat,2,,
-7415SJ,Dapperstraat,4,,
-7415SJ,Dapperstraat,6,,
-7415SJ,Dapperstraat,8,,
-7415SJ,Dapperstraat,10,,
-7415SJ,Dapperstraat,12,,
-7415SJ,Dapperstraat,14,,
-7415SJ,Dapperstraat,16,,
-7415SJ,Dapperstraat,18,,
-7415SJ,Dapperstraat,20,,
-7415SJ,Dapperstraat,22,,
-7415SJ,Dapperstraat,24,,
-7415SJ,Dapperstraat,26,A,
-7415SJ,Dapperstraat,26,,
-7415SJ,Dapperstraat,28,,
-7415SJ,Dapperstraat,30,,
-7415SJ,Dapperstraat,32,,
-7415SJ,Dapperstraat,34,,
-7415SK,Dapperstraat,36,,
-7415SK,Dapperstraat,38,,
-7415SK,Dapperstraat,40,,
-7415SK,Dapperstraat,42,,
-7415SK,Dapperstraat,44,,
-7415SK,Dapperstraat,46,,
-7415SK,Dapperstraat,48,,
-7415SL,Dapperstraat,50,,
-7415SL,Dapperstraat,52,,
-7415SL,Dapperstraat,54,,
-7415SL,Dapperstraat,56,,
-7415SL,Dapperstraat,58,,
-7415SL,Dapperstraat,60,,
-7415SL,Dapperstraat,62,,
-7415SL,Dapperstraat,64,,
-7415SL,Dapperstraat,66,,
-7415SL,Dapperstraat,68,,
-7415SL,Dapperstraat,70,,
-7415SL,Dapperstraat,72,,
-7415SL,Dapperstraat,74,,
-7415SL,Dapperstraat,76,,
-7415SL,Dapperstraat,78,,
-7415SL,Dapperstraat,80,,
-7415SL,Dapperstraat,82,,
-7415SL,Dapperstraat,84,,
-7415SL,Dapperstraat,86,,
-7415SL,Dapperstraat,88,,
-7415SL,Dapperstraat,90,,
-7415SL,Dapperstraat,92,,
-7415SL,Dapperstraat,94,,
-7415SL,Dapperstraat,96,,
-7415SL,Dapperstraat,98,,
-7415SL,Dapperstraat,100,,
-7415RW,Fockinckstraat,1,,
-7415RW,Fockinckstraat,3,,
-7415RW,Fockinckstraat,5,,
-7415RW,Fockinckstraat,7,,
-7415RW,Fockinckstraat,9,,
-7415RW,Fockinckstraat,11,,
-7415RW,Fockinckstraat,13,,
-7415RW,Fockinckstraat,15,,
-7415RW,Fockinckstraat,17,,
-7415RW,Fockinckstraat,19,,
-7415RW,Fockinckstraat,21,,
-7415RW,Fockinckstraat,23,,
-7415RW,Fockinckstraat,25,,
-7415RW,Fockinckstraat,27,,
-7415RW,Fockinckstraat,29,,
-7415RW,Fockinckstraat,31,,
-7415RW,Fockinckstraat,33,,
-7415RW,Fockinckstraat,35,,
-7415RX,Fockinckstraat,2,,
-7415RX,Fockinckstraat,4,,
-7415RX,Fockinckstraat,6,,
-7415RX,Fockinckstraat,8,,
-7415RX,Fockinckstraat,10,,
-7415RX,Fockinckstraat,12,,
-7415RX,Fockinckstraat,14,,
-7415RX,Fockinckstraat,16,,
-7415RX,Fockinckstraat,18,,
-7415RX,Fockinckstraat,20,,
-7415RX,Fockinckstraat,22,,
-7415RX,Fockinckstraat,24,,
-7415RX,Fockinckstraat,26,,
-7415RX,Fockinckstraat,28,,
-7415RX,Fockinckstraat,30,,
-7415RX,Fockinckstraat,32,,
-7415RP,Hagedoornstraat,1,,
-7415RP,Hagedoornstraat,3,,
-7415RP,Hagedoornstraat,5,,
-7415RP,Hagedoornstraat,7,,
-7415RP,Hagedoornstraat,9,,
-7415RP,Hagedoornstraat,11,,
-7415RP,Hagedoornstraat,13,,
-7415RP,Hagedoornstraat,15,,
-7415RP,Hagedoornstraat,17,,
-7415RP,Hagedoornstraat,19,,
-7415RP,Hagedoornstraat,21,,
-7415RP,Hagedoornstraat,23,,
-7415RP,Hagedoornstraat,25,,
-7415RP,Hagedoornstraat,27,,
-7415RP,Hagedoornstraat,29,,
-7415RP,Hagedoornstraat,31,,
-7415RP,Hagedoornstraat,33,,
-7415RP,Hagedoornstraat,35,,
-7415RP,Hagedoornstraat,37,,
-7415RP,Hagedoornstraat,39,,
-7415RR,Hagedoornstraat,2,,
-7415RR,Hagedoornstraat,4,,
-7415RR,Hagedoornstraat,6,,
-7415RR,Hagedoornstraat,8,,
-7415RR,Hagedoornstraat,10,,
-7415RR,Hagedoornstraat,12,,
-7415RR,Hagedoornstraat,14,,
-7415RR,Hagedoornstraat,41,,
-7415RR,Hagedoornstraat,43,,
-7415RR,Hagedoornstraat,45,,
-7415RR,Hagedoornstraat,47,,
-7415RR,Hagedoornstraat,49,,
-7415SM,Heyinckstraat,1,,
-7415SM,Heyinckstraat,3,,
-7415SM,Heyinckstraat,5,,
-7415SM,Heyinckstraat,7,,
-7415SM,Heyinckstraat,9,,
-7415SM,Heyinckstraat,11,,
-7415SM,Heyinckstraat,13,,
-7415SM,Heyinckstraat,15,,
-7415SM,Heyinckstraat,17,,
-7415SM,Heyinckstraat,19,,
-7415SM,Heyinckstraat,21,G,1
-7415SM,Heyinckstraat,21,G,2
-7415SM,Heyinckstraat,21,,
-7415SM,Heyinckstraat,23,,
-7415SM,Heyinckstraat,25,,
-7415SM,Heyinckstraat,27,,
-7415SM,Heyinckstraat,29,,
-7415SM,Heyinckstraat,31,,
-7415SM,Heyinckstraat,33,,
-7415SM,Heyinckstraat,35,,
-7415SM,Heyinckstraat,37,,
-7415SM,Heyinckstraat,39,,
-7415SM,Heyinckstraat,41,,
-7415SM,Heyinckstraat,43,,
-7415SM,Heyinckstraat,45,,
-7415SM,Heyinckstraat,47,,
-7415SM,Heyinckstraat,49,,
-7415SN,Heyinckstraat,2,,
-7415SN,Heyinckstraat,4,,
-7415SN,Heyinckstraat,6,,
-7415SN,Heyinckstraat,8,,
-7415SN,Heyinckstraat,10,,
-7415SN,Heyinckstraat,12,,
-7415SN,Heyinckstraat,14,,
-7415SN,Heyinckstraat,16,,
-7415SN,Heyinckstraat,18,,
-7415SN,Heyinckstraat,20,,
-7415SN,Heyinckstraat,22,,
-7415SN,Heyinckstraat,24,,
-7415SN,Heyinckstraat,26,,
-7415SN,Heyinckstraat,28,,
-7415SP,Heyinckstraat,50,,
-7415SP,Heyinckstraat,52,,
-7415SP,Heyinckstraat,30,,
-7415SP,Heyinckstraat,32,,
-7415SP,Heyinckstraat,34,,
-7415SP,Heyinckstraat,36,,
-7415SP,Heyinckstraat,38,,
-7415SP,Heyinckstraat,40,,
-7415SP,Heyinckstraat,42,,
-7415SP,Heyinckstraat,44,,
-7415SP,Heyinckstraat,46,,
-7415SP,Heyinckstraat,48,,
-7415SR,Kosterstraat,3,,
-7415SR,Kosterstraat,5,,
-7415SR,Kosterstraat,7,,
-7415SR,Kosterstraat,9,,
-7415SR,Kosterstraat,11,,
-7415SR,Kosterstraat,13,,
-7415SR,Kosterstraat,15,,
-7415SR,Kosterstraat,17,,
-7415SR,Kosterstraat,19,,
-7415SR,Kosterstraat,21,,
-7415SR,Kosterstraat,23,,
-7415SR,Kosterstraat,25,,
-7415SR,Kosterstraat,27,,
-7415SR,Kosterstraat,29,,
-7415SR,Kosterstraat,31,,
-7415SR,Kosterstraat,33,,
-7415SR,Kosterstraat,35,,
-7415SR,Kosterstraat,37,,
-7415SR,Kosterstraat,39,,
-7415SR,Kosterstraat,41,,
-7415ST,Kosterstraat,43,,
-7415ST,Kosterstraat,45,,
-7415ST,Kosterstraat,47,,
-7415ST,Kosterstraat,49,G,1
-7415ST,Kosterstraat,49,G,2
-7415ST,Kosterstraat,49,G,3
-7415ST,Kosterstraat,49,G,4
-7415ST,Kosterstraat,49,G,5
-7415ST,Kosterstraat,49,,
-7415ST,Kosterstraat,61,,
-7415ST,Kosterstraat,63,,
-7415ST,Kosterstraat,65,,
-7415ST,Kosterstraat,67,,
-7415ST,Kosterstraat,69,,
-7415ST,Kosterstraat,71,,
-7415ST,Kosterstraat,73,,
-7415ST,Kosterstraat,75,,
-7415ST,Kosterstraat,77,,
-7415ST,Kosterstraat,79,,
-7415ST,Kosterstraat,81,,
-7415ST,Kosterstraat,83,,
-7415ST,Kosterstraat,85,,
-7415ST,Kosterstraat,87,,
-7415ST,Kosterstraat,89,,
-7415ST,Kosterstraat,91,,
-7415SV,Kosterstraat,6,,
-7415SV,Kosterstraat,8,,
-7415SV,Kosterstraat,10,,
-7415SV,Kosterstraat,12,,
-7415SV,Kosterstraat,14,,
-7415SV,Kosterstraat,16,,
-7415SV,Kosterstraat,18,,
-7415SV,Kosterstraat,20,,
-7415SV,Kosterstraat,22,,
-7415SV,Kosterstraat,24,,
-7415SV,Kosterstraat,26,,
-7415RM,Finsehof,1,,
-7415RM,Finsehof,2,,
-7415RM,Finsehof,3,,
-7415RM,Finsehof,4,,
-7415RM,Finsehof,5,,
-7415RM,Finsehof,6,,
-7415RM,Finsehof,7,,
-7415RM,Finsehof,8,,
-7415RM,Finsehof,9,,
-7415RM,Finsehof,10,,
-7415RM,Finsehof,11,,
-7415RM,Finsehof,12,,
-7415RM,Finsehof,13,,
-7415RM,Finsehof,14,,
-7415RM,Finsehof,15,,
-7415RM,Finsehof,16,,
-7415RM,Finsehof,17,,
-7415RM,Finsehof,18,,
-7415RM,Finsehof,19,,
-7415RM,Finsehof,20,,
-7415RM,Finsehof,21,,
-7415RM,Finsehof,22,,
-7415RM,Finsehof,23,,
-7415RM,Finsehof,24,,
-7415RN,Finsehof,25,,
-7415RN,Finsehof,26,,
-7415RN,Finsehof,27,,
-7415RN,Finsehof,28,,
-7415RN,Finsehof,29,,
-7415RN,Finsehof,30,,
-7415RN,Finsehof,31,,
-7415RN,Finsehof,32,,
-7415RN,Finsehof,33,,
-7415RN,Finsehof,34,,
-7415RN,Finsehof,35,,
-7415RN,Finsehof,36,,
-7415RN,Finsehof,37,,
-7415RN,Finsehof,38,,
-7415RN,Finsehof,39,,
-7415RN,Finsehof,40,,
-7415RN,Finsehof,41,,
-7415RN,Finsehof,42,,
-7415RN,Finsehof,43,,
-7415RN,Finsehof,44,,
-7415RN,Finsehof,45,,
-7415RN,Finsehof,46,,
-7415RN,Finsehof,47,,
-7415RN,Finsehof,48,,
-7415RN,Finsehof,49,,
-7415RN,Finsehof,50,,
-7415RN,Finsehof,51,,
-7415RN,Finsehof,52,,
-7415RN,Finsehof,53,,
-7415RN,Finsehof,54,,
-7415RN,Finsehof,55,,
-7415RN,Finsehof,56,,
-7415RN,Finsehof,57,,
-7415RN,Finsehof,58,,
-7415RN,Finsehof,59,,
-7415RN,Finsehof,60,,
-7415TA,Nilantstraat,69,,
-7415TA,Nilantstraat,71,,
-7415TA,Nilantstraat,73,,
-7415TA,Nilantstraat,75,,
-7415TB,Nilantstraat,77,,
-7415TB,Nilantstraat,79,,
-7415TB,Nilantstraat,81,,
-7415TB,Nilantstraat,83,,
-7415TB,Nilantstraat,85,,
-7415TB,Nilantstraat,87,,
-7415TB,Nilantstraat,89,,
-7415TB,Nilantstraat,91,,
-7415TB,Nilantstraat,93,,
-7415TB,Nilantstraat,95,,
-7415TB,Nilantstraat,97,,
-7415TB,Nilantstraat,99,,
-7415TB,Nilantstraat,101,,
-7415TB,Nilantstraat,103,,
-7415TB,Nilantstraat,105,,
-7415TB,Nilantstraat,107,,
-7415TB,Nilantstraat,109,,
-7415TB,Nilantstraat,111,,
-7415TB,Nilantstraat,113,,
-7415TB,Nilantstraat,115,,
-7415TB,Nilantstraat,117,,
-7415TB,Nilantstraat,119,,
-7415TC,Nilantstraat,121,,
-7415TC,Nilantstraat,123,,
-7415TC,Nilantstraat,125,,
-7415TC,Nilantstraat,127,,
-7415TC,Nilantstraat,129,,
-7415TC,Nilantstraat,131,,
-7415TC,Nilantstraat,133,,
-7415TC,Nilantstraat,135,,
-7415TC,Nilantstraat,137,,
-7415TC,Nilantstraat,139,,
-7415TC,Nilantstraat,141,,
-7415TC,Nilantstraat,143,,
-7415TC,Nilantstraat,145,,
-7415TC,Nilantstraat,147,,
-7415TC,Nilantstraat,149,,
-7415TC,Nilantstraat,151,,
-7415TC,Nilantstraat,153,,
-7415TC,Nilantstraat,155,,
-7415TC,Nilantstraat,157,,
-7415TD,Nilantstraat,159,,
-7415TD,Nilantstraat,161,,
-7415TD,Nilantstraat,163,,
-7415TD,Nilantstraat,165,,
-7415TD,Nilantstraat,167,,
-7415TD,Nilantstraat,169,,
-7415TD,Nilantstraat,171,,
-7415TD,Nilantstraat,173,,
-7415TD,Nilantstraat,175,,
-7415TD,Nilantstraat,177,,
-7415TD,Nilantstraat,179,,
-7415TD,Nilantstraat,181,,
-7415TD,Nilantstraat,183,,
-7415TD,Nilantstraat,185,,
-7415TD,Nilantstraat,187,,
-7415TD,Nilantstraat,189,,
-7415TD,Nilantstraat,191,,
-7415TD,Nilantstraat,193,,
-7415TD,Nilantstraat,195,,
-7415TD,Nilantstraat,197,,
-7415TE,Nilantstraat,46,,
-7415TE,Nilantstraat,48,,
-7415TG,Nilantstraat,50,,
-7415TG,Nilantstraat,52,,
-7415TG,Nilantstraat,54,,
-7415TG,Nilantstraat,56,,
-7415TG,Nilantstraat,58,,
-7415TG,Nilantstraat,60,,
-7415TG,Nilantstraat,62,,
-7415TG,Nilantstraat,64,,
-7415TG,Nilantstraat,66,,
-7415TG,Nilantstraat,68,,
-7415TG,Nilantstraat,70,,
-7415TG,Nilantstraat,72,,
-7415TG,Nilantstraat,74,,
-7415TG,Nilantstraat,76,,
-7415TG,Nilantstraat,78,,
-7415TG,Nilantstraat,80,,
-7415TG,Nilantstraat,82,,
-7415TG,Nilantstraat,84,,
-7415TG,Nilantstraat,86,,
-7415TG,Nilantstraat,88,,
-7415TG,Nilantstraat,90,,
-7415TG,Nilantstraat,92,,
-7415TH,Nilantstraat,94,,
-7415TH,Nilantstraat,96,,
-7415TH,Nilantstraat,98,,
-7415TH,Nilantstraat,100,,
-7415TH,Nilantstraat,102,,
-7415TH,Nilantstraat,104,,
-7415TH,Nilantstraat,106,,
-7415TH,Nilantstraat,108,,
-7415TH,Nilantstraat,110,,
-7415TH,Nilantstraat,112,,
-7415TH,Nilantstraat,114,,
-7415TH,Nilantstraat,116,,
-7415TH,Nilantstraat,118,,
-7415TH,Nilantstraat,120,,
-7415TH,Nilantstraat,122,,
-7415TH,Nilantstraat,124,,
-7415TH,Nilantstraat,126,,
-7415TH,Nilantstraat,128,,
-7415TJ,Nilantstraat,130,G,1
-7415TJ,Nilantstraat,130,G,2
-7415TJ,Nilantstraat,130,G,3
-7415TJ,Nilantstraat,130,G,4
-7415TJ,Nilantstraat,130,G,5
-7415TJ,Nilantstraat,130,,
-7415TJ,Nilantstraat,132,,
-7415TJ,Nilantstraat,134,,
-7415TJ,Nilantstraat,136,,
-7415TJ,Nilantstraat,138,,
-7415TJ,Nilantstraat,140,,
-7415TJ,Nilantstraat,142,,
-7415TJ,Nilantstraat,144,,
-7415TJ,Nilantstraat,146,,
-7415TJ,Nilantstraat,148,,
-7415TJ,Nilantstraat,150,G,1
-7415TJ,Nilantstraat,150,G,2
-7415TJ,Nilantstraat,150,G,3
-7415TJ,Nilantstraat,150,G,4
-7415TJ,Nilantstraat,150,G,5
-7415TJ,Nilantstraat,150,G,6
-7415TJ,Nilantstraat,150,,
-7415TK,Pamontstraat,1,,
-7415TK,Pamontstraat,3,,
-7415TK,Pamontstraat,5,,
-7415TK,Pamontstraat,7,,
-7415TK,Pamontstraat,9,,
-7415TK,Pamontstraat,11,,
-7415TK,Pamontstraat,13,,
-7415TK,Pamontstraat,15,,
-7415TK,Pamontstraat,17,,
-7415TK,Pamontstraat,19,,
-7415TK,Pamontstraat,21,,
-7415TK,Pamontstraat,23,,
-7415TK,Pamontstraat,25,,
-7415TL,Pamontstraat,2,,
-7415TL,Pamontstraat,4,,
-7415TL,Pamontstraat,6,,
-7415TL,Pamontstraat,8,,
-7415TL,Pamontstraat,10,,
-7415TL,Pamontstraat,12,,
-7415TL,Pamontstraat,14,,
-7415TL,Pamontstraat,16,,
-7415TL,Pamontstraat,18,,
-7415TL,Pamontstraat,20,,
-7415TL,Pamontstraat,22,,
-7415TL,Pamontstraat,24,,
-7415TL,Pamontstraat,26,,
-7415TL,Pamontstraat,28,,
-7415TL,Pamontstraat,30,,
-7415TL,Pamontstraat,32,,
-7415TL,Pamontstraat,34,,
-7415TL,Pamontstraat,36,,
-7415TL,Pamontstraat,38,,
-7415TL,Pamontstraat,40,,
-7415TL,Pamontstraat,42,,
-7415GA,Hoge Hondstraat,129,,
-7415GA,Hoge Hondstraat,131,,
-7415GA,Hoge Hondstraat,133,,
-7415GA,Hoge Hondstraat,135,,
-7415GA,Hoge Hondstraat,137,,
-7415GA,Hoge Hondstraat,139,,
-7415GA,Hoge Hondstraat,141,,
-7415GA,Hoge Hondstraat,143,A,
-7415GA,Hoge Hondstraat,143,B,
-7415GA,Hoge Hondstraat,143,C,
-7415GA,Hoge Hondstraat,143,,
-7415GA,Hoge Hondstraat,145,,
-7415GA,Hoge Hondstraat,147,,
-7415GA,Hoge Hondstraat,149,,
-7415GA,Hoge Hondstraat,151,,
-7415GA,Hoge Hondstraat,153,,
-7415GA,Hoge Hondstraat,155,,
-7415GA,Hoge Hondstraat,157,,
-7415GA,Hoge Hondstraat,159,,
-7415GA,Hoge Hondstraat,125,,
-7415GA,Hoge Hondstraat,127,,
-7415GB,Hoge Hondstraat,161,,
-7415GB,Hoge Hondstraat,163,,
-7415GB,Hoge Hondstraat,165,,
-7415GB,Hoge Hondstraat,167,,
-7415GB,Hoge Hondstraat,169,,
-7415GB,Hoge Hondstraat,171,,
-7415GB,Hoge Hondstraat,173,,
-7415GB,Hoge Hondstraat,175,,
-7415GB,Hoge Hondstraat,177,,
-7415GB,Hoge Hondstraat,179,,
-7415GB,Hoge Hondstraat,181,,
-7415GB,Hoge Hondstraat,183,,
-7415GB,Hoge Hondstraat,185,,
-7415GB,Hoge Hondstraat,187,,
-7415GB,Hoge Hondstraat,189,,
-7415GB,Hoge Hondstraat,191,,
-7415GB,Hoge Hondstraat,193,,
-7415GB,Hoge Hondstraat,195,,
-7415GB,Hoge Hondstraat,197,,
-7415JP,Margijnenenk,1,G,1
-7415JP,Margijnenenk,1,G,2
-7415JP,Margijnenenk,1,G,3
-7415JP,Margijnenenk,1,G,4
-7415JP,Margijnenenk,1,G,5
-7415JP,Margijnenenk,1,,
-7415JP,Margijnenenk,3,,
-7415JP,Margijnenenk,5,,
-7415JP,Margijnenenk,7,,
-7415JP,Margijnenenk,9,,
-7415JP,Margijnenenk,11,,
-7415JP,Margijnenenk,13,,
-7415JP,Margijnenenk,15,,
-7415JP,Margijnenenk,17,,
-7415JP,Margijnenenk,19,,
-7415JP,Margijnenenk,21,,
-7415JP,Margijnenenk,23,T,
-7415JP,Margijnenenk,23,,
-7415JP,Margijnenenk,27,,
-7415JP,Margijnenenk,29,,
-7415JP,Margijnenenk,31,,
-7415JP,Margijnenenk,33,,
-7415JP,Margijnenenk,35,,
-7415JP,Margijnenenk,37,,
-7415JR,Margijnenenk,39,,
-7415JR,Margijnenenk,41,,
-7415JR,Margijnenenk,43,,
-7415JR,Margijnenenk,45,,
-7415JR,Margijnenenk,47,,
-7415JR,Margijnenenk,49,,
-7415JR,Margijnenenk,51,,
-7415JR,Margijnenenk,53,,
-7415JR,Margijnenenk,55,,
-7415JR,Margijnenenk,57,,
-7415JR,Margijnenenk,59,,
-7415JR,Margijnenenk,61,,
-7415JR,Margijnenenk,63,,
-7415JR,Margijnenenk,65,,
-7415JR,Margijnenenk,67,,
-7415JR,Margijnenenk,69,,
-7415JR,Margijnenenk,71,,
-7415JR,Margijnenenk,73,,
-7415JR,Margijnenenk,77,,
-7415JR,Margijnenenk,79,,
-7415JR,Margijnenenk,81,,
-7415JR,Margijnenenk,83,,
-7415JR,Margijnenenk,85,,
-7415JR,Margijnenenk,87,,
-7415JS,Margijnenenk,89,,
-7415JS,Margijnenenk,91,,
-7415JS,Margijnenenk,93,,
-7415JS,Margijnenenk,95,,
-7415JS,Margijnenenk,97,,
-7415JS,Margijnenenk,99,,
-7415JS,Margijnenenk,101,,
-7415JS,Margijnenenk,103,,
-7415JS,Margijnenenk,105,,
-7415JS,Margijnenenk,107,,
-7415JS,Margijnenenk,109,,
-7415JS,Margijnenenk,111,,
-7415JS,Margijnenenk,113,,
-7415JS,Margijnenenk,115,,
-7415JS,Margijnenenk,117,,
-7415JS,Margijnenenk,119,,
-7415JS,Margijnenenk,121,,
-7415JS,Margijnenenk,123,,
-7415SX,Van Vredenstraat,1,,
-7415SX,van Vredenstraat,1,,
-7415SX,Van Vredenstraat,3,,
-7415SX,van Vredenstraat,3,,
-7415SX,Van Vredenstraat,5,,
-7415SX,van Vredenstraat,5,,
-7415SX,Van Vredenstraat,7,,
-7415SX,van Vredenstraat,7,,
-7415SX,Van Vredenstraat,9,,
-7415SX,van Vredenstraat,9,,
-7415SX,Van Vredenstraat,11,G,1
-7415SX,van Vredenstraat,11,G,1
-7415SX,Van Vredenstraat,11,G,2
-7415SX,van Vredenstraat,11,G,2
-7415SX,Van Vredenstraat,11,G,3
-7415SX,van Vredenstraat,11,G,3
-7415SX,Van Vredenstraat,11,G,4
-7415SX,van Vredenstraat,11,G,4
-7415SX,Van Vredenstraat,11,G,5
-7415SX,van Vredenstraat,11,G,5
-7415SX,Van Vredenstraat,11,G,6
-7415SX,van Vredenstraat,11,G,6
-7415SX,Van Vredenstraat,11,G,7
-7415SX,van Vredenstraat,11,G,7
-7415SX,Van Vredenstraat,11,G,8
-7415SX,van Vredenstraat,11,G,8
-7415SX,Van Vredenstraat,11,G,9
-7415SX,van Vredenstraat,11,G,9
-7415SX,Van Vredenstraat,11,G,10
-7415SX,van Vredenstraat,11,G,10
-7415SX,Van Vredenstraat,11,G,11
-7415SX,van Vredenstraat,11,G,11
-7415SX,Van Vredenstraat,11,G,12
-7415SX,van Vredenstraat,11,G,12
-7415SX,Van Vredenstraat,11,G,13
-7415SX,van Vredenstraat,11,G,13
-7415SX,Van Vredenstraat,11,G,14
-7415SX,van Vredenstraat,11,G,14
-7415SX,Van Vredenstraat,11,G,15
-7415SX,van Vredenstraat,11,G,15
-7415SX,Van Vredenstraat,11,G,16
-7415SX,van Vredenstraat,11,G,16
-7415SX,Van Vredenstraat,11,G,17
-7415SX,van Vredenstraat,11,G,17
-7415SX,Van Vredenstraat,11,,
-7415SX,van Vredenstraat,11,,
-7415SX,Van Vredenstraat,25,,
-7415SX,van Vredenstraat,25,,
-7415SX,Van Vredenstraat,27,,
-7415SX,van Vredenstraat,27,,
-7415SX,Van Vredenstraat,29,,
-7415SX,van Vredenstraat,29,,
-7415SX,Van Vredenstraat,31,,
-7415SX,van Vredenstraat,31,,
-7415SX,Van Vredenstraat,33,,
-7415SX,van Vredenstraat,33,,
-7415SX,Van Vredenstraat,35,,
-7415SX,van Vredenstraat,35,,
-7415SX,Van Vredenstraat,37,,
-7415SX,van Vredenstraat,37,,
-7415SX,Van Vredenstraat,39,G,1
-7415SX,van Vredenstraat,39,G,1
-7415SX,Van Vredenstraat,39,G,2
-7415SX,van Vredenstraat,39,G,2
-7415SX,Van Vredenstraat,39,G,3
-7415SX,van Vredenstraat,39,G,3
-7415SX,Van Vredenstraat,39,G,4
-7415SX,van Vredenstraat,39,G,4
-7415SX,Van Vredenstraat,39,G,5
-7415SX,van Vredenstraat,39,G,5
-7415SX,Van Vredenstraat,39,G,6
-7415SX,van Vredenstraat,39,G,6
-7415SX,Van Vredenstraat,39,G,7
-7415SX,van Vredenstraat,39,G,7
-7415SX,Van Vredenstraat,39,G,8
-7415SX,van Vredenstraat,39,G,8
-7415SX,Van Vredenstraat,39,G,9
-7415SX,van Vredenstraat,39,G,9
-7415SX,Van Vredenstraat,39,G,10
-7415SX,van Vredenstraat,39,G,10
-7415SX,Van Vredenstraat,39,G,11
-7415SX,van Vredenstraat,39,G,11
-7415SX,Van Vredenstraat,39,,
-7415SX,van Vredenstraat,39,,
-7415SX,Van Vredenstraat,63,,
-7415SX,van Vredenstraat,63,,
-7415SX,Van Vredenstraat,65,,
-7415SX,van Vredenstraat,65,,
-7415SX,Van Vredenstraat,67,,
-7415SX,van Vredenstraat,67,,
-7415SX,Van Vredenstraat,69,,
-7415SX,van Vredenstraat,69,,
-7415SX,Van Vredenstraat,71,,
-7415SX,van Vredenstraat,71,,
-7415SX,Van Vredenstraat,73,,
-7415SX,van Vredenstraat,73,,
-7415SX,Van Vredenstraat,75,,
-7415SX,van Vredenstraat,75,,
-7415TM,Putmanstraat,1,A,
-7415TM,Putmanstraat,1,B,
-7415TM,Putmanstraat,1,,
-7415TM,Putmanstraat,3,,
-7415TM,Putmanstraat,5,,
-7415TM,Putmanstraat,7,,
-7415TM,Putmanstraat,9,,
-7415TM,Putmanstraat,11,,
-7415TM,Putmanstraat,13,,
-7415TM,Putmanstraat,15,,
-7415TM,Putmanstraat,17,,
-7415TM,Putmanstraat,19,,
-7415TM,Putmanstraat,21,,
-7415TM,Putmanstraat,23,,
-7415TM,Putmanstraat,25,,
-7415TM,Putmanstraat,27,,
-7415TM,Putmanstraat,29,,
-7415TM,Putmanstraat,31,,
-7415TM,Putmanstraat,33,,
-7415TM,Putmanstraat,35,,
-7415TM,Putmanstraat,37,A,
-7415TM,Putmanstraat,37,,
-7415TM,Putmanstraat,39,,
-7415TM,Putmanstraat,41,,
-7415TM,Putmanstraat,43,,
-7415TM,Putmanstraat,45,,
-7415TM,Putmanstraat,47,,
-7415TP,Putmanstraat,2,,
-7415TP,Putmanstraat,4,,
-7415TP,Putmanstraat,6,,
-7415TP,Putmanstraat,8,,
-7415TP,Putmanstraat,10,,
-7415TP,Putmanstraat,12,,
-7415TP,Putmanstraat,14,,
-7415TP,Putmanstraat,16,,
-7415TP,Putmanstraat,18,,
-7415TP,Putmanstraat,20,,
-7415TP,Putmanstraat,22,,
-7415TP,Putmanstraat,24,,
-7415TP,Putmanstraat,26,,
-7415TP,Putmanstraat,28,,
-7415TP,Putmanstraat,30,,
-7415TP,Putmanstraat,32,,
-7415TP,Putmanstraat,34,,
-7415TP,Putmanstraat,36,,
-7415TP,Putmanstraat,38,,
-7415TP,Putmanstraat,40,,
-7415TP,Putmanstraat,42,,
-7415TP,Putmanstraat,44,,
-7415TP,Putmanstraat,46,,
-7415TP,Putmanstraat,48,,
-7415TR,Putmanstraat,50,,
-7415TR,Putmanstraat,52,,
-7415TR,Putmanstraat,54,,
-7415TR,Putmanstraat,56,,
-7415TR,Putmanstraat,58,,
-7415TR,Putmanstraat,60,,
-7415TR,Putmanstraat,62,,
-7415TR,Putmanstraat,64,,
-7415TR,Putmanstraat,66,,
-7415TR,Putmanstraat,68,,
-7415TR,Putmanstraat,70,,
-7415TR,Putmanstraat,72,,
-7415TR,Putmanstraat,74,,
-7415TR,Putmanstraat,76,,
-7415TR,Putmanstraat,78,,
-7415TR,Putmanstraat,80,,
-7415TR,Putmanstraat,82,,
-7415TR,Putmanstraat,84,,
-7415TR,Putmanstraat,86,,
-7415TR,Putmanstraat,88,,
-7415TR,Putmanstraat,90,,
-7415TR,Putmanstraat,92,,
-7415TR,Putmanstraat,94,,
-7415RS,Sloetstraat,1,,
-7415RS,Sloetstraat,3,,
-7415RS,Sloetstraat,5,,
-7415RS,Sloetstraat,7,,
-7415RS,Sloetstraat,9,,
-7415RS,Sloetstraat,11,,
-7415RS,Sloetstraat,13,,
-7415RS,Sloetstraat,15,,
-7415RS,Sloetstraat,17,,
-7415RS,Sloetstraat,19,,
-7415RS,Sloetstraat,21,,
-7415RS,Sloetstraat,23,,
-7415RS,Sloetstraat,25,,
-7415RS,Sloetstraat,27,,
-7415RS,Sloetstraat,29,,
-7415RS,Sloetstraat,31,,
-7415RS,Sloetstraat,33,,
-7415RS,Sloetstraat,35,,
-7415RS,Sloetstraat,37,,
-7415RT,Sloetstraat,2,,
-7415RT,Sloetstraat,4,,
-7415RT,Sloetstraat,6,,
-7415RT,Sloetstraat,8,,
-7415RT,Sloetstraat,10,,
-7415RT,Sloetstraat,12,,
-7415RT,Sloetstraat,14,,
-7415RT,Sloetstraat,16,,
-7415RT,Sloetstraat,18,,
-7415RT,Sloetstraat,20,,
-7415RT,Sloetstraat,22,,
-7415RT,Sloetstraat,24,,
-7415RT,Sloetstraat,26,,
-7415RT,Sloetstraat,28,,
-7415RT,Sloetstraat,30,,
-7415RT,Sloetstraat,32,,
-7415RT,Sloetstraat,34,,
-7415RT,Sloetstraat,36,,
-7415RT,Sloetstraat,38,,
-7415RT,Sloetstraat,40,,
-7415RT,Sloetstraat,42,,
-7415RT,Sloetstraat,44,,
-7415RT,Sloetstraat,46,,
-7415RT,Sloetstraat,48,,
-7415RT,Sloetstraat,50,,
-7415AR,Spijkerpad,1,A,
-7415AR,Spijkerpad,1,,
-7415AR,Spijkerpad,3,,
-7415AR,Spijkerpad,5,,
-7415AR,Spijkerpad,7,,
-7415AR,Spijkerpad,9,,
-7415AR,Spijkerpad,11,,
-7415AR,Spijkerpad,13,,
-7415AR,Spijkerpad,15,,
-7415AR,Spijkerpad,17,,
-7415AR,Spijkerpad,19,,
-7415AR,Spijkerpad,21,,
-7415AR,Spijkerpad,23,,
-7415AR,Spijkerpad,25,,
-7415AR,Spijkerpad,27,,
-7415AR,Spijkerpad,29,,
-7415AR,Spijkerpad,31,,
-7415AR,Spijkerpad,33,,
-7415AR,Spijkerpad,35,,
-7415AR,Spijkerpad,37,,
-7415AS,Spijkerpad,39,,
-7415AS,Spijkerpad,41,,
-7415AS,Spijkerpad,43,,
-7415AS,Spijkerpad,45,,
-7415AS,Spijkerpad,47,,
-7415AS,Spijkerpad,49,,
-7415AS,Spijkerpad,51,,
-7415AS,Spijkerpad,53,,
-7415AS,Spijkerpad,55,,
-7415AS,Spijkerpad,57,,
-7415AS,Spijkerpad,59,,
-7415AS,Spijkerpad,61,,
-7415AS,Spijkerpad,63,,
-7415AS,Spijkerpad,65,,
-7415AS,Spijkerpad,67,,
-7415AS,Spijkerpad,69,,
-7415AS,Spijkerpad,71,,
-7415AS,Spijkerpad,73,,
-7415AT,Spijkerpad,75,,
-7415AT,Spijkerpad,77,,
-7415AT,Spijkerpad,79,,
-7415AT,Spijkerpad,81,,
-7415AT,Spijkerpad,83,,
-7415AT,Spijkerpad,85,,
-7415AT,Spijkerpad,87,,
-7415AT,Spijkerpad,89,,
-7415AT,Spijkerpad,91,,
-7415AT,Spijkerpad,93,,
-7415AT,Spijkerpad,95,,
-7415AT,Spijkerpad,97,,
-7415AV,Spijkerpad,2,A,
-7415AV,Spijkerpad,2,T,
-7415AV,Spijkerpad,2,,
-7415AV,Spijkerpad,4,,
-7415AV,Spijkerpad,6,,
-7415AV,Spijkerpad,8,,
-7415AV,Spijkerpad,10,,
-7415AV,Spijkerpad,12,,
-7415AV,Spijkerpad,14,,
-7415AV,Spijkerpad,16,,
-7415AV,Spijkerpad,18,,
-7415AV,Spijkerpad,20,,
-7415AV,Spijkerpad,22,,
-7415AV,Spijkerpad,24,,
-7415AV,Spijkerpad,26,,
-7415AV,Spijkerpad,28,,
-7415AV,Spijkerpad,30,,
-7415AV,Spijkerpad,32,,
-7415AW,Spijkerpad,34,,
-7415AW,Spijkerpad,36,,
-7415AW,Spijkerpad,38,,
-7415AW,Spijkerpad,40,,
-7415AW,Spijkerpad,42,,
-7415AW,Spijkerpad,44,,
-7415AW,Spijkerpad,46,,
-7415AW,Spijkerpad,48,,
-7415AW,Spijkerpad,50,,
-7415AW,Spijkerpad,52,,
-7415AW,Spijkerpad,54,,
-7415AW,Spijkerpad,56,,
-7415AW,Spijkerpad,58,,
-7415AW,Spijkerpad,60,,
-7415AW,Spijkerpad,62,,
-7415AW,Spijkerpad,64,,
-7415AW,Spijkerpad,66,,
-7415AW,Spijkerpad,68,,
-7415AW,Spijkerpad,70,,
-7415AW,Spijkerpad,72,,
-7415SW,Scholierstraat,1,,
-7415SW,Scholierstraat,2,,
-7415SW,Scholierstraat,4,,
-7415SW,Scholierstraat,6,,
-7415SW,Scholierstraat,8,,
-7415SW,Scholierstraat,10,,
-7415SW,Scholierstraat,12,,
-7415SW,Scholierstraat,14,,
-7415SW,Scholierstraat,16,,
-7415SW,Scholierstraat,18,,
-7415SW,Scholierstraat,20,,
-7415SW,Scholierstraat,22,,
-7415SW,Scholierstraat,24,,
-7415SW,Scholierstraat,26,,
-7415SW,Scholierstraat,28,,
-7415SW,Scholierstraat,30,,
-7415SW,Scholierstraat,32,,
-7415RZ,Verwerstraat,1,,
-7415RZ,Verwerstraat,3,,
-7415RZ,Verwerstraat,5,,
-7415RZ,Verwerstraat,7,,
-7415RZ,Verwerstraat,9,,
-7415RZ,Verwerstraat,11,,
-7415RZ,Verwerstraat,13,,
-7415RZ,Verwerstraat,15,,
-7415RZ,Verwerstraat,17,,
-7415RZ,Verwerstraat,19,,
-7415RZ,Verwerstraat,21,,
-7415RZ,Verwerstraat,23,,
-7415RZ,Verwerstraat,27,,
-7415RZ,Verwerstraat,29,,
-7415RZ,Verwerstraat,31,,
-7415RZ,Verwerstraat,33,,
-7415RZ,Verwerstraat,35,,
-7415RZ,Verwerstraat,37,,
-7415RZ,Verwerstraat,39,,
-7415RZ,Verwerstraat,41,,
-7415SB,Verwerstraat,2,,
-7415SB,Verwerstraat,4,,
-7415SB,Verwerstraat,6,,
-7415SB,Verwerstraat,8,,
-7415SB,Verwerstraat,10,,
-7415SB,Verwerstraat,12,,
-7415SB,Verwerstraat,14,,
-7415SB,Verwerstraat,16,,
-7415SB,Verwerstraat,18,,
-7415SB,Verwerstraat,20,,
-7415SB,Verwerstraat,22,,
-7415SB,Verwerstraat,24,,
-7415SB,Verwerstraat,26,,
-7415SB,Verwerstraat,28,,
-7415SC,Verwerstraat,30,,
-7415SC,Verwerstraat,32,,
-7415SC,Verwerstraat,34,,
-7415SC,Verwerstraat,36,,
-7415SC,Verwerstraat,38,,
-7415SC,Verwerstraat,40,,
-7415SC,Verwerstraat,42,,
-7415SC,Verwerstraat,44,,
-7415SC,Verwerstraat,46,,
-7415SC,Verwerstraat,48,,
-7415SC,Verwerstraat,50,,
-7415SC,Verwerstraat,52,,
-7415SC,Verwerstraat,54,,
-7415SC,Verwerstraat,56,,
-7415SC,Verwerstraat,58,,
-7415SC,Verwerstraat,60,,
-7415TN,Van Hetenstraat,150,,
-7415TN,Van Hetenstraat,152,,
-7415TN,Van Hetenstraat,154,,
-7415TN,Van Hetenstraat,156,,
-7415TN,Van Hetenstraat,158,,
-7415TN,Van Hetenstraat,160,,
-7415TN,Van Hetenstraat,162,,
-7415TN,Van Hetenstraat,164,,
-7415TN,Van Hetenstraat,166,,
-7415TN,Van Hetenstraat,168,,
-7415TN,Van Hetenstraat,170,,
-7415TN,Van Hetenstraat,172,,
-7415TN,Van Hetenstraat,178,,
-7415TW,Van Hetenstraat,60,T,
-7415TW,Van Hetenstraat,60,,
-7415TW,Van Hetenstraat,62,,
-7415TW,Van Hetenstraat,64,,
-7415TW,Van Hetenstraat,66,,
-7415TW,Van Hetenstraat,68,,
-7415TW,Van Hetenstraat,70,,
-7415TW,Van Hetenstraat,72,,
-7415TW,Van Hetenstraat,74,,
-7415TW,Van Hetenstraat,76,,
-7415TW,Van Hetenstraat,78,,
-7415TW,Van Hetenstraat,80,,
-7415TW,Van Hetenstraat,82,,
-7415TW,Van Hetenstraat,84,,
-7415TW,Van Hetenstraat,86,,
-7415TW,Van Hetenstraat,88,,
-7415TW,Van Hetenstraat,90,,
-7415TW,Van Hetenstraat,92,,
-7415TW,Van Hetenstraat,94,,
-7415TW,Van Hetenstraat,96,,
-7415TW,Van Hetenstraat,98,A,
-7415TW,Van Hetenstraat,98,B,
-7415TW,Van Hetenstraat,98,C,
-7415TX,Van Hetenstraat,100,B,
-7415TX,Van Hetenstraat,100,C,
-7415TX,Van Hetenstraat,100,,
-7415TX,Van Hetenstraat,102,A,
-7415TX,Van Hetenstraat,102,B,
-7415TX,Van Hetenstraat,102,C,
-7415TX,Van Hetenstraat,102,,
-7415TX,Van Hetenstraat,104,A,
-7415TX,Van Hetenstraat,104,B,
-7415TX,Van Hetenstraat,104,C,
-7415TX,Van Hetenstraat,104,,
-7415TX,Van Hetenstraat,108,,
-7415TX,Van Hetenstraat,114,,
-7415TX,Van Hetenstraat,116,,
-7415TX,Van Hetenstraat,118,,
-7415TX,Van Hetenstraat,120,,
-7415TX,Van Hetenstraat,122,,
-7415TX,Van Hetenstraat,124,,
-7415TX,Van Hetenstraat,126,,
-7415TX,Van Hetenstraat,128,,
-7415TX,Van Hetenstraat,130,,
-7415TX,Van Hetenstraat,132,,
-7415TX,Van Hetenstraat,132,,
-7415TX,Van Hetenstraat,134,,
-7415TX,Van Hetenstraat,136,,
-7415TX,Van Hetenstraat,138,,
-7415TX,Van Hetenstraat,140,,
-7415TX,Van Hetenstraat,142,,
-7415TX,Van Hetenstraat,144,,
-7415TX,Van Hetenstraat,146,,
-7415TX,Van Hetenstraat,148,,
-7415TX,Van Hetenstraat,100,A,
-7415TZ,Van Hetenstraat,180,,
-7415TZ,Van Hetenstraat,182,,
-7415TZ,Van Hetenstraat,184,,
-7415TZ,Van Hetenstraat,186,,
-7415TZ,Van Hetenstraat,188,,
-7415TZ,Van Hetenstraat,190,,
-7415TZ,Van Hetenstraat,192,,
-7415TZ,Van Hetenstraat,194,G,1
-7415TZ,Van Hetenstraat,194,G,2
-7415TZ,Van Hetenstraat,194,G,3
-7415TZ,Van Hetenstraat,194,G,4
-7415TZ,Van Hetenstraat,194,,
-7415TZ,Van Hetenstraat,196,,
-7415TZ,Van Hetenstraat,198,,
-7415TZ,Van Hetenstraat,200,,
-7415TZ,Van Hetenstraat,202,,
-7415TZ,Van Hetenstraat,204,,
-7415TZ,Van Hetenstraat,206,,
-7415TZ,Van Hetenstraat,208,,
-7415TZ,Van Hetenstraat,210,,
-7415TZ,Van Hetenstraat,212,,
-7415TZ,Van Hetenstraat,214,,
-7415TZ,Van Hetenstraat,216,,
-7415TZ,Van Hetenstraat,218,,
-7415TZ,Van Hetenstraat,220,,
-7415TZ,Van Hetenstraat,222,,
-7415TZ,Van Hetenstraat,224,,
-7415TZ,Van Hetenstraat,226,,
-7415TZ,Van Hetenstraat,228,,
-7415TZ,Van Hetenstraat,230,,
-7415TZ,Van Hetenstraat,232,,
-7415TZ,Van Hetenstraat,234,,
-7415TZ,Van Hetenstraat,236,,
-7415TZ,Van Hetenstraat,238,,
-7415TZ,Van Hetenstraat,240,,
-7415TZ,Van Hetenstraat,242,,
-7415JN,Van Marckelplein,1,,
-7415JN,van Marckelplein,1,,
-7415JN,Van Marckelplein,2,,
-7415JN,van Marckelplein,2,,
-7415JN,Van Marckelplein,3,,
-7415JN,van Marckelplein,3,,
-7415JN,Van Marckelplein,4,,
-7415JN,van Marckelplein,4,,
-7415JN,Van Marckelplein,5,,
-7415JN,van Marckelplein,5,,
-7415JN,Van Marckelplein,6,,
-7415JN,van Marckelplein,6,,
-7415JN,Van Marckelplein,7,,
-7415JN,van Marckelplein,7,,
-7415JN,Van Marckelplein,8,,
-7415JN,van Marckelplein,8,,
-7415JN,Van Marckelplein,9,,
-7415JN,van Marckelplein,9,,
-7415JN,Van Marckelplein,10,,
-7415JN,van Marckelplein,10,,
-7415JN,Van Marckelplein,11,,
-7415JN,van Marckelplein,11,,
-7415TA,Nilantstraat,37,,
-7415TA,Nilantstraat,39,,
-7415TA,Nilantstraat,41,,
-7415TA,Nilantstraat,43,,
-7415TA,Nilantstraat,45,,
-7415TA,Nilantstraat,47,,
-7415TA,Nilantstraat,49,,
-7415TA,Nilantstraat,51,,
-7415TE,Nilantstraat,2,,
-7415TE,Nilantstraat,4,,
-7415TE,Nilantstraat,6,,
-7415TE,Nilantstraat,8,,
-7415TE,Nilantstraat,10,,
-7415TE,Nilantstraat,12,,
-7415TE,Nilantstraat,14,,
-7415TE,Nilantstraat,16,,
-7415TE,Nilantstraat,18,,
-7415TE,Nilantstraat,20,,
-7415TE,Nilantstraat,22,,
-7415TM,Putmanstraat,35,,
-7415TM,Putmanstraat,35,,
-7415TM,Putmanstraat,35,A,
-7415TM,Putmanstraat,35,A,
-7415TM,Putmanstraat,35,A,
-7415SB,Verwerstraat,14,a,
-7415SB,Verwerstraat,14,A,
-7415TN,Van Hetenstraat,178,,
-7415SE,Dapperstraat,3,,
-7415SE,Dapperstraat,5,,
-7415SE,Dapperstraat,7,,
-7415SE,Dapperstraat,9,,
-7415SB,Verwerstraat,14,,
-7415GA,Hoge Hondstraat,145,,
-7415GA,Hoge Hondstraat,145,,
-7415GA,Hoge Hondstraat,143,D,
-7415GA,Hoge Hondstraat,145,,
-7415GA,Hoge Hondstraat,145,A,
-7415GA,Hoge Hondstraat,145,C,
-7415GA,Hoge Hondstraat,145,D,
-7415GA,Hoge Hondstraat,145,E,
-7415GA,Hoge Hondstraat,145,F,
-7415GA,Hoge Hondstraat,145,G,
-7415GA,Hoge Hondstraat,145,H,
-7415GA,Hoge Hondstraat,145,H,
-7415GA,Hoge Hondstraat,145,K,
-7415GA,Hoge Hondstraat,145,L,
-7415GA,Hoge Hondstraat,145,M,
-7415GA,Hoge Hondstraat,145,M,
-7415GA,Hoge Hondstraat,145,B,
-7415GA,Hoge Hondstraat,145,B,
-7415SE,Hoge Hondstraat,145,K,
-7415SE,Hoge Hondstraat,145,L,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Ceintuurbaan,10,"","",7415AL,Deventer
+Ceintuurbaan,12,"","",7415AL,Deventer
+Ceintuurbaan,14,"","",7415AL,Deventer
+Ceintuurbaan,18,"","",7415AL,Deventer
+Ceintuurbaan,18,A,"",7415AL,Deventer
+Ceintuurbaan,18,B,"",7415AL,Deventer
+Ceintuurbaan,2,"","",7415AL,Deventer
+Ceintuurbaan,4,"","",7415AL,Deventer
+Ceintuurbaan,4,T,"",7415AL,Deventer
+Ceintuurbaan,8,A,"",7415AL,Deventer
+Ceintuurbaan,8,F,1,7415AL,Deventer
+Ceintuurbaan,8,F,10,7415AL,Deventer
+Ceintuurbaan,8,F,11,7415AL,Deventer
+Ceintuurbaan,8,F,12,7415AL,Deventer
+Ceintuurbaan,8,F,13,7415AL,Deventer
+Ceintuurbaan,8,F,14,7415AL,Deventer
+Ceintuurbaan,8,F,15,7415AL,Deventer
+Ceintuurbaan,8,F,16,7415AL,Deventer
+Ceintuurbaan,8,F,17,7415AL,Deventer
+Ceintuurbaan,8,F,18,7415AL,Deventer
+Ceintuurbaan,8,F,2,7415AL,Deventer
+Ceintuurbaan,8,F,3,7415AL,Deventer
+Ceintuurbaan,8,F,4,7415AL,Deventer
+Ceintuurbaan,8,F,5,7415AL,Deventer
+Ceintuurbaan,8,F,6,7415AL,Deventer
+Ceintuurbaan,8,F,7,7415AL,Deventer
+Ceintuurbaan,8,F,8,7415AL,Deventer
+Ceintuurbaan,8,F,9,7415AL,Deventer
+Ceintuurbaan,8,T,"",7415AL,Deventer
+Spijkerpad,1,"","",7415AR,Deventer
+Spijkerpad,1,A,"",7415AR,Deventer
+Spijkerpad,11,"","",7415AR,Deventer
+Spijkerpad,13,"","",7415AR,Deventer
+Spijkerpad,15,"","",7415AR,Deventer
+Spijkerpad,17,"","",7415AR,Deventer
+Spijkerpad,19,"","",7415AR,Deventer
+Spijkerpad,21,"","",7415AR,Deventer
+Spijkerpad,23,"","",7415AR,Deventer
+Spijkerpad,25,"","",7415AR,Deventer
+Spijkerpad,27,"","",7415AR,Deventer
+Spijkerpad,29,"","",7415AR,Deventer
+Spijkerpad,3,"","",7415AR,Deventer
+Spijkerpad,31,"","",7415AR,Deventer
+Spijkerpad,33,"","",7415AR,Deventer
+Spijkerpad,35,"","",7415AR,Deventer
+Spijkerpad,37,"","",7415AR,Deventer
+Spijkerpad,5,"","",7415AR,Deventer
+Spijkerpad,7,"","",7415AR,Deventer
+Spijkerpad,9,"","",7415AR,Deventer
+Spijkerpad,39,"","",7415AS,Deventer
+Spijkerpad,41,"","",7415AS,Deventer
+Spijkerpad,43,"","",7415AS,Deventer
+Spijkerpad,45,"","",7415AS,Deventer
+Spijkerpad,47,"","",7415AS,Deventer
+Spijkerpad,49,"","",7415AS,Deventer
+Spijkerpad,51,"","",7415AS,Deventer
+Spijkerpad,53,"","",7415AS,Deventer
+Spijkerpad,55,"","",7415AS,Deventer
+Spijkerpad,57,"","",7415AS,Deventer
+Spijkerpad,59,"","",7415AS,Deventer
+Spijkerpad,61,"","",7415AS,Deventer
+Spijkerpad,63,"","",7415AS,Deventer
+Spijkerpad,65,"","",7415AS,Deventer
+Spijkerpad,67,"","",7415AS,Deventer
+Spijkerpad,69,"","",7415AS,Deventer
+Spijkerpad,71,"","",7415AS,Deventer
+Spijkerpad,73,"","",7415AS,Deventer
+Spijkerpad,75,"","",7415AT,Deventer
+Spijkerpad,77,"","",7415AT,Deventer
+Spijkerpad,79,"","",7415AT,Deventer
+Spijkerpad,81,"","",7415AT,Deventer
+Spijkerpad,83,"","",7415AT,Deventer
+Spijkerpad,85,"","",7415AT,Deventer
+Spijkerpad,87,"","",7415AT,Deventer
+Spijkerpad,89,"","",7415AT,Deventer
+Spijkerpad,91,"","",7415AT,Deventer
+Spijkerpad,93,"","",7415AT,Deventer
+Spijkerpad,95,"","",7415AT,Deventer
+Spijkerpad,97,"","",7415AT,Deventer
+Spijkerpad,10,"","",7415AV,Deventer
+Spijkerpad,12,"","",7415AV,Deventer
+Spijkerpad,14,"","",7415AV,Deventer
+Spijkerpad,16,"","",7415AV,Deventer
+Spijkerpad,18,"","",7415AV,Deventer
+Spijkerpad,2,"","",7415AV,Deventer
+Spijkerpad,2,A,"",7415AV,Deventer
+Spijkerpad,2,T,"",7415AV,Deventer
+Spijkerpad,20,"","",7415AV,Deventer
+Spijkerpad,22,"","",7415AV,Deventer
+Spijkerpad,24,"","",7415AV,Deventer
+Spijkerpad,26,"","",7415AV,Deventer
+Spijkerpad,28,"","",7415AV,Deventer
+Spijkerpad,30,"","",7415AV,Deventer
+Spijkerpad,32,"","",7415AV,Deventer
+Spijkerpad,4,"","",7415AV,Deventer
+Spijkerpad,6,"","",7415AV,Deventer
+Spijkerpad,8,"","",7415AV,Deventer
+Spijkerpad,34,"","",7415AW,Deventer
+Spijkerpad,36,"","",7415AW,Deventer
+Spijkerpad,38,"","",7415AW,Deventer
+Spijkerpad,40,"","",7415AW,Deventer
+Spijkerpad,42,"","",7415AW,Deventer
+Spijkerpad,44,"","",7415AW,Deventer
+Spijkerpad,46,"","",7415AW,Deventer
+Spijkerpad,48,"","",7415AW,Deventer
+Spijkerpad,50,"","",7415AW,Deventer
+Spijkerpad,52,"","",7415AW,Deventer
+Spijkerpad,54,"","",7415AW,Deventer
+Spijkerpad,56,"","",7415AW,Deventer
+Spijkerpad,58,"","",7415AW,Deventer
+Spijkerpad,60,"","",7415AW,Deventer
+Spijkerpad,62,"","",7415AW,Deventer
+Spijkerpad,64,"","",7415AW,Deventer
+Spijkerpad,66,"","",7415AW,Deventer
+Spijkerpad,68,"","",7415AW,Deventer
+Spijkerpad,70,"","",7415AW,Deventer
+Spijkerpad,72,"","",7415AW,Deventer
+Hoge Hondstraat,125,"","",7415GA,Deventer
+Hoge Hondstraat,127,"","",7415GA,Deventer
+Hoge Hondstraat,129,"","",7415GA,Deventer
+Hoge Hondstraat,131,"","",7415GA,Deventer
+Hoge Hondstraat,133,"","",7415GA,Deventer
+Hoge Hondstraat,135,"","",7415GA,Deventer
+Hoge Hondstraat,137,"","",7415GA,Deventer
+Hoge Hondstraat,139,"","",7415GA,Deventer
+Hoge Hondstraat,141,"","",7415GA,Deventer
+Hoge Hondstraat,143,"","",7415GA,Deventer
+Hoge Hondstraat,143,A,"",7415GA,Deventer
+Hoge Hondstraat,143,B,"",7415GA,Deventer
+Hoge Hondstraat,143,C,"",7415GA,Deventer
+Hoge Hondstraat,143,D,"",7415GA,Deventer
+Hoge Hondstraat,145,"","",7415GA,Deventer
+Hoge Hondstraat,145,"","",7415GA,Deventer
+Hoge Hondstraat,145,"","",7415GA,Deventer
+Hoge Hondstraat,145,"","",7415GA,Deventer
+Hoge Hondstraat,145,A,"",7415GA,Deventer
+Hoge Hondstraat,145,B,"",7415GA,Deventer
+Hoge Hondstraat,145,C,"",7415GA,Deventer
+Hoge Hondstraat,145,D,"",7415GA,Deventer
+Hoge Hondstraat,145,E,"",7415GA,Deventer
+Hoge Hondstraat,145,F,"",7415GA,Deventer
+Hoge Hondstraat,145,G,"",7415GA,Deventer
+Hoge Hondstraat,145,H,"",7415GA,Deventer
+Hoge Hondstraat,145,K,"",7415GA,Deventer
+Hoge Hondstraat,145,L,"",7415GA,Deventer
+Hoge Hondstraat,145,M,"",7415GA,Deventer
+Hoge Hondstraat,147,"","",7415GA,Deventer
+Hoge Hondstraat,149,"","",7415GA,Deventer
+Hoge Hondstraat,151,"","",7415GA,Deventer
+Hoge Hondstraat,153,"","",7415GA,Deventer
+Hoge Hondstraat,155,"","",7415GA,Deventer
+Hoge Hondstraat,157,"","",7415GA,Deventer
+Hoge Hondstraat,159,"","",7415GA,Deventer
+Hoge Hondstraat,161,"","",7415GB,Deventer
+Hoge Hondstraat,163,"","",7415GB,Deventer
+Hoge Hondstraat,165,"","",7415GB,Deventer
+Hoge Hondstraat,167,"","",7415GB,Deventer
+Hoge Hondstraat,169,"","",7415GB,Deventer
+Hoge Hondstraat,171,"","",7415GB,Deventer
+Hoge Hondstraat,173,"","",7415GB,Deventer
+Hoge Hondstraat,175,"","",7415GB,Deventer
+Hoge Hondstraat,177,"","",7415GB,Deventer
+Hoge Hondstraat,179,"","",7415GB,Deventer
+Hoge Hondstraat,181,"","",7415GB,Deventer
+Hoge Hondstraat,183,"","",7415GB,Deventer
+Hoge Hondstraat,185,"","",7415GB,Deventer
+Hoge Hondstraat,187,"","",7415GB,Deventer
+Hoge Hondstraat,189,"","",7415GB,Deventer
+Hoge Hondstraat,191,"","",7415GB,Deventer
+Hoge Hondstraat,193,"","",7415GB,Deventer
+Hoge Hondstraat,195,"","",7415GB,Deventer
+Hoge Hondstraat,197,"","",7415GB,Deventer
+Van Marckelplein,1,"","",7415JN,Deventer
+Van Marckelplein,10,"","",7415JN,Deventer
+Van Marckelplein,11,"","",7415JN,Deventer
+Van Marckelplein,2,"","",7415JN,Deventer
+Van Marckelplein,3,"","",7415JN,Deventer
+Van Marckelplein,4,"","",7415JN,Deventer
+Van Marckelplein,5,"","",7415JN,Deventer
+Van Marckelplein,6,"","",7415JN,Deventer
+Van Marckelplein,7,"","",7415JN,Deventer
+Van Marckelplein,8,"","",7415JN,Deventer
+Van Marckelplein,9,"","",7415JN,Deventer
+Margijnenenk,1,"","",7415JP,Deventer
+Margijnenenk,1,G,1,7415JP,Deventer
+Margijnenenk,1,G,2,7415JP,Deventer
+Margijnenenk,1,G,3,7415JP,Deventer
+Margijnenenk,1,G,4,7415JP,Deventer
+Margijnenenk,1,G,5,7415JP,Deventer
+Margijnenenk,11,"","",7415JP,Deventer
+Margijnenenk,13,"","",7415JP,Deventer
+Margijnenenk,15,"","",7415JP,Deventer
+Margijnenenk,17,"","",7415JP,Deventer
+Margijnenenk,19,"","",7415JP,Deventer
+Margijnenenk,21,"","",7415JP,Deventer
+Margijnenenk,23,"","",7415JP,Deventer
+Margijnenenk,23,T,"",7415JP,Deventer
+Margijnenenk,27,"","",7415JP,Deventer
+Margijnenenk,29,"","",7415JP,Deventer
+Margijnenenk,3,"","",7415JP,Deventer
+Margijnenenk,31,"","",7415JP,Deventer
+Margijnenenk,33,"","",7415JP,Deventer
+Margijnenenk,35,"","",7415JP,Deventer
+Margijnenenk,37,"","",7415JP,Deventer
+Margijnenenk,5,"","",7415JP,Deventer
+Margijnenenk,7,"","",7415JP,Deventer
+Margijnenenk,9,"","",7415JP,Deventer
+Margijnenenk,39,"","",7415JR,Deventer
+Margijnenenk,41,"","",7415JR,Deventer
+Margijnenenk,43,"","",7415JR,Deventer
+Margijnenenk,45,"","",7415JR,Deventer
+Margijnenenk,47,"","",7415JR,Deventer
+Margijnenenk,49,"","",7415JR,Deventer
+Margijnenenk,51,"","",7415JR,Deventer
+Margijnenenk,53,"","",7415JR,Deventer
+Margijnenenk,55,"","",7415JR,Deventer
+Margijnenenk,57,"","",7415JR,Deventer
+Margijnenenk,59,"","",7415JR,Deventer
+Margijnenenk,61,"","",7415JR,Deventer
+Margijnenenk,63,"","",7415JR,Deventer
+Margijnenenk,65,"","",7415JR,Deventer
+Margijnenenk,67,"","",7415JR,Deventer
+Margijnenenk,69,"","",7415JR,Deventer
+Margijnenenk,71,"","",7415JR,Deventer
+Margijnenenk,73,"","",7415JR,Deventer
+Margijnenenk,77,"","",7415JR,Deventer
+Margijnenenk,79,"","",7415JR,Deventer
+Margijnenenk,81,"","",7415JR,Deventer
+Margijnenenk,83,"","",7415JR,Deventer
+Margijnenenk,85,"","",7415JR,Deventer
+Margijnenenk,87,"","",7415JR,Deventer
+Margijnenenk,101,"","",7415JS,Deventer
+Margijnenenk,103,"","",7415JS,Deventer
+Margijnenenk,105,"","",7415JS,Deventer
+Margijnenenk,107,"","",7415JS,Deventer
+Margijnenenk,109,"","",7415JS,Deventer
+Margijnenenk,111,"","",7415JS,Deventer
+Margijnenenk,113,"","",7415JS,Deventer
+Margijnenenk,115,"","",7415JS,Deventer
+Margijnenenk,117,"","",7415JS,Deventer
+Margijnenenk,119,"","",7415JS,Deventer
+Margijnenenk,121,"","",7415JS,Deventer
+Margijnenenk,123,"","",7415JS,Deventer
+Margijnenenk,89,"","",7415JS,Deventer
+Margijnenenk,91,"","",7415JS,Deventer
+Margijnenenk,93,"","",7415JS,Deventer
+Margijnenenk,95,"","",7415JS,Deventer
+Margijnenenk,97,"","",7415JS,Deventer
+Margijnenenk,99,"","",7415JS,Deventer
+Finsehof,1,"","",7415RM,Deventer
+Finsehof,10,"","",7415RM,Deventer
+Finsehof,11,"","",7415RM,Deventer
+Finsehof,12,"","",7415RM,Deventer
+Finsehof,13,"","",7415RM,Deventer
+Finsehof,14,"","",7415RM,Deventer
+Finsehof,15,"","",7415RM,Deventer
+Finsehof,16,"","",7415RM,Deventer
+Finsehof,17,"","",7415RM,Deventer
+Finsehof,18,"","",7415RM,Deventer
+Finsehof,19,"","",7415RM,Deventer
+Finsehof,2,"","",7415RM,Deventer
+Finsehof,20,"","",7415RM,Deventer
+Finsehof,21,"","",7415RM,Deventer
+Finsehof,22,"","",7415RM,Deventer
+Finsehof,23,"","",7415RM,Deventer
+Finsehof,24,"","",7415RM,Deventer
+Finsehof,3,"","",7415RM,Deventer
+Finsehof,4,"","",7415RM,Deventer
+Finsehof,5,"","",7415RM,Deventer
+Finsehof,6,"","",7415RM,Deventer
+Finsehof,7,"","",7415RM,Deventer
+Finsehof,8,"","",7415RM,Deventer
+Finsehof,9,"","",7415RM,Deventer
+Finsehof,25,"","",7415RN,Deventer
+Finsehof,26,"","",7415RN,Deventer
+Finsehof,27,"","",7415RN,Deventer
+Finsehof,28,"","",7415RN,Deventer
+Finsehof,29,"","",7415RN,Deventer
+Finsehof,30,"","",7415RN,Deventer
+Finsehof,31,"","",7415RN,Deventer
+Finsehof,32,"","",7415RN,Deventer
+Finsehof,33,"","",7415RN,Deventer
+Finsehof,34,"","",7415RN,Deventer
+Finsehof,35,"","",7415RN,Deventer
+Finsehof,36,"","",7415RN,Deventer
+Finsehof,37,"","",7415RN,Deventer
+Finsehof,38,"","",7415RN,Deventer
+Finsehof,39,"","",7415RN,Deventer
+Finsehof,40,"","",7415RN,Deventer
+Finsehof,41,"","",7415RN,Deventer
+Finsehof,42,"","",7415RN,Deventer
+Finsehof,43,"","",7415RN,Deventer
+Finsehof,44,"","",7415RN,Deventer
+Finsehof,45,"","",7415RN,Deventer
+Finsehof,46,"","",7415RN,Deventer
+Finsehof,47,"","",7415RN,Deventer
+Finsehof,48,"","",7415RN,Deventer
+Finsehof,49,"","",7415RN,Deventer
+Finsehof,50,"","",7415RN,Deventer
+Finsehof,51,"","",7415RN,Deventer
+Finsehof,52,"","",7415RN,Deventer
+Finsehof,53,"","",7415RN,Deventer
+Finsehof,54,"","",7415RN,Deventer
+Finsehof,55,"","",7415RN,Deventer
+Finsehof,56,"","",7415RN,Deventer
+Finsehof,57,"","",7415RN,Deventer
+Finsehof,58,"","",7415RN,Deventer
+Finsehof,59,"","",7415RN,Deventer
+Finsehof,60,"","",7415RN,Deventer
+Hagedoornstraat,1,"","",7415RP,Deventer
+Hagedoornstraat,11,"","",7415RP,Deventer
+Hagedoornstraat,13,"","",7415RP,Deventer
+Hagedoornstraat,15,"","",7415RP,Deventer
+Hagedoornstraat,17,"","",7415RP,Deventer
+Hagedoornstraat,19,"","",7415RP,Deventer
+Hagedoornstraat,21,"","",7415RP,Deventer
+Hagedoornstraat,23,"","",7415RP,Deventer
+Hagedoornstraat,25,"","",7415RP,Deventer
+Hagedoornstraat,27,"","",7415RP,Deventer
+Hagedoornstraat,29,"","",7415RP,Deventer
+Hagedoornstraat,3,"","",7415RP,Deventer
+Hagedoornstraat,31,"","",7415RP,Deventer
+Hagedoornstraat,33,"","",7415RP,Deventer
+Hagedoornstraat,35,"","",7415RP,Deventer
+Hagedoornstraat,37,"","",7415RP,Deventer
+Hagedoornstraat,39,"","",7415RP,Deventer
+Hagedoornstraat,5,"","",7415RP,Deventer
+Hagedoornstraat,7,"","",7415RP,Deventer
+Hagedoornstraat,9,"","",7415RP,Deventer
+Hagedoornstraat,10,"","",7415RR,Deventer
+Hagedoornstraat,12,"","",7415RR,Deventer
+Hagedoornstraat,14,"","",7415RR,Deventer
+Hagedoornstraat,2,"","",7415RR,Deventer
+Hagedoornstraat,4,"","",7415RR,Deventer
+Hagedoornstraat,41,"","",7415RR,Deventer
+Hagedoornstraat,43,"","",7415RR,Deventer
+Hagedoornstraat,45,"","",7415RR,Deventer
+Hagedoornstraat,47,"","",7415RR,Deventer
+Hagedoornstraat,49,"","",7415RR,Deventer
+Hagedoornstraat,6,"","",7415RR,Deventer
+Hagedoornstraat,8,"","",7415RR,Deventer
+Sloetstraat,1,"","",7415RS,Deventer
+Sloetstraat,11,"","",7415RS,Deventer
+Sloetstraat,13,"","",7415RS,Deventer
+Sloetstraat,15,"","",7415RS,Deventer
+Sloetstraat,17,"","",7415RS,Deventer
+Sloetstraat,19,"","",7415RS,Deventer
+Sloetstraat,21,"","",7415RS,Deventer
+Sloetstraat,23,"","",7415RS,Deventer
+Sloetstraat,25,"","",7415RS,Deventer
+Sloetstraat,27,"","",7415RS,Deventer
+Sloetstraat,29,"","",7415RS,Deventer
+Sloetstraat,3,"","",7415RS,Deventer
+Sloetstraat,31,"","",7415RS,Deventer
+Sloetstraat,33,"","",7415RS,Deventer
+Sloetstraat,35,"","",7415RS,Deventer
+Sloetstraat,37,"","",7415RS,Deventer
+Sloetstraat,5,"","",7415RS,Deventer
+Sloetstraat,7,"","",7415RS,Deventer
+Sloetstraat,9,"","",7415RS,Deventer
+Sloetstraat,10,"","",7415RT,Deventer
+Sloetstraat,12,"","",7415RT,Deventer
+Sloetstraat,14,"","",7415RT,Deventer
+Sloetstraat,16,"","",7415RT,Deventer
+Sloetstraat,18,"","",7415RT,Deventer
+Sloetstraat,2,"","",7415RT,Deventer
+Sloetstraat,20,"","",7415RT,Deventer
+Sloetstraat,22,"","",7415RT,Deventer
+Sloetstraat,24,"","",7415RT,Deventer
+Sloetstraat,26,"","",7415RT,Deventer
+Sloetstraat,28,"","",7415RT,Deventer
+Sloetstraat,30,"","",7415RT,Deventer
+Sloetstraat,32,"","",7415RT,Deventer
+Sloetstraat,34,"","",7415RT,Deventer
+Sloetstraat,36,"","",7415RT,Deventer
+Sloetstraat,38,"","",7415RT,Deventer
+Sloetstraat,4,"","",7415RT,Deventer
+Sloetstraat,40,"","",7415RT,Deventer
+Sloetstraat,42,"","",7415RT,Deventer
+Sloetstraat,44,"","",7415RT,Deventer
+Sloetstraat,46,"","",7415RT,Deventer
+Sloetstraat,48,"","",7415RT,Deventer
+Sloetstraat,50,"","",7415RT,Deventer
+Sloetstraat,6,"","",7415RT,Deventer
+Sloetstraat,8,"","",7415RT,Deventer
+Fockinckstraat,1,"","",7415RW,Deventer
+Fockinckstraat,11,"","",7415RW,Deventer
+Fockinckstraat,13,"","",7415RW,Deventer
+Fockinckstraat,15,"","",7415RW,Deventer
+Fockinckstraat,17,"","",7415RW,Deventer
+Fockinckstraat,19,"","",7415RW,Deventer
+Fockinckstraat,21,"","",7415RW,Deventer
+Fockinckstraat,23,"","",7415RW,Deventer
+Fockinckstraat,25,"","",7415RW,Deventer
+Fockinckstraat,27,"","",7415RW,Deventer
+Fockinckstraat,29,"","",7415RW,Deventer
+Fockinckstraat,3,"","",7415RW,Deventer
+Fockinckstraat,31,"","",7415RW,Deventer
+Fockinckstraat,33,"","",7415RW,Deventer
+Fockinckstraat,35,"","",7415RW,Deventer
+Fockinckstraat,5,"","",7415RW,Deventer
+Fockinckstraat,7,"","",7415RW,Deventer
+Fockinckstraat,9,"","",7415RW,Deventer
+Fockinckstraat,10,"","",7415RX,Deventer
+Fockinckstraat,12,"","",7415RX,Deventer
+Fockinckstraat,14,"","",7415RX,Deventer
+Fockinckstraat,16,"","",7415RX,Deventer
+Fockinckstraat,18,"","",7415RX,Deventer
+Fockinckstraat,2,"","",7415RX,Deventer
+Fockinckstraat,20,"","",7415RX,Deventer
+Fockinckstraat,22,"","",7415RX,Deventer
+Fockinckstraat,24,"","",7415RX,Deventer
+Fockinckstraat,26,"","",7415RX,Deventer
+Fockinckstraat,28,"","",7415RX,Deventer
+Fockinckstraat,30,"","",7415RX,Deventer
+Fockinckstraat,32,"","",7415RX,Deventer
+Fockinckstraat,4,"","",7415RX,Deventer
+Fockinckstraat,6,"","",7415RX,Deventer
+Fockinckstraat,8,"","",7415RX,Deventer
+Verwerstraat,1,"","",7415RZ,Deventer
+Verwerstraat,11,"","",7415RZ,Deventer
+Verwerstraat,13,"","",7415RZ,Deventer
+Verwerstraat,15,"","",7415RZ,Deventer
+Verwerstraat,17,"","",7415RZ,Deventer
+Verwerstraat,19,"","",7415RZ,Deventer
+Verwerstraat,21,"","",7415RZ,Deventer
+Verwerstraat,23,"","",7415RZ,Deventer
+Verwerstraat,27,"","",7415RZ,Deventer
+Verwerstraat,29,"","",7415RZ,Deventer
+Verwerstraat,3,"","",7415RZ,Deventer
+Verwerstraat,31,"","",7415RZ,Deventer
+Verwerstraat,33,"","",7415RZ,Deventer
+Verwerstraat,35,"","",7415RZ,Deventer
+Verwerstraat,37,"","",7415RZ,Deventer
+Verwerstraat,39,"","",7415RZ,Deventer
+Verwerstraat,41,"","",7415RZ,Deventer
+Verwerstraat,5,"","",7415RZ,Deventer
+Verwerstraat,7,"","",7415RZ,Deventer
+Verwerstraat,9,"","",7415RZ,Deventer
+Verwerstraat,10,"","",7415SB,Deventer
+Verwerstraat,12,"","",7415SB,Deventer
+Verwerstraat,14,"","",7415SB,Deventer
+Verwerstraat,14,"","",7415SB,Deventer
+Verwerstraat,14,A,"",7415SB,Deventer
+Verwerstraat,14,A,"",7415SB,Deventer
+Verwerstraat,16,"","",7415SB,Deventer
+Verwerstraat,18,"","",7415SB,Deventer
+Verwerstraat,2,"","",7415SB,Deventer
+Verwerstraat,20,"","",7415SB,Deventer
+Verwerstraat,22,"","",7415SB,Deventer
+Verwerstraat,24,"","",7415SB,Deventer
+Verwerstraat,26,"","",7415SB,Deventer
+Verwerstraat,28,"","",7415SB,Deventer
+Verwerstraat,4,"","",7415SB,Deventer
+Verwerstraat,6,"","",7415SB,Deventer
+Verwerstraat,8,"","",7415SB,Deventer
+Verwerstraat,30,"","",7415SC,Deventer
+Verwerstraat,32,"","",7415SC,Deventer
+Verwerstraat,34,"","",7415SC,Deventer
+Verwerstraat,36,"","",7415SC,Deventer
+Verwerstraat,38,"","",7415SC,Deventer
+Verwerstraat,40,"","",7415SC,Deventer
+Verwerstraat,42,"","",7415SC,Deventer
+Verwerstraat,44,"","",7415SC,Deventer
+Verwerstraat,46,"","",7415SC,Deventer
+Verwerstraat,48,"","",7415SC,Deventer
+Verwerstraat,50,"","",7415SC,Deventer
+Verwerstraat,52,"","",7415SC,Deventer
+Verwerstraat,54,"","",7415SC,Deventer
+Verwerstraat,56,"","",7415SC,Deventer
+Verwerstraat,58,"","",7415SC,Deventer
+Verwerstraat,60,"","",7415SC,Deventer
+Dapperstraat,11,"","",7415SE,Deventer
+Dapperstraat,13,"","",7415SE,Deventer
+Hoge Hondstraat,145,K,"",7415SE,Deventer
+Hoge Hondstraat,145,L,"",7415SE,Deventer
+Dapperstraat,15,"","",7415SE,Deventer
+Dapperstraat,17,"","",7415SE,Deventer
+Dapperstraat,19,"","",7415SE,Deventer
+Dapperstraat,21,"","",7415SE,Deventer
+Dapperstraat,23,"","",7415SE,Deventer
+Dapperstraat,25,"","",7415SE,Deventer
+Dapperstraat,27,"","",7415SE,Deventer
+Dapperstraat,29,"","",7415SE,Deventer
+Dapperstraat,3,"","",7415SE,Deventer
+Dapperstraat,31,"","",7415SE,Deventer
+Dapperstraat,5,"","",7415SE,Deventer
+Dapperstraat,7,"","",7415SE,Deventer
+Dapperstraat,7,"","",7415SE,Deventer
+Dapperstraat,9,"","",7415SE,Deventer
+Dapperstraat,9,"","",7415SE,Deventer
+Dapperstraat,9,"","",7415SE,Deventer
+Dapperstraat,33,"","",7415SG,Deventer
+Dapperstraat,35,"","",7415SG,Deventer
+Dapperstraat,37,"","",7415SG,Deventer
+Dapperstraat,39,"","",7415SG,Deventer
+Dapperstraat,41,"","",7415SG,Deventer
+Dapperstraat,43,"","",7415SG,Deventer
+Dapperstraat,45,"","",7415SG,Deventer
+Dapperstraat,47,"","",7415SG,Deventer
+Dapperstraat,49,"","",7415SG,Deventer
+Dapperstraat,51,"","",7415SG,Deventer
+Dapperstraat,53,"","",7415SG,Deventer
+Dapperstraat,55,"","",7415SG,Deventer
+Dapperstraat,57,"","",7415SG,Deventer
+Dapperstraat,59,"","",7415SG,Deventer
+Dapperstraat,61,"","",7415SG,Deventer
+Dapperstraat,63,"","",7415SG,Deventer
+Dapperstraat,65,"","",7415SG,Deventer
+Dapperstraat,67,"","",7415SG,Deventer
+Dapperstraat,69,"","",7415SG,Deventer
+Dapperstraat,71,"","",7415SH,Deventer
+Dapperstraat,73,"","",7415SH,Deventer
+Dapperstraat,75,"","",7415SH,Deventer
+Dapperstraat,77,"","",7415SH,Deventer
+Dapperstraat,79,"","",7415SH,Deventer
+Dapperstraat,81,"","",7415SH,Deventer
+Dapperstraat,83,"","",7415SH,Deventer
+Dapperstraat,85,"","",7415SH,Deventer
+Dapperstraat,87,"","",7415SH,Deventer
+Dapperstraat,10,"","",7415SJ,Deventer
+Dapperstraat,12,"","",7415SJ,Deventer
+Dapperstraat,14,"","",7415SJ,Deventer
+Dapperstraat,16,"","",7415SJ,Deventer
+Dapperstraat,18,"","",7415SJ,Deventer
+Dapperstraat,2,"","",7415SJ,Deventer
+Dapperstraat,20,"","",7415SJ,Deventer
+Dapperstraat,22,"","",7415SJ,Deventer
+Dapperstraat,24,"","",7415SJ,Deventer
+Dapperstraat,26,"","",7415SJ,Deventer
+Dapperstraat,26,A,"",7415SJ,Deventer
+Dapperstraat,28,"","",7415SJ,Deventer
+Dapperstraat,30,"","",7415SJ,Deventer
+Dapperstraat,32,"","",7415SJ,Deventer
+Dapperstraat,34,"","",7415SJ,Deventer
+Dapperstraat,4,"","",7415SJ,Deventer
+Dapperstraat,6,"","",7415SJ,Deventer
+Dapperstraat,8,"","",7415SJ,Deventer
+Dapperstraat,36,"","",7415SK,Deventer
+Dapperstraat,38,"","",7415SK,Deventer
+Dapperstraat,40,"","",7415SK,Deventer
+Dapperstraat,42,"","",7415SK,Deventer
+Dapperstraat,44,"","",7415SK,Deventer
+Dapperstraat,46,"","",7415SK,Deventer
+Dapperstraat,48,"","",7415SK,Deventer
+Dapperstraat,100,"","",7415SL,Deventer
+Dapperstraat,50,"","",7415SL,Deventer
+Dapperstraat,52,"","",7415SL,Deventer
+Dapperstraat,54,"","",7415SL,Deventer
+Dapperstraat,56,"","",7415SL,Deventer
+Dapperstraat,58,"","",7415SL,Deventer
+Dapperstraat,60,"","",7415SL,Deventer
+Dapperstraat,62,"","",7415SL,Deventer
+Dapperstraat,64,"","",7415SL,Deventer
+Dapperstraat,66,"","",7415SL,Deventer
+Dapperstraat,68,"","",7415SL,Deventer
+Dapperstraat,70,"","",7415SL,Deventer
+Dapperstraat,72,"","",7415SL,Deventer
+Dapperstraat,74,"","",7415SL,Deventer
+Dapperstraat,76,"","",7415SL,Deventer
+Dapperstraat,78,"","",7415SL,Deventer
+Dapperstraat,80,"","",7415SL,Deventer
+Dapperstraat,82,"","",7415SL,Deventer
+Dapperstraat,84,"","",7415SL,Deventer
+Dapperstraat,86,"","",7415SL,Deventer
+Dapperstraat,88,"","",7415SL,Deventer
+Dapperstraat,90,"","",7415SL,Deventer
+Dapperstraat,92,"","",7415SL,Deventer
+Dapperstraat,94,"","",7415SL,Deventer
+Dapperstraat,96,"","",7415SL,Deventer
+Dapperstraat,98,"","",7415SL,Deventer
+Heyinckstraat,1,"","",7415SM,Deventer
+Heyinckstraat,11,"","",7415SM,Deventer
+Heyinckstraat,13,"","",7415SM,Deventer
+Heyinckstraat,15,"","",7415SM,Deventer
+Heyinckstraat,17,"","",7415SM,Deventer
+Heyinckstraat,19,"","",7415SM,Deventer
+Heyinckstraat,21,"","",7415SM,Deventer
+Heyinckstraat,21,G,1,7415SM,Deventer
+Heyinckstraat,21,G,2,7415SM,Deventer
+Heyinckstraat,23,"","",7415SM,Deventer
+Heyinckstraat,25,"","",7415SM,Deventer
+Heyinckstraat,27,"","",7415SM,Deventer
+Heyinckstraat,29,"","",7415SM,Deventer
+Heyinckstraat,3,"","",7415SM,Deventer
+Heyinckstraat,31,"","",7415SM,Deventer
+Heyinckstraat,33,"","",7415SM,Deventer
+Heyinckstraat,35,"","",7415SM,Deventer
+Heyinckstraat,37,"","",7415SM,Deventer
+Heyinckstraat,39,"","",7415SM,Deventer
+Heyinckstraat,41,"","",7415SM,Deventer
+Heyinckstraat,43,"","",7415SM,Deventer
+Heyinckstraat,45,"","",7415SM,Deventer
+Heyinckstraat,47,"","",7415SM,Deventer
+Heyinckstraat,49,"","",7415SM,Deventer
+Heyinckstraat,5,"","",7415SM,Deventer
+Heyinckstraat,7,"","",7415SM,Deventer
+Heyinckstraat,9,"","",7415SM,Deventer
+Heyinckstraat,10,"","",7415SN,Deventer
+Heyinckstraat,12,"","",7415SN,Deventer
+Heyinckstraat,14,"","",7415SN,Deventer
+Heyinckstraat,16,"","",7415SN,Deventer
+Heyinckstraat,18,"","",7415SN,Deventer
+Heyinckstraat,2,"","",7415SN,Deventer
+Heyinckstraat,20,"","",7415SN,Deventer
+Heyinckstraat,22,"","",7415SN,Deventer
+Heyinckstraat,24,"","",7415SN,Deventer
+Heyinckstraat,26,"","",7415SN,Deventer
+Heyinckstraat,28,"","",7415SN,Deventer
+Heyinckstraat,4,"","",7415SN,Deventer
+Heyinckstraat,6,"","",7415SN,Deventer
+Heyinckstraat,8,"","",7415SN,Deventer
+Heyinckstraat,30,"","",7415SP,Deventer
+Heyinckstraat,32,"","",7415SP,Deventer
+Heyinckstraat,34,"","",7415SP,Deventer
+Heyinckstraat,36,"","",7415SP,Deventer
+Heyinckstraat,38,"","",7415SP,Deventer
+Heyinckstraat,40,"","",7415SP,Deventer
+Heyinckstraat,42,"","",7415SP,Deventer
+Heyinckstraat,44,"","",7415SP,Deventer
+Heyinckstraat,46,"","",7415SP,Deventer
+Heyinckstraat,48,"","",7415SP,Deventer
+Heyinckstraat,50,"","",7415SP,Deventer
+Heyinckstraat,52,"","",7415SP,Deventer
+Kosterstraat,11,"","",7415SR,Deventer
+Kosterstraat,13,"","",7415SR,Deventer
+Kosterstraat,15,"","",7415SR,Deventer
+Kosterstraat,17,"","",7415SR,Deventer
+Kosterstraat,19,"","",7415SR,Deventer
+Kosterstraat,21,"","",7415SR,Deventer
+Kosterstraat,23,"","",7415SR,Deventer
+Kosterstraat,25,"","",7415SR,Deventer
+Kosterstraat,27,"","",7415SR,Deventer
+Kosterstraat,29,"","",7415SR,Deventer
+Kosterstraat,3,"","",7415SR,Deventer
+Kosterstraat,31,"","",7415SR,Deventer
+Kosterstraat,33,"","",7415SR,Deventer
+Kosterstraat,35,"","",7415SR,Deventer
+Kosterstraat,37,"","",7415SR,Deventer
+Kosterstraat,39,"","",7415SR,Deventer
+Kosterstraat,41,"","",7415SR,Deventer
+Kosterstraat,5,"","",7415SR,Deventer
+Kosterstraat,7,"","",7415SR,Deventer
+Kosterstraat,9,"","",7415SR,Deventer
+Kosterstraat,43,"","",7415ST,Deventer
+Kosterstraat,45,"","",7415ST,Deventer
+Kosterstraat,47,"","",7415ST,Deventer
+Kosterstraat,49,"","",7415ST,Deventer
+Kosterstraat,49,G,1,7415ST,Deventer
+Kosterstraat,49,G,2,7415ST,Deventer
+Kosterstraat,49,G,3,7415ST,Deventer
+Kosterstraat,49,G,4,7415ST,Deventer
+Kosterstraat,49,G,5,7415ST,Deventer
+Kosterstraat,61,"","",7415ST,Deventer
+Kosterstraat,63,"","",7415ST,Deventer
+Kosterstraat,65,"","",7415ST,Deventer
+Kosterstraat,67,"","",7415ST,Deventer
+Kosterstraat,69,"","",7415ST,Deventer
+Kosterstraat,71,"","",7415ST,Deventer
+Kosterstraat,73,"","",7415ST,Deventer
+Kosterstraat,75,"","",7415ST,Deventer
+Kosterstraat,77,"","",7415ST,Deventer
+Kosterstraat,79,"","",7415ST,Deventer
+Kosterstraat,81,"","",7415ST,Deventer
+Kosterstraat,83,"","",7415ST,Deventer
+Kosterstraat,85,"","",7415ST,Deventer
+Kosterstraat,87,"","",7415ST,Deventer
+Kosterstraat,89,"","",7415ST,Deventer
+Kosterstraat,91,"","",7415ST,Deventer
+Kosterstraat,10,"","",7415SV,Deventer
+Kosterstraat,12,"","",7415SV,Deventer
+Kosterstraat,14,"","",7415SV,Deventer
+Kosterstraat,16,"","",7415SV,Deventer
+Kosterstraat,18,"","",7415SV,Deventer
+Kosterstraat,20,"","",7415SV,Deventer
+Kosterstraat,22,"","",7415SV,Deventer
+Kosterstraat,24,"","",7415SV,Deventer
+Kosterstraat,26,"","",7415SV,Deventer
+Kosterstraat,6,"","",7415SV,Deventer
+Kosterstraat,8,"","",7415SV,Deventer
+Scholierstraat,1,"","",7415SW,Deventer
+Scholierstraat,10,"","",7415SW,Deventer
+Scholierstraat,12,"","",7415SW,Deventer
+Scholierstraat,14,"","",7415SW,Deventer
+Scholierstraat,16,"","",7415SW,Deventer
+Scholierstraat,18,"","",7415SW,Deventer
+Scholierstraat,2,"","",7415SW,Deventer
+Scholierstraat,20,"","",7415SW,Deventer
+Scholierstraat,22,"","",7415SW,Deventer
+Scholierstraat,24,"","",7415SW,Deventer
+Scholierstraat,26,"","",7415SW,Deventer
+Scholierstraat,28,"","",7415SW,Deventer
+Scholierstraat,30,"","",7415SW,Deventer
+Scholierstraat,32,"","",7415SW,Deventer
+Scholierstraat,4,"","",7415SW,Deventer
+Scholierstraat,6,"","",7415SW,Deventer
+Scholierstraat,8,"","",7415SW,Deventer
+Van Vredenstraat,1,"","",7415SX,Deventer
+Van Vredenstraat,11,"","",7415SX,Deventer
+Van Vredenstraat,11,G,1,7415SX,Deventer
+Van Vredenstraat,11,G,10,7415SX,Deventer
+Van Vredenstraat,11,G,11,7415SX,Deventer
+Van Vredenstraat,11,G,12,7415SX,Deventer
+Van Vredenstraat,11,G,13,7415SX,Deventer
+Van Vredenstraat,11,G,14,7415SX,Deventer
+Van Vredenstraat,11,G,15,7415SX,Deventer
+Van Vredenstraat,11,G,16,7415SX,Deventer
+Van Vredenstraat,11,G,17,7415SX,Deventer
+Van Vredenstraat,11,G,2,7415SX,Deventer
+Van Vredenstraat,11,G,3,7415SX,Deventer
+Van Vredenstraat,11,G,4,7415SX,Deventer
+Van Vredenstraat,11,G,5,7415SX,Deventer
+Van Vredenstraat,11,G,6,7415SX,Deventer
+Van Vredenstraat,11,G,7,7415SX,Deventer
+Van Vredenstraat,11,G,8,7415SX,Deventer
+Van Vredenstraat,11,G,9,7415SX,Deventer
+Van Vredenstraat,25,"","",7415SX,Deventer
+Van Vredenstraat,27,"","",7415SX,Deventer
+Van Vredenstraat,29,"","",7415SX,Deventer
+Van Vredenstraat,3,"","",7415SX,Deventer
+Van Vredenstraat,31,"","",7415SX,Deventer
+Van Vredenstraat,33,"","",7415SX,Deventer
+Van Vredenstraat,35,"","",7415SX,Deventer
+Van Vredenstraat,37,"","",7415SX,Deventer
+Van Vredenstraat,39,"","",7415SX,Deventer
+Van Vredenstraat,39,G,1,7415SX,Deventer
+Van Vredenstraat,39,G,10,7415SX,Deventer
+Van Vredenstraat,39,G,11,7415SX,Deventer
+Van Vredenstraat,39,G,2,7415SX,Deventer
+Van Vredenstraat,39,G,3,7415SX,Deventer
+Van Vredenstraat,39,G,4,7415SX,Deventer
+Van Vredenstraat,39,G,5,7415SX,Deventer
+Van Vredenstraat,39,G,6,7415SX,Deventer
+Van Vredenstraat,39,G,7,7415SX,Deventer
+Van Vredenstraat,39,G,8,7415SX,Deventer
+Van Vredenstraat,39,G,9,7415SX,Deventer
+Van Vredenstraat,5,"","",7415SX,Deventer
+Van Vredenstraat,63,"","",7415SX,Deventer
+Van Vredenstraat,65,"","",7415SX,Deventer
+Van Vredenstraat,67,"","",7415SX,Deventer
+Van Vredenstraat,69,"","",7415SX,Deventer
+Van Vredenstraat,7,"","",7415SX,Deventer
+Van Vredenstraat,71,"","",7415SX,Deventer
+Van Vredenstraat,73,"","",7415SX,Deventer
+Van Vredenstraat,75,"","",7415SX,Deventer
+Van Vredenstraat,9,"","",7415SX,Deventer
+Nilantstraat,37,"","",7415TA,Deventer
+Nilantstraat,39,"","",7415TA,Deventer
+Nilantstraat,41,"","",7415TA,Deventer
+Nilantstraat,43,"","",7415TA,Deventer
+Nilantstraat,45,"","",7415TA,Deventer
+Nilantstraat,47,"","",7415TA,Deventer
+Nilantstraat,49,"","",7415TA,Deventer
+Nilantstraat,51,"","",7415TA,Deventer
+Nilantstraat,69,"","",7415TA,Deventer
+Nilantstraat,71,"","",7415TA,Deventer
+Nilantstraat,73,"","",7415TA,Deventer
+Nilantstraat,75,"","",7415TA,Deventer
+Nilantstraat,101,"","",7415TB,Deventer
+Nilantstraat,103,"","",7415TB,Deventer
+Nilantstraat,105,"","",7415TB,Deventer
+Nilantstraat,107,"","",7415TB,Deventer
+Nilantstraat,109,"","",7415TB,Deventer
+Nilantstraat,111,"","",7415TB,Deventer
+Nilantstraat,113,"","",7415TB,Deventer
+Nilantstraat,115,"","",7415TB,Deventer
+Nilantstraat,117,"","",7415TB,Deventer
+Nilantstraat,119,"","",7415TB,Deventer
+Nilantstraat,77,"","",7415TB,Deventer
+Nilantstraat,79,"","",7415TB,Deventer
+Nilantstraat,81,"","",7415TB,Deventer
+Nilantstraat,83,"","",7415TB,Deventer
+Nilantstraat,85,"","",7415TB,Deventer
+Nilantstraat,87,"","",7415TB,Deventer
+Nilantstraat,89,"","",7415TB,Deventer
+Nilantstraat,91,"","",7415TB,Deventer
+Nilantstraat,93,"","",7415TB,Deventer
+Nilantstraat,95,"","",7415TB,Deventer
+Nilantstraat,97,"","",7415TB,Deventer
+Nilantstraat,99,"","",7415TB,Deventer
+Nilantstraat,121,"","",7415TC,Deventer
+Nilantstraat,123,"","",7415TC,Deventer
+Nilantstraat,125,"","",7415TC,Deventer
+Nilantstraat,127,"","",7415TC,Deventer
+Nilantstraat,129,"","",7415TC,Deventer
+Nilantstraat,131,"","",7415TC,Deventer
+Nilantstraat,133,"","",7415TC,Deventer
+Nilantstraat,135,"","",7415TC,Deventer
+Nilantstraat,137,"","",7415TC,Deventer
+Nilantstraat,139,"","",7415TC,Deventer
+Nilantstraat,141,"","",7415TC,Deventer
+Nilantstraat,143,"","",7415TC,Deventer
+Nilantstraat,145,"","",7415TC,Deventer
+Nilantstraat,147,"","",7415TC,Deventer
+Nilantstraat,149,"","",7415TC,Deventer
+Nilantstraat,151,"","",7415TC,Deventer
+Nilantstraat,153,"","",7415TC,Deventer
+Nilantstraat,155,"","",7415TC,Deventer
+Nilantstraat,157,"","",7415TC,Deventer
+Nilantstraat,159,"","",7415TD,Deventer
+Nilantstraat,161,"","",7415TD,Deventer
+Nilantstraat,163,"","",7415TD,Deventer
+Nilantstraat,165,"","",7415TD,Deventer
+Nilantstraat,167,"","",7415TD,Deventer
+Nilantstraat,169,"","",7415TD,Deventer
+Nilantstraat,171,"","",7415TD,Deventer
+Nilantstraat,173,"","",7415TD,Deventer
+Nilantstraat,175,"","",7415TD,Deventer
+Nilantstraat,177,"","",7415TD,Deventer
+Nilantstraat,179,"","",7415TD,Deventer
+Nilantstraat,181,"","",7415TD,Deventer
+Nilantstraat,183,"","",7415TD,Deventer
+Nilantstraat,185,"","",7415TD,Deventer
+Nilantstraat,187,"","",7415TD,Deventer
+Nilantstraat,189,"","",7415TD,Deventer
+Nilantstraat,191,"","",7415TD,Deventer
+Nilantstraat,193,"","",7415TD,Deventer
+Nilantstraat,195,"","",7415TD,Deventer
+Nilantstraat,197,"","",7415TD,Deventer
+Nilantstraat,10,"","",7415TE,Deventer
+Nilantstraat,12,"","",7415TE,Deventer
+Nilantstraat,14,"","",7415TE,Deventer
+Nilantstraat,16,"","",7415TE,Deventer
+Nilantstraat,18,"","",7415TE,Deventer
+Nilantstraat,2,"","",7415TE,Deventer
+Nilantstraat,20,"","",7415TE,Deventer
+Nilantstraat,22,"","",7415TE,Deventer
+Nilantstraat,4,"","",7415TE,Deventer
+Nilantstraat,46,"","",7415TE,Deventer
+Nilantstraat,48,"","",7415TE,Deventer
+Nilantstraat,6,"","",7415TE,Deventer
+Nilantstraat,8,"","",7415TE,Deventer
+Nilantstraat,50,"","",7415TG,Deventer
+Nilantstraat,52,"","",7415TG,Deventer
+Nilantstraat,54,"","",7415TG,Deventer
+Nilantstraat,56,"","",7415TG,Deventer
+Nilantstraat,58,"","",7415TG,Deventer
+Nilantstraat,60,"","",7415TG,Deventer
+Nilantstraat,62,"","",7415TG,Deventer
+Nilantstraat,64,"","",7415TG,Deventer
+Nilantstraat,66,"","",7415TG,Deventer
+Nilantstraat,68,"","",7415TG,Deventer
+Nilantstraat,70,"","",7415TG,Deventer
+Nilantstraat,72,"","",7415TG,Deventer
+Nilantstraat,74,"","",7415TG,Deventer
+Nilantstraat,76,"","",7415TG,Deventer
+Nilantstraat,78,"","",7415TG,Deventer
+Nilantstraat,80,"","",7415TG,Deventer
+Nilantstraat,82,"","",7415TG,Deventer
+Nilantstraat,84,"","",7415TG,Deventer
+Nilantstraat,86,"","",7415TG,Deventer
+Nilantstraat,88,"","",7415TG,Deventer
+Nilantstraat,90,"","",7415TG,Deventer
+Nilantstraat,92,"","",7415TG,Deventer
+Nilantstraat,100,"","",7415TH,Deventer
+Nilantstraat,102,"","",7415TH,Deventer
+Nilantstraat,104,"","",7415TH,Deventer
+Nilantstraat,106,"","",7415TH,Deventer
+Nilantstraat,108,"","",7415TH,Deventer
+Nilantstraat,110,"","",7415TH,Deventer
+Nilantstraat,112,"","",7415TH,Deventer
+Nilantstraat,114,"","",7415TH,Deventer
+Nilantstraat,116,"","",7415TH,Deventer
+Nilantstraat,118,"","",7415TH,Deventer
+Nilantstraat,120,"","",7415TH,Deventer
+Nilantstraat,122,"","",7415TH,Deventer
+Nilantstraat,124,"","",7415TH,Deventer
+Nilantstraat,126,"","",7415TH,Deventer
+Nilantstraat,128,"","",7415TH,Deventer
+Nilantstraat,94,"","",7415TH,Deventer
+Nilantstraat,96,"","",7415TH,Deventer
+Nilantstraat,98,"","",7415TH,Deventer
+Nilantstraat,130,"","",7415TJ,Deventer
+Nilantstraat,130,G,1,7415TJ,Deventer
+Nilantstraat,130,G,2,7415TJ,Deventer
+Nilantstraat,130,G,3,7415TJ,Deventer
+Nilantstraat,130,G,4,7415TJ,Deventer
+Nilantstraat,130,G,5,7415TJ,Deventer
+Nilantstraat,132,"","",7415TJ,Deventer
+Nilantstraat,134,"","",7415TJ,Deventer
+Nilantstraat,136,"","",7415TJ,Deventer
+Nilantstraat,138,"","",7415TJ,Deventer
+Nilantstraat,140,"","",7415TJ,Deventer
+Nilantstraat,142,"","",7415TJ,Deventer
+Nilantstraat,144,"","",7415TJ,Deventer
+Nilantstraat,146,"","",7415TJ,Deventer
+Nilantstraat,148,"","",7415TJ,Deventer
+Nilantstraat,150,"","",7415TJ,Deventer
+Nilantstraat,150,G,1,7415TJ,Deventer
+Nilantstraat,150,G,2,7415TJ,Deventer
+Nilantstraat,150,G,3,7415TJ,Deventer
+Nilantstraat,150,G,4,7415TJ,Deventer
+Nilantstraat,150,G,5,7415TJ,Deventer
+Nilantstraat,150,G,6,7415TJ,Deventer
+Pamontstraat,1,"","",7415TK,Deventer
+Pamontstraat,11,"","",7415TK,Deventer
+Pamontstraat,13,"","",7415TK,Deventer
+Pamontstraat,15,"","",7415TK,Deventer
+Pamontstraat,17,"","",7415TK,Deventer
+Pamontstraat,19,"","",7415TK,Deventer
+Pamontstraat,21,"","",7415TK,Deventer
+Pamontstraat,23,"","",7415TK,Deventer
+Pamontstraat,25,"","",7415TK,Deventer
+Pamontstraat,3,"","",7415TK,Deventer
+Pamontstraat,5,"","",7415TK,Deventer
+Pamontstraat,7,"","",7415TK,Deventer
+Pamontstraat,9,"","",7415TK,Deventer
+Pamontstraat,10,"","",7415TL,Deventer
+Pamontstraat,12,"","",7415TL,Deventer
+Pamontstraat,14,"","",7415TL,Deventer
+Pamontstraat,16,"","",7415TL,Deventer
+Pamontstraat,18,"","",7415TL,Deventer
+Pamontstraat,2,"","",7415TL,Deventer
+Pamontstraat,20,"","",7415TL,Deventer
+Pamontstraat,22,"","",7415TL,Deventer
+Pamontstraat,24,"","",7415TL,Deventer
+Pamontstraat,26,"","",7415TL,Deventer
+Pamontstraat,28,"","",7415TL,Deventer
+Pamontstraat,30,"","",7415TL,Deventer
+Pamontstraat,32,"","",7415TL,Deventer
+Pamontstraat,34,"","",7415TL,Deventer
+Pamontstraat,36,"","",7415TL,Deventer
+Pamontstraat,38,"","",7415TL,Deventer
+Pamontstraat,4,"","",7415TL,Deventer
+Pamontstraat,40,"","",7415TL,Deventer
+Pamontstraat,42,"","",7415TL,Deventer
+Pamontstraat,6,"","",7415TL,Deventer
+Pamontstraat,8,"","",7415TL,Deventer
+Putmanstraat,1,"","",7415TM,Deventer
+Putmanstraat,1,A,"",7415TM,Deventer
+Putmanstraat,1,B,"",7415TM,Deventer
+Putmanstraat,11,"","",7415TM,Deventer
+Putmanstraat,13,"","",7415TM,Deventer
+Putmanstraat,15,"","",7415TM,Deventer
+Putmanstraat,17,"","",7415TM,Deventer
+Putmanstraat,19,"","",7415TM,Deventer
+Putmanstraat,21,"","",7415TM,Deventer
+Putmanstraat,23,"","",7415TM,Deventer
+Putmanstraat,25,"","",7415TM,Deventer
+Putmanstraat,27,"","",7415TM,Deventer
+Putmanstraat,29,"","",7415TM,Deventer
+Putmanstraat,3,"","",7415TM,Deventer
+Putmanstraat,31,"","",7415TM,Deventer
+Putmanstraat,33,"","",7415TM,Deventer
+Putmanstraat,35,"","",7415TM,Deventer
+Putmanstraat,35,"","",7415TM,Deventer
+Putmanstraat,35,"","",7415TM,Deventer
+Putmanstraat,35,"","",7415TM,Deventer
+Putmanstraat,35,A,"",7415TM,Deventer
+Putmanstraat,35,A,"",7415TM,Deventer
+Putmanstraat,35,A,"",7415TM,Deventer
+Putmanstraat,37,"","",7415TM,Deventer
+Putmanstraat,37,A,"",7415TM,Deventer
+Putmanstraat,39,"","",7415TM,Deventer
+Putmanstraat,41,"","",7415TM,Deventer
+Putmanstraat,43,"","",7415TM,Deventer
+Putmanstraat,45,"","",7415TM,Deventer
+Putmanstraat,47,"","",7415TM,Deventer
+Putmanstraat,5,"","",7415TM,Deventer
+Putmanstraat,7,"","",7415TM,Deventer
+Putmanstraat,9,"","",7415TM,Deventer
+Van Hetenstraat,150,"","",7415TN,Deventer
+Van Hetenstraat,152,"","",7415TN,Deventer
+Van Hetenstraat,154,"","",7415TN,Deventer
+Van Hetenstraat,156,"","",7415TN,Deventer
+Van Hetenstraat,158,"","",7415TN,Deventer
+Van Hetenstraat,160,"","",7415TN,Deventer
+Van Hetenstraat,162,"","",7415TN,Deventer
+Van Hetenstraat,164,"","",7415TN,Deventer
+Van Hetenstraat,166,"","",7415TN,Deventer
+Van Hetenstraat,168,"","",7415TN,Deventer
+Van Hetenstraat,170,"","",7415TN,Deventer
+Van Hetenstraat,172,"","",7415TN,Deventer
+Van Hetenstraat,178,"","",7415TN,Deventer
+Van Hetenstraat,178,"","",7415TN,Deventer
+Van Hetenstraat,178,"","",7415TN,Deventer
+Putmanstraat,10,"","",7415TP,Deventer
+Putmanstraat,12,"","",7415TP,Deventer
+Putmanstraat,14,"","",7415TP,Deventer
+Putmanstraat,16,"","",7415TP,Deventer
+Putmanstraat,18,"","",7415TP,Deventer
+Putmanstraat,2,"","",7415TP,Deventer
+Putmanstraat,20,"","",7415TP,Deventer
+Putmanstraat,22,"","",7415TP,Deventer
+Putmanstraat,24,"","",7415TP,Deventer
+Putmanstraat,26,"","",7415TP,Deventer
+Putmanstraat,28,"","",7415TP,Deventer
+Putmanstraat,30,"","",7415TP,Deventer
+Putmanstraat,32,"","",7415TP,Deventer
+Putmanstraat,34,"","",7415TP,Deventer
+Putmanstraat,36,"","",7415TP,Deventer
+Putmanstraat,38,"","",7415TP,Deventer
+Putmanstraat,4,"","",7415TP,Deventer
+Putmanstraat,40,"","",7415TP,Deventer
+Putmanstraat,42,"","",7415TP,Deventer
+Putmanstraat,44,"","",7415TP,Deventer
+Putmanstraat,46,"","",7415TP,Deventer
+Putmanstraat,48,"","",7415TP,Deventer
+Putmanstraat,6,"","",7415TP,Deventer
+Putmanstraat,8,"","",7415TP,Deventer
+Putmanstraat,50,"","",7415TR,Deventer
+Putmanstraat,52,"","",7415TR,Deventer
+Putmanstraat,54,"","",7415TR,Deventer
+Putmanstraat,56,"","",7415TR,Deventer
+Putmanstraat,58,"","",7415TR,Deventer
+Putmanstraat,60,"","",7415TR,Deventer
+Putmanstraat,62,"","",7415TR,Deventer
+Putmanstraat,64,"","",7415TR,Deventer
+Putmanstraat,66,"","",7415TR,Deventer
+Putmanstraat,68,"","",7415TR,Deventer
+Putmanstraat,70,"","",7415TR,Deventer
+Putmanstraat,72,"","",7415TR,Deventer
+Putmanstraat,74,"","",7415TR,Deventer
+Putmanstraat,76,"","",7415TR,Deventer
+Putmanstraat,78,"","",7415TR,Deventer
+Putmanstraat,80,"","",7415TR,Deventer
+Putmanstraat,82,"","",7415TR,Deventer
+Putmanstraat,84,"","",7415TR,Deventer
+Putmanstraat,86,"","",7415TR,Deventer
+Putmanstraat,88,"","",7415TR,Deventer
+Putmanstraat,90,"","",7415TR,Deventer
+Putmanstraat,92,"","",7415TR,Deventer
+Putmanstraat,94,"","",7415TR,Deventer
+Van Hetenstraat,60,"","",7415TW,Deventer
+Van Hetenstraat,60,T,"",7415TW,Deventer
+Van Hetenstraat,62,"","",7415TW,Deventer
+Van Hetenstraat,64,"","",7415TW,Deventer
+Van Hetenstraat,66,"","",7415TW,Deventer
+Van Hetenstraat,68,"","",7415TW,Deventer
+Van Hetenstraat,70,"","",7415TW,Deventer
+Van Hetenstraat,72,"","",7415TW,Deventer
+Van Hetenstraat,74,"","",7415TW,Deventer
+Van Hetenstraat,76,"","",7415TW,Deventer
+Van Hetenstraat,78,"","",7415TW,Deventer
+Van Hetenstraat,80,"","",7415TW,Deventer
+Van Hetenstraat,82,"","",7415TW,Deventer
+Van Hetenstraat,84,"","",7415TW,Deventer
+Van Hetenstraat,86,"","",7415TW,Deventer
+Van Hetenstraat,88,"","",7415TW,Deventer
+Van Hetenstraat,90,"","",7415TW,Deventer
+Van Hetenstraat,92,"","",7415TW,Deventer
+Van Hetenstraat,94,"","",7415TW,Deventer
+Van Hetenstraat,96,"","",7415TW,Deventer
+Van Hetenstraat,98,A,"",7415TW,Deventer
+Van Hetenstraat,98,B,"",7415TW,Deventer
+Van Hetenstraat,98,C,"",7415TW,Deventer
+Van Hetenstraat,100,"","",7415TX,Deventer
+Van Hetenstraat,100,A,"",7415TX,Deventer
+Van Hetenstraat,100,B,"",7415TX,Deventer
+Van Hetenstraat,100,C,"",7415TX,Deventer
+Van Hetenstraat,102,"","",7415TX,Deventer
+Van Hetenstraat,102,A,"",7415TX,Deventer
+Van Hetenstraat,102,B,"",7415TX,Deventer
+Van Hetenstraat,102,C,"",7415TX,Deventer
+Van Hetenstraat,104,"","",7415TX,Deventer
+Van Hetenstraat,104,A,"",7415TX,Deventer
+Van Hetenstraat,104,B,"",7415TX,Deventer
+Van Hetenstraat,104,C,"",7415TX,Deventer
+Van Hetenstraat,108,"","",7415TX,Deventer
+Van Hetenstraat,114,"","",7415TX,Deventer
+Van Hetenstraat,116,"","",7415TX,Deventer
+Van Hetenstraat,118,"","",7415TX,Deventer
+Van Hetenstraat,120,"","",7415TX,Deventer
+Van Hetenstraat,122,"","",7415TX,Deventer
+Van Hetenstraat,124,"","",7415TX,Deventer
+Van Hetenstraat,126,"","",7415TX,Deventer
+Van Hetenstraat,128,"","",7415TX,Deventer
+Van Hetenstraat,130,"","",7415TX,Deventer
+Van Hetenstraat,132,"","",7415TX,Deventer
+Van Hetenstraat,132,"","",7415TX,Deventer
+Van Hetenstraat,132,"","",7415TX,Deventer
+Van Hetenstraat,134,"","",7415TX,Deventer
+Van Hetenstraat,136,"","",7415TX,Deventer
+Van Hetenstraat,138,"","",7415TX,Deventer
+Van Hetenstraat,140,"","",7415TX,Deventer
+Van Hetenstraat,142,"","",7415TX,Deventer
+Van Hetenstraat,144,"","",7415TX,Deventer
+Van Hetenstraat,146,"","",7415TX,Deventer
+Van Hetenstraat,148,"","",7415TX,Deventer
+Van Hetenstraat,180,"","",7415TZ,Deventer
+Van Hetenstraat,182,"","",7415TZ,Deventer
+Van Hetenstraat,184,"","",7415TZ,Deventer
+Van Hetenstraat,186,"","",7415TZ,Deventer
+Van Hetenstraat,188,"","",7415TZ,Deventer
+Van Hetenstraat,190,"","",7415TZ,Deventer
+Van Hetenstraat,192,"","",7415TZ,Deventer
+Van Hetenstraat,194,"","",7415TZ,Deventer
+Van Hetenstraat,194,G,1,7415TZ,Deventer
+Van Hetenstraat,194,G,2,7415TZ,Deventer
+Van Hetenstraat,194,G,3,7415TZ,Deventer
+Van Hetenstraat,194,G,4,7415TZ,Deventer
+Van Hetenstraat,196,"","",7415TZ,Deventer
+Van Hetenstraat,198,"","",7415TZ,Deventer
+Van Hetenstraat,200,"","",7415TZ,Deventer
+Van Hetenstraat,202,"","",7415TZ,Deventer
+Van Hetenstraat,204,"","",7415TZ,Deventer
+Van Hetenstraat,206,"","",7415TZ,Deventer
+Van Hetenstraat,208,"","",7415TZ,Deventer
+Van Hetenstraat,210,"","",7415TZ,Deventer
+Van Hetenstraat,212,"","",7415TZ,Deventer
+Van Hetenstraat,214,"","",7415TZ,Deventer
+Van Hetenstraat,216,"","",7415TZ,Deventer
+Van Hetenstraat,218,"","",7415TZ,Deventer
+Van Hetenstraat,220,"","",7415TZ,Deventer
+Van Hetenstraat,222,"","",7415TZ,Deventer
+Van Hetenstraat,224,"","",7415TZ,Deventer
+Van Hetenstraat,226,"","",7415TZ,Deventer
+Van Hetenstraat,228,"","",7415TZ,Deventer
+Van Hetenstraat,230,"","",7415TZ,Deventer
+Van Hetenstraat,232,"","",7415TZ,Deventer
+Van Hetenstraat,234,"","",7415TZ,Deventer
+Van Hetenstraat,236,"","",7415TZ,Deventer
+Van Hetenstraat,238,"","",7415TZ,Deventer
+Van Hetenstraat,240,"","",7415TZ,Deventer
+Van Hetenstraat,242,"","",7415TZ,Deventer

@@ -1,78 +1,78 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5042SB,Brugstraat,2,,
-5042SB,Brugstraat,5,,
-5042SB,Brugstraat,10,,
-5042SE,Dr. Eijgenraamstraat,3,,
-5042AE,Rueckertbaan,201,,
-5042AE,Rueckertbaan,205,,
-5042AE,Rueckertbaan,207,,
-5042AE,Rueckertbaan,207,a,
-5042AE,Rueckertbaan,207,b,
-5042AE,Rueckertbaan,215,,
-5042AE,Rueckertbaan,217,,
-5042AE,Rueckertbaan,219,,
-5042AE,Rueckertbaan,225,,
-5042AE,Rueckertbaan,229,,
-5042AD,Dr. Deelenlaan,2,,
-5042AD,Dr. Deelenlaan,5,,
-5042AD,Dr. Deelenlaan,6,,
-5042AD,Dr. Deelenlaan,6,a,
-5042AD,Dr. Deelenlaan,8,,
-5042AD,Dr. Deelenlaan,10,,
-5042AD,Dr. Deelenlaan,10,a,
-5042AB,Hasseltplein,32,,
-5042AB,Hasseltplein,7,,
-5042AB,Hasseltplein,11,,
-5042AB,Hasseltplein,12,,
-5042AB,Hasseltplein,13,,
-5042AB,Hasseltplein,14,,
-5042AB,Hasseltplein,15,,
-5042AB,Hasseltplein,16,,
-5042AB,Hasseltplein,17,,
-5042AC,Hasseltplein,33,,
-5042AC,Hasseltplein,34,,
-5042AC,Hasseltplein,35,,
-5042AC,Hasseltplein,36,,
-5042AC,Hasseltplein,37,,
-5042AC,Hasseltplein,38,,
-5042AC,Hasseltplein,40,,
-5042AC,Hasseltplein,41,,
-5042AC,Hasseltplein,42,a,
-5042AC,Hasseltplein,42,b,
-5042AC,Hasseltplein,42,c,
-5042AC,Hasseltplein,42,d,
-5042AC,Hasseltplein,42,e,
-5042AC,Hasseltplein,42,f,
-5042AC,Hasseltplein,42,g,
-5042AC,Hasseltplein,42,h,
-5042AC,Hasseltplein,44,,
-5042AD,Dr. Deelenlaan,8,a,
-5042AD,Dr. Deelenlaan,6,b,
-5042AD,Dr. Deelenlaan,8,b,
-5042AD,Dr. Deelenlaan,15,,
-5042AD,Dr. Deelenlaan,17,,
-5042AD,Dr. Deelenlaan,9,,
-5042AD,Dr. Deelenlaan,11,,
-5042AD,Dr. Deelenlaan,13,,
-5042AD,Dr. Deelenlaan,19,,
-5042AB,Hasseltplein,9,,
-5042AB,Hasseltplein,10,,
-5042SB,Brugstraat,4,,
-5042AE,Rueckertbaan,207,c,
-5042AE,Rueckertbaan,203,,
-5042AE,Rueckertbaan,203,,01
-5042AE,Rueckertbaan,203,,02
-5042AE,Rueckertbaan,203,,03
-5042AE,Rueckertbaan,203,,04
-5042AE,Rueckertbaan,203,,05
-5042AE,Rueckertbaan,203,,06
-5042AE,Rueckertbaan,203,,07
-5042AE,Rueckertbaan,203,,08
-5042AE,Rueckertbaan,203,,09
-5042AD,Dr. Deelenlaan,11,,
-5042AD,Dr. Deelenlaan,11,,
-5042AD,Dr. Deelenlaan,7,,
-5042AD,Dr. Deelenlaan,10,,
-5042AB,Hasseltplein,8,,
-5042AE,Rueckertbaan,207,c,
-5042AE,Rueckertbaan,203,,06
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hasseltplein,10,"","",5042AB,Tilburg
+Hasseltplein,11,"","",5042AB,Tilburg
+Hasseltplein,12,"","",5042AB,Tilburg
+Hasseltplein,13,"","",5042AB,Tilburg
+Hasseltplein,14,"","",5042AB,Tilburg
+Hasseltplein,15,"","",5042AB,Tilburg
+Hasseltplein,16,"","",5042AB,Tilburg
+Hasseltplein,17,"","",5042AB,Tilburg
+Hasseltplein,32,"","",5042AB,Tilburg
+Hasseltplein,7,"","",5042AB,Tilburg
+Hasseltplein,8,"","",5042AB,Tilburg
+Hasseltplein,9,"","",5042AB,Tilburg
+Hasseltplein,33,"","",5042AC,Tilburg
+Hasseltplein,34,"","",5042AC,Tilburg
+Hasseltplein,35,"","",5042AC,Tilburg
+Hasseltplein,36,"","",5042AC,Tilburg
+Hasseltplein,37,"","",5042AC,Tilburg
+Hasseltplein,38,"","",5042AC,Tilburg
+Hasseltplein,40,"","",5042AC,Tilburg
+Hasseltplein,41,"","",5042AC,Tilburg
+Hasseltplein,42,A,"",5042AC,Tilburg
+Hasseltplein,42,B,"",5042AC,Tilburg
+Hasseltplein,42,C,"",5042AC,Tilburg
+Hasseltplein,42,D,"",5042AC,Tilburg
+Hasseltplein,42,E,"",5042AC,Tilburg
+Hasseltplein,42,F,"",5042AC,Tilburg
+Hasseltplein,42,G,"",5042AC,Tilburg
+Hasseltplein,42,H,"",5042AC,Tilburg
+Hasseltplein,44,"","",5042AC,Tilburg
+Dr. Deelenlaan,10,"","",5042AD,Tilburg
+Dr. Deelenlaan,10,"","",5042AD,Tilburg
+Dr. Deelenlaan,10,A,"",5042AD,Tilburg
+Dr. Deelenlaan,11,"","",5042AD,Tilburg
+Dr. Deelenlaan,11,"","",5042AD,Tilburg
+Dr. Deelenlaan,11,"","",5042AD,Tilburg
+Dr. Deelenlaan,13,"","",5042AD,Tilburg
+Dr. Deelenlaan,15,"","",5042AD,Tilburg
+Dr. Deelenlaan,17,"","",5042AD,Tilburg
+Dr. Deelenlaan,19,"","",5042AD,Tilburg
+Dr. Deelenlaan,2,"","",5042AD,Tilburg
+Dr. Deelenlaan,5,"","",5042AD,Tilburg
+Dr. Deelenlaan,6,"","",5042AD,Tilburg
+Dr. Deelenlaan,6,A,"",5042AD,Tilburg
+Dr. Deelenlaan,6,B,"",5042AD,Tilburg
+Dr. Deelenlaan,7,"","",5042AD,Tilburg
+Dr. Deelenlaan,8,"","",5042AD,Tilburg
+Dr. Deelenlaan,8,A,"",5042AD,Tilburg
+Dr. Deelenlaan,8,B,"",5042AD,Tilburg
+Dr. Deelenlaan,9,"","",5042AD,Tilburg
+Rueckertbaan,201,"","",5042AE,Tilburg
+Rueckertbaan,203,"","",5042AE,Tilburg
+Rueckertbaan,203,"",01,5042AE,Tilburg
+Rueckertbaan,203,"",02,5042AE,Tilburg
+Rueckertbaan,203,"",03,5042AE,Tilburg
+Rueckertbaan,203,"",04,5042AE,Tilburg
+Rueckertbaan,203,"",05,5042AE,Tilburg
+Rueckertbaan,203,"",06,5042AE,Tilburg
+Rueckertbaan,203,"",06,5042AE,Tilburg
+Rueckertbaan,203,"",07,5042AE,Tilburg
+Rueckertbaan,203,"",08,5042AE,Tilburg
+Rueckertbaan,203,"",09,5042AE,Tilburg
+Rueckertbaan,205,"","",5042AE,Tilburg
+Rueckertbaan,207,"","",5042AE,Tilburg
+Rueckertbaan,207,A,"",5042AE,Tilburg
+Rueckertbaan,207,B,"",5042AE,Tilburg
+Rueckertbaan,207,C,"",5042AE,Tilburg
+Rueckertbaan,207,C,"",5042AE,Tilburg
+Rueckertbaan,215,"","",5042AE,Tilburg
+Rueckertbaan,217,"","",5042AE,Tilburg
+Rueckertbaan,219,"","",5042AE,Tilburg
+Rueckertbaan,225,"","",5042AE,Tilburg
+Rueckertbaan,229,"","",5042AE,Tilburg
+Brugstraat,10,"","",5042SB,Tilburg
+Brugstraat,2,"","",5042SB,Tilburg
+Brugstraat,4,"","",5042SB,Tilburg
+Brugstraat,5,"","",5042SB,Tilburg
+Dr. Eijgenraamstraat,3,"","",5042SE,Tilburg

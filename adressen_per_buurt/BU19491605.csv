@@ -1,1396 +1,706 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9076BW",10,"",""
-"9076BW",12,"",""
-"9076BW",14,"",""
-"9076BW",20,"A",""
-"9076BW",18,"",""
-"9076BW",16,"",""
-"9076BW",12,"B",""
-"9076BW",18,"",""
-"9076BW",16,"A",""
-"9076BW",18,"B",""
-"9076BW",8,"",""
-"9076BW",18,"",""
-"9076BW",18,"C",""
-"9076BW",22,"",""
-"9076BW",18,"A",""
-"9076BW",14,"",""
-"9076BW",8,"",""
-"9076BW",2,"",""
-"9076BW",20,"",""
-"9076BW",18,"B",""
-"9076BW",18,"C",""
-"9076BW",4,"",""
-"9076BW",18,"A",""
-"9076BW",24,"",""
-"9076BW",26,"",""
-"9076DN",40,"",""
-"9076DN",34,"",""
-"9076DN",36,"",""
-"9076DN",6,"",""
-"9076DN",10,"",""
-"9076DN",26,"",""
-"9076DN",38,"",""
-"9076DN",12,"",""
-"9076DN",24,"",""
-"9076DN",22,"",""
-"9076DN",8,"",""
-"9076DN",28,"",""
-"9076DN",30,"",""
-"9076DP",25,"",""
-"9076DP",3,"",""
-"9076DP",1,"",""
-"9076DP",1,"A",""
-"9076DP",2,"",""
-"9076DP",39,"",""
-"9076DP",3,"",""
-"9076DP",4,"",""
-"9076DP",17,"",""
-"9076DP",3,"",""
-"9076DP",23,"",""
-"9076DP",10,"",""
-"9076DP",10,"",""
-"9076DP",41,"",""
-"9076DP",35,"",""
-"9076DP",33,"",""
-"9076DP",13,"",""
-"9076DP",6,"",""
-"9076DP",29,"",""
-"9076DP",27,"",""
-"9076DP",8,"",""
-"9076DP",21,"",""
-"9076DP",6,"",""
-"9076DP",19,"",""
-"9076DP",8,"",""
-"9076DP",7,"",""
-"9076DP",5,"",""
-"9076DP",11,"",""
-"9076DP",31,"",""
-"9076DP",25,"A",""
-"9076DP",3,"A",""
-"9076DP",37,"",""
-"9076DR",29,"",""
-"9076DR",15,"",""
-"9076DR",27,"",""
-"9076DR",11,"",""
-"9076DR",17,"",""
-"9076DR",13,"",""
-"9076DR",19,"",""
-"9076DR",1,"",""
-"9076DR",31,"",""
-"9076DR",7,"",""
-"9076DR",33,"",""
-"9076DR",21,"",""
-"9076DR",23,"",""
-"9076DR",5,"",""
-"9076DR",25,"",""
-"9076DV",9,"",""
-"9076DV",5,"",""
-"9076DV",23,"",""
-"9076DV",1,"",""
-"9076DV",7,"",""
-"9076DV",7,"",""
-"9076DV",35,"",""
-"9076DV",19,"",""
-"9076DV",17,"",""
-"9076DV",29,"",""
-"9076DV",15,"",""
-"9076DV",39,"",""
-"9076DV",11,"",""
-"9076DV",11,"",""
-"9076DV",1,"",""
-"9076DV",13,"",""
-"9076DV",19,"",""
-"9076DV",13,"",""
-"9076DV",13,"",""
-"9076DV",13,"",""
-"9076DV",5,"",""
-"9076DV",25,"",""
-"9076DV",37,"",""
-"9076DV",35,"",""
-"9076DV",3,"",""
-"9076DV",5,"",""
-"9076DV",9,"",""
-"9076DV",9,"",""
-"9076DV",17,"",""
-"9076DV",29,"",""
-"9076DV",21,"",""
-"9076DV",15,"",""
-"9076DV",5,"",""
-"9076DV",27,"",""
-"9076DV",11,"",""
-"9076DV",1,"",""
-"9076DV",37,"",""
-"9076DV",7,"",""
-"9076DV",31,"",""
-"9076DV",33,"",""
-"9076DV",9,"",""
-"9076DV",31,"",""
-"9076DV",3,"",""
-"9076DV",23,"",""
-"9076DV",21,"",""
-"9076DV",39,"",""
-"9076DV",7,"",""
-"9076DV",3,"",""
-"9076DV",27,"",""
-"9076DV",1,"",""
-"9076DV",11,"",""
-"9076DV",3,"",""
-"9076DV",25,"",""
-"9076DV",33,"",""
-"9076DX",12,"",""
-"9076DX",8,"",""
-"9076DX",12,"",""
-"9076DX",6,"",""
-"9076DX",2,"",""
-"9076DX",4,"",""
-"9076DX",16,"",""
-"9076DX",14,"",""
-"9076DX",2,"",""
-"9076DX",10,"",""
-"9076DX",2,"",""
-"9076DX",4,"",""
-"9076DX",14,"",""
-"9076DX",6,"",""
-"9076DX",8,"",""
-"9076DX",10,"",""
-"9076DX",16,"",""
-"9076DX",4,"",""
-"9076DX",2,"",""
-"9076DX",4,"",""
-"9076EA",7,"",""
-"9076EA",5,"",""
-"9076EA",1,"",""
-"9076EB",38,"",""
-"9076EB",7,"C",""
-"9076EB",42,"",""
-"9076EB",28,"",""
-"9076EB",10,"",""
-"9076EB",40,"",""
-"9076EB",44,"",""
-"9076EB",26,"",""
-"9076EB",36,"",""
-"9076EB",7,"A",""
-"9076EB",7,"A",""
-"9076EB",11,"",""
-"9076EB",7,"B",""
-"9076EB",46,"",""
-"9076EB",34,"",""
-"9076EB",8,"",""
-"9076EB",12,"",""
-"9076EB",14,"",""
-"9076EB",32,"",""
-"9076EB",30,"",""
-"9076EB",20,"",""
-"9076EB",20,"A",""
-"9076EB",4,"",""
-"9076EB",56,"",""
-"9076EB",54,"",""
-"9076EB",8,"",""
-"9076EB",9,"",""
-"9076EB",52,"",""
-"9076EB",2,"",""
-"9076EB",22,"",""
-"9076EB",6,"",""
-"9076EB",16,"",""
-"9076EB",24,"",""
-"9076EB",1,"",""
-"9076EB",48,"",""
-"9076EB",50,"",""
-"9076EB",7,"",""
-"9076EB",5,"",""
-"9076EB",7,"A",""
-"9076EC",17,"",""
-"9076EC",1,"",""
-"9076EC",3,"",""
-"9076EC",7,"",""
-"9076EC",5,"",""
-"9076EC",15,"",""
-"9076EC",9,"",""
-"9076EC",11,"",""
-"9076EC",13,"",""
-"9076EC",2,"",""
-"9076ED",14,"",""
-"9076ED",46,"",""
-"9076ED",10,"",""
-"9076ED",41,"",""
-"9076ED",16,"",""
-"9076ED",1,"",""
-"9076ED",17,"",""
-"9076ED",15,"",""
-"9076ED",32,"",""
-"9076ED",42,"",""
-"9076ED",33,"",""
-"9076ED",9,"",""
-"9076ED",40,"",""
-"9076ED",36,"",""
-"9076ED",20,"",""
-"9076ED",44,"",""
-"9076ED",12,"",""
-"9076ED",18,"",""
-"9076ED",28,"",""
-"9076ED",5,"",""
-"9076ED",43,"",""
-"9076ED",11,"",""
-"9076ED",48,"",""
-"9076ED",34,"",""
-"9076ED",31,"",""
-"9076ED",38,"",""
-"9076ED",13,"",""
-"9076ED",22,"",""
-"9076ED",6,"",""
-"9076ED",3,"",""
-"9076ED",7,"",""
-"9076ED",24,"",""
-"9076ED",39,"",""
-"9076ED",27,"",""
-"9076ED",26,"",""
-"9076ED",37,"",""
-"9076ED",30,"",""
-"9076ED",35,"",""
-"9076ED",4,"",""
-"9076ED",25,"",""
-"9076ED",8,"",""
-"9076ED",21,"",""
-"9076ED",29,"",""
-"9076ED",23,"",""
-"9076ED",19,"",""
-"9076EE",39,"",""
-"9076EE",15,"",""
-"9076EE",21,"",""
-"9076EE",37,"",""
-"9076EE",5,"",""
-"9076EE",1,"",""
-"9076EE",45,"",""
-"9076EE",7,"",""
-"9076EE",29,"",""
-"9076EE",13,"",""
-"9076EE",33,"",""
-"9076EE",23,"",""
-"9076EE",19,"",""
-"9076EE",25,"",""
-"9076EE",11,"",""
-"9076EE",27,"",""
-"9076EE",41,"",""
-"9076EE",17,"",""
-"9076EE",31,"",""
-"9076EE",9,"",""
-"9076EE",35,"",""
-"9076EE",3,"",""
-"9076EE",43,"",""
-"9076EG",24,"",""
-"9076EG",20,"",""
-"9076EG",26,"",""
-"9076EG",18,"",""
-"9076EG",6,"",""
-"9076EG",14,"",""
-"9076EG",22,"",""
-"9076EG",28,"",""
-"9076EG",12,"",""
-"9076EG",2,"",""
-"9076EG",10,"",""
-"9076EG",8,"",""
-"9076EG",16,"",""
-"9076EG",4,"",""
-"9076EH",36,"",""
-"9076EH",42,"",""
-"9076EH",38,"",""
-"9076EH",30,"",""
-"9076EH",50,"",""
-"9076EH",40,"",""
-"9076EH",44,"",""
-"9076EH",48,"",""
-"9076EH",46,"",""
-"9076EH",32,"",""
-"9076EH",34,"",""
-"9076EH",52,"",""
-"9076EH",54,"",""
-"9076EJ",2,"",""
-"9076EJ",8,"",""
-"9076EJ",4,"",""
-"9076EJ",1,"",""
-"9076EJ",9,"",""
-"9076EJ",5,"",""
-"9076EJ",3,"",""
-"9076EJ",6,"",""
-"9076EK",10,"",""
-"9076EK",14,"",""
-"9076EK",30,"",""
-"9076EK",6,"",""
-"9076EK",12,"",""
-"9076EK",8,"",""
-"9076EK",28,"",""
-"9076EK",16,"",""
-"9076EK",2,"",""
-"9076EK",5,"",""
-"9076EK",1,"",""
-"9076EK",22,"",""
-"9076EK",18,"",""
-"9076EK",3,"",""
-"9076EK",26,"",""
-"9076EK",20,"",""
-"9076EK",4,"",""
-"9076EK",24,"",""
-"9076EL",52,"",""
-"9076EL",42,"",""
-"9076EL",32,"",""
-"9076EL",34,"",""
-"9076EL",44,"",""
-"9076EL",46,"",""
-"9076EL",38,"",""
-"9076EL",54,"",""
-"9076EL",48,"",""
-"9076EL",36,"",""
-"9076EL",40,"",""
-"9076EL",50,"",""
-"9076EM",33,"",""
-"9076EM",37,"",""
-"9076EM",23,"",""
-"9076EM",13,"",""
-"9076EM",5,"",""
-"9076EM",35,"",""
-"9076EM",31,"",""
-"9076EM",7,"",""
-"9076EM",19,"",""
-"9076EM",29,"",""
-"9076EM",25,"",""
-"9076EM",1,"",""
-"9076EM",3,"",""
-"9076EM",39,"",""
-"9076EM",21,"",""
-"9076EM",17,"",""
-"9076EM",15,"",""
-"9076EN",12,"",""
-"9076EN",8,"",""
-"9076EN",16,"",""
-"9076EN",14,"",""
-"9076EN",32,"",""
-"9076EN",30,"",""
-"9076EN",18,"",""
-"9076EN",10,"",""
-"9076EN",24,"",""
-"9076EN",2,"",""
-"9076EN",34,"",""
-"9076EN",6,"",""
-"9076EN",4,"",""
-"9076EN",22,"",""
-"9076EN",20,"",""
-"9076EN",26,"",""
-"9076EN",28,"",""
-"9076EP",24,"",""
-"9076EP",25,"",""
-"9076EP",12,"",""
-"9076EP",2,"",""
-"9076EP",3,"",""
-"9076EP",27,"",""
-"9076EP",19,"",""
-"9076EP",8,"",""
-"9076EP",29,"",""
-"9076EP",23,"",""
-"9076EP",16,"",""
-"9076EP",31,"",""
-"9076EP",4,"",""
-"9076EP",7,"",""
-"9076EP",17,"",""
-"9076EP",13,"",""
-"9076EP",11,"",""
-"9076EP",31,"A",""
-"9076EP",9,"",""
-"9076EP",21,"",""
-"9076EP",5,"",""
-"9076EP",18,"",""
-"9076EP",10,"",""
-"9076EP",22,"",""
-"9076EP",15,"",""
-"9076EP",6,"",""
-"9076EP",1,"",""
-"9076EP",14,"",""
-"9076EP",20,"",""
-"9076ER",16,"",""
-"9076ER",5,"",""
-"9076ER",20,"",""
-"9076ER",18,"",""
-"9076ER",12,"",""
-"9076ER",15,"",""
-"9076ER",13,"",""
-"9076ER",14,"",""
-"9076ER",17,"",""
-"9076ER",10,"",""
-"9076ER",8,"",""
-"9076ER",3,"",""
-"9076ER",22,"",""
-"9076ER",2,"",""
-"9076ER",4,"",""
-"9076ER",11,"",""
-"9076ER",19,"",""
-"9076ER",24,"",""
-"9076ER",9,"",""
-"9076ER",7,"",""
-"9076ER",1,"",""
-"9076ER",7,"A",""
-"9076ES",3,"",""
-"9076ES",5,"",""
-"9076ES",1,"",""
-"9076ES",11,"",""
-"9076ES",9,"",""
-"9076ES",13,"",""
-"9076ES",17,"",""
-"9076ES",15,"",""
-"9076ES",7,"",""
-"9076ET",24,"",""
-"9076ET",6,"",""
-"9076ET",16,"",""
-"9076ET",22,"",""
-"9076ET",4,"",""
-"9076ET",18,"",""
-"9076ET",12,"",""
-"9076ET",14,"",""
-"9076ET",20,"",""
-"9076ET",26,"",""
-"9076ET",8,"",""
-"9076ET",10,"",""
-"9076ET",2,"",""
-"9076EV",26,"",""
-"9076EV",16,"",""
-"9076EV",6,"",""
-"9076EV",10,"",""
-"9076EV",22,"",""
-"9076EV",14,"",""
-"9076EV",12,"",""
-"9076EV",4,"",""
-"9076EV",24,"",""
-"9076EV",40,"",""
-"9076EV",32,"",""
-"9076EV",30,"",""
-"9076EV",38,"",""
-"9076EV",44,"",""
-"9076EV",20,"",""
-"9076EV",34,"",""
-"9076EV",28,"",""
-"9076EV",42,"",""
-"9076EV",36,"",""
-"9076EV",18,"",""
-"9076EW",72,"",""
-"9076EW",74,"",""
-"9076EW",52,"",""
-"9076EW",62,"",""
-"9076EW",62,"",""
-"9076EW",50,"",""
-"9076EW",64,"",""
-"9076EW",62,"",""
-"9076EW",76,"",""
-"9076EW",68,"",""
-"9076EW",62,"",""
-"9076EW",46,"",""
-"9076EW",70,"",""
-"9076EW",66,"",""
-"9076EW",48,"",""
-"9076EX",78,"",""
-"9076EX",100,"",""
-"9076EX",94,"",""
-"9076EX",98,"",""
-"9076EX",82,"",""
-"9076EX",102,"",""
-"9076EX",96,"",""
-"9076EX",106,"",""
-"9076EX",84,"",""
-"9076EX",108,"",""
-"9076EX",104,"",""
-"9076EX",80,"",""
-"9076EZ",124,"",""
-"9076EZ",114,"",""
-"9076EZ",118,"",""
-"9076EZ",110,"",""
-"9076EZ",130,"",""
-"9076EZ",122,"",""
-"9076EZ",128,"",""
-"9076EZ",120,"",""
-"9076EZ",136,"",""
-"9076EZ",142,"",""
-"9076EZ",138,"",""
-"9076EZ",112,"",""
-"9076EZ",134,"",""
-"9076EZ",126,"",""
-"9076EZ",116,"",""
-"9076EZ",140,"",""
-"9076EZ",132,"",""
-"9076GA",148,"",""
-"9076GA",164,"",""
-"9076GA",162,"",""
-"9076GA",170,"",""
-"9076GA",166,"",""
-"9076GA",144,"",""
-"9076GA",146,"",""
-"9076GA",174,"",""
-"9076GA",160,"",""
-"9076GA",172,"",""
-"9076GA",150,"",""
-"9076GA",156,"",""
-"9076GA",168,"",""
-"9076GA",158,"",""
-"9076GA",154,"",""
-"9076GA",152,"",""
-"9076GB",32,"",""
-"9076GB",34,"",""
-"9076GB",24,"",""
-"9076GB",22,"",""
-"9076GB",28,"",""
-"9076GB",40,"",""
-"9076GB",30,"",""
-"9076GB",16,"",""
-"9076GB",18,"",""
-"9076GB",20,"",""
-"9076GB",10,"",""
-"9076GB",38,"",""
-"9076GB",36,"",""
-"9076GB",26,"",""
-"9076GB",12,"",""
-"9076GB",4,"",""
-"9076GB",14,"",""
-"9076GB",6,"",""
-"9076GB",8,"",""
-"9076GC",11,"",""
-"9076GC",1,"",""
-"9076GC",3,"",""
-"9076GC",13,"",""
-"9076GC",9,"",""
-"9076GD",23,"",""
-"9076GD",15,"",""
-"9076GD",21,"",""
-"9076GD",17,"",""
-"9076GD",19,"",""
-"9076GD",11,"",""
-"9076GE",166,"",""
-"9076GE",176,"",""
-"9076GE",175,"",""
-"9076GE",160,"L",""
-"9076GE",160,"I",""
-"9076GE",161,"",""
-"9076GE",168,"",""
-"9076GE",162,"",""
-"9076GE",173,"",""
-"9076GE",160,"M",""
-"9076GE",174,"",""
-"9076GE",160,"H",""
-"9076GE",160,"F",""
-"9076GE",170,"A",""
-"9076GE",160,"K",""
-"9076GE",160,"O",""
-"9076GE",160,"E",""
-"9076GE",178,"",""
-"9076GE",170,"",""
-"9076GE",164,"",""
-"9076GE",162,"A",""
-"9076GE",160,"B",""
-"9076GE",160,"N",""
-"9076GE",160,"A",""
-"9076GE",160,"J",""
-"9076GE",160,"D",""
-"9076GE",160,"G",""
-"9076GE",160,"C",""
-"9076HA",1,"",""
-"9076HA",5,"",""
-"9076HA",9,"",""
-"9076HA",6,"",""
-"9076HA",2,"",""
-"9076HA",4,"",""
-"9076HA",3,"",""
-"9076HA",11,"",""
-"9076HA",7,"",""
-"9076HB",9,"",""
-"9076HB",7,"",""
-"9076HB",3,"",""
-"9076HB",5,"",""
-"9076HC",3,"B",""
-"9076HC",5,"",""
-"9076HC",3,"A",""
-"9076HC",1,"A",""
-"9076HC",1,"B",""
-"9076HD",1,"",""
-"9076HD",3,"",""
-"9076HD",2,"",""
-"9076HD",5,"",""
-"9076HE",6,"",""
-"9076HE",18,"",""
-"9076HE",20,"",""
-"9076HE",8,"",""
-"9076HE",10,"",""
-"9076HE",14,"",""
-"9076HE",9,"",""
-"9076HE",4,"",""
-"9076HE",2,"",""
-"9076HE",5,"",""
-"9076HE",16,"",""
-"9076HE",7,"",""
-"9076HE",1,"",""
-"9076HE",3,"",""
-"9076HE",12,"",""
-"9076HG",8,"",""
-"9076HG",3,"",""
-"9076HG",15,"",""
-"9076HG",9,"",""
-"9076HG",14,"",""
-"9076HG",1,"",""
-"9076HG",21,"",""
-"9076HG",13,"",""
-"9076HG",4,"",""
-"9076HG",23,"",""
-"9076HG",10,"",""
-"9076HG",5,"",""
-"9076HG",2,"",""
-"9076HG",11,"",""
-"9076HG",6,"",""
-"9076HG",7,"",""
-"9076HG",12,"",""
-"9076HG",19,"",""
-"9076HG",17,"",""
-"9076KA",27,"",""
-"9076KA",35,"",""
-"9076KA",25,"",""
-"9076KA",7,"",""
-"9076KA",23,"",""
-"9076KA",2,"",""
-"9076KA",11,"",""
-"9076KA",19,"",""
-"9076KA",17,"",""
-"9076KA",33,"",""
-"9076KA",16,"",""
-"9076KA",6,"",""
-"9076KA",15,"",""
-"9076KA",31,"",""
-"9076KA",8,"",""
-"9076KA",9,"",""
-"9076KA",21,"",""
-"9076KA",3,"",""
-"9076KA",1,"",""
-"9076KA",10,"",""
-"9076KA",5,"",""
-"9076KA",4,"",""
-"9076KA",29,"",""
-"9076KA",18,"",""
-"9076KA",13,"",""
-"9076KA",14,"",""
-"9076KB",29,"",""
-"9076KB",17,"",""
-"9076KB",13,"",""
-"9076KB",15,"",""
-"9076KB",19,"",""
-"9076KB",12,"",""
-"9076KB",14,"",""
-"9076KB",3,"",""
-"9076KB",8,"",""
-"9076KB",16,"",""
-"9076KB",5,"",""
-"9076KB",21,"",""
-"9076KB",4,"",""
-"9076KB",11,"",""
-"9076KB",6,"",""
-"9076KB",7,"",""
-"9076KB",35,"",""
-"9076KB",27,"",""
-"9076KB",2,"",""
-"9076KB",43,"",""
-"9076KB",37,"",""
-"9076KB",1,"",""
-"9076KB",10,"",""
-"9076KB",9,"",""
-"9076KB",23,"",""
-"9076KB",47,"",""
-"9076KB",33,"",""
-"9076KB",51,"",""
-"9076KB",39,"",""
-"9076KB",49,"",""
-"9076KB",25,"",""
-"9076KB",45,"",""
-"9076KB",41,"",""
-"9076KB",31,"",""
-9076HB,'t Hôf,7,,
-9076HB,'t Hôf,9,,
-9076HB,'t Hôf,5,,
-9076HB,'t Hôf,3,,
-9076ES,Burgemeester Albardastraat,3,,
-9076ES,Burgemeester Albardastraat,1,,
-9076ES,Burgemeester Albardastraat,17,,
-9076ES,Burgemeester Albardastraat,15,,
-9076ES,Burgemeester Albardastraat,13,,
-9076ES,Burgemeester Albardastraat,11,,
-9076ES,Burgemeester Albardastraat,9,,
-9076ES,Burgemeester Albardastraat,7,,
-9076ES,Burgemeester Albardastraat,5,,
-9076ET,Burgemeester Albardastraat,2,,
-9076ET,Burgemeester Albardastraat,26,,
-9076ET,Burgemeester Albardastraat,24,,
-9076ET,Burgemeester Albardastraat,22,,
-9076ET,Burgemeester Albardastraat,20,,
-9076ET,Burgemeester Albardastraat,18,,
-9076ET,Burgemeester Albardastraat,16,,
-9076ET,Burgemeester Albardastraat,14,,
-9076ET,Burgemeester Albardastraat,12,,
-9076ET,Burgemeester Albardastraat,10,,
-9076ET,Burgemeester Albardastraat,8,,
-9076ET,Burgemeester Albardastraat,6,,
-9076ET,Burgemeester Albardastraat,4,,
-9076EV,Burgemeester Vlaskampstraat,44,,
-9076EV,Burgemeester Vlaskampstraat,42,,
-9076EV,Burgemeester Vlaskampstraat,40,,
-9076EV,Burgemeester Vlaskampstraat,38,,
-9076EV,Burgemeester Vlaskampstraat,36,,
-9076EV,Burgemeester Vlaskampstraat,34,,
-9076EV,Burgemeester Vlaskampstraat,32,,
-9076EV,Burgemeester Vlaskampstraat,30,,
-9076EV,Burgemeester Vlaskampstraat,28,,
-9076EV,Burgemeester Vlaskampstraat,26,,
-9076EV,Burgemeester Vlaskampstraat,24,,
-9076EV,Burgemeester Vlaskampstraat,22,,
-9076EV,Burgemeester Vlaskampstraat,20,,
-9076EV,Burgemeester Vlaskampstraat,18,,
-9076EV,Burgemeester Vlaskampstraat,16,,
-9076EV,Burgemeester Vlaskampstraat,14,,
-9076EV,Burgemeester Vlaskampstraat,12,,
-9076EV,Burgemeester Vlaskampstraat,10,,
-9076EV,Burgemeester Vlaskampstraat,6,,
-9076EV,Burgemeester Vlaskampstraat,4,,
-9076EW,Burgemeester Vlaskampstraat,76,,
-9076EW,Burgemeester Vlaskampstraat,74,,
-9076EW,Burgemeester Vlaskampstraat,72,,
-9076EW,Burgemeester Vlaskampstraat,70,,
-9076EW,Burgemeester Vlaskampstraat,68,,
-9076EW,Burgemeester Vlaskampstraat,66,,
-9076EW,Burgemeester Vlaskampstraat,64,,
-9076EW,Burgemeester Vlaskampstraat,62,,
-9076EW,Burgemeester Vlaskampstraat,62,,
-9076EW,Burgemeester Vlaskampstraat,62,,
-9076EW,Burgemeester Vlaskampstraat,52,,
-9076EW,Burgemeester Vlaskampstraat,50,,
-9076EW,Burgemeester Vlaskampstraat,48,,
-9076EW,Burgemeester Vlaskampstraat,46,,
-9076EX,Burgemeester Vlaskampstraat,108,,
-9076EX,Burgemeester Vlaskampstraat,106,,
-9076EX,Burgemeester Vlaskampstraat,104,,
-9076EX,Burgemeester Vlaskampstraat,102,,
-9076EX,Burgemeester Vlaskampstraat,100,,
-9076EX,Burgemeester Vlaskampstraat,98,,
-9076EX,Burgemeester Vlaskampstraat,96,,
-9076EX,Burgemeester Vlaskampstraat,94,,
-9076EX,Burgemeester Vlaskampstraat,84,,
-9076EX,Burgemeester Vlaskampstraat,82,,
-9076EX,Burgemeester Vlaskampstraat,80,,
-9076EX,Burgemeester Vlaskampstraat,78,,
-9076EZ,Burgemeester Vlaskampstraat,142,,
-9076EZ,Burgemeester Vlaskampstraat,140,,
-9076EZ,Burgemeester Vlaskampstraat,138,,
-9076EZ,Burgemeester Vlaskampstraat,136,,
-9076EZ,Burgemeester Vlaskampstraat,134,,
-9076EZ,Burgemeester Vlaskampstraat,132,,
-9076EZ,Burgemeester Vlaskampstraat,130,,
-9076EZ,Burgemeester Vlaskampstraat,128,,
-9076EZ,Burgemeester Vlaskampstraat,126,,
-9076EZ,Burgemeester Vlaskampstraat,124,,
-9076EZ,Burgemeester Vlaskampstraat,122,,
-9076EZ,Burgemeester Vlaskampstraat,120,,
-9076EZ,Burgemeester Vlaskampstraat,118,,
-9076EZ,Burgemeester Vlaskampstraat,116,,
-9076EZ,Burgemeester Vlaskampstraat,114,,
-9076EZ,Burgemeester Vlaskampstraat,112,,
-9076EZ,Burgemeester Vlaskampstraat,110,,
-9076GA,Burgemeester Vlaskampstraat,174,,
-9076GA,Burgemeester Vlaskampstraat,172,,
-9076GA,Burgemeester Vlaskampstraat,170,,
-9076GA,Burgemeester Vlaskampstraat,168,,
-9076GA,Burgemeester Vlaskampstraat,166,,
-9076GA,Burgemeester Vlaskampstraat,164,,
-9076GA,Burgemeester Vlaskampstraat,162,,
-9076GA,Burgemeester Vlaskampstraat,160,,
-9076GA,Burgemeester Vlaskampstraat,158,,
-9076GA,Burgemeester Vlaskampstraat,156,,
-9076GA,Burgemeester Vlaskampstraat,154,,
-9076GA,Burgemeester Vlaskampstraat,152,,
-9076GA,Burgemeester Vlaskampstraat,150,,
-9076GA,Burgemeester Vlaskampstraat,148,,
-9076GA,Burgemeester Vlaskampstraat,146,,
-9076GA,Burgemeester Vlaskampstraat,144,,
-9076GD,Burgemeester Vlaskampstraat,23,,
-9076GD,Burgemeester Vlaskampstraat,21,,
-9076GD,Burgemeester Vlaskampstraat,19,,
-9076GD,Burgemeester Vlaskampstraat,17,,
-9076GD,Burgemeester Vlaskampstraat,15,,
-9076GD,Burgemeester Vlaskampstraat,11,,
-9076DV,Dirk Janszstraat,39,,
-9076DV,Dirk Janszstraat,37,,
-9076DV,Dirk Janszstraat,35,,
-9076DV,Dirk Janszstraat,33,,
-9076DV,Dirk Janszstraat,31,,
-9076DV,Dirk Janszstraat,29,,
-9076DV,Dirk Janszstraat,27,,
-9076DV,Dirk Janszstraat,25,,
-9076DV,Dirk Janszstraat,23,,
-9076DV,Dirk Janszstraat,21,,
-9076DV,Dirk Janszstraat,19,,
-9076DV,Dirk Janszstraat,17,,
-9076DV,Dirk Janszstraat,15,,
-9076DV,Dirk Janszstraat,13,,
-9076DV,Dirk Janszstraat,11,,
-9076DV,Dirk Janszstraat,9,,
-9076DV,Dirk Janszstraat,7,,
-9076DV,Dirk Janszstraat,5,,
-9076DV,Dirk Janszstraat,3,,
-9076DV,Dirk Janszstraat,1,,
-9076DV,Dirk Janszstraat,1,,
-9076DV,Dirk Janszstraat,1,,
-9076DV,Dirk Janszstraat,3,,
-9076DV,Dirk Janszstraat,3,,
-9076DV,Dirk Janszstraat,5,,
-9076DV,Dirk Janszstraat,5,,
-9076DV,Dirk Janszstraat,7,,
-9076DV,Dirk Janszstraat,7,,
-9076DV,Dirk Janszstraat,9,,
-9076DV,Dirk Janszstraat,9,,
-9076DV,Dirk Janszstraat,11,,
-9076DV,Dirk Janszstraat,11,,
-9076DV,Dirk Janszstraat,13,,
-9076DV,Dirk Janszstraat,13,,
-9076DX,Dirk Janszstraat,16,,
-9076DX,Dirk Janszstraat,14,,
-9076DX,Dirk Janszstraat,12,,
-9076DX,Dirk Janszstraat,10,,
-9076DX,Dirk Janszstraat,8,,
-9076DX,Dirk Janszstraat,6,,
-9076DX,Dirk Janszstraat,4,,
-9076DX,Dirk Janszstraat,2,,
-9076DX,Dirk Janszstraat,4,,
-9076DX,Dirk Janszstraat,4,,
-9076DX,Dirk Janszstraat,2,,
-9076DX,Dirk Janszstraat,2,,
-9076EE,Evert C. Slimstraat,45,,
-9076EE,Evert C. Slimstraat,43,,
-9076EE,Evert C. Slimstraat,41,,
-9076EE,Evert C. Slimstraat,39,,
-9076EE,Evert C. Slimstraat,37,,
-9076EE,Evert C. Slimstraat,35,,
-9076EE,Evert C. Slimstraat,33,,
-9076EE,Evert C. Slimstraat,31,,
-9076EE,Evert C. Slimstraat,29,,
-9076EE,Evert C. Slimstraat,27,,
-9076EE,Evert C. Slimstraat,25,,
-9076EE,Evert C. Slimstraat,23,,
-9076EE,Evert C. Slimstraat,21,,
-9076EE,Evert C. Slimstraat,19,,
-9076EE,Evert C. Slimstraat,17,,
-9076EE,Evert C. Slimstraat,15,,
-9076EE,Evert C. Slimstraat,13,,
-9076EE,Evert C. Slimstraat,11,,
-9076EE,Evert C. Slimstraat,9,,
-9076EE,Evert C. Slimstraat,7,,
-9076EE,Evert C. Slimstraat,5,,
-9076EE,Evert C. Slimstraat,3,,
-9076EE,Evert C. Slimstraat,1,,
-9076EG,Evert C. Slimstraat,28,,
-9076EG,Evert C. Slimstraat,26,,
-9076EG,Evert C. Slimstraat,24,,
-9076EG,Evert C. Slimstraat,22,,
-9076EG,Evert C. Slimstraat,20,,
-9076EG,Evert C. Slimstraat,18,,
-9076EG,Evert C. Slimstraat,16,,
-9076EG,Evert C. Slimstraat,14,,
-9076EG,Evert C. Slimstraat,12,,
-9076EG,Evert C. Slimstraat,10,,
-9076EG,Evert C. Slimstraat,8,,
-9076EG,Evert C. Slimstraat,6,,
-9076EG,Evert C. Slimstraat,4,,
-9076EG,Evert C. Slimstraat,2,,
-9076EH,Evert C. Slimstraat,54,,
-9076EH,Evert C. Slimstraat,52,,
-9076EH,Evert C. Slimstraat,50,,
-9076EH,Evert C. Slimstraat,48,,
-9076EH,Evert C. Slimstraat,46,,
-9076EH,Evert C. Slimstraat,44,,
-9076EH,Evert C. Slimstraat,42,,
-9076EH,Evert C. Slimstraat,40,,
-9076EH,Evert C. Slimstraat,38,,
-9076EH,Evert C. Slimstraat,36,,
-9076EH,Evert C. Slimstraat,34,,
-9076EH,Evert C. Slimstraat,32,,
-9076EH,Evert C. Slimstraat,30,,
-9076KA,Fogelsang,35,,
-9076KA,Fogelsang,33,,
-9076KA,Fogelsang,31,,
-9076KA,Fogelsang,29,,
-9076KA,Fogelsang,27,,
-9076KA,Fogelsang,25,,
-9076KA,Fogelsang,23,,
-9076KA,Fogelsang,21,,
-9076KA,Fogelsang,19,,
-9076KA,Fogelsang,18,,
-9076KA,Fogelsang,17,,
-9076KA,Fogelsang,16,,
-9076KA,Fogelsang,15,,
-9076KA,Fogelsang,14,,
-9076KA,Fogelsang,13,,
-9076KA,Fogelsang,11,,
-9076KA,Fogelsang,10,,
-9076KA,Fogelsang,9,,
-9076KA,Fogelsang,8,,
-9076KA,Fogelsang,7,,
-9076KA,Fogelsang,6,,
-9076KA,Fogelsang,5,,
-9076KA,Fogelsang,4,,
-9076KA,Fogelsang,3,,
-9076KA,Fogelsang,2,,
-9076KA,Fogelsang,1,,
-9076EB,Hartman Sannesstraat,56,,
-9076EB,Hartman Sannesstraat,54,,
-9076EB,Hartman Sannesstraat,52,,
-9076EB,Hartman Sannesstraat,50,,
-9076EB,Hartman Sannesstraat,48,,
-9076EB,Hartman Sannesstraat,46,,
-9076EB,Hartman Sannesstraat,44,,
-9076EB,Hartman Sannesstraat,42,,
-9076EB,Hartman Sannesstraat,40,,
-9076EB,Hartman Sannesstraat,38,,
-9076EB,Hartman Sannesstraat,36,,
-9076EB,Hartman Sannesstraat,34,,
-9076EB,Hartman Sannesstraat,32,,
-9076EB,Hartman Sannesstraat,30,,
-9076EB,Hartman Sannesstraat,28,,
-9076EB,Hartman Sannesstraat,26,,
-9076EB,Hartman Sannesstraat,24,,
-9076EB,Hartman Sannesstraat,22,,
-9076EB,Hartman Sannesstraat,20,,
-9076EB,Hartman Sannesstraat,20,A,
-9076EB,Hartman Sannesstraat,16,,
-9076EB,Hartman Sannesstraat,14,,
-9076EB,Hartman Sannesstraat,12,,
-9076EB,Hartman Sannesstraat,10,,
-9076EB,Hartman Sannesstraat,8,,
-9076EB,Hartman Sannesstraat,7,C,
-9076EB,Hartman Sannesstraat,7,B,
-9076EB,Hartman Sannesstraat,7,A,
-9076EB,Hartman Sannesstraat,7,,
-9076EB,Hartman Sannesstraat,7,A,
-9076EB,Hartman Sannesstraat,6,,
-9076EB,Hartman Sannesstraat,4,,
-9076EB,Hartman Sannesstraat,2,,
-9076EB,Hartman Sannesstraat,1,,
-9076EB,Hartman Sannesstraat,9,,
-9076EB,Hartman Sannesstraat,11,,
-9076EB,Hartman Sannesstraat,5,,
-9076EJ,Jan Geertsplein,9,,
-9076EJ,Jan Geertsplein,8,,
-9076EJ,Jan Geertsplein,6,,
-9076EJ,Jan Geertsplein,5,,
-9076EJ,Jan Geertsplein,4,,
-9076EJ,Jan Geertsplein,3,,
-9076EJ,Jan Geertsplein,2,,
-9076EJ,Jan Geertsplein,1,,
-9076EA,Jan Jansz Costerstraat,7,,
-9076EA,Jan Jansz Costerstraat,5,,
-9076EA,Jan Jansz Costerstraat,1,,
-9076ER,Johs. Kuikenstraat,24,,
-9076ER,Johs. Kuikenstraat,22,,
-9076ER,Johs. Kuikenstraat,20,,
-9076ER,Johs. Kuikenstraat,19,,
-9076ER,Johs. Kuikenstraat,18,,
-9076ER,Johs. Kuikenstraat,17,,
-9076ER,Johs. Kuikenstraat,16,,
-9076ER,Johs. Kuikenstraat,15,,
-9076ER,Johs. Kuikenstraat,14,,
-9076ER,Johs. Kuikenstraat,13,,
-9076ER,Johs. Kuikenstraat,12,,
-9076ER,Johs. Kuikenstraat,11,,
-9076ER,Johs. Kuikenstraat,10,,
-9076ER,Johs. Kuikenstraat,9,,
-9076ER,Johs. Kuikenstraat,8,,
-9076ER,Johs. Kuikenstraat,7,,
-9076ER,Johs. Kuikenstraat,7,A,
-9076ER,Johs. Kuikenstraat,5,,
-9076ER,Johs. Kuikenstraat,4,,
-9076ER,Johs. Kuikenstraat,3,,
-9076ER,Johs. Kuikenstraat,2,,
-9076ER,Johs. Kuikenstraat,1,,
-9076EK,Jakkele Weidemastraat,30,,
-9076EK,Jakkele Weidemastraat,28,,
-9076EK,Jakkele Weidemastraat,26,,
-9076EK,Jakkele Weidemastraat,24,,
-9076EK,Jakkele Weidemastraat,22,,
-9076EK,Jakkele Weidemastraat,20,,
-9076EK,Jakkele Weidemastraat,18,,
-9076EK,Jakkele Weidemastraat,16,,
-9076EK,Jakkele Weidemastraat,14,,
-9076EK,Jakkele Weidemastraat,12,,
-9076EK,Jakkele Weidemastraat,10,,
-9076EK,Jakkele Weidemastraat,8,,
-9076EK,Jakkele Weidemastraat,6,,
-9076EK,Jakkele Weidemastraat,5,,
-9076EK,Jakkele Weidemastraat,4,,
-9076EK,Jakkele Weidemastraat,3,,
-9076EK,Jakkele Weidemastraat,2,,
-9076EK,Jakkele Weidemastraat,1,,
-9076EL,Jakkele Weidemastraat,54,,
-9076EL,Jakkele Weidemastraat,52,,
-9076EL,Jakkele Weidemastraat,50,,
-9076EL,Jakkele Weidemastraat,48,,
-9076EL,Jakkele Weidemastraat,46,,
-9076EL,Jakkele Weidemastraat,44,,
-9076EL,Jakkele Weidemastraat,42,,
-9076EL,Jakkele Weidemastraat,40,,
-9076EL,Jakkele Weidemastraat,38,,
-9076EL,Jakkele Weidemastraat,36,,
-9076EL,Jakkele Weidemastraat,34,,
-9076EL,Jakkele Weidemastraat,32,,
-9076GB,K. van Zandbergenstraat,40,,
-9076GB,K. van Zandbergenstraat,38,,
-9076GB,K. van Zandbergenstraat,36,,
-9076GB,K. van Zandbergenstraat,34,,
-9076GB,K. van Zandbergenstraat,32,,
-9076GB,K. van Zandbergenstraat,30,,
-9076GB,K. van Zandbergenstraat,28,,
-9076GB,K. van Zandbergenstraat,26,,
-9076GB,K. van Zandbergenstraat,24,,
-9076GB,K. van Zandbergenstraat,22,,
-9076GB,K. van Zandbergenstraat,20,,
-9076GB,K. van Zandbergenstraat,18,,
-9076GB,K. van Zandbergenstraat,16,,
-9076GB,K. van Zandbergenstraat,14,,
-9076GB,K. van Zandbergenstraat,12,,
-9076GB,K. van Zandbergenstraat,10,,
-9076GB,K. van Zandbergenstraat,8,,
-9076GB,K. van Zandbergenstraat,6,,
-9076GB,K. van Zandbergenstraat,4,,
-9076GC,K. van Zandbergenstraat,13,,
-9076GC,K. van Zandbergenstraat,11,,
-9076GC,K. van Zandbergenstraat,9,,
-9076GC,K. van Zandbergenstraat,3,,
-9076GC,K. van Zandbergenstraat,1,,
-9076DP,Kade,41,,
-9076DP,Kade,39,,
-9076DP,Kade,37,,
-9076DP,Kade,35,,
-9076DP,Kade,33,,
-9076DP,Kade,31,,
-9076DP,Kade,29,,
-9076DP,Kade,27,,
-9076DP,Kade,25,,
-9076DP,Kade,25,A,
-9076DP,Kade,23,,
-9076DP,Kade,21,,
-9076DP,Kade,19,,
-9076DP,Kade,17,,
-9076DP,Kade,13,,
-9076DP,Kade,11,,
-9076DP,Kade,7,,
-9076DP,Kade,5,,
-9076DP,Kade,4,,
-9076DP,Kade,3,,
-9076DP,Kade,2,,
-9076DP,Kade,1,,
-9076DP,Kade,1,A,
-9076DP,Kade,6,,
-9076DP,Kade,6,,
-9076DP,Kade,8,,
-9076DP,Kade,8,,
-9076DP,Kade,10,,
-9076DP,Kade,10,,
-9076DP,Kade,3,,
-9076DP,Kade,3,A,
-9076KB,Kroanenburg,51,,
-9076KB,Kroanenburg,49,,
-9076KB,Kroanenburg,47,,
-9076KB,Kroanenburg,45,,
-9076KB,Kroanenburg,43,,
-9076KB,Kroanenburg,41,,
-9076KB,Kroanenburg,39,,
-9076KB,Kroanenburg,37,,
-9076KB,Kroanenburg,35,,
-9076KB,Kroanenburg,33,,
-9076KB,Kroanenburg,31,,
-9076KB,Kroanenburg,29,,
-9076KB,Kroanenburg,27,,
-9076KB,Kroanenburg,25,,
-9076KB,Kroanenburg,23,,
-9076KB,Kroanenburg,21,,
-9076KB,Kroanenburg,19,,
-9076KB,Kroanenburg,17,,
-9076KB,Kroanenburg,16,,
-9076KB,Kroanenburg,15,,
-9076KB,Kroanenburg,14,,
-9076KB,Kroanenburg,13,,
-9076KB,Kroanenburg,12,,
-9076KB,Kroanenburg,11,,
-9076KB,Kroanenburg,10,,
-9076KB,Kroanenburg,9,,
-9076KB,Kroanenburg,8,,
-9076KB,Kroanenburg,7,,
-9076KB,Kroanenburg,6,,
-9076KB,Kroanenburg,5,,
-9076KB,Kroanenburg,4,,
-9076KB,Kroanenburg,3,,
-9076KB,Kroanenburg,2,,
-9076KB,Kroanenburg,1,,
-9076EP,Dokter Lijberingstraat,22,,
-9076EP,Dokter Lijberingstraat,21,,
-9076EP,Dokter Lijberingstraat,20,,
-9076EP,Dokter Lijberingstraat,19,,
-9076EP,Dokter Lijberingstraat,18,,
-9076EP,Dokter Lijberingstraat,17,,
-9076EP,Dokter Lijberingstraat,16,,
-9076EP,Dokter Lijberingstraat,15,,
-9076EP,Dokter Lijberingstraat,14,,
-9076EP,Dokter Lijberingstraat,13,,
-9076EP,Dokter Lijberingstraat,12,,
-9076EP,Dokter Lijberingstraat,11,,
-9076EP,Dokter Lijberingstraat,10,,
-9076EP,Dokter Lijberingstraat,9,,
-9076EP,Dokter Lijberingstraat,8,,
-9076EP,Dokter Lijberingstraat,7,,
-9076EP,Dokter Lijberingstraat,6,,
-9076EP,Dokter Lijberingstraat,5,,
-9076EP,Dokter Lijberingstraat,4,,
-9076EP,Dokter Lijberingstraat,3,,
-9076EP,Dokter Lijberingstraat,2,,
-9076EP,Dokter Lijberingstraat,1,,
-9076EP,Dokter Lijberingstraat,31,,
-9076EP,Dokter Lijberingstraat,31,A,
-9076EP,Dokter Lijberingstraat,29,,
-9076EP,Dokter Lijberingstraat,27,,
-9076EP,Dokter Lijberingstraat,25,,
-9076EP,Dokter Lijberingstraat,24,,
-9076EP,Dokter Lijberingstraat,23,,
-9076GE,Middelweg-West,178,,
-9076GE,Middelweg-West,176,,
-9076GE,Middelweg-West,175,,
-9076GE,Middelweg-West,174,,
-9076GE,Middelweg-West,173,,
-9076GE,Middelweg-West,170,A,
-9076GE,Middelweg-West,170,,
-9076GE,Middelweg-West,168,,
-9076GE,Middelweg-West,166,,
-9076GE,Middelweg-West,164,,
-9076GE,Middelweg-West,162,,
-9076GE,Middelweg-West,162,A,
-9076GE,Middelweg-West,161,,
-9076GE,Middelweg-West,160,J,
-9076GE,Middelweg-West,160,G,
-9076GE,Middelweg-West,160,N,
-9076GE,Middelweg-West,160,F,
-9076GE,Middelweg-West,160,E,
-9076GE,Middelweg-West,160,O,
-9076GE,Middelweg-West,160,D,
-9076GE,Middelweg-West,160,M,
-9076GE,Middelweg-West,160,I,
-9076GE,Middelweg-West,160,K,
-9076GE,Middelweg-West,160,A,
-9076GE,Middelweg-West,160,C,
-9076GE,Middelweg-West,160,B,
-9076GE,Middelweg-West,160,L,
-9076GE,Middelweg-West,160,H,
-9076ED,S. Brandsmalaan,48,,
-9076ED,S. Brandsmalaan,46,,
-9076ED,S. Brandsmalaan,44,,
-9076ED,S. Brandsmalaan,43,,
-9076ED,S. Brandsmalaan,42,,
-9076ED,S. Brandsmalaan,41,,
-9076ED,S. Brandsmalaan,40,,
-9076ED,S. Brandsmalaan,39,,
-9076ED,S. Brandsmalaan,38,,
-9076ED,S. Brandsmalaan,37,,
-9076ED,S. Brandsmalaan,36,,
-9076ED,S. Brandsmalaan,35,,
-9076ED,S. Brandsmalaan,34,,
-9076ED,S. Brandsmalaan,33,,
-9076ED,S. Brandsmalaan,32,,
-9076ED,S. Brandsmalaan,31,,
-9076ED,S. Brandsmalaan,30,,
-9076ED,S. Brandsmalaan,29,,
-9076ED,S. Brandsmalaan,28,,
-9076ED,S. Brandsmalaan,27,,
-9076ED,S. Brandsmalaan,26,,
-9076ED,S. Brandsmalaan,25,,
-9076ED,S. Brandsmalaan,24,,
-9076ED,S. Brandsmalaan,23,,
-9076ED,S. Brandsmalaan,22,,
-9076ED,S. Brandsmalaan,21,,
-9076ED,S. Brandsmalaan,20,,
-9076ED,S. Brandsmalaan,19,,
-9076ED,S. Brandsmalaan,18,,
-9076ED,S. Brandsmalaan,17,,
-9076ED,S. Brandsmalaan,16,,
-9076ED,S. Brandsmalaan,15,,
-9076ED,S. Brandsmalaan,14,,
-9076ED,S. Brandsmalaan,13,,
-9076ED,S. Brandsmalaan,12,,
-9076ED,S. Brandsmalaan,11,,
-9076ED,S. Brandsmalaan,10,,
-9076ED,S. Brandsmalaan,9,,
-9076ED,S. Brandsmalaan,8,,
-9076ED,S. Brandsmalaan,7,,
-9076ED,S. Brandsmalaan,6,,
-9076ED,S. Brandsmalaan,5,,
-9076ED,S. Brandsmalaan,4,,
-9076ED,S. Brandsmalaan,3,,
-9076ED,S. Brandsmalaan,1,,
-9076DR,Statenweg,33,,
-9076DR,Statenweg,31,,
-9076DR,Statenweg,29,,
-9076DR,Statenweg,27,,
-9076DR,Statenweg,25,,
-9076DR,Statenweg,23,,
-9076DR,Statenweg,21,,
-9076DR,Statenweg,19,,
-9076DR,Statenweg,17,,
-9076DR,Statenweg,15,,
-9076DR,Statenweg,13,,
-9076DR,Statenweg,11,,
-9076DR,Statenweg,7,,
-9076DR,Statenweg,5,,
-9076DR,Statenweg,1,,
-9076HA,Ulbe van Houtenstraat,11,,
-9076HA,Ulbe van Houtenstraat,9,,
-9076HA,Ulbe van Houtenstraat,7,,
-9076HA,Ulbe van Houtenstraat,6,,
-9076HA,Ulbe van Houtenstraat,5,,
-9076HA,Ulbe van Houtenstraat,4,,
-9076HA,Ulbe van Houtenstraat,3,,
-9076HA,Ulbe van Houtenstraat,2,,
-9076HA,Ulbe van Houtenstraat,1,,
-9076BW,van Harenstraat,26,,
-9076BW,van Harenstraat,24,,
-9076BW,van Harenstraat,22,,
-9076BW,van Harenstraat,20,,
-9076BW,van Harenstraat,18,,
-9076BW,van Harenstraat,16,,
-9076BW,van Harenstraat,16,A,
-9076BW,van Harenstraat,14,,
-9076BW,van Harenstraat,12,,
-9076BW,van Harenstraat,12,B,
-9076BW,van Harenstraat,10,,
-9076BW,van Harenstraat,8,,
-9076BW,van Harenstraat,4,,
-9076BW,van Harenstraat,2,,
-9076BW,van Harenstraat,20,A,
-9076BW,van Harenstraat,18,,
-9076BW,van Harenstraat,18,A,
-9076BW,van Harenstraat,18,B,
-9076BW,van Harenstraat,18,C,
-9076EM,W. Boumastraat,31,,
-9076EM,W. Boumastraat,29,,
-9076EM,W. Boumastraat,25,,
-9076EM,W. Boumastraat,23,,
-9076EM,W. Boumastraat,21,,
-9076EM,W. Boumastraat,19,,
-9076EM,W. Boumastraat,17,,
-9076EM,W. Boumastraat,15,,
-9076EM,W. Boumastraat,13,,
-9076EM,W. Boumastraat,7,,
-9076EM,W. Boumastraat,5,,
-9076EM,W. Boumastraat,3,,
-9076EM,W. Boumastraat,1,,
-9076EM,W. Boumastraat,39,,
-9076EM,W. Boumastraat,37,,
-9076EM,W. Boumastraat,35,,
-9076EM,W. Boumastraat,33,,
-9076EN,W. Boumastraat,32,,
-9076EN,W. Boumastraat,30,,
-9076EN,W. Boumastraat,28,,
-9076EN,W. Boumastraat,26,,
-9076EN,W. Boumastraat,24,,
-9076EN,W. Boumastraat,22,,
-9076EN,W. Boumastraat,20,,
-9076EN,W. Boumastraat,18,,
-9076EN,W. Boumastraat,16,,
-9076EN,W. Boumastraat,14,,
-9076EN,W. Boumastraat,12,,
-9076EN,W. Boumastraat,10,,
-9076EN,W. Boumastraat,8,,
-9076EN,W. Boumastraat,6,,
-9076EN,W. Boumastraat,4,,
-9076EN,W. Boumastraat,2,,
-9076EN,W. Boumastraat,34,,
-9076DN,Warmoesstraat,40,,
-9076DN,Warmoesstraat,38,,
-9076DN,Warmoesstraat,36,,
-9076DN,Warmoesstraat,34,,
-9076DN,Warmoesstraat,30,,
-9076DN,Warmoesstraat,28,,
-9076DN,Warmoesstraat,26,,
-9076DN,Warmoesstraat,24,,
-9076DN,Warmoesstraat,22,,
-9076DN,Warmoesstraat,12,,
-9076DN,Warmoesstraat,10,,
-9076DN,Warmoesstraat,8,,
-9076DN,Warmoesstraat,6,,
-9076HG,Hotze Buwaldastraat,23,,
-9076HG,Hotze Buwaldastraat,21,,
-9076HG,Hotze Buwaldastraat,19,,
-9076HG,Hotze Buwaldastraat,17,,
-9076HG,Hotze Buwaldastraat,15,,
-9076HG,Hotze Buwaldastraat,14,,
-9076HG,Hotze Buwaldastraat,13,,
-9076HG,Hotze Buwaldastraat,12,,
-9076HG,Hotze Buwaldastraat,11,,
-9076HG,Hotze Buwaldastraat,10,,
-9076HG,Hotze Buwaldastraat,9,,
-9076HG,Hotze Buwaldastraat,8,,
-9076HG,Hotze Buwaldastraat,7,,
-9076HG,Hotze Buwaldastraat,6,,
-9076HG,Hotze Buwaldastraat,5,,
-9076HG,Hotze Buwaldastraat,4,,
-9076HG,Hotze Buwaldastraat,3,,
-9076HG,Hotze Buwaldastraat,2,,
-9076HG,Hotze Buwaldastraat,1,,
-9076HD,Burgemeester Klokstraat,5,,
-9076HD,Burgemeester Klokstraat,3,,
-9076HD,Burgemeester Klokstraat,2,,
-9076HD,Burgemeester Klokstraat,1,,
-9076HE,Burgemeester Kuperusstraat,20,,
-9076HE,Burgemeester Kuperusstraat,18,,
-9076HE,Burgemeester Kuperusstraat,16,,
-9076HE,Burgemeester Kuperusstraat,14,,
-9076HE,Burgemeester Kuperusstraat,12,,
-9076HE,Burgemeester Kuperusstraat,10,,
-9076HE,Burgemeester Kuperusstraat,9,,
-9076HE,Burgemeester Kuperusstraat,8,,
-9076HE,Burgemeester Kuperusstraat,7,,
-9076HE,Burgemeester Kuperusstraat,6,,
-9076HE,Burgemeester Kuperusstraat,5,,
-9076HE,Burgemeester Kuperusstraat,4,,
-9076HE,Burgemeester Kuperusstraat,3,,
-9076HE,Burgemeester Kuperusstraat,2,,
-9076HE,Burgemeester Kuperusstraat,1,,
-9076HC,Siktaris Brouwerstraat,5,,
-9076HC,Siktaris Brouwerstraat,3,A,
-9076HC,Siktaris Brouwerstraat,3,B,
-9076HC,Siktaris Brouwerstraat,1,A,
-9076HC,Siktaris Brouwerstraat,1,B,
-9076EC,Boschespâd,17,,
-9076EC,Burgemeester Hesselinkstraat,17,,
-9076EC,Boschespâd,15,,
-9076EC,Burgemeester Hesselinkstraat,15,,
-9076EC,Boschespâd,13,,
-9076EC,Burgemeester Hesselinkstraat,13,,
-9076EC,Boschespâd,11,,
-9076EC,Burgemeester Hesselinkstraat,11,,
-9076EC,Boschespâd,9,,
-9076EC,Burgemeester Hesselinkstraat,9,,
-9076EC,Boschespâd,7,,
-9076EC,Burgemeester Hesselinkstraat,7,,
-9076EC,Boschespâd,5,,
-9076EC,Burgemeester Hesselinkstraat,5,,
-9076EC,Boschespâd,3,,
-9076EC,Burgemeester Hesselinkstraat,3,,
-9076EC,Boschespâd,2,,
-9076EC,Burgemeester Hesselinkstraat,2,,
-9076EC,Boschespâd,1,,
-9076EC,Burgemeester Hesselinkstraat,1,,
-9076EB,Hartman Sannesstraat,8,G,
-9076EB,Hartman Sannesstraat,8,F,
-9076EB,Hartman Sannesstraat,8,E,
-9076EB,Hartman Sannesstraat,8,D,
-9076EB,Hartman Sannesstraat,8,C,
-9076EB,Hartman Sannesstraat,8,B,
-9076EB,Hartman Sannesstraat,8,,
-9076EB,Hartman Sannesstraat,8,A,
-9076EB,Hartman Sannesstraat,9,A,
-9076GE,Middelweg-West,180,,
-9076BW,van Harenstraat,8,,
-9076BW,van Harenstraat,14,,
-9076BW,van Harenstraat,14,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+van Harenstraat,10,"","",9076BW,St.-Annaparochie
+van Harenstraat,12,"","",9076BW,St.-Annaparochie
+van Harenstraat,12,B,"",9076BW,St.-Annaparochie
+van Harenstraat,14,"","",9076BW,St.-Annaparochie
+van Harenstraat,14,"","",9076BW,St.-Annaparochie
+van Harenstraat,16,"","",9076BW,St.-Annaparochie
+van Harenstraat,16,A,"",9076BW,St.-Annaparochie
+van Harenstraat,18,"","",9076BW,St.-Annaparochie
+van Harenstraat,18,"","",9076BW,St.-Annaparochie
+van Harenstraat,18,"","",9076BW,St.-Annaparochie
+van Harenstraat,18,A,"",9076BW,St.-Annaparochie
+van Harenstraat,18,A,"",9076BW,St.-Annaparochie
+van Harenstraat,18,B,"",9076BW,St.-Annaparochie
+van Harenstraat,18,B,"",9076BW,St.-Annaparochie
+van Harenstraat,18,C,"",9076BW,St.-Annaparochie
+van Harenstraat,18,C,"",9076BW,St.-Annaparochie
+van Harenstraat,2,"","",9076BW,St.-Annaparochie
+van Harenstraat,20,"","",9076BW,St.-Annaparochie
+van Harenstraat,20,A,"",9076BW,St.-Annaparochie
+van Harenstraat,22,"","",9076BW,St.-Annaparochie
+van Harenstraat,24,"","",9076BW,St.-Annaparochie
+van Harenstraat,26,"","",9076BW,St.-Annaparochie
+van Harenstraat,4,"","",9076BW,St.-Annaparochie
+van Harenstraat,8,"","",9076BW,St.-Annaparochie
+van Harenstraat,8,"","",9076BW,St.-Annaparochie
+Warmoesstraat,10,"","",9076DN,St.-Annaparochie
+Warmoesstraat,12,"","",9076DN,St.-Annaparochie
+Warmoesstraat,22,"","",9076DN,St.-Annaparochie
+Warmoesstraat,24,"","",9076DN,St.-Annaparochie
+Warmoesstraat,26,"","",9076DN,St.-Annaparochie
+Warmoesstraat,28,"","",9076DN,St.-Annaparochie
+Warmoesstraat,30,"","",9076DN,St.-Annaparochie
+Warmoesstraat,34,"","",9076DN,St.-Annaparochie
+Warmoesstraat,36,"","",9076DN,St.-Annaparochie
+Warmoesstraat,38,"","",9076DN,St.-Annaparochie
+Warmoesstraat,40,"","",9076DN,St.-Annaparochie
+Warmoesstraat,6,"","",9076DN,St.-Annaparochie
+Warmoesstraat,8,"","",9076DN,St.-Annaparochie
+Kade,1,"","",9076DP,St.-Annaparochie
+Kade,1,A,"",9076DP,St.-Annaparochie
+Kade,10,"","",9076DP,St.-Annaparochie
+Kade,10,"","",9076DP,St.-Annaparochie
+Kade,11,"","",9076DP,St.-Annaparochie
+Kade,13,"","",9076DP,St.-Annaparochie
+Kade,17,"","",9076DP,St.-Annaparochie
+Kade,19,"","",9076DP,St.-Annaparochie
+Kade,2,"","",9076DP,St.-Annaparochie
+Kade,21,"","",9076DP,St.-Annaparochie
+Kade,23,"","",9076DP,St.-Annaparochie
+Kade,25,"","",9076DP,St.-Annaparochie
+Kade,25,A,"",9076DP,St.-Annaparochie
+Kade,27,"","",9076DP,St.-Annaparochie
+Kade,29,"","",9076DP,St.-Annaparochie
+Kade,3,"","",9076DP,St.-Annaparochie
+Kade,3,"","",9076DP,St.-Annaparochie
+Kade,3,"","",9076DP,St.-Annaparochie
+Kade,3,A,"",9076DP,St.-Annaparochie
+Kade,31,"","",9076DP,St.-Annaparochie
+Kade,33,"","",9076DP,St.-Annaparochie
+Kade,35,"","",9076DP,St.-Annaparochie
+Kade,37,"","",9076DP,St.-Annaparochie
+Kade,39,"","",9076DP,St.-Annaparochie
+Kade,4,"","",9076DP,St.-Annaparochie
+Kade,41,"","",9076DP,St.-Annaparochie
+Kade,5,"","",9076DP,St.-Annaparochie
+Kade,6,"","",9076DP,St.-Annaparochie
+Kade,6,"","",9076DP,St.-Annaparochie
+Kade,7,"","",9076DP,St.-Annaparochie
+Kade,8,"","",9076DP,St.-Annaparochie
+Kade,8,"","",9076DP,St.-Annaparochie
+Statenweg,1,"","",9076DR,St.-Annaparochie
+Statenweg,11,"","",9076DR,St.-Annaparochie
+Statenweg,13,"","",9076DR,St.-Annaparochie
+Statenweg,15,"","",9076DR,St.-Annaparochie
+Statenweg,17,"","",9076DR,St.-Annaparochie
+Statenweg,19,"","",9076DR,St.-Annaparochie
+Statenweg,21,"","",9076DR,St.-Annaparochie
+Statenweg,23,"","",9076DR,St.-Annaparochie
+Statenweg,25,"","",9076DR,St.-Annaparochie
+Statenweg,27,"","",9076DR,St.-Annaparochie
+Statenweg,29,"","",9076DR,St.-Annaparochie
+Statenweg,31,"","",9076DR,St.-Annaparochie
+Statenweg,33,"","",9076DR,St.-Annaparochie
+Statenweg,5,"","",9076DR,St.-Annaparochie
+Statenweg,7,"","",9076DR,St.-Annaparochie
+Dirk Janszstraat,1,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,1,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,1,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,1,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,11,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,11,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,11,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,11,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,13,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,13,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,13,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,13,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,15,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,15,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,17,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,17,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,19,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,19,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,21,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,21,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,23,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,23,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,25,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,25,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,27,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,27,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,29,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,29,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,3,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,3,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,3,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,3,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,31,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,31,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,33,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,33,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,35,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,35,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,37,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,37,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,39,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,39,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,5,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,5,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,5,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,5,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,7,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,7,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,7,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,7,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,9,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,9,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,9,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,9,"","",9076DV,St.-Annaparochie
+Dirk Janszstraat,10,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,10,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,12,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,12,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,14,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,14,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,16,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,16,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,2,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,2,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,2,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,2,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,4,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,4,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,4,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,4,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,6,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,6,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,8,"","",9076DX,St.-Annaparochie
+Dirk Janszstraat,8,"","",9076DX,St.-Annaparochie
+Jan Jansz Costerstraat,1,"","",9076EA,St.-Annaparochie
+Jan Jansz Costerstraat,5,"","",9076EA,St.-Annaparochie
+Jan Jansz Costerstraat,7,"","",9076EA,St.-Annaparochie
+Hartman Sannesstraat,1,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,10,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,11,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,12,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,14,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,16,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,2,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,20,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,20,A,"",9076EB,St.-Annaparochie
+Hartman Sannesstraat,22,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,24,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,26,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,28,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,30,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,32,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,34,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,36,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,38,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,4,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,40,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,42,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,44,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,46,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,48,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,5,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,50,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,52,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,54,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,56,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,6,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,7,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,7,A,"",9076EB,St.-Annaparochie
+Hartman Sannesstraat,7,A,"",9076EB,St.-Annaparochie
+Hartman Sannesstraat,7,A,"",9076EB,St.-Annaparochie
+Hartman Sannesstraat,7,B,"",9076EB,St.-Annaparochie
+Hartman Sannesstraat,7,C,"",9076EB,St.-Annaparochie
+Hartman Sannesstraat,8,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,8,"","",9076EB,St.-Annaparochie
+Hartman Sannesstraat,9,"","",9076EB,St.-Annaparochie
+Boschespâd,1,"","",9076EC,St.-Annaparochie
+Boschespâd,11,"","",9076EC,St.-Annaparochie
+Boschespâd,13,"","",9076EC,St.-Annaparochie
+Boschespâd,15,"","",9076EC,St.-Annaparochie
+Boschespâd,17,"","",9076EC,St.-Annaparochie
+Boschespâd,2,"","",9076EC,St.-Annaparochie
+Boschespâd,3,"","",9076EC,St.-Annaparochie
+Boschespâd,5,"","",9076EC,St.-Annaparochie
+Boschespâd,7,"","",9076EC,St.-Annaparochie
+Boschespâd,9,"","",9076EC,St.-Annaparochie
+S. Brandsmalaan,1,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,10,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,11,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,12,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,13,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,14,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,15,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,16,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,17,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,18,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,19,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,20,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,21,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,22,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,23,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,24,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,25,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,26,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,27,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,28,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,29,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,3,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,30,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,31,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,32,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,33,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,34,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,35,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,36,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,37,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,38,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,39,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,4,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,40,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,41,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,42,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,43,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,44,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,46,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,48,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,5,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,6,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,7,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,8,"","",9076ED,St.-Annaparochie
+S. Brandsmalaan,9,"","",9076ED,St.-Annaparochie
+Evert C. Slimstraat,1,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,11,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,13,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,15,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,17,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,19,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,21,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,23,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,25,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,27,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,29,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,3,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,31,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,33,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,35,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,37,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,39,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,41,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,43,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,45,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,5,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,7,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,9,"","",9076EE,St.-Annaparochie
+Evert C. Slimstraat,10,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,12,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,14,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,16,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,18,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,2,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,20,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,22,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,24,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,26,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,28,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,4,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,6,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,8,"","",9076EG,St.-Annaparochie
+Evert C. Slimstraat,30,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,32,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,34,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,36,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,38,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,40,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,42,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,44,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,46,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,48,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,50,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,52,"","",9076EH,St.-Annaparochie
+Evert C. Slimstraat,54,"","",9076EH,St.-Annaparochie
+Jan Geertsplein,1,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,2,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,3,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,4,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,5,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,6,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,8,"","",9076EJ,St.-Annaparochie
+Jan Geertsplein,9,"","",9076EJ,St.-Annaparochie
+Jakkele Weidemastraat,1,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,10,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,12,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,14,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,16,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,18,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,2,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,20,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,22,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,24,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,26,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,28,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,3,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,30,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,4,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,5,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,6,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,8,"","",9076EK,St.-Annaparochie
+Jakkele Weidemastraat,32,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,34,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,36,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,38,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,40,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,42,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,44,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,46,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,48,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,50,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,52,"","",9076EL,St.-Annaparochie
+Jakkele Weidemastraat,54,"","",9076EL,St.-Annaparochie
+W. Boumastraat,1,"","",9076EM,St.-Annaparochie
+W. Boumastraat,13,"","",9076EM,St.-Annaparochie
+W. Boumastraat,15,"","",9076EM,St.-Annaparochie
+W. Boumastraat,17,"","",9076EM,St.-Annaparochie
+W. Boumastraat,19,"","",9076EM,St.-Annaparochie
+W. Boumastraat,21,"","",9076EM,St.-Annaparochie
+W. Boumastraat,23,"","",9076EM,St.-Annaparochie
+W. Boumastraat,25,"","",9076EM,St.-Annaparochie
+W. Boumastraat,29,"","",9076EM,St.-Annaparochie
+W. Boumastraat,3,"","",9076EM,St.-Annaparochie
+W. Boumastraat,31,"","",9076EM,St.-Annaparochie
+W. Boumastraat,33,"","",9076EM,St.-Annaparochie
+W. Boumastraat,35,"","",9076EM,St.-Annaparochie
+W. Boumastraat,37,"","",9076EM,St.-Annaparochie
+W. Boumastraat,39,"","",9076EM,St.-Annaparochie
+W. Boumastraat,5,"","",9076EM,St.-Annaparochie
+W. Boumastraat,7,"","",9076EM,St.-Annaparochie
+W. Boumastraat,10,"","",9076EN,St.-Annaparochie
+W. Boumastraat,12,"","",9076EN,St.-Annaparochie
+W. Boumastraat,14,"","",9076EN,St.-Annaparochie
+W. Boumastraat,16,"","",9076EN,St.-Annaparochie
+W. Boumastraat,18,"","",9076EN,St.-Annaparochie
+W. Boumastraat,2,"","",9076EN,St.-Annaparochie
+W. Boumastraat,20,"","",9076EN,St.-Annaparochie
+W. Boumastraat,22,"","",9076EN,St.-Annaparochie
+W. Boumastraat,24,"","",9076EN,St.-Annaparochie
+W. Boumastraat,26,"","",9076EN,St.-Annaparochie
+W. Boumastraat,28,"","",9076EN,St.-Annaparochie
+W. Boumastraat,30,"","",9076EN,St.-Annaparochie
+W. Boumastraat,32,"","",9076EN,St.-Annaparochie
+W. Boumastraat,34,"","",9076EN,St.-Annaparochie
+W. Boumastraat,4,"","",9076EN,St.-Annaparochie
+W. Boumastraat,6,"","",9076EN,St.-Annaparochie
+W. Boumastraat,8,"","",9076EN,St.-Annaparochie
+Dokter Lijberingstraat,1,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,10,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,11,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,12,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,13,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,14,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,15,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,16,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,17,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,18,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,19,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,2,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,20,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,21,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,22,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,23,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,24,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,25,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,27,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,29,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,3,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,31,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,31,A,"",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,4,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,5,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,6,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,7,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,8,"","",9076EP,St.-Annaparochie
+Dokter Lijberingstraat,9,"","",9076EP,St.-Annaparochie
+Johs. Kuikenstraat,1,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,10,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,11,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,12,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,13,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,14,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,15,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,16,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,17,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,18,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,19,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,2,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,20,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,22,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,24,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,3,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,4,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,5,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,7,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,7,A,"",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,8,"","",9076ER,St.-Annaparochie
+Johs. Kuikenstraat,9,"","",9076ER,St.-Annaparochie
+Burgemeester Albardastraat,1,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,11,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,13,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,15,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,17,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,3,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,5,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,7,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,9,"","",9076ES,St.-Annaparochie
+Burgemeester Albardastraat,10,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,12,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,14,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,16,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,18,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,2,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,20,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,22,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,24,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,26,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,4,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,6,"","",9076ET,St.-Annaparochie
+Burgemeester Albardastraat,8,"","",9076ET,St.-Annaparochie
+Burgemeester Vlaskampstraat,10,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,12,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,14,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,16,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,18,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,20,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,22,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,24,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,26,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,28,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,30,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,32,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,34,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,36,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,38,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,4,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,40,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,42,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,44,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,6,"","",9076EV,St.-Annaparochie
+Burgemeester Vlaskampstraat,46,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,48,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,50,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,52,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,62,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,62,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,62,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,62,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,64,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,66,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,68,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,70,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,72,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,74,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,76,"","",9076EW,St.-Annaparochie
+Burgemeester Vlaskampstraat,100,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,102,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,104,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,106,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,108,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,78,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,80,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,82,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,84,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,94,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,96,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,98,"","",9076EX,St.-Annaparochie
+Burgemeester Vlaskampstraat,110,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,112,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,114,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,116,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,118,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,120,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,122,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,124,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,126,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,128,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,130,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,132,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,134,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,136,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,138,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,140,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,142,"","",9076EZ,St.-Annaparochie
+Burgemeester Vlaskampstraat,144,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,146,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,148,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,150,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,152,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,154,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,156,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,158,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,160,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,162,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,164,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,166,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,168,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,170,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,172,"","",9076GA,St.-Annaparochie
+Burgemeester Vlaskampstraat,174,"","",9076GA,St.-Annaparochie
+K. van Zandbergenstraat,10,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,12,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,14,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,16,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,18,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,20,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,22,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,24,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,26,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,28,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,30,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,32,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,34,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,36,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,38,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,4,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,40,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,6,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,8,"","",9076GB,St.-Annaparochie
+K. van Zandbergenstraat,1,"","",9076GC,St.-Annaparochie
+K. van Zandbergenstraat,11,"","",9076GC,St.-Annaparochie
+K. van Zandbergenstraat,13,"","",9076GC,St.-Annaparochie
+K. van Zandbergenstraat,3,"","",9076GC,St.-Annaparochie
+K. van Zandbergenstraat,9,"","",9076GC,St.-Annaparochie
+Burgemeester Vlaskampstraat,11,"","",9076GD,St.-Annaparochie
+Burgemeester Vlaskampstraat,15,"","",9076GD,St.-Annaparochie
+Burgemeester Vlaskampstraat,17,"","",9076GD,St.-Annaparochie
+Burgemeester Vlaskampstraat,19,"","",9076GD,St.-Annaparochie
+Burgemeester Vlaskampstraat,21,"","",9076GD,St.-Annaparochie
+Burgemeester Vlaskampstraat,23,"","",9076GD,St.-Annaparochie
+Middelweg-West,160,A,"",9076GE,St.-Annaparochie
+Middelweg-West,160,B,"",9076GE,St.-Annaparochie
+Middelweg-West,160,C,"",9076GE,St.-Annaparochie
+Middelweg-West,160,D,"",9076GE,St.-Annaparochie
+Middelweg-West,160,E,"",9076GE,St.-Annaparochie
+Middelweg-West,160,F,"",9076GE,St.-Annaparochie
+Middelweg-West,160,G,"",9076GE,St.-Annaparochie
+Middelweg-West,160,H,"",9076GE,St.-Annaparochie
+Middelweg-West,160,I,"",9076GE,St.-Annaparochie
+Middelweg-West,160,J,"",9076GE,St.-Annaparochie
+Middelweg-West,160,K,"",9076GE,St.-Annaparochie
+Middelweg-West,160,L,"",9076GE,St.-Annaparochie
+Middelweg-West,160,M,"",9076GE,St.-Annaparochie
+Middelweg-West,160,N,"",9076GE,St.-Annaparochie
+Middelweg-West,160,O,"",9076GE,St.-Annaparochie
+Middelweg-West,161,"","",9076GE,St.-Annaparochie
+Middelweg-West,162,"","",9076GE,St.-Annaparochie
+Middelweg-West,162,A,"",9076GE,St.-Annaparochie
+Middelweg-West,164,"","",9076GE,St.-Annaparochie
+Middelweg-West,166,"","",9076GE,St.-Annaparochie
+Middelweg-West,168,"","",9076GE,St.-Annaparochie
+Middelweg-West,170,"","",9076GE,St.-Annaparochie
+Middelweg-West,170,A,"",9076GE,St.-Annaparochie
+Middelweg-West,173,"","",9076GE,St.-Annaparochie
+Middelweg-West,174,"","",9076GE,St.-Annaparochie
+Middelweg-West,175,"","",9076GE,St.-Annaparochie
+Middelweg-West,176,"","",9076GE,St.-Annaparochie
+Middelweg-West,178,"","",9076GE,St.-Annaparochie
+Ulbe van Houtenstraat,1,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,11,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,2,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,3,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,4,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,5,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,6,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,7,"","",9076HA,St.-Annaparochie
+Ulbe van Houtenstraat,9,"","",9076HA,St.-Annaparochie
+'t Hôf,3,"","",9076HB,St.-Annaparochie
+'t Hôf,5,"","",9076HB,St.-Annaparochie
+'t Hôf,7,"","",9076HB,St.-Annaparochie
+'t Hôf,9,"","",9076HB,St.-Annaparochie
+Siktaris Brouwerstraat,1,A,"",9076HC,St.-Annaparochie
+Siktaris Brouwerstraat,1,B,"",9076HC,St.-Annaparochie
+Siktaris Brouwerstraat,3,A,"",9076HC,St.-Annaparochie
+Siktaris Brouwerstraat,3,B,"",9076HC,St.-Annaparochie
+Siktaris Brouwerstraat,5,"","",9076HC,St.-Annaparochie
+Burgemeester Klokstraat,1,"","",9076HD,St.-Annaparochie
+Burgemeester Klokstraat,2,"","",9076HD,St.-Annaparochie
+Burgemeester Klokstraat,3,"","",9076HD,St.-Annaparochie
+Burgemeester Klokstraat,5,"","",9076HD,St.-Annaparochie
+Burgemeester Kuperusstraat,1,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,10,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,12,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,14,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,16,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,18,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,2,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,20,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,3,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,4,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,5,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,6,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,7,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,8,"","",9076HE,St.-Annaparochie
+Burgemeester Kuperusstraat,9,"","",9076HE,St.-Annaparochie
+Hotze Buwaldastraat,1,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,10,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,11,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,12,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,13,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,14,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,15,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,17,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,19,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,2,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,21,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,23,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,3,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,4,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,5,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,6,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,7,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,8,"","",9076HG,St.-Annaparochie
+Hotze Buwaldastraat,9,"","",9076HG,St.-Annaparochie
+Fogelsang,1,"","",9076KA,St.-Annaparochie
+Fogelsang,10,"","",9076KA,St.-Annaparochie
+Fogelsang,11,"","",9076KA,St.-Annaparochie
+Fogelsang,13,"","",9076KA,St.-Annaparochie
+Fogelsang,14,"","",9076KA,St.-Annaparochie
+Fogelsang,15,"","",9076KA,St.-Annaparochie
+Fogelsang,16,"","",9076KA,St.-Annaparochie
+Fogelsang,17,"","",9076KA,St.-Annaparochie
+Fogelsang,18,"","",9076KA,St.-Annaparochie
+Fogelsang,19,"","",9076KA,St.-Annaparochie
+Fogelsang,2,"","",9076KA,St.-Annaparochie
+Fogelsang,21,"","",9076KA,St.-Annaparochie
+Fogelsang,23,"","",9076KA,St.-Annaparochie
+Fogelsang,25,"","",9076KA,St.-Annaparochie
+Fogelsang,27,"","",9076KA,St.-Annaparochie
+Fogelsang,29,"","",9076KA,St.-Annaparochie
+Fogelsang,3,"","",9076KA,St.-Annaparochie
+Fogelsang,31,"","",9076KA,St.-Annaparochie
+Fogelsang,33,"","",9076KA,St.-Annaparochie
+Fogelsang,35,"","",9076KA,St.-Annaparochie
+Fogelsang,4,"","",9076KA,St.-Annaparochie
+Fogelsang,5,"","",9076KA,St.-Annaparochie
+Fogelsang,6,"","",9076KA,St.-Annaparochie
+Fogelsang,7,"","",9076KA,St.-Annaparochie
+Fogelsang,8,"","",9076KA,St.-Annaparochie
+Fogelsang,9,"","",9076KA,St.-Annaparochie
+Kroanenburg,1,"","",9076KB,St.-Annaparochie
+Kroanenburg,10,"","",9076KB,St.-Annaparochie
+Kroanenburg,11,"","",9076KB,St.-Annaparochie
+Kroanenburg,12,"","",9076KB,St.-Annaparochie
+Kroanenburg,13,"","",9076KB,St.-Annaparochie
+Kroanenburg,14,"","",9076KB,St.-Annaparochie
+Kroanenburg,15,"","",9076KB,St.-Annaparochie
+Kroanenburg,16,"","",9076KB,St.-Annaparochie
+Kroanenburg,17,"","",9076KB,St.-Annaparochie
+Kroanenburg,19,"","",9076KB,St.-Annaparochie
+Kroanenburg,2,"","",9076KB,St.-Annaparochie
+Kroanenburg,21,"","",9076KB,St.-Annaparochie
+Kroanenburg,23,"","",9076KB,St.-Annaparochie
+Kroanenburg,25,"","",9076KB,St.-Annaparochie
+Kroanenburg,27,"","",9076KB,St.-Annaparochie
+Kroanenburg,29,"","",9076KB,St.-Annaparochie
+Kroanenburg,3,"","",9076KB,St.-Annaparochie
+Kroanenburg,31,"","",9076KB,St.-Annaparochie
+Kroanenburg,33,"","",9076KB,St.-Annaparochie
+Kroanenburg,35,"","",9076KB,St.-Annaparochie
+Kroanenburg,37,"","",9076KB,St.-Annaparochie
+Kroanenburg,39,"","",9076KB,St.-Annaparochie
+Kroanenburg,4,"","",9076KB,St.-Annaparochie
+Kroanenburg,41,"","",9076KB,St.-Annaparochie
+Kroanenburg,43,"","",9076KB,St.-Annaparochie
+Kroanenburg,45,"","",9076KB,St.-Annaparochie
+Kroanenburg,47,"","",9076KB,St.-Annaparochie
+Kroanenburg,49,"","",9076KB,St.-Annaparochie
+Kroanenburg,5,"","",9076KB,St.-Annaparochie
+Kroanenburg,51,"","",9076KB,St.-Annaparochie
+Kroanenburg,6,"","",9076KB,St.-Annaparochie
+Kroanenburg,7,"","",9076KB,St.-Annaparochie
+Kroanenburg,8,"","",9076KB,St.-Annaparochie
+Kroanenburg,9,"","",9076KB,St.-Annaparochie

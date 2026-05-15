@@ -1,60 +1,61 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9731BH",86,"",""
-"9731BH",104,"b",""
-"9731BH",84,"",""
-"9731BH",104,"a",""
-"9731BH",92,"",""
-"9731BH",90,"",""
-"9731BH",86,"b",""
-"9731BH",86,"","1"
-"9731BH",104,"",""
-"9731BH",84,"a",""
-"9731BH",96,"c",""
-"9731BH",82,"",""
-"9731BH",88,"",""
-"9731BH",106,"",""
-"9731BH",86,"","2"
-"9731BH",78,"",""
-"9731BH",96,"b",""
-"9731BH",96,"",""
-"9731BH",76,"",""
-"9731BH",86,"a",""
-"9731BH",80,"",""
-"9731BH",74,"",""
-"9731BH",102,"c",""
-"9731BH",94,"",""
-"9731BH",88,"",""
-"9731BH",88,"",""
-"9731BH",100,"",""
-"9731BH",102,"a",""
-"9731BH",102,"b",""
-"9731BH",86,"c",""
-9731BH,Pop Dijkemaweg,84,,
-9731BH,Pop Dijkemaweg,94,,
-9731BH,Pop Dijkemaweg,86,,2
-9731BH,Pop Dijkemaweg,106,,
-9731BH,Pop Dijkemaweg,86,,
-9731BH,Pop Dijkemaweg,86,a,
-9731BH,Pop Dijkemaweg,96,,
-9731BH,Pop Dijkemaweg,86,c,
-9731BH,Pop Dijkemaweg,76,,
-9731BH,Pop Dijkemaweg,84,a,
-9731BH,Pop Dijkemaweg,80,,
-9731BH,Pop Dijkemaweg,82,,
-9731BH,Pop Dijkemaweg,104,,
-9731BH,Pop Dijkemaweg,86,b,
-9731BH,Pop Dijkemaweg,74,,
-9731BH,Pop Dijkemaweg,86,,1
-9731BH,Pop Dijkemaweg,78,,
-9731BH,Pop Dijkemaweg,102,a,
-9731BH,Pop Dijkemaweg,88,,
-9731BH,Pop Dijkemaweg,96,c,
-9731BH,Pop Dijkemaweg,96,b,
-9731BH,Pop Dijkemaweg,102,b,
-9731BH,Pop Dijkemaweg,102,c,
-9731BH,Pop Dijkemaweg,104,a,
-9731BH,Pop Dijkemaweg,104,b,
-9731BH,Pop Dijkemaweg,100,,
-9731BH,Pop Dijkemaweg,92,,
-9731BH,Pop Dijkemaweg,90,,
-9731BH,Pop Dijkemaweg,88,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+86,"","","",9731BH,
+84,"","","",9731BH,
+92,"","","",9731BH,
+90,"","","",9731BH,
+104,"","","",9731BH,
+82,"","","",9731BH,
+88,"","","",9731BH,
+106,"","","",9731BH,
+78,"","","",9731BH,
+96,"","","",9731BH,
+76,"","","",9731BH,
+80,"","","",9731BH,
+74,"","","",9731BH,
+94,"","","",9731BH,
+88,"","","",9731BH,
+88,"","","",9731BH,
+100,"","","",9731BH,
+86,"",1,"",9731BH,
+86,"",2,"",9731BH,
+Pop Dijkemaweg,100,"","",9731BH,Groningen
+Pop Dijkemaweg,102,A,"",9731BH,Groningen
+Pop Dijkemaweg,102,B,"",9731BH,Groningen
+Pop Dijkemaweg,102,C,"",9731BH,Groningen
+Pop Dijkemaweg,104,"","",9731BH,Groningen
+Pop Dijkemaweg,104,A,"",9731BH,Groningen
+Pop Dijkemaweg,104,B,"",9731BH,Groningen
+Pop Dijkemaweg,106,"","",9731BH,Groningen
+Pop Dijkemaweg,74,"","",9731BH,Groningen
+Pop Dijkemaweg,76,"","",9731BH,Groningen
+Pop Dijkemaweg,78,"","",9731BH,Groningen
+Pop Dijkemaweg,80,"","",9731BH,Groningen
+Pop Dijkemaweg,82,"","",9731BH,Groningen
+Pop Dijkemaweg,84,"","",9731BH,Groningen
+Pop Dijkemaweg,84,A,"",9731BH,Groningen
+Pop Dijkemaweg,86,"","",9731BH,Groningen
+Pop Dijkemaweg,86,"",1,9731BH,Groningen
+Pop Dijkemaweg,86,"",2,9731BH,Groningen
+Pop Dijkemaweg,86,A,"",9731BH,Groningen
+Pop Dijkemaweg,86,B,"",9731BH,Groningen
+Pop Dijkemaweg,86,C,"",9731BH,Groningen
+Pop Dijkemaweg,88,"","",9731BH,Groningen
+Pop Dijkemaweg,88,"","",9731BH,Groningen
+Pop Dijkemaweg,90,"","",9731BH,Groningen
+Pop Dijkemaweg,92,"","",9731BH,Groningen
+Pop Dijkemaweg,94,"","",9731BH,Groningen
+Pop Dijkemaweg,96,"","",9731BH,Groningen
+Pop Dijkemaweg,96,B,"",9731BH,Groningen
+Pop Dijkemaweg,96,C,"",9731BH,Groningen
+104,A,"","",9731BH,
+84,A,"","",9731BH,
+86,A,"","",9731BH,
+102,A,"","",9731BH,
+104,B,"","",9731BH,
+86,B,"","",9731BH,
+96,B,"","",9731BH,
+102,B,"","",9731BH,
+96,C,"","",9731BH,
+102,C,"","",9731BH,
+86,C,"","",9731BH,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

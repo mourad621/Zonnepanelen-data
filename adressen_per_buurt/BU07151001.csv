@@ -1,60 +1,60 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4575ND,Kromhoekseweg,1,,
-4575ND,Kromhoekseweg,2,,
-4575ND,Kromhoekseweg,3,,
-4575ND,Kromhoekseweg,4,,
-4575ND,Kromhoekseweg,5,,
-4575ND,Kromhoekseweg,6,,
-4575ND,Kromhoekseweg,7,,
-4575ND,Kromhoekseweg,18,,
-4575NE,Rode Sluisweg,1,,
-4575NE,Rode Sluisweg,2,,
-4575NE,Rode Sluisweg,3,a,
-4575NE,Rode Sluisweg,5,,
-4575NE,Rode Sluisweg,7,,
-4575NE,Rode Sluisweg,9,,
-4575NE,Rode Sluisweg,9,a,
-4575NE,Rode Sluisweg,11,,
-4575NE,Rode Sluisweg,13,,
-4575NE,Rode Sluisweg,15,,
-4575NE,Rode Sluisweg,17,,
-4575NE,Rode Sluisweg,19,,
-4575NE,Rode Sluisweg,21,,
-4575NE,Rode Sluisweg,23,,
-4575NE,Rode Sluisweg,25,,
-4574PX,Varempéstraat,7,,
-4575NH,Varempéstraat,7,,
-4575NH,Varempéstraat,7,,
-4575NH,Varempéstraat,7,,
-4575NH,Varempéstraat,7,,
-4575NH,Varempéstraat,7,,
-4575NH,Varempéstraat,1,,
-4575NH,Varempéstraat,2,,
-4575NH,Varempéstraat,3,,
-4575NH,Varempéstraat,4,,
-4575NH,Varempéstraat,5,,
-4575NH,Varempéstraat,6,,
-4575NH,Varempéstraat,6,,
-4575NH,Varempéstraat,6,,
-4575NH,Varempéstraat,6,,
-4575NJ,Verbindingsweg,1,,
-4575NJ,Verbindingsweg,2,,
-4575NJ,Verbindingsweg,3,,
-4575NJ,Verbindingsweg,5,,
-4575NK,Zuiddorpseweg,1,,
-4575NK,Zuiddorpseweg,2,,
-4575NK,Zuiddorpseweg,3,,
-4575NK,Zuiddorpseweg,4,,
-4575NK,Zuiddorpseweg,6,,
-4574PX,Varempéstraat,7,,
-4575ND,Kromhoekseweg,2,,Tf1
-4575NE,Rode Sluisweg,15,,Tf1
-4575NH,Varempéstraat,6,,
-4575NH,Varempéstraat,1,,
-4575NH,Varempéstraat,4,a,
-4575NH,Varempéstraat,4,b,
-4575NK,Zuiddorpseweg,1,,Tf1
-4575ND,Kromhoekseweg,2,,
-4575NE,Rode Sluisweg,21,,
-4575NH,Varempéstraat,1,a,
-4575NJ,Verbindingsweg,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Varempéstraat,7,"","",4574PX,Overslag
+Varempéstraat,7,"","",4574PX,Overslag
+Kromhoekseweg,1,"","",4575ND,Overslag
+Kromhoekseweg,18,"","",4575ND,Overslag
+Kromhoekseweg,2,"","",4575ND,Overslag
+Kromhoekseweg,2,"","",4575ND,Overslag
+Kromhoekseweg,2,"",TF1,4575ND,Overslag
+Kromhoekseweg,3,"","",4575ND,Overslag
+Kromhoekseweg,4,"","",4575ND,Overslag
+Kromhoekseweg,5,"","",4575ND,Overslag
+Kromhoekseweg,6,"","",4575ND,Overslag
+Kromhoekseweg,7,"","",4575ND,Overslag
+Rode Sluisweg,1,"","",4575NE,Overslag
+Rode Sluisweg,11,"","",4575NE,Overslag
+Rode Sluisweg,13,"","",4575NE,Overslag
+Rode Sluisweg,15,"","",4575NE,Overslag
+Rode Sluisweg,15,"",TF1,4575NE,Overslag
+Rode Sluisweg,17,"","",4575NE,Overslag
+Rode Sluisweg,19,"","",4575NE,Overslag
+Rode Sluisweg,2,"","",4575NE,Overslag
+Rode Sluisweg,21,"","",4575NE,Overslag
+Rode Sluisweg,21,"","",4575NE,Overslag
+Rode Sluisweg,23,"","",4575NE,Overslag
+Rode Sluisweg,25,"","",4575NE,Overslag
+Rode Sluisweg,3,A,"",4575NE,Overslag
+Rode Sluisweg,5,"","",4575NE,Overslag
+Rode Sluisweg,7,"","",4575NE,Overslag
+Rode Sluisweg,9,"","",4575NE,Overslag
+Rode Sluisweg,9,A,"",4575NE,Overslag
+Varempéstraat,1,"","",4575NH,Overslag
+Varempéstraat,1,"","",4575NH,Overslag
+Varempéstraat,1,A,"",4575NH,Overslag
+Varempéstraat,2,"","",4575NH,Overslag
+Varempéstraat,3,"","",4575NH,Overslag
+Varempéstraat,4,"","",4575NH,Overslag
+Varempéstraat,4,A,"",4575NH,Overslag
+Varempéstraat,4,B,"",4575NH,Overslag
+Varempéstraat,5,"","",4575NH,Overslag
+Varempéstraat,6,"","",4575NH,Overslag
+Varempéstraat,6,"","",4575NH,Overslag
+Varempéstraat,6,"","",4575NH,Overslag
+Varempéstraat,6,"","",4575NH,Overslag
+Varempéstraat,6,"","",4575NH,Overslag
+Varempéstraat,7,"","",4575NH,Overslag
+Varempéstraat,7,"","",4575NH,Overslag
+Varempéstraat,7,"","",4575NH,Overslag
+Varempéstraat,7,"","",4575NH,Overslag
+Varempéstraat,7,"","",4575NH,Overslag
+Verbindingsweg,1,"","",4575NJ,Overslag
+Verbindingsweg,1,"","",4575NJ,Overslag
+Verbindingsweg,2,"","",4575NJ,Overslag
+Verbindingsweg,3,"","",4575NJ,Overslag
+Verbindingsweg,5,"","",4575NJ,Overslag
+Zuiddorpseweg,1,"","",4575NK,Overslag
+Zuiddorpseweg,1,"",TF1,4575NK,Overslag
+Zuiddorpseweg,2,"","",4575NK,Overslag
+Zuiddorpseweg,3,"","",4575NK,Overslag
+Zuiddorpseweg,4,"","",4575NK,Overslag
+Zuiddorpseweg,6,"","",4575NK,Overslag

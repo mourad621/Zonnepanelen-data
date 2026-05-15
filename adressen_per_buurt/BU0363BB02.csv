@@ -1,47 +1,47 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1013BK,Coenhavenweg,1,,
-1013BK,Coenhavenweg,3,,
-1013BK,Coenhavenweg,9,,
-1013BJ,Vlothavenweg,10,,
-1013BJ,Vlothavenweg,16,,
-1013BJ,Vlothavenweg,20,,
-1013CX,Nieuwe Hemweg,20,,
-1013CX,Nieuwe Hemweg,22,,
-1013CX,Nieuwe Hemweg,24,,
-1013CX,Nieuwe Hemweg,26,,
-1013CX,Nieuwe Hemweg,28,,
-1013CX,Nieuwe Hemweg,30,,
-1013CX,Nieuwe Hemweg,32,,
-1013CX,Nieuwe Hemweg,34,,
-1013CX,Nieuwe Hemweg,36,,
-1013CX,Nieuwe Hemweg,38,,
-1013CX,Nieuwe Hemweg,40,,
-1013CX,Nieuwe Hemweg,42,,
-1013CX,Nieuwe Hemweg,44,,
-1013CX,Nieuwe Hemweg,46,,
-1013CX,Nieuwe Hemweg,48,,
-1013CX,Nieuwe Hemweg,50,,
-1013CX,Nieuwe Hemweg,52,,
-1013CX,Nieuwe Hemweg,54,,
-1013CX,Nieuwe Hemweg,56,,
-1013CX,Nieuwe Hemweg,58,,
-1013CX,Nieuwe Hemweg,60,,
-1013CX,Nieuwe Hemweg,62,,
-1013BJ,Vlothavenweg,8,,
-1013BJ,Vlothavenweg,2,A,
-1013BK,Pier Afrika,10,,
-1013BK,Pier Afrika,8,,
-1013CX,Nieuwe Hemweg,70,,
-1013BJ,Vlothavenweg,1,,
-1013BJ,Vlothavenweg,1,,
-1013BJ,Vlothavenweg,12,,
-1013BJ,Vlothavenweg,1,A,
-1013BJ,Vlothavenweg,10,A,
-1013BJ,Vlothavenweg,10,B,
-1013BK,Pier Afrika,8,A,
-1013BK,Pier Afrika,8,A,
-1013BK,Pier Afrika,8,B,
-1013BK,Pier Afrika,8,B,
-1013BJ,Vlothavenweg,24,,
-1013BK,Pier Afrika,8,C,
-1013BJ,Vlothavenweg,6,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vlothavenweg,1,"","",1013BJ,Amsterdam
+Vlothavenweg,1,"","",1013BJ,Amsterdam
+Vlothavenweg,1,A,"",1013BJ,Amsterdam
+Vlothavenweg,10,"","",1013BJ,Amsterdam
+Vlothavenweg,10,A,"",1013BJ,Amsterdam
+Vlothavenweg,10,B,"",1013BJ,Amsterdam
+Vlothavenweg,12,"","",1013BJ,Amsterdam
+Vlothavenweg,16,"","",1013BJ,Amsterdam
+Vlothavenweg,2,A,"",1013BJ,Amsterdam
+Vlothavenweg,20,"","",1013BJ,Amsterdam
+Vlothavenweg,24,"","",1013BJ,Amsterdam
+Vlothavenweg,6,B,"",1013BJ,Amsterdam
+Vlothavenweg,8,"","",1013BJ,Amsterdam
+Coenhavenweg,1,"","",1013BK,Amsterdam
+Pier Afrika,10,"","",1013BK,Amsterdam
+Coenhavenweg,3,"","",1013BK,Amsterdam
+Pier Afrika,8,"","",1013BK,Amsterdam
+Pier Afrika,8,A,"",1013BK,Amsterdam
+Pier Afrika,8,A,"",1013BK,Amsterdam
+Pier Afrika,8,B,"",1013BK,Amsterdam
+Pier Afrika,8,B,"",1013BK,Amsterdam
+Pier Afrika,8,C,"",1013BK,Amsterdam
+Coenhavenweg,9,"","",1013BK,Amsterdam
+Nieuwe Hemweg,20,"","",1013CX,Amsterdam
+Nieuwe Hemweg,22,"","",1013CX,Amsterdam
+Nieuwe Hemweg,24,"","",1013CX,Amsterdam
+Nieuwe Hemweg,26,"","",1013CX,Amsterdam
+Nieuwe Hemweg,28,"","",1013CX,Amsterdam
+Nieuwe Hemweg,30,"","",1013CX,Amsterdam
+Nieuwe Hemweg,32,"","",1013CX,Amsterdam
+Nieuwe Hemweg,34,"","",1013CX,Amsterdam
+Nieuwe Hemweg,36,"","",1013CX,Amsterdam
+Nieuwe Hemweg,38,"","",1013CX,Amsterdam
+Nieuwe Hemweg,40,"","",1013CX,Amsterdam
+Nieuwe Hemweg,42,"","",1013CX,Amsterdam
+Nieuwe Hemweg,44,"","",1013CX,Amsterdam
+Nieuwe Hemweg,46,"","",1013CX,Amsterdam
+Nieuwe Hemweg,48,"","",1013CX,Amsterdam
+Nieuwe Hemweg,50,"","",1013CX,Amsterdam
+Nieuwe Hemweg,52,"","",1013CX,Amsterdam
+Nieuwe Hemweg,54,"","",1013CX,Amsterdam
+Nieuwe Hemweg,56,"","",1013CX,Amsterdam
+Nieuwe Hemweg,58,"","",1013CX,Amsterdam
+Nieuwe Hemweg,60,"","",1013CX,Amsterdam
+Nieuwe Hemweg,62,"","",1013CX,Amsterdam
+Nieuwe Hemweg,70,"","",1013CX,Amsterdam

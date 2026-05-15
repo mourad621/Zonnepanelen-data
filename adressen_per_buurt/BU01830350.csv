@@ -1,278 +1,141 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7678AJ",34,"",""
-"7678AJ",40,"e",""
-"7678AJ",27,"",""
-"7678AJ",40,"d",""
-"7678AJ",69,"",""
-"7678AJ",40,"b",""
-"7678AJ",40,"f",""
-"7678AJ",57,"",""
-"7678AJ",34,"a",""
-"7678AJ",25,"",""
-"7678AJ",40,"c",""
-"7678AJ",59,"",""
-"7678AJ",36,"",""
-"7678AJ",38,"",""
-"7678AJ",40,"a",""
-"7678AJ",51,"",""
-"7678AJ",61,"",""
-"7678AJ",26,"",""
-"7678AJ",45,"",""
-"7678AJ",51,"",""
-"7678AJ",29,"",""
-"7678AJ",28,"",""
-"7678AJ",34,"",""
-"7678AJ",32,"",""
-"7678AJ",79,"",""
-"7678AJ",63,"",""
-"7678AJ",47,"",""
-"7678AJ",49,"",""
-"7678AJ",35,"",""
-"7678AJ",37,"",""
-"7678AJ",42,"",""
-"7678AJ",39,"",""
-"7678AJ",30,"",""
-"7678AJ",24,"",""
-"7678AJ",85,"",""
-"7678AJ",24,"a",""
-"7678AJ",21,"",""
-"7678AJ",23,"",""
-"7678AJ",43,"",""
-"7678AJ",33,"",""
-"7678AJ",34,"",""
-"7678AJ",15,"",""
-"7678AZ",16,"",""
-"7678AZ",8,"",""
-"7678AZ",11,"",""
-"7678AZ",2,"",""
-"7678AZ",14,"",""
-"7678AZ",4,"",""
-"7678AZ",13,"",""
-"7678AZ",3,"",""
-"7678AZ",12,"",""
-"7678AZ",5,"",""
-"7678AZ",6,"",""
-"7678AZ",10,"",""
-"7678CA",20,"",""
-"7678CA",20,"a",""
-"7678CA",8,"",""
-"7678CA",12,"",""
-"7678CA",4,"",""
-"7678CA",6,"",""
-"7678CA",20,"",""
-"7678CA",20,"",""
-"7678CB",29,"",""
-"7678CB",20,"",""
-"7678CB",25,"",""
-"7678CB",21,"",""
-"7678CB",3,"",""
-"7678CN",6,"",""
-"7678CN",8,"",""
-"7678CN",5,"",""
-"7678CN",18,"",""
-"7678CN",2,"",""
-"7678RL",7,"a",""
-"7678RL",8,"",""
-"7678RL",2,"a",""
-"7678RL",5,"",""
-"7678RL",14,"",""
-"7678RL",13,"a",""
-"7678RL",4,"",""
-"7678RL",18,"",""
-"7678RL",8,"a",""
-"7678RL",9,"",""
-"7678RL",4,"b",""
-"7678RL",6,"a",""
-"7678RL",8,"b",""
-"7678RL",12,"",""
-"7678RL",15,"",""
-"7678RL",4,"b",""
-"7678RL",13,"a",""
-"7678RL",11,"a",""
-"7678RL",21,"",""
-"7678RL",6,"",""
-"7678RL",8,"","rc1"
-"7678RL",16,"",""
-"7678RL",13,"",""
-"7678RL",7,"",""
-"7678RL",1,"",""
-"7678RL",11,"",""
-"7678RL",17,"",""
-"7678RL",20,"",""
-"7678RL",7,"b",""
-"7678RL",2,"",""
-"7678RL",4,"a",""
-"7678RL",4,"b",""
-"7678RL",1,"a",""
-"7678RL",4,"c",""
-"7678RL",13,"",""
-"7678RL",10,"",""
-"7678RL",9,"a",""
-"7678RL",12,"a",""
-"7678RL",19,"",""
-"7678VA",41,"",""
-"7678VA",29,"",""
-"7678VA",9,"a",""
-"7678VA",9,"",""
-"7678VA",39,"",""
-"7678VA",11,"",""
-"7678VA",19,"",""
-"7678VA",17,"",""
-"7678VA",33,"",""
-"7678VA",21,"",""
-"7678VA",15,"",""
-"7678VA",59,"",""
-"7678WB",4,"",""
-"7678WB",1,"",""
-"7678WB",3,"",""
-"7678WB",1,"b",""
-"7678WB",2,"",""
-"7678WB",1,"a",""
-"7678WB",8,"",""
-"7678WB",5,"",""
-"7678WC",4,"",""
-"7678WC",6,"",""
-"7678WC",7,"",""
-"7678WC",4,"a",""
-"7678WC",10,"",""
-"7678WC",2,"",""
-"7678WC",8,"",""
-"7678WC",5,"",""
-"7678WC",3,"",""
-7678WC,'n Mös,3,,
-7678RL,Delmaweg,9,a,
-7678AJ,Lutkeberg,23,,
-7678AJ,Lutkeberg,24,,
-7678AJ,Lutkeberg,37,,
-7678AJ,Lutkeberg,49,,
-7678AJ,Lutkeberg,59,,
-7678VA,Vriezenveenseweg,9,,
-7678VA,Vriezenveenseweg,11,,
-7678VA,Vriezenveenseweg,15,,
-7678VA,Vriezenveenseweg,19,,
-7678VA,Vriezenveenseweg,29,,
-7678WB,Veldkaamp,1,,
-7678WB,Veldkaamp,1,a,
-7678CA,De Milt,4,,
-7678CA,De Milt,6,,
-7678CA,De Milt,8,,
-7678CA,De Milt,20,,
-7678CA,De Milt,12,,
-7678CA,De Milt,20,,
-7678CA,De Milt,20,a,
-7678CB,De Milt,20,,
-7678CB,De Milt,3,,
-7678CB,De Milt,21,,
-7678CB,De Milt,25,,
-7678CB,De Milt,29,,
-7678WC,'n Mös,2,,
-7678WC,'n Mös,6,,
-7678WC,'n Mös,8,,
-7678WC,'n Mös,10,,
-7678WC,'n Mös,5,,
-7678WC,'n Mös,7,,
-7678RL,Delmaweg,1,,
-7678RL,Delmaweg,2,,
-7678RL,Delmaweg,4,,
-7678RL,Delmaweg,4,a,
-7678RL,Delmaweg,4,b,
-7678RL,Delmaweg,6,,
-7678RL,Delmaweg,7,,
-7678RL,Delmaweg,7,a,
-7678RL,Delmaweg,8,,
-7678RL,Delmaweg,8,a,
-7678RL,Delmaweg,10,,
-7678RL,Delmaweg,11,,
-7678RL,Delmaweg,12,,
-7678RL,Delmaweg,12,a,
-7678RL,Delmaweg,13,,
-7678RL,Delmaweg,11,a,
-7678RL,Delmaweg,13,a,
-7678RL,Delmaweg,14,,
-7678RL,Delmaweg,15,,
-7678RL,Delmaweg,16,,
-7678RL,Delmaweg,18,,
-7678RL,Delmaweg,19,,
-7678RL,Delmaweg,20,,
-7678RL,Delmaweg,21,,
-7678RL,Delmaweg,5,,
-7678RL,Delmaweg,6,a,
-7678RL,Delmaweg,9,,
-7678RL,Delmaweg,2,a,
-7678RL,Delmaweg,1,a,
-7678RL,Delmaweg,17,,
-7678RL,Delmaweg,4,c,
-7678AJ,Lutkeberg,15,,
-7678AJ,Lutkeberg,21,,
-7678AJ,Lutkeberg,26,,
-7678AJ,Lutkeberg,27,,
-7678AJ,Lutkeberg,28,,
-7678AJ,Lutkeberg,29,,
-7678AJ,Lutkeberg,30,,
-7678AJ,Lutkeberg,32,,
-7678AJ,Lutkeberg,33,,
-7678AJ,Lutkeberg,35,,
-7678AJ,Lutkeberg,36,,
-7678AJ,Lutkeberg,39,,
-7678AJ,Lutkeberg,42,,
-7678AJ,Lutkeberg,43,,
-7678AJ,Lutkeberg,45,,
-7678AJ,Lutkeberg,51,,
-7678AJ,Lutkeberg,51,,
-7678AJ,Lutkeberg,57,,
-7678AJ,Lutkeberg,61,,
-7678AJ,Lutkeberg,63,,
-7678AJ,Lutkeberg,69,,
-7678AJ,Lutkeberg,79,,
-7678AJ,Lutkeberg,85,,
-7678AJ,Lutkeberg,24,a,
-7678AJ,Lutkeberg,47,,
-7678AJ,Lutkeberg,40,a,
-7678AJ,Lutkeberg,40,b,
-7678AJ,Lutkeberg,40,c,
-7678AJ,Lutkeberg,40,d,
-7678AJ,Lutkeberg,40,e,
-7678AJ,Lutkeberg,40,f,
-7678VA,Vriezenveenseweg,9,a,
-7678VA,Vriezenveenseweg,17,,
-7678VA,Vriezenveenseweg,21,,
-7678VA,Vriezenveenseweg,33,,
-7678VA,Vriezenveenseweg,39,,
-7678VA,Vriezenveenseweg,41,,
-7678VA,Vriezenveenseweg,59,,
-7678AZ,Beekstraat,2,,
-7678AZ,Beekstraat,3,,
-7678AZ,Beekstraat,4,,
-7678AZ,Beekstraat,5,,
-7678AZ,Beekstraat,6,,
-7678AZ,Beekstraat,8,,
-7678AZ,Beekstraat,10,,
-7678AZ,Beekstraat,11,,
-7678AZ,Beekstraat,12,,
-7678AZ,Beekstraat,13,,
-7678AZ,Beekstraat,14,,
-7678AZ,Beekstraat,16,,
-7678WB,Veldkaamp,1,b,
-7678WB,Veldkaamp,5,,
-7678WB,Veldkaamp,8,,
-7678WB,Veldkaamp,3,,
-7678WB,Veldkaamp,2,,
-7678WB,Veldkaamp,4,,
-7678CN,De Steenberg,2,,
-7678CN,De Steenberg,5,,
-7678CN,De Steenberg,6,,
-7678CN,De Steenberg,18,,
-7678WC,'n Mös,4,,
-7678WC,'n Mös,4,a,
-7678RL,Delmaweg,7,b,
-7678RL,Delmaweg,4,b,
-7678RL,Delmaweg,8,b,
-7678RL,Delmaweg,8,,rc1
-7678RL,Delmaweg,13,,
-7678RL,Delmaweg,13,a,
-7678AJ,Lutkeberg,25,,
-7678AJ,Lutkeberg,38,,
-7678AJ,Lutkeberg,34,,
-7678AJ,Lutkeberg,34,,
-7678AJ,Lutkeberg,34,a,
-7678CN,De Steenberg,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Lutkeberg,15,"","",7678AJ,Geesteren
+Lutkeberg,21,"","",7678AJ,Geesteren
+Lutkeberg,23,"","",7678AJ,Geesteren
+Lutkeberg,24,"","",7678AJ,Geesteren
+Lutkeberg,24,A,"",7678AJ,Geesteren
+Lutkeberg,25,"","",7678AJ,Geesteren
+Lutkeberg,26,"","",7678AJ,Geesteren
+Lutkeberg,27,"","",7678AJ,Geesteren
+Lutkeberg,28,"","",7678AJ,Geesteren
+Lutkeberg,29,"","",7678AJ,Geesteren
+Lutkeberg,30,"","",7678AJ,Geesteren
+Lutkeberg,32,"","",7678AJ,Geesteren
+Lutkeberg,33,"","",7678AJ,Geesteren
+Lutkeberg,34,"","",7678AJ,Geesteren
+Lutkeberg,34,"","",7678AJ,Geesteren
+Lutkeberg,34,"","",7678AJ,Geesteren
+Lutkeberg,34,A,"",7678AJ,Geesteren
+Lutkeberg,35,"","",7678AJ,Geesteren
+Lutkeberg,36,"","",7678AJ,Geesteren
+Lutkeberg,37,"","",7678AJ,Geesteren
+Lutkeberg,38,"","",7678AJ,Geesteren
+Lutkeberg,39,"","",7678AJ,Geesteren
+Lutkeberg,40,A,"",7678AJ,Geesteren
+Lutkeberg,40,B,"",7678AJ,Geesteren
+Lutkeberg,40,C,"",7678AJ,Geesteren
+Lutkeberg,40,D,"",7678AJ,Geesteren
+Lutkeberg,40,E,"",7678AJ,Geesteren
+Lutkeberg,40,F,"",7678AJ,Geesteren
+Lutkeberg,42,"","",7678AJ,Geesteren
+Lutkeberg,43,"","",7678AJ,Geesteren
+Lutkeberg,45,"","",7678AJ,Geesteren
+Lutkeberg,47,"","",7678AJ,Geesteren
+Lutkeberg,49,"","",7678AJ,Geesteren
+Lutkeberg,51,"","",7678AJ,Geesteren
+Lutkeberg,51,"","",7678AJ,Geesteren
+Lutkeberg,57,"","",7678AJ,Geesteren
+Lutkeberg,59,"","",7678AJ,Geesteren
+Lutkeberg,61,"","",7678AJ,Geesteren
+Lutkeberg,63,"","",7678AJ,Geesteren
+Lutkeberg,69,"","",7678AJ,Geesteren
+Lutkeberg,79,"","",7678AJ,Geesteren
+Lutkeberg,85,"","",7678AJ,Geesteren
+Beekstraat,10,"","",7678AZ,Geesteren
+Beekstraat,11,"","",7678AZ,Geesteren
+Beekstraat,12,"","",7678AZ,Geesteren
+Beekstraat,13,"","",7678AZ,Geesteren
+Beekstraat,14,"","",7678AZ,Geesteren
+Beekstraat,16,"","",7678AZ,Geesteren
+Beekstraat,2,"","",7678AZ,Geesteren
+Beekstraat,3,"","",7678AZ,Geesteren
+Beekstraat,4,"","",7678AZ,Geesteren
+Beekstraat,5,"","",7678AZ,Geesteren
+Beekstraat,6,"","",7678AZ,Geesteren
+Beekstraat,8,"","",7678AZ,Geesteren
+De Milt,12,"","",7678CA,Geesteren
+De Milt,20,"","",7678CA,Geesteren
+De Milt,20,"","",7678CA,Geesteren
+De Milt,20,"","",7678CA,Geesteren
+De Milt,20,A,"",7678CA,Geesteren
+De Milt,4,"","",7678CA,Geesteren
+De Milt,6,"","",7678CA,Geesteren
+De Milt,8,"","",7678CA,Geesteren
+De Milt,20,"","",7678CB,Geesteren
+De Milt,21,"","",7678CB,Geesteren
+De Milt,25,"","",7678CB,Geesteren
+De Milt,29,"","",7678CB,Geesteren
+De Milt,3,"","",7678CB,Geesteren
+De Steenberg,18,"","",7678CN,Geesteren
+De Steenberg,2,"","",7678CN,Geesteren
+De Steenberg,5,"","",7678CN,Geesteren
+De Steenberg,6,"","",7678CN,Geesteren
+De Steenberg,8,"","",7678CN,Geesteren
+Delmaweg,1,"","",7678RL,Geesteren
+Delmaweg,1,A,"",7678RL,Geesteren
+Delmaweg,10,"","",7678RL,Geesteren
+Delmaweg,11,"","",7678RL,Geesteren
+Delmaweg,11,A,"",7678RL,Geesteren
+Delmaweg,12,"","",7678RL,Geesteren
+Delmaweg,12,A,"",7678RL,Geesteren
+Delmaweg,13,"","",7678RL,Geesteren
+Delmaweg,13,"","",7678RL,Geesteren
+Delmaweg,13,A,"",7678RL,Geesteren
+Delmaweg,13,A,"",7678RL,Geesteren
+Delmaweg,14,"","",7678RL,Geesteren
+Delmaweg,15,"","",7678RL,Geesteren
+Delmaweg,16,"","",7678RL,Geesteren
+Delmaweg,17,"","",7678RL,Geesteren
+Delmaweg,18,"","",7678RL,Geesteren
+Delmaweg,19,"","",7678RL,Geesteren
+Delmaweg,2,"","",7678RL,Geesteren
+Delmaweg,2,A,"",7678RL,Geesteren
+Delmaweg,20,"","",7678RL,Geesteren
+Delmaweg,21,"","",7678RL,Geesteren
+Delmaweg,4,"","",7678RL,Geesteren
+Delmaweg,4,A,"",7678RL,Geesteren
+Delmaweg,4,B,"",7678RL,Geesteren
+Delmaweg,4,B,"",7678RL,Geesteren
+Delmaweg,4,B,"",7678RL,Geesteren
+Delmaweg,4,C,"",7678RL,Geesteren
+Delmaweg,5,"","",7678RL,Geesteren
+Delmaweg,6,"","",7678RL,Geesteren
+Delmaweg,6,A,"",7678RL,Geesteren
+Delmaweg,7,"","",7678RL,Geesteren
+Delmaweg,7,A,"",7678RL,Geesteren
+Delmaweg,7,B,"",7678RL,Geesteren
+Delmaweg,8,"","",7678RL,Geesteren
+Delmaweg,8,"",RC1,7678RL,Geesteren
+Delmaweg,8,A,"",7678RL,Geesteren
+Delmaweg,8,B,"",7678RL,Geesteren
+Delmaweg,9,"","",7678RL,Geesteren
+Delmaweg,9,A,"",7678RL,Geesteren
+Vriezenveenseweg,11,"","",7678VA,Geesteren
+Vriezenveenseweg,15,"","",7678VA,Geesteren
+Vriezenveenseweg,17,"","",7678VA,Geesteren
+Vriezenveenseweg,19,"","",7678VA,Geesteren
+Vriezenveenseweg,21,"","",7678VA,Geesteren
+Vriezenveenseweg,29,"","",7678VA,Geesteren
+Vriezenveenseweg,33,"","",7678VA,Geesteren
+Vriezenveenseweg,39,"","",7678VA,Geesteren
+Vriezenveenseweg,41,"","",7678VA,Geesteren
+Vriezenveenseweg,59,"","",7678VA,Geesteren
+Vriezenveenseweg,9,"","",7678VA,Geesteren
+Vriezenveenseweg,9,A,"",7678VA,Geesteren
+Veldkaamp,1,"","",7678WB,Geesteren
+Veldkaamp,1,A,"",7678WB,Geesteren
+Veldkaamp,1,B,"",7678WB,Geesteren
+Veldkaamp,2,"","",7678WB,Geesteren
+Veldkaamp,3,"","",7678WB,Geesteren
+Veldkaamp,4,"","",7678WB,Geesteren
+Veldkaamp,5,"","",7678WB,Geesteren
+Veldkaamp,8,"","",7678WB,Geesteren
+'n Mös,10,"","",7678WC,Geesteren
+'n Mös,2,"","",7678WC,Geesteren
+'n Mös,3,"","",7678WC,Geesteren
+'n Mös,4,"","",7678WC,Geesteren
+'n Mös,4,A,"",7678WC,Geesteren
+'n Mös,5,"","",7678WC,Geesteren
+'n Mös,6,"","",7678WC,Geesteren
+'n Mös,7,"","",7678WC,Geesteren
+'n Mös,8,"","",7678WC,Geesteren

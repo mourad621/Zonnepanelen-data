@@ -1,36 +1,36 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9434TB,De Goorns,1,,
-9434TB,De Goorns,1,A,
-9434TB,De Goorns,3,,
-9434TB,De Goorns,3,A,
-9434TB,De Goorns,5,,
-9434TB,De Goorns,7,,
-9434TC,De Goorns,2,,
-9434TC,De Goorns,4,,
-9434TC,De Goorns,6,,
-9434TC,De Goorns,8,,
-9434TC,De Goorns,10,,
-9434TC,De Goorns,12,,
-9434TC,De Goorns,14,,
-9434TD,De Vledders,1,,
-9434TD,De Vledders,2,,
-9434TD,De Vledders,4,,
-9434TD,De Vledders,6,,
-9434TD,De Vledders,8,,
-9434TD,De Vledders,10,,
-9434TD,De Vledders,12,,
-9434TD,De Vledders,10,A,
-9434TE,Hoogeveenseweg,8,,
-9434TE,Hoogeveenseweg,10,,
-9434TE,Hoogeveenseweg,13,,
-9434TA,Walakkers,2,,
-9434TB,De Goorns,1,B,
-9434TC,De Goorns,2,T,1
-9434TC,De Goorns,14,,
-9434TC,De Goorns,6,A,
-9434TC,De Goorns,6,B,
-9434TD,De Vledders,10,A,
-9434TD,De Vledders,1,G,1
-9434TD,De Vledders,1,G,2
-9434TD,De Vledders,12,A,
-9434TD,De Vledders,12,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Walakkers,2,"","",9434TA,Eursinge
+De Goorns,1,"","",9434TB,Eursinge
+De Goorns,1,A,"",9434TB,Eursinge
+De Goorns,1,B,"",9434TB,Eursinge
+De Goorns,3,"","",9434TB,Eursinge
+De Goorns,3,A,"",9434TB,Eursinge
+De Goorns,5,"","",9434TB,Eursinge
+De Goorns,7,"","",9434TB,Eursinge
+De Goorns,10,"","",9434TC,Eursinge
+De Goorns,12,"","",9434TC,Eursinge
+De Goorns,14,"","",9434TC,Eursinge
+De Goorns,14,"","",9434TC,Eursinge
+De Goorns,2,"","",9434TC,Eursinge
+De Goorns,2,T,1,9434TC,Eursinge
+De Goorns,4,"","",9434TC,Eursinge
+De Goorns,6,"","",9434TC,Eursinge
+De Goorns,6,A,"",9434TC,Eursinge
+De Goorns,6,B,"",9434TC,Eursinge
+De Goorns,8,"","",9434TC,Eursinge
+De Vledders,1,"","",9434TD,Eursinge
+De Vledders,1,G,1,9434TD,Eursinge
+De Vledders,1,G,2,9434TD,Eursinge
+De Vledders,10,"","",9434TD,Eursinge
+De Vledders,10,A,"",9434TD,Eursinge
+De Vledders,10,A,"",9434TD,Eursinge
+De Vledders,12,"","",9434TD,Eursinge
+De Vledders,12,"","",9434TD,Eursinge
+De Vledders,12,A,"",9434TD,Eursinge
+De Vledders,2,"","",9434TD,Eursinge
+De Vledders,4,"","",9434TD,Eursinge
+De Vledders,6,"","",9434TD,Eursinge
+De Vledders,8,"","",9434TD,Eursinge
+Hoogeveenseweg,10,"","",9434TE,Eursinge
+Hoogeveenseweg,13,"","",9434TE,Eursinge
+Hoogeveenseweg,8,"","",9434TE,Eursinge

@@ -1,88 +1,88 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7475RV,Borkeldweg,1,,
-7475RV,Borkeldweg,1,a,
-7475RV,Borkeldweg,2,,
-7475RV,Borkeldweg,3,,
-7475RV,Borkeldweg,4,,
-7475RV,Borkeldweg,4,a,
-7475RV,Borkeldweg,5,,
-7475RV,Borkeldweg,5,,TRAF
-7475RV,Borkeldweg,6,,
-7475RV,Borkeldweg,7,,
-7475RV,Borkeldweg,9,,
-7475RV,Borkeldweg,13,,
-7475RV,Borkeldweg,15,,
-7475RV,Borkeldweg,17,,
-7475RV,Borkeldweg,19,,
-7475RV,Borkeldweg,21,,
-7475SP,Groningerveldweg,1,,
-7475SP,Groningerveldweg,2,,
-7475SP,Groningerveldweg,2,a,
-7475SP,Groningerveldweg,3,,
-7475SP,Groningerveldweg,6,,
-7475SH,Hochtweg,1,,
-7475SH,Hochtweg,2,,
-7475SH,Hochtweg,2,a,
-7475SH,Hochtweg,3,,
-7475SH,Hochtweg,3,a,
-7475SH,Hochtweg,5,,
-7475SH,Hochtweg,6,,
-7475SH,Hochtweg,7,,
-7475SH,Hochtweg,7,a,
-7475SH,Hochtweg,10,,
-7475SM,Oude Rijssenseweg,1,,
-7475SM,Oude Rijssenseweg,3,,
-7475SM,Oude Rijssenseweg,5,,
-7475SM,Oude Rijssenseweg,7,,
-7475SM,Oude Rijssenseweg,9,,
-7475SM,Oude Rijssenseweg,11,,
-7475SM,Oude Rijssenseweg,13,,
-7475SM,Oude Rijssenseweg,15,,
-7475SM,Oude Rijssenseweg,17,,
-7475SM,Oude Rijssenseweg,19,,
-7475SM,Oude Rijssenseweg,19,a,
-7475SM,Oude Rijssenseweg,21,,
-7475SM,Oude Rijssenseweg,21,a,
-7475SM,Oude Rijssenseweg,23,,
-7475SM,Oude Rijssenseweg,25,,
-7475SM,Oude Rijssenseweg,27,,
-7475SM,Oude Rijssenseweg,29,,
-7475SM,Oude Rijssenseweg,29,,TRAF
-7475SM,Oude Rijssenseweg,31,,
-7475SM,Oude Rijssenseweg,31,a,
-7475SM,Oude Rijssenseweg,33,,
-7475SN,Oude Rijssenseweg,4,,
-7475SN,Oude Rijssenseweg,6,,
-7475SN,Oude Rijssenseweg,8,,
-7475SN,Oude Rijssenseweg,10,,
-7475SN,Oude Rijssenseweg,12,,
-7475SN,Oude Rijssenseweg,14,,
-7475SN,Oude Rijssenseweg,16,,
-7475SN,Oude Rijssenseweg,18,,
-7475SN,Oude Rijssenseweg,18,a,
-7475SN,Oude Rijssenseweg,20,,
-7475SN,Oude Rijssenseweg,20,a,
-7475RV,Borkeldweg,6,a,
-7475RV,Borkeldweg,1,b,
-7475RV,Borkeldweg,11,,
-7475RV,Borkeldweg,6,b,
-7475RV,Borkeldweg,15,,
-7475RV,Borkeldweg,15,a,
-7475SM,Oude Rijssenseweg,15,a,
-7475SM,Oude Rijssenseweg,23,,
-7475SM,Oude Rijssenseweg,23,a,
-7475SM,Oude Rijssenseweg,25,,
-7475SM,Oude Rijssenseweg,25,a,
-7475SM,Oude Rijssenseweg,29,a,
-7475SM,Oude Rijssenseweg,29,,
-7475SM,Oude Rijssenseweg,29,b,
-7475SM,Oude Rijssenseweg,19,,55
-7475SM,Oude Rijssenseweg,19,,56
-7475SM,Oude Rijssenseweg,33,,
-7475SN,Oude Rijssenseweg,20,b,
-7475SN,Oude Rijssenseweg,6,,
-7475SN,Oude Rijssenseweg,14,a,
-7475SN,Oude Rijssenseweg,20,c,
-7475SN,Oude Rijssenseweg,20,,
-7475SN,Oude Rijssenseweg,20,d,
-7475SN,Oude Rijssenseweg,20,e,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Borkeldweg,1,"","",7475RV,Markelo
+Borkeldweg,1,A,"",7475RV,Markelo
+Borkeldweg,1,B,"",7475RV,Markelo
+Borkeldweg,11,"","",7475RV,Markelo
+Borkeldweg,13,"","",7475RV,Markelo
+Borkeldweg,15,"","",7475RV,Markelo
+Borkeldweg,15,"","",7475RV,Markelo
+Borkeldweg,15,A,"",7475RV,Markelo
+Borkeldweg,17,"","",7475RV,Markelo
+Borkeldweg,19,"","",7475RV,Markelo
+Borkeldweg,2,"","",7475RV,Markelo
+Borkeldweg,21,"","",7475RV,Markelo
+Borkeldweg,3,"","",7475RV,Markelo
+Borkeldweg,4,"","",7475RV,Markelo
+Borkeldweg,4,A,"",7475RV,Markelo
+Borkeldweg,5,"","",7475RV,Markelo
+Borkeldweg,5,"",TRAF,7475RV,Markelo
+Borkeldweg,6,"","",7475RV,Markelo
+Borkeldweg,6,A,"",7475RV,Markelo
+Borkeldweg,6,B,"",7475RV,Markelo
+Borkeldweg,7,"","",7475RV,Markelo
+Borkeldweg,9,"","",7475RV,Markelo
+Hochtweg,1,"","",7475SH,Markelo
+Hochtweg,10,"","",7475SH,Markelo
+Hochtweg,2,"","",7475SH,Markelo
+Hochtweg,2,A,"",7475SH,Markelo
+Hochtweg,3,"","",7475SH,Markelo
+Hochtweg,3,A,"",7475SH,Markelo
+Hochtweg,5,"","",7475SH,Markelo
+Hochtweg,6,"","",7475SH,Markelo
+Hochtweg,7,"","",7475SH,Markelo
+Hochtweg,7,A,"",7475SH,Markelo
+Oude Rijssenseweg,1,"","",7475SM,Markelo
+Oude Rijssenseweg,11,"","",7475SM,Markelo
+Oude Rijssenseweg,13,"","",7475SM,Markelo
+Oude Rijssenseweg,15,"","",7475SM,Markelo
+Oude Rijssenseweg,15,A,"",7475SM,Markelo
+Oude Rijssenseweg,17,"","",7475SM,Markelo
+Oude Rijssenseweg,19,"","",7475SM,Markelo
+Oude Rijssenseweg,19,"",55,7475SM,Markelo
+Oude Rijssenseweg,19,"",56,7475SM,Markelo
+Oude Rijssenseweg,19,A,"",7475SM,Markelo
+Oude Rijssenseweg,21,"","",7475SM,Markelo
+Oude Rijssenseweg,21,A,"",7475SM,Markelo
+Oude Rijssenseweg,23,"","",7475SM,Markelo
+Oude Rijssenseweg,23,"","",7475SM,Markelo
+Oude Rijssenseweg,23,A,"",7475SM,Markelo
+Oude Rijssenseweg,25,"","",7475SM,Markelo
+Oude Rijssenseweg,25,"","",7475SM,Markelo
+Oude Rijssenseweg,25,A,"",7475SM,Markelo
+Oude Rijssenseweg,27,"","",7475SM,Markelo
+Oude Rijssenseweg,29,"","",7475SM,Markelo
+Oude Rijssenseweg,29,"","",7475SM,Markelo
+Oude Rijssenseweg,29,"",TRAF,7475SM,Markelo
+Oude Rijssenseweg,29,A,"",7475SM,Markelo
+Oude Rijssenseweg,29,B,"",7475SM,Markelo
+Oude Rijssenseweg,3,"","",7475SM,Markelo
+Oude Rijssenseweg,31,"","",7475SM,Markelo
+Oude Rijssenseweg,31,A,"",7475SM,Markelo
+Oude Rijssenseweg,33,"","",7475SM,Markelo
+Oude Rijssenseweg,33,"","",7475SM,Markelo
+Oude Rijssenseweg,5,"","",7475SM,Markelo
+Oude Rijssenseweg,7,"","",7475SM,Markelo
+Oude Rijssenseweg,9,"","",7475SM,Markelo
+Oude Rijssenseweg,10,"","",7475SN,Markelo
+Oude Rijssenseweg,12,"","",7475SN,Markelo
+Oude Rijssenseweg,14,"","",7475SN,Markelo
+Oude Rijssenseweg,14,A,"",7475SN,Markelo
+Oude Rijssenseweg,16,"","",7475SN,Markelo
+Oude Rijssenseweg,18,"","",7475SN,Markelo
+Oude Rijssenseweg,18,A,"",7475SN,Markelo
+Oude Rijssenseweg,20,"","",7475SN,Markelo
+Oude Rijssenseweg,20,"","",7475SN,Markelo
+Oude Rijssenseweg,20,A,"",7475SN,Markelo
+Oude Rijssenseweg,20,B,"",7475SN,Markelo
+Oude Rijssenseweg,20,C,"",7475SN,Markelo
+Oude Rijssenseweg,20,D,"",7475SN,Markelo
+Oude Rijssenseweg,20,E,"",7475SN,Markelo
+Oude Rijssenseweg,4,"","",7475SN,Markelo
+Oude Rijssenseweg,6,"","",7475SN,Markelo
+Oude Rijssenseweg,6,"","",7475SN,Markelo
+Oude Rijssenseweg,8,"","",7475SN,Markelo
+Groningerveldweg,1,"","",7475SP,Markelo
+Groningerveldweg,2,"","",7475SP,Markelo
+Groningerveldweg,2,A,"",7475SP,Markelo
+Groningerveldweg,3,"","",7475SP,Markelo
+Groningerveldweg,6,"","",7475SP,Markelo

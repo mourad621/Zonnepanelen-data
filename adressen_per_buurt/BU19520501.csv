@@ -1,836 +1,409 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9605PA",16,"",""
-"9605PA",14,"a",""
-"9605PA",10,"",""
-"9605PA",40,"",""
-"9605PA",24,"",""
-"9605PA",32,"",""
-"9605PA",4,"",""
-"9605PA",8,"",""
-"9605PA",42,"",""
-"9605PA",20,"",""
-"9605PA",38,"",""
-"9605PA",26,"",""
-"9605PA",6,"",""
-"9605PA",44,"",""
-"9605PA",12,"",""
-"9605PA",28,"",""
-"9605PA",40,"",""
-"9605PA",42,"",""
-"9605PA",18,"",""
-"9605PA",14,"",""
-"9605PA",30,"",""
-"9605PA",34,"",""
-"9605PA",36,"",""
-"9605PB",50,"t",""
-"9605PB",60,"",""
-"9605PB",54,"",""
-"9605PB",62,"",""
-"9605PB",56,"",""
-"9605PB",52,"",""
-"9605PB",56,"",""
-"9605PB",50,"",""
-"9605PB",50,"t",""
-"9605PB",50,"",""
-"9605PB",56,"",""
-"9605PC",72,"a",""
-"9605PC",88,"",""
-"9605PC",108,"",""
-"9605PC",104,"",""
-"9605PC",80,"",""
-"9605PC",94,"",""
-"9605PC",84,"",""
-"9605PC",96,"",""
-"9605PC",86,"",""
-"9605PC",100,"",""
-"9605PC",74,"",""
-"9605PC",82,"",""
-"9605PC",68,"",""
-"9605PC",106,"",""
-"9605PC",66,"",""
-"9605PC",98,"",""
-"9605PC",78,"",""
-"9605PC",90,"",""
-"9605PC",64,"",""
-"9605PC",102,"",""
-"9605PC",110,"",""
-"9605PC",94,"",""
-"9605PC",92,"",""
-"9605PC",106,"a",""
-"9605PC",92,"",""
-"9605PD",130,"",""
-"9605PD",136,"",""
-"9605PD",130,"a",""
-"9605PD",132,"",""
-"9605PD",144,"",""
-"9605PD",134,"",""
-"9605PD",128,"a",""
-"9605PD",138,"",""
-"9605PD",122,"",""
-"9605PD",114,"",""
-"9605PD",130,"",""
-"9605PD",130,"a",""
-"9605PD",126,"",""
-"9605PD",128,"",""
-"9605PD",130,"",""
-"9605PD",142,"",""
-"9605PD",140,"",""
-"9605PD",112,"",""
-"9605PD",118,"",""
-"9605PD",116,"",""
-"9605PD",128,"",""
-"9605PD",130,"",""
-"9605PD",146,"",""
-"9605PD",128,"",""
-"9605PD",148,"",""
-"9605PE",176,"",""
-"9605PE",196,"",""
-"9605PE",164,"",""
-"9605PE",168,"",""
-"9605PE",178,"",""
-"9605PE",162,"",""
-"9605PE",186,"",""
-"9605PE",192,"",""
-"9605PE",184,"",""
-"9605PE",172,"",""
-"9605PE",188,"",""
-"9605PE",194,"",""
-"9605PE",190,"",""
-"9605PG",246,"",""
-"9605PG",232,"",""
-"9605PG",244,"",""
-"9605PG",216,"",""
-"9605PG",224,"",""
-"9605PG",240,"a",""
-"9605PG",212,"",""
-"9605PG",232,"a",""
-"9605PG",214,"",""
-"9605PG",218,"",""
-"9605PG",236,"",""
-"9605PG",208,"",""
-"9605PG",224,"a",""
-"9605PG",238,"",""
-"9605PG",248,"",""
-"9605PG",222,"",""
-"9605PG",206,"",""
-"9605PG",220,"",""
-"9605PG",242,"",""
-"9605PG",234,"",""
-"9605PG",240,"",""
-"9605PG",226,"",""
-"9605PG",200,"",""
-"9605PG",228,"",""
-"9605PG",230,"",""
-"9605PG",228,"a",""
-"9605PG",202,"",""
-"9605PH",252,"",""
-"9605PH",278,"",""
-"9605PH",256,"",""
-"9605PH",254,"",""
-"9605PH",264,"a",""
-"9605PH",250,"",""
-"9605PH",256,"",""
-"9605PH",258,"",""
-"9605PH",258,"",""
-"9605PH",298,"",""
-"9605PH",290,"",""
-"9605PH",296,"",""
-"9605PH",260,"",""
-"9605PH",272,"",""
-"9605PH",294,"",""
-"9605PH",284,"",""
-"9605PH",300,"A",""
-"9605PH",300,"",""
-"9605PH",256,"",""
-"9605PH",302,"A",""
-"9605PH",276,"",""
-"9605PH",266,"a",""
-"9605PH",264,"",""
-"9605PH",266,"",""
-"9605PH",286,"",""
-"9605PH",288,"",""
-"9605PH",280,"",""
-"9605PH",282,"",""
-"9605PH",274,"",""
-"9605PJ",324,"",""
-"9605PJ",330,"",""
-"9605PJ",328,"",""
-"9605PJ",328,"a",""
-"9605PJ",318,"",""
-"9605PJ",304,"",""
-"9605PJ",316,"",""
-"9605PJ",326,"",""
-"9605PJ",302,"A",""
-"9605PJ",310,"",""
-"9605PJ",334,"",""
-"9605PJ",336,"",""
-"9605PJ",332,"",""
-"9605PJ",308,"",""
-"9605PJ",306,"",""
-"9605PJ",300,"A",""
-"9605PJ",322,"",""
-"9605PJ",302,"",""
-"9605PJ",314,"",""
-"9605PK",45,"",""
-"9605PK",5,"",""
-"9605PK",39,"",""
-"9605PK",1,"",""
-"9605PK",43,"",""
-"9605PK",7,"",""
-"9605PK",7,"b",""
-"9605PK",41,"",""
-"9605PK",31,"",""
-"9605PK",37,"",""
-"9605PK",25,"",""
-"9605PK",31,"",""
-"9605PK",33,"",""
-"9605PK",29,"a",""
-"9605PK",47,"",""
-"9605PK",9,"",""
-"9605PK",29,"",""
-"9605PK",17,"",""
-"9605PK",15,"",""
-"9605PK",3,"",""
-"9605PK",5,"",""
-"9605PK",23,"",""
-"9605PK",21,"",""
-"9605PK",21,"",""
-"9605PK",23,"A",""
-"9605PK",23,"",""
-"9605PK",23,"",""
-"9605PK",19,"",""
-"9605PK",23,"",""
-"9605PL",77,"a",""
-"9605PL",85,"",""
-"9605PL",87,"",""
-"9605PL",75,"",""
-"9605PL",67,"",""
-"9605PL",53,"",""
-"9605PL",79,"a",""
-"9605PL",77,"",""
-"9605PL",73,"",""
-"9605PL",59,"a",""
-"9605PL",95,"",""
-"9605PL",77,"d",""
-"9605PL",77,"",""
-"9605PL",91,"",""
-"9605PL",99,"",""
-"9605PL",81,"",""
-"9605PL",83,"",""
-"9605PL",51,"",""
-"9605PL",89,"",""
-"9605PL",97,"",""
-"9605PL",57,"",""
-"9605PL",77,"b",""
-"9605PL",59,"",""
-"9605PL",55,"",""
-"9605PL",77,"c",""
-"9605PL",61,"",""
-"9605PL",93,"",""
-"9605PL",79,"a",""
-"9605PM",129,"",""
-"9605PM",149,"",""
-"9605PM",117,"",""
-"9605PM",121,"",""
-"9605PM",133,"",""
-"9605PM",115,"",""
-"9605PM",109,"",""
-"9605PM",113,"",""
-"9605PM",123,"",""
-"9605PM",141,"",""
-"9605PM",137,"",""
-"9605PM",107,"",""
-"9605PM",145,"",""
-"9605PM",105,"",""
-"9605PM",147,"",""
-"9605PM",143,"",""
-"9605PM",103,"",""
-"9605PM",119,"",""
-"9605PM",121,"",""
-"9605PN",187,"",""
-"9605PN",167,"a",""
-"9605PN",199,"a",""
-"9605PN",185,"",""
-"9605PN",191,"",""
-"9605PN",193,"",""
-"9605PN",189,"",""
-"9605PN",183,"",""
-"9605PN",199,"",""
-"9605PN",199,"",""
-"9605PN",197,"",""
-"9605PN",177,"",""
-"9605PN",169,"",""
-"9605PN",199,"b",""
-"9605PN",195,"",""
-"9605PN",155,"",""
-"9605PN",153,"",""
-"9605PN",167,"",""
-"9605PN",163,"f",""
-"9605PN",167,"",""
-"9605PN",167,"a",""
-"9605PN",167,"",""
-"9605PN",163,"b",""
-"9605PN",157,"",""
-"9605PN",151,"",""
-"9605PN",165,"",""
-"9605PN",173,"",""
-"9605PN",163,"a",""
-"9605PN",163,"g",""
-"9605PN",161,"",""
-"9605PN",163,"e",""
-"9605PN",159,"",""
-"9605PN",163,"d",""
-"9605PN",163,"c",""
-"9605PN",171,"",""
-"9605PN",199,"a",""
-"9605PP",227,"",""
-"9605PP",207,"",""
-"9605PP",225,"",""
-"9605PP",221,"",""
-"9605PP",223,"",""
-"9605PP",211,"",""
-"9605PP",225,"a",""
-"9605PP",215,"",""
-"9605PP",213,"",""
-"9605PP",219,"",""
-"9605PP",201,"",""
-"9605PP",209,"",""
-"9605PR",37,"",""
-"9605PR",31,"",""
-"9605PR",35,"",""
-"9605PR",33,"",""
-"9605PR",29,"",""
-"9605PR",7,"a",""
-"9605PR",47,"",""
-"9605PR",45,"",""
-"9605PR",27,"",""
-"9605PR",9,"a",""
-"9605PR",5,"",""
-"9605PR",7,"",""
-"9605PR",49,"",""
-"9605PR",7,"b",""
-"9605PR",5,"b",""
-"9605PR",43,"",""
-"9605PR",9,"",""
-"9605PR",51,"",""
-"9605PR",15,"",""
-"9605PR",13,"",""
-"9605PR",11,"",""
-"9605PS",34,"",""
-"9605PS",2,"",""
-"9605PS",22,"",""
-"9605PS",24,"",""
-"9605PS",20,"",""
-"9605PS",42,"",""
-"9605PS",14,"",""
-"9605PS",6,"",""
-"9605PS",36,"",""
-"9605PS",44,"",""
-"9605PS",32,"",""
-"9605PS",10,"",""
-"9605PS",40,"",""
-"9605PS",26,"",""
-"9605PS",8,"",""
-"9605PS",46,"",""
-"9605PS",4,"",""
-"9605PT",88,"",""
-"9605PT",60,"",""
-"9605PT",56,"",""
-"9605PT",92,"",""
-"9605PT",80,"",""
-"9605PT",94,"",""
-"9605PT",90,"",""
-"9605PT",72,"",""
-"9605PT",62,"",""
-"9605PT",78,"",""
-"9605PT",76,"",""
-"9605PT",50,"",""
-"9605PT",74,"",""
-"9605PT",54,"a",""
-"9605PT",96,"",""
-"9605PT",82,"b",""
-"9605PT",84,"",""
-"9605PT",82,"d",""
-"9605PT",74,"",""
-"9605PT",68,"",""
-"9605PT",82,"",""
-"9605PT",82,"a",""
-"9605PT",54,"",""
-"9605PT",82,"c",""
-"9605PT",86,"a",""
-"9605PT",86,"",""
-"9605PT",48,"",""
-"9605PT",72,"",""
-"9605PV",17,"",""
-"9605PV",43,"",""
-"9605PV",11,"",""
-"9605PV",25,"",""
-"9605PV",9,"",""
-"9605PV",7,"",""
-"9605PV",5,"",""
-"9605PV",29,"",""
-"9605PV",43,"a",""
-"9605PV",37,"",""
-"9605PV",35,"",""
-"9605PV",33,"",""
-"9605PV",15,"",""
-"9605PV",13,"",""
-"9605PV",11,"b",""
-"9605PV",49,"",""
-"9605PV",27,"",""
-"9605PV",45,"",""
-"9605PV",39,"",""
-"9605PV",11,"a",""
-"9605PV",2,"",""
-"9605PV",23,"",""
-"9605PV",19,"",""
-"9605PV",31,"",""
-"9605PV",41,"",""
-"9605PV",21,"",""
-"9605PW",73,"",""
-"9605PW",85,"",""
-"9605PW",81,"",""
-"9605PW",77,"",""
-"9605PW",69,"",""
-"9605PW",67,"",""
-"9605PW",55,"",""
-"9605PW",61,"",""
-"9605PW",79,"",""
-"9605PW",83,"",""
-"9605PW",71,"a",""
-"9605PW",65,"",""
-"9605PW",57,"",""
-"9605PW",87,"",""
-"9605PW",53,"",""
-"9605PW",75,"",""
-"9605PW",65,"a",""
-"9605PW",63,"",""
-"9605PW",51,"",""
-"9605PW",59,"",""
-9605PA,Dorpsstraat,4,,
-9605PA,Dorpsstraat,6,,
-9605PA,Dorpsstraat,8,,
-9605PA,Dorpsstraat,10,,
-9605PA,Dorpsstraat,12,,
-9605PA,Dorpsstraat,14,,
-9605PA,Dorpsstraat,14,a,
-9605PA,Dorpsstraat,16,,
-9605PA,Dorpsstraat,18,,
-9605PA,Dorpsstraat,20,,
-9605PA,Dorpsstraat,24,,
-9605PA,Dorpsstraat,26,,
-9605PA,Dorpsstraat,28,,
-9605PA,Dorpsstraat,30,,
-9605PA,Dorpsstraat,32,,
-9605PA,Dorpsstraat,34,,
-9605PA,Dorpsstraat,36,,
-9605PA,Dorpsstraat,38,,
-9605PA,Dorpsstraat,40,,
-9605PA,Dorpsstraat,40,,
-9605PA,Dorpsstraat,44,,
-9605PB,Dorpsstraat,50,,
-9605PB,Dorpsstraat,50,t,
-9605PB,Dorpsstraat,52,,
-9605PB,Dorpsstraat,56,,
-9605PB,Dorpsstraat,60,,
-9605PB,Dorpsstraat,62,,
-9605PC,Dorpsstraat,64,,
-9605PC,Dorpsstraat,66,,
-9605PC,Dorpsstraat,68,,
-9605PC,Dorpsstraat,72,a,
-9605PC,Dorpsstraat,74,,
-9605PC,Dorpsstraat,78,,
-9605PC,Dorpsstraat,80,,
-9605PC,Dorpsstraat,82,,
-9605PC,Dorpsstraat,84,,
-9605PC,Dorpsstraat,86,,
-9605PC,Dorpsstraat,88,,
-9605PC,Dorpsstraat,90,,
-9605PC,Dorpsstraat,92,,
-9605PC,Dorpsstraat,94,,
-9605PC,Dorpsstraat,96,,
-9605PC,Dorpsstraat,98,,
-9605PC,Dorpsstraat,100,,
-9605PC,Dorpsstraat,102,,
-9605PC,Dorpsstraat,104,,
-9605PC,Dorpsstraat,106,,
-9605PC,Dorpsstraat,106,a,
-9605PC,Dorpsstraat,108,,
-9605PC,Dorpsstraat,110,,
-9605PD,Dorpsstraat,112,,
-9605PD,Dorpsstraat,114,,
-9605PD,Dorpsstraat,116,,
-9605PD,Dorpsstraat,118,,
-9605PD,Dorpsstraat,122,,
-9605PD,Dorpsstraat,126,,
-9605PD,Dorpsstraat,128,,
-9605PD,Dorpsstraat,128,a,
-9605PD,Dorpsstraat,132,,
-9605PD,Dorpsstraat,134,,
-9605PD,Dorpsstraat,136,,
-9605PD,Dorpsstraat,138,,
-9605PD,Dorpsstraat,140,,
-9605PD,Dorpsstraat,142,,
-9605PD,Dorpsstraat,144,,
-9605PD,Dorpsstraat,146,,
-9605PD,Dorpsstraat,148,,
-9605PE,Dorpsstraat,162,,
-9605PE,Dorpsstraat,164,,
-9605PE,Dorpsstraat,168,,
-9605PE,Dorpsstraat,172,,
-9605PE,Dorpsstraat,176,,
-9605PE,Dorpsstraat,178,,
-9605PE,Dorpsstraat,184,,
-9605PE,Dorpsstraat,186,,
-9605PE,Dorpsstraat,188,,
-9605PE,Dorpsstraat,190,,
-9605PE,Dorpsstraat,192,,
-9605PE,Dorpsstraat,194,,
-9605PE,Dorpsstraat,196,,
-9605PG,Dorpsstraat,200,,
-9605PG,Dorpsstraat,202,,
-9605PG,Dorpsstraat,206,,
-9605PG,Dorpsstraat,208,,
-9605PG,Dorpsstraat,212,,
-9605PG,Dorpsstraat,214,,
-9605PG,Dorpsstraat,216,,
-9605PG,Dorpsstraat,218,,
-9605PG,Dorpsstraat,220,,
-9605PG,Dorpsstraat,222,,
-9605PG,Dorpsstraat,224,,
-9605PG,Dorpsstraat,224,a,
-9605PG,Dorpsstraat,226,,
-9605PG,Dorpsstraat,228,,
-9605PG,Dorpsstraat,230,,
-9605PG,Dorpsstraat,232,,
-9605PG,Dorpsstraat,232,a,
-9605PG,Dorpsstraat,234,,
-9605PG,Dorpsstraat,236,,
-9605PG,Dorpsstraat,238,,
-9605PG,Dorpsstraat,240,,
-9605PG,Dorpsstraat,240,a,
-9605PG,Dorpsstraat,242,,
-9605PG,Dorpsstraat,244,,
-9605PG,Dorpsstraat,246,,
-9605PG,Dorpsstraat,248,,
-9605PH,Dorpsstraat,250,,
-9605PH,Dorpsstraat,252,,
-9605PH,Dorpsstraat,254,,
-9605PH,Dorpsstraat,256,,
-9605PH,Dorpsstraat,258,,
-9605PH,Dorpsstraat,260,,
-9605PH,Dorpsstraat,264,,
-9605PH,Dorpsstraat,264,a,
-9605PH,Dorpsstraat,266,,
-9605PH,Dorpsstraat,266,a,
-9605PH,Dorpsstraat,272,,
-9605PH,Dorpsstraat,274,,
-9605PH,Dorpsstraat,276,,
-9605PH,Dorpsstraat,278,,
-9605PH,Dorpsstraat,280,,
-9605PH,Dorpsstraat,282,,
-9605PH,Dorpsstraat,284,,
-9605PH,Dorpsstraat,286,,
-9605PH,Dorpsstraat,288,,
-9605PH,Dorpsstraat,290,,
-9605PH,Dorpsstraat,294,,
-9605PH,Dorpsstraat,296,,
-9605PH,Dorpsstraat,298,,
-9605PH,Dorpsstraat,300,,
-9605PH,Dorpsstraat,300,A,
-9605PH,Dorpsstraat,302,A,
-9605PJ,Dorpsstraat,302,,
-9605PJ,Dorpsstraat,300,A,
-9605PJ,Dorpsstraat,302,A,
-9605PJ,Dorpsstraat,304,,
-9605PJ,Dorpsstraat,306,,
-9605PJ,Dorpsstraat,308,,
-9605PJ,Dorpsstraat,310,,
-9605PJ,Dorpsstraat,314,,
-9605PJ,Dorpsstraat,316,,
-9605PJ,Dorpsstraat,318,,
-9605PJ,Dorpsstraat,322,,
-9605PJ,Dorpsstraat,324,,
-9605PJ,Dorpsstraat,326,,
-9605PJ,Dorpsstraat,328,,
-9605PJ,Dorpsstraat,328,a,
-9605PJ,Dorpsstraat,330,,
-9605PJ,Dorpsstraat,332,,
-9605PJ,Dorpsstraat,334,,
-9605PJ,Dorpsstraat,336,,
-9605PB,Dorpsstraat,54,,
-9605PB,Dorpsstraat,56,,
-9605PH,Dorpsstraat,256,,
-9605PK,Pieter Venemakade,1,,
-9605PK,Pieter Venemakade,3,,
-9605PK,Pieter Venemakade,5,,
-9605PK,Pieter Venemakade,5,,
-9605PK,Pieter Venemakade,7,,
-9605PK,Pieter Venemakade,7,b,
-9605PK,Pieter Venemakade,9,,
-9605PK,Pieter Venemakade,15,,
-9605PK,Pieter Venemakade,17,,
-9605PK,Pieter Venemakade,19,,
-9605PK,Pieter Venemakade,21,,
-9605PK,Pieter Venemakade,23,,
-9605PK,Pieter Venemakade,23,,
-9605PK,Pieter Venemakade,21,,
-9605PK,Pieter Venemakade,25,,
-9605PK,Pieter Venemakade,29,,
-9605PK,Pieter Venemakade,29,a,
-9605PK,Pieter Venemakade,31,,
-9605PK,Pieter Venemakade,31,,
-9605PK,Pieter Venemakade,33,,
-9605PK,Pieter Venemakade,37,,
-9605PK,Pieter Venemakade,39,,
-9605PK,Pieter Venemakade,41,,
-9605PK,Pieter Venemakade,43,,
-9605PK,Pieter Venemakade,45,,
-9605PK,Pieter Venemakade,47,,
-9605PL,Pieter Venemakade,51,,
-9605PL,Pieter Venemakade,53,,
-9605PL,Pieter Venemakade,55,,
-9605PL,Pieter Venemakade,57,,
-9605PL,Pieter Venemakade,59,,
-9605PL,Pieter Venemakade,59,a,
-9605PL,Pieter Venemakade,61,,
-9605PL,Pieter Venemakade,67,,
-9605PL,Pieter Venemakade,73,,
-9605PL,Pieter Venemakade,75,,
-9605PL,Pieter Venemakade,77,,
-9605PL,Pieter Venemakade,77,,
-9605PL,Pieter Venemakade,77,a,
-9605PL,Pieter Venemakade,77,b,
-9605PL,Pieter Venemakade,77,c,
-9605PL,Pieter Venemakade,77,d,
-9605PL,Pieter Venemakade,79,a,
-9605PL,Pieter Venemakade,81,,
-9605PL,Pieter Venemakade,83,,
-9605PL,Pieter Venemakade,85,,
-9605PL,Pieter Venemakade,87,,
-9605PL,Pieter Venemakade,89,,
-9605PL,Pieter Venemakade,91,,
-9605PL,Pieter Venemakade,93,,
-9605PL,Pieter Venemakade,95,,
-9605PL,Pieter Venemakade,97,,
-9605PL,Pieter Venemakade,99,,
-9605PM,Pieter Venemakade,103,,
-9605PM,Pieter Venemakade,105,,
-9605PM,Pieter Venemakade,113,,
-9605PM,Pieter Venemakade,115,,
-9605PM,Pieter Venemakade,117,,
-9605PM,Pieter Venemakade,119,,
-9605PM,Pieter Venemakade,123,,
-9605PM,Pieter Venemakade,129,,
-9605PM,Pieter Venemakade,133,,
-9605PM,Pieter Venemakade,137,,
-9605PM,Pieter Venemakade,141,,
-9605PM,Pieter Venemakade,143,,
-9605PM,Pieter Venemakade,145,,
-9605PM,Pieter Venemakade,147,,
-9605PM,Pieter Venemakade,149,,
-9605PM,Pieter Venemakade,121,,
-9605PM,Pieter Venemakade,107,,
-9605PM,Pieter Venemakade,109,,
-9605PN,Pieter Venemakade,151,,
-9605PN,Pieter Venemakade,153,,
-9605PN,Pieter Venemakade,155,,
-9605PN,Pieter Venemakade,157,,
-9605PN,Pieter Venemakade,161,,
-9605PN,Pieter Venemakade,163,a,
-9605PN,Pieter Venemakade,163,b,
-9605PN,Pieter Venemakade,163,c,
-9605PN,Pieter Venemakade,163,d,
-9605PN,Pieter Venemakade,163,e,
-9605PN,Pieter Venemakade,163,f,
-9605PN,Pieter Venemakade,163,g,
-9605PN,Pieter Venemakade,165,,
-9605PN,Pieter Venemakade,167,,
-9605PN,Pieter Venemakade,167,a,
-9605PN,Pieter Venemakade,169,,
-9605PN,Pieter Venemakade,171,,
-9605PN,Pieter Venemakade,173,,
-9605PN,Pieter Venemakade,177,,
-9605PN,Pieter Venemakade,183,,
-9605PN,Pieter Venemakade,185,,
-9605PN,Pieter Venemakade,187,,
-9605PN,Pieter Venemakade,189,,
-9605PN,Pieter Venemakade,191,,
-9605PN,Pieter Venemakade,193,,
-9605PN,Pieter Venemakade,195,,
-9605PN,Pieter Venemakade,197,,
-9605PN,Pieter Venemakade,199,,
-9605PN,Pieter Venemakade,199,a,
-9605PN,Pieter Venemakade,199,b,
-9605PN,Pieter Venemakade,159,,
-9605PN,Pieter Venemakade,167,,
-9605PP,Pieter Venemakade,201,,
-9605PP,Pieter Venemakade,207,,
-9605PP,Pieter Venemakade,209,,
-9605PP,Pieter Venemakade,211,,
-9605PP,Pieter Venemakade,213,,
-9605PP,Pieter Venemakade,215,,
-9605PP,Pieter Venemakade,219,,
-9605PP,Pieter Venemakade,221,,
-9605PP,Pieter Venemakade,223,,
-9605PP,Pieter Venemakade,225,,
-9605PP,Pieter Venemakade,225,a,
-9605PP,Pieter Venemakade,227,,
-9605PR,Sluisweg,5,,
-9605PR,Sluisweg,5,b,
-9605PR,Sluisweg,7,,
-9605PR,Sluisweg,7,a,
-9605PR,Sluisweg,7,b,
-9605PR,Sluisweg,9,,
-9605PR,Sluisweg,9,a,
-9605PR,Sluisweg,11,,
-9605PR,Sluisweg,13,,
-9605PR,Sluisweg,15,,
-9605PR,Sluisweg,27,,
-9605PR,Sluisweg,29,,
-9605PR,Sluisweg,31,,
-9605PR,Sluisweg,33,,
-9605PR,Sluisweg,35,,
-9605PR,Sluisweg,37,,
-9605PR,Sluisweg,43,,
-9605PR,Sluisweg,45,,
-9605PR,Sluisweg,47,,
-9605PR,Sluisweg,49,,
-9605PR,Sluisweg,51,,
-9605PS,Sluisweg,2,,
-9605PS,Sluisweg,6,,
-9605PS,Sluisweg,8,,
-9605PS,Sluisweg,10,,
-9605PS,Sluisweg,14,,
-9605PS,Sluisweg,20,,
-9605PS,Sluisweg,22,,
-9605PS,Sluisweg,24,,
-9605PS,Sluisweg,26,,
-9605PS,Sluisweg,32,,
-9605PS,Sluisweg,34,,
-9605PS,Sluisweg,36,,
-9605PS,Sluisweg,40,,
-9605PS,Sluisweg,42,,
-9605PS,Sluisweg,44,,
-9605PS,Sluisweg,46,,
-9605PS,Sluisweg,4,,
-9605PT,Sluisweg,48,,
-9605PT,Sluisweg,50,,
-9605PT,Sluisweg,54,,
-9605PT,Sluisweg,54,a,
-9605PT,Sluisweg,56,,
-9605PT,Sluisweg,60,,
-9605PT,Sluisweg,62,,
-9605PT,Sluisweg,68,,
-9605PT,Sluisweg,72,,
-9605PT,Sluisweg,72,,
-9605PT,Sluisweg,74,,
-9605PT,Sluisweg,74,,
-9605PT,Sluisweg,76,,
-9605PT,Sluisweg,78,,
-9605PT,Sluisweg,80,,
-9605PT,Sluisweg,82,,
-9605PT,Sluisweg,82,a,
-9605PT,Sluisweg,82,b,
-9605PT,Sluisweg,82,c,
-9605PT,Sluisweg,82,d,
-9605PT,Sluisweg,84,,
-9605PT,Sluisweg,86,,
-9605PT,Sluisweg,86,a,
-9605PT,Sluisweg,90,,
-9605PT,Sluisweg,92,,
-9605PT,Sluisweg,94,,
-9605PT,Sluisweg,96,,
-9605PT,Sluisweg,88,,
-9605PV,Zuidlaarderweg,2,,
-9605PV,Zuidlaarderweg,5,,
-9605PV,Zuidlaarderweg,7,,
-9605PV,Zuidlaarderweg,9,,
-9605PV,Zuidlaarderweg,11,,
-9605PV,Zuidlaarderweg,11,a,
-9605PV,Zuidlaarderweg,11,b,
-9605PV,Zuidlaarderweg,13,,
-9605PV,Zuidlaarderweg,15,,
-9605PV,Zuidlaarderweg,17,,
-9605PV,Zuidlaarderweg,19,,
-9605PV,Zuidlaarderweg,21,,
-9605PV,Zuidlaarderweg,23,,
-9605PV,Zuidlaarderweg,25,,
-9605PV,Zuidlaarderweg,27,,
-9605PV,Zuidlaarderweg,29,,
-9605PV,Zuidlaarderweg,31,,
-9605PV,Zuidlaarderweg,33,,
-9605PV,Zuidlaarderweg,35,,
-9605PV,Zuidlaarderweg,37,,
-9605PV,Zuidlaarderweg,39,,
-9605PV,Zuidlaarderweg,43,,
-9605PV,Zuidlaarderweg,43,a,
-9605PV,Zuidlaarderweg,45,,
-9605PV,Zuidlaarderweg,49,,
-9605PV,Zuidlaarderweg,41,,
-9605PW,Zuidlaarderweg,51,,
-9605PW,Zuidlaarderweg,53,,
-9605PW,Zuidlaarderweg,55,,
-9605PW,Zuidlaarderweg,57,,
-9605PW,Zuidlaarderweg,59,,
-9605PW,Zuidlaarderweg,61,,
-9605PW,Zuidlaarderweg,63,,
-9605PW,Zuidlaarderweg,65,,
-9605PW,Zuidlaarderweg,65,a,
-9605PW,Zuidlaarderweg,67,,
-9605PW,Zuidlaarderweg,69,,
-9605PW,Zuidlaarderweg,71,a,
-9605PW,Zuidlaarderweg,73,,
-9605PW,Zuidlaarderweg,75,,
-9605PW,Zuidlaarderweg,77,,
-9605PW,Zuidlaarderweg,79,,
-9605PW,Zuidlaarderweg,81,,
-9605PW,Zuidlaarderweg,83,,
-9605PW,Zuidlaarderweg,85,,
-9605PW,Zuidlaarderweg,87,,
-9605PA,Dorpsstraat,42,,
-9605PA,Dorpsstraat,42,,
-9605PD,Dorpsstraat,128,,
-9605PD,Dorpsstraat,130,,
-9605PD,Dorpsstraat,130,,
-9605PD,Dorpsstraat,130,,
-9605PD,Dorpsstraat,130,a,
-9605PD,Dorpsstraat,130,a,
-9605PG,Dorpsstraat,228,a,
-9605PK,Pieter Venemakade,23,,
-9605PK,Pieter Venemakade,23,A,
-9605PB,Dorpsstraat,46,,
-9605PB,Dorpsstraat,48,,
-9605PB,Dorpsstraat,50,,
-9605PB,Dorpsstraat,46,A,
-9605PB,Dorpsstraat,54,A,
-9605PC,Dorpsstraat,92,,
-9605PC,Dorpsstraat,92,,
-9605PC,Dorpsstraat,94,,
-9605PE,Dorpsstraat,186,A,
-9605PE,Dorpsstraat,160,,
-9605PH,Dorpsstraat,250,A,
-9605PH,Dorpsstraat,298,A,
-9605PH,Dorpsstraat,290,A,
-9605PH,Dorpsstraat,290,B,
-9605PH,Dorpsstraat,290,C,
-9605PH,Dorpsstraat,290,D,
-9605PH,Dorpsstraat,290,E,
-9605PH,Dorpsstraat,290,F,
-9605PH,Dorpsstraat,290,G,
-9605PH,Dorpsstraat,290,H,
-9605PH,Dorpsstraat,290,J,
-9605PH,Dorpsstraat,290,K,
-9605PH,Dorpsstraat,290,L,
-9605PH,Dorpsstraat,290,M,
-9605PJ,Dorpsstraat,302,,
-9605PL,Pieter Venemakade,71,,
-9605PM,Pieter Venemakade,103,A,
-9605PM,Pieter Venemakade,103,B,
-9605PM,Pieter Venemakade,103,C,
-9605PM,Pieter Venemakade,103,D,
-9605PM,Pieter Venemakade,103,,
-9605PN,Pieter Venemakade,199,,
-9605PN,Pieter Venemakade,199,A,
-9605PN,Pieter Venemakade,199,,
-9605PN,Pieter Venemakade,199,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Dorpsstraat,10,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,12,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,14,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,14,A,"",9605PA,Kiel-Windeweer
+Dorpsstraat,16,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,18,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,20,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,24,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,26,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,28,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,30,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,32,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,34,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,36,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,38,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,4,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,40,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,40,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,42,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,42,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,44,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,6,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,8,"","",9605PA,Kiel-Windeweer
+Dorpsstraat,50,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,50,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,50,T,"",9605PB,Kiel-Windeweer
+Dorpsstraat,50,T,"",9605PB,Kiel-Windeweer
+Dorpsstraat,52,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,54,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,56,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,56,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,56,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,60,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,62,"","",9605PB,Kiel-Windeweer
+Dorpsstraat,100,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,102,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,104,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,106,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,106,A,"",9605PC,Kiel-Windeweer
+Dorpsstraat,108,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,110,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,64,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,66,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,68,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,72,A,"",9605PC,Kiel-Windeweer
+Dorpsstraat,74,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,78,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,80,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,82,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,84,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,86,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,88,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,90,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,92,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,92,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,94,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,94,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,96,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,98,"","",9605PC,Kiel-Windeweer
+Dorpsstraat,112,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,114,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,116,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,118,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,122,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,126,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,128,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,128,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,128,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,128,A,"",9605PD,Kiel-Windeweer
+Dorpsstraat,130,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,130,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,130,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,130,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,130,A,"",9605PD,Kiel-Windeweer
+Dorpsstraat,130,A,"",9605PD,Kiel-Windeweer
+Dorpsstraat,132,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,134,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,136,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,138,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,140,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,142,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,144,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,146,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,148,"","",9605PD,Kiel-Windeweer
+Dorpsstraat,162,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,164,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,168,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,172,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,176,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,178,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,184,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,186,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,188,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,190,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,192,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,194,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,196,"","",9605PE,Kiel-Windeweer
+Dorpsstraat,200,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,202,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,206,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,208,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,212,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,214,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,216,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,218,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,220,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,222,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,224,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,224,A,"",9605PG,Kiel-Windeweer
+Dorpsstraat,226,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,228,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,228,A,"",9605PG,Kiel-Windeweer
+Dorpsstraat,230,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,232,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,232,A,"",9605PG,Kiel-Windeweer
+Dorpsstraat,234,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,236,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,238,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,240,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,240,A,"",9605PG,Kiel-Windeweer
+Dorpsstraat,242,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,244,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,246,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,248,"","",9605PG,Kiel-Windeweer
+Dorpsstraat,250,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,252,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,254,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,256,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,256,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,256,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,258,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,258,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,260,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,264,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,264,A,"",9605PH,Kiel-Windeweer
+Dorpsstraat,266,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,266,A,"",9605PH,Kiel-Windeweer
+Dorpsstraat,272,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,274,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,276,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,278,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,280,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,282,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,284,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,286,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,288,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,290,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,294,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,296,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,298,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,300,"","",9605PH,Kiel-Windeweer
+Dorpsstraat,300,A,"",9605PH,Kiel-Windeweer
+Dorpsstraat,302,A,"",9605PH,Kiel-Windeweer
+Dorpsstraat,300,A,"",9605PJ,Kiel-Windeweer
+Dorpsstraat,302,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,302,A,"",9605PJ,Kiel-Windeweer
+Dorpsstraat,304,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,306,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,308,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,310,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,314,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,316,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,318,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,322,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,324,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,326,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,328,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,328,A,"",9605PJ,Kiel-Windeweer
+Dorpsstraat,330,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,332,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,334,"","",9605PJ,Kiel-Windeweer
+Dorpsstraat,336,"","",9605PJ,Kiel-Windeweer
+Pieter Venemakade,1,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,15,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,17,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,19,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,21,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,21,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,23,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,23,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,23,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,23,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,23,A,"",9605PK,Kiel-Windeweer
+Pieter Venemakade,25,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,29,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,29,A,"",9605PK,Kiel-Windeweer
+Pieter Venemakade,3,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,31,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,31,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,33,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,37,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,39,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,41,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,43,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,45,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,47,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,5,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,5,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,7,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,7,B,"",9605PK,Kiel-Windeweer
+Pieter Venemakade,9,"","",9605PK,Kiel-Windeweer
+Pieter Venemakade,51,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,53,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,55,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,57,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,59,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,59,A,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,61,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,67,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,73,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,75,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,77,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,77,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,77,A,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,77,B,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,77,C,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,77,D,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,79,A,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,79,A,"",9605PL,Kiel-Windeweer
+Pieter Venemakade,81,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,83,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,85,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,87,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,89,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,91,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,93,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,95,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,97,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,99,"","",9605PL,Kiel-Windeweer
+Pieter Venemakade,103,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,105,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,107,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,109,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,113,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,115,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,117,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,119,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,121,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,121,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,123,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,129,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,133,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,137,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,141,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,143,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,145,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,147,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,149,"","",9605PM,Kiel-Windeweer
+Pieter Venemakade,151,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,153,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,155,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,157,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,159,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,161,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,A,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,B,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,C,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,D,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,E,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,F,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,163,G,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,165,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,167,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,167,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,167,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,167,A,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,167,A,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,169,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,171,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,173,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,177,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,183,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,185,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,187,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,189,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,191,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,193,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,195,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,197,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,199,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,199,"","",9605PN,Kiel-Windeweer
+Pieter Venemakade,199,A,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,199,A,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,199,B,"",9605PN,Kiel-Windeweer
+Pieter Venemakade,201,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,207,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,209,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,211,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,213,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,215,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,219,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,221,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,223,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,225,"","",9605PP,Kiel-Windeweer
+Pieter Venemakade,225,A,"",9605PP,Kiel-Windeweer
+Pieter Venemakade,227,"","",9605PP,Kiel-Windeweer
+Sluisweg,11,"","",9605PR,Kiel-Windeweer
+Sluisweg,13,"","",9605PR,Kiel-Windeweer
+Sluisweg,15,"","",9605PR,Kiel-Windeweer
+Sluisweg,27,"","",9605PR,Kiel-Windeweer
+Sluisweg,29,"","",9605PR,Kiel-Windeweer
+Sluisweg,31,"","",9605PR,Kiel-Windeweer
+Sluisweg,33,"","",9605PR,Kiel-Windeweer
+Sluisweg,35,"","",9605PR,Kiel-Windeweer
+Sluisweg,37,"","",9605PR,Kiel-Windeweer
+Sluisweg,43,"","",9605PR,Kiel-Windeweer
+Sluisweg,45,"","",9605PR,Kiel-Windeweer
+Sluisweg,47,"","",9605PR,Kiel-Windeweer
+Sluisweg,49,"","",9605PR,Kiel-Windeweer
+Sluisweg,5,"","",9605PR,Kiel-Windeweer
+Sluisweg,5,B,"",9605PR,Kiel-Windeweer
+Sluisweg,51,"","",9605PR,Kiel-Windeweer
+Sluisweg,7,"","",9605PR,Kiel-Windeweer
+Sluisweg,7,A,"",9605PR,Kiel-Windeweer
+Sluisweg,7,B,"",9605PR,Kiel-Windeweer
+Sluisweg,9,"","",9605PR,Kiel-Windeweer
+Sluisweg,9,A,"",9605PR,Kiel-Windeweer
+Sluisweg,10,"","",9605PS,Kiel-Windeweer
+Sluisweg,14,"","",9605PS,Kiel-Windeweer
+Sluisweg,2,"","",9605PS,Kiel-Windeweer
+Sluisweg,20,"","",9605PS,Kiel-Windeweer
+Sluisweg,22,"","",9605PS,Kiel-Windeweer
+Sluisweg,24,"","",9605PS,Kiel-Windeweer
+Sluisweg,26,"","",9605PS,Kiel-Windeweer
+Sluisweg,32,"","",9605PS,Kiel-Windeweer
+Sluisweg,34,"","",9605PS,Kiel-Windeweer
+Sluisweg,36,"","",9605PS,Kiel-Windeweer
+Sluisweg,4,"","",9605PS,Kiel-Windeweer
+Sluisweg,40,"","",9605PS,Kiel-Windeweer
+Sluisweg,42,"","",9605PS,Kiel-Windeweer
+Sluisweg,44,"","",9605PS,Kiel-Windeweer
+Sluisweg,46,"","",9605PS,Kiel-Windeweer
+Sluisweg,6,"","",9605PS,Kiel-Windeweer
+Sluisweg,8,"","",9605PS,Kiel-Windeweer
+Sluisweg,48,"","",9605PT,Kiel-Windeweer
+Sluisweg,50,"","",9605PT,Kiel-Windeweer
+Sluisweg,54,"","",9605PT,Kiel-Windeweer
+Sluisweg,54,A,"",9605PT,Kiel-Windeweer
+Sluisweg,56,"","",9605PT,Kiel-Windeweer
+Sluisweg,60,"","",9605PT,Kiel-Windeweer
+Sluisweg,62,"","",9605PT,Kiel-Windeweer
+Sluisweg,68,"","",9605PT,Kiel-Windeweer
+Sluisweg,72,"","",9605PT,Kiel-Windeweer
+Sluisweg,72,"","",9605PT,Kiel-Windeweer
+Sluisweg,74,"","",9605PT,Kiel-Windeweer
+Sluisweg,74,"","",9605PT,Kiel-Windeweer
+Sluisweg,76,"","",9605PT,Kiel-Windeweer
+Sluisweg,78,"","",9605PT,Kiel-Windeweer
+Sluisweg,80,"","",9605PT,Kiel-Windeweer
+Sluisweg,82,"","",9605PT,Kiel-Windeweer
+Sluisweg,82,A,"",9605PT,Kiel-Windeweer
+Sluisweg,82,B,"",9605PT,Kiel-Windeweer
+Sluisweg,82,C,"",9605PT,Kiel-Windeweer
+Sluisweg,82,D,"",9605PT,Kiel-Windeweer
+Sluisweg,84,"","",9605PT,Kiel-Windeweer
+Sluisweg,86,"","",9605PT,Kiel-Windeweer
+Sluisweg,86,A,"",9605PT,Kiel-Windeweer
+Sluisweg,88,"","",9605PT,Kiel-Windeweer
+Sluisweg,90,"","",9605PT,Kiel-Windeweer
+Sluisweg,92,"","",9605PT,Kiel-Windeweer
+Sluisweg,94,"","",9605PT,Kiel-Windeweer
+Sluisweg,96,"","",9605PT,Kiel-Windeweer
+Zuidlaarderweg,11,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,11,A,"",9605PV,Kiel-Windeweer
+Zuidlaarderweg,11,B,"",9605PV,Kiel-Windeweer
+Zuidlaarderweg,13,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,15,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,17,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,19,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,2,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,21,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,23,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,25,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,27,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,29,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,31,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,33,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,35,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,37,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,39,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,41,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,43,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,43,A,"",9605PV,Kiel-Windeweer
+Zuidlaarderweg,45,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,49,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,5,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,7,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,9,"","",9605PV,Kiel-Windeweer
+Zuidlaarderweg,51,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,53,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,55,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,57,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,59,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,61,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,63,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,65,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,65,A,"",9605PW,Kiel-Windeweer
+Zuidlaarderweg,67,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,69,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,71,A,"",9605PW,Kiel-Windeweer
+Zuidlaarderweg,73,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,75,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,77,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,79,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,81,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,83,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,85,"","",9605PW,Kiel-Windeweer
+Zuidlaarderweg,87,"","",9605PW,Kiel-Windeweer

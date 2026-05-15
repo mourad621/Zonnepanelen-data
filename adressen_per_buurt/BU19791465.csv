@@ -1,92 +1,93 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9901TG",58,"",""
-"9901TG",58,"",""
-"9901TG",46,"",""
-"9901TG",58,"",""
-"9901TG",62,"",""
-"9901TG",42,"",""
-"9901TG",51,"",""
-"9901TG",64,"",""
-"9901TG",40,"",""
-"9901TG",62,"",""
-"9901TG",44,"",""
-"9901TG",40,"",""
-"9901TG",51,"",""
-"9901TG",46,"",""
-"9901TG",62,"",""
-"9901TG",62,"",""
-"9901TG",64,"",""
-"9901TG",56,"",""
-"9901TG",60,"",""
-"9901TG",62,"",""
-"9901TG",44,"",""
-"9901TG",49,"","A"
-"9901TG",50,"",""
-"9901TG",50,"",""
-"9901TG",42,"",""
-"9901TG",48,"",""
-"9901TG",52,"",""
-"9901TG",58,"",""
-"9901TG",64,"",""
-"9901TG",56,"",""
-"9901TG",49,"","by"
-"9901TG",38,"",""
-"9901TG",49,"","by"
-"9901TG",48,"",""
-"9901TG",52,"",""
-"9901TG",60,"",""
-"9901TG",58,"",""
-"9901TG",38,"",""
-"9901TG",49,"",""
-"9901TG",49,"A",""
-"9901TG",64,"",""
-"9901TG",49,"A",""
-"9901TG",49,"",""
-"9901TG",49,"","A"
-"9901TH",5,"",""
-"9901TH",3,"",""
-"9901TH",7,"",""
-"9901TH",3,"",""
-"9901TH",13,"",""
-"9901TH",11,"",""
-"9901TH",2,"",""
-"9901TH",9,"",""
-"9901TH",7,"",""
-"9901TH",5,"",""
-"9901TH",7,"a",""
-"9901TH",2,"",""
-"9901TH",11,"",""
-"9901TH",1,"",""
-"9901TH",7,"a",""
-"9901TH",1,"",""
-"9901TH",9,"",""
-9901TH,Ds. Christophoripad,1,,
-9901TH,Ds. Christophoripad,3,,
-9901TH,Ds. Christophoripad,5,,
-9901TH,Ds. Christophoripad,7,,
-9901TH,Ds. Christophoripad,9,,
-9901TH,Ds. Christophoripad,11,,
-9901TH,Ds. Christophoripad,2,,
-9901TG,Jukwerderweg,49,,
-9901TG,Jukwerderweg,51,,
-9901TG,Jukwerderweg,38,,
-9901TG,Jukwerderweg,40,,
-9901TG,Jukwerderweg,42,,
-9901TG,Jukwerderweg,44,,
-9901TG,Jukwerderweg,46,,
-9901TG,Jukwerderweg,48,,
-9901TG,Jukwerderweg,50,,
-9901TG,Jukwerderweg,52,,
-9901TG,Jukwerderweg,56,,
-9901TG,Jukwerderweg,58,,
-9901TG,Jukwerderweg,60,,
-9901TG,Jukwerderweg,62,,
-9901TG,Jukwerderweg,64,,
-9901TG,Jukwerderweg,49,,by
-9901TG,Jukwerderweg,49,,A
-9901TG,Jukwerderweg,49,A,
-9901TH,Ds. Christophoripad,7,a,
-9901TH,Ds. Christophoripad,13,,
-9901TG,Jukwerderweg,62,,
-9901TG,Jukwerderweg,58,,
-9901TG,Jukwerderweg,49,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+58,"","","",9901TG,
+58,"","","",9901TG,
+46,"","","",9901TG,
+58,"","","",9901TG,
+62,"","","",9901TG,
+42,"","","",9901TG,
+51,"","","",9901TG,
+64,"","","",9901TG,
+40,"","","",9901TG,
+62,"","","",9901TG,
+44,"","","",9901TG,
+40,"","","",9901TG,
+51,"","","",9901TG,
+46,"","","",9901TG,
+62,"","","",9901TG,
+62,"","","",9901TG,
+64,"","","",9901TG,
+56,"","","",9901TG,
+60,"","","",9901TG,
+62,"","","",9901TG,
+44,"","","",9901TG,
+50,"","","",9901TG,
+50,"","","",9901TG,
+42,"","","",9901TG,
+48,"","","",9901TG,
+52,"","","",9901TG,
+58,"","","",9901TG,
+64,"","","",9901TG,
+56,"","","",9901TG,
+38,"","","",9901TG,
+48,"","","",9901TG,
+52,"","","",9901TG,
+60,"","","",9901TG,
+58,"","","",9901TG,
+38,"","","",9901TG,
+49,"","","",9901TG,
+64,"","","",9901TG,
+49,"","","",9901TG,
+49,"",A,"",9901TG,
+49,"",A,"",9901TG,
+49,"",BY,"",9901TG,
+49,"",BY,"",9901TG,
+Jukwerderweg,38,"","",9901TG,Appingedam
+Jukwerderweg,40,"","",9901TG,Appingedam
+Jukwerderweg,42,"","",9901TG,Appingedam
+Jukwerderweg,44,"","",9901TG,Appingedam
+Jukwerderweg,46,"","",9901TG,Appingedam
+Jukwerderweg,48,"","",9901TG,Appingedam
+Jukwerderweg,49,"","",9901TG,Appingedam
+Jukwerderweg,49,"","",9901TG,Appingedam
+Jukwerderweg,49,"",A,9901TG,Appingedam
+Jukwerderweg,49,"",BY,9901TG,Appingedam
+Jukwerderweg,49,A,"",9901TG,Appingedam
+Jukwerderweg,50,"","",9901TG,Appingedam
+Jukwerderweg,51,"","",9901TG,Appingedam
+Jukwerderweg,52,"","",9901TG,Appingedam
+Jukwerderweg,56,"","",9901TG,Appingedam
+Jukwerderweg,58,"","",9901TG,Appingedam
+Jukwerderweg,58,"","",9901TG,Appingedam
+Jukwerderweg,60,"","",9901TG,Appingedam
+Jukwerderweg,62,"","",9901TG,Appingedam
+Jukwerderweg,62,"","",9901TG,Appingedam
+Jukwerderweg,64,"","",9901TG,Appingedam
+49,A,"","",9901TG,
+49,A,"","",9901TG,
+5,"","","",9901TH,
+3,"","","",9901TH,
+7,"","","",9901TH,
+3,"","","",9901TH,
+13,"","","",9901TH,
+11,"","","",9901TH,
+2,"","","",9901TH,
+9,"","","",9901TH,
+7,"","","",9901TH,
+5,"","","",9901TH,
+2,"","","",9901TH,
+11,"","","",9901TH,
+1,"","","",9901TH,
+1,"","","",9901TH,
+9,"","","",9901TH,
+Ds. Christophoripad,1,"","",9901TH,Appingedam
+Ds. Christophoripad,11,"","",9901TH,Appingedam
+Ds. Christophoripad,13,"","",9901TH,Appingedam
+Ds. Christophoripad,2,"","",9901TH,Appingedam
+Ds. Christophoripad,3,"","",9901TH,Appingedam
+Ds. Christophoripad,5,"","",9901TH,Appingedam
+Ds. Christophoripad,7,"","",9901TH,Appingedam
+Ds. Christophoripad,7,A,"",9901TH,Appingedam
+Ds. Christophoripad,9,"","",9901TH,Appingedam
+7,A,"","",9901TH,
+7,A,"","",9901TH,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

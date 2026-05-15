@@ -1,100 +1,100 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3651LV,Bosweg,1,,
-3651LV,Bosweg,1,B,
-3651LV,Bosweg,11,,
-3651LV,Bosweg,15,,
-3651LV,Bosweg,2,,
-3651LV,Bosweg,3,,
-3651LS,Hollandsekade,1,,
-3651LS,Hollandsekade,1,B,
-3651LS,Hollandsekade,1,C,
-3651LS,Hollandsekade,11,,
-3651LS,Hollandsekade,2,,
-3651LS,Hollandsekade,4,,
-3651LS,Hollandsekade,5,,
-3651LS,Hollandsekade,6,,
-3651LS,Hollandsekade,7,,
-3651LS,Hollandsekade,9,,
-3651LZ,Milandweg,74,,
-3651LZ,Milandweg,79,,
-3651LZ,Milandweg,84,,
-3651LZ,Milandweg,86,,
-3651LZ,Milandweg,87,,
-3651LM,Nachtegaalspad,2,,
-3651LM,Nachtegaalspad,4,,
-3651LM,Nachtegaalspad,4,A,
-3652LM,Nachtegaalspad,1,,
-3652LM,Nachtegaalspad,11,,
-3652LM,Nachtegaalspad,13,,
-3652LM,Nachtegaalspad,15,,
-3652LM,Nachtegaalspad,17,,
-3652LM,Nachtegaalspad,19,,
-3652LM,Nachtegaalspad,21,,
-3652LM,Nachtegaalspad,25,,
-3652LM,Nachtegaalspad,3,,
-3652LM,Nachtegaalspad,5,,
-3652LM,Nachtegaalspad,7,,
-3652LM,Nachtegaalspad,9,,
-3651LW,Oude Meije,6,,
-3651LV,Bosweg,2,A,
-3651LV,Bosweg,2,B,
-3651LV,Bosweg,4,,
-3651LV,Bosweg,5,,
-3651LV,Bosweg,6,,
-3651LV,Bosweg,6,A,
-3651LV,Bosweg,6,A,
-3651LV,Bosweg,6,,
-3651LV,Bosweg,8,,
-3651LV,Bosweg,8,A,
-3651LV,Bosweg,8,B,
-3651LV,Bosweg,8,C,
-3651LV,Bosweg,8,D,
-3651LV,Bosweg,8,E,
-3651LV,Bosweg,8,G,
-3651LV,Bosweg,8,H,
-3651LV,Bosweg,8,J,
-3651LV,Bosweg,8,K,
-3651LV,Bosweg,8,L,
-3651LV,Bosweg,8,M,
-3651LV,Bosweg,8,N,
-3651LV,Bosweg,8,P,
-3651LV,Bosweg,8,R,
-3651LV,Bosweg,8,S,
-3651LV,Bosweg,8,T,
-3651LV,Bosweg,8,V,
-3651LV,Bosweg,8,W,
-3651LV,Bosweg,8,X,
-3651LV,Bosweg,1,A,
-3651LV,Bosweg,1,A,
-3651LV,Bosweg,4,A,
-3651LS,Hollandsekade,1,A,
-3651LS,Hollandsekade,23,,
-3651LS,Hollandsekade,23,A,
-3651LS,Hollandsekade,6,A,
-3651LS,Hollandsekade,8,,
-3651LS,Hollandsekade,19,A,
-3651LS,Hollandsekade,23,A,
-3651LZ,Milandweg,72,,
-3651LZ,Milandweg,89,,
-3651MA,Toegang,1,,
-3651MA,Toegang,3,,
-3651LR,Uitweg,1,,
-3651MB,Voorhaakdijk,1,,
-3651MB,Voorhaakdijk,10,,
-3651MB,Voorhaakdijk,12,,
-3651MB,Voorhaakdijk,14,,
-3651MB,Voorhaakdijk,16,,
-3651MB,Voorhaakdijk,18,,
-3651MB,Voorhaakdijk,2,,
-3651MB,Voorhaakdijk,20,,
-3651MB,Voorhaakdijk,3,,
-3651MB,Voorhaakdijk,4,,
-3651MB,Voorhaakdijk,5,,
-3651MB,Voorhaakdijk,6,,
-3651MB,Voorhaakdijk,6,A,
-3651MB,Voorhaakdijk,8,,
-3651MB,Voorhaakdijk,10,,
-3651MB,Voorhaakdijk,2,,
-3651MB,Voorhaakdijk,4,a,
-3651LV,Bosweg,17,,
-3651LV,Bosweg,17,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nachtegaalspad,2,"","",3651LM,Woerdense Verlaat
+Nachtegaalspad,4,"","",3651LM,Woerdense Verlaat
+Nachtegaalspad,4,A,"",3651LM,Woerdense Verlaat
+Uitweg,1,"","",3651LR,Woerdense Verlaat
+Hollandsekade,1,"","",3651LS,Woerdense Verlaat
+Hollandsekade,1,A,"",3651LS,Woerdense Verlaat
+Hollandsekade,1,B,"",3651LS,Woerdense Verlaat
+Hollandsekade,1,C,"",3651LS,Woerdense Verlaat
+Hollandsekade,11,"","",3651LS,Woerdense Verlaat
+Hollandsekade,19,A,"",3651LS,Woerdense Verlaat
+Hollandsekade,2,"","",3651LS,Woerdense Verlaat
+Hollandsekade,23,"","",3651LS,Woerdense Verlaat
+Hollandsekade,23,A,"",3651LS,Woerdense Verlaat
+Hollandsekade,23,A,"",3651LS,Woerdense Verlaat
+Hollandsekade,4,"","",3651LS,Woerdense Verlaat
+Hollandsekade,5,"","",3651LS,Woerdense Verlaat
+Hollandsekade,6,"","",3651LS,Woerdense Verlaat
+Hollandsekade,6,A,"",3651LS,Woerdense Verlaat
+Hollandsekade,7,"","",3651LS,Woerdense Verlaat
+Hollandsekade,8,"","",3651LS,Woerdense Verlaat
+Hollandsekade,9,"","",3651LS,Woerdense Verlaat
+Bosweg,1,"","",3651LV,Woerdense Verlaat
+Bosweg,1,A,"",3651LV,Woerdense Verlaat
+Bosweg,1,A,"",3651LV,Woerdense Verlaat
+Bosweg,1,B,"",3651LV,Woerdense Verlaat
+Bosweg,11,"","",3651LV,Woerdense Verlaat
+Bosweg,15,"","",3651LV,Woerdense Verlaat
+Bosweg,17,"","",3651LV,Zegveld
+Bosweg,17,"","",3651LV,Zegveld
+Bosweg,2,"","",3651LV,Woerdense Verlaat
+Bosweg,2,A,"",3651LV,Woerdense Verlaat
+Bosweg,2,B,"",3651LV,Woerdense Verlaat
+Bosweg,3,"","",3651LV,Woerdense Verlaat
+Bosweg,4,"","",3651LV,Woerdense Verlaat
+Bosweg,4,A,"",3651LV,Woerdense Verlaat
+Bosweg,5,"","",3651LV,Woerdense Verlaat
+Bosweg,6,"","",3651LV,Woerdense Verlaat
+Bosweg,6,"","",3651LV,Woerdense Verlaat
+Bosweg,6,A,"",3651LV,Woerdense Verlaat
+Bosweg,6,A,"",3651LV,Woerdense Verlaat
+Bosweg,8,"","",3651LV,Woerdense Verlaat
+Bosweg,8,A,"",3651LV,Woerdense Verlaat
+Bosweg,8,B,"",3651LV,Woerdense Verlaat
+Bosweg,8,C,"",3651LV,Woerdense Verlaat
+Bosweg,8,D,"",3651LV,Woerdense Verlaat
+Bosweg,8,E,"",3651LV,Woerdense Verlaat
+Bosweg,8,G,"",3651LV,Woerdense Verlaat
+Bosweg,8,H,"",3651LV,Woerdense Verlaat
+Bosweg,8,J,"",3651LV,Woerdense Verlaat
+Bosweg,8,K,"",3651LV,Woerdense Verlaat
+Bosweg,8,L,"",3651LV,Woerdense Verlaat
+Bosweg,8,M,"",3651LV,Woerdense Verlaat
+Bosweg,8,N,"",3651LV,Woerdense Verlaat
+Bosweg,8,P,"",3651LV,Woerdense Verlaat
+Bosweg,8,R,"",3651LV,Woerdense Verlaat
+Bosweg,8,S,"",3651LV,Woerdense Verlaat
+Bosweg,8,T,"",3651LV,Woerdense Verlaat
+Bosweg,8,V,"",3651LV,Woerdense Verlaat
+Bosweg,8,W,"",3651LV,Woerdense Verlaat
+Bosweg,8,X,"",3651LV,Woerdense Verlaat
+Oude Meije,6,"","",3651LW,Woerdense Verlaat
+Milandweg,72,"","",3651LZ,Woerdense Verlaat
+Milandweg,74,"","",3651LZ,Woerdense Verlaat
+Milandweg,79,"","",3651LZ,Woerdense Verlaat
+Milandweg,84,"","",3651LZ,Woerdense Verlaat
+Milandweg,86,"","",3651LZ,Woerdense Verlaat
+Milandweg,87,"","",3651LZ,Woerdense Verlaat
+Milandweg,89,"","",3651LZ,Woerdense Verlaat
+Toegang,1,"","",3651MA,Woerdense Verlaat
+Toegang,3,"","",3651MA,Woerdense Verlaat
+Voorhaakdijk,1,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,10,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,10,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,12,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,14,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,16,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,18,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,2,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,2,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,20,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,3,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,4,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,4,A,"",3651MB,Woerdense Verlaat
+Voorhaakdijk,5,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,6,"","",3651MB,Woerdense Verlaat
+Voorhaakdijk,6,A,"",3651MB,Woerdense Verlaat
+Voorhaakdijk,8,"","",3651MB,Woerdense Verlaat
+Nachtegaalspad,1,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,11,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,13,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,15,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,17,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,19,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,21,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,25,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,3,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,5,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,7,"","",3652LM,Woerdense Verlaat
+Nachtegaalspad,9,"","",3652LM,Woerdense Verlaat

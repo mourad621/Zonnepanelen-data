@@ -1,260 +1,129 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9136PN",19,"",""
-"9136PN",9,"",""
-"9136PN",21,"",""
-"9136PN",27,"",""
-"9136PN",1,"A",""
-"9136PN",3,"",""
-"9136PN",17,"",""
-"9136PN",15,"",""
-"9136PN",11,"",""
-"9136PN",23,"",""
-"9136PN",21,"A",""
-"9136PN",7,"",""
-"9136PN",13,"",""
-"9136PN",21,"A",""
-"9136PN",5,"",""
-"9136PN",1,"",""
-"9136PN",25,"",""
-"9136PP",4,"",""
-"9136PP",6,"",""
-"9136PP",2,"",""
-"9136PP",8,"",""
-"9136PR",9,"",""
-"9136PR",11,"",""
-"9136PR",5,"",""
-"9136PR",7,"",""
-"9136PR",3,"",""
-"9136PR",1,"",""
-"9136PR",13,"",""
-"9136PS",14,"",""
-"9136PS",26,"",""
-"9136PS",18,"",""
-"9136PS",20,"",""
-"9136PS",16,"",""
-"9136PS",8,"",""
-"9136PS",6,"",""
-"9136PS",22,"",""
-"9136PS",24,"",""
-"9136PS",10,"",""
-"9136PS",12,"",""
-"9136PS",4,"",""
-"9136PS",26,"",""
-"9136PS",2,"",""
-"9136PT",13,"",""
-"9136PT",17,"",""
-"9136PT",27,"",""
-"9136PT",23,"",""
-"9136PT",21,"",""
-"9136PT",3,"",""
-"9136PT",19,"",""
-"9136PT",9,"",""
-"9136PT",11,"",""
-"9136PT",5,"",""
-"9136PT",13,"",""
-"9136PT",1,"",""
-"9136PT",15,"",""
-"9136PT",25,"",""
-"9136PV",30,"",""
-"9136PV",18,"",""
-"9136PV",22,"",""
-"9136PV",26,"",""
-"9136PV",24,"",""
-"9136PV",14,"",""
-"9136PV",8,"",""
-"9136PV",6,"",""
-"9136PV",16,"",""
-"9136PV",32,"",""
-"9136PV",2,"B",""
-"9136PV",2,"A",""
-"9136PV",10,"",""
-"9136PV",20,"",""
-"9136PV",4,"",""
-"9136PV",2,"",""
-"9136PV",12,"",""
-"9136PV",2,"C",""
-"9136PV",2,"D",""
-"9136PV",2,"E",""
-"9136PV",2,"",""
-"9136PV",2,"",""
-"9136PW",2,"",""
-"9136PW",8,"",""
-"9136PW",6,"",""
-"9136PX",3,"",""
-"9136PX",18,"",""
-"9136PX",6,"",""
-"9136PX",2,"",""
-"9136PX",4,"",""
-"9136PX",16,"",""
-"9136PX",14,"",""
-"9136PX",22,"",""
-"9136PX",20,"",""
-"9136PX",10,"",""
-"9136PX",1,"",""
-"9136PX",12,"",""
-"9136PX",8,"",""
-"9136PZ",2,"",""
-"9136PZ",5,"",""
-"9136PZ",1,"",""
-"9136RA",2,"",""
-"9136RB",5,"",""
-"9136RB",1,"",""
-"9136RB",23,"",""
-"9136RB",21,"",""
-"9136RB",13,"",""
-"9136RB",3,"",""
-"9136RB",19,"",""
-"9136RB",11,"",""
-"9136RB",9,"",""
-"9136RB",17,"",""
-"9136RB",33,"",""
-"9136RB",7,"",""
-"9136RC",8,"",""
-"9136RC",10,"",""
-"9136RC",6,"",""
-"9136RC",2,"",""
-"9136RC",4,"",""
-"9136RC",10,"",""
-"9136RC",14,"",""
-"9136RD",20,"",""
-"9136RD",26,"",""
-"9136RD",16,"",""
-"9136RD",24,"",""
-"9136RD",18,"",""
-"9136RD",22,"",""
-"9136RD",28,"",""
-"9136RE",6,"",""
-"9136RE",4,"",""
-"9136RE",2,"",""
-"9136RG",2,"",""
-9136PZ,Jisterwei,1,,
-9136PZ,Jisterwei,2,,
-9136PR,Kokentún,5,,
-9136PR,Kokentún,7,,
-9136PR,Kokentún,9,,
-9136PR,Kokentún,11,,
-9136PR,Kokentún,1,,
-9136PR,Kokentún,13,,
-9136PS,Kokentún,2,,
-9136PS,Kokentún,4,,
-9136PS,Kokentún,6,,
-9136PS,Kokentún,10,,
-9136PS,Kokentún,12,,
-9136PS,Kokentún,14,,
-9136PS,Kokentún,16,,
-9136PS,Kokentún,18,,
-9136PS,Kokentún,22,,
-9136PS,Kokentún,24,,
-9136PS,Kokentún,26,,
-9136PX,Achterwei,14,,
-9136PX,Achterwei,16,,
-9136PX,Achterwei,18,,
-9136PX,Achterwei,20,,
-9136PX,Achterwei,1,,
-9136PX,Achterwei,2,,
-9136PX,Achterwei,3,,
-9136PX,Achterwei,4,,
-9136PX,Achterwei,10,,
-9136PX,Achterwei,22,,
-9136RA,Bakkerssteechje,2,,
-9136PT,De Buorren,1,,
-9136PT,De Buorren,3,,
-9136PT,De Buorren,5,,
-9136PT,De Buorren,19,,
-9136PT,De Buorren,21,,
-9136PT,De Buorren,23,,
-9136PT,De Buorren,25,,
-9136PT,De Buorren,9,,
-9136PT,De Buorren,13,,
-9136PT,De Buorren,15,,
-9136PT,De Buorren,17,,
-9136PT,De Buorren,27,,
-9136PV,De Buorren,2,,
-9136PV,De Buorren,4,,
-9136PV,De Buorren,6,,
-9136PV,De Buorren,32,,
-9136PV,De Buorren,18,,
-9136PV,De Buorren,20,,
-9136PV,De Buorren,26,,
-9136PV,De Buorren,8,,
-9136PV,De Buorren,10,,
-9136PV,De Buorren,12,,
-9136PV,De Buorren,14,,
-9136PV,De Buorren,16,,
-9136PV,De Buorren,22,,
-9136PV,De Buorren,30,,
-9136PN,De Donger,9,,
-9136PN,De Donger,11,,
-9136PN,De Donger,13,,
-9136PN,De Donger,17,,
-9136PN,De Donger,19,,
-9136PN,De Donger,21,,
-9136PN,De Donger,21,A,
-9136PN,De Donger,25,,
-9136PN,De Donger,27,,
-9136PN,De Donger,1,,
-9136PN,De Donger,1,A,
-9136PN,De Donger,3,,
-9136PN,De Donger,5,,
-9136PN,De Donger,7,,
-9136PP,De Donger,2,,
-9136PP,De Donger,4,,
-9136PP,De Donger,6,,
-9136PP,De Donger,8,,
-9136PW,De Wiel,2,,
-9136PW,De Wiel,6,,
-9136PW,De Wiel,8,,
-9136RE,Dykspaad,2,,
-9136RE,Dykspaad,4,,
-9136RE,Dykspaad,6,,
-9136RB,Eastein,21,,
-9136RB,Eastein,23,,
-9136RB,Eastein,33,,
-9136RB,Eastein,3,,
-9136RB,Eastein,5,,
-9136RB,Eastein,7,,
-9136RB,Eastein,9,,
-9136RB,Eastein,13,,
-9136RB,Eastein,17,,
-9136RB,Eastein,19,,
-9136RC,Eastein,2,,
-9136RC,Eastein,4,,
-9136RC,Eastein,8,,
-9136RC,Eastein,10,,
-9136RC,Eastein,14,,
-9136RD,Eastein,22,,
-9136RD,Eastein,24,,
-9136RD,Eastein,28,,
-9136RD,Eastein,16,,
-9136RG,Smidspaad,2,,
-9136PZ,Jisterwei,5,,
-9136PR,Kokentún,3,,
-9136PS,Kokentún,8,,
-9136PS,Kokentún,20,,
-9136PX,Achterwei,6,,
-9136PX,Achterwei,8,,
-9136PX,Achterwei,12,,
-9136PT,De Buorren,11,,
-9136PV,De Buorren,24,,
-9136PV,De Buorren,2,,
-9136PV,De Buorren,2,B,
-9136PV,De Buorren,2,C,
-9136PV,De Buorren,2,D,
-9136PV,De Buorren,2,E,
-9136PV,De Buorren,2,A,
-9136PN,De Donger,15,,
-9136PN,De Donger,23,,
-9136RB,Eastein,1,,
-9136RB,Eastein,11,,
-9136RC,Eastein,6,,
-9136RD,Eastein,20,,
-9136RD,Eastein,26,,
-9136RD,Eastein,18,,
-9136PS,Kokentún,26,,
-9136PT,De Buorren,13,,
-9136PV,De Buorren,28,,
-9136PV,De Buorren,32,,
-9136PV,De Buorren,32,A,
-9136PV,De Buorren,32,B,
-9136RC,Eastein,10,,
-9136RC,Eastein,12,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Donger,1,"","",9136PN,Paesens
+De Donger,1,A,"",9136PN,Paesens
+De Donger,11,"","",9136PN,Paesens
+De Donger,13,"","",9136PN,Paesens
+De Donger,15,"","",9136PN,Paesens
+De Donger,17,"","",9136PN,Paesens
+De Donger,19,"","",9136PN,Paesens
+De Donger,21,"","",9136PN,Paesens
+De Donger,21,A,"",9136PN,Paesens
+De Donger,21,A,"",9136PN,Paesens
+De Donger,23,"","",9136PN,Paesens
+De Donger,25,"","",9136PN,Paesens
+De Donger,27,"","",9136PN,Paesens
+De Donger,3,"","",9136PN,Paesens
+De Donger,5,"","",9136PN,Paesens
+De Donger,7,"","",9136PN,Paesens
+De Donger,9,"","",9136PN,Paesens
+De Donger,2,"","",9136PP,Paesens
+De Donger,4,"","",9136PP,Paesens
+De Donger,6,"","",9136PP,Paesens
+De Donger,8,"","",9136PP,Paesens
+Kokentún,1,"","",9136PR,Paesens
+Kokentún,11,"","",9136PR,Paesens
+Kokentún,13,"","",9136PR,Paesens
+Kokentún,3,"","",9136PR,Paesens
+Kokentún,5,"","",9136PR,Paesens
+Kokentún,7,"","",9136PR,Paesens
+Kokentún,9,"","",9136PR,Paesens
+Kokentún,10,"","",9136PS,Paesens
+Kokentún,12,"","",9136PS,Paesens
+Kokentún,14,"","",9136PS,Paesens
+Kokentún,16,"","",9136PS,Paesens
+Kokentún,18,"","",9136PS,Paesens
+Kokentún,2,"","",9136PS,Paesens
+Kokentún,20,"","",9136PS,Paesens
+Kokentún,22,"","",9136PS,Paesens
+Kokentún,24,"","",9136PS,Paesens
+Kokentún,26,"","",9136PS,Paesens
+Kokentún,26,"","",9136PS,Paesens
+Kokentún,4,"","",9136PS,Paesens
+Kokentún,6,"","",9136PS,Paesens
+Kokentún,8,"","",9136PS,Paesens
+De Buorren,1,"","",9136PT,Paesens
+De Buorren,11,"","",9136PT,Paesens
+De Buorren,13,"","",9136PT,Paesens
+De Buorren,13,"","",9136PT,Paesens
+De Buorren,15,"","",9136PT,Paesens
+De Buorren,17,"","",9136PT,Paesens
+De Buorren,19,"","",9136PT,Paesens
+De Buorren,21,"","",9136PT,Paesens
+De Buorren,23,"","",9136PT,Paesens
+De Buorren,25,"","",9136PT,Paesens
+De Buorren,27,"","",9136PT,Paesens
+De Buorren,3,"","",9136PT,Paesens
+De Buorren,5,"","",9136PT,Paesens
+De Buorren,9,"","",9136PT,Paesens
+De Buorren,10,"","",9136PV,Paesens
+De Buorren,12,"","",9136PV,Paesens
+De Buorren,14,"","",9136PV,Paesens
+De Buorren,16,"","",9136PV,Paesens
+De Buorren,18,"","",9136PV,Paesens
+De Buorren,2,"","",9136PV,Paesens
+De Buorren,2,"","",9136PV,Paesens
+De Buorren,2,"","",9136PV,Paesens
+De Buorren,2,A,"",9136PV,Paesens
+De Buorren,2,B,"",9136PV,Paesens
+De Buorren,2,C,"",9136PV,Paesens
+De Buorren,2,D,"",9136PV,Paesens
+De Buorren,2,E,"",9136PV,Paesens
+De Buorren,20,"","",9136PV,Paesens
+De Buorren,22,"","",9136PV,Paesens
+De Buorren,24,"","",9136PV,Paesens
+De Buorren,26,"","",9136PV,Paesens
+De Buorren,30,"","",9136PV,Paesens
+De Buorren,32,"","",9136PV,Paesens
+De Buorren,4,"","",9136PV,Paesens
+De Buorren,6,"","",9136PV,Paesens
+De Buorren,8,"","",9136PV,Paesens
+De Wiel,2,"","",9136PW,Paesens
+De Wiel,6,"","",9136PW,Paesens
+De Wiel,8,"","",9136PW,Paesens
+Achterwei,1,"","",9136PX,Paesens
+Achterwei,10,"","",9136PX,Paesens
+Achterwei,12,"","",9136PX,Paesens
+Achterwei,14,"","",9136PX,Paesens
+Achterwei,16,"","",9136PX,Paesens
+Achterwei,18,"","",9136PX,Paesens
+Achterwei,2,"","",9136PX,Paesens
+Achterwei,20,"","",9136PX,Paesens
+Achterwei,22,"","",9136PX,Paesens
+Achterwei,3,"","",9136PX,Paesens
+Achterwei,4,"","",9136PX,Paesens
+Achterwei,6,"","",9136PX,Paesens
+Achterwei,8,"","",9136PX,Paesens
+Jisterwei,1,"","",9136PZ,Paesens
+Jisterwei,2,"","",9136PZ,Paesens
+Jisterwei,5,"","",9136PZ,Paesens
+Bakkerssteechje,2,"","",9136RA,Paesens
+Eastein,1,"","",9136RB,Paesens
+Eastein,11,"","",9136RB,Paesens
+Eastein,13,"","",9136RB,Paesens
+Eastein,17,"","",9136RB,Paesens
+Eastein,19,"","",9136RB,Paesens
+Eastein,21,"","",9136RB,Paesens
+Eastein,23,"","",9136RB,Paesens
+Eastein,3,"","",9136RB,Paesens
+Eastein,33,"","",9136RB,Paesens
+Eastein,5,"","",9136RB,Paesens
+Eastein,7,"","",9136RB,Paesens
+Eastein,9,"","",9136RB,Paesens
+Eastein,10,"","",9136RC,Paesens
+Eastein,10,"","",9136RC,Paesens
+Eastein,14,"","",9136RC,Paesens
+Eastein,2,"","",9136RC,Paesens
+Eastein,4,"","",9136RC,Paesens
+Eastein,6,"","",9136RC,Paesens
+Eastein,8,"","",9136RC,Paesens
+Eastein,16,"","",9136RD,Paesens
+Eastein,18,"","",9136RD,Paesens
+Eastein,20,"","",9136RD,Paesens
+Eastein,22,"","",9136RD,Paesens
+Eastein,24,"","",9136RD,Paesens
+Eastein,26,"","",9136RD,Paesens
+Eastein,28,"","",9136RD,Paesens
+Dykspaad,2,"","",9136RE,Paesens
+Dykspaad,4,"","",9136RE,Paesens
+Dykspaad,6,"","",9136RE,Paesens
+Smidspaad,2,"","",9136RG,Paesens

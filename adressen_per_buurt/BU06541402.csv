@@ -1,92 +1,92 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4444SN,Baarsdorp,1,,
-4444SN,Baarsdorp,2,,
-4444SN,Baarsdorp,3,,
-4444SN,Baarsdorp,3,A,
-4444SN,Baarsdorp,3,B,
-4444SN,Baarsdorp,4,,
-4444SN,Baarsdorp,5,,
-4444SN,Baarsdorp,6,,
-4444RW,Baarsdorpseweg,1,,
-4444NC,Bergweg,1,,
-4444NC,Bergweg,2,,
-4444NC,Bergweg,4,,
-4444SB,Bimmelsweg,1,,
-4444SB,Bimmelsweg,3,,
-4444RP,Bosseweg,1,,
-4444RP,Bosseweg,2,,
-4444RP,Bosseweg,4,,
-4444RV,Deeweg,1,,
-4444RV,Deeweg,1,B,
-4444RV,Deeweg,2,,
-4444RV,Deeweg,2,A,
-4444RV,Deeweg,4,,
-4444RR,Gerbernesseweg,25,,
-4444RR,Gerbernesseweg,28,,
-4444RR,Gerbernesseweg,30,,
-4444RR,Gerbernesseweg,32,,
-4444RR,Gerbernesseweg,34,,
-4444RR,Gerbernesseweg,36,,
-4444RR,Gerbernesseweg,38,,
-4444RZ,Grotedijk,1,,
-4444RZ,Grotedijk,2,,
-4444RN,Kloetingseweg,15,,
-4444SL,Noordhoekweg,1,,
-4444SL,Noordhoekweg,1,A,
-4444SL,Noordhoekweg,2,,
-4444SL,Noordhoekweg,3,,
-4444RX,Noordweg,1,,
-4444RX,Noordweg,2,,
-4444RX,Noordweg,3,,
-4444RX,Noordweg,5,,
-4444SR,Oude Hoeveweg,2,,
-4444SR,Oude Hoeveweg,4,,
-4444SR,Oude Hoeveweg,8,,
-4444NA,Polderweg,27,,
-4444NA,Polderweg,27,A,
-4444NA,Polderweg,29,,
-4444NB,Polderweg,22,,
-4444NB,Polderweg,24,,
-4444NB,Polderweg,26,,
-4444NB,Polderweg,28,,
-4444NB,Polderweg,30,,
-4444NB,Polderweg,32,,
-4444RT,Sinoutskerke,1,,
-4444RT,Sinoutskerke,2,,
-4444RT,Sinoutskerke,4,,
-4444RT,Sinoutskerke,6,,
-4444RT,Sinoutskerke,8,,
-4444RT,Sinoutskerke,8,A,
-4444RT,Sinoutskerke,10,,
-4444RS,Sinoutskerksezandweg,1,,
-4444RS,Sinoutskerksezandweg,2,,
-4444RS,Sinoutskerksezandweg,3,,
-4444RS,Sinoutskerksezandweg,4,,
-4444RS,Sinoutskerksezandweg,5,,
-4444RP,Bosseweg,2,,
-4444RX,Noordweg,3,Z,
-4444RX,Noordweg,3,,
-4444RZ,Noordweg,3,Z,
-4444SR,Oude Hoeveweg,8,,
-4444SR,Oude Hoeveweg,8,A,
-4444NB,Polderweg,32,A,
-4444NB,Polderweg,32,Z,
-4444NB,Polderweg,32,,
-4444NB,Polderweg,30,Z,
-4444NE,Ruilverkavelingsweg,3,,
-4444RS,Sinoutskerksezandweg,1,A,
-4444RS,Sinoutskerksezandweg,4,Z,
-4444RS,Sinoutskerksezandweg,4,,
-4444RS,Sinoutskerksezandweg,4,A,
-4444SM,Westhofsezandweg,1,,
-4444SM,Westhofsezandweg,2,,
-4444SM,Westhofsezandweg,3,,
-4444SM,Westhofsezandweg,5,,
-4444SM,Westhofsezandweg,7,,
-4444SM,Westhofsezandweg,7,Z,
-4444SM,Westhofsezandweg,7,,
-4444ND,Zuidweg,22,,
-4444ND,Zuidweg,24,,
-4444ND,Zuidweg,26,,
-4444ND,Zuidweg,28,,
-4444ND,Zuidweg,30,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Polderweg,27,"","",4444NA,'s-Heer Abtskerke
+Polderweg,27,A,"",4444NA,'s-Heer Abtskerke
+Polderweg,29,"","",4444NA,'s-Heer Abtskerke
+Polderweg,22,"","",4444NB,'s-Heer Abtskerke
+Polderweg,24,"","",4444NB,'s-Heer Abtskerke
+Polderweg,26,"","",4444NB,'s-Heer Abtskerke
+Polderweg,28,"","",4444NB,'s-Heer Abtskerke
+Polderweg,30,"","",4444NB,'s-Heer Abtskerke
+Polderweg,30,Z,"",4444NB,'s-Heer Abtskerke
+Polderweg,32,"","",4444NB,'s-Heer Abtskerke
+Polderweg,32,"","",4444NB,'s-Heer Abtskerke
+Polderweg,32,A,"",4444NB,'s-Heer Abtskerke
+Polderweg,32,Z,"",4444NB,'s-Heer Abtskerke
+Bergweg,1,"","",4444NC,'s-Heer Abtskerke
+Bergweg,2,"","",4444NC,'s-Heer Abtskerke
+Bergweg,4,"","",4444NC,'s-Heer Abtskerke
+Zuidweg,22,"","",4444ND,'s-Heer Abtskerke
+Zuidweg,24,"","",4444ND,'s-Heer Abtskerke
+Zuidweg,26,"","",4444ND,'s-Heer Abtskerke
+Zuidweg,28,"","",4444ND,'s-Heer Abtskerke
+Zuidweg,30,"","",4444ND,'s-Heer Abtskerke
+Ruilverkavelingsweg,3,"","",4444NE,'s-Heer Abtskerke
+Kloetingseweg,15,"","",4444RN,'s-Heer Abtskerke
+Bosseweg,1,"","",4444RP,'s-Heer Abtskerke
+Bosseweg,2,"","",4444RP,'s-Heer Abtskerke
+Bosseweg,2,"","",4444RP,'s-Heer Abtskerke
+Bosseweg,4,"","",4444RP,'s-Heer Abtskerke
+Gerbernesseweg,25,"","",4444RR,'s-Heer Abtskerke
+Gerbernesseweg,28,"","",4444RR,'s-Heer Abtskerke
+Gerbernesseweg,30,"","",4444RR,'s-Heer Abtskerke
+Gerbernesseweg,32,"","",4444RR,'s-Heer Abtskerke
+Gerbernesseweg,34,"","",4444RR,'s-Heer Abtskerke
+Gerbernesseweg,36,"","",4444RR,'s-Heer Abtskerke
+Gerbernesseweg,38,"","",4444RR,'s-Heer Abtskerke
+Sinoutskerksezandweg,1,"","",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,1,A,"",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,2,"","",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,3,"","",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,4,"","",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,4,"","",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,4,A,"",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,4,Z,"",4444RS,'s-Heer Abtskerke
+Sinoutskerksezandweg,5,"","",4444RS,'s-Heer Abtskerke
+Sinoutskerke,1,"","",4444RT,'s-Heer Abtskerke
+Sinoutskerke,10,"","",4444RT,'s-Heer Abtskerke
+Sinoutskerke,2,"","",4444RT,'s-Heer Abtskerke
+Sinoutskerke,4,"","",4444RT,'s-Heer Abtskerke
+Sinoutskerke,6,"","",4444RT,'s-Heer Abtskerke
+Sinoutskerke,8,"","",4444RT,'s-Heer Abtskerke
+Sinoutskerke,8,A,"",4444RT,'s-Heer Abtskerke
+Deeweg,1,"","",4444RV,'s-Heer Abtskerke
+Deeweg,1,B,"",4444RV,'s-Heer Abtskerke
+Deeweg,2,"","",4444RV,'s-Heer Abtskerke
+Deeweg,2,A,"",4444RV,'s-Heer Abtskerke
+Deeweg,4,"","",4444RV,'s-Heer Abtskerke
+Baarsdorpseweg,1,"","",4444RW,'s-Heer Abtskerke
+Noordweg,1,"","",4444RX,'s-Heer Abtskerke
+Noordweg,2,"","",4444RX,'s-Heer Abtskerke
+Noordweg,3,"","",4444RX,'s-Heer Abtskerke
+Noordweg,3,"","",4444RX,'s-Heer Abtskerke
+Noordweg,3,Z,"",4444RX,'s-Heer Abtskerke
+Noordweg,5,"","",4444RX,'s-Heer Abtskerke
+Grotedijk,1,"","",4444RZ,'s-Heer Abtskerke
+Grotedijk,2,"","",4444RZ,'s-Heer Abtskerke
+Noordweg,3,Z,"",4444RZ,'s-Heer Abtskerke
+Bimmelsweg,1,"","",4444SB,'s-Heer Abtskerke
+Bimmelsweg,3,"","",4444SB,'s-Heer Abtskerke
+Noordhoekweg,1,"","",4444SL,'s-Heer Abtskerke
+Noordhoekweg,1,A,"",4444SL,'s-Heer Abtskerke
+Noordhoekweg,2,"","",4444SL,'s-Heer Abtskerke
+Noordhoekweg,3,"","",4444SL,'s-Heer Abtskerke
+Westhofsezandweg,1,"","",4444SM,'s-Heer Abtskerke
+Westhofsezandweg,2,"","",4444SM,'s-Heer Abtskerke
+Westhofsezandweg,3,"","",4444SM,'s-Heer Abtskerke
+Westhofsezandweg,5,"","",4444SM,'s-Heer Abtskerke
+Westhofsezandweg,7,"","",4444SM,'s-Heer Abtskerke
+Westhofsezandweg,7,"","",4444SM,'s-Heer Abtskerke
+Westhofsezandweg,7,Z,"",4444SM,'s-Heer Abtskerke
+Baarsdorp,1,"","",4444SN,'s-Heer Abtskerke
+Baarsdorp,2,"","",4444SN,'s-Heer Abtskerke
+Baarsdorp,3,"","",4444SN,'s-Heer Abtskerke
+Baarsdorp,3,A,"",4444SN,'s-Heer Abtskerke
+Baarsdorp,3,B,"",4444SN,'s-Heer Abtskerke
+Baarsdorp,4,"","",4444SN,'s-Heer Abtskerke
+Baarsdorp,5,"","",4444SN,'s-Heer Abtskerke
+Baarsdorp,6,"","",4444SN,'s-Heer Abtskerke
+Oude Hoeveweg,2,"","",4444SR,'s-Heer Abtskerke
+Oude Hoeveweg,4,"","",4444SR,'s-Heer Abtskerke
+Oude Hoeveweg,8,"","",4444SR,'s-Heer Abtskerke
+Oude Hoeveweg,8,"","",4444SR,'s-Heer Abtskerke
+Oude Hoeveweg,8,A,"",4444SR,'s-Heer Abtskerke

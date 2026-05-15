@@ -1,67 +1,68 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9751ZZ",45,"","4"
-"9751ZZ",45,"","3"
-"9753HS",54,"",""
-"9753HS",22,"",""
-"9753HS",32,"",""
-"9753HS",28,"",""
-"9753HS",56,"",""
-"9753HS",30,"",""
-"9753HS",24,"",""
-"9753HS",40,"",""
-"9753HS",36,"",""
-"9753HS",34,"",""
-"9753HS",48,"",""
-"9753HS",74,"",""
-"9753HS",26,"",""
-"9753HS",38,"",""
-"9753HS",70,"",""
-"9753HS",44,"",""
-"9753HS",82,"",""
-"9753HS",50,"",""
-"9753HS",52,"",""
-"9753HS",46,"",""
-"9753HS",72,"",""
-"9753HS",42,"",""
-"9753HS",64,"",""
-"9753HS",68,"",""
-"9753HS",58,"",""
-"9753HS",80,"A",""
-"9753HS",80,"a",""
-"9753HS",76,"",""
-"9753HS",60,"",""
-"9753HS",66,"",""
-"9753HS",80,"",""
-9751ZZ,Rouaanstraat,45,,3
-9751ZZ,Rouaanstraat,45,,4
-9753HS,Waterhuizerweg,22,,
-9753HS,Waterhuizerweg,24,,
-9753HS,Waterhuizerweg,26,,
-9753HS,Waterhuizerweg,28,,
-9753HS,Waterhuizerweg,30,,
-9753HS,Waterhuizerweg,32,,
-9753HS,Waterhuizerweg,34,,
-9753HS,Waterhuizerweg,36,,
-9753HS,Waterhuizerweg,38,,
-9753HS,Waterhuizerweg,40,,
-9753HS,Waterhuizerweg,42,,
-9753HS,Waterhuizerweg,44,,
-9753HS,Waterhuizerweg,46,,
-9753HS,Waterhuizerweg,48,,
-9753HS,Waterhuizerweg,50,,
-9753HS,Waterhuizerweg,52,,
-9753HS,Waterhuizerweg,54,,
-9753HS,Waterhuizerweg,56,,
-9753HS,Waterhuizerweg,58,,
-9753HS,Waterhuizerweg,60,,
-9753HS,Waterhuizerweg,64,,
-9753HS,Waterhuizerweg,66,,
-9753HS,Waterhuizerweg,68,,
-9753HS,Waterhuizerweg,70,,
-9753HS,Waterhuizerweg,72,,
-9753HS,Waterhuizerweg,74,,
-9753HS,Waterhuizerweg,76,,
-9753HS,Waterhuizerweg,80,,
-9753HS,Waterhuizerweg,82,,
-9753HS,Waterhuizerweg,80,A,
-9753HS,Waterhuizerweg,80,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+45,"",3,"",9751ZZ,
+45,"",4,"",9751ZZ,
+Rouaanstraat,45,"",3,9751ZZ,Groningen
+Rouaanstraat,45,"",4,9751ZZ,Groningen
+54,"","","",9753HS,
+22,"","","",9753HS,
+32,"","","",9753HS,
+28,"","","",9753HS,
+56,"","","",9753HS,
+30,"","","",9753HS,
+24,"","","",9753HS,
+40,"","","",9753HS,
+36,"","","",9753HS,
+34,"","","",9753HS,
+48,"","","",9753HS,
+74,"","","",9753HS,
+26,"","","",9753HS,
+38,"","","",9753HS,
+70,"","","",9753HS,
+44,"","","",9753HS,
+82,"","","",9753HS,
+50,"","","",9753HS,
+52,"","","",9753HS,
+46,"","","",9753HS,
+72,"","","",9753HS,
+42,"","","",9753HS,
+64,"","","",9753HS,
+68,"","","",9753HS,
+58,"","","",9753HS,
+76,"","","",9753HS,
+60,"","","",9753HS,
+66,"","","",9753HS,
+80,"","","",9753HS,
+Waterhuizerweg,22,"","",9753HS,Haren Gn
+Waterhuizerweg,24,"","",9753HS,Haren Gn
+Waterhuizerweg,26,"","",9753HS,Haren Gn
+Waterhuizerweg,28,"","",9753HS,Haren Gn
+Waterhuizerweg,30,"","",9753HS,Haren Gn
+Waterhuizerweg,32,"","",9753HS,Haren Gn
+Waterhuizerweg,34,"","",9753HS,Haren Gn
+Waterhuizerweg,36,"","",9753HS,Haren Gn
+Waterhuizerweg,38,"","",9753HS,Haren Gn
+Waterhuizerweg,40,"","",9753HS,Haren Gn
+Waterhuizerweg,42,"","",9753HS,Haren Gn
+Waterhuizerweg,44,"","",9753HS,Haren Gn
+Waterhuizerweg,46,"","",9753HS,Haren Gn
+Waterhuizerweg,48,"","",9753HS,Haren Gn
+Waterhuizerweg,50,"","",9753HS,Haren Gn
+Waterhuizerweg,52,"","",9753HS,Haren Gn
+Waterhuizerweg,54,"","",9753HS,Haren Gn
+Waterhuizerweg,56,"","",9753HS,Haren Gn
+Waterhuizerweg,58,"","",9753HS,Haren Gn
+Waterhuizerweg,60,"","",9753HS,Haren Gn
+Waterhuizerweg,64,"","",9753HS,Haren Gn
+Waterhuizerweg,66,"","",9753HS,Haren Gn
+Waterhuizerweg,68,"","",9753HS,Haren Gn
+Waterhuizerweg,70,"","",9753HS,Haren Gn
+Waterhuizerweg,72,"","",9753HS,Haren Gn
+Waterhuizerweg,74,"","",9753HS,Haren Gn
+Waterhuizerweg,76,"","",9753HS,Haren Gn
+Waterhuizerweg,80,"","",9753HS,Haren Gn
+Waterhuizerweg,80,A,"",9753HS,Haren Gn
+Waterhuizerweg,80,A,"",9753HS,Haren Gn
+Waterhuizerweg,82,"","",9753HS,Haren Gn
+80,A,"","",9753HS,
+80,A,"","",9753HS,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

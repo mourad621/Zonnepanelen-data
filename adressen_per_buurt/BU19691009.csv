@@ -1,144 +1,145 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9811PC",9,"a",""
-"9811PC",14,"",""
-"9811PC",11,"",""
-"9811PC",16,"",""
-"9811PC",9,"",""
-"9811PC",10,"",""
-"9811PC",13,"",""
-"9811PC",15,"",""
-"9811PE",2,"",""
-"9811PE",4,"",""
-"9811PE",6,"",""
-"9811PE",12,"",""
-"9811PE",10,"",""
-"9811PE",4,"",""
-"9811PE",24,"",""
-"9811PE",8,"",""
-"9811PE",4,"",""
-"9811PH",24,"",""
-"9811PH",28,"",""
-"9811PH",16,"b",""
-"9811PH",4,"",""
-"9811PH",16,"b",""
-"9811PH",10,"e",""
-"9811PH",14,"",""
-"9811PH",3,"",""
-"9811PH",8,"",""
-"9811PH",16,"",""
-"9811PH",16,"a",""
-"9811PH",6,"",""
-"9811PH",2,"",""
-"9811PH",1,"",""
-"9811PH",10,"",""
-"9811PH",20,"",""
-"9811PH",22,"",""
-"9811PH",12,"",""
-"9811PH",16,"b",""
-"9811PH",18,"",""
-"9811PH",26,"",""
-"9811TA",34,"",""
-"9811TA",41,"",""
-"9811TA",47,"",""
-"9811TA",36,"",""
-"9811TA",45,"",""
-"9811TB",20,"",""
-"9811TB",16,"e",""
-"9811TB",15,"","II"
-"9811TB",15,"",""
-"9811TB",18,"",""
-"9811TB",14,"",""
-"9811TB",12,"",""
-"9811TB",11,"",""
-"9811TB",15,"","I"
-"9811TB",16,"",""
-"9811TB",13,"",""
-"9811TC",1,"",""
-"9811TC",2,"",""
-"9811TD",53,"",""
-"9811TD",45,"",""
-"9811TD",29,"",""
-"9811TD",41,"",""
-"9811TD",33,"",""
-"9811TD",31,"",""
-"9811TD",35,"",""
-"9811TD",49,"",""
-"9811TD",51,"a",""
-"9811TD",37,"",""
-"9811TD",47,"",""
-"9811TD",43,"",""
-"9811TD",59,"",""
-"9811TD",51,"",""
-"9811TD",39,"",""
-"9811TD",55,"",""
-9811PH,De Klap,1,,
-9811PH,De Klap,2,,
-9811PH,De Klap,3,,
-9811PH,De Klap,4,,
-9811PH,De Klap,6,,
-9811PH,De Klap,8,,
-9811PH,De Klap,10,e,
-9811PH,De Klap,10,,
-9811PH,De Klap,12,,
-9811PH,De Klap,14,,
-9811PH,De Klap,16,,
-9811PH,De Klap,18,,
-9811PH,De Klap,20,,
-9811PH,De Klap,22,,
-9811PH,De Klap,24,,
-9811PH,De Klap,26,,
-9811PH,De Klap,28,,
-9811TC,Dijkstreek,1,,
-9811TC,Dijkstreek,2,,
-9811TA,Dorpsstraat,34,,
-9811TA,Dorpsstraat,36,,
-9811TA,Dorpsstraat,41,,
-9811TA,Dorpsstraat,45,,
-9811TA,Dorpsstraat,47,,
-9811PE,Hoendiep,2,,
-9811PE,Hoendiep,4,,
-9811PE,Hoendiep,6,,
-9811PE,Hoendiep,8,,
-9811PE,Hoendiep,10,,
-9811PE,Hoendiep,12,,
-9811TD,Hoendiep,51,a,
-9811TD,Hoendiep,29,,
-9811TD,Hoendiep,31,,
-9811TD,Hoendiep,33,,
-9811TD,Hoendiep,35,,
-9811TD,Hoendiep,37,,
-9811TD,Hoendiep,39,,
-9811TD,Hoendiep,41,,
-9811TD,Hoendiep,43,,
-9811TD,Hoendiep,45,,
-9811TD,Hoendiep,47,,
-9811TD,Hoendiep,49,,
-9811TD,Hoendiep,51,,
-9811TD,Hoendiep,53,,
-9811TD,Hoendiep,55,,
-9811TD,Hoendiep,59,,
-9811PE,Hoendiep ZZ,24,,
-9811PC,Lettelberterdijk,9,a,
-9811PC,Lettelberterdijk,9,,
-9811PC,Lettelberterdijk,10,,
-9811PC,Lettelberterdijk,11,,
-9811PC,Lettelberterdijk,13,,
-9811PC,Lettelberterdijk,14,,
-9811PC,Lettelberterdijk,15,,
-9811PC,Lettelberterdijk,16,,
-9811TB,Westerdijk,15,,I
-9811TB,Westerdijk,15,,II
-9811TB,Westerdijk,16,e,
-9811TB,Westerdijk,11,,
-9811TB,Westerdijk,12,,
-9811TB,Westerdijk,13,,
-9811TB,Westerdijk,14,,
-9811TB,Westerdijk,15,,
-9811TB,Westerdijk,16,,
-9811TB,Westerdijk,18,,
-9811TB,Westerdijk,20,,
-9811PH,De Klap,16,a,
-9811PH,De Klap,16,b,
-9811PH,De Klap,16,b,
-9811PE,Hoendiep,4,,
-9811TD,Hoendiep,51,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+14,"","","",9811PC,
+11,"","","",9811PC,
+16,"","","",9811PC,
+9,"","","",9811PC,
+10,"","","",9811PC,
+13,"","","",9811PC,
+15,"","","",9811PC,
+Lettelberterdijk,10,"","",9811PC,Enumatil
+Lettelberterdijk,11,"","",9811PC,Enumatil
+Lettelberterdijk,13,"","",9811PC,Enumatil
+Lettelberterdijk,14,"","",9811PC,Enumatil
+Lettelberterdijk,15,"","",9811PC,Enumatil
+Lettelberterdijk,16,"","",9811PC,Enumatil
+Lettelberterdijk,9,"","",9811PC,Enumatil
+Lettelberterdijk,9,A,"",9811PC,Enumatil
+9,A,"","",9811PC,
+2,"","","",9811PE,
+4,"","","",9811PE,
+6,"","","",9811PE,
+12,"","","",9811PE,
+10,"","","",9811PE,
+4,"","","",9811PE,
+24,"","","",9811PE,
+8,"","","",9811PE,
+4,"","","",9811PE,
+Hoendiep,10,"","",9811PE,Enumatil
+Hoendiep,12,"","",9811PE,Enumatil
+Hoendiep,2,"","",9811PE,Enumatil
+Hoendiep ZZ,24,"","",9811PE,Enumatil
+Hoendiep,4,"","",9811PE,Enumatil
+Hoendiep,4,"","",9811PE,Enumatil
+Hoendiep,6,"","",9811PE,Enumatil
+Hoendiep,8,"","",9811PE,Enumatil
+24,"","","",9811PH,
+28,"","","",9811PH,
+4,"","","",9811PH,
+14,"","","",9811PH,
+3,"","","",9811PH,
+8,"","","",9811PH,
+16,"","","",9811PH,
+6,"","","",9811PH,
+2,"","","",9811PH,
+1,"","","",9811PH,
+10,"","","",9811PH,
+20,"","","",9811PH,
+22,"","","",9811PH,
+12,"","","",9811PH,
+18,"","","",9811PH,
+26,"","","",9811PH,
+De Klap,1,"","",9811PH,Enumatil
+De Klap,10,"","",9811PH,Enumatil
+De Klap,10,E,"",9811PH,Enumatil
+De Klap,12,"","",9811PH,Enumatil
+De Klap,14,"","",9811PH,Enumatil
+De Klap,16,"","",9811PH,Enumatil
+De Klap,16,A,"",9811PH,Enumatil
+De Klap,16,B,"",9811PH,Enumatil
+De Klap,16,B,"",9811PH,Enumatil
+De Klap,18,"","",9811PH,Enumatil
+De Klap,2,"","",9811PH,Enumatil
+De Klap,20,"","",9811PH,Enumatil
+De Klap,22,"","",9811PH,Enumatil
+De Klap,24,"","",9811PH,Enumatil
+De Klap,26,"","",9811PH,Enumatil
+De Klap,28,"","",9811PH,Enumatil
+De Klap,3,"","",9811PH,Enumatil
+De Klap,4,"","",9811PH,Enumatil
+De Klap,6,"","",9811PH,Enumatil
+De Klap,8,"","",9811PH,Enumatil
+16,A,"","",9811PH,
+16,B,"","",9811PH,
+16,B,"","",9811PH,
+16,B,"","",9811PH,
+10,E,"","",9811PH,
+34,"","","",9811TA,
+41,"","","",9811TA,
+47,"","","",9811TA,
+36,"","","",9811TA,
+45,"","","",9811TA,
+Dorpsstraat,34,"","",9811TA,Enumatil
+Dorpsstraat,36,"","",9811TA,Enumatil
+Dorpsstraat,41,"","",9811TA,Enumatil
+Dorpsstraat,45,"","",9811TA,Enumatil
+Dorpsstraat,47,"","",9811TA,Enumatil
+20,"","","",9811TB,
+15,"","","",9811TB,
+18,"","","",9811TB,
+14,"","","",9811TB,
+12,"","","",9811TB,
+11,"","","",9811TB,
+16,"","","",9811TB,
+13,"","","",9811TB,
+15,"",I,"",9811TB,
+15,"",II,"",9811TB,
+Westerdijk,11,"","",9811TB,Enumatil
+Westerdijk,12,"","",9811TB,Enumatil
+Westerdijk,13,"","",9811TB,Enumatil
+Westerdijk,14,"","",9811TB,Enumatil
+Westerdijk,15,"","",9811TB,Enumatil
+Westerdijk,15,"",I,9811TB,Enumatil
+Westerdijk,15,"",II,9811TB,Enumatil
+Westerdijk,16,"","",9811TB,Enumatil
+Westerdijk,16,E,"",9811TB,Enumatil
+Westerdijk,18,"","",9811TB,Enumatil
+Westerdijk,20,"","",9811TB,Enumatil
+16,E,"","",9811TB,
+1,"","","",9811TC,
+2,"","","",9811TC,
+Dijkstreek,1,"","",9811TC,Enumatil
+Dijkstreek,2,"","",9811TC,Enumatil
+53,"","","",9811TD,
+45,"","","",9811TD,
+29,"","","",9811TD,
+41,"","","",9811TD,
+33,"","","",9811TD,
+31,"","","",9811TD,
+35,"","","",9811TD,
+49,"","","",9811TD,
+37,"","","",9811TD,
+47,"","","",9811TD,
+43,"","","",9811TD,
+59,"","","",9811TD,
+51,"","","",9811TD,
+39,"","","",9811TD,
+55,"","","",9811TD,
+Hoendiep,29,"","",9811TD,Enumatil
+Hoendiep,31,"","",9811TD,Enumatil
+Hoendiep,33,"","",9811TD,Enumatil
+Hoendiep,35,"","",9811TD,Enumatil
+Hoendiep,37,"","",9811TD,Enumatil
+Hoendiep,39,"","",9811TD,Enumatil
+Hoendiep,41,"","",9811TD,Enumatil
+Hoendiep,43,"","",9811TD,Enumatil
+Hoendiep,45,"","",9811TD,Enumatil
+Hoendiep,47,"","",9811TD,Enumatil
+Hoendiep,49,"","",9811TD,Enumatil
+Hoendiep,51,"","",9811TD,Enumatil
+Hoendiep,51,A,"",9811TD,Enumatil
+Hoendiep,51,A,"",9811TD,Enumatil
+Hoendiep,53,"","",9811TD,Enumatil
+Hoendiep,55,"","",9811TD,Enumatil
+Hoendiep,59,"","",9811TD,Enumatil
+51,A,"","",9811TD,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

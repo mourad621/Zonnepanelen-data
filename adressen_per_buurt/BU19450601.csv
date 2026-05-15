@@ -1,80 +1,80 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6564CS,Biesseltsebaan,40,,
-6564CS,Biesseltsebaan,42,,
-6564CS,Biesseltsebaan,44,,
-6564CS,Biesseltsebaan,46,,
-6564CS,Biesseltsebaan,48,,
-6564AH,Carmelweg,1,,
-6564AH,Carmelweg,1,a,
-6564AH,Carmelweg,2,,
-6564AH,Carmelweg,3,,
-6564AH,Carmelweg,4,,
-6564AH,Carmelweg,5,,
-6564AH,Carmelweg,6,,
-6564AH,Carmelweg,7,,
-6564AH,Carmelweg,9,,
-6564AH,Carmelweg,11,,
-6564AH,Carmelweg,13,,
-6564AH,Carmelweg,15,,
-6564AH,Carmelweg,1,b,
-6564CP,Van Haaftenlaan,12,,
-6564AD,Koning Davidlaan,2,,
-6564AD,Koning Davidlaan,4,,
-6564AD,Koning Davidlaan,12,,
-6564AD,Koning Davidlaan,14,,
-6564AD,Koning Davidlaan,16,,
-6564AD,Koning Davidlaan,18,,
-6564AD,Koning Davidlaan,20,,
-6564AD,Koning Davidlaan,22,,
-6564AD,Koning Davidlaan,26,,
-6564AD,Koning Davidlaan,30,,
-6564AD,Koning Davidlaan,32,,
-6564AD,Koning Davidlaan,24,,
-6564BS,Meerwijkselaan,17,,
-6564BS,Meerwijkselaan,19,,
-6564BS,Meerwijkselaan,21,,
-6564BS,Meerwijkselaan,23,,
-6564BS,Meerwijkselaan,25,,
-6564BS,Meerwijkselaan,27,,
-6564BS,Meerwijkselaan,29,,
-6564BT,Meerwijkselaan,44,,
-6564BV,Mgr Suyslaan,4,,
-6564BV,Mgr Suyslaan,8,,
-6564CB,Nijmeegsebaan,45,,
-6564CB,Nijmeegsebaan,47,,
-6564CB,Nijmeegsebaan,49,,
-6564CB,Nijmeegsebaan,51,,
-6564BL,Profetenlaan,1,,
-6564BL,Profetenlaan,1,a,
-6564BL,Profetenlaan,2,,
-6564BL,Profetenlaan,3,,
-6564BL,Profetenlaan,4,,
-6564BL,Profetenlaan,4,,
-6564BL,Profetenlaan,5,,
-6564BL,Profetenlaan,7,,
-6564BL,Profetenlaan,9,,
-6564CR,Sionsweg,5,,
-6564CR,Sionsweg,7,,
-6564CR,Sionsweg,9,,
-6564CR,Sionsweg,11,,
-6564CR,Sionsweg,13,,
-6564AA,Theresiaweg,7,,
-6564AA,Theresiaweg,7,,
-6564CR,Sionsweg,5,,
-6564CR,Sionsweg,7,,
-6564CR,Sionsweg,9,,
-6564CR,Sionsweg,11,,
-6564CR,Sionsweg,13,,
-6564BP,Pastoor Rabouplein,1,,
-6564BP,Pastoor Rabouplein,1,a,
-6564BP,Pastoor Rabouplein,3,,
-6564BP,Pastoor Rabouplein,5,,
-6564CR,Sionsweg,1,,
-6564CR,Sionsweg,1,b,
-6564CR,Sionsweg,1,c,
-6564CR,Sionsweg,1,e,
-6564CR,Sionsweg,3,,
-6564CR,Sionsweg,1,a,
-6564CR,Sionsweg,1,d,
-6564AD,Koning Davidlaan,2,,
-6564AD,Koning Davidlaan,28,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Theresiaweg,7,"","",6564AA,Heilig Landstichting
+Theresiaweg,7,"","",6564AA,Heilig Landstichting
+Koning Davidlaan,12,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,14,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,16,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,18,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,2,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,2,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,20,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,22,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,24,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,26,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,28,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,30,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,32,"","",6564AD,Heilig Landstichting
+Koning Davidlaan,4,"","",6564AD,Heilig Landstichting
+Carmelweg,1,"","",6564AH,Heilig Landstichting
+Carmelweg,1,A,"",6564AH,Heilig Landstichting
+Carmelweg,1,B,"",6564AH,Heilig Landstichting
+Carmelweg,11,"","",6564AH,Heilig Landstichting
+Carmelweg,13,"","",6564AH,Heilig Landstichting
+Carmelweg,15,"","",6564AH,Heilig Landstichting
+Carmelweg,2,"","",6564AH,Heilig Landstichting
+Carmelweg,3,"","",6564AH,Heilig Landstichting
+Carmelweg,4,"","",6564AH,Heilig Landstichting
+Carmelweg,5,"","",6564AH,Heilig Landstichting
+Carmelweg,6,"","",6564AH,Heilig Landstichting
+Carmelweg,7,"","",6564AH,Heilig Landstichting
+Carmelweg,9,"","",6564AH,Heilig Landstichting
+Profetenlaan,1,"","",6564BL,Heilig Landstichting
+Profetenlaan,1,A,"",6564BL,Heilig Landstichting
+Profetenlaan,2,"","",6564BL,Heilig Landstichting
+Profetenlaan,3,"","",6564BL,Heilig Landstichting
+Profetenlaan,4,"","",6564BL,Heilig Landstichting
+Profetenlaan,4,"","",6564BL,Heilig Landstichting
+Profetenlaan,5,"","",6564BL,Heilig Landstichting
+Profetenlaan,7,"","",6564BL,Heilig Landstichting
+Profetenlaan,9,"","",6564BL,Heilig Landstichting
+Pastoor Rabouplein,1,"","",6564BP,Heilig Landstichting
+Pastoor Rabouplein,1,A,"",6564BP,Heilig Landstichting
+Pastoor Rabouplein,3,"","",6564BP,Heilig Landstichting
+Pastoor Rabouplein,5,"","",6564BP,Heilig Landstichting
+Meerwijkselaan,17,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,19,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,21,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,23,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,25,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,27,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,29,"","",6564BS,Heilig Landstichting
+Meerwijkselaan,44,"","",6564BT,Heilig Landstichting
+Mgr Suyslaan,4,"","",6564BV,Heilig Landstichting
+Mgr Suyslaan,8,"","",6564BV,Heilig Landstichting
+Nijmeegsebaan,45,"","",6564CB,Heilig Landstichting
+Nijmeegsebaan,47,"","",6564CB,Heilig Landstichting
+Nijmeegsebaan,49,"","",6564CB,Heilig Landstichting
+Nijmeegsebaan,51,"","",6564CB,Heilig Landstichting
+Van Haaftenlaan,12,"","",6564CP,Heilig Landstichting
+Sionsweg,1,"","",6564CR,Nijmegen
+Sionsweg,1,A,"",6564CR,Nijmegen
+Sionsweg,1,B,"",6564CR,Nijmegen
+Sionsweg,1,C,"",6564CR,Nijmegen
+Sionsweg,1,D,"",6564CR,Nijmegen
+Sionsweg,1,E,"",6564CR,Nijmegen
+Sionsweg,11,"","",6564CR,Heilig Landstichting
+Sionsweg,11,"","",6564CR,Heilig Landstichting
+Sionsweg,13,"","",6564CR,Heilig Landstichting
+Sionsweg,13,"","",6564CR,Heilig Landstichting
+Sionsweg,3,"","",6564CR,Nijmegen
+Sionsweg,5,"","",6564CR,Heilig Landstichting
+Sionsweg,5,"","",6564CR,Heilig Landstichting
+Sionsweg,7,"","",6564CR,Heilig Landstichting
+Sionsweg,7,"","",6564CR,Heilig Landstichting
+Sionsweg,9,"","",6564CR,Heilig Landstichting
+Sionsweg,9,"","",6564CR,Heilig Landstichting
+Biesseltsebaan,40,"","",6564CS,Heilig Landstichting
+Biesseltsebaan,42,"","",6564CS,Heilig Landstichting
+Biesseltsebaan,44,"","",6564CS,Heilig Landstichting
+Biesseltsebaan,46,"","",6564CS,Heilig Landstichting
+Biesseltsebaan,48,"","",6564CS,Heilig Landstichting

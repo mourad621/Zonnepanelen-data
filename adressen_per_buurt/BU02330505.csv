@@ -1,74 +1,74 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3852PM,Allee,40,,
-3852PM,Allee,25,,
-3852PM,Allee,27,,
-3852PM,Allee,29,,
-3852PM,Allee,31,,
-3852PM,Allee,33,,
-3852PM,Allee,35,,
-3852PM,Allee,37,,
-3852NE,Garderenseweg,99,,
-3852NE,Garderenseweg,95,,
-3852NE,Garderenseweg,93,,
-3852NE,Garderenseweg,97,,
-3852NE,Garderenseweg,33,,
-3852NE,Garderenseweg,39,,
-3852NE,Garderenseweg,41,,
-3852NE,Garderenseweg,43,,
-3852NE,Garderenseweg,49,,
-3852NE,Garderenseweg,11,,
-3852NE,Garderenseweg,15,,
-3852NE,Garderenseweg,69,,
-3852NE,Garderenseweg,79,,
-3852NE,Garderenseweg,53,,
-3852NE,Garderenseweg,61,,
-3852NE,Garderenseweg,91,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,78,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,82,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,82,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,84,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,86,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,24,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,68,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,2,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,36,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,64,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,60,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,42,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,40,,
-3852PM,Allee,23,,
-3852PM,Allee,10,,
-3852PM,Allee,11,,
-3852PM,Allee,5,,
-3852NV,Staverdenseweg,299,,
-3852NV,Staverdenseweg,287,,
-3852NV,Staverdenseweg,297,,
-3852NV,Staverdenseweg,293,,
-3852NV,Staverdenseweg,291,,
-3852NV,Staverdenseweg,283,,
-3852NV,Staverdenseweg,283,B,
-3852NV,Staverdenseweg,283,A,
-3852NV,Staverdenseweg,283,A,
-3852NV,Staverdenseweg,289,,
-3852NV,Staverdenseweg,283,,
-3852NV,Staverdenseweg,283,B,
-3852NW,Staverdenseweg,270,,
-3852NW,Staverdenseweg,276,,
-3852NW,Staverdenseweg,266,,
-3852NW,Staverdenseweg,278,,
-3852NT,Uddelermeerweg,90,,
-3852NT,Uddelermeerweg,38,,
-3852NT,Uddelermeerweg,2,A,
-3852NT,Uddelermeerweg,26,,
-3852NT,Uddelermeerweg,10,,
-3852NT,Uddelermeerweg,2,,
-3852NT,Uddelermeerweg,32,,
-3852NT,Uddelermeerweg,242,,
-3852NT,Uddelermeerweg,2,,
-3852NE,Garderenseweg,93,,
-3852NE,Garderenseweg,93,a,
-3852NE,Garderenseweg,79,,
-3852NE,Garderenseweg,53,A,
-3852NE,Garderenseweg,55,,
-3852PV,Jhr. Dr. C.J. Sandbergweg,88,,
-3852NV,Staverdenseweg,283,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Garderenseweg,11,"","",3852NE,Ermelo
+Garderenseweg,15,"","",3852NE,Ermelo
+Garderenseweg,33,"","",3852NE,Ermelo
+Garderenseweg,39,"","",3852NE,Ermelo
+Garderenseweg,41,"","",3852NE,Ermelo
+Garderenseweg,43,"","",3852NE,Ermelo
+Garderenseweg,49,"","",3852NE,Ermelo
+Garderenseweg,53,"","",3852NE,Ermelo
+Garderenseweg,53,A,"",3852NE,Ermelo
+Garderenseweg,55,"","",3852NE,Ermelo
+Garderenseweg,61,"","",3852NE,Ermelo
+Garderenseweg,69,"","",3852NE,Ermelo
+Garderenseweg,79,"","",3852NE,Ermelo
+Garderenseweg,79,"","",3852NE,Ermelo
+Garderenseweg,91,"","",3852NE,Ermelo
+Garderenseweg,93,"","",3852NE,Ermelo
+Garderenseweg,93,"","",3852NE,Ermelo
+Garderenseweg,93,A,"",3852NE,Ermelo
+Garderenseweg,95,"","",3852NE,Ermelo
+Garderenseweg,97,"","",3852NE,Ermelo
+Garderenseweg,99,"","",3852NE,Ermelo
+Uddelermeerweg,10,"","",3852NT,Ermelo
+Uddelermeerweg,2,"","",3852NT,Ermelo
+Uddelermeerweg,2,"","",3852NT,Ermelo
+Uddelermeerweg,2,A,"",3852NT,Ermelo
+Uddelermeerweg,242,"","",3852NT,Ermelo
+Uddelermeerweg,26,"","",3852NT,Ermelo
+Uddelermeerweg,32,"","",3852NT,Ermelo
+Uddelermeerweg,38,"","",3852NT,Ermelo
+Uddelermeerweg,90,"","",3852NT,Ermelo
+Staverdenseweg,283,"","",3852NV,Ermelo
+Staverdenseweg,283,"","",3852NV,Ermelo
+Staverdenseweg,283,A,"",3852NV,Ermelo
+Staverdenseweg,283,A,"",3852NV,Ermelo
+Staverdenseweg,283,B,"",3852NV,Ermelo
+Staverdenseweg,283,B,"",3852NV,Ermelo
+Staverdenseweg,283,C,"",3852NV,Ermelo
+Staverdenseweg,287,"","",3852NV,Ermelo
+Staverdenseweg,289,"","",3852NV,Ermelo
+Staverdenseweg,291,"","",3852NV,Ermelo
+Staverdenseweg,293,"","",3852NV,Ermelo
+Staverdenseweg,297,"","",3852NV,Ermelo
+Staverdenseweg,299,"","",3852NV,Ermelo
+Staverdenseweg,266,"","",3852NW,Ermelo
+Staverdenseweg,270,"","",3852NW,Ermelo
+Staverdenseweg,276,"","",3852NW,Ermelo
+Staverdenseweg,278,"","",3852NW,Ermelo
+Allee,10,"","",3852PM,Ermelo
+Allee,11,"","",3852PM,Ermelo
+Allee,23,"","",3852PM,Ermelo
+Allee,25,"","",3852PM,Ermelo
+Allee,27,"","",3852PM,Ermelo
+Allee,29,"","",3852PM,Ermelo
+Allee,31,"","",3852PM,Ermelo
+Allee,33,"","",3852PM,Ermelo
+Allee,35,"","",3852PM,Ermelo
+Allee,37,"","",3852PM,Ermelo
+Allee,40,"","",3852PM,Ermelo
+Allee,5,"","",3852PM,Ermelo
+Jhr. Dr. C.J. Sandbergweg,2,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,24,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,36,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,40,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,42,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,60,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,64,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,68,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,78,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,82,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,82,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,84,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,86,"","",3852PV,Ermelo
+Jhr. Dr. C.J. Sandbergweg,88,"","",3852PV,Ermelo

@@ -1,44 +1,44 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1687JB,Tender,1,,
-1687JB,Tender,2,,
-1687JB,Tender,3,,
-1687JA,Wijzend,70,a,
-1687JA,Wijzend,70,,
-1687AE,Spoorstraat,2,,
-1687AE,Spoorstraat,4,,
-1687AE,Spoorstraat,5,A,
-1687AE,Spoorstraat,5,,
-1687AE,Spoorstraat,3,,
-1687AE,Spoorstraat,6,,
-1687AZ,Westerspoor,1,,
-1687AZ,Westerspoor,2,,
-1687AZ,Westerspoor,3,,
-1687AZ,Westerspoor,4,,
-1687AZ,Westerspoor,5,,
-1687AZ,Westerspoor,6,,
-1687AZ,Westerspoor,7,,
-1687AZ,Westerspoor,8,,
-1687AZ,Westerspoor,9,,
-1687AZ,Westerspoor,10,,
-1687AZ,Westerspoor,11,,
-1687AZ,Westerspoor,12,,
-1687AZ,Westerspoor,13,,
-1687AZ,Westerspoor,14,,
-1687AZ,Westerspoor,15,,
-1687AZ,Westerspoor,16,,
-1687AZ,Westerspoor,17,,
-1687AZ,Westerspoor,18,,
-1687AZ,Westerspoor,19,,
-1687AZ,Westerspoor,20,,
-1687AZ,Westerspoor,21,,
-1687AZ,Westersingel,1,,
-1687CL,Geert Scholtenslaan,10,,
-1687CL,Geert Scholtenslaan,10,A,
-1687CL,Geert Scholtenslaan,12,,
-1687CL,Geert Scholtenslaan,6,,
-1687CL,Geert Scholtenslaan,8,,
-1687AE,Spoorstraat,5,,
-1687CL,Geert Scholtenslaan,9,,
-1687CL,Geert Scholtenslaan,10,,
-1687CL,Geert Scholtenslaan,12,,
-1687CL,Geert Scholtenslaan,11,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Spoorstraat,2,"","",1687AE,Wognum
+Spoorstraat,3,"","",1687AE,Wognum
+Spoorstraat,4,"","",1687AE,Wognum
+Spoorstraat,5,"","",1687AE,Wognum
+Spoorstraat,5,"","",1687AE,Wognum
+Spoorstraat,5,A,"",1687AE,Wognum
+Spoorstraat,6,"","",1687AE,Wognum
+Westersingel,1,"","",1687AZ,Wognum
+Westersingel,1,"","",1687AZ,Wognum
+Westerspoor,10,"","",1687AZ,Wognum
+Westerspoor,11,"","",1687AZ,Wognum
+Westerspoor,12,"","",1687AZ,Wognum
+Westerspoor,13,"","",1687AZ,Wognum
+Westerspoor,14,"","",1687AZ,Wognum
+Westerspoor,15,"","",1687AZ,Wognum
+Westerspoor,16,"","",1687AZ,Wognum
+Westerspoor,17,"","",1687AZ,Wognum
+Westerspoor,18,"","",1687AZ,Wognum
+Westerspoor,19,"","",1687AZ,Wognum
+Westerspoor,2,"","",1687AZ,Wognum
+Westerspoor,20,"","",1687AZ,Wognum
+Westerspoor,21,"","",1687AZ,Wognum
+Westerspoor,3,"","",1687AZ,Wognum
+Westerspoor,4,"","",1687AZ,Wognum
+Westerspoor,5,"","",1687AZ,Wognum
+Westerspoor,6,"","",1687AZ,Wognum
+Westerspoor,7,"","",1687AZ,Wognum
+Westerspoor,8,"","",1687AZ,Wognum
+Westerspoor,9,"","",1687AZ,Wognum
+Geert Scholtenslaan,10,"","",1687CL,Wognum
+Geert Scholtenslaan,10,"","",1687CL,Wognum
+Geert Scholtenslaan,10,A,"",1687CL,Wognum
+Geert Scholtenslaan,11,"","",1687CL,Wognum
+Geert Scholtenslaan,12,"","",1687CL,Wognum
+Geert Scholtenslaan,12,"","",1687CL,Wognum
+Geert Scholtenslaan,6,"","",1687CL,Wognum
+Geert Scholtenslaan,8,"","",1687CL,Wognum
+Geert Scholtenslaan,9,"","",1687CL,Wognum
+Wijzend,70,"","",1687JA,Wognum
+Wijzend,70,A,"",1687JA,Wognum
+Tender,1,"","",1687JB,Wognum
+Tender,2,"","",1687JB,Wognum
+Tender,3,"","",1687JB,Wognum

@@ -1,18 +1,18 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1782AZ,Nieuweweg,1,,
-1784PG,Nieuweweg,9,,
-1784PG,Nieuweweg,11,,
-1784PG,Nieuweweg,13,A,
-1784PG,Nieuweweg,15,,
-1784PG,Nieuweweg,7,,
-1782AZ,Nieuweweg,3,,
-1784PG,Nieuweweg,5,,
-1784PG,Nieuweweg,15,A,
-1782AZ,Nieuweweg,4,,
-1782AZ,Nieuweweg,2,,
-1782AZ,Nieuweweg,3,A,
-1784PG,Nieuweweg,13,,
-1784PG,Nieuweweg,6,A,
-1784PG,Nieuweweg,6,,
-1784PG,Nieuweweg,6,B,
-1782AZ,Nieuweweg,3,A,6
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuweweg,1,"","",1782AZ,Den Helder
+Nieuweweg,2,"","",1782AZ,Den Helder
+Nieuweweg,3,"","",1782AZ,Den Helder
+Nieuweweg,3,A,"",1782AZ,Den Helder
+Nieuweweg,3,A,6,1782AZ,Den Helder
+Nieuweweg,4,"","",1782AZ,Den Helder
+Nieuweweg,11,"","",1784PG,Den Helder
+Nieuweweg,13,"","",1784PG,Den Helder
+Nieuweweg,13,A,"",1784PG,Den Helder
+Nieuweweg,15,"","",1784PG,Den Helder
+Nieuweweg,15,A,"",1784PG,Den Helder
+Nieuweweg,5,"","",1784PG,Den Helder
+Nieuweweg,6,"","",1784PG,Den Helder
+Nieuweweg,6,A,"",1784PG,Den Helder
+Nieuweweg,6,B,"",1784PG,Den Helder
+Nieuweweg,7,"","",1784PG,Den Helder
+Nieuweweg,9,"","",1784PG,Den Helder

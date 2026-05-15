@@ -1,54 +1,54 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5342LH,Sint Wilpertslaan,49,,
-5342LH,Sint Wilpertslaan,5,A,
-5342NC,Haagstraat,1,,
-5342NM,Nieuwe Hescheweg,298,,
-5342NM,Nieuwe Hescheweg,279,,
-5342NE,Heistraat,8,,
-5342NJ,Willibrordusweg,150,,
-5342NB,Doorneindstraat,8,,
-5342NB,Doorneindstraat,12,,
-5342NC,Haagstraat,3,,
-5342NJ,Willibrordusweg,89,,
-5342NK,Zandkampstraat,6,,
-5342NB,Doorneindstraat,14,,
-5342NB,Doorneindstraat,7,,
-5342NB,Doorneindstraat,13,,
-5342NM,Nieuwe Hescheweg,285,,
-5342NM,Nieuwe Hescheweg,300,,
-5342NE,Heistraat,6,,
-5342LG,Willibrordusweg,81,,
-5342LG,Willibrordusweg,120,,
-5342NJ,Willibrordusweg,85,,
-5342NJ,Willibrordusweg,195,,
-5342NJ,Willibrordusweg,189,,
-5342NJ,Willibrordusweg,199,,
-5342NB,Doorneindstraat,5,,
-5342NB,Doorneindstraat,10,A,
-5342NB,Doorneindstraat,10,,
-5342NC,Haagstraat,5,,
-5342NM,Nieuwe Hescheweg,286,,
-5342NK,Zandkampstraat,31,,
-5342NK,Zandkampstraat,12,,
-5342NM,Nieuwe Hescheweg,290,,
-5342NM,Nieuwe Hescheweg,290,A,
-5342NE,Heistraat,8,A,
-5342NJ,Willibrordusweg,95,,
-5342NJ,Willibrordusweg,185,,
-5342NJ,Willibrordusweg,180,,
-5342LH,Sint Wilpertslaan,45,,
-5342NC,Haagstraat,3,C,
-5342NM,Nieuwe Hescheweg,290,A,
-5342NM,Nieuwe Hescheweg,290,,
-5342NM,Nieuwe Hescheweg,288,,
-5342NM,Nieuwe Hescheweg,288,,
-5342NM,Nieuwe Hescheweg,290,A,
-5342NM,Nieuwe Hescheweg,290,,UNIT
-5342NE,Heistraat,6,,MZ
-5342LG,Willibrordusweg,81,A,
-5342NJ,Willibrordusweg,180,,UNIT
-5342NJ,Willibrordusweg,195,,UNIT
-5342NK,Zandkampstraat,12,,
-5342NB,Doorneindstraat,14,,UNIT
-5342NB,Doorneindstraat,10,A,MW
-5342NE,Heistraat,8,,MZ
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Willibrordusweg,120,"","",5342LG,Oss
+Willibrordusweg,81,"","",5342LG,Oss
+Willibrordusweg,81,A,"",5342LG,Oss
+Sint Wilpertslaan,45,"","",5342LH,Oss
+Sint Wilpertslaan,49,"","",5342LH,Oss
+Sint Wilpertslaan,5,A,"",5342LH,Oss
+Doorneindstraat,10,"","",5342NB,Oss
+Doorneindstraat,10,A,"",5342NB,Oss
+Doorneindstraat,10,A,MW,5342NB,Oss
+Doorneindstraat,12,"","",5342NB,Oss
+Doorneindstraat,13,"","",5342NB,Oss
+Doorneindstraat,14,"","",5342NB,Oss
+Doorneindstraat,14,"",UNIT,5342NB,Oss
+Doorneindstraat,5,"","",5342NB,Oss
+Doorneindstraat,7,"","",5342NB,Oss
+Doorneindstraat,8,"","",5342NB,Oss
+Haagstraat,1,"","",5342NC,Oss
+Haagstraat,3,"","",5342NC,Oss
+Haagstraat,3,C,"",5342NC,Oss
+Haagstraat,5,"","",5342NC,Oss
+Heistraat,6,"","",5342NE,Oss
+Heistraat,6,"",MZ,5342NE,Oss
+Heistraat,8,"","",5342NE,Oss
+Heistraat,8,"",MZ,5342NE,Oss
+Heistraat,8,A,"",5342NE,Oss
+Willibrordusweg,150,"","",5342NJ,Oss
+Willibrordusweg,180,"","",5342NJ,Oss
+Willibrordusweg,180,"",UNIT,5342NJ,Oss
+Willibrordusweg,185,"","",5342NJ,Oss
+Willibrordusweg,189,"","",5342NJ,Oss
+Willibrordusweg,195,"","",5342NJ,Oss
+Willibrordusweg,195,"",UNIT,5342NJ,Oss
+Willibrordusweg,199,"","",5342NJ,Oss
+Willibrordusweg,85,"","",5342NJ,Oss
+Willibrordusweg,89,"","",5342NJ,Oss
+Willibrordusweg,95,"","",5342NJ,Oss
+Zandkampstraat,12,"","",5342NK,Oss
+Zandkampstraat,12,"","",5342NK,Oss
+Zandkampstraat,31,"","",5342NK,Oss
+Zandkampstraat,6,"","",5342NK,Oss
+Nieuwe Hescheweg,279,"","",5342NM,Oss
+Nieuwe Hescheweg,285,"","",5342NM,Oss
+Nieuwe Hescheweg,286,"","",5342NM,Oss
+Nieuwe Hescheweg,288,"","",5342NM,Oss
+Nieuwe Hescheweg,288,"","",5342NM,Oss
+Nieuwe Hescheweg,290,"","",5342NM,Oss
+Nieuwe Hescheweg,290,"","",5342NM,Oss
+Nieuwe Hescheweg,290,"",UNIT,5342NM,Oss
+Nieuwe Hescheweg,290,A,"",5342NM,Oss
+Nieuwe Hescheweg,290,A,"",5342NM,Oss
+Nieuwe Hescheweg,290,A,"",5342NM,Oss
+Nieuwe Hescheweg,298,"","",5342NM,Oss
+Nieuwe Hescheweg,300,"","",5342NM,Oss

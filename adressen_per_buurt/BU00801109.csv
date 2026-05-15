@@ -1,579 +1,294 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8932NL",103,"d",""
-"8932NL",103,"",""
-"8932NL",103,"c",""
-"8932NL",97,"y",""
-"8932NL",101,"",""
-"8932NL",95,"f",""
-"8932NL",97,"z",""
-"8932NL",101,"e",""
-"8932NL",99,"c",""
-"8932NL",99,"",""
-"8932NL",99,"g",""
-"8932NL",109,"e",""
-"8932NL",95,"g",""
-"8932NL",95,"d",""
-"8932NL",103,"e",""
-"8932NL",97,"d",""
-"8932NL",99,"f",""
-"8932NL",97,"s",""
-"8932NL",97,"e",""
-"8932NL",95,"h",""
-"8932NL",99,"e",""
-"8932NL",97,"p",""
-"8932NL",97,"c",""
-"8932NL",103,"b",""
-"8932NL",107,"d",""
-"8932NL",95,"j",""
-"8932NL",101,"b",""
-"8932NL",95,"c",""
-"8932NL",97,"n",""
-"8932NL",95,"z",""
-"8932NL",95,"m",""
-"8932NL",95,"s",""
-"8932NL",95,"b",""
-"8932NL",97,"d","1"
-"8932NL",97,"",""
-"8932NL",97,"r",""
-"8932NL",97,"m",""
-"8932NL",95,"k",""
-"8932NL",95,"n",""
-"8932NL",97,"j",""
-"8932NL",97,"t",""
-"8932NL",95,"d","1"
-"8932NL",95,"r",""
-"8932NL",97,"w",""
-"8932NL",95,"y",""
-"8932NL",95,"p",""
-"8932NL",109,"d",""
-"8932NL",105,"d",""
-"8932NL",95,"",""
-"8932NL",95,"e",""
-"8932NL",99,"b",""
-"8932NL",89,"",""
-"8932NL",105,"e",""
-"8932NL",97,"b",""
-"8932NL",101,"c",""
-"8932NL",81,"",""
-"8932NL",97,"g",""
-"8932NL",83,"",""
-"8932NL",107,"e",""
-"8932NL",95,"w",""
-"8932NL",95,"t",""
-"8932NL",101,"d",""
-"8932NL",87,"",""
-"8932NL",111,"e",""
-"8932NL",111,"d",""
-"8932NL",99,"d",""
-"8932NL",97,"k",""
-"8932NL",99,"d","1"
-"8932NL",97,"f",""
-"8932NL",85,"",""
-"8932NL",97,"h",""
-"8932NM",111,"b",""
-"8932NM",111,"c",""
-"8932NM",105,"c",""
-"8932NM",111,"e",""
-"8932NM",113,"",""
-"8932NM",107,"d",""
-"8932NM",107,"e",""
-"8932NM",123,"",""
-"8932NM",111,"d",""
-"8932NM",115,"",""
-"8932NM",111,"",""
-"8932NM",105,"d",""
-"8932NM",109,"d",""
-"8932NM",105,"",""
-"8932NM",107,"c",""
-"8932NM",105,"b",""
-"8932NM",109,"b",""
-"8932NM",109,"",""
-"8932NM",109,"c",""
-"8932NM",107,"",""
-"8932NM",105,"e",""
-"8932NM",119,"",""
-"8932NM",121,"",""
-"8932NM",107,"b",""
-"8932NM",109,"e",""
-"8932NM",117,"",""
-"8932PE",22,"",""
-"8932PE",18,"",""
-"8932PE",18,"",""
-"8932PE",10,"",""
-"8932PE",14,"",""
-"8932PE",16,"",""
-"8932PE",24,"",""
-"8932PE",16,"",""
-"8932PE",4,"",""
-"8932PE",12,"",""
-"8932PE",22,"",""
-"8932PE",6,"",""
-"8932PE",30,"",""
-"8932PE",8,"",""
-"8932PE",20,"",""
-"8932PE",2,"",""
-"8932PE",10,"",""
-"8932PE",20,"",""
-"8932PE",30,"k",""
-"8932PE",28,"a",""
-"8932PE",8,"",""
-"8932PE",26,"",""
-"8932PE",24,"",""
-"8932PE",26,"",""
-"8932PE",28,"",""
-"8932PG",10,"j",""
-"8932PG",4,"w","4"
-"8932PG",4,"w","5"
-"8932PG",10,"t","3"
-"8932PG",2,"h",""
-"8932PG",4,"w","6"
-"8932PG",10,"h",""
-"8932PG",4,"d",""
-"8932PG",4,"c",""
-"8932PG",2,"n",""
-"8932PG",2,"x",""
-"8932PG",2,"j",""
-"8932PG",4,"w","19"
-"8932PG",14,"",""
-"8932PG",4,"w","18"
-"8932PG",2,"m",""
-"8932PG",10,"m",""
-"8932PG",4,"w","3"
-"8932PG",4,"a",""
-"8932PG",4,"",""
-"8932PG",10,"g",""
-"8932PG",4,"f",""
-"8932PG",4,"w","10"
-"8932PG",4,"w","17"
-"8932PG",10,"t","2"
-"8932PG",10,"a",""
-"8932PG",10,"c",""
-"8932PG",4,"b",""
-"8932PG",2,"g",""
-"8932PG",10,"t","6"
-"8932PG",4,"r",""
-"8932PG",4,"h",""
-"8932PG",10,"",""
-"8932PG",4,"w","11"
-"8932PG",2,"s",""
-"8932PG",10,"k",""
-"8932PG",4,"w","2"
-"8932PG",10,"",""
-"8932PG",4,"j",""
-"8932PG",10,"",""
-"8932PG",10,"",""
-"8932PG",4,"w","7"
-"8932PG",2,"w",""
-"8932PG",10,"n",""
-"8932PG",4,"w","14"
-"8932PG",4,"g",""
-"8932PG",4,"w","12"
-"8932PG",2,"d",""
-"8932PG",4,"e",""
-"8932PG",10,"t","12"
-"8932PG",10,"s",""
-"8932PG",2,"z",""
-"8932PG",10,"f",""
-"8932PG",10,"",""
-"8932PG",10,"",""
-"8932PG",2,"v",""
-"8932PG",6,"",""
-"8932PG",4,"k",""
-"8932PG",4,"w","1"
-"8932PG",10,"t","11"
-"8932PG",2,"p",""
-"8932PG",10,"t","7"
-"8932PG",4,"n",""
-"8932PG",4,"w","16"
-"8932PG",8,"",""
-"8932PG",10,"e",""
-"8932PG",10,"b",""
-"8932PG",10,"t","14"
-"8932PG",2,"",""
-"8932PG",10,"t","18"
-"8932PG",10,"t","9"
-"8932PG",10,"d",""
-"8932PG",10,"t","13"
-"8932PG",2,"e",""
-"8932PG",2,"",""
-"8932PG",10,"t","17"
-"8932PG",10,"t","4"
-"8932PG",12,"",""
-"8932PG",4,"w","9"
-"8932PG",2,"b",""
-"8932PG",12,"",""
-"8932PG",2,"f",""
-"8932PG",10,"t","1"
-"8932PG",10,"t","15"
-"8932PG",4,"w","8"
-"8932PG",2,"",""
-"8932PG",8,"",""
-"8932PG",10,"t","10"
-"8932PG",10,"t","5"
-"8932PG",10,"p",""
-"8932PG",2,"k",""
-"8932PG",4,"w","15"
-"8932PG",10,"r",""
-"8932PG",10,"t","16"
-"8932PG",10,"t","8"
-"8932PG",4,"p",""
-"8932PG",6,"k",""
-"8932PG",4,"m",""
-"8932PG",2,"t",""
-"8932PG",4,"w","13"
-"8932PG",2,"r",""
-"8932PG",2,"c",""
-"8932PG",2,"",""
-"8932PG",2,"a",""
-"8932PH",1,"",""
-"8932PH",49,"",""
-"8932PH",17,"",""
-"8932PH",5,"",""
-"8932PH",3,"",""
-"8932PH",57,"",""
-"8932PH",59,"",""
-"8932PH",85,"",""
-"8932PH",53,"",""
-"8932PH",87,"",""
-"8932PH",7,"",""
-"8932PH",55,"",""
-"8932PH",33,"",""
-"8932PH",41,"",""
-"8932PH",15,"",""
-"8932PH",43,"",""
-"8932PH",45,"",""
-"8932PH",67,"",""
-"8932PH",75,"",""
-"8932PH",47,"",""
-"8932PH",69,"",""
-"8932PH",79,"",""
-"8932PH",73,"",""
-"8932PH",39,"",""
-"8932PH",71,"",""
-"8932PH",51,"",""
-"8932PH",11,"",""
-"8932PH",19,"",""
-"8932PH",35,"",""
-"8932PH",81,"",""
-"8932PH",61,"",""
-"8932PH",77,"",""
-"8932PH",9,"",""
-"8932PH",37,"",""
-"8932PH",65,"",""
-"8932PH",83,"",""
-"8932PH",63,"",""
-"8932PH",23,"",""
-"8932PH",31,"",""
-"8932PH",25,"",""
-"8932PH",13,"",""
-"8932PH",21,"",""
-"8932PH",29,"",""
-"8932PH",27,"",""
-"8934AA",11,"",""
-"8934AA",5,"k",""
-"8934AA",11,"",""
-"8934AA",5,"",""
-"8934AA",4,"",""
-"8934AA",2,"k",""
-"8934AA",2,"",""
-"8934AA",11,"",""
-"8934AD",2,"",""
-"8934AD",34,"b",""
-"8934AD",3,"",""
-"8934AD",6,"",""
-"8934AD",2,"",""
-"8934AD",34,"a",""
-"8934AD",36,"",""
-"8934AD",2,"",""
-"8934AD",6,"",""
-"8934AD",34,"",""
-"8934AD",40,"",""
-"8934AD",32,"",""
-"8934AD",40,"g",""
-"8934AD",40,"",""
-"8934BW",1,"",""
-8932PG,Oostergoweg,6,,
-8934AA,Badweg,2,,
-8934AA,Badweg,4,,
-8932PE,Borniastraat,2,,
-8932PE,Borniastraat,28,,
-8932PE,Borniastraat,30,,
-8934AD,Borniastraat,34,,
-8934AD,Borniastraat,40,,
-8932PG,Oostergoweg,8,,
-8934AD,Henri Dunantweg,2,,
-8934AD,Henri Dunantweg,2,,
-8934AD,Henri Dunantweg,2,,
-8932NL,Verlengde Schrans,87,,
-8932NL,Verlengde Schrans,89,,
-8932NL,Verlengde Schrans,95,c,
-8932NL,Verlengde Schrans,97,c,
-8932NL,Verlengde Schrans,99,,
-8932NL,Verlengde Schrans,99,b,
-8932NL,Verlengde Schrans,101,,
-8932NL,Verlengde Schrans,101,b,
-8932NL,Verlengde Schrans,101,c,
-8932NL,Verlengde Schrans,103,c,
-8932NM,Verlengde Schrans,105,b,
-8932NM,Verlengde Schrans,105,c,
-8932NM,Verlengde Schrans,107,,
-8932NM,Verlengde Schrans,107,b,
-8932NM,Verlengde Schrans,109,,
-8932NM,Verlengde Schrans,109,b,
-8932NM,Verlengde Schrans,109,c,
-8932NM,Verlengde Schrans,111,b,
-8932NM,Verlengde Schrans,121,,
-8932PG,Oostergoweg,12,,
-8932PG,Oostergoweg,12,,
-8934AA,Aldlânsdyk,5,,
-8932NL,Verlengde Schrans,101,e,
-8932NL,Verlengde Schrans,103,d,
-8932NL,Verlengde Schrans,105,e,
-8932NL,Verlengde Schrans,107,d,
-8932NL,Verlengde Schrans,107,e,
-8932NL,Verlengde Schrans,109,d,
-8932NL,Verlengde Schrans,109,e,
-8932NL,Verlengde Schrans,111,d,
-8932NL,Verlengde Schrans,111,e,
-8932NL,Verlengde Schrans,97,d,1
-8932NL,Verlengde Schrans,99,d,1
-8932NL,Verlengde Schrans,83,,
-8932NM,Verlengde Schrans,105,e,
-8932NM,Verlengde Schrans,107,d,
-8932NM,Verlengde Schrans,107,e,
-8932NM,Verlengde Schrans,109,d,
-8932NM,Verlengde Schrans,109,e,
-8932NM,Verlengde Schrans,111,d,
-8932NM,Verlengde Schrans,111,e,
-8932PG,Oostergoweg,2,k,
-8934AA,Badweg,2,k,
-8932PE,Borniastraat,30,k,
-8932PE,Borniastraat,6,,
-8932PE,Borniastraat,8,,
-8932PE,Borniastraat,8,,
-8932PE,Borniastraat,10,,
-8932PE,Borniastraat,10,,
-8932PE,Borniastraat,18,,
-8932PE,Borniastraat,18,,
-8932PE,Borniastraat,22,,
-8932PE,Borniastraat,22,,
-8934AD,Borniastraat,36,,
-8934AA,Aldlânsdyk,5,k,
-8932NL,Verlengde Schrans,105,d,
-8932NL,Verlengde Schrans,95,d,1
-8932NL,Verlengde Schrans,81,,
-8932NL,Verlengde Schrans,95,b,
-8932NL,Verlengde Schrans,99,c,
-8932NL,Verlengde Schrans,103,b,
-8932NL,Verlengde Schrans,103,e,
-8932NM,Verlengde Schrans,111,c,
-8932NM,Verlengde Schrans,115,,
-8932NM,Verlengde Schrans,105,d,
-8932NM,Verlengde Schrans,105,,
-8932NM,Verlengde Schrans,119,,
-8932NM,Verlengde Schrans,111,,
-8934BW,Badweg,1,,
-8932PE,Borniastraat,4,,
-8932PE,Borniastraat,20,,
-8932PE,Borniastraat,20,,
-8932PE,Borniastraat,26,,
-8932PE,Borniastraat,26,,
-8934AD,Borniastraat,34,a,
-8934AA,Aldlânsdyk,11,,
-8932NL,Verlengde Schrans,97,,
-8932NL,Verlengde Schrans,97,b,
-8932NL,Verlengde Schrans,103,,
-8932NL,Verlengde Schrans,101,d,
-8932NM,Verlengde Schrans,113,,
-8932NM,Verlengde Schrans,123,,
-8932PG,Oostergoweg,14,,
-8932PG,Oostergoweg,2,,
-8932PE,Borniastraat,12,,
-8932PE,Borniastraat,14,,
-8932PE,Borniastraat,16,,
-8932PE,Borniastraat,16,,
-8932PE,Borniastraat,24,,
-8932PE,Borniastraat,24,,
-8934AD,Borniastraat,32,,
-8934AD,Borniastraat,34,b,
-8932NL,Verlengde Schrans,85,,
-8932NL,Verlengde Schrans,95,,
-8932NL,Verlengde Schrans,95,d,
-8932NL,Verlengde Schrans,97,d,
-8932NL,Verlengde Schrans,99,d,
-8932NL,Verlengde Schrans,95,f,
-8932NL,Verlengde Schrans,95,m,
-8932NL,Verlengde Schrans,95,n,
-8932NL,Verlengde Schrans,95,r,
-8932NL,Verlengde Schrans,95,s,
-8932NL,Verlengde Schrans,95,t,
-8932NL,Verlengde Schrans,95,w,
-8932NL,Verlengde Schrans,95,y,
-8932NL,Verlengde Schrans,95,z,
-8932NL,Verlengde Schrans,95,h,
-8932NL,Verlengde Schrans,95,j,
-8932NL,Verlengde Schrans,95,k,
-8932NL,Verlengde Schrans,95,e,
-8932NL,Verlengde Schrans,95,g,
-8932NL,Verlengde Schrans,95,p,
-8932NL,Verlengde Schrans,97,f,
-8932NL,Verlengde Schrans,97,g,
-8932NL,Verlengde Schrans,97,h,
-8932NL,Verlengde Schrans,97,j,
-8932NL,Verlengde Schrans,97,k,
-8932NL,Verlengde Schrans,97,m,
-8932NL,Verlengde Schrans,97,n,
-8932NL,Verlengde Schrans,97,p,
-8932NL,Verlengde Schrans,97,r,
-8932NL,Verlengde Schrans,97,s,
-8932NL,Verlengde Schrans,97,t,
-8932NL,Verlengde Schrans,97,w,
-8932NL,Verlengde Schrans,97,y,
-8932NL,Verlengde Schrans,97,z,
-8932NL,Verlengde Schrans,99,f,
-8932NL,Verlengde Schrans,99,e,
-8932NL,Verlengde Schrans,99,g,
-8932NL,Verlengde Schrans,97,e,
-8932NM,Verlengde Schrans,107,c,
-8932NM,Verlengde Schrans,117,,
-8932PG,Oostergoweg,10,,
-8932PG,Oostergoweg,2,,
-8932PG,Oostergoweg,2,a,
-8932PG,Oostergoweg,4,,
-8932PG,Oostergoweg,2,t,
-8932PG,Oostergoweg,2,s,
-8932PG,Oostergoweg,4,r,
-8932PG,Oostergoweg,4,p,
-8932PG,Oostergoweg,2,b,
-8932PG,Oostergoweg,4,a,
-8932PG,Oostergoweg,2,c,
-8932PG,Oostergoweg,4,b,
-8932PG,Oostergoweg,2,d,
-8932PG,Oostergoweg,2,r,
-8932PG,Oostergoweg,4,n,
-8932PG,Oostergoweg,4,c,
-8932PG,Oostergoweg,2,e,
-8932PG,Oostergoweg,4,d,
-8932PG,Oostergoweg,2,f,
-8932PG,Oostergoweg,4,e,
-8932PG,Oostergoweg,2,g,
-8932PG,Oostergoweg,4,f,
-8932PG,Oostergoweg,2,h,
-8932PG,Oostergoweg,4,g,
-8932PG,Oostergoweg,2,j,
-8932PG,Oostergoweg,4,h,
-8932PG,Oostergoweg,2,m,
-8932PG,Oostergoweg,4,j,
-8932PG,Oostergoweg,2,n,
-8932PG,Oostergoweg,4,k,
-8932PG,Oostergoweg,2,p,
-8932PG,Oostergoweg,4,m,
-8934AD,Henri Dunantweg,6,,
-8934AD,Henri Dunantweg,3,,
-8934AA,Aldlânsdyk,11,,
-8932PG,Oostergoweg,6,k,
-8932PG,Oostergoweg,10,k,
-8932PG,Oostergoweg,4,w,1
-8932PG,Oostergoweg,4,w,2
-8932PG,Oostergoweg,4,w,3
-8932PG,Oostergoweg,4,w,4
-8932PG,Oostergoweg,4,w,5
-8932PG,Oostergoweg,4,w,6
-8932PG,Oostergoweg,4,w,7
-8932PG,Oostergoweg,4,w,8
-8932PG,Oostergoweg,4,w,9
-8932PG,Oostergoweg,4,w,10
-8932PG,Oostergoweg,4,w,11
-8932PG,Oostergoweg,4,w,12
-8932PG,Oostergoweg,4,w,13
-8932PG,Oostergoweg,4,w,14
-8932PG,Oostergoweg,4,w,15
-8932PG,Oostergoweg,4,w,16
-8932PG,Oostergoweg,4,w,17
-8932PG,Oostergoweg,4,w,18
-8932PG,Oostergoweg,4,w,19
-8932PG,Oostergoweg,10,,
-8932PG,Oostergoweg,10,a,
-8932PG,Oostergoweg,10,b,
-8932PG,Oostergoweg,10,c,
-8932PG,Oostergoweg,10,d,
-8932PG,Oostergoweg,10,e,
-8932PG,Oostergoweg,10,f,
-8932PG,Oostergoweg,10,g,
-8932PG,Oostergoweg,10,h,
-8932PG,Oostergoweg,10,j,
-8932PG,Oostergoweg,10,m,
-8932PG,Oostergoweg,10,n,
-8932PG,Oostergoweg,10,p,
-8932PG,Oostergoweg,10,r,
-8932PG,Oostergoweg,10,s,
-8932PG,Oostergoweg,10,,
-8932PG,Oostergoweg,10,,
-8932PG,Oostergoweg,10,t,1
-8932PG,Oostergoweg,10,t,2
-8932PG,Oostergoweg,10,t,3
-8932PG,Oostergoweg,10,t,4
-8932PG,Oostergoweg,10,t,5
-8932PG,Oostergoweg,10,t,6
-8932PG,Oostergoweg,10,t,7
-8932PG,Oostergoweg,10,t,8
-8932PG,Oostergoweg,10,t,9
-8932PG,Oostergoweg,10,t,10
-8932PG,Oostergoweg,10,t,11
-8932PG,Oostergoweg,10,t,12
-8932PG,Oostergoweg,10,t,13
-8932PG,Oostergoweg,10,t,14
-8932PG,Oostergoweg,10,t,15
-8932PG,Oostergoweg,10,t,16
-8932PG,Oostergoweg,10,t,17
-8932PG,Oostergoweg,10,t,18
-8932PG,Oostergoweg,2,v,
-8932PG,Oostergoweg,2,w,
-8932PG,Oostergoweg,2,x,
-8932PG,Oostergoweg,2,z,
-8932PE,Borniastraat,28,a,
-8934AD,Borniastraat,40,g,
-8932PH,Jellingastraat,1,,
-8932PH,Jellingastraat,3,,
-8932PH,Jellingastraat,5,,
-8932PH,Jellingastraat,7,,
-8932PH,Jellingastraat,9,,
-8932PH,Jellingastraat,11,,
-8932PH,Jellingastraat,13,,
-8932PH,Jellingastraat,15,,
-8932PH,Jellingastraat,17,,
-8932PH,Jellingastraat,19,,
-8932PH,Jellingastraat,21,,
-8932PH,Jellingastraat,23,,
-8932PH,Jellingastraat,25,,
-8932PH,Jellingastraat,27,,
-8932PH,Jellingastraat,29,,
-8932PH,Jellingastraat,31,,
-8932PH,Jellingastraat,33,,
-8932PH,Jellingastraat,35,,
-8932PH,Jellingastraat,37,,
-8932PH,Jellingastraat,39,,
-8932PH,Jellingastraat,41,,
-8932PH,Jellingastraat,43,,
-8932PH,Jellingastraat,45,,
-8932PH,Jellingastraat,47,,
-8932PH,Jellingastraat,49,,
-8932PH,Jellingastraat,51,,
-8932PH,Jellingastraat,53,,
-8932PH,Jellingastraat,55,,
-8932PH,Jellingastraat,57,,
-8932PH,Jellingastraat,59,,
-8932PH,Jellingastraat,61,,
-8932PH,Jellingastraat,63,,
-8932PH,Jellingastraat,65,,
-8932PH,Jellingastraat,67,,
-8932PH,Jellingastraat,69,,
-8932PH,Jellingastraat,71,,
-8932PH,Jellingastraat,73,,
-8932PH,Jellingastraat,75,,
-8932PH,Jellingastraat,77,,
-8932PH,Jellingastraat,79,,
-8932PH,Jellingastraat,81,,
-8932PH,Jellingastraat,83,,
-8932PH,Jellingastraat,85,,
-8932PH,Jellingastraat,87,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Verlengde Schrans,101,"","",8932NL,Leeuwarden
+Verlengde Schrans,101,B,"",8932NL,Leeuwarden
+Verlengde Schrans,101,C,"",8932NL,Leeuwarden
+Verlengde Schrans,101,D,"",8932NL,Leeuwarden
+Verlengde Schrans,101,E,"",8932NL,Leeuwarden
+Verlengde Schrans,103,"","",8932NL,Leeuwarden
+Verlengde Schrans,103,B,"",8932NL,Leeuwarden
+Verlengde Schrans,103,C,"",8932NL,Leeuwarden
+Verlengde Schrans,103,D,"",8932NL,Leeuwarden
+Verlengde Schrans,103,E,"",8932NL,Leeuwarden
+Verlengde Schrans,105,D,"",8932NL,Leeuwarden
+Verlengde Schrans,105,E,"",8932NL,Leeuwarden
+Verlengde Schrans,107,D,"",8932NL,Leeuwarden
+Verlengde Schrans,107,E,"",8932NL,Leeuwarden
+Verlengde Schrans,109,D,"",8932NL,Leeuwarden
+Verlengde Schrans,109,E,"",8932NL,Leeuwarden
+Verlengde Schrans,111,D,"",8932NL,Leeuwarden
+Verlengde Schrans,111,E,"",8932NL,Leeuwarden
+Verlengde Schrans,81,"","",8932NL,Leeuwarden
+Verlengde Schrans,83,"","",8932NL,Leeuwarden
+Verlengde Schrans,85,"","",8932NL,Leeuwarden
+Verlengde Schrans,87,"","",8932NL,Leeuwarden
+Verlengde Schrans,89,"","",8932NL,Leeuwarden
+Verlengde Schrans,95,"","",8932NL,Leeuwarden
+Verlengde Schrans,95,B,"",8932NL,Leeuwarden
+Verlengde Schrans,95,C,"",8932NL,Leeuwarden
+Verlengde Schrans,95,D,"",8932NL,Leeuwarden
+Verlengde Schrans,95,D,1,8932NL,Leeuwarden
+Verlengde Schrans,95,E,"",8932NL,Leeuwarden
+Verlengde Schrans,95,F,"",8932NL,Leeuwarden
+Verlengde Schrans,95,G,"",8932NL,Leeuwarden
+Verlengde Schrans,95,H,"",8932NL,Leeuwarden
+Verlengde Schrans,95,J,"",8932NL,Leeuwarden
+Verlengde Schrans,95,K,"",8932NL,Leeuwarden
+Verlengde Schrans,95,M,"",8932NL,Leeuwarden
+Verlengde Schrans,95,N,"",8932NL,Leeuwarden
+Verlengde Schrans,95,P,"",8932NL,Leeuwarden
+Verlengde Schrans,95,R,"",8932NL,Leeuwarden
+Verlengde Schrans,95,S,"",8932NL,Leeuwarden
+Verlengde Schrans,95,T,"",8932NL,Leeuwarden
+Verlengde Schrans,95,W,"",8932NL,Leeuwarden
+Verlengde Schrans,95,Y,"",8932NL,Leeuwarden
+Verlengde Schrans,95,Z,"",8932NL,Leeuwarden
+Verlengde Schrans,97,"","",8932NL,Leeuwarden
+Verlengde Schrans,97,B,"",8932NL,Leeuwarden
+Verlengde Schrans,97,C,"",8932NL,Leeuwarden
+Verlengde Schrans,97,D,"",8932NL,Leeuwarden
+Verlengde Schrans,97,D,1,8932NL,Leeuwarden
+Verlengde Schrans,97,E,"",8932NL,Leeuwarden
+Verlengde Schrans,97,F,"",8932NL,Leeuwarden
+Verlengde Schrans,97,G,"",8932NL,Leeuwarden
+Verlengde Schrans,97,H,"",8932NL,Leeuwarden
+Verlengde Schrans,97,J,"",8932NL,Leeuwarden
+Verlengde Schrans,97,K,"",8932NL,Leeuwarden
+Verlengde Schrans,97,M,"",8932NL,Leeuwarden
+Verlengde Schrans,97,N,"",8932NL,Leeuwarden
+Verlengde Schrans,97,P,"",8932NL,Leeuwarden
+Verlengde Schrans,97,R,"",8932NL,Leeuwarden
+Verlengde Schrans,97,S,"",8932NL,Leeuwarden
+Verlengde Schrans,97,T,"",8932NL,Leeuwarden
+Verlengde Schrans,97,W,"",8932NL,Leeuwarden
+Verlengde Schrans,97,Y,"",8932NL,Leeuwarden
+Verlengde Schrans,97,Z,"",8932NL,Leeuwarden
+Verlengde Schrans,99,"","",8932NL,Leeuwarden
+Verlengde Schrans,99,B,"",8932NL,Leeuwarden
+Verlengde Schrans,99,C,"",8932NL,Leeuwarden
+Verlengde Schrans,99,D,"",8932NL,Leeuwarden
+Verlengde Schrans,99,D,1,8932NL,Leeuwarden
+Verlengde Schrans,99,E,"",8932NL,Leeuwarden
+Verlengde Schrans,99,F,"",8932NL,Leeuwarden
+Verlengde Schrans,99,G,"",8932NL,Leeuwarden
+Verlengde Schrans,105,"","",8932NM,Leeuwarden
+Verlengde Schrans,105,B,"",8932NM,Leeuwarden
+Verlengde Schrans,105,C,"",8932NM,Leeuwarden
+Verlengde Schrans,105,D,"",8932NM,Leeuwarden
+Verlengde Schrans,105,E,"",8932NM,Leeuwarden
+Verlengde Schrans,107,"","",8932NM,Leeuwarden
+Verlengde Schrans,107,B,"",8932NM,Leeuwarden
+Verlengde Schrans,107,C,"",8932NM,Leeuwarden
+Verlengde Schrans,107,D,"",8932NM,Leeuwarden
+Verlengde Schrans,107,E,"",8932NM,Leeuwarden
+Verlengde Schrans,109,"","",8932NM,Leeuwarden
+Verlengde Schrans,109,B,"",8932NM,Leeuwarden
+Verlengde Schrans,109,C,"",8932NM,Leeuwarden
+Verlengde Schrans,109,D,"",8932NM,Leeuwarden
+Verlengde Schrans,109,E,"",8932NM,Leeuwarden
+Verlengde Schrans,111,"","",8932NM,Leeuwarden
+Verlengde Schrans,111,B,"",8932NM,Leeuwarden
+Verlengde Schrans,111,C,"",8932NM,Leeuwarden
+Verlengde Schrans,111,D,"",8932NM,Leeuwarden
+Verlengde Schrans,111,E,"",8932NM,Leeuwarden
+Verlengde Schrans,113,"","",8932NM,Leeuwarden
+Verlengde Schrans,115,"","",8932NM,Leeuwarden
+Verlengde Schrans,117,"","",8932NM,Leeuwarden
+Verlengde Schrans,119,"","",8932NM,Leeuwarden
+Verlengde Schrans,121,"","",8932NM,Leeuwarden
+Verlengde Schrans,123,"","",8932NM,Leeuwarden
+Borniastraat,10,"","",8932PE,Leeuwarden
+Borniastraat,10,"","",8932PE,Leeuwarden
+Borniastraat,12,"","",8932PE,Leeuwarden
+Borniastraat,14,"","",8932PE,Leeuwarden
+Borniastraat,16,"","",8932PE,Leeuwarden
+Borniastraat,16,"","",8932PE,Leeuwarden
+Borniastraat,18,"","",8932PE,Leeuwarden
+Borniastraat,18,"","",8932PE,Leeuwarden
+Borniastraat,2,"","",8932PE,Leeuwarden
+Borniastraat,20,"","",8932PE,Leeuwarden
+Borniastraat,20,"","",8932PE,Leeuwarden
+Borniastraat,22,"","",8932PE,Leeuwarden
+Borniastraat,22,"","",8932PE,Leeuwarden
+Borniastraat,24,"","",8932PE,Leeuwarden
+Borniastraat,24,"","",8932PE,Leeuwarden
+Borniastraat,26,"","",8932PE,Leeuwarden
+Borniastraat,26,"","",8932PE,Leeuwarden
+Borniastraat,28,"","",8932PE,Leeuwarden
+Borniastraat,28,A,"",8932PE,Leeuwarden
+Borniastraat,30,"","",8932PE,Leeuwarden
+Borniastraat,30,K,"",8932PE,Leeuwarden
+Borniastraat,4,"","",8932PE,Leeuwarden
+Borniastraat,6,"","",8932PE,Leeuwarden
+Borniastraat,8,"","",8932PE,Leeuwarden
+Borniastraat,8,"","",8932PE,Leeuwarden
+Oostergoweg,10,"","",8932PG,Leeuwarden
+Oostergoweg,10,"","",8932PG,Leeuwarden
+Oostergoweg,10,"","",8932PG,Leeuwarden
+Oostergoweg,10,"","",8932PG,Leeuwarden
+Oostergoweg,10,"","",8932PG,Leeuwarden
+Oostergoweg,10,"","",8932PG,Leeuwarden
+Oostergoweg,10,A,"",8932PG,Leeuwarden
+Oostergoweg,10,B,"",8932PG,Leeuwarden
+Oostergoweg,10,C,"",8932PG,Leeuwarden
+Oostergoweg,10,D,"",8932PG,Leeuwarden
+Oostergoweg,10,E,"",8932PG,Leeuwarden
+Oostergoweg,10,F,"",8932PG,Leeuwarden
+Oostergoweg,10,G,"",8932PG,Leeuwarden
+Oostergoweg,10,H,"",8932PG,Leeuwarden
+Oostergoweg,10,J,"",8932PG,Leeuwarden
+Oostergoweg,10,K,"",8932PG,Leeuwarden
+Oostergoweg,10,M,"",8932PG,Leeuwarden
+Oostergoweg,10,N,"",8932PG,Leeuwarden
+Oostergoweg,10,P,"",8932PG,Leeuwarden
+Oostergoweg,10,R,"",8932PG,Leeuwarden
+Oostergoweg,10,S,"",8932PG,Leeuwarden
+Oostergoweg,10,T,1,8932PG,Leeuwarden
+Oostergoweg,10,T,10,8932PG,Leeuwarden
+Oostergoweg,10,T,11,8932PG,Leeuwarden
+Oostergoweg,10,T,12,8932PG,Leeuwarden
+Oostergoweg,10,T,13,8932PG,Leeuwarden
+Oostergoweg,10,T,14,8932PG,Leeuwarden
+Oostergoweg,10,T,15,8932PG,Leeuwarden
+Oostergoweg,10,T,16,8932PG,Leeuwarden
+Oostergoweg,10,T,17,8932PG,Leeuwarden
+Oostergoweg,10,T,18,8932PG,Leeuwarden
+Oostergoweg,10,T,2,8932PG,Leeuwarden
+Oostergoweg,10,T,3,8932PG,Leeuwarden
+Oostergoweg,10,T,4,8932PG,Leeuwarden
+Oostergoweg,10,T,5,8932PG,Leeuwarden
+Oostergoweg,10,T,6,8932PG,Leeuwarden
+Oostergoweg,10,T,7,8932PG,Leeuwarden
+Oostergoweg,10,T,8,8932PG,Leeuwarden
+Oostergoweg,10,T,9,8932PG,Leeuwarden
+Oostergoweg,12,"","",8932PG,Leeuwarden
+Oostergoweg,12,"","",8932PG,Leeuwarden
+Oostergoweg,14,"","",8932PG,Leeuwarden
+Oostergoweg,2,"","",8932PG,Leeuwarden
+Oostergoweg,2,"","",8932PG,Leeuwarden
+Oostergoweg,2,"","",8932PG,Leeuwarden
+Oostergoweg,2,"","",8932PG,Leeuwarden
+Oostergoweg,2,A,"",8932PG,Leeuwarden
+Oostergoweg,2,B,"",8932PG,Leeuwarden
+Oostergoweg,2,C,"",8932PG,Leeuwarden
+Oostergoweg,2,D,"",8932PG,Leeuwarden
+Oostergoweg,2,E,"",8932PG,Leeuwarden
+Oostergoweg,2,F,"",8932PG,Leeuwarden
+Oostergoweg,2,G,"",8932PG,Leeuwarden
+Oostergoweg,2,H,"",8932PG,Leeuwarden
+Oostergoweg,2,J,"",8932PG,Leeuwarden
+Oostergoweg,2,K,"",8932PG,Leeuwarden
+Oostergoweg,2,M,"",8932PG,Leeuwarden
+Oostergoweg,2,N,"",8932PG,Leeuwarden
+Oostergoweg,2,P,"",8932PG,Leeuwarden
+Oostergoweg,2,R,"",8932PG,Leeuwarden
+Oostergoweg,2,S,"",8932PG,Leeuwarden
+Oostergoweg,2,T,"",8932PG,Leeuwarden
+Oostergoweg,2,V,"",8932PG,Leeuwarden
+Oostergoweg,2,W,"",8932PG,Leeuwarden
+Oostergoweg,2,X,"",8932PG,Leeuwarden
+Oostergoweg,2,Z,"",8932PG,Leeuwarden
+Oostergoweg,4,"","",8932PG,Leeuwarden
+Oostergoweg,4,A,"",8932PG,Leeuwarden
+Oostergoweg,4,B,"",8932PG,Leeuwarden
+Oostergoweg,4,C,"",8932PG,Leeuwarden
+Oostergoweg,4,D,"",8932PG,Leeuwarden
+Oostergoweg,4,E,"",8932PG,Leeuwarden
+Oostergoweg,4,F,"",8932PG,Leeuwarden
+Oostergoweg,4,G,"",8932PG,Leeuwarden
+Oostergoweg,4,H,"",8932PG,Leeuwarden
+Oostergoweg,4,J,"",8932PG,Leeuwarden
+Oostergoweg,4,K,"",8932PG,Leeuwarden
+Oostergoweg,4,M,"",8932PG,Leeuwarden
+Oostergoweg,4,N,"",8932PG,Leeuwarden
+Oostergoweg,4,P,"",8932PG,Leeuwarden
+Oostergoweg,4,R,"",8932PG,Leeuwarden
+Oostergoweg,4,W,1,8932PG,Leeuwarden
+Oostergoweg,4,W,10,8932PG,Leeuwarden
+Oostergoweg,4,W,11,8932PG,Leeuwarden
+Oostergoweg,4,W,12,8932PG,Leeuwarden
+Oostergoweg,4,W,13,8932PG,Leeuwarden
+Oostergoweg,4,W,14,8932PG,Leeuwarden
+Oostergoweg,4,W,15,8932PG,Leeuwarden
+Oostergoweg,4,W,16,8932PG,Leeuwarden
+Oostergoweg,4,W,17,8932PG,Leeuwarden
+Oostergoweg,4,W,18,8932PG,Leeuwarden
+Oostergoweg,4,W,19,8932PG,Leeuwarden
+Oostergoweg,4,W,2,8932PG,Leeuwarden
+Oostergoweg,4,W,3,8932PG,Leeuwarden
+Oostergoweg,4,W,4,8932PG,Leeuwarden
+Oostergoweg,4,W,5,8932PG,Leeuwarden
+Oostergoweg,4,W,6,8932PG,Leeuwarden
+Oostergoweg,4,W,7,8932PG,Leeuwarden
+Oostergoweg,4,W,8,8932PG,Leeuwarden
+Oostergoweg,4,W,9,8932PG,Leeuwarden
+Oostergoweg,6,"","",8932PG,Leeuwarden
+Oostergoweg,6,K,"",8932PG,Leeuwarden
+Oostergoweg,8,"","",8932PG,Leeuwarden
+Oostergoweg,8,"","",8932PG,Leeuwarden
+Jellingastraat,1,"","",8932PH,Leeuwarden
+Jellingastraat,11,"","",8932PH,Leeuwarden
+Jellingastraat,13,"","",8932PH,Leeuwarden
+Jellingastraat,15,"","",8932PH,Leeuwarden
+Jellingastraat,17,"","",8932PH,Leeuwarden
+Jellingastraat,19,"","",8932PH,Leeuwarden
+Jellingastraat,21,"","",8932PH,Leeuwarden
+Jellingastraat,23,"","",8932PH,Leeuwarden
+Jellingastraat,25,"","",8932PH,Leeuwarden
+Jellingastraat,27,"","",8932PH,Leeuwarden
+Jellingastraat,29,"","",8932PH,Leeuwarden
+Jellingastraat,3,"","",8932PH,Leeuwarden
+Jellingastraat,31,"","",8932PH,Leeuwarden
+Jellingastraat,33,"","",8932PH,Leeuwarden
+Jellingastraat,35,"","",8932PH,Leeuwarden
+Jellingastraat,37,"","",8932PH,Leeuwarden
+Jellingastraat,39,"","",8932PH,Leeuwarden
+Jellingastraat,41,"","",8932PH,Leeuwarden
+Jellingastraat,43,"","",8932PH,Leeuwarden
+Jellingastraat,45,"","",8932PH,Leeuwarden
+Jellingastraat,47,"","",8932PH,Leeuwarden
+Jellingastraat,49,"","",8932PH,Leeuwarden
+Jellingastraat,5,"","",8932PH,Leeuwarden
+Jellingastraat,51,"","",8932PH,Leeuwarden
+Jellingastraat,53,"","",8932PH,Leeuwarden
+Jellingastraat,55,"","",8932PH,Leeuwarden
+Jellingastraat,57,"","",8932PH,Leeuwarden
+Jellingastraat,59,"","",8932PH,Leeuwarden
+Jellingastraat,61,"","",8932PH,Leeuwarden
+Jellingastraat,63,"","",8932PH,Leeuwarden
+Jellingastraat,65,"","",8932PH,Leeuwarden
+Jellingastraat,67,"","",8932PH,Leeuwarden
+Jellingastraat,69,"","",8932PH,Leeuwarden
+Jellingastraat,7,"","",8932PH,Leeuwarden
+Jellingastraat,71,"","",8932PH,Leeuwarden
+Jellingastraat,73,"","",8932PH,Leeuwarden
+Jellingastraat,75,"","",8932PH,Leeuwarden
+Jellingastraat,77,"","",8932PH,Leeuwarden
+Jellingastraat,79,"","",8932PH,Leeuwarden
+Jellingastraat,81,"","",8932PH,Leeuwarden
+Jellingastraat,83,"","",8932PH,Leeuwarden
+Jellingastraat,85,"","",8932PH,Leeuwarden
+Jellingastraat,87,"","",8932PH,Leeuwarden
+Jellingastraat,9,"","",8932PH,Leeuwarden
+Aldlânsdyk,11,"","",8934AA,Leeuwarden
+Aldlânsdyk,11,"","",8934AA,Leeuwarden
+Aldlânsdyk,11,"","",8934AA,Leeuwarden
+Badweg,2,"","",8934AA,Leeuwarden
+Badweg,2,K,"",8934AA,Leeuwarden
+Badweg,4,"","",8934AA,Leeuwarden
+Aldlânsdyk,5,"","",8934AA,Leeuwarden
+Aldlânsdyk,5,K,"",8934AA,Leeuwarden
+Henri Dunantweg,2,"","",8934AD,Leeuwarden
+Henri Dunantweg,2,"","",8934AD,Leeuwarden
+Henri Dunantweg,2,"","",8934AD,Leeuwarden
+Henri Dunantweg,3,"","",8934AD,Leeuwarden
+Borniastraat,32,"","",8934AD,Leeuwarden
+Borniastraat,34,"","",8934AD,Leeuwarden
+Borniastraat,34,A,"",8934AD,Leeuwarden
+Borniastraat,34,B,"",8934AD,Leeuwarden
+Borniastraat,36,"","",8934AD,Leeuwarden
+Borniastraat,40,"","",8934AD,Leeuwarden
+Borniastraat,40,"","",8934AD,Leeuwarden
+Borniastraat,40,G,"",8934AD,Leeuwarden
+Henri Dunantweg,6,"","",8934AD,Leeuwarden
+Henri Dunantweg,6,"","",8934AD,Leeuwarden
+Badweg,1,"","",8934BW,Leeuwarden

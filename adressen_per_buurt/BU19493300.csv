@@ -1,41 +1,42 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8853AS",2,"",""
-"8853AS",1,"",""
-"8853GN",22,"",""
-"8853GN",22,"B",""
-"8853GN",21,"",""
-"8853GN",21,"A",""
-"8853GN",22,"A",""
-"8853GN",20,"A",""
-"8853XN",8,"",""
-"8853XN",10,"",""
-"8853XN",16,"",""
-"8853XN",7,"",""
-"8853XN",1,"",""
-"8853XN",9,"",""
-"8853XN",18,"",""
-"8853XN",3,"",""
-"8853XN",2,"",""
-"8853XN",20,"",""
-"8853XN",13,"",""
-8853AS,Konkelswei,2,,
-8853AS,Konkelswei,1,,
-8853GN,Lidlumerwei,22,A,
-8853GN,Lidlumerwei,20,A,
-8853GN,Lidlumerwei,22,,
-8853XN,Mûntsewei,2,,
-8853XN,Mûntsewei,10,,
-8853XN,Mûntsewei,16,,
-8853XN,Mûntsewei,18,,
-8853XN,Mûntsewei,20,,
-8853XN,Mûntsewei,1,,
-8853XN,Mûntsewei,3,,
-8853XN,Mûntsewei,7,,
-8853XN,Mûntsewei,13,,
-8853GN,Lidlumerwei,21,A,
-8853GN,Lidlumerwei,21,,
-8853GN,Lidlumerwei,22,B,
-8853XN,Mûntsewei,8,,
-8853XN,Mûntsewei,9,,
-8853GN,Lidlumerwei,20,B,
-8853GN,Lidlumerwei,22,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+2,"","","",8853AS,
+1,"","","",8853AS,
+Konkelswei,1,"","",8853AS,Klooster Lidlum
+Konkelswei,2,"","",8853AS,Klooster Lidlum
+22,"","","",8853GN,
+21,"","","",8853GN,
+Lidlumerwei,20,A,"",8853GN,Klooster Lidlum
+Lidlumerwei,20,B,"",8853GN,Klooster Lidlum
+Lidlumerwei,21,"","",8853GN,Klooster Lidlum
+Lidlumerwei,21,A,"",8853GN,Klooster Lidlum
+Lidlumerwei,22,"","",8853GN,Klooster Lidlum
+Lidlumerwei,22,A,"",8853GN,Klooster Lidlum
+Lidlumerwei,22,B,"",8853GN,Klooster Lidlum
+Lidlumerwei,22,C,"",8853GN,Klooster Lidlum
+21,A,"","",8853GN,
+22,A,"","",8853GN,
+20,A,"","",8853GN,
+22,B,"","",8853GN,
+8,"","","",8853XN,
+10,"","","",8853XN,
+16,"","","",8853XN,
+7,"","","",8853XN,
+1,"","","",8853XN,
+9,"","","",8853XN,
+18,"","","",8853XN,
+3,"","","",8853XN,
+2,"","","",8853XN,
+20,"","","",8853XN,
+13,"","","",8853XN,
+Mûntsewei,1,"","",8853XN,Klooster Lidlum
+Mûntsewei,10,"","",8853XN,Klooster Lidlum
+Mûntsewei,13,"","",8853XN,Klooster Lidlum
+Mûntsewei,16,"","",8853XN,Klooster Lidlum
+Mûntsewei,18,"","",8853XN,Klooster Lidlum
+Mûntsewei,2,"","",8853XN,Klooster Lidlum
+Mûntsewei,20,"","",8853XN,Klooster Lidlum
+Mûntsewei,3,"","",8853XN,Klooster Lidlum
+Mûntsewei,7,"","",8853XN,Klooster Lidlum
+Mûntsewei,8,"","",8853XN,Klooster Lidlum
+Mûntsewei,9,"","",8853XN,Klooster Lidlum
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

@@ -1,74 +1,74 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8326AV,Bergkampen,2,,
-8326AV,Bergkampen,6,,
-8326AV,Bergkampen,8,,
-8326AV,Bergkampen,10,,
-8326AV,Bergkampen,12,,
-8326AV,Bergkampen,12,A,
-8326AV,Bergkampen,12,a,
-8326AV,Bergkampen,14,,
-8326AV,Bergkampen,16,,
-8326AV,Bergkampen,18,,
-8326AV,Bergkampen,20,,
-8326AV,Bergkampen,22,,
-8326AV,Bergkampen,26,,
-8326BD,De Hoogte,6,,
-8326BD,De Hoogte,8,,
-8326BD,De Hoogte,1,,
-8326BD,De Hoogte,1,A,
-8326BD,De Hoogte,1,a,
-8326BD,De Hoogte,3,,
-8326BD,De Hoogte,5,,
-8326BD,De Hoogte,7,,
-8326BD,De Hoogte,2,,
-8326BD,De Hoogte,4,,
-8326BD,De Hoogte,4,A,
-8326BD,De Hoogte,4,a,
-8326BD,De Hoogte,10,,
-8326BD,De Hoogte,12,,
-8326AZ,Dennenbos,2,,
-8326AZ,Dennenbos,4,,
-8326AZ,Dennenbos,6,,
-8326BA,Kadoelen,11,,
-8326BA,Kadoelen,13,,
-8326BA,Kadoelen,15,,
-8326BA,Kadoelen,17,,
-8326BA,Kadoelen,19,,
-8326BA,Kadoelen,21,,
-8326BA,Kadoelen,23,,
-8326BA,Kadoelen,25,,
-8326BA,Kadoelen,27,,
-8326BA,Kadoelen,29,,
-8326BA,Kadoelen,31,,
-8326BA,Kadoelen,1,,
-8326BA,Kadoelen,3,,
-8326BA,Kadoelen,7,,
-8326BA,Kadoelen,9,,
-8326BA,Kadoelen,15,A,
-8326BA,Kadoelen,15,a,
-8326BC,Kadoelen,2,,
-8326BC,Kadoelen,2,A,
-8326BC,Kadoelen,2,a,
-8326BC,Kadoelen,4,,
-8326BC,Kadoelen,6,,
-8326BC,Kadoelen,8,,
-8326AX,Kadoelerweg,2,,
-8326AX,Kadoelerweg,4,,
-8326BS,Poepershoek,8,,
-8326BS,Poepershoek,1,,
-8326BS,Poepershoek,5,,
-8326BS,Poepershoek,7,,
-8326BS,Poepershoek,9,,
-8326BS,Poepershoek,11,,
-8326BS,Poepershoek,2,,
-8326BS,Poepershoek,4,,
-8326BS,Poepershoek,6,,
-8326BS,Poepershoek,10,,
-8326BA,Kadoelen,17,b,
-8326BA,Kadoelen,17,t,
-8326BC,Kadoelen,8,a,
-8326AV,Bergkampen,8,,
-8326BA,Kadoelen,9,,
-8326BA,Kadoelen,11,a,
-8326AX,Kadoelerweg,4,t,
-8326BS,Poepershoek,9,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Bergkampen,10,"","",8326AV,Sint Jansklooster
+Bergkampen,12,"","",8326AV,Sint Jansklooster
+Bergkampen,12,A,"",8326AV,Sint Jansklooster
+Bergkampen,12,A,"",8326AV,Sint Jansklooster
+Bergkampen,14,"","",8326AV,Sint Jansklooster
+Bergkampen,16,"","",8326AV,Sint Jansklooster
+Bergkampen,18,"","",8326AV,Sint Jansklooster
+Bergkampen,2,"","",8326AV,Sint Jansklooster
+Bergkampen,20,"","",8326AV,Sint Jansklooster
+Bergkampen,22,"","",8326AV,Sint Jansklooster
+Bergkampen,26,"","",8326AV,Sint Jansklooster
+Bergkampen,6,"","",8326AV,Sint Jansklooster
+Bergkampen,8,"","",8326AV,Sint Jansklooster
+Bergkampen,8,"","",8326AV,Sint Jansklooster
+Kadoelerweg,2,"","",8326AX,Sint Jansklooster
+Kadoelerweg,4,"","",8326AX,Sint Jansklooster
+Kadoelerweg,4,T,"",8326AX,Sint Jansklooster
+Dennenbos,2,"","",8326AZ,Sint Jansklooster
+Dennenbos,4,"","",8326AZ,Sint Jansklooster
+Dennenbos,6,"","",8326AZ,Sint Jansklooster
+Kadoelen,1,"","",8326BA,Sint Jansklooster
+Kadoelen,11,"","",8326BA,Sint Jansklooster
+Kadoelen,11,A,"",8326BA,Sint Jansklooster
+Kadoelen,13,"","",8326BA,Sint Jansklooster
+Kadoelen,15,"","",8326BA,Sint Jansklooster
+Kadoelen,15,A,"",8326BA,Sint Jansklooster
+Kadoelen,15,A,"",8326BA,Sint Jansklooster
+Kadoelen,17,"","",8326BA,Sint Jansklooster
+Kadoelen,17,B,"",8326BA,Sint Jansklooster
+Kadoelen,17,T,"",8326BA,Sint Jansklooster
+Kadoelen,19,"","",8326BA,Sint Jansklooster
+Kadoelen,21,"","",8326BA,Sint Jansklooster
+Kadoelen,23,"","",8326BA,Sint Jansklooster
+Kadoelen,25,"","",8326BA,Sint Jansklooster
+Kadoelen,27,"","",8326BA,Sint Jansklooster
+Kadoelen,29,"","",8326BA,Sint Jansklooster
+Kadoelen,3,"","",8326BA,Sint Jansklooster
+Kadoelen,31,"","",8326BA,Sint Jansklooster
+Kadoelen,7,"","",8326BA,Sint Jansklooster
+Kadoelen,9,"","",8326BA,Sint Jansklooster
+Kadoelen,9,"","",8326BA,Sint Jansklooster
+Kadoelen,2,"","",8326BC,Sint Jansklooster
+Kadoelen,2,A,"",8326BC,Sint Jansklooster
+Kadoelen,2,A,"",8326BC,Sint Jansklooster
+Kadoelen,4,"","",8326BC,Sint Jansklooster
+Kadoelen,6,"","",8326BC,Sint Jansklooster
+Kadoelen,8,"","",8326BC,Sint Jansklooster
+Kadoelen,8,A,"",8326BC,Sint Jansklooster
+De Hoogte,1,"","",8326BD,Sint Jansklooster
+De Hoogte,1,A,"",8326BD,Sint Jansklooster
+De Hoogte,1,A,"",8326BD,Sint Jansklooster
+De Hoogte,10,"","",8326BD,Sint Jansklooster
+De Hoogte,12,"","",8326BD,Sint Jansklooster
+De Hoogte,2,"","",8326BD,Sint Jansklooster
+De Hoogte,3,"","",8326BD,Sint Jansklooster
+De Hoogte,4,"","",8326BD,Sint Jansklooster
+De Hoogte,4,A,"",8326BD,Sint Jansklooster
+De Hoogte,4,A,"",8326BD,Sint Jansklooster
+De Hoogte,5,"","",8326BD,Sint Jansklooster
+De Hoogte,6,"","",8326BD,Sint Jansklooster
+De Hoogte,7,"","",8326BD,Sint Jansklooster
+De Hoogte,8,"","",8326BD,Sint Jansklooster
+Poepershoek,1,"","",8326BS,Sint Jansklooster
+Poepershoek,10,"","",8326BS,Sint Jansklooster
+Poepershoek,11,"","",8326BS,Sint Jansklooster
+Poepershoek,2,"","",8326BS,Sint Jansklooster
+Poepershoek,4,"","",8326BS,Sint Jansklooster
+Poepershoek,5,"","",8326BS,Sint Jansklooster
+Poepershoek,6,"","",8326BS,Sint Jansklooster
+Poepershoek,7,"","",8326BS,Sint Jansklooster
+Poepershoek,8,"","",8326BS,Sint Jansklooster
+Poepershoek,9,"","",8326BS,Sint Jansklooster
+Poepershoek,9,A,"",8326BS,Sint Jansklooster

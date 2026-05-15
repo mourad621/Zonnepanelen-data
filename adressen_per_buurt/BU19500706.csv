@@ -1,363 +1,183 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9561NB",13,"",""
-"9561NB",10,"",""
-"9561NB",8,"",""
-"9561NB",12,"",""
-"9561NB",9,"",""
-"9561NB",3,"",""
-"9561NB",2,"",""
-"9561NB",5,"",""
-"9561NB",11,"",""
-"9561NB",4,"",""
-"9561NB",7,"",""
-"9561NB",6,"",""
-"9561NB",1,"",""
-"9561NC",11,"",""
-"9561NC",2,"a",""
-"9561NC",10,"",""
-"9561NC",15,"",""
-"9561NC",11,"",""
-"9561NC",11,"",""
-"9561NC",7,"",""
-"9561NC",14,"",""
-"9561NC",2,"",""
-"9561NC",18,"",""
-"9561NC",5,"",""
-"9561NC",13,"",""
-"9561NC",3,"",""
-"9561NC",4,"",""
-"9561NC",10,"",""
-"9561NC",10,"",""
-"9561NC",1,"",""
-"9561NC",19,"",""
-"9561NC",9,"",""
-"9561NC",17,"",""
-"9561ND",35,"",""
-"9561ND",23,"",""
-"9561ND",27,"",""
-"9561ND",41,"",""
-"9561ND",32,"",""
-"9561ND",34,"",""
-"9561ND",20,"",""
-"9561ND",21,"",""
-"9561ND",37,"",""
-"9561ND",31,"",""
-"9561ND",28,"",""
-"9561PM",23,"",""
-"9561PM",20,"",""
-"9561PM",11,"",""
-"9561PM",4,"",""
-"9561PM",12,"",""
-"9561PM",14,"",""
-"9561PM",9,"",""
-"9561PM",1,"",""
-"9561PM",17,"",""
-"9561PM",9,"","TRAF"
-"9561PM",26,"",""
-"9561PM",6,"",""
-"9561PN",22,"",""
-"9561PN",12,"",""
-"9561PN",13,"",""
-"9561PN",19,"",""
-"9561PN",18,"",""
-"9561PN",11,"",""
-"9561PN",20,"",""
-"9561PN",9,"",""
-"9561PN",21,"",""
-"9561PN",5,"",""
-"9561PN",10,"",""
-"9561PN",17,"",""
-"9561PN",23,"",""
-"9561PN",6,"",""
-"9561PN",15,"",""
-"9561PN",3,"",""
-"9561PN",14,"",""
-"9561PN",16,"",""
-"9561PN",1,"",""
-"9561PN",8,"",""
-"9561PN",7,"",""
-"9561PP",35,"",""
-"9561PP",7,"",""
-"9561PP",37,"",""
-"9561PP",25,"",""
-"9561PP",23,"",""
-"9561PP",11,"",""
-"9561PP",5,"",""
-"9561PP",33,"",""
-"9561PP",29,"",""
-"9561PP",19,"",""
-"9561PP",21,"",""
-"9561PP",13,"",""
-"9561PP",17,"",""
-"9561PP",15,"",""
-"9561PP",9,"",""
-"9561PP",27,"",""
-"9561PP",31,"",""
-"9561PR",20,"",""
-"9561PR",12,"",""
-"9561PR",18,"",""
-"9561PR",10,"",""
-"9561PR",26,"",""
-"9561PS",7,"",""
-"9561PS",3,"",""
-"9561PS",5,"",""
-"9561PS",37,"",""
-"9561PS",43,"",""
-"9561PS",11,"",""
-"9561PS",25,"",""
-"9561PS",13,"",""
-"9561PS",39,"",""
-"9561PS",9,"",""
-"9561PS",33,"",""
-"9561PS",21,"",""
-"9561PS",47,"",""
-"9561PS",1,"",""
-"9561PS",35,"",""
-"9561PS",29,"",""
-"9561PS",23,"",""
-"9561PS",41,"",""
-"9561PS",31,"",""
-"9561PS",19,"",""
-"9561PS",17,"",""
-"9561PS",27,"",""
-"9561PS",45,"",""
-"9561PS",15,"",""
-"9561PT",14,"",""
-"9561PT",46,"",""
-"9561PT",18,"",""
-"9561PT",10,"",""
-"9561PT",40,"",""
-"9561PT",8,"",""
-"9561PT",22,"",""
-"9561PT",44,"",""
-"9561PT",16,"",""
-"9561PT",20,"",""
-"9561PT",38,"",""
-"9561PT",26,"",""
-"9561PT",42,"",""
-"9561PT",6,"",""
-"9561PT",30,"",""
-"9561PT",36,"",""
-"9561PT",2,"",""
-"9561PT",12,"",""
-"9561PT",34,"",""
-"9561PT",4,"",""
-"9561PT",32,"",""
-"9561PT",24,"",""
-"9561PT",28,"",""
-"9561PV",13,"",""
-"9561PV",35,"",""
-"9561PV",33,"",""
-"9561PV",15,"",""
-"9561PV",39,"",""
-"9561PV",31,"",""
-"9561PV",17,"",""
-"9561PV",7,"",""
-"9561PV",11,"",""
-"9561PV",37,"",""
-"9561PV",29,"",""
-"9561PV",27,"",""
-"9561PV",9,"",""
-"9561PV",3,"",""
-"9561PV",1,"",""
-"9561PV",25,"",""
-"9561PV",19,"",""
-"9561PV",5,"",""
-"9561PW",8,"",""
-"9561PW",16,"",""
-"9561PW",4,"",""
-"9561PW",28,"",""
-"9561PW",20,"",""
-"9561PW",2,"",""
-"9561PW",30,"",""
-"9561PW",12,"",""
-"9561PW",6,"",""
-"9561PW",24,"",""
-"9561PW",26,"",""
-"9561PW",38,"",""
-"9561PW",18,"",""
-"9561PW",10,"",""
-"9561PW",14,"",""
-"9561PW",36,"",""
-"9561PW",32,"",""
-"9561PW",22,"",""
-9561NC,Barnflair West,1,,
-9561NC,Barnflair West,2,a,
-9561NC,Barnflair West,2,,
-9561NC,Barnflair West,3,,
-9561NC,Barnflair West,4,,
-9561NC,Barnflair West,5,,
-9561NC,Barnflair West,7,,
-9561NC,Barnflair West,9,,
-9561NC,Barnflair West,10,,
-9561NC,Barnflair West,11,,
-9561NC,Barnflair West,13,,
-9561NC,Barnflair West,14,,
-9561NC,Barnflair West,15,,
-9561NC,Barnflair West,17,,
-9561NC,Barnflair West,18,,
-9561NC,Barnflair West,19,,
-9561NC,Barnflair West,10,,
-9561NC,Barnflair West,11,,
-9561ND,Barnflair West,20,,
-9561ND,Barnflair West,21,,
-9561ND,Barnflair West,23,,
-9561ND,Barnflair West,27,,
-9561ND,Barnflair West,28,,
-9561ND,Barnflair West,31,,
-9561ND,Barnflair West,32,,
-9561ND,Barnflair West,34,,
-9561ND,Barnflair West,35,,
-9561ND,Barnflair West,37,,
-9561ND,Barnflair West,41,,
-9561PM,Brugstraat,1,,
-9561PM,Brugstraat,4,,
-9561PM,Brugstraat,6,,
-9561PM,Brugstraat,9,,TRAF
-9561PM,Brugstraat,9,,
-9561PM,Brugstraat,11,,
-9561PM,Brugstraat,12,,
-9561PM,Brugstraat,14,,
-9561PM,Brugstraat,17,,
-9561PM,Brugstraat,20,,
-9561PM,Brugstraat,23,,
-9561PM,Brugstraat,26,,
-9561PN,Munnekedijk,1,,
-9561PN,Munnekedijk,3,,
-9561PN,Munnekedijk,5,,
-9561PN,Munnekedijk,6,,
-9561PN,Munnekedijk,7,,
-9561PN,Munnekedijk,8,,
-9561PN,Munnekedijk,9,,
-9561PN,Munnekedijk,10,,
-9561PN,Munnekedijk,11,,
-9561PN,Munnekedijk,12,,
-9561PN,Munnekedijk,13,,
-9561PN,Munnekedijk,14,,
-9561PN,Munnekedijk,15,,
-9561PN,Munnekedijk,16,,
-9561PN,Munnekedijk,17,,
-9561PN,Munnekedijk,18,,
-9561PN,Munnekedijk,19,,
-9561PN,Munnekedijk,20,,
-9561PN,Munnekedijk,21,,
-9561PN,Munnekedijk,22,,
-9561PN,Munnekedijk,23,,
-9561PP,Oude A straat,5,,
-9561PP,Oude A straat,7,,
-9561PP,Oude A straat,9,,
-9561PP,Oude A straat,11,,
-9561PP,Oude A straat,13,,
-9561PP,Oude A straat,15,,
-9561PP,Oude A straat,17,,
-9561PP,Oude A straat,19,,
-9561PP,Oude A straat,21,,
-9561PP,Oude A straat,23,,
-9561PP,Oude A straat,25,,
-9561PP,Oude A straat,27,,
-9561PP,Oude A straat,29,,
-9561PP,Oude A straat,31,,
-9561PP,Oude A straat,33,,
-9561PP,Oude A straat,35,,
-9561PP,Oude A straat,37,,
-9561PR,Oude A straat,10,,
-9561PR,Oude A straat,12,,
-9561PR,Oude A straat,18,,
-9561PR,Oude A straat,20,,
-9561PR,Oude A straat,26,,
-9561PS,Rundestraat,1,,
-9561PS,Rundestraat,3,,
-9561PS,Rundestraat,5,,
-9561PS,Rundestraat,7,,
-9561PS,Rundestraat,9,,
-9561PS,Rundestraat,11,,
-9561PS,Rundestraat,13,,
-9561PS,Rundestraat,15,,
-9561PS,Rundestraat,17,,
-9561PS,Rundestraat,19,,
-9561PS,Rundestraat,21,,
-9561PS,Rundestraat,23,,
-9561PS,Rundestraat,25,,
-9561PS,Rundestraat,27,,
-9561PS,Rundestraat,29,,
-9561PS,Rundestraat,31,,
-9561PS,Rundestraat,33,,
-9561PS,Rundestraat,35,,
-9561PS,Rundestraat,37,,
-9561PS,Rundestraat,39,,
-9561PS,Rundestraat,41,,
-9561PS,Rundestraat,43,,
-9561PS,Rundestraat,45,,
-9561PS,Rundestraat,47,,
-9561PT,Rundestraat,2,,
-9561PT,Rundestraat,4,,
-9561PT,Rundestraat,6,,
-9561PT,Rundestraat,8,,
-9561PT,Rundestraat,10,,
-9561PT,Rundestraat,12,,
-9561PT,Rundestraat,14,,
-9561PT,Rundestraat,16,,
-9561PT,Rundestraat,18,,
-9561PT,Rundestraat,20,,
-9561PT,Rundestraat,22,,
-9561PT,Rundestraat,24,,
-9561PT,Rundestraat,26,,
-9561PT,Rundestraat,28,,
-9561PT,Rundestraat,30,,
-9561PT,Rundestraat,32,,
-9561PT,Rundestraat,34,,
-9561PT,Rundestraat,36,,
-9561PT,Rundestraat,38,,
-9561PT,Rundestraat,40,,
-9561PT,Rundestraat,42,,
-9561PT,Rundestraat,44,,
-9561PT,Rundestraat,46,,
-9561PV,Sluisstraat,1,,
-9561PV,Sluisstraat,3,,
-9561PV,Sluisstraat,5,,
-9561PV,Sluisstraat,7,,
-9561PV,Sluisstraat,9,,
-9561PV,Sluisstraat,11,,
-9561PV,Sluisstraat,13,,
-9561PV,Sluisstraat,15,,
-9561PV,Sluisstraat,17,,
-9561PV,Sluisstraat,19,,
-9561PV,Sluisstraat,25,,
-9561PV,Sluisstraat,27,,
-9561PV,Sluisstraat,29,,
-9561PV,Sluisstraat,31,,
-9561PV,Sluisstraat,33,,
-9561PV,Sluisstraat,35,,
-9561PV,Sluisstraat,37,,
-9561PV,Sluisstraat,39,,
-9561PW,Sluisstraat,2,,
-9561PW,Sluisstraat,4,,
-9561PW,Sluisstraat,6,,
-9561PW,Sluisstraat,8,,
-9561PW,Sluisstraat,10,,
-9561PW,Sluisstraat,12,,
-9561PW,Sluisstraat,14,,
-9561PW,Sluisstraat,16,,
-9561PW,Sluisstraat,18,,
-9561PW,Sluisstraat,20,,
-9561PW,Sluisstraat,22,,
-9561PW,Sluisstraat,24,,
-9561PW,Sluisstraat,26,,
-9561PW,Sluisstraat,28,,
-9561PW,Sluisstraat,30,,
-9561PW,Sluisstraat,32,,
-9561PW,Sluisstraat,36,,
-9561PW,Sluisstraat,38,,
-9561NB,Verlengde Oosterkade,1,,
-9561NB,Verlengde Oosterkade,2,,
-9561NB,Verlengde Oosterkade,3,,
-9561NB,Verlengde Oosterkade,4,,
-9561NB,Verlengde Oosterkade,5,,
-9561NB,Verlengde Oosterkade,6,,
-9561NB,Verlengde Oosterkade,7,,
-9561NB,Verlengde Oosterkade,8,,
-9561NB,Verlengde Oosterkade,9,,
-9561NB,Verlengde Oosterkade,10,,
-9561NB,Verlengde Oosterkade,11,,
-9561NB,Verlengde Oosterkade,12,,
-9561NB,Verlengde Oosterkade,13,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Verlengde Oosterkade,1,"","",9561NB,Ter Apel
+Verlengde Oosterkade,10,"","",9561NB,Ter Apel
+Verlengde Oosterkade,11,"","",9561NB,Ter Apel
+Verlengde Oosterkade,12,"","",9561NB,Ter Apel
+Verlengde Oosterkade,13,"","",9561NB,Ter Apel
+Verlengde Oosterkade,2,"","",9561NB,Ter Apel
+Verlengde Oosterkade,3,"","",9561NB,Ter Apel
+Verlengde Oosterkade,4,"","",9561NB,Ter Apel
+Verlengde Oosterkade,5,"","",9561NB,Ter Apel
+Verlengde Oosterkade,6,"","",9561NB,Ter Apel
+Verlengde Oosterkade,7,"","",9561NB,Ter Apel
+Verlengde Oosterkade,8,"","",9561NB,Ter Apel
+Verlengde Oosterkade,9,"","",9561NB,Ter Apel
+Barnflair West,1,"","",9561NC,Ter Apel
+Barnflair West,10,"","",9561NC,Ter Apel
+Barnflair West,10,"","",9561NC,Ter Apel
+Barnflair West,10,"","",9561NC,Ter Apel
+Barnflair West,11,"","",9561NC,Ter Apel
+Barnflair West,11,"","",9561NC,Ter Apel
+Barnflair West,11,"","",9561NC,Ter Apel
+Barnflair West,13,"","",9561NC,Ter Apel
+Barnflair West,14,"","",9561NC,Ter Apel
+Barnflair West,15,"","",9561NC,Ter Apel
+Barnflair West,17,"","",9561NC,Ter Apel
+Barnflair West,18,"","",9561NC,Ter Apel
+Barnflair West,19,"","",9561NC,Ter Apel
+Barnflair West,2,"","",9561NC,Ter Apel
+Barnflair West,2,A,"",9561NC,Ter Apel
+Barnflair West,3,"","",9561NC,Ter Apel
+Barnflair West,4,"","",9561NC,Ter Apel
+Barnflair West,5,"","",9561NC,Ter Apel
+Barnflair West,7,"","",9561NC,Ter Apel
+Barnflair West,9,"","",9561NC,Ter Apel
+Barnflair West,20,"","",9561ND,Ter Apel
+Barnflair West,21,"","",9561ND,Ter Apel
+Barnflair West,23,"","",9561ND,Ter Apel
+Barnflair West,27,"","",9561ND,Ter Apel
+Barnflair West,28,"","",9561ND,Ter Apel
+Barnflair West,31,"","",9561ND,Ter Apel
+Barnflair West,32,"","",9561ND,Ter Apel
+Barnflair West,34,"","",9561ND,Ter Apel
+Barnflair West,35,"","",9561ND,Ter Apel
+Barnflair West,37,"","",9561ND,Ter Apel
+Barnflair West,41,"","",9561ND,Ter Apel
+Brugstraat,1,"","",9561PM,Ter Apel
+Brugstraat,11,"","",9561PM,Ter Apel
+Brugstraat,12,"","",9561PM,Ter Apel
+Brugstraat,14,"","",9561PM,Ter Apel
+Brugstraat,17,"","",9561PM,Ter Apel
+Brugstraat,20,"","",9561PM,Ter Apel
+Brugstraat,23,"","",9561PM,Ter Apel
+Brugstraat,26,"","",9561PM,Ter Apel
+Brugstraat,4,"","",9561PM,Ter Apel
+Brugstraat,6,"","",9561PM,Ter Apel
+Brugstraat,9,"","",9561PM,Ter Apel
+Brugstraat,9,"",TRAF,9561PM,Ter Apel
+Munnekedijk,1,"","",9561PN,Ter Apel
+Munnekedijk,10,"","",9561PN,Ter Apel
+Munnekedijk,11,"","",9561PN,Ter Apel
+Munnekedijk,12,"","",9561PN,Ter Apel
+Munnekedijk,13,"","",9561PN,Ter Apel
+Munnekedijk,14,"","",9561PN,Ter Apel
+Munnekedijk,15,"","",9561PN,Ter Apel
+Munnekedijk,16,"","",9561PN,Ter Apel
+Munnekedijk,17,"","",9561PN,Ter Apel
+Munnekedijk,18,"","",9561PN,Ter Apel
+Munnekedijk,19,"","",9561PN,Ter Apel
+Munnekedijk,20,"","",9561PN,Ter Apel
+Munnekedijk,21,"","",9561PN,Ter Apel
+Munnekedijk,22,"","",9561PN,Ter Apel
+Munnekedijk,23,"","",9561PN,Ter Apel
+Munnekedijk,3,"","",9561PN,Ter Apel
+Munnekedijk,5,"","",9561PN,Ter Apel
+Munnekedijk,6,"","",9561PN,Ter Apel
+Munnekedijk,7,"","",9561PN,Ter Apel
+Munnekedijk,8,"","",9561PN,Ter Apel
+Munnekedijk,9,"","",9561PN,Ter Apel
+Oude A straat,11,"","",9561PP,Ter Apel
+Oude A straat,13,"","",9561PP,Ter Apel
+Oude A straat,15,"","",9561PP,Ter Apel
+Oude A straat,17,"","",9561PP,Ter Apel
+Oude A straat,19,"","",9561PP,Ter Apel
+Oude A straat,21,"","",9561PP,Ter Apel
+Oude A straat,23,"","",9561PP,Ter Apel
+Oude A straat,25,"","",9561PP,Ter Apel
+Oude A straat,27,"","",9561PP,Ter Apel
+Oude A straat,29,"","",9561PP,Ter Apel
+Oude A straat,31,"","",9561PP,Ter Apel
+Oude A straat,33,"","",9561PP,Ter Apel
+Oude A straat,35,"","",9561PP,Ter Apel
+Oude A straat,37,"","",9561PP,Ter Apel
+Oude A straat,5,"","",9561PP,Ter Apel
+Oude A straat,7,"","",9561PP,Ter Apel
+Oude A straat,9,"","",9561PP,Ter Apel
+Oude A straat,10,"","",9561PR,Ter Apel
+Oude A straat,12,"","",9561PR,Ter Apel
+Oude A straat,18,"","",9561PR,Ter Apel
+Oude A straat,20,"","",9561PR,Ter Apel
+Oude A straat,26,"","",9561PR,Ter Apel
+Rundestraat,1,"","",9561PS,Ter Apel
+Rundestraat,11,"","",9561PS,Ter Apel
+Rundestraat,13,"","",9561PS,Ter Apel
+Rundestraat,15,"","",9561PS,Ter Apel
+Rundestraat,17,"","",9561PS,Ter Apel
+Rundestraat,19,"","",9561PS,Ter Apel
+Rundestraat,21,"","",9561PS,Ter Apel
+Rundestraat,23,"","",9561PS,Ter Apel
+Rundestraat,25,"","",9561PS,Ter Apel
+Rundestraat,27,"","",9561PS,Ter Apel
+Rundestraat,29,"","",9561PS,Ter Apel
+Rundestraat,3,"","",9561PS,Ter Apel
+Rundestraat,31,"","",9561PS,Ter Apel
+Rundestraat,33,"","",9561PS,Ter Apel
+Rundestraat,35,"","",9561PS,Ter Apel
+Rundestraat,37,"","",9561PS,Ter Apel
+Rundestraat,39,"","",9561PS,Ter Apel
+Rundestraat,41,"","",9561PS,Ter Apel
+Rundestraat,43,"","",9561PS,Ter Apel
+Rundestraat,45,"","",9561PS,Ter Apel
+Rundestraat,47,"","",9561PS,Ter Apel
+Rundestraat,5,"","",9561PS,Ter Apel
+Rundestraat,7,"","",9561PS,Ter Apel
+Rundestraat,9,"","",9561PS,Ter Apel
+Rundestraat,10,"","",9561PT,Ter Apel
+Rundestraat,12,"","",9561PT,Ter Apel
+Rundestraat,14,"","",9561PT,Ter Apel
+Rundestraat,16,"","",9561PT,Ter Apel
+Rundestraat,18,"","",9561PT,Ter Apel
+Rundestraat,2,"","",9561PT,Ter Apel
+Rundestraat,20,"","",9561PT,Ter Apel
+Rundestraat,22,"","",9561PT,Ter Apel
+Rundestraat,24,"","",9561PT,Ter Apel
+Rundestraat,26,"","",9561PT,Ter Apel
+Rundestraat,28,"","",9561PT,Ter Apel
+Rundestraat,30,"","",9561PT,Ter Apel
+Rundestraat,32,"","",9561PT,Ter Apel
+Rundestraat,34,"","",9561PT,Ter Apel
+Rundestraat,36,"","",9561PT,Ter Apel
+Rundestraat,38,"","",9561PT,Ter Apel
+Rundestraat,4,"","",9561PT,Ter Apel
+Rundestraat,40,"","",9561PT,Ter Apel
+Rundestraat,42,"","",9561PT,Ter Apel
+Rundestraat,44,"","",9561PT,Ter Apel
+Rundestraat,46,"","",9561PT,Ter Apel
+Rundestraat,6,"","",9561PT,Ter Apel
+Rundestraat,8,"","",9561PT,Ter Apel
+Sluisstraat,1,"","",9561PV,Ter Apel
+Sluisstraat,11,"","",9561PV,Ter Apel
+Sluisstraat,13,"","",9561PV,Ter Apel
+Sluisstraat,15,"","",9561PV,Ter Apel
+Sluisstraat,17,"","",9561PV,Ter Apel
+Sluisstraat,19,"","",9561PV,Ter Apel
+Sluisstraat,25,"","",9561PV,Ter Apel
+Sluisstraat,27,"","",9561PV,Ter Apel
+Sluisstraat,29,"","",9561PV,Ter Apel
+Sluisstraat,3,"","",9561PV,Ter Apel
+Sluisstraat,31,"","",9561PV,Ter Apel
+Sluisstraat,33,"","",9561PV,Ter Apel
+Sluisstraat,35,"","",9561PV,Ter Apel
+Sluisstraat,37,"","",9561PV,Ter Apel
+Sluisstraat,39,"","",9561PV,Ter Apel
+Sluisstraat,5,"","",9561PV,Ter Apel
+Sluisstraat,7,"","",9561PV,Ter Apel
+Sluisstraat,9,"","",9561PV,Ter Apel
+Sluisstraat,10,"","",9561PW,Ter Apel
+Sluisstraat,12,"","",9561PW,Ter Apel
+Sluisstraat,14,"","",9561PW,Ter Apel
+Sluisstraat,16,"","",9561PW,Ter Apel
+Sluisstraat,18,"","",9561PW,Ter Apel
+Sluisstraat,2,"","",9561PW,Ter Apel
+Sluisstraat,20,"","",9561PW,Ter Apel
+Sluisstraat,22,"","",9561PW,Ter Apel
+Sluisstraat,24,"","",9561PW,Ter Apel
+Sluisstraat,26,"","",9561PW,Ter Apel
+Sluisstraat,28,"","",9561PW,Ter Apel
+Sluisstraat,30,"","",9561PW,Ter Apel
+Sluisstraat,32,"","",9561PW,Ter Apel
+Sluisstraat,36,"","",9561PW,Ter Apel
+Sluisstraat,38,"","",9561PW,Ter Apel
+Sluisstraat,4,"","",9561PW,Ter Apel
+Sluisstraat,6,"","",9561PW,Ter Apel
+Sluisstraat,8,"","",9561PW,Ter Apel

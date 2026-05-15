@@ -1,69 +1,69 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4931NC,Amerweg,1,,
-4931NC,Amerweg,15,,
-4931RG,Ambrosius Rozendaelstraat,54,,
-4931RG,Ambrosius Rozendaelstraat,56,,
-4931RG,Ambrosius Rozendaelstraat,58,,
-4931RG,Ambrosius Rozendaelstraat,60,,
-4931RG,Ambrosius Rozendaelstraat,62,,
-4931RG,Ambrosius Rozendaelstraat,76,,
-4931RG,Ambrosius Rozendaelstraat,78,,
-4931RG,Ambrosius Rozendaelstraat,80,,
-4931RG,Ambrosius Rozendaelstraat,82,,
-4931RG,Ambrosius Rozendaelstraat,84,,
-4931RG,Ambrosius Rozendaelstraat,86,,
-4931RG,Ambrosius Rozendaelstraat,88,,
-4931RG,Ambrosius Rozendaelstraat,90,,
-4931RG,Ambrosius Rozendaelstraat,92,,
-4931RG,Ambrosius Rozendaelstraat,94,,
-4931AA,Rivierkade,1,,
-4931AA,Rivierkade,10,,
-4931AA,Rivierkade,11,,
-4931AA,Rivierkade,12,,
-4931AA,Rivierkade,12,a,
-4931AA,Rivierkade,2,b,
-4931AA,Rivierkade,2,c,
-4931AA,Rivierkade,3,,
-4931AA,Rivierkade,3,a,
-4931AA,Rivierkade,4,,
-4931AA,Rivierkade,6,,
-4931AA,Rivierkade,7,,
-4931AA,Rivierkade,8,,
-4931AA,Rivierkade,9,,
-4931AA,Rivierkade,9,a,
-4931AA,Rivierkade,4,a,
-4931AA,Rivierkade,4,b,
-4931AA,Rivierkade,5,a,
-4931AA,Rivierkade,5,b,
-4931AA,Rivierkade,5,b,
-4931AA,Rivierkade,5,b,
-4931KB,Statenlaan,11,,
-4931KB,Statenlaan,21,,
-4931KB,Statenlaan,23,,
-4931KB,Statenlaan,25,,
-4931KB,Statenlaan,27,,
-4931KB,Statenlaan,29,,
-4931KB,Statenlaan,3,,
-4931KB,Statenlaan,31,,
-4931KB,Statenlaan,33,,
-4931KB,Statenlaan,35,,
-4931KB,Statenlaan,7,,
-4931KB,Timmerstee-kade,101,,
-4931KB,Lunet,1,,
-4931NC,Amerweg,15,a,
-4931AA,Rivierkade,6,a,
-4931AA,Rivierkade,5,,
-4931AA,Rivierkade,5,a,
-4931AA,Rivierkade,5,a,
-4931AA,Rivierkade,11,a,
-4931AA,Rivierkade,7,,
-4931AA,Rivierkade,5,,
-4931AA,Rivierkade,9,b,
-4931AA,Rivierkade,1,a,
-4931AA,Rivierkade,9,c,
-4931KB,Statenlaan,15,,
-4931KB,Statenlaan,5,,
-4931KB,Statenlaan,1,,
-4931KB,Statenlaan,13,,
-4931KB,Statenlaan,13,a,
-4931RG,Ambrosius Rozendaelstraat,64,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Rivierkade,1,"","",4931AA,Geertruidenberg
+Rivierkade,1,A,"",4931AA,Geertruidenberg
+Rivierkade,10,"","",4931AA,Geertruidenberg
+Rivierkade,11,"","",4931AA,Geertruidenberg
+Rivierkade,11,A,"",4931AA,Geertruidenberg
+Rivierkade,12,"","",4931AA,Geertruidenberg
+Rivierkade,12,A,"",4931AA,Geertruidenberg
+Rivierkade,2,B,"",4931AA,Geertruidenberg
+Rivierkade,2,C,"",4931AA,Geertruidenberg
+Rivierkade,3,"","",4931AA,Geertruidenberg
+Rivierkade,3,A,"",4931AA,Geertruidenberg
+Rivierkade,4,"","",4931AA,Geertruidenberg
+Rivierkade,4,A,"",4931AA,Geertruidenberg
+Rivierkade,4,B,"",4931AA,Geertruidenberg
+Rivierkade,5,"","",4931AA,Geertruidenberg
+Rivierkade,5,"","",4931AA,Geertruidenberg
+Rivierkade,5,A,"",4931AA,Geertruidenberg
+Rivierkade,5,A,"",4931AA,Geertruidenberg
+Rivierkade,5,A,"",4931AA,Geertruidenberg
+Rivierkade,5,B,"",4931AA,Geertruidenberg
+Rivierkade,5,B,"",4931AA,Geertruidenberg
+Rivierkade,5,B,"",4931AA,Geertruidenberg
+Rivierkade,6,"","",4931AA,Geertruidenberg
+Rivierkade,6,A,"",4931AA,Geertruidenberg
+Rivierkade,7,"","",4931AA,Geertruidenberg
+Rivierkade,7,"","",4931AA,Geertruidenberg
+Rivierkade,8,"","",4931AA,Geertruidenberg
+Rivierkade,9,"","",4931AA,Geertruidenberg
+Rivierkade,9,A,"",4931AA,Geertruidenberg
+Rivierkade,9,B,"",4931AA,Geertruidenberg
+Rivierkade,9,C,"",4931AA,Geertruidenberg
+Lunet,1,"","",4931KB,Raamsdonksveer
+Lunet,1,"","",4931KB,Raamsdonksveer
+Timmerstee-kade,101,"","",4931KB,Geertruidenberg
+Statenlaan,11,"","",4931KB,Geertruidenberg
+Statenlaan,13,"","",4931KB,Geertruidenberg
+Statenlaan,13,A,"",4931KB,Geertruidenberg
+Statenlaan,15,"","",4931KB,Geertruidenberg
+Statenlaan,21,"","",4931KB,Geertruidenberg
+Statenlaan,23,"","",4931KB,Geertruidenberg
+Statenlaan,25,"","",4931KB,Geertruidenberg
+Statenlaan,27,"","",4931KB,Geertruidenberg
+Statenlaan,29,"","",4931KB,Geertruidenberg
+Statenlaan,3,"","",4931KB,Geertruidenberg
+Statenlaan,31,"","",4931KB,Geertruidenberg
+Statenlaan,33,"","",4931KB,Geertruidenberg
+Statenlaan,35,"","",4931KB,Geertruidenberg
+Statenlaan,5,"","",4931KB,Geertruidenberg
+Statenlaan,7,"","",4931KB,Geertruidenberg
+Amerweg,1,"","",4931NC,Geertruidenberg
+Amerweg,15,"","",4931NC,Geertruidenberg
+Amerweg,15,A,"",4931NC,Geertruidenberg
+Ambrosius Rozendaelstraat,54,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,56,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,58,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,60,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,62,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,64,A,"",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,76,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,78,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,80,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,82,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,84,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,86,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,88,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,90,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,92,"","",4931RG,Geertruidenberg
+Ambrosius Rozendaelstraat,94,"","",4931RG,Geertruidenberg

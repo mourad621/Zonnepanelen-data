@@ -1,770 +1,388 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8395PA",14,"",""
-"8395PA",15,"",""
-"8395PA",8,"",""
-"8395PA",16,"",""
-"8395PA",13,"",""
-"8395PA",12,"",""
-"8395PA",9,"",""
-"8395PA",11,"",""
-"8395PA",5,"",""
-"8395PA",6,"",""
-"8395PA",4,"",""
-"8395PA",7,"",""
-"8395PA",2,"",""
-"8395PA",10,"",""
-"8395PB",37,"",""
-"8395PB",69,"",""
-"8395PB",55,"",""
-"8395PB",39,"",""
-"8395PB",49,"",""
-"8395PB",73,"",""
-"8395PB",63,"A",""
-"8395PB",43,"",""
-"8395PB",51,"",""
-"8395PB",41,"",""
-"8395PB",53,"",""
-"8395PB",45,"",""
-"8395PB",47,"",""
-"8395PB",57,"",""
-"8395PB",65,"",""
-"8395PB",61,"",""
-"8395PB",59,"",""
-"8395PB",65,"","TR01"
-"8395PB",77,"",""
-"8395PB",47,"A",""
-"8395PB",63,"",""
-"8395PC",111,"",""
-"8395PC",91,"",""
-"8395PC",103,"",""
-"8395PC",97,"",""
-"8395PC",85,"",""
-"8395PC",101,"",""
-"8395PC",107,"",""
-"8395PC",95,"",""
-"8395PC",81,"",""
-"8395PC",89,"",""
-"8395PC",115,"",""
-"8395PC",83,"",""
-"8395PC",99,"",""
-"8395PC",93,"",""
-"8395PD",44,"",""
-"8395PD",48,"",""
-"8395PD",52,"A",""
-"8395PD",54,"A",""
-"8395PD",50,"",""
-"8395PD",54,"",""
-"8395PD",38,"",""
-"8395PD",44,"A",""
-"8395PD",42,"",""
-"8395PD",42,"A",""
-"8395PD",48,"A",""
-"8395PD",40,"",""
-"8395PD",48,"B",""
-"8395PD",46,"",""
-"8395PD",52,"",""
-"8395PE",74,"",""
-"8395PE",92,"",""
-"8395PE",72,"",""
-"8395PE",64,"",""
-"8395PE",64,"B",""
-"8395PE",56,"",""
-"8395PE",62,"",""
-"8395PE",64,"A",""
-"8395PE",70,"",""
-"8395PE",56,"",""
-"8395PE",60,"",""
-"8395PE",78,"",""
-"8395PE",94,"",""
-"8395PE",56,"",""
-"8395PE",88,"",""
-"8395PE",80,"",""
-"8395PE",74,"","TR01"
-"8395PE",66,"",""
-"8395PE",66,"",""
-"8395PE",66,"",""
-"8395PE",82,"",""
-"8395PE",84,"",""
-"8395PE",86,"",""
-"8395PE",68,"",""
-"8395PG",140,"",""
-"8395PG",112,"",""
-"8395PG",114,"",""
-"8395PG",130,"",""
-"8395PG",118,"",""
-"8395PG",138,"",""
-"8395PG",122,"",""
-"8395PG",134,"",""
-"8395PG",144,"",""
-"8395PG",116,"",""
-"8395PG",146,"",""
-"8395PG",98,"",""
-"8395PG",120,"",""
-"8395PG",148,"",""
-"8395PG",144,"",""
-"8395PG",148,"",""
-"8395PG",152,"",""
-"8395PG",146,"",""
-"8395PG",128,"",""
-"8395PG",154,"",""
-"8395PG",96,"",""
-"8395PG",144,"",""
-"8395PG",142,"",""
-"8395PG",124,"",""
-"8395PG",146,"",""
-"8395PG",110,"",""
-"8395PG",148,"",""
-"8395PG",150,"",""
-"8395PG",108,"",""
-"8395PH",21,"",""
-"8395PH",19,"",""
-"8395PH",7,"",""
-"8395PH",31,"","BEDR"
-"8395PH",15,"",""
-"8395PH",19,"A",""
-"8395PH",11,"",""
-"8395PH",3,"",""
-"8395PH",1,"",""
-"8395PH",17,"",""
-"8395PH",17,"A",""
-"8395PH",9,"",""
-"8395PH",29,"",""
-"8395PH",5,"",""
-"8395PH",31,"",""
-"8395PH",27,"",""
-"8395PM",10,"",""
-"8395PM",6,"",""
-"8395PM",8,"",""
-"8395PM",4,"",""
-"8395PM",12,"",""
-"8395PM",14,"",""
-"8395PM",4,"",""
-"8395PM",2,"",""
-"8395PN",36,"",""
-"8395PN",28,"A",""
-"8395PN",34,"",""
-"8395PN",38,"",""
-"8395PN",46,"",""
-"8395PN",50,"",""
-"8395PN",48,"",""
-"8395PN",62,"",""
-"8395PN",90,"",""
-"8395PN",72,"",""
-"8395PN",90,"","TR01"
-"8395PN",24,"",""
-"8395PN",20,"",""
-"8395PN",28,"",""
-"8395PN",88,"",""
-"8395PN",60,"",""
-"8395PN",76,"",""
-"8395PN",70,"",""
-"8395PN",22,"",""
-"8395PN",54,"",""
-"8395PN",84,"",""
-"8395PN",26,"",""
-"8395PN",74,"",""
-"8395PN",96,"",""
-"8395PN",86,"",""
-"8395PS",2,"",""
-"8395PS",20,"",""
-"8395PS",2,"",""
-"8395PS",14,"",""
-"8395PS",22,"",""
-"8395PS",10,"",""
-"8395PS",14,"","TR01"
-"8395PS",8,"",""
-"8395PS",4,"",""
-"8395PS",6,"",""
-"8395PT",1,"",""
-"8395PT",3,"",""
-"8395PT",5,"",""
-"8395PT",9,"",""
-"8395PT",7,"",""
-"8395PV",26,"",""
-"8395PV",4,"",""
-"8395PV",32,"",""
-"8395PV",12,"",""
-"8395PV",10,"",""
-"8395PV",30,"",""
-"8395PV",14,"",""
-"8395PV",20,"A",""
-"8395PV",18,"",""
-"8395PV",24,"",""
-"8395PV",2,"",""
-"8395PV",16,"",""
-"8395PV",28,"",""
-"8395PV",6,"",""
-"8395PV",44,"",""
-"8395PV",38,"",""
-"8395PV",8,"",""
-"8395PV",34,"",""
-"8395PV",40,"",""
-"8395PV",22,"",""
-"8395PV",42,"",""
-"8395PV",36,"",""
-"8395PV",20,"",""
-"8395PW",13,"",""
-"8395PW",12,"",""
-"8395PW",2,"A",""
-"8395PW",7,"",""
-"8395PW",17,"",""
-"8395PW",8,"",""
-"8395PW",2,"",""
-"8395PW",15,"",""
-"8395PW",18,"",""
-"8395PW",14,"",""
-"8395PW",11,"",""
-"8395PW",24,"",""
-"8395PW",20,"",""
-"8395PW",22,"",""
-"8395PW",5,"",""
-"8395PW",9,"",""
-"8395PW",4,"",""
-"8395PW",6,"",""
-"8395PW",3,"",""
-"8395PW",16,"",""
-"8395PW",1,"",""
-"8395PW",10,"",""
-"8395PW",2,"B",""
-"8395PX",25,"",""
-"8395PX",15,"",""
-"8395PX",34,"",""
-"8395PX",22,"",""
-"8395PX",18,"",""
-"8395PX",28,"",""
-"8395PX",3,"",""
-"8395PX",2,"",""
-"8395PX",23,"",""
-"8395PX",26,"",""
-"8395PX",21,"",""
-"8395PX",27,"",""
-"8395PX",24,"",""
-"8395PX",31,"",""
-"8395PX",13,"",""
-"8395PX",29,"",""
-"8395PX",11,"",""
-"8395PX",32,"",""
-"8395PX",20,"",""
-"8395PX",30,"",""
-"8395PX",5,"",""
-"8395PX",19,"",""
-"8395PX",14,"",""
-"8395PX",6,"",""
-"8395PX",17,"",""
-"8395PX",3,"","TR01"
-"8395PX",7,"",""
-"8395PX",16,"",""
-"8395PX",2,"","BEDR"
-"8395PZ",7,"",""
-"8395PZ",13,"",""
-"8395PZ",21,"",""
-"8395PZ",17,"",""
-"8395PZ",25,"",""
-"8395PZ",9,"",""
-"8395PZ",11,"",""
-"8395PZ",19,"",""
-"8395PZ",23,"",""
-"8395PZ",15,"",""
-"8395PZ",5,"",""
-"8395PZ",27,"",""
-"8395RA",26,"",""
-"8395RA",12,"",""
-"8395RA",6,"",""
-"8395RA",10,"",""
-"8395RA",14,"",""
-"8395RA",18,"",""
-"8395RA",24,"",""
-"8395RA",8,"",""
-"8395RA",30,"",""
-"8395RA",2,"",""
-"8395RA",16,"",""
-"8395RA",28,"",""
-"8395RA",4,"",""
-"8395RA",20,"",""
-"8395RA",22,"",""
-"8395RA",32,"",""
-"8395RB",39,"",""
-"8395RB",5,"",""
-"8395RB",9,"",""
-"8395RB",11,"",""
-"8395RB",31,"",""
-"8395RB",49,"",""
-"8395RB",21,"",""
-"8395RB",25,"",""
-"8395RB",35,"",""
-"8395RB",23,"",""
-"8395RB",1,"",""
-"8395RB",45,"",""
-"8395RB",47,"",""
-"8395RB",27,"",""
-"8395RB",49,"","TR01"
-"8395RB",33,"",""
-"8395RB",41,"",""
-"8395RB",37,"",""
-"8395RB",7,"",""
-"8395RB",29,"",""
-"8395RB",55,"",""
-"8395RB",43,"",""
-"8395RC",3,"",""
-"8395RC",1,"",""
-"8395RC",10,"",""
-"8395RC",7,"",""
-"8395RC",15,"",""
-"8395RC",2,"",""
-"8395RC",8,"",""
-"8395RC",5,"",""
-"8395RC",13,"",""
-"8395RC",6,"",""
-"8395RC",12,"",""
-"8395RC",144,"",""
-"8395RC",148,"",""
-"8395RC",9,"",""
-"8395RC",11,"",""
-"8395RC",146,"",""
-"8395RC",17,"",""
-"8395RC",4,"",""
-"8395TE",11,"",""
-"8395TE",15,"",""
-"8395TE",17,"",""
-"8395TE",12,"",""
-"8395TE",8,"",""
-"8395TE",7,"",""
-"8395TE",21,"",""
-"8395TE",18,"",""
-"8395TE",20,"",""
-"8395TE",10,"",""
-"8395TE",4,"",""
-"8395TE",19,"",""
-"8395TE",6,"",""
-"8395TE",13,"",""
-"8395TE",9,"",""
-"8395TE",16,"",""
-"8395TH",27,"","TR01"
-"8395TH",38,"",""
-"8395TH",28,"",""
-"8395TH",1,"",""
-"8395TH",19,"",""
-"8395TH",16,"",""
-"8395TH",18,"",""
-"8395TH",11,"",""
-"8395TH",40,"",""
-"8395TH",6,"",""
-"8395TH",36,"",""
-"8395TH",27,"",""
-"8395TH",11,"","TR01"
-"8395TH",23,"",""
-"8395TH",46,"",""
-"8395TH",20,"",""
-"8395TH",42,"",""
-"8395TH",25,"",""
-"8395TH",4,"","TR01"
-"8395TH",4,"",""
-"8395TH",13,"",""
-"8395TH",10,"",""
-"8395TH",15,"",""
-"8395TH",44,"",""
-"8395TH",8,"",""
-"8395TH",12,"",""
-"8395TH",21,"",""
-"8395TH",9,"",""
-"8395TH",14,"",""
-"8395TM",15,"",""
-"8395TM",9,"",""
-"8395TM",3,"",""
-"8395TM",19,"",""
-"8395TM",7,"",""
-"8395TM",13,"",""
-"8395TM",5,"",""
-"8395TM",11,"",""
-"8395TM",17,"",""
-"8395TN",12,"",""
-"8395TN",24,"",""
-"8395TN",14,"",""
-"8395TN",26,"",""
-"8395TN",22,"",""
-"8395TN",20,"",""
-"8395TN",18,"",""
-"8395TN",16,"",""
-"8395TN",30,"",""
-8395PW,Cornelis Westerveldstraat,1,,
-8395PW,Cornelis Westerveldstraat,10,,
-8395PW,Cornelis Westerveldstraat,11,,
-8395PW,Cornelis Westerveldstraat,12,,
-8395PW,Cornelis Westerveldstraat,13,,
-8395PW,Cornelis Westerveldstraat,14,,
-8395PW,Cornelis Westerveldstraat,15,,
-8395PW,Cornelis Westerveldstraat,16,,
-8395PW,Cornelis Westerveldstraat,17,,
-8395PW,Cornelis Westerveldstraat,18,,
-8395PW,Cornelis Westerveldstraat,2,,
-8395PW,Cornelis Westerveldstraat,2,A,
-8395PW,Cornelis Westerveldstraat,2,B,
-8395PW,Cornelis Westerveldstraat,20,,
-8395PW,Cornelis Westerveldstraat,22,,
-8395PW,Cornelis Westerveldstraat,24,,
-8395PW,Cornelis Westerveldstraat,3,,
-8395PW,Cornelis Westerveldstraat,4,,
-8395PW,Cornelis Westerveldstraat,5,,
-8395PW,Cornelis Westerveldstraat,6,,
-8395PW,Cornelis Westerveldstraat,7,,
-8395PW,Cornelis Westerveldstraat,8,,
-8395PW,Cornelis Westerveldstraat,9,,
-8395TH,Ericaweg,1,,
-8395TH,Ericaweg,10,,
-8395TH,Ericaweg,11,,
-8395TH,Ericaweg,11,,TR01
-8395TH,Ericaweg,12,,
-8395TH,Ericaweg,13,,
-8395TH,Ericaweg,14,,
-8395TH,Ericaweg,15,,
-8395TH,Ericaweg,16,,
-8395TH,Ericaweg,18,,
-8395TH,Ericaweg,19,,
-8395TH,Ericaweg,20,,
-8395TH,Ericaweg,21,,
-8395TH,Ericaweg,23,,
-8395TH,Ericaweg,25,,
-8395TH,Ericaweg,27,,
-8395TH,Ericaweg,27,,TR01
-8395TH,Ericaweg,28,,
-8395TH,Ericaweg,36,,
-8395TH,Ericaweg,38,,
-8395TH,Ericaweg,4,,
-8395TH,Ericaweg,4,,TR01
-8395TH,Ericaweg,40,,
-8395TH,Ericaweg,42,,
-8395TH,Ericaweg,44,,
-8395TH,Ericaweg,46,,
-8395TH,Ericaweg,6,,
-8395TH,Ericaweg,8,,
-8395TH,Ericaweg,9,,
-8395PX,Hendrik Deddenstraat,11,,
-8395PX,Hendrik Deddenstraat,13,,
-8395PX,Hendrik Deddenstraat,14,,
-8395PX,Hendrik Deddenstraat,15,,
-8395PX,Hendrik Deddenstraat,16,,
-8395PX,Hendrik Deddenstraat,17,,
-8395PX,Hendrik Deddenstraat,18,,
-8395PX,Hendrik Deddenstraat,19,,
-8395PX,Hendrik Deddenstraat,2,,
-8395PX,Hendrik Deddenstraat,2,,BEDR
-8395PX,Hendrik Deddenstraat,20,,
-8395PX,Hendrik Deddenstraat,21,,
-8395PX,Hendrik Deddenstraat,22,,
-8395PX,Hendrik Deddenstraat,23,,
-8395PX,Hendrik Deddenstraat,24,,
-8395PX,Hendrik Deddenstraat,25,,
-8395PX,Hendrik Deddenstraat,26,,
-8395PX,Hendrik Deddenstraat,27,,
-8395PX,Hendrik Deddenstraat,28,,
-8395PX,Hendrik Deddenstraat,29,,
-8395PX,Hendrik Deddenstraat,3,,
-8395PX,Hendrik Deddenstraat,3,,TR01
-8395PX,Hendrik Deddenstraat,30,,
-8395PX,Hendrik Deddenstraat,31,,
-8395PX,Hendrik Deddenstraat,32,,
-8395PX,Hendrik Deddenstraat,34,,
-8395PX,Hendrik Deddenstraat,5,,
-8395PX,Hendrik Deddenstraat,6,,
-8395PX,Hendrik Deddenstraat,7,,
-8395PZ,Mulderstraat,11,,
-8395PZ,Mulderstraat,13,,
-8395PZ,Mulderstraat,15,,
-8395PZ,Mulderstraat,17,,
-8395PZ,Mulderstraat,19,,
-8395PZ,Mulderstraat,5,,
-8395PZ,Mulderstraat,21,,
-8395PZ,Mulderstraat,23,,
-8395PZ,Mulderstraat,25,,
-8395PZ,Mulderstraat,27,,
-8395PZ,Mulderstraat,7,,
-8395PZ,Mulderstraat,9,,
-8395RA,Mulderstraat,10,,
-8395RA,Mulderstraat,12,,
-8395RA,Mulderstraat,14,,
-8395RA,Mulderstraat,16,,
-8395RA,Mulderstraat,18,,
-8395RA,Mulderstraat,2,,
-8395RA,Mulderstraat,20,,
-8395RA,Mulderstraat,22,,
-8395RA,Mulderstraat,24,,
-8395RA,Mulderstraat,26,,
-8395RA,Mulderstraat,28,,
-8395RA,Mulderstraat,30,,
-8395RA,Mulderstraat,32,,
-8395RA,Mulderstraat,4,,
-8395RA,Mulderstraat,6,,
-8395RA,Mulderstraat,8,,
-8395PA,Nieuwe Bovenweg,10,,
-8395PA,Nieuwe Bovenweg,11,,
-8395PA,Nieuwe Bovenweg,12,,
-8395PA,Nieuwe Bovenweg,13,,
-8395PA,Nieuwe Bovenweg,14,,
-8395PA,Nieuwe Bovenweg,15,,
-8395PA,Nieuwe Bovenweg,16,,
-8395PA,Nieuwe Bovenweg,2,,
-8395PA,Nieuwe Bovenweg,4,,
-8395PA,Nieuwe Bovenweg,5,,
-8395PA,Nieuwe Bovenweg,6,,
-8395PA,Nieuwe Bovenweg,7,,
-8395PA,Nieuwe Bovenweg,8,,
-8395PA,Nieuwe Bovenweg,9,,
-8395TM,Pastoor Schuttestraat,11,,
-8395TM,Pastoor Schuttestraat,13,,
-8395TM,Pastoor Schuttestraat,15,,
-8395TM,Pastoor Schuttestraat,17,,
-8395TM,Pastoor Schuttestraat,19,,
-8395TM,Pastoor Schuttestraat,3,,
-8395TM,Pastoor Schuttestraat,5,,
-8395TM,Pastoor Schuttestraat,7,,
-8395TM,Pastoor Schuttestraat,9,,
-8395TN,Pastoor Schuttestraat,12,,
-8395TN,Pastoor Schuttestraat,14,,
-8395TN,Pastoor Schuttestraat,16,,
-8395TN,Pastoor Schuttestraat,18,,
-8395TN,Pastoor Schuttestraat,20,,
-8395TN,Pastoor Schuttestraat,22,,
-8395TN,Pastoor Schuttestraat,24,,
-8395TN,Pastoor Schuttestraat,26,,
-8395TN,Pastoor Schuttestraat,30,,
-8395PB,Pepergaweg,37,,
-8395PB,Pepergaweg,39,,
-8395PB,Pepergaweg,41,,
-8395PB,Pepergaweg,43,,
-8395PB,Pepergaweg,45,,
-8395PB,Pepergaweg,47,,
-8395PB,Pepergaweg,47,A,
-8395PB,Pepergaweg,49,,
-8395PB,Pepergaweg,51,,
-8395PB,Pepergaweg,53,,
-8395PB,Pepergaweg,55,,
-8395PB,Pepergaweg,57,,
-8395PB,Pepergaweg,59,,
-8395PB,Pepergaweg,61,,
-8395PB,Pepergaweg,63,,
-8395PB,Pepergaweg,65,,
-8395PB,Pepergaweg,69,,
-8395PB,Pepergaweg,73,,
-8395PB,Pepergaweg,77,,
-8395PC,Pepergaweg,101,,
-8395PC,Pepergaweg,103,,
-8395PC,Pepergaweg,107,,
-8395PC,Pepergaweg,111,,
-8395PC,Pepergaweg,115,,
-8395PC,Pepergaweg,81,,
-8395PC,Pepergaweg,83,,
-8395PC,Pepergaweg,85,,
-8395PC,Pepergaweg,89,,
-8395PC,Pepergaweg,91,,
-8395PC,Pepergaweg,93,,
-8395PC,Pepergaweg,95,,
-8395PC,Pepergaweg,97,,
-8395PC,Pepergaweg,99,,
-8395PD,Pepergaweg,38,,
-8395PD,Pepergaweg,40,,
-8395PD,Pepergaweg,42,,
-8395PD,Pepergaweg,42,A,
-8395PD,Pepergaweg,44,,
-8395PD,Pepergaweg,44,A,
-8395PD,Pepergaweg,46,,
-8395PD,Pepergaweg,48,,
-8395PD,Pepergaweg,48,A,
-8395PD,Pepergaweg,48,B,
-8395PD,Pepergaweg,50,,
-8395PD,Pepergaweg,52,,
-8395PD,Pepergaweg,52,A,
-8395PD,Pepergaweg,54,,
-8395PD,Pepergaweg,54,A,
-8395PE,Pepergaweg,56,,
-8395PE,Pepergaweg,60,,
-8395PE,Pepergaweg,64,,
-8395PE,Pepergaweg,64,A,
-8395PE,Pepergaweg,66,,
-8395PE,Pepergaweg,68,,
-8395PE,Pepergaweg,70,,
-8395PE,Pepergaweg,72,,
-8395PE,Pepergaweg,74,,
-8395PE,Pepergaweg,78,,
-8395PE,Pepergaweg,80,,
-8395PE,Pepergaweg,82,,
-8395PE,Pepergaweg,84,,
-8395PE,Pepergaweg,86,,
-8395PE,Pepergaweg,88,,
-8395PE,Pepergaweg,92,,
-8395PE,Pepergaweg,94,,
-8395PG,Pepergaweg,108,,
-8395PG,Pepergaweg,110,,
-8395PG,Pepergaweg,112,,
-8395PG,Pepergaweg,114,,
-8395PG,Pepergaweg,116,,
-8395PG,Pepergaweg,118,,
-8395PG,Pepergaweg,120,,
-8395PG,Pepergaweg,122,,
-8395PG,Pepergaweg,124,,
-8395PG,Pepergaweg,128,,
-8395PG,Pepergaweg,130,,
-8395PG,Pepergaweg,134,,
-8395PG,Pepergaweg,138,,
-8395PG,Pepergaweg,140,,
-8395PG,Pepergaweg,142,,
-8395PG,Pepergaweg,96,,
-8395PG,Pepergaweg,98,,
-8395TE,Ronde Menning,10,,
-8395TE,Ronde Menning,11,,
-8395TE,Ronde Menning,12,,
-8395TE,Ronde Menning,13,,
-8395TE,Ronde Menning,15,,
-8395TE,Ronde Menning,16,,
-8395TE,Ronde Menning,17,,
-8395TE,Ronde Menning,18,,
-8395TE,Ronde Menning,19,,
-8395TE,Ronde Menning,20,,
-8395TE,Ronde Menning,21,,
-8395TE,Ronde Menning,4,,
-8395TE,Ronde Menning,6,,
-8395TE,Ronde Menning,7,,
-8395TE,Ronde Menning,8,,
-8395TE,Ronde Menning,9,,
-8395PH,Steggerdaweg,1,,
-8395PH,Steggerdaweg,11,,
-8395PH,Steggerdaweg,15,,
-8395PH,Steggerdaweg,17,,
-8395PH,Steggerdaweg,17,A,
-8395PH,Steggerdaweg,19,,
-8395PH,Steggerdaweg,19,A,
-8395PH,Steggerdaweg,21,,
-8395PH,Steggerdaweg,27,,
-8395PH,Steggerdaweg,29,,
-8395PH,Steggerdaweg,3,,
-8395PH,Steggerdaweg,31,,
-8395PH,Steggerdaweg,31,,BEDR
-8395PH,Steggerdaweg,5,,
-8395PH,Steggerdaweg,7,,
-8395PH,Steggerdaweg,9,,
-8395PM,Steggerdaweg,10,,
-8395PM,Steggerdaweg,12,,
-8395PM,Steggerdaweg,14,,
-8395PM,Steggerdaweg,4,,
-8395PM,Steggerdaweg,6,,
-8395PM,Steggerdaweg,8,,
-8395PN,Steggerdaweg,20,,
-8395PN,Steggerdaweg,22,,
-8395PN,Steggerdaweg,24,,
-8395PN,Steggerdaweg,26,,
-8395PN,Steggerdaweg,28,,
-8395PN,Steggerdaweg,28,A,
-8395PN,Steggerdaweg,34,,
-8395PN,Steggerdaweg,36,,
-8395PN,Steggerdaweg,38,,
-8395PN,Steggerdaweg,46,,
-8395PN,Steggerdaweg,48,,
-8395PN,Steggerdaweg,50,,
-8395PN,Steggerdaweg,54,,
-8395PN,Steggerdaweg,60,,
-8395PN,Steggerdaweg,62,,
-8395PN,Steggerdaweg,70,,
-8395PN,Steggerdaweg,72,,
-8395PN,Steggerdaweg,74,,
-8395PN,Steggerdaweg,76,,
-8395PN,Steggerdaweg,84,,
-8395PN,Steggerdaweg,88,,
-8395PN,Steggerdaweg,90,,
-8395PN,Steggerdaweg,90,,TR01
-8395PN,Steggerdaweg,96,,
-8395PT,Tjalling Nijkstraat,1,,
-8395PT,Tjalling Nijkstraat,3,,
-8395PT,Tjalling Nijkstraat,5,,
-8395PT,Tjalling Nijkstraat,7,,
-8395PT,Tjalling Nijkstraat,9,,
-8395PV,Tjalling Nijkstraat,10,,
-8395PV,Tjalling Nijkstraat,12,,
-8395PV,Tjalling Nijkstraat,14,,
-8395PV,Tjalling Nijkstraat,16,,
-8395PV,Tjalling Nijkstraat,18,,
-8395PV,Tjalling Nijkstraat,2,,
-8395PV,Tjalling Nijkstraat,20,,
-8395PV,Tjalling Nijkstraat,20,A,
-8395PV,Tjalling Nijkstraat,22,,
-8395PV,Tjalling Nijkstraat,24,,
-8395PV,Tjalling Nijkstraat,26,,
-8395PV,Tjalling Nijkstraat,28,,
-8395PV,Tjalling Nijkstraat,30,,
-8395PV,Tjalling Nijkstraat,32,,
-8395PV,Tjalling Nijkstraat,34,,
-8395PV,Tjalling Nijkstraat,36,,
-8395PV,Tjalling Nijkstraat,38,,
-8395PV,Tjalling Nijkstraat,4,,
-8395PV,Tjalling Nijkstraat,40,,
-8395PV,Tjalling Nijkstraat,42,,
-8395PV,Tjalling Nijkstraat,44,,
-8395PV,Tjalling Nijkstraat,6,,
-8395PV,Tjalling Nijkstraat,8,,
-8395PS,Vaartweg,14,,
-8395PS,Vaartweg,14,,TR01
-8395PS,Vaartweg,2,,
-8395PS,Vaartweg,20,,
-8395PS,Vaartweg,22,,
-8395PS,Vaartweg,4,,
-8395RB,Vaartweg,11,,
-8395RB,Vaartweg,21,,
-8395RB,Vaartweg,23,,
-8395RB,Vaartweg,25,,
-8395RB,Vaartweg,27,,
-8395RB,Vaartweg,29,,
-8395RB,Vaartweg,31,,
-8395RB,Vaartweg,33,,
-8395RB,Vaartweg,35,,
-8395RB,Vaartweg,37,,
-8395RB,Vaartweg,39,,
-8395RB,Vaartweg,41,,
-8395RB,Vaartweg,43,,
-8395RB,Vaartweg,45,,
-8395RB,Vaartweg,47,,
-8395RB,Vaartweg,49,,
-8395RB,Vaartweg,5,,
-8395RB,Vaartweg,55,,
-8395RB,Vaartweg,7,,
-8395RB,Vaartweg,9,,
-8395PB,Pepergaweg,65,,TR01
-8395PB,Pepergaweg,63,A,
-8395PE,Pepergaweg,74,,TR01
-8395PE,Pepergaweg,66,,
-8395PE,Pepergaweg,56,,
-8395PE,Pepergaweg,64,B,
-8395PE,Pepergaweg,62,,
-8395PG,Pepergaweg,144,,
-8395PG,Pepergaweg,146,,
-8395PG,Pepergaweg,148,,
-8395PG,Pepergaweg,144,,
-8395PG,Pepergaweg,146,,
-8395PG,Pepergaweg,148,,
-8395PG,Pepergaweg,150,,
-8395PG,Pepergaweg,152,,
-8395PG,Pepergaweg,154,,
-8395RC,Pepergaweg,144,,
-8395RC,Pepergaweg,146,,
-8395RC,Pepergaweg,148,,
-8395PM,Steggerdaweg,4,,
-8395PM,Steggerdaweg,2,,
-8395PN,Steggerdaweg,86,,
-8395PS,Vaartweg,2,,
-8395PS,Vaartweg,6,,
-8395PS,Vaartweg,10,,
-8395PS,Vaartweg,8,,
-8395RB,Vaartweg,1,,
-8395RB,Vaartweg,49,,TR01
-8395RC,De Toekomst,1,,
-8395RC,De Toekomst,3,,
-8395RC,De Toekomst,5,,
-8395RC,De Toekomst,7,,
-8395RC,De Toekomst,9,,
-8395RC,De Toekomst,11,,
-8395RC,De Toekomst,13,,
-8395RC,De Toekomst,15,,
-8395RC,De Toekomst,17,,
-8395RC,De Toekomst,2,,
-8395RC,De Toekomst,4,,
-8395RC,De Toekomst,6,,
-8395RC,De Toekomst,8,,
-8395RC,De Toekomst,10,,
-8395RC,De Toekomst,12,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuwe Bovenweg,10,"","",8395PA,Steggerda
+Nieuwe Bovenweg,11,"","",8395PA,Steggerda
+Nieuwe Bovenweg,12,"","",8395PA,Steggerda
+Nieuwe Bovenweg,13,"","",8395PA,Steggerda
+Nieuwe Bovenweg,14,"","",8395PA,Steggerda
+Nieuwe Bovenweg,15,"","",8395PA,Steggerda
+Nieuwe Bovenweg,16,"","",8395PA,Steggerda
+Nieuwe Bovenweg,2,"","",8395PA,Steggerda
+Nieuwe Bovenweg,4,"","",8395PA,Steggerda
+Nieuwe Bovenweg,5,"","",8395PA,Steggerda
+Nieuwe Bovenweg,6,"","",8395PA,Steggerda
+Nieuwe Bovenweg,7,"","",8395PA,Steggerda
+Nieuwe Bovenweg,8,"","",8395PA,Steggerda
+Nieuwe Bovenweg,9,"","",8395PA,Steggerda
+Pepergaweg,37,"","",8395PB,Steggerda
+Pepergaweg,39,"","",8395PB,Steggerda
+Pepergaweg,41,"","",8395PB,Steggerda
+Pepergaweg,43,"","",8395PB,Steggerda
+Pepergaweg,45,"","",8395PB,Steggerda
+Pepergaweg,47,"","",8395PB,Steggerda
+Pepergaweg,47,A,"",8395PB,Steggerda
+Pepergaweg,49,"","",8395PB,Steggerda
+Pepergaweg,51,"","",8395PB,Steggerda
+Pepergaweg,53,"","",8395PB,Steggerda
+Pepergaweg,55,"","",8395PB,Steggerda
+Pepergaweg,57,"","",8395PB,Steggerda
+Pepergaweg,59,"","",8395PB,Steggerda
+Pepergaweg,61,"","",8395PB,Steggerda
+Pepergaweg,63,"","",8395PB,Steggerda
+Pepergaweg,63,A,"",8395PB,Steggerda
+Pepergaweg,65,"","",8395PB,Steggerda
+Pepergaweg,65,"",TR01,8395PB,Steggerda
+Pepergaweg,69,"","",8395PB,Steggerda
+Pepergaweg,73,"","",8395PB,Steggerda
+Pepergaweg,77,"","",8395PB,Steggerda
+Pepergaweg,101,"","",8395PC,Steggerda
+Pepergaweg,103,"","",8395PC,Steggerda
+Pepergaweg,107,"","",8395PC,Steggerda
+Pepergaweg,111,"","",8395PC,Steggerda
+Pepergaweg,115,"","",8395PC,Steggerda
+Pepergaweg,81,"","",8395PC,Steggerda
+Pepergaweg,83,"","",8395PC,Steggerda
+Pepergaweg,85,"","",8395PC,Steggerda
+Pepergaweg,89,"","",8395PC,Steggerda
+Pepergaweg,91,"","",8395PC,Steggerda
+Pepergaweg,93,"","",8395PC,Steggerda
+Pepergaweg,95,"","",8395PC,Steggerda
+Pepergaweg,97,"","",8395PC,Steggerda
+Pepergaweg,99,"","",8395PC,Steggerda
+Pepergaweg,38,"","",8395PD,Steggerda
+Pepergaweg,40,"","",8395PD,Steggerda
+Pepergaweg,42,"","",8395PD,Steggerda
+Pepergaweg,42,A,"",8395PD,Steggerda
+Pepergaweg,44,"","",8395PD,Steggerda
+Pepergaweg,44,A,"",8395PD,Steggerda
+Pepergaweg,46,"","",8395PD,Steggerda
+Pepergaweg,48,"","",8395PD,Steggerda
+Pepergaweg,48,A,"",8395PD,Steggerda
+Pepergaweg,48,B,"",8395PD,Steggerda
+Pepergaweg,50,"","",8395PD,Steggerda
+Pepergaweg,52,"","",8395PD,Steggerda
+Pepergaweg,52,A,"",8395PD,Steggerda
+Pepergaweg,54,"","",8395PD,Steggerda
+Pepergaweg,54,A,"",8395PD,Steggerda
+Pepergaweg,56,"","",8395PE,Steggerda
+Pepergaweg,56,"","",8395PE,Steggerda
+Pepergaweg,56,"","",8395PE,Steggerda
+Pepergaweg,60,"","",8395PE,Steggerda
+Pepergaweg,62,"","",8395PE,Steggerda
+Pepergaweg,64,"","",8395PE,Steggerda
+Pepergaweg,64,A,"",8395PE,Steggerda
+Pepergaweg,64,B,"",8395PE,Steggerda
+Pepergaweg,66,"","",8395PE,Steggerda
+Pepergaweg,66,"","",8395PE,Steggerda
+Pepergaweg,66,"","",8395PE,Steggerda
+Pepergaweg,68,"","",8395PE,Steggerda
+Pepergaweg,70,"","",8395PE,Steggerda
+Pepergaweg,72,"","",8395PE,Steggerda
+Pepergaweg,74,"","",8395PE,Steggerda
+Pepergaweg,74,"",TR01,8395PE,Steggerda
+Pepergaweg,78,"","",8395PE,Steggerda
+Pepergaweg,80,"","",8395PE,Steggerda
+Pepergaweg,82,"","",8395PE,Steggerda
+Pepergaweg,84,"","",8395PE,Steggerda
+Pepergaweg,86,"","",8395PE,Steggerda
+Pepergaweg,88,"","",8395PE,Steggerda
+Pepergaweg,92,"","",8395PE,Steggerda
+Pepergaweg,94,"","",8395PE,Steggerda
+Pepergaweg,108,"","",8395PG,Steggerda
+Pepergaweg,110,"","",8395PG,Steggerda
+Pepergaweg,112,"","",8395PG,Steggerda
+Pepergaweg,114,"","",8395PG,Steggerda
+Pepergaweg,116,"","",8395PG,Steggerda
+Pepergaweg,118,"","",8395PG,Steggerda
+Pepergaweg,120,"","",8395PG,Steggerda
+Pepergaweg,122,"","",8395PG,Steggerda
+Pepergaweg,124,"","",8395PG,Steggerda
+Pepergaweg,128,"","",8395PG,Steggerda
+Pepergaweg,130,"","",8395PG,Steggerda
+Pepergaweg,134,"","",8395PG,Steggerda
+Pepergaweg,138,"","",8395PG,Steggerda
+Pepergaweg,140,"","",8395PG,Steggerda
+Pepergaweg,142,"","",8395PG,Steggerda
+Pepergaweg,144,"","",8395PG,Steggerda
+Pepergaweg,144,"","",8395PG,Steggerda
+Pepergaweg,144,"","",8395PG,Steggerda
+Pepergaweg,146,"","",8395PG,Steggerda
+Pepergaweg,146,"","",8395PG,Steggerda
+Pepergaweg,146,"","",8395PG,Steggerda
+Pepergaweg,148,"","",8395PG,Steggerda
+Pepergaweg,148,"","",8395PG,Steggerda
+Pepergaweg,148,"","",8395PG,Steggerda
+Pepergaweg,150,"","",8395PG,Steggerda
+Pepergaweg,152,"","",8395PG,Steggerda
+Pepergaweg,154,"","",8395PG,Steggerda
+Pepergaweg,96,"","",8395PG,Steggerda
+Pepergaweg,98,"","",8395PG,Steggerda
+Steggerdaweg,1,"","",8395PH,Steggerda
+Steggerdaweg,11,"","",8395PH,Steggerda
+Steggerdaweg,15,"","",8395PH,Steggerda
+Steggerdaweg,17,"","",8395PH,Steggerda
+Steggerdaweg,17,A,"",8395PH,Steggerda
+Steggerdaweg,19,"","",8395PH,Steggerda
+Steggerdaweg,19,A,"",8395PH,Steggerda
+Steggerdaweg,21,"","",8395PH,Steggerda
+Steggerdaweg,27,"","",8395PH,Steggerda
+Steggerdaweg,29,"","",8395PH,Steggerda
+Steggerdaweg,3,"","",8395PH,Steggerda
+Steggerdaweg,31,"","",8395PH,Steggerda
+Steggerdaweg,31,"",BEDR,8395PH,Steggerda
+Steggerdaweg,5,"","",8395PH,Steggerda
+Steggerdaweg,7,"","",8395PH,Steggerda
+Steggerdaweg,9,"","",8395PH,Steggerda
+Steggerdaweg,10,"","",8395PM,Steggerda
+Steggerdaweg,12,"","",8395PM,Steggerda
+Steggerdaweg,14,"","",8395PM,Steggerda
+Steggerdaweg,2,"","",8395PM,Steggerda
+Steggerdaweg,4,"","",8395PM,Steggerda
+Steggerdaweg,4,"","",8395PM,Steggerda
+Steggerdaweg,6,"","",8395PM,Steggerda
+Steggerdaweg,8,"","",8395PM,Steggerda
+Steggerdaweg,20,"","",8395PN,Steggerda
+Steggerdaweg,22,"","",8395PN,Steggerda
+Steggerdaweg,24,"","",8395PN,Steggerda
+Steggerdaweg,26,"","",8395PN,Steggerda
+Steggerdaweg,28,"","",8395PN,Steggerda
+Steggerdaweg,28,A,"",8395PN,Steggerda
+Steggerdaweg,34,"","",8395PN,Steggerda
+Steggerdaweg,36,"","",8395PN,Steggerda
+Steggerdaweg,38,"","",8395PN,Steggerda
+Steggerdaweg,46,"","",8395PN,Steggerda
+Steggerdaweg,48,"","",8395PN,Steggerda
+Steggerdaweg,50,"","",8395PN,Steggerda
+Steggerdaweg,54,"","",8395PN,Steggerda
+Steggerdaweg,60,"","",8395PN,Steggerda
+Steggerdaweg,62,"","",8395PN,Steggerda
+Steggerdaweg,70,"","",8395PN,Steggerda
+Steggerdaweg,72,"","",8395PN,Steggerda
+Steggerdaweg,74,"","",8395PN,Steggerda
+Steggerdaweg,76,"","",8395PN,Steggerda
+Steggerdaweg,84,"","",8395PN,Steggerda
+Steggerdaweg,86,"","",8395PN,Steggerda
+Steggerdaweg,88,"","",8395PN,Steggerda
+Steggerdaweg,90,"","",8395PN,Steggerda
+Steggerdaweg,90,"",TR01,8395PN,Steggerda
+Steggerdaweg,96,"","",8395PN,Steggerda
+Vaartweg,10,"","",8395PS,Steggerda
+Vaartweg,14,"","",8395PS,Steggerda
+Vaartweg,14,"",TR01,8395PS,Steggerda
+Vaartweg,2,"","",8395PS,Steggerda
+Vaartweg,2,"","",8395PS,Steggerda
+Vaartweg,20,"","",8395PS,Steggerda
+Vaartweg,22,"","",8395PS,Steggerda
+Vaartweg,4,"","",8395PS,Steggerda
+Vaartweg,6,"","",8395PS,Steggerda
+Vaartweg,8,"","",8395PS,Steggerda
+Tjalling Nijkstraat,1,"","",8395PT,Steggerda
+Tjalling Nijkstraat,3,"","",8395PT,Steggerda
+Tjalling Nijkstraat,5,"","",8395PT,Steggerda
+Tjalling Nijkstraat,7,"","",8395PT,Steggerda
+Tjalling Nijkstraat,9,"","",8395PT,Steggerda
+Tjalling Nijkstraat,10,"","",8395PV,Steggerda
+Tjalling Nijkstraat,12,"","",8395PV,Steggerda
+Tjalling Nijkstraat,14,"","",8395PV,Steggerda
+Tjalling Nijkstraat,16,"","",8395PV,Steggerda
+Tjalling Nijkstraat,18,"","",8395PV,Steggerda
+Tjalling Nijkstraat,2,"","",8395PV,Steggerda
+Tjalling Nijkstraat,20,"","",8395PV,Steggerda
+Tjalling Nijkstraat,20,A,"",8395PV,Steggerda
+Tjalling Nijkstraat,22,"","",8395PV,Steggerda
+Tjalling Nijkstraat,24,"","",8395PV,Steggerda
+Tjalling Nijkstraat,26,"","",8395PV,Steggerda
+Tjalling Nijkstraat,28,"","",8395PV,Steggerda
+Tjalling Nijkstraat,30,"","",8395PV,Steggerda
+Tjalling Nijkstraat,32,"","",8395PV,Steggerda
+Tjalling Nijkstraat,34,"","",8395PV,Steggerda
+Tjalling Nijkstraat,36,"","",8395PV,Steggerda
+Tjalling Nijkstraat,38,"","",8395PV,Steggerda
+Tjalling Nijkstraat,4,"","",8395PV,Steggerda
+Tjalling Nijkstraat,40,"","",8395PV,Steggerda
+Tjalling Nijkstraat,42,"","",8395PV,Steggerda
+Tjalling Nijkstraat,44,"","",8395PV,Steggerda
+Tjalling Nijkstraat,6,"","",8395PV,Steggerda
+Tjalling Nijkstraat,8,"","",8395PV,Steggerda
+Cornelis Westerveldstraat,1,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,10,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,11,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,12,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,13,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,14,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,15,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,16,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,17,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,18,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,2,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,2,A,"",8395PW,Steggerda
+Cornelis Westerveldstraat,2,B,"",8395PW,Steggerda
+Cornelis Westerveldstraat,20,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,22,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,24,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,3,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,4,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,5,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,6,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,7,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,8,"","",8395PW,Steggerda
+Cornelis Westerveldstraat,9,"","",8395PW,Steggerda
+Hendrik Deddenstraat,11,"","",8395PX,Steggerda
+Hendrik Deddenstraat,13,"","",8395PX,Steggerda
+Hendrik Deddenstraat,14,"","",8395PX,Steggerda
+Hendrik Deddenstraat,15,"","",8395PX,Steggerda
+Hendrik Deddenstraat,16,"","",8395PX,Steggerda
+Hendrik Deddenstraat,17,"","",8395PX,Steggerda
+Hendrik Deddenstraat,18,"","",8395PX,Steggerda
+Hendrik Deddenstraat,19,"","",8395PX,Steggerda
+Hendrik Deddenstraat,2,"","",8395PX,Steggerda
+Hendrik Deddenstraat,2,"",BEDR,8395PX,Steggerda
+Hendrik Deddenstraat,20,"","",8395PX,Steggerda
+Hendrik Deddenstraat,21,"","",8395PX,Steggerda
+Hendrik Deddenstraat,22,"","",8395PX,Steggerda
+Hendrik Deddenstraat,23,"","",8395PX,Steggerda
+Hendrik Deddenstraat,24,"","",8395PX,Steggerda
+Hendrik Deddenstraat,25,"","",8395PX,Steggerda
+Hendrik Deddenstraat,26,"","",8395PX,Steggerda
+Hendrik Deddenstraat,27,"","",8395PX,Steggerda
+Hendrik Deddenstraat,28,"","",8395PX,Steggerda
+Hendrik Deddenstraat,29,"","",8395PX,Steggerda
+Hendrik Deddenstraat,3,"","",8395PX,Steggerda
+Hendrik Deddenstraat,3,"",TR01,8395PX,Steggerda
+Hendrik Deddenstraat,30,"","",8395PX,Steggerda
+Hendrik Deddenstraat,31,"","",8395PX,Steggerda
+Hendrik Deddenstraat,32,"","",8395PX,Steggerda
+Hendrik Deddenstraat,34,"","",8395PX,Steggerda
+Hendrik Deddenstraat,5,"","",8395PX,Steggerda
+Hendrik Deddenstraat,6,"","",8395PX,Steggerda
+Hendrik Deddenstraat,7,"","",8395PX,Steggerda
+Mulderstraat,11,"","",8395PZ,Steggerda
+Mulderstraat,13,"","",8395PZ,Steggerda
+Mulderstraat,15,"","",8395PZ,Steggerda
+Mulderstraat,17,"","",8395PZ,Steggerda
+Mulderstraat,19,"","",8395PZ,Steggerda
+Mulderstraat,21,"","",8395PZ,Steggerda
+Mulderstraat,23,"","",8395PZ,Steggerda
+Mulderstraat,25,"","",8395PZ,Steggerda
+Mulderstraat,27,"","",8395PZ,Steggerda
+Mulderstraat,5,"","",8395PZ,Steggerda
+Mulderstraat,7,"","",8395PZ,Steggerda
+Mulderstraat,9,"","",8395PZ,Steggerda
+Mulderstraat,10,"","",8395RA,Steggerda
+Mulderstraat,12,"","",8395RA,Steggerda
+Mulderstraat,14,"","",8395RA,Steggerda
+Mulderstraat,16,"","",8395RA,Steggerda
+Mulderstraat,18,"","",8395RA,Steggerda
+Mulderstraat,2,"","",8395RA,Steggerda
+Mulderstraat,20,"","",8395RA,Steggerda
+Mulderstraat,22,"","",8395RA,Steggerda
+Mulderstraat,24,"","",8395RA,Steggerda
+Mulderstraat,26,"","",8395RA,Steggerda
+Mulderstraat,28,"","",8395RA,Steggerda
+Mulderstraat,30,"","",8395RA,Steggerda
+Mulderstraat,32,"","",8395RA,Steggerda
+Mulderstraat,4,"","",8395RA,Steggerda
+Mulderstraat,6,"","",8395RA,Steggerda
+Mulderstraat,8,"","",8395RA,Steggerda
+Vaartweg,1,"","",8395RB,Steggerda
+Vaartweg,11,"","",8395RB,Steggerda
+Vaartweg,21,"","",8395RB,Steggerda
+Vaartweg,23,"","",8395RB,Steggerda
+Vaartweg,25,"","",8395RB,Steggerda
+Vaartweg,27,"","",8395RB,Steggerda
+Vaartweg,29,"","",8395RB,Steggerda
+Vaartweg,31,"","",8395RB,Steggerda
+Vaartweg,33,"","",8395RB,Steggerda
+Vaartweg,35,"","",8395RB,Steggerda
+Vaartweg,37,"","",8395RB,Steggerda
+Vaartweg,39,"","",8395RB,Steggerda
+Vaartweg,41,"","",8395RB,Steggerda
+Vaartweg,43,"","",8395RB,Steggerda
+Vaartweg,45,"","",8395RB,Steggerda
+Vaartweg,47,"","",8395RB,Steggerda
+Vaartweg,49,"","",8395RB,Steggerda
+Vaartweg,49,"",TR01,8395RB,Steggerda
+Vaartweg,5,"","",8395RB,Steggerda
+Vaartweg,55,"","",8395RB,Steggerda
+Vaartweg,7,"","",8395RB,Steggerda
+Vaartweg,9,"","",8395RB,Steggerda
+De Toekomst,1,"","",8395RC,Steggerda
+De Toekomst,10,"","",8395RC,Steggerda
+De Toekomst,11,"","",8395RC,Steggerda
+De Toekomst,12,"","",8395RC,Steggerda
+De Toekomst,13,"","",8395RC,Steggerda
+Pepergaweg,144,"","",8395RC,Steggerda
+Pepergaweg,146,"","",8395RC,Steggerda
+Pepergaweg,148,"","",8395RC,Steggerda
+De Toekomst,15,"","",8395RC,Steggerda
+De Toekomst,17,"","",8395RC,Steggerda
+De Toekomst,2,"","",8395RC,Steggerda
+De Toekomst,3,"","",8395RC,Steggerda
+De Toekomst,4,"","",8395RC,Steggerda
+De Toekomst,5,"","",8395RC,Steggerda
+De Toekomst,6,"","",8395RC,Steggerda
+De Toekomst,7,"","",8395RC,Steggerda
+De Toekomst,8,"","",8395RC,Steggerda
+De Toekomst,9,"","",8395RC,Steggerda
+Ronde Menning,10,"","",8395TE,Steggerda
+Ronde Menning,11,"","",8395TE,Steggerda
+Ronde Menning,12,"","",8395TE,Steggerda
+Ronde Menning,13,"","",8395TE,Steggerda
+Ronde Menning,15,"","",8395TE,Steggerda
+Ronde Menning,16,"","",8395TE,Steggerda
+Ronde Menning,17,"","",8395TE,Steggerda
+Ronde Menning,18,"","",8395TE,Steggerda
+Ronde Menning,19,"","",8395TE,Steggerda
+Ronde Menning,20,"","",8395TE,Steggerda
+Ronde Menning,21,"","",8395TE,Steggerda
+Ronde Menning,4,"","",8395TE,Steggerda
+Ronde Menning,6,"","",8395TE,Steggerda
+Ronde Menning,7,"","",8395TE,Steggerda
+Ronde Menning,8,"","",8395TE,Steggerda
+Ronde Menning,9,"","",8395TE,Steggerda
+Ericaweg,1,"","",8395TH,Steggerda
+Ericaweg,10,"","",8395TH,Steggerda
+Ericaweg,11,"","",8395TH,Steggerda
+Ericaweg,11,"",TR01,8395TH,Steggerda
+Ericaweg,12,"","",8395TH,Steggerda
+Ericaweg,13,"","",8395TH,Steggerda
+Ericaweg,14,"","",8395TH,Steggerda
+Ericaweg,15,"","",8395TH,Steggerda
+Ericaweg,16,"","",8395TH,Steggerda
+Ericaweg,18,"","",8395TH,Steggerda
+Ericaweg,19,"","",8395TH,Steggerda
+Ericaweg,20,"","",8395TH,Steggerda
+Ericaweg,21,"","",8395TH,Steggerda
+Ericaweg,23,"","",8395TH,Steggerda
+Ericaweg,25,"","",8395TH,Steggerda
+Ericaweg,27,"","",8395TH,Steggerda
+Ericaweg,27,"",TR01,8395TH,Steggerda
+Ericaweg,28,"","",8395TH,Steggerda
+Ericaweg,36,"","",8395TH,Steggerda
+Ericaweg,38,"","",8395TH,Steggerda
+Ericaweg,4,"","",8395TH,Steggerda
+Ericaweg,4,"",TR01,8395TH,Steggerda
+Ericaweg,40,"","",8395TH,Steggerda
+Ericaweg,42,"","",8395TH,Steggerda
+Ericaweg,44,"","",8395TH,Steggerda
+Ericaweg,46,"","",8395TH,Steggerda
+Ericaweg,6,"","",8395TH,Steggerda
+Ericaweg,8,"","",8395TH,Steggerda
+Ericaweg,9,"","",8395TH,Steggerda
+Pastoor Schuttestraat,11,"","",8395TM,Steggerda
+Pastoor Schuttestraat,13,"","",8395TM,Steggerda
+Pastoor Schuttestraat,15,"","",8395TM,Steggerda
+Pastoor Schuttestraat,17,"","",8395TM,Steggerda
+Pastoor Schuttestraat,19,"","",8395TM,Steggerda
+Pastoor Schuttestraat,3,"","",8395TM,Steggerda
+Pastoor Schuttestraat,5,"","",8395TM,Steggerda
+Pastoor Schuttestraat,7,"","",8395TM,Steggerda
+Pastoor Schuttestraat,9,"","",8395TM,Steggerda
+Pastoor Schuttestraat,12,"","",8395TN,Steggerda
+Pastoor Schuttestraat,14,"","",8395TN,Steggerda
+Pastoor Schuttestraat,16,"","",8395TN,Steggerda
+Pastoor Schuttestraat,18,"","",8395TN,Steggerda
+Pastoor Schuttestraat,20,"","",8395TN,Steggerda
+Pastoor Schuttestraat,22,"","",8395TN,Steggerda
+Pastoor Schuttestraat,24,"","",8395TN,Steggerda
+Pastoor Schuttestraat,26,"","",8395TN,Steggerda
+Pastoor Schuttestraat,30,"","",8395TN,Steggerda

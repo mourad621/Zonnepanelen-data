@@ -1,207 +1,107 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9796PA",9,"",""
-"9796PA",13,"a",""
-"9796PA",15,"",""
-"9796PA",1,"",""
-"9796PA",11,"",""
-"9796PA",13,"",""
-"9796PA",9,"a",""
-"9796PA",21,"",""
-"9796PA",13,"A",""
-"9796PA",17,"",""
-"9796PA",19,"",""
-"9796PA",5,"",""
-"9796PB",31,"",""
-"9796PB",23,"",""
-"9796PB",25,"",""
-"9796PB",37,"",""
-"9796PB",45,"",""
-"9796PB",33,"",""
-"9796PB",33,"a",""
-"9796PB",35,"",""
-"9796PB",29,"",""
-"9796PB",41,"",""
-"9796PB",39,"",""
-"9796PB",43,"","aa"
-"9796PB",43,"",""
-"9796PB",37,"a",""
-"9796PB",33,"A",""
-"9796PB",37,"A",""
-"9796PC",26,"",""
-"9796PC",12,"",""
-"9796PC",10,"",""
-"9796PC",6,"",""
-"9796PC",20,"",""
-"9796PC",4,"",""
-"9796PC",26,"a",""
-"9796PC",24,"",""
-"9796PC",26,"A",""
-"9796PC",30,"",""
-"9796PC",16,"",""
-"9796PC",22,"",""
-"9796PC",18,"",""
-"9796PC",8,"",""
-"9796PC",2,"",""
-"9796PC",14,"",""
-"9796PD",11,"",""
-"9796PD",5,"",""
-"9796PD",2,"A",""
-"9796PD",7,"",""
-"9796PD",2,"a",""
-"9796PD",9,"",""
-"9796PD",4,"",""
-"9796PD",4,"",""
-"9796PD",2,"",""
-"9796PD",4,"",""
-"9796PD",1,"",""
-"9796PE",1,"",""
-"9796PE",3,"",""
-"9796PE",5,"",""
-"9796PE",4,"",""
-"9796PG",9,"",""
-"9796PG",3,"",""
-"9796PG",1,"",""
-"9796PH",5,"",""
-"9796PH",3,"",""
-"9796PH",4,"",""
-"9796PH",1,"",""
-"9796PH",5,"",""
-"9796PH",5,"",""
-"9796TA",61,"",""
-"9796TA",61,"",""
-"9796TA",63,"",""
-"9796TA",73,"",""
-"9796TA",71,"",""
-"9796TA",69,"",""
-"9796TA",67,"",""
-"9796TA",61,"","aa"
-"9796TA",61,"",""
-"9796TA",65,"",""
-"9796TB",26,"",""
-"9796TB",24,"a",""
-"9796TB",32,"",""
-"9796TB",24,"",""
-"9796TB",26,"",""
-"9796TB",24,"A",""
-"9796TB",24,"",""
-"9796TB",34,"",""
-"9796TB",26,"",""
-"9796TB",24,"",""
-"9796TB",26,"a",""
-"9796TB",30,"",""
-"9796TC",4,"",""
-"9796TC",2,"",""
-"9796TC",2,"",""
-"9796TC",2,"",""
-"9796TC",3,"",""
-"9796TD",13,"",""
-"9796TD",14,"",""
-"9796TD",12,"",""
-"9796TD",12,"",""
-"9796TD",12,"",""
-"9796TE",2,"",""
-"9796TE",4,"",""
-"9796TE",5,"",""
-"9796TE",1,"",""
-"9796TE",3,"",""
-"9796TE",5,"","aa"
-9796TC,Bedumerweg,3,,
-9796TC,Bedumerweg,4,,
-9796TC,Bedumerweg,2,,
-9796TA,Boersterweg,67,,
-9796TA,Boersterweg,61,,
-9796TA,Boersterweg,71,,
-9796TA,Boersterweg,69,,
-9796TA,Boersterweg,63,,
-9796TA,Boersterweg,65,,
-9796TA,Boersterweg,73,,
-9796TA,Boersterweg,61,,aa
-9796TA,Boersterweg,61,,
-9796TB,Boersterweg,24,A,
-9796TB,Boersterweg,24,a,
-9796TB,Boersterweg,34,,
-9796TB,Boersterweg,26,,
-9796TB,Boersterweg,32,,
-9796TB,Boersterweg,30,,
-9796TB,Boersterweg,24,,
-9796PA,Hoofdweg,5,,
-9796PA,Hoofdweg,21,,
-9796PA,Hoofdweg,17,,
-9796PA,Hoofdweg,1,,
-9796PA,Hoofdweg,13,A,
-9796PA,Hoofdweg,13,a,
-9796PA,Hoofdweg,15,,
-9796PA,Hoofdweg,19,,
-9796PA,Hoofdweg,11,,
-9796PA,Hoofdweg,13,,
-9796PA,Hoofdweg,9,,
-9796PA,Hoofdweg,9,a,
-9796PB,Hoofdweg,39,,
-9796PB,Hoofdweg,25,,
-9796PB,Hoofdweg,29,,
-9796PB,Hoofdweg,37,A,
-9796PB,Hoofdweg,37,a,
-9796PB,Hoofdweg,33,,
-9796PB,Hoofdweg,41,,
-9796PB,Hoofdweg,45,,
-9796PB,Hoofdweg,23,,
-9796PB,Hoofdweg,43,,
-9796PB,Hoofdweg,37,,
-9796PB,Hoofdweg,35,,
-9796PB,Hoofdweg,31,,
-9796PB,Hoofdweg,33,A,
-9796PB,Hoofdweg,33,a,
-9796PB,Hoofdweg,43,,aa
-9796PC,Hoofdweg,10,,
-9796PC,Hoofdweg,16,,
-9796PC,Hoofdweg,22,,
-9796PC,Hoofdweg,18,,
-9796PC,Hoofdweg,2,,
-9796PC,Hoofdweg,30,,
-9796PC,Hoofdweg,14,,
-9796PC,Hoofdweg,8,,
-9796PC,Hoofdweg,24,,
-9796PC,Hoofdweg,26,A,
-9796PC,Hoofdweg,26,a,
-9796PC,Hoofdweg,4,,
-9796PC,Hoofdweg,20,,
-9796PC,Hoofdweg,6,,
-9796PC,Hoofdweg,12,,
-9796PC,Hoofdweg,26,,
-9796PE,Kerkpad,4,,
-9796PE,Kerkpad,5,,
-9796PE,Kerkpad,3,,
-9796PE,Kerkpad,1,,
-9796PD,Molenpad,4,,
-9796PD,Molenpad,2,A,
-9796PD,Molenpad,2,a,
-9796PD,Molenpad,1,,
-9796PD,Molenpad,7,,
-9796PD,Molenpad,11,,
-9796PD,Molenpad,5,,
-9796PD,Molenpad,2,,
-9796PD,Molenpad,9,,
-9796PH,Populierenlaan,5,,
-9796PH,Populierenlaan,4,,
-9796PH,Populierenlaan,1,,
-9796PH,Populierenlaan,3,,
-9796PH,Populierenlaan,5,,
-9796TE,Schultingaweg,1,,
-9796TE,Schultingaweg,5,,
-9796TE,Schultingaweg,4,,
-9796TE,Schultingaweg,3,,
-9796TE,Schultingaweg,2,,
-9796TE,Schultingaweg,5,,aa
-9796PG,Thesingerweg,1,,
-9796PG,Thesingerweg,3,,
-9796PG,Thesingerweg,9,,
-9796TD,Wolddijk,14,,
-9796TD,Wolddijk,13,,
-9796TD,Wolddijk,12,,
-9796TB,Boersterweg,24,,
-9796PD,Molenpad,4,,
-9796TC,Bedumerweg,2,,
-9796TB,Boersterweg,26,,
-9796TB,Boersterweg,26,a,
-9796PH,Populierenlaan,1,,
-9796TD,Wolddijk,12,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hoofdweg,1,"","",9796PA,Sint Annen
+Hoofdweg,11,"","",9796PA,Sint Annen
+Hoofdweg,13,"","",9796PA,Sint Annen
+Hoofdweg,13,A,"",9796PA,Sint Annen
+Hoofdweg,13,A,"",9796PA,Sint Annen
+Hoofdweg,15,"","",9796PA,Sint Annen
+Hoofdweg,17,"","",9796PA,Sint Annen
+Hoofdweg,19,"","",9796PA,Sint Annen
+Hoofdweg,21,"","",9796PA,Sint Annen
+Hoofdweg,5,"","",9796PA,Sint Annen
+Hoofdweg,9,"","",9796PA,Sint Annen
+Hoofdweg,9,A,"",9796PA,Sint Annen
+Hoofdweg,23,"","",9796PB,Sint Annen
+Hoofdweg,25,"","",9796PB,Sint Annen
+Hoofdweg,29,"","",9796PB,Sint Annen
+Hoofdweg,31,"","",9796PB,Sint Annen
+Hoofdweg,33,"","",9796PB,Sint Annen
+Hoofdweg,33,A,"",9796PB,Sint Annen
+Hoofdweg,33,A,"",9796PB,Sint Annen
+Hoofdweg,35,"","",9796PB,Sint Annen
+Hoofdweg,37,"","",9796PB,Sint Annen
+Hoofdweg,37,A,"",9796PB,Sint Annen
+Hoofdweg,37,A,"",9796PB,Sint Annen
+Hoofdweg,39,"","",9796PB,Sint Annen
+Hoofdweg,41,"","",9796PB,Sint Annen
+Hoofdweg,43,"","",9796PB,Sint Annen
+Hoofdweg,43,"",AA,9796PB,Sint Annen
+Hoofdweg,45,"","",9796PB,Sint Annen
+Hoofdweg,10,"","",9796PC,Sint Annen
+Hoofdweg,12,"","",9796PC,Sint Annen
+Hoofdweg,14,"","",9796PC,Sint Annen
+Hoofdweg,16,"","",9796PC,Sint Annen
+Hoofdweg,18,"","",9796PC,Sint Annen
+Hoofdweg,2,"","",9796PC,Sint Annen
+Hoofdweg,20,"","",9796PC,Sint Annen
+Hoofdweg,22,"","",9796PC,Sint Annen
+Hoofdweg,24,"","",9796PC,Sint Annen
+Hoofdweg,26,"","",9796PC,Sint Annen
+Hoofdweg,26,A,"",9796PC,Sint Annen
+Hoofdweg,26,A,"",9796PC,Sint Annen
+Hoofdweg,30,"","",9796PC,Sint Annen
+Hoofdweg,4,"","",9796PC,Sint Annen
+Hoofdweg,6,"","",9796PC,Sint Annen
+Hoofdweg,8,"","",9796PC,Sint Annen
+Molenpad,1,"","",9796PD,Sint Annen
+Molenpad,11,"","",9796PD,Sint Annen
+Molenpad,2,"","",9796PD,Sint Annen
+Molenpad,2,A,"",9796PD,Sint Annen
+Molenpad,2,A,"",9796PD,Sint Annen
+Molenpad,4,"","",9796PD,Sint Annen
+Molenpad,4,"","",9796PD,Sint Annen
+Molenpad,4,"","",9796PD,Sint Annen
+Molenpad,5,"","",9796PD,Sint Annen
+Molenpad,7,"","",9796PD,Sint Annen
+Molenpad,9,"","",9796PD,Sint Annen
+Kerkpad,1,"","",9796PE,Sint Annen
+Kerkpad,3,"","",9796PE,Sint Annen
+Kerkpad,4,"","",9796PE,Sint Annen
+Kerkpad,5,"","",9796PE,Sint Annen
+Thesingerweg,1,"","",9796PG,Sint Annen
+Thesingerweg,3,"","",9796PG,Sint Annen
+Thesingerweg,9,"","",9796PG,Sint Annen
+Populierenlaan,1,"","",9796PH,Sint Annen
+Populierenlaan,3,"","",9796PH,Sint Annen
+Populierenlaan,4,"","",9796PH,Sint Annen
+Populierenlaan,5,"","",9796PH,Sint Annen
+Populierenlaan,5,"","",9796PH,Sint Annen
+Populierenlaan,5,"","",9796PH,Sint Annen
+Boersterweg,61,"","",9796TA,Sint Annen
+Boersterweg,61,"","",9796TA,Sint Annen
+Boersterweg,61,"","",9796TA,Sint Annen
+Boersterweg,61,"",AA,9796TA,Sint Annen
+Boersterweg,63,"","",9796TA,Sint Annen
+Boersterweg,65,"","",9796TA,Sint Annen
+Boersterweg,67,"","",9796TA,Sint Annen
+Boersterweg,69,"","",9796TA,Sint Annen
+Boersterweg,71,"","",9796TA,Sint Annen
+Boersterweg,73,"","",9796TA,Sint Annen
+Boersterweg,24,"","",9796TB,Sint Annen
+Boersterweg,24,"","",9796TB,Sint Annen
+Boersterweg,24,"","",9796TB,Sint Annen
+Boersterweg,24,A,"",9796TB,Sint Annen
+Boersterweg,24,A,"",9796TB,Sint Annen
+Boersterweg,26,"","",9796TB,Sint Annen
+Boersterweg,26,"","",9796TB,Sint Annen
+Boersterweg,26,"","",9796TB,Sint Annen
+Boersterweg,26,A,"",9796TB,Sint Annen
+Boersterweg,30,"","",9796TB,Sint Annen
+Boersterweg,32,"","",9796TB,Sint Annen
+Boersterweg,34,"","",9796TB,Sint Annen
+Bedumerweg,2,"","",9796TC,Sint Annen
+Bedumerweg,2,"","",9796TC,Sint Annen
+Bedumerweg,2,"","",9796TC,Sint Annen
+Bedumerweg,3,"","",9796TC,Sint Annen
+Bedumerweg,4,"","",9796TC,Sint Annen
+Wolddijk,12,"","",9796TD,Sint Annen
+Wolddijk,12,"","",9796TD,Sint Annen
+Wolddijk,12,"","",9796TD,Sint Annen
+Wolddijk,13,"","",9796TD,Sint Annen
+Wolddijk,14,"","",9796TD,Sint Annen
+Schultingaweg,1,"","",9796TE,Sint Annen
+Schultingaweg,2,"","",9796TE,Sint Annen
+Schultingaweg,3,"","",9796TE,Sint Annen
+Schultingaweg,4,"","",9796TE,Sint Annen
+Schultingaweg,5,"","",9796TE,Sint Annen
+Schultingaweg,5,"",AA,9796TE,Sint Annen

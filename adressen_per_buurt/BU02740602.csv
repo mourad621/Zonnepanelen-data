@@ -1,53 +1,53 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6874NC,Buunderkamp,7,,
-6874NC,Buunderkamp,8,,
-6874NC,Buunderkamp,9,,
-6874NC,Buunderkamp,10,,
-6874NC,Buunderkamp,11,,
-6874NC,Buunderkamp,13,,
-6874NC,Buunderkamp,1,,
-6874NC,Buunderkamp,2,,
-6874NC,Buunderkamp,4,A,
-6874NC,Buunderkamp,4,,
-6874NC,Buunderkamp,5,,
-6874NC,Buunderkamp,6,,
-6874NC,Buunderkamp,7,R,
-6874NC,Buunderkamp,7,R,
-6874NC,Buunderkamp,17,,
-6874NC,Buunderkamp,12,,
-6874NC,Buunderkamp,3,,
-6874NC,Buunderkamp,2,A,
-6874NC,Buunderkamp,6,A,
-6874BZ,Reijerskamp,1,,
-6874AH,Wolfhezerweg,94,,
-6874AH,Wolfhezerweg,96,,
-6874AH,Wolfhezerweg,98,,
-6874AH,Wolfhezerweg,100,,
-6874AH,Wolfhezerweg,102,,
-6874AH,Wolfhezerweg,104,,
-6874AH,Wolfhezerweg,110,,
-6874AH,Wolfhezerweg,112,,
-6874AH,Wolfhezerweg,94,A,
-6874CD,Johannahoeveweg,6,,
-6874CD,Johannahoeveweg,8,,
-6874CD,Johannahoeveweg,10,,
-6874CD,Johannahoeveweg,12,,
-6874CD,Johannahoeveweg,14,,
-6874CD,Johannahoeveweg,16,,
-6874CD,Johannahoeveweg,18,,
-6874CD,Johannahoeveweg,20,,
-6874CD,Johannahoeveweg,2,,
-6874CD,Johannahoeveweg,4,,
-6874NE,van Nieuwenhuijzenweg,1,,
-6874NE,van Nieuwenhuijzenweg,8,,
-6874NE,van Nieuwenhuijzenweg,3,,
-6874NE,van Nieuwenhuijzenweg,5,,
-6874NE,van Nieuwenhuijzenweg,4,,
-6874NC,Buunderkamp,10,,
-6874NE,van Nieuwenhuijzenweg,6,,
-6874NC,Buunderkamp,1,A,
-6874NC,Buunderkamp,8,A,
-6874NC,Buunderkamp,100,,
-6874AH,Wolfhezerweg,94,B,
-6874AH,Wolfhezerweg,108,,
-6874AH,Wolfhezerweg,110,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Wolfhezerweg,100,"","",6874AH,Wolfheze
+Wolfhezerweg,102,"","",6874AH,Wolfheze
+Wolfhezerweg,104,"","",6874AH,Wolfheze
+Wolfhezerweg,108,"","",6874AH,Wolfheze
+Wolfhezerweg,110,"","",6874AH,Wolfheze
+Wolfhezerweg,110,"","",6874AH,Wolfheze
+Wolfhezerweg,112,"","",6874AH,Wolfheze
+Wolfhezerweg,94,"","",6874AH,Wolfheze
+Wolfhezerweg,94,A,"",6874AH,Wolfheze
+Wolfhezerweg,94,B,"",6874AH,Wolfheze
+Wolfhezerweg,96,"","",6874AH,Wolfheze
+Wolfhezerweg,98,"","",6874AH,Wolfheze
+Reijerskamp,1,"","",6874BZ,Wolfheze
+Johannahoeveweg,10,"","",6874CD,Wolfheze
+Johannahoeveweg,12,"","",6874CD,Wolfheze
+Johannahoeveweg,14,"","",6874CD,Wolfheze
+Johannahoeveweg,16,"","",6874CD,Wolfheze
+Johannahoeveweg,18,"","",6874CD,Wolfheze
+Johannahoeveweg,2,"","",6874CD,Wolfheze
+Johannahoeveweg,20,"","",6874CD,Wolfheze
+Johannahoeveweg,4,"","",6874CD,Wolfheze
+Johannahoeveweg,6,"","",6874CD,Wolfheze
+Johannahoeveweg,8,"","",6874CD,Wolfheze
+Buunderkamp,1,"","",6874NC,Wolfheze
+Buunderkamp,1,A,"",6874NC,Wolfheze
+Buunderkamp,10,"","",6874NC,Wolfheze
+Buunderkamp,10,"","",6874NC,Wolfheze
+Buunderkamp,100,"","",6874NC,Wolfheze
+Buunderkamp,11,"","",6874NC,Wolfheze
+Buunderkamp,12,"","",6874NC,Wolfheze
+Buunderkamp,13,"","",6874NC,Wolfheze
+Buunderkamp,17,"","",6874NC,Wolfheze
+Buunderkamp,2,"","",6874NC,Wolfheze
+Buunderkamp,2,A,"",6874NC,Wolfheze
+Buunderkamp,3,"","",6874NC,Wolfheze
+Buunderkamp,4,"","",6874NC,Wolfheze
+Buunderkamp,4,A,"",6874NC,Wolfheze
+Buunderkamp,5,"","",6874NC,Wolfheze
+Buunderkamp,6,"","",6874NC,Wolfheze
+Buunderkamp,6,A,"",6874NC,Wolfheze
+Buunderkamp,7,"","",6874NC,Wolfheze
+Buunderkamp,7,R,"",6874NC,Wolfheze
+Buunderkamp,7,R,"",6874NC,Wolfheze
+Buunderkamp,8,"","",6874NC,Wolfheze
+Buunderkamp,8,A,"",6874NC,Wolfheze
+Buunderkamp,9,"","",6874NC,Wolfheze
+van Nieuwenhuijzenweg,1,"","",6874NE,Wolfheze
+van Nieuwenhuijzenweg,3,"","",6874NE,Wolfheze
+van Nieuwenhuijzenweg,4,"","",6874NE,Wolfheze
+van Nieuwenhuijzenweg,5,"","",6874NE,Wolfheze
+van Nieuwenhuijzenweg,6,"","",6874NE,Wolfheze
+van Nieuwenhuijzenweg,8,"","",6874NE,Wolfheze

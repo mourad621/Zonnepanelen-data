@@ -1,85 +1,85 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7491AN,Bellinkweg,1,,
-7491AN,Bellinkweg,2,,
-7491AN,Bellinkweg,2,a,
-7491AN,Bellinkweg,4,,
-7491AN,Bellinkweg,6,,
-7491AN,Bellinkweg,4,,A
-7491AN,Bellinkweg,4,a,
-7491AN,Bellinkweg,6,b,
-7491AN,Bellinkweg,6,a,
-7491AN,Bellinkweg,8,,
-7491AN,Bellinkweg,10,,
-7491AN,Bellinkweg,12,,
-7491AN,Bellinkweg,14,,
-7491AL,De Fute,1,,
-7491AL,De Fute,2,,
-7491AL,De Fute,3,,
-7491AL,De Fute,4,,
-7491AL,De Fute,6,,
-7491AL,De Fute,6,a,
-7491AL,De Fute,7,,
-7491AL,De Fute,8,,
-7491AN,Bellinkweg,3,,
-7491AL,De Fute,4,,
-7491AL,De Fute,4,a,
-7491AL,De Fute,7,a,
-7491AE,Langestraat,2,,
-7491AE,Langestraat,6,,
-7491AE,Langestraat,8,,
-7491AE,Langestraat,8,a,
-7491AE,Langestraat,16,,
-7491AE,Langestraat,18,,
-7491AE,Langestraat,14,,
-7491AE,Langestraat,20,,
-7491AE,Langestraat,153,,
-7491AE,Langestraat,155,,
-7491AE,Langestraat,159,,
-7491AE,Langestraat,161,,
-7491AE,Langestraat,167,,
-7491AE,Langestraat,169,,
-7491AE,Langestraat,161,a,
-7491AE,Langestraat,161,,
-7491AE,Langestraat,155,,
-7491AE,Langestraat,4,,
-7491AE,Langestraat,6,,
-7491AK,Langestraat,104,,
-7491AK,Langestraat,106,,
-7491AK,Langestraat,106,a,
-7491AK,Langestraat,108,,
-7491AK,Langestraat,110,,
-7491AK,Langestraat,114,,
-7491AK,Langestraat,116,,
-7491AK,Langestraat,118,,
-7491AK,Langestraat,118,a,
-7491AK,Langestraat,120,,
-7491AK,Langestraat,122,,
-7491AK,Langestraat,118,a,
-7491AK,Langestraat,118,a,
-7491AK,Langestraat,118,b,
-7491AK,Langestraat,110,,
-7491AK,Langestraat,112,,
-7491AN,Langestraat,200,,
-7491AN,Langestraat,210,,
-7491AN,Langestraat,212,,
-7491AN,Langestraat,214,,
-7491AN,Langestraat,216,,
-7491AN,Langestraat,218,,
-7491AN,Langestraat,220,,
-7491AN,Langestraat,222,,
-7491AN,Langestraat,224,,
-7491AN,Langestraat,226,,
-7491AN,Langestraat,228,,
-7491AN,Langestraat,230,,
-7491AN,Langestraat,232,,
-7491AN,Langestraat,234,,
-7491AN,Langestraat,236,,
-7491AN,Langestraat,238,,
-7491AN,Langestraat,242,,
-7491AN,Langestraat,244,,
-7491AN,Langestraat,246,,
-7491AN,Langestraat,250,,
-7491AN,Langestraat,242,,
-7491AN,Langestraat,242,,
-7491AN,Langestraat,242,a,
-7491EJ,Rijssenseweg,17,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Langestraat,14,"","",7491AE,Delden
+Langestraat,153,"","",7491AE,Delden
+Langestraat,155,"","",7491AE,Delden
+Langestraat,155,"","",7491AE,Delden
+Langestraat,159,"","",7491AE,Delden
+Langestraat,16,"","",7491AE,Delden
+Langestraat,161,"","",7491AE,Delden
+Langestraat,161,"","",7491AE,Delden
+Langestraat,161,A,"",7491AE,Delden
+Langestraat,167,"","",7491AE,Delden
+Langestraat,169,"","",7491AE,Delden
+Langestraat,18,"","",7491AE,Delden
+Langestraat,2,"","",7491AE,Delden
+Langestraat,20,"","",7491AE,Delden
+Langestraat,4,"","",7491AE,Delden
+Langestraat,6,"","",7491AE,Delden
+Langestraat,6,"","",7491AE,Delden
+Langestraat,8,"","",7491AE,Delden
+Langestraat,8,A,"",7491AE,Delden
+Langestraat,104,"","",7491AK,Delden
+Langestraat,106,"","",7491AK,Delden
+Langestraat,106,A,"",7491AK,Delden
+Langestraat,108,"","",7491AK,Delden
+Langestraat,110,"","",7491AK,Delden
+Langestraat,110,"","",7491AK,Delden
+Langestraat,112,"","",7491AK,Delden
+Langestraat,114,"","",7491AK,Delden
+Langestraat,116,"","",7491AK,Delden
+Langestraat,118,"","",7491AK,Delden
+Langestraat,118,A,"",7491AK,Delden
+Langestraat,118,A,"",7491AK,Delden
+Langestraat,118,A,"",7491AK,Delden
+Langestraat,118,B,"",7491AK,Delden
+Langestraat,120,"","",7491AK,Delden
+Langestraat,122,"","",7491AK,Delden
+De Fute,1,"","",7491AL,Delden
+De Fute,2,"","",7491AL,Delden
+De Fute,3,"","",7491AL,Delden
+De Fute,4,"","",7491AL,Delden
+De Fute,4,"","",7491AL,Delden
+De Fute,4,A,"",7491AL,Delden
+De Fute,6,"","",7491AL,Delden
+De Fute,6,A,"",7491AL,Delden
+De Fute,7,"","",7491AL,Delden
+De Fute,7,A,"",7491AL,Delden
+De Fute,8,"","",7491AL,Delden
+Bellinkweg,1,"","",7491AN,Delden
+Bellinkweg,10,"","",7491AN,Delden
+Bellinkweg,12,"","",7491AN,Delden
+Bellinkweg,14,"","",7491AN,Delden
+Bellinkweg,2,"","",7491AN,Delden
+Bellinkweg,2,A,"",7491AN,Delden
+Langestraat,200,"","",7491AN,Delden
+Langestraat,210,"","",7491AN,Delden
+Langestraat,212,"","",7491AN,Delden
+Langestraat,214,"","",7491AN,Delden
+Langestraat,216,"","",7491AN,Delden
+Langestraat,218,"","",7491AN,Delden
+Langestraat,220,"","",7491AN,Delden
+Langestraat,222,"","",7491AN,Delden
+Langestraat,224,"","",7491AN,Delden
+Langestraat,226,"","",7491AN,Delden
+Langestraat,228,"","",7491AN,Delden
+Langestraat,230,"","",7491AN,Delden
+Langestraat,232,"","",7491AN,Delden
+Langestraat,234,"","",7491AN,Delden
+Langestraat,236,"","",7491AN,Delden
+Langestraat,238,"","",7491AN,Delden
+Langestraat,242,"","",7491AN,Delden
+Langestraat,242,"","",7491AN,Delden
+Langestraat,242,"","",7491AN,Delden
+Langestraat,242,A,"",7491AN,Delden
+Langestraat,244,"","",7491AN,Delden
+Langestraat,246,"","",7491AN,Delden
+Langestraat,250,"","",7491AN,Delden
+Bellinkweg,3,"","",7491AN,Delden
+Bellinkweg,4,"","",7491AN,Delden
+Bellinkweg,4,"",A,7491AN,Delden
+Bellinkweg,4,A,"",7491AN,Delden
+Bellinkweg,6,"","",7491AN,Delden
+Bellinkweg,6,A,"",7491AN,Delden
+Bellinkweg,6,B,"",7491AN,Delden
+Bellinkweg,8,"","",7491AN,Delden
+Rijssenseweg,17,"","",7491EJ,Delden

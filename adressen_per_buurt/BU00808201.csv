@@ -1,1209 +1,577 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9008RA",12,"",""
-"9008RA",6,"",""
-"9008RA",1,"",""
-"9008RA",4,"",""
-"9008RA",10,"",""
-"9008RA",8,"",""
-"9008RB",9,"",""
-"9008RB",10,"",""
-"9008RB",13,"",""
-"9008RB",12,"",""
-"9008RB",7,"",""
-"9008RB",14,"",""
-"9008RB",11,"",""
-"9008RB",4,"",""
-"9008RB",16,"",""
-"9008RB",3,"",""
-"9008RB",2,"",""
-"9008RB",6,"",""
-"9008RB",8,"",""
-"9008RB",5,"",""
-"9008RB",1,"",""
-"9008RC",9,"",""
-"9008RC",7,"",""
-"9008RC",5,"",""
-"9008RC",1,"",""
-"9008RC",3,"",""
-"9008RD",22,"",""
-"9008RD",18,"",""
-"9008RD",20,"",""
-"9008RD",6,"",""
-"9008RD",12,"",""
-"9008RD",3,"",""
-"9008RD",10,"",""
-"9008RD",2,"",""
-"9008RD",5,"",""
-"9008RD",26,"",""
-"9008RD",1,"",""
-"9008RD",24,"",""
-"9008RD",7,"",""
-"9008RD",14,"",""
-"9008RD",11,"",""
-"9008RD",8,"",""
-"9008RD",4,"",""
-"9008RD",28,"",""
-"9008RD",16,"",""
-"9008RD",9,"",""
-"9008RD",32,"",""
-"9008RD",30,"",""
-"9008RE",9,"",""
-"9008RE",5,"",""
-"9008RE",6,"",""
-"9008RE",9,"",""
-"9008RE",1,"",""
-"9008RE",8,"",""
-"9008RE",7,"",""
-"9008RE",3,"",""
-"9008RE",2,"",""
-"9008RE",4,"",""
-"9008SB",1,"",""
-"9008SB",3,"A",""
-"9008SB",3,"",""
-"9008SB",5,"",""
-"9008SB",7,"",""
-"9008SB",3,"a",""
-"9008SC",2,"A",""
-"9008SC",34,"",""
-"9008SC",32,"",""
-"9008SC",30,"",""
-"9008SC",12,"",""
-"9008SC",6,"",""
-"9008SC",26,"",""
-"9008SC",34,"",""
-"9008SC",4,"",""
-"9008SC",8,"",""
-"9008SC",20,"",""
-"9008SC",2,"",""
-"9008SC",10,"",""
-"9008SC",14,"",""
-"9008SC",18,"",""
-"9008SC",2,"A",""
-"9008SC",24,"",""
-"9008SC",22,"",""
-"9008SC",16,"",""
-"9008SC",28,"",""
-"9008SC",36,"",""
-"9008SE",21,"",""
-"9008SE",18,"",""
-"9008SE",19,"",""
-"9008SE",15,"",""
-"9008SE",22,"",""
-"9008SE",6,"",""
-"9008SE",16,"",""
-"9008SE",2,"",""
-"9008SE",20,"",""
-"9008SE",12,"",""
-"9008SE",17,"",""
-"9008SE",3,"",""
-"9008SE",11,"",""
-"9008SE",5,"",""
-"9008SE",1,"",""
-"9008SE",9,"",""
-"9008SE",14,"",""
-"9008SE",7,"",""
-"9008SE",8,"",""
-"9008SE",13,"",""
-"9008SE",4,"",""
-"9008SE",10,"",""
-"9008SH",13,"",""
-"9008SH",9,"",""
-"9008SH",1,"",""
-"9008SH",73,"A",""
-"9008SH",71,"A",""
-"9008SH",17,"",""
-"9008SH",3,"",""
-"9008SH",21,"",""
-"9008SH",33,"a",""
-"9008SH",7,"",""
-"9008SH",33,"",""
-"9008SH",5,"",""
-"9008SH",25,"",""
-"9008SH",11,"",""
-"9008SH",23,"",""
-"9008SH",23,"",""
-"9008SH",15,"",""
-"9008SH",33,"A",""
-"9008SH",25,"a",""
-"9008SH",19,"",""
-"9008SH",27,"",""
-"9008SH",21,"",""
-"9008SH",33,"A",""
-"9008SH",25,"A",""
-"9008SH",23,"",""
-"9008SH",29,"",""
-"9008SJ",71,"",""
-"9008SJ",41,"",""
-"9008SJ",59,"",""
-"9008SJ",71,"a",""
-"9008SJ",71,"",""
-"9008SJ",69,"",""
-"9008SJ",65,"",""
-"9008SJ",49,"",""
-"9008SJ",73,"a",""
-"9008SJ",63,"",""
-"9008SJ",51,"",""
-"9008SJ",77,"",""
-"9008SJ",71,"c",""
-"9008SJ",55,"",""
-"9008SJ",57,"",""
-"9008SJ",73,"",""
-"9008SJ",35,"",""
-"9008SJ",71,"a",""
-"9008SJ",61,"",""
-"9008SJ",39,"",""
-"9008SJ",71,"",""
-"9008SJ",67,"",""
-"9008SJ",53,"",""
-"9008SJ",71,"A",""
-"9008SJ",47,"",""
-"9008SJ",73,"A",""
-"9008SJ",45,"",""
-"9008SJ",37,"",""
-"9008SJ",71,"B",""
-"9008SJ",43,"",""
-"9008SJ",71,"C",""
-"9008SJ",75,"",""
-"9008SJ",71,"b",""
-"9008SJ",71,"b",""
-"9008SK",4,"A",""
-"9008SK",4,"",""
-"9008SK",14,"",""
-"9008SK",8,"",""
-"9008SK",18,"",""
-"9008SK",10,"",""
-"9008SK",20,"",""
-"9008SK",4,"a",""
-"9008SK",2,"",""
-"9008SK",16,"",""
-"9008SK",6,"",""
-"9008SM",3,"A",""
-"9008SM",7,"",""
-"9008SM",13,"",""
-"9008SM",3,"",""
-"9008SM",1,"",""
-"9008SM",5,"",""
-"9008SM",3,"a",""
-"9008SM",17,"",""
-"9008SM",1,"A",""
-"9008SM",9,"",""
-"9008SM",3,"B",""
-"9008SM",19,"",""
-"9008SM",1,"a",""
-"9008SM",3,"b",""
-"9008SM",15,"",""
-"9008SN",41,"",""
-"9008SN",59,"",""
-"9008SN",55,"",""
-"9008SN",53,"",""
-"9008SN",65,"",""
-"9008SN",37,"",""
-"9008SN",43,"",""
-"9008SN",39,"",""
-"9008SN",45,"",""
-"9008SN",25,"",""
-"9008SN",29,"",""
-"9008SN",31,"",""
-"9008SN",51,"",""
-"9008SN",57,"",""
-"9008SN",33,"",""
-"9008SN",23,"",""
-"9008SN",47,"",""
-"9008SN",35,"",""
-"9008SN",49,"",""
-"9008SP",12,"",""
-"9008SP",8,"",""
-"9008SP",3,"B",""
-"9008SP",4,"",""
-"9008SP",20,"",""
-"9008SP",10,"",""
-"9008SP",24,"",""
-"9008SP",2,"",""
-"9008SP",14,"",""
-"9008SP",34,"",""
-"9008SP",18,"",""
-"9008SP",16,"",""
-"9008SR",38,"",""
-"9008SR",32,"",""
-"9008SR",42,"",""
-"9008SR",48,"",""
-"9008SR",48,"",""
-"9008SR",30,"",""
-"9008SR",32,"",""
-"9008SR",46,"",""
-"9008SR",36,"",""
-"9008SR",48,"",""
-"9008SR",44,"",""
-"9008SR",34,"",""
-"9008SR",28,"",""
-"9008SR",26,"",""
-"9008SR",32,"",""
-"9008SR",40,"",""
-"9008ST",60,"",""
-"9008ST",80,"",""
-"9008ST",50,"",""
-"9008ST",50,"",""
-"9008ST",74,"",""
-"9008ST",72,"",""
-"9008ST",82,"",""
-"9008ST",90,"",""
-"9008ST",86,"",""
-"9008ST",68,"",""
-"9008ST",70,"",""
-"9008ST",62,"",""
-"9008ST",52,"",""
-"9008ST",64,"",""
-"9008ST",84,"",""
-"9008ST",78,"",""
-"9008ST",76,"",""
-"9008ST",66,"",""
-"9008ST",58,"",""
-"9008ST",88,"",""
-"9008ST",56,"",""
-"9008ST",54,"",""
-"9008SV",3,"",""
-"9008SV",11,"",""
-"9008SV",7,"",""
-"9008SV",15,"",""
-"9008SV",9,"",""
-"9008SV",7,"",""
-"9008SV",19,"",""
-"9008SV",13,"",""
-"9008SW",34,"",""
-"9008SW",10,"",""
-"9008SW",2,"",""
-"9008SW",38,"",""
-"9008SW",6,"",""
-"9008SW",24,"",""
-"9008SW",18,"",""
-"9008SW",36,"",""
-"9008SW",16,"",""
-"9008SW",8,"",""
-"9008SW",4,"",""
-"9008SW",26,"",""
-"9008SW",14,"",""
-"9008SW",40,"",""
-"9008SW",12,"",""
-"9008SW",22,"",""
-"9008SW",20,"",""
-"9008SX",19,"",""
-"9008SX",29,"",""
-"9008SX",5,"",""
-"9008SX",23,"",""
-"9008SX",15,"",""
-"9008SX",7,"",""
-"9008SX",3,"",""
-"9008SX",5,"",""
-"9008SX",21,"",""
-"9008SX",7,"",""
-"9008SX",9,"",""
-"9008SX",14,"",""
-"9008SX",1,"",""
-"9008SX",17,"",""
-"9008SX",11,"",""
-"9008SX",25,"",""
-"9008SX",7,"",""
-"9008SX",13,"",""
-"9008SZ",2,"",""
-"9008SZ",8,"",""
-"9008SZ",4,"",""
-"9008SZ",6,"",""
-"9008SZ",12,"",""
-"9008SZ",10,"",""
-"9008SZ",14,"",""
-"9008SZ",16,"",""
-"9008TA",15,"",""
-"9008TA",29,"",""
-"9008TA",2,"",""
-"9008TA",13,"",""
-"9008TA",1,"A",""
-"9008TA",31,"",""
-"9008TA",39,"",""
-"9008TA",6,"",""
-"9008TA",4,"",""
-"9008TA",1,"a",""
-"9008TA",33,"",""
-"9008TA",5,"",""
-"9008TA",35,"",""
-"9008TA",37,"",""
-"9008TA",29,"",""
-"9008TA",29,"",""
-"9008TB",7,"a",""
-"9008TB",7,"C",""
-"9008TB",9,"c",""
-"9008TB",9,"a",""
-"9008TB",9,"B",""
-"9008TB",1,"",""
-"9008TB",9,"b",""
-"9008TB",7,"A",""
-"9008TB",9,"C",""
-"9008TB",7,"c",""
-"9008TB",7,"",""
-"9008TB",9,"A",""
-"9008TB",9,"d",""
-"9008TB",9,"",""
-"9008TB",7,"b",""
-"9008TB",9,"D",""
-"9008TB",3,"",""
-"9008TB",7,"B",""
-"9008TB",5,"",""
-"9008TC",25,"",""
-"9008TC",23,"",""
-"9008TC",23,"",""
-"9008TC",15,"",""
-"9008TC",25,"",""
-"9008TC",19,"",""
-"9008TC",17,"",""
-"9008TC",21,"",""
-"9008TC",23,"",""
-"9008TC",11,"",""
-"9008TC",13,"",""
-"9008TD",2,"",""
-"9008TD",4,"",""
-"9008TD",6,"",""
-"9008TD",8,"",""
-"9008TE",16,"",""
-"9008TE",42,"",""
-"9008TE",26,"",""
-"9008TE",44,"",""
-"9008TE",30,"",""
-"9008TE",22,"",""
-"9008TE",24,"",""
-"9008TE",44,"","01"
-"9008TE",32,"",""
-"9008TE",42,"","01"
-"9008TE",44,"","1"
-"9008TE",42,"","01"
-"9008TE",28,"",""
-"9008TE",36,"",""
-"9008TE",38,"",""
-"9008TE",20,"",""
-"9008TE",44,"",""
-"9008TE",14,"",""
-"9008TE",44,"","01"
-"9008TE",32,"",""
-"9008TE",28,"",""
-"9008TE",28,"",""
-"9008TE",10,"",""
-"9008TE",42,"",""
-"9008TE",30,"",""
-"9008TE",12,"",""
-"9008TE",18,"",""
-"9008TE",42,"","1"
-"9008TE",40,"",""
-"9008TE",34,"",""
-"9008TE",30,"",""
-"9008TE",42,"",""
-"9008TG",8,"",""
-"9008TG",1,"",""
-"9008TG",2,"",""
-"9008TG",3,"",""
-"9008TG",6,"",""
-"9008TG",9,"",""
-"9008TG",4,"",""
-"9008TG",11,"",""
-"9008TG",7,"",""
-"9008TG",11,"",""
-"9008TH",10,"",""
-"9008TH",9,"",""
-"9008TH",3,"",""
-"9008TH",5,"",""
-"9008TH",15,"",""
-"9008TH",17,"",""
-"9008TH",8,"",""
-"9008TH",14,"",""
-"9008TH",16,"",""
-"9008TH",7,"",""
-"9008TH",1,"",""
-"9008TH",6,"",""
-"9008TH",12,"",""
-"9008TJ",13,"",""
-"9008TJ",45,"A",""
-"9008TJ",35,"",""
-"9008TJ",25,"",""
-"9008TJ",37,"",""
-"9008TJ",45,"a",""
-"9008TJ",21,"",""
-"9008TJ",43,"a",""
-"9008TJ",43,"",""
-"9008TJ",31,"",""
-"9008TJ",27,"",""
-"9008TJ",11,"",""
-"9008TJ",15,"",""
-"9008TJ",33,"",""
-"9008TJ",29,"",""
-"9008TJ",1,"",""
-"9008TJ",9,"",""
-"9008TJ",45,"",""
-"9008TJ",41,"A",""
-"9008TJ",17,"",""
-"9008TJ",41,"a",""
-"9008TJ",41,"",""
-"9008TJ",7,"",""
-"9008TJ",5,"",""
-"9008TJ",3,"",""
-"9008TJ",43,"A",""
-"9008TJ",19,"",""
-"9008TJ",23,"",""
-"9008TJ",39,"",""
-"9008TK",57,"",""
-"9008TK",63,"",""
-"9008TK",55,"",""
-"9008TK",71,"",""
-"9008TK",73,"",""
-"9008TK",65,"",""
-"9008TK",69,"",""
-"9008TK",75,"",""
-"9008TK",49,"",""
-"9008TK",47,"",""
-"9008TK",77,"",""
-"9008TK",51,"",""
-"9008TK",67,"",""
-"9008TK",53,"",""
-"9008TK",61,"",""
-"9008TL",85,"",""
-"9008TL",87,"",""
-"9008TL",83,"",""
-"9008TL",93,"",""
-"9008TL",89,"",""
-"9008TL",95,"",""
-"9008TL",79,"",""
-"9008TL",91,"",""
-"9008TL",81,"",""
-"9008TM",2,"",""
-"9008TM",4,"",""
-"9008TM",14,"",""
-"9008TM",8,"",""
-"9008TM",30,"",""
-"9008TM",24,"",""
-"9008TM",16,"",""
-"9008TM",28,"",""
-"9008TM",26,"",""
-"9008TM",20,"",""
-"9008TM",10,"",""
-"9008TM",32,"",""
-"9008TM",6,"",""
-"9008TM",18,"",""
-"9008TM",12,"",""
-"9008TM",22,"",""
-"9008TN",42,"",""
-"9008TN",54,"",""
-"9008TN",52,"",""
-"9008TN",44,"",""
-"9008TN",64,"",""
-"9008TN",62,"",""
-"9008TN",60,"",""
-"9008TN",38,"",""
-"9008TN",46,"",""
-"9008TN",36,"",""
-"9008TN",40,"",""
-"9008TN",34,"",""
-"9008TN",82,"E",""
-"9008TN",50,"",""
-"9008TN",48,"",""
-"9008TN",82,"H",""
-"9008TN",82,"G",""
-"9008TN",72,"a",""
-"9008TN",70,"",""
-"9008TN",58,"",""
-"9008TN",82,"D",""
-"9008TN",72,"A",""
-"9008TN",68,"",""
-"9008TN",72,"",""
-"9008TN",82,"F",""
-"9008TN",82,"B",""
-"9008TN",56,"",""
-"9008TN",82,"A",""
-"9008TN",82,"C",""
-"9008TN",66,"",""
-"9008TP",82,"E",""
-"9008TP",82,"B",""
-"9008TP",80,"",""
-"9008TP",82,"G",""
-"9008TP",76,"",""
-"9008TP",82,"A",""
-"9008TP",82,"F",""
-"9008TP",78,"",""
-"9008TP",82,"D",""
-"9008TP",90,"",""
-"9008TP",88,"",""
-"9008TP",82,"f",""
-"9008TP",82,"C",""
-"9008TP",82,"d",""
-"9008TP",92,"",""
-"9008TP",94,"",""
-"9008TP",82,"",""
-"9008TP",82,"b",""
-"9008TP",86,"",""
-"9008TP",82,"h",""
-"9008TP",82,"e",""
-"9008TP",82,"a",""
-"9008TP",74,"",""
-"9008TP",84,"",""
-"9008TP",82,"H",""
-"9008TP",82,"c",""
-"9008TP",82,"g",""
-"9008TR",4,"",""
-"9008TR",9,"",""
-"9008TR",1,"A",""
-"9008TR",5,"",""
-"9008TR",10,"",""
-"9008TR",1,"a",""
-"9008TR",11,"",""
-"9008TR",8,"",""
-"9008TR",3,"",""
-"9008TR",13,"",""
-"9008TR",1,"",""
-"9008TR",6,"",""
-"9008TR",12,"",""
-"9008TR",14,"",""
-"9008TR",5,"A",""
-"9008TR",7,"",""
-"9008TR",5,"A",""
-"9008TR",2,"",""
-"9008TW",10,"",""
-"9008TW",1,"",""
-"9008TW",2,"",""
-"9008TW",8,"",""
-"9008TW",5,"",""
-"9008TW",13,"",""
-"9008TW",14,"",""
-"9008TW",11,"",""
-"9008TW",4,"",""
-"9008TW",7,"",""
-"9008TW",9,"",""
-"9008TW",12,"",""
-"9008TW",6,"",""
-"9008TW",3,"",""
-9008SE,Alle-Jans-Smedingstr,3,,
-9008SE,Alle Jans Smedingstrjitte,3,,
-9008SE,Alle-Jans-Smedingstr,5,,
-9008SE,Alle Jans Smedingstrjitte,5,,
-9008SE,Alle-Jans-Smedingstr,9,,
-9008SE,Alle Jans Smedingstrjitte,9,,
-9008SE,Alle-Jans-Smedingstr,21,,
-9008SE,Alle Jans Smedingstrjitte,21,,
-9008SH,Ayttawei,71,A,
-9008SH,Ayttawei,11,,
-9008SH,Ayttawei,9,,
-9008SH,Ayttawei,21,,
-9008SH,Ayttawei,23,,
-9008SH,Ayttawei,7,,
-9008SH,Ayttawei,5,,
-9008SH,Ayttawei,3,,
-9008SH,Ayttawei,25,A,
-9008SH,Ayttawei,25,a,
-9008SH,Ayttawei,27,,
-9008SH,Ayttawei,33,,
-9008SH,Ayttawei,33,A,
-9008SH,Ayttawei,33,A,
-9008SH,Ayttawei,33,a,
-9008SH,Ayttawei,1,,
-9008SJ,Ayttawei,71,,
-9008SJ,Ayttawei,71,A,
-9008SJ,Ayttawei,71,a,
-9008SJ,Ayttawei,35,,
-9008SJ,Ayttawei,73,,
-9008SJ,Ayttawei,77,,
-9008SJ,Ayttawei,37,,
-9008SJ,Ayttawei,47,,
-9008SJ,Ayttawei,39,,
-9008SJ,Ayttawei,69,,
-9008SK,Ayttawei,2,,
-9008SK,Ayttawei,4,A,
-9008SK,Ayttawei,4,a,
-9008SK,Ayttawei,8,,
-9008SK,Ayttawei,16,,
-9008SK,Ayttawei,6,,
-9008SK,Ayttawei,10,,
-9008SK,Ayttawei,4,,
-9008SK,Ayttawei,20,,
-9008SV,Buorren,19,,
-9008SV,Buorren,3,,
-9008SV,Buorren,13,,
-9008SV,Buorren,15,,
-9008SV,Buorren,11,,
-9008SW,Buorren,8,,
-9008SW,Buorren,10,,
-9008SW,Buorren,40,,
-9008SW,Buorren,6,,
-9008SW,Buorren,34,,
-9008TJ,D.S. Bangmastrjitte,45,,
-9008TJ,D.S. Bangmastrjitte,9,,
-9008TJ,D.S. Bangmastrjitte,15,,
-9008TJ,D.S. Bangmastrjitte,1,,
-9008TJ,D.S. Bangmastrjitte,5,,
-9008TJ,D.S. Bangmastrjitte,17,,
-9008TJ,D.S. Bangmastrjitte,11,,
-9008TJ,D.S. Bangmastrjitte,13,,
-9008TJ,D.S. Bangmastrjitte,43,A,
-9008TJ,D.S. Bangmastrjitte,43,a,
-9008TJ,D.S. Bangmastrjitte,43,,
-9008TJ,D.S. Bangmastrjitte,21,,
-9008TJ,D.S. Bangmastrjitte,27,,
-9008TJ,D.S. Bangmastrjitte,25,,
-9008TJ,D.S. Bangmastrjitte,19,,
-9008TK,D.S. Bangmastrjitte,53,,
-9008TK,D.S. Bangmastrjitte,49,,
-9008TK,D.S. Bangmastrjitte,47,,
-9008TK,D.S. Bangmastrjitte,51,,
-9008TK,D.S. Bangmastrjitte,71,,
-9008TL,D.S. Bangmastrjitte,95,,
-9008TL,D.S. Bangmastrjitte,87,,
-9008TM,D.S. Bangmastrjitte,18,,
-9008TM,D.S. Bangmastrjitte,2,,
-9008TM,D.S. Bangmastrjitte,8,,
-9008TM,D.S. Bangmastrjitte,4,,
-9008TM,D.S. Bangmastrjitte,6,,
-9008TM,D.S. Bangmastrjitte,32,,
-9008TM,D.S. Bangmastrjitte,26,,
-9008TN,D.S. Bangmastrjitte,50,,
-9008TN,D.S. Bangmastrjitte,48,,
-9008TN,D.S. Bangmastrjitte,64,,
-9008TN,D.S. Bangmastrjitte,42,,
-9008TP,D.S. Bangmastrjitte,74,,
-9008RD,De Terp,4,,
-9008RD,De Terp,2,,
-9008RD,De Terp,6,,
-9008TR,De Trije Romers,1,A,
-9008TR,De Trije Romers,1,a,
-9008TR,De Trije Romers,13,,
-9008TR,De Trije Romers,4,,
-9008TR,De Trije Romers,14,,
-9008TR,De Trije Romers,12,,
-9008TR,De Trije Romers,5,,
-9008TR,De Trije Romers,7,,
-9008TR,De Trije Romers,2,,
-9008TR,De Trije Romers,1,,
-9008TR,De Trije Romers,6,,
-9008TR,De Trije Romers,10,,
-9008TR,De Trije Romers,8,,
-9008TR,De Trije Romers,3,,
-9008SB,Ds. Boersstrjitte,7,,
-9008SB,Ds. Boersstrjitte,5,,
-9008SC,Ds. Boersstrjitte,2,,
-9008SC,Ds. Boersstrjitte,16,,
-9008SC,Ds. Boersstrjitte,18,,
-9008SC,Ds. Boersstrjitte,8,,
-9008SC,Ds. Boersstrjitte,20,,
-9008SC,Ds. Boersstrjitte,12,,
-9008SC,Ds. Boersstrjitte,10,,
-9008SC,Ds. Boersstrjitte,6,,
-9008SC,Ds. Boersstrjitte,4,,
-9008SC,Ds. Boersstrjitte,22,,
-9008SC,Ds. Boersstrjitte,14,,
-9008SM,Haedstrjitte,9,,
-9008SM,Haedstrjitte,19,,
-9008SM,Haedstrjitte,3,,
-9008SM,Haedstrjitte,13,,
-9008SM,Haedstrjitte,1,,
-9008SM,Haedstrjitte,3,A,
-9008SM,Haedstrjitte,3,a,
-9008SM,Haedstrjitte,1,A,
-9008SM,Haedstrjitte,1,a,
-9008SM,Haedstrjitte,17,,
-9008SM,Haedstrjitte,5,,
-9008SN,Haedstrjitte,35,,
-9008SN,Haedstrjitte,23,,
-9008SN,Haedstrjitte,25,,
-9008SN,Haedstrjitte,39,,
-9008SN,Haedstrjitte,59,,
-9008SN,Haedstrjitte,29,,
-9008SN,Haedstrjitte,55,,
-9008SN,Haedstrjitte,37,,
-9008SN,Haedstrjitte,51,,
-9008SN,Haedstrjitte,53,,
-9008SN,Haedstrjitte,43,,
-9008SN,Haedstrjitte,41,,
-9008SN,Haedstrjitte,49,,
-9008SN,Haedstrjitte,47,,
-9008SP,Haedstrjitte,24,,
-9008SP,Haedstrjitte,2,,
-9008SP,Haedstrjitte,18,,
-9008SP,Haedstrjitte,16,,
-9008SP,Haedstrjitte,14,,
-9008SP,Haedstrjitte,12,,
-9008SP,Haedstrjitte,4,,
-9008SP,Haedstrjitte,20,,
-9008SP,Haedstrjitte,8,,
-9008SR,Haedstrjitte,40,,
-9008SR,Haedstrjitte,46,,
-9008SR,Haedstrjitte,28,,
-9008SR,Haedstrjitte,30,,
-9008SR,Haedstrjitte,42,,
-9008SR,Haedstrjitte,48,,
-9008ST,Haedstrjitte,70,,
-9008ST,Haedstrjitte,52,,
-9008ST,Haedstrjitte,74,,
-9008ST,Haedstrjitte,82,,
-9008ST,Haedstrjitte,86,,
-9008ST,Haedstrjitte,72,,
-9008ST,Haedstrjitte,64,,
-9008ST,Haedstrjitte,88,,
-9008ST,Haedstrjitte,80,,
-9008SX,Haven,13,,
-9008SX,Haven,25,,
-9008SX,Haven,14,,
-9008SX,Haven,9,,
-9008SZ,Haven,12,,
-9008SZ,Haven,14,,
-9008SZ,Haven,4,,
-9008SZ,Haven,2,,
-9008TW,It Houtstek,12,,
-9008TW,It Houtstek,13,,
-9008TW,It Houtstek,9,,
-9008TW,It Houtstek,8,,
-9008TW,It Houtstek,7,,
-9008TW,It Houtstek,11,,
-9008TW,It Houtstek,10,,
-9008TW,It Houtstek,2,,
-9008TW,It Houtstek,1,,
-9008RA,It Pypke,10,,
-9008RA,It Pypke,12,,
-9008RA,It Pypke,1,,
-9008RA,It Pypke,8,,
-9008RA,It Pypke,6,,
-9008TH,Joksewei,17,,
-9008TH,Joksewei,1,,
-9008TA,Legedyk,2,,
-9008TA,Legedyk,31,,
-9008TA,Legedyk,1,A,
-9008TA,Legedyk,1,a,
-9008TA,Legedyk,4,,
-9008TB,Master-Gorterstrjitte,9,,
-9008TB,Master Gorterstrjitte,9,,
-9008TB,Master-Gorterstrjitte,9,A,
-9008TB,Master Gorterstrjitte,9,A,
-9008TB,Master-Gorterstrjitte,9,a,
-9008TB,Master Gorterstrjitte,9,a,
-9008TB,Master-Gorterstrjitte,7,C,
-9008TB,Master Gorterstrjitte,7,C,
-9008TB,Master-Gorterstrjitte,7,c,
-9008TB,Master Gorterstrjitte,7,c,
-9008TB,Master-Gorterstrjitte,7,B,
-9008TB,Master Gorterstrjitte,7,B,
-9008TB,Master-Gorterstrjitte,7,b,
-9008TB,Master Gorterstrjitte,7,b,
-9008TB,Master-Gorterstrjitte,7,A,
-9008TB,Master Gorterstrjitte,7,A,
-9008TB,Master-Gorterstrjitte,7,a,
-9008TB,Master Gorterstrjitte,7,a,
-9008TB,Master-Gorterstrjitte,9,D,
-9008TB,Master Gorterstrjitte,9,D,
-9008TB,Master-Gorterstrjitte,9,d,
-9008TB,Master Gorterstrjitte,9,d,
-9008TC,Master-Gorterstrjitte,17,,
-9008TC,Master Gorterstrjitte,17,,
-9008TE,Master-Gorterstrjitte,40,,
-9008TE,Master Gorterstrjitte,40,,
-9008RE,Oan it Swin,4,,
-9008RE,Oan it Swin,3,,
-9008RE,Oan it Swin,5,,
-9008RE,Oan it Swin,7,,
-9008RE,Oan it Swin,6,,
-9008RE,Oan it Swin,8,,
-9008RC,Op 'e iisbaan,9,,
-9008RC,Op 'e iisbaan,3,,
-9008RC,Op 'e iisbaan,1,,
-9008RC,Op 'e iisbaan,7,,
-9008RC,Op 'e iisbaan,5,,
-9008TG,Stânfriesstrjitte,9,,
-9008TG,Stânfriesstrjitte,7,,
-9008RB,Suderom,13,,
-9008RB,Suderom,5,,
-9008RB,Suderom,9,,
-9008RB,Suderom,7,,
-9008RB,Suderom,1,,
-9008RB,Suderom,11,,
-9008RB,Suderom,14,,
-9008RB,Suderom,12,,
-9008RB,Suderom,16,,
-9008SE,Alle-Jans-Smedingstr,18,,
-9008SE,Alle Jans Smedingstrjitte,18,,
-9008SE,Alle-Jans-Smedingstr,4,,
-9008SE,Alle Jans Smedingstrjitte,4,,
-9008SE,Alle-Jans-Smedingstr,7,,
-9008SE,Alle Jans Smedingstrjitte,7,,
-9008SE,Alle-Jans-Smedingstr,15,,
-9008SE,Alle Jans Smedingstrjitte,15,,
-9008SE,Alle-Jans-Smedingstr,13,,
-9008SE,Alle Jans Smedingstrjitte,13,,
-9008SE,Alle-Jans-Smedingstr,17,,
-9008SE,Alle Jans Smedingstrjitte,17,,
-9008SE,Alle-Jans-Smedingstr,14,,
-9008SE,Alle Jans Smedingstrjitte,14,,
-9008SE,Alle-Jans-Smedingstr,8,,
-9008SE,Alle Jans Smedingstrjitte,8,,
-9008SE,Alle-Jans-Smedingstr,6,,
-9008SE,Alle Jans Smedingstrjitte,6,,
-9008SE,Alle-Jans-Smedingstr,2,,
-9008SE,Alle Jans Smedingstrjitte,2,,
-9008SE,Alle-Jans-Smedingstr,16,,
-9008SE,Alle Jans Smedingstrjitte,16,,
-9008SE,Alle-Jans-Smedingstr,12,,
-9008SE,Alle Jans Smedingstrjitte,12,,
-9008SE,Alle-Jans-Smedingstr,22,,
-9008SE,Alle Jans Smedingstrjitte,22,,
-9008SE,Alle-Jans-Smedingstr,20,,
-9008SE,Alle Jans Smedingstrjitte,20,,
-9008SE,Alle-Jans-Smedingstr,10,,
-9008SE,Alle Jans Smedingstrjitte,10,,
-9008SE,Alle-Jans-Smedingstr,1,,
-9008SE,Alle Jans Smedingstrjitte,1,,
-9008SE,Alle-Jans-Smedingstr,11,,
-9008SE,Alle Jans Smedingstrjitte,11,,
-9008SE,Alle-Jans-Smedingstr,19,,
-9008SE,Alle Jans Smedingstrjitte,19,,
-9008SH,Ayttawei,29,,
-9008SH,Ayttawei,17,,
-9008SH,Ayttawei,19,,
-9008SH,Ayttawei,15,,
-9008SH,Ayttawei,25,,
-9008SH,Ayttawei,73,A,
-9008SH,Ayttawei,13,,
-9008SJ,Ayttawei,41,,
-9008SJ,Ayttawei,45,,
-9008SJ,Ayttawei,55,,
-9008SJ,Ayttawei,51,,
-9008SJ,Ayttawei,67,,
-9008SJ,Ayttawei,65,,
-9008SJ,Ayttawei,63,,
-9008SJ,Ayttawei,61,,
-9008SJ,Ayttawei,57,,
-9008SJ,Ayttawei,53,,
-9008SJ,Ayttawei,49,,
-9008SJ,Ayttawei,73,A,
-9008SJ,Ayttawei,73,a,
-9008SJ,Ayttawei,75,,
-9008SJ,Ayttawei,43,,
-9008SJ,Ayttawei,59,,
-9008SJ,Ayttawei,71,B,
-9008SJ,Ayttawei,71,b,
-9008SJ,Ayttawei,71,C,
-9008SJ,Ayttawei,71,c,
-9008SK,Ayttawei,18,,
-9008SK,Ayttawei,14,,
-9008SV,Buorren,7,,
-9008SV,Buorren,7,,
-9008SV,Buorren,9,,
-9008SW,Buorren,2,,
-9008SW,Buorren,38,,
-9008SW,Buorren,4,,
-9008SW,Buorren,36,,
-9008SW,Buorren,26,,
-9008SW,Buorren,22,,
-9008SW,Buorren,16,,
-9008SW,Buorren,20,,
-9008SW,Buorren,12,,
-9008SW,Buorren,14,,
-9008SW,Buorren,24,,
-9008SW,Buorren,18,,
-9008TJ,D.S. Bangmastrjitte,41,A,
-9008TJ,D.S. Bangmastrjitte,41,a,
-9008TJ,D.S. Bangmastrjitte,29,,
-9008TJ,D.S. Bangmastrjitte,37,,
-9008TJ,D.S. Bangmastrjitte,33,,
-9008TJ,D.S. Bangmastrjitte,41,,
-9008TJ,D.S. Bangmastrjitte,35,,
-9008TJ,D.S. Bangmastrjitte,31,,
-9008TJ,D.S. Bangmastrjitte,39,,
-9008TJ,D.S. Bangmastrjitte,3,,
-9008TJ,D.S. Bangmastrjitte,7,,
-9008TJ,D.S. Bangmastrjitte,45,A,
-9008TJ,D.S. Bangmastrjitte,45,a,
-9008TJ,D.S. Bangmastrjitte,23,,
-9008TK,D.S. Bangmastrjitte,63,,
-9008TK,D.S. Bangmastrjitte,75,,
-9008TK,D.S. Bangmastrjitte,67,,
-9008TK,D.S. Bangmastrjitte,69,,
-9008TK,D.S. Bangmastrjitte,77,,
-9008TK,D.S. Bangmastrjitte,65,,
-9008TK,D.S. Bangmastrjitte,57,,
-9008TK,D.S. Bangmastrjitte,61,,
-9008TK,D.S. Bangmastrjitte,73,,
-9008TK,D.S. Bangmastrjitte,55,,
-9008TL,D.S. Bangmastrjitte,93,,
-9008TL,D.S. Bangmastrjitte,89,,
-9008TL,D.S. Bangmastrjitte,81,,
-9008TL,D.S. Bangmastrjitte,83,,
-9008TL,D.S. Bangmastrjitte,85,,
-9008TL,D.S. Bangmastrjitte,91,,
-9008TL,D.S. Bangmastrjitte,79,,
-9008TM,D.S. Bangmastrjitte,28,,
-9008TM,D.S. Bangmastrjitte,10,,
-9008TM,D.S. Bangmastrjitte,20,,
-9008TM,D.S. Bangmastrjitte,14,,
-9008TM,D.S. Bangmastrjitte,24,,
-9008TM,D.S. Bangmastrjitte,16,,
-9008TM,D.S. Bangmastrjitte,30,,
-9008TM,D.S. Bangmastrjitte,12,,
-9008TM,D.S. Bangmastrjitte,22,,
-9008TN,D.S. Bangmastrjitte,60,,
-9008TN,D.S. Bangmastrjitte,44,,
-9008TN,D.S. Bangmastrjitte,46,,
-9008TN,D.S. Bangmastrjitte,62,,
-9008TN,D.S. Bangmastrjitte,82,H,
-9008TN,D.S. Bangmastrjitte,82,A,
-9008TN,D.S. Bangmastrjitte,82,D,
-9008TN,D.S. Bangmastrjitte,82,C,
-9008TN,D.S. Bangmastrjitte,82,B,
-9008TN,D.S. Bangmastrjitte,34,,
-9008TN,D.S. Bangmastrjitte,66,,
-9008TN,D.S. Bangmastrjitte,68,,
-9008TN,D.S. Bangmastrjitte,52,,
-9008TN,D.S. Bangmastrjitte,36,,
-9008TN,D.S. Bangmastrjitte,38,,
-9008TN,D.S. Bangmastrjitte,70,,
-9008TN,D.S. Bangmastrjitte,72,,
-9008TN,D.S. Bangmastrjitte,40,,
-9008TN,D.S. Bangmastrjitte,72,A,
-9008TN,D.S. Bangmastrjitte,72,a,
-9008TN,D.S. Bangmastrjitte,58,,
-9008TN,D.S. Bangmastrjitte,82,E,
-9008TN,D.S. Bangmastrjitte,82,G,
-9008TN,D.S. Bangmastrjitte,82,F,
-9008TN,D.S. Bangmastrjitte,54,,
-9008TN,D.S. Bangmastrjitte,56,,
-9008TP,D.S. Bangmastrjitte,82,,
-9008TP,D.S. Bangmastrjitte,76,,
-9008TP,D.S. Bangmastrjitte,78,,
-9008TP,D.S. Bangmastrjitte,80,,
-9008TP,D.S. Bangmastrjitte,82,H,
-9008TP,D.S. Bangmastrjitte,82,h,
-9008TP,D.S. Bangmastrjitte,82,A,
-9008TP,D.S. Bangmastrjitte,82,a,
-9008TP,D.S. Bangmastrjitte,82,D,
-9008TP,D.S. Bangmastrjitte,82,d,
-9008TP,D.S. Bangmastrjitte,82,C,
-9008TP,D.S. Bangmastrjitte,82,c,
-9008TP,D.S. Bangmastrjitte,82,B,
-9008TP,D.S. Bangmastrjitte,82,b,
-9008TP,D.S. Bangmastrjitte,90,,
-9008TP,D.S. Bangmastrjitte,84,,
-9008TP,D.S. Bangmastrjitte,94,,
-9008TP,D.S. Bangmastrjitte,88,,
-9008TP,D.S. Bangmastrjitte,82,E,
-9008TP,D.S. Bangmastrjitte,82,e,
-9008TP,D.S. Bangmastrjitte,82,G,
-9008TP,D.S. Bangmastrjitte,82,g,
-9008TP,D.S. Bangmastrjitte,82,F,
-9008TP,D.S. Bangmastrjitte,82,f,
-9008TP,D.S. Bangmastrjitte,86,,
-9008TP,D.S. Bangmastrjitte,92,,
-9008RD,De Terp,10,,
-9008RD,De Terp,16,,
-9008RD,De Terp,18,,
-9008RD,De Terp,22,,
-9008RD,De Terp,24,,
-9008RD,De Terp,26,,
-9008RD,De Terp,30,,
-9008RD,De Terp,32,,
-9008RD,De Terp,1,,
-9008RD,De Terp,3,,
-9008RD,De Terp,5,,
-9008RD,De Terp,7,,
-9008RD,De Terp,11,,
-9008RD,De Terp,8,,
-9008RD,De Terp,12,,
-9008RD,De Terp,14,,
-9008RD,De Terp,20,,
-9008RD,De Terp,28,,
-9008RD,De Terp,9,,
-9008TR,De Trije Romers,11,,
-9008TR,De Trije Romers,9,,
-9008TR,De Trije Romers,5,A,
-9008SB,Ds. Boersstrjitte,1,,
-9008SB,Ds. Boersstrjitte,3,A,
-9008SB,Ds. Boersstrjitte,3,a,
-9008SB,Ds. Boersstrjitte,3,,
-9008SC,Ds. Boersstrjitte,26,,
-9008SC,Ds. Boersstrjitte,28,,
-9008SC,Ds. Boersstrjitte,24,,
-9008SC,Ds. Boersstrjitte,30,,
-9008SC,Ds. Boersstrjitte,32,,
-9008SC,Ds. Boersstrjitte,34,,
-9008SC,Ds. Boersstrjitte,34,,
-9008SC,Ds. Boersstrjitte,36,,
-9008SC,Ds. Boersstrjitte,2,A,
-9008SM,Haedstrjitte,7,,
-9008SM,Haedstrjitte,15,,
-9008SM,Haedstrjitte,3,B,
-9008SM,Haedstrjitte,3,b,
-9008SN,Haedstrjitte,33,,
-9008SN,Haedstrjitte,65,,
-9008SN,Haedstrjitte,31,,
-9008SN,Haedstrjitte,57,,
-9008SN,Haedstrjitte,45,,
-9008SP,Haedstrjitte,34,,
-9008SP,Haedstrjitte,3,B,
-9008SP,Haedstrjitte,10,,
-9008SR,Haedstrjitte,32,,
-9008SR,Haedstrjitte,38,,
-9008SR,Haedstrjitte,34,,
-9008SR,Haedstrjitte,26,,
-9008SR,Haedstrjitte,36,,
-9008SR,Haedstrjitte,44,,
-9008ST,Haedstrjitte,76,,
-9008ST,Haedstrjitte,62,,
-9008ST,Haedstrjitte,90,,
-9008ST,Haedstrjitte,60,,
-9008ST,Haedstrjitte,58,,
-9008ST,Haedstrjitte,78,,
-9008ST,Haedstrjitte,54,,
-9008ST,Haedstrjitte,56,,
-9008ST,Haedstrjitte,50,,
-9008ST,Haedstrjitte,84,,
-9008ST,Haedstrjitte,68,,
-9008SX,Haven,23,,
-9008SX,Haven,19,,
-9008SX,Haven,17,,
-9008SX,Haven,3,,
-9008SX,Haven,15,,
-9008SX,Haven,1,,
-9008SX,Haven,7,,
-9008SX,Haven,5,,
-9008SX,Haven,29,,
-9008SX,Haven,11,,
-9008SX,Haven,21,,
-9008SZ,Haven,10,,
-9008SZ,Haven,8,,
-9008SZ,Haven,6,,
-9008SZ,Haven,16,,
-9008TW,It Houtstek,4,,
-9008TW,It Houtstek,3,,
-9008TW,It Houtstek,14,,
-9008TW,It Houtstek,6,,
-9008TW,It Houtstek,5,,
-9008RA,It Pypke,4,,
-9008TH,Joksewei,3,,
-9008TH,Joksewei,9,,
-9008TH,Joksewei,5,,
-9008TH,Joksewei,7,,
-9008TH,Joksewei,8,,
-9008TH,Joksewei,14,,
-9008TH,Joksewei,12,,
-9008TH,Joksewei,10,,
-9008TH,Joksewei,15,,
-9008TH,Joksewei,6,,
-9008TH,Joksewei,16,,
-9008TA,Legedyk,39,,
-9008TA,Legedyk,13,,
-9008TA,Legedyk,33,,
-9008TA,Legedyk,6,,
-9008TA,Legedyk,15,,
-9008TA,Legedyk,5,,
-9008TA,Legedyk,29,,
-9008TA,Legedyk,37,,
-9008TA,Legedyk,35,,
-9008TB,Master-Gorterstrjitte,9,B,
-9008TB,Master Gorterstrjitte,9,B,
-9008TB,Master-Gorterstrjitte,9,b,
-9008TB,Master Gorterstrjitte,9,b,
-9008TB,Master-Gorterstrjitte,9,C,
-9008TB,Master Gorterstrjitte,9,C,
-9008TB,Master-Gorterstrjitte,9,c,
-9008TB,Master Gorterstrjitte,9,c,
-9008TB,Master-Gorterstrjitte,3,,
-9008TB,Master Gorterstrjitte,3,,
-9008TB,Master-Gorterstrjitte,1,,
-9008TB,Master Gorterstrjitte,1,,
-9008TB,Master-Gorterstrjitte,5,,
-9008TB,Master Gorterstrjitte,5,,
-9008TB,Master-Gorterstrjitte,7,,
-9008TB,Master Gorterstrjitte,7,,
-9008TC,Master-Gorterstrjitte,15,,
-9008TC,Master Gorterstrjitte,15,,
-9008TC,Master-Gorterstrjitte,13,,
-9008TC,Master Gorterstrjitte,13,,
-9008TC,Master-Gorterstrjitte,21,,
-9008TC,Master Gorterstrjitte,21,,
-9008TC,Master-Gorterstrjitte,11,,
-9008TC,Master Gorterstrjitte,11,,
-9008TC,Master-Gorterstrjitte,23,,
-9008TC,Master Gorterstrjitte,23,,
-9008TC,Master-Gorterstrjitte,19,,
-9008TC,Master Gorterstrjitte,19,,
-9008TC,Master-Gorterstrjitte,25,,
-9008TC,Master Gorterstrjitte,25,,
-9008TD,Master-Gorterstrjitte,6,,
-9008TD,Master Gorterstrjitte,6,,
-9008TD,Master-Gorterstrjitte,4,,
-9008TD,Master Gorterstrjitte,4,,
-9008TD,Master-Gorterstrjitte,2,,
-9008TD,Master Gorterstrjitte,2,,
-9008TD,Master-Gorterstrjitte,8,,
-9008TD,Master Gorterstrjitte,8,,
-9008TE,Master-Gorterstrjitte,38,,
-9008TE,Master Gorterstrjitte,38,,
-9008TE,Master-Gorterstrjitte,34,,
-9008TE,Master Gorterstrjitte,34,,
-9008TE,Master-Gorterstrjitte,36,,
-9008TE,Master Gorterstrjitte,36,,
-9008TE,Master-Gorterstrjitte,28,,
-9008TE,Master Gorterstrjitte,28,,
-9008TE,Master-Gorterstrjitte,16,,
-9008TE,Master Gorterstrjitte,16,,
-9008TE,Master-Gorterstrjitte,30,,
-9008TE,Master Gorterstrjitte,30,,
-9008TE,Master-Gorterstrjitte,32,,
-9008TE,Master Gorterstrjitte,32,,
-9008TE,Master-Gorterstrjitte,20,,
-9008TE,Master Gorterstrjitte,20,,
-9008TE,Master-Gorterstrjitte,18,,
-9008TE,Master Gorterstrjitte,18,,
-9008TE,Master-Gorterstrjitte,24,,
-9008TE,Master Gorterstrjitte,24,,
-9008TE,Master-Gorterstrjitte,12,,
-9008TE,Master Gorterstrjitte,12,,
-9008TE,Master-Gorterstrjitte,22,,
-9008TE,Master Gorterstrjitte,22,,
-9008TE,Master-Gorterstrjitte,10,,
-9008TE,Master Gorterstrjitte,10,,
-9008TE,Master-Gorterstrjitte,14,,
-9008TE,Master Gorterstrjitte,14,,
-9008TE,Master-Gorterstrjitte,26,,
-9008TE,Master Gorterstrjitte,26,,
-9008TE,Master-Gorterstrjitte,44,,
-9008TE,Master Gorterstrjitte,44,,
-9008TE,Master-Gorterstrjitte,44,,1
-9008TE,Master Gorterstrjitte,44,,1
-9008TE,Master-Gorterstrjitte,44,,01
-9008TE,Master Gorterstrjitte,44,,01
-9008TE,Master-Gorterstrjitte,42,,
-9008TE,Master Gorterstrjitte,42,,
-9008TE,Master-Gorterstrjitte,42,,1
-9008TE,Master Gorterstrjitte,42,,1
-9008TE,Master-Gorterstrjitte,42,,01
-9008TE,Master Gorterstrjitte,42,,01
-9008RE,Oan it Swin,9,,
-9008RE,Oan it Swin,9,,
-9008RE,Oan it Swin,1,,
-9008RE,Oan it Swin,2,,
-9008TG,Stânfriesstrjitte,3,,
-9008TG,Stânfriesstrjitte,6,,
-9008TG,Stânfriesstrjitte,4,,
-9008TG,Stânfriesstrjitte,11,,
-9008TG,Stânfriesstrjitte,8,,
-9008TG,Stânfriesstrjitte,2,,
-9008TG,Stânfriesstrjitte,1,,
-9008RB,Suderom,2,,
-9008RB,Suderom,6,,
-9008RB,Suderom,4,,
-9008RB,Suderom,8,,
-9008RB,Suderom,10,,
-9008RB,Suderom,3,,
-9008SR,Haedstrjitte,48,,
-9008ST,Haedstrjitte,66,,
-9008TA,Legedyk,29,,
-9008TC,Master-Gorterstrjitte,23,,
-9008TC,Master Gorterstrjitte,23,,
-9008TE,Master-Gorterstrjitte,28,,
-9008TE,Master Gorterstrjitte,28,,
-9008TE,Master-Gorterstrjitte,30,,
-9008TE,Master Gorterstrjitte,30,,
-9008TE,Master-Gorterstrjitte,42,,
-9008TE,Master Gorterstrjitte,42,,
-9008SH,Ayttawei,23,,
-9008SJ,Ayttawei,71,,
-9008SR,Haedstrjitte,32,,
-9008SX,Haven,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+It Pypke,1,"","",9008RA,Reduzum
+It Pypke,10,"","",9008RA,Reduzum
+It Pypke,12,"","",9008RA,Reduzum
+It Pypke,4,"","",9008RA,Reduzum
+It Pypke,6,"","",9008RA,Reduzum
+It Pypke,8,"","",9008RA,Reduzum
+Suderom,1,"","",9008RB,Reduzum
+Suderom,10,"","",9008RB,Reduzum
+Suderom,11,"","",9008RB,Reduzum
+Suderom,12,"","",9008RB,Reduzum
+Suderom,13,"","",9008RB,Reduzum
+Suderom,14,"","",9008RB,Reduzum
+Suderom,16,"","",9008RB,Reduzum
+Suderom,2,"","",9008RB,Reduzum
+Suderom,3,"","",9008RB,Reduzum
+Suderom,4,"","",9008RB,Reduzum
+Suderom,5,"","",9008RB,Reduzum
+Suderom,6,"","",9008RB,Reduzum
+Suderom,7,"","",9008RB,Reduzum
+Suderom,8,"","",9008RB,Reduzum
+Suderom,9,"","",9008RB,Reduzum
+Op 'e iisbaan,1,"","",9008RC,Reduzum
+Op 'e iisbaan,3,"","",9008RC,Reduzum
+Op 'e iisbaan,5,"","",9008RC,Reduzum
+Op 'e iisbaan,7,"","",9008RC,Reduzum
+Op 'e iisbaan,9,"","",9008RC,Reduzum
+De Terp,1,"","",9008RD,Reduzum
+De Terp,10,"","",9008RD,Reduzum
+De Terp,11,"","",9008RD,Reduzum
+De Terp,12,"","",9008RD,Reduzum
+De Terp,14,"","",9008RD,Reduzum
+De Terp,16,"","",9008RD,Reduzum
+De Terp,18,"","",9008RD,Reduzum
+De Terp,2,"","",9008RD,Reduzum
+De Terp,20,"","",9008RD,Reduzum
+De Terp,22,"","",9008RD,Reduzum
+De Terp,24,"","",9008RD,Reduzum
+De Terp,26,"","",9008RD,Reduzum
+De Terp,28,"","",9008RD,Reduzum
+De Terp,3,"","",9008RD,Reduzum
+De Terp,30,"","",9008RD,Reduzum
+De Terp,32,"","",9008RD,Reduzum
+De Terp,4,"","",9008RD,Reduzum
+De Terp,5,"","",9008RD,Reduzum
+De Terp,6,"","",9008RD,Reduzum
+De Terp,7,"","",9008RD,Reduzum
+De Terp,8,"","",9008RD,Reduzum
+De Terp,9,"","",9008RD,Reduzum
+Oan it Swin,1,"","",9008RE,Reduzum
+Oan it Swin,2,"","",9008RE,Reduzum
+Oan it Swin,3,"","",9008RE,Reduzum
+Oan it Swin,4,"","",9008RE,Reduzum
+Oan it Swin,5,"","",9008RE,Reduzum
+Oan it Swin,6,"","",9008RE,Reduzum
+Oan it Swin,7,"","",9008RE,Reduzum
+Oan it Swin,8,"","",9008RE,Reduzum
+Oan it Swin,9,"","",9008RE,Reduzum
+Oan it Swin,9,"","",9008RE,Reduzum
+Ds. Boersstrjitte,1,"","",9008SB,Reduzum
+Ds. Boersstrjitte,3,"","",9008SB,Reduzum
+Ds. Boersstrjitte,3,A,"",9008SB,Reduzum
+Ds. Boersstrjitte,3,A,"",9008SB,Reduzum
+Ds. Boersstrjitte,5,"","",9008SB,Reduzum
+Ds. Boersstrjitte,7,"","",9008SB,Reduzum
+Ds. Boersstrjitte,10,"","",9008SC,Reduzum
+Ds. Boersstrjitte,12,"","",9008SC,Reduzum
+Ds. Boersstrjitte,14,"","",9008SC,Reduzum
+Ds. Boersstrjitte,16,"","",9008SC,Reduzum
+Ds. Boersstrjitte,18,"","",9008SC,Reduzum
+Ds. Boersstrjitte,2,"","",9008SC,Reduzum
+Ds. Boersstrjitte,2,A,"",9008SC,Reduzum
+Ds. Boersstrjitte,2,A,"",9008SC,Reduzum
+Ds. Boersstrjitte,20,"","",9008SC,Reduzum
+Ds. Boersstrjitte,22,"","",9008SC,Reduzum
+Ds. Boersstrjitte,24,"","",9008SC,Reduzum
+Ds. Boersstrjitte,26,"","",9008SC,Reduzum
+Ds. Boersstrjitte,28,"","",9008SC,Reduzum
+Ds. Boersstrjitte,30,"","",9008SC,Reduzum
+Ds. Boersstrjitte,32,"","",9008SC,Reduzum
+Ds. Boersstrjitte,34,"","",9008SC,Reduzum
+Ds. Boersstrjitte,34,"","",9008SC,Reduzum
+Ds. Boersstrjitte,36,"","",9008SC,Reduzum
+Ds. Boersstrjitte,4,"","",9008SC,Reduzum
+Ds. Boersstrjitte,6,"","",9008SC,Reduzum
+Ds. Boersstrjitte,8,"","",9008SC,Reduzum
+Alle-Jans-Smedingstr,1,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,10,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,11,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,12,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,13,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,14,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,15,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,16,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,17,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,18,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,19,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,2,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,20,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,21,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,22,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,3,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,4,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,5,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,6,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,7,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,8,"","",9008SE,Reduzum
+Alle-Jans-Smedingstr,9,"","",9008SE,Reduzum
+Ayttawei,1,"","",9008SH,Reduzum
+Ayttawei,11,"","",9008SH,Reduzum
+Ayttawei,13,"","",9008SH,Reduzum
+Ayttawei,15,"","",9008SH,Reduzum
+Ayttawei,17,"","",9008SH,Reduzum
+Ayttawei,19,"","",9008SH,Reduzum
+Ayttawei,21,"","",9008SH,Reduzum
+Ayttawei,21,"","",9008SH,Reduzum
+Ayttawei,23,"","",9008SH,Reduzum
+Ayttawei,23,"","",9008SH,Reduzum
+Ayttawei,23,"","",9008SH,Reduzum
+Ayttawei,25,"","",9008SH,Reduzum
+Ayttawei,25,A,"",9008SH,Reduzum
+Ayttawei,25,A,"",9008SH,Reduzum
+Ayttawei,27,"","",9008SH,Reduzum
+Ayttawei,29,"","",9008SH,Reduzum
+Ayttawei,3,"","",9008SH,Reduzum
+Ayttawei,33,"","",9008SH,Reduzum
+Ayttawei,33,A,"",9008SH,Reduzum
+Ayttawei,33,A,"",9008SH,Reduzum
+Ayttawei,33,A,"",9008SH,Reduzum
+Ayttawei,5,"","",9008SH,Reduzum
+Ayttawei,7,"","",9008SH,Reduzum
+Ayttawei,71,A,"",9008SH,Reduzum
+Ayttawei,73,A,"",9008SH,Reduzum
+Ayttawei,9,"","",9008SH,Reduzum
+Ayttawei,35,"","",9008SJ,Reduzum
+Ayttawei,37,"","",9008SJ,Reduzum
+Ayttawei,39,"","",9008SJ,Reduzum
+Ayttawei,41,"","",9008SJ,Reduzum
+Ayttawei,43,"","",9008SJ,Reduzum
+Ayttawei,45,"","",9008SJ,Reduzum
+Ayttawei,47,"","",9008SJ,Reduzum
+Ayttawei,49,"","",9008SJ,Reduzum
+Ayttawei,51,"","",9008SJ,Reduzum
+Ayttawei,53,"","",9008SJ,Reduzum
+Ayttawei,55,"","",9008SJ,Reduzum
+Ayttawei,57,"","",9008SJ,Reduzum
+Ayttawei,59,"","",9008SJ,Reduzum
+Ayttawei,61,"","",9008SJ,Reduzum
+Ayttawei,63,"","",9008SJ,Reduzum
+Ayttawei,65,"","",9008SJ,Reduzum
+Ayttawei,67,"","",9008SJ,Reduzum
+Ayttawei,69,"","",9008SJ,Reduzum
+Ayttawei,71,"","",9008SJ,Reduzum
+Ayttawei,71,"","",9008SJ,Reduzum
+Ayttawei,71,"","",9008SJ,Reduzum
+Ayttawei,71,A,"",9008SJ,Reduzum
+Ayttawei,71,A,"",9008SJ,Reduzum
+Ayttawei,71,A,"",9008SJ,Reduzum
+Ayttawei,71,B,"",9008SJ,Reduzum
+Ayttawei,71,B,"",9008SJ,Reduzum
+Ayttawei,71,B,"",9008SJ,Reduzum
+Ayttawei,71,C,"",9008SJ,Reduzum
+Ayttawei,71,C,"",9008SJ,Reduzum
+Ayttawei,73,"","",9008SJ,Reduzum
+Ayttawei,73,A,"",9008SJ,Reduzum
+Ayttawei,73,A,"",9008SJ,Reduzum
+Ayttawei,75,"","",9008SJ,Reduzum
+Ayttawei,77,"","",9008SJ,Reduzum
+Ayttawei,10,"","",9008SK,Reduzum
+Ayttawei,14,"","",9008SK,Reduzum
+Ayttawei,16,"","",9008SK,Reduzum
+Ayttawei,18,"","",9008SK,Reduzum
+Ayttawei,2,"","",9008SK,Reduzum
+Ayttawei,20,"","",9008SK,Reduzum
+Ayttawei,4,"","",9008SK,Reduzum
+Ayttawei,4,A,"",9008SK,Reduzum
+Ayttawei,4,A,"",9008SK,Reduzum
+Ayttawei,6,"","",9008SK,Reduzum
+Ayttawei,8,"","",9008SK,Reduzum
+Haedstrjitte,1,"","",9008SM,Reduzum
+Haedstrjitte,1,A,"",9008SM,Reduzum
+Haedstrjitte,1,A,"",9008SM,Reduzum
+Haedstrjitte,13,"","",9008SM,Reduzum
+Haedstrjitte,15,"","",9008SM,Reduzum
+Haedstrjitte,17,"","",9008SM,Reduzum
+Haedstrjitte,19,"","",9008SM,Reduzum
+Haedstrjitte,3,"","",9008SM,Reduzum
+Haedstrjitte,3,A,"",9008SM,Reduzum
+Haedstrjitte,3,A,"",9008SM,Reduzum
+Haedstrjitte,3,B,"",9008SM,Reduzum
+Haedstrjitte,3,B,"",9008SM,Reduzum
+Haedstrjitte,5,"","",9008SM,Reduzum
+Haedstrjitte,7,"","",9008SM,Reduzum
+Haedstrjitte,9,"","",9008SM,Reduzum
+Haedstrjitte,23,"","",9008SN,Reduzum
+Haedstrjitte,25,"","",9008SN,Reduzum
+Haedstrjitte,29,"","",9008SN,Reduzum
+Haedstrjitte,31,"","",9008SN,Reduzum
+Haedstrjitte,33,"","",9008SN,Reduzum
+Haedstrjitte,35,"","",9008SN,Reduzum
+Haedstrjitte,37,"","",9008SN,Reduzum
+Haedstrjitte,39,"","",9008SN,Reduzum
+Haedstrjitte,41,"","",9008SN,Reduzum
+Haedstrjitte,43,"","",9008SN,Reduzum
+Haedstrjitte,45,"","",9008SN,Reduzum
+Haedstrjitte,47,"","",9008SN,Reduzum
+Haedstrjitte,49,"","",9008SN,Reduzum
+Haedstrjitte,51,"","",9008SN,Reduzum
+Haedstrjitte,53,"","",9008SN,Reduzum
+Haedstrjitte,55,"","",9008SN,Reduzum
+Haedstrjitte,57,"","",9008SN,Reduzum
+Haedstrjitte,59,"","",9008SN,Reduzum
+Haedstrjitte,65,"","",9008SN,Reduzum
+Haedstrjitte,10,"","",9008SP,Reduzum
+Haedstrjitte,12,"","",9008SP,Reduzum
+Haedstrjitte,14,"","",9008SP,Reduzum
+Haedstrjitte,16,"","",9008SP,Reduzum
+Haedstrjitte,18,"","",9008SP,Reduzum
+Haedstrjitte,2,"","",9008SP,Reduzum
+Haedstrjitte,20,"","",9008SP,Reduzum
+Haedstrjitte,24,"","",9008SP,Reduzum
+Haedstrjitte,3,B,"",9008SP,Reduzum
+Haedstrjitte,34,"","",9008SP,Reduzum
+Haedstrjitte,4,"","",9008SP,Reduzum
+Haedstrjitte,8,"","",9008SP,Reduzum
+Haedstrjitte,26,"","",9008SR,Reduzum
+Haedstrjitte,28,"","",9008SR,Reduzum
+Haedstrjitte,30,"","",9008SR,Reduzum
+Haedstrjitte,32,"","",9008SR,Reduzum
+Haedstrjitte,32,"","",9008SR,Reduzum
+Haedstrjitte,32,"","",9008SR,Reduzum
+Haedstrjitte,34,"","",9008SR,Reduzum
+Haedstrjitte,36,"","",9008SR,Reduzum
+Haedstrjitte,38,"","",9008SR,Reduzum
+Haedstrjitte,40,"","",9008SR,Reduzum
+Haedstrjitte,42,"","",9008SR,Reduzum
+Haedstrjitte,44,"","",9008SR,Reduzum
+Haedstrjitte,46,"","",9008SR,Reduzum
+Haedstrjitte,48,"","",9008SR,Reduzum
+Haedstrjitte,48,"","",9008SR,Reduzum
+Haedstrjitte,48,"","",9008SR,Reduzum
+Haedstrjitte,50,"","",9008ST,Reduzum
+Haedstrjitte,50,"","",9008ST,Reduzum
+Haedstrjitte,52,"","",9008ST,Reduzum
+Haedstrjitte,54,"","",9008ST,Reduzum
+Haedstrjitte,56,"","",9008ST,Reduzum
+Haedstrjitte,58,"","",9008ST,Reduzum
+Haedstrjitte,60,"","",9008ST,Reduzum
+Haedstrjitte,62,"","",9008ST,Reduzum
+Haedstrjitte,64,"","",9008ST,Reduzum
+Haedstrjitte,66,"","",9008ST,Reduzum
+Haedstrjitte,68,"","",9008ST,Reduzum
+Haedstrjitte,70,"","",9008ST,Reduzum
+Haedstrjitte,72,"","",9008ST,Reduzum
+Haedstrjitte,74,"","",9008ST,Reduzum
+Haedstrjitte,76,"","",9008ST,Reduzum
+Haedstrjitte,78,"","",9008ST,Reduzum
+Haedstrjitte,80,"","",9008ST,Reduzum
+Haedstrjitte,82,"","",9008ST,Reduzum
+Haedstrjitte,84,"","",9008ST,Reduzum
+Haedstrjitte,86,"","",9008ST,Reduzum
+Haedstrjitte,88,"","",9008ST,Reduzum
+Haedstrjitte,90,"","",9008ST,Reduzum
+Buorren,11,"","",9008SV,Reduzum
+Buorren,13,"","",9008SV,Reduzum
+Buorren,15,"","",9008SV,Reduzum
+Buorren,19,"","",9008SV,Reduzum
+Buorren,3,"","",9008SV,Reduzum
+Buorren,7,"","",9008SV,Reduzum
+Buorren,7,"","",9008SV,Reduzum
+Buorren,9,"","",9008SV,Reduzum
+Buorren,10,"","",9008SW,Reduzum
+Buorren,12,"","",9008SW,Reduzum
+Buorren,14,"","",9008SW,Reduzum
+Buorren,16,"","",9008SW,Reduzum
+Buorren,18,"","",9008SW,Reduzum
+Buorren,2,"","",9008SW,Reduzum
+Buorren,20,"","",9008SW,Reduzum
+Buorren,22,"","",9008SW,Reduzum
+Buorren,24,"","",9008SW,Reduzum
+Buorren,26,"","",9008SW,Reduzum
+Buorren,34,"","",9008SW,Reduzum
+Buorren,36,"","",9008SW,Reduzum
+Buorren,38,"","",9008SW,Reduzum
+Buorren,4,"","",9008SW,Reduzum
+Buorren,40,"","",9008SW,Reduzum
+Buorren,6,"","",9008SW,Reduzum
+Buorren,8,"","",9008SW,Reduzum
+Haven,1,"","",9008SX,Reduzum
+Haven,11,"","",9008SX,Reduzum
+Haven,13,"","",9008SX,Reduzum
+Haven,14,"","",9008SX,Reduzum
+Haven,15,"","",9008SX,Reduzum
+Haven,17,"","",9008SX,Reduzum
+Haven,19,"","",9008SX,Reduzum
+Haven,21,"","",9008SX,Reduzum
+Haven,23,"","",9008SX,Reduzum
+Haven,25,"","",9008SX,Reduzum
+Haven,29,"","",9008SX,Reduzum
+Haven,3,"","",9008SX,Reduzum
+Haven,5,"","",9008SX,Reduzum
+Haven,5,"","",9008SX,Reduzum
+Haven,7,"","",9008SX,Reduzum
+Haven,7,"","",9008SX,Reduzum
+Haven,7,"","",9008SX,Reduzum
+Haven,9,"","",9008SX,Reduzum
+Haven,10,"","",9008SZ,Reduzum
+Haven,12,"","",9008SZ,Reduzum
+Haven,14,"","",9008SZ,Reduzum
+Haven,16,"","",9008SZ,Reduzum
+Haven,2,"","",9008SZ,Reduzum
+Haven,4,"","",9008SZ,Reduzum
+Haven,6,"","",9008SZ,Reduzum
+Haven,8,"","",9008SZ,Reduzum
+Legedyk,1,A,"",9008TA,Reduzum
+Legedyk,1,A,"",9008TA,Reduzum
+Legedyk,13,"","",9008TA,Reduzum
+Legedyk,15,"","",9008TA,Reduzum
+Legedyk,2,"","",9008TA,Reduzum
+Legedyk,29,"","",9008TA,Reduzum
+Legedyk,29,"","",9008TA,Reduzum
+Legedyk,29,"","",9008TA,Reduzum
+Legedyk,31,"","",9008TA,Reduzum
+Legedyk,33,"","",9008TA,Reduzum
+Legedyk,35,"","",9008TA,Reduzum
+Legedyk,37,"","",9008TA,Reduzum
+Legedyk,39,"","",9008TA,Reduzum
+Legedyk,4,"","",9008TA,Reduzum
+Legedyk,5,"","",9008TA,Reduzum
+Legedyk,6,"","",9008TA,Reduzum
+Master-Gorterstrjitte,1,"","",9008TB,Reduzum
+Master-Gorterstrjitte,3,"","",9008TB,Reduzum
+Master-Gorterstrjitte,5,"","",9008TB,Reduzum
+Master-Gorterstrjitte,7,"","",9008TB,Reduzum
+Master-Gorterstrjitte,7,A,"",9008TB,Reduzum
+Master-Gorterstrjitte,7,A,"",9008TB,Reduzum
+Master-Gorterstrjitte,7,B,"",9008TB,Reduzum
+Master-Gorterstrjitte,7,B,"",9008TB,Reduzum
+Master-Gorterstrjitte,7,C,"",9008TB,Reduzum
+Master-Gorterstrjitte,7,C,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,"","",9008TB,Reduzum
+Master-Gorterstrjitte,9,A,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,A,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,B,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,B,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,C,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,C,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,D,"",9008TB,Reduzum
+Master-Gorterstrjitte,9,D,"",9008TB,Reduzum
+Master-Gorterstrjitte,11,"","",9008TC,Reduzum
+Master-Gorterstrjitte,13,"","",9008TC,Reduzum
+Master-Gorterstrjitte,15,"","",9008TC,Reduzum
+Master-Gorterstrjitte,17,"","",9008TC,Reduzum
+Master-Gorterstrjitte,19,"","",9008TC,Reduzum
+Master-Gorterstrjitte,21,"","",9008TC,Reduzum
+Master-Gorterstrjitte,23,"","",9008TC,Reduzum
+Master-Gorterstrjitte,23,"","",9008TC,Reduzum
+Master-Gorterstrjitte,23,"","",9008TC,Reduzum
+Master-Gorterstrjitte,25,"","",9008TC,Reduzum
+Master-Gorterstrjitte,25,"","",9008TC,Reduzum
+Master-Gorterstrjitte,2,"","",9008TD,Reduzum
+Master-Gorterstrjitte,4,"","",9008TD,Reduzum
+Master-Gorterstrjitte,6,"","",9008TD,Reduzum
+Master-Gorterstrjitte,8,"","",9008TD,Reduzum
+Master-Gorterstrjitte,10,"","",9008TE,Reduzum
+Master-Gorterstrjitte,12,"","",9008TE,Reduzum
+Master-Gorterstrjitte,14,"","",9008TE,Reduzum
+Master-Gorterstrjitte,16,"","",9008TE,Reduzum
+Master-Gorterstrjitte,18,"","",9008TE,Reduzum
+Master-Gorterstrjitte,20,"","",9008TE,Reduzum
+Master-Gorterstrjitte,22,"","",9008TE,Reduzum
+Master-Gorterstrjitte,24,"","",9008TE,Reduzum
+Master-Gorterstrjitte,26,"","",9008TE,Reduzum
+Master-Gorterstrjitte,28,"","",9008TE,Reduzum
+Master-Gorterstrjitte,28,"","",9008TE,Reduzum
+Master-Gorterstrjitte,28,"","",9008TE,Reduzum
+Master-Gorterstrjitte,30,"","",9008TE,Reduzum
+Master-Gorterstrjitte,30,"","",9008TE,Reduzum
+Master-Gorterstrjitte,30,"","",9008TE,Reduzum
+Master-Gorterstrjitte,32,"","",9008TE,Reduzum
+Master-Gorterstrjitte,32,"","",9008TE,Reduzum
+Master-Gorterstrjitte,34,"","",9008TE,Reduzum
+Master-Gorterstrjitte,36,"","",9008TE,Reduzum
+Master-Gorterstrjitte,38,"","",9008TE,Reduzum
+Master-Gorterstrjitte,40,"","",9008TE,Reduzum
+Master-Gorterstrjitte,42,"","",9008TE,Reduzum
+Master-Gorterstrjitte,42,"","",9008TE,Reduzum
+Master-Gorterstrjitte,42,"","",9008TE,Reduzum
+Master-Gorterstrjitte,42,"",01,9008TE,Reduzum
+Master-Gorterstrjitte,42,"",01,9008TE,Reduzum
+Master-Gorterstrjitte,42,"",1,9008TE,Reduzum
+Master-Gorterstrjitte,44,"","",9008TE,Reduzum
+Master-Gorterstrjitte,44,"","",9008TE,Reduzum
+Master-Gorterstrjitte,44,"",01,9008TE,Reduzum
+Master-Gorterstrjitte,44,"",01,9008TE,Reduzum
+Master-Gorterstrjitte,44,"",1,9008TE,Reduzum
+Stânfriesstrjitte,1,"","",9008TG,Reduzum
+Stânfriesstrjitte,11,"","",9008TG,Reduzum
+Stânfriesstrjitte,11,"","",9008TG,Reduzum
+Stânfriesstrjitte,2,"","",9008TG,Reduzum
+Stânfriesstrjitte,3,"","",9008TG,Reduzum
+Stânfriesstrjitte,4,"","",9008TG,Reduzum
+Stânfriesstrjitte,6,"","",9008TG,Reduzum
+Stânfriesstrjitte,7,"","",9008TG,Reduzum
+Stânfriesstrjitte,8,"","",9008TG,Reduzum
+Stânfriesstrjitte,9,"","",9008TG,Reduzum
+Joksewei,1,"","",9008TH,Reduzum
+Joksewei,10,"","",9008TH,Reduzum
+Joksewei,12,"","",9008TH,Reduzum
+Joksewei,14,"","",9008TH,Reduzum
+Joksewei,15,"","",9008TH,Reduzum
+Joksewei,16,"","",9008TH,Reduzum
+Joksewei,17,"","",9008TH,Reduzum
+Joksewei,3,"","",9008TH,Reduzum
+Joksewei,5,"","",9008TH,Reduzum
+Joksewei,6,"","",9008TH,Reduzum
+Joksewei,7,"","",9008TH,Reduzum
+Joksewei,8,"","",9008TH,Reduzum
+Joksewei,9,"","",9008TH,Reduzum
+D.S. Bangmastrjitte,1,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,11,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,13,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,15,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,17,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,19,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,21,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,23,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,25,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,27,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,29,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,3,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,31,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,33,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,35,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,37,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,39,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,41,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,41,A,"",9008TJ,Reduzum
+D.S. Bangmastrjitte,41,A,"",9008TJ,Reduzum
+D.S. Bangmastrjitte,43,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,43,A,"",9008TJ,Reduzum
+D.S. Bangmastrjitte,43,A,"",9008TJ,Reduzum
+D.S. Bangmastrjitte,45,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,45,A,"",9008TJ,Reduzum
+D.S. Bangmastrjitte,45,A,"",9008TJ,Reduzum
+D.S. Bangmastrjitte,5,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,7,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,9,"","",9008TJ,Reduzum
+D.S. Bangmastrjitte,47,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,49,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,51,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,53,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,55,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,57,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,61,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,63,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,65,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,67,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,69,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,71,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,73,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,75,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,77,"","",9008TK,Reduzum
+D.S. Bangmastrjitte,79,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,81,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,83,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,85,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,87,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,89,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,91,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,93,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,95,"","",9008TL,Reduzum
+D.S. Bangmastrjitte,10,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,12,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,14,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,16,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,18,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,2,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,20,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,22,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,24,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,26,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,28,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,30,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,32,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,4,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,6,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,8,"","",9008TM,Reduzum
+D.S. Bangmastrjitte,34,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,36,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,38,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,40,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,42,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,44,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,46,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,48,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,50,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,52,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,54,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,56,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,58,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,60,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,62,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,64,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,66,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,68,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,70,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,72,"","",9008TN,Reduzum
+D.S. Bangmastrjitte,72,A,"",9008TN,Reduzum
+D.S. Bangmastrjitte,72,A,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,A,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,B,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,C,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,D,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,E,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,F,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,G,"",9008TN,Reduzum
+D.S. Bangmastrjitte,82,H,"",9008TN,Reduzum
+D.S. Bangmastrjitte,74,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,76,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,78,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,80,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,82,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,82,A,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,A,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,B,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,B,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,C,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,C,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,D,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,D,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,E,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,E,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,F,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,F,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,G,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,G,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,H,"",9008TP,Reduzum
+D.S. Bangmastrjitte,82,H,"",9008TP,Reduzum
+D.S. Bangmastrjitte,84,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,86,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,88,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,90,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,92,"","",9008TP,Reduzum
+D.S. Bangmastrjitte,94,"","",9008TP,Reduzum
+De Trije Romers,1,"","",9008TR,Reduzum
+De Trije Romers,1,A,"",9008TR,Reduzum
+De Trije Romers,1,A,"",9008TR,Reduzum
+De Trije Romers,10,"","",9008TR,Reduzum
+De Trije Romers,11,"","",9008TR,Reduzum
+De Trije Romers,12,"","",9008TR,Reduzum
+De Trije Romers,13,"","",9008TR,Reduzum
+De Trije Romers,14,"","",9008TR,Reduzum
+De Trije Romers,2,"","",9008TR,Reduzum
+De Trije Romers,3,"","",9008TR,Reduzum
+De Trije Romers,4,"","",9008TR,Reduzum
+De Trije Romers,5,"","",9008TR,Reduzum
+De Trije Romers,5,A,"",9008TR,Reduzum
+De Trije Romers,5,A,"",9008TR,Reduzum
+De Trije Romers,6,"","",9008TR,Reduzum
+De Trije Romers,7,"","",9008TR,Reduzum
+De Trije Romers,8,"","",9008TR,Reduzum
+De Trije Romers,9,"","",9008TR,Reduzum
+It Houtstek,1,"","",9008TW,Reduzum
+It Houtstek,10,"","",9008TW,Reduzum
+It Houtstek,11,"","",9008TW,Reduzum
+It Houtstek,12,"","",9008TW,Reduzum
+It Houtstek,13,"","",9008TW,Reduzum
+It Houtstek,14,"","",9008TW,Reduzum
+It Houtstek,2,"","",9008TW,Reduzum
+It Houtstek,3,"","",9008TW,Reduzum
+It Houtstek,4,"","",9008TW,Reduzum
+It Houtstek,5,"","",9008TW,Reduzum
+It Houtstek,6,"","",9008TW,Reduzum
+It Houtstek,7,"","",9008TW,Reduzum
+It Houtstek,8,"","",9008TW,Reduzum
+It Houtstek,9,"","",9008TW,Reduzum

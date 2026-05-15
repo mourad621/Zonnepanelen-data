@@ -1,387 +1,195 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8141EZ",62,"",""
-"8141EZ",38,"",""
-"8141EZ",34,"",""
-"8141EZ",62,"",""
-"8141EZ",34,"c",""
-"8141EZ",46,"",""
-"8141EZ",54,"",""
-"8141EZ",26,"a",""
-"8141EZ",62,"",""
-"8141EZ",42,"",""
-"8141EZ",7,"",""
-"8141EZ",16,"",""
-"8141EZ",5,"",""
-"8141EZ",12,"",""
-"8141EZ",50,"",""
-"8141EZ",40,"",""
-"8141EZ",42,"",""
-"8141EZ",44,"",""
-"8141EZ",44,"",""
-"8141EZ",2,"",""
-"8141EZ",36,"",""
-"8141EZ",28,"a",""
-"8141EZ",1,"",""
-"8141EZ",28,"",""
-"8141EZ",32,"",""
-"8141EZ",52,"a",""
-"8141EZ",20,"",""
-"8141EZ",14,"",""
-"8141EZ",3,"",""
-"8141EZ",26,"",""
-"8141EZ",60,"",""
-"8141EZ",9,"",""
-"8141EZ",44,"",""
-"8141EZ",22,"",""
-"8141EZ",58,"",""
-"8141EZ",12,"a",""
-"8141EZ",52,"",""
-"8141GM",8,"","008"
-"8141GM",15,"",""
-"8141GM",8,"","012"
-"8141GM",8,"","013"
-"8141GM",8,"","001"
-"8141GM",6,"",""
-"8141GM",8,"","015"
-"8141GM",14,"",""
-"8141GM",10,"",""
-"8141GM",10,"",""
-"8141GM",10,"a",""
-"8141GM",8,"","006"
-"8141GM",8,"","007"
-"8141GM",18,"",""
-"8141GM",11,"",""
-"8141GM",16,"",""
-"8141GM",1,"",""
-"8141GM",8,"","009"
-"8141GM",7,"",""
-"8141GM",14,"a",""
-"8141GM",17,"",""
-"8141GM",8,"","002"
-"8141GM",8,"","014"
-"8141GM",8,"","004"
-"8141GM",2,"",""
-"8141GM",12,"",""
-"8141GM",3,"",""
-"8141GM",2,"a",""
-"8141GM",8,"","005"
-"8141GM",19,"",""
-"8141GM",4,"",""
-"8141GM",8,"","003"
-"8141GN",39,"b",""
-"8141GN",37,"b",""
-"8141GN",51,"",""
-"8141GN",47,"c",""
-"8141GN",12,"",""
-"8141GN",37,"a",""
-"8141GN",11,"d",""
-"8141GN",39,"d",""
-"8141GN",39,"a",""
-"8141GN",2,"a",""
-"8141GN",1,"a",""
-"8141GN",7,"",""
-"8141GN",11,"c",""
-"8141GN",4,"",""
-"8141GN",5,"b",""
-"8141GN",47,"",""
-"8141GN",2,"",""
-"8141GN",17,"c",""
-"8141GN",3,"",""
-"8141GN",49,"",""
-"8141GN",8,"",""
-"8141GN",9,"",""
-"8141GN",5,"a",""
-"8141GN",45,"",""
-"8141GN",39,"",""
-"8141GN",5,"",""
-"8141GN",27,"m",""
-"8141GN",10,"a",""
-"8141GN",9,"a",""
-"8141GN",41,"",""
-"8141GN",5,"c",""
-"8141GN",25,"",""
-"8141GN",6,"",""
-"8141GN",11,"x",""
-"8141GN",43,"",""
-"8141GN",5,"",""
-"8141GN",27,"p",""
-"8141GN",37,"",""
-"8141GN",11,"",""
-"8141GN",35,"c",""
-"8141GN",11,"",""
-"8141GN",10,"",""
-"8141GN",1,"",""
-"8141GN",21,"",""
-"8141GN",23,"",""
-"8141GN",11,"e",""
-"8141GN",19,"a",""
-"8141GN",11,"v",""
-"8141GN",27,"n",""
-"8141GN",11,"o",""
-"8141GN",27,"c",""
-"8141GN",39,"c",""
-"8141GN",11,"b",""
-"8141GN",27,"a",""
-"8141GN",11,"a",""
-"8141GN",13,"",""
-"8141GN",20,"",""
-"8141GN",11,"p",""
-"8141GN",19,"",""
-"8141GN",11,"j",""
-"8141GN",17,"a",""
-"8141GN",11,"q",""
-"8141GN",11,"r",""
-"8141GN",11,"t",""
-"8141GN",27,"k",""
-"8141GN",35,"",""
-"8141GN",27,"g",""
-"8141GN",26,"",""
-"8141GN",15,"",""
-"8141GN",17,"",""
-"8141GN",11,"m",""
-"8141GN",11,"i",""
-"8141GN",27,"h",""
-"8141GN",27,"b",""
-"8141GN",11,"s",""
-"8141GN",11,"n",""
-"8141GN",11,"k",""
-"8141GN",11,"u",""
-"8141GN",11,"w",""
-"8141GN",11,"h",""
-"8141GN",27,"q",""
-"8141GN",11,"",""
-"8141GN",25,"a",""
-"8141GN",27,"f",""
-"8141GN",27,"j",""
-"8141GN",27,"d",""
-"8141GN",11,"g",""
-"8141GN",11,"l",""
-"8141GN",11,"f",""
-"8141GN",27,"e",""
-"8141GP",1,"",""
-"8141GP",3,"",""
-"8141GV",2,"",""
-"8141GV",11,"",""
-"8141GV",10,"",""
-"8141GV",21,"",""
-"8141GV",16,"",""
-"8141GV",4,"",""
-"8141GV",2,"a",""
-"8141GV",18,"",""
-"8141GV",8,"",""
-"8141GV",6,"",""
-"8141GV",7,"",""
-"8141GV",13,"",""
-"8141NT",2,"a",""
-"8141NT",3,"e",""
-"8141NT",2,"",""
-"8141NT",3,"b",""
-"8141NT",6,"",""
-"8141NT",1,"",""
-"8141NT",3,"a",""
-"8141NT",4,"a",""
-"8141NT",3,"",""
-"8141NT",4,"",""
-"8141NT",3,"g",""
-"8141NT",5,"",""
-"8141NT",3,"f",""
-"8141NT",1,"a",""
-"8141NT",3,"c",""
-"8141NT",5,"c",""
-"8141NT",3,"d",""
-"8141NT",2,"b",""
-"8141NT",3,"a",""
-"8141NT",3,"d",""
-"8141NT",3,"d",""
-8141NT,'t Zeegsveld,5,,
-8141NT,'t Zeegsveld,5,c,
-8141NT,'t Zeegsveld,6,,
-8141NT,'t Zeegsveld,1,,
-8141EZ,Zwolseweg,26,,
-8141EZ,Zwolseweg,50,,
-8141EZ,Zwolseweg,28,,
-8141EZ,Zwolseweg,32,,
-8141EZ,Zwolseweg,52,,
-8141GP,J.A. Leeghwaterstraat,1,,
-8141GN,L.J. Costerstraat,25,,
-8141GN,L.J. Costerstraat,25,a,
-8141GN,L.J. Costerstraat,2,,
-8141GN,L.J. Costerstraat,27,k,
-8141GN,L.J. Costerstraat,10,,
-8141GN,L.J. Costerstraat,3,,
-8141GN,L.J. Costerstraat,27,b,
-8141GN,L.J. Costerstraat,4,,
-8141GN,L.J. Costerstraat,27,c,
-8141GN,L.J. Costerstraat,51,,
-8141GN,L.J. Costerstraat,15,,
-8141GM,C. Huygensstraat,6,,
-8141GM,C. Huygensstraat,8,,006
-8141EZ,Lentheweg,5,,
-8141EZ,Lentheweg,7,,
-8141NT,'t Zeegsveld,1,a,
-8141NT,'t Zeegsveld,2,,
-8141NT,'t Zeegsveld,3,b,
-8141NT,'t Zeegsveld,3,,
-8141NT,'t Zeegsveld,4,,
-8141NT,'t Zeegsveld,3,a,
-8141NT,'t Zeegsveld,3,a,
-8141EZ,Zwolseweg,34,c,
-8141EZ,Zwolseweg,60,,
-8141EZ,Zwolseweg,12,a,
-8141EZ,Zwolseweg,62,,
-8141EZ,Zwolseweg,38,,
-8141EZ,Zwolseweg,12,,
-8141EZ,Zwolseweg,54,,
-8141EZ,Zwolseweg,34,,
-8141EZ,Zwolseweg,20,,
-8141EZ,Zwolseweg,42,,
-8141EZ,Zwolseweg,22,,
-8141EZ,Zwolseweg,44,,
-8141EZ,Zwolseweg,16,,
-8141GN,L.J. Costerstraat,37,,
-8141GN,L.J. Costerstraat,1,a,
-8141GN,L.J. Costerstraat,5,a,
-8141GN,L.J. Costerstraat,17,,
-8141GN,L.J. Costerstraat,6,,
-8141GN,L.J. Costerstraat,39,,
-8141GN,L.J. Costerstraat,27,e,
-8141GN,L.J. Costerstraat,10,a,
-8141GN,L.J. Costerstraat,27,f,
-8141GN,L.J. Costerstraat,7,,
-8141GN,L.J. Costerstraat,41,,
-8141GN,L.J. Costerstraat,17,c,
-8141GN,L.J. Costerstraat,47,c,
-8141GN,L.J. Costerstraat,35,c,
-8141GN,L.J. Costerstraat,11,,
-8141GN,L.J. Costerstraat,49,,
-8141GN,L.J. Costerstraat,27,g,
-8141GN,L.J. Costerstraat,27,d,
-8141GN,L.J. Costerstraat,27,j,
-8141GN,L.J. Costerstraat,2,a,
-8141GN,L.J. Costerstraat,9,,
-8141GN,L.J. Costerstraat,27,h,
-8141GN,L.J. Costerstraat,21,,
-8141GN,L.J. Costerstraat,9,a,
-8141GN,L.J. Costerstraat,23,,
-8141GN,L.J. Costerstraat,45,,
-8141GN,L.J. Costerstraat,20,,
-8141GN,L.J. Costerstraat,47,,
-8141GM,C. Huygensstraat,8,,007
-8141GM,C. Huygensstraat,8,,008
-8141GM,C. Huygensstraat,14,,
-8141GM,C. Huygensstraat,8,,001
-8141GM,C. Huygensstraat,8,,002
-8141GM,C. Huygensstraat,8,,004
-8141GM,C. Huygensstraat,8,,005
-8141GM,C. Huygensstraat,8,,015
-8141GM,C. Huygensstraat,11,,
-8141GM,C. Huygensstraat,8,,003
-8141GM,C. Huygensstraat,2,a,
-8141GM,C. Huygensstraat,8,,013
-8141GM,C. Huygensstraat,4,,
-8141GM,C. Huygensstraat,17,,
-8141GM,C. Huygensstraat,8,,014
-8141GM,C. Huygensstraat,1,,
-8141GM,C. Huygensstraat,2,,
-8141EZ,Lentheweg,1,,
-8141NT,'t Zeegsveld,4,a,
-8141NT,'t Zeegsveld,3,d,
-8141NT,'t Zeegsveld,3,c,
-8141NT,'t Zeegsveld,3,d,
-8141NT,'t Zeegsveld,3,e,
-8141NT,'t Zeegsveld,3,f,
-8141NT,'t Zeegsveld,3,g,
-8141NT,'t Zeegsveld,2,a,
-8141NT,'t Zeegsveld,2,b,
-8141EZ,Zwolseweg,40,,
-8141EZ,Zwolseweg,58,,
-8141EZ,Zwolseweg,46,,
-8141EZ,Zwolseweg,2,,
-8141EZ,Zwolseweg,14,,
-8141EZ,Zwolseweg,36,,
-8141EZ,Zwolseweg,26,a,
-8141EZ,Zwolseweg,28,a,
-8141EZ,Zwolseweg,44,,
-8141EZ,Zwolseweg,52,a,
-8141EZ,Zwolseweg,62,,
-8141GP,J.A. Leeghwaterstraat,3,,
-8141GN,L.J. Costerstraat,8,,
-8141GN,L.J. Costerstraat,1,,
-8141GN,L.J. Costerstraat,27,a,
-8141GN,L.J. Costerstraat,43,,
-8141GN,L.J. Costerstraat,5,,
-8141GN,L.J. Costerstraat,5,,
-8141GN,L.J. Costerstraat,35,,
-8141GN,L.J. Costerstraat,19,,
-8141GN,L.J. Costerstraat,13,,
-8141GN,L.J. Costerstraat,27,q,
-8141GN,L.J. Costerstraat,27,p,
-8141GN,L.J. Costerstraat,27,m,
-8141GN,L.J. Costerstraat,27,n,
-8141GN,L.J. Costerstraat,39,a,
-8141GN,L.J. Costerstraat,39,b,
-8141GN,L.J. Costerstraat,39,c,
-8141GN,L.J. Costerstraat,39,d,
-8141GN,L.J. Costerstraat,17,a,
-8141GN,L.J. Costerstraat,5,b,
-8141GN,L.J. Costerstraat,5,c,
-8141GN,L.J. Costerstraat,26,,
-8141GN,L.J. Costerstraat,12,,
-8141GN,L.J. Costerstraat,19,a,
-8141GN,L.J. Costerstraat,37,a,
-8141GN,L.J. Costerstraat,37,b,
-8141GN,L.J. Costerstraat,11,,
-8141GN,L.J. Costerstraat,11,a,
-8141GN,L.J. Costerstraat,11,b,
-8141GN,L.J. Costerstraat,11,c,
-8141GN,L.J. Costerstraat,11,d,
-8141GN,L.J. Costerstraat,11,e,
-8141GN,L.J. Costerstraat,11,f,
-8141GN,L.J. Costerstraat,11,g,
-8141GN,L.J. Costerstraat,11,h,
-8141GN,L.J. Costerstraat,11,i,
-8141GN,L.J. Costerstraat,11,j,
-8141GN,L.J. Costerstraat,11,k,
-8141GN,L.J. Costerstraat,11,l,
-8141GN,L.J. Costerstraat,11,m,
-8141GN,L.J. Costerstraat,11,n,
-8141GN,L.J. Costerstraat,11,o,
-8141GN,L.J. Costerstraat,11,p,
-8141GN,L.J. Costerstraat,11,q,
-8141GN,L.J. Costerstraat,11,r,
-8141GN,L.J. Costerstraat,11,s,
-8141GN,L.J. Costerstraat,11,t,
-8141GN,L.J. Costerstraat,11,u,
-8141GN,L.J. Costerstraat,11,v,
-8141GN,L.J. Costerstraat,11,w,
-8141GN,L.J. Costerstraat,11,x,
-8141GM,C. Huygensstraat,3,,
-8141GM,C. Huygensstraat,8,,009
-8141GM,C. Huygensstraat,10,,
-8141GM,C. Huygensstraat,10,,
-8141GM,C. Huygensstraat,19,,
-8141GM,C. Huygensstraat,15,,
-8141GM,C. Huygensstraat,7,,
-8141GM,C. Huygensstraat,8,,012
-8141GM,C. Huygensstraat,10,a,
-8141GM,C. Huygensstraat,12,,
-8141GM,C. Huygensstraat,16,,
-8141GM,C. Huygensstraat,18,,
-8141GM,C. Huygensstraat,14,a,
-8141EZ,Lentheweg,3,,
-8141EZ,Lentheweg,9,,
-8141GV,A. Passtoorsstraat,16,,
-8141GV,A. Passtoorsstraat,18,,
-8141GV,A. Passtoorsstraat,10,,
-8141GV,A. Passtoorsstraat,21,,
-8141GV,A. Passtoorsstraat,13,,
-8141GV,A. Passtoorsstraat,7,,
-8141GV,A. Passtoorsstraat,6,,
-8141GV,A. Passtoorsstraat,4,,
-8141GV,A. Passtoorsstraat,11,,
-8141GV,A. Passtoorsstraat,8,,
-8141GV,A. Passtoorsstraat,2,,
-8141GV,A. Passtoorsstraat,2,a,
-8141GV,A. Passtoorsstraat,19,a,
-8141GV,A. Passtoorsstraat,12,,
-8141GV,A. Passtoorsstraat,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Lentheweg,1,"","",8141EZ,Heino
+Zwolseweg,12,"","",8141EZ,Heino
+Zwolseweg,12,A,"",8141EZ,Heino
+Zwolseweg,14,"","",8141EZ,Heino
+Zwolseweg,16,"","",8141EZ,Heino
+Zwolseweg,2,"","",8141EZ,Heino
+Zwolseweg,20,"","",8141EZ,Heino
+Zwolseweg,22,"","",8141EZ,Heino
+Zwolseweg,26,"","",8141EZ,Heino
+Zwolseweg,26,A,"",8141EZ,Heino
+Zwolseweg,28,"","",8141EZ,Heino
+Zwolseweg,28,A,"",8141EZ,Heino
+Lentheweg,3,"","",8141EZ,Heino
+Zwolseweg,32,"","",8141EZ,Heino
+Zwolseweg,34,"","",8141EZ,Heino
+Zwolseweg,34,C,"",8141EZ,Heino
+Zwolseweg,36,"","",8141EZ,Heino
+Zwolseweg,38,"","",8141EZ,Heino
+Zwolseweg,40,"","",8141EZ,Heino
+Zwolseweg,42,"","",8141EZ,Heino
+Zwolseweg,42,"","",8141EZ,Heino
+Zwolseweg,44,"","",8141EZ,Heino
+Zwolseweg,44,"","",8141EZ,Heino
+Zwolseweg,44,"","",8141EZ,Heino
+Zwolseweg,46,"","",8141EZ,Heino
+Lentheweg,5,"","",8141EZ,Heino
+Zwolseweg,50,"","",8141EZ,Heino
+Zwolseweg,52,"","",8141EZ,Heino
+Zwolseweg,52,A,"",8141EZ,Heino
+Zwolseweg,54,"","",8141EZ,Heino
+Zwolseweg,58,"","",8141EZ,Heino
+Zwolseweg,60,"","",8141EZ,Heino
+Zwolseweg,62,"","",8141EZ,Heino
+Zwolseweg,62,"","",8141EZ,Heino
+Zwolseweg,62,"","",8141EZ,Heino
+Lentheweg,7,"","",8141EZ,Heino
+Lentheweg,9,"","",8141EZ,Heino
+C. Huygensstraat,1,"","",8141GM,Heino
+C. Huygensstraat,10,"","",8141GM,Heino
+C. Huygensstraat,10,"","",8141GM,Heino
+C. Huygensstraat,10,A,"",8141GM,Heino
+C. Huygensstraat,11,"","",8141GM,Heino
+C. Huygensstraat,12,"","",8141GM,Heino
+C. Huygensstraat,14,"","",8141GM,Heino
+C. Huygensstraat,14,A,"",8141GM,Heino
+C. Huygensstraat,15,"","",8141GM,Heino
+C. Huygensstraat,16,"","",8141GM,Heino
+C. Huygensstraat,17,"","",8141GM,Heino
+C. Huygensstraat,18,"","",8141GM,Heino
+C. Huygensstraat,19,"","",8141GM,Heino
+C. Huygensstraat,2,"","",8141GM,Heino
+C. Huygensstraat,2,A,"",8141GM,Heino
+C. Huygensstraat,3,"","",8141GM,Heino
+C. Huygensstraat,4,"","",8141GM,Heino
+C. Huygensstraat,6,"","",8141GM,Heino
+C. Huygensstraat,7,"","",8141GM,Heino
+C. Huygensstraat,8,"",001,8141GM,Heino
+C. Huygensstraat,8,"",002,8141GM,Heino
+C. Huygensstraat,8,"",003,8141GM,Heino
+C. Huygensstraat,8,"",004,8141GM,Heino
+C. Huygensstraat,8,"",005,8141GM,Heino
+C. Huygensstraat,8,"",006,8141GM,Heino
+C. Huygensstraat,8,"",007,8141GM,Heino
+C. Huygensstraat,8,"",008,8141GM,Heino
+C. Huygensstraat,8,"",009,8141GM,Heino
+C. Huygensstraat,8,"",012,8141GM,Heino
+C. Huygensstraat,8,"",013,8141GM,Heino
+C. Huygensstraat,8,"",014,8141GM,Heino
+C. Huygensstraat,8,"",015,8141GM,Heino
+L.J. Costerstraat,1,"","",8141GN,Heino
+L.J. Costerstraat,1,A,"",8141GN,Heino
+L.J. Costerstraat,10,"","",8141GN,Heino
+L.J. Costerstraat,10,A,"",8141GN,Heino
+L.J. Costerstraat,11,"","",8141GN,Heino
+L.J. Costerstraat,11,"","",8141GN,Heino
+L.J. Costerstraat,11,"","",8141GN,Heino
+L.J. Costerstraat,11,A,"",8141GN,Heino
+L.J. Costerstraat,11,B,"",8141GN,Heino
+L.J. Costerstraat,11,C,"",8141GN,Heino
+L.J. Costerstraat,11,D,"",8141GN,Heino
+L.J. Costerstraat,11,E,"",8141GN,Heino
+L.J. Costerstraat,11,F,"",8141GN,Heino
+L.J. Costerstraat,11,G,"",8141GN,Heino
+L.J. Costerstraat,11,H,"",8141GN,Heino
+L.J. Costerstraat,11,I,"",8141GN,Heino
+L.J. Costerstraat,11,J,"",8141GN,Heino
+L.J. Costerstraat,11,K,"",8141GN,Heino
+L.J. Costerstraat,11,L,"",8141GN,Heino
+L.J. Costerstraat,11,M,"",8141GN,Heino
+L.J. Costerstraat,11,N,"",8141GN,Heino
+L.J. Costerstraat,11,O,"",8141GN,Heino
+L.J. Costerstraat,11,P,"",8141GN,Heino
+L.J. Costerstraat,11,Q,"",8141GN,Heino
+L.J. Costerstraat,11,R,"",8141GN,Heino
+L.J. Costerstraat,11,S,"",8141GN,Heino
+L.J. Costerstraat,11,T,"",8141GN,Heino
+L.J. Costerstraat,11,U,"",8141GN,Heino
+L.J. Costerstraat,11,V,"",8141GN,Heino
+L.J. Costerstraat,11,W,"",8141GN,Heino
+L.J. Costerstraat,11,X,"",8141GN,Heino
+L.J. Costerstraat,12,"","",8141GN,Heino
+L.J. Costerstraat,13,"","",8141GN,Heino
+L.J. Costerstraat,15,"","",8141GN,Heino
+L.J. Costerstraat,17,"","",8141GN,Heino
+L.J. Costerstraat,17,A,"",8141GN,Heino
+L.J. Costerstraat,17,C,"",8141GN,Heino
+L.J. Costerstraat,19,"","",8141GN,Heino
+L.J. Costerstraat,19,A,"",8141GN,Heino
+L.J. Costerstraat,2,"","",8141GN,Heino
+L.J. Costerstraat,2,A,"",8141GN,Heino
+L.J. Costerstraat,20,"","",8141GN,Heino
+L.J. Costerstraat,21,"","",8141GN,Heino
+L.J. Costerstraat,23,"","",8141GN,Heino
+L.J. Costerstraat,25,"","",8141GN,Heino
+L.J. Costerstraat,25,A,"",8141GN,Heino
+L.J. Costerstraat,26,"","",8141GN,Heino
+L.J. Costerstraat,27,A,"",8141GN,Heino
+L.J. Costerstraat,27,B,"",8141GN,Heino
+L.J. Costerstraat,27,C,"",8141GN,Heino
+L.J. Costerstraat,27,D,"",8141GN,Heino
+L.J. Costerstraat,27,E,"",8141GN,Heino
+L.J. Costerstraat,27,F,"",8141GN,Heino
+L.J. Costerstraat,27,G,"",8141GN,Heino
+L.J. Costerstraat,27,H,"",8141GN,Heino
+L.J. Costerstraat,27,J,"",8141GN,Heino
+L.J. Costerstraat,27,K,"",8141GN,Heino
+L.J. Costerstraat,27,M,"",8141GN,Heino
+L.J. Costerstraat,27,N,"",8141GN,Heino
+L.J. Costerstraat,27,P,"",8141GN,Heino
+L.J. Costerstraat,27,Q,"",8141GN,Heino
+L.J. Costerstraat,3,"","",8141GN,Heino
+L.J. Costerstraat,35,"","",8141GN,Heino
+L.J. Costerstraat,35,C,"",8141GN,Heino
+L.J. Costerstraat,37,"","",8141GN,Heino
+L.J. Costerstraat,37,A,"",8141GN,Heino
+L.J. Costerstraat,37,B,"",8141GN,Heino
+L.J. Costerstraat,39,"","",8141GN,Heino
+L.J. Costerstraat,39,A,"",8141GN,Heino
+L.J. Costerstraat,39,B,"",8141GN,Heino
+L.J. Costerstraat,39,C,"",8141GN,Heino
+L.J. Costerstraat,39,D,"",8141GN,Heino
+L.J. Costerstraat,4,"","",8141GN,Heino
+L.J. Costerstraat,41,"","",8141GN,Heino
+L.J. Costerstraat,43,"","",8141GN,Heino
+L.J. Costerstraat,45,"","",8141GN,Heino
+L.J. Costerstraat,47,"","",8141GN,Heino
+L.J. Costerstraat,47,C,"",8141GN,Heino
+L.J. Costerstraat,49,"","",8141GN,Heino
+L.J. Costerstraat,5,"","",8141GN,Heino
+L.J. Costerstraat,5,"","",8141GN,Heino
+L.J. Costerstraat,5,A,"",8141GN,Heino
+L.J. Costerstraat,5,B,"",8141GN,Heino
+L.J. Costerstraat,5,C,"",8141GN,Heino
+L.J. Costerstraat,51,"","",8141GN,Heino
+L.J. Costerstraat,6,"","",8141GN,Heino
+L.J. Costerstraat,7,"","",8141GN,Heino
+L.J. Costerstraat,8,"","",8141GN,Heino
+L.J. Costerstraat,9,"","",8141GN,Heino
+L.J. Costerstraat,9,A,"",8141GN,Heino
+J.A. Leeghwaterstraat,1,"","",8141GP,Heino
+J.A. Leeghwaterstraat,3,"","",8141GP,Heino
+A. Passtoorsstraat,10,"","",8141GV,Heino
+A. Passtoorsstraat,11,"","",8141GV,Heino
+A. Passtoorsstraat,13,"","",8141GV,Heino
+A. Passtoorsstraat,16,"","",8141GV,Heino
+A. Passtoorsstraat,18,"","",8141GV,Heino
+A. Passtoorsstraat,2,"","",8141GV,Heino
+A. Passtoorsstraat,2,A,"",8141GV,Heino
+A. Passtoorsstraat,21,"","",8141GV,Heino
+A. Passtoorsstraat,4,"","",8141GV,Heino
+A. Passtoorsstraat,6,"","",8141GV,Heino
+A. Passtoorsstraat,7,"","",8141GV,Heino
+A. Passtoorsstraat,8,"","",8141GV,Heino
+'t Zeegsveld,1,"","",8141NT,Heino
+'t Zeegsveld,1,A,"",8141NT,Heino
+'t Zeegsveld,2,"","",8141NT,Heino
+'t Zeegsveld,2,A,"",8141NT,Heino
+'t Zeegsveld,2,B,"",8141NT,Heino
+'t Zeegsveld,3,"","",8141NT,Heino
+'t Zeegsveld,3,A,"",8141NT,Heino
+'t Zeegsveld,3,A,"",8141NT,Heino
+'t Zeegsveld,3,B,"",8141NT,Heino
+'t Zeegsveld,3,C,"",8141NT,Heino
+'t Zeegsveld,3,D,"",8141NT,Heino
+'t Zeegsveld,3,D,"",8141NT,Heino
+'t Zeegsveld,3,D,"",8141NT,Heino
+'t Zeegsveld,3,E,"",8141NT,Heino
+'t Zeegsveld,3,F,"",8141NT,Heino
+'t Zeegsveld,3,G,"",8141NT,Heino
+'t Zeegsveld,4,"","",8141NT,Heino
+'t Zeegsveld,4,A,"",8141NT,Heino
+'t Zeegsveld,5,"","",8141NT,Heino
+'t Zeegsveld,5,C,"",8141NT,Heino
+'t Zeegsveld,6,"","",8141NT,Heino

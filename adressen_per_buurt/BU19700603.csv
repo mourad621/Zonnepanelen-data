@@ -1,64 +1,65 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9154AS",1,"",""
-"9154AS",2,"",""
-"9154AT",1,"",""
-"9154AV",1,"",""
-"9154AW",1,"",""
-"9154AW",3,"",""
-"9154BA",4,"",""
-"9154BA",2,"",""
-"9154BA",6,"",""
-"9154BA",2,"",""
-"9154BB",2,"T",""
-"9154BB",1,"",""
-"9154BC",8,"",""
-"9154BC",3,"",""
-"9154BC",12,"",""
-"9154BC",13,"",""
-"9154BC",14,"",""
-"9154BC",2,"",""
-"9154BC",7,"",""
-"9154BC",16,"",""
-"9154BC",11,"",""
-"9154BC",4,"",""
-"9154BC",18,"",""
-"9154BC",9,"",""
-"9154BC",5,"",""
-"9154BC",1,"",""
-"9154BC",10,"",""
-"9154BD",5,"",""
-"9154BD",4,"",""
-"9154BD",1,"",""
-"9154BD",3,"",""
-9154AW,Heemstrawei,1,,
-9154AW,Heemstrawei,3,,
-9154AS,Kolkreed,1,,
-9154AS,Kolkreed,2,,
-9154BB,Aesgemawei,1,,
-9154BB,Aesgemawei,2,T,
-9154BD,Piet Paaltjenspaad,1,,
-9154BD,Piet Paaltjenspaad,3,,
-9154BD,Piet Paaltjenspaad,4,,
-9154BD,Piet Paaltjenspaad,5,,
-9154AT,Pybemawei,1,,
-9154BC,De Terp,1,,
-9154BC,De Terp,4,,
-9154BC,De Terp,7,,
-9154BC,De Terp,8,,
-9154BC,De Terp,9,,
-9154BC,De Terp,10,,
-9154BC,De Terp,11,,
-9154BC,De Terp,12,,
-9154BC,De Terp,13,,
-9154BC,De Terp,14,,
-9154BC,De Terp,16,,
-9154BC,De Terp,18,,
-9154AV,Doekemawei,1,,
-9154BA,F. Haverschmidtwei,2,,
-9154BA,F. Haverschmidtwei,4,,
-9154BA,F. Haverschmidtwei,6,,
-9154BC,De Terp,2,,
-9154BC,De Terp,3,,
-9154BC,De Terp,5,,
-9154BA,F. Haverschmidtwei,2,A,
-9154BA,F. Haverschmidtwei,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+1,"","","",9154AS,
+2,"","","",9154AS,
+Kolkreed,1,"","",9154AS,Foudgum
+Kolkreed,2,"","",9154AS,Foudgum
+1,"","","",9154AT,
+Pybemawei,1,"","",9154AT,Foudgum
+1,"","","",9154AV,
+Doekemawei,1,"","",9154AV,Foudgum
+1,"","","",9154AW,
+3,"","","",9154AW,
+Heemstrawei,1,"","",9154AW,Foudgum
+Heemstrawei,3,"","",9154AW,Foudgum
+4,"","","",9154BA,
+2,"","","",9154BA,
+6,"","","",9154BA,
+2,"","","",9154BA,
+F. Haverschmidtwei,2,"","",9154BA,Foudgum
+F. Haverschmidtwei,2,"","",9154BA,Foudgum
+F. Haverschmidtwei,2,A,"",9154BA,Foudgum
+F. Haverschmidtwei,4,"","",9154BA,Foudgum
+F. Haverschmidtwei,6,"","",9154BA,Foudgum
+1,"","","",9154BB,
+Aesgemawei,1,"","",9154BB,Foudgum
+Aesgemawei,2,T,"",9154BB,Foudgum
+2,T,"","",9154BB,
+8,"","","",9154BC,
+3,"","","",9154BC,
+12,"","","",9154BC,
+13,"","","",9154BC,
+14,"","","",9154BC,
+2,"","","",9154BC,
+7,"","","",9154BC,
+16,"","","",9154BC,
+11,"","","",9154BC,
+4,"","","",9154BC,
+18,"","","",9154BC,
+9,"","","",9154BC,
+5,"","","",9154BC,
+1,"","","",9154BC,
+10,"","","",9154BC,
+De Terp,1,"","",9154BC,Foudgum
+De Terp,10,"","",9154BC,Foudgum
+De Terp,11,"","",9154BC,Foudgum
+De Terp,12,"","",9154BC,Foudgum
+De Terp,13,"","",9154BC,Foudgum
+De Terp,14,"","",9154BC,Foudgum
+De Terp,16,"","",9154BC,Foudgum
+De Terp,18,"","",9154BC,Foudgum
+De Terp,2,"","",9154BC,Foudgum
+De Terp,3,"","",9154BC,Foudgum
+De Terp,4,"","",9154BC,Foudgum
+De Terp,5,"","",9154BC,Foudgum
+De Terp,7,"","",9154BC,Foudgum
+De Terp,8,"","",9154BC,Foudgum
+De Terp,9,"","",9154BC,Foudgum
+5,"","","",9154BD,
+4,"","","",9154BD,
+1,"","","",9154BD,
+3,"","","",9154BD,
+Piet Paaltjenspaad,1,"","",9154BD,Foudgum
+Piet Paaltjenspaad,3,"","",9154BD,Foudgum
+Piet Paaltjenspaad,4,"","",9154BD,Foudgum
+Piet Paaltjenspaad,5,"","",9154BD,Foudgum
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

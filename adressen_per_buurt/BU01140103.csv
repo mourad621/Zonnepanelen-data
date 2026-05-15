@@ -1,392 +1,212 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7831AB",29,"",""
-"7831AB",28,"",""
-"7831AB",28,"A",""
-"7831AB",28,"",""
-"7831AB",30,"",""
-"7831AB",29,"",""
-"7831AB",24,"",""
-"7831AB",24,"",""
-"7831AB",24,"",""
-"7831AB",24,"",""
-"7831AB",29,"",""
-"7831AB",28,"",""
-"7831AB",36,"",""
-"7831AB",29,"",""
-"7831AB",29,"",""
-"7831AB",35,"",""
-"7831AB",35,"",""
-"7831AB",23,"",""
-"7831AB",38,"",""
-"7831AB",28,"",""
-"7831AB",28,"",""
-"7831AB",24,"",""
-"7831AB",21,"",""
-"7831AB",36,"",""
-"7831AB",24,"",""
-"7831AB",37,"",""
-"7831AB",33,"",""
-"7831AB",28,"C",""
-"7831AB",35,"",""
-"7831AB",36,"",""
-"7831AB",28,"B",""
-"7831AB",35,"",""
-"7831AB",31,"",""
-"7831AB",35,"",""
-"7831AB",35,"",""
-"7831AB",25,"",""
-"7831AB",36,"",""
-"7831AB",34,"",""
-"7831AC",45,"",""
-"7831AC",42,"",""
-"7831AC",51,"",""
-"7831AC",52,"",""
-"7831AC",39,"",""
-"7831AC",56,"",""
-"7831AC",48,"",""
-"7831AC",49,"",""
-"7831AC",39,"",""
-"7831AC",51,"",""
-"7831AC",51,"",""
-"7831AC",54,"",""
-"7831AC",39,"",""
-"7831AC",51,"",""
-"7831AC",39,"",""
-"7831AD",76,"",""
-"7831AD",80,"",""
-"7831AD",69,"",""
-"7831AD",61,"",""
-"7831AD",79,"",""
-"7831AD",76,"",""
-"7831AD",76,"",""
-"7831AD",75,"",""
-"7831AD",63,"",""
-"7831AD",77,"",""
-"7831AD",78,"",""
-"7831AD",68,"",""
-"7831AD",62,"",""
-"7831AD",74,"",""
-"7831AD",76,"",""
-"7831AD",67,"",""
-"7831AD",72,"",""
-"7831AD",71,"",""
-"7831AD",73,"",""
-"7831AD",69,"",""
-"7831AD",66,"",""
-"7831AD",64,"",""
-"7831AE",82,"",""
-"7831AE",94,"",""
-"7831AE",89,"",""
-"7831AE",82,"",""
-"7831AE",96,"",""
-"7831AE",99,"",""
-"7831AE",82,"",""
-"7831AE",82,"","TR"
-"7831AE",95,"",""
-"7831AE",97,"",""
-"7831AE",82,"",""
-"7831AG",107,"",""
-"7831AG",103,"",""
-"7831AG",100,"",""
-"7831AG",107,"",""
-"7831AG",113,"",""
-"7831AG",115,"",""
-"7831AG",117,"",""
-"7831AG",106,"",""
-"7831AG",110,"",""
-"7831AG",113,"",""
-"7831AG",113,"",""
-"7831AG",104,"",""
-"7831AG",117,"",""
-"7831AG",107,"",""
-"7831AG",102,"",""
-"7831AG",101,"",""
-"7831AG",107,"",""
-"7831AG",115,"",""
-"7831AG",115,"",""
-"7831AG",107,"",""
-"7831AG",113,"A",""
-"7831HD",48,"",""
-"7831HD",52,"",""
-"7831HD",48,"",""
-"7831HD",52,"",""
-"7831HD",51,"",""
-"7831HD",48,"",""
-"7831HD",52,"",""
-"7831HD",49,"",""
-"7831HD",47,"A",""
-"7831HD",50,"",""
-"7831HD",56,"",""
-"7831HD",59,"",""
-"7831HD",52,"A",""
-"7831HD",52,"A",""
-"7831HD",51,"",""
-"7831HD",52,"",""
-"7831HD",52,"A",""
-"7831HD",52,"A",""
-"7831HD",64,"",""
-"7831HD",60,"A",""
-"7831HD",56,"",""
-"7831HD",63,"",""
-"7831HD",56,"",""
-"7831HD",47,"B",""
-"7831HD",51,"",""
-"7831HD",64,"",""
-"7831HD",51,"",""
-"7831HD",51,"",""
-"7831HD",64,"",""
-"7831HD",48,"",""
-"7831HD",60,"",""
-"7831HD",60,"A",""
-"7831HD",53,"",""
-"7831HD",55,"",""
-"7831HD",62,"",""
-"7831HD",52,"",""
-"7831HD",52,"",""
-"7831HD",52,"",""
-"7831HD",58,"",""
-"7831HD",52,"A",""
-"7831HD",52,"A",""
-"7831HD",52,"",""
-"7831HE",71,"",""
-"7831HE",103,"",""
-"7831HE",69,"",""
-"7831HE",73,"",""
-"7831HE",72,"",""
-"7831HE",78,"",""
-"7831HE",79,"",""
-"7831HE",65,"A",""
-"7831HE",70,"",""
-"7831HE",65,"A",""
-"7831HE",66,"",""
-"7831HE",64,"",""
-"7831HE",65,"",""
-"7831HE",65,"",""
-"7831HE",68,"",""
-"7831HE",65,"",""
-"7831HE",64,"",""
-"7831HE",65,"",""
-"7831HG",93,"",""
-"7831HG",84,"",""
-"7831HG",96,"",""
-"7831HG",82,"",""
-"7831HG",80,"",""
-"7831HG",93,"",""
-"7831HG",96,"",""
-"7831HG",96,"",""
-"7831HG",96,"",""
-"7831HG",84,"",""
-"7831HG",84,"",""
-"7831HG",95,"",""
-"7831HG",90,"",""
-"7831HG",96,"",""
-"7831HG",84,"",""
-"7831HG",89,"",""
-"7831HG",88,"",""
-"7831HG",91,"",""
-"7831HG",86,"",""
-"7831HG",94,"",""
-"7831HG",93,"",""
-"7831HG",93,"",""
-"7831HH",103,"",""
-"7831HH",103,"",""
-"7831HH",114,"",""
-"7831HH",103,"",""
-"7831HH",98,"",""
-"7831HH",101,"",""
-"7831HH",104,"",""
-"7831HH",97,"",""
-"7831HH",117,"",""
-"7831HH",107,"","ZM"
-"7831HH",103,"",""
-"7831HH",117,"",""
-"7831HH",107,"",""
-"7831HH",102,"",""
-"7831HH",107,"","ZM"
-"7831HH",114,"",""
-"7831HH",103,"",""
-"7831HH",117,"",""
-"7831HH",114,"",""
-"7831HH",117,"",""
-"7831HH",106,"",""
-"7831HH",114,"",""
-7831HD,Weerdingerkanaal NZ,49,,
-7831HD,Weerdingerkanaal NZ,50,,
-7831HD,Weerdingerkanaal NZ,60,A,
-7831HD,Weerdingerkanaal NZ,56,,
-7831HD,Weerdingerkanaal NZ,59,,
-7831HD,Weerdingerkanaal NZ,58,,
-7831HE,Weerdingerkanaal NZ,79,,
-7831HE,Weerdingerkanaal NZ,78,,
-7831HE,Weerdingerkanaal NZ,65,,
-7831HE,Weerdingerkanaal NZ,70,,
-7831HG,Weerdingerkanaal NZ,82,,
-7831HG,Weerdingerkanaal NZ,80,,
-7831HG,Weerdingerkanaal NZ,90,,
-7831HG,Weerdingerkanaal NZ,89,,
-7831HH,Weerdingerkanaal NZ,107,,
-7831HH,Weerdingerkanaal NZ,106,,
-7831HH,Weerdingerkanaal NZ,117,,
-7831HH,Weerdingerkanaal NZ,117,,
-7831HH,Weerdingerkanaal NZ,117,,
-7831HH,Weerdingerkanaal NZ,117,,
-7831AB,Weerdingerkanaal ZZ,28,A,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,34,,
-7831AB,Weerdingerkanaal ZZ,38,,
-7831AB,Weerdingerkanaal ZZ,28,B,
-7831AB,Weerdingerkanaal ZZ,30,,
-7831AC,Weerdingerkanaal ZZ,54,,
-7831AC,Weerdingerkanaal ZZ,45,,
-7831AC,Weerdingerkanaal ZZ,52,,
-7831AD,Weerdingerkanaal ZZ,63,,
-7831AD,Weerdingerkanaal ZZ,66,,
-7831AD,Weerdingerkanaal ZZ,77,,
-7831AD,Weerdingerkanaal ZZ,74,,
-7831AE,Weerdingerkanaal ZZ,82,,TR
-7831AE,Weerdingerkanaal ZZ,89,,
-7831AE,Weerdingerkanaal ZZ,97,,
-7831AE,Weerdingerkanaal ZZ,99,,
-7831AG,Weerdingerkanaal ZZ,117,,
-7831AG,Weerdingerkanaal ZZ,117,,
-7831AG,Weerdingerkanaal ZZ,104,,
-7831AG,Weerdingerkanaal ZZ,100,,
-7831AG,Weerdingerkanaal ZZ,115,,
-7831HG,Weerdingerkanaal NZ,91,,
-7831AB,Weerdingerkanaal ZZ,35,,
-7831AC,Weerdingerkanaal ZZ,56,,
-7831AC,Weerdingerkanaal ZZ,51,,
-7831AD,Weerdingerkanaal ZZ,69,,
-7831AD,Weerdingerkanaal ZZ,79,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HD,Weerdingerkanaal NZ,47,A,
-7831HD,Weerdingerkanaal NZ,63,,
-7831HE,Weerdingerkanaal NZ,66,,
-7831HE,Weerdingerkanaal NZ,69,,
-7831HG,Weerdingerkanaal NZ,88,,
-7831HG,Weerdingerkanaal NZ,94,,
-7831HG,Weerdingerkanaal NZ,95,,
-7831AD,Weerdingerkanaal ZZ,68,,
-7831AD,Weerdingerkanaal ZZ,78,,
-7831HD,Weerdingerkanaal NZ,62,,
-7831HE,Weerdingerkanaal NZ,73,,
-7831HG,Weerdingerkanaal NZ,93,,
-7831HH,Weerdingerkanaal NZ,97,,
-7831HH,Weerdingerkanaal NZ,101,,
-7831HH,Weerdingerkanaal NZ,114,,
-7831AB,Weerdingerkanaal ZZ,25,,
-7831AB,Weerdingerkanaal ZZ,23,,
-7831AC,Weerdingerkanaal ZZ,39,,
-7831AD,Weerdingerkanaal ZZ,71,,
-7831AD,Weerdingerkanaal ZZ,67,,
-7831AD,Weerdingerkanaal ZZ,75,,
-7831AD,Weerdingerkanaal ZZ,76,,
-7831AD,Weerdingerkanaal ZZ,76,,
-7831AE,Weerdingerkanaal ZZ,82,,
-7831AG,Weerdingerkanaal ZZ,103,,
-7831HD,Weerdingerkanaal NZ,53,,
-7831HD,Weerdingerkanaal NZ,60,,
-7831HD,Weerdingerkanaal NZ,64,,
-7831HD,Weerdingerkanaal NZ,55,,
-7831HD,Weerdingerkanaal NZ,52,A,
-7831HG,Weerdingerkanaal NZ,84,,
-7831HG,Weerdingerkanaal NZ,84,,
-7831HG,Weerdingerkanaal NZ,84,,
-7831HG,Weerdingerkanaal NZ,84,,
-7831HG,Weerdingerkanaal NZ,96,,
-7831HH,Weerdingerkanaal NZ,104,,
-7831AB,Weerdingerkanaal ZZ,21,,
-7831AB,Weerdingerkanaal ZZ,37,,
-7831AB,Weerdingerkanaal ZZ,36,,
-7831AB,Weerdingerkanaal ZZ,33,,
-7831AD,Weerdingerkanaal ZZ,64,,
-7831AD,Weerdingerkanaal ZZ,61,,
-7831AD,Weerdingerkanaal ZZ,76,,
-7831AD,Weerdingerkanaal ZZ,80,,
-7831AG,Weerdingerkanaal ZZ,107,,
-7831AG,Weerdingerkanaal ZZ,106,,
-7831AG,Weerdingerkanaal ZZ,110,,
-7831HD,Weerdingerkanaal NZ,48,,
-7831HG,Weerdingerkanaal NZ,86,,
-7831HH,Weerdingerkanaal NZ,102,,
-7831AB,Weerdingerkanaal ZZ,31,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AC,Weerdingerkanaal ZZ,49,,
-7831AD,Weerdingerkanaal ZZ,72,,
-7831AD,Weerdingerkanaal ZZ,62,,
-7831AE,Weerdingerkanaal ZZ,94,,
-7831AE,Weerdingerkanaal ZZ,96,,
-7831AG,Weerdingerkanaal ZZ,101,,
-7831AG,Weerdingerkanaal ZZ,102,,
-7831AB,Weerdingerkanaal,28,,
-7831AB,Weerdingerkanaal NZ,24,,
-7831HD,Weerdingerkanaal NZ,47,B,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,56,,
-7831HD,Weerdingerkanaal NZ,64,,
-7831HD,Weerdingerkanaal NZ,48,,
-7831HD,Weerdingerkanaal NZ,48,,
-7831HD,Weerdingerkanaal NZ,52,A,
-7831HD,Weerdingerkanaal NZ,52,A,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,52,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HD,Weerdingerkanaal NZ,51,,
-7831HE,Weerdingerkanaal NZ,71,,
-7831HE,Weerdingerkanaal NZ,68,,
-7831HE,Weerdingerkanaal NZ,72,,
-7831HE,Weerdingerkanaal NZ,65,,
-7831HE,Weerdingerkanaal NZ,65,,
-7831HE,Weerdingerkanaal NZ,64,,
-7831HE,Weerdingerkanaal NZ,64,,
-7831HE,Weerdingerkanaal NZ,103,,
-7831HG,Weerdingerkanaal NZ,93,,
-7831HG,Weerdingerkanaal NZ,93,,
-7831HG,Weerdingerkanaal NZ,96,,
-7831HG,Weerdingerkanaal NZ,96,,
-7831HG,Weerdingerkanaal NZ,96,,
-7831HH,Weerdingerkanaal NZ,98,,
-7831HH,Weerdingerkanaal NZ,103,,
-7831HH,Weerdingerkanaal NZ,103,,
-7831HH,Weerdingerkanaal NZ,114,,
-7831HH,Weerdingerkanaal NZ,114,,
-7831HH,Weerdingerkanaal NZ,103,,
-7831AB,Weerdingerkanaal ZZ,28,,
-7831AB,Weerdingerkanaal ZZ,28,C,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,24,,
-7831AB,Weerdingerkanaal ZZ,36,,
-7831AB,Weerdingerkanaal ZZ,36,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AB,Weerdingerkanaal ZZ,29,,
-7831AB,Weerdingerkanaal ZZ,28,,
-7831AB,Weerdingerkanaal ZZ,28,,
-7831AC,Weerdingerkanaal ZZ,48,,
-7831AC,Weerdingerkanaal ZZ,42,,
-7831AC,Weerdingerkanaal ZZ,39,,
-7831AC,Weerdingerkanaal ZZ,39,,
-7831AC,Weerdingerkanaal ZZ,51,,
-7831AC,Weerdingerkanaal ZZ,51,,
-7831AD,Weerdingerkanaal ZZ,73,,
-7831AE,Weerdingerkanaal ZZ,95,,
-7831AE,Weerdingerkanaal ZZ,82,,
-7831AE,Weerdingerkanaal ZZ,82,,
-7831AG,Weerdingerkanaal ZZ,113,,
-7831AG,Weerdingerkanaal ZZ,113,,
-7831AG,Weerdingerkanaal ZZ,113,,
-7831HE,Weerdingerkanaal NZ,65,A,
-7831HE,Weerdingerkanaal NZ,65,A,
-7831HH,Weerdingerkanaal NZ,107,,ZM
-7831HH,Weerdingerkanaal NZ,107,,ZM
-7831AG,Weerdingerkanaal ZZ,107,,
-7831AG,Weerdingerkanaal ZZ,107,,
-7831AG,Weerdingerkanaal ZZ,107,,
-7831AG,Weerdingerkanaal ZZ,113,A,
-7831AG,Weerdingerkanaal ZZ,115,,
-7831AB,Weerdingerkanaal ZZ,35,,
-7831AB,Weerdingerkanaal ZZ,35,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Weerdingerkanaal ZZ,21,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,23,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,24,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,25,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,A,"",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,B,"",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,28,C,"",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,29,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,30,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,31,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,33,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,34,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,35,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,36,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,37,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,38,"","",7831AB,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,39,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,39,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,39,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,39,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,42,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,45,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,48,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,49,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,51,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,51,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,51,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,51,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,52,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,54,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,56,"","",7831AC,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,61,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,62,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,63,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,64,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,66,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,67,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,68,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,69,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,69,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,71,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,72,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,73,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,74,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,75,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,76,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,76,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,76,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,76,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,77,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,78,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,79,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,80,"","",7831AD,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,82,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,82,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,82,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,82,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,82,"",TR,7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,89,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,94,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,95,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,96,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,97,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,99,"","",7831AE,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,100,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,101,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,102,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,103,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,104,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,106,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,107,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,107,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,107,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,107,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,107,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,110,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,113,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,113,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,113,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,113,A,"",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,115,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,115,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,115,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,117,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal ZZ,117,"","",7831AG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,47,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,47,B,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,48,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,49,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,50,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,51,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,52,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,53,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,55,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,56,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,56,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,56,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,58,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,59,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,60,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,60,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,60,A,"",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,62,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,63,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HD,Nieuw-Weerdinge
+Weerdingerkanaal NZ,103,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,64,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,65,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,65,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,65,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,65,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,65,A,"",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,65,A,"",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,66,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,68,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,69,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,70,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,71,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,72,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,73,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,78,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,79,"","",7831HE,Nieuw-Weerdinge
+Weerdingerkanaal NZ,80,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,82,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,84,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,84,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,84,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,84,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,86,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,88,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,89,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,90,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,91,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,93,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,93,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,93,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,93,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,94,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,95,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,96,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,96,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,96,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,96,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,96,"","",7831HG,Nieuw-Weerdinge
+Weerdingerkanaal NZ,101,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,102,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,103,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,103,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,103,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,103,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,103,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,104,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,106,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,107,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,107,"",ZM,7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,107,"",ZM,7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,114,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,114,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,114,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,114,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,117,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,117,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,117,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,117,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,97,"","",7831HH,Nieuw-Weerdinge
+Weerdingerkanaal NZ,98,"","",7831HH,Nieuw-Weerdinge

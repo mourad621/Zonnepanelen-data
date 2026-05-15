@@ -1,49 +1,49 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5026SB,Technopol,7,,
-5026SK,Maidstone,52,,
-5026SK,Maidstone,32,,
-5026SK,Maidstone,8,,
-5026SK,Maidstone,44,,
-5026SK,Maidstone,56,,
-5026SK,Maidstone,16,,
-5026SK,Maidstone,28,,
-5026SK,Maidstone,20,,
-5026SK,Maidstone,24,,
-5026SC,La Défense,61,,
-5026SK,Maidstone,40,,
-5026SK,Maidstone,48,,
-5026SK,Maidstone,50,,
-5026SK,Maidstone,48,a,
-5026SK,Maidstone,48,,
-5026SK,Maidstone,42,,
-5026SK,Maidstone,28,,01
-5026SK,Maidstone,28,,
-5026SK,Maidstone,38,,
-5026SK,Maidstone,20,,01
-5026SK,Maidstone,20,,02
-5026SE,Kalundborg,6,,
-5026SC,La Défense,1,,
-5026SC,La Défense,11,,
-5026SK,Maidstone,24,,
-5026SK,Maidstone,34,,
-5026SB,Technopol,29,,
-5026SB,Technopol,5,,
-5026SE,Kalundborg,10,,
-5026SE,Kalundborg,4,,
-5026SE,Kalundborg,3,,
-5026SC,La Défense,9,,
-5026SC,La Défense,7,,
-5026SK,Maidstone,1,,
-5026SB,Technopol,33,,
-5026SB,Technopol,33,,
-5026SB,Technopol,25,,
-5026SB,Technopol,4,,
-5026SB,Technopol,2,,
-5026SB,Technopol,2,,
-5026SB,Technopol,25,,
-5026SB,Technopol,25,a,
-5026SB,Technopol,25,b,
-5026SC,La Défense,3,,
-5026SC,La Défense,3,,
-5026SC,La Défense,3,a,
-5026SB,Technopol,25,c,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Technopol,2,"","",5026SB,Tilburg
+Technopol,2,"","",5026SB,Tilburg
+Technopol,25,"","",5026SB,Tilburg
+Technopol,25,"","",5026SB,Tilburg
+Technopol,25,A,"",5026SB,Tilburg
+Technopol,25,B,"",5026SB,Tilburg
+Technopol,25,C,"",5026SB,Tilburg
+Technopol,29,"","",5026SB,Tilburg
+Technopol,33,"","",5026SB,Tilburg
+Technopol,33,"","",5026SB,Tilburg
+Technopol,4,"","",5026SB,Tilburg
+Technopol,5,"","",5026SB,Tilburg
+Technopol,7,"","",5026SB,Tilburg
+La Défense,1,"","",5026SC,Tilburg
+La Défense,11,"","",5026SC,Tilburg
+La Défense,3,"","",5026SC,Tilburg
+La Défense,3,"","",5026SC,Tilburg
+La Défense,3,A,"",5026SC,Tilburg
+La Défense,61,"","",5026SC,Tilburg
+La Défense,7,"","",5026SC,Tilburg
+La Défense,9,"","",5026SC,Tilburg
+Kalundborg,10,"","",5026SE,Tilburg
+Kalundborg,3,"","",5026SE,Tilburg
+Kalundborg,4,"","",5026SE,Tilburg
+Kalundborg,6,"","",5026SE,Tilburg
+Maidstone,1,"","",5026SK,Tilburg
+Maidstone,16,"","",5026SK,Tilburg
+Maidstone,20,"","",5026SK,Tilburg
+Maidstone,20,"",01,5026SK,Tilburg
+Maidstone,20,"",02,5026SK,Tilburg
+Maidstone,24,"","",5026SK,Tilburg
+Maidstone,24,"","",5026SK,Tilburg
+Maidstone,28,"","",5026SK,Tilburg
+Maidstone,28,"","",5026SK,Tilburg
+Maidstone,28,"",01,5026SK,Tilburg
+Maidstone,32,"","",5026SK,Tilburg
+Maidstone,34,"","",5026SK,Tilburg
+Maidstone,38,"","",5026SK,Tilburg
+Maidstone,40,"","",5026SK,Tilburg
+Maidstone,42,"","",5026SK,Tilburg
+Maidstone,44,"","",5026SK,Tilburg
+Maidstone,48,"","",5026SK,Tilburg
+Maidstone,48,"","",5026SK,Tilburg
+Maidstone,48,A,"",5026SK,Tilburg
+Maidstone,50,"","",5026SK,Tilburg
+Maidstone,52,"","",5026SK,Tilburg
+Maidstone,56,"","",5026SK,Tilburg
+Maidstone,8,"","",5026SK,Tilburg

@@ -1,8 +1,8 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4388VS,Schroeweg,1,,
-4388VS,Schroeweg,2,,
-4388VS,Schroeweg,4,,
-4388VS,Schroeweg,6,,
-4388VS,Schroeweg,4,a,
-4388VS,Schroeweg,4,b,
-4388VS,Schroeweg,2,w,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Schroeweg,1,"","",4388VS,Oost-Souburg
+Schroeweg,2,"","",4388VS,Oost-Souburg
+Schroeweg,2,W,"",4388VS,Oost-Souburg
+Schroeweg,4,"","",4388VS,Oost-Souburg
+Schroeweg,4,A,"",4388VS,Oost-Souburg
+Schroeweg,4,B,"",4388VS,Oost-Souburg
+Schroeweg,6,"","",4388VS,Oost-Souburg

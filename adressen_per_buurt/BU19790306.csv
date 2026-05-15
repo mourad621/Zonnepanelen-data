@@ -1,792 +1,383 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9934RA",3,"",""
-"9934RA",15,"A",""
-"9934RA",11,"",""
-"9934RA",13,"",""
-"9934RA",1,"",""
-"9934RA",19,"",""
-"9934RA",5,"",""
-"9934RA",19,"C",""
-"9934RA",17,"B",""
-"9934RA",17,"A",""
-"9934RA",15,"A",""
-"9934RA",17,"",""
-"9934RA",19,"B",""
-"9934RA",15,"",""
-"9934RA",17,"C",""
-"9934RA",15,"",""
-"9934RB",29,"",""
-"9934RB",29,"",""
-"9934RB",41,"",""
-"9934RC",6,"",""
-"9934RC",10,"",""
-"9934RC",4,"",""
-"9934RC",14,"",""
-"9934RC",8,"A",""
-"9934RC",2,"",""
-"9934RC",4,"",""
-"9934RC",8,"",""
-"9934RC",10,"A",""
-"9934RC",12,"",""
-"9934RC",6,"",""
-"9934RD",1,"A",""
-"9934RD",1,"",""
-"9934RD",23,"B",""
-"9934RD",19,"",""
-"9934RD",5,"",""
-"9934RD",23,"A",""
-"9934RD",17,"B",""
-"9934RD",3,"",""
-"9934RD",11,"",""
-"9934RD",21,"",""
-"9934RD",7,"",""
-"9934RD",23,"C",""
-"9934RD",23,"",""
-"9934RD",7,"A",""
-"9934RD",17,"A",""
-"9934RD",17,"",""
-"9934RE",29,"",""
-"9934RE",31,"",""
-"9934RE",27,"",""
-"9934RE",55,"A",""
-"9934RE",33,"",""
-"9934RE",39,"C",""
-"9934RE",35,"",""
-"9934RE",55,"C",""
-"9934RE",55,"",""
-"9934RE",55,"A",""
-"9934RE",39,"",""
-"9934RE",39,"B",""
-"9934RE",45,"B",""
-"9934RE",47,"",""
-"9934RE",39,"D",""
-"9934RE",39,"A",""
-"9934RE",35,"B",""
-"9934RE",41,"A",""
-"9934RE",41,"B",""
-"9934RE",35,"A",""
-"9934RE",37,"B",""
-"9934RE",43,"A",""
-"9934RE",43,"B",""
-"9934RE",45,"",""
-"9934RE",45,"A",""
-"9934RE",53,"",""
-"9934RE",53,"A",""
-"9934RE",47,"A",""
-"9934RE",47,"B",""
-"9934RE",43,"",""
-"9934RE",53,"a",""
-"9934RE",53,"A",""
-"9934RE",41,"C",""
-"9934RE",37,"A",""
-"9934RE",39,"E",""
-"9934RE",37,"C",""
-"9934RE",37,"D",""
-"9934RE",53,"B",""
-"9934RE",41,"",""
-"9934RE",37,"",""
-"9934RE",53,"B",""
-"9934RG",2,"",""
-"9934RG",4,"",""
-"9934RG",2,"",""
-"9934RG",4,"A","120"
-"9934RG",6,"",""
-"9934RG",4,"",""
-"9934RG",6,"",""
-"9934RG",8,"",""
-"9934RH",11,"",""
-"9934RH",3,"",""
-"9934RH",13,"",""
-"9934RH",17,"",""
-"9934RH",23,"",""
-"9934RH",15,"",""
-"9934RH",1,"",""
-"9934RH",7,"",""
-"9934RJ",10,"",""
-"9934RJ",2,"",""
-"9934RJ",2,"A",""
-"9934RJ",14,"",""
-"9934RJ",10,"",""
-"9934RJ",12,"",""
-"9934RK",4,"",""
-"9934RK",3,"",""
-"9934RK",23,"",""
-"9934RK",12,"",""
-"9934RK",8,"",""
-"9934RK",5,"G","1"
-"9934RK",6,"",""
-"9934RK",21,"",""
-"9934RK",19,"",""
-"9934RK",5,"G","1"
-"9934RK",2,"",""
-"9934RK",11,"",""
-"9934RK",17,"",""
-"9934RK",10,"",""
-"9934RK",13,"",""
-"9934RM",3,"",""
-"9934RM",1,"A",""
-"9934RM",1,"",""
-"9934RM",3,"",""
-"9934RM",25,"",""
-"9934RM",13,"",""
-"9934RM",3,"",""
-"9934RN",61,"A",""
-"9934RN",63,"",""
-"9934RN",63,"A",""
-"9934RN",63,"B",""
-"9934RN",65,"",""
-"9934RN",69,"B",""
-"9934RN",65,"B",""
-"9934RN",71,"A",""
-"9934RN",69,"A",""
-"9934RN",73,"",""
-"9934RN",71,"",""
-"9934RN",73,"B",""
-"9934RN",71,"B",""
-"9934RN",67,"A",""
-"9934RN",73,"A",""
-"9934RN",59,"B",""
-"9934RN",69,"",""
-"9934RN",59,"",""
-"9934RN",59,"A",""
-"9934RN",61,"B",""
-"9934RN",61,"",""
-"9934RN",75,"",""
-"9934RN",75,"A",""
-"9934RN",67,"B",""
-"9934RN",67,"B",""
-"9934RN",57,"A",""
-"9934RN",65,"A",""
-"9934RN",67,"",""
-"9934RN",79,"",""
-"9934RN",57,"",""
-"9934RN",79,"",""
-"9934RP",39,"G","2"
-"9934RP",39,"G","3"
-"9934RP",39,"",""
-"9934RP",39,"G","1"
-"9934RP",33,"",""
-"9934RP",35,"",""
-"9934RP",37,"",""
-"9934RP",31,"",""
-"9934RP",47,"",""
-"9934RP",49,"",""
-"9934RP",51,"",""
-"9934RP",45,"",""
-"9934RP",27,"",""
-"9934RP",39,"G","7"
-"9934RP",39,"G","8"
-"9934RP",41,"",""
-"9934RP",43,"",""
-"9934RP",39,"G","4"
-"9934RP",57,"",""
-"9934RP",39,"G","5"
-"9934RP",29,"",""
-"9934RP",25,"",""
-"9934RP",53,"",""
-"9934RP",55,"",""
-"9934RP",39,"G","6"
-"9934RR",99,"",""
-"9934RR",97,"c",""
-"9934RR",97,"d",""
-"9934RR",97,"",""
-"9934RR",97,"b",""
-"9934RR",93,"",""
-"9934RR",95,"",""
-"9934RR",77,"",""
-"9934RR",97,"a",""
-"9934RR",73,"",""
-"9934RR",75,"",""
-"9934RR",59,"",""
-"9934RR",79,"",""
-"9934RR",63,"",""
-"9934RR",65,"",""
-"9934RR",67,"",""
-"9934RR",69,"",""
-"9934RR",71,"",""
-"9934RR",103,"b",""
-"9934RR",103,"c",""
-"9934RR",103,"d",""
-"9934RR",103,"e",""
-"9934RR",81,"",""
-"9934RR",83,"",""
-"9934RR",85,"",""
-"9934RR",61,"",""
-"9934RR",101,"c",""
-"9934RR",91,"",""
-"9934RR",107,"",""
-"9934RR",109,"",""
-"9934RR",111,"",""
-"9934RR",113,"",""
-"9934RR",115,"",""
-"9934RR",105,"b",""
-"9934RR",105,"c",""
-"9934RR",105,"d",""
-"9934RR",101,"",""
-"9934RR",101,"d",""
-"9934RR",101,"e",""
-"9934RR",101,"a",""
-"9934RR",105,"e",""
-"9934RR",103,"",""
-"9934RR",105,"a",""
-"9934RR",103,"a",""
-"9934RR",105,"",""
-"9934RR",87,"",""
-"9934RR",89,"",""
-"9934RR",101,"b",""
-"9934RS",42,"",""
-"9934RS",40,"G","8"
-"9934RS",40,"G","4"
-"9934RS",26,"",""
-"9934RS",28,"",""
-"9934RS",30,"",""
-"9934RS",34,"",""
-"9934RS",40,"G","3"
-"9934RS",56,"",""
-"9934RS",40,"G","7"
-"9934RS",40,"G","2"
-"9934RS",40,"G","1"
-"9934RS",36,"",""
-"9934RS",40,"G","5"
-"9934RS",40,"G","6"
-"9934RS",44,"",""
-"9934RS",40,"",""
-"9934RS",52,"",""
-"9934RS",32,"",""
-"9934RS",38,"",""
-"9934RS",50,"",""
-"9934RS",48,"",""
-"9934RS",46,"",""
-"9934RS",54,"",""
-"9934RT",62,"",""
-"9934RT",70,"",""
-"9934RT",64,"",""
-"9934RT",86,"",""
-"9934RT",88,"",""
-"9934RT",66,"",""
-"9934RT",92,"",""
-"9934RT",94,"",""
-"9934RT",96,"",""
-"9934RT",90,"",""
-"9934RT",113,"",""
-"9934RT",115,"",""
-"9934RT",76,"",""
-"9934RT",72,"",""
-"9934RT",58,"",""
-"9934RT",100,"",""
-"9934RT",84,"",""
-"9934RT",60,"",""
-"9934RT",98,"",""
-"9934RT",82,"",""
-"9934RT",109,"",""
-"9934RT",104,"",""
-"9934RT",111,"",""
-"9934RT",68,"",""
-"9934RT",106,"",""
-"9934RT",107,"",""
-"9934RT",78,"",""
-"9934RT",80,"",""
-"9934RT",74,"",""
-"9934RV",108,"",""
-"9934RV",110,"",""
-"9934RW",4,"",""
-"9934RW",2,"",""
-"9934RW",3,"",""
-"9934RW",9,"",""
-"9934RW",1,"",""
-"9934RW",12,"",""
-"9934RW",13,"",""
-"9934RW",14,"",""
-"9934RW",24,"",""
-"9934RW",5,"",""
-"9934RW",21,"",""
-"9934RW",22,"",""
-"9934RW",32,"",""
-"9934RW",11,"",""
-"9934RW",28,"",""
-"9934RW",30,"",""
-"9934RW",18,"",""
-"9934RW",34,"",""
-"9934RW",16,"",""
-"9934RW",10,"",""
-"9934RW",8,"",""
-"9934RW",6,"",""
-"9934RW",26,"",""
-"9934RW",36,"",""
-"9934RW",15,"",""
-"9934RW",19,"",""
-"9934RW",20,"",""
-"9934RW",17,"",""
-"9934RW",7,"",""
-"9934RX",8,"",""
-"9934RX",11,"",""
-"9934RX",12,"",""
-"9934RX",1,"",""
-"9934RX",7,"",""
-"9934RX",13,"",""
-"9934RX",6,"",""
-"9934RX",5,"",""
-"9934RX",23,"",""
-"9934RX",20,"",""
-"9934RX",9,"",""
-"9934RX",10,"",""
-"9934RX",14,"",""
-"9934RX",24,"",""
-"9934RX",25,"",""
-"9934RX",17,"",""
-"9934RX",18,"",""
-"9934RX",36,"",""
-"9934RX",38,"",""
-"9934RX",40,"",""
-"9934RX",22,"",""
-"9934RX",44,"",""
-"9934RX",46,"",""
-"9934RX",48,"",""
-"9934RX",50,"",""
-"9934RX",27,"",""
-"9934RX",2,"",""
-"9934RX",30,"",""
-"9934RX",32,"",""
-"9934RX",34,"",""
-"9934RX",21,"",""
-"9934RX",19,"",""
-"9934RX",56,"",""
-"9934RX",42,"",""
-"9934RX",52,"",""
-"9934RX",54,"",""
-"9934RX",3,"",""
-"9934RX",4,"",""
-"9934RX",26,"",""
-"9934RX",15,"",""
-"9934RX",16,"",""
-"9934RX",28,"",""
-"9934RZ",6,"",""
-"9934RZ",10,"",""
-"9934RZ",5,"",""
-"9934RZ",11,"",""
-"9934RZ",4,"",""
-"9934RZ",9,"",""
-"9934RZ",32,"",""
-"9934RZ",26,"",""
-"9934RZ",7,"",""
-"9934RZ",3,"",""
-"9934RZ",20,"",""
-"9934RZ",28,"",""
-"9934RZ",22,"",""
-"9934RZ",8,"",""
-"9934RZ",2,"",""
-"9934RZ",1,"",""
-"9934RZ",18,"",""
-"9934RZ",30,"",""
-"9934RZ",24,"",""
-"9934RZ",16,"",""
-"9934RZ",14,"",""
-9934RD,Eemskanaal N.Z.,5,,
-9934RD,Eemskanaal N.Z.,3,,
-9934RD,Eemskanaal N.Z.,1,,
-9934RA,Nieuweweg,15,,
-9934RA,Nieuweweg,17,,
-9934RA,Nieuweweg,19,,
-9934RA,Nieuweweg,13,,
-9934RA,Nieuweweg,11,,
-9934RA,Nieuweweg,5,,
-9934RA,Nieuweweg,3,,
-9934RA,Nieuweweg,1,,
-9934RB,Nieuweweg,29,,
-9934RB,Nieuweweg,41,,
-9934RC,Nieuweweg,2,,
-9934RK,Concordiastraat,11,,
-9934RK,Concordiastraat,13,,
-9934RK,Concordiastraat,17,,
-9934RK,Concordiastraat,19,,
-9934RK,Concordiastraat,21,,
-9934RK,Concordiastraat,23,,
-9934RK,Concordiastraat,3,,
-9934RD,Eemskanaal N.Z.,19,,
-9934RD,Eemskanaal N.Z.,21,,
-9934RD,Eemskanaal N.Z.,11,,
-9934RD,Eemskanaal N.Z.,23,,
-9934RD,Eemskanaal N.Z.,23,A,
-9934RD,Eemskanaal N.Z.,23,B,
-9934RD,Eemskanaal N.Z.,23,C,
-9934RD,Eemskanaal N.Z.,17,,
-9934RD,Eemskanaal N.Z.,17,A,
-9934RD,Eemskanaal N.Z.,17,B,
-9934RD,Eemskanaal N.Z.,7,,
-9934RD,Eemskanaal N.Z.,7,A,
-9934RE,Eemskanaal N.Z.,53,,
-9934RE,Eemskanaal N.Z.,55,C,
-9934RE,Eemskanaal N.Z.,53,A,
-9934RE,Eemskanaal N.Z.,53,B,
-9934RE,Eemskanaal N.Z.,55,,
-9934RE,Eemskanaal N.Z.,55,A,
-9934RE,Eemskanaal N.Z.,27,,
-9934RE,Eemskanaal N.Z.,29,,
-9934RE,Eemskanaal N.Z.,31,,
-9934RE,Eemskanaal N.Z.,33,,
-9934RE,Eemskanaal N.Z.,47,,
-9934RE,Eemskanaal N.Z.,47,A,
-9934RE,Eemskanaal N.Z.,47,B,
-9934RE,Eemskanaal N.Z.,45,,
-9934RE,Eemskanaal N.Z.,43,,
-9934RE,Eemskanaal N.Z.,41,,
-9934RE,Eemskanaal N.Z.,45,A,
-9934RE,Eemskanaal N.Z.,43,A,
-9934RE,Eemskanaal N.Z.,41,A,
-9934RE,Eemskanaal N.Z.,45,B,
-9934RE,Eemskanaal N.Z.,43,B,
-9934RE,Eemskanaal N.Z.,41,B,
-9934RE,Eemskanaal N.Z.,39,,
-9934RE,Eemskanaal N.Z.,39,A,
-9934RE,Eemskanaal N.Z.,39,B,
-9934RE,Eemskanaal N.Z.,39,C,
-9934RE,Eemskanaal N.Z.,39,D,
-9934RE,Eemskanaal N.Z.,39,E,
-9934RE,Eemskanaal N.Z.,37,,
-9934RE,Eemskanaal N.Z.,37,A,
-9934RE,Eemskanaal N.Z.,37,B,
-9934RE,Eemskanaal N.Z.,37,C,
-9934RE,Eemskanaal N.Z.,37,D,
-9934RE,Eemskanaal N.Z.,35,,
-9934RE,Eemskanaal N.Z.,35,A,
-9934RE,Eemskanaal N.Z.,35,B,
-9934RE,Eemskanaal N.Z.,41,C,
-9934RG,Eemskanaal N.Z.,8,,
-9934RG,Eemskanaal N.Z.,6,,
-9934RG,Eemskanaal N.Z.,2,,
-9934RN,Eemskanaal N.Z.,79,,
-9934RN,Eemskanaal N.Z.,57,,
-9934RN,Eemskanaal N.Z.,59,,
-9934RN,Eemskanaal N.Z.,61,,
-9934RN,Eemskanaal N.Z.,63,,
-9934RN,Eemskanaal N.Z.,65,,
-9934RN,Eemskanaal N.Z.,67,,
-9934RN,Eemskanaal N.Z.,57,A,
-9934RN,Eemskanaal N.Z.,59,A,
-9934RN,Eemskanaal N.Z.,61,A,
-9934RN,Eemskanaal N.Z.,63,A,
-9934RN,Eemskanaal N.Z.,65,A,
-9934RN,Eemskanaal N.Z.,67,A,
-9934RN,Eemskanaal N.Z.,67,B,
-9934RN,Eemskanaal N.Z.,65,B,
-9934RN,Eemskanaal N.Z.,63,B,
-9934RN,Eemskanaal N.Z.,61,B,
-9934RN,Eemskanaal N.Z.,59,B,
-9934RN,Eemskanaal N.Z.,69,,
-9934RN,Eemskanaal N.Z.,71,,
-9934RN,Eemskanaal N.Z.,73,,
-9934RN,Eemskanaal N.Z.,75,,
-9934RN,Eemskanaal N.Z.,69,A,
-9934RN,Eemskanaal N.Z.,71,A,
-9934RN,Eemskanaal N.Z.,73,A,
-9934RN,Eemskanaal N.Z.,75,A,
-9934RN,Eemskanaal N.Z.,69,B,
-9934RN,Eemskanaal N.Z.,71,B,
-9934RN,Eemskanaal N.Z.,73,B,
-9934RH,E.H. Roggenkampweg,1,,
-9934RH,E.H. Roggenkampweg,3,,
-9934RH,E.H. Roggenkampweg,7,,
-9934RH,E.H. Roggenkampweg,11,,
-9934RH,E.H. Roggenkampweg,13,,
-9934RH,E.H. Roggenkampweg,15,,
-9934RH,E.H. Roggenkampweg,17,,
-9934RH,E.H. Roggenkampweg,23,,
-9934RJ,E.H. Roggenkampweg,10,,
-9934RJ,E.H. Roggenkampweg,14,,
-9934RJ,E.H. Roggenkampweg,12,,
-9934RJ,E.H. Roggenkampweg,2,,
-9934RJ,E.H. Roggenkampweg,2,A,
-9934RM,Hogelandsterweg,1,A,
-9934RM,Hogelandsterweg,1,,
-9934RM,Hogelandsterweg,3,,
-9934RM,Hogelandsterweg,25,,
-9934RM,Hogelandsterweg,13,,
-9934RT,Midscheeps,80,,
-9934RT,Midscheeps,86,,
-9934RT,Midscheeps,88,,
-9934RT,Midscheeps,90,,
-9934RT,Midscheeps,92,,
-9934RT,Midscheeps,94,,
-9934RT,Midscheeps,64,,
-9934RT,Midscheeps,78,,
-9934RT,Midscheeps,72,,
-9934RT,Midscheeps,68,,
-9934RT,Midscheeps,62,,
-9934RT,Midscheeps,66,,
-9934RT,Midscheeps,70,,
-9934RT,Midscheeps,60,,
-9934RT,Midscheeps,58,,
-9934RT,Midscheeps,74,,
-9934RT,Midscheeps,76,,
-9934RT,Midscheeps,84,,
-9934RT,Midscheeps,82,,
-9934RW,Sluis,7,,
-9934RW,Sluis,1,,
-9934RW,Sluis,5,,
-9934RW,Sluis,11,,
-9934RW,Sluis,19,,
-9934RW,Sluis,13,,
-9934RW,Sluis,15,,
-9934RW,Sluis,17,,
-9934RW,Sluis,9,,
-9934RW,Sluis,21,,
-9934RW,Sluis,2,,
-9934RW,Sluis,4,,
-9934RW,Sluis,6,,
-9934RW,Sluis,8,,
-9934RW,Sluis,10,,
-9934RW,Sluis,12,,
-9934RW,Sluis,14,,
-9934RW,Sluis,16,,
-9934RW,Sluis,18,,
-9934RW,Sluis,20,,
-9934RW,Sluis,22,,
-9934RW,Sluis,24,,
-9934RW,Sluis,26,,
-9934RW,Sluis,28,,
-9934RW,Sluis,30,,
-9934RW,Sluis,32,,
-9934RW,Sluis,34,,
-9934RW,Sluis,36,,
-9934RW,Sluis,3,,
-9934RX,Stuurhuis,32,,
-9934RX,Stuurhuis,34,,
-9934RX,Stuurhuis,36,,
-9934RX,Stuurhuis,38,,
-9934RX,Stuurhuis,40,,
-9934RX,Stuurhuis,42,,
-9934RX,Stuurhuis,48,,
-9934RX,Stuurhuis,4,,
-9934RX,Stuurhuis,8,,
-9934RX,Stuurhuis,14,,
-9934RX,Stuurhuis,16,,
-9934RX,Stuurhuis,30,,
-9934RX,Stuurhuis,10,,
-9934RX,Stuurhuis,12,,
-9934RX,Stuurhuis,18,,
-9934RX,Stuurhuis,24,,
-9934RX,Stuurhuis,46,,
-9934RX,Stuurhuis,56,,
-9934RX,Stuurhuis,6,,
-9934RZ,Voorplecht,16,,
-9934RZ,Voorplecht,18,,
-9934RZ,Voorplecht,10,,
-9934RZ,Voorplecht,14,,
-9934RZ,Voorplecht,20,,
-9934RZ,Voorplecht,26,,
-9934RZ,Voorplecht,24,,
-9934RZ,Voorplecht,4,,
-9934RZ,Voorplecht,2,,
-9934RZ,Voorplecht,32,,
-9934RZ,Voorplecht,30,,
-9934RZ,Voorplecht,28,,
-9934RZ,Voorplecht,6,,
-9934RZ,Voorplecht,8,,
-9934RZ,Voorplecht,22,,
-9934RA,Nieuweweg,17,A,
-9934RA,Nieuweweg,17,B,
-9934RA,Nieuweweg,19,C,
-9934RA,Nieuweweg,19,B,
-9934RA,Nieuweweg,15,A,
-9934RA,Nieuweweg,17,C,
-9934RC,Nieuweweg,14,,
-9934RC,Nieuweweg,12,,
-9934RC,Nieuweweg,6,,
-9934RC,Nieuweweg,8,,
-9934RC,Nieuweweg,8,A,
-9934RC,Nieuweweg,10,,
-9934RC,Nieuweweg,10,A,
-9934RC,Nieuweweg,4,,
-9934RK,Concordiastraat,5,G,1
-9934RK,Concordiastraat,2,,
-9934RK,Concordiastraat,4,,
-9934RK,Concordiastraat,6,,
-9934RK,Concordiastraat,8,,
-9934RK,Concordiastraat,10,,
-9934RK,Concordiastraat,12,,
-9934RD,Eemskanaal N.Z.,1,A,
-9934RE,Eemskanaal N.Z.,53,a,
-9934RG,Eemskanaal N.Z.,4,,
-9934RG,Eemskanaal N.Z.,4,,
-9934RG,Eemskanaal N.Z.,6,,
-9934RG,Eemskanaal N.Z.,4,A,120
-9934RM,Hogelandsterweg,3,,
-9934RP,Midscheeps,41,,
-9934RP,Midscheeps,43,,
-9934RP,Midscheeps,45,,
-9934RP,Midscheeps,47,,
-9934RP,Midscheeps,25,,
-9934RP,Midscheeps,27,,
-9934RP,Midscheeps,29,,
-9934RP,Midscheeps,31,,
-9934RP,Midscheeps,33,,
-9934RP,Midscheeps,35,,
-9934RP,Midscheeps,37,,
-9934RP,Midscheeps,39,,
-9934RP,Midscheeps,39,G,8
-9934RP,Midscheeps,39,G,7
-9934RP,Midscheeps,39,G,6
-9934RP,Midscheeps,39,G,5
-9934RP,Midscheeps,39,G,1
-9934RP,Midscheeps,39,G,2
-9934RP,Midscheeps,39,G,3
-9934RP,Midscheeps,39,G,4
-9934RP,Midscheeps,49,,
-9934RP,Midscheeps,51,,
-9934RP,Midscheeps,53,,
-9934RP,Midscheeps,55,,
-9934RP,Midscheeps,57,,
-9934RR,Midscheeps,59,,
-9934RR,Midscheeps,61,,
-9934RR,Midscheeps,63,,
-9934RR,Midscheeps,65,,
-9934RR,Midscheeps,67,,
-9934RR,Midscheeps,69,,
-9934RR,Midscheeps,71,,
-9934RR,Midscheeps,73,,
-9934RR,Midscheeps,75,,
-9934RR,Midscheeps,77,,
-9934RR,Midscheeps,79,,
-9934RR,Midscheeps,81,,
-9934RR,Midscheeps,83,,
-9934RR,Midscheeps,85,,
-9934RR,Midscheeps,87,,
-9934RR,Midscheeps,89,,
-9934RR,Midscheeps,91,,
-9934RR,Midscheeps,93,,
-9934RR,Midscheeps,95,,
-9934RR,Midscheeps,107,,
-9934RR,Midscheeps,109,,
-9934RR,Midscheeps,111,,
-9934RR,Midscheeps,113,,
-9934RR,Midscheeps,115,,
-9934RR,Midscheeps,101,,
-9934RR,Midscheeps,101,a,
-9934RR,Midscheeps,101,b,
-9934RR,Midscheeps,101,c,
-9934RR,Midscheeps,101,d,
-9934RR,Midscheeps,101,e,
-9934RR,Midscheeps,103,,
-9934RR,Midscheeps,103,a,
-9934RR,Midscheeps,103,b,
-9934RR,Midscheeps,103,c,
-9934RR,Midscheeps,103,d,
-9934RR,Midscheeps,103,e,
-9934RR,Midscheeps,105,,
-9934RR,Midscheeps,105,a,
-9934RR,Midscheeps,105,b,
-9934RR,Midscheeps,105,c,
-9934RR,Midscheeps,105,d,
-9934RR,Midscheeps,105,e,
-9934RR,Midscheeps,99,,
-9934RR,Midscheeps,97,,
-9934RR,Midscheeps,97,a,
-9934RR,Midscheeps,97,b,
-9934RR,Midscheeps,97,c,
-9934RR,Midscheeps,97,d,
-9934RS,Midscheeps,48,,
-9934RS,Midscheeps,46,,
-9934RS,Midscheeps,44,,
-9934RS,Midscheeps,42,,
-9934RS,Midscheeps,26,,
-9934RS,Midscheeps,28,,
-9934RS,Midscheeps,30,,
-9934RS,Midscheeps,32,,
-9934RS,Midscheeps,34,,
-9934RS,Midscheeps,36,,
-9934RS,Midscheeps,38,,
-9934RS,Midscheeps,40,,
-9934RS,Midscheeps,40,G,8
-9934RS,Midscheeps,40,G,7
-9934RS,Midscheeps,40,G,6
-9934RS,Midscheeps,40,G,5
-9934RS,Midscheeps,40,G,1
-9934RS,Midscheeps,40,G,2
-9934RS,Midscheeps,40,G,3
-9934RS,Midscheeps,40,G,4
-9934RS,Midscheeps,50,,
-9934RS,Midscheeps,52,,
-9934RS,Midscheeps,54,,
-9934RS,Midscheeps,56,,
-9934RT,Midscheeps,96,,
-9934RT,Midscheeps,100,,
-9934RT,Midscheeps,98,,
-9934RT,Midscheeps,104,,
-9934RT,Midscheeps,107,,
-9934RT,Midscheeps,109,,
-9934RT,Midscheeps,111,,
-9934RT,Midscheeps,113,,
-9934RT,Midscheeps,115,,
-9934RT,Midscheeps,106,,
-9934RV,Midscheeps,110,,
-9934RV,Midscheeps,108,,
-9934RX,Stuurhuis,52,,
-9934RX,Stuurhuis,1,,
-9934RX,Stuurhuis,3,,
-9934RX,Stuurhuis,5,,
-9934RX,Stuurhuis,7,,
-9934RX,Stuurhuis,9,,
-9934RX,Stuurhuis,11,,
-9934RX,Stuurhuis,13,,
-9934RX,Stuurhuis,20,,
-9934RX,Stuurhuis,44,,
-9934RX,Stuurhuis,50,,
-9934RX,Stuurhuis,2,,
-9934RX,Stuurhuis,27,,
-9934RX,Stuurhuis,25,,
-9934RX,Stuurhuis,23,,
-9934RX,Stuurhuis,21,,
-9934RX,Stuurhuis,19,,
-9934RX,Stuurhuis,17,,
-9934RX,Stuurhuis,26,,
-9934RX,Stuurhuis,22,,
-9934RX,Stuurhuis,15,,
-9934RX,Stuurhuis,28,,
-9934RX,Stuurhuis,54,,
-9934RZ,Voorplecht,1,,
-9934RZ,Voorplecht,3,,
-9934RZ,Voorplecht,5,,
-9934RZ,Voorplecht,7,,
-9934RZ,Voorplecht,9,,
-9934RZ,Voorplecht,11,,
-9934RG,Eemskanaal N.Z.,4,a,25
-9934RL,Kroonstad,30,,
-9934RZ,Voorplecht,12,,
-9934RL,Kroonstad,4,,
-9934RL,Kroonstad,12,,
-9934RL,Kroonstad,18,,
-9934RL,Kroonstad,6,,
-9934RL,Kroonstad,2,,
-9934RL,Kroonstad,10,,
-9934RL,Kroonstad,14,,
-9934RL,Kroonstad,16,,
-9934RL,Kroonstad,8,,
-9934RL,Kroonstad,20,,
-9934RL,Kroonstad,1,,
-9934RL,Kroonstad,3,,
-9934RL,Kroonstad,5,,
-9934RL,Kroonstad,7,,
-9934RL,Kroonstad,9,,
-9934RL,Kroonstad,11,,
-9934RL,Kroonstad,13,,
-9934RL,Kroonstad,15,,
-9934RL,Kroonstad,17,,
-9934RL,Kroonstad,19,,
-9934RL,Kroonstad,21,,
-9934RZ,Voorplecht,12,,
-9934PZ,Kaaistraat,15,,
-9934PZ,Kaaistraat,23,,
-9934PZ,Kaaistraat,4,,
-9934PZ,Kaaistraat,10,,
-9934PZ,Kaaistraat,9,,
-9934PZ,Kaaistraat,13,,
-9934PZ,Kaaistraat,17,,
-9934PZ,Kaaistraat,2,,
-9934PZ,Kaaistraat,6,,
-9934PZ,Kaaistraat,11,,
-9934PZ,Kaaistraat,21,,
-9934PZ,Kaaistraat,8,,
-9934PZ,Kaaistraat,12,,
-9934PZ,Kaaistraat,19,,
-9934PZ,Kaaistraat,25,,
-9934PZ,Kaaistraat,27,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Nieuweweg,1,"","",9934RA,Delfzijl
+Nieuweweg,11,"","",9934RA,Delfzijl
+Nieuweweg,13,"","",9934RA,Delfzijl
+Nieuweweg,15,"","",9934RA,Delfzijl
+Nieuweweg,15,"","",9934RA,Delfzijl
+Nieuweweg,15,A,"",9934RA,Delfzijl
+Nieuweweg,15,A,"",9934RA,Delfzijl
+Nieuweweg,17,"","",9934RA,Delfzijl
+Nieuweweg,17,A,"",9934RA,Delfzijl
+Nieuweweg,17,B,"",9934RA,Delfzijl
+Nieuweweg,17,C,"",9934RA,Delfzijl
+Nieuweweg,19,"","",9934RA,Delfzijl
+Nieuweweg,19,B,"",9934RA,Delfzijl
+Nieuweweg,19,C,"",9934RA,Delfzijl
+Nieuweweg,3,"","",9934RA,Delfzijl
+Nieuweweg,5,"","",9934RA,Delfzijl
+Nieuweweg,29,"","",9934RB,Delfzijl
+Nieuweweg,29,"","",9934RB,Delfzijl
+Nieuweweg,41,"","",9934RB,Delfzijl
+Nieuweweg,10,"","",9934RC,Delfzijl
+Nieuweweg,10,A,"",9934RC,Delfzijl
+Nieuweweg,12,"","",9934RC,Delfzijl
+Nieuweweg,14,"","",9934RC,Delfzijl
+Nieuweweg,2,"","",9934RC,Delfzijl
+Nieuweweg,4,"","",9934RC,Delfzijl
+Nieuweweg,4,"","",9934RC,Delfzijl
+Nieuweweg,6,"","",9934RC,Delfzijl
+Nieuweweg,6,"","",9934RC,Delfzijl
+Nieuweweg,8,"","",9934RC,Delfzijl
+Nieuweweg,8,A,"",9934RC,Delfzijl
+Eemskanaal N.Z.,1,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,1,A,"",9934RD,Delfzijl
+Eemskanaal N.Z.,11,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,17,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,17,A,"",9934RD,Delfzijl
+Eemskanaal N.Z.,17,B,"",9934RD,Delfzijl
+Eemskanaal N.Z.,19,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,21,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,23,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,23,A,"",9934RD,Delfzijl
+Eemskanaal N.Z.,23,B,"",9934RD,Delfzijl
+Eemskanaal N.Z.,23,C,"",9934RD,Delfzijl
+Eemskanaal N.Z.,3,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,5,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,7,"","",9934RD,Delfzijl
+Eemskanaal N.Z.,7,A,"",9934RD,Delfzijl
+Eemskanaal N.Z.,27,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,29,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,31,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,33,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,35,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,35,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,35,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,37,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,37,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,37,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,37,C,"",9934RE,Delfzijl
+Eemskanaal N.Z.,37,D,"",9934RE,Delfzijl
+Eemskanaal N.Z.,39,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,39,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,39,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,39,C,"",9934RE,Delfzijl
+Eemskanaal N.Z.,39,D,"",9934RE,Delfzijl
+Eemskanaal N.Z.,39,E,"",9934RE,Delfzijl
+Eemskanaal N.Z.,41,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,41,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,41,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,41,C,"",9934RE,Delfzijl
+Eemskanaal N.Z.,43,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,43,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,43,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,45,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,45,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,45,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,47,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,47,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,47,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,53,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,53,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,53,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,53,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,53,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,53,B,"",9934RE,Delfzijl
+Eemskanaal N.Z.,55,"","",9934RE,Delfzijl
+Eemskanaal N.Z.,55,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,55,A,"",9934RE,Delfzijl
+Eemskanaal N.Z.,55,C,"",9934RE,Delfzijl
+Eemskanaal N.Z.,2,"","",9934RG,Delfzijl
+Eemskanaal N.Z.,2,"","",9934RG,Delfzijl
+Eemskanaal N.Z.,4,"","",9934RG,Delfzijl
+Eemskanaal N.Z.,4,"","",9934RG,Delfzijl
+Eemskanaal N.Z.,4,A,120,9934RG,Delfzijl
+Eemskanaal N.Z.,6,"","",9934RG,Delfzijl
+Eemskanaal N.Z.,6,"","",9934RG,Delfzijl
+Eemskanaal N.Z.,8,"","",9934RG,Delfzijl
+E.H. Roggenkampweg,1,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,11,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,13,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,15,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,17,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,23,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,3,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,7,"","",9934RH,Delfzijl
+E.H. Roggenkampweg,10,"","",9934RJ,Delfzijl
+E.H. Roggenkampweg,10,"","",9934RJ,Delfzijl
+E.H. Roggenkampweg,12,"","",9934RJ,Delfzijl
+E.H. Roggenkampweg,14,"","",9934RJ,Delfzijl
+E.H. Roggenkampweg,2,"","",9934RJ,Delfzijl
+E.H. Roggenkampweg,2,A,"",9934RJ,Delfzijl
+Concordiastraat,10,"","",9934RK,Delfzijl
+Concordiastraat,11,"","",9934RK,Delfzijl
+Concordiastraat,12,"","",9934RK,Delfzijl
+Concordiastraat,13,"","",9934RK,Delfzijl
+Concordiastraat,17,"","",9934RK,Delfzijl
+Concordiastraat,19,"","",9934RK,Delfzijl
+Concordiastraat,2,"","",9934RK,Delfzijl
+Concordiastraat,21,"","",9934RK,Delfzijl
+Concordiastraat,23,"","",9934RK,Delfzijl
+Concordiastraat,3,"","",9934RK,Delfzijl
+Concordiastraat,4,"","",9934RK,Delfzijl
+Concordiastraat,5,G,1,9934RK,Delfzijl
+Concordiastraat,5,G,1,9934RK,Delfzijl
+Concordiastraat,6,"","",9934RK,Delfzijl
+Concordiastraat,8,"","",9934RK,Delfzijl
+Hogelandsterweg,1,"","",9934RM,Delfzijl
+Hogelandsterweg,1,A,"",9934RM,Delfzijl
+Hogelandsterweg,13,"","",9934RM,Delfzijl
+Hogelandsterweg,25,"","",9934RM,Delfzijl
+Hogelandsterweg,3,"","",9934RM,Delfzijl
+Hogelandsterweg,3,"","",9934RM,Delfzijl
+Hogelandsterweg,3,"","",9934RM,Delfzijl
+Eemskanaal N.Z.,57,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,57,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,59,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,59,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,59,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,61,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,61,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,61,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,63,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,63,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,63,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,65,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,65,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,65,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,67,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,67,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,67,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,67,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,69,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,69,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,69,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,71,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,71,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,71,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,73,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,73,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,73,B,"",9934RN,Delfzijl
+Eemskanaal N.Z.,75,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,75,A,"",9934RN,Delfzijl
+Eemskanaal N.Z.,79,"","",9934RN,Delfzijl
+Eemskanaal N.Z.,79,"","",9934RN,Delfzijl
+Midscheeps,25,"","",9934RP,Delfzijl
+Midscheeps,27,"","",9934RP,Delfzijl
+Midscheeps,29,"","",9934RP,Delfzijl
+Midscheeps,31,"","",9934RP,Delfzijl
+Midscheeps,33,"","",9934RP,Delfzijl
+Midscheeps,35,"","",9934RP,Delfzijl
+Midscheeps,37,"","",9934RP,Delfzijl
+Midscheeps,39,"","",9934RP,Delfzijl
+Midscheeps,39,G,1,9934RP,Delfzijl
+Midscheeps,39,G,2,9934RP,Delfzijl
+Midscheeps,39,G,3,9934RP,Delfzijl
+Midscheeps,39,G,4,9934RP,Delfzijl
+Midscheeps,39,G,5,9934RP,Delfzijl
+Midscheeps,39,G,6,9934RP,Delfzijl
+Midscheeps,39,G,7,9934RP,Delfzijl
+Midscheeps,39,G,8,9934RP,Delfzijl
+Midscheeps,41,"","",9934RP,Delfzijl
+Midscheeps,43,"","",9934RP,Delfzijl
+Midscheeps,45,"","",9934RP,Delfzijl
+Midscheeps,47,"","",9934RP,Delfzijl
+Midscheeps,49,"","",9934RP,Delfzijl
+Midscheeps,51,"","",9934RP,Delfzijl
+Midscheeps,53,"","",9934RP,Delfzijl
+Midscheeps,55,"","",9934RP,Delfzijl
+Midscheeps,57,"","",9934RP,Delfzijl
+Midscheeps,101,"","",9934RR,Delfzijl
+Midscheeps,101,A,"",9934RR,Delfzijl
+Midscheeps,101,B,"",9934RR,Delfzijl
+Midscheeps,101,C,"",9934RR,Delfzijl
+Midscheeps,101,D,"",9934RR,Delfzijl
+Midscheeps,101,E,"",9934RR,Delfzijl
+Midscheeps,103,"","",9934RR,Delfzijl
+Midscheeps,103,A,"",9934RR,Delfzijl
+Midscheeps,103,B,"",9934RR,Delfzijl
+Midscheeps,103,C,"",9934RR,Delfzijl
+Midscheeps,103,D,"",9934RR,Delfzijl
+Midscheeps,103,E,"",9934RR,Delfzijl
+Midscheeps,105,"","",9934RR,Delfzijl
+Midscheeps,105,A,"",9934RR,Delfzijl
+Midscheeps,105,B,"",9934RR,Delfzijl
+Midscheeps,105,C,"",9934RR,Delfzijl
+Midscheeps,105,D,"",9934RR,Delfzijl
+Midscheeps,105,E,"",9934RR,Delfzijl
+Midscheeps,107,"","",9934RR,Delfzijl
+Midscheeps,109,"","",9934RR,Delfzijl
+Midscheeps,111,"","",9934RR,Delfzijl
+Midscheeps,113,"","",9934RR,Delfzijl
+Midscheeps,115,"","",9934RR,Delfzijl
+Midscheeps,59,"","",9934RR,Delfzijl
+Midscheeps,61,"","",9934RR,Delfzijl
+Midscheeps,63,"","",9934RR,Delfzijl
+Midscheeps,65,"","",9934RR,Delfzijl
+Midscheeps,67,"","",9934RR,Delfzijl
+Midscheeps,69,"","",9934RR,Delfzijl
+Midscheeps,71,"","",9934RR,Delfzijl
+Midscheeps,73,"","",9934RR,Delfzijl
+Midscheeps,75,"","",9934RR,Delfzijl
+Midscheeps,77,"","",9934RR,Delfzijl
+Midscheeps,79,"","",9934RR,Delfzijl
+Midscheeps,81,"","",9934RR,Delfzijl
+Midscheeps,83,"","",9934RR,Delfzijl
+Midscheeps,85,"","",9934RR,Delfzijl
+Midscheeps,87,"","",9934RR,Delfzijl
+Midscheeps,89,"","",9934RR,Delfzijl
+Midscheeps,91,"","",9934RR,Delfzijl
+Midscheeps,93,"","",9934RR,Delfzijl
+Midscheeps,95,"","",9934RR,Delfzijl
+Midscheeps,97,"","",9934RR,Delfzijl
+Midscheeps,97,A,"",9934RR,Delfzijl
+Midscheeps,97,B,"",9934RR,Delfzijl
+Midscheeps,97,C,"",9934RR,Delfzijl
+Midscheeps,97,D,"",9934RR,Delfzijl
+Midscheeps,99,"","",9934RR,Delfzijl
+Midscheeps,26,"","",9934RS,Delfzijl
+Midscheeps,28,"","",9934RS,Delfzijl
+Midscheeps,30,"","",9934RS,Delfzijl
+Midscheeps,32,"","",9934RS,Delfzijl
+Midscheeps,34,"","",9934RS,Delfzijl
+Midscheeps,36,"","",9934RS,Delfzijl
+Midscheeps,38,"","",9934RS,Delfzijl
+Midscheeps,40,"","",9934RS,Delfzijl
+Midscheeps,40,G,1,9934RS,Delfzijl
+Midscheeps,40,G,2,9934RS,Delfzijl
+Midscheeps,40,G,3,9934RS,Delfzijl
+Midscheeps,40,G,4,9934RS,Delfzijl
+Midscheeps,40,G,5,9934RS,Delfzijl
+Midscheeps,40,G,6,9934RS,Delfzijl
+Midscheeps,40,G,7,9934RS,Delfzijl
+Midscheeps,40,G,8,9934RS,Delfzijl
+Midscheeps,42,"","",9934RS,Delfzijl
+Midscheeps,44,"","",9934RS,Delfzijl
+Midscheeps,46,"","",9934RS,Delfzijl
+Midscheeps,48,"","",9934RS,Delfzijl
+Midscheeps,50,"","",9934RS,Delfzijl
+Midscheeps,52,"","",9934RS,Delfzijl
+Midscheeps,54,"","",9934RS,Delfzijl
+Midscheeps,56,"","",9934RS,Delfzijl
+Midscheeps,100,"","",9934RT,Delfzijl
+Midscheeps,104,"","",9934RT,Delfzijl
+Midscheeps,106,"","",9934RT,Delfzijl
+Midscheeps,107,"","",9934RT,Delfzijl
+Midscheeps,109,"","",9934RT,Delfzijl
+Midscheeps,111,"","",9934RT,Delfzijl
+Midscheeps,113,"","",9934RT,Delfzijl
+Midscheeps,115,"","",9934RT,Delfzijl
+Midscheeps,58,"","",9934RT,Delfzijl
+Midscheeps,60,"","",9934RT,Delfzijl
+Midscheeps,62,"","",9934RT,Delfzijl
+Midscheeps,64,"","",9934RT,Delfzijl
+Midscheeps,66,"","",9934RT,Delfzijl
+Midscheeps,68,"","",9934RT,Delfzijl
+Midscheeps,70,"","",9934RT,Delfzijl
+Midscheeps,72,"","",9934RT,Delfzijl
+Midscheeps,74,"","",9934RT,Delfzijl
+Midscheeps,76,"","",9934RT,Delfzijl
+Midscheeps,78,"","",9934RT,Delfzijl
+Midscheeps,80,"","",9934RT,Delfzijl
+Midscheeps,82,"","",9934RT,Delfzijl
+Midscheeps,84,"","",9934RT,Delfzijl
+Midscheeps,86,"","",9934RT,Delfzijl
+Midscheeps,88,"","",9934RT,Delfzijl
+Midscheeps,90,"","",9934RT,Delfzijl
+Midscheeps,92,"","",9934RT,Delfzijl
+Midscheeps,94,"","",9934RT,Delfzijl
+Midscheeps,96,"","",9934RT,Delfzijl
+Midscheeps,98,"","",9934RT,Delfzijl
+Midscheeps,108,"","",9934RV,Delfzijl
+Midscheeps,110,"","",9934RV,Delfzijl
+Sluis,1,"","",9934RW,Delfzijl
+Sluis,10,"","",9934RW,Delfzijl
+Sluis,11,"","",9934RW,Delfzijl
+Sluis,12,"","",9934RW,Delfzijl
+Sluis,13,"","",9934RW,Delfzijl
+Sluis,14,"","",9934RW,Delfzijl
+Sluis,15,"","",9934RW,Delfzijl
+Sluis,16,"","",9934RW,Delfzijl
+Sluis,17,"","",9934RW,Delfzijl
+Sluis,18,"","",9934RW,Delfzijl
+Sluis,19,"","",9934RW,Delfzijl
+Sluis,2,"","",9934RW,Delfzijl
+Sluis,20,"","",9934RW,Delfzijl
+Sluis,21,"","",9934RW,Delfzijl
+Sluis,22,"","",9934RW,Delfzijl
+Sluis,24,"","",9934RW,Delfzijl
+Sluis,26,"","",9934RW,Delfzijl
+Sluis,28,"","",9934RW,Delfzijl
+Sluis,3,"","",9934RW,Delfzijl
+Sluis,30,"","",9934RW,Delfzijl
+Sluis,32,"","",9934RW,Delfzijl
+Sluis,34,"","",9934RW,Delfzijl
+Sluis,36,"","",9934RW,Delfzijl
+Sluis,4,"","",9934RW,Delfzijl
+Sluis,5,"","",9934RW,Delfzijl
+Sluis,6,"","",9934RW,Delfzijl
+Sluis,7,"","",9934RW,Delfzijl
+Sluis,8,"","",9934RW,Delfzijl
+Sluis,9,"","",9934RW,Delfzijl
+Stuurhuis,1,"","",9934RX,Delfzijl
+Stuurhuis,10,"","",9934RX,Delfzijl
+Stuurhuis,11,"","",9934RX,Delfzijl
+Stuurhuis,12,"","",9934RX,Delfzijl
+Stuurhuis,13,"","",9934RX,Delfzijl
+Stuurhuis,14,"","",9934RX,Delfzijl
+Stuurhuis,15,"","",9934RX,Delfzijl
+Stuurhuis,16,"","",9934RX,Delfzijl
+Stuurhuis,17,"","",9934RX,Delfzijl
+Stuurhuis,18,"","",9934RX,Delfzijl
+Stuurhuis,19,"","",9934RX,Delfzijl
+Stuurhuis,2,"","",9934RX,Delfzijl
+Stuurhuis,20,"","",9934RX,Delfzijl
+Stuurhuis,21,"","",9934RX,Delfzijl
+Stuurhuis,22,"","",9934RX,Delfzijl
+Stuurhuis,23,"","",9934RX,Delfzijl
+Stuurhuis,24,"","",9934RX,Delfzijl
+Stuurhuis,25,"","",9934RX,Delfzijl
+Stuurhuis,26,"","",9934RX,Delfzijl
+Stuurhuis,27,"","",9934RX,Delfzijl
+Stuurhuis,28,"","",9934RX,Delfzijl
+Stuurhuis,3,"","",9934RX,Delfzijl
+Stuurhuis,30,"","",9934RX,Delfzijl
+Stuurhuis,32,"","",9934RX,Delfzijl
+Stuurhuis,34,"","",9934RX,Delfzijl
+Stuurhuis,36,"","",9934RX,Delfzijl
+Stuurhuis,38,"","",9934RX,Delfzijl
+Stuurhuis,4,"","",9934RX,Delfzijl
+Stuurhuis,40,"","",9934RX,Delfzijl
+Stuurhuis,42,"","",9934RX,Delfzijl
+Stuurhuis,44,"","",9934RX,Delfzijl
+Stuurhuis,46,"","",9934RX,Delfzijl
+Stuurhuis,48,"","",9934RX,Delfzijl
+Stuurhuis,5,"","",9934RX,Delfzijl
+Stuurhuis,50,"","",9934RX,Delfzijl
+Stuurhuis,52,"","",9934RX,Delfzijl
+Stuurhuis,54,"","",9934RX,Delfzijl
+Stuurhuis,56,"","",9934RX,Delfzijl
+Stuurhuis,6,"","",9934RX,Delfzijl
+Stuurhuis,7,"","",9934RX,Delfzijl
+Stuurhuis,8,"","",9934RX,Delfzijl
+Stuurhuis,9,"","",9934RX,Delfzijl
+Voorplecht,1,"","",9934RZ,Delfzijl
+Voorplecht,10,"","",9934RZ,Delfzijl
+Voorplecht,11,"","",9934RZ,Delfzijl
+Voorplecht,14,"","",9934RZ,Delfzijl
+Voorplecht,16,"","",9934RZ,Delfzijl
+Voorplecht,18,"","",9934RZ,Delfzijl
+Voorplecht,2,"","",9934RZ,Delfzijl
+Voorplecht,20,"","",9934RZ,Delfzijl
+Voorplecht,22,"","",9934RZ,Delfzijl
+Voorplecht,24,"","",9934RZ,Delfzijl
+Voorplecht,26,"","",9934RZ,Delfzijl
+Voorplecht,28,"","",9934RZ,Delfzijl
+Voorplecht,3,"","",9934RZ,Delfzijl
+Voorplecht,30,"","",9934RZ,Delfzijl
+Voorplecht,32,"","",9934RZ,Delfzijl
+Voorplecht,4,"","",9934RZ,Delfzijl
+Voorplecht,5,"","",9934RZ,Delfzijl
+Voorplecht,6,"","",9934RZ,Delfzijl
+Voorplecht,7,"","",9934RZ,Delfzijl
+Voorplecht,8,"","",9934RZ,Delfzijl
+Voorplecht,9,"","",9934RZ,Delfzijl

@@ -1,23 +1,23 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4225SH,De Vort,1,,
-4225SH,De Vort,3,,
-4225SH,De Vort,5,,
-4225SJ,De Vort,2,A,
-4225SJ,De Vort,2,,
-4225SJ,De Vort,4,,
-4225SJ,De Vort,6,A,
-4225SJ,De Vort,10,,
-4225SJ,De Vort,12,,
-4225SK,Middenweg,1,,
-4225SK,Middenweg,1,A,
-4225SK,Middenweg,2,,
-4225SK,Middenweg,2,A,
-4225SK,Middenweg,3,,
-4225SK,Middenweg,4,,
-4225SK,Middenweg,5,,
-4225SK,Middenweg,7,,
-4225SK,Middenweg,9,,
-4225SK,Middenweg,9,A,
-4225SK,Middenweg,4,,
-4225SJ,De Vort,8,,
-4225SK,Middenweg,2,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Vort,1,"","",4225SH,Noordeloos
+De Vort,3,"","",4225SH,Noordeloos
+De Vort,5,"","",4225SH,Noordeloos
+De Vort,10,"","",4225SJ,Noordeloos
+De Vort,12,"","",4225SJ,Noordeloos
+De Vort,2,"","",4225SJ,Noordeloos
+De Vort,2,A,"",4225SJ,Noordeloos
+De Vort,4,"","",4225SJ,Noordeloos
+De Vort,6,A,"",4225SJ,Noordeloos
+De Vort,8,"","",4225SJ,Noordeloos
+Middenweg,1,"","",4225SK,Noordeloos
+Middenweg,1,A,"",4225SK,Noordeloos
+Middenweg,2,"","",4225SK,Noordeloos
+Middenweg,2,A,"",4225SK,Noordeloos
+Middenweg,2,A,"",4225SK,Noordeloos
+Middenweg,3,"","",4225SK,Noordeloos
+Middenweg,4,"","",4225SK,Noordeloos
+Middenweg,4,"","",4225SK,Noordeloos
+Middenweg,5,"","",4225SK,Noordeloos
+Middenweg,7,"","",4225SK,Noordeloos
+Middenweg,9,"","",4225SK,Noordeloos
+Middenweg,9,A,"",4225SK,Noordeloos

@@ -1,781 +1,402 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9162DA",10,"",""
-"9162DA",8,"",""
-"9162DA",5,"",""
-"9162DA",4,"",""
-"9162DA",1,"",""
-"9162DA",3,"",""
-"9162DA",12,"",""
-"9162DA",6,"",""
-"9162DA",2,"",""
-"9162DA",7,"",""
-"9162DA",7,"a",""
-"9162EA",1,"",""
-"9162EA",6,"",""
-"9162EA",2,"",""
-"9162EA",4,"",""
-"9162EB",1,"b",""
-"9162EB",1,"a",""
-"9162EB",1,"",""
-"9162EB",1,"b",""
-"9162EB",1,"a",""
-"9162EB",4,"a",""
-"9162EB",1,"b",""
-"9162EB",1,"a",""
-"9162EB",4,"",""
-"9162EB",2,"",""
-"9162EB",2,"a",""
-"9162EB",1,"a",""
-"9162EB",1,"a",""
-"9162EB",2,"b",""
-"9162EC",26,"",""
-"9162EC",7,"",""
-"9162EC",10,"a",""
-"9162EC",17,"a",""
-"9162EC",26,"",""
-"9162EC",26,"",""
-"9162EC",15,"",""
-"9162EC",1,"",""
-"9162EC",9,"",""
-"9162EC",10,"",""
-"9162EC",1,"a",""
-"9162EC",13,"",""
-"9162EC",11,"",""
-"9162EC",16,"",""
-"9162EC",8,"a",""
-"9162EC",6,"",""
-"9162EC",17,"",""
-"9162EC",8,"",""
-"9162EC",5,"a",""
-"9162EC",8,"b",""
-"9162EC",4,"b",""
-"9162EC",11,"",""
-"9162EC",11,"",""
-"9162EC",5,"b",""
-"9162EC",5,"",""
-"9162EC",4,"a",""
-"9162EC",2,"",""
-"9162EC",4,"",""
-"9162EC",3,"",""
-"9162EC",2,"a",""
-"9162EJ",4,"",""
-"9162EJ",6,"",""
-"9162EJ",9,"",""
-"9162EJ",3,"",""
-"9162EJ",2,"",""
-"9162EJ",1,"",""
-"9162EJ",1,"a",""
-"9162EJ",10,"",""
-"9162EJ",8,"",""
-"9162EJ",8,"a",""
-"9162EJ",5,"",""
-"9162EJ",20,"",""
-"9162EJ",18,"",""
-"9162EJ",16,"",""
-"9162EK",21,"",""
-"9162EK",19,"",""
-"9162EK",31,"",""
-"9162EK",25,"",""
-"9162EK",19,"a",""
-"9162EK",19,"b",""
-"9162EK",33,"",""
-"9162EK",9,"",""
-"9162EK",5,"a",""
-"9162EK",31,"",""
-"9162EK",5,"a",""
-"9162EK",5,"a",""
-"9162EK",23,"",""
-"9162EK",17,"",""
-"9162EK",31,"",""
-"9162EK",27,"",""
-"9162EK",41,"a",""
-"9162EK",3,"",""
-"9162EK",39,"",""
-"9162EK",1,"",""
-"9162EK",15,"",""
-"9162EK",41,"",""
-"9162EK",7,"",""
-"9162EK",13,"",""
-"9162EK",5,"b",""
-"9162EK",29,"",""
-"9162EK",43,"",""
-"9162EK",11,"",""
-"9162EK",33,"",""
-"9162EK",43,"a",""
-"9162EK",5,"",""
-"9162EK",35,"",""
-"9162EL",240,"",""
-"9162EL",8,"",""
-"9162EL",4,"",""
-"9162EL",8,"d",""
-"9162EL",6,"",""
-"9162EM",22,"",""
-"9162EM",26,"",""
-"9162EM",20,"e",""
-"9162EM",20,"f",""
-"9162EM",28,"",""
-"9162EM",14,"a",""
-"9162EM",20,"d",""
-"9162EM",20,"a",""
-"9162EM",30,"",""
-"9162EM",20,"b",""
-"9162EM",24,"",""
-"9162EM",16,"b",""
-"9162EM",20,"c",""
-"9162EM",16,"c",""
-"9162EM",18,"a",""
-"9162EM",12,"",""
-"9162EM",18,"",""
-"9162EM",20,"",""
-"9162EM",16,"c",""
-"9162EM",16,"",""
-"9162EM",10,"",""
-"9162EM",16,"c",""
-"9162EM",14,"",""
-"9162EM",16,"a",""
-"9162EM",16,"e",""
-"9162EN",2,"d",""
-"9162EN",2,"a",""
-"9162EN",3,"",""
-"9162EN",2,"c",""
-"9162EN",4,"",""
-"9162EN",5,"b",""
-"9162EN",7,"h",""
-"9162EN",7,"g",""
-"9162EN",7,"b",""
-"9162EN",9,"",""
-"9162EN",15,"",""
-"9162EN",2,"b",""
-"9162EN",7,"a",""
-"9162EN",1,"",""
-"9162EN",2,"",""
-"9162EN",7,"d",""
-"9162EN",7,"c",""
-"9162EN",7,"c",""
-"9162EN",14,"",""
-"9162EN",11,"a",""
-"9162EN",7,"d",""
-"9162EN",5,"c",""
-"9162EN",7,"f",""
-"9162EN",7,"i",""
-"9162EN",5,"",""
-"9162EN",11,"",""
-"9162EN",7,"a",""
-"9162EN",8,"",""
-"9162EN",7,"e",""
-"9162EN",13,"",""
-"9162EN",6,"",""
-"9162EN",7,"b",""
-"9162EN",7,"a",""
-"9162EN",5,"a",""
-"9162EN",18,"",""
-"9162EN",7,"b",""
-"9162EN",16,"",""
-"9162EN",7,"",""
-"9162EN",11,"b",""
-"9162EN",14,"",""
-"9162EN",10,"",""
-"9162EN",7,"",""
-"9162EN",6,"b",""
-"9162EN",12,"",""
-"9162EN",4,"a",""
-"9162EN",6,"a",""
-"9162EN",7,"",""
-"9162EP",17,"",""
-"9162EP",1,"",""
-"9162EP",15,"",""
-"9162EP",14,"",""
-"9162EP",23,"",""
-"9162EP",19,"",""
-"9162EP",8,"",""
-"9162EP",2,"a",""
-"9162EP",20,"",""
-"9162EP",16,"",""
-"9162EP",20,"a",""
-"9162EP",12,"",""
-"9162EP",13,"",""
-"9162EP",10,"",""
-"9162EP",5,"",""
-"9162EP",7,"",""
-"9162EP",21,"",""
-"9162EP",6,"",""
-"9162EP",27,"",""
-"9162EP",3,"",""
-"9162EP",2,"",""
-"9162EP",29,"",""
-"9162EP",25,"",""
-"9162EP",2,"b",""
-"9162EP",4,"",""
-"9162EP",11,"",""
-"9162EP",9,"",""
-"9162ER",4,"a",""
-"9162ER",5,"",""
-"9162ER",6,"a",""
-"9162ER",3,"a",""
-"9162ER",4,"",""
-"9162ER",3,"",""
-"9162ER",2,"a",""
-"9162ER",14,"",""
-"9162ER",8,"",""
-"9162ER",10,"",""
-"9162ER",4,"a",""
-"9162ER",2,"a",""
-"9162ER",6,"a",""
-"9162ER",7,"",""
-"9162ER",13,"",""
-"9162ER",6,"a",""
-"9162ER",6,"",""
-"9162ER",12,"",""
-"9162ER",9,"",""
-"9162ER",2,"",""
-"9162ES",9,"",""
-"9162ES",13,"",""
-"9162ES",3,"",""
-"9162ES",5,"",""
-"9162ES",1,"a",""
-"9162ES",15,"",""
-"9162ES",1,"",""
-"9162ES",9,"a",""
-"9162ES",1,"c",""
-"9162ES",1,"b",""
-"9162ES",9,"b",""
-"9162ES",7,"",""
-"9162ET",18,"j",""
-"9162ET",18,"b",""
-"9162ET",18,"a",""
-"9162ET",6,"",""
-"9162ET",18,"b",""
-"9162ET",10,"b",""
-"9162ET",18,"j",""
-"9162ET",18,"g",""
-"9162ET",18,"a",""
-"9162ET",14,"a",""
-"9162ET",10,"a",""
-"9162ET",18,"i",""
-"9162ET",18,"a",""
-"9162ET",18,"h",""
-"9162ET",2,"",""
-"9162ET",12,"",""
-"9162ET",4,"",""
-"9162ET",10,"",""
-"9162ET",14,"",""
-"9162ET",18,"d",""
-"9162ET",18,"",""
-"9162ET",18,"m",""
-"9162ET",18,"a",""
-"9162ET",18,"n",""
-"9162ET",18,"d",""
-"9162ET",18,"k",""
-"9162ET",8,"a",""
-"9162ET",6,"b",""
-"9162ET",2,"a",""
-"9162ET",18,"f",""
-"9162ET",18,"a",""
-"9162ET",16,"",""
-"9162ET",4,"a",""
-"9162ET",18,"k",""
-"9162ET",18,"l",""
-"9162ET",18,"l",""
-"9162ET",18,"i",""
-"9162ET",18,"e",""
-"9162ET",18,"c",""
-"9162ET",18,"f",""
-"9162ET",8,"",""
-"9162ET",18,"e",""
-"9162ET",18,"c",""
-"9162ET",18,"h",""
-"9162ET",18,"b",""
-"9162ET",18,"m",""
-"9162ET",18,"g",""
-"9162EV",20,"","12"
-"9162EV",20,"","05"
-"9162EV",20,"","11"
-"9162EV",20,"","12"
-"9162EV",19,"",""
-"9162EV",11,"",""
-"9162EV",10,"",""
-"9162EV",20,"","06"
-"9162EV",24,"",""
-"9162EV",20,"","06"
-"9162EV",20,"","15"
-"9162EV",4,"",""
-"9162EV",20,"","05"
-"9162EV",16,"",""
-"9162EV",20,"","11"
-"9162EV",20,"","02"
-"9162EV",20,"","16"
-"9162EV",20,"","10"
-"9162EV",15,"",""
-"9162EV",20,"","09"
-"9162EV",20,"","04"
-"9162EV",10,"",""
-"9162EV",12,"b",""
-"9162EV",20,"","03"
-"9162EV",20,"","08"
-"9162EV",20,"","08"
-"9162EV",20,"","07"
-"9162EV",11,"a",""
-"9162EV",20,"","17"
-"9162EV",20,"","13"
-"9162EV",1,"",""
-"9162EV",20,"","17"
-"9162EV",3,"",""
-"9162EV",24,"a",""
-"9162EV",20,"","03"
-"9162EV",7,"",""
-"9162EV",20,"","07"
-"9162EV",14,"a",""
-"9162EV",11,"",""
-"9162EV",10,"a",""
-"9162EV",2,"",""
-"9162EV",20,"","14"
-"9162EV",20,"","10"
-"9162EV",5,"",""
-"9162EV",20,"",""
-"9162EV",20,"","04"
-"9162EV",14,"",""
-"9162EV",12,"",""
-"9162EV",20,"","16"
-"9162EV",6,"",""
-"9162EV",11,"b",""
-"9162EV",12,"a",""
-"9162EV",20,"","01"
-"9162EV",20,"","15"
-"9162EV",20,"","14"
-"9162EV",21,"",""
-"9162EV",20,"","01"
-"9162EV",20,"","09"
-"9162EV",11,"c",""
-"9162EV",10,"",""
-"9162EV",20,"","02"
-"9162EV",24,"",""
-"9162EV",20,"","13"
-"9162EV",24,"",""
-"9162EX",25,"",""
-"9162EX",16,"",""
-"9162EX",1,"",""
-"9162EX",12,"",""
-"9162EX",27,"",""
-"9162EX",21,"",""
-"9162EX",8,"",""
-"9162EX",23,"",""
-"9162EX",2,"",""
-"9162EX",17,"",""
-"9162EX",10,"",""
-"9162EX",15,"",""
-"9162EX",4,"",""
-"9162EX",19,"",""
-"9162EX",3,"",""
-"9162EX",14,"",""
-"9162GA",3,"",""
-"9162GA",5,"",""
-"9162GA",1,"",""
-"9162GA",9,"",""
-"9162GA",7,"",""
-"9162GB",1,"",""
-"9162GB",6,"",""
-"9162GB",7,"",""
-"9162GB",5,"",""
-"9162GB",15,"",""
-"9162GB",19,"",""
-"9162GB",17,"",""
-"9162GB",4,"",""
-"9162GB",3,"",""
-"9162GB",9,"",""
-"9162GB",2,"",""
-"9162GB",8,"",""
-"9162GB",21,"",""
-"9162GC",8,"",""
-"9162GC",1,"",""
-"9162GC",5,"",""
-"9162GC",8,"",""
-"9162GC",8,"",""
-"9162GC",7,"",""
-"9162GC",1,"a",""
-"9162GC",3,"",""
-"9162GM",10,"",""
-"9162GM",6,"",""
-"9162GM",12,"",""
-"9162GM",1,"",""
-"9162GM",8,"",""
-"9162GM",4,"",""
-"9162GM",2,"",""
-9162ES,Nesserweg,1,,
-9162ES,Nesserweg,1,a,
-9162ES,Nesserweg,3,,
-9162ES,Nesserweg,5,,
-9162ES,Nesserweg,7,,
-9162ES,Nesserweg,9,,
-9162ES,Nesserweg,13,,
-9162ES,Nesserweg,15,,
-9162ET,Nesserweg,6,b,
-9162ET,Nesserweg,2,,
-9162ET,Nesserweg,4,,
-9162ET,Nesserweg,8,,
-9162ET,Nesserweg,8,a,
-9162ET,Nesserweg,10,,
-9162ET,Nesserweg,12,,
-9162ET,Nesserweg,14,,
-9162ET,Nesserweg,16,,
-9162ET,Nesserweg,18,,
-9162ET,Nesserweg,6,,
-9162ET,Nesserweg,14,a,
-9162ET,Nesserweg,10,a,
-9162ET,Nesserweg,10,b,
-9162ET,Nesserweg,4,a,
-9162EV,Strandweg,21,,
-9162EV,Strandweg,15,,
-9162EV,Strandweg,12,a,
-9162EV,Strandweg,12,b,
-9162EV,Strandweg,20,,
-9162EV,Strandweg,1,,
-9162EV,Strandweg,3,,
-9162EV,Strandweg,7,,
-9162EV,Strandweg,11,,
-9162EV,Strandweg,2,,
-9162EV,Strandweg,4,,
-9162EV,Strandweg,6,,
-9162EV,Strandweg,12,,
-9162EV,Strandweg,14,,
-9162EV,Strandweg,19,,
-9162EV,Strandweg,5,,
-9162EV,Strandweg,10,,
-9162EV,Strandweg,10,a,
-9162EV,Strandweg,16,,
-9162EV,Strandweg,24,,
-9162EV,Strandweg,24,a,
-9162EC,Smitteweg,7,,
-9162EC,Smitteweg,9,,
-9162EC,Smitteweg,26,,
-9162EC,Smitteweg,13,,
-9162EC,Smitteweg,1,,
-9162EC,Smitteweg,11,,
-9162EC,Smitteweg,17,,
-9162EC,Smitteweg,3,,
-9162EC,Smitteweg,5,,
-9162EC,Smitteweg,4,,
-9162EC,Smitteweg,6,,
-9162EC,Smitteweg,8,,
-9162EC,Smitteweg,10,,
-9162EC,Smitteweg,2,,
-9162EC,Smitteweg,1,a,
-9162EC,Smitteweg,4,a,
-9162EC,Smitteweg,4,b,
-9162EC,Smitteweg,15,,
-9162EC,Smitteweg,2,a,
-9162EC,Smitteweg,16,,
-9162EC,Smitteweg,8,a,
-9162GA,'t Hofje,1,,
-9162GA,'t Hofje,3,,
-9162GA,'t Hofje,5,,
-9162GA,'t Hofje,7,,
-9162GA,'t Hofje,9,,
-9162GB,'t Skottepâd,4,,
-9162GB,'t Skottepâd,6,,
-9162GB,'t Skottepâd,8,,
-9162GB,'t Skottepâd,1,,
-9162GB,'t Skottepâd,3,,
-9162GB,'t Skottepâd,5,,
-9162GB,'t Skottepâd,7,,
-9162GB,'t Skottepâd,2,,
-9162GB,'t Skottepâd,21,,
-9162GB,'t Skottepâd,19,,
-9162ER,Baron Rengersweg,3,,
-9162ER,Baron Rengersweg,3,a,
-9162ER,Baron Rengersweg,5,,
-9162ER,Baron Rengersweg,7,,
-9162ER,Baron Rengersweg,13,,
-9162ER,Baron Rengersweg,9,,
-9162ER,Baron Rengersweg,2,,
-9162ER,Baron Rengersweg,2,a,
-9162ER,Baron Rengersweg,2,a,
-9162ER,Baron Rengersweg,4,,
-9162ER,Baron Rengersweg,6,,
-9162ER,Baron Rengersweg,8,,
-9162ER,Baron Rengersweg,10,,
-9162ER,Baron Rengersweg,12,,
-9162ER,Baron Rengersweg,14,,
-9162ER,Baron Rengersweg,6,a,
-9162ER,Baron Rengersweg,4,a,
-9162EK,Camminghastraat,43,a,
-9162EK,Camminghastraat,1,,
-9162EK,Camminghastraat,3,,
-9162EK,Camminghastraat,5,,
-9162EK,Camminghastraat,7,,
-9162EK,Camminghastraat,9,,
-9162EK,Camminghastraat,11,,
-9162EK,Camminghastraat,13,,
-9162EK,Camminghastraat,15,,
-9162EK,Camminghastraat,17,,
-9162EK,Camminghastraat,19,,
-9162EK,Camminghastraat,19,a,
-9162EK,Camminghastraat,19,b,
-9162EK,Camminghastraat,21,,
-9162EK,Camminghastraat,23,,
-9162EK,Camminghastraat,27,,
-9162EK,Camminghastraat,29,,
-9162EK,Camminghastraat,31,,
-9162EK,Camminghastraat,33,,
-9162EK,Camminghastraat,35,,
-9162EK,Camminghastraat,39,,
-9162EK,Camminghastraat,41,,
-9162EK,Camminghastraat,43,,
-9162EK,Camminghastraat,41,a,
-9162EK,Camminghastraat,5,a,
-9162EK,Camminghastraat,25,,
-9162EK,Camminghastraat,5,b,
-9162EL,Camminghastraat,8,d,
-9162EL,Camminghastraat,4,,
-9162EL,Camminghastraat,6,,
-9162EL,Camminghastraat,8,,
-9162EM,Camminghastraat,16,a,
-9162EM,Camminghastraat,12,,
-9162EM,Camminghastraat,16,,
-9162EM,Camminghastraat,18,,
-9162EM,Camminghastraat,18,a,
-9162EM,Camminghastraat,20,,
-9162EM,Camminghastraat,24,,
-9162EM,Camminghastraat,26,,
-9162EM,Camminghastraat,28,,
-9162EM,Camminghastraat,30,,
-9162EM,Camminghastraat,10,,
-9162EM,Camminghastraat,14,a,
-9162EM,Camminghastraat,14,,
-9162EM,Camminghastraat,22,,
-9162EM,Camminghastraat,16,b,
-9162EM,Camminghastraat,16,c,
-9162EM,Camminghastraat,20,a,
-9162GC,Abehiem,3,,
-9162GC,Abehiem,5,,
-9162GC,Abehiem,7,,
-9162GC,Abehiem,8,,
-9162EX,De Stringen,12,,
-9162EX,De Stringen,16,,
-9162EX,De Stringen,2,,
-9162EX,De Stringen,15,,
-9162EX,De Stringen,17,,
-9162EX,De Stringen,19,,
-9162EX,De Stringen,21,,
-9162EX,De Stringen,23,,
-9162EX,De Stringen,25,,
-9162EX,De Stringen,4,,
-9162EX,De Stringen,10,,
-9162EX,De Stringen,14,,
-9162EX,De Stringen,3,,
-9162EX,De Stringen,8,,
-9162EX,De Stringen,1,,
-9162EX,De Stringen,27,,
-9162EP,Douwe Klipweg,1,,
-9162EP,Douwe Klipweg,3,,
-9162EP,Douwe Klipweg,5,,
-9162EP,Douwe Klipweg,7,,
-9162EP,Douwe Klipweg,9,,
-9162EP,Douwe Klipweg,11,,
-9162EP,Douwe Klipweg,13,,
-9162EP,Douwe Klipweg,15,,
-9162EP,Douwe Klipweg,17,,
-9162EP,Douwe Klipweg,19,,
-9162EP,Douwe Klipweg,21,,
-9162EP,Douwe Klipweg,23,,
-9162EP,Douwe Klipweg,25,,
-9162EP,Douwe Klipweg,27,,
-9162EP,Douwe Klipweg,29,,
-9162EP,Douwe Klipweg,2,,
-9162EP,Douwe Klipweg,2,a,
-9162EP,Douwe Klipweg,4,,
-9162EP,Douwe Klipweg,6,,
-9162EP,Douwe Klipweg,8,,
-9162EP,Douwe Klipweg,10,,
-9162EP,Douwe Klipweg,12,,
-9162EP,Douwe Klipweg,14,,
-9162EP,Douwe Klipweg,16,,
-9162EN,Gerrit Kosterweg,11,a,
-9162EN,Gerrit Kosterweg,11,,
-9162EN,Gerrit Kosterweg,6,b,
-9162EN,Gerrit Kosterweg,3,,
-9162EN,Gerrit Kosterweg,5,,
-9162EN,Gerrit Kosterweg,7,,
-9162EN,Gerrit Kosterweg,9,,
-9162EN,Gerrit Kosterweg,15,,
-9162EN,Gerrit Kosterweg,2,,
-9162EN,Gerrit Kosterweg,4,,
-9162EN,Gerrit Kosterweg,4,a,
-9162EN,Gerrit Kosterweg,6,,
-9162EN,Gerrit Kosterweg,8,,
-9162EN,Gerrit Kosterweg,12,,
-9162EN,Gerrit Kosterweg,14,,
-9162EN,Gerrit Kosterweg,16,,
-9162EN,Gerrit Kosterweg,2,a,
-9162EN,Gerrit Kosterweg,18,,
-9162EN,Gerrit Kosterweg,10,,
-9162EN,Gerrit Kosterweg,1,,
-9162EN,Gerrit Kosterweg,13,,
-9162EN,Gerrit Kosterweg,6,a,
-9162EN,Gerrit Kosterweg,7,a,
-9162EN,Gerrit Kosterweg,7,b,
-9162EN,Gerrit Kosterweg,7,c,
-9162EN,Gerrit Kosterweg,7,d,
-9162EN,Gerrit Kosterweg,7,e,
-9162EN,Gerrit Kosterweg,7,f,
-9162EN,Gerrit Kosterweg,7,g,
-9162EN,Gerrit Kosterweg,7,h,
-9162EN,Gerrit Kosterweg,7,i,
-9162EN,Gerrit Kosterweg,2,b,
-9162EN,Gerrit Kosterweg,2,d,
-9162EN,Gerrit Kosterweg,2,c,
-9162EA,Jelmeraweg,1,,
-9162EA,Jelmeraweg,2,,
-9162EA,Jelmeraweg,4,,
-9162EA,Jelmeraweg,6,,
-9162EB,Looweg,1,b,
-9162EB,Looweg,1,a,
-9162EB,Looweg,4,,
-9162EB,Looweg,1,,
-9162EB,Looweg,2,,
-9162EB,Looweg,4,a,
-9162EB,Looweg,2,b,
-9162EB,Looweg,2,a,
-9162EJ,Hollumerweg,8,a,
-9162EJ,Hollumerweg,1,,
-9162EJ,Hollumerweg,3,,
-9162EJ,Hollumerweg,5,,
-9162EJ,Hollumerweg,1,a,
-9162EJ,Hollumerweg,9,,
-9162EJ,Hollumerweg,2,,
-9162EJ,Hollumerweg,4,,
-9162EJ,Hollumerweg,6,,
-9162EJ,Hollumerweg,10,,
-9162EJ,Hollumerweg,16,,
-9162EJ,Hollumerweg,18,,
-9162EJ,Hollumerweg,20,,
-9162EJ,Hollumerweg,8,,
-9162ES,Nesserweg,9,a,
-9162ES,Nesserweg,1,b,
-9162ES,Nesserweg,9,b,
-9162ES,Nesserweg,1,c,
-9162ET,Nesserweg,18,a,
-9162ET,Nesserweg,18,b,
-9162ET,Nesserweg,18,c,
-9162ET,Nesserweg,18,b,
-9162ET,Nesserweg,18,d,
-9162ET,Nesserweg,18,c,
-9162ET,Nesserweg,18,e,
-9162ET,Nesserweg,18,d,
-9162ET,Nesserweg,18,f,
-9162ET,Nesserweg,18,e,
-9162ET,Nesserweg,18,g,
-9162ET,Nesserweg,18,f,
-9162ET,Nesserweg,18,h,
-9162ET,Nesserweg,18,g,
-9162ET,Nesserweg,18,i,
-9162ET,Nesserweg,18,h,
-9162ET,Nesserweg,18,j,
-9162ET,Nesserweg,18,i,
-9162ET,Nesserweg,18,k,
-9162ET,Nesserweg,18,j,
-9162ET,Nesserweg,18,l,
-9162ET,Nesserweg,18,k,
-9162ET,Nesserweg,18,m,
-9162ET,Nesserweg,18,l,
-9162ET,Nesserweg,18,n,
-9162ET,Nesserweg,18,m,
-9162ET,Nesserweg,18,a,
-9162ET,Nesserweg,18,a,
-9162ET,Nesserweg,2,a,
-9162EL,Strandloperspoor,240,,
-9162EV,Strandweg,20,,01
-9162EV,Strandweg,20,,01
-9162EV,Strandweg,20,,02
-9162EV,Strandweg,20,,02
-9162EV,Strandweg,20,,03
-9162EV,Strandweg,20,,03
-9162EV,Strandweg,20,,04
-9162EV,Strandweg,20,,04
-9162EV,Strandweg,20,,05
-9162EV,Strandweg,20,,05
-9162EV,Strandweg,20,,06
-9162EV,Strandweg,20,,06
-9162EV,Strandweg,20,,07
-9162EV,Strandweg,20,,07
-9162EV,Strandweg,20,,08
-9162EV,Strandweg,20,,08
-9162EV,Strandweg,20,,09
-9162EV,Strandweg,20,,09
-9162EV,Strandweg,20,,10
-9162EV,Strandweg,20,,10
-9162EV,Strandweg,20,,11
-9162EV,Strandweg,20,,11
-9162EV,Strandweg,20,,12
-9162EV,Strandweg,20,,12
-9162EV,Strandweg,20,,13
-9162EV,Strandweg,20,,13
-9162EV,Strandweg,20,,14
-9162EV,Strandweg,20,,14
-9162EV,Strandweg,20,,15
-9162EV,Strandweg,20,,15
-9162EV,Strandweg,20,,16
-9162EV,Strandweg,20,,16
-9162EV,Strandweg,20,,17
-9162EV,Strandweg,20,,17
-9162EV,Strandweg,24,,
-9162EV,Strandweg,10,,
-9162EV,Strandweg,14,a,
-9162EV,Strandweg,11,a,
-9162EV,Strandweg,11,b,
-9162EV,Strandweg,11,c,
-9162EV,Strandweg,11,,
-9162EC,Smitteweg,5,b,
-9162EC,Smitteweg,17,a,
-9162EC,Smitteweg,11,,
-9162EC,Smitteweg,8,b,
-9162EC,Smitteweg,5,a,
-9162EC,Smitteweg,10,a,
-9162EC,Smitteweg,26,,
-9162GB,'t Skottepâd,9,,
-9162GB,'t Skottepâd,17,,
-9162GB,'t Skottepâd,15,,
-9162ER,Baron Rengersweg,6,a,
-9162ER,Baron Rengersweg,4,a,
-9162EK,Camminghastraat,5,a,
-9162EK,Camminghastraat,31,,
-9162EM,Camminghastraat,20,b,
-9162EM,Camminghastraat,16,c,
-9162EM,Camminghastraat,20,c,
-9162EM,Camminghastraat,20,d,
-9162EM,Camminghastraat,20,e,
-9162EM,Camminghastraat,20,f,
-9162EM,Camminghastraat,16,e,
-9162GC,Abehiem,8,,
-9162GC,Abehiem,1,,
-9162GC,Abehiem,1,a,
-9162EP,Douwe Klipweg,20,,
-9162EP,Douwe Klipweg,20,a,
-9162EP,Douwe Klipweg,2,b,
-9162EN,Gerrit Kosterweg,5,b,
-9162EN,Gerrit Kosterweg,11,b,
-9162EN,Gerrit Kosterweg,5,a,
-9162EN,Gerrit Kosterweg,5,c,
-9162EN,Gerrit Kosterweg,7,,
-9162EN,Gerrit Kosterweg,7,a,
-9162EN,Gerrit Kosterweg,7,b,
-9162EB,Looweg,1,a,
-9162EB,Looweg,1,a,
-9162EB,Looweg,1,b,
-9162GM,Klaas Nobelweg,2,,
-9162GM,Klaas Nobelweg,4,,
-9162GM,Klaas Nobelweg,6,,
-9162GM,Klaas Nobelweg,8,,
-9162GM,Klaas Nobelweg,10,,
-9162GM,Klaas Nobelweg,12,,
-9162GM,Klaas Nobelweg,1,,
-9162DA,Miedeweg,2,,
-9162DA,Miedeweg,4,,
-9162DA,Miedeweg,6,,
-9162DA,Miedeweg,8,,
-9162DA,Miedeweg,10,,
-9162DA,Miedeweg,12,,
-9162DA,Miedeweg,5,,
-9162DA,Miedeweg,1,,
-9162DA,Miedeweg,3,,
-9162DA,Miedeweg,7,a,
-9162DA,Miedeweg,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Miedeweg,1,"","",9162DA,Ballum
+Miedeweg,10,"","",9162DA,Ballum
+Miedeweg,12,"","",9162DA,Ballum
+Miedeweg,2,"","",9162DA,Ballum
+Miedeweg,3,"","",9162DA,Ballum
+Miedeweg,4,"","",9162DA,Ballum
+Miedeweg,5,"","",9162DA,Ballum
+Miedeweg,6,"","",9162DA,Ballum
+Miedeweg,7,"","",9162DA,Ballum
+Miedeweg,7,A,"",9162DA,Ballum
+Miedeweg,8,"","",9162DA,Ballum
+Jelmeraweg,1,"","",9162EA,Ballum
+Jelmeraweg,2,"","",9162EA,Ballum
+Jelmeraweg,4,"","",9162EA,Ballum
+Jelmeraweg,6,"","",9162EA,Ballum
+Looweg,1,"","",9162EB,Ballum
+Looweg,1,A,"",9162EB,Ballum
+Looweg,1,A,"",9162EB,Ballum
+Looweg,1,A,"",9162EB,Ballum
+Looweg,1,A,"",9162EB,Ballum
+Looweg,1,A,"",9162EB,Ballum
+Looweg,1,B,"",9162EB,Ballum
+Looweg,1,B,"",9162EB,Ballum
+Looweg,1,B,"",9162EB,Ballum
+Looweg,2,"","",9162EB,Ballum
+Looweg,2,A,"",9162EB,Ballum
+Looweg,2,B,"",9162EB,Ballum
+Looweg,4,"","",9162EB,Ballum
+Looweg,4,A,"",9162EB,Ballum
+Smitteweg,1,"","",9162EC,Ballum
+Smitteweg,1,A,"",9162EC,Ballum
+Smitteweg,10,"","",9162EC,Ballum
+Smitteweg,10,A,"",9162EC,Ballum
+Smitteweg,11,"","",9162EC,Ballum
+Smitteweg,11,"","",9162EC,Ballum
+Smitteweg,11,"","",9162EC,Ballum
+Smitteweg,13,"","",9162EC,Ballum
+Smitteweg,15,"","",9162EC,Ballum
+Smitteweg,16,"","",9162EC,Ballum
+Smitteweg,17,"","",9162EC,Ballum
+Smitteweg,17,A,"",9162EC,Ballum
+Smitteweg,2,"","",9162EC,Ballum
+Smitteweg,2,A,"",9162EC,Ballum
+Smitteweg,26,"","",9162EC,Ballum
+Smitteweg,26,"","",9162EC,Ballum
+Smitteweg,26,"","",9162EC,Ballum
+Smitteweg,3,"","",9162EC,Ballum
+Smitteweg,4,"","",9162EC,Ballum
+Smitteweg,4,A,"",9162EC,Ballum
+Smitteweg,4,B,"",9162EC,Ballum
+Smitteweg,5,"","",9162EC,Ballum
+Smitteweg,5,A,"",9162EC,Ballum
+Smitteweg,5,B,"",9162EC,Ballum
+Smitteweg,6,"","",9162EC,Ballum
+Smitteweg,7,"","",9162EC,Ballum
+Smitteweg,8,"","",9162EC,Ballum
+Smitteweg,8,A,"",9162EC,Ballum
+Smitteweg,8,B,"",9162EC,Ballum
+Smitteweg,9,"","",9162EC,Ballum
+Hollumerweg,1,"","",9162EJ,Ballum
+Hollumerweg,1,A,"",9162EJ,Ballum
+Hollumerweg,10,"","",9162EJ,Ballum
+Hollumerweg,16,"","",9162EJ,Ballum
+Hollumerweg,18,"","",9162EJ,Ballum
+Hollumerweg,2,"","",9162EJ,Ballum
+Hollumerweg,20,"","",9162EJ,Ballum
+Hollumerweg,3,"","",9162EJ,Ballum
+Hollumerweg,4,"","",9162EJ,Ballum
+Hollumerweg,5,"","",9162EJ,Ballum
+Hollumerweg,6,"","",9162EJ,Ballum
+Hollumerweg,8,"","",9162EJ,Ballum
+Hollumerweg,8,A,"",9162EJ,Ballum
+Hollumerweg,9,"","",9162EJ,Ballum
+Camminghastraat,1,"","",9162EK,Ballum
+Camminghastraat,11,"","",9162EK,Ballum
+Camminghastraat,13,"","",9162EK,Ballum
+Camminghastraat,15,"","",9162EK,Ballum
+Camminghastraat,17,"","",9162EK,Ballum
+Camminghastraat,19,"","",9162EK,Ballum
+Camminghastraat,19,A,"",9162EK,Ballum
+Camminghastraat,19,B,"",9162EK,Ballum
+Camminghastraat,21,"","",9162EK,Ballum
+Camminghastraat,23,"","",9162EK,Ballum
+Camminghastraat,25,"","",9162EK,Ballum
+Camminghastraat,27,"","",9162EK,Ballum
+Camminghastraat,29,"","",9162EK,Ballum
+Camminghastraat,3,"","",9162EK,Ballum
+Camminghastraat,31,"","",9162EK,Ballum
+Camminghastraat,31,"","",9162EK,Ballum
+Camminghastraat,31,"","",9162EK,Ballum
+Camminghastraat,33,"","",9162EK,Ballum
+Camminghastraat,33,"","",9162EK,Ballum
+Camminghastraat,35,"","",9162EK,Ballum
+Camminghastraat,39,"","",9162EK,Ballum
+Camminghastraat,41,"","",9162EK,Ballum
+Camminghastraat,41,A,"",9162EK,Ballum
+Camminghastraat,43,"","",9162EK,Ballum
+Camminghastraat,43,A,"",9162EK,Ballum
+Camminghastraat,5,"","",9162EK,Ballum
+Camminghastraat,5,A,"",9162EK,Ballum
+Camminghastraat,5,A,"",9162EK,Ballum
+Camminghastraat,5,A,"",9162EK,Ballum
+Camminghastraat,5,B,"",9162EK,Ballum
+Camminghastraat,7,"","",9162EK,Ballum
+Camminghastraat,9,"","",9162EK,Ballum
+Strandloperspoor,240,"","",9162EL,Ballum
+Camminghastraat,4,"","",9162EL,Ballum
+Camminghastraat,6,"","",9162EL,Ballum
+Camminghastraat,8,"","",9162EL,Ballum
+Camminghastraat,8,D,"",9162EL,Ballum
+Camminghastraat,10,"","",9162EM,Ballum
+Camminghastraat,12,"","",9162EM,Ballum
+Camminghastraat,14,"","",9162EM,Ballum
+Camminghastraat,14,A,"",9162EM,Ballum
+Camminghastraat,16,"","",9162EM,Ballum
+Camminghastraat,16,A,"",9162EM,Ballum
+Camminghastraat,16,B,"",9162EM,Ballum
+Camminghastraat,16,C,"",9162EM,Ballum
+Camminghastraat,16,C,"",9162EM,Ballum
+Camminghastraat,16,C,"",9162EM,Ballum
+Camminghastraat,16,E,"",9162EM,Ballum
+Camminghastraat,18,"","",9162EM,Ballum
+Camminghastraat,18,A,"",9162EM,Ballum
+Camminghastraat,20,"","",9162EM,Ballum
+Camminghastraat,20,A,"",9162EM,Ballum
+Camminghastraat,20,B,"",9162EM,Ballum
+Camminghastraat,20,C,"",9162EM,Ballum
+Camminghastraat,20,D,"",9162EM,Ballum
+Camminghastraat,20,E,"",9162EM,Ballum
+Camminghastraat,20,F,"",9162EM,Ballum
+Camminghastraat,22,"","",9162EM,Ballum
+Camminghastraat,24,"","",9162EM,Ballum
+Camminghastraat,26,"","",9162EM,Ballum
+Camminghastraat,28,"","",9162EM,Ballum
+Camminghastraat,30,"","",9162EM,Ballum
+Gerrit Kosterweg,1,"","",9162EN,Ballum
+Gerrit Kosterweg,10,"","",9162EN,Ballum
+Gerrit Kosterweg,11,"","",9162EN,Ballum
+Gerrit Kosterweg,11,A,"",9162EN,Ballum
+Gerrit Kosterweg,11,B,"",9162EN,Ballum
+Gerrit Kosterweg,12,"","",9162EN,Ballum
+Gerrit Kosterweg,13,"","",9162EN,Ballum
+Gerrit Kosterweg,14,"","",9162EN,Ballum
+Gerrit Kosterweg,14,"","",9162EN,Ballum
+Gerrit Kosterweg,15,"","",9162EN,Ballum
+Gerrit Kosterweg,16,"","",9162EN,Ballum
+Gerrit Kosterweg,18,"","",9162EN,Ballum
+Gerrit Kosterweg,2,"","",9162EN,Ballum
+Gerrit Kosterweg,2,A,"",9162EN,Ballum
+Gerrit Kosterweg,2,B,"",9162EN,Ballum
+Gerrit Kosterweg,2,C,"",9162EN,Ballum
+Gerrit Kosterweg,2,D,"",9162EN,Ballum
+Gerrit Kosterweg,3,"","",9162EN,Ballum
+Gerrit Kosterweg,4,"","",9162EN,Ballum
+Gerrit Kosterweg,4,A,"",9162EN,Ballum
+Gerrit Kosterweg,5,"","",9162EN,Ballum
+Gerrit Kosterweg,5,A,"",9162EN,Ballum
+Gerrit Kosterweg,5,B,"",9162EN,Ballum
+Gerrit Kosterweg,5,C,"",9162EN,Ballum
+Gerrit Kosterweg,6,"","",9162EN,Ballum
+Gerrit Kosterweg,6,A,"",9162EN,Ballum
+Gerrit Kosterweg,6,B,"",9162EN,Ballum
+Gerrit Kosterweg,7,"","",9162EN,Ballum
+Gerrit Kosterweg,7,"","",9162EN,Ballum
+Gerrit Kosterweg,7,"","",9162EN,Ballum
+Gerrit Kosterweg,7,A,"",9162EN,Ballum
+Gerrit Kosterweg,7,A,"",9162EN,Ballum
+Gerrit Kosterweg,7,A,"",9162EN,Ballum
+Gerrit Kosterweg,7,B,"",9162EN,Ballum
+Gerrit Kosterweg,7,B,"",9162EN,Ballum
+Gerrit Kosterweg,7,B,"",9162EN,Ballum
+Gerrit Kosterweg,7,C,"",9162EN,Ballum
+Gerrit Kosterweg,7,C,"",9162EN,Ballum
+Gerrit Kosterweg,7,D,"",9162EN,Ballum
+Gerrit Kosterweg,7,D,"",9162EN,Ballum
+Gerrit Kosterweg,7,E,"",9162EN,Ballum
+Gerrit Kosterweg,7,F,"",9162EN,Ballum
+Gerrit Kosterweg,7,G,"",9162EN,Ballum
+Gerrit Kosterweg,7,H,"",9162EN,Ballum
+Gerrit Kosterweg,7,I,"",9162EN,Ballum
+Gerrit Kosterweg,8,"","",9162EN,Ballum
+Gerrit Kosterweg,9,"","",9162EN,Ballum
+Douwe Klipweg,1,"","",9162EP,Ballum
+Douwe Klipweg,10,"","",9162EP,Ballum
+Douwe Klipweg,11,"","",9162EP,Ballum
+Douwe Klipweg,12,"","",9162EP,Ballum
+Douwe Klipweg,13,"","",9162EP,Ballum
+Douwe Klipweg,14,"","",9162EP,Ballum
+Douwe Klipweg,15,"","",9162EP,Ballum
+Douwe Klipweg,16,"","",9162EP,Ballum
+Douwe Klipweg,17,"","",9162EP,Ballum
+Douwe Klipweg,19,"","",9162EP,Ballum
+Douwe Klipweg,2,"","",9162EP,Ballum
+Douwe Klipweg,2,A,"",9162EP,Ballum
+Douwe Klipweg,2,B,"",9162EP,Ballum
+Douwe Klipweg,20,"","",9162EP,Ballum
+Douwe Klipweg,20,A,"",9162EP,Ballum
+Douwe Klipweg,21,"","",9162EP,Ballum
+Douwe Klipweg,23,"","",9162EP,Ballum
+Douwe Klipweg,25,"","",9162EP,Ballum
+Douwe Klipweg,27,"","",9162EP,Ballum
+Douwe Klipweg,29,"","",9162EP,Ballum
+Douwe Klipweg,3,"","",9162EP,Ballum
+Douwe Klipweg,4,"","",9162EP,Ballum
+Douwe Klipweg,5,"","",9162EP,Ballum
+Douwe Klipweg,6,"","",9162EP,Ballum
+Douwe Klipweg,7,"","",9162EP,Ballum
+Douwe Klipweg,8,"","",9162EP,Ballum
+Douwe Klipweg,9,"","",9162EP,Ballum
+Baron Rengersweg,10,"","",9162ER,Ballum
+Baron Rengersweg,12,"","",9162ER,Ballum
+Baron Rengersweg,13,"","",9162ER,Ballum
+Baron Rengersweg,14,"","",9162ER,Ballum
+Baron Rengersweg,2,"","",9162ER,Ballum
+Baron Rengersweg,2,A,"",9162ER,Ballum
+Baron Rengersweg,2,A,"",9162ER,Ballum
+Baron Rengersweg,3,"","",9162ER,Ballum
+Baron Rengersweg,3,A,"",9162ER,Ballum
+Baron Rengersweg,4,"","",9162ER,Ballum
+Baron Rengersweg,4,A,"",9162ER,Ballum
+Baron Rengersweg,4,A,"",9162ER,Ballum
+Baron Rengersweg,5,"","",9162ER,Ballum
+Baron Rengersweg,6,"","",9162ER,Ballum
+Baron Rengersweg,6,A,"",9162ER,Ballum
+Baron Rengersweg,6,A,"",9162ER,Ballum
+Baron Rengersweg,6,A,"",9162ER,Ballum
+Baron Rengersweg,7,"","",9162ER,Ballum
+Baron Rengersweg,8,"","",9162ER,Ballum
+Baron Rengersweg,9,"","",9162ER,Ballum
+Nesserweg,1,"","",9162ES,Ballum
+Nesserweg,1,A,"",9162ES,Ballum
+Nesserweg,1,B,"",9162ES,Ballum
+Nesserweg,1,C,"",9162ES,Ballum
+Nesserweg,13,"","",9162ES,Ballum
+Nesserweg,15,"","",9162ES,Ballum
+Nesserweg,3,"","",9162ES,Ballum
+Nesserweg,5,"","",9162ES,Ballum
+Nesserweg,7,"","",9162ES,Ballum
+Nesserweg,9,"","",9162ES,Ballum
+Nesserweg,9,A,"",9162ES,Ballum
+Nesserweg,9,B,"",9162ES,Ballum
+Nesserweg,10,"","",9162ET,Ballum
+Nesserweg,10,A,"",9162ET,Ballum
+Nesserweg,10,B,"",9162ET,Ballum
+Nesserweg,12,"","",9162ET,Ballum
+Nesserweg,14,"","",9162ET,Ballum
+Nesserweg,14,A,"",9162ET,Ballum
+Nesserweg,16,"","",9162ET,Ballum
+Nesserweg,18,"","",9162ET,Ballum
+Nesserweg,18,A,"",9162ET,Ballum
+Nesserweg,18,A,"",9162ET,Ballum
+Nesserweg,18,A,"",9162ET,Ballum
+Nesserweg,18,A,"",9162ET,Ballum
+Nesserweg,18,A,"",9162ET,Ballum
+Nesserweg,18,B,"",9162ET,Ballum
+Nesserweg,18,B,"",9162ET,Ballum
+Nesserweg,18,B,"",9162ET,Ballum
+Nesserweg,18,C,"",9162ET,Ballum
+Nesserweg,18,C,"",9162ET,Ballum
+Nesserweg,18,D,"",9162ET,Ballum
+Nesserweg,18,D,"",9162ET,Ballum
+Nesserweg,18,E,"",9162ET,Ballum
+Nesserweg,18,E,"",9162ET,Ballum
+Nesserweg,18,F,"",9162ET,Ballum
+Nesserweg,18,F,"",9162ET,Ballum
+Nesserweg,18,G,"",9162ET,Ballum
+Nesserweg,18,G,"",9162ET,Ballum
+Nesserweg,18,H,"",9162ET,Ballum
+Nesserweg,18,H,"",9162ET,Ballum
+Nesserweg,18,I,"",9162ET,Ballum
+Nesserweg,18,I,"",9162ET,Ballum
+Nesserweg,18,J,"",9162ET,Ballum
+Nesserweg,18,J,"",9162ET,Ballum
+Nesserweg,18,K,"",9162ET,Ballum
+Nesserweg,18,K,"",9162ET,Ballum
+Nesserweg,18,L,"",9162ET,Ballum
+Nesserweg,18,L,"",9162ET,Ballum
+Nesserweg,18,M,"",9162ET,Ballum
+Nesserweg,18,M,"",9162ET,Ballum
+Nesserweg,18,N,"",9162ET,Ballum
+Nesserweg,2,"","",9162ET,Ballum
+Nesserweg,2,A,"",9162ET,Ballum
+Nesserweg,4,"","",9162ET,Ballum
+Nesserweg,4,A,"",9162ET,Ballum
+Nesserweg,6,"","",9162ET,Ballum
+Nesserweg,6,B,"",9162ET,Ballum
+Nesserweg,8,"","",9162ET,Ballum
+Nesserweg,8,A,"",9162ET,Ballum
+Strandweg,1,"","",9162EV,Ballum
+Strandweg,10,"","",9162EV,Ballum
+Strandweg,10,"","",9162EV,Ballum
+Strandweg,10,"","",9162EV,Ballum
+Strandweg,10,A,"",9162EV,Ballum
+Strandweg,11,"","",9162EV,Ballum
+Strandweg,11,"","",9162EV,Ballum
+Strandweg,11,A,"",9162EV,Ballum
+Strandweg,11,B,"",9162EV,Ballum
+Strandweg,11,C,"",9162EV,Ballum
+Strandweg,12,"","",9162EV,Ballum
+Strandweg,12,A,"",9162EV,Ballum
+Strandweg,12,B,"",9162EV,Ballum
+Strandweg,14,"","",9162EV,Ballum
+Strandweg,14,A,"",9162EV,Ballum
+Strandweg,15,"","",9162EV,Ballum
+Strandweg,16,"","",9162EV,Ballum
+Strandweg,19,"","",9162EV,Ballum
+Strandweg,2,"","",9162EV,Ballum
+Strandweg,20,"","",9162EV,Ballum
+Strandweg,20,"",01,9162EV,Ballum
+Strandweg,20,"",01,9162EV,Ballum
+Strandweg,20,"",02,9162EV,Ballum
+Strandweg,20,"",02,9162EV,Ballum
+Strandweg,20,"",03,9162EV,Ballum
+Strandweg,20,"",03,9162EV,Ballum
+Strandweg,20,"",04,9162EV,Ballum
+Strandweg,20,"",04,9162EV,Ballum
+Strandweg,20,"",05,9162EV,Ballum
+Strandweg,20,"",05,9162EV,Ballum
+Strandweg,20,"",06,9162EV,Ballum
+Strandweg,20,"",06,9162EV,Ballum
+Strandweg,20,"",07,9162EV,Ballum
+Strandweg,20,"",07,9162EV,Ballum
+Strandweg,20,"",08,9162EV,Ballum
+Strandweg,20,"",08,9162EV,Ballum
+Strandweg,20,"",09,9162EV,Ballum
+Strandweg,20,"",09,9162EV,Ballum
+Strandweg,20,"",10,9162EV,Ballum
+Strandweg,20,"",10,9162EV,Ballum
+Strandweg,20,"",11,9162EV,Ballum
+Strandweg,20,"",11,9162EV,Ballum
+Strandweg,20,"",12,9162EV,Ballum
+Strandweg,20,"",12,9162EV,Ballum
+Strandweg,20,"",13,9162EV,Ballum
+Strandweg,20,"",13,9162EV,Ballum
+Strandweg,20,"",14,9162EV,Ballum
+Strandweg,20,"",14,9162EV,Ballum
+Strandweg,20,"",15,9162EV,Ballum
+Strandweg,20,"",15,9162EV,Ballum
+Strandweg,20,"",16,9162EV,Ballum
+Strandweg,20,"",16,9162EV,Ballum
+Strandweg,20,"",17,9162EV,Ballum
+Strandweg,20,"",17,9162EV,Ballum
+Strandweg,21,"","",9162EV,Ballum
+Strandweg,24,"","",9162EV,Ballum
+Strandweg,24,"","",9162EV,Ballum
+Strandweg,24,"","",9162EV,Ballum
+Strandweg,24,A,"",9162EV,Ballum
+Strandweg,3,"","",9162EV,Ballum
+Strandweg,4,"","",9162EV,Ballum
+Strandweg,5,"","",9162EV,Ballum
+Strandweg,6,"","",9162EV,Ballum
+Strandweg,7,"","",9162EV,Ballum
+De Stringen,1,"","",9162EX,Ballum
+De Stringen,10,"","",9162EX,Ballum
+De Stringen,12,"","",9162EX,Ballum
+De Stringen,14,"","",9162EX,Ballum
+De Stringen,15,"","",9162EX,Ballum
+De Stringen,16,"","",9162EX,Ballum
+De Stringen,17,"","",9162EX,Ballum
+De Stringen,19,"","",9162EX,Ballum
+De Stringen,2,"","",9162EX,Ballum
+De Stringen,21,"","",9162EX,Ballum
+De Stringen,23,"","",9162EX,Ballum
+De Stringen,25,"","",9162EX,Ballum
+De Stringen,27,"","",9162EX,Ballum
+De Stringen,3,"","",9162EX,Ballum
+De Stringen,4,"","",9162EX,Ballum
+De Stringen,8,"","",9162EX,Ballum
+'t Hofje,1,"","",9162GA,Ballum
+'t Hofje,3,"","",9162GA,Ballum
+'t Hofje,5,"","",9162GA,Ballum
+'t Hofje,7,"","",9162GA,Ballum
+'t Hofje,9,"","",9162GA,Ballum
+'t Skottepâd,1,"","",9162GB,Ballum
+'t Skottepâd,15,"","",9162GB,Ballum
+'t Skottepâd,17,"","",9162GB,Ballum
+'t Skottepâd,19,"","",9162GB,Ballum
+'t Skottepâd,2,"","",9162GB,Ballum
+'t Skottepâd,21,"","",9162GB,Ballum
+'t Skottepâd,3,"","",9162GB,Ballum
+'t Skottepâd,4,"","",9162GB,Ballum
+'t Skottepâd,5,"","",9162GB,Ballum
+'t Skottepâd,6,"","",9162GB,Ballum
+'t Skottepâd,7,"","",9162GB,Ballum
+'t Skottepâd,8,"","",9162GB,Ballum
+'t Skottepâd,9,"","",9162GB,Ballum
+Abehiem,1,"","",9162GC,Ballum
+Abehiem,1,A,"",9162GC,Ballum
+Abehiem,3,"","",9162GC,Ballum
+Abehiem,5,"","",9162GC,Ballum
+Abehiem,7,"","",9162GC,Ballum
+Abehiem,8,"","",9162GC,Ballum
+Abehiem,8,"","",9162GC,Ballum
+Abehiem,8,"","",9162GC,Ballum
+Klaas Nobelweg,1,"","",9162GM,Ballum
+Klaas Nobelweg,10,"","",9162GM,Ballum
+Klaas Nobelweg,12,"","",9162GM,Ballum
+Klaas Nobelweg,2,"","",9162GM,Ballum
+Klaas Nobelweg,4,"","",9162GM,Ballum
+Klaas Nobelweg,6,"","",9162GM,Ballum
+Klaas Nobelweg,8,"","",9162GM,Ballum

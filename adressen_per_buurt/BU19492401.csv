@@ -1,829 +1,385 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9033WH",5,"",""
-"9033WH",9,"",""
-"9033WH",7,"",""
-"9033WH",10,"",""
-"9033WH",6,"",""
-"9033WH",12,"",""
-"9033WH",3,"A",""
-"9033WH",8,"",""
-"9033WH",22,"",""
-"9033WH",3,"",""
-"9033WH",14,"",""
-"9033WH",6,"A",""
-"9033WH",1,"",""
-"9033WH",11,"",""
-"9033WH",24,"",""
-"9033WH",18,"",""
-"9033WH",6,"B",""
-"9033WH",6,"B",""
-"9033WH",13,"",""
-"9033WH",16,"",""
-"9033WH",20,"",""
-"9033WJ",21,"",""
-"9033WJ",18,"",""
-"9033WJ",18,"",""
-"9033WJ",19,"",""
-"9033WJ",13,"",""
-"9033WJ",12,"",""
-"9033WJ",6,"",""
-"9033WJ",14,"",""
-"9033WJ",11,"A",""
-"9033WJ",15,"",""
-"9033WJ",7,"",""
-"9033WJ",4,"",""
-"9033WJ",2,"",""
-"9033WJ",8,"",""
-"9033WJ",17,"",""
-"9033WJ",9,"",""
-"9033WJ",11,"B",""
-"9033WJ",2,"A",""
-"9033WJ",2,"C",""
-"9033WJ",12,"B",""
-"9033WJ",11,"",""
-"9033WJ",9,"A",""
-"9033WJ",2,"D",""
-"9033WJ",5,"",""
-"9033WJ",2,"B",""
-"9033WJ",11,"B",""
-"9033WJ",7,"A",""
-"9033WJ",7,"B",""
-"9033WL",12,"",""
-"9033WL",10,"",""
-"9033WL",22,"",""
-"9033WL",16,"",""
-"9033WL",6,"",""
-"9033WL",24,"",""
-"9033WL",1,"",""
-"9033WL",14,"",""
-"9033WL",20,"",""
-"9033WL",4,"",""
-"9033WL",8,"",""
-"9033WL",1,"A",""
-"9033WL",1,"A",""
-"9033WL",2,"",""
-"9033WM",7,"B",""
-"9033WN",13,"",""
-"9033WN",3,"",""
-"9033WN",36,"",""
-"9033WN",9,"",""
-"9033WN",5,"",""
-"9033WN",7,"A",""
-"9033WN",44,"",""
-"9033WN",11,"A",""
-"9033WN",38,"",""
-"9033WN",7,"",""
-"9033WN",34,"",""
-"9033WN",9,"A",""
-"9033WN",32,"",""
-"9033WN",40,"",""
-"9033WN",46,"",""
-"9033WN",44,"",""
-"9033WN",42,"",""
-"9033WP",47,"",""
-"9033WP",23,"",""
-"9033WP",45,"A",""
-"9033WP",45,"A",""
-"9033WP",17,"",""
-"9033WP",45,"B",""
-"9033WP",33,"",""
-"9033WP",43,"",""
-"9033WP",19,"",""
-"9033WP",39,"",""
-"9033WP",45,"B",""
-"9033WP",45,"",""
-"9033WP",25,"",""
-"9033WP",50,"",""
-"9033WP",49,"",""
-"9033WP",27,"",""
-"9033WP",31,"",""
-"9033WP",29,"",""
-"9033WP",52,"",""
-"9033WP",48,"",""
-"9033WR",68,"",""
-"9033WR",55,"",""
-"9033WR",51,"",""
-"9033WR",62,"",""
-"9033WR",60,"",""
-"9033WR",53,"",""
-"9033WR",56,"",""
-"9033WR",66,"",""
-"9033WR",64,"",""
-"9033WR",58,"",""
-"9033WS",82,"",""
-"9033WS",57,"",""
-"9033WS",61,"",""
-"9033WS",92,"",""
-"9033WS",86,"",""
-"9033WS",59,"",""
-"9033WS",88,"",""
-"9033WS",84,"",""
-"9033WS",61,"A",""
-"9033WS",90,"",""
-"9033WT",19,"",""
-"9033WT",17,"",""
-"9033WT",15,"",""
-"9033WT",6,"",""
-"9033WT",9,"",""
-"9033WT",3,"A",""
-"9033WT",11,"",""
-"9033WT",10,"",""
-"9033WT",1,"",""
-"9033WT",13,"",""
-"9033WT",3,"",""
-"9033WT",8,"",""
-"9033WT",7,"",""
-"9033WT",5,"",""
-"9033WV",8,"",""
-"9033WV",3,"",""
-"9033WV",6,"",""
-"9033WV",4,"",""
-"9033WZ",16,"",""
-"9033WZ",9,"",""
-"9033WZ",12,"",""
-"9033WZ",5,"",""
-"9033WZ",1,"",""
-"9033WZ",3,"A",""
-"9033WZ",3,"B",""
-"9033WZ",11,"",""
-"9033WZ",8,"",""
-"9033WZ",10,"",""
-"9033WZ",18,"",""
-"9033WZ",16,"",""
-"9033WZ",3,"B",""
-"9033WZ",4,"",""
-"9033WZ",3,"A",""
-"9033WZ",20,"",""
-"9033WZ",2,"",""
-"9033WZ",6,"",""
-"9033XA",36,"",""
-"9033XA",24,"",""
-"9033XA",32,"",""
-"9033XA",34,"",""
-"9033XA",30,"",""
-"9033XA",40,"",""
-"9033XA",38,"",""
-"9033XA",22,"",""
-"9033XA",2,"",""
-"9033XA",18,"",""
-"9033XA",8,"",""
-"9033XA",14,"",""
-"9033XA",28,"",""
-"9033XA",26,"",""
-"9033XA",20,"",""
-"9033XA",12,"",""
-"9033XA",16,"",""
-"9033XA",6,"",""
-"9033XA",4,"",""
-"9033XA",10,"",""
-"9033XA",10,"A",""
-"9033XB",13,"",""
-"9033XB",1,"",""
-"9033XB",3,"",""
-"9033XB",1,"A",""
-"9033XB",5,"",""
-"9033XB",9,"",""
-"9033XB",19,"",""
-"9033XB",29,"",""
-"9033XB",35,"",""
-"9033XB",17,"",""
-"9033XB",23,"",""
-"9033XB",21,"",""
-"9033XB",13,"C",""
-"9033XB",39,"",""
-"9033XB",31,"",""
-"9033XB",25,"",""
-"9033XB",7,"",""
-"9033XB",13,"B",""
-"9033XB",13,"E",""
-"9033XB",33,"",""
-"9033XB",13,"A",""
-"9033XB",13,"D",""
-"9033XB",11,"",""
-"9033XB",41,"",""
-"9033XB",27,"",""
-"9033XB",37,"",""
-"9033XC",6,"",""
-"9033XC",13,"",""
-"9033XC",15,"",""
-"9033XC",1,"",""
-"9033XC",8,"",""
-"9033XC",11,"",""
-"9033XC",7,"",""
-"9033XC",4,"",""
-"9033XC",5,"",""
-"9033XC",9,"",""
-"9033XC",2,"",""
-"9033XC",3,"",""
-"9033XE",28,"",""
-"9033XE",10,"",""
-"9033XE",26,"",""
-"9033XE",2,"",""
-"9033XE",6,"",""
-"9033XE",4,"",""
-"9033XE",24,"",""
-"9033XE",8,"",""
-"9033XE",16,"",""
-"9033XE",12,"",""
-"9033XE",22,"",""
-"9033XE",20,"",""
-"9033XE",18,"",""
-"9033XG",35,"",""
-"9033XG",41,"",""
-"9033XG",43,"",""
-"9033XG",45,"",""
-"9033XG",1,"",""
-"9033XG",33,"",""
-"9033XG",37,"",""
-"9033XG",47,"",""
-"9033XG",39,"",""
-"9033XG",11,"",""
-"9033XG",15,"",""
-"9033XG",17,"",""
-"9033XG",27,"",""
-"9033XG",5,"",""
-"9033XG",21,"",""
-"9033XG",3,"",""
-"9033XG",31,"",""
-"9033XG",25,"",""
-"9033XG",29,"",""
-"9033XG",23,"",""
-"9033XG",19,"",""
-"9033XG",7,"",""
-"9033XG",9,"",""
-"9033XG",13,"",""
-"9033XH",1,"",""
-"9033XH",23,"",""
-"9033XH",2,"A",""
-"9033XH",1,"",""
-"9033XH",25,"",""
-"9033XH",7,"",""
-"9033XH",3,"",""
-"9033XH",5,"",""
-"9033XH",6,"",""
-"9033XH",5,"",""
-"9033XH",4,"",""
-"9033XH",11,"",""
-"9033XH",11,"A",""
-"9033XH",7,"",""
-"9033XH",8,"",""
-"9033XH",21,"",""
-"9033XH",3,"",""
-"9033XH",2,"",""
-"9033XH",9,"",""
-"9033XH",27,"",""
-"9033XJ",3,"",""
-"9033XJ",15,"",""
-"9033XJ",10,"",""
-"9033XJ",11,"",""
-"9033XJ",7,"",""
-"9033XJ",19,"",""
-"9033XJ",12,"",""
-"9033XJ",1,"",""
-"9033XJ",4,"",""
-"9033XJ",6,"",""
-"9033XJ",9,"",""
-"9033XK",17,"",""
-"9033XK",7,"",""
-"9033XK",33,"",""
-"9033XK",23,"",""
-"9033XK",35,"B",""
-"9033XK",19,"",""
-"9033XK",29,"",""
-"9033XK",21,"",""
-"9033XK",27,"",""
-"9033XK",15,"",""
-"9033XK",31,"",""
-"9033XK",35,"A",""
-"9033XK",1,"",""
-"9033XK",11,"",""
-"9033XK",9,"",""
-"9033XK",35,"",""
-"9033XK",3,"",""
-"9033XK",13,"",""
-"9033XK",5,"",""
-"9033XL",37,"",""
-"9033XL",41,"",""
-"9033XL",43,"",""
-"9033XL",39,"",""
-"9033XM",6,"",""
-"9033XM",24,"",""
-"9033XM",12,"",""
-"9033XM",22,"",""
-"9033XM",2,"",""
-"9033XM",10,"",""
-"9033XM",26,"",""
-"9033XM",8,"",""
-"9033XM",28,"",""
-"9033XM",16,"",""
-"9033XN",38,"",""
-"9033XN",46,"",""
-"9033XN",52,"",""
-"9033XN",42,"",""
-"9033XN",30,"",""
-"9033XN",50,"",""
-"9033XN",40,"",""
-"9033XN",44,"",""
-"9033XN",34,"",""
-"9033XN",32,"",""
-"9033XN",48,"",""
-"9033XN",36,"",""
-"9033XP",6,"",""
-"9033XP",4,"",""
-"9033XP",2,"",""
-"9033XP",10,"",""
-"9033XP",1,"",""
-"9033XP",8,"",""
-"9033XR",8,"",""
-"9033XR",10,"",""
-"9033XR",7,"",""
-"9033XR",5,"",""
-"9033XR",3,"",""
-"9033XR",1,"",""
-"9033XR",4,"",""
-"9033XR",9,"",""
-"9033XR",6,"",""
-"9033XR",2,"",""
-"9033XS",3,"",""
-"9033XS",4,"",""
-"9033XS",5,"",""
-"9033XS",2,"",""
-"9033XS",1,"",""
-"9033XS",6,"",""
-"9033XS",8,"",""
-"9033XT",7,"",""
-"9033XT",8,"",""
-"9033XT",3,"",""
-"9033XT",9,"",""
-"9033XT",4,"",""
-"9033XT",2,"",""
-"9033XT",5,"",""
-"9033XT",1,"",""
-"9033XV",15,"",""
-"9033XV",19,"",""
-"9033XV",8,"",""
-"9033XV",13,"",""
-"9033XV",2,"",""
-"9033XV",6,"",""
-"9033XV",17,"",""
-"9033XV",10,"",""
-"9033XV",9,"",""
-"9033XV",16,"",""
-"9033XV",12,"",""
-"9033XV",4,"",""
-"9033XV",14,"",""
-"9033XV",7,"",""
-"9033XW",4,"",""
-"9033XW",5,"",""
-"9033XW",1,"",""
-"9033XW",3,"",""
-"9033XW",2,"",""
-"9033XX",1,"",""
-"9033XX",2,"",""
-"9033XX",3,"",""
-"9033XZ",4,"",""
-"9033XZ",2,"",""
-9033XX,De Harke,1,,
-9033XX,De Harke,2,,
-9033XX,De Harke,3,,
-9033XW,De Eker,1,,
-9033XW,De Eker,2,,
-9033XW,De Eker,3,,
-9033XW,De Eker,4,,
-9033XW,De Eker,5,,
-9033XZ,De Swylder,2,,
-9033XZ,De Swylder,4,,
-9033WV,Bûterhoeke,6,,
-9033WV,Bûterhoeke,8,,
-9033WV,Bûterhoeke,3,,
-9033WV,Bûterhoeke,4,,
-9033XJ,Heechpaed,1,,
-9033XJ,Heechpaed,10,,
-9033XJ,Heechpaed,11,,
-9033XJ,Heechpaed,12,,
-9033XJ,Heechpaed,15,,
-9033XJ,Heechpaed,19,,
-9033XJ,Heechpaed,3,,
-9033XJ,Heechpaed,4,,
-9033XJ,Heechpaed,6,,
-9033XJ,Heechpaed,7,,
-9033XJ,Heechpaed,9,,
-9033XH,Skoallestrjitte,1,,
-9033XH,Skoallestrjitte,11,,
-9033XH,Skoallestrjitte,11,A,
-9033XH,Skoallestrjitte,2,,
-9033XH,Skoallestrjitte,2,A,
-9033XH,Skoallestrjitte,3,,
-9033XH,Skoallestrjitte,4,,
-9033XH,Skoallestrjitte,5,,
-9033XH,Skoallestrjitte,6,,
-9033XH,Skoallestrjitte,7,,
-9033XH,Skoallestrjitte,8,,
-9033XH,Skoallestrjitte,9,,
-9033WT,Tsjerkepaed,1,,
-9033WT,Tsjerkepaed,10,,
-9033WT,Tsjerkepaed,11,,
-9033WT,Tsjerkepaed,13,,
-9033WT,Tsjerkepaed,15,,
-9033WT,Tsjerkepaed,17,,
-9033WT,Tsjerkepaed,19,,
-9033WT,Tsjerkepaed,3,,
-9033WT,Tsjerkepaed,3,A,
-9033WT,Tsjerkepaed,5,,
-9033WT,Tsjerkepaed,6,,
-9033WT,Tsjerkepaed,7,,
-9033WT,Tsjerkepaed,8,,
-9033WT,Tsjerkepaed,9,,
-9033WZ,Sportleane,1,,
-9033WZ,Sportleane,10,,
-9033WZ,Sportleane,11,,
-9033WZ,Sportleane,12,,
-9033WZ,Sportleane,16,,
-9033WZ,Sportleane,18,,
-9033WZ,Sportleane,2,,
-9033WZ,Sportleane,20,,
-9033WZ,Sportleane,3,A,
-9033WZ,Sportleane,3,B,
-9033WZ,Sportleane,4,,
-9033WZ,Sportleane,5,,
-9033WZ,Sportleane,6,,
-9033WZ,Sportleane,8,,
-9033WZ,Sportleane,9,,
-9033XC,Feytsmahôf,1,,
-9033XC,Feytsmahôf,11,,
-9033XC,Feytsmahôf,13,,
-9033XC,Feytsmahôf,15,,
-9033XC,Feytsmahôf,2,,
-9033XC,Feytsmahôf,3,,
-9033XC,Feytsmahôf,4,,
-9033XC,Feytsmahôf,5,,
-9033XC,Feytsmahôf,6,,
-9033XC,Feytsmahôf,7,,
-9033XC,Feytsmahôf,8,,
-9033XC,Feytsmahôf,9,,
-9033XR,De Gersdroegerij,1,,
-9033XR,De Gersdroegerij,10,,
-9033XR,De Gersdroegerij,2,,
-9033XR,De Gersdroegerij,3,,
-9033XR,De Gersdroegerij,4,,
-9033XR,De Gersdroegerij,5,,
-9033XR,De Gersdroegerij,6,,
-9033XR,De Gersdroegerij,7,,
-9033XR,De Gersdroegerij,8,,
-9033XR,De Gersdroegerij,9,,
-9033XS,It Harspit,1,,
-9033XS,It Harspit,2,,
-9033XS,It Harspit,3,,
-9033XS,It Harspit,4,,
-9033XS,It Harspit,5,,
-9033XS,It Harspit,6,,
-9033XS,It Harspit,8,,
-9033WH,It Holt,1,,
-9033WH,It Holt,10,,
-9033WH,It Holt,11,,
-9033WH,It Holt,12,,
-9033WH,It Holt,13,,
-9033WH,It Holt,14,,
-9033WH,It Holt,16,,
-9033WH,It Holt,18,,
-9033WH,It Holt,20,,
-9033WH,It Holt,22,,
-9033WH,It Holt,24,,
-9033WH,It Holt,3,,
-9033WH,It Holt,3,A,
-9033WH,It Holt,5,,
-9033WH,It Holt,6,,
-9033WH,It Holt,6,A,
-9033WH,It Holt,6,B,
-9033WH,It Holt,7,,
-9033WH,It Holt,8,,
-9033WH,It Holt,9,,
-9033WL,Sint Janswei,1,,
-9033WL,Sint Janswei,10,,
-9033WL,Sint Janswei,12,,
-9033WL,Sint Janswei,14,,
-9033WL,Sint Janswei,16,,
-9033WL,Sint Janswei,1,A,
-9033WL,Sint Janswei,2,,
-9033WL,Sint Janswei,20,,
-9033WL,Sint Janswei,22,,
-9033WL,Sint Janswei,24,,
-9033WL,Sint Janswei,4,,
-9033WL,Sint Janswei,6,,
-9033WL,Sint Janswei,8,,
-9033WN,Sint Janswei,11,A,
-9033WN,Sint Janswei,13,,
-9033WN,Sint Janswei,3,,
-9033WN,Sint Janswei,32,,
-9033WN,Sint Janswei,34,,
-9033WN,Sint Janswei,36,,
-9033WN,Sint Janswei,38,,
-9033WN,Sint Janswei,40,,
-9033WN,Sint Janswei,42,,
-9033WN,Sint Janswei,44,,
-9033WN,Sint Janswei,46,,
-9033WN,Sint Janswei,5,,
-9033WN,Sint Janswei,7,,
-9033WN,Sint Janswei,7,A,
-9033WN,Sint Janswei,9,,
-9033WN,Sint Janswei,9,A,
-9033WP,Sint Janswei,17,,
-9033WP,Sint Janswei,19,,
-9033WP,Sint Janswei,23,,
-9033WP,Sint Janswei,25,,
-9033WP,Sint Janswei,27,,
-9033WP,Sint Janswei,29,,
-9033WP,Sint Janswei,31,,
-9033WP,Sint Janswei,33,,
-9033WP,Sint Janswei,39,,
-9033WP,Sint Janswei,43,,
-9033WP,Sint Janswei,45,,
-9033WP,Sint Janswei,45,A,
-9033WP,Sint Janswei,45,B,
-9033WP,Sint Janswei,47,,
-9033WP,Sint Janswei,48,,
-9033WP,Sint Janswei,49,,
-9033WP,Sint Janswei,50,,
-9033WP,Sint Janswei,52,,
-9033WR,Sint Janswei,51,,
-9033WR,Sint Janswei,53,,
-9033WR,Sint Janswei,55,,
-9033WR,Sint Janswei,56,,
-9033WR,Sint Janswei,58,,
-9033WR,Sint Janswei,60,,
-9033WR,Sint Janswei,62,,
-9033WR,Sint Janswei,64,,
-9033WR,Sint Janswei,66,,
-9033WR,Sint Janswei,68,,
-9033WS,Sint Janswei,57,,
-9033WS,Sint Janswei,59,,
-9033WS,Sint Janswei,61,,
-9033WS,Sint Janswei,61,A,
-9033WS,Sint Janswei,82,,
-9033WS,Sint Janswei,84,,
-9033WS,Sint Janswei,86,,
-9033WS,Sint Janswei,88,,
-9033WS,Sint Janswei,90,,
-9033WS,Sint Janswei,92,,
-9033XE,Mennerdahôf,10,,
-9033XE,Mennerdahôf,12,,
-9033XE,Mennerdahôf,16,,
-9033XE,Mennerdahôf,18,,
-9033XE,Mennerdahôf,2,,
-9033XE,Mennerdahôf,20,,
-9033XE,Mennerdahôf,22,,
-9033XE,Mennerdahôf,24,,
-9033XE,Mennerdahôf,26,,
-9033XE,Mennerdahôf,28,,
-9033XE,Mennerdahôf,4,,
-9033XE,Mennerdahôf,6,,
-9033XE,Mennerdahôf,8,,
-9033XG,Mennerdahôf,1,,
-9033XG,Mennerdahôf,11,,
-9033XG,Mennerdahôf,13,,
-9033XG,Mennerdahôf,15,,
-9033XG,Mennerdahôf,17,,
-9033XG,Mennerdahôf,19,,
-9033XG,Mennerdahôf,21,,
-9033XG,Mennerdahôf,23,,
-9033XG,Mennerdahôf,25,,
-9033XG,Mennerdahôf,27,,
-9033XG,Mennerdahôf,29,,
-9033XG,Mennerdahôf,3,,
-9033XG,Mennerdahôf,31,,
-9033XG,Mennerdahôf,33,,
-9033XG,Mennerdahôf,35,,
-9033XG,Mennerdahôf,37,,
-9033XG,Mennerdahôf,39,,
-9033XG,Mennerdahôf,41,,
-9033XG,Mennerdahôf,43,,
-9033XG,Mennerdahôf,45,,
-9033XG,Mennerdahôf,47,,
-9033XG,Mennerdahôf,5,,
-9033XG,Mennerdahôf,7,,
-9033XG,Mennerdahôf,9,,
-9033XK,Pypsterhôf,1,,
-9033XK,Pypsterhôf,11,,
-9033XK,Pypsterhôf,13,,
-9033XK,Pypsterhôf,15,,
-9033XK,Pypsterhôf,17,,
-9033XK,Pypsterhôf,19,,
-9033XK,Pypsterhôf,21,,
-9033XK,Pypsterhôf,23,,
-9033XK,Pypsterhôf,27,,
-9033XK,Pypsterhôf,29,,
-9033XK,Pypsterhôf,3,,
-9033XK,Pypsterhôf,31,,
-9033XK,Pypsterhôf,33,,
-9033XK,Pypsterhôf,35,,
-9033XK,Pypsterhôf,35,A,
-9033XK,Pypsterhôf,35,B,
-9033XK,Pypsterhôf,5,,
-9033XK,Pypsterhôf,7,,
-9033XK,Pypsterhôf,9,,
-9033XL,Pypsterhôf,37,,
-9033XL,Pypsterhôf,39,,
-9033XL,Pypsterhôf,41,,
-9033XL,Pypsterhôf,43,,
-9033XM,Pypsterhôf,10,,
-9033XM,Pypsterhôf,12,,
-9033XM,Pypsterhôf,16,,
-9033XM,Pypsterhôf,2,,
-9033XM,Pypsterhôf,22,,
-9033XM,Pypsterhôf,24,,
-9033XM,Pypsterhôf,26,,
-9033XM,Pypsterhôf,28,,
-9033XM,Pypsterhôf,6,,
-9033XM,Pypsterhôf,8,,
-9033XN,Pypsterhôf,30,,
-9033XN,Pypsterhôf,32,,
-9033XN,Pypsterhôf,34,,
-9033XN,Pypsterhôf,36,,
-9033XN,Pypsterhôf,38,,
-9033XN,Pypsterhôf,40,,
-9033XN,Pypsterhôf,42,,
-9033XN,Pypsterhôf,44,,
-9033XN,Pypsterhôf,46,,
-9033XN,Pypsterhôf,48,,
-9033XN,Pypsterhôf,50,,
-9033XN,Pypsterhôf,52,,
-9033XH,De Seine,21,,
-9033XH,De Seine,23,,
-9033XH,De Seine,25,,
-9033XH,De Seine,27,,
-9033XV,De Seine,10,,
-9033XV,De Seine,12,,
-9033XV,De Seine,13,,
-9033XV,De Seine,14,,
-9033XV,De Seine,15,,
-9033XV,De Seine,16,,
-9033XV,De Seine,17,,
-9033XV,De Seine,19,,
-9033XV,De Seine,2,,
-9033XV,De Seine,4,,
-9033XV,De Seine,6,,
-9033XV,De Seine,7,,
-9033XV,De Seine,8,,
-9033XV,De Seine,9,,
-9033WJ,Spoorstrjitte,11,,
-9033WJ,Spoorstrjitte,11,B,
-9033WJ,Spoorstrjitte,11,B,
-9033WJ,Spoorstrjitte,11,A,
-9033WJ,Spoorstrjitte,12,,
-9033WJ,Spoorstrjitte,12,B,
-9033WJ,Spoorstrjitte,13,,
-9033WJ,Spoorstrjitte,14,,
-9033WJ,Spoorstrjitte,15,,
-9033WJ,Spoorstrjitte,17,,
-9033WJ,Spoorstrjitte,18,,
-9033WJ,Spoorstrjitte,19,,
-9033WJ,Spoorstrjitte,2,,
-9033WJ,Spoorstrjitte,21,,
-9033WJ,Spoorstrjitte,2,A,
-9033WJ,Spoorstrjitte,2,B,
-9033WJ,Spoorstrjitte,2,C,
-9033WJ,Spoorstrjitte,2,D,
-9033WJ,Spoorstrjitte,4,,
-9033WJ,Spoorstrjitte,5,,
-9033WJ,Spoorstrjitte,6,,
-9033WJ,Spoorstrjitte,7,,
-9033WJ,Spoorstrjitte,7,A,
-9033WJ,Spoorstrjitte,8,,
-9033WJ,Spoorstrjitte,9,,
-9033WJ,Spoorstrjitte,9,A,
-9033WJ,Spoorstrjitte,7,B,
-9033WM,Spoorstrjitte,7,B,
-9033XT,De Strikel,1,,
-9033XT,De Strikel,2,,
-9033XT,De Strikel,3,,
-9033XT,De Strikel,4,,
-9033XT,De Strikel,5,,
-9033XT,De Strikel,7,,
-9033XT,De Strikel,8,,
-9033XT,De Strikel,9,,
-9033XP,It Swee,1,,
-9033XP,It Swee,10,,
-9033XP,It Swee,2,,
-9033XP,It Swee,4,,
-9033XP,It Swee,6,,
-9033XP,It Swee,8,,
-9033XA,Sjouke de Zeestrjitte,10,,
-9033XA,Sjouke de Zeestrjitte,10,A,
-9033XA,Sjouke de Zeestrjitte,12,,
-9033XA,Sjouke de Zeestrjitte,14,,
-9033XA,Sjouke de Zeestrjitte,16,,
-9033XA,Sjouke de Zeestrjitte,18,,
-9033XA,Sjouke de Zeestrjitte,2,,
-9033XA,Sjouke de Zeestrjitte,20,,
-9033XA,Sjouke de Zeestrjitte,22,,
-9033XA,Sjouke de Zeestrjitte,24,,
-9033XA,Sjouke de Zeestrjitte,26,,
-9033XA,Sjouke de Zeestrjitte,28,,
-9033XA,Sjouke de Zeestrjitte,30,,
-9033XA,Sjouke de Zeestrjitte,32,,
-9033XA,Sjouke de Zeestrjitte,34,,
-9033XA,Sjouke de Zeestrjitte,36,,
-9033XA,Sjouke de Zeestrjitte,38,,
-9033XA,Sjouke de Zeestrjitte,4,,
-9033XA,Sjouke de Zeestrjitte,40,,
-9033XA,Sjouke de Zeestrjitte,6,,
-9033XA,Sjouke de Zeestrjitte,8,,
-9033XB,Sjouke de Zeestrjitte,1,,
-9033XB,Sjouke de Zeestrjitte,11,,
-9033XB,Sjouke de Zeestrjitte,13,,
-9033XB,Sjouke de Zeestrjitte,13,A,
-9033XB,Sjouke de Zeestrjitte,13,B,
-9033XB,Sjouke de Zeestrjitte,13,C,
-9033XB,Sjouke de Zeestrjitte,13,D,
-9033XB,Sjouke de Zeestrjitte,13,E,
-9033XB,Sjouke de Zeestrjitte,17,,
-9033XB,Sjouke de Zeestrjitte,19,,
-9033XB,Sjouke de Zeestrjitte,1,A,
-9033XB,Sjouke de Zeestrjitte,21,,
-9033XB,Sjouke de Zeestrjitte,23,,
-9033XB,Sjouke de Zeestrjitte,25,,
-9033XB,Sjouke de Zeestrjitte,27,,
-9033XB,Sjouke de Zeestrjitte,29,,
-9033XB,Sjouke de Zeestrjitte,3,,
-9033XB,Sjouke de Zeestrjitte,31,,
-9033XB,Sjouke de Zeestrjitte,33,,
-9033XB,Sjouke de Zeestrjitte,35,,
-9033XB,Sjouke de Zeestrjitte,37,,
-9033XB,Sjouke de Zeestrjitte,39,,
-9033XB,Sjouke de Zeestrjitte,41,,
-9033XB,Sjouke de Zeestrjitte,5,,
-9033XB,Sjouke de Zeestrjitte,7,,
-9033XB,Sjouke de Zeestrjitte,9,,
-9033WV,Bûterhoeke,1,,
-9033XJ,Heechpaed,2,,
-9033XJ,Heechpaed,8,,
-9033XJ,Heechpaed,13,,
-9033WZ,Sportleane,22,,
-9033WZ,Sportleane,3,A,
-9033WZ,Sportleane,3,,
-9033WZ,Sportleane,3,B,
-9033WZ,Sportleane,3,C,
-9033WZ,Sportleane,3,D,
-9033WH,It Holt,17,,
-9033WL,Sint Janswei,1,A,
-9033WN,Sint Janswei,11,,
-9033WN,Sint Janswei,28,,
-9033WP,Sint Janswei,54,,
-9033XK,Pypsterhôf,25,,
-9033XM,Pypsterhôf,14,,
-9033XB,Sjouke de Zeestrjitte,15,,
-9033WK,De Spartaan,9,,
-9033WK,De Spartaan,11,,
-9033WM,Troch de Koer,1,,
-9033WM,Troch de Koer,24,,
-9033WM,Troch de Koer,32,,
-9033WM,Troch de Koer,22,,
-9033WM,Troch de Koer,34,,
-9033WW,De tredde Keats,4,,
-9033WW,De Tredde Keats,4,,
-9033WW,De tredde Keats,7,,
-9033WW,De Tredde Keats,7,,
-9033XH,Skoallestrjitte,1,,
-9033XH,Skoallestrjitte,3,,
-9033XH,Skoallestrjitte,5,,
-9033XH,Skoallestrjitte,7,,
-9033WH,It Holt,26,,
-9033WN,Sint Janswei,44,,
-9033WK,De Spartaan,2,,
-9033WK,De Spartaan,4,,
-9033WK,De Spartaan,6,,
-9033WK,De Spartaan,8,,
-9033WK,De Spartaan,10,,
-9033WK,De Spartaan,12,,
-9033WK,De Spartaan,14,,
-9033WK,De Spartaan,3,,
-9033WK,De Spartaan,5,,
-9033WM,Troch de Koer,30,,
-9033WM,Troch de Koer,13,,
-9033WM,Troch de Koer,11,,
-9033WM,Troch de Koer,5,,
-9033WM,Troch de Koer,28,,
-9033WM,Troch de Koer,3,,
-9033WM,Troch de Koer,26,,
-9033WM,Troch de Koer,7,,
-9033WM,Troch de Koer,9,,
-9033WM,Troch de Koer,2,,
-9033WM,Troch de Koer,4,,
-9033WM,Troch de Koer,6,,
-9033WM,Troch de Koer,8,,
-9033WM,Troch de Koer,10,,
-9033WM,Troch de Koer,12,,
-9033WM,Troch de Koer,14,,
-9033WM,Troch de Koer,16,,
-9033WM,Troch de Koer,18,,
-9033WM,Troch de Koer,20,,
-9033WW,De tredde Keats,6,,
-9033WW,De Tredde Keats,6,,
-9033WW,De tredde Keats,3,,
-9033WW,De Tredde Keats,3,,
-9033WW,De tredde Keats,8,,
-9033WW,De Tredde Keats,8,,
-9033WW,De tredde Keats,1,,
-9033WW,De Tredde Keats,1,,
-9033WW,De tredde Keats,2,,
-9033WW,De Tredde Keats,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+It Holt,1,"","",9033WH,Deinum
+It Holt,10,"","",9033WH,Deinum
+It Holt,11,"","",9033WH,Deinum
+It Holt,12,"","",9033WH,Deinum
+It Holt,13,"","",9033WH,Deinum
+It Holt,14,"","",9033WH,Deinum
+It Holt,16,"","",9033WH,Deinum
+It Holt,18,"","",9033WH,Deinum
+It Holt,20,"","",9033WH,Deinum
+It Holt,22,"","",9033WH,Deinum
+It Holt,24,"","",9033WH,Deinum
+It Holt,3,"","",9033WH,Deinum
+It Holt,3,A,"",9033WH,Deinum
+It Holt,5,"","",9033WH,Deinum
+It Holt,6,"","",9033WH,Deinum
+It Holt,6,A,"",9033WH,Deinum
+It Holt,6,B,"",9033WH,Deinum
+It Holt,6,B,"",9033WH,Deinum
+It Holt,7,"","",9033WH,Deinum
+It Holt,8,"","",9033WH,Deinum
+It Holt,9,"","",9033WH,Deinum
+Spoorstrjitte,11,"","",9033WJ,Deinum
+Spoorstrjitte,11,A,"",9033WJ,Deinum
+Spoorstrjitte,11,B,"",9033WJ,Deinum
+Spoorstrjitte,11,B,"",9033WJ,Deinum
+Spoorstrjitte,12,"","",9033WJ,Deinum
+Spoorstrjitte,12,B,"",9033WJ,Deinum
+Spoorstrjitte,13,"","",9033WJ,Deinum
+Spoorstrjitte,14,"","",9033WJ,Deinum
+Spoorstrjitte,15,"","",9033WJ,Deinum
+Spoorstrjitte,17,"","",9033WJ,Deinum
+Spoorstrjitte,18,"","",9033WJ,Deinum
+Spoorstrjitte,18,"","",9033WJ,Deinum
+Spoorstrjitte,19,"","",9033WJ,Deinum
+Spoorstrjitte,2,"","",9033WJ,Deinum
+Spoorstrjitte,2,A,"",9033WJ,Deinum
+Spoorstrjitte,2,B,"",9033WJ,Deinum
+Spoorstrjitte,2,C,"",9033WJ,Deinum
+Spoorstrjitte,2,D,"",9033WJ,Deinum
+Spoorstrjitte,21,"","",9033WJ,Deinum
+Spoorstrjitte,4,"","",9033WJ,Deinum
+Spoorstrjitte,5,"","",9033WJ,Deinum
+Spoorstrjitte,6,"","",9033WJ,Deinum
+Spoorstrjitte,7,"","",9033WJ,Deinum
+Spoorstrjitte,7,A,"",9033WJ,Deinum
+Spoorstrjitte,7,B,"",9033WJ,Deinum
+Spoorstrjitte,8,"","",9033WJ,Deinum
+Spoorstrjitte,9,"","",9033WJ,Deinum
+Spoorstrjitte,9,A,"",9033WJ,Deinum
+Sint Janswei,1,"","",9033WL,Deinum
+Sint Janswei,1,A,"",9033WL,Deinum
+Sint Janswei,1,A,"",9033WL,Deinum
+Sint Janswei,10,"","",9033WL,Deinum
+Sint Janswei,12,"","",9033WL,Deinum
+Sint Janswei,14,"","",9033WL,Deinum
+Sint Janswei,16,"","",9033WL,Deinum
+Sint Janswei,2,"","",9033WL,Deinum
+Sint Janswei,20,"","",9033WL,Deinum
+Sint Janswei,22,"","",9033WL,Deinum
+Sint Janswei,24,"","",9033WL,Deinum
+Sint Janswei,4,"","",9033WL,Deinum
+Sint Janswei,6,"","",9033WL,Deinum
+Sint Janswei,8,"","",9033WL,Deinum
+Spoorstrjitte,7,B,"",9033WM,Deinum
+Sint Janswei,11,A,"",9033WN,Deinum
+Sint Janswei,13,"","",9033WN,Deinum
+Sint Janswei,3,"","",9033WN,Deinum
+Sint Janswei,32,"","",9033WN,Deinum
+Sint Janswei,34,"","",9033WN,Deinum
+Sint Janswei,36,"","",9033WN,Deinum
+Sint Janswei,38,"","",9033WN,Deinum
+Sint Janswei,40,"","",9033WN,Deinum
+Sint Janswei,42,"","",9033WN,Deinum
+Sint Janswei,44,"","",9033WN,Deinum
+Sint Janswei,44,"","",9033WN,Deinum
+Sint Janswei,46,"","",9033WN,Deinum
+Sint Janswei,5,"","",9033WN,Deinum
+Sint Janswei,7,"","",9033WN,Deinum
+Sint Janswei,7,A,"",9033WN,Deinum
+Sint Janswei,9,"","",9033WN,Deinum
+Sint Janswei,9,A,"",9033WN,Deinum
+Sint Janswei,17,"","",9033WP,Deinum
+Sint Janswei,19,"","",9033WP,Deinum
+Sint Janswei,23,"","",9033WP,Deinum
+Sint Janswei,25,"","",9033WP,Deinum
+Sint Janswei,27,"","",9033WP,Deinum
+Sint Janswei,29,"","",9033WP,Deinum
+Sint Janswei,31,"","",9033WP,Deinum
+Sint Janswei,33,"","",9033WP,Deinum
+Sint Janswei,39,"","",9033WP,Deinum
+Sint Janswei,43,"","",9033WP,Deinum
+Sint Janswei,45,"","",9033WP,Deinum
+Sint Janswei,45,A,"",9033WP,Deinum
+Sint Janswei,45,A,"",9033WP,Deinum
+Sint Janswei,45,B,"",9033WP,Deinum
+Sint Janswei,45,B,"",9033WP,Deinum
+Sint Janswei,47,"","",9033WP,Deinum
+Sint Janswei,48,"","",9033WP,Deinum
+Sint Janswei,49,"","",9033WP,Deinum
+Sint Janswei,50,"","",9033WP,Deinum
+Sint Janswei,52,"","",9033WP,Deinum
+Sint Janswei,51,"","",9033WR,Deinum
+Sint Janswei,53,"","",9033WR,Deinum
+Sint Janswei,55,"","",9033WR,Deinum
+Sint Janswei,56,"","",9033WR,Deinum
+Sint Janswei,58,"","",9033WR,Deinum
+Sint Janswei,60,"","",9033WR,Deinum
+Sint Janswei,62,"","",9033WR,Deinum
+Sint Janswei,64,"","",9033WR,Deinum
+Sint Janswei,66,"","",9033WR,Deinum
+Sint Janswei,68,"","",9033WR,Deinum
+Sint Janswei,57,"","",9033WS,Deinum
+Sint Janswei,59,"","",9033WS,Deinum
+Sint Janswei,61,"","",9033WS,Deinum
+Sint Janswei,61,A,"",9033WS,Deinum
+Sint Janswei,82,"","",9033WS,Deinum
+Sint Janswei,84,"","",9033WS,Deinum
+Sint Janswei,86,"","",9033WS,Deinum
+Sint Janswei,88,"","",9033WS,Deinum
+Sint Janswei,90,"","",9033WS,Deinum
+Sint Janswei,92,"","",9033WS,Deinum
+Tsjerkepaed,1,"","",9033WT,Deinum
+Tsjerkepaed,10,"","",9033WT,Deinum
+Tsjerkepaed,11,"","",9033WT,Deinum
+Tsjerkepaed,13,"","",9033WT,Deinum
+Tsjerkepaed,15,"","",9033WT,Deinum
+Tsjerkepaed,17,"","",9033WT,Deinum
+Tsjerkepaed,19,"","",9033WT,Deinum
+Tsjerkepaed,3,"","",9033WT,Deinum
+Tsjerkepaed,3,A,"",9033WT,Deinum
+Tsjerkepaed,5,"","",9033WT,Deinum
+Tsjerkepaed,6,"","",9033WT,Deinum
+Tsjerkepaed,7,"","",9033WT,Deinum
+Tsjerkepaed,8,"","",9033WT,Deinum
+Tsjerkepaed,9,"","",9033WT,Deinum
+Bûterhoeke,3,"","",9033WV,Deinum
+Bûterhoeke,4,"","",9033WV,Deinum
+Bûterhoeke,6,"","",9033WV,Deinum
+Bûterhoeke,8,"","",9033WV,Deinum
+Sportleane,1,"","",9033WZ,Deinum
+Sportleane,10,"","",9033WZ,Deinum
+Sportleane,11,"","",9033WZ,Deinum
+Sportleane,12,"","",9033WZ,Deinum
+Sportleane,16,"","",9033WZ,Deinum
+Sportleane,16,"","",9033WZ,Deinum
+Sportleane,18,"","",9033WZ,Deinum
+Sportleane,2,"","",9033WZ,Deinum
+Sportleane,20,"","",9033WZ,Deinum
+Sportleane,3,A,"",9033WZ,Deinum
+Sportleane,3,A,"",9033WZ,Deinum
+Sportleane,3,B,"",9033WZ,Deinum
+Sportleane,3,B,"",9033WZ,Deinum
+Sportleane,4,"","",9033WZ,Deinum
+Sportleane,5,"","",9033WZ,Deinum
+Sportleane,6,"","",9033WZ,Deinum
+Sportleane,8,"","",9033WZ,Deinum
+Sportleane,9,"","",9033WZ,Deinum
+Sjouke de Zeestrjitte,10,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,10,A,"",9033XA,Deinum
+Sjouke de Zeestrjitte,12,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,14,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,16,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,18,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,2,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,20,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,22,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,24,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,26,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,28,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,30,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,32,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,34,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,36,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,38,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,4,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,40,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,6,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,8,"","",9033XA,Deinum
+Sjouke de Zeestrjitte,1,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,1,A,"",9033XB,Deinum
+Sjouke de Zeestrjitte,11,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,13,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,13,A,"",9033XB,Deinum
+Sjouke de Zeestrjitte,13,B,"",9033XB,Deinum
+Sjouke de Zeestrjitte,13,C,"",9033XB,Deinum
+Sjouke de Zeestrjitte,13,D,"",9033XB,Deinum
+Sjouke de Zeestrjitte,13,E,"",9033XB,Deinum
+Sjouke de Zeestrjitte,17,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,19,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,21,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,23,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,25,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,27,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,29,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,3,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,31,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,33,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,35,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,37,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,39,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,41,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,5,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,7,"","",9033XB,Deinum
+Sjouke de Zeestrjitte,9,"","",9033XB,Deinum
+Feytsmahôf,1,"","",9033XC,Deinum
+Feytsmahôf,11,"","",9033XC,Deinum
+Feytsmahôf,13,"","",9033XC,Deinum
+Feytsmahôf,15,"","",9033XC,Deinum
+Feytsmahôf,2,"","",9033XC,Deinum
+Feytsmahôf,3,"","",9033XC,Deinum
+Feytsmahôf,4,"","",9033XC,Deinum
+Feytsmahôf,5,"","",9033XC,Deinum
+Feytsmahôf,6,"","",9033XC,Deinum
+Feytsmahôf,7,"","",9033XC,Deinum
+Feytsmahôf,8,"","",9033XC,Deinum
+Feytsmahôf,9,"","",9033XC,Deinum
+Mennerdahôf,10,"","",9033XE,Deinum
+Mennerdahôf,12,"","",9033XE,Deinum
+Mennerdahôf,16,"","",9033XE,Deinum
+Mennerdahôf,18,"","",9033XE,Deinum
+Mennerdahôf,2,"","",9033XE,Deinum
+Mennerdahôf,20,"","",9033XE,Deinum
+Mennerdahôf,22,"","",9033XE,Deinum
+Mennerdahôf,24,"","",9033XE,Deinum
+Mennerdahôf,26,"","",9033XE,Deinum
+Mennerdahôf,28,"","",9033XE,Deinum
+Mennerdahôf,4,"","",9033XE,Deinum
+Mennerdahôf,6,"","",9033XE,Deinum
+Mennerdahôf,8,"","",9033XE,Deinum
+Mennerdahôf,1,"","",9033XG,Deinum
+Mennerdahôf,11,"","",9033XG,Deinum
+Mennerdahôf,13,"","",9033XG,Deinum
+Mennerdahôf,15,"","",9033XG,Deinum
+Mennerdahôf,17,"","",9033XG,Deinum
+Mennerdahôf,19,"","",9033XG,Deinum
+Mennerdahôf,21,"","",9033XG,Deinum
+Mennerdahôf,23,"","",9033XG,Deinum
+Mennerdahôf,25,"","",9033XG,Deinum
+Mennerdahôf,27,"","",9033XG,Deinum
+Mennerdahôf,29,"","",9033XG,Deinum
+Mennerdahôf,3,"","",9033XG,Deinum
+Mennerdahôf,31,"","",9033XG,Deinum
+Mennerdahôf,33,"","",9033XG,Deinum
+Mennerdahôf,35,"","",9033XG,Deinum
+Mennerdahôf,37,"","",9033XG,Deinum
+Mennerdahôf,39,"","",9033XG,Deinum
+Mennerdahôf,41,"","",9033XG,Deinum
+Mennerdahôf,43,"","",9033XG,Deinum
+Mennerdahôf,45,"","",9033XG,Deinum
+Mennerdahôf,47,"","",9033XG,Deinum
+Mennerdahôf,5,"","",9033XG,Deinum
+Mennerdahôf,7,"","",9033XG,Deinum
+Mennerdahôf,9,"","",9033XG,Deinum
+Skoallestrjitte,1,"","",9033XH,Deinum
+Skoallestrjitte,1,"","",9033XH,Deinum
+Skoallestrjitte,11,"","",9033XH,Deinum
+Skoallestrjitte,11,A,"",9033XH,Deinum
+Skoallestrjitte,2,"","",9033XH,Deinum
+Skoallestrjitte,2,A,"",9033XH,Deinum
+De Seine,21,"","",9033XH,Deinum
+De Seine,23,"","",9033XH,Deinum
+De Seine,25,"","",9033XH,Deinum
+De Seine,27,"","",9033XH,Deinum
+Skoallestrjitte,3,"","",9033XH,Deinum
+Skoallestrjitte,3,"","",9033XH,Deinum
+Skoallestrjitte,4,"","",9033XH,Deinum
+Skoallestrjitte,5,"","",9033XH,Deinum
+Skoallestrjitte,5,"","",9033XH,Deinum
+Skoallestrjitte,6,"","",9033XH,Deinum
+Skoallestrjitte,7,"","",9033XH,Deinum
+Skoallestrjitte,7,"","",9033XH,Deinum
+Skoallestrjitte,8,"","",9033XH,Deinum
+Skoallestrjitte,9,"","",9033XH,Deinum
+Heechpaed,1,"","",9033XJ,Deinum
+Heechpaed,10,"","",9033XJ,Deinum
+Heechpaed,11,"","",9033XJ,Deinum
+Heechpaed,12,"","",9033XJ,Deinum
+Heechpaed,15,"","",9033XJ,Deinum
+Heechpaed,19,"","",9033XJ,Deinum
+Heechpaed,3,"","",9033XJ,Deinum
+Heechpaed,4,"","",9033XJ,Deinum
+Heechpaed,6,"","",9033XJ,Deinum
+Heechpaed,7,"","",9033XJ,Deinum
+Heechpaed,9,"","",9033XJ,Deinum
+Pypsterhôf,1,"","",9033XK,Deinum
+Pypsterhôf,11,"","",9033XK,Deinum
+Pypsterhôf,13,"","",9033XK,Deinum
+Pypsterhôf,15,"","",9033XK,Deinum
+Pypsterhôf,17,"","",9033XK,Deinum
+Pypsterhôf,19,"","",9033XK,Deinum
+Pypsterhôf,21,"","",9033XK,Deinum
+Pypsterhôf,23,"","",9033XK,Deinum
+Pypsterhôf,27,"","",9033XK,Deinum
+Pypsterhôf,29,"","",9033XK,Deinum
+Pypsterhôf,3,"","",9033XK,Deinum
+Pypsterhôf,31,"","",9033XK,Deinum
+Pypsterhôf,33,"","",9033XK,Deinum
+Pypsterhôf,35,"","",9033XK,Deinum
+Pypsterhôf,35,A,"",9033XK,Deinum
+Pypsterhôf,35,B,"",9033XK,Deinum
+Pypsterhôf,5,"","",9033XK,Deinum
+Pypsterhôf,7,"","",9033XK,Deinum
+Pypsterhôf,9,"","",9033XK,Deinum
+Pypsterhôf,37,"","",9033XL,Deinum
+Pypsterhôf,39,"","",9033XL,Deinum
+Pypsterhôf,41,"","",9033XL,Deinum
+Pypsterhôf,43,"","",9033XL,Deinum
+Pypsterhôf,10,"","",9033XM,Deinum
+Pypsterhôf,12,"","",9033XM,Deinum
+Pypsterhôf,16,"","",9033XM,Deinum
+Pypsterhôf,2,"","",9033XM,Deinum
+Pypsterhôf,22,"","",9033XM,Deinum
+Pypsterhôf,24,"","",9033XM,Deinum
+Pypsterhôf,26,"","",9033XM,Deinum
+Pypsterhôf,28,"","",9033XM,Deinum
+Pypsterhôf,6,"","",9033XM,Deinum
+Pypsterhôf,8,"","",9033XM,Deinum
+Pypsterhôf,30,"","",9033XN,Deinum
+Pypsterhôf,32,"","",9033XN,Deinum
+Pypsterhôf,34,"","",9033XN,Deinum
+Pypsterhôf,36,"","",9033XN,Deinum
+Pypsterhôf,38,"","",9033XN,Deinum
+Pypsterhôf,40,"","",9033XN,Deinum
+Pypsterhôf,42,"","",9033XN,Deinum
+Pypsterhôf,44,"","",9033XN,Deinum
+Pypsterhôf,46,"","",9033XN,Deinum
+Pypsterhôf,48,"","",9033XN,Deinum
+Pypsterhôf,50,"","",9033XN,Deinum
+Pypsterhôf,52,"","",9033XN,Deinum
+It Swee,1,"","",9033XP,Deinum
+It Swee,10,"","",9033XP,Deinum
+It Swee,2,"","",9033XP,Deinum
+It Swee,4,"","",9033XP,Deinum
+It Swee,6,"","",9033XP,Deinum
+It Swee,8,"","",9033XP,Deinum
+De Gersdroegerij,1,"","",9033XR,Deinum
+De Gersdroegerij,10,"","",9033XR,Deinum
+De Gersdroegerij,2,"","",9033XR,Deinum
+De Gersdroegerij,3,"","",9033XR,Deinum
+De Gersdroegerij,4,"","",9033XR,Deinum
+De Gersdroegerij,5,"","",9033XR,Deinum
+De Gersdroegerij,6,"","",9033XR,Deinum
+De Gersdroegerij,7,"","",9033XR,Deinum
+De Gersdroegerij,8,"","",9033XR,Deinum
+De Gersdroegerij,9,"","",9033XR,Deinum
+It Harspit,1,"","",9033XS,Deinum
+It Harspit,2,"","",9033XS,Deinum
+It Harspit,3,"","",9033XS,Deinum
+It Harspit,4,"","",9033XS,Deinum
+It Harspit,5,"","",9033XS,Deinum
+It Harspit,6,"","",9033XS,Deinum
+It Harspit,8,"","",9033XS,Deinum
+De Strikel,1,"","",9033XT,Deinum
+De Strikel,2,"","",9033XT,Deinum
+De Strikel,3,"","",9033XT,Deinum
+De Strikel,4,"","",9033XT,Deinum
+De Strikel,5,"","",9033XT,Deinum
+De Strikel,7,"","",9033XT,Deinum
+De Strikel,8,"","",9033XT,Deinum
+De Strikel,9,"","",9033XT,Deinum
+De Seine,10,"","",9033XV,Deinum
+De Seine,12,"","",9033XV,Deinum
+De Seine,13,"","",9033XV,Deinum
+De Seine,14,"","",9033XV,Deinum
+De Seine,15,"","",9033XV,Deinum
+De Seine,16,"","",9033XV,Deinum
+De Seine,17,"","",9033XV,Deinum
+De Seine,19,"","",9033XV,Deinum
+De Seine,2,"","",9033XV,Deinum
+De Seine,4,"","",9033XV,Deinum
+De Seine,6,"","",9033XV,Deinum
+De Seine,7,"","",9033XV,Deinum
+De Seine,8,"","",9033XV,Deinum
+De Seine,9,"","",9033XV,Deinum
+De Eker,1,"","",9033XW,Deinum
+De Eker,2,"","",9033XW,Deinum
+De Eker,3,"","",9033XW,Deinum
+De Eker,4,"","",9033XW,Deinum
+De Eker,5,"","",9033XW,Deinum
+De Harke,1,"","",9033XX,Deinum
+De Harke,2,"","",9033XX,Deinum
+De Harke,3,"","",9033XX,Deinum
+De Swylder,2,"","",9033XZ,Deinum
+De Swylder,4,"","",9033XZ,Deinum

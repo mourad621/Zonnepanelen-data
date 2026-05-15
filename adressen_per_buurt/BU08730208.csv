@@ -1,69 +1,69 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4641PJ,Havenweg,1,,
-4641PJ,Havenweg,2,,
-4641PA,Nieuwe Dijk,1,,
-4641PA,Nieuwe Dijk,2,,
-4641PA,Nieuwe Dijk,3,,
-4641PA,Nieuwe Dijk,4,,
-4641SV,Plaatsluis,1,a,
-4641SV,Plaatsluis,2,,
-4641SV,Plaatsluis,3,,
-4641SV,Plaatsluis,4,,
-4641PC,Zuidpolderdijk,1,,
-4641PC,Zuidpolderdijk,9,,
-4641TB,Leemberg,6,,
-4641TB,Leemberg,7,,
-4641TB,Leemberg,8,,
-4641TB,Leemberg,9,,
-4641TB,Leemberg,10,,
-4641TB,Leemberg,16,,
-4641TB,Leemberg,17,,
-4641TB,Leemberg,18,,
-4641TB,Leemberg,19,,
-4641TB,Leemberg,25,,
-4641TB,Leemberg,29,,
-4641TB,Leemberg,33,,
-4641PH,De Maareberg,1,,
-4641PH,De Maareberg,5,,
-4641PH,De Maareberg,6,,
-4641PH,De Maareberg,7,,
-4641PH,De Maareberg,25,,
-4641PD,Oude Dijk,1,a,
-4641PD,Oude Dijk,1,,
-4641PD,Oude Dijk,3,,
-4641PD,Oude Dijk,5,,
-4641PD,Oude Dijk,7,,
-4641PD,Oude Dijk,9,a,
-4641PD,Oude Dijk,11,,
-4641PD,Oude Dijk,15,,
-4641PD,Oude Dijk,17,,
-4641PL,Naar het Leen,1,,
-4641JM,Kasteelstraat,5,,
-4641RA,Langeweg,7,,
-4641RA,Langeweg,20,,
-4641RA,Langeweg,26,,
-4641RA,Langeweg,32,,
-4641RA,Langeweg,39,,
-4641PB,Armendijk,3,,
-4641PJ,Havenweg,3,,
-4641SV,Plaatsluis,1,,
-4641PN,Schenkeldijk,4,,
-4641PC,Zuidpolderdijk,11,,
-4641TB,Leemberg,12,,
-4641TB,Leemberg,22,,
-4641TB,Leemberg,8,,
-4641TB,Leemberg,8,a,
-4641PH,De Maareberg,3,,
-4641PD,Oude Dijk,19,,
-4641PD,Oude Dijk,9,,
-4641PD,Oude Dijk,4,,
-4641PK,Hinkelenoorddijk,1,,
-4641JM,Kasteelstraat,11,,
-4641JM,Kasteelstraat,1,,
-4641JM,Kasteelstraat,9,,
-4641JM,Kasteelstraat,11,,
-4641RA,Langeweg,51,,
-4641RA,Langeweg,38,,
-4641RA,Langeweg,10,,
-4641RA,Langeweg,40,,
-4641PC,Abdijlaan,43,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Kasteelstraat,1,"","",4641JM,Ossendrecht
+Kasteelstraat,11,"","",4641JM,Ossendrecht
+Kasteelstraat,11,"","",4641JM,Ossendrecht
+Kasteelstraat,5,"","",4641JM,Ossendrecht
+Kasteelstraat,9,"","",4641JM,Ossendrecht
+Nieuwe Dijk,1,"","",4641PA,Ossendrecht
+Nieuwe Dijk,2,"","",4641PA,Ossendrecht
+Nieuwe Dijk,3,"","",4641PA,Ossendrecht
+Nieuwe Dijk,4,"","",4641PA,Ossendrecht
+Armendijk,3,"","",4641PB,Ossendrecht
+Zuidpolderdijk,1,"","",4641PC,Ossendrecht
+Zuidpolderdijk,11,"","",4641PC,Ossendrecht
+Abdijlaan,43,A,"",4641PC,Ossendrecht
+Zuidpolderdijk,9,"","",4641PC,Ossendrecht
+Oude Dijk,1,"","",4641PD,Ossendrecht
+Oude Dijk,1,A,"",4641PD,Ossendrecht
+Oude Dijk,11,"","",4641PD,Ossendrecht
+Oude Dijk,15,"","",4641PD,Ossendrecht
+Oude Dijk,17,"","",4641PD,Ossendrecht
+Oude Dijk,19,"","",4641PD,Ossendrecht
+Oude Dijk,3,"","",4641PD,Ossendrecht
+Oude Dijk,4,"","",4641PD,Ossendrecht
+Oude Dijk,5,"","",4641PD,Ossendrecht
+Oude Dijk,7,"","",4641PD,Ossendrecht
+Oude Dijk,9,"","",4641PD,Ossendrecht
+Oude Dijk,9,A,"",4641PD,Ossendrecht
+De Maareberg,1,"","",4641PH,Ossendrecht
+De Maareberg,25,"","",4641PH,Ossendrecht
+De Maareberg,3,"","",4641PH,Ossendrecht
+De Maareberg,5,"","",4641PH,Ossendrecht
+De Maareberg,6,"","",4641PH,Ossendrecht
+De Maareberg,7,"","",4641PH,Ossendrecht
+Havenweg,1,"","",4641PJ,Ossendrecht
+Havenweg,2,"","",4641PJ,Ossendrecht
+Havenweg,3,"","",4641PJ,Ossendrecht
+Hinkelenoorddijk,1,"","",4641PK,Ossendrecht
+Naar het Leen,1,"","",4641PL,Ossendrecht
+Schenkeldijk,4,"","",4641PN,Ossendrecht
+Langeweg,10,"","",4641RA,Ossendrecht
+Langeweg,20,"","",4641RA,Ossendrecht
+Langeweg,26,"","",4641RA,Ossendrecht
+Langeweg,32,"","",4641RA,Ossendrecht
+Langeweg,38,"","",4641RA,Ossendrecht
+Langeweg,39,"","",4641RA,Ossendrecht
+Langeweg,40,"","",4641RA,Ossendrecht
+Langeweg,51,"","",4641RA,Ossendrecht
+Langeweg,7,"","",4641RA,Ossendrecht
+Plaatsluis,1,"","",4641SV,Ossendrecht
+Plaatsluis,1,A,"",4641SV,Ossendrecht
+Plaatsluis,2,"","",4641SV,Ossendrecht
+Plaatsluis,3,"","",4641SV,Ossendrecht
+Plaatsluis,4,"","",4641SV,Ossendrecht
+Leemberg,10,"","",4641TB,Ossendrecht
+Leemberg,12,"","",4641TB,Ossendrecht
+Leemberg,16,"","",4641TB,Ossendrecht
+Leemberg,17,"","",4641TB,Ossendrecht
+Leemberg,18,"","",4641TB,Ossendrecht
+Leemberg,19,"","",4641TB,Ossendrecht
+Leemberg,22,"","",4641TB,Ossendrecht
+Leemberg,25,"","",4641TB,Ossendrecht
+Leemberg,29,"","",4641TB,Ossendrecht
+Leemberg,33,"","",4641TB,Ossendrecht
+Leemberg,6,"","",4641TB,Ossendrecht
+Leemberg,7,"","",4641TB,Ossendrecht
+Leemberg,8,"","",4641TB,Ossendrecht
+Leemberg,8,"","",4641TB,Ossendrecht
+Leemberg,8,A,"",4641TB,Ossendrecht
+Leemberg,9,"","",4641TB,Ossendrecht

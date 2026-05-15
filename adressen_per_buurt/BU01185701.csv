@@ -1,768 +1,397 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7911TA",60,"",""
-"7911TA",62,"",""
-"7911TA",60,"",""
-"7911TA",58,"",""
-"7911TA",64,"",""
-"7911TA",58,"a",""
-"7911TB",95,"",""
-"7911TB",85,"",""
-"7911TB",111,"",""
-"7911TB",105,"T",""
-"7911TB",97,"",""
-"7911TB",115,"a",""
-"7911TB",115,"",""
-"7911TB",113,"",""
-"7911TB",117,"",""
-"7911TB",99,"",""
-"7911TB",85,"",""
-"7911TB",107,"",""
-"7911TB",105,"",""
-"7911TB",85,"a",""
-"7911TB",105,"T",""
-"7911TB",95,"a",""
-"7911TB",109,"",""
-"7911TB",87,"",""
-"7911TB",85,"a",""
-"7911TB",85,"",""
-"7911TB",95,"b",""
-"7911TB",93,"a",""
-"7911TB",93,"a","1"
-"7911TB",101,"",""
-"7911TB",93,"a",""
-"7911TB",93,"b",""
-"7911TB",91,"",""
-"7911TB",93,"",""
-"7911TB",85,"",""
-"7911TB",83,"",""
-"7911TB",89,"",""
-"7911TB",87,"a",""
-"7911TC",9,"",""
-"7911TC",13,"a",""
-"7911TC",13,"b",""
-"7911TC",13,"",""
-"7911TC",11,"",""
-"7911TC",9,"a",""
-"7911TC",15,"",""
-"7911TC",13,"b",""
-"7911TC",17,"",""
-"7911TD",19,"a",""
-"7911TD",9,"",""
-"7911TD",21,"",""
-"7911TD",23,"",""
-"7911TD",17,"a","4"
-"7911TD",7,"",""
-"7911TD",11,"",""
-"7911TD",17,"a","3"
-"7911TD",17,"a","7"
-"7911TD",17,"a","5"
-"7911TD",19,"a",""
-"7911TD",17,"a",""
-"7911TD",17,"a","1"
-"7911TD",17,"a","6"
-"7911TD",19,"",""
-"7911TD",17,"a",""
-"7911TD",15,"",""
-"7911TD",13,"",""
-"7911TD",17,"a",""
-"7911TD",17,"a","2"
-"7911TD",17,"",""
-"7911TE",16,"",""
-"7911TE",16,"a",""
-"7911TE",10,"",""
-"7911TE",14,"a",""
-"7911TE",16,"b",""
-"7911TE",12,"",""
-"7911TE",14,"",""
-"7911TG",12,"f",""
-"7911TG",12,"e",""
-"7911TG",12,"d",""
-"7911TG",19,"",""
-"7911TG",13,"",""
-"7911TG",15,"",""
-"7911TG",12,"g",""
-"7911TG",12,"b",""
-"7911TG",15,"a",""
-"7911TG",10,"",""
-"7911TG",19,"",""
-"7911TG",12,"",""
-"7911TG",9,"",""
-"7911TG",17,"",""
-"7911TG",19,"",""
-"7911TG",12,"c",""
-"7911TG",19,"",""
-"7911TG",12,"",""
-"7911TG",12,"a",""
-"7911TG",11,"",""
-"7911TG",12,"",""
-"7911TG",19,"",""
-"7911TG",7,"",""
-"7911TG",19,"",""
-"7911TG",19,"",""
-"7911TH",183,"b",""
-"7911TH",185,"",""
-"7911TH",181,"",""
-"7911TH",167,"",""
-"7911TH",169,"",""
-"7911TH",183,"c",""
-"7911TH",175,"",""
-"7911TH",183,"a",""
-"7911TH",183,"b",""
-"7911TH",183,"b",""
-"7911TH",183,"",""
-"7911TH",179,"",""
-"7911TH",183,"a",""
-"7911TH",171,"",""
-"7911TH",183,"a",""
-"7911TH",185,"",""
-"7911TJ",4,"",""
-"7911TJ",20,"",""
-"7911TJ",4,"",""
-"7911TJ",16,"",""
-"7911TJ",10,"",""
-"7911TJ",10,"a",""
-"7911TJ",14,"b",""
-"7911TJ",14,"",""
-"7911TJ",4,"",""
-"7911TJ",8,"",""
-"7911TJ",4,"",""
-"7911TJ",22,"",""
-"7911TK",5,"",""
-"7911TM",4,"d",""
-"7911TM",7,"a",""
-"7911TM",6,"b",""
-"7911TM",7,"d",""
-"7911TM",7,"c",""
-"7911TM",7,"d",""
-"7911TM",6,"",""
-"7911TM",4,"a",""
-"7911TM",5,"a",""
-"7911TM",4,"c",""
-"7911TM",5,"a",""
-"7911TM",7,"",""
-"7911TM",8,"b",""
-"7911TM",4,"d",""
-"7911TM",7,"d",""
-"7911TM",7,"c",""
-"7911TM",3,"",""
-"7911TM",4,"b",""
-"7911TM",5,"",""
-"7911TM",4,"c",""
-"7911TM",6,"a",""
-"7911TM",1,"",""
-"7911TM",4,"",""
-"7911TM",7,"c",""
-"7911TM",4,"a",""
-"7911TM",5,"a",""
-"7911TM",4,"a",""
-"7911TM",5,"b",""
-"7911TM",4,"d",""
-"7911TM",8,"a",""
-"7911TM",8,"a",""
-"7911TM",4,"c",""
-"7911TM",8,"",""
-"7911TM",4,"b",""
-"7911TM",4,"b",""
-"7912TA",10,"",""
-"7912TA",3,"",""
-"7912TA",14,"",""
-"7912TA",1,"b",""
-"7912TA",10,"",""
-"7912TA",2,"",""
-"7912TA",1,"a",""
-"7912TA",7,"",""
-"7912TA",1,"b",""
-"7912TA",5,"",""
-"7912TA",9,"",""
-"7912TA",11,"",""
-"7912TA",16,"",""
-"7912TA",4,"",""
-"7912TA",15,"",""
-"7912TA",5,"",""
-"7912TA",1,"",""
-"7912TA",5,"",""
-"7912TA",10,"",""
-"7912TA",2,"",""
-"7912TA",2,"",""
-"7912TE",11,"b",""
-"7912TE",11,"a",""
-"7912TE",15,"",""
-"7912TE",14,"",""
-"7912TE",6,"",""
-"7912TE",12,"",""
-"7912TE",11,"",""
-"7912TE",16,"",""
-"7912TE",11,"b",""
-"7912TE",8,"",""
-"7912TE",10,"",""
-"7912TE",13,"",""
-"7912TH",67,"",""
-"7912TH",75,"",""
-"7912TH",79,"a",""
-"7912TH",69,"",""
-"7912TH",47,"a",""
-"7912TH",79,"",""
-"7912TH",77,"a",""
-"7912TH",55,"T",""
-"7912TH",49,"",""
-"7912TH",53,"",""
-"7912TH",55,"",""
-"7912TH",63,"",""
-"7912TH",77,"",""
-"7912TH",55,"T",""
-"7912TH",45,"",""
-"7912TH",51,"",""
-"7912TH",61,"",""
-"7912TH",47,"",""
-"7912TH",53,"",""
-"7912TH",65,"",""
-"7912TH",79,"b",""
-"7912TH",45,"a",""
-"7912TL",58,"a",""
-"7912TL",64,"",""
-"7912TL",60,"",""
-"7912TL",62,"",""
-"7912TL",76,"a",""
-"7912TL",76,"a",""
-"7912TL",76,"",""
-"7912TL",70,"",""
-"7912TL",72,"a",""
-"7912TL",76,"a",""
-"7912TL",68,"",""
-"7912TL",66,"",""
-"7912TL",84,"",""
-"7912TL",70,"",""
-"7912TL",50,"",""
-"7912TL",74,"",""
-"7912TL",70,"",""
-"7912TL",52,"",""
-"7912TL",50,"",""
-"7912TL",82,"",""
-"7912TL",78,"",""
-"7912TL",72,"",""
-"7912TL",78,"",""
-"7912TL",54,"",""
-"7912TL",78,"",""
-"7912TL",80,"",""
-"7912TL",58,"",""
-"7912TL",50,"",""
-"7912TN",18,"",""
-"7912TN",2,"",""
-"7912TN",22,"",""
-"7912TN",28,"",""
-"7912TN",36,"",""
-"7912TN",34,"",""
-"7912TN",4,"",""
-"7912TN",8,"",""
-"7912TN",20,"",""
-"7912TN",16,"",""
-"7912TN",6,"",""
-"7912TN",12,"",""
-"7912TN",14,"",""
-"7912TN",10,"",""
-"7912TP",24,"a",""
-"7912TP",24,"",""
-"7912TP",14,"a",""
-"7912TP",14,"",""
-"7912TP",18,"",""
-"7912TP",22,"",""
-"7912TP",20,"",""
-"7912TP",16,"",""
-"7912TP",12,"",""
-"7912TP",12,"",""
-"7912TP",15,"",""
-"7912TP",24,"b",""
-"7912TR",26,"a",""
-"7912TR",26,"",""
-"7912TR",26,"b",""
-"7912TR",28,"a",""
-"7912TR",28,"",""
-"7912TR",30,"",""
-"7912TS",2,"",""
-"7912TS",4,"",""
-"7912TT",30,"",""
-"7912TT",32,"",""
-"7912TT",34,"",""
-"7912TT",30,"a",""
-"7913VX",45,"",""
-"7913VX",105,"",""
-"7913VX",77,"",""
-"7913VX",51,"",""
-"7913VX",71,"",""
-"7913VX",71,"",""
-"7913VX",165,"",""
-"7913VX",73,"",""
-"7913VX",69,"",""
-"7913VX",175,"",""
-"7913VX",167,"",""
-"7913VX",47,"",""
-"7913VX",35,"",""
-"7913VX",95,"",""
-"7913VX",157,"",""
-"7913VX",81,"",""
-"7913VX",49,"",""
-"7913VX",169,"",""
-"7913VX",111,"",""
-"7913VX",97,"",""
-"7913VX",159,"",""
-"7913VX",67,"",""
-"7913VX",83,"",""
-"7913VX",63,"",""
-"7913VX",173,"",""
-"7913VX",65,"",""
-"7913VX",117,"",""
-"7913VX",85,"",""
-"7913VX",177,"",""
-"7913VX",91,"",""
-"7913VX",79,"",""
-"7913VX",109,"",""
-"7913VX",53,"",""
-"7913VX",43,"",""
-"7913VX",153,"",""
-"7913VX",161,"",""
-"7913VX",87,"",""
-"7913VX",101,"",""
-"7913VX",57,"",""
-"7913VX",163,"",""
-"7913VX",183,"",""
-"7913VX",155,"",""
-"7913VX",41,"",""
-"7913VX",31,"",""
-"7913VX",93,"",""
-"7913VX",181,"",""
-"7913VX",75,"",""
-"7913VX",89,"",""
-"7913VX",59,"",""
-"7913VX",103,"",""
-"7913VX",61,"",""
-"7913VX",55,"",""
-"7913VX",71,"",""
-"7913VX",37,"",""
-"7913VX",29,"",""
-"7913VX",149,"",""
-"7913VX",27,"",""
-"7913VX",125,"",""
-"7913VX",107,"",""
-"7913VX",179,"",""
-"7913VX",99,"",""
-"7913VX",145,"",""
-"7913VX",115,"",""
-"7913VX",113,"",""
-"7913VX",33,"",""
-"7913VX",187,"",""
-"7913VX",171,"",""
-"7913VX",39,"",""
-"7913VX",153,"",""
-"7913VX",185,"",""
-"7913VX",10,"",""
-"7913VX",133,"",""
-"7913VX",119,"",""
-"7913VX",121,"",""
-"7913VX",127,"",""
-"7913VX",15,"a",""
-"7913VX",147,"",""
-"7913VX",123,"",""
-"7913VX",21,"",""
-"7913VX",8,"",""
-"7913VX",15,"c",""
-"7913VX",139,"",""
-"7913VX",129,"",""
-"7913VX",135,"",""
-"7913VX",2,"a",""
-"7913VX",2,"",""
-"7913VX",15,"b",""
-"7913VX",137,"",""
-"7913VX",141,"",""
-"7913VX",153,"",""
-"7913VX",131,"",""
-"7913VX",23,"",""
-"7913VX",17,"",""
-"7913VX",19,"",""
-"7913VX",151,"",""
-"7913VX",25,"",""
-"7913VX",143,"",""
-"7913WC",46,"a",""
-"7913WC",1,"T",""
-"7913WC",5,"a",""
-"7913WC",5,"",""
-"7913WC",1,"",""
-"7913WC",3,"",""
-"7914RK",2,"",""
-"7914RK",4,"",""
-"7914RK",4,"",""
-"7914RK",4,"",""
-"7914RK",6,"",""
-"7914RK",1,"",""
-"7914RK",4,"",""
-"7914RK",4,"",""
-7913VX,Meerboomweg,153,,
-7913VX,Meerboomweg,155,,
-7913VX,Meerboomweg,157,,
-7913VX,Meerboomweg,159,,
-7913VX,Meerboomweg,161,,
-7913VX,Meerboomweg,163,,
-7913VX,Meerboomweg,165,,
-7913VX,Meerboomweg,167,,
-7913VX,Meerboomweg,169,,
-7913VX,Meerboomweg,171,,
-7913VX,Meerboomweg,173,,
-7913VX,Meerboomweg,175,,
-7913VX,Meerboomweg,177,,
-7913VX,Meerboomweg,179,,
-7913VX,Meerboomweg,181,,
-7913VX,Meerboomweg,183,,
-7913VX,Meerboomweg,185,,
-7913VX,Meerboomweg,187,,
-7913VX,Meerboomweg,69,,
-7913VX,Meerboomweg,71,,
-7913VX,Meerboomweg,73,,
-7913VX,Meerboomweg,75,,
-7913VX,Meerboomweg,77,,
-7913VX,Meerboomweg,79,,
-7913VX,Meerboomweg,81,,
-7913VX,Meerboomweg,83,,
-7913VX,Meerboomweg,85,,
-7913VX,Meerboomweg,87,,
-7913VX,Meerboomweg,89,,
-7913VX,Meerboomweg,91,,
-7913VX,Meerboomweg,93,,
-7913VX,Meerboomweg,95,,
-7913VX,Meerboomweg,97,,
-7913VX,Meerboomweg,99,,
-7913VX,Meerboomweg,101,,
-7913VX,Meerboomweg,103,,
-7913VX,Meerboomweg,105,,
-7913VX,Meerboomweg,107,,
-7913VX,Meerboomweg,109,,
-7913VX,Meerboomweg,111,,
-7913VX,Meerboomweg,2,,
-7913VX,Meerboomweg,8,,
-7913VX,Meerboomweg,10,,
-7913VX,Meerboomweg,113,,
-7913VX,Meerboomweg,115,,
-7913VX,Meerboomweg,117,,
-7913VX,Meerboomweg,119,,
-7913VX,Meerboomweg,121,,
-7913VX,Meerboomweg,123,,
-7913VX,Meerboomweg,125,,
-7913VX,Meerboomweg,127,,
-7913VX,Meerboomweg,129,,
-7913VX,Meerboomweg,131,,
-7913VX,Meerboomweg,133,,
-7913VX,Meerboomweg,135,,
-7913VX,Meerboomweg,137,,
-7913VX,Meerboomweg,139,,
-7913VX,Meerboomweg,141,,
-7913VX,Meerboomweg,143,,
-7913VX,Meerboomweg,145,,
-7913VX,Meerboomweg,147,,
-7913VX,Meerboomweg,149,,
-7913VX,Meerboomweg,151,,
-7913VX,Meerboomweg,15,a,
-7913VX,Meerboomweg,15,b,
-7913VX,Meerboomweg,15,c,
-7913VX,Meerboomweg,17,,
-7913VX,Meerboomweg,19,,
-7913VX,Meerboomweg,21,,
-7913VX,Meerboomweg,23,,
-7913VX,Meerboomweg,25,,
-7913VX,Meerboomweg,27,,
-7913VX,Meerboomweg,29,,
-7913VX,Meerboomweg,31,,
-7913VX,Meerboomweg,33,,
-7913VX,Meerboomweg,35,,
-7913VX,Meerboomweg,37,,
-7913VX,Meerboomweg,39,,
-7913VX,Meerboomweg,41,,
-7913VX,Meerboomweg,43,,
-7913VX,Meerboomweg,45,,
-7913VX,Meerboomweg,47,,
-7913VX,Meerboomweg,49,,
-7913VX,Meerboomweg,51,,
-7913VX,Meerboomweg,53,,
-7913VX,Meerboomweg,55,,
-7913VX,Meerboomweg,57,,
-7913VX,Meerboomweg,59,,
-7913VX,Meerboomweg,61,,
-7913VX,Meerboomweg,63,,
-7913VX,Meerboomweg,65,,
-7913VX,Meerboomweg,67,,
-7913WC,Meerboomweg-Noord,1,,
-7913WC,Meerboomweg-Noord,3,,
-7913WC,Meerboomweg-Noord,5,,
-7911TD,Calkoenswijk,7,,
-7911TD,Calkoenswijk,9,,
-7911TD,Calkoenswijk,11,,
-7911TD,Calkoenswijk,13,,
-7911TD,Calkoenswijk,15,,
-7911TD,Calkoenswijk,17,,
-7911TD,Calkoenswijk,17,a,
-7911TD,Calkoenswijk,19,,
-7911TD,Calkoenswijk,21,,
-7911TD,Calkoenswijk,23,,
-7911TJ,Calkoenswijk,4,,
-7911TJ,Calkoenswijk,4,,
-7911TJ,Calkoenswijk,8,,
-7911TJ,Calkoenswijk,10,,
-7911TJ,Calkoenswijk,14,,
-7911TJ,Calkoenswijk,16,,
-7911TJ,Calkoenswijk,20,,
-7911TJ,Calkoenswijk,22,,
-7911TA,Coevorderstraatweg,58,,
-7911TA,Coevorderstraatweg,58,a,
-7911TA,Coevorderstraatweg,60,,
-7911TA,Coevorderstraatweg,62,,
-7911TA,Coevorderstraatweg,64,,
-7911TB,Coevorderstraatweg,83,,
-7911TB,Coevorderstraatweg,85,,
-7911TB,Coevorderstraatweg,87,,
-7911TB,Coevorderstraatweg,87,a,
-7911TB,Coevorderstraatweg,89,,
-7911TB,Coevorderstraatweg,91,,
-7911TB,Coevorderstraatweg,93,,
-7911TB,Coevorderstraatweg,95,,
-7911TB,Coevorderstraatweg,97,,
-7911TB,Coevorderstraatweg,99,,
-7911TB,Coevorderstraatweg,101,,
-7911TB,Coevorderstraatweg,105,,
-7911TB,Coevorderstraatweg,107,,
-7911TB,Coevorderstraatweg,109,,
-7911TB,Coevorderstraatweg,111,,
-7911TB,Coevorderstraatweg,113,,
-7911TB,Coevorderstraatweg,115,,
-7911TB,Coevorderstraatweg,117,,
-7912TE,Geeserraai,6,,
-7912TE,Geeserraai,8,,
-7912TE,Geeserraai,10,,
-7912TE,Geeserraai,11,,
-7912TE,Geeserraai,12,,
-7912TE,Geeserraai,13,,
-7912TE,Geeserraai,14,,
-7912TE,Geeserraai,15,,
-7912TE,Geeserraai,16,,
-7912TA,Hoogeveensche Vaart,1,,
-7912TA,Hoogeveensche Vaart,2,,
-7912TA,Hoogeveensche Vaart,3,,
-7912TA,Hoogeveensche Vaart,4,,
-7912TA,Hoogeveensche Vaart,5,,
-7912TA,Hoogeveensche Vaart,7,,
-7912TA,Hoogeveensche Vaart,9,,
-7912TA,Hoogeveensche Vaart,10,,
-7912TA,Hoogeveensche Vaart,11,,
-7912TA,Hoogeveensche Vaart,16,,
-7912TT,Hoogeveenseweg,30,,
-7912TT,Hoogeveenseweg,30,a,
-7912TT,Hoogeveenseweg,32,,
-7912TT,Hoogeveenseweg,34,,
-7911TE,Krommewijk,10,,
-7911TE,Krommewijk,12,,
-7911TE,Krommewijk,14,,
-7911TE,Krommewijk,16,,
-7911TK,Krommewijk,5,,
-7912TH,Middenraai,45,,
-7912TH,Middenraai,47,,
-7912TH,Middenraai,47,a,
-7912TH,Middenraai,49,,
-7912TH,Middenraai,51,,
-7912TH,Middenraai,53,,
-7912TH,Middenraai,55,,
-7912TH,Middenraai,61,,
-7912TH,Middenraai,63,,
-7912TH,Middenraai,65,,
-7912TH,Middenraai,67,,
-7912TH,Middenraai,69,,
-7912TH,Middenraai,75,,
-7912TH,Middenraai,77,,
-7912TH,Middenraai,77,a,
-7912TH,Middenraai,79,,
-7912TH,Middenraai,79,a,
-7912TH,Middenraai,79,b,
-7912TL,Middenraai,50,,
-7912TL,Middenraai,52,,
-7912TL,Middenraai,54,,
-7912TL,Middenraai,58,,
-7912TL,Middenraai,58,a,
-7912TL,Middenraai,60,,
-7912TL,Middenraai,62,,
-7912TL,Middenraai,64,,
-7912TL,Middenraai,66,,
-7912TL,Middenraai,68,,
-7912TL,Middenraai,70,,
-7912TL,Middenraai,72,,
-7912TL,Middenraai,74,,
-7912TL,Middenraai,76,,
-7912TL,Middenraai,78,,
-7912TL,Middenraai,80,,
-7912TL,Middenraai,82,,
-7911TC,Modderwijk,9,,
-7911TC,Modderwijk,11,,
-7911TC,Modderwijk,13,,
-7911TC,Modderwijk,13,a,
-7911TC,Modderwijk,15,,
-7911TC,Modderwijk,17,,
-7912TP,Noorder Hoofddiep,12,,
-7912TP,Noorder Hoofddiep,12,,
-7912TP,Noorder Hoofddiep,14,,
-7912TP,Noorder Hoofddiep,14,a,
-7912TP,Noorder Hoofddiep,15,,
-7912TP,Noorder Hoofddiep,16,,
-7912TP,Noorder Hoofddiep,18,,
-7912TP,Noorder Hoofddiep,20,,
-7912TP,Noorder Hoofddiep,22,,
-7912TP,Noorder Hoofddiep,24,,
-7912TR,Noorder Hoofddiep,26,,
-7912TR,Noorder Hoofddiep,28,,
-7912TR,Noorder Hoofddiep,28,a,
-7912TR,Noorder Hoofddiep,30,,
-7912TN,Noorderweg,2,,
-7912TN,Noorderweg,4,,
-7912TN,Noorderweg,6,,
-7912TN,Noorderweg,8,,
-7912TN,Noorderweg,10,,
-7912TN,Noorderweg,12,,
-7912TN,Noorderweg,14,,
-7912TN,Noorderweg,16,,
-7912TN,Noorderweg,18,,
-7912TN,Noorderweg,20,,
-7912TN,Noorderweg,22,,
-7912TN,Noorderweg,28,,
-7912TN,Noorderweg,34,,
-7912TN,Noorderweg,36,,
-7911TG,Oude wijk,7,,
-7911TG,Oude wijk,9,,
-7911TG,Oude wijk,10,,
-7911TG,Oude wijk,11,,
-7911TG,Oude wijk,12,,
-7911TG,Oude wijk,13,,
-7911TG,Oude wijk,15,,
-7911TG,Oude wijk,15,a,
-7911TG,Oude wijk,17,,
-7911TG,Oude wijk,19,,
-7911TD,Calkoenswijk,19,a,
-7911TD,Calkoenswijk,17,a,1
-7911TD,Calkoenswijk,17,a,2
-7911TD,Calkoenswijk,17,a,3
-7911TD,Calkoenswijk,17,a,4
-7911TD,Calkoenswijk,17,a,5
-7911TD,Calkoenswijk,17,a,6
-7911TD,Calkoenswijk,17,a,
-7911TD,Calkoenswijk,17,a,7
-7911TJ,Calkoenswijk,4,,
-7911TB,Coevorderstraatweg,95,a,
-7911TB,Coevorderstraatweg,95,b,
-7911TB,Coevorderstraatweg,93,a,1
-7911TB,Coevorderstraatweg,93,a,
-7911TB,Coevorderstraatweg,93,a,
-7911TB,Coevorderstraatweg,93,b,
-7911TB,Coevorderstraatweg,105,T,
-7911TB,Coevorderstraatweg,105,T,
-7911TB,Coevorderstraatweg,115,a,
-7911TB,Coevorderstraatweg,85,,
-7911TB,Coevorderstraatweg,85,,
-7911TB,Coevorderstraatweg,85,a,
-7911TB,Coevorderstraatweg,85,a,
-7912TA,Hoogeveensche Vaart,2,,
-7912TA,Hoogeveensche Vaart,1,b,
-7912TA,Hoogeveensche Vaart,1,b,
-7912TA,Hoogeveensche Vaart,1,a,
-7912TA,Hoogeveensche Vaart,5,,
-7914RK,Krommejakken,1,,
-7914RK,Krommejakken,2,,
-7914RK,Krommejakken,4,,
-7914RK,Krommejakken,6,,
-7911TE,Krommewijk,14,a,
-7911TE,Krommewijk,16,a,
-7913VX,Meerboomweg,2,a,
-7913VX,Meerboomweg,153,,
-7913VX,Meerboomweg,71,,
-7913WC,Meerboomweg-Noord,46,a,
-7913WC,Meerboomweg-Noord,5,a,
-7913WC,Meerboomweg-Noord,1,T,
-7912TH,Middenraai,45,a,
-7912TH,Middenraai,55,T,
-7912TH,Middenraai,55,T,
-7912TL,Middenraai,76,a,
-7912TL,Middenraai,84,,
-7912TL,Middenraai,78,,
-7912TL,Middenraai,70,,
-7912TL,Middenraai,76,a,
-7912TL,Middenraai,72,a,
-7911TC,Modderwijk,13,b,
-7911TC,Modderwijk,13,b,
-7911TC,Modderwijk,9,a,
-7912TP,Noorder Hoofddiep,24,a,
-7912TP,Noorder Hoofddiep,24,b,
-7912TR,Noorder Hoofddiep,26,b,
-7912TR,Noorder Hoofddiep,26,a,
-7911TG,Oude wijk,12,a,
-7911TG,Oude wijk,12,b,
-7911TG,Oude wijk,12,c,
-7911TG,Oude wijk,12,d,
-7911TG,Oude wijk,12,e,
-7911TG,Oude wijk,12,f,
-7911TG,Oude wijk,19,,
-7911TG,Oude wijk,12,,
-7911TG,Oude wijk,12,g,
-7911TG,Oude wijk,19,,
-7911TG,Oude wijk,19,,
-7912TS,'t Noorden,2,,
-7912TS,'t Noorden,4,,
-7911TM,Trambaan,1,,
-7911TM,Trambaan,3,,
-7911TM,Trambaan,4,,
-7911TM,Trambaan,5,,
-7911TM,Trambaan,6,,
-7911TM,Trambaan,7,,
-7911TM,Trambaan,8,,
-7911TM,Trambaan,6,a,
-7911TH,Verl Hoogeveensche Vaart,167,,
-7911TH,Verl Hoogeveensche Vaart,169,,
-7911TH,Verl Hoogeveensche Vaart,171,,
-7911TH,Verl Hoogeveensche Vaart,175,,
-7911TH,Verl Hoogeveensche Vaart,179,,
-7911TH,Verl Hoogeveensche Vaart,181,,
-7911TH,Verl Hoogeveensche Vaart,183,,
-7911TH,Verl Hoogeveensche Vaart,185,,
-7911TH,Verl Hoogeveensche Vaart,183,c,
-7911TJ,Calkoenswijk,14,b,
-7911TJ,Calkoenswijk,10,a,
-7911TA,Coevorderstraatweg,60,,
-7912TE,Geeserraai,11,a,
-7912TE,Geeserraai,11,b,
-7912TA,Hoogeveensche Vaart,10,,
-7912TA,Hoogeveensche Vaart,14,,
-7912TA,Hoogeveensche Vaart,15,,
-7914RK,Krommejakken,4,,
-7914RK,Krommejakken,4,,
-7911TE,Krommewijk,16,b,
-7912TH,Middenraai,53,,
-7912TL,Middenraai,50,,
-7911TM,Trambaan,4,b,
-7911TM,Trambaan,4,b,
-7911TM,Trambaan,8,b,
-7911TM,Trambaan,4,a,
-7911TM,Trambaan,4,a,
-7911TM,Trambaan,4,c,
-7911TM,Trambaan,4,d,
-7911TM,Trambaan,4,c,
-7911TM,Trambaan,4,d,
-7911TM,Trambaan,8,a,
-7911TM,Trambaan,8,a,
-7911TM,Trambaan,6,b,
-7911TM,Trambaan,5,b,
-7911TM,Trambaan,7,c,
-7911TM,Trambaan,7,d,
-7911TM,Trambaan,7,a,
-7911TM,Trambaan,7,c,
-7911TM,Trambaan,7,d,
-7911TM,Trambaan,5,a,
-7911TM,Trambaan,5,a,
-7911TM,Trambaan,7,b,
-7911TM,Trambaan,7,b,
-7911TH,Verl Hoogeveensche Vaart,183,a,
-7911TH,Verl Hoogeveensche Vaart,183,b,
-7911TH,Verl Hoogeveensche Vaart,183,a,
-7911TH,Verl Hoogeveensche Vaart,183,b,
-7912TE,Geeserraai,4,,
-7912TE,Geeserraai,7,,
-7912TE,Geeserraai,9,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Coevorderstraatweg,58,"","",7911TA,Nieuweroord
+Coevorderstraatweg,58,A,"",7911TA,Nieuweroord
+Coevorderstraatweg,60,"","",7911TA,Nieuweroord
+Coevorderstraatweg,60,"","",7911TA,Nieuweroord
+Coevorderstraatweg,62,"","",7911TA,Nieuweroord
+Coevorderstraatweg,64,"","",7911TA,Nieuweroord
+Coevorderstraatweg,101,"","",7911TB,Nieuweroord
+Coevorderstraatweg,105,"","",7911TB,Nieuweroord
+Coevorderstraatweg,105,T,"",7911TB,Nieuweroord
+Coevorderstraatweg,105,T,"",7911TB,Nieuweroord
+Coevorderstraatweg,107,"","",7911TB,Nieuweroord
+Coevorderstraatweg,109,"","",7911TB,Nieuweroord
+Coevorderstraatweg,111,"","",7911TB,Nieuweroord
+Coevorderstraatweg,113,"","",7911TB,Nieuweroord
+Coevorderstraatweg,115,"","",7911TB,Nieuweroord
+Coevorderstraatweg,115,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,117,"","",7911TB,Nieuweroord
+Coevorderstraatweg,83,"","",7911TB,Nieuweroord
+Coevorderstraatweg,85,"","",7911TB,Nieuweroord
+Coevorderstraatweg,85,"","",7911TB,Nieuweroord
+Coevorderstraatweg,85,"","",7911TB,Nieuweroord
+Coevorderstraatweg,85,"","",7911TB,Nieuweroord
+Coevorderstraatweg,85,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,85,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,87,"","",7911TB,Nieuweroord
+Coevorderstraatweg,87,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,89,"","",7911TB,Nieuweroord
+Coevorderstraatweg,91,"","",7911TB,Nieuweroord
+Coevorderstraatweg,93,"","",7911TB,Nieuweroord
+Coevorderstraatweg,93,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,93,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,93,A,1,7911TB,Nieuweroord
+Coevorderstraatweg,93,B,"",7911TB,Nieuweroord
+Coevorderstraatweg,95,"","",7911TB,Nieuweroord
+Coevorderstraatweg,95,A,"",7911TB,Nieuweroord
+Coevorderstraatweg,95,B,"",7911TB,Nieuweroord
+Coevorderstraatweg,97,"","",7911TB,Nieuweroord
+Coevorderstraatweg,99,"","",7911TB,Nieuweroord
+Modderwijk,11,"","",7911TC,Nieuweroord
+Modderwijk,13,"","",7911TC,Nieuweroord
+Modderwijk,13,A,"",7911TC,Nieuweroord
+Modderwijk,13,B,"",7911TC,Nieuweroord
+Modderwijk,13,B,"",7911TC,Nieuweroord
+Modderwijk,15,"","",7911TC,Nieuweroord
+Modderwijk,17,"","",7911TC,Nieuweroord
+Modderwijk,9,"","",7911TC,Nieuweroord
+Modderwijk,9,A,"",7911TC,Nieuweroord
+Calkoenswijk,11,"","",7911TD,Nieuweroord
+Calkoenswijk,13,"","",7911TD,Nieuweroord
+Calkoenswijk,15,"","",7911TD,Nieuweroord
+Calkoenswijk,17,"","",7911TD,Nieuweroord
+Calkoenswijk,17,A,"",7911TD,Nieuweroord
+Calkoenswijk,17,A,"",7911TD,Nieuweroord
+Calkoenswijk,17,A,"",7911TD,Nieuweroord
+Calkoenswijk,17,A,1,7911TD,Nieuweroord
+Calkoenswijk,17,A,2,7911TD,Nieuweroord
+Calkoenswijk,17,A,3,7911TD,Nieuweroord
+Calkoenswijk,17,A,4,7911TD,Nieuweroord
+Calkoenswijk,17,A,5,7911TD,Nieuweroord
+Calkoenswijk,17,A,6,7911TD,Nieuweroord
+Calkoenswijk,17,A,7,7911TD,Nieuweroord
+Calkoenswijk,19,"","",7911TD,Nieuweroord
+Calkoenswijk,19,A,"",7911TD,Nieuweroord
+Calkoenswijk,19,A,"",7911TD,Nieuweroord
+Calkoenswijk,21,"","",7911TD,Nieuweroord
+Calkoenswijk,23,"","",7911TD,Nieuweroord
+Calkoenswijk,7,"","",7911TD,Nieuweroord
+Calkoenswijk,9,"","",7911TD,Nieuweroord
+Krommewijk,10,"","",7911TE,Nieuweroord
+Krommewijk,12,"","",7911TE,Nieuweroord
+Krommewijk,14,"","",7911TE,Nieuweroord
+Krommewijk,14,A,"",7911TE,Nieuweroord
+Krommewijk,16,"","",7911TE,Nieuweroord
+Krommewijk,16,A,"",7911TE,Nieuweroord
+Krommewijk,16,B,"",7911TE,Nieuweroord
+Oude wijk,10,"","",7911TG,Nieuweroord
+Oude wijk,11,"","",7911TG,Nieuweroord
+Oude wijk,12,"","",7911TG,Nieuweroord
+Oude wijk,12,"","",7911TG,Nieuweroord
+Oude wijk,12,"","",7911TG,Nieuweroord
+Oude wijk,12,A,"",7911TG,Nieuweroord
+Oude wijk,12,B,"",7911TG,Nieuweroord
+Oude wijk,12,C,"",7911TG,Nieuweroord
+Oude wijk,12,D,"",7911TG,Nieuweroord
+Oude wijk,12,E,"",7911TG,Nieuweroord
+Oude wijk,12,F,"",7911TG,Nieuweroord
+Oude wijk,12,G,"",7911TG,Nieuweroord
+Oude wijk,13,"","",7911TG,Nieuweroord
+Oude wijk,15,"","",7911TG,Nieuweroord
+Oude wijk,15,A,"",7911TG,Nieuweroord
+Oude wijk,17,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,19,"","",7911TG,Nieuweroord
+Oude wijk,7,"","",7911TG,Nieuweroord
+Oude wijk,9,"","",7911TG,Nieuweroord
+Verl Hoogeveensche Vaart,167,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,169,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,171,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,175,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,179,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,181,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,A,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,A,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,A,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,B,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,B,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,B,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,183,C,"",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,185,"","",7911TH,Nieuweroord
+Verl Hoogeveensche Vaart,185,"","",7911TH,Nieuweroord
+Calkoenswijk,10,"","",7911TJ,Nieuweroord
+Calkoenswijk,10,A,"",7911TJ,Nieuweroord
+Calkoenswijk,14,"","",7911TJ,Nieuweroord
+Calkoenswijk,14,B,"",7911TJ,Nieuweroord
+Calkoenswijk,16,"","",7911TJ,Nieuweroord
+Calkoenswijk,20,"","",7911TJ,Nieuweroord
+Calkoenswijk,22,"","",7911TJ,Nieuweroord
+Calkoenswijk,4,"","",7911TJ,Nieuweroord
+Calkoenswijk,4,"","",7911TJ,Nieuweroord
+Calkoenswijk,4,"","",7911TJ,Nieuweroord
+Calkoenswijk,4,"","",7911TJ,Nieuweroord
+Calkoenswijk,8,"","",7911TJ,Nieuweroord
+Krommewijk,5,"","",7911TK,Nieuweroord
+Trambaan,1,"","",7911TM,Nieuweroord
+Trambaan,3,"","",7911TM,Nieuweroord
+Trambaan,4,"","",7911TM,Nieuweroord
+Trambaan,4,A,"",7911TM,Nieuweroord
+Trambaan,4,A,"",7911TM,Nieuweroord
+Trambaan,4,A,"",7911TM,Nieuweroord
+Trambaan,4,B,"",7911TM,Nieuweroord
+Trambaan,4,B,"",7911TM,Nieuweroord
+Trambaan,4,B,"",7911TM,Nieuweroord
+Trambaan,4,C,"",7911TM,Nieuweroord
+Trambaan,4,C,"",7911TM,Nieuweroord
+Trambaan,4,C,"",7911TM,Nieuweroord
+Trambaan,4,D,"",7911TM,Nieuweroord
+Trambaan,4,D,"",7911TM,Nieuweroord
+Trambaan,4,D,"",7911TM,Nieuweroord
+Trambaan,5,"","",7911TM,Nieuweroord
+Trambaan,5,A,"",7911TM,Nieuweroord
+Trambaan,5,A,"",7911TM,Nieuweroord
+Trambaan,5,A,"",7911TM,Nieuweroord
+Trambaan,5,B,"",7911TM,Nieuweroord
+Trambaan,6,"","",7911TM,Nieuweroord
+Trambaan,6,A,"",7911TM,Nieuweroord
+Trambaan,6,B,"",7911TM,Nieuweroord
+Trambaan,7,"","",7911TM,Nieuweroord
+Trambaan,7,A,"",7911TM,Nieuweroord
+Trambaan,7,C,"",7911TM,Nieuweroord
+Trambaan,7,C,"",7911TM,Nieuweroord
+Trambaan,7,C,"",7911TM,Nieuweroord
+Trambaan,7,D,"",7911TM,Nieuweroord
+Trambaan,7,D,"",7911TM,Nieuweroord
+Trambaan,7,D,"",7911TM,Nieuweroord
+Trambaan,8,"","",7911TM,Nieuweroord
+Trambaan,8,A,"",7911TM,Nieuweroord
+Trambaan,8,A,"",7911TM,Nieuweroord
+Trambaan,8,B,"",7911TM,Nieuweroord
+Hoogeveensche Vaart,1,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,1,A,"",7912TA,Nieuweroord
+Hoogeveensche Vaart,1,B,"",7912TA,Nieuweroord
+Hoogeveensche Vaart,1,B,"",7912TA,Nieuweroord
+Hoogeveensche Vaart,10,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,10,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,10,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,11,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,14,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,15,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,16,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,2,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,2,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,2,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,3,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,4,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,5,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,5,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,5,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,7,"","",7912TA,Nieuweroord
+Hoogeveensche Vaart,9,"","",7912TA,Nieuweroord
+Geeserraai,10,"","",7912TE,Nieuweroord
+Geeserraai,11,"","",7912TE,Nieuweroord
+Geeserraai,11,A,"",7912TE,Nieuweroord
+Geeserraai,11,B,"",7912TE,Nieuweroord
+Geeserraai,11,B,"",7912TE,Nieuweroord
+Geeserraai,12,"","",7912TE,Nieuweroord
+Geeserraai,13,"","",7912TE,Nieuweroord
+Geeserraai,14,"","",7912TE,Nieuweroord
+Geeserraai,15,"","",7912TE,Nieuweroord
+Geeserraai,16,"","",7912TE,Nieuweroord
+Geeserraai,6,"","",7912TE,Nieuweroord
+Geeserraai,8,"","",7912TE,Nieuweroord
+Middenraai,45,"","",7912TH,Nieuweroord
+Middenraai,45,A,"",7912TH,Nieuweroord
+Middenraai,47,"","",7912TH,Nieuweroord
+Middenraai,47,A,"",7912TH,Nieuweroord
+Middenraai,49,"","",7912TH,Nieuweroord
+Middenraai,51,"","",7912TH,Nieuweroord
+Middenraai,53,"","",7912TH,Nieuweroord
+Middenraai,53,"","",7912TH,Nieuweroord
+Middenraai,55,"","",7912TH,Nieuweroord
+Middenraai,55,T,"",7912TH,Nieuweroord
+Middenraai,55,T,"",7912TH,Nieuweroord
+Middenraai,61,"","",7912TH,Nieuweroord
+Middenraai,63,"","",7912TH,Nieuweroord
+Middenraai,65,"","",7912TH,Nieuweroord
+Middenraai,67,"","",7912TH,Nieuweroord
+Middenraai,69,"","",7912TH,Nieuweroord
+Middenraai,75,"","",7912TH,Nieuweroord
+Middenraai,77,"","",7912TH,Nieuweroord
+Middenraai,77,A,"",7912TH,Nieuweroord
+Middenraai,79,"","",7912TH,Nieuweroord
+Middenraai,79,A,"",7912TH,Nieuweroord
+Middenraai,79,B,"",7912TH,Nieuweroord
+Middenraai,50,"","",7912TL,Nieuweroord
+Middenraai,50,"","",7912TL,Nieuweroord
+Middenraai,50,"","",7912TL,Nieuweroord
+Middenraai,52,"","",7912TL,Nieuweroord
+Middenraai,54,"","",7912TL,Nieuweroord
+Middenraai,58,"","",7912TL,Nieuweroord
+Middenraai,58,A,"",7912TL,Nieuweroord
+Middenraai,60,"","",7912TL,Nieuweroord
+Middenraai,62,"","",7912TL,Nieuweroord
+Middenraai,64,"","",7912TL,Nieuweroord
+Middenraai,66,"","",7912TL,Nieuweroord
+Middenraai,68,"","",7912TL,Nieuweroord
+Middenraai,70,"","",7912TL,Nieuweroord
+Middenraai,70,"","",7912TL,Nieuweroord
+Middenraai,70,"","",7912TL,Nieuweroord
+Middenraai,72,"","",7912TL,Nieuweroord
+Middenraai,72,A,"",7912TL,Nieuweroord
+Middenraai,74,"","",7912TL,Nieuweroord
+Middenraai,76,"","",7912TL,Nieuweroord
+Middenraai,76,A,"",7912TL,Nieuweroord
+Middenraai,76,A,"",7912TL,Nieuweroord
+Middenraai,76,A,"",7912TL,Nieuweroord
+Middenraai,78,"","",7912TL,Nieuweroord
+Middenraai,78,"","",7912TL,Nieuweroord
+Middenraai,78,"","",7912TL,Nieuweroord
+Middenraai,80,"","",7912TL,Nieuweroord
+Middenraai,82,"","",7912TL,Nieuweroord
+Middenraai,84,"","",7912TL,Nieuweroord
+Noorderweg,10,"","",7912TN,Nieuweroord
+Noorderweg,12,"","",7912TN,Nieuweroord
+Noorderweg,14,"","",7912TN,Nieuweroord
+Noorderweg,16,"","",7912TN,Nieuweroord
+Noorderweg,18,"","",7912TN,Nieuweroord
+Noorderweg,2,"","",7912TN,Nieuweroord
+Noorderweg,20,"","",7912TN,Nieuweroord
+Noorderweg,22,"","",7912TN,Nieuweroord
+Noorderweg,28,"","",7912TN,Nieuweroord
+Noorderweg,34,"","",7912TN,Nieuweroord
+Noorderweg,36,"","",7912TN,Nieuweroord
+Noorderweg,4,"","",7912TN,Nieuweroord
+Noorderweg,6,"","",7912TN,Nieuweroord
+Noorderweg,8,"","",7912TN,Nieuweroord
+Noorder Hoofddiep,12,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,12,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,14,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,14,A,"",7912TP,Nieuweroord
+Noorder Hoofddiep,15,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,16,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,18,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,20,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,22,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,24,"","",7912TP,Nieuweroord
+Noorder Hoofddiep,24,A,"",7912TP,Nieuweroord
+Noorder Hoofddiep,24,B,"",7912TP,Nieuweroord
+Noorder Hoofddiep,26,"","",7912TR,Nieuweroord
+Noorder Hoofddiep,26,A,"",7912TR,Nieuweroord
+Noorder Hoofddiep,26,B,"",7912TR,Nieuweroord
+Noorder Hoofddiep,28,"","",7912TR,Nieuweroord
+Noorder Hoofddiep,28,A,"",7912TR,Nieuweroord
+Noorder Hoofddiep,30,"","",7912TR,Nieuweroord
+'t Noorden,2,"","",7912TS,Nieuweroord
+'t Noorden,4,"","",7912TS,Nieuweroord
+Hoogeveenseweg,30,"","",7912TT,Nieuweroord
+Hoogeveenseweg,30,A,"",7912TT,Nieuweroord
+Hoogeveenseweg,32,"","",7912TT,Nieuweroord
+Hoogeveenseweg,34,"","",7912TT,Nieuweroord
+Meerboomweg,10,"","",7913VX,Hollandscheveld
+Meerboomweg,101,"","",7913VX,Hollandscheveld
+Meerboomweg,103,"","",7913VX,Hollandscheveld
+Meerboomweg,105,"","",7913VX,Hollandscheveld
+Meerboomweg,107,"","",7913VX,Hollandscheveld
+Meerboomweg,109,"","",7913VX,Hollandscheveld
+Meerboomweg,111,"","",7913VX,Hollandscheveld
+Meerboomweg,113,"","",7913VX,Hollandscheveld
+Meerboomweg,115,"","",7913VX,Hollandscheveld
+Meerboomweg,117,"","",7913VX,Hollandscheveld
+Meerboomweg,119,"","",7913VX,Hollandscheveld
+Meerboomweg,121,"","",7913VX,Hollandscheveld
+Meerboomweg,123,"","",7913VX,Hollandscheveld
+Meerboomweg,125,"","",7913VX,Hollandscheveld
+Meerboomweg,127,"","",7913VX,Hollandscheveld
+Meerboomweg,129,"","",7913VX,Hollandscheveld
+Meerboomweg,131,"","",7913VX,Hollandscheveld
+Meerboomweg,133,"","",7913VX,Hollandscheveld
+Meerboomweg,135,"","",7913VX,Hollandscheveld
+Meerboomweg,137,"","",7913VX,Hollandscheveld
+Meerboomweg,139,"","",7913VX,Hollandscheveld
+Meerboomweg,141,"","",7913VX,Hollandscheveld
+Meerboomweg,143,"","",7913VX,Hollandscheveld
+Meerboomweg,145,"","",7913VX,Hollandscheveld
+Meerboomweg,147,"","",7913VX,Hollandscheveld
+Meerboomweg,149,"","",7913VX,Hollandscheveld
+Meerboomweg,15,A,"",7913VX,Hollandscheveld
+Meerboomweg,15,B,"",7913VX,Hollandscheveld
+Meerboomweg,15,C,"",7913VX,Hollandscheveld
+Meerboomweg,151,"","",7913VX,Hollandscheveld
+Meerboomweg,153,"","",7913VX,Hollandscheveld
+Meerboomweg,153,"","",7913VX,Hollandscheveld
+Meerboomweg,153,"","",7913VX,Hollandscheveld
+Meerboomweg,155,"","",7913VX,Hollandscheveld
+Meerboomweg,157,"","",7913VX,Hollandscheveld
+Meerboomweg,159,"","",7913VX,Hollandscheveld
+Meerboomweg,161,"","",7913VX,Hollandscheveld
+Meerboomweg,163,"","",7913VX,Hollandscheveld
+Meerboomweg,165,"","",7913VX,Hollandscheveld
+Meerboomweg,167,"","",7913VX,Hollandscheveld
+Meerboomweg,169,"","",7913VX,Hollandscheveld
+Meerboomweg,17,"","",7913VX,Hollandscheveld
+Meerboomweg,171,"","",7913VX,Hollandscheveld
+Meerboomweg,173,"","",7913VX,Hollandscheveld
+Meerboomweg,175,"","",7913VX,Hollandscheveld
+Meerboomweg,177,"","",7913VX,Hollandscheveld
+Meerboomweg,179,"","",7913VX,Hollandscheveld
+Meerboomweg,181,"","",7913VX,Hollandscheveld
+Meerboomweg,183,"","",7913VX,Hollandscheveld
+Meerboomweg,185,"","",7913VX,Hollandscheveld
+Meerboomweg,187,"","",7913VX,Hollandscheveld
+Meerboomweg,19,"","",7913VX,Hollandscheveld
+Meerboomweg,2,"","",7913VX,Hollandscheveld
+Meerboomweg,2,A,"",7913VX,Hollandscheveld
+Meerboomweg,21,"","",7913VX,Hollandscheveld
+Meerboomweg,23,"","",7913VX,Hollandscheveld
+Meerboomweg,25,"","",7913VX,Hollandscheveld
+Meerboomweg,27,"","",7913VX,Hollandscheveld
+Meerboomweg,29,"","",7913VX,Hollandscheveld
+Meerboomweg,31,"","",7913VX,Hollandscheveld
+Meerboomweg,33,"","",7913VX,Hollandscheveld
+Meerboomweg,35,"","",7913VX,Hollandscheveld
+Meerboomweg,37,"","",7913VX,Hollandscheveld
+Meerboomweg,39,"","",7913VX,Hollandscheveld
+Meerboomweg,41,"","",7913VX,Hollandscheveld
+Meerboomweg,43,"","",7913VX,Hollandscheveld
+Meerboomweg,45,"","",7913VX,Hollandscheveld
+Meerboomweg,47,"","",7913VX,Hollandscheveld
+Meerboomweg,49,"","",7913VX,Hollandscheveld
+Meerboomweg,51,"","",7913VX,Hollandscheveld
+Meerboomweg,53,"","",7913VX,Hollandscheveld
+Meerboomweg,55,"","",7913VX,Hollandscheveld
+Meerboomweg,57,"","",7913VX,Hollandscheveld
+Meerboomweg,59,"","",7913VX,Hollandscheveld
+Meerboomweg,61,"","",7913VX,Hollandscheveld
+Meerboomweg,63,"","",7913VX,Hollandscheveld
+Meerboomweg,65,"","",7913VX,Hollandscheveld
+Meerboomweg,67,"","",7913VX,Hollandscheveld
+Meerboomweg,69,"","",7913VX,Hollandscheveld
+Meerboomweg,71,"","",7913VX,Hollandscheveld
+Meerboomweg,71,"","",7913VX,Hollandscheveld
+Meerboomweg,71,"","",7913VX,Hollandscheveld
+Meerboomweg,73,"","",7913VX,Hollandscheveld
+Meerboomweg,75,"","",7913VX,Hollandscheveld
+Meerboomweg,77,"","",7913VX,Hollandscheveld
+Meerboomweg,79,"","",7913VX,Hollandscheveld
+Meerboomweg,8,"","",7913VX,Hollandscheveld
+Meerboomweg,81,"","",7913VX,Hollandscheveld
+Meerboomweg,83,"","",7913VX,Hollandscheveld
+Meerboomweg,85,"","",7913VX,Hollandscheveld
+Meerboomweg,87,"","",7913VX,Hollandscheveld
+Meerboomweg,89,"","",7913VX,Hollandscheveld
+Meerboomweg,91,"","",7913VX,Hollandscheveld
+Meerboomweg,93,"","",7913VX,Hollandscheveld
+Meerboomweg,95,"","",7913VX,Hollandscheveld
+Meerboomweg,97,"","",7913VX,Hollandscheveld
+Meerboomweg,99,"","",7913VX,Hollandscheveld
+Meerboomweg-Noord,1,"","",7913WC,Hollandscheveld
+Meerboomweg-Noord,1,T,"",7913WC,Hollandscheveld
+Meerboomweg-Noord,3,"","",7913WC,Hollandscheveld
+Meerboomweg-Noord,46,A,"",7913WC,Hollandscheveld
+Meerboomweg-Noord,5,"","",7913WC,Hollandscheveld
+Meerboomweg-Noord,5,A,"",7913WC,Hollandscheveld
+Krommejakken,1,"","",7914RK,Noordscheschut
+Krommejakken,2,"","",7914RK,Noordscheschut
+Krommejakken,4,"","",7914RK,Noordscheschut
+Krommejakken,4,"","",7914RK,Noordscheschut
+Krommejakken,4,"","",7914RK,Noordscheschut
+Krommejakken,4,"","",7914RK,Noordscheschut
+Krommejakken,4,"","",7914RK,Noordscheschut
+Krommejakken,6,"","",7914RK,Noordscheschut

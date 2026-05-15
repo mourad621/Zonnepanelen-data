@@ -1,408 +1,201 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9934AA",28,"",""
-"9934AA",24,"",""
-"9934AA",20,"",""
-"9934AA",28,"","b"
-"9934AA",28,"",""
-"9934AA",2,"C",""
-"9934AA",28,"b",""
-"9934AA",30,"",""
-"9934AA",26,"",""
-"9934AA",2,"",""
-"9934AA",34,"",""
-"9934AA",30,"A",""
-"9934AA",28,"",""
-"9934AA",12,"",""
-"9934AA",28,"A",""
-"9934AA",32,"",""
-"9934AA",8,"",""
-"9934AA",7,"",""
-"9934AR",7,"",""
-"9934AR",7,"A",""
-"9934AR",7,"B",""
-"9934AR",5,"A",""
-"9934AR",23,"",""
-"9934AR",2,"",""
-"9934AR",11,"A",""
-"9934AR",11,"B",""
-"9934AR",21,"",""
-"9934AR",1,"",""
-"9934AR",21,"C",""
-"9934AR",5,"",""
-"9934AR",21,"E",""
-"9934AR",7,"D",""
-"9934AR",21,"B",""
-"9934AR",11,"",""
-"9934AR",7,"C",""
-"9934AR",21,"D",""
-"9934ZA",10,"",""
-"9934ZA",8,"",""
-"9936BV",2,"b",""
-"9936BV",2,"c",""
-"9936BV",2,"",""
-"9936BV",7,"",""
-"9936BV",5,"",""
-"9936BV",10,"",""
-"9936BV",20,"",""
-"9936BV",9,"",""
-"9936BV",19,"",""
-"9936CX",1,"",""
-"9936HB",2,"",""
-"9936HB",6,"",""
-"9936HB",6,"A",""
-"9936HB",1,"",""
-"9936HB",1,"A",""
-"9936HB",10,"",""
-"9936HB",10,"",""
-"9936HB",3,"",""
-"9936HB",1,"",""
-"9936HB",10,"",""
-"9936HB",4,"",""
-"9936HB",8,"",""
-"9936HC",2,"",""
-"9936HD",20,"",""
-"9936HD",14,"",""
-"9936HD",4,"",""
-"9936HD",12,"a",""
-"9936HD",12,"a",""
-"9936HD",2,"A",""
-"9936HD",4,"e",""
-"9936HD",4,"A",""
-"9936HD",12,"a",""
-"9936HD",10,"",""
-"9936HD",10,"A",""
-"9936HD",12,"",""
-"9936HD",4,"B",""
-"9936HD",1,"",""
-"9936HD",30,"B",""
-"9936HD",30,"B",""
-"9936HD",1,"",""
-"9936HD",14,"a",""
-"9936HD",4,"D",""
-"9936HD",20,"a",""
-"9936HD",32,"",""
-"9936HD",9,"",""
-"9936HD",6,"",""
-"9936HD",20,"b",""
-"9936HD",24,"",""
-"9936HD",30,"A",""
-"9936HD",30,"",""
-"9936HD",30,"B",""
-"9936HD",38,"",""
-"9936HD",60,"",""
-"9936HD",34,"",""
-"9936HD",4,"g",""
-"9936HD",36,"",""
-"9936HD",8,"",""
-"9936HE",21,"",""
-"9936HE",11,"",""
-"9936HE",5,"",""
-"9936HE",41,"",""
-"9936HE",45,"",""
-"9936HG",4,"A",""
-"9936HG",4,"",""
-"9936HG",4,"",""
-"9936HG",4,"a",""
-"9936HG",2,"",""
-"9936HG",4,"",""
-"9936HG",4,"A",""
-"9936HG",4,"","a"
-"9936HG",6,"",""
-"9936HJ",31,"",""
-"9936HJ",7,"",""
-"9936HJ",31,"a",""
-"9936HJ",25,"",""
-"9936HJ",27,"",""
-"9936HJ",31,"",""
-"9936HJ",25,"",""
-"9936HJ",5,"",""
-"9936HJ",1,"A",""
-"9936HK",38,"",""
-"9936HK",2,"",""
-"9936HK",4,"",""
-"9936HK",40,"",""
-"9936HK",1,"",""
-"9936HK",36,"",""
-"9936HK",26,"",""
-"9936HK",28,"",""
-"9936HK",32,"",""
-"9936HK",30,"",""
-"9936HK",34,"",""
-"9936HK",46,"",""
-"9936HK",48,"",""
-"9936HK",42,"",""
-"9936HK",52,"",""
-"9936HK",22,"",""
-"9936HK",24,"",""
-"9936HK",50,"",""
-"9936HK",44,"",""
-"9936HN",15,"",""
-"9936HN",2,"",""
-"9936HN",15,"",""
-"9936HN",9,"",""
-"9936HN",15,"a",""
-"9936HN",2,"A",""
-"9936HN",2,"b",""
-"9936HN",9,"",""
-"9936HN",15,"",""
-"9936HT",3,"",""
-"9936HT",1,"A",""
-"9936HT",3,"",""
-"9936HT",1,"",""
-"9936HT",1,"",""
-"9936HV",1,"",""
-"9936HV",3,"",""
-"9936HV",5,"a",""
-"9936HV",7,"",""
-"9936HV",11,"",""
-"9936HV",5,"d",""
-"9936HV",5,"f",""
-"9936HV",10,"",""
-"9936HV",5,"c",""
-"9936HV",5,"",""
-"9936HV",5,"e",""
-"9936HV",6,"",""
-"9936HV",3,"",""
-"9936HV",5,"b",""
-"9936HX",2,"",""
-"9936HX",6,"",""
-"9936HX",7,"",""
-"9936HX",4,"B",""
-"9936HX",8,"A",""
-"9936HX",10,"",""
-"9936HX",7,"G","1"
-"9936HX",4,"A",""
-"9936HX",17,"",""
-"9936HX",8,"",""
-"9936TC",206,"",""
-"9936TC",202,"",""
-"9936TE",2,"",""
-"9936TE",4,"",""
-"9936TE",11,"",""
-"9936TE",1,"",""
-"9936TE",21,"",""
-"9936TE",22,"",""
-"9936TE",2,"A",""
-"9936TE",18,"",""
-"9936TE",3,"",""
-"9936TE",11,"",""
-"9936TE",22,"",""
-"9936TE",20,"A",""
-"9936TE",18,"",""
-"9936TE",11,"",""
-"9936TG",15,"",""
-"9936TG",10,"",""
-"9936TG",18,"",""
-"9936TG",20,"",""
-"9936TG",30,"A",""
-"9936TG",30,"",""
-"9936TG",22,"",""
-"9936TH",4,"",""
-"9936TH",2,"",""
-9934AA,Handelskade West,8,,
-9934AA,Handelskade West,2,C,
-9934AA,Handelskade West,28,,
-9934AA,Handelskade West,30,,
-9934AA,Handelskade West,32,,
-9934AA,Handelskade West,34,,
-9934AA,Handelskade West,20,,
-9934AA,Handelskade West,24,,
-9934AA,Handelskade West,26,,
-9936HB,Visserijweg,3,,
-9936HB,Visserijweg,1,A,
-9936HB,Visserijweg,1,,
-9936HB,Visserijweg,2,,
-9936HB,Visserijweg,6,,
-9936HB,Visserijweg,4,,
-9936HX,Zeesluizen,2,,
-9936HX,Zeesluizen,7,,
-9936HX,Zeesluizen,8,A,
-9936HX,Zeesluizen,8,,
-9936HX,Zeesluizen,4,A,
-9936HX,Zeesluizen,4,B,
-9936HX,Zeesluizen,6,,
-9936HX,Zeesluizen,10,,
-9934AR,Handelskade Oost,5,,
-9934AR,Handelskade Oost,11,A,
-9934AR,Handelskade Oost,11,B,
-9934AR,Handelskade Oost,21,,
-9934AR,Handelskade Oost,5,A,
-9934AR,Handelskade Oost,7,A,
-9934AR,Handelskade Oost,7,C,
-9934AR,Handelskade Oost,7,D,
-9934AR,Handelskade Oost,7,B,
-9934AR,Handelskade Oost,11,,
-9934AR,Handelskade Oost,21,B,
-9934AR,Handelskade Oost,21,C,
-9934AR,Handelskade Oost,21,D,
-9934AR,Handelskade Oost,21,E,
-9934AR,Handelskade Oost,2,,
-9934AR,Handelskade Oost,7,,
-9934AA,Handelskade West,2,,
-9934AA,Handelskade West,28,A,
-9934AA,Handelskade West,12,,
-9934AA,Handelskade West,30,A,
-9934AA,Handelskade West,28,,
-9934AA,Handelskade West,28,,b
-9934AA,Handelskade West,28,b,
-9934AA,Handelskade West,7,,
-9936HK,Deltaweg,1,,
-9936HK,Deltaweg,4,,
-9936HK,Deltaweg,22,,
-9936HK,Deltaweg,24,,
-9936HK,Deltaweg,26,,
-9936HK,Deltaweg,28,,
-9936HK,Deltaweg,30,,
-9936HK,Deltaweg,32,,
-9936HK,Deltaweg,34,,
-9936HK,Deltaweg,36,,
-9936HK,Deltaweg,2,,
-9936HK,Deltaweg,38,,
-9936HK,Deltaweg,40,,
-9936HK,Deltaweg,42,,
-9936HK,Deltaweg,44,,
-9936HK,Deltaweg,46,,
-9936HK,Deltaweg,48,,
-9936HK,Deltaweg,50,,
-9936HK,Deltaweg,52,,
-9936HE,Heemkesweg,11,,
-9936HE,Heemskesweg,11,,
-9936HE,Heemkesweg,21,,
-9936HE,Heemskesweg,21,,
-9936HE,Heemkesweg,45,,
-9936HE,Heemskesweg,45,,
-9936HE,Heemkesweg,5,,
-9936HE,Heemskesweg,5,,
-9936HE,Heemkesweg,41,,
-9936HE,Heemskesweg,41,,
-9936HG,Heemkesweg,4,A,
-9936HG,Heemskesweg,4,A,
-9936HG,Heemkesweg,4,,
-9936HG,Heemskesweg,4,,
-9936HG,Heemkesweg,6,,
-9936HG,Heemskesweg,6,,
-9936HG,Heemkesweg,2,,
-9936HG,Heemskesweg,2,,
-9936HG,Heemkesweg,4,,
-9936HG,Heemskesweg,4,,
-9936HG,Heemkesweg,4,,a
-9936HG,Heemskesweg,4,,a
-9936HG,Heemkesweg,4,a,
-9936HG,Heemskesweg,4,a,
-9936TE,Kloosterlaan,2,,
-9936TE,Kloosterlaan,11,,
-9936TE,Kloosterlaan,11,,
-9936TE,Kloosterlaan,18,,
-9936TE,Kloosterlaan,2,A,
-9936TE,Kloosterlaan,1,,
-9936TE,Kloosterlaan,3,,
-9936TE,Kloosterlaan,4,,
-9936TE,Kloosterlaan,20,A,
-9936TE,Kloosterlaan,22,,
-9936TE,Kloosterlaan,21,,
-9936CX,Melasseweg,1,,
-9936BV,Metaalpark,2,,
-9936BV,Metaalpark,10,,
-9936BV,Metaalpark,19,,
-9936BV,Metaalpark,5,,
-9936BV,Metaalpark,7,,
-9936BV,Metaalpark,9,,
-9936BV,Metaalpark,20,,
-9936BV,Metaalpark,2,b,
-9936BV,Metaalpark,2,c,
-9936HD,Oosterhorn,1,,
-9936HD,Oosterhorn,30,,
-9936HD,Oosterhorn,32,,
-9936HD,Oosterhorn,34,,
-9936HD,Oosterhorn,36,,
-9936HD,Oosterhorn,20,,
-9936HD,Oosterhorn,24,,
-9936HD,Oosterhorn,4,,
-9936HD,Oosterhorn,14,,
-9936HD,Oosterhorn,60,,
-9936HD,Oosterhorn,4,D,
-9936HD,Oosterhorn,4,A,
-9936HD,Oosterhorn,4,B,
-9936HD,Oosterhorn,8,,
-9936HD,Oosterhorn,6,,
-9936HD,Oosterhorn,10,A,
-9936HD,Oosterhorn,10,,
-9936HD,Oosterhorn,12,,
-9936HD,Oosterhorn,9,,
-9936HD,Oosterhorn,30,A,
-9936HD,Oosterhorn,30,B,
-9936HD,Oosterhorn,38,,
-9936HD,Oosterhorn,2,A,
-9936HD,Oosterhorn,20,b,
-9936HD,Oosterhorn,20,a,
-9936HD,Oosterhorn,14,a,
-9936HD,Oosterhorn,30,B,
-9936HD,Oosterhorn,4,e,
-9936HD,Oosterhorn,12,a,
-9936HD,Oosterhorn,12,a,
-9936HD,Oosterhorn,4,g,
-9936HN,Oosterlaan,2,,
-9936HN,Oosterlaan,9,,
-9936HN,Oosterlaan,2,A,
-9936HN,Oosterlaan,15,,
-9936HN,Oosterlaan,2,b,
-9936HN,Oosterlaan,15,a,
-9936HN,Oosterlaan,15,,
-9936HJ,Oosterwierum,25,,
-9936HJ,Oosterwierum,1,A,
-9936HJ,Oosterwierum,5,,
-9936HJ,Oosterwierum,27,,
-9936HJ,Oosterwierum,31,,
-9936HJ,Oosterwierum,7,,
-9936HJ,Oosterwierum,31,a,
-9936HT,Schaappad,1,,
-9936HT,Schaappad,1,A,
-9936HT,Schaappad,3,,
-9936HC,Schakelweg,2,,
-9934ZA,Visserijweg,8,,
-9934ZA,Visserijweg,10,,
-9936HB,Visserijweg,6,A,
-9936HB,Visserijweg,10,,
-9936HB,Visserijweg,8,,
-9936HB,Visserijweg,10,,
-9936HB,Visserijweg,10,,
-9936TG,Warvenweg,18,,
-9936TG,Warvenweg,20,,
-9936TG,Warvenweg,22,,
-9936TG,Warvenweg,15,,
-9936TG,Warvenweg,10,,
-9936HX,Zeesluizen,17,,
-9936HX,Zeesluizen,7,G,1
-9936HV,Valgenweg,1,,
-9936HV,Valgenweg,3,,
-9936HV,Valgenweg,7,,
-9936HV,Valgenweg,6,,
-9936HV,Valgenweg,10,,
-9936HV,Valgenweg,5,,
-9936HV,Valgenweg,11,,
-9936HV,Valgenweg,5,a,
-9936HV,Valgenweg,5,b,
-9936HV,Valgenweg,5,c,
-9936HV,Valgenweg,5,d,
-9936HV,Valgenweg,5,e,
-9936HV,Valgenweg,5,f,
-9936TH,Kranssteenweg,2,,
-9936TH,Kranssteenweg,4,,
-9934AR,Handelskade Oost,1,,
-9934AR,Handelskade Oost,23,,
-9936TC,Heveskes,206,,
-9936TC,Heveskes,202,,
-9936TG,Warvenweg,30,,
-9936TG,Warvenweg,30,A,
-9936HK,Deltaweg,18,,
-9936HD,Oosterhorn,42,,
-9936HJ,Oosterwierum,15,,
-9936HJ,Oosterwierum,23,,
-9936HC,Schakelweg,3,,
-9936HH,Heveskeslaan,5,,
-9936BV,Metaalpark,19,a,
-9936BV,Metaalpark,8,,
-9936BV,Metaalpark,17,,
-9936HD,Oosterhorn,18,,
-9936TD,Groene Rondweg,1,,
-9936HH,Heveskeslaan,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Handelskade West,12,"","",9934AA,Delfzijl
+Handelskade West,2,"","",9934AA,Delfzijl
+Handelskade West,2,C,"",9934AA,Delfzijl
+Handelskade West,20,"","",9934AA,Delfzijl
+Handelskade West,24,"","",9934AA,Delfzijl
+Handelskade West,26,"","",9934AA,Delfzijl
+Handelskade West,28,"","",9934AA,Delfzijl
+Handelskade West,28,"","",9934AA,Delfzijl
+Handelskade West,28,"","",9934AA,Delfzijl
+Handelskade West,28,"",B,9934AA,Delfzijl
+Handelskade West,28,A,"",9934AA,Delfzijl
+Handelskade West,28,B,"",9934AA,Delfzijl
+Handelskade West,30,"","",9934AA,Delfzijl
+Handelskade West,30,A,"",9934AA,Delfzijl
+Handelskade West,32,"","",9934AA,Delfzijl
+Handelskade West,34,"","",9934AA,Delfzijl
+Handelskade West,7,"","",9934AA,Delfzijl
+Handelskade West,8,"","",9934AA,Delfzijl
+Handelskade Oost,1,"","",9934AR,Delfzijl
+Handelskade Oost,11,"","",9934AR,Delfzijl
+Handelskade Oost,11,A,"",9934AR,Delfzijl
+Handelskade Oost,11,B,"",9934AR,Delfzijl
+Handelskade Oost,2,"","",9934AR,Delfzijl
+Handelskade Oost,21,"","",9934AR,Delfzijl
+Handelskade Oost,21,B,"",9934AR,Delfzijl
+Handelskade Oost,21,C,"",9934AR,Delfzijl
+Handelskade Oost,21,D,"",9934AR,Delfzijl
+Handelskade Oost,21,E,"",9934AR,Delfzijl
+Handelskade Oost,23,"","",9934AR,Delfzijl
+Handelskade Oost,5,"","",9934AR,Delfzijl
+Handelskade Oost,5,A,"",9934AR,Delfzijl
+Handelskade Oost,7,"","",9934AR,Delfzijl
+Handelskade Oost,7,A,"",9934AR,Delfzijl
+Handelskade Oost,7,B,"",9934AR,Delfzijl
+Handelskade Oost,7,C,"",9934AR,Delfzijl
+Handelskade Oost,7,D,"",9934AR,Delfzijl
+Visserijweg,10,"","",9934ZA,Farmsum
+Visserijweg,8,"","",9934ZA,Farmsum
+Metaalpark,10,"","",9936BV,Farmsum
+Metaalpark,19,"","",9936BV,Farmsum
+Metaalpark,2,"","",9936BV,Farmsum
+Metaalpark,2,B,"",9936BV,Farmsum
+Metaalpark,2,C,"",9936BV,Farmsum
+Metaalpark,20,"","",9936BV,Farmsum
+Metaalpark,5,"","",9936BV,Farmsum
+Metaalpark,7,"","",9936BV,Farmsum
+Metaalpark,9,"","",9936BV,Farmsum
+Melasseweg,1,"","",9936CX,Farmsum
+Visserijweg,1,"","",9936HB,Farmsum
+Visserijweg,1,"","",9936HB,Farmsum
+Visserijweg,1,A,"",9936HB,Farmsum
+Visserijweg,10,"","",9936HB,Farmsum
+Visserijweg,10,"","",9936HB,Farmsum
+Visserijweg,10,"","",9936HB,Farmsum
+Visserijweg,2,"","",9936HB,Farmsum
+Visserijweg,3,"","",9936HB,Farmsum
+Visserijweg,4,"","",9936HB,Farmsum
+Visserijweg,6,"","",9936HB,Farmsum
+Visserijweg,6,A,"",9936HB,Farmsum
+Visserijweg,8,"","",9936HB,Farmsum
+Schakelweg,2,"","",9936HC,Farmsum
+Oosterhorn,1,"","",9936HD,Farmsum
+Oosterhorn,1,"","",9936HD,Farmsum
+Oosterhorn,10,"","",9936HD,Farmsum
+Oosterhorn,10,A,"",9936HD,Farmsum
+Oosterhorn,12,"","",9936HD,Farmsum
+Oosterhorn,12,A,"",9936HD,Farmsum
+Oosterhorn,12,A,"",9936HD,Farmsum
+Oosterhorn,12,A,"",9936HD,Farmsum
+Oosterhorn,14,"","",9936HD,Farmsum
+Oosterhorn,14,A,"",9936HD,Farmsum
+Oosterhorn,2,A,"",9936HD,Farmsum
+Oosterhorn,20,"","",9936HD,Farmsum
+Oosterhorn,20,A,"",9936HD,Farmsum
+Oosterhorn,20,B,"",9936HD,Farmsum
+Oosterhorn,24,"","",9936HD,Farmsum
+Oosterhorn,30,"","",9936HD,Farmsum
+Oosterhorn,30,A,"",9936HD,Farmsum
+Oosterhorn,30,B,"",9936HD,Farmsum
+Oosterhorn,30,B,"",9936HD,Farmsum
+Oosterhorn,30,B,"",9936HD,Farmsum
+Oosterhorn,32,"","",9936HD,Farmsum
+Oosterhorn,34,"","",9936HD,Farmsum
+Oosterhorn,36,"","",9936HD,Farmsum
+Oosterhorn,38,"","",9936HD,Farmsum
+Oosterhorn,4,"","",9936HD,Farmsum
+Oosterhorn,4,A,"",9936HD,Farmsum
+Oosterhorn,4,B,"",9936HD,Farmsum
+Oosterhorn,4,D,"",9936HD,Farmsum
+Oosterhorn,4,E,"",9936HD,Farmsum
+Oosterhorn,4,G,"",9936HD,Farmsum
+Oosterhorn,6,"","",9936HD,Farmsum
+Oosterhorn,60,"","",9936HD,Farmsum
+Oosterhorn,8,"","",9936HD,Farmsum
+Oosterhorn,9,"","",9936HD,Farmsum
+Heemkesweg,11,"","",9936HE,Farmsum
+Heemkesweg,21,"","",9936HE,Farmsum
+Heemkesweg,41,"","",9936HE,Farmsum
+Heemkesweg,45,"","",9936HE,Farmsum
+Heemkesweg,5,"","",9936HE,Farmsum
+Heemkesweg,2,"","",9936HG,Farmsum
+Heemkesweg,4,"","",9936HG,Farmsum
+Heemkesweg,4,"","",9936HG,Farmsum
+Heemkesweg,4,"","",9936HG,Farmsum
+Heemkesweg,4,"",A,9936HG,Farmsum
+Heemkesweg,4,A,"",9936HG,Farmsum
+Heemkesweg,4,A,"",9936HG,Farmsum
+Heemkesweg,4,A,"",9936HG,Farmsum
+Heemkesweg,6,"","",9936HG,Farmsum
+Oosterwierum,1,A,"",9936HJ,Farmsum
+Oosterwierum,25,"","",9936HJ,Farmsum
+Oosterwierum,25,"","",9936HJ,Farmsum
+Oosterwierum,27,"","",9936HJ,Farmsum
+Oosterwierum,31,"","",9936HJ,Farmsum
+Oosterwierum,31,"","",9936HJ,Farmsum
+Oosterwierum,31,A,"",9936HJ,Farmsum
+Oosterwierum,5,"","",9936HJ,Farmsum
+Oosterwierum,7,"","",9936HJ,Farmsum
+Deltaweg,1,"","",9936HK,Farmsum
+Deltaweg,2,"","",9936HK,Farmsum
+Deltaweg,22,"","",9936HK,Farmsum
+Deltaweg,24,"","",9936HK,Farmsum
+Deltaweg,26,"","",9936HK,Farmsum
+Deltaweg,28,"","",9936HK,Farmsum
+Deltaweg,30,"","",9936HK,Farmsum
+Deltaweg,32,"","",9936HK,Farmsum
+Deltaweg,34,"","",9936HK,Farmsum
+Deltaweg,36,"","",9936HK,Farmsum
+Deltaweg,38,"","",9936HK,Farmsum
+Deltaweg,4,"","",9936HK,Farmsum
+Deltaweg,40,"","",9936HK,Farmsum
+Deltaweg,42,"","",9936HK,Farmsum
+Deltaweg,44,"","",9936HK,Farmsum
+Deltaweg,46,"","",9936HK,Farmsum
+Deltaweg,48,"","",9936HK,Farmsum
+Deltaweg,50,"","",9936HK,Farmsum
+Deltaweg,52,"","",9936HK,Farmsum
+Oosterlaan,15,"","",9936HN,Farmsum
+Oosterlaan,15,"","",9936HN,Farmsum
+Oosterlaan,15,"","",9936HN,Farmsum
+Oosterlaan,15,A,"",9936HN,Farmsum
+Oosterlaan,2,"","",9936HN,Farmsum
+Oosterlaan,2,A,"",9936HN,Farmsum
+Oosterlaan,2,B,"",9936HN,Farmsum
+Oosterlaan,9,"","",9936HN,Farmsum
+Oosterlaan,9,"","",9936HN,Farmsum
+Schaappad,1,"","",9936HT,Farmsum
+Schaappad,1,"","",9936HT,Farmsum
+Schaappad,1,A,"",9936HT,Farmsum
+Schaappad,3,"","",9936HT,Farmsum
+Schaappad,3,"","",9936HT,Farmsum
+Valgenweg,1,"","",9936HV,Farmsum
+Valgenweg,10,"","",9936HV,Farmsum
+Valgenweg,11,"","",9936HV,Farmsum
+Valgenweg,3,"","",9936HV,Farmsum
+Valgenweg,3,"","",9936HV,Farmsum
+Valgenweg,5,"","",9936HV,Farmsum
+Valgenweg,5,A,"",9936HV,Farmsum
+Valgenweg,5,B,"",9936HV,Farmsum
+Valgenweg,5,C,"",9936HV,Farmsum
+Valgenweg,5,D,"",9936HV,Farmsum
+Valgenweg,5,E,"",9936HV,Farmsum
+Valgenweg,5,F,"",9936HV,Farmsum
+Valgenweg,6,"","",9936HV,Farmsum
+Valgenweg,7,"","",9936HV,Farmsum
+Zeesluizen,10,"","",9936HX,Farmsum
+Zeesluizen,17,"","",9936HX,Farmsum
+Zeesluizen,2,"","",9936HX,Farmsum
+Zeesluizen,4,A,"",9936HX,Farmsum
+Zeesluizen,4,B,"",9936HX,Farmsum
+Zeesluizen,6,"","",9936HX,Farmsum
+Zeesluizen,7,"","",9936HX,Farmsum
+Zeesluizen,7,G,1,9936HX,Farmsum
+Zeesluizen,8,"","",9936HX,Farmsum
+Zeesluizen,8,A,"",9936HX,Farmsum
+Heveskes,202,"","",9936TC,Farmsum
+Heveskes,206,"","",9936TC,Farmsum
+Kloosterlaan,1,"","",9936TE,Farmsum
+Kloosterlaan,11,"","",9936TE,Farmsum
+Kloosterlaan,11,"","",9936TE,Farmsum
+Kloosterlaan,11,"","",9936TE,Farmsum
+Kloosterlaan,18,"","",9936TE,Farmsum
+Kloosterlaan,18,"","",9936TE,Farmsum
+Kloosterlaan,2,"","",9936TE,Farmsum
+Kloosterlaan,2,A,"",9936TE,Farmsum
+Kloosterlaan,20,A,"",9936TE,Farmsum
+Kloosterlaan,21,"","",9936TE,Farmsum
+Kloosterlaan,22,"","",9936TE,Farmsum
+Kloosterlaan,22,"","",9936TE,Farmsum
+Kloosterlaan,3,"","",9936TE,Farmsum
+Kloosterlaan,4,"","",9936TE,Farmsum
+Warvenweg,10,"","",9936TG,Farmsum
+Warvenweg,15,"","",9936TG,Farmsum
+Warvenweg,18,"","",9936TG,Farmsum
+Warvenweg,20,"","",9936TG,Farmsum
+Warvenweg,22,"","",9936TG,Farmsum
+Warvenweg,30,"","",9936TG,Borgsweer
+Warvenweg,30,A,"",9936TG,Borgsweer
+Kranssteenweg,2,"","",9936TH,Farmsum
+Kranssteenweg,4,"","",9936TH,Farmsum

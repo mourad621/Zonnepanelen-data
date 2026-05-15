@@ -1,72 +1,72 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-9336TA,Asserstraat,131,,
-9336TA,Asserstraat,133,,
-9336TA,Asserstraat,135,,
-9336TA,Asserstraat,137,,
-9336TA,Asserstraat,139,,
-9336TA,Asserstraat,141,,
-9336TB,Asserstraat,130,,
-9336TB,Asserstraat,132,,
-9336TB,Asserstraat,132,A,
-9336TB,Asserstraat,134,,
-9336TB,Asserstraat,136,,
-9336TB,Asserstraat,136,T,
-9336TB,Asserstraat,140,,
-9336TG,Koelenweg,2,,
-9336TG,Koelenweg,2,A,
-9336TG,Koelenweg,2,B,
-9336TG,Koelenweg,4,,
-9336TG,Koelenweg,6,,
-9336TG,Koelenweg,8,,
-9336TG,Koelenweg,10,,
-9336TG,Koelenweg,10,,BEDR
-9336TC,Kolonievaart,1,,
-9336TC,Kolonievaart,2,,
-9336TC,Kolonievaart,3,,
-9336TC,Kolonievaart,4,,
-9336TC,Kolonievaart,5,,
-9336TC,Kolonievaart,6,,
-9336TC,Kolonievaart,8,,
-9336TC,Kolonievaart,8,,
-9336TC,Kolonievaart,10,,
-9336TC,Kolonievaart,12,,
-9336TC,Kolonievaart,14,,
-9336TC,Kolonievaart,16,,
-9336TD,Veldweg,13,,
-9336TC,Kolonievaart,12,A,
-9336TC,Kolonievaart,15,,
-9336TD,Norgervaart,1,,
-9336TD,Norgervaart,3,,
-9336TD,Norgervaart,7,,
-9336TD,Norgervaart,9,,
-9336TD,Norgervaart,9,T,
-9336TD,Norgervaart,11,T,
-9336TE,Norgervaart,2,,
-9336TE,Norgervaart,4,,
-9336TE,Norgervaart,6,,
-9336TE,Norgervaart,8,,
-9336TE,Norgervaart,10,,
-9336TE,Norgervaart,10,A,
-9336TE,Norgervaart,12,,
-9336TE,Norgervaart,16,,
-9336TE,Norgervaart,18,,
-9336TE,Norgervaart,20,,
-9336TE,Norgervaart,20,A,
-9336TE,Norgervaart,22,,
-9336TE,Norgervaart,24,,
-9336TE,Norgervaart,26,,
-9336TE,Norgervaart,26,,BEDR
-9336TE,Norgervaart,28,,
-9336TE,Norgervaart,30,,
-9336TE,Norgervaart,26,T,
-9336TE,Norgervaart,20,A,1
-9336TE,Norgervaart,26,,
-9336TE,Norgervaart,26,,
-9336TE,Norgervaart,26,A,
-9336TA,Asserstraat,131,M,
-9336TA,Asserstraat,137,A,
-9336TB,Asserstraat,136,A,
-9336TB,Asserstraat,134,A,
-9336TC,Kolonievaart,4,,
-9336TC,Kolonievaart,4,M,
-9336TC,Kolonievaart,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Asserstraat,131,"","",9336TA,Huis ter Heide
+Asserstraat,131,M,"",9336TA,Huis ter Heide
+Asserstraat,133,"","",9336TA,Huis ter Heide
+Asserstraat,135,"","",9336TA,Huis ter Heide
+Asserstraat,137,"","",9336TA,Huis ter Heide
+Asserstraat,137,A,"",9336TA,Huis ter Heide
+Asserstraat,139,"","",9336TA,Huis ter Heide
+Asserstraat,141,"","",9336TA,Huis ter Heide
+Asserstraat,130,"","",9336TB,Huis ter Heide
+Asserstraat,132,"","",9336TB,Huis ter Heide
+Asserstraat,132,A,"",9336TB,Huis ter Heide
+Asserstraat,134,"","",9336TB,Huis ter Heide
+Asserstraat,134,A,"",9336TB,Huis ter Heide
+Asserstraat,136,"","",9336TB,Huis ter Heide
+Asserstraat,136,A,"",9336TB,Huis ter Heide
+Asserstraat,136,T,"",9336TB,Huis ter Heide
+Asserstraat,140,"","",9336TB,Huis ter Heide
+Kolonievaart,1,"","",9336TC,Huis ter Heide
+Kolonievaart,10,"","",9336TC,Huis ter Heide
+Kolonievaart,12,"","",9336TC,Huis ter Heide
+Kolonievaart,12,A,"",9336TC,Huis ter Heide
+Kolonievaart,14,"","",9336TC,Huis ter Heide
+Kolonievaart,15,"","",9336TC,Huis ter Heide
+Kolonievaart,16,"","",9336TC,Huis ter Heide
+Kolonievaart,2,"","",9336TC,Huis ter Heide
+Kolonievaart,3,"","",9336TC,Huis ter Heide
+Kolonievaart,4,"","",9336TC,Huis ter Heide
+Kolonievaart,4,"","",9336TC,Huis ter Heide
+Kolonievaart,4,M,"",9336TC,Huis ter Heide
+Kolonievaart,5,"","",9336TC,Huis ter Heide
+Kolonievaart,6,"","",9336TC,Huis ter Heide
+Kolonievaart,8,"","",9336TC,Huis ter Heide
+Kolonievaart,8,"","",9336TC,Huis ter Heide
+Kolonievaart,8,"","",9336TC,Huis ter Heide
+Norgervaart,1,"","",9336TD,Huis ter Heide
+Norgervaart,11,T,"",9336TD,Huis ter Heide
+Veldweg,13,"","",9336TD,Peest
+Norgervaart,3,"","",9336TD,Huis ter Heide
+Norgervaart,7,"","",9336TD,Huis ter Heide
+Norgervaart,9,"","",9336TD,Huis ter Heide
+Norgervaart,9,T,"",9336TD,Huis ter Heide
+Norgervaart,10,"","",9336TE,Huis ter Heide
+Norgervaart,10,A,"",9336TE,Huis ter Heide
+Norgervaart,12,"","",9336TE,Huis ter Heide
+Norgervaart,16,"","",9336TE,Huis ter Heide
+Norgervaart,18,"","",9336TE,Huis ter Heide
+Norgervaart,2,"","",9336TE,Huis ter Heide
+Norgervaart,20,"","",9336TE,Huis ter Heide
+Norgervaart,20,A,"",9336TE,Huis ter Heide
+Norgervaart,20,A,1,9336TE,Huis ter Heide
+Norgervaart,22,"","",9336TE,Huis ter Heide
+Norgervaart,24,"","",9336TE,Huis ter Heide
+Norgervaart,26,"","",9336TE,Huis ter Heide
+Norgervaart,26,"","",9336TE,Huis ter Heide
+Norgervaart,26,"","",9336TE,Huis ter Heide
+Norgervaart,26,"",BEDR,9336TE,Huis ter Heide
+Norgervaart,26,A,"",9336TE,Huis ter Heide
+Norgervaart,26,T,"",9336TE,Huis ter Heide
+Norgervaart,28,"","",9336TE,Huis ter Heide
+Norgervaart,30,"","",9336TE,Huis ter Heide
+Norgervaart,4,"","",9336TE,Huis ter Heide
+Norgervaart,6,"","",9336TE,Huis ter Heide
+Norgervaart,8,"","",9336TE,Huis ter Heide
+Koelenweg,10,"","",9336TG,Huis ter Heide
+Koelenweg,10,"",BEDR,9336TG,Huis ter Heide
+Koelenweg,2,"","",9336TG,Huis ter Heide
+Koelenweg,2,A,"",9336TG,Huis ter Heide
+Koelenweg,2,B,"",9336TG,Huis ter Heide
+Koelenweg,4,"","",9336TG,Huis ter Heide
+Koelenweg,6,"","",9336TG,Huis ter Heide
+Koelenweg,8,"","",9336TG,Huis ter Heide

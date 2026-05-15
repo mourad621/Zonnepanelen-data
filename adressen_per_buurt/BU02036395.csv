@@ -1,78 +1,78 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3792ND,Achterveldseweg,41,,
-3792NE,Achterveldseweg,32,,
-3792NE,Achterveldseweg,40,,
-3792NL,Klettersteeg,2,,
-3792NL,Klettersteeg,34,,
-3792NL,Klettersteeg,20,,
-3792NL,Klettersteeg,4,,
-3792NH,Aarderweg,1,,
-3792NH,Aarderweg,10,,
-3792NM,Jan van Arkelweg,50,,bis
-3792NM,Jan van Arkelweg,54,,
-3792ND,Achterveldseweg,45,,01
-3792ND,Achterveldseweg,39,,
-3792ND,Achterveldseweg,47,,
-3792NE,Achterveldseweg,34,,
-3792NE,Achterveldseweg,38,,
-3792NE,Achterveldseweg,42,,
-3792NK,Klettersteeg,29,,
-3792NL,Klettersteeg,12,,
-3792NL,Klettersteeg,28,,
-3792NL,Klettersteeg,10,,
-3792NJ,Grote Fliertweg,1,,
-3792NH,Aarderweg,6,,
-3792NH,Aarderweg,4,,
-3792NH,Aarderweg,2,,
-3792NH,Aarderweg,2,,
-3792NH,Aarderweg,16,,
-3792ND,Achterveldseweg,37,,
-3792ND,Achterveldseweg,39,A,
-3792ND,Achterveldseweg,39,B,
-3792ND,Achterveldseweg,43,,
-3792ND,Achterveldseweg,45,,
-3792NK,Klettersteeg,23,,
-3792NK,Klettersteeg,15,,
-3792NK,Klettersteeg,27,,
-3792NK,Klettersteeg,29,,bis
-3792NK,Klettersteeg,17,,
-3792NL,Klettersteeg,26,,
-3792NL,Klettersteeg,8,A,
-3792NL,Klettersteeg,8,,
-3792NL,Klettersteeg,14,,
-3792NL,Klettersteeg,20,,01
-3792NL,Klettersteeg,32,,
-3792NH,Aarderweg,12,,
-3792NH,Aarderweg,14,,
-3792NH,Aarderweg,9,,
-3792NH,Aarderweg,8,,
-3792NM,Jan van Arkelweg,50,,
-3792NG,Butselaarseweg,3,,
-3792NG,Butselaarseweg,1,,
-3792NL,Klettersteeg,10,A,
-3792NL,Klettersteeg,10,A,
-3792NL,Klettersteeg,6,,
-3792NJ,Grote Fliertweg,2,,
-3792ND,Achterveldseweg,41,A,
-3792NE,Achterveldseweg,40,A,
-3792NJ,Grote Fliertweg,4,,
-3792NJ,Grote Fliertweg,3,,
-3792NH,Aarderweg,3,,
-3792ND,Achterveldseweg,39,C,
-3792ND,Achterveldseweg,39,C,
-3792ND,Achterveldseweg,39,C,
-3792ND,Achterveldseweg,45,,
-3792ND,Achterveldseweg,45,A,
-3792ND,Achterveldseweg,39,D,
-3792ND,Achterveldseweg,39,D,
-3792ND,Achterveldseweg,39,D,
-3792NK,Klettersteeg,29,,
-3792NK,Klettersteeg,29,,bis
-3792NH,Aarderweg,9,,
-3792NH,Aarderweg,9,A,
-3792NH,Aarderweg,14,,
-3792NH,Aarderweg,14,,
-3792NH,Aarderweg,2,A,
-3792NH,Aarderweg,2,A,
-3792NL,Klettersteeg,4,A,
-3792NL,Klettersteeg,4,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Achterveldseweg,37,"","",3792ND,Achterveld
+Achterveldseweg,39,"","",3792ND,Achterveld
+Achterveldseweg,39,A,"",3792ND,Achterveld
+Achterveldseweg,39,B,"",3792ND,Achterveld
+Achterveldseweg,39,C,"",3792ND,Achterveld
+Achterveldseweg,39,C,"",3792ND,Achterveld
+Achterveldseweg,39,C,"",3792ND,Achterveld
+Achterveldseweg,39,D,"",3792ND,Achterveld
+Achterveldseweg,39,D,"",3792ND,Achterveld
+Achterveldseweg,39,D,"",3792ND,Achterveld
+Achterveldseweg,41,"","",3792ND,Achterveld
+Achterveldseweg,41,A,"",3792ND,Achterveld
+Achterveldseweg,43,"","",3792ND,Achterveld
+Achterveldseweg,45,"","",3792ND,Achterveld
+Achterveldseweg,45,"","",3792ND,Achterveld
+Achterveldseweg,45,"",01,3792ND,Achterveld
+Achterveldseweg,45,A,"",3792ND,Achterveld
+Achterveldseweg,47,"","",3792ND,Achterveld
+Achterveldseweg,32,"","",3792NE,Achterveld
+Achterveldseweg,34,"","",3792NE,Achterveld
+Achterveldseweg,38,"","",3792NE,Achterveld
+Achterveldseweg,40,"","",3792NE,Achterveld
+Achterveldseweg,40,A,"",3792NE,Achterveld
+Achterveldseweg,42,"","",3792NE,Achterveld
+Butselaarseweg,1,"","",3792NG,Achterveld
+Butselaarseweg,3,"","",3792NG,Achterveld
+Aarderweg,1,"","",3792NH,Achterveld
+Aarderweg,10,"","",3792NH,Achterveld
+Aarderweg,12,"","",3792NH,Achterveld
+Aarderweg,14,"","",3792NH,Achterveld
+Aarderweg,14,"","",3792NH,Achterveld
+Aarderweg,14,"","",3792NH,Achterveld
+Aarderweg,16,"","",3792NH,Achterveld
+Aarderweg,2,"","",3792NH,Achterveld
+Aarderweg,2,"","",3792NH,Achterveld
+Aarderweg,2,A,"",3792NH,Achterveld
+Aarderweg,2,A,"",3792NH,Achterveld
+Aarderweg,3,"","",3792NH,Achterveld
+Aarderweg,4,"","",3792NH,Achterveld
+Aarderweg,6,"","",3792NH,Achterveld
+Aarderweg,8,"","",3792NH,Achterveld
+Aarderweg,9,"","",3792NH,Achterveld
+Aarderweg,9,"","",3792NH,Achterveld
+Aarderweg,9,A,"",3792NH,Achterveld
+Grote Fliertweg,1,"","",3792NJ,Achterveld
+Grote Fliertweg,2,"","",3792NJ,Achterveld
+Grote Fliertweg,3,"","",3792NJ,Achterveld
+Grote Fliertweg,4,"","",3792NJ,Achterveld
+Klettersteeg,15,"","",3792NK,Achterveld
+Klettersteeg,17,"","",3792NK,Achterveld
+Klettersteeg,23,"","",3792NK,Achterveld
+Klettersteeg,27,"","",3792NK,Achterveld
+Klettersteeg,29,"","",3792NK,Achterveld
+Klettersteeg,29,"","",3792NK,Achterveld
+Klettersteeg,29,"",BIS,3792NK,Achterveld
+Klettersteeg,29,"",BIS,3792NK,Achterveld
+Klettersteeg,10,"","",3792NL,Achterveld
+Klettersteeg,10,A,"",3792NL,Achterveld
+Klettersteeg,10,A,"",3792NL,Achterveld
+Klettersteeg,12,"","",3792NL,Achterveld
+Klettersteeg,14,"","",3792NL,Achterveld
+Klettersteeg,2,"","",3792NL,Achterveld
+Klettersteeg,20,"","",3792NL,Achterveld
+Klettersteeg,20,"",01,3792NL,Achterveld
+Klettersteeg,26,"","",3792NL,Achterveld
+Klettersteeg,28,"","",3792NL,Achterveld
+Klettersteeg,32,"","",3792NL,Achterveld
+Klettersteeg,34,"","",3792NL,Achterveld
+Klettersteeg,4,"","",3792NL,Achterveld
+Klettersteeg,4,A,"",3792NL,Achterveld
+Klettersteeg,4,B,"",3792NL,Achterveld
+Klettersteeg,6,"","",3792NL,Achterveld
+Klettersteeg,8,"","",3792NL,Achterveld
+Klettersteeg,8,A,"",3792NL,Achterveld
+Jan van Arkelweg,50,"","",3792NM,Achterveld
+Jan van Arkelweg,50,"",BIS,3792NM,Achterveld
+Jan van Arkelweg,54,"","",3792NM,Achterveld

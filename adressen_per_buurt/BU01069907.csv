@@ -1,106 +1,107 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9407ZZ",2,"",""
-"9487TA",31,"",""
-"9487TA",3,"",""
-"9487TA",9,"",""
-"9487TA",23,"",""
-"9487TA",11,"A",""
-"9487TA",17,"",""
-"9487TA",21,"",""
-"9487TA",19,"",""
-"9487TA",1,"",""
-"9487TA",35,"",""
-"9487TA",1,"A",""
-"9487TA",11,"",""
-"9487TA",15,"",""
-"9487TA",37,"",""
-"9487TA",33,"",""
-"9487TA",5,"",""
-"9487TA",25,"",""
-"9487TA",13,"",""
-"9487TA",7,"",""
-"9487TA",15,"A",""
-"9487TA",9,"B",""
-"9487TA",23,"A",""
-"9487TA",13,"",""
-"9487TA",27,"",""
-"9487TA",29,"",""
-"9487TA",9,"A",""
-"9487TB",2,"A",""
-"9487TB",4,"A",""
-"9487TB",32,"A",""
-"9487TB",4,"",""
-"9487TB",12,"",""
-"9487TB",34,"",""
-"9487TB",20,"",""
-"9487TB",28,"",""
-"9487TB",8,"",""
-"9487TB",34,"A",""
-"9487TB",32,"A",""
-"9487TB",18,"",""
-"9487TB",16,"",""
-"9487TB",2,"A",""
-"9487TB",36,"",""
-"9487TB",10,"",""
-"9487TB",22,"",""
-"9487TB",26,"",""
-"9487TB",2,"",""
-"9487TB",24,"",""
-"9487TB",30,"",""
-"9487TB",14,"",""
-"9487TB",6,"",""
-"9487TB",32,"",""
-"9487TC",40,"",""
-"9487TC",40,"",""
-"9487TC",40,"",""
-9407ZZ,verzorgingsplaats Peelerveld,2,,
-9487TA,Zeijerweg,1,,
-9487TA,Zeijerweg,3,,
-9487TA,Zeijerweg,5,,
-9487TA,Zeijerweg,7,,
-9487TA,Zeijerweg,9,A,
-9487TA,Zeijerweg,9,,
-9487TA,Zeijerweg,11,A,
-9487TA,Zeijerweg,11,,
-9487TA,Zeijerweg,13,,
-9487TA,Zeijerweg,15,A,
-9487TA,Zeijerweg,15,,
-9487TA,Zeijerweg,17,,
-9487TA,Zeijerweg,19,,
-9487TA,Zeijerweg,21,,
-9487TA,Zeijerweg,23,A,
-9487TA,Zeijerweg,23,,
-9487TA,Zeijerweg,25,,
-9487TA,Zeijerweg,27,,
-9487TA,Zeijerweg,29,,
-9487TA,Zeijerweg,31,,
-9487TA,Zeijerweg,33,,
-9487TA,Zeijerweg,35,,
-9487TA,Zeijerweg,37,,
-9487TB,Zeijerweg,2,A,
-9487TB,Zeijerweg,2,,
-9487TB,Zeijerweg,4,,
-9487TB,Zeijerweg,6,,
-9487TB,Zeijerweg,8,,
-9487TB,Zeijerweg,10,,
-9487TB,Zeijerweg,12,,
-9487TB,Zeijerweg,14,,
-9487TB,Zeijerweg,16,,
-9487TB,Zeijerweg,18,,
-9487TB,Zeijerweg,20,,
-9487TB,Zeijerweg,22,,
-9487TB,Zeijerweg,24,,
-9487TB,Zeijerweg,26,,
-9487TB,Zeijerweg,28,,
-9487TB,Zeijerweg,30,,
-9487TB,Zeijerweg,32,,
-9487TB,Zeijerweg,34,A,
-9487TB,Zeijerweg,34,,
-9487TB,Zeijerweg,36,,
-9487TA,Zeijerweg,1,A,
-9487TB,Zeijerweg,32,A,
-9487TB,Zeijerweg,4,A,
-9487TC,Rheeërweg,40,,
-9487TC,Rheeërweg,40,,
-9487TA,Zeijerweg,9,B,
-9487TA,Zeijerweg,23,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+2,"","","",9407ZZ,
+verzorgingsplaats Peelerveld,2,"","",9407ZZ,Assen
+31,"","","",9487TA,
+3,"","","",9487TA,
+9,"","","",9487TA,
+23,"","","",9487TA,
+17,"","","",9487TA,
+21,"","","",9487TA,
+19,"","","",9487TA,
+1,"","","",9487TA,
+35,"","","",9487TA,
+11,"","","",9487TA,
+15,"","","",9487TA,
+37,"","","",9487TA,
+33,"","","",9487TA,
+5,"","","",9487TA,
+25,"","","",9487TA,
+13,"","","",9487TA,
+7,"","","",9487TA,
+13,"","","",9487TA,
+27,"","","",9487TA,
+29,"","","",9487TA,
+Zeijerweg,1,"","",9487TA,Ter Aard
+Zeijerweg,1,A,"",9487TA,Ter Aard
+Zeijerweg,11,"","",9487TA,Ter Aard
+Zeijerweg,11,A,"",9487TA,Ter Aard
+Zeijerweg,13,"","",9487TA,Ter Aard
+Zeijerweg,15,"","",9487TA,Ter Aard
+Zeijerweg,15,A,"",9487TA,Ter Aard
+Zeijerweg,17,"","",9487TA,Ter Aard
+Zeijerweg,19,"","",9487TA,Ter Aard
+Zeijerweg,21,"","",9487TA,Ter Aard
+Zeijerweg,23,"","",9487TA,Ter Aard
+Zeijerweg,23,"","",9487TA,Ter Aard
+Zeijerweg,23,A,"",9487TA,Ter Aard
+Zeijerweg,25,"","",9487TA,Ter Aard
+Zeijerweg,27,"","",9487TA,Ter Aard
+Zeijerweg,29,"","",9487TA,Ter Aard
+Zeijerweg,3,"","",9487TA,Ter Aard
+Zeijerweg,31,"","",9487TA,Ter Aard
+Zeijerweg,33,"","",9487TA,Ter Aard
+Zeijerweg,35,"","",9487TA,Ter Aard
+Zeijerweg,37,"","",9487TA,Ter Aard
+Zeijerweg,5,"","",9487TA,Ter Aard
+Zeijerweg,7,"","",9487TA,Ter Aard
+Zeijerweg,9,"","",9487TA,Ter Aard
+Zeijerweg,9,A,"",9487TA,Ter Aard
+Zeijerweg,9,B,"",9487TA,Ter Aard
+11,A,"","",9487TA,
+1,A,"","",9487TA,
+15,A,"","",9487TA,
+23,A,"","",9487TA,
+9,A,"","",9487TA,
+9,B,"","",9487TA,
+4,"","","",9487TB,
+12,"","","",9487TB,
+34,"","","",9487TB,
+20,"","","",9487TB,
+28,"","","",9487TB,
+8,"","","",9487TB,
+18,"","","",9487TB,
+16,"","","",9487TB,
+36,"","","",9487TB,
+10,"","","",9487TB,
+22,"","","",9487TB,
+26,"","","",9487TB,
+2,"","","",9487TB,
+24,"","","",9487TB,
+30,"","","",9487TB,
+14,"","","",9487TB,
+6,"","","",9487TB,
+32,"","","",9487TB,
+Zeijerweg,10,"","",9487TB,Ter Aard
+Zeijerweg,12,"","",9487TB,Ter Aard
+Zeijerweg,14,"","",9487TB,Ter Aard
+Zeijerweg,16,"","",9487TB,Ter Aard
+Zeijerweg,18,"","",9487TB,Ter Aard
+Zeijerweg,2,"","",9487TB,Ter Aard
+Zeijerweg,2,A,"",9487TB,Ter Aard
+Zeijerweg,20,"","",9487TB,Ter Aard
+Zeijerweg,22,"","",9487TB,Ter Aard
+Zeijerweg,24,"","",9487TB,Ter Aard
+Zeijerweg,26,"","",9487TB,Ter Aard
+Zeijerweg,28,"","",9487TB,Ter Aard
+Zeijerweg,30,"","",9487TB,Ter Aard
+Zeijerweg,32,"","",9487TB,Ter Aard
+Zeijerweg,32,A,"",9487TB,Ter Aard
+Zeijerweg,34,"","",9487TB,Ter Aard
+Zeijerweg,34,A,"",9487TB,Ter Aard
+Zeijerweg,36,"","",9487TB,Ter Aard
+Zeijerweg,4,"","",9487TB,Ter Aard
+Zeijerweg,4,A,"",9487TB,Ter Aard
+Zeijerweg,6,"","",9487TB,Ter Aard
+Zeijerweg,8,"","",9487TB,Ter Aard
+2,A,"","",9487TB,
+4,A,"","",9487TB,
+32,A,"","",9487TB,
+34,A,"","",9487TB,
+32,A,"","",9487TB,
+2,A,"","",9487TB,
+40,"","","",9487TC,
+40,"","","",9487TC,
+40,"","","",9487TC,
+Rheeërweg,40,"","",9487TC,Rhee
+Rheeërweg,40,"","",9487TC,Rhee
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

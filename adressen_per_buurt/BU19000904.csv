@@ -1,31 +1,31 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8774PM,Skoallepaed,5,,
-8774PM,Skoallepaed,2,,
-8774PM,Skoallepaed,3,,
-8774PM,Skoallepaed,4,,
-8774PM,Skoallepaed,6,,
-8774PM,Skoallepaed,8,,
-8774PM,Skoallepaed,12,,
-8774PL,Wolsumerwei,11,,
-8774PL,Wolsumerwei,1,,
-8774PL,Wolsumerwei,2,,
-8774PL,Wolsumerwei,3,,
-8774PL,Wolsumerwei,4,,
-8774PL,Wolsumerwei,5,,
-8774PL,Wolsumerwei,7,,
-8774PL,Wolsumerwei,9,,
-8774PL,Wolsumerwei,10,,
-8774PL,Wolsumerwei,12,,
-8774PL,Wolsumerwei,13,,
-8774PL,Wolsumerwei,15,,
-8774PL,Wolsumerwei,16,,
-8774PD,De Pôle,1,A,
-8774PD,de Pôle,1,A,
-8774PM,Skoallepaed,1,,
-8774PL,Wolsumerwei,14,,
-8774PD,De Pôle,1,,
-8774PD,de Pôle,1,,
-8774PD,De Pôle,3,,
-8774PD,de Pôle,3,,
-8774PD,De Pôle,5,,
-8774PD,de Pôle,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+De Pôle,1,"","",8774PD,Wolsum
+De Pôle,1,"","",8774PD,Wolsum
+De Pôle,1,A,"",8774PD,Wolsum
+De Pôle,1,A,"",8774PD,Wolsum
+De Pôle,3,"","",8774PD,Wolsum
+De Pôle,3,"","",8774PD,Wolsum
+De Pôle,5,"","",8774PD,Wolsum
+De Pôle,5,"","",8774PD,Wolsum
+Wolsumerwei,1,"","",8774PL,Wolsum
+Wolsumerwei,10,"","",8774PL,Wolsum
+Wolsumerwei,11,"","",8774PL,Wolsum
+Wolsumerwei,12,"","",8774PL,Wolsum
+Wolsumerwei,13,"","",8774PL,Wolsum
+Wolsumerwei,14,"","",8774PL,Wolsum
+Wolsumerwei,15,"","",8774PL,Wolsum
+Wolsumerwei,16,"","",8774PL,Wolsum
+Wolsumerwei,2,"","",8774PL,Wolsum
+Wolsumerwei,3,"","",8774PL,Wolsum
+Wolsumerwei,4,"","",8774PL,Wolsum
+Wolsumerwei,5,"","",8774PL,Wolsum
+Wolsumerwei,7,"","",8774PL,Wolsum
+Wolsumerwei,9,"","",8774PL,Wolsum
+Skoallepaed,1,"","",8774PM,Wolsum
+Skoallepaed,12,"","",8774PM,Wolsum
+Skoallepaed,2,"","",8774PM,Wolsum
+Skoallepaed,3,"","",8774PM,Wolsum
+Skoallepaed,4,"","",8774PM,Wolsum
+Skoallepaed,5,"","",8774PM,Wolsum
+Skoallepaed,6,"","",8774PM,Wolsum
+Skoallepaed,8,"","",8774PM,Wolsum

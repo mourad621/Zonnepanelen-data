@@ -1,64 +1,64 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2971VD,Abbekesdoel,76,,
-2971VD,Abbekesdoel,77,,
-2971VD,Abbekesdoel,78,,
-2971VD,Abbekesdoel,79,,
-2971VD,Abbekesdoel,80,,
-2971VD,Abbekesdoel,80,a,
-2971VD,Abbekesdoel,80,b,
-2971VD,Abbekesdoel,81,,
-2971VD,Abbekesdoel,82,,
-2971VD,Abbekesdoel,83,,
-2971VD,Abbekesdoel,84,,
-2971VD,Abbekesdoel,85,,
-2971VD,Abbekesdoel,86,,
-2971VD,Abbekesdoel,87,,
-2971VD,Abbekesdoel,88,,
-2971VD,Abbekesdoel,91,,
-2971VD,Abbekesdoel,92,,
-2971VD,Abbekesdoel,93,,
-2971VD,Abbekesdoel,92,a,
-2971VD,Abbekesdoel,93,a,
-2971VD,Abbekesdoel,93,b,
-2971VN,Kweldamweg,20,,
-2971VN,Kweldamweg,20,a,
-2971VK,Melkweg,2,,
-2971VK,Melkweg,4,a,
-2971VK,Melkweg,4,,
-2971VK,Melkweg,6,,
-2971VK,Melkweg,6,b,
-2971VK,Melkweg,7,,
-2971VK,Melkweg,8,,
-2971VK,Melkweg,10,a,
-2971VK,Melkweg,10,,
-2971VK,Melkweg,11,,
-2971VK,Melkweg,12,,
-2971VK,Melkweg,12,b,
-2971VK,Melkweg,12,a,
-2971VK,Melkweg,12,d,
-2971VK,Melkweg,17,,
-2971VK,Melkweg,22,,
-2971VK,Melkweg,21,,
-2971VK,Melkweg,16,a,
-2971VK,Melkweg,16,,
-2971VK,Melkweg,16,b,
-2971VK,Melkweg,16,c,
-2971VK,Melkweg,1,,
-2971HZ,Vlietweg,1,,
-2971VJ,Wervenkampweg,2,,
-2971VJ,Wervenkampweg,4,,
-2971VJ,Wervenkampweg,51,,
-2971VJ,Wervenkampweg,51,a,
-2971LA,Elzenweg,19,,
-2971VK,Melkweg,21,a,
-2971VK,Melkweg,21,,
-2971LA,Elzenweg,15,,
-2971VD,A,81,,
-2971VD,Abbekesdoel,79,A,
-2971VD,Abbekesdoel,80,,
-2971VD,Abbekesdoel,80,C,
-2971VD,Abbekesdoel,82,A,
-2971VK,Melkweg,24,,
-2971VK,Melkweg,2,B,
-2971VK,Melkweg,2,A,
-2971VK,Melkweg,16,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Vlietweg,1,"","",2971HZ,Bleskensgraaf ca
+Elzenweg,15,"","",2971LA,Bleskensgraaf ca
+Elzenweg,19,"","",2971LA,Bleskensgraaf ca
+Abbekesdoel,76,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,77,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,78,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,79,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,79,A,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,80,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,80,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,80,A,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,80,B,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,80,C,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,81,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,81,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,82,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,82,A,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,83,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,84,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,85,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,86,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,87,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,88,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,91,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,92,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,92,A,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,93,"","",2971VD,Bleskensgraaf ca
+Abbekesdoel,93,A,"",2971VD,Bleskensgraaf ca
+Abbekesdoel,93,B,"",2971VD,Bleskensgraaf ca
+Wervenkampweg,2,"","",2971VJ,Bleskensgraaf ca
+Wervenkampweg,4,"","",2971VJ,Bleskensgraaf ca
+Wervenkampweg,51,"","",2971VJ,Bleskensgraaf ca
+Wervenkampweg,51,A,"",2971VJ,Bleskensgraaf ca
+Melkweg,1,"","",2971VK,Bleskensgraaf ca
+Melkweg,10,"","",2971VK,Bleskensgraaf ca
+Melkweg,10,A,"",2971VK,Bleskensgraaf ca
+Melkweg,11,"","",2971VK,Bleskensgraaf ca
+Melkweg,12,"","",2971VK,Bleskensgraaf ca
+Melkweg,12,A,"",2971VK,Bleskensgraaf ca
+Melkweg,12,B,"",2971VK,Bleskensgraaf ca
+Melkweg,12,D,"",2971VK,Bleskensgraaf ca
+Melkweg,16,"","",2971VK,Bleskensgraaf ca
+Melkweg,16,A,"",2971VK,Bleskensgraaf ca
+Melkweg,16,A,"",2971VK,Bleskensgraaf ca
+Melkweg,16,B,"",2971VK,Bleskensgraaf ca
+Melkweg,16,C,"",2971VK,Bleskensgraaf ca
+Melkweg,17,"","",2971VK,Bleskensgraaf ca
+Melkweg,2,"","",2971VK,Bleskensgraaf ca
+Melkweg,2,A,"",2971VK,Bleskensgraaf ca
+Melkweg,2,B,"",2971VK,Bleskensgraaf ca
+Melkweg,21,"","",2971VK,Bleskensgraaf ca
+Melkweg,21,"","",2971VK,Bleskensgraaf ca
+Melkweg,21,A,"",2971VK,Bleskensgraaf ca
+Melkweg,22,"","",2971VK,Bleskensgraaf ca
+Melkweg,24,"","",2971VK,Bleskensgraaf ca
+Melkweg,4,"","",2971VK,Bleskensgraaf ca
+Melkweg,4,A,"",2971VK,Bleskensgraaf ca
+Melkweg,6,"","",2971VK,Bleskensgraaf ca
+Melkweg,6,B,"",2971VK,Bleskensgraaf ca
+Melkweg,7,"","",2971VK,Bleskensgraaf ca
+Melkweg,8,"","",2971VK,Bleskensgraaf ca
+Kweldamweg,20,"","",2971VN,Bleskensgraaf ca
+Kweldamweg,20,A,"",2971VN,Bleskensgraaf ca

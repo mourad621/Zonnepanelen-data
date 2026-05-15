@@ -1,89 +1,89 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-1191LJ,Amstelweg,1,,
-1191LJ,Amstelweg,1,A,
-1191LK,Amstelzijweg,1,,
-1191LK,Amstelzijweg,2,,
-1191LK,Amstelzijweg,2,A,
-1191LK,Amstelzijweg,3,A,
-1191LK,Amstelzijweg,4,,
-1191LK,Amstelzijweg,3,,
-1191EA,Burgemeester Stramanweg,96,,
-1191EA,Burgemeester Stramanweg,97,,
-1191EA,Burgemeester Stramanweg,98,,
-1191EA,Burgemeester Stramanweg,97,A,
-1191EA,Burgemeester Stramanweg,97,B,
-1191EA,Burgemeester Stramanweg,97,C,
-1191LG,Holendrechterweg,21,B,TRAF
-1191LH,Hoogendijk,1,,
-1191LH,Hoogendijk,2,,
-1191LH,Hoogendijk,2,A,
-1191LH,Hoogendijk,3,A,
-1191LH,Hoogendijk,3,,
-1191LH,Hoogendijk,5,,
-1191LE,Korte Dwarsweg,2,,
-1191LE,Korte Dwarsweg,3,,
-1191LE,Korte Dwarsweg,4,,
-1191LE,Korte Dwarsweg,5,,
-1191LE,Korte Dwarsweg,6,,
-1191LE,Korte Dwarsweg,7,,
-1191LE,Korte Dwarsweg,8,,
-1191LE,Korte Dwarsweg,9,,
-1191LE,Korte Dwarsweg,9,A,
-1191LE,Korte Dwarsweg,10,,
-1191LE,Korte Dwarsweg,10,A,
-1191LE,Korte Dwarsweg,11,,
-1191LE,Korte Dwarsweg,11,A,
-1191LE,Korte Dwarsweg,11,B,
-1191LE,Korte Dwarsweg,12,A,
-1191LE,Korte Dwarsweg,12,,
-1191LE,Korte Dwarsweg,13,,
-1191LE,Korte Dwarsweg,14,,
-1191LC,Machineweg,4,,
-1191LC,Machineweg,14,,
-1191LC,Machineweg,16,,
-1191LC,Machineweg,18,,
-1191LC,Machineweg,20,,
-1191LC,Machineweg,22,,
-1191LG,Middenweg,9,,
-1191LG,Middenweg,1,,
-1191LG,Middenweg,1,A,
-1191LG,Middenweg,2,,
-1191LG,Middenweg,3,A,
-1191LG,Middenweg,5,,
-1191LG,Middenweg,7,,
-1191LG,Middenweg,9,A,
-1191LD,Aan de Wind,9,,
-1191LD,Aan de Wind,9,A,
-1191EA,Burgemeester Stramanweg,98,,
-1191EA,Burgemeester Stramanweg,96,,
-1191EA,Burgemeester Stramanweg,97,B,
-1191LE,Korte Dwarsweg,9,A,
-1191LE,Korte Dwarsweg,2,,
-1191LE,Korte Dwarsweg,10,,
-1191LE,Korte Dwarsweg,10,B,
-1191LE,Korte Dwarsweg,9,,
-1191LE,Korte Dwarsweg,9,B,
-1191LE,Korte Dwarsweg,9,,
-1191LG,Middenweg,100,,
-1191LG,Middenweg,102,,
-1191LG,Middenweg,104,,
-1191LG,Middenweg,106,,
-1191LG,Middenweg,108,,
-1191LG,Middenweg,110,,
-1191LG,Middenweg,112,,
-1191LG,Middenweg,114,,
-1191LG,Middenweg,116,,
-1191LG,Middenweg,118,,
-1191LG,Middenweg,120,,
-1191LG,Middenweg,122,,
-1191LG,Middenweg,124,,
-1191LG,Middenweg,126,,
-1191LG,Middenweg,128,,
-1191LG,Middenweg,130,,
-1191LG,Middenweg,132,,
-1191LG,Middenweg,134,,
-1191LG,Middenweg,136,,
-1191LD,Aan de Wind,8,,
-1191LD,Aan de Wind,6,,
-1191LD,Aan de Wind,10,,
-1191LD,Aan de Wind,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Burgemeester Stramanweg,96,"","",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,96,"","",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,97,"","",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,97,A,"",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,97,B,"",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,97,B,"",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,97,C,"",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,98,"","",1191EA,Ouderkerk aan de Amstel
+Burgemeester Stramanweg,98,"","",1191EA,Ouderkerk aan de Amstel
+Machineweg,14,"","",1191LC,Ouderkerk aan de Amstel
+Machineweg,16,"","",1191LC,Ouderkerk aan de Amstel
+Machineweg,18,"","",1191LC,Ouderkerk aan de Amstel
+Machineweg,20,"","",1191LC,Ouderkerk aan de Amstel
+Machineweg,22,"","",1191LC,Ouderkerk aan de Amstel
+Machineweg,4,"","",1191LC,Ouderkerk aan de Amstel
+Aan de Wind,10,"","",1191LD,Ouderkerk aan de Amstel
+Aan de Wind,10,"","",1191LD,Ouderkerk aan de Amstel
+Aan de Wind,6,"","",1191LD,Ouderkerk aan de Amstel
+Aan de Wind,8,"","",1191LD,Ouderkerk aan de Amstel
+Aan de Wind,9,"","",1191LD,Ouderkerk aan de Amstel
+Aan de Wind,9,A,"",1191LD,Ouderkerk aan de Amstel
+Korte Dwarsweg,10,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,10,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,10,A,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,10,B,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,11,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,11,A,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,11,B,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,12,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,12,A,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,13,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,14,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,2,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,2,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,3,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,4,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,5,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,6,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,7,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,8,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,9,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,9,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,9,"","",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,9,A,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,9,A,"",1191LE,Ouderkerk aan de Amstel
+Korte Dwarsweg,9,B,"",1191LE,Ouderkerk aan de Amstel
+Middenweg,1,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,1,A,"",1191LG,Ouderkerk aan de Amstel
+Middenweg,100,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,102,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,104,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,106,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,108,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,110,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,112,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,114,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,116,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,118,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,120,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,122,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,124,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,126,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,128,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,130,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,132,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,134,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,136,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,2,"","",1191LG,Ouderkerk aan de Amstel
+Holendrechterweg,21,B,TRAF,1191LG,Ouderkerk aan de Amstel
+Middenweg,3,A,"",1191LG,Ouderkerk aan de Amstel
+Middenweg,5,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,7,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,9,"","",1191LG,Ouderkerk aan de Amstel
+Middenweg,9,A,"",1191LG,Ouderkerk aan de Amstel
+Hoogendijk,1,"","",1191LH,Ouderkerk aan de Amstel
+Hoogendijk,2,"","",1191LH,Ouderkerk aan de Amstel
+Hoogendijk,2,A,"",1191LH,Ouderkerk aan de Amstel
+Hoogendijk,3,"","",1191LH,Ouderkerk aan de Amstel
+Hoogendijk,3,A,"",1191LH,Ouderkerk aan de Amstel
+Hoogendijk,5,"","",1191LH,Ouderkerk aan de Amstel
+Amstelweg,1,"","",1191LJ,Ouderkerk aan de Amstel
+Amstelweg,1,A,"",1191LJ,Ouderkerk aan de Amstel
+Amstelzijweg,1,"","",1191LK,Ouderkerk aan de Amstel
+Amstelzijweg,2,"","",1191LK,Ouderkerk aan de Amstel
+Amstelzijweg,2,A,"",1191LK,Ouderkerk aan de Amstel
+Amstelzijweg,3,"","",1191LK,Ouderkerk aan de Amstel
+Amstelzijweg,3,A,"",1191LK,Ouderkerk aan de Amstel
+Amstelzijweg,4,"","",1191LK,Ouderkerk aan de Amstel

@@ -1,101 +1,101 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4847ND,Blauwhoefsedreef,1,,
-4847ND,Blauwhoefsedreef,2,,
-4847ND,Blauwhoefsedreef,3,,
-4847AJ,Hoeveneind,1,,
-4847AJ,Hoeveneind,3,,
-4847NA,Meerberg,1,,
-4847NA,Meerberg,1,A,
-4847NA,Meerberg,3,,
-4847NJ,Stidstraat,1,,
-4847AG,Zwarte Dijk,1,,
-4847AG,Zwarte Dijk,2,,
-4847NC,Bergse Pad,5,,
-4847NC,Bergse Pad,7,,
-4847NC,Bergse Pad,8,,
-4847ND,Blauwhoefsedreef,5,,
-4847AJ,Hoeveneind,6,,
-4847AJ,Hoeveneind,7,,
-4847AJ,Hoeveneind,8,,
-4847NA,Meerberg,5,,
-4847NJ,Stidstraat,6,,
-4847NC,Bergse Pad,9,,
-4847NC,Bergse Pad,12,,
-4847NC,Bergse Pad,13,,
-4847NC,Bergse Pad,14,,
-4847AJ,Hoeveneind,10,,
-4847AJ,Hoeveneind,12,,
-4847AJ,Hoeveneind,14,,
-4847NA,Meerberg,9,,
-4847NA,Meerberg,13,,
-4847NJ,Stidstraat,9,,
-4847NC,Bergse Pad,15,,
-4847NC,Bergse Pad,16,,
-4847NC,Bergse Pad,17,,
-4847NC,Bergse Pad,18,,
-4847AJ,Hoeveneind,16,,
-4847AJ,Hoeveneind,18,,
-4847NE,Hoeveneind,21,,
-4847NA,Meerberg,15,,
-4847NA,Meerberg,19,,
-4847NC,Bergse Pad,23,,
-4847NC,Bergse Pad,25,,
-4847AJ,Hoeveneind,22,,
-4847NE,Hoeveneind,23,,
-4847NE,Hoeveneind,25,,
-4847NE,Hoeveneind,27,,
-4847NE,Hoeveneind,27,A,
-4847NE,Hoeveneind,29,,
-4847NA,Meerberg,23,,
-4847NE,Hoeveneind,31,,
-4847NE,Hoeveneind,33,,
-4847NE,Hoeveneind,37,,
-4847NE,Hoeveneind,39,,
-4847NA,Meerberg,31,,
-4847NA,Meerberg,35,,
-4847NA,Meerberg,41,,
-4847NE,Hoeveneind,43,,
-4847NE,Hoeveneind,45,,
-4847NE,Hoeveneind,47,,
-4847NE,Hoeveneind,49,,
-4847NE,Hoeveneind,51,,
-4847NE,Hoeveneind,59,,
-4847NE,Hoeveneind,61,,
-4847NE,Hoeveneind,63,,
-4847NE,Hoeveneind,65,,
-4847NE,Hoeveneind,69,,
-4847NE,Hoeveneind,73,,
-4847NE,Hoeveneind,91,,
-4847NE,Hoeveneind,103,,
-4847NA,Meerberg,51506,,TRAF
-4847NE,Hoeveneind,103,,
-4847NA,Meerberg,43,,
-4847NC,Bergse Pad,12,A,
-4847NC,Bergse Pad,11,,
-4847NC,Bergse Pad,11,,
-4847NC,Bergse Pad,11,,
-4847AJ,Hoeveneind,15,,
-4847AJ,Hoeveneind,1,A,
-4847AJ,Hoeveneind,1,,
-4847AJ,Hoeveneind,3,,
-4847AJ,Hoeveneind,13,,
-4847AJ,Hoeveneind,9,,
-4847AJ,Hoeveneind,17,,
-4847AJ,Hoeveneind,11,,
-4847NJ,Stidstraat,7,,
-4847NC,Bergse Pad,15,,
-4847NC,Bergse Pad,15,A,
-4847NC,Bergse Pad,17,A,
-4847NC,Bergse Pad,17,A,
-4847NC,Bergse Pad,17,A,
-4847ND,Blauwhoefsedreef,3,,
-4847ND,Blauwhoefsedreef,3,A,
-4847NA,Meerberg,1,A,
-4847NA,Meerberg,1,B,
-4847NA,Meerberg,1,C,
-4847NA,Meerberg,1,A,
-4847AG,Zwarte Dijk,1,A,
-4847NC,Bergse Pad,18,A,
-4847NC,Bergse Pad,3,,
-4847ND,Blauwhoefsedreef,3,A,
-4847NJ,Stidstraat,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zwarte Dijk,1,"","",4847AG,Teteringen
+Zwarte Dijk,1,A,"",4847AG,Teteringen
+Zwarte Dijk,2,"","",4847AG,Teteringen
+Hoeveneind,1,"","",4847AJ,Teteringen
+Hoeveneind,1,"","",4847AJ,Teteringen
+Hoeveneind,1,A,"",4847AJ,Teteringen
+Hoeveneind,10,"","",4847AJ,Teteringen
+Hoeveneind,11,"","",4847AJ,Teteringen
+Hoeveneind,12,"","",4847AJ,Teteringen
+Hoeveneind,13,"","",4847AJ,Teteringen
+Hoeveneind,14,"","",4847AJ,Teteringen
+Hoeveneind,15,"","",4847AJ,Teteringen
+Hoeveneind,16,"","",4847AJ,Teteringen
+Hoeveneind,17,"","",4847AJ,Teteringen
+Hoeveneind,18,"","",4847AJ,Teteringen
+Hoeveneind,22,"","",4847AJ,Teteringen
+Hoeveneind,3,"","",4847AJ,Teteringen
+Hoeveneind,3,"","",4847AJ,Teteringen
+Hoeveneind,6,"","",4847AJ,Teteringen
+Hoeveneind,7,"","",4847AJ,Teteringen
+Hoeveneind,8,"","",4847AJ,Teteringen
+Hoeveneind,9,"","",4847AJ,Teteringen
+Meerberg,1,"","",4847NA,Teteringen
+Meerberg,1,A,"",4847NA,Teteringen
+Meerberg,1,A,"",4847NA,Teteringen
+Meerberg,1,A,"",4847NA,Teteringen
+Meerberg,1,B,"",4847NA,Teteringen
+Meerberg,1,C,"",4847NA,Teteringen
+Meerberg,13,"","",4847NA,Teteringen
+Meerberg,15,"","",4847NA,Teteringen
+Meerberg,19,"","",4847NA,Teteringen
+Meerberg,23,"","",4847NA,Teteringen
+Meerberg,3,"","",4847NA,Teteringen
+Meerberg,31,"","",4847NA,Teteringen
+Meerberg,35,"","",4847NA,Teteringen
+Meerberg,41,"","",4847NA,Teteringen
+Meerberg,43,"","",4847NA,Teteringen
+Meerberg,5,"","",4847NA,Teteringen
+Meerberg,51506,"",TRAF,4847NA,Teteringen
+Meerberg,9,"","",4847NA,Teteringen
+Bergse Pad,11,"","",4847NC,Teteringen
+Bergse Pad,11,"","",4847NC,Teteringen
+Bergse Pad,11,"","",4847NC,Teteringen
+Bergse Pad,12,"","",4847NC,Teteringen
+Bergse Pad,12,A,"",4847NC,Teteringen
+Bergse Pad,13,"","",4847NC,Teteringen
+Bergse Pad,14,"","",4847NC,Teteringen
+Bergse Pad,15,"","",4847NC,Teteringen
+Bergse Pad,15,"","",4847NC,Teteringen
+Bergse Pad,15,A,"",4847NC,Teteringen
+Bergse Pad,16,"","",4847NC,Teteringen
+Bergse Pad,17,"","",4847NC,Teteringen
+Bergse Pad,17,A,"",4847NC,Teteringen
+Bergse Pad,17,A,"",4847NC,Teteringen
+Bergse Pad,17,A,"",4847NC,Teteringen
+Bergse Pad,18,"","",4847NC,Teteringen
+Bergse Pad,18,A,"",4847NC,Teteringen
+Bergse Pad,23,"","",4847NC,Teteringen
+Bergse Pad,25,"","",4847NC,Teteringen
+Bergse Pad,3,"","",4847NC,Teteringen
+Bergse Pad,5,"","",4847NC,Teteringen
+Bergse Pad,7,"","",4847NC,Teteringen
+Bergse Pad,8,"","",4847NC,Teteringen
+Bergse Pad,9,"","",4847NC,Teteringen
+Blauwhoefsedreef,1,"","",4847ND,Teteringen
+Blauwhoefsedreef,2,"","",4847ND,Teteringen
+Blauwhoefsedreef,3,"","",4847ND,Teteringen
+Blauwhoefsedreef,3,"","",4847ND,Teteringen
+Blauwhoefsedreef,3,A,"",4847ND,Teteringen
+Blauwhoefsedreef,3,A,"",4847ND,Teteringen
+Blauwhoefsedreef,5,"","",4847ND,Teteringen
+Hoeveneind,103,"","",4847NE,Teteringen
+Hoeveneind,103,"","",4847NE,Teteringen
+Hoeveneind,21,"","",4847NE,Teteringen
+Hoeveneind,23,"","",4847NE,Teteringen
+Hoeveneind,25,"","",4847NE,Teteringen
+Hoeveneind,27,"","",4847NE,Teteringen
+Hoeveneind,27,A,"",4847NE,Teteringen
+Hoeveneind,29,"","",4847NE,Teteringen
+Hoeveneind,31,"","",4847NE,Teteringen
+Hoeveneind,33,"","",4847NE,Teteringen
+Hoeveneind,37,"","",4847NE,Teteringen
+Hoeveneind,39,"","",4847NE,Teteringen
+Hoeveneind,43,"","",4847NE,Teteringen
+Hoeveneind,45,"","",4847NE,Teteringen
+Hoeveneind,47,"","",4847NE,Teteringen
+Hoeveneind,49,"","",4847NE,Teteringen
+Hoeveneind,51,"","",4847NE,Teteringen
+Hoeveneind,59,"","",4847NE,Teteringen
+Hoeveneind,61,"","",4847NE,Teteringen
+Hoeveneind,63,"","",4847NE,Teteringen
+Hoeveneind,65,"","",4847NE,Teteringen
+Hoeveneind,69,"","",4847NE,Teteringen
+Hoeveneind,73,"","",4847NE,Teteringen
+Hoeveneind,91,"","",4847NE,Teteringen
+Stidstraat,1,"","",4847NJ,Teteringen
+Stidstraat,1,"","",4847NJ,Teteringen
+Stidstraat,6,"","",4847NJ,Teteringen
+Stidstraat,7,"","",4847NJ,Teteringen
+Stidstraat,9,"","",4847NJ,Teteringen

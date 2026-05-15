@@ -1,946 +1,480 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9503AA",18,"A",""
-"9503AA",12,"",""
-"9503AA",7,"",""
-"9503AA",18,"",""
-"9503AA",20,"",""
-"9503AA",19,"",""
-"9503AA",17,"",""
-"9503AA",16,"",""
-"9503AA",8,"",""
-"9503AA",4,"",""
-"9503AA",14,"",""
-"9503AA",10,"",""
-"9503AA",13,"",""
-"9503AA",15,"",""
-"9503AA",6,"",""
-"9503AB",22,"",""
-"9503AB",29,"",""
-"9503AB",25,"",""
-"9503AB",40,"",""
-"9503AB",28,"",""
-"9503AB",21,"",""
-"9503AB",41,"",""
-"9503AB",24,"",""
-"9503AB",34,"",""
-"9503AB",33,"",""
-"9503AB",23,"",""
-"9503AB",26,"",""
-"9503AB",36,"",""
-"9503AB",38,"",""
-"9503AB",31,"",""
-"9503AB",27,"",""
-"9503AB",39,"",""
-"9503AB",43,"",""
-"9503AB",37,"A",""
-"9503AB",30,"",""
-"9503AC",65,"",""
-"9503AC",45,"",""
-"9503AC",66,"",""
-"9503AC",64,"",""
-"9503AC",62,"",""
-"9503AC",44,"",""
-"9503AC",56,"",""
-"9503AC",57,"",""
-"9503AC",49,"",""
-"9503AC",54,"",""
-"9503AC",60,"",""
-"9503AC",52,"",""
-"9503AC",61,"",""
-"9503AC",53,"",""
-"9503AC",55,"A",""
-"9503AC",47,"",""
-"9503AC",59,"",""
-"9503AC",56,"A",""
-"9503AC",50,"",""
-"9503AC",58,"",""
-"9503AC",48,"",""
-"9503AC",55,"",""
-"9503AD",1,"A",""
-"9503AD",1,"",""
-"9503AD",6,"B",""
-"9503AD",3,"",""
-"9503AD",6,"A",""
-"9503AD",6,"",""
-"9503AD",2,"",""
-"9503AT",5,"",""
-"9503AT",13,"",""
-"9503AT",4,"A",""
-"9503AT",6,"",""
-"9503AT",6,"",""
-"9503AT",7,"",""
-"9503AT",12,"",""
-"9503AT",11,"",""
-"9503AT",6,"",""
-"9503AT",3,"",""
-"9503AT",9,"",""
-"9503AT",16,"",""
-"9503AT",11,"A",""
-"9503AT",4,"",""
-"9503AT",15,"",""
-"9503AT",14,"A",""
-"9503AT",10,"",""
-"9503AT",8,"",""
-"9503AT",14,"",""
-"9503AT",1,"",""
-"9503AT",2,"",""
-"9503AZ",10,"",""
-"9503AZ",20,"",""
-"9503JA",3,"",""
-"9503JA",11,"A",""
-"9503JA",25,"A",""
-"9503JA",39,"",""
-"9503JA",5,"",""
-"9503JA",37,"",""
-"9503JA",13,"",""
-"9503JA",11,"B",""
-"9503JA",7,"",""
-"9503JA",21,"",""
-"9503JA",9,"",""
-"9503JA",29,"",""
-"9503JA",19,"",""
-"9503JA",35,"",""
-"9503JA",31,"",""
-"9503JA",23,"",""
-"9503JA",25,"",""
-"9503JA",11,"",""
-"9503JA",33,"",""
-"9503JB",6,"A",""
-"9503JB",6,"",""
-"9503JB",22,"",""
-"9503JB",20,"",""
-"9503JB",24,"",""
-"9503JB",22,"B",""
-"9503PA",1,"D",""
-"9503PA",1,"C",""
-"9503PA",2,"",""
-"9503PA",1,"D",""
-"9503PA",2,"A",""
-"9503PA",10,"",""
-"9503PA",18,"",""
-"9503PA",15,"",""
-"9503PA",9,"",""
-"9503PA",1,"D",""
-"9503PA",20,"",""
-"9503PA",2,"B",""
-"9503PA",1,"B",""
-"9503PA",12,"",""
-"9503PA",17,"",""
-"9503PA",16,"",""
-"9503PA",8,"",""
-"9503PA",14,"",""
-"9503PA",19,"",""
-"9503PA",13,"",""
-"9503PA",1,"",""
-"9503PA",1,"A",""
-"9503PB",39,"",""
-"9503PB",31,"",""
-"9503PB",32,"",""
-"9503PB",34,"",""
-"9503PB",42,"",""
-"9503PB",24,"",""
-"9503PB",21,"",""
-"9503PB",27,"",""
-"9503PB",38,"",""
-"9503PB",33,"",""
-"9503PB",32,"",""
-"9503PB",26,"",""
-"9503PB",36,"",""
-"9503PB",41,"",""
-"9503PB",40,"",""
-"9503PB",37,"",""
-"9503PB",32,"",""
-"9503PB",28,"",""
-"9503PB",43,"",""
-"9503PB",30,"",""
-"9503PC",52,"",""
-"9503PC",12,"C",""
-"9503PC",47,"",""
-"9503PC",12,"B",""
-"9503PC",62,"A",""
-"9503PC",44,"",""
-"9503PC",46,"",""
-"9503PC",49,"",""
-"9503PC",12,"C",""
-"9503PC",59,"",""
-"9503PC",48,"",""
-"9503PC",50,"",""
-"9503PC",57,"",""
-"9503PC",62,"",""
-"9503PC",51,"",""
-"9503PC",58,"",""
-"9503PC",61,"",""
-"9503PC",55,"",""
-"9503PC",56,"",""
-"9503PC",12,"B",""
-"9503PC",54,"",""
-"9503PC",60,"",""
-"9503PD",25,"",""
-"9503PD",4,"",""
-"9503PD",16,"",""
-"9503PD",13,"",""
-"9503PD",19,"",""
-"9503PD",17,"",""
-"9503PD",10,"",""
-"9503PD",5,"",""
-"9503PD",15,"",""
-"9503PD",12,"",""
-"9503PD",23,"",""
-"9503PD",1,"",""
-"9503PD",18,"A",""
-"9503PD",2,"",""
-"9503PD",18,"",""
-"9503PD",24,"",""
-"9503PD",3,"",""
-"9503PD",20,"",""
-"9503PD",11,"",""
-"9503PD",10,"A",""
-"9503PD",6,"",""
-"9503PD",8,"B",""
-"9503PD",8,"",""
-"9503PD",21,"",""
-"9503PD",10,"B",""
-"9503PD",8,"C",""
-"9503PD",8,"A",""
-"9503PD",7,"",""
-"9503PD",9,"",""
-"9503PD",22,"",""
-"9503PE",41,"A",""
-"9503PE",44,"A",""
-"9503PE",35,"",""
-"9503PE",44,"",""
-"9503PE",40,"",""
-"9503PE",41,"",""
-"9503PE",34,"A",""
-"9503PE",32,"",""
-"9503PE",42,"",""
-"9503PE",43,"",""
-"9503PE",37,"",""
-"9503PE",39,"",""
-"9503PE",44,"A",""
-"9503PE",31,"",""
-"9503PE",30,"",""
-"9503PE",40,"",""
-"9503PE",26,"",""
-"9503PE",38,"B",""
-"9503PE",40,"",""
-"9503PE",45,"",""
-"9503PE",34,"",""
-"9503PE",29,"",""
-"9503PE",44,"A",""
-"9503PE",27,"",""
-"9503PE",28,"",""
-"9503PE",48,"",""
-"9503PE",33,"",""
-"9503PE",47,"",""
-"9503PE",36,"",""
-"9503PE",46,"A",""
-"9503PE",38,"A",""
-"9503PE",38,"",""
-"9503PG",66,"C",""
-"9503PG",66,"B",""
-"9503PG",60,"",""
-"9503PG",52,"A",""
-"9503PG",66,"",""
-"9503PG",57,"",""
-"9503PG",62,"",""
-"9503PG",63,"",""
-"9503PG",51,"",""
-"9503PG",52,"",""
-"9503PG",50,"",""
-"9503PG",65,"",""
-"9503PG",56,"",""
-"9503PG",66,"A",""
-"9503PG",58,"",""
-"9503PG",53,"",""
-"9503PG",49,"",""
-"9503PG",55,"",""
-"9503PH",68,"",""
-"9503PH",74,"",""
-"9503PH",75,"",""
-"9503PH",76,"",""
-"9503PH",70,"",""
-"9503PH",72,"",""
-"9503PH",73,"",""
-"9503PH",69,"",""
-"9503PH",71,"",""
-"9503PJ",1,"",""
-"9503PJ",8,"",""
-"9503PJ",7,"",""
-"9503PJ",2,"",""
-"9503PJ",4,"",""
-"9503PJ",5,"",""
-"9503PJ",3,"",""
-"9503PJ",10,"",""
-"9503PJ",6,"",""
-"9503RA",18,"",""
-"9503RA",17,"",""
-"9503RA",12,"",""
-"9503RA",23,"",""
-"9503RA",22,"",""
-"9503RA",24,"",""
-"9503RA",25,"",""
-"9503RA",16,"",""
-"9503RA",4,"",""
-"9503RA",19,"",""
-"9503RA",2,"",""
-"9503RA",13,"",""
-"9503RA",21,"",""
-"9503RA",6,"",""
-"9503RA",14,"",""
-"9503RA",15,"",""
-"9503RA",9,"",""
-"9503RA",11,"",""
-"9503RA",10,"",""
-"9503RB",49,"",""
-"9503RB",43,"",""
-"9503RB",41,"",""
-"9503RB",33,"",""
-"9503RB",39,"",""
-"9503RB",36,"",""
-"9503RB",50,"",""
-"9503RB",26,"",""
-"9503RB",45,"",""
-"9503RB",48,"",""
-"9503RB",38,"",""
-"9503RB",37,"",""
-"9503RB",31,"",""
-"9503RB",47,"",""
-"9503RB",35,"",""
-"9503RB",34,"",""
-"9503RB",28,"",""
-"9503RC",53,"",""
-"9503RC",65,"",""
-"9503RC",52,"",""
-"9503RC",60,"",""
-"9503RC",69,"",""
-"9503RC",61,"",""
-"9503RC",59,"",""
-"9503RC",73,"",""
-"9503RC",66,"",""
-"9503RC",62,"",""
-"9503RC",74,"",""
-"9503RC",53,"",""
-"9503RC",64,"",""
-"9503RC",63,"",""
-"9503RC",56,"",""
-"9503RC",71,"",""
-"9503RC",70,"",""
-"9503RC",52,"",""
-"9503RC",51,"",""
-"9503RC",58,"",""
-"9503RC",55,"",""
-"9503RC",54,"",""
-"9503RC",72,"",""
-"9503RD",85,"",""
-"9503RD",89,"",""
-"9503RD",92,"",""
-"9503RD",94,"",""
-"9503RD",79,"",""
-"9503RD",93,"",""
-"9503RD",97,"",""
-"9503RD",91,"",""
-"9503RD",95,"",""
-"9503RD",77,"",""
-"9503RD",82,"",""
-"9503RD",88,"",""
-"9503RD",98,"",""
-"9503RD",81,"",""
-"9503RD",78,"",""
-"9503RD",83,"",""
-"9503RD",80,"",""
-"9503RD",75,"",""
-"9503RD",96,"",""
-"9503RE",104,"",""
-"9503RE",106,"",""
-"9503RE",102,"",""
-"9503RE",107,"",""
-"9503RE",99,"",""
-"9503RE",100,"",""
-"9503RE",105,"",""
-"9503RE",108,"",""
-"9503RE",103,"",""
-"9503RG",17,"",""
-"9503RG",24,"",""
-"9503RG",22,"",""
-"9503RG",5,"",""
-"9503RG",11,"",""
-"9503RG",20,"",""
-"9503RG",23,"A",""
-"9503RG",7,"",""
-"9503RG",3,"",""
-"9503RG",15,"",""
-"9503RG",8,"",""
-"9503RG",1,"",""
-"9503RG",23,"",""
-"9503RG",25,"",""
-"9503RG",9,"",""
-"9503RG",10,"",""
-"9503RG",4,"",""
-"9503RG",13,"",""
-"9503RG",16,"",""
-"9503RG",10,"A",""
-"9503RG",2,"",""
-"9503RH",37,"",""
-"9503RH",28,"",""
-"9503RH",45,"",""
-"9503RH",29,"",""
-"9503RH",32,"",""
-"9503RH",44,"",""
-"9503RH",34,"",""
-"9503RH",48,"",""
-"9503RH",35,"",""
-"9503RH",26,"",""
-"9503RH",40,"",""
-"9503RH",30,"",""
-"9503RH",33,"",""
-"9503RH",46,"",""
-"9503RH",27,"",""
-"9503RH",38,"",""
-"9503RH",43,"",""
-"9503RH",41,"",""
-"9503RH",42,"",""
-"9503RJ",74,"",""
-"9503RJ",54,"",""
-"9503RJ",72,"",""
-"9503RJ",67,"",""
-"9503RJ",73,"",""
-"9503RJ",57,"",""
-"9503RJ",65,"",""
-"9503RJ",75,"",""
-"9503RJ",58,"",""
-"9503RJ",61,"",""
-"9503RJ",68,"",""
-"9503RJ",69,"",""
-"9503RJ",53,"",""
-"9503RJ",56,"",""
-"9503RJ",64,"",""
-"9503RJ",62,"",""
-"9503RJ",59,"",""
-"9503RJ",55,"",""
-"9503RJ",60,"",""
-"9503RJ",56,"A",""
-"9503RK",80,"",""
-"9503RK",95,"",""
-"9503RK",96,"",""
-"9503RK",93,"",""
-"9503RK",92,"",""
-"9503RK",89,"",""
-"9503RK",99,"",""
-"9503RK",98,"",""
-"9503RK",96,"A",""
-"9503RK",77,"A",""
-"9503RK",91,"",""
-"9503RK",77,"",""
-"9503RK",78,"",""
-"9503RK",82,"",""
-"9503RK",90,"",""
-"9503RK",81,"",""
-"9503RK",86,"",""
-"9503RK",79,"",""
-"9503RK",84,"",""
-"9503RK",83,"",""
-"9503RK",76,"",""
-"9503RK",85,"",""
-"9503RL",120,"",""
-"9503RL",111,"",""
-"9503RL",110,"",""
-"9503RL",112,"",""
-"9503RL",113,"",""
-"9503RL",109,"",""
-"9503RL",115,"",""
-"9503RL",103,"",""
-"9503RL",102,"",""
-"9503RL",106,"",""
-"9503RL",122,"",""
-"9503RL",119,"",""
-"9503RL",124,"A",""
-"9503RL",120,"",""
-"9503RL",101,"",""
-"9503RL",116,"",""
-"9503RL",119,"",""
-"9503RL",105,"",""
-"9503RL",124,"",""
-"9503RL",124,"A",""
-"9503RL",114,"",""
-"9503RL",118,"",""
-"9503RL",107,"",""
-"9503RL",104,"",""
-"9503RL",119,"",""
-"9503RM",128,"A",""
-"9503RM",129,"",""
-"9503RM",129,"",""
-"9503RM",126,"",""
-"9503RM",125,"",""
-"9503RM",128,"",""
-"9503RM",129,"",""
-"9503RM",127,"",""
-"9503RM",127,"",""
-"9503RM",128,"A",""
-"9503RN",1,"",""
-9503RN,Boerveenschemond,1,,
-9503JA,Gasselterstraat,3,,
-9503JA,Gasselterstraat,5,,
-9503JA,Gasselterstraat,7,,
-9503JA,Gasselterstraat,9,,
-9503JA,Gasselterstraat,11,,
-9503JA,Gasselterstraat,13,,
-9503JA,Gasselterstraat,19,,
-9503JA,Gasselterstraat,21,,
-9503JA,Gasselterstraat,23,,
-9503JA,Gasselterstraat,25,A,
-9503JA,Gasselterstraat,25,,
-9503JA,Gasselterstraat,29,,
-9503JA,Gasselterstraat,33,,
-9503JA,Gasselterstraat,35,,
-9503JA,Gasselterstraat,37,,
-9503JA,Gasselterstraat,39,,
-9503JB,Gasselterstraat,6,,
-9503JB,Gasselterstraat,6,A,
-9503JB,Gasselterstraat,20,,
-9503JB,Gasselterstraat,22,,
-9503JB,Gasselterstraat,22,B,
-9503JB,Gasselterstraat,24,,
-9503PJ,Gietermond,1,,
-9503PJ,Gietermond,2,,
-9503PJ,Gietermond,3,,
-9503PJ,Gietermond,4,,
-9503PJ,Gietermond,5,,
-9503PJ,Gietermond,6,,
-9503PJ,Gietermond,7,,
-9503PJ,Gietermond,8,,
-9503PJ,Gietermond,10,,
-9503RG,H.J. Kniggekade,1,,
-9503RG,H.J. Kniggekade,2,,
-9503RG,H.J. Kniggekade,3,,
-9503RG,H.J. Kniggekade,4,,
-9503RG,H.J. Kniggekade,5,,
-9503RG,H.J. Kniggekade,7,,
-9503RG,H.J. Kniggekade,8,,
-9503RG,H.J. Kniggekade,9,,
-9503RG,H.J. Kniggekade,10,A,
-9503RG,H.J. Kniggekade,10,,
-9503RG,H.J. Kniggekade,11,,
-9503RG,H.J. Kniggekade,13,,
-9503RG,H.J. Kniggekade,15,,
-9503RG,H.J. Kniggekade,16,,
-9503RG,H.J. Kniggekade,17,,
-9503RG,H.J. Kniggekade,20,,
-9503RG,H.J. Kniggekade,22,,
-9503RG,H.J. Kniggekade,23,,
-9503RG,H.J. Kniggekade,23,A,
-9503RG,H.J. Kniggekade,24,,
-9503RG,H.J. Kniggekade,25,,
-9503RH,H.J. Kniggekade,26,,
-9503RH,H.J. Kniggekade,27,,
-9503RH,H.J. Kniggekade,28,,
-9503RH,H.J. Kniggekade,29,,
-9503RH,H.J. Kniggekade,30,,
-9503RH,H.J. Kniggekade,32,,
-9503RH,H.J. Kniggekade,33,,
-9503RH,H.J. Kniggekade,34,,
-9503RH,H.J. Kniggekade,35,,
-9503RH,H.J. Kniggekade,37,,
-9503RH,H.J. Kniggekade,38,,
-9503RH,H.J. Kniggekade,40,,
-9503RH,H.J. Kniggekade,41,,
-9503RH,H.J. Kniggekade,42,,
-9503RH,H.J. Kniggekade,43,,
-9503RH,H.J. Kniggekade,44,,
-9503RH,H.J. Kniggekade,45,,
-9503RH,H.J. Kniggekade,46,,
-9503RH,H.J. Kniggekade,48,,
-9503RJ,H.J. Kniggekade,53,,
-9503RJ,H.J. Kniggekade,54,,
-9503RJ,H.J. Kniggekade,55,,
-9503RJ,H.J. Kniggekade,56,A,
-9503RJ,H.J. Kniggekade,56,,
-9503RJ,H.J. Kniggekade,57,,
-9503RJ,H.J. Kniggekade,58,,
-9503RJ,H.J. Kniggekade,59,,
-9503RJ,H.J. Kniggekade,60,,
-9503RJ,H.J. Kniggekade,61,,
-9503RJ,H.J. Kniggekade,62,,
-9503RJ,H.J. Kniggekade,64,,
-9503RJ,H.J. Kniggekade,65,,
-9503RJ,H.J. Kniggekade,67,,
-9503RJ,H.J. Kniggekade,68,,
-9503RJ,H.J. Kniggekade,69,,
-9503RJ,H.J. Kniggekade,72,,
-9503RJ,H.J. Kniggekade,73,,
-9503RJ,H.J. Kniggekade,74,,
-9503RJ,H.J. Kniggekade,75,,
-9503RK,H.J. Kniggekade,76,,
-9503RK,H.J. Kniggekade,77,A,
-9503RK,H.J. Kniggekade,77,,
-9503RK,H.J. Kniggekade,78,,
-9503RK,H.J. Kniggekade,79,,
-9503RK,H.J. Kniggekade,80,,
-9503RK,H.J. Kniggekade,81,,
-9503RK,H.J. Kniggekade,82,,
-9503RK,H.J. Kniggekade,83,,
-9503RK,H.J. Kniggekade,84,,
-9503RK,H.J. Kniggekade,85,,
-9503RK,H.J. Kniggekade,86,,
-9503RK,H.J. Kniggekade,89,,
-9503RK,H.J. Kniggekade,90,,
-9503RK,H.J. Kniggekade,91,,
-9503RK,H.J. Kniggekade,92,,
-9503RK,H.J. Kniggekade,93,,
-9503RK,H.J. Kniggekade,95,,
-9503RK,H.J. Kniggekade,96,,
-9503RK,H.J. Kniggekade,96,A,
-9503RK,H.J. Kniggekade,98,,
-9503RK,H.J. Kniggekade,99,,
-9503RL,H.J. Kniggekade,103,,
-9503RL,H.J. Kniggekade,104,,
-9503RL,H.J. Kniggekade,105,,
-9503RL,H.J. Kniggekade,106,,
-9503RL,H.J. Kniggekade,107,,
-9503RL,H.J. Kniggekade,109,,
-9503RL,H.J. Kniggekade,110,,
-9503RL,H.J. Kniggekade,111,,
-9503RL,H.J. Kniggekade,112,,
-9503RL,H.J. Kniggekade,113,,
-9503RL,H.J. Kniggekade,114,,
-9503RL,H.J. Kniggekade,115,,
-9503RL,H.J. Kniggekade,116,,
-9503RL,H.J. Kniggekade,118,,
-9503RL,H.J. Kniggekade,119,,
-9503RL,H.J. Kniggekade,120,,
-9503RL,H.J. Kniggekade,122,,
-9503RL,H.J. Kniggekade,124,,
-9503RL,H.J. Kniggekade,124,A,
-9503RL,H.J. Kniggekade,101,,
-9503RL,H.J. Kniggekade,102,,
-9503RM,H.J. Kniggekade,125,,
-9503RM,H.J. Kniggekade,126,,
-9503RM,H.J. Kniggekade,127,,
-9503RM,H.J. Kniggekade,128,,
-9503RM,H.J. Kniggekade,129,,
-9503PA,Scheepswerfkade,1,,
-9503PA,Scheepswerfkade,1,B,
-9503PA,Scheepswerfkade,2,,
-9503PA,Scheepswerfkade,2,A,
-9503PA,Scheepswerfkade,8,,
-9503PA,Scheepswerfkade,9,,
-9503PA,Scheepswerfkade,10,,
-9503PA,Scheepswerfkade,12,,
-9503PA,Scheepswerfkade,13,,
-9503PA,Scheepswerfkade,14,,
-9503PA,Scheepswerfkade,16,,
-9503PA,Scheepswerfkade,17,,
-9503PA,Scheepswerfkade,18,,
-9503PA,Scheepswerfkade,19,,
-9503PA,Scheepswerfkade,20,,
-9503PA,Scheepswerfkade,1,C,
-9503PA,Scheepswerfkade,15,,
-9503PA,Scheepswerfkade,2,B,
-9503PA,Scheepswerfkade,1,D,
-9503PA,Scheepswerfkade,1,D,
-9503PA,Scheepswerfkade,1,A,
-9503PB,Scheepswerfkade,21,,
-9503PB,Scheepswerfkade,24,,
-9503PB,Scheepswerfkade,26,,
-9503PB,Scheepswerfkade,27,,
-9503PB,Scheepswerfkade,28,,
-9503PB,Scheepswerfkade,30,,
-9503PB,Scheepswerfkade,31,,
-9503PB,Scheepswerfkade,32,,
-9503PB,Scheepswerfkade,33,,
-9503PB,Scheepswerfkade,34,,
-9503PB,Scheepswerfkade,36,,
-9503PB,Scheepswerfkade,37,,
-9503PB,Scheepswerfkade,38,,
-9503PB,Scheepswerfkade,39,,
-9503PB,Scheepswerfkade,40,,
-9503PB,Scheepswerfkade,41,,
-9503PB,Scheepswerfkade,42,,
-9503PB,Scheepswerfkade,43,,
-9503PB,Scheepswerfkade,32,,
-9503PC,Scheepswerfkade,44,,
-9503PC,Scheepswerfkade,46,,
-9503PC,Scheepswerfkade,47,,
-9503PC,Scheepswerfkade,48,,
-9503PC,Scheepswerfkade,49,,
-9503PC,Scheepswerfkade,51,,
-9503PC,Scheepswerfkade,52,,
-9503PC,Scheepswerfkade,54,,
-9503PC,Scheepswerfkade,55,,
-9503PC,Scheepswerfkade,56,,
-9503PC,Scheepswerfkade,57,,
-9503PC,Scheepswerfkade,58,,
-9503PC,Scheepswerfkade,59,,
-9503PC,Scheepswerfkade,60,,
-9503PC,Scheepswerfkade,61,,
-9503PC,Scheepswerfkade,62,,
-9503PC,Scheepswerfkade,62,A,
-9503PC,Scheepswerfkade,50,,
-9503JA,Gasselterstraat,31,,
-9503JA,Gasselterstraat,11,A,
-9503JA,Gasselterstraat,11,B,
-9503RL,H.J. Kniggekade,119,,
-9503RM,H.J. Kniggekade,128,A,
-9503RM,H.J. Kniggekade,129,,
-9503RL,H.J. Kniggestraat,124,A,
-9503AA,Handelskade,4,,
-9503AA,Handelskade,6,,
-9503AA,Handelskade,7,,
-9503AA,Handelskade,8,,
-9503AA,Handelskade,10,,
-9503AA,Handelskade,12,,
-9503AA,Handelskade,13,,
-9503AA,Handelskade,14,,
-9503AA,Handelskade,15,,
-9503AA,Handelskade,16,,
-9503AA,Handelskade,17,,
-9503AA,Handelskade,18,A,
-9503AA,Handelskade,18,,
-9503AA,Handelskade,19,,
-9503AA,Handelskade,20,,
-9503AB,Handelskade,21,,
-9503AB,Handelskade,22,,
-9503AB,Handelskade,23,,
-9503AB,Handelskade,24,,
-9503AB,Handelskade,25,,
-9503AB,Handelskade,26,,
-9503AB,Handelskade,27,,
-9503AB,Handelskade,28,,
-9503AB,Handelskade,29,,
-9503AB,Handelskade,30,,
-9503AB,Handelskade,31,,
-9503AB,Handelskade,33,,
-9503AB,Handelskade,34,,
-9503AB,Handelskade,36,,
-9503AB,Handelskade,37,A,
-9503AB,Handelskade,38,,
-9503AB,Handelskade,39,,
-9503AB,Handelskade,40,,
-9503AB,Handelskade,41,,
-9503AB,Handelskade,43,,
-9503AC,Handelskade,44,,
-9503AC,Handelskade,45,,
-9503AC,Handelskade,47,,
-9503AC,Handelskade,48,,
-9503AC,Handelskade,49,,
-9503AC,Handelskade,50,,
-9503AC,Handelskade,52,,
-9503AC,Handelskade,53,,
-9503AC,Handelskade,54,,
-9503AC,Handelskade,55,,
-9503AC,Handelskade,56,,
-9503AC,Handelskade,56,A,
-9503AC,Handelskade,57,,
-9503AC,Handelskade,58,,
-9503AC,Handelskade,59,,
-9503AC,Handelskade,60,,
-9503AC,Handelskade,61,,
-9503AC,Handelskade,62,,
-9503AC,Handelskade,64,,
-9503AC,Handelskade,65,,
-9503AC,Handelskade,66,,
-9503AC,Handelskade,55,A,
-9503RA,Semskade,2,,
-9503RA,Semskade,4,,
-9503RA,Semskade,6,,
-9503RA,Semskade,9,,
-9503RA,Semskade,10,,
-9503RA,Semskade,11,,
-9503RA,Semskade,12,,
-9503RA,Semskade,13,,
-9503RA,Semskade,14,,
-9503RA,Semskade,15,,
-9503RA,Semskade,16,,
-9503RA,Semskade,17,,
-9503RA,Semskade,18,,
-9503RA,Semskade,19,,
-9503RA,Semskade,21,,
-9503RA,Semskade,22,,
-9503RA,Semskade,23,,
-9503RA,Semskade,24,,
-9503RA,Semskade,25,,
-9503RB,Semskade,26,,
-9503RB,Semskade,28,,
-9503RB,Semskade,31,,
-9503RB,Semskade,33,,
-9503RB,Semskade,34,,
-9503RB,Semskade,35,,
-9503RB,Semskade,36,,
-9503RB,Semskade,37,,
-9503RB,Semskade,38,,
-9503RB,Semskade,39,,
-9503RB,Semskade,41,,
-9503RB,Semskade,43,,
-9503RB,Semskade,45,,
-9503RB,Semskade,47,,
-9503RB,Semskade,48,,
-9503RB,Semskade,49,,
-9503RB,Semskade,50,,
-9503RC,Semskade,51,,
-9503RC,Semskade,52,,
-9503RC,Semskade,52,,
-9503RC,Semskade,53,,
-9503RC,Semskade,54,,
-9503RC,Semskade,55,,
-9503RC,Semskade,56,,
-9503RC,Semskade,58,,
-9503RC,Semskade,59,,
-9503RC,Semskade,60,,
-9503RC,Semskade,61,,
-9503RC,Semskade,62,,
-9503RC,Semskade,63,,
-9503RC,Semskade,64,,
-9503RC,Semskade,65,,
-9503RC,Semskade,66,,
-9503RC,Semskade,69,,
-9503RC,Semskade,70,,
-9503RC,Semskade,71,,
-9503RC,Semskade,72,,
-9503RC,Semskade,73,,
-9503RC,Semskade,74,,
-9503RD,Semskade,75,,
-9503RD,Semskade,77,,
-9503RD,Semskade,78,,
-9503RD,Semskade,79,,
-9503RD,Semskade,80,,
-9503RD,Semskade,81,,
-9503RD,Semskade,82,,
-9503RD,Semskade,83,,
-9503RD,Semskade,85,,
-9503RD,Semskade,88,,
-9503RD,Semskade,89,,
-9503RD,Semskade,91,,
-9503RD,Semskade,92,,
-9503RD,Semskade,93,,
-9503RD,Semskade,94,,
-9503RD,Semskade,95,,
-9503RD,Semskade,96,,
-9503RD,Semskade,97,,
-9503RD,Semskade,98,,
-9503RE,Semskade,99,,
-9503RE,Semskade,100,,
-9503RE,Semskade,102,,
-9503RE,Semskade,103,,
-9503RE,Semskade,104,,
-9503RE,Semskade,105,,
-9503RE,Semskade,106,,
-9503RE,Semskade,107,,
-9503RE,Semskade,108,,
-9503PC,Semsstraat,12,B,
-9503PC,Semsstraat,12,C,
-9503AD,Stationsstraat,1,,
-9503AD,Stationsstraat,2,,
-9503AD,Stationsstraat,3,,
-9503AD,Stationsstraat,6,,
-9503AD,Stationsstraat,6,A,
-9503AD,Stationsstraat,6,B,
-9503AD,Stationsstraat,1,A,
-9503PD,Unikenkade,2,,
-9503PD,Unikenkade,3,,
-9503PD,Unikenkade,4,,
-9503PD,Unikenkade,5,,
-9503PD,Unikenkade,6,,
-9503PD,Unikenkade,7,,
-9503PD,Unikenkade,8,A,
-9503PD,Unikenkade,8,B,
-9503PD,Unikenkade,8,C,
-9503PD,Unikenkade,8,,
-9503PD,Unikenkade,9,,
-9503PD,Unikenkade,10,A,
-9503PD,Unikenkade,10,B,
-9503PD,Unikenkade,10,,
-9503PD,Unikenkade,11,,
-9503PD,Unikenkade,12,,
-9503PD,Unikenkade,13,,
-9503PD,Unikenkade,15,,
-9503PD,Unikenkade,16,,
-9503PD,Unikenkade,17,,
-9503PD,Unikenkade,18,A,
-9503PD,Unikenkade,18,,
-9503PD,Unikenkade,19,,
-9503PD,Unikenkade,20,,
-9503PD,Unikenkade,21,,
-9503PD,Unikenkade,22,,
-9503PD,Unikenkade,23,,
-9503PD,Unikenkade,24,,
-9503PD,Unikenkade,25,,
-9503PD,Unikenkade,1,,
-9503PE,Unikenkade,26,,
-9503PE,Unikenkade,27,,
-9503PE,Unikenkade,28,,
-9503PE,Unikenkade,29,,
-9503PE,Unikenkade,30,,
-9503PE,Unikenkade,31,,
-9503PE,Unikenkade,32,,
-9503PE,Unikenkade,33,,
-9503PE,Unikenkade,34,,
-9503PE,Unikenkade,35,,
-9503PE,Unikenkade,36,,
-9503PE,Unikenkade,37,,
-9503PE,Unikenkade,38,A,
-9503PE,Unikenkade,38,B,
-9503PE,Unikenkade,38,,
-9503PE,Unikenkade,39,,
-9503PE,Unikenkade,40,,
-9503PE,Unikenkade,41,A,
-9503PE,Unikenkade,41,,
-9503PE,Unikenkade,42,,
-9503PE,Unikenkade,43,,
-9503PE,Unikenkade,44,,
-9503PE,Unikenkade,44,A,
-9503PE,Unikenkade,45,,
-9503PE,Unikenkade,46,A,
-9503PE,Unikenkade,47,,
-9503PE,Unikenkade,48,,
-9503PE,Unikenkade,40,,
-9503PE,Unikenkade,44,A,
-9503PE,Unikenkade,34,A,
-9503PG,Unikenkade,49,,
-9503PG,Unikenkade,50,,
-9503PG,Unikenkade,51,,
-9503PG,Unikenkade,52,A,
-9503PG,Unikenkade,52,,
-9503PG,Unikenkade,53,,
-9503PG,Unikenkade,55,,
-9503PG,Unikenkade,56,,
-9503PG,Unikenkade,57,,
-9503PG,Unikenkade,58,,
-9503PG,Unikenkade,60,,
-9503PG,Unikenkade,62,,
-9503PG,Unikenkade,63,,
-9503PG,Unikenkade,65,,
-9503PG,Unikenkade,66,A,
-9503PG,Unikenkade,66,B,
-9503PG,Unikenkade,66,,
-9503PG,Unikenkade,66,C,
-9503PH,Unikenkade,68,,
-9503PH,Unikenkade,69,,
-9503PH,Unikenkade,70,,
-9503PH,Unikenkade,71,,
-9503PH,Unikenkade,72,,
-9503PH,Unikenkade,73,,
-9503PH,Unikenkade,74,,
-9503PH,Unikenkade,75,,
-9503PH,Unikenkade,76,,
-9503AT,Vrijdomstreekje,1,,
-9503AT,Vrijdomstreekje,2,,
-9503AT,Vrijdomstreekje,3,,
-9503AT,Vrijdomstreekje,4,A,
-9503AT,Vrijdomstreekje,4,,
-9503AT,Vrijdomstreekje,5,,
-9503AT,Vrijdomstreekje,6,,
-9503AT,Vrijdomstreekje,7,,
-9503AT,Vrijdomstreekje,8,,
-9503AT,Vrijdomstreekje,9,,
-9503AT,Vrijdomstreekje,10,,
-9503AT,Vrijdomstreekje,11,A,
-9503AT,Vrijdomstreekje,11,,
-9503AT,Vrijdomstreekje,12,,
-9503AT,Vrijdomstreekje,13,,
-9503AT,Vrijdomstreekje,14,A,
-9503AT,Vrijdomstreekje,14,,
-9503AT,Vrijdomstreekje,15,,
-9503AT,Vrijdomstreekje,16,,
-9503AT,Vrijdomstreekje,6,,
-9503AZ,Museumweg,20,,
-9503AZ,Museumweg,10,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Handelskade,10,"","",9503AA,Stadskanaal
+Handelskade,12,"","",9503AA,Stadskanaal
+Handelskade,13,"","",9503AA,Stadskanaal
+Handelskade,14,"","",9503AA,Stadskanaal
+Handelskade,15,"","",9503AA,Stadskanaal
+Handelskade,16,"","",9503AA,Stadskanaal
+Handelskade,17,"","",9503AA,Stadskanaal
+Handelskade,18,"","",9503AA,Stadskanaal
+Handelskade,18,A,"",9503AA,Stadskanaal
+Handelskade,19,"","",9503AA,Stadskanaal
+Handelskade,20,"","",9503AA,Stadskanaal
+Handelskade,4,"","",9503AA,Stadskanaal
+Handelskade,6,"","",9503AA,Stadskanaal
+Handelskade,7,"","",9503AA,Stadskanaal
+Handelskade,8,"","",9503AA,Stadskanaal
+Handelskade,21,"","",9503AB,Stadskanaal
+Handelskade,22,"","",9503AB,Stadskanaal
+Handelskade,23,"","",9503AB,Stadskanaal
+Handelskade,24,"","",9503AB,Stadskanaal
+Handelskade,25,"","",9503AB,Stadskanaal
+Handelskade,26,"","",9503AB,Stadskanaal
+Handelskade,27,"","",9503AB,Stadskanaal
+Handelskade,28,"","",9503AB,Stadskanaal
+Handelskade,29,"","",9503AB,Stadskanaal
+Handelskade,30,"","",9503AB,Stadskanaal
+Handelskade,31,"","",9503AB,Stadskanaal
+Handelskade,33,"","",9503AB,Stadskanaal
+Handelskade,34,"","",9503AB,Stadskanaal
+Handelskade,36,"","",9503AB,Stadskanaal
+Handelskade,37,A,"",9503AB,Stadskanaal
+Handelskade,38,"","",9503AB,Stadskanaal
+Handelskade,39,"","",9503AB,Stadskanaal
+Handelskade,40,"","",9503AB,Stadskanaal
+Handelskade,41,"","",9503AB,Stadskanaal
+Handelskade,43,"","",9503AB,Stadskanaal
+Handelskade,44,"","",9503AC,Stadskanaal
+Handelskade,45,"","",9503AC,Stadskanaal
+Handelskade,47,"","",9503AC,Stadskanaal
+Handelskade,48,"","",9503AC,Stadskanaal
+Handelskade,49,"","",9503AC,Stadskanaal
+Handelskade,50,"","",9503AC,Stadskanaal
+Handelskade,52,"","",9503AC,Stadskanaal
+Handelskade,53,"","",9503AC,Stadskanaal
+Handelskade,54,"","",9503AC,Stadskanaal
+Handelskade,55,"","",9503AC,Stadskanaal
+Handelskade,55,A,"",9503AC,Stadskanaal
+Handelskade,56,"","",9503AC,Stadskanaal
+Handelskade,56,A,"",9503AC,Stadskanaal
+Handelskade,57,"","",9503AC,Stadskanaal
+Handelskade,58,"","",9503AC,Stadskanaal
+Handelskade,59,"","",9503AC,Stadskanaal
+Handelskade,60,"","",9503AC,Stadskanaal
+Handelskade,61,"","",9503AC,Stadskanaal
+Handelskade,62,"","",9503AC,Stadskanaal
+Handelskade,64,"","",9503AC,Stadskanaal
+Handelskade,65,"","",9503AC,Stadskanaal
+Handelskade,66,"","",9503AC,Stadskanaal
+Stationsstraat,1,"","",9503AD,Stadskanaal
+Stationsstraat,1,A,"",9503AD,Stadskanaal
+Stationsstraat,2,"","",9503AD,Stadskanaal
+Stationsstraat,3,"","",9503AD,Stadskanaal
+Stationsstraat,6,"","",9503AD,Stadskanaal
+Stationsstraat,6,A,"",9503AD,Stadskanaal
+Stationsstraat,6,B,"",9503AD,Stadskanaal
+Vrijdomstreekje,1,"","",9503AT,Stadskanaal
+Vrijdomstreekje,10,"","",9503AT,Stadskanaal
+Vrijdomstreekje,11,"","",9503AT,Stadskanaal
+Vrijdomstreekje,11,A,"",9503AT,Stadskanaal
+Vrijdomstreekje,12,"","",9503AT,Stadskanaal
+Vrijdomstreekje,13,"","",9503AT,Stadskanaal
+Vrijdomstreekje,14,"","",9503AT,Stadskanaal
+Vrijdomstreekje,14,A,"",9503AT,Stadskanaal
+Vrijdomstreekje,15,"","",9503AT,Stadskanaal
+Vrijdomstreekje,16,"","",9503AT,Stadskanaal
+Vrijdomstreekje,2,"","",9503AT,Stadskanaal
+Vrijdomstreekje,3,"","",9503AT,Stadskanaal
+Vrijdomstreekje,4,"","",9503AT,Stadskanaal
+Vrijdomstreekje,4,A,"",9503AT,Stadskanaal
+Vrijdomstreekje,5,"","",9503AT,Stadskanaal
+Vrijdomstreekje,6,"","",9503AT,Stadskanaal
+Vrijdomstreekje,6,"","",9503AT,Stadskanaal
+Vrijdomstreekje,6,"","",9503AT,Stadskanaal
+Vrijdomstreekje,7,"","",9503AT,Stadskanaal
+Vrijdomstreekje,8,"","",9503AT,Stadskanaal
+Vrijdomstreekje,9,"","",9503AT,Stadskanaal
+Museumweg,10,"","",9503AZ,Stadskanaal
+Museumweg,20,"","",9503AZ,Stadskanaal
+Gasselterstraat,11,"","",9503JA,Stadskanaal
+Gasselterstraat,11,A,"",9503JA,Stadskanaal
+Gasselterstraat,11,B,"",9503JA,Stadskanaal
+Gasselterstraat,13,"","",9503JA,Stadskanaal
+Gasselterstraat,19,"","",9503JA,Stadskanaal
+Gasselterstraat,21,"","",9503JA,Stadskanaal
+Gasselterstraat,23,"","",9503JA,Stadskanaal
+Gasselterstraat,25,"","",9503JA,Stadskanaal
+Gasselterstraat,25,A,"",9503JA,Stadskanaal
+Gasselterstraat,29,"","",9503JA,Stadskanaal
+Gasselterstraat,3,"","",9503JA,Stadskanaal
+Gasselterstraat,31,"","",9503JA,Stadskanaal
+Gasselterstraat,33,"","",9503JA,Stadskanaal
+Gasselterstraat,35,"","",9503JA,Stadskanaal
+Gasselterstraat,37,"","",9503JA,Stadskanaal
+Gasselterstraat,39,"","",9503JA,Stadskanaal
+Gasselterstraat,5,"","",9503JA,Stadskanaal
+Gasselterstraat,7,"","",9503JA,Stadskanaal
+Gasselterstraat,9,"","",9503JA,Stadskanaal
+Gasselterstraat,20,"","",9503JB,Stadskanaal
+Gasselterstraat,22,"","",9503JB,Stadskanaal
+Gasselterstraat,22,B,"",9503JB,Stadskanaal
+Gasselterstraat,24,"","",9503JB,Stadskanaal
+Gasselterstraat,6,"","",9503JB,Stadskanaal
+Gasselterstraat,6,A,"",9503JB,Stadskanaal
+Scheepswerfkade,1,"","",9503PA,Stadskanaal
+Scheepswerfkade,1,A,"",9503PA,Stadskanaal
+Scheepswerfkade,1,B,"",9503PA,Stadskanaal
+Scheepswerfkade,1,C,"",9503PA,Stadskanaal
+Scheepswerfkade,1,D,"",9503PA,Stadskanaal
+Scheepswerfkade,1,D,"",9503PA,Stadskanaal
+Scheepswerfkade,1,D,"",9503PA,Stadskanaal
+Scheepswerfkade,10,"","",9503PA,Stadskanaal
+Scheepswerfkade,12,"","",9503PA,Stadskanaal
+Scheepswerfkade,13,"","",9503PA,Stadskanaal
+Scheepswerfkade,14,"","",9503PA,Stadskanaal
+Scheepswerfkade,15,"","",9503PA,Stadskanaal
+Scheepswerfkade,16,"","",9503PA,Stadskanaal
+Scheepswerfkade,17,"","",9503PA,Stadskanaal
+Scheepswerfkade,18,"","",9503PA,Stadskanaal
+Scheepswerfkade,19,"","",9503PA,Stadskanaal
+Scheepswerfkade,2,"","",9503PA,Stadskanaal
+Scheepswerfkade,2,A,"",9503PA,Stadskanaal
+Scheepswerfkade,2,B,"",9503PA,Stadskanaal
+Scheepswerfkade,20,"","",9503PA,Stadskanaal
+Scheepswerfkade,8,"","",9503PA,Stadskanaal
+Scheepswerfkade,9,"","",9503PA,Stadskanaal
+Scheepswerfkade,21,"","",9503PB,Stadskanaal
+Scheepswerfkade,24,"","",9503PB,Stadskanaal
+Scheepswerfkade,26,"","",9503PB,Stadskanaal
+Scheepswerfkade,27,"","",9503PB,Stadskanaal
+Scheepswerfkade,28,"","",9503PB,Stadskanaal
+Scheepswerfkade,30,"","",9503PB,Stadskanaal
+Scheepswerfkade,31,"","",9503PB,Stadskanaal
+Scheepswerfkade,32,"","",9503PB,Stadskanaal
+Scheepswerfkade,32,"","",9503PB,Stadskanaal
+Scheepswerfkade,32,"","",9503PB,Stadskanaal
+Scheepswerfkade,33,"","",9503PB,Stadskanaal
+Scheepswerfkade,34,"","",9503PB,Stadskanaal
+Scheepswerfkade,36,"","",9503PB,Stadskanaal
+Scheepswerfkade,37,"","",9503PB,Stadskanaal
+Scheepswerfkade,38,"","",9503PB,Stadskanaal
+Scheepswerfkade,39,"","",9503PB,Stadskanaal
+Scheepswerfkade,40,"","",9503PB,Stadskanaal
+Scheepswerfkade,41,"","",9503PB,Stadskanaal
+Scheepswerfkade,42,"","",9503PB,Stadskanaal
+Scheepswerfkade,43,"","",9503PB,Stadskanaal
+Semsstraat,12,B,"",9503PC,Stadskanaal
+Semsstraat,12,B,"",9503PC,Stadskanaal
+Semsstraat,12,C,"",9503PC,Stadskanaal
+Semsstraat,12,C,"",9503PC,Stadskanaal
+Scheepswerfkade,44,"","",9503PC,Stadskanaal
+Scheepswerfkade,46,"","",9503PC,Stadskanaal
+Scheepswerfkade,47,"","",9503PC,Stadskanaal
+Scheepswerfkade,48,"","",9503PC,Stadskanaal
+Scheepswerfkade,49,"","",9503PC,Stadskanaal
+Scheepswerfkade,50,"","",9503PC,Stadskanaal
+Scheepswerfkade,51,"","",9503PC,Stadskanaal
+Scheepswerfkade,52,"","",9503PC,Stadskanaal
+Scheepswerfkade,54,"","",9503PC,Stadskanaal
+Scheepswerfkade,55,"","",9503PC,Stadskanaal
+Scheepswerfkade,56,"","",9503PC,Stadskanaal
+Scheepswerfkade,57,"","",9503PC,Stadskanaal
+Scheepswerfkade,58,"","",9503PC,Stadskanaal
+Scheepswerfkade,59,"","",9503PC,Stadskanaal
+Scheepswerfkade,60,"","",9503PC,Stadskanaal
+Scheepswerfkade,61,"","",9503PC,Stadskanaal
+Scheepswerfkade,62,"","",9503PC,Stadskanaal
+Scheepswerfkade,62,A,"",9503PC,Stadskanaal
+Unikenkade,1,"","",9503PD,Stadskanaal
+Unikenkade,10,"","",9503PD,Stadskanaal
+Unikenkade,10,A,"",9503PD,Stadskanaal
+Unikenkade,10,B,"",9503PD,Stadskanaal
+Unikenkade,11,"","",9503PD,Stadskanaal
+Unikenkade,12,"","",9503PD,Stadskanaal
+Unikenkade,13,"","",9503PD,Stadskanaal
+Unikenkade,15,"","",9503PD,Stadskanaal
+Unikenkade,16,"","",9503PD,Stadskanaal
+Unikenkade,17,"","",9503PD,Stadskanaal
+Unikenkade,18,"","",9503PD,Stadskanaal
+Unikenkade,18,A,"",9503PD,Stadskanaal
+Unikenkade,19,"","",9503PD,Stadskanaal
+Unikenkade,2,"","",9503PD,Stadskanaal
+Unikenkade,20,"","",9503PD,Stadskanaal
+Unikenkade,21,"","",9503PD,Stadskanaal
+Unikenkade,22,"","",9503PD,Stadskanaal
+Unikenkade,23,"","",9503PD,Stadskanaal
+Unikenkade,24,"","",9503PD,Stadskanaal
+Unikenkade,25,"","",9503PD,Stadskanaal
+Unikenkade,3,"","",9503PD,Stadskanaal
+Unikenkade,4,"","",9503PD,Stadskanaal
+Unikenkade,5,"","",9503PD,Stadskanaal
+Unikenkade,6,"","",9503PD,Stadskanaal
+Unikenkade,7,"","",9503PD,Stadskanaal
+Unikenkade,8,"","",9503PD,Stadskanaal
+Unikenkade,8,A,"",9503PD,Stadskanaal
+Unikenkade,8,B,"",9503PD,Stadskanaal
+Unikenkade,8,C,"",9503PD,Stadskanaal
+Unikenkade,9,"","",9503PD,Stadskanaal
+Unikenkade,26,"","",9503PE,Stadskanaal
+Unikenkade,27,"","",9503PE,Stadskanaal
+Unikenkade,28,"","",9503PE,Stadskanaal
+Unikenkade,29,"","",9503PE,Stadskanaal
+Unikenkade,30,"","",9503PE,Stadskanaal
+Unikenkade,31,"","",9503PE,Stadskanaal
+Unikenkade,32,"","",9503PE,Stadskanaal
+Unikenkade,33,"","",9503PE,Stadskanaal
+Unikenkade,34,"","",9503PE,Stadskanaal
+Unikenkade,34,A,"",9503PE,Stadskanaal
+Unikenkade,35,"","",9503PE,Stadskanaal
+Unikenkade,36,"","",9503PE,Stadskanaal
+Unikenkade,37,"","",9503PE,Stadskanaal
+Unikenkade,38,"","",9503PE,Stadskanaal
+Unikenkade,38,A,"",9503PE,Stadskanaal
+Unikenkade,38,B,"",9503PE,Stadskanaal
+Unikenkade,39,"","",9503PE,Stadskanaal
+Unikenkade,40,"","",9503PE,Stadskanaal
+Unikenkade,40,"","",9503PE,Stadskanaal
+Unikenkade,40,"","",9503PE,Stadskanaal
+Unikenkade,41,"","",9503PE,Stadskanaal
+Unikenkade,41,A,"",9503PE,Stadskanaal
+Unikenkade,42,"","",9503PE,Stadskanaal
+Unikenkade,43,"","",9503PE,Stadskanaal
+Unikenkade,44,"","",9503PE,Stadskanaal
+Unikenkade,44,A,"",9503PE,Stadskanaal
+Unikenkade,44,A,"",9503PE,Stadskanaal
+Unikenkade,44,A,"",9503PE,Stadskanaal
+Unikenkade,45,"","",9503PE,Stadskanaal
+Unikenkade,46,A,"",9503PE,Stadskanaal
+Unikenkade,47,"","",9503PE,Stadskanaal
+Unikenkade,48,"","",9503PE,Stadskanaal
+Unikenkade,49,"","",9503PG,Stadskanaal
+Unikenkade,50,"","",9503PG,Stadskanaal
+Unikenkade,51,"","",9503PG,Stadskanaal
+Unikenkade,52,"","",9503PG,Stadskanaal
+Unikenkade,52,A,"",9503PG,Stadskanaal
+Unikenkade,53,"","",9503PG,Stadskanaal
+Unikenkade,55,"","",9503PG,Stadskanaal
+Unikenkade,56,"","",9503PG,Stadskanaal
+Unikenkade,57,"","",9503PG,Stadskanaal
+Unikenkade,58,"","",9503PG,Stadskanaal
+Unikenkade,60,"","",9503PG,Stadskanaal
+Unikenkade,62,"","",9503PG,Stadskanaal
+Unikenkade,63,"","",9503PG,Stadskanaal
+Unikenkade,65,"","",9503PG,Stadskanaal
+Unikenkade,66,"","",9503PG,Stadskanaal
+Unikenkade,66,A,"",9503PG,Stadskanaal
+Unikenkade,66,B,"",9503PG,Stadskanaal
+Unikenkade,66,C,"",9503PG,Stadskanaal
+Unikenkade,68,"","",9503PH,Stadskanaal
+Unikenkade,69,"","",9503PH,Stadskanaal
+Unikenkade,70,"","",9503PH,Stadskanaal
+Unikenkade,71,"","",9503PH,Stadskanaal
+Unikenkade,72,"","",9503PH,Stadskanaal
+Unikenkade,73,"","",9503PH,Stadskanaal
+Unikenkade,74,"","",9503PH,Stadskanaal
+Unikenkade,75,"","",9503PH,Stadskanaal
+Unikenkade,76,"","",9503PH,Stadskanaal
+Gietermond,1,"","",9503PJ,Stadskanaal
+Gietermond,10,"","",9503PJ,Stadskanaal
+Gietermond,2,"","",9503PJ,Stadskanaal
+Gietermond,3,"","",9503PJ,Stadskanaal
+Gietermond,4,"","",9503PJ,Stadskanaal
+Gietermond,5,"","",9503PJ,Stadskanaal
+Gietermond,6,"","",9503PJ,Stadskanaal
+Gietermond,7,"","",9503PJ,Stadskanaal
+Gietermond,8,"","",9503PJ,Stadskanaal
+Semskade,10,"","",9503RA,Stadskanaal
+Semskade,11,"","",9503RA,Stadskanaal
+Semskade,12,"","",9503RA,Stadskanaal
+Semskade,13,"","",9503RA,Stadskanaal
+Semskade,14,"","",9503RA,Stadskanaal
+Semskade,15,"","",9503RA,Stadskanaal
+Semskade,16,"","",9503RA,Stadskanaal
+Semskade,17,"","",9503RA,Stadskanaal
+Semskade,18,"","",9503RA,Stadskanaal
+Semskade,19,"","",9503RA,Stadskanaal
+Semskade,2,"","",9503RA,Stadskanaal
+Semskade,21,"","",9503RA,Stadskanaal
+Semskade,22,"","",9503RA,Stadskanaal
+Semskade,23,"","",9503RA,Stadskanaal
+Semskade,24,"","",9503RA,Stadskanaal
+Semskade,25,"","",9503RA,Stadskanaal
+Semskade,4,"","",9503RA,Stadskanaal
+Semskade,6,"","",9503RA,Stadskanaal
+Semskade,9,"","",9503RA,Stadskanaal
+Semskade,26,"","",9503RB,Stadskanaal
+Semskade,28,"","",9503RB,Stadskanaal
+Semskade,31,"","",9503RB,Stadskanaal
+Semskade,33,"","",9503RB,Stadskanaal
+Semskade,34,"","",9503RB,Stadskanaal
+Semskade,35,"","",9503RB,Stadskanaal
+Semskade,36,"","",9503RB,Stadskanaal
+Semskade,37,"","",9503RB,Stadskanaal
+Semskade,38,"","",9503RB,Stadskanaal
+Semskade,39,"","",9503RB,Stadskanaal
+Semskade,41,"","",9503RB,Stadskanaal
+Semskade,43,"","",9503RB,Stadskanaal
+Semskade,45,"","",9503RB,Stadskanaal
+Semskade,47,"","",9503RB,Stadskanaal
+Semskade,48,"","",9503RB,Stadskanaal
+Semskade,49,"","",9503RB,Stadskanaal
+Semskade,50,"","",9503RB,Stadskanaal
+Semskade,51,"","",9503RC,Stadskanaal
+Semskade,52,"","",9503RC,Stadskanaal
+Semskade,52,"","",9503RC,Stadskanaal
+Semskade,53,"","",9503RC,Stadskanaal
+Semskade,53,"","",9503RC,Stadskanaal
+Semskade,54,"","",9503RC,Stadskanaal
+Semskade,55,"","",9503RC,Stadskanaal
+Semskade,56,"","",9503RC,Stadskanaal
+Semskade,58,"","",9503RC,Stadskanaal
+Semskade,59,"","",9503RC,Stadskanaal
+Semskade,60,"","",9503RC,Stadskanaal
+Semskade,61,"","",9503RC,Stadskanaal
+Semskade,62,"","",9503RC,Stadskanaal
+Semskade,63,"","",9503RC,Stadskanaal
+Semskade,64,"","",9503RC,Stadskanaal
+Semskade,65,"","",9503RC,Stadskanaal
+Semskade,66,"","",9503RC,Stadskanaal
+Semskade,69,"","",9503RC,Stadskanaal
+Semskade,70,"","",9503RC,Stadskanaal
+Semskade,71,"","",9503RC,Stadskanaal
+Semskade,72,"","",9503RC,Stadskanaal
+Semskade,73,"","",9503RC,Stadskanaal
+Semskade,74,"","",9503RC,Stadskanaal
+Semskade,75,"","",9503RD,Stadskanaal
+Semskade,77,"","",9503RD,Stadskanaal
+Semskade,78,"","",9503RD,Stadskanaal
+Semskade,79,"","",9503RD,Stadskanaal
+Semskade,80,"","",9503RD,Stadskanaal
+Semskade,81,"","",9503RD,Stadskanaal
+Semskade,82,"","",9503RD,Stadskanaal
+Semskade,83,"","",9503RD,Stadskanaal
+Semskade,85,"","",9503RD,Stadskanaal
+Semskade,88,"","",9503RD,Stadskanaal
+Semskade,89,"","",9503RD,Stadskanaal
+Semskade,91,"","",9503RD,Stadskanaal
+Semskade,92,"","",9503RD,Stadskanaal
+Semskade,93,"","",9503RD,Stadskanaal
+Semskade,94,"","",9503RD,Stadskanaal
+Semskade,95,"","",9503RD,Stadskanaal
+Semskade,96,"","",9503RD,Stadskanaal
+Semskade,97,"","",9503RD,Stadskanaal
+Semskade,98,"","",9503RD,Stadskanaal
+Semskade,100,"","",9503RE,Stadskanaal
+Semskade,102,"","",9503RE,Stadskanaal
+Semskade,103,"","",9503RE,Stadskanaal
+Semskade,104,"","",9503RE,Stadskanaal
+Semskade,105,"","",9503RE,Stadskanaal
+Semskade,106,"","",9503RE,Stadskanaal
+Semskade,107,"","",9503RE,Stadskanaal
+Semskade,108,"","",9503RE,Stadskanaal
+Semskade,99,"","",9503RE,Stadskanaal
+H.J. Kniggekade,1,"","",9503RG,Stadskanaal
+H.J. Kniggekade,10,"","",9503RG,Stadskanaal
+H.J. Kniggekade,10,A,"",9503RG,Stadskanaal
+H.J. Kniggekade,11,"","",9503RG,Stadskanaal
+H.J. Kniggekade,13,"","",9503RG,Stadskanaal
+H.J. Kniggekade,15,"","",9503RG,Stadskanaal
+H.J. Kniggekade,16,"","",9503RG,Stadskanaal
+H.J. Kniggekade,17,"","",9503RG,Stadskanaal
+H.J. Kniggekade,2,"","",9503RG,Stadskanaal
+H.J. Kniggekade,20,"","",9503RG,Stadskanaal
+H.J. Kniggekade,22,"","",9503RG,Stadskanaal
+H.J. Kniggekade,23,"","",9503RG,Stadskanaal
+H.J. Kniggekade,23,A,"",9503RG,Stadskanaal
+H.J. Kniggekade,24,"","",9503RG,Stadskanaal
+H.J. Kniggekade,25,"","",9503RG,Stadskanaal
+H.J. Kniggekade,3,"","",9503RG,Stadskanaal
+H.J. Kniggekade,4,"","",9503RG,Stadskanaal
+H.J. Kniggekade,5,"","",9503RG,Stadskanaal
+H.J. Kniggekade,7,"","",9503RG,Stadskanaal
+H.J. Kniggekade,8,"","",9503RG,Stadskanaal
+H.J. Kniggekade,9,"","",9503RG,Stadskanaal
+H.J. Kniggekade,26,"","",9503RH,Stadskanaal
+H.J. Kniggekade,27,"","",9503RH,Stadskanaal
+H.J. Kniggekade,28,"","",9503RH,Stadskanaal
+H.J. Kniggekade,29,"","",9503RH,Stadskanaal
+H.J. Kniggekade,30,"","",9503RH,Stadskanaal
+H.J. Kniggekade,32,"","",9503RH,Stadskanaal
+H.J. Kniggekade,33,"","",9503RH,Stadskanaal
+H.J. Kniggekade,34,"","",9503RH,Stadskanaal
+H.J. Kniggekade,35,"","",9503RH,Stadskanaal
+H.J. Kniggekade,37,"","",9503RH,Stadskanaal
+H.J. Kniggekade,38,"","",9503RH,Stadskanaal
+H.J. Kniggekade,40,"","",9503RH,Stadskanaal
+H.J. Kniggekade,41,"","",9503RH,Stadskanaal
+H.J. Kniggekade,42,"","",9503RH,Stadskanaal
+H.J. Kniggekade,43,"","",9503RH,Stadskanaal
+H.J. Kniggekade,44,"","",9503RH,Stadskanaal
+H.J. Kniggekade,45,"","",9503RH,Stadskanaal
+H.J. Kniggekade,46,"","",9503RH,Stadskanaal
+H.J. Kniggekade,48,"","",9503RH,Stadskanaal
+H.J. Kniggekade,53,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,54,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,55,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,56,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,56,A,"",9503RJ,Stadskanaal
+H.J. Kniggekade,57,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,58,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,59,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,60,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,61,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,62,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,64,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,65,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,67,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,68,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,69,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,72,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,73,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,74,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,75,"","",9503RJ,Stadskanaal
+H.J. Kniggekade,76,"","",9503RK,Stadskanaal
+H.J. Kniggekade,77,"","",9503RK,Stadskanaal
+H.J. Kniggekade,77,A,"",9503RK,Stadskanaal
+H.J. Kniggekade,78,"","",9503RK,Stadskanaal
+H.J. Kniggekade,79,"","",9503RK,Stadskanaal
+H.J. Kniggekade,80,"","",9503RK,Stadskanaal
+H.J. Kniggekade,81,"","",9503RK,Stadskanaal
+H.J. Kniggekade,82,"","",9503RK,Stadskanaal
+H.J. Kniggekade,83,"","",9503RK,Stadskanaal
+H.J. Kniggekade,84,"","",9503RK,Stadskanaal
+H.J. Kniggekade,85,"","",9503RK,Stadskanaal
+H.J. Kniggekade,86,"","",9503RK,Stadskanaal
+H.J. Kniggekade,89,"","",9503RK,Stadskanaal
+H.J. Kniggekade,90,"","",9503RK,Stadskanaal
+H.J. Kniggekade,91,"","",9503RK,Stadskanaal
+H.J. Kniggekade,92,"","",9503RK,Stadskanaal
+H.J. Kniggekade,93,"","",9503RK,Stadskanaal
+H.J. Kniggekade,95,"","",9503RK,Stadskanaal
+H.J. Kniggekade,96,"","",9503RK,Stadskanaal
+H.J. Kniggekade,96,A,"",9503RK,Stadskanaal
+H.J. Kniggekade,98,"","",9503RK,Stadskanaal
+H.J. Kniggekade,99,"","",9503RK,Stadskanaal
+H.J. Kniggekade,101,"","",9503RL,Stadskanaal
+H.J. Kniggekade,102,"","",9503RL,Stadskanaal
+H.J. Kniggekade,103,"","",9503RL,Stadskanaal
+H.J. Kniggekade,104,"","",9503RL,Stadskanaal
+H.J. Kniggekade,105,"","",9503RL,Stadskanaal
+H.J. Kniggekade,106,"","",9503RL,Stadskanaal
+H.J. Kniggekade,107,"","",9503RL,Stadskanaal
+H.J. Kniggekade,109,"","",9503RL,Stadskanaal
+H.J. Kniggekade,110,"","",9503RL,Stadskanaal
+H.J. Kniggekade,111,"","",9503RL,Stadskanaal
+H.J. Kniggekade,112,"","",9503RL,Stadskanaal
+H.J. Kniggekade,113,"","",9503RL,Stadskanaal
+H.J. Kniggekade,114,"","",9503RL,Stadskanaal
+H.J. Kniggekade,115,"","",9503RL,Stadskanaal
+H.J. Kniggekade,116,"","",9503RL,Stadskanaal
+H.J. Kniggekade,118,"","",9503RL,Stadskanaal
+H.J. Kniggekade,119,"","",9503RL,Stadskanaal
+H.J. Kniggekade,119,"","",9503RL,Stadskanaal
+H.J. Kniggekade,119,"","",9503RL,Stadskanaal
+H.J. Kniggekade,120,"","",9503RL,Stadskanaal
+H.J. Kniggekade,120,"","",9503RL,Stadskanaal
+H.J. Kniggekade,122,"","",9503RL,Stadskanaal
+H.J. Kniggekade,124,"","",9503RL,Stadskanaal
+H.J. Kniggekade,124,A,"",9503RL,Stadskanaal
+H.J. Kniggekade,124,A,"",9503RL,Stadskanaal
+H.J. Kniggekade,125,"","",9503RM,Stadskanaal
+H.J. Kniggekade,126,"","",9503RM,Stadskanaal
+H.J. Kniggekade,127,"","",9503RM,Stadskanaal
+H.J. Kniggekade,127,"","",9503RM,Stadskanaal
+H.J. Kniggekade,128,"","",9503RM,Stadskanaal
+H.J. Kniggekade,128,A,"",9503RM,Stadskanaal
+H.J. Kniggekade,128,A,"",9503RM,Stadskanaal
+H.J. Kniggekade,129,"","",9503RM,Stadskanaal
+H.J. Kniggekade,129,"","",9503RM,Stadskanaal
+H.J. Kniggekade,129,"","",9503RM,Stadskanaal
+Boerveenschemond,1,"","",9503RN,Stadskanaal

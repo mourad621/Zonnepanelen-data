@@ -1,47 +1,47 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4661PW,Nieuw Beijmoerseweg,1,,
-4661PB,Tholenseweg,4,,
-4661PB,Tholenseweg,6,,
-4661PB,Tholenseweg,8,,
-4661PB,Tholenseweg,10,,
-4661PB,Tholenseweg,27,,
-4661PB,Tholenseweg,29,,
-4661PD,Noorder Kreekweg,1,,
-4661PD,Noorder Kreekweg,2,,
-4661PD,Noorder Kreekweg,3,,
-4661PV,Sint Ignatiusdijk,1,,
-4661PV,Sint Ignatiusdijk,2,,
-4661PV,Sint Ignatiusdijk,2,a,
-4661PV,Sint Ignatiusdijk,4,,
-4661PW,Slikkenburgseweg,1,,
-4661PW,Slikkenburgseweg,2,,
-4661PW,Slikkenburgseweg,4,,
-4661PW,Slikkenburgseweg,6,,
-4661PW,Slikkenburgseweg,8,,
-4661PX,Slikkenburgseweg,1,,
-4661PB,Tholenseweg,12,,
-4661PB,Tholenseweg,14,,
-4661PB,Tholenseweg,16,,
-4661PB,Tholenseweg,18,,
-4661PB,Tholenseweg,20,,
-4661PB,Tholenseweg,22,,
-4661PB,Tholenseweg,24,,
-4661PB,Tholenseweg,26,,
-4661PB,Tholenseweg,28,,
-4661PB,Tholenseweg,29,a,
-4661PB,Tholenseweg,31,,
-4661PB,Tholenseweg,33,,
-4661PB,Tholenseweg,35,,
-4661PB,Tholenseweg,37,,
-4661PB,Tholenseweg,31,a,
-4661PB,Tholenseweg,33,a,
-4661PB,Tholenseweg,18,a,
-4661PB,Tholenseweg,35,,
-4661PB,Tholenseweg,35,,
-4661PC,Zuider Kreekweg,1,,
-4661PC,Zuider Kreekweg,2,a,
-4661PC,Zuider Kreekweg,2,,
-4661PC,Zuider Kreekweg,2,b,
-4661PC,Zuider Kreekweg,3,,
-4661PC,Zuider Kreekweg,4,,
-4661PW,Slikkenburgseweg,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Tholenseweg,10,"","",4661PB,Halsteren
+Tholenseweg,12,"","",4661PB,Halsteren
+Tholenseweg,14,"","",4661PB,Halsteren
+Tholenseweg,16,"","",4661PB,Halsteren
+Tholenseweg,18,"","",4661PB,Halsteren
+Tholenseweg,18,A,"",4661PB,Halsteren
+Tholenseweg,20,"","",4661PB,Halsteren
+Tholenseweg,22,"","",4661PB,Halsteren
+Tholenseweg,24,"","",4661PB,Halsteren
+Tholenseweg,26,"","",4661PB,Halsteren
+Tholenseweg,27,"","",4661PB,Halsteren
+Tholenseweg,28,"","",4661PB,Halsteren
+Tholenseweg,29,"","",4661PB,Halsteren
+Tholenseweg,29,A,"",4661PB,Halsteren
+Tholenseweg,31,"","",4661PB,Halsteren
+Tholenseweg,31,A,"",4661PB,Halsteren
+Tholenseweg,33,"","",4661PB,Halsteren
+Tholenseweg,33,A,"",4661PB,Halsteren
+Tholenseweg,35,"","",4661PB,Halsteren
+Tholenseweg,35,"","",4661PB,Halsteren
+Tholenseweg,35,"","",4661PB,Halsteren
+Tholenseweg,37,"","",4661PB,Halsteren
+Tholenseweg,4,"","",4661PB,Halsteren
+Tholenseweg,6,"","",4661PB,Halsteren
+Tholenseweg,8,"","",4661PB,Halsteren
+Zuider Kreekweg,1,"","",4661PC,Halsteren
+Zuider Kreekweg,2,"","",4661PC,Halsteren
+Zuider Kreekweg,2,A,"",4661PC,Halsteren
+Zuider Kreekweg,2,B,"",4661PC,Halsteren
+Zuider Kreekweg,3,"","",4661PC,Halsteren
+Zuider Kreekweg,4,"","",4661PC,Halsteren
+Noorder Kreekweg,1,"","",4661PD,Halsteren
+Noorder Kreekweg,2,"","",4661PD,Halsteren
+Noorder Kreekweg,3,"","",4661PD,Halsteren
+Sint Ignatiusdijk,1,"","",4661PV,Halsteren
+Sint Ignatiusdijk,2,"","",4661PV,Halsteren
+Sint Ignatiusdijk,2,A,"",4661PV,Halsteren
+Sint Ignatiusdijk,4,"","",4661PV,Halsteren
+Nieuw Beijmoerseweg,1,"","",4661PW,Halsteren
+Nieuw Beijmoerseweg,1,"","",4661PW,Halsteren
+Slikkenburgseweg,2,"","",4661PW,Halsteren
+Slikkenburgseweg,4,"","",4661PW,Halsteren
+Slikkenburgseweg,6,"","",4661PW,Halsteren
+Slikkenburgseweg,8,"","",4661PW,Halsteren
+Slikkenburgseweg,8,"","",4661PW,Halsteren
+Slikkenburgseweg,1,"","",4661PX,Halsteren

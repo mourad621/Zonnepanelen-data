@@ -1,79 +1,79 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6287AB,Wittemerweg,10,,
-6287NA,Eyserbosweg,27,,
-6287AD,Piepertweg,19,,
-6287AD,Piepertweg,17,,
-6287AD,Piepertweg,15,,
-6287AD,Piepertweg,14,,
-6287AD,Piepertweg,12,,
-6287AD,Piepertweg,11,,
-6287AD,Piepertweg,10,,
-6287AD,Piepertweg,9,,
-6287AD,Piepertweg,8,,
-6287AD,Piepertweg,7,,
-6287AD,Piepertweg,6,,
-6287AD,Piepertweg,5,,
-6287AD,Piepertweg,1,,
-6287AD,Piepertweg,15,A,
-6287AD,Piepertweg,10,A,
-6287AD,Piepertweg,5,A,
-6287AD,Piepertweg,21,,
-6287CB,Mr dr Froweinweg,69,,
-6287CB,Mr dr Froweinweg,67,,
-6287CB,Mr dr Froweinweg,65,,
-6287CB,Mr dr Froweinweg,63,,
-6287CB,Mr dr Froweinweg,61,,
-6287CB,Mr dr Froweinweg,59,,
-6287CB,Mr dr Froweinweg,57,,
-6287CB,Mr dr Froweinweg,55,,
-6287CB,Mr dr Froweinweg,53,,
-6287CB,Mr dr Froweinweg,51,,
-6287CB,Mr dr Froweinweg,47,,
-6287CB,Mr dr Froweinweg,45,,
-6287CB,Mr dr Froweinweg,43,,
-6287CB,Mr dr Froweinweg,41,,
-6287CB,Mr dr Froweinweg,39,,
-6287CB,Mr dr Froweinweg,65,B,
-6287CB,Mr dr Froweinweg,61,A,
-6287CB,Mr dr Froweinweg,39,A,
-6287CB,Mr dr Froweinweg,49,,
-6287CB,Mr dr Froweinweg,61,,
-6287AA,Wittemerweg,29,,
-6287AA,Wittemerweg,27,,
-6287AA,Wittemerweg,23,,
-6287AA,Wittemerweg,21,,
-6287AA,Wittemerweg,19,,
-6287AA,Wittemerweg,17,,
-6287AA,Wittemerweg,15,,
-6287AA,Wittemerweg,13,,
-6287AA,Wittemerweg,11,,
-6287AA,Wittemerweg,9,,
-6287AA,Wittemerweg,7,,
-6287AA,Wittemerweg,5,,
-6287AA,Wittemerweg,3,,
-6287AA,Wittemerweg,1,,
-6287AA,Wittemerweg,7,A,
-6287AA,Wittemerweg,7,B,
-6287AA,Wittemerweg,7,C,
-6287AA,Wittemerweg,7,,1
-6287AA,Wittemerweg,7,,2
-6287AB,Wittemerweg,8,,
-6287AB,Wittemerweg,6,,
-6287AB,Wittemerweg,4,,
-6287AB,Wittemerweg,8,A,
-6287AB,Wittemerweg,4,A,
-6287AB,Wittemerweg,2,,
-6287NA,Eyserbosweg,17,,
-6287NA,Eyserbosweg,15,,
-6287NA,Eyserbosweg,13,,
-6287NA,Eyserbosweg,9,,
-6287NA,Eyserbosweg,7,,
-6287NA,Eyserbosweg,5,,
-6287NA,Eyserbosweg,3,,
-6287NA,Eyserbosweg,2,,
-6287NA,Eyserbosweg,5,A,
-6287NA,Eyserbosweg,5,B,
-6287NA,Eyserbosweg,3,A,
-6287NA,Eyserbosweg,11,,
-6287NA,Eyserbosweg,1,,
-6287NA,Eyserbosweg,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Wittemerweg,1,"","",6287AA,Eys
+Wittemerweg,11,"","",6287AA,Eys
+Wittemerweg,13,"","",6287AA,Eys
+Wittemerweg,15,"","",6287AA,Eys
+Wittemerweg,17,"","",6287AA,Eys
+Wittemerweg,19,"","",6287AA,Eys
+Wittemerweg,21,"","",6287AA,Eys
+Wittemerweg,23,"","",6287AA,Eys
+Wittemerweg,27,"","",6287AA,Eys
+Wittemerweg,29,"","",6287AA,Eys
+Wittemerweg,3,"","",6287AA,Eys
+Wittemerweg,5,"","",6287AA,Eys
+Wittemerweg,7,"","",6287AA,Eys
+Wittemerweg,7,"",1,6287AA,Eys
+Wittemerweg,7,"",2,6287AA,Eys
+Wittemerweg,7,A,"",6287AA,Eys
+Wittemerweg,7,B,"",6287AA,Eys
+Wittemerweg,7,C,"",6287AA,Eys
+Wittemerweg,9,"","",6287AA,Eys
+Wittemerweg,10,"","",6287AB,Eys
+Wittemerweg,2,"","",6287AB,Eys
+Wittemerweg,4,"","",6287AB,Eys
+Wittemerweg,4,A,"",6287AB,Eys
+Wittemerweg,6,"","",6287AB,Eys
+Wittemerweg,8,"","",6287AB,Eys
+Wittemerweg,8,A,"",6287AB,Eys
+Piepertweg,1,"","",6287AD,Eys
+Piepertweg,10,"","",6287AD,Eys
+Piepertweg,10,A,"",6287AD,Eys
+Piepertweg,11,"","",6287AD,Eys
+Piepertweg,12,"","",6287AD,Eys
+Piepertweg,14,"","",6287AD,Eys
+Piepertweg,15,"","",6287AD,Eys
+Piepertweg,15,A,"",6287AD,Eys
+Piepertweg,17,"","",6287AD,Eys
+Piepertweg,19,"","",6287AD,Eys
+Piepertweg,21,"","",6287AD,Eys
+Piepertweg,5,"","",6287AD,Eys
+Piepertweg,5,A,"",6287AD,Eys
+Piepertweg,6,"","",6287AD,Eys
+Piepertweg,7,"","",6287AD,Eys
+Piepertweg,8,"","",6287AD,Eys
+Piepertweg,9,"","",6287AD,Eys
+Mr dr Froweinweg,39,"","",6287CB,Eys
+Mr dr Froweinweg,39,A,"",6287CB,Eys
+Mr dr Froweinweg,41,"","",6287CB,Eys
+Mr dr Froweinweg,43,"","",6287CB,Eys
+Mr dr Froweinweg,45,"","",6287CB,Eys
+Mr dr Froweinweg,47,"","",6287CB,Eys
+Mr dr Froweinweg,49,"","",6287CB,Eys
+Mr dr Froweinweg,51,"","",6287CB,Eys
+Mr dr Froweinweg,53,"","",6287CB,Eys
+Mr dr Froweinweg,55,"","",6287CB,Eys
+Mr dr Froweinweg,57,"","",6287CB,Eys
+Mr dr Froweinweg,59,"","",6287CB,Eys
+Mr dr Froweinweg,61,"","",6287CB,Eys
+Mr dr Froweinweg,61,"","",6287CB,Eys
+Mr dr Froweinweg,61,A,"",6287CB,Eys
+Mr dr Froweinweg,63,"","",6287CB,Eys
+Mr dr Froweinweg,65,"","",6287CB,Eys
+Mr dr Froweinweg,65,B,"",6287CB,Eys
+Mr dr Froweinweg,67,"","",6287CB,Eys
+Mr dr Froweinweg,69,"","",6287CB,Eys
+Eyserbosweg,1,"","",6287NA,Eys
+Eyserbosweg,11,"","",6287NA,Eys
+Eyserbosweg,13,"","",6287NA,Eys
+Eyserbosweg,15,"","",6287NA,Eys
+Eyserbosweg,17,"","",6287NA,Eys
+Eyserbosweg,2,"","",6287NA,Eys
+Eyserbosweg,27,"","",6287NA,Eys
+Eyserbosweg,3,"","",6287NA,Eys
+Eyserbosweg,3,A,"",6287NA,Eys
+Eyserbosweg,4,"","",6287NA,Eys
+Eyserbosweg,5,"","",6287NA,Eys
+Eyserbosweg,5,A,"",6287NA,Eys
+Eyserbosweg,5,B,"",6287NA,Eys
+Eyserbosweg,7,"","",6287NA,Eys
+Eyserbosweg,9,"","",6287NA,Eys

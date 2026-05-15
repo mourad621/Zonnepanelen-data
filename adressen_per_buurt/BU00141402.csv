@@ -1,95 +1,96 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9622PC",6,"",""
-"9622PC",14,"",""
-"9622PC",10,"",""
-"9622PC",6,"",""
-"9622PC",6,"",""
-"9622PD",3,"",""
-"9622PD",5,"",""
-"9622PD",9,"",""
-"9622PD",1,"",""
-"9622PD",11,"",""
-"9622PD",7,"",""
-"9622PD",13,"",""
-"9622PD",15,"",""
-"9622PE",9,"",""
-"9622PE",11,"",""
-"9622PE",7,"",""
-"9622PE",13,"",""
-"9622PE",3,"a",""
-"9622PE",1,"",""
-"9622PE",3,"",""
-"9622PE",15,"",""
-"9622PE",15,"",""
-"9622PE",4,"a",""
-"9622PE",3,"",""
-"9622PE",19,"",""
-"9622PE",5,"",""
-"9622PE",11,"a",""
-"9622TD",2,"",""
-"9622TH",17,"",""
-"9622TH",21,"",""
-"9622TH",21,"",""
-"9622TH",21,"",""
-"9622TH",15,"",""
-"9622TH",31,"",""
-"9622TH",13,"",""
-"9622TH",19,"b",""
-"9622TH",41,"",""
-"9622TH",35,"",""
-"9622TH",23,"",""
-"9622TH",39,"",""
-"9622TJ",6,"",""
-"9622TJ",4,"",""
-"9622TJ",4,"a",""
-"9622TJ",2,"a",""
-"9622TJ",2,"a",""
-"9622TJ",2,"A",""
-"9622TJ",2,"",""
-"9622TJ",4,"",""
-9622TJ,Slochterdiep,4,a,
-9622PC,Lagelandsterweg,6,,
-9622PE,Eemskanaal Zz,11,a,
-9622PE,Eemskanaal Zz,3,,
-9622PE,Eemskanaal Zz,4,a,
-9622PE,Eemskanaal Zz,3,a,
-9622PE,Eemskanaal Zz,15,,
-9622TH,Slochterdiep,19,b,
-9622TH,Slochterdiep,21,,
-9622TH,Slochterdiep,19,a,1
-9622PC,Lagelandsterweg,10,,
-9622PE,Eemskanaal Zz,1,,
-9622PE,Eemskanaal Zz,3,,
-9622PE,Eemskanaal Zz,5,,
-9622PE,Eemskanaal Zz,7,,
-9622PE,Eemskanaal Zz,9,,
-9622PE,Eemskanaal Zz,11,,
-9622PE,Eemskanaal Zz,13,,
-9622PE,Eemskanaal Zz,15,,
-9622PE,Eemskanaal Zz,19,,
-9622TH,Slochterdiep,13,,
-9622TH,Slochterdiep,15,,
-9622TH,Slochterdiep,17,,
-9622TH,Slochterdiep,21,,
-9622TH,Slochterdiep,23,,
-9622TH,Slochterdiep,31,,
-9622TH,Slochterdiep,39,,
-9622TH,Slochterdiep,41,,
-9622TH,Slochterdiep,35,,
-9622TJ,Slochterdiep,2,,
-9622TJ,Slochterdiep,4,,
-9622TJ,Slochterdiep,6,,
-9622TJ,Slochterdiep,2,A,
-9622TJ,Slochterdiep,2,a,
-9622PC,Lagelandsterweg,6,,
-9622PC,Lagelandsterweg,10,,
-9622PC,Lagelandsterweg,14,,
-9622PD,Zuiderweg,1,,
-9622PD,Zuiderweg,3,,
-9622PD,Zuiderweg,5,,
-9622PD,Zuiderweg,7,,
-9622PD,Zuiderweg,9,,
-9622PD,Zuiderweg,11,,
-9622PD,Zuiderweg,13,,
-9622PD,Zuiderweg,15,,
-9622TD,Borgsloot,2,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+6,"","","",9622PC,
+14,"","","",9622PC,
+10,"","","",9622PC,
+6,"","","",9622PC,
+6,"","","",9622PC,
+Lagelandsterweg,10,"","",9622PC,Lageland GN
+Lagelandsterweg,10,"","",9622PC,Lageland GN
+Lagelandsterweg,14,"","",9622PC,Lageland GN
+Lagelandsterweg,6,"","",9622PC,Lageland GN
+Lagelandsterweg,6,"","",9622PC,Lageland GN
+3,"","","",9622PD,
+5,"","","",9622PD,
+9,"","","",9622PD,
+1,"","","",9622PD,
+11,"","","",9622PD,
+7,"","","",9622PD,
+13,"","","",9622PD,
+15,"","","",9622PD,
+Zuiderweg,1,"","",9622PD,Lageland
+Zuiderweg,11,"","",9622PD,Lageland
+Zuiderweg,13,"","",9622PD,Lageland
+Zuiderweg,15,"","",9622PD,Lageland
+Zuiderweg,3,"","",9622PD,Lageland
+Zuiderweg,5,"","",9622PD,Lageland
+Zuiderweg,7,"","",9622PD,Lageland
+Zuiderweg,9,"","",9622PD,Lageland
+9,"","","",9622PE,
+11,"","","",9622PE,
+7,"","","",9622PE,
+13,"","","",9622PE,
+1,"","","",9622PE,
+3,"","","",9622PE,
+15,"","","",9622PE,
+15,"","","",9622PE,
+3,"","","",9622PE,
+19,"","","",9622PE,
+5,"","","",9622PE,
+Eemskanaal Zz,1,"","",9622PE,Lageland GN
+Eemskanaal Zz,11,"","",9622PE,Lageland GN
+Eemskanaal Zz,11,A,"",9622PE,Lageland GN
+Eemskanaal Zz,13,"","",9622PE,Lageland GN
+Eemskanaal Zz,15,"","",9622PE,Lageland GN
+Eemskanaal Zz,15,"","",9622PE,Lageland GN
+Eemskanaal Zz,19,"","",9622PE,Lageland GN
+Eemskanaal Zz,3,"","",9622PE,Lageland GN
+Eemskanaal Zz,3,"","",9622PE,Lageland GN
+Eemskanaal Zz,3,A,"",9622PE,Lageland GN
+Eemskanaal Zz,4,A,"",9622PE,Lageland GN
+Eemskanaal Zz,5,"","",9622PE,Lageland GN
+Eemskanaal Zz,7,"","",9622PE,Lageland GN
+Eemskanaal Zz,9,"","",9622PE,Lageland GN
+3,A,"","",9622PE,
+4,A,"","",9622PE,
+11,A,"","",9622PE,
+2,"","","",9622TD,
+Borgsloot,2,"","",9622TD,Lageland
+17,"","","",9622TH,
+21,"","","",9622TH,
+21,"","","",9622TH,
+21,"","","",9622TH,
+15,"","","",9622TH,
+31,"","","",9622TH,
+13,"","","",9622TH,
+41,"","","",9622TH,
+35,"","","",9622TH,
+23,"","","",9622TH,
+39,"","","",9622TH,
+Slochterdiep,13,"","",9622TH,Lageland GN
+Slochterdiep,15,"","",9622TH,Lageland GN
+Slochterdiep,17,"","",9622TH,Lageland GN
+Slochterdiep,19,A,1,9622TH,Lageland GN
+Slochterdiep,19,B,"",9622TH,Lageland GN
+Slochterdiep,21,"","",9622TH,Lageland GN
+Slochterdiep,21,"","",9622TH,Lageland GN
+Slochterdiep,23,"","",9622TH,Lageland GN
+Slochterdiep,31,"","",9622TH,Lageland GN
+Slochterdiep,35,"","",9622TH,Lageland GN
+Slochterdiep,39,"","",9622TH,Lageland GN
+Slochterdiep,41,"","",9622TH,Lageland GN
+19,B,"","",9622TH,
+6,"","","",9622TJ,
+4,"","","",9622TJ,
+2,"","","",9622TJ,
+4,"","","",9622TJ,
+Slochterdiep,2,"","",9622TJ,Lageland GN
+Slochterdiep,2,A,"",9622TJ,Lageland GN
+Slochterdiep,2,A,"",9622TJ,Lageland GN
+Slochterdiep,4,"","",9622TJ,Lageland GN
+Slochterdiep,4,A,"",9622TJ,Lageland GN
+Slochterdiep,6,"","",9622TJ,Lageland GN
+4,A,"","",9622TJ,
+2,A,"","",9622TJ,
+2,A,"","",9622TJ,
+2,A,"","",9622TJ,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

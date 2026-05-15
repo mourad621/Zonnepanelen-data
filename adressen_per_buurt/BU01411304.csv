@@ -1,663 +1,335 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7603LA",31,"",""
-"7603LA",23,"",""
-"7603LA",11,"",""
-"7603LA",21,"",""
-"7603LA",27,"",""
-"7603LA",15,"",""
-"7603LA",53,"",""
-"7603LA",47,"",""
-"7603LA",17,"",""
-"7603LA",25,"",""
-"7603LA",43,"",""
-"7603LA",45,"",""
-"7603LA",3,"",""
-"7603LA",55,"",""
-"7603LA",49,"",""
-"7603LA",35,"",""
-"7603LA",19,"",""
-"7603LA",39,"",""
-"7603LA",51,"",""
-"7603LA",55,"",""
-"7603LA",55,"",""
-"7603LA",37,"",""
-"7603LB",2,"",""
-"7603LB",8,"",""
-"7603LB",5,"",""
-"7603LB",6,"",""
-"7603LB",11,"",""
-"7603LB",9,"",""
-"7603LB",3,"",""
-"7603LB",14,"",""
-"7603LB",10,"",""
-"7603LB",4,"",""
-"7603LB",3,"",""
-"7603LB",12,"",""
-"7603LB",7,"",""
-"7603LC",4,"",""
-"7603LC",9,"",""
-"7603LC",4,"",""
-"7603LC",12,"",""
-"7603LC",8,"",""
-"7603LC",1,"",""
-"7603LC",3,"",""
-"7603LC",2,"",""
-"7603LC",12,"",""
-"7603LC",7,"",""
-"7603LC",11,"",""
-"7603LC",11,"",""
-"7603LC",10,"",""
-"7603LC",6,"",""
-"7603LC",5,"",""
-"7603LC",14,"",""
-"7603LD",12,"",""
-"7603LD",14,"",""
-"7603LD",13,"",""
-"7603LD",4,"",""
-"7603LD",6,"",""
-"7603LD",1,"",""
-"7603LD",11,"",""
-"7603LD",9,"",""
-"7603LD",14,"",""
-"7603LD",5,"",""
-"7603LD",10,"",""
-"7603LD",2,"",""
-"7603LD",7,"",""
-"7603LD",3,"",""
-"7603LD",8,"",""
-"7603MG",44,"",""
-"7603MG",54,"",""
-"7603MG",56,"",""
-"7603MG",40,"",""
-"7603MG",60,"",""
-"7603MG",34,"",""
-"7603MG",46,"",""
-"7603MG",30,"",""
-"7603MG",36,"",""
-"7603MG",54,"",""
-"7603MG",50,"",""
-"7603MG",10,"",""
-"7603MG",12,"",""
-"7603MG",58,"",""
-"7603MG",42,"",""
-"7603MG",48,"",""
-"7603MG",20,"",""
-"7603MG",16,"",""
-"7603MG",18,"",""
-"7603MG",52,"",""
-"7603MG",2,"",""
-"7603MG",14,"",""
-"7603MG",26,"",""
-"7603MG",54,"",""
-"7603MG",6,"",""
-"7603MG",38,"",""
-"7603MG",32,"",""
-"7603MG",24,"",""
-"7603MG",22,"",""
-"7603MG",4,"",""
-"7603MG",8,"",""
-"7603MG",28,"",""
-"7603MH",10,"",""
-"7603MH",8,"",""
-"7603MH",5,"",""
-"7603MH",9,"",""
-"7603MH",6,"",""
-"7603MH",7,"",""
-"7603MH",1,"",""
-"7603MH",3,"",""
-"7603MH",2,"",""
-"7603MH",4,"",""
-"7603MH",12,"",""
-"7603MH",11,"",""
-"7603MJ",4,"",""
-"7603MJ",7,"",""
-"7603MJ",3,"",""
-"7603MJ",10,"",""
-"7603MJ",12,"",""
-"7603MJ",2,"",""
-"7603MJ",11,"",""
-"7603MJ",5,"",""
-"7603MJ",6,"",""
-"7603MJ",8,"",""
-"7603MJ",9,"",""
-"7603MJ",1,"",""
-"7603MK",46,"",""
-"7603MK",10,"",""
-"7603MK",38,"",""
-"7603MK",4,"",""
-"7603MK",12,"",""
-"7603MK",66,"",""
-"7603MK",26,"",""
-"7603MK",12,"",""
-"7603MK",50,"",""
-"7603MK",2,"",""
-"7603MK",58,"",""
-"7603MK",60,"",""
-"7603MK",18,"",""
-"7603MK",74,"",""
-"7603MK",48,"",""
-"7603MK",2,"",""
-"7603MK",62,"",""
-"7603MK",12,"",""
-"7603MK",68,"",""
-"7603MK",70,"",""
-"7603MK",64,"",""
-"7603MK",76,"",""
-"7603MK",6,"",""
-"7603MK",36,"",""
-"7603MK",20,"",""
-"7603MK",72,"",""
-"7603MK",52,"",""
-"7603MK",8,"",""
-"7603MK",78,"",""
-"7603MK",34,"",""
-"7603MK",54,"",""
-"7603MK",48,"",""
-"7603MK",56,"",""
-"7603MK",26,"",""
-"7603MK",82,"",""
-"7603MK",44,"",""
-"7603MK",16,"",""
-"7603MK",46,"",""
-"7603MK",80,"",""
-"7603MK",40,"",""
-"7603MK",14,"",""
-"7603MK",30,"",""
-"7603MK",44,"",""
-"7603MK",32,"",""
-"7603MK",42,"",""
-"7603ML",15,"",""
-"7603ML",1,"",""
-"7603ML",6,"",""
-"7603ML",11,"",""
-"7603ML",7,"",""
-"7603ML",9,"",""
-"7603ML",8,"",""
-"7603ML",16,"",""
-"7603ML",3,"",""
-"7603ML",4,"",""
-"7603ML",17,"",""
-"7603ML",13,"",""
-"7603ML",10,"",""
-"7603ML",12,"",""
-"7603ML",5,"",""
-"7603MN",6,"",""
-"7603MN",4,"",""
-"7603MN",14,"",""
-"7603MN",12,"",""
-"7603MN",4,"",""
-"7603MN",12,"",""
-"7603MN",12,"",""
-"7603MN",4,"",""
-"7603MN",10,"",""
-"7603MN",14,"",""
-"7603MN",8,"",""
-"7603MP",9,"",""
-"7603MP",5,"",""
-"7603MP",15,"",""
-"7603MP",39,"",""
-"7603MP",47,"",""
-"7603MP",3,"",""
-"7603MP",13,"",""
-"7603MP",53,"",""
-"7603MP",27,"",""
-"7603MP",57,"",""
-"7603MP",31,"",""
-"7603MP",49,"",""
-"7603MP",17,"",""
-"7603MP",1,"",""
-"7603MP",1,"",""
-"7603MP",41,"",""
-"7603MP",51,"",""
-"7603MP",37,"",""
-"7603MP",55,"",""
-"7603MP",25,"",""
-"7603MP",23,"",""
-"7603MP",19,"",""
-"7603MP",11,"",""
-"7603MP",21,"",""
-"7603MP",45,"",""
-"7603MP",33,"",""
-"7603MP",29,"",""
-"7603MP",7,"",""
-"7603MP",35,"",""
-"7603MR",13,"",""
-"7603MR",14,"",""
-"7603MR",2,"",""
-"7603MR",3,"",""
-"7603MR",1,"",""
-"7603MR",9,"",""
-"7603MR",6,"",""
-"7603MR",5,"",""
-"7603MR",4,"",""
-"7603MR",10,"",""
-"7603MR",16,"",""
-"7603MR",8,"",""
-"7603MR",12,"",""
-"7603MR",7,"",""
-"7603MR",11,"",""
-"7603MS",1,"",""
-"7603MS",2,"",""
-"7603MS",13,"",""
-"7603MS",11,"",""
-"7603MS",12,"",""
-"7603MS",6,"",""
-"7603MS",7,"",""
-"7603MS",16,"",""
-"7603MS",4,"",""
-"7603MS",8,"",""
-"7603MS",3,"",""
-"7603MS",5,"",""
-"7603MS",14,"",""
-"7603MS",15,"",""
-"7603MS",9,"",""
-"7603MS",10,"",""
-"7603MT",5,"",""
-"7603MT",3,"",""
-"7603MT",1,"",""
-"7603MV",1,"",""
-"7603MV",7,"a",""
-"7603MV",10,"",""
-"7603MV",16,"",""
-"7603MV",17,"",""
-"7603MV",5,"",""
-"7603MV",13,"",""
-"7603MV",19,"",""
-"7603MV",9,"",""
-"7603MV",6,"",""
-"7603MV",11,"",""
-"7603MV",7,"",""
-"7603MV",15,"",""
-"7603MV",3,"",""
-"7603NL",475,"",""
-"7603NL",477,"",""
-"7603NL",469,"",""
-"7603NL",447,"",""
-"7603NL",473,"",""
-"7603NL",479,"",""
-"7603NL",451,"",""
-"7603NL",481,"",""
-"7603NL",463,"",""
-"7603NL",451,"",""
-"7603NL",465,"",""
-"7603NL",467,"",""
-"7603NL",471,"",""
-"7603NL",461,"",""
-"7603NM",495,"",""
-"7603NM",497,"",""
-"7603NM",509,"a",""
-"7603NM",503,"",""
-"7603NM",509,"",""
-"7603NM",499,"",""
-"7603NM",489,"",""
-"7603NM",487,"",""
-"7603NM",493,"",""
-"7603NM",501,"",""
-"7603NM",499,"",""
-"7603NM",515,"a",""
-"7603NM",497,"",""
-"7603NM",499,"",""
-"7603NM",513,"",""
-"7603NM",483,"a",""
-"7603NM",509,"a",""
-"7603NM",513,"",""
-"7603NM",501,"",""
-"7603NM",497,"",""
-"7603NM",501,"",""
-"7603NM",483,"b",""
-"7603NM",513,"",""
-"7603NM",485,"",""
-"7603NM",503,"",""
-"7603NM",483,"",""
-"7603NM",491,"",""
-"7603NT",3,"",""
-"7603NT",6,"",""
-"7603NT",2,"",""
-"7603NT",4,"",""
-"7603NT",14,"",""
-"7603NT",13,"",""
-"7603NT",17,"",""
-"7603NT",12,"",""
-"7603NT",8,"",""
-"7603NT",23,"",""
-"7603NT",11,"",""
-"7603NT",2,"a",""
-"7603NT",11,"",""
-"7603NT",10,"",""
-"7603NT",29,"",""
-"7603NT",18,"",""
-"7603NT",21,"",""
-"7603NT",23,"",""
-"7603NT",23,"",""
-"7603NT",11,"",""
-"7603NT",5,"",""
-"7603NT",25,"",""
-"7603NT",13,"",""
-7603MG,Goudriaanlaan,10,,
-7603MG,Goudriaanlaan,14,,
-7603MG,Goudriaanlaan,16,,
-7603MG,Goudriaanlaan,2,,
-7603MG,Goudriaanlaan,24,,
-7603MG,Goudriaanlaan,26,,
-7603MG,Goudriaanlaan,28,,
-7603MG,Goudriaanlaan,30,,
-7603MG,Goudriaanlaan,38,,
-7603MG,Goudriaanlaan,40,,
-7603MG,Goudriaanlaan,42,,
-7603MG,Goudriaanlaan,56,,
-7603MG,Goudriaanlaan,6,,
-7603MG,Goudriaanlaan,8,,
-7603MH,Kapteynlaan,1,,
-7603MH,Kapteynlaan,2,,
-7603MH,Kapteynlaan,3,,
-7603MH,Kapteynlaan,4,,
-7603MH,Kapteynlaan,6,,
-7603MH,Kapteynlaan,8,,
-7603MV,Lorentzlaan,13,,
-7603NL,Ootmarsumsestraat,447,,
-7603NL,Ootmarsumsestraat,451,,
-7603NL,Ootmarsumsestraat,461,,
-7603NL,Ootmarsumsestraat,463,,
-7603NL,Ootmarsumsestraat,465,,
-7603NL,Ootmarsumsestraat,467,,
-7603NL,Ootmarsumsestraat,469,,
-7603NL,Ootmarsumsestraat,471,,
-7603NL,Ootmarsumsestraat,473,,
-7603NL,Ootmarsumsestraat,475,,
-7603NL,Ootmarsumsestraat,477,,
-7603NL,Ootmarsumsestraat,479,,
-7603NL,Ootmarsumsestraat,481,,
-7603NM,Ootmarsumsestraat,483,,
-7603NM,Ootmarsumsestraat,483,a,
-7603NM,Ootmarsumsestraat,483,b,
-7603NM,Ootmarsumsestraat,485,,
-7603NM,Ootmarsumsestraat,487,,
-7603NM,Ootmarsumsestraat,489,,
-7603NM,Ootmarsumsestraat,491,,
-7603NM,Ootmarsumsestraat,493,,
-7603NM,Ootmarsumsestraat,495,,
-7603NM,Ootmarsumsestraat,501,,
-7603NM,Ootmarsumsestraat,503,,
-7603NM,Ootmarsumsestraat,509,,
-7603NM,Ootmarsumsestraat,513,,
-7603NM,Ootmarsumsestraat,515,a,
-7603NT,Robbenhaarsweg,10,,
-7603NT,Robbenhaarsweg,11,,
-7603NT,Robbenhaarsweg,12,,
-7603NT,Robbenhaarsweg,13,,
-7603NT,Robbenhaarsweg,14,,
-7603NT,Robbenhaarsweg,17,,
-7603NT,Robbenhaarsweg,2,,
-7603NT,Robbenhaarsweg,21,,
-7603NT,Robbenhaarsweg,23,,
-7603NT,Robbenhaarsweg,25,,
-7603NT,Robbenhaarsweg,29,,
-7603NT,Robbenhaarsweg,3,,
-7603NT,Robbenhaarsweg,4,,
-7603NT,Robbenhaarsweg,6,,
-7603NT,Robbenhaarsweg,8,,
-7603MP,Van der Waalslaan,17,,
-7603MP,Van der Waalslaan,29,,
-7603MP,Van der Waalslaan,31,,
-7603MP,Van der Waalslaan,53,,
-7603MP,Van der Waalslaan,9,,
-7603MJ,Van Marumlaan,1,,
-7603MJ,Van Marumlaan,5,,
-7603MJ,Van Marumlaan,6,,
-7603MJ,Van Marumlaan,8,,
-7603MT,Eykmanlaan,5,,
-7603MT,Eykmanlaan,1,,
-7603MG,Goudriaanlaan,32,,
-7603MG,Goudriaanlaan,48,,
-7603MG,Goudriaanlaan,54,,
-7603MG,Goudriaanlaan,44,,
-7603MG,Goudriaanlaan,54,,
-7603MG,Goudriaanlaan,18,,
-7603MG,Goudriaanlaan,22,,
-7603MG,Goudriaanlaan,20,,
-7603MG,Goudriaanlaan,12,,
-7603MG,Goudriaanlaan,36,,
-7603MS,Kamerlingh Onneslaan,7,,
-7603MS,Kamerlingh Onneslaan,5,,
-7603MS,Kamerlingh Onneslaan,15,,
-7603MS,Kamerlingh Onneslaan,10,,
-7603MS,Kamerlingh Onneslaan,16,,
-7603MS,Kamerlingh Onneslaan,13,,
-7603MS,Kamerlingh Onneslaan,8,,
-7603MS,Kamerlingh Onneslaan,6,,
-7603MS,Kamerlingh Onneslaan,9,,
-7603MS,Kamerlingh Onneslaan,1,,
-7603MS,Kamerlingh Onneslaan,12,,
-7603MS,Kamerlingh Onneslaan,14,,
-7603MS,Kamerlingh Onneslaan,11,,
-7603MH,Kapteynlaan,7,,
-7603MV,Lorentzlaan,16,,
-7603MV,Lorentzlaan,11,,
-7603NM,Ootmarsumsestraat,501,,
-7603NM,Ootmarsumsestraat,497,,
-7603NM,Ootmarsumsestraat,499,,
-7603NM,Ootmarsumsestraat,513,,
-7603NM,Ootmarsumsestraat,509,a,
-7603NT,Robbenhaarsweg,18,,
-7603MP,Van der Waalslaan,1,,
-7603MP,Van der Waalslaan,1,,
-7603MP,Van der Waalslaan,39,,
-7603MP,Van der Waalslaan,11,,
-7603MP,Van der Waalslaan,7,,
-7603MP,Van der Waalslaan,23,,
-7603MP,Van der Waalslaan,33,,
-7603MP,Van der Waalslaan,3,,
-7603MP,Van der Waalslaan,41,,
-7603MP,Van der Waalslaan,49,,
-7603MP,Van der Waalslaan,45,,
-7603MP,Van der Waalslaan,37,,
-7603MP,Van der Waalslaan,5,,
-7603MP,Van der Waalslaan,25,,
-7603MP,Van der Waalslaan,47,,
-7603MP,Van der Waalslaan,19,,
-7603MP,Van der Waalslaan,27,,
-7603MP,Van der Waalslaan,55,,
-7603MP,Van der Waalslaan,35,,
-7603MJ,Van Marumlaan,3,,
-7603MJ,Van Marumlaan,7,,
-7603MR,Van 't Hofflaan,4,,
-7603MR,Van 't Hofflaan,8,,
-7603MR,Van 't Hofflaan,5,,
-7603MR,Van 't Hofflaan,13,,
-7603MR,Van 't Hofflaan,10,,
-7603MR,Van 't Hofflaan,6,,
-7603MR,Van 't Hofflaan,11,,
-7603ML,Asserlaan,8,,
-7603ML,Asserlaan,9,,
-7603ML,Asserlaan,4,,
-7603ML,Asserlaan,1,,
-7603ML,Asserlaan,10,,
-7603ML,Asserlaan,12,,
-7603ML,Asserlaan,5,,
-7603ML,Asserlaan,16,,
-7603ML,Asserlaan,6,,
-7603ML,Asserlaan,7,,
-7603ML,Asserlaan,15,,
-7603ML,Asserlaan,13,,
-7603ML,Asserlaan,3,,
-7603ML,Asserlaan,17,,
-7603ML,Asserlaan,11,,
-7603ML,Asserlaan,18,,
-7603ML,Asserlaan,20,,
-7603ML,Asserlaan,14,,
-7603LC,Blasiuslaan,4,,
-7603LC,Blasiuslaan,4,,
-7603LC,Blasiuslaan,7,,
-7603LC,Blasiuslaan,8,,
-7603LC,Blasiuslaan,10,,
-7603LC,Blasiuslaan,12,,
-7603LC,Blasiuslaan,12,,
-7603LC,Blasiuslaan,9,,
-7603LC,Blasiuslaan,5,,
-7603LC,Blasiuslaan,14,,
-7603LC,Blasiuslaan,3,,
-7603LC,Blasiuslaan,11,,
-7603LC,Blasiuslaan,11,,
-7603LC,Blasiuslaan,2,,
-7603LC,Blasiuslaan,6,,
-7603LC,Blasiuslaan,1,,
-7603MK,Einthovenlaan,70,,
-7603MK,Einthovenlaan,80,,
-7603MK,Einthovenlaan,74,,
-7603MK,Einthovenlaan,64,,
-7603MK,Einthovenlaan,78,,
-7603MK,Einthovenlaan,66,,
-7603MK,Einthovenlaan,16,,
-7603MK,Einthovenlaan,72,,
-7603MK,Einthovenlaan,12,,
-7603MK,Einthovenlaan,68,,
-7603MK,Einthovenlaan,62,,
-7603MK,Einthovenlaan,76,,
-7603MK,Einthovenlaan,82,,
-7603MK,Einthovenlaan,10,,
-7603MK,Einthovenlaan,18,,
-7603MK,Einthovenlaan,4,,
-7603MK,Einthovenlaan,8,,
-7603MK,Einthovenlaan,14,,
-7603MK,Einthovenlaan,12,,
-7603MK,Einthovenlaan,20,,
-7603MK,Einthovenlaan,60,,
-7603MK,Einthovenlaan,6,,
-7603MK,Einthovenlaan,54,,
-7603MK,Einthovenlaan,30,,
-7603MK,Einthovenlaan,52,,
-7603MK,Einthovenlaan,50,,
-7603MK,Einthovenlaan,42,,
-7603MK,Einthovenlaan,56,,
-7603MK,Einthovenlaan,46,,
-7603MK,Einthovenlaan,46,,
-7603MK,Einthovenlaan,48,,
-7603MK,Einthovenlaan,48,,
-7603MK,Einthovenlaan,40,,
-7603MK,Einthovenlaan,44,,
-7603MK,Einthovenlaan,44,,
-7603MK,Einthovenlaan,34,,
-7603MK,Einthovenlaan,36,,
-7603MK,Einthovenlaan,38,,
-7603MK,Einthovenlaan,32,,
-7603MK,Einthovenlaan,2,,
-7603MK,Einthovenlaan,2,,
-7603MK,Einthovenlaan,58,,
-7603MK,Einthovenlaan,26,,
-7603MK,Einthovenlaan,26,,
-7603MK,Einthovenlaan,24,,
-7603MT,Eykmanlaan,3,,
-7603MG,Goudriaanlaan,52,,
-7603MG,Goudriaanlaan,58,,
-7603MG,Goudriaanlaan,46,,
-7603MG,Goudriaanlaan,50,,
-7603MG,Goudriaanlaan,34,,
-7603MG,Goudriaanlaan,4,,
-7603MG,Goudriaanlaan,60,,
-7603MS,Kamerlingh Onneslaan,4,,
-7603MS,Kamerlingh Onneslaan,3,,
-7603MS,Kamerlingh Onneslaan,2,,
-7603MH,Kapteynlaan,12,,
-7603MH,Kapteynlaan,5,,
-7603MH,Kapteynlaan,11,,
-7603MH,Kapteynlaan,9,,
-7603MH,Kapteynlaan,10,,
-7603MV,Lorentzlaan,3,,
-7603MV,Lorentzlaan,9,,
-7603MV,Lorentzlaan,7,a,
-7603MV,Lorentzlaan,5,,
-7603MV,Lorentzlaan,19,,
-7603MV,Lorentzlaan,17,,
-7603MV,Lorentzlaan,7,,
-7603MV,Lorentzlaan,6,,
-7603MV,Lorentzlaan,1,,
-7603MV,Lorentzlaan,15,,
-7603MV,Lorentzlaan,10,,
-7603MV,Lorentzlaan,20,,
-7603MV,Lorentzlaan,20,,
-7603MV,Lorentzlaan,14,,
-7603MV,Lorentzlaan,4,,
-7603MV,Lorentzlaan,4,,
-7603NM,Ootmarsumsestraat,497,,
-7603NM,Ootmarsumsestraat,499,,
-7603NT,Robbenhaarsweg,23,,
-7603NT,Robbenhaarsweg,2,a,
-7603NT,Robbenhaarsweg,5,,
-7603NT,Robbenhaarsweg,11,,
-7603MP,Van der Waalslaan,21,,
-7603MP,Van der Waalslaan,51,,
-7603MP,Van der Waalslaan,13,,
-7603MP,Van der Waalslaan,57,,
-7603MP,Van der Waalslaan,15,,
-7603LA,Van Leeuwenhoeklaan,45,,
-7603LA,Van Leeuwenhoeklaan,47,,
-7603LA,Van Leeuwenhoeklaan,43,,
-7603LA,Van Leeuwenhoeklaan,3,,
-7603LA,Van Leeuwenhoeklaan,37,,
-7603LA,Van Leeuwenhoeklaan,15,,
-7603LA,Van Leeuwenhoeklaan,35,,
-7603LA,Van Leeuwenhoeklaan,39,,
-7603LA,Van Leeuwenhoeklaan,51,,
-7603LA,Van Leeuwenhoeklaan,49,,
-7603LA,Van Leeuwenhoeklaan,19,,
-7603LA,Van Leeuwenhoeklaan,21,,
-7603LA,Van Leeuwenhoeklaan,17,,
-7603LA,Van Leeuwenhoeklaan,55,,
-7603LA,Van Leeuwenhoeklaan,11,,
-7603LA,Van Leeuwenhoeklaan,31,,
-7603LA,Van Leeuwenhoeklaan,55,,
-7603LA,Van Leeuwenhoeklaan,53,,
-7603LA,Van Leeuwenhoeklaan,23,,
-7603LA,Van Leeuwenhoeklaan,27,,
-7603LA,Van Leeuwenhoeklaan,25,,
-7603MJ,Van Marumlaan,4,,
-7603MJ,Van Marumlaan,9,,
-7603MJ,Van Marumlaan,11,,
-7603MJ,Van Marumlaan,2,,
-7603MJ,Van Marumlaan,10,,
-7603MJ,Van Marumlaan,12,,
-7603MR,Van 't Hofflaan,3,,
-7603MR,Van 't Hofflaan,14,,
-7603MR,Van 't Hofflaan,16,,
-7603MR,Van 't Hofflaan,2,,
-7603MR,Van 't Hofflaan,9,,
-7603MR,Van 't Hofflaan,1,,
-7603MR,Van 't Hofflaan,12,,
-7603MR,Van 't Hofflaan,7,,
-7603MN,Zernikelaan,8,,
-7603MN,Zernikelaan,10,,
-7603MN,Zernikelaan,14,,
-7603MN,Zernikelaan,4,,
-7603MN,Zernikelaan,12,,
-7603MN,Zernikelaan,12,,
-7603MN,Zernikelaan,4,,
-7603MN,Zernikelaan,6,,
-7603MN,Bedrijvenpark Twente Noord,14,,
-7603LD,Spinozalaan,10,,
-7603LD,Spinozalaan,11,,
-7603LD,Spinozalaan,12,,
-7603LD,Spinozalaan,6,,
-7603LD,Spinozalaan,3,,
-7603LD,Spinozalaan,14,,
-7603LD,Spinozalaan,14,,
-7603LD,Spinozalaan,9,,
-7603LD,Spinozalaan,13,,
-7603LD,Spinozalaan,5,,
-7603LD,Spinozalaan,8,,
-7603LD,Spinozalaan,7,,
-7603LD,Spinozalaan,2,,
-7603LD,Spinozalaan,4,,
-7603LD,Spinozalaan,1,,
-7603LB,Westerdijklaan,4,,
-7603LB,Westerdijklaan,5,,
-7603LB,Westerdijklaan,7,,
-7603LB,Westerdijklaan,3,,
-7603LB,Westerdijklaan,3,,
-7603LB,Westerdijklaan,11,,
-7603LB,Westerdijklaan,2,,
-7603LB,Westerdijklaan,9,,
-7603LB,Westerdijklaan,10,,
-7603LB,Westerdijklaan,6,,
-7603LB,Westerdijklaan,12,,
-7603LB,Westerdijklaan,14,,
-7603LB,Westerdijklaan,8,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Van Leeuwenhoeklaan,11,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,15,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,17,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,19,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,21,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,23,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,25,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,27,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,3,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,31,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,35,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,37,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,39,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,43,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,45,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,47,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,49,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,51,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,53,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,55,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,55,"","",7603LA,Almelo
+Van Leeuwenhoeklaan,55,"","",7603LA,Almelo
+Westerdijklaan,10,"","",7603LB,Almelo
+Westerdijklaan,11,"","",7603LB,Almelo
+Westerdijklaan,12,"","",7603LB,Almelo
+Westerdijklaan,14,"","",7603LB,Almelo
+Westerdijklaan,2,"","",7603LB,Almelo
+Westerdijklaan,3,"","",7603LB,Almelo
+Westerdijklaan,3,"","",7603LB,Almelo
+Westerdijklaan,4,"","",7603LB,Almelo
+Westerdijklaan,5,"","",7603LB,Almelo
+Westerdijklaan,6,"","",7603LB,Almelo
+Westerdijklaan,7,"","",7603LB,Almelo
+Westerdijklaan,8,"","",7603LB,Almelo
+Westerdijklaan,9,"","",7603LB,Almelo
+Blasiuslaan,1,"","",7603LC,Almelo
+Blasiuslaan,10,"","",7603LC,Almelo
+Blasiuslaan,11,"","",7603LC,Almelo
+Blasiuslaan,11,"","",7603LC,Almelo
+Blasiuslaan,12,"","",7603LC,Almelo
+Blasiuslaan,12,"","",7603LC,Almelo
+Blasiuslaan,14,"","",7603LC,Almelo
+Blasiuslaan,2,"","",7603LC,Almelo
+Blasiuslaan,3,"","",7603LC,Almelo
+Blasiuslaan,4,"","",7603LC,Almelo
+Blasiuslaan,4,"","",7603LC,Almelo
+Blasiuslaan,5,"","",7603LC,Almelo
+Blasiuslaan,6,"","",7603LC,Almelo
+Blasiuslaan,7,"","",7603LC,Almelo
+Blasiuslaan,8,"","",7603LC,Almelo
+Blasiuslaan,9,"","",7603LC,Almelo
+Spinozalaan,1,"","",7603LD,Almelo
+Spinozalaan,10,"","",7603LD,Almelo
+Spinozalaan,11,"","",7603LD,Almelo
+Spinozalaan,12,"","",7603LD,Almelo
+Spinozalaan,13,"","",7603LD,Almelo
+Spinozalaan,14,"","",7603LD,Almelo
+Spinozalaan,14,"","",7603LD,Almelo
+Spinozalaan,2,"","",7603LD,Almelo
+Spinozalaan,3,"","",7603LD,Almelo
+Spinozalaan,4,"","",7603LD,Almelo
+Spinozalaan,5,"","",7603LD,Almelo
+Spinozalaan,6,"","",7603LD,Almelo
+Spinozalaan,7,"","",7603LD,Almelo
+Spinozalaan,8,"","",7603LD,Almelo
+Spinozalaan,9,"","",7603LD,Almelo
+Goudriaanlaan,10,"","",7603MG,Almelo
+Goudriaanlaan,12,"","",7603MG,Almelo
+Goudriaanlaan,14,"","",7603MG,Almelo
+Goudriaanlaan,16,"","",7603MG,Almelo
+Goudriaanlaan,18,"","",7603MG,Almelo
+Goudriaanlaan,2,"","",7603MG,Almelo
+Goudriaanlaan,20,"","",7603MG,Almelo
+Goudriaanlaan,22,"","",7603MG,Almelo
+Goudriaanlaan,24,"","",7603MG,Almelo
+Goudriaanlaan,26,"","",7603MG,Almelo
+Goudriaanlaan,28,"","",7603MG,Almelo
+Goudriaanlaan,30,"","",7603MG,Almelo
+Goudriaanlaan,32,"","",7603MG,Almelo
+Goudriaanlaan,34,"","",7603MG,Almelo
+Goudriaanlaan,36,"","",7603MG,Almelo
+Goudriaanlaan,38,"","",7603MG,Almelo
+Goudriaanlaan,4,"","",7603MG,Almelo
+Goudriaanlaan,40,"","",7603MG,Almelo
+Goudriaanlaan,42,"","",7603MG,Almelo
+Goudriaanlaan,44,"","",7603MG,Almelo
+Goudriaanlaan,46,"","",7603MG,Almelo
+Goudriaanlaan,48,"","",7603MG,Almelo
+Goudriaanlaan,50,"","",7603MG,Almelo
+Goudriaanlaan,52,"","",7603MG,Almelo
+Goudriaanlaan,54,"","",7603MG,Almelo
+Goudriaanlaan,54,"","",7603MG,Almelo
+Goudriaanlaan,54,"","",7603MG,Almelo
+Goudriaanlaan,56,"","",7603MG,Almelo
+Goudriaanlaan,58,"","",7603MG,Almelo
+Goudriaanlaan,6,"","",7603MG,Almelo
+Goudriaanlaan,60,"","",7603MG,Almelo
+Goudriaanlaan,8,"","",7603MG,Almelo
+Kapteynlaan,1,"","",7603MH,Almelo
+Kapteynlaan,10,"","",7603MH,Almelo
+Kapteynlaan,11,"","",7603MH,Almelo
+Kapteynlaan,12,"","",7603MH,Almelo
+Kapteynlaan,2,"","",7603MH,Almelo
+Kapteynlaan,3,"","",7603MH,Almelo
+Kapteynlaan,4,"","",7603MH,Almelo
+Kapteynlaan,5,"","",7603MH,Almelo
+Kapteynlaan,6,"","",7603MH,Almelo
+Kapteynlaan,7,"","",7603MH,Almelo
+Kapteynlaan,8,"","",7603MH,Almelo
+Kapteynlaan,9,"","",7603MH,Almelo
+Van Marumlaan,1,"","",7603MJ,Almelo
+Van Marumlaan,10,"","",7603MJ,Almelo
+Van Marumlaan,11,"","",7603MJ,Almelo
+Van Marumlaan,12,"","",7603MJ,Almelo
+Van Marumlaan,2,"","",7603MJ,Almelo
+Van Marumlaan,3,"","",7603MJ,Almelo
+Van Marumlaan,4,"","",7603MJ,Almelo
+Van Marumlaan,5,"","",7603MJ,Almelo
+Van Marumlaan,6,"","",7603MJ,Almelo
+Van Marumlaan,7,"","",7603MJ,Almelo
+Van Marumlaan,8,"","",7603MJ,Almelo
+Van Marumlaan,9,"","",7603MJ,Almelo
+Einthovenlaan,10,"","",7603MK,Almelo
+Einthovenlaan,12,"","",7603MK,Almelo
+Einthovenlaan,12,"","",7603MK,Almelo
+Einthovenlaan,12,"","",7603MK,Almelo
+Einthovenlaan,14,"","",7603MK,Almelo
+Einthovenlaan,16,"","",7603MK,Almelo
+Einthovenlaan,18,"","",7603MK,Almelo
+Einthovenlaan,2,"","",7603MK,Almelo
+Einthovenlaan,2,"","",7603MK,Almelo
+Einthovenlaan,20,"","",7603MK,Almelo
+Einthovenlaan,26,"","",7603MK,Almelo
+Einthovenlaan,26,"","",7603MK,Almelo
+Einthovenlaan,30,"","",7603MK,Almelo
+Einthovenlaan,32,"","",7603MK,Almelo
+Einthovenlaan,34,"","",7603MK,Almelo
+Einthovenlaan,36,"","",7603MK,Almelo
+Einthovenlaan,38,"","",7603MK,Almelo
+Einthovenlaan,4,"","",7603MK,Almelo
+Einthovenlaan,40,"","",7603MK,Almelo
+Einthovenlaan,42,"","",7603MK,Almelo
+Einthovenlaan,44,"","",7603MK,Almelo
+Einthovenlaan,44,"","",7603MK,Almelo
+Einthovenlaan,46,"","",7603MK,Almelo
+Einthovenlaan,46,"","",7603MK,Almelo
+Einthovenlaan,48,"","",7603MK,Almelo
+Einthovenlaan,48,"","",7603MK,Almelo
+Einthovenlaan,50,"","",7603MK,Almelo
+Einthovenlaan,52,"","",7603MK,Almelo
+Einthovenlaan,54,"","",7603MK,Almelo
+Einthovenlaan,56,"","",7603MK,Almelo
+Einthovenlaan,58,"","",7603MK,Almelo
+Einthovenlaan,6,"","",7603MK,Almelo
+Einthovenlaan,60,"","",7603MK,Almelo
+Einthovenlaan,62,"","",7603MK,Almelo
+Einthovenlaan,64,"","",7603MK,Almelo
+Einthovenlaan,66,"","",7603MK,Almelo
+Einthovenlaan,68,"","",7603MK,Almelo
+Einthovenlaan,70,"","",7603MK,Almelo
+Einthovenlaan,72,"","",7603MK,Almelo
+Einthovenlaan,74,"","",7603MK,Almelo
+Einthovenlaan,76,"","",7603MK,Almelo
+Einthovenlaan,78,"","",7603MK,Almelo
+Einthovenlaan,8,"","",7603MK,Almelo
+Einthovenlaan,80,"","",7603MK,Almelo
+Einthovenlaan,82,"","",7603MK,Almelo
+Asserlaan,1,"","",7603ML,Almelo
+Asserlaan,10,"","",7603ML,Almelo
+Asserlaan,11,"","",7603ML,Almelo
+Asserlaan,12,"","",7603ML,Almelo
+Asserlaan,13,"","",7603ML,Almelo
+Asserlaan,15,"","",7603ML,Almelo
+Asserlaan,16,"","",7603ML,Almelo
+Asserlaan,17,"","",7603ML,Almelo
+Asserlaan,3,"","",7603ML,Almelo
+Asserlaan,4,"","",7603ML,Almelo
+Asserlaan,5,"","",7603ML,Almelo
+Asserlaan,6,"","",7603ML,Almelo
+Asserlaan,7,"","",7603ML,Almelo
+Asserlaan,8,"","",7603ML,Almelo
+Asserlaan,9,"","",7603ML,Almelo
+Zernikelaan,10,"","",7603MN,Almelo
+Zernikelaan,12,"","",7603MN,Almelo
+Zernikelaan,12,"","",7603MN,Almelo
+Zernikelaan,12,"","",7603MN,Almelo
+Bedrijvenpark Twente Noord,14,"","",7603MN,Almelo
+Bedrijvenpark Twente Noord,14,"","",7603MN,Almelo
+Zernikelaan,4,"","",7603MN,Almelo
+Zernikelaan,4,"","",7603MN,Almelo
+Zernikelaan,4,"","",7603MN,Almelo
+Zernikelaan,6,"","",7603MN,Almelo
+Zernikelaan,8,"","",7603MN,Almelo
+Van der Waalslaan,1,"","",7603MP,Almelo
+Van der Waalslaan,1,"","",7603MP,Almelo
+Van der Waalslaan,11,"","",7603MP,Almelo
+Van der Waalslaan,13,"","",7603MP,Almelo
+Van der Waalslaan,15,"","",7603MP,Almelo
+Van der Waalslaan,17,"","",7603MP,Almelo
+Van der Waalslaan,19,"","",7603MP,Almelo
+Van der Waalslaan,21,"","",7603MP,Almelo
+Van der Waalslaan,23,"","",7603MP,Almelo
+Van der Waalslaan,25,"","",7603MP,Almelo
+Van der Waalslaan,27,"","",7603MP,Almelo
+Van der Waalslaan,29,"","",7603MP,Almelo
+Van der Waalslaan,3,"","",7603MP,Almelo
+Van der Waalslaan,31,"","",7603MP,Almelo
+Van der Waalslaan,33,"","",7603MP,Almelo
+Van der Waalslaan,35,"","",7603MP,Almelo
+Van der Waalslaan,37,"","",7603MP,Almelo
+Van der Waalslaan,39,"","",7603MP,Almelo
+Van der Waalslaan,41,"","",7603MP,Almelo
+Van der Waalslaan,45,"","",7603MP,Almelo
+Van der Waalslaan,47,"","",7603MP,Almelo
+Van der Waalslaan,49,"","",7603MP,Almelo
+Van der Waalslaan,5,"","",7603MP,Almelo
+Van der Waalslaan,51,"","",7603MP,Almelo
+Van der Waalslaan,53,"","",7603MP,Almelo
+Van der Waalslaan,55,"","",7603MP,Almelo
+Van der Waalslaan,57,"","",7603MP,Almelo
+Van der Waalslaan,7,"","",7603MP,Almelo
+Van der Waalslaan,9,"","",7603MP,Almelo
+Van 't Hofflaan,1,"","",7603MR,Almelo
+Van 't Hofflaan,10,"","",7603MR,Almelo
+Van 't Hofflaan,11,"","",7603MR,Almelo
+Van 't Hofflaan,12,"","",7603MR,Almelo
+Van 't Hofflaan,13,"","",7603MR,Almelo
+Van 't Hofflaan,14,"","",7603MR,Almelo
+Van 't Hofflaan,16,"","",7603MR,Almelo
+Van 't Hofflaan,2,"","",7603MR,Almelo
+Van 't Hofflaan,3,"","",7603MR,Almelo
+Van 't Hofflaan,4,"","",7603MR,Almelo
+Van 't Hofflaan,5,"","",7603MR,Almelo
+Van 't Hofflaan,6,"","",7603MR,Almelo
+Van 't Hofflaan,7,"","",7603MR,Almelo
+Van 't Hofflaan,8,"","",7603MR,Almelo
+Van 't Hofflaan,9,"","",7603MR,Almelo
+Kamerlingh Onneslaan,1,"","",7603MS,Almelo
+Kamerlingh Onneslaan,10,"","",7603MS,Almelo
+Kamerlingh Onneslaan,11,"","",7603MS,Almelo
+Kamerlingh Onneslaan,12,"","",7603MS,Almelo
+Kamerlingh Onneslaan,13,"","",7603MS,Almelo
+Kamerlingh Onneslaan,14,"","",7603MS,Almelo
+Kamerlingh Onneslaan,15,"","",7603MS,Almelo
+Kamerlingh Onneslaan,16,"","",7603MS,Almelo
+Kamerlingh Onneslaan,2,"","",7603MS,Almelo
+Kamerlingh Onneslaan,3,"","",7603MS,Almelo
+Kamerlingh Onneslaan,4,"","",7603MS,Almelo
+Kamerlingh Onneslaan,5,"","",7603MS,Almelo
+Kamerlingh Onneslaan,6,"","",7603MS,Almelo
+Kamerlingh Onneslaan,7,"","",7603MS,Almelo
+Kamerlingh Onneslaan,8,"","",7603MS,Almelo
+Kamerlingh Onneslaan,9,"","",7603MS,Almelo
+Eykmanlaan,1,"","",7603MT,Almelo
+Eykmanlaan,3,"","",7603MT,Almelo
+Eykmanlaan,5,"","",7603MT,Almelo
+Lorentzlaan,1,"","",7603MV,Almelo
+Lorentzlaan,10,"","",7603MV,Almelo
+Lorentzlaan,11,"","",7603MV,Almelo
+Lorentzlaan,13,"","",7603MV,Almelo
+Lorentzlaan,15,"","",7603MV,Almelo
+Lorentzlaan,16,"","",7603MV,Almelo
+Lorentzlaan,17,"","",7603MV,Almelo
+Lorentzlaan,19,"","",7603MV,Almelo
+Lorentzlaan,3,"","",7603MV,Almelo
+Lorentzlaan,5,"","",7603MV,Almelo
+Lorentzlaan,6,"","",7603MV,Almelo
+Lorentzlaan,7,"","",7603MV,Almelo
+Lorentzlaan,7,A,"",7603MV,Almelo
+Lorentzlaan,9,"","",7603MV,Almelo
+Ootmarsumsestraat,447,"","",7603NL,Almelo
+Ootmarsumsestraat,451,"","",7603NL,Almelo
+Ootmarsumsestraat,451,"","",7603NL,Almelo
+Ootmarsumsestraat,461,"","",7603NL,Almelo
+Ootmarsumsestraat,463,"","",7603NL,Almelo
+Ootmarsumsestraat,465,"","",7603NL,Almelo
+Ootmarsumsestraat,467,"","",7603NL,Almelo
+Ootmarsumsestraat,469,"","",7603NL,Almelo
+Ootmarsumsestraat,471,"","",7603NL,Almelo
+Ootmarsumsestraat,473,"","",7603NL,Almelo
+Ootmarsumsestraat,475,"","",7603NL,Almelo
+Ootmarsumsestraat,477,"","",7603NL,Almelo
+Ootmarsumsestraat,479,"","",7603NL,Almelo
+Ootmarsumsestraat,481,"","",7603NL,Almelo
+Ootmarsumsestraat,483,"","",7603NM,Almelo
+Ootmarsumsestraat,483,A,"",7603NM,Almelo
+Ootmarsumsestraat,483,B,"",7603NM,Almelo
+Ootmarsumsestraat,485,"","",7603NM,Almelo
+Ootmarsumsestraat,487,"","",7603NM,Almelo
+Ootmarsumsestraat,489,"","",7603NM,Almelo
+Ootmarsumsestraat,491,"","",7603NM,Almelo
+Ootmarsumsestraat,493,"","",7603NM,Almelo
+Ootmarsumsestraat,495,"","",7603NM,Almelo
+Ootmarsumsestraat,497,"","",7603NM,Almelo
+Ootmarsumsestraat,497,"","",7603NM,Almelo
+Ootmarsumsestraat,497,"","",7603NM,Almelo
+Ootmarsumsestraat,499,"","",7603NM,Almelo
+Ootmarsumsestraat,499,"","",7603NM,Almelo
+Ootmarsumsestraat,499,"","",7603NM,Almelo
+Ootmarsumsestraat,501,"","",7603NM,Almelo
+Ootmarsumsestraat,501,"","",7603NM,Almelo
+Ootmarsumsestraat,501,"","",7603NM,Almelo
+Ootmarsumsestraat,503,"","",7603NM,Almelo
+Ootmarsumsestraat,503,"","",7603NM,Almelo
+Ootmarsumsestraat,509,"","",7603NM,Almelo
+Ootmarsumsestraat,509,A,"",7603NM,Almelo
+Ootmarsumsestraat,509,A,"",7603NM,Almelo
+Ootmarsumsestraat,513,"","",7603NM,Almelo
+Ootmarsumsestraat,513,"","",7603NM,Almelo
+Ootmarsumsestraat,513,"","",7603NM,Almelo
+Ootmarsumsestraat,515,A,"",7603NM,Almelo
+Robbenhaarsweg,10,"","",7603NT,Almelo
+Robbenhaarsweg,11,"","",7603NT,Almelo
+Robbenhaarsweg,11,"","",7603NT,Almelo
+Robbenhaarsweg,11,"","",7603NT,Almelo
+Robbenhaarsweg,12,"","",7603NT,Almelo
+Robbenhaarsweg,13,"","",7603NT,Almelo
+Robbenhaarsweg,13,"","",7603NT,Almelo
+Robbenhaarsweg,14,"","",7603NT,Almelo
+Robbenhaarsweg,17,"","",7603NT,Almelo
+Robbenhaarsweg,18,"","",7603NT,Almelo
+Robbenhaarsweg,2,"","",7603NT,Almelo
+Robbenhaarsweg,2,A,"",7603NT,Almelo
+Robbenhaarsweg,21,"","",7603NT,Almelo
+Robbenhaarsweg,23,"","",7603NT,Almelo
+Robbenhaarsweg,23,"","",7603NT,Almelo
+Robbenhaarsweg,23,"","",7603NT,Almelo
+Robbenhaarsweg,25,"","",7603NT,Almelo
+Robbenhaarsweg,29,"","",7603NT,Almelo
+Robbenhaarsweg,3,"","",7603NT,Almelo
+Robbenhaarsweg,4,"","",7603NT,Almelo
+Robbenhaarsweg,5,"","",7603NT,Almelo
+Robbenhaarsweg,6,"","",7603NT,Almelo
+Robbenhaarsweg,8,"","",7603NT,Almelo

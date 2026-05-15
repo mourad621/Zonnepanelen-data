@@ -1,369 +1,176 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"8724HP",2,"",""
-"8724HP",11,"",""
-"8724HP",4,"",""
-"8724HP",13,"",""
-"8724HP",9,"",""
-"8724HP",7,"",""
-"8724HP",11,"",""
-"8724HP",21,"",""
-"8724HP",11,"A",""
-"8724HP",17,"",""
-"8724HP",1,"C",""
-"8724HP",1,"B",""
-"8724HP",19,"",""
-"8724HP",15,"",""
-"8724HP",4,"A",""
-"8724HP",8,"",""
-"8724HP",6,"A",""
-"8724HP",1,"",""
-"8724HP",5,"",""
-"8724HP",1,"A",""
-"8724HP",10,"",""
-"8724HP",6,"",""
-"8724HR",5,"A",""
-"8724HR",1,"",""
-"8724HR",18,"",""
-"8724HR",7,"",""
-"8724HR",2,"",""
-"8724HR",10,"",""
-"8724HR",22,"",""
-"8724HR",5,"A",""
-"8724HR",3,"",""
-"8724HR",5,"",""
-"8724HR",12,"",""
-"8724HR",26,"",""
-"8724HR",16,"",""
-"8724HR",16,"",""
-"8724HR",24,"",""
-"8724HR",14,"",""
-"8724HR",20,"",""
-"8724HR",22,"",""
-"8724HR",30,"",""
-"8724HR",11,"",""
-"8724HR",28,"",""
-"8724HR",9,"",""
-"8724HR",8,"",""
-"8724HR",28,"A",""
-"8724HS",16,"",""
-"8724HS",25,"",""
-"8724HS",23,"",""
-"8724HS",45,"",""
-"8724HS",29,"",""
-"8724HS",2,"",""
-"8724HS",27,"",""
-"8724HS",14,"",""
-"8724HS",39,"",""
-"8724HS",37,"",""
-"8724HS",12,"",""
-"8724HS",12,"",""
-"8724HS",51,"",""
-"8724HS",53,"",""
-"8724HS",4,"",""
-"8724HS",33,"",""
-"8724HS",47,"",""
-"8724HS",1,"",""
-"8724HS",37,"",""
-"8724HS",41,"",""
-"8724HS",3,"",""
-"8724HS",31,"",""
-"8724HS",35,"",""
-"8724HS",49,"",""
-"8724HS",55,"",""
-"8724HS",43,"",""
-"8724HT",59,"",""
-"8724HT",57,"",""
-"8724HV",18,"B",""
-"8724HV",22,"",""
-"8724HV",18,"A",""
-"8724HV",6,"a",""
-"8724HV",20,"",""
-"8724HV",18,"C",""
-"8724HV",18,"",""
-"8724HW",28,"D",""
-"8724HW",24,"A",""
-"8724HW",73,"",""
-"8724HW",28,"A",""
-"8724HW",24,"C",""
-"8724HW",24,"",""
-"8724HW",24,"B",""
-"8724HW",28,"E",""
-"8724HW",28,"B",""
-"8724HW",28,"C",""
-"8724HW",67,"",""
-"8724HW",26,"",""
-"8724HW",28,"",""
-"8724HW",28,"H",""
-"8724HW",63,"",""
-"8724HW",71,"",""
-"8724HW",67,"",""
-"8724HW",65,"",""
-"8724HW",69,"",""
-"8724HW",75,"",""
-"8724HW",28,"F",""
-"8724HW",61,"",""
-"8724HW",28,"G",""
-"8724HX",38,"",""
-"8724HX",48,"",""
-"8724HX",40,"A",""
-"8724HX",36,"",""
-"8724HX",48,"A",""
-"8724HX",50,"",""
-"8724HX",44,"",""
-"8724HX",38,"",""
-"8724HX",40,"",""
-"8724HX",48,"",""
-"8724HX",42,"",""
-"8724HX",32,"",""
-"8724HX",46,"",""
-"8724HX",40,"A",""
-"8724HX",34,"",""
-"8724LE",3,"",""
-"8724LE",2,"",""
-"8724LE",1,"",""
-"8724LE",5,"",""
-"8724LE",4,"",""
-"8724LG",2,"",""
-"8724LG",6,"",""
-"8724LG",3,"",""
-"8724LG",5,"",""
-"8724LG",1,"",""
-"8724LG",4,"",""
-"8724LH",22,"",""
-"8724LH",20,"",""
-"8724LH",36,"",""
-"8724LH",12,"",""
-"8724LH",18,"",""
-"8724LH",1,"",""
-"8724LH",10,"",""
-"8724LH",26,"A",""
-"8724LH",3,"",""
-"8724LH",34,"",""
-"8724LH",9,"",""
-"8724LH",26,"",""
-"8724LH",30,"",""
-"8724LH",10,"",""
-"8724LH",16,"",""
-"8724LH",32,"",""
-"8724LH",2,"",""
-"8724LH",8,"",""
-"8724LH",4,"",""
-"8724LH",7,"",""
-"8724LH",28,"",""
-"8724LH",5,"",""
-"8724LH",6,"",""
-"8724LH",24,"",""
-"8724LJ",6,"",""
-"8724LJ",6,"",""
-"8724LJ",3,"",""
-"8724LJ",4,"",""
-"8724LJ",4,"A",""
-"8724LJ",14,"",""
-"8724LJ",10,"A",""
-"8724LJ",1,"",""
-"8724LJ",2,"",""
-"8724LJ",16,"",""
-"8724LJ",12,"",""
-"8724LJ",15,"",""
-"8724LJ",7,"",""
-"8724LJ",13,"",""
-"8724LJ",10,"A",""
-"8724LJ",16,"",""
-"8724LJ",8,"",""
-"8724LJ",10,"",""
-"8724LJ",10,"",""
-"8724LJ",11,"",""
-"8724LK",77,"",""
-8724LH,Brânburren,2,,
-8724LH,Brânburren,12,,
-8724LH,Brânburren,20,,
-8724LH,Brânburren,4,,
-8724LH,Brânburren,16,,
-8724LH,Brânburren,36,,
-8724LH,Brânburren,22,,
-8724LH,Brânburren,28,,
-8724LH,Brânburren,1,,
-8724LH,Brânburren,18,,
-8724LH,Brânburren,34,,
-8724LH,Brânburren,24,,
-8724LH,Brânburren,5,,
-8724LH,Brânburren,3,,
-8724LH,Brânburren,30,,
-8724LG,Feandyk,6,,
-8724LG,Feandyk,5,,
-8724HS,Helspaed,3,,
-8724HS,Helspaed,2,,
-8724LJ,Koaidyk,4,,
-8724LJ,Koaidyk,14,,
-8724LJ,Koaidyk,16,,
-8724LJ,Koaidyk,1,,
-8724LJ,Koaidyk,15,,
-8724LJ,Koaidyk,2,,
-8724LJ,Koaidyk,4,A,
-8724LJ,Koaidyk,6,,
-8724LJ,Koaidyk,6,,
-8724LJ,Koaidyk,3,,
-8724LJ,Koaidyk,7,,
-8724LJ,Koaidyk,8,,
-8724HR,Ursuladyk,1,,
-8724HR,Ursuladyk,24,,
-8724HR,Ursuladyk,20,,
-8724HR,Ursuladyk,12,,
-8724HR,Ursuladyk,26,,
-8724HR,Ursuladyk,28,A,
-8724HR,Ursuladyk,14,,
-8724HR,Ursuladyk,22,,
-8724HR,Ursuladyk,22,,
-8724HR,Ursuladyk,18,,
-8724HR,Ursuladyk,3,,
-8724HR,Ursuladyk,30,,
-8724HR,Ursuladyk,2,,
-8724HR,Ursuladyk,28,,
-8724HR,Ursuladyk,5,A,
-8724HR,Ursuladyk,5,,
-8724HP,Heidenskipsterdyk,11,A,
-8724HP,Heidenskipsterdyk,9,,
-8724HP,Heidenskipsterdyk,6,A,
-8724HP,Heidenskipsterdyk,15,,
-8724HP,Heidenskipsterdyk,19,,
-8724HP,Heidenskipsterdyk,21,,
-8724HP,Heidenskipsterdyk,10,,
-8724HP,Heidenskipsterdyk,13,,
-8724HP,Heidenskipsterdyk,4,,
-8724HP,Heidenskipsterdyk,11,,
-8724HP,Heidenskipsterdyk,4,A,
-8724HS,Heidenskipsterdyk,53,,
-8724HS,Heidenskipsterdyk,16,,
-8724HS,Heidenskipsterdyk,25,,
-8724HS,Heidenskipsterdyk,55,,
-8724HS,Heidenskipsterdyk,14,,
-8724HS,Heidenskipsterdyk,23,,
-8724HS,Heidenskipsterdyk,41,,
-8724HS,Heidenskipsterdyk,27,,
-8724HS,Heidenskipsterdyk,29,,
-8724HS,Heidenskipsterdyk,31,,
-8724HS,Heidenskipsterdyk,33,,
-8724HS,Heidenskipsterdyk,39,,
-8724HS,Heidenskipsterdyk,35,,
-8724HT,Heidenskipsterdyk,59,,
-8724HT,Heidenskipsterdyk,57,,
-8724HV,Heidenskipsterdyk,18,A,
-8724HV,Heidenskipsterdyk,18,C,
-8724HV,Heidenskipsterdyk,22,,
-8724HV,Heidenskipsterdyk,18,B,
-8724HV,Heidenskipsterdyk,18,,
-8724HW,Heidenskipsterdyk,28,D,
-8724HW,Heidenskipsterdyk,73,,
-8724HW,Heidenskipsterdyk,28,F,
-8724HW,Heidenskipsterdyk,28,E,
-8724HW,Heidenskipsterdyk,28,G,
-8724HW,Heidenskipsterdyk,28,H,
-8724HW,Heidenskipsterdyk,24,,
-8724HW,Heidenskipsterdyk,24,A,
-8724HW,Heidenskipsterdyk,28,,
-8724HX,Heidenskipsterdyk,34,,
-8724HX,Heidenskipsterdyk,40,,
-8724HX,Heidenskipsterdyk,38,,
-8724HX,Heidenskipsterdyk,46,,
-8724HX,Heidenskipsterdyk,40,A,
-8724LK,Heidenskipsterdyk,77,,
-8724LE,Skar,1,,
-8724LE,Skar,3,,
-8724LE,Skar,2,,
-8724LE,Skar,4,,
-8724LE,Skar,5,,
-8724LH,Brânburren,6,,
-8724LH,Brânburren,26,,
-8724LH,Brânburren,32,,
-8724LH,Brânburren,7,,
-8724LH,Brânburren,9,,
-8724LH,Brânburren,10,,
-8724LH,Brânburren,8,,
-8724LH,Brânburren,26,A,
-8724LG,Feandyk,3,,
-8724LG,Feandyk,1,,
-8724LG,Feandyk,4,,
-8724LG,Feandyk,2,,
-8724HS,Helspaed,4,,
-8724HS,Helspaed,1,,
-8724LJ,Koaidyk,10,,
-8724LJ,Koaidyk,10,,
-8724LJ,Koaidyk,12,,
-8724LJ,Koaidyk,10,A,
-8724LJ,Koaidyk,10,A,
-8724LJ,Koaidyk,13,,
-8724LJ,Koaidyk,11,,
-8724HR,Ursuladyk,10,,
-8724HR,Ursuladyk,7,,
-8724HR,Ursuladyk,8,,
-8724HR,Ursuladyk,9,,
-8724HR,Ursuladyk,11,,
-8724HR,Ursuladyk,16,,
-8724HP,Heidenskipsterdyk,17,,
-8724HP,Heidenskipsterdyk,1,B,
-8724HP,Heidenskipsterdyk,1,A,
-8724HP,Heidenskipsterdyk,7,,
-8724HP,Heidenskipsterdyk,1,C,
-8724HP,Heidenskipsterdyk,2,,
-8724HP,Heidenskipsterdyk,1,,
-8724HP,Heidenskipsterdyk,8,,
-8724HP,Heidenskipsterdyk,6,,
-8724HP,Heidenskipsterdyk,5,,
-8724HS,Heidenskipsterdyk,12,,
-8724HS,Heidenskipsterdyk,37,,
-8724HS,Heidenskipsterdyk,45,,
-8724HS,Heidenskipsterdyk,49,,
-8724HS,Heidenskipsterdyk,43,,
-8724HS,Heidenskipsterdyk,47,,
-8724HS,Heidenskipsterdyk,51,,
-8724HV,Heidenskipsterdyk,20,,
-8724HW,Heidenskipsterdyk,63,,
-8724HW,Heidenskipsterdyk,24,C,
-8724HW,Heidenskipsterdyk,24,B,
-8724HW,Heidenskipsterdyk,61,,
-8724HW,Heidenskipsterdyk,65,,
-8724HW,Heidenskipsterdyk,26,,
-8724HW,Heidenskipsterdyk,28,B,
-8724HW,Heidenskipsterdyk,75,,
-8724HW,Heidenskipsterdyk,67,,
-8724HW,Heidenskipsterdyk,28,C,
-8724HW,Heidenskipsterdyk,69,,
-8724HW,Heidenskipsterdyk,71,,
-8724HW,Heidenskipsterdyk,28,A,
-8724HX,Heidenskipsterdyk,32,,
-8724HX,Heidenskipsterdyk,44,,
-8724HX,Heidenskipsterdyk,42,,
-8724HX,Heidenskipsterdyk,50,,
-8724HX,Heidenskipsterdyk,36,,
-8724HX,Heidenskipsterdyk,48,A,
-8724HX,Heidenskipsterdyk,48,,
-8724HV,Fabrykswei,6,a,
-8724LJ,Koaidyk,6,A,
-8724LJ,Koaidyk,6,A,
-8724LJ,Koaidyk,16,,
-8724HR,Ursuladyk,16,,
-8724HR,Ursuladyk,18,A,
-8724HR,Ursuladyk,18,A,
-8724HR,Ursuladyk,12,A,
-8724HP,Heidenskipsterdyk,3,,
-8724HP,Heidenskipsterdyk,11,,
-8724HS,Heidenskipsterdyk,12,,
-8724HS,Heidenskipsterdyk,37,,
-8724HW,Heidenskipsterdyk,28,A,001
-8724HW,Heidenskipsterdyk,28,A,002
-8724HW,Heidenskipsterdyk,67,,
-8724HX,Heidenskipsterdyk,48,,
-8724HX,Heidenskipsterdyk,38,,
-8724HX,Heidenskipsterdyk,38,A,
-8724HX,Heidenskipsterdyk,40,A,
-8724LE,Skar,2,,
-8724LH,Brânburren,10,,
-8724HR,Ursuladyk,14,A,
-8724HR,Ursuladyk,28,B,
-8724HP,Heidenskipsterdyk,2,,
-8724HP,Heidenskipsterdyk,2,A,
-8724HP,Heidenskipsterdyk,2,C,
-8724HP,Heidenskipsterdyk,2,B,
-8724HS,Heidenskipsterdyk,14,A,
-8724HX,Heidenskipsterdyk,38,B,
-8724HX,Heidenskipsterdyk,38,C,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heidenskipsterdyk,1,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,1,A,"",8724HP,It Heidenskip
+Heidenskipsterdyk,1,B,"",8724HP,It Heidenskip
+Heidenskipsterdyk,1,C,"",8724HP,It Heidenskip
+Heidenskipsterdyk,10,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,11,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,11,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,11,A,"",8724HP,It Heidenskip
+Heidenskipsterdyk,13,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,15,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,17,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,19,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,2,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,21,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,4,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,4,A,"",8724HP,It Heidenskip
+Heidenskipsterdyk,5,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,6,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,6,A,"",8724HP,It Heidenskip
+Heidenskipsterdyk,7,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,8,"","",8724HP,It Heidenskip
+Heidenskipsterdyk,9,"","",8724HP,It Heidenskip
+Ursuladyk,1,"","",8724HR,It Heidenskip
+Ursuladyk,10,"","",8724HR,It Heidenskip
+Ursuladyk,11,"","",8724HR,It Heidenskip
+Ursuladyk,12,"","",8724HR,It Heidenskip
+Ursuladyk,14,"","",8724HR,It Heidenskip
+Ursuladyk,16,"","",8724HR,It Heidenskip
+Ursuladyk,16,"","",8724HR,It Heidenskip
+Ursuladyk,18,"","",8724HR,It Heidenskip
+Ursuladyk,2,"","",8724HR,It Heidenskip
+Ursuladyk,20,"","",8724HR,It Heidenskip
+Ursuladyk,22,"","",8724HR,It Heidenskip
+Ursuladyk,22,"","",8724HR,It Heidenskip
+Ursuladyk,24,"","",8724HR,It Heidenskip
+Ursuladyk,26,"","",8724HR,It Heidenskip
+Ursuladyk,28,"","",8724HR,It Heidenskip
+Ursuladyk,28,A,"",8724HR,It Heidenskip
+Ursuladyk,3,"","",8724HR,It Heidenskip
+Ursuladyk,30,"","",8724HR,It Heidenskip
+Ursuladyk,5,"","",8724HR,It Heidenskip
+Ursuladyk,5,A,"",8724HR,It Heidenskip
+Ursuladyk,5,A,"",8724HR,It Heidenskip
+Ursuladyk,7,"","",8724HR,It Heidenskip
+Ursuladyk,8,"","",8724HR,It Heidenskip
+Ursuladyk,9,"","",8724HR,It Heidenskip
+Helspaed,1,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,12,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,12,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,14,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,16,"","",8724HS,It Heidenskip
+Helspaed,2,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,23,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,25,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,27,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,29,"","",8724HS,It Heidenskip
+Helspaed,3,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,31,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,33,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,35,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,37,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,37,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,39,"","",8724HS,It Heidenskip
+Helspaed,4,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,41,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,43,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,45,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,47,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,49,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,51,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,53,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,55,"","",8724HS,It Heidenskip
+Heidenskipsterdyk,57,"","",8724HT,It Heidenskip
+Heidenskipsterdyk,59,"","",8724HT,It Heidenskip
+Heidenskipsterdyk,18,"","",8724HV,It Heidenskip
+Heidenskipsterdyk,18,A,"",8724HV,It Heidenskip
+Heidenskipsterdyk,18,B,"",8724HV,It Heidenskip
+Heidenskipsterdyk,18,C,"",8724HV,It Heidenskip
+Heidenskipsterdyk,20,"","",8724HV,It Heidenskip
+Heidenskipsterdyk,22,"","",8724HV,It Heidenskip
+Fabrykswei,6,A,"",8724HV,Easterein
+Heidenskipsterdyk,24,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,24,A,"",8724HW,It Heidenskip
+Heidenskipsterdyk,24,B,"",8724HW,It Heidenskip
+Heidenskipsterdyk,24,C,"",8724HW,It Heidenskip
+Heidenskipsterdyk,26,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,28,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,28,A,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,B,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,C,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,D,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,E,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,F,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,G,"",8724HW,It Heidenskip
+Heidenskipsterdyk,28,H,"",8724HW,It Heidenskip
+Heidenskipsterdyk,61,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,63,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,65,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,67,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,67,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,69,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,71,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,73,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,75,"","",8724HW,It Heidenskip
+Heidenskipsterdyk,32,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,34,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,36,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,38,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,38,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,40,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,40,A,"",8724HX,It Heidenskip
+Heidenskipsterdyk,40,A,"",8724HX,It Heidenskip
+Heidenskipsterdyk,42,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,44,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,46,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,48,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,48,"","",8724HX,It Heidenskip
+Heidenskipsterdyk,48,A,"",8724HX,It Heidenskip
+Heidenskipsterdyk,50,"","",8724HX,It Heidenskip
+Skar,1,"","",8724LE,It Heidenskip
+Skar,2,"","",8724LE,It Heidenskip
+Skar,3,"","",8724LE,It Heidenskip
+Skar,4,"","",8724LE,It Heidenskip
+Skar,5,"","",8724LE,It Heidenskip
+Feandyk,1,"","",8724LG,It Heidenskip
+Feandyk,2,"","",8724LG,It Heidenskip
+Feandyk,3,"","",8724LG,It Heidenskip
+Feandyk,4,"","",8724LG,It Heidenskip
+Feandyk,5,"","",8724LG,It Heidenskip
+Feandyk,6,"","",8724LG,It Heidenskip
+Brânburren,1,"","",8724LH,It Heidenskip
+Brânburren,10,"","",8724LH,It Heidenskip
+Brânburren,10,"","",8724LH,It Heidenskip
+Brânburren,12,"","",8724LH,It Heidenskip
+Brânburren,16,"","",8724LH,It Heidenskip
+Brânburren,18,"","",8724LH,It Heidenskip
+Brânburren,2,"","",8724LH,It Heidenskip
+Brânburren,20,"","",8724LH,It Heidenskip
+Brânburren,22,"","",8724LH,It Heidenskip
+Brânburren,24,"","",8724LH,It Heidenskip
+Brânburren,26,"","",8724LH,It Heidenskip
+Brânburren,26,A,"",8724LH,It Heidenskip
+Brânburren,28,"","",8724LH,It Heidenskip
+Brânburren,3,"","",8724LH,It Heidenskip
+Brânburren,30,"","",8724LH,It Heidenskip
+Brânburren,32,"","",8724LH,It Heidenskip
+Brânburren,34,"","",8724LH,It Heidenskip
+Brânburren,36,"","",8724LH,It Heidenskip
+Brânburren,4,"","",8724LH,It Heidenskip
+Brânburren,5,"","",8724LH,It Heidenskip
+Brânburren,6,"","",8724LH,It Heidenskip
+Brânburren,7,"","",8724LH,It Heidenskip
+Brânburren,8,"","",8724LH,It Heidenskip
+Brânburren,9,"","",8724LH,It Heidenskip
+Koaidyk,1,"","",8724LJ,It Heidenskip
+Koaidyk,10,"","",8724LJ,It Heidenskip
+Koaidyk,10,"","",8724LJ,It Heidenskip
+Koaidyk,10,A,"",8724LJ,It Heidenskip
+Koaidyk,10,A,"",8724LJ,It Heidenskip
+Koaidyk,11,"","",8724LJ,It Heidenskip
+Koaidyk,12,"","",8724LJ,It Heidenskip
+Koaidyk,13,"","",8724LJ,It Heidenskip
+Koaidyk,14,"","",8724LJ,It Heidenskip
+Koaidyk,15,"","",8724LJ,It Heidenskip
+Koaidyk,16,"","",8724LJ,It Heidenskip
+Koaidyk,16,"","",8724LJ,It Heidenskip
+Koaidyk,2,"","",8724LJ,It Heidenskip
+Koaidyk,3,"","",8724LJ,It Heidenskip
+Koaidyk,4,"","",8724LJ,It Heidenskip
+Koaidyk,4,A,"",8724LJ,It Heidenskip
+Koaidyk,6,"","",8724LJ,It Heidenskip
+Koaidyk,6,"","",8724LJ,It Heidenskip
+Koaidyk,7,"","",8724LJ,It Heidenskip
+Koaidyk,8,"","",8724LJ,It Heidenskip
+Heidenskipsterdyk,77,"","",8724LK,It Heidenskip

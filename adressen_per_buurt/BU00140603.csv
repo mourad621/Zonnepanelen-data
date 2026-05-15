@@ -1,1154 +1,585 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9721AN",165,"",""
-"9721AN",159,"",""
-"9721AN",167,"",""
-"9721AN",167,"","1"
-"9721AN",161,"",""
-"9721AN",163,"",""
-"9721AP",177,"",""
-"9721AP",175,"",""
-"9721AP",177,"a",""
-"9721AP",173,"",""
-"9721AP",177,"a",""
-"9721AP",171,"",""
-"9721AP",177,"a",""
-"9721AR",181,"a",""
-"9721AR",181,"",""
-"9721AR",181,"e",""
-"9721AR",181,"b",""
-"9721AR",181,"b",""
-"9721AR",183,"",""
-"9721AR",181,"",""
-"9721AR",181,"g",""
-"9721AR",181,"f",""
-"9721AR",181,"d",""
-"9721AR",179,"",""
-"9721AR",181,"f",""
-"9721AR",183,"a",""
-"9721AR",181,"c",""
-"9721AR",181,"a",""
-"9721AR",181,"c",""
-"9721AR",181,"g",""
-"9721AR",181,"e",""
-"9721AR",181,"d",""
-"9721AS",187,"",""
-"9721AS",189,"","4"
-"9721AS",189,"","5"
-"9721AS",189,"","9"
-"9721AS",189,"","1"
-"9721AS",189,"","7"
-"9721AS",189,"","14"
-"9721AS",191,"",""
-"9721AS",189,"","10"
-"9721AS",189,"","12"
-"9721AS",189,"","15"
-"9721AS",185,"",""
-"9721AS",189,"","3"
-"9721AS",189,"","2"
-"9721AS",189,"","8"
-"9721AS",189,"","6"
-"9721AS",189,"","11"
-"9721MN",96,"",""
-"9721MN",98,"",""
-"9721MN",130,"",""
-"9721MN",108,"",""
-"9721MN",84,"",""
-"9721MN",124,"",""
-"9721MN",106,"",""
-"9721MN",102,"",""
-"9721MN",72,"",""
-"9721MN",128,"",""
-"9721MN",76,"",""
-"9721MN",90,"",""
-"9721MN",100,"",""
-"9721MN",70,"",""
-"9721MN",114,"",""
-"9721MN",122,"",""
-"9721MN",126,"",""
-"9721MN",118,"",""
-"9721MN",82,"",""
-"9721MN",80,"",""
-"9721MN",120,"",""
-"9721MN",112,"",""
-"9721MN",104,"",""
-"9721MN",2,"",""
-"9721MN",92,"",""
-"9721MN",78,"",""
-"9721MN",110,"",""
-"9721MN",116,"",""
-"9721MN",74,"",""
-"9721MN",94,"",""
-"9721MN",88,"",""
-"9721MN",68,"",""
-"9721MN",86,"",""
-"9721SN",2,"",""
-"9721SN",16,"",""
-"9721SN",12,"","ae"
-"9721SN",20,"",""
-"9721SN",26,"",""
-"9721SN",12,"","bp"
-"9721SN",12,"","aw"
-"9721SN",12,"","bg"
-"9721SN",12,"","bh"
-"9721SN",12,"","ad"
-"9721SN",12,"","be"
-"9721SN",14,"",""
-"9721SN",12,"","ar"
-"9721SN",12,"","av"
-"9721SN",12,"","ap"
-"9721SN",12,"","ah"
-"9721SN",12,"","bd"
-"9721SN",12,"","bq"
-"9721SN",12,"","af"
-"9721SN",12,"","au"
-"9721SN",12,"","an"
-"9721SN",12,"","aa"
-"9721SN",24,"",""
-"9721SN",12,"","am"
-"9721SN",12,"","bn"
-"9721SN",12,"","ag"
-"9721SN",12,"","at"
-"9721SN",4,"",""
-"9721SN",6,"",""
-"9721SN",12,"","as"
-"9721SN",22,"",""
-"9721SN",12,"","bb"
-"9721SN",12,"","ba"
-"9721SN",12,"","bm"
-"9721SN",12,"","aq"
-"9721SN",12,"","bk"
-"9721SN",12,"","ak"
-"9721SN",12,"","az"
-"9721SN",12,"","ac"
-"9721SN",12,"","bc"
-"9721SN",18,"",""
-"9721SN",12,"","ay"
-"9721SN",8,"",""
-"9721SN",12,"","bf"
-"9721SN",12,"",""
-"9721SN",12,"","ax"
-"9721SN",12,"","ab"
-"9721SP",28,"",""
-"9721SP",34,"",""
-"9721SP",36,"",""
-"9721SP",32,"",""
-"9721SP",38,"",""
-"9721SP",30,"",""
-"9721SR",40,"",""
-"9721SR",54,"",""
-"9721SR",52,"",""
-"9721SR",48,"",""
-"9721SR",42,"",""
-"9721SR",44,"",""
-"9721SR",62,"",""
-"9721SR",50,"",""
-"9721SR",60,"",""
-"9721SR",46,"",""
-"9721SR",58,"",""
-"9721SR",56,"",""
-"9721ST",80,"",""
-"9721ST",68,"",""
-"9721ST",78,"",""
-"9721ST",76,"",""
-"9721ST",66,"",""
-"9721ST",70,"",""
-"9721ST",64,"",""
-"9721ST",74,"",""
-"9721ST",72,"",""
-"9721VZ",376,"",""
-"9721VZ",350,"",""
-"9721VZ",374,"",""
-"9721VZ",340,"",""
-"9721VZ",372,"",""
-"9721VZ",348,"",""
-"9721VZ",354,"",""
-"9721VZ",344,"",""
-"9721VZ",380,"",""
-"9721VZ",342,"",""
-"9721VZ",366,"",""
-"9721VZ",370,"",""
-"9721VZ",368,"",""
-"9721VZ",346,"",""
-"9721WB",20,"",""
-"9721WB",8,"",""
-"9721WB",13,"",""
-"9721WB",17,"",""
-"9721WB",4,"",""
-"9721WB",9,"",""
-"9721WB",7,"",""
-"9721WB",10,"",""
-"9721WB",6,"",""
-"9721WB",3,"",""
-"9721WB",1,"",""
-"9721WB",12,"",""
-"9721WB",5,"",""
-"9721WB",2,"",""
-"9721WB",11,"",""
-"9721WB",15,"",""
-"9721WB",18,"",""
-"9721WG",9,"",""
-"9721WG",7,"",""
-"9721WG",13,"",""
-"9721WG",3,"",""
-"9721WG",5,"",""
-"9721WG",11,"",""
-"9721WG",1,"",""
-"9721WH",10,"",""
-"9721WH",6,"",""
-"9721WH",4,"",""
-"9721WH",8,"",""
-"9721WH",2,"",""
-"9721WJ",9,"",""
-"9721WJ",5,"",""
-"9721WJ",19,"",""
-"9721WJ",13,"",""
-"9721WJ",15,"",""
-"9721WJ",23,"",""
-"9721WJ",21,"",""
-"9721WJ",7,"",""
-"9721WJ",3,"",""
-"9721WJ",1,"",""
-"9721WJ",11,"",""
-"9721WJ",17,"",""
-"9721WJ",19,"",""
-"9721WJ",19,"",""
-"9721WK",2,"",""
-"9721WK",6,"","aa"
-"9721WK",6,"",""
-"9721WK",6,"",""
-"9721WK",4,"",""
-"9721WK",6,"",""
-"9721WL",1,"",""
-"9721WL",2,"",""
-"9721WL",3,"",""
-"9721WL",6,"",""
-"9721WL",4,"",""
-"9721WN",20,"",""
-"9721WN",30,"",""
-"9721WN",7,"",""
-"9721WN",6,"",""
-"9721WN",16,"",""
-"9721WN",14,"",""
-"9721WN",3,"",""
-"9721WN",18,"",""
-"9721WN",26,"",""
-"9721WN",28,"",""
-"9721WN",4,"a",""
-"9721WN",4,"",""
-"9721WN",4,"a",""
-"9721WN",1,"",""
-"9721WN",2,"",""
-"9721WN",9,"",""
-"9721WN",10,"",""
-"9721WN",24,"",""
-"9721WN",8,"",""
-"9721WN",22,"",""
-"9721WN",32,"",""
-"9721WN",12,"",""
-"9721WN",34,"",""
-"9721ZL",404,"","ab"
-"9721ZL",404,"","ac"
-"9721ZL",404,"",""
-"9721ZL",384,"",""
-"9721ZL",404,"","af"
-"9721ZL",404,"","ag"
-"9721ZL",388,"",""
-"9721ZL",386,"",""
-"9721ZL",400,"",""
-"9721ZL",404,"","ae"
-"9721ZL",404,"","aa"
-"9721ZL",402,"",""
-"9721ZL",404,"","ah"
-"9721ZL",392,"",""
-"9721ZL",396,"",""
-"9721ZL",390,"",""
-"9721ZL",404,"","ad"
-"9721ZL",382,"",""
-"9721ZL",398,"",""
-"9721ZL",394,"",""
-"9721ZM",430,"",""
-"9721ZM",440,"",""
-"9721ZM",418,"",""
-"9721ZM",412,"",""
-"9721ZM",436,"",""
-"9721ZM",438,"",""
-"9721ZM",434,"",""
-"9721ZM",416,"",""
-"9721ZM",414,"",""
-"9721ZM",450,"",""
-"9721ZM",408,"",""
-"9721ZM",444,"",""
-"9721ZM",410,"",""
-"9721ZM",422,"",""
-"9721ZM",406,"",""
-"9721ZM",446,"",""
-"9721ZM",424,"",""
-"9721ZM",428,"",""
-"9721ZM",432,"",""
-"9721ZM",426,"",""
-"9721ZM",442,"",""
-"9721ZM",452,"",""
-"9721ZM",448,"",""
-"9721ZM",420,"",""
-"9722AL",156,"",""
-"9722AL",148,"",""
-"9722AL",154,"",""
-"9722AL",150,"",""
-"9722AL",152,"",""
-"9722AL",144,"",""
-"9722AL",146,"",""
-"9722AM",198,"",""
-"9722AM",188,"",""
-"9722AM",158,"",""
-"9722AM",192,"",""
-"9722AM",160,"",""
-"9722AM",158,"",""
-"9722AM",196,"",""
-"9722AM",184,"",""
-"9722AM",178,"",""
-"9722AM",186,"",""
-"9722AM",158,"",""
-"9722AM",182,"",""
-"9722AM",174,"",""
-"9722AM",176,"",""
-"9722AN",206,"",""
-"9722AN",204,"",""
-"9722AN",210,"",""
-"9722AN",200,"",""
-"9722AN",202,"",""
-"9722AN",208,"",""
-"9722LJ",57,"",""
-"9722LJ",55,"",""
-"9722LJ",47,"",""
-"9722LJ",59,"",""
-"9722LJ",51,"",""
-"9722LJ",53,"",""
-"9722LJ",49,"",""
-"9722LK",10,"",""
-"9722LK",16,"",""
-"9722LK",14,"",""
-"9722LK",8,"",""
-"9722LK",12,"",""
-"9722LK",18,"",""
-"9722LK",20,"",""
-"9722LP",7,"",""
-"9722LP",5,"",""
-"9722LP",11,"",""
-"9722LP",1,"",""
-"9722LP",3,"",""
-"9722LP",9,"",""
-"9722LP",1,"a",""
-"9722RA",7,"",""
-"9722RA",15,"",""
-"9722RA",5,"",""
-"9722RA",9,"",""
-"9722RA",11,"",""
-"9722RA",3,"",""
-"9722RA",1,"",""
-"9722RA",13,"",""
-"9722RB",17,"",""
-"9722RB",25,"",""
-"9722RB",31,"",""
-"9722RB",21,"",""
-"9722RB",27,"",""
-"9722RB",23,"",""
-"9722RB",29,"",""
-"9722RB",19,"",""
-"9722RC",33,"",""
-"9722RC",35,"",""
-"9722RC",43,"",""
-"9722RC",37,"",""
-"9722RC",47,"",""
-"9722RC",45,"",""
-"9722RC",39,"",""
-"9722RC",41,"",""
-"9722RD",67,"",""
-"9722RD",77,"",""
-"9722RD",57,"",""
-"9722RD",65,"",""
-"9722RD",73,"",""
-"9722RD",69,"",""
-"9722RD",75,"",""
-"9722RD",55,"",""
-"9722RD",51,"",""
-"9722RD",49,"",""
-"9722RD",63,"",""
-"9722RD",85,"",""
-"9722RD",83,"",""
-"9722RD",61,"",""
-"9722RD",53,"",""
-"9722RD",81,"",""
-"9722RD",79,"",""
-"9722RD",71,"",""
-"9722RD",87,"",""
-"9722RD",59,"",""
-"9722RE",121,"",""
-"9722RE",119,"",""
-"9722RE",89,"",""
-"9722RE",103,"",""
-"9722RE",99,"",""
-"9722RE",115,"",""
-"9722RE",95,"",""
-"9722RE",93,"",""
-"9722RE",123,"",""
-"9722RE",91,"",""
-"9722RE",117,"",""
-"9722RE",101,"",""
-"9722RE",125,"",""
-"9722RE",127,"",""
-"9722RE",109,"",""
-"9722RE",97,"",""
-"9722RE",113,"",""
-"9722RE",107,"",""
-"9722RE",105,"",""
-"9722RE",111,"",""
-"9722RG",129,"",""
-"9722RG",131,"",""
-"9722RG",161,"","aa"
-"9722RG",145,"",""
-"9722RG",161,"",""
-"9722RG",159,"",""
-"9722RG",155,"",""
-"9722RG",147,"",""
-"9722RG",157,"",""
-"9722RG",153,"",""
-"9722RG",151,"",""
-"9722RL",64,"",""
-"9722RL",66,"",""
-"9722RL",54,"",""
-"9722RL",58,"",""
-"9722RL",46,"",""
-"9722RL",48,"",""
-"9722RL",68,"",""
-"9722RL",50,"",""
-"9722RL",44,"",""
-"9722RL",62,"",""
-"9722RL",48,"",""
-"9722RL",52,"",""
-"9722RL",42,"",""
-"9722RL",48,"",""
-"9722RN",9,"",""
-"9722RN",3,"",""
-"9722RN",1,"",""
-"9722RN",9,"","aa"
-"9722RN",7,"",""
-"9722RP",13,"",""
-"9722RP",9,"","ag"
-"9722RP",15,"",""
-"9722RP",17,"",""
-"9722RP",9,"","am"
-"9722RP",11,"",""
-"9722RP",9,"","ab"
-"9722RP",9,"",""
-"9722RP",5,"",""
-"9722RP",1,"",""
-"9722RP",9,"","aa"
-"9722RP",9,"",""
-"9722RP",19,"",""
-"9722RP",9,"","ac"
-"9722RP",9,"","af"
-"9722RP",9,"","an"
-"9722RP",7,"",""
-"9722RP",11,"a",""
-"9722RP",3,"",""
-"9722RP",25,"",""
-"9722RP",9,"","ae"
-"9722RP",9,"","ah"
-"9722RP",9,"","ad"
-"9722RP",23,"",""
-"9722RP",9,"","ak"
-"9722RP",21,"",""
-"9722RR",4,"",""
-"9722RR",2,"",""
-"9722RR",12,"",""
-"9722RR",16,"",""
-"9722RR",8,"",""
-"9722RR",14,"",""
-"9722RR",18,"",""
-"9722RR",6,"",""
-"9722RR",10,"",""
-"9722RS",7,"",""
-"9722RS",5,"",""
-"9722RS",9,"",""
-"9722RS",1,"",""
-"9722RS",3,"",""
-"9722RT",11,"",""
-"9722RT",15,"",""
-"9722RT",23,"",""
-"9722RT",17,"",""
-"9722RT",27,"",""
-"9722RT",21,"",""
-"9722RT",13,"",""
-"9722RT",25,"",""
-"9722RT",19,"",""
-"9722RV",2,"",""
-"9722RV",6,"",""
-"9722RV",4,"",""
-"9722RV",12,"",""
-"9722RV",10,"",""
-"9722RV",14,"",""
-"9722RV",8,"",""
-"9722RV",16,"",""
-"9722RV",18,"",""
-"9722RX",5,"",""
-"9722RX",4,"",""
-"9722RX",3,"",""
-"9722SB",11,"",""
-"9722SB",5,"",""
-"9722SB",7,"",""
-"9722SB",1,"",""
-"9722SB",9,"",""
-"9722SB",13,"",""
-"9722SB",3,"",""
-"9722SC",25,"",""
-"9722SC",29,"",""
-"9722SC",21,"",""
-"9722SC",15,"",""
-"9722SC",27,"",""
-"9722SC",17,"",""
-"9722SC",19,"",""
-"9722SC",23,"",""
-"9722SE",8,"",""
-"9722SE",30,"",""
-"9722SE",32,"",""
-"9722SE",20,"",""
-"9722SE",14,"",""
-"9722SE",4,"",""
-"9722SE",2,"",""
-"9722SE",12,"",""
-"9722SE",16,"",""
-"9722SE",6,"",""
-"9722SE",10,"",""
-"9722SE",18,"",""
-"9722SG",15,"",""
-"9722SG",3,"",""
-"9722SG",13,"",""
-"9722SG",25,"",""
-"9722SG",29,"",""
-"9722SG",23,"",""
-"9722SG",17,"",""
-"9722SG",23,"",""
-"9722SG",23,"",""
-"9722SG",1,"",""
-"9722SG",5,"",""
-"9722SG",11,"",""
-"9722SG",9,"",""
-"9722SG",7,"",""
-"9722SG",21,"",""
-"9722SG",27,"",""
-"9722SG",19,"",""
-"9722SH",12,"",""
-"9722SH",10,"",""
-"9722SH",16,"",""
-"9722SH",8,"",""
-"9722SH",2,"",""
-"9722SH",14,"",""
-"9722SH",6,"",""
-"9722SH",4,"",""
-"9722SJ",20,"",""
-"9722SJ",28,"",""
-"9722SJ",22,"",""
-"9722SJ",18,"",""
-"9722SJ",24,"",""
-"9722SJ",30,"",""
-"9722SJ",26,"",""
-"9722SK",11,"",""
-"9722SK",19,"",""
-"9722SK",3,"",""
-"9722SK",5,"",""
-"9722SK",7,"",""
-"9722SK",1,"",""
-"9722SK",9,"",""
-"9722SK",13,"",""
-"9722SL",14,"",""
-"9722SL",6,"",""
-"9722SL",2,"",""
-"9722SL",10,"",""
-"9722SL",12,"",""
-"9722SL",8,"",""
-"9722SL",4,"",""
-"9722SM",20,"",""
-"9722SM",22,"",""
-"9722SM",18,"",""
-"9722SM",26,"",""
-"9722SM",24,"",""
-"9722SM",16,"",""
-"9722SN",4,"a",""
-"9722SN",4,"",""
-"9722SN",2,"",""
-"9722SN",12,"",""
-"9722SN",16,"",""
-"9722SN",6,"",""
-"9722SN",20,"",""
-"9722SN",22,"",""
-"9722SN",18,"",""
-"9722SN",14,"",""
-9722SM,Esserlaan,26,,
-9721WB,Felix Timmermanslaan,7,,
-9722RA,Goeman Borgesiuslaan,9,,
-9721WG,Streuvelslaan,1,,
-9722LJ,Domela Nieuwenhuislaan,51,,
-9721WN,Elsschotlaan,30,,
-9721WN,Elsschotlaan,7,,
-9721WN,Elsschotlaan,16,,
-9721WN,Elsschotlaan,20,,
-9721WN,Elsschotlaan,18,,
-9721WN,Elsschotlaan,8,,
-9722RX,Espad,5,,
-9722RX,Espad,3,,
-9722SK,Esserlaan,7,,
-9722SL,Esserlaan,6,,
-9721WB,Felix Timmermanslaan,13,,
-9721WJ,Gezellelaan,7,,
-9721WJ,Gezellelaan,3,,
-9721WK,Gezellelaan,4,,
-9722RA,Goeman Borgesiuslaan,7,,
-9722RA,Goeman Borgesiuslaan,13,,
-9722RB,Goeman Borgesiuslaan,19,,
-9722RB,Goeman Borgesiuslaan,27,,
-9722RE,Goeman Borgesiuslaan,99,,
-9722RE,Goeman Borgesiuslaan,123,,
-9722RG,Goeman Borgesiuslaan,161,,
-9722RG,Goeman Borgesiuslaan,153,,
-9722RP,Helper Esweg,15,,
-9722RP,Helper Esweg,1,,
-9722RR,Helper Esweg,2,,
-9722RN,Hilghepad,1,,
-9722SC,Hondsruglaan,19,,
-9722SE,Hondsruglaan,6,,
-9722SE,Hondsruglaan,12,,
-9722SE,Hondsruglaan,8,,
-9722RT,Quintuslaan,23,,
-9722RT,Quintuslaan,15,,
-9721WH,Streuvelslaan,8,,
-9721SN,Van Ketwich Verschuurlaan,6,,
-9721SP,Van Ketwich Verschuurlaan,32,,
-9721ST,Van Ketwich Verschuurlaan,78,,
-9721ST,Van Ketwich Verschuurlaan,76,,
-9721AP,Verlengde Hereweg,175,,
-9721AP,Verlengde Hereweg,171,,
-9721AS,Verlengde Hereweg,189,,8
-9722AN,Verlengde Hereweg,210,,
-9722AN,Verlengde Hereweg,202,,
-9722AN,Verlengde Hereweg,206,,
-9721VZ,Vestdijklaan,340,,
-9721ZL,Vestdijklaan,388,,
-9721ZL,Vestdijklaan,400,,
-9721ZM,Vestdijklaan,446,,
-9721ZM,Vestdijklaan,406,,
-9722LJ,Domela Nieuwenhuislaan,57,,
-9721WN,Elsschotlaan,28,,
-9722SL,Esserlaan,10,,
-9722SL,Esserlaan,2,,
-9722SN,Esserweg,4,,
-9722SN,Esserweg,20,,
-9721WJ,Gezellelaan,1,,
-9721WJ,Gezellelaan,21,,
-9722RA,Goeman Borgesiuslaan,5,,
-9722RD,Goeman Borgesiuslaan,69,,
-9722RD,Goeman Borgesiuslaan,77,,
-9722RE,Goeman Borgesiuslaan,93,,
-9722RG,Goeman Borgesiuslaan,157,,
-9722RL,Goeman Borgesiuslaan,64,,
-9722RL,Goeman Borgesiuslaan,46,,
-9722RP,Helper Esweg,23,,
-9722SB,Hondsruglaan,3,,
-9722SC,Hondsruglaan,25,,
-9722SC,Hondsruglaan,21,,
-9722SG,Kamplaan,9,,
-9722SG,Kamplaan,19,,
-9722SH,Kamplaan,4,,
-9722SJ,Kamplaan,24,,
-9722SJ,Kamplaan,26,,
-9722RS,Quintuslaan,3,,
-9722RV,Quintuslaan,10,,
-9721WG,Streuvelslaan,5,,
-9721SP,Van Ketwich Verschuurlaan,30,,
-9721ST,Van Ketwich Verschuurlaan,80,,
-9721AN,Verlengde Hereweg,159,,
-9721AP,Verlengde Hereweg,177,a,
-9721AR,Verlengde Hereweg,179,,
-9721AS,Verlengde Hereweg,187,,
-9721AS,Verlengde Hereweg,189,,3
-9721AS,Verlengde Hereweg,189,,4
-9722AL,Verlengde Hereweg,150,,
-9722AM,Verlengde Hereweg,196,,
-9721VZ,Vestdijklaan,374,,
-9721ZL,Vestdijklaan,394,,
-9722LP,Cort van der Lindenlaan,11,,
-9722LJ,Domela Nieuwenhuislaan,53,,
-9722LJ,Domela Nieuwenhuislaan,59,,
-9721WN,Elsschotlaan,22,,
-9722SM,Esserlaan,24,,
-9722SN,Esserweg,2,,
-9722SN,Esserweg,14,,
-9721WB,Felix Timmermanslaan,11,,
-9721WB,Felix Timmermanslaan,4,,
-9721WB,Felix Timmermanslaan,5,,
-9721WB,Felix Timmermanslaan,8,,
-9721WJ,Gezellelaan,19,,
-9722RB,Goeman Borgesiuslaan,29,,
-9722RD,Goeman Borgesiuslaan,51,,
-9722RD,Goeman Borgesiuslaan,57,,
-9722RD,Goeman Borgesiuslaan,83,,
-9722RG,Goeman Borgesiuslaan,155,,
-9722RL,Goeman Borgesiuslaan,62,,
-9722RR,Helper Esweg,6,,
-9722SB,Hondsruglaan,7,,
-9722SE,Hondsruglaan,20,,
-9722SG,Kamplaan,1,,
-9722SG,Kamplaan,5,,
-9722SJ,Kamplaan,20,,
-9722RS,Quintuslaan,1,,
-9722RT,Quintuslaan,11,,
-9722RT,Quintuslaan,13,,
-9722RV,Quintuslaan,14,,
-9721WH,Streuvelslaan,2,,
-9721SN,Van Ketwich Verschuurlaan,18,,
-9721SN,Van Ketwich Verschuurlaan,4,,
-9721SR,Van Ketwich Verschuurlaan,44,,
-9721ST,Van Ketwich Verschuurlaan,70,,
-9721AS,Verlengde Hereweg,185,,
-9722AL,Verlengde Hereweg,148,,
-9722AM,Verlengde Hereweg,158,,
-9722AM,Verlengde Hereweg,174,,
-9722AN,Verlengde Hereweg,204,,
-9721VZ,Vestdijklaan,368,,
-9721VZ,Vestdijklaan,366,,
-9721VZ,Vestdijklaan,354,,
-9721VZ,Vestdijklaan,348,,
-9721ZL,Vestdijklaan,386,,
-9721ZL,Vestdijklaan,382,,
-9721ZL,Vestdijklaan,398,,
-9721ZM,Vestdijklaan,432,,
-9721ZM,Vestdijklaan,412,,
-9722LJ,Domela Nieuwenhuislaan,47,,
-9722LK,Domela Nieuwenhuislaan,12,,
-9721WN,Elsschotlaan,4,,
-9722SK,Esserlaan,11,,
-9722SL,Esserlaan,4,,
-9722SL,Esserlaan,14,,
-9722SM,Esserlaan,16,,
-9722SN,Esserweg,4,a,
-9721WB,Felix Timmermanslaan,2,,
-9721WJ,Gezellelaan,23,,
-9721WJ,Gezellelaan,13,,
-9722RA,Goeman Borgesiuslaan,11,,
-9722RA,Goeman Borgesiuslaan,3,,
-9722RB,Goeman Borgesiuslaan,25,,
-9722RC,Goeman Borgesiuslaan,39,,
-9722RC,Goeman Borgesiuslaan,35,,
-9722RG,Goeman Borgesiuslaan,159,,
-9722RG,Goeman Borgesiuslaan,147,,
-9722RL,Goeman Borgesiuslaan,44,,
-9722RL,Goeman Borgesiuslaan,58,,
-9722RP,Helper Esweg,17,,
-9722SC,Hondsruglaan,15,,
-9722SC,Hondsruglaan,23,,
-9722SE,Hondsruglaan,16,,
-9722SG,Kamplaan,25,,
-9722SG,Kamplaan,27,,
-9722SH,Kamplaan,8,,
-9722SH,Kamplaan,16,,
-9722SJ,Kamplaan,18,,
-9722RS,Quintuslaan,9,,
-9722RT,Quintuslaan,27,,
-9722RV,Quintuslaan,8,,
-9721WG,Streuvelslaan,13,,
-9721SP,Van Ketwich Verschuurlaan,36,,
-9721SR,Van Ketwich Verschuurlaan,60,,
-9721AN,Verlengde Hereweg,167,,1
-9721AP,Verlengde Hereweg,177,,
-9721AS,Verlengde Hereweg,191,,
-9721AS,Verlengde Hereweg,189,,12
-9722AL,Verlengde Hereweg,156,,
-9722AL,Verlengde Hereweg,146,,
-9722AM,Verlengde Hereweg,188,,
-9722AM,Verlengde Hereweg,176,,
-9722AM,Verlengde Hereweg,182,,
-9721VZ,Vestdijklaan,344,,
-9721ZM,Vestdijklaan,420,,
-9722LP,Cort van der Lindenlaan,7,,
-9722LP,Cort van der Lindenlaan,3,,
-9722LP,Cort van der Lindenlaan,5,,
-9722LJ,Domela Nieuwenhuislaan,55,,
-9722LK,Domela Nieuwenhuislaan,14,,
-9721WN,Elsschotlaan,1,,
-9721WN,Elsschotlaan,6,,
-9721WN,Elsschotlaan,12,,
-9721WN,Elsschotlaan,10,,
-9722SK,Esserlaan,9,,
-9722SM,Esserlaan,18,,
-9721WB,Felix Timmermanslaan,3,,
-9721WB,Felix Timmermanslaan,18,,
-9721WJ,Gezellelaan,15,,
-9721WK,Gezellelaan,6,,
-9722RC,Goeman Borgesiuslaan,41,,
-9722RC,Goeman Borgesiuslaan,37,,
-9722RD,Goeman Borgesiuslaan,79,,
-9722RE,Goeman Borgesiuslaan,125,,
-9722RE,Goeman Borgesiuslaan,103,,
-9722RE,Goeman Borgesiuslaan,95,,
-9722RG,Goeman Borgesiuslaan,145,,
-9722RL,Goeman Borgesiuslaan,54,,
-9722RP,Helper Esweg,21,,
-9722RR,Helper Esweg,12,,
-9722SG,Kamplaan,15,,
-9722SG,Kamplaan,29,,
-9722SH,Kamplaan,10,,
-9722RT,Quintuslaan,25,,
-9721WG,Streuvelslaan,9,,
-9721WG,Streuvelslaan,7,,
-9721WG,Streuvelslaan,11,,
-9721WH,Streuvelslaan,4,,
-9721SN,Van Ketwich Verschuurlaan,14,,
-9721SN,Van Ketwich Verschuurlaan,8,,
-9721SR,Van Ketwich Verschuurlaan,62,,
-9721SR,Van Ketwich Verschuurlaan,58,,
-9721SR,Van Ketwich Verschuurlaan,46,,
-9721AR,Verlengde Hereweg,183,a,
-9721AS,Verlengde Hereweg,189,,1
-9722AM,Verlengde Hereweg,178,,
-9721VZ,Vestdijklaan,380,,
-9721ZL,Vestdijklaan,404,,
-9721ZL,Vestdijklaan,402,,
-9721ZL,Vestdijklaan,384,,
-9721ZM,Vestdijklaan,426,,
-9721ZM,Vestdijklaan,434,,
-9722LP,Cort van der Lindenlaan,1,a,
-9722LJ,Domela Nieuwenhuislaan,49,,
-9722LK,Domela Nieuwenhuislaan,8,,
-9722LK,Domela Nieuwenhuislaan,18,,
-9722LK,Domela Nieuwenhuislaan,16,,
-9721WN,Elsschotlaan,26,,
-9721WN,Elsschotlaan,24,,
-9721WN,Elsschotlaan,2,,
-9722SK,Esserlaan,5,,
-9722SK,Esserlaan,19,,
-9722SK,Esserlaan,1,,
-9722SK,Esserlaan,13,,
-9722SM,Esserlaan,22,,
-9722SN,Esserweg,12,,
-9722SN,Esserweg,18,,
-9722SN,Esserweg,6,,
-9721WB,Felix Timmermanslaan,9,,
-9721WB,Felix Timmermanslaan,1,,
-9721WB,Felix Timmermanslaan,6,,
-9721WJ,Gezellelaan,17,,
-9721WK,Gezellelaan,2,,
-9722RA,Goeman Borgesiuslaan,15,,
-9722RB,Goeman Borgesiuslaan,23,,
-9722RC,Goeman Borgesiuslaan,33,,
-9722RD,Goeman Borgesiuslaan,53,,
-9722RD,Goeman Borgesiuslaan,85,,
-9722RD,Goeman Borgesiuslaan,87,,
-9722RE,Goeman Borgesiuslaan,89,,
-9722RE,Goeman Borgesiuslaan,119,,
-9722RE,Goeman Borgesiuslaan,115,,
-9722RL,Goeman Borgesiuslaan,68,,
-9722RP,Helper Esweg,13,,
-9722RP,Helper Esweg,3,,
-9722RP,Helper Esweg,5,,
-9722RR,Helper Esweg,4,,
-9722SB,Hondsruglaan,9,,
-9722SC,Hondsruglaan,27,,
-9722SC,Hondsruglaan,29,,
-9722SC,Hondsruglaan,17,,
-9722SE,Hondsruglaan,2,,
-9722SG,Kamplaan,23,,
-9722SG,Kamplaan,13,,
-9722SH,Kamplaan,14,,
-9722SJ,Kamplaan,22,,
-9722RS,Quintuslaan,5,,
-9722RS,Quintuslaan,7,,
-9722RT,Quintuslaan,19,,
-9722RV,Quintuslaan,2,,
-9722RV,Quintuslaan,16,,
-9721WG,Streuvelslaan,3,,
-9721WH,Streuvelslaan,10,,
-9721SR,Van Ketwich Verschuurlaan,56,,
-9721AN,Verlengde Hereweg,165,,
-9721AR,Verlengde Hereweg,183,,
-9721AS,Verlengde Hereweg,189,,10
-9722AL,Verlengde Hereweg,154,,
-9722AM,Verlengde Hereweg,186,,
-9722AM,Verlengde Hereweg,192,,
-9722AN,Verlengde Hereweg,200,,
-9721ZM,Vestdijklaan,422,,
-9721ZM,Vestdijklaan,444,,
-9722LK,Domela Nieuwenhuislaan,20,,
-9721WN,Elsschotlaan,14,,
-9721WN,Elsschotlaan,34,,
-9721WB,Felix Timmermanslaan,20,,
-9721WJ,Gezellelaan,11,,
-9721WJ,Gezellelaan,9,,
-9722RB,Goeman Borgesiuslaan,21,,
-9722RB,Goeman Borgesiuslaan,17,,
-9722RD,Goeman Borgesiuslaan,49,,
-9722RD,Goeman Borgesiuslaan,81,,
-9722RD,Goeman Borgesiuslaan,59,,
-9722RE,Goeman Borgesiuslaan,121,,
-9722RE,Goeman Borgesiuslaan,107,,
-9722RE,Goeman Borgesiuslaan,117,,
-9722RE,Goeman Borgesiuslaan,105,,
-9722RE,Goeman Borgesiuslaan,91,,
-9722RL,Goeman Borgesiuslaan,42,,
-9722RL,Goeman Borgesiuslaan,50,,
-9722RN,Hilghepad,7,,
-9722SB,Hondsruglaan,11,,
-9722SB,Hondsruglaan,5,,
-9722SE,Hondsruglaan,18,,
-9722SE,Hondsruglaan,10,,
-9722SE,Hondsruglaan,4,,
-9722SE,Hondsruglaan,14,,
-9722SG,Kamplaan,3,,
-9722SG,Kamplaan,21,,
-9722SG,Kamplaan,7,,
-9722SH,Kamplaan,12,,
-9722SH,Kamplaan,2,,
-9722SJ,Kamplaan,30,,
-9722SJ,Kamplaan,28,,
-9722RT,Quintuslaan,21,,
-9722RT,Quintuslaan,17,,
-9721SN,Van Ketwich Verschuurlaan,2,,
-9721SN,Van Ketwich Verschuurlaan,24,,
-9721SP,Van Ketwich Verschuurlaan,28,,
-9721SR,Van Ketwich Verschuurlaan,54,,
-9721ST,Van Ketwich Verschuurlaan,64,,
-9721AS,Verlengde Hereweg,189,,6
-9721VZ,Vestdijklaan,342,,
-9721VZ,Vestdijklaan,376,,
-9721VZ,Vestdijklaan,346,,
-9721ZM,Vestdijklaan,440,,
-9721ZM,Vestdijklaan,448,,
-9721ZM,Vestdijklaan,438,,
-9721ZM,Vestdijklaan,430,,
-9721ZM,Vestdijklaan,416,,
-9721ZM,Vestdijklaan,414,,
-9722LP,Cort van der Lindenlaan,9,,
-9721WN,Elsschotlaan,9,,
-9721WN,Elsschotlaan,3,,
-9722SK,Esserlaan,3,,
-9722SL,Esserlaan,8,,
-9722SM,Esserlaan,20,,
-9722SN,Esserweg,16,,
-9721WB,Felix Timmermanslaan,12,,
-9721WJ,Gezellelaan,5,,
-9722RC,Goeman Borgesiuslaan,43,,
-9722RD,Goeman Borgesiuslaan,61,,
-9722RD,Goeman Borgesiuslaan,55,,
-9722RD,Goeman Borgesiuslaan,75,,
-9722RE,Goeman Borgesiuslaan,111,,
-9722RE,Goeman Borgesiuslaan,101,,
-9722RL,Goeman Borgesiuslaan,66,,
-9722RP,Helper Esweg,11,,
-9722RP,Helper Esweg,19,,
-9722RR,Helper Esweg,18,,
-9722RR,Helper Esweg,14,,
-9722RR,Helper Esweg,10,,
-9722RR,Helper Esweg,16,,
-9722SB,Hondsruglaan,1,,
-9722SB,Hondsruglaan,13,,
-9722SE,Hondsruglaan,30,,
-9722SG,Kamplaan,17,,
-9722RV,Quintuslaan,4,,
-9721WH,Streuvelslaan,6,,
-9721WL,Van de Woestijnelaan,1,,
-9721SN,Van Ketwich Verschuurlaan,20,,
-9721SN,Van Ketwich Verschuurlaan,22,,
-9721SN,Van Ketwich Verschuurlaan,16,,
-9721SP,Van Ketwich Verschuurlaan,34,,
-9721SP,Van Ketwich Verschuurlaan,38,,
-9721SR,Van Ketwich Verschuurlaan,42,,
-9721SR,Van Ketwich Verschuurlaan,50,,
-9721SR,Van Ketwich Verschuurlaan,52,,
-9721SR,Van Ketwich Verschuurlaan,40,,
-9721SR,Van Ketwich Verschuurlaan,48,,
-9721ST,Van Ketwich Verschuurlaan,74,,
-9721AS,Verlengde Hereweg,189,,5
-9721AS,Verlengde Hereweg,189,,11
-9721AS,Verlengde Hereweg,189,,9
-9722AL,Verlengde Hereweg,144,,
-9722AL,Verlengde Hereweg,152,,
-9722AN,Verlengde Hereweg,208,,
-9721VZ,Vestdijklaan,372,,
-9721VZ,Vestdijklaan,350,,
-9721VZ,Vestdijklaan,370,,
-9721ZL,Vestdijklaan,390,,
-9721ZL,Vestdijklaan,392,,
-9721ZM,Vestdijklaan,452,,
-9721ZM,Vestdijklaan,436,,
-9721ZM,Vestdijklaan,428,,
-9721ZM,Vestdijklaan,442,,
-9721ZM,Vestdijklaan,408,,
-9721ZM,Vestdijklaan,424,,
-9722LP,Cort van der Lindenlaan,1,,
-9722LK,Domela Nieuwenhuislaan,10,,
-9721WN,Elsschotlaan,32,,
-9721WB,Felix Timmermanslaan,10,,
-9722RA,Goeman Borgesiuslaan,1,,
-9722RB,Goeman Borgesiuslaan,31,,
-9722RC,Goeman Borgesiuslaan,47,,
-9722RD,Goeman Borgesiuslaan,71,,
-9722RD,Goeman Borgesiuslaan,67,,
-9722RD,Goeman Borgesiuslaan,63,,
-9722RD,Goeman Borgesiuslaan,65,,
-9722RD,Goeman Borgesiuslaan,73,,
-9722RE,Goeman Borgesiuslaan,109,,
-9722RE,Goeman Borgesiuslaan,113,,
-9722RE,Goeman Borgesiuslaan,97,,
-9722RE,Goeman Borgesiuslaan,127,,
-9722RG,Goeman Borgesiuslaan,151,,
-9722RG,Goeman Borgesiuslaan,131,,
-9722RL,Goeman Borgesiuslaan,52,,
-9722RL,Goeman Borgesiuslaan,48,,
-9722RP,Helper Esweg,9,,
-9722RP,Helper Esweg,9,,
-9722RP,Helper Esweg,7,,
-9722RR,Helper Esweg,8,,
-9722RN,Hilghepad,9,,
-9722SE,Hondsruglaan,32,,
-9722SH,Kamplaan,6,,
-9722RV,Quintuslaan,6,,
-9722RV,Quintuslaan,12,,
-9722RV,Quintuslaan,18,,
-9721WL,Van de Woestijnelaan,3,,
-9721SN,Van Ketwich Verschuurlaan,12,,
-9721SN,Van Ketwich Verschuurlaan,26,,
-9721ST,Van Ketwich Verschuurlaan,68,,
-9721ST,Van Ketwich Verschuurlaan,72,,
-9721ST,Van Ketwich Verschuurlaan,66,,
-9721AN,Verlengde Hereweg,163,,
-9721AP,Verlengde Hereweg,173,,
-9721AS,Verlengde Hereweg,189,,2
-9721AS,Verlengde Hereweg,189,,7
-9721AS,Verlengde Hereweg,189,,14
-9721AS,Verlengde Hereweg,189,,15
-9722AM,Verlengde Hereweg,198,,
-9722AM,Verlengde Hereweg,184,,
-9721ZL,Vestdijklaan,396,,
-9721ZM,Vestdijklaan,450,,
-9721ZM,Vestdijklaan,410,,
-9721ZM,Vestdijklaan,418,,
-9722RC,Goeman Borgesiuslaan,45,,
-9722RG,Goeman Borgesiuslaan,129,,
-9722RP,Helper Esweg,25,,
-9722RN,Hilghepad,3,,
-9721WL,Van de Woestijnelaan,2,,
-9721WL,Van de Woestijnelaan,4,,
-9721WL,Van de Woestijnelaan,6,,
-9721AN,Verlengde Hereweg,167,,
-9721AN,Verlengde Hereweg,161,,
-9721WN,Elsschotlaan,4,a,
-9722RX,Espad,4,,
-9722SN,Esserweg,22,,
-9721WB,Felix Timmermanslaan,15,,
-9721WB,Felix Timmermanslaan,17,,
-9721WK,Gezellelaan,6,,aa
-9722RG,Goeman Borgesiuslaan,161,,aa
-9722RP,Helper Esweg,9,,aa
-9722RP,Helper Esweg,9,,ab
-9722RP,Helper Esweg,9,,ac
-9722RP,Helper Esweg,9,,ad
-9722RP,Helper Esweg,9,,ae
-9722RP,Helper Esweg,9,,af
-9722RP,Helper Esweg,9,,ag
-9722RP,Helper Esweg,9,,ah
-9722RP,Helper Esweg,9,,ak
-9722RP,Helper Esweg,9,,am
-9722RP,Helper Esweg,9,,an
-9722RN,Hilghepad,9,,aa
-9721MN,Jan Wolkerslaan,126,,
-9721MN,Jan Wolkerslaan,108,,
-9721MN,Jan Wolkerslaan,112,,
-9721MN,Jan Wolkerslaan,102,,
-9721MN,Jan Wolkerslaan,110,,
-9721MN,Jan Wolkerslaan,116,,
-9721MN,Jan Wolkerslaan,118,,
-9721MN,Jan Wolkerslaan,120,,
-9721MN,Jan Wolkerslaan,124,,
-9721MN,Jan Wolkerslaan,104,,
-9721MN,Jan Wolkerslaan,106,,
-9721MN,Jan Wolkerslaan,114,,
-9721MN,Jan Wolkerslaan,122,,
-9721SN,Van Ketwich Verschuurlaan,12,,aa
-9721SN,Van Ketwich Verschuurlaan,12,,ab
-9721SN,Van Ketwich Verschuurlaan,12,,ac
-9721SN,Van Ketwich Verschuurlaan,12,,ad
-9721SN,Van Ketwich Verschuurlaan,12,,ae
-9721SN,Van Ketwich Verschuurlaan,12,,af
-9721SN,Van Ketwich Verschuurlaan,12,,ag
-9721SN,Van Ketwich Verschuurlaan,12,,ah
-9721SN,Van Ketwich Verschuurlaan,12,,ak
-9721SN,Van Ketwich Verschuurlaan,12,,am
-9721SN,Van Ketwich Verschuurlaan,12,,an
-9721SN,Van Ketwich Verschuurlaan,12,,ap
-9721SN,Van Ketwich Verschuurlaan,12,,aq
-9721SN,Van Ketwich Verschuurlaan,12,,ar
-9721SN,Van Ketwich Verschuurlaan,12,,as
-9721SN,Van Ketwich Verschuurlaan,12,,at
-9721SN,Van Ketwich Verschuurlaan,12,,au
-9721SN,Van Ketwich Verschuurlaan,12,,av
-9721SN,Van Ketwich Verschuurlaan,12,,aw
-9721SN,Van Ketwich Verschuurlaan,12,,ax
-9721SN,Van Ketwich Verschuurlaan,12,,ay
-9721SN,Van Ketwich Verschuurlaan,12,,az
-9721SN,Van Ketwich Verschuurlaan,12,,ba
-9721SN,Van Ketwich Verschuurlaan,12,,bb
-9721SN,Van Ketwich Verschuurlaan,12,,bc
-9721SN,Van Ketwich Verschuurlaan,12,,bd
-9721SN,Van Ketwich Verschuurlaan,12,,be
-9721SN,Van Ketwich Verschuurlaan,12,,bf
-9721SN,Van Ketwich Verschuurlaan,12,,bg
-9721SN,Van Ketwich Verschuurlaan,12,,bh
-9721SN,Van Ketwich Verschuurlaan,12,,bk
-9721SN,Van Ketwich Verschuurlaan,12,,bm
-9721SN,Van Ketwich Verschuurlaan,12,,bn
-9721SN,Van Ketwich Verschuurlaan,12,,bp
-9721SN,Van Ketwich Verschuurlaan,12,,bq
-9721ZL,Vestdijklaan,404,,aa
-9721ZL,Vestdijklaan,404,,ab
-9721ZL,Vestdijklaan,404,,ac
-9721ZL,Vestdijklaan,404,,ad
-9721ZL,Vestdijklaan,404,,ae
-9721ZL,Vestdijklaan,404,,af
-9721ZL,Vestdijklaan,404,,ag
-9721ZL,Vestdijklaan,404,,ah
-9722RP,Helper Esweg,11,a,
-9721MN,Jan Wolkerslaan,128,,
-9721MN,Jan Wolkerslaan,130,,
-9722SG,Kamplaan,11,,
-9722SL,Esserlaan,12,,
-9721WJ,Gezellelaan,19,,
-9721MN,Jan Wolkerslaan,80,,
-9721MN,Jan Wolkerslaan,84,,
-9721MN,Jan Wolkerslaan,86,,
-9721MN,Jan Wolkerslaan,88,,
-9721MN,Jan Wolkerslaan,90,,
-9721MN,Jan Wolkerslaan,94,,
-9721MN,Jan Wolkerslaan,92,,
-9721MN,Jan Wolkerslaan,98,,
-9721MN,Jan Wolkerslaan,100,,
-9721MN,Jan Wolkerslaan,96,,
-9721MN,Jan Wolkerslaan,82,,
-9721MN,Jan Wolkerslaan,2,,
-9721AP,Verlengde Hereweg,177,a,
-9721MN,Jan Wolkerslaan,68,,
-9721MN,Jan Wolkerslaan,70,,
-9721MN,Jan Wolkerslaan,72,,
-9721MN,Jan Wolkerslaan,74,,
-9721MN,Jan Wolkerslaan,76,,
-9721MN,Jan Wolkerslaan,78,,
-9722SG,Kamplaan,23,,
-9721AR,Verlengde Hereweg,181,,
-9721AR,Verlengde Hereweg,181,a,
-9721AR,Verlengde Hereweg,181,b,
-9721AR,Verlengde Hereweg,181,c,
-9721AR,Verlengde Hereweg,181,d,
-9721AR,Verlengde Hereweg,181,e,
-9721AR,Verlengde Hereweg,181,f,
-9721AR,Verlengde Hereweg,181,g,
-9722AM,Verlengde Hereweg,160,,
-9722AM,Verlengde Hereweg,158,,
-9721WK,Gezellelaan,6,,
-9722RL,Goeman Borgesiuslaan,48,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Verlengde Hereweg,159,"","",9721AN,Groningen
+Verlengde Hereweg,161,"","",9721AN,Groningen
+Verlengde Hereweg,163,"","",9721AN,Groningen
+Verlengde Hereweg,165,"","",9721AN,Groningen
+Verlengde Hereweg,167,"","",9721AN,Groningen
+Verlengde Hereweg,167,"",1,9721AN,Groningen
+Verlengde Hereweg,171,"","",9721AP,Groningen
+Verlengde Hereweg,173,"","",9721AP,Groningen
+Verlengde Hereweg,175,"","",9721AP,Groningen
+Verlengde Hereweg,177,"","",9721AP,Groningen
+Verlengde Hereweg,177,A,"",9721AP,Groningen
+Verlengde Hereweg,177,A,"",9721AP,Groningen
+Verlengde Hereweg,177,A,"",9721AP,Groningen
+Verlengde Hereweg,179,"","",9721AR,Groningen
+Verlengde Hereweg,181,"","",9721AR,Groningen
+Verlengde Hereweg,181,"","",9721AR,Groningen
+Verlengde Hereweg,181,A,"",9721AR,Groningen
+Verlengde Hereweg,181,A,"",9721AR,Groningen
+Verlengde Hereweg,181,B,"",9721AR,Groningen
+Verlengde Hereweg,181,B,"",9721AR,Groningen
+Verlengde Hereweg,181,C,"",9721AR,Groningen
+Verlengde Hereweg,181,C,"",9721AR,Groningen
+Verlengde Hereweg,181,D,"",9721AR,Groningen
+Verlengde Hereweg,181,D,"",9721AR,Groningen
+Verlengde Hereweg,181,E,"",9721AR,Groningen
+Verlengde Hereweg,181,E,"",9721AR,Groningen
+Verlengde Hereweg,181,F,"",9721AR,Groningen
+Verlengde Hereweg,181,F,"",9721AR,Groningen
+Verlengde Hereweg,181,G,"",9721AR,Groningen
+Verlengde Hereweg,181,G,"",9721AR,Groningen
+Verlengde Hereweg,183,"","",9721AR,Groningen
+Verlengde Hereweg,183,A,"",9721AR,Groningen
+Verlengde Hereweg,185,"","",9721AS,Groningen
+Verlengde Hereweg,187,"","",9721AS,Groningen
+Verlengde Hereweg,189,"",1,9721AS,Groningen
+Verlengde Hereweg,189,"",10,9721AS,Groningen
+Verlengde Hereweg,189,"",11,9721AS,Groningen
+Verlengde Hereweg,189,"",12,9721AS,Groningen
+Verlengde Hereweg,189,"",14,9721AS,Groningen
+Verlengde Hereweg,189,"",15,9721AS,Groningen
+Verlengde Hereweg,189,"",2,9721AS,Groningen
+Verlengde Hereweg,189,"",3,9721AS,Groningen
+Verlengde Hereweg,189,"",4,9721AS,Groningen
+Verlengde Hereweg,189,"",5,9721AS,Groningen
+Verlengde Hereweg,189,"",6,9721AS,Groningen
+Verlengde Hereweg,189,"",7,9721AS,Groningen
+Verlengde Hereweg,189,"",8,9721AS,Groningen
+Verlengde Hereweg,189,"",9,9721AS,Groningen
+Verlengde Hereweg,191,"","",9721AS,Groningen
+Jan Wolkerslaan,100,"","",9721MN,Groningen
+Jan Wolkerslaan,102,"","",9721MN,Groningen
+Jan Wolkerslaan,104,"","",9721MN,Groningen
+Jan Wolkerslaan,106,"","",9721MN,Groningen
+Jan Wolkerslaan,108,"","",9721MN,Groningen
+Jan Wolkerslaan,110,"","",9721MN,Groningen
+Jan Wolkerslaan,112,"","",9721MN,Groningen
+Jan Wolkerslaan,114,"","",9721MN,Groningen
+Jan Wolkerslaan,116,"","",9721MN,Groningen
+Jan Wolkerslaan,118,"","",9721MN,Groningen
+Jan Wolkerslaan,120,"","",9721MN,Groningen
+Jan Wolkerslaan,122,"","",9721MN,Groningen
+Jan Wolkerslaan,124,"","",9721MN,Groningen
+Jan Wolkerslaan,126,"","",9721MN,Groningen
+Jan Wolkerslaan,128,"","",9721MN,Groningen
+Jan Wolkerslaan,130,"","",9721MN,Groningen
+Jan Wolkerslaan,2,"","",9721MN,Groningen
+Jan Wolkerslaan,68,"","",9721MN,Groningen
+Jan Wolkerslaan,70,"","",9721MN,Groningen
+Jan Wolkerslaan,72,"","",9721MN,Groningen
+Jan Wolkerslaan,74,"","",9721MN,Groningen
+Jan Wolkerslaan,76,"","",9721MN,Groningen
+Jan Wolkerslaan,78,"","",9721MN,Groningen
+Jan Wolkerslaan,80,"","",9721MN,Groningen
+Jan Wolkerslaan,82,"","",9721MN,Groningen
+Jan Wolkerslaan,84,"","",9721MN,Groningen
+Jan Wolkerslaan,86,"","",9721MN,Groningen
+Jan Wolkerslaan,88,"","",9721MN,Groningen
+Jan Wolkerslaan,90,"","",9721MN,Groningen
+Jan Wolkerslaan,92,"","",9721MN,Groningen
+Jan Wolkerslaan,94,"","",9721MN,Groningen
+Jan Wolkerslaan,96,"","",9721MN,Groningen
+Jan Wolkerslaan,98,"","",9721MN,Groningen
+Van Ketwich Verschuurlaan,12,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AA,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AB,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AC,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AD,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AE,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AF,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AG,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AH,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AK,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AM,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AN,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AP,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AQ,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AR,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AS,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AT,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AU,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AV,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AW,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AX,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AY,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",AZ,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BA,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BB,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BC,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BD,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BE,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BF,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BG,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BH,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BK,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BM,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BN,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BP,9721SN,Groningen
+Van Ketwich Verschuurlaan,12,"",BQ,9721SN,Groningen
+Van Ketwich Verschuurlaan,14,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,16,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,18,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,2,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,20,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,22,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,24,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,26,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,4,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,6,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,8,"","",9721SN,Groningen
+Van Ketwich Verschuurlaan,28,"","",9721SP,Groningen
+Van Ketwich Verschuurlaan,30,"","",9721SP,Groningen
+Van Ketwich Verschuurlaan,32,"","",9721SP,Groningen
+Van Ketwich Verschuurlaan,34,"","",9721SP,Groningen
+Van Ketwich Verschuurlaan,36,"","",9721SP,Groningen
+Van Ketwich Verschuurlaan,38,"","",9721SP,Groningen
+Van Ketwich Verschuurlaan,40,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,42,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,44,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,46,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,48,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,50,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,52,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,54,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,56,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,58,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,60,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,62,"","",9721SR,Groningen
+Van Ketwich Verschuurlaan,64,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,66,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,68,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,70,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,72,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,74,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,76,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,78,"","",9721ST,Groningen
+Van Ketwich Verschuurlaan,80,"","",9721ST,Groningen
+Vestdijklaan,340,"","",9721VZ,Groningen
+Vestdijklaan,342,"","",9721VZ,Groningen
+Vestdijklaan,344,"","",9721VZ,Groningen
+Vestdijklaan,346,"","",9721VZ,Groningen
+Vestdijklaan,348,"","",9721VZ,Groningen
+Vestdijklaan,350,"","",9721VZ,Groningen
+Vestdijklaan,354,"","",9721VZ,Groningen
+Vestdijklaan,366,"","",9721VZ,Groningen
+Vestdijklaan,368,"","",9721VZ,Groningen
+Vestdijklaan,370,"","",9721VZ,Groningen
+Vestdijklaan,372,"","",9721VZ,Groningen
+Vestdijklaan,374,"","",9721VZ,Groningen
+Vestdijklaan,376,"","",9721VZ,Groningen
+Vestdijklaan,380,"","",9721VZ,Groningen
+Felix Timmermanslaan,1,"","",9721WB,Groningen
+Felix Timmermanslaan,10,"","",9721WB,Groningen
+Felix Timmermanslaan,11,"","",9721WB,Groningen
+Felix Timmermanslaan,12,"","",9721WB,Groningen
+Felix Timmermanslaan,13,"","",9721WB,Groningen
+Felix Timmermanslaan,15,"","",9721WB,Groningen
+Felix Timmermanslaan,17,"","",9721WB,Groningen
+Felix Timmermanslaan,18,"","",9721WB,Groningen
+Felix Timmermanslaan,2,"","",9721WB,Groningen
+Felix Timmermanslaan,20,"","",9721WB,Groningen
+Felix Timmermanslaan,3,"","",9721WB,Groningen
+Felix Timmermanslaan,4,"","",9721WB,Groningen
+Felix Timmermanslaan,5,"","",9721WB,Groningen
+Felix Timmermanslaan,6,"","",9721WB,Groningen
+Felix Timmermanslaan,7,"","",9721WB,Groningen
+Felix Timmermanslaan,8,"","",9721WB,Groningen
+Felix Timmermanslaan,9,"","",9721WB,Groningen
+Streuvelslaan,1,"","",9721WG,Groningen
+Streuvelslaan,11,"","",9721WG,Groningen
+Streuvelslaan,13,"","",9721WG,Groningen
+Streuvelslaan,3,"","",9721WG,Groningen
+Streuvelslaan,5,"","",9721WG,Groningen
+Streuvelslaan,7,"","",9721WG,Groningen
+Streuvelslaan,9,"","",9721WG,Groningen
+Streuvelslaan,10,"","",9721WH,Groningen
+Streuvelslaan,2,"","",9721WH,Groningen
+Streuvelslaan,4,"","",9721WH,Groningen
+Streuvelslaan,6,"","",9721WH,Groningen
+Streuvelslaan,8,"","",9721WH,Groningen
+Gezellelaan,1,"","",9721WJ,Groningen
+Gezellelaan,11,"","",9721WJ,Groningen
+Gezellelaan,13,"","",9721WJ,Groningen
+Gezellelaan,15,"","",9721WJ,Groningen
+Gezellelaan,17,"","",9721WJ,Groningen
+Gezellelaan,19,"","",9721WJ,Groningen
+Gezellelaan,19,"","",9721WJ,Groningen
+Gezellelaan,19,"","",9721WJ,Groningen
+Gezellelaan,21,"","",9721WJ,Groningen
+Gezellelaan,23,"","",9721WJ,Groningen
+Gezellelaan,3,"","",9721WJ,Groningen
+Gezellelaan,5,"","",9721WJ,Groningen
+Gezellelaan,7,"","",9721WJ,Groningen
+Gezellelaan,9,"","",9721WJ,Groningen
+Gezellelaan,2,"","",9721WK,Groningen
+Gezellelaan,4,"","",9721WK,Groningen
+Gezellelaan,6,"","",9721WK,Groningen
+Gezellelaan,6,"","",9721WK,Groningen
+Gezellelaan,6,"","",9721WK,Groningen
+Gezellelaan,6,"",AA,9721WK,Groningen
+Van de Woestijnelaan,1,"","",9721WL,Groningen
+Van de Woestijnelaan,2,"","",9721WL,Groningen
+Van de Woestijnelaan,3,"","",9721WL,Groningen
+Van de Woestijnelaan,4,"","",9721WL,Groningen
+Van de Woestijnelaan,6,"","",9721WL,Groningen
+Elsschotlaan,1,"","",9721WN,Groningen
+Elsschotlaan,10,"","",9721WN,Groningen
+Elsschotlaan,12,"","",9721WN,Groningen
+Elsschotlaan,14,"","",9721WN,Groningen
+Elsschotlaan,16,"","",9721WN,Groningen
+Elsschotlaan,18,"","",9721WN,Groningen
+Elsschotlaan,2,"","",9721WN,Groningen
+Elsschotlaan,20,"","",9721WN,Groningen
+Elsschotlaan,22,"","",9721WN,Groningen
+Elsschotlaan,24,"","",9721WN,Groningen
+Elsschotlaan,26,"","",9721WN,Groningen
+Elsschotlaan,28,"","",9721WN,Groningen
+Elsschotlaan,3,"","",9721WN,Groningen
+Elsschotlaan,30,"","",9721WN,Groningen
+Elsschotlaan,32,"","",9721WN,Groningen
+Elsschotlaan,34,"","",9721WN,Groningen
+Elsschotlaan,4,"","",9721WN,Groningen
+Elsschotlaan,4,A,"",9721WN,Groningen
+Elsschotlaan,4,A,"",9721WN,Groningen
+Elsschotlaan,6,"","",9721WN,Groningen
+Elsschotlaan,7,"","",9721WN,Groningen
+Elsschotlaan,8,"","",9721WN,Groningen
+Elsschotlaan,9,"","",9721WN,Groningen
+Vestdijklaan,382,"","",9721ZL,Groningen
+Vestdijklaan,384,"","",9721ZL,Groningen
+Vestdijklaan,386,"","",9721ZL,Groningen
+Vestdijklaan,388,"","",9721ZL,Groningen
+Vestdijklaan,390,"","",9721ZL,Groningen
+Vestdijklaan,392,"","",9721ZL,Groningen
+Vestdijklaan,394,"","",9721ZL,Groningen
+Vestdijklaan,396,"","",9721ZL,Groningen
+Vestdijklaan,398,"","",9721ZL,Groningen
+Vestdijklaan,400,"","",9721ZL,Groningen
+Vestdijklaan,402,"","",9721ZL,Groningen
+Vestdijklaan,404,"","",9721ZL,Groningen
+Vestdijklaan,404,"",AA,9721ZL,Groningen
+Vestdijklaan,404,"",AB,9721ZL,Groningen
+Vestdijklaan,404,"",AC,9721ZL,Groningen
+Vestdijklaan,404,"",AD,9721ZL,Groningen
+Vestdijklaan,404,"",AE,9721ZL,Groningen
+Vestdijklaan,404,"",AF,9721ZL,Groningen
+Vestdijklaan,404,"",AG,9721ZL,Groningen
+Vestdijklaan,404,"",AH,9721ZL,Groningen
+Vestdijklaan,406,"","",9721ZM,Groningen
+Vestdijklaan,408,"","",9721ZM,Groningen
+Vestdijklaan,410,"","",9721ZM,Groningen
+Vestdijklaan,412,"","",9721ZM,Groningen
+Vestdijklaan,414,"","",9721ZM,Groningen
+Vestdijklaan,416,"","",9721ZM,Groningen
+Vestdijklaan,418,"","",9721ZM,Groningen
+Vestdijklaan,420,"","",9721ZM,Groningen
+Vestdijklaan,422,"","",9721ZM,Groningen
+Vestdijklaan,424,"","",9721ZM,Groningen
+Vestdijklaan,426,"","",9721ZM,Groningen
+Vestdijklaan,428,"","",9721ZM,Groningen
+Vestdijklaan,430,"","",9721ZM,Groningen
+Vestdijklaan,432,"","",9721ZM,Groningen
+Vestdijklaan,434,"","",9721ZM,Groningen
+Vestdijklaan,436,"","",9721ZM,Groningen
+Vestdijklaan,438,"","",9721ZM,Groningen
+Vestdijklaan,440,"","",9721ZM,Groningen
+Vestdijklaan,442,"","",9721ZM,Groningen
+Vestdijklaan,444,"","",9721ZM,Groningen
+Vestdijklaan,446,"","",9721ZM,Groningen
+Vestdijklaan,448,"","",9721ZM,Groningen
+Vestdijklaan,450,"","",9721ZM,Groningen
+Vestdijklaan,452,"","",9721ZM,Groningen
+Verlengde Hereweg,144,"","",9722AL,Groningen
+Verlengde Hereweg,146,"","",9722AL,Groningen
+Verlengde Hereweg,148,"","",9722AL,Groningen
+Verlengde Hereweg,150,"","",9722AL,Groningen
+Verlengde Hereweg,152,"","",9722AL,Groningen
+Verlengde Hereweg,154,"","",9722AL,Groningen
+Verlengde Hereweg,156,"","",9722AL,Groningen
+Verlengde Hereweg,158,"","",9722AM,Groningen
+Verlengde Hereweg,158,"","",9722AM,Groningen
+Verlengde Hereweg,158,"","",9722AM,Groningen
+Verlengde Hereweg,160,"","",9722AM,Groningen
+Verlengde Hereweg,174,"","",9722AM,Groningen
+Verlengde Hereweg,176,"","",9722AM,Groningen
+Verlengde Hereweg,178,"","",9722AM,Groningen
+Verlengde Hereweg,182,"","",9722AM,Groningen
+Verlengde Hereweg,184,"","",9722AM,Groningen
+Verlengde Hereweg,186,"","",9722AM,Groningen
+Verlengde Hereweg,188,"","",9722AM,Groningen
+Verlengde Hereweg,192,"","",9722AM,Groningen
+Verlengde Hereweg,196,"","",9722AM,Groningen
+Verlengde Hereweg,198,"","",9722AM,Groningen
+Verlengde Hereweg,200,"","",9722AN,Groningen
+Verlengde Hereweg,202,"","",9722AN,Groningen
+Verlengde Hereweg,204,"","",9722AN,Groningen
+Verlengde Hereweg,206,"","",9722AN,Groningen
+Verlengde Hereweg,208,"","",9722AN,Groningen
+Verlengde Hereweg,210,"","",9722AN,Groningen
+Domela Nieuwenhuislaan,47,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,49,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,51,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,53,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,55,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,57,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,59,"","",9722LJ,Groningen
+Domela Nieuwenhuislaan,10,"","",9722LK,Groningen
+Domela Nieuwenhuislaan,12,"","",9722LK,Groningen
+Domela Nieuwenhuislaan,14,"","",9722LK,Groningen
+Domela Nieuwenhuislaan,16,"","",9722LK,Groningen
+Domela Nieuwenhuislaan,18,"","",9722LK,Groningen
+Domela Nieuwenhuislaan,20,"","",9722LK,Groningen
+Domela Nieuwenhuislaan,8,"","",9722LK,Groningen
+Cort van der Lindenlaan,1,"","",9722LP,Groningen
+Cort van der Lindenlaan,1,A,"",9722LP,Groningen
+Cort van der Lindenlaan,11,"","",9722LP,Groningen
+Cort van der Lindenlaan,3,"","",9722LP,Groningen
+Cort van der Lindenlaan,5,"","",9722LP,Groningen
+Cort van der Lindenlaan,7,"","",9722LP,Groningen
+Cort van der Lindenlaan,9,"","",9722LP,Groningen
+Goeman Borgesiuslaan,1,"","",9722RA,Groningen
+Goeman Borgesiuslaan,11,"","",9722RA,Groningen
+Goeman Borgesiuslaan,13,"","",9722RA,Groningen
+Goeman Borgesiuslaan,15,"","",9722RA,Groningen
+Goeman Borgesiuslaan,3,"","",9722RA,Groningen
+Goeman Borgesiuslaan,5,"","",9722RA,Groningen
+Goeman Borgesiuslaan,7,"","",9722RA,Groningen
+Goeman Borgesiuslaan,9,"","",9722RA,Groningen
+Goeman Borgesiuslaan,17,"","",9722RB,Groningen
+Goeman Borgesiuslaan,19,"","",9722RB,Groningen
+Goeman Borgesiuslaan,21,"","",9722RB,Groningen
+Goeman Borgesiuslaan,23,"","",9722RB,Groningen
+Goeman Borgesiuslaan,25,"","",9722RB,Groningen
+Goeman Borgesiuslaan,27,"","",9722RB,Groningen
+Goeman Borgesiuslaan,29,"","",9722RB,Groningen
+Goeman Borgesiuslaan,31,"","",9722RB,Groningen
+Goeman Borgesiuslaan,33,"","",9722RC,Groningen
+Goeman Borgesiuslaan,35,"","",9722RC,Groningen
+Goeman Borgesiuslaan,37,"","",9722RC,Groningen
+Goeman Borgesiuslaan,39,"","",9722RC,Groningen
+Goeman Borgesiuslaan,41,"","",9722RC,Groningen
+Goeman Borgesiuslaan,43,"","",9722RC,Groningen
+Goeman Borgesiuslaan,45,"","",9722RC,Groningen
+Goeman Borgesiuslaan,47,"","",9722RC,Groningen
+Goeman Borgesiuslaan,49,"","",9722RD,Groningen
+Goeman Borgesiuslaan,51,"","",9722RD,Groningen
+Goeman Borgesiuslaan,53,"","",9722RD,Groningen
+Goeman Borgesiuslaan,55,"","",9722RD,Groningen
+Goeman Borgesiuslaan,57,"","",9722RD,Groningen
+Goeman Borgesiuslaan,59,"","",9722RD,Groningen
+Goeman Borgesiuslaan,61,"","",9722RD,Groningen
+Goeman Borgesiuslaan,63,"","",9722RD,Groningen
+Goeman Borgesiuslaan,65,"","",9722RD,Groningen
+Goeman Borgesiuslaan,67,"","",9722RD,Groningen
+Goeman Borgesiuslaan,69,"","",9722RD,Groningen
+Goeman Borgesiuslaan,71,"","",9722RD,Groningen
+Goeman Borgesiuslaan,73,"","",9722RD,Groningen
+Goeman Borgesiuslaan,75,"","",9722RD,Groningen
+Goeman Borgesiuslaan,77,"","",9722RD,Groningen
+Goeman Borgesiuslaan,79,"","",9722RD,Groningen
+Goeman Borgesiuslaan,81,"","",9722RD,Groningen
+Goeman Borgesiuslaan,83,"","",9722RD,Groningen
+Goeman Borgesiuslaan,85,"","",9722RD,Groningen
+Goeman Borgesiuslaan,87,"","",9722RD,Groningen
+Goeman Borgesiuslaan,101,"","",9722RE,Groningen
+Goeman Borgesiuslaan,103,"","",9722RE,Groningen
+Goeman Borgesiuslaan,105,"","",9722RE,Groningen
+Goeman Borgesiuslaan,107,"","",9722RE,Groningen
+Goeman Borgesiuslaan,109,"","",9722RE,Groningen
+Goeman Borgesiuslaan,111,"","",9722RE,Groningen
+Goeman Borgesiuslaan,113,"","",9722RE,Groningen
+Goeman Borgesiuslaan,115,"","",9722RE,Groningen
+Goeman Borgesiuslaan,117,"","",9722RE,Groningen
+Goeman Borgesiuslaan,119,"","",9722RE,Groningen
+Goeman Borgesiuslaan,121,"","",9722RE,Groningen
+Goeman Borgesiuslaan,123,"","",9722RE,Groningen
+Goeman Borgesiuslaan,125,"","",9722RE,Groningen
+Goeman Borgesiuslaan,127,"","",9722RE,Groningen
+Goeman Borgesiuslaan,89,"","",9722RE,Groningen
+Goeman Borgesiuslaan,91,"","",9722RE,Groningen
+Goeman Borgesiuslaan,93,"","",9722RE,Groningen
+Goeman Borgesiuslaan,95,"","",9722RE,Groningen
+Goeman Borgesiuslaan,97,"","",9722RE,Groningen
+Goeman Borgesiuslaan,99,"","",9722RE,Groningen
+Goeman Borgesiuslaan,129,"","",9722RG,Groningen
+Goeman Borgesiuslaan,131,"","",9722RG,Groningen
+Goeman Borgesiuslaan,145,"","",9722RG,Groningen
+Goeman Borgesiuslaan,147,"","",9722RG,Groningen
+Goeman Borgesiuslaan,151,"","",9722RG,Groningen
+Goeman Borgesiuslaan,153,"","",9722RG,Groningen
+Goeman Borgesiuslaan,155,"","",9722RG,Groningen
+Goeman Borgesiuslaan,157,"","",9722RG,Groningen
+Goeman Borgesiuslaan,159,"","",9722RG,Groningen
+Goeman Borgesiuslaan,161,"","",9722RG,Groningen
+Goeman Borgesiuslaan,161,"",AA,9722RG,Groningen
+Goeman Borgesiuslaan,42,"","",9722RL,Groningen
+Goeman Borgesiuslaan,44,"","",9722RL,Groningen
+Goeman Borgesiuslaan,46,"","",9722RL,Groningen
+Goeman Borgesiuslaan,48,"","",9722RL,Groningen
+Goeman Borgesiuslaan,48,"","",9722RL,Groningen
+Goeman Borgesiuslaan,48,"","",9722RL,Groningen
+Goeman Borgesiuslaan,50,"","",9722RL,Groningen
+Goeman Borgesiuslaan,52,"","",9722RL,Groningen
+Goeman Borgesiuslaan,54,"","",9722RL,Groningen
+Goeman Borgesiuslaan,58,"","",9722RL,Groningen
+Goeman Borgesiuslaan,62,"","",9722RL,Groningen
+Goeman Borgesiuslaan,64,"","",9722RL,Groningen
+Goeman Borgesiuslaan,66,"","",9722RL,Groningen
+Goeman Borgesiuslaan,68,"","",9722RL,Groningen
+Hilghepad,1,"","",9722RN,Groningen
+Hilghepad,3,"","",9722RN,Groningen
+Hilghepad,7,"","",9722RN,Groningen
+Hilghepad,9,"","",9722RN,Groningen
+Hilghepad,9,"",AA,9722RN,Groningen
+Helper Esweg,1,"","",9722RP,Groningen
+Helper Esweg,11,"","",9722RP,Groningen
+Helper Esweg,11,A,"",9722RP,Groningen
+Helper Esweg,13,"","",9722RP,Groningen
+Helper Esweg,15,"","",9722RP,Groningen
+Helper Esweg,17,"","",9722RP,Groningen
+Helper Esweg,19,"","",9722RP,Groningen
+Helper Esweg,21,"","",9722RP,Groningen
+Helper Esweg,23,"","",9722RP,Groningen
+Helper Esweg,25,"","",9722RP,Groningen
+Helper Esweg,3,"","",9722RP,Groningen
+Helper Esweg,5,"","",9722RP,Groningen
+Helper Esweg,7,"","",9722RP,Groningen
+Helper Esweg,9,"","",9722RP,Groningen
+Helper Esweg,9,"","",9722RP,Groningen
+Helper Esweg,9,"",AA,9722RP,Groningen
+Helper Esweg,9,"",AB,9722RP,Groningen
+Helper Esweg,9,"",AC,9722RP,Groningen
+Helper Esweg,9,"",AD,9722RP,Groningen
+Helper Esweg,9,"",AE,9722RP,Groningen
+Helper Esweg,9,"",AF,9722RP,Groningen
+Helper Esweg,9,"",AG,9722RP,Groningen
+Helper Esweg,9,"",AH,9722RP,Groningen
+Helper Esweg,9,"",AK,9722RP,Groningen
+Helper Esweg,9,"",AM,9722RP,Groningen
+Helper Esweg,9,"",AN,9722RP,Groningen
+Helper Esweg,10,"","",9722RR,Groningen
+Helper Esweg,12,"","",9722RR,Groningen
+Helper Esweg,14,"","",9722RR,Groningen
+Helper Esweg,16,"","",9722RR,Groningen
+Helper Esweg,18,"","",9722RR,Groningen
+Helper Esweg,2,"","",9722RR,Groningen
+Helper Esweg,4,"","",9722RR,Groningen
+Helper Esweg,6,"","",9722RR,Groningen
+Helper Esweg,8,"","",9722RR,Groningen
+Quintuslaan,1,"","",9722RS,Groningen
+Quintuslaan,3,"","",9722RS,Groningen
+Quintuslaan,5,"","",9722RS,Groningen
+Quintuslaan,7,"","",9722RS,Groningen
+Quintuslaan,9,"","",9722RS,Groningen
+Quintuslaan,11,"","",9722RT,Groningen
+Quintuslaan,13,"","",9722RT,Groningen
+Quintuslaan,15,"","",9722RT,Groningen
+Quintuslaan,17,"","",9722RT,Groningen
+Quintuslaan,19,"","",9722RT,Groningen
+Quintuslaan,21,"","",9722RT,Groningen
+Quintuslaan,23,"","",9722RT,Groningen
+Quintuslaan,25,"","",9722RT,Groningen
+Quintuslaan,27,"","",9722RT,Groningen
+Quintuslaan,10,"","",9722RV,Groningen
+Quintuslaan,12,"","",9722RV,Groningen
+Quintuslaan,14,"","",9722RV,Groningen
+Quintuslaan,16,"","",9722RV,Groningen
+Quintuslaan,18,"","",9722RV,Groningen
+Quintuslaan,2,"","",9722RV,Groningen
+Quintuslaan,4,"","",9722RV,Groningen
+Quintuslaan,6,"","",9722RV,Groningen
+Quintuslaan,8,"","",9722RV,Groningen
+Espad,3,"","",9722RX,Groningen
+Espad,4,"","",9722RX,Groningen
+Espad,5,"","",9722RX,Groningen
+Hondsruglaan,1,"","",9722SB,Groningen
+Hondsruglaan,11,"","",9722SB,Groningen
+Hondsruglaan,13,"","",9722SB,Groningen
+Hondsruglaan,3,"","",9722SB,Groningen
+Hondsruglaan,5,"","",9722SB,Groningen
+Hondsruglaan,7,"","",9722SB,Groningen
+Hondsruglaan,9,"","",9722SB,Groningen
+Hondsruglaan,15,"","",9722SC,Groningen
+Hondsruglaan,17,"","",9722SC,Groningen
+Hondsruglaan,19,"","",9722SC,Groningen
+Hondsruglaan,21,"","",9722SC,Groningen
+Hondsruglaan,23,"","",9722SC,Groningen
+Hondsruglaan,25,"","",9722SC,Groningen
+Hondsruglaan,27,"","",9722SC,Groningen
+Hondsruglaan,29,"","",9722SC,Groningen
+Hondsruglaan,10,"","",9722SE,Groningen
+Hondsruglaan,12,"","",9722SE,Groningen
+Hondsruglaan,14,"","",9722SE,Groningen
+Hondsruglaan,16,"","",9722SE,Groningen
+Hondsruglaan,18,"","",9722SE,Groningen
+Hondsruglaan,2,"","",9722SE,Groningen
+Hondsruglaan,20,"","",9722SE,Groningen
+Hondsruglaan,30,"","",9722SE,Groningen
+Hondsruglaan,32,"","",9722SE,Groningen
+Hondsruglaan,4,"","",9722SE,Groningen
+Hondsruglaan,6,"","",9722SE,Groningen
+Hondsruglaan,8,"","",9722SE,Groningen
+Kamplaan,1,"","",9722SG,Groningen
+Kamplaan,11,"","",9722SG,Groningen
+Kamplaan,13,"","",9722SG,Groningen
+Kamplaan,15,"","",9722SG,Groningen
+Kamplaan,17,"","",9722SG,Groningen
+Kamplaan,19,"","",9722SG,Groningen
+Kamplaan,21,"","",9722SG,Groningen
+Kamplaan,23,"","",9722SG,Groningen
+Kamplaan,23,"","",9722SG,Groningen
+Kamplaan,23,"","",9722SG,Groningen
+Kamplaan,25,"","",9722SG,Groningen
+Kamplaan,27,"","",9722SG,Groningen
+Kamplaan,29,"","",9722SG,Groningen
+Kamplaan,3,"","",9722SG,Groningen
+Kamplaan,5,"","",9722SG,Groningen
+Kamplaan,7,"","",9722SG,Groningen
+Kamplaan,9,"","",9722SG,Groningen
+Kamplaan,10,"","",9722SH,Groningen
+Kamplaan,12,"","",9722SH,Groningen
+Kamplaan,14,"","",9722SH,Groningen
+Kamplaan,16,"","",9722SH,Groningen
+Kamplaan,2,"","",9722SH,Groningen
+Kamplaan,4,"","",9722SH,Groningen
+Kamplaan,6,"","",9722SH,Groningen
+Kamplaan,8,"","",9722SH,Groningen
+Kamplaan,18,"","",9722SJ,Groningen
+Kamplaan,20,"","",9722SJ,Groningen
+Kamplaan,22,"","",9722SJ,Groningen
+Kamplaan,24,"","",9722SJ,Groningen
+Kamplaan,26,"","",9722SJ,Groningen
+Kamplaan,28,"","",9722SJ,Groningen
+Kamplaan,30,"","",9722SJ,Groningen
+Esserlaan,1,"","",9722SK,Groningen
+Esserlaan,11,"","",9722SK,Groningen
+Esserlaan,13,"","",9722SK,Groningen
+Esserlaan,19,"","",9722SK,Groningen
+Esserlaan,3,"","",9722SK,Groningen
+Esserlaan,5,"","",9722SK,Groningen
+Esserlaan,7,"","",9722SK,Groningen
+Esserlaan,9,"","",9722SK,Groningen
+Esserlaan,10,"","",9722SL,Groningen
+Esserlaan,12,"","",9722SL,Groningen
+Esserlaan,14,"","",9722SL,Groningen
+Esserlaan,2,"","",9722SL,Groningen
+Esserlaan,4,"","",9722SL,Groningen
+Esserlaan,6,"","",9722SL,Groningen
+Esserlaan,8,"","",9722SL,Groningen
+Esserlaan,16,"","",9722SM,Groningen
+Esserlaan,18,"","",9722SM,Groningen
+Esserlaan,20,"","",9722SM,Groningen
+Esserlaan,22,"","",9722SM,Groningen
+Esserlaan,24,"","",9722SM,Groningen
+Esserlaan,26,"","",9722SM,Groningen
+Esserweg,12,"","",9722SN,Groningen
+Esserweg,14,"","",9722SN,Groningen
+Esserweg,16,"","",9722SN,Groningen
+Esserweg,18,"","",9722SN,Groningen
+Esserweg,2,"","",9722SN,Groningen
+Esserweg,20,"","",9722SN,Groningen
+Esserweg,22,"","",9722SN,Groningen
+Esserweg,4,"","",9722SN,Groningen
+Esserweg,4,A,"",9722SN,Groningen
+Esserweg,6,"","",9722SN,Groningen

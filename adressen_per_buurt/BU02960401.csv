@@ -1,54 +1,54 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6617KC,Breekwagen,1,,
-6617KC,Breekwagen,2,,
-6617KC,Breekwagen,5,,
-6617KC,Breekwagen,6,,
-6617KC,Breekwagen,7,,
-6617KC,Breekwagen,9,,
-6617KC,Breekwagen,12,,
-6617KC,Breekwagen,15,,
-6617KC,Breekwagen,18,,
-6617AH,Grotestraat,1,,
-6617AH,Grotestraat,3,,
-6617AH,Grotestraat,5,,
-6617AH,Grotestraat,7,,
-6617AH,Grotestraat,9,,
-6617AH,Grotestraat,11,,
-6617AH,Grotestraat,13,A,
-6617AH,Grotestraat,15,,
-6617AH,Grotestraat,17,,
-6617AH,Grotestraat,19,,
-6617AH,Grotestraat,21,,
-6617AH,Grotestraat,23,,
-6617AH,Grotestraat,25,,
-6617AH,Grotestraat,27,,
-6617AH,Grotestraat,29,,
-6617AH,Grotestraat,33,,
-6617AH,Grotestraat,13,,
-6617KP,Hogeveld,1,,
-6617KP,Hogeveld,3,,
-6617KP,Hogeveld,5,,
-6617KP,Hogeveld,7,,
-6617KP,Hogeveld,11,,
-6617KP,Hogeveld,13,,
-6617KP,Hogeveld,5,A,
-6617KR,Hogeveld,2,,
-6617KR,Hogeveld,8,,
-6617KM,'t Blok,9,,
-6617KL,'t Hufke,12,,
-6617KL,'t Hufke,1,B,
-6617AH,Grotestraat,21,,
-6617KP,Hogeveld,5,,
-6617KP,Hogeveld,5,B,
-6617KM,'t Blok,1,,
-6617KM,'t Blok,3,,
-6617KM,'t Blok,11,,
-6617KM,'t Blok,15,,
-6617KN,'t Blok,4,,
-6617KN,'t Blok,8,,
-6617KN,'t Blok,6,,
-6617KL,'t Hufke,1,,
-6617KL,'t Hufke,1,A,
-6617KL,'t Hufke,3,,
-6617KL,'t Hufke,22,,
-6617KL,'t Hufke,24,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Grotestraat,1,"","",6617AH,Bergharen
+Grotestraat,11,"","",6617AH,Bergharen
+Grotestraat,13,"","",6617AH,Bergharen
+Grotestraat,13,A,"",6617AH,Bergharen
+Grotestraat,15,"","",6617AH,Bergharen
+Grotestraat,17,"","",6617AH,Bergharen
+Grotestraat,19,"","",6617AH,Bergharen
+Grotestraat,21,"","",6617AH,Bergharen
+Grotestraat,21,"","",6617AH,Bergharen
+Grotestraat,23,"","",6617AH,Bergharen
+Grotestraat,25,"","",6617AH,Bergharen
+Grotestraat,27,"","",6617AH,Bergharen
+Grotestraat,29,"","",6617AH,Bergharen
+Grotestraat,3,"","",6617AH,Bergharen
+Grotestraat,33,"","",6617AH,Bergharen
+Grotestraat,5,"","",6617AH,Bergharen
+Grotestraat,7,"","",6617AH,Bergharen
+Grotestraat,9,"","",6617AH,Bergharen
+Breekwagen,1,"","",6617KC,Bergharen
+Breekwagen,12,"","",6617KC,Bergharen
+Breekwagen,15,"","",6617KC,Bergharen
+Breekwagen,18,"","",6617KC,Bergharen
+Breekwagen,2,"","",6617KC,Bergharen
+Breekwagen,5,"","",6617KC,Bergharen
+Breekwagen,6,"","",6617KC,Bergharen
+Breekwagen,7,"","",6617KC,Bergharen
+Breekwagen,9,"","",6617KC,Bergharen
+'t Hufke,1,"","",6617KL,Bergharen
+'t Hufke,1,A,"",6617KL,Bergharen
+'t Hufke,1,B,"",6617KL,Bergharen
+'t Hufke,12,"","",6617KL,Bergharen
+'t Hufke,22,"","",6617KL,Bergharen
+'t Hufke,24,"","",6617KL,Bergharen
+'t Hufke,3,"","",6617KL,Bergharen
+'t Blok,1,"","",6617KM,Bergharen
+'t Blok,11,"","",6617KM,Bergharen
+'t Blok,15,"","",6617KM,Bergharen
+'t Blok,3,"","",6617KM,Bergharen
+'t Blok,9,"","",6617KM,Bergharen
+'t Blok,4,"","",6617KN,Bergharen
+'t Blok,6,"","",6617KN,Bergharen
+'t Blok,8,"","",6617KN,Bergharen
+Hogeveld,1,"","",6617KP,Bergharen
+Hogeveld,11,"","",6617KP,Bergharen
+Hogeveld,13,"","",6617KP,Bergharen
+Hogeveld,3,"","",6617KP,Bergharen
+Hogeveld,5,"","",6617KP,Bergharen
+Hogeveld,5,"","",6617KP,Bergharen
+Hogeveld,5,A,"",6617KP,Bergharen
+Hogeveld,5,B,"",6617KP,Bergharen
+Hogeveld,7,"","",6617KP,Bergharen
+Hogeveld,2,"","",6617KR,Bergharen
+Hogeveld,8,"","",6617KR,Bergharen

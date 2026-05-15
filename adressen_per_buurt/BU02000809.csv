@@ -1,833 +1,422 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7315GP",202,"C",""
-"7315GP",202,"A",""
-"7315GP",212,"",""
-"7315GP",208,"A",""
-"7315GP",210,"",""
-"7315GP",212,"",""
-"7315GP",204,"A",""
-"7315GP",202,"",""
-"7315GP",202,"B",""
-"7315GP",194,"",""
-"7315GP",198,"",""
-"7315GP",204,"",""
-"7315GP",196,"",""
-"7315GP",204,"E",""
-"7315GP",206,"","3"
-"7315GP",204,"B",""
-"7315GP",206,"",""
-"7315GP",206,"","2"
-"7315GP",208,"",""
-"7315GP",192,"",""
-"7315GP",204,"",""
-"7315GP",204,"C",""
-"7315GP",204,"D",""
-"7315GR",226,"",""
-"7315GR",228,"",""
-"7315GR",234,"",""
-"7315GR",230,"",""
-"7315GR",212,"",""
-"7315GR",222,"",""
-"7315GR",232,"",""
-"7315GR",244,"",""
-"7315GR",236,"",""
-"7315GR",216,"",""
-"7315GR",228,"B",""
-"7315GR",246,"",""
-"7315GX",8,"A",""
-"7315GX",12,"",""
-"7315GX",10,"",""
-"7315GX",8,"",""
-"7315GX",5,"",""
-"7315GX",4,"",""
-"7315GX",3,"",""
-"7315GX",6,"",""
-"7315GX",1,"",""
-"7315GX",2,"",""
-"7315GZ",288,"",""
-"7315GZ",288,"",""
-"7315GZ",278,"",""
-"7315GZ",290,"",""
-"7315GZ",278,"A",""
-"7315GZ",288,"",""
-"7315GZ",288,"",""
-"7315GZ",278,"",""
-"7316MA",17,"",""
-"7316MA",29,"",""
-"7316MA",21,"E",""
-"7316MA",35,"B",""
-"7316MA",35,"",""
-"7316MA",21,"H",""
-"7316MA",21,"D",""
-"7316MA",21,"K",""
-"7316MA",9,"",""
-"7316MA",13,"",""
-"7316MA",33,"",""
-"7316MA",21,"B",""
-"7316MA",21,"B",""
-"7316MA",11,"",""
-"7316MA",13,"",""
-"7316MA",31,"",""
-"7316MA",21,"B",""
-"7316MA",13,"",""
-"7316MA",11,"",""
-"7316MA",27,"",""
-"7316MA",21,"C",""
-"7316MA",21,"G",""
-"7316MA",35,"D",""
-"7316MA",35,"A",""
-"7316MA",21,"J",""
-"7316MA",35,"C",""
-"7316MA",15,"",""
-"7316MA",19,"",""
-"7316MA",35,"",""
-"7316MA",25,"",""
-"7316MA",11,"",""
-"7316MA",23,"",""
-"7316MA",21,"A",""
-"7316MA",21,"F",""
-"7316MA",21,"A",""
-"7316MA",21,"A",""
-"7316MB",71,"",""
-"7316MB",37,"",""
-"7316MB",39,"",""
-"7316MB",39,"","2"
-"7316MB",41,"","2"
-"7316MB",41,"",""
-"7316MB",39,"","3"
-"7316MB",43,"",""
-"7316MC",91,"",""
-"7316ML",25,"",""
-"7316ML",21,"",""
-"7316ML",29,"",""
-"7316ML",27,"",""
-"7316ML",23,"",""
-"7316MN",5,"C",""
-"7316MN",5,"B",""
-"7316MN",9,"A",""
-"7316MN",11,"A",""
-"7316MN",24,"",""
-"7316MN",5,"D",""
-"7316MN",7,"C",""
-"7316MN",8,"",""
-"7316MN",7,"B",""
-"7316MN",22,"B",""
-"7316MN",22,"A",""
-"7316MN",5,"A",""
-"7316MN",4,"B",""
-"7316MN",25,"",""
-"7316MN",37,"",""
-"7316MN",17,"",""
-"7316MN",4,"A",""
-"7316MN",16,"",""
-"7316MN",12,"A",""
-"7316MN",29,"",""
-"7316MN",35,"",""
-"7316MN",21,"A",""
-"7316MN",41,"",""
-"7316MN",13,"",""
-"7316MN",7,"A",""
-"7316MN",12,"B",""
-"7316MN",23,"",""
-"7316MN",27,"B",""
-"7316MN",20,"B",""
-"7316MN",27,"A",""
-"7316MN",15,"",""
-"7316MN",9,"D",""
-"7316MN",11,"B",""
-"7316MN",6,"",""
-"7316MN",26,"",""
-"7316MN",21,"B",""
-"7316MN",31,"",""
-"7316MN",30,"",""
-"7316MN",9,"C",""
-"7316MN",9,"B",""
-"7316MN",10,"",""
-"7316MN",14,"",""
-"7316MN",20,"A",""
-"7316MN",18,"",""
-"7316MN",33,"",""
-"7316MN",19,"",""
-"7316MP",35,"",""
-"7316MP",1,"",""
-"7316MP",33,"",""
-"7316MP",1,"",""
-"7316MP",37,"",""
-"7316MR",69,"",""
-"7316MR",63,"B",""
-"7316MR",59,"",""
-"7316MR",45,"",""
-"7316MR",63,"",""
-"7316MR",53,"",""
-"7316MR",49,"",""
-"7316MR",39,"",""
-"7316MR",57,"",""
-"7316MR",63,"C",""
-"7316MR",55,"",""
-"7316MR",57,"","2"
-"7316MR",63,"A",""
-"7316MR",63,"",""
-"7316MT",36,"A",""
-"7316MT",30,"",""
-"7316MT",38,"",""
-"7316MT",40,"",""
-"7316MT",38,"A",""
-"7316MT",52,"",""
-"7316MT",28,"",""
-"7316MT",34,"",""
-"7316MT",42,"",""
-"7316MT",32,"",""
-"7316MT",62,"",""
-"7316MT",54,"",""
-"7316MT",28,"A",""
-"7316MT",50,"",""
-"7316MV",42,"",""
-"7316MV",30,"",""
-"7316MV",34,"",""
-"7316MX",253,"C",""
-"7316MX",245,"",""
-"7316MX",253,"A",""
-"7316MX",251,"",""
-"7316MX",247,"",""
-"7316MX",249,"",""
-"7316MX",253,"B",""
-"7316MX",100,"",""
-"7316MZ",93,"",""
-"7316MZ",48,"",""
-"7316MZ",79,"",""
-"7316MZ",85,"",""
-"7316MZ",102,"",""
-"7316MZ",87,"",""
-"7316MZ",91,"",""
-"7316MZ",71,"",""
-"7316MZ",72,"",""
-"7316MZ",77,"",""
-"7316MZ",73,"",""
-"7316MZ",73,"A",""
-"7316MZ",89,"",""
-"7316MZ",83,"",""
-"7316MZ",6,"",""
-"7316MZ",80,"",""
-"7316MZ",68,"",""
-"7316MZ",97,"",""
-"7316MZ",74,"",""
-"7316MZ",88,"",""
-"7316MZ",82,"",""
-"7316MZ",95,"",""
-"7316MZ",78,"",""
-"7316MZ",103,"",""
-"7316MZ",8,"",""
-"7316MZ",81,"",""
-"7316MZ",96,"",""
-"7316MZ",90,"",""
-"7316MZ",94,"",""
-"7316MZ",54,"",""
-"7316MZ",70,"",""
-"7316MZ",20,"",""
-"7316MZ",46,"",""
-"7316MZ",50,"",""
-"7316MZ",12,"",""
-"7316MZ",75,"",""
-"7316MZ",101,"",""
-"7316MZ",26,"",""
-"7316MZ",66,"",""
-"7316MZ",99,"",""
-"7316MZ",86,"",""
-"7316MZ",100,"",""
-"7316MZ",10,"",""
-"7316MZ",76,"",""
-"7316MZ",22,"",""
-"7316MZ",34,"",""
-"7316MZ",84,"",""
-"7316MZ",30,"",""
-"7316MZ",52,"",""
-"7316MZ",92,"",""
-"7316MZ",28,"",""
-"7316MZ",42,"",""
-"7316MZ",24,"",""
-"7316MZ",44,"",""
-"7316MZ",98,"",""
-"7316MZ",36,"",""
-"7316MZ",14,"",""
-"7316MZ",4,"",""
-"7316MZ",38,"",""
-"7316MZ",18,"",""
-"7316MZ",40,"",""
-"7316MZ",32,"",""
-"7316MZ",16,"",""
-"7316NA",3,"",""
-"7316NA",35,"",""
-"7316NA",15,"",""
-"7316NA",17,"",""
-"7316NA",33,"",""
-"7316NA",5,"",""
-"7316NA",47,"",""
-"7316NA",37,"",""
-"7316NA",43,"",""
-"7316NA",9,"",""
-"7316NA",13,"",""
-"7316NA",41,"",""
-"7316NA",7,"",""
-"7316NA",1,"",""
-"7316NA",45,"",""
-"7316NA",39,"",""
-"7316NA",11,"",""
-"7316NC",103,"",""
-"7316NC",107,"",""
-"7316NC",111,"",""
-"7316NC",105,"",""
-"7316NC",109,"",""
-"7316NC",113,"",""
-"7316NC",101,"",""
-"7316ND",28,"",""
-"7316ND",22,"",""
-"7316ND",8,"",""
-"7316ND",30,"",""
-"7316ND",16,"",""
-"7316ND",24,"",""
-"7316ND",2,"",""
-"7316ND",26,"",""
-"7316ND",20,"",""
-"7316ND",12,"",""
-"7316ND",34,"",""
-"7316ND",32,"",""
-"7316ND",42,"",""
-"7316ND",4,"",""
-"7316ND",40,"",""
-"7316ND",38,"",""
-"7316ND",14,"",""
-"7316ND",6,"",""
-"7316ND",18,"",""
-"7316ND",10,"",""
-"7316ND",36,"",""
-"7316NE",94,"",""
-"7316NE",90,"",""
-"7316NE",74,"",""
-"7316NE",72,"",""
-"7316NE",102,"",""
-"7316NE",60,"",""
-"7316NE",68,"",""
-"7316NE",62,"",""
-"7316NE",100,"",""
-"7316NE",58,"",""
-"7316NE",104,"",""
-"7316NE",64,"",""
-"7316NE",86,"",""
-"7316NE",82,"",""
-"7316NE",54,"",""
-"7316NE",76,"",""
-"7316NE",88,"",""
-"7316NE",96,"",""
-"7316NE",98,"",""
-"7316NE",106,"",""
-"7316NE",56,"",""
-"7316NE",70,"",""
-"7316NE",84,"",""
-"7316NE",80,"",""
-"7316NE",66,"",""
-"7316NE",92,"",""
-"7316NE",78,"",""
-"7316NH",13,"",""
-"7316NH",5,"",""
-"7316NH",15,"",""
-"7316NH",1,"",""
-"7316NH",7,"",""
-"7316NH",3,"",""
-"7316NH",9,"",""
-"7316NH",11,"",""
-"7316NJ",47,"",""
-"7316NJ",37,"",""
-"7316NJ",31,"",""
-"7316NJ",35,"",""
-"7316NJ",11,"",""
-"7316NJ",7,"",""
-"7316NJ",9,"",""
-"7316NJ",19,"",""
-"7316NJ",17,"",""
-"7316NJ",3,"",""
-"7316NJ",33,"",""
-"7316NJ",1,"",""
-"7316NJ",43,"",""
-"7316NJ",49,"",""
-"7316NJ",13,"",""
-"7316NJ",27,"",""
-"7316NJ",41,"",""
-"7316NJ",45,"",""
-"7316NJ",39,"",""
-"7316NJ",15,"",""
-"7316NJ",23,"",""
-"7316NJ",21,"",""
-"7316NJ",5,"",""
-"7316NJ",25,"",""
-"7316NK",40,"",""
-"7316NK",28,"",""
-"7316NK",38,"",""
-"7316NK",34,"",""
-"7316NK",36,"",""
-"7316NK",32,"",""
-"7316NK",26,"",""
-"7316NK",30,"",""
-"7316NL",20,"",""
-"7316NL",12,"",""
-"7316NL",29,"",""
-"7316NL",3,"",""
-"7316NL",9,"",""
-"7316NL",17,"",""
-"7316NL",14,"",""
-"7316NL",23,"",""
-"7316NL",15,"",""
-"7316NL",25,"",""
-"7316NL",1,"",""
-"7316NL",7,"",""
-"7316NL",27,"",""
-"7316NL",22,"",""
-"7316NL",21,"",""
-"7316NL",5,"",""
-"7316NL",18,"",""
-"7316NL",13,"",""
-"7316NL",11,"",""
-"7316NL",16,"",""
-"7316NL",19,"",""
-"7345BG",20,"",""
-"7345BG",4,"",""
-"7345BG",6,"",""
-"7345BG",24,"",""
-"7345BG",18,"",""
-"7345BG",16,"",""
-"7345BG",6,"A",""
-"7345BG",22,"",""
-"7345BG",10,"",""
-"7345BG",14,"",""
-"7345DA",6,"",""
-"7345DA",12,"",""
-"7345DA",17,"",""
-"7345DA",24,"",""
-"7345DA",30,"",""
-"7345DA",11,"",""
-"7345DA",33,"",""
-"7345DA",18,"",""
-"7345DA",3,"",""
-"7345DA",13,"",""
-"7345DA",31,"",""
-"7345DA",30,"",""
-"7345DA",14,"",""
-"7345DA",9,"",""
-"7345DB",16,"",""
-"7345DB",4,"",""
-"7345DB",10,"",""
-"7345DB",24,"",""
-"7345DB",31,"",""
-"7345DB",29,"",""
-"7345DB",18,"",""
-"7345EJ",68,"",""
-7315GX,Anklaarseweg,1,,
-7315GX,Anklaarseweg,3,,
-7315GX,Anklaarseweg,4,,
-7315GX,Anklaarseweg,5,,
-7315GX,Anklaarseweg,6,,
-7315GX,Anklaarseweg,8,,
-7315GX,Anklaarseweg,10,,
-7315GX,Anklaarseweg,12,,
-7316MA,Anklaarseweg,17,,
-7316MA,Anklaarseweg,19,,
-7316MA,Anklaarseweg,23,,
-7316MA,Anklaarseweg,29,,
-7316MA,Anklaarseweg,35,,
-7316MB,Anklaarseweg,37,,
-7316MB,Anklaarseweg,39,,
-7316MB,Anklaarseweg,39,,2
-7316MB,Anklaarseweg,39,,3
-7316MB,Anklaarseweg,41,,
-7316MB,Anklaarseweg,41,,2
-7316MB,Anklaarseweg,43,,
-7316MB,Anklaarseweg,71,,
-7316MC,Anklaarseweg,91,,
-7345DB,De Nieuwekamp,10,,
-7345DB,De Nieuwekamp,16,,
-7345DB,De Nieuwekamp,18,,
-7345DB,De Nieuwekamp,29,,
-7345DB,De Nieuwekamp,31,,
-7316MV,Hoge Brink,34,,
-7316MV,Hoge Brink,42,,
-7316MP,Hogekampweg,1,,
-7316MP,Hogekampweg,33,,
-7316MP,Hogekampweg,35,,
-7316MR,Hogekampweg,45,,
-7316MR,Hogekampweg,49,,
-7316MR,Hogekampweg,53,,
-7316MR,Hogekampweg,55,,
-7316MR,Hogekampweg,57,,
-7316MR,Hogekampweg,57,,2
-7316MR,Hogekampweg,59,,
-7316MR,Hogekampweg,63,,
-7316MR,Hogekampweg,69,,
-7316MT,Hogekampweg,28,,
-7316MT,Hogekampweg,30,,
-7316MT,Hogekampweg,32,,
-7316MT,Hogekampweg,34,,
-7316MT,Hogekampweg,38,,
-7316MT,Hogekampweg,40,,
-7316MT,Hogekampweg,42,,
-7316MT,Hogekampweg,50,,
-7316MT,Hogekampweg,52,,
-7316MT,Hogekampweg,54,,
-7316MT,Hogekampweg,62,,
-7345DA,Hoge Brink,3,,
-7345DA,Hoge Brink,9,,
-7345DA,Hoge Brink,11,,
-7345DA,Hoge Brink,12,,
-7345DA,Hoge Brink,13,,
-7345DA,Hoge Brink,17,,
-7345DA,Hoge Brink,18,,
-7345DA,Hoge Brink,24,,
-7345DA,Hoge Brink,33,,
-7316NA,De Jagershuizen,1,,
-7316NA,De Jagershuizen,3,,
-7316NA,De Jagershuizen,5,,
-7316NA,De Jagershuizen,7,,
-7316NA,De Jagershuizen,9,,
-7316NA,De Jagershuizen,11,,
-7316NA,De Jagershuizen,13,,
-7316NA,De Jagershuizen,15,,
-7316NA,De Jagershuizen,17,,
-7316NA,De Jagershuizen,41,,
-7316NA,De Jagershuizen,43,,
-7316NA,De Jagershuizen,45,,
-7316NA,De Jagershuizen,47,,
-7316NC,De Jagershuizen,101,,
-7316NC,De Jagershuizen,103,,
-7316NC,De Jagershuizen,105,,
-7316NC,De Jagershuizen,107,,
-7316NC,De Jagershuizen,109,,
-7316NC,De Jagershuizen,111,,
-7316NC,De Jagershuizen,113,,
-7316ND,De Jagershuizen,2,,
-7316ND,De Jagershuizen,4,,
-7316ND,De Jagershuizen,6,,
-7316ND,De Jagershuizen,8,,
-7316ND,De Jagershuizen,10,,
-7316ND,De Jagershuizen,12,,
-7316ND,De Jagershuizen,14,,
-7316ND,De Jagershuizen,16,,
-7316ND,De Jagershuizen,18,,
-7316ND,De Jagershuizen,20,,
-7316ND,De Jagershuizen,22,,
-7316ND,De Jagershuizen,24,,
-7316ND,De Jagershuizen,26,,
-7316ND,De Jagershuizen,28,,
-7316ND,De Jagershuizen,30,,
-7316ND,De Jagershuizen,32,,
-7316ND,De Jagershuizen,34,,
-7316ND,De Jagershuizen,36,,
-7316ND,De Jagershuizen,38,,
-7316ND,De Jagershuizen,40,,
-7316ND,De Jagershuizen,42,,
-7316NE,De Jagershuizen,54,,
-7316NE,De Jagershuizen,56,,
-7316NE,De Jagershuizen,58,,
-7316NE,De Jagershuizen,60,,
-7316NE,De Jagershuizen,62,,
-7316NE,De Jagershuizen,64,,
-7316NE,De Jagershuizen,66,,
-7316NE,De Jagershuizen,68,,
-7316NE,De Jagershuizen,70,,
-7316NE,De Jagershuizen,72,,
-7316NE,De Jagershuizen,74,,
-7316NE,De Jagershuizen,76,,
-7316NE,De Jagershuizen,78,,
-7316NE,De Jagershuizen,80,,
-7316NE,De Jagershuizen,82,,
-7316NE,De Jagershuizen,84,,
-7316NE,De Jagershuizen,86,,
-7316NE,De Jagershuizen,88,,
-7316NE,De Jagershuizen,90,,
-7316NE,De Jagershuizen,92,,
-7316NE,De Jagershuizen,94,,
-7316NE,De Jagershuizen,96,,
-7316NE,De Jagershuizen,98,,
-7316NE,De Jagershuizen,100,,
-7316NE,De Jagershuizen,102,,
-7316NE,De Jagershuizen,104,,
-7316NE,De Jagershuizen,106,,
-7316MX,Kleine Fluitersweg,100,,
-7316MN,Kostverloren,4,A,
-7316MN,Kostverloren,4,B,
-7316MN,Kostverloren,5,A,
-7316MN,Kostverloren,5,B,
-7316MN,Kostverloren,5,C,
-7316MN,Kostverloren,5,D,
-7316MN,Kostverloren,6,,
-7316MN,Kostverloren,7,A,
-7316MN,Kostverloren,7,B,
-7316MN,Kostverloren,7,C,
-7316MN,Kostverloren,8,,
-7316MN,Kostverloren,9,A,
-7316MN,Kostverloren,9,B,
-7316MN,Kostverloren,9,C,
-7316MN,Kostverloren,9,D,
-7316MN,Kostverloren,10,,
-7316MN,Kostverloren,11,A,
-7316MN,Kostverloren,11,B,
-7316MN,Kostverloren,13,,
-7316MN,Kostverloren,14,,
-7316MN,Kostverloren,15,,
-7316MN,Kostverloren,16,,
-7316MN,Kostverloren,17,,
-7316MN,Kostverloren,18,,
-7316MN,Kostverloren,19,,
-7316MN,Kostverloren,20,A,
-7316MN,Kostverloren,20,B,
-7316MN,Kostverloren,22,A,
-7316MN,Kostverloren,22,B,
-7316MN,Kostverloren,23,,
-7316MN,Kostverloren,24,,
-7316MN,Kostverloren,26,,
-7316MN,Kostverloren,27,A,
-7316MN,Kostverloren,27,B,
-7316MN,Kostverloren,29,,
-7316MN,Kostverloren,30,,
-7316MN,Kostverloren,31,,
-7316MN,Kostverloren,33,,
-7316MN,Kostverloren,35,,
-7316MN,Kostverloren,37,,
-7316MN,Kostverloren,41,,
-7345BG,Oude Zwolseweg,4,,
-7345BG,Oude Zwolseweg,6,,
-7345BG,Oude Zwolseweg,6,A,
-7345BG,Oude Zwolseweg,10,,
-7345BG,Oude Zwolseweg,14,,
-7345BG,Oude Zwolseweg,16,,
-7345BG,Oude Zwolseweg,18,,
-7345BG,Oude Zwolseweg,20,,
-7345BG,Oude Zwolseweg,22,,
-7345BG,Oude Zwolseweg,24,,
-7316ML,Termaaden,21,,
-7316ML,Termaaden,23,,
-7316ML,Termaaden,25,,
-7316ML,Termaaden,27,,
-7316ML,Termaaden,29,,
-7316MZ,Termaaden,4,,
-7316MZ,Termaaden,6,,
-7316MZ,Termaaden,8,,
-7316MZ,Termaaden,10,,
-7316MZ,Termaaden,12,,
-7316MZ,Termaaden,14,,
-7316MZ,Termaaden,16,,
-7316MZ,Termaaden,18,,
-7316MZ,Termaaden,20,,
-7316MZ,Termaaden,22,,
-7316MZ,Termaaden,24,,
-7316MZ,Termaaden,26,,
-7316MZ,Termaaden,28,,
-7316MZ,Termaaden,30,,
-7316MZ,Termaaden,32,,
-7316MZ,Termaaden,34,,
-7316MZ,Termaaden,36,,
-7316MZ,Termaaden,38,,
-7316MZ,Termaaden,40,,
-7316MZ,Termaaden,42,,
-7316MZ,Termaaden,44,,
-7316MZ,Termaaden,46,,
-7316MZ,Termaaden,48,,
-7316MZ,Termaaden,50,,
-7316MZ,Termaaden,52,,
-7316MZ,Termaaden,54,,
-7316MZ,Termaaden,66,,
-7316MZ,Termaaden,68,,
-7316MZ,Termaaden,70,,
-7316MZ,Termaaden,71,,
-7316MZ,Termaaden,72,,
-7316MZ,Termaaden,73,,
-7316MZ,Termaaden,74,,
-7316MZ,Termaaden,75,,
-7316MZ,Termaaden,76,,
-7316MZ,Termaaden,77,,
-7316MZ,Termaaden,78,,
-7316MZ,Termaaden,79,,
-7316MZ,Termaaden,80,,
-7316MZ,Termaaden,81,,
-7316MZ,Termaaden,82,,
-7316MZ,Termaaden,83,,
-7316MZ,Termaaden,84,,
-7316MZ,Termaaden,85,,
-7316MZ,Termaaden,86,,
-7316MZ,Termaaden,87,,
-7316MZ,Termaaden,88,,
-7316MZ,Termaaden,89,,
-7316MZ,Termaaden,90,,
-7316MZ,Termaaden,91,,
-7316MZ,Termaaden,92,,
-7316MZ,Termaaden,93,,
-7316MZ,Termaaden,94,,
-7316MZ,Termaaden,95,,
-7316MZ,Termaaden,96,,
-7316MZ,Termaaden,97,,
-7316MZ,Termaaden,98,,
-7316MZ,Termaaden,99,,
-7316MZ,Termaaden,100,,
-7316MZ,Termaaden,101,,
-7316MZ,Termaaden,102,,
-7316MZ,Termaaden,103,,
-7316MA,Anklaarseweg,25,,
-7316MA,Anklaarseweg,27,,
-7316MA,Anklaarseweg,31,,
-7316MA,Anklaarseweg,33,,
-7316MP,Hogekampweg,37,,
-7316MR,Hogekampweg,39,,
-7316MT,Hogekampweg,36,A,
-7316MX,Kleine Fluitersweg,251,,
-7316MX,Kleine Fluitersweg,249,,
-7316MX,Kleine Fluitersweg,245,,
-7316MX,Kleine Fluitersweg,247,,
-7316NJ,Van Haeftenpark,49,,
-7316NJ,Van Haeftenpark,47,,
-7316NJ,Van Haeftenpark,45,,
-7316NJ,Van Haeftenpark,43,,
-7316NJ,Van Haeftenpark,41,,
-7316NJ,Van Haeftenpark,39,,
-7316NJ,Van Haeftenpark,37,,
-7316NJ,Van Haeftenpark,35,,
-7316NJ,Van Haeftenpark,33,,
-7316NJ,Van Haeftenpark,31,,
-7315GP,Zwolseweg,192,,
-7315GP,Zwolseweg,194,,
-7315GP,Zwolseweg,196,,
-7315GP,Zwolseweg,198,,
-7315GP,Zwolseweg,202,,
-7315GP,Zwolseweg,204,,
-7315GP,Zwolseweg,206,,
-7315GP,Zwolseweg,206,,2
-7315GP,Zwolseweg,206,,3
-7315GP,Zwolseweg,208,,
-7315GP,Zwolseweg,212,,
-7315GR,Zwolseweg,212,,
-7315GR,Zwolseweg,216,,
-7315GR,Zwolseweg,222,,
-7315GR,Zwolseweg,226,,
-7315GR,Zwolseweg,228,,
-7315GR,Zwolseweg,236,,
-7315GR,Zwolseweg,244,,
-7315GR,Zwolseweg,246,,
-7315GZ,Zwolseweg,278,,
-7315GZ,Zwolseweg,288,,
-7315GZ,Zwolseweg,290,,
-7315GX,Anklaarseweg,2,,
-7316MA,Anklaarseweg,9,,
-7316MA,Anklaarseweg,11,,
-7316MA,Anklaarseweg,13,,
-7316MA,Anklaarseweg,15,,
-7316NL,Erewacht,1,,
-7316NL,Erewacht,3,,
-7316NL,Erewacht,5,,
-7316NL,Erewacht,7,,
-7316NL,Erewacht,9,,
-7316NL,Erewacht,11,,
-7316NL,Erewacht,13,,
-7316NL,Erewacht,15,,
-7316NL,Erewacht,17,,
-7316NL,Erewacht,19,,
-7316NL,Erewacht,21,,
-7316NL,Erewacht,23,,
-7316NL,Erewacht,25,,
-7316NL,Erewacht,27,,
-7316NL,Erewacht,29,,
-7316NL,Erewacht,12,,
-7316NL,Erewacht,14,,
-7316NL,Erewacht,16,,
-7316NL,Erewacht,18,,
-7316NL,Erewacht,20,,
-7316NL,Erewacht,22,,
-7316NA,De Jagershuizen,33,,
-7316NA,De Jagershuizen,35,,
-7316NA,De Jagershuizen,37,,
-7316NA,De Jagershuizen,39,,
-7316MX,Kleine Fluitersweg,253,A,
-7316MX,Kleine Fluitersweg,253,B,
-7316MX,Kleine Fluitersweg,253,C,
-7316NH,Klein Oosterwijk,1,,
-7316NH,Klein Oosterwijk,3,,
-7316NH,Klein Oosterwijk,5,,
-7316NH,Klein Oosterwijk,7,,
-7316NH,Klein Oosterwijk,9,,
-7316NH,Klein Oosterwijk,11,,
-7316NH,Klein Oosterwijk,13,,
-7316NH,Klein Oosterwijk,15,,
-7316MN,Kostverloren,12,A,
-7316MN,Kostverloren,12,B,
-7316NJ,Van Haeftenpark,1,,
-7316NJ,Van Haeftenpark,3,,
-7316NJ,Van Haeftenpark,5,,
-7316NJ,Van Haeftenpark,7,,
-7316NJ,Van Haeftenpark,9,,
-7316NJ,Van Haeftenpark,11,,
-7316NJ,Van Haeftenpark,13,,
-7316NJ,Van Haeftenpark,15,,
-7316NJ,Van Haeftenpark,17,,
-7316NJ,Van Haeftenpark,19,,
-7316NJ,Van Haeftenpark,21,,
-7316NJ,Van Haeftenpark,23,,
-7316NJ,Van Haeftenpark,25,,
-7316NJ,Van Haeftenpark,27,,
-7316NK,Van Haeftenpark,26,,
-7316NK,Van Haeftenpark,28,,
-7316NK,Van Haeftenpark,30,,
-7316NK,Van Haeftenpark,32,,
-7316NK,Van Haeftenpark,34,,
-7316NK,Van Haeftenpark,36,,
-7316NK,Van Haeftenpark,38,,
-7316NK,Van Haeftenpark,40,,
-7315GR,Zwolseweg,230,,
-7315GR,Zwolseweg,232,,
-7315GR,Zwolseweg,234,,
-7316MV,Hoge Brink,30,,
-7345DA,Hoge Brink,6,,
-7345DA,Hoge Brink,30,,
-7345DA,Hoge Brink,14,,
-7315GX,Anklaarseweg,8,A,
-7345DB,De Nieuwekamp,4,,
-7345DB,De Nieuwekamp,24,,
-7316MZ,Termaaden,73,A,
-7345DA,Hoge Brink,31,,
-7345EJ,Hogekampweg,68,,
-7316MA,Anklaarseweg,13,,
-7316MA,Anklaarseweg,11,,
-7316MN,Kostverloren,21,A,
-7316MN,Kostverloren,21,B,
-7316MN,Kostverloren,25,,
-7315GR,Zwolseweg,228,B,
-7315GZ,Zwolseweg,288,,
-7315GZ,Zwolseweg,288,,
-7316MA,Anklaarseweg,21,A,
-7316MA,Anklaarseweg,21,B,
-7316MA,Anklaarseweg,35,A,
-7316MA,Anklaarseweg,35,B,
-7316MA,Anklaarseweg,35,C,
-7316MA,Anklaarseweg,35,D,
-7316MA,Anklaarseweg,21,A,
-7316MA,Anklaarseweg,21,B,
-7316MA,Anklaarseweg,21,C,
-7316MA,Anklaarseweg,21,D,
-7316MA,Anklaarseweg,21,E,
-7316MA,Anklaarseweg,21,G,
-7316MA,Anklaarseweg,21,F,
-7316MA,Anklaarseweg,21,J,
-7316MA,Anklaarseweg,21,H,
-7316MA,Anklaarseweg,21,K,
-7316MR,Hogekampweg,63,B,
-7316MR,Hogekampweg,63,A,
-7315GP,Zwolseweg,208,A,
-7315GP,Zwolseweg,210,,
-7316MR,Hogekampweg,63,C,
-7316MT,Hogekampweg,28,A,
-7316MT,Hogekampweg,38,A,
-7315GP,Zwolseweg,202,A,
-7315GP,Zwolseweg,202,B,
-7315GP,Zwolseweg,202,C,
-7315GP,Zwolseweg,204,A,
-7315GP,Zwolseweg,204,B,
-7315GP,Zwolseweg,204,C,
-7315GP,Zwolseweg,204,D,
-7315GP,Zwolseweg,204,E,
-7315GZ,Zwolseweg,278,,
-7315GZ,Zwolseweg,278,A,
-7316MX,Kleine Fluitersweg,100,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zwolseweg,192,"","",7315GP,Apeldoorn
+Zwolseweg,194,"","",7315GP,Apeldoorn
+Zwolseweg,196,"","",7315GP,Apeldoorn
+Zwolseweg,198,"","",7315GP,Apeldoorn
+Zwolseweg,202,"","",7315GP,Apeldoorn
+Zwolseweg,202,A,"",7315GP,Apeldoorn
+Zwolseweg,202,B,"",7315GP,Apeldoorn
+Zwolseweg,202,C,"",7315GP,Apeldoorn
+Zwolseweg,204,"","",7315GP,Apeldoorn
+Zwolseweg,204,"","",7315GP,Apeldoorn
+Zwolseweg,204,A,"",7315GP,Apeldoorn
+Zwolseweg,204,B,"",7315GP,Apeldoorn
+Zwolseweg,204,C,"",7315GP,Apeldoorn
+Zwolseweg,204,D,"",7315GP,Apeldoorn
+Zwolseweg,204,E,"",7315GP,Apeldoorn
+Zwolseweg,206,"","",7315GP,Apeldoorn
+Zwolseweg,206,"",2,7315GP,Apeldoorn
+Zwolseweg,206,"",3,7315GP,Apeldoorn
+Zwolseweg,208,"","",7315GP,Apeldoorn
+Zwolseweg,208,A,"",7315GP,Apeldoorn
+Zwolseweg,210,"","",7315GP,Apeldoorn
+Zwolseweg,212,"","",7315GP,Apeldoorn
+Zwolseweg,212,"","",7315GP,Apeldoorn
+Zwolseweg,212,"","",7315GR,Apeldoorn
+Zwolseweg,216,"","",7315GR,Apeldoorn
+Zwolseweg,222,"","",7315GR,Apeldoorn
+Zwolseweg,226,"","",7315GR,Apeldoorn
+Zwolseweg,228,"","",7315GR,Apeldoorn
+Zwolseweg,228,B,"",7315GR,Apeldoorn
+Zwolseweg,230,"","",7315GR,Apeldoorn
+Zwolseweg,232,"","",7315GR,Apeldoorn
+Zwolseweg,234,"","",7315GR,Apeldoorn
+Zwolseweg,236,"","",7315GR,Apeldoorn
+Zwolseweg,244,"","",7315GR,Apeldoorn
+Zwolseweg,246,"","",7315GR,Apeldoorn
+Anklaarseweg,1,"","",7315GX,Apeldoorn
+Anklaarseweg,10,"","",7315GX,Apeldoorn
+Anklaarseweg,12,"","",7315GX,Apeldoorn
+Anklaarseweg,2,"","",7315GX,Apeldoorn
+Anklaarseweg,3,"","",7315GX,Apeldoorn
+Anklaarseweg,4,"","",7315GX,Apeldoorn
+Anklaarseweg,5,"","",7315GX,Apeldoorn
+Anklaarseweg,6,"","",7315GX,Apeldoorn
+Anklaarseweg,8,"","",7315GX,Apeldoorn
+Anklaarseweg,8,A,"",7315GX,Apeldoorn
+Zwolseweg,278,"","",7315GZ,Apeldoorn
+Zwolseweg,278,"","",7315GZ,Apeldoorn
+Zwolseweg,278,A,"",7315GZ,Apeldoorn
+Zwolseweg,288,"","",7315GZ,Apeldoorn
+Zwolseweg,288,"","",7315GZ,Apeldoorn
+Zwolseweg,288,"","",7315GZ,Apeldoorn
+Zwolseweg,288,"","",7315GZ,Apeldoorn
+Zwolseweg,290,"","",7315GZ,Apeldoorn
+Anklaarseweg,11,"","",7316MA,Apeldoorn
+Anklaarseweg,11,"","",7316MA,Apeldoorn
+Anklaarseweg,11,"","",7316MA,Apeldoorn
+Anklaarseweg,13,"","",7316MA,Apeldoorn
+Anklaarseweg,13,"","",7316MA,Apeldoorn
+Anklaarseweg,13,"","",7316MA,Apeldoorn
+Anklaarseweg,15,"","",7316MA,Apeldoorn
+Anklaarseweg,17,"","",7316MA,Apeldoorn
+Anklaarseweg,19,"","",7316MA,Apeldoorn
+Anklaarseweg,21,A,"",7316MA,Apeldoorn
+Anklaarseweg,21,A,"",7316MA,Apeldoorn
+Anklaarseweg,21,A,"",7316MA,Apeldoorn
+Anklaarseweg,21,B,"",7316MA,Apeldoorn
+Anklaarseweg,21,B,"",7316MA,Apeldoorn
+Anklaarseweg,21,B,"",7316MA,Apeldoorn
+Anklaarseweg,21,C,"",7316MA,Apeldoorn
+Anklaarseweg,21,D,"",7316MA,Apeldoorn
+Anklaarseweg,21,E,"",7316MA,Apeldoorn
+Anklaarseweg,21,F,"",7316MA,Apeldoorn
+Anklaarseweg,21,G,"",7316MA,Apeldoorn
+Anklaarseweg,21,H,"",7316MA,Apeldoorn
+Anklaarseweg,21,J,"",7316MA,Apeldoorn
+Anklaarseweg,21,K,"",7316MA,Apeldoorn
+Anklaarseweg,23,"","",7316MA,Apeldoorn
+Anklaarseweg,25,"","",7316MA,Apeldoorn
+Anklaarseweg,27,"","",7316MA,Apeldoorn
+Anklaarseweg,29,"","",7316MA,Apeldoorn
+Anklaarseweg,31,"","",7316MA,Apeldoorn
+Anklaarseweg,33,"","",7316MA,Apeldoorn
+Anklaarseweg,35,"","",7316MA,Apeldoorn
+Anklaarseweg,35,"","",7316MA,Apeldoorn
+Anklaarseweg,35,A,"",7316MA,Apeldoorn
+Anklaarseweg,35,B,"",7316MA,Apeldoorn
+Anklaarseweg,35,C,"",7316MA,Apeldoorn
+Anklaarseweg,35,D,"",7316MA,Apeldoorn
+Anklaarseweg,9,"","",7316MA,Apeldoorn
+Anklaarseweg,37,"","",7316MB,Apeldoorn
+Anklaarseweg,39,"","",7316MB,Apeldoorn
+Anklaarseweg,39,"",2,7316MB,Apeldoorn
+Anklaarseweg,39,"",3,7316MB,Apeldoorn
+Anklaarseweg,41,"","",7316MB,Apeldoorn
+Anklaarseweg,41,"",2,7316MB,Apeldoorn
+Anklaarseweg,43,"","",7316MB,Apeldoorn
+Anklaarseweg,71,"","",7316MB,Apeldoorn
+Anklaarseweg,91,"","",7316MC,Apeldoorn
+Termaaden,21,"","",7316ML,Apeldoorn
+Termaaden,23,"","",7316ML,Apeldoorn
+Termaaden,25,"","",7316ML,Apeldoorn
+Termaaden,27,"","",7316ML,Apeldoorn
+Termaaden,29,"","",7316ML,Apeldoorn
+Kostverloren,10,"","",7316MN,Apeldoorn
+Kostverloren,11,A,"",7316MN,Apeldoorn
+Kostverloren,11,B,"",7316MN,Apeldoorn
+Kostverloren,12,A,"",7316MN,Apeldoorn
+Kostverloren,12,B,"",7316MN,Apeldoorn
+Kostverloren,13,"","",7316MN,Apeldoorn
+Kostverloren,14,"","",7316MN,Apeldoorn
+Kostverloren,15,"","",7316MN,Apeldoorn
+Kostverloren,16,"","",7316MN,Apeldoorn
+Kostverloren,17,"","",7316MN,Apeldoorn
+Kostverloren,18,"","",7316MN,Apeldoorn
+Kostverloren,19,"","",7316MN,Apeldoorn
+Kostverloren,20,A,"",7316MN,Apeldoorn
+Kostverloren,20,B,"",7316MN,Apeldoorn
+Kostverloren,21,A,"",7316MN,Apeldoorn
+Kostverloren,21,B,"",7316MN,Apeldoorn
+Kostverloren,22,A,"",7316MN,Apeldoorn
+Kostverloren,22,B,"",7316MN,Apeldoorn
+Kostverloren,23,"","",7316MN,Apeldoorn
+Kostverloren,24,"","",7316MN,Apeldoorn
+Kostverloren,25,"","",7316MN,Apeldoorn
+Kostverloren,26,"","",7316MN,Apeldoorn
+Kostverloren,27,A,"",7316MN,Apeldoorn
+Kostverloren,27,B,"",7316MN,Apeldoorn
+Kostverloren,29,"","",7316MN,Apeldoorn
+Kostverloren,30,"","",7316MN,Apeldoorn
+Kostverloren,31,"","",7316MN,Apeldoorn
+Kostverloren,33,"","",7316MN,Apeldoorn
+Kostverloren,35,"","",7316MN,Apeldoorn
+Kostverloren,37,"","",7316MN,Apeldoorn
+Kostverloren,4,A,"",7316MN,Apeldoorn
+Kostverloren,4,B,"",7316MN,Apeldoorn
+Kostverloren,41,"","",7316MN,Apeldoorn
+Kostverloren,5,A,"",7316MN,Apeldoorn
+Kostverloren,5,B,"",7316MN,Apeldoorn
+Kostverloren,5,C,"",7316MN,Apeldoorn
+Kostverloren,5,D,"",7316MN,Apeldoorn
+Kostverloren,6,"","",7316MN,Apeldoorn
+Kostverloren,7,A,"",7316MN,Apeldoorn
+Kostverloren,7,B,"",7316MN,Apeldoorn
+Kostverloren,7,C,"",7316MN,Apeldoorn
+Kostverloren,8,"","",7316MN,Apeldoorn
+Kostverloren,9,A,"",7316MN,Apeldoorn
+Kostverloren,9,B,"",7316MN,Apeldoorn
+Kostverloren,9,C,"",7316MN,Apeldoorn
+Kostverloren,9,D,"",7316MN,Apeldoorn
+Hogekampweg,1,"","",7316MP,Apeldoorn
+Hogekampweg,1,"","",7316MP,Apeldoorn
+Hogekampweg,33,"","",7316MP,Apeldoorn
+Hogekampweg,35,"","",7316MP,Apeldoorn
+Hogekampweg,37,"","",7316MP,Apeldoorn
+Hogekampweg,39,"","",7316MR,Apeldoorn
+Hogekampweg,45,"","",7316MR,Apeldoorn
+Hogekampweg,49,"","",7316MR,Apeldoorn
+Hogekampweg,53,"","",7316MR,Apeldoorn
+Hogekampweg,55,"","",7316MR,Apeldoorn
+Hogekampweg,57,"","",7316MR,Apeldoorn
+Hogekampweg,57,"",2,7316MR,Apeldoorn
+Hogekampweg,59,"","",7316MR,Apeldoorn
+Hogekampweg,63,"","",7316MR,Apeldoorn
+Hogekampweg,63,"","",7316MR,Apeldoorn
+Hogekampweg,63,A,"",7316MR,Apeldoorn
+Hogekampweg,63,B,"",7316MR,Apeldoorn
+Hogekampweg,63,C,"",7316MR,Apeldoorn
+Hogekampweg,69,"","",7316MR,Apeldoorn
+Hogekampweg,28,"","",7316MT,Apeldoorn
+Hogekampweg,28,A,"",7316MT,Apeldoorn
+Hogekampweg,30,"","",7316MT,Apeldoorn
+Hogekampweg,32,"","",7316MT,Apeldoorn
+Hogekampweg,34,"","",7316MT,Apeldoorn
+Hogekampweg,36,A,"",7316MT,Apeldoorn
+Hogekampweg,38,"","",7316MT,Apeldoorn
+Hogekampweg,38,A,"",7316MT,Apeldoorn
+Hogekampweg,40,"","",7316MT,Apeldoorn
+Hogekampweg,42,"","",7316MT,Apeldoorn
+Hogekampweg,50,"","",7316MT,Apeldoorn
+Hogekampweg,52,"","",7316MT,Apeldoorn
+Hogekampweg,54,"","",7316MT,Apeldoorn
+Hogekampweg,62,"","",7316MT,Apeldoorn
+Hoge Brink,30,"","",7316MV,Wenum Wiesel
+Hoge Brink,34,"","",7316MV,Apeldoorn
+Hoge Brink,42,"","",7316MV,Apeldoorn
+Kleine Fluitersweg,100,"","",7316MX,Apeldoorn
+Kleine Fluitersweg,245,"","",7316MX,Apeldoorn
+Kleine Fluitersweg,247,"","",7316MX,Apeldoorn
+Kleine Fluitersweg,249,"","",7316MX,Apeldoorn
+Kleine Fluitersweg,251,"","",7316MX,Apeldoorn
+Kleine Fluitersweg,253,A,"",7316MX,Apeldoorn
+Kleine Fluitersweg,253,B,"",7316MX,Apeldoorn
+Kleine Fluitersweg,253,C,"",7316MX,Apeldoorn
+Termaaden,10,"","",7316MZ,Apeldoorn
+Termaaden,100,"","",7316MZ,Apeldoorn
+Termaaden,101,"","",7316MZ,Apeldoorn
+Termaaden,102,"","",7316MZ,Apeldoorn
+Termaaden,103,"","",7316MZ,Apeldoorn
+Termaaden,12,"","",7316MZ,Apeldoorn
+Termaaden,14,"","",7316MZ,Apeldoorn
+Termaaden,16,"","",7316MZ,Apeldoorn
+Termaaden,18,"","",7316MZ,Apeldoorn
+Termaaden,20,"","",7316MZ,Apeldoorn
+Termaaden,22,"","",7316MZ,Apeldoorn
+Termaaden,24,"","",7316MZ,Apeldoorn
+Termaaden,26,"","",7316MZ,Apeldoorn
+Termaaden,28,"","",7316MZ,Apeldoorn
+Termaaden,30,"","",7316MZ,Apeldoorn
+Termaaden,32,"","",7316MZ,Apeldoorn
+Termaaden,34,"","",7316MZ,Apeldoorn
+Termaaden,36,"","",7316MZ,Apeldoorn
+Termaaden,38,"","",7316MZ,Apeldoorn
+Termaaden,4,"","",7316MZ,Apeldoorn
+Termaaden,40,"","",7316MZ,Apeldoorn
+Termaaden,42,"","",7316MZ,Apeldoorn
+Termaaden,44,"","",7316MZ,Apeldoorn
+Termaaden,46,"","",7316MZ,Apeldoorn
+Termaaden,48,"","",7316MZ,Apeldoorn
+Termaaden,50,"","",7316MZ,Apeldoorn
+Termaaden,52,"","",7316MZ,Apeldoorn
+Termaaden,54,"","",7316MZ,Apeldoorn
+Termaaden,6,"","",7316MZ,Apeldoorn
+Termaaden,66,"","",7316MZ,Apeldoorn
+Termaaden,68,"","",7316MZ,Apeldoorn
+Termaaden,70,"","",7316MZ,Apeldoorn
+Termaaden,71,"","",7316MZ,Apeldoorn
+Termaaden,72,"","",7316MZ,Apeldoorn
+Termaaden,73,"","",7316MZ,Apeldoorn
+Termaaden,73,A,"",7316MZ,Apeldoorn
+Termaaden,74,"","",7316MZ,Apeldoorn
+Termaaden,75,"","",7316MZ,Apeldoorn
+Termaaden,76,"","",7316MZ,Apeldoorn
+Termaaden,77,"","",7316MZ,Apeldoorn
+Termaaden,78,"","",7316MZ,Apeldoorn
+Termaaden,79,"","",7316MZ,Apeldoorn
+Termaaden,8,"","",7316MZ,Apeldoorn
+Termaaden,80,"","",7316MZ,Apeldoorn
+Termaaden,81,"","",7316MZ,Apeldoorn
+Termaaden,82,"","",7316MZ,Apeldoorn
+Termaaden,83,"","",7316MZ,Apeldoorn
+Termaaden,84,"","",7316MZ,Apeldoorn
+Termaaden,85,"","",7316MZ,Apeldoorn
+Termaaden,86,"","",7316MZ,Apeldoorn
+Termaaden,87,"","",7316MZ,Apeldoorn
+Termaaden,88,"","",7316MZ,Apeldoorn
+Termaaden,89,"","",7316MZ,Apeldoorn
+Termaaden,90,"","",7316MZ,Apeldoorn
+Termaaden,91,"","",7316MZ,Apeldoorn
+Termaaden,92,"","",7316MZ,Apeldoorn
+Termaaden,93,"","",7316MZ,Apeldoorn
+Termaaden,94,"","",7316MZ,Apeldoorn
+Termaaden,95,"","",7316MZ,Apeldoorn
+Termaaden,96,"","",7316MZ,Apeldoorn
+Termaaden,97,"","",7316MZ,Apeldoorn
+Termaaden,98,"","",7316MZ,Apeldoorn
+Termaaden,99,"","",7316MZ,Apeldoorn
+De Jagershuizen,1,"","",7316NA,Apeldoorn
+De Jagershuizen,11,"","",7316NA,Apeldoorn
+De Jagershuizen,13,"","",7316NA,Apeldoorn
+De Jagershuizen,15,"","",7316NA,Apeldoorn
+De Jagershuizen,17,"","",7316NA,Apeldoorn
+De Jagershuizen,3,"","",7316NA,Apeldoorn
+De Jagershuizen,33,"","",7316NA,Apeldoorn
+De Jagershuizen,35,"","",7316NA,Apeldoorn
+De Jagershuizen,37,"","",7316NA,Apeldoorn
+De Jagershuizen,39,"","",7316NA,Apeldoorn
+De Jagershuizen,41,"","",7316NA,Apeldoorn
+De Jagershuizen,43,"","",7316NA,Apeldoorn
+De Jagershuizen,45,"","",7316NA,Apeldoorn
+De Jagershuizen,47,"","",7316NA,Apeldoorn
+De Jagershuizen,5,"","",7316NA,Apeldoorn
+De Jagershuizen,7,"","",7316NA,Apeldoorn
+De Jagershuizen,9,"","",7316NA,Apeldoorn
+De Jagershuizen,101,"","",7316NC,Apeldoorn
+De Jagershuizen,103,"","",7316NC,Apeldoorn
+De Jagershuizen,105,"","",7316NC,Apeldoorn
+De Jagershuizen,107,"","",7316NC,Apeldoorn
+De Jagershuizen,109,"","",7316NC,Apeldoorn
+De Jagershuizen,111,"","",7316NC,Apeldoorn
+De Jagershuizen,113,"","",7316NC,Apeldoorn
+De Jagershuizen,10,"","",7316ND,Apeldoorn
+De Jagershuizen,12,"","",7316ND,Apeldoorn
+De Jagershuizen,14,"","",7316ND,Apeldoorn
+De Jagershuizen,16,"","",7316ND,Apeldoorn
+De Jagershuizen,18,"","",7316ND,Apeldoorn
+De Jagershuizen,2,"","",7316ND,Apeldoorn
+De Jagershuizen,20,"","",7316ND,Apeldoorn
+De Jagershuizen,22,"","",7316ND,Apeldoorn
+De Jagershuizen,24,"","",7316ND,Apeldoorn
+De Jagershuizen,26,"","",7316ND,Apeldoorn
+De Jagershuizen,28,"","",7316ND,Apeldoorn
+De Jagershuizen,30,"","",7316ND,Apeldoorn
+De Jagershuizen,32,"","",7316ND,Apeldoorn
+De Jagershuizen,34,"","",7316ND,Apeldoorn
+De Jagershuizen,36,"","",7316ND,Apeldoorn
+De Jagershuizen,38,"","",7316ND,Apeldoorn
+De Jagershuizen,4,"","",7316ND,Apeldoorn
+De Jagershuizen,40,"","",7316ND,Apeldoorn
+De Jagershuizen,42,"","",7316ND,Apeldoorn
+De Jagershuizen,6,"","",7316ND,Apeldoorn
+De Jagershuizen,8,"","",7316ND,Apeldoorn
+De Jagershuizen,100,"","",7316NE,Apeldoorn
+De Jagershuizen,102,"","",7316NE,Apeldoorn
+De Jagershuizen,104,"","",7316NE,Apeldoorn
+De Jagershuizen,106,"","",7316NE,Apeldoorn
+De Jagershuizen,54,"","",7316NE,Apeldoorn
+De Jagershuizen,56,"","",7316NE,Apeldoorn
+De Jagershuizen,58,"","",7316NE,Apeldoorn
+De Jagershuizen,60,"","",7316NE,Apeldoorn
+De Jagershuizen,62,"","",7316NE,Apeldoorn
+De Jagershuizen,64,"","",7316NE,Apeldoorn
+De Jagershuizen,66,"","",7316NE,Apeldoorn
+De Jagershuizen,68,"","",7316NE,Apeldoorn
+De Jagershuizen,70,"","",7316NE,Apeldoorn
+De Jagershuizen,72,"","",7316NE,Apeldoorn
+De Jagershuizen,74,"","",7316NE,Apeldoorn
+De Jagershuizen,76,"","",7316NE,Apeldoorn
+De Jagershuizen,78,"","",7316NE,Apeldoorn
+De Jagershuizen,80,"","",7316NE,Apeldoorn
+De Jagershuizen,82,"","",7316NE,Apeldoorn
+De Jagershuizen,84,"","",7316NE,Apeldoorn
+De Jagershuizen,86,"","",7316NE,Apeldoorn
+De Jagershuizen,88,"","",7316NE,Apeldoorn
+De Jagershuizen,90,"","",7316NE,Apeldoorn
+De Jagershuizen,92,"","",7316NE,Apeldoorn
+De Jagershuizen,94,"","",7316NE,Apeldoorn
+De Jagershuizen,96,"","",7316NE,Apeldoorn
+De Jagershuizen,98,"","",7316NE,Apeldoorn
+Klein Oosterwijk,1,"","",7316NH,Apeldoorn
+Klein Oosterwijk,11,"","",7316NH,Apeldoorn
+Klein Oosterwijk,13,"","",7316NH,Apeldoorn
+Klein Oosterwijk,15,"","",7316NH,Apeldoorn
+Klein Oosterwijk,3,"","",7316NH,Apeldoorn
+Klein Oosterwijk,5,"","",7316NH,Apeldoorn
+Klein Oosterwijk,7,"","",7316NH,Apeldoorn
+Klein Oosterwijk,9,"","",7316NH,Apeldoorn
+Van Haeftenpark,1,"","",7316NJ,Apeldoorn
+Van Haeftenpark,11,"","",7316NJ,Apeldoorn
+Van Haeftenpark,13,"","",7316NJ,Apeldoorn
+Van Haeftenpark,15,"","",7316NJ,Apeldoorn
+Van Haeftenpark,17,"","",7316NJ,Apeldoorn
+Van Haeftenpark,19,"","",7316NJ,Apeldoorn
+Van Haeftenpark,21,"","",7316NJ,Apeldoorn
+Van Haeftenpark,23,"","",7316NJ,Apeldoorn
+Van Haeftenpark,25,"","",7316NJ,Apeldoorn
+Van Haeftenpark,27,"","",7316NJ,Apeldoorn
+Van Haeftenpark,3,"","",7316NJ,Apeldoorn
+Van Haeftenpark,31,"","",7316NJ,Apeldoorn
+Van Haeftenpark,33,"","",7316NJ,Apeldoorn
+Van Haeftenpark,35,"","",7316NJ,Apeldoorn
+Van Haeftenpark,37,"","",7316NJ,Apeldoorn
+Van Haeftenpark,39,"","",7316NJ,Apeldoorn
+Van Haeftenpark,41,"","",7316NJ,Apeldoorn
+Van Haeftenpark,43,"","",7316NJ,Apeldoorn
+Van Haeftenpark,45,"","",7316NJ,Apeldoorn
+Van Haeftenpark,47,"","",7316NJ,Apeldoorn
+Van Haeftenpark,49,"","",7316NJ,Apeldoorn
+Van Haeftenpark,5,"","",7316NJ,Apeldoorn
+Van Haeftenpark,7,"","",7316NJ,Apeldoorn
+Van Haeftenpark,9,"","",7316NJ,Apeldoorn
+Van Haeftenpark,26,"","",7316NK,Apeldoorn
+Van Haeftenpark,28,"","",7316NK,Apeldoorn
+Van Haeftenpark,30,"","",7316NK,Apeldoorn
+Van Haeftenpark,32,"","",7316NK,Apeldoorn
+Van Haeftenpark,34,"","",7316NK,Apeldoorn
+Van Haeftenpark,36,"","",7316NK,Apeldoorn
+Van Haeftenpark,38,"","",7316NK,Apeldoorn
+Van Haeftenpark,40,"","",7316NK,Apeldoorn
+Erewacht,1,"","",7316NL,Apeldoorn
+Erewacht,11,"","",7316NL,Apeldoorn
+Erewacht,12,"","",7316NL,Apeldoorn
+Erewacht,13,"","",7316NL,Apeldoorn
+Erewacht,14,"","",7316NL,Apeldoorn
+Erewacht,15,"","",7316NL,Apeldoorn
+Erewacht,16,"","",7316NL,Apeldoorn
+Erewacht,17,"","",7316NL,Apeldoorn
+Erewacht,18,"","",7316NL,Apeldoorn
+Erewacht,19,"","",7316NL,Apeldoorn
+Erewacht,20,"","",7316NL,Apeldoorn
+Erewacht,21,"","",7316NL,Apeldoorn
+Erewacht,22,"","",7316NL,Apeldoorn
+Erewacht,23,"","",7316NL,Apeldoorn
+Erewacht,25,"","",7316NL,Apeldoorn
+Erewacht,27,"","",7316NL,Apeldoorn
+Erewacht,29,"","",7316NL,Apeldoorn
+Erewacht,3,"","",7316NL,Apeldoorn
+Erewacht,5,"","",7316NL,Apeldoorn
+Erewacht,7,"","",7316NL,Apeldoorn
+Erewacht,9,"","",7316NL,Apeldoorn
+Oude Zwolseweg,10,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,14,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,16,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,18,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,20,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,22,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,24,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,4,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,6,"","",7345BG,Wenum Wiesel
+Oude Zwolseweg,6,A,"",7345BG,Wenum Wiesel
+Hoge Brink,11,"","",7345DA,Wenum Wiesel
+Hoge Brink,12,"","",7345DA,Wenum Wiesel
+Hoge Brink,13,"","",7345DA,Wenum Wiesel
+Hoge Brink,14,"","",7345DA,Wenum Wiesel
+Hoge Brink,17,"","",7345DA,Wenum Wiesel
+Hoge Brink,18,"","",7345DA,Wenum Wiesel
+Hoge Brink,24,"","",7345DA,Wenum Wiesel
+Hoge Brink,3,"","",7345DA,Wenum Wiesel
+Hoge Brink,30,"","",7345DA,Wenum Wiesel
+Hoge Brink,30,"","",7345DA,Wenum Wiesel
+Hoge Brink,31,"","",7345DA,Wenum Wiesel
+Hoge Brink,33,"","",7345DA,Wenum Wiesel
+Hoge Brink,6,"","",7345DA,Wenum Wiesel
+Hoge Brink,9,"","",7345DA,Wenum Wiesel
+De Nieuwekamp,10,"","",7345DB,Wenum Wiesel
+De Nieuwekamp,16,"","",7345DB,Wenum Wiesel
+De Nieuwekamp,18,"","",7345DB,Wenum Wiesel
+De Nieuwekamp,24,"","",7345DB,Wenum Wiesel
+De Nieuwekamp,29,"","",7345DB,Wenum Wiesel
+De Nieuwekamp,31,"","",7345DB,Wenum Wiesel
+De Nieuwekamp,4,"","",7345DB,Wenum Wiesel
+Hogekampweg,68,"","",7345EJ,Wenum Wiesel

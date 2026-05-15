@@ -1,320 +1,173 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9403AA",22,"A",""
-"9403AA",22,"",""
-"9403AA",8,"",""
-"9403AA",14,"",""
-"9403AA",12,"",""
-"9403AA",10,"A",""
-"9403AA",22,"B",""
-"9403AA",20,"",""
-"9403AA",12,"",""
-"9403AA",22,"C",""
-"9403AA",12,"",""
-"9403AA",10,"",""
-"9403AA",8,"",""
-"9403AA",8,"A",""
-"9403AA",18,"",""
-"9403AA",4,"",""
-"9403AA",14,"",""
-"9403AA",14,"",""
-"9403AA",10,"A",""
-"9403AA",10,"",""
-"9403AA",2,"",""
-"9403AA",12,"",""
-"9403AA",8,"",""
-"9403AA",6,"",""
-"9403AA",16,"",""
-"9403AA",10,"",""
-"9403AC",15,"",""
-"9403AC",15,"E",""
-"9403AC",13,"G",""
-"9403AC",15,"A",""
-"9403AC",25,"",""
-"9403AC",1,"",""
-"9403AC",23,"",""
-"9403AC",13,"F",""
-"9403AC",11,"",""
-"9403AC",13,"C",""
-"9403AC",13,"E",""
-"9403AC",17,"",""
-"9403AC",13,"D",""
-"9403AC",3,"",""
-"9403AC",15,"B",""
-"9403AC",23,"",""
-"9403AC",15,"F",""
-"9403AC",19,"",""
-"9403AC",9,"",""
-"9403AC",13,"B",""
-"9403AC",13,"A",""
-"9403AC",3,"A",""
-"9403AC",15,"E",""
-"9403AC",7,"",""
-"9403AC",15,"D",""
-"9403AC",21,"",""
-"9403AC",15,"E",""
-"9403AC",25,"A",""
-"9403AC",5,"",""
-"9403AC",13,"",""
-"9403AC",15,"C",""
-"9403AC",23,"",""
-"9403AD",55,"A",""
-"9403AD",41,"A",""
-"9403AD",51,"A",""
-"9403AD",67,"",""
-"9403AD",39,"",""
-"9403AD",55,"A",""
-"9403AD",41,"",""
-"9403AD",51,"",""
-"9403AD",53,"",""
-"9403AD",61,"A",""
-"9403AD",55,"",""
-"9403AD",27,"A",""
-"9403AD",27,"",""
-"9403AD",51,"A",""
-"9403AD",27,"B",""
-"9403AD",43,"",""
-"9403AD",27,"B",""
-"9403AD",37,"A",""
-"9403AD",37,"A",""
-"9403AD",61,"",""
-"9403AD",61,"",""
-"9403AD",47,"",""
-"9403AD",85,"",""
-"9403AD",29,"",""
-"9403AD",81,"",""
-"9403AD",29,"B",""
-"9403AD",75,"",""
-"9403AD",33,"",""
-"9403AD",27,"",""
-"9403AD",57,"",""
-"9403AD",27,"A",""
-"9403AD",69,"",""
-"9403AD",75,"",""
-"9403AD",75,"",""
-"9403AD",83,"",""
-"9403AD",83,"A",""
-"9403AD",80,"",""
-"9403AG",9,"A",""
-"9403AG",6,"D",""
-"9403AG",11,"",""
-"9403AG",10,"",""
-"9403AG",6,"C",""
-"9403AG",6,"D",""
-"9403AG",9,"",""
-"9403AG",6,"G",""
-"9403AG",5,"",""
-"9403AG",15,"D",""
-"9403AG",2,"A",""
-"9403AG",11,"",""
-"9403AG",6,"E",""
-"9403AG",6,"D",""
-"9403AG",6,"H",""
-"9403AG",2,"C",""
-"9403AG",6,"I",""
-"9403AG",17,"",""
-"9403AG",15,"A",""
-"9403AG",6,"I",""
-"9403AG",11,"",""
-"9403AG",17,"A",""
-"9403AG",2,"B",""
-"9403AG",15,"",""
-"9403AG",6,"",""
-"9403AG",4,"",""
-"9403AG",8,"",""
-"9403AG",7,"",""
-"9403AG",6,"I",""
-"9403AG",15,"C",""
-"9403AG",6,"C",""
-"9403AG",17,"",""
-"9403AG",15,"B",""
-"9403AG",14,"",""
-"9403AG",6,"C",""
-"9403AG",2,"",""
-"9403AG",12,"",""
-"9403AG",6,"F",""
-"9403AG",11,"",""
-"9403AG",15,"",""
-"9403AG",13,"A",""
-"9403AG",16,"",""
-"9403AG",6,"B",""
-"9403AG",11,"",""
-"9403AG",15,"",""
-"9403AG",11,"B",""
-"9403AG",6,"A",""
-"9403AG",11,"A",""
-"9403AG",14,"A",""
-"9403AG",5,"A",""
-"9403AG",13,"",""
-"9403AH",14,"A",""
-"9403AH",12,"",""
-"9403AH",16,"B",""
-"9403AH",16,"D",""
-"9403AH",10,"",""
-"9403AH",18,"",""
-"9403AH",10,"",""
-"9403AH",16,"E",""
-"9403AH",8,"",""
-"9403AH",14,"",""
-"9403AH",6,"",""
-"9403AH",8,"",""
-"9403AH",16,"C",""
-"9403AH",2,"",""
-"9403AH",12,"",""
-"9403AH",16,"A",""
-"9403AH",8,"",""
-"9403AH",16,"",""
-"9403AH",6,"",""
-"9403AH",1,"",""
-"9403AH",20,"",""
-"9403AH",2,"",""
-"9403AH",2,"",""
-"9403AH",4,"",""
-"9403AH",12,"",""
-"9403AH",6,"",""
-9403AG,C.T. Storkweg,2,A,
-9403AG,C.T. Storkweg,2,B,
-9403AG,C.T. Storkweg,2,C,
-9403AG,C.T. Storkweg,2,,
-9403AG,C.T. Storkweg,4,,
-9403AG,C.T. Storkweg,5,A,
-9403AG,C.T. Storkweg,5,,
-9403AG,C.T. Storkweg,6,A,
-9403AG,C.T. Storkweg,6,B,
-9403AG,C.T. Storkweg,6,C,
-9403AG,C.T. Storkweg,6,E,
-9403AG,C.T. Storkweg,6,F,
-9403AG,C.T. Storkweg,6,G,
-9403AG,C.T. Storkweg,6,H,
-9403AG,C.T. Storkweg,6,,
-9403AG,C.T. Storkweg,7,,
-9403AG,C.T. Storkweg,8,,
-9403AG,C.T. Storkweg,9,A,
-9403AG,C.T. Storkweg,9,,
-9403AG,C.T. Storkweg,10,,
-9403AG,C.T. Storkweg,11,B,
-9403AG,C.T. Storkweg,12,,
-9403AG,C.T. Storkweg,13,A,
-9403AG,C.T. Storkweg,13,,
-9403AG,C.T. Storkweg,14,,
-9403AG,C.T. Storkweg,15,,
-9403AG,C.T. Storkweg,16,,
-9403AG,C.T. Storkweg,17,A,
-9403AH,Havenkade,1,,
-9403AH,Havenkade,4,,
-9403AH,Havenkade,6,,
-9403AH,Havenkade,14,A,
-9403AH,Havenkade,14,,
-9403AH,Havenkade,16,,
-9403AH,Havenkade,18,,
-9403AH,Havenkade,20,,
-9403AC,Dr. A.F. Philipsweg,25,A,
-9403AC,Dr. A.F. Philipsweg,25,,
-9403AC,Dr. A.F. Philipsweg,1,,
-9403AC,Dr. A.F. Philipsweg,3,A,
-9403AC,Dr. A.F. Philipsweg,3,,
-9403AC,Dr. A.F. Philipsweg,5,,
-9403AC,Dr. A.F. Philipsweg,7,,
-9403AC,Dr. A.F. Philipsweg,9,,
-9403AC,Dr. A.F. Philipsweg,11,,
-9403AC,Dr. A.F. Philipsweg,13,A,
-9403AC,Dr. A.F. Philipsweg,13,B,
-9403AC,Dr. A.F. Philipsweg,13,C,
-9403AC,Dr. A.F. Philipsweg,13,D,
-9403AC,Dr. A.F. Philipsweg,13,E,
-9403AC,Dr. A.F. Philipsweg,13,F,
-9403AC,Dr. A.F. Philipsweg,13,G,
-9403AC,Dr. A.F. Philipsweg,13,,
-9403AC,Dr. A.F. Philipsweg,15,A,
-9403AC,Dr. A.F. Philipsweg,15,B,
-9403AC,Dr. A.F. Philipsweg,15,C,
-9403AC,Dr. A.F. Philipsweg,15,D,
-9403AC,Dr. A.F. Philipsweg,15,F,
-9403AC,Dr. A.F. Philipsweg,15,,
-9403AC,Dr. A.F. Philipsweg,17,,
-9403AC,Dr. A.F. Philipsweg,19,,
-9403AC,Dr. A.F. Philipsweg,21,,
-9403AC,Dr. A.F. Philipsweg,23,,
-9403AD,Dr. A.F. Philipsweg,27,A,
-9403AD,Dr. A.F. Philipsweg,27,B,
-9403AD,Dr. A.F. Philipsweg,27,,
-9403AD,Dr. A.F. Philipsweg,29,B,
-9403AD,Dr. A.F. Philipsweg,29,,
-9403AD,Dr. A.F. Philipsweg,33,,
-9403AD,Dr. A.F. Philipsweg,37,A,
-9403AD,Dr. A.F. Philipsweg,37,A,
-9403AD,Dr. A.F. Philipsweg,39,,
-9403AD,Dr. A.F. Philipsweg,41,A,
-9403AD,Dr. A.F. Philipsweg,41,,
-9403AD,Dr. A.F. Philipsweg,43,,
-9403AD,Dr. A.F. Philipsweg,47,,
-9403AD,Dr. A.F. Philipsweg,51,,
-9403AD,Dr. A.F. Philipsweg,53,,
-9403AD,Dr. A.F. Philipsweg,55,A,
-9403AD,Dr. A.F. Philipsweg,55,,
-9403AD,Dr. A.F. Philipsweg,57,,
-9403AD,Dr. A.F. Philipsweg,61,A,
-9403AD,Dr. A.F. Philipsweg,69,,
-9403AD,Dr. A.F. Philipsweg,75,,
-9403AD,Dr. A.F. Philipsweg,80,,
-9403AD,Dr. A.F. Philipsweg,81,,
-9403AD,Dr. A.F. Philipsweg,83,,
-9403AD,Dr. A.F. Philipsweg,85,,
-9403AA,Industrieweg,2,,
-9403AA,Industrieweg,4,,
-9403AA,Industrieweg,6,,
-9403AA,Industrieweg,8,,
-9403AA,Industrieweg,10,,
-9403AA,Industrieweg,14,,
-9403AA,Industrieweg,18,,
-9403AA,Industrieweg,20,,
-9403AA,Industrieweg,22,A,
-9403AA,Industrieweg,22,B,
-9403AA,Industrieweg,22,C,
-9403AA,Industrieweg,22,,
-9403AG,C.T. Storkweg,6,I,
-9403AG,C.T. Storkweg,6,D,
-9403AG,C.T. Storkweg,17,,
-9403AC,Dr. A.F. Philipsweg,15,E,
-9403AH,Havenkade,12,,
-9403AH,Havenkade,10,,
-9403AH,Havenkade,8,,
-9403AG,C.T. Storkweg,6,C,
-9403AG,C.T. Storkweg,6,D,
-9403AG,C.T. Storkweg,6,I,
-9403AG,C.T. Storkweg,11,,
-9403AG,C.T. Storkweg,14,A,
-9403AG,C.T. Storkweg,15,,
-9403AG,C.T. Storkweg,15,A,
-9403AG,C.T. Storkweg,15,B,
-9403AG,C.T. Storkweg,15,C,
-9403AG,C.T. Storkweg,15,D,
-9403AC,Dr. A.F. Philipsweg,23,,
-9403AD,Dr. A.F. Philipsweg,51,A,
-9403AD,Dr. A.F. Philipsweg,61,,
-9403AD,Dr. A.F. Philipsweg,83,A,
-9403AD,Dr. A.F. Philipsweg,67,,
-9403AD,Dr. A.F. Philipsweg,75,,
-9403AH,Havenkade,2,,
-9403AH,Havenkade,6,,
-9403AH,Havenkade,8,,
-9403AH,Havenkade,2,,
-9403AH,Havenkade,12,,
-9403AH,Havenkade,16,A,
-9403AH,Havenkade,16,B,
-9403AH,Havenkade,16,C,
-9403AH,Havenkade,16,D,
-9403AH,Havenkade,16,E,
-9403AA,Industrieweg,12,,
-9403AA,Industrieweg,12,,
-9403AA,Industrieweg,10,A,
-9403AA,Industrieweg,8,,
-9403AA,Industrieweg,8,A,
-9403AG,C.T. Storkweg,11,,
-9403AG,C.T. Storkweg,11,A,
-9403AG,C.T. Storkweg,11,,
-9403AD,Dr. A.F. Philipsweg,37,,
-9403AD,Dr. A.F. Philipsweg,37,B,
-9403AA,Industrieweg,10,,
-9403AA,Industrieweg,12,,
-9403AA,Industrieweg,14,,
-9403AA,Industrieweg,16,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Industrieweg,10,"","",9403AA,Assen
+Industrieweg,10,"","",9403AA,Assen
+Industrieweg,10,"","",9403AA,Assen
+Industrieweg,10,A,"",9403AA,Assen
+Industrieweg,10,A,"",9403AA,Assen
+Industrieweg,12,"","",9403AA,Assen
+Industrieweg,12,"","",9403AA,Assen
+Industrieweg,12,"","",9403AA,Assen
+Industrieweg,12,"","",9403AA,Assen
+Industrieweg,14,"","",9403AA,Assen
+Industrieweg,14,"","",9403AA,Assen
+Industrieweg,14,"","",9403AA,Assen
+Industrieweg,16,"","",9403AA,Assen
+Industrieweg,18,"","",9403AA,Assen
+Industrieweg,2,"","",9403AA,Assen
+Industrieweg,20,"","",9403AA,Assen
+Industrieweg,22,"","",9403AA,Assen
+Industrieweg,22,A,"",9403AA,Assen
+Industrieweg,22,B,"",9403AA,Assen
+Industrieweg,22,C,"",9403AA,Assen
+Industrieweg,4,"","",9403AA,Assen
+Industrieweg,6,"","",9403AA,Assen
+Industrieweg,8,"","",9403AA,Assen
+Industrieweg,8,"","",9403AA,Assen
+Industrieweg,8,"","",9403AA,Assen
+Industrieweg,8,A,"",9403AA,Assen
+Dr. A.F. Philipsweg,1,"","",9403AC,Assen
+Dr. A.F. Philipsweg,11,"","",9403AC,Assen
+Dr. A.F. Philipsweg,13,"","",9403AC,Assen
+Dr. A.F. Philipsweg,13,A,"",9403AC,Assen
+Dr. A.F. Philipsweg,13,B,"",9403AC,Assen
+Dr. A.F. Philipsweg,13,C,"",9403AC,Assen
+Dr. A.F. Philipsweg,13,D,"",9403AC,Assen
+Dr. A.F. Philipsweg,13,E,"",9403AC,Assen
+Dr. A.F. Philipsweg,13,F,"",9403AC,Assen
+Dr. A.F. Philipsweg,13,G,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,"","",9403AC,Assen
+Dr. A.F. Philipsweg,15,A,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,B,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,C,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,D,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,E,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,E,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,E,"",9403AC,Assen
+Dr. A.F. Philipsweg,15,F,"",9403AC,Assen
+Dr. A.F. Philipsweg,17,"","",9403AC,Assen
+Dr. A.F. Philipsweg,19,"","",9403AC,Assen
+Dr. A.F. Philipsweg,21,"","",9403AC,Assen
+Dr. A.F. Philipsweg,23,"","",9403AC,Assen
+Dr. A.F. Philipsweg,23,"","",9403AC,Assen
+Dr. A.F. Philipsweg,23,"","",9403AC,Assen
+Dr. A.F. Philipsweg,25,"","",9403AC,Assen
+Dr. A.F. Philipsweg,25,A,"",9403AC,Assen
+Dr. A.F. Philipsweg,3,"","",9403AC,Assen
+Dr. A.F. Philipsweg,3,A,"",9403AC,Assen
+Dr. A.F. Philipsweg,5,"","",9403AC,Assen
+Dr. A.F. Philipsweg,7,"","",9403AC,Assen
+Dr. A.F. Philipsweg,9,"","",9403AC,Assen
+Dr. A.F. Philipsweg,27,"","",9403AD,Assen
+Dr. A.F. Philipsweg,27,"","",9403AD,Assen
+Dr. A.F. Philipsweg,27,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,27,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,27,B,"",9403AD,Assen
+Dr. A.F. Philipsweg,27,B,"",9403AD,Assen
+Dr. A.F. Philipsweg,29,"","",9403AD,Assen
+Dr. A.F. Philipsweg,29,B,"",9403AD,Assen
+Dr. A.F. Philipsweg,33,"","",9403AD,Assen
+Dr. A.F. Philipsweg,37,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,37,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,39,"","",9403AD,Assen
+Dr. A.F. Philipsweg,41,"","",9403AD,Assen
+Dr. A.F. Philipsweg,41,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,43,"","",9403AD,Assen
+Dr. A.F. Philipsweg,47,"","",9403AD,Assen
+Dr. A.F. Philipsweg,51,"","",9403AD,Assen
+Dr. A.F. Philipsweg,51,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,51,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,53,"","",9403AD,Assen
+Dr. A.F. Philipsweg,55,"","",9403AD,Assen
+Dr. A.F. Philipsweg,55,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,55,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,57,"","",9403AD,Assen
+Dr. A.F. Philipsweg,61,"","",9403AD,Assen
+Dr. A.F. Philipsweg,61,"","",9403AD,Assen
+Dr. A.F. Philipsweg,61,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,67,"","",9403AD,Assen
+Dr. A.F. Philipsweg,69,"","",9403AD,Assen
+Dr. A.F. Philipsweg,75,"","",9403AD,Assen
+Dr. A.F. Philipsweg,75,"","",9403AD,Assen
+Dr. A.F. Philipsweg,75,"","",9403AD,Assen
+Dr. A.F. Philipsweg,80,"","",9403AD,Assen
+Dr. A.F. Philipsweg,81,"","",9403AD,Assen
+Dr. A.F. Philipsweg,83,"","",9403AD,Assen
+Dr. A.F. Philipsweg,83,A,"",9403AD,Assen
+Dr. A.F. Philipsweg,85,"","",9403AD,Assen
+C.T. Storkweg,10,"","",9403AG,Assen
+C.T. Storkweg,11,"","",9403AG,Assen
+C.T. Storkweg,11,"","",9403AG,Assen
+C.T. Storkweg,11,"","",9403AG,Assen
+C.T. Storkweg,11,"","",9403AG,Assen
+C.T. Storkweg,11,"","",9403AG,Assen
+C.T. Storkweg,11,A,"",9403AG,Assen
+C.T. Storkweg,11,B,"",9403AG,Assen
+C.T. Storkweg,12,"","",9403AG,Assen
+C.T. Storkweg,13,"","",9403AG,Assen
+C.T. Storkweg,13,A,"",9403AG,Assen
+C.T. Storkweg,14,"","",9403AG,Assen
+C.T. Storkweg,14,A,"",9403AG,Assen
+C.T. Storkweg,15,"","",9403AG,Assen
+C.T. Storkweg,15,"","",9403AG,Assen
+C.T. Storkweg,15,"","",9403AG,Assen
+C.T. Storkweg,15,A,"",9403AG,Assen
+C.T. Storkweg,15,B,"",9403AG,Assen
+C.T. Storkweg,15,C,"",9403AG,Assen
+C.T. Storkweg,15,D,"",9403AG,Assen
+C.T. Storkweg,16,"","",9403AG,Assen
+C.T. Storkweg,17,"","",9403AG,Assen
+C.T. Storkweg,17,"","",9403AG,Assen
+C.T. Storkweg,17,A,"",9403AG,Assen
+C.T. Storkweg,2,"","",9403AG,Assen
+C.T. Storkweg,2,A,"",9403AG,Assen
+C.T. Storkweg,2,B,"",9403AG,Assen
+C.T. Storkweg,2,C,"",9403AG,Assen
+C.T. Storkweg,4,"","",9403AG,Assen
+C.T. Storkweg,5,"","",9403AG,Assen
+C.T. Storkweg,5,A,"",9403AG,Assen
+C.T. Storkweg,6,"","",9403AG,Assen
+C.T. Storkweg,6,A,"",9403AG,Assen
+C.T. Storkweg,6,B,"",9403AG,Assen
+C.T. Storkweg,6,C,"",9403AG,Assen
+C.T. Storkweg,6,C,"",9403AG,Assen
+C.T. Storkweg,6,C,"",9403AG,Assen
+C.T. Storkweg,6,D,"",9403AG,Assen
+C.T. Storkweg,6,D,"",9403AG,Assen
+C.T. Storkweg,6,D,"",9403AG,Assen
+C.T. Storkweg,6,E,"",9403AG,Assen
+C.T. Storkweg,6,F,"",9403AG,Assen
+C.T. Storkweg,6,G,"",9403AG,Assen
+C.T. Storkweg,6,H,"",9403AG,Assen
+C.T. Storkweg,6,I,"",9403AG,Assen
+C.T. Storkweg,6,I,"",9403AG,Assen
+C.T. Storkweg,6,I,"",9403AG,Assen
+C.T. Storkweg,7,"","",9403AG,Assen
+C.T. Storkweg,8,"","",9403AG,Assen
+C.T. Storkweg,9,"","",9403AG,Assen
+C.T. Storkweg,9,A,"",9403AG,Assen
+Havenkade,1,"","",9403AH,Assen
+Havenkade,10,"","",9403AH,Assen
+Havenkade,10,"","",9403AH,Assen
+Havenkade,12,"","",9403AH,Assen
+Havenkade,12,"","",9403AH,Assen
+Havenkade,12,"","",9403AH,Assen
+Havenkade,14,"","",9403AH,Assen
+Havenkade,14,A,"",9403AH,Assen
+Havenkade,16,"","",9403AH,Assen
+Havenkade,16,A,"",9403AH,Assen
+Havenkade,16,B,"",9403AH,Assen
+Havenkade,16,C,"",9403AH,Assen
+Havenkade,16,D,"",9403AH,Assen
+Havenkade,16,E,"",9403AH,Assen
+Havenkade,18,"","",9403AH,Assen
+Havenkade,2,"","",9403AH,Assen
+Havenkade,2,"","",9403AH,Assen
+Havenkade,2,"","",9403AH,Assen
+Havenkade,20,"","",9403AH,Assen
+Havenkade,4,"","",9403AH,Assen
+Havenkade,6,"","",9403AH,Assen
+Havenkade,6,"","",9403AH,Assen
+Havenkade,6,"","",9403AH,Assen
+Havenkade,8,"","",9403AH,Assen
+Havenkade,8,"","",9403AH,Assen
+Havenkade,8,"","",9403AH,Assen

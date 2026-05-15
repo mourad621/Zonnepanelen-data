@@ -1,1236 +1,622 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9203DN",25,"",""
-"9203DN",23,"",""
-"9203DN",29,"",""
-"9203DN",7,"",""
-"9203DN",9,"",""
-"9203DN",3,"",""
-"9203DN",1,"",""
-"9203DN",27,"",""
-"9203DN",11,"",""
-"9203DN",19,"",""
-"9203DN",5,"",""
-"9203DN",17,"",""
-"9203DN",21,"",""
-"9203DN",15,"",""
-"9203DN",13,"",""
-"9203DR",11,"",""
-"9203DR",17,"",""
-"9203DR",13,"",""
-"9203DR",19,"",""
-"9203DR",31,"",""
-"9203DR",33,"a",""
-"9203DR",15,"",""
-"9203DR",53,"",""
-"9203DR",21,"",""
-"9203DR",1,"",""
-"9203DR",49,"",""
-"9203DR",3,"",""
-"9203DR",67,"",""
-"9203DR",41,"",""
-"9203DR",29,"",""
-"9203DR",43,"",""
-"9203DR",5,"",""
-"9203DR",55,"",""
-"9203DR",33,"",""
-"9203DR",2,"",""
-"9203DR",9,"",""
-"9203DR",59,"",""
-"9203DR",47,"",""
-"9203DR",23,"",""
-"9203DR",25,"",""
-"9203DR",7,"",""
-"9203DR",61,"",""
-"9203DR",27,"",""
-"9203DR",39,"",""
-"9203DR",63,"",""
-"9203DR",57,"",""
-"9203DR",51,"",""
-"9203DR",45,"",""
-"9203DR",35,"",""
-"9203DR",65,"",""
-"9203DR",37,"",""
-"9203DS",71,"",""
-"9203DS",95,"",""
-"9203DS",69,"",""
-"9203DS",77,"",""
-"9203DS",101,"",""
-"9203DS",131,"",""
-"9203DS",135,"",""
-"9203DS",117,"",""
-"9203DS",81,"",""
-"9203DS",99,"",""
-"9203DS",75,"",""
-"9203DS",73,"",""
-"9203DS",83,"",""
-"9203DS",91,"",""
-"9203DS",123,"",""
-"9203DS",111,"",""
-"9203DS",97,"",""
-"9203DS",85,"",""
-"9203DS",89,"",""
-"9203DS",109,"",""
-"9203DS",119,"",""
-"9203DS",127,"",""
-"9203DS",125,"",""
-"9203DS",121,"",""
-"9203DS",87,"",""
-"9203DS",79,"",""
-"9203DS",107,"",""
-"9203DS",129,"",""
-"9203DS",113,"",""
-"9203DS",93,"",""
-"9203DS",133,"",""
-"9203DS",115,"",""
-"9203DS",101,"a",""
-"9203DS",103,"",""
-"9203DS",105,"",""
-"9203DT",181,"",""
-"9203DT",187,"",""
-"9203DT",149,"",""
-"9203DT",147,"",""
-"9203DT",183,"",""
-"9203DT",155,"",""
-"9203DT",159,"",""
-"9203DT",161,"",""
-"9203DT",145,"",""
-"9203DT",175,"",""
-"9203DT",141,"",""
-"9203DT",179,"",""
-"9203DT",163,"",""
-"9203DT",153,"",""
-"9203DT",157,"",""
-"9203DT",143,"",""
-"9203DT",171,"",""
-"9203DT",165,"",""
-"9203DT",197,"",""
-"9203DT",185,"",""
-"9203DT",195,"",""
-"9203DT",139,"",""
-"9203DT",193,"",""
-"9203DT",203,"",""
-"9203DT",151,"",""
-"9203DT",173,"",""
-"9203DT",169,"",""
-"9203DT",169,"a",""
-"9203DT",191,"",""
-"9203DT",177,"",""
-"9203DT",199,"",""
-"9203DT",201,"",""
-"9203DT",167,"",""
-"9203DT",137,"",""
-"9203DT",189,"",""
-"9203KL",1,"",""
-"9203KL",56,"",""
-"9203KL",38,"",""
-"9203KL",24,"",""
-"9203KL",56,"","2"
-"9203KL",56,"a",""
-"9203KL",56,"b",""
-"9203KL",56,"",""
-"9203KL",50,"",""
-"9203KL",52,"",""
-"9203KL",54,"a",""
-"9203KL",54,"",""
-"9203KL",56,"",""
-"9203KM",60,"",""
-"9203KM",58,"",""
-"9203KM",66,"",""
-"9203KM",66,"","11"
-"9203KM",68,"",""
-"9203KM",62,"",""
-"9203KM",66,"","9"
-"9203KM",66,"","3"
-"9203KM",74,"",""
-"9203KM",64,"",""
-"9203KM",80,"",""
-"9203KM",66,"","5"
-"9203KM",66,"","7"
-"9203KM",66,"","10"
-"9203KM",66,"","8"
-"9203KM",78,"",""
-"9203KM",66,"","4"
-"9203KM",66,"","6"
-"9203KM",86,"",""
-"9203KM",66,"","1"
-"9203KM",90,"",""
-"9203KM",72,"",""
-"9203KM",66,"","2"
-"9203KM",84,"",""
-"9203KM",82,"",""
-"9203KM",76,"",""
-"9203KM",70,"",""
-"9203KM",88,"",""
-"9203KM",92,"",""
-"9203KN",106,"",""
-"9203KN",134,"",""
-"9203KN",136,"","16"
-"9203KN",94,"",""
-"9203KN",104,"",""
-"9203KN",114,"",""
-"9203KN",136,"","9"
-"9203KN",96,"",""
-"9203KN",98,"",""
-"9203KN",136,"","3"
-"9203KN",130,"",""
-"9203KN",110,"",""
-"9203KN",136,"","14"
-"9203KN",126,"",""
-"9203KN",136,"","4"
-"9203KN",132,"",""
-"9203KN",138,"",""
-"9203KN",138,"",""
-"9203KN",136,"","11"
-"9203KN",136,"","2"
-"9203KN",102,"",""
-"9203KN",136,"","15"
-"9203KN",122,"",""
-"9203KN",136,"","13"
-"9203KN",136,"",""
-"9203KN",73,"","7"
-"9203KN",138,"a",""
-"9203KN",136,"","1"
-"9203KN",136,"","10"
-"9203KN",120,"",""
-"9203KN",136,"","17"
-"9203KN",128,"",""
-"9203KN",136,"",""
-"9203KN",108,"",""
-"9203KN",136,"","5"
-"9203KN",138,"a",""
-"9203KN",136,"","7"
-"9203KN",124,"",""
-"9203KN",136,"","8"
-"9203KN",136,"","12"
-"9203KN",136,"",""
-"9203KN",112,"",""
-"9203KN",118,"",""
-"9203KN",136,"","6"
-"9203KR",3,"",""
-"9203KR",76,"",""
-"9203KR",74,"",""
-"9203KR",58,"",""
-"9203KR",42,"",""
-"9203KR",56,"",""
-"9203KR",7,"",""
-"9203KR",26,"",""
-"9203KR",66,"",""
-"9203KR",44,"",""
-"9203KR",92,"",""
-"9203KR",68,"",""
-"9203KR",38,"",""
-"9203KR",86,"",""
-"9203KR",94,"",""
-"9203KR",70,"",""
-"9203KR",1,"",""
-"9203KR",60,"",""
-"9203KR",1,"",""
-"9203KR",94,"a",""
-"9203KR",90,"",""
-"9203KR",30,"",""
-"9203KR",96,"",""
-"9203KR",25,"",""
-"9203KR",6,"",""
-"9203KR",32,"",""
-"9203KR",28,"",""
-"9203KR",24,"",""
-"9203KR",72,"",""
-"9203KR",5,"",""
-"9203KR",9,"",""
-"9203KR",36,"",""
-"9203KR",22,"",""
-"9203KR",1,"",""
-"9203KR",62,"",""
-"9203KR",48,"",""
-"9203KR",40,"",""
-"9203KR",34,"",""
-"9203KR",84,"",""
-"9203KR",64,"",""
-"9203KR",52,"",""
-"9203KR",21,"",""
-"9203KR",8,"",""
-"9203KR",12,"",""
-"9203KR",16,"",""
-"9203KR",46,"",""
-"9203KR",11,"",""
-"9203KR",82,"",""
-"9203KR",18,"",""
-"9203KR",13,"",""
-"9203KR",88,"",""
-"9203KR",15,"",""
-"9203KR",19,"",""
-"9203KR",17,"",""
-"9203KR",23,"",""
-"9203KR",20,"",""
-"9203KR",14,"",""
-"9203KR",10,"",""
-"9203KR",50,"",""
-"9203KR",80,"",""
-"9203KR",78,"",""
-"9203KR",54,"",""
-"9203KS",7,"",""
-"9203KS",69,"",""
-"9203KS",53,"",""
-"9203KS",111,"",""
-"9203KS",3,"",""
-"9203KS",97,"",""
-"9203KS",79,"",""
-"9203KS",87,"",""
-"9203KS",73,"",""
-"9203KS",13,"",""
-"9203KS",91,"",""
-"9203KS",41,"",""
-"9203KS",89,"",""
-"9203KS",5,"",""
-"9203KS",55,"",""
-"9203KS",99,"",""
-"9203KS",109,"",""
-"9203KS",39,"",""
-"9203KS",1,"",""
-"9203KS",11,"",""
-"9203KS",47,"",""
-"9203KS",19,"",""
-"9203KS",35,"",""
-"9203KS",101,"",""
-"9203KS",21,"",""
-"9203KS",25,"",""
-"9203KS",85,"a",""
-"9203KS",95,"",""
-"9203KS",43,"",""
-"9203KS",67,"",""
-"9203KS",77,"",""
-"9203KS",37,"",""
-"9203KS",45,"",""
-"9203KS",29,"",""
-"9203KS",27,"",""
-"9203KS",51,"",""
-"9203KS",59,"",""
-"9203KS",107,"",""
-"9203KS",49,"",""
-"9203KS",33,"",""
-"9203KS",93,"",""
-"9203KS",31,"",""
-"9203KS",17,"",""
-"9203KS",23,"",""
-"9203KS",63,"",""
-"9203KS",61,"",""
-"9203KS",71,"",""
-"9203KS",113,"",""
-"9203KS",105,"",""
-"9203KS",9,"",""
-"9203KS",85,"",""
-"9203KS",83,"",""
-"9203KS",57,"",""
-"9203KS",65,"",""
-"9203KS",15,"",""
-"9203KS",81,"",""
-"9203KS",75,"",""
-"9203KS",103,"",""
-"9203KT",3,"",""
-"9203KT",19,"",""
-"9203KT",13,"",""
-"9203KT",1,"",""
-"9203KT",15,"",""
-"9203KT",27,"",""
-"9203KT",5,"",""
-"9203KT",7,"",""
-"9203KT",25,"",""
-"9203KT",11,"",""
-"9203KT",31,"",""
-"9203KT",9,"",""
-"9203KT",17,"",""
-"9203KT",23,"",""
-"9203KT",29,"",""
-"9203KT",21,"",""
-"9203KV",2,"","23"
-"9203KV",2,"","6"
-"9203KV",2,"","3"
-"9203KV",2,"","7"
-"9203KV",2,"","4"
-"9203KV",2,"","21"
-"9203KV",2,"",""
-"9203KV",2,"","12"
-"9203KV",2,"","27"
-"9203KV",2,"","5"
-"9203KV",2,"","26"
-"9203KV",2,"","17"
-"9203KV",2,"","25"
-"9203KV",2,"","22"
-"9203KV",2,"","15"
-"9203KV",24,"",""
-"9203KV",2,"","8"
-"9203KV",2,"","24"
-"9203KV",16,"",""
-"9203KV",2,"","1"
-"9203KV",2,"","11"
-"9203KV",32,"",""
-"9203KV",2,"a",""
-"9203KV",6,"",""
-"9203KV",2,"","10"
-"9203KV",38,"",""
-"9203KV",34,"",""
-"9203KV",30,"",""
-"9203KV",28,"",""
-"9203KV",2,"","13"
-"9203KV",40,"",""
-"9203KV",2,"","2"
-"9203KV",2,"","18"
-"9203KV",20,"",""
-"9203KV",26,"",""
-"9203KV",4,"",""
-"9203KV",14,"",""
-"9203KV",2,"","16"
-"9203KV",36,"",""
-"9203KV",18,"",""
-"9203KV",2,"","20"
-"9203KV",8,"",""
-"9203KV",22,"",""
-"9203KV",10,"",""
-"9203KV",2,"","9"
-"9203KV",2,"","14"
-"9203KV",12,"",""
-"9203KV",2,"","19"
-"9203KW",5,"",""
-"9203KW",9,"",""
-"9203KW",13,"",""
-"9203KW",15,"",""
-"9203KW",7,"",""
-"9203KW",1,"",""
-"9203KW",21,"",""
-"9203KW",3,"",""
-"9203KW",25,"",""
-"9203KW",23,"",""
-"9203KW",31,"",""
-"9203KW",17,"",""
-"9203KW",29,"",""
-"9203KW",27,"",""
-"9203KW",11,"",""
-"9203KW",19,"",""
-"9203KX",20,"",""
-"9203KX",16,"",""
-"9203KX",2,"d",""
-"9203KX",2,"p",""
-"9203KX",22,"",""
-"9203KX",24,"",""
-"9203KX",30,"",""
-"9203KX",32,"",""
-"9203KX",26,"",""
-"9203KX",2,"m",""
-"9203KX",2,"x",""
-"9203KX",2,"j",""
-"9203KX",2,"v",""
-"9203KX",2,"r",""
-"9203KX",2,"q",""
-"9203KX",34,"",""
-"9203KX",2,"s",""
-"9203KX",12,"",""
-"9203KX",14,"",""
-"9203KX",8,"",""
-"9203KX",6,"",""
-"9203KX",2,"h",""
-"9203KX",2,"",""
-"9203KX",38,"",""
-"9203KX",2,"t",""
-"9203KX",2,"c",""
-"9203KX",36,"",""
-"9203KX",2,"b",""
-"9203KX",2,"u",""
-"9203KX",28,"",""
-"9203KX",2,"i",""
-"9203KX",10,"",""
-"9203KX",2,"l",""
-"9203KX",4,"",""
-"9203KX",18,"",""
-"9203KX",2,"o",""
-"9203KX",2,"w",""
-"9203KX",2,"a",""
-"9203KX",2,"z",""
-"9203KX",2,"f",""
-"9203KX",2,"g",""
-"9203KX",40,"",""
-"9203KX",2,"k",""
-"9203KX",2,"n",""
-"9203KX",2,"e",""
-"9203KX",2,"y",""
-"9203KZ",15,"",""
-"9203KZ",9,"",""
-"9203KZ",17,"",""
-"9203KZ",25,"",""
-"9203KZ",27,"",""
-"9203KZ",21,"",""
-"9203KZ",7,"",""
-"9203KZ",23,"",""
-"9203KZ",5,"",""
-"9203KZ",19,"",""
-"9203KZ",31,"",""
-"9203KZ",13,"",""
-"9203KZ",11,"",""
-"9203KZ",29,"",""
-"9203LA",2,"","33"
-"9203LA",2,"","7"
-"9203LA",12,"",""
-"9203LA",2,"","5"
-"9203LA",2,"","32"
-"9203LA",38,"",""
-"9203LA",2,"","6"
-"9203LA",10,"",""
-"9203LA",28,"",""
-"9203LA",2,"","26"
-"9203LA",36,"",""
-"9203LA",2,"","31"
-"9203LA",2,"","4"
-"9203LA",2,"","34"
-"9203LA",42,"",""
-"9203LA",18,"",""
-"9203LA",8,"",""
-"9203LA",6,"",""
-"9203LA",4,"",""
-"9203LA",2,"","9"
-"9203LA",30,"",""
-"9203LA",14,"",""
-"9203LA",2,"","23"
-"9203LA",2,"","25"
-"9203LA",2,"","27"
-"9203LA",2,"","3"
-"9203LA",2,"","29"
-"9203LA",2,"","28"
-"9203LA",2,"","12"
-"9203LA",2,"",""
-"9203LA",2,"","8"
-"9203LA",26,"",""
-"9203LA",2,"","18"
-"9203LA",2,"","22"
-"9203LA",2,"","1"
-"9203LA",2,"","30"
-"9203LA",2,"","2"
-"9203LA",2,"","17"
-"9203LA",2,"","20"
-"9203LA",2,"","10"
-"9203LA",16,"",""
-"9203LA",2,"","19"
-"9203LA",2,"","11"
-"9203LA",24,"",""
-"9203LA",34,"",""
-"9203LA",40,"",""
-"9203LA",22,"",""
-"9203LA",2,"","24"
-"9203LA",20,"",""
-"9203LA",2,"","21"
-"9203LA",32,"",""
-"9203LB",85,"",""
-"9203LB",79,"",""
-"9203LB",73,"",""
-"9203LB",83,"",""
-"9203LB",89,"",""
-"9203LB",87,"",""
-"9203LB",75,"",""
-"9203LB",91,"",""
-"9203LB",81,"",""
-"9203LB",77,"",""
-"9203LC",3,"","20"
-"9203LC",3,"","28"
-"9203LC",1,"","7"
-"9203LC",3,"","38"
-"9203LC",1,"","31"
-"9203LC",3,"","44"
-"9203LC",1,"","47"
-"9203LC",3,"","4"
-"9203LC",3,"","46"
-"9203LC",3,"","36"
-"9203LC",3,"","48"
-"9203LC",1,"","11"
-"9203LC",1,"","1"
-"9203LC",3,"","54"
-"9203LC",1,"","13"
-"9203LC",1,"","53"
-"9203LC",3,"","26"
-"9203LC",1,"","5"
-"9203LC",3,"","52"
-"9203LC",1,"","15"
-"9203LC",1,"","39"
-"9203LC",3,"","40"
-"9203LC",3,"","24"
-"9203LC",1,"","23"
-"9203LC",3,"","50"
-"9203LC",1,"","17"
-"9203LC",1,"","27"
-"9203LC",1,"","21"
-"9203LC",3,"","32"
-"9203LC",1,"","45"
-"9203LC",1,"","51"
-"9203LC",3,"","34"
-"9203LC",3,"","10"
-"9203LC",1,"","25"
-"9203LC",3,"","42"
-"9203LC",3,"","16"
-"9203LC",1,"","29"
-"9203LC",3,"","18"
-"9203LC",1,"","54"
-"9203LC",1,"","41"
-"9203LC",3,"","2"
-"9203LC",1,"","3"
-"9203LC",3,"","22"
-"9203LC",3,"","55"
-"9203LC",3,"","55"
-"9203LC",3,"","14"
-"9203LC",1,"","9"
-"9203LC",1,"","37"
-"9203LC",1,"","43"
-"9203LC",1,"","49"
-"9203LC",3,"","12"
-"9203LC",1,"","54"
-"9203LC",3,"","8"
-"9203LC",1,"","35"
-"9203LC",3,"","30"
-"9203LC",1,"","33"
-"9203LC",3,"","6"
-"9203LC",1,"","19"
-"9203RJ",35,"",""
-"9203RJ",59,"",""
-"9203RJ",1,"",""
-"9203RJ",33,"",""
-"9203RJ",41,"",""
-"9203RJ",39,"",""
-"9203RJ",1,"",""
-"9203RJ",1,"",""
-"9203RJ",57,"",""
-"9203RJ",51,"",""
-"9203RJ",47,"",""
-"9203RJ",55,"",""
-"9203RJ",61,"",""
-"9203RJ",31,"",""
-"9203RJ",43,"",""
-"9203RJ",37,"",""
-"9203RJ",45,"",""
-"9203RJ",63,"",""
-"9203RJ",53,"",""
-"9203RJ",49,"",""
-"9203RK",99,"",""
-"9203RK",79,"",""
-"9203RK",71,"",""
-"9203RK",101,"",""
-"9203RK",65,"",""
-"9203RK",77,"",""
-"9203RK",69,"",""
-"9203RK",95,"",""
-"9203RK",91,"",""
-"9203RK",73,"",""
-"9203RK",81,"",""
-"9203RK",93,"",""
-"9203RK",97,"",""
-"9203RK",67,"",""
-"9203RK",75,"",""
-9203KW,Hopperus Bumaperk,17,,
-9203KW,Hopperus Bumaperk,15,,
-9203KW,Hopperus Bumaperk,29,,
-9203KX,Hopperus Bumaperk,18,,
-9203KX,Hopperus Bumaperk,34,,
-9203KX,Hopperus Bumaperk,22,,
-9203KX,Hopperus Bumaperk,32,,
-9203KT,Manger Catsperk,15,,
-9203KT,Manger Catsperk,31,,
-9203KT,Manger Catsperk,7,,
-9203KT,Manger Catsperk,9,,
-9203KT,Manger Catsperk,27,,
-9203KV,Manger Catsperk,34,,
-9203KV,Manger Catsperk,16,,
-9203KR,Reidingweg,11,,
-9203KR,Reidingweg,10,,
-9203KR,Reidingweg,64,,
-9203KR,Reidingweg,28,,
-9203KR,Reidingweg,76,,
-9203KR,Reidingweg,46,,
-9203KR,Reidingweg,82,,
-9203KR,Reidingweg,80,,
-9203KR,Reidingweg,5,,
-9203KR,Reidingweg,42,,
-9203KR,Reidingweg,78,,
-9203KR,Reidingweg,50,,
-9203KR,Reidingweg,54,,
-9203DR,Mevrouw De Rooweg,59,,
-9203DR,Mevrouw De Rooweg,1,,
-9203DR,Mevrouw De Rooweg,17,,
-9203DR,Mevrouw De Rooweg,25,,
-9203DR,Mevrouw De Rooweg,53,,
-9203DR,Mevrouw De Rooweg,61,,
-9203DR,Mevrouw De Rooweg,3,,
-9203DS,Mevrouw De Rooweg,85,,
-9203DS,Mevrouw De Rooweg,91,,
-9203DS,Mevrouw De Rooweg,95,,
-9203DS,Mevrouw De Rooweg,117,,
-9203DS,Mevrouw De Rooweg,77,,
-9203DS,Mevrouw De Rooweg,133,,
-9203DS,Mevrouw De Rooweg,125,,
-9203DS,Mevrouw De Rooweg,89,,
-9203DS,Mevrouw De Rooweg,135,,
-9203DS,Mevrouw De Rooweg,111,,
-9203DS,Mevrouw De Rooweg,123,,
-9203DS,Mevrouw De Rooweg,103,,
-9203DS,Mevrouw De Rooweg,105,,
-9203DT,Mevrouw De Rooweg,189,,
-9203DT,Mevrouw De Rooweg,145,,
-9203DT,Mevrouw De Rooweg,201,,
-9203DT,Mevrouw De Rooweg,155,,
-9203DT,Mevrouw De Rooweg,203,,
-9203DT,Mevrouw De Rooweg,177,,
-9203DT,Mevrouw De Rooweg,137,,
-9203DT,Mevrouw De Rooweg,185,,
-9203LB,Fabriciuslaan,77,,
-9203LB,Fabriciuslaan,89,,
-9203LB,Fabriciuslaan,79,,
-9203LB,Fabriciuslaan,87,,
-9203LB,Fabriciuslaan,83,,
-9203LB,Fabriciuslaan,73,,
-9203LC,Fabriciuslaan,1,,17
-9203LC,Fabriciuslaan,1,,15
-9203LC,Fabriciuslaan,1,,39
-9203LC,Fabriciuslaan,3,,52
-9203LC,Fabriciuslaan,1,,5
-9203LC,Fabriciuslaan,1,,29
-9203LC,Fabriciuslaan,1,,41
-9203LC,Fabriciuslaan,3,,34
-9203LC,Fabriciuslaan,1,,45
-9203LC,Fabriciuslaan,3,,50
-9203LC,Fabriciuslaan,1,,25
-9203LC,Fabriciuslaan,3,,6
-9203LC,Fabriciuslaan,1,,3
-9203RJ,Gauke Boelensstraat,53,,
-9203RJ,Gauke Boelensstraat,45,,
-9203RJ,Gauke Boelensstraat,51,,
-9203RJ,Gauke Boelensstraat,33,,
-9203RJ,Gauke Boelensstraat,47,,
-9203RJ,Gauke Boelensstraat,59,,
-9203RK,Gauke Boelensstraat,97,,
-9203RK,Gauke Boelensstraat,91,,
-9203RK,Gauke Boelensstraat,69,,
-9203RK,Gauke Boelensstraat,81,,
-9203RK,Gauke Boelensstraat,79,,
-9203KM,Burgemeester Wuiteweg,68,,
-9203KM,Burgemeester Wuiteweg,80,,
-9203KM,Burgemeester Wuiteweg,66,,
-9203KM,Burgemeester Wuiteweg,90,,
-9203KM,Burgemeester Wuiteweg,82,,
-9203KM,Burgemeester Wuiteweg,92,,
-9203KN,Burgemeester Wuiteweg,102,,
-9203KN,Burgemeester Wuiteweg,112,,
-9203KN,Burgemeester Wuiteweg,106,,
-9203KN,Burgemeester Wuiteweg,138,a,
-9203KS,Kiryat-Onoplein,19,,
-9203KS,Kiryat-Onoplein,31,,
-9203KS,Kiryat-Onoplein,21,,
-9203KS,Kiryat-Onoplein,59,,
-9203KS,Kiryat-Onoplein,105,,
-9203KS,Kiryat-Onoplein,87,,
-9203KS,Kiryat-Onoplein,41,,
-9203KS,Kiryat-Onoplein,53,,
-9203KS,Kiryat-Onoplein,43,,
-9203KS,Kiryat-Onoplein,101,,
-9203KS,Kiryat-Onoplein,51,,
-9203KS,Kiryat-Onoplein,29,,
-9203KS,Kiryat-Onoplein,71,,
-9203KS,Kiryat-Onoplein,27,,
-9203KS,Kiryat-Onoplein,85,,
-9203KZ,Blaauboerperk,5,,
-9203LA,Blaauboerperk,2,,
-9203LA,Blaauboerperk,4,,
-9203LA,Blaauboerperk,38,,
-9203LA,Blaauboerperk,40,,
-9203LA,Blaauboerperk,10,,
-9203LA,Blaauboerperk,30,,
-9203LA,Blaauboerperk,8,,
-9203KW,Hopperus Bumaperk,11,,
-9203KW,Hopperus Bumaperk,27,,
-9203KW,Hopperus Bumaperk,1,,
-9203KW,Hopperus Bumaperk,23,,
-9203KW,Hopperus Bumaperk,21,,
-9203KW,Hopperus Bumaperk,13,,
-9203KX,Hopperus Bumaperk,26,,
-9203KX,Hopperus Bumaperk,14,,
-9203KX,Hopperus Bumaperk,6,,
-9203KX,Hopperus Bumaperk,36,,
-9203KX,Hopperus Bumaperk,8,,
-9203KX,Hopperus Bumaperk,30,,
-9203KX,Hopperus Bumaperk,16,,
-9203KX,Hopperus Bumaperk,38,,
-9203KX,Hopperus Bumaperk,40,,
-9203KT,Manger Catsperk,21,,
-9203KT,Manger Catsperk,13,,
-9203KT,Manger Catsperk,5,,
-9203KT,Manger Catsperk,19,,
-9203KT,Manger Catsperk,3,,
-9203KT,Manger Catsperk,1,,
-9203KV,Manger Catsperk,12,,
-9203KV,Manger Catsperk,2,,
-9203KV,Manger Catsperk,28,,
-9203KV,Manger Catsperk,20,,
-9203KV,Manger Catsperk,4,,
-9203KV,Manger Catsperk,6,,
-9203KR,Reidingweg,13,,
-9203KR,Reidingweg,38,,
-9203KR,Reidingweg,70,,
-9203KR,Reidingweg,92,,
-9203KR,Reidingweg,36,,
-9203KR,Reidingweg,19,,
-9203KR,Reidingweg,26,,
-9203KR,Reidingweg,68,,
-9203KR,Reidingweg,18,,
-9203KR,Reidingweg,90,,
-9203KR,Reidingweg,94,,
-9203KR,Reidingweg,66,,
-9203KR,Reidingweg,24,,
-9203KR,Reidingweg,9,,
-9203KR,Reidingweg,44,,
-9203KR,Reidingweg,30,,
-9203KR,Reidingweg,74,,
-9203KR,Reidingweg,56,,
-9203KR,Reidingweg,7,,
-9203KR,Reidingweg,52,,
-9203KR,Reidingweg,16,,
-9203KR,Reidingweg,20,,
-9203KR,Reidingweg,84,,
-9203KR,Reidingweg,48,,
-9203DR,Mevrouw De Rooweg,33,,
-9203DR,Mevrouw De Rooweg,7,,
-9203DR,Mevrouw De Rooweg,5,,
-9203DR,Mevrouw De Rooweg,47,,
-9203DR,Mevrouw De Rooweg,35,,
-9203DR,Mevrouw De Rooweg,51,,
-9203DR,Mevrouw De Rooweg,41,,
-9203DR,Mevrouw De Rooweg,43,,
-9203DR,Mevrouw De Rooweg,13,,
-9203DR,Mevrouw De Rooweg,29,,
-9203DR,Mevrouw De Rooweg,27,,
-9203DR,Mevrouw De Rooweg,19,,
-9203DR,Mevrouw De Rooweg,65,,
-9203DR,Mevrouw De Rooweg,49,,
-9203DR,Mevrouw De Rooweg,39,,
-9203DS,Mevrouw De Rooweg,97,,
-9203DS,Mevrouw De Rooweg,121,,
-9203DS,Mevrouw De Rooweg,119,,
-9203DS,Mevrouw De Rooweg,83,,
-9203DS,Mevrouw De Rooweg,113,,
-9203DS,Mevrouw De Rooweg,131,,
-9203DS,Mevrouw De Rooweg,87,,
-9203DS,Mevrouw De Rooweg,75,,
-9203DS,Mevrouw De Rooweg,79,,
-9203DS,Mevrouw De Rooweg,81,,
-9203DS,Mevrouw De Rooweg,71,,
-9203DS,Mevrouw De Rooweg,129,,
-9203DS,Mevrouw De Rooweg,99,,
-9203DT,Mevrouw De Rooweg,175,,
-9203DT,Mevrouw De Rooweg,151,,
-9203DT,Mevrouw De Rooweg,147,,
-9203DT,Mevrouw De Rooweg,193,,
-9203DT,Mevrouw De Rooweg,187,,
-9203DT,Mevrouw De Rooweg,183,,
-9203DT,Mevrouw De Rooweg,197,,
-9203DT,Mevrouw De Rooweg,199,,
-9203DT,Mevrouw De Rooweg,169,,
-9203DT,Mevrouw De Rooweg,159,,
-9203DT,Mevrouw De Rooweg,191,,
-9203DT,Mevrouw De Rooweg,165,,
-9203DT,Mevrouw De Rooweg,161,,
-9203DT,Mevrouw De Rooweg,157,,
-9203DT,Mevrouw De Rooweg,167,,
-9203DT,Mevrouw De Rooweg,179,,
-9203DT,Mevrouw De Rooweg,141,,
-9203LB,Fabriciuslaan,91,,
-9203LB,Fabriciuslaan,75,,
-9203LC,Fabriciuslaan,3,,42
-9203LC,Fabriciuslaan,1,,27
-9203LC,Fabriciuslaan,3,,40
-9203LC,Fabriciuslaan,1,,31
-9203LC,Fabriciuslaan,3,,16
-9203LC,Fabriciuslaan,3,,32
-9203LC,Fabriciuslaan,3,,44
-9203LC,Fabriciuslaan,3,,30
-9203LC,Fabriciuslaan,3,,38
-9203LC,Fabriciuslaan,3,,54
-9203LC,Fabriciuslaan,3,,12
-9203LC,Fabriciuslaan,1,,53
-9203LC,Fabriciuslaan,1,,9
-9203LC,Fabriciuslaan,3,,24
-9203LC,Fabriciuslaan,1,,1
-9203LC,Fabriciuslaan,1,,7
-9203LC,Fabriciuslaan,3,,22
-9203LC,Fabriciuslaan,3,,46
-9203LC,Fabriciuslaan,3,,48
-9203LC,Fabriciuslaan,3,,14
-9203LC,Fabriciuslaan,1,,19
-9203LC,Fabriciuslaan,1,,23
-9203LC,Fabriciuslaan,3,,36
-9203LC,Fabriciuslaan,3,,20
-9203LC,Fabriciuslaan,1,,51
-9203RJ,Gauke Boelensstraat,31,,
-9203RJ,Gauke Boelensstraat,49,,
-9203RJ,Gauke Boelensstraat,63,,
-9203RJ,Gauke Boelensstraat,41,,
-9203RJ,Gauke Boelensstraat,43,,
-9203RJ,Gauke Boelensstraat,55,,
-9203RJ,Gauke Boelensstraat,35,,
-9203RK,Gauke Boelensstraat,93,,
-9203RK,Gauke Boelensstraat,95,,
-9203RK,Gauke Boelensstraat,71,,
-9203RK,Gauke Boelensstraat,99,,
-9203RK,Gauke Boelensstraat,77,,
-9203RK,Gauke Boelensstraat,67,,
-9203KM,Burgemeester Wuiteweg,72,,
-9203KM,Burgemeester Wuiteweg,78,,
-9203KM,Burgemeester Wuiteweg,86,,
-9203KM,Burgemeester Wuiteweg,70,,
-9203KM,Burgemeester Wuiteweg,84,,
-9203KN,Burgemeester Wuiteweg,110,,
-9203KN,Burgemeester Wuiteweg,96,,
-9203KN,Burgemeester Wuiteweg,104,,
-9203KS,Kiryat-Onoplein,83,,
-9203KS,Kiryat-Onoplein,25,,
-9203KS,Kiryat-Onoplein,3,,
-9203KS,Kiryat-Onoplein,113,,
-9203KS,Kiryat-Onoplein,49,,
-9203KS,Kiryat-Onoplein,91,,
-9203KS,Kiryat-Onoplein,89,,
-9203KS,Kiryat-Onoplein,17,,
-9203KS,Kiryat-Onoplein,5,,
-9203KS,Kiryat-Onoplein,73,,
-9203KS,Kiryat-Onoplein,9,,
-9203KS,Kiryat-Onoplein,97,,
-9203KS,Kiryat-Onoplein,67,,
-9203KS,Kiryat-Onoplein,95,,
-9203KS,Kiryat-Onoplein,13,,
-9203KS,Kiryat-Onoplein,79,,
-9203KS,Kiryat-Onoplein,11,,
-9203KS,Kiryat-Onoplein,81,,
-9203KS,Kiryat-Onoplein,23,,
-9203KS,Kiryat-Onoplein,99,,
-9203KS,Kiryat-Onoplein,103,,
-9203KS,Kiryat-Onoplein,111,,
-9203KZ,Blaauboerperk,29,,
-9203KZ,Blaauboerperk,17,,
-9203KZ,Blaauboerperk,11,,
-9203KZ,Blaauboerperk,27,,
-9203KZ,Blaauboerperk,21,,
-9203KZ,Blaauboerperk,31,,
-9203KZ,Blaauboerperk,13,,
-9203LA,Blaauboerperk,22,,
-9203LA,Blaauboerperk,32,,
-9203LA,Blaauboerperk,36,,
-9203LA,Blaauboerperk,24,,
-9203LA,Blaauboerperk,14,,
-9203LA,Blaauboerperk,16,,
-9203LA,Blaauboerperk,26,,
-9203LA,Blaauboerperk,42,,
-9203LA,Blaauboerperk,6,,
-9203DN,Douwstraweg,21,,
-9203DN,Douwstraweg,13,,
-9203DN,Douwstraweg,7,,
-9203DN,Douwstraweg,23,,
-9203KW,Hopperus Bumaperk,19,,
-9203KW,Hopperus Bumaperk,5,,
-9203KW,Hopperus Bumaperk,9,,
-9203KW,Hopperus Bumaperk,25,,
-9203KW,Hopperus Bumaperk,31,,
-9203KW,Hopperus Bumaperk,7,,
-9203KX,Hopperus Bumaperk,2,f,
-9203KX,Hopperus Bumaperk,2,h,
-9203KX,Hopperus Bumaperk,2,y,
-9203KX,Hopperus Bumaperk,2,i,
-9203KX,Hopperus Bumaperk,2,a,
-9203KX,Hopperus Bumaperk,2,n,
-9203KX,Hopperus Bumaperk,2,c,
-9203KX,Hopperus Bumaperk,2,k,
-9203KX,Hopperus Bumaperk,2,e,
-9203KX,Hopperus Bumaperk,2,l,
-9203KX,Hopperus Bumaperk,2,m,
-9203KX,Hopperus Bumaperk,2,j,
-9203KX,Hopperus Bumaperk,2,o,
-9203KX,Hopperus Bumaperk,2,p,
-9203KX,Hopperus Bumaperk,2,u,
-9203KX,Hopperus Bumaperk,2,b,
-9203KX,Hopperus Bumaperk,2,q,
-9203KX,Hopperus Bumaperk,2,s,
-9203KX,Hopperus Bumaperk,2,t,
-9203KX,Hopperus Bumaperk,2,d,
-9203KX,Hopperus Bumaperk,2,v,
-9203KX,Hopperus Bumaperk,2,w,
-9203KX,Hopperus Bumaperk,2,x,
-9203KX,Hopperus Bumaperk,20,,
-9203KX,Hopperus Bumaperk,2,z,
-9203KX,Hopperus Bumaperk,28,,
-9203KX,Hopperus Bumaperk,4,,
-9203KX,Hopperus Bumaperk,10,,
-9203KX,Hopperus Bumaperk,12,,
-9203KX,Hopperus Bumaperk,2,g,
-9203KX,Hopperus Bumaperk,2,r,
-9203KX,Hopperus Bumaperk,2,,
-9203KT,Manger Catsperk,23,,
-9203KT,Manger Catsperk,29,,
-9203KT,Manger Catsperk,11,,
-9203KT,Manger Catsperk,17,,
-9203KT,Manger Catsperk,25,,
-9203KV,Manger Catsperk,38,,
-9203KV,Manger Catsperk,26,,
-9203KV,Manger Catsperk,2,,24
-9203KV,Manger Catsperk,2,,26
-9203KV,Manger Catsperk,36,,
-9203KV,Manger Catsperk,8,,
-9203KV,Manger Catsperk,22,,
-9203KV,Manger Catsperk,2,,1
-9203KV,Manger Catsperk,2,,2
-9203KV,Manger Catsperk,2,,3
-9203KV,Manger Catsperk,2,,4
-9203KV,Manger Catsperk,2,,5
-9203KV,Manger Catsperk,2,,6
-9203KV,Manger Catsperk,2,,7
-9203KV,Manger Catsperk,2,,8
-9203KV,Manger Catsperk,2,,9
-9203KV,Manger Catsperk,2,,11
-9203KV,Manger Catsperk,2,,12
-9203KV,Manger Catsperk,2,,13
-9203KV,Manger Catsperk,2,,22
-9203KV,Manger Catsperk,2,,15
-9203KV,Manger Catsperk,2,,16
-9203KV,Manger Catsperk,2,,21
-9203KV,Manger Catsperk,2,,17
-9203KV,Manger Catsperk,2,,18
-9203KV,Manger Catsperk,2,,23
-9203KV,Manger Catsperk,2,,25
-9203KV,Manger Catsperk,2,,20
-9203KV,Manger Catsperk,18,,
-9203KV,Manger Catsperk,30,,
-9203KV,Manger Catsperk,2,,19
-9203KV,Manger Catsperk,2,a,
-9203KV,Manger Catsperk,2,,10
-9203KV,Manger Catsperk,10,,
-9203KV,Manger Catsperk,32,,
-9203KV,Manger Catsperk,24,,
-9203KV,Manger Catsperk,14,,
-9203KV,Manger Catsperk,40,,
-9203KR,Reidingweg,40,,
-9203KR,Reidingweg,72,,
-9203KR,Reidingweg,34,,
-9203KR,Reidingweg,14,,
-9203KR,Reidingweg,86,,
-9203KR,Reidingweg,94,a,
-9203KR,Reidingweg,15,,
-9203KR,Reidingweg,22,,
-9203KR,Reidingweg,17,,
-9203KR,Reidingweg,58,,
-9203KR,Reidingweg,3,,
-9203KR,Reidingweg,96,,
-9203KR,Reidingweg,21,,
-9203KR,Reidingweg,1,,
-9203KR,Reidingweg,6,,
-9203KR,Reidingweg,23,,
-9203KR,Reidingweg,12,,
-9203DR,Mevrouw De Rooweg,37,,
-9203DR,Mevrouw De Rooweg,45,,
-9203DR,Mevrouw De Rooweg,15,,
-9203DR,Mevrouw De Rooweg,57,,
-9203DR,Mevrouw De Rooweg,21,,
-9203DR,Mevrouw De Rooweg,2,,
-9203DR,Mevrouw De Rooweg,63,,
-9203DR,Mevrouw De Rooweg,11,,
-9203DR,Mevrouw De Rooweg,33,a,
-9203DR,Mevrouw De Rooweg,9,,
-9203DR,Mevrouw De Rooweg,23,,
-9203DS,Mevrouw De Rooweg,69,,
-9203DS,Mevrouw De Rooweg,93,,
-9203DS,Mevrouw De Rooweg,107,,
-9203DS,Mevrouw De Rooweg,115,,
-9203DS,Mevrouw De Rooweg,101,a,
-9203DS,Mevrouw De Rooweg,109,,
-9203DS,Mevrouw De Rooweg,101,,
-9203DS,Mevrouw De Rooweg,127,,
-9203DT,Mevrouw De Rooweg,153,,
-9203DT,Mevrouw De Rooweg,173,,
-9203DT,Mevrouw De Rooweg,139,,
-9203DT,Mevrouw De Rooweg,143,,
-9203DT,Mevrouw De Rooweg,171,,
-9203DT,Mevrouw De Rooweg,195,,
-9203DT,Mevrouw De Rooweg,181,,
-9203DT,Mevrouw De Rooweg,169,a,
-9203LB,Fabriciuslaan,81,,
-9203LB,Fabriciuslaan,85,,
-9203LC,Fabriciuslaan,3,,10
-9203LC,Fabriciuslaan,3,,26
-9203LC,Fabriciuslaan,1,,35
-9203LC,Fabriciuslaan,1,,47
-9203LC,Fabriciuslaan,1,,33
-9203LC,Fabriciuslaan,1,,37
-9203LC,Fabriciuslaan,3,,28
-9203LC,Fabriciuslaan,3,,8
-9203LC,Fabriciuslaan,3,,18
-9203LC,Fabriciuslaan,1,,13
-9203LC,Fabriciuslaan,3,,4
-9203LC,Fabriciuslaan,3,,2
-9203LC,Fabriciuslaan,3,,55
-9203LC,Fabriciuslaan,1,,54
-9203LC,Fabriciuslaan,1,,11
-9203RJ,Gauke Boelensstraat,57,,
-9203RJ,Gauke Boelensstraat,1,,
-9203RJ,Gauke Boelensstraat,61,,
-9203RJ,Gauke Boelensstraat,37,,
-9203RK,Gauke Boelensstraat,101,,
-9203RK,Gauke Boelensstraat,73,,
-9203RK,Gauke Boelensstraat,65,,
-9203KL,Burgemeester Wuiteweg,56,,2
-9203KL,Burgemeester Wuiteweg,56,b,
-9203KL,Burgemeester Wuiteweg,50,,
-9203KL,Burgemeester Wuiteweg,52,,
-9203KL,Burgemeester Wuiteweg,54,a,
-9203KM,Burgemeester Wuiteweg,66,,1
-9203KM,Burgemeester Wuiteweg,66,,2
-9203KM,Burgemeester Wuiteweg,66,,3
-9203KM,Burgemeester Wuiteweg,66,,4
-9203KM,Burgemeester Wuiteweg,66,,5
-9203KM,Burgemeester Wuiteweg,66,,6
-9203KM,Burgemeester Wuiteweg,66,,7
-9203KM,Burgemeester Wuiteweg,66,,8
-9203KM,Burgemeester Wuiteweg,66,,9
-9203KM,Burgemeester Wuiteweg,66,,10
-9203KM,Burgemeester Wuiteweg,66,,11
-9203KM,Burgemeester Wuiteweg,58,,
-9203KM,Burgemeester Wuiteweg,60,,
-9203KM,Burgemeester Wuiteweg,62,,
-9203KM,Burgemeester Wuiteweg,64,,
-9203KM,Burgemeester Wuiteweg,88,,
-9203KM,Burgemeester Wuiteweg,74,,
-9203KN,Burgemeester Wuiteweg,98,,
-9203KN,Burgemeester Wuiteweg,118,,
-9203KN,Burgemeester Wuiteweg,138,,
-9203KN,Burgemeester Wuiteweg,114,,
-9203KS,Kiryat-Onoplein,35,,
-9203KS,Kiryat-Onoplein,75,,
-9203KS,Kiryat-Onoplein,107,,
-9203KS,Kiryat-Onoplein,61,,
-9203KS,Kiryat-Onoplein,33,,
-9203KS,Kiryat-Onoplein,7,,
-9203KS,Kiryat-Onoplein,37,,
-9203KS,Kiryat-Onoplein,55,,
-9203KS,Kiryat-Onoplein,45,,
-9203KS,Kiryat-Onoplein,65,,
-9203KS,Kiryat-Onoplein,93,,
-9203KS,Kiryat-Onoplein,47,,
-9203KS,Kiryat-Onoplein,77,,
-9203KS,Kiryat-Onoplein,1,,
-9203KS,Kiryat-Onoplein,57,,
-9203KS,Kiryat-Onoplein,109,,
-9203KZ,Blaauboerperk,7,,
-9203KZ,Blaauboerperk,9,,
-9203KZ,Blaauboerperk,19,,
-9203KZ,Blaauboerperk,23,,
-9203KZ,Blaauboerperk,25,,
-9203LA,Blaauboerperk,2,,29
-9203LA,Blaauboerperk,2,,12
-9203LA,Blaauboerperk,2,,11
-9203LA,Blaauboerperk,2,,10
-9203LA,Blaauboerperk,2,,1
-9203LA,Blaauboerperk,2,,5
-9203LA,Blaauboerperk,2,,6
-9203LA,Blaauboerperk,2,,3
-9203LA,Blaauboerperk,2,,4
-9203LA,Blaauboerperk,2,,33
-9203LA,Blaauboerperk,2,,30
-9203LA,Blaauboerperk,2,,32
-9203LA,Blaauboerperk,2,,21
-9203LA,Blaauboerperk,2,,17
-9203LA,Blaauboerperk,2,,20
-9203LA,Blaauboerperk,2,,22
-9203LA,Blaauboerperk,2,,18
-9203LA,Blaauboerperk,2,,23
-9203LA,Blaauboerperk,2,,24
-9203LA,Blaauboerperk,2,,25
-9203LA,Blaauboerperk,2,,31
-9203LA,Blaauboerperk,20,,
-9203LA,Blaauboerperk,2,,34
-9203LA,Blaauboerperk,28,,
-9203LA,Blaauboerperk,2,,19
-9203LA,Blaauboerperk,2,,26
-9203LA,Blaauboerperk,34,,
-9203DN,Douwstraweg,11,,
-9203DN,Douwstraweg,15,,
-9203DN,Douwstraweg,25,,
-9203DN,Douwstraweg,3,,
-9203DN,Douwstraweg,5,,
-9203DN,Douwstraweg,9,,
-9203DN,Douwstraweg,17,,
-9203DN,Douwstraweg,19,,
-9203KW,Hopperus Bumaperk,3,,
-9203KX,Hopperus Bumaperk,24,,
-9203KV,Manger Catsperk,2,,14
-9203KV,Manger Catsperk,2,,27
-9203KR,Reidingweg,8,,
-9203KR,Reidingweg,88,,
-9203KR,Reidingweg,62,,
-9203KR,Reidingweg,25,,
-9203KR,Reidingweg,32,,
-9203KR,Reidingweg,60,,
-9203KR,Reidingweg,1,,
-9203DR,Mevrouw De Rooweg,67,,
-9203DR,Mevrouw De Rooweg,55,,
-9203DR,Mevrouw De Rooweg,31,,
-9203DS,Mevrouw De Rooweg,73,,
-9203DT,Mevrouw De Rooweg,163,,
-9203DT,Mevrouw De Rooweg,149,,
-9203LC,Fabriciuslaan,1,,43
-9203LC,Fabriciuslaan,1,,21
-9203LC,Fabriciuslaan,1,,49
-9203RJ,Gauke Boelensstraat,39,,
-9203RJ,Gauke Boelensstraat,1,,
-9203RK,Gauke Boelensstraat,75,,
-9203KL,Burgemeester Wuiteweg,56,,
-9203KL,Burgemeester Wuiteweg,54,,
-9203KL,Burgemeester Wuiteweg,24,,
-9203KL,Burgemeester Wuiteweg,38,,
-9203KL,Burgemeester Wuiteweg,56,a,
-9203KL,Burgemeester Wuiteweg,56,,
-9203KM,Burgemeester Wuiteweg,76,,
-9203KN,Burgemeester Wuiteweg,94,,
-9203KN,Burgemeester Wuiteweg,136,,
-9203KN,Burgemeester Wuiteweg,108,,
-9203KN,Burgemeester Wuiteweg,136,,3
-9203KN,Burgemeester Wuiteweg,136,,8
-9203KN,Burgemeester Wuiteweg,136,,13
-9203KN,Burgemeester Wuiteweg,136,,17
-9203KN,Burgemeester Wuiteweg,136,,2
-9203KN,Burgemeester Wuiteweg,73,,7
-9203KN,Burgemeester Wuiteweg,136,,7
-9203KN,Burgemeester Wuiteweg,136,,12
-9203KN,Burgemeester Wuiteweg,136,,16
-9203KN,Burgemeester Wuiteweg,136,,1
-9203KN,Burgemeester Wuiteweg,136,,6
-9203KN,Burgemeester Wuiteweg,136,,11
-9203KN,Burgemeester Wuiteweg,136,,15
-9203KN,Burgemeester Wuiteweg,136,,
-9203KN,Burgemeester Wuiteweg,136,,5
-9203KN,Burgemeester Wuiteweg,136,,10
-9203KN,Burgemeester Wuiteweg,134,,
-9203KN,Burgemeester Wuiteweg,132,,
-9203KN,Burgemeester Wuiteweg,130,,
-9203KN,Burgemeester Wuiteweg,128,,
-9203KN,Burgemeester Wuiteweg,126,,
-9203KN,Burgemeester Wuiteweg,124,,
-9203KN,Burgemeester Wuiteweg,122,,
-9203KN,Burgemeester Wuiteweg,120,,
-9203KN,Burgemeester Wuiteweg,136,,14
-9203KN,Burgemeester Wuiteweg,136,,9
-9203KN,Burgemeester Wuiteweg,136,,4
-9203KS,Kiryat-Onoplein,69,,
-9203KS,Kiryat-Onoplein,39,,
-9203KS,Kiryat-Onoplein,63,,
-9203KS,Kiryat-Onoplein,15,,
-9203KS,Kiryat-Onoplein,85,a,
-9203KZ,Blaauboerperk,15,,
-9203LA,Blaauboerperk,2,,2
-9203LA,Blaauboerperk,2,,9
-9203LA,Blaauboerperk,2,,8
-9203LA,Blaauboerperk,2,,7
-9203LA,Blaauboerperk,2,,28
-9203LA,Blaauboerperk,2,,27
-9203LA,Blaauboerperk,12,,
-9203LA,Blaauboerperk,18,,
-9203KL,Laweiplein,1,,
-9203KL,Laweiplein ,1,,
-9203DN,Douwstraweg,1,,
-9203DN,Douwstraweg,27,,
-9203DN,Douwstraweg,29,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Douwstraweg,1,"","",9203DN,Drachten
+Douwstraweg,11,"","",9203DN,Drachten
+Douwstraweg,13,"","",9203DN,Drachten
+Douwstraweg,15,"","",9203DN,Drachten
+Douwstraweg,17,"","",9203DN,Drachten
+Douwstraweg,19,"","",9203DN,Drachten
+Douwstraweg,21,"","",9203DN,Drachten
+Douwstraweg,23,"","",9203DN,Drachten
+Douwstraweg,25,"","",9203DN,Drachten
+Douwstraweg,27,"","",9203DN,Drachten
+Douwstraweg,29,"","",9203DN,Drachten
+Douwstraweg,3,"","",9203DN,Drachten
+Douwstraweg,5,"","",9203DN,Drachten
+Douwstraweg,7,"","",9203DN,Drachten
+Douwstraweg,9,"","",9203DN,Drachten
+Mevrouw De Rooweg,1,"","",9203DR,Drachten
+Mevrouw De Rooweg,11,"","",9203DR,Drachten
+Mevrouw De Rooweg,13,"","",9203DR,Drachten
+Mevrouw De Rooweg,15,"","",9203DR,Drachten
+Mevrouw De Rooweg,17,"","",9203DR,Drachten
+Mevrouw De Rooweg,19,"","",9203DR,Drachten
+Mevrouw De Rooweg,2,"","",9203DR,Drachten
+Mevrouw De Rooweg,21,"","",9203DR,Drachten
+Mevrouw De Rooweg,23,"","",9203DR,Drachten
+Mevrouw De Rooweg,25,"","",9203DR,Drachten
+Mevrouw De Rooweg,27,"","",9203DR,Drachten
+Mevrouw De Rooweg,29,"","",9203DR,Drachten
+Mevrouw De Rooweg,3,"","",9203DR,Drachten
+Mevrouw De Rooweg,31,"","",9203DR,Drachten
+Mevrouw De Rooweg,33,"","",9203DR,Drachten
+Mevrouw De Rooweg,33,A,"",9203DR,Drachten
+Mevrouw De Rooweg,35,"","",9203DR,Drachten
+Mevrouw De Rooweg,37,"","",9203DR,Drachten
+Mevrouw De Rooweg,39,"","",9203DR,Drachten
+Mevrouw De Rooweg,41,"","",9203DR,Drachten
+Mevrouw De Rooweg,43,"","",9203DR,Drachten
+Mevrouw De Rooweg,45,"","",9203DR,Drachten
+Mevrouw De Rooweg,47,"","",9203DR,Drachten
+Mevrouw De Rooweg,49,"","",9203DR,Drachten
+Mevrouw De Rooweg,5,"","",9203DR,Drachten
+Mevrouw De Rooweg,51,"","",9203DR,Drachten
+Mevrouw De Rooweg,53,"","",9203DR,Drachten
+Mevrouw De Rooweg,55,"","",9203DR,Drachten
+Mevrouw De Rooweg,57,"","",9203DR,Drachten
+Mevrouw De Rooweg,59,"","",9203DR,Drachten
+Mevrouw De Rooweg,61,"","",9203DR,Drachten
+Mevrouw De Rooweg,63,"","",9203DR,Drachten
+Mevrouw De Rooweg,65,"","",9203DR,Drachten
+Mevrouw De Rooweg,67,"","",9203DR,Drachten
+Mevrouw De Rooweg,7,"","",9203DR,Drachten
+Mevrouw De Rooweg,9,"","",9203DR,Drachten
+Mevrouw De Rooweg,101,"","",9203DS,Drachten
+Mevrouw De Rooweg,101,A,"",9203DS,Drachten
+Mevrouw De Rooweg,103,"","",9203DS,Drachten
+Mevrouw De Rooweg,105,"","",9203DS,Drachten
+Mevrouw De Rooweg,107,"","",9203DS,Drachten
+Mevrouw De Rooweg,109,"","",9203DS,Drachten
+Mevrouw De Rooweg,111,"","",9203DS,Drachten
+Mevrouw De Rooweg,113,"","",9203DS,Drachten
+Mevrouw De Rooweg,115,"","",9203DS,Drachten
+Mevrouw De Rooweg,117,"","",9203DS,Drachten
+Mevrouw De Rooweg,119,"","",9203DS,Drachten
+Mevrouw De Rooweg,121,"","",9203DS,Drachten
+Mevrouw De Rooweg,123,"","",9203DS,Drachten
+Mevrouw De Rooweg,125,"","",9203DS,Drachten
+Mevrouw De Rooweg,127,"","",9203DS,Drachten
+Mevrouw De Rooweg,129,"","",9203DS,Drachten
+Mevrouw De Rooweg,131,"","",9203DS,Drachten
+Mevrouw De Rooweg,133,"","",9203DS,Drachten
+Mevrouw De Rooweg,135,"","",9203DS,Drachten
+Mevrouw De Rooweg,69,"","",9203DS,Drachten
+Mevrouw De Rooweg,71,"","",9203DS,Drachten
+Mevrouw De Rooweg,73,"","",9203DS,Drachten
+Mevrouw De Rooweg,75,"","",9203DS,Drachten
+Mevrouw De Rooweg,77,"","",9203DS,Drachten
+Mevrouw De Rooweg,79,"","",9203DS,Drachten
+Mevrouw De Rooweg,81,"","",9203DS,Drachten
+Mevrouw De Rooweg,83,"","",9203DS,Drachten
+Mevrouw De Rooweg,85,"","",9203DS,Drachten
+Mevrouw De Rooweg,87,"","",9203DS,Drachten
+Mevrouw De Rooweg,89,"","",9203DS,Drachten
+Mevrouw De Rooweg,91,"","",9203DS,Drachten
+Mevrouw De Rooweg,93,"","",9203DS,Drachten
+Mevrouw De Rooweg,95,"","",9203DS,Drachten
+Mevrouw De Rooweg,97,"","",9203DS,Drachten
+Mevrouw De Rooweg,99,"","",9203DS,Drachten
+Mevrouw De Rooweg,137,"","",9203DT,Drachten
+Mevrouw De Rooweg,139,"","",9203DT,Drachten
+Mevrouw De Rooweg,141,"","",9203DT,Drachten
+Mevrouw De Rooweg,143,"","",9203DT,Drachten
+Mevrouw De Rooweg,145,"","",9203DT,Drachten
+Mevrouw De Rooweg,147,"","",9203DT,Drachten
+Mevrouw De Rooweg,149,"","",9203DT,Drachten
+Mevrouw De Rooweg,151,"","",9203DT,Drachten
+Mevrouw De Rooweg,153,"","",9203DT,Drachten
+Mevrouw De Rooweg,155,"","",9203DT,Drachten
+Mevrouw De Rooweg,157,"","",9203DT,Drachten
+Mevrouw De Rooweg,159,"","",9203DT,Drachten
+Mevrouw De Rooweg,161,"","",9203DT,Drachten
+Mevrouw De Rooweg,163,"","",9203DT,Drachten
+Mevrouw De Rooweg,165,"","",9203DT,Drachten
+Mevrouw De Rooweg,167,"","",9203DT,Drachten
+Mevrouw De Rooweg,169,"","",9203DT,Drachten
+Mevrouw De Rooweg,169,A,"",9203DT,Drachten
+Mevrouw De Rooweg,171,"","",9203DT,Drachten
+Mevrouw De Rooweg,173,"","",9203DT,Drachten
+Mevrouw De Rooweg,175,"","",9203DT,Drachten
+Mevrouw De Rooweg,177,"","",9203DT,Drachten
+Mevrouw De Rooweg,179,"","",9203DT,Drachten
+Mevrouw De Rooweg,181,"","",9203DT,Drachten
+Mevrouw De Rooweg,183,"","",9203DT,Drachten
+Mevrouw De Rooweg,185,"","",9203DT,Drachten
+Mevrouw De Rooweg,187,"","",9203DT,Drachten
+Mevrouw De Rooweg,189,"","",9203DT,Drachten
+Mevrouw De Rooweg,191,"","",9203DT,Drachten
+Mevrouw De Rooweg,193,"","",9203DT,Drachten
+Mevrouw De Rooweg,195,"","",9203DT,Drachten
+Mevrouw De Rooweg,197,"","",9203DT,Drachten
+Mevrouw De Rooweg,199,"","",9203DT,Drachten
+Mevrouw De Rooweg,201,"","",9203DT,Drachten
+Mevrouw De Rooweg,203,"","",9203DT,Drachten
+Laweiplein,1,"","",9203KL,Drachten
+Burgemeester Wuiteweg,24,"","",9203KL,Drachten
+Burgemeester Wuiteweg,38,"","",9203KL,Drachten
+Burgemeester Wuiteweg,50,"","",9203KL,Drachten
+Burgemeester Wuiteweg,52,"","",9203KL,Drachten
+Burgemeester Wuiteweg,54,"","",9203KL,Drachten
+Burgemeester Wuiteweg,54,A,"",9203KL,Drachten
+Burgemeester Wuiteweg,56,"","",9203KL,Drachten
+Burgemeester Wuiteweg,56,"","",9203KL,Drachten
+Burgemeester Wuiteweg,56,"","",9203KL,Drachten
+Burgemeester Wuiteweg,56,"",2,9203KL,Drachten
+Burgemeester Wuiteweg,56,A,"",9203KL,Drachten
+Burgemeester Wuiteweg,56,B,"",9203KL,Drachten
+Burgemeester Wuiteweg,58,"","",9203KM,Drachten
+Burgemeester Wuiteweg,60,"","",9203KM,Drachten
+Burgemeester Wuiteweg,62,"","",9203KM,Drachten
+Burgemeester Wuiteweg,64,"","",9203KM,Drachten
+Burgemeester Wuiteweg,66,"","",9203KM,Drachten
+Burgemeester Wuiteweg,66,"",1,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",10,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",11,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",2,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",3,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",4,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",5,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",6,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",7,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",8,9203KM,Drachten
+Burgemeester Wuiteweg,66,"",9,9203KM,Drachten
+Burgemeester Wuiteweg,68,"","",9203KM,Drachten
+Burgemeester Wuiteweg,70,"","",9203KM,Drachten
+Burgemeester Wuiteweg,72,"","",9203KM,Drachten
+Burgemeester Wuiteweg,74,"","",9203KM,Drachten
+Burgemeester Wuiteweg,76,"","",9203KM,Drachten
+Burgemeester Wuiteweg,78,"","",9203KM,Drachten
+Burgemeester Wuiteweg,80,"","",9203KM,Drachten
+Burgemeester Wuiteweg,82,"","",9203KM,Drachten
+Burgemeester Wuiteweg,84,"","",9203KM,Drachten
+Burgemeester Wuiteweg,86,"","",9203KM,Drachten
+Burgemeester Wuiteweg,88,"","",9203KM,Drachten
+Burgemeester Wuiteweg,90,"","",9203KM,Drachten
+Burgemeester Wuiteweg,92,"","",9203KM,Drachten
+Burgemeester Wuiteweg,102,"","",9203KN,Drachten
+Burgemeester Wuiteweg,104,"","",9203KN,Drachten
+Burgemeester Wuiteweg,106,"","",9203KN,Drachten
+Burgemeester Wuiteweg,108,"","",9203KN,Drachten
+Burgemeester Wuiteweg,110,"","",9203KN,Drachten
+Burgemeester Wuiteweg,112,"","",9203KN,Drachten
+Burgemeester Wuiteweg,114,"","",9203KN,Drachten
+Burgemeester Wuiteweg,118,"","",9203KN,Drachten
+Burgemeester Wuiteweg,120,"","",9203KN,Drachten
+Burgemeester Wuiteweg,122,"","",9203KN,Drachten
+Burgemeester Wuiteweg,124,"","",9203KN,Drachten
+Burgemeester Wuiteweg,126,"","",9203KN,Drachten
+Burgemeester Wuiteweg,128,"","",9203KN,Drachten
+Burgemeester Wuiteweg,130,"","",9203KN,Drachten
+Burgemeester Wuiteweg,132,"","",9203KN,Drachten
+Burgemeester Wuiteweg,134,"","",9203KN,Drachten
+Burgemeester Wuiteweg,136,"","",9203KN,Drachten
+Burgemeester Wuiteweg,136,"","",9203KN,Drachten
+Burgemeester Wuiteweg,136,"","",9203KN,Drachten
+Burgemeester Wuiteweg,136,"",1,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",10,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",11,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",12,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",13,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",14,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",15,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",16,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",17,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",2,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",3,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",4,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",5,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",6,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",7,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",8,9203KN,Drachten
+Burgemeester Wuiteweg,136,"",9,9203KN,Drachten
+Burgemeester Wuiteweg,138,"","",9203KN,Drachten
+Burgemeester Wuiteweg,138,"","",9203KN,Drachten
+Burgemeester Wuiteweg,138,A,"",9203KN,Drachten
+Burgemeester Wuiteweg,138,A,"",9203KN,Drachten
+Burgemeester Wuiteweg,73,"",7,9203KN,Drachten
+Burgemeester Wuiteweg,94,"","",9203KN,Drachten
+Burgemeester Wuiteweg,96,"","",9203KN,Drachten
+Burgemeester Wuiteweg,98,"","",9203KN,Drachten
+Reidingweg,1,"","",9203KR,Drachten
+Reidingweg,1,"","",9203KR,Drachten
+Reidingweg,1,"","",9203KR,Drachten
+Reidingweg,10,"","",9203KR,Drachten
+Reidingweg,11,"","",9203KR,Drachten
+Reidingweg,12,"","",9203KR,Drachten
+Reidingweg,13,"","",9203KR,Drachten
+Reidingweg,14,"","",9203KR,Drachten
+Reidingweg,15,"","",9203KR,Drachten
+Reidingweg,16,"","",9203KR,Drachten
+Reidingweg,17,"","",9203KR,Drachten
+Reidingweg,18,"","",9203KR,Drachten
+Reidingweg,19,"","",9203KR,Drachten
+Reidingweg,20,"","",9203KR,Drachten
+Reidingweg,21,"","",9203KR,Drachten
+Reidingweg,22,"","",9203KR,Drachten
+Reidingweg,23,"","",9203KR,Drachten
+Reidingweg,24,"","",9203KR,Drachten
+Reidingweg,25,"","",9203KR,Drachten
+Reidingweg,26,"","",9203KR,Drachten
+Reidingweg,28,"","",9203KR,Drachten
+Reidingweg,3,"","",9203KR,Drachten
+Reidingweg,30,"","",9203KR,Drachten
+Reidingweg,32,"","",9203KR,Drachten
+Reidingweg,34,"","",9203KR,Drachten
+Reidingweg,36,"","",9203KR,Drachten
+Reidingweg,38,"","",9203KR,Drachten
+Reidingweg,40,"","",9203KR,Drachten
+Reidingweg,42,"","",9203KR,Drachten
+Reidingweg,44,"","",9203KR,Drachten
+Reidingweg,46,"","",9203KR,Drachten
+Reidingweg,48,"","",9203KR,Drachten
+Reidingweg,5,"","",9203KR,Drachten
+Reidingweg,50,"","",9203KR,Drachten
+Reidingweg,52,"","",9203KR,Drachten
+Reidingweg,54,"","",9203KR,Drachten
+Reidingweg,56,"","",9203KR,Drachten
+Reidingweg,58,"","",9203KR,Drachten
+Reidingweg,6,"","",9203KR,Drachten
+Reidingweg,60,"","",9203KR,Drachten
+Reidingweg,62,"","",9203KR,Drachten
+Reidingweg,64,"","",9203KR,Drachten
+Reidingweg,66,"","",9203KR,Drachten
+Reidingweg,68,"","",9203KR,Drachten
+Reidingweg,7,"","",9203KR,Drachten
+Reidingweg,70,"","",9203KR,Drachten
+Reidingweg,72,"","",9203KR,Drachten
+Reidingweg,74,"","",9203KR,Drachten
+Reidingweg,76,"","",9203KR,Drachten
+Reidingweg,78,"","",9203KR,Drachten
+Reidingweg,8,"","",9203KR,Drachten
+Reidingweg,80,"","",9203KR,Drachten
+Reidingweg,82,"","",9203KR,Drachten
+Reidingweg,84,"","",9203KR,Drachten
+Reidingweg,86,"","",9203KR,Drachten
+Reidingweg,88,"","",9203KR,Drachten
+Reidingweg,9,"","",9203KR,Drachten
+Reidingweg,90,"","",9203KR,Drachten
+Reidingweg,92,"","",9203KR,Drachten
+Reidingweg,94,"","",9203KR,Drachten
+Reidingweg,94,A,"",9203KR,Drachten
+Reidingweg,96,"","",9203KR,Drachten
+Kiryat-Onoplein,1,"","",9203KS,Drachten
+Kiryat-Onoplein,101,"","",9203KS,Drachten
+Kiryat-Onoplein,103,"","",9203KS,Drachten
+Kiryat-Onoplein,105,"","",9203KS,Drachten
+Kiryat-Onoplein,107,"","",9203KS,Drachten
+Kiryat-Onoplein,109,"","",9203KS,Drachten
+Kiryat-Onoplein,11,"","",9203KS,Drachten
+Kiryat-Onoplein,111,"","",9203KS,Drachten
+Kiryat-Onoplein,113,"","",9203KS,Drachten
+Kiryat-Onoplein,13,"","",9203KS,Drachten
+Kiryat-Onoplein,15,"","",9203KS,Drachten
+Kiryat-Onoplein,17,"","",9203KS,Drachten
+Kiryat-Onoplein,19,"","",9203KS,Drachten
+Kiryat-Onoplein,21,"","",9203KS,Drachten
+Kiryat-Onoplein,23,"","",9203KS,Drachten
+Kiryat-Onoplein,25,"","",9203KS,Drachten
+Kiryat-Onoplein,27,"","",9203KS,Drachten
+Kiryat-Onoplein,29,"","",9203KS,Drachten
+Kiryat-Onoplein,3,"","",9203KS,Drachten
+Kiryat-Onoplein,31,"","",9203KS,Drachten
+Kiryat-Onoplein,33,"","",9203KS,Drachten
+Kiryat-Onoplein,35,"","",9203KS,Drachten
+Kiryat-Onoplein,37,"","",9203KS,Drachten
+Kiryat-Onoplein,39,"","",9203KS,Drachten
+Kiryat-Onoplein,41,"","",9203KS,Drachten
+Kiryat-Onoplein,43,"","",9203KS,Drachten
+Kiryat-Onoplein,45,"","",9203KS,Drachten
+Kiryat-Onoplein,47,"","",9203KS,Drachten
+Kiryat-Onoplein,49,"","",9203KS,Drachten
+Kiryat-Onoplein,5,"","",9203KS,Drachten
+Kiryat-Onoplein,51,"","",9203KS,Drachten
+Kiryat-Onoplein,53,"","",9203KS,Drachten
+Kiryat-Onoplein,55,"","",9203KS,Drachten
+Kiryat-Onoplein,57,"","",9203KS,Drachten
+Kiryat-Onoplein,59,"","",9203KS,Drachten
+Kiryat-Onoplein,61,"","",9203KS,Drachten
+Kiryat-Onoplein,63,"","",9203KS,Drachten
+Kiryat-Onoplein,65,"","",9203KS,Drachten
+Kiryat-Onoplein,67,"","",9203KS,Drachten
+Kiryat-Onoplein,69,"","",9203KS,Drachten
+Kiryat-Onoplein,7,"","",9203KS,Drachten
+Kiryat-Onoplein,71,"","",9203KS,Drachten
+Kiryat-Onoplein,73,"","",9203KS,Drachten
+Kiryat-Onoplein,75,"","",9203KS,Drachten
+Kiryat-Onoplein,77,"","",9203KS,Drachten
+Kiryat-Onoplein,79,"","",9203KS,Drachten
+Kiryat-Onoplein,81,"","",9203KS,Drachten
+Kiryat-Onoplein,83,"","",9203KS,Drachten
+Kiryat-Onoplein,85,"","",9203KS,Drachten
+Kiryat-Onoplein,85,A,"",9203KS,Drachten
+Kiryat-Onoplein,87,"","",9203KS,Drachten
+Kiryat-Onoplein,89,"","",9203KS,Drachten
+Kiryat-Onoplein,9,"","",9203KS,Drachten
+Kiryat-Onoplein,91,"","",9203KS,Drachten
+Kiryat-Onoplein,93,"","",9203KS,Drachten
+Kiryat-Onoplein,95,"","",9203KS,Drachten
+Kiryat-Onoplein,97,"","",9203KS,Drachten
+Kiryat-Onoplein,99,"","",9203KS,Drachten
+Manger Catsperk,1,"","",9203KT,Drachten
+Manger Catsperk,11,"","",9203KT,Drachten
+Manger Catsperk,13,"","",9203KT,Drachten
+Manger Catsperk,15,"","",9203KT,Drachten
+Manger Catsperk,17,"","",9203KT,Drachten
+Manger Catsperk,19,"","",9203KT,Drachten
+Manger Catsperk,21,"","",9203KT,Drachten
+Manger Catsperk,23,"","",9203KT,Drachten
+Manger Catsperk,25,"","",9203KT,Drachten
+Manger Catsperk,27,"","",9203KT,Drachten
+Manger Catsperk,29,"","",9203KT,Drachten
+Manger Catsperk,3,"","",9203KT,Drachten
+Manger Catsperk,31,"","",9203KT,Drachten
+Manger Catsperk,5,"","",9203KT,Drachten
+Manger Catsperk,7,"","",9203KT,Drachten
+Manger Catsperk,9,"","",9203KT,Drachten
+Manger Catsperk,10,"","",9203KV,Drachten
+Manger Catsperk,12,"","",9203KV,Drachten
+Manger Catsperk,14,"","",9203KV,Drachten
+Manger Catsperk,16,"","",9203KV,Drachten
+Manger Catsperk,18,"","",9203KV,Drachten
+Manger Catsperk,2,"","",9203KV,Drachten
+Manger Catsperk,2,"",1,9203KV,Drachten
+Manger Catsperk,2,"",10,9203KV,Drachten
+Manger Catsperk,2,"",11,9203KV,Drachten
+Manger Catsperk,2,"",12,9203KV,Drachten
+Manger Catsperk,2,"",13,9203KV,Drachten
+Manger Catsperk,2,"",14,9203KV,Drachten
+Manger Catsperk,2,"",15,9203KV,Drachten
+Manger Catsperk,2,"",16,9203KV,Drachten
+Manger Catsperk,2,"",17,9203KV,Drachten
+Manger Catsperk,2,"",18,9203KV,Drachten
+Manger Catsperk,2,"",19,9203KV,Drachten
+Manger Catsperk,2,"",2,9203KV,Drachten
+Manger Catsperk,2,"",20,9203KV,Drachten
+Manger Catsperk,2,"",21,9203KV,Drachten
+Manger Catsperk,2,"",22,9203KV,Drachten
+Manger Catsperk,2,"",23,9203KV,Drachten
+Manger Catsperk,2,"",24,9203KV,Drachten
+Manger Catsperk,2,"",25,9203KV,Drachten
+Manger Catsperk,2,"",26,9203KV,Drachten
+Manger Catsperk,2,"",27,9203KV,Drachten
+Manger Catsperk,2,"",3,9203KV,Drachten
+Manger Catsperk,2,"",4,9203KV,Drachten
+Manger Catsperk,2,"",5,9203KV,Drachten
+Manger Catsperk,2,"",6,9203KV,Drachten
+Manger Catsperk,2,"",7,9203KV,Drachten
+Manger Catsperk,2,"",8,9203KV,Drachten
+Manger Catsperk,2,"",9,9203KV,Drachten
+Manger Catsperk,2,A,"",9203KV,Drachten
+Manger Catsperk,20,"","",9203KV,Drachten
+Manger Catsperk,22,"","",9203KV,Drachten
+Manger Catsperk,24,"","",9203KV,Drachten
+Manger Catsperk,26,"","",9203KV,Drachten
+Manger Catsperk,28,"","",9203KV,Drachten
+Manger Catsperk,30,"","",9203KV,Drachten
+Manger Catsperk,32,"","",9203KV,Drachten
+Manger Catsperk,34,"","",9203KV,Drachten
+Manger Catsperk,36,"","",9203KV,Drachten
+Manger Catsperk,38,"","",9203KV,Drachten
+Manger Catsperk,4,"","",9203KV,Drachten
+Manger Catsperk,40,"","",9203KV,Drachten
+Manger Catsperk,6,"","",9203KV,Drachten
+Manger Catsperk,8,"","",9203KV,Drachten
+Hopperus Bumaperk,1,"","",9203KW,Drachten
+Hopperus Bumaperk,11,"","",9203KW,Drachten
+Hopperus Bumaperk,13,"","",9203KW,Drachten
+Hopperus Bumaperk,15,"","",9203KW,Drachten
+Hopperus Bumaperk,17,"","",9203KW,Drachten
+Hopperus Bumaperk,19,"","",9203KW,Drachten
+Hopperus Bumaperk,21,"","",9203KW,Drachten
+Hopperus Bumaperk,23,"","",9203KW,Drachten
+Hopperus Bumaperk,25,"","",9203KW,Drachten
+Hopperus Bumaperk,27,"","",9203KW,Drachten
+Hopperus Bumaperk,29,"","",9203KW,Drachten
+Hopperus Bumaperk,3,"","",9203KW,Drachten
+Hopperus Bumaperk,31,"","",9203KW,Drachten
+Hopperus Bumaperk,5,"","",9203KW,Drachten
+Hopperus Bumaperk,7,"","",9203KW,Drachten
+Hopperus Bumaperk,9,"","",9203KW,Drachten
+Hopperus Bumaperk,10,"","",9203KX,Drachten
+Hopperus Bumaperk,12,"","",9203KX,Drachten
+Hopperus Bumaperk,14,"","",9203KX,Drachten
+Hopperus Bumaperk,16,"","",9203KX,Drachten
+Hopperus Bumaperk,18,"","",9203KX,Drachten
+Hopperus Bumaperk,2,"","",9203KX,Drachten
+Hopperus Bumaperk,2,A,"",9203KX,Drachten
+Hopperus Bumaperk,2,B,"",9203KX,Drachten
+Hopperus Bumaperk,2,C,"",9203KX,Drachten
+Hopperus Bumaperk,2,D,"",9203KX,Drachten
+Hopperus Bumaperk,2,E,"",9203KX,Drachten
+Hopperus Bumaperk,2,F,"",9203KX,Drachten
+Hopperus Bumaperk,2,G,"",9203KX,Drachten
+Hopperus Bumaperk,2,H,"",9203KX,Drachten
+Hopperus Bumaperk,2,I,"",9203KX,Drachten
+Hopperus Bumaperk,2,J,"",9203KX,Drachten
+Hopperus Bumaperk,2,K,"",9203KX,Drachten
+Hopperus Bumaperk,2,L,"",9203KX,Drachten
+Hopperus Bumaperk,2,M,"",9203KX,Drachten
+Hopperus Bumaperk,2,N,"",9203KX,Drachten
+Hopperus Bumaperk,2,O,"",9203KX,Drachten
+Hopperus Bumaperk,2,P,"",9203KX,Drachten
+Hopperus Bumaperk,2,Q,"",9203KX,Drachten
+Hopperus Bumaperk,2,R,"",9203KX,Drachten
+Hopperus Bumaperk,2,S,"",9203KX,Drachten
+Hopperus Bumaperk,2,T,"",9203KX,Drachten
+Hopperus Bumaperk,2,U,"",9203KX,Drachten
+Hopperus Bumaperk,2,V,"",9203KX,Drachten
+Hopperus Bumaperk,2,W,"",9203KX,Drachten
+Hopperus Bumaperk,2,X,"",9203KX,Drachten
+Hopperus Bumaperk,2,Y,"",9203KX,Drachten
+Hopperus Bumaperk,2,Z,"",9203KX,Drachten
+Hopperus Bumaperk,20,"","",9203KX,Drachten
+Hopperus Bumaperk,22,"","",9203KX,Drachten
+Hopperus Bumaperk,24,"","",9203KX,Drachten
+Hopperus Bumaperk,26,"","",9203KX,Drachten
+Hopperus Bumaperk,28,"","",9203KX,Drachten
+Hopperus Bumaperk,30,"","",9203KX,Drachten
+Hopperus Bumaperk,32,"","",9203KX,Drachten
+Hopperus Bumaperk,34,"","",9203KX,Drachten
+Hopperus Bumaperk,36,"","",9203KX,Drachten
+Hopperus Bumaperk,38,"","",9203KX,Drachten
+Hopperus Bumaperk,4,"","",9203KX,Drachten
+Hopperus Bumaperk,40,"","",9203KX,Drachten
+Hopperus Bumaperk,6,"","",9203KX,Drachten
+Hopperus Bumaperk,8,"","",9203KX,Drachten
+Blaauboerperk,11,"","",9203KZ,Drachten
+Blaauboerperk,13,"","",9203KZ,Drachten
+Blaauboerperk,15,"","",9203KZ,Drachten
+Blaauboerperk,17,"","",9203KZ,Drachten
+Blaauboerperk,19,"","",9203KZ,Drachten
+Blaauboerperk,21,"","",9203KZ,Drachten
+Blaauboerperk,23,"","",9203KZ,Drachten
+Blaauboerperk,25,"","",9203KZ,Drachten
+Blaauboerperk,27,"","",9203KZ,Drachten
+Blaauboerperk,29,"","",9203KZ,Drachten
+Blaauboerperk,31,"","",9203KZ,Drachten
+Blaauboerperk,5,"","",9203KZ,Drachten
+Blaauboerperk,7,"","",9203KZ,Drachten
+Blaauboerperk,9,"","",9203KZ,Drachten
+Blaauboerperk,10,"","",9203LA,Drachten
+Blaauboerperk,12,"","",9203LA,Drachten
+Blaauboerperk,14,"","",9203LA,Drachten
+Blaauboerperk,16,"","",9203LA,Drachten
+Blaauboerperk,18,"","",9203LA,Drachten
+Blaauboerperk,2,"","",9203LA,Drachten
+Blaauboerperk,2,"",1,9203LA,Drachten
+Blaauboerperk,2,"",10,9203LA,Drachten
+Blaauboerperk,2,"",11,9203LA,Drachten
+Blaauboerperk,2,"",12,9203LA,Drachten
+Blaauboerperk,2,"",17,9203LA,Drachten
+Blaauboerperk,2,"",18,9203LA,Drachten
+Blaauboerperk,2,"",19,9203LA,Drachten
+Blaauboerperk,2,"",2,9203LA,Drachten
+Blaauboerperk,2,"",20,9203LA,Drachten
+Blaauboerperk,2,"",21,9203LA,Drachten
+Blaauboerperk,2,"",22,9203LA,Drachten
+Blaauboerperk,2,"",23,9203LA,Drachten
+Blaauboerperk,2,"",24,9203LA,Drachten
+Blaauboerperk,2,"",25,9203LA,Drachten
+Blaauboerperk,2,"",26,9203LA,Drachten
+Blaauboerperk,2,"",27,9203LA,Drachten
+Blaauboerperk,2,"",28,9203LA,Drachten
+Blaauboerperk,2,"",29,9203LA,Drachten
+Blaauboerperk,2,"",3,9203LA,Drachten
+Blaauboerperk,2,"",30,9203LA,Drachten
+Blaauboerperk,2,"",31,9203LA,Drachten
+Blaauboerperk,2,"",32,9203LA,Drachten
+Blaauboerperk,2,"",33,9203LA,Drachten
+Blaauboerperk,2,"",34,9203LA,Drachten
+Blaauboerperk,2,"",4,9203LA,Drachten
+Blaauboerperk,2,"",5,9203LA,Drachten
+Blaauboerperk,2,"",6,9203LA,Drachten
+Blaauboerperk,2,"",7,9203LA,Drachten
+Blaauboerperk,2,"",8,9203LA,Drachten
+Blaauboerperk,2,"",9,9203LA,Drachten
+Blaauboerperk,20,"","",9203LA,Drachten
+Blaauboerperk,22,"","",9203LA,Drachten
+Blaauboerperk,24,"","",9203LA,Drachten
+Blaauboerperk,26,"","",9203LA,Drachten
+Blaauboerperk,28,"","",9203LA,Drachten
+Blaauboerperk,30,"","",9203LA,Drachten
+Blaauboerperk,32,"","",9203LA,Drachten
+Blaauboerperk,34,"","",9203LA,Drachten
+Blaauboerperk,36,"","",9203LA,Drachten
+Blaauboerperk,38,"","",9203LA,Drachten
+Blaauboerperk,4,"","",9203LA,Drachten
+Blaauboerperk,40,"","",9203LA,Drachten
+Blaauboerperk,42,"","",9203LA,Drachten
+Blaauboerperk,6,"","",9203LA,Drachten
+Blaauboerperk,8,"","",9203LA,Drachten
+Fabriciuslaan,73,"","",9203LB,Drachten
+Fabriciuslaan,75,"","",9203LB,Drachten
+Fabriciuslaan,77,"","",9203LB,Drachten
+Fabriciuslaan,79,"","",9203LB,Drachten
+Fabriciuslaan,81,"","",9203LB,Drachten
+Fabriciuslaan,83,"","",9203LB,Drachten
+Fabriciuslaan,85,"","",9203LB,Drachten
+Fabriciuslaan,87,"","",9203LB,Drachten
+Fabriciuslaan,89,"","",9203LB,Drachten
+Fabriciuslaan,91,"","",9203LB,Drachten
+Fabriciuslaan,1,"",1,9203LC,Drachten
+Fabriciuslaan,1,"",11,9203LC,Drachten
+Fabriciuslaan,1,"",13,9203LC,Drachten
+Fabriciuslaan,1,"",15,9203LC,Drachten
+Fabriciuslaan,1,"",17,9203LC,Drachten
+Fabriciuslaan,1,"",19,9203LC,Drachten
+Fabriciuslaan,1,"",21,9203LC,Drachten
+Fabriciuslaan,1,"",23,9203LC,Drachten
+Fabriciuslaan,1,"",25,9203LC,Drachten
+Fabriciuslaan,1,"",27,9203LC,Drachten
+Fabriciuslaan,1,"",29,9203LC,Drachten
+Fabriciuslaan,1,"",3,9203LC,Drachten
+Fabriciuslaan,1,"",31,9203LC,Drachten
+Fabriciuslaan,1,"",33,9203LC,Drachten
+Fabriciuslaan,1,"",35,9203LC,Drachten
+Fabriciuslaan,1,"",37,9203LC,Drachten
+Fabriciuslaan,1,"",39,9203LC,Drachten
+Fabriciuslaan,1,"",41,9203LC,Drachten
+Fabriciuslaan,1,"",43,9203LC,Drachten
+Fabriciuslaan,1,"",45,9203LC,Drachten
+Fabriciuslaan,1,"",47,9203LC,Drachten
+Fabriciuslaan,1,"",49,9203LC,Drachten
+Fabriciuslaan,1,"",5,9203LC,Drachten
+Fabriciuslaan,1,"",51,9203LC,Drachten
+Fabriciuslaan,1,"",53,9203LC,Drachten
+Fabriciuslaan,1,"",54,9203LC,Drachten
+Fabriciuslaan,1,"",54,9203LC,Drachten
+Fabriciuslaan,1,"",7,9203LC,Drachten
+Fabriciuslaan,1,"",9,9203LC,Drachten
+Fabriciuslaan,3,"",10,9203LC,Drachten
+Fabriciuslaan,3,"",12,9203LC,Drachten
+Fabriciuslaan,3,"",14,9203LC,Drachten
+Fabriciuslaan,3,"",16,9203LC,Drachten
+Fabriciuslaan,3,"",18,9203LC,Drachten
+Fabriciuslaan,3,"",2,9203LC,Drachten
+Fabriciuslaan,3,"",20,9203LC,Drachten
+Fabriciuslaan,3,"",22,9203LC,Drachten
+Fabriciuslaan,3,"",24,9203LC,Drachten
+Fabriciuslaan,3,"",26,9203LC,Drachten
+Fabriciuslaan,3,"",28,9203LC,Drachten
+Fabriciuslaan,3,"",30,9203LC,Drachten
+Fabriciuslaan,3,"",32,9203LC,Drachten
+Fabriciuslaan,3,"",34,9203LC,Drachten
+Fabriciuslaan,3,"",36,9203LC,Drachten
+Fabriciuslaan,3,"",38,9203LC,Drachten
+Fabriciuslaan,3,"",4,9203LC,Drachten
+Fabriciuslaan,3,"",40,9203LC,Drachten
+Fabriciuslaan,3,"",42,9203LC,Drachten
+Fabriciuslaan,3,"",44,9203LC,Drachten
+Fabriciuslaan,3,"",46,9203LC,Drachten
+Fabriciuslaan,3,"",48,9203LC,Drachten
+Fabriciuslaan,3,"",50,9203LC,Drachten
+Fabriciuslaan,3,"",52,9203LC,Drachten
+Fabriciuslaan,3,"",54,9203LC,Drachten
+Fabriciuslaan,3,"",55,9203LC,Drachten
+Fabriciuslaan,3,"",55,9203LC,Drachten
+Fabriciuslaan,3,"",6,9203LC,Drachten
+Fabriciuslaan,3,"",8,9203LC,Drachten
+Gauke Boelensstraat,1,"","",9203RJ,Drachten
+Gauke Boelensstraat,1,"","",9203RJ,Drachten
+Gauke Boelensstraat,1,"","",9203RJ,Drachten
+Gauke Boelensstraat,31,"","",9203RJ,Drachten
+Gauke Boelensstraat,33,"","",9203RJ,Drachten
+Gauke Boelensstraat,35,"","",9203RJ,Drachten
+Gauke Boelensstraat,37,"","",9203RJ,Drachten
+Gauke Boelensstraat,39,"","",9203RJ,Drachten
+Gauke Boelensstraat,41,"","",9203RJ,Drachten
+Gauke Boelensstraat,43,"","",9203RJ,Drachten
+Gauke Boelensstraat,45,"","",9203RJ,Drachten
+Gauke Boelensstraat,47,"","",9203RJ,Drachten
+Gauke Boelensstraat,49,"","",9203RJ,Drachten
+Gauke Boelensstraat,51,"","",9203RJ,Drachten
+Gauke Boelensstraat,53,"","",9203RJ,Drachten
+Gauke Boelensstraat,55,"","",9203RJ,Drachten
+Gauke Boelensstraat,57,"","",9203RJ,Drachten
+Gauke Boelensstraat,59,"","",9203RJ,Drachten
+Gauke Boelensstraat,61,"","",9203RJ,Drachten
+Gauke Boelensstraat,63,"","",9203RJ,Drachten
+Gauke Boelensstraat,101,"","",9203RK,Drachten
+Gauke Boelensstraat,65,"","",9203RK,Drachten
+Gauke Boelensstraat,67,"","",9203RK,Drachten
+Gauke Boelensstraat,69,"","",9203RK,Drachten
+Gauke Boelensstraat,71,"","",9203RK,Drachten
+Gauke Boelensstraat,73,"","",9203RK,Drachten
+Gauke Boelensstraat,75,"","",9203RK,Drachten
+Gauke Boelensstraat,77,"","",9203RK,Drachten
+Gauke Boelensstraat,79,"","",9203RK,Drachten
+Gauke Boelensstraat,81,"","",9203RK,Drachten
+Gauke Boelensstraat,91,"","",9203RK,Drachten
+Gauke Boelensstraat,93,"","",9203RK,Drachten
+Gauke Boelensstraat,95,"","",9203RK,Drachten
+Gauke Boelensstraat,97,"","",9203RK,Drachten
+Gauke Boelensstraat,99,"","",9203RK,Drachten

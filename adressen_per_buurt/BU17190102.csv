@@ -1,56 +1,56 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4924ED,Bergsepolder,1,,
-4924ED,Bergsepolder,7,,
-4924EE,Bergsepolder,2,,
-4924EG,Buitendijk,1,,
-4924EG,Buitendijk,3,,
-4924EH,Buitendijk,2,,
-4924EH,Buitendijk,4,,
-4924EL,Dahliastraat,93,,
-4924EL,Dahliastraat,130,,
-4924EJ,Oud Drimmelen,3,,
-4924EJ,Oud Drimmelen,3,A,
-4924EJ,Oud Drimmelen,5,,
-4924EJ,Oud Drimmelen,7,,
-4924EJ,Oud Drimmelen,9,,
-4924EK,Oud Drimmelen,4,,
-4924EK,Oud Drimmelen,6,,
-4924EK,Oud Drimmelen,8,,
-4924EK,Oud Drimmelen,10,,
-4924EK,Oud Drimmelen,12,,
-4924EK,Oud Drimmelen,16,,
-4924BL,Sluizeweg,71,,
-4924BL,Sluizeweg,71,,
-4924BL,Sluizeweg,71,,
-4924BL,Sluizeweg,71,,
-4924BL,Sluizeweg,71,,
-4924EA,Sluizeweg,61,,
-4924EB,Sluizeweg,72,,
-4924EB,Sluizeweg,76,,
-4924EC,Zeggeweg,3,,
-4924EC,Zeggeweg,3,A,
-4924EC,Zeggeweg,5,,
-4924EC,Zeggeweg,6,,
-4924ED,Bergsepolder,9,,
-4924EL,Dahliastraat,93,A,
-4924EJ,Oud Drimmelen,1,,TRAF
-4924EJ,Oud Drimmelen,7,,
-4924EJ,Oud Drimmelen,3,,
-4924EK,Oud Drimmelen,12,A,
-4924EK,Oud Drimmelen,12,B,
-4924BL,Sluizeweg,71,I,
-4924BL,Sluizeweg,73,,
-4924BL,Sluizeweg,71,,
-4924EB,Sluizeweg,70,,
-4924EB,Sluizeweg,68,,
-4924EP,Wilgenwegje,6,,
-4924EX,Brielseweg,4,,
-4924EX,Brielseweg,6,,
-4924EX,Brielseweg,8,,
-4924EX,Brielseweg,10,,
-4924EX,Brielseweg,12,,
-4924EX,Brielseweg,14,,
-4924EX,Brielseweg,16,,
-4924EX,Brielseweg,18,,
-4924EX,Brielseweg,20,,
-4924EX,Brielseweg,22,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Sluizeweg,71,"","",4924BL,Drimmelen
+Sluizeweg,71,"","",4924BL,Drimmelen
+Sluizeweg,71,"","",4924BL,Drimmelen
+Sluizeweg,71,"","",4924BL,Drimmelen
+Sluizeweg,71,"","",4924BL,Drimmelen
+Sluizeweg,71,"","",4924BL,Drimmelen
+Sluizeweg,71,I,"",4924BL,Drimmelen
+Sluizeweg,73,"","",4924BL,Drimmelen
+Sluizeweg,61,"","",4924EA,Drimmelen
+Sluizeweg,68,"","",4924EB,Drimmelen
+Sluizeweg,70,"","",4924EB,Drimmelen
+Sluizeweg,72,"","",4924EB,Drimmelen
+Sluizeweg,76,"","",4924EB,Drimmelen
+Zeggeweg,3,"","",4924EC,Drimmelen
+Zeggeweg,3,A,"",4924EC,Drimmelen
+Zeggeweg,5,"","",4924EC,Drimmelen
+Zeggeweg,6,"","",4924EC,Drimmelen
+Bergsepolder,1,"","",4924ED,Drimmelen
+Bergsepolder,7,"","",4924ED,Drimmelen
+Bergsepolder,9,"","",4924ED,Drimmelen
+Bergsepolder,2,"","",4924EE,Drimmelen
+Buitendijk,1,"","",4924EG,Drimmelen
+Buitendijk,3,"","",4924EG,Drimmelen
+Buitendijk,2,"","",4924EH,Drimmelen
+Buitendijk,4,"","",4924EH,Drimmelen
+Oud Drimmelen,1,"",TRAF,4924EJ,Drimmelen
+Oud Drimmelen,3,"","",4924EJ,Drimmelen
+Oud Drimmelen,3,"","",4924EJ,Drimmelen
+Oud Drimmelen,3,A,"",4924EJ,Drimmelen
+Oud Drimmelen,5,"","",4924EJ,Drimmelen
+Oud Drimmelen,7,"","",4924EJ,Drimmelen
+Oud Drimmelen,7,"","",4924EJ,Drimmelen
+Oud Drimmelen,9,"","",4924EJ,Drimmelen
+Oud Drimmelen,10,"","",4924EK,Drimmelen
+Oud Drimmelen,12,"","",4924EK,Drimmelen
+Oud Drimmelen,12,A,"",4924EK,Drimmelen
+Oud Drimmelen,12,B,"",4924EK,Drimmelen
+Oud Drimmelen,16,"","",4924EK,Drimmelen
+Oud Drimmelen,4,"","",4924EK,Drimmelen
+Oud Drimmelen,6,"","",4924EK,Drimmelen
+Oud Drimmelen,8,"","",4924EK,Drimmelen
+Dahliastraat,130,"","",4924EL,Drimmelen
+Dahliastraat,93,"","",4924EL,Drimmelen
+Dahliastraat,93,A,"",4924EL,Drimmelen
+Wilgenwegje,6,"","",4924EP,Drimmelen
+Brielseweg,10,"","",4924EX,Drimmelen
+Brielseweg,12,"","",4924EX,Drimmelen
+Brielseweg,14,"","",4924EX,Drimmelen
+Brielseweg,16,"","",4924EX,Drimmelen
+Brielseweg,18,"","",4924EX,Drimmelen
+Brielseweg,20,"","",4924EX,Drimmelen
+Brielseweg,22,"","",4924EX,Drimmelen
+Brielseweg,4,"","",4924EX,Drimmelen
+Brielseweg,6,"","",4924EX,Drimmelen
+Brielseweg,8,"","",4924EX,Drimmelen

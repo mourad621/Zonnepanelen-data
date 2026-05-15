@@ -1,73 +1,73 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7241PN,De Heest,1,,
-7241PN,De Heest,2,,
-7241PN,De Heest,3,,
-7241PN,De Heest,4,,
-7241PN,De Heest,4,a,
-7241PN,De Heest,6,,
-7241PN,De Heest,4,b,
-7241PP,Hofmanssteeg,2,,
-7241PP,Hofmanssteeg,2,a,
-7241PP,Hofmanssteeg,3,,
-7241PP,Hofmanssteeg,3,a,
-7241PP,Hofmanssteeg,4,,
-7241PP,Hofmanssteeg,4,a,
-7241PP,Hofmanssteeg,7,,
-7241PP,Hofmanssteeg,5,,
-7241PM,Wengersteeg,1,t,
-7241PM,Wengersteeg,2,,
-7241PM,Wengersteeg,2,t,
-7241PM,Wengersteeg,3,,
-7241PM,Wengersteeg,3,a,
-7241PM,Wengersteeg,5,,
-7241PT,Zwiepseweg,169,a,
-7241PT,Zwiepseweg,135,,
-7241PT,Zwiepseweg,137,,
-7241PT,Zwiepseweg,139,,
-7241PT,Zwiepseweg,141,,
-7241PT,Zwiepseweg,143,,
-7241PT,Zwiepseweg,143,a,
-7241PT,Zwiepseweg,145,,
-7241PT,Zwiepseweg,147,,
-7241PT,Zwiepseweg,151,,
-7241PT,Zwiepseweg,153,,
-7241PT,Zwiepseweg,155,,
-7241PT,Zwiepseweg,159,,
-7241PT,Zwiepseweg,161,,
-7241PT,Zwiepseweg,163,,
-7241PT,Zwiepseweg,165,,
-7241PT,Zwiepseweg,165,a,
-7241PT,Zwiepseweg,167,,
-7241PT,Zwiepseweg,167,a,
-7241PT,Zwiepseweg,169,,
-7241PT,Zwiepseweg,157,,
-7241PV,Zwiepseweg,138,,
-7241PV,Zwiepseweg,138,a,
-7241PV,Zwiepseweg,140,,
-7241PV,Zwiepseweg,142,,
-7241PV,Zwiepseweg,144,,
-7241PV,Zwiepseweg,146,,
-7241PV,Zwiepseweg,148,,
-7241PV,Zwiepseweg,150,,
-7241PV,Zwiepseweg,150,a,
-7241PV,Zwiepseweg,150,b,
-7241PV,Zwiepseweg,152,,
-7241PV,Zwiepseweg,154,,
-7241PV,Zwiepseweg,156,,
-7241PV,Zwiepseweg,156,a,
-7241PV,Zwiepseweg,158,,
-7241PV,Zwiepseweg,160,,
-7241PV,Zwiepseweg,162,,
-7241PV,Zwiepseweg,164,,
-7241PV,Zwiepseweg,164,t,
-7241PV,Zwiepseweg,166,,
-7241PV,Zwiepseweg,166,a,
-7241PV,Zwiepseweg,152,a,
-7241PN,De Heest,2,a,
-7241PN,De Heest,2,,
-7241PP,Hofmanssteeg,2,b,
-7241PP,Hofmanssteeg,9,,
-7241PT,Zwiepseweg,151,a,
-7241PT,Zwiepseweg,153,,
-7241PV,Zwiepseweg,160,,CON
-7241PV,Zwiepseweg,146,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Wengersteeg,1,T,"",7241PM,Lochem
+Wengersteeg,2,"","",7241PM,Lochem
+Wengersteeg,2,T,"",7241PM,Lochem
+Wengersteeg,3,"","",7241PM,Lochem
+Wengersteeg,3,A,"",7241PM,Lochem
+Wengersteeg,5,"","",7241PM,Lochem
+De Heest,1,"","",7241PN,Lochem
+De Heest,2,"","",7241PN,Lochem
+De Heest,2,"","",7241PN,Lochem
+De Heest,2,A,"",7241PN,Lochem
+De Heest,3,"","",7241PN,Lochem
+De Heest,4,"","",7241PN,Lochem
+De Heest,4,A,"",7241PN,Lochem
+De Heest,4,B,"",7241PN,Lochem
+De Heest,6,"","",7241PN,Lochem
+Hofmanssteeg,2,"","",7241PP,Lochem
+Hofmanssteeg,2,A,"",7241PP,Lochem
+Hofmanssteeg,2,B,"",7241PP,Lochem
+Hofmanssteeg,3,"","",7241PP,Lochem
+Hofmanssteeg,3,A,"",7241PP,Lochem
+Hofmanssteeg,4,"","",7241PP,Lochem
+Hofmanssteeg,4,A,"",7241PP,Lochem
+Hofmanssteeg,5,"","",7241PP,Lochem
+Hofmanssteeg,7,"","",7241PP,Lochem
+Hofmanssteeg,9,"","",7241PP,Lochem
+Zwiepseweg,135,"","",7241PT,Lochem
+Zwiepseweg,137,"","",7241PT,Lochem
+Zwiepseweg,139,"","",7241PT,Lochem
+Zwiepseweg,141,"","",7241PT,Lochem
+Zwiepseweg,143,"","",7241PT,Lochem
+Zwiepseweg,143,A,"",7241PT,Lochem
+Zwiepseweg,145,"","",7241PT,Lochem
+Zwiepseweg,147,"","",7241PT,Lochem
+Zwiepseweg,151,"","",7241PT,Lochem
+Zwiepseweg,151,A,"",7241PT,Lochem
+Zwiepseweg,153,"","",7241PT,Lochem
+Zwiepseweg,153,"","",7241PT,Lochem
+Zwiepseweg,155,"","",7241PT,Lochem
+Zwiepseweg,157,"","",7241PT,Lochem
+Zwiepseweg,159,"","",7241PT,Lochem
+Zwiepseweg,161,"","",7241PT,Lochem
+Zwiepseweg,163,"","",7241PT,Lochem
+Zwiepseweg,165,"","",7241PT,Lochem
+Zwiepseweg,165,A,"",7241PT,Lochem
+Zwiepseweg,167,"","",7241PT,Lochem
+Zwiepseweg,167,A,"",7241PT,Lochem
+Zwiepseweg,169,"","",7241PT,Lochem
+Zwiepseweg,169,A,"",7241PT,Lochem
+Zwiepseweg,138,"","",7241PV,Lochem
+Zwiepseweg,138,A,"",7241PV,Lochem
+Zwiepseweg,140,"","",7241PV,Lochem
+Zwiepseweg,142,"","",7241PV,Lochem
+Zwiepseweg,144,"","",7241PV,Lochem
+Zwiepseweg,146,"","",7241PV,Lochem
+Zwiepseweg,146,"","",7241PV,Lochem
+Zwiepseweg,148,"","",7241PV,Lochem
+Zwiepseweg,150,"","",7241PV,Lochem
+Zwiepseweg,150,A,"",7241PV,Lochem
+Zwiepseweg,150,B,"",7241PV,Lochem
+Zwiepseweg,152,"","",7241PV,Lochem
+Zwiepseweg,152,A,"",7241PV,Lochem
+Zwiepseweg,154,"","",7241PV,Lochem
+Zwiepseweg,156,"","",7241PV,Lochem
+Zwiepseweg,156,A,"",7241PV,Lochem
+Zwiepseweg,158,"","",7241PV,Lochem
+Zwiepseweg,160,"","",7241PV,Lochem
+Zwiepseweg,160,"",CON,7241PV,Lochem
+Zwiepseweg,162,"","",7241PV,Lochem
+Zwiepseweg,164,"","",7241PV,Lochem
+Zwiepseweg,164,T,"",7241PV,Lochem
+Zwiepseweg,166,"","",7241PV,Lochem
+Zwiepseweg,166,A,"",7241PV,Lochem

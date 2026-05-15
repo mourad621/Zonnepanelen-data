@@ -1,37 +1,37 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6991JN,Brinkweg,1,,
-6991JN,Brinkweg,3,,
-6991JN,Brinkweg,5,,
-6991JN,Brinkweg,7,,
-6991JN,Brinkweg,9,,
-6991JN,Brinkweg,13,,
-6991JN,Brinkweg,15,,
-6991JN,Brinkweg,17,,
-6991JN,Brinkweg,19,,
-6991JN,Brinkweg,21,,
-6991JN,Brinkweg,23,,
-6991JN,Brinkweg,25,,
-6991JN,Brinkweg,27,,
-6991JP,Brinkweg,16,,
-6991JP,Brinkweg,18,,
-6991JP,Brinkweg,24,,
-6991JP,Brinkweg,26,,
-6991JP,Brinkweg,28,,
-6991JP,Brinkweg,28,a,
-6991JP,Brinkweg,30,a,
-6991JP,Brinkweg,32,a,
-6991JP,Brinkweg,34,,
-6991JP,Brinkweg,34,a,
-6991JP,Brinkweg,36,,
-6883DC,Lathumse Veerweg,5,,
-6883DC,Lathumse Veerweg,11,,
-6883DC,Lathumse Veerweg,13,,
-6883DC,Lathumse Veerweg,15,,
-6883DC,Lathumse Veerweg,17,,
-6883DC,Lathumse Veerweg,11,a,
-6991JR,Roggeweg,1,,
-6991JN,Brinkweg,3,a,
-6991JN,Brinkweg,1,a,
-6991JP,Brinkweg,28,b,
-6991JP,Brinkweg,32,a,
-6991JP,Brinkweg,32,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Lathumse Veerweg,11,"","",6883DC,Velp
+Lathumse Veerweg,11,A,"",6883DC,Velp
+Lathumse Veerweg,13,"","",6883DC,Velp
+Lathumse Veerweg,15,"","",6883DC,Velp
+Lathumse Veerweg,17,"","",6883DC,Velp
+Lathumse Veerweg,5,"","",6883DC,Velp
+Brinkweg,1,"","",6991JN,Rheden
+Brinkweg,1,A,"",6991JN,Rheden
+Brinkweg,13,"","",6991JN,Rheden
+Brinkweg,15,"","",6991JN,Rheden
+Brinkweg,17,"","",6991JN,Rheden
+Brinkweg,19,"","",6991JN,Rheden
+Brinkweg,21,"","",6991JN,Rheden
+Brinkweg,23,"","",6991JN,Rheden
+Brinkweg,25,"","",6991JN,Rheden
+Brinkweg,27,"","",6991JN,Rheden
+Brinkweg,3,"","",6991JN,Rheden
+Brinkweg,3,A,"",6991JN,Rheden
+Brinkweg,5,"","",6991JN,Rheden
+Brinkweg,7,"","",6991JN,Rheden
+Brinkweg,9,"","",6991JN,Rheden
+Brinkweg,16,"","",6991JP,Rheden
+Brinkweg,18,"","",6991JP,Rheden
+Brinkweg,24,"","",6991JP,Rheden
+Brinkweg,26,"","",6991JP,Rheden
+Brinkweg,28,"","",6991JP,Rheden
+Brinkweg,28,A,"",6991JP,Rheden
+Brinkweg,28,B,"",6991JP,Rheden
+Brinkweg,30,A,"",6991JP,Rheden
+Brinkweg,32,"","",6991JP,Rheden
+Brinkweg,32,A,"",6991JP,Rheden
+Brinkweg,32,A,"",6991JP,Rheden
+Brinkweg,34,"","",6991JP,Rheden
+Brinkweg,34,A,"",6991JP,Rheden
+Brinkweg,36,"","",6991JP,Rheden
+Roggeweg,1,"","",6991JR,Rheden

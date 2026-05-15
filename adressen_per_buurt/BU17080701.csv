@@ -1,50 +1,50 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8325PA,Flevoweg,1,,
-8325PA,Flevoweg,7,,
-8325PA,Flevoweg,1,C,
-8325PA,Flevoweg,1,c,
-8325PA,Flevoweg,2,,
-8325PA,Flevoweg,1,a,
-8325PA,Flevoweg,5,,
-8325PA,Flevoweg,3,,
-8325PA,Flevoweg,5,a,
-8325PD,Weg van Twee Nijenhuizen,2,,
-8325PD,Weg van Twee Nijenhuizen,2,A,
-8325PD,Weg van Twee Nijenhuizen,2,a,
-8325PD,Weg van Twee Nijenhuizen,4,,
-8325PD,Weg van Twee Nijenhuizen,6,,
-8325PD,Weg van Twee Nijenhuizen,8,,
-8325PD,Weg van Twee Nijenhuizen,10,,
-8325PD,Weg van Twee Nijenhuizen,12,,
-8325PD,Weg van Twee Nijenhuizen,14,,
-8325PD,Weg van Twee Nijenhuizen,18,,
-8325PD,Weg van Twee Nijenhuizen,4,t,
-8325PB,Moespot,25,,
-8325PB,Moespot,11,,
-8325PB,Moespot,1,,
-8325PB,Moespot,3,,
-8325PB,Moespot,13,,
-8325PB,Moespot,15,,
-8325PB,Moespot,17,,
-8325PB,Moespot,21,,
-8325PB,Moespot,23,,
-8325PB,Moespot,7,,
-8325PC,Moespot,2,,
-8325PC,Moespot,4,,
-8325PC,Moespot,6,,
-8325PC,Moespot,8,,
-8325PC,Moespot,10,,
-8325PC,Moespot,12,,
-8325PC,Moespot,14,,
-8325PC,Moespot,18,,
-8325PC,Moespot,20,,
-8325PC,Moespot,22,,
-8325PC,Moespot,24,,
-8325PC,Moespot,24,A,
-8325PC,Moespot,24,a,
-8325PC,Moespot,10,a,
-8325PB,Moespot,5,,
-8325PB,Moespot,1,,
-8325PB,Moespot,7,,
-8325PB,Moespot,25,,
-8325PC,Moespot,14,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Flevoweg,1,"","",8325PA,Vollenhove
+Flevoweg,1,A,"",8325PA,Vollenhove
+Flevoweg,1,C,"",8325PA,Vollenhove
+Flevoweg,1,C,"",8325PA,Vollenhove
+Flevoweg,2,"","",8325PA,Vollenhove
+Flevoweg,3,"","",8325PA,Vollenhove
+Flevoweg,5,"","",8325PA,Vollenhove
+Flevoweg,5,A,"",8325PA,Vollenhove
+Flevoweg,7,"","",8325PA,Vollenhove
+Moespot,1,"","",8325PB,Vollenhove
+Moespot,1,"","",8325PB,Vollenhove
+Moespot,11,"","",8325PB,Vollenhove
+Moespot,13,"","",8325PB,Vollenhove
+Moespot,15,"","",8325PB,Vollenhove
+Moespot,17,"","",8325PB,Vollenhove
+Moespot,21,"","",8325PB,Vollenhove
+Moespot,23,"","",8325PB,Vollenhove
+Moespot,25,"","",8325PB,Vollenhove
+Moespot,25,"","",8325PB,Vollenhove
+Moespot,3,"","",8325PB,Vollenhove
+Moespot,5,"","",8325PB,Vollenhove
+Moespot,7,"","",8325PB,Vollenhove
+Moespot,7,"","",8325PB,Vollenhove
+Moespot,10,"","",8325PC,Vollenhove
+Moespot,10,A,"",8325PC,Vollenhove
+Moespot,12,"","",8325PC,Vollenhove
+Moespot,14,"","",8325PC,Vollenhove
+Moespot,14,"","",8325PC,Vollenhove
+Moespot,18,"","",8325PC,Vollenhove
+Moespot,2,"","",8325PC,Vollenhove
+Moespot,20,"","",8325PC,Vollenhove
+Moespot,22,"","",8325PC,Vollenhove
+Moespot,24,"","",8325PC,Vollenhove
+Moespot,24,A,"",8325PC,Vollenhove
+Moespot,24,A,"",8325PC,Vollenhove
+Moespot,4,"","",8325PC,Vollenhove
+Moespot,6,"","",8325PC,Vollenhove
+Moespot,8,"","",8325PC,Vollenhove
+Weg van Twee Nijenhuizen,10,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,12,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,14,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,18,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,2,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,2,A,"",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,2,A,"",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,4,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,4,T,"",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,6,"","",8325PD,Vollenhove
+Weg van Twee Nijenhuizen,8,"","",8325PD,Vollenhove

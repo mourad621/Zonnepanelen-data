@@ -1,614 +1,297 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9774PA",23,"",""
-"9774PA",19,"a",""
-"9774PA",29,"",""
-"9774PA",21,"",""
-"9774PA",19,"A",""
-"9774PA",15,"",""
-"9774PA",27,"",""
-"9774PA",17,"",""
-"9774PA",7,"",""
-"9774PA",25,"",""
-"9774PA",35,"T",""
-"9774PA",33,"",""
-"9774PA",3,"",""
-"9774PA",19,"",""
-"9774PA",1,"",""
-"9774PA",35,"T",""
-"9774PA",37,"A",""
-"9774PA",37,"",""
-"9774PA",11,"",""
-"9774PA",31,"",""
-"9774PA",37,"a",""
-"9774PA",9,"",""
-"9774PA",5,"",""
-"9774PA",13,"",""
-"9774PB",28,"",""
-"9774PB",28,"a",""
-"9774PB",24,"",""
-"9774PB",24,"",""
-"9774PB",26,"",""
-"9774PB",30,"",""
-"9774PB",28,"a",""
-"9774PC",33,"",""
-"9774PC",7,"",""
-"9774PC",21,"",""
-"9774PC",31,"",""
-"9774PC",25,"",""
-"9774PC",5,"",""
-"9774PC",11,"",""
-"9774PC",5,"",""
-"9774PC",27,"",""
-"9774PC",29,"",""
-"9774PC",19,"",""
-"9774PC",37,"",""
-"9774PC",1,"",""
-"9774PC",23,"",""
-"9774PC",5,"",""
-"9774PC",15,"",""
-"9774PC",9,"",""
-"9774PC",3,"",""
-"9774PC",35,"",""
-"9774PC",17,"",""
-"9774PC",13,"",""
-"9774PC",7,"",""
-"9774PC",39,"",""
-"9774PD",16,"",""
-"9774PD",12,"",""
-"9774PD",2,"",""
-"9774PD",18,"",""
-"9774PD",6,"",""
-"9774PD",14,"",""
-"9774PD",24,"",""
-"9774PD",22,"",""
-"9774PE",42,"",""
-"9774PE",46,"",""
-"9774PE",48,"",""
-"9774PE",36,"",""
-"9774PE",38,"",""
-"9774PE",30,"",""
-"9774PE",34,"",""
-"9774PE",44,"",""
-"9774PE",40,"",""
-"9774PE",54,"",""
-"9774PE",52,"",""
-"9774PE",32,"",""
-"9774PE",50,"",""
-"9774PE",28,"",""
-"9774PG",7,"a",""
-"9774PG",5,"",""
-"9774PG",21,"",""
-"9774PG",11,"",""
-"9774PG",17,"",""
-"9774PG",15,"",""
-"9774PG",7,"A",""
-"9774PG",4,"",""
-"9774PG",27,"",""
-"9774PG",2,"a",""
-"9774PG",13,"",""
-"9774PG",29,"",""
-"9774PG",1,"",""
-"9774PG",2,"a",""
-"9774PG",9,"",""
-"9774PG",2,"A",""
-"9774PG",19,"",""
-"9774PG",3,"",""
-"9774PG",2,"",""
-"9774PG",7,"",""
-"9774PG",25,"",""
-"9774PG",23,"",""
-"9774PG",2,"a",""
-"9774PH",7,"",""
-"9774PH",31,"",""
-"9774PH",11,"",""
-"9774PH",15,"",""
-"9774PH",25,"",""
-"9774PH",33,"",""
-"9774PH",13,"",""
-"9774PH",3,"",""
-"9774PH",29,"",""
-"9774PH",35,"",""
-"9774PH",31,"B",""
-"9774PH",23,"",""
-"9774PH",5,"",""
-"9774PH",27,"",""
-"9774PH",31,"A",""
-"9774PH",33,"a",""
-"9774PH",31,"a",""
-"9774PH",21,"",""
-"9774PH",33,"A",""
-"9774PH",9,"",""
-"9774PH",1,"",""
-"9774PH",31,"b",""
-"9774PJ",12,"",""
-"9774PJ",2,"E",""
-"9774PJ",10,"",""
-"9774PJ",4,"",""
-"9774PJ",2,"C",""
-"9774PJ",2,"D",""
-"9774PJ",8,"",""
-"9774PJ",2,"a",""
-"9774PJ",2,"a",""
-"9774PJ",2,"E",""
-"9774PJ",2,"C",""
-"9774PJ",16,"",""
-"9774PJ",2,"E",""
-"9774PJ",18,"",""
-"9774PJ",20,"",""
-"9774PJ",2,"D",""
-"9774PJ",2,"B",""
-"9774PJ",2,"A",""
-"9774PJ",2,"",""
-"9774PJ",2,"B",""
-"9774PJ",14,"",""
-"9774PJ",2,"A",""
-"9774PK",42,"",""
-"9774PK",44,"",""
-"9774PK",40,"",""
-"9774PK",22,"",""
-"9774PK",46,"",""
-"9774PK",36,"",""
-"9774PK",38,"",""
-"9774PK",34,"",""
-"9774PL",12,"",""
-"9774PL",15,"",""
-"9774PL",2,"",""
-"9774PL",9,"",""
-"9774PL",1,"",""
-"9774PL",11,"",""
-"9774PL",6,"",""
-"9774PL",10,"",""
-"9774PL",3,"",""
-"9774PL",8,"",""
-"9774PL",5,"",""
-"9774PM",6,"",""
-"9774PM",2,"",""
-"9774PM",7,"",""
-"9774PM",12,"",""
-"9774PM",10,"",""
-"9774PM",14,"",""
-"9774PM",4,"",""
-"9774PM",5,"",""
-"9774PM",3,"",""
-"9774PM",8,"",""
-"9774PM",9,"",""
-"9774PN",6,"",""
-"9774PN",8,"",""
-"9774PN",3,"",""
-"9774PN",4,"",""
-"9774PN",1,"",""
-"9774PP",2,"",""
-"9774PR",13,"",""
-"9774PR",7,"",""
-"9774PR",9,"",""
-"9774PR",11,"",""
-"9774PR",5,"",""
-"9774PR",1,"",""
-"9774PR",3,"",""
-"9774PS",24,"",""
-"9774PS",8,"",""
-"9774PS",16,"",""
-"9774PS",6,"",""
-"9774PS",22,"",""
-"9774PS",10,"",""
-"9774PS",14,"",""
-"9774PS",18,"",""
-"9774PS",26,"",""
-"9774PS",12,"",""
-"9774PS",2,"",""
-"9774PS",20,"",""
-"9774PT",28,"",""
-"9774PT",42,"",""
-"9774PT",40,"",""
-"9774PT",46,"",""
-"9774PT",44,"",""
-"9774PT",30,"",""
-"9774PT",32,"",""
-"9774PT",34,"",""
-"9774PT",48,"",""
-"9774PT",36,"",""
-"9774PT",38,"",""
-"9774PV",12,"",""
-"9774PV",9,"",""
-"9774PV",11,"",""
-"9774PV",13,"",""
-"9774PV",25,"",""
-"9774PV",24,"",""
-"9774PV",3,"",""
-"9774PV",26,"",""
-"9774PV",5,"",""
-"9774PV",2,"",""
-"9774PV",7,"",""
-"9774PV",14,"",""
-"9774PV",16,"",""
-"9774PV",18,"",""
-"9774PV",30,"",""
-"9774PV",1,"",""
-"9774PV",8,"",""
-"9774PV",10,"",""
-"9774PV",6,"",""
-"9774PV",20,"",""
-"9774PV",23,"",""
-"9774PV",4,"",""
-"9774PV",28,"",""
-"9774PV",22,"",""
-"9774PV",21,"",""
-"9774PV",19,"",""
-"9774PW",3,"",""
-"9774PW",4,"",""
-"9774PW",6,"",""
-"9774PW",3,"",""
-"9774PW",14,"",""
-"9774PW",1,"",""
-"9774PW",5,"",""
-"9774PW",10,"",""
-"9774PW",11,"",""
-"9774PW",8,"",""
-"9774PW",2,"",""
-"9774PW",14,"",""
-"9774PW",9,"",""
-"9774PW",7,"",""
-"9774PX",7,"",""
-"9774PX",5,"",""
-"9774PX",8,"",""
-"9774PX",6,"",""
-"9774PX",2,"",""
-"9774PX",9,"",""
-"9774PX",1,"",""
-"9774PX",4,"",""
-"9774PX",3,"",""
-"9774RA",1,"",""
-"9774RA",3,"",""
-"9774RB",3,"",""
-"9774RB",2,"",""
-"9774RB",5,"",""
-"9774RB",1,"",""
-"9774RB",4,"",""
-"9774RB",11,"",""
-"9774RB",9,"",""
-"9774RB",7,"",""
-"9774RB",13,"",""
-"9774RC",3,"",""
-"9774RC",26,"",""
-"9774RC",6,"",""
-"9774RC",8,"",""
-"9774RC",30,"",""
-"9774RC",4,"",""
-"9774RC",16,"",""
-"9774RC",14,"",""
-"9774RC",22,"",""
-"9774RC",28,"",""
-"9774RC",20,"",""
-"9774RC",5,"",""
-"9774RC",1,"",""
-"9774RC",2,"",""
-"9774RC",12,"",""
-"9774RC",18,"",""
-"9774RC",10,"",""
-"9774RC",24,"",""
-"9774TB",34,"",""
-"9774TB",32,"",""
-"9774TB",14,"",""
-"9774TB",18,"",""
-"9774TB",22,"",""
-"9774TB",16,"",""
-"9774TB",20,"",""
-"9774TB",12,"",""
-"9774TB",4,"",""
-9774PN,Kleinestraat,1,,
-9774PN,Kleinestraat,3,,
-9774PN,Kleinestraat,4,,
-9774PN,Kleinestraat,6,,
-9774PN,Kleinestraat,8,,
-9774PG,Molenweg,1,,
-9774PG,Molenweg,2,,
-9774PG,Molenweg,2,a,
-9774PG,Molenweg,4,,
-9774PG,Molenweg,5,,
-9774PG,Molenweg,7,,
-9774PG,Molenweg,7,a,
-9774PG,Molenweg,7,A,
-9774PG,Molenweg,9,,
-9774PG,Molenweg,11,,
-9774PG,Molenweg,13,,
-9774PG,Molenweg,15,,
-9774PG,Molenweg,17,,
-9774PG,Molenweg,19,,
-9774PG,Molenweg,21,,
-9774PG,Molenweg,23,,
-9774PG,Molenweg,25,,
-9774PG,Molenweg,27,,
-9774PG,Molenweg,29,,
-9774PX,De Omloop,1,,
-9774PX,De Omloop,2,,
-9774PX,De Omloop,3,,
-9774PX,De Omloop,4,,
-9774PX,De Omloop,5,,
-9774PX,De Omloop,6,,
-9774PX,De Omloop,7,,
-9774PX,De Omloop,8,,
-9774PX,De Omloop,9,,
-9774PV,Onder de Wieken,1,,
-9774PV,Onder de Wieken,2,,
-9774PV,Onder de Wieken,3,,
-9774PV,Onder de Wieken,4,,
-9774PV,Onder de Wieken,5,,
-9774PV,Onder de Wieken,6,,
-9774PV,Onder de Wieken,7,,
-9774PV,Onder de Wieken,8,,
-9774PV,Onder de Wieken,9,,
-9774PV,Onder de Wieken,10,,
-9774PV,Onder de Wieken,11,,
-9774PV,Onder de Wieken,12,,
-9774PV,Onder de Wieken,13,,
-9774PV,Onder de Wieken,14,,
-9774PV,Onder de Wieken,16,,
-9774PV,Onder de Wieken,18,,
-9774PV,Onder de Wieken,19,,
-9774PV,Onder de Wieken,20,,
-9774PV,Onder de Wieken,21,,
-9774PV,Onder de Wieken,22,,
-9774PV,Onder de Wieken,23,,
-9774PV,Onder de Wieken,24,,
-9774PV,Onder de Wieken,25,,
-9774PV,Onder de Wieken,26,,
-9774PV,Onder de Wieken,28,,
-9774PV,Onder de Wieken,30,,
-9774PW,De Vang,1,,
-9774PW,De Vang,2,,
-9774PW,De Vang,3,,
-9774PW,De Vang,3,,
-9774PW,De Vang,4,,
-9774PW,De Vang,5,,
-9774PW,De Vang,6,,
-9774PW,De Vang,7,,
-9774PW,De Vang,8,,
-9774PW,De Vang,9,,
-9774PW,De Vang,10,,
-9774PW,De Vang,11,,
-9774PW,De Vang,14,,
-9774RB,De Stelling,1,,
-9774RB,De Stelling,2,,
-9774RB,De Stelling,3,,
-9774RB,De Stelling,5,,
-9774RB,De Stelling,7,,
-9774RB,De Stelling,9,,
-9774RB,De Stelling,11,,
-9774RB,De Stelling,13,,
-9774RC,De Spruit,1,,
-9774RC,De Spruit,2,,
-9774RC,De Spruit,3,,
-9774RC,De Spruit,4,,
-9774RC,De Spruit,5,,
-9774RC,De Spruit,6,,
-9774RC,De Spruit,8,,
-9774RC,De Spruit,10,,
-9774RC,De Spruit,12,,
-9774RC,De Spruit,14,,
-9774RC,De Spruit,16,,
-9774RC,De Spruit,18,,
-9774RC,De Spruit,20,,
-9774RC,De Spruit,22,,
-9774RC,De Spruit,24,,
-9774RC,De Spruit,26,,
-9774RC,De Spruit,28,,
-9774RC,De Spruit,30,,
-9774PG,Molenweg,3,,
-9774PG,Molenweg,2,a,
-9774PG,Molenweg,2,A,
-9774PP,'t Ol Streepke,2,,
-9774PA,Provincialeweg,1,,
-9774PA,Provincialeweg,3,,
-9774PA,Provincialeweg,5,,
-9774PA,Provincialeweg,7,,
-9774PA,Provincialeweg,9,,
-9774PA,Provincialeweg,11,,
-9774PA,Provincialeweg,13,,
-9774PA,Provincialeweg,15,,
-9774PA,Provincialeweg,17,,
-9774PA,Provincialeweg,19,,
-9774PA,Provincialeweg,19,a,
-9774PA,Provincialeweg,19,A,
-9774PA,Provincialeweg,21,,
-9774PA,Provincialeweg,23,,
-9774PA,Provincialeweg,25,,
-9774PA,Provincialeweg,27,,
-9774PA,Provincialeweg,29,,
-9774PA,Provincialeweg,31,,
-9774PA,Provincialeweg,33,,
-9774PA,Provincialeweg,37,,
-9774PA,Provincialeweg,35,T,
-9774PA,Provincialeweg,35,T,
-9774PA,Provincialeweg,37,a,
-9774PA,Provincialeweg,37,A,
-9774PB,Provincialeweg,24,,
-9774PB,Provincialeweg,24,,
-9774PB,Provincialeweg,26,,
-9774PB,Provincialeweg,28,,
-9774PB,Provincialeweg,28,a,
-9774PB,Provincialeweg,30,,
-9774TB,Provincialeweg,12,,
-9774TB,Provincialeweg,14,,
-9774TB,Provincialeweg,16,,
-9774TB,Provincialeweg,18,,
-9774TB,Provincialeweg,20,,
-9774TB,Provincialeweg,22,,
-9774TB,Provincialeweg,32,,
-9774TB,Provincialeweg,34,,
-9774TB,Provincialeweg,4,,
-9774PC,Spoorlaan,1,,
-9774PC,Spoorlaan,3,,
-9774PC,Spoorlaan,5,,
-9774PC,Spoorlaan,7,,
-9774PC,Spoorlaan,9,,
-9774PC,Spoorlaan,11,,
-9774PC,Spoorlaan,13,,
-9774PC,Spoorlaan,15,,
-9774PC,Spoorlaan,17,,
-9774PC,Spoorlaan,19,,
-9774PC,Spoorlaan,21,,
-9774PC,Spoorlaan,23,,
-9774PC,Spoorlaan,25,,
-9774PC,Spoorlaan,27,,
-9774PC,Spoorlaan,29,,
-9774PC,Spoorlaan,31,,
-9774PC,Spoorlaan,33,,
-9774PC,Spoorlaan,35,,
-9774PC,Spoorlaan,39,,
-9774PC,Spoorlaan,37,,
-9774PC,Spoorlaan,5,,
-9774PD,Spoorlaan,2,,
-9774PD,Spoorlaan,6,,
-9774PD,Spoorlaan,12,,
-9774PD,Spoorlaan,14,,
-9774PD,Spoorlaan,16,,
-9774PD,Spoorlaan,18,,
-9774PD,Spoorlaan,22,,
-9774PD,Spoorlaan,24,,
-9774PE,Spoorlaan,28,,
-9774PE,Spoorlaan,30,,
-9774PE,Spoorlaan,32,,
-9774PE,Spoorlaan,34,,
-9774PE,Spoorlaan,36,,
-9774PE,Spoorlaan,38,,
-9774PE,Spoorlaan,40,,
-9774PE,Spoorlaan,42,,
-9774PE,Spoorlaan,44,,
-9774PE,Spoorlaan,46,,
-9774PE,Spoorlaan,48,,
-9774PE,Spoorlaan,50,,
-9774PE,Spoorlaan,52,,
-9774PE,Spoorlaan,54,,
-9774PH,Torenweg,1,,
-9774PH,Torenweg,3,,
-9774PH,Torenweg,5,,
-9774PH,Torenweg,7,,
-9774PH,Torenweg,9,,
-9774PH,Torenweg,11,,
-9774PH,Torenweg,13,,
-9774PH,Torenweg,15,,
-9774PH,Torenweg,21,,
-9774PH,Torenweg,23,,
-9774PH,Torenweg,25,,
-9774PH,Torenweg,27,,
-9774PH,Torenweg,29,,
-9774PH,Torenweg,31,,
-9774PH,Torenweg,31,a,
-9774PH,Torenweg,31,A,
-9774PH,Torenweg,31,b,
-9774PH,Torenweg,31,B,
-9774PH,Torenweg,33,,
-9774PH,Torenweg,33,a,
-9774PH,Torenweg,33,A,
-9774PH,Torenweg,35,,
-9774PJ,Torenweg,2,,
-9774PJ,Torenweg,4,,
-9774PJ,Torenweg,8,,
-9774PJ,Torenweg,10,,
-9774PJ,Torenweg,12,,
-9774PJ,Torenweg,14,,
-9774PJ,Torenweg,16,,
-9774PJ,Torenweg,18,,
-9774PJ,Torenweg,20,,
-9774PJ,Torenweg,2,a,
-9774PJ,Torenweg,2,A,
-9774PJ,Torenweg,2,A,
-9774PJ,Torenweg,2,B,
-9774PJ,Torenweg,2,B,
-9774PJ,Torenweg,2,C,
-9774PJ,Torenweg,2,C,
-9774PJ,Torenweg,2,D,
-9774PJ,Torenweg,2,D,
-9774PJ,Torenweg,2,E,
-9774PJ,Torenweg,2,E,
-9774PK,Torenweg,22,,
-9774PK,Torenweg,34,,
-9774PK,Torenweg,36,,
-9774PK,Torenweg,38,,
-9774PK,Torenweg,40,,
-9774PK,Torenweg,42,,
-9774PK,Torenweg,44,,
-9774PK,Torenweg,46,,
-9774PM,Wierdestraat,2,,
-9774PM,Wierdestraat,3,,
-9774PM,Wierdestraat,4,,
-9774PM,Wierdestraat,5,,
-9774PM,Wierdestraat,6,,
-9774PM,Wierdestraat,7,,
-9774PM,Wierdestraat,8,,
-9774PM,Wierdestraat,9,,
-9774PM,Wierdestraat,10,,
-9774PM,Wierdestraat,12,,
-9774PM,Wierdestraat,14,,
-9774PR,Wierumerschouwsterweg,1,,
-9774PR,Wierumerschouwsterweg,3,,
-9774PR,Wierumerschouwsterweg,5,,
-9774PR,Wierumerschouwsterweg,7,,
-9774PR,Wierumerschouwsterweg,9,,
-9774PR,Wierumerschouwsterweg,11,,
-9774PR,Wierumerschouwsterweg,13,,
-9774PS,Wierumerschouwsterweg,2,,
-9774PS,Wierumerschouwsterweg,6,,
-9774PS,Wierumerschouwsterweg,8,,
-9774PS,Wierumerschouwsterweg,10,,
-9774PS,Wierumerschouwsterweg,12,,
-9774PS,Wierumerschouwsterweg,14,,
-9774PS,Wierumerschouwsterweg,16,,
-9774PS,Wierumerschouwsterweg,18,,
-9774PS,Wierumerschouwsterweg,20,,
-9774PS,Wierumerschouwsterweg,22,,
-9774PS,Wierumerschouwsterweg,24,,
-9774PS,Wierumerschouwsterweg,26,,
-9774PT,Wierumerschouwsterweg,28,,
-9774PT,Wierumerschouwsterweg,30,,
-9774PT,Wierumerschouwsterweg,32,,
-9774PT,Wierumerschouwsterweg,34,,
-9774PT,Wierumerschouwsterweg,36,,
-9774PT,Wierumerschouwsterweg,38,,
-9774PT,Wierumerschouwsterweg,40,,
-9774PT,Wierumerschouwsterweg,42,,
-9774PT,Wierumerschouwsterweg,44,,
-9774PT,Wierumerschouwsterweg,46,,
-9774PT,Wierumerschouwsterweg,48,,
-9774PL,Zuiderstraat,1,,
-9774PL,Zuiderstraat,2,,
-9774PL,Zuiderstraat,3,,
-9774PL,Zuiderstraat,5,,
-9774PL,Zuiderstraat,6,,
-9774PL,Zuiderstraat,8,,
-9774PL,Zuiderstraat,9,,
-9774PL,Zuiderstraat,10,,
-9774PL,Zuiderstraat,11,,
-9774PL,Zuiderstraat,12,,
-9774PL,Zuiderstraat,15,,
-9774RB,De Stelling,4,,
-9774RA,Wethouder D. Kruijerlaan,1,,
-9774RA,Wethouder D. Kruijerlaan,3,,
-9774PB,Provincialeweg,28,B,
-9774PE,Spoorlaan,56,,
-9774PJ,Torenweg,2,A,
-9774PJ,Torenweg,2,A,1
-9774PJ,Torenweg,2,A,2
-9774PW,De Vang,27,,
-9774PW,De Vang,25,,
-9774PW,De Vang,23,,
-9774PW,De Vang,21,,
-9774PW,De Vang,19,,
-9774PW,De Vang,17,,
-9774PW,De Vang,14,,
-9774PW,De Vang,24,,
-9774PW,De Vang,12,,
-9774PW,De Vang,22,,
-9774PW,De Vang,10,,
-9774PW,De Vang,20,,
-9774PW,De Vang,8,,
-9774PW,De Vang,18,,
-9774PW,De Vang,6,,
-9774PW,De Vang,16,,
-9774PW,De Vang,4,,
-9774PW,De Vang,14,,
-9774PW,De Vang,13,,
-9774PW,De Vang,15,,
-9774PW,De Vang,31,,
-9774PW,De Vang,29,,
-9774PW,De Vang,12,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Provincialeweg,1,"","",9774PA,Adorp
+Provincialeweg,11,"","",9774PA,Adorp
+Provincialeweg,13,"","",9774PA,Adorp
+Provincialeweg,15,"","",9774PA,Adorp
+Provincialeweg,17,"","",9774PA,Adorp
+Provincialeweg,19,"","",9774PA,Adorp
+Provincialeweg,19,A,"",9774PA,Adorp
+Provincialeweg,19,A,"",9774PA,Adorp
+Provincialeweg,21,"","",9774PA,Adorp
+Provincialeweg,23,"","",9774PA,Adorp
+Provincialeweg,25,"","",9774PA,Adorp
+Provincialeweg,27,"","",9774PA,Adorp
+Provincialeweg,29,"","",9774PA,Adorp
+Provincialeweg,3,"","",9774PA,Adorp
+Provincialeweg,31,"","",9774PA,Adorp
+Provincialeweg,33,"","",9774PA,Adorp
+Provincialeweg,35,T,"",9774PA,Adorp
+Provincialeweg,35,T,"",9774PA,Adorp
+Provincialeweg,37,"","",9774PA,Adorp
+Provincialeweg,37,A,"",9774PA,Adorp
+Provincialeweg,37,A,"",9774PA,Adorp
+Provincialeweg,5,"","",9774PA,Adorp
+Provincialeweg,7,"","",9774PA,Adorp
+Provincialeweg,9,"","",9774PA,Adorp
+Provincialeweg,24,"","",9774PB,Adorp
+Provincialeweg,24,"","",9774PB,Adorp
+Provincialeweg,26,"","",9774PB,Adorp
+Provincialeweg,28,"","",9774PB,Adorp
+Provincialeweg,28,A,"",9774PB,Adorp
+Provincialeweg,28,A,"",9774PB,Adorp
+Provincialeweg,30,"","",9774PB,Adorp
+Spoorlaan,1,"","",9774PC,Adorp
+Spoorlaan,11,"","",9774PC,Adorp
+Spoorlaan,13,"","",9774PC,Adorp
+Spoorlaan,15,"","",9774PC,Adorp
+Spoorlaan,17,"","",9774PC,Adorp
+Spoorlaan,19,"","",9774PC,Adorp
+Spoorlaan,21,"","",9774PC,Adorp
+Spoorlaan,23,"","",9774PC,Adorp
+Spoorlaan,25,"","",9774PC,Adorp
+Spoorlaan,27,"","",9774PC,Adorp
+Spoorlaan,29,"","",9774PC,Adorp
+Spoorlaan,3,"","",9774PC,Adorp
+Spoorlaan,31,"","",9774PC,Adorp
+Spoorlaan,33,"","",9774PC,Adorp
+Spoorlaan,35,"","",9774PC,Adorp
+Spoorlaan,37,"","",9774PC,Adorp
+Spoorlaan,39,"","",9774PC,Adorp
+Spoorlaan,5,"","",9774PC,Adorp
+Spoorlaan,5,"","",9774PC,Adorp
+Spoorlaan,5,"","",9774PC,Adorp
+Spoorlaan,7,"","",9774PC,Adorp
+Spoorlaan,7,"","",9774PC,Adorp
+Spoorlaan,9,"","",9774PC,Adorp
+Spoorlaan,12,"","",9774PD,Adorp
+Spoorlaan,14,"","",9774PD,Adorp
+Spoorlaan,16,"","",9774PD,Adorp
+Spoorlaan,18,"","",9774PD,Adorp
+Spoorlaan,2,"","",9774PD,Adorp
+Spoorlaan,22,"","",9774PD,Adorp
+Spoorlaan,24,"","",9774PD,Adorp
+Spoorlaan,6,"","",9774PD,Adorp
+Spoorlaan,28,"","",9774PE,Adorp
+Spoorlaan,30,"","",9774PE,Adorp
+Spoorlaan,32,"","",9774PE,Adorp
+Spoorlaan,34,"","",9774PE,Adorp
+Spoorlaan,36,"","",9774PE,Adorp
+Spoorlaan,38,"","",9774PE,Adorp
+Spoorlaan,40,"","",9774PE,Adorp
+Spoorlaan,42,"","",9774PE,Adorp
+Spoorlaan,44,"","",9774PE,Adorp
+Spoorlaan,46,"","",9774PE,Adorp
+Spoorlaan,48,"","",9774PE,Adorp
+Spoorlaan,50,"","",9774PE,Adorp
+Spoorlaan,52,"","",9774PE,Adorp
+Spoorlaan,54,"","",9774PE,Adorp
+Molenweg,1,"","",9774PG,Adorp
+Molenweg,11,"","",9774PG,Adorp
+Molenweg,13,"","",9774PG,Adorp
+Molenweg,15,"","",9774PG,Adorp
+Molenweg,17,"","",9774PG,Adorp
+Molenweg,19,"","",9774PG,Adorp
+Molenweg,2,"","",9774PG,Adorp
+Molenweg,2,A,"",9774PG,Adorp
+Molenweg,2,A,"",9774PG,Adorp
+Molenweg,2,A,"",9774PG,Adorp
+Molenweg,2,A,"",9774PG,Adorp
+Molenweg,21,"","",9774PG,Adorp
+Molenweg,23,"","",9774PG,Adorp
+Molenweg,25,"","",9774PG,Adorp
+Molenweg,27,"","",9774PG,Adorp
+Molenweg,29,"","",9774PG,Adorp
+Molenweg,3,"","",9774PG,Adorp
+Molenweg,4,"","",9774PG,Adorp
+Molenweg,5,"","",9774PG,Adorp
+Molenweg,7,"","",9774PG,Adorp
+Molenweg,7,A,"",9774PG,Adorp
+Molenweg,7,A,"",9774PG,Adorp
+Molenweg,9,"","",9774PG,Adorp
+Torenweg,1,"","",9774PH,Adorp
+Torenweg,11,"","",9774PH,Adorp
+Torenweg,13,"","",9774PH,Adorp
+Torenweg,15,"","",9774PH,Adorp
+Torenweg,21,"","",9774PH,Adorp
+Torenweg,23,"","",9774PH,Adorp
+Torenweg,25,"","",9774PH,Adorp
+Torenweg,27,"","",9774PH,Adorp
+Torenweg,29,"","",9774PH,Adorp
+Torenweg,3,"","",9774PH,Adorp
+Torenweg,31,"","",9774PH,Adorp
+Torenweg,31,A,"",9774PH,Adorp
+Torenweg,31,A,"",9774PH,Adorp
+Torenweg,31,B,"",9774PH,Adorp
+Torenweg,31,B,"",9774PH,Adorp
+Torenweg,33,"","",9774PH,Adorp
+Torenweg,33,A,"",9774PH,Adorp
+Torenweg,33,A,"",9774PH,Adorp
+Torenweg,35,"","",9774PH,Adorp
+Torenweg,5,"","",9774PH,Adorp
+Torenweg,7,"","",9774PH,Adorp
+Torenweg,9,"","",9774PH,Adorp
+Torenweg,10,"","",9774PJ,Adorp
+Torenweg,12,"","",9774PJ,Adorp
+Torenweg,14,"","",9774PJ,Adorp
+Torenweg,16,"","",9774PJ,Adorp
+Torenweg,18,"","",9774PJ,Adorp
+Torenweg,2,"","",9774PJ,Adorp
+Torenweg,2,A,"",9774PJ,Adorp
+Torenweg,2,A,"",9774PJ,Adorp
+Torenweg,2,A,"",9774PJ,Adorp
+Torenweg,2,A,"",9774PJ,Adorp
+Torenweg,2,B,"",9774PJ,Adorp
+Torenweg,2,B,"",9774PJ,Adorp
+Torenweg,2,C,"",9774PJ,Adorp
+Torenweg,2,C,"",9774PJ,Adorp
+Torenweg,2,D,"",9774PJ,Adorp
+Torenweg,2,D,"",9774PJ,Adorp
+Torenweg,2,E,"",9774PJ,Adorp
+Torenweg,2,E,"",9774PJ,Adorp
+Torenweg,2,E,"",9774PJ,Adorp
+Torenweg,20,"","",9774PJ,Adorp
+Torenweg,4,"","",9774PJ,Adorp
+Torenweg,8,"","",9774PJ,Adorp
+Torenweg,22,"","",9774PK,Adorp
+Torenweg,34,"","",9774PK,Adorp
+Torenweg,36,"","",9774PK,Adorp
+Torenweg,38,"","",9774PK,Adorp
+Torenweg,40,"","",9774PK,Adorp
+Torenweg,42,"","",9774PK,Adorp
+Torenweg,44,"","",9774PK,Adorp
+Torenweg,46,"","",9774PK,Adorp
+Zuiderstraat,1,"","",9774PL,Adorp
+Zuiderstraat,10,"","",9774PL,Adorp
+Zuiderstraat,11,"","",9774PL,Adorp
+Zuiderstraat,12,"","",9774PL,Adorp
+Zuiderstraat,15,"","",9774PL,Adorp
+Zuiderstraat,2,"","",9774PL,Adorp
+Zuiderstraat,3,"","",9774PL,Adorp
+Zuiderstraat,5,"","",9774PL,Adorp
+Zuiderstraat,6,"","",9774PL,Adorp
+Zuiderstraat,8,"","",9774PL,Adorp
+Zuiderstraat,9,"","",9774PL,Adorp
+Wierdestraat,10,"","",9774PM,Adorp
+Wierdestraat,12,"","",9774PM,Adorp
+Wierdestraat,14,"","",9774PM,Adorp
+Wierdestraat,2,"","",9774PM,Adorp
+Wierdestraat,3,"","",9774PM,Adorp
+Wierdestraat,4,"","",9774PM,Adorp
+Wierdestraat,5,"","",9774PM,Adorp
+Wierdestraat,6,"","",9774PM,Adorp
+Wierdestraat,7,"","",9774PM,Adorp
+Wierdestraat,8,"","",9774PM,Adorp
+Wierdestraat,9,"","",9774PM,Adorp
+Kleinestraat,1,"","",9774PN,Adorp
+Kleinestraat,3,"","",9774PN,Adorp
+Kleinestraat,4,"","",9774PN,Adorp
+Kleinestraat,6,"","",9774PN,Adorp
+Kleinestraat,8,"","",9774PN,Adorp
+'t Ol Streepke,2,"","",9774PP,Adorp
+Wierumerschouwsterweg,1,"","",9774PR,Adorp
+Wierumerschouwsterweg,11,"","",9774PR,Adorp
+Wierumerschouwsterweg,13,"","",9774PR,Adorp
+Wierumerschouwsterweg,3,"","",9774PR,Adorp
+Wierumerschouwsterweg,5,"","",9774PR,Adorp
+Wierumerschouwsterweg,7,"","",9774PR,Adorp
+Wierumerschouwsterweg,9,"","",9774PR,Adorp
+Wierumerschouwsterweg,10,"","",9774PS,Adorp
+Wierumerschouwsterweg,12,"","",9774PS,Adorp
+Wierumerschouwsterweg,14,"","",9774PS,Adorp
+Wierumerschouwsterweg,16,"","",9774PS,Adorp
+Wierumerschouwsterweg,18,"","",9774PS,Adorp
+Wierumerschouwsterweg,2,"","",9774PS,Adorp
+Wierumerschouwsterweg,20,"","",9774PS,Adorp
+Wierumerschouwsterweg,22,"","",9774PS,Adorp
+Wierumerschouwsterweg,24,"","",9774PS,Adorp
+Wierumerschouwsterweg,26,"","",9774PS,Adorp
+Wierumerschouwsterweg,6,"","",9774PS,Adorp
+Wierumerschouwsterweg,8,"","",9774PS,Adorp
+Wierumerschouwsterweg,28,"","",9774PT,Adorp
+Wierumerschouwsterweg,30,"","",9774PT,Adorp
+Wierumerschouwsterweg,32,"","",9774PT,Adorp
+Wierumerschouwsterweg,34,"","",9774PT,Adorp
+Wierumerschouwsterweg,36,"","",9774PT,Adorp
+Wierumerschouwsterweg,38,"","",9774PT,Adorp
+Wierumerschouwsterweg,40,"","",9774PT,Adorp
+Wierumerschouwsterweg,42,"","",9774PT,Adorp
+Wierumerschouwsterweg,44,"","",9774PT,Adorp
+Wierumerschouwsterweg,46,"","",9774PT,Adorp
+Wierumerschouwsterweg,48,"","",9774PT,Adorp
+Onder de Wieken,1,"","",9774PV,Adorp
+Onder de Wieken,10,"","",9774PV,Adorp
+Onder de Wieken,11,"","",9774PV,Adorp
+Onder de Wieken,12,"","",9774PV,Adorp
+Onder de Wieken,13,"","",9774PV,Adorp
+Onder de Wieken,14,"","",9774PV,Adorp
+Onder de Wieken,16,"","",9774PV,Adorp
+Onder de Wieken,18,"","",9774PV,Adorp
+Onder de Wieken,19,"","",9774PV,Adorp
+Onder de Wieken,2,"","",9774PV,Adorp
+Onder de Wieken,20,"","",9774PV,Adorp
+Onder de Wieken,21,"","",9774PV,Adorp
+Onder de Wieken,22,"","",9774PV,Adorp
+Onder de Wieken,23,"","",9774PV,Adorp
+Onder de Wieken,24,"","",9774PV,Adorp
+Onder de Wieken,25,"","",9774PV,Adorp
+Onder de Wieken,26,"","",9774PV,Adorp
+Onder de Wieken,28,"","",9774PV,Adorp
+Onder de Wieken,3,"","",9774PV,Adorp
+Onder de Wieken,30,"","",9774PV,Adorp
+Onder de Wieken,4,"","",9774PV,Adorp
+Onder de Wieken,5,"","",9774PV,Adorp
+Onder de Wieken,6,"","",9774PV,Adorp
+Onder de Wieken,7,"","",9774PV,Adorp
+Onder de Wieken,8,"","",9774PV,Adorp
+Onder de Wieken,9,"","",9774PV,Adorp
+De Vang,1,"","",9774PW,Adorp
+De Vang,10,"","",9774PW,Adorp
+De Vang,11,"","",9774PW,Adorp
+De Vang,14,"","",9774PW,Adorp
+De Vang,14,"","",9774PW,Adorp
+De Vang,2,"","",9774PW,Adorp
+De Vang,3,"","",9774PW,Adorp
+De Vang,3,"","",9774PW,Adorp
+De Vang,4,"","",9774PW,Adorp
+De Vang,5,"","",9774PW,Adorp
+De Vang,6,"","",9774PW,Adorp
+De Vang,7,"","",9774PW,Adorp
+De Vang,8,"","",9774PW,Adorp
+De Vang,9,"","",9774PW,Adorp
+De Omloop,1,"","",9774PX,Adorp
+De Omloop,2,"","",9774PX,Adorp
+De Omloop,3,"","",9774PX,Adorp
+De Omloop,4,"","",9774PX,Adorp
+De Omloop,5,"","",9774PX,Adorp
+De Omloop,6,"","",9774PX,Adorp
+De Omloop,7,"","",9774PX,Adorp
+De Omloop,8,"","",9774PX,Adorp
+De Omloop,9,"","",9774PX,Adorp
+Wethouder D. Kruijerlaan,1,"","",9774RA,Adorp
+Wethouder D. Kruijerlaan,3,"","",9774RA,Adorp
+De Stelling,1,"","",9774RB,Adorp
+De Stelling,11,"","",9774RB,Adorp
+De Stelling,13,"","",9774RB,Adorp
+De Stelling,2,"","",9774RB,Adorp
+De Stelling,3,"","",9774RB,Adorp
+De Stelling,4,"","",9774RB,Adorp
+De Stelling,5,"","",9774RB,Adorp
+De Stelling,7,"","",9774RB,Adorp
+De Stelling,9,"","",9774RB,Adorp
+De Spruit,1,"","",9774RC,Adorp
+De Spruit,10,"","",9774RC,Adorp
+De Spruit,12,"","",9774RC,Adorp
+De Spruit,14,"","",9774RC,Adorp
+De Spruit,16,"","",9774RC,Adorp
+De Spruit,18,"","",9774RC,Adorp
+De Spruit,2,"","",9774RC,Adorp
+De Spruit,20,"","",9774RC,Adorp
+De Spruit,22,"","",9774RC,Adorp
+De Spruit,24,"","",9774RC,Adorp
+De Spruit,26,"","",9774RC,Adorp
+De Spruit,28,"","",9774RC,Adorp
+De Spruit,3,"","",9774RC,Adorp
+De Spruit,30,"","",9774RC,Adorp
+De Spruit,4,"","",9774RC,Adorp
+De Spruit,5,"","",9774RC,Adorp
+De Spruit,6,"","",9774RC,Adorp
+De Spruit,8,"","",9774RC,Adorp
+Provincialeweg,12,"","",9774TB,Adorp
+Provincialeweg,14,"","",9774TB,Adorp
+Provincialeweg,16,"","",9774TB,Adorp
+Provincialeweg,18,"","",9774TB,Adorp
+Provincialeweg,20,"","",9774TB,Adorp
+Provincialeweg,22,"","",9774TB,Adorp
+Provincialeweg,32,"","",9774TB,Adorp
+Provincialeweg,34,"","",9774TB,Adorp
+Provincialeweg,4,"","",9774TB,Adorp

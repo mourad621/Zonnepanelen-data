@@ -1,42 +1,42 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-4339PD,Boomdijk,3,,
-4339PD,Boomdijk,5,,
-4339NA,Langeweg,5,,
-4339NA,Langeweg,7,,
-4339NA,Langeweg,15,,
-4339NA,Langeweg,1,,
-4339NA,Langeweg,3,,
-4339NB,Langeweg,4,,
-4339NB,Langeweg,6,,
-4339NB,Langeweg,8,,
-4339NB,Langeweg,10,,
-4339NB,Langeweg,12,,
-4339NB,Langeweg,14,,
-4339NB,Langeweg,16,,
-4339NB,Langeweg,18,,
-4339NB,Langeweg,18,,
-4339NB,Langeweg,20,,
-4339NB,Langeweg,2,,
-4339PA,Langeweg,22,,
-4339PA,Langeweg,24,,
-4339NC,Rijksweg A58,1,,
-4339NA,Langeweg,3,A,
-4339NA,Langeweg,17,,
-4339NA,Langeweg,1,A,
-4339NA,Langeweg,3,B,
-4339NB,Langeweg,18,A,
-4339NB,Langeweg,18,A,
-4339NB,Langeweg,18,B,
-4339NB,Langeweg,18,C,
-4339NB,Langeweg,18,C,
-4339NB,Langeweg,18,F,
-4339NB,Langeweg,18,D,
-4339NB,Langeweg,18,G,
-4339NB,Langeweg,18,B,
-4339NB,Langeweg,18,E,
-4339NB,Langeweg,18,F,
-4339NB,Langeweg,18,,
-4339PD,Boomdijk,3,,
-4339NA,Langeweg,5,A,
-4339NB,Langeweg,20,,M
-4339PA,Langeweg,22,A,M
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Langeweg,1,"","",4339NA,Nieuw- en Sint Joosland
+Langeweg,1,A,"",4339NA,Nieuw- en Sint Joosland
+Langeweg,15,"","",4339NA,Nieuw- en Sint Joosland
+Langeweg,17,"","",4339NA,Nieuw- en Sint Joosland
+Langeweg,3,"","",4339NA,Nieuw- en Sint Joosland
+Langeweg,3,A,"",4339NA,Nieuw- en Sint Joosland
+Langeweg,3,B,"",4339NA,Nieuw- en Sint Joosland
+Langeweg,5,"","",4339NA,Nieuw- en Sint Joosland
+Langeweg,5,A,"",4339NA,Nieuw- en Sint Joosland
+Langeweg,7,"","",4339NA,Nieuw- en Sint Joosland
+Langeweg,10,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,12,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,14,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,16,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,A,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,A,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,B,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,B,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,C,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,C,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,D,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,E,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,F,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,F,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,18,G,"",4339NB,Nieuw- en Sint Joosland
+Langeweg,2,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,20,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,20,"",M,4339NB,Nieuw- en Sint Joosland
+Langeweg,4,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,6,"","",4339NB,Nieuw- en Sint Joosland
+Langeweg,8,"","",4339NB,Nieuw- en Sint Joosland
+Rijksweg A58,1,"","",4339NC,Nieuw- en Sint Joosland
+Langeweg,22,"","",4339PA,Nieuw- en Sint Joosland
+Langeweg,22,A,M,4339PA,Nieuw- en Sint Joosland
+Langeweg,24,"","",4339PA,Nieuw- en Sint Joosland
+Boomdijk,3,"","",4339PD,Nieuw- en Sint Joosland
+Boomdijk,3,"","",4339PD,Nieuw- en Sint Joosland
+Boomdijk,5,"","",4339PD,Nieuw- en Sint Joosland

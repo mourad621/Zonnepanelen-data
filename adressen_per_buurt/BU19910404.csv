@@ -1,38 +1,38 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-5374BE,Broksteeg,1,,
-5374BE,Broksteeg,2,,
-5374BE,Broksteeg,3,,
-5374BE,Broksteeg,4,,
-5374BE,Broksteeg,5,,
-5374BE,Broksteeg,7,,
-5374CS,Kerkweg,1,,
-5374CS,Kerkweg,2,,
-5374CS,Kerkweg,6,,
-5374AE,Middelstraat,1,,
-5374AE,Middelstraat,3,,
-5374AE,Middelstraat,5,,
-5374AE,Middelstraat,7,,
-5374KB,Waterstraat,1,a,
-5374KB,Waterstraat,1,,
-5374KB,Waterstraat,2,,
-5374KB,Waterstraat,3,a,
-5374KB,Waterstraat,3,,
-5374KB,Waterstraat,5,,
-5374KB,Waterstraat,7,,
-5374KB,Waterstraat,7,,
-5374KB,Waterstraat,7,,
-5374HX,'t Oliemeulen,1,,
-5374HX,'t Oliemeulen,8,,
-5374HX,'t Oliemeulen,12,,
-5374HX,'t Oliemeulen,2,,
-5374HX,'t Oliemeulen,6,,
-5374LA,Elsstraat,3,,
-5374LA,Elsstraat,1,,
-5374BE,Broksteeg,2,a,
-5374CS,Kerkweg,2,a,
-5374AE,Middelstraat,7,a,
-5374AE,Middelstraat,7,a,
-5374LA,Elsstraat,3,,
-5374BE,Broksteeg,5,A,
-5374HX,'t Oliemeulen,1,A,
-5374LA,Elsstraat,3,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Middelstraat,1,"","",5374AE,Schaijk
+Middelstraat,3,"","",5374AE,Schaijk
+Middelstraat,5,"","",5374AE,Schaijk
+Middelstraat,7,"","",5374AE,Schaijk
+Middelstraat,7,A,"",5374AE,Schaijk
+Middelstraat,7,A,"",5374AE,Schaijk
+Broksteeg,1,"","",5374BE,Schaijk
+Broksteeg,2,"","",5374BE,Schaijk
+Broksteeg,2,A,"",5374BE,Schaijk
+Broksteeg,3,"","",5374BE,Schaijk
+Broksteeg,4,"","",5374BE,Schaijk
+Broksteeg,5,"","",5374BE,Schaijk
+Broksteeg,5,A,"",5374BE,Schaijk
+Broksteeg,7,"","",5374BE,Schaijk
+Kerkweg,1,"","",5374CS,Schaijk
+Kerkweg,2,"","",5374CS,Schaijk
+Kerkweg,2,A,"",5374CS,Schaijk
+Kerkweg,6,"","",5374CS,Schaijk
+'t Oliemeulen,1,"","",5374HX,Schaijk
+'t Oliemeulen,1,A,"",5374HX,Schaijk
+'t Oliemeulen,12,"","",5374HX,Schaijk
+'t Oliemeulen,2,"","",5374HX,Schaijk
+'t Oliemeulen,6,"","",5374HX,Schaijk
+'t Oliemeulen,8,"","",5374HX,Schaijk
+Waterstraat,1,"","",5374KB,Schaijk
+Waterstraat,1,A,"",5374KB,Schaijk
+Waterstraat,2,"","",5374KB,Schaijk
+Waterstraat,3,"","",5374KB,Schaijk
+Waterstraat,3,A,"",5374KB,Schaijk
+Waterstraat,5,"","",5374KB,Schaijk
+Waterstraat,7,"","",5374KB,Schaijk
+Waterstraat,7,"","",5374KB,Schaijk
+Waterstraat,7,"","",5374KB,Schaijk
+Elsstraat,1,"","",5374LA,Schaijk
+Elsstraat,3,"","",5374LA,Schaijk
+Elsstraat,3,"","",5374LA,Schaijk
+Elsstraat,3,A,"",5374LA,Schaijk

@@ -1,991 +1,499 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9284KD",33,"",""
-"9284KD",11,"",""
-"9284KD",29,"",""
-"9284KD",5,"",""
-"9284KD",17,"",""
-"9284KD",13,"",""
-"9284KD",1,"A",""
-"9284KD",27,"",""
-"9284KD",7,"",""
-"9284KD",31,"",""
-"9284KD",15,"",""
-"9284KD",35,"",""
-"9284KD",39,"",""
-"9284KD",25,"",""
-"9284KD",37,"",""
-"9284KD",3,"",""
-"9284KD",1,"",""
-"9284KD",17,"A",""
-"9284KD",23,"A",""
-"9284KD",23,"",""
-"9284KD",17,"A",""
-"9284KD",19,"A",""
-"9284KD",19,"",""
-"9284KE",6,"A",""
-"9284KE",16,"",""
-"9284KE",12,"",""
-"9284KE",4,"",""
-"9284KE",10,"",""
-"9284KE",8,"A",""
-"9284KE",14,"",""
-"9284KE",16,"A",""
-"9284KE",18,"",""
-"9284KE",2,"",""
-"9284KE",6,"",""
-"9284KE",8,"",""
-"9284KE",2,"A",""
-"9284KG",23,"",""
-"9284KG",5,"A",""
-"9284KG",5,"",""
-"9284KG",15,"",""
-"9284KG",21,"",""
-"9284KG",9,"",""
-"9284KG",11,"",""
-"9284KG",1,"",""
-"9284KG",7,"",""
-"9284KG",1,"A",""
-"9284KG",13,"",""
-"9284KG",25,"",""
-"9284KG",19,"",""
-"9284KG",17,"",""
-"9284KG",23,"A",""
-"9284KG",23,"B",""
-"9284KH",50,"",""
-"9284KH",22,"",""
-"9284KH",32,"",""
-"9284KH",52,"",""
-"9284KH",42,"",""
-"9284KH",20,"",""
-"9284KH",34,"",""
-"9284KH",38,"",""
-"9284KH",28,"",""
-"9284KH",40,"",""
-"9284KH",48,"",""
-"9284KH",46,"",""
-"9284KH",26,"",""
-"9284KH",44,"",""
-"9284SC",42,"",""
-"9284SC",44,"",""
-"9284SC",20,"",""
-"9284SC",32,"",""
-"9284SC",41,"",""
-"9284SC",38,"",""
-"9284SC",43,"",""
-"9284SC",55,"",""
-"9284SC",6,"",""
-"9284SC",15,"",""
-"9284SC",18,"",""
-"9284SC",36,"",""
-"9284SC",21,"",""
-"9284SC",24,"",""
-"9284SC",40,"",""
-"9284SC",34,"",""
-"9284SC",26,"",""
-"9284SC",1,"",""
-"9284SC",2,"",""
-"9284SC",53,"",""
-"9284SC",3,"",""
-"9284SC",8,"",""
-"9284SC",19,"",""
-"9284SC",49,"",""
-"9284SC",17,"",""
-"9284SC",28,"",""
-"9284SC",23,"",""
-"9284SC",30,"",""
-"9284SC",27,"",""
-"9284SC",5,"",""
-"9284SC",4,"",""
-"9284SC",47,"",""
-"9284SC",16,"",""
-"9284SC",11,"",""
-"9284SC",10,"",""
-"9284SC",9,"",""
-"9284SC",25,"",""
-"9284SC",14,"",""
-"9284SC",13,"",""
-"9284SC",7,"",""
-"9284SC",22,"",""
-"9284SC",51,"",""
-"9284SC",45,"",""
-"9284SC",12,"",""
-"9284SE",54,"",""
-"9284SE",57,"",""
-"9284SE",70,"",""
-"9284SE",63,"",""
-"9284SE",75,"",""
-"9284SE",67,"",""
-"9284SE",50,"",""
-"9284SE",48,"",""
-"9284SE",73,"",""
-"9284SE",79,"",""
-"9284SE",64,"",""
-"9284SE",62,"",""
-"9284SE",68,"",""
-"9284SE",72,"",""
-"9284SE",52,"",""
-"9284SE",65,"",""
-"9284SE",69,"",""
-"9284SE",76,"",""
-"9284SE",71,"",""
-"9284SE",77,"",""
-"9284SE",58,"",""
-"9284SE",46,"",""
-"9284SE",74,"",""
-"9284SE",59,"",""
-"9284SE",56,"",""
-"9284SE",61,"",""
-"9284SE",66,"",""
-"9284SG",2,"","G005"
-"9284SG",1,"",""
-"9284SG",2,"","G001"
-"9284SG",2,"","G002"
-"9284SG",2,"","G004"
-"9284SG",2,"","G003"
-"9284SH",6,"",""
-"9284SH",2,"",""
-"9284SH",4,"",""
-"9284SH",8,"",""
-"9284SH",10,"",""
-"9284SJ",9,"",""
-"9284SJ",14,"",""
-"9284SJ",20,"",""
-"9284SJ",13,"",""
-"9284SJ",22,"",""
-"9284SJ",1,"",""
-"9284SJ",8,"",""
-"9284SJ",10,"",""
-"9284SJ",18,"",""
-"9284SJ",6,"",""
-"9284SJ",7,"",""
-"9284SJ",5,"",""
-"9284SJ",2,"",""
-"9284SJ",12,"",""
-"9284SJ",11,"",""
-"9284SJ",24,"",""
-"9284SJ",16,"",""
-"9284SJ",4,"",""
-"9284SJ",3,"",""
-"9284SK",1,"",""
-"9284SL",7,"",""
-"9284SL",8,"",""
-"9284SL",2,"",""
-"9284SL",3,"",""
-"9284SL",6,"",""
-"9284SL",4,"",""
-"9284SL",1,"",""
-"9284SL",5,"",""
-"9284SM",7,"",""
-"9284SM",3,"",""
-"9284SM",1,"",""
-"9284SM",2,"",""
-"9284SM",6,"",""
-"9284SM",5,"",""
-"9284SM",4,"",""
-"9284SN",8,"",""
-"9284SN",6,"",""
-"9284SN",4,"",""
-"9284SN",12,"",""
-"9284SN",2,"",""
-"9284TA",35,"A",""
-"9284TA",31,"",""
-"9284TA",33,"",""
-"9284TA",13,"",""
-"9284TA",37,"A",""
-"9284TA",37,"",""
-"9284TA",37,"",""
-"9284TA",19,"",""
-"9284TA",9,"",""
-"9284TA",33,"A",""
-"9284TA",33,"C",""
-"9284TA",33,"B",""
-"9284TA",35,"B",""
-"9284TA",15,"",""
-"9284TA",23,"",""
-"9284TA",37,"",""
-"9284TA",5,"",""
-"9284TA",25,"",""
-"9284TA",35,"",""
-"9284TA",29,"",""
-"9284TA",27,"",""
-"9284TA",11,"",""
-"9284TA",1,"",""
-"9284TA",7,"",""
-"9284TA",3,"",""
-"9284TA",21,"",""
-"9284TB",1,"","G002"
-"9284TB",2,"",""
-"9284TB",12,"",""
-"9284TB",13,"",""
-"9284TB",1,"","G001"
-"9284TB",5,"",""
-"9284TB",1,"",""
-"9284TB",3,"",""
-"9284TB",4,"",""
-"9284TB",8,"",""
-"9284TB",6,"",""
-"9284TB",15,"",""
-"9284TB",10,"",""
-"9284TB",7,"",""
-"9284TB",9,"",""
-"9284TC",38,"",""
-"9284TC",18,"",""
-"9284TC",38,"B",""
-"9284TC",22,"",""
-"9284TC",26,"",""
-"9284TC",20,"",""
-"9284TC",34,"",""
-"9284TC",24,"",""
-"9284TC",32,"",""
-"9284TC",38,"C",""
-"9284TC",38,"A",""
-"9284TC",28,"",""
-"9284TC",40,"",""
-"9284TC",16,"",""
-"9284TC",38,"D",""
-"9284TD",5,"",""
-"9284TD",8,"",""
-"9284TD",9,"",""
-"9284TD",7,"",""
-"9284TD",4,"",""
-"9284TD",2,"",""
-"9284TD",7,"",""
-"9284TD",1,"",""
-"9284TD",7,"",""
-"9284TD",6,"",""
-"9284TD",3,"",""
-"9284TE",17,"",""
-"9284TE",7,"",""
-"9284TE",12,"",""
-"9284TE",19,"",""
-"9284TE",9,"",""
-"9284TE",13,"",""
-"9284TE",15,"",""
-"9284TE",2,"",""
-"9284TE",6,"",""
-"9284TE",8,"",""
-"9284TE",10,"",""
-"9284TE",5,"",""
-"9284TG",10,"",""
-"9284TG",14,"",""
-"9284TG",8,"",""
-"9284TG",24,"A",""
-"9284TG",18,"A",""
-"9284TG",5,"",""
-"9284TG",9,"",""
-"9284TG",2,"",""
-"9284TG",11,"",""
-"9284TG",22,"",""
-"9284TG",1,"B",""
-"9284TG",6,"",""
-"9284TG",12,"",""
-"9284TG",1,"",""
-"9284TG",20,"",""
-"9284TG",3,"",""
-"9284TG",18,"",""
-"9284TG",4,"",""
-"9284TG",16,"",""
-"9284TG",1,"A",""
-"9284TH",29,"",""
-"9284TH",33,"",""
-"9284TH",25,"",""
-"9284TH",31,"",""
-"9284TH",37,"",""
-"9284TH",39,"",""
-"9284TH",13,"",""
-"9284TH",41,"",""
-"9284TH",15,"",""
-"9284TH",17,"",""
-"9284TH",23,"",""
-"9284TH",35,"",""
-"9284TH",21,"",""
-"9284TH",11,"",""
-"9284TH",27,"",""
-"9284TH",7,"",""
-"9284TH",19,"",""
-"9284TH",9,"",""
-"9284TH",5,"",""
-"9284TJ",2,"",""
-"9284TJ",48,"",""
-"9284TJ",4,"A",""
-"9284TJ",52,"",""
-"9284TJ",50,"",""
-"9284TJ",46,"",""
-"9284TJ",36,"",""
-"9284TJ",6,"",""
-"9284TJ",4,"",""
-"9284TJ",40,"",""
-"9284TJ",38,"",""
-"9284TJ",6,"A",""
-"9284TJ",44,"",""
-"9284TJ",42,"",""
-"9284TJ",36,"",""
-"9284TK",7,"",""
-"9284TK",9,"",""
-"9284TK",3,"",""
-"9284TK",2,"",""
-"9284TK",4,"",""
-"9284TK",1,"",""
-"9284TK",5,"",""
-"9284TK",6,"",""
-"9284TL",26,"",""
-"9284TL",22,"",""
-"9284TL",25,"",""
-"9284TL",7,"",""
-"9284TL",28,"",""
-"9284TL",24,"",""
-"9284TL",18,"",""
-"9284TL",15,"",""
-"9284TL",19,"",""
-"9284TL",20,"",""
-"9284TL",14,"",""
-"9284TL",21,"",""
-"9284TL",32,"",""
-"9284TL",31,"",""
-"9284TL",23,"",""
-"9284TL",12,"",""
-"9284TL",17,"",""
-"9284TL",16,"",""
-"9284TL",10,"",""
-"9284TL",9,"",""
-"9284TL",2,"",""
-"9284TL",13,"",""
-"9284TL",4,"",""
-"9284TL",27,"",""
-"9284TL",8,"",""
-"9284TL",3,"",""
-"9284TL",5,"",""
-"9284TL",11,"",""
-"9284TL",29,"",""
-"9284TL",6,"",""
-"9284TL",1,"",""
-"9284TN",9,"",""
-"9284TN",6,"",""
-"9284TN",4,"",""
-"9284TN",11,"",""
-"9284TN",2,"",""
-"9284TN",3,"",""
-"9284TN",5,"",""
-"9284TN",13,"",""
-"9284TN",7,"",""
-"9284TN",15,"",""
-"9284TN",8,"",""
-"9284TN",1,"",""
-"9284TP",27,"",""
-"9284TP",29,"",""
-"9284TP",15,"",""
-"9284TP",19,"",""
-"9284TP",21,"",""
-"9284TP",11,"",""
-"9284TP",9,"",""
-"9284TP",17,"",""
-"9284TP",7,"",""
-"9284TP",25,"",""
-"9284TP",5,"",""
-"9284TP",13,"",""
-"9284TP",3,"",""
-"9284TP",23,"",""
-"9284TP",1,"",""
-"9284TR",2,"",""
-"9284TR",12,"",""
-"9284TR",22,"",""
-"9284TR",12,"",""
-"9284TR",22,"",""
-"9284TR",20,"",""
-"9284TR",10,"",""
-"9284TR",8,"",""
-"9284TR",10,"",""
-"9284TR",2,"",""
-"9284TR",8,"",""
-"9284TR",6,"",""
-"9284TR",4,"",""
-"9284TR",24,"",""
-"9284TR",20,"",""
-"9284TR",4,"",""
-"9284TR",6,"",""
-"9284TR",22,"",""
-"9284TR",20,"",""
-"9284TR",18,"",""
-"9284TR",16,"",""
-"9284TR",14,"",""
-"9284TS",19,"B",""
-"9284TS",21,"A",""
-"9284TS",21,"",""
-"9284TS",21,"B",""
-"9284TS",5,"",""
-"9284TS",15,"",""
-"9284TS",7,"",""
-"9284TS",11,"",""
-"9284TS",19,"A",""
-"9284TS",17,"",""
-"9284TS",19,"",""
-"9284TS",11,"A",""
-"9284TS",1,"",""
-"9284TS",3,"",""
-"9284TS",9,"",""
-"9284TT",49,"",""
-"9284TT",47,"",""
-"9284TT",37,"",""
-"9284TT",39,"",""
-"9284TT",41,"",""
-"9284TT",45,"",""
-"9284TT",35,"",""
-"9284TT",29,"",""
-"9284TT",23,"A",""
-"9284TT",27,"",""
-"9284TT",23,"",""
-"9284TT",27,"A",""
-"9284TT",31,"",""
-"9284TT",25,"",""
-"9284TT",43,"",""
-"9284TT",33,"",""
-"9284TV",26,"",""
-"9284TV",16,"",""
-"9284TV",6,"",""
-"9284TV",4,"",""
-"9284TV",24,"",""
-"9284TV",2,"A",""
-"9284TV",6,"A",""
-"9284TV",14,"",""
-"9284TV",18,"",""
-"9284TV",8,"",""
-"9284TV",22,"",""
-"9284TV",2,"",""
-"9284TV",10,"",""
-"9284TV",20,"",""
-"9284TV",12,"",""
-"9284TW",36,"",""
-"9284TW",46,"",""
-"9284TW",48,"",""
-"9284TW",34,"",""
-"9284TW",42,"",""
-"9284TW",44,"",""
-"9284TW",52,"",""
-"9284TW",32,"",""
-"9284TW",30,"",""
-"9284TW",54,"",""
-"9284TW",50,"",""
-"9284TW",28,"",""
-"9284TW",38,"",""
-"9284TX",78,"",""
-"9284TX",70,"A",""
-"9284TX",66,"",""
-"9284TX",66,"A",""
-"9284TX",68,"",""
-"9284TX",60,"",""
-"9284TX",62,"",""
-"9284TX",58,"",""
-"9284TX",72,"",""
-"9284TX",64,"",""
-"9284TX",70,"",""
-"9284TZ",4,"",""
-"9284TZ",2,"",""
-"9284XN",2,"",""
-"9284XN",3,"",""
-"9284XN",1,"A",""
-"9284XN",1,"",""
-"9284XN",10,"",""
-"9284XN",6,"A",""
-"9284XN",4,"",""
-"9284XN",7,"",""
-"9284XN",1,"",""
-"9284XN",8,"",""
-"9284XN",6,"",""
-"9284XN",1,"",""
-"9284XN",10,"A",""
-"9284XN",5,"",""
-"9284XP",6,"",""
-"9284XP",2,"",""
-"9284XP",4,"",""
-9284SG,Tsjerkepaed,2,,G001
-9284SG,Tsjerkepaed,2,,G002
-9284SG,Tsjerkepaed,2,,G003
-9284SG,Tsjerkepaed,2,,G004
-9284SG,Tsjerkepaed,2,,G005
-9284TD,Abrahamsplein,7,,
-9284TD,Abrahamsplein,9,,
-9284TD,Abrahamsplein,6,,
-9284TD,Abrahamsplein,3,,
-9284TD,Abrahamsplein,4,,
-9284TD,Abrahamsplein,5,,
-9284TZ,Dwerspaed,2,,
-9284TZ,Dwerspaed,4,,
-9284TB,Gealeloane,1,,G001
-9284TB,Gealeloane,1,,G002
-9284TB,Gealeloane,9,,
-9284TL,Siccamawei,32,,
-9284TJ,Willem Barteles van der Kooiwei,2,,
-9284TJ,Willem Barteles van der Kooiwei,4,,
-9284XN,Legeloane,1,,
-9284XN,Legeloane,2,,
-9284XN,Legeloane,4,,
-9284XN,Legeloane,6,,
-9284XN,Legeloane,7,,
-9284KG,Feartswâl,23,B,
-9284KG,Feartswâl,1,,
-9284TA,Geawei,27,,
-9284TA,Geawei,13,,
-9284TA,Geawei,25,,
-9284TA,Geawei,15,,
-9284TA,Geawei,1,,
-9284TA,Geawei,19,,
-9284TA,Geawei,7,,
-9284TB,Geawei,6,,
-9284TB,Geawei,2,,
-9284TB,Geawei,8,,
-9284TC,Geawei,16,,
-9284TC,Geawei,18,,
-9284TC,Geawei,28,,
-9284TC,Geawei,38,D,
-9284TC,Geawei,20,,
-9284TC,Geawei,22,,
-9284TC,Geawei,26,,
-9284TC,Geawei,40,,
-9284TG,It Oast,6,,
-9284TG,It Oast,18,,
-9284TG,It Oast,1,,
-9284TG,It Oast,5,,
-9284TG,It Oast,8,,
-9284TG,It Oast,18,A,
-9284TG,It Oast,4,,
-9284TG,It Oast,2,,
-9284TG,It Oast,14,,
-9284TG,It Oast,3,,
-9284TG,It Oast,16,,
-9284KD,It West,17,,
-9284KD,It West,37,,
-9284KD,It West,39,,
-9284KD,It West,13,,
-9284KD,It West,15,,
-9284KD,It West,1,,
-9284KD,It West,3,,
-9284KD,It West,7,,
-9284KE,It West,4,,
-9284KE,It West,6,A,
-9284KE,It West,12,,
-9284KE,It West,2,,
-9284KH,It West,50,,
-9284KH,It West,20,,
-9284KH,It West,38,,
-9284KH,It West,40,,
-9284KH,It West,42,,
-9284KH,It West,48,,
-9284KH,It West,26,,
-9284KH,It West,28,,
-9284TS,Skoalikkers,19,,
-9284TS,Skoalikkers,11,,
-9284TS,Skoalikkers,11,A,
-9284TT,Skoalikkers,25,,
-9284TT,Skoalikkers,39,,
-9284TT,Skoalikkers,41,,
-9284TT,Skoalikkers,27,,
-9284TT,Skoalikkers,29,,
-9284TT,Skoalikkers,49,,
-9284TT,Skoalikkers,31,,
-9284TT,Skoalikkers,33,,
-9284TT,Skoalikkers,35,,
-9284TV,Skoalikkers,10,,
-9284TV,Skoalikkers,16,,
-9284TV,Skoalikkers,2,,
-9284TW,Skoalikkers,48,,
-9284TW,Skoalikkers,46,,
-9284TW,Skoalikkers,44,,
-9284TW,Skoalikkers,50,,
-9284TW,Skoalikkers,52,,
-9284TW,Skoalikkers,54,,
-9284TX,Skoalikkers,78,,
-9284TX,Skoalikkers,64,,
-9284TX,Skoalikkers,72,,
-9284TX,Skoalikkers,70,,
-9284TX,Skoalikkers,58,,
-9284TX,Skoalikkers,60,,
-9284TX,Skoalikkers,62,,
-9284TE,Sylgong,6,,
-9284TE,Sylgong,7,,
-9284TE,Sylgong,9,,
-9284TN,Gaikemastrjitte,2,,
-9284TN,Gaikemastrjitte,4,,
-9284TN,Gaikemastrjitte,6,,
-9284TN,Gaikemastrjitte,8,,
-9284TR,Jensmastrjitte,20,,
-9284TR,Jensmastrjitte,22,,
-9284SG,Tsjerkepaed,1,,
-9284SJ,De Opslach,6,,
-9284SJ,De Opslach,12,,
-9284SJ,De Opslach,14,,
-9284SM,It Oerset,7,,
-9284SM,It Oerset,4,,
-9284SM,It Oerset,1,,
-9284SN,It Stalt,8,,
-9284SN,It Stalt,2,,
-9284SN,It Stalt,4,,
-9284SN,It Stalt,6,,
-9284SN,It Stalt,12,,
-9284SH,Weinmakkerij,4,,
-9284SH,Weinmakkerij,6,,
-9284TD,Abrahamsplein,2,,
-9284XP,Efterwei,6,,
-9284XP,Efterwei,4,,
-9284XP,Efterwei,2,,
-9284TB,Gealeloane,15,,
-9284TB,Gealeloane,13,,
-9284TB,Gealeloane,1,,
-9284TB,Gealeloane,5,,
-9284TB,Gealeloane,7,,
-9284TB,Gealeloane,3,,
-9284TL,Siccamawei,6,,
-9284TL,Siccamawei,8,,
-9284TL,Siccamawei,10,,
-9284TL,Siccamawei,2,,
-9284TL,Siccamawei,4,,
-9284TL,Siccamawei,12,,
-9284TL,Siccamawei,14,,
-9284TL,Siccamawei,16,,
-9284TL,Siccamawei,18,,
-9284TL,Siccamawei,20,,
-9284TL,Siccamawei,22,,
-9284TL,Siccamawei,24,,
-9284TL,Siccamawei,26,,
-9284TL,Siccamawei,28,,
-9284TL,Siccamawei,1,,
-9284TL,Siccamawei,7,,
-9284TL,Siccamawei,3,,
-9284TL,Siccamawei,5,,
-9284TL,Siccamawei,15,,
-9284TL,Siccamawei,17,,
-9284TL,Siccamawei,19,,
-9284TL,Siccamawei,21,,
-9284TL,Siccamawei,23,,
-9284TL,Siccamawei,25,,
-9284TL,Siccamawei,27,,
-9284TL,Siccamawei,29,,
-9284TL,Siccamawei,9,,
-9284TL,Siccamawei,11,,
-9284TL,Siccamawei,13,,
-9284TL,Siccamawei,31,,
-9284SK,Pastorijpaed,1,,
-9284TH,Willem Barteles van der Kooiwei,11,,
-9284TH,Willem Barteles van der Kooiwei,5,,
-9284TH,Willem Barteles van der Kooiwei,13,,
-9284TH,Willem Barteles van der Kooiwei,41,,
-9284TH,Willem Barteles van der Kooiwei,23,,
-9284TH,Willem Barteles van der Kooiwei,25,,
-9284TH,Willem Barteles van der Kooiwei,27,,
-9284TH,Willem Barteles van der Kooiwei,29,,
-9284TH,Willem Barteles van der Kooiwei,33,,
-9284TH,Willem Barteles van der Kooiwei,35,,
-9284TH,Willem Barteles van der Kooiwei,37,,
-9284TH,Willem Barteles van der Kooiwei,39,,
-9284TH,Willem Barteles van der Kooiwei,31,,
-9284TH,Willem Barteles van der Kooiwei,15,,
-9284TH,Willem Barteles van der Kooiwei,17,,
-9284TH,Willem Barteles van der Kooiwei,19,,
-9284TH,Willem Barteles van der Kooiwei,21,,
-9284TH,Willem Barteles van der Kooiwei,7,,
-9284TH,Willem Barteles van der Kooiwei,9,,
-9284TJ,Willem Barteles van der Kooiwei,6,,
-9284TJ,Willem Barteles van der Kooiwei,38,,
-9284TJ,Willem Barteles van der Kooiwei,40,,
-9284TJ,Willem Barteles van der Kooiwei,42,,
-9284TJ,Willem Barteles van der Kooiwei,44,,
-9284TJ,Willem Barteles van der Kooiwei,46,,
-9284TJ,Willem Barteles van der Kooiwei,48,,
-9284TJ,Willem Barteles van der Kooiwei,50,,
-9284TJ,Willem Barteles van der Kooiwei,52,,
-9284TJ,Willem Barteles van der Kooiwei,36,,
-9284TJ,Willem Barteles van der Kooiwei,4,A,
-9284TJ,Willem Barteles van der Kooiwei,6,A,
-9284XN,Legeloane,5,,
-9284XN,Legeloane,6,A,
-9284XN,Legeloane,3,,
-9284XN,Legeloane,10,A,
-9284XN,Legeloane,8,,
-9284KG,Feartswâl,9,,
-9284KG,Feartswâl,11,,
-9284KG,Feartswâl,13,,
-9284KG,Feartswâl,17,,
-9284KG,Feartswâl,19,,
-9284KG,Feartswâl,23,,
-9284KG,Feartswâl,7,,
-9284KG,Feartswâl,1,A,
-9284KG,Feartswâl,5,A,
-9284KG,Feartswâl,5,,
-9284KG,Feartswâl,23,A,
-9284KG,Feartswâl,21,,
-9284TA,Geawei,29,,
-9284TA,Geawei,31,,
-9284TA,Geawei,11,,
-9284TA,Geawei,35,A,
-9284TA,Geawei,3,,
-9284TA,Geawei,5,,
-9284TA,Geawei,35,,
-9284TA,Geawei,33,A,
-9284TA,Geawei,33,B,
-9284TA,Geawei,33,C,
-9284TA,Geawei,9,,
-9284TA,Geawei,23,,
-9284TA,Geawei,35,B,
-9284TA,Geawei,33,,
-9284TA,Geawei,21,,
-9284TA,Geawei,37,,
-9284TB,Geawei,12,,
-9284TB,Geawei,4,,
-9284TB,Geawei,10,,
-9284TC,Geawei,24,,
-9284TC,Geawei,32,,
-9284TC,Geawei,34,,
-9284TC,Geawei,38,A,
-9284TC,Geawei,38,,
-9284TC,Geawei,38,B,
-9284TC,Geawei,38,C,
-9284TG,It Oast,11,,
-9284TG,It Oast,24,A,
-9284TG,It Oast,10,,
-9284TG,It Oast,22,,
-9284TG,It Oast,12,,
-9284TG,It Oast,9,,
-9284TG,It Oast,20,,
-9284TG,It Oast,1,A,
-9284KD,It West,27,,
-9284KD,It West,5,,
-9284KD,It West,11,,
-9284KD,It West,25,,
-9284KD,It West,33,,
-9284KD,It West,17,A,
-9284KD,It West,1,A,
-9284KD,It West,23,,
-9284KD,It West,23,A,
-9284KD,It West,35,,
-9284KD,It West,19,,
-9284KD,It West,19,A,
-9284KD,It West,31,,
-9284KE,It West,16,,
-9284KE,It West,16,A,
-9284KE,It West,8,,
-9284KE,It West,18,,
-9284KE,It West,8,A,
-9284KE,It West,14,,
-9284KH,It West,22,,
-9284KH,It West,44,,
-9284KH,It West,46,,
-9284KH,It West,52,,
-9284TS,Skoalikkers,17,,
-9284TS,Skoalikkers,7,,
-9284TS,Skoalikkers,9,,
-9284TS,Skoalikkers,15,,
-9284TS,Skoalikkers,1,,
-9284TS,Skoalikkers,3,,
-9284TS,Skoalikkers,5,,
-9284TS,Skoalikkers,19,A,
-9284TS,Skoalikkers,19,B,
-9284TS,Skoalikkers,21,,
-9284TS,Skoalikkers,21,A,
-9284TS,Skoalikkers,21,B,
-9284TT,Skoalikkers,43,,
-9284TT,Skoalikkers,37,,
-9284TT,Skoalikkers,23,A,
-9284TT,Skoalikkers,27,A,
-9284TT,Skoalikkers,45,,
-9284TT,Skoalikkers,47,,
-9284TT,Skoalikkers,23,,
-9284TV,Skoalikkers,2,A,
-9284TV,Skoalikkers,8,,
-9284TV,Skoalikkers,14,,
-9284TV,Skoalikkers,20,,
-9284TV,Skoalikkers,22,,
-9284TV,Skoalikkers,26,,
-9284TV,Skoalikkers,4,,
-9284TV,Skoalikkers,6,,
-9284TV,Skoalikkers,24,,
-9284TV,Skoalikkers,18,,
-9284TV,Skoalikkers,6,A,
-9284TV,Skoalikkers,12,,
-9284TW,Skoalikkers,42,,
-9284TW,Skoalikkers,28,,
-9284TW,Skoalikkers,30,,
-9284TW,Skoalikkers,32,,
-9284TW,Skoalikkers,34,,
-9284TW,Skoalikkers,36,,
-9284TW,Skoalikkers,38,,
-9284TX,Skoalikkers,68,,
-9284TX,Skoalikkers,70,A,
-9284TX,Skoalikkers,66,,
-9284TX,Skoalikkers,66,A,
-9284TE,Sylgong,15,,
-9284TE,Sylgong,17,,
-9284TE,Sylgong,19,,
-9284TE,Sylgong,13,,
-9284TE,Sylgong,2,,
-9284TE,Sylgong,8,,
-9284TE,Sylgong,10,,
-9284TN,Gaikemastrjitte,1,,
-9284TN,Gaikemastrjitte,3,,
-9284TN,Gaikemastrjitte,5,,
-9284TN,Gaikemastrjitte,7,,
-9284TN,Gaikemastrjitte,9,,
-9284TN,Gaikemastrjitte,11,,
-9284TN,Gaikemastrjitte,13,,
-9284TN,Gaikemastrjitte,15,,
-9284TP,Jensmastrjitte,1,,
-9284TP,Jensmastrjitte,3,,
-9284TP,Jensmastrjitte,5,,
-9284TP,Jensmastrjitte,7,,
-9284TP,Jensmastrjitte,9,,
-9284TP,Jensmastrjitte,11,,
-9284TP,Jensmastrjitte,13,,
-9284TP,Jensmastrjitte,15,,
-9284TP,Jensmastrjitte,17,,
-9284TP,Jensmastrjitte,19,,
-9284TP,Jensmastrjitte,21,,
-9284TP,Jensmastrjitte,23,,
-9284TP,Jensmastrjitte,25,,
-9284TP,Jensmastrjitte,27,,
-9284TP,Jensmastrjitte,29,,
-9284TR,Jensmastrjitte,2,,
-9284TR,Jensmastrjitte,2,,
-9284TR,Jensmastrjitte,4,,
-9284TR,Jensmastrjitte,4,,
-9284TR,Jensmastrjitte,6,,
-9284TR,Jensmastrjitte,6,,
-9284TR,Jensmastrjitte,8,,
-9284TR,Jensmastrjitte,8,,
-9284TR,Jensmastrjitte,10,,
-9284TR,Jensmastrjitte,10,,
-9284TR,Jensmastrjitte,12,,
-9284TR,Jensmastrjitte,12,,
-9284TR,Jensmastrjitte,14,,
-9284TR,Jensmastrjitte,16,,
-9284TR,Jensmastrjitte,18,,
-9284TR,Jensmastrjitte,20,,
-9284TR,Jensmastrjitte,22,,
-9284TR,Jensmastrjitte,24,,
-9284TK,Smeetsmakamp,1,,
-9284TK,Smeetsmakamp,3,,
-9284TK,Smeetsmakamp,5,,
-9284TK,Smeetsmakamp,2,,
-9284TK,Smeetsmakamp,9,,
-9284TK,Smeetsmakamp,7,,
-9284TK,Smeetsmakamp,4,,
-9284TK,Smeetsmakamp,6,,
-9284SC,Boskkamp,40,,
-9284SC,Boskkamp,41,,
-9284SC,Boskkamp,42,,
-9284SC,Boskkamp,43,,
-9284SC,Boskkamp,44,,
-9284SC,Boskkamp,49,,
-9284SC,Boskkamp,51,,
-9284SC,Boskkamp,53,,
-9284SC,Boskkamp,55,,
-9284SC,Boskkamp,30,,
-9284SC,Boskkamp,32,,
-9284SC,Boskkamp,34,,
-9284SC,Boskkamp,36,,
-9284SC,Boskkamp,38,,
-9284SC,Boskkamp,45,,
-9284SC,Boskkamp,47,,
-9284SC,Boskkamp,6,,
-9284SC,Boskkamp,8,,
-9284SC,Boskkamp,1,,
-9284SC,Boskkamp,3,,
-9284SC,Boskkamp,5,,
-9284SC,Boskkamp,7,,
-9284SC,Boskkamp,9,,
-9284SC,Boskkamp,11,,
-9284SC,Boskkamp,13,,
-9284SC,Boskkamp,15,,
-9284SC,Boskkamp,14,,
-9284SC,Boskkamp,16,,
-9284SC,Boskkamp,17,,
-9284SC,Boskkamp,18,,
-9284SC,Boskkamp,19,,
-9284SC,Boskkamp,20,,
-9284SC,Boskkamp,21,,
-9284SC,Boskkamp,22,,
-9284SC,Boskkamp,23,,
-9284SC,Boskkamp,24,,
-9284SC,Boskkamp,25,,
-9284SC,Boskkamp,26,,
-9284SC,Boskkamp,27,,
-9284SC,Boskkamp,28,,
-9284SC,Boskkamp,10,,
-9284SC,Boskkamp,12,,
-9284SE,Boskkamp,61,,
-9284SE,Boskkamp,69,,
-9284SE,Boskkamp,71,,
-9284SE,Boskkamp,73,,
-9284SE,Boskkamp,70,,
-9284SE,Boskkamp,72,,
-9284SE,Boskkamp,76,,
-9284SE,Boskkamp,74,,
-9284SE,Boskkamp,79,,
-9284SE,Boskkamp,63,,
-9284SE,Boskkamp,65,,
-9284SE,Boskkamp,67,,
-9284SE,Boskkamp,57,,
-9284SE,Boskkamp,59,,
-9284SE,Boskkamp,75,,
-9284SE,Boskkamp,62,,
-9284SE,Boskkamp,64,,
-9284SE,Boskkamp,66,,
-9284SE,Boskkamp,68,,
-9284SE,Boskkamp,46,,
-9284SE,Boskkamp,48,,
-9284SE,Boskkamp,50,,
-9284SE,Boskkamp,52,,
-9284SE,Boskkamp,54,,
-9284SE,Boskkamp,56,,
-9284SE,Boskkamp,58,,
-9284SJ,De Opslach,16,,
-9284SJ,De Opslach,18,,
-9284SJ,De Opslach,24,,
-9284SJ,De Opslach,1,,
-9284SJ,De Opslach,4,,
-9284SJ,De Opslach,22,,
-9284SJ,De Opslach,2,,
-9284SJ,De Opslach,3,,
-9284SJ,De Opslach,20,,
-9284SJ,De Opslach,13,,
-9284SJ,De Opslach,5,,
-9284SJ,De Opslach,7,,
-9284SJ,De Opslach,9,,
-9284SJ,De Opslach,11,,
-9284SJ,De Opslach,8,,
-9284SJ,De Opslach,10,,
-9284SL,De Smidte,6,,
-9284SL,De Smidte,7,,
-9284SL,De Smidte,8,,
-9284SL,De Smidte,5,,
-9284SL,De Smidte,1,,
-9284SL,De Smidte,2,,
-9284SL,De Smidte,3,,
-9284SL,De Smidte,4,,
-9284SM,It Oerset,2,,
-9284SM,It Oerset,3,,
-9284SM,It Oerset,5,,
-9284SM,It Oerset,6,,
-9284SH,Weinmakkerij,2,,
-9284SH,Weinmakkerij,8,,
-9284SH,Weinmakkerij,10,,
-9284TD,Abrahamsplein,1,,
-9284TD,Abrahamsplein,7,,
-9284TD,Abrahamsplein,8,,
-9284XN,Legeloane,10,,
-9284XN,Legeloane,1,,
-9284XN,Legeloane,1,A,
-9284KG,Feartswâl,15,,
-9284KG,Feartswâl,25,,
-9284TA,Geawei,37,,
-9284TA,Geawei,37,A,
-9284TG,It Oast,1,B,
-9284KD,It West,29,,
-9284KD,It West,17,A,
-9284KE,It West,10,,
-9284KE,It West,6,,
-9284KE,It West,2,A,
-9284KH,It West,32,,
-9284KH,It West,34,,
-9284TE,Sylgong,12,,
-9284TE,Sylgong,5,,
-9284SC,Boskkamp,2,,
-9284SC,Boskkamp,4,,
-9284SE,Boskkamp,77,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+It West,1,"","",9284KD,Augustinusga
+It West,1,A,"",9284KD,Augustinusga
+It West,11,"","",9284KD,Augustinusga
+It West,13,"","",9284KD,Augustinusga
+It West,15,"","",9284KD,Augustinusga
+It West,17,"","",9284KD,Augustinusga
+It West,17,A,"",9284KD,Augustinusga
+It West,17,A,"",9284KD,Augustinusga
+It West,19,"","",9284KD,Augustinusga
+It West,19,A,"",9284KD,Augustinusga
+It West,23,"","",9284KD,Augustinusga
+It West,23,A,"",9284KD,Augustinusga
+It West,25,"","",9284KD,Augustinusga
+It West,27,"","",9284KD,Augustinusga
+It West,29,"","",9284KD,Augustinusga
+It West,3,"","",9284KD,Augustinusga
+It West,31,"","",9284KD,Augustinusga
+It West,33,"","",9284KD,Augustinusga
+It West,35,"","",9284KD,Augustinusga
+It West,37,"","",9284KD,Augustinusga
+It West,39,"","",9284KD,Augustinusga
+It West,5,"","",9284KD,Augustinusga
+It West,7,"","",9284KD,Augustinusga
+It West,10,"","",9284KE,Augustinusga
+It West,12,"","",9284KE,Augustinusga
+It West,14,"","",9284KE,Augustinusga
+It West,16,"","",9284KE,Augustinusga
+It West,16,A,"",9284KE,Augustinusga
+It West,18,"","",9284KE,Augustinusga
+It West,2,"","",9284KE,Augustinusga
+It West,2,A,"",9284KE,Augustinusga
+It West,4,"","",9284KE,Augustinusga
+It West,6,"","",9284KE,Augustinusga
+It West,6,A,"",9284KE,Augustinusga
+It West,8,"","",9284KE,Augustinusga
+It West,8,A,"",9284KE,Augustinusga
+Feartswâl,1,"","",9284KG,Augustinusga
+Feartswâl,1,A,"",9284KG,Augustinusga
+Feartswâl,11,"","",9284KG,Augustinusga
+Feartswâl,13,"","",9284KG,Augustinusga
+Feartswâl,15,"","",9284KG,Augustinusga
+Feartswâl,17,"","",9284KG,Augustinusga
+Feartswâl,19,"","",9284KG,Augustinusga
+Feartswâl,21,"","",9284KG,Augustinusga
+Feartswâl,23,"","",9284KG,Augustinusga
+Feartswâl,23,A,"",9284KG,Augustinusga
+Feartswâl,23,B,"",9284KG,Augustinusga
+Feartswâl,25,"","",9284KG,Augustinusga
+Feartswâl,5,"","",9284KG,Augustinusga
+Feartswâl,5,A,"",9284KG,Augustinusga
+Feartswâl,7,"","",9284KG,Augustinusga
+Feartswâl,9,"","",9284KG,Augustinusga
+It West,20,"","",9284KH,Augustinusga
+It West,22,"","",9284KH,Augustinusga
+It West,26,"","",9284KH,Augustinusga
+It West,28,"","",9284KH,Augustinusga
+It West,32,"","",9284KH,Augustinusga
+It West,34,"","",9284KH,Augustinusga
+It West,38,"","",9284KH,Augustinusga
+It West,40,"","",9284KH,Augustinusga
+It West,42,"","",9284KH,Augustinusga
+It West,44,"","",9284KH,Augustinusga
+It West,46,"","",9284KH,Augustinusga
+It West,48,"","",9284KH,Augustinusga
+It West,50,"","",9284KH,Augustinusga
+It West,52,"","",9284KH,Augustinusga
+Boskkamp,1,"","",9284SC,Augustinusga
+Boskkamp,10,"","",9284SC,Augustinusga
+Boskkamp,11,"","",9284SC,Augustinusga
+Boskkamp,12,"","",9284SC,Augustinusga
+Boskkamp,13,"","",9284SC,Augustinusga
+Boskkamp,14,"","",9284SC,Augustinusga
+Boskkamp,15,"","",9284SC,Augustinusga
+Boskkamp,16,"","",9284SC,Augustinusga
+Boskkamp,17,"","",9284SC,Augustinusga
+Boskkamp,18,"","",9284SC,Augustinusga
+Boskkamp,19,"","",9284SC,Augustinusga
+Boskkamp,2,"","",9284SC,Augustinusga
+Boskkamp,20,"","",9284SC,Augustinusga
+Boskkamp,21,"","",9284SC,Augustinusga
+Boskkamp,22,"","",9284SC,Augustinusga
+Boskkamp,23,"","",9284SC,Augustinusga
+Boskkamp,24,"","",9284SC,Augustinusga
+Boskkamp,25,"","",9284SC,Augustinusga
+Boskkamp,26,"","",9284SC,Augustinusga
+Boskkamp,27,"","",9284SC,Augustinusga
+Boskkamp,28,"","",9284SC,Augustinusga
+Boskkamp,3,"","",9284SC,Augustinusga
+Boskkamp,30,"","",9284SC,Augustinusga
+Boskkamp,32,"","",9284SC,Augustinusga
+Boskkamp,34,"","",9284SC,Augustinusga
+Boskkamp,36,"","",9284SC,Augustinusga
+Boskkamp,38,"","",9284SC,Augustinusga
+Boskkamp,4,"","",9284SC,Augustinusga
+Boskkamp,40,"","",9284SC,Augustinusga
+Boskkamp,41,"","",9284SC,Augustinusga
+Boskkamp,42,"","",9284SC,Augustinusga
+Boskkamp,43,"","",9284SC,Augustinusga
+Boskkamp,44,"","",9284SC,Augustinusga
+Boskkamp,45,"","",9284SC,Augustinusga
+Boskkamp,47,"","",9284SC,Augustinusga
+Boskkamp,49,"","",9284SC,Augustinusga
+Boskkamp,5,"","",9284SC,Augustinusga
+Boskkamp,51,"","",9284SC,Augustinusga
+Boskkamp,53,"","",9284SC,Augustinusga
+Boskkamp,55,"","",9284SC,Augustinusga
+Boskkamp,6,"","",9284SC,Augustinusga
+Boskkamp,7,"","",9284SC,Augustinusga
+Boskkamp,8,"","",9284SC,Augustinusga
+Boskkamp,9,"","",9284SC,Augustinusga
+Boskkamp,46,"","",9284SE,Augustinusga
+Boskkamp,48,"","",9284SE,Augustinusga
+Boskkamp,50,"","",9284SE,Augustinusga
+Boskkamp,52,"","",9284SE,Augustinusga
+Boskkamp,54,"","",9284SE,Augustinusga
+Boskkamp,56,"","",9284SE,Augustinusga
+Boskkamp,57,"","",9284SE,Augustinusga
+Boskkamp,58,"","",9284SE,Augustinusga
+Boskkamp,59,"","",9284SE,Augustinusga
+Boskkamp,61,"","",9284SE,Augustinusga
+Boskkamp,62,"","",9284SE,Augustinusga
+Boskkamp,63,"","",9284SE,Augustinusga
+Boskkamp,64,"","",9284SE,Augustinusga
+Boskkamp,65,"","",9284SE,Augustinusga
+Boskkamp,66,"","",9284SE,Augustinusga
+Boskkamp,67,"","",9284SE,Augustinusga
+Boskkamp,68,"","",9284SE,Augustinusga
+Boskkamp,69,"","",9284SE,Augustinusga
+Boskkamp,70,"","",9284SE,Augustinusga
+Boskkamp,71,"","",9284SE,Augustinusga
+Boskkamp,72,"","",9284SE,Augustinusga
+Boskkamp,73,"","",9284SE,Augustinusga
+Boskkamp,74,"","",9284SE,Augustinusga
+Boskkamp,75,"","",9284SE,Augustinusga
+Boskkamp,76,"","",9284SE,Augustinusga
+Boskkamp,77,"","",9284SE,Augustinusga
+Boskkamp,79,"","",9284SE,Augustinusga
+Tsjerkepaed,1,"","",9284SG,Augustinusga
+Tsjerkepaed,2,"",G001,9284SG,Augustinusga
+Tsjerkepaed,2,"",G002,9284SG,Augustinusga
+Tsjerkepaed,2,"",G003,9284SG,Augustinusga
+Tsjerkepaed,2,"",G004,9284SG,Augustinusga
+Tsjerkepaed,2,"",G005,9284SG,Augustinusga
+Weinmakkerij,10,"","",9284SH,Augustinusga
+Weinmakkerij,2,"","",9284SH,Augustinusga
+Weinmakkerij,4,"","",9284SH,Augustinusga
+Weinmakkerij,6,"","",9284SH,Augustinusga
+Weinmakkerij,8,"","",9284SH,Augustinusga
+De Opslach,1,"","",9284SJ,Augustinusga
+De Opslach,10,"","",9284SJ,Augustinusga
+De Opslach,11,"","",9284SJ,Augustinusga
+De Opslach,12,"","",9284SJ,Augustinusga
+De Opslach,13,"","",9284SJ,Augustinusga
+De Opslach,14,"","",9284SJ,Augustinusga
+De Opslach,16,"","",9284SJ,Augustinusga
+De Opslach,18,"","",9284SJ,Augustinusga
+De Opslach,2,"","",9284SJ,Augustinusga
+De Opslach,20,"","",9284SJ,Augustinusga
+De Opslach,22,"","",9284SJ,Augustinusga
+De Opslach,24,"","",9284SJ,Augustinusga
+De Opslach,3,"","",9284SJ,Augustinusga
+De Opslach,4,"","",9284SJ,Augustinusga
+De Opslach,5,"","",9284SJ,Augustinusga
+De Opslach,6,"","",9284SJ,Augustinusga
+De Opslach,7,"","",9284SJ,Augustinusga
+De Opslach,8,"","",9284SJ,Augustinusga
+De Opslach,9,"","",9284SJ,Augustinusga
+Pastorijpaed,1,"","",9284SK,Augustinusga
+De Smidte,1,"","",9284SL,Augustinusga
+De Smidte,2,"","",9284SL,Augustinusga
+De Smidte,3,"","",9284SL,Augustinusga
+De Smidte,4,"","",9284SL,Augustinusga
+De Smidte,5,"","",9284SL,Augustinusga
+De Smidte,6,"","",9284SL,Augustinusga
+De Smidte,7,"","",9284SL,Augustinusga
+De Smidte,8,"","",9284SL,Augustinusga
+It Oerset,1,"","",9284SM,Augustinusga
+It Oerset,2,"","",9284SM,Augustinusga
+It Oerset,3,"","",9284SM,Augustinusga
+It Oerset,4,"","",9284SM,Augustinusga
+It Oerset,5,"","",9284SM,Augustinusga
+It Oerset,6,"","",9284SM,Augustinusga
+It Oerset,7,"","",9284SM,Augustinusga
+It Stalt,12,"","",9284SN,Augustinusga
+It Stalt,2,"","",9284SN,Augustinusga
+It Stalt,4,"","",9284SN,Augustinusga
+It Stalt,6,"","",9284SN,Augustinusga
+It Stalt,8,"","",9284SN,Augustinusga
+Geawei,1,"","",9284TA,Augustinusga
+Geawei,11,"","",9284TA,Augustinusga
+Geawei,13,"","",9284TA,Augustinusga
+Geawei,15,"","",9284TA,Augustinusga
+Geawei,19,"","",9284TA,Augustinusga
+Geawei,21,"","",9284TA,Augustinusga
+Geawei,23,"","",9284TA,Augustinusga
+Geawei,25,"","",9284TA,Augustinusga
+Geawei,27,"","",9284TA,Augustinusga
+Geawei,29,"","",9284TA,Augustinusga
+Geawei,3,"","",9284TA,Augustinusga
+Geawei,31,"","",9284TA,Augustinusga
+Geawei,33,"","",9284TA,Augustinusga
+Geawei,33,A,"",9284TA,Augustinusga
+Geawei,33,B,"",9284TA,Augustinusga
+Geawei,33,C,"",9284TA,Augustinusga
+Geawei,35,"","",9284TA,Augustinusga
+Geawei,35,A,"",9284TA,Augustinusga
+Geawei,35,B,"",9284TA,Augustinusga
+Geawei,37,"","",9284TA,Augustinusga
+Geawei,37,"","",9284TA,Augustinusga
+Geawei,37,"","",9284TA,Augustinusga
+Geawei,37,A,"",9284TA,Augustinusga
+Geawei,5,"","",9284TA,Augustinusga
+Geawei,7,"","",9284TA,Augustinusga
+Geawei,9,"","",9284TA,Augustinusga
+Gealeloane,1,"","",9284TB,Augustinusga
+Gealeloane,1,"",G001,9284TB,Augustinusga
+Gealeloane,1,"",G002,9284TB,Augustinusga
+Geawei,10,"","",9284TB,Augustinusga
+Geawei,12,"","",9284TB,Augustinusga
+Gealeloane,13,"","",9284TB,Augustinusga
+Gealeloane,15,"","",9284TB,Augustinusga
+Geawei,2,"","",9284TB,Augustinusga
+Gealeloane,3,"","",9284TB,Augustinusga
+Geawei,4,"","",9284TB,Augustinusga
+Gealeloane,5,"","",9284TB,Augustinusga
+Geawei,6,"","",9284TB,Augustinusga
+Gealeloane,7,"","",9284TB,Augustinusga
+Geawei,8,"","",9284TB,Augustinusga
+Gealeloane,9,"","",9284TB,Augustinusga
+Geawei,16,"","",9284TC,Augustinusga
+Geawei,18,"","",9284TC,Augustinusga
+Geawei,20,"","",9284TC,Augustinusga
+Geawei,22,"","",9284TC,Augustinusga
+Geawei,24,"","",9284TC,Augustinusga
+Geawei,26,"","",9284TC,Augustinusga
+Geawei,28,"","",9284TC,Augustinusga
+Geawei,32,"","",9284TC,Augustinusga
+Geawei,34,"","",9284TC,Augustinusga
+Geawei,38,"","",9284TC,Augustinusga
+Geawei,38,A,"",9284TC,Augustinusga
+Geawei,38,B,"",9284TC,Augustinusga
+Geawei,38,C,"",9284TC,Augustinusga
+Geawei,38,D,"",9284TC,Augustinusga
+Geawei,40,"","",9284TC,Augustinusga
+Abrahamsplein,1,"","",9284TD,Augustinusga
+Abrahamsplein,2,"","",9284TD,Augustinusga
+Abrahamsplein,3,"","",9284TD,Augustinusga
+Abrahamsplein,4,"","",9284TD,Augustinusga
+Abrahamsplein,5,"","",9284TD,Augustinusga
+Abrahamsplein,6,"","",9284TD,Augustinusga
+Abrahamsplein,7,"","",9284TD,Augustinusga
+Abrahamsplein,7,"","",9284TD,Augustinusga
+Abrahamsplein,7,"","",9284TD,Augustinusga
+Abrahamsplein,8,"","",9284TD,Augustinusga
+Abrahamsplein,9,"","",9284TD,Augustinusga
+Sylgong,10,"","",9284TE,Augustinusga
+Sylgong,12,"","",9284TE,Augustinusga
+Sylgong,13,"","",9284TE,Augustinusga
+Sylgong,15,"","",9284TE,Augustinusga
+Sylgong,17,"","",9284TE,Augustinusga
+Sylgong,19,"","",9284TE,Augustinusga
+Sylgong,2,"","",9284TE,Augustinusga
+Sylgong,5,"","",9284TE,Augustinusga
+Sylgong,6,"","",9284TE,Augustinusga
+Sylgong,7,"","",9284TE,Augustinusga
+Sylgong,8,"","",9284TE,Augustinusga
+Sylgong,9,"","",9284TE,Augustinusga
+It Oast,1,"","",9284TG,Augustinusga
+It Oast,1,A,"",9284TG,Augustinusga
+It Oast,1,B,"",9284TG,Augustinusga
+It Oast,10,"","",9284TG,Augustinusga
+It Oast,11,"","",9284TG,Augustinusga
+It Oast,12,"","",9284TG,Augustinusga
+It Oast,14,"","",9284TG,Augustinusga
+It Oast,16,"","",9284TG,Augustinusga
+It Oast,18,"","",9284TG,Augustinusga
+It Oast,18,A,"",9284TG,Augustinusga
+It Oast,2,"","",9284TG,Augustinusga
+It Oast,20,"","",9284TG,Augustinusga
+It Oast,22,"","",9284TG,Augustinusga
+It Oast,24,A,"",9284TG,Augustinusga
+It Oast,3,"","",9284TG,Augustinusga
+It Oast,4,"","",9284TG,Augustinusga
+It Oast,5,"","",9284TG,Augustinusga
+It Oast,6,"","",9284TG,Augustinusga
+It Oast,8,"","",9284TG,Augustinusga
+It Oast,9,"","",9284TG,Augustinusga
+Willem Barteles van der Kooiwei,11,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,13,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,15,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,17,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,19,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,21,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,23,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,25,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,27,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,29,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,31,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,33,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,35,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,37,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,39,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,41,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,5,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,7,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,9,"","",9284TH,Augustinusga
+Willem Barteles van der Kooiwei,2,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,36,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,36,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,38,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,4,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,4,A,"",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,40,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,42,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,44,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,46,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,48,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,50,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,52,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,6,"","",9284TJ,Augustinusga
+Willem Barteles van der Kooiwei,6,A,"",9284TJ,Augustinusga
+Smeetsmakamp,1,"","",9284TK,Augustinusga
+Smeetsmakamp,2,"","",9284TK,Augustinusga
+Smeetsmakamp,3,"","",9284TK,Augustinusga
+Smeetsmakamp,4,"","",9284TK,Augustinusga
+Smeetsmakamp,5,"","",9284TK,Augustinusga
+Smeetsmakamp,6,"","",9284TK,Augustinusga
+Smeetsmakamp,7,"","",9284TK,Augustinusga
+Smeetsmakamp,9,"","",9284TK,Augustinusga
+Siccamawei,1,"","",9284TL,Augustinusga
+Siccamawei,10,"","",9284TL,Augustinusga
+Siccamawei,11,"","",9284TL,Augustinusga
+Siccamawei,12,"","",9284TL,Augustinusga
+Siccamawei,13,"","",9284TL,Augustinusga
+Siccamawei,14,"","",9284TL,Augustinusga
+Siccamawei,15,"","",9284TL,Augustinusga
+Siccamawei,16,"","",9284TL,Augustinusga
+Siccamawei,17,"","",9284TL,Augustinusga
+Siccamawei,18,"","",9284TL,Augustinusga
+Siccamawei,19,"","",9284TL,Augustinusga
+Siccamawei,2,"","",9284TL,Augustinusga
+Siccamawei,20,"","",9284TL,Augustinusga
+Siccamawei,21,"","",9284TL,Augustinusga
+Siccamawei,22,"","",9284TL,Augustinusga
+Siccamawei,23,"","",9284TL,Augustinusga
+Siccamawei,24,"","",9284TL,Augustinusga
+Siccamawei,25,"","",9284TL,Augustinusga
+Siccamawei,26,"","",9284TL,Augustinusga
+Siccamawei,27,"","",9284TL,Augustinusga
+Siccamawei,28,"","",9284TL,Augustinusga
+Siccamawei,29,"","",9284TL,Augustinusga
+Siccamawei,3,"","",9284TL,Augustinusga
+Siccamawei,31,"","",9284TL,Augustinusga
+Siccamawei,32,"","",9284TL,Augustinusga
+Siccamawei,4,"","",9284TL,Augustinusga
+Siccamawei,5,"","",9284TL,Augustinusga
+Siccamawei,6,"","",9284TL,Augustinusga
+Siccamawei,7,"","",9284TL,Augustinusga
+Siccamawei,8,"","",9284TL,Augustinusga
+Siccamawei,9,"","",9284TL,Augustinusga
+Gaikemastrjitte,1,"","",9284TN,Augustinusga
+Gaikemastrjitte,11,"","",9284TN,Augustinusga
+Gaikemastrjitte,13,"","",9284TN,Augustinusga
+Gaikemastrjitte,15,"","",9284TN,Augustinusga
+Gaikemastrjitte,2,"","",9284TN,Augustinusga
+Gaikemastrjitte,3,"","",9284TN,Augustinusga
+Gaikemastrjitte,4,"","",9284TN,Augustinusga
+Gaikemastrjitte,5,"","",9284TN,Augustinusga
+Gaikemastrjitte,6,"","",9284TN,Augustinusga
+Gaikemastrjitte,7,"","",9284TN,Augustinusga
+Gaikemastrjitte,8,"","",9284TN,Augustinusga
+Gaikemastrjitte,9,"","",9284TN,Augustinusga
+Jensmastrjitte,1,"","",9284TP,Augustinusga
+Jensmastrjitte,11,"","",9284TP,Augustinusga
+Jensmastrjitte,13,"","",9284TP,Augustinusga
+Jensmastrjitte,15,"","",9284TP,Augustinusga
+Jensmastrjitte,17,"","",9284TP,Augustinusga
+Jensmastrjitte,19,"","",9284TP,Augustinusga
+Jensmastrjitte,21,"","",9284TP,Augustinusga
+Jensmastrjitte,23,"","",9284TP,Augustinusga
+Jensmastrjitte,25,"","",9284TP,Augustinusga
+Jensmastrjitte,27,"","",9284TP,Augustinusga
+Jensmastrjitte,29,"","",9284TP,Augustinusga
+Jensmastrjitte,3,"","",9284TP,Augustinusga
+Jensmastrjitte,5,"","",9284TP,Augustinusga
+Jensmastrjitte,7,"","",9284TP,Augustinusga
+Jensmastrjitte,9,"","",9284TP,Augustinusga
+Jensmastrjitte,10,"","",9284TR,Augustinusga
+Jensmastrjitte,10,"","",9284TR,Augustinusga
+Jensmastrjitte,12,"","",9284TR,Augustinusga
+Jensmastrjitte,12,"","",9284TR,Augustinusga
+Jensmastrjitte,14,"","",9284TR,Augustinusga
+Jensmastrjitte,16,"","",9284TR,Augustinusga
+Jensmastrjitte,18,"","",9284TR,Augustinusga
+Jensmastrjitte,2,"","",9284TR,Augustinusga
+Jensmastrjitte,2,"","",9284TR,Augustinusga
+Jensmastrjitte,20,"","",9284TR,Augustinusga
+Jensmastrjitte,20,"","",9284TR,Augustinusga
+Jensmastrjitte,20,"","",9284TR,Augustinusga
+Jensmastrjitte,22,"","",9284TR,Augustinusga
+Jensmastrjitte,22,"","",9284TR,Augustinusga
+Jensmastrjitte,22,"","",9284TR,Augustinusga
+Jensmastrjitte,24,"","",9284TR,Augustinusga
+Jensmastrjitte,4,"","",9284TR,Augustinusga
+Jensmastrjitte,4,"","",9284TR,Augustinusga
+Jensmastrjitte,6,"","",9284TR,Augustinusga
+Jensmastrjitte,6,"","",9284TR,Augustinusga
+Jensmastrjitte,8,"","",9284TR,Augustinusga
+Jensmastrjitte,8,"","",9284TR,Augustinusga
+Skoalikkers,1,"","",9284TS,Augustinusga
+Skoalikkers,11,"","",9284TS,Augustinusga
+Skoalikkers,11,A,"",9284TS,Augustinusga
+Skoalikkers,15,"","",9284TS,Augustinusga
+Skoalikkers,17,"","",9284TS,Augustinusga
+Skoalikkers,19,"","",9284TS,Augustinusga
+Skoalikkers,19,A,"",9284TS,Augustinusga
+Skoalikkers,19,B,"",9284TS,Augustinusga
+Skoalikkers,21,"","",9284TS,Augustinusga
+Skoalikkers,21,A,"",9284TS,Augustinusga
+Skoalikkers,21,B,"",9284TS,Augustinusga
+Skoalikkers,3,"","",9284TS,Augustinusga
+Skoalikkers,5,"","",9284TS,Augustinusga
+Skoalikkers,7,"","",9284TS,Augustinusga
+Skoalikkers,9,"","",9284TS,Augustinusga
+Skoalikkers,23,"","",9284TT,Augustinusga
+Skoalikkers,23,A,"",9284TT,Augustinusga
+Skoalikkers,25,"","",9284TT,Augustinusga
+Skoalikkers,27,"","",9284TT,Augustinusga
+Skoalikkers,27,A,"",9284TT,Augustinusga
+Skoalikkers,29,"","",9284TT,Augustinusga
+Skoalikkers,31,"","",9284TT,Augustinusga
+Skoalikkers,33,"","",9284TT,Augustinusga
+Skoalikkers,35,"","",9284TT,Augustinusga
+Skoalikkers,37,"","",9284TT,Augustinusga
+Skoalikkers,39,"","",9284TT,Augustinusga
+Skoalikkers,41,"","",9284TT,Augustinusga
+Skoalikkers,43,"","",9284TT,Augustinusga
+Skoalikkers,45,"","",9284TT,Augustinusga
+Skoalikkers,47,"","",9284TT,Augustinusga
+Skoalikkers,49,"","",9284TT,Augustinusga
+Skoalikkers,10,"","",9284TV,Augustinusga
+Skoalikkers,12,"","",9284TV,Augustinusga
+Skoalikkers,14,"","",9284TV,Augustinusga
+Skoalikkers,16,"","",9284TV,Augustinusga
+Skoalikkers,18,"","",9284TV,Augustinusga
+Skoalikkers,2,"","",9284TV,Augustinusga
+Skoalikkers,2,A,"",9284TV,Augustinusga
+Skoalikkers,20,"","",9284TV,Augustinusga
+Skoalikkers,22,"","",9284TV,Augustinusga
+Skoalikkers,24,"","",9284TV,Augustinusga
+Skoalikkers,26,"","",9284TV,Augustinusga
+Skoalikkers,4,"","",9284TV,Augustinusga
+Skoalikkers,6,"","",9284TV,Augustinusga
+Skoalikkers,6,A,"",9284TV,Augustinusga
+Skoalikkers,8,"","",9284TV,Augustinusga
+Skoalikkers,28,"","",9284TW,Augustinusga
+Skoalikkers,30,"","",9284TW,Augustinusga
+Skoalikkers,32,"","",9284TW,Augustinusga
+Skoalikkers,34,"","",9284TW,Augustinusga
+Skoalikkers,36,"","",9284TW,Augustinusga
+Skoalikkers,38,"","",9284TW,Augustinusga
+Skoalikkers,42,"","",9284TW,Augustinusga
+Skoalikkers,44,"","",9284TW,Augustinusga
+Skoalikkers,46,"","",9284TW,Augustinusga
+Skoalikkers,48,"","",9284TW,Augustinusga
+Skoalikkers,50,"","",9284TW,Augustinusga
+Skoalikkers,52,"","",9284TW,Augustinusga
+Skoalikkers,54,"","",9284TW,Augustinusga
+Skoalikkers,58,"","",9284TX,Augustinusga
+Skoalikkers,60,"","",9284TX,Augustinusga
+Skoalikkers,62,"","",9284TX,Augustinusga
+Skoalikkers,64,"","",9284TX,Augustinusga
+Skoalikkers,66,"","",9284TX,Augustinusga
+Skoalikkers,66,A,"",9284TX,Augustinusga
+Skoalikkers,68,"","",9284TX,Augustinusga
+Skoalikkers,70,"","",9284TX,Augustinusga
+Skoalikkers,70,A,"",9284TX,Augustinusga
+Skoalikkers,72,"","",9284TX,Augustinusga
+Skoalikkers,78,"","",9284TX,Augustinusga
+Dwerspaed,2,"","",9284TZ,Augustinusga
+Dwerspaed,4,"","",9284TZ,Augustinusga
+Legeloane,1,"","",9284XN,Augustinusga
+Legeloane,1,"","",9284XN,Augustinusga
+Legeloane,1,"","",9284XN,Augustinusga
+Legeloane,1,A,"",9284XN,Augustinusga
+Legeloane,10,"","",9284XN,Augustinusga
+Legeloane,10,A,"",9284XN,Augustinusga
+Legeloane,2,"","",9284XN,Augustinusga
+Legeloane,3,"","",9284XN,Augustinusga
+Legeloane,4,"","",9284XN,Augustinusga
+Legeloane,5,"","",9284XN,Augustinusga
+Legeloane,6,"","",9284XN,Augustinusga
+Legeloane,6,A,"",9284XN,Augustinusga
+Legeloane,7,"","",9284XN,Augustinusga
+Legeloane,8,"","",9284XN,Augustinusga
+Efterwei,2,"","",9284XP,Augustinusga
+Efterwei,4,"","",9284XP,Augustinusga
+Efterwei,6,"","",9284XP,Augustinusga

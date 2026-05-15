@@ -1,719 +1,355 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9781AG",77,"",""
-"9781AG",81,"",""
-"9781AG",113,"",""
-"9781AG",111,"",""
-"9781AG",107,"",""
-"9781AG",75,"",""
-"9781AG",109,"A",""
-"9781AG",73,"",""
-"9781AG",109,"",""
-"9781AG",81,"",""
-"9781AG",111,"",""
-"9781AG",111,"",""
-"9781AG",77,"",""
-"9781AG",105,"",""
-"9781AG",101,"",""
-"9781AG",77,"",""
-"9781AG",95,"",""
-"9781AG",71,"",""
-"9781AG",89,"",""
-"9781AG",97,"",""
-"9781AG",83,"",""
-"9781AG",81,"",""
-"9781AG",103,"",""
-"9781AG",91,"",""
-"9781AG",85,"",""
-"9781BL",2,"",""
-"9781BL",4,"",""
-"9781BL",19,"",""
-"9781BL",11,"",""
-"9781BL",5,"",""
-"9781BL",2,"",""
-"9781BL",13,"",""
-"9781BL",15,"",""
-"9781BL",17,"",""
-"9781BL",1,"",""
-"9781BL",3,"",""
-"9781BL",9,"",""
-"9781BL",7,"",""
-"9781BL",21,"",""
-"9781TA",124,"E",""
-"9781TA",124,"C",""
-"9781TA",128,"",""
-"9781TA",124,"",""
-"9781TA",124,"D",""
-"9781TA",124,"A",""
-"9781TA",126,"",""
-"9781TE",6,"",""
-"9781TE",20,"",""
-"9781TE",26,"",""
-"9781TE",22,"",""
-"9781TE",2,"",""
-"9781TE",14,"",""
-"9781TE",10,"",""
-"9781TE",4,"",""
-"9781TE",8,"",""
-"9781TE",24,"",""
-"9781TE",26,"",""
-"9781TE",18,"",""
-"9781TE",12,"",""
-"9781TE",16,"",""
-"9781TG",9,"",""
-"9781TG",29,"",""
-"9781TG",11,"",""
-"9781TG",13,"",""
-"9781TG",17,"",""
-"9781TG",19,"",""
-"9781TG",31,"",""
-"9781TG",7,"",""
-"9781TG",25,"",""
-"9781TG",27,"",""
-"9781TG",23,"",""
-"9781TH",18,"",""
-"9781TH",32,"A",""
-"9781TH",24,"",""
-"9781TH",16,"",""
-"9781TH",14,"",""
-"9781TH",34,"",""
-"9781TH",30,"A",""
-"9781TH",30,"",""
-"9781TH",22,"",""
-"9781TH",10,"",""
-"9781TH",12,"",""
-"9781TH",20,"",""
-"9781TH",28,"",""
-"9781TH",32,"",""
-"9781TJ",39,"",""
-"9781TJ",45,"",""
-"9781TJ",51,"",""
-"9781TJ",43,"",""
-"9781TJ",33,"",""
-"9781TJ",47,"",""
-"9781TJ",39,"A",""
-"9781TJ",41,"",""
-"9781TJ",49,"",""
-"9781TJ",35,"",""
-"9781TK",42,"A",""
-"9781TK",52,"",""
-"9781TK",44,"",""
-"9781TK",54,"",""
-"9781TK",58,"",""
-"9781TK",34,"A",""
-"9781TK",38,"",""
-"9781TK",42,"",""
-"9781TK",50,"",""
-"9781TK",46,"",""
-"9781TK",36,"",""
-"9781TL",39,"",""
-"9781TL",25,"",""
-"9781TL",31,"",""
-"9781TL",17,"",""
-"9781TL",18,"",""
-"9781TL",27,"",""
-"9781TL",35,"",""
-"9781TL",19,"",""
-"9781TL",15,"",""
-"9781TL",35,"",""
-"9781TL",33,"A",""
-"9781TL",33,"",""
-"9781TL",31,"",""
-"9781TL",26,"",""
-"9781TL",27,"",""
-"9781TL",20,"",""
-"9781TL",12,"",""
-"9781TL",22,"",""
-"9781TL",14,"",""
-"9781TL",27,"",""
-"9781TL",27,"",""
-"9781TL",27,"",""
-"9781TL",26,"",""
-"9781TL",10,"",""
-"9781TL",13,"",""
-"9781TL",24,"",""
-"9781TL",21,"A",""
-"9781TL",33,"",""
-"9781TL",33,"",""
-"9781TL",21,"",""
-"9781TM",3,"",""
-"9781TM",5,"",""
-"9781TN",2,"",""
-"9781TN",2,"",""
-"9781TN",18,"",""
-"9781TN",12,"",""
-"9781TN",6,"",""
-"9781TN",8,"",""
-"9781TN",20,"",""
-"9781TN",4,"",""
-"9781TN",10,"",""
-"9781TN",14,"",""
-"9781TN",28,"",""
-"9781TP",36,"",""
-"9781TP",50,"",""
-"9781TP",34,"",""
-"9781TP",52,"",""
-"9781TP",54,"",""
-"9781TP",40,"",""
-"9781TP",48,"",""
-"9781TP",30,"",""
-"9781TP",52,"A",""
-"9781TP",46,"",""
-"9781TR",2,"",""
-"9781TR",4,"",""
-"9781TR",1,"",""
-"9781TR",6,"",""
-"9781TS",15,"",""
-"9781TS",35,"",""
-"9781TS",39,"",""
-"9781TS",5,"",""
-"9781TS",13,"",""
-"9781TS",31,"",""
-"9781TS",29,"A",""
-"9781TS",33,"",""
-"9781TS",1,"A",""
-"9781TS",7,"",""
-"9781TS",37,"",""
-"9781TS",3,"",""
-"9781TS",27,"",""
-"9781TS",19,"",""
-"9781TS",9,"",""
-"9781TS",21,"",""
-"9781TS",1,"",""
-"9781TS",5,"",""
-"9781TS",29,"",""
-"9781TT",6,"",""
-"9781TT",4,"A",""
-"9781TT",32,"",""
-"9781TT",24,"",""
-"9781TT",26,"",""
-"9781TT",22,"",""
-"9781TT",16,"A",""
-"9781TT",30,"A",""
-"9781TT",16,"",""
-"9781TT",30,"B",""
-"9781TT",2,"",""
-"9781TT",30,"",""
-"9781TT",20,"",""
-"9781TT",10,"",""
-"9781TT",8,"",""
-"9781TT",18,"",""
-"9781TT",28,"",""
-"9781TV",3,"",""
-"9781TV",2,"",""
-"9781TV",1,"",""
-"9781TW",2,"A",""
-"9781TW",2,"",""
-"9959PA",1,"",""
-"9959PA",2,"",""
-"9959PB",1,"",""
-"9959PB",3,"",""
-"9959PB",2,"",""
-"9959PH",74,"A",""
-"9959PH",60,"",""
-"9959PH",62,"",""
-"9959PH",56,"",""
-"9959PH",58,"",""
-"9959PH",46,"",""
-"9959PH",48,"",""
-"9959PH",50,"",""
-"9959PH",70,"",""
-"9959PH",72,"",""
-"9959PH",52,"",""
-"9959PH",54,"",""
-"9959PH",64,"",""
-"9959PH",64,"",""
-"9959PH",68,"",""
-"9959PH",68,"",""
-"9959PH",68,"",""
-"9959PH",50,"A",""
-"9959PH",50,"A",""
-"9959PH",68,"A",""
-"9959PM",10,"",""
-"9959PM",13,"",""
-"9959PM",15,"",""
-"9959PM",3,"",""
-"9959PM",12,"",""
-"9959PM",1,"",""
-"9959PM",2,"",""
-"9959PM",6,"",""
-"9959PM",8,"",""
-"9959PM",9,"",""
-"9959PM",12,"",""
-"9959PM",4,"",""
-"9959PM",5,"",""
-"9959PS",43,"",""
-"9959PS",45,"",""
-"9959PS",47,"",""
-"9959PS",35,"",""
-"9959PS",35,"A",""
-"9959PS",37,"",""
-"9959PS",41,"",""
-"9959PS",2,"",""
-"9959PS",4,"",""
-"9959PS",6,"",""
-"9959PS",8,"",""
-"9959PS",10,"",""
-"9959PS",10,"",""
-"9959PS",12,"",""
-"9959PS",12,"",""
-"9959PS",14,"",""
-"9959PS",14,"",""
-"9959PS",16,"",""
-"9959PS",16,"",""
-"9959PS",39,"",""
-"9959PS",18,"",""
-"9959PS",20,"",""
-"9959PS",20,"",""
-"9959PS",22,"",""
-"9959PS",22,"",""
-"9959PS",24,"",""
-"9959PS",24,"",""
-"9959PS",24,"A",""
-"9959PS",26,"",""
-"9959PS",33,"",""
-"9959PS",53,"",""
-"9959PS",49,"",""
-"9959PS",18,"",""
-"9959PS",51,"",""
-"9959PS",51,"",""
-"9959PX",1,"",""
-"9959TA",9,"",""
-"9959TA",10,"",""
-"9959TA",9,"",""
-"9959TA",10,"",""
-"9959TA",4,"",""
-"9959TA",6,"",""
-"9959TA",9,"A",""
-"9959TA",7,"",""
-"9959TA",12,"",""
-"9959TA",8,"",""
-"9959TA",11,"",""
-"9959TA",11,"",""
-"9959TA",13,"",""
-"9959TA",14,"",""
-"9959TB",11,"",""
-"9959TB",7,"",""
-"9959TB",9,"",""
-"9959TB",13,"",""
-"9959TC",17,"D",""
-"9959TC",17,"",""
-"9959TC",17,"A",""
-"9959TC",12,"",""
-"9959TC",16,"",""
-"9959TC",1,"",""
-"9959TC",2,"",""
-"9959TC",3,"",""
-"9959TC",4,"",""
-"9959TC",5,"",""
-"9959TC",7,"",""
-"9959TC",7,"A",""
-"9959TC",8,"",""
-"9959TC",9,"",""
-"9959TC",9,"A",""
-"9959TC",10,"",""
-"9959TC",11,"",""
-"9959TC",14,"",""
-"9959TC",19,"",""
-"9959TC",24,"",""
-"9959TD",8,"",""
-"9959TD",12,"",""
-"9959TD",14,"",""
-"9959TD",8,"A",""
-"9959TD",10,"",""
-"9959TD",1,"",""
-"9959TD",2,"",""
-"9959TD",3,"",""
-"9959TD",4,"",""
-"9959TD",6,"",""
-"9959TD",20,"",""
-"9959TD",6,"A",""
-"9959TD",16,"",""
-"9959TD",18,"",""
-"9959TD",24,"",""
-"9959TE",11,"",""
-"9959TE",23,"",""
-"9959TE",25,"",""
-"9959TE",27,"",""
-"9959TE",31,"",""
-"9959TE",1,"",""
-"9959TE",3,"",""
-"9959TE",7,"",""
-"9959TE",37,"",""
-"9959TE",15,"",""
-"9959TE",33,"",""
-"9959TE",35,"",""
-"9959TE",39,"",""
-"9959TE",41,"",""
-"9959TG",10,"",""
-"9959TG",14,"",""
-"9959TG",16,"",""
-"9959TG",18,"",""
-"9959TG",12,"A",""
-"9959TG",2,"",""
-"9959TG",6,"",""
-"9959TG",8,"",""
-"9959TG",12,"",""
-9781TS,Ellerhuizen,1,,
-9781TS,Ellerhuizen,1,A,
-9781TS,Ellerhuizen,3,,
-9781TS,Ellerhuizen,5,,
-9781TS,Ellerhuizen,7,,
-9781TS,Ellerhuizen,9,,
-9781TS,Ellerhuizen,13,,
-9781TS,Ellerhuizen,15,,
-9781TS,Ellerhuizen,19,,
-9781TS,Ellerhuizen,21,,
-9781TS,Ellerhuizen,27,,
-9781TS,Ellerhuizen,29,,
-9781TS,Ellerhuizen,29,A,
-9781TS,Ellerhuizen,31,,
-9781TS,Ellerhuizen,33,,
-9781TS,Ellerhuizen,35,,
-9781TS,Ellerhuizen,37,,
-9781TS,Ellerhuizen,39,,
-9781TT,Ellerhuizen,2,,
-9781TT,Ellerhuizen,4,A,
-9781TT,Ellerhuizen,6,,
-9781TT,Ellerhuizen,8,,
-9781TT,Ellerhuizen,10,,
-9781TT,Ellerhuizen,16,,
-9781TT,Ellerhuizen,16,A,
-9781TT,Ellerhuizen,18,,
-9781TT,Ellerhuizen,20,,
-9781TT,Ellerhuizen,22,,
-9781TT,Ellerhuizen,24,,
-9781TT,Ellerhuizen,26,,
-9781TT,Ellerhuizen,28,,
-9781TT,Ellerhuizen,30,,
-9781TT,Ellerhuizen,30,A,
-9781TT,Ellerhuizen,30,B,
-9781TT,Ellerhuizen,32,,
-9781TE,Lageweg,2,,
-9781TE,Lageweg,4,,
-9781TE,Lageweg,6,,
-9781TE,Lageweg,8,,
-9781TE,Lageweg,10,,
-9781TE,Lageweg,12,,
-9781TE,Lageweg,14,,
-9781TE,Lageweg,16,,
-9781TE,Lageweg,18,,
-9781TE,Lageweg,20,,
-9781TE,Lageweg,22,,
-9781TE,Lageweg,24,,
-9781TE,Lageweg,26,,
-9781AG,Noordwolderweg,71,,
-9781AG,Noordwolderweg,73,,
-9781AG,Noordwolderweg,75,,
-9781AG,Noordwolderweg,77,,
-9781AG,Noordwolderweg,81,,
-9781AG,Noordwolderweg,83,,
-9781AG,Noordwolderweg,85,,
-9781AG,Noordwolderweg,89,,
-9781AG,Noordwolderweg,91,,
-9781AG,Noordwolderweg,95,,
-9781AG,Noordwolderweg,97,,
-9781AG,Noordwolderweg,101,,
-9781AG,Noordwolderweg,103,,
-9781AG,Noordwolderweg,105,,
-9781AG,Noordwolderweg,107,,
-9781AG,Noordwolderweg,109,,
-9781AG,Noordwolderweg,109,A,
-9781AG,Noordwolderweg,111,,
-9781AG,Noordwolderweg,113,,
-9781AG,Noordwolderweg,77,,
-9781AG,Noordwolderweg,81,,
-9781AG,Noordwolderweg,111,,
-9781TA,Noordwolderweg,126,,
-9781TA,Noordwolderweg,128,,
-9781TA,Noordwolderweg,124,C,
-9781TA,Noordwolderweg,124,D,
-9781TA,Noordwolderweg,124,E,
-9781TA,Noordwolderweg,124,A,
-9781TA,Noordwolderweg,124,,
-9781BL,Oude Dijk,1,,
-9781BL,Oude Dijk,2,,
-9781BL,Oude Dijk,3,,
-9781BL,Oude Dijk,4,,
-9781BL,Oude Dijk,5,,
-9781BL,Oude Dijk,7,,
-9781BL,Oude Dijk,9,,
-9781BL,Oude Dijk,11,,
-9781BL,Oude Dijk,13,,
-9781BL,Oude Dijk,15,,
-9781BL,Oude Dijk,17,,
-9781BL,Oude Dijk,19,,
-9781BL,Oude Dijk,21,,
-9781TM,St Annerweg,3,,
-9781TM,St Annerweg,5,,
-9781TN,St Annerweg,2,,
-9781TN,St Annerweg,4,,
-9781TN,St Annerweg,6,,
-9781TN,St Annerweg,8,,
-9781TN,St Annerweg,10,,
-9781TN,St Annerweg,12,,
-9781TN,St Annerweg,14,,
-9781TN,St Annerweg,18,,
-9781TN,St Annerweg,20,,
-9781TN,St Annerweg,28,,
-9781TP,St Annerweg,30,,
-9781TP,St Annerweg,34,,
-9781TP,St Annerweg,36,,
-9781TP,St Annerweg,40,,
-9781TP,St Annerweg,46,,
-9781TP,St Annerweg,48,,
-9781TP,St Annerweg,50,,
-9781TP,St Annerweg,52,,
-9781TP,St Annerweg,54,,
-9781TP,St Annerweg,52,A,
-9781TV,Stedumerweg,1,,
-9781TV,Stedumerweg,2,,
-9781TV,Stedumerweg,3,,
-9781TL,Ter Laan,10,,
-9781TL,Ter Laan,12,,
-9781TL,Ter Laan,13,,
-9781TL,Ter Laan,14,,
-9781TL,Ter Laan,15,,
-9781TL,Ter Laan,17,,
-9781TL,Ter Laan,18,,
-9781TL,Ter Laan,19,,
-9781TL,Ter Laan,20,,
-9781TL,Ter Laan,21,,
-9781TL,Ter Laan,21,A,
-9781TL,Ter Laan,22,,
-9781TL,Ter Laan,24,,
-9781TL,Ter Laan,25,,
-9781TL,Ter Laan,26,,
-9781TL,Ter Laan,27,,
-9781TL,Ter Laan,31,,
-9781TL,Ter Laan,33,,
-9781TL,Ter Laan,33,,
-9781TL,Ter Laan,33,A,
-9781TL,Ter Laan,35,,
-9781TL,Ter Laan,39,,
-9781TL,Ter Laan,27,,
-9781TL,Ter Laan,27,,
-9781TR,Thesingerweg,1,,
-9781TR,Thesingerweg,2,,
-9781TR,Thesingerweg,4,,
-9781TR,Thesingerweg,6,,
-9781TG,Westerdijkshorn,7,,
-9781TG,Westerdijkshorn,9,,
-9781TG,Westerdijkshorn,11,,
-9781TG,Westerdijkshorn,13,,
-9781TG,Westerdijkshorn,19,,
-9781TG,Westerdijkshorn,23,,
-9781TG,Westerdijkshorn,25,,
-9781TG,Westerdijkshorn,27,,
-9781TG,Westerdijkshorn,29,,
-9781TG,Westerdijkshorn,31,,
-9781TG,Westerdijkshorn,17,,
-9781TH,Westerdijkshorn,10,,
-9781TH,Westerdijkshorn,12,,
-9781TH,Westerdijkshorn,14,,
-9781TH,Westerdijkshorn,16,,
-9781TH,Westerdijkshorn,18,,
-9781TH,Westerdijkshorn,20,,
-9781TH,Westerdijkshorn,22,,
-9781TH,Westerdijkshorn,24,,
-9781TH,Westerdijkshorn,28,,
-9781TH,Westerdijkshorn,30,,
-9781TH,Westerdijkshorn,30,A,
-9781TH,Westerdijkshorn,32,,
-9781TH,Westerdijkshorn,32,A,
-9781TH,Westerdijkshorn,34,,
-9781TJ,Wolddijk,33,,
-9781TJ,Wolddijk,35,,
-9781TJ,Wolddijk,39,,
-9781TJ,Wolddijk,39,A,
-9781TJ,Wolddijk,41,,
-9781TJ,Wolddijk,43,,
-9781TJ,Wolddijk,45,,
-9781TJ,Wolddijk,47,,
-9781TJ,Wolddijk,49,,
-9781TJ,Wolddijk,51,,
-9781TK,Wolddijk,34,A,
-9781TK,Wolddijk,36,,
-9781TK,Wolddijk,38,,
-9781TK,Wolddijk,42,,
-9781TK,Wolddijk,42,A,
-9781TK,Wolddijk,44,,
-9781TK,Wolddijk,46,,
-9781TK,Wolddijk,50,,
-9781TK,Wolddijk,52,,
-9781TK,Wolddijk,54,,
-9781TK,Wolddijk,58,,
-9959PH,Bedumerweg,46,,
-9959PH,Bedumerweg,48,,
-9959PH,Bedumerweg,50,,
-9959PH,Bedumerweg,50,A,
-9959PH,Bedumerweg,50,A,
-9959PH,Bedumerweg,52,,
-9959PH,Bedumerweg,54,,
-9959PH,Bedumerweg,56,,
-9959PH,Bedumerweg,58,,
-9959PH,Bedumerweg,60,,
-9959PH,Bedumerweg,62,,
-9959PH,Bedumerweg,64,,
-9959PH,Bedumerweg,68,,
-9959PH,Bedumerweg,68,,
-9959PH,Bedumerweg,68,A,
-9959PH,Bedumerweg,70,,
-9959PH,Bedumerweg,72,,
-9959PH,Bedumerweg,74,A,
-9959PB,Bosweg,1,,
-9959PB,Bosweg,2,,
-9959PB,Bosweg,3,,
-9959PM,Boterdiep Oz,1,,
-9959PM,Boterdiep Oz,2,,
-9959PM,Boterdiep Oz,3,,
-9959PM,Boterdiep Oz,4,,
-9959PM,Boterdiep Oz,5,,
-9959PM,Boterdiep Oz,6,,
-9959PM,Boterdiep Oz,8,,
-9959PM,Boterdiep Oz,9,,
-9959PM,Boterdiep Oz,10,,
-9959PM,Boterdiep Oz,12,,
-9959PM,Boterdiep Oz,13,,
-9959PM,Boterdiep Oz,15,,
-9959TC,Middelstumerweg,1,,
-9959TC,Middelstumerweg,2,,
-9959TC,Middelstumerweg,3,,
-9959TC,Middelstumerweg,4,,
-9959TC,Middelstumerweg,5,,
-9959TC,Middelstumerweg,7,,
-9959TC,Middelstumerweg,7,A,
-9959TC,Middelstumerweg,8,,
-9959TC,Middelstumerweg,9,,
-9959TC,Middelstumerweg,9,A,
-9959TC,Middelstumerweg,10,,
-9959TC,Middelstumerweg,11,,
-9959TC,Middelstumerweg,12,,
-9959TC,Middelstumerweg,14,,
-9959TC,Middelstumerweg,16,,
-9959TC,Middelstumerweg,17,A,
-9959TC,Middelstumerweg,17,D,
-9959TC,Middelstumerweg,19,,
-9959TC,Middelstumerweg,24,,
-9959TC,Middelstumerweg,17,,
-9959TA,Onderwierum,4,,
-9959TA,Onderwierum,6,,
-9959TA,Onderwierum,7,,
-9959TA,Onderwierum,8,,
-9959TA,Onderwierum,9,,
-9959TA,Onderwierum,9,A,
-9959TA,Onderwierum,10,,
-9959TA,Onderwierum,10,,
-9959TA,Onderwierum,11,,
-9959TA,Onderwierum,12,,
-9959TA,Onderwierum,13,,
-9959TA,Onderwierum,14,,
-9959TB,Rodewolt,7,,
-9959TB,Rodewolt,9,,
-9959TB,Rodewolt,11,,
-9959TB,Rodewolt,13,,
-9959PS,Stadsweg,2,,
-9959PS,Stadsweg,4,,
-9959PS,Stadsweg,6,,
-9959PS,Stadsweg,8,,
-9959PS,Stadsweg,10,,
-9959PS,Stadsweg,12,,
-9959PS,Stadsweg,14,,
-9959PS,Stadsweg,16,,
-9959PS,Stadsweg,18,,
-9959PS,Stadsweg,20,,
-9959PS,Stadsweg,22,,
-9959PS,Stadsweg,24,,
-9959PS,Stadsweg,24,A,
-9959PS,Stadsweg,26,,
-9959PS,Stadsweg,33,,
-9959PS,Stadsweg,35,,
-9959PS,Stadsweg,35,A,
-9959PS,Stadsweg,37,,
-9959PS,Stadsweg,39,,
-9959PS,Stadsweg,41,,
-9959PS,Stadsweg,43,,
-9959PS,Stadsweg,45,,
-9959PS,Stadsweg,47,,
-9959PS,Stadsweg,49,,
-9959PS,Stadsweg,51,,
-9959PS,Stadsweg,53,,
-9959TE,Warffumerweg,1,,
-9959TE,Warffumerweg,3,,
-9959TE,Warffumerweg,7,,
-9959TE,Warffumerweg,11,,
-9959TE,Warffumerweg,15,,
-9959TE,Warffumerweg,23,,
-9959TE,Warffumerweg,25,,
-9959TE,Warffumerweg,27,,
-9959TE,Warffumerweg,31,,
-9959TE,Warffumerweg,33,,
-9959TE,Warffumerweg,35,,
-9959TE,Warffumerweg,37,,
-9959TE,Warffumerweg,39,,
-9959TE,Warffumerweg,41,,
-9959TG,Warffumerweg,2,,
-9959TG,Warffumerweg,6,,
-9959TG,Warffumerweg,8,,
-9959TG,Warffumerweg,10,,
-9959TG,Warffumerweg,12,,
-9959TG,Warffumerweg,12,A,
-9959TG,Warffumerweg,14,,
-9959TG,Warffumerweg,16,,
-9959TG,Warffumerweg,18,,
-9959PA,Winsumertrekpad,1,,
-9959PA,Winsumertrekpad,2,,
-9959TD,Winsumerweg,1,,
-9959TD,Winsumerweg,2,,
-9959TD,Winsumerweg,3,,
-9959TD,Winsumerweg,4,,
-9959TD,Winsumerweg,6,,
-9959TD,Winsumerweg,6,A,
-9959TD,Winsumerweg,8,,
-9959TD,Winsumerweg,8,A,
-9959TD,Winsumerweg,10,,
-9959TD,Winsumerweg,12,,
-9959TD,Winsumerweg,14,,
-9959TD,Winsumerweg,18,,
-9959TD,Winsumerweg,20,,
-9959TD,Winsumerweg,24,,
-9959TD,Winsumerweg,16,,
-9781TW,Groningerweg,2,,
-9781TW,Groningerweg,2,A,
-9959PX,Ouden Bosch,1,,
-9781TS,Ellerhuizen,5,,
-9781TT,Ellerhuizen,26,A,
-9781TT,Ellerhuizen,26,B,
-9781TT,Ellerhuizen,16,B,
-9781TT,Ellerhuizen,32,A,
-9781TE,Lageweg,26,,
-9781TA,Noordwolderweg,124,B,
-9781BL,Oude Dijk,2,A,
-9781BL,Oude Dijk,2,,
-9781BL,Oude Dijk,15,A,
-9781TN,St Annerweg,2,,
-9781TN,St Annerweg,2,,
-9781TL,Ter Laan,31,,
-9781TL,Ter Laan,2035,,
-9781TL,Ter Laan,35,,
-9781TL,Ter Laan,33,B,
-9959PH,Bedumerweg,68,,
-9959PH,Bedumerweg,68,,
-9959PH,Bedumerweg,64,,
-9959PM,Boterdiep Oz,12,,
-9959PM,Boterdiep Oz,12,,
-9959TA,Onderwierum,11,,
-9959TA,Onderwierum,9,,
-9959PS,Stadsweg,51,,
-9959PS,Stadsweg,10,,
-9959PS,Stadsweg,12,,
-9959PS,Stadsweg,14,,
-9959PS,Stadsweg,16,,
-9959PS,Stadsweg,18,,
-9959PS,Stadsweg,20,,
-9959PS,Stadsweg,51,A,
-9959PA,Winsumertrekpad,1,A,
-9959PA,Winsumertrekpad,1,,
-9959TD,Winsumerweg,8,B,
-9959PX,Ouden Bosch,1,,
-9959PX,Ouden Bosch,1,A,
-9959PX,Ouden Bosch,1,B,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Noordwolderweg,101,"","",9781AG,Bedum
+Noordwolderweg,103,"","",9781AG,Bedum
+Noordwolderweg,105,"","",9781AG,Bedum
+Noordwolderweg,107,"","",9781AG,Bedum
+Noordwolderweg,109,"","",9781AG,Bedum
+Noordwolderweg,109,A,"",9781AG,Bedum
+Noordwolderweg,111,"","",9781AG,Bedum
+Noordwolderweg,111,"","",9781AG,Bedum
+Noordwolderweg,111,"","",9781AG,Bedum
+Noordwolderweg,113,"","",9781AG,Bedum
+Noordwolderweg,71,"","",9781AG,Bedum
+Noordwolderweg,73,"","",9781AG,Bedum
+Noordwolderweg,75,"","",9781AG,Bedum
+Noordwolderweg,77,"","",9781AG,Bedum
+Noordwolderweg,77,"","",9781AG,Bedum
+Noordwolderweg,77,"","",9781AG,Bedum
+Noordwolderweg,81,"","",9781AG,Bedum
+Noordwolderweg,81,"","",9781AG,Bedum
+Noordwolderweg,81,"","",9781AG,Bedum
+Noordwolderweg,83,"","",9781AG,Bedum
+Noordwolderweg,85,"","",9781AG,Bedum
+Noordwolderweg,89,"","",9781AG,Bedum
+Noordwolderweg,91,"","",9781AG,Bedum
+Noordwolderweg,95,"","",9781AG,Bedum
+Noordwolderweg,97,"","",9781AG,Bedum
+Oude Dijk,1,"","",9781BL,Bedum
+Oude Dijk,11,"","",9781BL,Bedum
+Oude Dijk,13,"","",9781BL,Bedum
+Oude Dijk,15,"","",9781BL,Bedum
+Oude Dijk,17,"","",9781BL,Bedum
+Oude Dijk,19,"","",9781BL,Bedum
+Oude Dijk,2,"","",9781BL,Bedum
+Oude Dijk,2,"","",9781BL,Bedum
+Oude Dijk,21,"","",9781BL,Bedum
+Oude Dijk,3,"","",9781BL,Bedum
+Oude Dijk,4,"","",9781BL,Bedum
+Oude Dijk,5,"","",9781BL,Bedum
+Oude Dijk,7,"","",9781BL,Bedum
+Oude Dijk,9,"","",9781BL,Bedum
+Noordwolderweg,124,"","",9781TA,Bedum
+Noordwolderweg,124,A,"",9781TA,Bedum
+Noordwolderweg,124,C,"",9781TA,Bedum
+Noordwolderweg,124,D,"",9781TA,Bedum
+Noordwolderweg,124,E,"",9781TA,Bedum
+Noordwolderweg,126,"","",9781TA,Bedum
+Noordwolderweg,128,"","",9781TA,Bedum
+Lageweg,10,"","",9781TE,Bedum
+Lageweg,12,"","",9781TE,Bedum
+Lageweg,14,"","",9781TE,Bedum
+Lageweg,16,"","",9781TE,Bedum
+Lageweg,18,"","",9781TE,Bedum
+Lageweg,2,"","",9781TE,Bedum
+Lageweg,20,"","",9781TE,Bedum
+Lageweg,22,"","",9781TE,Bedum
+Lageweg,24,"","",9781TE,Bedum
+Lageweg,26,"","",9781TE,Bedum
+Lageweg,26,"","",9781TE,Bedum
+Lageweg,4,"","",9781TE,Bedum
+Lageweg,6,"","",9781TE,Bedum
+Lageweg,8,"","",9781TE,Bedum
+Westerdijkshorn,11,"","",9781TG,Bedum
+Westerdijkshorn,13,"","",9781TG,Bedum
+Westerdijkshorn,17,"","",9781TG,Bedum
+Westerdijkshorn,19,"","",9781TG,Bedum
+Westerdijkshorn,23,"","",9781TG,Bedum
+Westerdijkshorn,25,"","",9781TG,Bedum
+Westerdijkshorn,27,"","",9781TG,Bedum
+Westerdijkshorn,29,"","",9781TG,Bedum
+Westerdijkshorn,31,"","",9781TG,Bedum
+Westerdijkshorn,7,"","",9781TG,Bedum
+Westerdijkshorn,9,"","",9781TG,Bedum
+Westerdijkshorn,10,"","",9781TH,Bedum
+Westerdijkshorn,12,"","",9781TH,Bedum
+Westerdijkshorn,14,"","",9781TH,Bedum
+Westerdijkshorn,16,"","",9781TH,Bedum
+Westerdijkshorn,18,"","",9781TH,Bedum
+Westerdijkshorn,20,"","",9781TH,Bedum
+Westerdijkshorn,22,"","",9781TH,Bedum
+Westerdijkshorn,24,"","",9781TH,Bedum
+Westerdijkshorn,28,"","",9781TH,Bedum
+Westerdijkshorn,30,"","",9781TH,Bedum
+Westerdijkshorn,30,A,"",9781TH,Bedum
+Westerdijkshorn,32,"","",9781TH,Bedum
+Westerdijkshorn,32,A,"",9781TH,Bedum
+Westerdijkshorn,34,"","",9781TH,Bedum
+Wolddijk,33,"","",9781TJ,Bedum
+Wolddijk,35,"","",9781TJ,Bedum
+Wolddijk,39,"","",9781TJ,Bedum
+Wolddijk,39,A,"",9781TJ,Bedum
+Wolddijk,41,"","",9781TJ,Bedum
+Wolddijk,43,"","",9781TJ,Bedum
+Wolddijk,45,"","",9781TJ,Bedum
+Wolddijk,47,"","",9781TJ,Bedum
+Wolddijk,49,"","",9781TJ,Bedum
+Wolddijk,51,"","",9781TJ,Bedum
+Wolddijk,34,A,"",9781TK,Bedum
+Wolddijk,36,"","",9781TK,Bedum
+Wolddijk,38,"","",9781TK,Bedum
+Wolddijk,42,"","",9781TK,Bedum
+Wolddijk,42,A,"",9781TK,Bedum
+Wolddijk,44,"","",9781TK,Bedum
+Wolddijk,46,"","",9781TK,Bedum
+Wolddijk,50,"","",9781TK,Bedum
+Wolddijk,52,"","",9781TK,Bedum
+Wolddijk,54,"","",9781TK,Bedum
+Wolddijk,58,"","",9781TK,Bedum
+Ter Laan,10,"","",9781TL,Bedum
+Ter Laan,12,"","",9781TL,Bedum
+Ter Laan,13,"","",9781TL,Bedum
+Ter Laan,14,"","",9781TL,Bedum
+Ter Laan,15,"","",9781TL,Bedum
+Ter Laan,17,"","",9781TL,Bedum
+Ter Laan,18,"","",9781TL,Bedum
+Ter Laan,19,"","",9781TL,Bedum
+Ter Laan,20,"","",9781TL,Bedum
+Ter Laan,21,"","",9781TL,Bedum
+Ter Laan,21,A,"",9781TL,Bedum
+Ter Laan,22,"","",9781TL,Bedum
+Ter Laan,24,"","",9781TL,Bedum
+Ter Laan,25,"","",9781TL,Bedum
+Ter Laan,26,"","",9781TL,Bedum
+Ter Laan,26,"","",9781TL,Bedum
+Ter Laan,27,"","",9781TL,Bedum
+Ter Laan,27,"","",9781TL,Bedum
+Ter Laan,27,"","",9781TL,Bedum
+Ter Laan,27,"","",9781TL,Bedum
+Ter Laan,27,"","",9781TL,Bedum
+Ter Laan,31,"","",9781TL,Bedum
+Ter Laan,31,"","",9781TL,Bedum
+Ter Laan,33,"","",9781TL,Bedum
+Ter Laan,33,"","",9781TL,Bedum
+Ter Laan,33,"","",9781TL,Bedum
+Ter Laan,33,A,"",9781TL,Bedum
+Ter Laan,35,"","",9781TL,Bedum
+Ter Laan,35,"","",9781TL,Bedum
+Ter Laan,39,"","",9781TL,Bedum
+St Annerweg,3,"","",9781TM,Bedum
+St Annerweg,5,"","",9781TM,Bedum
+St Annerweg,10,"","",9781TN,Bedum
+St Annerweg,12,"","",9781TN,Bedum
+St Annerweg,14,"","",9781TN,Bedum
+St Annerweg,18,"","",9781TN,Bedum
+St Annerweg,2,"","",9781TN,Bedum
+St Annerweg,2,"","",9781TN,Bedum
+St Annerweg,20,"","",9781TN,Bedum
+St Annerweg,28,"","",9781TN,Bedum
+St Annerweg,4,"","",9781TN,Bedum
+St Annerweg,6,"","",9781TN,Bedum
+St Annerweg,8,"","",9781TN,Bedum
+St Annerweg,30,"","",9781TP,Bedum
+St Annerweg,34,"","",9781TP,Bedum
+St Annerweg,36,"","",9781TP,Bedum
+St Annerweg,40,"","",9781TP,Bedum
+St Annerweg,46,"","",9781TP,Bedum
+St Annerweg,48,"","",9781TP,Bedum
+St Annerweg,50,"","",9781TP,Bedum
+St Annerweg,52,"","",9781TP,Bedum
+St Annerweg,52,A,"",9781TP,Bedum
+St Annerweg,54,"","",9781TP,Bedum
+Thesingerweg,1,"","",9781TR,Bedum
+Thesingerweg,2,"","",9781TR,Bedum
+Thesingerweg,4,"","",9781TR,Bedum
+Thesingerweg,6,"","",9781TR,Bedum
+Ellerhuizen,1,"","",9781TS,Bedum
+Ellerhuizen,1,A,"",9781TS,Bedum
+Ellerhuizen,13,"","",9781TS,Bedum
+Ellerhuizen,15,"","",9781TS,Bedum
+Ellerhuizen,19,"","",9781TS,Bedum
+Ellerhuizen,21,"","",9781TS,Bedum
+Ellerhuizen,27,"","",9781TS,Bedum
+Ellerhuizen,29,"","",9781TS,Bedum
+Ellerhuizen,29,A,"",9781TS,Bedum
+Ellerhuizen,3,"","",9781TS,Bedum
+Ellerhuizen,31,"","",9781TS,Bedum
+Ellerhuizen,33,"","",9781TS,Bedum
+Ellerhuizen,35,"","",9781TS,Bedum
+Ellerhuizen,37,"","",9781TS,Bedum
+Ellerhuizen,39,"","",9781TS,Bedum
+Ellerhuizen,5,"","",9781TS,Bedum
+Ellerhuizen,5,"","",9781TS,Bedum
+Ellerhuizen,7,"","",9781TS,Bedum
+Ellerhuizen,9,"","",9781TS,Bedum
+Ellerhuizen,10,"","",9781TT,Bedum
+Ellerhuizen,16,"","",9781TT,Bedum
+Ellerhuizen,16,A,"",9781TT,Bedum
+Ellerhuizen,18,"","",9781TT,Bedum
+Ellerhuizen,2,"","",9781TT,Bedum
+Ellerhuizen,20,"","",9781TT,Bedum
+Ellerhuizen,22,"","",9781TT,Bedum
+Ellerhuizen,24,"","",9781TT,Bedum
+Ellerhuizen,26,"","",9781TT,Bedum
+Ellerhuizen,28,"","",9781TT,Bedum
+Ellerhuizen,30,"","",9781TT,Bedum
+Ellerhuizen,30,A,"",9781TT,Bedum
+Ellerhuizen,30,B,"",9781TT,Bedum
+Ellerhuizen,32,"","",9781TT,Bedum
+Ellerhuizen,4,A,"",9781TT,Bedum
+Ellerhuizen,6,"","",9781TT,Bedum
+Ellerhuizen,8,"","",9781TT,Bedum
+Stedumerweg,1,"","",9781TV,Bedum
+Stedumerweg,2,"","",9781TV,Bedum
+Stedumerweg,3,"","",9781TV,Bedum
+Groningerweg,2,"","",9781TW,Bedum
+Groningerweg,2,A,"",9781TW,Bedum
+Winsumertrekpad,1,"","",9959PA,Onderdendam
+Winsumertrekpad,2,"","",9959PA,Onderdendam
+Bosweg,1,"","",9959PB,Onderdendam
+Bosweg,2,"","",9959PB,Onderdendam
+Bosweg,3,"","",9959PB,Onderdendam
+Bedumerweg,46,"","",9959PH,Onderdendam
+Bedumerweg,48,"","",9959PH,Onderdendam
+Bedumerweg,50,"","",9959PH,Onderdendam
+Bedumerweg,50,A,"",9959PH,Onderdendam
+Bedumerweg,50,A,"",9959PH,Onderdendam
+Bedumerweg,52,"","",9959PH,Onderdendam
+Bedumerweg,54,"","",9959PH,Onderdendam
+Bedumerweg,56,"","",9959PH,Onderdendam
+Bedumerweg,58,"","",9959PH,Onderdendam
+Bedumerweg,60,"","",9959PH,Onderdendam
+Bedumerweg,62,"","",9959PH,Onderdendam
+Bedumerweg,64,"","",9959PH,Onderdendam
+Bedumerweg,64,"","",9959PH,Onderdendam
+Bedumerweg,68,"","",9959PH,Onderdendam
+Bedumerweg,68,"","",9959PH,Onderdendam
+Bedumerweg,68,"","",9959PH,Onderdendam
+Bedumerweg,68,A,"",9959PH,Onderdendam
+Bedumerweg,70,"","",9959PH,Onderdendam
+Bedumerweg,72,"","",9959PH,Onderdendam
+Bedumerweg,74,A,"",9959PH,Onderdendam
+Boterdiep Oz,1,"","",9959PM,Onderdendam
+Boterdiep Oz,10,"","",9959PM,Onderdendam
+Boterdiep Oz,12,"","",9959PM,Onderdendam
+Boterdiep Oz,12,"","",9959PM,Onderdendam
+Boterdiep Oz,13,"","",9959PM,Onderdendam
+Boterdiep Oz,15,"","",9959PM,Onderdendam
+Boterdiep Oz,2,"","",9959PM,Onderdendam
+Boterdiep Oz,3,"","",9959PM,Onderdendam
+Boterdiep Oz,4,"","",9959PM,Onderdendam
+Boterdiep Oz,5,"","",9959PM,Onderdendam
+Boterdiep Oz,6,"","",9959PM,Onderdendam
+Boterdiep Oz,8,"","",9959PM,Onderdendam
+Boterdiep Oz,9,"","",9959PM,Onderdendam
+Stadsweg,10,"","",9959PS,Onderdendam
+Stadsweg,10,"","",9959PS,Onderdendam
+Stadsweg,12,"","",9959PS,Onderdendam
+Stadsweg,12,"","",9959PS,Onderdendam
+Stadsweg,14,"","",9959PS,Onderdendam
+Stadsweg,14,"","",9959PS,Onderdendam
+Stadsweg,16,"","",9959PS,Onderdendam
+Stadsweg,16,"","",9959PS,Onderdendam
+Stadsweg,18,"","",9959PS,Onderdendam
+Stadsweg,18,"","",9959PS,Onderdendam
+Stadsweg,2,"","",9959PS,Onderdendam
+Stadsweg,20,"","",9959PS,Onderdendam
+Stadsweg,20,"","",9959PS,Onderdendam
+Stadsweg,22,"","",9959PS,Onderdendam
+Stadsweg,22,"","",9959PS,Onderdendam
+Stadsweg,24,"","",9959PS,Onderdendam
+Stadsweg,24,"","",9959PS,Onderdendam
+Stadsweg,24,A,"",9959PS,Onderdendam
+Stadsweg,26,"","",9959PS,Onderdendam
+Stadsweg,33,"","",9959PS,Onderdendam
+Stadsweg,35,"","",9959PS,Onderdendam
+Stadsweg,35,A,"",9959PS,Onderdendam
+Stadsweg,37,"","",9959PS,Onderdendam
+Stadsweg,39,"","",9959PS,Onderdendam
+Stadsweg,4,"","",9959PS,Onderdendam
+Stadsweg,41,"","",9959PS,Onderdendam
+Stadsweg,43,"","",9959PS,Onderdendam
+Stadsweg,45,"","",9959PS,Onderdendam
+Stadsweg,47,"","",9959PS,Onderdendam
+Stadsweg,49,"","",9959PS,Onderdendam
+Stadsweg,51,"","",9959PS,Onderdendam
+Stadsweg,51,"","",9959PS,Onderdendam
+Stadsweg,53,"","",9959PS,Onderdendam
+Stadsweg,6,"","",9959PS,Onderdendam
+Stadsweg,8,"","",9959PS,Onderdendam
+Ouden Bosch,1,"","",9959PX,Onderdendam
+Onderwierum,10,"","",9959TA,Onderdendam
+Onderwierum,10,"","",9959TA,Onderdendam
+Onderwierum,11,"","",9959TA,Onderdendam
+Onderwierum,11,"","",9959TA,Onderdendam
+Onderwierum,12,"","",9959TA,Onderdendam
+Onderwierum,13,"","",9959TA,Onderdendam
+Onderwierum,14,"","",9959TA,Onderdendam
+Onderwierum,4,"","",9959TA,Onderdendam
+Onderwierum,6,"","",9959TA,Onderdendam
+Onderwierum,7,"","",9959TA,Onderdendam
+Onderwierum,8,"","",9959TA,Onderdendam
+Onderwierum,9,"","",9959TA,Onderdendam
+Onderwierum,9,"","",9959TA,Onderdendam
+Onderwierum,9,A,"",9959TA,Onderdendam
+Rodewolt,11,"","",9959TB,Onderdendam
+Rodewolt,13,"","",9959TB,Onderdendam
+Rodewolt,7,"","",9959TB,Onderdendam
+Rodewolt,9,"","",9959TB,Onderdendam
+Middelstumerweg,1,"","",9959TC,Onderdendam
+Middelstumerweg,10,"","",9959TC,Onderdendam
+Middelstumerweg,11,"","",9959TC,Onderdendam
+Middelstumerweg,12,"","",9959TC,Onderdendam
+Middelstumerweg,14,"","",9959TC,Onderdendam
+Middelstumerweg,16,"","",9959TC,Onderdendam
+Middelstumerweg,17,"","",9959TC,Onderdendam
+Middelstumerweg,17,A,"",9959TC,Onderdendam
+Middelstumerweg,17,D,"",9959TC,Onderdendam
+Middelstumerweg,19,"","",9959TC,Onderdendam
+Middelstumerweg,2,"","",9959TC,Onderdendam
+Middelstumerweg,24,"","",9959TC,Onderdendam
+Middelstumerweg,3,"","",9959TC,Onderdendam
+Middelstumerweg,4,"","",9959TC,Onderdendam
+Middelstumerweg,5,"","",9959TC,Onderdendam
+Middelstumerweg,7,"","",9959TC,Onderdendam
+Middelstumerweg,7,A,"",9959TC,Onderdendam
+Middelstumerweg,8,"","",9959TC,Onderdendam
+Middelstumerweg,9,"","",9959TC,Onderdendam
+Middelstumerweg,9,A,"",9959TC,Onderdendam
+Winsumerweg,1,"","",9959TD,Onderdendam
+Winsumerweg,10,"","",9959TD,Onderdendam
+Winsumerweg,12,"","",9959TD,Onderdendam
+Winsumerweg,14,"","",9959TD,Onderdendam
+Winsumerweg,16,"","",9959TD,Onderdendam
+Winsumerweg,18,"","",9959TD,Onderdendam
+Winsumerweg,2,"","",9959TD,Onderdendam
+Winsumerweg,20,"","",9959TD,Onderdendam
+Winsumerweg,24,"","",9959TD,Onderdendam
+Winsumerweg,3,"","",9959TD,Onderdendam
+Winsumerweg,4,"","",9959TD,Onderdendam
+Winsumerweg,6,"","",9959TD,Onderdendam
+Winsumerweg,6,A,"",9959TD,Onderdendam
+Winsumerweg,8,"","",9959TD,Onderdendam
+Winsumerweg,8,A,"",9959TD,Onderdendam
+Warffumerweg,1,"","",9959TE,Onderdendam
+Warffumerweg,11,"","",9959TE,Onderdendam
+Warffumerweg,15,"","",9959TE,Onderdendam
+Warffumerweg,23,"","",9959TE,Onderdendam
+Warffumerweg,25,"","",9959TE,Onderdendam
+Warffumerweg,27,"","",9959TE,Onderdendam
+Warffumerweg,3,"","",9959TE,Onderdendam
+Warffumerweg,31,"","",9959TE,Onderdendam
+Warffumerweg,33,"","",9959TE,Onderdendam
+Warffumerweg,35,"","",9959TE,Onderdendam
+Warffumerweg,37,"","",9959TE,Onderdendam
+Warffumerweg,39,"","",9959TE,Onderdendam
+Warffumerweg,41,"","",9959TE,Onderdendam
+Warffumerweg,7,"","",9959TE,Onderdendam
+Warffumerweg,10,"","",9959TG,Onderdendam
+Warffumerweg,12,"","",9959TG,Onderdendam
+Warffumerweg,12,A,"",9959TG,Onderdendam
+Warffumerweg,14,"","",9959TG,Onderdendam
+Warffumerweg,16,"","",9959TG,Onderdendam
+Warffumerweg,18,"","",9959TG,Onderdendam
+Warffumerweg,2,"","",9959TG,Onderdendam
+Warffumerweg,6,"","",9959TG,Onderdendam
+Warffumerweg,8,"","",9959TG,Onderdendam

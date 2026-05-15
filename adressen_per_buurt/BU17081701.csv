@@ -1,80 +1,80 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8355TA,Heerendijk,1,,
-8355VA,Jan van Nassauweg,11,,
-8355VA,Jan van Nassauweg,13,,
-8355VA,Jan van Nassauweg,15,,
-8355VA,Jan van Nassauweg,2,,
-8355VA,Jan van Nassauweg,4,,
-8355VA,Jan van Nassauweg,6,,
-8355VA,Jan van Nassauweg,8,,
-8355VA,Jan van Nassauweg,10,,
-8355VA,Jan van Nassauweg,10,A,
-8355VA,Jan van Nassauweg,10,a,
-8355VA,Jan van Nassauweg,12,,
-8355VA,Jan van Nassauweg,14,,
-8355VA,Jan van Nassauweg,1,,
-8355VA,Jan van Nassauweg,3,,
-8355VA,Jan van Nassauweg,5,,
-8355VA,Jan van Nassauweg,9,,
-8355VA,Jan van Nassauweg,16,,
-8355VA,Jan van Nassauweg,18,,
-8355VH,Kanaaldijk,1,,
-8355VH,Kanaaldijk,3,,
-8355VH,Kanaaldijk,5,,
-8355VH,Kanaaldijk,7,,
-8355VH,Kanaaldijk,9,,
-8355VH,Kanaaldijk,2,,
-8355VH,Kanaaldijk,4,,
-8355VH,Kanaaldijk,4,A,
-8355VH,Kanaaldijk,4,a,
-8355VH,Kanaaldijk,6,,
-8355VH,Kanaaldijk,8,,
-8355VH,Kanaaldijk,10,,
-8355VJ,Kanaaldijk,11,,
-8355VJ,Kanaaldijk,13,,
-8355VJ,Kanaaldijk,15,,
-8355VJ,Kanaaldijk,17,,
-8355VJ,Kanaaldijk,19,,
-8355VJ,Kanaaldijk,21,,
-8355VJ,Kanaaldijk,23,,
-8355VJ,Kanaaldijk,23,A,
-8355VJ,Kanaaldijk,23,a,
-8355VJ,Kanaaldijk,13,A,
-8355VJ,Kanaaldijk,13,a,
-8355VJ,Kanaaldijk,12,,
-8355VJ,Kanaaldijk,14,,
-8355VJ,Kanaaldijk,16,,
-8355VJ,Kanaaldijk,18,,
-8355VJ,Kanaaldijk,20,,
-8355VJ,Kanaaldijk,22,,
-8355VJ,Kanaaldijk,25,,
-8355VG,Kapelweg,1,,
-8355VB,Smalleweg,1,,
-8355VB,Smalleweg,3,,
-8355VB,Smalleweg,5,,
-8355VB,Smalleweg,7,,
-8355VB,Smalleweg,9,,
-8355VB,Smalleweg,1,A,
-8355VB,Smalleweg,1,a,
-8355VE,Thijssengracht,1,,
-8355VA,Jan van Nassauweg,14,a,
-8355VA,Jan van Nassauweg,1,t,
-8355VA,Jan van Nassauweg,15,t,
-8355VH,Kanaaldijk,1,t,
-8355VJ,Kanaaldijk,24,,
-8355VJ,Kanaaldijk,12,a,
-8355VG,Kapelweg,3,,
-8355VB,Smalleweg,9,t,
-8355VB,Smalleweg,1,t,
-8355VA,Jan van Nassauweg,9,t,
-8355VH,Kanaaldijk,9,t,
-8355VH,Kanaaldijk,8,,
-8355VH,Kanaaldijk,8,,
-8355VH,Kanaaldijk,2,a,
-8355VH,Kanaaldijk,5,A,
-8355VH,Kanaaldijk,5,B,
-8355VH,Kanaaldijk,6,a,
-8355VH,Kanaaldijk,6,b,
-8355VG,Kapelweg,3,,
-8355VG,Kapelweg,2,,
-8355VB,Smalleweg,3,t,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Heerendijk,1,"","",8355TA,Giethoorn
+Jan van Nassauweg,1,"","",8355VA,Giethoorn
+Jan van Nassauweg,1,T,"",8355VA,Giethoorn
+Jan van Nassauweg,10,"","",8355VA,Giethoorn
+Jan van Nassauweg,10,A,"",8355VA,Giethoorn
+Jan van Nassauweg,10,A,"",8355VA,Giethoorn
+Jan van Nassauweg,11,"","",8355VA,Giethoorn
+Jan van Nassauweg,12,"","",8355VA,Giethoorn
+Jan van Nassauweg,13,"","",8355VA,Giethoorn
+Jan van Nassauweg,14,"","",8355VA,Giethoorn
+Jan van Nassauweg,14,A,"",8355VA,Giethoorn
+Jan van Nassauweg,15,"","",8355VA,Giethoorn
+Jan van Nassauweg,15,T,"",8355VA,Giethoorn
+Jan van Nassauweg,16,"","",8355VA,Giethoorn
+Jan van Nassauweg,18,"","",8355VA,Giethoorn
+Jan van Nassauweg,2,"","",8355VA,Giethoorn
+Jan van Nassauweg,3,"","",8355VA,Giethoorn
+Jan van Nassauweg,4,"","",8355VA,Giethoorn
+Jan van Nassauweg,5,"","",8355VA,Giethoorn
+Jan van Nassauweg,6,"","",8355VA,Giethoorn
+Jan van Nassauweg,8,"","",8355VA,Giethoorn
+Jan van Nassauweg,9,"","",8355VA,Giethoorn
+Jan van Nassauweg,9,T,"",8355VA,Giethoorn
+Smalleweg,1,"","",8355VB,Giethoorn
+Smalleweg,1,A,"",8355VB,Giethoorn
+Smalleweg,1,A,"",8355VB,Giethoorn
+Smalleweg,1,T,"",8355VB,Giethoorn
+Smalleweg,3,"","",8355VB,Giethoorn
+Smalleweg,3,T,"",8355VB,Giethoorn
+Smalleweg,5,"","",8355VB,Giethoorn
+Smalleweg,7,"","",8355VB,Giethoorn
+Smalleweg,9,"","",8355VB,Giethoorn
+Smalleweg,9,T,"",8355VB,Giethoorn
+Thijssengracht,1,"","",8355VE,Giethoorn
+Kapelweg,1,"","",8355VG,Giethoorn
+Kapelweg,2,"","",8355VG,Giethoorn
+Kapelweg,3,"","",8355VG,Giethoorn
+Kapelweg,3,"","",8355VG,Giethoorn
+Kanaaldijk,1,"","",8355VH,Giethoorn
+Kanaaldijk,1,T,"",8355VH,Giethoorn
+Kanaaldijk,10,"","",8355VH,Giethoorn
+Kanaaldijk,2,"","",8355VH,Giethoorn
+Kanaaldijk,2,A,"",8355VH,Giethoorn
+Kanaaldijk,3,"","",8355VH,Giethoorn
+Kanaaldijk,4,"","",8355VH,Giethoorn
+Kanaaldijk,4,A,"",8355VH,Giethoorn
+Kanaaldijk,4,A,"",8355VH,Giethoorn
+Kanaaldijk,5,"","",8355VH,Giethoorn
+Kanaaldijk,5,A,"",8355VH,Giethoorn
+Kanaaldijk,5,B,"",8355VH,Giethoorn
+Kanaaldijk,6,"","",8355VH,Giethoorn
+Kanaaldijk,6,A,"",8355VH,Giethoorn
+Kanaaldijk,6,B,"",8355VH,Giethoorn
+Kanaaldijk,7,"","",8355VH,Giethoorn
+Kanaaldijk,8,"","",8355VH,Giethoorn
+Kanaaldijk,8,"","",8355VH,Giethoorn
+Kanaaldijk,8,"","",8355VH,Giethoorn
+Kanaaldijk,9,"","",8355VH,Giethoorn
+Kanaaldijk,9,T,"",8355VH,Giethoorn
+Kanaaldijk,11,"","",8355VJ,Giethoorn
+Kanaaldijk,12,"","",8355VJ,Giethoorn
+Kanaaldijk,12,A,"",8355VJ,Giethoorn
+Kanaaldijk,13,"","",8355VJ,Giethoorn
+Kanaaldijk,13,A,"",8355VJ,Giethoorn
+Kanaaldijk,13,A,"",8355VJ,Giethoorn
+Kanaaldijk,14,"","",8355VJ,Giethoorn
+Kanaaldijk,15,"","",8355VJ,Giethoorn
+Kanaaldijk,16,"","",8355VJ,Giethoorn
+Kanaaldijk,17,"","",8355VJ,Giethoorn
+Kanaaldijk,18,"","",8355VJ,Giethoorn
+Kanaaldijk,19,"","",8355VJ,Giethoorn
+Kanaaldijk,20,"","",8355VJ,Giethoorn
+Kanaaldijk,21,"","",8355VJ,Giethoorn
+Kanaaldijk,22,"","",8355VJ,Giethoorn
+Kanaaldijk,23,"","",8355VJ,Giethoorn
+Kanaaldijk,23,A,"",8355VJ,Giethoorn
+Kanaaldijk,23,A,"",8355VJ,Giethoorn
+Kanaaldijk,24,"","",8355VJ,Giethoorn
+Kanaaldijk,25,"","",8355VJ,Giethoorn

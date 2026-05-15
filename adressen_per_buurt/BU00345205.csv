@@ -1,969 +1,492 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"1336HX",3,"",""
-"1336HX",1,"",""
-"1336HX",23,"",""
-"1336HX",29,"",""
-"1336HX",11,"",""
-"1336HX",39,"",""
-"1336HX",15,"",""
-"1336HX",25,"",""
-"1336HX",31,"",""
-"1336HX",5,"",""
-"1336HX",9,"",""
-"1336HX",13,"",""
-"1336HX",7,"",""
-"1336HX",33,"",""
-"1336HX",37,"",""
-"1336HX",21,"",""
-"1336HX",35,"",""
-"1336HX",19,"",""
-"1336HX",27,"",""
-"1336HX",17,"",""
-"1336MA",50,"",""
-"1336MA",48,"",""
-"1336MA",46,"",""
-"1336MA",36,"",""
-"1336MA",9,"",""
-"1336MA",42,"",""
-"1336MA",30,"",""
-"1336MA",17,"",""
-"1336MA",52,"",""
-"1336MA",10,"",""
-"1336MA",18,"",""
-"1336MA",16,"",""
-"1336MA",28,"",""
-"1336MA",26,"",""
-"1336MA",38,"",""
-"1336MA",20,"",""
-"1336MA",34,"",""
-"1336MA",29,"",""
-"1336MA",14,"",""
-"1336MA",32,"",""
-"1336MA",27,"",""
-"1336MA",22,"",""
-"1336MA",24,"",""
-"1336MA",18,"",""
-"1336MA",34,"",""
-"1336MA",25,"",""
-"1336MA",44,"",""
-"1336MA",36,"",""
-"1336MA",30,"",""
-"1336MA",32,"",""
-"1336MA",34,"",""
-"1336MA",28,"",""
-"1336MA",21,"",""
-"1336MA",18,"",""
-"1336MA",26,"",""
-"1336MA",38,"",""
-"1336MA",22,"",""
-"1336MA",5,"",""
-"1336MA",38,"",""
-"1336MA",7,"",""
-"1336MA",6,"",""
-"1336MA",22,"",""
-"1336MA",40,"",""
-"1336MA",36,"",""
-"1336MA",16,"",""
-"1336MA",31,"",""
-"1336MA",15,"",""
-"1336MA",23,"",""
-"1336MA",16,"",""
-"1336MA",12,"",""
-"1336MA",8,"",""
-"1336MA",4,"",""
-"1336MA",24,"",""
-"1336MA",13,"",""
-"1336MA",11,"",""
-"1336MA",20,"",""
-"1336MA",19,"",""
-"1336MA",32,"",""
-"1336MA",20,"",""
-"1336MB",22,"",""
-"1336MB",37,"",""
-"1336MB",10,"",""
-"1336MB",1,"",""
-"1336MB",23,"",""
-"1336MB",8,"",""
-"1336MB",3,"",""
-"1336MB",27,"",""
-"1336MB",29,"",""
-"1336MB",28,"",""
-"1336MB",12,"",""
-"1336MB",2,"",""
-"1336MB",24,"",""
-"1336MB",11,"",""
-"1336MB",31,"",""
-"1336MB",25,"",""
-"1336MB",21,"",""
-"1336MB",16,"",""
-"1336MB",35,"",""
-"1336MB",7,"",""
-"1336MB",5,"",""
-"1336MB",19,"",""
-"1336MB",33,"",""
-"1336MB",17,"",""
-"1336MB",14,"",""
-"1336MB",15,"",""
-"1336MB",26,"",""
-"1336MB",18,"",""
-"1336MB",9,"",""
-"1336MB",13,"",""
-"1336MB",30,"",""
-"1336MB",20,"",""
-"1336MB",4,"",""
-"1336MB",6,"",""
-"1336MC",3,"",""
-"1336MC",9,"",""
-"1336MC",5,"",""
-"1336MC",10,"",""
-"1336MC",6,"",""
-"1336MC",11,"",""
-"1336MC",24,"",""
-"1336MC",18,"",""
-"1336MC",2,"",""
-"1336MC",1,"",""
-"1336MC",1,"",""
-"1336MC",17,"",""
-"1336MC",14,"",""
-"1336MC",21,"",""
-"1336MC",4,"",""
-"1336MC",8,"",""
-"1336MC",22,"",""
-"1336MC",1,"",""
-"1336MC",30,"",""
-"1336MC",29,"",""
-"1336MC",13,"",""
-"1336MC",7,"",""
-"1336MC",12,"",""
-"1336MC",27,"",""
-"1336MC",19,"",""
-"1336MC",25,"",""
-"1336MC",26,"",""
-"1336MC",28,"",""
-"1336MC",32,"",""
-"1336MC",15,"",""
-"1336MC",20,"",""
-"1336MC",16,"",""
-"1336MC",23,"",""
-"1336MD",1,"",""
-"1336MD",5,"",""
-"1336MD",15,"",""
-"1336MD",22,"",""
-"1336MD",18,"",""
-"1336MD",16,"",""
-"1336MD",1,"",""
-"1336MD",9,"",""
-"1336MD",4,"",""
-"1336MD",7,"",""
-"1336MD",20,"",""
-"1336MD",17,"",""
-"1336MD",14,"",""
-"1336MD",11,"",""
-"1336MD",2,"",""
-"1336MD",12,"",""
-"1336MD",1,"",""
-"1336MD",2,"",""
-"1336MD",3,"",""
-"1336MD",2,"",""
-"1336MD",13,"",""
-"1336MD",10,"",""
-"1336MD",6,"",""
-"1336MD",8,"",""
-"1336ME",16,"",""
-"1336ME",30,"",""
-"1336ME",1,"",""
-"1336ME",6,"",""
-"1336ME",2,"",""
-"1336ME",4,"",""
-"1336ME",20,"",""
-"1336ME",9,"",""
-"1336ME",10,"",""
-"1336ME",8,"",""
-"1336ME",12,"",""
-"1336ME",7,"",""
-"1336ME",24,"",""
-"1336ME",22,"",""
-"1336ME",32,"",""
-"1336ME",11,"",""
-"1336ME",14,"",""
-"1336ME",5,"",""
-"1336ME",26,"",""
-"1336ME",28,"",""
-"1336ME",18,"",""
-"1336ME",3,"",""
-"1336MG",4,"",""
-"1336MG",1,"A",""
-"1336MG",8,"",""
-"1336MG",1,"",""
-"1336MG",10,"",""
-"1336MG",1,"",""
-"1336MG",2,"",""
-"1336MG",2,"",""
-"1336MG",6,"",""
-"1336MG",1,"B",""
-"1336MG",2,"",""
-"1336MH",2,"",""
-"1336MH",12,"",""
-"1336MH",46,"",""
-"1336MH",25,"",""
-"1336MH",17,"",""
-"1336MH",42,"",""
-"1336MH",38,"",""
-"1336MH",11,"",""
-"1336MH",14,"",""
-"1336MH",1,"",""
-"1336MH",13,"",""
-"1336MH",24,"",""
-"1336MH",28,"",""
-"1336MH",19,"",""
-"1336MH",21,"",""
-"1336MH",18,"",""
-"1336MH",15,"",""
-"1336MH",44,"",""
-"1336MH",40,"",""
-"1336MH",27,"",""
-"1336MH",31,"",""
-"1336MH",54,"",""
-"1336MH",16,"",""
-"1336MH",22,"",""
-"1336MH",9,"",""
-"1336MH",56,"",""
-"1336MH",36,"",""
-"1336MH",3,"",""
-"1336MH",26,"",""
-"1336MH",60,"",""
-"1336MH",58,"",""
-"1336MH",10,"",""
-"1336MH",7,"",""
-"1336MH",20,"",""
-"1336MH",32,"",""
-"1336MH",23,"",""
-"1336MH",5,"",""
-"1336MH",30,"",""
-"1336MH",48,"",""
-"1336MH",4,"",""
-"1336MH",34,"",""
-"1336MH",52,"",""
-"1336MH",50,"",""
-"1336MH",29,"",""
-"1336MH",6,"",""
-"1336MH",8,"",""
-"1336MJ",25,"",""
-"1336MJ",23,"",""
-"1336MJ",7,"",""
-"1336MJ",11,"",""
-"1336MJ",10,"",""
-"1336MJ",18,"",""
-"1336MJ",6,"",""
-"1336MJ",15,"",""
-"1336MJ",21,"",""
-"1336MJ",12,"",""
-"1336MJ",20,"",""
-"1336MJ",13,"",""
-"1336MJ",4,"",""
-"1336MJ",2,"",""
-"1336MJ",16,"",""
-"1336MJ",1,"",""
-"1336MJ",19,"",""
-"1336MJ",3,"",""
-"1336MJ",14,"",""
-"1336MJ",22,"",""
-"1336MJ",9,"",""
-"1336MJ",24,"",""
-"1336MJ",17,"",""
-"1336MJ",5,"",""
-"1336MJ",8,"",""
-"1336MJ",26,"",""
-"1336MK",8,"",""
-"1336MK",16,"",""
-"1336MK",23,"",""
-"1336MK",75,"",""
-"1336MK",11,"",""
-"1336MK",53,"",""
-"1336MK",69,"",""
-"1336MK",77,"",""
-"1336MK",24,"",""
-"1336MK",29,"",""
-"1336MK",67,"",""
-"1336MK",43,"",""
-"1336MK",13,"",""
-"1336MK",14,"",""
-"1336MK",18,"",""
-"1336MK",79,"",""
-"1336MK",10,"",""
-"1336MK",81,"",""
-"1336MK",57,"",""
-"1336MK",71,"",""
-"1336MK",36,"",""
-"1336MK",83,"",""
-"1336MK",32,"",""
-"1336MK",21,"",""
-"1336MK",19,"",""
-"1336MK",12,"",""
-"1336MK",20,"",""
-"1336MK",73,"",""
-"1336MK",31,"",""
-"1336MK",40,"",""
-"1336MK",3,"",""
-"1336MK",28,"",""
-"1336MK",45,"",""
-"1336MK",26,"",""
-"1336MK",41,"",""
-"1336MK",1,"",""
-"1336MK",22,"",""
-"1336MK",15,"",""
-"1336MK",17,"",""
-"1336MK",9,"",""
-"1336MK",5,"",""
-"1336MK",34,"",""
-"1336MK",55,"",""
-"1336MK",38,"",""
-"1336MK",85,"",""
-"1336MK",61,"",""
-"1336MK",39,"",""
-"1336MK",4,"",""
-"1336MK",33,"",""
-"1336MK",49,"",""
-"1336MK",7,"",""
-"1336MK",35,"",""
-"1336MK",63,"",""
-"1336MK",42,"",""
-"1336MK",65,"",""
-"1336MK",30,"",""
-"1336MK",27,"",""
-"1336MK",2,"",""
-"1336MK",87,"",""
-"1336MK",6,"",""
-"1336MK",47,"",""
-"1336MK",59,"",""
-"1336MK",51,"",""
-"1336MK",37,"",""
-"1336MK",89,"",""
-"1336MK",25,"",""
-"1336ML",20,"",""
-"1336ML",25,"",""
-"1336ML",11,"",""
-"1336ML",24,"",""
-"1336ML",29,"",""
-"1336ML",8,"",""
-"1336ML",17,"",""
-"1336ML",27,"",""
-"1336ML",21,"",""
-"1336ML",5,"",""
-"1336ML",13,"",""
-"1336ML",9,"",""
-"1336ML",3,"",""
-"1336ML",28,"",""
-"1336ML",18,"",""
-"1336ML",14,"",""
-"1336ML",19,"",""
-"1336ML",4,"",""
-"1336ML",12,"",""
-"1336ML",10,"",""
-"1336ML",22,"",""
-"1336ML",2,"",""
-"1336ML",16,"",""
-"1336ML",6,"",""
-"1336ML",26,"",""
-"1336ML",23,"",""
-"1336ML",1,"",""
-"1336ML",15,"",""
-"1336ML",7,"",""
-"1336MN",6,"",""
-"1336MN",20,"",""
-"1336MN",2,"",""
-"1336MN",2,"",""
-"1336MN",10,"",""
-"1336MN",7,"",""
-"1336MN",2,"A",""
-"1336MN",45,"",""
-"1336MN",26,"",""
-"1336MN",4,"",""
-"1336MN",35,"",""
-"1336MN",8,"",""
-"1336MN",9,"",""
-"1336MN",42,"",""
-"1336MN",27,"",""
-"1336MN",3,"",""
-"1336MN",14,"",""
-"1336MN",5,"",""
-"1336MN",32,"",""
-"1336MN",37,"",""
-"1336MN",21,"",""
-"1336MN",29,"",""
-"1336MN",30,"",""
-"1336MN",16,"",""
-"1336MN",28,"",""
-"1336MN",43,"",""
-"1336MN",46,"",""
-"1336MN",33,"",""
-"1336MN",39,"",""
-"1336MN",25,"",""
-"1336MN",23,"",""
-"1336MN",19,"",""
-"1336MN",41,"",""
-"1336MN",31,"",""
-"1336MN",38,"",""
-"1336MN",12,"",""
-"1336MN",24,"",""
-"1336MN",34,"",""
-"1336MN",40,"",""
-"1336MN",22,"",""
-"1336MN",18,"",""
-"1336MN",17,"",""
-"1336MN",15,"",""
-"1336MN",13,"",""
-"1336MN",44,"",""
-"1336MN",36,"",""
-"1336MN",11,"",""
-"1336MP",7,"",""
-"1336MP",24,"",""
-"1336MP",21,"",""
-"1336MP",6,"",""
-"1336MP",8,"",""
-"1336MP",9,"",""
-"1336MP",18,"",""
-"1336MP",2,"",""
-"1336MP",5,"",""
-"1336MP",16,"",""
-"1336MP",1,"",""
-"1336MP",11,"",""
-"1336MP",17,"",""
-"1336MP",19,"",""
-"1336MP",14,"",""
-"1336MP",15,"",""
-"1336MP",4,"",""
-"1336MP",3,"",""
-"1336MP",10,"",""
-"1336MP",13,"",""
-"1336MP",23,"",""
-"1336MP",20,"",""
-"1336MP",22,"",""
-"1336MP",12,"",""
-"1336MR",48,"",""
-"1336MR",91,"",""
-"1336MR",50,"",""
-"1336MR",20,"",""
-"1336MR",8,"",""
-"1336MR",72,"",""
-"1336MR",10,"",""
-"1336MR",34,"",""
-"1336MR",80,"",""
-"1336MR",87,"",""
-"1336MR",89,"",""
-"1336MR",28,"",""
-"1336MR",12,"",""
-"1336MR",40,"",""
-"1336MR",83,"",""
-"1336MR",74,"",""
-"1336MR",56,"",""
-"1336MR",36,"",""
-"1336MR",64,"",""
-"1336MR",46,"",""
-"1336MR",30,"",""
-"1336MR",79,"",""
-"1336MR",97,"",""
-"1336MR",78,"",""
-"1336MR",95,"",""
-"1336MR",6,"",""
-"1336MR",18,"",""
-"1336MR",93,"",""
-"1336MR",70,"",""
-"1336MR",42,"",""
-"1336MR",44,"",""
-"1336MR",81,"",""
-"1336MR",76,"",""
-"1336MR",68,"",""
-"1336MR",16,"",""
-"1336MR",26,"",""
-"1336MR",2,"",""
-"1336MR",4,"",""
-"1336MR",24,"",""
-"1336MR",38,"",""
-"1336MR",66,"",""
-"1336MR",85,"",""
-"1336MR",14,"",""
-"1336MR",32,"",""
-"1336MR",62,"",""
-"1336MR",22,"",""
-"1336MR",58,"",""
-"1336MR",52,"",""
-"1336MR",60,"",""
-"1336MR",54,"",""
-1336MA,André Franquinweg,5,,
-1336MA,André Franquinweg,7,,
-1336MA,André Franquinweg,9,,
-1336MA,André Franquinweg,11,,
-1336MA,André Franquinweg,13,,
-1336MA,André Franquinweg,15,,
-1336MA,André Franquinweg,17,,
-1336MA,André Franquinweg,19,,
-1336MA,André Franquinweg,21,,
-1336MA,André Franquinweg,23,,
-1336MA,André Franquinweg,25,,
-1336MA,André Franquinweg,27,,
-1336MA,André Franquinweg,29,,
-1336MA,André Franquinweg,31,,
-1336MA,André Franquinweg,4,,
-1336MA,André Franquinweg,6,,
-1336MA,André Franquinweg,8,,
-1336MA,André Franquinweg,10,,
-1336MA,André Franquinweg,12,,
-1336MA,André Franquinweg,14,,
-1336MA,André Franquinweg,16,,
-1336MA,André Franquinweg,18,,
-1336MA,André Franquinweg,20,,
-1336MA,André Franquinweg,22,,
-1336MA,André Franquinweg,24,,
-1336MA,André Franquinweg,26,,
-1336MA,André Franquinweg,28,,
-1336MA,André Franquinweg,30,,
-1336MA,André Franquinweg,32,,
-1336MA,André Franquinweg,34,,
-1336MA,André Franquinweg,36,,
-1336MA,André Franquinweg,38,,
-1336MA,André Franquinweg,40,,
-1336MA,André Franquinweg,42,,
-1336MA,André Franquinweg,44,,
-1336MA,André Franquinweg,52,,
-1336MA,André Franquinweg,50,,
-1336MA,André Franquinweg,48,,
-1336MA,André Franquinweg,46,,
-1336MG,Jeromstraat,4,,
-1336MG,Jeromstraat,6,,
-1336MG,Jeromstraat,8,,
-1336MG,Jeromstraat,10,,
-1336MG,Jeromstraat,2,,
-1336MG,Jeromstraat,1,,
-1336MH,Kuifjestraat,1,,
-1336MH,Kuifjestraat,3,,
-1336MH,Kuifjestraat,5,,
-1336MH,Kuifjestraat,7,,
-1336MH,Kuifjestraat,9,,
-1336MH,Kuifjestraat,11,,
-1336MH,Kuifjestraat,2,,
-1336MH,Kuifjestraat,4,,
-1336MH,Kuifjestraat,6,,
-1336MH,Kuifjestraat,8,,
-1336MH,Kuifjestraat,10,,
-1336MH,Kuifjestraat,12,,
-1336MH,Kuifjestraat,14,,
-1336MH,Kuifjestraat,16,,
-1336MH,Kuifjestraat,18,,
-1336MH,Kuifjestraat,20,,
-1336MH,Kuifjestraat,22,,
-1336MH,Kuifjestraat,24,,
-1336MH,Kuifjestraat,26,,
-1336MH,Kuifjestraat,28,,
-1336MH,Kuifjestraat,30,,
-1336MH,Kuifjestraat,32,,
-1336MH,Kuifjestraat,34,,
-1336MH,Kuifjestraat,36,,
-1336MH,Kuifjestraat,38,,
-1336MH,Kuifjestraat,40,,
-1336MH,Kuifjestraat,42,,
-1336MH,Kuifjestraat,44,,
-1336MH,Kuifjestraat,46,,
-1336MH,Kuifjestraat,48,,
-1336MH,Kuifjestraat,50,,
-1336MH,Kuifjestraat,52,,
-1336MH,Kuifjestraat,54,,
-1336MH,Kuifjestraat,56,,
-1336MH,Kuifjestraat,58,,
-1336MH,Kuifjestraat,60,,
-1336MH,Kuifjestraat,13,,
-1336MH,Kuifjestraat,15,,
-1336MH,Kuifjestraat,17,,
-1336MH,Kuifjestraat,19,,
-1336MH,Kuifjestraat,21,,
-1336MH,Kuifjestraat,23,,
-1336MH,Kuifjestraat,25,,
-1336MH,Kuifjestraat,27,,
-1336MH,Kuifjestraat,29,,
-1336MH,Kuifjestraat,31,,
-1336HX,Marsupilamihof,1,,
-1336HX,Marsupilamihof,3,,
-1336HX,Marsupilamihof,5,,
-1336HX,Marsupilamihof,7,,
-1336HX,Marsupilamihof,9,,
-1336HX,Marsupilamihof,11,,
-1336HX,Marsupilamihof,13,,
-1336HX,Marsupilamihof,15,,
-1336HX,Marsupilamihof,17,,
-1336HX,Marsupilamihof,19,,
-1336HX,Marsupilamihof,21,,
-1336HX,Marsupilamihof,23,,
-1336HX,Marsupilamihof,25,,
-1336HX,Marsupilamihof,27,,
-1336HX,Marsupilamihof,29,,
-1336HX,Marsupilamihof,31,,
-1336HX,Marsupilamihof,33,,
-1336HX,Marsupilamihof,35,,
-1336HX,Marsupilamihof,37,,
-1336HX,Marsupilamihof,39,,
-1336ME,Sidoniastraat,2,,
-1336ME,Sidoniastraat,4,,
-1336ME,Sidoniastraat,6,,
-1336ME,Sidoniastraat,8,,
-1336ME,Sidoniastraat,10,,
-1336ME,Sidoniastraat,12,,
-1336ME,Sidoniastraat,14,,
-1336ME,Sidoniastraat,16,,
-1336ME,Sidoniastraat,18,,
-1336ME,Sidoniastraat,20,,
-1336ME,Sidoniastraat,22,,
-1336ME,Sidoniastraat,24,,
-1336ME,Sidoniastraat,26,,
-1336ME,Sidoniastraat,28,,
-1336ME,Sidoniastraat,30,,
-1336ME,Sidoniastraat,32,,
-1336ME,Sidoniastraat,1,,
-1336ME,Sidoniastraat,3,,
-1336ME,Sidoniastraat,5,,
-1336ME,Sidoniastraat,7,,
-1336ME,Sidoniastraat,9,,
-1336ME,Sidoniastraat,11,,
-1336MD,Suskeplantsoen,4,,
-1336MD,Suskeplantsoen,6,,
-1336MD,Suskeplantsoen,8,,
-1336MD,Suskeplantsoen,10,,
-1336MD,Suskeplantsoen,12,,
-1336MD,Suskeplantsoen,14,,
-1336MD,Suskeplantsoen,16,,
-1336MD,Suskeplantsoen,18,,
-1336MD,Suskeplantsoen,20,,
-1336MD,Suskeplantsoen,22,,
-1336MD,Suskeplantsoen,3,,
-1336MD,Suskeplantsoen,5,,
-1336MD,Suskeplantsoen,7,,
-1336MD,Suskeplantsoen,9,,
-1336MD,Suskeplantsoen,11,,
-1336MD,Suskeplantsoen,13,,
-1336MD,Suskeplantsoen,15,,
-1336MD,Suskeplantsoen,17,,
-1336MD,Suskeplantsoen,2,,
-1336MD,Suskeplantsoen,1,,
-1336MC,Wiskestraat,3,,
-1336MC,Wiskestraat,5,,
-1336MC,Wiskestraat,7,,
-1336MC,Wiskestraat,9,,
-1336MC,Wiskestraat,11,,
-1336MC,Wiskestraat,13,,
-1336MC,Wiskestraat,15,,
-1336MC,Wiskestraat,17,,
-1336MC,Wiskestraat,19,,
-1336MC,Wiskestraat,21,,
-1336MC,Wiskestraat,23,,
-1336MC,Wiskestraat,25,,
-1336MC,Wiskestraat,27,,
-1336MC,Wiskestraat,29,,
-1336MC,Wiskestraat,4,,
-1336MC,Wiskestraat,6,,
-1336MC,Wiskestraat,8,,
-1336MC,Wiskestraat,10,,
-1336MC,Wiskestraat,12,,
-1336MC,Wiskestraat,14,,
-1336MC,Wiskestraat,16,,
-1336MC,Wiskestraat,18,,
-1336MC,Wiskestraat,20,,
-1336MC,Wiskestraat,22,,
-1336MC,Wiskestraat,24,,
-1336MC,Wiskestraat,26,,
-1336MC,Wiskestraat,28,,
-1336MC,Wiskestraat,30,,
-1336MC,Wiskestraat,32,,
-1336MC,Wiskestraat,2,,
-1336MC,Wiskestraat,1,,
-1336MJ,Bobbieplantsoen,1,,
-1336MJ,Bobbieplantsoen,2,,
-1336MJ,Bobbieplantsoen,3,,
-1336MJ,Bobbieplantsoen,4,,
-1336MJ,Bobbieplantsoen,5,,
-1336MJ,Bobbieplantsoen,6,,
-1336MJ,Bobbieplantsoen,7,,
-1336MJ,Bobbieplantsoen,8,,
-1336MJ,Bobbieplantsoen,9,,
-1336MJ,Bobbieplantsoen,10,,
-1336MJ,Bobbieplantsoen,11,,
-1336MJ,Bobbieplantsoen,12,,
-1336MJ,Bobbieplantsoen,13,,
-1336MJ,Bobbieplantsoen,14,,
-1336MJ,Bobbieplantsoen,15,,
-1336MJ,Bobbieplantsoen,16,,
-1336MJ,Bobbieplantsoen,17,,
-1336MJ,Bobbieplantsoen,18,,
-1336MJ,Bobbieplantsoen,19,,
-1336MJ,Bobbieplantsoen,20,,
-1336MJ,Bobbieplantsoen,21,,
-1336MJ,Bobbieplantsoen,22,,
-1336MJ,Bobbieplantsoen,23,,
-1336MJ,Bobbieplantsoen,24,,
-1336MJ,Bobbieplantsoen,25,,
-1336MJ,Bobbieplantsoen,26,,
-1336MB,Lambikstraat,2,,
-1336MB,Lambikstraat,4,,
-1336MB,Lambikstraat,6,,
-1336MB,Lambikstraat,8,,
-1336MB,Lambikstraat,10,,
-1336MB,Lambikstraat,12,,
-1336MB,Lambikstraat,14,,
-1336MB,Lambikstraat,16,,
-1336MB,Lambikstraat,18,,
-1336MB,Lambikstraat,20,,
-1336MB,Lambikstraat,22,,
-1336MB,Lambikstraat,24,,
-1336MB,Lambikstraat,26,,
-1336MB,Lambikstraat,28,,
-1336MB,Lambikstraat,30,,
-1336MB,Lambikstraat,3,,
-1336MB,Lambikstraat,5,,
-1336MB,Lambikstraat,7,,
-1336MB,Lambikstraat,9,,
-1336MB,Lambikstraat,11,,
-1336MB,Lambikstraat,13,,
-1336MB,Lambikstraat,15,,
-1336MB,Lambikstraat,17,,
-1336MB,Lambikstraat,19,,
-1336MB,Lambikstraat,21,,
-1336MB,Lambikstraat,23,,
-1336MB,Lambikstraat,25,,
-1336MB,Lambikstraat,27,,
-1336MB,Lambikstraat,29,,
-1336MB,Lambikstraat,31,,
-1336MB,Lambikstraat,33,,
-1336MB,Lambikstraat,35,,
-1336MB,Lambikstraat,37,,
-1336MB,Lambikstraat,1,,
-1336MR,Asterixstraat,2,,
-1336MR,Asterixstraat,4,,
-1336MR,Asterixstraat,6,,
-1336MR,Asterixstraat,8,,
-1336MR,Asterixstraat,10,,
-1336MR,Asterixstraat,12,,
-1336MR,Asterixstraat,14,,
-1336MR,Asterixstraat,16,,
-1336MR,Asterixstraat,18,,
-1336MR,Asterixstraat,20,,
-1336MR,Asterixstraat,22,,
-1336MR,Asterixstraat,24,,
-1336MR,Asterixstraat,26,,
-1336MR,Asterixstraat,28,,
-1336MR,Asterixstraat,30,,
-1336MR,Asterixstraat,32,,
-1336MR,Asterixstraat,34,,
-1336MR,Asterixstraat,36,,
-1336MR,Asterixstraat,38,,
-1336MR,Asterixstraat,40,,
-1336MR,Asterixstraat,42,,
-1336MR,Asterixstraat,44,,
-1336MR,Asterixstraat,46,,
-1336MR,Asterixstraat,48,,
-1336MR,Asterixstraat,50,,
-1336MR,Asterixstraat,52,,
-1336MR,Asterixstraat,54,,
-1336MR,Asterixstraat,56,,
-1336MR,Asterixstraat,58,,
-1336MR,Asterixstraat,60,,
-1336MR,Asterixstraat,62,,
-1336MR,Asterixstraat,64,,
-1336MR,Asterixstraat,66,,
-1336MR,Asterixstraat,68,,
-1336MR,Asterixstraat,70,,
-1336MR,Asterixstraat,72,,
-1336MR,Asterixstraat,74,,
-1336MR,Asterixstraat,76,,
-1336MR,Asterixstraat,78,,
-1336MR,Asterixstraat,80,,
-1336MR,Asterixstraat,79,,
-1336MR,Asterixstraat,81,,
-1336MR,Asterixstraat,83,,
-1336MR,Asterixstraat,85,,
-1336MR,Asterixstraat,87,,
-1336MR,Asterixstraat,89,,
-1336MR,Asterixstraat,91,,
-1336MR,Asterixstraat,93,,
-1336MR,Asterixstraat,95,,
-1336MR,Asterixstraat,97,,
-1336MP,Idéfixstraat,1,,
-1336MP,Idéfixstraat,2,,
-1336MP,Idéfixstraat,3,,
-1336MP,Idéfixstraat,4,,
-1336MP,Idéfixstraat,5,,
-1336MP,Idéfixstraat,6,,
-1336MP,Idéfixstraat,7,,
-1336MP,Idéfixstraat,8,,
-1336MP,Idéfixstraat,9,,
-1336MP,Idéfixstraat,10,,
-1336MP,Idéfixstraat,11,,
-1336MP,Idéfixstraat,12,,
-1336MP,Idéfixstraat,13,,
-1336MP,Idéfixstraat,14,,
-1336MP,Idéfixstraat,15,,
-1336MP,Idéfixstraat,16,,
-1336MP,Idéfixstraat,17,,
-1336MP,Idéfixstraat,18,,
-1336MP,Idéfixstraat,19,,
-1336MP,Idéfixstraat,20,,
-1336MP,Idéfixstraat,21,,
-1336MP,Idéfixstraat,22,,
-1336MP,Idéfixstraat,23,,
-1336MP,Idéfixstraat,24,,
-1336MK,Lucky Lukestraat,1,,
-1336MK,Lucky Lukestraat,3,,
-1336MK,Lucky Lukestraat,5,,
-1336MK,Lucky Lukestraat,7,,
-1336MK,Lucky Lukestraat,9,,
-1336MK,Lucky Lukestraat,11,,
-1336MK,Lucky Lukestraat,13,,
-1336MK,Lucky Lukestraat,15,,
-1336MK,Lucky Lukestraat,17,,
-1336MK,Lucky Lukestraat,19,,
-1336MK,Lucky Lukestraat,21,,
-1336MK,Lucky Lukestraat,23,,
-1336MK,Lucky Lukestraat,25,,
-1336MK,Lucky Lukestraat,27,,
-1336MK,Lucky Lukestraat,29,,
-1336MK,Lucky Lukestraat,31,,
-1336MK,Lucky Lukestraat,33,,
-1336MK,Lucky Lukestraat,35,,
-1336MK,Lucky Lukestraat,37,,
-1336MK,Lucky Lukestraat,39,,
-1336MK,Lucky Lukestraat,41,,
-1336MK,Lucky Lukestraat,43,,
-1336MK,Lucky Lukestraat,45,,
-1336MK,Lucky Lukestraat,47,,
-1336MK,Lucky Lukestraat,49,,
-1336MK,Lucky Lukestraat,51,,
-1336MK,Lucky Lukestraat,53,,
-1336MK,Lucky Lukestraat,55,,
-1336MK,Lucky Lukestraat,57,,
-1336MK,Lucky Lukestraat,59,,
-1336MK,Lucky Lukestraat,61,,
-1336MK,Lucky Lukestraat,63,,
-1336MK,Lucky Lukestraat,65,,
-1336MK,Lucky Lukestraat,67,,
-1336MK,Lucky Lukestraat,69,,
-1336MK,Lucky Lukestraat,71,,
-1336MK,Lucky Lukestraat,73,,
-1336MK,Lucky Lukestraat,75,,
-1336MK,Lucky Lukestraat,77,,
-1336MK,Lucky Lukestraat,79,,
-1336MK,Lucky Lukestraat,81,,
-1336MK,Lucky Lukestraat,83,,
-1336MK,Lucky Lukestraat,85,,
-1336MK,Lucky Lukestraat,87,,
-1336MK,Lucky Lukestraat,89,,
-1336MK,Lucky Lukestraat,2,,
-1336MK,Lucky Lukestraat,4,,
-1336MK,Lucky Lukestraat,6,,
-1336MK,Lucky Lukestraat,8,,
-1336MK,Lucky Lukestraat,10,,
-1336MK,Lucky Lukestraat,12,,
-1336MK,Lucky Lukestraat,14,,
-1336MK,Lucky Lukestraat,16,,
-1336MK,Lucky Lukestraat,18,,
-1336MK,Lucky Lukestraat,20,,
-1336MK,Lucky Lukestraat,22,,
-1336MK,Lucky Lukestraat,24,,
-1336MK,Lucky Lukestraat,26,,
-1336MK,Lucky Lukestraat,28,,
-1336MK,Lucky Lukestraat,30,,
-1336MK,Lucky Lukestraat,32,,
-1336MK,Lucky Lukestraat,34,,
-1336MK,Lucky Lukestraat,36,,
-1336MK,Lucky Lukestraat,38,,
-1336MK,Lucky Lukestraat,40,,
-1336MK,Lucky Lukestraat,42,,
-1336MN,Obelixstraat,2,,
-1336MN,Obelixstraat,3,,
-1336MN,Obelixstraat,4,,
-1336MN,Obelixstraat,5,,
-1336MN,Obelixstraat,6,,
-1336MN,Obelixstraat,7,,
-1336MN,Obelixstraat,8,,
-1336MN,Obelixstraat,9,,
-1336MN,Obelixstraat,10,,
-1336MN,Obelixstraat,11,,
-1336MN,Obelixstraat,12,,
-1336MN,Obelixstraat,13,,
-1336MN,Obelixstraat,14,,
-1336MN,Obelixstraat,15,,
-1336MN,Obelixstraat,16,,
-1336MN,Obelixstraat,17,,
-1336MN,Obelixstraat,18,,
-1336MN,Obelixstraat,19,,
-1336MN,Obelixstraat,20,,
-1336MN,Obelixstraat,21,,
-1336MN,Obelixstraat,22,,
-1336MN,Obelixstraat,23,,
-1336MN,Obelixstraat,24,,
-1336MN,Obelixstraat,25,,
-1336MN,Obelixstraat,26,,
-1336MN,Obelixstraat,27,,
-1336MN,Obelixstraat,28,,
-1336MN,Obelixstraat,29,,
-1336MN,Obelixstraat,30,,
-1336MN,Obelixstraat,31,,
-1336MN,Obelixstraat,32,,
-1336MN,Obelixstraat,33,,
-1336MN,Obelixstraat,34,,
-1336MN,Obelixstraat,35,,
-1336MN,Obelixstraat,36,,
-1336MN,Obelixstraat,37,,
-1336MN,Obelixstraat,38,,
-1336MN,Obelixstraat,39,,
-1336MN,Obelixstraat,40,,
-1336MN,Obelixstraat,41,,
-1336MN,Obelixstraat,42,,
-1336MN,Obelixstraat,43,,
-1336MN,Obelixstraat,44,,
-1336MN,Obelixstraat,45,,
-1336MN,Obelixstraat,46,,
-1336ML,Rataplanstraat,1,,
-1336ML,Rataplanstraat,2,,
-1336ML,Rataplanstraat,3,,
-1336ML,Rataplanstraat,4,,
-1336ML,Rataplanstraat,5,,
-1336ML,Rataplanstraat,6,,
-1336ML,Rataplanstraat,7,,
-1336ML,Rataplanstraat,8,,
-1336ML,Rataplanstraat,9,,
-1336ML,Rataplanstraat,10,,
-1336ML,Rataplanstraat,11,,
-1336ML,Rataplanstraat,12,,
-1336ML,Rataplanstraat,13,,
-1336ML,Rataplanstraat,14,,
-1336ML,Rataplanstraat,15,,
-1336ML,Rataplanstraat,16,,
-1336ML,Rataplanstraat,17,,
-1336ML,Rataplanstraat,18,,
-1336ML,Rataplanstraat,19,,
-1336ML,Rataplanstraat,20,,
-1336ML,Rataplanstraat,21,,
-1336ML,Rataplanstraat,22,,
-1336ML,Rataplanstraat,23,,
-1336ML,Rataplanstraat,24,,
-1336ML,Rataplanstraat,25,,
-1336ML,Rataplanstraat,26,,
-1336ML,Rataplanstraat,27,,
-1336ML,Rataplanstraat,28,,
-1336ML,Rataplanstraat,29,,
-1336MA,André Franquinweg,16,,
-1336MA,André Franquinweg,18,,
-1336MA,André Franquinweg,20,,
-1336MA,André Franquinweg,22,,
-1336MA,André Franquinweg,32,,
-1336MA,André Franquinweg,34,,
-1336MA,André Franquinweg,36,,
-1336MA,André Franquinweg,38,,
-1336MG,Jeromstraat,2,,
-1336MD,Suskeplantsoen,1,,
-1336MD,Suskeplantsoen,2,,
-1336MC,Wiskestraat,1,,
-1336MG,Jeromstraat,1,A,
-1336MG,Jeromstraat,1,B,
-1336MH,Kuifjestraat,60,A,
-1336MH,Kuifjestraat,60,B,
-1336MH,Kuifjestraat,60,C,
-1336MN,Obelixstraat,2,,
-1336MN,Obelixstraat,2,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Marsupilamihof,1,"","",1336HX,Almere
+Marsupilamihof,11,"","",1336HX,Almere
+Marsupilamihof,13,"","",1336HX,Almere
+Marsupilamihof,15,"","",1336HX,Almere
+Marsupilamihof,17,"","",1336HX,Almere
+Marsupilamihof,19,"","",1336HX,Almere
+Marsupilamihof,21,"","",1336HX,Almere
+Marsupilamihof,23,"","",1336HX,Almere
+Marsupilamihof,25,"","",1336HX,Almere
+Marsupilamihof,27,"","",1336HX,Almere
+Marsupilamihof,29,"","",1336HX,Almere
+Marsupilamihof,3,"","",1336HX,Almere
+Marsupilamihof,31,"","",1336HX,Almere
+Marsupilamihof,33,"","",1336HX,Almere
+Marsupilamihof,35,"","",1336HX,Almere
+Marsupilamihof,37,"","",1336HX,Almere
+Marsupilamihof,39,"","",1336HX,Almere
+Marsupilamihof,5,"","",1336HX,Almere
+Marsupilamihof,7,"","",1336HX,Almere
+Marsupilamihof,9,"","",1336HX,Almere
+André Franquinweg,10,"","",1336MA,Almere
+André Franquinweg,11,"","",1336MA,Almere
+André Franquinweg,12,"","",1336MA,Almere
+André Franquinweg,13,"","",1336MA,Almere
+André Franquinweg,14,"","",1336MA,Almere
+André Franquinweg,15,"","",1336MA,Almere
+André Franquinweg,16,"","",1336MA,Almere
+André Franquinweg,16,"","",1336MA,Almere
+André Franquinweg,16,"","",1336MA,Almere
+André Franquinweg,17,"","",1336MA,Almere
+André Franquinweg,18,"","",1336MA,Almere
+André Franquinweg,18,"","",1336MA,Almere
+André Franquinweg,18,"","",1336MA,Almere
+André Franquinweg,19,"","",1336MA,Almere
+André Franquinweg,20,"","",1336MA,Almere
+André Franquinweg,20,"","",1336MA,Almere
+André Franquinweg,20,"","",1336MA,Almere
+André Franquinweg,21,"","",1336MA,Almere
+André Franquinweg,22,"","",1336MA,Almere
+André Franquinweg,22,"","",1336MA,Almere
+André Franquinweg,22,"","",1336MA,Almere
+André Franquinweg,23,"","",1336MA,Almere
+André Franquinweg,24,"","",1336MA,Almere
+André Franquinweg,24,"","",1336MA,Almere
+André Franquinweg,25,"","",1336MA,Almere
+André Franquinweg,26,"","",1336MA,Almere
+André Franquinweg,26,"","",1336MA,Almere
+André Franquinweg,27,"","",1336MA,Almere
+André Franquinweg,28,"","",1336MA,Almere
+André Franquinweg,28,"","",1336MA,Almere
+André Franquinweg,29,"","",1336MA,Almere
+André Franquinweg,30,"","",1336MA,Almere
+André Franquinweg,30,"","",1336MA,Almere
+André Franquinweg,31,"","",1336MA,Almere
+André Franquinweg,32,"","",1336MA,Almere
+André Franquinweg,32,"","",1336MA,Almere
+André Franquinweg,32,"","",1336MA,Almere
+André Franquinweg,34,"","",1336MA,Almere
+André Franquinweg,34,"","",1336MA,Almere
+André Franquinweg,34,"","",1336MA,Almere
+André Franquinweg,36,"","",1336MA,Almere
+André Franquinweg,36,"","",1336MA,Almere
+André Franquinweg,36,"","",1336MA,Almere
+André Franquinweg,38,"","",1336MA,Almere
+André Franquinweg,38,"","",1336MA,Almere
+André Franquinweg,38,"","",1336MA,Almere
+André Franquinweg,4,"","",1336MA,Almere
+André Franquinweg,40,"","",1336MA,Almere
+André Franquinweg,42,"","",1336MA,Almere
+André Franquinweg,44,"","",1336MA,Almere
+André Franquinweg,46,"","",1336MA,Almere
+André Franquinweg,48,"","",1336MA,Almere
+André Franquinweg,5,"","",1336MA,Almere
+André Franquinweg,50,"","",1336MA,Almere
+André Franquinweg,52,"","",1336MA,Almere
+André Franquinweg,6,"","",1336MA,Almere
+André Franquinweg,7,"","",1336MA,Almere
+André Franquinweg,8,"","",1336MA,Almere
+André Franquinweg,9,"","",1336MA,Almere
+Lambikstraat,1,"","",1336MB,Almere
+Lambikstraat,10,"","",1336MB,Almere
+Lambikstraat,11,"","",1336MB,Almere
+Lambikstraat,12,"","",1336MB,Almere
+Lambikstraat,13,"","",1336MB,Almere
+Lambikstraat,14,"","",1336MB,Almere
+Lambikstraat,15,"","",1336MB,Almere
+Lambikstraat,16,"","",1336MB,Almere
+Lambikstraat,17,"","",1336MB,Almere
+Lambikstraat,18,"","",1336MB,Almere
+Lambikstraat,19,"","",1336MB,Almere
+Lambikstraat,2,"","",1336MB,Almere
+Lambikstraat,20,"","",1336MB,Almere
+Lambikstraat,21,"","",1336MB,Almere
+Lambikstraat,22,"","",1336MB,Almere
+Lambikstraat,23,"","",1336MB,Almere
+Lambikstraat,24,"","",1336MB,Almere
+Lambikstraat,25,"","",1336MB,Almere
+Lambikstraat,26,"","",1336MB,Almere
+Lambikstraat,27,"","",1336MB,Almere
+Lambikstraat,28,"","",1336MB,Almere
+Lambikstraat,29,"","",1336MB,Almere
+Lambikstraat,3,"","",1336MB,Almere
+Lambikstraat,30,"","",1336MB,Almere
+Lambikstraat,31,"","",1336MB,Almere
+Lambikstraat,33,"","",1336MB,Almere
+Lambikstraat,35,"","",1336MB,Almere
+Lambikstraat,37,"","",1336MB,Almere
+Lambikstraat,4,"","",1336MB,Almere
+Lambikstraat,5,"","",1336MB,Almere
+Lambikstraat,6,"","",1336MB,Almere
+Lambikstraat,7,"","",1336MB,Almere
+Lambikstraat,8,"","",1336MB,Almere
+Lambikstraat,9,"","",1336MB,Almere
+Wiskestraat,1,"","",1336MC,Almere
+Wiskestraat,1,"","",1336MC,Almere
+Wiskestraat,1,"","",1336MC,Almere
+Wiskestraat,10,"","",1336MC,Almere
+Wiskestraat,11,"","",1336MC,Almere
+Wiskestraat,12,"","",1336MC,Almere
+Wiskestraat,13,"","",1336MC,Almere
+Wiskestraat,14,"","",1336MC,Almere
+Wiskestraat,15,"","",1336MC,Almere
+Wiskestraat,16,"","",1336MC,Almere
+Wiskestraat,17,"","",1336MC,Almere
+Wiskestraat,18,"","",1336MC,Almere
+Wiskestraat,19,"","",1336MC,Almere
+Wiskestraat,2,"","",1336MC,Almere
+Wiskestraat,20,"","",1336MC,Almere
+Wiskestraat,21,"","",1336MC,Almere
+Wiskestraat,22,"","",1336MC,Almere
+Wiskestraat,23,"","",1336MC,Almere
+Wiskestraat,24,"","",1336MC,Almere
+Wiskestraat,25,"","",1336MC,Almere
+Wiskestraat,26,"","",1336MC,Almere
+Wiskestraat,27,"","",1336MC,Almere
+Wiskestraat,28,"","",1336MC,Almere
+Wiskestraat,29,"","",1336MC,Almere
+Wiskestraat,3,"","",1336MC,Almere
+Wiskestraat,30,"","",1336MC,Almere
+Wiskestraat,32,"","",1336MC,Almere
+Wiskestraat,4,"","",1336MC,Almere
+Wiskestraat,5,"","",1336MC,Almere
+Wiskestraat,6,"","",1336MC,Almere
+Wiskestraat,7,"","",1336MC,Almere
+Wiskestraat,8,"","",1336MC,Almere
+Wiskestraat,9,"","",1336MC,Almere
+Suskeplantsoen,1,"","",1336MD,Almere
+Suskeplantsoen,1,"","",1336MD,Almere
+Suskeplantsoen,1,"","",1336MD,Almere
+Suskeplantsoen,10,"","",1336MD,Almere
+Suskeplantsoen,11,"","",1336MD,Almere
+Suskeplantsoen,12,"","",1336MD,Almere
+Suskeplantsoen,13,"","",1336MD,Almere
+Suskeplantsoen,14,"","",1336MD,Almere
+Suskeplantsoen,15,"","",1336MD,Almere
+Suskeplantsoen,16,"","",1336MD,Almere
+Suskeplantsoen,17,"","",1336MD,Almere
+Suskeplantsoen,18,"","",1336MD,Almere
+Suskeplantsoen,2,"","",1336MD,Almere
+Suskeplantsoen,2,"","",1336MD,Almere
+Suskeplantsoen,2,"","",1336MD,Almere
+Suskeplantsoen,20,"","",1336MD,Almere
+Suskeplantsoen,22,"","",1336MD,Almere
+Suskeplantsoen,3,"","",1336MD,Almere
+Suskeplantsoen,4,"","",1336MD,Almere
+Suskeplantsoen,5,"","",1336MD,Almere
+Suskeplantsoen,6,"","",1336MD,Almere
+Suskeplantsoen,7,"","",1336MD,Almere
+Suskeplantsoen,8,"","",1336MD,Almere
+Suskeplantsoen,9,"","",1336MD,Almere
+Sidoniastraat,1,"","",1336ME,Almere
+Sidoniastraat,10,"","",1336ME,Almere
+Sidoniastraat,11,"","",1336ME,Almere
+Sidoniastraat,12,"","",1336ME,Almere
+Sidoniastraat,14,"","",1336ME,Almere
+Sidoniastraat,16,"","",1336ME,Almere
+Sidoniastraat,18,"","",1336ME,Almere
+Sidoniastraat,2,"","",1336ME,Almere
+Sidoniastraat,20,"","",1336ME,Almere
+Sidoniastraat,22,"","",1336ME,Almere
+Sidoniastraat,24,"","",1336ME,Almere
+Sidoniastraat,26,"","",1336ME,Almere
+Sidoniastraat,28,"","",1336ME,Almere
+Sidoniastraat,3,"","",1336ME,Almere
+Sidoniastraat,30,"","",1336ME,Almere
+Sidoniastraat,32,"","",1336ME,Almere
+Sidoniastraat,4,"","",1336ME,Almere
+Sidoniastraat,5,"","",1336ME,Almere
+Sidoniastraat,6,"","",1336ME,Almere
+Sidoniastraat,7,"","",1336ME,Almere
+Sidoniastraat,8,"","",1336ME,Almere
+Sidoniastraat,9,"","",1336ME,Almere
+Jeromstraat,1,"","",1336MG,Almere
+Jeromstraat,1,"","",1336MG,Almere
+Jeromstraat,1,A,"",1336MG,Almere
+Jeromstraat,1,B,"",1336MG,Almere
+Jeromstraat,10,"","",1336MG,Almere
+Jeromstraat,2,"","",1336MG,Almere
+Jeromstraat,2,"","",1336MG,Almere
+Jeromstraat,2,"","",1336MG,Almere
+Jeromstraat,4,"","",1336MG,Almere
+Jeromstraat,6,"","",1336MG,Almere
+Jeromstraat,8,"","",1336MG,Almere
+Kuifjestraat,1,"","",1336MH,Almere
+Kuifjestraat,10,"","",1336MH,Almere
+Kuifjestraat,11,"","",1336MH,Almere
+Kuifjestraat,12,"","",1336MH,Almere
+Kuifjestraat,13,"","",1336MH,Almere
+Kuifjestraat,14,"","",1336MH,Almere
+Kuifjestraat,15,"","",1336MH,Almere
+Kuifjestraat,16,"","",1336MH,Almere
+Kuifjestraat,17,"","",1336MH,Almere
+Kuifjestraat,18,"","",1336MH,Almere
+Kuifjestraat,19,"","",1336MH,Almere
+Kuifjestraat,2,"","",1336MH,Almere
+Kuifjestraat,20,"","",1336MH,Almere
+Kuifjestraat,21,"","",1336MH,Almere
+Kuifjestraat,22,"","",1336MH,Almere
+Kuifjestraat,23,"","",1336MH,Almere
+Kuifjestraat,24,"","",1336MH,Almere
+Kuifjestraat,25,"","",1336MH,Almere
+Kuifjestraat,26,"","",1336MH,Almere
+Kuifjestraat,27,"","",1336MH,Almere
+Kuifjestraat,28,"","",1336MH,Almere
+Kuifjestraat,29,"","",1336MH,Almere
+Kuifjestraat,3,"","",1336MH,Almere
+Kuifjestraat,30,"","",1336MH,Almere
+Kuifjestraat,31,"","",1336MH,Almere
+Kuifjestraat,32,"","",1336MH,Almere
+Kuifjestraat,34,"","",1336MH,Almere
+Kuifjestraat,36,"","",1336MH,Almere
+Kuifjestraat,38,"","",1336MH,Almere
+Kuifjestraat,4,"","",1336MH,Almere
+Kuifjestraat,40,"","",1336MH,Almere
+Kuifjestraat,42,"","",1336MH,Almere
+Kuifjestraat,44,"","",1336MH,Almere
+Kuifjestraat,46,"","",1336MH,Almere
+Kuifjestraat,48,"","",1336MH,Almere
+Kuifjestraat,5,"","",1336MH,Almere
+Kuifjestraat,50,"","",1336MH,Almere
+Kuifjestraat,52,"","",1336MH,Almere
+Kuifjestraat,54,"","",1336MH,Almere
+Kuifjestraat,56,"","",1336MH,Almere
+Kuifjestraat,58,"","",1336MH,Almere
+Kuifjestraat,6,"","",1336MH,Almere
+Kuifjestraat,60,"","",1336MH,Almere
+Kuifjestraat,7,"","",1336MH,Almere
+Kuifjestraat,8,"","",1336MH,Almere
+Kuifjestraat,9,"","",1336MH,Almere
+Bobbieplantsoen,1,"","",1336MJ,Almere
+Bobbieplantsoen,10,"","",1336MJ,Almere
+Bobbieplantsoen,11,"","",1336MJ,Almere
+Bobbieplantsoen,12,"","",1336MJ,Almere
+Bobbieplantsoen,13,"","",1336MJ,Almere
+Bobbieplantsoen,14,"","",1336MJ,Almere
+Bobbieplantsoen,15,"","",1336MJ,Almere
+Bobbieplantsoen,16,"","",1336MJ,Almere
+Bobbieplantsoen,17,"","",1336MJ,Almere
+Bobbieplantsoen,18,"","",1336MJ,Almere
+Bobbieplantsoen,19,"","",1336MJ,Almere
+Bobbieplantsoen,2,"","",1336MJ,Almere
+Bobbieplantsoen,20,"","",1336MJ,Almere
+Bobbieplantsoen,21,"","",1336MJ,Almere
+Bobbieplantsoen,22,"","",1336MJ,Almere
+Bobbieplantsoen,23,"","",1336MJ,Almere
+Bobbieplantsoen,24,"","",1336MJ,Almere
+Bobbieplantsoen,25,"","",1336MJ,Almere
+Bobbieplantsoen,26,"","",1336MJ,Almere
+Bobbieplantsoen,3,"","",1336MJ,Almere
+Bobbieplantsoen,4,"","",1336MJ,Almere
+Bobbieplantsoen,5,"","",1336MJ,Almere
+Bobbieplantsoen,6,"","",1336MJ,Almere
+Bobbieplantsoen,7,"","",1336MJ,Almere
+Bobbieplantsoen,8,"","",1336MJ,Almere
+Bobbieplantsoen,9,"","",1336MJ,Almere
+Lucky Lukestraat,1,"","",1336MK,Almere
+Lucky Lukestraat,10,"","",1336MK,Almere
+Lucky Lukestraat,11,"","",1336MK,Almere
+Lucky Lukestraat,12,"","",1336MK,Almere
+Lucky Lukestraat,13,"","",1336MK,Almere
+Lucky Lukestraat,14,"","",1336MK,Almere
+Lucky Lukestraat,15,"","",1336MK,Almere
+Lucky Lukestraat,16,"","",1336MK,Almere
+Lucky Lukestraat,17,"","",1336MK,Almere
+Lucky Lukestraat,18,"","",1336MK,Almere
+Lucky Lukestraat,19,"","",1336MK,Almere
+Lucky Lukestraat,2,"","",1336MK,Almere
+Lucky Lukestraat,20,"","",1336MK,Almere
+Lucky Lukestraat,21,"","",1336MK,Almere
+Lucky Lukestraat,22,"","",1336MK,Almere
+Lucky Lukestraat,23,"","",1336MK,Almere
+Lucky Lukestraat,24,"","",1336MK,Almere
+Lucky Lukestraat,25,"","",1336MK,Almere
+Lucky Lukestraat,26,"","",1336MK,Almere
+Lucky Lukestraat,27,"","",1336MK,Almere
+Lucky Lukestraat,28,"","",1336MK,Almere
+Lucky Lukestraat,29,"","",1336MK,Almere
+Lucky Lukestraat,3,"","",1336MK,Almere
+Lucky Lukestraat,30,"","",1336MK,Almere
+Lucky Lukestraat,31,"","",1336MK,Almere
+Lucky Lukestraat,32,"","",1336MK,Almere
+Lucky Lukestraat,33,"","",1336MK,Almere
+Lucky Lukestraat,34,"","",1336MK,Almere
+Lucky Lukestraat,35,"","",1336MK,Almere
+Lucky Lukestraat,36,"","",1336MK,Almere
+Lucky Lukestraat,37,"","",1336MK,Almere
+Lucky Lukestraat,38,"","",1336MK,Almere
+Lucky Lukestraat,39,"","",1336MK,Almere
+Lucky Lukestraat,4,"","",1336MK,Almere
+Lucky Lukestraat,40,"","",1336MK,Almere
+Lucky Lukestraat,41,"","",1336MK,Almere
+Lucky Lukestraat,42,"","",1336MK,Almere
+Lucky Lukestraat,43,"","",1336MK,Almere
+Lucky Lukestraat,45,"","",1336MK,Almere
+Lucky Lukestraat,47,"","",1336MK,Almere
+Lucky Lukestraat,49,"","",1336MK,Almere
+Lucky Lukestraat,5,"","",1336MK,Almere
+Lucky Lukestraat,51,"","",1336MK,Almere
+Lucky Lukestraat,53,"","",1336MK,Almere
+Lucky Lukestraat,55,"","",1336MK,Almere
+Lucky Lukestraat,57,"","",1336MK,Almere
+Lucky Lukestraat,59,"","",1336MK,Almere
+Lucky Lukestraat,6,"","",1336MK,Almere
+Lucky Lukestraat,61,"","",1336MK,Almere
+Lucky Lukestraat,63,"","",1336MK,Almere
+Lucky Lukestraat,65,"","",1336MK,Almere
+Lucky Lukestraat,67,"","",1336MK,Almere
+Lucky Lukestraat,69,"","",1336MK,Almere
+Lucky Lukestraat,7,"","",1336MK,Almere
+Lucky Lukestraat,71,"","",1336MK,Almere
+Lucky Lukestraat,73,"","",1336MK,Almere
+Lucky Lukestraat,75,"","",1336MK,Almere
+Lucky Lukestraat,77,"","",1336MK,Almere
+Lucky Lukestraat,79,"","",1336MK,Almere
+Lucky Lukestraat,8,"","",1336MK,Almere
+Lucky Lukestraat,81,"","",1336MK,Almere
+Lucky Lukestraat,83,"","",1336MK,Almere
+Lucky Lukestraat,85,"","",1336MK,Almere
+Lucky Lukestraat,87,"","",1336MK,Almere
+Lucky Lukestraat,89,"","",1336MK,Almere
+Lucky Lukestraat,9,"","",1336MK,Almere
+Rataplanstraat,1,"","",1336ML,Almere
+Rataplanstraat,10,"","",1336ML,Almere
+Rataplanstraat,11,"","",1336ML,Almere
+Rataplanstraat,12,"","",1336ML,Almere
+Rataplanstraat,13,"","",1336ML,Almere
+Rataplanstraat,14,"","",1336ML,Almere
+Rataplanstraat,15,"","",1336ML,Almere
+Rataplanstraat,16,"","",1336ML,Almere
+Rataplanstraat,17,"","",1336ML,Almere
+Rataplanstraat,18,"","",1336ML,Almere
+Rataplanstraat,19,"","",1336ML,Almere
+Rataplanstraat,2,"","",1336ML,Almere
+Rataplanstraat,20,"","",1336ML,Almere
+Rataplanstraat,21,"","",1336ML,Almere
+Rataplanstraat,22,"","",1336ML,Almere
+Rataplanstraat,23,"","",1336ML,Almere
+Rataplanstraat,24,"","",1336ML,Almere
+Rataplanstraat,25,"","",1336ML,Almere
+Rataplanstraat,26,"","",1336ML,Almere
+Rataplanstraat,27,"","",1336ML,Almere
+Rataplanstraat,28,"","",1336ML,Almere
+Rataplanstraat,29,"","",1336ML,Almere
+Rataplanstraat,3,"","",1336ML,Almere
+Rataplanstraat,4,"","",1336ML,Almere
+Rataplanstraat,5,"","",1336ML,Almere
+Rataplanstraat,6,"","",1336ML,Almere
+Rataplanstraat,7,"","",1336ML,Almere
+Rataplanstraat,8,"","",1336ML,Almere
+Rataplanstraat,9,"","",1336ML,Almere
+Obelixstraat,10,"","",1336MN,Almere
+Obelixstraat,11,"","",1336MN,Almere
+Obelixstraat,12,"","",1336MN,Almere
+Obelixstraat,13,"","",1336MN,Almere
+Obelixstraat,14,"","",1336MN,Almere
+Obelixstraat,15,"","",1336MN,Almere
+Obelixstraat,16,"","",1336MN,Almere
+Obelixstraat,17,"","",1336MN,Almere
+Obelixstraat,18,"","",1336MN,Almere
+Obelixstraat,19,"","",1336MN,Almere
+Obelixstraat,2,"","",1336MN,Almere
+Obelixstraat,2,"","",1336MN,Almere
+Obelixstraat,2,A,"",1336MN,Almere
+Obelixstraat,20,"","",1336MN,Almere
+Obelixstraat,21,"","",1336MN,Almere
+Obelixstraat,22,"","",1336MN,Almere
+Obelixstraat,23,"","",1336MN,Almere
+Obelixstraat,24,"","",1336MN,Almere
+Obelixstraat,25,"","",1336MN,Almere
+Obelixstraat,26,"","",1336MN,Almere
+Obelixstraat,27,"","",1336MN,Almere
+Obelixstraat,28,"","",1336MN,Almere
+Obelixstraat,29,"","",1336MN,Almere
+Obelixstraat,3,"","",1336MN,Almere
+Obelixstraat,30,"","",1336MN,Almere
+Obelixstraat,31,"","",1336MN,Almere
+Obelixstraat,32,"","",1336MN,Almere
+Obelixstraat,33,"","",1336MN,Almere
+Obelixstraat,34,"","",1336MN,Almere
+Obelixstraat,35,"","",1336MN,Almere
+Obelixstraat,36,"","",1336MN,Almere
+Obelixstraat,37,"","",1336MN,Almere
+Obelixstraat,38,"","",1336MN,Almere
+Obelixstraat,39,"","",1336MN,Almere
+Obelixstraat,4,"","",1336MN,Almere
+Obelixstraat,40,"","",1336MN,Almere
+Obelixstraat,41,"","",1336MN,Almere
+Obelixstraat,42,"","",1336MN,Almere
+Obelixstraat,43,"","",1336MN,Almere
+Obelixstraat,44,"","",1336MN,Almere
+Obelixstraat,45,"","",1336MN,Almere
+Obelixstraat,46,"","",1336MN,Almere
+Obelixstraat,5,"","",1336MN,Almere
+Obelixstraat,6,"","",1336MN,Almere
+Obelixstraat,7,"","",1336MN,Almere
+Obelixstraat,8,"","",1336MN,Almere
+Obelixstraat,9,"","",1336MN,Almere
+Idéfixstraat,1,"","",1336MP,Almere
+Idéfixstraat,10,"","",1336MP,Almere
+Idéfixstraat,11,"","",1336MP,Almere
+Idéfixstraat,12,"","",1336MP,Almere
+Idéfixstraat,13,"","",1336MP,Almere
+Idéfixstraat,14,"","",1336MP,Almere
+Idéfixstraat,15,"","",1336MP,Almere
+Idéfixstraat,16,"","",1336MP,Almere
+Idéfixstraat,17,"","",1336MP,Almere
+Idéfixstraat,18,"","",1336MP,Almere
+Idéfixstraat,19,"","",1336MP,Almere
+Idéfixstraat,2,"","",1336MP,Almere
+Idéfixstraat,20,"","",1336MP,Almere
+Idéfixstraat,21,"","",1336MP,Almere
+Idéfixstraat,22,"","",1336MP,Almere
+Idéfixstraat,23,"","",1336MP,Almere
+Idéfixstraat,24,"","",1336MP,Almere
+Idéfixstraat,3,"","",1336MP,Almere
+Idéfixstraat,4,"","",1336MP,Almere
+Idéfixstraat,5,"","",1336MP,Almere
+Idéfixstraat,6,"","",1336MP,Almere
+Idéfixstraat,7,"","",1336MP,Almere
+Idéfixstraat,8,"","",1336MP,Almere
+Idéfixstraat,9,"","",1336MP,Almere
+Asterixstraat,10,"","",1336MR,Almere
+Asterixstraat,12,"","",1336MR,Almere
+Asterixstraat,14,"","",1336MR,Almere
+Asterixstraat,16,"","",1336MR,Almere
+Asterixstraat,18,"","",1336MR,Almere
+Asterixstraat,2,"","",1336MR,Almere
+Asterixstraat,20,"","",1336MR,Almere
+Asterixstraat,22,"","",1336MR,Almere
+Asterixstraat,24,"","",1336MR,Almere
+Asterixstraat,26,"","",1336MR,Almere
+Asterixstraat,28,"","",1336MR,Almere
+Asterixstraat,30,"","",1336MR,Almere
+Asterixstraat,32,"","",1336MR,Almere
+Asterixstraat,34,"","",1336MR,Almere
+Asterixstraat,36,"","",1336MR,Almere
+Asterixstraat,38,"","",1336MR,Almere
+Asterixstraat,4,"","",1336MR,Almere
+Asterixstraat,40,"","",1336MR,Almere
+Asterixstraat,42,"","",1336MR,Almere
+Asterixstraat,44,"","",1336MR,Almere
+Asterixstraat,46,"","",1336MR,Almere
+Asterixstraat,48,"","",1336MR,Almere
+Asterixstraat,50,"","",1336MR,Almere
+Asterixstraat,52,"","",1336MR,Almere
+Asterixstraat,54,"","",1336MR,Almere
+Asterixstraat,56,"","",1336MR,Almere
+Asterixstraat,58,"","",1336MR,Almere
+Asterixstraat,6,"","",1336MR,Almere
+Asterixstraat,60,"","",1336MR,Almere
+Asterixstraat,62,"","",1336MR,Almere
+Asterixstraat,64,"","",1336MR,Almere
+Asterixstraat,66,"","",1336MR,Almere
+Asterixstraat,68,"","",1336MR,Almere
+Asterixstraat,70,"","",1336MR,Almere
+Asterixstraat,72,"","",1336MR,Almere
+Asterixstraat,74,"","",1336MR,Almere
+Asterixstraat,76,"","",1336MR,Almere
+Asterixstraat,78,"","",1336MR,Almere
+Asterixstraat,79,"","",1336MR,Almere
+Asterixstraat,8,"","",1336MR,Almere
+Asterixstraat,80,"","",1336MR,Almere
+Asterixstraat,81,"","",1336MR,Almere
+Asterixstraat,83,"","",1336MR,Almere
+Asterixstraat,85,"","",1336MR,Almere
+Asterixstraat,87,"","",1336MR,Almere
+Asterixstraat,89,"","",1336MR,Almere
+Asterixstraat,91,"","",1336MR,Almere
+Asterixstraat,93,"","",1336MR,Almere
+Asterixstraat,95,"","",1336MR,Almere
+Asterixstraat,97,"","",1336MR,Almere

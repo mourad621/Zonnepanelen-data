@@ -1,110 +1,111 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7742PK",2,"","gas"
-"7742PK",1,"",""
-"7742PK",2,"","NST"
-"7742PK",2,"",""
-"7742PK",4,"",""
-"7742PK",3,"",""
-"7742PK",6,"","SCHU"
-"7742PK",6,"","SCHU"
-"7742PL",54,"",""
-"7742PL",50,"","BEDR"
-"7742PL",58,"",""
-"7742PL",76,"",""
-"7742PL",48,"",""
-"7742PL",62,"",""
-"7742PL",52,"",""
-"7742PL",78,"",""
-"7742PL",56,"",""
-"7742PL",66,"",""
-"7742PL",70,"",""
-"7742PL",50,"",""
-"7742PL",74,"",""
-"7742PL",60,"",""
-"7742PL",68,"",""
-"7742PL",72,"",""
-"7742PL",64,"",""
-"7742PM",53,"",""
-"7742PM",4,"",""
-"7742PM",59,"",""
-"7742PM",47,"A",""
-"7742PM",49,"A",""
-"7742PM",55,"",""
-"7742PM",2,"",""
-"7742PM",61,"",""
-"7742PM",49,"",""
-"7742PM",57,"",""
-"7742PM",51,"",""
-"7742PR",42,"",""
-"7742PR",32,"",""
-"7742PR",30,"",""
-"7742PR",39,"",""
-"7742PR",38,"",""
-"7742PR",41,"",""
-"7742PR",40,"",""
-"7742PR",44,"",""
-"7742PR",43,"A",""
-"7742PR",47,"",""
-"7742PR",34,"a",""
-"7742PR",43,"A",""
-"7742PR",36,"",""
-"7742PR",43,"A",""
-"7742PR",45,"",""
-"7742PR",43,"",""
-"7742PR",46,"",""
-"7742PR",43,"B",""
-"7742PR",34,"",""
-7742PK,Katshaarweg,2,,gas
-7742PK,Katshaarweg,1,,
-7742PK,Katshaarweg,2,,NST
-7742PK,Katshaarweg,2,,
-7742PK,Katshaarweg,3,,
-7742PK,Katshaarweg,4,,
-7742PK,Katshaarweg,6,,SCHU
-7742PL,Padhuis Europaweg,48,,
-7742PL,Padhuis Europaweg,50,,BEDR
-7742PL,Padhuis Europaweg,50,,
-7742PL,Padhuis Europaweg,52,,
-7742PL,Padhuis Europaweg,54,,
-7742PL,Padhuis Europaweg,56,,
-7742PL,Padhuis Europaweg,58,,
-7742PL,Padhuis Europaweg,60,,
-7742PL,Padhuis Europaweg,62,,
-7742PL,Padhuis Europaweg,64,,
-7742PL,Padhuis Europaweg,66,,
-7742PL,Padhuis Europaweg,68,,
-7742PL,Padhuis Europaweg,70,,
-7742PL,Padhuis Europaweg,72,,
-7742PL,Padhuis Europaweg,74,,
-7742PL,Padhuis Europaweg,76,,
-7742PL,Padhuis Europaweg,78,,
-7742PM,Padhuis Europaweg,47,A,
-7742PM,Padhuis Europaweg,49,A,
-7742PM,Padhuis Europaweg,49,,
-7742PM,Padhuis Europaweg,51,,
-7742PM,Padhuis Europaweg,53,,
-7742PM,Padhuis Europaweg,55,,
-7742PM,Padhuis Europaweg,57,,
-7742PM,Padhuis Europaweg,59,,
-7742PM,Padhuis Europaweg,61,,
-7742PM,Schansweg,2,,
-7742PM,Schansweg,4,,
-7742PR,Vlieghuis Europaweg,30,,
-7742PR,Vlieghuis Europaweg,32,,
-7742PR,Vlieghuis Europaweg,34,,
-7742PR,Vlieghuis Europaweg,36,,
-7742PR,Vlieghuis Europaweg,38,,
-7742PR,Vlieghuis Europaweg,39,,
-7742PR,Vlieghuis Europaweg,40,,
-7742PR,Vlieghuis Europaweg,41,,
-7742PR,Vlieghuis Europaweg,42,,
-7742PR,Vlieghuis Europaweg,43,,
-7742PR,Vlieghuis Europaweg,44,,
-7742PR,Vlieghuis Europaweg,45,,
-7742PR,Vlieghuis Europaweg,46,,
-7742PR,Vlieghuis Europaweg,47,,
-7742PR,Vlieghuis Europaweg,43,A,
-7742PR,Vlieghuis Europaweg,43,A,
-7742PR,Vlieghuis Europaweg,43,B,
-7742PR,Vlieghuis Europaweg,34,a,
-7742PR,Vlieghuis Europaweg,43,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+1,"","","",7742PK,
+2,"","","",7742PK,
+4,"","","",7742PK,
+3,"","","",7742PK,
+2,"",GAS,"",7742PK,
+2,"",NST,"",7742PK,
+6,"",SCHU,"",7742PK,
+6,"",SCHU,"",7742PK,
+Katshaarweg,1,"","",7742PK,Coevorden
+Katshaarweg,2,"","",7742PK,Coevorden
+Katshaarweg,2,"",GAS,7742PK,Coevorden
+Katshaarweg,2,"",NST,7742PK,Coevorden
+Katshaarweg,3,"","",7742PK,Coevorden
+Katshaarweg,4,"","",7742PK,Coevorden
+Katshaarweg,6,"",SCHU,7742PK,Coevorden
+54,"","","",7742PL,
+58,"","","",7742PL,
+76,"","","",7742PL,
+48,"","","",7742PL,
+62,"","","",7742PL,
+52,"","","",7742PL,
+78,"","","",7742PL,
+56,"","","",7742PL,
+66,"","","",7742PL,
+70,"","","",7742PL,
+50,"","","",7742PL,
+74,"","","",7742PL,
+60,"","","",7742PL,
+68,"","","",7742PL,
+72,"","","",7742PL,
+64,"","","",7742PL,
+50,"",BEDR,"",7742PL,
+Padhuis Europaweg,48,"","",7742PL,Coevorden
+Padhuis Europaweg,50,"","",7742PL,Coevorden
+Padhuis Europaweg,50,"",BEDR,7742PL,Coevorden
+Padhuis Europaweg,52,"","",7742PL,Coevorden
+Padhuis Europaweg,54,"","",7742PL,Coevorden
+Padhuis Europaweg,56,"","",7742PL,Coevorden
+Padhuis Europaweg,58,"","",7742PL,Coevorden
+Padhuis Europaweg,60,"","",7742PL,Coevorden
+Padhuis Europaweg,62,"","",7742PL,Coevorden
+Padhuis Europaweg,64,"","",7742PL,Coevorden
+Padhuis Europaweg,66,"","",7742PL,Coevorden
+Padhuis Europaweg,68,"","",7742PL,Coevorden
+Padhuis Europaweg,70,"","",7742PL,Coevorden
+Padhuis Europaweg,72,"","",7742PL,Coevorden
+Padhuis Europaweg,74,"","",7742PL,Coevorden
+Padhuis Europaweg,76,"","",7742PL,Coevorden
+Padhuis Europaweg,78,"","",7742PL,Coevorden
+53,"","","",7742PM,
+4,"","","",7742PM,
+59,"","","",7742PM,
+55,"","","",7742PM,
+2,"","","",7742PM,
+61,"","","",7742PM,
+49,"","","",7742PM,
+57,"","","",7742PM,
+51,"","","",7742PM,
+Schansweg,2,"","",7742PM,Coevorden
+Schansweg,4,"","",7742PM,Coevorden
+Padhuis Europaweg,47,A,"",7742PM,Coevorden
+Padhuis Europaweg,49,"","",7742PM,Coevorden
+Padhuis Europaweg,49,A,"",7742PM,Coevorden
+Padhuis Europaweg,51,"","",7742PM,Coevorden
+Padhuis Europaweg,53,"","",7742PM,Coevorden
+Padhuis Europaweg,55,"","",7742PM,Coevorden
+Padhuis Europaweg,57,"","",7742PM,Coevorden
+Padhuis Europaweg,59,"","",7742PM,Coevorden
+Padhuis Europaweg,61,"","",7742PM,Coevorden
+47,A,"","",7742PM,
+49,A,"","",7742PM,
+42,"","","",7742PR,
+32,"","","",7742PR,
+30,"","","",7742PR,
+39,"","","",7742PR,
+38,"","","",7742PR,
+41,"","","",7742PR,
+40,"","","",7742PR,
+44,"","","",7742PR,
+47,"","","",7742PR,
+36,"","","",7742PR,
+45,"","","",7742PR,
+43,"","","",7742PR,
+46,"","","",7742PR,
+34,"","","",7742PR,
+Vlieghuis Europaweg,30,"","",7742PR,Coevorden
+Vlieghuis Europaweg,32,"","",7742PR,Coevorden
+Vlieghuis Europaweg,34,"","",7742PR,Coevorden
+Vlieghuis Europaweg,34,A,"",7742PR,Coevorden
+Vlieghuis Europaweg,36,"","",7742PR,Coevorden
+Vlieghuis Europaweg,38,"","",7742PR,Coevorden
+Vlieghuis Europaweg,39,"","",7742PR,Coevorden
+Vlieghuis Europaweg,40,"","",7742PR,Coevorden
+Vlieghuis Europaweg,41,"","",7742PR,Coevorden
+Vlieghuis Europaweg,42,"","",7742PR,Coevorden
+Vlieghuis Europaweg,43,"","",7742PR,Coevorden
+Vlieghuis Europaweg,43,A,"",7742PR,Coevorden
+Vlieghuis Europaweg,43,A,"",7742PR,Coevorden
+Vlieghuis Europaweg,43,A,"",7742PR,Coevorden
+Vlieghuis Europaweg,43,B,"",7742PR,Coevorden
+Vlieghuis Europaweg,44,"","",7742PR,Coevorden
+Vlieghuis Europaweg,45,"","",7742PR,Coevorden
+Vlieghuis Europaweg,46,"","",7742PR,Coevorden
+Vlieghuis Europaweg,47,"","",7742PR,Coevorden
+43,A,"","",7742PR,
+34,A,"","",7742PR,
+43,A,"","",7742PR,
+43,A,"","",7742PR,
+43,B,"","",7742PR,
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

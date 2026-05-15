@@ -1,78 +1,79 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9603BM",6,"e",""
-"9603BM",8,"",""
-"9603BM",6,"",""
-"9603BM",6,"g",""
-"9603BM",6,"m",""
-"9603BM",6,"d",""
-"9603BM",6,"j",""
-"9603BM",6,"f",""
-"9603BM",6,"m",""
-"9603BM",6,"k",""
-"9603BM",6,"c",""
-"9603BM",10,"a",""
-"9603BM",6,"b",""
-"9603BM",6,"a",""
-"9603TG",4,"t",""
-"9603TG",4,"t",""
-"9603TG",6,"",""
-"9603TG",6,"",""
-"9603TG",1,"",""
-"9603TG",4,"",""
-"9603TG",5,"",""
-"9603TG",2,"",""
-"9603TJ",7,"",""
-"9603TJ",1,"",""
-"9603TJ",5,"",""
-"9603TJ",9,"",""
-"9603TJ",11,"",""
-"9603TJ",13,"",""
-"9603TJ",3,"",""
-"9603TJ",5,"a",""
-"9603TJ",5,"",""
-"9603TJ",5,"",""
-"9603TK",6,"",""
-"9603TK",6,"",""
-"9603TK",2,"",""
-"9603TK",6,"",""
-"9603TK",6,"",""
-"9603TK",6,"",""
-"9603TK",4,"",""
-9603TK,Beverburcht,2,,
-9603TK,Beverburcht,4,,
-9603TK,Beverburcht,6,,
-9603TK,Beverburcht,6,,
-9603TK,Beverburcht,6,,
-9603TK,Beverburcht,6,,
-9603TJ,Hazenleger,1,,
-9603TJ,Hazenleger,3,,
-9603TJ,Hazenleger,5,,
-9603TJ,Hazenleger,7,,
-9603TJ,Hazenleger,9,,
-9603TJ,Hazenleger,11,,
-9603TJ,Hazenleger,13,,
-9603TG,Laan van de Sport,1,,
-9603TG,Laan van de Sport,2,,
-9603TG,Laan van de Sport,4,,
-9603TG,Laan van de Sport,5,,
-9603TG,Laan van de Sport,6,,
-9603BM,Nieuweweg,6,,
-9603BM,Nieuweweg,6,a,
-9603BM,Nieuweweg,6,b,
-9603BM,Nieuweweg,6,c,
-9603BM,Nieuweweg,6,d,
-9603BM,Nieuweweg,6,e,
-9603BM,Nieuweweg,6,g,
-9603BM,Nieuweweg,6,j,
-9603BM,Nieuweweg,6,k,
-9603BM,Nieuweweg,6,m,
-9603BM,Nieuweweg,8,,
-9603BM,Nieuweweg,10,a,
-9603TJ,Hazenleger,5,,
-9603TJ,Hazenleger,5,a,
-9603TG,Laan van de Sport,4,t,
-9603BM,Nieuweweg,6,f,
-9603TJ,Hazenleger,5,B,
-9603TJ,Hazenleger,5,b,
-9603TG,Laan van de Sport,8,,
-9603TG,Laan van de Sport,6,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+8,"","","",9603BM,
+6,"","","",9603BM,
+Nieuweweg,10,A,"",9603BM,Hoogezand
+Nieuweweg,6,"","",9603BM,Hoogezand
+Nieuweweg,6,A,"",9603BM,Hoogezand
+Nieuweweg,6,B,"",9603BM,Hoogezand
+Nieuweweg,6,C,"",9603BM,Hoogezand
+Nieuweweg,6,D,"",9603BM,Hoogezand
+Nieuweweg,6,E,"",9603BM,Hoogezand
+Nieuweweg,6,F,"",9603BM,Hoogezand
+Nieuweweg,6,G,"",9603BM,Hoogezand
+Nieuweweg,6,J,"",9603BM,Hoogezand
+Nieuweweg,6,K,"",9603BM,Hoogezand
+Nieuweweg,6,M,"",9603BM,Hoogezand
+Nieuweweg,8,"","",9603BM,Hoogezand
+10,A,"","",9603BM,
+6,A,"","",9603BM,
+6,B,"","",9603BM,
+6,C,"","",9603BM,
+6,D,"","",9603BM,
+6,E,"","",9603BM,
+6,F,"","",9603BM,
+6,G,"","",9603BM,
+6,J,"","",9603BM,
+6,K,"","",9603BM,
+6,M,"","",9603BM,
+6,M,"","",9603BM,
+6,"","","",9603TG,
+6,"","","",9603TG,
+1,"","","",9603TG,
+4,"","","",9603TG,
+5,"","","",9603TG,
+2,"","","",9603TG,
+Laan van de Sport,1,"","",9603TG,Hoogezand
+Laan van de Sport,2,"","",9603TG,Hoogezand
+Laan van de Sport,4,"","",9603TG,Hoogezand
+Laan van de Sport,4,T,"",9603TG,Hoogezand
+Laan van de Sport,5,"","",9603TG,Hoogezand
+Laan van de Sport,6,"","",9603TG,Hoogezand
+Laan van de Sport,6,"","",9603TG,Hoogezand
+Laan van de Sport,8,"","",9603TG,Hoogezand
+4,T,"","",9603TG,
+4,T,"","",9603TG,
+7,"","","",9603TJ,
+1,"","","",9603TJ,
+5,"","","",9603TJ,
+9,"","","",9603TJ,
+11,"","","",9603TJ,
+13,"","","",9603TJ,
+3,"","","",9603TJ,
+5,"","","",9603TJ,
+5,"","","",9603TJ,
+Hazenleger,1,"","",9603TJ,Hoogezand
+Hazenleger,11,"","",9603TJ,Hoogezand
+Hazenleger,13,"","",9603TJ,Hoogezand
+Hazenleger,3,"","",9603TJ,Hoogezand
+Hazenleger,5,"","",9603TJ,Hoogezand
+Hazenleger,5,"","",9603TJ,Hoogezand
+Hazenleger,5,A,"",9603TJ,Hoogezand
+Hazenleger,5,B,"",9603TJ,Hoogezand
+Hazenleger,5,B,"",9603TJ,Hoogezand
+Hazenleger,7,"","",9603TJ,Hoogezand
+Hazenleger,9,"","",9603TJ,Hoogezand
+5,A,"","",9603TJ,
+6,"","","",9603TK,
+6,"","","",9603TK,
+2,"","","",9603TK,
+6,"","","",9603TK,
+6,"","","",9603TK,
+6,"","","",9603TK,
+4,"","","",9603TK,
+Beverburcht,2,"","",9603TK,Hoogezand
+Beverburcht,4,"","",9603TK,Hoogezand
+Beverburcht,6,"","",9603TK,Hoogezand
+Beverburcht,6,"","",9603TK,Hoogezand
+Beverburcht,6,"","",9603TK,Hoogezand
+Beverburcht,6,"","",9603TK,Hoogezand
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

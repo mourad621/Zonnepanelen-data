@@ -1,766 +1,392 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7692AA",7,"",""
-"7692AA",5,"b",""
-"7692AA",3,"a",""
-"7692AA",5,"a",""
-"7692AA",5,"d",""
-"7692AA",13,"",""
-"7692AA",1,"",""
-"7692AA",11,"",""
-"7692AA",3,"",""
-"7692AA",9,"",""
-"7692AA",5,"c",""
-"7692AA",5,"",""
-"7692AA",7,"a",""
-"7692AA",11,"a",""
-"7692AB",43,"",""
-"7692AB",35,"",""
-"7692AB",33,"",""
-"7692AB",39,"",""
-"7692AB",41,"",""
-"7692AB",55,"",""
-"7692AB",21,"",""
-"7692AB",37,"",""
-"7692AB",19,"",""
-"7692AB",23,"",""
-"7692AB",53,"",""
-"7692AB",27,"",""
-"7692AB",15,"",""
-"7692AB",15,"a",""
-"7692AB",29,"",""
-"7692AB",45,"",""
-"7692AB",17,"",""
-"7692AB",31,"",""
-"7692AB",25,"",""
-"7692AB",51,"",""
-"7692AB",49,"",""
-"7692AB",47,"",""
-"7692AC",28,"",""
-"7692AC",20,"",""
-"7692AC",26,"",""
-"7692AC",6,"",""
-"7692AC",24,"",""
-"7692AC",20,"",""
-"7692AC",30,"",""
-"7692AC",10,"",""
-"7692AC",20,"",""
-"7692AC",20,"",""
-"7692AC",22,"",""
-"7692AC",8,"",""
-"7692AC",34,"",""
-"7692AC",18,"",""
-"7692AC",2,"",""
-"7692AC",10,"c",""
-"7692AC",10,"a",""
-"7692AC",16,"a",""
-"7692AC",20,"f",""
-"7692AC",16,"a",""
-"7692AC",2,"b",""
-"7692AC",32,"",""
-"7692AC",10,"b",""
-"7692AC",14,"",""
-"7692AC",2,"a",""
-"7692AC",16,"a",""
-"7692AC",4,"",""
-"7692AC",12,"",""
-"7692AC",16,"",""
-"7692AD",11,"a",""
-"7692AD",5,"",""
-"7692AD",11,"",""
-"7692AD",3,"",""
-"7692AD",13,"",""
-"7692AD",11,"a",""
-"7692AD",7,"",""
-"7692AD",9,"",""
-"7692AE",11,"a",""
-"7692AE",7,"",""
-"7692AE",4,"",""
-"7692AE",26,"a",""
-"7692AE",8,"c",""
-"7692AE",26,"",""
-"7692AE",18,"",""
-"7692AE",26,"a",""
-"7692AE",8,"b",""
-"7692AE",7,"",""
-"7692AE",6,"",""
-"7692AE",2,"b",""
-"7692AE",26,"a",""
-"7692AE",10,"a",""
-"7692AE",22,"",""
-"7692AE",24,"t",""
-"7692AE",8,"",""
-"7692AE",10,"",""
-"7692AE",14,"",""
-"7692AE",20,"",""
-"7692AE",26,"i",""
-"7692AE",2,"a",""
-"7692AE",12,"",""
-"7692AE",26,"",""
-"7692AE",8,"a",""
-"7692AE",24,"a",""
-"7692AE",26,"",""
-"7692AE",16,"",""
-"7692AE",2,"",""
-"7692AE",2,"c",""
-"7692AE",24,"",""
-"7692AG",2,"",""
-"7692AG",3,"",""
-"7692AG",6,"",""
-"7692AG",4,"a",""
-"7692AG",4,"",""
-"7692AG",1,"",""
-"7692AG",5,"",""
-"7692AG",4,"b",""
-"7692AG",7,"",""
-"7692AH",3,"",""
-"7692AH",13,"",""
-"7692AH",1,"a",""
-"7692AH",29,"",""
-"7692AH",16,"b",""
-"7692AH",2,"b",""
-"7692AH",2,"c",""
-"7692AH",25,"",""
-"7692AH",2,"d",""
-"7692AH",2,"a",""
-"7692AH",39,"",""
-"7692AH",1,"",""
-"7692AH",53,"",""
-"7692AH",41,"",""
-"7692AH",43,"",""
-"7692AH",15,"",""
-"7692AH",11,"",""
-"7692AH",27,"",""
-"7692AH",7,"",""
-"7692AH",21,"",""
-"7692AH",17,"",""
-"7692AH",35,"",""
-"7692AH",49,"",""
-"7692AH",51,"",""
-"7692AH",19,"",""
-"7692AH",47,"",""
-"7692AH",5,"",""
-"7692AH",31,"",""
-"7692AH",33,"",""
-"7692AH",37,"",""
-"7692AH",9,"",""
-"7692AH",2,"e",""
-"7692AH",45,"",""
-"7692AJ",22,"",""
-"7692AJ",2,"a",""
-"7692AJ",6,"",""
-"7692AJ",10,"",""
-"7692AJ",24,"",""
-"7692AJ",2,"c",""
-"7692AJ",2,"d",""
-"7692AJ",2,"b",""
-"7692AJ",26,"",""
-"7692AJ",8,"",""
-"7692AJ",14,"",""
-"7692AJ",16,"b",""
-"7692AJ",28,"",""
-"7692AJ",8,"",""
-"7692AJ",2,"a",""
-"7692AJ",2,"e",""
-"7692AJ",16,"b",""
-"7692AJ",12,"",""
-"7692AJ",18,"",""
-"7692AJ",2,"b",""
-"7692AJ",2,"c",""
-"7692AJ",2,"b",""
-"7692AJ",8,"",""
-"7692AJ",20,"",""
-"7692AJ",2,"e",""
-"7692AJ",2,"a",""
-"7692AJ",16,"",""
-"7692AJ",4,"",""
-"7692AJ",2,"e",""
-"7692AJ",2,"c",""
-"7692AK",8,"",""
-"7692AK",12,"",""
-"7692AK",10,"",""
-"7692AK",2,"",""
-"7692AK",6,"",""
-"7692AK",14,"",""
-"7692AK",4,"",""
-"7692AK",3,"",""
-"7692AK",5,"",""
-"7692AK",1,"",""
-"7692AK",7,"",""
-"7692AL",13,"",""
-"7692AL",15,"",""
-"7692AL",5,"",""
-"7692AL",11,"",""
-"7692AL",9,"",""
-"7692AL",3,"",""
-"7692AL",1,"",""
-"7692AL",7,"",""
-"7692AL",17,"",""
-"7692AM",10,"",""
-"7692AM",26,"",""
-"7692AM",12,"",""
-"7692AM",30,"",""
-"7692AM",8,"",""
-"7692AM",24,"",""
-"7692AM",22,"",""
-"7692AM",18,"",""
-"7692AM",4,"",""
-"7692AM",20,"",""
-"7692AM",2,"",""
-"7692AM",28,"",""
-"7692AM",16,"",""
-"7692AM",6,"",""
-"7692AM",14,"",""
-"7692AN",12,"",""
-"7692AN",2,"",""
-"7692AN",14,"",""
-"7692AN",4,"",""
-"7692AN",18,"",""
-"7692AN",10,"",""
-"7692AN",6,"",""
-"7692AN",22,"",""
-"7692AN",2,"a",""
-"7692AN",20,"",""
-"7692AN",16,"",""
-"7692AN",8,"",""
-"7692AP",9,"",""
-"7692AP",33,"",""
-"7692AP",7,"",""
-"7692AP",5,"",""
-"7692AP",1,"",""
-"7692AP",31,"",""
-"7692AP",3,"",""
-"7692AP",23,"",""
-"7692AP",27,"",""
-"7692AP",17,"",""
-"7692AP",21,"",""
-"7692AP",11,"",""
-"7692AP",29,"",""
-"7692AP",25,"",""
-"7692AP",13,"",""
-"7692AP",19,"",""
-"7692AP",15,"",""
-"7692AR",8,"",""
-"7692AR",24,"",""
-"7692AR",16,"",""
-"7692AR",10,"",""
-"7692AR",12,"",""
-"7692AR",6,"",""
-"7692AR",4,"",""
-"7692AR",2,"",""
-"7692AR",22,"",""
-"7692AR",14,"",""
-"7692AR",18,"",""
-"7692AR",20,"",""
-"7692AS",21,"",""
-"7692AS",17,"",""
-"7692AS",7,"",""
-"7692AS",23,"",""
-"7692AS",5,"",""
-"7692AS",25,"",""
-"7692AS",27,"",""
-"7692AS",9,"",""
-"7692AS",13,"",""
-"7692AS",11,"",""
-"7692AS",29,"",""
-"7692AS",15,"",""
-"7692AS",1,"",""
-"7692AS",3,"",""
-"7692AS",19,"",""
-"7692AT",2,"d",""
-"7692AT",2,"",""
-"7692AT",3,"",""
-"7692AT",8,"",""
-"7692AT",1,"",""
-"7692AT",2,"c",""
-"7692AT",2,"f",""
-"7692AT",2,"a",""
-"7692AT",2,"b",""
-"7692AT",2,"e",""
-"7692AT",9,"",""
-"7692AT",46,"a",""
-"7692AT",2,"f",""
-"7692AT",2,"f",""
-"7692AT",13,"",""
-"7692AT",46,"b",""
-"7692AT",4,"",""
-"7692AT",6,"",""
-"7692AT",7,"",""
-"7692AT",17,"",""
-"7692AT",2,"f",""
-"7692AT",11,"",""
-"7692AT",15,"",""
-"7692AT",5,"",""
-"7692PA",5,"a",""
-"7692PA",4,"e",""
-"7692PA",4,"e",""
-"7692PA",4,"",""
-"7692PA",7,"",""
-"7692PA",1,"c",""
-"7692PA",4,"c",""
-"7692PA",5,"i",""
-"7692PA",5,"i",""
-"7692PA",1,"e",""
-"7692PA",4,"a",""
-"7692PA",11,"",""
-"7692PA",1,"f",""
-"7692PA",5,"",""
-"7692PA",4,"d",""
-"7692PA",4,"e",""
-"7692PA",1,"a",""
-"7692PA",1,"b",""
-"7692PA",1,"d",""
-"7692PA",9,"",""
-"7692PA",4,"e",""
-"7692PA",3,"",""
-"7692PA",4,"b",""
-"7692PA",1,"",""
-"7692PD",15,"",""
-"7692PD",43,"",""
-"7692PD",14,"",""
-"7692PD",19,"",""
-"7692PD",45,"",""
-"7692PD",21,"",""
-"7692PD",12,"a",""
-"7692PD",12,"a",""
-"7692PD",25,"",""
-"7692PD",8,"a",""
-"7692PD",12,"",""
-"7692PD",13,"",""
-"7692PD",1,"",""
-"7692PD",7,"",""
-"7692PD",2,"",""
-"7692PD",17,"",""
-"7692PD",2,"",""
-"7692PD",9,"",""
-"7692PD",10,"a",""
-"7692PD",44,"",""
-"7692PD",10,"",""
-"7692PD",3,"",""
-"7692PD",23,"",""
-"7692PD",6,"",""
-"7692PD",8,"",""
-"7692PD",11,"",""
-"7692PD",12,"a",""
-"7692PD",4,"",""
-"7692PD",4,"",""
-"7692PD",5,"",""
-"7692PK",2,"",""
-"7692PL",19,"",""
-"7692PL",11,"",""
-"7692PL",1,"a",""
-"7692PL",11,"",""
-"7692PL",13,"",""
-"7692PL",1,"",""
-"7692PL",13,"",""
-"7692PL",17,"",""
-"7692PL",7,"",""
-"7692PL",9,"",""
-"7692PL",11,"",""
-"7692PL",1,"a",""
-"7692PL",15,"",""
-"7692PL",5,"",""
-"7692PM",12,"",""
-"7692PM",7,"",""
-"7692PM",8,"",""
-"7692PM",1,"",""
-"7692PM",8,"",""
-"7692PM",2,"",""
-"7692PM",3,"",""
-"7692PM",10,"",""
-"7692PM",5,"",""
-"7692PM",6,"",""
-"7692PM",4,"",""
-"7692PM",14,"",""
-"7692PM",18,"",""
-"7692PN",2,"",""
-"7692PN",8,"",""
-"7692PN",4,"",""
-"7692PN",12,"",""
-"7692PN",10,"",""
-"7692PN",20,"",""
-"7692PP",7,"",""
-"7692PP",6,"",""
-"7692PP",4,"",""
-"7692PP",3,"",""
-"7692PP",9,"",""
-"7692PP",12,"",""
-"7692PP",10,"",""
-"7692PP",8,"",""
-"7692PP",5,"",""
-"7692PP",12,"a",""
-"7692PP",2,"",""
-"7692PP",14,"",""
-7692AT,De Marke,1,,
-7692AT,De Marke,2,,
-7692AT,De Marke,3,,
-7692AT,De Marke,4,,
-7692AT,De Marke,5,,
-7692AT,De Marke,6,,
-7692AT,De Marke,7,,
-7692AT,De Marke,8,,
-7692AT,De Marke,9,,
-7692AT,De Marke,11,,
-7692AT,De Marke,13,,
-7692AT,De Marke,15,,
-7692AT,De Marke,17,,
-7692PA,Hardenbergerweg,1,,
-7692PA,Hardenbergerweg,1,a,
-7692PA,Hardenbergerweg,1,e,
-7692PA,Hardenbergerweg,3,,
-7692PA,Hardenbergerweg,4,,
-7692PA,Hardenbergerweg,4,a,
-7692PA,Hardenbergerweg,4,b,
-7692PA,Hardenbergerweg,4,c,
-7692PA,Hardenbergerweg,4,d,
-7692PA,Hardenbergerweg,4,e,
-7692PA,Hardenbergerweg,5,,
-7692PA,Hardenbergerweg,7,,
-7692PA,Hardenbergerweg,9,,
-7692PA,Hardenbergerweg,11,,
-7692AH,Ds. P.H. Wolfertstraat,1,,
-7692AH,Ds. P.H. Wolfertstraat,1,a,
-7692AH,Ds. P.H. Wolfertstraat,3,,
-7692AH,Ds. P.H. Wolfertstraat,5,,
-7692AH,Ds. P.H. Wolfertstraat,7,,
-7692AH,Ds. P.H. Wolfertstraat,9,,
-7692AH,Ds. P.H. Wolfertstraat,11,,
-7692AH,Ds. P.H. Wolfertstraat,13,,
-7692AH,Ds. P.H. Wolfertstraat,15,,
-7692AH,Ds. P.H. Wolfertstraat,16,b,
-7692AH,Ds. P.H. Wolfertstraat,17,,
-7692AH,Ds. P.H. Wolfertstraat,19,,
-7692AH,Ds. P.H. Wolfertstraat,21,,
-7692AH,Ds. P.H. Wolfertstraat,25,,
-7692AH,Ds. P.H. Wolfertstraat,27,,
-7692AH,Ds. P.H. Wolfertstraat,29,,
-7692AH,Ds. P.H. Wolfertstraat,31,,
-7692AH,Ds. P.H. Wolfertstraat,33,,
-7692AH,Ds. P.H. Wolfertstraat,35,,
-7692AH,Ds. P.H. Wolfertstraat,37,,
-7692AH,Ds. P.H. Wolfertstraat,39,,
-7692AH,Ds. P.H. Wolfertstraat,41,,
-7692AH,Ds. P.H. Wolfertstraat,43,,
-7692AH,Ds. P.H. Wolfertstraat,45,,
-7692AH,Ds. P.H. Wolfertstraat,47,,
-7692AH,Ds. P.H. Wolfertstraat,49,,
-7692AH,Ds. P.H. Wolfertstraat,51,,
-7692AH,Ds. P.H. Wolfertstraat,53,,
-7692AJ,Ds. P.H. Wolfertstraat,2,a,
-7692AJ,Ds. P.H. Wolfertstraat,4,,
-7692AJ,Ds. P.H. Wolfertstraat,6,,
-7692AJ,Ds. P.H. Wolfertstraat,8,,
-7692AJ,Ds. P.H. Wolfertstraat,10,,
-7692AJ,Ds. P.H. Wolfertstraat,12,,
-7692AJ,Ds. P.H. Wolfertstraat,14,,
-7692AJ,Ds. P.H. Wolfertstraat,16,,
-7692AJ,Ds. P.H. Wolfertstraat,16,b,
-7692AJ,Ds. P.H. Wolfertstraat,16,b,
-7692AJ,Ds. P.H. Wolfertstraat,18,,
-7692AJ,Ds. P.H. Wolfertstraat,20,,
-7692AJ,Ds. P.H. Wolfertstraat,22,,
-7692AJ,Ds. P.H. Wolfertstraat,24,,
-7692AJ,Ds. P.H. Wolfertstraat,26,,
-7692AJ,Ds. P.H. Wolfertstraat,28,,
-7692AR,Hesselinkkamp,2,,
-7692AR,Hesselinkkamp,4,,
-7692AR,Hesselinkkamp,6,,
-7692AR,Hesselinkkamp,8,,
-7692AR,Hesselinkkamp,10,,
-7692AR,Hesselinkkamp,12,,
-7692AR,Hesselinkkamp,14,,
-7692AR,Hesselinkkamp,16,,
-7692AR,Hesselinkkamp,18,,
-7692AR,Hesselinkkamp,20,,
-7692AR,Hesselinkkamp,22,,
-7692AR,Hesselinkkamp,24,,
-7692AS,Hesselinkkamp,1,,
-7692AS,Hesselinkkamp,3,,
-7692AS,Hesselinkkamp,5,,
-7692AS,Hesselinkkamp,7,,
-7692AS,Hesselinkkamp,9,,
-7692AS,Hesselinkkamp,11,,
-7692AS,Hesselinkkamp,13,,
-7692AS,Hesselinkkamp,15,,
-7692AS,Hesselinkkamp,17,,
-7692AS,Hesselinkkamp,19,,
-7692AS,Hesselinkkamp,21,,
-7692AS,Hesselinkkamp,23,,
-7692AS,Hesselinkkamp,25,,
-7692AS,Hesselinkkamp,27,,
-7692AS,Hesselinkkamp,29,,
-7692AN,Johan Clemmestraat,2,,
-7692AN,Johan Clemmestraat,2,a,
-7692AN,Johan Clemmestraat,4,,
-7692AN,Johan Clemmestraat,6,,
-7692AN,Johan Clemmestraat,8,,
-7692AN,Johan Clemmestraat,10,,
-7692AN,Johan Clemmestraat,12,,
-7692AN,Johan Clemmestraat,14,,
-7692AN,Johan Clemmestraat,16,,
-7692AN,Johan Clemmestraat,18,,
-7692AN,Johan Clemmestraat,20,,
-7692AN,Johan Clemmestraat,22,,
-7692AP,Johan Clemmestraat,1,,
-7692AP,Johan Clemmestraat,3,,
-7692AP,Johan Clemmestraat,5,,
-7692AP,Johan Clemmestraat,7,,
-7692AP,Johan Clemmestraat,9,,
-7692AP,Johan Clemmestraat,11,,
-7692AP,Johan Clemmestraat,13,,
-7692AP,Johan Clemmestraat,15,,
-7692AP,Johan Clemmestraat,17,,
-7692AP,Johan Clemmestraat,19,,
-7692AP,Johan Clemmestraat,21,,
-7692AP,Johan Clemmestraat,23,,
-7692AP,Johan Clemmestraat,25,,
-7692AP,Johan Clemmestraat,27,,
-7692AP,Johan Clemmestraat,29,,
-7692AP,Johan Clemmestraat,31,,
-7692AP,Johan Clemmestraat,33,,
-7692AE,Nieuweweg,7,,
-7692AE,Nieuweweg,7,,
-7692AG,Nieuweweg,1,,
-7692AG,Nieuweweg,2,,
-7692AG,Nieuweweg,3,,
-7692AG,Nieuweweg,4,,
-7692AG,Nieuweweg,5,,
-7692AG,Nieuweweg,6,,
-7692AG,Nieuweweg,7,,
-7692AD,Oudeweg,3,,
-7692AD,Oudeweg,5,,
-7692AD,Oudeweg,7,,
-7692AD,Oudeweg,9,,
-7692AD,Oudeweg,11,,
-7692AD,Oudeweg,13,,
-7692AE,Oudeweg,2,,
-7692AE,Oudeweg,2,a,
-7692AE,Oudeweg,2,b,
-7692AE,Oudeweg,2,c,
-7692AE,Oudeweg,4,,
-7692AE,Oudeweg,6,,
-7692AE,Oudeweg,8,,
-7692AE,Oudeweg,8,a,
-7692AE,Oudeweg,8,b,
-7692AE,Oudeweg,8,c,
-7692AE,Oudeweg,10,,
-7692AE,Oudeweg,12,,
-7692AE,Oudeweg,14,,
-7692AE,Oudeweg,16,,
-7692AE,Oudeweg,18,,
-7692AE,Oudeweg,20,,
-7692AE,Oudeweg,22,,
-7692AE,Oudeweg,24,,
-7692AE,Oudeweg,24,a,
-7692AE,Oudeweg,26,,
-7692AK,Professor Waterinkstraat,1,,
-7692AK,Professor Waterinkstraat,2,,
-7692AK,Professor Waterinkstraat,3,,
-7692AK,Professor Waterinkstraat,4,,
-7692AK,Professor Waterinkstraat,5,,
-7692AK,Professor Waterinkstraat,6,,
-7692AK,Professor Waterinkstraat,7,,
-7692AK,Professor Waterinkstraat,8,,
-7692AK,Professor Waterinkstraat,10,,
-7692AK,Professor Waterinkstraat,12,,
-7692AK,Professor Waterinkstraat,14,,
-7692AA,Stationsweg,1,,
-7692AA,Stationsweg,3,a,
-7692AA,Stationsweg,3,,
-7692AA,Stationsweg,5,,
-7692AA,Stationsweg,5,d,
-7692AA,Stationsweg,5,a,
-7692AA,Stationsweg,5,b,
-7692AA,Stationsweg,5,c,
-7692AA,Stationsweg,7,,
-7692AA,Stationsweg,7,a,
-7692AA,Stationsweg,9,,
-7692AA,Stationsweg,11,,
-7692AA,Stationsweg,11,a,
-7692AA,Stationsweg,13,,
-7692AB,Stationsweg,15,,
-7692AB,Stationsweg,15,a,
-7692AB,Stationsweg,17,,
-7692AB,Stationsweg,19,,
-7692AB,Stationsweg,21,,
-7692AB,Stationsweg,23,,
-7692AB,Stationsweg,25,,
-7692AB,Stationsweg,27,,
-7692AB,Stationsweg,29,,
-7692AB,Stationsweg,31,,
-7692AB,Stationsweg,33,,
-7692AB,Stationsweg,35,,
-7692AB,Stationsweg,37,,
-7692AB,Stationsweg,39,,
-7692AB,Stationsweg,41,,
-7692AB,Stationsweg,43,,
-7692AB,Stationsweg,45,,
-7692AB,Stationsweg,47,,
-7692AB,Stationsweg,49,,
-7692AB,Stationsweg,51,,
-7692AB,Stationsweg,53,,
-7692AB,Stationsweg,55,,
-7692AC,Stationsweg,2,,
-7692AC,Stationsweg,2,a,
-7692AC,Stationsweg,2,b,
-7692AC,Stationsweg,4,,
-7692AC,Stationsweg,6,,
-7692AC,Stationsweg,8,,
-7692AC,Stationsweg,10,,
-7692AC,Stationsweg,10,a,
-7692AC,Stationsweg,10,b,
-7692AC,Stationsweg,10,c,
-7692AC,Stationsweg,12,,
-7692AC,Stationsweg,14,,
-7692AC,Stationsweg,16,,
-7692AC,Stationsweg,18,,
-7692AC,Stationsweg,20,,
-7692AC,Stationsweg,22,,
-7692AC,Stationsweg,24,,
-7692AC,Stationsweg,26,,
-7692AC,Stationsweg,28,,
-7692AC,Stationsweg,30,,
-7692AC,Stationsweg,32,,
-7692AC,Stationsweg,34,,
-7692PD,Tweede Elsweg,1,,
-7692PD,Tweede Elsweg,2,,
-7692PD,Tweede Elsweg,44,,
-7692PD,Tweede Elsweg,3,,
-7692PD,Tweede Elsweg,5,,
-7692PD,Tweede Elsweg,7,,
-7692PD,Tweede Elsweg,9,,
-7692PD,Tweede Elsweg,11,,
-7692PD,Tweede Elsweg,13,,
-7692PD,Tweede Elsweg,15,,
-7692PD,Tweede Elsweg,17,,
-7692PD,Tweede Elsweg,19,,
-7692PD,Tweede Elsweg,21,,
-7692PD,Tweede Elsweg,23,,
-7692PD,Tweede Elsweg,25,,
-7692PD,Tweede Elsweg,43,,
-7692PD,Tweede Elsweg,45,,
-7692PA,Hardenbergerweg,1,b,
-7692PA,Hardenbergerweg,1,c,
-7692PA,Hardenbergerweg,1,d,
-7692PA,Hardenbergerweg,1,f,
-7692PA,Hardenbergerweg,5,a,
-7692AJ,Ds. P.H. Wolfertstraat,2,b,
-7692AJ,Ds. P.H. Wolfertstraat,2,c,
-7692AJ,Ds. P.H. Wolfertstraat,2,e,
-7692AJ,Ds. P.H. Wolfertstraat,8,,
-7692AE,Oudeweg,26,a,
-7692AE,Oudeweg,26,i,
-7692AE,Oudeweg,26,a,
-7692AE,Oudeweg,26,,
-7692PD,Tweede Elsweg,2,,
-7692PD,Tweede Elsweg,4,,
-7692PD,Tweede Elsweg,4,,
-7692PD,Tweede Elsweg,8,,
-7692PD,Tweede Elsweg,8,a,
-7692PD,Tweede Elsweg,10,,
-7692PD,Tweede Elsweg,10,a,
-7692AL,Wicher Hentostraat,1,,
-7692AL,Wicher Hentostraat,3,,
-7692AL,Wicher Hentostraat,5,,
-7692AL,Wicher Hentostraat,7,,
-7692AL,Wicher Hentostraat,9,,
-7692AL,Wicher Hentostraat,11,,
-7692AL,Wicher Hentostraat,13,,
-7692AL,Wicher Hentostraat,15,,
-7692AL,Wicher Hentostraat,17,,
-7692AM,Wicher Hentostraat,2,,
-7692AM,Wicher Hentostraat,4,,
-7692AM,Wicher Hentostraat,6,,
-7692AM,Wicher Hentostraat,8,,
-7692AM,Wicher Hentostraat,10,,
-7692AM,Wicher Hentostraat,12,,
-7692AM,Wicher Hentostraat,14,,
-7692AM,Wicher Hentostraat,16,,
-7692AM,Wicher Hentostraat,18,,
-7692AM,Wicher Hentostraat,20,,
-7692AM,Wicher Hentostraat,22,,
-7692AM,Wicher Hentostraat,24,,
-7692AM,Wicher Hentostraat,26,,
-7692AM,Wicher Hentostraat,28,,
-7692AM,Wicher Hentostraat,30,,
-7692PL,Zitgraven,19,,
-7692PL,Zitgraven,5,,
-7692PL,Zitgraven,7,,
-7692PL,Zitgraven,9,,
-7692PL,Zitgraven,17,,
-7692PL,Zitgraven,15,,
-7692PL,Zitgraven,1,,
-7692PL,Zitgraven,1,a,
-7692PN,Klopsteen,2,,
-7692PN,Klopsteen,20,,
-7692PM,Vuursteen,7,,
-7692PK,Pijlspits,2,,
-7692PA,Hardenbergerweg,4,e,
-7692PA,Hardenbergerweg,5,i,
-7692PA,Hardenbergerweg,5,i,
-7692AH,Ds. P.H. Wolfertstraat,2,a,
-7692AH,Ds. P.H. Wolfertstraat,2,b,
-7692AH,Ds. P.H. Wolfertstraat,2,c,
-7692AH,Ds. P.H. Wolfertstraat,2,d,
-7692AH,Ds. P.H. Wolfertstraat,2,e,
-7692AJ,Ds. P.H. Wolfertstraat,2,a,
-7692AJ,Ds. P.H. Wolfertstraat,2,b,
-7692AJ,Ds. P.H. Wolfertstraat,2,c,
-7692AJ,Ds. P.H. Wolfertstraat,2,d,
-7692AJ,Ds. P.H. Wolfertstraat,2,e,
-7692AG,Nieuweweg,4,a,
-7692AG,Nieuweweg,4,b,
-7692AD,Oudeweg,11,a,
-7692AD,Oudeweg,11,a,
-7692AE,Oudeweg,24,t,
-7692AE,Oudeweg,10,a,
-7692AE,Oudeweg,11,a,
-7692AC,Stationsweg,16,a,
-7692AC,Stationsweg,16,a,
-7692AC,Stationsweg,20,f,
-7692AC,Stationsweg,20,,
-7692AT,Stationsweg,2,f,
-7692PD,Tweede Elsweg,6,,
-7692PD,Tweede Elsweg,12,,
-7692PD,Tweede Elsweg,12,a,
-7692PD,Tweede Elsweg,14,,
-7692AT,Zwarte Dijk,46,a,
-7692AT,Zwarte Dijk,46,b,
-7692AT,De Marke,2,a,
-7692AT,De Marke,2,b,
-7692AT,De Marke,2,c,
-7692AT,De Marke,2,d,
-7692AT,De Marke,2,e,
-7692AT,De Marke,2,f,
-7692AT,De Marke,2,f,
-7692PL,Zitgraven,11,,
-7692PL,Zitgraven,13,,
-7692PL,Zitgraven,11,,
-7692PN,Klopsteen,12,,
-7692PN,Klopsteen,10,,
-7692PN,Klopsteen,8,,
-7692PN,Klopsteen,4,,
-7692PM,Vuursteen,1,,
-7692PM,Vuursteen,3,,
-7692PM,Vuursteen,5,,
-7692PM,Vuursteen,12,,
-7692PM,Vuursteen,18,,
-7692PM,Vuursteen,10,,
-7692PM,Vuursteen,2,,
-7692PM,Vuursteen,4,,
-7692PM,Vuursteen,6,,
-7692PM,Vuursteen,8,,
-7692PM,Vuursteen,14,,
-7692PM,Vuursteen,8,,
-7692PP,Kuilhaarden,14,,
-7692PP,Kuilhaarden,9,,
-7692PP,Kuilhaarden,7,,
-7692PP,Kuilhaarden,2,,
-7692PP,Kuilhaarden,3,,
-7692PP,Kuilhaarden,5,,
-7692PP,Kuilhaarden,4,,
-7692PP,Kuilhaarden,6,,
-7692PP,Kuilhaarden,8,,
-7692PP,Kuilhaarden,10,,
-7692PP,Kuilhaarden,12,,
-7692PP,Kuilhaarden,12,a,
-7692PP,Kuilhaarden,1,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Stationsweg,1,"","",7692AA,Mariënberg
+Stationsweg,11,"","",7692AA,Mariënberg
+Stationsweg,11,A,"",7692AA,Mariënberg
+Stationsweg,13,"","",7692AA,Mariënberg
+Stationsweg,3,"","",7692AA,Mariënberg
+Stationsweg,3,A,"",7692AA,Mariënberg
+Stationsweg,5,"","",7692AA,Mariënberg
+Stationsweg,5,A,"",7692AA,Mariënberg
+Stationsweg,5,B,"",7692AA,Mariënberg
+Stationsweg,5,C,"",7692AA,Mariënberg
+Stationsweg,5,D,"",7692AA,Mariënberg
+Stationsweg,7,"","",7692AA,Mariënberg
+Stationsweg,7,A,"",7692AA,Mariënberg
+Stationsweg,9,"","",7692AA,Mariënberg
+Stationsweg,15,"","",7692AB,Mariënberg
+Stationsweg,15,A,"",7692AB,Mariënberg
+Stationsweg,17,"","",7692AB,Mariënberg
+Stationsweg,19,"","",7692AB,Mariënberg
+Stationsweg,21,"","",7692AB,Mariënberg
+Stationsweg,23,"","",7692AB,Mariënberg
+Stationsweg,25,"","",7692AB,Mariënberg
+Stationsweg,27,"","",7692AB,Mariënberg
+Stationsweg,29,"","",7692AB,Mariënberg
+Stationsweg,31,"","",7692AB,Mariënberg
+Stationsweg,33,"","",7692AB,Mariënberg
+Stationsweg,35,"","",7692AB,Mariënberg
+Stationsweg,37,"","",7692AB,Mariënberg
+Stationsweg,39,"","",7692AB,Mariënberg
+Stationsweg,41,"","",7692AB,Mariënberg
+Stationsweg,43,"","",7692AB,Mariënberg
+Stationsweg,45,"","",7692AB,Mariënberg
+Stationsweg,47,"","",7692AB,Mariënberg
+Stationsweg,49,"","",7692AB,Mariënberg
+Stationsweg,51,"","",7692AB,Mariënberg
+Stationsweg,53,"","",7692AB,Mariënberg
+Stationsweg,55,"","",7692AB,Mariënberg
+Stationsweg,10,"","",7692AC,Mariënberg
+Stationsweg,10,A,"",7692AC,Mariënberg
+Stationsweg,10,B,"",7692AC,Mariënberg
+Stationsweg,10,C,"",7692AC,Mariënberg
+Stationsweg,12,"","",7692AC,Mariënberg
+Stationsweg,14,"","",7692AC,Mariënberg
+Stationsweg,16,"","",7692AC,Mariënberg
+Stationsweg,16,A,"",7692AC,Mariënberg
+Stationsweg,16,A,"",7692AC,Mariënberg
+Stationsweg,16,A,"",7692AC,Mariënberg
+Stationsweg,18,"","",7692AC,Mariënberg
+Stationsweg,2,"","",7692AC,Mariënberg
+Stationsweg,2,A,"",7692AC,Mariënberg
+Stationsweg,2,B,"",7692AC,Mariënberg
+Stationsweg,20,"","",7692AC,Mariënberg
+Stationsweg,20,"","",7692AC,Mariënberg
+Stationsweg,20,"","",7692AC,Mariënberg
+Stationsweg,20,"","",7692AC,Mariënberg
+Stationsweg,20,F,"",7692AC,Mariënberg
+Stationsweg,22,"","",7692AC,Mariënberg
+Stationsweg,24,"","",7692AC,Mariënberg
+Stationsweg,26,"","",7692AC,Mariënberg
+Stationsweg,28,"","",7692AC,Mariënberg
+Stationsweg,30,"","",7692AC,Mariënberg
+Stationsweg,32,"","",7692AC,Mariënberg
+Stationsweg,34,"","",7692AC,Mariënberg
+Stationsweg,4,"","",7692AC,Mariënberg
+Stationsweg,6,"","",7692AC,Mariënberg
+Stationsweg,8,"","",7692AC,Mariënberg
+Oudeweg,11,"","",7692AD,Mariënberg
+Oudeweg,11,A,"",7692AD,Mariënberg
+Oudeweg,11,A,"",7692AD,Mariënberg
+Oudeweg,13,"","",7692AD,Mariënberg
+Oudeweg,3,"","",7692AD,Mariënberg
+Oudeweg,5,"","",7692AD,Mariënberg
+Oudeweg,7,"","",7692AD,Mariënberg
+Oudeweg,9,"","",7692AD,Mariënberg
+Oudeweg,10,"","",7692AE,Mariënberg
+Oudeweg,10,A,"",7692AE,Mariënberg
+Oudeweg,11,A,"",7692AE,Mariënberg
+Oudeweg,12,"","",7692AE,Mariënberg
+Oudeweg,14,"","",7692AE,Mariënberg
+Oudeweg,16,"","",7692AE,Mariënberg
+Oudeweg,18,"","",7692AE,Mariënberg
+Oudeweg,2,"","",7692AE,Mariënberg
+Oudeweg,2,A,"",7692AE,Mariënberg
+Oudeweg,2,B,"",7692AE,Mariënberg
+Oudeweg,2,C,"",7692AE,Mariënberg
+Oudeweg,20,"","",7692AE,Mariënberg
+Oudeweg,22,"","",7692AE,Mariënberg
+Oudeweg,24,"","",7692AE,Mariënberg
+Oudeweg,24,A,"",7692AE,Mariënberg
+Oudeweg,24,T,"",7692AE,Mariënberg
+Oudeweg,26,"","",7692AE,Mariënberg
+Oudeweg,26,"","",7692AE,Mariënberg
+Oudeweg,26,"","",7692AE,Mariënberg
+Oudeweg,26,A,"",7692AE,Mariënberg
+Oudeweg,26,A,"",7692AE,Mariënberg
+Oudeweg,26,A,"",7692AE,Mariënberg
+Oudeweg,26,I,"",7692AE,Mariënberg
+Oudeweg,4,"","",7692AE,Mariënberg
+Oudeweg,6,"","",7692AE,Mariënberg
+Nieuweweg,7,"","",7692AE,Mariënberg
+Nieuweweg,7,"","",7692AE,Mariënberg
+Oudeweg,8,"","",7692AE,Mariënberg
+Oudeweg,8,A,"",7692AE,Mariënberg
+Oudeweg,8,B,"",7692AE,Mariënberg
+Oudeweg,8,C,"",7692AE,Mariënberg
+Nieuweweg,1,"","",7692AG,Mariënberg
+Nieuweweg,2,"","",7692AG,Mariënberg
+Nieuweweg,3,"","",7692AG,Mariënberg
+Nieuweweg,4,"","",7692AG,Mariënberg
+Nieuweweg,4,A,"",7692AG,Mariënberg
+Nieuweweg,4,B,"",7692AG,Mariënberg
+Nieuweweg,5,"","",7692AG,Mariënberg
+Nieuweweg,6,"","",7692AG,Mariënberg
+Nieuweweg,7,"","",7692AG,Mariënberg
+Ds. P.H. Wolfertstraat,1,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,1,A,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,11,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,13,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,15,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,16,B,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,17,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,19,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,2,A,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,2,B,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,2,C,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,2,D,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,2,E,"",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,21,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,25,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,27,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,29,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,3,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,31,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,33,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,35,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,37,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,39,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,41,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,43,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,45,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,47,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,49,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,5,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,51,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,53,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,7,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,9,"","",7692AH,Mariënberg
+Ds. P.H. Wolfertstraat,10,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,12,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,14,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,16,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,16,B,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,16,B,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,18,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,A,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,A,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,A,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,B,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,B,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,B,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,C,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,C,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,C,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,D,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,E,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,E,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,2,E,"",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,20,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,22,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,24,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,26,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,28,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,4,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,6,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,8,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,8,"","",7692AJ,Mariënberg
+Ds. P.H. Wolfertstraat,8,"","",7692AJ,Mariënberg
+Professor Waterinkstraat,1,"","",7692AK,Mariënberg
+Professor Waterinkstraat,10,"","",7692AK,Mariënberg
+Professor Waterinkstraat,12,"","",7692AK,Mariënberg
+Professor Waterinkstraat,14,"","",7692AK,Mariënberg
+Professor Waterinkstraat,2,"","",7692AK,Mariënberg
+Professor Waterinkstraat,3,"","",7692AK,Mariënberg
+Professor Waterinkstraat,4,"","",7692AK,Mariënberg
+Professor Waterinkstraat,5,"","",7692AK,Mariënberg
+Professor Waterinkstraat,6,"","",7692AK,Mariënberg
+Professor Waterinkstraat,7,"","",7692AK,Mariënberg
+Professor Waterinkstraat,8,"","",7692AK,Mariënberg
+Wicher Hentostraat,1,"","",7692AL,Mariënberg
+Wicher Hentostraat,11,"","",7692AL,Mariënberg
+Wicher Hentostraat,13,"","",7692AL,Mariënberg
+Wicher Hentostraat,15,"","",7692AL,Mariënberg
+Wicher Hentostraat,17,"","",7692AL,Mariënberg
+Wicher Hentostraat,3,"","",7692AL,Mariënberg
+Wicher Hentostraat,5,"","",7692AL,Mariënberg
+Wicher Hentostraat,7,"","",7692AL,Mariënberg
+Wicher Hentostraat,9,"","",7692AL,Mariënberg
+Wicher Hentostraat,10,"","",7692AM,Mariënberg
+Wicher Hentostraat,12,"","",7692AM,Mariënberg
+Wicher Hentostraat,14,"","",7692AM,Mariënberg
+Wicher Hentostraat,16,"","",7692AM,Mariënberg
+Wicher Hentostraat,18,"","",7692AM,Mariënberg
+Wicher Hentostraat,2,"","",7692AM,Mariënberg
+Wicher Hentostraat,20,"","",7692AM,Mariënberg
+Wicher Hentostraat,22,"","",7692AM,Mariënberg
+Wicher Hentostraat,24,"","",7692AM,Mariënberg
+Wicher Hentostraat,26,"","",7692AM,Mariënberg
+Wicher Hentostraat,28,"","",7692AM,Mariënberg
+Wicher Hentostraat,30,"","",7692AM,Mariënberg
+Wicher Hentostraat,4,"","",7692AM,Mariënberg
+Wicher Hentostraat,6,"","",7692AM,Mariënberg
+Wicher Hentostraat,8,"","",7692AM,Mariënberg
+Johan Clemmestraat,10,"","",7692AN,Mariënberg
+Johan Clemmestraat,12,"","",7692AN,Mariënberg
+Johan Clemmestraat,14,"","",7692AN,Mariënberg
+Johan Clemmestraat,16,"","",7692AN,Mariënberg
+Johan Clemmestraat,18,"","",7692AN,Mariënberg
+Johan Clemmestraat,2,"","",7692AN,Mariënberg
+Johan Clemmestraat,2,A,"",7692AN,Mariënberg
+Johan Clemmestraat,20,"","",7692AN,Mariënberg
+Johan Clemmestraat,22,"","",7692AN,Mariënberg
+Johan Clemmestraat,4,"","",7692AN,Mariënberg
+Johan Clemmestraat,6,"","",7692AN,Mariënberg
+Johan Clemmestraat,8,"","",7692AN,Mariënberg
+Johan Clemmestraat,1,"","",7692AP,Mariënberg
+Johan Clemmestraat,11,"","",7692AP,Mariënberg
+Johan Clemmestraat,13,"","",7692AP,Mariënberg
+Johan Clemmestraat,15,"","",7692AP,Mariënberg
+Johan Clemmestraat,17,"","",7692AP,Mariënberg
+Johan Clemmestraat,19,"","",7692AP,Mariënberg
+Johan Clemmestraat,21,"","",7692AP,Mariënberg
+Johan Clemmestraat,23,"","",7692AP,Mariënberg
+Johan Clemmestraat,25,"","",7692AP,Mariënberg
+Johan Clemmestraat,27,"","",7692AP,Mariënberg
+Johan Clemmestraat,29,"","",7692AP,Mariënberg
+Johan Clemmestraat,3,"","",7692AP,Mariënberg
+Johan Clemmestraat,31,"","",7692AP,Mariënberg
+Johan Clemmestraat,33,"","",7692AP,Mariënberg
+Johan Clemmestraat,5,"","",7692AP,Mariënberg
+Johan Clemmestraat,7,"","",7692AP,Mariënberg
+Johan Clemmestraat,9,"","",7692AP,Mariënberg
+Hesselinkkamp,10,"","",7692AR,Mariënberg
+Hesselinkkamp,12,"","",7692AR,Mariënberg
+Hesselinkkamp,14,"","",7692AR,Mariënberg
+Hesselinkkamp,16,"","",7692AR,Mariënberg
+Hesselinkkamp,18,"","",7692AR,Mariënberg
+Hesselinkkamp,2,"","",7692AR,Mariënberg
+Hesselinkkamp,20,"","",7692AR,Mariënberg
+Hesselinkkamp,22,"","",7692AR,Mariënberg
+Hesselinkkamp,24,"","",7692AR,Mariënberg
+Hesselinkkamp,4,"","",7692AR,Mariënberg
+Hesselinkkamp,6,"","",7692AR,Mariënberg
+Hesselinkkamp,8,"","",7692AR,Mariënberg
+Hesselinkkamp,1,"","",7692AS,Mariënberg
+Hesselinkkamp,11,"","",7692AS,Mariënberg
+Hesselinkkamp,13,"","",7692AS,Mariënberg
+Hesselinkkamp,15,"","",7692AS,Mariënberg
+Hesselinkkamp,17,"","",7692AS,Mariënberg
+Hesselinkkamp,19,"","",7692AS,Mariënberg
+Hesselinkkamp,21,"","",7692AS,Mariënberg
+Hesselinkkamp,23,"","",7692AS,Mariënberg
+Hesselinkkamp,25,"","",7692AS,Mariënberg
+Hesselinkkamp,27,"","",7692AS,Mariënberg
+Hesselinkkamp,29,"","",7692AS,Mariënberg
+Hesselinkkamp,3,"","",7692AS,Mariënberg
+Hesselinkkamp,5,"","",7692AS,Mariënberg
+Hesselinkkamp,7,"","",7692AS,Mariënberg
+Hesselinkkamp,9,"","",7692AS,Mariënberg
+De Marke,1,"","",7692AT,Mariënberg
+De Marke,11,"","",7692AT,Mariënberg
+De Marke,13,"","",7692AT,Mariënberg
+De Marke,15,"","",7692AT,Mariënberg
+De Marke,17,"","",7692AT,Mariënberg
+De Marke,2,"","",7692AT,Mariënberg
+De Marke,2,A,"",7692AT,Mariënberg
+De Marke,2,B,"",7692AT,Mariënberg
+De Marke,2,C,"",7692AT,Mariënberg
+De Marke,2,D,"",7692AT,Mariënberg
+De Marke,2,E,"",7692AT,Mariënberg
+De Marke,2,F,"",7692AT,Mariënberg
+De Marke,2,F,"",7692AT,Mariënberg
+De Marke,2,F,"",7692AT,Mariënberg
+De Marke,2,F,"",7692AT,Mariënberg
+De Marke,3,"","",7692AT,Mariënberg
+De Marke,4,"","",7692AT,Mariënberg
+Zwarte Dijk,46,A,"",7692AT,Lutten
+Zwarte Dijk,46,B,"",7692AT,Lutten
+De Marke,5,"","",7692AT,Mariënberg
+De Marke,6,"","",7692AT,Mariënberg
+De Marke,7,"","",7692AT,Mariënberg
+De Marke,8,"","",7692AT,Mariënberg
+De Marke,9,"","",7692AT,Mariënberg
+Hardenbergerweg,1,"","",7692PA,Mariënberg
+Hardenbergerweg,1,A,"",7692PA,Mariënberg
+Hardenbergerweg,1,B,"",7692PA,Mariënberg
+Hardenbergerweg,1,C,"",7692PA,Mariënberg
+Hardenbergerweg,1,D,"",7692PA,Mariënberg
+Hardenbergerweg,1,E,"",7692PA,Mariënberg
+Hardenbergerweg,1,F,"",7692PA,Mariënberg
+Hardenbergerweg,11,"","",7692PA,Mariënberg
+Hardenbergerweg,3,"","",7692PA,Mariënberg
+Hardenbergerweg,4,"","",7692PA,Mariënberg
+Hardenbergerweg,4,A,"",7692PA,Mariënberg
+Hardenbergerweg,4,B,"",7692PA,Mariënberg
+Hardenbergerweg,4,C,"",7692PA,Mariënberg
+Hardenbergerweg,4,D,"",7692PA,Mariënberg
+Hardenbergerweg,4,E,"",7692PA,Mariënberg
+Hardenbergerweg,4,E,"",7692PA,Mariënberg
+Hardenbergerweg,4,E,"",7692PA,Mariënberg
+Hardenbergerweg,4,E,"",7692PA,Mariënberg
+Hardenbergerweg,5,"","",7692PA,Mariënberg
+Hardenbergerweg,5,A,"",7692PA,Mariënberg
+Hardenbergerweg,5,I,"",7692PA,Mariënberg
+Hardenbergerweg,5,I,"",7692PA,Mariënberg
+Hardenbergerweg,7,"","",7692PA,Mariënberg
+Hardenbergerweg,9,"","",7692PA,Mariënberg
+Tweede Elsweg,1,"","",7692PD,Mariënberg
+Tweede Elsweg,10,"","",7692PD,Mariënberg
+Tweede Elsweg,10,A,"",7692PD,Mariënberg
+Tweede Elsweg,11,"","",7692PD,Mariënberg
+Tweede Elsweg,12,"","",7692PD,Mariënberg
+Tweede Elsweg,12,A,"",7692PD,Mariënberg
+Tweede Elsweg,12,A,"",7692PD,Mariënberg
+Tweede Elsweg,12,A,"",7692PD,Mariënberg
+Tweede Elsweg,13,"","",7692PD,Mariënberg
+Tweede Elsweg,14,"","",7692PD,Mariënberg
+Tweede Elsweg,15,"","",7692PD,Mariënberg
+Tweede Elsweg,17,"","",7692PD,Mariënberg
+Tweede Elsweg,19,"","",7692PD,Mariënberg
+Tweede Elsweg,2,"","",7692PD,Mariënberg
+Tweede Elsweg,2,"","",7692PD,Mariënberg
+Tweede Elsweg,21,"","",7692PD,Mariënberg
+Tweede Elsweg,23,"","",7692PD,Mariënberg
+Tweede Elsweg,25,"","",7692PD,Mariënberg
+Tweede Elsweg,3,"","",7692PD,Mariënberg
+Tweede Elsweg,4,"","",7692PD,Mariënberg
+Tweede Elsweg,4,"","",7692PD,Mariënberg
+Tweede Elsweg,43,"","",7692PD,Mariënberg
+Tweede Elsweg,44,"","",7692PD,Mariënberg
+Tweede Elsweg,45,"","",7692PD,Mariënberg
+Tweede Elsweg,5,"","",7692PD,Mariënberg
+Tweede Elsweg,6,"","",7692PD,Mariënberg
+Tweede Elsweg,7,"","",7692PD,Mariënberg
+Tweede Elsweg,8,"","",7692PD,Mariënberg
+Tweede Elsweg,8,A,"",7692PD,Mariënberg
+Tweede Elsweg,9,"","",7692PD,Mariënberg
+Pijlspits,2,"","",7692PK,Mariënberg
+Zitgraven,1,"","",7692PL,Mariënberg
+Zitgraven,1,A,"",7692PL,Mariënberg
+Zitgraven,1,A,"",7692PL,Mariënberg
+Zitgraven,11,"","",7692PL,Mariënberg
+Zitgraven,11,"","",7692PL,Mariënberg
+Zitgraven,11,"","",7692PL,Mariënberg
+Zitgraven,13,"","",7692PL,Mariënberg
+Zitgraven,13,"","",7692PL,Mariënberg
+Zitgraven,15,"","",7692PL,Mariënberg
+Zitgraven,17,"","",7692PL,Mariënberg
+Zitgraven,19,"","",7692PL,Mariënberg
+Zitgraven,5,"","",7692PL,Mariënberg
+Zitgraven,7,"","",7692PL,Mariënberg
+Zitgraven,9,"","",7692PL,Mariënberg
+Vuursteen,1,"","",7692PM,Mariënberg
+Vuursteen,10,"","",7692PM,Mariënberg
+Vuursteen,12,"","",7692PM,Mariënberg
+Vuursteen,14,"","",7692PM,Mariënberg
+Vuursteen,18,"","",7692PM,Mariënberg
+Vuursteen,2,"","",7692PM,Mariënberg
+Vuursteen,3,"","",7692PM,Mariënberg
+Vuursteen,4,"","",7692PM,Mariënberg
+Vuursteen,5,"","",7692PM,Mariënberg
+Vuursteen,6,"","",7692PM,Mariënberg
+Vuursteen,7,"","",7692PM,Mariënberg
+Vuursteen,8,"","",7692PM,Mariënberg
+Vuursteen,8,"","",7692PM,Mariënberg
+Klopsteen,10,"","",7692PN,Mariënberg
+Klopsteen,12,"","",7692PN,Mariënberg
+Klopsteen,2,"","",7692PN,Mariënberg
+Klopsteen,20,"","",7692PN,Mariënberg
+Klopsteen,4,"","",7692PN,Mariënberg
+Klopsteen,8,"","",7692PN,Mariënberg
+Kuilhaarden,10,"","",7692PP,Mariënberg
+Kuilhaarden,12,"","",7692PP,Mariënberg
+Kuilhaarden,12,A,"",7692PP,Mariënberg
+Kuilhaarden,14,"","",7692PP,Mariënberg
+Kuilhaarden,2,"","",7692PP,Mariënberg
+Kuilhaarden,3,"","",7692PP,Mariënberg
+Kuilhaarden,4,"","",7692PP,Mariënberg
+Kuilhaarden,5,"","",7692PP,Mariënberg
+Kuilhaarden,6,"","",7692PP,Mariënberg
+Kuilhaarden,7,"","",7692PP,Mariënberg
+Kuilhaarden,8,"","",7692PP,Mariënberg
+Kuilhaarden,9,"","",7692PP,Mariënberg

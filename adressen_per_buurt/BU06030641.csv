@@ -1,10 +1,10 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2284TT,van Vredenburchweg,164,e,
-2284TT,van Vredenburchweg,162,,
-2284TT,van Vredenburchweg,164,a,
-2284TT,van Vredenburchweg,158,,
-2284TT,van Vredenburchweg,162,b,
-2284TT,van Vredenburchweg,164,,
-2284TT,van Vredenburchweg,164,c,
-2284TT,van Vredenburchweg,162,a,
-2284TT,van Vredenburchweg,158,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+van Vredenburchweg,158,"","",2284TT,Rijswijk
+van Vredenburchweg,158,A,"",2284TT,Rijswijk
+van Vredenburchweg,162,"","",2284TT,Rijswijk
+van Vredenburchweg,162,A,"",2284TT,Rijswijk
+van Vredenburchweg,162,B,"",2284TT,Rijswijk
+van Vredenburchweg,164,"","",2284TT,Rijswijk
+van Vredenburchweg,164,A,"",2284TT,Rijswijk
+van Vredenburchweg,164,C,"",2284TT,Rijswijk
+van Vredenburchweg,164,E,"",2284TT,Rijswijk

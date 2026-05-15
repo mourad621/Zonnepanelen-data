@@ -1,38 +1,38 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-3826NA,Achterhoekerweg,2,,
-3826NA,Achterhoekerweg,3,A,
-3826NC,Palestinaweg Oost,3,,
-3826NA,Achterhoekerweg,3,,
-3826NA,Achterhoekerweg,12,,
-3826NC,Palestinaweg Oost,5,,
-3826NE,Palissaden,5,,
-3826NC,Nieuwe Laakpad,3,,
-3826NA,Achterhoekerweg,4,,
-3826NA,Achterhoekerweg,12,A,
-3826NE,Palissaden,1,,
-3826NA,Achterhoekerweg,6,,
-3826NA,Achterhoekerweg,18,,
-3826ND,Domstraat,82,,
-3826ND,Domstraat,82,A,
-3826ND,Domstraat,82,B,
-3826NE,Palissaden,9,,
-3826ND,Domstraat,86,,
-3826NB,Palestinaweg,5,,
-3826NE,Palissaden,16,,
-3826ND,Domstraat,84,,
-3826NA,Achterhoekerweg,1,A,
-3826NA,Achterhoekerweg,1,,
-3826NB,Palestinaweg,3,,
-3826NB,Palestinaweg,4,,
-3826NA,Achterhoekerweg,10,,
-3826NE,Palissaden,4,,
-3826NC,Nieuwe Laakpad,1,,
-3826NA,Achterhoekerweg,21,,
-3826NA,Achterhoekerweg,19,,
-3826ND,Domstraat,80,,
-3826ND,Domstraat,80,,
-3826NA,Achterhoekerweg,8,,
-3826NA,Achterhoekerweg,9,,
-3826NA,Achterhoekerweg,11,,
-3826NA,Achterhoekerweg,13,,
-3826NA,Achterhoekerweg,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Achterhoekerweg,1,"","",3826NA,Amersfoort
+Achterhoekerweg,1,A,"",3826NA,Amersfoort
+Achterhoekerweg,10,"","",3826NA,Amersfoort
+Achterhoekerweg,11,"","",3826NA,Amersfoort
+Achterhoekerweg,12,"","",3826NA,Amersfoort
+Achterhoekerweg,12,A,"",3826NA,Amersfoort
+Achterhoekerweg,13,"","",3826NA,Amersfoort
+Achterhoekerweg,18,"","",3826NA,Amersfoort
+Achterhoekerweg,19,"","",3826NA,Amersfoort
+Achterhoekerweg,2,"","",3826NA,Amersfoort
+Achterhoekerweg,21,"","",3826NA,Amersfoort
+Achterhoekerweg,3,"","",3826NA,Amersfoort
+Achterhoekerweg,3,"","",3826NA,Amersfoort
+Achterhoekerweg,3,A,"",3826NA,Amersfoort
+Achterhoekerweg,4,"","",3826NA,Amersfoort
+Achterhoekerweg,6,"","",3826NA,Amersfoort
+Achterhoekerweg,8,"","",3826NA,Amersfoort
+Achterhoekerweg,9,"","",3826NA,Amersfoort
+Palestinaweg,3,"","",3826NB,Amersfoort
+Palestinaweg,4,"","",3826NB,Amersfoort
+Palestinaweg,5,"","",3826NB,Amersfoort
+Nieuwe Laakpad,1,"","",3826NC,Amersfoort
+Palestinaweg Oost,3,"","",3826NC,Amersfoort
+Palestinaweg Oost,3,"","",3826NC,Amersfoort
+Palestinaweg Oost,5,"","",3826NC,Amersfoort
+Domstraat,80,"","",3826ND,Amersfoort
+Domstraat,80,"","",3826ND,Amersfoort
+Domstraat,82,"","",3826ND,Amersfoort
+Domstraat,82,A,"",3826ND,Amersfoort
+Domstraat,82,B,"",3826ND,Amersfoort
+Domstraat,84,"","",3826ND,Amersfoort
+Domstraat,86,"","",3826ND,Amersfoort
+Palissaden,1,"","",3826NE,Amersfoort
+Palissaden,16,"","",3826NE,Amersfoort
+Palissaden,4,"","",3826NE,Amersfoort
+Palissaden,5,"","",3826NE,Amersfoort
+Palissaden,9,"","",3826NE,Amersfoort

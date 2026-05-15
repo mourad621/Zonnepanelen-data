@@ -1,80 +1,81 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7846TK",86,"",""
-"7846TK",77,"",""
-"7846TK",88,"",""
-"7846TK",75,"",""
-"7847TC",32,"",""
-"7847TC",22,"",""
-"7847TC",34,"",""
-"7847TC",38,"",""
-"7847TC",36,"",""
-"7847TC",40,"",""
-"7847TC",30,"a",""
-"7847TC",20,"",""
-"7847TC",24,"",""
-"7847TC",30,"",""
-"7847TC",26,"",""
-"7847TC",28,"",""
-"7847TE",6,"",""
-"7847TE",8,"",""
-"7847TE",4,"",""
-"7847TE",2,"",""
-"7847TG",1,"",""
-"7847TG",5,"a",""
-"7847TG",9,"",""
-"7847TG",7,"",""
-"7847TG",11,"",""
-"7847TG",5,"a",""
-"7847TG",5,"",""
-"7847TK",20,"",""
-"7847TK",12,"",""
-"7847TK",2,"",""
-"7847TK",8,"",""
-"7847TK",6,"",""
-"7847TK",26,"",""
-"7847TK",24,"",""
-"7847TK",4,"",""
-"7847TK",22,"",""
-"7847TK",14,"",""
-"7847TK",16,"",""
-"7847TK",10,"",""
-"7847TK",18,"",""
-7847TC,'t Haantje,20,,
-7847TC,'t Haantje,22,,
-7847TC,'t Haantje,24,,
-7847TC,'t Haantje,26,,
-7847TC,'t Haantje,28,,
-7847TC,'t Haantje,30,a,
-7847TC,'t Haantje,30,,
-7847TC,'t Haantje,32,,
-7847TC,'t Haantje,34,,
-7847TC,'t Haantje,36,,
-7847TC,'t Haantje,38,,
-7847TC,'t Haantje,40,,
-7846TK,'t Haantje,75,,
-7846TK,'t Haantje,77,,
-7846TK,'t Haantje,88,,
-7847TK,De Snikke,2,,
-7847TK,De Snikke,4,,
-7847TK,De Snikke,6,,
-7847TK,De Snikke,8,,
-7847TK,De Snikke,10,,
-7847TK,De Snikke,12,,
-7847TK,De Snikke,14,,
-7847TK,De Snikke,20,,
-7847TK,De Snikke,22,,
-7847TK,De Snikke,24,,
-7847TK,De Snikke,26,,
-7847TE,Kanaaldijk Noordzijde,2,,
-7847TE,Kanaaldijk Noordzijde,4,,
-7847TE,Kanaaldijk Noordzijde,6,,
-7847TE,Kanaaldijk Noordzijde,8,,
-7847TG,Kanaaldijk Zuidzijde,1,,
-7847TG,Kanaaldijk Zuidzijde,5,a,
-7847TG,Kanaaldijk Zuidzijde,5,,
-7847TG,Kanaaldijk Zuidzijde,7,,
-7847TG,Kanaaldijk Zuidzijde,9,,
-7847TG,Kanaaldijk Zuidzijde,11,,
-7846TK,'t Haantje,86,,
-7847TK,De Snikke,16,,
-7847TK,De Snikke,18,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+86,"","","",7846TK,
+77,"","","",7846TK,
+88,"","","",7846TK,
+75,"","","",7846TK,
+'t Haantje,75,"","",7846TK,Noord-Sleen
+'t Haantje,77,"","",7846TK,Noord-Sleen
+'t Haantje,86,"","",7846TK,Noord-Sleen
+'t Haantje,88,"","",7846TK,Noord-Sleen
+32,"","","",7847TC,
+22,"","","",7847TC,
+34,"","","",7847TC,
+38,"","","",7847TC,
+36,"","","",7847TC,
+40,"","","",7847TC,
+20,"","","",7847TC,
+24,"","","",7847TC,
+30,"","","",7847TC,
+26,"","","",7847TC,
+28,"","","",7847TC,
+'t Haantje,20,"","",7847TC,'t Haantje
+'t Haantje,22,"","",7847TC,'t Haantje
+'t Haantje,24,"","",7847TC,'t Haantje
+'t Haantje,26,"","",7847TC,'t Haantje
+'t Haantje,28,"","",7847TC,'t Haantje
+'t Haantje,30,"","",7847TC,'t Haantje
+'t Haantje,30,A,"",7847TC,'t Haantje
+'t Haantje,32,"","",7847TC,'t Haantje
+'t Haantje,34,"","",7847TC,'t Haantje
+'t Haantje,36,"","",7847TC,'t Haantje
+'t Haantje,38,"","",7847TC,'t Haantje
+'t Haantje,40,"","",7847TC,'t Haantje
+30,A,"","",7847TC,
+6,"","","",7847TE,
+8,"","","",7847TE,
+4,"","","",7847TE,
+2,"","","",7847TE,
+Kanaaldijk Noordzijde,2,"","",7847TE,'t Haantje
+Kanaaldijk Noordzijde,4,"","",7847TE,'t Haantje
+Kanaaldijk Noordzijde,6,"","",7847TE,'t Haantje
+Kanaaldijk Noordzijde,8,"","",7847TE,'t Haantje
+1,"","","",7847TG,
+9,"","","",7847TG,
+7,"","","",7847TG,
+11,"","","",7847TG,
+5,"","","",7847TG,
+Kanaaldijk Zuidzijde,1,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,11,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,5,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,5,A,"",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,7,"","",7847TG,'t Haantje
+Kanaaldijk Zuidzijde,9,"","",7847TG,'t Haantje
+5,A,"","",7847TG,
+5,A,"","",7847TG,
+20,"","","",7847TK,
+12,"","","",7847TK,
+2,"","","",7847TK,
+8,"","","",7847TK,
+6,"","","",7847TK,
+26,"","","",7847TK,
+24,"","","",7847TK,
+4,"","","",7847TK,
+22,"","","",7847TK,
+14,"","","",7847TK,
+16,"","","",7847TK,
+10,"","","",7847TK,
+18,"","","",7847TK,
+De Snikke,10,"","",7847TK,'t Haantje
+De Snikke,12,"","",7847TK,'t Haantje
+De Snikke,14,"","",7847TK,'t Haantje
+De Snikke,16,"","",7847TK,'t Haantje
+De Snikke,18,"","",7847TK,'t Haantje
+De Snikke,2,"","",7847TK,'t Haantje
+De Snikke,20,"","",7847TK,'t Haantje
+De Snikke,22,"","",7847TK,'t Haantje
+De Snikke,24,"","",7847TK,'t Haantje
+De Snikke,26,"","",7847TK,'t Haantje
+De Snikke,4,"","",7847TK,'t Haantje
+De Snikke,6,"","",7847TK,'t Haantje
+De Snikke,8,"","",7847TK,'t Haantje
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

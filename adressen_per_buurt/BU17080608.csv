@@ -1,70 +1,70 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8371TC,Woldlakeweg,4,,
-8371TC,Woldlakeweg,6,,
-8371TC,Woldlakeweg,8,,
-8371TC,Woldlakeweg,10,,
-8371TC,Woldlakeweg,12,,
-8371TC,Woldlakeweg,14,,
-8371TC,Woldlakeweg,16,,
-8371TC,Woldlakeweg,18,,
-8371TC,Woldlakeweg,1,,
-8371TC,Woldlakeweg,3,,
-8371TC,Woldlakeweg,5,,
-8371TC,Woldlakeweg,7,,
-8371TC,Woldlakeweg,9,,
-8371TC,Woldlakeweg,11,,
-8371TC,Woldlakeweg,2,,
-8371TD,Steenwijkerdiep-Noord,7,,
-8371TD,Steenwijkerdiep-Noord,9,,
-8371TD,Steenwijkerdiep-Noord,11,A,
-8371TD,Steenwijkerdiep-Noord,11,a,
-8371TD,Steenwijkerdiep-Noord,12,A,
-8371TD,Steenwijkerdiep-Noord,12,a,
-8371TD,Steenwijkerdiep-Noord,11,B,
-8371TD,Steenwijkerdiep-Noord,11,b,
-8371TD,Steenwijkerdiep-Noord,13,,
-8371TD,Steenwijkerdiep-Noord,15,,
-8371TD,Steenwijkerdiep-Noord,11,,
-8371TD,Steenwijkerdiep-Noord,8,,
-8371TD,Steenwijkerdiep-Noord,10,,
-8371TD,Steenwijkerdiep-Noord,12,,
-8371TD,Steenwijkerdiep-Noord,14,,
-8371TD,Steenwijkerdiep-Noord,14,A,
-8371TD,Steenwijkerdiep-Noord,14,a,
-8371TD,Steenwijkerdiep-Noord,16,,
-8371TB,A. F. Stroinkweg,7,,
-8371TB,A. F. Stroinkweg,9,,
-8371TB,A. F. Stroinkweg,8,,
-8371TB,A. F. Stroinkweg,10,t,
-8371TB,A. F. Stroinkweg,12,,
-8371TB,A. F. Stroinkweg,14,,
-8371TB,A. F. Stroinkweg,16,,
-8371TB,A. F. Stroinkweg,10,A,
-8371TB,A. F. Stroinkweg,10,a,
-8371TA,Hesselingendijk,16,A,
-8371TA,Hesselingendijk,16,a,
-8371TA,Hesselingendijk,4,,
-8371TA,Hesselingendijk,6,,
-8371TA,Hesselingendijk,8,,
-8371TA,Hesselingendijk,10,,
-8371TA,Hesselingendijk,10,A,
-8371TA,Hesselingendijk,10,a,
-8371TA,Hesselingendijk,12,A,
-8371TA,Hesselingendijk,12,a,
-8371TA,Hesselingendijk,14,,
-8371TA,Hesselingendijk,16,,
-8371TD,Ir. Luteijnweg,2,,
-8371TC,Woldlakeweg,4,t,
-8371TC,Woldlakeweg,9,t,
-8371TD,Steenwijkerdiep-Noord,11,c,
-8371TD,Steenwijkerdiep-Noord,7,t,
-8371TD,Steenwijkerdiep-Noord,16,t,
-8371TD,Steenwijkerdiep-Noord,11,t,
-8371TB,A. F. Stroinkweg,16,t,
-8371TA,Hesselingendijk,6,t,
-8371TD,Steenwijkerdiep-Noord,8,a,
-8371TD,Steenwijkerdiep-Noord,14,b,
-8371TD,Steenwijkerdiep-Noord,12,c,
-8371TD,Steenwijkerdiep-Noord,12,b,
-8371TB,A. F. Stroinkweg,9,a,
-8371TB,A. F. Stroinkweg,7,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Hesselingendijk,10,"","",8371TA,Scheerwolde
+Hesselingendijk,10,A,"",8371TA,Scheerwolde
+Hesselingendijk,10,A,"",8371TA,Scheerwolde
+Hesselingendijk,12,A,"",8371TA,Scheerwolde
+Hesselingendijk,12,A,"",8371TA,Scheerwolde
+Hesselingendijk,14,"","",8371TA,Scheerwolde
+Hesselingendijk,16,"","",8371TA,Scheerwolde
+Hesselingendijk,16,A,"",8371TA,Scheerwolde
+Hesselingendijk,16,A,"",8371TA,Scheerwolde
+Hesselingendijk,4,"","",8371TA,Scheerwolde
+Hesselingendijk,6,"","",8371TA,Scheerwolde
+Hesselingendijk,6,T,"",8371TA,Scheerwolde
+Hesselingendijk,8,"","",8371TA,Scheerwolde
+A. F. Stroinkweg,10,A,"",8371TB,Scheerwolde
+A. F. Stroinkweg,10,A,"",8371TB,Scheerwolde
+A. F. Stroinkweg,10,T,"",8371TB,Scheerwolde
+A. F. Stroinkweg,12,"","",8371TB,Scheerwolde
+A. F. Stroinkweg,14,"","",8371TB,Scheerwolde
+A. F. Stroinkweg,16,"","",8371TB,Scheerwolde
+A. F. Stroinkweg,16,T,"",8371TB,Scheerwolde
+A. F. Stroinkweg,7,"","",8371TB,Scheerwolde
+A. F. Stroinkweg,7,A,"",8371TB,Scheerwolde
+A. F. Stroinkweg,8,"","",8371TB,Scheerwolde
+A. F. Stroinkweg,9,"","",8371TB,Scheerwolde
+A. F. Stroinkweg,9,A,"",8371TB,Scheerwolde
+Woldlakeweg,1,"","",8371TC,Scheerwolde
+Woldlakeweg,10,"","",8371TC,Scheerwolde
+Woldlakeweg,11,"","",8371TC,Scheerwolde
+Woldlakeweg,12,"","",8371TC,Scheerwolde
+Woldlakeweg,14,"","",8371TC,Scheerwolde
+Woldlakeweg,16,"","",8371TC,Scheerwolde
+Woldlakeweg,18,"","",8371TC,Scheerwolde
+Woldlakeweg,2,"","",8371TC,Scheerwolde
+Woldlakeweg,3,"","",8371TC,Scheerwolde
+Woldlakeweg,4,"","",8371TC,Scheerwolde
+Woldlakeweg,4,T,"",8371TC,Scheerwolde
+Woldlakeweg,5,"","",8371TC,Scheerwolde
+Woldlakeweg,6,"","",8371TC,Scheerwolde
+Woldlakeweg,7,"","",8371TC,Scheerwolde
+Woldlakeweg,8,"","",8371TC,Scheerwolde
+Woldlakeweg,9,"","",8371TC,Scheerwolde
+Woldlakeweg,9,T,"",8371TC,Scheerwolde
+Steenwijkerdiep-Noord,10,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,B,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,B,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,C,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,11,T,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,12,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,12,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,12,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,12,B,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,12,C,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,13,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,14,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,14,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,14,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,14,B,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,15,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,16,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,16,T,"",8371TD,Scheerwolde
+Ir. Luteijnweg,2,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,7,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,7,T,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,8,"","",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,8,A,"",8371TD,Scheerwolde
+Steenwijkerdiep-Noord,9,"","",8371TD,Scheerwolde

@@ -1,68 +1,68 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-6269ND,Gen Hof,2,,
-6269ND,Gen Höf,2,,
-6269ND,Gen Hof,4,,
-6269ND,Gen Höf,4,,
-6269ND,Gen Hof,5,,
-6269ND,Gen Höf,5,,
-6269ND,Gen Hof,6,,
-6269ND,Gen Höf,6,,
-6269ND,Gen Hof,10,,
-6269ND,Gen Höf,10,,
-6269ND,Gen Hof,10,A,
-6269ND,Gen Höf,10,A,
-6269ND,Gen Hof,12,,
-6269ND,Gen Höf,12,,
-6269ND,Gen Hof,14,,
-6269ND,Gen Höf,14,,
-6269NC,In Gen Bauwerkoel,1,,
-6269NC,In Gen Bauwerkoel,3,,
-6269NC,In Gen Bauwerkoel,5,,
-6269NC,In Gen Bauwerkoel,6,,
-6269NC,In Gen Bauwerkoel,8,,
-6269AG,Termaar,51,,
-6269AG,Termaar,51,A,
-6269AG,Termaar,55,,
-6269AG,Termaar,57,,
-6269AG,Termaar,65,,
-6269AG,Termaar,67,,
-6269AG,Termaar,71,,
-6269AG,Termaar,73,,
-6269AG,Termaar,85,,
-6269AG,Termaar,87,,
-6269AG,Termaar,93,,
-6269AG,Termaar,95,,
-6269AG,Termaar,99,,
-6269AG,Termaar,99,A,
-6269AG,Termaar,101,,
-6269AG,Termaar,105,,
-6269AG,Termaar,115,,
-6269AG,Termaar,117,,
-6269AG,Termaar,119,,
-6269AJ,Termaar,42,,
-6269AJ,Termaar,46,,
-6269AJ,Termaar,48,,
-6269AJ,Termaar,50,,
-6269AJ,Termaar,52,,
-6269AJ,Termaar,56,,
-6269AJ,Termaar,58,,
-6269AJ,Termaar,60,,
-6269AJ,Termaar,62,,
-6269AJ,Termaar,100,,
-6269AJ,Termaar,102,,
-6269AJ,Termaar,102,A,
-6269AJ,Termaar,104,,
-6269AJ,Termaar,106,,
-6269AJ,Termaar,108,,
-6269AJ,Termaar,110,,
-6269AJ,Termaar,112,,
-6269AJ,Termaar,112,A,
-6269AJ,Termaar,114,,
-6269ND,Gen Hof,1,,
-6269ND,Gen Höf,1,,
-6269ND,Gen Hof,7,,
-6269ND,Gen Höf,7,,
-6269ND,Gen Hof,1,,
-6269ND,Gen Höf,1,,
-6269AJ,Termaar,54,,
-6269AJ,Termaar,48,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Termaar,101,"","",6269AG,Margraten
+Termaar,105,"","",6269AG,Margraten
+Termaar,115,"","",6269AG,Margraten
+Termaar,117,"","",6269AG,Margraten
+Termaar,119,"","",6269AG,Margraten
+Termaar,51,"","",6269AG,Margraten
+Termaar,51,A,"",6269AG,Margraten
+Termaar,55,"","",6269AG,Margraten
+Termaar,57,"","",6269AG,Margraten
+Termaar,65,"","",6269AG,Margraten
+Termaar,67,"","",6269AG,Margraten
+Termaar,71,"","",6269AG,Margraten
+Termaar,73,"","",6269AG,Margraten
+Termaar,85,"","",6269AG,Margraten
+Termaar,87,"","",6269AG,Margraten
+Termaar,93,"","",6269AG,Margraten
+Termaar,95,"","",6269AG,Margraten
+Termaar,99,"","",6269AG,Margraten
+Termaar,99,A,"",6269AG,Margraten
+Termaar,100,"","",6269AJ,Margraten
+Termaar,102,"","",6269AJ,Margraten
+Termaar,102,A,"",6269AJ,Margraten
+Termaar,104,"","",6269AJ,Margraten
+Termaar,106,"","",6269AJ,Margraten
+Termaar,108,"","",6269AJ,Margraten
+Termaar,110,"","",6269AJ,Margraten
+Termaar,112,"","",6269AJ,Margraten
+Termaar,112,A,"",6269AJ,Margraten
+Termaar,114,"","",6269AJ,Margraten
+Termaar,42,"","",6269AJ,Margraten
+Termaar,46,"","",6269AJ,Margraten
+Termaar,48,"","",6269AJ,Margraten
+Termaar,48,"","",6269AJ,Margraten
+Termaar,50,"","",6269AJ,Margraten
+Termaar,52,"","",6269AJ,Margraten
+Termaar,54,"","",6269AJ,Margraten
+Termaar,56,"","",6269AJ,Margraten
+Termaar,58,"","",6269AJ,Margraten
+Termaar,60,"","",6269AJ,Margraten
+Termaar,62,"","",6269AJ,Margraten
+In Gen Bauwerkoel,1,"","",6269NC,Margraten
+In Gen Bauwerkoel,3,"","",6269NC,Margraten
+In Gen Bauwerkoel,5,"","",6269NC,Margraten
+In Gen Bauwerkoel,6,"","",6269NC,Margraten
+In Gen Bauwerkoel,8,"","",6269NC,Margraten
+Gen Hof,1,"","",6269ND,Margraten
+Gen Hof,1,"","",6269ND,Margraten
+Gen Hof,1,"","",6269ND,Margraten
+Gen Hof,1,"","",6269ND,Margraten
+Gen Hof,10,"","",6269ND,Margraten
+Gen Hof,10,"","",6269ND,Margraten
+Gen Hof,10,A,"",6269ND,Margraten
+Gen Hof,10,A,"",6269ND,Margraten
+Gen Hof,12,"","",6269ND,Margraten
+Gen Hof,12,"","",6269ND,Margraten
+Gen Hof,14,"","",6269ND,Margraten
+Gen Hof,14,"","",6269ND,Margraten
+Gen Hof,2,"","",6269ND,Margraten
+Gen Hof,2,"","",6269ND,Margraten
+Gen Hof,4,"","",6269ND,Margraten
+Gen Hof,4,"","",6269ND,Margraten
+Gen Hof,5,"","",6269ND,Margraten
+Gen Hof,5,"","",6269ND,Margraten
+Gen Hof,6,"","",6269ND,Margraten
+Gen Hof,6,"","",6269ND,Margraten
+Gen Hof,7,"","",6269ND,Margraten
+Gen Hof,7,"","",6269ND,Margraten

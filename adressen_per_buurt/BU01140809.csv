@@ -1,460 +1,237 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"7891EV",1,"",""
-"7891EV",24,"",""
-"7891EV",2,"",""
-"7891EV",3,"",""
-"7891EV",24,"",""
-"7891EV",3,"A",""
-"7891EV",1,"A",""
-"7891EV",3,"A",""
-"7891EV",24,"A",""
-"7891GA",22,"",""
-"7891GA",22,"",""
-"7891GA",12,"",""
-"7891GA",17,"",""
-"7891GA",12,"","I"
-"7891GA",23,"",""
-"7891GA",21,"",""
-"7891GA",19,"",""
-"7891GA",24,"",""
-"7891GA",12,"","I"
-"7891GA",5,"",""
-"7891GA",5,"","TR"
-"7891GA",5,"",""
-"7891NL",105,"",""
-"7891NL",102,"",""
-"7891NL",91,"",""
-"7891NL",103,"",""
-"7891NL",104,"",""
-"7891NL",103,"",""
-"7891NL",95,"",""
-"7891NL",99,"",""
-"7891NL",101,"",""
-"7891NL",106,"",""
-"7891NL",107,"",""
-"7891NL",56,"","BY"
-"7891NL",105,"A",""
-"7891NL",56,"","TR"
-"7891NL",97,"",""
-"7891NL",77,"",""
-"7891NL",93,"",""
-"7891NL",96,"",""
-"7891NL",53,"",""
-"7891NL",54,"",""
-"7891NL",98,"",""
-"7891NL",52,"",""
-"7891NL",56,"",""
-"7891NL",55,"",""
-"7891NL",56,"",""
-"7891NM",110,"",""
-"7891NM",115,"",""
-"7891NM",109,"",""
-"7891NM",118,"",""
-"7891NM",116,"",""
-"7891NM",112,"",""
-"7891NM",113,"",""
-"7891NM",108,"",""
-"7891NM",111,"",""
-"7891NM",310,"",""
-"7891NM",117,"",""
-"7891NM",119,"",""
-"7891NV",1,"",""
-"7891NV",7,"",""
-"7891NV",9,"",""
-"7891NV",3,"",""
-"7891NV",5,"A",""
-"7891NV",2,"",""
-"7891NV",5,"",""
-"7891NV",8,"",""
-"7891NW",3,"",""
-"7891NW",61,"",""
-"7891NW",37,"",""
-"7891NW",41,"",""
-"7891NW",13,"",""
-"7891NW",65,"","TR"
-"7891NW",69,"",""
-"7891NW",21,"",""
-"7891NW",73,"",""
-"7891NW",39,"",""
-"7891NW",25,"",""
-"7891NW",89,"",""
-"7891NW",37,"",""
-"7891NW",71,"",""
-"7891NW",71,"",""
-"7891NW",67,"",""
-"7891NW",35,"",""
-"7891NW",71,"",""
-"7891NW",29,"",""
-"7891NW",65,"",""
-"7891NW",33,"",""
-"7891NW",19,"",""
-"7891NW",1,"",""
-"7891NW",17,"",""
-"7891NW",39,"",""
-"7891NW",23,"",""
-"7891NW",31,"A",""
-"7891NW",31,"A",""
-"7891NW",65,"","TR"
-"7891NW",51,"",""
-"7891NW",5,"",""
-"7891NW",71,"",""
-"7891NW",31,"",""
-"7891NW",37,"",""
-"7891NX",34,"",""
-"7891NX",36,"",""
-"7891NX",40,"",""
-"7891NX",32,"",""
-"7891NX",30,"",""
-"7891NX",24,"",""
-"7891NX",38,"","TR"
-"7891NX",44,"",""
-"7891NX",28,"A",""
-"7891NX",38,"",""
-"7891NX",22,"",""
-"7891NX",104,"",""
-"7891NX",102,"",""
-"7891NX",52,"",""
-"7891NX",130,"",""
-"7891NX",50,"",""
-"7891NX",120,"",""
-"7891NX",26,"",""
-"7891NX",10,"",""
-"7891NX",96,"",""
-"7891NX",42,"",""
-"7891NX",110,"",""
-"7891NX",28,"",""
-"7891NX",122,"",""
-"7891NX",16,"",""
-"7891NX",38,"","TR"
-"7891NX",128,"",""
-"7891NX",10,"",""
-"7891NX",20,"",""
-"7891NX",56,"",""
-"7891NX",14,"",""
-"7891NX",116,"",""
-"7891NX",6,"",""
-"7891NX",48,"",""
-"7891NX",54,"",""
-"7891NX",12,"",""
-"7891NX",4,"",""
-"7891NX",22,"","BEDR"
-"7891NX",22,"A",""
-"7891NX",18,"",""
-"7891NX",108,"",""
-"7891NX",14,"A",""
-"7891NX",112,"",""
-"7891NX",46,"",""
-"7891NX",106,"",""
-"7891NX",2,"",""
-"7891NZ",1,"",""
-"7891NZ",2,"",""
-"7891PD",2,"",""
-"7891PS",3,"",""
-"7891PS",4,"",""
-"7891RE",19,"B",""
-"7891RE",11,"",""
-"7891RE",21,"",""
-"7891RE",27,"",""
-"7891RE",25,"",""
-"7891RG",12,"",""
-"7891RG",40,"",""
-"7891RG",2,"",""
-"7891RG",10,"",""
-"7891RG",20,"",""
-"7891RG",16,"",""
-"7891RG",26,"",""
-"7891TG",83,"",""
-"7891TG",87,"A",""
-"7891TG",67,"A",""
-"7891TG",82,"",""
-"7891TG",68,"",""
-"7891TG",82,"",""
-"7891TG",69,"",""
-"7891TG",67,"",""
-"7891TG",83,"",""
-"7891TG",81,"",""
-"7891TG",87,"",""
-"7891TG",67,"",""
-"7891TG",65,"",""
-"7891TG",65,"",""
-"7891TG",67,"",""
-"7891TG",87,"",""
-"7891TG",67,"",""
-"7891TG",87,"",""
-"7891TG",66,"",""
-"7891TG",69,"",""
-"7891TG",69,"",""
-"7891TG",87,"",""
-"7891TG",68,"",""
-"7891TG",81,"",""
-"7891TH",7,"",""
-"7891TH",7,"A",""
-"7891TH",9,"",""
-"7891TH",2,"",""
-"7891TH",7,"A",""
-"7891TH",11,"",""
-"7891TH",13,"",""
-"7891TH",2,"A",""
-"7891TH",1,"",""
-"7891TJ",207,"",""
-"7891TJ",206,"",""
-"7891TJ",207,"",""
-"7891TJ",190,"",""
-"7891TK",27,"",""
-"7891TK",27,"",""
-"7891TK",89,"",""
-"7891TK",27,"",""
-"7891TK",27,"",""
-"7891TK",41,"","TR"
-"7891TK",63,"",""
-"7891TK",31,"",""
-"7891TK",47,"",""
-"7891TK",55,"",""
-"7891TK",27,"",""
-"7891TK",84,"",""
-"7891TK",41,"","TR"
-"7891TK",49,"",""
-"7891TK",41,"",""
-"7891TK",48,"",""
-"7891TL",72,"I",""
-"7891TL",22,"",""
-"7891TL",22,"","TR"
-"7891TL",30,"",""
-"7891TL",12,"",""
-"7891TL",22,"","TR"
-"7891TL",31,"",""
-"7891TL",32,"",""
-"7891TL",3,"",""
-"7891TM",14,"",""
-"7891TM",26,"","TR"
-"7891TM",33,"","TR"
-"7891TM",33,"","TR"
-"7891TM",30,"",""
-"7891TM",26,"",""
-"7891TM",33,"",""
-"7891TM",34,"",""
-"7891TM",30,"",""
-"7891TM",26,"","TR"
-7891NW,Veenhoeksweg,73,,
-7891NW,Veenhoeksweg,67,,
-7891NW,Veenhoeksweg,69,,
-7891NM,Dordsedijk,310,,
-7891NM,Dordsedijk,118,,
-7891NM,Dordsedijk,115,,
-7891NM,Dordsedijk,119,,
-7891NM,Dordsedijk,111,,
-7891NM,Dordsedijk,112,,
-7891NM,Dordsedijk,109,,
-7891TJ,Dordsedijk,190,,
-7891GA,Langestraat,22,,
-7891GA,Langestraat,22,,
-7891RE,Mosweg,21,,
-7891RE,Mosweg,27,,
-7891RE,Mosweg,25,,
-7891EV,Mr. Ovingkanaal OZ,24,,
-7891TG,Mr. Ovingstraat,81,,
-7891TG,Mr. Ovingstraat,81,,
-7891TK,Schutwijk ZZ,31,,
-7891TK,Schutwijk ZZ,89,,
-7891NV,Smallegang,3,,
-7891NV,Smallegang,9,,
-7891PS,Boerenglop,4,,
-7891TL,Van Echtenskanaal NZ,12,,
-7891NW,Veenhoeksweg,29,,
-7891NW,Veenhoeksweg,33,,
-7891NX,Veenhoeksweg,48,,
-7891NX,Veenhoeksweg,46,,
-7891NX,Veenhoeksweg,38,,
-7891NX,Veenhoeksweg,40,,
-7891NX,Veenhoeksweg,36,,
-7891NX,Veenhoeksweg,34,,
-7891NX,Veenhoeksweg,24,,
-7891NX,Veenhoeksweg,4,,
-7891NX,Veenhoeksweg,16,,
-7891NX,Veenhoeksweg,120,,
-7891NX,Veenhoeksweg,116,,
-7891NX,Veenhoeksweg,122,,
-7891NL,Dordsedijk,105,A,
-7891NM,Dordsedijk,113,,
-7891TJ,Dordsedijk,207,,
-7891GA,Langestraat,23,,
-7891RG,Mosweg,20,,
-7891RG,Mosweg,10,,
-7891EV,Mr. Ovingkanaal OZ,24,A,
-7891TG,Mr. Ovingstraat,66,,
-7891TG,Mr. Ovingstraat,87,,
-7891TG,Mr. Ovingstraat,87,,
-7891TG,Mr. Ovingstraat,68,,
-7891TG,Mr. Ovingstraat,68,,
-7891TG,Mr. Ovingstraat,65,,
-7891TG,Mr. Ovingstraat,65,,
-7891TK,Schutwijk ZZ,47,,
-7891NV,Smallegang,7,,
-7891PS,Boerenglop,3,,
-7891NW,Veenhoeksweg,65,,
-7891NW,Veenhoeksweg,13,,
-7891NW,Veenhoeksweg,1,,
-7891NX,Veenhoeksweg,32,,
-7891NX,Veenhoeksweg,12,,
-7891NX,Veenhoeksweg,2,,
-7891TM,Verlengde Noordersloot,14,,
-7891NL,Dordsedijk,95,,
-7891NL,Dordsedijk,105,,
-7891NL,Dordsedijk,102,,
-7891NL,Dordsedijk,77,,
-7891NM,Dordsedijk,117,,
-7891PD,Hogewal,2,,
-7891GA,Langestraat,12,,
-7891NZ,Moorweg,2,,
-7891RE,Mosweg,19,B,
-7891EV,Mr. Ovingkanaal OZ,1,A,
-7891TG,Mr. Ovingstraat,83,,
-7891TG,Mr. Ovingstraat,83,,
-7891TK,Schutwijk ZZ,84,,
-7891NV,Smallegang,5,,
-7891NV,Smallegang,8,,
-7891TL,Van Echtenskanaal NZ,22,,
-7891TL,Van Echtenskanaal NZ,31,,
-7891TL,Van Echtenskanaal NZ,30,,
-7891NW,Veenhoeksweg,37,,
-7891NW,Veenhoeksweg,25,,
-7891NW,Veenhoeksweg,35,,
-7891NW,Veenhoeksweg,89,,
-7891NX,Veenhoeksweg,14,A,
-7891NX,Veenhoeksweg,52,,
-7891NX,Veenhoeksweg,28,A,
-7891NX,Veenhoeksweg,10,,
-7891NX,Veenhoeksweg,10,,
-7891NX,Veenhoeksweg,130,,
-7891NX,Veenhoeksweg,110,,
-7891TM,Verlengde Noordersloot,34,,
-7891TH,Verlengde Scheperweg,2,A,
-7891NL,Dordsedijk,107,,
-7891NL,Dordsedijk,99,,
-7891GA,Langestraat,12,,I
-7891GA,Langestraat,5,,
-7891GA,Langestraat,5,,
-7891GA,Langestraat,19,,
-7891NZ,Moorweg,1,,
-7891RG,Mosweg,2,,
-7891EV,Mr. Ovingkanaal OZ,3,,
-7891TG,Mr. Ovingstraat,67,,
-7891TG,Mr. Ovingstraat,67,,
-7891TK,Schutwijk ZZ,48,,
-7891NV,Smallegang,1,,
-7891NW,Veenhoeksweg,61,,
-7891NW,Veenhoeksweg,31,,
-7891NW,Veenhoeksweg,19,,
-7891NX,Veenhoeksweg,22,,BEDR
-7891NX,Veenhoeksweg,22,A,
-7891NX,Veenhoeksweg,128,,
-7891NX,Veenhoeksweg,50,,
-7891NX,Veenhoeksweg,42,,
-7891NX,Veenhoeksweg,26,,
-7891NX,Veenhoeksweg,28,,
-7891NX,Veenhoeksweg,102,,
-7891NL,Dordsedijk,104,,
-7891NL,Dordsedijk,54,,
-7891NL,Dordsedijk,56,,
-7891NL,Dordsedijk,56,,
-7891NL,Dordsedijk,56,,BY
-7891NL,Dordsedijk,56,,TR
-7891NL,Dordsedijk,96,,
-7891NL,Dordsedijk,103,,
-7891NL,Dordsedijk,103,,
-7891NL,Dordsedijk,106,,
-7891NM,Dordsedijk,116,,
-7891NM,Dordsedijk,110,,
-7891NM,Dordsedijk,108,,
-7891GA,Langestraat,21,,
-7891GA,Langestraat,17,,
-7891RG,Mosweg,16,,
-7891RG,Mosweg,26,,
-7891EV,Mr. Ovingkanaal OZ,1,,
-7891TG,Mr. Ovingstraat,82,,
-7891TG,Mr. Ovingstraat,82,,
-7891TK,Schutwijk ZZ,49,,
-7891TK,Schutwijk ZZ,27,,
-7891NV,Smallegang,2,,
-7891NW,Veenhoeksweg,21,,
-7891NW,Veenhoeksweg,17,,
-7891NW,Veenhoeksweg,3,,
-7891NW,Veenhoeksweg,71,,
-7891NW,Veenhoeksweg,51,,
-7891NW,Veenhoeksweg,41,,
-7891NW,Veenhoeksweg,23,,
-7891NW,Veenhoeksweg,5,,
-7891NX,Veenhoeksweg,6,,
-7891NX,Veenhoeksweg,14,,
-7891NX,Veenhoeksweg,108,,
-7891NX,Veenhoeksweg,96,,
-7891NX,Veenhoeksweg,54,,
-7891NX,Veenhoeksweg,44,,
-7891NX,Veenhoeksweg,104,,
-7891NX,Veenhoeksweg,106,,
-7891TH,Verlengde Scheperweg,7,,
-7891TH,Verlengde Scheperweg,13,,
-7891TH,Verlengde Scheperweg,2,,
-7891NL,Dordsedijk,55,,
-7891NL,Dordsedijk,52,,
-7891NL,Dordsedijk,97,,
-7891NL,Dordsedijk,101,,
-7891NL,Dordsedijk,93,,
-7891NL,Dordsedijk,98,,
-7891NL,Dordsedijk,53,,
-7891TJ,Dordsedijk,206,,
-7891GA,Langestraat,24,,
-7891RE,Mosweg,11,,
-7891RG,Mosweg,40,,
-7891TG,Mr. Ovingstraat,69,,
-7891TG,Mr. Ovingstraat,69,,
-7891TG,Mr. Ovingstraat,69,,
-7891TK,Schutwijk ZZ,63,,
-7891TK,Schutwijk ZZ,55,,
-7891TK,Schutwijk ZZ,41,,
-7891TL,Van Echtenskanaal NZ,72,I,
-7891TL,Van Echtenskanaal NZ,3,,
-7891TL,Van Echtenskanaal NZ,32,,
-7891NX,Veenhoeksweg,22,,
-7891NX,Veenhoeksweg,30,,
-7891NX,Veenhoeksweg,18,,
-7891NX,Veenhoeksweg,20,,
-7891NX,Veenhoeksweg,112,,
-7891TM,Verlengde Noordersloot,26,,
-7891TM,Verlengde Noordersloot,33,,
-7891NL,Dordsedijk,91,,
-7891RG,Mosweg,12,,
-7891EV,Mr. Ovingkanaal OZ,2,,
-7891NW,Veenhoeksweg,39,,
-7891NW,Veenhoeksweg,39,,
-7891NW,Veenhoeksweg,65,,TR
-7891NW,Veenhoeksweg,65,,TR
-7891TM,Verlengde Noordersloot,30,,
-7891TH,Verlengde Scheperweg,9,,
-7891TH,Verlengde Scheperweg,1,,
-7891TH,Verlengde Scheperweg,11,,
-7891GA,Langestraat,5,,TR
-7891EV,Mr. Ovingkanaal OZ,3,A,
-7891EV,Mr. Ovingkanaal OZ,3,A,
-7891TG,Mr. Ovingstraat,87,,
-7891TG,Mr. Ovingstraat,67,A,
-7891TG,Mr. Ovingstraat,67,,
-7891TG,Mr. Ovingstraat,87,A,
-7891TK,Schutwijk ZZ,41,,TR
-7891TK,Schutwijk ZZ,27,,
-7891TK,Schutwijk ZZ,27,,
-7891TK,Schutwijk ZZ,27,,
-7891NV,Smallegang,5,A,
-7891TL,Van Echtenskanaal NZ,22,,TR
-7891NW,Veenhoeksweg,37,,
-7891NW,Veenhoeksweg,71,,
-7891NW,Veenhoeksweg,71,,
-7891NX,Veenhoeksweg,38,,TR
-7891NX,Veenhoeksweg,38,,TR
-7891NX,Veenhoeksweg,56,,
-7891TM,Verlengde Noordersloot,26,,TR
-7891TM,Verlengde Noordersloot,33,,TR
-7891TH,Verlengde Scheperweg,7,A,
-7891EV,Meridiaan,24,,
-7891NW,Veenhoeksweg,31,A,
-7891NW,Veenhoeksweg,31,A,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Mr. Ovingkanaal OZ,1,"","",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,1,A,"",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,2,"","",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,24,"","",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,24,"","",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,24,A,"",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,3,"","",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,3,A,"",7891EV,Klazienaveen
+Mr. Ovingkanaal OZ,3,A,"",7891EV,Klazienaveen
+Langestraat,12,"","",7891GA,Klazienaveen
+Langestraat,12,"",I,7891GA,Klazienaveen
+Langestraat,12,"",I,7891GA,Klazienaveen
+Langestraat,17,"","",7891GA,Klazienaveen
+Langestraat,19,"","",7891GA,Klazienaveen
+Langestraat,21,"","",7891GA,Klazienaveen
+Langestraat,22,"","",7891GA,Klazienaveen
+Langestraat,22,"","",7891GA,Klazienaveen
+Langestraat,23,"","",7891GA,Klazienaveen
+Langestraat,24,"","",7891GA,Klazienaveen
+Langestraat,5,"","",7891GA,Klazienaveen
+Langestraat,5,"","",7891GA,Klazienaveen
+Langestraat,5,"",TR,7891GA,Klazienaveen
+Dordsedijk,101,"","",7891NL,Klazienaveen
+Dordsedijk,102,"","",7891NL,Klazienaveen
+Dordsedijk,103,"","",7891NL,Klazienaveen
+Dordsedijk,103,"","",7891NL,Klazienaveen
+Dordsedijk,104,"","",7891NL,Klazienaveen
+Dordsedijk,105,"","",7891NL,Klazienaveen
+Dordsedijk,105,A,"",7891NL,Klazienaveen
+Dordsedijk,106,"","",7891NL,Klazienaveen
+Dordsedijk,107,"","",7891NL,Klazienaveen
+Dordsedijk,52,"","",7891NL,Klazienaveen
+Dordsedijk,53,"","",7891NL,Klazienaveen
+Dordsedijk,54,"","",7891NL,Klazienaveen
+Dordsedijk,55,"","",7891NL,Klazienaveen
+Dordsedijk,56,"","",7891NL,Klazienaveen
+Dordsedijk,56,"","",7891NL,Klazienaveen
+Dordsedijk,56,"",BY,7891NL,Klazienaveen
+Dordsedijk,56,"",TR,7891NL,Klazienaveen
+Dordsedijk,77,"","",7891NL,Klazienaveen
+Dordsedijk,91,"","",7891NL,Klazienaveen
+Dordsedijk,93,"","",7891NL,Klazienaveen
+Dordsedijk,95,"","",7891NL,Klazienaveen
+Dordsedijk,96,"","",7891NL,Klazienaveen
+Dordsedijk,97,"","",7891NL,Klazienaveen
+Dordsedijk,98,"","",7891NL,Klazienaveen
+Dordsedijk,99,"","",7891NL,Klazienaveen
+Dordsedijk,108,"","",7891NM,Klazienaveen
+Dordsedijk,109,"","",7891NM,Klazienaveen
+Dordsedijk,110,"","",7891NM,Klazienaveen
+Dordsedijk,111,"","",7891NM,Klazienaveen
+Dordsedijk,112,"","",7891NM,Klazienaveen
+Dordsedijk,113,"","",7891NM,Klazienaveen
+Dordsedijk,115,"","",7891NM,Klazienaveen
+Dordsedijk,116,"","",7891NM,Klazienaveen
+Dordsedijk,117,"","",7891NM,Klazienaveen
+Dordsedijk,118,"","",7891NM,Klazienaveen
+Dordsedijk,119,"","",7891NM,Klazienaveen
+Dordsedijk,310,"","",7891NM,Klazienaveen
+Smallegang,1,"","",7891NV,Klazienaveen
+Smallegang,2,"","",7891NV,Klazienaveen
+Smallegang,3,"","",7891NV,Klazienaveen
+Smallegang,5,"","",7891NV,Klazienaveen
+Smallegang,5,A,"",7891NV,Klazienaveen
+Smallegang,7,"","",7891NV,Klazienaveen
+Smallegang,8,"","",7891NV,Klazienaveen
+Smallegang,9,"","",7891NV,Klazienaveen
+Veenhoeksweg,1,"","",7891NW,Klazienaveen
+Veenhoeksweg,13,"","",7891NW,Klazienaveen
+Veenhoeksweg,17,"","",7891NW,Klazienaveen
+Veenhoeksweg,19,"","",7891NW,Klazienaveen
+Veenhoeksweg,21,"","",7891NW,Klazienaveen
+Veenhoeksweg,23,"","",7891NW,Klazienaveen
+Veenhoeksweg,25,"","",7891NW,Klazienaveen
+Veenhoeksweg,29,"","",7891NW,Klazienaveen
+Veenhoeksweg,3,"","",7891NW,Klazienaveen
+Veenhoeksweg,31,"","",7891NW,Klazienaveen
+Veenhoeksweg,31,A,"",7891NW,Klazienaveen
+Veenhoeksweg,31,A,"",7891NW,Klazienaveen
+Veenhoeksweg,33,"","",7891NW,Klazienaveen
+Veenhoeksweg,35,"","",7891NW,Klazienaveen
+Veenhoeksweg,37,"","",7891NW,Klazienaveen
+Veenhoeksweg,37,"","",7891NW,Klazienaveen
+Veenhoeksweg,37,"","",7891NW,Klazienaveen
+Veenhoeksweg,39,"","",7891NW,Klazienaveen
+Veenhoeksweg,39,"","",7891NW,Klazienaveen
+Veenhoeksweg,41,"","",7891NW,Klazienaveen
+Veenhoeksweg,5,"","",7891NW,Klazienaveen
+Veenhoeksweg,51,"","",7891NW,Klazienaveen
+Veenhoeksweg,61,"","",7891NW,Klazienaveen
+Veenhoeksweg,65,"","",7891NW,Klazienaveen
+Veenhoeksweg,65,"",TR,7891NW,Klazienaveen
+Veenhoeksweg,65,"",TR,7891NW,Klazienaveen
+Veenhoeksweg,67,"","",7891NW,Klazienaveen
+Veenhoeksweg,69,"","",7891NW,Klazienaveen
+Veenhoeksweg,71,"","",7891NW,Klazienaveen
+Veenhoeksweg,71,"","",7891NW,Klazienaveen
+Veenhoeksweg,71,"","",7891NW,Klazienaveen
+Veenhoeksweg,71,"","",7891NW,Klazienaveen
+Veenhoeksweg,73,"","",7891NW,Klazienaveen
+Veenhoeksweg,89,"","",7891NW,Klazienaveen
+Veenhoeksweg,10,"","",7891NX,Klazienaveen
+Veenhoeksweg,10,"","",7891NX,Klazienaveen
+Veenhoeksweg,102,"","",7891NX,Klazienaveen
+Veenhoeksweg,104,"","",7891NX,Klazienaveen
+Veenhoeksweg,106,"","",7891NX,Klazienaveen
+Veenhoeksweg,108,"","",7891NX,Klazienaveen
+Veenhoeksweg,110,"","",7891NX,Klazienaveen
+Veenhoeksweg,112,"","",7891NX,Klazienaveen
+Veenhoeksweg,116,"","",7891NX,Klazienaveen
+Veenhoeksweg,12,"","",7891NX,Klazienaveen
+Veenhoeksweg,120,"","",7891NX,Klazienaveen
+Veenhoeksweg,122,"","",7891NX,Klazienaveen
+Veenhoeksweg,128,"","",7891NX,Klazienaveen
+Veenhoeksweg,130,"","",7891NX,Klazienaveen
+Veenhoeksweg,14,"","",7891NX,Klazienaveen
+Veenhoeksweg,14,A,"",7891NX,Klazienaveen
+Veenhoeksweg,16,"","",7891NX,Klazienaveen
+Veenhoeksweg,18,"","",7891NX,Klazienaveen
+Veenhoeksweg,2,"","",7891NX,Klazienaveen
+Veenhoeksweg,20,"","",7891NX,Klazienaveen
+Veenhoeksweg,22,"","",7891NX,Klazienaveen
+Veenhoeksweg,22,"",BEDR,7891NX,Klazienaveen
+Veenhoeksweg,22,A,"",7891NX,Klazienaveen
+Veenhoeksweg,24,"","",7891NX,Klazienaveen
+Veenhoeksweg,26,"","",7891NX,Klazienaveen
+Veenhoeksweg,28,"","",7891NX,Klazienaveen
+Veenhoeksweg,28,A,"",7891NX,Klazienaveen
+Veenhoeksweg,30,"","",7891NX,Klazienaveen
+Veenhoeksweg,32,"","",7891NX,Klazienaveen
+Veenhoeksweg,34,"","",7891NX,Klazienaveen
+Veenhoeksweg,36,"","",7891NX,Klazienaveen
+Veenhoeksweg,38,"","",7891NX,Klazienaveen
+Veenhoeksweg,38,"",TR,7891NX,Klazienaveen
+Veenhoeksweg,38,"",TR,7891NX,Klazienaveen
+Veenhoeksweg,4,"","",7891NX,Klazienaveen
+Veenhoeksweg,40,"","",7891NX,Klazienaveen
+Veenhoeksweg,42,"","",7891NX,Klazienaveen
+Veenhoeksweg,44,"","",7891NX,Klazienaveen
+Veenhoeksweg,46,"","",7891NX,Klazienaveen
+Veenhoeksweg,48,"","",7891NX,Klazienaveen
+Veenhoeksweg,50,"","",7891NX,Klazienaveen
+Veenhoeksweg,52,"","",7891NX,Klazienaveen
+Veenhoeksweg,54,"","",7891NX,Klazienaveen
+Veenhoeksweg,56,"","",7891NX,Klazienaveen
+Veenhoeksweg,6,"","",7891NX,Klazienaveen
+Veenhoeksweg,96,"","",7891NX,Klazienaveen
+Moorweg,1,"","",7891NZ,Klazienaveen
+Moorweg,2,"","",7891NZ,Klazienaveen
+Hogewal,2,"","",7891PD,Klazienaveen
+Boerenglop,3,"","",7891PS,Klazienaveen
+Boerenglop,4,"","",7891PS,Klazienaveen
+Mosweg,11,"","",7891RE,Klazienaveen
+Mosweg,19,B,"",7891RE,Klazienaveen
+Mosweg,21,"","",7891RE,Klazienaveen
+Mosweg,25,"","",7891RE,Klazienaveen
+Mosweg,27,"","",7891RE,Klazienaveen
+Mosweg,10,"","",7891RG,Klazienaveen
+Mosweg,12,"","",7891RG,Klazienaveen
+Mosweg,16,"","",7891RG,Klazienaveen
+Mosweg,2,"","",7891RG,Klazienaveen
+Mosweg,20,"","",7891RG,Klazienaveen
+Mosweg,26,"","",7891RG,Klazienaveen
+Mosweg,40,"","",7891RG,Klazienaveen
+Mr. Ovingstraat,65,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,65,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,66,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,67,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,67,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,67,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,67,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,67,A,"",7891TG,Klazienaveen
+Mr. Ovingstraat,68,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,68,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,69,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,69,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,69,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,81,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,81,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,82,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,82,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,83,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,83,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,87,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,87,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,87,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,87,"","",7891TG,Klazienaveen
+Mr. Ovingstraat,87,A,"",7891TG,Klazienaveen
+Verlengde Scheperweg,1,"","",7891TH,Klazienaveen
+Verlengde Scheperweg,11,"","",7891TH,Klazienaveen
+Verlengde Scheperweg,13,"","",7891TH,Klazienaveen
+Verlengde Scheperweg,2,"","",7891TH,Klazienaveen
+Verlengde Scheperweg,2,A,"",7891TH,Klazienaveen
+Verlengde Scheperweg,7,"","",7891TH,Klazienaveen
+Verlengde Scheperweg,7,A,"",7891TH,Klazienaveen
+Verlengde Scheperweg,7,A,"",7891TH,Klazienaveen
+Verlengde Scheperweg,9,"","",7891TH,Klazienaveen
+Dordsedijk,190,"","",7891TJ,Klazienaveen
+Dordsedijk,206,"","",7891TJ,Klazienaveen
+Dordsedijk,207,"","",7891TJ,Klazienaveen
+Dordsedijk,207,"","",7891TJ,Klazienaveen
+Schutwijk ZZ,27,"","",7891TK,Klazienaveen
+Schutwijk ZZ,27,"","",7891TK,Klazienaveen
+Schutwijk ZZ,27,"","",7891TK,Klazienaveen
+Schutwijk ZZ,27,"","",7891TK,Klazienaveen
+Schutwijk ZZ,27,"","",7891TK,Klazienaveen
+Schutwijk ZZ,31,"","",7891TK,Klazienaveen
+Schutwijk ZZ,41,"","",7891TK,Klazienaveen
+Schutwijk ZZ,41,"",TR,7891TK,Klazienaveen
+Schutwijk ZZ,41,"",TR,7891TK,Klazienaveen
+Schutwijk ZZ,47,"","",7891TK,Klazienaveen
+Schutwijk ZZ,48,"","",7891TK,Klazienaveen
+Schutwijk ZZ,49,"","",7891TK,Klazienaveen
+Schutwijk ZZ,55,"","",7891TK,Klazienaveen
+Schutwijk ZZ,63,"","",7891TK,Klazienaveen
+Schutwijk ZZ,84,"","",7891TK,Klazienaveen
+Schutwijk ZZ,89,"","",7891TK,Klazienaveen
+Van Echtenskanaal NZ,12,"","",7891TL,Klazienaveen
+Van Echtenskanaal NZ,22,"","",7891TL,Klazienaveen
+Van Echtenskanaal NZ,22,"",TR,7891TL,Klazienaveen
+Van Echtenskanaal NZ,22,"",TR,7891TL,Klazienaveen
+Van Echtenskanaal NZ,3,"","",7891TL,Klazienaveen
+Van Echtenskanaal NZ,30,"","",7891TL,Klazienaveen
+Van Echtenskanaal NZ,31,"","",7891TL,Klazienaveen
+Van Echtenskanaal NZ,32,"","",7891TL,Klazienaveen
+Van Echtenskanaal NZ,72,I,"",7891TL,Klazienaveen
+Verlengde Noordersloot,14,"","",7891TM,Klazienaveen
+Verlengde Noordersloot,26,"","",7891TM,Klazienaveen
+Verlengde Noordersloot,26,"",TR,7891TM,Klazienaveen
+Verlengde Noordersloot,26,"",TR,7891TM,Klazienaveen
+Verlengde Noordersloot,30,"","",7891TM,Klazienaveen
+Verlengde Noordersloot,30,"","",7891TM,Klazienaveen
+Verlengde Noordersloot,33,"","",7891TM,Klazienaveen
+Verlengde Noordersloot,33,"",TR,7891TM,Klazienaveen
+Verlengde Noordersloot,33,"",TR,7891TM,Klazienaveen
+Verlengde Noordersloot,34,"","",7891TM,Klazienaveen

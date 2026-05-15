@@ -1,53 +1,53 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-8774PN,Jouswerderdyk,8,,
-8774PE,Laerd en Saerd,4,,
-8774PK,Wolsumerketting,1,,
-8774PK,Wolsumerketting,2,,
-8774PK,Wolsumerketting,3,,
-8774PK,Wolsumerketting,4,,
-8774PK,Wolsumerketting,5,,
-8774PL,Wolsumerwei,11,,
-8774PL,Wolsumerwei,1,,
-8774PL,Wolsumerwei,2,,
-8774PL,Wolsumerwei,3,,
-8774PL,Wolsumerwei,4,,
-8774PL,Wolsumerwei,5,,
-8774PL,Wolsumerwei,7,,
-8774PL,Wolsumerwei,9,,
-8774PL,Wolsumerwei,10,,
-8774PL,Wolsumerwei,12,,
-8774PL,Wolsumerwei,13,,
-8774PL,Wolsumerwei,15,,
-8774PL,Wolsumerwei,16,,
-8774PJ,Fiifhús,1,A,
-8774PN,Jouswerderdyk,1,,
-8774PN,Jouswerderdyk,2,,
-8774PN,Jouswerderdyk,4,,
-8774PN,Jouswerderdyk,6,,
-8774PN,Jouswerderdyk,1,A,
-8774PE,Laerd en Saerd,1,,
-8774PE,Laerd en Saerd,2,,
-8774PE,Laerd en Saerd,3,,
-8774PH,Nijewei,1,,
-8774PH,Nijewei,1,,
-8774PH,Nijewei,2,,
-8774PH,Nijewei,4,,
-8774PG,Remswerderleane,1,,
-8774PG,Remswerderleane,2,,
-8774PG,Remswerderleane,3,,
-8774PG,Remswerderleane,6,,
-8774PG,Remswerderleane,4,,
-8774PL,Wolsumerwei,14,,
-8774PJ,Fiifhús,1,,
-8774PJ,Fiifhús,2,,
-8774PJ,Fiifhús,4,,
-8774PJ,Fiifhús,8,,
-8774PJ,Fiifhús,10,,
-8774PJ,Fiifhús,12,,
-8774PJ,Fiifhús,14,,
-8774PJ,Fiifhús,16,,
-8774PE,Laerd en Saerd,2,B,
-8774PH,Nijewei,2,A,
-8774PH,Nijewei,2,B,
-8774PG,Remswerderleane,3,,
-8774PG,Remswerderleane,3,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Laerd en Saerd,1,"","",8774PE,Wolsum
+Laerd en Saerd,2,"","",8774PE,Wolsum
+Laerd en Saerd,2,B,"",8774PE,Wolsum
+Laerd en Saerd,3,"","",8774PE,Wolsum
+Laerd en Saerd,4,"","",8774PE,Wolsum
+Remswerderleane,1,"","",8774PG,Wolsum
+Remswerderleane,2,"","",8774PG,Wolsum
+Remswerderleane,3,"","",8774PG,Wolsum
+Remswerderleane,3,"","",8774PG,Wolsum
+Remswerderleane,3,"","",8774PG,Wolsum
+Remswerderleane,4,"","",8774PG,Wolsum
+Remswerderleane,6,"","",8774PG,Wolsum
+Nijewei,1,"","",8774PH,Wolsum
+Nijewei,1,"","",8774PH,Wolsum
+Nijewei,2,"","",8774PH,Wolsum
+Nijewei,2,A,"",8774PH,Wolsum
+Nijewei,2,B,"",8774PH,Wolsum
+Nijewei,4,"","",8774PH,Wolsum
+Fiifhús,1,"","",8774PJ,Wolsum
+Fiifhús,1,A,"",8774PJ,Wolsum
+Fiifhús,10,"","",8774PJ,Wolsum
+Fiifhús,12,"","",8774PJ,Wolsum
+Fiifhús,14,"","",8774PJ,Wolsum
+Fiifhús,16,"","",8774PJ,Wolsum
+Fiifhús,2,"","",8774PJ,Wolsum
+Fiifhús,4,"","",8774PJ,Wolsum
+Fiifhús,8,"","",8774PJ,Wolsum
+Wolsumerketting,1,"","",8774PK,Wolsum
+Wolsumerketting,2,"","",8774PK,Wolsum
+Wolsumerketting,3,"","",8774PK,Wolsum
+Wolsumerketting,4,"","",8774PK,Wolsum
+Wolsumerketting,5,"","",8774PK,Wolsum
+Wolsumerwei,1,"","",8774PL,Wolsum
+Wolsumerwei,10,"","",8774PL,Wolsum
+Wolsumerwei,11,"","",8774PL,Wolsum
+Wolsumerwei,12,"","",8774PL,Wolsum
+Wolsumerwei,13,"","",8774PL,Wolsum
+Wolsumerwei,14,"","",8774PL,Wolsum
+Wolsumerwei,15,"","",8774PL,Wolsum
+Wolsumerwei,16,"","",8774PL,Wolsum
+Wolsumerwei,2,"","",8774PL,Wolsum
+Wolsumerwei,3,"","",8774PL,Wolsum
+Wolsumerwei,4,"","",8774PL,Wolsum
+Wolsumerwei,5,"","",8774PL,Wolsum
+Wolsumerwei,7,"","",8774PL,Wolsum
+Wolsumerwei,9,"","",8774PL,Wolsum
+Jouswerderdyk,1,"","",8774PN,Wolsum
+Jouswerderdyk,1,A,"",8774PN,Wolsum
+Jouswerderdyk,2,"","",8774PN,Wolsum
+Jouswerderdyk,4,"","",8774PN,Wolsum
+Jouswerderdyk,6,"","",8774PN,Wolsum
+Jouswerderdyk,8,"","",8774PN,Wolsum

@@ -1,17 +1,17 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-2405XX,De Schans,27,,
-2405XX,De Schans,15,,
-2405XX,De Schans,25,,
-2405ZZ,Hefbrugweg,9,,
-2405ZZ,Hefbrugweg,11,,
-2405ZZ,Hefbrugweg,2,,
-2405XX,De Schans,21,,
-2405XX,De Schans,23,,
-2405XV,Westgouweweg,4,,
-2405XV,Westgouweweg,5,,
-2405XV,Westgouweweg,6,,
-2405XV,Westgouweweg,7,A,
-2405XV,Westgouweweg,7,,
-2405XV,Westgouweweg,9,,
-2405XV,Westgouweweg,6,A,
-2405ZZ,Hefbrugweg,7,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Westgouweweg,4,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,5,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,6,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,6,A,"",2405XV,Alphen aan den Rijn
+Westgouweweg,7,"","",2405XV,Alphen aan den Rijn
+Westgouweweg,7,A,"",2405XV,Alphen aan den Rijn
+Westgouweweg,9,"","",2405XV,Alphen aan den Rijn
+De Schans,15,"","",2405XX,Alphen aan den Rijn
+De Schans,21,"","",2405XX,Alphen aan den Rijn
+De Schans,23,"","",2405XX,Alphen aan den Rijn
+De Schans,25,"","",2405XX,Alphen aan den Rijn
+De Schans,27,"","",2405XX,Alphen aan den Rijn
+Hefbrugweg,11,"","",2405ZZ,Alphen aan den Rijn
+Hefbrugweg,2,"","",2405ZZ,Alphen aan den Rijn
+Hefbrugweg,7,"","",2405ZZ,Alphen aan den Rijn
+Hefbrugweg,9,"","",2405ZZ,Alphen aan den Rijn

@@ -1,27 +1,27 @@
-postcode,straat,huisnummer,huisletter,toevoeging
-7991RG,Juliana Bernhardweg,1,a,
-7991RG,Juliana Bernhardweg,1,b,
-7991RG,Juliana Bernhardweg,1,,
-7991RG,Juliana Bernhardweg,2,,
-7991RG,Juliana Bernhardweg,4,,
-7991RG,Juliana Bernhardweg,5,,
-7991RG,Juliana Bernhardweg,6,,
-7991RG,Juliana Bernhardweg,7,,
-7991RG,Juliana Bernhardweg,8,,
-7991RG,Juliana Bernhardweg,9,,
-7991RG,Juliana Bernhardweg,10,,
-7991RP,Keizerspad,1,,
-7991RP,Keizerspad,3,,
-7991RN,Hs Stevensweg,1,,
-7991RN,Hs Stevensweg,2,,
-7991RN,Hs Stevensweg,3,,
-7991RN,Hs Stevensweg,4,,
-7991RN,Hs Stevensweg,5,,
-7991RN,Hs Stevensweg,6,,
-7991RN,Hs Stevensweg,7,,
-7991RN,Hs Stevensweg,8,,
-7991RN,Hs Stevensweg,9,,
-7991RN,Hs Stevensweg,11,,
-7991RG,Juliana Bernhardweg,3,,
-7991RG,Juliana Bernhardweg,6,a,
-7991RN,Hs Stevensweg,11,a,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Juliana Bernhardweg,1,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,1,A,"",7991RG,Dwingeloo
+Juliana Bernhardweg,1,B,"",7991RG,Dwingeloo
+Juliana Bernhardweg,10,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,2,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,3,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,4,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,5,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,6,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,6,A,"",7991RG,Dwingeloo
+Juliana Bernhardweg,7,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,8,"","",7991RG,Dwingeloo
+Juliana Bernhardweg,9,"","",7991RG,Dwingeloo
+Hs Stevensweg,1,"","",7991RN,Dwingeloo
+Hs Stevensweg,11,"","",7991RN,Dwingeloo
+Hs Stevensweg,11,A,"",7991RN,Dwingeloo
+Hs Stevensweg,2,"","",7991RN,Dwingeloo
+Hs Stevensweg,3,"","",7991RN,Dwingeloo
+Hs Stevensweg,4,"","",7991RN,Dwingeloo
+Hs Stevensweg,5,"","",7991RN,Dwingeloo
+Hs Stevensweg,6,"","",7991RN,Dwingeloo
+Hs Stevensweg,7,"","",7991RN,Dwingeloo
+Hs Stevensweg,8,"","",7991RN,Dwingeloo
+Hs Stevensweg,9,"","",7991RN,Dwingeloo
+Keizerspad,1,"","",7991RP,Dwingeloo
+Keizerspad,3,"","",7991RP,Dwingeloo

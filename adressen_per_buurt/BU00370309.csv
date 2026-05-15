@@ -1,595 +1,305 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9501LB",3,"",""
-"9501LB",6,"",""
-"9501LB",8,"",""
-"9501LB",6,"A",""
-"9501LB",7,"",""
-"9501LB",5,"",""
-"9501LB",2,"",""
-"9501LB",9,"",""
-"9584TE",33,"",""
-"9584TE",27,"A",""
-"9584TE",35,"",""
-"9584TE",7,"",""
-"9584TE",57,"",""
-"9584TE",11,"",""
-"9584TE",31,"",""
-"9584TE",7,"",""
-"9584TE",1,"",""
-"9584TE",29,"",""
-"9584TE",25,"",""
-"9584TE",3,"",""
-"9584TE",13,"",""
-"9584TE",7,"",""
-"9584TE",27,"",""
-"9584TE",21,"",""
-"9584TE",17,"",""
-"9584TE",15,"",""
-"9584TE",23,"",""
-"9584TE",9,"",""
-"9584TE",19,"",""
-"9591AD",6,"",""
-"9591AD",8,"",""
-"9591AD",3,"",""
-"9591AD",5,"",""
-"9591AD",10,"",""
-"9591AD",3,"",""
-"9591AD",2,"",""
-"9591AD",9,"",""
-"9591AD",3,"",""
-"9591AD",12,"",""
-"9591AD",4,"",""
-"9591AZ",8,"",""
-"9591AZ",9,"",""
-"9591TA",36,"",""
-"9591TA",33,"",""
-"9591TA",38,"",""
-"9591TA",30,"",""
-"9591TA",32,"",""
-"9591TA",36,"A",""
-"9591TA",37,"",""
-"9591TA",31,"",""
-"9591TA",35,"A",""
-"9591TA",35,"",""
-"9591TA",35,"B",""
-"9591TA",34,"",""
-"9591TB",6,"A",""
-"9591TB",6,"",""
-"9591TB",4,"",""
-"9591TB",5,"",""
-"9591TB",3,"",""
-"9591TB",7,"",""
-"9591TB",2,"",""
-"9591TB",1,"",""
-"9591TC",13,"",""
-"9591TC",4,"",""
-"9591TC",7,"",""
-"9591TC",10,"",""
-"9591TC",5,"",""
-"9591TC",2,"",""
-"9591TC",5,"",""
-"9591TC",4,"A",""
-"9591TC",11,"",""
-"9591TC",4,"A",""
-"9591TC",12,"",""
-"9591TC",4,"A",""
-"9591TC",5,"",""
-"9591TC",1,"",""
-"9591TC",3,"",""
-"9591TD",7,"",""
-"9591TD",3,"",""
-"9591TD",5,"",""
-"9591TE",6,"",""
-"9591TE",7,"A",""
-"9591TE",9,"",""
-"9591TE",15,"",""
-"9591TE",8,"",""
-"9591TE",5,"",""
-"9591TE",13,"",""
-"9591TE",12,"",""
-"9591TE",5,"",""
-"9591TE",7,"",""
-"9591TG",19,"",""
-"9591TG",7,"",""
-"9591TG",22,"",""
-"9591TG",6,"",""
-"9591TG",4,"",""
-"9591TG",24,"",""
-"9591TG",18,"A",""
-"9591TG",4,"A",""
-"9591TG",23,"",""
-"9591TG",15,"",""
-"9591TG",11,"",""
-"9591TG",17,"",""
-"9591TG",16,"",""
-"9591TG",9,"",""
-"9591TG",12,"",""
-"9591TG",5,"",""
-"9591TG",23,"A",""
-"9591TG",18,"",""
-"9591TG",9,"A",""
-"9591TG",20,"",""
-"9591TG",10,"",""
-"9591TG",8,"",""
-"9591TG",13,"",""
-"9591TH",7,"",""
-"9591TH",3,"",""
-"9591TH",2,"",""
-"9591TH",6,"",""
-"9591TH",4,"",""
-"9591TH",2,"A",""
-"9591TH",1,"",""
-"9591TH",9,"",""
-"9591TH",10,"T",""
-"9591TH",5,"",""
-"9591TH",5,"",""
-"9591TJ",7,"",""
-"9591TJ",1,"",""
-"9591TJ",3,"",""
-"9591TJ",2,"",""
-"9591TJ",11,"",""
-"9591TJ",9,"",""
-"9591TJ",5,"",""
-"9591TK",15,"",""
-"9591TK",12,"",""
-"9591TK",3,"A",""
-"9591TK",10,"",""
-"9591TK",9,"",""
-"9591TK",17,"",""
-"9591TK",2,"",""
-"9591TK",13,"",""
-"9591TK",7,"",""
-"9591TK",5,"",""
-"9591TK",16,"",""
-"9591TK",3,"",""
-"9591TK",8,"",""
-"9591TK",6,"",""
-"9591TL",26,"",""
-"9591TL",20,"",""
-"9591TL",28,"",""
-"9591TL",19,"",""
-"9591TL",28,"",""
-"9591TL",29,"",""
-"9591TL",18,"",""
-"9591TL",24,"",""
-"9591TL",21,"",""
-"9591TL",25,"",""
-"9591TL",28,"",""
-"9591TL",27,"",""
-"9591TL",23,"",""
-"9591TN",4,"",""
-"9591TN",11,"",""
-"9591TN",3,"",""
-"9591TN",23,"",""
-"9591TN",2,"",""
-"9591TN",7,"",""
-"9591TN",9,"",""
-"9591TN",5,"",""
-"9591TN",21,"",""
-"9591TN",17,"",""
-"9591TN",15,"",""
-"9591TN",27,"",""
-"9591TN",11,"A",""
-"9591TN",1,"",""
-"9591TN",25,"",""
-"9591TN",11,"A",""
-"9591TN",29,"",""
-"9591TP",1,"",""
-"9591TR",18,"",""
-"9591TR",16,"",""
-"9591TR",17,"",""
-"9591TR",16,"T",""
-"9591TR",23,"",""
-"9591TR",9,"",""
-"9591TR",21,"",""
-"9591TR",25,"",""
-"9591TR",29,"",""
-"9591TR",1,"",""
-"9591TR",5,"",""
-"9591TR",14,"",""
-"9591TR",12,"",""
-"9591TR",27,"",""
-"9591TR",11,"",""
-"9591TR",7,"",""
-"9591TR",9,"A",""
-"9591TR",19,"",""
-"9591TR",3,"",""
-"9591TR",8,"",""
-"9591TR",10,"",""
-"9591TR",6,"",""
-"9591TR",4,"",""
-"9591TR",2,"",""
-"9591TS",10,"",""
-"9591TS",13,"A",""
-"9591TS",14,"",""
-"9591TS",6,"",""
-"9591TS",16,"",""
-"9591TS",5,"",""
-"9591TS",1,"",""
-"9591TS",9,"",""
-"9591TS",7,"",""
-"9591TS",4,"",""
-"9591TS",13,"A",""
-"9591TS",11,"",""
-"9591TS",13,"",""
-"9591TT",12,"",""
-"9591TT",23,"",""
-"9591TT",15,"",""
-"9591TT",17,"",""
-"9591TT",13,"",""
-"9591TT",14,"",""
-"9591TT",10,"",""
-"9591TT",23,"",""
-"9591TT",21,"",""
-"9591TT",23,"",""
-"9591TT",1,"",""
-"9591TT",20,"",""
-"9591TT",7,"",""
-"9591TT",18,"",""
-"9591TT",8,"",""
-"9591TT",9,"",""
-"9591TT",3,"",""
-"9591TT",1,"A",""
-"9591TT",4,"",""
-"9591TT",22,"",""
-"9591TT",6,"",""
-"9591TT",2,"A",""
-"9591TT",2,"B",""
-"9591TT",2,"",""
-"9591TT",5,"",""
-"9591TT",19,"",""
-"9591TV",4,"",""
-"9591TV",2,"",""
-"9591TV",6,"",""
-"9591TV",3,"",""
-"9591TV",4,"A",""
-"9591TW",2,"",""
-"9591TW",3,"",""
-"9591TW",1,"",""
-"9591TZ",1,"",""
-"9591VA",1,"",""
-"9591VA",3,"A",""
-"9591VA",1,"A",""
-"9591VA",2,"",""
-"9591VC",1,"B",""
-"9591VC",1,"",""
-"9591VC",1,"B",""
-"9591VC",2,"",""
-"9591VC",5,"",""
-"9591VC",1,"A",""
-"9591VC",6,"",""
-"9591VC",11,"",""
-"9591VC",1,"A",""
-"9591VC",4,"",""
-"9591VC",9,"",""
-"9591VC",1,"A",""
-"9591VC",1,"",""
-"9591VC",3,"",""
-"9591VC",1,"",""
-"9591VC",1,"A",""
-"9591VC",1,"",""
-"9591VC",1,"",""
-"9591VC",1,"",""
-"9591VC",1,"A",""
-"9591VC",1,"B",""
-"9591VC",1,"A",""
-"9591VC",1,"A",""
-"9591VD",5,"",""
-"9591VD",1,"",""
-"9591VD",8,"",""
-"9591VD",2,"",""
-"9591VD",3,"",""
-"9591VD",7,"",""
-"9591VD",4,"",""
-"9591VD",10,"",""
-"9591VD",6,"",""
-"9591VD",17,"",""
-"9591VD",9,"",""
-"9591VD",11,"",""
-"9591VD",15,"",""
-"9591VD",21,"",""
-"9591VD",13,"",""
-"9591VD",21,"",""
-"9591VD",23,"",""
-"9591VD",19,"",""
-"9591VD",21,"",""
-"9591VE",1,"",""
-"9591VE",4,"",""
-"9591VE",2,"",""
-"9591VE",5,"",""
-"9591VE",3,"",""
-"9661TH",1,"",""
-"9661TH",2,"",""
-"9661TH",5,"",""
-"9661TH",4,"",""
-"9661TH",3,"",""
-9661TH,Esweg,1,,
-9661TH,Esweg,2,,
-9661TH,Esweg,3,,
-9661TH,Esweg,4,,
-9661TH,Esweg,5,,
-9584TE,Kopstukken,1,,
-9584TE,Kopstukken,3,,
-9584TE,Kopstukken,7,,
-9584TE,Kopstukken,9,,
-9584TE,Kopstukken,11,,
-9584TE,Kopstukken,13,,
-9584TE,Kopstukken,15,,
-9584TE,Kopstukken,17,,
-9584TE,Kopstukken,19,,
-9584TE,Kopstukken,21,,
-9584TE,Kopstukken,23,,
-9584TE,Kopstukken,25,,
-9584TE,Kopstukken,27,A,
-9584TE,Kopstukken,27,,
-9584TE,Kopstukken,29,,
-9584TE,Kopstukken,31,,
-9584TE,Kopstukken,33,,
-9584TE,Kopstukken,35,,
-9584TE,Kopstukken,57,,
-9591TP,Musselmeeweg,1,,
-9591TS,1e Barlagerweg,1,,
-9591TS,1e Barlagerweg,4,,
-9591TS,1e Barlagerweg,5,,
-9591TS,1e Barlagerweg,6,,
-9591TS,1e Barlagerweg,7,,
-9591TS,1e Barlagerweg,9,,
-9591TS,1e Barlagerweg,10,,
-9591TS,1e Barlagerweg,11,,
-9591TS,1e Barlagerweg,13,A,
-9591TS,1e Barlagerweg,13,,
-9591TS,1e Barlagerweg,14,,
-9591TS,1e Barlagerweg,16,,
-9591TT,2e Barlagerweg,1,A,
-9591TT,2e Barlagerweg,1,,
-9591TT,2e Barlagerweg,2,A,
-9591TT,2e Barlagerweg,2,B,
-9591TT,2e Barlagerweg,2,,
-9591TT,2e Barlagerweg,3,,
-9591TT,2e Barlagerweg,4,,
-9591TT,2e Barlagerweg,5,,
-9591TT,2e Barlagerweg,6,,
-9591TT,2e Barlagerweg,7,,
-9591TT,2e Barlagerweg,8,,
-9591TT,2e Barlagerweg,9,,
-9591TT,2e Barlagerweg,10,,
-9591TT,2e Barlagerweg,12,,
-9591TT,2e Barlagerweg,13,,
-9591TT,2e Barlagerweg,14,,
-9591TT,2e Barlagerweg,15,,
-9591TT,2e Barlagerweg,17,,
-9591TT,2e Barlagerweg,18,,
-9591TT,2e Barlagerweg,19,,
-9591TT,2e Barlagerweg,20,,
-9591TT,2e Barlagerweg,21,,
-9591TT,2e Barlagerweg,22,,
-9591TT,2e Barlagerweg,23,,
-9591TC,Achteresweg,1,,
-9591TC,Achteresweg,2,,
-9591TC,Achteresweg,3,,
-9591TC,Achteresweg,4,A,
-9591TC,Achteresweg,4,,
-9591TC,Achteresweg,5,,
-9591TC,Achteresweg,7,,
-9591TC,Achteresweg,10,,
-9591TC,Achteresweg,11,,
-9591TC,Achteresweg,12,,
-9591TC,Achteresweg,13,,
-9591TR,Barkhoornweg,1,,
-9591TR,Barkhoornweg,2,,
-9591TR,Barkhoornweg,3,,
-9591TR,Barkhoornweg,4,,
-9591TR,Barkhoornweg,5,,
-9591TR,Barkhoornweg,6,,
-9591TR,Barkhoornweg,7,,
-9591TR,Barkhoornweg,8,,
-9591TR,Barkhoornweg,9,A,
-9591TR,Barkhoornweg,9,,
-9591TR,Barkhoornweg,10,,
-9591TR,Barkhoornweg,11,,
-9591TR,Barkhoornweg,12,,
-9591TR,Barkhoornweg,14,,
-9591TR,Barkhoornweg,16,,
-9591TR,Barkhoornweg,16,T,
-9591TR,Barkhoornweg,17,,
-9591TR,Barkhoornweg,18,,
-9591TR,Barkhoornweg,19,,
-9591TR,Barkhoornweg,21,,
-9591TR,Barkhoornweg,23,,
-9591TR,Barkhoornweg,25,,
-9591TR,Barkhoornweg,27,,
-9591TR,Barkhoornweg,29,,
-9591VA,Blekslagebrugweg,1,A,
-9591VA,Blekslagebrugweg,1,,
-9591VA,Blekslagebrugweg,2,,
-9591AZ,Esweg,8,,
-9591AZ,Esweg,9,,
-9591TW,Hamriksweg,1,,
-9591TW,Hamriksweg,2,,
-9591TW,Hamriksweg,3,,
-9591TA,Hardingstraat,30,,
-9591TA,Hardingstraat,31,,
-9591TA,Hardingstraat,32,,
-9591TA,Hardingstraat,33,,
-9591TA,Hardingstraat,34,,
-9591TA,Hardingstraat,35,A,
-9591TA,Hardingstraat,35,B,
-9591TA,Hardingstraat,35,,
-9591TA,Hardingstraat,36,A,
-9591TA,Hardingstraat,36,,
-9591TA,Hardingstraat,37,,
-9591TA,Hardingstraat,38,,
-9591TZ,Harpelerweg,1,,
-9591VC,Kampweg,1,,
-9591VC,Kampweg,1,B,
-9591VC,Kampweg,2,,
-9591VC,Kampweg,3,,
-9591VC,Kampweg,4,,
-9591VC,Kampweg,5,,
-9591VC,Kampweg,6,,
-9591VC,Kampweg,9,,
-9591VC,Kampweg,11,,
-9591TJ,Markeweg,1,,
-9591TJ,Markeweg,2,,
-9591TJ,Markeweg,3,,
-9591TJ,Markeweg,5,,
-9591TJ,Markeweg,7,,
-9591TJ,Markeweg,9,,
-9591TJ,Markeweg,11,,
-9591AD,Scholtweg,2,,
-9591AD,Scholtweg,3,,
-9591AD,Scholtweg,4,,
-9591AD,Scholtweg,5,,
-9591AD,Scholtweg,6,,
-9591AD,Scholtweg,8,,
-9591AD,Scholtweg,9,,
-9591AD,Scholtweg,10,,
-9591AD,Scholtweg,12,,
-9591TD,Sikkenbergweg,3,,
-9591TD,Sikkenbergweg,5,,
-9591TD,Sikkenbergweg,7,,
-9591VD,Sluisweg,1,,
-9591VD,Sluisweg,2,,
-9591VD,Sluisweg,3,,
-9591VD,Sluisweg,4,,
-9591VD,Sluisweg,5,,
-9591VD,Sluisweg,6,,
-9591VD,Sluisweg,7,,
-9591VD,Sluisweg,8,,
-9591VD,Sluisweg,9,,
-9591VD,Sluisweg,10,,
-9591VD,Sluisweg,11,,
-9591VD,Sluisweg,13,,
-9591VD,Sluisweg,15,,
-9591VD,Sluisweg,17,,
-9591VD,Sluisweg,19,,
-9591VD,Sluisweg,21,,
-9591VD,Sluisweg,23,,
-9591TB,Veenhuizerweg,1,,
-9591TB,Veenhuizerweg,2,,
-9591TB,Veenhuizerweg,3,,
-9591TB,Veenhuizerweg,4,,
-9591TB,Veenhuizerweg,5,,
-9591TB,Veenhuizerweg,6,,
-9591TB,Veenhuizerweg,7,,
-9591TK,Vledderhuizen,2,,
-9591TK,Vledderhuizen,3,,
-9591TK,Vledderhuizen,5,,
-9591TK,Vledderhuizen,6,,
-9591TK,Vledderhuizen,7,,
-9591TK,Vledderhuizen,8,,
-9591TK,Vledderhuizen,9,,
-9591TK,Vledderhuizen,10,,
-9591TK,Vledderhuizen,12,,
-9591TK,Vledderhuizen,13,,
-9591TK,Vledderhuizen,15,,
-9591TK,Vledderhuizen,16,,
-9591TK,Vledderhuizen,17,,
-9591TL,Vledderhuizen,18,,
-9591TL,Vledderhuizen,19,,
-9591TL,Vledderhuizen,20,,
-9591TL,Vledderhuizen,21,,
-9591TL,Vledderhuizen,23,,
-9591TL,Vledderhuizen,24,,
-9591TL,Vledderhuizen,25,,
-9591TL,Vledderhuizen,26,,
-9591TL,Vledderhuizen,27,,
-9591TL,Vledderhuizen,28,,
-9591TL,Vledderhuizen,29,,
-9591TN,Vosseberg,1,,
-9591TN,Vosseberg,2,,
-9591TN,Vosseberg,3,,
-9591TN,Vosseberg,5,,
-9591TN,Vosseberg,7,,
-9591TN,Vosseberg,9,,
-9591TN,Vosseberg,11,,
-9591TN,Vosseberg,11,A,
-9591TN,Vosseberg,15,,
-9591TN,Vosseberg,17,,
-9591TN,Vosseberg,21,,
-9591TN,Vosseberg,23,,
-9591TN,Vosseberg,25,,
-9591TN,Vosseberg,27,,
-9591TN,Vosseberg,29,,
-9591TG,Veenhuizen,4,A,
-9591TG,Veenhuizen,4,,
-9591TG,Veenhuizen,5,,
-9591TG,Veenhuizen,6,,
-9591TG,Veenhuizen,7,,
-9591TG,Veenhuizen,8,,
-9591TG,Veenhuizen,9,A,
-9591TG,Veenhuizen,9,,
-9591TG,Veenhuizen,10,,
-9591TG,Veenhuizen,11,,
-9591TG,Veenhuizen,12,,
-9591TG,Veenhuizen,13,,
-9591TG,Veenhuizen,15,,
-9591TG,Veenhuizen,16,,
-9591TG,Veenhuizen,17,,
-9591TG,Veenhuizen,18,A,
-9591TG,Veenhuizen,19,,
-9591TG,Veenhuizen,20,,
-9591TG,Veenhuizen,22,,
-9591TG,Veenhuizen,23,,
-9591TG,Veenhuizen,23,A,
-9591TG,Veenhuizen,24,,
-9591TH,Ter Maars,1,,
-9591TH,Ter Maars,2,A,
-9591TH,Ter Maars,2,,
-9591TH,Ter Maars,3,,
-9591TH,Ter Maars,4,,
-9591TH,Ter Maars,5,,
-9591TH,Ter Maars,6,,
-9591TH,Ter Maars,7,,
-9591TH,Ter Maars,9,,
-9591TH,Ter Maars,10,T,
-9591TV,Blekslage,2,,
-9591TV,Blekslage,3,,
-9591TV,Blekslage,4,A,
-9591TV,Blekslage,4,,
-9591TV,Blekslage,6,,
-9591VE,Oosterholtsweg,1,,
-9591VE,Oosterholtsweg,2,,
-9591VE,Oosterholtsweg,3,,
-9591VE,Oosterholtsweg,4,,
-9591VE,Oosterholtsweg,5,,
-9591TE,Dwarsstukkerweg,5,,
-9591TE,Dwarsstukkerweg,6,,
-9591TE,Dwarsstukkerweg,7,,
-9591TE,Dwarsstukkerweg,7,A,
-9591TE,Dwarsstukkerweg,8,,
-9591TE,Dwarsstukkerweg,9,,
-9591TE,Dwarsstukkerweg,12,,
-9591TE,Dwarsstukkerweg,13,,
-9591TE,Dwarsstukkerweg,15,,
-9591TT,2e Barlagerweg,23,,
-9591TC,Achteresweg,5,,
-9591TC,Achteresweg,4,A,
-9591VC,Kampweg,1,A,
-9591VC,Kampweg,1,,
-9591VC,Kampweg,1,,
-9591VC,Kampweg,1,A,
-9591VC,Kampweg,1,B,
-9591VC,Kampweg,1,,
-9591VC,Kampweg,1,A,
-9591VC,Kampweg,1,A,
-9584TE,Kopstukken,7,,
-9591AD,Scholtweg,3,,
-9591VA,Ter Wuppingerweg,3,A,
-9591TB,Veenhuizerweg,6,A,
-9591TK,Vledderhuizen,3,A,
-9591TL,Vledderhuizen,28,,
-9591TN,Vosseberg,4,,
-9501LB,Zijdstukkerweg,5,,
-9501LB,Zijdstukkerweg,6,A,
-9501LB,Zijdstukkerweg,6,,
-9501LB,Zijdstukkerweg,7,,
-9501LB,Zijdstukkerweg,8,,
-9501LB,Zijdstukkerweg,9,,
-9501LB,Zijdstukkerweg,2,,
-9501LB,Zijdstukkerweg,3,,
-9591TG,Veenhuizen,18,,
-9584TE,Kopstukken,19,A,
-9591VD,Sluisweg,21,,
-9591TK,Vledderhuizen,13,,
-9591TE,Dwarsstukkerweg,5,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Zijdstukkerweg,2,"","",9501LB,Stadskanaal
+Zijdstukkerweg,3,"","",9501LB,Stadskanaal
+Zijdstukkerweg,5,"","",9501LB,Stadskanaal
+Zijdstukkerweg,6,"","",9501LB,Stadskanaal
+Zijdstukkerweg,6,A,"",9501LB,Stadskanaal
+Zijdstukkerweg,7,"","",9501LB,Stadskanaal
+Zijdstukkerweg,8,"","",9501LB,Stadskanaal
+Zijdstukkerweg,9,"","",9501LB,Stadskanaal
+Kopstukken,1,"","",9584TE,Mussel
+Kopstukken,11,"","",9584TE,Mussel
+Kopstukken,13,"","",9584TE,Mussel
+Kopstukken,15,"","",9584TE,Mussel
+Kopstukken,17,"","",9584TE,Mussel
+Kopstukken,19,"","",9584TE,Mussel
+Kopstukken,21,"","",9584TE,Mussel
+Kopstukken,23,"","",9584TE,Mussel
+Kopstukken,25,"","",9584TE,Mussel
+Kopstukken,27,"","",9584TE,Mussel
+Kopstukken,27,A,"",9584TE,Mussel
+Kopstukken,29,"","",9584TE,Mussel
+Kopstukken,3,"","",9584TE,Mussel
+Kopstukken,31,"","",9584TE,Mussel
+Kopstukken,33,"","",9584TE,Mussel
+Kopstukken,35,"","",9584TE,Mussel
+Kopstukken,57,"","",9584TE,Mussel
+Kopstukken,7,"","",9584TE,Mussel
+Kopstukken,7,"","",9584TE,Mussel
+Kopstukken,7,"","",9584TE,Mussel
+Kopstukken,9,"","",9584TE,Mussel
+Scholtweg,10,"","",9591AD,Onstwedde
+Scholtweg,12,"","",9591AD,Onstwedde
+Scholtweg,2,"","",9591AD,Onstwedde
+Scholtweg,3,"","",9591AD,Onstwedde
+Scholtweg,3,"","",9591AD,Onstwedde
+Scholtweg,3,"","",9591AD,Onstwedde
+Scholtweg,4,"","",9591AD,Onstwedde
+Scholtweg,5,"","",9591AD,Onstwedde
+Scholtweg,6,"","",9591AD,Onstwedde
+Scholtweg,8,"","",9591AD,Onstwedde
+Scholtweg,9,"","",9591AD,Onstwedde
+Esweg,8,"","",9591AZ,Onstwedde
+Esweg,9,"","",9591AZ,Onstwedde
+Hardingstraat,30,"","",9591TA,Onstwedde
+Hardingstraat,31,"","",9591TA,Onstwedde
+Hardingstraat,32,"","",9591TA,Onstwedde
+Hardingstraat,33,"","",9591TA,Onstwedde
+Hardingstraat,34,"","",9591TA,Onstwedde
+Hardingstraat,35,"","",9591TA,Onstwedde
+Hardingstraat,35,A,"",9591TA,Onstwedde
+Hardingstraat,35,B,"",9591TA,Onstwedde
+Hardingstraat,36,"","",9591TA,Onstwedde
+Hardingstraat,36,A,"",9591TA,Onstwedde
+Hardingstraat,37,"","",9591TA,Onstwedde
+Hardingstraat,38,"","",9591TA,Onstwedde
+Veenhuizerweg,1,"","",9591TB,Onstwedde
+Veenhuizerweg,2,"","",9591TB,Onstwedde
+Veenhuizerweg,3,"","",9591TB,Onstwedde
+Veenhuizerweg,4,"","",9591TB,Onstwedde
+Veenhuizerweg,5,"","",9591TB,Onstwedde
+Veenhuizerweg,6,"","",9591TB,Onstwedde
+Veenhuizerweg,6,A,"",9591TB,Onstwedde
+Veenhuizerweg,7,"","",9591TB,Onstwedde
+Achteresweg,1,"","",9591TC,Onstwedde
+Achteresweg,10,"","",9591TC,Onstwedde
+Achteresweg,11,"","",9591TC,Onstwedde
+Achteresweg,12,"","",9591TC,Onstwedde
+Achteresweg,13,"","",9591TC,Onstwedde
+Achteresweg,2,"","",9591TC,Onstwedde
+Achteresweg,3,"","",9591TC,Onstwedde
+Achteresweg,4,"","",9591TC,Onstwedde
+Achteresweg,4,A,"",9591TC,Onstwedde
+Achteresweg,4,A,"",9591TC,Onstwedde
+Achteresweg,4,A,"",9591TC,Onstwedde
+Achteresweg,5,"","",9591TC,Onstwedde
+Achteresweg,5,"","",9591TC,Onstwedde
+Achteresweg,5,"","",9591TC,Onstwedde
+Achteresweg,7,"","",9591TC,Onstwedde
+Sikkenbergweg,3,"","",9591TD,Onstwedde
+Sikkenbergweg,5,"","",9591TD,Onstwedde
+Sikkenbergweg,7,"","",9591TD,Onstwedde
+Dwarsstukkerweg,12,"","",9591TE,Onstwedde
+Dwarsstukkerweg,13,"","",9591TE,Onstwedde
+Dwarsstukkerweg,15,"","",9591TE,Onstwedde
+Dwarsstukkerweg,5,"","",9591TE,Onstwedde
+Dwarsstukkerweg,5,"","",9591TE,Onstwedde
+Dwarsstukkerweg,6,"","",9591TE,Onstwedde
+Dwarsstukkerweg,7,"","",9591TE,Onstwedde
+Dwarsstukkerweg,7,A,"",9591TE,Onstwedde
+Dwarsstukkerweg,8,"","",9591TE,Onstwedde
+Dwarsstukkerweg,9,"","",9591TE,Onstwedde
+Veenhuizen,10,"","",9591TG,Onstwedde
+Veenhuizen,11,"","",9591TG,Onstwedde
+Veenhuizen,12,"","",9591TG,Onstwedde
+Veenhuizen,13,"","",9591TG,Onstwedde
+Veenhuizen,15,"","",9591TG,Onstwedde
+Veenhuizen,16,"","",9591TG,Onstwedde
+Veenhuizen,17,"","",9591TG,Onstwedde
+Veenhuizen,18,"","",9591TG,Onstwedde
+Veenhuizen,18,A,"",9591TG,Onstwedde
+Veenhuizen,19,"","",9591TG,Onstwedde
+Veenhuizen,20,"","",9591TG,Onstwedde
+Veenhuizen,22,"","",9591TG,Onstwedde
+Veenhuizen,23,"","",9591TG,Onstwedde
+Veenhuizen,23,A,"",9591TG,Onstwedde
+Veenhuizen,24,"","",9591TG,Onstwedde
+Veenhuizen,4,"","",9591TG,Onstwedde
+Veenhuizen,4,A,"",9591TG,Onstwedde
+Veenhuizen,5,"","",9591TG,Onstwedde
+Veenhuizen,6,"","",9591TG,Onstwedde
+Veenhuizen,7,"","",9591TG,Onstwedde
+Veenhuizen,8,"","",9591TG,Onstwedde
+Veenhuizen,9,"","",9591TG,Onstwedde
+Veenhuizen,9,A,"",9591TG,Onstwedde
+Ter Maars,1,"","",9591TH,Onstwedde
+Ter Maars,10,T,"",9591TH,Onstwedde
+Ter Maars,2,"","",9591TH,Onstwedde
+Ter Maars,2,A,"",9591TH,Onstwedde
+Ter Maars,3,"","",9591TH,Onstwedde
+Ter Maars,4,"","",9591TH,Onstwedde
+Ter Maars,5,"","",9591TH,Onstwedde
+Ter Maars,5,"","",9591TH,Onstwedde
+Ter Maars,6,"","",9591TH,Onstwedde
+Ter Maars,7,"","",9591TH,Onstwedde
+Ter Maars,9,"","",9591TH,Onstwedde
+Markeweg,1,"","",9591TJ,Onstwedde
+Markeweg,11,"","",9591TJ,Onstwedde
+Markeweg,2,"","",9591TJ,Onstwedde
+Markeweg,3,"","",9591TJ,Onstwedde
+Markeweg,5,"","",9591TJ,Onstwedde
+Markeweg,7,"","",9591TJ,Onstwedde
+Markeweg,9,"","",9591TJ,Onstwedde
+Vledderhuizen,10,"","",9591TK,Onstwedde
+Vledderhuizen,12,"","",9591TK,Onstwedde
+Vledderhuizen,13,"","",9591TK,Onstwedde
+Vledderhuizen,15,"","",9591TK,Onstwedde
+Vledderhuizen,16,"","",9591TK,Onstwedde
+Vledderhuizen,17,"","",9591TK,Onstwedde
+Vledderhuizen,2,"","",9591TK,Onstwedde
+Vledderhuizen,3,"","",9591TK,Onstwedde
+Vledderhuizen,3,A,"",9591TK,Onstwedde
+Vledderhuizen,5,"","",9591TK,Onstwedde
+Vledderhuizen,6,"","",9591TK,Onstwedde
+Vledderhuizen,7,"","",9591TK,Onstwedde
+Vledderhuizen,8,"","",9591TK,Onstwedde
+Vledderhuizen,9,"","",9591TK,Onstwedde
+Vledderhuizen,18,"","",9591TL,Onstwedde
+Vledderhuizen,19,"","",9591TL,Onstwedde
+Vledderhuizen,20,"","",9591TL,Onstwedde
+Vledderhuizen,21,"","",9591TL,Onstwedde
+Vledderhuizen,23,"","",9591TL,Onstwedde
+Vledderhuizen,24,"","",9591TL,Onstwedde
+Vledderhuizen,25,"","",9591TL,Onstwedde
+Vledderhuizen,26,"","",9591TL,Onstwedde
+Vledderhuizen,27,"","",9591TL,Onstwedde
+Vledderhuizen,28,"","",9591TL,Onstwedde
+Vledderhuizen,28,"","",9591TL,Onstwedde
+Vledderhuizen,28,"","",9591TL,Onstwedde
+Vledderhuizen,29,"","",9591TL,Onstwedde
+Vosseberg,1,"","",9591TN,Onstwedde
+Vosseberg,11,"","",9591TN,Onstwedde
+Vosseberg,11,A,"",9591TN,Onstwedde
+Vosseberg,11,A,"",9591TN,Onstwedde
+Vosseberg,15,"","",9591TN,Onstwedde
+Vosseberg,17,"","",9591TN,Onstwedde
+Vosseberg,2,"","",9591TN,Onstwedde
+Vosseberg,21,"","",9591TN,Onstwedde
+Vosseberg,23,"","",9591TN,Onstwedde
+Vosseberg,25,"","",9591TN,Onstwedde
+Vosseberg,27,"","",9591TN,Onstwedde
+Vosseberg,29,"","",9591TN,Onstwedde
+Vosseberg,3,"","",9591TN,Onstwedde
+Vosseberg,4,"","",9591TN,Onstwedde
+Vosseberg,5,"","",9591TN,Onstwedde
+Vosseberg,7,"","",9591TN,Onstwedde
+Vosseberg,9,"","",9591TN,Onstwedde
+Musselmeeweg,1,"","",9591TP,Onstwedde
+Barkhoornweg,1,"","",9591TR,Onstwedde
+Barkhoornweg,10,"","",9591TR,Onstwedde
+Barkhoornweg,11,"","",9591TR,Onstwedde
+Barkhoornweg,12,"","",9591TR,Onstwedde
+Barkhoornweg,14,"","",9591TR,Onstwedde
+Barkhoornweg,16,"","",9591TR,Onstwedde
+Barkhoornweg,16,T,"",9591TR,Onstwedde
+Barkhoornweg,17,"","",9591TR,Onstwedde
+Barkhoornweg,18,"","",9591TR,Onstwedde
+Barkhoornweg,19,"","",9591TR,Onstwedde
+Barkhoornweg,2,"","",9591TR,Onstwedde
+Barkhoornweg,21,"","",9591TR,Onstwedde
+Barkhoornweg,23,"","",9591TR,Onstwedde
+Barkhoornweg,25,"","",9591TR,Onstwedde
+Barkhoornweg,27,"","",9591TR,Onstwedde
+Barkhoornweg,29,"","",9591TR,Onstwedde
+Barkhoornweg,3,"","",9591TR,Onstwedde
+Barkhoornweg,4,"","",9591TR,Onstwedde
+Barkhoornweg,5,"","",9591TR,Onstwedde
+Barkhoornweg,6,"","",9591TR,Onstwedde
+Barkhoornweg,7,"","",9591TR,Onstwedde
+Barkhoornweg,8,"","",9591TR,Onstwedde
+Barkhoornweg,9,"","",9591TR,Onstwedde
+Barkhoornweg,9,A,"",9591TR,Onstwedde
+1e Barlagerweg,1,"","",9591TS,Onstwedde
+1e Barlagerweg,10,"","",9591TS,Onstwedde
+1e Barlagerweg,11,"","",9591TS,Onstwedde
+1e Barlagerweg,13,"","",9591TS,Onstwedde
+1e Barlagerweg,13,A,"",9591TS,Onstwedde
+1e Barlagerweg,13,A,"",9591TS,Onstwedde
+1e Barlagerweg,14,"","",9591TS,Onstwedde
+1e Barlagerweg,16,"","",9591TS,Onstwedde
+1e Barlagerweg,4,"","",9591TS,Onstwedde
+1e Barlagerweg,5,"","",9591TS,Onstwedde
+1e Barlagerweg,6,"","",9591TS,Onstwedde
+1e Barlagerweg,7,"","",9591TS,Onstwedde
+1e Barlagerweg,9,"","",9591TS,Onstwedde
+2e Barlagerweg,1,"","",9591TT,Onstwedde
+2e Barlagerweg,1,A,"",9591TT,Onstwedde
+2e Barlagerweg,10,"","",9591TT,Onstwedde
+2e Barlagerweg,12,"","",9591TT,Onstwedde
+2e Barlagerweg,13,"","",9591TT,Onstwedde
+2e Barlagerweg,14,"","",9591TT,Onstwedde
+2e Barlagerweg,15,"","",9591TT,Onstwedde
+2e Barlagerweg,17,"","",9591TT,Onstwedde
+2e Barlagerweg,18,"","",9591TT,Onstwedde
+2e Barlagerweg,19,"","",9591TT,Onstwedde
+2e Barlagerweg,2,"","",9591TT,Onstwedde
+2e Barlagerweg,2,A,"",9591TT,Onstwedde
+2e Barlagerweg,2,B,"",9591TT,Onstwedde
+2e Barlagerweg,20,"","",9591TT,Onstwedde
+2e Barlagerweg,21,"","",9591TT,Onstwedde
+2e Barlagerweg,22,"","",9591TT,Onstwedde
+2e Barlagerweg,23,"","",9591TT,Onstwedde
+2e Barlagerweg,23,"","",9591TT,Onstwedde
+2e Barlagerweg,23,"","",9591TT,Onstwedde
+2e Barlagerweg,3,"","",9591TT,Onstwedde
+2e Barlagerweg,4,"","",9591TT,Onstwedde
+2e Barlagerweg,5,"","",9591TT,Onstwedde
+2e Barlagerweg,6,"","",9591TT,Onstwedde
+2e Barlagerweg,7,"","",9591TT,Onstwedde
+2e Barlagerweg,8,"","",9591TT,Onstwedde
+2e Barlagerweg,9,"","",9591TT,Onstwedde
+Blekslage,2,"","",9591TV,Onstwedde
+Blekslage,3,"","",9591TV,Onstwedde
+Blekslage,4,"","",9591TV,Onstwedde
+Blekslage,4,A,"",9591TV,Onstwedde
+Blekslage,6,"","",9591TV,Onstwedde
+Hamriksweg,1,"","",9591TW,Onstwedde
+Hamriksweg,2,"","",9591TW,Onstwedde
+Hamriksweg,3,"","",9591TW,Onstwedde
+Harpelerweg,1,"","",9591TZ,Onstwedde
+Blekslagebrugweg,1,"","",9591VA,Onstwedde
+Blekslagebrugweg,1,A,"",9591VA,Onstwedde
+Blekslagebrugweg,2,"","",9591VA,Onstwedde
+Ter Wuppingerweg,3,A,"",9591VA,Onstwedde
+Kampweg,1,"","",9591VC,Onstwedde
+Kampweg,1,"","",9591VC,Onstwedde
+Kampweg,1,"","",9591VC,Onstwedde
+Kampweg,1,"","",9591VC,Onstwedde
+Kampweg,1,"","",9591VC,Onstwedde
+Kampweg,1,"","",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,A,"",9591VC,Onstwedde
+Kampweg,1,B,"",9591VC,Onstwedde
+Kampweg,1,B,"",9591VC,Onstwedde
+Kampweg,1,B,"",9591VC,Onstwedde
+Kampweg,11,"","",9591VC,Onstwedde
+Kampweg,2,"","",9591VC,Onstwedde
+Kampweg,3,"","",9591VC,Onstwedde
+Kampweg,4,"","",9591VC,Onstwedde
+Kampweg,5,"","",9591VC,Onstwedde
+Kampweg,6,"","",9591VC,Onstwedde
+Kampweg,9,"","",9591VC,Onstwedde
+Sluisweg,1,"","",9591VD,Onstwedde
+Sluisweg,10,"","",9591VD,Onstwedde
+Sluisweg,11,"","",9591VD,Onstwedde
+Sluisweg,13,"","",9591VD,Onstwedde
+Sluisweg,15,"","",9591VD,Onstwedde
+Sluisweg,17,"","",9591VD,Onstwedde
+Sluisweg,19,"","",9591VD,Onstwedde
+Sluisweg,2,"","",9591VD,Onstwedde
+Sluisweg,21,"","",9591VD,Onstwedde
+Sluisweg,21,"","",9591VD,Onstwedde
+Sluisweg,21,"","",9591VD,Onstwedde
+Sluisweg,23,"","",9591VD,Onstwedde
+Sluisweg,3,"","",9591VD,Onstwedde
+Sluisweg,4,"","",9591VD,Onstwedde
+Sluisweg,5,"","",9591VD,Onstwedde
+Sluisweg,6,"","",9591VD,Onstwedde
+Sluisweg,7,"","",9591VD,Onstwedde
+Sluisweg,8,"","",9591VD,Onstwedde
+Sluisweg,9,"","",9591VD,Onstwedde
+Oosterholtsweg,1,"","",9591VE,Onstwedde
+Oosterholtsweg,2,"","",9591VE,Onstwedde
+Oosterholtsweg,3,"","",9591VE,Onstwedde
+Oosterholtsweg,4,"","",9591VE,Onstwedde
+Oosterholtsweg,5,"","",9591VE,Onstwedde
+Esweg,1,"","",9661TH,Alteveer
+Esweg,2,"","",9661TH,Alteveer
+Esweg,3,"","",9661TH,Alteveer
+Esweg,4,"","",9661TH,Alteveer
+Esweg,5,"","",9661TH,Alteveer

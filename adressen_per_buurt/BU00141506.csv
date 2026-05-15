@@ -1,132 +1,133 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9791AB",97,"A",""
-"9791AB",89,"",""
-"9791AB",97,"a",""
-"9791AB",87,"",""
-"9791AB",99,"",""
-"9791AB",81,"",""
-"9791AB",81,"",""
-"9791AB",91,"",""
-"9791AB",83,"",""
-"9791AB",85,"",""
-"9791AB",99,"a",""
-"9791AB",99,"A",""
-"9791AB",81,"",""
-"9791AB",101,"",""
-"9791AB",93,"",""
-"9791DA",10,"",""
-"9791DA",18,"",""
-"9791DA",12,"",""
-"9791DA",7,"",""
-"9791DA",15,"",""
-"9791DA",13,"",""
-"9791DA",19,"",""
-"9791DA",16,"",""
-"9791DA",8,"",""
-"9791DA",14,"",""
-"9791DA",11,"",""
-"9791DA",9,"",""
-"9791DA",3,"",""
-"9791DA",4,"",""
-"9791DA",2,"",""
-"9791DA",17,"",""
-"9791DA",6,"",""
-"9791DA",5,"",""
-"9791DA",2,"b",""
-"9791DD",4,"",""
-"9791DD",20,"",""
-"9791DD",12,"",""
-"9791DD",16,"",""
-"9791DD",2,"",""
-"9791DD",8,"",""
-"9791DD",14,"",""
-"9791DD",18,"",""
-"9791DD",1,"",""
-"9791DD",6,"",""
-"9791DD",10,"",""
-"9791DE",6,"a",""
-"9791DE",6,"",""
-"9791DE",6,"b",""
-"9791DE",6,"c",""
-"9791DE",8,"",""
-"9791DE",3,"",""
-"9791DE",5,"",""
-"9791DE",6,"",""
-"9791DE",6,"",""
-"9791DE",6,"e",""
-"9791DE",6,"d",""
-"9791DG",3,"",""
-"9791DG",6,"",""
-"9791DG",15,"",""
-"9791DG",8,"",""
-"9791DG",13,"",""
-"9791DG",10,"",""
-"9791DG",12,"",""
-"9791DG",4,"",""
-"9791DG",1,"",""
-9791DD,Ambachtsweg,1,,
-9791DD,Ambachtsweg,2,,
-9791DD,Ambachtsweg,4,,
-9791DD,Ambachtsweg,6,,
-9791DD,Ambachtsweg,8,,
-9791DD,Ambachtsweg,10,,
-9791DD,Ambachtsweg,12,,
-9791DD,Ambachtsweg,14,,
-9791DD,Ambachtsweg,16,,
-9791DD,Ambachtsweg,18,,
-9791DD,Ambachtsweg,20,,
-9791DE,Bedrijvenweg,8,,
-9791DE,Bedrijvenweg,3,,
-9791DE,Bedrijvenweg,5,,
-9791DE,Bedrijvenweg,6,,
-9791DE,Bedrijvenweg,6,,
-9791DE,Bedrijvenweg,6,a,
-9791DE,Bedrijvenweg,6,b,
-9791DE,Bedrijvenweg,6,c,
-9791DE,Bedrijvenweg,6,d,
-9791DE,Bedrijvenweg,6,e,
-9791DG,Handelsweg,1,,
-9791DG,Handelsweg,3,,
-9791DG,Handelsweg,4,,
-9791DG,Handelsweg,10,,
-9791DG,Handelsweg,8,,
-9791DG,Handelsweg,12,,
-9791DG,Handelsweg,6,,
-9791DG,Handelsweg,13,,
-9791DA,Nijverheidsweg,3,,
-9791DA,Nijverheidsweg,8,,
-9791DA,Nijverheidsweg,2,,
-9791DA,Nijverheidsweg,5,,
-9791DA,Nijverheidsweg,7,,
-9791DA,Nijverheidsweg,4,,
-9791DA,Nijverheidsweg,10,,
-9791DA,Nijverheidsweg,11,,
-9791DA,Nijverheidsweg,9,,
-9791DA,Nijverheidsweg,6,,
-9791DA,Nijverheidsweg,12,,
-9791DA,Nijverheidsweg,15,,
-9791DA,Nijverheidsweg,16,,
-9791DA,Nijverheidsweg,18,,
-9791DA,Nijverheidsweg,19,,
-9791DA,Nijverheidsweg,17,,
-9791AB,Rijksweg,97,A,
-9791AB,Rijksweg,97,a,
-9791AB,Rijksweg,91,,
-9791AB,Rijksweg,93,,
-9791AB,Rijksweg,87,,
-9791AB,Rijksweg,81,,
-9791AB,Rijksweg,85,,
-9791AB,Rijksweg,101,,
-9791AB,Rijksweg,99,,
-9791AB,Rijksweg,99,A,
-9791AB,Rijksweg,99,a,
-9791AB,Rijksweg,83,,
-9791AB,Rijksweg,89,,
-9791DA,Nijverheidsweg,13,,
-9791DA,Nijverheidsweg,14,,
-9791DG,Handelsweg,15,,
-9791AB,Rijksweg,81,,
-9791DD,Ambachtsweg,1,a,
-9791DE,Bedrijvenweg,7,,
-9791DA,Nijverheidsweg,2,b,
-9791DA,Nijverheidsweg,14,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+89,"","","",9791AB,
+87,"","","",9791AB,
+99,"","","",9791AB,
+81,"","","",9791AB,
+81,"","","",9791AB,
+91,"","","",9791AB,
+83,"","","",9791AB,
+85,"","","",9791AB,
+81,"","","",9791AB,
+101,"","","",9791AB,
+93,"","","",9791AB,
+Rijksweg,101,"","",9791AB,Ten Boer
+Rijksweg,81,"","",9791AB,Ten Boer
+Rijksweg,81,"","",9791AB,Ten Boer
+Rijksweg,83,"","",9791AB,Ten Boer
+Rijksweg,85,"","",9791AB,Ten Boer
+Rijksweg,87,"","",9791AB,Ten Boer
+Rijksweg,89,"","",9791AB,Ten Boer
+Rijksweg,91,"","",9791AB,Ten Boer
+Rijksweg,93,"","",9791AB,Ten Boer
+Rijksweg,97,A,"",9791AB,Ten Boer
+Rijksweg,97,A,"",9791AB,Ten Boer
+Rijksweg,99,"","",9791AB,Ten Boer
+Rijksweg,99,A,"",9791AB,Ten Boer
+Rijksweg,99,A,"",9791AB,Ten Boer
+97,A,"","",9791AB,
+97,A,"","",9791AB,
+99,A,"","",9791AB,
+99,A,"","",9791AB,
+10,"","","",9791DA,
+18,"","","",9791DA,
+12,"","","",9791DA,
+7,"","","",9791DA,
+15,"","","",9791DA,
+13,"","","",9791DA,
+19,"","","",9791DA,
+16,"","","",9791DA,
+8,"","","",9791DA,
+14,"","","",9791DA,
+11,"","","",9791DA,
+9,"","","",9791DA,
+3,"","","",9791DA,
+4,"","","",9791DA,
+2,"","","",9791DA,
+17,"","","",9791DA,
+6,"","","",9791DA,
+5,"","","",9791DA,
+Nijverheidsweg,10,"","",9791DA,Ten Boer
+Nijverheidsweg,11,"","",9791DA,Ten Boer
+Nijverheidsweg,12,"","",9791DA,Ten Boer
+Nijverheidsweg,13,"","",9791DA,Ten Boer
+Nijverheidsweg,14,"","",9791DA,Ten Boer
+Nijverheidsweg,14,"","",9791DA,Ten Boer
+Nijverheidsweg,15,"","",9791DA,Ten Boer
+Nijverheidsweg,16,"","",9791DA,Ten Boer
+Nijverheidsweg,17,"","",9791DA,Ten Boer
+Nijverheidsweg,18,"","",9791DA,Ten Boer
+Nijverheidsweg,19,"","",9791DA,Ten Boer
+Nijverheidsweg,2,"","",9791DA,Ten Boer
+Nijverheidsweg,2,B,"",9791DA,Ten Boer
+Nijverheidsweg,3,"","",9791DA,Ten Boer
+Nijverheidsweg,4,"","",9791DA,Ten Boer
+Nijverheidsweg,5,"","",9791DA,Ten Boer
+Nijverheidsweg,6,"","",9791DA,Ten Boer
+Nijverheidsweg,7,"","",9791DA,Ten Boer
+Nijverheidsweg,8,"","",9791DA,Ten Boer
+Nijverheidsweg,9,"","",9791DA,Ten Boer
+2,B,"","",9791DA,
+4,"","","",9791DD,
+20,"","","",9791DD,
+12,"","","",9791DD,
+16,"","","",9791DD,
+2,"","","",9791DD,
+8,"","","",9791DD,
+14,"","","",9791DD,
+18,"","","",9791DD,
+1,"","","",9791DD,
+6,"","","",9791DD,
+10,"","","",9791DD,
+Ambachtsweg,1,"","",9791DD,Ten Boer
+Ambachtsweg,1,A,"",9791DD,Ten Boer
+Ambachtsweg,10,"","",9791DD,Ten Boer
+Ambachtsweg,12,"","",9791DD,Ten Boer
+Ambachtsweg,14,"","",9791DD,Ten Boer
+Ambachtsweg,16,"","",9791DD,Ten Boer
+Ambachtsweg,18,"","",9791DD,Ten Boer
+Ambachtsweg,2,"","",9791DD,Ten Boer
+Ambachtsweg,20,"","",9791DD,Ten Boer
+Ambachtsweg,4,"","",9791DD,Ten Boer
+Ambachtsweg,6,"","",9791DD,Ten Boer
+Ambachtsweg,8,"","",9791DD,Ten Boer
+6,"","","",9791DE,
+8,"","","",9791DE,
+3,"","","",9791DE,
+5,"","","",9791DE,
+6,"","","",9791DE,
+6,"","","",9791DE,
+Bedrijvenweg,3,"","",9791DE,Ten Boer
+Bedrijvenweg,5,"","",9791DE,Ten Boer
+Bedrijvenweg,6,"","",9791DE,Ten Boer
+Bedrijvenweg,6,"","",9791DE,Ten Boer
+Bedrijvenweg,6,A,"",9791DE,Ten Boer
+Bedrijvenweg,6,B,"",9791DE,Ten Boer
+Bedrijvenweg,6,C,"",9791DE,Ten Boer
+Bedrijvenweg,6,D,"",9791DE,Ten Boer
+Bedrijvenweg,6,E,"",9791DE,Ten Boer
+Bedrijvenweg,7,"","",9791DE,Ten Boer
+Bedrijvenweg,8,"","",9791DE,Ten Boer
+6,A,"","",9791DE,
+6,B,"","",9791DE,
+6,C,"","",9791DE,
+6,D,"","",9791DE,
+6,E,"","",9791DE,
+3,"","","",9791DG,
+6,"","","",9791DG,
+15,"","","",9791DG,
+8,"","","",9791DG,
+13,"","","",9791DG,
+10,"","","",9791DG,
+12,"","","",9791DG,
+4,"","","",9791DG,
+1,"","","",9791DG,
+Handelsweg,1,"","",9791DG,Ten Boer
+Handelsweg,10,"","",9791DG,Ten Boer
+Handelsweg,12,"","",9791DG,Ten Boer
+Handelsweg,13,"","",9791DG,Ten Boer
+Handelsweg,15,"","",9791DG,Ten Boer
+Handelsweg,3,"","",9791DG,Ten Boer
+Handelsweg,4,"","",9791DG,Ten Boer
+Handelsweg,6,"","",9791DG,Ten Boer
+Handelsweg,8,"","",9791DG,Ten Boer
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,

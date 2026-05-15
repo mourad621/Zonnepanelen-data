@@ -1,219 +1,106 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9085BZ",27,"",""
-"9085BZ",15,"",""
-"9085BZ",35,"",""
-"9085BZ",25,"",""
-"9085BZ",9,"",""
-"9085BZ",19,"",""
-"9085BZ",11,"",""
-"9085BZ",23,"",""
-"9085BZ",9,"j",""
-"9085BZ",21,"",""
-"9085BZ",9,"",""
-"9085BZ",13,"",""
-"9085BZ",9,"",""
-"9086CA",1,"",""
-"9086CA",3,"",""
-"9086CA",4,"",""
-"9086CB",20,"a",""
-"9086CB",24,"",""
-"9086CB",30,"",""
-"9086CB",16,"",""
-"9086CB",22,"",""
-"9086CB",32,"",""
-"9086CB",6,"",""
-"9086CB",4,"",""
-"9086CB",28,"",""
-"9086CB",8,"",""
-"9086CB",16,"b",""
-"9086CB",20,"",""
-"9086CB",16,"a",""
-"9086CB",18,"",""
-"9086CB",38,"",""
-"9086CB",36,"",""
-"9086CB",26,"",""
-"9086CB",42,"",""
-"9086CB",34,"",""
-"9086CB",10,"",""
-"9086CB",48,"",""
-"9086CB",40,"",""
-"9086CE",2,"c",""
-"9086CE",2,"b",""
-"9086CE",7,"",""
-"9086CE",3,"",""
-"9086CE",1,"",""
-"9086CE",2,"d",""
-"9086CE",2,"a",""
-"9086CE",1,"k",""
-"9086CE",4,"",""
-"9086CE",5,"",""
-"9086CG",18,"",""
-"9086CG",6,"",""
-"9086CG",20,"",""
-"9086CG",8,"",""
-"9086CG",12,"",""
-"9086CG",10,"",""
-"9086CG",14,"",""
-"9086CG",16,"",""
-"9086CH",1,"",""
-"9086CJ",5,"",""
-"9086CJ",4,"",""
-"9086CJ",3,"",""
-"9086CJ",2,"",""
-"9086CJ",6,"",""
-"9086CJ",5,"",""
-"9086CJ",4,"",""
-"9086CJ",6,"",""
-"9086CJ",1,"",""
-"9086CJ",3,"",""
-"9086CJ",1,"",""
-"9086CJ",2,"",""
-"9086CK",15,"",""
-"9086CK",21,"",""
-"9086CK",17,"",""
-"9086CK",13,"",""
-"9086CK",5,"",""
-"9086CK",19,"",""
-"9086CK",9,"",""
-"9086CK",7,"",""
-"9086CK",11,"",""
-"9086CK",1,"",""
-"9086CK",3,"",""
-"9086CL",12,"",""
-"9086CL",8,"",""
-"9086CL",16,"",""
-"9086CL",4,"",""
-"9086CL",6,"",""
-"9086CL",14,"",""
-"9086CL",2,"",""
-"9086CL",10,"",""
-"9086CR",5,"",""
-"9086CR",5,"",""
-"9086CR",11,"",""
-"9086CR",10,"",""
-"9086CR",1,"",""
-"9086CR",1,"",""
-"9086CR",8,"",""
-"9086CR",7,"",""
-"9086CR",3,"",""
-"9086CR",3,"",""
-"9086CR",11,"",""
-"9086CR",6,"",""
-"9086CR",9,"",""
-"9086CR",2,"",""
-"9086CR",9,"",""
-"9086CR",7,"",""
-"9086CR",4,"",""
-9086CA,It Streekje,1,,
-9086CA,It Streekje,4,,
-9086CE,Suderbuorren,1,,
-9086CE,Suderbuorren,7,,
-9086CE,Suderbuorren,2,b,
-9086CE,Suderbuorren,2,a,
-9085BZ,Himpenserdyk,9,,
-9085BZ,Himpenserdyk,11,,
-9085BZ,Himpenserdyk,15,,
-9085BZ,Himpenserdyk,19,,
-9085BZ,Himpenserdyk,23,,
-9085BZ,Himpenserdyk,25,,
-9085BZ,Himpenserdyk,35,,
-9086CK,Reintje Visser-Beardastr,11,,
-9086CK,Reintje Visser-Beardastrjitte,11,,
-9086CK,Reintje Visser-Beardastr,13,,
-9086CK,Reintje Visser-Beardastrjitte,13,,
-9086CK,Reintje Visser-Beardastr,15,,
-9086CK,Reintje Visser-Beardastrjitte,15,,
-9086CK,Reintje Visser-Beardastr,19,,
-9086CK,Reintje Visser-Beardastrjitte,19,,
-9086CR,Godehardusleane,1,,
-9086CR,Godehardusleane,5,,
-9086CR,Godehardusleane,7,,
-9086CB,Skoalledyk,6,,
-9086CB,Skoalledyk,10,,
-9086CB,Skoalledyk,16,,
-9086CB,Skoalledyk,16,b,
-9086CB,Skoalledyk,18,,
-9086CB,Skoalledyk,20,,
-9086CB,Skoalledyk,22,,
-9086CB,Skoalledyk,24,,
-9086CB,Skoalledyk,26,,
-9086CB,Skoalledyk,28,,
-9086CB,Skoalledyk,30,,
-9086CB,Skoalledyk,32,,
-9086CB,Skoalledyk,34,,
-9086CB,Skoalledyk,40,,
-9086CB,Skoalledyk,48,,
-9086CG,It Leechje,12,,
-9086CG,It Leechje,14,,
-9086CG,It Leechje,18,,
-9086CG,It Leechje,20,,
-9086CH,It Leechje,1,,
-9086CE,Suderbuorren,3,,
-9085BZ,Himpenserdyk,9,j,
-9086CR,Godehardusleane,3,,
-9086CR,Godehardusleane,9,,
-9086CB,Skoalledyk,8,,
-9086CL,J.H. van IJsselstrjitte,2,,
-9086CL,J.H. van IJsselstrjitte,6,,
-9086CL,J.H. van IJsselstrjitte,10,,
-9086CE,Suderbuorren,2,d,
-9086CE,Suderbuorren,1,k,
-9086CE,Suderbuorren,2,c,
-9085BZ,Himpenserdyk,13,,
-9085BZ,Himpenserdyk,21,,
-9085BZ,Himpenserdyk,27,,
-9086CK,Reintje Visser-Beardastr,3,,
-9086CK,Reintje Visser-Beardastrjitte,3,,
-9086CB,Skoalledyk,16,a,
-9086CB,Skoalledyk,20,a,
-9086CL,J.H. van IJsselstrjitte,8,,
-9086CL,J.H. van IJsselstrjitte,14,,
-9086CL,J.H. van IJsselstrjitte,16,,
-9086CE,Suderbuorren,4,,
-9086CK,Reintje Visser-Beardastr,9,,
-9086CK,Reintje Visser-Beardastrjitte,9,,
-9086CK,Reintje Visser-Beardastr,5,,
-9086CK,Reintje Visser-Beardastrjitte,5,,
-9086CR,Godehardusleane,11,,
-9086CG,It Leechje,8,,
-9086CG,It Leechje,16,,
-9086CL,J.H. van IJsselstrjitte,4,,
-9086CL,J.H. van IJsselstrjitte,12,,
-9086CA,It Streekje,3,,
-9086CE,Suderbuorren,5,,
-9086CK,Reintje Visser-Beardastr,1,,
-9086CK,Reintje Visser-Beardastrjitte,1,,
-9086CK,Reintje Visser-Beardastr,7,,
-9086CK,Reintje Visser-Beardastrjitte,7,,
-9086CK,Reintje Visser-Beardastr,21,,
-9086CK,Reintje Visser-Beardastrjitte,21,,
-9086CK,Reintje Visser-Beardastr,17,,
-9086CK,Reintje Visser-Beardastrjitte,17,,
-9086CB,Skoalledyk,4,,
-9086CB,Skoalledyk,36,,
-9086CB,Skoalledyk,38,,
-9086CB,Skoalledyk,42,,
-9086CJ,de Leijte,1,,
-9086CJ,de Leijte,1,,
-9086CJ,de Leijte,2,,
-9086CJ,de Leijte,2,,
-9086CJ,de Leijte,3,,
-9086CJ,de Leijte,3,,
-9086CJ,de Leijte,4,,
-9086CJ,de Leijte,4,,
-9086CJ,de Leijte,5,,
-9086CJ,de Leijte,5,,
-9086CJ,de Leijte,6,,
-9086CJ,de Leijte,6,,
-9086CG,It Leechje,6,,
-9086CG,It Leechje,10,,
-9085BZ,Himpenserdyk,9,,
-9086CR,Godehardusleane,2,,
-9086CR,Godehardusleane,4,,
-9086CR,Godehardusleane,6,,
-9086CR,Godehardusleane,8,,
-9086CR,Godehardusleane,10,,
-9086CB,Skoalledyk,26,,
-9086CB,Skoalledyk,28,,
-9086CB,Skoalledyk,30,,
-9086CB,Skoalledyk,32,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+Himpenserdyk,11,"","",9085BZ,Teerns
+Himpenserdyk,13,"","",9085BZ,Teerns
+Himpenserdyk,15,"","",9085BZ,Teerns
+Himpenserdyk,19,"","",9085BZ,Teerns
+Himpenserdyk,21,"","",9085BZ,Teerns
+Himpenserdyk,23,"","",9085BZ,Teerns
+Himpenserdyk,25,"","",9085BZ,Teerns
+Himpenserdyk,27,"","",9085BZ,Teerns
+Himpenserdyk,35,"","",9085BZ,Teerns
+Himpenserdyk,9,"","",9085BZ,Teerns
+Himpenserdyk,9,"","",9085BZ,Teerns
+Himpenserdyk,9,"","",9085BZ,Teerns
+Himpenserdyk,9,J,"",9085BZ,Teerns
+It Streekje,1,"","",9086CA,Hempens
+It Streekje,3,"","",9086CA,Hempens
+It Streekje,4,"","",9086CA,Hempens
+Skoalledyk,10,"","",9086CB,Hempens
+Skoalledyk,16,"","",9086CB,Hempens
+Skoalledyk,16,A,"",9086CB,Hempens
+Skoalledyk,16,B,"",9086CB,Hempens
+Skoalledyk,18,"","",9086CB,Hempens
+Skoalledyk,20,"","",9086CB,Hempens
+Skoalledyk,20,A,"",9086CB,Hempens
+Skoalledyk,22,"","",9086CB,Hempens
+Skoalledyk,24,"","",9086CB,Hempens
+Skoalledyk,26,"","",9086CB,Hempens
+Skoalledyk,28,"","",9086CB,Hempens
+Skoalledyk,30,"","",9086CB,Hempens
+Skoalledyk,32,"","",9086CB,Hempens
+Skoalledyk,34,"","",9086CB,Hempens
+Skoalledyk,36,"","",9086CB,Hempens
+Skoalledyk,38,"","",9086CB,Hempens
+Skoalledyk,4,"","",9086CB,Hempens
+Skoalledyk,40,"","",9086CB,Hempens
+Skoalledyk,42,"","",9086CB,Hempens
+Skoalledyk,48,"","",9086CB,Hempens
+Skoalledyk,6,"","",9086CB,Hempens
+Skoalledyk,8,"","",9086CB,Hempens
+Suderbuorren,1,"","",9086CE,Hempens
+Suderbuorren,1,K,"",9086CE,Hempens
+Suderbuorren,2,A,"",9086CE,Hempens
+Suderbuorren,2,B,"",9086CE,Hempens
+Suderbuorren,2,C,"",9086CE,Hempens
+Suderbuorren,2,D,"",9086CE,Hempens
+Suderbuorren,3,"","",9086CE,Hempens
+Suderbuorren,4,"","",9086CE,Hempens
+Suderbuorren,5,"","",9086CE,Hempens
+Suderbuorren,7,"","",9086CE,Hempens
+It Leechje,10,"","",9086CG,Hempens
+It Leechje,12,"","",9086CG,Hempens
+It Leechje,14,"","",9086CG,Hempens
+It Leechje,16,"","",9086CG,Hempens
+It Leechje,18,"","",9086CG,Hempens
+It Leechje,20,"","",9086CG,Hempens
+It Leechje,6,"","",9086CG,Hempens
+It Leechje,8,"","",9086CG,Hempens
+It Leechje,1,"","",9086CH,Hempens
+de Leijte,1,"","",9086CJ,Hempens
+de Leijte,1,"","",9086CJ,Hempens
+de Leijte,2,"","",9086CJ,Hempens
+de Leijte,2,"","",9086CJ,Hempens
+de Leijte,3,"","",9086CJ,Hempens
+de Leijte,3,"","",9086CJ,Hempens
+de Leijte,4,"","",9086CJ,Hempens
+de Leijte,4,"","",9086CJ,Hempens
+de Leijte,5,"","",9086CJ,Hempens
+de Leijte,5,"","",9086CJ,Hempens
+de Leijte,6,"","",9086CJ,Hempens
+de Leijte,6,"","",9086CJ,Hempens
+Reintje Visser-Beardastr,1,"","",9086CK,Hempens
+Reintje Visser-Beardastr,11,"","",9086CK,Hempens
+Reintje Visser-Beardastr,13,"","",9086CK,Hempens
+Reintje Visser-Beardastr,15,"","",9086CK,Hempens
+Reintje Visser-Beardastr,17,"","",9086CK,Hempens
+Reintje Visser-Beardastr,19,"","",9086CK,Hempens
+Reintje Visser-Beardastr,21,"","",9086CK,Hempens
+Reintje Visser-Beardastr,3,"","",9086CK,Hempens
+Reintje Visser-Beardastr,5,"","",9086CK,Hempens
+Reintje Visser-Beardastr,7,"","",9086CK,Hempens
+Reintje Visser-Beardastr,9,"","",9086CK,Hempens
+J.H. van IJsselstrjitte,10,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,12,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,14,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,16,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,2,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,4,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,6,"","",9086CL,Hempens
+J.H. van IJsselstrjitte,8,"","",9086CL,Hempens
+Godehardusleane,1,"","",9086CR,Hempens
+Godehardusleane,1,"","",9086CR,Hempens
+Godehardusleane,10,"","",9086CR,Hempens
+Godehardusleane,11,"","",9086CR,Hempens
+Godehardusleane,11,"","",9086CR,Hempens
+Godehardusleane,2,"","",9086CR,Hempens
+Godehardusleane,3,"","",9086CR,Hempens
+Godehardusleane,3,"","",9086CR,Hempens
+Godehardusleane,4,"","",9086CR,Hempens
+Godehardusleane,5,"","",9086CR,Hempens
+Godehardusleane,5,"","",9086CR,Hempens
+Godehardusleane,6,"","",9086CR,Hempens
+Godehardusleane,7,"","",9086CR,Hempens
+Godehardusleane,7,"","",9086CR,Hempens
+Godehardusleane,8,"","",9086CR,Hempens
+Godehardusleane,9,"","",9086CR,Hempens
+Godehardusleane,9,"","",9086CR,Hempens

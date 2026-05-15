@@ -1,97 +1,98 @@
-"postcode","huisnummer","huisletter","toevoeging"
-"9792TC",7,"",""
-"9792TC",2,"",""
-"9792TC",2,"A",""
-"9792TC",4,"",""
-"9792TC",3,"",""
-"9792TC",2,"a",""
-"9792TC",13,"",""
-"9792TC",6,"",""
-"9792TC",5,"",""
-"9792TC",11,"",""
-"9792TC",19,"",""
-"9792TC",21,"",""
-"9792TC",1,"",""
-"9792TC",3,"","aa"
-"9792TC",9,"",""
-"9792TC",5,"b",""
-"9792TC",21,"a",""
-"9792TC",23,"",""
-"9792TC",23,"",""
-"9792TC",23,"","aa"
-"9792TC",25,"",""
-"9792TC",23,"",""
-"9792TC",21,"","1"
-"9792TC",21,"I",""
-"9792TC",21,"A",""
-"9792TC",17,"",""
-"9792TC",15,"",""
-"9792TD",14,"",""
-"9792TD",14,"a",""
-"9792TD",14,"",""
-"9792TD",8,"",""
-"9792TD",20,"",""
-"9792TD",3,"",""
-"9792TD",18,"",""
-"9792TD",5,"",""
-"9792TD",16,"",""
-"9792TD",14,"",""
-"9792TD",2,"",""
-"9792TD",4,"",""
-"9792TD",4,"",""
-"9792TE",2,"",""
-"9792TE",4,"",""
-"9792TE",7,"",""
-"9792TE",5,"",""
-"9792TG",5,"",""
-"9792TG",3,"",""
-"9792TG",6,"",""
-"9792TG",4,"",""
-"9792TG",2,"",""
-9792TD,Bloemhofweg,3,,
-9792TD,Bloemhofweg,20,,
-9792TD,Bloemhofweg,5,,
-9792TD,Bloemhofweg,14,,
-9792TD,Bloemhofweg,18,,
-9792TD,Bloemhofweg,2,,
-9792TD,Bloemhofweg,4,,
-9792TD,Bloemhofweg,8,,
-9792TD,Bloemhofweg,16,,
-9792TE,Kerkhorn,2,,
-9792TE,Kerkhorn,7,,
-9792TE,Kerkhorn,5,,
-9792TE,Kerkhorn,4,,
-9792TG,Kloosterlaan,4,,
-9792TG,Kloosterlaan,2,,
-9792TG,Kloosterlaan,3,,
-9792TG,Kloosterlaan,5,,
-9792TG,Kloosterlaan,6,,
-9792TC,Woldjerweg,15,,
-9792TC,Woldjerweg,4,,
-9792TC,Woldjerweg,11,,
-9792TC,Woldjerweg,2,A,
-9792TC,Woldjerweg,2,a,
-9792TC,Woldjerweg,9,,
-9792TC,Woldjerweg,25,,
-9792TC,Woldjerweg,3,,
-9792TC,Woldjerweg,13,,
-9792TC,Woldjerweg,2,,
-9792TC,Woldjerweg,21,A,
-9792TC,Woldjerweg,21,a,
-9792TC,Woldjerweg,7,,
-9792TC,Woldjerweg,6,,
-9792TC,Woldjerweg,17,,
-9792TC,Woldjerweg,23,,
-9792TC,Woldjerweg,1,,
-9792TC,Woldjerweg,19,,
-9792TC,Woldjerweg,5,,
-9792TC,Woldjerweg,21,I,
-9792TC,Woldjerweg,21,,1
-9792TC,Woldjerweg,21,,
-9792TC,Woldjerweg,3,,aa
-9792TC,Woldjerweg,23,,aa
-9792TC,Woldjerweg,5,b,
-9792TC,Woldjerweg,23,,
-9792TD,Bloemhofweg,14,,
-9792TD,Bloemhofweg,14,a,
-9792TD,Bloemhofweg,4,,
+straat,huisnummer,huisletter,toevoeging,postcode,plaats
+7,"","","",9792TC,
+2,"","","",9792TC,
+4,"","","",9792TC,
+3,"","","",9792TC,
+13,"","","",9792TC,
+6,"","","",9792TC,
+5,"","","",9792TC,
+11,"","","",9792TC,
+19,"","","",9792TC,
+21,"","","",9792TC,
+1,"","","",9792TC,
+9,"","","",9792TC,
+23,"","","",9792TC,
+23,"","","",9792TC,
+25,"","","",9792TC,
+23,"","","",9792TC,
+17,"","","",9792TC,
+15,"","","",9792TC,
+21,"",1,"",9792TC,
+3,"",AA,"",9792TC,
+23,"",AA,"",9792TC,
+Woldjerweg,1,"","",9792TC,Ten Post
+Woldjerweg,11,"","",9792TC,Ten Post
+Woldjerweg,13,"","",9792TC,Ten Post
+Woldjerweg,15,"","",9792TC,Ten Post
+Woldjerweg,17,"","",9792TC,Ten Post
+Woldjerweg,19,"","",9792TC,Ten Post
+Woldjerweg,2,"","",9792TC,Ten Post
+Woldjerweg,2,A,"",9792TC,Ten Post
+Woldjerweg,2,A,"",9792TC,Ten Post
+Woldjerweg,21,"","",9792TC,Ten Post
+Woldjerweg,21,"",1,9792TC,Ten Post
+Woldjerweg,21,A,"",9792TC,Ten Post
+Woldjerweg,21,A,"",9792TC,Ten Post
+Woldjerweg,21,I,"",9792TC,Ten Post
+Woldjerweg,23,"","",9792TC,Ten Post
+Woldjerweg,23,"","",9792TC,Ten Post
+Woldjerweg,23,"",AA,9792TC,Ten Post
+Woldjerweg,25,"","",9792TC,Ten Post
+Woldjerweg,3,"","",9792TC,Ten Post
+Woldjerweg,3,"",AA,9792TC,Ten Post
+Woldjerweg,4,"","",9792TC,Ten Post
+Woldjerweg,5,"","",9792TC,Ten Post
+Woldjerweg,5,B,"",9792TC,Ten Post
+Woldjerweg,6,"","",9792TC,Ten Post
+Woldjerweg,7,"","",9792TC,Ten Post
+Woldjerweg,9,"","",9792TC,Ten Post
+2,A,"","",9792TC,
+2,A,"","",9792TC,
+21,A,"","",9792TC,
+21,A,"","",9792TC,
+5,B,"","",9792TC,
+21,I,"","",9792TC,
+14,"","","",9792TD,
+14,"","","",9792TD,
+8,"","","",9792TD,
+20,"","","",9792TD,
+3,"","","",9792TD,
+18,"","","",9792TD,
+5,"","","",9792TD,
+16,"","","",9792TD,
+14,"","","",9792TD,
+2,"","","",9792TD,
+4,"","","",9792TD,
+4,"","","",9792TD,
+Bloemhofweg,14,"","",9792TD,Ten Post
+Bloemhofweg,14,"","",9792TD,Ten Post
+Bloemhofweg,14,A,"",9792TD,Ten Post
+Bloemhofweg,16,"","",9792TD,Ten Post
+Bloemhofweg,18,"","",9792TD,Ten Post
+Bloemhofweg,2,"","",9792TD,Ten Post
+Bloemhofweg,20,"","",9792TD,Ten Post
+Bloemhofweg,3,"","",9792TD,Ten Post
+Bloemhofweg,4,"","",9792TD,Ten Post
+Bloemhofweg,4,"","",9792TD,Ten Post
+Bloemhofweg,5,"","",9792TD,Ten Post
+Bloemhofweg,8,"","",9792TD,Ten Post
+14,A,"","",9792TD,
+2,"","","",9792TE,
+4,"","","",9792TE,
+7,"","","",9792TE,
+5,"","","",9792TE,
+Kerkhorn,2,"","",9792TE,Ten Post
+Kerkhorn,4,"","",9792TE,Ten Post
+Kerkhorn,5,"","",9792TE,Ten Post
+Kerkhorn,7,"","",9792TE,Ten Post
+5,"","","",9792TG,
+3,"","","",9792TG,
+6,"","","",9792TG,
+4,"","","",9792TG,
+2,"","","",9792TG,
+Kloosterlaan,2,"","",9792TG,Ten Post
+Kloosterlaan,3,"","",9792TG,Ten Post
+Kloosterlaan,4,"","",9792TG,Ten Post
+Kloosterlaan,5,"","",9792TG,Ten Post
+Kloosterlaan,6,"","",9792TG,Ten Post
+huisnummer,HUISLETTER,TOEVOEGING,"",POSTCODE,
